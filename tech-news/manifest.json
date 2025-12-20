@@ -1,7 +1,159 @@
 {
-  "generated": "2025-12-20T08:41:52.708357+00:00",
+  "generated": "2025-12-20T12:52:50.217048+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Uvnitř OpenAI: ‚code red‘",
+      "description": "Tým technologie magazínu Fortune nedávno prozkoumal, co se děje v zákulisí OpenAI.",
+      "slug": "inside-openais-code-red",
+      "publishedAt": "2025-12-19T12:21:59+00:00",
+      "date": "2025-12-19 12:21:59",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2236933448-e1765906578456.jpg?resize=1200,600",
+      "url": "/tech-news/2025-12-19/inside-openais-code-red/",
+      "source": {
+        "emoji": "📰",
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Mac Studio 2026 od Apple: Očekávaná aktualizace desktopového počítače",
+      "description": "Vysoce očekávaný Mac Studio 2026 od Apple by měl být představen na WWDC 2026. Tato nová verze přináší čipy M5 Max a M5 Ultra s významnými zlepšeními v výkonu CPU i GPU.",
+      "slug": "apples-mac-studio-2026-the-desktop-revolution-youv",
+      "publishedAt": "2025-12-19T12:00:59+00:00",
+      "date": "2025-12-19 12:00:59",
+      "importance": 4,
+      "category": "hardware",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/mac-studio-2026-m5-ultra-performance_optimized.jpg",
+      "url": "/tech-news/2025-12-19/apples-mac-studio-2026-the-desktop-revolution-youv/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Fúze Netflixu a Warner Bros. je širokým útokem na pracovníky",
+      "description": "Cílem každého monopolu je vytvořit tak mocnou entitu, která určuje podmínky v celém průmyslu a nechává spotřebitele i pracovníky bez volby. Článek z The Intercept upozorňuje na rizika pro zaměstnance v zábavním sektoru.",
+      "slug": "the-netflixwarner-bros-merger-is-a-broadside-attac",
+      "publishedAt": "2025-12-19T12:00:00+00:00",
+      "date": "2025-12-19 12:00:00",
+      "importance": 5,
+      "category": "mediální fúze",
+      "urlToImage": "https://theintercept.com/wp-content/uploads/2025/12/AP25352674579654.jpg?fit=2429%2C1620&w=1200&h=800",
+      "url": "/tech-news/2025-12-19/the-netflixwarner-bros-merger-is-a-broadside-attac/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Intercept"
+      },
+      "companies": [
+        "Netflix"
+      ],
+      "people": []
+    },
+    {
+      "title": "Navzdory obrovským investicím TSMC USA nedostane nejpokročilejší čipy, což zpochybňuje snahy o odolný dodavatelský řetězec",
+      "description": "TSMC masivně investuje do závodů v USA, ale taiwanské zákony brání přenosu nejpokročilejších výrobních technologií. Podle pravidla 'N-2' budou americké továrny o dvě generace pozadu za tchajwanskými, což ohrožuje cíle USA na nezávislost v polovodičích.",
+      "slug": "despite-tsmcs-gigantic-investments-the-us-still-wo",
+      "publishedAt": "2025-12-19T11:48:41+00:00",
+      "date": "2025-12-19 11:48:41",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/04/TSMC.jpg",
+      "url": "/tech-news/2025-12-19/despite-tsmcs-gigantic-investments-the-us-still-wo/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Wccftech"
+      },
+      "companies": [
+        "TSMC"
+      ],
+      "people": []
+    },
+    {
+      "title": "Čínský „nemožný“ průlom v EUV litografii a dopady na globální rovnováhu v AI",
+      "description": "Čína vyvinula prototyp EUV lithografického stroje, což ohrožuje monopol holandské firmy ASML a americké exportní kontroly. Tento pokrok umožní domácí výrobu pokročilých čipů pro AI systémy a urychlí čínskou nezávislost v polovodičovém průmyslu.",
+      "slug": "inside-chinas-impossible-ai-breakthrough-what-it-m",
+      "publishedAt": "2025-12-19T11:39:49+00:00",
+      "date": "2025-12-19 11:39:49",
+      "importance": 5,
+      "category": "euv litografie",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/ex-asml-engineers-chinese-euv-effort_optimized.jpg",
+      "url": "/tech-news/2025-12-19/inside-chinas-impossible-ai-breakthrough-what-it-m/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Redakce přijmou některé AI-generované obrázky",
+      "description": "V posledních týdnech roku 2025 se sociální sítě zaplavily diskuzemi o konci fotografické pravdy kvůli novému nástroji Google Nano Banana Pro (Gemini 3 Pro Image). Historik fotografie predikuje, že redakce v roce 2026 omezeně přijmou AI-generované obrázky v oblastech, kde není vyžadována přesná dokumentace událostí.",
+      "slug": "newsrooms-will-embrace-some-ai-generated-imagery",
+      "publishedAt": "2025-12-19T11:18:31+00:00",
+      "date": "2025-12-19 11:18:31",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.niemanlab.org/images/annie-rudd-2025.jpg",
+      "url": "/tech-news/2025-12-19/newsrooms-will-embrace-some-ai-generated-imagery/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Niemanlab.org"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Aktualizace Gemini 3 pro hloubkový výzkum s vizuálními prvky je zavedena: Snadno vytváří vizuály",
+      "description": "Nejnovější aktualizace Gemini AI umožňuje rychlou transformaci složitých dat do vizuálně přehledných grafů a reportů. Tato funkce posiluje analýzu dat, ale je dostupná pouze v ultra plánu a postrádá některé pokročilé prvky jako interaktivní simulace.",
+      "slug": "gemini-3-deep-research-visuals-update-rolls-out-ea",
+      "publishedAt": "2025-12-19T11:15:24+00:00",
+      "date": "2025-12-19 11:15:24",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/ai-tool-report-compare-gemini-chatgpt_optimized.jpg",
+      "url": "/tech-news/2025-12-19/gemini-3-deep-research-visuals-update-rolls-out-ea/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Ruská obranná firmy v cívi hackerů využívajících AI a další taktiky",
+      "description": "Ruské technologické společnosti zabývající se protivzdušnou obranou, citlivou elektronikou a dalšími obrannými aplikacemi byly v posledních týdnech cílem kyberespionážní skupiny, která použila AI-generované návnadné dokumenty. Objev firmy Intezer ukazuje, jak snadno lze AI nástroje zapojit do vysoce rizikových operací.",
+      "slug": "russian-defense-firms-targeted-by-hackers-using-ai",
+      "publishedAt": "2025-12-19T11:05:43+00:00",
+      "date": "2025-12-19 11:05:43",
+      "importance": 4,
+      "category": "kybernetika",
+      "urlToImage": "https://media.zenfs.com/en/reuters.com/b8acb86127ebba5617fe16fa8ce2f930",
+      "url": "/tech-news/2025-12-19/russian-defense-firms-targeted-by-hackers-using-ai/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "USA zkoumají export čipů Nvidia H200 do Číny kvůli rostoucím rizikům",
       "description": "Administrativa Donalda Trumpa zahájila mezirezortní přezkoumání k určení, zda povolit první exporty čipů Nvidia H200 pro umělou inteligenci do Číny. Podle agentury Reuters by tento krok mohl představovat významný posun v americké exportní politice technologií.",
@@ -3664,24 +3816,6 @@
       "people": []
     },
     {
-      "title": "Uvnitř AI útoků na SaaS: proč je identita nejslabším článkem",
-      "description": "Bezpečnost SaaS selhává ne na okraji sítě – útoky založené na AI, které zneužívají identity, ji obcházejí úplně. Podle zprávy AppOmni zažilo 75 % organizací incident související se SaaS.",
-      "slug": "inside-the-ai-powered-assault-on-saas-why-identity",
-      "publishedAt": "2025-12-14T15:00:00+00:00",
-      "date": "2025-12-14 15:00:00",
-      "importance": 4,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/JFKDCP2HdEKqSGJCkLNprB-1100-80.jpg",
-      "url": "/tech-news/2025-12-14/inside-the-ai-powered-assault-on-saas-why-identity/",
-      "source": {
-        "emoji": "📰",
-        "id": "techradar",
-        "name": "TechRadar"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Je IBM nejlepší technologickou akcií k nákupu pro rok 2026?",
       "description": "Oživení IBM poháněné kvantovými počítači by mohlo připravit půdu pro jeden z největších comebacků v technologickém sektoru. Je nyní vhodný čas vstoupit?",
       "slug": "is-ibm-the-top-tech-stock-to-buy-for-2026",
@@ -3698,26 +3832,6 @@
       },
       "companies": [
         "IBM"
-      ],
-      "people": []
-    },
-    {
-      "title": "Google Translate nyní rozumí slangům, rčím a mluví přímo přes sluchátka",
-      "description": "Aktualizace se již zavádí v USA a Indii a pokrývá překlady mezi angličtinou a téměř 20 jazyky, včetně španělštiny, hindštiny, čínštiny, japonštiny a němčiny. Je dostupná v aplikaci Translate pro Android a iOS i na webu.",
-      "slug": "google-translate-now-understands-slang-sayings-and",
-      "publishedAt": "2025-12-14T10:23:55+00:00",
-      "date": "2025-12-14 10:23:55",
-      "importance": 4,
-      "category": "překladače",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-20542,resizemode-75,msid-125960289/tech/technology/google-translate-now-understands-slang-sayings-can-talk-through-your-headphones.jpg",
-      "url": "/tech-news/2025-12-14/google-translate-now-understands-slang-sayings-and/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Google"
       ],
       "people": []
     },
@@ -3762,44 +3876,6 @@
       "companies": [
         "Meta"
       ],
-      "people": []
-    },
-    {
-      "title": "Prodalo Disney svou duši dohodou s OpenAI o Soru?",
-      "description": "Disney uzavřelo tříletou licenci s OpenAI, která umožní uživatelům Sora generovat videa s více než 200 postavami z Disney, Marvel, Pixar a Star Wars. Tento krok následuje po ústupcích OpenAI kvůli stížnostem na zneužití autorských práv.",
-      "slug": "has-disney-sold-its-soul-in-deal-with-openais-sora",
-      "publishedAt": "2025-12-14T08:00:00+00:00",
-      "date": "2025-12-14 08:00:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/VT57Xpu5ho3w3P7JT7dV3V-1000-80.jpg",
-      "url": "/tech-news/2025-12-14/has-disney-sold-its-soul-in-deal-with-openais-sora/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Creative Bloq"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Poprvé analyzuje umělá inteligence jazyk na úrovni lidského experta",
-      "description": "Pokud je jazyk tím, co nás dělá lidmi, co to znamená nyní, když velké jazykové modely získaly metajazykové schopnosti?",
-      "slug": "for-the-first-time-ai-analyzes-language-as-well-as",
-      "publishedAt": "2025-12-14T07:00:00+00:00",
-      "date": "2025-12-14 07:00:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://media.wired.com/photos/69380ff2c2102f279da71d1b/191:100/w_1280,c_limit/Metalinguistics-cr-Robert-Neubecker-Lede.jpeg",
-      "url": "/tech-news/2025-12-14/for-the-first-time-ai-analyzes-language-as-well-as/",
-      "source": {
-        "emoji": "🔧",
-        "id": "wired",
-        "name": "Wired"
-      },
-      "companies": [],
       "people": []
     },
     {
@@ -3861,26 +3937,6 @@
       "people": []
     },
     {
-      "title": "Hollywood přijímá umělou inteligenci: Disney investuje miliardu dolarů do OpenAI",
-      "description": "Disney investuje 1 miliardu dolarů do OpenAI a uzavírá tříletou licenční smlouvu, která poskytuje platformě Sora přístup k více než 200 postavám z Disney, Marvel, Pixar a Star Wars. Fanoušci mohou generovat krátké filmy poháněné AI s ikonickými postavami, bez použití podobnosti nebo hlasů herců.",
-      "slug": "hollywood-embraces-ai-disney-bets-1-billion-on-ope",
-      "publishedAt": "2025-12-14T06:00:00+00:00",
-      "date": "2025-12-14 06:00:00",
-      "importance": 5,
-      "category": "ai",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/12/Mickey-And-Minnie-Mouse-Wave-Disneyland.jpg",
-      "url": "/tech-news/2025-12-14/hollywood-embraces-ai-disney-bets-1-billion-on-ope/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
       "title": "WGA se obává, že licence Disney s OpenAI 'schválí' krádež naší práce",
       "description": "Sdružení amerických scenáristů (WGA) vyjádřilo obavy, že nedávná licenční dohoda Disney s OpenAI schválí 'krádež naší práce'. Gilda kritizuje Disney za předání hodnoty jejich tvorby technologické firmě, která podle nich budovala svůj byznys na jejich zádech.",
       "slug": "wga-fears-disneys-licensing-with-openai-will-sanct",
@@ -3922,26 +3978,6 @@
       "people": []
     },
     {
-      "title": "Google ohrožuje pracovní místa v zákaznickém servisu díky AI",
-      "description": "API Gemini Live od Google není jen dalším nástrojem pro podporu zákazníků, ale přímou náhradou za lidské pracovníky v masovém měřítku. Kombinuje hlas, vidění a text v reálném čase s nízkou latencí a emoční inteligencí, což firmám umožňuje eliminovat velké části základní podpory.",
-      "slug": "google-is-killing-customer-service-jobs-with-ai",
-      "publishedAt": "2025-12-14T04:12:57+00:00",
-      "date": "2025-12-14 04:12:57",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-14/google-is-killing-customer-service-jobs-with-ai/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
       "title": "Top 10 kyberbezpečnostních incidentů roku 2025",
       "description": "Shrnutí nejvýznamnějších kybernetických incidentů roku 2025 zahrnuje rekordní útoky s dosud neviděnými ekonomickými dopady, jako 1,9 miliardy liber škod britské ekonomice z útoku na Jaguar Land Rover nebo DDoS útok o síle 29,7 Tbps.",
       "slug": "top-10-cybersecurity-incidents-of-2025",
@@ -3958,46 +3994,6 @@
       },
       "companies": [],
       "people": []
-    },
-    {
-      "title": "Hong Kong a Indie pohánějí rekordní rok pro sběr kapitálu v Asii",
-      "description": "Před nedávnem byl hongkongský trh s akciemi symbolem zpomalení Číny: objednávky byly slabé, nálada investorů negativní a bankéři odcházeli z oboru. Letos se situace zcela obrátila.",
-      "slug": "hong-kong-india-fuel-blockbuster-year-for-asia-fun",
-      "publishedAt": "2025-12-14T03:24:24+00:00",
-      "date": "2025-12-14 03:24:24",
-      "importance": 4,
-      "category": "akciový trh",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2025/12/14/1600x900/logo/arrow_1765681976759_1765681977003.jpg",
-      "url": "/tech-news/2025-12-14/hong-kong-india-fuel-blockbuster-year-for-asia-fun/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Livemint"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Čína odmítá čipy Nvidia H200 a podkopává strategii USA, říká Sacks",
-      "description": "Čína prokoukla americkou strategii umožňující dovoz čipů Nvidia H200 a odmítá je ve prospěch domácích polovodičů, uvedl David Sacks z Bílého domu s odkazem na zprávy. To zpochybňuje možnosti Nvidie získat příjmy z čínského trhu.",
-      "slug": "china-is-rejecting-nvidias-h200-chips-outfoxing-us",
-      "publishedAt": "2025-12-14T02:22:05+00:00",
-      "date": "2025-12-14 02:22:05",
-      "importance": 4,
-      "category": "ai čipy",
-      "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-12-14%2Faxodblfs%2F445893721.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
-      "url": "/tech-news/2025-12-14/china-is-rejecting-nvidias-h200-chips-outfoxing-us/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Ndtvprofit.com"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": [
-        "David Sacks"
-      ]
     },
     {
       "title": "SpaceX má hodnotu 800 miliard dolarů, tvrdí zpráva. To je teprve začátek.",
