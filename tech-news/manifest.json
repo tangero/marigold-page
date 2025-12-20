@@ -1,7 +1,129 @@
 {
-  "generated": "2025-12-20T16:43:34.861814+00:00",
+  "generated": "2025-12-20T20:40:51.042400+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Truth Social Donalda Trumpa se sloučí s startupem na fúzní energii, který jste pravděpodobně neslyšeli",
+      "description": "Společnost Trump Media & Technology Group Corp., mateřská firma sociální sítě Truth Social, oznámila plánované sloučení s TAE Technologies. V rámci dohody poskytne TMTG startupu 300 milionů dolarů na stavbu 50megawattové komerční fúzní elektrárny.",
+      "slug": "trumps-truth-social-to-merge-with-fusion-startup-y",
+      "publishedAt": "2025-12-19T20:06:58+00:00",
+      "date": "2025-12-19 20:06:58",
+      "importance": 5,
+      "category": "jaderná fúze",
+      "urlToImage": "https://sm.pcmag.com/t/pcmag_uk/news/t/trumps-tru/trumps-truth-social-to-merge-with-fusion-startup-youve-proba_19dp.1200.jpg",
+      "url": "/tech-news/2025-12-19/trumps-truth-social-to-merge-with-fusion-startup-y/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "PCMag.com"
+      },
+      "companies": [
+        "Trump Media & Technology Group Corp",
+        "TAE Technologies"
+      ],
+      "people": [
+        "Donald Trump"
+      ]
+    },
+    {
+      "title": "Pokroky v AI, nejpokročilejší brýle a další: Hlavní události Meta v roce 2025",
+      "description": "Meta shrnuje klíčové momenty roku 2025, včetně vize osobní superinteligence, nové aplikace AI, výzkumných modelů a rozvoje datových center. Zaměřuje se na inovace v umělé inteligenci a infrastruktuře.",
+      "slug": "ai-breakthroughs-our-most-advanced-glasses-and-mor",
+      "publishedAt": "2025-12-19T20:00:59+00:00",
+      "date": "2025-12-19 20:00:59",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://about.fb.com/wp-content/uploads/2025/12/2025-Meta-Highlights_Social-Share.jpg?w=1200",
+      "url": "/tech-news/2025-12-19/ai-breakthroughs-our-most-advanced-glasses-and-mor/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Fb.com"
+      },
+      "companies": [
+        "Meta"
+      ],
+      "people": []
+    },
+    {
+      "title": "Regulátoři v Georgii schválili obrovské zvýšení kapacity výroby elektřiny pro datová centra",
+      "description": "Jediná soukromá energetická společnost v Georgii získala jednomyslné schválení regulátorů pro navýšení kapacity o 50 % kvůli poptávce z datových center. Projekt za 16,3 miliardy dolarů by měl uspokojit rostoucí energetické nároky vývojářů umělé inteligence a patří mezi největší v USA.",
+      "slug": "georgia-regulators-approve-huge-electric-generatio",
+      "publishedAt": "2025-12-19T19:58:10+00:00",
+      "date": "2025-12-19 19:58:10",
+      "importance": 4,
+      "category": "datová centra",
+      "urlToImage": null,
+      "url": "/tech-news/2025-12-19/georgia-regulators-approve-huge-electric-generatio/",
+      "source": {
+        "emoji": "📰",
+        "id": "financial-post",
+        "name": "Financial Post"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Yann LeCun potvrzuje svůj nový startup na 'world model', údajně hledá valuaci přes 5 miliard dolarů | TechCrunch",
+      "description": "Známý vědec v oblasti umělé inteligence Yann LeCun ve čtvrtek potvrdil spuštění nového startupu Advanced Machine Intelligence (AMI Labs), zaměřeného na modely světa. Nechce však firmu řídit jako generální ředitel, funkci přebírá Alex LeBrun z lékařského AI startupu Nabla.",
+      "slug": "yann-lecun-confirms-his-new-world-model-startup-re",
+      "publishedAt": "2025-12-19T19:24:11+00:00",
+      "date": "2025-12-19 19:24:11",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-1691376215.jpg?w=1024",
+      "url": "/tech-news/2025-12-19/yann-lecun-confirms-his-new-world-model-startup-re/",
+      "source": {
+        "emoji": "🚀",
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "companies": [],
+      "people": [
+        "Yann LeCun"
+      ]
+    },
+    {
+      "title": "Jaderná elektrárna Three Mile Island ožívá s miliardovou federální podporou kvůli rostoucí poptávce po energii",
+      "description": "Microsoft a Constellation Energy plánují restart dlouho odstaveného jaderného reaktoru na Three Mile Island v Pensylvánii s podporou 1 miliardy dolarů federální půjčky. Pořad Fox News „The Faulkner Focus“ získal exkluzivní přístup do zařízení během příprav.",
+      "slug": "three-mile-island-nuclear-plant-makes-comeback-wit",
+      "publishedAt": "2025-12-19T19:19:18+00:00",
+      "date": "2025-12-19 19:19:18",
+      "importance": 4,
+      "category": "jaderná energie",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/12/faulkner-three-mile-island-tour-fox-news.jpg",
+      "url": "/tech-news/2025-12-19/three-mile-island-nuclear-plant-makes-comeback-wit/",
+      "source": {
+        "emoji": "📰",
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Nový projekt Sama Altmana v oblasti rozhraní mozek-počítač: Merge Labs vznikne z neziskovky",
+      "description": "Startup Merge Labs, zaměřený na čtení mozkové aktivity ultrazvukem, se oddělí od losangeleské neziskovky Forest Neurotech. Mezi zakladateli je Sam Altman, CEO OpenAI, spolu s vedením neziskovky a dalšími klíčovými osobami.",
+      "slug": "sam-altmans-new-brain-venture-merge-labs-will-spin",
+      "publishedAt": "2025-12-19T19:03:11+00:00",
+      "date": "2025-12-19 19:03:11",
+      "importance": 4,
+      "category": "neurotechnologie",
+      "urlToImage": "https://media.wired.com/photos/6943154b8d14fbb0ba136394/191:100/w_1280,c_limit/GettyImages-1255236646.jpg",
+      "url": "/tech-news/2025-12-19/sam-altmans-new-brain-venture-merge-labs-will-spin/",
+      "source": {
+        "emoji": "🔧",
+        "id": "wired",
+        "name": "Wired"
+      },
+      "companies": [
+        "Merge Labs",
+        "Forest Neurotech"
+      ],
+      "people": [
+        "Sam Altman"
+      ]
+    },
     {
       "title": "V roce 2026 konečně přichází: Unikly informace o 32palcovém iMac Pro",
       "description": "Apple se vrací na trh high-end all-in-one počítačů s iMac Pro 2026 poháněným čipem M5 Max. Tento model slibuje vysoký výkon, tenký design a funkce pro profesionály, s vydáním plánovaným na podzim 2026.",
@@ -3879,65 +4001,6 @@
       "people": []
     },
     {
-      "title": "Boom umělé inteligence tlačí datová centra za termální zeď",
-      "description": "Hyperskalární provozovatelé spěšně nasazují výkonnější infrastrukturu pro AI, což testuje termální limity tradičních datových center a zvyšuje poptávku po pokročilých chladicích technologiích. Podle zprávy společnosti Verified Market dochází k masivnímu růstu tohoto trhu.",
-      "slug": "the-ai-boom-is-pushing-data-centers-past-the-therm",
-      "publishedAt": "2025-12-14T18:00:00+00:00",
-      "date": "2025-12-14 18:00:00",
-      "importance": 4,
-      "category": "datová centra",
-      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2025-12-12_6n87bbkncv.jpg",
-      "url": "/tech-news/2025-12-14/the-ai-boom-is-pushing-data-centers-past-the-therm/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "OilPrice.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Soutěž Nvidia Blackwell proti Google TPU – klíčový souboj AI hardware v roce 2026",
-      "description": "Analytici 24/7 Wall St. v podcastu The AI Investor rozebrali konkurenční dynamiku mezi specializovanými čipy TPU od Google a univerzálními GPU od Nvidia, které nyní dominují v AI výpočtech. TPUs nabízejí vyšší energetickou úspornost a nižší celkové náklady, což by mohlo změnit trh, pokud je Google začne prodávat externě.",
-      "slug": "the-nvidia-blackwell-vs-google-tpu-battle-explaine",
-      "publishedAt": "2025-12-14T15:40:32+00:00",
-      "date": "2025-12-14 15:40:32",
-      "importance": 4,
-      "category": "ai hardware",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/epauqRUKPUiF9JFOIgmPNA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/24_7_wall_st__718/922d386a45e87d5abeaf1867b5b43001",
-      "url": "/tech-news/2025-12-14/the-nvidia-blackwell-vs-google-tpu-battle-explaine/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "24/7 Wall St."
-      },
-      "companies": [
-        "Nvidia",
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Uživatelé obviňují OpenAI, že zkazil Sora 2. EOSHD prošetřuje, co se stalo",
-      "description": "Po vydání Sora 2 pouze na pozvání byly výsledky působivé a vyvolaly nadšení. Systém však pod zátěží zkolaboval, OpenAI ho výrazně omezil bez oznámení a kvalita generovaných videí dramaticky klesla.",
-      "slug": "users-are-complaining-openai-wreaked-sora-2-eoshd-",
-      "publishedAt": "2025-12-14T06:30:12+00:00",
-      "date": "2025-12-14 06:30:12",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.eoshd.com/wp-content/uploads/2025/12/sora.jpg",
-      "url": "/tech-news/2025-12-14/users-are-complaining-openai-wreaked-sora-2-eoshd/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Eoshd.com"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
       "title": "S druhými nejlepšími AI čipy Nvidia směřujícími do Číny se USA mění priority z bezpečnosti na obchod",
       "description": "USA povolily Nvidia prodávat výkonné AI čipy H200 do Číny výměnou za 25 procent zisku. Tato změna oslabuje exportní kontroly a může posílit vývoj AI systémů pro autonomní zbraně. Spojenci jako Austrálie čelí dilematu mezi ekonomickými vazbami na Čínu a bezpečnostními závazky vůči USA.",
       "slug": "with-nvidias-second-best-ai-chips-headed-for-china",
@@ -3976,67 +4039,6 @@
         "OpenAI"
       ],
       "people": []
-    },
-    {
-      "title": "Top 10 kyberbezpečnostních incidentů roku 2025",
-      "description": "Shrnutí nejvýznamnějších kybernetických incidentů roku 2025 zahrnuje rekordní útoky s dosud neviděnými ekonomickými dopady, jako 1,9 miliardy liber škod britské ekonomice z útoku na Jaguar Land Rover nebo DDoS útok o síle 29,7 Tbps.",
-      "slug": "top-10-cybersecurity-incidents-of-2025",
-      "publishedAt": "2025-12-14T04:00:00+00:00",
-      "date": "2025-12-14 04:00:00",
-      "importance": 5,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://bitrebels.com/wp-content/uploads/2025/12/man-in-black-jacket-using-computer-optimized.jpg",
-      "url": "/tech-news/2025-12-14/top-10-cybersecurity-incidents-of-2025/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Bitrebels.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "SpaceX má hodnotu 800 miliard dolarů, tvrdí zpráva. To je teprve začátek.",
-      "description": "Sekundární nabídka akcií SpaceX, která poskytuje likviditu insiderům, ohodnotila raketovou společnost na 800 miliard dolarů podle Bloombergu. Tato valuace překonává OpenAI i mateřskou firmu TikToku ByteDance.",
-      "slug": "spacex-is-worth-800-billion-report-says-this-is-on",
-      "publishedAt": "2025-12-14T02:01:58+00:00",
-      "date": "2025-12-14 02:01:58",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2025/12/14/1600x900/logo/SPACEX-IPO-MUSK-0_1765677629506_1765677639066.JPG",
-      "url": "/tech-news/2025-12-14/spacex-is-worth-800-billion-report-says-this-is-on/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Livemint"
-      },
-      "companies": [
-        "SpaceX"
-      ],
-      "people": []
-    },
-    {
-      "title": "Trump nabízí čipy Si Ťin-pchingovi: Proč umožňuje protivníkovi přístup k pokročilým AI polovodičům – a co za to dostane?",
-      "description": "Prezident Trump oznámil, že Nvidia smí prodávat svůj čip H200 do Číny, přičemž americké ministerstvo financí obdrží 25procentní podíl z prodejů. Toto rozhodnutí kontrastuje s jeho dřívější tvrdou linií vůči Číně v oblasti obchodu a bezpečnosti.",
-      "slug": "trump-says-chips-ahoy-to-xi-jinping-why-is-he-givi",
-      "publishedAt": "2025-12-14T00:00:00+00:00",
-      "date": "2025-12-14 00:00:00",
-      "importance": 4,
-      "category": "ai čipy",
-      "urlToImage": "https://www.hoover.org/sites/default/files/styles/facebook/public/1_2/1/motherboard_shutterstock_116443600.jpg?itok=d9Ln2b6x",
-      "url": "/tech-news/2025-12-14/trump-says-chips-ahoy-to-xi-jinping-why-is-he-givi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Hoover.org"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": [
-        "Donald Trump",
-        "Xi Jinping"
-      ]
     }
   ]
 }
