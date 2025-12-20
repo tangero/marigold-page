@@ -1,7 +1,148 @@
 {
-  "generated": "2025-12-20T12:52:50.217048+00:00",
+  "generated": "2025-12-20T16:43:34.861814+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "V roce 2026 konečně přichází: Unikly informace o 32palcovém iMac Pro",
+      "description": "Apple se vrací na trh high-end all-in-one počítačů s iMac Pro 2026 poháněným čipem M5 Max. Tento model slibuje vysoký výkon, tenký design a funkce pro profesionály, s vydáním plánovaným na podzim 2026.",
+      "slug": "its-finally-happening-in-2026-the-32-imac-pro-leak",
+      "publishedAt": "2025-12-19T16:00:06+00:00",
+      "date": "2025-12-19 16:00:06",
+      "importance": 4,
+      "category": "hardware",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/M5-Mac-Pro.jpg",
+      "url": "/tech-news/2025-12-19/its-finally-happening-in-2026-the-32-imac-pro-leak/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "40 užitečných tipů pro umělou inteligenci od Google z roku 2025",
+      "description": "Článek shrnuje klíčové tipy pro využití nových AI nástrojů Google z roku 2025. Ilustrace s tmavým motivem zobrazuje tři osoby interagující s technologiemi obklopené ikonami produktů v kategorii AI.",
+      "slug": "A-40-of-our-most-helpful-ai-tips-from-2025",
+      "publishedAt": "2025-12-19T16:00:00+00:00",
+      "date": "2025-12-19 16:00:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Tips_ss.width-1300.png",
+      "url": "/tech-news/2025-12-19/A-40-of-our-most-helpful-ai-tips-from-2025/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Blog.google"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "OpenAI získává 100 miliard dolarů při valuaci přibližně 750 miliard",
+      "description": "OpenAI vede předběžná jednání s Amazonem o investici přes 10 miliard dolarů včetně využití Trainium čipů od Amazon Web Services pro trénink AI modelů. Jedná se o samostatnou rundu získávání až 100 miliard dolarů při valuaci 830 miliard, což je nárůst o 66 procent oproti říjnovým 500 miliardám.",
+      "slug": "openai-raising-100-billion-at-about-750-billion-va",
+      "publishedAt": "2025-12-19T15:34:11+00:00",
+      "date": "2025-12-19 15:34:11",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2025/12/openairev.jpg",
+      "url": "/tech-news/2025-12-19/openai-raising-100-billion-at-about-750-billion-va/",
+      "source": {
+        "emoji": "📰",
+        "id": "next-big-future",
+        "name": "Next Big Future"
+      },
+      "companies": [
+        "OpenAI",
+        "Amazon"
+      ],
+      "people": []
+    },
+    {
+      "title": "Růst akcií Oracle o 7 % posunul technologicky zaměřený Nasdaq o 1 %",
+      "description": "Růst akcií Oracle, která je součástí amerických investorů kupujících americkou divizi TikToku od čínské ByteDance, spolu s nárůstem akcií Nvidia vedl k posunu indexu Nasdaq Composite v první hodině obchodování.",
+      "slug": "oracles-7-surge-pushes-tech-heavy-nasdaq-up-1",
+      "publishedAt": "2025-12-19T15:32:55+00:00",
+      "date": "2025-12-19 15:32:55",
+      "importance": 4,
+      "category": "burza",
+      "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-04-18%2Fb7mliu2m%2FUS-Stock-market.png?rect=0%2C7%2C1200%2C630&w=1200&auto=format%2Ccompress&ogImage=true",
+      "url": "/tech-news/2025-12-19/oracles-7-surge-pushes-tech-heavy-nasdaq-up-1/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Ndtvprofit.com"
+      },
+      "companies": [
+        "Oracle",
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Exkluzivně: Cursor přebírá startup na kontrolu kódu Graphite, zatímco soutěž v AI programování sílí",
+      "description": "Nákupem Graphite získává Cursor, oceňovaný na 29 miliard dolarů, pokročilejší schopnosti kontroly kódu a ladění chyb.",
+      "slug": "exclusive-cursor-acquires-code-review-startup-grap",
+      "publishedAt": "2025-12-19T15:30:08+00:00",
+      "date": "2025-12-19 15:30:08",
+      "importance": 4,
+      "category": "ai programování",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/12/Graphite.jpeg?resize=1200,600",
+      "url": "/tech-news/2025-12-19/exclusive-cursor-acquires-code-review-startup-grap/",
+      "source": {
+        "emoji": "📰",
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "companies": [
+        "Cursor",
+        "Graphite"
+      ],
+      "people": []
+    },
+    {
+      "title": "Micron očekává rekordní zisky díky růstu poptávky po AI",
+      "description": "Společnost Micron Technology z Boise v Idahu zveřejnila prognózu pro druhý čtvrtletí, která překonává očekávání analytiků téměř dvojnásobně a posunula její akcie o téměř 10 % v předobchodním obchodování. Růst je poháněn poptávkou po pamětích pro systémy umělé inteligence.",
+      "slug": "micron-forecasts-record-profits-on-ai-demand-surge",
+      "publishedAt": "2025-12-19T15:20:07+00:00",
+      "date": "2025-12-19 15:20:07",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://rollingout.com/wp-content/uploads/2025/10/shutterstock_2586627697-scaled.jpg",
+      "url": "/tech-news/2025-12-19/micron-forecasts-record-profits-on-ai-demand-surge/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Rolling Out"
+      },
+      "companies": [
+        "Micron Technology"
+      ],
+      "people": []
+    },
+    {
+      "title": "Taiwan zvažuje omezení exportu TSMC, které by znemožnilo výrobu nejnovějších čipových uzlů v USA – export jen o dvě generace zaostalý za špičkou, což by zpomalilo americkou expanzi",
+      "description": "Tajwanská vláda zvažuje zavedení pravidla N+2 pro pokročilé výrobní technologie TSMC, což by výrazně zkomplikovalo expanzi této největší světové polovodičové foundry do zahraničí, včetně USA.",
+      "slug": "taiwan-considers-tsmc-export-ban-that-would-preven",
+      "publishedAt": "2025-12-19T15:09:59+00:00",
+      "date": "2025-12-19 15:09:59",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ccriH99hinz37Jq6RzYJFb-1920-80.jpg",
+      "url": "/tech-news/2025-12-19/taiwan-considers-tsmc-export-ban-that-would-preven/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "companies": [
+        "TSMC"
+      ],
+      "people": []
+    },
     {
       "title": "Uvnitř OpenAI: ‚code red‘",
       "description": "Tým technologie magazínu Fortune nedávno prozkoumal, co se děje v zákulisí OpenAI.",
@@ -3700,27 +3841,6 @@
       "people": []
     },
     {
-      "title": "ServiceNow prý v pokročilých jednáních o koupi Armis za až 7 miliard dolarů",
-      "description": "Poskytovatel cloudového softwaru pro řízení pracovních postupů ServiceNow je prý v pokročilých jednáních o akvizici společnosti Armis, která se zaměřuje na správu kybernetického vystavení a bezpečnost zařízení. Hodnota dohody by mohla dosáhnout až 7 miliard dolarů a stát se největší akvizicí ServiceNow dosud.",
-      "slug": "servicenow-reportedly-in-advanced-talks-to-buy-arm",
-      "publishedAt": "2025-12-14T22:51:32+00:00",
-      "date": "2025-12-14 22:51:32",
-      "importance": 5,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/11/Armis.png",
-      "url": "/tech-news/2025-12-14/servicenow-reportedly-in-advanced-talks-to-buy-arm/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "ServiceNow",
-        "Armis"
-      ],
-      "people": []
-    },
-    {
       "title": "Warby Parker (WRBY) vzrostl o 46 % před uvedením AI brýlí v roce 2026",
       "description": "Akcie Warby Parker Inc. (NYSE:WRBY) posílily o 46 procent týdně na nové maximum za 52 týdnů díky podání u SEC, které potvrdilo partnerství s Google na vývoj inteligentních brýlí s umělou inteligencí. Produkt má být odhalen v roce 2026 a obsahuje multimodální AI s dioptrickými i nedioptrickými čočkami.",
       "slug": "warby-parker-wrby-climbs-46-ahead-of-2026-ai-devel",
@@ -3756,24 +3876,6 @@
       "companies": [
         "Tesla"
       ],
-      "people": []
-    },
-    {
-      "title": "Strach z hackování chytrých domovů: Co je reálné a co přehnané",
-      "description": "Strach z hackování chytrých domovů je přehnaný? Expert vysvětluje skutečná rizika kyberbezpečnosti a poskytuje jednoduché tipy na ochranu propojených zařízení před útoky hackerů.",
-      "slug": "smart-home-hacking-fears-whats-real-and-whats-hype",
-      "publishedAt": "2025-12-14T18:30:56+00:00",
-      "date": "2025-12-14 18:30:56",
-      "importance": 4,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/12/3-are-your-smart-home-cameras-spying-on-you-study-reveals-shocking-data-grabs-outro.jpg",
-      "url": "/tech-news/2025-12-14/smart-home-hacking-fears-whats-real-and-whats-hype/",
-      "source": {
-        "emoji": "📰",
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "companies": [],
       "people": []
     },
     {
@@ -3816,69 +3918,6 @@
       "people": []
     },
     {
-      "title": "Je IBM nejlepší technologickou akcií k nákupu pro rok 2026?",
-      "description": "Oživení IBM poháněné kvantovými počítači by mohlo připravit půdu pro jeden z největších comebacků v technologickém sektoru. Je nyní vhodný čas vstoupit?",
-      "slug": "is-ibm-the-top-tech-stock-to-buy-for-2026",
-      "publishedAt": "2025-12-14T14:30:02+00:00",
-      "date": "2025-12-14 14:30:02",
-      "importance": 4,
-      "category": "kvantové počítače",
-      "urlToImage": "https://media.zenfs.com/en/barchart_com_477/ae0d0724f3fa3ece6982ed9e3039f043",
-      "url": "/tech-news/2025-12-14/is-ibm-the-top-tech-stock-to-buy-for-2026/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Barchart.com"
-      },
-      "companies": [
-        "IBM"
-      ],
-      "people": []
-    },
-    {
-      "title": "Dlouholetý investor Tesly Ross Gerber: Rok 2026 bude pro Muskovo autodílo rokem vyúčtování",
-      "description": "Investor Tesly Ross Gerber, který se stal pesimistou, tvrdí, že Elon Musk musí v roce 2026 prokázat výsledky největších iniciativ společnosti, jinak čeká odpor investorů.",
-      "slug": "longtime-tesla-investor-ross-gerber-says-2026-will",
-      "publishedAt": "2025-12-14T10:15:01+00:00",
-      "date": "2025-12-14 10:15:01",
-      "importance": 4,
-      "category": "elektromobilita",
-      "urlToImage": "https://i.insider.com/693c72ba832e0ef1ead629b1?width=1200&format=jpeg",
-      "url": "/tech-news/2025-12-14/longtime-tesla-investor-ross-gerber-says-2026-will/",
-      "source": {
-        "emoji": "📰",
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "companies": [
-        "Tesla"
-      ],
-      "people": [
-        "Ross Gerber",
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Strategie Meta ‚rychle spustit, opravit později‘ v AI selhala. Dokáže se vrátit?",
-      "description": "Selhání strategie AI společnosti Meta ukazuje, že vývoj umělé inteligence nemůže spoléhat výhradně na urychlení vývoje a rychlé vydávání funkcí.",
-      "slug": "metas-ship-fast-fix-later-ai-strategy-has-failed-c",
-      "publishedAt": "2025-12-14T08:16:49+00:00",
-      "date": "2025-12-14 08:16:49",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://images.indianexpress.com/2025/09/Huawei-14.jpg",
-      "url": "/tech-news/2025-12-14/metas-ship-fast-fix-later-ai-strategy-has-failed-c/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Indian Express"
-      },
-      "companies": [
-        "Meta"
-      ],
-      "people": []
-    },
-    {
       "title": "Uživatelé obviňují OpenAI, že zkazil Sora 2. EOSHD prošetřuje, co se stalo",
       "description": "Po vydání Sora 2 pouze na pozvání byly výsledky působivé a vyvolaly nadšení. Systém však pod zátěží zkolaboval, OpenAI ho výrazně omezil bez oznámení a kvalita generovaných videí dramaticky klesla.",
       "slug": "users-are-complaining-openai-wreaked-sora-2-eoshd-",
@@ -3896,24 +3935,6 @@
       "companies": [
         "OpenAI"
       ],
-      "people": []
-    },
-    {
-      "title": "Lekce z React2Shell",
-      "description": "Analýza kritické bezpečnostní zranitelnosti CVE-2025-55182 v Reactu, která umožnila neautentizované spuštění libovolného kódu na milionech serverů během hodin po zveřejnění. Článek rozebírá příčiny v protokolu Flight a dopady na ekosystém React Server Components.",
-      "slug": "lessons-from-react2shell",
-      "publishedAt": "2025-12-14T06:26:30+00:00",
-      "date": "2025-12-14 06:26:30",
-      "importance": 5,
-      "category": "programování",
-      "urlToImage": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyesjwmk56jzyxm2bamh3.png",
-      "url": "/tech-news/2025-12-14/lessons-from-react2shell/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Dev.to"
-      },
-      "companies": [],
       "people": []
     },
     {
@@ -3953,27 +3974,6 @@
       },
       "companies": [
         "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "MercadoLibre (MELI) nasadí humanoidní roboty Digit ve skladu v Texasu",
-      "description": "MercadoLibre uzavřela komerční dohodu s Agility Robotics na použití humanoidních robotů Digit v jejich skladu v San Antonio v Texasu. Roboti budou zpočátku podporovat logistické operace, s plány na rozšíření do skladů v Latinské Americe.",
-      "slug": "mercadolibre-meli-to-use-digit-robots-in-texas-war",
-      "publishedAt": "2025-12-14T04:13:51+00:00",
-      "date": "2025-12-14 04:13:51",
-      "importance": 4,
-      "category": "robotika",
-      "urlToImage": "https://media.zenfs.com/en/insidermonkey.com/4aff97fcde24a781b0531fe23bc543b0",
-      "url": "/tech-news/2025-12-14/mercadolibre-meli-to-use-digit-robots-in-texas-war/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [
-        "MercadoLibre",
-        "Agility"
       ],
       "people": []
     },
