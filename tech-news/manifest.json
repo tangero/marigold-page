@@ -1,7 +1,110 @@
 {
-  "generated": "2025-12-19T20:46:36.455440+00:00",
+  "generated": "2025-12-20T01:18:17.616087+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Solana a Aptos posilují blockchany proti budoucím kvantovým útokům",
+      "description": "Vývojáři těchto blockchainových platforem začali testovat novou kryptografii, která má chránit transakce a peněženky před paděláním v době, kdy kvantové počítače představují rostoucí hrozbu.",
+      "slug": "solana-aptos-move-to-harden-blockchains-against-fu",
+      "publishedAt": "2025-12-19T00:05:19+00:00",
+      "date": "2025-12-19 00:05:19",
+      "importance": 4,
+      "category": "kryptoměny",
+      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/10/google-quantum-decrypt-style-01-2-gID_7.jpg",
+      "url": "/tech-news/2025-12-19/solana-aptos-move-to-harden-blockchains-against-fu/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Decrypt"
+      },
+      "companies": [
+        "Solana",
+        "Aptos"
+      ],
+      "people": []
+    },
+    {
+      "title": "Umělá inteligence a kvantová věda v centru pozornosti za Trumpa – ale bez významného nového financování",
+      "description": "Americká administrativa spoléhá na veřejně-soukromé partnerství a rozšířenou pracovní sílu pro pokrok v AI a kvantové vědě, kritici však varují, že tuto strategii mohou oslabit jiné politiky USA.",
+      "slug": "ai-and-quantum-science-take-centre-stage-under-tru",
+      "publishedAt": "2025-12-19T00:00:00+00:00",
+      "date": "2025-12-19 00:00:00",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-025-04108-y/d41586-025-04108-y_51840178.jpg",
+      "url": "/tech-news/2025-12-19/ai-and-quantum-science-take-centre-stage-under-tru/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Nature.com"
+      },
+      "companies": [],
+      "people": [
+        "Trump"
+      ]
+    },
+    {
+      "title": "AtScale získala investiční kolo vedené Snowflake Ventures",
+      "description": "Poskytovatel řízení dat AtScale uzavřel investiční kolo vedené venture kapitálem Snowflake. Jedná se o největší equity investici v historii firmy, která překonává 50 milionů dolarů z roku 2018.",
+      "slug": "atscale-raises-funding-round-led-by-snowflake-vent",
+      "publishedAt": "2025-12-18T23:45:15+00:00",
+      "date": "2025-12-18 23:45:15",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Chris-Lynch.jpg",
+      "url": "/tech-news/2025-12-18/atscale-raises-funding-round-led-by-snowflake-vent/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "AtScale",
+        "Snowflake"
+      ],
+      "people": []
+    },
+    {
+      "title": "Anthropic zpřístupňuje dovednosti agentů jako otevřený standard",
+      "description": "Anthropic aktualizoval funkci Skills pro svůj model Claude, která umožňuje firmám učit velké jazykové modely specifickým pracovním úkolům. Tato změna zahrnuje otevření specifikace jako otevřeného standardu, což usnadňuje sdílení a nasazení nových dovedností.",
+      "slug": "anthropic-makes-agent-skills-an-open-standard",
+      "publishedAt": "2025-12-18T23:29:42+00:00",
+      "date": "2025-12-18 23:29:42",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Screenshot-from-2025-12-19-06-24-54.png",
+      "url": "/tech-news/2025-12-18/anthropic-makes-agent-skills-an-open-standard/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": []
+    },
+    {
+      "title": "Predikce ceny Tesly, rozjezd Cybercabu a plány na IPO SpaceX",
+      "description": "Rozjezd výroby Tesly Cybercab v roce 2026 by mohl zásadně změnit dopravu a ekonomiku společnosti Tesla. Článek nabízí projekce tempa výroby a odhady vývoje ceny akcií včetně zmínky o možném IPO SpaceX.",
+      "slug": "tesla-predictions-price-cybercab-ramp-spacex-ipo-d",
+      "publishedAt": "2025-12-18T23:27:20+00:00",
+      "date": "2025-12-18 23:27:20",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2025/12/Screenshot-2025-12-18-at-3.23.29-PM.jpg",
+      "url": "/tech-news/2025-12-18/tesla-predictions-price-cybercab-ramp-spacex-ipo-d/",
+      "source": {
+        "emoji": "📰",
+        "id": "next-big-future",
+        "name": "Next Big Future"
+      },
+      "companies": [
+        "Tesla",
+        "SpaceX"
+      ],
+      "people": []
+    },
     {
       "title": "Ministerstvo energetiky USA uzavřelo dohody s technologickými giganty pro misi Genesis poháněnou AI",
       "description": "Ministerstvo energetiky USA podepsalo smlouvy se 24 organizacemi včetně Microsoftu, Google a Nvidia na podporu národní mise Genesis. Tento program má využít umělou inteligenci k urychlení vědeckého výzkumu a posílení energetické a bezpečnostní soběstačnosti USA.",
@@ -3759,48 +3862,6 @@
       "people": []
     },
     {
-      "title": "Nate Jones se mýlí ohledně AI datových center ve vesmíru",
-      "description": "Nate Jones nesprávně shrnul příběh o AI datových centrech ve vesmíru a tvrdí, že v orbitě zatím nic není. Ve skutečnosti společnost Starcloud v spolupráci s Nvidia a Crusoe již vypustila satelit s GPU H100 minulý měsíc na raketě SpaceX Falcon 9.",
-      "slug": "nate-jones-gets-ai-data-centers-wrong",
-      "publishedAt": "2025-12-13T17:00:41+00:00",
-      "date": "2025-12-13 17:00:41",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2025/11/Screenshot-2025-11-03-at-11.50.53-AM.jpg",
-      "url": "/tech-news/2025-12-13/nate-jones-gets-ai-data-centers-wrong/",
-      "source": {
-        "emoji": "📰",
-        "id": "next-big-future",
-        "name": "Next Big Future"
-      },
-      "companies": [
-        "Starcloud"
-      ],
-      "people": []
-    },
-    {
-      "title": "Šéf AI divize Microsoftu Mustafa Suleyman varuje, že riziko existenciální zkázy je „téměř absolutní“ – firma by mohla opustit AI, pokud rizika eskalují",
-      "description": "Navzdory obhajobě humanistické superinteligence šéf AI divize Microsoftu Mustafa Suleyman nedávno naznačil, že společnost technologie ukončí, pokud se stane hrozbou pro lidstvo.",
-      "slug": "microsofts-ai-chief-mustafa-suleyman-has-warned-th",
-      "publishedAt": "2025-12-13T15:24:13+00:00",
-      "date": "2025-12-13 15:24:13",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/aLwuTV6rKiEFA8PTqdqmTh-2560-80.jpg",
-      "url": "/tech-news/2025-12-13/microsofts-ai-chief-mustafa-suleyman-has-warned-th/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Windows Central"
-      },
-      "companies": [
-        "Microsoft"
-      ],
-      "people": [
-        "Mustafa Suleyman"
-      ]
-    },
-    {
       "title": "Velká změna: Čína zužuje mezeru v AI s USA tři roky po šoku z ChatGPT",
       "description": "Vydání ChatGPT společností OpenAI 30. listopadu před třemi lety šokovalo čínský technologický průmysl, který musel rychle dohánět pokroky v umělé inteligenci. Čínské vládní úřady vyslaly urgentní žádosti k expertům, včetně profesorů, aby posoudili situaci.",
       "slug": "sea-change-china-narrows-ai-gap-with-us-three-year",
@@ -3839,27 +3900,6 @@
       "people": []
     },
     {
-      "title": "Intel se blíží k akvizici SambaNova za 1,6 miliardy dolarů",
-      "description": "Společnost Intel Corp. vstoupila do závěrečných fází jednání o akvizici startupu SambaNova Systems Inc., který vyvíjí čipy pro umělou inteligenci, za přibližně 1,6 miliardy dolarů včetně dluhů. Tato dohoda představuje významný strategický krok pro posílení Intelu v sektoru AI čipů.",
-      "slug": "intel-closing-in-on-sambanova-for-16-billion",
-      "publishedAt": "2025-12-13T14:49:36+00:00",
-      "date": "2025-12-13 14:49:36",
-      "importance": 5,
-      "category": "ai",
-      "urlToImage": "https://rollingout.com/wp-content/uploads/2025/08/shutterstock_2396251243-scaled.jpg",
-      "url": "/tech-news/2025-12-13/intel-closing-in-on-sambanova-for-16-billion/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Rolling Out"
-      },
-      "companies": [
-        "Intel",
-        "SambaNova"
-      ],
-      "people": []
-    },
-    {
       "title": "No, to je trapné: Největší technologická selhání roku 2025",
       "description": "Myslíte si, že jste měli špatný rok? Aspoň jste nenajali Severokorejce, nesdíleli válečné plány v skupinovém chatu nebo si sami nespustili DDoS útok. Podívejte se na nejvýznamnější technologické katastrofy roku.",
       "slug": "well-thats-embarrassing-the-biggest-tech-fails-of-",
@@ -3875,27 +3915,6 @@
         "name": "PCMag.com"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Investiční boom: Od Google po Microsoft, proč technologické společnosti investují do Indie",
-      "description": "Indie se stává klíčovým globálním centrem pro investice do umělé inteligence, přičemž největší technologické firmy jako Amazon, Microsoft a Google tam směřují miliardy dolarů díky mladé populaci a rozvíjejícímu se digitálnímu ekosystému.",
-      "slug": "investment-boom-from-google-to-microsoft-why-tech-",
-      "publishedAt": "2025-12-13T13:56:47+00:00",
-      "date": "2025-12-13 13:56:47",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-03-18%2Fom7ti2ml%2Fai-71118021280.jpg?rect=0%2C0%2C1280%2C672&w=1200&auto=format%2Ccompress&ogImage=true",
-      "url": "/tech-news/2025-12-13/investment-boom-from-google-to-microsoft-why-tech/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Ndtvprofit.com"
-      },
-      "companies": [
-        "Google",
-        "Microsoft"
-      ],
       "people": []
     },
     {
@@ -3954,28 +3973,6 @@
         "name": "ANI News"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Nvidia může zvýšit výrobu AI čipů H200 kvůli vysoké poptávce čínských firem včetně Alibaba a ByteDance: Zpráva",
-      "description": "Nvidia zvažuje zvýšení produkce svých H200 AI čipů pro čínské klienty díky vysoké poptávce. Mezi zájemce patří velké společnosti jako Alibaba a ByteDance, které plánují velké objednávky.",
-      "slug": "nvidia-may-increase-h200-ai-chip-output-amid-high-",
-      "publishedAt": "2025-12-13T04:52:34+00:00",
-      "date": "2025-12-13 04:52:34",
-      "importance": 4,
-      "category": "ai čipy",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2025/12/13/1600x900/HUANG-SENATE-23_1765601439017_1765601460967.jpg",
-      "url": "/tech-news/2025-12-13/nvidia-may-increase-h200-ai-chip-output-amid-high/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Livemint"
-      },
-      "companies": [
-        "Nvidia",
-        "Alibaba",
-        "ByteDance"
-      ],
       "people": []
     },
     {
