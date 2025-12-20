@@ -1,7 +1,188 @@
 {
-  "generated": "2025-12-20T01:18:17.616087+00:00",
+  "generated": "2025-12-20T04:47:17.582822+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Sam Altman: OpenAI bylo několikrát v režimu 'code red' kvůli konkurenci v AI – a udělají to znovu",
+      "description": "Sam Altman uvedl, že OpenAI několikrát aktivovalo nouzový režim 'code red' v reakci na konkurenční hrozby v oblasti umělé inteligence a je připraveno to opakovat.",
+      "slug": "sam-altman-says-openai-has-gone-code-red-multiple-",
+      "publishedAt": "2025-12-19T04:04:56+00:00",
+      "date": "2025-12-19 04:04:56",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://i.insider.com/6944c3a864858d02d2171d56?width=1200&format=jpeg",
+      "url": "/tech-news/2025-12-19/sam-altman-says-openai-has-gone-code-red-multiple/",
+      "source": {
+        "emoji": "📰",
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": [
+        "Sam Altman"
+      ]
+    },
+    {
+      "title": "Salesforce přebírá Qualified: Co znamená tento AI marketingový lídr s financováním 163 milionů dolarů pro budoucnost B2B prodejů",
+      "description": "Salesforce oznámil akvizici společnosti Qualified, specialisty na agentické AI řešení pro marketing a rozvoj prodejů. Tento krok urychlí vývoj autonomních AI agentů pro generování prodejního pipeline v prostředí B2B firem.",
+      "slug": "salesforce-acquires-qualified-what-this-163m-funde",
+      "publishedAt": "2025-12-19T03:38:41+00:00",
+      "date": "2025-12-19 03:38:41",
+      "importance": 4,
+      "category": "ai marketing",
+      "urlToImage": "https://vantagepoint.io/hubfs/AI-Generated%20Media/Images/Salesforce%20Acquires%20Qualified%20What%20This%20163MFunded%20AI%20Marketing%20Leader%20Means%20for%20the%20Future%20of%20B2B%20Sales-1.png",
+      "url": "/tech-news/2025-12-19/salesforce-acquires-qualified-what-this-163m-funde/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Vantagepoint.io"
+      },
+      "companies": [
+        "Salesforce",
+        "Qualified"
+      ],
+      "people": []
+    },
+    {
+      "title": "Disney koupí podíl v OpenAI a umožní použití svých postav v Sora videích",
+      "description": "Disney koupil podíl v hodnotě 1 miliardy dolarů v OpenAI a uzavřel tříletou dohodu, která umožní generování krátkých AI videí s jeho postavami na platformě Sora. Vybraná videa budou streamovat na Disney+, což má přilákat mladší diváky, avšak krok vyvolává debatu o autorských právech a právech tvůrců.",
+      "slug": "disney-agrees-to-bring-its-characters-to-openais-s",
+      "publishedAt": "2025-12-19T03:11:31+00:00",
+      "date": "2025-12-19 03:11:31",
+      "importance": 5,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-73264,resizemode-75,msid-126068565/tech/artificial-intelligence/disney-agrees-to-bring-its-characters-to-openais-sora-videos.jpg",
+      "url": "/tech-news/2025-12-19/disney-agrees-to-bring-its-characters-to-openais-s/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Aplikace pro výměnu obličejů s AI spojená s nárůstem romantických podvodů",
+      "description": "Platforma Haotian umožňuje téměř dokonalou výměnu obličejů v živých video hovorech převážně přes Telegram a údajně vydělala miliony. Její hlavní kanál zmizel po dotazu redakce WIRED kvůli zneužívání podvodníky v romantických podvodech.",
+      "slug": "ai-face-swapping-app-linked-to-surge-in-romance-sc",
+      "publishedAt": "2025-12-19T02:27:14+00:00",
+      "date": "2025-12-19 02:27:14",
+      "importance": 4,
+      "category": "kyberzločinnost",
+      "urlToImage": "https://i0.wp.com/nextbigwhat.com/wp-content/uploads/2023/03/nextbigwhat-social-media-logo.jpg?fit=1080%2C1080&ssl=1",
+      "url": "/tech-news/2025-12-19/ai-face-swapping-app-linked-to-surge-in-romance-sc/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Nextbigwhat.com"
+      },
+      "companies": [
+        "Telegram"
+      ],
+      "people": []
+    },
+    {
+      "title": "USA spouští revizi prodeje pokročilých AI čipů Nvidia do Číny: Reuters",
+      "description": "Administrativa prezidenta Trumpa zahájila mezirezortní revizi licencí pro prodej druhých nejvýkonnějších AI čipů Nvidia do Číny. Trump slíbil umožnit dodávky čipů H200 s 25procentním poplatkem pro vládu USA, což má podpořit americké firmy v soutěži s čínskými výrobci.",
+      "slug": "us-launches-review-of-advanced-nvidia-ai-chip-sale",
+      "publishedAt": "2025-12-19T02:07:01+00:00",
+      "date": "2025-12-19 02:07:01",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108180927-1754288633016-gettyimages-2227849607-vcg111562335270.jpeg?v=1766109696&w=1920&h=1080",
+      "url": "/tech-news/2025-12-19/us-launches-review-of-advanced-nvidia-ai-chip-sale/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": [
+        "Trump"
+      ]
+    },
+    {
+      "title": "Startup Neural Concept s AI pro návrh získal 100 milionů dolarů na urychlení inženýrského vývoje produktů",
+      "description": "Švýcarský startup Neural Concept SA získal 100 milionů dolarů v investičním kole série C na přepracování návrhu a inženýrství produktů pomocí nástrojů pro počítačově podporovaný návrh. Kolo vedla Growth Equity od Goldman Sachs Alternatives s účastí investorů jako Forestay Capital, Alven, HTGF, D.E. Shaw Ventures a Aster Capital.",
+      "slug": "ai-aided-design-software-startup-neural-concept-ra",
+      "publishedAt": "2025-12-19T01:49:39+00:00",
+      "date": "2025-12-19 01:49:39",
+      "importance": 4,
+      "category": "ai startupy",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Screenshot-from-2025-12-19-08-47-35.png",
+      "url": "/tech-news/2025-12-19/ai-aided-design-software-startup-neural-concept-ra/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Neural Concept SA"
+      ],
+      "people": []
+    },
+    {
+      "title": "24 společností se připojuje k americké Genesis Mission pro využití AI ve vědě",
+      "description": "Dvacet čtyři organizací vyjádřilo zájem nebo se zapojilo do Genesis Mission, národní iniciativy Bílého domu, která má prostřednictvím umělé inteligence urychlit pokroky ve vědě, energetice a národní bezpečnosti. Mezi účastníky jsou klíčoví hráči jako Anthropic, Amazon Web Services, Google, Microsoft, Nvidia, OpenAI a xAI.",
+      "slug": "A-24-companies-join-us-genesis-mission-to-harness-",
+      "publishedAt": "2025-12-19T01:32:03+00:00",
+      "date": "2025-12-19 01:32:03",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2025/12/White-House-AI1.jpg",
+      "url": "/tech-news/2025-12-19/A-24-companies-join-us-genesis-mission-to-harness/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "GPT-5.2-Codex od OpenAI posouvá inženýrství softwaru lepším uvažováním a porozuměním kontextu",
+      "description": "OpenAI Group PBC vydalo GPT-5.2-Codex, novou verzi agentického modelu umělé inteligence pro kódování, který automatizuje složité úkoly inženýrství softwaru. Model navazuje na GPT-5.2 a přináší zlepšení v kompresi kontextu, refaktoringu kódu, výkonu ve Windows a kyberbezpečnosti.",
+      "slug": "openais-gpt-52-codex-advances-software-engineering",
+      "publishedAt": "2025-12-19T01:15:10+00:00",
+      "date": "2025-12-19 01:15:10",
+      "importance": 4,
+      "category": "programování",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/OpenAI-1.png",
+      "url": "/tech-news/2025-12-19/openais-gpt-52-codex-advances-software-engineering/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Poprvé jsem porušil své pravidlo upgradu iPhonu a ukázalo se, že to bylo požehnání",
+      "description": "iPhone 17 se může zdát stejný jako předchozí model, ale obsahuje některé nejlepší funkce z Pro modelů, což autora přesvědčilo k jeho koupi.",
+      "slug": "i-broke-my-iphone-upgrade-rule-for-the-first-time-",
+      "publishedAt": "2025-12-19T00:30:42+00:00",
+      "date": "2025-12-19 00:30:42",
+      "importance": 4,
+      "category": "iphone",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/e3ff2bfb271200294b93321bd57e1d9501efe4af/2025/12/17/9a41ba47-e780-41cb-afcc-d621c3c01246/iphone17-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "url": "/tech-news/2025-12-19/i-broke-my-iphone-upgrade-rule-for-the-first-time/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "ZDNet"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Solana a Aptos posilují blockchany proti budoucím kvantovým útokům",
       "description": "Vývojáři těchto blockchainových platforem začali testovat novou kryptografii, která má chránit transakce a peněženky před paděláním v době, kdy kvantové počítače představují rostoucí hrozbu.",
@@ -3858,184 +4039,6 @@
       },
       "companies": [
         "Nvidia"
-      ],
-      "people": []
-    },
-    {
-      "title": "Velká změna: Čína zužuje mezeru v AI s USA tři roky po šoku z ChatGPT",
-      "description": "Vydání ChatGPT společností OpenAI 30. listopadu před třemi lety šokovalo čínský technologický průmysl, který musel rychle dohánět pokroky v umělé inteligenci. Čínské vládní úřady vyslaly urgentní žádosti k expertům, včetně profesorů, aby posoudili situaci.",
-      "slug": "sea-change-china-narrows-ai-gap-with-us-three-year",
-      "publishedAt": "2025-12-13T15:03:20+00:00",
-      "date": "2025-12-13 15:03:20",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://biztoc.com/cdn/ce7511c727650ccf_s.webp",
-      "url": "/tech-news/2025-12-13/sea-change-china-narrows-ai-gap-with-us-three-year/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Tento týdenní zajímavé technologické zprávy z webu (do 13. prosince)",
-      "description": "Každý týden prohledáváme web pro důležité, poučné a fascinující příběhy z vědy a technologie. Tento souhrn přináší klíčové novinky z oblastí umělé inteligence, robotiky a výpočetní infrastruktury.",
-      "slug": "this-weeks-awesome-tech-stories-from-around-the-we",
-      "publishedAt": "2025-12-13T15:00:00+00:00",
-      "date": "2025-12-13 15:00:00",
-      "importance": 5,
-      "category": "technologické novink",
-      "urlToImage": "https://singularityhub.com/uploads/2025/12/digital-cloud-glowing-concentric-cirlces-bisecting-lines.jpeg?auto=webp",
-      "url": "/tech-news/2025-12-13/this-weeks-awesome-tech-stories-from-around-the-we/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Singularity Hub"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "No, to je trapné: Největší technologická selhání roku 2025",
-      "description": "Myslíte si, že jste měli špatný rok? Aspoň jste nenajali Severokorejce, nesdíleli válečné plány v skupinovém chatu nebo si sami nespustili DDoS útok. Podívejte se na nejvýznamnější technologické katastrofy roku.",
-      "slug": "well-thats-embarrassing-the-biggest-tech-fails-of-",
-      "publishedAt": "2025-12-13T14:00:00+00:00",
-      "date": "2025-12-13 14:00:00",
-      "importance": 4,
-      "category": "technologická selhán",
-      "urlToImage": "https://sm.pcmag.com/t/pcmag_uk/news/w/well-thats/well-thats-embarrassing-the-biggest-tech-fails-of-2025_j9q4.1200.png",
-      "url": "/tech-news/2025-12-13/well-thats-embarrassing-the-biggest-tech-fails-of/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "PCMag.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Obrat rolí: Meta přebírá Qwen, jak se čínská AI stává základem oboru",
-      "description": "Americký gigant Meta v únoru 2023 vydal open-source modely rodiny Llama, které inspirovaly čínský Qwen od Alibaba Cloud. Podle reportu Bloomberg nyní Meta údajně používá Qwen k trénování svého nového modelu s kódovým názvem Avocado, což představuje významný obrat v dynamice open-source AI.",
-      "slug": "role-reversal-meta-adopts-qwen-as-chinese-ai-becom",
-      "publishedAt": "2025-12-13T09:30:00+00:00",
-      "date": "2025-12-13 09:30:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/QUzAoYfgiu8DlzUClq3OUQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/south_china_morning_post_us_228/4420af3a6d1f9f8f4c169a75e539797d",
-      "url": "/tech-news/2025-12-13/role-reversal-meta-adopts-qwen-as-chinese-ai-becom/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [
-        "Meta Platforms"
-      ],
-      "people": []
-    },
-    {
-      "title": "Shiprocket podal aktualizované dokumenty pro IPO u SEBI; míří na 2342 krůrů rupií z veřejné nabídky",
-      "description": "Úvodní veřejná nabídka (IPO) představuje kombinaci nové emise akcií v hodnotě až 1100 krůrů rupií a nabídky na prodej akcií v hodnotě 1242,3 krůru rupií od prodávajících akcionářů, uvedl aktualizovaný návrh červeného heraldického prospektu.",
-      "slug": "shiprocket-files-updated-ipo-papers-with-sebi-eyes",
-      "publishedAt": "2025-12-13T09:17:31+00:00",
-      "date": "2025-12-13 09:17:31",
-      "importance": 4,
-      "category": "startupy",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/hk86cp/article70391975.ece/alternates/LANDSCAPE_1200/IMG_PO10IPO_6_1_T792KD5E.jpg",
-      "url": "/tech-news/2025-12-13/shiprocket-files-updated-ipo-papers-with-sebi-eyes/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "companies": [
-        "Shiprocket"
-      ],
-      "people": []
-    },
-    {
-      "title": "USA zakládají Pax Silica s spojenci klíčovými pro globální dodavatelské řetězce AI a čipů",
-      "description": "Austrálie, Japonsko, Jižní Korea, Velká Británie, Singapur, Izrael a USA podepsaly deklaraci na summitu Pax Silica ve Washingtonu DC. Cílem je vytvořit bezpečný dodavatelský řetězec křemíku od těžby minerálů po výrobu čipů a AI infrastruktury.",
-      "slug": "us-forms-pax-silica-with-allies-central-to-global-",
-      "publishedAt": "2025-12-13T08:06:13+00:00",
-      "date": "2025-12-13 08:06:13",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/ANI-20251213072447.jpg",
-      "url": "/tech-news/2025-12-13/us-forms-pax-silica-with-allies-central-to-global/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "ANI News"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Šéf Samsungu se setkal s Elonem Muskem z Tesly k diskusi o čipech",
-      "description": "V červenci Samsung uzavřel smlouvu s Teslou na výrobu čipu AI6 pro budoucí elektromobily. Následně získal zakázku i na současný čip AI5.",
-      "slug": "samsung-chief-meets-with-teslas-elon-musk-to-discu",
-      "publishedAt": "2025-12-13T04:41:25+00:00",
-      "date": "2025-12-13 04:41:25",
-      "importance": 4,
-      "category": "elektromobilita",
-      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2023/05/Tesla-CEO-Elon-Musk-Meeting-Samsung-Chairman-Lee-Jae-Yong.jpg",
-      "url": "/tech-news/2025-12-13/samsung-chief-meets-with-teslas-elon-musk-to-discu/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SamMobile"
-      },
-      "companies": [
-        "Samsung",
-        "Tesla"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Reportáž: Intel by mohl koupit startup na inference čipy SambaNova za 1,6 miliardy dolarů",
-      "description": "Společnost Intel údajně jedná o akvizici SambaNova Systems, startupu zaměřeného na vývoj čipů pro umělou inteligenci. Podle zdrojů Bloombergu jsou jednání v pokročilém stádiu a hodnota dohody by mohla dosáhnout 1,6 miliardy dolarů včetně dluhů.",
-      "slug": "report-intel-could-acquire-inference-chip-startup-",
-      "publishedAt": "2025-12-13T01:08:47+00:00",
-      "date": "2025-12-13 01:08:47",
-      "importance": 5,
-      "category": "ai čipy",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Intel.jpg",
-      "url": "/tech-news/2025-12-13/report-intel-could-acquire-inference-chip-startup/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Intel",
-        "SambaNova"
-      ],
-      "people": []
-    },
-    {
-      "title": "Rivian oznámil AI čip v kroku k autonomnímu řízení",
-      "description": "Výrobce elektromobilů Rivian navrhl svůj čip interně uprostřed Silicon Valley. Čip pohání nový Autonomy Compute Module 3 pro nadcházející SUV R2.",
-      "slug": "rivian-announces-ai-chip-in-move-towards-self-driv",
-      "publishedAt": "2025-12-13T01:00:00+00:00",
-      "date": "2025-12-13 01:00:00",
-      "importance": 4,
-      "category": "elektromobilita",
-      "urlToImage": "https://www.popsci.com/wp-content/uploads/2025/12/Rivian_Universal_Hands_Free.jpg?quality=85&w=1200",
-      "url": "/tech-news/2025-12-13/rivian-announces-ai-chip-in-move-towards-self-driv/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Popular Science"
-      },
-      "companies": [
-        "Rivian"
       ],
       "people": []
     }
