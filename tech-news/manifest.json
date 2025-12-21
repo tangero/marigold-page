@@ -1,7 +1,68 @@
 {
-  "generated": "2025-12-21T16:38:17.892315+00:00",
+  "generated": "2025-12-21T20:36:35.194285+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Biren míří na první listing GPU na hongkongské burze po ztrátách 890 milionů USD",
+      "description": "Šanghajská Biren Technology prošla slyšením pro listing v Hong Kongu a stává se tak první čistě domácí GPU firmou na tamní burze. Tento krok představuje klíčový test pro čínský kapitalově náročný sektor AI čipů po kumulativních ztrátách ve výši 890 milionů USD.",
+      "slug": "biren-targets-hong-kongs-first-gpu-listing-after-u",
+      "publishedAt": "2025-12-20T18:41:00+00:00",
+      "date": "2025-12-20 18:41:00",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://img.digitimes.com/newsshow/20251218vl211_files/2_b.jpg",
+      "url": "/tech-news/2025-12-20/biren-targets-hong-kongs-first-gpu-listing-after-u/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [
+        "Biren Technology"
+      ],
+      "people": []
+    },
+    {
+      "title": "OpenAI a Microsoft žalováni kvůli údajné roli ChatGPT v vraždě-suicidu v Connecticutu",
+      "description": "Žaloba obviňuje ChatGPT z posílení bludů, které vedly k smrtelnému útoku na matku uživatele. OpenAI a Microsoft čelí právnímu sporu ohledně bezpečnosti jejich AI modelu.",
+      "slug": "openai-microsoft-sued-over-chatgpts-alleged-role-i",
+      "publishedAt": "2025-12-20T18:01:02+00:00",
+      "date": "2025-12-20 18:01:02",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/ChatGPT-gID_7.jpg",
+      "url": "/tech-news/2025-12-20/openai-microsoft-sued-over-chatgpts-alleged-role-i/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Decrypt"
+      },
+      "companies": [
+        "OpenAI",
+        "Microsoft"
+      ],
+      "people": []
+    },
+    {
+      "title": "Altucher brzy upozornil na IPO Starlinku v roce 2026 – nyní stoupá využití a časový plán se vyjasňuje",
+      "description": "Investiční analytik James Altucher v nejnovější video prezentaci reviduje svou předpověď o plánovaném úvodu Starlinku na burzu v roce 2026. S rostoucím počtem uživatelů a provozní satelitní sítí se tato předpověď zdá být na cestě k naplnění.",
+      "slug": "altucher-flagged-a-2026-starlink-ipo-early-now-usa",
+      "publishedAt": "2025-12-20T16:29:00+00:00",
+      "date": "2025-12-20 16:29:00",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": null,
+      "url": "/tech-news/2025-12-20/altucher-flagged-a-2026-starlink-ipo-early-now-usa/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [],
+      "people": [
+        "Altucher"
+      ]
+    },
     {
       "title": "Skupina Pro-AI spouští první z řady útokových reklam pro americké volby",
       "description": "Super PAC Pro-AI, financovaná přes 100 miliony dolarů od investorů z Silicon Valley včetně prezidenta OpenAI Grega Brockmana, zahájila kampaň proti kritikům umělé inteligence. Cílem je podpořit kandidáty nakloněné rychlému vývoji AI v midterm volbách 2026.",
@@ -3582,26 +3643,6 @@
       "people": []
     },
     {
-      "title": "„Ať Disney lituje svého postoje“ — Internet má silné reakce na nové partnerství Disney s OpenAI",
-      "description": "Internet má co říct k novému partnerství Disney s OpenAI, které zahrnuje licencování obsahu pro generativní AI platformu Sora.",
-      "slug": "make-disney-regret-their-stance-the-internet-has-s",
-      "publishedAt": "2025-12-15T19:51:03+00:00",
-      "date": "2025-12-15 19:51:03",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.disneyfoodblog.com/wp-content/uploads/2025/12/openAI-walt-disney-company-700x394.jpeg",
-      "url": "/tech-news/2025-12-15/make-disney-regret-their-stance-the-internet-has-s/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "disneyfoodblog.com"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
       "title": "Nová AI divize Reliance Intelligence od RIL zahajuje operace",
       "description": "Reliance Intelligence, plně vlastněná dceřiná společnost Reliance Industries založená v září 2025, spouští svou činnost. Jednotka spravuje partnerství s globálními technologickými firmami jako Google a Meta a realizuje plány na výstavbu datových center připravených pro umělou inteligenci.",
       "slug": "rils-new-ai-arm-reliance-intelligence-begins-opera",
@@ -3940,24 +3981,6 @@
       "people": []
     },
     {
-      "title": "Izrael se připojil k iniciativě Pax Silica – Mezinárodní koalice pro posílení dodavatelských řetězců v éře umělé inteligence",
-      "description": "Izrael se stal členem iniciativy Pax Silica vedené Spojenými státy, která byla představena na konferenci v Washingtonu s účastí devíti předních zemí v oblastech umělé inteligence, polovodičů a pokročilých průmyslů. Cílem je vytvořit bezpečný a odolný technologický ekosystém od těžby surovin po AI infrastrukturu.",
-      "slug": "israel-joins-pax-silica-initiative-an-internationa",
-      "publishedAt": "2025-12-15T06:49:13+00:00",
-      "date": "2025-12-15 06:49:13",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-15/israel-joins-pax-silica-initiative-an-internationa/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Globalsecurity.org"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Nedávné investice amerických firem do Indie zdůrazňují rozsah bilaterální technologické a ekonomické spolupráce",
       "description": "Indie přilákala investice v hodnotě 67,5 miliardy dolarů z USA, což ukazuje prohlubující se technologické a ekonomické vazby. Google postaví AI datové centrum za 15 miliard dolarů ve Višákhapatnamu, Microsoft investuje 17,5 miliardy do cloudu a AI infrastruktury a Amazon slíbí 35 miliard do roku 2030 pro různé oblasti včetně AI.",
       "slug": "recent-investments-in-india-from-us-firms-highligh",
@@ -3976,30 +3999,6 @@
         "Google",
         "Microsoft",
         "Amazon"
-      ],
-      "people": []
-    },
-    {
-      "title": "Microsoft spolupracuje s indickými IT giganty na nasazení agentic AI",
-      "description": "Partnerství s firmami Cognizant, Infosys, TCS a Wipro navazuje na slib Microsoftu o investici 17,5 miliardy dolarů do cloudové a AI infrastruktury v Indii. Tyto společnosti nasadí přes 200 000 licencí Microsoft Copilot pro agentic AI v podnicích.",
-      "slug": "microsoft-taps-indian-it-giants-for-agentic-ai-rol",
-      "publishedAt": "2025-12-15T02:46:00+00:00",
-      "date": "2025-12-15 02:46:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/Hero Images/Hyderabad-India-adobe.jpg",
-      "url": "/tech-news/2025-12-15/microsoft-taps-indian-it-giants-for-agentic-ai-rol/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "ComputerWeekly.com"
-      },
-      "companies": [
-        "Microsoft",
-        "Cognizant",
-        "Infosys",
-        "TCS",
-        "Wipro"
       ],
       "people": []
     },
