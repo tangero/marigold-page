@@ -1,33 +1,54 @@
 {
-  "generated": "2025-12-21T01:41:40.274266+00:00",
+  "generated": "2025-12-21T04:54:16.367171+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "Recyklace lithium-iontových baterií prostřednictvím integrované elektro-membránové krystalizační technologie",
-      "description": "Tato studie představuje skalovatelnou a udržitelnou technologii recyklace asistovanou elektro-membránovou krystalizací (e-MCGR), která efektivně získává vysoce čisté lithiu, mangan, nikl a kobalt ze spotřebovaných lithium-iontových baterií.",
-      "slug": "lithium-ion-battery-recycling-through-an-integrate",
-      "publishedAt": "2025-12-20T00:00:00+00:00",
-      "date": "2025-12-20 00:00:00",
-      "importance": 4,
-      "category": "recyklace baterií",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-20/lithium-ion-battery-recycling-through-an-integrate/",
+      "title": "Bitva o streamovací služby je o divácích a jejich čase",
+      "description": "Pouze firmy s velkým objemem obsahu a technologickým motorem, který řídí jeho objevování a monetizaci, mohou soutěžit, vysvětluje Vanita Kohli Khandekar. Článek analyzuje konkurenční boj v sektoru OTT platforem, včetně nedávných masivních akvizic mezi giganty jako Netflix, Warner Bros. Discovery a Paramount.",
+      "slug": "the-ott-battle-is-for-audiences-and-their-time",
+      "publishedAt": "2025-12-20T04:24:11+00:00",
+      "date": "2025-12-20 04:24:11",
+      "importance": 5,
+      "category": "streamovací služby",
+      "urlToImage": "https://im.rediff.com/1200-630/movies/2025/dec/18bs1.jpg",
+      "url": "/tech-news/2025-12-20/the-ott-battle-is-for-audiences-and-their-time/",
       "source": {
         "emoji": "📰",
         "id": null,
-        "name": "Nature.com"
+        "name": "Rediff.com"
       },
       "companies": [],
       "people": []
     },
     {
+      "title": "Chůze humanoidního robota XPeng „catwalk“ vyvolává debatu, průmysl se zaměřuje na technologie pohonu další generace",
+      "description": "Humanoidní roboti pokračují v pokrocích, XPeng nedávno představil robota nové generace IRON s velmi přirozenou posturou, což spustilo širokou diskusi v oboru. Krátce poté Tesla zveřejnila video svého robota Optimus běžícího.",
+      "slug": "xpengs-humanoid-robot-catwalk-sparks-debate-as-ind",
+      "publishedAt": "2025-12-20T01:41:31+00:00",
+      "date": "2025-12-20 01:41:31",
+      "importance": 5,
+      "category": "robotika",
+      "urlToImage": "https://img.digitimes.com/newsshow/20251218pd226_files/2_b.jpg",
+      "url": "/tech-news/2025-12-20/xpengs-humanoid-robot-catwalk-sparks-debate-as-ind/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [
+        "XPeng",
+        "Tesla"
+      ],
+      "people": []
+    },
+    {
       "title": "Architekti umělé inteligence jsou Osobností roku 2025 podle TIME",
-      "description": "Architekti umělé inteligence pohnali ekonomiku, ovlivnili geopolitiku a změnili způsob, jakým interagujeme se světem.",
+      "description": "Architekti umělé inteligence poháněli ekonomiku, formovali geopolitiku a změnili způsob, jak interagujeme se světem.",
       "slug": "the-architects-of-ai-are-times-2025-person-of-the-",
       "publishedAt": "2025-12-19T22:49:00+00:00",
       "date": "2025-12-19 22:49:00",
       "importance": 5,
-      "category": "umělá inteligence",
+      "category": "ai",
       "urlToImage": "https://api.time.com/wp-content/uploads/2025/12/time-person-of-the-year-2025-01.jpg?quality=85&w=1200&h=628&crop=1",
       "url": "/tech-news/2025-12-19/the-architects-of-ai-are-times-2025-person-of-the/",
       "source": {
@@ -3980,27 +4001,6 @@
         "name": "The Times of India"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Práce vedená umělou inteligencí vyniká jako hnací síla růstu Capgemini India: generální ředitel Capgemini India",
-      "description": "Společnost staví své obchodní operace a plánovanou integraci s WNS do centra strategie, poháněné poptávkou z globálních center schopností (GCC) a podniků. Capgemini oznámilo odkup WNS na začátku letošního roku za 3 miliardy dolarů.",
-      "slug": "ai-led-work-stands-out-as-capgemini-indias-growth-",
-      "publishedAt": "2025-12-15T00:30:00+00:00",
-      "date": "2025-12-15 00:30:00",
-      "importance": 5,
-      "category": "ai",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-131292,resizemode-75,msid-125964417/tech/information-tech/ai-led-work-stands-out-as-capgemini-indias-growth-driver-capgemini-india-md.jpg",
-      "url": "/tech-news/2025-12-15/ai-led-work-stands-out-as-capgemini-indias-growth/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Capgemini",
-        "WNS"
-      ],
       "people": []
     },
     {

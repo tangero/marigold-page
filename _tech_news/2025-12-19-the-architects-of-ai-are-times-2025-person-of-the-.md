@@ -1,9 +1,9 @@
 ---
 author: Marisa Aigen
-category: umělá inteligence
+category: ai
 date: '2025-12-19 22:49:00'
-description: Architekti umělé inteligence pohnali ekonomiku, ovlivnili geopolitiku
-  a změnili způsob, jakým interagujeme se světem.
+description: Architekti umělé inteligence poháněli ekonomiku, formovali geopolitiku
+  a změnili způsob, jak interagujeme se světem.
 importance: 5
 layout: tech_news_article
 original_title: The Architects of AI Are TIME’s 2025 Person of the Year
@@ -20,24 +20,23 @@ urlToImageBackup: https://api.time.com/wp-content/uploads/2025/12/time-person-of
 ---
 
 ### Souhrn
-Časopis TIME vyhlásil architekty umělé inteligence za Osobu roku 2025. Klíčovou postavou je Jensen Huang, generální ředitel Nvidia, jehož firma díky čipům pro AI čipy dosáhla hodnoty přes tři biliony dolarů a stala se nejcennější společností světa. Tento výběr podtrhuje, jak AI ovlivňuje ekonomiku, státní politiku a globální vztahy.
+Časopis TIME vyhlásil architekty umělé inteligence za Osobnost roku 2025. Mezi klíčovými postavami je Jensen Huang, generální ředitel společnosti Nvidia, jejíž čipy dominují v AI infrastruktuře. Tento titul zdůrazňuje, jak AI ovlivňuje ekonomiku, diplomacii a každodenní interakce.
 
 ### Klíčové body
-- Nvidia pod Huangovým vedením přešla z výrobce grafických procesorů (GPU) pro videohry na dominantního dodavatele hardware pro trénink AI modelů.
-- Firma má téměř monopolní postavení na pokročilých AI čipech, což ji činí nástrojem státní politiky v oblasti technologie a diplomacie.
-- Prezident Donald Trump označil Huanga za člověka, který „dobývá svět“, během nedávné telefonické konverzace.
-- AI lídři jako Sam Altman z OpenAI a Elon Musk z xAI a Tesla varují před riziky superinteligentních systémů.
-- Nvidia je zobrazována v memech jako Atlas nesoucí akciový trh na ramenou.
+- Nvidia se stala nejcennější společností světa díky monopolnímu postavení v produkci pokročilých GPU pro AI.
+- Jensen Huang je spojencem politických lídrů, včetně Donalda Trumpa, což ukazuje propojení technologie s geopolitikou.
+- AI lídři jako Sam Altman a Elon Musk varují před riziky, zatímco jejich firmy pohánějí globální transformaci.
+- Přechod Nvidie z grafických procesorů pro hry na AI dominanci proběhl během několika let.
 
 ### Podrobnosti
-Jensen Huang, 62letý tajwanský emigrant a zakladatel Nvidia, vstupuje do studia v sídle firmy v Bay Area. Je unavený po letech růstu: z poměrně neznámé společnosti specializující se na GPU pro herní grafiku se Nvidia stala klíčovým hráčem AI revoluce. Tyto GPU, jako řada H100 nebo nadcházející Blackwell, umožňují paralelní výpočty nutné pro trénink velkých jazykových modelů (LLM), jako jsou GPT nebo Llama. Bez nich by modely jako ChatGPT nemohly dosáhnout současné úrovně výkonu, protože slouží k zpracování bilionů parametrů dat v krátkém čase.
+Článek popisuje Jensen Huanga, 62letého CEO Nvidie, který vstupuje do studia na sídli firmy v Bay Area. Nvidia, původně specializovaná na grafické procesory (GPU) pro videohry, nyní ovládá trh s čipy nezbytnými pro trénink velkých jazykových modelů (LLM) a další AI aplikace. Tyto GPU, jako například série H100 nebo Blackwell, umožňují paralelní zpracování obrovských datových sad, což je klíčové pro modely jako GPT nebo Gemini. Hodnota firmy překročila všechny ostatní, s akciemi taženými AI boomem.
 
-Huang je známý svým rychlým temperamentem i vizionářstvím. Během focení se po zapnutí písně Aerosmith „Dream On" oblékne do své typické černé kožené bundy a promění se v symbol optimismu. Nvidia není jen korporátní gigant: její čipy jsou strategickým aktivem. USA omezují export do Číny, což posiluje geopolitické napětí. Trump během státní návštěvy ve Velké Británii volal Huangovi v noci, uznávaje jeho vliv.
+Huangova transformace z unaveného lídra k charismatickému vizionáři symbolizuje dynamiku AI revoluce. Prezident Donald Trump ho označil za „dobývatele světa“ během telefonátu, což ilustruje, jak Nvidia funguje na pomezí technologie a státní politiky. Firma exportuje čipy do Číny s omezeními, což ovlivňuje globální dodavatelské řetězce a soutěž mezi USA a Čínou v AI. Další architekti, jako Sam Altman z OpenAI (vývojce ChatGPT pro generování textu, kódu a analýz) a Elon Musk z xAI a Tesla (autonomní řízení a robotika), upozorňují na rizika superinteligence. Lidé se desetiletí připravovali na AI, od porážky šachových mistrů po predikci proteinových struktur, ale nyní čelí reálným dopadům na zaměstnanost, soukromí a bezpečnost.
 
-Další architekti zahrnují Sam Altmana, který vede OpenAI a prosazuje AGI (umělou obecné inteligenci), a Elona Muska, zakladatele xAI, který kritizuje uzavřené modely jako GPT-4. Lidé se desetiletí připravovali na AI: od porážky šachových mistrů po predikci proteinových struktur pomocí AlphaFold. Přesto přetrvává strach z uncanny valley – nelidského chování AI – a hrozeb pro pracovní místa i lidskou autonomii. Nvidia ovládá 80-90 % trhu s AI akcelerátory, což vyvolává obavy z monopoly a závislosti ekosystému na jednom dodavateli.
+Nvidia není jen korporací, ale nástrojem státní moci. Memes ji přirovnávají k Atlasovi nesoucímu trhy. Tento titul TIME potvrzuje přechod AI z hypotézy k realitě, kde firmy jako Nvidia kontrolují hardwareovou bázi, zatímco OpenAI a Google budují software. Kritici poukazují na závislost ekosystému na jedné firmě, což zvyšuje rizika výpadků nebo regulací.
 
 ### Proč je to důležité
-Tento výběr TIME signalizuje, že AI není jen technologický trend, ale systémová síla měnící globální ekonomiku – Nvidia přispěla k růstu akciového trhu o biliony – a geopolitiku, kde čipy rozhodují o nadvládě. Pro průmysl znamená dominanci Nvidia akceleraci vývoje LLM a robotiky, ale i rizika: případné výpadky dodávek by zastavily trénink modelů. Pro uživatele to přináší pokročilejší AI nástroje v každodenním životě, od asistentů po autonomní vozy Tesla, avšak s otázkami bezpečnosti a etiky. Jako expert vidím v monopolním postavení Nvidia riziko stagnace inovací; konkurence od AMD nebo čínských firem jako Huawei je nutná pro udržitelný pokrok. Celkově to podtrhuje, že AI architekti definují éru, kde hardware určuje tempo digitální transformace.
+Toto ocenění signalizuje, že AI není marginalní technologie, ale centrální síla formující ekonomiku – Nvidia přispěla k růstu akciových indexů a miliardám investic do datových center. Geopoliticky posiluje postavení USA, ale vyvolává napětí s Čínou kvůli exportním kontrolám GPU. Pro uživatele znamená rychlejší AI nástroje v každodenním životě, od asistentů po autonomní vozidla, ale i rizika jako bias v modelech nebo energetická náročnost tréninku (jeden GPT-4 trénink spotřebuje energii jako stovky domácností). V širším kontextu urychluje to debatu o regulacích EU AI Act nebo národních strategiích, kde lídři jako Huang hrají roli veřejných i soukromých aktérů. Dlouhodobě to může vést k AGI, ale vyžaduje vyvážený přístup k bezpečnosti.
 
 ---
 
