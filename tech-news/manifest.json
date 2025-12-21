@@ -1,7 +1,86 @@
 {
-  "generated": "2025-12-20T20:40:51.042400+00:00",
+  "generated": "2025-12-21T01:41:40.274266+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Recyklace lithium-iontových baterií prostřednictvím integrované elektro-membránové krystalizační technologie",
+      "description": "Tato studie představuje skalovatelnou a udržitelnou technologii recyklace asistovanou elektro-membránovou krystalizací (e-MCGR), která efektivně získává vysoce čisté lithiu, mangan, nikl a kobalt ze spotřebovaných lithium-iontových baterií.",
+      "slug": "lithium-ion-battery-recycling-through-an-integrate",
+      "publishedAt": "2025-12-20T00:00:00+00:00",
+      "date": "2025-12-20 00:00:00",
+      "importance": 4,
+      "category": "recyklace baterií",
+      "urlToImage": null,
+      "url": "/tech-news/2025-12-20/lithium-ion-battery-recycling-through-an-integrate/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Nature.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Architekti umělé inteligence jsou Osobností roku 2025 podle TIME",
+      "description": "Architekti umělé inteligence pohnali ekonomiku, ovlivnili geopolitiku a změnili způsob, jakým interagujeme se světem.",
+      "slug": "the-architects-of-ai-are-times-2025-person-of-the-",
+      "publishedAt": "2025-12-19T22:49:00+00:00",
+      "date": "2025-12-19 22:49:00",
+      "importance": 5,
+      "category": "umělá inteligence",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2025/12/time-person-of-the-year-2025-01.jpg?quality=85&w=1200&h=628&crop=1",
+      "url": "/tech-news/2025-12-19/the-architects-of-ai-are-times-2025-person-of-the/",
+      "source": {
+        "emoji": "📰",
+        "id": "time",
+        "name": "Time"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Nový šéf NASA stanovuje priority hned první den",
+      "description": "Nový administrátor NASA, miliardářský podnikatel Jared Isaacman, sdělil NBC News své priority pro vesmírnou agenturu.",
+      "slug": "nasas-new-leader-makes-his-priorities-clear-on-day",
+      "publishedAt": "2025-12-19T22:16:48+00:00",
+      "date": "2025-12-19 22:16:48",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251219-jared-isaacman-nasa-bf-1458-241d18.jpg",
+      "url": "/tech-news/2025-12-19/nasas-new-leader-makes-his-priorities-clear-on-day/",
+      "source": {
+        "emoji": "📰",
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "companies": [
+        "NASA"
+      ],
+      "people": [
+        "Jared Isaacman"
+      ]
+    },
+    {
+      "title": "Palo Alto Networks uzavírá dohodu o AI v hodnotě miliard dolarů s Google Cloud",
+      "description": "Palo Alto Networks přesune své klíčové interní úlohy na platformu Google Cloud v rámci partnerství oznámeného dnes. Kyberbezpečnostní společnost označila projekt za dohodu v hodnotě téměř 10 miliard dolarů s důrazem na umělou inteligenci.",
+      "slug": "palo-alto-networks-inks-multibillion-dollar-ai-dea",
+      "publishedAt": "2025-12-19T21:34:11+00:00",
+      "date": "2025-12-19 21:34:11",
+      "importance": 4,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Palo-Alto-Networks.png",
+      "url": "/tech-news/2025-12-19/palo-alto-networks-inks-multibillion-dollar-ai-dea/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Palo Alto Networks",
+        "Google"
+      ],
+      "people": []
+    },
     {
       "title": "Truth Social Donalda Trumpa se sloučí s startupem na fúzní energii, který jste pravděpodobně neslyšeli",
       "description": "Společnost Trump Media & Technology Group Corp., mateřská firma sociální sítě Truth Social, oznámila plánované sloučení s TAE Technologies. V rámci dohody poskytne TMTG startupu 300 milionů dolarů na stavbu 50megawattové komerční fúzní elektrárny.",
@@ -3959,84 +4038,6 @@
       },
       "companies": [
         "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Warby Parker (WRBY) vzrostl o 46 % před uvedením AI brýlí v roce 2026",
-      "description": "Akcie Warby Parker Inc. (NYSE:WRBY) posílily o 46 procent týdně na nové maximum za 52 týdnů díky podání u SEC, které potvrdilo partnerství s Google na vývoj inteligentních brýlí s umělou inteligencí. Produkt má být odhalen v roce 2026 a obsahuje multimodální AI s dioptrickými i nedioptrickými čočkami.",
-      "slug": "warby-parker-wrby-climbs-46-ahead-of-2026-ai-devel",
-      "publishedAt": "2025-12-14T19:41:25+00:00",
-      "date": "2025-12-14 19:41:25",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/D0z5VqhvmkeRz0bKYCfSqw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTc-/https://media.zenfs.com/en/insidermonkey.com/c0ec52b7a50af86083dba23321dbc8f8",
-      "url": "/tech-news/2025-12-14/warby-parker-wrby-climbs-46-ahead-of-2026-ai-devel/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Volkswagen testuje svého rivala Tesla Robotaxi ve Wolfsburgu",
-      "description": "Volkswagen otestovává výzkumné autonomní vozidlo Gen.Urban ve Wolfsburgu v Německu, kde jede bez volantu a pedálů v reálném městském provozu. Projekt se zaměřuje na zkušenost pasažérů a budování důvěry v autonomní jízdu.",
-      "slug": "volkswagens-tesla-robotaxi-rival-gets-put-to-the-t",
-      "publishedAt": "2025-12-14T19:13:59+00:00",
-      "date": "2025-12-14 19:13:59",
-      "importance": 4,
-      "category": "autonomní vozidla",
-      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2025/12/vw-gen_urban.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-12-14/volkswagens-tesla-robotaxi-rival-gets-put-to-the-t/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Electrek"
-      },
-      "companies": [
-        "Tesla"
-      ],
-      "people": []
-    },
-    {
-      "title": "S druhými nejlepšími AI čipy Nvidia směřujícími do Číny se USA mění priority z bezpečnosti na obchod",
-      "description": "USA povolily Nvidia prodávat výkonné AI čipy H200 do Číny výměnou za 25 procent zisku. Tato změna oslabuje exportní kontroly a může posílit vývoj AI systémů pro autonomní zbraně. Spojenci jako Austrálie čelí dilematu mezi ekonomickými vazbami na Čínu a bezpečnostními závazky vůči USA.",
-      "slug": "with-nvidias-second-best-ai-chips-headed-for-china",
-      "publishedAt": "2025-12-14T06:01:26+00:00",
-      "date": "2025-12-14 06:01:26",
-      "importance": 4,
-      "category": "ai čipy",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-17916,resizemode-75,msid-125958185/tech/artificial-intelligence/with-nvidias-second-best-ai-chips-headed-for-china-the-us-shifts-priorities-from-security-to-trade.jpg",
-      "url": "/tech-news/2025-12-14/with-nvidias-second-best-ai-chips-headed-for-china/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": []
-    },
-    {
-      "title": "WGA se obává, že licence Disney s OpenAI 'schválí' krádež naší práce",
-      "description": "Sdružení amerických scenáristů (WGA) vyjádřilo obavy, že nedávná licenční dohoda Disney s OpenAI schválí 'krádež naší práce'. Gilda kritizuje Disney za předání hodnoty jejich tvorby technologické firmě, která podle nich budovala svůj byznys na jejich zádech.",
-      "slug": "wga-fears-disneys-licensing-with-openai-will-sanct",
-      "publishedAt": "2025-12-14T05:34:31+00:00",
-      "date": "2025-12-14 05:34:31",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://media.breitbart.com/media/2025/12/GettyImages-696778206-640x335.jpg",
-      "url": "/tech-news/2025-12-14/wga-fears-disneys-licensing-with-openai-will-sanct/",
-      "source": {
-        "emoji": "📰",
-        "id": "breitbart-news",
-        "name": "Breitbart News"
-      },
-      "companies": [
-        "OpenAI"
       ],
       "people": []
     }
