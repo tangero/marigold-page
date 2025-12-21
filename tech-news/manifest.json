@@ -1,7 +1,88 @@
 {
-  "generated": "2025-12-21T04:54:16.367171+00:00",
+  "generated": "2025-12-21T08:38:50.202137+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Bývalý manažer Nvidia představuje nové AI čipy po úspěšném čínském IPO",
+      "description": "Společnost Moore Threads Technology představila novou generaci čipů s architekturou Huagang, která má snížit závislost vývojářů umělé inteligence na hardwaru Nvidia. Krátce po jednom z největších úspěchů na čínské burze v posledních letech společnost slibuje vyšší výpočetní hustotu a lepší energetickou účinnost.",
+      "slug": "ex-nvidia-billionaire-unveils-new-ai-chips-after-c",
+      "publishedAt": "2025-12-20T06:03:24+00:00",
+      "date": "2025-12-20 06:03:24",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/12/metax-listing-comes-after-big-gains-in-china-chipmakers.jpg",
+      "url": "/tech-news/2025-12-20/ex-nvidia-billionaire-unveils-new-ai-chips-after-c/",
+      "source": {
+        "emoji": "📰",
+        "id": "financial-post",
+        "name": "Financial Post"
+      },
+      "companies": [
+        "Moore Threads Technology Co",
+        "Nvidia Corp"
+      ],
+      "people": []
+    },
+    {
+      "title": "Závod o hvězdnou sílu: TAE Technologies se sloučí s Trump Media v dealu za 6 miliard dolarů",
+      "description": "Trump Media & Technology Group (TMTG) oznámila sloučení s jadernou fúzní společností TAE Technologies v hodnotě 6 miliard dolarů v akciích. Společná firma chce do roku 2026 umístit a zahájit stavbu první komerční fúzní elektrárny v měřítku sítě, aby pokryla rostoucí energetické potřeby umělé inteligence.",
+      "slug": "race-for-star-power-tae-technologies-to-merge-with",
+      "publishedAt": "2025-12-20T06:00:00+00:00",
+      "date": "2025-12-20 06:00:00",
+      "importance": 5,
+      "category": "jaderná fúze",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/12/Donald-Trump-Image-3.jpg",
+      "url": "/tech-news/2025-12-20/race-for-star-power-tae-technologies-to-merge-with/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "companies": [
+        "TAE Technologies",
+        "Trump Media & Technology Group"
+      ],
+      "people": []
+    },
+    {
+      "title": "Elon Musk předpovídá, že umělá inteligence udělá peníze zbytečnými, odmítá potřebu spořicích účtů",
+      "description": "Elon Musk považuje tradiční spořicí účty, včetně tzv. Trump Accounts, za zbytečné a předpovídá, že AI a robotika vytvoří ekonomiku post-scarcity, kde finanční plánování přestane mít smysl. Podle něj automatizace zajistí široce rozšířené bohatství a nahradí univerzální základní příjem tzv. univerzálním vysokým příjmem.",
+      "slug": "elon-musk-predicts-ai-will-make-money-obsolete-dis",
+      "publishedAt": "2025-12-20T06:00:00+00:00",
+      "date": "2025-12-20 06:00:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/12/Elon-Musk-White-House.jpg",
+      "url": "/tech-news/2025-12-20/elon-musk-predicts-ai-will-make-money-obsolete-dis/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk",
+        "Donald Trump"
+      ]
+    },
+    {
+      "title": "Princeton čelí několika soudním žalobám po odhalení kybernetického narušení týkajícího se dat studentů a absolventů",
+      "description": "Univerzita Princeton čelí třem sloučeným žalobám po kybernetickém incidentu, který ovlivnil osobní data studentů, pedagogů, absolventů a dárce. Ačkoli neexistují důkazy o úniku citlivých údajů jako čísla sociálního zabezpečení, hesel nebo údajů platebních karet, událost vyvolala právní kroky a širší diskuse o ochraně dat ve vysokých školách.",
+      "slug": "princeton-faces-multiple-lawsuits-after-disclosing",
+      "publishedAt": "2025-12-20T05:59:12+00:00",
+      "date": "2025-12-20 05:59:12",
+      "importance": 4,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-126089276,width-1070,height-580,imgsize-2384786,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+      "url": "/tech-news/2025-12-20/princeton-faces-multiple-lawsuits-after-disclosing/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Bitva o streamovací služby je o divácích a jejich čase",
       "description": "Pouze firmy s velkým objemem obsahu a technologickým motorem, který řídí jeho objevování a monetizaci, mohou soutěžit, vysvětluje Vanita Kohli Khandekar. Článek analyzuje konkurenční boj v sektoru OTT platforem, včetně nedávných masivních akvizic mezi giganty jako Netflix, Warner Bros. Discovery a Paramount.",
@@ -3166,26 +3247,6 @@
       "people": []
     },
     {
-      "title": "Apple Vision Pro M5: Jak wolfram, textilní úplet a křemík konečně činí prostorovou počítačovost obývatelnou",
-      "description": "Nová verze Apple Vision Pro s čipem M5 zachovává původní design, ale řeší klíčové nedostatky v komfortu a výkonu díky wolframu pro lepší vyvážení, textilnímu úpletu pro měkkost a pokročilému křemíku v čipech. To přeměňuje zařízení z demo kusu na prakticky použitelný nástroj pro prostorovou počítačovost.",
-      "slug": "apple-vision-pro-m5-how-tungsten-knit-and-silicon-",
-      "publishedAt": "2025-12-15T23:58:10+00:00",
-      "date": "2025-12-15 23:58:10",
-      "importance": 4,
-      "category": "prostorové počítačst",
-      "urlToImage": "https://www.yankodesign.com/images/design_news/2025/12/apple-vision-pro-m5-how-tungsten-knit-and-silicon-finally-make-spatial-computing-livable/vincent-vision-pro-M5.jpg",
-      "url": "/tech-news/2025-12-15/apple-vision-pro-m5-how-tungsten-knit-and-silicon/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yanko Design"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
       "title": "Šéf Tesly Elon Musk udělal odvážné tvrzení o budoucí technologické nabídce: 'Bude mimo tento svět'",
       "description": "„Pokud to někdo dokáže, tak on!“",
       "slug": "tesla-ceo-elon-musk-makes-bold-claim-about-future-",
@@ -3224,26 +3285,6 @@
       },
       "companies": [
         "PolyAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Šéf bezpečnosti Amazonu obviňuje ruskou GRU z dlouhodobých útoků na energetický sektor",
-      "description": "Dlouhodobá soustředěnost na západní kritickou infrastrukturu. Hlavní správa rozvědky Ruska (GRU) provádí kampaň proti energetice, telekomunikacím a dodavatelům technologií, kde kradou přihlašovací údaje a kompromitují špatně nastavená zařízení na AWS pro trvalý přístup k sítím.",
-      "slug": "amazon-security-boss-blames-russias-gru-for-years-",
-      "publishedAt": "2025-12-15T23:34:40+00:00",
-      "date": "2025-12-15 23:34:40",
-      "importance": 5,
-      "category": "kybernetika",
-      "urlToImage": "https://regmedia.co.uk/2022/03/18/russian_bear_shutterstock.jpg",
-      "url": "/tech-news/2025-12-15/amazon-security-boss-blames-russias-gru-for-years/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "companies": [
-        "Amazon"
       ],
       "people": []
     },
@@ -3324,26 +3365,6 @@
       "people": []
     },
     {
-      "title": "Amazon Threat Intelligence identifikuje ruskou kybernetickou hrozbu cílenou na západní kritickou infrastrukturu",
-      "description": "Amazon Threat Intelligence na konci roku 2025 zveřejňuje poznatky o víceleté kampani sponzorované ruským státem, která představuje taktický posun v útocích na kritickou infrastrukturu. Hlavním vektorem přístupu se stala špatně nakonfigurovaná zařízení na okraji zákaznických sítí, zatímco využívání zranitelností kleslo.",
-      "slug": "amazon-threat-intelligence-identifies-russian-cybe",
-      "publishedAt": "2025-12-15T19:20:36+00:00",
-      "date": "2025-12-15 19:20:36",
-      "importance": 5,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2025/11/19/security-4868162_1920-1-1260x630.jpg",
-      "url": "/tech-news/2025-12-15/amazon-threat-intelligence-identifies-russian-cybe/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Amazon.com"
-      },
-      "companies": [
-        "Amazon"
-      ],
-      "people": []
-    },
-    {
       "title": "Nová AI divize Reliance Intelligence od RIL zahajuje operace",
       "description": "Reliance Intelligence, plně vlastněná dceřiná společnost Reliance Industries založená v září 2025, spouští svou činnost. Jednotka spravuje partnerství s globálními technologickými firmami jako Google a Meta a realizuje plány na výstavbu datových center připravených pro umělou inteligenci.",
       "slug": "rils-new-ai-arm-reliance-intelligence-begins-opera",
@@ -3380,26 +3401,6 @@
         "name": "Freerepublic.com"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Appleův AI serverový čip „Baltra“ bude pravděpodobně použit především pro AI inference",
-      "description": "Apple vyvíjí vlastní serverový čip pro umělou inteligenci s kódovým názvem „Baltra“, jehož uvedení na trh se očekává v roce 2027. Čip má sloužit především k inference AI modelů a firma spolupracuje s Broadcom na síťové technologii, aby se vyhnula závislosti na Nvidia.",
-      "slug": "apples-ai-server-chip-baltra-likely-to-be-used-pri",
-      "publishedAt": "2025-12-15T19:07:35+00:00",
-      "date": "2025-12-15 19:07:35",
-      "importance": 4,
-      "category": "ai hardware",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/12/Apple-Baltra.jpg",
-      "url": "/tech-news/2025-12-15/apples-ai-server-chip-baltra-likely-to-be-used-pri/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Wccftech"
-      },
-      "companies": [
-        "Apple"
-      ],
       "people": []
     },
     {
