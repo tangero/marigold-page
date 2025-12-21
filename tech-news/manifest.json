@@ -1,7 +1,87 @@
 {
-  "generated": "2025-12-21T12:47:09.540463+00:00",
+  "generated": "2025-12-21T16:38:17.892315+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Skupina Pro-AI spouští první z řady útokových reklam pro americké volby",
+      "description": "Super PAC Pro-AI, financovaná přes 100 miliony dolarů od investorů z Silicon Valley včetně prezidenta OpenAI Grega Brockmana, zahájila kampaň proti kritikům umělé inteligence. Cílem je podpořit kandidáty nakloněné rychlému vývoji AI v midterm volbách 2026.",
+      "slug": "pro-ai-group-launches-first-of-many-attack-ads-for",
+      "publishedAt": "2025-12-20T15:34:00+00:00",
+      "date": "2025-12-20 15:34:00",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://a.fsdn.com/sd/topics/ai_64.png",
+      "url": "/tech-news/2025-12-20/pro-ai-group-launches-first-of-many-attack-ads-for/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": [
+        "Greg Brockman"
+      ]
+    },
+    {
+      "title": "Tento týdenní výběr technologických příběhů z webu (do 20. prosince)",
+      "description": "Souhrn klíčových tech novinek týdne zahrnuje spekulace o životě v roce 2035 s umělou obecné inteligencí, self-improving kódovací agent Codex od OpenAI a debaty o nasazení AI v programování. Další témata zahrnují biotechnologii a brain-computer interface.",
+      "slug": "this-weeks-awesome-tech-stories-from-around-the-we",
+      "publishedAt": "2025-12-20T15:00:00+00:00",
+      "date": "2025-12-20 15:00:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://singularityhub.com/uploads/2025/12/infrared-images-of-titan-nasa-cassini.jpeg?auto=webp",
+      "url": "/tech-news/2025-12-20/this-weeks-awesome-tech-stories-from-around-the-we/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Singularity Hub"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Nejnovější bezpečnostní data Waymo ukazují vysokou bezpečnost po 96 milionech najetých mil",
+      "description": "Robotickému řidiči bych důvěřoval více než lidskému.",
+      "slug": "the-latest-safety-data-from-waymo-is-astonishingly",
+      "publishedAt": "2025-12-20T14:49:22+00:00",
+      "date": "2025-12-20 14:49:22",
+      "importance": 4,
+      "category": "autonomní vozy",
+      "urlToImage": "https://twistedsifter.com/wp-content/uploads/2025/10/Waymo-1.jpg",
+      "url": "/tech-news/2025-12-20/the-latest-safety-data-from-waymo-is-astonishingly/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Twistedsifter.com"
+      },
+      "companies": [
+        "Waymo"
+      ],
+      "people": []
+    },
+    {
+      "title": "OpenAI zkoumá dohody s univerzitami, ChatGPT získává převahu v AI na kampusech",
+      "description": "Umělá inteligence překročila hranici na amerických univerzitních kampusech. Z opatrnosti, debat o pravidlech a zákazů se stala součást každodenního akademického života. OpenAI, tvůrce ChatGPT, se stává průkopníkem v této transformaci.",
+      "slug": "openai-explores-college-deals-as-chatgpt-gains-ai-",
+      "publishedAt": "2025-12-20T14:00:17+00:00",
+      "date": "2025-12-20 14:00:17",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://rollingout.com/wp-content/uploads/2025/10/shutterstock_2378605551.jpg",
+      "url": "/tech-news/2025-12-20/openai-explores-college-deals-as-chatgpt-gains-ai/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Rolling Out"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
     {
       "title": "Zabije kvantové počítání Bitcoin?",
       "description": "Tvrdby, že kvantové počítání zničí Bitcoin, mohou být přehnané, ale Bitcoin bude muset být upraven, aby odolal této hrozbě.",
@@ -3579,27 +3659,6 @@
       "people": []
     },
     {
-      "title": "Intel se blíží k dohodě o koupi startupu SambaNova za 1,6 miliardy dolarů",
-      "description": "Potenciální akvizice by rozšířila snahu Intelu o pokročilé akcelerátory pro umělou inteligenci. SambaNova vyvíjí vysoce výkonný hardware pro rychlejší trénink velkých AI modelů.",
-      "slug": "intel-nears-16-billion-deal-to-buy-ai-chip-startup",
-      "publishedAt": "2025-12-15T15:49:45+00:00",
-      "date": "2025-12-15 15:49:45",
-      "importance": 5,
-      "category": "ai čipy",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/WoUMlppRwSVCl_k5uEl4xw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD00ODc-/https://media.zenfs.com/en/us.finance.gurufocus/06ee28153af34ee682f043e62519b8dd",
-      "url": "/tech-news/2025-12-15/intel-nears-16-billion-deal-to-buy-ai-chip-startup/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [
-        "Intel",
-        "SambaNova"
-      ],
-      "people": []
-    },
-    {
       "title": "Bilance OpenAI v oblasti bezpečnosti AI je špatná – spíš funguje jako zastupitelský orgán než skutečné výzkumné laboratoř",
       "description": "Alespoň dva výzkumníci nedávno opustili OpenAI kvůli obavám, že společnost nebyla zcela upřímná a příliš opatrná při publikování výzkumu, zejména pokud se týkal negativních aspektů technologie.",
       "slug": "openais-track-record-on-ai-safety-stinks-bordering",
@@ -3724,24 +3783,6 @@
       "people": []
     },
     {
-      "title": "Pokud vám záleží na bezpečnosti vašeho iPhonu, aktualizujte ihned",
-      "description": "Nové aktualizace iOS a iPadOS přinášejí 25 bezpečnostních oprav, včetně zero-day zranitelností v WebKit, které byly zneužity v sofistikovaných útocích na cílené jednotlivce. I pro uživatele starších verzí je k dispozici iOS/iPadOS 18.7.3 s 20 klíčovými opravami.",
-      "slug": "if-you-care-about-the-security-of-your-iphone-go-u",
-      "publishedAt": "2025-12-15T12:15:00+00:00",
-      "date": "2025-12-15 12:15:00",
-      "importance": 5,
-      "category": "mobilní bezpečnost",
-      "urlToImage": "https://www.macworld.com/wp-content/uploads/2025/12/ios26-2-hero-8.jpg?quality=50&strip=all&w=1024",
-      "url": "/tech-news/2025-12-15/if-you-care-about-the-security-of-your-iphone-go-u/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Macworld"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "OpenAI je společností roku 2025 podle Yahoo Finance",
       "description": "Výrobce ChatGPT spustil technologickou revoluci této generace. Dokáže největší hnací síla umělé inteligence pokračovat v podpoře zlaté horečky?",
       "slug": "openai-is-the-2025-yahoo-finance-company-of-the-ye",
@@ -3779,26 +3820,6 @@
       "companies": [
         "Amazon",
         "Homebound"
-      ],
-      "people": []
-    },
-    {
-      "title": "Jak Google vidí umělou inteligenci v roce 2026: Od jednotných modelů po spoluvědce a kódové agenty",
-      "description": "Podle šéfa AI u Google Demise Hassabise se do roku 2026 AI vyvine do full omnimodelů, které integrují text, obrazy, video, audio a robotiku. Tyto systémy umožní pokročilé uvažování podobné lidskému a najdou uplatnění v řešení globálních problémů.",
-      "slug": "how-google-sees-2026-ai-from-unified-models-to-co-",
-      "publishedAt": "2025-12-15T11:45:58+00:00",
-      "date": "2025-12-15 11:45:58",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/live-in-gemini-real-time-assistant_optimized.jpg",
-      "url": "/tech-news/2025-12-15/how-google-sees-2026-ai-from-unified-models-to-co/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [
-        "Google"
       ],
       "people": []
     },
@@ -4023,24 +4044,6 @@
         "ServiceNow",
         "Armis"
       ],
-      "people": []
-    },
-    {
-      "title": "Hongkong a Indie pohánějí rekordní rok sběru kapitálu v Asii",
-      "description": "Burza v Hongkongu zaznamenala výrazný obrat, prodeje akcií vzrostly na více než 73 miliard dolarů a staly se nejúspěšnějšími v Asii. Čínské firmy jako výrobci baterií a elektromobilů vedou tento trend díky snaze o globální expanzi, Indie, pevninská Čína a Japonsko také vykazují silné obchody.",
-      "slug": "honk-kong-india-fuel-blockbuster-year-for-asia-fun",
-      "publishedAt": "2025-12-15T00:54:30+00:00",
-      "date": "2025-12-15 00:54:30",
-      "importance": 4,
-      "category": "burza",
-      "urlToImage": "https://img.etimg.com/thumb/msid-125968591,width-1200,height-630,imgsize-48366,overlay-etmarkets/articleshow.jpg",
-      "url": "/tech-news/2025-12-15/honk-kong-india-fuel-blockbuster-year-for-asia-fun/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [],
       "people": []
     }
   ]
