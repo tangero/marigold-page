@@ -1,10 +1,31 @@
 {
-  "generated": "2025-12-22T01:23:26.645763+00:00",
+  "generated": "2025-12-22T04:59:11.778588+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "Elon Musk: Jeho nová raketa je stejně důležitá jako původ života samotného",
-      "description": "Pokud budou v budoucnosti historici, podívají se zpět na Starship a řeknou, že je to jedna z nejvýznamnějších událostí. Tato prohlášení zazněla v podcastu s Katie Millerovou.",
+      "title": "Kash Patel odhaluje projekt FBI s umělou inteligencí pro národní bezpečnost: „Přinese výnosy“",
+      "description": "Administrativa Donalda Trumpa otevřeně a agresivně integruje technologii umělé inteligence do svých operací. Kash Patel prozradil detaily o projektu FBI založeném na AI, který má posílit národní bezpečnost.",
+      "slug": "kash-patel-reveals-fbis-ai-national-security-proje",
+      "publishedAt": "2025-12-21T01:44:29+00:00",
+      "date": "2025-12-21 01:44:29",
+      "importance": 5,
+      "category": "umělá inteligence",
+      "urlToImage": "https://assets.newsweek.com/wp-content/uploads/2025/12/GettyImages-2249305196.jpg?w=1200crop=1",
+      "url": "/tech-news/2025-12-21/kash-patel-reveals-fbis-ai-national-security-proje/",
+      "source": {
+        "emoji": "📰",
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "companies": [],
+      "people": [
+        "Kash Patel",
+        "Donald Trump"
+      ]
+    },
+    {
+      "title": "Elon Musk tvrdí, že jeho nová raketa je stejně důležitá jako původ života samotného",
+      "description": "Elon Musk na podcastu označil raketu Starship za jednu z nejdůležitějších událostí v historii, srovnatelnou s evolučními milníky jako vznik jednobuněčného života nebo multiplanetární civilizace. Přitom projekt stále trápí opakované selhání při startu a přistání.",
       "slug": "elon-says-his-new-rocket-is-as-important-as-the-or",
       "publishedAt": "2025-12-21T00:30:00+00:00",
       "date": "2025-12-21 00:30:00",
@@ -24,7 +45,7 @@
     },
     {
       "title": "Předpověď Altuchera o IPO Starlinku v roce 2026 nabírá na síle",
-      "description": "Nejnovější video bestselling autora Wall Street Journal Jamese Altuchera zkoumá, jak současné trendy v růstu Starlinku dohánějí jeho ranou předpověď o úvodu na burzu v roce 2026.",
+      "description": "Nejnovější video bestselling autora Wall Street Journal prozkoumává, jak realita dohání jeho předpověď o veřejném nabídání akcií Starlinku. Analytik James Altucher zdůrazňuje růst sítě a její strategickou roli v globální konektivitě.",
       "slug": "altuchers-2026-starlink-ipo-prediction-gains-momen",
       "publishedAt": "2025-12-20T20:32:00+00:00",
       "date": "2025-12-20 20:32:00",
@@ -39,12 +60,12 @@
       },
       "companies": [],
       "people": [
-        "Altucher"
+        "James Altucher"
       ]
     },
     {
       "title": "Technologická selhání: Největší průšvihy roku 2025",
-      "description": "Rok 2025 přinesl řadu výpadků, bezpečnostních incidentů a zklamání z nových technologií, od selhání GPT-5 po výpadky služeb jako Starlink a AWS. Článek shrnuje nejvýznamnější chyby v oblastech AI, politiky, mobilních zařízení, her, bezpečnosti a streamingu.",
+      "description": "Přehled nejvýznamnějších technologických chyb roku 2025, od zklamání z GPT-5 až po výpadky velkých služeb jako Starlink a AWS. Článek shrnuje momenty, které ukazují slabiny v AI, bezpečnosti a infrastruktuře.",
       "slug": "tech-trainwrecks-2025s-biggest-fails",
       "publishedAt": "2025-12-20T20:28:41+00:00",
       "date": "2025-12-20 20:28:41",
@@ -3735,26 +3756,6 @@
         "name": "Financial Post"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Bilance OpenAI v oblasti bezpečnosti AI je špatná – spíš funguje jako zastupitelský orgán než skutečné výzkumné laboratoř",
-      "description": "Alespoň dva výzkumníci nedávno opustili OpenAI kvůli obavám, že společnost nebyla zcela upřímná a příliš opatrná při publikování výzkumu, zejména pokud se týkal negativních aspektů technologie.",
-      "slug": "openais-track-record-on-ai-safety-stinks-bordering",
-      "publishedAt": "2025-12-15T15:46:59+00:00",
-      "date": "2025-12-15 15:46:59",
-      "importance": 4,
-      "category": "bezpečnost ai",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/icEsbwynRpnZAFBCXUbpPg-2560-80.jpg",
-      "url": "/tech-news/2025-12-15/openais-track-record-on-ai-safety-stinks-bordering/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Windows Central"
-      },
-      "companies": [
-        "OpenAI"
-      ],
       "people": []
     },
     {
