@@ -1,7 +1,65 @@
 {
-  "generated": "2025-12-21T20:36:35.194285+00:00",
+  "generated": "2025-12-22T01:23:26.645763+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Elon Musk: Jeho nová raketa je stejně důležitá jako původ života samotného",
+      "description": "Pokud budou v budoucnosti historici, podívají se zpět na Starship a řeknou, že je to jedna z nejvýznamnějších událostí. Tato prohlášení zazněla v podcastu s Katie Millerovou.",
+      "slug": "elon-says-his-new-rocket-is-as-important-as-the-or",
+      "publishedAt": "2025-12-21T00:30:00+00:00",
+      "date": "2025-12-21 00:30:00",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://futurism.com/wp-content/uploads/2025/12/elon-starship-most-profound_d0a6da.jpg?w=1200",
+      "url": "/tech-news/2025-12-21/elon-says-his-new-rocket-is-as-important-as-the-or/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Futurism"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Předpověď Altuchera o IPO Starlinku v roce 2026 nabírá na síle",
+      "description": "Nejnovější video bestselling autora Wall Street Journal Jamese Altuchera zkoumá, jak současné trendy v růstu Starlinku dohánějí jeho ranou předpověď o úvodu na burzu v roce 2026.",
+      "slug": "altuchers-2026-starlink-ipo-prediction-gains-momen",
+      "publishedAt": "2025-12-20T20:32:00+00:00",
+      "date": "2025-12-20 20:32:00",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": null,
+      "url": "/tech-news/2025-12-20/altuchers-2026-starlink-ipo-prediction-gains-momen/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [],
+      "people": [
+        "Altucher"
+      ]
+    },
+    {
+      "title": "Technologická selhání: Největší průšvihy roku 2025",
+      "description": "Rok 2025 přinesl řadu výpadků, bezpečnostních incidentů a zklamání z nových technologií, od selhání GPT-5 po výpadky služeb jako Starlink a AWS. Článek shrnuje nejvýznamnější chyby v oblastech AI, politiky, mobilních zařízení, her, bezpečnosti a streamingu.",
+      "slug": "tech-trainwrecks-2025s-biggest-fails",
+      "publishedAt": "2025-12-20T20:28:41+00:00",
+      "date": "2025-12-20 20:28:41",
+      "importance": 4,
+      "category": "technologická selhán",
+      "urlToImage": "https://sm.pcmag.com/t/pcmag_me/news/t/tech-train/tech-trainwrecks-2025s-biggest-fails_6hmp.1200.png",
+      "url": "/tech-news/2025-12-20/tech-trainwrecks-2025s-biggest-fails/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "PCMag.com"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Biren míří na první listing GPU na hongkongské burze po ztrátách 890 milionů USD",
       "description": "Šanghajská Biren Technology prošla slyšením pro listing v Hong Kongu a stává se tak první čistě domácí GPU firmou na tamní burze. Tento krok představuje klíčový test pro čínský kapitalově náročný sektor AI čipů po kumulativních ztrátách ve výši 890 milionů USD.",
@@ -3623,26 +3681,6 @@
       "people": []
     },
     {
-      "title": "Nvidia kupuje vývojáře AI SchedMD pro rozšíření open-source AI",
-      "description": "Zvyšuje investice, aby odolala rostoucí konkurenci v oblasti umělé inteligence.",
-      "slug": "nvidia-buys-ai-developer-to-expand-open-source-ai-",
-      "publishedAt": "2025-12-15T19:54:05+00:00",
-      "date": "2025-12-15 19:54:05",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://i.nextmedia.com.au/News/nvidia-sign-hq-building.jpg",
-      "url": "/tech-news/2025-12-15/nvidia-buys-ai-developer-to-expand-open-source-ai/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "iTnews"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": []
-    },
-    {
       "title": "Nová AI divize Reliance Intelligence od RIL zahajuje operace",
       "description": "Reliance Intelligence, plně vlastněná dceřiná společnost Reliance Industries založená v září 2025, spouští svou činnost. Jednotka spravuje partnerství s globálními technologickými firmami jako Google a Meta a realizuje plány na výstavbu datových center připravených pro umělou inteligenci.",
       "slug": "rils-new-ai-arm-reliance-intelligence-begins-opera",
@@ -3784,26 +3822,6 @@
       "people": []
     },
     {
-      "title": "Nvidia spouští rodinu modelů Nemotron 3 jako otevřenou základnu pro agentické AI systémy",
-      "description": "Společnost Nvidia oznámila uvedení Nemotron 3, rodiny otevřených modelů a datových knihoven určených pro pohánění další generace agentických umělých inteligencí napříč průmysly. Rodina zahrnuje tři velikosti modelů: Nano, Super a Ultra.",
-      "slug": "nvidia-launches-nemotron-3-model-family-as-open-fo",
-      "publishedAt": "2025-12-15T15:20:58+00:00",
-      "date": "2025-12-15 15:20:58",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/nemotron-3-release.jpg",
-      "url": "/tech-news/2025-12-15/nvidia-launches-nemotron-3-model-family-as-open-fo/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": []
-    },
-    {
       "title": "⚡ Týdenní shrnutí: Zero-day zranitelnosti Apple, exploit WinRAR, pokuty LastPass, RCE v .NET, podvody OAuth a další",
       "description": "Pokud používáte chytrý telefon, prohlížíte web nebo rozbalujete soubory na počítači, jste tento týden v hledáčku hackerů. Tyto skupiny využívají kritické zranitelnosti v běžném softwaru, v některých případech ještě před vydáním oprav.",
       "slug": "weekly-recap-apple-0-days-winrar-exploit-lastpass-",
@@ -3820,26 +3838,6 @@
       },
       "companies": [
         "Apple"
-      ],
-      "people": []
-    },
-    {
-      "title": "OpenAI je společností roku 2025 podle Yahoo Finance",
-      "description": "Výrobce ChatGPT spustil technologickou revoluci této generace. Dokáže největší hnací síla umělé inteligence pokračovat v podpoře zlaté horečky?",
-      "slug": "openai-is-the-2025-yahoo-finance-company-of-the-ye",
-      "publishedAt": "2025-12-15T12:00:54+00:00",
-      "date": "2025-12-15 12:00:54",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/6ig2oG0VvxTUBGpPJW2rwA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/3876ee80-d6d2-11f0-bf1f-f90390151878",
-      "url": "/tech-news/2025-12-15/openai-is-the-2025-yahoo-finance-company-of-the-ye/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [
-        "OpenAI"
       ],
       "people": []
     },
