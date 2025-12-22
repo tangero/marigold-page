@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lekce z React2Shell | Marigold.cz Tech News</title>
+    <meta name="description" content="Analýza kritické bezpečnostní zranitelnosti CVE-2025-55182 v Reactu, která umožnila neautentizované spuštění libovolného kódu na milionech serverů během hodin p">
+    <link rel="canonical" href="https://www.marigold.cz/tech-news/2025-12-14/lessons-from-react2shell/">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #374151; background: #f3f4f6; }
+        .container { max-width: 800px; margin: 0 auto; padding: 2rem; }
+        .tech-news-article { background: white; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); padding: 2rem; margin: 2rem 0; }
+        .source-info { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem; flex-wrap: wrap; }
+        .source-emoji { font-size: 1.5rem; }
+        .source-name { font-weight: 600; color: #374151; }
+        .importance-indicator { display: flex; gap: 2px; margin-left: auto; }
+        .star { color: #fbbf24; font-size: 1.2rem; }
+        .star.empty { color: #d1d5db; }
+        .article-title { font-size: 2rem; font-weight: 700; line-height: 1.2; margin-bottom: 1rem; color: #111827; }
+        .article-meta { display: flex; align-items: center; gap: 1rem; font-size: 0.875rem; color: #6b7280; margin-bottom: 1.5rem; }
+        .category { padding: 0.25rem 0.75rem; border-radius: 1rem; font-weight: 500; font-size: 0.75rem; text-transform: uppercase; background: #e5e7eb; color: #374151; }
+        .article-image { margin: 1.5rem 0; border-radius: 8px; overflow: hidden; }
+        .article-image img { width: 100%; height: auto; display: block; }
+        .article-content { font-size: 1.125rem; line-height: 1.7; margin-bottom: 2rem; }
+        .article-content h2 { font-size: 1.5rem; margin: 1.5rem 0 1rem; color: #111827; }
+        .article-content p { margin-bottom: 1rem; }
+        .article-footer { border-top: 1px solid #e5e7eb; padding-top: 1.5rem; }
+        .read-more-btn { display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: #3b82f6; color: white; text-decoration: none; border-radius: 8px; font-weight: 500; }
+        .read-more-btn:hover { background: #2563eb; }
+        .original-title { margin-top: 1rem; color: #6b7280; font-size: 0.875rem; }
+        .back-link { display: inline-block; margin-bottom: 1rem; color: #3b82f6; text-decoration: none; }
+        .back-link:hover { text-decoration: underline; }
+        .archive-notice { background: #fef3c7; border: 1px solid #f59e0b; border-radius: 8px; padding: 1rem; margin-bottom: 1rem; font-size: 0.875rem; color: #92400e; }
+        @media (max-width: 640px) {
+            .container { padding: 1rem; }
+            .tech-news-article { padding: 1.5rem; margin: 1rem 0; }
+            .article-title { font-size: 1.5rem; }
+            .source-info { flex-direction: column; align-items: flex-start; }
+            .importance-indicator { margin-left: 0; margin-top: 0.5rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="/tech-news/" class="back-link">&larr; Zpět na Tech News</a>
+
+        <div class="archive-notice">
+            Tento článek je z archivu. Byl publikován 14.12.2025.
+        </div>
+
+        <article class="tech-news-article">
+            <header>
+                <div class="source-info">
+                    <span class="source-emoji">📰</span>
+                    <span class="source-name">Dev.to</span>
+                    <div class="importance-indicator">
+                        <span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star">★</span>
+                    </div>
+                </div>
+
+                <h1 class="article-title">Lekce z React2Shell</h1>
+
+                <div class="article-meta">
+                    <time datetime="2025-12-14T06:26:30+00:00">14.12.2025</time>
+                    <span class="category">programování</span>
+                </div>
+            </header>
+
+            
+            <div class="article-image">
+                <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyesjwmk56jzyxm2bamh3.png" alt="Lekce z React2Shell" loading="lazy">
+            </div>
+        
+
+            <div class="article-content">
+                <h2>Souhrn</h2>
+<ol>
+<li>prosince 2025 oznámil React CVE-2025-55182, kritickou zranitelnost umožňující vzdálené spuštění kódu s maximálním skóre CVSS 10.0. Během několika hodin po zveřejnění ji útočníci exploitovali v reálném prostředí na téměř milion serverů s React 19 a Next.js. Tato chyba v protokolu Flight React Server Components představuje největší bezpečnostní selhání frameworku po 13 letech bez závažných incidentů.</li>
+</ol>
+<h2>Klíčové body</h2>
+<ul>
+<li>Zranitelnost v protokolu Flight umožňuje deserializaci neověřených dat z klienta, což vede k spuštění libovolného kódu na serveru bez autentizace.</li>
+<li>Postihuje React 19 a aplikace na Next.js; útok stačí odeslat HTTP požadavek na endpoint serverových komponent.</li>
+<li>Kořen problému spočívá v nebezpečné deserializaci objektů, které umožňují přístup k JavaScriptovým primitivům jako .then nebo .constructor.</li>
+<li>React předpokládal bezpečnost formátu serializace, místo aby považoval veškerá data z klienta za nedůvěryhodná.</li>
+<li>Exploit byl okamžitě ve volné přírodě, což ohrozilo širokou škálu webových aplikací.</li>
+</ul>
+<h2>Podrobnosti</h2>
+<p>React Server Components (RSC) představují zásadní změnu architektury Reactu. Dříve sloužil React primárně jako knihovna pro vykreslování uživatelského rozhraní v prohlížeči, kde komunikoval s backendem přes standardní REST nebo GraphQL API. Backend mohl být napsán v libovolném jazyce, jako Python, Go nebo Java. RSC umožňují spouštět React komponenty přímo na serveru, kde mají přímý přístup k databázím a dalším zdrojům, což snižuje množství přenášených dat a zlepšuje výkon.</p>
+<p>Protokol Flight je vlastní formát serializace pro přenos dat a kontextu provedení mezi klientem a serverem v rámci RSC. Server přijímá serializovaná data od klienta, deserializuje je a na jejich základě spouští kód. Zranitelnost spočívá v nebezpečné deserializaci: server neověřoval data z klienta a umožňoval přístup k vlastnostem objektů, jako .then (sloužící k řízení asynchronních operací) nebo .constructor (umožňující vytváření instancí tříd). Útočník tak mohl vytvořit škodlivý payload, který po deserializaci na serveru spustí libovolný JavaScript kód.</p>
+<p>Útok nevyžaduje autentizaci ani speciální oprávnění – stačí síťový přístup k endpointu serverových komponent. React dosud měl vynikající bezpečnostní historii: za 13 let pouze jedna menší XSS zranitelnost s CVSS 6.1 v roce 2018. Tato chyba však ukazuje slabiny nové architektury RSC, kde se klient a server prolínají více než dříve. Next.js, populární framework pro React aplikace, integruje RSC a byl silně postižen, což ovlivnilo tisíce produkčních nasazení.</p>
+<p>Vývojáři museli okamžitě aktualizovat na patchy, ale mnoho systémů zůstalo vystavených kvůli automatickému nasazení a závislostem. Tento incident odhaluje rizika přechodu k serverově vykreslovaným komponentám, kde se tradiční principy jako &ldquo;nikdy nedůvěřuj datům z klienta&rdquo; oslabily.</p>
+<h2>Proč je to důležité</h2>
+<p>Tato zranitelnost má široké dopady na webový vývoj: React pohání miliony aplikací a Next.js je standardem pro server-side rendering. Exploit na milionech serverů mohl vést k masivním únikům dat, ransomware nebo úplnému ovládnutí infrastruktury. V širším kontextu zdůrazňuje nutnost robustní validace v hybridních architekturách, kde se klient-server hranice stírá. Lekce pro průmysl zahrnují: vždy validovat vstupy, oddělovat serializaci od provedení kódu a testovat proti deserializačním útokům. Pro uživatele znamená riziko kompromitace webů od velkých firem po startupy, což urychlí adopci bezpečnostních nástrojů jako Snyk nebo Dependabot. Incident může zpomalit přechod na RSC a donutit React tým přepracovat bezpečnostní model Flightu.</p>
+<hr />
+<p><a href="https://dev.to/cheetah100/lessons-from-react2shell-1m8b">Číst původní článek</a></p>
+<p><strong>Zdroj:</strong> 📰 Dev.to</p>
+            </div>
+
+            <footer class="article-footer">
+                <a href="https://dev.to/cheetah100/lessons-from-react2shell-1m8b" target="_blank" rel="noopener" class="read-more-btn">
+                    Číst původní článek &rarr;
+                </a>
+
+                <div class="original-title"><small>Původní název: Lessons from React2Shell</small></div>
+            </footer>
+        </article>
+
+        <p style="text-align: center; color: #6b7280; font-size: 0.875rem; margin-top: 2rem;">
+            &copy; 2025 <a href="https://www.marigold.cz" style="color: #3b82f6;">Marigold.cz</a>
+        </p>
+    </div>
+</body>
+</html>
