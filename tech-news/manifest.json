@@ -1,15 +1,35 @@
 {
-  "generated": "2025-12-22T04:59:11.778588+00:00",
+  "generated": "2025-12-22T08:44:07.965824+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "Kash Patel odhaluje projekt FBI s umělou inteligencí pro národní bezpečnost: „Přinese výnosy“",
-      "description": "Administrativa Donalda Trumpa otevřeně a agresivně integruje technologii umělé inteligence do svých operací. Kash Patel prozradil detaily o projektu FBI založeném na AI, který má posílit národní bezpečnost.",
+      "title": "Čínský tajný „projekt Manhattan“ slaví úspěch: Domácí prototyp EUV lithografického stroje",
+      "description": "Čína tajně vyvinula funkční prototyp pokročilého EUV lithografického stroje, klíčového pro výrobu špičkových polovodičů. Projekt, přirovnávaný k Manhattan Projectu, zahrnoval reverzní inženýrství od bývalých inženýrů firmy ASML v zabezpečeném zařízení v Shenzhen.",
+      "slug": "chinas-secret-manhattan-project-claims-a-stunning-",
+      "publishedAt": "2025-12-21T06:00:00+00:00",
+      "date": "2025-12-21 06:00:00",
+      "importance": 5,
+      "category": "polovodiče",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/12/China-AI-super-intelligence.jpg",
+      "url": "/tech-news/2025-12-21/chinas-secret-manhattan-project-claims-a-stunning/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "companies": [
+        "ASML"
+      ],
+      "people": []
+    },
+    {
+      "title": "Kash Patel odhaluje AI projekt FBI pro národní bezpečnost: 'Zaplací dividendy'",
+      "description": "Administrativa Donalda Trumpa otevřeně a agresivně přijímá technologii umělé inteligence a integruje ji do svých operací.",
       "slug": "kash-patel-reveals-fbis-ai-national-security-proje",
       "publishedAt": "2025-12-21T01:44:29+00:00",
       "date": "2025-12-21 01:44:29",
-      "importance": 5,
-      "category": "umělá inteligence",
+      "importance": 4,
+      "category": "ai",
       "urlToImage": "https://assets.newsweek.com/wp-content/uploads/2025/12/GettyImages-2249305196.jpg?w=1200crop=1",
       "url": "/tech-news/2025-12-21/kash-patel-reveals-fbis-ai-national-security-proje/",
       "source": {
@@ -19,13 +39,12 @@
       },
       "companies": [],
       "people": [
-        "Kash Patel",
-        "Donald Trump"
+        "Kash Patel"
       ]
     },
     {
-      "title": "Elon Musk tvrdí, že jeho nová raketa je stejně důležitá jako původ života samotného",
-      "description": "Elon Musk na podcastu označil raketu Starship za jednu z nejdůležitějších událostí v historii, srovnatelnou s evolučními milníky jako vznik jednobuněčného života nebo multiplanetární civilizace. Přitom projekt stále trápí opakované selhání při startu a přistání.",
+      "title": "Elon tvrdí, že jeho nová raketa je stejně důležitá jako samotný původ života",
+      "description": "Pokud budou v budoucnosti historici, podívají se zpět na Starship a řeknou, že je to jedna z nejvýznamnějších věcí, které se kdy staly. Článek Elon tvrdí, že jeho nová raketa je stejně důležitá jako samotný původ života vyšel poprvé na Futurism.",
       "slug": "elon-says-his-new-rocket-is-as-important-as-the-or",
       "publishedAt": "2025-12-21T00:30:00+00:00",
       "date": "2025-12-21 00:30:00",
@@ -3736,24 +3755,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Freerepublic.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Ottawa slibuje až 92 milionů dolarů čtyřem kanadským kvantovým společnostem v rámci nového programu Champions",
-      "description": "Nový kanadský program Kvantoví šampioni má udržet kanadské kvantové firmy a duševní vlastnictví doma. Čtěte více.",
-      "slug": "ottawa-promises-up-to-92-million-for-four-canadian",
-      "publishedAt": "2025-12-15T16:11:50+00:00",
-      "date": "2025-12-15 16:11:50",
-      "importance": 5,
-      "category": "kvantové technologie",
-      "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/12/quantum-1215-ph.jpg",
-      "url": "/tech-news/2025-12-15/ottawa-promises-up-to-92-million-for-four-canadian/",
-      "source": {
-        "emoji": "📰",
-        "id": "financial-post",
-        "name": "Financial Post"
       },
       "companies": [],
       "people": []
