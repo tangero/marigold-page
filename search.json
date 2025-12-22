@@ -26756,7 +26756,7 @@
       "title"    : "Tech News Health Status",
       "url"      : "/health-status/",
       "category" : "stránka",
-      "content"  : "🏥 Tech News Health &amp; Pipeline Status Status: WARNING Poslední kontrola: 22.12.2025 16:52 Summary: Status: WARNING | Články 24h: 0 | Čeština: 100.0% | Alerty: 3 📈 30denní přehled (30 dní) Nově vygenerováno (30 dní) ℹ️ 6442 Denní průměr: 207.8 LLM náklady $209.71 Celkem za období API dotazy 13498 Sessions: 180 Přeskočeno 7056 Hlavně: low_importance 🔄 Processing Pipeline (30 dní) 📥 API Fetch 13498 ⏭️ Přeskočeno (filtry) 7056 💾 Uloženo 6442 (47.7%) 📊 Denní statistiky (posledních 14 dní) Datum Fetched Saved Skipped Cost Success 2025-12-22 247 23 224 $8.1774 100% 2025-12-21 294 28 266 $9.1113 100% 2025-12-20 297 40 257..."
+      "content"  : "🏥 Tech News Health &amp; Pipeline Status Status: WARNING Poslední kontrola: 22.12.2025 20:40 Summary: Status: WARNING | Články 24h: 0 | Čeština: 100.0% | Alerty: 3 📈 30denní přehled (30 dní) Nově vygenerováno (30 dní) ℹ️ 6446 Denní průměr: 207.9 LLM náklady $211.46 Celkem za období API dotazy 13548 Sessions: 181 Přeskočeno 7102 Hlavně: low_importance 🔄 Processing Pipeline (30 dní) 📥 API Fetch 13548 ⏭️ Přeskočeno (filtry) 7102 💾 Uloženo 6446 (47.6%) 📊 Denní statistiky (posledních 14 dní) Datum Fetched Saved Skipped Cost Success 2025-12-22 297 27 270 $9.936 100% 2025-12-21 294 28 266 $9.1113 100% 2025-12-20 297 40 257..."
     }
     
   
@@ -31109,6 +31109,34 @@
         "url"      : "/tech-news/2025-12-21/is-mercadolibre-meli-one-of-the-best-stocks-to-buy/",
         "category" : "tech_news",
         "content"  : "SouhrnMercadoLibre (MELI), největší e-commerce platforma v Latinské Americe, čelí krátkodobým výzvám kvůli konkurenci, což vedlo k snížení cenových cílů analytiků UBS a Citi. Přesto dlouhodobý potenciál zůstává silný díky nedávnému partnerství s Agility Robotics na nasazení humanoidního robota Digit v logistických provozech. Tento krok představuje přechod humanoidní robotiky z demonstračních fází do komerčního nasazení.Klíčové body Analytik UBS snížil cenový cíl MELI na 2 900 USD z 3 000 USD (24. listopadu), Citi na 2 500 USD z 2 700 USD (17. listopadu), kvůli riziku revizí ziskových odhadů. Partnerství s Agility Robotics: Nasazení robota Digit v zařízení v San Antonio, Texas,..."
+      }
+      
+      ,{
+        "title"    : "Fúze Trump Media a TAE: Skok fúzního průmyslu na veřejný trh",
+        "url"      : "/tech-news/2025-12-21/trump-mediatae-merger-fusions-public-market-leap/",
+        "category" : "tech_news",
+        "content"  : "SouhrnSpolečnost Trump Media &amp;amp; Technology Group (TMTG), provozovatel sociální sítě Truth Social, oznámila 17. prosince fúzi s TAE Technologies, firmou zaměřenou na vývoj jaderné fúze. Jedná se o transakci v hodnotě 6 miliard dolarů ve formě směny akcií, při níž si každá strana zachová 50procentní podíl. Fúze má poskytnout TAE až 300 milionů dolarů na stavbu utility-scale fúzních elektráren s plánovaným spuštěním v roce 2026.Klíčové body Hodnota fúze: 6 miliard dolarů, all-stock transakce s rovnocennými podíly. Financování: Až 300 milionů dolarů pro TAE na výstavbu fúzních zařízení. Cíl: Urychlit komercializaci fúzní energie v USA. Kontext TMTG: Akcie společnosti klesly o..."
+      }
+      
+      ,{
+        "title"    : "Mezi umělou inteligencí a humanoidními roboty bychom mohli stát na historickém zlomu",
+        "url"      : "/tech-news/2025-12-21/between-ai-and-humanoid-robots-we-could-be-at-a-tu/",
+        "category" : "tech_news",
+        "content"  : "SouhrnAnalýza naznačuje, že rok 2025 mohl být historickým zlomením díky růstu akciových trhů poháněných AI, kde CAPE poměr dosáhl 40, což připomíná konec dot-com bubliny v roce 1999. Humanoidní roboti zatím nejsou součástí této bubliny, protože firmy za nimi jsou převážně soukromé. Pokud nejde o bublinu, změny by mohly překonat dopad jakékoli předchozí technologie.Klíčové body Americký akciový trh dosáhl CAPE poměru 40, úrovně viděné naposledy v prosinci 1999 před prasknutím dot-com bubliny. CAPE (cyklicky upravený poměr cena k výdělkům) od Roberta Shillera měří dlouhodobou hodnotu trhu a nad 25 obvykle předchází krach. Humanoidní roboti, jako ty od firem typu Boston..."
+      }
+      
+      ,{
+        "title"    : "Autonomie agentů bez zábran je noční můra pro SRE",
+        "url"      : "/tech-news/2025-12-21/agent-autonomy-without-guardrails-is-an-sre-nightm/",
+        "category" : "tech_news",
+        "content"  : "SouhrnAutonomní AI agenti bez bezpečnostních zábran (guardrails) mohou způsobit chaos v produkčních prostředích, což je podle článku z VentureBeat noční můra pro site reliability engineers (SRE). Bez omezení konají agenti nekontrolované akce, které vedou k výpadkům, přetížení zdrojů a bezpečnostním incidentům. Autoři zdůrazňují nutnost robustních bezpečnostních vrstev při nasazování těchto systémů.Klíčové body AI agenti bez guardrails provedou neomezené akce, jako je mazání dat nebo spouštění nákladných operací. SRE tým musí řešit neočekávané výpadky, resource exhaustion a složité debugging. Příklady reálných incidentů ukazují na rizika v cloudu a DevOps pipelinech. Doporučení zahrnuje sandboxing, rate limiting a human-in-the-loop mechanismy. Trend k větší..."
+      }
+      
+      ,{
+        "title"    : "S&amp;P Global (SPGI) získává With Intelligence za 1,8 miliardy dolarů",
+        "url"      : "/tech-news/2025-12-21/sp-global-spgi-acquires-with-intelligence-for-18-b/",
+        "category" : "tech_news",
+        "content"  : "SouhrnS&amp;amp;P Global Inc. (NYSE:SPGI), americká společnost zaměřená na finanční data, ratingy úvěrové spolehlivosti, benchmarky a workflow řešení, dokončila 25. listopadu akvizici With Intelligence za 1,8 miliardy dolarů. With Intelligence je dodavatel dat a analýz pro soukromé a alternativní trhy, obsluhující přibližně 3000 zákazníků po celém světě. Akvizice posílí pozici S&amp;amp;P Global v oblasti soukromých trhů tím, že přidá proprietární data pokrývající celý životní cyklus investic do alternativ.Klíčové body Cena akvizice: 1,8 miliardy dolarů od skupiny investorů vedené Motive Partners. Příjmy With Intelligence: Očekávané roční příjmy 130 milionů dolarů, s růstem roční hodnoty kontraktů (ACV) v rozmezí vysokých desítek procent. Zákazníci..."
       }
       
     

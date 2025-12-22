@@ -1,7 +1,82 @@
 {
-  "generated": "2025-12-22T16:52:07.566246+00:00",
-  "count": 200,
+  "generated": "2025-12-22T20:40:39.454546+00:00",
+  "count": 195,
   "articles": [
+    {
+      "title": "S&P Global (SPGI) získává With Intelligence za 1,8 miliardy dolarů",
+      "description": "S&P Global Inc. (NYSE:SPGI) dokončil akvizici With Intelligence za 1,8 miliardy dolarů od skupiny investorů vedené Motive Partners. Tato společnost poskytuje data a analýzy pro alternativní a soukromé trhy a očekává se, že přinese roční příjmy kolem 130 milionů dolarů.",
+      "slug": "sp-global-spgi-acquires-with-intelligence-for-18-b",
+      "publishedAt": "2025-12-21T20:06:10+00:00",
+      "date": "2025-12-21 20:06:10",
+      "importance": 5,
+      "category": "akvizice",
+      "urlToImage": "https://media.zenfs.com/en/insidermonkey.com/c6a3baf7a221771680816fbb6c81586c",
+      "url": "/tech-news/2025-12-21/sp-global-spgi-acquires-with-intelligence-for-18-b/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Autonomie agentů bez zábran je noční můra pro SRE",
+      "description": "Článek z VentureBeat varuje před riziky nasazení plně autonomních AI agentů bez bezpečnostních mechanismů, což představuje významné výzvy pro specialisty na spolehlivost systémů (SRE).",
+      "slug": "agent-autonomy-without-guardrails-is-an-sre-nightm",
+      "publishedAt": "2025-12-21T20:00:41+00:00",
+      "date": "2025-12-21 20:00:41",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://images.ctfassets.net/jdtwqhzvc2n1/rxbKNH1o8tpwpScizzIEV/87402fa2b986b713ae0b029f2725250f/Building_agents.png?w=800&q=75",
+      "url": "/tech-news/2025-12-21/agent-autonomy-without-guardrails-is-an-sre-nightm/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "VentureBeat"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Mezi umělou inteligencí a humanoidními roboty bychom mohli stát na historickém zlomu",
+      "description": "Bublina na akciovém trhu poháněná AI je v historii unikátní tím, že pokud to není bublina, její dopad na lidstvo by mohl být náročnější než u jakékoli předchozí technologie.",
+      "slug": "between-ai-and-humanoid-robots-we-could-be-at-a-tu",
+      "publishedAt": "2025-12-21T18:00:00+00:00",
+      "date": "2025-12-21 18:00:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/61baa2df816a8677d75d45f219272ac8?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=521&width=862&height=485&imformat=generic",
+      "url": "/tech-news/2025-12-21/between-ai-and-humanoid-robots-we-could-be-at-a-tu/",
+      "source": {
+        "emoji": "📰",
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Fúze Trump Media a TAE: Skok fúzního průmyslu na veřejný trh",
+      "description": "Fúzní průmysl dosáhl významného milníku, který tentokrát nesouvisí s vědou. Společnost Trump Media & Technology Group oznámila fúzi s firmou TAE Technologies v hodnotě 6 miliard dolarů, což má urychlit výstavbu velkorozměrných fúzních elektráren.",
+      "slug": "trump-mediatae-merger-fusions-public-market-leap",
+      "publishedAt": "2025-12-21T16:46:40+00:00",
+      "date": "2025-12-21 16:46:40",
+      "importance": 5,
+      "category": "jaderná fúze",
+      "urlToImage": "https://media.zenfs.com/en/power_magazine_984/0aa52992542ea38b87d667a70d564928",
+      "url": "/tech-news/2025-12-21/trump-mediatae-merger-fusions-public-market-leap/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "POWER magazine"
+      },
+      "companies": [
+        "Trump Media",
+        "TAE"
+      ],
+      "people": []
+    },
     {
       "title": "Je MercadoLibre (MELI) jednou z nejlepších akcií na nákup na příštích 5 let?",
       "description": "MercadoLibre Inc. (NASDAQ:MELI) patří mezi nejlepší akcie na nákup na příštích 5 let. 24. listopadu analytik UBS Kaio Prato snížil cenový cíl firmy na 2 900 USD z 3 000 USD.",
@@ -3862,185 +3937,6 @@
         "Alteryx"
       ],
       "people": []
-    },
-    {
-      "title": "Warner Bros. je blockbusterovým finále pro 4,5 bilionu dolarů v fúzích a akvizicích",
-      "description": "Globální hodnoty transakcí vzrostly asi o 40 % na přibližně 4,5 bilionu dolarů tento rok, podle dat sestavených Bloombergem, což je druhý nejvyšší rekord v historii.",
-      "slug": "warner-bros-is-blockbuster-finale-to-45-trillion-m",
-      "publishedAt": "2025-12-15T23:27:32+00:00",
-      "date": "2025-12-15 23:27:32",
-      "importance": 5,
-      "category": "fúze akvizice",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2250992685-e1765838994346.jpg?resize=1200,600",
-      "url": "/tech-news/2025-12-15/warner-bros-is-blockbuster-finale-to-45-trillion-m/",
-      "source": {
-        "emoji": "📰",
-        "id": "fortune",
-        "name": "Fortune"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Právní technologické události, které definovaly rok 2025",
-      "description": "Rok 2025 byl poznamenán rekordními investicemi do právních technologií, rychlým pokrokem umělé inteligence a nepřetržitými oznámeními o novinkách, které ztěžovaly udržení přehledu. Legal tech sektor zažil explozi nových AI startupů a diskuzí o agentic AI.",
-      "slug": "the-legal-tech-stories-that-defined-2025",
-      "publishedAt": "2025-12-15T20:16:00+00:00",
-      "date": "2025-12-15 20:16:00",
-      "importance": 4,
-      "category": "právní technologie",
-      "urlToImage": "https://www.abajournal.com/images/main_images/NicoleBlack2.jpg",
-      "url": "/tech-news/2025-12-15/the-legal-tech-stories-that-defined-2025/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Abajournal.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Administrativa Trumpa najme 1 000 specialistů pro ‚Tech Force‘ k vývoji AI a finančních projektů",
-      "description": "Administrativa prezidenta Trumpa spustila iniciativu ‚U.S. Tech Force‘, která zahrnuje najmutí přibližně 1 000 inženýrů a dalších specialistů pro práci na infrastruktuře umělé inteligence a dalších technologických projektech v federální vládě. Program spolupracuje s velkými technologickými firmami jako Amazon Web Services, OpenAI nebo Nvidia.",
-      "slug": "trump-admin-to-hire-1000-specialists-for-tech-forc",
-      "publishedAt": "2025-12-15T19:08:06+00:00",
-      "date": "2025-12-15 19:08:06",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-15/trump-admin-to-hire-1000-specialists-for-tech-forc/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Freerepublic.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Akcie Tesly vyskočily, Musk potvrdil testování robotaxi bez dohledu",
-      "description": "Akcie Tesly dosáhly nejvyšší hodnoty za téměř rok poté, co Elon Musk oznámil testování robotaxi bez bezpečnostních dohledů v předním sedadle spolujezdce. Tento krok posiluje očekávání investorů ohledně autonomních technologií společnosti.",
-      "slug": "tesla-shares-jump-as-musk-confirms-driverless-robo",
-      "publishedAt": "2025-12-15T15:46:01+00:00",
-      "date": "2025-12-15 15:46:01",
-      "importance": 4,
-      "category": "elektromobilita",
-      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--0VHG2V2k--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-12-15T154601Z_1_LYNXMPELBE0XW_RTROPTP_3_TESLA-RESULTS.JPG?itok=lwgGozx5",
-      "url": "/tech-news/2025-12-15/tesla-shares-jump-as-musk-confirms-driverless-robo/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNA"
-      },
-      "companies": [
-        "Tesla"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Co se děje s... Orange, ZTE a prodeji SASE",
-      "description": "Orange uzavřel závaznou dohodu o úplném převzetí španělského operátora MásOrange za 4,25 miliardy eur. ZTE čelí možné pokutě přes jednu miliardu dolarů kvůli obviněním z korupce. Podle Dell’Oro zažívá sektor SASE výrazný růst.",
-      "slug": "whats-up-with-orange-zte-sase-sales",
-      "publishedAt": "2025-12-15T15:22:53+00:00",
-      "date": "2025-12-15 15:22:53",
-      "importance": 5,
-      "category": "telekomunikace",
-      "urlToImage": "https://assets.telecomtv.com/assets/telecomtv/orange-source-orange-19663.jpeg?w=1200",
-      "url": "/tech-news/2025-12-15/whats-up-with-orange-zte-sase-sales/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "TelecomTV"
-      },
-      "companies": [
-        "Orange",
-        "ZTE",
-        "Dell'Oro"
-      ],
-      "people": []
-    },
-    {
-      "title": "⚡ Týdenní shrnutí: Zero-day zranitelnosti Apple, exploit WinRAR, pokuty LastPass, RCE v .NET, podvody OAuth a další",
-      "description": "Pokud používáte chytrý telefon, prohlížíte web nebo rozbalujete soubory na počítači, jste tento týden v hledáčku hackerů. Tyto skupiny využívají kritické zranitelnosti v běžném softwaru, v některých případech ještě před vydáním oprav.",
-      "slug": "weekly-recap-apple-0-days-winrar-exploit-lastpass-",
-      "publishedAt": "2025-12-15T12:24:00+00:00",
-      "date": "2025-12-15 12:24:00",
-      "importance": 5,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4BtIjueYhEXgOy1tcq1Lj5PMU8k7riwHK60xURQet4OGQewoPHZzG0F8ImGWDlbidb5KkjTrJFlLbYf4HZAfQcvHcSFOM8uQkOdgzypwcAGxlbba9hRrX4eLDfGhfoipd4wju61DtzXuVXmbDv-XeCRxBLiz-fSeKcq2MCh7dW6eSAquuF5CxjkVqXzjl/s790-rw-e365/recapp.jpg",
-      "url": "/tech-news/2025-12-15/weekly-recap-apple-0-days-winrar-exploit-lastpass/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Internet"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
-      "title": "Tento startup podporovaný Thrive chce být „Amazonem domovů“",
-      "description": "Od roku 2022 získal Homebound celkem 400 milionů dolarů v akciovém kapitálu a kapitálu na nemovitosti, uvedla společnost pro Fortune.",
-      "slug": "this-thrive-backed-startup-says-it-aspires-to-be-t",
-      "publishedAt": "2025-12-15T11:55:27+00:00",
-      "date": "2025-12-15 11:55:27",
-      "importance": 4,
-      "category": "startupy",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/12/Unknown-2.jpg?resize=1200,600",
-      "url": "/tech-news/2025-12-15/this-thrive-backed-startup-says-it-aspires-to-be-t/",
-      "source": {
-        "emoji": "📰",
-        "id": "fortune",
-        "name": "Fortune"
-      },
-      "companies": [
-        "Amazon",
-        "Homebound"
-      ],
-      "people": []
-    },
-    {
-      "title": "Beeline Kazakhstan od VEON uskutečnil první hovor přes Starlink Direct to Cell v Střední Asii",
-      "description": "Almaty, 15. prosince 2025 – VEON Ltd. oznámil, že jeho operátor Beeline Kazakhstan dokončil terénní test a uskutečnil první hlasový hovor přes aplikaci i textové zprávy prostřednictvím Starlink Direct to Cell v Střední Asii. Test spojil satelitní a pozemní mobilní sítě pomocí standardních smartphonů.",
-      "slug": "veons-beeline-kazakhstan-delivers-first-starlink-d",
-      "publishedAt": "2025-12-15T08:03:00+00:00",
-      "date": "2025-12-15 08:03:00",
-      "importance": 4,
-      "category": "satelitní komunikace",
-      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/f0410957-abe7-404f-a8cd-72ceaac2ffe9",
-      "url": "/tech-news/2025-12-15/veons-beeline-kazakhstan-delivers-first-starlink-d/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Tesla Robotaxi spatřen bez bezpečného řidiče v Austinu; Musk potvrzuje zahájení testování",
-      "description": "Tesla vůz byl spatřen na veřejných silnicích v Austinu bez nikoho v řidičském ani spolujezdcově sedadle. Elon Musk potvrdil, že testování Robotaxi bez obsazení vozidla probíhá.",
-      "slug": "tesla-robotaxi-spotted-without-a-safety-driver-in-",
-      "publishedAt": "2025-12-15T02:38:31+00:00",
-      "date": "2025-12-15 02:38:31",
-      "importance": 4,
-      "category": "autonomní řízení",
-      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2025/12/Tesla-driverless-robotoaxi-spotted-in-austin.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-12-15/tesla-robotaxi-spotted-without-a-safety-driver-in/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Electrek"
-      },
-      "companies": [
-        "Tesla"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
     }
   ]
 }
