@@ -1,7 +1,128 @@
 {
-  "generated": "2025-12-22T12:50:33.994216+00:00",
+  "generated": "2025-12-22T16:52:07.566246+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Je MercadoLibre (MELI) jednou z nejlepších akcií na nákup na příštích 5 let?",
+      "description": "MercadoLibre Inc. (NASDAQ:MELI) patří mezi nejlepší akcie na nákup na příštích 5 let. 24. listopadu analytik UBS Kaio Prato snížil cenový cíl firmy na 2 900 USD z 3 000 USD.",
+      "slug": "is-mercadolibre-meli-one-of-the-best-stocks-to-buy",
+      "publishedAt": "2025-12-21T15:57:49+00:00",
+      "date": "2025-12-21 15:57:49",
+      "importance": 5,
+      "category": "akcie",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/KaITDnFQJ9zFrwcdfWN1jg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/3c14b7d7e5a067562bc220daa8e6dc22",
+      "url": "/tech-news/2025-12-21/is-mercadolibre-meli-one-of-the-best-stocks-to-buy/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "MercadoLibre"
+      ],
+      "people": []
+    },
+    {
+      "title": "Permira a Warburg Pincus koupí Clearwater Analytics za 8,4 miliardy dolarů",
+      "description": "Skupina soukromých investičních fondů vedená Permirou a Warburg Pincus uzavřela dohodu o akvizici společnosti Clearwater Analytics Holdings, výrobce softwaru pro správu investic a účetnictví, za přibližně 8,4 miliardy dolarů včetně dluhu. Cena jedné akcie činí 24,55 dolaru v hotovosti, což představuje prémii 47 procent oproti kurzu 16,69 dolaru z 10. listopadu.",
+      "slug": "permira-warburg-to-buy-clearwater-analytics-for-84",
+      "publishedAt": "2025-12-21T15:39:30+00:00",
+      "date": "2025-12-21 15:39:30",
+      "importance": 5,
+      "category": "fintech",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--ZdHPGX9S--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=npguKy4y",
+      "url": "/tech-news/2025-12-21/permira-warburg-to-buy-clearwater-analytics-for-84/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNA"
+      },
+      "companies": [
+        "Clearwater Analytics Holdings"
+      ],
+      "people": []
+    },
+    {
+      "title": "Administrativa Trumpa zaměstná 1 000 specialistů pro novou 'Tech Force' na stavbu AI infrastruktury",
+      "description": "Administrativa Donalda Trumpa spustila iniciativu 'U.S. Tech Force' s přibližně 1 000 inženýry a specialisty, kteří budou pracovat na infrastruktuře umělé inteligence a dalších technologických projektech ve federální vládě. Program zahrnuje spolupráci s firmami jako Amazon Web Services, Google, Microsoft, Nvidia nebo OpenAI a cílí na konkurenci s Čínou v oblasti AI.",
+      "slug": "trump-admin-to-hire-1000-for-new-tech-force-to-bui",
+      "publishedAt": "2025-12-21T15:34:00+00:00",
+      "date": "2025-12-21 15:34:00",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://a.fsdn.com/sd/topics/usa_64.png",
+      "url": "/tech-news/2025-12-21/trump-admin-to-hire-1000-for-new-tech-force-to-bui/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "companies": [],
+      "people": [
+        "Donald Trump"
+      ]
+    },
+    {
+      "title": "Jak se Oracle stalo symbolem obav z AI bubliny",
+      "description": "Akcie Oracle dosáhly vrcholu v září, než v druhé polovině roku utrpěly pokračující pokles. Společnost se stala příkladem nejistoty investorů ohledně budoucnosti investic do AI.",
+      "slug": "how-oracle-became-a-poster-child-for-ai-bubble-fea",
+      "publishedAt": "2025-12-21T15:00:39+00:00",
+      "date": "2025-12-21 15:00:39",
+      "importance": 4,
+      "category": "ai bublina",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/R9FXlTbkvVzLIkvCFqe3AQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/234bd480-dc72-11f0-bb76-4afba1d1dbe0",
+      "url": "/tech-news/2025-12-21/how-oracle-became-a-poster-child-for-ai-bubble-fea/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "Oracle"
+      ],
+      "people": []
+    },
+    {
+      "title": "Čínský Tencent získává přístup k „zakázaným“ AI čipům NVIDIA Blackwell B200 využitím mezery v amerických exportních kontrolách",
+      "description": "Ačkoli jsou Blackwell čipy zakázány k exportu do Číny, čínské AI giganty obcházejí omezení přes model nájmu. Tencent uzavřel smlouvy v hodnotě přes 1,2 miliardy dolarů s japonskou firmou Datasection pro přístup k 15 000 procesorům NVIDIA Blackwell.",
+      "slug": "chinas-tencent-gains-access-to-the-banned-nvidias-",
+      "publishedAt": "2025-12-21T14:57:40+00:00",
+      "date": "2025-12-21 14:57:40",
+      "importance": 4,
+      "category": "exportní kontroly",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/12/Untitled-design-23-728x410.png",
+      "url": "/tech-news/2025-12-21/chinas-tencent-gains-access-to-the-banned-nvidias/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Wccftech"
+      },
+      "companies": [
+        "Tencent",
+        "NVIDIA"
+      ],
+      "people": []
+    },
+    {
+      "title": "Altucherova predikce o Starlinku čelí první skutečné zkoušce při zesilujících se spekulacích o IPO v roce 2026",
+      "description": "James Altucher vydal nejnovější video prezentaci, která znovu prohlíží jeho predikci o plánovaném úvodu Starlinku na burzu v roce 2026. Predikce se ověřuje v reálném čase díky rychlému růstu satelitní sítě a jejímu strategickému významu pro globální konektivitu.",
+      "slug": "altuchers-starlink-call-faces-its-first-real-test-",
+      "publishedAt": "2025-12-21T14:15:00+00:00",
+      "date": "2025-12-21 14:15:00",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": null,
+      "url": "/tech-news/2025-12-21/altuchers-starlink-call-faces-its-first-real-test/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [],
+      "people": [
+        "James Altucher"
+      ]
+    },
     {
       "title": "Nano Banana Pro oloupané: Podívejte se, co jsem vytvořil s nejnovějším generátorem obrázků od Google",
       "description": "Nano Banana Pro, přezdívka pro novou verzi modelu Gemini 3 pro generování a úpravu obrázků, přináší vylepšené funkce oproti původnímu Nano Banana (Gemini 2.5). Tento model získal cenu PCMag Technical Excellence za své schopnosti v tvorbě a editaci obrázků.",
@@ -3743,28 +3864,6 @@
       "people": []
     },
     {
-      "title": "Šéf Tesly Elon Musk udělal odvážné tvrzení o budoucí technologické nabídce: 'Bude mimo tento svět'",
-      "description": "„Pokud to někdo dokáže, tak on!“",
-      "slug": "tesla-ceo-elon-musk-makes-bold-claim-about-future-",
-      "publishedAt": "2025-12-15T23:55:00+00:00",
-      "date": "2025-12-15 23:55:00",
-      "importance": 4,
-      "category": "robotika",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/9cxJvkiFSzAJMOqTOrgkqw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02ODU-/https://media.zenfs.com/en/the_cool_down_737/7ee9c4b6b40609c965650dce51c3d216",
-      "url": "/tech-news/2025-12-15/tesla-ceo-elon-musk-makes-bold-claim-about-future/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [
-        "Tesla"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
       "title": "Warner Bros. je blockbusterovým finále pro 4,5 bilionu dolarů v fúzích a akvizicích",
       "description": "Globální hodnoty transakcí vzrostly asi o 40 % na přibližně 4,5 bilionu dolarů tento rok, podle dat sestavených Bloombergem, což je druhý nejvyšší rekord v historii.",
       "slug": "warner-bros-is-blockbuster-finale-to-45-trillion-m",
@@ -3798,27 +3897,6 @@
         "name": "Abajournal.com"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Nová AI divize Reliance Intelligence od RIL zahajuje operace",
-      "description": "Reliance Intelligence, plně vlastněná dceřiná společnost Reliance Industries založená v září 2025, spouští svou činnost. Jednotka spravuje partnerství s globálními technologickými firmami jako Google a Meta a realizuje plány na výstavbu datových center připravených pro umělou inteligenci.",
-      "slug": "rils-new-ai-arm-reliance-intelligence-begins-opera",
-      "publishedAt": "2025-12-15T19:17:36+00:00",
-      "date": "2025-12-15 19:17:36",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://img.etimg.com/thumb/msid-125989722,width-1200,height-630,imgsize-9238,overlay-economictimes/articleshow.jpg",
-      "url": "/tech-news/2025-12-15/rils-new-ai-arm-reliance-intelligence-begins-opera/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Google",
-        "Meta"
-      ],
       "people": []
     },
     {
@@ -3925,24 +4003,6 @@
       "people": []
     },
     {
-      "title": "Taiwan spouští národní cloudové výpočetní centrum pro napájení suverénní AI v rámci nové velké AI iniciativy",
-      "description": "Taiwan zahajuje národní cloudové výpočetní centrum zaměřené na suverénní umělou inteligenci jako součást nové rozsáhlé AI strategie. Iniciativa reaguje na rostoucí soutěž o výpočetní výkon, data a aplikace v éře generativní AI.",
-      "slug": "taiwan-launches-national-cloud-computing-center-to",
-      "publishedAt": "2025-12-15T08:05:48+00:00",
-      "date": "2025-12-15 08:05:48",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://img.digitimes.com/newsshow/20251215pd201_files/2_b.jpg",
-      "url": "/tech-news/2025-12-15/taiwan-launches-national-cloud-computing-center-to/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Beeline Kazakhstan od VEON uskutečnil první hovor přes Starlink Direct to Cell v Střední Asii",
       "description": "Almaty, 15. prosince 2025 – VEON Ltd. oznámil, že jeho operátor Beeline Kazakhstan dokončil terénní test a uskutečnil první hlasový hovor přes aplikaci i textové zprávy prostřednictvím Starlink Direct to Cell v Střední Asii. Test spojil satelitní a pozemní mobilní sítě pomocí standardních smartphonů.",
       "slug": "veons-beeline-kazakhstan-delivers-first-starlink-d",
@@ -3958,48 +4018,6 @@
         "name": "GlobeNewswire"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "STMicroelectronics dodala 5 miliard čipů pro Starlink za poslední desetiletí; počet by se mohl zdvojnásobit do roku 2027",
-      "description": "STMicroelectronics dodala SpaceX přes 5 miliard čipů pro rádiové frekvence antén v síti Starlink. Firma očekává zdvojnásobení dodávek v příštích dvou letech díky rostoucí poptávce po specializovaných komponentech pro vesmírné technologie.",
-      "slug": "stmicro-has-shipped-5-billion-chips-for-starlink-i",
-      "publishedAt": "2025-12-15T07:47:42+00:00",
-      "date": "2025-12-15 07:47:42",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-19360,resizemode-75,msid-125974166/tech/technology/stmicro-has-shipped-5-billion-chips-for-starlink-in-past-decade-that-could-double-by-2027.jpg",
-      "url": "/tech-news/2025-12-15/stmicro-has-shipped-5-billion-chips-for-starlink-i/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "STMicroelectronics",
-        "SpaceX"
-      ],
-      "people": []
-    },
-    {
-      "title": "STMicroelectronics a SpaceX slaví desetileté partnerství klíčové pro globální konektivitu Starlinku",
-      "description": "STMicroelectronics a SpaceX oslavují deset let spolupráce na vývoji vlastních čipů pro satelitní síť Starlink, která poskytuje širokopásmový internet více než 8 milionům zákazníků v přes 150 zemích. Partnerství pokračuje s důrazem na nové generace satelitů a uživatelských terminálů.",
-      "slug": "stmicroelectronics-and-spacex-celebrate-a-decade-l",
-      "publishedAt": "2025-12-15T07:00:00+00:00",
-      "date": "2025-12-15 07:00:00",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/281fbc38-04be-49ef-832b-48f4f2f8c959",
-      "url": "/tech-news/2025-12-15/stmicroelectronics-and-spacex-celebrate-a-decade-l/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [
-        "STMicroelectronics",
-        "SpaceX"
-      ],
       "people": []
     },
     {
@@ -4023,27 +4041,6 @@
       "people": [
         "Elon Musk"
       ]
-    },
-    {
-      "title": "ServiceNow v pokročilých jednáních o akvizici kyberbezpečnostního startupu Armis za až 7 miliard dolarů, uvádí zpráva",
-      "description": "ServiceNow je v pokročilých jednáních o koupi izraelské kyberbezpečnostní společnosti Armis, vedené veterány izraelské armády, za až 7 miliard dolarů, což by byla jejich největší akvizice. Dohoda může být oznámena brzy, případně selhat kvůli jinému zájemci.",
-      "slug": "servicenow-in-advanced-talks-to-acquire-cybersecur",
-      "publishedAt": "2025-12-15T01:18:26+00:00",
-      "date": "2025-12-15 01:18:26",
-      "importance": 5,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2025/12/15/1600x900/deal_1762581493801_1762581494010_1765760500089.png",
-      "url": "/tech-news/2025-12-15/servicenow-in-advanced-talks-to-acquire-cybersecur/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Livemint"
-      },
-      "companies": [
-        "ServiceNow",
-        "Armis"
-      ],
-      "people": []
     }
   ]
 }
