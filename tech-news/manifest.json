@@ -1,7 +1,87 @@
 {
-  "generated": "2025-12-22T08:44:07.965824+00:00",
+  "generated": "2025-12-22T12:50:33.994216+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Nano Banana Pro oloupané: Podívejte se, co jsem vytvořil s nejnovějším generátorem obrázků od Google",
+      "description": "Nano Banana Pro, přezdívka pro novou verzi modelu Gemini 3 pro generování a úpravu obrázků, přináší vylepšené funkce oproti původnímu Nano Banana (Gemini 2.5). Tento model získal cenu PCMag Technical Excellence za své schopnosti v tvorbě a editaci obrázků.",
+      "slug": "nano-banana-pro-unpeeled-see-what-i-made-with-goog",
+      "publishedAt": "2025-12-21T12:00:00+00:00",
+      "date": "2025-12-21 12:00:00",
+      "importance": 4,
+      "category": "generativní ai",
+      "urlToImage": "https://sm.pcmag.com/t/pcmag_me/explainers/n/nano-banan/nano-banana-pro-unpeeled-see-what-i-made-with-googles-newest_q2q6.1200.jpg",
+      "url": "/tech-news/2025-12-21/nano-banana-pro-unpeeled-see-what-i-made-with-goog/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "PCMag.com"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Neomezená inteligence a školení jako ochrana utváří budoucnost AI: šéf Microsoftu v Indii",
+      "description": "Prezident Microsoft India a Jižní Asie Puneet Chandok předpovídá éru neomezené inteligence, kde AI agenti budou fungovat jako digitální kolegové pod lidským dohledem, přičemž kontinuální školení slouží jako klíčová ochrana. Microsoft investuje 17,5 miliardy USD do infrastruktury pro AI v Indii, což je největší investice společnosti v Asii.",
+      "slug": "abundant-intelligence-skilling-safeguard-to-shape-",
+      "publishedAt": "2025-12-21T11:11:32+00:00",
+      "date": "2025-12-21 11:11:32",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-42658,resizemode-75,msid-126104672/tech/artificial-intelligence/abundant-intelligence-skilling-safeguard-to-shape-ai-future-microsoft-india-head.jpg",
+      "url": "/tech-news/2025-12-21/abundant-intelligence-skilling-safeguard-to-shape/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Microsoft"
+      ],
+      "people": [
+        "Satya Nadella"
+      ]
+    },
+    {
+      "title": "Čínské otevřené modely AI se vyrovnávají Západu – co bude dál",
+      "description": "S rostoucí technologickou úrovní a větší otevřeností čínských modelů se svět stále více obrací k Východu pro efektivní a přizpůsobitelnou umělou inteligenci, konstatuje nová zpráva. Čínské velké jazykové modely jako Qwen od Alibaba překonávají v některých metrikách západní konkurenty.",
+      "slug": "chinas-open-ai-models-are-in-a-dead-heat-with-the-",
+      "publishedAt": "2025-12-21T11:00:37+00:00",
+      "date": "2025-12-21 11:00:37",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/58614cf88f44ed924962996f00ff555f731479dd/2025/12/19/759fb476-ffdf-420d-9131-4509325f7c92/chinaus555gettyimages-2131985696.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "url": "/tech-news/2025-12-21/chinas-open-ai-models-are-in-a-dead-heat-with-the/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "ZDNet"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Gemini 3 Flash: Rychlý, multimodální a cenově příznivý",
+      "description": "Google představil model Gemini 3 Flash, který nabízí až trojnásobnou rychlost oproti předchůdci a snížení nákladů o více než 75 procent. Tento model podporuje pokročilé úlohy včetně multimodální analýzy a generování obsahu za nízkou cenu.",
+      "slug": "gemini-3-flash-fast-multimodal-easy-on-your-budget",
+      "publishedAt": "2025-12-21T11:00:06+00:00",
+      "date": "2025-12-21 11:00:06",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/multimodal-visual-reasoning-example_optimized.jpg",
+      "url": "/tech-news/2025-12-21/gemini-3-flash-fast-multimodal-easy-on-your-budget/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
     {
       "title": "Čínský tajný „projekt Manhattan“ slaví úspěch: Domácí prototyp EUV lithografického stroje",
       "description": "Čína tajně vyvinula funkční prototyp pokročilého EUV lithografického stroje, klíčového pro výrobu špičkových polovodičů. Projekt, přirovnávaný k Manhattan Projectu, zahrnoval reverzní inženýrství od bývalých inženýrů firmy ASML v zabezpečeném zařízení v Shenzhen.",
@@ -3782,26 +3862,6 @@
       ]
     },
     {
-      "title": "Photonic Inc. vybrána do kanadského programu Quantum Champions",
-      "description": "Společnost Photonic Inc. byla zařazena do první fáze iniciativy kanadské vlády Canadian Quantum Champions Program, která má urychlit vývoj fault-tolerant quantum computing a poskytne až 23 milionů dolarů.",
-      "slug": "photonic-inc-selected-for-canadian-quantum-champio",
-      "publishedAt": "2025-12-15T15:28:00+00:00",
-      "date": "2025-12-15 15:28:00",
-      "importance": 4,
-      "category": "kvantové počítače",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/e133d571-5802-4242-ae7b-f13e54236b47",
-      "url": "/tech-news/2025-12-15/photonic-inc-selected-for-canadian-quantum-champio/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [
-        "Photonic Inc"
-      ],
-      "people": []
-    },
-    {
       "title": "Co se děje s... Orange, ZTE a prodeji SASE",
       "description": "Orange uzavřel závaznou dohodu o úplném převzetí španělského operátora MásOrange za 4,25 miliardy eur. ZTE čelí možné pokutě přes jednu miliardu dolarů kvůli obviněním z korupce. Podle Dell’Oro zažívá sektor SASE výrazný růst.",
       "slug": "whats-up-with-orange-zte-sase-sales",
@@ -3865,26 +3925,6 @@
       "people": []
     },
     {
-      "title": "QuEra: Tisíce neutrálních atomových qubitů jsou jen pár let od komerční kvantové výhody #Q2B",
-      "description": "Společnost QuEra vydá v roce 2026 novou roadmapu k dosažení komerční kvantové výhody. Na konferenci Q2B 2025 představila pokroky v technologii neutrálních atomových qubitů, které překonávají klasické počítače v určitých úlohách.",
-      "slug": "quera-thousands-of-neutral-atom-qubits-is-a-few-ye",
-      "publishedAt": "2025-12-15T08:13:48+00:00",
-      "date": "2025-12-15 08:13:48",
-      "importance": 5,
-      "category": "kvantové počítače",
-      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2025/12/IMG_0805-min-1024x768.jpg",
-      "url": "/tech-news/2025-12-15/quera-thousands-of-neutral-atom-qubits-is-a-few-ye/",
-      "source": {
-        "emoji": "📰",
-        "id": "next-big-future",
-        "name": "Next Big Future"
-      },
-      "companies": [
-        "QuEra"
-      ],
-      "people": []
-    },
-    {
       "title": "Taiwan spouští národní cloudové výpočetní centrum pro napájení suverénní AI v rámci nové velké AI iniciativy",
       "description": "Taiwan zahajuje národní cloudové výpočetní centrum zaměřené na suverénní umělou inteligenci jako součást nové rozsáhlé AI strategie. Iniciativa reaguje na rostoucí soutěž o výpočetní výkon, data a aplikace v éře generativní AI.",
       "slug": "taiwan-launches-national-cloud-computing-center-to",
@@ -3916,24 +3956,6 @@
         "emoji": "📰",
         "id": null,
         "name": "GlobeNewswire"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Kvantové tranzistory umožňují škálování qubitů z barevných center v diamantu #Q2B #Q2B2025",
-      "description": "Společnost Quantum Transistors představila zařízení Quantum Transistor (patent čekající na schválení), které řeší problémy stability náboje barevných center v diamantu a umožňuje jejich použití jako škálovatelných qubitů. Prezentace proběhla na konferenci Q2B 2025 a ukazuje cestu k 250 000 qubitům do roku 2030 při provozu na 4 kelvinech.",
-      "slug": "quantum-transistors-can-scale-diamond-color-center",
-      "publishedAt": "2025-12-15T08:00:19+00:00",
-      "date": "2025-12-15 08:00:19",
-      "importance": 5,
-      "category": "kvantové počítače",
-      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2025/12/IMG_0788-min-1024x768.jpg",
-      "url": "/tech-news/2025-12-15/quantum-transistors-can-scale-diamond-color-center/",
-      "source": {
-        "emoji": "📰",
-        "id": "next-big-future",
-        "name": "Next Big Future"
       },
       "companies": [],
       "people": []
@@ -3977,28 +3999,6 @@
       "companies": [
         "STMicroelectronics",
         "SpaceX"
-      ],
-      "people": []
-    },
-    {
-      "title": "Nedávné investice amerických firem do Indie zdůrazňují rozsah bilaterální technologické a ekonomické spolupráce",
-      "description": "Indie přilákala investice v hodnotě 67,5 miliardy dolarů z USA, což ukazuje prohlubující se technologické a ekonomické vazby. Google postaví AI datové centrum za 15 miliard dolarů ve Višákhapatnamu, Microsoft investuje 17,5 miliardy do cloudu a AI infrastruktury a Amazon slíbí 35 miliard do roku 2030 pro různé oblasti včetně AI.",
-      "slug": "recent-investments-in-india-from-us-firms-highligh",
-      "publishedAt": "2025-12-15T02:58:35+00:00",
-      "date": "2025-12-15 02:58:35",
-      "importance": 4,
-      "category": "technologické invest",
-      "urlToImage": "https://img.etimg.com/thumb/msid-125969446,width-1200,height-630,imgsize-137922,overlay-economictimes/articleshow.jpg",
-      "url": "/tech-news/2025-12-15/recent-investments-in-india-from-us-firms-highligh/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Google",
-        "Microsoft",
-        "Amazon"
       ],
       "people": []
     },
