@@ -5,8 +5,9 @@ companies:
 - Waymo
 date: '2025-12-22 00:53:32'
 description: Waymo dočasně zastavilo svou službu autonomních taxíků v San Franciscu
-  po rozsáhlém výpadku proudu, který nechal několik vozů uvízlo na ulicích města.
-  Firma spolupracuje s úřady a plánuje brzké obnovení provozu.
+  po rozsáhlém výpadku elektřiny, který způsobil uvíznutí několika autonomních vozů
+  na ulicích. Mluvčí společnosti uvedl, že týmy spolupracují s městskými úřady na
+  obnovení provozu.
 importance: 4
 layout: tech_news_article
 original_title: Waymo suspends service after power outage hit San Francisco
@@ -16,35 +17,31 @@ source:
   emoji: 📰
   id: null
   name: Securityaffairs.com
-title: Waymo pozastavuje službu po výpadku proudu v San Franciscu
+title: Waymo pozastavilo službu po výpadku proudu v San Franciscu
 url: https://securityaffairs.com/185956/security/waymo-suspends-service-after-power-outage-hit-san-francisco.html
 urlToImage: https://securityaffairs.com/wp-content/uploads/2025/12/image-36.png
 urlToImageBackup: https://securityaffairs.com/wp-content/uploads/2025/12/image-36.png
 ---
 
 ## Souhrn
-Společnost Waymo, vlastněná Alphabetem, dočasně pozastavila svou službu autonomních taxíků v oblasti San Francisca kvůli velkému výpadku elektrické energie. Výpadek způsobil uvíznutí několika vozidel v provozu, jak ukazují záběry ze sociálních sítí. Firma informovala, že pracuje na obnovení služby ve spolupráci s městskými úřady.
+Waymo, společnost zabývající se vývojem autonomních jízdních systémů vlastněná Alphabetem, dočasně pozastavila svou službu robotaxi v oblasti San Francisca kvůli masivnímu výpadku elektřiny. Tento incident odhalil zranitelnost plně autonomních vozů vůči selhání městské infrastruktury, kdy několik vozidel uvízlo v provozu bez možnosti pokračovat. Služba byla zastavena od 21. prosince 2025, přičemž týmy Wayma spolupracují s úřady na rychlém obnovení.
 
 ## Klíčové body
-- Výpadek proudu začal 21. prosince 2025 v 13:09 místního času a ovlivnil přibližně 130 000 odběratelů, z toho ráno následujícího dne zbývalo bez proudu 21 000.
-- Autonomní vozy Waymo uvízly v dopravě kvůli nefunkčním semaforům a dalším dopadům výpadku.
-- Mluvčí Waymo potvrdil pozastavení služby v oblasti Sanfranciského zálivu a slíbil brzké aktualizace.
-- Incident zdokumentovaly uživatelé na platformách jako X (dříve Twitter) videi s uvízlými vozidly.
-- Waymo provozuje plně autonomní vozy bez lidského řidiče v několika amerických městech.
+- Výpadek proudu začal 21. prosince 2025 v 13:09 místního času a vrcholil o dvě hodiny později, ovlivnil přibližně 130 000 odběratelů elektřiny.
+- Několik autonomních vozů Waymo uvízlo na ulicích San Francisca, což bylo zdokumentováno videi na sociálních sítích, včetně zablokovaných semaforů a zmatených vozidel.
+- Mluvčí Wayma pro CNBC potvrdil dočasné pozastavení služby v San Francisco Bay Area a slíbil brzké aktualizace.
+- Do rána 22. prosince zůstalo bez proudu asi 21 000 odběratelů.
+- Waymo provozuje plně autonomní robotaxi v několika amerických městech, kde pasažéři objednávají jízdu bez řidiče.
 
 ## Podrobnosti
-Waymo je technologická firma specializující se na vývoj systémů pro autonomní řízení vozidel. Patří do koncernu Alphabet, mateřské společnosti Google, a nabízí službu autonomních taxíků, kde zákazníci objednávají jízdu přes aplikaci bez potřeby lidského řidiče. Tyto vozy využívají kombinaci lidarů, radarů, kamer a umělé inteligence k navigaci v reálném prostředí.
+Waymo je přední společnost v oblasti autonomního řízení, která vyvíjí senzory, software pro mapování a algoritmy pro bezpečné samořídicí vozy. Její robotaxi služba umožňuje uživatelům objednat jízdu přes aplikaci podobně jako u Uberu, ale bez lidského řidiče – vozy používají LiDAR, radary a kamery k navigaci v reálném čase. V San Franciscu a okolí Bay Area tato služba běží od roku 2021 v omezeném rozsahu, s tisíci denních jízd.
 
-Výpadek proudu v San Franciscu, který nastal 21. prosince 2025, odhalil zranitelnost těchto systémů vůči infrastrukturním selháním. Blackout začal v poledne a vrcholil o dvě hodiny později, což vedlo k výpadku semaforů a chaosu v dopravě. Několik vozů Waymo, které byly v provozu, přestalo fungovat správně – pravděpodobně kvůli ztrátě signálů ze semaforů nebo omezené komunikaci s cloudovými servery pro mapování a rozhodování. Záběry z místa ukazují vozy stojící uprostřed křižovatek, což způsobilo zácpy.
+Výpadek proudu, který zasáhl velké části San Francisca právě na předvečer nejdelší noci roku 2025, způsobil selhání semaforů a další městské infrastruktury. Autonomní vozy Waymo, závislé na elektrickém napájení pro své počítače a senzory, přestaly fungovat správně. Videá z Twitteru (nyní X) ukazují řady uvízlých vozidel uprostřed provozu, některé s blikajícími světly, ale bez pohybu. Například účet @Breaking911 sdílel záběr s komentářem o zablokovaném provozu, zatímco @fulligin popsal situaci slovy „Power outage took out the waymos RIP“. Další uživatel @AnnTrades zmínil zmatené flotily Waymo bez světel na křižovatkách.
 
-Mluvčí Waymo uvedl pro CNBC: „Dočasně jsme pozastavili naše služby sdílených jízd v oblasti Sanfranciského zálivu kvůli rozsáhlému výpadku proudu. Naše týmy intenzivně spolupracují s městskými úřady a doufáme v brzké obnovení. Děkujeme za trpělivost a brzy poskytneme další informace.“ Tento incident není první svého druhu; autonomní systémy závisí na stabilní infrastruktuře, včetně elektrického napájení pro senzory a připojení k datovým centrům. Pokud dojde k výpadku, vozy mohou přejít do bezpečného režimu, kde se zastaví, což vede k blokádám.
-
-Pro uživatele to znamená, že služby jako Waymo nejsou ještě plně odolné vůči běžným městským poruchám. V porovnání s Tesla FSD, které funguje převážně na palubním hardware, Waymo silně spoléhá na cloudovou integraci, což zvyšuje riziko v případech jako tento.
+Týmy Wayma okamžitě reagovaly koordinací s městskými úřady a manuálním odtahováním vozidel. Služba byla pozastavena preventivně, aby se zabránilo dalším incidentům. Výpadek, pravděpodobně způsobený přetížením sítě nebo technickou závadou, trval déle než očekávano – zatímco vrchol ovlivnil 130 000 domácností, ráno zůstalo tisíce bez energie. Waymo v minulosti čelilo podobným výzvám, jako jsou husté mlhy nebo stavební práce, ale závislost na stabilním napájení je klíčovým bodem slabiny v porovnání s lidskými řidiči, kteří mohou improvizovat.
 
 ## Proč je to důležité
-Tento incident podtrhuje klíčové limity současné technologie autonomních vozidel. I když Waymo dosáhlo vysoké míry autonomie (úroveň 4 podle SAE), systémy stále závisí na externích faktorech jako semafory, GPS signál a cloudové výpočty. Výpadek proudu v hustě osídleném městě jako San Francisco ukazuje rizika škálování robotaxi služeb – potenciální zácpy mohou zhoršit dopravu místo jejího zlepšení.
-
-V širším kontextu to ovlivňuje důvěru regulátorů a investorů. Firmy jako Waymo, Cruise nebo Zoox musí řešit nejen bezpečnost kolizí, ale i odolnost vůči infrastrukturním krizím. Pro průmysl to znamená nutnost investic do lokálních záloh (např. edge computing) a lepší integrace s městskými systémy. Pokud se podobné události opakují, mohou způsobit zpomalení expanze autonomních flotil v USA i Evropě, kde se testují podobné služby.
+Tento incident podtrhuje fundamentální limity současných autonomních systémů: i když Waymo dosáhlo vysoké mírně úspěšnosti v bezpečnosti (podle interních dat nižší míra nehod než u lidí), zcela závisí na externí infrastruktuře jako je elektřina a semafory. Pro průmysl autonomních vozů, kde soupeří Waymo s Tesla FSD nebo Cruise (také GM), to znamená nutnost investic do záložních systémů, jako jsou vestavěné baterie pro senzory nebo algoritmy pro provoz bez semaforů. Pro uživatele to představuje riziko nedostupnosti služby v krizových situacích, což brzdí adopci robotaxi jako spolehlivou alternativy veřejné dopravy. V širším kontextu to ilustruje, jak AI a robotika stále nejsou plně odolné vůči reálnému světu, kde selhání jedné složky (jako energetická síť) ovlivní celý ekosystém. Pokud se takové události budou opakovat, regulátoři jako kalifornský DMV mohou zpřísnit požadavky na redundanci, což zpomalí expanzi služeb do dalších měst.
 
 ---
 

@@ -1,10 +1,128 @@
 {
-  "generated": "2025-12-23T01:16:48.606169+00:00",
+  "generated": "2025-12-23T04:56:28.692500+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "Waymo pozastavuje službu po výpadku proudu v San Franciscu",
-      "description": "Waymo dočasně zastavilo svou službu autonomních taxíků v San Franciscu po rozsáhlém výpadku proudu, který nechal několik vozů uvízlo na ulicích města. Firma spolupracuje s úřady a plánuje brzké obnovení provozu.",
+      "title": "IPO firem spojených s AI v Číně explodují. Cizincům se ale na akci těžko dostane",
+      "description": "Nejžhavější IPO v oblasti umělé inteligence v Číně přinášejí obrovské zisky. Zahraniční investoři se však na tuto rallye dostávají jen obtížně.",
+      "slug": "ai-linked-ipos-in-china-are-exploding-but-its-not-",
+      "publishedAt": "2025-12-22T04:15:12+00:00",
+      "date": "2025-12-22 04:15:12",
+      "importance": 4,
+      "category": "ai ipo",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108237068-1764903745914-gettyimages-2243586882-Illustration_Moore_Threads.jpeg?v=1765983260&w=1920&h=1080",
+      "url": "/tech-news/2025-12-22/ai-linked-ipos-in-china-are-exploding-but-its-not/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Waymo pozastavilo provoz v San Franciscu po problémech během výpadku elektřiny",
+      "description": "Během víkendového výpadku proudu v San Franciscu se autonomní vozy Waymo zastavily u tmavých semaforů a blokovaly dopravu. Společnost dočasně pozastavila svou ride-hailing službu na doporučení starostovy kanceláře kvůli vytvářeným zácpám.",
+      "slug": "waymo-suspended-service-in-san-francisco-after-pro",
+      "publishedAt": "2025-12-22T04:01:28+00:00",
+      "date": "2025-12-22 04:01:28",
+      "importance": 4,
+      "category": "autonomní vozy",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-212810,resizemode-75,msid-126113887/tech/technology/waymo-suspended-service-in-san-francisco-after-problems-during-power-outage.jpg",
+      "url": "/tech-news/2025-12-22/waymo-suspended-service-in-san-francisco-after-pro/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Waymo"
+      ],
+      "people": []
+    },
+    {
+      "title": "Robotaxi Waymo ztratila orientaci, když semafory v San Franciscu zhasly",
+      "description": "Robotaxi společnosti Waymo se v sobotu večer náhle zastavily po celém San Franciscu kvůli výpadku proudu, který vypnul semafory a odhalil slabiny v navigaci autonomních vozidel. Společnost službu dočasně pozastavila a spolupracuje s městskými úřady.",
+      "slug": "waymos-robotaxis-lose-their-way-as-san-francisco-t",
+      "publishedAt": "2025-12-22T01:55:53+00:00",
+      "date": "2025-12-22 01:55:53",
+      "importance": 4,
+      "category": "autonomní vozidla",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Screenshot-from-2025-12-22-08-55-21.png",
+      "url": "/tech-news/2025-12-22/waymos-robotaxis-lose-their-way-as-san-francisco-t/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Google",
+        "Waymo"
+      ],
+      "people": []
+    },
+    {
+      "title": "Google spouští továrny s bateriemi na CO2 pro dlouhodobé ukládání obnovitelné energie",
+      "description": "V červenci Google slíbil škálování CO2 baterií společnosti Energy Dome jako řešení pro dlouhodobé ukládání energie. Nyní IEEE Spectrum navštívil první továrnu na Sardinii, kde 2000 tun oxidu uhličitého pohání turbínu generující 20 MW po dobu 10 hodin a ukládá velké množství přebytečné obnovitelné energie.",
+      "slug": "google-launches-co2-battery-plants-for-long-durati",
+      "publishedAt": "2025-12-22T01:34:00+00:00",
+      "date": "2025-12-22 01:34:00",
+      "importance": 5,
+      "category": "ukládání energie",
+      "urlToImage": "https://a.fsdn.com/sd/topics/power_64.png",
+      "url": "/tech-news/2025-12-22/google-launches-co2-battery-plants-for-long-durati/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "companies": [
+        "Google",
+        "Energy Dome"
+      ],
+      "people": []
+    },
+    {
+      "title": "Při souboji USA s Čínou o AI některé firmy volí čínské technologie",
+      "description": "Navzdory rostoucímu geopolitickému napětí mezi USA a Čínou v oblasti umělé inteligence se čínské open-source modely velkého jazyka prosazují na americkém trhu. Programátoři a společnosti oceňují jejich nízkou cenu, flexibilitu a solidní výkon, což vede k výraznému růstu jejich globálního podílu.",
+      "slug": "as-us-battles-china-on-ai-some-companies-choose-ch",
+      "publishedAt": "2025-12-22T01:23:05+00:00",
+      "date": "2025-12-22 01:23:05",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://media.zenfs.com/en/afp.com/f33adca71cca90fc0bf0a5e61171b06c",
+      "url": "/tech-news/2025-12-22/as-us-battles-china-on-ai-some-companies-choose-ch/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Zpráva: Výrobce AI čipů Cerebras Systems oživuje plány na IPO, cílí na začátek 2026",
+      "description": "Společnost Cerebras Systems, specializující se na vývoj výkonných čipů pro trénink a inference umělé inteligence, podle zprávy Reuters připravuje podání dokumentů pro úvodní veřejnou nabídku akcií v USA ještě tento týden. Cílem je vstup na burzu v druhém čtvrtletí 2026, po odložení původních plánů kvůli bezpečnostním obavám spojeným s investorem G42.",
+      "slug": "report-ai-chipmaker-cerebras-systems-rekindles-ipo",
+      "publishedAt": "2025-12-22T01:12:59+00:00",
+      "date": "2025-12-22 01:12:59",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/cerebras.png",
+      "url": "/tech-news/2025-12-22/report-ai-chipmaker-cerebras-systems-rekindles-ipo/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Cerebras Systems"
+      ],
+      "people": []
+    },
+    {
+      "title": "Waymo pozastavilo službu po výpadku proudu v San Franciscu",
+      "description": "Waymo dočasně zastavilo svou službu autonomních taxíků v San Franciscu po rozsáhlém výpadku elektřiny, který způsobil uvíznutí několika autonomních vozů na ulicích. Mluvčí společnosti uvedl, že týmy spolupracují s městskými úřady na obnovení provozu.",
       "slug": "waymo-suspends-service-after-power-outage-hit-san-",
       "publishedAt": "2025-12-22T00:53:32+00:00",
       "date": "2025-12-22 00:53:32",
@@ -23,8 +141,8 @@
       "people": []
     },
     {
-      "title": "Temasek mezi investory při akvizici Clearwater Analytics za 10,9 miliardy dolarů",
-      "description": "Skupina soukromých investičních firem vedená Permirou a Warburg Pincus získala Clearwater Analytics, americkou společnost vyvíjející software pro správu investičních portfolií, za 10,9 miliardy dolarů včetně dluhu. Mezi menšinovými investory je singapurská Temasek.",
+      "title": "Temasek mezi investory v akvizici Clearwater Analytics za 10,9 miliardy dolarů",
+      "description": "Americká firma Clearwater Analytics vyvíjí software pro správu investičních portfolií na bázi cloudové platformy. Skupina investorů vedená Permirou a Warburg Pincus ji získává za 10,9 miliardy dolarů včetně dluhu.",
       "slug": "temasek-among-investors-in-109-billion-purchase-of",
       "publishedAt": "2025-12-22T00:15:44+00:00",
       "date": "2025-12-22 00:15:44",
@@ -3650,46 +3768,6 @@
       "people": []
     },
     {
-      "title": "Amazon varuje: Hackeři z ruské GRU cílí na západní firmy přes špatně nakonfigurovaná hraniční zařízení",
-      "description": "Výzkumníci Amazonu považují tuto kampaň za součást větší operace vedené ruskou vojenskou zpravodajskou službou GRU. Skupina změnila taktiku z exploitů zranitelností na útoky na chybně nastavená síťová hraniční zařízení zákazníků.",
-      "slug": "amazon-warns-russian-gru-hackers-target-western-fi",
-      "publishedAt": "2025-12-16T12:15:00+00:00",
-      "date": "2025-12-16 12:15:00",
-      "importance": 5,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://assets.infosecurity-magazine.com/webpage/og/373d80ad-16a6-487c-be6e-b762c135a612.jpg",
-      "url": "/tech-news/2025-12-16/amazon-warns-russian-gru-hackers-target-western-fi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Infosecurity Magazine"
-      },
-      "companies": [
-        "Amazon"
-      ],
-      "people": []
-    },
-    {
-      "title": "ChatGPT 5.2 zdvojnásobuje úspěšnost na reálných úkolech: Posouvá kancelářskou práci do nové území",
-      "description": "OpenAI vydalo model GPT-5.2, který dosahuje 74procentní úspěšnosti na složitých úkolech oproti 38 procentům u verze GPT-5.1, s lepší přesností a menším počtem halucinací. Model je přizpůsoben pro podnikové použití, kde automatizuje projektový management, analýzu dat a tvorbu zpráv.",
-      "slug": "chatgpt-52-doubles-success-on-real-tasks-pushes-of",
-      "publishedAt": "2025-12-16T12:07:49+00:00",
-      "date": "2025-12-16 12:07:49",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/gpt-5-2-mega-agent-architecture_optimized.jpg",
-      "url": "/tech-news/2025-12-16/chatgpt-52-doubles-success-on-real-tasks-pushes-of/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
       "title": "Robotaxi v roce 2025: Waymo plánuje globální expanzi, Zoox a Tesla se připojují na startovní čáru",
       "description": "Robotaxi se v roce 2025 rychle rozšířily, přičemž Waymo expandovalo nejrychleji do 26 trhů v USA a zahraničí. Zoox debutovalo bezplatné bezřidičové jízdy v Las Vegas a San Franciscu, zatímco Tesla spustila službu Robotaxi s dohledem člověka v Austinu a oblasti San Francisco Bay Area.",
       "slug": "robotaxis-in-2025-waymo-plots-global-expansion-as-",
@@ -3730,52 +3808,6 @@
       "people": [
         "Trump"
       ]
-    },
-    {
-      "title": "Startup podpořený JPMorgan navazuje partnerství s Amazonem",
-      "description": "Slope, fintech společnost se sídlem v San Franciscu podpořená bankou JPMorgan Chase a Samem Altmanem, generálním ředitelem OpenAI, oznámila spolupráci s Amazonem na nových platebních řešeních pro malé nákupy.",
-      "slug": "jpmorgan-backed-startup-partners-with-amazon",
-      "publishedAt": "2025-12-16T11:47:20+00:00",
-      "date": "2025-12-16 11:47:20",
-      "importance": 4,
-      "category": "fintech",
-      "urlToImage": "https://biztoc.com/cdn/410de068e90223f2_s.webp",
-      "url": "/tech-news/2025-12-16/jpmorgan-backed-startup-partners-with-amazon/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "companies": [
-        "Slope",
-        "OpenAI",
-        "Amazon"
-      ],
-      "people": [
-        "Sam Altman"
-      ]
-    },
-    {
-      "title": "Uvnitř smyčky financování AI spojující Microsoft, NVIDIA a OpenAI",
-      "description": "Analýza odhaluje nesudržitelné výdaje v AI sektoru, kde OpenAI plánuje investovat 1,15 bilionu dolarů do infrastruktury při očekávaných příjmech jen 20 miliard v roce 2025. Propojené investice mezi Microsoftem, NVIDIA a OpenAI vytvářejí kruhové finanční toky, které zvyšují rizika podobná dot-com bublině.",
-      "slug": "inside-the-ai-funding-loop-linking-microsoft-nvidi",
-      "publishedAt": "2025-12-16T11:44:03+00:00",
-      "date": "2025-12-16 11:44:03",
-      "importance": 4,
-      "category": "ai financování",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/revenue-vs-capex-gap-openai_optimized.jpg",
-      "url": "/tech-news/2025-12-16/inside-the-ai-funding-loop-linking-microsoft-nvidi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [
-        "Microsoft",
-        "NVIDIA",
-        "OpenAI"
-      ],
-      "people": []
     },
     {
       "title": "Jednání o 'historické' technologické dohodě mezi USA a Velkou Británií uvízla",
@@ -3942,26 +3974,6 @@
       "people": []
     },
     {
-      "title": "Dezinformace po střelbě v Bondi zaplavují sociální sítě falešnými lokalitami, fotografiemi z AI a tvrzeními Groka o „Edwardu Crabtree“",
-      "description": "Chatbot Elona Muska Grok označil fiktivního 47letého IT specialistu Edwarda Crabtreeho za hrdinu, který se vrhl na jednoho z útočníků a odebral mu zbraň. Tento případ ukazuje, jak AI zesiluje šíření lží během aktuálních událostí.",
-      "slug": "bondi-shooting-misinformation-floods-social-media-",
-      "publishedAt": "2025-12-16T01:07:46+00:00",
-      "date": "2025-12-16 01:07:46",
-      "importance": 4,
-      "category": "dezinformace",
-      "urlToImage": "https://static.ffx.io/images/$zoom_1.3071634881149805%2C$multiply_0.7554%2C$ratio_1.776846%2C$width_1059%2C$x_342%2C$y_283/t_crop_custom/q_86%2Cf_auto/270b9375a6f182940aa84cdbee8a4efffefaa222",
-      "url": "/tech-news/2025-12-16/bondi-shooting-misinformation-floods-social-media/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Sydney Morning Herald"
-      },
-      "companies": [],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
       "title": "Šéfka Wayma se vůbec nepodobá Elonovi; Rizikový kapitál brzy záviset na trilionových starupech; Všichni sázejí a nikdo není šťastný; Jsou MCPs jen API 2.0? a další",
       "description": "Tento agregát tech novinek se zaměřuje na profil šéfky Wayma Tekedry Mawakany, která kontrastuje svou vizi s Elonem Muskem a zdůrazňuje úspěchy autonomních vozidel. Obsahuje také analýzu MCPs v AI ekosystému, nové AI sluchadlo a ekonomickou nespokojenost mladých.",
       "slug": "waymos-ceo-isnt-like-elon-at-all-venture-capital-m",
@@ -4005,27 +4017,6 @@
       "people": [
         "Donald Trump"
       ]
-    },
-    {
-      "title": "Elastic a Alteryx: Pohánění důvěryhodných, vyhledávatelných dat pro podnikové agenty",
-      "description": "Partnerství Elastic a Alteryx nabízí end-to-end řešení pro důvěryhodné podnikové generativní AI. Poskytuje plynulý workflow pro RAG přípravou, obohacením, ukládáním a vyhledáváním kurátovaných podnikových dat, čímž napájí spolehlivé a kontextově uvědomělé AI agenty.",
-      "slug": "elastic-and-alteryx-powering-trusted-search-ready-",
-      "publishedAt": "2025-12-16T00:00:00+00:00",
-      "date": "2025-12-16 00:00:00",
-      "importance": 4,
-      "category": "generativní ai",
-      "urlToImage": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt2b16cc5a621d4ae6/694075e6dc686e391fd0f18d/Blog-Alteryx-Partnership.png",
-      "url": "/tech-news/2025-12-16/elastic-and-alteryx-powering-trusted-search-ready/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Elastic.co"
-      },
-      "companies": [
-        "Elastic",
-        "Alteryx"
-      ],
-      "people": []
     }
   ]
 }
