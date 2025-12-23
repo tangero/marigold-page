@@ -1,7 +1,151 @@
 {
-  "generated": "2025-12-23T12:48:37.012053+00:00",
-  "count": 189,
+  "generated": "2025-12-23T16:43:47.587007+00:00",
+  "count": 196,
   "articles": [
+    {
+      "title": "Alphabet kupuje vývojáře čisté energie Intersect za 4,75 miliardy dolarů v rámci expanze AI",
+      "description": "Alphabet oznámil akvizici společnosti Intersect, která se zabývá vývojem čisté energie, za 4,75 miliardy dolarů v hotovosti plus převzatý dluh. Tento krok reaguje na rostoucí energetické nároky datových center pro umělou inteligenci, kde technologické giganty investují miliardy do rozšíření kapacity.",
+      "slug": "alphabet-to-buy-clean-energy-developer-intersect-i",
+      "publishedAt": "2025-12-22T16:10:28+00:00",
+      "date": "2025-12-22 16:10:28",
+      "importance": 5,
+      "category": "čistá energie",
+      "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/582bbdfc9d80422fdaf8ddf12e256ef5",
+      "url": "/tech-news/2025-12-22/alphabet-to-buy-clean-energy-developer-intersect-i/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "Alphabet",
+        "Intersect"
+      ],
+      "people": []
+    },
+    {
+      "title": "Anthropic představuje Bloom, open-source nástroj pro výzkumníky hodnotící chování AI",
+      "description": "Společnost Anthropic PBC v pátek oznámila vydání Bloom, open-source agentického rámce pro definování a prozkoumávání chování pokročilých modelů umělé inteligence. Nástroj umožňuje výzkumníkům specifikovat chování a automaticky generovat scénáře k testování jeho frekvence a závažnosti.",
+      "slug": "anthropic-announces-bloom-an-open-source-tool-for-",
+      "publishedAt": "2025-12-22T16:10:20+00:00",
+      "date": "2025-12-22 16:10:20",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/2025-12-22.png",
+      "url": "/tech-news/2025-12-22/anthropic-announces-bloom-an-open-source-tool-for/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": []
+    },
+    {
+      "title": "Elon Musk se vysmívá Waymu po výpadku proudu v San Franciscu",
+      "description": "Elon Musk se posmíval Waymu poté, co se autonomní vozy této firmy zastavily na křižovatkách během rozsáhlého výpadku elektřiny v San Franciscu, zatímco tvrdí, že Tesla robotaxi nebyly ovlivněny. Incident odhaluje limity současných autonomních systémů v nepředvídatelných situacích.",
+      "slug": "elon-musk-takes-dig-at-waymo-after-san-francisco-b",
+      "publishedAt": "2025-12-22T16:10:02+00:00",
+      "date": "2025-12-22 16:10:02",
+      "importance": 4,
+      "category": "autonomní vozy",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/8L8RZaoJr8BPgoUfs8mySQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/fox_business_text_367/78db97382265ff819706af8a4f6a3aac",
+      "url": "/tech-news/2025-12-22/elon-musk-takes-dig-at-waymo-after-san-francisco-b/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Fox Business"
+      },
+      "companies": [
+        "Waymo",
+        "Tesla"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Výdajová mánia na AI pohání globální emise dluhu technologických firem na rekordní úroveň",
+      "description": "Globální technologické společnosti tento rok zvýšily emise dluhu na rekordních 428,3 miliardy dolarů, především kvůli zintenzivněnému závodu o vybudování kapacit umělé inteligence. I hotovostně silné firmy se obracejí k půjčkám, což zvyšuje jejich dluhovou páku a vyvolává otázky o udržitelnosti.",
+      "slug": "ai-spending-spree-drives-global-tech-debt-issuance",
+      "publishedAt": "2025-12-22T15:49:53+00:00",
+      "date": "2025-12-22 15:49:53",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/06798568308aeacbb3a4716a004937e4",
+      "url": "/tech-news/2025-12-22/ai-spending-spree-drives-global-tech-debt-issuance/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Stav umělé inteligence v roce 2025: Jak si vedly Google, Apple, OpenAI a další",
+      "description": "Umělá inteligence v roce 2025 dále rostla, ale ne všemi očekávanými způsoby a ne každá společnost dosáhla stejného úspěchu. Zde je hodnocení výkonu klíčových firem.",
+      "slug": "the-state-of-ai-in-2025-how-google-apple-openai-an",
+      "publishedAt": "2025-12-22T15:47:00+00:00",
+      "date": "2025-12-22 15:47:00",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/WgvMUEtiWjgH7Rio2m2Kub-2560-80.jpg",
+      "url": "/tech-news/2025-12-22/the-state-of-ai-in-2025-how-google-apple-openai-an/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Central"
+      },
+      "companies": [
+        "Google",
+        "Apple",
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "ChatGPT: Vše, co potřebujete vědět o tomto chatovacím robotovi s umělou inteligencí",
+      "description": "Tento průvodce ChatGPT vysvětluje virální text-generující systém společnosti OpenAI. Popisuje nejnovější aktualizace a odpovídá na nejčastější otázky.",
+      "slug": "chatgpt-everything-you-need-to-know-about-the-ai-c",
+      "publishedAt": "2025-12-22T15:44:15+00:00",
+      "date": "2025-12-22 15:44:15",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2191707579.jpg?w=1024",
+      "url": "/tech-news/2025-12-22/chatgpt-everything-you-need-to-know-about-the-ai-c/",
+      "source": {
+        "emoji": "🚀",
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Ztroskotané čipy",
+      "description": "Výstavba AI datových center závisí na čipech Nvidia a půjčených penězích. Firmy jako CoreWeave berou dluhy na nákup těchto čipů a používají je jako zástavu, což vytváří kruhový systém prospívající především Nvidia.",
+      "slug": "chipwrecked",
+      "publishedAt": "2025-12-22T15:32:29+00:00",
+      "date": "2025-12-22 15:32:29",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258155_How_Nvidia_is_benefitting_from_chip-backed_loans_CVirginia11.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "url": "/tech-news/2025-12-22/chipwrecked/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": []
+    },
     {
       "title": "Nehody Tesly usmrtily 3 lidi během 4 dnů – vrchol roku 2025 s téměř 500 000 staženími z provozu a žalobami",
       "description": "Dvě teenagery zemřely v britském Surrey, jeden mladistvý v Kalifornii, zatímco Tesla řeší stažení 500 000 vozidel a žalobu za nesprávnou smrt související s Autopilotem.",
