@@ -1,10 +1,10 @@
 {
   "status": "WARNING",
-  "timestamp": "2025-12-22T20:40:39.623276+00:00",
+  "timestamp": "2025-12-23T01:16:48.754143+00:00",
   "checks": {
     "freshness": {
       "status": "WARNING",
-      "newest_age_hours": 24.57,
+      "newest_age_hours": 24.39,
       "articles_24h": 0,
       "articles_1h": 0
     },
@@ -16,8 +16,8 @@
     },
     "content_quality": {
       "status": "OK",
-      "avg_length": 3678.0,
-      "median_length": 3658.0
+      "avg_length": 3682.0,
+      "median_length": 3660.0
     },
     "generation_trend": {
       "status": "OK",
@@ -33,23 +33,23 @@
     }
   },
   "metrics": {
-    "total_articles": 195,
+    "total_articles": 204,
     "articles_24h": 0,
     "articles_1h": 0,
-    "newest_article_age_hours": 24.57,
+    "newest_article_age_hours": 24.39,
     "czech_articles": 100,
     "english_articles": 0,
     "czech_ratio": 1.0,
-    "avg_content_length": 3678.0,
-    "median_content_length": 3658.0,
-    "articles_with_images_pct": 96.0,
+    "avg_content_length": 3682.0,
+    "median_content_length": 3660.0,
+    "articles_with_images_pct": 94.0,
     "articles_with_category_pct": 100.0,
     "front_matter_error_rate": 0.0
   },
   "alerts": [
     {
       "level": "WARNING",
-      "message": "Nejnovější článek je starý 24.6h (threshold: 6h)"
+      "message": "Nejnovější článek je starý 24.4h (threshold: 6h)"
     },
     {
       "level": "WARNING",
