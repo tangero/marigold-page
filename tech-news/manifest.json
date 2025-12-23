@@ -1,7 +1,167 @@
 {
-  "generated": "2025-12-23T08:43:14.874761+00:00",
-  "count": 200,
+  "generated": "2025-12-23T12:48:37.012053+00:00",
+  "count": 189,
   "articles": [
+    {
+      "title": "Nehody Tesly usmrtily 3 lidi během 4 dnů – vrchol roku 2025 s téměř 500 000 staženími z provozu a žalobami",
+      "description": "Dvě teenagery zemřely v britském Surrey, jeden mladistvý v Kalifornii, zatímco Tesla řeší stažení 500 000 vozidel a žalobu za nesprávnou smrt související s Autopilotem.",
+      "slug": "tesla-crashes-kill-3-in-4-dayscapping-2025-of-near",
+      "publishedAt": "2025-12-22T12:20:28+00:00",
+      "date": "2025-12-22 12:20:28",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://d.ibtimes.com/en/full/4634105/nhtsa-now-targets-tesla-robotaxi.jpg",
+      "url": "/tech-news/2025-12-22/tesla-crashes-kill-3-in-4-dayscapping-2025-of-near/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "International Business Times"
+      },
+      "companies": [
+        "Tesla"
+      ],
+      "people": []
+    },
+    {
+      "title": "Čínský přední výrobce GPU Biren zahajuje IPO v Hong Kongu – startupy s GPU soutěží o Nvidia v závodě o financování AI čipů",
+      "description": "Společnost Shanghai Biren Technology zahájila bookbuilding pro úvodní veřejnou nabídku v Hong Kongu s cílem získat až 624 milionů USD. Čínští výrobci AI čipů urychlují své listování na burze, aby financovali expanzi díky silnému zájmu investorů.",
+      "slug": "chinas-premier-gpu-maker-biren-kicks-off-hong-kong",
+      "publishedAt": "2025-12-22T12:20:02+00:00",
+      "date": "2025-12-22 12:20:02",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/vu9fcMTFUXbRHofhtPjoA4-970-80.png",
+      "url": "/tech-news/2025-12-22/chinas-premier-gpu-maker-biren-kicks-off-hong-kong/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "companies": [
+        "Shanghai Biren Technology",
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Dodavatel technologií pro NHS England oznámil bezpečnostní incident - DXS International zasažena ransomwarem",
+      "description": "DXS International, klíčový dodavatel NHS v Anglii, byl zasažen ransomwarem. Neznámá skupina DevMan tvrdí, že ukradla 300 GB dat, ale klinické služby zůstaly nedotčeny.",
+      "slug": "nhs-england-tech-provider-reveals-data-breach-dxs-",
+      "publishedAt": "2025-12-22T12:20:00+00:00",
+      "date": "2025-12-22 12:20:00",
+      "importance": 5,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Fh3VbXWULVM5kiG48uTmkK-970-80.jpg",
+      "url": "/tech-news/2025-12-22/nhs-england-tech-provider-reveals-data-breach-dxs/",
+      "source": {
+        "emoji": "📰",
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "companies": [
+        "DXS International"
+      ],
+      "people": []
+    },
+    {
+      "title": "10 největších úniků zdravotnických dat nahlášených OCR v roce 2025",
+      "description": "Více než 20 milionů lidí bylo postiženo 10 největšími úniky dat v zdravotnictví nahlášenými Úřadu pro občanská práva HHS v roce 2025. Celkový počet postižených překročil 35 milionů, přičemž většina incidentů souvisela s hackingem nebo poruchami IT systémů.",
+      "slug": "A-10-largest-healthcare-data-breaches-reported-to-",
+      "publishedAt": "2025-12-22T12:13:00+00:00",
+      "date": "2025-12-22 12:13:00",
+      "importance": 5,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://www.techtarget.com/rms/onlineimages/health security_g1418645103.jpg",
+      "url": "/tech-news/2025-12-22/A-10-largest-healthcare-data-breaches-reported-to/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Techtarget.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Uber a Lyft plánují zavést robotaxi v Londýně ve spolupráci s čínskou Baidu",
+      "description": "Uber a Lyft plánují zavést služby robotaxi v Londýně příští rok prostřednictvím partnerství s čínským technologickým gigantem Baidu. Testování začne v první polovině roku 2026 v rámci britského pilotního programu.",
+      "slug": "uber-and-lyft-plan-to-bring-robotaxis-to-london-in",
+      "publishedAt": "2025-12-22T12:11:04+00:00",
+      "date": "2025-12-22 12:11:04",
+      "importance": 4,
+      "category": "robotaxi",
+      "urlToImage": "https://i.abcnewsfe.com/a/0def79aa-605e-47e9-8e43-674fba953923/wirestory_dde2a816473684deb12bfebde14069f8_16x9.jpg?w=1600",
+      "url": "/tech-news/2025-12-22/uber-and-lyft-plan-to-bring-robotaxis-to-london-in/",
+      "source": {
+        "emoji": "📰",
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "companies": [
+        "Uber",
+        "Lyft",
+        "Baidu"
+      ],
+      "people": []
+    },
+    {
+      "title": "⚡ Týdenní přehled: Exploity firewallů, krádeže dat AI, hacky Androidu, útoky APT, úniky insiderů a další",
+      "description": "Kybernetické hrozby minulého týdne ukazují, že útočníci dosahují velkých škod bez nutnosti složitých operací. Zaměřují se na běžné nástroje jako firewally, přídavky prohlížečů či chytré televize a využívají malé zranitelnosti k vážným průnikům.",
+      "slug": "weekly-recap-firewall-exploits-ai-data-theft-andro",
+      "publishedAt": "2025-12-22T12:00:00+00:00",
+      "date": "2025-12-22 12:00:00",
+      "importance": 5,
+      "category": "kybernetika",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfN3ux07rPKZg1M2O3wpbUAk1rPOaoFe-zhltZduqAdK1WiIPa9z5XcYwZVKNnUem6cU5uvtG-MS9eIDolbN7t3T9nOQYNDufSeGDftevuCUxij9rVpsTegXGjdBP5H1ZjevvhRLlGqG5vD9sxJToi24IPMvAZWrRsMQHKE44iaKidp7cOXDln0xi7Hh65/s790-rw-e365/recap.jpg",
+      "url": "/tech-news/2025-12-22/weekly-recap-firewall-exploits-ai-data-theft-andro/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Internet"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Vozidla Waymo znovu jezdí v San Franciscu po výpadku proudu",
+      "description": "Waymo obnovilo svou službu robotaxi v San Franciscu po výpadku proudu, který uvízl vozy po městě, informoval CNBC. Výpadek způsobený požárem podstanice Pacific Gas & Electric narušil semafory a ovlivnil autonomní systémy Waymo.",
+      "slug": "waymo-vehicles-are-operating-again-in-san-francisc",
+      "publishedAt": "2025-12-22T11:32:10+00:00",
+      "date": "2025-12-22 11:32:10",
+      "importance": 4,
+      "category": "autonomní vozy",
+      "urlToImage": null,
+      "url": "/tech-news/2025-12-22/waymo-vehicles-are-operating-again-in-san-francisc/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "companies": [
+        "Waymo"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nejlepší technologické předpovědi Zprávy o strategické inteligenci 2026: Dynamika trhu AI čipů se mění, Nvidia s podílem ~90 % čelí tlaku",
+      "description": "Klíčové tržní příležitosti pro rok 2026 zahrnují růst agentických AI řešení nabízejících hlubší hodnotu než současné nástroje GenAI, komerční dopad kvantového výpočtu ve financích a farmacii a zesílenou konkurenci v AI čipech, protože OpenAI diverzifikuje dodavatele a ohrožuje dominanci Nvidia.",
+      "slug": "top-technology-predictions-strategic-intelligence-",
+      "publishedAt": "2025-12-22T11:31:00+00:00",
+      "date": "2025-12-22 11:31:00",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "url": "/tech-news/2025-12-22/top-technology-predictions-strategic-intelligence/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [
+        "Nvidia",
+        "OpenAI"
+      ],
+      "people": []
+    },
     {
       "title": "NotebookLM a Gemini 3 společně přeměňují výzkum na prezentace, vizuály a strukturovaná data",
       "description": "Integrace modelu Gemini 3 do NotebookLM umožňuje plynulé zpracování textu, obrázků a dat v jednom pracovním postupu. Tento update mění nástroj z jednoduchého sumarizátoru dokumentů na komplexní platformu pro výzkum a tvorbu obsahu.",
@@ -3634,391 +3794,6 @@
       },
       "companies": [],
       "people": []
-    },
-    {
-      "title": "ProLogium představuje baterii čtvrté generace s pevným elektrolytem pro elektromobily, robotiku a systémy ukládání energie",
-      "description": "Společnost ProLogium Technology, taiwanský výrobce pokročilých lithiových keramických baterií, oznámila uvedení čtvrté generace superfluid all-inorganic solid-state baterie. Masovou výrobu plánuje zahájit v továrně v Taoyuan Science Park na Taiwanu.",
-      "slug": "prologium-unveils-fourth-gen-solid-state-battery-t",
-      "publishedAt": "2025-12-16T23:46:38+00:00",
-      "date": "2025-12-16 23:46:38",
-      "importance": 5,
-      "category": "elektromobilita",
-      "urlToImage": "https://img.digitimes.com/newsshow/20251216pd223_files/1_b.jpg",
-      "url": "/tech-news/2025-12-16/prologium-unveils-fourth-gen-solid-state-battery-t/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
-      },
-      "companies": [
-        "ProLogium Technology"
-      ],
-      "people": []
-    },
-    {
-      "title": "Nvidia hledá řešení, protože AI datová centra překračují limity napájení",
-      "description": "Rychlý růst aplikací a modelů umělé inteligence způsobuje krizi v infrastruktuře datových center, kde napájecí sítě nestíhají rostoucí poptávku po energii. Nvidia aktivně vyhledává technologie a partnerství pro zmírnění tohoto problému.",
-      "slug": "nvidia-seeks-solutions-as-ai-data-centers-push-pow",
-      "publishedAt": "2025-12-16T23:43:04+00:00",
-      "date": "2025-12-16 23:43:04",
-      "importance": 4,
-      "category": "datová centra",
-      "urlToImage": "https://img.digitimes.com/newsshow/20251216pd205_files/1_b.jpg",
-      "url": "/tech-news/2025-12-16/nvidia-seeks-solutions-as-ai-data-centers-push-pow/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": []
-    },
-    {
-      "title": "Pornhub hacknut: Historie prohlížení a vyhledávání Premium členů může uniknout",
-      "description": "Premium členové Pornhubu mohou mít ohroženou historii prohlížení a vyhledávání kvůli úniku dat přes analytického partnera Mixpanel. Ransomware skupina ShinyHunters požaduje výkupné za 94GB dat ovlivňujících přes 200 milionů uživatelů, aniž by unikla hesla nebo platební údaje.",
-      "slug": "pornhub-hacked-view-and-search-history-for-premium",
-      "publishedAt": "2025-12-16T20:13:33+00:00",
-      "date": "2025-12-16 20:13:33",
-      "importance": 5,
-      "category": "únik dat",
-      "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/12/pexels-shkrabaanthony-5475752.jpg?quality=50&strip=all&w=1024",
-      "url": "/tech-news/2025-12-16/pornhub-hacked-view-and-search-history-for-premium/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "PCWorld"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Průkopník solid-state baterií překonal rekord v hustotě energie a zdvojnásobil současný teoretický limit",
-      "description": "Elektromobil s novou chemií solid-state elektrolytu by ujel více než 1600 kilometrů na jedno nabití. Vynález solid-state baterie by však nejprve napájel roboty jako Tesla Optimus.",
-      "slug": "solid-state-battery-pioneer-breaks-energy-density-",
-      "publishedAt": "2025-12-16T19:53:00+00:00",
-      "date": "2025-12-16 19:53:00",
-      "importance": 5,
-      "category": "elektromobilita",
-      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/nio-et7-semi-solid-battery.jpg",
-      "url": "/tech-news/2025-12-16/solid-state-battery-pioneer-breaks-energy-density/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Notebookcheck.net"
-      },
-      "companies": [
-        "Tesla"
-      ],
-      "people": []
-    },
-    {
-      "title": "Trump chce posílit AI novou 'Tech Force'",
-      "description": "Administrativa Donalda Trumpa spouští 'United States Tech Force', dvouletý program pro nábor přibližně 1000 specialistů z privátního sektoru do vládních pozic v umělé inteligenci a souvisejících oblastech. Program spolupracuje s 28 velkými technologickými firmami včetně OpenAI a Google.",
-      "slug": "trump-wants-to-build-out-ai-with-a-new-tech-force",
-      "publishedAt": "2025-12-16T19:06:42+00:00",
-      "date": "2025-12-16 19:06:42",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/DMvedALpb8Y9hExqr2hrqA-2000-80.jpg",
-      "url": "/tech-news/2025-12-16/trump-wants-to-build-out-ai-with-a-new-tech-force/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Week Magazine"
-      },
-      "companies": [],
-      "people": [
-        "Trump"
-      ]
-    },
-    {
-      "title": "Časové plány implementace kvantové kryptografie musí být zkráceny, řekne šéf firmy Kongresu",
-      "description": "Společné slyšení Sněmovny reprezentantů v úterý prošetří dopad AI a kvantového počítání na současnou kyberbezpečnost. CEO firmy Quantum XChange Eddy Zervigon varuje před novými hrozbami pro šifrování.",
-      "slug": "quantum-cryptography-implementation-timelines-must",
-      "publishedAt": "2025-12-16T18:59:00+00:00",
-      "date": "2025-12-16 18:59:00",
-      "importance": 4,
-      "category": "kvantová kryptografi",
-      "urlToImage": "https://cdn.nextgov.com/media/img/cd/2025/12/16/121625quantumNG/open-graph.jpg",
-      "url": "/tech-news/2025-12-16/quantum-cryptography-implementation-timelines-must/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Nextgov"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Dokument amerického ministerstva zahraničí stanovuje priority spolupráce pro Quad",
-      "description": "Americké ministerstvo zahraničí zveřejnilo dokument o spolupráci skupiny Quad zahrnující USA, Indii, Japonsko a Austrálii. Zaměřuje se na bezpečnost na moři, ekonomickou prosperitu, kritické technologie jako AI a kyberbezpečnost, přičemž chybí zmínka o protiteroristické spolupráci.",
-      "slug": "us-state-dept-doc-outlines-priority-areas-for-quad",
-      "publishedAt": "2025-12-16T18:55:05+00:00",
-      "date": "2025-12-16 18:55:05",
-      "importance": 4,
-      "category": "kritické technologie",
-      "urlToImage": "https://img.etimg.com/thumb/msid-126018263,width-1200,height-630,imgsize-11452,overlay-economictimes/articleshow.jpg",
-      "url": "/tech-news/2025-12-16/us-state-dept-doc-outlines-priority-areas-for-quad/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Síla a potenciál agentic AI v kyberbezpečnosti",
-      "description": "Agentic AI přináší hlubší transformaci než generativní modely a stává se klíčovým prvkem v kyberbezpečnosti. Organizace budou muset zavést dedikované bezpečnostní opatření pro nástroje založené na této technologii kvůli rizikům zneužití útočníky.",
-      "slug": "the-power-and-potential-of-agentic-ai-in-cybersecu",
-      "publishedAt": "2025-12-16T15:30:21+00:00",
-      "date": "2025-12-16 15:30:21",
-      "importance": 4,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/fg7bgy65pWhFo4Qzib58yX-2560-80.jpg",
-      "url": "/tech-news/2025-12-16/the-power-and-potential-of-agentic-ai-in-cybersecu/",
-      "source": {
-        "emoji": "📰",
-        "id": "techradar",
-        "name": "TechRadar"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Robotaxi v roce 2025: Waymo plánuje globální expanzi, Zoox a Tesla se připojují na startovní čáru",
-      "description": "Robotaxi se v roce 2025 rychle rozšířily, přičemž Waymo expandovalo nejrychleji do 26 trhů v USA a zahraničí. Zoox debutovalo bezplatné bezřidičové jízdy v Las Vegas a San Franciscu, zatímco Tesla spustila službu Robotaxi s dohledem člověka v Austinu a oblasti San Francisco Bay Area.",
-      "slug": "robotaxis-in-2025-waymo-plots-global-expansion-as-",
-      "publishedAt": "2025-12-16T12:00:01+00:00",
-      "date": "2025-12-16 12:00:01",
-      "importance": 4,
-      "category": "robotaxi",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108232733-17641870362025-11-26t195224z_716338900_rc2g4iabs6at_rtrmadp_0_waymo-robotaxi.jpeg?v=1764187076&w=1920&h=1080",
-      "url": "/tech-news/2025-12-16/robotaxis-in-2025-waymo-plots-global-expansion-as/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNBC"
-      },
-      "companies": [
-        "Waymo",
-        "Zoox",
-        "Tesla"
-      ],
-      "people": []
-    },
-    {
-      "title": "Trump spouští americkou technologickou sílu US Tech Force s velkými technologickými firmami – proč jsou v sázce pracovní místa a moc",
-      "description": "Trump spustil 15. prosince 2025 program US Tech Force, v rámci kterého tým inženýrů vybuduje další generaci vládních technologií a urychlí implementaci umělé inteligence. Program zahrnuje najmutí 1000 specialistů na dva roky pro klíčové vládní projekty.",
-      "slug": "trump-launches-us-ai-tech-force-with-big-tech-why-",
-      "publishedAt": "2025-12-16T11:52:46+00:00",
-      "date": "2025-12-16 11:52:46",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://d.ibtimes.com/en/full/4617775/artificial-intelligence.png",
-      "url": "/tech-news/2025-12-16/trump-launches-us-ai-tech-force-with-big-tech-why/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "International Business Times"
-      },
-      "companies": [],
-      "people": [
-        "Trump"
-      ]
-    },
-    {
-      "title": "Bude OpenAI dalším technologickým gigantem nebo dalším Netscape?",
-      "description": "Tři roky po tom, co ChatGPT udělal z OpenAI lídra v umělé inteligenci a známé jméno, rivalové zúžili náskok a někteří investoři se ptájí, zda má tato společnost sílu udržet dominanci.",
-      "slug": "will-openai-be-the-next-tech-giant-or-next-netscap",
-      "publishedAt": "2025-12-16T06:30:29+00:00",
-      "date": "2025-12-16 06:30:29",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/6940fc7bbb0e2c9fc0ee9658.jpg",
-      "url": "/tech-news/2025-12-16/will-openai-be-the-next-tech-giant-or-next-netscap/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Hurriyet Daily News"
-      },
-      "companies": [
-        "OpenAI",
-        "Netscape"
-      ],
-      "people": []
-    },
-    {
-      "title": "USA pozastavují technologickou dohodu s Británií, hlásí Financial Times",
-      "description": "Spojené státy pozastavily dohodu s Británií uzavřenou letos na podzim, která měla posílit spolupráci v umělé inteligenci, kvantovém výpočtu a civilní jaderné energii. Důvodem je frustrace americké administrativy z britských obchodních bariér mimo technologickou oblast.",
-      "slug": "us-suspends-technology-deal-with-britain-ft-report",
-      "publishedAt": "2025-12-16T03:30:42+00:00",
-      "date": "2025-12-16 03:30:42",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-16/us-suspends-technology-deal-with-britain-ft-report/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Freerepublic.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Dohoda Disney a OpenAI: Jak se mění kreativní krajina pro nás všechny",
-      "description": "Ať se nám to líbí nebo ne, krok Disney představuje velký posun k světu kreativity poháněné umělou inteligencí.",
-      "slug": "the-disneyopenai-deal-how-the-creative-landscape-i",
-      "publishedAt": "2025-12-16T03:26:09+00:00",
-      "date": "2025-12-16 03:26:09",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://i0.wp.com/www.artsjournal.com/diacritical/wordpress/wp-content/uploads/2025/12/disney-OpenAI-image.jpg?fit=800%2C294&ssl=1",
-      "url": "/tech-news/2025-12-16/the-disneyopenai-deal-how-the-creative-landscape-i/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Artsjournal.com"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Předseda Samsungu Lee Jae-yong se setkal s Lisou Su a Elonem Muskem k diskuzi o možné spolupráci",
-      "description": "Předseda Samsung Electronics Lee Jae-yong se po týdenním obchodním výjezdu v USA vrátil do Koreje a setkal se s generální řežiserkou AMD Lisou Su a šéfem Tesly Elonem Muskem. Setkání v Austinu zahrnovala i vrcholové manažery Samsungovy divize foundry a týkala se potenciální spolupráce v oblasti polovodičů.",
-      "slug": "samsung-chairman-lee-jae-yong-meets-with-lisa-su-a",
-      "publishedAt": "2025-12-16T03:16:11+00:00",
-      "date": "2025-12-16 03:16:11",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://img.digitimes.com/newsshow/20251216pd220_files/1_b.jpg",
-      "url": "/tech-news/2025-12-16/samsung-chairman-lee-jae-yong-meets-with-lisa-su-a/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
-      },
-      "companies": [
-        "Samsung Electronics",
-        "Tesla"
-      ],
-      "people": [
-        "Lee Jae-yong",
-        "Lisa Su",
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "USA spouští Tech Force pro posílení federální umělé inteligence s podporou Amazonu, Microsoftu a Nvidia",
-      "description": "Americká vláda zahájila iniciativu Tech Force, program pro rozvoj technologické pracovní síly, který má zvýšit kapacity federálních agentur v umělé inteligenci, kybernetické bezpečnosti, inženýrství softwaru a modernizaci dat. Projekt koordinuje Bílý dům za podpory gigantů Amazon, Microsoft a Nvidia.",
-      "slug": "us-launches-tech-force-to-supercharge-federal-ai-w",
-      "publishedAt": "2025-12-16T02:20:32+00:00",
-      "date": "2025-12-16 02:20:32",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://img.digitimes.com/newsshow/20251216vl200_files/4_b.jpg",
-      "url": "/tech-news/2025-12-16/us-launches-tech-force-to-supercharge-federal-ai-w/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
-      },
-      "companies": [
-        "Amazon",
-        "Microsoft",
-        "Nvidia"
-      ],
-      "people": []
-    },
-    {
-      "title": "Trumpova administrativa najímá specialisty pro vládní Tech Force",
-      "description": "Administrativa Donalda Trumpa oznámila nábor přibližně tisíce inženýrů a technologických specialistů do federálních agentur pro práci na infrastruktuře umělé inteligence a dalších projektech. Tým U.S. Tech Force bude spolupracovat s firmami jako Microsoft, Apple, Amazon, Nvidia nebo OpenAI.",
-      "slug": "trump-is-recruiting-tech-personnel-for-government-",
-      "publishedAt": "2025-12-16T02:14:51+00:00",
-      "date": "2025-12-16 02:14:51",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/pexels-ramazphotos-7017138.jpg",
-      "url": "/tech-news/2025-12-16/trump-is-recruiting-tech-personnel-for-government/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [],
-      "people": [
-        "Donald Trump"
-      ]
-    },
-    {
-      "title": "Nvidia vsází na otevřené modely pro pohánění AI agentů",
-      "description": "Nvidia oznámila debut rodiny otevřených modelů Nemotron 3 určených pro transparentní, efektivní a specializované AI zaměřené na agenty napříč průmysly. Řada zahrnuje modely Nano, Super a Ultra, které využívají hybridní latentní směs expertů (MoE) pro vyšší propustnost a škálovatelnost v multiagentových workflowech.",
-      "slug": "nvidia-bets-on-open-models-to-power-ai-agents",
-      "publishedAt": "2025-12-16T01:48:30+00:00",
-      "date": "2025-12-16 01:48:30",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2025/12/Nvidia-AI-models1.jpg",
-      "url": "/tech-news/2025-12-16/nvidia-bets-on-open-models-to-power-ai-agents/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "pymnts.com"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": []
-    },
-    {
-      "title": "Šéfka Wayma se vůbec nepodobá Elonovi; Rizikový kapitál brzy záviset na trilionových starupech; Všichni sázejí a nikdo není šťastný; Jsou MCPs jen API 2.0? a další",
-      "description": "Tento agregát tech novinek se zaměřuje na profil šéfky Wayma Tekedry Mawakany, která kontrastuje svou vizi s Elonem Muskem a zdůrazňuje úspěchy autonomních vozidel. Obsahuje také analýzu MCPs v AI ekosystému, nové AI sluchadlo a ekonomickou nespokojenost mladých.",
-      "slug": "waymos-ceo-isnt-like-elon-at-all-venture-capital-m",
-      "publishedAt": "2025-12-16T00:27:33+00:00",
-      "date": "2025-12-16 00:27:33",
-      "importance": 4,
-      "category": "autonomní vozy",
-      "urlToImage": "https://i0.wp.com/hunterwalk.com/wp-content/uploads/2025/12/Gemini_Generated_Image_ief3vmief3vmief3.jpg?fit=1200%2C655&ssl=1",
-      "url": "/tech-news/2025-12-16/waymos-ceo-isnt-like-elon-at-all-venture-capital-m/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Hunterwalk.com"
-      },
-      "companies": [
-        "Waymo"
-      ],
-      "people": [
-        "Elon Musk",
-        "Tekedra Mawakana"
-      ]
-    },
-    {
-      "title": "Výkonné AI čipy Nvidia jsou již v Číně: Takto se tam dostaly",
-      "description": "Administrativa Donalda Trumpa 8. prosince povolila Nvidia prodej výkonných AI čipů H200 do Číny s 25procentní exportní daní, ale zpráva Reuters odhaluje, že tyto čipy jsou tam už dostupné přes šedý trh v univerzitách a výzkumných centrech.",
-      "slug": "powerful-nvidia-ai-chips-are-already-in-china-here",
-      "publishedAt": "2025-12-16T00:07:24+00:00",
-      "date": "2025-12-16 00:07:24",
-      "importance": 4,
-      "category": "ai čipy",
-      "urlToImage": "https://www.slashgear.com/img/gallery/powerful-nvidia-ai-chips-are-already-in-china-heres-how/l-intro-1765824232.jpg",
-      "url": "/tech-news/2025-12-16/powerful-nvidia-ai-chips-are-already-in-china-here/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SlashGear"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": [
-        "Donald Trump"
-      ]
     }
   ]
 }

@@ -1,0 +1,53 @@
+---
+author: Marisa Aigen
+category: ai čipy
+companies:
+- Nvidia
+- OpenAI
+date: '2025-12-22 11:31:00'
+description: Klíčové tržní příležitosti pro rok 2026 zahrnují růst agentických AI
+  řešení nabízejících hlubší hodnotu než současné nástroje GenAI, komerční dopad kvantového
+  výpočtu ve financích a farmacii a zesílenou konkurenci v AI čipech, protože OpenAI
+  diverzifikuje dodavatele a ohrožuje dominanci Nvidia.
+importance: 4
+layout: tech_news_article
+original_title: 'Top Technology Predictions Strategic Intelligence Report 2026: AI
+  Chip Market Dynamics Shift as Nvidia''s ~90% Share Faces Pressure'
+publishedAt: '2025-12-22T11:31:00+00:00'
+slug: top-technology-predictions-strategic-intelligence-
+source:
+  emoji: 📰
+  id: null
+  name: GlobeNewswire
+title: 'Nejlepší technologické předpovědi Zprávy o strategické inteligenci 2026: Dynamika
+  trhu AI čipů se mění, Nvidia s podílem ~90 % čelí tlaku'
+url: https://www.globenewswire.com/news-release/2025/12/22/3209071/28124/en/Top-Technology-Predictions-Strategic-Intelligence-Report-2026-AI-Chip-Market-Dynamics-Shift-as-Nvidia-s-90-Share-Faces-Pressure.html
+urlToImage: https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7
+urlToImageBackup: https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7
+---
+
+### Souhrn
+Zpráva Strategic Intelligence: Tech Predictions 2026 od Research and Markets předpovídá růst globálního trhu AI na 642 miliard USD do roku 2029 z 131 miliard v roce 2024. Klíčové trendy zahrnují agentická AI řešení pro podniky, komercializaci kvantového výpočtu a tlak na dominanci Nvidia v segmentech AI čipů díky diverzifikaci dodavatelů OpenAI. Tyto změny by měly ovlivnit strategie firem v klíčových odvětvích.
+
+### Klíčové body
+- Globální trh AI poroste z 131 miliard USD v 2024 na 642 miliard USD v 2029 díky ekosystému integrátorů, startupů a technologických gigantů.
+- V roce 2026 vstoupí desítky firem na trh s odvětvově specifickými agentickými AI řešeními, jako jsou analyzátory výnosů, generátory video skriptů nebo tvůrci profilů zákazníků.
+- Komerční využití kvantového výpočtu v financích a farmacii přinese praktické aplikace, zatímco konkurence v AI čipech zesílí kvůli diverzifikaci OpenAI.
+- Nvidia s podílem přibližně 90 % na trhu AI čipů čelí tlaku od nových dodavatelů.
+- Podniková adopce agentických AI bude brzděna nejistotou ohledně prokazatelné obchodní hodnoty.
+
+### Podrobnosti
+Zpráva od Research and Markets, publikovaná 22. prosince 2025, slouží jako rámec pro sledování strategických témat ovlivňujících firmy napříč odvětvími. Agentická AI představuje pokročilejší formu umělé inteligence oproti současným generativním AI nástrojům (GenAI), které primárně generují text nebo obrázky. Agentická AI funguje autonomně, provádí složité úkoly jako analýza finančních výnosů, tvorba skriptů pro videa nebo sestavování detailních profilů zákazníků na základě dat. Tyto pre-balíčkové agenty urychlují integraci do podnikových systémů, ale jejich adopce v roce 2026 bude omezena, protože firmy potřebují důkazy o návratnosti investic. Desítky nových hráčů, včetně startupů specializovaných na konkrétní odvětví, vstoupí na trh s přizpůsobenými řešeními, což posílí ekosystém kolem velkých hráčů jako OpenAI nebo Google.
+
+Dalším bodem je kvantový výpočet, jehož komerční dopad se projeví ve financích (optimalizace portfolií, rizikové modelování) a farmacii (simulace molekul pro vývoj léků). Na rozdíl od klasických počítačů kvantové systémy využívají kubity pro paralelní výpočty, což umožňuje řešit problémy nereálné pro současné GPU. Zpráva zdůrazňuje praktické aplikace, nikoli jen teoretický quantum advantage.
+
+Nejvýraznější je posun v trhu AI čipů. Nvidia dlouhodobě dominuje s podílem kolem 90 % díky svým GPU jako H100 nebo nadcházejícím Blackwell sériím, které pohánějí trénink velkých jazykových modelů (LLM). OpenAI, vývojář modelů jako GPT-4o, diverzifikuje dodavatele, aby snížil závislost na jednom hráči. To otevírá dveře konkurentům jako AMD (s Instinct MI300X), Intel (Gaudi 3) nebo custom čipům od Google (TPU) a Amazonu (Trainium). Tento tlak může snížit ceny čipů a zrychlit inovace, ale zároveň způsobí volatilitu v dodavatelském řetězci. Research and Markets varuje, že firmy ignorující tyto trendy riskují zaostávání za konkurencí.
+
+### Proč je to důležité
+Tyto předpovědi signalizují přechod od hypotéz k měřitelným dopadům v AI ekosystému. Pro podniky znamená růst agentické AI nutnost investovat do nástrojů, které automatizují složité workflow, ale s opatrností kvůli nejistotě ROI. Kvantový výpočet urychlí objevy v regulovaných odvětvích, kde klasické metody selhávají. Posun v AI čipech ohrozí monopol Nvidia, což prospěje spotřebitelům nižšími cenami cloudových AI služeb a podporí diverzifikaci. V širším kontextu posiluje to konkurenci mezi technologickými giganty, což může vést k rychlejšímu pokroku v AGI směru, ale zároveň zvyšuje rizika v dodavatelském řetězci. Firmy by měly priorizovat sledování těchto témat pro strategické rozhodnutí v roce 2026.
+
+---
+
+[Číst původní článek](https://www.globenewswire.com/news-release/2025/12/22/3209071/28124/en/Top-Technology-Predictions-Strategic-Intelligence-Report-2026-AI-Chip-Market-Dynamics-Shift-as-Nvidia-s-90-Share-Faces-Pressure.html)
+
+**Zdroj:** 📰 GlobeNewswire
