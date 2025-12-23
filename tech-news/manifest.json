@@ -1,7 +1,83 @@
 {
-  "generated": "2025-12-23T04:56:28.692500+00:00",
+  "generated": "2025-12-23T08:43:14.874761+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "NotebookLM a Gemini 3 společně přeměňují výzkum na prezentace, vizuály a strukturovaná data",
+      "description": "Integrace modelu Gemini 3 do NotebookLM umožňuje plynulé zpracování textu, obrázků a dat v jednom pracovním postupu. Tento update mění nástroj z jednoduchého sumarizátoru dokumentů na komplexní platformu pro výzkum a tvorbu obsahu.",
+      "slug": "notebooklm-gemini-3-combine-to-turn-research-into-",
+      "publishedAt": "2025-12-22T07:00:46+00:00",
+      "date": "2025-12-22 07:00:46",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/notebooklm-multimodal-visuals-and-data-export_optimized.jpg",
+      "url": "/tech-news/2025-12-22/notebooklm-gemini-3-combine-to-turn-research-into/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Bitva USA-Čína: Některé firmy volí čínskou technologii",
+      "description": "Navzdory hořké rivalitě USA s Čínou v nasazování umělé inteligence se čínská technologie tiše prosazuje na americkém trhu. Čínské open-source AI modely přitahují americké programátory a firmy díky nízké ceně a možnosti úprav.",
+      "slug": "us-china-battle-sees-some-companies-choose-chinese",
+      "publishedAt": "2025-12-22T06:01:49+00:00",
+      "date": "2025-12-22 06:01:49",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/6948decbfd291e546bdb837d.jpg",
+      "url": "/tech-news/2025-12-22/us-china-battle-sees-some-companies-choose-chinese/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Hurriyet Daily News"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "WISeKey zveřejnila závěrečný dopis CEO akcionářům za rok",
+      "description": "WISeKey International Holding Ltd, přední globální společnost v kybernetické bezpečnosti, blockchainu a IoT, zveřejnila 22. prosince 2025 dopis akcionářům od zakladatele a CEO Carlose Moreiry. Dopis shrnuje klíčové milníky roku 2025, včetně akvizic, investic do kvantových technologií a komercializace nových bezpečnostních řešení.",
+      "slug": "wisekey-issues-year-end-ceo-letter-to-shareholders",
+      "publishedAt": "2025-12-22T06:00:00+00:00",
+      "date": "2025-12-22 06:00:00",
+      "importance": 4,
+      "category": "kybernetika",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/80dae807-c8a0-4e1a-a0f0-61afcc7ae788",
+      "url": "/tech-news/2025-12-22/wisekey-issues-year-end-ceo-letter-to-shareholders/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [
+        "WISeKey"
+      ],
+      "people": [
+        "Carlos Moreira"
+      ]
+    },
+    {
+      "title": "Jak USA soupeří s Čínou v AI, některé firmy volí čínskou technologii",
+      "description": "Navzdory hořké rivalitě USA s Čínou v oblasti umělé inteligence se čínské open-source modely tiše prosazují na americkém trhu. Programátoři a firmy oceňují jejich nízké náklady a možnost úprav.",
+      "slug": "as-us-battles-china-on-ai-some-companies-choose-ch",
+      "publishedAt": "2025-12-22T06:00:00+00:00",
+      "date": "2025-12-22 06:00:00",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/12/22/3685114.JPG",
+      "url": "/tech-news/2025-12-22/as-us-battles-china-on-ai-some-companies-choose-ch/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Star Online"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "IPO firem spojených s AI v Číně explodují. Cizincům se ale na akci těžko dostane",
       "description": "Nejžhavější IPO v oblasti umělé inteligence v Číně přinášejí obrovské zisky. Zahraniční investoři se však na tuto rallye dostávají jen obtížně.",
@@ -80,24 +156,6 @@
         "Google",
         "Energy Dome"
       ],
-      "people": []
-    },
-    {
-      "title": "Při souboji USA s Čínou o AI některé firmy volí čínské technologie",
-      "description": "Navzdory rostoucímu geopolitickému napětí mezi USA a Čínou v oblasti umělé inteligence se čínské open-source modely velkého jazyka prosazují na americkém trhu. Programátoři a společnosti oceňují jejich nízkou cenu, flexibilitu a solidní výkon, což vede k výraznému růstu jejich globálního podílu.",
-      "slug": "as-us-battles-china-on-ai-some-companies-choose-ch",
-      "publishedAt": "2025-12-22T01:23:05+00:00",
-      "date": "2025-12-22 01:23:05",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://media.zenfs.com/en/afp.com/f33adca71cca90fc0bf0a5e61171b06c",
-      "url": "/tech-news/2025-12-22/as-us-battles-china-on-ai-some-companies-choose-ch/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [],
       "people": []
     },
     {
@@ -3712,26 +3770,6 @@
       "people": []
     },
     {
-      "title": "NCLT schválil přesun domovského sídla Flipkartu do Indie před plánovaným IPO",
-      "description": "Tento krok posouvá plány e-commerce giganta Flipkart na vstup na burzu, s cílem podat návrh dokumentů pro IPO v roce 2026. Schválení zahrnuje sloučení singapurských entit do indické mateřské společnosti.",
-      "slug": "nclt-approves-flipkarts-domicile-shift-to-india-be",
-      "publishedAt": "2025-12-16T15:48:48+00:00",
-      "date": "2025-12-16 15:48:48",
-      "importance": 4,
-      "category": "e-commerce",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/U74dbloD4VBwk9As.4lq0g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/retail_insight_network_724/4e9e1a8b60cae4e89df1d36cbbca008b",
-      "url": "/tech-news/2025-12-16/nclt-approves-flipkarts-domicile-shift-to-india-be/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Retail-insight-network.com"
-      },
-      "companies": [
-        "Flipkart"
-      ],
-      "people": []
-    },
-    {
       "title": "Síla a potenciál agentic AI v kyberbezpečnosti",
       "description": "Agentic AI přináší hlubší transformaci než generativní modely a stává se klíčovým prvkem v kyberbezpečnosti. Organizace budou muset zavést dedikované bezpečnostní opatření pro nástroje založené na této technologii kvůli rizikům zneužití útočníky.",
       "slug": "the-power-and-potential-of-agentic-ai-in-cybersecu",
@@ -3745,24 +3783,6 @@
         "emoji": "📰",
         "id": "techradar",
         "name": "TechRadar"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Morgan Stanley stoupá v žebříčcích dluhových financí jako hlavní banka pro AI boom",
-      "description": "Navzdory rostoucím obavám z bubliny umělé inteligence pomohla žádná banka z Wall Street průmyslu překonat tyto pochybnosti tak jako Morgan Stanley. Firma vedla nebo spoluleadovala dluhové obchody v objemu 65 miliard dolarů pro datová centra a další AI investice od října.",
-      "slug": "morgan-stanley-climbs-debt-rankings-as-go-to-bank-",
-      "publishedAt": "2025-12-16T12:19:40+00:00",
-      "date": "2025-12-16 12:19:40",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-16/morgan-stanley-climbs-debt-rankings-as-go-to-bank/",
-      "source": {
-        "emoji": "📰",
-        "id": "financial-post",
-        "name": "Financial Post"
       },
       "companies": [],
       "people": []
@@ -3808,24 +3828,6 @@
       "people": [
         "Trump"
       ]
-    },
-    {
-      "title": "Jednání o 'historické' technologické dohodě mezi USA a Velkou Británií uvízla",
-      "description": "Když bylo partnerství v září odhaleno, britská vláda uvedla, že ovlivní budoucnost milionů lidí. Downing Street trvá na aktivních rozhovorech, ale podle zdrojů jednání uvízla kvůli obavám USA z britských obchodních bariér.",
-      "slug": "negotiations-over-historic-us-uk-tech-deal-stall",
-      "publishedAt": "2025-12-16T11:29:32+00:00",
-      "date": "2025-12-16 11:29:32",
-      "importance": 4,
-      "category": "technologická dohoda",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b07a/live/9a15a890-da68-11f0-a03c-01668bc4a165.jpg",
-      "url": "/tech-news/2025-12-16/negotiations-over-historic-us-uk-tech-deal-stall/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BBC News"
-      },
-      "companies": [],
-      "people": []
     },
     {
       "title": "Bude OpenAI dalším technologickým gigantem nebo dalším Netscape?",

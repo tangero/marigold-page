@@ -1,46 +1,47 @@
 ---
 author: Marisa Aigen
-category: ai
-date: '2025-12-22 01:23:05'
-description: Navzdory rostoucímu geopolitickému napětí mezi USA a Čínou v oblasti
-  umělé inteligence se čínské open-source modely velkého jazyka prosazují na americkém
-  trhu. Programátoři a společnosti oceňují jejich nízkou cenu, flexibilitu a solidní
-  výkon, což vede k výraznému růstu jejich globálního podílu.
+category: umělá inteligence
+date: '2025-12-22 06:00:00'
+description: Navzdory hořké rivalitě USA s Čínou v oblasti umělé inteligence se čínské
+  open-source modely tiše prosazují na americkém trhu. Programátoři a firmy oceňují
+  jejich nízké náklady a možnost úprav.
 importance: 4
 layout: tech_news_article
 original_title: As US battles China on AI, some companies choose Chinese
-publishedAt: '2025-12-22T01:23:05+00:00'
+publishedAt: '2025-12-22T06:00:00+00:00'
 slug: as-us-battles-china-on-ai-some-companies-choose-ch
 source:
   emoji: 📰
   id: null
-  name: Yahoo Entertainment
-title: Při souboji USA s Čínou o AI některé firmy volí čínské technologie
-url: https://finance.yahoo.com/news/us-battles-china-ai-companies-012305478.html
-urlToImage: https://media.zenfs.com/en/afp.com/f33adca71cca90fc0bf0a5e61171b06c
-urlToImageBackup: https://media.zenfs.com/en/afp.com/f33adca71cca90fc0bf0a5e61171b06c
+  name: The Star Online
+title: Jak USA soupeří s Čínou v AI, některé firmy volí čínskou technologii
+url: https://www.thestar.com.my/tech/tech-news/2025/12/22/as-us-battles-china-on-ai-some-companies-choose-chinese
+urlToImage: https://apicms.thestar.com.my/uploads/images/2025/12/22/3685114.JPG
+urlToImageBackup: https://apicms.thestar.com.my/uploads/images/2025/12/22/3685114.JPG
 ---
 
-## Souhrn
-Přestože USA a Čína soupeří v nasazení umělé inteligence, čínské open-source modely velkého jazyka (LLM) získávají v USA stále větší oblibu mezi programátory a firmami. Tyto modely od společností jako DeepSeek nebo Alibaba jsou levné, často zdarma, a umožňují úpravy, na rozdíl od uzavřených systémů jako ChatGPT od OpenAI nebo Gemini od Google. Podle zprávy z OpenRouter a investiční firmy Andreessen Horowitz vzrostlo globální použití čínských open modelů z 1,2 procenta na konci roku 2024 na téměř 30 procent v srpnu 2025.
+### Souhrn
+Čínské open-source modely umělé inteligence, jako Qwen od Alibaba nebo R1 od DeepSeek, získávají v USA stále větší popularitu mezi programátory a firmami. Navzdory geopolitickým napětím mezi USA a Čínou roste jejich globální podíl na použití z 1,2 % na konci roku 2024 na téměř 30 % v srpnu tohoto roku. Tyto modely jsou levné, často zdarma, a umožňují customizaci, což je odlišuje od uzavřených systémů jako ChatGPT od OpenAI nebo Gemini od Google.
 
-## Klíčové body
-- V lednu 2025 spustila čínská firma DeepSeek model R1, který je high-performance, levný a open-source, což narušilo představu o nadvládě amerických gigantů jako OpenAI, Anthropic nebo Google.
-- Model Qwen od Alibaba používají americké firmy včetně Nvidia, Perplexity a Stanfordské univerzity; jeden podnikatel ušetřil 400 000 dolarů ročně oproti proprietárním modelům.
-- Globální podíl čínských open modelů explodoval z 1,2 % na 30 %.
-- Wang Wen z Čchung-jangského institutu finančních studií na Univerzitě Renmin řekl, že tyto modely jsou levné, fungují dobře a v mnoha případech postačí pro běžné aplikace.
-- Open-source modely umožňují programátorům upravovat software podle potřeb, což je výhoda oproti uzavřeným systémům.
+### Klíčové body
+- Globální podíl čínských open-source modelů vzrostl na 30 % podle zprávy OpenRouter a Andreessen Horowitz.
+- Firmy jako Nvidia, Perplexity a Stanford University používají modely Qwen v některých projektech.
+- Americký podnikatel ušetří ročně 400 000 USD při přechodu z proprietárních modelů na Qwen.
+- Launch modelu DeepSeek R1 v lednu překvapil vysokým výkonem za nízkou cenu.
+- Open-source modely umožňují programátorům upravovat software podle specifických potřeb.
 
-## Podrobnosti
-Článek popisuje, jak se čínská AI technologie prosazuje do USA navzdory politickým a ekonomickým sankcím v oblasti čipů a exportu technologií. DeepSeek, čínská společnost zaměřená na vývoj velkých jazykových modelů, v lednu 2025 uvedla R1 – open-source LLM s vysokým výkonem za nízkou cenu. Tento model lze stáhnout, upravit a integrovat do vlastních aplikací, například pro generování textu, analýzu dat nebo automatizaci úkolů, bez nutnosti placeného API přístupu jako u OpenAI. Podobně Alibaba, globální technologický gigant známý e-commerce platformami jako Taobao, nabízí řadu Qwen modelů, které jsou optimalizovány pro podobné úkoly a běží na méně náročném hardwaru.
+### Podrobnosti
+Článek z Reuters popisuje, jak se čínská technologie umělé inteligence prosazuje do USA v době eskalující rivality mezi oběma mocnostmi. Na rozdíl od uzavřených generativních modelů, jejichž vnitřní fungování je přísně chráněno – například ChatGPT od OpenAI slouží k generování textu, kódu nebo obrazů, ale nelze ho libovolně upravit – čínské open-source varianty umožňují plný přístup k kódu. Programátoři tak mohou modifikovat architekturu large language modelů (LLM), které zpracovávají a generují přirozený jazyk, přizpůsobit je specifickým úkolům jako analýza dat nebo automatizace.
 
-Americký podnikatel, který si nepřál být jmenován, uvedl, že přechodem na Qwen ušetřil 400 000 dolarů ročně, protože většina aplikací nepotřebuje špičkové schopnosti uzavřených modelů. Nvidia, přední výrobce grafických procesorů (GPU) klíčových pro trénink AI, Perplexity – firma vyvíjející AI vyhledávače – a Stanfordská univerzita již Qwen nasadily v některých projektech. Tyto modely slouží k prototypování, výzkumu nebo provozním úkolům, kde je důležitá cena a přizpůsobitelnost. Zpráva OpenRouter, platformy pro vývojáře AI, a Andreessen Horowitz zdůrazňuje, že tento trend není omezen na USA, ale je globální. Open-source přístup znamená, že kód je veřejně dostupný na platformách jako Hugging Face, což umožňuje komunitní vylepšování, ale zároveň vyvolává otázky bezpečnosti, jako potenciální skryté chyby nebo závislosti na čínských serverech pro finetuning.
+Alibaba, čínský e-commerce gigant s divizí na cloudové služby, nabízí model Qwen, který je integrovatelný do aplikací pro zpracování textu nebo tvorbu obsahu. DeepSeek, menší čínská firma specializující se na vývoj LLM, vydala v lednu model R1 – velký jazykový model s vysokým výkonem při nízkých nákladech na trénink a provoz. Tento model porovnávají s top americkými systémy jako ty od OpenAI nebo Anthropic, které vyžadují obrovské výpočetní zdroje na GPU od Nvidia.
 
-## Proč je to důležité
-Tento vývoj ukazuje limity geopolitické rivality v technologickém sektoru: programátoři a firmy upřednostňují praktické výhody před politickými deklaracemi. Pro průmysl to znamená větší konkurenci pro americké firmy, které musí snižovat ceny nebo otevírat své modely, aby si udržely podíl. Open-source čínské modely urychlují inovace v širším ekosystému AI, kde lze rychle budovat aplikace jako chatboty, nástroje pro analýzu kódu nebo personalizované asistenty. Nicméně jako expert varuji před riziky: závislost na čínských modelech může vést k bezpečnostním slabinám, protože open-source kód je obtížné plně auditovat, a v kontextu špionážních obav USA to může vyvolat nové regulace. Dlouhodobě to posiluje globální decentralizaci AI vývoje, což prospívá uživatelům nižšími náklady, ale zvyšuje fragmentaci standardů.
+Podle Wang Wena z Čchung-jangského institutu finančních studií na Univerzitě Renmin jsou tyto modely "levné – v některých případech zdarma – a fungují dobře". Americký podnikatel, který zůstal anonymní, přešel na Qwen a ušetřil 400 000 USD ročně oproti proprietárním alternativám. Pro běžné aplikace, jako je automatizace zákaznické podpory nebo analýza textů, stačí tento výkon, bez potřeby špičkových funkcí. Nvidia, lídr v grafických procesorech (GPU) pro AI trénink, Perplexity – firma na AI vyhledávače – a Stanford University experimentují s Qwen v výzkumu. Zpráva OpenRouter a venture kapitálové firmy Andreessen Horowitz dokumentuje tento trend na platformách pro vývojáře.
+
+### Proč je to důležité
+Tento vývoj oslabuje narativ o americké dominanci v AI a ukazuje ekonomickou realitu: open-source modely snižují bariéry pro malé firmy a startupy, což urychluje inovace, ale zvyšuje závislost na čínské technologii. V kontextu sankcí USA na čipy pro Čínu to znamená, že americké firmy obcházejí omezení nepřímo přes software. Rizika zahrnují bezpečnostní díry v open-source kódu, potenciální backdoory nebo geopolitické tlaky. Pro průmysl to znamená levnější AI nasazení, ale vyžaduje pečlivou auditaci. Dlouhodobě to může donutit USA k větší podpoře vlastních open-source projektů, jako Llama od Meta, aby udržely konkurenční výhodu.
 
 ---
 
-[Číst původní článek](https://finance.yahoo.com/news/us-battles-china-ai-companies-012305478.html)
+[Číst původní článek](https://www.thestar.com.my/tech/tech-news/2025/12/22/as-us-battles-china-on-ai-some-companies-choose-chinese)
 
-**Zdroj:** 📰 Yahoo Entertainment
+**Zdroj:** 📰 The Star Online
