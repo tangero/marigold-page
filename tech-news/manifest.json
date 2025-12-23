@@ -1,7 +1,145 @@
 {
-  "generated": "2025-12-23T16:43:47.587007+00:00",
-  "count": 196,
+  "generated": "2025-12-23T20:38:40.879203+00:00",
+  "count": 200,
   "articles": [
+    {
+      "title": "Proč „levnější“ baterie představují miliardovou sázku na Čínu",
+      "description": "Marketingové materiály pro příští dekádu ukládání energie staví na lithium-železo-fosfátových (LFP) bateriích jako na „rozumnou“ chemii bez kobaltu, niklu, etických problémů z dolů v Demokratické republice Kongo a bez rizika tepelného úniku.",
+      "slug": "why-cheaper-batteries-are-a-multi-billion-dollar-b",
+      "publishedAt": "2025-12-22T20:00:00+00:00",
+      "date": "2025-12-22 20:00:00",
+      "importance": 4,
+      "category": "ukládání energie",
+      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2025-12-22_qoyve1juab.jpg",
+      "url": "/tech-news/2025-12-22/why-cheaper-batteries-are-a-multi-billion-dollar-b/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "OilPrice.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Trump ztrácí podporu republikánů v politice vůči Číně",
+      "description": "Republikáni se přidávají k rostoucímu počtu odchodů od Trumpovy politiky, kritizujíce jeho ústupky vůči Číně, zejména povolení prodeje pokročilého AI čipu Nvidia H200.",
+      "slug": "trump-loses-gop-support-on-china-policy",
+      "publishedAt": "2025-12-22T20:00:00+00:00",
+      "date": "2025-12-22 20:00:00",
+      "importance": 4,
+      "category": "čínská politika",
+      "urlToImage": "https://i0.wp.com/prospect.org/wp-content/uploads/2025/12/Kuttner-on-Tap-122225.jpg?fit=2309%2C1299&quality=89&ssl=1",
+      "url": "/tech-news/2025-12-22/trump-loses-gop-support-on-china-policy/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The American Prospect"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Šéfka startupu po špionážní kariéře: 'Nastane WannaCry umělé inteligence'",
+      "description": "Bývalá špiónka z izraelské elitní kybernetické jednotky Unit 8200, nyní šéfka firmy Zafran Security Sanaz Yashar, varuje, že AI dramaticky urychluje exploity zero-day zranitelností. Podle analýzy Mandiant byl v roce 2024 průměrný čas do exploitu záporný, což znamená útoky dříve než patchování.",
+      "slug": "spy-turned-startup-ceo-the-wannacry-of-ai-will-hap",
+      "publishedAt": "2025-12-22T19:39:58+00:00",
+      "date": "2025-12-22 19:39:58",
+      "importance": 5,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://regmedia.co.uk/2025/12/22/sanaz_yashar.jpg",
+      "url": "/tech-news/2025-12-22/spy-turned-startup-ceo-the-wannacry-of-ai-will-hap/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "companies": [
+        "Zafran Security"
+      ],
+      "people": [
+        "Sanaz Yashar"
+      ]
+    },
+    {
+      "title": "Mluvil jsem se Samem Altmanem: Jak ve skutečnosti vypadá budoucnost OpenAI",
+      "description": "Sam Altman rozebírá skutečné priority OpenAI: paměť, vztahy, růst v podnikovém sektoru – a proč veřejné nabízení akcií není v dohledné době.",
+      "slug": "i-spoke-with-sam-altman-what-openais-future-actual",
+      "publishedAt": "2025-12-22T19:31:32+00:00",
+      "date": "2025-12-22 19:31:32",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.cmswire.com/-/media/be35b6945380424ab1f38c42b6789256.ashx",
+      "url": "/tech-news/2025-12-22/i-spoke-with-sam-altman-what-openais-future-actual/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CMSWire"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": [
+        "Sam Altman"
+      ]
+    },
+    {
+      "title": "Proč jaderná fúze nevyřeší problém s energií pro AI",
+      "description": "S rostoucí potřebou obrovských množství elektřiny pro datová centra pohánějící boom umělé inteligence (AI) firmy v tomto sektoru prosazují jadernou fúzi jako jedno z řešení. Autor článku je však skeptický k této možnosti.",
+      "slug": "why-nuclear-fusion-will-not-solve-the-ai-power-pro",
+      "publishedAt": "2025-12-22T19:00:00+00:00",
+      "date": "2025-12-22 19:00:00",
+      "importance": 4,
+      "category": "jaderná fúze",
+      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2025-12-22_2ycc5ks0fl.jpg",
+      "url": "/tech-news/2025-12-22/why-nuclear-fusion-will-not-solve-the-ai-power-pro/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "OilPrice.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Videa ukazují autonomní vozy Waymo blokující silnice během výpadku proudu v San Franciscu",
+      "description": "Waymo obnovuje svou službu bezřidičových taxíků po rozsáhlém výpadku proudu v San Franciscu, který nechal jeho autonomní vozy uvízlé na ulicích v sobotní večer. Videa na sociálních sítích zachytily, jak vozy blokovaly křižovatky kvůli nefunkčním semaforům.",
+      "slug": "videos-show-waymo-self-driving-cars-blocking-roads",
+      "publishedAt": "2025-12-22T18:23:55+00:00",
+      "date": "2025-12-22 18:23:55",
+      "importance": 4,
+      "category": "autonomní vozy",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251222-waymo-sf-power-outage-bf-1057-56f56b.jpg",
+      "url": "/tech-news/2025-12-22/videos-show-waymo-self-driving-cars-blocking-roads/",
+      "source": {
+        "emoji": "📰",
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "companies": [
+        "Waymo"
+      ],
+      "people": []
+    },
+    {
+      "title": "Masivní výpadek elektřiny v San Franciscu zastavil Waymo robotaxi po celém městě",
+      "description": "Požár v elektrické stanici způsobil výpadek proudu v San Franciscu, který donutil autonomní vozidla Waymo zastavit v křižovatkách a vyvolal dopravní zácpy. Služba byla dočasně pozastavena, ale brzy obnovena.",
+      "slug": "massive-san-francisco-power-outage-stalls-waymo-ro",
+      "publishedAt": "2025-12-22T18:14:01+00:00",
+      "date": "2025-12-22 18:14:01",
+      "importance": 4,
+      "category": "autonomní vozy",
+      "urlToImage": "https://cmg-cmg-tv-10080-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FHXZWM6SRD5GNTBWZM6C3U4NFNY.jpg?auth=f44bbceaac19f1f76a1e8a8c790f4ec0b4cf1a29215d78f323bd0648a19eccec&width=1200&height=630&smart=true",
+      "url": "/tech-news/2025-12-22/massive-san-francisco-power-outage-stalls-waymo-ro/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "WPXI Pittsburgh"
+      },
+      "companies": [
+        "Waymo"
+      ],
+      "people": []
+    },
     {
       "title": "Alphabet kupuje vývojáře čisté energie Intersect za 4,75 miliardy dolarů v rámci expanze AI",
       "description": "Alphabet oznámil akvizici společnosti Intersect, která se zabývá vývojem čisté energie, za 4,75 miliardy dolarů v hotovosti plus převzatý dluh. Tento krok reaguje na rostoucí energetické nároky datových center pro umělou inteligenci, kde technologické giganty investují miliardy do rozšíření kapacity.",
@@ -3350,28 +3488,6 @@
       "people": []
     },
     {
-      "title": "AI je přeceňovaná, ale zároveň podceňovaná, říká šéf DeepMind Demis Hassabis",
-      "description": "Demis Hassabis varuje před humbukem v oceňováních AI startupů, zatímco zdůrazňuje, že dlouhodobý dopad technologie je stále podceňován.",
-      "slug": "ai-is-overhyped-yet-underappreciated-says-deepmind",
-      "publishedAt": "2025-12-17T19:07:53+00:00",
-      "date": "2025-12-17 19:07:53",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://observer.com/wp-content/uploads/sites/2/2025/12/GettyImages-2218276822.jpg?quality=80",
-      "url": "/tech-news/2025-12-17/ai-is-overhyped-yet-underappreciated-says-deepmind/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Observer"
-      },
-      "companies": [
-        "DeepMind"
-      ],
-      "people": [
-        "Demis Hassabis"
-      ]
-    },
-    {
       "title": "OpenAI vydalo GPT Image 1.5 s rychlejším generováním a přesnějšími úpravami",
       "description": "OpenAI vydalo svůj nejnovější model pro obrázky GPT Image 1.5, který nabízí až čtyřnásobně rychlejší generování obrázků, přesnější úpravy a lepší soulad s pokyny uživatelů. Tento update je dostupný pro všechny uživatele ChatGPT a API globálně.",
       "slug": "openai-launches-gpt-image-15-with-faster-generatio",
@@ -3447,27 +3563,6 @@
       "companies": [
         "Intel",
         "ASML"
-      ],
-      "people": []
-    },
-    {
-      "title": "Akamai a Visa spolupracují na budování důvěry v agentickém obchodu",
-      "description": "Visa integruje svůj Trusted Agent Protocol s technologiemi Akamai pro autentizaci AI nákupních agentů a prevenci podvodů na platformě Akamai Cloud. Tato spolupráce posiluje bezpečnostní vrstvu v rostoucím sektoru agentického obchodu.",
-      "slug": "akamai-and-visa-collaborate-to-build-trust-in-agen",
-      "publishedAt": "2025-12-17T12:05:53+00:00",
-      "date": "2025-12-17 12:05:53",
-      "importance": 4,
-      "category": "kyberbezpečnost",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-17/akamai-and-visa-collaborate-to-build-trust-in-agen/",
-      "source": {
-        "emoji": "📰",
-        "id": "financial-post",
-        "name": "Financial Post"
-      },
-      "companies": [
-        "Akamai",
-        "Visa"
       ],
       "people": []
     },
@@ -3608,24 +3703,6 @@
         "TSMC",
         "Apple"
       ],
-      "people": []
-    },
-    {
-      "title": "Závod britských bank v agentic AI přináší regulátorovi nová rizika",
-      "description": "Britský finanční dohled varuje maloobchodní zákazníky před riziky spojenými s agentic AI, které dokáže činit autonomní rozhodnutí. Banky jako NatWest a Lloyds připravují testy této technologie pro zákazníky na začátku příštího roku, přičemž FCA slibuje prioritu zájmům spotřebitelů.",
-      "slug": "agentic-ai-race-by-british-banks-raises-new-risks-",
-      "publishedAt": "2025-12-17T06:22:10+00:00",
-      "date": "2025-12-17 06:22:10",
-      "importance": 4,
-      "category": "fintech",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-29324,resizemode-75,msid-126032358/tech/artificial-intelligence/agentic-ai-race-by-british-banks-raises-new-risks-for-regulator.jpg",
-      "url": "/tech-news/2025-12-17/agentic-ai-race-by-british-banks-raises-new-risks/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [],
       "people": []
     },
     {
