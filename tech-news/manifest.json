@@ -1,7 +1,356 @@
 {
-  "generated": "2025-12-22T20:40:39.454546+00:00",
-  "count": 195,
+  "generated": "2025-12-23T08:43:14.874761+00:00",
+  "count": 200,
   "articles": [
+    {
+      "title": "NotebookLM a Gemini 3 společně přeměňují výzkum na prezentace, vizuály a strukturovaná data",
+      "description": "Integrace modelu Gemini 3 do NotebookLM umožňuje plynulé zpracování textu, obrázků a dat v jednom pracovním postupu. Tento update mění nástroj z jednoduchého sumarizátoru dokumentů na komplexní platformu pro výzkum a tvorbu obsahu.",
+      "slug": "notebooklm-gemini-3-combine-to-turn-research-into-",
+      "publishedAt": "2025-12-22T07:00:46+00:00",
+      "date": "2025-12-22 07:00:46",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/notebooklm-multimodal-visuals-and-data-export_optimized.jpg",
+      "url": "/tech-news/2025-12-22/notebooklm-gemini-3-combine-to-turn-research-into/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Bitva USA-Čína: Některé firmy volí čínskou technologii",
+      "description": "Navzdory hořké rivalitě USA s Čínou v nasazování umělé inteligence se čínská technologie tiše prosazuje na americkém trhu. Čínské open-source AI modely přitahují americké programátory a firmy díky nízké ceně a možnosti úprav.",
+      "slug": "us-china-battle-sees-some-companies-choose-chinese",
+      "publishedAt": "2025-12-22T06:01:49+00:00",
+      "date": "2025-12-22 06:01:49",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/6948decbfd291e546bdb837d.jpg",
+      "url": "/tech-news/2025-12-22/us-china-battle-sees-some-companies-choose-chinese/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Hurriyet Daily News"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "WISeKey zveřejnila závěrečný dopis CEO akcionářům za rok",
+      "description": "WISeKey International Holding Ltd, přední globální společnost v kybernetické bezpečnosti, blockchainu a IoT, zveřejnila 22. prosince 2025 dopis akcionářům od zakladatele a CEO Carlose Moreiry. Dopis shrnuje klíčové milníky roku 2025, včetně akvizic, investic do kvantových technologií a komercializace nových bezpečnostních řešení.",
+      "slug": "wisekey-issues-year-end-ceo-letter-to-shareholders",
+      "publishedAt": "2025-12-22T06:00:00+00:00",
+      "date": "2025-12-22 06:00:00",
+      "importance": 4,
+      "category": "kybernetika",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/80dae807-c8a0-4e1a-a0f0-61afcc7ae788",
+      "url": "/tech-news/2025-12-22/wisekey-issues-year-end-ceo-letter-to-shareholders/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [
+        "WISeKey"
+      ],
+      "people": [
+        "Carlos Moreira"
+      ]
+    },
+    {
+      "title": "Jak USA soupeří s Čínou v AI, některé firmy volí čínskou technologii",
+      "description": "Navzdory hořké rivalitě USA s Čínou v oblasti umělé inteligence se čínské open-source modely tiše prosazují na americkém trhu. Programátoři a firmy oceňují jejich nízké náklady a možnost úprav.",
+      "slug": "as-us-battles-china-on-ai-some-companies-choose-ch",
+      "publishedAt": "2025-12-22T06:00:00+00:00",
+      "date": "2025-12-22 06:00:00",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/12/22/3685114.JPG",
+      "url": "/tech-news/2025-12-22/as-us-battles-china-on-ai-some-companies-choose-ch/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Star Online"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "IPO firem spojených s AI v Číně explodují. Cizincům se ale na akci těžko dostane",
+      "description": "Nejžhavější IPO v oblasti umělé inteligence v Číně přinášejí obrovské zisky. Zahraniční investoři se však na tuto rallye dostávají jen obtížně.",
+      "slug": "ai-linked-ipos-in-china-are-exploding-but-its-not-",
+      "publishedAt": "2025-12-22T04:15:12+00:00",
+      "date": "2025-12-22 04:15:12",
+      "importance": 4,
+      "category": "ai ipo",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108237068-1764903745914-gettyimages-2243586882-Illustration_Moore_Threads.jpeg?v=1765983260&w=1920&h=1080",
+      "url": "/tech-news/2025-12-22/ai-linked-ipos-in-china-are-exploding-but-its-not/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Waymo pozastavilo provoz v San Franciscu po problémech během výpadku elektřiny",
+      "description": "Během víkendového výpadku proudu v San Franciscu se autonomní vozy Waymo zastavily u tmavých semaforů a blokovaly dopravu. Společnost dočasně pozastavila svou ride-hailing službu na doporučení starostovy kanceláře kvůli vytvářeným zácpám.",
+      "slug": "waymo-suspended-service-in-san-francisco-after-pro",
+      "publishedAt": "2025-12-22T04:01:28+00:00",
+      "date": "2025-12-22 04:01:28",
+      "importance": 4,
+      "category": "autonomní vozy",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-212810,resizemode-75,msid-126113887/tech/technology/waymo-suspended-service-in-san-francisco-after-problems-during-power-outage.jpg",
+      "url": "/tech-news/2025-12-22/waymo-suspended-service-in-san-francisco-after-pro/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Waymo"
+      ],
+      "people": []
+    },
+    {
+      "title": "Robotaxi Waymo ztratila orientaci, když semafory v San Franciscu zhasly",
+      "description": "Robotaxi společnosti Waymo se v sobotu večer náhle zastavily po celém San Franciscu kvůli výpadku proudu, který vypnul semafory a odhalil slabiny v navigaci autonomních vozidel. Společnost službu dočasně pozastavila a spolupracuje s městskými úřady.",
+      "slug": "waymos-robotaxis-lose-their-way-as-san-francisco-t",
+      "publishedAt": "2025-12-22T01:55:53+00:00",
+      "date": "2025-12-22 01:55:53",
+      "importance": 4,
+      "category": "autonomní vozidla",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Screenshot-from-2025-12-22-08-55-21.png",
+      "url": "/tech-news/2025-12-22/waymos-robotaxis-lose-their-way-as-san-francisco-t/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Google",
+        "Waymo"
+      ],
+      "people": []
+    },
+    {
+      "title": "Google spouští továrny s bateriemi na CO2 pro dlouhodobé ukládání obnovitelné energie",
+      "description": "V červenci Google slíbil škálování CO2 baterií společnosti Energy Dome jako řešení pro dlouhodobé ukládání energie. Nyní IEEE Spectrum navštívil první továrnu na Sardinii, kde 2000 tun oxidu uhličitého pohání turbínu generující 20 MW po dobu 10 hodin a ukládá velké množství přebytečné obnovitelné energie.",
+      "slug": "google-launches-co2-battery-plants-for-long-durati",
+      "publishedAt": "2025-12-22T01:34:00+00:00",
+      "date": "2025-12-22 01:34:00",
+      "importance": 5,
+      "category": "ukládání energie",
+      "urlToImage": "https://a.fsdn.com/sd/topics/power_64.png",
+      "url": "/tech-news/2025-12-22/google-launches-co2-battery-plants-for-long-durati/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "companies": [
+        "Google",
+        "Energy Dome"
+      ],
+      "people": []
+    },
+    {
+      "title": "Zpráva: Výrobce AI čipů Cerebras Systems oživuje plány na IPO, cílí na začátek 2026",
+      "description": "Společnost Cerebras Systems, specializující se na vývoj výkonných čipů pro trénink a inference umělé inteligence, podle zprávy Reuters připravuje podání dokumentů pro úvodní veřejnou nabídku akcií v USA ještě tento týden. Cílem je vstup na burzu v druhém čtvrtletí 2026, po odložení původních plánů kvůli bezpečnostním obavám spojeným s investorem G42.",
+      "slug": "report-ai-chipmaker-cerebras-systems-rekindles-ipo",
+      "publishedAt": "2025-12-22T01:12:59+00:00",
+      "date": "2025-12-22 01:12:59",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/cerebras.png",
+      "url": "/tech-news/2025-12-22/report-ai-chipmaker-cerebras-systems-rekindles-ipo/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Cerebras Systems"
+      ],
+      "people": []
+    },
+    {
+      "title": "Waymo pozastavilo službu po výpadku proudu v San Franciscu",
+      "description": "Waymo dočasně zastavilo svou službu autonomních taxíků v San Franciscu po rozsáhlém výpadku elektřiny, který způsobil uvíznutí několika autonomních vozů na ulicích. Mluvčí společnosti uvedl, že týmy spolupracují s městskými úřady na obnovení provozu.",
+      "slug": "waymo-suspends-service-after-power-outage-hit-san-",
+      "publishedAt": "2025-12-22T00:53:32+00:00",
+      "date": "2025-12-22 00:53:32",
+      "importance": 4,
+      "category": "autonomní vozy",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/12/image-36.png",
+      "url": "/tech-news/2025-12-22/waymo-suspends-service-after-power-outage-hit-san/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "companies": [
+        "Waymo"
+      ],
+      "people": []
+    },
+    {
+      "title": "Temasek mezi investory v akvizici Clearwater Analytics za 10,9 miliardy dolarů",
+      "description": "Americká firma Clearwater Analytics vyvíjí software pro správu investičních portfolií na bázi cloudové platformy. Skupina investorů vedená Permirou a Warburg Pincus ji získává za 10,9 miliardy dolarů včetně dluhu.",
+      "slug": "temasek-among-investors-in-109-billion-purchase-of",
+      "publishedAt": "2025-12-22T00:15:44+00:00",
+      "date": "2025-12-22 00:15:44",
+      "importance": 5,
+      "category": "fintech",
+      "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/22eb5eb289c32e643d48663c385a8f21639bac89a8df1bee57a231ab2bfbeac0",
+      "url": "/tech-news/2025-12-22/temasek-among-investors-in-109-billion-purchase-of/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Straits Times"
+      },
+      "companies": [
+        "Clearwater Analytics"
+      ],
+      "people": []
+    },
+    {
+      "title": "Altucherovo časové rozvržení IPO Starlinku pro rok 2026 se dostává do ostrého zaměření",
+      "description": "Tech investor James Altucher v nejnovějším videu reviduje svou predikci o IPO Starlinku v roce 2026. Ukazuje, že vývoj sítě probíhá rychleji, než se původně očekávalo, díky růstu sítě a příjmům.",
+      "slug": "altuchers-starlink-2026-ipo-timeline-moves-into-fo",
+      "publishedAt": "2025-12-22T00:00:00+00:00",
+      "date": "2025-12-22 00:00:00",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": null,
+      "url": "/tech-news/2025-12-22/altuchers-starlink-2026-ipo-timeline-moves-into-fo/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [],
+      "people": [
+        "Altucher"
+      ]
+    },
+    {
+      "title": "Tvůrce softwaru pro investiční analýzy Clearwater souhlasí s převzetím do soukromého vlastnictví v dealu za 8,4 miliardy dolarů",
+      "description": "Společnost Clearwater Analytics Holdings Inc., která vyvíjí software pro investiční účetnictví a analýzy, bude převzata soukromými investičními firmami Permira a Warburg Pincus za 8,4 miliardy dolarů. Cena 24,55 dolaru za akcii představuje 47procentní prémií oproti kurzu z 10. listopadu.",
+      "slug": "investing-analytics-software-maker-clearwater-agre",
+      "publishedAt": "2025-12-21T23:28:46+00:00",
+      "date": "2025-12-21 23:28:46",
+      "importance": 5,
+      "category": "fintech",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Screenshot-from-2025-12-22-06-25-38.png",
+      "url": "/tech-news/2025-12-21/investing-analytics-software-maker-clearwater-agre/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Clearwater Analytics Holdings Inc"
+      ],
+      "people": []
+    },
+    {
+      "title": "Analýza: Reformy v čínském energetickém sektoru a globální výstavba datových center přinášejí boom baterií",
+      "description": "Reformy čínského trhu s elektřinou zlepšují ekonomiku ukládání energie právě v době, kdy mezinárodní poptávka roste, což spouští boom pro čínské výrobce úložišť energie, kteří již globálně dominují.",
+      "slug": "analysis-chinas-power-reforms-global-data-centre-b",
+      "publishedAt": "2025-12-21T23:09:07+00:00",
+      "date": "2025-12-21 23:09:07",
+      "importance": 4,
+      "category": "úložiště energie",
+      "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/866e294707c1386c1f5a41da1047bec7",
+      "url": "/tech-news/2025-12-21/analysis-chinas-power-reforms-global-data-centre-b/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Reportáž: Čína dělá velký skok vpřed v technologii čipů",
+      "description": "Čína je dál v úsilí prolomit západní monopol na nejpokročilejší počítačové čipy, než se očekávalo v Washingtonu. Čínští vědci v zabezpečené laboratoři v Šen-čenu postavili prototyp extrémně ultrafialové litografické zařízení, které je klíčové pro výrobu čipů pro AI, chytré telefony a pokročilé zbraně.",
+      "slug": "report-china-takes-a-big-leap-forward-in-chip-tech",
+      "publishedAt": "2025-12-21T21:34:00+00:00",
+      "date": "2025-12-21 21:34:00",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://img1-azrcdn.newser.com/image/1653220-12-20251221153402.jpeg",
+      "url": "/tech-news/2025-12-21/report-china-takes-a-big-leap-forward-in-chip-tech/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Newser"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Japonsko podpoří domácí vývoj AI investicí 1 bilionu jenů: zdroj",
+      "description": "Japonská vláda poskytne přibližně 1 bilion jenů (6,34 miliardy dolarů) na podporu během pěti let pro plánovanou novou společnost, která vyvine domácí umělou inteligenci, uvedl zdroj blízký věci. Společnost založí asi 10 subjektů.",
+      "slug": "japan-to-support-domestic-ai-development-with-1-tr",
+      "publishedAt": "2025-12-21T21:24:37+00:00",
+      "date": "2025-12-21 21:24:37",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": null,
+      "url": "/tech-news/2025-12-21/japan-to-support-domestic-ai-development-with-1-tr/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Japan Today"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "USA a Čína směřují k kolizi v oblasti umělé inteligence",
+      "description": "Soutěž je lítostivá, ale pravděpodobně nevyhnutelná.",
+      "slug": "us-and-china-are-headed-for-an-ai-collision",
+      "publishedAt": "2025-12-21T21:16:02+00:00",
+      "date": "2025-12-21 21:16:02",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.wnd.com/wp-content/uploads/2025/11/donald-trump-smiling-xi-jinping-china-chinese-american-flags.jpg",
+      "url": "/tech-news/2025-12-21/us-and-china-are-headed-for-an-ai-collision/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Wnd.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Proč Nvidia udržuje svou konkurenční převahu a Gemini OpenAI nepřemůže",
+      "description": "Analýza vyvrací dva převažující narativy: oslabení dominance Nvidia díky alternativám jako TPU a převahu Google s modelem Gemini nad OpenAI. Podle autorů Nvidia díky čipům GB300 a Vera Rubin resetuje ekonomiku AI a zůstane nejlevnější platformou pro trénink i inference, zatímco Google čelí dilematu s reklamním modelem vyhledávání.",
+      "slug": "why-nvidia-maintains-its-moat-and-gemini-wont-kill",
+      "publishedAt": "2025-12-21T21:07:36+00:00",
+      "date": "2025-12-21 21:07:36",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/googlenvidialightningbolt.png",
+      "url": "/tech-news/2025-12-21/why-nvidia-maintains-its-moat-and-gemini-wont-kill/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Nvidia",
+        "OpenAI"
+      ],
+      "people": []
+    },
     {
       "title": "S&P Global (SPGI) získává With Intelligence za 1,8 miliardy dolarů",
       "description": "S&P Global Inc. (NYSE:SPGI) dokončil akvizici With Intelligence za 1,8 miliardy dolarů od skupiny investorů vedené Motive Partners. Tato společnost poskytuje data a analýzy pro alternativní a soukromé trhy a očekává se, že přinese roční příjmy kolem 130 milionů dolarů.",
@@ -3345,26 +3694,6 @@
       "people": []
     },
     {
-      "title": "Vzestup AI v roce 2026. Radikální změny",
-      "description": "Je Elon Musk šílený? Selže jeho sázka přes 200 miliard dolarů? Někteří lidé tvrdí, že jeho plány v oblasti AI nikdy nebudou fungovat. Kdo má pravdu?",
-      "slug": "ai-rising-in-2026-insane-changes",
-      "publishedAt": "2025-12-16T19:55:40+00:00",
-      "date": "2025-12-16 19:55:40",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2025/12/Screenshot-2025-12-16-at-11.50.48-AM.jpg",
-      "url": "/tech-news/2025-12-16/ai-rising-in-2026-insane-changes/",
-      "source": {
-        "emoji": "📰",
-        "id": "next-big-future",
-        "name": "Next Big Future"
-      },
-      "companies": [],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
       "title": "Průkopník solid-state baterií překonal rekord v hustotě energie a zdvojnásobil současný teoretický limit",
       "description": "Elektromobil s novou chemií solid-state elektrolytu by ujel více než 1600 kilometrů na jedno nabití. Vynález solid-state baterie by však nejprve napájel roboty jako Tesla Optimus.",
       "slug": "solid-state-battery-pioneer-breaks-energy-density-",
@@ -3441,48 +3770,6 @@
       "people": []
     },
     {
-      "title": "IPO SpaceX by mohlo být největší veřejnou nabídkou všech dob – a největší bolestí hlavy pro Elona Muska",
-      "description": "Společnost Elona Muska v oblasti vesmíru se vyhnula velké části kontroly, kritiky a regulační zátěže spojené s uvedením na burzu.",
-      "slug": "a-spacex-ipo-could-be-the-largest-public-offering-",
-      "publishedAt": "2025-12-16T18:51:52+00:00",
-      "date": "2025-12-16 18:51:52",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2246892016.jpg?resize=1200,600",
-      "url": "/tech-news/2025-12-16/a-spacex-ipo-could-be-the-largest-public-offering/",
-      "source": {
-        "emoji": "📰",
-        "id": "fortune",
-        "name": "Fortune"
-      },
-      "companies": [
-        "SpaceX"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "NCLT schválil přesun domovského sídla Flipkartu do Indie před plánovaným IPO",
-      "description": "Tento krok posouvá plány e-commerce giganta Flipkart na vstup na burzu, s cílem podat návrh dokumentů pro IPO v roce 2026. Schválení zahrnuje sloučení singapurských entit do indické mateřské společnosti.",
-      "slug": "nclt-approves-flipkarts-domicile-shift-to-india-be",
-      "publishedAt": "2025-12-16T15:48:48+00:00",
-      "date": "2025-12-16 15:48:48",
-      "importance": 4,
-      "category": "e-commerce",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/U74dbloD4VBwk9As.4lq0g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/retail_insight_network_724/4e9e1a8b60cae4e89df1d36cbbca008b",
-      "url": "/tech-news/2025-12-16/nclt-approves-flipkarts-domicile-shift-to-india-be/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Retail-insight-network.com"
-      },
-      "companies": [
-        "Flipkart"
-      ],
-      "people": []
-    },
-    {
       "title": "Síla a potenciál agentic AI v kyberbezpečnosti",
       "description": "Agentic AI přináší hlubší transformaci než generativní modely a stává se klíčovým prvkem v kyberbezpečnosti. Organizace budou muset zavést dedikované bezpečnostní opatření pro nástroje založené na této technologii kvůli rizikům zneužití útočníky.",
       "slug": "the-power-and-potential-of-agentic-ai-in-cybersecu",
@@ -3498,64 +3785,6 @@
         "name": "TechRadar"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Morgan Stanley stoupá v žebříčcích dluhových financí jako hlavní banka pro AI boom",
-      "description": "Navzdory rostoucím obavám z bubliny umělé inteligence pomohla žádná banka z Wall Street průmyslu překonat tyto pochybnosti tak jako Morgan Stanley. Firma vedla nebo spoluleadovala dluhové obchody v objemu 65 miliard dolarů pro datová centra a další AI investice od října.",
-      "slug": "morgan-stanley-climbs-debt-rankings-as-go-to-bank-",
-      "publishedAt": "2025-12-16T12:19:40+00:00",
-      "date": "2025-12-16 12:19:40",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-16/morgan-stanley-climbs-debt-rankings-as-go-to-bank/",
-      "source": {
-        "emoji": "📰",
-        "id": "financial-post",
-        "name": "Financial Post"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Amazon varuje: Hackeři z ruské GRU cílí na západní firmy přes špatně nakonfigurovaná hraniční zařízení",
-      "description": "Výzkumníci Amazonu považují tuto kampaň za součást větší operace vedené ruskou vojenskou zpravodajskou službou GRU. Skupina změnila taktiku z exploitů zranitelností na útoky na chybně nastavená síťová hraniční zařízení zákazníků.",
-      "slug": "amazon-warns-russian-gru-hackers-target-western-fi",
-      "publishedAt": "2025-12-16T12:15:00+00:00",
-      "date": "2025-12-16 12:15:00",
-      "importance": 5,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://assets.infosecurity-magazine.com/webpage/og/373d80ad-16a6-487c-be6e-b762c135a612.jpg",
-      "url": "/tech-news/2025-12-16/amazon-warns-russian-gru-hackers-target-western-fi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Infosecurity Magazine"
-      },
-      "companies": [
-        "Amazon"
-      ],
-      "people": []
-    },
-    {
-      "title": "ChatGPT 5.2 zdvojnásobuje úspěšnost na reálných úkolech: Posouvá kancelářskou práci do nové území",
-      "description": "OpenAI vydalo model GPT-5.2, který dosahuje 74procentní úspěšnosti na složitých úkolech oproti 38 procentům u verze GPT-5.1, s lepší přesností a menším počtem halucinací. Model je přizpůsoben pro podnikové použití, kde automatizuje projektový management, analýzu dat a tvorbu zpráv.",
-      "slug": "chatgpt-52-doubles-success-on-real-tasks-pushes-of",
-      "publishedAt": "2025-12-16T12:07:49+00:00",
-      "date": "2025-12-16 12:07:49",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/gpt-5-2-mega-agent-architecture_optimized.jpg",
-      "url": "/tech-news/2025-12-16/chatgpt-52-doubles-success-on-real-tasks-pushes-of/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [
-        "OpenAI"
-      ],
       "people": []
     },
     {
@@ -3601,70 +3830,6 @@
       ]
     },
     {
-      "title": "Startup podpořený JPMorgan navazuje partnerství s Amazonem",
-      "description": "Slope, fintech společnost se sídlem v San Franciscu podpořená bankou JPMorgan Chase a Samem Altmanem, generálním ředitelem OpenAI, oznámila spolupráci s Amazonem na nových platebních řešeních pro malé nákupy.",
-      "slug": "jpmorgan-backed-startup-partners-with-amazon",
-      "publishedAt": "2025-12-16T11:47:20+00:00",
-      "date": "2025-12-16 11:47:20",
-      "importance": 4,
-      "category": "fintech",
-      "urlToImage": "https://biztoc.com/cdn/410de068e90223f2_s.webp",
-      "url": "/tech-news/2025-12-16/jpmorgan-backed-startup-partners-with-amazon/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "companies": [
-        "Slope",
-        "OpenAI",
-        "Amazon"
-      ],
-      "people": [
-        "Sam Altman"
-      ]
-    },
-    {
-      "title": "Uvnitř smyčky financování AI spojující Microsoft, NVIDIA a OpenAI",
-      "description": "Analýza odhaluje nesudržitelné výdaje v AI sektoru, kde OpenAI plánuje investovat 1,15 bilionu dolarů do infrastruktury při očekávaných příjmech jen 20 miliard v roce 2025. Propojené investice mezi Microsoftem, NVIDIA a OpenAI vytvářejí kruhové finanční toky, které zvyšují rizika podobná dot-com bublině.",
-      "slug": "inside-the-ai-funding-loop-linking-microsoft-nvidi",
-      "publishedAt": "2025-12-16T11:44:03+00:00",
-      "date": "2025-12-16 11:44:03",
-      "importance": 4,
-      "category": "ai financování",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/revenue-vs-capex-gap-openai_optimized.jpg",
-      "url": "/tech-news/2025-12-16/inside-the-ai-funding-loop-linking-microsoft-nvidi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [
-        "Microsoft",
-        "NVIDIA",
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Jednání o 'historické' technologické dohodě mezi USA a Velkou Británií uvízla",
-      "description": "Když bylo partnerství v září odhaleno, britská vláda uvedla, že ovlivní budoucnost milionů lidí. Downing Street trvá na aktivních rozhovorech, ale podle zdrojů jednání uvízla kvůli obavám USA z britských obchodních bariér.",
-      "slug": "negotiations-over-historic-us-uk-tech-deal-stall",
-      "publishedAt": "2025-12-16T11:29:32+00:00",
-      "date": "2025-12-16 11:29:32",
-      "importance": 4,
-      "category": "technologická dohoda",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b07a/live/9a15a890-da68-11f0-a03c-01668bc4a165.jpg",
-      "url": "/tech-news/2025-12-16/negotiations-over-historic-us-uk-tech-deal-stall/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BBC News"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Bude OpenAI dalším technologickým gigantem nebo dalším Netscape?",
       "description": "Tři roky po tom, co ChatGPT udělal z OpenAI lídra v umělé inteligenci a známé jméno, rivalové zúžili náskok a někteří investoři se ptájí, zda má tato společnost sílu udržet dominanci.",
       "slug": "will-openai-be-the-next-tech-giant-or-next-netscap",
@@ -3684,28 +3849,6 @@
         "Netscape"
       ],
       "people": []
-    },
-    {
-      "title": "Strategický tah nebo nebezpečný ústupek? Trumpovo rozhodnutí o Nvidii rozděluje republikány a podněcuje závod v umělé inteligenci",
-      "description": "Administrativa Donalda Trumpa změnila politiku a povolila společnosti Nvidia prodávat své nejpokročilejší čipy pro umělou inteligenci H200 GPU do Číny. Toto rozhodnutí vyvolalo bipartizánní obavy v americkém Kongresu kvůli rizikům pro národní bezpečnost a posílení AI schopností Číny.",
-      "slug": "a-strategic-gambit-or-a-dangerous-concession-trump",
-      "publishedAt": "2025-12-16T06:00:00+00:00",
-      "date": "2025-12-16 06:00:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/12/Nvidia-Logo-Sign.jpg",
-      "url": "/tech-news/2025-12-16/a-strategic-gambit-or-a-dangerous-concession-trump/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": [
-        "Trump"
-      ]
     },
     {
       "title": "USA pozastavují technologickou dohodu s Británií, hlásí Financial Times",
@@ -3742,26 +3885,6 @@
       },
       "companies": [
         "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Agentura 81Produce a AI společnost ElevenLabs spolupracují na AI dabingách založených na hlasových talentech",
-      "description": "ElevenLabs použije technologie VoiceCAPCHA, digitální vodoznaky a standardy C2PA k boji proti neoprávněnému využití generativní AI. Partnerství chrání hlasy více než 400 japonských hlasových herců a umožňuje autorizované syntetické dabingy v 29 jazycích.",
-      "slug": "A-81produce-agency-ai-company-elevenlabs-partner-o",
-      "publishedAt": "2025-12-16T03:23:23+00:00",
-      "date": "2025-12-16 03:23:23",
-      "importance": 4,
-      "category": "generativní ai",
-      "urlToImage": "https://www.animenewsnetwork.com/thumbnails/crop600x315gLN/cms/news.9/232136/81producelogo.jpg",
-      "url": "/tech-news/2025-12-16/A-81produce-agency-ai-company-elevenlabs-partner-o/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Anime News Network"
-      },
-      "companies": [
-        "ElevenLabs"
       ],
       "people": []
     },
@@ -3853,26 +3976,6 @@
       "people": []
     },
     {
-      "title": "Dezinformace po střelbě v Bondi zaplavují sociální sítě falešnými lokalitami, fotografiemi z AI a tvrzeními Groka o „Edwardu Crabtree“",
-      "description": "Chatbot Elona Muska Grok označil fiktivního 47letého IT specialistu Edwarda Crabtreeho za hrdinu, který se vrhl na jednoho z útočníků a odebral mu zbraň. Tento případ ukazuje, jak AI zesiluje šíření lží během aktuálních událostí.",
-      "slug": "bondi-shooting-misinformation-floods-social-media-",
-      "publishedAt": "2025-12-16T01:07:46+00:00",
-      "date": "2025-12-16 01:07:46",
-      "importance": 4,
-      "category": "dezinformace",
-      "urlToImage": "https://static.ffx.io/images/$zoom_1.3071634881149805%2C$multiply_0.7554%2C$ratio_1.776846%2C$width_1059%2C$x_342%2C$y_283/t_crop_custom/q_86%2Cf_auto/270b9375a6f182940aa84cdbee8a4efffefaa222",
-      "url": "/tech-news/2025-12-16/bondi-shooting-misinformation-floods-social-media/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Sydney Morning Herald"
-      },
-      "companies": [],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
       "title": "Šéfka Wayma se vůbec nepodobá Elonovi; Rizikový kapitál brzy záviset na trilionových starupech; Všichni sázejí a nikdo není šťastný; Jsou MCPs jen API 2.0? a další",
       "description": "Tento agregát tech novinek se zaměřuje na profil šéfky Wayma Tekedry Mawakany, která kontrastuje svou vizi s Elonem Muskem a zdůrazňuje úspěchy autonomních vozidel. Obsahuje také analýzu MCPs v AI ekosystému, nové AI sluchadlo a ekonomickou nespokojenost mladých.",
       "slug": "waymos-ceo-isnt-like-elon-at-all-venture-capital-m",
@@ -3916,27 +4019,6 @@
       "people": [
         "Donald Trump"
       ]
-    },
-    {
-      "title": "Elastic a Alteryx: Pohánění důvěryhodných, vyhledávatelných dat pro podnikové agenty",
-      "description": "Partnerství Elastic a Alteryx nabízí end-to-end řešení pro důvěryhodné podnikové generativní AI. Poskytuje plynulý workflow pro RAG přípravou, obohacením, ukládáním a vyhledáváním kurátovaných podnikových dat, čímž napájí spolehlivé a kontextově uvědomělé AI agenty.",
-      "slug": "elastic-and-alteryx-powering-trusted-search-ready-",
-      "publishedAt": "2025-12-16T00:00:00+00:00",
-      "date": "2025-12-16 00:00:00",
-      "importance": 4,
-      "category": "generativní ai",
-      "urlToImage": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt2b16cc5a621d4ae6/694075e6dc686e391fd0f18d/Blog-Alteryx-Partnership.png",
-      "url": "/tech-news/2025-12-16/elastic-and-alteryx-powering-trusted-search-ready/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Elastic.co"
-      },
-      "companies": [
-        "Elastic",
-        "Alteryx"
-      ],
-      "people": []
     }
   ]
 }

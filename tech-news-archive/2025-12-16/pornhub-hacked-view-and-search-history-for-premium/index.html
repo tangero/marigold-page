@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pornhub hacknut: Historie prohlížení a vyhledávání Premium členů může uniknout | Marigold.cz Tech News</title>
+    <meta name="description" content="Premium členové Pornhubu mohou mít ohroženou historii prohlížení a vyhledávání kvůli úniku dat přes analytického partnera Mixpanel. Ransomware skupina ShinyHunt">
+    <link rel="canonical" href="https://www.marigold.cz/tech-news/2025-12-16/pornhub-hacked-view-and-search-history-for-premium/">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #374151; background: #f3f4f6; }
+        .container { max-width: 800px; margin: 0 auto; padding: 2rem; }
+        .tech-news-article { background: white; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); padding: 2rem; margin: 2rem 0; }
+        .source-info { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem; flex-wrap: wrap; }
+        .source-emoji { font-size: 1.5rem; }
+        .source-name { font-weight: 600; color: #374151; }
+        .importance-indicator { display: flex; gap: 2px; margin-left: auto; }
+        .star { color: #fbbf24; font-size: 1.2rem; }
+        .star.empty { color: #d1d5db; }
+        .article-title { font-size: 2rem; font-weight: 700; line-height: 1.2; margin-bottom: 1rem; color: #111827; }
+        .article-meta { display: flex; align-items: center; gap: 1rem; font-size: 0.875rem; color: #6b7280; margin-bottom: 1.5rem; }
+        .category { padding: 0.25rem 0.75rem; border-radius: 1rem; font-weight: 500; font-size: 0.75rem; text-transform: uppercase; background: #e5e7eb; color: #374151; }
+        .article-image { margin: 1.5rem 0; border-radius: 8px; overflow: hidden; }
+        .article-image img { width: 100%; height: auto; display: block; }
+        .article-content { font-size: 1.125rem; line-height: 1.7; margin-bottom: 2rem; }
+        .article-content h2 { font-size: 1.5rem; margin: 1.5rem 0 1rem; color: #111827; }
+        .article-content p { margin-bottom: 1rem; }
+        .article-footer { border-top: 1px solid #e5e7eb; padding-top: 1.5rem; }
+        .read-more-btn { display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: #3b82f6; color: white; text-decoration: none; border-radius: 8px; font-weight: 500; }
+        .read-more-btn:hover { background: #2563eb; }
+        .original-title { margin-top: 1rem; color: #6b7280; font-size: 0.875rem; }
+        .back-link { display: inline-block; margin-bottom: 1rem; color: #3b82f6; text-decoration: none; }
+        .back-link:hover { text-decoration: underline; }
+        .archive-notice { background: #fef3c7; border: 1px solid #f59e0b; border-radius: 8px; padding: 1rem; margin-bottom: 1rem; font-size: 0.875rem; color: #92400e; }
+        @media (max-width: 640px) {
+            .container { padding: 1rem; }
+            .tech-news-article { padding: 1.5rem; margin: 1rem 0; }
+            .article-title { font-size: 1.5rem; }
+            .source-info { flex-direction: column; align-items: flex-start; }
+            .importance-indicator { margin-left: 0; margin-top: 0.5rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="/tech-news/" class="back-link">&larr; Zpět na Tech News</a>
+
+        <div class="archive-notice">
+            Tento článek je z archivu. Byl publikován 16.12.2025.
+        </div>
+
+        <article class="tech-news-article">
+            <header>
+                <div class="source-info">
+                    <span class="source-emoji">📰</span>
+                    <span class="source-name">PCWorld</span>
+                    <div class="importance-indicator">
+                        <span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star">★</span>
+                    </div>
+                </div>
+
+                <h1 class="article-title">Pornhub hacknut: Historie prohlížení a vyhledávání Premium členů může uniknout</h1>
+
+                <div class="article-meta">
+                    <time datetime="2025-12-16T20:13:33+00:00">16.12.2025</time>
+                    <span class="category">únik dat</span>
+                </div>
+            </header>
+
+            
+            <div class="article-image">
+                <img src="https://www.pcworld.com/wp-content/uploads/2025/12/pexels-shkrabaanthony-5475752.jpg?quality=50&strip=all&w=1024" alt="Pornhub hacknut: Historie prohlížení a vyhledávání Premium členů může uniknout" loading="lazy">
+            </div>
+        
+
+            <div class="article-content">
+                <h2>Souhrn</h2>
+<p>Pornhub upozornil své Premium členy na únik dat, který označil za „omezenou sadu analytických událostí“. Skutečnost je vážnější: přes 200 milionů uživatelů má potenciálně ohroženou historii prohlížení videí, stahování a vyhledávání, která nyní drží ransomware skupina ShinyHunters. Ta požaduje výkupné, aby data nezveřejnila.</p>
+<h2>Klíčové body</h2>
+<ul>
+<li>Útok proběhl 8. listopadu prostřednictvím smishingu (SMS phishingu) na třetí stranu Mixpanel, analytickou platformu pro sledování uživatelských chování v aplikacích a webech.</li>
+<li>Ukradená data zahrnují 94GB informací: e-maily členů, typy aktivit (prohlížení, stahování, kanály), lokace, odkazy na videa, názvy videí, klíčová slova a časové údaje.</li>
+<li>Žádná hesla, platební údaje ani identifikační dokumenty nebyly ukradena; partnerství s Mixpanel skončilo v roce 2021.</li>
+<li>Mixpanel popírá odpovědnost a tvrdí, že poslední legitimní přístup měl zaměstnanec mateřské firmy Pornhubu v roce 2023.</li>
+<li>ShinyHunters, známá ransomware skupina, veřejně přiznala útok a zaslala e-maily s požadavkem výkupného.</li>
+</ul>
+<h2>Podrobnosti</h2>
+<p>Útok na Pornhub odhalil zranitelnost v dodavatelském řetězci, kdy hackeři pronikli přes externího partnera. Smishing, tedy phishing přes SMS zprávy, umožnil útočníkům získat přístup k účtu Mixpanelu, platformy specializující se na sběr a analýzu uživatelských dat pro optimalizaci webů a aplikací. Tento incident navazuje na úniky u OpenAI a CoinTracker, což naznačuje koordinovanou kampaň.</p>
+<p>BleepingComputer, specializovaný web na kyberbezpečnost, prohlédl vzorky dat a potvrdil přítomnost e-mailových adres, typů aktivit jako prohlížení nebo stahování videí, zeměpisných údajů, přímých odkazů na obsah, názvů videí, přiřazených klíčových slov a časových razítek. Historie vyhledávání zatím nebyla plně ověřena, ale potenciál pro její zahrnutí existuje. Data pocházejí z období před ukončením spolupráce v roce 2021, přesto byla naposledy přístupná v roce 2023.</p>
+<p>Pornhub, provozovaný firmou Aylo (dříve MindGeek), ihned spolupráci ukončil a Premium členy informoval. Mixpanel naopak argumentuje, že žádný bezpečnostní incident na jejich straně neevidují a data musela uniknout jinde. ShinyHunters, aktivní skupina od roku 2022, se specializuje na velké úniky dat z herních firem, telekomunikací a nyní i dospělého obsahu. Mezi jejich oběti patří například Jasmin, 23andMe nebo Whitepages. Skupina data nabízí na prodej nebo hrozí zveřejněním na dark webu, pokud výkupné nevyplatí.</p>
+<p>Pro uživatele to znamená riziko blackmailingu nebo stigmatizace, protože data odhalují citlivé preference. Doporučuje se změna e-mailů, monitorování účtů a použití maskovaných e-mailů pro podobné služby, jak navrhuje BleepingComputer.</p>
+<h2>Proč je to důležité</h2>
+<p>Tento incident ilustruje rostoucí hrozbu ransomware útoků na analytické nástroje, které sbírají rozsáhlá data o uživatelích. Ovlivňuje 200 milionů lidí, což je obrovská škála, a zdůrazňuje slabiny v supply chain security – externí partneři často představují nejslabší článek. V širším kontextu kyberbezpečnosti to posiluje trend cílených útoků na třetí strany, podobně jako u SolarWinds nebo MOVEit. Pro průmysl to znamená nutnost přehodnocení archivace dat i po ukončení partnerství a investic do zero-trust modelů. Pro uživatele to podtrhuje rizika sdílení citlivých aktivit online, kde anonymita selhává při únicích. Celkově přispívá k eskalaci globálních datových kríz, kde soukromí ustupuje ekonomickým tlakům hackerů.</p>
+<hr />
+<p><a href="https://www.pcworld.com/article/3013171/pornhub-hacked-view-and-search-history-for-premium-members-could-leak.html">Číst původní článek</a></p>
+<p><strong>Zdroj:</strong> 📰 PCWorld</p>
+            </div>
+
+            <footer class="article-footer">
+                <a href="https://www.pcworld.com/article/3013171/pornhub-hacked-view-and-search-history-for-premium-members-could-leak.html" target="_blank" rel="noopener" class="read-more-btn">
+                    Číst původní článek &rarr;
+                </a>
+
+                <div class="original-title"><small>Původní název: Pornhub hacked: View and search history for Premium members could leak</small></div>
+            </footer>
+        </article>
+
+        <p style="text-align: center; color: #6b7280; font-size: 0.875rem; margin-top: 2rem;">
+            &copy; 2025 <a href="https://www.marigold.cz" style="color: #3b82f6;">Marigold.cz</a>
+        </p>
+    </div>
+</body>
+</html>
