@@ -1,7 +1,71 @@
 {
-  "generated": "2025-12-24T01:12:26.732748+00:00",
+  "generated": "2025-12-24T04:48:57.290966+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Google plánuje akvizici stavitele infrastruktury Intersect pro urychlení rozvoje kapacity",
+      "description": "Google bude spolupracovat s Intersectem na prozkoumávání nových technologií a zvyšování a diverzifikaci dodávek energie, uvedl technologický gigant. Akvizice má urychlit výstavbu datových center pro rostoucí poptávku po AI.",
+      "slug": "google-agrees-to-acquire-infrastructure-builder-in",
+      "publishedAt": "2025-12-23T04:08:19+00:00",
+      "date": "2025-12-23 04:08:19",
+      "importance": 5,
+      "category": "datová centra",
+      "urlToImage": "https://www.networkworld.com/wp-content/uploads/2025/12/4110832-0-83887400-1766462507-shutterstock_1451498966.jpg?quality=50&strip=all&w=1024",
+      "url": "/tech-news/2025-12-23/google-agrees-to-acquire-infrastructure-builder-in/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Network World"
+      },
+      "companies": [
+        "Google",
+        "Intersect"
+      ],
+      "people": []
+    },
+    {
+      "title": "SpaceX Starlink dosáhlo přes 9 milionů zákazníků do konce roku 2025",
+      "description": "SpaceX oznámilo, že Starlink má nyní přes 9 milionů zákazníků, oproti 8 milionům v listopadu a 7 milionům v srpnu 2025. Tento růst překonal předpovědi analytiků a ukazuje na rekordní tempo přidávání nových uživatelů.",
+      "slug": "spacex-starlink-gets-over-9-million-customers-by-e",
+      "publishedAt": "2025-12-23T03:08:46+00:00",
+      "date": "2025-12-23 03:08:46",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2024/12/starlinkDTC-1024x730.jpg",
+      "url": "/tech-news/2025-12-23/spacex-starlink-gets-over-9-million-customers-by-e/",
+      "source": {
+        "emoji": "📰",
+        "id": "next-big-future",
+        "name": "Next Big Future"
+      },
+      "companies": [
+        "SpaceX"
+      ],
+      "people": []
+    },
+    {
+      "title": "SoftBank hledá 22,5 miliardy dolarů pro OpenAI do konce roku",
+      "description": "Společnost SoftBank Group Corp. musí do konce roku sehnat 22,5 miliardy dolarů, aby splnila závazek vůči partnerovi OpenAI. Podle exkluzivní zprávy Reuters má generální ředitel Masayoshi Son několik možností, jak peníze získat, včetně nevyužitých maržových úvěrů spojených s investicí do Arm Holdings.",
+      "slug": "report-softbank-scrambles-to-find-225b-for-openai-",
+      "publishedAt": "2025-12-23T01:40:21+00:00",
+      "date": "2025-12-23 01:40:21",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/4808589278_977983a231_k.jpg",
+      "url": "/tech-news/2025-12-23/report-softbank-scrambles-to-find-225b-for-openai/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "SoftBank",
+        "OpenAI"
+      ],
+      "people": [
+        "Masayoshi Son"
+      ]
+    },
     {
       "title": "Téměř 3,5 milionu postiženo v datovém úniku University of Phoenix spojeném s exploit Oracle EBS od Clop",
       "description": "Univerzita Phoenix potvrdila datový únik postihující téměř 3,5 milionu současných a bývalých studentů, zaměstnanců, pedagogů a dodavatelů. Útok využil zero-day zranitelnost v systému Oracle E-Business Suite, kterou zneužila ransomware skupina Clop v srpnu 2025.",
@@ -3451,26 +3515,6 @@
       "people": []
     },
     {
-      "title": "Kalifornie hrozí Tesle 30denním pozastavením prodejních licencí kvůli zavádějícím tvrzením o autonomním řízení",
-      "description": "Kalifornští regulátoři hrozí pozastavením licence Tesla na prodej elektromobilů ve státě na začátku příštího roku, pokud automobilka nezmírní marketing autonomních funkcí. Soudce konstatoval klamavé praktiky s termíny Autopilot a Full Self-Driving.",
-      "slug": "california-threatens-tesla-with-30-day-suspension-",
-      "publishedAt": "2025-12-17T20:09:35+00:00",
-      "date": "2025-12-17 20:09:35",
-      "importance": 4,
-      "category": "elektromobilita",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/J.PfiR34vPos6BcHiYzwgQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MDk7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/6d85128a4cec8318438adafc151c20fb",
-      "url": "/tech-news/2025-12-17/california-threatens-tesla-with-30-day-suspension/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [
-        "Tesla"
-      ],
-      "people": []
-    },
-    {
       "title": "Zastřelení profesora MIT Nuna Loureiro a jeho práce na jaderné fúzi s Commonwealth Fusion Systems",
       "description": "Profesor MIT Nuno Loureiro byl před dvěma dny zastřelen a zabit. Vedl katedru plazmových věd na MIT a spolupracoval s firmou Commonwealth Fusion Systems, jedním z předních startupů v oblasti jaderné fúze.",
       "slug": "mit-professor-nuno-loureiro-shooting-and-his-nucle",
@@ -3650,24 +3694,6 @@
       "people": []
     },
     {
-      "title": "Čína využívá výzkum financovaný USA v jaderné technologii, uvádí kongresová zpráva",
-      "description": "Kongresová zpráva tvrdí, že Čína využívá partnerství s americkými výzkumníky financovanými Ministerstvem energetiky USA k poskytnutí čínské armádě přístupu k citlivé jaderné technologii a dalším inovacím s ekonomickými a národně bezpečnostními aplikacemi.",
-      "slug": "china-exploits-us-funded-research-on-nuclear-techn",
-      "publishedAt": "2025-12-17T11:44:13+00:00",
-      "date": "2025-12-17 11:44:13",
-      "importance": 4,
-      "category": "jaderná technologie",
-      "urlToImage": "https://i.abcnewsfe.com/a/4205a198-db51-41ef-9fd0-37d37447d2e2/wirestory_470549567520c89c04be1b30b218fe33_16x9.jpg?w=1600",
-      "url": "/tech-news/2025-12-17/china-exploits-us-funded-research-on-nuclear-techn/",
-      "source": {
-        "emoji": "📰",
-        "id": "abc-news",
-        "name": "ABC News"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Vládě podporuje vlastní adopci AI investicí 225 milionů dolarů",
       "description": "Australská federální vláda investuje 225 milionů dolarů do umělé inteligence pro vlastní použití v celé státní správě. Financování půjde především na rozšíření služby GovAI a související tréninkové programy.",
       "slug": "gov-backs-its-own-ai-adoption-with-225m",
@@ -3746,28 +3772,6 @@
         "Tesla"
       ],
       "people": []
-    },
-    {
-      "title": "Kalifornie obviňuje Teslu z klamání spotřebitelů tvrzeními o autonomním řízení",
-      "description": "Kalifornské ministerstvo dopravy (DMV) dává Tesle 60 dní na změnu propagace funkcí Autopilot a Full Self-Driving, jinak hrozí 30denní zákaz prodeje vozidel.",
-      "slug": "california-says-tesla-deceived-consumers-with-its-",
-      "publishedAt": "2025-12-17T03:48:30+00:00",
-      "date": "2025-12-17 03:48:30",
-      "importance": 4,
-      "category": "autonomní řízení",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6941fc7d165c2276e288bc5d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "url": "/tech-news/2025-12-17/california-says-tesla-deceived-consumers-with-its/",
-      "source": {
-        "emoji": "💼",
-        "id": null,
-        "name": "Forbes"
-      },
-      "companies": [
-        "Tesla"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
     },
     {
       "title": "Sledujte: Čína má nového humanoidního robota s AI na řízení dopravy",
