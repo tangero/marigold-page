@@ -1,7 +1,105 @@
 {
-  "generated": "2025-12-24T04:48:57.290966+00:00",
+  "generated": "2025-12-24T08:47:08.455557+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Truist upozorňuje na volatilitu autonomního řízení navzdory vyššímu cenovému cíli pro Tesla (TSLA)",
+      "description": "Analytici Truist Securities zvýšili cenový cíl akcie Tesla na 444 USD z 406 USD při udržení doporučení „držet“. Firma zdůrazňuje rizika volatility spojená s vývojem autonomního řízení, včetně technologie Full Self-Driving (FSD) a služby Robotaxi.",
+      "slug": "truist-flags-autonomous-driving-volatility-despite",
+      "publishedAt": "2025-12-23T07:53:04+00:00",
+      "date": "2025-12-23 07:53:04",
+      "importance": 4,
+      "category": "autonomní řízení",
+      "urlToImage": "https://media.zenfs.com/en/insidermonkey.com/73e36a03ac358ebdb3d1bb86e318e4d0",
+      "url": "/tech-news/2025-12-23/truist-flags-autonomous-driving-volatility-despite/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "Tesla"
+      ],
+      "people": []
+    },
+    {
+      "title": "Globální investoři se obracejí k čínské AI, zatímco Wall Street se bojí bubliny",
+      "description": "Globální investoři zvyšují své sázky na čínské společnosti s umělou inteligencí, sází na další DeepSeek a hledají diverzifikaci, přičemž rostou obavy z spekulativní bubliny v sektoru na Wall Street.",
+      "slug": "global-investors-turn-to-chinese-ai-as-wall-street",
+      "publishedAt": "2025-12-23T07:28:06+00:00",
+      "date": "2025-12-23 07:28:06",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/lAn3nro5n72FhggSl3No.g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/51c38460-dfe8-11f0-bfdf-af41f33db60a",
+      "url": "/tech-news/2025-12-23/global-investors-turn-to-chinese-ai-as-wall-street/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "DeepSeek"
+      ],
+      "people": []
+    },
+    {
+      "title": "HCLTech utratila 400 milionů dolarů na akvizice během týdne, aby posílila AI a datové nabídky",
+      "description": "Tyto akvizice představují největší výdaje společnosti na takové transakce za tři roky, protože se zaměřuje na softwarově řízené schopnosti.",
+      "slug": "hcltech-spends-400-million-on-acquisitions-in-a-we",
+      "publishedAt": "2025-12-23T07:16:22+00:00",
+      "date": "2025-12-23 07:16:22",
+      "importance": 4,
+      "category": "akvizice",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2025/12/23/1600x900/logo/INDIA-IT--1_1705560252397_1766472830597.JPG",
+      "url": "/tech-news/2025-12-23/hcltech-spends-400-million-on-acquisitions-in-a-we/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Livemint"
+      },
+      "companies": [
+        "HCLTech"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nárůst poptávky po stříbře díky průlomu Samsungu v bateriích, zatímco zlato dosahuje rekordních maxim v době varování před podvody s IRA",
+      "description": "Poptávka po stříbře roste díky technologii pevnolátkových baterií Samsungu – každá bateriová sada pro elektromobil vyžaduje přibližně 1 kg stříbra, což by při širokém nasazení mohlo zdvojnásobit globální poptávku a zatížit napjaté zásoby. Zlato překonává rekordní ceny nad 2500 USD za unci, analytici predikují až 3000 USD kvůli de-dolarizaci BRICS a nákupům centrálních bank.",
+      "slug": "silver-demand-surges-with-samsungâs-battery-breakt",
+      "publishedAt": "2025-12-23T06:00:00+00:00",
+      "date": "2025-12-23 06:00:00",
+      "importance": 5,
+      "category": "elektromobilita",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/12/2025-12-23-BBN-PROJECTIONS.jpg",
+      "url": "/tech-news/2025-12-23/silver-demand-surges-with-samsungâs-battery-breakt/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "companies": [
+        "Samsung"
+      ],
+      "people": []
+    },
+    {
+      "title": "Čína odkládá plány na hromadnou výrobu samořídících aut po nehodě",
+      "description": "Po letech plánování aut, u kterých by řidiči nemuseli držet volant ani sledovat silnici, se čínští regulátoři stali opatrnějšími. Čtěte celý příběh.",
+      "slug": "china-delays-plans-for-mass-production-of-self-dri",
+      "publishedAt": "2025-12-23T06:00:00+00:00",
+      "date": "2025-12-23 06:00:00",
+      "importance": 4,
+      "category": "autonomní vozy",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/12/23/3686798.jpg",
+      "url": "/tech-news/2025-12-23/china-delays-plans-for-mass-production-of-self-dri/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Star Online"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Google plánuje akvizici stavitele infrastruktury Intersect pro urychlení rozvoje kapacity",
       "description": "Google bude spolupracovat s Intersectem na prozkoumávání nových technologií a zvyšování a diverzifikaci dodávek energie, uvedl technologický gigant. Akvizice má urychlit výstavbu datových center pro rostoucí poptávku po AI.",
@@ -3556,26 +3654,6 @@
       "people": []
     },
     {
-      "title": "Gemini 3 Flash přináší profesionální inteligenci s okamžitými rychlostmi",
-      "description": "Google vydal Gemini 3 Flash, rychlejší model umělé inteligence, který si zachovává vysokou úroveň uvažování a okamžitě se integruje do Vyhledávání a aplikace Gemini.",
-      "slug": "gemini-3-flash-brings-pro-level-intelligence-at-in",
-      "publishedAt": "2025-12-17T19:45:36+00:00",
-      "date": "2025-12-17 19:45:36",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2025/12/Google-Gemini-3-Flash-AI-logo-featured.jpg",
-      "url": "/tech-news/2025-12-17/gemini-3-flash-brings-pro-level-intelligence-at-in/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Headlines"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
       "title": "Když vaše vlastnictví věci, kterou jste koupili, závisí na pokračujících platbách",
       "description": "S rozvojem internetu věcí a integrací síťových počítačů do každodenních interakcí může funkčnost téměř libovolného zařízení nebo služby záviset na udržování dobrého vztahu mezi poskytovatelem a zákazníkem. Článek poukazuje na rizika závislosti na cloudových infrastrukturách a předplatných modelech u automobilů.",
       "slug": "when-your-ownership-of-something-you-bought-depend",
@@ -3611,24 +3689,6 @@
       "companies": [
         "OpenAI"
       ],
-      "people": []
-    },
-    {
-      "title": "Čína prý postavila první prototyp EUV lithografického stroje, což je průlom v polovodičích, který USA obávají",
-      "description": "Čínský polovodičový průmysl dosáhl významného pokroku, protože podle zprávy Reuters země vyvinula první domácí prototyp EUV lithografického stroje, který generuje UV světlo pro expozici fotoresistu. Prototyp je sestaven ze starších dílů firem jako ASML a měl by umožnit tape-out čipů do roku 2030.",
-      "slug": "china-has-reportedly-built-its-first-euv-machine-p",
-      "publishedAt": "2025-12-17T15:29:24+00:00",
-      "date": "2025-12-17 15:29:24",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2021/02/ASML-LITHOGRAPHY-740x403.png",
-      "url": "/tech-news/2025-12-17/china-has-reportedly-built-its-first-euv-machine-p/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Wccftech"
-      },
-      "companies": [],
       "people": []
     },
     {
@@ -3691,24 +3751,6 @@
       "companies": [
         "Tesla"
       ],
-      "people": []
-    },
-    {
-      "title": "Vládě podporuje vlastní adopci AI investicí 225 milionů dolarů",
-      "description": "Australská federální vláda investuje 225 milionů dolarů do umělé inteligence pro vlastní použití v celé státní správě. Financování půjde především na rozšíření služby GovAI a související tréninkové programy.",
-      "slug": "gov-backs-its-own-ai-adoption-with-225m",
-      "publishedAt": "2025-12-17T08:08:14+00:00",
-      "date": "2025-12-17 08:08:14",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://i.nextmedia.com.au/News/crn-690_brain_deep_learning_artificial_intelligence_iStock-916414870.jpg",
-      "url": "/tech-news/2025-12-17/gov-backs-its-own-ai-adoption-with-225m/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "iTnews"
-      },
-      "companies": [],
       "people": []
     },
     {
@@ -3920,28 +3962,6 @@
       "people": []
     },
     {
-      "title": "Bývalý inženýr AMD se může stát miliardářem po IPO čínské čipové firmy za 5,9 miliardy dolarů",
-      "description": "Podle Bloomberg Billionaires Index má Chen Weiliang 55 milionů akcií v MetaX Integrated Circuits Shanghai Co., které mají hodnotu nejméně 5,8 miliardy juanů (824 milionů dolarů) při emisním ceně.",
-      "slug": "former-amd-engineer-may-become-a-billionaire-after",
-      "publishedAt": "2025-12-17T01:13:29+00:00",
-      "date": "2025-12-17 01:13:29",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2025/12/17/1600x900/logo/g497d50b907b49b4d5bbd04d210724923c7893f3b0b650730d_1765933829677_1765933829946.jpg",
-      "url": "/tech-news/2025-12-17/former-amd-engineer-may-become-a-billionaire-after/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Livemint"
-      },
-      "companies": [
-        "AMD"
-      ],
-      "people": [
-        "Chen"
-      ]
-    },
-    {
       "title": "Tesla čelí zákazu prodeje v Kalifornii, pokud nezmění marketing",
       "description": "Prodeje Tesla v Kalifornii mohou být na 30 dní pozastaveny, pokud společnost nezmění marketingové praktiky, které údajně zavádějí spotřebitele ohledně technologie asistence řidiči Autopilot a Full Self-Driving, uvedlo kalifornské ministerstvo motorových vozidel.",
       "slug": "tesla-faces-california-sales-halt-unless-it-change",
@@ -4001,24 +4021,6 @@
       "companies": [
         "Google"
       ],
-      "people": []
-    },
-    {
-      "title": "Prezidentské nařízení by mohlo výrazně omezit státy v regulaci umělé inteligence",
-      "description": "Několik států se pokouší zavést vlastní regulace umělé inteligence, jak se technologie vyvíjí, ale nové prezidentské nařízení ze 11. prosince 2025 by mohlo jejich pravomoci výrazně omezit ve prospěch federální kontroly.",
-      "slug": "executive-order-could-greatly-limit-states-from-re",
-      "publishedAt": "2025-12-17T00:02:51+00:00",
-      "date": "2025-12-17 00:02:51",
-      "importance": 4,
-      "category": "regulace ai",
-      "urlToImage": "https://www.slashgear.com/img/gallery/executive-order-could-greatly-limit-states-from-regulating-ai/l-intro-1765921125.jpg",
-      "url": "/tech-news/2025-12-17/executive-order-could-greatly-limit-states-from-re/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SlashGear"
-      },
-      "companies": [],
       "people": []
     }
   ]
