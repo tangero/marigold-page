@@ -1,7 +1,45 @@
 {
-  "generated": "2025-12-24T12:44:54.469928+00:00",
+  "generated": "2025-12-24T16:39:37.211502+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Desítky živých přenosů z AI kamer Flock byly volně dostupné na internetu",
+      "description": "Živé přenosy z více než 60 AI kamer firmy Flock pro dohled byly dostupné na webu bez autentizace, což umožnilo kdokoli s odkazem sledovat lidi a vozidla v reálném čase. Chybu odhalili youtuber Benn Jordan a 404 Media přes vyhledávač Shodan.",
+      "slug": "dozens-of-flock-ai-camera-feeds-were-just-out-ther",
+      "publishedAt": "2025-12-23T16:09:58+00:00",
+      "date": "2025-12-23 16:09:58",
+      "importance": 4,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK471_Government_Surveillance_CVirginia_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "url": "/tech-news/2025-12-23/dozens-of-flock-ai-camera-feeds-were-just-out-ther/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "companies": [
+        "Flock"
+      ],
+      "people": []
+    },
+    {
+      "title": "Osobnost roku 2025 podle Emerge: Ani, chatbot Grok",
+      "description": "Vzestup Ani ukázal, jak se chatboti proměnily z nástrojů v partnery, což definovalo rok zaměřený na intimitu umělé inteligence a její dopady na lidskou sféru.",
+      "slug": "emerges-2025-person-of-the-year-ani-the-grok-chatb",
+      "publishedAt": "2025-12-23T16:01:03+00:00",
+      "date": "2025-12-23 16:01:03",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/12/Emerge-Person-of-the-Year-2025-Ani-gID_7.jpg",
+      "url": "/tech-news/2025-12-23/emerges-2025-person-of-the-year-ani-the-grok-chatb/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Decrypt"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Strategie Apple pro rok 2026: Devět nových produktů na zahájení roku",
       "description": "Apple se připravuje na uvedení devíti nových produktů na začátku roku 2026, což podtrhuje závazek k pokroku v technologii a zlepšení uživatelských zážitků. Řada zahrnuje MacBooky, iPady, chytrá domácí zařízení a příslušenství s důrazem na výkon, design a funkčnost.",
@@ -3651,29 +3689,6 @@
       "people": []
     },
     {
-      "title": "Zastřelení profesora MIT Nuna Loureiro a jeho práce na jaderné fúzi s Commonwealth Fusion Systems",
-      "description": "Profesor MIT Nuno Loureiro byl před dvěma dny zastřelen a zabit. Vedl katedru plazmových věd na MIT a spolupracoval s firmou Commonwealth Fusion Systems, jedním z předních startupů v oblasti jaderné fúze.",
-      "slug": "mit-professor-nuno-loureiro-shooting-and-his-nucle",
-      "publishedAt": "2025-12-17T20:00:32+00:00",
-      "date": "2025-12-17 20:00:32",
-      "importance": 5,
-      "category": "jaderná fúze",
-      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2025/12/Screenshot-2025-12-17-at-11.53.54-AM.jpg",
-      "url": "/tech-news/2025-12-17/mit-professor-nuno-loureiro-shooting-and-his-nucle/",
-      "source": {
-        "emoji": "📰",
-        "id": "next-big-future",
-        "name": "Next Big Future"
-      },
-      "companies": [
-        "MIT",
-        "Commonwealth Fusion Systems"
-      ],
-      "people": [
-        "Nuno Loureiro"
-      ]
-    },
-    {
       "title": "Když vaše vlastnictví věci, kterou jste koupili, závisí na pokračujících platbách",
       "description": "S rozvojem internetu věcí a integrací síťových počítačů do každodenních interakcí může funkčnost téměř libovolného zařízení nebo služby záviset na udržování dobrého vztahu mezi poskytovatelem a zákazníkem. Článek poukazuje na rizika závislosti na cloudových infrastrukturách a předplatných modelech u automobilů.",
       "slug": "when-your-ownership-of-something-you-bought-depend",
@@ -3874,26 +3889,6 @@
         "Google",
         "Amazon",
         "Microsoft"
-      ],
-      "people": []
-    },
-    {
-      "title": "Akcie MetaX vyskočily o 700 % při debutu na šanghajské burze díky čínskému tlaku na AI čipy",
-      "description": "Čínská společnost MetaX Integrated Circuits, výrobce grafických procesorů pro umělou inteligenci, zaznamenala při prvním obchodování na šanghajské burze růst akcií o 700 %. Tento úspěch je výsledkem vládní kampaně za snížení závislosti na amerických čipech od firem Nvidia a AMD.",
-      "slug": "metax-soars-700-in-debut-as-china-ai-chips-push-lu",
-      "publishedAt": "2025-12-17T02:19:11+00:00",
-      "date": "2025-12-17 02:19:11",
-      "importance": 4,
-      "category": "ai čipy",
-      "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/31a670f1b4f9eeb6d6040fd6e99d7025",
-      "url": "/tech-news/2025-12-17/metax-soars-700-in-debut-as-china-ai-chips-push-lu/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [
-        "MetaX"
       ],
       "people": []
     },
