@@ -1,7 +1,90 @@
 {
-  "generated": "2025-12-23T20:38:40.879203+00:00",
+  "generated": "2025-12-24T01:12:26.732748+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Téměř 3,5 milionu postiženo v datovém úniku University of Phoenix spojeném s exploit Oracle EBS od Clop",
+      "description": "Univerzita Phoenix potvrdila datový únik postihující téměř 3,5 milionu současných a bývalých studentů, zaměstnanců, pedagogů a dodavatelů. Útok využil zero-day zranitelnost v systému Oracle E-Business Suite, kterou zneužila ransomware skupina Clop v srpnu 2025.",
+      "slug": "nearly-35m-affected-in-university-of-phoenix-breac",
+      "publishedAt": "2025-12-22T23:43:27+00:00",
+      "date": "2025-12-22 23:43:27",
+      "importance": 5,
+      "category": "datový únik",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/universityofphoenix.png",
+      "url": "/tech-news/2025-12-22/nearly-35m-affected-in-university-of-phoenix-breac/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Oracle"
+      ],
+      "people": []
+    },
+    {
+      "title": "Alphabet získává společnost s obnovitelnými zdroji Intersect za 4,75 miliardy dolarů",
+      "description": "Alphabet Inc., mateřská společnost Google, uzavřel dohodu o akvizici firmy Intersect Power LLC za 4,75 miliardy dolarů v hotovosti a převzetí jejího dluhu. Transakce má být dokončena v první polovině roku 2026 a slouží k urychlení výstavby datových center.",
+      "slug": "alphabet-acquires-renewable-energy-company-interse",
+      "publishedAt": "2025-12-22T23:26:01+00:00",
+      "date": "2025-12-22 23:26:01",
+      "importance": 5,
+      "category": "obnovitelné energie",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Google-3.png",
+      "url": "/tech-news/2025-12-22/alphabet-acquires-renewable-energy-company-interse/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Alphabet Inc",
+        "Google LLC"
+      ],
+      "people": []
+    },
+    {
+      "title": "Chaos Waymo během výpadku proudu v San Franciscu pravděpodobně způsoben selháním operačního managementu, ne chybou softwaru, říká expert",
+      "description": "„Co kdyby to byl zemětřesení? Tisíce robotaxi by blokovaly silnice.“",
+      "slug": "waymo-chaos-during-san-francisco-power-outage-like",
+      "publishedAt": "2025-12-22T23:05:34+00:00",
+      "date": "2025-12-22 23:05:34",
+      "importance": 4,
+      "category": "autonomní vozy",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/12/AP25355126332210-e1766444263493.jpg?resize=1200,600",
+      "url": "/tech-news/2025-12-22/waymo-chaos-during-san-francisco-power-outage-like/",
+      "source": {
+        "emoji": "📰",
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "companies": [
+        "Waymo"
+      ],
+      "people": []
+    },
+    {
+      "title": "Digitální banka Erebor Palmera Luckeyho dosáhla valuace 4,3 miliardy dolarů při posunu regulačního schválení bankovní licence",
+      "description": "Digitální banka Erebor, spoluzakládaná Palmerem Luckeym, získala 350 milionů dolarů při valuaci 4,35 miliardy dolarů. Schválení od Úřadu kontrolora měny (OCC) a Federální korporace pro pojištění vkladů (FDIC) ji přibližuje k plné bankovní licenci.",
+      "slug": "palmer-luckeys-erebor-hits-43b-valuation-as-regula",
+      "publishedAt": "2025-12-22T22:48:59+00:00",
+      "date": "2025-12-22 22:48:59",
+      "importance": 4,
+      "category": "fintech",
+      "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-12/019b4777-6f1a-7c02-b98b-36767769c70b.jpg",
+      "url": "/tech-news/2025-12-22/palmer-luckeys-erebor-hits-43b-valuation-as-regula/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Cointelegraph"
+      },
+      "companies": [
+        "Erebor"
+      ],
+      "people": [
+        "Palmer Luckey"
+      ]
+    },
     {
       "title": "Proč „levnější“ baterie představují miliardovou sázku na Čínu",
       "description": "Marketingové materiály pro příští dekádu ukládání energie staví na lithium-železo-fosfátových (LFP) bateriích jako na „rozumnou“ chemii bez kobaltu, niklu, etických problémů z dolů v Demokratické republice Kongo a bez rizika tepelného úniku.",
@@ -3388,27 +3471,6 @@
       "people": []
     },
     {
-      "title": "Akamai a Visa uzavírají partnerství pro posílení kontroly identity a prevence podvodů v agentické komerci",
-      "description": "Společnosti Akamai Technologies a Visa spustily strategické partnerství, které má posílit ověřování identity, autentizaci a ochranu proti podvodům v době, kdy autonomní AI agenti stále častěji interagují s online obchodníky. Řešení integruje protokol Visa Trusted Agent Protocol s edgeovými schopnostmi Akamai v oblasti chování uživatelů a detekce botů.",
-      "slug": "akamai-visa-partner-to-add-identity-and-fraud-cont",
-      "publishedAt": "2025-12-17T20:08:19+00:00",
-      "date": "2025-12-17 20:08:19",
-      "importance": 4,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://www.digitalcommerce360.com/wp-content/uploads/2025/12/AdobeStock_498758987_Editorial_Use_Only-scaled.jpeg",
-      "url": "/tech-news/2025-12-17/akamai-visa-partner-to-add-identity-and-fraud-cont/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "DigitalCommerce360"
-      },
-      "companies": [
-        "Akamai Technologies",
-        "Visa"
-      ],
-      "people": []
-    },
-    {
       "title": "Zastřelení profesora MIT Nuna Loureiro a jeho práce na jaderné fúzi s Commonwealth Fusion Systems",
       "description": "Profesor MIT Nuno Loureiro byl před dvěma dny zastřelen a zabit. Vedl katedru plazmových věd na MIT a spolupracoval s firmou Commonwealth Fusion Systems, jedním z předních startupů v oblasti jaderné fúze.",
       "slug": "mit-professor-nuno-loureiro-shooting-and-his-nucle",
@@ -3508,26 +3570,6 @@
       "people": []
     },
     {
-      "title": "Silné IPO další čínské čipové firmy vyvolává obavy z hype",
-      "description": "Další čipová společnost MetaX Integrated Circuits se listingovala na čínských trzích s nárůstem akcí o 700 procent, což posiluje obavy z přeceňování firem v sektoru umělé inteligence. Pekingský tlak na technologickou soběstačnost může vytvářet bublinu na burze navzdory technologickému zaostávání těchto firem.",
-      "slug": "bumper-ipo-by-another-china-chip-firm-raises-hype-",
-      "publishedAt": "2025-12-17T15:47:53+00:00",
-      "date": "2025-12-17 15:47:53",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://biztoc.com/cdn/955/og.png",
-      "url": "/tech-news/2025-12-17/bumper-ipo-by-another-china-chip-firm-raises-hype/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "companies": [
-        "MetaX Integrated"
-      ],
-      "people": []
-    },
-    {
       "title": "Čína prý postavila první prototyp EUV lithografického stroje, což je průlom v polovodičích, který USA obávají",
       "description": "Čínský polovodičový průmysl dosáhl významného pokroku, protože podle zprávy Reuters země vyvinula první domácí prototyp EUV lithografického stroje, který generuje UV světlo pro expozici fotoresistu. Prototyp je sestaven ze starších dílů firem jako ASML a měl by umožnit tape-out čipů do roku 2030.",
       "slug": "china-has-reportedly-built-its-first-euv-machine-p",
@@ -3584,47 +3626,6 @@
       "companies": [
         "Visa",
         "Akamai Technologies"
-      ],
-      "people": []
-    },
-    {
-      "title": "Apple letos v umělé inteligenci ustoupil. Příští rok bude rozhodující",
-      "description": "Apple odložil velký upgrade hlasového asistenta Siri na rok 2026. Společnost čelí rostoucímu tlaku investorů a konkurence, aby prokázala svou strategii v oblasti umělé inteligence.",
-      "slug": "apple-punted-on-ai-this-year-next-year-will-be-cri",
-      "publishedAt": "2025-12-17T12:00:01+00:00",
-      "date": "2025-12-17 12:00:01",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108157147-1749563655320-gettyimages-2218818281-APPLE_WWDC.jpeg?v=1765921860&w=1920&h=1080",
-      "url": "/tech-news/2025-12-17/apple-punted-on-ai-this-year-next-year-will-be-cri/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNBC"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
-      "title": "Amazon zvažuje investici 10 miliard dolarů a dohodu o čipech s OpenAI",
-      "description": "Amazon prý rokuje o investici přibližně 10 miliard dolarů do OpenAI, což by mohlo firmu ocenit na více než 500 miliard dolarů. Jednání zahrnují také využití čipů Trainium od Amazonu a prodej podnikové verze ChatGPT.",
-      "slug": "amazon-eyes-10-billion-investment-and-chip-deal-in",
-      "publishedAt": "2025-12-17T11:55:33+00:00",
-      "date": "2025-12-17 11:55:33",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2025/11/openai-amazon-web-services-aws-cloud-computing-infrastructure.jpg?w=457",
-      "url": "/tech-news/2025-12-17/amazon-eyes-10-billion-investment-and-chip-deal-in/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "pymnts.com"
-      },
-      "companies": [
-        "Amazon",
-        "OpenAI"
       ],
       "people": []
     },
