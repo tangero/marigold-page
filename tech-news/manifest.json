@@ -1,7 +1,125 @@
 {
-  "generated": "2025-12-24T16:39:37.211502+00:00",
+  "generated": "2025-12-24T20:34:54.785369+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Zoox stahuje software kvůli překračování pruhů",
+      "description": "Společnost Zoox vydala aktualizaci softwaru pro svůj systém autonomního řízení, aby opravila chování vozidel při překračování středové čáry u křižovatek a blokování přechodů pro chodce.",
+      "slug": "zoox-issues-software-recall-over-lane-crossings-te",
+      "publishedAt": "2025-12-23T19:52:57+00:00",
+      "date": "2025-12-23 19:52:57",
+      "importance": 4,
+      "category": "autonomní řízení",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/Zoox-San-Francisco-closeup-robotaxi.jpg?resize=1200,675",
+      "url": "/tech-news/2025-12-23/zoox-issues-software-recall-over-lane-crossings-te/",
+      "source": {
+        "emoji": "🚀",
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "companies": [
+        "Zoox"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nvidia míří na dodávky čipů H200 do Číny do poloviny února",
+      "description": "Nvidia plánuje odeslat své výkonné AI čipy H200 do Číny před lunárním Novým rokem. Počáteční dodávky použijí stávající zásoby v objemu 5 000 až 10 000 modulů čipů, což odpovídá přibližně 40 000 až 80 000 kusům samotných čipů H200. Společnost navíc chystá novou výrobní kapacitu pro rok 2026.",
+      "slug": "nvidia-aims-at-shipments-of-h200-chips-to-china-by",
+      "publishedAt": "2025-12-23T19:10:09+00:00",
+      "date": "2025-12-23 19:10:09",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126147448,width-1200,height-630,imgsize-17916,overlay-economictimes/articleshow.jpg",
+      "url": "/tech-news/2025-12-23/nvidia-aims-at-shipments-of-h200-chips-to-china-by/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Bristol Myers Squibb připravuje řadu uvedení léků v Indii s rychlostí 'AI'",
+      "description": "Bristol Myers Squibb považuje Indii za klíčový růstový motor a investuje přes 100 milionů dolarů do AI pro urychlení komercializace léků. Nové přípravky na srdeční onemocnění a rakovinu brzy dorazí na indický trh díky novému Gen AI hubu ve spolupráci s Accenture.",
+      "slug": "bristol-myers-lines-up-many-launches-for-india-wit",
+      "publishedAt": "2025-12-23T18:47:48+00:00",
+      "date": "2025-12-23 18:47:48",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126147053,width-1200,height-630,imgsize-59436,overlay-economictimes/articleshow.jpg",
+      "url": "/tech-news/2025-12-23/bristol-myers-lines-up-many-launches-for-india-wit/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Kanada podporuje 8miliardovou dohodu o evropských datových centrech",
+      "description": "Kanadské CPP Investments uzavřelo partnerství s Goodmanem na výstavbu datových center v Frankfurtu, Amsterdamu a Paříži. Dohoda má celkovou hodnotu 8 miliard eur a reaguje na rostoucí poptávku po výpočetní infrastruktuře.",
+      "slug": "canada-backs-8-billion-european-data-centre-deal",
+      "publishedAt": "2025-12-23T18:32:35+00:00",
+      "date": "2025-12-23 18:32:35",
+      "importance": 4,
+      "category": "datová centra",
+      "urlToImage": "https://cdn.iphoneincanada.ca/wp-content/uploads/2025/12/CPP.jpg",
+      "url": "/tech-news/2025-12-23/canada-backs-8-billion-european-data-centre-deal/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "iPhone in Canada"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "8 startupů, do kterých investoval Sam Altman mimo OpenAI v roce 2025",
+      "description": "Od jaderné fúze a biologické bezpečnosti po doručovací roboty a online vysoké školy, podrobný pohled na investice Sama Altmana do startupů v roce 2025.",
+      "slug": "A-8-startups-sam-altman-invested-in-outside-openai",
+      "publishedAt": "2025-12-23T18:24:49+00:00",
+      "date": "2025-12-23 18:24:49",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://observer.com/wp-content/uploads/sites/2/2025/12/GettyImages-2198164367.jpg?quality=80",
+      "url": "/tech-news/2025-12-23/A-8-startups-sam-altman-invested-in-outside-openai/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Observer"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": [
+        "Sam Altman"
+      ]
+    },
+    {
+      "title": "Ocenění tech banky Erebor dosáhlo 4,35 miliardy dolarů",
+      "description": "Bankovní startup Erebor Bank zaměřený na Silicon Valley by měl získat 350 milionů dolarů v novém kole financování, což by ho ohodnotilo na 4,35 miliardy dolarů, uvedl Bloomberg. Banka podporovaná Peterem Thielem a Palmerem Luckeym se profiluje jako náhrada za zkrachovalou Silicon Valley Bank.",
+      "slug": "erebor-sees-valuation-for-tech-focused-bank-hit-43",
+      "publishedAt": "2025-12-23T18:07:12+00:00",
+      "date": "2025-12-23 18:07:12",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2025/05/bank-capital-requirements.png",
+      "url": "/tech-news/2025-12-23/erebor-sees-valuation-for-tech-focused-bank-hit-43/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [
+        "Erebor Bank"
+      ],
+      "people": []
+    },
     {
       "title": "Desítky živých přenosů z AI kamer Flock byly volně dostupné na internetu",
       "description": "Živé přenosy z více než 60 AI kamer firmy Flock pro dohled byly dostupné na webu bez autentizace, což umožnilo kdokoli s odkazem sledovat lidi a vozidla v reálném čase. Chybu odhalili youtuber Benn Jordan a 404 Media přes vyhledávač Shodan.",
@@ -3707,26 +3825,6 @@
       "people": []
     },
     {
-      "title": "OpenAI vydalo GPT Image 1.5 s rychlejším generováním a přesnějšími úpravami",
-      "description": "OpenAI vydalo svůj nejnovější model pro obrázky GPT Image 1.5, který nabízí až čtyřnásobně rychlejší generování obrázků, přesnější úpravy a lepší soulad s pokyny uživatelů. Tento update je dostupný pro všechny uživatele ChatGPT a API globálně.",
-      "slug": "openai-launches-gpt-image-15-with-faster-generatio",
-      "publishedAt": "2025-12-17T19:06:19+00:00",
-      "date": "2025-12-17 19:06:19",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/12/OpenAI-logo-icon-on-an-abstract-purple-black-background.jpg?quality=50&strip=all&w=1024",
-      "url": "/tech-news/2025-12-17/openai-launches-gpt-image-15-with-faster-generatio/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "PCWorld"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
       "title": "Visa a Akamai spolupracují na řešení problémů s identitou v agentické komerci",
       "description": "Visa a společnost Akamai Technologies, zaměřená na kyberbezpečnost a cloudové výpočty, společně posilují důvěru v agentickou komerci. Integrují protokol Trusted Agent Protocol od Visa s hraniční behaviorální inteligencí, rozpoznáváním uživatelů a ochranou proti botům a zneužití od Akamai.",
       "slug": "visa-and-akamai-collaborate-to-solve-identity-chal",
@@ -3789,27 +3887,6 @@
       "people": []
     },
     {
-      "title": "OpenAI jedná o získání nejméně 12,9 miliardy dolarů od Amazonu a použití jeho AI čipů",
-      "description": "OpenAI vede počáteční rozhovory o investici nejméně 10 miliard USD od Amazonu, což by mohlo zvýšit jeho valuaci nad 500 miliard USD. Firma by přitom začala používat Amazonovy čipy Trainium pro trénink AI modelů.",
-      "slug": "openai-in-talks-to-raise-at-least-129-billion-from",
-      "publishedAt": "2025-12-17T04:23:43+00:00",
-      "date": "2025-12-17 04:23:43",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/e308e310f240f0f79b0aed3ef4618d56c1d1233b85481a22c853b79687488edf",
-      "url": "/tech-news/2025-12-17/openai-in-talks-to-raise-at-least-129-billion-from/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Straits Times"
-      },
-      "companies": [
-        "OpenAI",
-        "Amazon"
-      ],
-      "people": []
-    },
-    {
       "title": "Tesla používala zavádějící jazyk v marketingu Autopilotu, rozhodl kalifornský soudce",
       "description": "Prodej Tesly v Kalifornii by měl být na 30 dní pozastaven kvůli zavádějícímu marketingu systémů Autopilot a Full Self-Driving, které matoucí prezentovaly vozidla jako schopná plně autonomní jízdy úrovně 5. Kalifornské DMV v roce 2022 obvinilo automobilku z klamavého jazyka a soudce s tím souhlasí, ale dává Tesle 90 dní na opravu materiálů.",
       "slug": "tesla-used-deceptive-language-to-market-autopilot-",
@@ -3848,28 +3925,6 @@
       "people": []
     },
     {
-      "title": "OpenAI jedná o investici minimálně 10 miliard dolarů od Amazonu a použití jeho AI čipů",
-      "description": "OpenAI je v raných jednáních s Amazonem o získání nejméně 10 miliard dolarů a přijetí Trainium AI čipů. Dohoda by mohla zvýšit valuaci OpenAI nad 500 miliard dolarů a pomoci Amazonu v konkurenci s Nvidia v oblasti AI hardware.",
-      "slug": "openai-in-talks-to-raise-at-least-10-billion-from-",
-      "publishedAt": "2025-12-17T03:12:38+00:00",
-      "date": "2025-12-17 03:12:38",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-37872,resizemode-75,msid-126029712/tech/artificial-intelligence/openai-in-talks-to-raise-at-least-10-billion-from-amazon-and-use-its-ai-chips.jpg",
-      "url": "/tech-news/2025-12-17/openai-in-talks-to-raise-at-least-10-billion-from/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "OpenAI",
-        "Amazon",
-        "Nvidia"
-      ],
-      "people": []
-    },
-    {
       "title": "Nadcházející krize s AI agenty: Proč je nový bezpečnostní standard od Okta nezbytností pro podniky",
       "description": "Mezi prvními adoptéry jsou Google, Amazon a Microsoft. Nový standard poskytne organizacím větší viditelnost a kontrolu nad přístupy externích aplikací, zejména AI agentů. Zde je vysvětleno, jak funguje.",
       "slug": "the-coming-ai-agent-crisis-why-oktas-new-security-",
@@ -3889,49 +3944,6 @@
         "Google",
         "Amazon",
         "Microsoft"
-      ],
-      "people": []
-    },
-    {
-      "title": "OpenAI najímá bývalého šéfa britského ministerstva financí k vedení iniciativy ‚OpenAI pro země‘",
-      "description": "OpenAI najalo bývalého šéfa britského ministerstva financí George Osborne, aby vedl práci společnosti s vládami. Osborne nastoupí jako ‚Head of OpenAI for Countries‘ a zaměří se na pomoc při integraci AI do ekonomických strategií a služeb jako zdravotnictví či vzdělávání.",
-      "slug": "openai-hires-former-uk-treasury-chief-to-lead-open",
-      "publishedAt": "2025-12-17T01:39:37+00:00",
-      "date": "2025-12-17 01:39:37",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2025/12/OpenAI-for-Countries1.jpg",
-      "url": "/tech-news/2025-12-17/openai-hires-former-uk-treasury-chief-to-lead-open/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "pymnts.com"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": [
-        "George Osborne"
-      ]
-    },
-    {
-      "title": "OpenAI spustilo nový model GPT Image 1.5 optimalizovaný pro úpravu obrázků",
-      "description": "Společnost OpenAI Group PBC dnes spustila GPT Image 1.5, nový model umělé inteligence určený pro generování a úpravu obrázků. Tento model přichází krátce po uvedení podobného nástroje Nano Banana Pro od Google a přináší vylepšení v rychlosti, přesnosti a ceně.",
-      "slug": "openai-launches-new-gpt-image-15-model-optimized-f",
-      "publishedAt": "2025-12-17T01:21:41+00:00",
-      "date": "2025-12-17 01:21:41",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/OpenAI.png",
-      "url": "/tech-news/2025-12-17/openai-launches-new-gpt-image-15-model-optimized-f/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "OpenAI",
-        "Google"
       ],
       "people": []
     },
@@ -3996,26 +4008,6 @@
       "people": [
         "Elon Musk"
       ]
-    },
-    {
-      "title": "Únik dat Pornhubu: Hackeři ukradli záznamy aktivity prémiových uživatelů",
-      "description": "Skupina ShinyHunters, spojená s úniky dat Qantas a Google, tvrdí, že vedla útok. Ukradeno bylo 94 GB dat s více než 200 miliony záznamů o chování uživatelů.",
-      "slug": "pornhub-data-breach-hackers-steal-premium-user-act",
-      "publishedAt": "2025-12-17T00:16:24+00:00",
-      "date": "2025-12-17 00:16:24",
-      "importance": 5,
-      "category": "kybernetika",
-      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/MF2SVWO5HW2QF5MKVXXFB3H77U.jpg?auth=344253d7ad5c8ad51ff0030ffc531300734c68f5c14438bfe9a47ef4baa3e377&width=1200&height=675&quality=70&smart=true",
-      "url": "/tech-news/2025-12-17/pornhub-data-breach-hackers-steal-premium-user-act/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "New Zealand Herald"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
     }
   ]
 }
