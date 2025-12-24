@@ -1,7 +1,45 @@
 {
-  "generated": "2025-12-24T08:47:08.455557+00:00",
+  "generated": "2025-12-24T12:44:54.469928+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Strategie Apple pro rok 2026: Devět nových produktů na zahájení roku",
+      "description": "Apple se připravuje na uvedení devíti nových produktů na začátku roku 2026, což podtrhuje závazek k pokroku v technologii a zlepšení uživatelských zážitků. Řada zahrnuje MacBooky, iPady, chytrá domácí zařízení a příslušenství s důrazem na výkon, design a funkčnost.",
+      "slug": "apples-2026-strategy-9-new-products-to-start-the-y",
+      "publishedAt": "2025-12-23T12:00:04+00:00",
+      "date": "2025-12-23 12:00:04",
+      "importance": 4,
+      "category": "hardware",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/apple-2026-product-lineup-overview_optimized.jpg",
+      "url": "/tech-news/2025-12-23/apples-2026-strategy-9-new-products-to-start-the-y/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Druhý pokus Číny o dokončení testu opakovaně použitelné rakety selhal",
+      "description": "První stupeň rakety Long March 12A se nepodařilo zotavit při jejím prvním letu, přesto druhý stupeň úspěšně dosáhl plánované orbity. Čínské firmy se snaží dohnat technologii SpaceX v oblasti opakovaně použitelných nosných raket.",
+      "slug": "chinas-second-attempt-at-completing-a-reusable-roc",
+      "publishedAt": "2025-12-23T11:14:15+00:00",
+      "date": "2025-12-23 11:14:15",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F3%2F4%2F4%2F11864436-2-eng-GB%2F33cf3338d543-2025-12-03T104835Z_1098852902_RC2Y8IA9RJIB_RTRMADP_3_SPACE-CHINA-LANDSPACE.JPG?width=1260&fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=auto&height=630",
+      "url": "/tech-news/2025-12-23/chinas-second-attempt-at-completing-a-reusable-roc/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Nikkei.com"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Truist upozorňuje na volatilitu autonomního řízení navzdory vyššímu cenovému cíli pro Tesla (TSLA)",
       "description": "Analytici Truist Securities zvýšili cenový cíl akcie Tesla na 444 USD z 406 USD při udržení doporučení „držet“. Firma zdůrazňuje rizika volatility spojená s vývojem autonomního řízení, včetně technologie Full Self-Driving (FSD) a služby Robotaxi.",
@@ -3636,24 +3674,6 @@
       ]
     },
     {
-      "title": "Jak Čína vybudovala svůj ‚Manhattan Project‘ k rivalitě se Západem v AI čipech",
-      "description": "EUV stroj v testování. Čínští vědci postavili prototyp lithografického stroje pro výrobu pokročilých polovodičových čipů.",
-      "slug": "how-china-built-its-manhattan-project-to-rival-the",
-      "publishedAt": "2025-12-17T19:50:11+00:00",
-      "date": "2025-12-17 19:50:11",
-      "importance": 5,
-      "category": "ai čipy",
-      "urlToImage": "https://i.nextmedia.com.au/News/semiconductor.jpg",
-      "url": "/tech-news/2025-12-17/how-china-built-its-manhattan-project-to-rival-the/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "iTnews"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Když vaše vlastnictví věci, kterou jste koupili, závisí na pokračujících platbách",
       "description": "S rozvojem internetu věcí a integrací síťových počítačů do každodenních interakcí může funkčnost téměř libovolného zařízení nebo služby záviset na udržování dobrého vztahu mezi poskytovatelem a zákazníkem. Článek poukazuje na rizika závislosti na cloudových infrastrukturách a předplatných modelech u automobilů.",
       "slug": "when-your-ownership-of-something-you-bought-depend",
@@ -3688,27 +3708,6 @@
       },
       "companies": [
         "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Intel instaloval první komerční lithografický nástroj High-NA EUV v oboru — ASML Twinscan EXE:5200B připravuje půdu pro 14A",
-      "description": "Intel instaloval a kvalifikoval TWINSCAN EXE:5200B od ASML, první lithografický nástroj High-NA EUV určený pro komerční výrobu čipů, což potvrzuje plány na použití High-NA EUV pro technologii 14A a následné uzly.",
-      "slug": "intel-installs-industrys-first-commercial-high-na-",
-      "publishedAt": "2025-12-17T12:25:00+00:00",
-      "date": "2025-12-17 12:25:00",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/pSy7xJedzqveFGvQJgoiTj-1280-80.jpg",
-      "url": "/tech-news/2025-12-17/intel-installs-industrys-first-commercial-high-na/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "companies": [
-        "Intel",
-        "ASML"
       ],
       "people": []
     },
