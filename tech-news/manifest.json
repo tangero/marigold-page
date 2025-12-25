@@ -1,7 +1,125 @@
 {
-  "generated": "2025-12-25T04:51:23.338710+00:00",
+  "generated": "2025-12-25T08:39:05.424810+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Gemini Voice přináší rychlou multispeakerovou audio, bohaté styly a 32k kontextové okno",
+      "description": "Systém Gemini Text-to-Speech (TTS) od Google, poháněný modely Gemini 2.5, generuje živou řeč s podporou více mluvčích, emotivními tóny a 24 jazyky. Umožňuje tvorbu audioknih, podcastů nebo konverzačních AI s vysokou mírou přizpůsobitelnosti.",
+      "slug": "gemini-voice-brings-fast-multi-speaker-audio-rich-",
+      "publishedAt": "2025-12-24T07:00:46+00:00",
+      "date": "2025-12-24 07:00:46",
+      "importance": 4,
+      "category": "syntéza řeči",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/google-gemini-speech-flash-vs-pro_optimized.jpg",
+      "url": "/tech-news/2025-12-24/gemini-voice-brings-fast-multi-speaker-audio-rich/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Akcie Groww vzrostly o 9 %, celkově o 76 % od výdejové ceny. Co pohání tento růst?",
+      "description": "Akcie mateřské společnosti Groww vyskočily o 9,5 % na 175,60 Rs díky očekávanému zařazení do indexu BSE Large Cap a spuštění nouzové obchodní platformy Groww Lite. Od IPO za 100 Rs akcie vzrostly o 75,6 %.",
+      "slug": "groww-shares-soar-9-with-the-stock-up-76-from-issu",
+      "publishedAt": "2025-12-24T06:34:24+00:00",
+      "date": "2025-12-24 06:34:24",
+      "importance": 4,
+      "category": "fintech",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126154669,width-1200,height-630,imgsize-68384,overlay-etmarkets/articleshow.jpg",
+      "url": "/tech-news/2025-12-24/groww-shares-soar-9-with-the-stock-up-76-from-issu/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Groww"
+      ],
+      "people": []
+    },
+    {
+      "title": "Tento nový 3D čip by mohl prolomit největší úzké místo AI",
+      "description": "Výzkumníci vytvořili nový typ 3D počítačového čipu, který vertikálně ukládá paměť a výpočetní prvky, což výrazně zrychluje přenos dat uvnitř čipu. Na rozdíl od tradičních plochých designů tento přístup eliminuje zácpy, které omezují současný hardware pro AI.",
+      "slug": "this-new-3d-chip-could-break-ais-biggest-bottlenec",
+      "publishedAt": "2025-12-24T06:21:36+00:00",
+      "date": "2025-12-24 06:21:36",
+      "importance": 4,
+      "category": "3d čipy",
+      "urlToImage": "https://www.sciencedaily.com/images/1920/3d-chip-breakthrough-to-accelerate-ai.webp",
+      "url": "/tech-news/2025-12-24/this-new-3d-chip-could-break-ais-biggest-bottlenec/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Science Daily"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Japonský Rapidus se chystá konkurovat TSMC a Samsungu v nadvládě nad čipy",
+      "description": "Rapidus, japonské úsilí o vytvoření domácí alternativy k výrobě čipů TSMC a Samsung Foundry, se stává široce podpořeným národním průmyslovým projektem. Projekt cílí na komerční výrobu čipů na 2nanometrovém nodu v roce 2027.",
+      "slug": "japans-rapidus-set-to-rival-tsmc-and-samsung-for-c",
+      "publishedAt": "2025-12-24T06:11:13+00:00",
+      "date": "2025-12-24 06:11:13",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://asiatimes.com/wp-content/uploads/2025/12/Rapidus-Japan-Chips-Chip-Making.jpg",
+      "url": "/tech-news/2025-12-24/japans-rapidus-set-to-rival-tsmc-and-samsung-for-c/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Asia Times"
+      },
+      "companies": [
+        "Rapidus",
+        "TSMC",
+        "Samsung"
+      ],
+      "people": []
+    },
+    {
+      "title": "Holandská flotila Tesel zbankrotovala po vsazení na Muskovy sliby o autonomním řízení",
+      "description": "Holandská leasingová a půjčovní firma Mistergreen čelí insolvenci poté, co postavila svůj byznys model na předpokladu, že vozy Tesla se stanou autonomními robotaxi generujícími příjmy. Kdysi propagátor elektromobility prodává nyní svou flotilu přes 4000 vozů jiným evropským firmám.",
+      "slug": "dutch-tesla-fleet-goes-bankrupt-after-betting-on-m",
+      "publishedAt": "2025-12-24T05:26:36+00:00",
+      "date": "2025-12-24 05:26:36",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://guessingheadlights.com/wp-content/uploads/2025/09/shutterstock_716182159-scaled-e1760803515837.jpg",
+      "url": "/tech-news/2025-12-24/dutch-tesla-fleet-goes-bankrupt-after-betting-on-m/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Guessingheadlights.com"
+      },
+      "companies": [
+        "Tesla"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Globální investoři se obracejí k čínským AI akcím kvůli obavám z valuací na Wall Streetu",
+      "description": "Globální investoři přesouvají kapitál do čínských firem zaměřených na umělou inteligenci, protože vysoké valuace amerických technologických akcií vyvolávají obavy z bubliny. Silná podpora politiky, úspěšné burzovní debuty čipových výrobců a snaha Číny o technologickou soběstačnost zvyšují zájem na těchto trzích.",
+      "slug": "global-investors-turn-to-chinese-ai-stocks-amid-wa",
+      "publishedAt": "2025-12-24T05:14:30+00:00",
+      "date": "2025-12-24 05:14:30",
+      "importance": 4,
+      "category": "ai akcie",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126153431,width-1200,height-630,imgsize-55742,overlay-etmarkets/articleshow.jpg",
+      "url": "/tech-news/2025-12-24/global-investors-turn-to-chinese-ai-stocks-amid-wa/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Top 10 příběhů umělé inteligence roku 2025",
       "description": "Žádná téma neovládla rok 2025 tak jako umělá inteligence – ať už šlo o DeepSeek, diskuse o výpočetních zdrojích, nízkou návratnost investic nebo hype okolo agentic AI. Zde jsou top 10 příběhů umělé inteligence podle Computer Weekly.",
@@ -3047,26 +3165,6 @@
       "people": []
     },
     {
-      "title": "Anthropic zpřístupňuje dovednosti agentů jako otevřený standard",
-      "description": "Anthropic aktualizoval funkci Skills pro svůj model Claude, která umožňuje firmám učit velké jazykové modely specifickým pracovním úkolům. Tato změna zahrnuje otevření specifikace jako otevřeného standardu, což usnadňuje sdílení a nasazení nových dovedností.",
-      "slug": "anthropic-makes-agent-skills-an-open-standard",
-      "publishedAt": "2025-12-18T23:29:42+00:00",
-      "date": "2025-12-18 23:29:42",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Screenshot-from-2025-12-19-06-24-54.png",
-      "url": "/tech-news/2025-12-18/anthropic-makes-agent-skills-an-open-standard/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Anthropic"
-      ],
-      "people": []
-    },
-    {
       "title": "Predikce ceny Tesly, rozjezd Cybercabu a plány na IPO SpaceX",
       "description": "Rozjezd výroby Tesly Cybercab v roce 2026 by mohl zásadně změnit dopravu a ekonomiku společnosti Tesla. Článek nabízí projekce tempa výroby a odhady vývoje ceny akcií včetně zmínky o možném IPO SpaceX.",
       "slug": "tesla-predictions-price-cybercab-ramp-spacex-ipo-d",
@@ -3258,24 +3356,6 @@
       "people": []
     },
     {
-      "title": "Na shledanou 2025, nebudeš nám chybět",
-      "description": "Tento týden Joe Marshall bilancuje rok 2025 v kyberbezpečnosti a nazírá do očekávaných trendů pro rok 2026, včetně intenzivních ransomware útoků.",
-      "slug": "adios-2025-you-wont-be-missed",
-      "publishedAt": "2025-12-18T19:00:31+00:00",
-      "date": "2025-12-18 19:00:31",
-      "importance": 4,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://blog.talosintelligence.com/content/images/size/w1200/2025/12/threat-source-newsletter-2.jpg",
-      "url": "/tech-news/2025-12-18/adios-2025-you-wont-be-missed/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Talosintelligence.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Fúzní dohoda: Proč se Trump Media spojuje s TAE Technologies",
       "description": "TAE Technologies tvrdí, že silná bilance TMTG poskytne kapitál potřebný k uvedení první fúzní elektrárny v USA do roku 2031.",
       "slug": "fusion-deal-why-trump-media-is-merging-with-tae-te",
@@ -3314,26 +3394,6 @@
       "companies": [
         "IIT-Kharagpur",
         "Intuitive Foundation"
-      ],
-      "people": []
-    },
-    {
-      "title": "Bezpečnost agentických AI v cílech akvizic ServiceNow",
-      "description": "ServiceNow posiluje svou platformu sérií akvizic zaměřených na bezpečnost a správu agentických AI. Cílem je vytvořit jednotnou bezpečnou platformu pro podnikové IT prostředí.",
-      "slug": "agentic-ai-security-focus-of-servicenow-acquisitio",
-      "publishedAt": "2025-12-18T16:02:00+00:00",
-      "date": "2025-12-18 16:02:00",
-      "importance": 5,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://www.techtarget.com/rms/onlineimages/security_a210892891.jpg",
-      "url": "/tech-news/2025-12-18/agentic-ai-security-focus-of-servicenow-acquisitio/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Techtarget.com"
-      },
-      "companies": [
-        "ServiceNow"
       ],
       "people": []
     },
@@ -3482,26 +3542,6 @@
         "James Altucher",
         "Elon Musk"
       ]
-    },
-    {
-      "title": "Accenture překonala odhady tržeb za první čtvrtletí díky poptávce po službách AI",
-      "description": "Accenture překonala očekávání Wall Street pro tržby v prvním čtvrtletí díky silné poptávce po svých řešeních umělé inteligence, která pomáhají klientům integrovat tuto technologii pro zvýšení produktivity. Firma oznámila nové zakázky v hodnotě 21 miliard dolarů a uzavřela partnerství s Anthropic a OpenAI.",
-      "slug": "accenture-beats-quarterly-revenue-estimate",
-      "publishedAt": "2025-12-18T11:43:16+00:00",
-      "date": "2025-12-18 11:43:16",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--17QqXXEG--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-12-18T114316Z_1_LYNXMPELBH0MB_RTROPTP_3_ACCENTURE-OPENAI-AI.JPG?itok=ez9KSWhC",
-      "url": "/tech-news/2025-12-18/accenture-beats-quarterly-revenue-estimate/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNA"
-      },
-      "companies": [
-        "Accenture"
-      ],
-      "people": []
     },
     {
       "title": "Exploit React2Shell se šíří, Microsoft eviduje stovky hacknutých počítačů",
@@ -3809,26 +3849,6 @@
       "people": []
     },
     {
-      "title": "Apple oznámil rozsáhlé změny v App Store a iPhone v Japonsku",
-      "description": "Kvůli souladu se Zákonem o konkurenci mobilního softwaru (MSCA) Apple zavádí významné změny v App Store a na zařízeních iPhone v Japonsku. Změny přinášejí vývojářům nové možnosti distribuce aplikací a pravidla pro alternativní platební systémy v App Store.",
-      "slug": "apple-announces-sweeping-app-store-and-iphone-chan",
-      "publishedAt": "2025-12-18T01:00:00+00:00",
-      "date": "2025-12-18 01:00:00",
-      "importance": 4,
-      "category": "mobilní aplikace",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/12/app-store-japan-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-12-18/apple-announces-sweeping-app-store-and-iphone-chan/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
       "title": "Micron zvyšuje kapitálové výdaje na fiskální rok 2026 na 20 miliard USD pro urychlení HBM a výroby v USA",
       "description": "Micron Technology navyšuje kapitálové výdaje na fiskální rok 2026 na přibližně 20 miliard USD, aby řešila nedostatek pamětí. Investice se zaměří na vysokopásmovou paměť HBM a pokročilé uzly DRAM v reakci na rostoucí poptávku poháněnou AI.",
       "slug": "micron-hikes-fy26-capex-to-us20b-to-accelerate-hbm",
@@ -3986,24 +4006,6 @@
       "people": [
         "Donald Trump"
       ]
-    },
-    {
-      "title": "Když vaše vlastnictví věci, kterou jste koupili, závisí na pokračujících platbách",
-      "description": "S rozvojem internetu věcí a integrací síťových počítačů do každodenních interakcí může funkčnost téměř libovolného zařízení nebo služby záviset na udržování dobrého vztahu mezi poskytovatelem a zákazníkem. Článek poukazuje na rizika závislosti na cloudových infrastrukturách a předplatných modelech u automobilů.",
-      "slug": "when-your-ownership-of-something-you-bought-depend",
-      "publishedAt": "2025-12-17T19:31:00+00:00",
-      "date": "2025-12-17 19:31:00",
-      "importance": 5,
-      "category": "internet věcí",
-      "urlToImage": "https://substackcdn.com/image/fetch/$s_!l618!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7fdcb947-f4a9-4553-b694-3991e6365a06_4500x3000.jpeg",
-      "url": "/tech-news/2025-12-17/when-your-ownership-of-something-you-bought-depend/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Commonplace.org"
-      },
-      "companies": [],
-      "people": []
     }
   ]
 }
