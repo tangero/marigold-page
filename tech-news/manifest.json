@@ -1,7 +1,183 @@
 {
-  "generated": "2025-12-25T16:36:36.546497+00:00",
+  "generated": "2025-12-25T20:35:57.541233+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Snowflake v jednáních o akvizici Observe pro rozšíření nabídky AI",
+      "description": "Snowflake údajně jedná o akvizici společnosti Observe za přibližně 1 miliardu dolarů, aby rozšířil svou nabídku umělé inteligence. Tato akvizice by přidala nástroje pro monitorování aplikací, včetně těch založených na AI, do portfolia Snowflake.",
+      "slug": "snowflake-in-talks-to-acquire-observe-to-expand-ra",
+      "publishedAt": "2025-12-24T19:36:22+00:00",
+      "date": "2025-12-24 19:36:22",
+      "importance": 5,
+      "category": "ai",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2025/12/Snowflake-Observe1.jpg",
+      "url": "/tech-news/2025-12-24/snowflake-in-talks-to-acquire-observe-to-expand-ra/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [
+        "Snowflake",
+        "Observe"
+      ],
+      "people": []
+    },
+    {
+      "title": "Samsung vyrábí senzory kamer pro iPhone 18 ve Spojených státech",
+      "description": "Apple navázal partnerství se Samsungem na výrobu pokročilých senzorů kamer pro iPhone 18 v Texasu, což mění dlouhodobé normy dodavatelského řetězce. Tento krok posiluje domácí produkci klíčových komponent v USA.",
+      "slug": "samsung-is-making-iphone-18-camera-sensors-in-us",
+      "publishedAt": "2025-12-24T19:11:28+00:00",
+      "date": "2025-12-24 19:11:28",
+      "importance": 4,
+      "category": "mobilní hardware",
+      "urlToImage": "https://cdn.iphoneincanada.ca/wp-content/uploads/2025/12/camera-controljpeg.jpg",
+      "url": "/tech-news/2025-12-24/samsung-is-making-iphone-18-camera-sensors-in-us/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "iPhone in Canada"
+      },
+      "companies": [
+        "Apple",
+        "Samsung"
+      ],
+      "people": []
+    },
+    {
+      "title": "Akcie dosáhly dalších rekordů na zkrácený sváteční den",
+      "description": "Wall Street uzavřela výše a dosáhla nových rekordů ve středu na zkrácený obchodní den před Vánoci. Index S&P 500 vzrostl o 22,26 bodu neboli 0,3 % na 6 932,05, Dow Jones Industrial Average přidal 288,75 bodu neboli 0,6 % na 48 731,16 a Nasdaq Composite o 51,46 bodu neboli 0,2 % na 23 613,31.",
+      "slug": "stocks-hit-more-records-on-holiday-shortened-day",
+      "publishedAt": "2025-12-24T18:31:53+00:00",
+      "date": "2025-12-24 18:31:53",
+      "importance": 5,
+      "category": "burza",
+      "urlToImage": "https://img1-azrcdn.newser.com/image/1654734-12-20251224123153.jpeg",
+      "url": "/tech-news/2025-12-24/stocks-hit-more-records-on-holiday-shortened-day/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Newser"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Silicon Valley Acquisition Corp. oznámila uzavření počáteční veřejné nabídky za 200 milionů dolarů",
+      "description": "Silicon Valley Acquisition Corp. uzavřela IPO 20 milionů units po 10 USD za kus, což přineslo 200 milionů USD hrubých výnosů. Společnost, zaměřená na akvizice v tech sektorech včetně AI a fintechu, začala obchodovat na Nasdaq pod symbolem SVAQU.",
+      "slug": "silicon-valley-acquisition-corp-announces-closing-",
+      "publishedAt": "2025-12-24T18:30:00+00:00",
+      "date": "2025-12-24 18:30:00",
+      "importance": 4,
+      "category": "burzovní uvedení",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/000b4934-7dbb-4661-9431-df01327f2fe7",
+      "url": "/tech-news/2025-12-24/silicon-valley-acquisition-corp-announces-closing/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Apple AI musí projít testem 2000 otázek v Číně",
+      "description": "Apple Intelligence musí odmítnout většinu z 2000 citlivých otázek, aby splnila čínské cenzurní testy před uvedením na pevninské Číně. Tento požadavek klade důraz na přizpůsobení umělé inteligence místním regulacím.",
+      "slug": "apple-ai-must-pass-2000-question-test-in-china",
+      "publishedAt": "2025-12-24T18:28:21+00:00",
+      "date": "2025-12-24 18:28:21",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://cdn.iphoneincanada.ca/wp-content/uploads/2025/12/Apple-Intelligence.png",
+      "url": "/tech-news/2025-12-24/apple-ai-must-pass-2000-question-test-in-china/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "iPhone in Canada"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Demokrates varují, že Trumpovo schválení prodeje AI čipů Nvidia by posílilo vojenskou převahu Číny",
+      "description": "Poslanci demokratů nesouhlasí s prodejem pokročilých čipů H200 od NVIDIA do Číny a označují rozhodnutí Trumpovy administrativy za hrozbu pro bezpečnost USA.",
+      "slug": "democrats-warn-trump-green-lighting-nvidia-ai-chip",
+      "publishedAt": "2025-12-24T18:14:00+00:00",
+      "date": "2025-12-24 18:14:00",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/gregory-meeks-sits-in-committee.jpg",
+      "url": "/tech-news/2025-12-24/democrats-warn-trump-green-lighting-nvidia-ai-chip/",
+      "source": {
+        "emoji": "📰",
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "companies": [
+        "NVIDIA"
+      ],
+      "people": [
+        "Trump"
+      ]
+    },
+    {
+      "title": "Bývalý reportér Wall Street Journal, který odhalil podvod Theranosu, žaluje AI giganty kvůli údajnému pirátství knih",
+      "description": "John Carreyrou žaluje šest velkých AI společností v kalifornském federálním soudu, obviňuje je z nelegálního použití chráněných knih k trénování jejich systémů umělé inteligence. Jedná se o první žalobu, kde je mezi obviněnými xAI Elona Muska.",
+      "slug": "ex-wsj-reporter-who-exposed-theranos-fraud-sues-ai",
+      "publishedAt": "2025-12-24T17:35:43+00:00",
+      "date": "2025-12-24 17:35:43",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/12/newspress-collage-3kcvnori6-1766597637342.jpg?quality=75&strip=all&1766579689&w=1200",
+      "url": "/tech-news/2025-12-24/ex-wsj-reporter-who-exposed-theranos-fraud-sues-ai/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "New York Post"
+      },
+      "companies": [
+        "Theranos"
+      ],
+      "people": []
+    },
+    {
+      "title": "Ransomware vytvořený umělou inteligencí a útoky přes NFC vedou k nárůstu nových kyberútoků – jak zůstat v bezpečí o svátcích",
+      "description": "Umělá inteligence se už nepoužívá jen k tvorbě přesvědčivých phishingových e-mailů – používá se k budování ransomware. Výzkumníci ESETu objevili PromptLock, první ransomware řízený AI, který dynamicky generuje škodlivé skripty.",
+      "slug": "ai-created-ransomware-and-nfc-attacks-lead-the-sur",
+      "publishedAt": "2025-12-24T17:35:00+00:00",
+      "date": "2025-12-24 17:35:00",
+      "importance": 5,
+      "category": "kybernetika",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ThNyuwnA55tfcixfqWcEcA-970-80.jpg",
+      "url": "/tech-news/2025-12-24/ai-created-ransomware-and-nfc-attacks-lead-the-sur/",
+      "source": {
+        "emoji": "📰",
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Nový malware dokáže číst vaše chaty a ukrást vám peníze",
+      "description": "Nový androidový bankovní trojan Sturnus krade přihlašovací údaje, čte šifrované zprávy a ovládá zařízení. Tento škodlivý software funguje tiše na pozadí a využívá slabiny v systému Android.",
+      "slug": "new-malware-can-read-your-chats-and-steal-your-mon",
+      "publishedAt": "2025-12-24T17:30:28+00:00",
+      "date": "2025-12-24 17:30:28",
+      "importance": 4,
+      "category": "kybernetika",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/12/woman-texts-on-phone.jpg",
+      "url": "/tech-news/2025-12-24/new-malware-can-read-your-chats-and-steal-your-mon/",
+      "source": {
+        "emoji": "📰",
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Použití umělé inteligence v teroristických plánech a útocích výrazně narůstá v roce 2025",
       "description": "V roce 2025 došlo k výraznému nárůstu případů, kdy teroristé a násilní extremisti využívali AI nástroje pro plánování, výzkum a přípravu útoků. Autoři článku z Militant Wire analyzují tento trend na základě své databáze incidentů a zdůrazňují posun od propagandy k operačnímu nasazení AI.",
@@ -3482,48 +3658,6 @@
       "people": []
     },
     {
-      "title": "Fúzní dohoda: Proč se Trump Media spojuje s TAE Technologies",
-      "description": "TAE Technologies tvrdí, že silná bilance TMTG poskytne kapitál potřebný k uvedení první fúzní elektrárny v USA do roku 2031.",
-      "slug": "fusion-deal-why-trump-media-is-merging-with-tae-te",
-      "publishedAt": "2025-12-18T18:52:20+00:00",
-      "date": "2025-12-18 18:52:20",
-      "importance": 5,
-      "category": "jaderná fúze",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108243573-1766067213002-gettyimages-2183307095-img_7378_bjntyckg.jpeg?v=1766067271&w=1920&h=1080",
-      "url": "/tech-news/2025-12-18/fusion-deal-why-trump-media-is-merging-with-tae-te/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNBC"
-      },
-      "companies": [
-        "Trump Media",
-        "TAE Technologies"
-      ],
-      "people": []
-    },
-    {
-      "title": "IIT Kharagpur spolupracuje s nadací Intuitive na vývoji AI modelů pro robotickou chirurgii",
-      "description": "Indický technologický institut IIT Kharagpur navázal partnerství s nadací Intuitive na vývoj digitálních modelů podporovaných umělou inteligencí pro robotickou chirurgii. Iniciativa MANAS mapuje chirurgické pracovní postupy, aby zlepšila bezpečnost, konzistenci a umožnila budoucí automatizaci pomocí platformy da Vinci Research Kit.",
-      "slug": "iit-kharagpur-ties-up-with-intuitive-foundation-to",
-      "publishedAt": "2025-12-18T16:17:22+00:00",
-      "date": "2025-12-18 16:17:22",
-      "importance": 4,
-      "category": "robotická chirurgie",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1528381,resizemode-75,msid-126060932/tech/technology/iit-kharagpur-ties-up-with-intuitive-foundation-to-develop-ai-driven-models-for-robotic-surgery.jpg",
-      "url": "/tech-news/2025-12-18/iit-kharagpur-ties-up-with-intuitive-foundation-to/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "IIT-Kharagpur",
-        "Intuitive Foundation"
-      ],
-      "people": []
-    },
-    {
       "title": "TSMC urychluje instalaci zařízení v arizonské továrně Fab 21, produkce N3 čipů začne v roce 2027",
       "description": "Stavba továrny Fab 21 fáze 2 v Arizoně je dokončena, instalace výrobního zařízení začne v létě 2026 a hromadná výroba v roce 2027 – o několik čtvrtletí před původním plánem.",
       "slug": "tsmc-brings-its-most-advanced-chipmaking-node-to-t",
@@ -3582,26 +3716,6 @@
         "Google",
         "TAE Technologies",
         "Trump Media & Technology Group"
-      ],
-      "people": []
-    },
-    {
-      "title": "Co si Wall Street myslí o Uber Technologies (UBER)",
-      "description": "Uber Technologies (NYSE: UBER) patří mezi podhodnocené akcie s největším potenciálem růstu díky expanzi v autonomních vozidlech. Wall Street udržuje pozitivní sentiment díky partnerstvím a novým spuštěním služeb.",
-      "slug": "heres-what-wall-street-thinks-about-uber-technolog",
-      "publishedAt": "2025-12-18T12:01:00+00:00",
-      "date": "2025-12-18 12:01:00",
-      "importance": 4,
-      "category": "akcie",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/GjtvmBhItrilu8Ag7qjwaA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/1b0d24331c5749b8809056a69d9d96ee",
-      "url": "/tech-news/2025-12-18/heres-what-wall-street-thinks-about-uber-technolog/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [
-        "Uber Technologies"
       ],
       "people": []
     },
@@ -3732,26 +3846,6 @@
       "people": []
     },
     {
-      "title": "Exein s podporou JPMorgan získal 100 milionů eur na ochranu proti hackerům v autech",
-      "description": "Italský startup Exein SpA získal 100 milionů eur (118 milionů dolarů) v novém financování s cílem bránit hackerům přístup k připojeným zařízením, jako jsou auta, domácí routery a baby monitory.",
-      "slug": "jpmorgan-backed-exein-raises-100-million-to-halt-c",
-      "publishedAt": "2025-12-18T07:29:36+00:00",
-      "date": "2025-12-18 07:29:36",
-      "importance": 4,
-      "category": "kyberbezpečnost",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-18/jpmorgan-backed-exein-raises-100-million-to-halt-c/",
-      "source": {
-        "emoji": "📰",
-        "id": "financial-post",
-        "name": "Financial Post"
-      },
-      "companies": [
-        "Exein SpA"
-      ],
-      "people": []
-    },
-    {
       "title": "Co potřebujete vědět o Trumpově výkonném nařízení omezujícím státní regulace AI",
       "description": "Prezident Donald Trump podepsal výkonný příkaz, který státy nabádá, aby se zdržely regulace umělé inteligence. Trump a někteří republikáni argumentují, že takové regulace brzdí inovace a růst technologie, zatímco kritici varují před nedostatkem dohledu nad velkými AI firmami.",
       "slug": "what-to-know-about-trumps-executive-order-to-curta",
@@ -3788,26 +3882,6 @@
       },
       "companies": [
         "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Micron očekává prudký růst tržeb díky vysoké poptávce po pamětech pro AI",
-      "description": "Micron Technology zveřejnil výsledky za fiskální první čtvrtletí, které překonaly očekávání analytiků Wall Street v oblasti tržeb a zisku na akcii, a poskytl silnou prognózu pro aktuální čtvrtletí. Akcie společnosti vzrostly o více než 7 % v prodlouženém obchodování.",
-      "slug": "micron-forecasts-surging-revenue-as-computer-memor",
-      "publishedAt": "2025-12-18T02:00:40+00:00",
-      "date": "2025-12-18 02:00:40",
-      "importance": 4,
-      "category": "hardware",
-      "urlToImage": "https://biztoc.com/cdn/834e16b273f1e381_s.webp",
-      "url": "/tech-news/2025-12-18/micron-forecasts-surging-revenue-as-computer-memor/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "companies": [
-        "Micron Technology"
       ],
       "people": []
     },
@@ -3850,50 +3924,6 @@
       "people": []
     },
     {
-      "title": "IPO společností MetaX a Moore Threads podtrhuje rostoucí výzvu čínských výrobců čipů pro Nvidia",
-      "description": "Noví hráči jako MetaX a Moore Threads se připojují k technologickým gigantům Huawei, Baidu a Alibaba v úsilí vyvinout alternativy k čipům Nvidia. Akcie těchto firem výrazně vzrostly při svém debutu na burze v Šanghaji.",
-      "slug": "metax-and-moore-threads-ipos-underscore-chinese-ch",
-      "publishedAt": "2025-12-18T01:00:02+00:00",
-      "date": "2025-12-18 01:00:02",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108242991-1765986331211-gettyimages-2226429092-tang-notitle250726_npyzD.jpeg?v=1765986576&w=1920&h=1080",
-      "url": "/tech-news/2025-12-18/metax-and-moore-threads-ipos-underscore-chinese-ch/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNBC"
-      },
-      "companies": [
-        "MetaX",
-        "Moore Threads",
-        "Nvidia",
-        "Huawei",
-        "Baidu"
-      ],
-      "people": []
-    },
-    {
-      "title": "Micron zvyšuje kapitálové výdaje na fiskální rok 2026 na 20 miliard USD pro urychlení HBM a výroby v USA",
-      "description": "Micron Technology navyšuje kapitálové výdaje na fiskální rok 2026 na přibližně 20 miliard USD, aby řešila nedostatek pamětí. Investice se zaměří na vysokopásmovou paměť HBM a pokročilé uzly DRAM v reakci na rostoucí poptávku poháněnou AI.",
-      "slug": "micron-hikes-fy26-capex-to-us20b-to-accelerate-hbm",
-      "publishedAt": "2025-12-18T00:55:24+00:00",
-      "date": "2025-12-18 00:55:24",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://img.digitimes.com/newsshow/20251218vl201_files/1_2b.jpg",
-      "url": "/tech-news/2025-12-18/micron-hikes-fy26-capex-to-us20b-to-accelerate-hbm/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
-      },
-      "companies": [
-        "Micron Technology"
-      ],
-      "people": []
-    },
-    {
       "title": "Senát USA potvrdil soukromého astronauta a spojence Muska Jareda Isaacmana šéfem NASA",
       "description": "Jared Isaacman, miliardářský soukromý astronaut a bývalý spojenec Elona Muska, byl Senátem USA potvrzen jako 15. šéf NASA. Jeho potvrzení s oboustrannou podporou přichází v době, kdy NASA urychluje návrat na Měsíc a plánuje mise na Mars.",
       "slug": "us-senate-confirms-private-astronaut-musk-ally-jar",
@@ -3915,24 +3945,6 @@
         "Jared Isaacman",
         "Elon Musk"
       ]
-    },
-    {
-      "title": "Jak umělá inteligence rostla v roce 2025 a co může přijít dál",
-      "description": "V roce 2025 dosáhla integrace umělé inteligence do americké ekonomiky a každodenního života historických úrovní. Korerespondentka CBS News Jo Ling Kent shrnuje rozšíření této technologie a naznačuje výhled pro rok 2026.",
-      "slug": "how-artificial-intelligence-grew-in-2025-and-what-",
-      "publishedAt": "2025-12-18T00:39:00+00:00",
-      "date": "2025-12-18 00:39:00",
-      "importance": 5,
-      "category": "umělá inteligence",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/12/18/ef8fb94c-bd7a-4e78-9adf-bc2afb57eca7/thumbnail/1200x630/fd70e38e75520530eb59b8ef785541bb/cbsn-fusion-how-artificial-intelligence-grew-2025-what-could-come-next-thumbnail.jpg",
-      "url": "/tech-news/2025-12-18/how-artificial-intelligence-grew-in-2025-and-what/",
-      "source": {
-        "emoji": "📺",
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "companies": [],
-      "people": []
     },
     {
       "title": "Speciale Invest spustí růstový fond o objemu 1 600 milionů rupií pro investice do deeptech",
@@ -3971,26 +3983,6 @@
       "people": [
         "Vishesh Rajaram"
       ]
-    },
-    {
-      "title": "Volný přístav Hainan; Huawei vede čínský EUV „Projekt Manhattan“; Přehodnocení vztahů EU-Čína; Nemovitosti; Kognitivní válka",
-      "description": "Newsletter informuje o strategických projektech v Číně, včetně Huaweiho role v národním úsilí o vývoj EUV lithografie, ekonomickém rozvoji na Hainanu a dopadech umělé inteligence na sociální správu. Zaměřuje se na polovodiče a geopolitické posuny v EU-Čína vztazích.",
-      "slug": "hainan-free-trade-port-huawei-overseeing-chinas-eu",
-      "publishedAt": "2025-12-18T00:13:06+00:00",
-      "date": "2025-12-18 00:13:06",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://substackcdn.com/image/fetch/$s_!EVZ2!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd821607-79fe-460b-a67a-c7714ac5c9a2_1290x1290.jpeg",
-      "url": "/tech-news/2025-12-18/hainan-free-trade-port-huawei-overseeing-chinas-eu/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Sinocism.com"
-      },
-      "companies": [
-        "Huawei"
-      ],
-      "people": []
     },
     {
       "title": "Zákaz TikToku měl nastoupit 16. prosince. Nestal se, a zde je důvod",
