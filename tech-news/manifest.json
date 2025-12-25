@@ -1,7 +1,90 @@
 {
-  "generated": "2025-12-25T12:42:06.149076+00:00",
+  "generated": "2025-12-25T16:36:36.546497+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Použití umělé inteligence v teroristických plánech a útocích výrazně narůstá v roce 2025",
+      "description": "V roce 2025 došlo k výraznému nárůstu případů, kdy teroristé a násilní extremisti využívali AI nástroje pro plánování, výzkum a přípravu útoků. Autoři článku z Militant Wire analyzují tento trend na základě své databáze incidentů a zdůrazňují posun od propagandy k operačnímu nasazení AI.",
+      "slug": "ai-use-in-terrorist-plots-and-attacks-surges-in-20",
+      "publishedAt": "2025-12-24T15:43:52+00:00",
+      "date": "2025-12-24 15:43:52",
+      "importance": 5,
+      "category": "ai",
+      "urlToImage": "https://smallwarsjournal.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-16-2025-07_36_44-PM-1-1400x933.png",
+      "url": "/tech-news/2025-12-24/ai-use-in-terrorist-plots-and-attacks-surges-in-20/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Smallwarsjournal.com"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Japonská Fujitsu a Nvidia vyvíjejí platformu s multi-agentní umělou inteligencí",
+      "description": "Nová technologie se aplikuje na fyzické AI aplikace pro pohon průmyslových robotů. Platforma integruje více AI agentů k automatizaci pracovních postupů.",
+      "slug": "japans-fujitsu-and-nvidia-develop-multi-agent-ai-p",
+      "publishedAt": "2025-12-24T15:43:42+00:00",
+      "date": "2025-12-24 15:43:42",
+      "importance": 4,
+      "category": "robotika",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F0%2F2%2F5%2F9%2F11869520-2-eng-GB%2F579f90c00115-photo_SXM2025122400011959.jpg?width=1260&fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=auto&height=630",
+      "url": "/tech-news/2025-12-24/japans-fujitsu-and-nvidia-develop-multi-agent-ai-p/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Nikkei.com"
+      },
+      "companies": [
+        "Fujitsu",
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Šéf OpenAI Sam Altman předpovídá další velký průlom v AI",
+      "description": "Generální ředitel OpenAI Sam Altman tvrdí, že klíčem k superlidské umělé inteligenci bude dokonalá paměť systémů. Podle něj se současný vývoj zaměřuje spíše na schopnosti uvažování než na trvalou paměť.",
+      "slug": "openai-boss-sam-altman-predicts-next-big-ai-breakt",
+      "publishedAt": "2025-12-24T15:04:27+00:00",
+      "date": "2025-12-24 15:04:27",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://static.the-independent.com/2025/12/03/20/22/GettyImages-2218344194.jpg?width=1200&height=800&crop=1200:800",
+      "url": "/tech-news/2025-12-24/openai-boss-sam-altman-predicts-next-big-ai-breakt/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The-independent.com"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": [
+        "Sam Altman"
+      ]
+    },
+    {
+      "title": "NVIDIA Nitrogen: Open source AI pro hry bez specifického ladění na jednotlivé tituly",
+      "description": "NVIDIA představila Nitrogen, generalistického AI agenta, který zvládá různé videohry bez předchozího tréninku na nich. Tento systém využívá imitation learning na více než 40 000 hodinách anotovaného gameplayu a otevírá cestu k širší generalizaci v umělé inteligenci.",
+      "slug": "nvidia-nitrogen-ai-open-source-gaming-ai-without-g",
+      "publishedAt": "2025-12-24T15:00:46+00:00",
+      "date": "2025-12-24 15:00:46",
+      "importance": 5,
+      "category": "herní ai",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/universal-simulator-research-games_optimized.jpg",
+      "url": "/tech-news/2025-12-24/nvidia-nitrogen-ai-open-source-gaming-ai-without-g/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [
+        "NVIDIA"
+      ],
+      "people": []
+    },
     {
       "title": "Jak chytří chceme, aby byla umělá inteligence? World models možná chápou svět lépe než my",
       "description": "Ustupte stranou velkým jazykovým modelům. Dalším velkým krokem pro umělou inteligenci je učení se, rekonstrukce a simulace dynamiky reálného světa.",
@@ -2592,24 +2675,6 @@
       "people": []
     },
     {
-      "title": "Regulátoři v Georgii schválili obrovské zvýšení kapacity výroby elektřiny pro datová centra",
-      "description": "Jediná soukromá energetická společnost v Georgii získala jednomyslné schválení regulátorů pro navýšení kapacity o 50 % kvůli poptávce z datových center. Projekt za 16,3 miliardy dolarů by měl uspokojit rostoucí energetické nároky vývojářů umělé inteligence a patří mezi největší v USA.",
-      "slug": "georgia-regulators-approve-huge-electric-generatio",
-      "publishedAt": "2025-12-19T19:58:10+00:00",
-      "date": "2025-12-19 19:58:10",
-      "importance": 4,
-      "category": "datová centra",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-19/georgia-regulators-approve-huge-electric-generatio/",
-      "source": {
-        "emoji": "📰",
-        "id": "financial-post",
-        "name": "Financial Post"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Yann LeCun potvrzuje svůj nový startup na 'world model', údajně hledá valuaci přes 5 miliard dolarů | TechCrunch",
       "description": "Známý vědec v oblasti umělé inteligence Yann LeCun ve čtvrtek potvrdil spuštění nového startupu Advanced Machine Intelligence (AMI Labs), zaměřeného na modely světa. Nechce však firmu řídit jako generální ředitel, funkci přebírá Alex LeBrun z lékařského AI startupu Nabla.",
       "slug": "yann-lecun-confirms-his-new-world-model-startup-re",
@@ -3459,49 +3524,6 @@
       "people": []
     },
     {
-      "title": "Kryptoměny pro poradce: Předpovědi pro rok 2026",
-      "description": "Paul Veradittakit z Pantera Capital sdílí své předpovědi pro kryptoměny v roce 2026: tokenizace reálných aktiv (RWA), pokroky v bezpečnosti AI, velká vlna úvěrňových nabídek (IPO) a posun k institucionální adopci.",
-      "slug": "crypto-for-advisors-predictions-for-2026",
-      "publishedAt": "2025-12-18T16:00:00+00:00",
-      "date": "2025-12-18 16:00:00",
-      "importance": 4,
-      "category": "kryptoměny",
-      "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/6a67e4668da5628681a8397f21654e5c69abc03d-3840x2400.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-      "url": "/tech-news/2025-12-18/crypto-for-advisors-predictions-for-2026/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CoinDesk"
-      },
-      "companies": [],
-      "people": [
-        "Paul Veradittakit"
-      ]
-    },
-    {
-      "title": "Devin Nunes a Trump Media se spojují s jadernou fúzní firmou podporovanou Googlem v překvapivém sloučení za 6 miliard dolarů",
-      "description": "Společná společnost plánuje najít lokalitu a zahájit stavbu příští rok na první elektrárně s jadernou fúzí v měřítku sítě.",
-      "slug": "devin-nunes-and-trump-media-get-in-bed-with-google",
-      "publishedAt": "2025-12-18T15:56:06+00:00",
-      "date": "2025-12-18 15:56:06",
-      "importance": 5,
-      "category": "jaderná fúze",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/12/AP25352450628333.jpg?resize=1200,600",
-      "url": "/tech-news/2025-12-18/devin-nunes-and-trump-media-get-in-bed-with-google/",
-      "source": {
-        "emoji": "📰",
-        "id": "fortune",
-        "name": "Fortune"
-      },
-      "companies": [
-        "Google",
-        "Trump Media"
-      ],
-      "people": [
-        "Devin Nunes"
-      ]
-    },
-    {
       "title": "TSMC urychluje instalaci zařízení v arizonské továrně Fab 21, produkce N3 čipů začne v roce 2027",
       "description": "Stavba továrny Fab 21 fáze 2 v Arizoně je dokončena, instalace výrobního zařízení začne v létě 2026 a hromadná výroba v roce 2027 – o několik čtvrtletí před původním plánem.",
       "slug": "tsmc-brings-its-most-advanced-chipmaking-node-to-t",
@@ -3825,26 +3847,6 @@
         "name": "The Times of India"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Startup Mythic na čipy s výpočtem v paměti získal investice za 125 milionů dolarů",
-      "description": "Společnost Mythic Inc., která vyvíjí analogové zpracovací jednotky pro umělou inteligenci, uzavřela kolo investic ve výši 125 milionů dolarů vedené fondem DCVC. Investice zvyšuje celkový objem financování firmy na více než 175 milionů dolarů, mezi investory jsou NEA, Softbank KR a Honda Motor Co.",
-      "slug": "compute-in-memory-chip-startup-mythic-raises-125m-",
-      "publishedAt": "2025-12-18T01:09:41+00:00",
-      "date": "2025-12-18 01:09:41",
-      "importance": 4,
-      "category": "startupy",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Mythic.png",
-      "url": "/tech-news/2025-12-18/compute-in-memory-chip-startup-mythic-raises-125m/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Mythic"
-      ],
       "people": []
     },
     {
