@@ -1,15 +1,98 @@
 {
-  "generated": "2025-12-25T01:20:30.660023+00:00",
+  "generated": "2025-12-25T04:51:23.338710+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "Velké technologické firmy směřují k specializovaným modelům umělé inteligence a immersivnímu maloobchodu",
-      "description": "Od nových multimodálních modelů umělé inteligence po immersivní prostory pro vyprávění příběhů a nástroje pro podniky řízené agenty ukazují nejnovější kroky velkých technologických firem, že se umělá inteligence stává spojovacím prvkem napříč produkty, zážitky a obchodními operacemi. Meta připravuje modely Mango a Avocado pro rozšíření svého AI arzenálu.",
+      "title": "Top 10 příběhů umělé inteligence roku 2025",
+      "description": "Žádná téma neovládla rok 2025 tak jako umělá inteligence – ať už šlo o DeepSeek, diskuse o výpočetních zdrojích, nízkou návratnost investic nebo hype okolo agentic AI. Zde jsou top 10 příběhů umělé inteligence podle Computer Weekly.",
+      "slug": "top-10-ai-stories-of-2025",
+      "publishedAt": "2025-12-24T04:00:00+00:00",
+      "date": "2025-12-24 04:00:00",
+      "importance": 5,
+      "category": "ai",
+      "urlToImage": "https://www.computerweekly.com/rms/German/Hero-Robot-human-AI-jobs-Aliaksandr-Marko-adobe.png",
+      "url": "/tech-news/2025-12-24/top-10-ai-stories-of-2025/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "ComputerWeekly.com"
+      },
+      "companies": [
+        "DeepSeek"
+      ],
+      "people": []
+    },
+    {
+      "title": "Mateřská společnost TikToku ByteDance zvýší výdaje na AI infrastrukturu na 23 miliard dolarů příští rok",
+      "description": "Mateřská společnost TikToku ByteDance plánuje výrazně zvýšit výdaje na infrastrukturu umělé inteligence na přibližně 23,1 miliardy dolarů v fiskálním roce 2026, aby dohnala americké technologické giganty. Podle Financial Times více než polovina rozpočtu půjde na pokročilé polovodiče pro trénink AI modelů a jejich provoz.",
+      "slug": "tiktok-parent-bytedance-to-beef-up-ai-spending-to-",
+      "publishedAt": "2025-12-24T01:46:57+00:00",
+      "date": "2025-12-24 01:46:57",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Screenshot-from-2025-01-24-09-41-20-768x491.png",
+      "url": "/tech-news/2025-12-24/tiktok-parent-bytedance-to-beef-up-ai-spending-to/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "ByteDance"
+      ],
+      "people": []
+    },
+    {
+      "title": "Firma Motive podporovaná Google podala veřejnou žádost o IPO",
+      "description": "Společnost Motive Technologies, kterou podporují investoři jako Google Ventures a Kleiner Perkins, podala veřejnou žádost o úvodní veřejnou nabídku akcií. Firma na software pro správu flotil s prvky umělé inteligence vykázala za devět měsíců rostoucí příjmy na 327,3 milionu dolarů při čisté ztrátě 138,5 milionu dolarů.",
+      "slug": "google-backed-fleet-tracking-firm-motive-files-pub",
+      "publishedAt": "2025-12-24T01:10:49+00:00",
+      "date": "2025-12-24 01:10:49",
+      "importance": 4,
+      "category": "správa flotily",
+      "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-06-13%2F9x9u7m14%2Fipo?rect=6%2C0%2C1194%2C627&w=1200&auto=format%2Ccompress&ogImage=true",
+      "url": "/tech-news/2025-12-24/google-backed-fleet-tracking-firm-motive-files-pub/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Ndtvprofit.com"
+      },
+      "companies": [
+        "Alphabet Inc",
+        "Google Ventures",
+        "Motive Technologies Inc"
+      ],
+      "people": []
+    },
+    {
+      "title": "Google chce přeměňovat youtubery na chatboty. Historicky to nevyšlo dobře.",
+      "description": "Google vyvíjí experimentální funkci Portraits pro YouTube, která umožňuje divákům konverzovat s AI verzemi vybraných tvůrců. Navzdory rizikům bubliny velkých jazykových modelů pokračuje v investicích do generativní umělé inteligence, přestože podobné projekty v minulosti selhaly.",
+      "slug": "google-wants-to-churn-youtubers-into-chatbots-hist",
+      "publishedAt": "2025-12-24T01:08:06+00:00",
+      "date": "2025-12-24 01:08:06",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.tubefilter.com/wp-content/uploads/2025/12/mohamed-nohassi-2iUrK025cec-unsplash.jpg",
+      "url": "/tech-news/2025-12-24/google-wants-to-churn-youtubers-into-chatbots-hist/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Tubefilter"
+      },
+      "companies": [
+        "Google",
+        "Forever Voices AI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Velké technologické firmy směřují k specializované umělé inteligenci a immersivnímu maloobchodu",
+      "description": "Nejnovější kroky velkých technologických firem ukazují, že umělá inteligence se stává spojovacím prvkem napříč produkty, uživatelskými zážitky a obchodními operacemi. Meta rozšiřuje svůj arzenál o modely Mango pro generování a úpravu obrazů a videí a Avocado pro textové uvažování a programování, zatímco Netflix přenáší příběhy do fyzických prostor.",
       "slug": "big-tech-moves-toward-specialized-ai-and-immersive",
       "publishedAt": "2025-12-24T00:48:59+00:00",
       "date": "2025-12-24 00:48:59",
       "importance": 4,
-      "category": "umělá inteligence",
+      "category": "ai",
       "urlToImage": "https://www.pymnts.com/wp-content/uploads/2025/12/AI-digital-transformation.jpeg?w=457",
       "url": "/tech-news/2025-12-24/big-tech-moves-toward-specialized-ai-and-immersive/",
       "source": {
@@ -23,8 +106,8 @@
       "people": []
     },
     {
-      "title": "ServiceNow koupí Armis za 7,75 miliardy dolarů a posiluje kyberbezpečnost pro AI",
-      "description": "ServiceNow oznámila akvizici kyberbezpečnostní firmy Armis za 7,75 miliardy dolarů v hotovosti. Tato největší transakce společnosti má podpořit důvěru v autonomní AI agenty a rozšířit portfolio v oblasti bezpečnosti rizik a operační technologie.",
+      "title": "ServiceNow koupí Armis za 7,75 miliardy dolarů a posílí kyberbezpečnost pro AI",
+      "description": "ServiceNow oznámila akvizici společnosti Armis za 7,75 miliardy dolarů v hotovosti, což je její největší transakce dosud. Tento krok podporuje strategii firmy v oblasti umělé inteligence tím, že zlepší ochranu pro autonomní AI agenty a rozšíří portfolio v kyberbezpečnosti.",
       "slug": "servicenow-to-buy-armis-for-775-billion-as-it-bets",
       "publishedAt": "2025-12-24T00:10:00+00:00",
       "date": "2025-12-24 00:10:00",
@@ -82,27 +165,6 @@
         "Samsung",
         "Harman",
         "ZF Friedrichshafen"
-      ],
-      "people": []
-    },
-    {
-      "title": "ServiceNow koupí Armis za 7,75 miliardy dolarů a posiluje kyberbezpečnost pro AI",
-      "description": "ServiceNow oznámila akvizici kyberbezpečnostní firmy Armis za 7,75 miliardy dolarů v hotovosti, což je její největší transakce dosud. Tento krok podporuje strategii firmy v oblasti umělé inteligence tím, že zlepšuje governance a důvěru v autonomní AI agenty.",
-      "slug": "servicenow-to-buy-armis-for-775-billion-as-it-bets",
-      "publishedAt": "2025-12-23T23:11:22+00:00",
-      "date": "2025-12-23 23:11:22",
-      "importance": 5,
-      "category": "kyberbezpečnost",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-23/servicenow-to-buy-armis-for-775-billion-as-it-bets/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "companies": [
-        "ServiceNow",
-        "Armis"
       ],
       "people": []
     },
@@ -3939,66 +4001,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Commonplace.org"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Visa a Akamai spolupracují na řešení problémů s identitou v agentické komerci",
-      "description": "Visa a společnost Akamai Technologies, zaměřená na kyberbezpečnost a cloudové výpočty, společně posilují důvěru v agentickou komerci. Integrují protokol Trusted Agent Protocol od Visa s hraniční behaviorální inteligencí, rozpoznáváním uživatelů a ochranou proti botům a zneužití od Akamai.",
-      "slug": "visa-and-akamai-collaborate-to-solve-identity-chal",
-      "publishedAt": "2025-12-17T12:00:48+00:00",
-      "date": "2025-12-17 12:00:48",
-      "importance": 4,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2025/12/Akamai-Visa.png",
-      "url": "/tech-news/2025-12-17/visa-and-akamai-collaborate-to-solve-identity-chal/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "pymnts.com"
-      },
-      "companies": [
-        "Visa",
-        "Akamai Technologies"
-      ],
-      "people": []
-    },
-    {
-      "title": "Kapacita TSMC pro 2nm je údajně rezervována do konce roku 2026, průlom v architektuře GAA přitahuje zákazníky",
-      "description": "Taiwanský výrobce čipů TSMC má plně obsazenou kapacitu pro 2nm proces až do konce roku 2026 díky přechodu na Gate All-Around (GAA) architekturu, která zlepšuje výkon a energetickou účinnost oproti předchozímu FinFET. Klienti jako Apple s čipy A20 a A20 Pro vedou poptávku, což nutí TSMC rozšiřovat výrobu.",
-      "slug": "tsmcs-2nm-capacity-is-reportedly-booked-until-the-",
-      "publishedAt": "2025-12-17T07:13:52+00:00",
-      "date": "2025-12-17 07:13:52",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/12/TSMC-1.4nm.jpg",
-      "url": "/tech-news/2025-12-17/tsmcs-2nm-capacity-is-reportedly-booked-until-the/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Wccftech"
-      },
-      "companies": [
-        "TSMC",
-        "Apple"
-      ],
-      "people": []
-    },
-    {
-      "title": "Sledujte: Čína má nového humanoidního robota s AI na řízení dopravy",
-      "description": "Hangzhou nasadilo robota s umělou inteligencí Hangxing No. 1 pro směrování vozidel a chodců na hlavní křižovatce a vydávání varování porušovatelům. Robot je doplnkem k lidským policistům a plánuje se mu přidat schopnosti velkých jazykových modelů.",
-      "slug": "watch-china-has-a-new-ai-humanoid-robot-in-charge-",
-      "publishedAt": "2025-12-17T03:18:56+00:00",
-      "date": "2025-12-17 03:18:56",
-      "importance": 4,
-      "category": "robotika",
-      "urlToImage": "https://assets.newatlas.com/dims4/default/ffcb756/2147483647/strip/true/crop/1546x812+0+114/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F8d%2F24%2F1b28d495412fb3056e591ecca0dc%2Fscreenshot-2025-12-17-at-12-39-44-pm.png&na.image_optimisation=0",
-      "url": "/tech-news/2025-12-17/watch-china-has-a-new-ai-humanoid-robot-in-charge/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "New Atlas"
       },
       "companies": [],
       "people": []

@@ -5,9 +5,10 @@ companies:
 - ServiceNow
 - Armis
 date: '2025-12-24 00:10:00'
-description: ServiceNow oznámila akvizici kyberbezpečnostní firmy Armis za 7,75 miliardy
-  dolarů v hotovosti. Tato největší transakce společnosti má podpořit důvěru v autonomní
-  AI agenty a rozšířit portfolio v oblasti bezpečnosti rizik a operační technologie.
+description: ServiceNow oznámila akvizici společnosti Armis za 7,75 miliardy dolarů
+  v hotovosti, což je její největší transakce dosud. Tento krok podporuje strategii
+  firmy v oblasti umělé inteligence tím, že zlepší ochranu pro autonomní AI agenty
+  a rozšíří portfolio v kyberbezpečnosti.
 importance: 5
 layout: tech_news_article
 original_title: ServiceNow To Buy Armis For $7.75 Billion As It Bets Big On Cybersecurity
@@ -18,7 +19,7 @@ source:
   emoji: 📰
   id: null
   name: Slashdot.org
-title: ServiceNow koupí Armis za 7,75 miliardy dolarů a posiluje kyberbezpečnost pro
+title: ServiceNow koupí Armis za 7,75 miliardy dolarů a posílí kyberbezpečnost pro
   AI
 url: https://slashdot.org/story/25/12/23/2313234/servicenow-to-buy-armis-for-775-billion-as-it-bets-big-on-cybersecurity-for-ai
 urlToImage: https://a.fsdn.com/sd/topics/business_64.png
@@ -26,26 +27,22 @@ urlToImageBackup: https://a.fsdn.com/sd/topics/business_64.png
 ---
 
 ## Souhrn
-ServiceNow, přední poskytovatel softwaru pro správu IT služeb, oznámil akvizici společnosti Armis za 7,75 miliardy dolarů v hotovosti. Tato dohla, nejrozsáhlejší v historii firmy, má posílit její pozici v kyberbezpečnosti, zejména v souvislosti s umělou inteligencí a správou propojených zařízení. Armis přinese technologie pro viditelnost aktiv a ochranu proti sofistikovaným hrozbám.
+ServiceNow, přední poskytovatel řízení IT služeb, oznámil akvizici cybersecurity firmy Armis za 7,75 miliardy dolarů v hotovosti. Tato největší akvizice v historii společnosti má posílit její nabídku v oblasti bezpečnosti, rizik a operační technologie, zejména v kontextu rostoucího nasazení autonomních AI agentů. Transakce by měla trojnásobit tržní příležitost ServiceNow v kyberbezpečnosti.
 
 ## Klíčové body
-- Akvizice za 7,75 miliardy dolarů v hotovosti, největší v historii ServiceNow.
-- Armis generuje přes 340 milionů dolarů roční opakujícího se příjmu s růstem nad 50 procent rok na rok.
-- Rozšíření portfolia v bezpečnosti, řízení rizik a operační technologii (OT) pro podporu AI strategií.
-- ServiceNow Security and Risk business překročil 1 miliardu dolarů v roční hodnotě smluv.
-- Cíl: Vytvoření uceleného systému pro proaktivní kyberbezpečnost napříč celým technologickým prostředím podniku.
+- Hodnota akvizice: 7,75 miliardy dolarů v hotovosti, největší v historii ServiceNow.
+- Armis generuje přes 340 milionů dolarů roční opakující se příjmy s růstem přes 50 % meziročně.
+- Cíl: Rozšíření portfolia v bezpečnosti operační technologie (OT) a IoT zařízení pro podporu důvěry v AI prostředí.
+- ServiceNow se profiluje jako "AI control tower" pro orchestraci workflowů v HR, zákaznickém servisu a bezpečnosti.
+- Bezpečnostní a rizikový byznys ServiceNow překročil 1 miliardu dolarů v roční hodnotě kontraktů.
 
 ## Podrobnosti
-ServiceNow, který původně vybudoval svou pozici na platformách pro správu IT služeb (ITSM), se v posledních letech transformuje na tzv. řídicí věž pro umělou inteligenci. Tato platforma orchestruje pracovní postupy v oblastech jako lidské zdroje, zákaznický servis a bezpečnostní operace. Akvizice Armis, specializované firmy na kyberbezpečnost zaměřenou na viditelnost a ochranu propojených zařízení včetně IoT a operační technologie (OT), představuje klíčový krok v této strategii.
+ServiceNow, který původně vybudoval svou pozici na platformách pro řízení IT služeb, se v posledních letech transformuje na centrální orchestrátor firemních workflowů napříč odděleními. Jeho platforma slouží k automatizaci procesů v lidských zdrojích, zákaznickém servisu a bezpečnostních operacích, přičemž nyní se zaměřuje na roli "AI control tower", která koordinuje autonomní AI agenty. Akvizice Armis, specializující se na cybersecurity pro širokou škálu připojených zařízení včetně laptopů, serverů, průmyslových systémů a chytrých sítí (smart grid), umožní vytvořit ucelený systém pro proaktivní správu kybernetických rizik.
 
-Podle tiskové zprávy ServiceNow toto rozšíří jejich portfolio v rychle rostoucích segmentech kyberbezpečnosti a umožní zvýšit adopci AI tím, že posílí důvěru v propojená prostředí firem. Gina Mastantuono, finanční ředitelka ServiceNow, zdůraznila složitost současných prostředí: od běžných laptopů a serverů po chytré sítě pro distribuci energie. Kybernetické hrozby se stávají sofistikovanějšími, což vyžaduje komplexní přístup k detekci a reakci.
-
-Armis aktuálně dosahuje přes 340 milionů dolarů v ročním opakujícím se příjmu (ARR) s růstem přesahujícím 50 procent. Tato akvizice má ztrojnásobit tržní příležitost ServiceNow v sektoru bezpečnosti a rizik, který letos překročil miliardu dolarů v roční hodnotě smluv (ACV). Výsledkem má být end-to-end stack pro proaktivní správu kybernetických expozic: od detekce aktiv, přes rozhodování až po akci napříč celým technologickým footprintem podniku. Například v operační technologii, kde zařízení jako průmyslové senzory nebo lékařské přístroje často postrádají standardní bezpečnostní prvky, umožní Armis technologie ServiceNow monitorovat a chránit tyto assety v reálném čase.
-
-Tato transakce je all-cash, což znamená okamžitou likviditu pro akcionáře Armis bez nutnosti schvalování akcionářů ServiceNow. Očekává se uzavření do konce roku za předpokladu regulačních souhlasů. V kontextu rostoucího tlaku na bezpečnost autonomních AI agentů, kteří interagují s fyzickými systémy, toto posílení přináší praktické nástroje pro governance a trust.
+Podle CFO ServiceNow Giny Mastantuono organizace dnes čelí složitým prostředím s tisíci zařízení různého typu, kde se cybernetické hrozby stávají sofistikovanějšími. Armis poskytuje platformu pro detekci a správu rizik v operační technologii (OT) a internetu věcí (IoT), což umožňuje firmám vidět celý technologický footprint, analyzovat rizika a reagovat v reálném čase. Tato akvizice integruje tyto schopnosti do ekosystému ServiceNow, čímž vznikne end-to-end stack pro exposure management a bezpečnostní operace. Armis má aktuálně přes 340 milionů dolarů v ročních opakujících se příjmech (ARR) s růstem nad 50 % rok na rok, což významně posílí finanční výsledky akvizéra. ServiceNow očekává uzavření transakce v nadcházejících měsících, přičemž bezpečnostní segment firmy již letos překročil miliardovou hranici v ACV (annual contract value). Tento krok není jen expanzí, ale odpovědí na rostoucí potřebu governance pro AI agenty, kteří operují v heterogenních sítích.
 
 ## Proč je to důležité
-V éře rozšířené umělé inteligence, kde autonomní agenti orchestrují složité workflow napříč IT, OT a IoT, se kyberbezpečnost stává klíčovým faktorem adopce. ServiceNow tímto krokem nejen ztrojnásobuje svůj trh, ale vytváří ucelenou platformu, která řeší skutečné bolesti: neviditelnost aktiv a rychlost útoků. Pro podniky to znamená lepší viditelnost rizik, rychlejší reakce a vyšší důvěru v AI systémy, což může urychlit nasazení v kritických sektorech jako energetika nebo zdravotnictví. Kriticky lze říci, že při velikosti transakce existuje riziko integračních problémů, ale silný růst Armis naznačuje synergie. V širším ekosystému to posiluje trend konsolidace v kyberbezpečnosti, kde giganti jako ServiceNow absorbují specializované hráče pro dominanci v AI éře.
+V éře autonomních AI agentů, kteří interagují s fyzickými zařízeními a kritickou infrastrukturou, je důvěra v bezpečnost klíčová pro široké nasazení. Tato akvizice trojnásobí tržní příležitost ServiceNow v kyberbezpečnosti, což může urychlit adopci AI v podnicích tím, že sníží rizika spojená s OT a IoT. Pro průmysl znamená posun k proaktivní ochraně proti sofistikovaným hrozbám, jako jsou zero-day exploity v průmyslových systémech. ServiceNow tak získává konkurenční výhodu oproti hráčům jako Palo Alto Networks nebo CrowdStrike, kteří se zaměřují převážně na IT, zatímco zde jde o ucelený pohled na celý ekosystém. Dlouhodobě to podpoří standardizaci bezpečnosti pro AI-driven operace, což je nezbytné pro prevenci velkých incidentů v kritických sektorech jako energetika nebo výroba.
 
 ---
 
