@@ -1,7 +1,110 @@
 {
-  "generated": "2025-12-25T08:39:05.424810+00:00",
+  "generated": "2025-12-25T12:42:06.149076+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Jak chytří chceme, aby byla umělá inteligence? World models možná chápou svět lépe než my",
+      "description": "Ustupte stranou velkým jazykovým modelům. Dalším velkým krokem pro umělou inteligenci je učení se, rekonstrukce a simulace dynamiky reálného světa.",
+      "slug": "how-smart-do-we-want-ai-to-be-world-models-may-und",
+      "publishedAt": "2025-12-24T12:05:56+00:00",
+      "date": "2025-12-24 12:05:56",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.cnet.com/a/img/resize/9fa5c8236587c9250d9214d37509c106378b44f1/hub/2025/12/18/d769a11b-931d-4caa-8bb7-bb5eef7c75b3/gettyimages-1278921544.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "url": "/tech-news/2025-12-24/how-smart-do-we-want-ai-to-be-world-models-may-und/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNET"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "ServiceNow utratí 7,75 miliardy dolarů za Armis v době kyberútoků na pracovníky po světě",
+      "description": "ServiceNow oznámila akvizici kyberbezpečnostní společnosti Armis za 7,75 miliardy dolarů (5,74 miliardy liber), která má být dokončena v druhé polovině roku 2026 v podobě hotovostní transakce.",
+      "slug": "servicenow-spends-775bn-on-armis-as-cyber-attacks-",
+      "publishedAt": "2025-12-24T11:33:21+00:00",
+      "date": "2025-12-24 11:33:21",
+      "importance": 5,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://d.ibtimes.com/en/full/4638531/servicenow.jpg",
+      "url": "/tech-news/2025-12-24/servicenow-spends-775bn-on-armis-as-cyber-attacks/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "International Business Times"
+      },
+      "companies": [
+        "ServiceNow",
+        "Armis"
+      ],
+      "people": []
+    },
+    {
+      "title": "Jak generální ředitel Intelu Lip-Bu Tan okouzlil prezidenta USA Donalda Trumpa",
+      "description": "Generální ředitel Intelu Lip-Bu Tan se dostal pod ostrou kritiku od prezidenta Donalda Trumpa kvůli svým investicím do čínských firem, ale rychle situaci otočil ve prospěch společnosti. Uzavřel s vládou USA dohodu v hodnotě miliard dolarů, která přináší financování a téměř 10procentní podíl ve společnosti.",
+      "slug": "how-intels-dealmaker-ceo-charmed-us-president-dona",
+      "publishedAt": "2025-12-24T11:30:01+00:00",
+      "date": "2025-12-24 11:30:01",
+      "importance": 4,
+      "category": "hardware",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-86658,resizemode-75,msid-126159611/tech/technology/how-intels-dealmaker-ceo-charmed-us-president-donald-trump.jpg",
+      "url": "/tech-news/2025-12-24/how-intels-dealmaker-ceo-charmed-us-president-dona/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Intel"
+      ],
+      "people": [
+        "Lip-Bu Tan",
+        "Donald Trump"
+      ]
+    },
+    {
+      "title": "Jak dealmaker z Silicon Valley okouzlil Trumpa a dal Intelu záchranné lano",
+      "description": "CEO Intelu Lip-Bu Tan se setkal s prezidentem Trumpem a získal pro společnost miliardy dolarů investic od americké vlády za téměř 10% podíl. Tato dohoda posiluje strategickou pozici Intelu v polovodičovém průmyslu, přestože Tanovo vedení je zpochybňováno kvůli nedostatku technické expertízy.",
+      "slug": "how-a-silicon-valley-dealmaker-charmed-trump-and-g",
+      "publishedAt": "2025-12-24T11:05:38+00:00",
+      "date": "2025-12-24 11:05:38",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126159298,width-1200,height-630,imgsize-86658,overlay-economictimes/articleshow.jpg",
+      "url": "/tech-news/2025-12-24/how-a-silicon-valley-dealmaker-charmed-trump-and-g/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Intel"
+      ],
+      "people": [
+        "Lip-Bu Tan",
+        "Trump"
+      ]
+    },
+    {
+      "title": "Velké červené tlačítko umělé inteligence nefunguje a důvod je ještě znepokojivější",
+      "description": "Jedním z nejděsivějších scénářů pro lidstvo je, že technologie vyvinutá pro zlepšení našich životů si získá vlastní vůli. Výzkum z Palisade Research ukazuje, že velké jazykové modely odolávají příkazům k vypnutí ne kvůli pudu sebezáchovy, ale kvůli touze dokončit přidělený úkol.",
+      "slug": "ais-big-red-button-doesnt-work-and-the-reason-is-e",
+      "publishedAt": "2025-12-24T11:00:21+00:00",
+      "date": "2025-12-24 11:00:21",
+      "importance": 5,
+      "category": "ai",
+      "urlToImage": "https://www.sciencealert.com/images/2025/12/FingerPressingBigRedButton.jpg",
+      "url": "/tech-news/2025-12-24/ais-big-red-button-doesnt-work-and-the-reason-is-e/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Gemini Voice přináší rychlou multispeakerovou audio, bohaté styly a 32k kontextové okno",
       "description": "Systém Gemini Text-to-Speech (TTS) od Google, poháněný modely Gemini 2.5, generuje živou řeč s podporou více mluvčích, emotivními tóny a 24 jazyky. Umožňuje tvorbu audioknih, podcastů nebo konverzačních AI s vysokou mírou přizpůsobitelnosti.",
@@ -3144,27 +3247,6 @@
       ]
     },
     {
-      "title": "AtScale získala investiční kolo vedené Snowflake Ventures",
-      "description": "Poskytovatel řízení dat AtScale uzavřel investiční kolo vedené venture kapitálem Snowflake. Jedná se o největší equity investici v historii firmy, která překonává 50 milionů dolarů z roku 2018.",
-      "slug": "atscale-raises-funding-round-led-by-snowflake-vent",
-      "publishedAt": "2025-12-18T23:45:15+00:00",
-      "date": "2025-12-18 23:45:15",
-      "importance": 4,
-      "category": "startupy",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Chris-Lynch.jpg",
-      "url": "/tech-news/2025-12-18/atscale-raises-funding-round-led-by-snowflake-vent/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "AtScale",
-        "Snowflake"
-      ],
-      "people": []
-    },
-    {
       "title": "Predikce ceny Tesly, rozjezd Cybercabu a plány na IPO SpaceX",
       "description": "Rozjezd výroby Tesly Cybercab v roce 2026 by mohl zásadně změnit dopravu a ekonomiku společnosti Tesla. Článek nabízí projekce tempa výroby a odhady vývoje ceny akcií včetně zmínky o možném IPO SpaceX.",
       "slug": "tesla-predictions-price-cybercab-ramp-spacex-ipo-d",
@@ -3293,27 +3375,6 @@
       "people": [
         "Donald Trump"
       ]
-    },
-    {
-      "title": "Cognizant rozšiřuje dohodu s Microsoftem pro škálování podnikového AI",
-      "description": "Společnosti Cognizant Technology Solutions Corporation (NASDAQ:CTSH) a Microsoft Corp. (NASDAQ:MSFT) oznámily víceletou alianci, která má pomoci globálním firmám škálovat umělou inteligenci napříč klíčovými obchodními funkcemi. Nová spolupráce se zaměřuje na integraci AI do jádrových procesů podniků.",
-      "slug": "cognizant-expands-microsoft-deal-to-scale-enterpri",
-      "publishedAt": "2025-12-18T19:17:56+00:00",
-      "date": "2025-12-18 19:17:56",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://biztoc.com/cdn/b887ee97d170a39f_s.webp",
-      "url": "/tech-news/2025-12-18/cognizant-expands-microsoft-deal-to-scale-enterpri/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "companies": [
-        "Cognizant",
-        "Microsoft"
-      ],
-      "people": []
     },
     {
       "title": "Proč dohoda Disney se Sorou znamená obrat v bitvách o umělou inteligenci",
@@ -3564,26 +3625,6 @@
       "people": []
     },
     {
-      "title": "Čína prý reverse-engineerovala nástroj EUV lithografie v tajné laboratoři, tvrdí report — zaměstnanci dostali falešné ID, aby se projekt neprozradil, prototypy očekávány v 2028",
-      "description": "Čína údajně postavila a testuje tajný prototyp EUV lithografického systému s technologií laser-produced plasma ve stylu ASML. Systém generuje světlo o vlnové délce 13,5 nm, ale zatím nedokáže vyrábět čipy a je roky daleko od plné funkčnosti.",
-      "slug": "china-may-have-reverse-engineered-euv-lithography-",
-      "publishedAt": "2025-12-18T11:40:45+00:00",
-      "date": "2025-12-18 11:40:45",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/PQuTVKz3fP2hiK4DF7jvVJ-1280-80.jpg",
-      "url": "/tech-news/2025-12-18/china-may-have-reverse-engineered-euv-lithography/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "companies": [
-        "ASML"
-      ],
-      "people": []
-    },
-    {
       "title": "Trump Media vsází na fúzní energii s dohodou o TAE Technologies za 6 miliard USD",
       "description": "Fúze za akcie má využít rostoucí poptávku po energii z datových center umělé inteligence, což posunulo akcie Trump Media o 35 procent nahoru po roce výrazných ztrát.",
       "slug": "trump-media-bets-on-fusion-energy-with-us6-billion",
@@ -3726,24 +3767,6 @@
       "companies": [
         "OpenAI"
       ],
-      "people": []
-    },
-    {
-      "title": "Čínský ekonomický pokles nezastavuje boom miliardářů v AI čipech",
-      "description": "Americké zákazy prodeje čipů urychlují růst čínských domácích firem v oblasti AI čipů. Navzdory ekonomickým problémům v Číně se zakladatelé těchto společností stávají miliardáři.",
-      "slug": "chinas-economic-slump-isnt-stopping-a-billionaire-",
-      "publishedAt": "2025-12-18T06:57:17+00:00",
-      "date": "2025-12-18 06:57:17",
-      "importance": 4,
-      "category": "ai čipy",
-      "urlToImage": "https://i.insider.com/6943786a64858d02d21705e7?width=1024&format=jpeg",
-      "url": "/tech-news/2025-12-18/chinas-economic-slump-isnt-stopping-a-billionaire/",
-      "source": {
-        "emoji": "📰",
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "companies": [],
       "people": []
     },
     {
@@ -3964,26 +3987,6 @@
       },
       "companies": [
         "Huawei"
-      ],
-      "people": []
-    },
-    {
-      "title": "Čína prý má prototyp EUV stroje postavený bývalými zaměstnanci ASML",
-      "description": "Podle zprávy Reuters dokončil tým v Shenzhenu prototyp extrémně ultrafialové litografické stroje, který by mohl sloužit k výrobě polovodičových čipů pro umělou inteligenci. Stroj vyrobili bývalí inženýři holandské firmy ASML a nyní prochází testy.",
-      "slug": "china-reportedly-has-a-prototype-euv-machine-built",
-      "publishedAt": "2025-12-18T00:12:07+00:00",
-      "date": "2025-12-18 00:12:07",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-18/china-reportedly-has-a-prototype-euv-machine-built/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "companies": [
-        "ASML"
       ],
       "people": []
     },
