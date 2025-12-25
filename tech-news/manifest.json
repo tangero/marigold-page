@@ -1,7 +1,167 @@
 {
-  "generated": "2025-12-24T20:34:54.785369+00:00",
+  "generated": "2025-12-25T01:20:30.660023+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Velké technologické firmy směřují k specializovaným modelům umělé inteligence a immersivnímu maloobchodu",
+      "description": "Od nových multimodálních modelů umělé inteligence po immersivní prostory pro vyprávění příběhů a nástroje pro podniky řízené agenty ukazují nejnovější kroky velkých technologických firem, že se umělá inteligence stává spojovacím prvkem napříč produkty, zážitky a obchodními operacemi. Meta připravuje modely Mango a Avocado pro rozšíření svého AI arzenálu.",
+      "slug": "big-tech-moves-toward-specialized-ai-and-immersive",
+      "publishedAt": "2025-12-24T00:48:59+00:00",
+      "date": "2025-12-24 00:48:59",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2025/12/AI-digital-transformation.jpeg?w=457",
+      "url": "/tech-news/2025-12-24/big-tech-moves-toward-specialized-ai-and-immersive/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [
+        "Meta"
+      ],
+      "people": []
+    },
+    {
+      "title": "ServiceNow koupí Armis za 7,75 miliardy dolarů a posiluje kyberbezpečnost pro AI",
+      "description": "ServiceNow oznámila akvizici kyberbezpečnostní firmy Armis za 7,75 miliardy dolarů v hotovosti. Tato největší transakce společnosti má podpořit důvěru v autonomní AI agenty a rozšířit portfolio v oblasti bezpečnosti rizik a operační technologie.",
+      "slug": "servicenow-to-buy-armis-for-775-billion-as-it-bets",
+      "publishedAt": "2025-12-24T00:10:00+00:00",
+      "date": "2025-12-24 00:10:00",
+      "importance": 5,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://a.fsdn.com/sd/topics/business_64.png",
+      "url": "/tech-news/2025-12-24/servicenow-to-buy-armis-for-775-billion-as-it-bets/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "companies": [
+        "ServiceNow",
+        "Armis"
+      ],
+      "people": []
+    },
+    {
+      "title": "Čínské modely umělé inteligence překonávají americké konkurenty v adopci vývojáři",
+      "description": "Nedávná zpráva Stanfordské univerzity odhaluje, že čínské open-source modely umělé inteligence rychle dohánějí a v některých případech překonávají své americké uzavřené pendanty. Tento posun signalizuje změny v globálním technologickém prostředí.",
+      "slug": "chinese-ai-models-overtake-us-rivals-in-developer-",
+      "publishedAt": "2025-12-23T23:41:40+00:00",
+      "date": "2025-12-23 23:41:40",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://img.digitimes.com/newsshow/20251223pd203_files/2_b.jpg",
+      "url": "/tech-news/2025-12-23/chinese-ai-models-overtake-us-rivals-in-developer/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [
+        "Stanford University"
+      ],
+      "people": []
+    },
+    {
+      "title": "Harman od Samsungu přebírá divizi pokročilých systémů řidičské asistence ZF za 1,76 miliardy dolarů",
+      "description": "Samsung Electronics prostřednictvím dceřiné společnosti Harman International oznámil akvizici divize pokročilých systémů řidičské asistence (ADAS) od ZF Friedrichshafen za 1,5 miliardy eur, což odpovídá přibližně 1,76 miliardám dolarů. Tento krok má posílit nabídku senzorů a řídicích systémů pro bezpečnější automobilovou jízdu.",
+      "slug": "samsungs-harman-to-acquire-zfs-advanced-driver-ass",
+      "publishedAt": "2025-12-23T23:34:05+00:00",
+      "date": "2025-12-23 23:34:05",
+      "importance": 5,
+      "category": "řidičská asistence",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Screenshot-from-2025-12-24-06-33-36.png",
+      "url": "/tech-news/2025-12-23/samsungs-harman-to-acquire-zfs-advanced-driver-ass/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Samsung",
+        "Harman",
+        "ZF Friedrichshafen"
+      ],
+      "people": []
+    },
+    {
+      "title": "ServiceNow koupí Armis za 7,75 miliardy dolarů a posiluje kyberbezpečnost pro AI",
+      "description": "ServiceNow oznámila akvizici kyberbezpečnostní firmy Armis za 7,75 miliardy dolarů v hotovosti, což je její největší transakce dosud. Tento krok podporuje strategii firmy v oblasti umělé inteligence tím, že zlepšuje governance a důvěru v autonomní AI agenty.",
+      "slug": "servicenow-to-buy-armis-for-775-billion-as-it-bets",
+      "publishedAt": "2025-12-23T23:11:22+00:00",
+      "date": "2025-12-23 23:11:22",
+      "importance": 5,
+      "category": "kyberbezpečnost",
+      "urlToImage": null,
+      "url": "/tech-news/2025-12-23/servicenow-to-buy-armis-for-775-billion-as-it-bets/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "companies": [
+        "ServiceNow",
+        "Armis"
+      ],
+      "people": []
+    },
+    {
+      "title": "DDoS útok vyřadil francouzskou poštu La Poste během vánočního vrcholu",
+      "description": "Francouzská národní poštovní služba La Poste a její bankovní pobočka La Banque Postale byly v pondělí paralyzovány distribuovaným útokem typu DDoS, který narušil online služby v období největšího návalu před Vánoci. Útok ovlivnil webové stránky, mobilní aplikace, sledování zásilek a online bankovnictví.",
+      "slug": "ddos-attack-knocks-frances-postal-service-la-poste",
+      "publishedAt": "2025-12-23T23:09:40+00:00",
+      "date": "2025-12-23 23:09:40",
+      "importance": 5,
+      "category": "ddos útok",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/laposte.png",
+      "url": "/tech-news/2025-12-23/ddos-attack-knocks-frances-postal-service-la-poste/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Trump versus státy: Kdo má právo regulovat umělou inteligenci?",
+      "description": "Prezident Trump zřídil úkolovou skupinu k výzvě státním zákonům o umělé inteligenci, regulace této technologie však spadá do nejasné jurisdikce.",
+      "slug": "trump-vs-states-who-gets-to-regulate-ai",
+      "publishedAt": "2025-12-23T22:47:30+00:00",
+      "date": "2025-12-23 22:47:30",
+      "importance": 4,
+      "category": "regulace ai",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/FhdL3tZb3YpMhCWCy8d6dh-2000-80.jpg",
+      "url": "/tech-news/2025-12-23/trump-vs-states-who-gets-to-regulate-ai/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Week Magazine"
+      },
+      "companies": [],
+      "people": [
+        "Donald Trump"
+      ]
+    },
+    {
+      "title": "Nový americký vojenský nástroj GenAI je ‚kritickým prvním krokem‘ v budoucnosti války, říká expert",
+      "description": "Nedávno spuštěný nástroj GenAI pro americké vojáky a zaměstnance ministerstva války je podle vojenského experta ‚kritickým prvním krokem‘ v budoucnosti války.",
+      "slug": "new-us-military-genai-tool-critical-first-step-in-",
+      "publishedAt": "2025-12-23T21:26:49+00:00",
+      "date": "2025-12-23 21:26:49",
+      "importance": 4,
+      "category": "vojenská ai",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/12/pete-hegseth-us-soldier-with-drone.png",
+      "url": "/tech-news/2025-12-23/new-us-military-genai-tool-critical-first-step-in/",
+      "source": {
+        "emoji": "📰",
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Zoox stahuje software kvůli překračování pruhů",
       "description": "Společnost Zoox vydala aktualizaci softwaru pro svůj systém autonomního řízení, aby opravila chování vozidel při překračování středové čáry u křižovatek a blokování přechodů pro chodce.",
@@ -3766,47 +3926,6 @@
       ]
     },
     {
-      "title": "Tchajwanský tlak na AI software potřebuje substanci, ne nouzová řešení",
-      "description": "Premiér Tchaj-wanu Cho Jung-tai oznámil investici 31,1 miliardy nových tchajwanských dolarů (993 milionů USD) v roce 2026 do 10 klíčových iniciativ AI infrastruktury, včetně dotovaného projektu pro rozvoj domácího sektoru AI software. Článek upozorňuje, že tyto snahy musí mít hlubší obsah, aby překonaly současné limity.",
-      "slug": "taiwans-ai-software-push-needs-substance-not-stopg",
-      "publishedAt": "2025-12-17T23:53:26+00:00",
-      "date": "2025-12-17 23:53:26",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://img.digitimes.com/newsshow/20251215pd208_files/2_2b.jpg",
-      "url": "/tech-news/2025-12-17/taiwans-ai-software-push-needs-substance-not-stopg/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
-      },
-      "companies": [],
-      "people": [
-        "Cho Jung-tai"
-      ]
-    },
-    {
-      "title": "Quantum Computing Inc. uskutečňuje 110milionový tah v kvantovém sektoru",
-      "description": "Společnost Quantum Computing Inc. (QCi), dodavatel cenově dostupných počítačů a integrované fotonické technologie, oznámila akvizici semiconductorové divize nedávno zbankrotované Luminar za 110 milionů dolarů v hotovostní transakci. Tento krok přichází v dynamickém období pro kvantovou techniku.",
-      "slug": "quantum-computing-makes-110-million-move-nobody-sa",
-      "publishedAt": "2025-12-17T23:36:36+00:00",
-      "date": "2025-12-17 23:36:36",
-      "importance": 4,
-      "category": "kvantové počítače",
-      "urlToImage": "https://biztoc.com/cdn/f6a8eed45b0a51e7_s.webp",
-      "url": "/tech-news/2025-12-17/quantum-computing-makes-110-million-move-nobody-sa/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "companies": [
-        "QCi",
-        "Luminar"
-      ],
-      "people": []
-    },
-    {
       "title": "Když vaše vlastnictví věci, kterou jste koupili, závisí na pokračujících platbách",
       "description": "S rozvojem internetu věcí a integrací síťových počítačů do každodenních interakcí může funkčnost téměř libovolného zařízení nebo služby záviset na udržování dobrého vztahu mezi poskytovatelem a zákazníkem. Článek poukazuje na rizika závislosti na cloudových infrastrukturách a předplatných modelech u automobilů.",
       "slug": "when-your-ownership-of-something-you-bought-depend",
@@ -3846,26 +3965,6 @@
       "people": []
     },
     {
-      "title": "Tesla zaváděla zákazníky ohledně funkcí autonomního řízení, rozhodl soudce",
-      "description": "Kalifornské ministerstvo motorových vozidel varovalo Teslu, že by mohlo být dočasně zakázáno prodávat vozy v největším americkém trhu, pokud nezmění zavádějící marketing přehánějící schopnosti autonomního řízení svých aut.",
-      "slug": "tesla-misled-customers-about-self-driving-features",
-      "publishedAt": "2025-12-17T11:48:33+00:00",
-      "date": "2025-12-17 11:48:33",
-      "importance": 4,
-      "category": "autonomní řízení",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKE001_STK086_Tesla_Robotaxi_3_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "url": "/tech-news/2025-12-17/tesla-misled-customers-about-self-driving-features/",
-      "source": {
-        "emoji": "⚡",
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "companies": [
-        "Tesla"
-      ],
-      "people": []
-    },
-    {
       "title": "Kapacita TSMC pro 2nm je údajně rezervována do konce roku 2026, průlom v architektuře GAA přitahuje zákazníky",
       "description": "Taiwanský výrobce čipů TSMC má plně obsazenou kapacitu pro 2nm proces až do konce roku 2026 díky přechodu na Gate All-Around (GAA) architekturu, která zlepšuje výkon a energetickou účinnost oproti předchozímu FinFET. Klienti jako Apple s čipy A20 a A20 Pro vedou poptávku, což nutí TSMC rozšiřovat výrobu.",
       "slug": "tsmcs-2nm-capacity-is-reportedly-booked-until-the-",
@@ -3887,26 +3986,6 @@
       "people": []
     },
     {
-      "title": "Tesla používala zavádějící jazyk v marketingu Autopilotu, rozhodl kalifornský soudce",
-      "description": "Prodej Tesly v Kalifornii by měl být na 30 dní pozastaven kvůli zavádějícímu marketingu systémů Autopilot a Full Self-Driving, které matoucí prezentovaly vozidla jako schopná plně autonomní jízdy úrovně 5. Kalifornské DMV v roce 2022 obvinilo automobilku z klamavého jazyka a soudce s tím souhlasí, ale dává Tesle 90 dní na opravu materiálů.",
-      "slug": "tesla-used-deceptive-language-to-market-autopilot-",
-      "publishedAt": "2025-12-17T04:13:05+00:00",
-      "date": "2025-12-17 04:13:05",
-      "importance": 4,
-      "category": "elektromobilita",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-17/tesla-used-deceptive-language-to-market-autopilot/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "companies": [
-        "Tesla"
-      ],
-      "people": []
-    },
-    {
       "title": "Sledujte: Čína má nového humanoidního robota s AI na řízení dopravy",
       "description": "Hangzhou nasadilo robota s umělou inteligencí Hangxing No. 1 pro směrování vozidel a chodců na hlavní křižovatce a vydávání varování porušovatelům. Robot je doplnkem k lidským policistům a plánuje se mu přidat schopnosti velkých jazykových modelů.",
       "slug": "watch-china-has-a-new-ai-humanoid-robot-in-charge-",
@@ -3923,91 +4002,6 @@
       },
       "companies": [],
       "people": []
-    },
-    {
-      "title": "Nadcházející krize s AI agenty: Proč je nový bezpečnostní standard od Okta nezbytností pro podniky",
-      "description": "Mezi prvními adoptéry jsou Google, Amazon a Microsoft. Nový standard poskytne organizacím větší viditelnost a kontrolu nad přístupy externích aplikací, zejména AI agentů. Zde je vysvětleno, jak funguje.",
-      "slug": "the-coming-ai-agent-crisis-why-oktas-new-security-",
-      "publishedAt": "2025-12-17T03:00:51+00:00",
-      "date": "2025-12-17 03:00:51",
-      "importance": 4,
-      "category": "ai bezpečnost",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/757976b28e286c968a77546277a5b140b6368b9d/2025/12/16/068d5d76-2360-46d6-90c4-1f4073e4665b/digitalsecure555gettyimages-534034974.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "url": "/tech-news/2025-12-17/the-coming-ai-agent-crisis-why-oktas-new-security/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "ZDNet"
-      },
-      "companies": [
-        "Okta",
-        "Google",
-        "Amazon",
-        "Microsoft"
-      ],
-      "people": []
-    },
-    {
-      "title": "Soudce rozhodl, že Tesla vedla klamavý marketing pro Autopilot a Full Self-Driving | TechCrunch",
-      "description": "Administrativní soudce rozhodla, že Tesla vedla klamavý marketing, který u zákazníků vytvářel mylný dojem o schopnostech systémů Autopilot a Full Self-Driving. Soudce schválila žádost kalifornského ministerstva motorových vozidel (DMV) o 30denním pozastavení výrobních a prodejních licencí společnosti v Kalifornii, ale DMV toto rozhodnutí odložilo o 90 dní pro umožnění souladu.",
-      "slug": "tesla-engaged-in-deceptive-marketing-for-autopilot",
-      "publishedAt": "2025-12-17T01:18:07+00:00",
-      "date": "2025-12-17 01:18:07",
-      "importance": 4,
-      "category": "autonomní řízení",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1513214947.jpg?resize=1200,801",
-      "url": "/tech-news/2025-12-17/tesla-engaged-in-deceptive-marketing-for-autopilot/",
-      "source": {
-        "emoji": "🚀",
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "companies": [
-        "Tesla"
-      ],
-      "people": []
-    },
-    {
-      "title": "Tesla čelí zákazu prodeje v Kalifornii, pokud nezmění marketing",
-      "description": "Prodeje Tesla v Kalifornii mohou být na 30 dní pozastaveny, pokud společnost nezmění marketingové praktiky, které údajně zavádějí spotřebitele ohledně technologie asistence řidiči Autopilot a Full Self-Driving, uvedlo kalifornské ministerstvo motorových vozidel.",
-      "slug": "tesla-faces-california-sales-halt-unless-it-change",
-      "publishedAt": "2025-12-17T00:58:56+00:00",
-      "date": "2025-12-17 00:58:56",
-      "importance": 4,
-      "category": "elektromobilita",
-      "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-12-17%2F34l4s0sx%2F446066382.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
-      "url": "/tech-news/2025-12-17/tesla-faces-california-sales-halt-unless-it-change/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Ndtvprofit.com"
-      },
-      "companies": [
-        "Tesla"
-      ],
-      "people": []
-    },
-    {
-      "title": "RailTel plánuje partnerství se Starlinkem Elona Muska. Proč to může být výhodné pro obě strany",
-      "description": "Státní indická společnost RailTel jedná o využití satelitního internetu Starlink jako backhaulu pro poskytování broadbandového přístupu v odlehlých oblastech prostřednictvím služby RailWire.",
-      "slug": "railtel-plans-to-partner-with-elon-musks-starlink-",
-      "publishedAt": "2025-12-17T00:21:03+00:00",
-      "date": "2025-12-17 00:21:03",
-      "importance": 4,
-      "category": "satelitní internet",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2025/12/16/1600x900/logo/2-0-1411317137-internet1-0_1679755393449_1765897728890.jpg",
-      "url": "/tech-news/2025-12-17/railtel-plans-to-partner-with-elon-musks-starlink/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Livemint"
-      },
-      "companies": [
-        "Starlink"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
     }
   ]
 }
