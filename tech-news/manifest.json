@@ -1,7 +1,148 @@
 {
-  "generated": "2025-12-26T12:46:32.606384+00:00",
+  "generated": "2025-12-26T16:37:48.986945+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Skříňka Pandorina Pentagonu je dokořán otevřená: USA integrují svůj pokročilý „řetězec zabíjení řízený AI“ do vojenských a zpravodajských operací",
+      "description": "Článek analyzuje integraci pokročilého systému řetězce zabíjení pod kontrolou umělé inteligence do operací amerického Pentagonu. Odkazuje na historický kontext Samuela Huntingtona a varuje před riziky automatizovaného zabíjení.",
+      "slug": "the-pentagons-pandoras-box-is-wide-open-the-us-int",
+      "publishedAt": "2025-12-25T15:55:30+00:00",
+      "date": "2025-12-25 15:55:30",
+      "importance": 4,
+      "category": "vojenská ai",
+      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2025/12/B_Pandora_Box.jpeg",
+      "url": "/tech-news/2025-12-25/the-pentagons-pandoras-box-is-wide-open-the-us-int/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Globalresearch.ca"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Nvidia kupuje aktiva Groq za 20 miliard dolarů – největší dohoda v historii společnosti",
+      "description": "Nvidia souhlasila s koupí aktiv od Groq, výrobce vysokovýkonných čipů pro akceleraci umělé inteligence, za 20 miliard dolarů v hotovosti. Podle generálního ředitele Disruptive Alexa Davise dohoda proběhla rychle, přičemž klíčoví manažeři Groq přecházejí do Nvidia.",
+      "slug": "nvidia-buying-groqs-assets-for-20-billion-in-its-l",
+      "publishedAt": "2025-12-25T15:01:00+00:00",
+      "date": "2025-12-25 15:01:00",
+      "importance": 5,
+      "category": "ai hardware",
+      "urlToImage": "https://a.fsdn.com/sd/topics/business_64.png",
+      "url": "/tech-news/2025-12-25/nvidia-buying-groqs-assets-for-20-billion-in-its-l/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "companies": [
+        "Nvidia",
+        "Groq"
+      ],
+      "people": [
+        "Alex Davis"
+      ]
+    },
+    {
+      "title": "Použití AI k vyhnutí se odtažení auta",
+      "description": "Funkce FSD Summon od Tesly, technologie umělé inteligence a počítačové vidění pomohly majiteli vyhnout se odtažení vozu a ušetřit 400 dolarů. Případ demonstruje praktické možnosti autonomního parkování v reálném prostředí.",
+      "slug": "using-ai-to-avoid-getting-your-car-towed",
+      "publishedAt": "2025-12-25T15:00:02+00:00",
+      "date": "2025-12-25 15:00:02",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://i.insider.com/694475bc64858d02d2171a76?width=1200&format=jpeg",
+      "url": "/tech-news/2025-12-25/using-ai-to-avoid-getting-your-car-towed/",
+      "source": {
+        "emoji": "📰",
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "companies": [
+        "Tesla"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nvidia odkoupila aktiva AI čipového startupu Groq za 20 miliard dolarů – největší dohoda v historii společnosti. Transakce zahrnuje převzetí klíčových zaměstnanců Groq včetně CEO",
+      "description": "Groq, konkurent Nvidia v závodě o AI čipy, uzavřel neexkluzivní licenční dohodu s Nvidia v hodnotě 20 miliard dolarů, což převyšuje jeho poslední valuaci o přibližně 13 miliard. Nvidia přijme zakladatele a CEO firmy spolu s dalšími klíčovými zaměstnanci a licencuje jejich duševní vlastnictví.",
+      "slug": "nvidia-buys-ai-chip-startup-groqs-assets-for-20-bi",
+      "publishedAt": "2025-12-25T14:35:10+00:00",
+      "date": "2025-12-25 14:35:10",
+      "importance": 5,
+      "category": "ai čipy",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/TSDruYdVxCEoCaLZC7Ufdg-2560-80.jpg",
+      "url": "/tech-news/2025-12-25/nvidia-buys-ai-chip-startup-groqs-assets-for-20-bi/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "companies": [
+        "Nvidia",
+        "Groq"
+      ],
+      "people": []
+    },
+    {
+      "title": "ThreatsDay Bulletin: Skryté loadery, chyby AI chatbotů, exploity AI, hack Dockeru a dalších 15 příběhů",
+      "description": "Je stále těžší rozlišit, kde končí normální technologie a začíná zlomyslný záměr. Útočníci už nejen prolomí dveře – splynou s prostředím, převezmují běžné nástroje, důvěryhodné aplikace a dokonce AI asistenty.",
+      "slug": "threatsday-bulletin-stealth-loaders-ai-chatbot-fla",
+      "publishedAt": "2025-12-25T14:01:00+00:00",
+      "date": "2025-12-25 14:01:00",
+      "importance": 5,
+      "category": "kybernetika",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLTZCBlcEQIEbZWXU3RR3B77xiWfU3KJqq8DjknH8ZNZtgGBsLgiYBO4BthMryQeog4ZEmsXaMCh6BUUCdWfibXHZ_NtEq40tdV5iiFUgpVRplI3zeRnRUm95-KlXosv-v08bOFoEL6IKWJdV0yB0OW5SFl0lE0R4D224pArrKv0Vverh8qRZrYEFALQx9/s790-rw-e365/threatsday.jpg",
+      "url": "/tech-news/2025-12-25/threatsday-bulletin-stealth-loaders-ai-chatbot-fla/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Internet"
+      },
+      "companies": [
+        "Docker"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nvidia uzavírá masivní dohodu na 20 miliard dolarů na AI čipy s Groq",
+      "description": "Nvidia uzavřela dohodu se startupem Groq na AI čipy v hodnotě až 20 miliard USD. Podle Bloombergu jde o technologickou licenci, která může významně ovlivnit trh s hardwarem pro umělou inteligenci.",
+      "slug": "nvidia-lands-massive-20b-ai-chip-deal-with-groq",
+      "publishedAt": "2025-12-25T13:10:26+00:00",
+      "date": "2025-12-25 13:10:26",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://cdn.iphoneincanada.ca/wp-content/uploads/2025/09/nvidia.jpg",
+      "url": "/tech-news/2025-12-25/nvidia-lands-massive-20b-ai-chip-deal-with-groq/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "iPhone in Canada"
+      },
+      "companies": [
+        "Nvidia",
+        "Groq"
+      ],
+      "people": []
+    },
+    {
+      "title": "Humanoidní roboti jsou stále jen novinkami, ale investice rostou, aby se stali realitou zítra",
+      "description": "Investice a zájem předcházejí technologii i společnosti. Když humanoidní roboti dorazili na Humanoids Summit v Počítačovém muzeu historie v Mountain View v Kalifornii 11. prosince, fronta na registraci už sahala dolů do lobby.",
+      "slug": "humanoid-robots-are-still-novelty-acts-but-investm",
+      "publishedAt": "2025-12-25T13:00:06+00:00",
+      "date": "2025-12-25 13:00:06",
+      "importance": 5,
+      "category": "robotika",
+      "urlToImage": "https://regmedia.co.uk/2025/12/11/humanoids_summit_2025_robot_folding.jpg",
+      "url": "/tech-news/2025-12-25/humanoid-robots-are-still-novelty-acts-but-investm/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "„Skrytý“ obchod s aplikacemi ChatGPT je už na vašem iPhonu",
       "description": "Aplikace ChatGPT na iPhonu se mění v druhý obchod s aplikacemi a nabízí rostoucí ekosystém integrací třetích stran. Tyto integrace umožňují provádět širokou škálu úkolů přímo v rozhraní ChatGPT, od tvorby playlistů po objednávání potravin.",
@@ -3300,26 +3441,6 @@
       ]
     },
     {
-      "title": "Pokroky v AI, nejpokročilejší brýle a další: Hlavní události Meta v roce 2025",
-      "description": "Meta shrnuje klíčové momenty roku 2025, včetně vize osobní superinteligence, nové aplikace AI, výzkumných modelů a rozvoje datových center. Zaměřuje se na inovace v umělé inteligenci a infrastruktuře.",
-      "slug": "ai-breakthroughs-our-most-advanced-glasses-and-mor",
-      "publishedAt": "2025-12-19T20:00:59+00:00",
-      "date": "2025-12-19 20:00:59",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://about.fb.com/wp-content/uploads/2025/12/2025-Meta-Highlights_Social-Share.jpg?w=1200",
-      "url": "/tech-news/2025-12-19/ai-breakthroughs-our-most-advanced-glasses-and-mor/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Fb.com"
-      },
-      "companies": [
-        "Meta"
-      ],
-      "people": []
-    },
-    {
       "title": "Yann LeCun potvrzuje svůj nový startup na 'world model', údajně hledá valuaci přes 5 miliard dolarů | TechCrunch",
       "description": "Známý vědec v oblasti umělé inteligence Yann LeCun ve čtvrtek potvrdil spuštění nového startupu Advanced Machine Intelligence (AMI Labs), zaměřeného na modely světa. Nechce však firmu řídit jako generální ředitel, funkci přebírá Alex LeBrun z lékařského AI startupu Nabla.",
       "slug": "yann-lecun-confirms-his-new-world-model-startup-re",
@@ -3398,24 +3519,6 @@
       "companies": [
         "Apple"
       ],
-      "people": []
-    },
-    {
-      "title": "40 užitečných tipů pro umělou inteligenci od Google z roku 2025",
-      "description": "Článek shrnuje klíčové tipy pro využití nových AI nástrojů Google z roku 2025. Ilustrace s tmavým motivem zobrazuje tři osoby interagující s technologiemi obklopené ikonami produktů v kategorii AI.",
-      "slug": "A-40-of-our-most-helpful-ai-tips-from-2025",
-      "publishedAt": "2025-12-19T16:00:00+00:00",
-      "date": "2025-12-19 16:00:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Tips_ss.width-1300.png",
-      "url": "/tech-news/2025-12-19/A-40-of-our-most-helpful-ai-tips-from-2025/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Blog.google"
-      },
-      "companies": [],
       "people": []
     },
     {
@@ -3840,44 +3943,6 @@
       ]
     },
     {
-      "title": "Startup Neural Concept s AI pro návrh získal 100 milionů dolarů na urychlení inženýrského vývoje produktů",
-      "description": "Švýcarský startup Neural Concept SA získal 100 milionů dolarů v investičním kole série C na přepracování návrhu a inženýrství produktů pomocí nástrojů pro počítačově podporovaný návrh. Kolo vedla Growth Equity od Goldman Sachs Alternatives s účastí investorů jako Forestay Capital, Alven, HTGF, D.E. Shaw Ventures a Aster Capital.",
-      "slug": "ai-aided-design-software-startup-neural-concept-ra",
-      "publishedAt": "2025-12-19T01:49:39+00:00",
-      "date": "2025-12-19 01:49:39",
-      "importance": 4,
-      "category": "ai startupy",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Screenshot-from-2025-12-19-08-47-35.png",
-      "url": "/tech-news/2025-12-19/ai-aided-design-software-startup-neural-concept-ra/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Neural Concept SA"
-      ],
-      "people": []
-    },
-    {
-      "title": "24 společností se připojuje k americké Genesis Mission pro využití AI ve vědě",
-      "description": "Dvacet čtyři organizací vyjádřilo zájem nebo se zapojilo do Genesis Mission, národní iniciativy Bílého domu, která má prostřednictvím umělé inteligence urychlit pokroky ve vědě, energetice a národní bezpečnosti. Mezi účastníky jsou klíčoví hráči jako Anthropic, Amazon Web Services, Google, Microsoft, Nvidia, OpenAI a xAI.",
-      "slug": "A-24-companies-join-us-genesis-mission-to-harness-",
-      "publishedAt": "2025-12-19T01:32:03+00:00",
-      "date": "2025-12-19 01:32:03",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2025/12/White-House-AI1.jpg",
-      "url": "/tech-news/2025-12-19/A-24-companies-join-us-genesis-mission-to-harness/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "pymnts.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "GPT-5.2-Codex od OpenAI posouvá inženýrství softwaru lepším uvažováním a porozuměním kontextu",
       "description": "OpenAI Group PBC vydalo GPT-5.2-Codex, novou verzi agentického modelu umělé inteligence pro kódování, který automatizuje složité úkoly inženýrství softwaru. Model navazuje na GPT-5.2 a přináší zlepšení v kompresi kontextu, refaktoringu kódu, výkonu ve Windows a kyberbezpečnosti.",
       "slug": "openais-gpt-52-codex-advances-software-engineering",
@@ -3935,66 +4000,6 @@
         "Aptos"
       ],
       "people": []
-    },
-    {
-      "title": "Umělá inteligence a kvantová věda v centru pozornosti za Trumpa – ale bez významného nového financování",
-      "description": "Americká administrativa spoléhá na veřejně-soukromé partnerství a rozšířenou pracovní sílu pro pokrok v AI a kvantové vědě, kritici však varují, že tuto strategii mohou oslabit jiné politiky USA.",
-      "slug": "ai-and-quantum-science-take-centre-stage-under-tru",
-      "publishedAt": "2025-12-19T00:00:00+00:00",
-      "date": "2025-12-19 00:00:00",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-025-04108-y/d41586-025-04108-y_51840178.jpg",
-      "url": "/tech-news/2025-12-19/ai-and-quantum-science-take-centre-stage-under-tru/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Nature.com"
-      },
-      "companies": [],
-      "people": [
-        "Trump"
-      ]
-    },
-    {
-      "title": "Proč dohoda Disney se Sorou znamená obrat v bitvách o umělou inteligenci",
-      "description": "OpenAI vydalo v říjnu Sora 2, což způsobilo lavinu porušení autorských práv na internetu. Místo žaloby se Disney spojilo s firmou v dohodě oznámené 11. prosince, která umožní uživatelům Sora pracovat s 200 ikonickými postavami včetně Darth Vadera, Elsy a Mickeyho Mousea.",
-      "slug": "why-disneys-sora-deal-marks-a-turning-point-in-the",
-      "publishedAt": "2025-12-18T19:11:30+00:00",
-      "date": "2025-12-18 19:11:30",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://variety.com/wp-content/uploads/2025/12/Iger-Altman.jpg?w=1000&h=563&crop=1",
-      "url": "/tech-news/2025-12-18/why-disneys-sora-deal-marks-a-turning-point-in-the/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Variety"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Co potřebujete vědět o Trumpově výkonném nařízení omezujícím státní regulace AI",
-      "description": "Prezident Donald Trump podepsal výkonný příkaz, který státy nabádá, aby se zdržely regulace umělé inteligence. Trump a někteří republikáni argumentují, že takové regulace brzdí inovace a růst technologie, zatímco kritici varují před nedostatkem dohledu nad velkými AI firmami.",
-      "slug": "what-to-know-about-trumps-executive-order-to-curta",
-      "publishedAt": "2025-12-18T07:28:22+00:00",
-      "date": "2025-12-18 07:28:22",
-      "importance": 4,
-      "category": "ai regulace",
-      "urlToImage": "https://www.insurancejournal.com/app/uploads/2024/11/donald-trump-speaks-at-campaign-rally-AP-scaled.jpg",
-      "url": "/tech-news/2025-12-18/what-to-know-about-trumps-executive-order-to-curta/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Insurance Journal"
-      },
-      "companies": [],
-      "people": [
-        "Donald Trump"
-      ]
     }
   ]
 }
