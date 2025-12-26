@@ -1,15 +1,114 @@
 {
-  "generated": "2025-12-26T04:50:57.120893+00:00",
+  "generated": "2025-12-26T08:42:29.615356+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "Nvidia se připojuje k vlně dohod velkých firem, licencuje technologii Groq a najímá její vedení",
-      "description": "Nvidia licencovala čipovou technologii od startupu Groq a převzala jeho zakladatele a CEO Jonathana Rossa, veterána z Google AI. Tato dohoda navazuje na trend, kdy technologickí giganti získávají talenty a technologie bez plných akvizic, přičemž Groq se specializuje na inference modelů umělé inteligence.",
+      "title": "Mozkový implantát umožnil paralyzovanému muži ovládat ruce jiné osoby",
+      "description": "Nový systém mozkomozkového rozhraní umožnil quadriplegikovi ovládat pohyby rukou zdravé dobrovolnice a vnímat jejich doteky. Studie popisuje propojení mozků dvou osob prostřednictvím elektrod a umělé inteligence.",
+      "slug": "remarkable-brain-implant-allows-a-paralyzed-man-to",
+      "publishedAt": "2025-12-25T06:55:03+00:00",
+      "date": "2025-12-25 06:55:03",
+      "importance": 4,
+      "category": "kybernetika",
+      "urlToImage": "https://twistedsifter.com/wp-content/uploads/2025/10/Spine.jpg",
+      "url": "/tech-news/2025-12-25/remarkable-brain-implant-allows-a-paralyzed-man-to/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Twistedsifter.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "USA nebo Čína? Stát, který vyhraje závod v jaderné fúzi, ovládne globální primát",
+      "description": "Geopolitičtí analytici diskutují, zda USA a Čína vedou studenou válku nebo soutěž o globální dominanci. Článek argumentuje, že klíčem k úspěchu je závod v jaderné fúzi, která poskytne levnou energii pro AI a vojenské technologie.",
+      "slug": "us-or-china-the-nation-that-wins-the-nuclear-fusio",
+      "publishedAt": "2025-12-25T06:04:14+00:00",
+      "date": "2025-12-25 06:04:14",
+      "importance": 5,
+      "category": "jaderná fúze",
+      "urlToImage": null,
+      "url": "/tech-news/2025-12-25/us-or-china-the-nation-that-wins-the-nuclear-fusio/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Exkluzivně: Nvidia kupuje aktiva startupu Groq na AI čipy za přibližně 20 miliard dolarů – největší dohoda v historii",
+      "description": "Nvidia souhlasila s koupí aktiv od startupu Groq, který navrhuje vysokovýkonnostní akcelerátory pro umělou inteligenci, za 20 miliard dolarů v hotovosti. Jedná se o největší akvizici Nvidia dosud, přičemž Groq zůstane nezávislou společností s pokračujícím provozem svého cloudu.",
+      "slug": "exclusive-nvidia-buying-ai-chip-startup-groqs-asse",
+      "publishedAt": "2025-12-25T06:01:09+00:00",
+      "date": "2025-12-25 06:01:09",
+      "importance": 5,
+      "category": "ai čipy",
+      "urlToImage": null,
+      "url": "/tech-news/2025-12-25/exclusive-nvidia-buying-ai-chip-startup-groqs-asse/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "companies": [
+        "Nvidia",
+        "Groq",
+        "Disruptive"
+      ],
+      "people": [
+        "Alex Davis"
+      ]
+    },
+    {
+      "title": "Sociální inženýrství stálo kryptoměny miliardy v roce 2025: Jak se chránit",
+      "description": "Lidská složka představuje jednu z nejslabších oblastí v bezpečnosti kryptoměn, autentizace, hardwarové peněženky, automatizace a přísné ověřovací návyky však umožňují riziko výrazně snížit.",
+      "slug": "social-engineering-cost-crypto-billions-in-2025-ho",
+      "publishedAt": "2025-12-25T05:47:17+00:00",
+      "date": "2025-12-25 05:47:17",
+      "importance": 5,
+      "category": "kryptoměny",
+      "urlToImage": "https://s3.cointelegraph.com/uploads/2025-12/019afbcd-f94b-7c9e-bf65-ca00a3d34b4b",
+      "url": "/tech-news/2025-12-25/social-engineering-cost-crypto-billions-in-2025-ho/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Cointelegraph"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Nvidia licencuje technologii inference od Groq, klíčoví manažeři Groq přecházejí do čipového výrobce",
+      "description": "Nvidia uzavírá partnerství s Groq za účelem rozšíření přístupu k technologii pro odvozování v umělé inteligenci a údajně získává aktiva této firmy. Manažeři Groq, včetně generálního ředitele, se připojí k Nvidia.",
+      "slug": "nvidia-licenses-groq-inference-technology-groq-exe",
+      "publishedAt": "2025-12-25T05:04:39+00:00",
+      "date": "2025-12-25 05:04:39",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/657543518/image_657543518.jpg?io=getty-c-w630",
+      "url": "/tech-news/2025-12-25/nvidia-licenses-groq-inference-technology-groq-exe/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Seeking Alpha"
+      },
+      "companies": [
+        "Nvidia",
+        "Groq"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nvidia se připojuje k vlně dohod velkých technologických firem, licencuje technologii Groq a najímá její vedení",
+      "description": "Nvidia licencovala technologii čipů od startupu Groq a najala jeho zakladatele a generálního ředitele Jonathana Rossa, veterána AI z Google. Tato dohoda navazuje na trend, kdy technologické giganty získávají technologie a talenty bez plných akvizic, přičemž Groq se specializuje na inference modelů umělé inteligence.",
       "slug": "nvidia-joining-big-tech-deal-spree-to-license-groq",
       "publishedAt": "2025-12-25T02:57:44+00:00",
       "date": "2025-12-25 02:57:44",
       "importance": 4,
-      "category": "ai",
+      "category": "ai hardware",
       "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-114962,resizemode-75,msid-126169570/tech/technology/nvidia-joining-big-tech-deal-spree-to-license-groq-technology-hire-executives.jpg",
       "url": "/tech-news/2025-12-25/nvidia-joining-big-tech-deal-spree-to-license-groq/",
       "source": {
@@ -25,8 +124,8 @@
       "people": []
     },
     {
-      "title": "Doubao společnosti ByteDance dosáhl 100 milionů denních aktivních uživatelů s minimálními marketingovými výdaji",
-      "description": "Denní aktivní uživatelé (DAU) aplikace Doubao překročili 100 milionů podle interních dat ByteDance. Výdaje na získávání uživatelů a marketing jsou nejnižší mezi všemi produkty společnosti, které tuto úroveň dosáhly.",
+      "title": "Doubao společnosti ByteDance dosáhl 100 milionů denních aktivních uživatelů s minimálními výdaji na marketing",
+      "description": "Denně aktivní uživatelé (DAU) Doubao překročili 100 milionů podle interních dat ByteDance. Výdaje na získávání uživatelů a marketing jsou nejnižší mezi všemi produkty firmy, které toto číslo dosáhly.",
       "slug": "bytedances-doubao-reaches-100m-dau-with-minimal-ma",
       "publishedAt": "2025-12-25T02:49:27+00:00",
       "date": "2025-12-25 02:49:27",
@@ -3798,73 +3897,6 @@
       "people": []
     },
     {
-      "title": "Ministerstvo energetiky USA uzavřelo dohody o spolupráci v AI s technologickými giganty pro misi Genesis",
-      "description": "Ministerstvo energetiky USA podepsalo smlouvy s 24 organizacemi včetně Microsoftu, Googlu a Nvidia na podporu národního programu Genesis Mission. Tento program má využít umělou inteligenci k urychlení vědeckého výzkumu a posílení energetické a bezpečnostní nezávislosti USA.",
-      "slug": "us-energy-department-signs-ai-collaboration-deals-",
-      "publishedAt": "2025-12-18T19:59:33+00:00",
-      "date": "2025-12-18 19:59:33",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--bAJD1LWi--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-12-18T222405Z_3_LYNXMPELBH16H_RTROPTP_3_GULF-AI.JPG?itok=E6Y9VtmZ",
-      "url": "/tech-news/2025-12-18/us-energy-department-signs-ai-collaboration-deals/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNA"
-      },
-      "companies": [
-        "Microsoft",
-        "Google",
-        "Nvidia"
-      ],
-      "people": []
-    },
-    {
-      "title": "Trump Media se slučuje s firmou na fúzní energii v dealu za 6 miliard dolarů na napájení AI",
-      "description": "Společnost Trump Media & Technology Group, mateřská firma platformy Truth Social, se slučuje s TAE Technologies, soukromou firmou zaměřenou na vývoj fúzní energie. Deal v hodnotě přes 6 miliard dolarů má umožnit stavbu první komerční fúzní elektrárny pro napájení systémů umělé inteligence.",
-      "slug": "trump-media-to-merge-with-fusion-energy-company-in",
-      "publishedAt": "2025-12-18T19:57:13+00:00",
-      "date": "2025-12-18 19:57:13",
-      "importance": 5,
-      "category": "fúzní energie",
-      "urlToImage": "https://img.etimg.com/thumb/msid-126064480,width-1200,height-630,imgsize-16622,overlay-economictimes/articleshow.jpg",
-      "url": "/tech-news/2025-12-18/trump-media-to-merge-with-fusion-energy-company-in/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Trump Media",
-        "TAE Technologies"
-      ],
-      "people": []
-    },
-    {
-      "title": "Trump Media se sloučí s firmou na jadernou fúzi v dealu za 6 miliard dolarů",
-      "description": "Firma za platformou Truth Social prezidenta Donalda Trumpa se sloučí s energetickou společností podporovanou Googlem v transakci v hodnotě přes 6 miliard dolarů. Trump Media & Technology Group (TMTG) oznámila sloučení s TAE Technologies.",
-      "slug": "trump-media-to-merge-with-nuclear-fusion-firm-in-6",
-      "publishedAt": "2025-12-18T19:18:03+00:00",
-      "date": "2025-12-18 19:18:03",
-      "importance": 5,
-      "category": "jaderná fúze",
-      "urlToImage": "https://biztoc.com/cdn/1ab6d0c535fd5221_s.webp",
-      "url": "/tech-news/2025-12-18/trump-media-to-merge-with-nuclear-fusion-firm-in-6/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "companies": [
-        "Google",
-        "Trump Media & Technology Group",
-        "TAE"
-      ],
-      "people": [
-        "Donald Trump"
-      ]
-    },
-    {
       "title": "Proč dohoda Disney se Sorou znamená obrat v bitvách o umělou inteligenci",
       "description": "OpenAI vydalo v říjnu Sora 2, což způsobilo lavinu porušení autorských práv na internetu. Místo žaloby se Disney spojilo s firmou v dohodě oznámené 11. prosince, která umožní uživatelům Sora pracovat s 200 ikonickými postavami včetně Darth Vadera, Elsy a Mickeyho Mousea.",
       "slug": "why-disneys-sora-deal-marks-a-turning-point-in-the",
@@ -3881,26 +3913,6 @@
       },
       "companies": [
         "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "TSMC urychluje instalaci zařízení v arizonské továrně Fab 21, produkce N3 čipů začne v roce 2027",
-      "description": "Stavba továrny Fab 21 fáze 2 v Arizoně je dokončena, instalace výrobního zařízení začne v létě 2026 a hromadná výroba v roce 2027 – o několik čtvrtletí před původním plánem.",
-      "slug": "tsmc-brings-its-most-advanced-chipmaking-node-to-t",
-      "publishedAt": "2025-12-18T15:56:00+00:00",
-      "date": "2025-12-18 15:56:00",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/kT3cGxzfZdqUVF5pbVWu5a-2560-80.jpg",
-      "url": "/tech-news/2025-12-18/tsmc-brings-its-most-advanced-chipmaking-node-to-t/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "companies": [
-        "TSMC"
       ],
       "people": []
     },
@@ -3924,27 +3936,6 @@
         "James Altucher",
         "Elon Musk"
       ]
-    },
-    {
-      "title": "Udemy a Coursera se sloučí v dohodě za 2,5 miliardy dolarů",
-      "description": "Dvě přední platformy pro online vzdělávání, Coursera a Udemy, oznámily sloučení v transakci v hodnotě 2,5 miliardy dolarů, aby reagovaly na pokroky v generativní umělé inteligenci. Dohoda by měla být dokončena ve druhé polovině roku 2026.",
-      "slug": "udemy-coursera-to-merge-in-25b-deal",
-      "publishedAt": "2025-12-18T08:00:00+00:00",
-      "date": "2025-12-18 08:00:00",
-      "importance": 4,
-      "category": "online vzdělávání",
-      "urlToImage": "https://www.insidehighered.com/sites/default/files/styles/large/public/2025-09/CompleteCollegeAmerica_T034.jpg?itok=ooQDTmxm",
-      "url": "/tech-news/2025-12-18/udemy-coursera-to-merge-in-25b-deal/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Inside Higher Ed"
-      },
-      "companies": [
-        "Udemy",
-        "Coursera"
-      ],
-      "people": []
     },
     {
       "title": "Co potřebujete vědět o Trumpově výkonném nařízení omezujícím státní regulace AI",
