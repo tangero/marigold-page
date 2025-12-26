@@ -910,6 +910,46 @@ audio::-webkit-media-controls-time-remaining-display {
 }
 
 /*********************/
+/* STRÁNKOVÁNÍ */
+/*********************/
+
+.pagination {
+  text-align: center;
+  padding: 30px 0 40px 0;
+  margin-top: 20px;
+  font-size: 16px;
+
+  a, span {
+    display: inline-block;
+    padding: 8px 12px;
+    margin: 0 3px;
+    border-radius: 4px;
+    text-decoration: none;
+    transition: all 0.2s ease;
+  }
+
+  a {
+    background-color: $lightGray;
+    color: $darkGray;
+
+    &:hover {
+      background-color: $blue;
+      color: white;
+    }
+  }
+
+  span {
+    color: $gray;
+
+    &.webjeda {
+      background-color: $blue;
+      color: white;
+      font-weight: bold;
+    }
+  }
+}
+
+/*********************/
 /* KOMPAKTNÍ PATIČKA */
 /*********************/
 
