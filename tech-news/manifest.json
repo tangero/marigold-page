@@ -1,7 +1,232 @@
 {
-  "generated": "2025-12-25T20:35:57.541233+00:00",
+  "generated": "2025-12-26T01:17:36.915826+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "DP Technology získává 114 milionů dolarů na urychlení čínského průmyslu AI pro vědu",
+      "description": "Pekingský startup DP Technology Co. Ltd. oznámil plán použít své nástroje umělé inteligence k urychlení vědeckého výzkumu od designu baterií po vývoj léků po získání 800 milionů juanů (přibližně 114 milionů dolarů) v investici. Série C byla vedena fondy Fortune Venture Capital a Beijing Jingguorui Equity Investment Fund.",
+      "slug": "dp-technology-raises-114m-to-accelerate-chinas-ai-",
+      "publishedAt": "2025-12-25T00:48:46+00:00",
+      "date": "2025-12-25 00:48:46",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Screenshot-from-2025-12-25-07-48-13.png",
+      "url": "/tech-news/2025-12-25/dp-technology-raises-114m-to-accelerate-chinas-ai/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "DP Technology"
+      ],
+      "people": []
+    },
+    {
+      "title": "V nové dohodě Nvidia najímá špičkové inženýry Groq včetně jeho zakladatele, který vyvíjel AI čipy v Google",
+      "description": "Nový typ obchodních jednání se prosadil v Silicon Valley, když Nvidia uzavřela neexkluzivní dohodu s čipovým startupem Groq a převzala jeho klíčové inženýry.",
+      "slug": "in-a-new-deal-nvidia-hires-groqs-top-engineering-t",
+      "publishedAt": "2025-12-25T00:33:59+00:00",
+      "date": "2025-12-25 00:33:59",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://i.insider.com/694c705564858d02d2176409?width=800&format=jpeg",
+      "url": "/tech-news/2025-12-25/in-a-new-deal-nvidia-hires-groqs-top-engineering-t/",
+      "source": {
+        "emoji": "📰",
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "companies": [
+        "Nvidia",
+        "Groq",
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nvidia rozšiřuje AI impérium dohodou o licencování s Groq a přebíráním špičkových manažerů",
+      "description": "Společnost Groq více než zdvojnásobila svou valuaci na 6,9 miliardy dolarů z 2,8 miliardy v srpnu minulého roku po financování 750 milionů dolarů v září. Nvidia licencuje jejich čipovou technologii pro inference a přebírá klíčové manažery.",
+      "slug": "nvidia-expands-ai-empire-with-groq-licensing-deal-",
+      "publishedAt": "2025-12-24T23:49:58+00:00",
+      "date": "2025-12-24 23:49:58",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/12/nvidia-jensen-huang-groq.jpg?quality=75&strip=all&1766600714&w=1200",
+      "url": "/tech-news/2025-12-24/nvidia-expands-ai-empire-with-groq-licensing-deal/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "New York Post"
+      },
+      "companies": [
+        "Nvidia",
+        "Groq"
+      ],
+      "people": []
+    },
+    {
+      "title": "Waymo aktualizuje flotilu bezřidičových robotaxi, aby zabránila chaosu při budoucích výpadech proudu",
+      "description": "Společnost Waymo LLC aktualizuje software své flotily robotaxi po velkém výpadku proudu v San Franciscu, který zastavil vozidla na křižovatkách po celém městě. Novinka umožní bezřidičovým autům rychleji rozpoznávat takové události a bezpečně se odtáhnout na okraj vozovky.",
+      "slug": "waymo-updates-its-fleet-of-driverless-robotaxis-to",
+      "publishedAt": "2025-12-24T23:35:20+00:00",
+      "date": "2025-12-24 23:35:20",
+      "importance": 4,
+      "category": "autonomní vozy",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Screenshot-from-2025-12-25-06-35-02.png",
+      "url": "/tech-news/2025-12-24/waymo-updates-its-fleet-of-driverless-robotaxis-to/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Waymo"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nvidia licencuje technologii od startupu na inference čipy Groq v údajním dealu za 20 miliard dolarů",
+      "description": "Společnost Groq Inc. oznámila, že Nvidia Corp. licencuje její technologii na neexkluzivním základě. Deal zahrnuje také najmutí několika klíčových zaměstnanců Groq, včetně zakládajícího generálního ředitele Jonathana Rosse a prezidenta Sunnyho Madry.",
+      "slug": "nvidia-to-license-technology-from-inference-chip-s",
+      "publishedAt": "2025-12-24T23:27:04+00:00",
+      "date": "2025-12-24 23:27:04",
+      "importance": 5,
+      "category": "ai čipy",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Groq.png",
+      "url": "/tech-news/2025-12-24/nvidia-to-license-technology-from-inference-chip-s/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Nvidia",
+        "Groq"
+      ],
+      "people": []
+    },
+    {
+      "title": "Únik dat u Aflac odhaluje osobní a zdravotní údaje více než 22 milionů lidí",
+      "description": "Pojišťovna Aflac Inc. oznámila, že kyberútok v červnu vedl k odcizení záznamů 22,65 milionu osob, což patří k největším únikům dat letos v americkém pojišťovnictví. Společnost nabízí postiženým bezplatné služby ochrany identity na 24 měsíců.",
+      "slug": "aflac-breach-exposes-personal-and-health-data-of-m",
+      "publishedAt": "2025-12-24T23:04:05+00:00",
+      "date": "2025-12-24 23:04:05",
+      "importance": 5,
+      "category": "únik dat",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/aflac.png",
+      "url": "/tech-news/2025-12-24/aflac-breach-exposes-personal-and-health-data-of-m/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Nvidia licencuje technologii Groq a přebírá její vedení",
+      "description": "Nvidia uzavřela neexkluzivní licenční dohodu na inference technologii startupu Groq a najímá jeho zakladatele Jonathana Rossa i prezidenta Sunnyho Madru. Groq zůstane nezávislou společností pod novým ředitelem Simonem Edwardsem.",
+      "slug": "nvidia-to-license-groq-technology-hire-executives",
+      "publishedAt": "2025-12-24T21:06:34+00:00",
+      "date": "2025-12-24 21:06:34",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--XdfutspK--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-12-24T210634Z_1_LYNXMPELBN0LU_RTROPTP_3_ISRAEL-TECH-FUNDRAISING.JPG?itok=iatWLtbv",
+      "url": "/tech-news/2025-12-24/nvidia-to-license-groq-technology-hire-executives/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNA"
+      },
+      "companies": [
+        "Nvidia",
+        "Groq",
+        "Alphabet",
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nvidia licencuje technologii Groq a přebírá vrchní vedení startupu",
+      "description": "Nvidia uzavřela dohodu o neexkluzivním licencování čipové technologie pro AI inference od startupu Groq a převzala jeho zakladatele Jonathana Rossa, prezidenta Sunnyho Madru a další klíčové členy týmu. Groq zůstane nezávislou společností pod novým generálním ředitelem Simonem Edwardsem.",
+      "slug": "nvidia-joining-big-tech-deal-spree-to-license-groq",
+      "publishedAt": "2025-12-24T21:06:34+00:00",
+      "date": "2025-12-24 21:06:34",
+      "importance": 4,
+      "category": "hardware",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--XdfutspK--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-12-24T210634Z_1_LYNXMPELBN0LU_RTROPTP_3_ISRAEL-TECH-FUNDRAISING.JPG?itok=iatWLtbv",
+      "url": "/tech-news/2025-12-24/nvidia-joining-big-tech-deal-spree-to-license-groq/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNA"
+      },
+      "companies": [
+        "Nvidia",
+        "Groq",
+        "Alphabet",
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nejlepší velké jazykové modely umělé inteligence roku 2025",
+      "description": "Zapomeňte na humbuk. Tyto LLM nás zaujaly v roce 2025 – od autonomních asistentů pro programování po vizuální modely zpracovávající celé kódbáze.",
+      "slug": "the-best-ai-large-learning-models-of-2025",
+      "publishedAt": "2025-12-24T21:01:02+00:00",
+      "date": "2025-12-24 21:01:02",
+      "importance": 4,
+      "category": "jazykové modely",
+      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/ai-decrypt-style-14-gID_7.png",
+      "url": "/tech-news/2025-12-24/the-best-ai-large-learning-models-of-2025/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Decrypt"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Nejlepší velké jazykové modely umělé inteligence roku 2025",
+      "description": "Zapomeňte na humbuk. Tyto modely velkých jazyků (LLM) nás v roce 2025 zaujaly – od autonomních asistentů pro programování po vizuální modely zpracovávající celé kódbáze.",
+      "slug": "the-best-ai-large-language-models-of-2025",
+      "publishedAt": "2025-12-24T21:01:02+00:00",
+      "date": "2025-12-24 21:01:02",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/ai-decrypt-style-14-gID_7.png",
+      "url": "/tech-news/2025-12-24/the-best-ai-large-language-models-of-2025/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Decrypt"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Snowflake údajně plánuje akvizici startupu Observe za 1 miliardu dolarů",
+      "description": "Společnost Snowflake Inc. údajně jedná o odkoupení Observe Inc., startupu s cloudovou platformou pro observabilitu. Podle zdrojů citovaných The Information by hodnota transakce mohla dosáhnout přibližně 1 miliardy dolarů, což by byl největší nákup startupu v historii Snowflake.",
+      "slug": "snowflake-reportedly-seeking-to-acquire-observabil",
+      "publishedAt": "2025-12-24T20:52:00+00:00",
+      "date": "2025-12-24 20:52:00",
+      "importance": 5,
+      "category": "startupy",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Snowflake.png",
+      "url": "/tech-news/2025-12-24/snowflake-reportedly-seeking-to-acquire-observabil/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Snowflake",
+        "Observe"
+      ],
+      "people": []
+    },
     {
       "title": "Snowflake v jednáních o akvizici Observe pro rozšíření nabídky AI",
       "description": "Snowflake údajně jedná o akvizici společnosti Observe za přibližně 1 miliardu dolarů, aby rozšířil svou nabídku umělé inteligence. Tato akvizice by přidala nástroje pro monitorování aplikací, včetně těch založených na AI, do portfolia Snowflake.",
@@ -3488,27 +3713,6 @@
       ]
     },
     {
-      "title": "Predikce ceny Tesly, rozjezd Cybercabu a plány na IPO SpaceX",
-      "description": "Rozjezd výroby Tesly Cybercab v roce 2026 by mohl zásadně změnit dopravu a ekonomiku společnosti Tesla. Článek nabízí projekce tempa výroby a odhady vývoje ceny akcií včetně zmínky o možném IPO SpaceX.",
-      "slug": "tesla-predictions-price-cybercab-ramp-spacex-ipo-d",
-      "publishedAt": "2025-12-18T23:27:20+00:00",
-      "date": "2025-12-18 23:27:20",
-      "importance": 4,
-      "category": "elektromobilita",
-      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2025/12/Screenshot-2025-12-18-at-3.23.29-PM.jpg",
-      "url": "/tech-news/2025-12-18/tesla-predictions-price-cybercab-ramp-spacex-ipo-d/",
-      "source": {
-        "emoji": "📰",
-        "id": "next-big-future",
-        "name": "Next Big Future"
-      },
-      "companies": [
-        "Tesla",
-        "SpaceX"
-      ],
-      "people": []
-    },
-    {
       "title": "Ministerstvo energetiky USA uzavřelo dohody s technologickými giganty pro misi Genesis poháněnou AI",
       "description": "Ministerstvo energetiky USA podepsalo smlouvy se 24 organizacemi včetně Microsoftu, Google a Nvidia na podporu národní mise Genesis. Tento program má využít umělou inteligenci k urychlení vědeckého výzkumu a posílení energetické a bezpečnostní soběstačnosti USA.",
       "slug": "us-energy-department-taps-big-tech-for-ai-powered-",
@@ -3574,26 +3778,6 @@
       "people": []
     },
     {
-      "title": "OpenAI spouští AI Academy pro novinové organizace",
-      "description": "OpenAI ve středu 17. prosince spustila OpenAI Academy pro novinové organizace, online vzdělávací platformu určenou k integraci umělé inteligence do redakčních procesů novinářů, redaktorů a vydavatelů. Iniciativa přichází v době rostoucího právního tlaku ze strany velkých vydavatelů na generativní AI společnosti.",
-      "slug": "openai-rolls-out-ai-academy-for-news-organizations",
-      "publishedAt": "2025-12-18T19:29:22+00:00",
-      "date": "2025-12-18 19:29:22",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2025/12/OpenAI-academy-news.jpeg",
-      "url": "/tech-news/2025-12-18/openai-rolls-out-ai-academy-for-news-organizations/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "pymnts.com"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
       "title": "Trump Media se sloučí s firmou na jadernou fúzi v dealu za 6 miliard dolarů",
       "description": "Firma za platformou Truth Social prezidenta Donalda Trumpa se sloučí s energetickou společností podporovanou Googlem v transakci v hodnotě přes 6 miliard dolarů. Trump Media & Technology Group (TMTG) oznámila sloučení s TAE Technologies.",
       "slug": "trump-media-to-merge-with-nuclear-fusion-firm-in-6",
@@ -3638,26 +3822,6 @@
       "people": []
     },
     {
-      "title": "NVIDIA a americká vláda posílí infrastrukturu AI a investice do výzkumu prostřednictvím mise Genesis",
-      "description": "NVIDIA se připojí k misi Genesis amerického ministerstva energetiky (DOE) jako soukromý partner, aby udržela vedení USA v technologii AI. Mise, součást nedávného prezidentského nařízení, se zaměří na energii, vědecký výzkum a národní bezpečnost.",
-      "slug": "nvidia-us-government-to-boost-ai-infrastructure-an",
-      "publishedAt": "2025-12-18T19:02:12+00:00",
-      "date": "2025-12-18 19:02:12",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://blogs.nvidia.com/wp-content/uploads/2025/09/nvidiaheadquarters.jpg",
-      "url": "/tech-news/2025-12-18/nvidia-us-government-to-boost-ai-infrastructure-an/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Nvidia.com"
-      },
-      "companies": [
-        "NVIDIA"
-      ],
-      "people": []
-    },
-    {
       "title": "TSMC urychluje instalaci zařízení v arizonské továrně Fab 21, produkce N3 čipů začne v roce 2027",
       "description": "Stavba továrny Fab 21 fáze 2 v Arizoně je dokončena, instalace výrobního zařízení začne v létě 2026 a hromadná výroba v roce 2027 – o několik čtvrtletí před původním plánem.",
       "slug": "tsmc-brings-its-most-advanced-chipmaking-node-to-t",
@@ -3698,28 +3862,6 @@
       "people": []
     },
     {
-      "title": "Trump Media uzavírá dohodu o sloučení za 6 miliard dolarů s firmou na fúzní energie podporovanou Google",
-      "description": "Akcie Trump Media & Technology Group vzrostly o 37 procent po oznámení sloučení s TAE Technologies. Společnost slíbila výstavbu elektráren na bázi fúzní energie.",
-      "slug": "trump-media-agrees-6bn-merger-deal-with-google-bac",
-      "publishedAt": "2025-12-18T12:01:19+00:00",
-      "date": "2025-12-18 12:01:19",
-      "importance": 5,
-      "category": "fúzní energie",
-      "urlToImage": "https://biztoc.com/cdn/1684b01ef654db89_s.webp",
-      "url": "/tech-news/2025-12-18/trump-media-agrees-6bn-merger-deal-with-google-bac/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "companies": [
-        "Google",
-        "TAE Technologies",
-        "Trump Media & Technology Group"
-      ],
-      "people": []
-    },
-    {
       "title": "Video prezentace rozebírá rostoucí dynamiku Starlinku před diskutovaným IPO v roce 2026",
       "description": "James Altucher v on-camera prezentaci analyzuje satelitní síť Starlink od Elona Muska a její transformaci do globální komunikační infrastruktury. Zaměřuje se na klíčové milníky expanze a důvody rostoucího zájmu o veřejnou nabídku akcií v roce 2026.",
       "slug": "video-presentation-breaks-down-starlinks-growing-m",
@@ -3739,26 +3881,6 @@
         "James Altucher",
         "Elon Musk"
       ]
-    },
-    {
-      "title": "Exploit React2Shell se šíří, Microsoft eviduje stovky hacknutých počítačů",
-      "description": "Bezpečnostní experti varují, že chyba React2Shell se využívá k nasazování ransomware na živých sítích, zatímco útoky narůstají na exponovaných serverech. Microsoft potvrdil kompromitaci stovek zařízení v různých organizacích.",
-      "slug": "react2shell-exploitation-spreads-as-microsoft-coun",
-      "publishedAt": "2025-12-18T11:42:39+00:00",
-      "date": "2025-12-18 11:42:39",
-      "importance": 5,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://regmedia.co.uk/2017/06/07/shutterestock_server_room.jpg",
-      "url": "/tech-news/2025-12-18/react2shell-exploitation-spreads-as-microsoft-coun/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "companies": [
-        "Microsoft"
-      ],
-      "people": []
     },
     {
       "title": "Trump Media vsází na fúzní energii s dohodou o TAE Technologies za 6 miliard USD",
@@ -3826,26 +3948,6 @@
       "people": []
     },
     {
-      "title": "Vydáno nové Gemini 3 Flash: Rychlejší, chytřejší a levnější",
-      "description": "Gemini 3 Flash je nejnovější model umělé inteligence od Google DeepMind, který nabízí vyšší rychlost a efektivitu za nižší cenu než model Gemini 3 Pro. Překonává předchozí verze v benchmarkách zaměřených na kódování, vědecké uvažování a řešení problémů.",
-      "slug": "new-gemini-3-flash-released-faster-smarter-and-che",
-      "publishedAt": "2025-12-18T07:41:06+00:00",
-      "date": "2025-12-18 07:41:06",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/google-ai-flash-model-benchmarks_optimized.jpg",
-      "url": "/tech-news/2025-12-18/new-gemini-3-flash-released-faster-smarter-and-che/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [
-        "Google DeepMind"
-      ],
-      "people": []
-    },
-    {
       "title": "Co potřebujete vědět o Trumpově výkonném nařízení omezujícím státní regulace AI",
       "description": "Prezident Donald Trump podepsal výkonný příkaz, který státy nabádá, aby se zdržely regulace umělé inteligence. Trump a někteří republikáni argumentují, že takové regulace brzdí inovace a růst technologie, zatímco kritici varují před nedostatkem dohledu nad velkými AI firmami.",
       "slug": "what-to-know-about-trumps-executive-order-to-curta",
@@ -3864,46 +3966,6 @@
       "people": [
         "Donald Trump"
       ]
-    },
-    {
-      "title": "Nejnovější generátor obrázků ChatGPT Image 1.5 od OpenAI urychluje tvorbu a snižuje náklady",
-      "description": "Jedna aktualizace v technologii AI by mohla změnit rovnováhu sil v soutěžním světě generování obrázků. S vydáním ChatGPT Image 1.5 představila OpenAI nástroj, který je čtyřnásobně rychlejší a levnější o 20 %, a představuje přímou výzvu pro Nano Banana Pro od Google.",
-      "slug": "openais-latest-chatgpt-ai-image-ai-generator-speed",
-      "publishedAt": "2025-12-18T07:11:16+00:00",
-      "date": "2025-12-18 07:11:16",
-      "importance": 4,
-      "category": "generování obrázků",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/openai-image-model-speed_optimized.jpg",
-      "url": "/tech-news/2025-12-18/openais-latest-chatgpt-ai-image-ai-generator-speed/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Oracle vyděsil akciový trh poté, co klíčový partner odmítl financovat 10miliardový projekt datového centra v Michiganu",
-      "description": "Akcie Oracle klesly během dne o více než 4 % po zprávě Financial Times, že finanční partner Blue Owl Capital odmítl financovat stavbu datového centra za 10 miliard dolarů v Michiganu. Firma Oracle prohlásila, že projekt zůstává na plánu s náhradním partnerem.",
-      "slug": "oracle-spooks-the-stock-market-after-key-partner-r",
-      "publishedAt": "2025-12-18T01:49:31+00:00",
-      "date": "2025-12-18 01:49:31",
-      "importance": 4,
-      "category": "datová centra",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Screenshot-from-2025-12-18-08-49-03.png",
-      "url": "/tech-news/2025-12-18/oracle-spooks-the-stock-market-after-key-partner-r/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Oracle"
-      ],
-      "people": []
     },
     {
       "title": "USA považují Indii za 'vysoce strategického partnera' pro AI a bezpečnost dodavatelských řetězců, řekl americký úředník",
@@ -3944,64 +4006,6 @@
       "people": [
         "Jared Isaacman",
         "Elon Musk"
-      ]
-    },
-    {
-      "title": "Speciale Invest spustí růstový fond o objemu 1 600 milionů rupií pro investice do deeptech",
-      "description": "60 % fondu půjde na nové investice, 40 % na následná kola u nových i stávajících portfoliových společností.",
-      "slug": "speciale-invest-to-launch-1600-crore-growth-fund-f",
-      "publishedAt": "2025-12-18T00:30:30+00:00",
-      "date": "2025-12-18 00:30:30",
-      "importance": 4,
-      "category": "deeptech",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2025/12/17/1600x900/logo/spciale_invest_1765987020317_1765987025599.jpg",
-      "url": "/tech-news/2025-12-18/speciale-invest-to-launch-1600-crore-growth-fund-f/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Livemint"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Speciale Invest spouští fond v hodnotě 1 400 crore rupií pro deeptech startupy",
-      "description": "Indická venture capital firma Speciale Invest z Chennai uvádí na trh Growth Fund II o objemu 1 400 crore rupií, který má zaplnit mezeru v růstovém kapitálu pro deeptech startupy po fázi validace technologie. Zakládající partner Vishesh Rajaram zdůrazňuje, že Indie nemá problémy s financováním v seed fázi, ale chybí podpora pro přechod k samostatnému podnikání.",
-      "slug": "speciale-invest-launches-rs-1400-crore-fund-for-de",
-      "publishedAt": "2025-12-18T00:30:00+00:00",
-      "date": "2025-12-18 00:30:00",
-      "importance": 4,
-      "category": "deeptech startupy",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-83202,resizemode-75,msid-126042634/tech/funding/speciale-invest-launches-rs-1400-crore-fund-for-deeptech-startups.jpg",
-      "url": "/tech-news/2025-12-18/speciale-invest-launches-rs-1400-crore-fund-for-de/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [],
-      "people": [
-        "Vishesh Rajaram"
-      ]
-    },
-    {
-      "title": "Zákaz TikToku měl nastoupit 16. prosince. Nestal se, a zde je důvod",
-      "description": "Prezident Donald Trump odložil zákaz TikToku pětkrát letos. Nové prodloužení posouvá lhůtu na leden 2026 společně s oznámením prodeje amerického businessu za 14 miliard dolarů.",
-      "slug": "the-tiktok-ban-was-set-for-dec-16-it-didnt-happen-",
-      "publishedAt": "2025-12-18T00:08:00+00:00",
-      "date": "2025-12-18 00:08:00",
-      "importance": 5,
-      "category": "sociální sítě",
-      "urlToImage": "https://www.cnet.com/a/img/resize/8e81afbab2b3a1bfd596a6ad6661f36e527c3cb2/hub/2025/12/17/3d377f55-5ee8-4c1c-9269-c500dba3ceb9/tiktok-logo-and-american-flag-gettyimages-2194103715.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "url": "/tech-news/2025-12-18/the-tiktok-ban-was-set-for-dec-16-it-didnt-happen/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNET"
-      },
-      "companies": [],
-      "people": [
-        "Donald Trump"
       ]
     }
   ]
