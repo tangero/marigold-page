@@ -1,7 +1,89 @@
 {
-  "generated": "2025-12-26T08:42:29.615356+00:00",
+  "generated": "2025-12-26T12:46:32.606384+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "„Skrytý“ obchod s aplikacemi ChatGPT je už na vašem iPhonu",
+      "description": "Aplikace ChatGPT na iPhonu se mění v druhý obchod s aplikacemi a nabízí rostoucí ekosystém integrací třetích stran. Tyto integrace umožňují provádět širokou škálu úkolů přímo v rozhraní ChatGPT, od tvorby playlistů po objednávání potravin.",
+      "slug": "chatgpts-secret-app-store-is-already-on-your-iphon",
+      "publishedAt": "2025-12-25T12:00:53+00:00",
+      "date": "2025-12-25 12:00:53",
+      "importance": 4,
+      "category": "mobilní aplikace",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/chatgpt-iphone-hidden-app-store_optimized.jpg",
+      "url": "/tech-news/2025-12-25/chatgpts-secret-app-store-is-already-on-your-iphon/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Co skutečně získáte s Google AI Pro a AI Ultra v prosinci 2025",
+      "description": "Google tiše rozšířil a přestavěl své placené AI nabídky, takže v prosinci 2025 jsou rozdíly mezi bezplatnou verzí, Google AI Pro a Google AI Ultra výrazné v limitech, přístupu k modelům a kontextovém okně. Plány se liší v denní kapacitě, velikosti kontextu a odemčených produktech.",
+      "slug": "what-you-actually-get-with-google-ai-pro-and-ai-ul",
+      "publishedAt": "2025-12-25T11:10:50+00:00",
+      "date": "2025-12-25 11:10:50",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.ghacks.net/wp-content/uploads/2025/12/gHacks-articles-24.png",
+      "url": "/tech-news/2025-12-25/what-you-actually-get-with-google-ai-pro-and-ai-ul/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Ghacks Technology News"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Válka o talenty v umělé inteligenci zasáhla i stážisty",
+      "description": "OpenAI, Anthropic, Google DeepMind a Meta nabízejí vysoké finanční odměny, aby přilákaly a rozvíjely nejlepší začínající talenty v oblasti AI.",
+      "slug": "the-ai-talent-wars-have-come-for-the-interns",
+      "publishedAt": "2025-12-25T10:31:01+00:00",
+      "date": "2025-12-25 10:31:01",
+      "importance": 4,
+      "category": "ai talenty",
+      "urlToImage": "https://i.insider.com/6943414604eda4732f2dbd6b?width=1200&format=jpeg",
+      "url": "/tech-news/2025-12-25/the-ai-talent-wars-have-come-for-the-interns/",
+      "source": {
+        "emoji": "📰",
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "companies": [
+        "OpenAI",
+        "Anthropic",
+        "Google DeepMind",
+        "Meta"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nvidia přitahuje špičkové zaměstnance z startupu na AI čipy Groq v rámci licenční dohody - Financial Times",
+      "description": "Nvidia uzavírá licenční dohodu se startupem Groq, přitahuje jeho klíčové zaměstnance a podle zdrojů kupuje aktiva za přibližně 20 miliard dolarů, což by byl největší deal v historii. Jedná se o strategické posílení v oblasti AI čipů pro inferenci.",
+      "slug": "nvidia-to-poach-top-staff-from-ai-chip-start-up-gr",
+      "publishedAt": "2025-12-25T10:12:21+00:00",
+      "date": "2025-12-25 10:12:21",
+      "importance": 5,
+      "category": "ai čipy",
+      "urlToImage": null,
+      "url": "/tech-news/2025-12-25/nvidia-to-poach-top-staff-from-ai-chip-start-up-gr/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "companies": [
+        "Nvidia",
+        "Groq"
+      ],
+      "people": []
+    },
     {
       "title": "Mozkový implantát umožnil paralyzovanému muži ovládat ruce jiné osoby",
       "description": "Nový systém mozkomozkového rozhraní umožnil quadriplegikovi ovládat pohyby rukou zdravé dobrovolnice a vnímat jejich doteky. Studie popisuje propojení mozků dvou osob prostřednictvím elektrod a umělé inteligence.",
@@ -3875,28 +3957,6 @@
       ]
     },
     {
-      "title": "Ministerstvo energetiky USA uzavřelo dohody s technologickými giganty pro misi Genesis poháněnou AI",
-      "description": "Ministerstvo energetiky USA podepsalo smlouvy se 24 organizacemi včetně Microsoftu, Google a Nvidia na podporu národní mise Genesis. Tento program má využít umělou inteligenci k urychlení vědeckého výzkumu a posílení energetické a bezpečnostní soběstačnosti USA.",
-      "slug": "us-energy-department-taps-big-tech-for-ai-powered-",
-      "publishedAt": "2025-12-18T19:59:33+00:00",
-      "date": "2025-12-18 19:59:33",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--0bQPhfI9--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-12-18T200606Z_2_LYNXMPELBH16H_RTROPTP_3_GULF-AI.JPG?itok=uLf74TKw",
-      "url": "/tech-news/2025-12-18/us-energy-department-taps-big-tech-for-ai-powered/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNA"
-      },
-      "companies": [
-        "Microsoft",
-        "Google",
-        "Nvidia"
-      ],
-      "people": []
-    },
-    {
       "title": "Proč dohoda Disney se Sorou znamená obrat v bitvách o umělou inteligenci",
       "description": "OpenAI vydalo v říjnu Sora 2, což způsobilo lavinu porušení autorských práv na internetu. Místo žaloby se Disney spojilo s firmou v dohodě oznámené 11. prosince, která umožní uživatelům Sora pracovat s 200 ikonickými postavami včetně Darth Vadera, Elsy a Mickeyho Mousea.",
       "slug": "why-disneys-sora-deal-marks-a-turning-point-in-the",
@@ -3917,27 +3977,6 @@
       "people": []
     },
     {
-      "title": "Video prezentace rozebírá rostoucí dynamiku Starlinku před diskutovaným IPO v roce 2026",
-      "description": "James Altucher v on-camera prezentaci analyzuje satelitní síť Starlink od Elona Muska a její transformaci do globální komunikační infrastruktury. Zaměřuje se na klíčové milníky expanze a důvody rostoucího zájmu o veřejnou nabídku akcií v roce 2026.",
-      "slug": "video-presentation-breaks-down-starlinks-growing-m",
-      "publishedAt": "2025-12-18T12:00:00+00:00",
-      "date": "2025-12-18 12:00:00",
-      "importance": 4,
-      "category": "satelitní internet",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-18/video-presentation-breaks-down-starlinks-growing-m/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [],
-      "people": [
-        "James Altucher",
-        "Elon Musk"
-      ]
-    },
-    {
       "title": "Co potřebujete vědět o Trumpově výkonném nařízení omezujícím státní regulace AI",
       "description": "Prezident Donald Trump podepsal výkonný příkaz, který státy nabádá, aby se zdržely regulace umělé inteligence. Trump a někteří republikáni argumentují, že takové regulace brzdí inovace a růst technologie, zatímco kritici varují před nedostatkem dohledu nad velkými AI firmami.",
       "slug": "what-to-know-about-trumps-executive-order-to-curta",
@@ -3955,47 +3994,6 @@
       "companies": [],
       "people": [
         "Donald Trump"
-      ]
-    },
-    {
-      "title": "USA považují Indii za 'vysoce strategického partnera' pro AI a bezpečnost dodavatelských řetězců, řekl americký úředník",
-      "description": "Spojené státy vidí Indii jako klíčového partnera pro zajištění globálních dodavatelských řetězců umělé inteligence a polovodičů, uvedl vysoký americký úředník a odmítl spekulace, že politická napětí brání Indii v účasti na nedávném summitu ve Washingtonu.",
-      "slug": "us-views-india-as-highly-strategic-partner-for-ai-",
-      "publishedAt": "2025-12-18T01:15:19+00:00",
-      "date": "2025-12-18 01:15:19",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://img.etimg.com/thumb/msid-126048456,width-1200,height-630,imgsize-23284,overlay-economictimes/articleshow.jpg",
-      "url": "/tech-news/2025-12-18/us-views-india-as-highly-strategic-partner-for-ai/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Senát USA potvrdil soukromého astronauta a spojence Muska Jareda Isaacmana šéfem NASA",
-      "description": "Jared Isaacman, miliardářský soukromý astronaut a bývalý spojenec Elona Muska, byl Senátem USA potvrzen jako 15. šéf NASA. Jeho potvrzení s oboustrannou podporou přichází v době, kdy NASA urychluje návrat na Měsíc a plánuje mise na Mars.",
-      "slug": "us-senate-confirms-private-astronaut-musk-ally-jar",
-      "publishedAt": "2025-12-18T00:39:43+00:00",
-      "date": "2025-12-18 00:39:43",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://img.etimg.com/thumb/msid-126048257,width-1200,height-630,imgsize-63634,overlay-economictimes/articleshow.jpg",
-      "url": "/tech-news/2025-12-18/us-senate-confirms-private-astronaut-musk-ally-jar/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "NASA"
-      ],
-      "people": [
-        "Jared Isaacman",
-        "Elon Musk"
       ]
     }
   ]
