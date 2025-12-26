@@ -17,6 +17,12 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
   - Lepší spolehlivost a nulové náklady (Google infrastruktura)
   - Topic-based subscription: `marigold-news` a `vibecoding-news`
 
+### Fixed
+- **Stránkování** - přidány chybějící CSS styly pro `.pagination` element
+  - Správné odsazení od obsahu a patičky (padding 30px nahoře, 40px dole)
+  - Vizuální styling tlačítek stránkování s hover efekty
+  - Zvýraznění aktuální stránky modrou barvou
+
 ### Removed
 - `OneSignalSDKWorker.js` - nahrazeno Firebase service workerem
 - `_includes/onesignal.html` - nahrazeno FCM implementací
