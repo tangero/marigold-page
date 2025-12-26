@@ -1,15 +1,101 @@
 {
-  "generated": "2025-12-26T01:17:36.915826+00:00",
+  "generated": "2025-12-26T04:50:57.120893+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "DP Technology získává 114 milionů dolarů na urychlení čínského průmyslu AI pro vědu",
-      "description": "Pekingský startup DP Technology Co. Ltd. oznámil plán použít své nástroje umělé inteligence k urychlení vědeckého výzkumu od designu baterií po vývoj léků po získání 800 milionů juanů (přibližně 114 milionů dolarů) v investici. Série C byla vedena fondy Fortune Venture Capital a Beijing Jingguorui Equity Investment Fund.",
+      "title": "Nvidia se připojuje k vlně dohod velkých firem, licencuje technologii Groq a najímá její vedení",
+      "description": "Nvidia licencovala čipovou technologii od startupu Groq a převzala jeho zakladatele a CEO Jonathana Rossa, veterána z Google AI. Tato dohoda navazuje na trend, kdy technologickí giganti získávají talenty a technologie bez plných akvizic, přičemž Groq se specializuje na inference modelů umělé inteligence.",
+      "slug": "nvidia-joining-big-tech-deal-spree-to-license-groq",
+      "publishedAt": "2025-12-25T02:57:44+00:00",
+      "date": "2025-12-25 02:57:44",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-114962,resizemode-75,msid-126169570/tech/technology/nvidia-joining-big-tech-deal-spree-to-license-groq-technology-hire-executives.jpg",
+      "url": "/tech-news/2025-12-25/nvidia-joining-big-tech-deal-spree-to-license-groq/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Nvidia",
+        "Groq",
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Doubao společnosti ByteDance dosáhl 100 milionů denních aktivních uživatelů s minimálními marketingovými výdaji",
+      "description": "Denní aktivní uživatelé (DAU) aplikace Doubao překročili 100 milionů podle interních dat ByteDance. Výdaje na získávání uživatelů a marketing jsou nejnižší mezi všemi produkty společnosti, které tuto úroveň dosáhly.",
+      "slug": "bytedances-doubao-reaches-100m-dau-with-minimal-ma",
+      "publishedAt": "2025-12-25T02:49:27+00:00",
+      "date": "2025-12-25 02:49:27",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://technode.com/wp-content/uploads/2024/10/doubao-ai.jpg",
+      "url": "/tech-news/2025-12-25/bytedances-doubao-reaches-100m-dau-with-minimal-ma/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "TechNode"
+      },
+      "companies": [
+        "ByteDance"
+      ],
+      "people": []
+    },
+    {
+      "title": "NVIDIA uzavřela licenční smlouvu s AI čipovým startupem Groq, hodnota smlouvy činí přibližně 3 biliony jenů a může jít o největší transakci v historii",
+      "description": "Společnost Groq oznámila uzavření neexkluzivní licenční smlouvy na svou technologii inference s NVIDIA. Klíčoví manažeři Groq, včetně zakladatele a CEO Jonathana Rosse, přecházejí do NVIDIA, zatímco Groq zůstává nezávislou firmou s pokračujícím provozem GroqCloud.",
+      "slug": "nvidiaがai半導体スタートアップgroqとのライセンス契約に合意契約規模は約3兆円で過去最大の",
+      "publishedAt": "2025-12-25T01:55:00+00:00",
+      "date": "2025-12-25 01:55:00",
+      "importance": 5,
+      "category": "ai hardware",
+      "urlToImage": "https://image.news.livedoor.com/newsimage/stf/f/d/fd53c_88_b6c351619c97bc22fe446f1e1659aaf0.jpg",
+      "url": "/tech-news/2025-12-25/nvidiaがai半導体スタートアップgroqとのライセンス契約に合意契約規模は約3兆円で過去最大の/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Livedoor.com"
+      },
+      "companies": [
+        "NVIDIA",
+        "Groq"
+      ],
+      "people": [
+        "Jonathan Ross",
+        "Sunny Madra"
+      ]
+    },
+    {
+      "title": "Zpráva: OpenAI zkoumá způsoby monetizace ChatGPT konverzačními reklamami",
+      "description": "Společnost OpenAI prý zvažuje vložení reklam do odpovědí ChatGPT kvůli tlaku investorů na monetizaci chatbota. Podle zprávy v The Information společnost testuje možné formáty reklam a partnerství, aby vytvořila udržitelný obchodní model.",
+      "slug": "report-openai-explores-ways-to-monetize-chatgpt-wi",
+      "publishedAt": "2025-12-25T01:40:42+00:00",
+      "date": "2025-12-25 01:40:42",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Screenshot-from-2025-12-25-08-40-07.png",
+      "url": "/tech-news/2025-12-25/report-openai-explores-ways-to-monetize-chatgpt-wi/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "DP Technology získala 114 milionů dolarů na rozvoj AI pro vědu v Číně",
+      "description": "Pekingská startupová společnost DP Technology Co. Ltd. získala 800 milionů juanů (přibližně 114 milionů dolarů) v třetí investiční kole a plánuje je použít na urychlení vědeckého výzkumu pomocí nástrojů umělé inteligence v oblastech jako návrh baterií nebo vývoj léků.",
       "slug": "dp-technology-raises-114m-to-accelerate-chinas-ai-",
       "publishedAt": "2025-12-25T00:48:46+00:00",
       "date": "2025-12-25 00:48:46",
       "importance": 4,
-      "category": "umělá inteligence",
+      "category": "ai",
       "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Screenshot-from-2025-12-25-07-48-13.png",
       "url": "/tech-news/2025-12-25/dp-technology-raises-114m-to-accelerate-chinas-ai/",
       "source": {
@@ -23,13 +109,13 @@
       "people": []
     },
     {
-      "title": "V nové dohodě Nvidia najímá špičkové inženýry Groq včetně jeho zakladatele, který vyvíjel AI čipy v Google",
-      "description": "Nový typ obchodních jednání se prosadil v Silicon Valley, když Nvidia uzavřela neexkluzivní dohodu s čipovým startupem Groq a převzala jeho klíčové inženýry.",
+      "title": "Nvidia v nové dohodě najímá špičkové inženýry z Groq, včetně zakladatele, který vyvíjel AI čipy u Google",
+      "description": "V Silicon Valley se prosazuje nový typ obchodování, kdy Nvidia uzavírá neexkluzivní dohodu s chipovým startupem Groq a přebírá jeho klíčové inženýry.",
       "slug": "in-a-new-deal-nvidia-hires-groqs-top-engineering-t",
       "publishedAt": "2025-12-25T00:33:59+00:00",
       "date": "2025-12-25 00:33:59",
       "importance": 4,
-      "category": "ai čipy",
+      "category": "ai",
       "urlToImage": "https://i.insider.com/694c705564858d02d2176409?width=800&format=jpeg",
       "url": "/tech-news/2025-12-25/in-a-new-deal-nvidia-hires-groqs-top-engineering-t/",
       "source": {
@@ -45,8 +131,8 @@
       "people": []
     },
     {
-      "title": "Nvidia rozšiřuje AI impérium dohodou o licencování s Groq a přebíráním špičkových manažerů",
-      "description": "Společnost Groq více než zdvojnásobila svou valuaci na 6,9 miliardy dolarů z 2,8 miliardy v srpnu minulého roku po financování 750 milionů dolarů v září. Nvidia licencuje jejich čipovou technologii pro inference a přebírá klíčové manažery.",
+      "title": "Nvidia rozšiřuje AI impérium licencí od Groq a přetahuje top manažery startupu",
+      "description": "Startup Groq zdvojnásobil valuaci na 6,9 miliardy dolarů z 2,8 miliardy v srpnu minulého roku po kole financování 750 milionů dolarů v září.",
       "slug": "nvidia-expands-ai-empire-with-groq-licensing-deal-",
       "publishedAt": "2025-12-24T23:49:58+00:00",
       "date": "2025-12-24 23:49:58",
@@ -134,29 +220,6 @@
       "category": "umělá inteligence",
       "urlToImage": "https://dam.mediacorp.sg/image/upload/s--XdfutspK--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-12-24T210634Z_1_LYNXMPELBN0LU_RTROPTP_3_ISRAEL-TECH-FUNDRAISING.JPG?itok=iatWLtbv",
       "url": "/tech-news/2025-12-24/nvidia-to-license-groq-technology-hire-executives/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNA"
-      },
-      "companies": [
-        "Nvidia",
-        "Groq",
-        "Alphabet",
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Nvidia licencuje technologii Groq a přebírá vrchní vedení startupu",
-      "description": "Nvidia uzavřela dohodu o neexkluzivním licencování čipové technologie pro AI inference od startupu Groq a převzala jeho zakladatele Jonathana Rossa, prezidenta Sunnyho Madru a další klíčové členy týmu. Groq zůstane nezávislou společností pod novým generálním ředitelem Simonem Edwardsem.",
-      "slug": "nvidia-joining-big-tech-deal-spree-to-license-groq",
-      "publishedAt": "2025-12-24T21:06:34+00:00",
-      "date": "2025-12-24 21:06:34",
-      "importance": 4,
-      "category": "hardware",
-      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--XdfutspK--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-12-24T210634Z_1_LYNXMPELBN0LU_RTROPTP_3_ISRAEL-TECH-FUNDRAISING.JPG?itok=iatWLtbv",
-      "url": "/tech-news/2025-12-24/nvidia-joining-big-tech-deal-spree-to-license-groq/",
       "source": {
         "emoji": "📰",
         "id": null,
@@ -3842,26 +3905,6 @@
       "people": []
     },
     {
-      "title": "Akcie Trump Media vyskočí o 38 % po dohodě o sloučení za 6 miliard dolarů s firmou na fúzní energii",
-      "description": "Sloučení Trump Media s TAE Technologies by mělo urychlit komercializaci fúzní energie a ovlivnit energetické trhy. Společná firma plánuje postavit první elektrárnu veřejné utility v měřítku 50 MWe již v roce 2026.",
-      "slug": "trump-media-stock-pops-38-on-6b-merger-deal-with-f",
-      "publishedAt": "2025-12-18T15:53:09+00:00",
-      "date": "2025-12-18 15:53:09",
-      "importance": 5,
-      "category": "fúzní energie",
-      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2025/12/18105111/3ee665d5-6c1c-472e-a52b-57c5dc1d85de-800x420.jpg",
-      "url": "/tech-news/2025-12-18/trump-media-stock-pops-38-on-6b-merger-deal-with-f/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Crypto Briefing"
-      },
-      "companies": [
-        "Trump Media"
-      ],
-      "people": []
-    },
-    {
       "title": "Video prezentace rozebírá rostoucí dynamiku Starlinku před diskutovaným IPO v roce 2026",
       "description": "James Altucher v on-camera prezentaci analyzuje satelitní síť Starlink od Elona Muska a její transformaci do globální komunikační infrastruktury. Zaměřuje se na klíčové milníky expanze a důvody rostoucího zájmu o veřejnou nabídku akcií v roce 2026.",
       "slug": "video-presentation-breaks-down-starlinks-growing-m",
@@ -3880,50 +3923,6 @@
       "people": [
         "James Altucher",
         "Elon Musk"
-      ]
-    },
-    {
-      "title": "Trump Media vsází na fúzní energii s dohodou o TAE Technologies za 6 miliard USD",
-      "description": "Fúze za akcie má využít rostoucí poptávku po energii z datových center umělé inteligence, což posunulo akcie Trump Media o 35 procent nahoru po roce výrazných ztrát.",
-      "slug": "trump-media-bets-on-fusion-energy-with-us6-billion",
-      "publishedAt": "2025-12-18T11:37:00+00:00",
-      "date": "2025-12-18 11:37:00",
-      "importance": 5,
-      "category": "fúzní energie",
-      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--_4OJaY-Q--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-12-18T113737Z_2_LYNXMPELBH0M1_RTROPTP_3_USA-STOCKS-TRUMP.JPG?itok=sN9BpIdL",
-      "url": "/tech-news/2025-12-18/trump-media-bets-on-fusion-energy-with-us6-billion/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNA"
-      },
-      "companies": [
-        "Trump Media",
-        "TAE"
-      ],
-      "people": []
-    },
-    {
-      "title": "Trump Media se spojuje s firmou na fúzní energii TAE Technologies v dealu za 6 miliard dolarů",
-      "description": "Sociální síť amerického prezidenta Donalda Trumpa vstupuje do oblasti fúzní energie prostřednictvím fúze za 6 miliard dolarů s soukromou firmou TAE Technologies podporovanou Googlem. Tento krok přichází v době rostoucí poptávky po elektrické energii kvůli datovým centrům umělé inteligence.",
-      "slug": "trump-media-fusion-power-firm-tae-technologies-com",
-      "publishedAt": "2025-12-18T11:36:34+00:00",
-      "date": "2025-12-18 11:36:34",
-      "importance": 5,
-      "category": "jaderná fúze",
-      "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/3b53832636060c2529a06593347d7a1c",
-      "url": "/tech-news/2025-12-18/trump-media-fusion-power-firm-tae-technologies-com/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [
-        "Trump Media",
-        "TAE Technologies"
-      ],
-      "people": [
-        "Donald Trump"
       ]
     },
     {

@@ -1,13 +1,13 @@
 ---
 author: Marisa Aigen
-category: ai čipy
+category: ai
 companies:
 - Nvidia
 - Groq
 - Google
 date: '2025-12-25 00:33:59'
-description: Nový typ obchodních jednání se prosadil v Silicon Valley, když Nvidia
-  uzavřela neexkluzivní dohodu s čipovým startupem Groq a převzala jeho klíčové inženýry.
+description: V Silicon Valley se prosazuje nový typ obchodování, kdy Nvidia uzavírá
+  neexkluzivní dohodu s chipovým startupem Groq a přebírá jeho klíčové inženýry.
 importance: 4
 layout: tech_news_article
 original_title: In a new deal, Nvidia hires Groq's top engineering talent, including
@@ -18,32 +18,32 @@ source:
   emoji: 📰
   id: business-insider
   name: Business Insider
-title: V nové dohodě Nvidia najímá špičkové inženýry Groq včetně jeho zakladatele,
-  který vyvíjel AI čipy v Google
+title: Nvidia v nové dohodě najímá špičkové inženýry z Groq, včetně zakladatele, který
+  vyvíjel AI čipy u Google
 url: https://www.businessinsider.com/nvidia-reaches-licensing-agreement-with-groq-hires-ai-top-talent-2025-12
 urlToImage: https://i.insider.com/694c705564858d02d2176409?width=800&format=jpeg
 urlToImageBackup: https://i.insider.com/694c705564858d02d2176409?width=800&format=jpeg
 ---
 
 ## Souhrn
-Nvidia uzavřela neexkluzivní dohodu se startupem Groq, specializovaným na vývoj čipů pro umělou inteligenci, a současně najala jeho špičkové inženýry včetně zakladatele Jonathana Rossa. Ross, který předtím vedl vývoj AI čipů TPU v Google, přechází do Nvidia společně s dalšími klíčovými talenty. Tento krok signalizuje rostoucí trend acquihire, kdy velké firmy získávají experty bez plného převzetí společnosti.
+Nvidia uzavřela neexkluzivní dohodu se startupem Groq, specializovaným na vývoj čipů pro rychlou inferenci AI modelů, a najímá jeho špičkové inženýry včetně zakladatele Jonathana Rossa. Ross, který předtím vedl vývoj TPU čipů u Google, přechází do Nvidia společně s dalšími klíčovými talenty. Tento krok posiluje pozici Nvidia v oblasti AI hardware bez plného převzetí společnosti.
 
 ## Klíčové body
-- Nvidia najímá zakladatele Groq Jonathana Rossa a další top inženýry.
-- Dohoda je neexkluzivní, Groq tak může pokračovat v samostatném provozu.
-- Ross má zkušenosti z Google, kde stál u vývoje tensorových procesorů (TPU) pro AI trénink a inference.
-- Groq se zaměřuje na Language Processing Units (LPU), čipy optimalizované pro rychlou inferenci velkých jazykových modelů (LLM).
-- Jedná se o nový model spolupráce v Silicon Valley, kde se kombinuje partnerství s odlivem talentů.
+- Nvidia najímá zakladatele Groq Jonathana Rossa a další top inženýry z oblasti AI čipů.
+- Dohoda je neexkluzivní, Groq zůstává nezávislý a pokračuje ve svém vývoji.
+- Ross má zkušenosti z Google, kde stál u kolébky TPU (Tensor Processing Units) pro akceleraci AI výpočtů.
+- Jedná se o aquahire, tedy převzetí talentu bez akvizice celé firmy.
+- Groq se zaměřuje na LPU (Language Processing Units) čipy optimalizované pro rychlou inferenci velkých jazykových modelů (LLM).
 
 ## Podrobnosti
-Nvidia, dominantní hráč na trhu grafických procesorů (GPU) pro umělou inteligenci, posiluje svou pozici v oblasti inference AI modelů. Groq, startup založený v roce 2016, vyvinul unikátní architekturu LPU, která slouží k zpracování dotazů na velkých jazykových modelech jako GPT nebo Llama s výrazně vyšší rychlostí než tradiční GPU. Tyto čipy umožňují například zpracování milionů tokenů za sekundu, což je klíčové pro nasazení AI v reálném čase, jako v chatbotech nebo generování kódu.
+Nvidia, dominantní hráč na trhu GPU pro AI trénink a inferenci, teď posiluje svůj tým akvizicí expertů z Groq. Groq, založený v roce 2016 Jonathanem Rossem, vyvinul LPU čipy, které slouží k extrémně rychlému zpracování AI inference – tedy fáze, kdy už natrénovaný model generuje odpovědi na dotazy. Na rozdíl od Nvidia GPU, které excelují v paralelním tréninku, LPU od Groq dosahují vyšší propustnosti při nízké latenci, což je klíčové pro nasazení LLM jako GPT nebo Llama v produkčním prostředí, například v chatbotech nebo real-time aplikacích.
 
-Jonathan Ross, zakladatel Groq, předtím v Google Brain vede tým, který vytvořil první generace TPU – specializovaných akcelerátorů pro lineární algebru v neuronových sítích. TPU se používají pro trénink i inferenci modelů, ale Groq je překonal v efektivitě pro inference díky proprietárnímu designu založenému na vektorových procesorech a tensorovém streamingovém jádru. Podle zpráv Business Insider tento deal zahrnuje nejen přechod inženýrů, ale i přístup k technologiím Groq bez exkluzivity, což znamená, že Nvidia může integrovat znalosti do svých GPU řad jako Blackwell nebo Rubin, zatímco Groq si zachovává své cloudové služby GroqCloud pro inference.
+Rossovy zkušenosti z Google jsou zásadní: tam vedl tým, který vytvořil první generace TPU, custom ASIC čipů pro AI akceleraci v cloudu. Tyto čipy umožnily Google škálovat modely jako BERT nebo PaLM efektivněji než standardní GPU. Přechod Rossa a jeho týmu do Nvidia znamená přenos know-how v oblasti architektur pro AI inference, což může urychlit vývoj nových produktů jako Blackwell GPU nebo budoucích specializovaných čipů.
 
-Tento typ dohody není ojedinělý. V posledních měsícůch podobně Google najal talenty z Anthropic a Microsoft z Inflection AI, což ukazuje na válku o experty v AI hardwaru. Pro Groq to znamená riziko zpomalení vývoje, protože ztrácí klíčové lidi, ale neexkluzivita umožňuje pokračovat v prodeji LPU do datových center. Nvidia tak získává know-how pro konkurenční výhodu v inference, kde aktuálně čelí tlaku od custom čipů jako TPU nebo čipů od Amazonu (Trainium/Inferentia). Uživatelé AI služeb mohou očekávat rychlejší a levnější inference v cloudu Nvidia, například v platformách jako DGX Cloud.
+Tento deal je neexkluzivní, což znamená, že Groq si zachovává své IP a může spolupracovat i s jinými firmami. Groq již dříve získal investice přes 1 miliardu dolarů od investorů jako Samsung nebo Tiger Global a nasadil své čipy v cloudu pro zákazníky jako Anthropic. Nvidia tak získává talenty bez rizika integrace celé firmy, což je trend v Silicon Valley – podobně jako když Apple najímalo experty z Palantir nebo Meta z AI startupů. Pro průmysl to znamená intenzivnější soutěž v AI hardware: Nvidia čelí tlaku od custom čipů hyperscalerů (Google TPU, Amazon Trainium, Microsoft Maia) a konkurentů jako AMD MI300 nebo Intel Gaudi.
 
 ## Proč je to důležité
-Tento krok posiluje monopol Nvidia v AI hardwaru, kde kontroluje přes 80 procent trhu GPU pro trénink. Získáním expertů na inference se Nvidia připravuje na éru, kdy inference překoná trénink v objemu výpočtů – odhady hovoří o desetinásobném nárůstu do roku 2027. Pro průmysl to znamená konsolidaci talentů u gigantů, což omezuje inovace startupů a zvyšuje závislost na Nvidia ekosystému CUDA. Kriticky řečeno, takové acquihire brzdí diverzifikaci hardwaru, což by mohlo vést k vyšším cenám a menší konkurenci v dlouhodobém horizontu. V širším kontextu urychluje to vývoj edge AI zařízení a robotiky, kde rychlá inference je klíčová pro autonomní systémy.
+Tento krok posiluje dominanci Nvidia na trhu AI čipů, který v roce 2024 překonal hodnotu 100 miliard dolarů, a urychluje inovace v inference, kde latence rozhoduje o použitelnosti AI v edge zařízeních nebo real-time systémech. Pro uživatele to znamená potenciálně rychlejší a levnější AI služby, protože efektivnější čipy snižují náklady na výpočty. V širším kontextu to ilustruje přechod k hybridním modelům spolupráce, kde giganti jako Nvidia preferují aquahire před drahými akvizicemi, což zvyšuje mobilitu talentů a urychluje vývoj v soutěživém AI ekosystému. Kriticky řečeno, Groq ztrácí klíčové lidi, což může zpomalit jeho růst, zatímco Nvidia rizikuje odliv zpět do startupů kvůli kulturním rozdílům.
 
 ---
 
