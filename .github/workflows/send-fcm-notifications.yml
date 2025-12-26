@@ -1,0 +1,56 @@
+name: Send FCM Notifications
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '_posts/**/*.md'
+      - '_vibecoding/**/*.md'
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 10
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests pyyaml google-auth
+
+    - name: Check required secrets
+      run: |
+        if [ -z "$FIREBASE_PROJECT_ID" ]; then
+          echo "::error::FIREBASE_PROJECT_ID is not set!"
+          exit 1
+        fi
+        if [ -z "$FIREBASE_SERVICE_ACCOUNT" ]; then
+          echo "::error::FIREBASE_SERVICE_ACCOUNT is not set!"
+          exit 1
+        fi
+        echo "All required secrets are configured"
+      env:
+        FIREBASE_PROJECT_ID: ${{ secrets.FIREBASE_PROJECT_ID }}
+        FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+
+    - name: Send FCM Notifications
+      env:
+        FIREBASE_PROJECT_ID: ${{ secrets.FIREBASE_PROJECT_ID }}
+        FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+      run: python .github/scripts/send_fcm_notifications.py
+
+    - name: Notification on failure
+      if: failure()
+      run: |
+        echo "::warning::FCM notification workflow failed!"
+        echo "Check that FIREBASE_PROJECT_ID and FIREBASE_SERVICE_ACCOUNT secrets are properly configured."

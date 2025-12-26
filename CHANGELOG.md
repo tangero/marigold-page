@@ -7,6 +7,21 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
 
 ## [Unreleased]
 
+### Changed
+- **Migrace z OneSignal na Firebase Cloud Messaging (FCM)** - kompletní přepracování push notifikací
+  - Nový service worker `firebase-messaging-sw.js` pro FCM
+  - Nové include soubory `_includes/fcm-marigold.html` a `_includes/fcm-vibecoding.html`
+  - Cloud Functions pro topic subscription (`firebase-functions/`)
+  - Nový Python skript `.github/scripts/send_fcm_notifications.py` pro odesílání notifikací
+  - Nový workflow `.github/workflows/send-fcm-notifications.yml`
+  - Lepší spolehlivost a nulové náklady (Google infrastruktura)
+  - Topic-based subscription: `marigold-news` a `vibecoding-news`
+
+### Removed
+- `OneSignalSDKWorker.js` - nahrazeno Firebase service workerem
+- `_includes/onesignal.html` - nahrazeno FCM implementací
+- `_includes/onesignal-vibecoding.html` - nahrazeno FCM implementací
+
 ### Added
 - **LLM Model Tracker** - automatický systém pro sledování a analýzu nových LLM modelů z OpenRouter API
   - Nový skript `scripts/track_llm_models.py` - detekuje a analyzuje nové modely

@@ -1,0 +1,290 @@
+<!-- Firebase Cloud Messaging for Vibecoding.cz -->
+<script type="module">
+  // Firebase imports
+  import { initializeApp } from 'https://www.gstatic.com/firebasejs/10.7.0/firebase-app.js';
+  import { getMessaging, getToken, onMessage } from 'https://www.gstatic.com/firebasejs/10.7.0/firebase-messaging.js';
+
+  // Firebase configuration
+  const firebaseConfig = {
+    apiKey: "AIzaSyDb03VE1UNGcOeukc2yn1wGRnaOrL-i5uo",
+    authDomain: "marigold-web.firebaseapp.com",
+    projectId: "marigold-web",
+    storageBucket: "marigold-web.firebasestorage.app",
+    messagingSenderId: "776408181252",
+    appId: "1:776408181252:web:912de8993063dfdae5e351"
+  };
+
+  // VAPID key for web push
+  const VAPID_KEY = 'BGQuxMJIhSz2AvLVgm1PhbwkYmA7tBXs1ko__r8xQGlW13rgNBw1g4D3VeZ9IYwxDp0Bpc8wudpz5CVFyA-BBjs';
+
+  // Topic for Vibecoding notifications
+  const TOPIC = 'vibecoding-news';
+
+  // Cloud Function URL for subscription - TODO: Update after deployment
+  const SUBSCRIBE_URL = 'https://europe-west1-marigold-web.cloudfunctions.net/subscribeToTopic';
+
+  console.log('[FCM] Initializing Firebase for Vibecoding.cz...');
+
+  // Initialize Firebase
+  const app = initializeApp(firebaseConfig);
+  const messaging = getMessaging(app);
+
+  // Track page visits for delayed prompt
+  const VISIT_KEY = 'fcm_vibecoding_visits';
+  const visits = parseInt(localStorage.getItem(VISIT_KEY) || '0', 10) + 1;
+  localStorage.setItem(VISIT_KEY, visits.toString());
+  console.log('[FCM] Page visit count:', visits);
+
+  // Check if already subscribed
+  const isSubscribed = localStorage.getItem('fcm_vibecoding_subscribed') === 'true';
+
+  // Show subscribe prompt on 3rd visit if not subscribed
+  if (visits === 3 && !isSubscribed && Notification.permission === 'default') {
+    setTimeout(() => {
+      showSubscribePrompt();
+    }, 3000);
+  }
+
+  // Create and show subscribe prompt
+  function showSubscribePrompt() {
+    if (document.getElementById('fcm-subscribe-prompt')) return;
+
+    const prompt = document.createElement('div');
+    prompt.id = 'fcm-subscribe-prompt';
+    prompt.innerHTML = `
+      <div style="
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        max-width: 320px;
+        background: #1a1a2e;
+        border-radius: 12px;
+        box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+        padding: 20px;
+        z-index: 10000;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+        color: #fff;
+      ">
+        <button id="fcm-close" style="
+          position: absolute;
+          top: 10px;
+          right: 10px;
+          background: none;
+          border: none;
+          font-size: 20px;
+          cursor: pointer;
+          color: #888;
+        ">&times;</button>
+        <h3 style="margin: 0 0 10px 0; font-size: 16px; color: #fff;">
+          Chcete dostávat oznámení o nových AI nástrojích?
+        </h3>
+        <p style="margin: 0 0 15px 0; font-size: 14px; color: #aaa;">
+          Informujeme vás o nových tutoriálech a AI nástrojích pro programování.
+        </p>
+        <div style="display: flex; gap: 10px;">
+          <button id="fcm-subscribe" style="
+            flex: 1;
+            padding: 10px 15px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 14px;
+          ">Ano, přihlásit</button>
+          <button id="fcm-decline" style="
+            padding: 10px 15px;
+            background: #333;
+            color: #aaa;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 14px;
+          ">Ne, děkuji</button>
+        </div>
+      </div>
+    `;
+
+    document.body.appendChild(prompt);
+
+    document.getElementById('fcm-subscribe').addEventListener('click', async () => {
+      prompt.remove();
+      await subscribeToNotifications();
+    });
+
+    document.getElementById('fcm-decline').addEventListener('click', () => {
+      prompt.remove();
+      localStorage.setItem(VISIT_KEY, '0');
+    });
+
+    document.getElementById('fcm-close').addEventListener('click', () => {
+      prompt.remove();
+    });
+  }
+
+  // Subscribe to push notifications
+  async function subscribeToNotifications() {
+    try {
+      console.log('[FCM] Requesting notification permission...');
+
+      const permission = await Notification.requestPermission();
+      console.log('[FCM] Permission:', permission);
+
+      if (permission !== 'granted') {
+        console.log('[FCM] Permission denied');
+        return false;
+      }
+
+      const swRegistration = await navigator.serviceWorker.register('/firebase-messaging-sw.js');
+      console.log('[FCM] Service worker registered');
+
+      const token = await getToken(messaging, {
+        vapidKey: VAPID_KEY,
+        serviceWorkerRegistration: swRegistration
+      });
+
+      if (!token) {
+        console.error('[FCM] Failed to get token');
+        return false;
+      }
+
+      console.log('[FCM] Token obtained:', token.substring(0, 20) + '...');
+
+      const response = await fetch(SUBSCRIBE_URL, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ token, topic: TOPIC })
+      });
+
+      if (response.ok) {
+        console.log('[FCM] Successfully subscribed to topic:', TOPIC);
+        localStorage.setItem('fcm_vibecoding_subscribed', 'true');
+        showSuccessMessage();
+        return true;
+      } else {
+        console.error('[FCM] Subscription failed:', await response.text());
+        return false;
+      }
+
+    } catch (error) {
+      console.error('[FCM] Error:', error);
+      return false;
+    }
+  }
+
+  function showSuccessMessage() {
+    const msg = document.createElement('div');
+    msg.innerHTML = `
+      <div style="
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+        padding: 15px 20px;
+        border-radius: 8px;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+        font-size: 14px;
+        z-index: 10000;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+      ">
+        ✓ Úspěšně přihlášeno k odběru notifikací
+      </div>
+    `;
+    document.body.appendChild(msg);
+    setTimeout(() => msg.remove(), 4000);
+  }
+
+  // Handle foreground messages
+  onMessage(messaging, (payload) => {
+    console.log('[FCM] Foreground message:', payload);
+
+    const data = payload.data || {};
+    const notification = payload.notification || {};
+
+    const title = data.title || notification.title || 'Nový článek';
+    const body = data.body || notification.body || '';
+
+    const notif = document.createElement('div');
+    notif.innerHTML = `
+      <div style="
+        position: fixed;
+        top: 20px;
+        right: 20px;
+        max-width: 350px;
+        background: #1a1a2e;
+        border-left: 4px solid #764ba2;
+        border-radius: 4px;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+        padding: 15px;
+        z-index: 10000;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+        cursor: pointer;
+        color: #fff;
+      ">
+        <strong style="display: block; margin-bottom: 5px;">${title}</strong>
+        <span style="color: #aaa; font-size: 14px;">${body}</span>
+      </div>
+    `;
+
+    document.body.appendChild(notif);
+
+    notif.addEventListener('click', () => {
+      if (data.url) {
+        window.location.href = data.url;
+      }
+      notif.remove();
+    });
+
+    setTimeout(() => notif.remove(), 8000);
+  });
+
+  window.fcmSubscribe = subscribeToNotifications;
+  window.fcmShowPrompt = showSubscribePrompt;
+
+  console.log('[FCM] Initialization complete');
+</script>
+
+<style>
+  .fcm-subscribe-btn {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 50px;
+    height: 50px;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 24px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+    z-index: 9999;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: transform 0.2s;
+  }
+  .fcm-subscribe-btn:hover {
+    transform: scale(1.1);
+  }
+</style>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    if (localStorage.getItem('fcm_vibecoding_subscribed') !== 'true') {
+      const btn = document.createElement('button');
+      btn.className = 'fcm-subscribe-btn';
+      btn.innerHTML = '🔔';
+      btn.title = 'Přihlásit se k odběru notifikací';
+      btn.onclick = function() {
+        if (typeof window.fcmSubscribe === 'function') {
+          window.fcmSubscribe();
+        } else {
+          window.fcmShowPrompt();
+        }
+      };
+      document.body.appendChild(btn);
+    }
+  });
+</script>
