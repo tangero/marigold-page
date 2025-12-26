@@ -62,8 +62,8 @@
 
 
 <!-- og-image source: extracted from content -->
-<meta property="og:image" content="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_1200,h_630,c_fill,g_auto,f_auto,q_auto/https://media.nature.com/lw1200/magazine-assets/d41586-025-04108-y/d41586-025-04108-y_51840178.jpg"/>
-<meta property="twitter:image" content="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_1024,h_512,c_fill,g_auto,f_auto,q_auto/https://media.nature.com/lw1200/magazine-assets/d41586-025-04108-y/d41586-025-04108-y_51840178.jpg"/>
+<meta property="og:image" content="https://www.marigold.cz<div class="/>
+<meta property="twitter:image" content="https://www.marigold.cz<div class="/>
 <meta property="og:image:width" content="1200"/>
 <meta property="og:image:height" content="630"/>
 <meta name="twitter:card" content="summary_large_image"/>
@@ -98,79 +98,306 @@
     <meta name="apple-mobile-web-app-title" content="Marigold">
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 
-    <!-- OneSignal Web Push Notifications -->
-<script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
-<script>
-  console.log('[OneSignal] Script starting...');
+    <!-- Firebase Cloud Messaging for Marigold.cz -->
+<script type="module">
+  // Firebase imports
+  import { initializeApp } from 'https://www.gstatic.com/firebasejs/10.7.0/firebase-app.js';
+  import { getMessaging, getToken, onMessage } from 'https://www.gstatic.com/firebasejs/10.7.0/firebase-messaging.js';
 
-  window.OneSignalDeferred = window.OneSignalDeferred || [];
+  // Firebase configuration
+  const firebaseConfig = {
+    apiKey: "AIzaSyDb03VE1UNGcOeukc2yn1wGRnaOrL-i5uo",
+    authDomain: "marigold-web.firebaseapp.com",
+    projectId: "marigold-web",
+    storageBucket: "marigold-web.firebasestorage.app",
+    messagingSenderId: "776408181252",
+    appId: "1:776408181252:web:912de8993063dfdae5e351"
+  };
 
-  OneSignalDeferred.push(async function(OneSignal) {
+  // VAPID key for web push
+  const VAPID_KEY = 'BGQuxMJIhSz2AvLVgm1PhbwkYmA7tBXs1ko__r8xQGlW13rgNBw1g4D3VeZ9IYwxDp0Bpc8wudpz5CVFyA-BBjs';
+
+  // Topic for Marigold notifications
+  const TOPIC = 'marigold-news';
+
+  // Cloud Function URL for subscription - TODO: Update after deployment
+  const SUBSCRIBE_URL = 'https://europe-west1-marigold-web.cloudfunctions.net/subscribeToTopic';
+
+  console.log('[FCM] Initializing Firebase for Marigold.cz...');
+
+  // Initialize Firebase
+  const app = initializeApp(firebaseConfig);
+  const messaging = getMessaging(app);
+
+  // Track page visits for delayed prompt
+  const VISIT_KEY = 'fcm_marigold_visits';
+  const visits = parseInt(localStorage.getItem(VISIT_KEY) || '0', 10) + 1;
+  localStorage.setItem(VISIT_KEY, visits.toString());
+  console.log('[FCM] Page visit count:', visits);
+
+  // Check if already subscribed
+  const isSubscribed = localStorage.getItem('fcm_marigold_subscribed') === 'true';
+
+  // Show subscribe prompt on 3rd visit if not subscribed
+  if (visits === 3 && !isSubscribed && Notification.permission === 'default') {
+    setTimeout(() => {
+      showSubscribePrompt();
+    }, 3000); // Wait 3 seconds after page load
+  }
+
+  // Create and show subscribe prompt
+  function showSubscribePrompt() {
+    // Check if prompt already exists
+    if (document.getElementById('fcm-subscribe-prompt')) return;
+
+    const prompt = document.createElement('div');
+    prompt.id = 'fcm-subscribe-prompt';
+    prompt.innerHTML = `
+      <div style="
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        max-width: 320px;
+        background: #fff;
+        border-radius: 12px;
+        box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+        padding: 20px;
+        z-index: 10000;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      ">
+        <button id="fcm-close" style="
+          position: absolute;
+          top: 10px;
+          right: 10px;
+          background: none;
+          border: none;
+          font-size: 20px;
+          cursor: pointer;
+          color: #999;
+        ">&times;</button>
+        <h3 style="margin: 0 0 10px 0; font-size: 16px; color: #333;">
+          Chcete dostávat oznámení o nových článcích?
+        </h3>
+        <p style="margin: 0 0 15px 0; font-size: 14px; color: #666;">
+          Budeme vás informovat o nových článcích a zajímavostech.
+        </p>
+        <div style="display: flex; gap: 10px;">
+          <button id="fcm-subscribe" style="
+            flex: 1;
+            padding: 10px 15px;
+            background: #007bff;
+            color: white;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 14px;
+          ">Ano, přihlásit</button>
+          <button id="fcm-decline" style="
+            padding: 10px 15px;
+            background: #f0f0f0;
+            color: #666;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 14px;
+          ">Ne, děkuji</button>
+        </div>
+      </div>
+    `;
+
+    document.body.appendChild(prompt);
+
+    // Event listeners
+    document.getElementById('fcm-subscribe').addEventListener('click', async () => {
+      prompt.remove();
+      await subscribeToNotifications();
+    });
+
+    document.getElementById('fcm-decline').addEventListener('click', () => {
+      prompt.remove();
+      localStorage.setItem(VISIT_KEY, '0'); // Reset counter
+    });
+
+    document.getElementById('fcm-close').addEventListener('click', () => {
+      prompt.remove();
+    });
+  }
+
+  // Subscribe to push notifications
+  async function subscribeToNotifications() {
     try {
-      console.log('[OneSignal] Initializing OneSignal SDK');
+      console.log('[FCM] Requesting notification permission...');
 
-      // Initialize OneSignal with minimal config
-      const config = {
-        appId: "00fc3def-70d1-4e7d-a081-984d5e738a75",
-        notifyButton: {
-          enable: true,
-          position: "bottom-right",
-          size: "medium",
-          text: {
-            "button.subscribe": "Přihlásit se k oznámením",
-            "button.unsubscribe": "Odhlásit se od oznámení",
-          },
-        },
-        // iOS Web Push support - requires manifest.json and home screen installation
-        allowLocalhostAsSecureOrigin: true,
-        // Safari Web Push configuration
-        safari: {
-          enable: true
-        }
-      };
+      const permission = await Notification.requestPermission();
+      console.log('[FCM] Permission:', permission);
 
-      await OneSignal.init(config);
-      console.log('[OneSignal] Initialization complete');
-
-      // Show slidedown on 3rd page visit
-      // This uses localStorage to track page visits
-      try {
-        const visitKey = 'onesignal_visit_count';
-        let visitCount = parseInt(localStorage.getItem(visitKey) || '0', 10);
-        visitCount++;
-        localStorage.setItem(visitKey, visitCount.toString());
-
-        console.log('[OneSignal] Page visit count:', visitCount);
-
-        if (visitCount === 3) {
-          console.log('[OneSignal] 3rd visit detected - showing slidedown');
-
-          // Show slidedown prompt
-          await OneSignal.Slidedown.promptPushCategories({
-            slidedownPromptOptions: {
-              actionMessage: "Chcete dostávat oznámení o nových článcích?",
-              acceptButtonText: "Ano, přihlaste mě",
-              cancelButtonText: "Ne, děkuji",
-            }
-          });
-
-          console.log('[OneSignal] Slidedown shown successfully');
-
-          // Reset counter after showing
-          localStorage.setItem(visitKey, '0');
-        } else {
-          console.log('[OneSignal] Will show slidedown on visit #3 (current: #' + visitCount + ')');
-        }
-      } catch (e) {
-        console.log('[OneSignal] Slidedown error:', e.message);
+      if (permission !== 'granted') {
+        console.log('[FCM] Permission denied');
+        return false;
       }
 
-      // Check permission status
-      const permission = await OneSignal.Notifications.permission;
-      console.log('[OneSignal] Permission status:', permission);
+      // Register service worker
+      const swRegistration = await navigator.serviceWorker.register('/firebase-messaging-sw.js');
+      console.log('[FCM] Service worker registered');
+
+      // Get FCM token
+      const token = await getToken(messaging, {
+        vapidKey: VAPID_KEY,
+        serviceWorkerRegistration: swRegistration
+      });
+
+      if (!token) {
+        console.error('[FCM] Failed to get token');
+        return false;
+      }
+
+      console.log('[FCM] Token obtained:', token.substring(0, 20) + '...');
+
+      // Subscribe to topic via Cloud Function
+      const response = await fetch(SUBSCRIBE_URL, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ token, topic: TOPIC })
+      });
+
+      if (response.ok) {
+        console.log('[FCM] Successfully subscribed to topic:', TOPIC);
+        localStorage.setItem('fcm_marigold_subscribed', 'true');
+        showSuccessMessage();
+        return true;
+      } else {
+        console.error('[FCM] Subscription failed:', await response.text());
+        return false;
+      }
 
     } catch (error) {
-      console.error('[OneSignal] Error:', error.message);
+      console.error('[FCM] Error:', error);
+      return false;
+    }
+  }
+
+  // Show success message
+  function showSuccessMessage() {
+    const msg = document.createElement('div');
+    msg.innerHTML = `
+      <div style="
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        background: #28a745;
+        color: white;
+        padding: 15px 20px;
+        border-radius: 8px;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+        font-size: 14px;
+        z-index: 10000;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+      ">
+        ✓ Úspěšně přihlášeno k odběru notifikací
+      </div>
+    `;
+    document.body.appendChild(msg);
+    setTimeout(() => msg.remove(), 4000);
+  }
+
+  // Handle foreground messages
+  onMessage(messaging, (payload) => {
+    console.log('[FCM] Foreground message:', payload);
+
+    const data = payload.data || {};
+    const notification = payload.notification || {};
+
+    const title = data.title || notification.title || 'Nový článek';
+    const body = data.body || notification.body || '';
+
+    // Show in-page notification for foreground
+    const notif = document.createElement('div');
+    notif.innerHTML = `
+      <div style="
+        position: fixed;
+        top: 20px;
+        right: 20px;
+        max-width: 350px;
+        background: #fff;
+        border-left: 4px solid #007bff;
+        border-radius: 4px;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+        padding: 15px;
+        z-index: 10000;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+        cursor: pointer;
+      ">
+        <strong style="display: block; margin-bottom: 5px;">${title}</strong>
+        <span style="color: #666; font-size: 14px;">${body}</span>
+      </div>
+    `;
+
+    document.body.appendChild(notif);
+
+    notif.addEventListener('click', () => {
+      if (data.url) {
+        window.location.href = data.url;
+      }
+      notif.remove();
+    });
+
+    setTimeout(() => notif.remove(), 8000);
+  });
+
+  // Expose subscribe function globally
+  window.fcmSubscribe = subscribeToNotifications;
+  window.fcmShowPrompt = showSubscribePrompt;
+
+  console.log('[FCM] Initialization complete');
+</script>
+
+<!-- Optional: Subscribe button for manual trigger -->
+<style>
+  .fcm-subscribe-btn {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 50px;
+    height: 50px;
+    background: #007bff;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 24px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+    z-index: 9999;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: transform 0.2s, background 0.2s;
+  }
+  .fcm-subscribe-btn:hover {
+    transform: scale(1.1);
+    background: #0056b3;
+  }
+  .fcm-subscribe-btn.subscribed {
+    background: #28a745;
+  }
+</style>
+
+<script>
+  // Add subscribe button after DOM loads
+  document.addEventListener('DOMContentLoaded', function() {
+    // Only show button if not subscribed
+    if (localStorage.getItem('fcm_marigold_subscribed') !== 'true') {
+      const btn = document.createElement('button');
+      btn.className = 'fcm-subscribe-btn';
+      btn.innerHTML = '🔔';
+      btn.title = 'Přihlásit se k odběru notifikací';
+      btn.onclick = function() {
+        if (typeof window.fcmSubscribe === 'function') {
+          window.fcmSubscribe();
+        } else {
+          window.fcmShowPrompt();
+        }
+      };
+      document.body.appendChild(btn);
     }
   });
 </script>
@@ -276,2823 +503,20 @@
       </div>
 
       <div class="date-info">
-        <span class="articles-count">38 článků</span>
+        <span class="articles-count">0 článků</span>
       </div>
     </div>
 
     <!-- Grid článků pro tento den -->
     <div class="tech-news-grid">
       
-      <article class="tech-news-card" data-category="ai" data-importance="5">
-        <div class="tech-news-meta">
-          <span class="tech-news-emoji">📰</span>
-          <div class="tech-news-info">
-            <span class="tech-news-source">Time</span>
-            <time class="tech-news-date" datetime="2025-12-19T22:49:00+00:00" data-utc="2025-12-19T22:49:00+00:00">
-              19.12.2025 22:49
-            </time>
-          </div>
-          <div class="importance-indicator importance-5">
-            
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-          </div>
-        </div>
-
-        
-        <div class="tech-news-image">
-          <img src="https://api.time.com/wp-content/uploads/2025/12/time-person-of-the-year-2025-01.jpg?quality=85&w=1200&h=628&crop=1" alt="Architekti umělé inteligence jsou Osobností roku 2025 podle TIME" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://api.time.com/wp-content/uploads/2025/12/time-person-of-the-year-2025-01.jpg?quality=85&w=1200&h=628&crop=1" onerror="handleImageError(this, '/tech-news/2025-12-19/the-architects-of-ai-are-times-2025-person-of-the/');" width="380" height="200">
-        </div>
-        
-
-        <div class="tech-news-content">
-          <h2 class="tech-news-title">
-            <a href="/tech-news/2025-12-19/the-architects-of-ai-are-times-2025-person-of-the-/">Architekti umělé inteligence jsou Osobností roku 2025 podle TIME</a>
-          </h2>
-
-          <p class="tech-news-description">Architekti umělé inteligence poháněli ekonomiku, formovali geopolitiku a změnili způsob, jak interagujeme se světem.</p>
-
-          <div class="tech-news-actions">
-            <a href="/tech-news/2025-12-19/the-architects-of-ai-are-times-2025-person-of-the/" class="tech-news-link" target="_blank" rel="noopener">
-              Číst na Time
-              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
-              </svg>
-            </a>
-            <span class="tech-news-category">ai</span>
-          </div>
-
-          <!-- Firmy a osobnosti -->
-          
-        </div>
-      </article>
-      
-      <article class="tech-news-card" data-category="jaderná fúze" data-importance="5">
-        <div class="tech-news-meta">
-          <span class="tech-news-emoji">📰</span>
-          <div class="tech-news-info">
-            <span class="tech-news-source">PCMag.com</span>
-            <time class="tech-news-date" datetime="2025-12-19T20:06:58+00:00" data-utc="2025-12-19T20:06:58+00:00">
-              19.12.2025 20:06
-            </time>
-          </div>
-          <div class="importance-indicator importance-5">
-            
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-          </div>
-        </div>
-
-        
-        <div class="tech-news-image">
-          <img src="https://sm.pcmag.com/t/pcmag_uk/news/t/trumps-tru/trumps-truth-social-to-merge-with-fusion-startup-youve-proba_19dp.1200.jpg" alt="Truth Social Donalda Trumpa se sloučí s startupem na fúzní energii, který jste pravděpodobně neslyšeli" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://sm.pcmag.com/t/pcmag_uk/news/t/trumps-tru/trumps-truth-social-to-merge-with-fusion-startup-youve-proba_19dp.1200.jpg" onerror="handleImageError(this, '/tech-news/2025-12-19/trumps-truth-social-to-merge-with-fusion-startup-y/');" width="380" height="200">
-        </div>
-        
-
-        <div class="tech-news-content">
-          <h2 class="tech-news-title">
-            <a href="/tech-news/2025-12-19/trumps-truth-social-to-merge-with-fusion-startup-y/">Truth Social Donalda Trumpa se sloučí s startupem na fúzní energii, který jste pravděpodobně neslyšeli</a>
-          </h2>
-
-          <p class="tech-news-description">Společnost Trump Media & Technology Group Corp., mateřská firma sociální sítě Truth Social, oznámila plánované sloučení s TAE Technologies. V rámci dohody poskytne TMTG startupu 300 milionů dolarů na stavbu 50megawattové komerční fúzní elektrárny.</p>
-
-          <div class="tech-news-actions">
-            <a href="/tech-news/2025-12-19/trumps-truth-social-to-merge-with-fusion-startup-y/" class="tech-news-link" target="_blank" rel="noopener">
-              Číst na PCMag.com
-              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
-              </svg>
-            </a>
-            <span class="tech-news-category">jaderná fúze</span>
-          </div>
-
-          <!-- Firmy a osobnosti -->
-          
-          <div class="tech-news-entities">
-            
-            <div class="tech-news-companies">
-              <span class="entity-label">🏢</span>
-              
-                <span class="entity-tag company-tag">Trump Media & Technology Group Corp</span>
-              
-                <span class="entity-tag company-tag">TAE Technologies</span>
-              
-            </div>
-            
-
-            
-            <div class="tech-news-people">
-              <span class="entity-label">👤</span>
-              
-                <span class="entity-tag person-tag">Donald Trump</span>
-              
-            </div>
-            
-          </div>
-          
-        </div>
-      </article>
-      
-      <article class="tech-news-card" data-category="mediální fúze" data-importance="5">
-        <div class="tech-news-meta">
-          <span class="tech-news-emoji">📰</span>
-          <div class="tech-news-info">
-            <span class="tech-news-source">The Intercept</span>
-            <time class="tech-news-date" datetime="2025-12-19T12:00:00+00:00" data-utc="2025-12-19T12:00:00+00:00">
-              19.12.2025 12:00
-            </time>
-          </div>
-          <div class="importance-indicator importance-5">
-            
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-          </div>
-        </div>
-
-        
-        <div class="tech-news-image">
-          <img src="https://theintercept.com/wp-content/uploads/2025/12/AP25352674579654.jpg?fit=2429%2C1620&w=1200&h=800" alt="Fúze Netflixu a Warner Bros. je širokým útokem na pracovníky" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://theintercept.com/wp-content/uploads/2025/12/AP25352674579654.jpg?fit=2429%2C1620&w=1200&h=800" onerror="handleImageError(this, '/tech-news/2025-12-19/the-netflixwarner-bros-merger-is-a-broadside-attac/');" width="380" height="200">
-        </div>
-        
-
-        <div class="tech-news-content">
-          <h2 class="tech-news-title">
-            <a href="/tech-news/2025-12-19/the-netflixwarner-bros-merger-is-a-broadside-attac/">Fúze Netflixu a Warner Bros. je širokým útokem na pracovníky</a>
-          </h2>
-
-          <p class="tech-news-description">Cílem každého monopolu je vytvořit tak mocnou entitu, která určuje podmínky v celém průmyslu a nechává spotřebitele i pracovníky bez volby. Článek z The Intercept upozorňuje na rizika pro zaměstnance v zábavním sektoru.</p>
-
-          <div class="tech-news-actions">
-            <a href="/tech-news/2025-12-19/the-netflixwarner-bros-merger-is-a-broadside-attac/" class="tech-news-link" target="_blank" rel="noopener">
-              Číst na The Intercept
-              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
-              </svg>
-            </a>
-            <span class="tech-news-category">mediální fúze</span>
-          </div>
-
-          <!-- Firmy a osobnosti -->
-          
-          <div class="tech-news-entities">
-            
-            <div class="tech-news-companies">
-              <span class="entity-label">🏢</span>
-              
-                <span class="entity-tag company-tag">Netflix</span>
-              
-            </div>
-            
-
-            
-          </div>
-          
-        </div>
-      </article>
-      
-      <article class="tech-news-card" data-category="euv litografie" data-importance="5">
-        <div class="tech-news-meta">
-          <span class="tech-news-emoji">📰</span>
-          <div class="tech-news-info">
-            <span class="tech-news-source">Geeky Gadgets</span>
-            <time class="tech-news-date" datetime="2025-12-19T11:39:49+00:00" data-utc="2025-12-19T11:39:49+00:00">
-              19.12.2025 11:39
-            </time>
-          </div>
-          <div class="importance-indicator importance-5">
-            
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-          </div>
-        </div>
-
-        
-        <div class="tech-news-image">
-          <img src="https://www.geeky-gadgets.com/wp-content/uploads/2025/12/ex-asml-engineers-chinese-euv-effort_optimized.jpg" alt="Čínský „nemožný“ průlom v EUV litografii a dopady na globální rovnováhu v AI" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://www.geeky-gadgets.com/wp-content/uploads/2025/12/ex-asml-engineers-chinese-euv-effort_optimized.jpg" onerror="handleImageError(this, '/tech-news/2025-12-19/inside-chinas-impossible-ai-breakthrough-what-it-m/');" width="380" height="200">
-        </div>
-        
-
-        <div class="tech-news-content">
-          <h2 class="tech-news-title">
-            <a href="/tech-news/2025-12-19/inside-chinas-impossible-ai-breakthrough-what-it-m/">Čínský „nemožný“ průlom v EUV litografii a dopady na globální rovnováhu v AI</a>
-          </h2>
-
-          <p class="tech-news-description">Čína vyvinula prototyp EUV lithografického stroje, což ohrožuje monopol holandské firmy ASML a americké exportní kontroly. Tento pokrok umožní domácí výrobu pokročilých čipů pro AI systémy a urychlí čínskou nezávislost v polovodičovém průmyslu.</p>
-
-          <div class="tech-news-actions">
-            <a href="/tech-news/2025-12-19/inside-chinas-impossible-ai-breakthrough-what-it-m/" class="tech-news-link" target="_blank" rel="noopener">
-              Číst na Geeky Gadgets
-              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
-              </svg>
-            </a>
-            <span class="tech-news-category">euv litografie</span>
-          </div>
-
-          <!-- Firmy a osobnosti -->
-          
-        </div>
-      </article>
-      
-      <article class="tech-news-card" data-category="jaderná fúze" data-importance="5">
-        <div class="tech-news-meta">
-          <span class="tech-news-emoji">📰</span>
-          <div class="tech-news-info">
-            <span class="tech-news-source">Slashdot.org</span>
-            <time class="tech-news-date" datetime="2025-12-19T07:00:00+00:00" data-utc="2025-12-19T07:00:00+00:00">
-              19.12.2025 07:00
-            </time>
-          </div>
-          <div class="importance-indicator importance-5">
-            
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-          </div>
-        </div>
-
-        
-        <div class="tech-news-image">
-          <img src="https://a.fsdn.com/sd/topics/business_64.png" alt="Podnik Donalda Trumpa v sociálních sítích se slučuje s firmou na jadernou fúzi" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://a.fsdn.com/sd/topics/business_64.png" onerror="handleImageError(this, '/tech-news/2025-12-19/trumps-social-media-business-is-merging-with-a-nuc/');" width="380" height="200">
-        </div>
-        
-
-        <div class="tech-news-content">
-          <h2 class="tech-news-title">
-            <a href="/tech-news/2025-12-19/trumps-social-media-business-is-merging-with-a-nuc/">Podnik Donalda Trumpa v sociálních sítích se slučuje s firmou na jadernou fúzi</a>
-          </h2>
-
-          <p class="tech-news-description">Společnost Trump Media and Technology Group oznámila sloučení s TAE Technologies v dealu v hodnotě přes 6 miliard USD, čímž vznikne první veřejně obchodovaná firma zaměřená na jadernou fúzi. Tento krok má umožnit stavbu prvního reaktoru schopného vyrábět elektřinu v měřítku pro distribuční sítě.</p>
-
-          <div class="tech-news-actions">
-            <a href="/tech-news/2025-12-19/trumps-social-media-business-is-merging-with-a-nuc/" class="tech-news-link" target="_blank" rel="noopener">
-              Číst na Slashdot.org
-              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
-              </svg>
-            </a>
-            <span class="tech-news-category">jaderná fúze</span>
-          </div>
-
-          <!-- Firmy a osobnosti -->
-          
-          <div class="tech-news-entities">
-            
-
-            
-            <div class="tech-news-people">
-              <span class="entity-label">👤</span>
-              
-                <span class="entity-tag person-tag">Donald Trump</span>
-              
-            </div>
-            
-          </div>
-          
-        </div>
-      </article>
-      
-      <article class="tech-news-card" data-category="ai" data-importance="5">
-        <div class="tech-news-meta">
-          <span class="tech-news-emoji">📰</span>
-          <div class="tech-news-info">
-            <span class="tech-news-source">The Times of India</span>
-            <time class="tech-news-date" datetime="2025-12-19T03:11:31+00:00" data-utc="2025-12-19T03:11:31+00:00">
-              19.12.2025 03:11
-            </time>
-          </div>
-          <div class="importance-indicator importance-5">
-            
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-          </div>
-        </div>
-
-        
-        <div class="tech-news-image">
-          <img src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-73264,resizemode-75,msid-126068565/tech/artificial-intelligence/disney-agrees-to-bring-its-characters-to-openais-sora-videos.jpg" alt="Disney koupí podíl v OpenAI a umožní použití svých postav v Sora videích" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://img.etimg.com/thumb/width-1200,height-900,imgsize-73264,resizemode-75,msid-126068565/tech/artificial-intelligence/disney-agrees-to-bring-its-characters-to-openais-sora-videos.jpg" onerror="handleImageError(this, '/tech-news/2025-12-19/disney-agrees-to-bring-its-characters-to-openais-s/');" width="380" height="200">
-        </div>
-        
-
-        <div class="tech-news-content">
-          <h2 class="tech-news-title">
-            <a href="/tech-news/2025-12-19/disney-agrees-to-bring-its-characters-to-openais-s/">Disney koupí podíl v OpenAI a umožní použití svých postav v Sora videích</a>
-          </h2>
-
-          <p class="tech-news-description">Disney koupil podíl v hodnotě 1 miliardy dolarů v OpenAI a uzavřel tříletou dohodu, která umožní generování krátkých AI videí s jeho postavami na platformě Sora. Vybraná videa budou streamovat na Disney+, což má přilákat mladší diváky, avšak krok vyvolává debatu o autorských právech a právech tvůrců.</p>
-
-          <div class="tech-news-actions">
-            <a href="/tech-news/2025-12-19/disney-agrees-to-bring-its-characters-to-openais-s/" class="tech-news-link" target="_blank" rel="noopener">
-              Číst na The Times of India
-              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
-              </svg>
-            </a>
-            <span class="tech-news-category">ai</span>
-          </div>
-
-          <!-- Firmy a osobnosti -->
-          
-          <div class="tech-news-entities">
-            
-            <div class="tech-news-companies">
-              <span class="entity-label">🏢</span>
-              
-                <span class="entity-tag company-tag">OpenAI</span>
-              
-            </div>
-            
-
-            
-          </div>
-          
-        </div>
-      </article>
-      
-      <article class="tech-news-card" data-category="kosmonautika" data-importance="4">
-        <div class="tech-news-meta">
-          <span class="tech-news-emoji">📰</span>
-          <div class="tech-news-info">
-            <span class="tech-news-source">NBC News</span>
-            <time class="tech-news-date" datetime="2025-12-19T22:16:48+00:00" data-utc="2025-12-19T22:16:48+00:00">
-              19.12.2025 22:16
-            </time>
-          </div>
-          <div class="importance-indicator importance-4">
-            
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star">☆</span>
-              
-            
-          </div>
-        </div>
-
-        
-        <div class="tech-news-image">
-          <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251219-jared-isaacman-nasa-bf-1458-241d18.jpg" alt="Nový šéf NASA stanovuje priority hned první den" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251219-jared-isaacman-nasa-bf-1458-241d18.jpg" onerror="handleImageError(this, '/tech-news/2025-12-19/nasas-new-leader-makes-his-priorities-clear-on-day/');" width="380" height="200">
-        </div>
-        
-
-        <div class="tech-news-content">
-          <h2 class="tech-news-title">
-            <a href="/tech-news/2025-12-19/nasas-new-leader-makes-his-priorities-clear-on-day/">Nový šéf NASA stanovuje priority hned první den</a>
-          </h2>
-
-          <p class="tech-news-description">Nový administrátor NASA, miliardářský podnikatel Jared Isaacman, sdělil NBC News své priority pro vesmírnou agenturu.</p>
-
-          <div class="tech-news-actions">
-            <a href="/tech-news/2025-12-19/nasas-new-leader-makes-his-priorities-clear-on-day/" class="tech-news-link" target="_blank" rel="noopener">
-              Číst na NBC News
-              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
-              </svg>
-            </a>
-            <span class="tech-news-category">kosmonautika</span>
-          </div>
-
-          <!-- Firmy a osobnosti -->
-          
-          <div class="tech-news-entities">
-            
-            <div class="tech-news-companies">
-              <span class="entity-label">🏢</span>
-              
-                <span class="entity-tag company-tag">NASA</span>
-              
-            </div>
-            
-
-            
-            <div class="tech-news-people">
-              <span class="entity-label">👤</span>
-              
-                <span class="entity-tag person-tag">Jared Isaacman</span>
-              
-            </div>
-            
-          </div>
-          
-        </div>
-      </article>
-      
-      <article class="tech-news-card" data-category="kyberbezpečnost" data-importance="4">
-        <div class="tech-news-meta">
-          <span class="tech-news-emoji">📰</span>
-          <div class="tech-news-info">
-            <span class="tech-news-source">SiliconANGLE News</span>
-            <time class="tech-news-date" datetime="2025-12-19T21:34:11+00:00" data-utc="2025-12-19T21:34:11+00:00">
-              19.12.2025 21:34
-            </time>
-          </div>
-          <div class="importance-indicator importance-4">
-            
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star">☆</span>
-              
-            
-          </div>
-        </div>
-
-        
-        <div class="tech-news-image">
-          <img src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Palo-Alto-Networks.png" alt="Palo Alto Networks uzavírá dohodu o AI v hodnotě miliard dolarů s Google Cloud" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Palo-Alto-Networks.png" onerror="handleImageError(this, '/tech-news/2025-12-19/palo-alto-networks-inks-multibillion-dollar-ai-dea/');" width="380" height="200">
-        </div>
-        
-
-        <div class="tech-news-content">
-          <h2 class="tech-news-title">
-            <a href="/tech-news/2025-12-19/palo-alto-networks-inks-multibillion-dollar-ai-dea/">Palo Alto Networks uzavírá dohodu o AI v hodnotě miliard dolarů s Google Cloud</a>
-          </h2>
-
-          <p class="tech-news-description">Palo Alto Networks přesune své klíčové interní úlohy na platformu Google Cloud v rámci partnerství oznámeného dnes. Kyberbezpečnostní společnost označila projekt za dohodu v hodnotě téměř 10 miliard dolarů s důrazem na umělou inteligenci.</p>
-
-          <div class="tech-news-actions">
-            <a href="/tech-news/2025-12-19/palo-alto-networks-inks-multibillion-dollar-ai-dea/" class="tech-news-link" target="_blank" rel="noopener">
-              Číst na SiliconANGLE News
-              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
-              </svg>
-            </a>
-            <span class="tech-news-category">kyberbezpečnost</span>
-          </div>
-
-          <!-- Firmy a osobnosti -->
-          
-          <div class="tech-news-entities">
-            
-            <div class="tech-news-companies">
-              <span class="entity-label">🏢</span>
-              
-                <span class="entity-tag company-tag">Palo Alto Networks</span>
-              
-                <span class="entity-tag company-tag">Google</span>
-              
-            </div>
-            
-
-            
-          </div>
-          
-        </div>
-      </article>
-      
-      <article class="tech-news-card" data-category="ai" data-importance="4">
-        <div class="tech-news-meta">
-          <span class="tech-news-emoji">📰</span>
-          <div class="tech-news-info">
-            <span class="tech-news-source">Fb.com</span>
-            <time class="tech-news-date" datetime="2025-12-19T20:00:59+00:00" data-utc="2025-12-19T20:00:59+00:00">
-              19.12.2025 20:00
-            </time>
-          </div>
-          <div class="importance-indicator importance-4">
-            
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star">☆</span>
-              
-            
-          </div>
-        </div>
-
-        
-        <div class="tech-news-image">
-          <img src="https://about.fb.com/wp-content/uploads/2025/12/2025-Meta-Highlights_Social-Share.jpg?w=1200" alt="Pokroky v AI, nejpokročilejší brýle a další: Hlavní události Meta v roce 2025" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://about.fb.com/wp-content/uploads/2025/12/2025-Meta-Highlights_Social-Share.jpg?w=1200" onerror="handleImageError(this, '/tech-news/2025-12-19/ai-breakthroughs-our-most-advanced-glasses-and-mor/');" width="380" height="200">
-        </div>
-        
-
-        <div class="tech-news-content">
-          <h2 class="tech-news-title">
-            <a href="/tech-news/2025-12-19/ai-breakthroughs-our-most-advanced-glasses-and-mor/">Pokroky v AI, nejpokročilejší brýle a další: Hlavní události Meta v roce 2025</a>
-          </h2>
-
-          <p class="tech-news-description">Meta shrnuje klíčové momenty roku 2025, včetně vize osobní superinteligence, nové aplikace AI, výzkumných modelů a rozvoje datových center. Zaměřuje se na inovace v umělé inteligenci a infrastruktuře.</p>
-
-          <div class="tech-news-actions">
-            <a href="/tech-news/2025-12-19/ai-breakthroughs-our-most-advanced-glasses-and-mor/" class="tech-news-link" target="_blank" rel="noopener">
-              Číst na Fb.com
-              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
-              </svg>
-            </a>
-            <span class="tech-news-category">ai</span>
-          </div>
-
-          <!-- Firmy a osobnosti -->
-          
-          <div class="tech-news-entities">
-            
-            <div class="tech-news-companies">
-              <span class="entity-label">🏢</span>
-              
-                <span class="entity-tag company-tag">Meta</span>
-              
-            </div>
-            
-
-            
-          </div>
-          
-        </div>
-      </article>
-      
-      <article class="tech-news-card" data-category="datová centra" data-importance="4">
-        <div class="tech-news-meta">
-          <span class="tech-news-emoji">📰</span>
-          <div class="tech-news-info">
-            <span class="tech-news-source">Financial Post</span>
-            <time class="tech-news-date" datetime="2025-12-19T19:58:10+00:00" data-utc="2025-12-19T19:58:10+00:00">
-              19.12.2025 19:58
-            </time>
-          </div>
-          <div class="importance-indicator importance-4">
-            
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star">☆</span>
-              
-            
-          </div>
-        </div>
-
-        
-
-        <div class="tech-news-content">
-          <h2 class="tech-news-title">
-            <a href="/tech-news/2025-12-19/georgia-regulators-approve-huge-electric-generatio/">Regulátoři v Georgii schválili obrovské zvýšení kapacity výroby elektřiny pro datová centra</a>
-          </h2>
-
-          <p class="tech-news-description">Jediná soukromá energetická společnost v Georgii získala jednomyslné schválení regulátorů pro navýšení kapacity o 50 % kvůli poptávce z datových center. Projekt za 16,3 miliardy dolarů by měl uspokojit rostoucí energetické nároky vývojářů umělé inteligence a patří mezi největší v USA.</p>
-
-          <div class="tech-news-actions">
-            <a href="/tech-news/2025-12-19/georgia-regulators-approve-huge-electric-generatio/" class="tech-news-link" target="_blank" rel="noopener">
-              Číst na Financial Post
-              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
-              </svg>
-            </a>
-            <span class="tech-news-category">datová centra</span>
-          </div>
-
-          <!-- Firmy a osobnosti -->
-          
-        </div>
-      </article>
-      
-      <article class="tech-news-card" data-category="ai" data-importance="4">
-        <div class="tech-news-meta">
-          <span class="tech-news-emoji">🚀</span>
-          <div class="tech-news-info">
-            <span class="tech-news-source">TechCrunch</span>
-            <time class="tech-news-date" datetime="2025-12-19T19:24:11+00:00" data-utc="2025-12-19T19:24:11+00:00">
-              19.12.2025 19:24
-            </time>
-          </div>
-          <div class="importance-indicator importance-4">
-            
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star">☆</span>
-              
-            
-          </div>
-        </div>
-
-        
-        <div class="tech-news-image">
-          <img src="https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-1691376215.jpg?w=1024" alt="Yann LeCun potvrzuje svůj nový startup na 'world model', údajně hledá valuaci přes 5 miliard dolarů | TechCrunch" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-1691376215.jpg?w=1024" onerror="handleImageError(this, '/tech-news/2025-12-19/yann-lecun-confirms-his-new-world-model-startup-re/');" width="380" height="200">
-        </div>
-        
-
-        <div class="tech-news-content">
-          <h2 class="tech-news-title">
-            <a href="/tech-news/2025-12-19/yann-lecun-confirms-his-new-world-model-startup-re/">Yann LeCun potvrzuje svůj nový startup na 'world model', údajně hledá valuaci přes 5 miliard dolarů | TechCrunch</a>
-          </h2>
-
-          <p class="tech-news-description">Známý vědec v oblasti umělé inteligence Yann LeCun ve čtvrtek potvrdil spuštění nového startupu Advanced Machine Intelligence (AMI Labs), zaměřeného na modely světa. Nechce však firmu řídit jako generální ředitel, funkci přebírá Alex LeBrun z lékařského AI startupu Nabla.</p>
-
-          <div class="tech-news-actions">
-            <a href="/tech-news/2025-12-19/yann-lecun-confirms-his-new-world-model-startup-re/" class="tech-news-link" target="_blank" rel="noopener">
-              Číst na TechCrunch
-              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
-              </svg>
-            </a>
-            <span class="tech-news-category">ai</span>
-          </div>
-
-          <!-- Firmy a osobnosti -->
-          
-          <div class="tech-news-entities">
-            
-
-            
-            <div class="tech-news-people">
-              <span class="entity-label">👤</span>
-              
-                <span class="entity-tag person-tag">Yann LeCun</span>
-              
-            </div>
-            
-          </div>
-          
-        </div>
-      </article>
-      
-      <article class="tech-news-card" data-category="jaderná energie" data-importance="4">
-        <div class="tech-news-meta">
-          <span class="tech-news-emoji">📰</span>
-          <div class="tech-news-info">
-            <span class="tech-news-source">Fox News</span>
-            <time class="tech-news-date" datetime="2025-12-19T19:19:18+00:00" data-utc="2025-12-19T19:19:18+00:00">
-              19.12.2025 19:19
-            </time>
-          </div>
-          <div class="importance-indicator importance-4">
-            
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star">☆</span>
-              
-            
-          </div>
-        </div>
-
-        
-        <div class="tech-news-image">
-          <img src="https://static.foxnews.com/foxnews.com/content/uploads/2025/12/faulkner-three-mile-island-tour-fox-news.jpg" alt="Jaderná elektrárna Three Mile Island ožívá s miliardovou federální podporou kvůli rostoucí poptávce po energii" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://static.foxnews.com/foxnews.com/content/uploads/2025/12/faulkner-three-mile-island-tour-fox-news.jpg" onerror="handleImageError(this, '/tech-news/2025-12-19/three-mile-island-nuclear-plant-makes-comeback-wit/');" width="380" height="200">
-        </div>
-        
-
-        <div class="tech-news-content">
-          <h2 class="tech-news-title">
-            <a href="/tech-news/2025-12-19/three-mile-island-nuclear-plant-makes-comeback-wit/">Jaderná elektrárna Three Mile Island ožívá s miliardovou federální podporou kvůli rostoucí poptávce po energii</a>
-          </h2>
-
-          <p class="tech-news-description">Microsoft a Constellation Energy plánují restart dlouho odstaveného jaderného reaktoru na Three Mile Island v Pensylvánii s podporou 1 miliardy dolarů federální půjčky. Pořad Fox News „The Faulkner Focus“ získal exkluzivní přístup do zařízení během příprav.</p>
-
-          <div class="tech-news-actions">
-            <a href="/tech-news/2025-12-19/three-mile-island-nuclear-plant-makes-comeback-wit/" class="tech-news-link" target="_blank" rel="noopener">
-              Číst na Fox News
-              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
-              </svg>
-            </a>
-            <span class="tech-news-category">jaderná energie</span>
-          </div>
-
-          <!-- Firmy a osobnosti -->
-          
-        </div>
-      </article>
-      
-      <article class="tech-news-card" data-category="neurotechnologie" data-importance="4">
-        <div class="tech-news-meta">
-          <span class="tech-news-emoji">🔧</span>
-          <div class="tech-news-info">
-            <span class="tech-news-source">Wired</span>
-            <time class="tech-news-date" datetime="2025-12-19T19:03:11+00:00" data-utc="2025-12-19T19:03:11+00:00">
-              19.12.2025 19:03
-            </time>
-          </div>
-          <div class="importance-indicator importance-4">
-            
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star">☆</span>
-              
-            
-          </div>
-        </div>
-
-        
-        <div class="tech-news-image">
-          <img src="https://media.wired.com/photos/6943154b8d14fbb0ba136394/191:100/w_1280,c_limit/GettyImages-1255236646.jpg" alt="Nový projekt Sama Altmana v oblasti rozhraní mozek-počítač: Merge Labs vznikne z neziskovky" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://media.wired.com/photos/6943154b8d14fbb0ba136394/191:100/w_1280,c_limit/GettyImages-1255236646.jpg" onerror="handleImageError(this, '/tech-news/2025-12-19/sam-altmans-new-brain-venture-merge-labs-will-spin/');" width="380" height="200">
-        </div>
-        
-
-        <div class="tech-news-content">
-          <h2 class="tech-news-title">
-            <a href="/tech-news/2025-12-19/sam-altmans-new-brain-venture-merge-labs-will-spin/">Nový projekt Sama Altmana v oblasti rozhraní mozek-počítač: Merge Labs vznikne z neziskovky</a>
-          </h2>
-
-          <p class="tech-news-description">Startup Merge Labs, zaměřený na čtení mozkové aktivity ultrazvukem, se oddělí od losangeleské neziskovky Forest Neurotech. Mezi zakladateli je Sam Altman, CEO OpenAI, spolu s vedením neziskovky a dalšími klíčovými osobami.</p>
-
-          <div class="tech-news-actions">
-            <a href="/tech-news/2025-12-19/sam-altmans-new-brain-venture-merge-labs-will-spin/" class="tech-news-link" target="_blank" rel="noopener">
-              Číst na Wired
-              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
-              </svg>
-            </a>
-            <span class="tech-news-category">neurotechnologie</span>
-          </div>
-
-          <!-- Firmy a osobnosti -->
-          
-          <div class="tech-news-entities">
-            
-            <div class="tech-news-companies">
-              <span class="entity-label">🏢</span>
-              
-                <span class="entity-tag company-tag">Merge Labs</span>
-              
-                <span class="entity-tag company-tag">Forest Neurotech</span>
-              
-            </div>
-            
-
-            
-            <div class="tech-news-people">
-              <span class="entity-label">👤</span>
-              
-                <span class="entity-tag person-tag">Sam Altman</span>
-              
-            </div>
-            
-          </div>
-          
-        </div>
-      </article>
-      
-      <article class="tech-news-card" data-category="hardware" data-importance="4">
-        <div class="tech-news-meta">
-          <span class="tech-news-emoji">📰</span>
-          <div class="tech-news-info">
-            <span class="tech-news-source">Geeky Gadgets</span>
-            <time class="tech-news-date" datetime="2025-12-19T16:00:06+00:00" data-utc="2025-12-19T16:00:06+00:00">
-              19.12.2025 16:00
-            </time>
-          </div>
-          <div class="importance-indicator importance-4">
-            
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star">☆</span>
-              
-            
-          </div>
-        </div>
-
-        
-        <div class="tech-news-image">
-          <img src="https://www.geeky-gadgets.com/wp-content/uploads/2025/12/M5-Mac-Pro.jpg" alt="V roce 2026 konečně přichází: Unikly informace o 32palcovém iMac Pro" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://www.geeky-gadgets.com/wp-content/uploads/2025/12/M5-Mac-Pro.jpg" onerror="handleImageError(this, '/tech-news/2025-12-19/its-finally-happening-in-2026-the-32-imac-pro-leak/');" width="380" height="200">
-        </div>
-        
-
-        <div class="tech-news-content">
-          <h2 class="tech-news-title">
-            <a href="/tech-news/2025-12-19/its-finally-happening-in-2026-the-32-imac-pro-leak/">V roce 2026 konečně přichází: Unikly informace o 32palcovém iMac Pro</a>
-          </h2>
-
-          <p class="tech-news-description">Apple se vrací na trh high-end all-in-one počítačů s iMac Pro 2026 poháněným čipem M5 Max. Tento model slibuje vysoký výkon, tenký design a funkce pro profesionály, s vydáním plánovaným na podzim 2026.</p>
-
-          <div class="tech-news-actions">
-            <a href="/tech-news/2025-12-19/its-finally-happening-in-2026-the-32-imac-pro-leak/" class="tech-news-link" target="_blank" rel="noopener">
-              Číst na Geeky Gadgets
-              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
-              </svg>
-            </a>
-            <span class="tech-news-category">hardware</span>
-          </div>
-
-          <!-- Firmy a osobnosti -->
-          
-          <div class="tech-news-entities">
-            
-            <div class="tech-news-companies">
-              <span class="entity-label">🏢</span>
-              
-                <span class="entity-tag company-tag">Apple</span>
-              
-            </div>
-            
-
-            
-          </div>
-          
-        </div>
-      </article>
-      
-      <article class="tech-news-card" data-category="ai" data-importance="4">
-        <div class="tech-news-meta">
-          <span class="tech-news-emoji">📰</span>
-          <div class="tech-news-info">
-            <span class="tech-news-source">Blog.google</span>
-            <time class="tech-news-date" datetime="2025-12-19T16:00:00+00:00" data-utc="2025-12-19T16:00:00+00:00">
-              19.12.2025 16:00
-            </time>
-          </div>
-          <div class="importance-indicator importance-4">
-            
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star">☆</span>
-              
-            
-          </div>
-        </div>
-
-        
-        <div class="tech-news-image">
-          <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Tips_ss.width-1300.png" alt="40 užitečných tipů pro umělou inteligenci od Google z roku 2025" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Tips_ss.width-1300.png" onerror="handleImageError(this, '/tech-news/2025-12-19/a-40-of-our-most-helpful-ai-tips-from-2025/');" width="380" height="200">
-        </div>
-        
-
-        <div class="tech-news-content">
-          <h2 class="tech-news-title">
-            <a href="/tech-news/2025-12-19/A-40-of-our-most-helpful-ai-tips-from-2025/">40 užitečných tipů pro umělou inteligenci od Google z roku 2025</a>
-          </h2>
-
-          <p class="tech-news-description">Článek shrnuje klíčové tipy pro využití nových AI nástrojů Google z roku 2025. Ilustrace s tmavým motivem zobrazuje tři osoby interagující s technologiemi obklopené ikonami produktů v kategorii AI.</p>
-
-          <div class="tech-news-actions">
-            <a href="/tech-news/2025-12-19/a-40-of-our-most-helpful-ai-tips-from-2025/" class="tech-news-link" target="_blank" rel="noopener">
-              Číst na Blog.google
-              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
-              </svg>
-            </a>
-            <span class="tech-news-category">ai</span>
-          </div>
-
-          <!-- Firmy a osobnosti -->
-          
-        </div>
-      </article>
-      
-      <article class="tech-news-card" data-category="startupy" data-importance="4">
-        <div class="tech-news-meta">
-          <span class="tech-news-emoji">📰</span>
-          <div class="tech-news-info">
-            <span class="tech-news-source">Next Big Future</span>
-            <time class="tech-news-date" datetime="2025-12-19T15:34:11+00:00" data-utc="2025-12-19T15:34:11+00:00">
-              19.12.2025 15:34
-            </time>
-          </div>
-          <div class="importance-indicator importance-4">
-            
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star">☆</span>
-              
-            
-          </div>
-        </div>
-
-        
-        <div class="tech-news-image">
-          <img src="https://nextbigfuture.s3.amazonaws.com/uploads/2025/12/openairev.jpg" alt="OpenAI získává 100 miliard dolarů při valuaci přibližně 750 miliard" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://nextbigfuture.s3.amazonaws.com/uploads/2025/12/openairev.jpg" onerror="handleImageError(this, '/tech-news/2025-12-19/openai-raising-100-billion-at-about-750-billion-va/');" width="380" height="200">
-        </div>
-        
-
-        <div class="tech-news-content">
-          <h2 class="tech-news-title">
-            <a href="/tech-news/2025-12-19/openai-raising-100-billion-at-about-750-billion-va/">OpenAI získává 100 miliard dolarů při valuaci přibližně 750 miliard</a>
-          </h2>
-
-          <p class="tech-news-description">OpenAI vede předběžná jednání s Amazonem o investici přes 10 miliard dolarů včetně využití Trainium čipů od Amazon Web Services pro trénink AI modelů. Jedná se o samostatnou rundu získávání až 100 miliard dolarů při valuaci 830 miliard, což je nárůst o 66 procent oproti říjnovým 500 miliardám.</p>
-
-          <div class="tech-news-actions">
-            <a href="/tech-news/2025-12-19/openai-raising-100-billion-at-about-750-billion-va/" class="tech-news-link" target="_blank" rel="noopener">
-              Číst na Next Big Future
-              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
-              </svg>
-            </a>
-            <span class="tech-news-category">startupy</span>
-          </div>
-
-          <!-- Firmy a osobnosti -->
-          
-          <div class="tech-news-entities">
-            
-            <div class="tech-news-companies">
-              <span class="entity-label">🏢</span>
-              
-                <span class="entity-tag company-tag">OpenAI</span>
-              
-                <span class="entity-tag company-tag">Amazon</span>
-              
-            </div>
-            
-
-            
-          </div>
-          
-        </div>
-      </article>
-      
-      <article class="tech-news-card" data-category="burza" data-importance="4">
-        <div class="tech-news-meta">
-          <span class="tech-news-emoji">📰</span>
-          <div class="tech-news-info">
-            <span class="tech-news-source">Ndtvprofit.com</span>
-            <time class="tech-news-date" datetime="2025-12-19T15:32:55+00:00" data-utc="2025-12-19T15:32:55+00:00">
-              19.12.2025 15:32
-            </time>
-          </div>
-          <div class="importance-indicator importance-4">
-            
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star">☆</span>
-              
-            
-          </div>
-        </div>
-
-        
-        <div class="tech-news-image">
-          <img src="https://media.assettype.com/bloombergquint%2F2025-04-18%2Fb7mliu2m%2FUS-Stock-market.png?rect=0%2C7%2C1200%2C630&w=1200&auto=format%2Ccompress&ogImage=true" alt="Růst akcií Oracle o 7 % posunul technologicky zaměřený Nasdaq o 1 %" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://media.assettype.com/bloombergquint%2F2025-04-18%2Fb7mliu2m%2FUS-Stock-market.png?rect=0%2C7%2C1200%2C630&w=1200&auto=format%2Ccompress&ogImage=true" onerror="handleImageError(this, '/tech-news/2025-12-19/oracles-7-surge-pushes-tech-heavy-nasdaq-up-1/');" width="380" height="200">
-        </div>
-        
-
-        <div class="tech-news-content">
-          <h2 class="tech-news-title">
-            <a href="/tech-news/2025-12-19/oracles-7-surge-pushes-tech-heavy-nasdaq-up-1/">Růst akcií Oracle o 7 % posunul technologicky zaměřený Nasdaq o 1 %</a>
-          </h2>
-
-          <p class="tech-news-description">Růst akcií Oracle, která je součástí amerických investorů kupujících americkou divizi TikToku od čínské ByteDance, spolu s nárůstem akcií Nvidia vedl k posunu indexu Nasdaq Composite v první hodině obchodování.</p>
-
-          <div class="tech-news-actions">
-            <a href="/tech-news/2025-12-19/oracles-7-surge-pushes-tech-heavy-nasdaq-up-1/" class="tech-news-link" target="_blank" rel="noopener">
-              Číst na Ndtvprofit.com
-              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
-              </svg>
-            </a>
-            <span class="tech-news-category">burza</span>
-          </div>
-
-          <!-- Firmy a osobnosti -->
-          
-          <div class="tech-news-entities">
-            
-            <div class="tech-news-companies">
-              <span class="entity-label">🏢</span>
-              
-                <span class="entity-tag company-tag">Oracle</span>
-              
-                <span class="entity-tag company-tag">Nvidia</span>
-              
-            </div>
-            
-
-            
-          </div>
-          
-        </div>
-      </article>
-      
-      <article class="tech-news-card" data-category="ai programování" data-importance="4">
-        <div class="tech-news-meta">
-          <span class="tech-news-emoji">📰</span>
-          <div class="tech-news-info">
-            <span class="tech-news-source">Fortune</span>
-            <time class="tech-news-date" datetime="2025-12-19T15:30:08+00:00" data-utc="2025-12-19T15:30:08+00:00">
-              19.12.2025 15:30
-            </time>
-          </div>
-          <div class="importance-indicator importance-4">
-            
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star">☆</span>
-              
-            
-          </div>
-        </div>
-
-        
-        <div class="tech-news-image">
-          <img src="https://fortune.com/img-assets/wp-content/uploads/2025/12/Graphite.jpeg?resize=1200,600" alt="Exkluzivně: Cursor přebírá startup na kontrolu kódu Graphite, zatímco soutěž v AI programování sílí" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://fortune.com/img-assets/wp-content/uploads/2025/12/Graphite.jpeg?resize=1200,600" onerror="handleImageError(this, '/tech-news/2025-12-19/exclusive-cursor-acquires-code-review-startup-grap/');" width="380" height="200">
-        </div>
-        
-
-        <div class="tech-news-content">
-          <h2 class="tech-news-title">
-            <a href="/tech-news/2025-12-19/exclusive-cursor-acquires-code-review-startup-grap/">Exkluzivně: Cursor přebírá startup na kontrolu kódu Graphite, zatímco soutěž v AI programování sílí</a>
-          </h2>
-
-          <p class="tech-news-description">Nákupem Graphite získává Cursor, oceňovaný na 29 miliard dolarů, pokročilejší schopnosti kontroly kódu a ladění chyb.</p>
-
-          <div class="tech-news-actions">
-            <a href="/tech-news/2025-12-19/exclusive-cursor-acquires-code-review-startup-grap/" class="tech-news-link" target="_blank" rel="noopener">
-              Číst na Fortune
-              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
-              </svg>
-            </a>
-            <span class="tech-news-category">ai programování</span>
-          </div>
-
-          <!-- Firmy a osobnosti -->
-          
-          <div class="tech-news-entities">
-            
-            <div class="tech-news-companies">
-              <span class="entity-label">🏢</span>
-              
-                <span class="entity-tag company-tag">Cursor</span>
-              
-                <span class="entity-tag company-tag">Graphite</span>
-              
-            </div>
-            
-
-            
-          </div>
-          
-        </div>
-      </article>
-      
-      <article class="tech-news-card" data-category="ai" data-importance="4">
-        <div class="tech-news-meta">
-          <span class="tech-news-emoji">📰</span>
-          <div class="tech-news-info">
-            <span class="tech-news-source">Rolling Out</span>
-            <time class="tech-news-date" datetime="2025-12-19T15:20:07+00:00" data-utc="2025-12-19T15:20:07+00:00">
-              19.12.2025 15:20
-            </time>
-          </div>
-          <div class="importance-indicator importance-4">
-            
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star">☆</span>
-              
-            
-          </div>
-        </div>
-
-        
-        <div class="tech-news-image">
-          <img src="https://rollingout.com/wp-content/uploads/2025/10/shutterstock_2586627697-scaled.jpg" alt="Micron očekává rekordní zisky díky růstu poptávky po AI" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://rollingout.com/wp-content/uploads/2025/10/shutterstock_2586627697-scaled.jpg" onerror="handleImageError(this, '/tech-news/2025-12-19/micron-forecasts-record-profits-on-ai-demand-surge/');" width="380" height="200">
-        </div>
-        
-
-        <div class="tech-news-content">
-          <h2 class="tech-news-title">
-            <a href="/tech-news/2025-12-19/micron-forecasts-record-profits-on-ai-demand-surge/">Micron očekává rekordní zisky díky růstu poptávky po AI</a>
-          </h2>
-
-          <p class="tech-news-description">Společnost Micron Technology z Boise v Idahu zveřejnila prognózu pro druhý čtvrtletí, která překonává očekávání analytiků téměř dvojnásobně a posunula její akcie o téměř 10 % v předobchodním obchodování. Růst je poháněn poptávkou po pamětích pro systémy umělé inteligence.</p>
-
-          <div class="tech-news-actions">
-            <a href="/tech-news/2025-12-19/micron-forecasts-record-profits-on-ai-demand-surge/" class="tech-news-link" target="_blank" rel="noopener">
-              Číst na Rolling Out
-              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
-              </svg>
-            </a>
-            <span class="tech-news-category">ai</span>
-          </div>
-
-          <!-- Firmy a osobnosti -->
-          
-          <div class="tech-news-entities">
-            
-            <div class="tech-news-companies">
-              <span class="entity-label">🏢</span>
-              
-                <span class="entity-tag company-tag">Micron Technology</span>
-              
-            </div>
-            
-
-            
-          </div>
-          
-        </div>
-      </article>
-      
-      <article class="tech-news-card" data-category="polovodiče" data-importance="4">
-        <div class="tech-news-meta">
-          <span class="tech-news-emoji">📰</span>
-          <div class="tech-news-info">
-            <span class="tech-news-source">Tom's Hardware UK</span>
-            <time class="tech-news-date" datetime="2025-12-19T15:09:59+00:00" data-utc="2025-12-19T15:09:59+00:00">
-              19.12.2025 15:09
-            </time>
-          </div>
-          <div class="importance-indicator importance-4">
-            
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star">☆</span>
-              
-            
-          </div>
-        </div>
-
-        
-        <div class="tech-news-image">
-          <img src="https://cdn.mos.cms.futurecdn.net/ccriH99hinz37Jq6RzYJFb-1920-80.jpg" alt="Taiwan zvažuje omezení exportu TSMC, které by znemožnilo výrobu nejnovějších čipových uzlů v USA – export jen o dvě generace zaostalý za špičkou, což by zpomalilo americkou expanzi" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://cdn.mos.cms.futurecdn.net/ccriH99hinz37Jq6RzYJFb-1920-80.jpg" onerror="handleImageError(this, '/tech-news/2025-12-19/taiwan-considers-tsmc-export-ban-that-would-preven/');" width="380" height="200">
-        </div>
-        
-
-        <div class="tech-news-content">
-          <h2 class="tech-news-title">
-            <a href="/tech-news/2025-12-19/taiwan-considers-tsmc-export-ban-that-would-preven/">Taiwan zvažuje omezení exportu TSMC, které by znemožnilo výrobu nejnovějších čipových uzlů v USA – export jen o dvě generace zaostalý za špičkou, což by zpomalilo americkou expanzi</a>
-          </h2>
-
-          <p class="tech-news-description">Tajwanská vláda zvažuje zavedení pravidla N+2 pro pokročilé výrobní technologie TSMC, což by výrazně zkomplikovalo expanzi této největší světové polovodičové foundry do zahraničí, včetně USA.</p>
-
-          <div class="tech-news-actions">
-            <a href="/tech-news/2025-12-19/taiwan-considers-tsmc-export-ban-that-would-preven/" class="tech-news-link" target="_blank" rel="noopener">
-              Číst na Tom's Hardware UK
-              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
-              </svg>
-            </a>
-            <span class="tech-news-category">polovodiče</span>
-          </div>
-
-          <!-- Firmy a osobnosti -->
-          
-          <div class="tech-news-entities">
-            
-            <div class="tech-news-companies">
-              <span class="entity-label">🏢</span>
-              
-                <span class="entity-tag company-tag">TSMC</span>
-              
-            </div>
-            
-
-            
-          </div>
-          
-        </div>
-      </article>
-      
-      <article class="tech-news-card" data-category="ai" data-importance="4">
-        <div class="tech-news-meta">
-          <span class="tech-news-emoji">📰</span>
-          <div class="tech-news-info">
-            <span class="tech-news-source">Fortune</span>
-            <time class="tech-news-date" datetime="2025-12-19T12:21:59+00:00" data-utc="2025-12-19T12:21:59+00:00">
-              19.12.2025 12:21
-            </time>
-          </div>
-          <div class="importance-indicator importance-4">
-            
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star">☆</span>
-              
-            
-          </div>
-        </div>
-
-        
-        <div class="tech-news-image">
-          <img src="https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2236933448-e1765906578456.jpg?resize=1200,600" alt="Uvnitř OpenAI: ‚code red‘" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2236933448-e1765906578456.jpg?resize=1200,600" onerror="handleImageError(this, '/tech-news/2025-12-19/inside-openais-code-red/');" width="380" height="200">
-        </div>
-        
-
-        <div class="tech-news-content">
-          <h2 class="tech-news-title">
-            <a href="/tech-news/2025-12-19/inside-openais-code-red/">Uvnitř OpenAI: ‚code red‘</a>
-          </h2>
-
-          <p class="tech-news-description">Tým technologie magazínu Fortune nedávno prozkoumal, co se děje v zákulisí OpenAI.</p>
-
-          <div class="tech-news-actions">
-            <a href="/tech-news/2025-12-19/inside-openais-code-red/" class="tech-news-link" target="_blank" rel="noopener">
-              Číst na Fortune
-              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
-              </svg>
-            </a>
-            <span class="tech-news-category">ai</span>
-          </div>
-
-          <!-- Firmy a osobnosti -->
-          
-          <div class="tech-news-entities">
-            
-            <div class="tech-news-companies">
-              <span class="entity-label">🏢</span>
-              
-                <span class="entity-tag company-tag">OpenAI</span>
-              
-            </div>
-            
-
-            
-          </div>
-          
-        </div>
-      </article>
-      
-      <article class="tech-news-card" data-category="hardware" data-importance="4">
-        <div class="tech-news-meta">
-          <span class="tech-news-emoji">📰</span>
-          <div class="tech-news-info">
-            <span class="tech-news-source">Geeky Gadgets</span>
-            <time class="tech-news-date" datetime="2025-12-19T12:00:59+00:00" data-utc="2025-12-19T12:00:59+00:00">
-              19.12.2025 12:00
-            </time>
-          </div>
-          <div class="importance-indicator importance-4">
-            
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star">☆</span>
-              
-            
-          </div>
-        </div>
-
-        
-        <div class="tech-news-image">
-          <img src="https://www.geeky-gadgets.com/wp-content/uploads/2025/12/mac-studio-2026-m5-ultra-performance_optimized.jpg" alt="Mac Studio 2026 od Apple: Očekávaná aktualizace desktopového počítače" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://www.geeky-gadgets.com/wp-content/uploads/2025/12/mac-studio-2026-m5-ultra-performance_optimized.jpg" onerror="handleImageError(this, '/tech-news/2025-12-19/apples-mac-studio-2026-the-desktop-revolution-youv/');" width="380" height="200">
-        </div>
-        
-
-        <div class="tech-news-content">
-          <h2 class="tech-news-title">
-            <a href="/tech-news/2025-12-19/apples-mac-studio-2026-the-desktop-revolution-youv/">Mac Studio 2026 od Apple: Očekávaná aktualizace desktopového počítače</a>
-          </h2>
-
-          <p class="tech-news-description">Vysoce očekávaný Mac Studio 2026 od Apple by měl být představen na WWDC 2026. Tato nová verze přináší čipy M5 Max a M5 Ultra s významnými zlepšeními v výkonu CPU i GPU.</p>
-
-          <div class="tech-news-actions">
-            <a href="/tech-news/2025-12-19/apples-mac-studio-2026-the-desktop-revolution-youv/" class="tech-news-link" target="_blank" rel="noopener">
-              Číst na Geeky Gadgets
-              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
-              </svg>
-            </a>
-            <span class="tech-news-category">hardware</span>
-          </div>
-
-          <!-- Firmy a osobnosti -->
-          
-          <div class="tech-news-entities">
-            
-            <div class="tech-news-companies">
-              <span class="entity-label">🏢</span>
-              
-                <span class="entity-tag company-tag">Apple</span>
-              
-            </div>
-            
-
-            
-          </div>
-          
-        </div>
-      </article>
-      
-      <article class="tech-news-card" data-category="polovodiče" data-importance="4">
-        <div class="tech-news-meta">
-          <span class="tech-news-emoji">📰</span>
-          <div class="tech-news-info">
-            <span class="tech-news-source">Wccftech</span>
-            <time class="tech-news-date" datetime="2025-12-19T11:48:41+00:00" data-utc="2025-12-19T11:48:41+00:00">
-              19.12.2025 11:48
-            </time>
-          </div>
-          <div class="importance-indicator importance-4">
-            
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star">☆</span>
-              
-            
-          </div>
-        </div>
-
-        
-        <div class="tech-news-image">
-          <img src="https://cdn.wccftech.com/wp-content/uploads/2025/04/TSMC.jpg" alt="Navzdory obrovským investicím TSMC USA nedostane nejpokročilejší čipy, což zpochybňuje snahy o odolný dodavatelský řetězec" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://cdn.wccftech.com/wp-content/uploads/2025/04/TSMC.jpg" onerror="handleImageError(this, '/tech-news/2025-12-19/despite-tsmcs-gigantic-investments-the-us-still-wo/');" width="380" height="200">
-        </div>
-        
-
-        <div class="tech-news-content">
-          <h2 class="tech-news-title">
-            <a href="/tech-news/2025-12-19/despite-tsmcs-gigantic-investments-the-us-still-wo/">Navzdory obrovským investicím TSMC USA nedostane nejpokročilejší čipy, což zpochybňuje snahy o odolný dodavatelský řetězec</a>
-          </h2>
-
-          <p class="tech-news-description">TSMC masivně investuje do závodů v USA, ale taiwanské zákony brání přenosu nejpokročilejších výrobních technologií. Podle pravidla 'N-2' budou americké továrny o dvě generace pozadu za tchajwanskými, což ohrožuje cíle USA na nezávislost v polovodičích.</p>
-
-          <div class="tech-news-actions">
-            <a href="/tech-news/2025-12-19/despite-tsmcs-gigantic-investments-the-us-still-wo/" class="tech-news-link" target="_blank" rel="noopener">
-              Číst na Wccftech
-              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
-              </svg>
-            </a>
-            <span class="tech-news-category">polovodiče</span>
-          </div>
-
-          <!-- Firmy a osobnosti -->
-          
-          <div class="tech-news-entities">
-            
-            <div class="tech-news-companies">
-              <span class="entity-label">🏢</span>
-              
-                <span class="entity-tag company-tag">TSMC</span>
-              
-            </div>
-            
-
-            
-          </div>
-          
-        </div>
-      </article>
-      
-      <article class="tech-news-card" data-category="umělá inteligence" data-importance="4">
-        <div class="tech-news-meta">
-          <span class="tech-news-emoji">📰</span>
-          <div class="tech-news-info">
-            <span class="tech-news-source">Niemanlab.org</span>
-            <time class="tech-news-date" datetime="2025-12-19T11:18:31+00:00" data-utc="2025-12-19T11:18:31+00:00">
-              19.12.2025 11:18
-            </time>
-          </div>
-          <div class="importance-indicator importance-4">
-            
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star">☆</span>
-              
-            
-          </div>
-        </div>
-
-        
-        <div class="tech-news-image">
-          <img src="https://www.niemanlab.org/images/annie-rudd-2025.jpg" alt="Redakce přijmou některé AI-generované obrázky" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://www.niemanlab.org/images/annie-rudd-2025.jpg" onerror="handleImageError(this, '/tech-news/2025-12-19/newsrooms-will-embrace-some-ai-generated-imagery/');" width="380" height="200">
-        </div>
-        
-
-        <div class="tech-news-content">
-          <h2 class="tech-news-title">
-            <a href="/tech-news/2025-12-19/newsrooms-will-embrace-some-ai-generated-imagery/">Redakce přijmou některé AI-generované obrázky</a>
-          </h2>
-
-          <p class="tech-news-description">V posledních týdnech roku 2025 se sociální sítě zaplavily diskuzemi o konci fotografické pravdy kvůli novému nástroji Google Nano Banana Pro (Gemini 3 Pro Image). Historik fotografie predikuje, že redakce v roce 2026 omezeně přijmou AI-generované obrázky v oblastech, kde není vyžadována přesná dokumentace událostí.</p>
-
-          <div class="tech-news-actions">
-            <a href="/tech-news/2025-12-19/newsrooms-will-embrace-some-ai-generated-imagery/" class="tech-news-link" target="_blank" rel="noopener">
-              Číst na Niemanlab.org
-              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
-              </svg>
-            </a>
-            <span class="tech-news-category">umělá inteligence</span>
-          </div>
-
-          <!-- Firmy a osobnosti -->
-          
-        </div>
-      </article>
-      
-      <article class="tech-news-card" data-category="ai" data-importance="4">
-        <div class="tech-news-meta">
-          <span class="tech-news-emoji">📰</span>
-          <div class="tech-news-info">
-            <span class="tech-news-source">Geeky Gadgets</span>
-            <time class="tech-news-date" datetime="2025-12-19T11:15:24+00:00" data-utc="2025-12-19T11:15:24+00:00">
-              19.12.2025 11:15
-            </time>
-          </div>
-          <div class="importance-indicator importance-4">
-            
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star">☆</span>
-              
-            
-          </div>
-        </div>
-
-        
-        <div class="tech-news-image">
-          <img src="https://www.geeky-gadgets.com/wp-content/uploads/2025/12/ai-tool-report-compare-gemini-chatgpt_optimized.jpg" alt="Aktualizace Gemini 3 pro hloubkový výzkum s vizuálními prvky je zavedena: Snadno vytváří vizuály" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://www.geeky-gadgets.com/wp-content/uploads/2025/12/ai-tool-report-compare-gemini-chatgpt_optimized.jpg" onerror="handleImageError(this, '/tech-news/2025-12-19/gemini-3-deep-research-visuals-update-rolls-out-ea/');" width="380" height="200">
-        </div>
-        
-
-        <div class="tech-news-content">
-          <h2 class="tech-news-title">
-            <a href="/tech-news/2025-12-19/gemini-3-deep-research-visuals-update-rolls-out-ea/">Aktualizace Gemini 3 pro hloubkový výzkum s vizuálními prvky je zavedena: Snadno vytváří vizuály</a>
-          </h2>
-
-          <p class="tech-news-description">Nejnovější aktualizace Gemini AI umožňuje rychlou transformaci složitých dat do vizuálně přehledných grafů a reportů. Tato funkce posiluje analýzu dat, ale je dostupná pouze v ultra plánu a postrádá některé pokročilé prvky jako interaktivní simulace.</p>
-
-          <div class="tech-news-actions">
-            <a href="/tech-news/2025-12-19/gemini-3-deep-research-visuals-update-rolls-out-ea/" class="tech-news-link" target="_blank" rel="noopener">
-              Číst na Geeky Gadgets
-              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
-              </svg>
-            </a>
-            <span class="tech-news-category">ai</span>
-          </div>
-
-          <!-- Firmy a osobnosti -->
-          
-        </div>
-      </article>
-      
-      <article class="tech-news-card" data-category="kybernetika" data-importance="4">
-        <div class="tech-news-meta">
-          <span class="tech-news-emoji">📰</span>
-          <div class="tech-news-info">
-            <span class="tech-news-source">Yahoo Entertainment</span>
-            <time class="tech-news-date" datetime="2025-12-19T11:05:43+00:00" data-utc="2025-12-19T11:05:43+00:00">
-              19.12.2025 11:05
-            </time>
-          </div>
-          <div class="importance-indicator importance-4">
-            
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star">☆</span>
-              
-            
-          </div>
-        </div>
-
-        
-        <div class="tech-news-image">
-          <img src="https://media.zenfs.com/en/reuters.com/b8acb86127ebba5617fe16fa8ce2f930" alt="Ruská obranná firmy v cívi hackerů využívajících AI a další taktiky" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://media.zenfs.com/en/reuters.com/b8acb86127ebba5617fe16fa8ce2f930" onerror="handleImageError(this, '/tech-news/2025-12-19/russian-defense-firms-targeted-by-hackers-using-ai/');" width="380" height="200">
-        </div>
-        
-
-        <div class="tech-news-content">
-          <h2 class="tech-news-title">
-            <a href="/tech-news/2025-12-19/russian-defense-firms-targeted-by-hackers-using-ai/">Ruská obranná firmy v cívi hackerů využívajících AI a další taktiky</a>
-          </h2>
-
-          <p class="tech-news-description">Ruské technologické společnosti zabývající se protivzdušnou obranou, citlivou elektronikou a dalšími obrannými aplikacemi byly v posledních týdnech cílem kyberespionážní skupiny, která použila AI-generované návnadné dokumenty. Objev firmy Intezer ukazuje, jak snadno lze AI nástroje zapojit do vysoce rizikových operací.</p>
-
-          <div class="tech-news-actions">
-            <a href="/tech-news/2025-12-19/russian-defense-firms-targeted-by-hackers-using-ai/" class="tech-news-link" target="_blank" rel="noopener">
-              Číst na Yahoo Entertainment
-              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
-              </svg>
-            </a>
-            <span class="tech-news-category">kybernetika</span>
-          </div>
-
-          <!-- Firmy a osobnosti -->
-          
-        </div>
-      </article>
-      
-      <article class="tech-news-card" data-category="ai" data-importance="4">
-        <div class="tech-news-meta">
-          <span class="tech-news-emoji">📰</span>
-          <div class="tech-news-info">
-            <span class="tech-news-source">Digitimes</span>
-            <time class="tech-news-date" datetime="2025-12-19T07:52:54+00:00" data-utc="2025-12-19T07:52:54+00:00">
-              19.12.2025 07:52
-            </time>
-          </div>
-          <div class="importance-indicator importance-4">
-            
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star">☆</span>
-              
-            
-          </div>
-        </div>
-
-        
-        <div class="tech-news-image">
-          <img src="https://img.digitimes.com/newsshow/20251219vl212_files/2_2b.jpg" alt="USA zkoumají export čipů Nvidia H200 do Číny kvůli rostoucím rizikům" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://img.digitimes.com/newsshow/20251219vl212_files/2_2b.jpg" onerror="handleImageError(this, '/tech-news/2025-12-19/us-scrutinizes-nvidia-h200-chip-exports-to-china-a/');" width="380" height="200">
-        </div>
-        
-
-        <div class="tech-news-content">
-          <h2 class="tech-news-title">
-            <a href="/tech-news/2025-12-19/us-scrutinizes-nvidia-h200-chip-exports-to-china-a/">USA zkoumají export čipů Nvidia H200 do Číny kvůli rostoucím rizikům</a>
-          </h2>
-
-          <p class="tech-news-description">Administrativa Donalda Trumpa zahájila mezirezortní přezkoumání k určení, zda povolit první exporty čipů Nvidia H200 pro umělou inteligenci do Číny. Podle agentury Reuters by tento krok mohl představovat významný posun v americké exportní politice technologií.</p>
-
-          <div class="tech-news-actions">
-            <a href="/tech-news/2025-12-19/us-scrutinizes-nvidia-h200-chip-exports-to-china-a/" class="tech-news-link" target="_blank" rel="noopener">
-              Číst na Digitimes
-              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
-              </svg>
-            </a>
-            <span class="tech-news-category">ai</span>
-          </div>
-
-          <!-- Firmy a osobnosti -->
-          
-          <div class="tech-news-entities">
-            
-            <div class="tech-news-companies">
-              <span class="entity-label">🏢</span>
-              
-                <span class="entity-tag company-tag">Nvidia</span>
-              
-            </div>
-            
-
-            
-          </div>
-          
-        </div>
-      </article>
-      
-      <article class="tech-news-card" data-category="sociální sítě" data-importance="4">
-        <div class="tech-news-meta">
-          <span class="tech-news-emoji">📰</span>
-          <div class="tech-news-info">
-            <span class="tech-news-source">The Punch</span>
-            <time class="tech-news-date" datetime="2025-12-19T07:36:56+00:00" data-utc="2025-12-19T07:36:56+00:00">
-              19.12.2025 07:36
-            </time>
-          </div>
-          <div class="importance-indicator importance-4">
-            
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star">☆</span>
-              
-            
-          </div>
-        </div>
-
-        
-        <div class="tech-news-image">
-          <img src="https://cdn.punchng.com/wp-content/uploads/2024/04/26151258/Tiktok.jpg" alt="TikTok uzavírá dohodu o společném podniku v USA k odvrácení zákazu" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://cdn.punchng.com/wp-content/uploads/2024/04/26151258/Tiktok.jpg" onerror="handleImageError(this, '/tech-news/2025-12-19/tiktok-strikes-us-joint-venture-deal-to-avoid-ban/');" width="380" height="200">
-        </div>
-        
-
-        <div class="tech-news-content">
-          <h2 class="tech-news-title">
-            <a href="/tech-news/2025-12-19/tiktok-strikes-us-joint-venture-deal-to-avoid-ban/">TikTok uzavírá dohodu o společném podniku v USA k odvrácení zákazu</a>
-          </h2>
-
-          <p class="tech-news-description">TikTok potvrdil dohodu s americkými investory včetně Oracle na vytvoření společného podniku, což mu umožní pokračovat v provozu a vyhnout se hrozícímu zákazu v USA.</p>
-
-          <div class="tech-news-actions">
-            <a href="/tech-news/2025-12-19/tiktok-strikes-us-joint-venture-deal-to-avoid-ban/" class="tech-news-link" target="_blank" rel="noopener">
-              Číst na The Punch
-              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
-              </svg>
-            </a>
-            <span class="tech-news-category">sociální sítě</span>
-          </div>
-
-          <!-- Firmy a osobnosti -->
-          
-          <div class="tech-news-entities">
-            
-            <div class="tech-news-companies">
-              <span class="entity-label">🏢</span>
-              
-                <span class="entity-tag company-tag">TikTok</span>
-              
-                <span class="entity-tag company-tag">Oracle</span>
-              
-            </div>
-            
-
-            
-          </div>
-          
-        </div>
-      </article>
-      
-      <article class="tech-news-card" data-category="ai" data-importance="4">
-        <div class="tech-news-meta">
-          <span class="tech-news-emoji">📰</span>
-          <div class="tech-news-info">
-            <span class="tech-news-source">Business Insider</span>
-            <time class="tech-news-date" datetime="2025-12-19T04:04:56+00:00" data-utc="2025-12-19T04:04:56+00:00">
-              19.12.2025 04:04
-            </time>
-          </div>
-          <div class="importance-indicator importance-4">
-            
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star">☆</span>
-              
-            
-          </div>
-        </div>
-
-        
-        <div class="tech-news-image">
-          <img src="https://i.insider.com/6944c3a864858d02d2171d56?width=1200&format=jpeg" alt="Sam Altman: OpenAI bylo několikrát v režimu 'code red' kvůli konkurenci v AI – a udělají to znovu" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://i.insider.com/6944c3a864858d02d2171d56?width=1200&format=jpeg" onerror="handleImageError(this, '/tech-news/2025-12-19/sam-altman-says-openai-has-gone-code-red-multiple/');" width="380" height="200">
-        </div>
-        
-
-        <div class="tech-news-content">
-          <h2 class="tech-news-title">
-            <a href="/tech-news/2025-12-19/sam-altman-says-openai-has-gone-code-red-multiple-/">Sam Altman: OpenAI bylo několikrát v režimu 'code red' kvůli konkurenci v AI – a udělají to znovu</a>
-          </h2>
-
-          <p class="tech-news-description">Sam Altman uvedl, že OpenAI několikrát aktivovalo nouzový režim 'code red' v reakci na konkurenční hrozby v oblasti umělé inteligence a je připraveno to opakovat.</p>
-
-          <div class="tech-news-actions">
-            <a href="/tech-news/2025-12-19/sam-altman-says-openai-has-gone-code-red-multiple/" class="tech-news-link" target="_blank" rel="noopener">
-              Číst na Business Insider
-              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
-              </svg>
-            </a>
-            <span class="tech-news-category">ai</span>
-          </div>
-
-          <!-- Firmy a osobnosti -->
-          
-          <div class="tech-news-entities">
-            
-            <div class="tech-news-companies">
-              <span class="entity-label">🏢</span>
-              
-                <span class="entity-tag company-tag">OpenAI</span>
-              
-            </div>
-            
-
-            
-            <div class="tech-news-people">
-              <span class="entity-label">👤</span>
-              
-                <span class="entity-tag person-tag">Sam Altman</span>
-              
-            </div>
-            
-          </div>
-          
-        </div>
-      </article>
-      
-      <article class="tech-news-card" data-category="ai marketing" data-importance="4">
-        <div class="tech-news-meta">
-          <span class="tech-news-emoji">📰</span>
-          <div class="tech-news-info">
-            <span class="tech-news-source">Vantagepoint.io</span>
-            <time class="tech-news-date" datetime="2025-12-19T03:38:41+00:00" data-utc="2025-12-19T03:38:41+00:00">
-              19.12.2025 03:38
-            </time>
-          </div>
-          <div class="importance-indicator importance-4">
-            
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star">☆</span>
-              
-            
-          </div>
-        </div>
-
-        
-        <div class="tech-news-image">
-          <img src="https://vantagepoint.io/hubfs/AI-Generated%20Media/Images/Salesforce%20Acquires%20Qualified%20What%20This%20163MFunded%20AI%20Marketing%20Leader%20Means%20for%20the%20Future%20of%20B2B%20Sales-1.png" alt="Salesforce přebírá Qualified: Co znamená tento AI marketingový lídr s financováním 163 milionů dolarů pro budoucnost B2B prodejů" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://vantagepoint.io/hubfs/AI-Generated%20Media/Images/Salesforce%20Acquires%20Qualified%20What%20This%20163MFunded%20AI%20Marketing%20Leader%20Means%20for%20the%20Future%20of%20B2B%20Sales-1.png" onerror="handleImageError(this, '/tech-news/2025-12-19/salesforce-acquires-qualified-what-this-163m-funde/');" width="380" height="200">
-        </div>
-        
-
-        <div class="tech-news-content">
-          <h2 class="tech-news-title">
-            <a href="/tech-news/2025-12-19/salesforce-acquires-qualified-what-this-163m-funde/">Salesforce přebírá Qualified: Co znamená tento AI marketingový lídr s financováním 163 milionů dolarů pro budoucnost B2B prodejů</a>
-          </h2>
-
-          <p class="tech-news-description">Salesforce oznámil akvizici společnosti Qualified, specialisty na agentické AI řešení pro marketing a rozvoj prodejů. Tento krok urychlí vývoj autonomních AI agentů pro generování prodejního pipeline v prostředí B2B firem.</p>
-
-          <div class="tech-news-actions">
-            <a href="/tech-news/2025-12-19/salesforce-acquires-qualified-what-this-163m-funde/" class="tech-news-link" target="_blank" rel="noopener">
-              Číst na Vantagepoint.io
-              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
-              </svg>
-            </a>
-            <span class="tech-news-category">ai marketing</span>
-          </div>
-
-          <!-- Firmy a osobnosti -->
-          
-          <div class="tech-news-entities">
-            
-            <div class="tech-news-companies">
-              <span class="entity-label">🏢</span>
-              
-                <span class="entity-tag company-tag">Salesforce</span>
-              
-                <span class="entity-tag company-tag">Qualified</span>
-              
-            </div>
-            
-
-            
-          </div>
-          
-        </div>
-      </article>
-      
-      <article class="tech-news-card" data-category="kyberzločinnost" data-importance="4">
-        <div class="tech-news-meta">
-          <span class="tech-news-emoji">📰</span>
-          <div class="tech-news-info">
-            <span class="tech-news-source">Nextbigwhat.com</span>
-            <time class="tech-news-date" datetime="2025-12-19T02:27:14+00:00" data-utc="2025-12-19T02:27:14+00:00">
-              19.12.2025 02:27
-            </time>
-          </div>
-          <div class="importance-indicator importance-4">
-            
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star">☆</span>
-              
-            
-          </div>
-        </div>
-
-        
-        <div class="tech-news-image">
-          <img src="https://i0.wp.com/nextbigwhat.com/wp-content/uploads/2023/03/nextbigwhat-social-media-logo.jpg?fit=1080%2C1080&ssl=1" alt="Aplikace pro výměnu obličejů s AI spojená s nárůstem romantických podvodů" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://i0.wp.com/nextbigwhat.com/wp-content/uploads/2023/03/nextbigwhat-social-media-logo.jpg?fit=1080%2C1080&ssl=1" onerror="handleImageError(this, '/tech-news/2025-12-19/ai-face-swapping-app-linked-to-surge-in-romance-sc/');" width="380" height="200">
-        </div>
-        
-
-        <div class="tech-news-content">
-          <h2 class="tech-news-title">
-            <a href="/tech-news/2025-12-19/ai-face-swapping-app-linked-to-surge-in-romance-sc/">Aplikace pro výměnu obličejů s AI spojená s nárůstem romantických podvodů</a>
-          </h2>
-
-          <p class="tech-news-description">Platforma Haotian umožňuje téměř dokonalou výměnu obličejů v živých video hovorech převážně přes Telegram a údajně vydělala miliony. Její hlavní kanál zmizel po dotazu redakce WIRED kvůli zneužívání podvodníky v romantických podvodech.</p>
-
-          <div class="tech-news-actions">
-            <a href="/tech-news/2025-12-19/ai-face-swapping-app-linked-to-surge-in-romance-sc/" class="tech-news-link" target="_blank" rel="noopener">
-              Číst na Nextbigwhat.com
-              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
-              </svg>
-            </a>
-            <span class="tech-news-category">kyberzločinnost</span>
-          </div>
-
-          <!-- Firmy a osobnosti -->
-          
-          <div class="tech-news-entities">
-            
-            <div class="tech-news-companies">
-              <span class="entity-label">🏢</span>
-              
-                <span class="entity-tag company-tag">Telegram</span>
-              
-            </div>
-            
-
-            
-          </div>
-          
-        </div>
-      </article>
-      
-      <article class="tech-news-card" data-category="ai čipy" data-importance="4">
-        <div class="tech-news-meta">
-          <span class="tech-news-emoji">📰</span>
-          <div class="tech-news-info">
-            <span class="tech-news-source">CNBC</span>
-            <time class="tech-news-date" datetime="2025-12-19T02:07:01+00:00" data-utc="2025-12-19T02:07:01+00:00">
-              19.12.2025 02:07
-            </time>
-          </div>
-          <div class="importance-indicator importance-4">
-            
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star">☆</span>
-              
-            
-          </div>
-        </div>
-
-        
-        <div class="tech-news-image">
-          <img src="https://image.cnbcfm.com/api/v1/image/108180927-1754288633016-gettyimages-2227849607-vcg111562335270.jpeg?v=1766109696&w=1920&h=1080" alt="USA spouští revizi prodeje pokročilých AI čipů Nvidia do Číny: Reuters" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://image.cnbcfm.com/api/v1/image/108180927-1754288633016-gettyimages-2227849607-vcg111562335270.jpeg?v=1766109696&w=1920&h=1080" onerror="handleImageError(this, '/tech-news/2025-12-19/us-launches-review-of-advanced-nvidia-ai-chip-sale/');" width="380" height="200">
-        </div>
-        
-
-        <div class="tech-news-content">
-          <h2 class="tech-news-title">
-            <a href="/tech-news/2025-12-19/us-launches-review-of-advanced-nvidia-ai-chip-sale/">USA spouští revizi prodeje pokročilých AI čipů Nvidia do Číny: Reuters</a>
-          </h2>
-
-          <p class="tech-news-description">Administrativa prezidenta Trumpa zahájila mezirezortní revizi licencí pro prodej druhých nejvýkonnějších AI čipů Nvidia do Číny. Trump slíbil umožnit dodávky čipů H200 s 25procentním poplatkem pro vládu USA, což má podpořit americké firmy v soutěži s čínskými výrobci.</p>
-
-          <div class="tech-news-actions">
-            <a href="/tech-news/2025-12-19/us-launches-review-of-advanced-nvidia-ai-chip-sale/" class="tech-news-link" target="_blank" rel="noopener">
-              Číst na CNBC
-              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
-              </svg>
-            </a>
-            <span class="tech-news-category">ai čipy</span>
-          </div>
-
-          <!-- Firmy a osobnosti -->
-          
-          <div class="tech-news-entities">
-            
-            <div class="tech-news-companies">
-              <span class="entity-label">🏢</span>
-              
-                <span class="entity-tag company-tag">Nvidia</span>
-              
-            </div>
-            
-
-            
-            <div class="tech-news-people">
-              <span class="entity-label">👤</span>
-              
-                <span class="entity-tag person-tag">Trump</span>
-              
-            </div>
-            
-          </div>
-          
-        </div>
-      </article>
-      
-      <article class="tech-news-card" data-category="ai startupy" data-importance="4">
-        <div class="tech-news-meta">
-          <span class="tech-news-emoji">📰</span>
-          <div class="tech-news-info">
-            <span class="tech-news-source">SiliconANGLE News</span>
-            <time class="tech-news-date" datetime="2025-12-19T01:49:39+00:00" data-utc="2025-12-19T01:49:39+00:00">
-              19.12.2025 01:49
-            </time>
-          </div>
-          <div class="importance-indicator importance-4">
-            
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star">☆</span>
-              
-            
-          </div>
-        </div>
-
-        
-        <div class="tech-news-image">
-          <img src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Screenshot-from-2025-12-19-08-47-35.png" alt="Startup Neural Concept s AI pro návrh získal 100 milionů dolarů na urychlení inženýrského vývoje produktů" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Screenshot-from-2025-12-19-08-47-35.png" onerror="handleImageError(this, '/tech-news/2025-12-19/ai-aided-design-software-startup-neural-concept-ra/');" width="380" height="200">
-        </div>
-        
-
-        <div class="tech-news-content">
-          <h2 class="tech-news-title">
-            <a href="/tech-news/2025-12-19/ai-aided-design-software-startup-neural-concept-ra/">Startup Neural Concept s AI pro návrh získal 100 milionů dolarů na urychlení inženýrského vývoje produktů</a>
-          </h2>
-
-          <p class="tech-news-description">Švýcarský startup Neural Concept SA získal 100 milionů dolarů v investičním kole série C na přepracování návrhu a inženýrství produktů pomocí nástrojů pro počítačově podporovaný návrh. Kolo vedla Growth Equity od Goldman Sachs Alternatives s účastí investorů jako Forestay Capital, Alven, HTGF, D.E. Shaw Ventures a Aster Capital.</p>
-
-          <div class="tech-news-actions">
-            <a href="/tech-news/2025-12-19/ai-aided-design-software-startup-neural-concept-ra/" class="tech-news-link" target="_blank" rel="noopener">
-              Číst na SiliconANGLE News
-              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
-              </svg>
-            </a>
-            <span class="tech-news-category">ai startupy</span>
-          </div>
-
-          <!-- Firmy a osobnosti -->
-          
-          <div class="tech-news-entities">
-            
-            <div class="tech-news-companies">
-              <span class="entity-label">🏢</span>
-              
-                <span class="entity-tag company-tag">Neural Concept SA</span>
-              
-            </div>
-            
-
-            
-          </div>
-          
-        </div>
-      </article>
-      
-      <article class="tech-news-card" data-category="umělá inteligence" data-importance="4">
-        <div class="tech-news-meta">
-          <span class="tech-news-emoji">📰</span>
-          <div class="tech-news-info">
-            <span class="tech-news-source">pymnts.com</span>
-            <time class="tech-news-date" datetime="2025-12-19T01:32:03+00:00" data-utc="2025-12-19T01:32:03+00:00">
-              19.12.2025 01:32
-            </time>
-          </div>
-          <div class="importance-indicator importance-4">
-            
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star">☆</span>
-              
-            
-          </div>
-        </div>
-
-        
-        <div class="tech-news-image">
-          <img src="https://www.pymnts.com/wp-content/uploads/2025/12/White-House-AI1.jpg" alt="24 společností se připojuje k americké Genesis Mission pro využití AI ve vědě" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://www.pymnts.com/wp-content/uploads/2025/12/White-House-AI1.jpg" onerror="handleImageError(this, '/tech-news/2025-12-19/a-24-companies-join-us-genesis-mission-to-harness/');" width="380" height="200">
-        </div>
-        
-
-        <div class="tech-news-content">
-          <h2 class="tech-news-title">
-            <a href="/tech-news/2025-12-19/A-24-companies-join-us-genesis-mission-to-harness-/">24 společností se připojuje k americké Genesis Mission pro využití AI ve vědě</a>
-          </h2>
-
-          <p class="tech-news-description">Dvacet čtyři organizací vyjádřilo zájem nebo se zapojilo do Genesis Mission, národní iniciativy Bílého domu, která má prostřednictvím umělé inteligence urychlit pokroky ve vědě, energetice a národní bezpečnosti. Mezi účastníky jsou klíčoví hráči jako Anthropic, Amazon Web Services, Google, Microsoft, Nvidia, OpenAI a xAI.</p>
-
-          <div class="tech-news-actions">
-            <a href="/tech-news/2025-12-19/a-24-companies-join-us-genesis-mission-to-harness/" class="tech-news-link" target="_blank" rel="noopener">
-              Číst na pymnts.com
-              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
-              </svg>
-            </a>
-            <span class="tech-news-category">umělá inteligence</span>
-          </div>
-
-          <!-- Firmy a osobnosti -->
-          
-        </div>
-      </article>
-      
-      <article class="tech-news-card" data-category="programování" data-importance="4">
-        <div class="tech-news-meta">
-          <span class="tech-news-emoji">📰</span>
-          <div class="tech-news-info">
-            <span class="tech-news-source">SiliconANGLE News</span>
-            <time class="tech-news-date" datetime="2025-12-19T01:15:10+00:00" data-utc="2025-12-19T01:15:10+00:00">
-              19.12.2025 01:15
-            </time>
-          </div>
-          <div class="importance-indicator importance-4">
-            
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star">☆</span>
-              
-            
-          </div>
-        </div>
-
-        
-        <div class="tech-news-image">
-          <img src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/OpenAI-1.png" alt="GPT-5.2-Codex od OpenAI posouvá inženýrství softwaru lepším uvažováním a porozuměním kontextu" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/OpenAI-1.png" onerror="handleImageError(this, '/tech-news/2025-12-19/openais-gpt-52-codex-advances-software-engineering/');" width="380" height="200">
-        </div>
-        
-
-        <div class="tech-news-content">
-          <h2 class="tech-news-title">
-            <a href="/tech-news/2025-12-19/openais-gpt-52-codex-advances-software-engineering/">GPT-5.2-Codex od OpenAI posouvá inženýrství softwaru lepším uvažováním a porozuměním kontextu</a>
-          </h2>
-
-          <p class="tech-news-description">OpenAI Group PBC vydalo GPT-5.2-Codex, novou verzi agentického modelu umělé inteligence pro kódování, který automatizuje složité úkoly inženýrství softwaru. Model navazuje na GPT-5.2 a přináší zlepšení v kompresi kontextu, refaktoringu kódu, výkonu ve Windows a kyberbezpečnosti.</p>
-
-          <div class="tech-news-actions">
-            <a href="/tech-news/2025-12-19/openais-gpt-52-codex-advances-software-engineering/" class="tech-news-link" target="_blank" rel="noopener">
-              Číst na SiliconANGLE News
-              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
-              </svg>
-            </a>
-            <span class="tech-news-category">programování</span>
-          </div>
-
-          <!-- Firmy a osobnosti -->
-          
-          <div class="tech-news-entities">
-            
-            <div class="tech-news-companies">
-              <span class="entity-label">🏢</span>
-              
-                <span class="entity-tag company-tag">OpenAI</span>
-              
-            </div>
-            
-
-            
-          </div>
-          
-        </div>
-      </article>
-      
-      <article class="tech-news-card" data-category="iphone" data-importance="4">
-        <div class="tech-news-meta">
-          <span class="tech-news-emoji">📰</span>
-          <div class="tech-news-info">
-            <span class="tech-news-source">ZDNet</span>
-            <time class="tech-news-date" datetime="2025-12-19T00:30:42+00:00" data-utc="2025-12-19T00:30:42+00:00">
-              19.12.2025 00:30
-            </time>
-          </div>
-          <div class="importance-indicator importance-4">
-            
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star">☆</span>
-              
-            
-          </div>
-        </div>
-
-        
-        <div class="tech-news-image">
-          <img src="https://www.zdnet.com/a/img/resize/e3ff2bfb271200294b93321bd57e1d9501efe4af/2025/12/17/9a41ba47-e780-41cb-afcc-d621c3c01246/iphone17-1.jpg?auto=webp&fit=crop&height=675&width=1200" alt="Poprvé jsem porušil své pravidlo upgradu iPhonu a ukázalo se, že to bylo požehnání" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://www.zdnet.com/a/img/resize/e3ff2bfb271200294b93321bd57e1d9501efe4af/2025/12/17/9a41ba47-e780-41cb-afcc-d621c3c01246/iphone17-1.jpg?auto=webp&fit=crop&height=675&width=1200" onerror="handleImageError(this, '/tech-news/2025-12-19/i-broke-my-iphone-upgrade-rule-for-the-first-time/');" width="380" height="200">
-        </div>
-        
-
-        <div class="tech-news-content">
-          <h2 class="tech-news-title">
-            <a href="/tech-news/2025-12-19/i-broke-my-iphone-upgrade-rule-for-the-first-time-/">Poprvé jsem porušil své pravidlo upgradu iPhonu a ukázalo se, že to bylo požehnání</a>
-          </h2>
-
-          <p class="tech-news-description">iPhone 17 se může zdát stejný jako předchozí model, ale obsahuje některé nejlepší funkce z Pro modelů, což autora přesvědčilo k jeho koupi.</p>
-
-          <div class="tech-news-actions">
-            <a href="/tech-news/2025-12-19/i-broke-my-iphone-upgrade-rule-for-the-first-time/" class="tech-news-link" target="_blank" rel="noopener">
-              Číst na ZDNet
-              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
-              </svg>
-            </a>
-            <span class="tech-news-category">iphone</span>
-          </div>
-
-          <!-- Firmy a osobnosti -->
-          
-        </div>
-      </article>
-      
-      <article class="tech-news-card" data-category="kryptoměny" data-importance="4">
-        <div class="tech-news-meta">
-          <span class="tech-news-emoji">📰</span>
-          <div class="tech-news-info">
-            <span class="tech-news-source">Decrypt</span>
-            <time class="tech-news-date" datetime="2025-12-19T00:05:19+00:00" data-utc="2025-12-19T00:05:19+00:00">
-              19.12.2025 00:05
-            </time>
-          </div>
-          <div class="importance-indicator importance-4">
-            
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star">☆</span>
-              
-            
-          </div>
-        </div>
-
-        
-        <div class="tech-news-image">
-          <img src="https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/10/google-quantum-decrypt-style-01-2-gID_7.jpg" alt="Solana a Aptos posilují blockchany proti budoucím kvantovým útokům" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/10/google-quantum-decrypt-style-01-2-gID_7.jpg" onerror="handleImageError(this, '/tech-news/2025-12-19/solana-aptos-move-to-harden-blockchains-against-fu/');" width="380" height="200">
-        </div>
-        
-
-        <div class="tech-news-content">
-          <h2 class="tech-news-title">
-            <a href="/tech-news/2025-12-19/solana-aptos-move-to-harden-blockchains-against-fu/">Solana a Aptos posilují blockchany proti budoucím kvantovým útokům</a>
-          </h2>
-
-          <p class="tech-news-description">Vývojáři těchto blockchainových platforem začali testovat novou kryptografii, která má chránit transakce a peněženky před paděláním v době, kdy kvantové počítače představují rostoucí hrozbu.</p>
-
-          <div class="tech-news-actions">
-            <a href="/tech-news/2025-12-19/solana-aptos-move-to-harden-blockchains-against-fu/" class="tech-news-link" target="_blank" rel="noopener">
-              Číst na Decrypt
-              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
-              </svg>
-            </a>
-            <span class="tech-news-category">kryptoměny</span>
-          </div>
-
-          <!-- Firmy a osobnosti -->
-          
-          <div class="tech-news-entities">
-            
-            <div class="tech-news-companies">
-              <span class="entity-label">🏢</span>
-              
-                <span class="entity-tag company-tag">Solana</span>
-              
-                <span class="entity-tag company-tag">Aptos</span>
-              
-            </div>
-            
-
-            
-          </div>
-          
-        </div>
-      </article>
-      
-      <article class="tech-news-card" data-category="umělá inteligence" data-importance="4">
-        <div class="tech-news-meta">
-          <span class="tech-news-emoji">📰</span>
-          <div class="tech-news-info">
-            <span class="tech-news-source">Nature.com</span>
-            <time class="tech-news-date" datetime="2025-12-19T00:00:00+00:00" data-utc="2025-12-19T00:00:00+00:00">
-              19.12.2025 00:00
-            </time>
-          </div>
-          <div class="importance-indicator importance-4">
-            
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star filled">★</span>
-              
-            
-              
-                <span class="star">☆</span>
-              
-            
-          </div>
-        </div>
-
-        
-        <div class="tech-news-image">
-          <img src="https://media.nature.com/lw1200/magazine-assets/d41586-025-04108-y/d41586-025-04108-y_51840178.jpg" alt="Umělá inteligence a kvantová věda v centru pozornosti za Trumpa – ale bez významného nového financování" loading="lazy" decoding="async" crossorigin="anonymous" referrerpolicy="no-referrer" data-backup="https://media.nature.com/lw1200/magazine-assets/d41586-025-04108-y/d41586-025-04108-y_51840178.jpg" onerror="handleImageError(this, '/tech-news/2025-12-19/ai-and-quantum-science-take-centre-stage-under-tru/');" width="380" height="200">
-        </div>
-        
-
-        <div class="tech-news-content">
-          <h2 class="tech-news-title">
-            <a href="/tech-news/2025-12-19/ai-and-quantum-science-take-centre-stage-under-tru/">Umělá inteligence a kvantová věda v centru pozornosti za Trumpa – ale bez významného nového financování</a>
-          </h2>
-
-          <p class="tech-news-description">Americká administrativa spoléhá na veřejně-soukromé partnerství a rozšířenou pracovní sílu pro pokrok v AI a kvantové vědě, kritici však varují, že tuto strategii mohou oslabit jiné politiky USA.</p>
-
-          <div class="tech-news-actions">
-            <a href="/tech-news/2025-12-19/ai-and-quantum-science-take-centre-stage-under-tru/" class="tech-news-link" target="_blank" rel="noopener">
-              Číst na Nature.com
-              <svg class="external-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
-              </svg>
-            </a>
-            <span class="tech-news-category">umělá inteligence</span>
-          </div>
-
-          <!-- Firmy a osobnosti -->
-          
-          <div class="tech-news-entities">
-            
-
-            
-            <div class="tech-news-people">
-              <span class="entity-label">👤</span>
-              
-                <span class="entity-tag person-tag">Trump</span>
-              
-            </div>
-            
-          </div>
-          
-        </div>
-      </article>
-      
     </div>
   </div>
 
+  
+  <div class="tech-news-empty">
+    <p>🔍 Žádné zprávy pro tento den nebyly nalezeny.</p>
+  </div>
   
 </div>
 

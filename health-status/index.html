@@ -103,79 +103,306 @@
     <meta name="apple-mobile-web-app-title" content="Marigold">
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 
-    <!-- OneSignal Web Push Notifications -->
-<script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
-<script>
-  console.log('[OneSignal] Script starting...');
+    <!-- Firebase Cloud Messaging for Marigold.cz -->
+<script type="module">
+  // Firebase imports
+  import { initializeApp } from 'https://www.gstatic.com/firebasejs/10.7.0/firebase-app.js';
+  import { getMessaging, getToken, onMessage } from 'https://www.gstatic.com/firebasejs/10.7.0/firebase-messaging.js';
 
-  window.OneSignalDeferred = window.OneSignalDeferred || [];
+  // Firebase configuration
+  const firebaseConfig = {
+    apiKey: "AIzaSyDb03VE1UNGcOeukc2yn1wGRnaOrL-i5uo",
+    authDomain: "marigold-web.firebaseapp.com",
+    projectId: "marigold-web",
+    storageBucket: "marigold-web.firebasestorage.app",
+    messagingSenderId: "776408181252",
+    appId: "1:776408181252:web:912de8993063dfdae5e351"
+  };
 
-  OneSignalDeferred.push(async function(OneSignal) {
+  // VAPID key for web push
+  const VAPID_KEY = 'BGQuxMJIhSz2AvLVgm1PhbwkYmA7tBXs1ko__r8xQGlW13rgNBw1g4D3VeZ9IYwxDp0Bpc8wudpz5CVFyA-BBjs';
+
+  // Topic for Marigold notifications
+  const TOPIC = 'marigold-news';
+
+  // Cloud Function URL for subscription - TODO: Update after deployment
+  const SUBSCRIBE_URL = 'https://europe-west1-marigold-web.cloudfunctions.net/subscribeToTopic';
+
+  console.log('[FCM] Initializing Firebase for Marigold.cz...');
+
+  // Initialize Firebase
+  const app = initializeApp(firebaseConfig);
+  const messaging = getMessaging(app);
+
+  // Track page visits for delayed prompt
+  const VISIT_KEY = 'fcm_marigold_visits';
+  const visits = parseInt(localStorage.getItem(VISIT_KEY) || '0', 10) + 1;
+  localStorage.setItem(VISIT_KEY, visits.toString());
+  console.log('[FCM] Page visit count:', visits);
+
+  // Check if already subscribed
+  const isSubscribed = localStorage.getItem('fcm_marigold_subscribed') === 'true';
+
+  // Show subscribe prompt on 3rd visit if not subscribed
+  if (visits === 3 && !isSubscribed && Notification.permission === 'default') {
+    setTimeout(() => {
+      showSubscribePrompt();
+    }, 3000); // Wait 3 seconds after page load
+  }
+
+  // Create and show subscribe prompt
+  function showSubscribePrompt() {
+    // Check if prompt already exists
+    if (document.getElementById('fcm-subscribe-prompt')) return;
+
+    const prompt = document.createElement('div');
+    prompt.id = 'fcm-subscribe-prompt';
+    prompt.innerHTML = `
+      <div style="
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        max-width: 320px;
+        background: #fff;
+        border-radius: 12px;
+        box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+        padding: 20px;
+        z-index: 10000;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      ">
+        <button id="fcm-close" style="
+          position: absolute;
+          top: 10px;
+          right: 10px;
+          background: none;
+          border: none;
+          font-size: 20px;
+          cursor: pointer;
+          color: #999;
+        ">&times;</button>
+        <h3 style="margin: 0 0 10px 0; font-size: 16px; color: #333;">
+          Chcete dostávat oznámení o nových článcích?
+        </h3>
+        <p style="margin: 0 0 15px 0; font-size: 14px; color: #666;">
+          Budeme vás informovat o nových článcích a zajímavostech.
+        </p>
+        <div style="display: flex; gap: 10px;">
+          <button id="fcm-subscribe" style="
+            flex: 1;
+            padding: 10px 15px;
+            background: #007bff;
+            color: white;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 14px;
+          ">Ano, přihlásit</button>
+          <button id="fcm-decline" style="
+            padding: 10px 15px;
+            background: #f0f0f0;
+            color: #666;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 14px;
+          ">Ne, děkuji</button>
+        </div>
+      </div>
+    `;
+
+    document.body.appendChild(prompt);
+
+    // Event listeners
+    document.getElementById('fcm-subscribe').addEventListener('click', async () => {
+      prompt.remove();
+      await subscribeToNotifications();
+    });
+
+    document.getElementById('fcm-decline').addEventListener('click', () => {
+      prompt.remove();
+      localStorage.setItem(VISIT_KEY, '0'); // Reset counter
+    });
+
+    document.getElementById('fcm-close').addEventListener('click', () => {
+      prompt.remove();
+    });
+  }
+
+  // Subscribe to push notifications
+  async function subscribeToNotifications() {
     try {
-      console.log('[OneSignal] Initializing OneSignal SDK');
+      console.log('[FCM] Requesting notification permission...');
 
-      // Initialize OneSignal with minimal config
-      const config = {
-        appId: "00fc3def-70d1-4e7d-a081-984d5e738a75",
-        notifyButton: {
-          enable: true,
-          position: "bottom-right",
-          size: "medium",
-          text: {
-            "button.subscribe": "Přihlásit se k oznámením",
-            "button.unsubscribe": "Odhlásit se od oznámení",
-          },
-        },
-        // iOS Web Push support - requires manifest.json and home screen installation
-        allowLocalhostAsSecureOrigin: true,
-        // Safari Web Push configuration
-        safari: {
-          enable: true
-        }
-      };
+      const permission = await Notification.requestPermission();
+      console.log('[FCM] Permission:', permission);
 
-      await OneSignal.init(config);
-      console.log('[OneSignal] Initialization complete');
-
-      // Show slidedown on 3rd page visit
-      // This uses localStorage to track page visits
-      try {
-        const visitKey = 'onesignal_visit_count';
-        let visitCount = parseInt(localStorage.getItem(visitKey) || '0', 10);
-        visitCount++;
-        localStorage.setItem(visitKey, visitCount.toString());
-
-        console.log('[OneSignal] Page visit count:', visitCount);
-
-        if (visitCount === 3) {
-          console.log('[OneSignal] 3rd visit detected - showing slidedown');
-
-          // Show slidedown prompt
-          await OneSignal.Slidedown.promptPushCategories({
-            slidedownPromptOptions: {
-              actionMessage: "Chcete dostávat oznámení o nových článcích?",
-              acceptButtonText: "Ano, přihlaste mě",
-              cancelButtonText: "Ne, děkuji",
-            }
-          });
-
-          console.log('[OneSignal] Slidedown shown successfully');
-
-          // Reset counter after showing
-          localStorage.setItem(visitKey, '0');
-        } else {
-          console.log('[OneSignal] Will show slidedown on visit #3 (current: #' + visitCount + ')');
-        }
-      } catch (e) {
-        console.log('[OneSignal] Slidedown error:', e.message);
+      if (permission !== 'granted') {
+        console.log('[FCM] Permission denied');
+        return false;
       }
 
-      // Check permission status
-      const permission = await OneSignal.Notifications.permission;
-      console.log('[OneSignal] Permission status:', permission);
+      // Register service worker
+      const swRegistration = await navigator.serviceWorker.register('/firebase-messaging-sw.js');
+      console.log('[FCM] Service worker registered');
+
+      // Get FCM token
+      const token = await getToken(messaging, {
+        vapidKey: VAPID_KEY,
+        serviceWorkerRegistration: swRegistration
+      });
+
+      if (!token) {
+        console.error('[FCM] Failed to get token');
+        return false;
+      }
+
+      console.log('[FCM] Token obtained:', token.substring(0, 20) + '...');
+
+      // Subscribe to topic via Cloud Function
+      const response = await fetch(SUBSCRIBE_URL, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ token, topic: TOPIC })
+      });
+
+      if (response.ok) {
+        console.log('[FCM] Successfully subscribed to topic:', TOPIC);
+        localStorage.setItem('fcm_marigold_subscribed', 'true');
+        showSuccessMessage();
+        return true;
+      } else {
+        console.error('[FCM] Subscription failed:', await response.text());
+        return false;
+      }
 
     } catch (error) {
-      console.error('[OneSignal] Error:', error.message);
+      console.error('[FCM] Error:', error);
+      return false;
+    }
+  }
+
+  // Show success message
+  function showSuccessMessage() {
+    const msg = document.createElement('div');
+    msg.innerHTML = `
+      <div style="
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        background: #28a745;
+        color: white;
+        padding: 15px 20px;
+        border-radius: 8px;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+        font-size: 14px;
+        z-index: 10000;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+      ">
+        ✓ Úspěšně přihlášeno k odběru notifikací
+      </div>
+    `;
+    document.body.appendChild(msg);
+    setTimeout(() => msg.remove(), 4000);
+  }
+
+  // Handle foreground messages
+  onMessage(messaging, (payload) => {
+    console.log('[FCM] Foreground message:', payload);
+
+    const data = payload.data || {};
+    const notification = payload.notification || {};
+
+    const title = data.title || notification.title || 'Nový článek';
+    const body = data.body || notification.body || '';
+
+    // Show in-page notification for foreground
+    const notif = document.createElement('div');
+    notif.innerHTML = `
+      <div style="
+        position: fixed;
+        top: 20px;
+        right: 20px;
+        max-width: 350px;
+        background: #fff;
+        border-left: 4px solid #007bff;
+        border-radius: 4px;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+        padding: 15px;
+        z-index: 10000;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+        cursor: pointer;
+      ">
+        <strong style="display: block; margin-bottom: 5px;">${title}</strong>
+        <span style="color: #666; font-size: 14px;">${body}</span>
+      </div>
+    `;
+
+    document.body.appendChild(notif);
+
+    notif.addEventListener('click', () => {
+      if (data.url) {
+        window.location.href = data.url;
+      }
+      notif.remove();
+    });
+
+    setTimeout(() => notif.remove(), 8000);
+  });
+
+  // Expose subscribe function globally
+  window.fcmSubscribe = subscribeToNotifications;
+  window.fcmShowPrompt = showSubscribePrompt;
+
+  console.log('[FCM] Initialization complete');
+</script>
+
+<!-- Optional: Subscribe button for manual trigger -->
+<style>
+  .fcm-subscribe-btn {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 50px;
+    height: 50px;
+    background: #007bff;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 24px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+    z-index: 9999;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: transform 0.2s, background 0.2s;
+  }
+  .fcm-subscribe-btn:hover {
+    transform: scale(1.1);
+    background: #0056b3;
+  }
+  .fcm-subscribe-btn.subscribed {
+    background: #28a745;
+  }
+</style>
+
+<script>
+  // Add subscribe button after DOM loads
+  document.addEventListener('DOMContentLoaded', function() {
+    // Only show button if not subscribed
+    if (localStorage.getItem('fcm_marigold_subscribed') !== 'true') {
+      const btn = document.createElement('button');
+      btn.className = 'fcm-subscribe-btn';
+      btn.innerHTML = '🔔';
+      btn.title = 'Přihlásit se k odběru notifikací';
+      btn.onclick = function() {
+        if (typeof window.fcmSubscribe === 'function') {
+          window.fcmSubscribe();
+        } else {
+          window.fcmShowPrompt();
+        }
+      };
+      document.body.appendChild(btn);
     }
   });
 </script>
@@ -239,7 +466,7 @@
       Status: <strong>WARNING</strong>
     </h2>
     <p style="margin: 0.5rem 0;">
-      <strong>Poslední kontrola:</strong> 23.12.2025 08:43
+      <strong>Poslední kontrola:</strong> 26.12.2025 16:37
     </p>
     <p style="margin: 0.5rem 0;">
       <strong>Summary:</strong> Status: WARNING | Články 24h: 0 | Čeština: 100.0% | Alerty: 3
@@ -259,17 +486,17 @@
           <span style="font-size: 0.7rem; opacity: 0.7;" title="Skutečně nově vygenerované články za posledních 30 dní">ℹ️</span>
         </div>
         <div style="font-size: 2.5rem; font-weight: bold;">
-          6134
+          5156
         </div>
         <div style="font-size: 0.75rem; opacity: 0.8; margin-top: 0.5rem;">
-          Denní průměr: 197.9
+          Denní průměr: 166.3
         </div>
       </div>
 
       <div style="padding: 1rem; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 8px; color: white;">
         <div style="font-size: 0.875rem; opacity: 0.9;">LLM náklady</div>
         <div style="font-size: 2.5rem; font-weight: bold;">
-          $216.28
+          $242.74
         </div>
         <div style="font-size: 0.75rem; opacity: 0.8; margin-top: 0.5rem;">
           Celkem za období
@@ -279,17 +506,17 @@
       <div style="padding: 1rem; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 8px; color: white;">
         <div style="font-size: 0.875rem; opacity: 0.9;">API dotazy</div>
         <div style="font-size: 2.5rem; font-weight: bold;">
-          13213
+          12436
         </div>
         <div style="font-size: 0.75rem; opacity: 0.8; margin-top: 0.5rem;">
-          Sessions: 179
+          Sessions: 181
         </div>
       </div>
 
       <div style="padding: 1rem; background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); border-radius: 8px; color: white;">
         <div style="font-size: 0.875rem; opacity: 0.9;">Přeskočeno</div>
         <div style="font-size: 2.5rem; font-weight: bold;">
-          7079
+          7280
         </div>
         <div style="font-size: 0.75rem; opacity: 0.8; margin-top: 0.5rem;">
           
@@ -313,7 +540,7 @@
       <div style="margin-bottom: 1.5rem;">
         <div style="display: flex; justify-content: space-between; margin-bottom: 0.5rem;">
           <span>📥 API Fetch</span>
-          <strong>13213</strong>
+          <strong>12436</strong>
         </div>
         <div style="background: #e9ecef; height: 8px; border-radius: 4px; overflow: hidden;">
           <div style="background: #007bff; height: 100%; width: 100%;"></div>
@@ -323,21 +550,21 @@
       <div style="margin-bottom: 1.5rem;">
         <div style="display: flex; justify-content: space-between; margin-bottom: 0.5rem;">
           <span>⏭️ Přeskočeno (filtry)</span>
-          <strong>7079</strong>
+          <strong>7280</strong>
         </div>
         
         <div style="background: #e9ecef; height: 8px; border-radius: 4px; overflow: hidden;">
-          <div style="background: #ffc107; height: 100%; width: 53.576023613108305%;"></div>
+          <div style="background: #ffc107; height: 100%; width: 58.53972338372467%;"></div>
         </div>
       </div>
 
       <div style="margin-bottom: 0;">
         <div style="display: flex; justify-content: space-between; margin-bottom: 0.5rem;">
           <span>💾 Uloženo</span>
-          <strong>6134 (46.4%)</strong>
+          <strong>5156 (41.5%)</strong>
         </div>
         <div style="background: #e9ecef; height: 8px; border-radius: 4px; overflow: hidden;">
-          <div style="background: #28a745; height: 100%; width: 46.423976386891695%;"></div>
+          <div style="background: #28a745; height: 100%; width: 41.46027661627533%;"></div>
         </div>
       </div>
     </div>
@@ -362,11 +589,53 @@
         <tbody>
           
           <tr style="border-bottom: 1px solid #dee2e6;">
+            <td style="padding: 0.75rem;">2025-12-26</td>
+            <td style="padding: 0.75rem; text-align: right;">247</td>
+            <td style="padding: 0.75rem; text-align: right; font-weight: bold; color: #28a745;">37</td>
+            <td style="padding: 0.75rem; text-align: right; color: #ffc107;">210</td>
+            <td style="padding: 0.75rem; text-align: right; font-family: monospace;">$7.6867</td>
+            <td style="padding: 0.75rem; text-align: right;">
+              
+              <span style="color: #28a745;">
+                100%
+              </span>
+            </td>
+          </tr>
+          
+          <tr style="border-bottom: 1px solid #dee2e6;">
+            <td style="padding: 0.75rem;">2025-12-25</td>
+            <td style="padding: 0.75rem; text-align: right;">284</td>
+            <td style="padding: 0.75rem; text-align: right; font-weight: bold; color: #28a745;">38</td>
+            <td style="padding: 0.75rem; text-align: right; color: #ffc107;">246</td>
+            <td style="padding: 0.75rem; text-align: right; font-family: monospace;">$8.7668</td>
+            <td style="padding: 0.75rem; text-align: right;">
+              
+              <span style="color: #28a745;">
+                100%
+              </span>
+            </td>
+          </tr>
+          
+          <tr style="border-bottom: 1px solid #dee2e6;">
+            <td style="padding: 0.75rem;">2025-12-24</td>
+            <td style="padding: 0.75rem; text-align: right;">296</td>
+            <td style="padding: 0.75rem; text-align: right; font-weight: bold; color: #28a745;">23</td>
+            <td style="padding: 0.75rem; text-align: right; color: #ffc107;">273</td>
+            <td style="padding: 0.75rem; text-align: right; font-family: monospace;">$9.1896</td>
+            <td style="padding: 0.75rem; text-align: right;">
+              
+              <span style="color: #28a745;">
+                100%
+              </span>
+            </td>
+          </tr>
+          
+          <tr style="border-bottom: 1px solid #dee2e6;">
             <td style="padding: 0.75rem;">2025-12-23</td>
-            <td style="padding: 0.75rem; text-align: right;">148</td>
-            <td style="padding: 0.75rem; text-align: right; font-weight: bold; color: #28a745;">24</td>
-            <td style="padding: 0.75rem; text-align: right; color: #ffc107;">124</td>
-            <td style="padding: 0.75rem; text-align: right; font-family: monospace;">$4.8153</td>
+            <td style="padding: 0.75rem; text-align: right;">296</td>
+            <td style="padding: 0.75rem; text-align: right; font-weight: bold; color: #28a745;">48</td>
+            <td style="padding: 0.75rem; text-align: right; color: #ffc107;">248</td>
+            <td style="padding: 0.75rem; text-align: right; font-family: monospace;">$9.8354</td>
             <td style="padding: 0.75rem; text-align: right;">
               
               <span style="color: #28a745;">
@@ -515,48 +784,6 @@
             </td>
           </tr>
           
-          <tr style="border-bottom: 1px solid #dee2e6;">
-            <td style="padding: 0.75rem;">2025-12-12</td>
-            <td style="padding: 0.75rem; text-align: right;">297</td>
-            <td style="padding: 0.75rem; text-align: right; font-weight: bold; color: #28a745;">41</td>
-            <td style="padding: 0.75rem; text-align: right; color: #ffc107;">256</td>
-            <td style="padding: 0.75rem; text-align: right; font-family: monospace;">$9.9348</td>
-            <td style="padding: 0.75rem; text-align: right;">
-              
-              <span style="color: #28a745;">
-                100%
-              </span>
-            </td>
-          </tr>
-          
-          <tr style="border-bottom: 1px solid #dee2e6;">
-            <td style="padding: 0.75rem;">2025-12-11</td>
-            <td style="padding: 0.75rem; text-align: right;">246</td>
-            <td style="padding: 0.75rem; text-align: right; font-weight: bold; color: #28a745;">36</td>
-            <td style="padding: 0.75rem; text-align: right; color: #ffc107;">210</td>
-            <td style="padding: 0.75rem; text-align: right; font-family: monospace;">$7.8693</td>
-            <td style="padding: 0.75rem; text-align: right;">
-              
-              <span style="color: #28a745;">
-                100%
-              </span>
-            </td>
-          </tr>
-          
-          <tr style="border-bottom: 1px solid #dee2e6;">
-            <td style="padding: 0.75rem;">2025-12-10</td>
-            <td style="padding: 0.75rem; text-align: right;">295</td>
-            <td style="padding: 0.75rem; text-align: right; font-weight: bold; color: #28a745;">58</td>
-            <td style="padding: 0.75rem; text-align: right; color: #ffc107;">237</td>
-            <td style="padding: 0.75rem; text-align: right; font-family: monospace;">$10.234</td>
-            <td style="padding: 0.75rem; text-align: right;">
-              
-              <span style="color: #28a745;">
-                100%
-              </span>
-            </td>
-          </tr>
-          
         </tbody>
       </table>
     </div>
@@ -572,21 +799,21 @@
       <div style="padding: 1rem; background: #f8f9fa; border-radius: 4px; border-left: 4px solid #007bff;">
         <div style="font-size: 0.875rem; color: #6c757d;">Průměrný čas session</div>
         <div style="font-size: 1.75rem; font-weight: bold; color: #007bff;">
-          1831.13s
+          1807.08s
         </div>
       </div>
 
       <div style="padding: 1rem; background: #f8f9fa; border-radius: 4px; border-left: 4px solid #17a2b8;">
         <div style="font-size: 0.875rem; color: #6c757d;">API Response Time</div>
         <div style="font-size: 1.75rem; font-weight: bold; color: #17a2b8;">
-          404.0ms
+          393.0ms
         </div>
       </div>
 
       <div style="padding: 1rem; background: #f8f9fa; border-radius: 4px; border-left: 4px solid #28a745;">
         <div style="font-size: 0.875rem; color: #6c757d;">Tokens per Article</div>
         <div style="font-size: 1.75rem; font-weight: bold; color: #28a745;">
-          2808.0
+          3139.0
         </div>
       </div>
 
@@ -617,7 +844,7 @@
     <ul style="list-style: none; padding: 0;">
       
       <li style="padding: 0.75rem; margin: 0.5rem 0; border-radius: 4px; background: #fff3cd; border-left: 4px solid #ffc107;">
-        <strong>[WARNING]</strong> Nejnovější článek je starý 25.7h (threshold: 6h)
+        <strong>[WARNING]</strong> Nejnovější článek je starý 24.7h (threshold: 6h)
       </li>
       
       <li style="padding: 0.75rem; margin: 0.5rem 0; border-radius: 4px; background: #fff3cd; border-left: 4px solid #ffc107;">
@@ -643,7 +870,7 @@
           <span style="font-size: 0.75rem; opacity: 0.8;" title="Všechny .md soubory v _tech_news/">ℹ️</span>
         </div>
         <div style="font-size: 2rem; font-weight: bold; color: #007bff;">
-          213
+          289
         </div>
         <div style="font-size: 0.7rem; color: #6c757d; margin-top: 0.25rem;">
           (celá databáze)
@@ -666,7 +893,7 @@
       <div style="padding: 1rem; background: #f8f9fa; border-radius: 4px;">
         <div style="font-size: 0.875rem; color: #6c757d;">Stáří nejnovějšího (h)</div>
         <div style="font-size: 2rem; font-weight: bold; color: #dc3545;">
-          25.71
+          24.71
         </div>
       </div>
 
@@ -693,7 +920,7 @@
         </span>
       </h3>
       <ul>
-        <li>Stáří nejnovějšího: 25.71 hodin</li>
+        <li>Stáří nejnovějšího: 24.71 hodin</li>
         <li>Články za 24h: 0</li>
         <li>Články za 1h: 0</li>
       </ul>
@@ -722,8 +949,8 @@
         </span>
       </h3>
       <ul>
-        <li>Průměrná délka: 3679.0 znaků</li>
-        <li>Medián délky: 3658.0 znaků</li>
+        <li>Průměrná délka: 3713.0 znaků</li>
+        <li>Medián délky: 3690.0 znaků</li>
       </ul>
     </div>
 
@@ -732,13 +959,13 @@
   <!-- Raw JSON Data -->
   <details style="background: #f8f9fa; padding: 1rem; border-radius: 8px; margin-bottom: 1rem;">
     <summary style="cursor: pointer; font-weight: bold;">📋 Health Check Raw Data</summary>
-    <pre style="background: #fff; padding: 1rem; border-radius: 4px; overflow-x: auto; margin-top: 1rem;"><code>{"status":"WARNING","timestamp":"2025-12-23T08:43:14.979372+00:00","checks":{"freshness":{"status":"WARNING","newest_age_hours":25.71,"articles_24h":0,"articles_1h":0},"language":{"status":"OK","czech_ratio":1.0,"sample_size":100,"english_articles_sample":[]},"content_quality":{"status":"OK","avg_length":3679.0,"median_length":3658.0},"generation_trend":{"status":"OK","trend":"nedostatek dat","hourly_distribution":{}},"front_matter":{"status":"OK","error_rate":0.0,"invalid_count":0,"most_common_missing_fields":{},"sample_invalid_articles":[]}},"metrics":{"total_articles":213,"articles_24h":0,"articles_1h":0,"newest_article_age_hours":25.71,"czech_articles":100,"english_articles":0,"czech_ratio":1.0,"avg_content_length":3679.0,"median_content_length":3658.0,"articles_with_images_pct":94.0,"articles_with_category_pct":100.0,"front_matter_error_rate":0.0},"alerts":[{"level":"WARNING","message":"Nejnovější článek je starý 25.7h (threshold: 6h)"},{"level":"WARNING","message":"Pouze 0 článků za 24h (minimum: 10)"},{"level":"INFO","message":"Pouze 0 článků za poslední hodinu"}],"summary":"Status: WARNING | Články 24h: 0 | Čeština: 100.0% | Alerty: 3"}</code></pre>
+    <pre style="background: #fff; padding: 1rem; border-radius: 4px; overflow-x: auto; margin-top: 1rem;"><code>{"status":"WARNING","timestamp":"2025-12-26T16:37:49.166981+00:00","checks":{"freshness":{"status":"WARNING","newest_age_hours":24.71,"articles_24h":0,"articles_1h":0},"language":{"status":"OK","czech_ratio":1.0,"sample_size":100,"english_articles_sample":[]},"content_quality":{"status":"OK","avg_length":3713.0,"median_length":3690.0},"generation_trend":{"status":"OK","trend":"nedostatek dat","hourly_distribution":{}},"front_matter":{"status":"OK","error_rate":0.0,"invalid_count":0,"most_common_missing_fields":{},"sample_invalid_articles":[]}},"metrics":{"total_articles":289,"articles_24h":0,"articles_1h":0,"newest_article_age_hours":24.71,"czech_articles":100,"english_articles":0,"czech_ratio":1.0,"avg_content_length":3713.0,"median_content_length":3690.0,"articles_with_images_pct":97.0,"articles_with_category_pct":100.0,"front_matter_error_rate":0.0},"alerts":[{"level":"WARNING","message":"Nejnovější článek je starý 24.7h (threshold: 6h)"},{"level":"WARNING","message":"Pouze 0 článků za 24h (minimum: 10)"},{"level":"INFO","message":"Pouze 0 článků za poslední hodinu"}],"summary":"Status: WARNING | Články 24h: 0 | Čeština: 100.0% | Alerty: 3"}</code></pre>
   </details>
 
   
   <details style="background: #f8f9fa; padding: 1rem; border-radius: 8px;">
     <summary style="cursor: pointer; font-weight: bold;">📋 Dashboard Raw Data</summary>
-    <pre style="background: #fff; padding: 1rem; border-radius: 4px; overflow-x: auto; margin-top: 1rem;"><code>{"generated_at":"2025-12-23T08:43:15.385561+00:00","period_days":30,"current_status":{"health":"OK","last_run":"2025-12-23T08:20:35.078002+00:00","last_run_status":"success","articles_today":24,"active_alerts":[]},"daily_series":[{"date":"2025-12-23","sessions_count":3,"articles_fetched":148,"articles_processed":110,"articles_saved":24,"articles_skipped":124,"skip_reasons":{"low_importance":86,"content_filter":38},"llm_cost":4.8153,"avg_duration":1284.96,"success_rate":1.0},{"date":"2025-12-22","sessions_count":6,"articles_fetched":297,"articles_processed":231,"articles_saved":27,"articles_skipped":270,"skip_reasons":{"content_filter":66,"low_importance":204},"llm_cost":9.936,"avg_duration":1507.96,"success_rate":1.0},{"date":"2025-12-21","sessions_count":6,"articles_fetched":294,"articles_processed":219,"articles_saved":28,"articles_skipped":266,"skip_reasons":{"low_importance":191,"content_filter":75},"llm_cost":9.1113,"avg_duration":1274.3,"success_rate":1.0},{"date":"2025-12-20","sessions_count":6,"articles_fetched":297,"articles_processed":226,"articles_saved":40,"articles_skipped":257,"skip_reasons":{"low_importance":186,"content_filter":71},"llm_cost":9.6284,"avg_duration":1574.0,"success_rate":1.0},{"date":"2025-12-19","sessions_count":6,"articles_fetched":297,"articles_processed":229,"articles_saved":47,"articles_skipped":250,"skip_reasons":{"content_filter":68,"low_importance":182},"llm_cost":9.6848,"avg_duration":1714.92,"success_rate":1.0},{"date":"2025-12-18","sessions_count":6,"articles_fetched":296,"articles_processed":224,"articles_saved":40,"articles_skipped":256,"skip_reasons":{"content_filter":72,"low_importance":184},"llm_cost":9.5443,"avg_duration":1704.79,"success_rate":1.0},{"date":"2025-12-17","sessions_count":6,"articles_fetched":298,"articles_processed":219,"articles_saved":36,"articles_skipped":262,"skip_reasons":{"content_filter":79,"low_importance":183},"llm_cost":9.5224,"avg_duration":1808.89,"success_rate":1.0},{"date":"2025-12-16","sessions_count":6,"articles_fetched":295,"articles_processed":231,"articles_saved":46,"articles_skipped":249,"skip_reasons":{"low_importance":185,"content_filter":64},"llm_cost":9.8837,"avg_duration":1873.65,"success_rate":1.0},{"date":"2025-12-15","sessions_count":6,"articles_fetched":293,"articles_processed":215,"articles_saved":39,"articles_skipped":254,"skip_reasons":{"low_importance":176,"content_filter":78},"llm_cost":9.2062,"avg_duration":1783.01,"success_rate":1.0},{"date":"2025-12-14","sessions_count":6,"articles_fetched":295,"articles_processed":221,"articles_saved":39,"articles_skipped":256,"skip_reasons":{"low_importance":182,"content_filter":74},"llm_cost":9.2636,"avg_duration":1619.06,"success_rate":1.0},{"date":"2025-12-13","sessions_count":6,"articles_fetched":292,"articles_processed":227,"articles_saved":47,"articles_skipped":245,"skip_reasons":{"low_importance":180,"content_filter":65},"llm_cost":9.7728,"avg_duration":1528.43,"success_rate":1.0},{"date":"2025-12-12","sessions_count":6,"articles_fetched":297,"articles_processed":229,"articles_saved":41,"articles_skipped":256,"skip_reasons":{"low_importance":188,"content_filter":68},"llm_cost":9.9348,"avg_duration":1901.8,"success_rate":1.0},{"date":"2025-12-11","sessions_count":5,"articles_fetched":246,"articles_processed":183,"articles_saved":36,"articles_skipped":210,"skip_reasons":{"low_importance":147,"content_filter":63},"llm_cost":7.8693,"avg_duration":2186.82,"success_rate":1.0},{"date":"2025-12-10","sessions_count":6,"articles_fetched":295,"articles_processed":231,"articles_saved":58,"articles_skipped":237,"skip_reasons":{"low_importance":173,"content_filter":64},"llm_cost":10.234,"avg_duration":1748.17,"success_rate":1.0},{"date":"2025-12-09","sessions_count":5,"articles_fetched":244,"articles_processed":184,"articles_saved":33,"articles_skipped":211,"skip_reasons":{"low_importance":151,"content_filter":60},"llm_cost":7.9495,"avg_duration":1443.65,"success_rate":1.0},{"date":"2025-12-08","sessions_count":6,"articles_fetched":535,"articles_processed":413,"articles_saved":251,"articles_skipped":284,"skip_reasons":{"low_importance":162,"content_filter":122},"llm_cost":17.4959,"avg_duration":2975.13,"success_rate":1.0},{"date":"2025-12-07","sessions_count":6,"articles_fetched":581,"articles_processed":454,"articles_saved":309,"articles_skipped":272,"skip_reasons":{"low_importance":145,"content_filter":127},"llm_cost":18.9727,"avg_duration":2772.86,"success_rate":1.0},{"date":"2025-12-06","sessions_count":6,"articles_fetched":583,"articles_processed":442,"articles_saved":382,"articles_skipped":201,"skip_reasons":{"content_filter":141,"low_importance":60},"llm_cost":2.9939,"avg_duration":512.45,"success_rate":1.0},{"date":"2025-12-05","sessions_count":6,"articles_fetched":593,"articles_processed":445,"articles_saved":400,"articles_skipped":193,"skip_reasons":{"low_importance":45,"content_filter":148},"llm_cost":0.0,"avg_duration":82.42,"success_rate":1.0},{"date":"2025-12-04","sessions_count":6,"articles_fetched":590,"articles_processed":458,"articles_saved":419,"articles_skipped":171,"skip_reasons":{"content_filter":132,"low_importance":39},"llm_cost":0.0,"avg_duration":103.33,"success_rate":1.0},{"date":"2025-12-03","sessions_count":6,"articles_fetched":590,"articles_processed":468,"articles_saved":370,"articles_skipped":220,"skip_reasons":{"content_filter":122,"low_importance":98},"llm_cost":16.3981,"avg_duration":8365.82,"success_rate":1.0},{"date":"2025-12-02","sessions_count":5,"articles_fetched":491,"articles_processed":378,"articles_saved":234,"articles_skipped":257,"skip_reasons":{"low_importance":144,"content_filter":113},"llm_cost":14.6133,"avg_duration":7610.72,"success_rate":1.0},{"date":"2025-12-01","sessions_count":5,"articles_fetched":385,"articles_processed":263,"articles_saved":223,"articles_skipped":162,"skip_reasons":{"content_filter":122,"low_importance":40},"llm_cost":0.4481,"avg_duration":293.5,"success_rate":0.8},{"date":"2025-11-30","sessions_count":6,"articles_fetched":589,"articles_processed":430,"articles_saved":364,"articles_skipped":225,"skip_reasons":{"low_importance":66,"content_filter":159},"llm_cost":0.0,"avg_duration":88.51,"success_rate":1.0},{"date":"2025-11-29","sessions_count":6,"articles_fetched":582,"articles_processed":451,"articles_saved":371,"articles_skipped":211,"skip_reasons":{"low_importance":80,"content_filter":131},"llm_cost":0.0,"avg_duration":99.42,"success_rate":1.0},{"date":"2025-11-28","sessions_count":6,"articles_fetched":584,"articles_processed":458,"articles_saved":399,"articles_skipped":185,"skip_reasons":{"content_filter":126,"low_importance":59},"llm_cost":0.0,"avg_duration":87.95,"success_rate":1.0},{"date":"2025-11-27","sessions_count":6,"articles_fetched":587,"articles_processed":446,"articles_saved":379,"articles_skipped":208,"skip_reasons":{"content_filter":141,"low_importance":67},"llm_cost":1.2514,"avg_duration":1415.68,"success_rate":1.0},{"date":"2025-11-26","sessions_count":6,"articles_fetched":587,"articles_processed":429,"articles_saved":352,"articles_skipped":235,"skip_reasons":{"content_filter":158,"low_importance":77},"llm_cost":3.5436,"avg_duration":3401.39,"success_rate":1.0},{"date":"2025-11-25","sessions_count":6,"articles_fetched":582,"articles_processed":447,"articles_saved":357,"articles_skipped":225,"skip_reasons":{"content_filter":135,"low_importance":90},"llm_cost":3.6585,"avg_duration":3479.71,"success_rate":1.0},{"date":"2025-11-24","sessions_count":6,"articles_fetched":586,"articles_processed":434,"articles_saved":376,"articles_skipped":210,"skip_reasons":{"content_filter":152,"low_importance":58},"llm_cost":0.5477,"avg_duration":564.61,"success_rate":1.0},{"date":"2025-11-23","sessions_count":6,"articles_fetched":584,"articles_processed":424,"articles_saved":367,"articles_skipped":217,"skip_reasons":{"content_filter":160,"low_importance":57},"llm_cost":0.0,"avg_duration":85.49,"success_rate":1.0}],"aggregates":{"total_articles":6134,"total_cost":216.28,"avg_daily_articles":197.9,"most_common_skip_reason":{"reason":"low_importance","count":3885},"total_sessions":179,"total_fetched":13213,"total_skipped":7079},"performance_metrics":{"avg_session_duration":1831.13,"avg_api_response_time":404.0,"avg_tokens_per_article":2808.0,"error_rate":0.0}}</code></pre>
+    <pre style="background: #fff; padding: 1rem; border-radius: 4px; overflow-x: auto; margin-top: 1rem;"><code>{"generated_at":"2025-12-26T16:37:49.679465+00:00","period_days":30,"current_status":{"health":"OK","last_run":"2025-12-26T16:16:58.706022+00:00","last_run_status":"success","articles_today":37,"active_alerts":[]},"daily_series":[{"date":"2025-12-26","sessions_count":5,"articles_fetched":247,"articles_processed":182,"articles_saved":37,"articles_skipped":210,"skip_reasons":{"low_importance":145,"content_filter":65},"llm_cost":7.6867,"avg_duration":1226.83,"success_rate":1.0},{"date":"2025-12-25","sessions_count":6,"articles_fetched":284,"articles_processed":207,"articles_saved":38,"articles_skipped":246,"skip_reasons":{"low_importance":169,"content_filter":77},"llm_cost":8.7668,"avg_duration":1142.09,"success_rate":1.0},{"date":"2025-12-24","sessions_count":6,"articles_fetched":296,"articles_processed":215,"articles_saved":23,"articles_skipped":273,"skip_reasons":{"low_importance":192,"content_filter":81},"llm_cost":9.1896,"avg_duration":1150.82,"success_rate":1.0},{"date":"2025-12-23","sessions_count":6,"articles_fetched":296,"articles_processed":226,"articles_saved":48,"articles_skipped":248,"skip_reasons":{"low_importance":178,"content_filter":70},"llm_cost":9.8354,"avg_duration":1345.87,"success_rate":1.0},{"date":"2025-12-22","sessions_count":6,"articles_fetched":297,"articles_processed":231,"articles_saved":27,"articles_skipped":270,"skip_reasons":{"content_filter":66,"low_importance":204},"llm_cost":9.936,"avg_duration":1507.96,"success_rate":1.0},{"date":"2025-12-21","sessions_count":6,"articles_fetched":294,"articles_processed":219,"articles_saved":28,"articles_skipped":266,"skip_reasons":{"low_importance":191,"content_filter":75},"llm_cost":9.1113,"avg_duration":1274.3,"success_rate":1.0},{"date":"2025-12-20","sessions_count":6,"articles_fetched":297,"articles_processed":226,"articles_saved":40,"articles_skipped":257,"skip_reasons":{"low_importance":186,"content_filter":71},"llm_cost":9.6284,"avg_duration":1574.0,"success_rate":1.0},{"date":"2025-12-19","sessions_count":6,"articles_fetched":297,"articles_processed":229,"articles_saved":47,"articles_skipped":250,"skip_reasons":{"content_filter":68,"low_importance":182},"llm_cost":9.6848,"avg_duration":1714.92,"success_rate":1.0},{"date":"2025-12-18","sessions_count":6,"articles_fetched":296,"articles_processed":224,"articles_saved":40,"articles_skipped":256,"skip_reasons":{"content_filter":72,"low_importance":184},"llm_cost":9.5443,"avg_duration":1704.79,"success_rate":1.0},{"date":"2025-12-17","sessions_count":6,"articles_fetched":298,"articles_processed":219,"articles_saved":36,"articles_skipped":262,"skip_reasons":{"content_filter":79,"low_importance":183},"llm_cost":9.5224,"avg_duration":1808.89,"success_rate":1.0},{"date":"2025-12-16","sessions_count":6,"articles_fetched":295,"articles_processed":231,"articles_saved":46,"articles_skipped":249,"skip_reasons":{"low_importance":185,"content_filter":64},"llm_cost":9.8837,"avg_duration":1873.65,"success_rate":1.0},{"date":"2025-12-15","sessions_count":6,"articles_fetched":293,"articles_processed":215,"articles_saved":39,"articles_skipped":254,"skip_reasons":{"low_importance":176,"content_filter":78},"llm_cost":9.2062,"avg_duration":1783.01,"success_rate":1.0},{"date":"2025-12-14","sessions_count":6,"articles_fetched":295,"articles_processed":221,"articles_saved":39,"articles_skipped":256,"skip_reasons":{"low_importance":182,"content_filter":74},"llm_cost":9.2636,"avg_duration":1619.06,"success_rate":1.0},{"date":"2025-12-13","sessions_count":6,"articles_fetched":292,"articles_processed":227,"articles_saved":47,"articles_skipped":245,"skip_reasons":{"low_importance":180,"content_filter":65},"llm_cost":9.7728,"avg_duration":1528.43,"success_rate":1.0},{"date":"2025-12-12","sessions_count":6,"articles_fetched":297,"articles_processed":229,"articles_saved":41,"articles_skipped":256,"skip_reasons":{"low_importance":188,"content_filter":68},"llm_cost":9.9348,"avg_duration":1901.8,"success_rate":1.0},{"date":"2025-12-11","sessions_count":5,"articles_fetched":246,"articles_processed":183,"articles_saved":36,"articles_skipped":210,"skip_reasons":{"low_importance":147,"content_filter":63},"llm_cost":7.8693,"avg_duration":2186.82,"success_rate":1.0},{"date":"2025-12-10","sessions_count":6,"articles_fetched":295,"articles_processed":231,"articles_saved":58,"articles_skipped":237,"skip_reasons":{"low_importance":173,"content_filter":64},"llm_cost":10.234,"avg_duration":1748.17,"success_rate":1.0},{"date":"2025-12-09","sessions_count":5,"articles_fetched":244,"articles_processed":184,"articles_saved":33,"articles_skipped":211,"skip_reasons":{"low_importance":151,"content_filter":60},"llm_cost":7.9495,"avg_duration":1443.65,"success_rate":1.0},{"date":"2025-12-08","sessions_count":6,"articles_fetched":535,"articles_processed":413,"articles_saved":251,"articles_skipped":284,"skip_reasons":{"low_importance":162,"content_filter":122},"llm_cost":17.4959,"avg_duration":2975.13,"success_rate":1.0},{"date":"2025-12-07","sessions_count":6,"articles_fetched":581,"articles_processed":454,"articles_saved":309,"articles_skipped":272,"skip_reasons":{"low_importance":145,"content_filter":127},"llm_cost":18.9727,"avg_duration":2772.86,"success_rate":1.0},{"date":"2025-12-06","sessions_count":6,"articles_fetched":583,"articles_processed":442,"articles_saved":382,"articles_skipped":201,"skip_reasons":{"content_filter":141,"low_importance":60},"llm_cost":2.9939,"avg_duration":512.45,"success_rate":1.0},{"date":"2025-12-05","sessions_count":6,"articles_fetched":593,"articles_processed":445,"articles_saved":400,"articles_skipped":193,"skip_reasons":{"low_importance":45,"content_filter":148},"llm_cost":0.0,"avg_duration":82.42,"success_rate":1.0},{"date":"2025-12-04","sessions_count":6,"articles_fetched":590,"articles_processed":458,"articles_saved":419,"articles_skipped":171,"skip_reasons":{"content_filter":132,"low_importance":39},"llm_cost":0.0,"avg_duration":103.33,"success_rate":1.0},{"date":"2025-12-03","sessions_count":6,"articles_fetched":590,"articles_processed":468,"articles_saved":370,"articles_skipped":220,"skip_reasons":{"content_filter":122,"low_importance":98},"llm_cost":16.3981,"avg_duration":8365.82,"success_rate":1.0},{"date":"2025-12-02","sessions_count":5,"articles_fetched":491,"articles_processed":378,"articles_saved":234,"articles_skipped":257,"skip_reasons":{"low_importance":144,"content_filter":113},"llm_cost":14.6133,"avg_duration":7610.72,"success_rate":1.0},{"date":"2025-12-01","sessions_count":5,"articles_fetched":385,"articles_processed":263,"articles_saved":223,"articles_skipped":162,"skip_reasons":{"content_filter":122,"low_importance":40},"llm_cost":0.4481,"avg_duration":293.5,"success_rate":0.8},{"date":"2025-11-30","sessions_count":6,"articles_fetched":589,"articles_processed":430,"articles_saved":364,"articles_skipped":225,"skip_reasons":{"low_importance":66,"content_filter":159},"llm_cost":0.0,"avg_duration":88.51,"success_rate":1.0},{"date":"2025-11-29","sessions_count":6,"articles_fetched":582,"articles_processed":451,"articles_saved":371,"articles_skipped":211,"skip_reasons":{"low_importance":80,"content_filter":131},"llm_cost":0.0,"avg_duration":99.42,"success_rate":1.0},{"date":"2025-11-28","sessions_count":6,"articles_fetched":584,"articles_processed":458,"articles_saved":399,"articles_skipped":185,"skip_reasons":{"content_filter":126,"low_importance":59},"llm_cost":0.0,"avg_duration":87.95,"success_rate":1.0},{"date":"2025-11-27","sessions_count":6,"articles_fetched":587,"articles_processed":446,"articles_saved":379,"articles_skipped":208,"skip_reasons":{"content_filter":141,"low_importance":67},"llm_cost":1.2514,"avg_duration":1415.68,"success_rate":1.0},{"date":"2025-11-26","sessions_count":6,"articles_fetched":587,"articles_processed":429,"articles_saved":352,"articles_skipped":235,"skip_reasons":{"content_filter":158,"low_importance":77},"llm_cost":3.5436,"avg_duration":3401.39,"success_rate":1.0}],"aggregates":{"total_articles":5156,"total_cost":242.74,"avg_daily_articles":166.3,"most_common_skip_reason":{"reason":"low_importance","count":4278},"total_sessions":181,"total_fetched":12436,"total_skipped":7280},"performance_metrics":{"avg_session_duration":1807.08,"avg_api_response_time":393.0,"avg_tokens_per_article":3139.0,"error_rate":0.0}}</code></pre>
   </details>
   
 

@@ -133,79 +133,306 @@
     <meta name="apple-mobile-web-app-title" content="Marigold">
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 
-    <!-- OneSignal Web Push Notifications -->
-<script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
-<script>
-  console.log('[OneSignal] Script starting...');
+    <!-- Firebase Cloud Messaging for Marigold.cz -->
+<script type="module">
+  // Firebase imports
+  import { initializeApp } from 'https://www.gstatic.com/firebasejs/10.7.0/firebase-app.js';
+  import { getMessaging, getToken, onMessage } from 'https://www.gstatic.com/firebasejs/10.7.0/firebase-messaging.js';
 
-  window.OneSignalDeferred = window.OneSignalDeferred || [];
+  // Firebase configuration
+  const firebaseConfig = {
+    apiKey: "AIzaSyDb03VE1UNGcOeukc2yn1wGRnaOrL-i5uo",
+    authDomain: "marigold-web.firebaseapp.com",
+    projectId: "marigold-web",
+    storageBucket: "marigold-web.firebasestorage.app",
+    messagingSenderId: "776408181252",
+    appId: "1:776408181252:web:912de8993063dfdae5e351"
+  };
 
-  OneSignalDeferred.push(async function(OneSignal) {
+  // VAPID key for web push
+  const VAPID_KEY = 'BGQuxMJIhSz2AvLVgm1PhbwkYmA7tBXs1ko__r8xQGlW13rgNBw1g4D3VeZ9IYwxDp0Bpc8wudpz5CVFyA-BBjs';
+
+  // Topic for Marigold notifications
+  const TOPIC = 'marigold-news';
+
+  // Cloud Function URL for subscription - TODO: Update after deployment
+  const SUBSCRIBE_URL = 'https://europe-west1-marigold-web.cloudfunctions.net/subscribeToTopic';
+
+  console.log('[FCM] Initializing Firebase for Marigold.cz...');
+
+  // Initialize Firebase
+  const app = initializeApp(firebaseConfig);
+  const messaging = getMessaging(app);
+
+  // Track page visits for delayed prompt
+  const VISIT_KEY = 'fcm_marigold_visits';
+  const visits = parseInt(localStorage.getItem(VISIT_KEY) || '0', 10) + 1;
+  localStorage.setItem(VISIT_KEY, visits.toString());
+  console.log('[FCM] Page visit count:', visits);
+
+  // Check if already subscribed
+  const isSubscribed = localStorage.getItem('fcm_marigold_subscribed') === 'true';
+
+  // Show subscribe prompt on 3rd visit if not subscribed
+  if (visits === 3 && !isSubscribed && Notification.permission === 'default') {
+    setTimeout(() => {
+      showSubscribePrompt();
+    }, 3000); // Wait 3 seconds after page load
+  }
+
+  // Create and show subscribe prompt
+  function showSubscribePrompt() {
+    // Check if prompt already exists
+    if (document.getElementById('fcm-subscribe-prompt')) return;
+
+    const prompt = document.createElement('div');
+    prompt.id = 'fcm-subscribe-prompt';
+    prompt.innerHTML = `
+      <div style="
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        max-width: 320px;
+        background: #fff;
+        border-radius: 12px;
+        box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+        padding: 20px;
+        z-index: 10000;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      ">
+        <button id="fcm-close" style="
+          position: absolute;
+          top: 10px;
+          right: 10px;
+          background: none;
+          border: none;
+          font-size: 20px;
+          cursor: pointer;
+          color: #999;
+        ">&times;</button>
+        <h3 style="margin: 0 0 10px 0; font-size: 16px; color: #333;">
+          Chcete dostávat oznámení o nových článcích?
+        </h3>
+        <p style="margin: 0 0 15px 0; font-size: 14px; color: #666;">
+          Budeme vás informovat o nových článcích a zajímavostech.
+        </p>
+        <div style="display: flex; gap: 10px;">
+          <button id="fcm-subscribe" style="
+            flex: 1;
+            padding: 10px 15px;
+            background: #007bff;
+            color: white;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 14px;
+          ">Ano, přihlásit</button>
+          <button id="fcm-decline" style="
+            padding: 10px 15px;
+            background: #f0f0f0;
+            color: #666;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 14px;
+          ">Ne, děkuji</button>
+        </div>
+      </div>
+    `;
+
+    document.body.appendChild(prompt);
+
+    // Event listeners
+    document.getElementById('fcm-subscribe').addEventListener('click', async () => {
+      prompt.remove();
+      await subscribeToNotifications();
+    });
+
+    document.getElementById('fcm-decline').addEventListener('click', () => {
+      prompt.remove();
+      localStorage.setItem(VISIT_KEY, '0'); // Reset counter
+    });
+
+    document.getElementById('fcm-close').addEventListener('click', () => {
+      prompt.remove();
+    });
+  }
+
+  // Subscribe to push notifications
+  async function subscribeToNotifications() {
     try {
-      console.log('[OneSignal] Initializing OneSignal SDK');
+      console.log('[FCM] Requesting notification permission...');
 
-      // Initialize OneSignal with minimal config
-      const config = {
-        appId: "00fc3def-70d1-4e7d-a081-984d5e738a75",
-        notifyButton: {
-          enable: true,
-          position: "bottom-right",
-          size: "medium",
-          text: {
-            "button.subscribe": "Přihlásit se k oznámením",
-            "button.unsubscribe": "Odhlásit se od oznámení",
-          },
-        },
-        // iOS Web Push support - requires manifest.json and home screen installation
-        allowLocalhostAsSecureOrigin: true,
-        // Safari Web Push configuration
-        safari: {
-          enable: true
-        }
-      };
+      const permission = await Notification.requestPermission();
+      console.log('[FCM] Permission:', permission);
 
-      await OneSignal.init(config);
-      console.log('[OneSignal] Initialization complete');
-
-      // Show slidedown on 3rd page visit
-      // This uses localStorage to track page visits
-      try {
-        const visitKey = 'onesignal_visit_count';
-        let visitCount = parseInt(localStorage.getItem(visitKey) || '0', 10);
-        visitCount++;
-        localStorage.setItem(visitKey, visitCount.toString());
-
-        console.log('[OneSignal] Page visit count:', visitCount);
-
-        if (visitCount === 3) {
-          console.log('[OneSignal] 3rd visit detected - showing slidedown');
-
-          // Show slidedown prompt
-          await OneSignal.Slidedown.promptPushCategories({
-            slidedownPromptOptions: {
-              actionMessage: "Chcete dostávat oznámení o nových článcích?",
-              acceptButtonText: "Ano, přihlaste mě",
-              cancelButtonText: "Ne, děkuji",
-            }
-          });
-
-          console.log('[OneSignal] Slidedown shown successfully');
-
-          // Reset counter after showing
-          localStorage.setItem(visitKey, '0');
-        } else {
-          console.log('[OneSignal] Will show slidedown on visit #3 (current: #' + visitCount + ')');
-        }
-      } catch (e) {
-        console.log('[OneSignal] Slidedown error:', e.message);
+      if (permission !== 'granted') {
+        console.log('[FCM] Permission denied');
+        return false;
       }
 
-      // Check permission status
-      const permission = await OneSignal.Notifications.permission;
-      console.log('[OneSignal] Permission status:', permission);
+      // Register service worker
+      const swRegistration = await navigator.serviceWorker.register('/firebase-messaging-sw.js');
+      console.log('[FCM] Service worker registered');
+
+      // Get FCM token
+      const token = await getToken(messaging, {
+        vapidKey: VAPID_KEY,
+        serviceWorkerRegistration: swRegistration
+      });
+
+      if (!token) {
+        console.error('[FCM] Failed to get token');
+        return false;
+      }
+
+      console.log('[FCM] Token obtained:', token.substring(0, 20) + '...');
+
+      // Subscribe to topic via Cloud Function
+      const response = await fetch(SUBSCRIBE_URL, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ token, topic: TOPIC })
+      });
+
+      if (response.ok) {
+        console.log('[FCM] Successfully subscribed to topic:', TOPIC);
+        localStorage.setItem('fcm_marigold_subscribed', 'true');
+        showSuccessMessage();
+        return true;
+      } else {
+        console.error('[FCM] Subscription failed:', await response.text());
+        return false;
+      }
 
     } catch (error) {
-      console.error('[OneSignal] Error:', error.message);
+      console.error('[FCM] Error:', error);
+      return false;
+    }
+  }
+
+  // Show success message
+  function showSuccessMessage() {
+    const msg = document.createElement('div');
+    msg.innerHTML = `
+      <div style="
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        background: #28a745;
+        color: white;
+        padding: 15px 20px;
+        border-radius: 8px;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+        font-size: 14px;
+        z-index: 10000;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+      ">
+        ✓ Úspěšně přihlášeno k odběru notifikací
+      </div>
+    `;
+    document.body.appendChild(msg);
+    setTimeout(() => msg.remove(), 4000);
+  }
+
+  // Handle foreground messages
+  onMessage(messaging, (payload) => {
+    console.log('[FCM] Foreground message:', payload);
+
+    const data = payload.data || {};
+    const notification = payload.notification || {};
+
+    const title = data.title || notification.title || 'Nový článek';
+    const body = data.body || notification.body || '';
+
+    // Show in-page notification for foreground
+    const notif = document.createElement('div');
+    notif.innerHTML = `
+      <div style="
+        position: fixed;
+        top: 20px;
+        right: 20px;
+        max-width: 350px;
+        background: #fff;
+        border-left: 4px solid #007bff;
+        border-radius: 4px;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+        padding: 15px;
+        z-index: 10000;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+        cursor: pointer;
+      ">
+        <strong style="display: block; margin-bottom: 5px;">${title}</strong>
+        <span style="color: #666; font-size: 14px;">${body}</span>
+      </div>
+    `;
+
+    document.body.appendChild(notif);
+
+    notif.addEventListener('click', () => {
+      if (data.url) {
+        window.location.href = data.url;
+      }
+      notif.remove();
+    });
+
+    setTimeout(() => notif.remove(), 8000);
+  });
+
+  // Expose subscribe function globally
+  window.fcmSubscribe = subscribeToNotifications;
+  window.fcmShowPrompt = showSubscribePrompt;
+
+  console.log('[FCM] Initialization complete');
+</script>
+
+<!-- Optional: Subscribe button for manual trigger -->
+<style>
+  .fcm-subscribe-btn {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 50px;
+    height: 50px;
+    background: #007bff;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 24px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+    z-index: 9999;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: transform 0.2s, background 0.2s;
+  }
+  .fcm-subscribe-btn:hover {
+    transform: scale(1.1);
+    background: #0056b3;
+  }
+  .fcm-subscribe-btn.subscribed {
+    background: #28a745;
+  }
+</style>
+
+<script>
+  // Add subscribe button after DOM loads
+  document.addEventListener('DOMContentLoaded', function() {
+    // Only show button if not subscribed
+    if (localStorage.getItem('fcm_marigold_subscribed') !== 'true') {
+      const btn = document.createElement('button');
+      btn.className = 'fcm-subscribe-btn';
+      btn.innerHTML = '🔔';
+      btn.title = 'Přihlásit se k odběru notifikací';
+      btn.onclick = function() {
+        if (typeof window.fcmSubscribe === 'function') {
+          window.fcmSubscribe();
+        } else {
+          window.fcmShowPrompt();
+        }
+      };
+      document.body.appendChild(btn);
     }
   });
 </script>
@@ -591,11 +818,10 @@ window.SZN.DiscussionLoader.load(["embedded"]).then(() => {
           
             <tr>
               <td>
-                <a href="/item/zakon_o_statni_sluzbe/">👉Kolaps Česka, úředníci a služební zákon</a>
+                <a href="/item/negativni-efekty-modernich-technologii-pripad-big-data-baracka-obamy-a-obamacare/">👉Negativní efekty moderních technologií -  případ Big Data, Baracka Obamy a Obamacare</a>
                 <p class="excerpt">
                   
-                    ---
-Proč kolabuje Česko? Důvodů je mnoho, ale asi nejzásadnější příčinou je Zákon o státní službě i nedostatečné odměňování úředníků! Sebelepší politici kvůl...
+                    Moderní technologie přinášejí zlepšení do našich životů a vnímat je jakkoliv jinak je zpátečnické. Před pokrokem se nelze schovat. Tolik obecná proklamace. J...
                   
                 </p>
               </td>
@@ -603,12 +829,10 @@ Proč kolabuje Česko? Důvodů je mnoho, ale asi nejzásadnější příčinou 
           
             <tr>
               <td>
-                <a href="/item/statni-postnarodnostni-celky-v-dobe-digitalni-etnicity/">👉Státní postnárodnostní celky v době digitální etnicity</a>
+                <a href="/item/stiglitz_konec_neoliberalismu/">👉Joseph Stiglitz - Konec neoliberalismu a znovuzrozen\xED d\u011Bjin</a>
                 <p class="excerpt">
                   
-                    Je to sice povídka, ale také příspěvek k tématu, jak bude vypadat náš svět. Brzy. 
-
-Navyklým pohybem odpojil vir a podíval se do stropu. Takhle bez projekce ...
+                    Stále častěji se setkávám s vysvětlením, že dnešní nechuť voličů hlasovat pro tradiční politické strany a příklon ke stranám antisystémovým, je dílem neznalo...
                   
                 </p>
               </td>
