@@ -1,29 +1,109 @@
 {
-  "generated": "2025-12-27T04:46:40.233046+00:00",
-  "count": 181,
+  "generated": "2025-12-27T08:35:55.259106+00:00",
+  "count": 185,
   "articles": [
     {
-      "title": "SoftBank vede japonský projekt na paměti nové generace pro AI",
-      "description": "SoftBank a japonské partnery posouvají vládně podporovaný projekt na vývoj pokročilých pamětí pro zlepšení výkonu umělé inteligence a superpočítačů. Do iniciativy se zapojují RIKEN, Intel, Univerzita v Tokiu a tchajwanská Vanguard International Semiconductor.",
-      "slug": "softbank-spearheads-japans-next-gen-ai-memory-push",
-      "publishedAt": "2025-12-26T04:07:55+00:00",
-      "date": "2025-12-26 04:07:55",
+      "title": "Spektakulární pokroky směrem k užitečným kvantovým počítačům",
+      "description": "Na konferenci Q2B Silicon Valley lídři kvantového průmyslu ocenili 'spektakulární' pokroky směrem k praktickým zařízením, ale zdůraznili, že výzvy přetrvávají. Experti jako Joe Altepeter z DARPA a Scott Aaronson vidí reálnou šanci na industriálně užitečné kvantové počítače.",
+      "slug": "spectacular-progress-has-been-made-towards-useful-",
+      "publishedAt": "2025-12-26T08:00:07+00:00",
+      "date": "2025-12-26 08:00:07",
+      "importance": 5,
+      "category": "kvantové počítače",
+      "urlToImage": "https://images.newscientist.com/wp-content/uploads/2025/12/19135618/SEI_278480023.jpg",
+      "url": "/tech-news/2025-12-26/spectacular-progress-has-been-made-towards-useful/",
+      "source": {
+        "emoji": "📰",
+        "id": "new-scientist",
+        "name": "New Scientist"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Stovky miliard v hře? Šéf Microsoft AI Mustafa Suleyman bije na poplach kvůli zůstání v soutěži o umělou inteligenci v příštích pěti až deseti letech",
+      "description": "Mustafa Suleyman, šéf divize Microsoft AI, uvedl, že firmy budou muset investovat stovky miliard dolarů, aby vedly závod v umělé inteligenci. Konkurence na špičce AI bude vyžadovat obrovské výdaje na infrastrukturu, hardware a specialisty.",
+      "slug": "hundreds-of-billions-at-stake-microsoft-ai-ceo-mus",
+      "publishedAt": "2025-12-26T07:52:44+00:00",
+      "date": "2025-12-26 07:52:44",
       "importance": 4,
-      "category": "hardware",
-      "urlToImage": "https://img.digitimes.com/newsshow/20251226pd232_files/1_b.jpg",
-      "url": "/tech-news/2025-12-26/softbank-spearheads-japans-next-gen-ai-memory-push/",
+      "category": "umělá inteligence",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126186142,width-1200,height-630,imgsize-713465,overlay-economictimes/articleshow.jpg",
+      "url": "/tech-news/2025-12-26/hundreds-of-billions-at-stake-microsoft-ai-ceo-mus/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Microsoft"
+      ],
+      "people": [
+        "Mustafa Suleyman"
+      ]
+    },
+    {
+      "title": "Zakladatel čipového startupu Groq Jonathan Ross udělá u Nvidia 'incredible things': CEO Social Capital Chamath Palihapitiya",
+      "description": "Čipový gigant Nvidia získal aktiva a talenty z AI startupu Groq za 20 miliard dolarů. Tato největší akvizice v historii Nvidia přináší specializovanou technologii inference čipů a zakladatele Jonathana Rossa do týmu Nvidia, zatímco Groq pokračuje v provozu svého cloudového businessu samostatně.",
+      "slug": "chip-startup-groqs-jonathan-ross-will-do-incredibl",
+      "publishedAt": "2025-12-26T06:22:12+00:00",
+      "date": "2025-12-26 06:22:12",
+      "importance": 5,
+      "category": "ai čipy",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-71406,resizemode-75,msid-126184361/tech/technology/chip-startup-groqs-jonathan-ross-will-do-incredible-things-at-nvidia-social-capital-ceo-chamath-palihapitiya.jpg",
+      "url": "/tech-news/2025-12-26/chip-startup-groqs-jonathan-ross-will-do-incredibl/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Groq",
+        "Nvidia"
+      ],
+      "people": [
+        "Jonathan Ross",
+        "Chamath Palihapitiya"
+      ]
+    },
+    {
+      "title": "Licenční dohoda Nvidia za 20 miliard dolarů s Groq míří na dominanci Google v AI čipech",
+      "description": "Nvidia investuje 20 miliard dolarů do licencování AI technologie od společnosti Groq a najímání jejího vedení. Tento krok slouží k posílení pozice proti rostoucímu vlivu Google v hardwaru pro AI inference a je strukturován jako licenční smlouva, aby se minimalizovalo antitrustové riziko.",
+      "slug": "nvidias-20-billion-licensing-deal-for-groq-targets",
+      "publishedAt": "2025-12-26T06:00:00+00:00",
+      "date": "2025-12-26 06:00:00",
+      "importance": 5,
+      "category": "ai čipy",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/12/Nvidia-Building-Logo.jpg",
+      "url": "/tech-news/2025-12-26/nvidias-20-billion-licensing-deal-for-groq-targets/",
       "source": {
         "emoji": "📰",
         "id": null,
-        "name": "Digitimes"
+        "name": "Naturalnews.com"
       },
       "companies": [
-        "SoftBank",
-        "RIKEN",
-        "Intel",
-        "University of Tokyo",
-        "Vanguard"
+        "Nvidia",
+        "Groq",
+        "Google"
       ],
+      "people": []
+    },
+    {
+      "title": "Čína uskutečnila první let opakovaně použitelné rakety Long March 12A v Jiuquan",
+      "description": "Čína provedla debutový let nosné rakety Long March 12A, při kterém se start podařil a druhý stupeň dosáhl předepsané orbity, avšak pokus o zotavení prvního stupně selhal. Raketa, vysoká 70,4 metru, je největší kosmickou nosičkou, kterou Čína dosud postavila.",
+      "slug": "china-debuts-long-march-12a-reusable-rocket-in-jiu",
+      "publishedAt": "2025-12-26T04:40:00+00:00",
+      "date": "2025-12-26 04:40:00",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://www.spxdaily.com/images-hg/china-long-march-12a-debut-launch-day-hg.jpg",
+      "url": "/tech-news/2025-12-26/china-debuts-long-march-12a-reusable-rocket-in-jiu/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Space Daily"
+      },
+      "companies": [],
       "people": []
     },
     {
