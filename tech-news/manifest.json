@@ -1,7 +1,92 @@
 {
-  "generated": "2025-12-27T16:39:33.517416+00:00",
-  "count": 195,
+  "generated": "2025-12-27T20:32:03.115946+00:00",
+  "count": 199,
   "articles": [
+    {
+      "title": "Dohoda Nvidia-Groq je strukturována tak, aby udržela 'fikci konkurence naživu', říká analytik",
+      "description": "Popis Groq své dohody s Nvidia jako 'nevýlučné licenční dohody' napodobuje jiné nedávné velké AI transakce řízené americkými technologickými giganty.",
+      "slug": "nvidia-groq-deal-is-structured-to-keep-fiction-of-",
+      "publishedAt": "2025-12-26T19:31:39+00:00",
+      "date": "2025-12-26 19:31:39",
+      "importance": 5,
+      "category": "ai",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108228463-1763575188806-gettyimages-2246892118-AFP_84JG4H7.jpeg?v=1766774718&w=1920&h=1080",
+      "url": "/tech-news/2025-12-26/nvidia-groq-deal-is-structured-to-keep-fiction-of/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [
+        "Nvidia",
+        "Groq"
+      ],
+      "people": []
+    },
+    {
+      "title": "Akcie blízko rekordů, Nvidia roste díky dohodě o licencování s AI startupem Groq",
+      "description": "Americké akcie se v tenkém svátečním obchodování pohybovaly nedaleko rekordního maxima, zatímco výnosy desetiletých státních dluhopisů stouply a investoři se zaměřili na komodity. Nvidia posílila po pozitivní reakci analytiků na licencovní dohodu s umělou inteligencí startupem Groq.",
+      "slug": "stocks-hover-near-record-as-nvidia-gains-on-ai-lic",
+      "publishedAt": "2025-12-26T18:00:55+00:00",
+      "date": "2025-12-26 18:00:55",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/12/776387135.jpg",
+      "url": "/tech-news/2025-12-26/stocks-hover-near-record-as-nvidia-gains-on-ai-lic/",
+      "source": {
+        "emoji": "📰",
+        "id": "financial-post",
+        "name": "Financial Post"
+      },
+      "companies": [
+        "Nvidia",
+        "Groq"
+      ],
+      "people": []
+    },
+    {
+      "title": "Čína uvolňuje pravidla pro úvod na burzu firem vyvíjejících opakovaně použitelné rakety",
+      "description": "Šanghajská burza umožní firmám vyvíjejícím opakovaně použitelné komerční rakety rychlejší úvod na STAR market bez některých finančních požadavků. Tento krok má pomoci Číně snížit náskok USA a SpaceX v technologii návratu a opětovného použití prvního stupně rakety.",
+      "slug": "china-eases-ipo-rules-for-firms-developing-reusabl",
+      "publishedAt": "2025-12-26T17:14:12+00:00",
+      "date": "2025-12-26 17:14:12",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108245896-17667685492025-12-24t144922z_119543610_rc2y8iatp2od_rtrmadp_0_space-china-landspace.jpeg?v=1766768568&w=1920&h=1080",
+      "url": "/tech-news/2025-12-26/china-eases-ipo-rules-for-firms-developing-reusabl/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [
+        "SpaceX"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Nvidia licencuje technologii od AI hardware startupu Groq",
+      "description": "Společnost Nvidia uzavírá licenční dohodu s firmou Groq, která vyvíjí specializované čipy pro umělou inteligenci. Tento krok umožní Nvidii přístup k pokročilé technologii pro zpracování AI modelů.",
+      "slug": "midday-fly-by-nvidia-licensing-technology-from-ai-",
+      "publishedAt": "2025-12-26T17:07:49+00:00",
+      "date": "2025-12-26 17:07:49",
+      "importance": 4,
+      "category": "ai hardware",
+      "urlToImage": "https://image.thefly.com/catalog/202112/img_1285.jpg",
+      "url": "/tech-news/2025-12-26/midday-fly-by-nvidia-licensing-technology-from-ai/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Thefly.com"
+      },
+      "companies": [
+        "Nvidia",
+        "Groq"
+      ],
+      "people": []
+    },
     {
       "title": "Nvidia získává technologii a talenty od výrobce čipů pro inference Groq",
       "description": "Nvidia potvrdila, že uzavřela neexkluzivní licenční smlouvu na duševní vlastnictví inference technologie od Groq a najala si inženýry z jejího týmu. Groq zůstane nezávislou společností s novým generálním ředitelem.",
