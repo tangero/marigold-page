@@ -1,7 +1,95 @@
 {
-  "generated": "2025-12-27T01:14:26.610265+00:00",
-  "count": 177,
+  "generated": "2025-12-27T04:46:40.233046+00:00",
+  "count": 181,
   "articles": [
+    {
+      "title": "SoftBank vede japonský projekt na paměti nové generace pro AI",
+      "description": "SoftBank a japonské partnery posouvají vládně podporovaný projekt na vývoj pokročilých pamětí pro zlepšení výkonu umělé inteligence a superpočítačů. Do iniciativy se zapojují RIKEN, Intel, Univerzita v Tokiu a tchajwanská Vanguard International Semiconductor.",
+      "slug": "softbank-spearheads-japans-next-gen-ai-memory-push",
+      "publishedAt": "2025-12-26T04:07:55+00:00",
+      "date": "2025-12-26 04:07:55",
+      "importance": 4,
+      "category": "hardware",
+      "urlToImage": "https://img.digitimes.com/newsshow/20251226pd232_files/1_b.jpg",
+      "url": "/tech-news/2025-12-26/softbank-spearheads-japans-next-gen-ai-memory-push/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [
+        "SoftBank",
+        "RIKEN",
+        "Intel",
+        "University of Tokyo",
+        "Vanguard"
+      ],
+      "people": []
+    },
+    {
+      "title": "GORDON CHANG: Trump předává 21. století Číně, zrušil Bidenovo embargo na prodej pokročilých čipů",
+      "description": "Trumpovo rozhodnutí tento měsíc zrušit Bidenovo embargo na export pokročilých čipů do Číny a schválit prodej H200 je podle Gordona Changa závažnou chybou, která posílí čínskou konkurenci v AI.",
+      "slug": "gordon-chang-trump-hands-21st-century-to-china-rev",
+      "publishedAt": "2025-12-26T03:42:51+00:00",
+      "date": "2025-12-26 03:42:51",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2025/12/GettyImages-2243544195-1-scaled-e1766502227714.jpg",
+      "url": "/tech-news/2025-12-26/gordon-chang-trump-hands-21st-century-to-china-rev/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Daily Caller"
+      },
+      "companies": [],
+      "people": [
+        "Gordon Chang",
+        "Donald Trump",
+        "Joe Biden"
+      ]
+    },
+    {
+      "title": "Coforge jedná o akvizici přes 1 miliardu dolarů; rada rozhodne o získání financí",
+      "description": "Navrhovaná akvizice by měla posílit schopnosti Coforge v oblasti cloudových služeb, práce s daty a vývoje produktů a zároveň rozšířit přítomnost firmy na klíčových zahraničních trzích.",
+      "slug": "coforge-in-talks-for-1-bn-plus-acquisition-board-t",
+      "publishedAt": "2025-12-26T03:05:15+00:00",
+      "date": "2025-12-26 03:05:15",
+      "importance": 5,
+      "category": "it akvizice",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2025/03/20250327081948_Coforge.png",
+      "url": "/tech-news/2025-12-26/coforge-in-talks-for-1-bn-plus-acquisition-board-t/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Moneycontrol"
+      },
+      "companies": [
+        "Coforge"
+      ],
+      "people": []
+    },
+    {
+      "title": "Elon Musk: Překonávání smrti pomocí AI a čipů",
+      "description": "Objevte vizi Elona Muska na překonání smrti nahráváním vědomí. Zjistěte, jak AI a čipy Neuralink cílí na digitální nesmrtelnost.",
+      "slug": "elon-musk-conquering-death-with-ai-and-chips",
+      "publishedAt": "2025-12-26T01:06:46+00:00",
+      "date": "2025-12-26 01:06:46",
+      "importance": 4,
+      "category": "transhumanismus",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2024/08/18083906/AFP__20240817__36EE3UP__v1__Mockup__FilesUsBrazilInternetMedia-1200x630.jpg",
+      "url": "/tech-news/2025-12-26/elon-musk-conquering-death-with-ai-and-chips/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Punch"
+      },
+      "companies": [
+        "Neuralink"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
     {
       "title": "Texaský developer navrhuje recyklované jaderné reaktory námořnictva USA jako zdroj energie pro AI infrastrukturu",
       "description": "Texaská firma HGP Intelligent Energy LLC žádá o státní půjčku na projekt, který by použil vyřazené jaderné reaktory z amerických letadlových lodí a ponorek pro napájení datových center určených pro umělou inteligenci. Reaktory by měly poskytnout stabilní výkon kolem 450 až 520 megawattů u Oak Ridge National Laboratory v Tennessee.",
