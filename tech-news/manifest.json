@@ -1,7 +1,125 @@
 {
-  "generated": "2025-12-27T12:44:07.052414+00:00",
-  "count": 189,
+  "generated": "2025-12-27T16:39:33.517416+00:00",
+  "count": 195,
   "articles": [
+    {
+      "title": "Nvidia získává technologii a talenty od výrobce čipů pro inference Groq",
+      "description": "Nvidia potvrdila, že uzavřela neexkluzivní licenční smlouvu na duševní vlastnictví inference technologie od Groq a najala si inženýry z jejího týmu. Groq zůstane nezávislou společností s novým generálním ředitelem.",
+      "slug": "nvidia-acquires-tech-and-talent-from-inference-chi",
+      "publishedAt": "2025-12-26T15:40:27+00:00",
+      "date": "2025-12-26 15:40:27",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2023/12/Nvidia.jpg",
+      "url": "/tech-news/2025-12-26/nvidia-acquires-tech-and-talent-from-inference-chi/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [
+        "Nvidia",
+        "Groq"
+      ],
+      "people": []
+    },
+    {
+      "title": "Tento malý čip by mohl změnit budoucnost kvantových počítačů",
+      "description": "Nové zařízení velikosti mikročipu umožňuje přesné ovládání frekvencí laserů s nízkou spotřebou energie oproti současným objemným systémům. Je vyrobeno standardními metodami výroby čipů, což usnadňuje masovou produkci a otevírá cestu k větším kvantovým počítačům.",
+      "slug": "this-tiny-chip-could-change-the-future-of-quantum-",
+      "publishedAt": "2025-12-26T15:38:10+00:00",
+      "date": "2025-12-26 15:38:10",
+      "importance": 5,
+      "category": "kvantové počítače",
+      "urlToImage": "https://www.sciencedaily.com/images/1920/quantum-computing-optical-fiber-array.webp",
+      "url": "/tech-news/2025-12-26/this-tiny-chip-could-change-the-future-of-quantum/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Science Daily"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "LG Energy Solution prodá továrnu na baterie v Ohiu společnosti Honda za 2,85 miliardy dolarů",
+      "description": "Jižní Korejská LG Energy Solution souhlasila s prodejem budovy a pevných aktiv své továrny na baterie pro elektromobily v Ohiu společnosti Honda Development and Manufacturing of America za 4,22 bilionu jihokorejských wonů, což odpovídá 2,85 miliardám amerických dolarů. Transakce byla oznámena v firemních zprávách.",
+      "slug": "lg-energy-solution-to-sell-ohio-battery-facility-t",
+      "publishedAt": "2025-12-26T15:30:00+00:00",
+      "date": "2025-12-26 15:30:00",
+      "importance": 5,
+      "category": "elektromobilita",
+      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/news/718x300/2025-12-26_ar5tm3m4bi.jpg",
+      "url": "/tech-news/2025-12-26/lg-energy-solution-to-sell-ohio-battery-facility-t/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "OilPrice.com"
+      },
+      "companies": [
+        "LG Energy Solution",
+        "Honda"
+      ],
+      "people": []
+    },
+    {
+      "title": "Motive podává žádost na IPO, což signalizuje další fázi soutěže v technologiích pro flotily",
+      "description": "Poskytovatel flotilní telematiky Motive podal dokumenty k vstupu na burzu, což by mohlo zesílit konkurenci na trhu technologí pro nákladní dopravu. Tento krok podtrhuje rostoucí roli softwaru jako klíčové infrastruktury pro dopravce čelící úzkým maržím a regulačním tlakům.",
+      "slug": "motive-files-for-ipo-signaling-next-phase-of-fleet",
+      "publishedAt": "2025-12-26T15:21:02+00:00",
+      "date": "2025-12-26 15:21:02",
+      "importance": 4,
+      "category": "flotilní telematika",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/116zdBF.ShYSnORCR8QZAw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzQ-/https://media.zenfs.com/en/freightwaves_373/ac2b49d20a83ecfa1a731862ca969e41",
+      "url": "/tech-news/2025-12-26/motive-files-for-ipo-signaling-next-phase-of-fleet/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "Motive"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nvidia plánuje zahájit dodávky výkonných H200 AI čipů do Číny do poloviny února",
+      "description": "Nvidia chce spustit dodávky svých druhých nejvýkonnějších AI čipů H200 do Číny před lunárním novým rokem v polovině února, uvedly zdroje obeznámené se situací. Tato dodávka představuje změnu v americké politice po uvolnění omezení ze strany administrativy Donalda Trumpa.",
+      "slug": "nvidia-plans-to-begin-shipping-powerful-h200-ai-ch",
+      "publishedAt": "2025-12-26T15:00:01+00:00",
+      "date": "2025-12-26 15:00:01",
+      "importance": 4,
+      "category": "ai hardware",
+      "urlToImage": "https://media.breitbart.com/media/2025/12/Jensen-Huang-of-Nvidia-holding-chips-bound-for-China-640x335.jpg",
+      "url": "/tech-news/2025-12-26/nvidia-plans-to-begin-shipping-powerful-h200-ai-ch/",
+      "source": {
+        "emoji": "📰",
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Jak čínská kontrola nad dodavatelskými řetězci baterií představuje kritické riziko pro americkou vojenskou sílu a projekty AI – snížení závislosti potrvá téměř dekádu",
+      "description": "Podle speciální zprávy New York Times je americká vláda znepokojená čínskou dominancí v ekosystému baterií, kde kontroluje velké části výroby a zpracování. Tato závislost ohrožuje AI tréninkové clustery, datacentra, drony i vojenská vozidla.",
+      "slug": "how-chinas-control-of-battery-supply-chains-is-bec",
+      "publishedAt": "2025-12-26T14:39:02+00:00",
+      "date": "2025-12-26 14:39:02",
+      "importance": 4,
+      "category": "dodavatelské řetězce",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/UdAsVitvHGrQrh5KwxDEy3-1920-80.png",
+      "url": "/tech-news/2025-12-26/how-chinas-control-of-battery-supply-chains-is-bec/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Od OpenAI po Nvidia: Firmy nalévají miliardy do infrastruktury pro umělou inteligenci při boomu poptávky",
       "description": "Nvidia uzavřela dohodu o licencování technologie od AI startupu Groq pro použití v některých svých čipech pro umělou inteligenci, což je největší deal tohoto výrobce čipů a podtrhuje snahu posílit konkurenceschopnost v době rostoucí poptávky.",
