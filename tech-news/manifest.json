@@ -1,7 +1,94 @@
 {
-  "generated": "2025-12-27T08:35:55.259106+00:00",
-  "count": 185,
+  "generated": "2025-12-27T12:44:07.052414+00:00",
+  "count": 189,
   "articles": [
+    {
+      "title": "Od OpenAI po Nvidia: Firmy nalévají miliardy do infrastruktury pro umělou inteligenci při boomu poptávky",
+      "description": "Nvidia uzavřela dohodu o licencování technologie od AI startupu Groq pro použití v některých svých čipech pro umělou inteligenci, což je největší deal tohoto výrobce čipů a podtrhuje snahu posílit konkurenceschopnost v době rostoucí poptávky.",
+      "slug": "from-openai-to-nvidia-firms-channel-billions-into-",
+      "publishedAt": "2025-12-26T11:43:38+00:00",
+      "date": "2025-12-26 11:43:38",
+      "importance": 4,
+      "category": "ai infrastruktura",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-65846,resizemode-75,msid-126189709/tech/artificial-intelligence/from-openai-to-nvidia-firms-channel-billions-into-ai-infrastructure-as-demand-booms.jpg",
+      "url": "/tech-news/2025-12-26/from-openai-to-nvidia-firms-channel-billions-into/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "OpenAI",
+        "Nvidia",
+        "Groq"
+      ],
+      "people": []
+    },
+    {
+      "title": "Šéf Tesly Elon Musk tvrdí, že AI a robotika jsou 'jediný způsob', jak udělat všechny bohaté",
+      "description": "Elon Musk slibuje, že AI a robotika udělají všechny bohaté a práci volitelnou. Mluvy v Dubaji, Tesla Optimus a rizika vize univerzální hojnosti prozkoumány.",
+      "slug": "tesla-ceo-elon-musk-claims-ai-and-robotics-are-onl",
+      "publishedAt": "2025-12-26T11:21:37+00:00",
+      "date": "2025-12-26 11:21:37",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://d.ibtimes.com/en/full/4636762/elon-musk-claims-trans-son-has-tragic-mental-illness.png",
+      "url": "/tech-news/2025-12-26/tesla-ceo-elon-musk-claims-ai-and-robotics-are-onl/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "International Business Times"
+      },
+      "companies": [
+        "Tesla"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Jak 'strach a hrozba od Google' donutila Nvidia utratit 20 miliard dolarů",
+      "description": "Nvidia získala aktiva startupu Groq na AI čipy za 20 miliard dolarů, což je obranný tah proti rostoucímu trendu používání vlastních čipů jako Google TPUs. Akvizice reaguje na nedostatek GPU a touhu firem po levnějším a rychlejším zpracování AI úloh.",
+      "slug": "how-google-fear-and-threat-just-made-nvidia-just-s",
+      "publishedAt": "2025-12-26T10:45:44+00:00",
+      "date": "2025-12-26 10:45:44",
+      "importance": 5,
+      "category": "ai čipy",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-126188783,width-1070,height-580,imgsize-1254951,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+      "url": "/tech-news/2025-12-26/how-google-fear-and-threat-just-made-nvidia-just-s/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Nvidia",
+        "Groq",
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "ServiceNow podepisuje dohodu o akvizici Armis za 7,75 miliardy dolarů",
+      "description": "Akvizice přidává nástroje Armis pro správu kyberfyzikálních aktiv a rizik do platformy ServiceNow zaměřené na bezpečnost a provoz řízený umělou inteligencí. Tento krok posiluje schopnosti v oblasti proaktivní kyberbezpečnosti pro firmy, vlády a kritickou infrastrukturu.",
+      "slug": "servicenow-signs-agreement-to-acquire-armis-for-77",
+      "publishedAt": "2025-12-26T10:22:48+00:00",
+      "date": "2025-12-26 10:22:48",
+      "importance": 5,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/PAPd8Y8bn192QwptFmIOnQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/verdict_626/cc5613e4051b98d7f20e3cb5f2df3882",
+      "url": "/tech-news/2025-12-26/servicenow-signs-agreement-to-acquire-armis-for-77/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Verdict"
+      },
+      "companies": [
+        "ServiceNow",
+        "Armis"
+      ],
+      "people": []
+    },
     {
       "title": "Spektakulární pokroky směrem k užitečným kvantovým počítačům",
       "description": "Na konferenci Q2B Silicon Valley lídři kvantového průmyslu ocenili 'spektakulární' pokroky směrem k praktickým zařízením, ale zdůraznili, že výzvy přetrvávají. Experti jako Joe Altepeter z DARPA a Scott Aaronson vidí reálnou šanci na industriálně užitečné kvantové počítače.",
