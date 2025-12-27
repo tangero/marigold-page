@@ -1,7 +1,86 @@
 {
-  "generated": "2025-12-26T20:38:23.955105+00:00",
-  "count": 173,
+  "generated": "2025-12-27T01:14:26.610265+00:00",
+  "count": 177,
   "articles": [
+    {
+      "title": "Texaský developer navrhuje recyklované jaderné reaktory námořnictva USA jako zdroj energie pro AI infrastrukturu",
+      "description": "Texaská firma HGP Intelligent Energy LLC žádá o státní půjčku na projekt, který by použil vyřazené jaderné reaktory z amerických letadlových lodí a ponorek pro napájení datových center určených pro umělou inteligenci. Reaktory by měly poskytnout stabilní výkon kolem 450 až 520 megawattů u Oak Ridge National Laboratory v Tennessee.",
+      "slug": "texas-developer-pitches-recycled-navy-nuclear-reac",
+      "publishedAt": "2025-12-25T23:26:30+00:00",
+      "date": "2025-12-25 23:26:30",
+      "importance": 4,
+      "category": "jaderná energetika",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/navynuclearaidata.png",
+      "url": "/tech-news/2025-12-25/texas-developer-pitches-recycled-navy-nuclear-reac/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Nvidia uskutečňuje největší akvizici v historii dohodou s Groq",
+      "description": "Nvidia kupuje aktiva AI čipového startupu Groq za přibližně 20 miliard dolarů, což je její největší obchod dosud. Dohoda zahrnuje licenci na technologii Groq a najmutí klíčových manažerů.",
+      "slug": "nvidia-makes-its-largest-ever-purchase-with-groq-a",
+      "publishedAt": "2025-12-25T22:52:37+00:00",
+      "date": "2025-12-25 22:52:37",
+      "importance": 5,
+      "category": "ai",
+      "urlToImage": null,
+      "url": "/tech-news/2025-12-25/nvidia-makes-its-largest-ever-purchase-with-groq-a/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "companies": [
+        "Nvidia",
+        "Groq"
+      ],
+      "people": []
+    },
+    {
+      "title": "Kritická zranitelnost ‚LangGrinch‘ v langchain-core ohrožuje tajemství AI agentů",
+      "description": "Společnost Cyata Security Ltd., startup zaměřený na bezpečnost umělé inteligence, zveřejnila zprávu o kritické zranitelnosti CVE-2025-68664 v knihovně langchain-core, která je základem pro agenty založené na frameworku LangChain. Tato chyba s hodnocením CVSS 9.3 umožňuje útočníkům odcizovat citlivá data a v určitých podmínkách i spustit vzdálený kód.",
+      "slug": "critical-langgrinch-vulnerability-in-langchain-cor",
+      "publishedAt": "2025-12-25T22:41:14+00:00",
+      "date": "2025-12-25 22:41:14",
+      "importance": 5,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/langgrinch.png",
+      "url": "/tech-news/2025-12-25/critical-langgrinch-vulnerability-in-langchain-cor/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Cyata Security Ltd"
+      ],
+      "people": []
+    },
+    {
+      "title": "Dystopické timelapse video z San Francisca odhaluje, co dělají autonomní vozy Waymo v noci",
+      "description": "Fotograf v San Franciscu natočil timelapse video autonomních vozů Waymo během noci, kdy čekají na další jízdy. Místo návratu do garáží cirkulují městem nebo parkují na veřejných místech, což vytváří dystopický vzhled.",
+      "slug": "dystopian-san-francisco-timelapse-video-reveals-wh",
+      "publishedAt": "2025-12-25T20:31:03+00:00",
+      "date": "2025-12-25 20:31:03",
+      "importance": 4,
+      "category": "autonomní vozy",
+      "urlToImage": "https://brobible.com/wp-content/uploads/2025/12/waymo-where-do-they-go-at-night-how-do-they-drive-timelapse-video.jpg",
+      "url": "/tech-news/2025-12-25/dystopian-san-francisco-timelapse-video-reveals-wh/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BroBible"
+      },
+      "companies": [
+        "Waymo"
+      ],
+      "people": []
+    },
     {
       "title": "Čína uzavře mezeru v polovodičích po průlomu v EUV litografii",
       "description": "Čína vyvinula prototyp EUV lithografického stroje v uzavřené laboratoři v Shenzhen v rámci rozsáhlého státního projektu připomínajícího Manhattan Project. Prototyp byl dokončen na začátku roku 2025, zabírá celou tovární halu a nyní prochází testy s cílem produkce čipů do roku 2028.",
