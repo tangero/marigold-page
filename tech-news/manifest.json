@@ -1,21 +1,46 @@
 {
-  "generated": "2025-12-28T04:57:22.103985+00:00",
+  "generated": "2025-12-28T08:38:09.239555+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "Jak AI společnosti půjčují miliardy, dluhoví investoři se stávají opatrnými",
-      "description": "Akciové trhy zůstávají optimistické ohledně umělé inteligence, dluhoví investoři jsou však mnohem opatrnější. Nové a menší AI firmy platí vysoké úrokové sazby na půjčky, což ukazuje na skepticismus investorů vůči nepotvrzeným AI podnikům s velkými dluhy.",
-      "slug": "as-ai-companies-borrow-billions-debt-investors-gro",
-      "publishedAt": "2025-12-27T04:17:28+00:00",
-      "date": "2025-12-27 04:17:28",
+      "title": "Nvidia posiluje dominanci v AI strategickou akvizicí talentů z Groq a licenční dohodou",
+      "description": "Nvidia uzavřela neexkluzivní licenční dohodu s AI startupem Groq a najala jeho zakladatele Jonathana Rossa, CEO Sunnyho Madru a seniorní inženýry. Groq si zachovává nezávislost pod novým CEO Simonem Edwardsem, přičemž platforma GroqCloud zůstává nedotčená.",
+      "slug": "nvidia-strengthens-ai-dominance-with-strategic-gro",
+      "publishedAt": "2025-12-27T06:00:00+00:00",
+      "date": "2025-12-27 06:00:00",
       "importance": 4,
-      "category": "financování ai",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-50672,resizemode-75,msid-126199471/tech/artificial-intelligence/as-ai-companies-borrow-billions-debt-investors-grow-wary.jpg",
-      "url": "/tech-news/2025-12-27/as-ai-companies-borrow-billions-debt-investors-gro/",
+      "category": "ai",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/12/Nvidia-Logo-Sign.jpg",
+      "url": "/tech-news/2025-12-27/nvidia-strengthens-ai-dominance-with-strategic-gro/",
       "source": {
         "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "companies": [
+        "Nvidia",
+        "Groq"
+      ],
+      "people": [
+        "Jonathan Ross",
+        "Sunny Madra",
+        "Simon Edwards"
+      ]
+    },
+    {
+      "title": "11-kubitový atomový procesor v křemíku s fidelitami od 99,10 % do 99,99 %",
+      "description": "Výzkumníci vyvinuli 11-kubitový kvantový procesor na bázi jednotlivých atomů v křemíku, který dosahuje fidelití kvantových branek v rozmezí od 99,10 % do 99,99 %. Tento výkon představuje klíčový pokrok v křemíkových kvantových technologiích směrem k škálovatelným systémům.",
+      "slug": "an-11-qubit-atom-processor-in-silicon-with-all-fid",
+      "publishedAt": "2025-12-27T05:47:01+00:00",
+      "date": "2025-12-27 05:47:01",
+      "importance": 5,
+      "category": "kvantové počítače",
+      "urlToImage": null,
+      "url": "/tech-news/2025-12-27/an-11-qubit-atom-processor-in-silicon-with-all-fid/",
+      "source": {
+        "emoji": "📰",
+        "id": "hacker-news",
+        "name": "Hacker News"
       },
       "companies": [],
       "people": []
@@ -3942,27 +3967,6 @@
         "Trump Media & Technology Group"
       ],
       "people": []
-    },
-    {
-      "title": "Elon Musk předpovídá, že umělá inteligence udělá peníze zbytečnými, odmítá potřebu spořicích účtů",
-      "description": "Elon Musk považuje tradiční spořicí účty, včetně tzv. Trump Accounts, za zbytečné a předpovídá, že AI a robotika vytvoří ekonomiku post-scarcity, kde finanční plánování přestane mít smysl. Podle něj automatizace zajistí široce rozšířené bohatství a nahradí univerzální základní příjem tzv. univerzálním vysokým příjmem.",
-      "slug": "elon-musk-predicts-ai-will-make-money-obsolete-dis",
-      "publishedAt": "2025-12-20T06:00:00+00:00",
-      "date": "2025-12-20 06:00:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/12/Elon-Musk-White-House.jpg",
-      "url": "/tech-news/2025-12-20/elon-musk-predicts-ai-will-make-money-obsolete-dis/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "companies": [],
-      "people": [
-        "Elon Musk",
-        "Donald Trump"
-      ]
     },
     {
       "title": "Princeton čelí několika soudním žalobám po odhalení kybernetického narušení týkajícího se dat studentů a absolventů",
