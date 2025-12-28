@@ -1,7 +1,162 @@
 {
-  "generated": "2025-12-28T08:38:09.239555+00:00",
+  "generated": "2025-12-28T12:48:34.836953+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Apple vyvíjí DarkDiff AI pro zlepšení fotografií v špatném osvětlení s využitím generativních difúzních modelů",
+      "description": "Společnost Apple představila technologii DarkDiff, která zlepšuje kvalitu fotografií v podmínkách špatného osvětlení integrací generativních difúzních modelů do obrazového signálového procesoru (ISP) kamery. Tato technologie snižuje rozmazání a zvyšuje ostrost snímků přímo v hardwaru zařízení.",
+      "slug": "apple-develops-darkdiff-ai-to-enhance-low-light-ph",
+      "publishedAt": "2025-12-27T12:19:32+00:00",
+      "date": "2025-12-27 12:19:32",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.digitimes.com/newsshow/20251226pd203_files/1_b.jpg",
+      "url": "/tech-news/2025-12-27/apple-develops-darkdiff-ai-to-enhance-low-light-ph/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Kde stojí projekty datových center pro AI v oblasti Ann Arbor na konci roku 2025",
+      "description": "Od kontroverzního zařízení OpenAI v Saline Township po nadcházející rozhodnutí voličů v Augusta Township čelí více komunit tlakům velkých technologických firem na rozvoj infrastruktury pro umělou inteligenci za silného odporu obyvatel.",
+      "slug": "where-ai-data-center-projects-in-the-ann-arbor-are",
+      "publishedAt": "2025-12-27T12:11:26+00:00",
+      "date": "2025-12-27 12:11:26",
+      "importance": 4,
+      "category": "datová centra",
+      "urlToImage": "https://www.mlive.com/resizer/v2/P5SB3PT3FJCPFIHLV24HIXTOUQ.jpg?auth=9d42ffaefeddd75fc1f62ff5bb3144bf68d1b065c32ee420ceda49266185fcd9&width=1280&smart=true&quality=90",
+      "url": "/tech-news/2025-12-27/where-ai-data-center-projects-in-the-ann-arbor-are/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "mlive.com"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Proč umělá inteligence nezměnila náš život v roce 2025",
+      "description": "Rok 2025 měl být rokem, kdy autonomní AI agenti převezmou každodenní úkoly. Technologický průmysl slíbil více, než dokázal dodat.",
+      "slug": "why-ai-didnt-transform-our-lives-in-2025",
+      "publishedAt": "2025-12-27T11:00:00+00:00",
+      "date": "2025-12-27 11:00:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://media.newyorker.com/photos/694979f717a442d99f43a62b/16:9/w_1280,c_limit/NEW-YORKER_AI-NO-TAKOVER_ShiraInbar_Still.png",
+      "url": "/tech-news/2025-12-27/why-ai-didnt-transform-our-lives-in-2025/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The New Yorker"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "IPO postavené na opomenutí: Hithium a standardy zveřejňování na HKEX",
+      "description": "S rostoucí globální soutěží o vedení v umělé inteligenci, mikropočítačích a infrastruktuře chytrých měst se vlády a trhy přehodnocují, co je spolehlivé technologické partnerství.",
+      "slug": "an-ipo-built-on-omission-hithium-and-the-disclosur",
+      "publishedAt": "2025-12-27T10:23:17+00:00",
+      "date": "2025-12-27 10:23:17",
+      "importance": 4,
+      "category": "ipo",
+      "urlToImage": "https://d.ibtimes.com/en/full/4638660/hithium-disclosure-standards-facing-hkex.jpg",
+      "url": "/tech-news/2025-12-27/an-ipo-built-on-omission-hithium-and-the-disclosur/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "International Business Times"
+      },
+      "companies": [
+        "Hithium"
+      ],
+      "people": []
+    },
+    {
+      "title": "Pět nejvýznamnějších událostí v závodě o umělou inteligenci tento rok",
+      "description": "Od investičních bublin po války o talenty byl rok 2025 zlomovým bodem pro budoucnost umělé inteligence.",
+      "slug": "the-top-5-things-that-happened-in-the-ai-race-this",
+      "publishedAt": "2025-12-27T10:17:01+00:00",
+      "date": "2025-12-27 10:17:01",
+      "importance": 5,
+      "category": "ai",
+      "urlToImage": "https://i.insider.com/694a7a9e64858d02d2174d21?width=1200&format=jpeg",
+      "url": "/tech-news/2025-12-27/the-top-5-things-that-happened-in-the-ai-race-this/",
+      "source": {
+        "emoji": "📰",
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Dohoda Nvidia s Groq otřásla Silicon Vallejem. Zde je 5 dalších AI startupů, které se rozpadly v nových dohodách s technologickými giganty",
+      "description": "Tradiční akvizice se staly vzácnějšími. Dohoda Nvidia s Groq připomněla mnoha v technologickém průmyslu známé praktiky pohlcování talentů.",
+      "slug": "nvidias-groq-deal-rattled-silicon-valley-here-are-",
+      "publishedAt": "2025-12-27T10:00:01+00:00",
+      "date": "2025-12-27 10:00:01",
+      "importance": 4,
+      "category": "ai startupy",
+      "urlToImage": "https://i.insider.com/694f138664858d02d21770a3?width=538&format=jpeg",
+      "url": "/tech-news/2025-12-27/nvidias-groq-deal-rattled-silicon-valley-here-are/",
+      "source": {
+        "emoji": "📰",
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "companies": [
+        "Nvidia",
+        "Groq"
+      ],
+      "people": []
+    },
+    {
+      "title": "Průvodce ChatGPT 5.2: Nejlepší využití pro podnikání, výzkum, psaní a další",
+      "description": "ChatGPT 5.2 je nejnovější verze modelu umělé inteligence od OpenAI, která vylepšuje kreativitu, paměť a integraci nástrojů pro profesionální úkoly. Tento průvodce vysvětluje, jak model využít v byznysu, výzkumu a tvorbě obsahu, přičemž zohledňuje i jeho limity jako vyšší cenu a slabší výkon v programování.",
+      "slug": "chatgpt-52-guide-best-uses-for-business-research-w",
+      "publishedAt": "2025-12-27T09:00:09+00:00",
+      "date": "2025-12-27 09:00:09",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/chatgpt-5-2-overview-review_optimized.jpg",
+      "url": "/tech-news/2025-12-27/chatgpt-52-guide-best-uses-for-business-research-w/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Canaccord zůstává optimistický k Tesle (TSLA) navzdory krátkodobému poklesu dodávek",
+      "description": "Tesla (NASDAQ: TSLA) patří mezi akcie spojené s umělou inteligencí, které investoři sledují. Dne 22. prosince Canaccord Genuity zvýšil cenový cíl akcie na 551 USD z 482 USD při zachování doporučení „Koupit“.",
+      "slug": "canaccord-remains-bullish-on-tesla-tsla-despite-ne",
+      "publishedAt": "2025-12-27T07:43:55+00:00",
+      "date": "2025-12-27 07:43:55",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://media.zenfs.com/en/insidermonkey.com/88ff36b867d43de240dd7e19110814bc",
+      "url": "/tech-news/2025-12-27/canaccord-remains-bullish-on-tesla-tsla-despite-ne/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "Tesla"
+      ],
+      "people": []
+    },
     {
       "title": "Nvidia posiluje dominanci v AI strategickou akvizicí talentů z Groq a licenční dohodou",
       "description": "Nvidia uzavřela neexkluzivní licenční dohodu s AI startupem Groq a najala jeho zakladatele Jonathana Rossa, CEO Sunnyho Madru a seniorní inženýry. Groq si zachovává nezávislost pod novým CEO Simonem Edwardsem, přičemž platforma GroqCloud zůstává nedotčená.",
@@ -3708,27 +3863,6 @@
       "people": []
     },
     {
-      "title": "OpenAI a Microsoft žalováni kvůli údajné roli ChatGPT v vraždě-suicidu v Connecticutu",
-      "description": "Žaloba obviňuje ChatGPT z posílení bludů, které vedly k smrtelnému útoku na matku uživatele. OpenAI a Microsoft čelí právnímu sporu ohledně bezpečnosti jejich AI modelu.",
-      "slug": "openai-microsoft-sued-over-chatgpts-alleged-role-i",
-      "publishedAt": "2025-12-20T18:01:02+00:00",
-      "date": "2025-12-20 18:01:02",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/ChatGPT-gID_7.jpg",
-      "url": "/tech-news/2025-12-20/openai-microsoft-sued-over-chatgpts-alleged-role-i/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Decrypt"
-      },
-      "companies": [
-        "OpenAI",
-        "Microsoft"
-      ],
-      "people": []
-    },
-    {
       "title": "Skupina Pro-AI spouští první z řady útokových reklam pro americké volby",
       "description": "Super PAC Pro-AI, financovaná přes 100 miliony dolarů od investorů z Silicon Valley včetně prezidenta OpenAI Grega Brockmana, zahájila kampaň proti kritikům umělé inteligence. Cílem je podpořit kandidáty nakloněné rychlému vývoji AI v midterm volbách 2026.",
       "slug": "pro-ai-group-launches-first-of-many-attack-ads-for",
@@ -3789,26 +3923,6 @@
       "people": []
     },
     {
-      "title": "OpenAI zkoumá dohody s univerzitami, ChatGPT získává převahu v AI na kampusech",
-      "description": "Umělá inteligence překročila hranici na amerických univerzitních kampusech. Z opatrnosti, debat o pravidlech a zákazů se stala součást každodenního akademického života. OpenAI, tvůrce ChatGPT, se stává průkopníkem v této transformaci.",
-      "slug": "openai-explores-college-deals-as-chatgpt-gains-ai-",
-      "publishedAt": "2025-12-20T14:00:17+00:00",
-      "date": "2025-12-20 14:00:17",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://rollingout.com/wp-content/uploads/2025/10/shutterstock_2378605551.jpg",
-      "url": "/tech-news/2025-12-20/openai-explores-college-deals-as-chatgpt-gains-ai/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Rolling Out"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
       "title": "Zabije kvantové počítání Bitcoin?",
       "description": "Tvrdby, že kvantové počítání zničí Bitcoin, mohou být přehnané, ale Bitcoin bude muset být upraven, aby odolal této hrozbě.",
       "slug": "will-quantum-computing-kill-bitcoin",
@@ -3824,127 +3938,6 @@
         "name": "ComputerWeekly.com"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Google riskoval ztrátu dominance – dokud nepovýšil tohoto šéfa AI",
-      "description": "Josh Woodward, veterán Google s 16 lety praxe, vede aplikaci Gemini a střetává se s OpenAI na rozrůstajícím se trhu generativní umělé inteligence.",
-      "slug": "google-was-at-risk-of-losing-its-dominance-until-i",
-      "publishedAt": "2025-12-20T12:00:01+00:00",
-      "date": "2025-12-20 12:00:01",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108239886-1765383718862-gettyimages-2215581084-AFP_47H43ZM.jpeg?v=1765383750&w=1920&h=1080",
-      "url": "/tech-news/2025-12-20/google-was-at-risk-of-losing-its-dominance-until-i/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNBC"
-      },
-      "companies": [
-        "Google",
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Rychle se naučte Google Gemini 3 Pro: Zdarma vs. placené, nástroje pro generování obrázků a videí vysvětleny",
-      "description": "Google Gemini 3 Pro je pokročilá platforma umělé inteligence pro generování obrázků, vytváření videí a hluboký výzkum. Průvodce pomáhá začátečníkům ovládnout rozhraní, klíčové funkce a rozdíly mezi bezplatnou a placenou verzí.",
-      "slug": "learn-google-gemini-3-pro-fast-free-vs-paid-image-",
-      "publishedAt": "2025-12-20T11:00:16+00:00",
-      "date": "2025-12-20 11:00:16",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/gemini-3-pro-template-builder_optimized.jpg",
-      "url": "/tech-news/2025-12-20/learn-google-gemini-3-pro-fast-free-vs-paid-image/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Google Assistant zůstane dostupný do příštího roku, odkládají se plány na nahrazení Gemini na konec 2025",
-      "description": "Google Assistant bude dostupný přes svátky a během roku 2025, než ho plně nahradí Gemini. Společnost odkládá přechod, aby zajistila plynulý přechod na mobilních zařízeních.",
-      "slug": "google-assistant-remains-until-next-year-delaying-",
-      "publishedAt": "2025-12-20T10:42:55+00:00",
-      "date": "2025-12-20 10:42:55",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://d.ibtimes.com/en/full/4638063/top-smart-clocks-2022-amazon-echo-show-5-lenovo-smart-clock-2-more.jpg",
-      "url": "/tech-news/2025-12-20/google-assistant-remains-until-next-year-delaying/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "International Business Times"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Bývalý manažer Nvidia představuje nové AI čipy po úspěšném čínském IPO",
-      "description": "Společnost Moore Threads Technology představila novou generaci čipů Huashan na architektuře Huagang, které mají snížit závislost vývojářů umělé inteligence na hardwaru Nvidia. Představení proběhlo krátce po jednom z nejúspěšnějších IPO na čínské burze v posledních letech.",
-      "slug": "ex-nvidia-billionaire-unveils-new-ai-chips-after-c",
-      "publishedAt": "2025-12-20T10:27:16+00:00",
-      "date": "2025-12-20 10:27:16",
-      "importance": 4,
-      "category": "ai čipy",
-      "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-12-20%2Fmyd38es1%2F444639928.jpg?rect=0%2C349%2C3871%2C2032&w=1200&auto=format%2Ccompress&ogImage=true",
-      "url": "/tech-news/2025-12-20/ex-nvidia-billionaire-unveils-new-ai-chips-after-c/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Ndtvprofit.com"
-      },
-      "companies": [
-        "Moore Threads Technology Co",
-        "Nvidia Corp"
-      ],
-      "people": []
-    },
-    {
-      "title": "Globální aktivita fúzí a akvizic roste díky AI a megatransakcím, které pohánějí strategický růst v roce 2026: Goldman Sachs",
-      "description": "Průzkumy ukazují, že 51 % obchodních lídrů očekává střední až vysoký dopad AI na své strategie fúzí a akvizic v příštím roce. Podle zprávy Goldman Sachs vzrostl objem globálních fúzí o 40 % meziročně, přičemž megatransakce nad 10 miliard dolarů se zvýšily o 128 %.",
-      "slug": "global-ma-activity-surges-as-ai-and-mega-deals-dri",
-      "publishedAt": "2025-12-20T10:11:16+00:00",
-      "date": "2025-12-20 10:11:16",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/qb1mmh/article70419289.ece/alternates/LANDSCAPE_1200/IMG_BL2403IPulse_Lead_2_1_F8E5BB2I.jpg",
-      "url": "/tech-news/2025-12-20/global-ma-activity-surges-as-ai-and-mega-deals-dri/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Jaderná fúze poháněná memestockem",
-      "description": "Trump Media & Technology Group, mateřská společnost Truth Social, se sloučila s TAE Technologies, firmou vyvíjející jadernou fúzi. Tento krok spojuje mediální společnost s energetickou technologií v nečekané kombinaci.",
-      "slug": "nuclear-fusion-powered-by-memestock",
-      "publishedAt": "2025-12-20T10:00:00+00:00",
-      "date": "2025-12-20 10:00:00",
-      "importance": 4,
-      "category": "jaderná fúze",
-      "urlToImage": "https://compote.slate.com/images/0ad4cce0-1643-405e-b092-a65cc2f24b9e.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
-      "url": "/tech-news/2025-12-20/nuclear-fusion-powered-by-memestock/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Slate Magazine"
-      },
-      "companies": [
-        "Trump Media & Technology Group",
-        "TAE Technologies"
-      ],
       "people": []
     },
     {
