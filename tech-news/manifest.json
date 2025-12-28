@@ -1,10 +1,71 @@
 {
-  "generated": "2025-12-28T16:40:07.240972+00:00",
+  "generated": "2025-12-28T20:34:13.041105+00:00",
   "count": 200,
   "articles": [
     {
+      "title": "Apple opravuje dvě zero-day zranitelnosti využívané v cílených útocích",
+      "description": "Apple vydal nouzové bezpečnostní aktualizace pro dvě zero-day zranitelnosti v WebKit, které byly aktivně exploitovány v sofistikovaných útocích na konkrétní jednotlivce. Uživatelům iPhonu a iPadu se doporučuje okamžitě aktualizovat zařízení.",
+      "slug": "apple-patches-two-zero-day-flaws-used-in-targeted-",
+      "publishedAt": "2025-12-27T18:30:53+00:00",
+      "date": "2025-12-27 18:30:53",
+      "importance": 5,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/apple-store-new-york-city-iphone-sales.jpg",
+      "url": "/tech-news/2025-12-27/apple-patches-two-zero-day-flaws-used-in-targeted/",
+      "source": {
+        "emoji": "📰",
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Největší technologické trendy, kterých očekávat v roce 2026",
+      "description": "Rok 2026 přinese významné změny v umělé inteligenci, produktech Apple, Nvidia, robotice, rozšířené realitě a dalších oblastech. Článek shrnuje klíčové predikce na základě analýzy odborníků.",
+      "slug": "the-biggest-tech-trends-to-expect-in-2026",
+      "publishedAt": "2025-12-27T17:00:00+00:00",
+      "date": "2025-12-27 17:00:00",
+      "importance": 5,
+      "category": "technologické trendy",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/VPSJvBNfusnHoNcwwMiPxS-1920-80.jpg",
+      "url": "/tech-news/2025-12-27/the-biggest-tech-trends-to-expect-in-2026/",
+      "source": {
+        "emoji": "📰",
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "companies": [
+        "Apple",
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nvidia zaplatila 20 miliard dolarů za firmu, která nedosáhla svého cíle v tržbách o 75 %",
+      "description": "Panické nákupy, jednoduše řečeno. Pokud něco naznačuje, že bublina AI právě praskne, je to toto.",
+      "slug": "nvidia-just-paid-20b-for-a-company-that-missed-its",
+      "publishedAt": "2025-12-27T16:47:13+00:00",
+      "date": "2025-12-27 16:47:13",
+      "importance": 5,
+      "category": "ai bublina",
+      "urlToImage": "https://substackcdn.com/image/fetch/$s_!7ppM!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9a099433-4de1-45a1-9804-cfcede6b28da_5064x2704.png",
+      "url": "/tech-news/2025-12-27/nvidia-just-paid-20b-for-a-company-that-missed-its/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Drjoshcsimmons.com"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
       "title": "„To skutečně funguje v Teslách právě teď“ — Elon Musk demonstruje interakci Grok na úrovni člověka v Tesla vozech",
-      "description": "V ranních hodinách Štědrého dne jednoduchý příspěvek na X od Elona Muska rozvířil tech svět – ne okázalým oznámením produktu, ale videem ukazujícím reálnou AI navigaci v Teslách.",
+      "description": "Ráno na Štědrý den Elon Musk na platformě X sdílel video, které ukazuje Tesla Cybertruck řízený hlasovými příkazy AI Grok pro složitou víceetapovou navigaci. Tato funkce je součástí softwarového updatu 2025.44.25.x a přináší přirozenou konverzaci s vozidlem bez manuálního zásahu.",
       "slug": "this-actually-works-in-teslas-right-now-elon-musk-",
       "publishedAt": "2025-12-27T15:00:20+00:00",
       "date": "2025-12-27 15:00:20",
@@ -25,22 +86,23 @@
       ]
     },
     {
-      "title": "Výpadek Wayma v San Franciscu zvyšuje pochybnosti o připravenosti robotaxi na krize",
-      "description": "Široký výpadek proudu v San Franciscu způsobil, že robotaxi společnosti Waymo uvízla na křižovatkách a blokovala dopravu, což vyvolává otázky o jejich spolehlivosti v nouzových situacích jako zemětřesení či povodně.",
+      "title": "Výpadek Waymo v San Franciscu zvyšuje pochybnosti o připravenosti autonomních taxíků na krize",
+      "description": "Bezřidičové taxíky společnosti Waymo, dceřiné firmy Alphabetu, se zasekly na křižovatkách v San Franciscu s blikajícími výstražnými světly poté, co požár v podstanici PG&E způsobil výpadek elektřiny v jedné třetině města a odstavení semaforů 20. prosince. Incident vyvolal obavy o schopnost autonomních vozidel zvládnout mimořádné události jako zemětřesení.",
       "slug": "waymos-san-francisco-outage-raises-doubts-over-rob",
-      "publishedAt": "2025-12-27T14:02:01+00:00",
-      "date": "2025-12-27 14:02:01",
+      "publishedAt": "2025-12-27T14:50:23+00:00",
+      "date": "2025-12-27 14:50:23",
       "importance": 4,
       "category": "autonomní vozy",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_2_1733465085102_1733465089141.png",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-174506,resizemode-75,msid-126205794/tech/technology/waymos-san-francisco-outage-raises-doubts-over-robotaxi-readiness-during-crises.jpg",
       "url": "/tech-news/2025-12-27/waymos-san-francisco-outage-raises-doubts-over-rob/",
       "source": {
         "emoji": "📰",
-        "id": null,
-        "name": "Livemint"
+        "id": "the-times-of-india",
+        "name": "The Times of India"
       },
       "companies": [
-        "Waymo"
+        "Waymo",
+        "Alphabet"
       ],
       "people": []
     },
@@ -3907,24 +3969,6 @@
       ]
     },
     {
-      "title": "Technologická selhání: Největší průšvihy roku 2025",
-      "description": "Přehled nejvýznamnějších technologických chyb roku 2025, od zklamání z GPT-5 až po výpadky velkých služeb jako Starlink a AWS. Článek shrnuje momenty, které ukazují slabiny v AI, bezpečnosti a infrastruktuře.",
-      "slug": "tech-trainwrecks-2025s-biggest-fails",
-      "publishedAt": "2025-12-20T20:28:41+00:00",
-      "date": "2025-12-20 20:28:41",
-      "importance": 4,
-      "category": "technologická selhán",
-      "urlToImage": "https://sm.pcmag.com/t/pcmag_me/news/t/tech-train/tech-trainwrecks-2025s-biggest-fails_6hmp.1200.png",
-      "url": "/tech-news/2025-12-20/tech-trainwrecks-2025s-biggest-fails/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "PCMag.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Tento týdenní výběr technologických příběhů z webu (do 20. prosince)",
       "description": "Souhrn klíčových tech novinek týdne zahrnuje spekulace o životě v roce 2035 s umělou obecné inteligencí, self-improving kódovací agent Codex od OpenAI a debaty o nasazení AI v programování. Další témata zahrnují biotechnologii a brain-computer interface.",
       "slug": "this-weeks-awesome-tech-stories-from-around-the-we",
@@ -3943,26 +3987,6 @@
       "people": []
     },
     {
-      "title": "Nejnovější bezpečnostní data Waymo ukazují vysokou bezpečnost po 96 milionech najetých mil",
-      "description": "Robotickému řidiči bych důvěřoval více než lidskému.",
-      "slug": "the-latest-safety-data-from-waymo-is-astonishingly",
-      "publishedAt": "2025-12-20T14:49:22+00:00",
-      "date": "2025-12-20 14:49:22",
-      "importance": 4,
-      "category": "autonomní vozy",
-      "urlToImage": "https://twistedsifter.com/wp-content/uploads/2025/10/Waymo-1.jpg",
-      "url": "/tech-news/2025-12-20/the-latest-safety-data-from-waymo-is-astonishingly/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Twistedsifter.com"
-      },
-      "companies": [
-        "Waymo"
-      ],
-      "people": []
-    },
-    {
       "title": "Zabije kvantové počítání Bitcoin?",
       "description": "Tvrdby, že kvantové počítání zničí Bitcoin, mohou být přehnané, ale Bitcoin bude muset být upraven, aby odolal této hrozbě.",
       "slug": "will-quantum-computing-kill-bitcoin",
@@ -3976,24 +4000,6 @@
         "emoji": "📰",
         "id": null,
         "name": "ComputerWeekly.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Bitva o streamovací služby je o divácích a jejich čase",
-      "description": "Pouze firmy s velkým objemem obsahu a technologickým motorem, který řídí jeho objevování a monetizaci, mohou soutěžit, vysvětluje Vanita Kohli Khandekar. Článek analyzuje konkurenční boj v sektoru OTT platforem, včetně nedávných masivních akvizic mezi giganty jako Netflix, Warner Bros. Discovery a Paramount.",
-      "slug": "the-ott-battle-is-for-audiences-and-their-time",
-      "publishedAt": "2025-12-20T04:24:11+00:00",
-      "date": "2025-12-20 04:24:11",
-      "importance": 5,
-      "category": "streamovací služby",
-      "urlToImage": "https://im.rediff.com/1200-630/movies/2025/dec/18bs1.jpg",
-      "url": "/tech-news/2025-12-20/the-ott-battle-is-for-audiences-and-their-time/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Rediff.com"
       },
       "companies": [],
       "people": []

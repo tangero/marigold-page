@@ -3,51 +3,52 @@ author: Marisa Aigen
 category: autonomní vozy
 companies:
 - Waymo
-date: '2025-12-27 14:02:01'
-description: Široký výpadek proudu v San Franciscu způsobil, že robotaxi společnosti
-  Waymo uvízla na křižovatkách a blokovala dopravu, což vyvolává otázky o jejich spolehlivosti
-  v nouzových situacích jako zemětřesení či povodně.
+- Alphabet
+date: '2025-12-27 14:50:23'
+description: Bezřidičové taxíky společnosti Waymo, dceřiné firmy Alphabetu, se zasekly
+  na křižovatkách v San Franciscu s blikajícími výstražnými světly poté, co požár
+  v podstanici PG&E způsobil výpadek elektřiny v jedné třetině města a odstavení semaforů
+  20. prosince. Incident vyvolal obavy o schopnost autonomních vozidel zvládnout mimořádné
+  události jako zemětřesení.
 importance: 4
 layout: tech_news_article
-original_title: Waymos San Francisco outage raises doubts over robotaxi readiness
+original_title: Waymo's San Francisco outage raises doubts over robotaxi readiness
   during crises
-publishedAt: '2025-12-27T14:02:01+00:00'
+publishedAt: '2025-12-27T14:50:23+00:00'
 slug: waymos-san-francisco-outage-raises-doubts-over-rob
 source:
   emoji: 📰
-  id: null
-  name: Livemint
-title: Výpadek Wayma v San Franciscu zvyšuje pochybnosti o připravenosti robotaxi
-  na krize
-url: https://www.livemint.com/companies/news/waymos-san-francisco-outage-raises-doubts-over-robotaxi-readiness-during-crises-11766844122293.html
-urlToImage: https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_2_1733465085102_1733465089141.png
-urlToImageBackup: https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_2_1733465085102_1733465089141.png
+  id: the-times-of-india
+  name: The Times of India
+title: Výpadek Waymo v San Franciscu zvyšuje pochybnosti o připravenosti autonomních
+  taxíků na krize
+url: https://economictimes.indiatimes.com/tech/technology/waymos-san-francisco-outage-raises-doubts-over-robotaxi-readiness-during-crises/articleshow/126205794.cms
+urlToImage: https://img.etimg.com/thumb/width-1200,height-900,imgsize-174506,resizemode-75,msid-126205794/tech/technology/waymos-san-francisco-outage-raises-doubts-over-robotaxi-readiness-during-crises.jpg
+urlToImageBackup: https://img.etimg.com/thumb/width-1200,height-900,imgsize-174506,resizemode-75,msid-126205794/tech/technology/waymos-san-francisco-outage-raises-doubts-over-robotaxi-readiness-during-crises.jpg
 ---
 
 ## Souhrn
-Široký výpadek proudu v San Franciscu 20. prosince způsobil, že robotaxi Waymo – dceřiné společnosti Alphabetu zabývající se autonomními vozidly – uvízla na křižovatkách s blikajícími výstražnými světly. Firma operace pozastavila a obnovila je až následující den. Incident oživuje debatu o regulacích pro dálkové ovládání těchto vozidel a jejich připravenosti na velké krize.
+Bezřidičové taxíky Waymo se během rozsáhlého výpadku elektřiny v San Franciscu 20. prosince zasekly na křižovatkách, což způsobilo zácpy a obavy o jejich připravenost na krize. Společnost operace pozastavila a obnovila je až následující den. Incident oživil debatu o potřebě přísnějších regulací pro autonomní vozy.
 
 ## Klíčové body
-- Výpadek proudu po požáru v podstaci PG&E paralyzoval třetinu města, včetně semaforů, což zastavilo Waymo robotaxi.
-- Vozidla Waymo projela více než 7000 tmavých semaforů, ale některá vyžadovala potvrzení od operátorů a zůstala stát.
-- Experti volají po přísnějších regulacích, včetně testů na scénáře jako zemětřesení.
-- Kalifornští regulátoři incident prošetřují; Waymo zavádí aktualizace flotily.
-- Konkurence jako Tesla a Zoox urychluje expanzi robotaxi služeb.
+- Výpadek proudu kvůli požáru v podstanici PG&E 20. prosince ovlivnil jednu třetinu San Francisca a odstavil semafory.
+- Robotaxíky Waymo aktivovaly výstražná světla a zůstaly stát na křižovatkách, což zachytily sociální sítě.
+- Waymo vysvětlila, že vozy zvládly přes 7000 temných semaforů, ale hromadné žádosti o potvrzení způsobily zpoždění.
+- Expert Philip Koopman volá po důkazech schopnosti zvládnout zemětřesení.
+- Konkurence jako Tesla a Zoox (firma Amazonu zaměřená na autonomní vozy) urychluje expanzi robotaxi služeb.
 
 ## Podrobnosti
-Výpadek proudu v San Franciscu, způsobený požárem v podstaci společnosti PG&E, postihl přibližně třetinu města 20. prosince. Semafory zhasly, což vedlo k chaosu v dopravě. Robotaxi Waymo, která jsou běžným jevem na ulicích města a slouží k přepravě pasažérů bez řidiče, reagovala podle videí z sociálních sítí zapnutím výstražných světel a zastavením na křižovatkách. Firma okamžitě pozastavila veškeré operace a obnovila je až o den později.
+20. prosince 2023 došlo v San Franciscu k požáru v podstanici energetické společnosti PG&E, který způsobil výpadek elektřiny v přibližně jedné třetině města. Tento incident vedl k odstavení semaforů na mnoha křižovatkách, což ovlivnilo i flotilu bezřidičových taxíků Waymo – dceřiné firmy Alphabetu specializující se na autonomní jízdu. Videá na sociálních sítích ukazují desítky těchto vozů stojících na křižovatkách s rozsvícenými výstražnými světly, což přispělo k zácpám v již přetíženém městském provozu.
 
-Waymo tvrdí, že jejich autonomní systém je navržen tak, aby nepracující semafory traktoval jako čtyřsmerné zastavení, kde vozidla postupně projíždějí. Vozidla úspěšně zvládla překročení více než 7000 takových semaforů během sobotního výpadku. Nicméně v některých případech systém vyžadoval potvrzení od dálkových operátorů, což způsobilo zpoždění. V tiskové zprávě z úterý Waymo oznámila, že zavádí flotilu široké aktualizace pro vylepšení tohoto procesu.
+Waymo okamžitě pozastavila své operace v postižené oblasti a obnovila je až následující den. Podle prohlášení firmy jsou její autonomní vozy navrženy tak, aby nefunkční semafory traktovaly jako čtyřsmerné zastávky, kde mají prioritu podle pravidel pravé ruky. Během sobotního výpadku vozy úspěšně projely více než 7000 takových semaforů. Problém nastal kvůli soustředěnému nárůstu požadavků na dálkové potvrzení od operátorů – tzv. remote access –, který způsobil zpoždění v reakcích a tím i ucpané ulice.
 
-Incident přitáhl pozornost regulátorů v Kalifornii, kteří ho nyní prošetřují. Experti jako Philip Koopman z Carnegie Mellon University, specialista na autonomní technologie, varují, že špatná reakce na výpadek proudu by měla vést k povinným testům na vážnější scénáře, jako jsou zemětřesení nebo povodně, které San Francisco pravidelně ohrožují. Koopman zdůrazňuje, že regulátoři nesmí být lhostejní a musí požadovat důkazy o odolnosti systémů.
-
-Tento případ nastává v době, kdy se robotaxi průmysl rychle rozrůstá. Waymo již operuje v několika městech, zatímco Tesla plánuje spuštění svého Full Self-Driving (FSD) systému pro robotaxi a Amazonova Zoox testuje podobné služby. Všechny tyto firmy spoléhají na senzory jako LiDAR, kamery a radary pro navigaci, ale závislost na dálkovém dohledu zůstává slabinou, zejména při selhání infrastruktury.
+Tento případ není ojedinělý. Autonomní vozy spoléhají na senzory jako LiDAR, radary a kamery pro navigaci, ale v extrémních podmínkách jako výpadky proudu nebo přírodní katastrofy mohou narazit na limity. San Francisco je seizmicky aktivní oblast, kde hrozí zemětřesení, které by mohlo podobně narušit infrastrukturu. Philip Koopman, profesor počítačového inženýrství na Carnegie Mellon University a expert na autonomní technologie, zdůraznil, že špatná reakce na výpadek by měla vést regulátory k požadavku na důkazy o zvládnutí zemětřesení. Mezitím se průmysl rozrůstá: Tesla pracuje na svém Full Self-Driving (FSD) systému pro robotaxi, zatímco Zoox, dcera Amazonu vyvíjející plně autonomní vozidla bez volantu, testuje v několika městech.
 
 ## Proč je to důležité
-Tento incident odhaluje klíčové limity současných autonomních systémů v reálných krizích, kde selže nejen napájení vozidel, ale i městská infrastruktura. Pro průmysl autonomních vozidel znamená nutnost posílit redundanci – například lepší offline rozhodování bez dálkového zásahu – aby se vyhnuli blokádám dopravy, které mohou ohrozit záchranné služby. Regulátoři v Kalifornii, kde je testování autonomních vozidel nejintenzivnější, mohou zavést nové předpisy pro dálkové operace, což zpomalí expanzi firem jako Waymo nebo Tesla. Pro uživatele to podtrhuje rizika: robotaxi nejsou ještě plně připraveny na nepředvídatelné události, což brzdí přechod k masové adopci. V širším kontextu posiluje argumenty skeptiků, že plná autonomie vyžaduje nejen pokroky v AI, ale i robustní testování v extrémních podmínkách.
+Incident odhaluje slabiny současných autonomních systémů v reálných krizích, kde selže infrastruktura. Pro uživatele to znamená riziko zácp a nedostupnosti služeb právě tehdy, když jsou nejdůležitější. Pro průmysl posiluje argumenty pro přísnější regulace – kalifornští úředníci již omezují expanzi kvůli bezpečnostním incidentům. V širším kontextu brzdí to komercializaci robotaxi, které Waymo provozuje v San Franciscu, Phoenixu a Los Angeles s miliony najetých kilometrů. Pokud se firmy jako Waymo, Tesla nebo Zoox nevyrovnají takovým scénářům, regulátoři mohou zpomalit nasazení v hustě obydlených oblastech, což ovlivní investice přesahující miliardy dolarů.
 
 ---
 
-[Číst původní článek](https://www.livemint.com/companies/news/waymos-san-francisco-outage-raises-doubts-over-robotaxi-readiness-during-crises-11766844122293.html)
+[Číst původní článek](https://economictimes.indiatimes.com/tech/technology/waymos-san-francisco-outage-raises-doubts-over-robotaxi-readiness-during-crises/articleshow/126205794.cms)
 
-**Zdroj:** 📰 Livemint
+**Zdroj:** 📰 The Times of India
