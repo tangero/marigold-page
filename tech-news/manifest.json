@@ -1,7 +1,69 @@
 {
-  "generated": "2025-12-28T12:48:34.836953+00:00",
+  "generated": "2025-12-28T16:40:07.240972+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "„To skutečně funguje v Teslách právě teď“ — Elon Musk demonstruje interakci Grok na úrovni člověka v Tesla vozech",
+      "description": "V ranních hodinách Štědrého dne jednoduchý příspěvek na X od Elona Muska rozvířil tech svět – ne okázalým oznámením produktu, ale videem ukazujícím reálnou AI navigaci v Teslách.",
+      "slug": "this-actually-works-in-teslas-right-now-elon-musk-",
+      "publishedAt": "2025-12-27T15:00:20+00:00",
+      "date": "2025-12-27 15:00:20",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/GjgLgKilGxnQSOxnH3hQlg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/guessing_headlights_178/3fbdfa64c91ee177cb9a443b5f99d028",
+      "url": "/tech-news/2025-12-27/this-actually-works-in-teslas-right-now-elon-musk/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Guessingheadlights.com"
+      },
+      "companies": [
+        "Tesla"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Výpadek Wayma v San Franciscu zvyšuje pochybnosti o připravenosti robotaxi na krize",
+      "description": "Široký výpadek proudu v San Franciscu způsobil, že robotaxi společnosti Waymo uvízla na křižovatkách a blokovala dopravu, což vyvolává otázky o jejich spolehlivosti v nouzových situacích jako zemětřesení či povodně.",
+      "slug": "waymos-san-francisco-outage-raises-doubts-over-rob",
+      "publishedAt": "2025-12-27T14:02:01+00:00",
+      "date": "2025-12-27 14:02:01",
+      "importance": 4,
+      "category": "autonomní vozy",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_2_1733465085102_1733465089141.png",
+      "url": "/tech-news/2025-12-27/waymos-san-francisco-outage-raises-doubts-over-rob/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Livemint"
+      },
+      "companies": [
+        "Waymo"
+      ],
+      "people": []
+    },
+    {
+      "title": "Analýza: Výpadek Waymo v San Franciscu zvyšuje pochybnosti o připravenosti robotaxi na krize",
+      "description": "Rozsáhlý výpadek proudu v San Franciscu 20. prosince 2025 způsobil, že Waymo robotaxi uvízly na křižovatkách a blokovaly dopravu kvůli nefungujícím semaforům. Incident vyvolal obavy o schopnost autonomních vozidel zvládat nouzové situace, jako jsou zemětřesení nebo povodně, a volání po přísnějších regulacích.",
+      "slug": "analysiswaymos-san-francisco-outage-raises-doubts-",
+      "publishedAt": "2025-12-27T14:01:57+00:00",
+      "date": "2025-12-27 14:01:57",
+      "importance": 4,
+      "category": "autonomní vozy",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--IAob2qJP--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-12-27T140157Z_1_LYNXMPELBQ08E_RTROPTP_3_WAYMO-ROBOTAXI.JPG?itok=UXDPvYZo",
+      "url": "/tech-news/2025-12-27/analysiswaymos-san-francisco-outage-raises-doubts/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNA"
+      },
+      "companies": [
+        "Waymo"
+      ],
+      "people": []
+    },
     {
       "title": "Apple vyvíjí DarkDiff AI pro zlepšení fotografií v špatném osvětlení s využitím generativních difúzních modelů",
       "description": "Společnost Apple představila technologii DarkDiff, která zlepšuje kvalitu fotografií v podmínkách špatného osvětlení integrací generativních difúzních modelů do obrazového signálového procesoru (ISP) kamery. Tato technologie snižuje rozmazání a zvyšuje ostrost snímků přímo v hardwaru zařízení.",
@@ -3863,28 +3925,6 @@
       "people": []
     },
     {
-      "title": "Skupina Pro-AI spouští první z řady útokových reklam pro americké volby",
-      "description": "Super PAC Pro-AI, financovaná přes 100 miliony dolarů od investorů z Silicon Valley včetně prezidenta OpenAI Grega Brockmana, zahájila kampaň proti kritikům umělé inteligence. Cílem je podpořit kandidáty nakloněné rychlému vývoji AI v midterm volbách 2026.",
-      "slug": "pro-ai-group-launches-first-of-many-attack-ads-for",
-      "publishedAt": "2025-12-20T15:34:00+00:00",
-      "date": "2025-12-20 15:34:00",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://a.fsdn.com/sd/topics/ai_64.png",
-      "url": "/tech-news/2025-12-20/pro-ai-group-launches-first-of-many-attack-ads-for/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": [
-        "Greg Brockman"
-      ]
-    },
-    {
       "title": "Tento týdenní výběr technologických příběhů z webu (do 20. prosince)",
       "description": "Souhrn klíčových tech novinek týdne zahrnuje spekulace o životě v roce 2035 s umělou obecné inteligencí, self-improving kódovací agent Codex od OpenAI a debaty o nasazení AI v programování. Další témata zahrnují biotechnologii a brain-computer interface.",
       "slug": "this-weeks-awesome-tech-stories-from-around-the-we",
@@ -3936,45 +3976,6 @@
         "emoji": "📰",
         "id": null,
         "name": "ComputerWeekly.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Závod o hvězdnou sílu: TAE Technologies se sloučí s Trump Media v dealu za 6 miliard dolarů",
-      "description": "Trump Media & Technology Group (TMTG) oznámila sloučení s jadernou fúzní společností TAE Technologies v hodnotě 6 miliard dolarů v akciích. Společná firma chce do roku 2026 umístit a zahájit stavbu první komerční fúzní elektrárny v měřítku sítě, aby pokryla rostoucí energetické potřeby umělé inteligence.",
-      "slug": "race-for-star-power-tae-technologies-to-merge-with",
-      "publishedAt": "2025-12-20T06:00:00+00:00",
-      "date": "2025-12-20 06:00:00",
-      "importance": 5,
-      "category": "jaderná fúze",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/12/Donald-Trump-Image-3.jpg",
-      "url": "/tech-news/2025-12-20/race-for-star-power-tae-technologies-to-merge-with/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "companies": [
-        "TAE Technologies",
-        "Trump Media & Technology Group"
-      ],
-      "people": []
-    },
-    {
-      "title": "Princeton čelí několika soudním žalobám po odhalení kybernetického narušení týkajícího se dat studentů a absolventů",
-      "description": "Univerzita Princeton čelí třem sloučeným žalobám po kybernetickém incidentu, který ovlivnil osobní data studentů, pedagogů, absolventů a dárce. Ačkoli neexistují důkazy o úniku citlivých údajů jako čísla sociálního zabezpečení, hesel nebo údajů platebních karet, událost vyvolala právní kroky a širší diskuse o ochraně dat ve vysokých školách.",
-      "slug": "princeton-faces-multiple-lawsuits-after-disclosing",
-      "publishedAt": "2025-12-20T05:59:12+00:00",
-      "date": "2025-12-20 05:59:12",
-      "importance": 4,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-126089276,width-1070,height-580,imgsize-2384786,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
-      "url": "/tech-news/2025-12-20/princeton-faces-multiple-lawsuits-after-disclosing/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
       },
       "companies": [],
       "people": []
