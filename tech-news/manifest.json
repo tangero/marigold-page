@@ -1,7 +1,130 @@
 {
-  "generated": "2025-12-27T20:32:03.115946+00:00",
-  "count": 199,
+  "generated": "2025-12-28T01:22:59.085475+00:00",
+  "count": 200,
   "articles": [
+    {
+      "title": "Je psaní zpráv za volantem autonomní Tesly šílenství?",
+      "description": "Elon Musk tvrdí, že automatizovaný software Tesla umožní cestujícím psát zprávy za určitých podmínek.",
+      "slug": "is-texting-behind-the-wheel-of-a-self-driving-tesl",
+      "publishedAt": "2025-12-27T00:30:14+00:00",
+      "date": "2025-12-27 00:30:14",
+      "importance": 4,
+      "category": "autonomní řízení",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b1e6/live/4ea02c30-dc36-11f0-a665-27b3eb61cb96.png",
+      "url": "/tech-news/2025-12-27/is-texting-behind-the-wheel-of-a-self-driving-tesl/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BBC News"
+      },
+      "companies": [
+        "Tesla"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Budoucnost bez řidičů nabírá na obrátkách globálními nasazeními robotaxi",
+      "description": "Globální snaha o nasazení autonomních taxíků na veřejných silnicích se zrychluje. Firmy v oblasti sdílené dopravy a technologie přecházejí z pilotních programů k omezeným komerčním provozům v městech v Číně, USA, Evropě a na Blízkém východě.",
+      "slug": "driverless-future-gains-momentum-with-global-robot",
+      "publishedAt": "2025-12-27T00:30:00+00:00",
+      "date": "2025-12-27 00:30:00",
+      "importance": 4,
+      "category": "autonomní vozidla",
+      "urlToImage": "https://a.fsdn.com/sd/topics/transportation_64.png",
+      "url": "/tech-news/2025-12-27/driverless-future-gains-momentum-with-global-robot/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Rok 2025 v přehledu: Vrcholy a propadliny 'Magnificent 7'",
+      "description": "Velké technologické společnosti soutěžily o dominanci v umělé inteligenci v roce 2025, zatímco tento rostoucí sektor pokračoval v přitahování zájmu Wall Streetu. Sedm největších firem dosáhlo do poloviny listopadu kombinované tržní kapitalizace 21,5 bilionu dolarů.",
+      "slug": "A-2025-in-review-the-highs-and-lows-of-the-magnifi",
+      "publishedAt": "2025-12-27T00:00:00+00:00",
+      "date": "2025-12-27 00:00:00",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.rte.ie/images/0023aa22-1600.jpg",
+      "url": "/tech-news/2025-12-27/A-2025-in-review-the-highs-and-lows-of-the-magnifi/",
+      "source": {
+        "emoji": "📰",
+        "id": "rte",
+        "name": "RTE"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Coforge přebírá Encora v dohodě o technologických službách za 2,35 miliardy dolarů",
+      "description": "Poskytovatel IT služeb Coforge Ltd. oznámil plány na akvizici rivala Encora Digital LLC za 2,35 miliardy dolarů. Financování provedou akcie společnosti a mostní úvěr v objemu až 550 milionů dolarů na refinancování dluhu Encory.",
+      "slug": "coforge-to-acquire-encora-in-235b-technology-servi",
+      "publishedAt": "2025-12-26T23:42:12+00:00",
+      "date": "2025-12-26 23:42:12",
+      "importance": 5,
+      "category": "it služby",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Coforge.png",
+      "url": "/tech-news/2025-12-26/coforge-to-acquire-encora-in-235b-technology-servi/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Coforge Ltd",
+        "Encora Digital LLC"
+      ],
+      "people": []
+    },
+    {
+      "title": "MEDIROM spolupracuje s World – Nasazení infrastruktury „Proof of Human“ po celém Japonsku, technologie od Sama Altmana a Alexa Blanii",
+      "description": "Společnost MEDIROM Healthcare Technologies uzavřela hlavní servisní smlouvu s Tools for Humanity a World Foundation na provoz ověřovacích míst Proof of Human v Japonsku. Projekt World, spoluzaložený Samem Altmanem, řeší problém odlišení lidí od AI pomocí biometrického ověření a blockchainu.",
+      "slug": "medirom-partners-with-world",
+      "publishedAt": "2025-12-26T22:55:00+00:00",
+      "date": "2025-12-26 22:55:00",
+      "importance": 4,
+      "category": "biometrie",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/6c5821a7-6122-4597-b099-5613e5e214d8",
+      "url": "/tech-news/2025-12-26/medirom-partners-with-world/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [
+        "MEDIROM"
+      ],
+      "people": [
+        "Sam Altman",
+        "Alex Blania"
+      ]
+    },
+    {
+      "title": "Akcie Targetu rostou po zprávě o aktivistickém investorovi, dohoda Nvidia s Groq",
+      "description": "Prezenter Josh Lipton rozebírá klíčové trendy dne, včetně zprávy Financial Times o budování pozice aktivistického investora v Targetu, poklesu cen ropy a licenční dohody Nvidia s AI čipovým startupem Groq za 20 miliard dolarů.",
+      "slug": "target-rises-on-report-of-activist-investor-nvidia",
+      "publishedAt": "2025-12-26T20:57:27+00:00",
+      "date": "2025-12-26 20:57:27",
+      "importance": 5,
+      "category": "ai",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/QQ483Ham3vmnSLFlvfOQOA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/c99595f0-e29a-11f0-b6bf-b8a591423132",
+      "url": "/tech-news/2025-12-26/target-rises-on-report-of-activist-investor-nvidia/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "Nvidia",
+        "Groq"
+      ],
+      "people": []
+    },
     {
       "title": "Dohoda Nvidia-Groq je strukturována tak, aby udržela 'fikci konkurence naživu', říká analytik",
       "description": "Popis Groq své dohody s Nvidia jako 'nevýlučné licenční dohody' napodobuje jiné nedávné velké AI transakce řízené americkými technologickými giganty.",
@@ -3524,26 +3647,6 @@
       ]
     },
     {
-      "title": "Předpověď Altuchera o IPO Starlinku v roce 2026 nabírá na síle",
-      "description": "Nejnovější video bestselling autora Wall Street Journal prozkoumává, jak realita dohání jeho předpověď o veřejném nabídání akcií Starlinku. Analytik James Altucher zdůrazňuje růst sítě a její strategickou roli v globální konektivitě.",
-      "slug": "altuchers-2026-starlink-ipo-prediction-gains-momen",
-      "publishedAt": "2025-12-20T20:32:00+00:00",
-      "date": "2025-12-20 20:32:00",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-20/altuchers-2026-starlink-ipo-prediction-gains-momen/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [],
-      "people": [
-        "James Altucher"
-      ]
-    },
-    {
       "title": "Technologická selhání: Největší průšvihy roku 2025",
       "description": "Přehled nejvýznamnějších technologických chyb roku 2025, od zklamání z GPT-5 až po výpadky velkých služeb jako Starlink a AWS. Článek shrnuje momenty, které ukazují slabiny v AI, bezpečnosti a infrastruktuře.",
       "slug": "tech-trainwrecks-2025s-biggest-fails",
@@ -3559,26 +3662,6 @@
         "name": "PCMag.com"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Biren míří na první listing GPU na hongkongské burze po ztrátách 890 milionů USD",
-      "description": "Šanghajská Biren Technology prošla slyšením pro listing v Hong Kongu a stává se tak první čistě domácí GPU firmou na tamní burze. Tento krok představuje klíčový test pro čínský kapitalově náročný sektor AI čipů po kumulativních ztrátách ve výši 890 milionů USD.",
-      "slug": "biren-targets-hong-kongs-first-gpu-listing-after-u",
-      "publishedAt": "2025-12-20T18:41:00+00:00",
-      "date": "2025-12-20 18:41:00",
-      "importance": 4,
-      "category": "ai čipy",
-      "urlToImage": "https://img.digitimes.com/newsshow/20251218vl211_files/2_b.jpg",
-      "url": "/tech-news/2025-12-20/biren-targets-hong-kongs-first-gpu-listing-after-u/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
-      },
-      "companies": [
-        "Biren Technology"
-      ],
       "people": []
     },
     {
@@ -3601,26 +3684,6 @@
         "Microsoft"
       ],
       "people": []
-    },
-    {
-      "title": "Altucher brzy upozornil na IPO Starlinku v roce 2026 – nyní stoupá využití a časový plán se vyjasňuje",
-      "description": "Investiční analytik James Altucher v nejnovější video prezentaci reviduje svou předpověď o plánovaném úvodu Starlinku na burzu v roce 2026. S rostoucím počtem uživatelů a provozní satelitní sítí se tato předpověď zdá být na cestě k naplnění.",
-      "slug": "altucher-flagged-a-2026-starlink-ipo-early-now-usa",
-      "publishedAt": "2025-12-20T16:29:00+00:00",
-      "date": "2025-12-20 16:29:00",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-20/altucher-flagged-a-2026-starlink-ipo-early-now-usa/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [],
-      "people": [
-        "Altucher"
-      ]
     },
     {
       "title": "Skupina Pro-AI spouští první z řady útokových reklam pro americké volby",
@@ -3721,26 +3784,6 @@
       "people": []
     },
     {
-      "title": "Únik o iMac Pro s čipem M5 Max od Apple: Budoucnost výkonu stolních počítačů",
-      "description": "Nedávné objevy v interním software Apple odhalily zmínky o nepřipraveném iMac Pro s čipem M5 Max, což naznačuje možný návrat výkonného all-in-one stolního počítače pro profesionální uživatele. Očekává se také obnova standardního iMacu s čipem M5 v roce 2026.",
-      "slug": "apples-m5-max-imac-pro-leak-the-future-of-desktop-",
-      "publishedAt": "2025-12-20T12:00:18+00:00",
-      "date": "2025-12-20 12:00:18",
-      "importance": 4,
-      "category": "hardware",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/m5-max-imac-pro-leak-details_optimized.jpg",
-      "url": "/tech-news/2025-12-20/apples-m5-max-imac-pro-leak-the-future-of-desktop/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
       "title": "Google riskoval ztrátu dominance – dokud nepovýšil tohoto šéfa AI",
       "description": "Josh Woodward, veterán Google s 16 lety praxe, vede aplikaci Gemini a střetává se s OpenAI na rozrůstajícím se trhu generativní umělé inteligence.",
       "slug": "google-was-at-risk-of-losing-its-dominance-until-i",
@@ -3758,27 +3801,6 @@
       "companies": [
         "Google",
         "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Analytici hodnotí Meta Platforms (META) jako silný nákup, předpovídají 28% růst",
-      "description": "Meta Platforms (NASDAQ:META) patří mezi 14 nejlepších akcií indexu S&P 500 k nákupu. Analytici RBC Capital potvrdili hodnocení Outperform s cílovou cenou 810 USD, zatímco Morgan Stanley snížil svůj cíl na 750 USD kvůli vyšším provozním nákladům.",
-      "slug": "analysts-rate-meta-platforms-inc-meta-a-strong-buy",
-      "publishedAt": "2025-12-20T11:56:24+00:00",
-      "date": "2025-12-20 11:56:24",
-      "importance": 4,
-      "category": "akcie",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/iRrlo6qV3JsJXfOS_k5TEA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/insidermonkey.com/2789a9f903e10b49fcb49a5f127bafb2",
-      "url": "/tech-news/2025-12-20/analysts-rate-meta-platforms-inc-meta-a-strong-buy/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [
-        "Meta Platforms",
-        "Inc"
       ],
       "people": []
     },
