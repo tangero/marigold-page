@@ -1,10 +1,28 @@
 {
-  "generated": "2025-12-28T01:22:59.085475+00:00",
+  "generated": "2025-12-28T04:57:22.103985+00:00",
   "count": 200,
   "articles": [
     {
+      "title": "Jak AI společnosti půjčují miliardy, dluhoví investoři se stávají opatrnými",
+      "description": "Akciové trhy zůstávají optimistické ohledně umělé inteligence, dluhoví investoři jsou však mnohem opatrnější. Nové a menší AI firmy platí vysoké úrokové sazby na půjčky, což ukazuje na skepticismus investorů vůči nepotvrzeným AI podnikům s velkými dluhy.",
+      "slug": "as-ai-companies-borrow-billions-debt-investors-gro",
+      "publishedAt": "2025-12-27T04:17:28+00:00",
+      "date": "2025-12-27 04:17:28",
+      "importance": 4,
+      "category": "financování ai",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-50672,resizemode-75,msid-126199471/tech/artificial-intelligence/as-ai-companies-borrow-billions-debt-investors-grow-wary.jpg",
+      "url": "/tech-news/2025-12-27/as-ai-companies-borrow-billions-debt-investors-gro/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
       "title": "Je psaní zpráv za volantem autonomní Tesly šílenství?",
-      "description": "Elon Musk tvrdí, že automatizovaný software Tesla umožní cestujícím psát zprávy za určitých podmínek.",
+      "description": "Elon Musk tvrdí, že software pro autonomní řízení Tesly umožní cestujícím psát zprávy za určitých podmínek.",
       "slug": "is-texting-behind-the-wheel-of-a-self-driving-tesl",
       "publishedAt": "2025-12-27T00:30:14+00:00",
       "date": "2025-12-27 00:30:14",
@@ -25,13 +43,13 @@
       ]
     },
     {
-      "title": "Budoucnost bez řidičů nabírá na obrátkách globálními nasazeními robotaxi",
-      "description": "Globální snaha o nasazení autonomních taxíků na veřejných silnicích se zrychluje. Firmy v oblasti sdílené dopravy a technologie přecházejí z pilotních programů k omezeným komerčním provozům v městech v Číně, USA, Evropě a na Blízkém východě.",
+      "title": "Budoucnost bez řidičů nabírá na síle s globálními nasazeními robotaxi",
+      "description": "Globální snaha nasadit autonomní taxíky na veřejných komunikacích sílí, protože firmy na sdílení jízd a technologické společnosti přecházejí z pilotních programů k omezeným komerčním provozům v městech v Číně, USA, Evropě a na Blízkém východě.",
       "slug": "driverless-future-gains-momentum-with-global-robot",
       "publishedAt": "2025-12-27T00:30:00+00:00",
       "date": "2025-12-27 00:30:00",
       "importance": 4,
-      "category": "autonomní vozidla",
+      "category": "autonomní vozy",
       "urlToImage": "https://a.fsdn.com/sd/topics/transportation_64.png",
       "url": "/tech-news/2025-12-27/driverless-future-gains-momentum-with-global-robot/",
       "source": {
@@ -44,12 +62,12 @@
     },
     {
       "title": "Rok 2025 v přehledu: Vrcholy a propadliny 'Magnificent 7'",
-      "description": "Velké technologické společnosti soutěžily o dominanci v umělé inteligenci v roce 2025, zatímco tento rostoucí sektor pokračoval v přitahování zájmu Wall Streetu. Sedm největších firem dosáhlo do poloviny listopadu kombinované tržní kapitalizace 21,5 bilionu dolarů.",
+      "description": "Velké technologické společnosti soutěžily v roce 2025 o dominanci v umělé inteligenci, zatímco tento boomující sektor nadále přitahoval pozornost Wall Street. Sedm klíčových firem dosáhlo souhrnné tržní kapitalizace 21,5 bilionu dolarů.",
       "slug": "A-2025-in-review-the-highs-and-lows-of-the-magnifi",
       "publishedAt": "2025-12-27T00:00:00+00:00",
       "date": "2025-12-27 00:00:00",
       "importance": 4,
-      "category": "umělá inteligence",
+      "category": "ai",
       "urlToImage": "https://www.rte.ie/images/0023aa22-1600.jpg",
       "url": "/tech-news/2025-12-27/A-2025-in-review-the-highs-and-lows-of-the-magnifi/",
       "source": {
@@ -61,8 +79,8 @@
       "people": []
     },
     {
-      "title": "Coforge přebírá Encora v dohodě o technologických službách za 2,35 miliardy dolarů",
-      "description": "Poskytovatel IT služeb Coforge Ltd. oznámil plány na akvizici rivala Encora Digital LLC za 2,35 miliardy dolarů. Financování provedou akcie společnosti a mostní úvěr v objemu až 550 milionů dolarů na refinancování dluhu Encory.",
+      "title": "Coforge získá Encora za 2,35 miliardy dolarů v dealu na technologické služby",
+      "description": "Poskytovatel IT služeb Coforge Ltd. oznámil plány na akvizici rivala Encora Digital LLC za 2,35 miliardy dolarů. Společnost, obchodovaná na dvou indických burzách, transakci zaplatí akcie a mostní úvěr v hodnotě až 550 milionů dolarů.",
       "slug": "coforge-to-acquire-encora-in-235b-technology-servi",
       "publishedAt": "2025-12-26T23:42:12+00:00",
       "date": "2025-12-26 23:42:12",
@@ -3802,24 +3820,6 @@
         "Google",
         "OpenAI"
       ],
-      "people": []
-    },
-    {
-      "title": "Hollywoodské celebrity zakládají koalici proti neetickým obchodním praktikám AI firem",
-      "description": "Hollywoodské celebrity včetně Josepha Gordona-Levitta a Natalie Portman založily Creative Coalition on AI k obhajobě práv tvůrců. Skupina kritizuje velké AI společnosti za praktiky, které ohrožují autory, a reaguje například na nedávnou dohodu Disney s OpenAI.",
-      "slug": "celebrities-launch-a-creative-coalition-to-curtail",
-      "publishedAt": "2025-12-20T11:52:39+00:00",
-      "date": "2025-12-20 11:52:39",
-      "importance": 4,
-      "category": "ai etika",
-      "urlToImage": "https://media.breitbart.com/media/2025/12/GettyImages-2250803971-640x335.jpg",
-      "url": "/tech-news/2025-12-20/celebrities-launch-a-creative-coalition-to-curtail/",
-      "source": {
-        "emoji": "📰",
-        "id": "breitbart-news",
-        "name": "Breitbart News"
-      },
-      "companies": [],
       "people": []
     },
     {

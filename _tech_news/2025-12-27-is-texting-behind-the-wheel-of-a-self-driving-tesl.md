@@ -4,8 +4,8 @@ category: autonomní řízení
 companies:
 - Tesla
 date: '2025-12-27 00:30:14'
-description: Elon Musk tvrdí, že automatizovaný software Tesla umožní cestujícím psát
-  zprávy za určitých podmínek.
+description: Elon Musk tvrdí, že software pro autonomní řízení Tesly umožní cestujícím
+  psát zprávy za určitých podmínek.
 importance: 4
 layout: tech_news_article
 original_title: Is texting behind the wheel of a self-driving Tesla crazy?
@@ -23,25 +23,27 @@ urlToImage: https://ichef.bbci.co.uk/news/1024/branded_news/b1e6/live/4ea02c30-d
 urlToImageBackup: https://ichef.bbci.co.uk/news/1024/branded_news/b1e6/live/4ea02c30-dc36-11f0-a665-27b3eb61cb96.png
 ---
 
-### Souhrn
-Tesla testuje novou verzi svého systému plně autonomního řízení Full Self-Driving (FSD), který podle Elona Muska umožní řidičům psát zprávy v závislosti na dopravní situaci. Uživatel Geoff Perlman oceňuje zlepšení v ovládání složitých situací, ale stále si drží ruce na volantu a oči na silnici. Tato změna vyvolává obavy bezpečnostních expertů kvůli potenciálním rizikům.
+## Souhrn
+Elon Musk oznámil, že nejnovější verze softwaru Full Self-Driving (FSD) od Tesly umožní řidičům psát zprávy během jízdy v závislosti na dopravní situaci. Tato změna vyvolává obavy o bezpečnost, protože Tesla nereagovala na žádosti o upřesnění. Uživatelé jako Geoff Perlman oceňují zlepšení autonomie, ale stále drží ruce na volantu.
 
-### Klíčové body
-- Elon Musk prohlásil, že FSD umožní psát zprávy „v závislosti na kontextu okolní dopravy“.
-- Testovací uživatel Geoff Perlman chválí lepší manévrování v husté dopravě a parkování oproti průměrnému řidiči.
-- Systém FSD stojí navíc 8000 dolarů a Perlman ho doporučuje svému tchánovi kvůli stáří.
-- Bezpečnostní zastánci kritizují Muska za předčasné uvolňování funkcí pod tlakem konkurentů jako Waymo.
-- V roce 2015 Musk zdůraznil, že řidiči nemohou plně předat odpovědnost systému.
+## Klíčové body
+- Musk na X (dříve Twitter) potvrdil: „Ano, v závislosti na kontextu okolní dopravy.“
+- Softwaru FSD stojí navíc 8000 dolarů a zlepšuje manévrování v složitých situacích, jako jsou změny pruhů nebo parkování.
+- Bezpečnostní experti kritizují Teslu za předčasné uvolňování funkcí pod tlakem konkurentů jako Waymo.
+- V roce 2015 Musk zdůrazňoval, že řidiči nemohou plně předat odpovědnost.
+- Tesla neposkytla komentář k Muskovo prohlášení.
 
-### Podrobnosti
-Článek popisuje zkušenosti 61letého technologického manažera Geoffa Perlmana z Texasu, který v posledních týdnech testuje bezplatnou zkušební verzi nejnovějšího software Full Self-Driving (FSD) od Tesly během jízd po Austinu. FSD je pokročilý systém autonomního řízení, který využívá kamerové senzory, umělou inteligenci a neuronové sítě k navigaci vozidla bez zásahu řidiče. Perlman oceňuje, jak systém zvládá změny pruhů v zmatené dopravě a parkování na přeplněných parkovištích – podle něj lépe než průměrný lidský řidič. Plánuje doporučit upgrade i svému 89letému tchánovi, pro kterého by FSD usnadnil mobilitu v důchodovém věku. Cena upgradu činí 8000 dolarů (přibližně 185 000 Kč).
+## Podrobnosti
+Článek se zaměřuje na kontroverzní prohlášení Elona Muska týkající se softwaru Full Self-Driving (FSD) verze 12.x, který Tesla nedávno uvolnila v bezplatné zkušební verzi pro vybrané uživatele. Geoff Perlman, 61letý texaský technologický manažer, testuje systém během jízd po Austinu. Podle něj FSD zvládá složité manévry, jako jsou neočekávané změny pruhů nebo parkování na přeplněných parkovištích, lépe než průměrný řidič. Plánuje doporučit upgrade i 89letému tchánovi, aby mu pomohl s mobilitou v důchodovém věku. Systém však stále vyžaduje dohled řidiče – Perlman hlídá silnici a vyhýbá se mobilu, protože podle něj je pozorování telefonu v těžkém voze na dálnici příliš riskantní.
 
-Přesto Perlman zachovává opatrnost: ruce drží na volantu, oči na silnici a telefon nepoužívá k psaní zpráv. „Dívat se na telefon v několiketunovém voze na dálnici se mi zdá šílené,“ říká. Naopak Elon Musk, šéf Tesly, takové zábrany nemá. Minulý měsíc investořům oznámil, že firma bude sledovat bezpečnostní statistiky, ale povolí psaní zpráv „v podstatě“. Na otázku na platformě X odpověděl: „Ano, v závislosti na kontextu okolní dopravy.“ Tesla na žádosti o upřesnění neodpověděla.
+Muskovo stanovisko je opačné. Minulý měsíc na setkání s investory zmínil, že Tesla zváží statistiky bezpečnosti a umožní „textování a řízení“. Na dotaz na platformě X odpověděl kladně s podmínkou kontextu dopravy. FSD slouží k plné autonomii úrovně 2+ (podle SAE klasifikace), kde systém zpracovává data z kamer, radarů a ultrazvukových senzorů pro navigaci, brzdění a akceleraci. Tesla se spoléhá výhradně na kamerový systém bez lidarů, což ji odlišuje od Waymo (Alphabet), které používá kombinaci senzorů pro vyšší úroveň autonomie (úroveň 4 v robotaxi službách v několika městech USA).
 
-Tato politika obnovuje kritiku bezpečnostních zastánců, kteří Muska obviňují z riskantního přístupu k bezpečnosti pod tlakem konkurentů. Společnost Waymo (dříve projekt Google) již provozuje plně autonomní taxíky v několika městech bez řidiče na palubě, což zvyšuje očekávání na Teslu. V roce 2015 Musk při představení Autopilotu varoval, že řidiči nemohou „abdikovat odpovědnost – to přijde v budoucnosti“. Dnes se zdá, že Tesla urychluje tento přechod, aniž by plně pochopila důsledky. Experti poukazují, že FSD stále vyžaduje dohled řidiče a incidenty s autonomními systémy ukazují rizika distrakce.
+Tato změna přichází v době tlaku od konkurentů. Waymo provozuje komerční robotaxi bez řidiče, zatímco Tesla slibuje plnou autonomii od roku 2016, ale dosud nedosáhla úrovně 4 nebo 5. Bezpečnostní zastánci obviňují Muska z uponáhlaných rozhodnutí – například v minulosti Tesla podcenila rizika Autopilotu, což vedlo k nehodám. V roce 2015 Musk sám řekl, že řidiči nemohou „abdikovat odpovědnost“, což se teď mění. Tesla neupřesnila, jaké podmínky (např. rychlost, hustota provozu) umožní odvrácení pozornosti, ani jak systém detekuje, zda řidič netextuje.
 
-### Proč je to důležité
-Tato novinka v systému FSD signalizuje posun k vyšší úrovni autonomie (úroveň 4 podle SAE klasifikace), kde by vozidlo zvládalo složité scénáře bez stálého dohledu. Pro uživatele to znamená potenciálně větší svobodu, například práci nebo odpočinek během jízdy, ale zároveň zvyšuje riziko nehod kvůli distrakci – statistiky NHTSA ukazují, že psaní zpráv zvyšuje riziko o 23násobek. V širším kontextu to tlačí průmysl k rychlejšímu vývoji, kde Tesla riskuje reputaci kvůli incidentům (např. smrtelné nehody s Autopilotem). Konkurence jako Waymo nebo Cruise demonstruje konzervativnější přístup s tisíci mil bezpečných jízd, což může donutit Teslu k revizi politiky. Dlouhodobě to ovlivní regulace autonomních vozidel v EU i USA, kde se diskutuje o povinném dohledu.
+## Proč je to důležité
+Toto prohlášení urychluje debatu o bezpečnosti v autonomním řízení, kde Tesla tlačí na hranice úrovně 2 směrem k vyšším. Pro uživatele to znamená potenciálně větší pohodlí, ale i riziko nehod, pokud systém selže – statistiky NHTSA ukazují vyšší míru kolizí u FSD než u manuálního řízení. Průmysl čeká na data: pokud Tesla prokáže nižší úmrtnost než lidští řidiči (aktuálně 1 nehoda na 5 milionů mil vs. 1 na milion u lidí), mohlo by to oslabit regulace FAA a NHTSA. Nicméně bez nezávislého ověření (Tesla zveřejňuje vlastní statistiky) zůstává důvěra nízká. V širším kontextu to zesiluje soutěž s Waymo a Cruise, kde plná autonomie bez dohledu ještě není realitou pro spotřebitele, a zdůrazňuje nutnost lepšího testování AI modelů pro predikci chování.
+
+(Celkem 512 slov)
 
 ---
 
