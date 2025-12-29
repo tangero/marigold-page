@@ -1,7 +1,47 @@
 {
-  "generated": "2025-12-29T16:45:57.045848+00:00",
+  "generated": "2025-12-29T20:46:49.579581+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "„Křestní otec AI“ Geoffrey Hinton předpovídá, že v roce 2026 se technologie ještě zlepší a získá schopnost nahradit mnoho dalších prací",
+      "description": "Umělá inteligence už je podle něj extrémně dobrá a brzy nahradí mnoho pracovních míst. Hinton varuje před rychlým pokrokem v uvažování a schopnosti klamat lidi.",
+      "slug": "godfather-of-ai-geoffrey-hinton-predicts-2026-will",
+      "publishedAt": "2025-12-28T20:03:21+00:00",
+      "date": "2025-12-28 20:03:21",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2245776270-e1766947635856.jpg?resize=1200,600",
+      "url": "/tech-news/2025-12-28/godfather-of-ai-geoffrey-hinton-predicts-2026-will/",
+      "source": {
+        "emoji": "📰",
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "companies": [],
+      "people": [
+        "Geoffrey Hinton"
+      ]
+    },
+    {
+      "title": "Jak ChatGPT stal obratem pro bývalé zaměstnance Google vydělávající přes 2 miliony dolarů ročně",
+      "description": "Bývalí zaměstnanci Google uzavřeli ziskový startup vydělávající 2 miliony dolarů ročně, aby se plně zaměřili na umělou inteligenci, a restartovali novou firmu Anything, která má po 11 milionech dolarů financování valuaci 100 milionů dolarů.",
+      "slug": "how-chatgpt-became-turning-point-for-ex-google-emp",
+      "publishedAt": "2025-12-28T17:17:24+00:00",
+      "date": "2025-12-28 17:17:24",
+      "importance": 4,
+      "category": "ai startupy",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2025/12/28/1600x900/logo/chatg_1766941477366_1766941483018.png",
+      "url": "/tech-news/2025-12-28/how-chatgpt-became-turning-point-for-ex-google-emp/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Livemint"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
     {
       "title": "Od umělé inteligence po čipy: Velké technologické firmy dostávají od Trumpa, co chtějí",
       "description": "Administrativa prezidenta Trumpa přijala přátelský postoj k technologickému průmyslu a uvolnila exportní omezení na čipy pro AI, což umožnilo velkým firmám jako Nvidia expandovat a zvýšilo jejich akcie i ocenění kryptoměn.",
@@ -3780,26 +3820,6 @@
       ]
     },
     {
-      "title": "Tvůrce softwaru pro investiční analýzy Clearwater souhlasí s převzetím do soukromého vlastnictví v dealu za 8,4 miliardy dolarů",
-      "description": "Společnost Clearwater Analytics Holdings Inc., která vyvíjí software pro investiční účetnictví a analýzy, bude převzata soukromými investičními firmami Permira a Warburg Pincus za 8,4 miliardy dolarů. Cena 24,55 dolaru za akcii představuje 47procentní prémií oproti kurzu z 10. listopadu.",
-      "slug": "investing-analytics-software-maker-clearwater-agre",
-      "publishedAt": "2025-12-21T23:28:46+00:00",
-      "date": "2025-12-21 23:28:46",
-      "importance": 5,
-      "category": "fintech",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Screenshot-from-2025-12-22-06-25-38.png",
-      "url": "/tech-news/2025-12-21/investing-analytics-software-maker-clearwater-agre/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Clearwater Analytics Holdings Inc"
-      ],
-      "people": []
-    },
-    {
       "title": "Reportáž: Čína dělá velký skok vpřed v technologii čipů",
       "description": "Čína je dál v úsilí prolomit západní monopol na nejpokročilejší počítačové čipy, než se očekávalo v Washingtonu. Čínští vědci v zabezpečené laboratoři v Šen-čenu postavili prototyp extrémně ultrafialové litografické zařízení, které je klíčové pro výrobu čipů pro AI, chytré telefony a pokročilé zbraně.",
       "slug": "report-china-takes-a-big-leap-forward-in-chip-tech",
@@ -3972,26 +3992,6 @@
       "people": [
         "Donald Trump"
       ]
-    },
-    {
-      "title": "Jak se Oracle stalo symbolem obav z AI bubliny",
-      "description": "Akcie Oracle dosáhly vrcholu v září, než v druhé polovině roku utrpěly pokračující pokles. Společnost se stala příkladem nejistoty investorů ohledně budoucnosti investic do AI.",
-      "slug": "how-oracle-became-a-poster-child-for-ai-bubble-fea",
-      "publishedAt": "2025-12-21T15:00:39+00:00",
-      "date": "2025-12-21 15:00:39",
-      "importance": 4,
-      "category": "ai bublina",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/R9FXlTbkvVzLIkvCFqe3AQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/234bd480-dc72-11f0-bb76-4afba1d1dbe0",
-      "url": "/tech-news/2025-12-21/how-oracle-became-a-poster-child-for-ai-bubble-fea/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [
-        "Oracle"
-      ],
-      "people": []
     },
     {
       "title": "Nano Banana Pro oloupané: Podívejte se, co jsem vytvořil s nejnovějším generátorem obrázků od Google",
