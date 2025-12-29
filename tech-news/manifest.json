@@ -1,7 +1,27 @@
 {
-  "generated": "2025-12-29T05:01:45.956030+00:00",
+  "generated": "2025-12-29T08:40:35.135844+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Je SpaceX připraveno zahájit testy orbitálního doplňování paliva? - Spaceflight Weekly #198",
+      "description": "Tento týden na Starbase pokračuje stavba na místě startu a separátoru vzduchu, práce na Boosteru 19 a Shipu 39, včetně nové truss struktury na Massey Outpost. SpaceX zároveň dosáhlo milníku se starty Starlink, zatímco Rocket Lab, ULA a Arianespace přispěly dalšími misemi a NASA jmenovala 15. administrátora.",
+      "slug": "is-spacex-ready-to-start-testing-orbital-refilling",
+      "publishedAt": "2025-12-28T06:36:34+00:00",
+      "date": "2025-12-28 06:36:34",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": null,
+      "url": "/tech-news/2025-12-28/is-spacex-ready-to-start-testing-orbital-refilling/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "companies": [
+        "SpaceX"
+      ],
+      "people": []
+    },
     {
       "title": "Čína vydává návrhové pravidla pro regulaci AI s lidskou interakcí - Reuters",
       "description": "Čínská správa kyberprostoru zveřejnila návrh na regulaci AI systémů s personifikovanou interakcí, jako jsou chatboti a virtuální společníci. Cílem je zajistit bezpečnost a soulad s národními zájmy při sběru veřejných připomínek.",
@@ -3985,24 +4005,6 @@
       "people": [
         "Elon Musk"
       ]
-    },
-    {
-      "title": "Zabije kvantové počítání Bitcoin?",
-      "description": "Tvrdby, že kvantové počítání zničí Bitcoin, mohou být přehnané, ale Bitcoin bude muset být upraven, aby odolal této hrozbě.",
-      "slug": "will-quantum-computing-kill-bitcoin",
-      "publishedAt": "2025-12-20T12:02:00+00:00",
-      "date": "2025-12-20 12:02:00",
-      "importance": 5,
-      "category": "kryptoměny",
-      "urlToImage": "https://www.computerweekly.com/visuals/German/article/quantum-computing-2-adobe.jpg",
-      "url": "/tech-news/2025-12-20/will-quantum-computing-kill-bitcoin/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "ComputerWeekly.com"
-      },
-      "companies": [],
-      "people": []
     },
     {
       "title": "Chůze humanoidního robota XPeng „catwalk“ vyvolává debatu, průmysl se zaměřuje na technologie pohonu další generace",
