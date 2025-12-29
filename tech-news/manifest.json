@@ -1,7 +1,106 @@
 {
-  "generated": "2025-12-29T08:40:35.135844+00:00",
+  "generated": "2025-12-29T12:50:02.637765+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Top 10 příběhů z Bay Area v roce 2025 – a co znamenají pro rok 2026",
+      "description": "V roce 2025 explodoval růst umělé inteligence s Nvidia na hodnotě 5 bilionů dolarů, autonomní vozy vstoupily na dálnice, zatímco politické debaty o bydlení a bezpečnosti ovlivnily každodenní život. Region se stal epicentrem technologických změn, které mění práci, vzdělávání a dopravu.",
+      "slug": "the-top-10-bay-area-stories-of-2025-and-what-they-",
+      "publishedAt": "2025-12-28T12:02:54+00:00",
+      "date": "2025-12-28 12:02:54",
+      "importance": 5,
+      "category": "křemíkové údolí",
+      "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/07/France_Vivatech_93460.jpg?w=1024&h=683",
+      "url": "/tech-news/2025-12-28/the-top-10-bay-area-stories-of-2025-and-what-they/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Mercury News"
+      },
+      "companies": [],
+      "people": [
+        "Newsom"
+      ]
+    },
+    {
+      "title": "Rok v přehledu 2025: Konsolidace, chaos a cookies",
+      "description": "S blížícím se rokem 2026 přehled hlavních událostí roku 2025 a jejich dopadu na oblast reklamních technologií. Fúze agentur přetvářely trh, regulátoři zasahovali proti dominantním hráčům a Google upustil od plánů na nahrazení cookies.",
+      "slug": "year-in-review-2025-consolidation-chaos-and-cookie",
+      "publishedAt": "2025-12-28T10:00:00+00:00",
+      "date": "2025-12-28 10:00:00",
+      "importance": 4,
+      "category": "reklamní technologie",
+      "urlToImage": "https://cdn.exchangewire.com/wp-content/uploads/2024/11/AIcity33333-crop.jpg",
+      "url": "/tech-news/2025-12-28/year-in-review-2025-consolidation-chaos-and-cookie/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "ExchangeWire"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Robotaxi se v roce 2025 staly virální. Tyto mapy ukazují, kde budete moci jezdit v roce 2026.",
+      "description": "Robotaxi získaly popularitu díky virálním videím, jak jejich přítomnost rostla v USA v roce 2025. V roce 2026 se rozšíří na více amerických silnic a měst.",
+      "slug": "robotaxis-went-viral-in-2025-these-maps-show-where",
+      "publishedAt": "2025-12-28T09:14:01+00:00",
+      "date": "2025-12-28 09:14:01",
+      "importance": 4,
+      "category": "robotaxi",
+      "urlToImage": "https://i.insider.com/694c5e9964858d02d21763ad?width=1200&format=jpeg",
+      "url": "/tech-news/2025-12-28/robotaxis-went-viral-in-2025-these-maps-show-where/",
+      "source": {
+        "emoji": "📰",
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Učte se rychleji s NotebookLM: Přizpůsobuje lekce myšlenkovými mapami pro lepší zapamatování",
+      "description": "Google rozšiřuje platformu NotebookLM o funkci „Learn Your Way“, která personalizuje vzdělávací obsah podle individuálního stylu učení uživatele. Tato AI platforma adaptuje lekce do vizuálních map, příběhů nebo kvízů, což zlepšuje porozumění a uchování informací oproti tradičním metodám.",
+      "slug": "learn-quicker-with-notebooklm-adapts-lessons-with-",
+      "publishedAt": "2025-12-28T09:00:46+00:00",
+      "date": "2025-12-28 09:00:46",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/slides-quizzes-narration-google-ai_optimized.jpg",
+      "url": "/tech-news/2025-12-28/learn-quicker-with-notebooklm-adapts-lessons-with/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nvidia zaplatila 20 miliard dolarů za neexkluzivní licenci na technologii inference od Groq",
+      "description": "Nvidia získala neexkluzivní licenci na pokročilou inference technologii od firmy Groq za 20 miliard dolarů, včetně jejich inženýrského týmu a patentů, aniž by koupila celou společnost. Tento krok vyvolává otázky ohledně obcházení regulačních schválení FTC.",
+      "slug": "daily-tech-news-28-december-2025",
+      "publishedAt": "2025-12-28T09:00:00+00:00",
+      "date": "2025-12-28 09:00:00",
+      "importance": 5,
+      "category": "ai",
+      "urlToImage": null,
+      "url": "/tech-news/2025-12-28/daily-tech-news-28-december-2025/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Acecomments.mu.nu"
+      },
+      "companies": [
+        "Nvidia",
+        "Groq"
+      ],
+      "people": []
+    },
     {
       "title": "Je SpaceX připraveno zahájit testy orbitálního doplňování paliva? - Spaceflight Weekly #198",
       "description": "Tento týden na Starbase pokračuje stavba na místě startu a separátoru vzduchu, práce na Boosteru 19 a Shipu 39, včetně nové truss struktury na Massey Outpost. SpaceX zároveň dosáhlo milníku se starty Starlink, zatímco Rocket Lab, ULA a Arianespace přispěly dalšími misemi a NASA jmenovala 15. administrátora.",
@@ -3578,24 +3677,6 @@
       "people": []
     },
     {
-      "title": "Analýza: Reformy v čínském energetickém sektoru a globální výstavba datových center přinášejí boom baterií",
-      "description": "Reformy čínského trhu s elektřinou zlepšují ekonomiku ukládání energie právě v době, kdy mezinárodní poptávka roste, což spouští boom pro čínské výrobce úložišť energie, kteří již globálně dominují.",
-      "slug": "analysis-chinas-power-reforms-global-data-centre-b",
-      "publishedAt": "2025-12-21T23:09:07+00:00",
-      "date": "2025-12-21 23:09:07",
-      "importance": 4,
-      "category": "úložiště energie",
-      "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/866e294707c1386c1f5a41da1047bec7",
-      "url": "/tech-news/2025-12-21/analysis-chinas-power-reforms-global-data-centre-b/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Reportáž: Čína dělá velký skok vpřed v technologii čipů",
       "description": "Čína je dál v úsilí prolomit západní monopol na nejpokročilejší počítačové čipy, než se očekávalo v Washingtonu. Čínští vědci v zabezpečené laboratoři v Šen-čenu postavili prototyp extrémně ultrafialové litografické zařízení, které je klíčové pro výrobu čipů pro AI, chytré telefony a pokročilé zbraně.",
       "slug": "report-china-takes-a-big-leap-forward-in-chip-tech",
@@ -3684,24 +3765,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Yahoo Entertainment"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Autonomie agentů bez zábran je noční můra pro SRE",
-      "description": "Článek z VentureBeat varuje před riziky nasazení plně autonomních AI agentů bez bezpečnostních mechanismů, což představuje významné výzvy pro specialisty na spolehlivost systémů (SRE).",
-      "slug": "agent-autonomy-without-guardrails-is-an-sre-nightm",
-      "publishedAt": "2025-12-21T20:00:41+00:00",
-      "date": "2025-12-21 20:00:41",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://images.ctfassets.net/jdtwqhzvc2n1/rxbKNH1o8tpwpScizzIEV/87402fa2b986b713ae0b029f2725250f/Building_agents.png?w=800&q=75",
-      "url": "/tech-news/2025-12-21/agent-autonomy-without-guardrails-is-an-sre-nightm/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "VentureBeat"
       },
       "companies": [],
       "people": []
@@ -3847,26 +3910,6 @@
       "people": []
     },
     {
-      "title": "Altucherova predikce o Starlinku čelí první skutečné zkoušce při zesilujících se spekulacích o IPO v roce 2026",
-      "description": "James Altucher vydal nejnovější video prezentaci, která znovu prohlíží jeho predikci o plánovaném úvodu Starlinku na burzu v roce 2026. Predikce se ověřuje v reálném čase díky rychlému růstu satelitní sítě a jejímu strategickému významu pro globální konektivitu.",
-      "slug": "altuchers-starlink-call-faces-its-first-real-test-",
-      "publishedAt": "2025-12-21T14:15:00+00:00",
-      "date": "2025-12-21 14:15:00",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-21/altuchers-starlink-call-faces-its-first-real-test/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [],
-      "people": [
-        "James Altucher"
-      ]
-    },
-    {
       "title": "Nano Banana Pro oloupané: Podívejte se, co jsem vytvořil s nejnovějším generátorem obrázků od Google",
       "description": "Nano Banana Pro, přezdívka pro novou verzi modelu Gemini 3 pro generování a úpravu obrázků, přináší vylepšené funkce oproti původnímu Nano Banana (Gemini 2.5). Tento model získal cenu PCMag Technical Excellence za své schopnosti v tvorbě a editaci obrázků.",
       "slug": "nano-banana-pro-unpeeled-see-what-i-made-with-goog",
@@ -3885,28 +3928,6 @@
         "Google"
       ],
       "people": []
-    },
-    {
-      "title": "Neomezená inteligence a školení jako ochrana utváří budoucnost AI: šéf Microsoftu v Indii",
-      "description": "Prezident Microsoft India a Jižní Asie Puneet Chandok předpovídá éru neomezené inteligence, kde AI agenti budou fungovat jako digitální kolegové pod lidským dohledem, přičemž kontinuální školení slouží jako klíčová ochrana. Microsoft investuje 17,5 miliardy USD do infrastruktury pro AI v Indii, což je největší investice společnosti v Asii.",
-      "slug": "abundant-intelligence-skilling-safeguard-to-shape-",
-      "publishedAt": "2025-12-21T11:11:32+00:00",
-      "date": "2025-12-21 11:11:32",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-42658,resizemode-75,msid-126104672/tech/artificial-intelligence/abundant-intelligence-skilling-safeguard-to-shape-ai-future-microsoft-india-head.jpg",
-      "url": "/tech-news/2025-12-21/abundant-intelligence-skilling-safeguard-to-shape/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Microsoft"
-      ],
-      "people": [
-        "Satya Nadella"
-      ]
     },
     {
       "title": "Čínské otevřené modely AI se vyrovnávají Západu – co bude dál",
@@ -4005,27 +4026,6 @@
       "people": [
         "Elon Musk"
       ]
-    },
-    {
-      "title": "Chůze humanoidního robota XPeng „catwalk“ vyvolává debatu, průmysl se zaměřuje na technologie pohonu další generace",
-      "description": "Humanoidní roboti pokračují v pokrocích, XPeng nedávno představil robota nové generace IRON s velmi přirozenou posturou, což spustilo širokou diskusi v oboru. Krátce poté Tesla zveřejnila video svého robota Optimus běžícího.",
-      "slug": "xpengs-humanoid-robot-catwalk-sparks-debate-as-ind",
-      "publishedAt": "2025-12-20T01:41:31+00:00",
-      "date": "2025-12-20 01:41:31",
-      "importance": 5,
-      "category": "robotika",
-      "urlToImage": "https://img.digitimes.com/newsshow/20251218pd226_files/2_b.jpg",
-      "url": "/tech-news/2025-12-20/xpengs-humanoid-robot-catwalk-sparks-debate-as-ind/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
-      },
-      "companies": [
-        "XPeng",
-        "Tesla"
-      ],
-      "people": []
     }
   ]
 }
