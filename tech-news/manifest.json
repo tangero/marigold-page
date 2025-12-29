@@ -1,7 +1,25 @@
 {
-  "generated": "2025-12-28T20:34:13.041105+00:00",
+  "generated": "2025-12-29T01:18:34.733289+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Čína vydává návrh pravidel pro regulaci AI s lidskou interakcí",
+      "description": "Čínská správa kyberprostoru zveřejnila návrh na regulaci umělé inteligence, která napodobuje lidské chování a interakce. Cílem je kontrolovat personifikované AI služby, aby neohrozily ideologickou stabilitu komunistické strany.",
+      "slug": "china-issues-draft-rules-to-regulate-ai-with-human",
+      "publishedAt": "2025-12-27T21:32:49+00:00",
+      "date": "2025-12-27 21:32:49",
+      "importance": 4,
+      "category": "regulace ai",
+      "urlToImage": null,
+      "url": "/tech-news/2025-12-27/china-issues-draft-rules-to-regulate-ai-with-human/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Apple opravuje dvě zero-day zranitelnosti využívané v cílených útocích",
       "description": "Apple vydal nouzové bezpečnostní aktualizace pro dvě zero-day zranitelnosti v WebKit, které byly aktivně exploitovány v sofistikovaných útocích na konkrétní jednotlivce. Uživatelům iPhonu a iPadu se doporučuje okamžitě aktualizovat zařízení.",
@@ -3967,24 +3985,6 @@
       "people": [
         "Elon Musk"
       ]
-    },
-    {
-      "title": "Tento týdenní výběr technologických příběhů z webu (do 20. prosince)",
-      "description": "Souhrn klíčových tech novinek týdne zahrnuje spekulace o životě v roce 2035 s umělou obecné inteligencí, self-improving kódovací agent Codex od OpenAI a debaty o nasazení AI v programování. Další témata zahrnují biotechnologii a brain-computer interface.",
-      "slug": "this-weeks-awesome-tech-stories-from-around-the-we",
-      "publishedAt": "2025-12-20T15:00:00+00:00",
-      "date": "2025-12-20 15:00:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://singularityhub.com/uploads/2025/12/infrared-images-of-titan-nasa-cassini.jpeg?auto=webp",
-      "url": "/tech-news/2025-12-20/this-weeks-awesome-tech-stories-from-around-the-we/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Singularity Hub"
-      },
-      "companies": [],
-      "people": []
     },
     {
       "title": "Zabije kvantové počítání Bitcoin?",
