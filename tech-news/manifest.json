@@ -1,7 +1,130 @@
 {
-  "generated": "2025-12-29T12:50:02.637765+00:00",
+  "generated": "2025-12-29T16:45:57.045848+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Od umělé inteligence po čipy: Velké technologické firmy dostávají od Trumpa, co chtějí",
+      "description": "Administrativa prezidenta Trumpa přijala přátelský postoj k technologickému průmyslu a uvolnila exportní omezení na čipy pro AI, což umožnilo velkým firmám jako Nvidia expandovat a zvýšilo jejich akcie i ocenění kryptoměn.",
+      "slug": "from-ai-to-chips-big-tech-is-getting-what-it-wants",
+      "publishedAt": "2025-12-28T16:14:09+00:00",
+      "date": "2025-12-28 16:14:09",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-74916,resizemode-75,msid-126217285/tech/technology/from-ai-to-chips-big-tech-is-getting-what-it-wants-from-trump.jpg",
+      "url": "/tech-news/2025-12-28/from-ai-to-chips-big-tech-is-getting-what-it-wants/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": [
+        "Donald Trump"
+      ]
+    },
+    {
+      "title": "Uber spolupracuje s Lyftem a Baidu na spuštění testů autonomních taxíků ve Velké Británii",
+      "description": "Společnosti Uber, Lyft a čínský Baidu spustí příští rok testy autonomních taxíků v Londýně. Do projektů se zapojí i startup Wayve s investicí přibližně 1 miliardy dolarů od Uberu a SoftBanku.",
+      "slug": "uber-technologies-uber-partners-with-lyft-and-baid",
+      "publishedAt": "2025-12-28T15:59:14+00:00",
+      "date": "2025-12-28 15:59:14",
+      "importance": 4,
+      "category": "autonomní vozidla",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/GjtvmBhItrilu8Ag7qjwaA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/1b0d24331c5749b8809056a69d9d96ee",
+      "url": "/tech-news/2025-12-28/uber-technologies-uber-partners-with-lyft-and-baid/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "Uber Technologies",
+        "Lyft",
+        "Baidu"
+      ],
+      "people": []
+    },
+    {
+      "title": "ServiceNow dokončila akvizici Moveworks: Co byste měli vědět",
+      "description": "Společnost ServiceNow oznámila 15. prosince dokončení akvizice firmy Moveworks, která se specializuje na AI asistenty pro podnikové vyhledávání a konverzační AI. Tato akvizice vytváří jednotnou platformu sloužící jako vstupní bod založený na AI pro zaměstnance firem.",
+      "slug": "servicenow-inc-now-completes-moveworks-acquisition",
+      "publishedAt": "2025-12-28T15:58:58+00:00",
+      "date": "2025-12-28 15:58:58",
+      "importance": 4,
+      "category": "akvizice",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/m_syx5plVspKhlA6enPMpQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/5775cb349015718d263df9d11bfbbfa0",
+      "url": "/tech-news/2025-12-28/servicenow-inc-now-completes-moveworks-acquisition/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "ServiceNow",
+        "Moveworks"
+      ],
+      "people": []
+    },
+    {
+      "title": "Needham upozorňuje na přechod Rocket Lab (RKLB) k hlavnímu dodavateli pro obranu po rekordní zakázce na satelity za 805 milionů dolarů",
+      "description": "Rocket Lab Corporation (NASDAQ: RKLB) patří mezi nejlepší akcie vycházejících technologických firem pro investory. Dne 23. prosince Needham zvýšil cenový cíl akcie na 90 dolarů z 63 dolarů při udržení doporučení Koupit.",
+      "slug": "needham-highlights-rocket-labs-rklb-shift-to-major",
+      "publishedAt": "2025-12-28T15:05:41+00:00",
+      "date": "2025-12-28 15:05:41",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/g.aUiIofdxP0dN4YKcL4Ww--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/419b4545bbf583b1916a4b0eec76014e",
+      "url": "/tech-news/2025-12-28/needham-highlights-rocket-labs-rklb-shift-to-major/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "Rocket Lab"
+      ],
+      "people": []
+    },
+    {
+      "title": "Wedbush upozorňuje na rostoucí příjmy IonQ (IONQ) a silný prodejní pipeline v kvantovém leadershipu",
+      "description": "Společnost IonQ Inc. (NYSE: IONQ) patří mezi nejlepší akcie v oblasti nových technologií pro investice. Dne 17. prosince zahájila analytická firma Wedbush pokrytí IonQ s hodnocením Outperform a cenovým cílem 60 USD.",
+      "slug": "wedbush-spotlights-ionqs-ionq-scaling-revenue-and-",
+      "publishedAt": "2025-12-28T15:05:38+00:00",
+      "date": "2025-12-28 15:05:38",
+      "importance": 4,
+      "category": "kvantové počítače",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/q1L0vH36zKHEHGHEm3702Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/80692f3e48103e8907cb30b996063895",
+      "url": "/tech-news/2025-12-28/wedbush-spotlights-ionqs-ionq-scaling-revenue-and/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "IonQ"
+      ],
+      "people": []
+    },
+    {
+      "title": "Deutsche Bank oceňuje konzistentní provedení a technické vedení společnosti Micron (MU) po rekordních výsledcích",
+      "description": "Společnost Micron Technology (NASDAQ:MU) patří mezi nejlepší akcie indexu S&P 500 v roce 2025. Deutsche Bank 18. prosince zvýšila cenový cíl na akcie na 300 USD z 280 USD při udržení doporučení Koupit díky silným výsledkům poháněným poptávkou po pamětech pro AI.",
+      "slug": "deutsche-bank-applauds-microns-mu-consistent-execu",
+      "publishedAt": "2025-12-28T15:05:17+00:00",
+      "date": "2025-12-28 15:05:17",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/GFNsOLjc4_3gbqmmkPNSDA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/cece14d8df3ff9750f89999715c2f4bb",
+      "url": "/tech-news/2025-12-28/deutsche-bank-applauds-microns-mu-consistent-execu/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "Micron Technology Inc"
+      ],
+      "people": []
+    },
     {
       "title": "Top 10 příběhů z Bay Area v roce 2025 – a co znamenají pro rok 2026",
       "description": "V roce 2025 explodoval růst umělé inteligence s Nvidia na hodnotě 5 bilionů dolarů, autonomní vozy vstoupily na dálnice, zatímco politické debaty o bydlení a bezpečnosti ovlivnily každodenní život. Region se stal epicentrem technologických změn, které mění práci, vzdělávání a dopravu.",
@@ -3770,24 +3893,6 @@
       "people": []
     },
     {
-      "title": "Mezi umělou inteligencí a humanoidními roboty bychom mohli stát na historickém zlomu",
-      "description": "Bublina na akciovém trhu poháněná AI je v historii unikátní tím, že pokud to není bublina, její dopad na lidstvo by mohl být náročnější než u jakékoli předchozí technologie.",
-      "slug": "between-ai-and-humanoid-robots-we-could-be-at-a-tu",
-      "publishedAt": "2025-12-21T18:00:00+00:00",
-      "date": "2025-12-21 18:00:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/61baa2df816a8677d75d45f219272ac8?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=521&width=862&height=485&imformat=generic",
-      "url": "/tech-news/2025-12-21/between-ai-and-humanoid-robots-we-could-be-at-a-tu/",
-      "source": {
-        "emoji": "📰",
-        "id": "abc-news-au",
-        "name": "ABC News (AU)"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Fúze Trump Media a TAE: Skok fúzního průmyslu na veřejný trh",
       "description": "Fúzní průmysl dosáhl významného milníku, který tentokrát nesouvisí s vědou. Společnost Trump Media & Technology Group oznámila fúzi s firmou TAE Technologies v hodnotě 6 miliard dolarů, což má urychlit výstavbu velkorozměrných fúzních elektráren.",
       "slug": "trump-mediatae-merger-fusions-public-market-leap",
@@ -3889,27 +3994,6 @@
       "people": []
     },
     {
-      "title": "Čínský Tencent získává přístup k „zakázaným“ AI čipům NVIDIA Blackwell B200 využitím mezery v amerických exportních kontrolách",
-      "description": "Ačkoli jsou Blackwell čipy zakázány k exportu do Číny, čínské AI giganty obcházejí omezení přes model nájmu. Tencent uzavřel smlouvy v hodnotě přes 1,2 miliardy dolarů s japonskou firmou Datasection pro přístup k 15 000 procesorům NVIDIA Blackwell.",
-      "slug": "chinas-tencent-gains-access-to-the-banned-nvidias-",
-      "publishedAt": "2025-12-21T14:57:40+00:00",
-      "date": "2025-12-21 14:57:40",
-      "importance": 4,
-      "category": "exportní kontroly",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/12/Untitled-design-23-728x410.png",
-      "url": "/tech-news/2025-12-21/chinas-tencent-gains-access-to-the-banned-nvidias/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Wccftech"
-      },
-      "companies": [
-        "Tencent",
-        "NVIDIA"
-      ],
-      "people": []
-    },
-    {
       "title": "Nano Banana Pro oloupané: Podívejte se, co jsem vytvořil s nejnovějším generátorem obrázků od Google",
       "description": "Nano Banana Pro, přezdívka pro novou verzi modelu Gemini 3 pro generování a úpravu obrázků, přináší vylepšené funkce oproti původnímu Nano Banana (Gemini 2.5). Tento model získal cenu PCMag Technical Excellence za své schopnosti v tvorbě a editaci obrázků.",
       "slug": "nano-banana-pro-unpeeled-see-what-i-made-with-goog",
@@ -3926,64 +4010,6 @@
       },
       "companies": [
         "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Čínské otevřené modely AI se vyrovnávají Západu – co bude dál",
-      "description": "S rostoucí technologickou úrovní a větší otevřeností čínských modelů se svět stále více obrací k Východu pro efektivní a přizpůsobitelnou umělou inteligenci, konstatuje nová zpráva. Čínské velké jazykové modely jako Qwen od Alibaba překonávají v některých metrikách západní konkurenty.",
-      "slug": "chinas-open-ai-models-are-in-a-dead-heat-with-the-",
-      "publishedAt": "2025-12-21T11:00:37+00:00",
-      "date": "2025-12-21 11:00:37",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/58614cf88f44ed924962996f00ff555f731479dd/2025/12/19/759fb476-ffdf-420d-9131-4509325f7c92/chinaus555gettyimages-2131985696.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "url": "/tech-news/2025-12-21/chinas-open-ai-models-are-in-a-dead-heat-with-the/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "ZDNet"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Gemini 3 Flash: Rychlý, multimodální a cenově příznivý",
-      "description": "Google představil model Gemini 3 Flash, který nabízí až trojnásobnou rychlost oproti předchůdci a snížení nákladů o více než 75 procent. Tento model podporuje pokročilé úlohy včetně multimodální analýzy a generování obsahu za nízkou cenu.",
-      "slug": "gemini-3-flash-fast-multimodal-easy-on-your-budget",
-      "publishedAt": "2025-12-21T11:00:06+00:00",
-      "date": "2025-12-21 11:00:06",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/multimodal-visual-reasoning-example_optimized.jpg",
-      "url": "/tech-news/2025-12-21/gemini-3-flash-fast-multimodal-easy-on-your-budget/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Čínský tajný „projekt Manhattan“ slaví úspěch: Domácí prototyp EUV lithografického stroje",
-      "description": "Čína tajně vyvinula funkční prototyp pokročilého EUV lithografického stroje, klíčového pro výrobu špičkových polovodičů. Projekt, přirovnávaný k Manhattan Projectu, zahrnoval reverzní inženýrství od bývalých inženýrů firmy ASML v zabezpečeném zařízení v Shenzhen.",
-      "slug": "chinas-secret-manhattan-project-claims-a-stunning-",
-      "publishedAt": "2025-12-21T06:00:00+00:00",
-      "date": "2025-12-21 06:00:00",
-      "importance": 5,
-      "category": "polovodiče",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/12/China-AI-super-intelligence.jpg",
-      "url": "/tech-news/2025-12-21/chinas-secret-manhattan-project-claims-a-stunning/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "companies": [
-        "ASML"
       ],
       "people": []
     },
@@ -4005,26 +4031,6 @@
       "companies": [],
       "people": [
         "Kash Patel"
-      ]
-    },
-    {
-      "title": "Elon tvrdí, že jeho nová raketa je stejně důležitá jako samotný původ života",
-      "description": "Pokud budou v budoucnosti historici, podívají se zpět na Starship a řeknou, že je to jedna z nejvýznamnějších věcí, které se kdy staly. Článek Elon tvrdí, že jeho nová raketa je stejně důležitá jako samotný původ života vyšel poprvé na Futurism.",
-      "slug": "elon-says-his-new-rocket-is-as-important-as-the-or",
-      "publishedAt": "2025-12-21T00:30:00+00:00",
-      "date": "2025-12-21 00:30:00",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://futurism.com/wp-content/uploads/2025/12/elon-starship-most-profound_d0a6da.jpg?w=1200",
-      "url": "/tech-news/2025-12-21/elon-says-his-new-rocket-is-as-important-as-the-or/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Futurism"
-      },
-      "companies": [],
-      "people": [
-        "Elon Musk"
       ]
     }
   ]
