@@ -1,7 +1,27 @@
 {
-  "generated": "2025-12-29T20:46:49.579581+00:00",
+  "generated": "2025-12-30T01:16:53.211863+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "OpenAI hledá seniorního vedoucího přípravy na rizika, jak roste dohled nad bezpečností AI",
+      "description": "OpenAI Group PBC nabízí pozici vedoucího přípravy, seniorní role zaměřenou na predikci potenciálních škod z umělých inteligencí modelů a navrhování opatření k jejich zmírnění při pokračujícím vývoji schopností. Role vede technickou strategii a provádění Preparedness Framework pro sledování hraničních schopností.",
+      "slug": "openai-hiring-senior-preparedness-lead-as-ai-safet",
+      "publishedAt": "2025-12-28T23:33:00+00:00",
+      "date": "2025-12-28 23:33:00",
+      "importance": 4,
+      "category": "bezpečnost ai",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/openaiheadofprepardness.png",
+      "url": "/tech-news/2025-12-28/openai-hiring-senior-preparedness-lead-as-ai-safet/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
     {
       "title": "„Křestní otec AI“ Geoffrey Hinton předpovídá, že v roce 2026 se technologie ještě zlepší a získá schopnost nahradit mnoho dalších prací",
       "description": "Umělá inteligence už je podle něj extrémně dobrá a brzy nahradí mnoho pracovních míst. Hinton varuje před rychlým pokrokem v uvažování a schopnosti klamat lidi.",
@@ -3930,26 +3950,6 @@
       "companies": [
         "Trump Media",
         "TAE"
-      ],
-      "people": []
-    },
-    {
-      "title": "Je MercadoLibre (MELI) jednou z nejlepších akcií na nákup na příštích 5 let?",
-      "description": "MercadoLibre Inc. (NASDAQ:MELI) patří mezi nejlepší akcie na nákup na příštích 5 let. 24. listopadu analytik UBS Kaio Prato snížil cenový cíl firmy na 2 900 USD z 3 000 USD.",
-      "slug": "is-mercadolibre-meli-one-of-the-best-stocks-to-buy",
-      "publishedAt": "2025-12-21T15:57:49+00:00",
-      "date": "2025-12-21 15:57:49",
-      "importance": 5,
-      "category": "akcie",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/KaITDnFQJ9zFrwcdfWN1jg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/3c14b7d7e5a067562bc220daa8e6dc22",
-      "url": "/tech-news/2025-12-21/is-mercadolibre-meli-one-of-the-best-stocks-to-buy/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [
-        "MercadoLibre"
       ],
       "people": []
     },
