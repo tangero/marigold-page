@@ -1,7 +1,219 @@
 {
-  "generated": "2025-12-30T01:16:53.211863+00:00",
+  "generated": "2025-12-30T05:00:26.439165+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Od umělé inteligence po čipy: Velké technologické firmy dostávají od Trumpa to, co chtějí",
+      "description": "Trump využil podporu technologických firem k posílení cíle amerického vedení v umělé inteligenci a kryptoměnách, přičemž zajistil úspěchy pro svou ekonomickou agendu „Amerika na prvním místě“.",
+      "slug": "from-ai-to-chips-big-tech-is-getting-what-it-wants",
+      "publishedAt": "2025-12-29T04:27:13+00:00",
+      "date": "2025-12-29 04:27:13",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://images.indianexpress.com/2025/12/Tech-featured-image20.jpg",
+      "url": "/tech-news/2025-12-29/from-ai-to-chips-big-tech-is-getting-what-it-wants/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "companies": [],
+      "people": [
+        "Trump"
+      ]
+    },
+    {
+      "title": "Čínská LandSpace se připravuje na konkurenci s Elonem Muskem a SpaceX",
+      "description": "LandSpace se stala první čínskou firmou, která otestovala znovupoužitelné rakety, což je klíčové pro budování národních konstelací satelitů. Společnost plánuje vstoupit na burzu, aby financovala další projekty.",
+      "slug": "chinas-landspace-gears-up-to-take-on-elon-musk-and",
+      "publishedAt": "2025-12-29T04:05:30+00:00",
+      "date": "2025-12-29 04:05:30",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/f75b786763c2d035cfb9dd9c4a538b71982848d16eb733001b208e3fab51089f",
+      "url": "/tech-news/2025-12-29/chinas-landspace-gears-up-to-take-on-elon-musk-and/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Straits Times"
+      },
+      "companies": [
+        "LandSpace",
+        "SpaceX"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Top 10 příběhů kyberbezpečnosti roku 2025",
+      "description": "Umělá inteligence ovládla technologické tituly roku 2025, ale obavy expertů na kyberbezpečnost přesahují rizika autonomních systémů. Témata jako vzdálená práce, bezpečnost dodavatelských řetězců, kvantové výpočty, identita a změny v americké politice zůstala v centru pozornosti.",
+      "slug": "top-10-cyber-security-stories-of-2025",
+      "publishedAt": "2025-12-29T04:00:00+00:00",
+      "date": "2025-12-29 04:00:00",
+      "importance": 4,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://www.computerweekly.com/visuals/German/article/think-about-security-adobe.jpg",
+      "url": "/tech-news/2025-12-29/top-10-cyber-security-stories-of-2025/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "ComputerWeekly.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Analýza: Nvidia staví kapitálovou příkop k upevnění éry CUDA",
+      "description": "Po krátkém přiblížení se k tržní kapitalizaci 5 bilionů USD Nvidia v roce 2025 investovala kapitál v nebývalém tempu do firem jako Groq, OpenAI, Nokia, Synopsys a Intel prostřednictvím technologických dohod, podílů a partnerství. Cílem je posílit dominanci platformy CUDA v oblasti AI.",
+      "slug": "analysis-nvidia-builds-capital-moat-to-lock-in-cud",
+      "publishedAt": "2025-12-29T03:40:47+00:00",
+      "date": "2025-12-29 03:40:47",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.digitimes.com/newsshow/20251229pd215_files/2_b.jpg",
+      "url": "/tech-news/2025-12-29/analysis-nvidia-builds-capital-moat-to-lock-in-cud/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [
+        "Nvidia",
+        "Groq",
+        "OpenAI",
+        "Nokia",
+        "Synopsys"
+      ],
+      "people": []
+    },
+    {
+      "title": "Za hranicí automatizace: Fyzická AI otevírá novou éru chytrých strojů",
+      "description": "Pokud dnes někdo objedná spodní prádlo z webu Spanx LLC, humanoidní robot zpracuje balík. V distribučním centru GXO Logistics v Georgii pohybují s merchandise bipedální stroje od Agility Robotics s mechanickou přesností a v závodě BMW Group v Spartanburgu roboti Figure 02 zrychlili montáž plechových dílů o 400 procent.",
+      "slug": "beyond-automation-physical-ai-ushers-in-a-new-era-",
+      "publishedAt": "2025-12-29T03:39:05+00:00",
+      "date": "2025-12-29 03:39:05",
+      "importance": 5,
+      "category": "robotika",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/A-modern-humanoid-robot-working-alongside-a-person-in-a-warehouse-setting-with-focus-on-the-robot-a.jpeg",
+      "url": "/tech-news/2025-12-29/beyond-automation-physical-ai-ushers-in-a-new-era/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Agility Robotics Inc",
+        "BMW Group"
+      ],
+      "people": []
+    },
+    {
+      "title": "Dohoda Nvidia s Groq otřásá jihokorskými čipovými startupy",
+      "description": "Nvidia uzavřela neexkluzivní licenční smlouvu se startupem Groq, čímž získala přístup k jeho specializované čipové technologii pro zpracování výstupů umělé inteligence a najala několik klíčových inženýrů. Tato dohoda signalizuje urychlenou expanzi Nvidia do oblasti inference a vyvolává obavy u jihokorských konkurentů.",
+      "slug": "nvidia-groq-deal-rattles-south-korean-chip-startup",
+      "publishedAt": "2025-12-29T03:19:04+00:00",
+      "date": "2025-12-29 03:19:04",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://img.digitimes.com/newsshow/20251229pd207_files/2_b.jpg",
+      "url": "/tech-news/2025-12-29/nvidia-groq-deal-rattles-south-korean-chip-startup/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [
+        "Nvidia",
+        "Groq"
+      ],
+      "people": []
+    },
+    {
+      "title": "Akvizice Groq společností Nvidia mění krajinu pamětí pro umělou inteligenci",
+      "description": "Společnost Nvidia údajně investovala 20 miliard dolarů do získání technologických licencí od Groq, což představuje její největší investici v historii. Tento krok přitahuje pozornost v Jižní Koreji díky podpoře Groq ze strany Samsung Electronics a jejich spolupráci.",
+      "slug": "nvidias-groq-acquisition-reshapes-ai-memory-landsc",
+      "publishedAt": "2025-12-29T02:53:55+00:00",
+      "date": "2025-12-29 02:53:55",
+      "importance": 5,
+      "category": "ai hardware",
+      "urlToImage": "https://img.digitimes.com/newsshow/20251229pd211_files/2_b.jpg",
+      "url": "/tech-news/2025-12-29/nvidias-groq-acquisition-reshapes-ai-memory-landsc/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [
+        "Nvidia",
+        "Groq",
+        "Samsung Electronics"
+      ],
+      "people": []
+    },
+    {
+      "title": "BYD se chystá překonat Teslu jako největšího prodejce elektromobilů na světě v roce 2025",
+      "description": "I přes rychlý růst čelí BYD výzvám na domácím trhu.",
+      "slug": "byd-set-to-surpass-tesla-as-worlds-top-ev-seller-i",
+      "publishedAt": "2025-12-29T02:13:41+00:00",
+      "date": "2025-12-29 02:13:41",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/6d98963dc3dee3399ff4683d0049f559cd5397ed1c6f6c2bef206869549452d6",
+      "url": "/tech-news/2025-12-29/byd-set-to-surpass-tesla-as-worlds-top-ev-seller-i/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Straits Times"
+      },
+      "companies": [
+        "BYD",
+        "Tesla"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nadiina kvaziakvizice společnosti Groq signalizuje výzvy pro přežití startupů v oblasti AI čipů",
+      "description": "Nvidia oznámila dohodu v hodnotě 20 miliard dolarů na získání neexkluzivních licencí na technologie od startupu Groq specializujícího se na AI čipy. Současný generální ředitel a jádro výzkumně-vývojového týmu Groq přechází do Nvidia k práci na integraci technologií, zatímco finanční ředitel Groq nastoupí na místo CEO.",
+      "slug": "nvidias-quasi-acquisition-of-groq-signals-ai-chip-",
+      "publishedAt": "2025-12-29T01:57:59+00:00",
+      "date": "2025-12-29 01:57:59",
+      "importance": 5,
+      "category": "ai čipy",
+      "urlToImage": "https://img.digitimes.com/newsshow/20251229pd206_files/2_b.jpg",
+      "url": "/tech-news/2025-12-29/nvidias-quasi-acquisition-of-groq-signals-ai-chip/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [
+        "Nvidia",
+        "Groq"
+      ],
+      "people": []
+    },
+    {
+      "title": "Čínská BYD se chystá překonat Tesla v prodejích elektromobilů v roce 2025",
+      "description": "Rostoucí čínský automobilový gigant BYD je na cestě oficiálně překonat Tesla jako největšího výrobce elektromobilů na světě podle ročních prodejů. Na základě dat do konce listopadu má BYD výrazný náskok před Teslou.",
+      "slug": "chinas-byd-poised-to-overtake-tesla-in-2025-ev-sal",
+      "publishedAt": "2025-12-29T01:27:20+00:00",
+      "date": "2025-12-29 01:27:20",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": null,
+      "url": "/tech-news/2025-12-29/chinas-byd-poised-to-overtake-tesla-in-2025-ev-sal/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digital Journal"
+      },
+      "companies": [
+        "BYD",
+        "Tesla"
+      ],
+      "people": []
+    },
     {
       "title": "OpenAI hledá seniorního vedoucího přípravy na rizika, jak roste dohled nad bezpečností AI",
       "description": "OpenAI Group PBC nabízí pozici vedoucího přípravy, seniorní role zaměřenou na predikci potenciálních škod z umělých inteligencí modelů a navrhování opatření k jejich zmírnění při pokračujícím vývoji schopností. Role vede technickou strategii a provádění Preparedness Framework pro sledování hraničních schopností.",
@@ -61,26 +273,6 @@
         "Google"
       ],
       "people": []
-    },
-    {
-      "title": "Od umělé inteligence po čipy: Velké technologické firmy dostávají od Trumpa, co chtějí",
-      "description": "Administrativa prezidenta Trumpa přijala přátelský postoj k technologickému průmyslu a uvolnila exportní omezení na čipy pro AI, což umožnilo velkým firmám jako Nvidia expandovat a zvýšilo jejich akcie i ocenění kryptoměn.",
-      "slug": "from-ai-to-chips-big-tech-is-getting-what-it-wants",
-      "publishedAt": "2025-12-28T16:14:09+00:00",
-      "date": "2025-12-28 16:14:09",
-      "importance": 4,
-      "category": "ai čipy",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-74916,resizemode-75,msid-126217285/tech/technology/from-ai-to-chips-big-tech-is-getting-what-it-wants-from-trump.jpg",
-      "url": "/tech-news/2025-12-28/from-ai-to-chips-big-tech-is-getting-what-it-wants/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [],
-      "people": [
-        "Donald Trump"
-      ]
     },
     {
       "title": "Uber spolupracuje s Lyftem a Baidu na spuštění testů autonomních taxíků ve Velké Británii",
@@ -3840,60 +4032,6 @@
       ]
     },
     {
-      "title": "Reportáž: Čína dělá velký skok vpřed v technologii čipů",
-      "description": "Čína je dál v úsilí prolomit západní monopol na nejpokročilejší počítačové čipy, než se očekávalo v Washingtonu. Čínští vědci v zabezpečené laboratoři v Šen-čenu postavili prototyp extrémně ultrafialové litografické zařízení, které je klíčové pro výrobu čipů pro AI, chytré telefony a pokročilé zbraně.",
-      "slug": "report-china-takes-a-big-leap-forward-in-chip-tech",
-      "publishedAt": "2025-12-21T21:34:00+00:00",
-      "date": "2025-12-21 21:34:00",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://img1-azrcdn.newser.com/image/1653220-12-20251221153402.jpeg",
-      "url": "/tech-news/2025-12-21/report-china-takes-a-big-leap-forward-in-chip-tech/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Newser"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Japonsko podpoří domácí vývoj AI investicí 1 bilionu jenů: zdroj",
-      "description": "Japonská vláda poskytne přibližně 1 bilion jenů (6,34 miliardy dolarů) na podporu během pěti let pro plánovanou novou společnost, která vyvine domácí umělou inteligenci, uvedl zdroj blízký věci. Společnost založí asi 10 subjektů.",
-      "slug": "japan-to-support-domestic-ai-development-with-1-tr",
-      "publishedAt": "2025-12-21T21:24:37+00:00",
-      "date": "2025-12-21 21:24:37",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-21/japan-to-support-domestic-ai-development-with-1-tr/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Japan Today"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "USA a Čína směřují k kolizi v oblasti umělé inteligence",
-      "description": "Soutěž je lítostivá, ale pravděpodobně nevyhnutelná.",
-      "slug": "us-and-china-are-headed-for-an-ai-collision",
-      "publishedAt": "2025-12-21T21:16:02+00:00",
-      "date": "2025-12-21 21:16:02",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.wnd.com/wp-content/uploads/2025/11/donald-trump-smiling-xi-jinping-china-chinese-american-flags.jpg",
-      "url": "/tech-news/2025-12-21/us-and-china-are-headed-for-an-ai-collision/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Wnd.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Proč Nvidia udržuje svou konkurenční převahu a Gemini OpenAI nepřemůže",
       "description": "Analýza vyvrací dva převažující narativy: oslabení dominance Nvidia díky alternativám jako TPU a převahu Google s modelem Gemini nad OpenAI. Podle autorů Nvidia díky čipům GB300 a Vera Rubin resetuje ekonomiku AI a zůstane nejlevnější platformou pro trénink i inference, zatímco Google čelí dilematu s reklamním modelem vyhledávání.",
       "slug": "why-nvidia-maintains-its-moat-and-gemini-wont-kill",
@@ -3913,125 +4051,6 @@
         "OpenAI"
       ],
       "people": []
-    },
-    {
-      "title": "S&P Global (SPGI) získává With Intelligence za 1,8 miliardy dolarů",
-      "description": "S&P Global Inc. (NYSE:SPGI) dokončil akvizici With Intelligence za 1,8 miliardy dolarů od skupiny investorů vedené Motive Partners. Tato společnost poskytuje data a analýzy pro alternativní a soukromé trhy a očekává se, že přinese roční příjmy kolem 130 milionů dolarů.",
-      "slug": "sp-global-spgi-acquires-with-intelligence-for-18-b",
-      "publishedAt": "2025-12-21T20:06:10+00:00",
-      "date": "2025-12-21 20:06:10",
-      "importance": 5,
-      "category": "akvizice",
-      "urlToImage": "https://media.zenfs.com/en/insidermonkey.com/c6a3baf7a221771680816fbb6c81586c",
-      "url": "/tech-news/2025-12-21/sp-global-spgi-acquires-with-intelligence-for-18-b/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Fúze Trump Media a TAE: Skok fúzního průmyslu na veřejný trh",
-      "description": "Fúzní průmysl dosáhl významného milníku, který tentokrát nesouvisí s vědou. Společnost Trump Media & Technology Group oznámila fúzi s firmou TAE Technologies v hodnotě 6 miliard dolarů, což má urychlit výstavbu velkorozměrných fúzních elektráren.",
-      "slug": "trump-mediatae-merger-fusions-public-market-leap",
-      "publishedAt": "2025-12-21T16:46:40+00:00",
-      "date": "2025-12-21 16:46:40",
-      "importance": 5,
-      "category": "jaderná fúze",
-      "urlToImage": "https://media.zenfs.com/en/power_magazine_984/0aa52992542ea38b87d667a70d564928",
-      "url": "/tech-news/2025-12-21/trump-mediatae-merger-fusions-public-market-leap/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "POWER magazine"
-      },
-      "companies": [
-        "Trump Media",
-        "TAE"
-      ],
-      "people": []
-    },
-    {
-      "title": "Permira a Warburg Pincus koupí Clearwater Analytics za 8,4 miliardy dolarů",
-      "description": "Skupina soukromých investičních fondů vedená Permirou a Warburg Pincus uzavřela dohodu o akvizici společnosti Clearwater Analytics Holdings, výrobce softwaru pro správu investic a účetnictví, za přibližně 8,4 miliardy dolarů včetně dluhu. Cena jedné akcie činí 24,55 dolaru v hotovosti, což představuje prémii 47 procent oproti kurzu 16,69 dolaru z 10. listopadu.",
-      "slug": "permira-warburg-to-buy-clearwater-analytics-for-84",
-      "publishedAt": "2025-12-21T15:39:30+00:00",
-      "date": "2025-12-21 15:39:30",
-      "importance": 5,
-      "category": "fintech",
-      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--ZdHPGX9S--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=npguKy4y",
-      "url": "/tech-news/2025-12-21/permira-warburg-to-buy-clearwater-analytics-for-84/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNA"
-      },
-      "companies": [
-        "Clearwater Analytics Holdings"
-      ],
-      "people": []
-    },
-    {
-      "title": "Administrativa Trumpa zaměstná 1 000 specialistů pro novou 'Tech Force' na stavbu AI infrastruktury",
-      "description": "Administrativa Donalda Trumpa spustila iniciativu 'U.S. Tech Force' s přibližně 1 000 inženýry a specialisty, kteří budou pracovat na infrastruktuře umělé inteligence a dalších technologických projektech ve federální vládě. Program zahrnuje spolupráci s firmami jako Amazon Web Services, Google, Microsoft, Nvidia nebo OpenAI a cílí na konkurenci s Čínou v oblasti AI.",
-      "slug": "trump-admin-to-hire-1000-for-new-tech-force-to-bui",
-      "publishedAt": "2025-12-21T15:34:00+00:00",
-      "date": "2025-12-21 15:34:00",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://a.fsdn.com/sd/topics/usa_64.png",
-      "url": "/tech-news/2025-12-21/trump-admin-to-hire-1000-for-new-tech-force-to-bui/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "companies": [],
-      "people": [
-        "Donald Trump"
-      ]
-    },
-    {
-      "title": "Nano Banana Pro oloupané: Podívejte se, co jsem vytvořil s nejnovějším generátorem obrázků od Google",
-      "description": "Nano Banana Pro, přezdívka pro novou verzi modelu Gemini 3 pro generování a úpravu obrázků, přináší vylepšené funkce oproti původnímu Nano Banana (Gemini 2.5). Tento model získal cenu PCMag Technical Excellence za své schopnosti v tvorbě a editaci obrázků.",
-      "slug": "nano-banana-pro-unpeeled-see-what-i-made-with-goog",
-      "publishedAt": "2025-12-21T12:00:00+00:00",
-      "date": "2025-12-21 12:00:00",
-      "importance": 4,
-      "category": "generativní ai",
-      "urlToImage": "https://sm.pcmag.com/t/pcmag_me/explainers/n/nano-banan/nano-banana-pro-unpeeled-see-what-i-made-with-googles-newest_q2q6.1200.jpg",
-      "url": "/tech-news/2025-12-21/nano-banana-pro-unpeeled-see-what-i-made-with-goog/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "PCMag.com"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Kash Patel odhaluje AI projekt FBI pro národní bezpečnost: 'Zaplací dividendy'",
-      "description": "Administrativa Donalda Trumpa otevřeně a agresivně přijímá technologii umělé inteligence a integruje ji do svých operací.",
-      "slug": "kash-patel-reveals-fbis-ai-national-security-proje",
-      "publishedAt": "2025-12-21T01:44:29+00:00",
-      "date": "2025-12-21 01:44:29",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://assets.newsweek.com/wp-content/uploads/2025/12/GettyImages-2249305196.jpg?w=1200crop=1",
-      "url": "/tech-news/2025-12-21/kash-patel-reveals-fbis-ai-national-security-proje/",
-      "source": {
-        "emoji": "📰",
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "companies": [],
-      "people": [
-        "Kash Patel"
-      ]
     }
   ]
 }
