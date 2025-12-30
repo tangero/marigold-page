@@ -1,7 +1,86 @@
 {
-  "generated": "2025-12-30T08:40:10.262242+00:00",
+  "generated": "2025-12-30T12:47:53.168522+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "AI firmy staví financovní pevnost za 150 miliard dolarů",
+      "description": "Startupy v Silicon Valley zaměřené na umělou inteligenci získaly v roce 2025 rekordních 150 miliard dolarů. Podle Financial Times jde o strategii ochrany před možným poklesem investic do AI v následujícím roce.",
+      "slug": "ai-firms-build-150b-funding-fortress",
+      "publishedAt": "2025-12-29T11:51:38+00:00",
+      "date": "2025-12-29 11:51:38",
+      "importance": 4,
+      "category": "ai startupy",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2025/07/This-Week-in-AI-funding-investments.jpg",
+      "url": "/tech-news/2025-12-29/ai-firms-build-150b-funding-fortress/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Výzkumníci vyvinuli autonomní roboty menší než zrnko soli",
+      "description": "Výzkumníci z Pensylvánské univerzity a Michiganské univerzity vytvořili nejmenší plně autonomní roboty na světě. Tyto zařízení o velikosti 200 × 300 × 50 mikrometrů fungují na úrovni biologických buněk bez vnější kontroly.",
+      "slug": "researchers-build-autonomous-robots-smaller-than-a",
+      "publishedAt": "2025-12-29T11:22:19+00:00",
+      "date": "2025-12-29 11:22:19",
+      "importance": 5,
+      "category": "robotika",
+      "urlToImage": "https://www.ghacks.net/wp-content/uploads/2025/12/gHacks-articles-38.png",
+      "url": "/tech-news/2025-12-29/researchers-build-autonomous-robots-smaller-than-a/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Ghacks Technology News"
+      },
+      "companies": [
+        "University of Pennsylvania",
+        "University of Michigan"
+      ],
+      "people": []
+    },
+    {
+      "title": "GPT-5.2 dosáhl 75 % na ARC AGI2: Vrstvený systém posunul model nad lidský průměr",
+      "description": "Jazykový model GPT-5.2 dosáhl 75 % na benchmarku ARC AGI2, což překonává lidský průměr 60 % a předchozí nejlepší výsledek o 15 procentních bodů. Malý tým výzkumníků z Poetic toho dosáhl novým meta-systémem, který zlepšuje uvažování bez specifického tréninku modelu.",
+      "slug": "gpt-52-just-hit-75-on-arc-agi-layered-system-lifts",
+      "publishedAt": "2025-12-29T11:00:46+00:00",
+      "date": "2025-12-29 11:00:46",
+      "importance": 5,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/poetic-reasoning-layer-diagram_optimized.jpg",
+      "url": "/tech-news/2025-12-29/gpt-52-just-hit-75-on-arc-agi-layered-system-lifts/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Uvnitř bouřlivé sázky Marka Zuckerberga na umělou inteligenci",
+      "description": "Rok vnitřního chaosu, kolísajících priorit a obrovských výdajů v Meta Platforms znepokojuje insiderky a investory.",
+      "slug": "inside-mark-zuckerbergs-turbulent-bet-on-ai",
+      "publishedAt": "2025-12-29T11:00:25+00:00",
+      "date": "2025-12-29 11:00:25",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/12/1218-bc-zuck.jpg",
+      "url": "/tech-news/2025-12-29/inside-mark-zuckerbergs-turbulent-bet-on-ai/",
+      "source": {
+        "emoji": "📰",
+        "id": "financial-post",
+        "name": "Financial Post"
+      },
+      "companies": [
+        "Meta Platforms"
+      ],
+      "people": [
+        "Mark Zuckerberg"
+      ]
+    },
     {
       "title": "SK hynix zvažuje rozšíření v USA pro pokročilé balení čipů",
       "description": "Podle ZDNet Korea SK hynix posuzuje výstavbu první masové výrobní linky pro 2.5D pokročilé balení v USA, což by prohloubilo roli tohoto jihokorejského výrobce pamětí v dodávkách pro systémy umělé inteligence. Plánovaná továrna v Indianě by se stala strategickým centrem pro pokročilé AI paměti.",
@@ -3571,47 +3650,6 @@
       "people": []
     },
     {
-      "title": "Alphabet kupuje vývojáře čisté energie Intersect za 4,75 miliardy dolarů v rámci expanze AI",
-      "description": "Alphabet oznámil akvizici společnosti Intersect, která se zabývá vývojem čisté energie, za 4,75 miliardy dolarů v hotovosti plus převzatý dluh. Tento krok reaguje na rostoucí energetické nároky datových center pro umělou inteligenci, kde technologické giganty investují miliardy do rozšíření kapacity.",
-      "slug": "alphabet-to-buy-clean-energy-developer-intersect-i",
-      "publishedAt": "2025-12-22T16:10:28+00:00",
-      "date": "2025-12-22 16:10:28",
-      "importance": 5,
-      "category": "čistá energie",
-      "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/582bbdfc9d80422fdaf8ddf12e256ef5",
-      "url": "/tech-news/2025-12-22/alphabet-to-buy-clean-energy-developer-intersect-i/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [
-        "Alphabet",
-        "Intersect"
-      ],
-      "people": []
-    },
-    {
-      "title": "Anthropic představuje Bloom, open-source nástroj pro výzkumníky hodnotící chování AI",
-      "description": "Společnost Anthropic PBC v pátek oznámila vydání Bloom, open-source agentického rámce pro definování a prozkoumávání chování pokročilých modelů umělé inteligence. Nástroj umožňuje výzkumníkům specifikovat chování a automaticky generovat scénáře k testování jeho frekvence a závažnosti.",
-      "slug": "anthropic-announces-bloom-an-open-source-tool-for-",
-      "publishedAt": "2025-12-22T16:10:20+00:00",
-      "date": "2025-12-22 16:10:20",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/2025-12-22.png",
-      "url": "/tech-news/2025-12-22/anthropic-announces-bloom-an-open-source-tool-for/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Anthropic"
-      ],
-      "people": []
-    },
-    {
       "title": "Elon Musk se vysmívá Waymu po výpadku proudu v San Franciscu",
       "description": "Elon Musk se posmíval Waymu poté, co se autonomní vozy této firmy zastavily na křižovatkách během rozsáhlého výpadku elektřiny v San Franciscu, zatímco tvrdí, že Tesla robotaxi nebyly ovlivněny. Incident odhaluje limity současných autonomních systémů v nepředvídatelných situacích.",
       "slug": "elon-musk-takes-dig-at-waymo-after-san-francisco-b",
@@ -3897,24 +3935,6 @@
       ]
     },
     {
-      "title": "Jak USA soupeří s Čínou v AI, některé firmy volí čínskou technologii",
-      "description": "Navzdory hořké rivalitě USA s Čínou v oblasti umělé inteligence se čínské open-source modely tiše prosazují na americkém trhu. Programátoři a firmy oceňují jejich nízké náklady a možnost úprav.",
-      "slug": "as-us-battles-china-on-ai-some-companies-choose-ch",
-      "publishedAt": "2025-12-22T06:00:00+00:00",
-      "date": "2025-12-22 06:00:00",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2025/12/22/3685114.JPG",
-      "url": "/tech-news/2025-12-22/as-us-battles-china-on-ai-some-companies-choose-ch/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Star Online"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Waymo pozastavilo provoz v San Franciscu po problémech během výpadku elektřiny",
       "description": "Během víkendového výpadku proudu v San Franciscu se autonomní vozy Waymo zastavily u tmavých semaforů a blokovaly dopravu. Společnost dočasně pozastavila svou ride-hailing službu na doporučení starostovy kanceláře kvůli vytvářeným zácpám.",
       "slug": "waymo-suspended-service-in-san-francisco-after-pro",
@@ -4035,26 +4055,6 @@
         "Clearwater Analytics"
       ],
       "people": []
-    },
-    {
-      "title": "Altucherovo časové rozvržení IPO Starlinku pro rok 2026 se dostává do ostrého zaměření",
-      "description": "Tech investor James Altucher v nejnovějším videu reviduje svou predikci o IPO Starlinku v roce 2026. Ukazuje, že vývoj sítě probíhá rychleji, než se původně očekávalo, díky růstu sítě a příjmům.",
-      "slug": "altuchers-starlink-2026-ipo-timeline-moves-into-fo",
-      "publishedAt": "2025-12-22T00:00:00+00:00",
-      "date": "2025-12-22 00:00:00",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-22/altuchers-starlink-2026-ipo-timeline-moves-into-fo/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [],
-      "people": [
-        "Altucher"
-      ]
     }
   ]
 }
