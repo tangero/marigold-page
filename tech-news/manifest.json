@@ -1,15 +1,115 @@
 {
-  "generated": "2025-12-30T05:00:26.439165+00:00",
+  "generated": "2025-12-30T08:40:10.262242+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "Od umělé inteligence po čipy: Velké technologické firmy dostávají od Trumpa to, co chtějí",
+      "title": "SK hynix zvažuje rozšíření v USA pro pokročilé balení čipů",
+      "description": "Podle ZDNet Korea SK hynix posuzuje výstavbu první masové výrobní linky pro 2.5D pokročilé balení v USA, což by prohloubilo roli tohoto jihokorejského výrobce pamětí v dodávkách pro systémy umělé inteligence. Plánovaná továrna v Indianě by se stala strategickým centrem pro pokročilé AI paměti.",
+      "slug": "sk-hynix-weighs-us-expansion-for-advanced-chip-pac",
+      "publishedAt": "2025-12-29T08:15:06+00:00",
+      "date": "2025-12-29 08:15:06",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://img.digitimes.com/newsshow/20251229pd230_files/1_r.jpg",
+      "url": "/tech-news/2025-12-29/sk-hynix-weighs-us-expansion-for-advanced-chip-pac/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [
+        "SK hynix"
+      ],
+      "people": []
+    },
+    {
+      "title": "Čína chce omezit AI chatbota v souvislosti se sebevraždou a hazardem",
+      "description": "Navrhovaná pravidla přicházejí v době, kdy čínské startupy AI chatbotů Minimax a Z.ai podaly žádost o úvodní veřejnou nabídku akcií v Hong Kongu.",
+      "slug": "china-to-crack-down-on-ai-chatbots-around-suicide-",
+      "publishedAt": "2025-12-29T07:06:35+00:00",
+      "date": "2025-12-29 07:06:35",
+      "importance": 4,
+      "category": "regulace ai",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108246077-1766970862214-gettyimages-1998839799-AFP_34HJ6JF.jpeg?v=1766970902&w=1920&h=1080",
+      "url": "/tech-news/2025-12-29/china-to-crack-down-on-ai-chatbots-around-suicide/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [
+        "Minimax",
+        "Z.ai"
+      ],
+      "people": []
+    },
+    {
+      "title": "IntelliEPI spolupracuje s EZconn na posílení optické komunikace pro AI",
+      "description": "Společnost IntelliEPI, specializující se na sloučeninové polovodiče, uzavřela partnerství formou výměny akcií s firmou EZconn v oblasti optických komunikací. Cílem je rozvoj technologie co-packaged optics (CPO) pro uspokojování rostoucích požadavků AI na vysokorychlostní přenos dat.",
+      "slug": "intelliepi-partners-with-ezconn-to-boost-ai-optica",
+      "publishedAt": "2025-12-29T06:44:19+00:00",
+      "date": "2025-12-29 06:44:19",
+      "importance": 4,
+      "category": "optická komunikace",
+      "urlToImage": "https://img.digitimes.com/newsshow/20251229pd224_files/2_b.jpg",
+      "url": "/tech-news/2025-12-29/intelliepi-partners-with-ezconn-to-boost-ai-optica/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [
+        "IntelliEPI",
+        "EZconn"
+      ],
+      "people": []
+    },
+    {
+      "title": "Čína nasazuje robotickou armádu k hlídání hranice s Vietnamem",
+      "description": "Čína začala nasazovat humanoidní roboty na rušném hraničním přechodu s Vietnamem, což představuje jedno z prvních rozsáhlých využití této technologie pro policejní a bezpečnostní operace. Roboti Walker S2 od firmy UBTECH Robotics dorazili v tomto měsíci na přechod Fangchenggang v provincii Kuang-si na základě vládní zakázky v hodnotě 37 milionů dolarů.",
+      "slug": "china-deploys-a-robot-army-to-guard-the-vietnam-bo",
+      "publishedAt": "2025-12-29T06:20:22+00:00",
+      "date": "2025-12-29 06:20:22",
+      "importance": 5,
+      "category": "robotika",
+      "urlToImage": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_uXxqI8LmcgcyyEhLemGdL5WF_1LxiUD9AyOnEB6wOyL-RZlz1myHlFbeG60nfUvtwelBegaH2wzQ3XXIfQ1SXuRSTpCIRFtFOR3xJmgkwIThK7qDnGhIVH1NgXSh3LdIZGnWWhySLl34cVpGFRjsiaY6Prhd6wvz1mp-Y=w1600",
+      "url": "/tech-news/2025-12-29/china-deploys-a-robot-army-to-guard-the-vietnam-bo/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Gossiplankanews.com"
+      },
+      "companies": [
+        "UBT"
+      ],
+      "people": []
+    },
+    {
+      "title": "AI chatboti mohou souviset s psychózou, tvrdí lékaři",
+      "description": "Psychiatr Keith Sakata už léčil 12 hospitalizovaných pacientů s psychózou vyvolanou AI a další tři ambulantně, podle Wall Street Journal. Top psychiatři souhlasí, že používání AI chatbotů jako ChatGPT může přispívat k psychotickým stavům, což vedlo k sebevraždám, vraždě a soudním sporům.",
+      "slug": "ai-chatbots-may-be-linked-to-psychosis-say-doctors",
+      "publishedAt": "2025-12-29T05:55:00+00:00",
+      "date": "2025-12-29 05:55:00",
+      "importance": 4,
+      "category": "duševní zdraví",
+      "urlToImage": "https://a.fsdn.com/sd/topics/ai_64.png",
+      "url": "/tech-news/2025-12-29/ai-chatbots-may-be-linked-to-psychosis-say-doctors/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Od umělé inteligence po čipy: velké technologické firmy dostávají od Trumpa, co chtějí",
       "description": "Trump využil podporu technologických firem k posílení cíle amerického vedení v umělé inteligenci a kryptoměnách, přičemž zajistil úspěchy pro svou ekonomickou agendu „Amerika na prvním místě“.",
       "slug": "from-ai-to-chips-big-tech-is-getting-what-it-wants",
       "publishedAt": "2025-12-29T04:27:13+00:00",
       "date": "2025-12-29 04:27:13",
       "importance": 4,
-      "category": "ai",
+      "category": "umělá inteligence",
       "urlToImage": "https://images.indianexpress.com/2025/12/Tech-featured-image20.jpg",
       "url": "/tech-news/2025-12-29/from-ai-to-chips-big-tech-is-getting-what-it-wants/",
       "source": {
@@ -19,7 +119,7 @@
       },
       "companies": [],
       "people": [
-        "Trump"
+        "Donald Trump"
       ]
     },
     {
@@ -3291,27 +3391,6 @@
       "people": []
     },
     {
-      "title": "Alphabet získává společnost s obnovitelnými zdroji Intersect za 4,75 miliardy dolarů",
-      "description": "Alphabet Inc., mateřská společnost Google, uzavřel dohodu o akvizici firmy Intersect Power LLC za 4,75 miliardy dolarů v hotovosti a převzetí jejího dluhu. Transakce má být dokončena v první polovině roku 2026 a slouží k urychlení výstavby datových center.",
-      "slug": "alphabet-acquires-renewable-energy-company-interse",
-      "publishedAt": "2025-12-22T23:26:01+00:00",
-      "date": "2025-12-22 23:26:01",
-      "importance": 5,
-      "category": "obnovitelné energie",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Google-3.png",
-      "url": "/tech-news/2025-12-22/alphabet-acquires-renewable-energy-company-interse/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Alphabet Inc",
-        "Google LLC"
-      ],
-      "people": []
-    },
-    {
       "title": "Chaos Waymo během výpadku proudu v San Franciscu pravděpodobně způsoben selháním operačního managementu, ne chybou softwaru, říká expert",
       "description": "„Co kdyby to byl zemětřesení? Tisíce robotaxi by blokovaly silnice.“",
       "slug": "waymo-chaos-during-san-francisco-power-outage-like",
@@ -3556,24 +3635,6 @@
       ]
     },
     {
-      "title": "Výdajová mánia na AI pohání globální emise dluhu technologických firem na rekordní úroveň",
-      "description": "Globální technologické společnosti tento rok zvýšily emise dluhu na rekordních 428,3 miliardy dolarů, především kvůli zintenzivněnému závodu o vybudování kapacit umělé inteligence. I hotovostně silné firmy se obracejí k půjčkám, což zvyšuje jejich dluhovou páku a vyvolává otázky o udržitelnosti.",
-      "slug": "ai-spending-spree-drives-global-tech-debt-issuance",
-      "publishedAt": "2025-12-22T15:49:53+00:00",
-      "date": "2025-12-22 15:49:53",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/06798568308aeacbb3a4716a004937e4",
-      "url": "/tech-news/2025-12-22/ai-spending-spree-drives-global-tech-debt-issuance/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Stav umělé inteligence v roce 2025: Jak si vedly Google, Apple, OpenAI a další",
       "description": "Umělá inteligence v roce 2025 dále rostla, ale ne všemi očekávanými způsoby a ne každá společnost dosáhla stejného úspěchu. Zde je hodnocení výkonu klíčových firem.",
       "slug": "the-state-of-ai-in-2025-how-google-apple-openai-an",
@@ -3694,24 +3755,6 @@
       "companies": [
         "DXS International"
       ],
-      "people": []
-    },
-    {
-      "title": "10 největších úniků zdravotnických dat nahlášených OCR v roce 2025",
-      "description": "Více než 20 milionů lidí bylo postiženo 10 největšími úniky dat v zdravotnictví nahlášenými Úřadu pro občanská práva HHS v roce 2025. Celkový počet postižených překročil 35 milionů, přičemž většina incidentů souvisela s hackingem nebo poruchami IT systémů.",
-      "slug": "A-10-largest-healthcare-data-breaches-reported-to-",
-      "publishedAt": "2025-12-22T12:13:00+00:00",
-      "date": "2025-12-22 12:13:00",
-      "importance": 5,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://www.techtarget.com/rms/onlineimages/health security_g1418645103.jpg",
-      "url": "/tech-news/2025-12-22/A-10-largest-healthcare-data-breaches-reported-to/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Techtarget.com"
-      },
-      "companies": [],
       "people": []
     },
     {
@@ -3872,24 +3915,6 @@
       "people": []
     },
     {
-      "title": "IPO firem spojených s AI v Číně explodují. Cizincům se ale na akci těžko dostane",
-      "description": "Nejžhavější IPO v oblasti umělé inteligence v Číně přinášejí obrovské zisky. Zahraniční investoři se však na tuto rallye dostávají jen obtížně.",
-      "slug": "ai-linked-ipos-in-china-are-exploding-but-its-not-",
-      "publishedAt": "2025-12-22T04:15:12+00:00",
-      "date": "2025-12-22 04:15:12",
-      "importance": 4,
-      "category": "ai ipo",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108237068-1764903745914-gettyimages-2243586882-Illustration_Moore_Threads.jpeg?v=1765983260&w=1920&h=1080",
-      "url": "/tech-news/2025-12-22/ai-linked-ipos-in-china-are-exploding-but-its-not/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNBC"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Waymo pozastavilo provoz v San Franciscu po problémech během výpadku elektřiny",
       "description": "Během víkendového výpadku proudu v San Franciscu se autonomní vozy Waymo zastavily u tmavých semaforů a blokovaly dopravu. Společnost dočasně pozastavila svou ride-hailing službu na doporučení starostovy kanceláře kvůli vytvářeným zácpám.",
       "slug": "waymo-suspended-service-in-san-francisco-after-pro",
@@ -4030,27 +4055,6 @@
       "people": [
         "Altucher"
       ]
-    },
-    {
-      "title": "Proč Nvidia udržuje svou konkurenční převahu a Gemini OpenAI nepřemůže",
-      "description": "Analýza vyvrací dva převažující narativy: oslabení dominance Nvidia díky alternativám jako TPU a převahu Google s modelem Gemini nad OpenAI. Podle autorů Nvidia díky čipům GB300 a Vera Rubin resetuje ekonomiku AI a zůstane nejlevnější platformou pro trénink i inference, zatímco Google čelí dilematu s reklamním modelem vyhledávání.",
-      "slug": "why-nvidia-maintains-its-moat-and-gemini-wont-kill",
-      "publishedAt": "2025-12-21T21:07:36+00:00",
-      "date": "2025-12-21 21:07:36",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/googlenvidialightningbolt.png",
-      "url": "/tech-news/2025-12-21/why-nvidia-maintains-its-moat-and-gemini-wont-kill/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Nvidia",
-        "OpenAI"
-      ],
-      "people": []
     }
   ]
 }

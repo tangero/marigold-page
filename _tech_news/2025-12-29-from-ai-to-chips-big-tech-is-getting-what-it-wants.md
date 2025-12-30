@@ -1,6 +1,6 @@
 ---
 author: Marisa Aigen
-category: ai
+category: umělá inteligence
 date: '2025-12-29 04:27:13'
 description: Trump využil podporu technologických firem k posílení cíle amerického
   vedení v umělé inteligenci a kryptoměnách, přičemž zajistil úspěchy pro svou ekonomickou
@@ -9,39 +9,43 @@ importance: 4
 layout: tech_news_article
 original_title: From AI to chips, big tech is getting what it wants from Trump
 people:
-- Trump
+- Donald Trump
 publishedAt: '2025-12-29T04:27:13+00:00'
 slug: from-ai-to-chips-big-tech-is-getting-what-it-wants
 source:
   emoji: 📰
   id: null
   name: The Indian Express
-title: 'Od umělé inteligence po čipy: Velké technologické firmy dostávají od Trumpa
-  to, co chtějí'
+title: 'Od umělé inteligence po čipy: velké technologické firmy dostávají od Trumpa,
+  co chtějí'
 url: https://indianexpress.com/article/technology/tech-news-technology/from-ai-to-chips-big-tech-is-getting-what-it-wants-from-trump-10444192/
 urlToImage: https://images.indianexpress.com/2025/12/Tech-featured-image20.jpg
 urlToImageBackup: https://images.indianexpress.com/2025/12/Tech-featured-image20.jpg
 ---
 
-## Souhrn
-Prezident Donald Trump po nástupu do úřadu výrazně uvolnil regulace v oblasti umělé inteligence a čipů ve prospěch velkých technologických firem jako Nvidia, Meta či Apple. Přestože původně hrozil restrikcemi, nyní odstranil omezení na export AI čipů, urychlil výstavbu datových center pro trénink modelů umělé inteligence a podpořil legislativu pro kryptoměny. Tento posun překvapil i konzervativní kritiky, kteří ho považují za selektivní podporu technologického sektoru.
+### Souhrn
+Velké technologické společnosti, jako Nvidia, Meta nebo Apple, dosahují od prezidenta Donalda Trumpa významných ústupků v oblasti regulací pro umělou inteligenci, čipy a kryptoměny. Trump zrušil mnohá omezení na export AI čipů, urychlil výstavbu datových center nezbytných pro trénink AI modelů a podpořil legislativu pro kryptoměny. Tento obrat přichází po počátečních slibech o přísnějších opatřeních proti tech gigantům.
 
-## Klíčové body
-- Odstranění omezení na export AI čipů od Nvidia a dalších výrobců, včetně schválení prodejů pokročilých čipů do Číny.
-- Zrychlení výstavby datových center nutných pro vývoj a provoz velkých modelů umělé inteligence.
-- Podpora kryptoměn prostřednictvím federální legislativy a exekutivního nařízení proti státním restrikcím na AI.
-- Překročení původních slibů o boji proti monopolům (Meta) a clech na dodavatelské řetězce (Apple).
-- Podpora od tech lídrů formou darů na inauguraci a návštěv Mar-a-Lago.
+### Klíčové body
+- Zrušení většiny omezení na export AI čipů od firem jako Nvidia.
+- Zrychlení výstavby datových center pro vývoj umělé inteligence.
+- Podpora legislativy schvalující určité typy kryptoměn.
+- Výkonný příkaz zrušující státní restrikce na AI a schválení prodeje pokročilých Nvidia čipů do Číny.
+- Podpora cíle amerického vedení v AI a kryptoměnách prostřednictvím spolupráce s tech firmami.
 
-## Podrobnosti
-Před nástupem Trumpa do Bílého domu v lednu 2025 se špičky technologického průmyslu snažily získat jeho přízeň dary na inauguraci a osobními návštěvami v rezidenci Mar-a-Lago na Floridě. Trump tehdy avizoval tvrdý postoj: pokračování antimonopolního boje proti Meta, clo na dovoz součástek pro Apple a omezení exportu čipů pro umělou inteligenci od Nvidia a dalších firem, jako AMD nebo Intel. Tyto čipy, jako například řady H100 nebo B200 od Nvidia, slouží primárně k tréninku velkých jazykových modelů (LLM) typu GPT nebo Llama, kde vyžadují obrovskou výpočetní sílu v datových centrech.
+### Podrobnosti
+Před nástupem Donalda Trumpa do Bílého domu v lednu 2025 se lídři technologického průmyslu snažili získat jeho přízeň dary na inauguraci a návštěvami jeho rezidence Mar-a-Lago na Floridě. Trump tehdy sliboval pokračování boje proti Meta s cílem jejího rozbití, zavedení cel, které by zdražily dodavatelské řetězce Applu, a omezení exportu umělé inteligence čipů od Nvidia a dalších výrobců. Tyto kroky naznačovaly, že úsilí tech firem bude marné.
 
-Situace se však rychle změnila. Od léta 2025 Trump odstranil mnohá exportní omezení, což umožnilo prodej pokročilých AI čipů do Číny, amerického hlavního rivala v této oblasti. Tento krok přímo prospívá Nvidia, jejíž tržby z Číny tvoří významný podíl. Dále urychlil schvalování datových center, která spotřebovávají gigawaty energie a jsou klíčové pro škálování modelů umělé inteligence – například pro OpenAI nebo Google DeepMind. V prosinci 2025 podepsal exekutivní nařízení rušící státní regulace AI a schválil federální legislativu legalizující určité kryptoměny, což posiluje blockchainové technologie spojené s AI, jako distribuované výpočty.
+Od léta 2025 však došlo k výrazné změně. Trump odstranil mnohá omezení na export AI čipů, což umožňuje firmám jako Nvidia prodávat své produkty do zahraničí včetně Číny, amerického hlavního rivala v oblasti technologie. Tento měsíc podepsal výkonný příkaz, který zrušil restrikce na umělou inteligenci stanovené jednotlivými státy, a schválil prodej výkonnějších Nvidia čipů do Číny. Dále urychlil výstavbu datových center, která slouží k tréninku velkých jazykových modelů (LLM) a jiných AI systémů, a prosadil legislativu dávající vládní schválení určitým kryptoměnám.
 
-Isabel Sunderland z nepolitické organizace Issue One kritizuje tento přístup: „Konervativní strana obhajuje volný trh bez výběru vítězů a poražených, ale Trumpova administrativa jasně favorizuje technologický sektor na úkor své vlastní základny.“ Tech firmy tak získaly více, než očekávaly, přestože Trumpova agenda „Amerika na prvním místě“ původně zdůrazňovala protekcionismus.
+Tech firmy aktivně lobbyovaly u Trumpa a jeho týmu. Například Nvidia, největší výrobce GPU čipů pro AI, těží z uvolnění exportů, protože jejich čipy jako H100 nebo Blackwell jsou klíčové pro výpočetní výkon v tréninku modelů typu GPT nebo Gemini. Datová centra, poháněná těmito čipy, spotřebovávají obrovské množství energie a prostoru, a jejich rychlá výstavba pomůže firmám jako OpenAI nebo Google rozšířit kapacity. Trump tak spojil podporu od tech sektoru se svým cílem posílit americké vedení v AI a kryptoměnách, což ladí s agendou „Amerika na prvním místě“.
 
-## Proč je to důležité
-Tento vývoj urychluje americké vedení v umělé inteligenci tím, že odstraňuje překážky pro hardware a infrastrukturu. Pro průmysl znamená levnější přístup k čipům a rychlejší expanze datových center, což umožní rychlejší iterace modelů AI – od zlepšení LLM po autonomní systémy. Nicméně podporuje i Čínu, což může zesílit globální soutěž a rizika v oblasti národní bezpečnosti, jako únik technologií. Pro uživatele to přinese levnější AI služby (např. ChatGPT, Gemini), ale zvyšuje závislost na soukromých gigantech. V širším kontextu to kontrastuje s evropskými restrikcemi (EU AI Act) a posiluje USA jako centrum AI, avšak na úkor konzistentní politiky.
+Isabel Sunderland z nepolitické skupiny Issue One kritizuje tento přístup: „Konervativní strana obhajuje volný trh bez výběru vítězů a poražených, ale Trumpova administrativa vybírala tech průmysl na úkor své vlastní základny.“ Tento vývoj kontrastuje s předchozími administrativami, které zaváděly exportní kontroly kvůli národní bezpečnosti.
+
+### Proč je to důležité
+Tyto změny mají přímý dopad na vývoj umělé inteligence v USA i globálně. Uvolnění exportů čipů umožní Nvidia zvýšit tržby, ale zároveň posílí čínské AI firmy jako Huawei nebo Baidu, což může zúžit technologickou převahu USA. Rychlejší datová centra urychlí iterace AI modelů, což přinese pokročilejší aplikace v oblastech jako autonomní vozidla nebo lékařská diagnostika, ale zvýší spotřebu energie a potenciální rizika spojená s AI bezpečností.
+
+Pro průmysl znamená snížení regulací nižší náklady a rychlejší expanzi, což posílí dominance velkých hráčů. Kriticky lze říci, že Trumpova politika upřednostňuje krátkodobé ekonomické zisky před dlouhodobou bezpečností, což může vést k eskalaci globální AI soutěže. V širším kontextu to ovlivní funding a partnerství v AI, kde USA zůstávají lídrem díky firmám jako OpenAI, ale export do Číny riskuje technologie transfer.
 
 ---
 
