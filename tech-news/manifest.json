@@ -1,7 +1,45 @@
 {
-  "generated": "2025-12-30T12:47:53.168522+00:00",
+  "generated": "2025-12-30T16:43:38.973931+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Plány Číny na regulaci lidsky podobné AI mohou určit tón globálních pravidel",
+      "description": "Peking chystá zpřísnění pravidel pro lidsku podobnou umělou inteligenci s důrazem na bezpečnost uživatelů a společenské hodnoty. Nový návrh zavádí povinné označování AI interakcí a bezpečnostní kontroly.",
+      "slug": "chinas-plans-for-human-like-ai-could-set-the-tone-",
+      "publishedAt": "2025-12-29T16:10:00+00:00",
+      "date": "2025-12-29 16:10:00",
+      "importance": 4,
+      "category": "ai regulace",
+      "urlToImage": "https://static.scientificamerican.com/dam/m/72b4ce254e84e663/original/AI-head.jpg?m=1767025612.321&w=1200",
+      "url": "/tech-news/2025-12-29/chinas-plans-for-human-like-ai-could-set-the-tone/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Scientific American"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Průměrné ceny waferů TSMC vzrostly o přes 15 % ročně od roku 2019, naznačuje zpráva – hrubé marže zisku se v roce 2025 ztrojnásobily, bez skutečných konkurentů",
+      "description": "Podle analýzy SemiAnalysis vzrostly průměrné prodejní ceny (ASP) waferů TSMC od roku 2019 o 15,9 % ročně, přičemž hrubý zisk na wafer se v roce 2025 zvýšil na 3,3násobek. Tento trend je poháněn érou EUV litografie, kde TSMC dominuje bez významné konkurence, což zvyšuje ceny pro zákazníky a end-produkty.",
+      "slug": "tsmcs-average-wafer-prices-increased-by-over-15-ea",
+      "publishedAt": "2025-12-29T15:37:33+00:00",
+      "date": "2025-12-29 15:37:33",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ccriH99hinz37Jq6RzYJFb-1920-80.jpg",
+      "url": "/tech-news/2025-12-29/tsmcs-average-wafer-prices-increased-by-over-15-ea/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "companies": [
+        "TSMC"
+      ],
+      "people": []
+    },
     {
       "title": "AI firmy staví financovní pevnost za 150 miliard dolarů",
       "description": "Startupy v Silicon Valley zaměřené na umělou inteligenci získaly v roce 2025 rekordních 150 miliard dolarů. Podle Financial Times jde o strategii ochrany před možným poklesem investic do AI v následujícím roce.",
@@ -3695,26 +3733,6 @@
       "people": []
     },
     {
-      "title": "ChatGPT: Vše, co potřebujete vědět o tomto chatovacím robotovi s umělou inteligencí",
-      "description": "Tento průvodce ChatGPT vysvětluje virální text-generující systém společnosti OpenAI. Popisuje nejnovější aktualizace a odpovídá na nejčastější otázky.",
-      "slug": "chatgpt-everything-you-need-to-know-about-the-ai-c",
-      "publishedAt": "2025-12-22T15:44:15+00:00",
-      "date": "2025-12-22 15:44:15",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2191707579.jpg?w=1024",
-      "url": "/tech-news/2025-12-22/chatgpt-everything-you-need-to-know-about-the-ai-c/",
-      "source": {
-        "emoji": "🚀",
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
       "title": "Ztroskotané čipy",
       "description": "Výstavba AI datových center závisí na čipech Nvidia a půjčených penězích. Firmy jako CoreWeave berou dluhy na nákup těchto čipů a používají je jako zástavu, což vytváří kruhový systém prospívající především Nvidia.",
       "slug": "chipwrecked",
@@ -3751,27 +3769,6 @@
       },
       "companies": [
         "Tesla"
-      ],
-      "people": []
-    },
-    {
-      "title": "Čínský přední výrobce GPU Biren zahajuje IPO v Hong Kongu – startupy s GPU soutěží o Nvidia v závodě o financování AI čipů",
-      "description": "Společnost Shanghai Biren Technology zahájila bookbuilding pro úvodní veřejnou nabídku v Hong Kongu s cílem získat až 624 milionů USD. Čínští výrobci AI čipů urychlují své listování na burze, aby financovali expanzi díky silnému zájmu investorů.",
-      "slug": "chinas-premier-gpu-maker-biren-kicks-off-hong-kong",
-      "publishedAt": "2025-12-22T12:20:02+00:00",
-      "date": "2025-12-22 12:20:02",
-      "importance": 4,
-      "category": "ai čipy",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/vu9fcMTFUXbRHofhtPjoA4-970-80.png",
-      "url": "/tech-news/2025-12-22/chinas-premier-gpu-maker-biren-kicks-off-hong-kong/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "companies": [
-        "Shanghai Biren Technology",
-        "Nvidia"
       ],
       "people": []
     },
