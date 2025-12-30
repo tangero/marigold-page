@@ -1,7 +1,186 @@
 {
-  "generated": "2025-12-30T16:43:38.973931+00:00",
+  "generated": "2025-12-30T20:33:51.077027+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Výrobci AI čipů, kteří by mohli v roce 2026 ukrást Nvidia část slávy",
+      "description": "Nvidia oznámila akvizici designéra AI hardwaru a softwaru Groq za 20 miliard dolarů. Článek analyzuje potenciální konkurenty Nvidia v oblasti AI čipů pro rok 2026, včetně AMD a specializovaných hráčů.",
+      "slug": "ai-chipmakers-that-could-steal-some-of-nvidias-spo",
+      "publishedAt": "2025-12-29T19:30:00+00:00",
+      "date": "2025-12-29 19:30:00",
+      "importance": 5,
+      "category": "ai čipy",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Hgktxl5QQLRGguHmyCIOeg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/b0be79e0-e4d7-11f0-b0f8-256d8b57fa34",
+      "url": "/tech-news/2025-12-29/ai-chipmakers-that-could-steal-some-of-nvidias-spo/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "Nvidia",
+        "Groq"
+      ],
+      "people": []
+    },
+    {
+      "title": "OpenAI hledá šéfa připravenosti s platem 550 000 dolarů na zmírnění nebezpečí AI, která CEO Sam Altman označuje za stresující",
+      "description": "Společnost OpenAI vyhlašuje výběr na pozici šéfa připravenosti s ročním platem 555 000 dolarů plus podíly, aby řešila rizika spojená s AI, jako je duševní zdraví uživatelů a kyberbezpečnost. Tento krok přichází v době rostoucích obav z reputačních a operačních rizik AI u stovek firem.",
+      "slug": "openai-is-hiring-a-head-of-preparedness-with-a-550",
+      "publishedAt": "2025-12-29T19:29:02+00:00",
+      "date": "2025-12-29 19:29:02",
+      "importance": 4,
+      "category": "bezpečnost ai",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2236543888_895bdb-e1767034730660.jpg?resize=1200,600",
+      "url": "/tech-news/2025-12-29/openai-is-hiring-a-head-of-preparedness-with-a-550/",
+      "source": {
+        "emoji": "📰",
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": [
+        "Sam Altman"
+      ]
+    },
+    {
+      "title": "Japonské komponenty v nejnovějších zařízeních Apple",
+      "description": "Jak globální nejistota narůstá, japonský průmysl elektronických komponentů tiše posiluje svou přítomnost na světové scéně. Podrobnější pohled na technologie uznané Applou ukazuje pozici Japonska jako klíčového centra v globálním řetězci dodávek.",
+      "slug": "japanese-components-powering-apples-latest-devices",
+      "publishedAt": "2025-12-29T19:22:37+00:00",
+      "date": "2025-12-29 19:22:37",
+      "importance": 4,
+      "category": "hardware",
+      "urlToImage": "https://i2.ytimg.com/vi/z8myaXPRyMM/mqdefault.jpg",
+      "url": "/tech-news/2025-12-29/japanese-components-powering-apples-latest-devices/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Newsonjapan.com"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Investoři vložili 230 milionů dolarů do průmyslového AI a pojišťovnictví",
+      "description": "Startupy automatizující skladové doky, sledující kognitivní výkon a měnící pojišťovnické procesy získaly investice v celkové výši 230 milionů dolarů na integraci umělé inteligence do provozních postupů.",
+      "slug": "investors-pour-230-million-into-industrial-ai-and-",
+      "publishedAt": "2025-12-29T19:05:03+00:00",
+      "date": "2025-12-29 19:05:03",
+      "importance": 4,
+      "category": "průmyslové ai",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2024/10/AI-revenues-funding.png",
+      "url": "/tech-news/2025-12-29/investors-pour-230-million-into-industrial-ai-and/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Jak AI přetvořila automobilový svět v roce 2025",
+      "description": "Rok 2025 byl rokem, kdy umělá inteligence převzala řízení v automobilovém průmyslu, doslova. Nejen v zasedacích sálech nebo na burzách, ale stále více na letištích, v showroomech a za volantem samotným. Od rekordních prodejů elektromobilů ve Velké Británii a Evropě až po pokročilé autonomní systémy.",
+      "slug": "how-ai-rewired-the-automotive-world-in-2025",
+      "publishedAt": "2025-12-29T19:00:00+00:00",
+      "date": "2025-12-29 19:00:00",
+      "importance": 4,
+      "category": "automobilový průmysl",
+      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2025-12-28_9oglsa5nqy.jpg",
+      "url": "/tech-news/2025-12-29/how-ai-rewired-the-automotive-world-in-2025/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "OilPrice.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Americký výrobní úspěch: Nvidia získává podíl v Intelu za 5 miliard dolarů",
+      "description": "Nvidia, světový lídr v AI čipech, dokončila koupi akcií Intelu v hodnotě 5 miliard dolarů. Transakce oznámená v září poskytne Intelu finanční podporu pro jeho zotavení z dlouhodobých problémů.",
+      "slug": "american-manufacturing-win-nvidia-acquires-5-billi",
+      "publishedAt": "2025-12-29T18:58:17+00:00",
+      "date": "2025-12-29 18:58:17",
+      "importance": 5,
+      "category": "hardware",
+      "urlToImage": "https://media.breitbart.com/media/2025/12/Jensen-Huang-of-Nvidia-teams-up-with-Intel-640x335.jpg",
+      "url": "/tech-news/2025-12-29/american-manufacturing-win-nvidia-acquires-5-billi/",
+      "source": {
+        "emoji": "📰",
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "companies": [
+        "Nvidia",
+        "Intel"
+      ],
+      "people": []
+    },
+    {
+      "title": "Britská Octopus Energy oddělí Kraken s valuací 8,65 miliardy dolarů",
+      "description": "Britská společnost Octopus Energy oznámila oddělení své technologické divize Kraken jako samostatné firmy s valuací 8,65 miliardy dolarů po investičním kole vedeném americkou investiční firmou D1 Capital Partners. Kraken dodává software pro energetické společnosti včetně EDF, National Grid U.S. a Tokyo Gas.",
+      "slug": "britains-octopus-energy-to-spin-out-kraken-at-865-",
+      "publishedAt": "2025-12-29T18:52:54+00:00",
+      "date": "2025-12-29 18:52:54",
+      "importance": 4,
+      "category": "energetické technolo",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--UdP9XSzs--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-12-29T193210Z_2_LYNXMPELBS0PL_RTROPTP_3_BRITAIN-ENERGY.JPG?itok=gGLcF384",
+      "url": "/tech-news/2025-12-29/britains-octopus-energy-to-spin-out-kraken-at-865/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNA"
+      },
+      "companies": [
+        "Octopus Energy",
+        "Kraken"
+      ],
+      "people": []
+    },
+    {
+      "title": "'Není to dobré:' Elon Musk vyjádřil znepokojení nad vysokotechnologickou výrobou kvůli rostoucím cenám stříbra",
+      "description": "Nedávný prudký růst cen stříbra znepokojuje výrobce, včetně Elona Muska, který na platformě X upozornil na rizika pro průmyslové procesy. Cena kovu dosáhla rekordních 80 dolarů za unci, což může ovlivnit výrobu solárních panelů, elektromobilů a elektroniky.",
+      "slug": "not-good-elon-musk-expresses-concern-for-high-tech",
+      "publishedAt": "2025-12-29T18:39:29+00:00",
+      "date": "2025-12-29 18:39:29",
+      "importance": 4,
+      "category": "technologická výroba",
+      "urlToImage": "https://media.breitbart.com/media/2025/12/shiny-silver-bars-640x335.jpg",
+      "url": "/tech-news/2025-12-29/not-good-elon-musk-expresses-concern-for-high-tech/",
+      "source": {
+        "emoji": "📰",
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "PR cyklus umělé inteligence",
+      "description": "Umělá inteligence prochází cykly od apokalyptických varování typu Skynet přes sliby léčby rakoviny a kariérního růstu v prompt engineeringu až po erotické chatboti. CEO Microsoft AI Mustafa Suleyman nyní varuje, že technologie se může stát nekontrolovatelnou bez řádné regulace.",
+      "slug": "ai-pr-cycle",
+      "publishedAt": "2025-12-29T18:30:00+00:00",
+      "date": "2025-12-29 18:30:00",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": null,
+      "url": "/tech-news/2025-12-29/ai-pr-cycle/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Eschatonblog.com"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Plány Číny na regulaci lidsky podobné AI mohou určit tón globálních pravidel",
       "description": "Peking chystá zpřísnění pravidel pro lidsku podobnou umělou inteligenci s důrazem na bezpečnost uživatelů a společenské hodnoty. Nový návrh zavádí povinné označování AI interakcí a bezpečnostní kontroly.",
@@ -3488,26 +3667,6 @@
       ]
     },
     {
-      "title": "Téměř 3,5 milionu postiženo v datovém úniku University of Phoenix spojeném s exploit Oracle EBS od Clop",
-      "description": "Univerzita Phoenix potvrdila datový únik postihující téměř 3,5 milionu současných a bývalých studentů, zaměstnanců, pedagogů a dodavatelů. Útok využil zero-day zranitelnost v systému Oracle E-Business Suite, kterou zneužila ransomware skupina Clop v srpnu 2025.",
-      "slug": "nearly-35m-affected-in-university-of-phoenix-breac",
-      "publishedAt": "2025-12-22T23:43:27+00:00",
-      "date": "2025-12-22 23:43:27",
-      "importance": 5,
-      "category": "datový únik",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/universityofphoenix.png",
-      "url": "/tech-news/2025-12-22/nearly-35m-affected-in-university-of-phoenix-breac/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Oracle"
-      ],
-      "people": []
-    },
-    {
       "title": "Chaos Waymo během výpadku proudu v San Franciscu pravděpodobně způsoben selháním operačního managementu, ne chybou softwaru, říká expert",
       "description": "„Co kdyby to byl zemětřesení? Tisíce robotaxi by blokovaly silnice.“",
       "slug": "waymo-chaos-during-san-francisco-power-outage-like",
@@ -3526,28 +3685,6 @@
         "Waymo"
       ],
       "people": []
-    },
-    {
-      "title": "Digitální banka Erebor Palmera Luckeyho dosáhla valuace 4,3 miliardy dolarů při posunu regulačního schválení bankovní licence",
-      "description": "Digitální banka Erebor, spoluzakládaná Palmerem Luckeym, získala 350 milionů dolarů při valuaci 4,35 miliardy dolarů. Schválení od Úřadu kontrolora měny (OCC) a Federální korporace pro pojištění vkladů (FDIC) ji přibližuje k plné bankovní licenci.",
-      "slug": "palmer-luckeys-erebor-hits-43b-valuation-as-regula",
-      "publishedAt": "2025-12-22T22:48:59+00:00",
-      "date": "2025-12-22 22:48:59",
-      "importance": 4,
-      "category": "fintech",
-      "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-12/019b4777-6f1a-7c02-b98b-36767769c70b.jpg",
-      "url": "/tech-news/2025-12-22/palmer-luckeys-erebor-hits-43b-valuation-as-regula/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Cointelegraph"
-      },
-      "companies": [
-        "Erebor"
-      ],
-      "people": [
-        "Palmer Luckey"
-      ]
     },
     {
       "title": "Proč „levnější“ baterie představují miliardovou sázku na Čínu",
@@ -3608,28 +3745,6 @@
       ]
     },
     {
-      "title": "Mluvil jsem se Samem Altmanem: Jak ve skutečnosti vypadá budoucnost OpenAI",
-      "description": "Sam Altman rozebírá skutečné priority OpenAI: paměť, vztahy, růst v podnikovém sektoru – a proč veřejné nabízení akcií není v dohledné době.",
-      "slug": "i-spoke-with-sam-altman-what-openais-future-actual",
-      "publishedAt": "2025-12-22T19:31:32+00:00",
-      "date": "2025-12-22 19:31:32",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.cmswire.com/-/media/be35b6945380424ab1f38c42b6789256.ashx",
-      "url": "/tech-news/2025-12-22/i-spoke-with-sam-altman-what-openais-future-actual/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CMSWire"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": [
-        "Sam Altman"
-      ]
-    },
-    {
       "title": "Proč jaderná fúze nevyřeší problém s energií pro AI",
       "description": "S rostoucí potřebou obrovských množství elektřiny pro datová centra pohánějící boom umělé inteligence (AI) firmy v tomto sektoru prosazují jadernou fúzi jako jedno z řešení. Autor článku je však skeptický k této možnosti.",
       "slug": "why-nuclear-fusion-will-not-solve-the-ai-power-pro",
@@ -3668,49 +3783,6 @@
       "people": []
     },
     {
-      "title": "Masivní výpadek elektřiny v San Franciscu zastavil Waymo robotaxi po celém městě",
-      "description": "Požár v elektrické stanici způsobil výpadek proudu v San Franciscu, který donutil autonomní vozidla Waymo zastavit v křižovatkách a vyvolal dopravní zácpy. Služba byla dočasně pozastavena, ale brzy obnovena.",
-      "slug": "massive-san-francisco-power-outage-stalls-waymo-ro",
-      "publishedAt": "2025-12-22T18:14:01+00:00",
-      "date": "2025-12-22 18:14:01",
-      "importance": 4,
-      "category": "autonomní vozy",
-      "urlToImage": "https://cmg-cmg-tv-10080-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FHXZWM6SRD5GNTBWZM6C3U4NFNY.jpg?auth=f44bbceaac19f1f76a1e8a8c790f4ec0b4cf1a29215d78f323bd0648a19eccec&width=1200&height=630&smart=true",
-      "url": "/tech-news/2025-12-22/massive-san-francisco-power-outage-stalls-waymo-ro/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "WPXI Pittsburgh"
-      },
-      "companies": [
-        "Waymo"
-      ],
-      "people": []
-    },
-    {
-      "title": "Elon Musk se vysmívá Waymu po výpadku proudu v San Franciscu",
-      "description": "Elon Musk se posmíval Waymu poté, co se autonomní vozy této firmy zastavily na křižovatkách během rozsáhlého výpadku elektřiny v San Franciscu, zatímco tvrdí, že Tesla robotaxi nebyly ovlivněny. Incident odhaluje limity současných autonomních systémů v nepředvídatelných situacích.",
-      "slug": "elon-musk-takes-dig-at-waymo-after-san-francisco-b",
-      "publishedAt": "2025-12-22T16:10:02+00:00",
-      "date": "2025-12-22 16:10:02",
-      "importance": 4,
-      "category": "autonomní vozy",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/8L8RZaoJr8BPgoUfs8mySQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/fox_business_text_367/78db97382265ff819706af8a4f6a3aac",
-      "url": "/tech-news/2025-12-22/elon-musk-takes-dig-at-waymo-after-san-francisco-b/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Fox Business"
-      },
-      "companies": [
-        "Waymo",
-        "Tesla"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
       "title": "Stav umělé inteligence v roce 2025: Jak si vedly Google, Apple, OpenAI a další",
       "description": "Umělá inteligence v roce 2025 dále rostla, ale ne všemi očekávanými způsoby a ne každá společnost dosáhla stejného úspěchu. Zde je hodnocení výkonu klíčových firem.",
       "slug": "the-state-of-ai-in-2025-how-google-apple-openai-an",
@@ -3733,26 +3805,6 @@
       "people": []
     },
     {
-      "title": "Ztroskotané čipy",
-      "description": "Výstavba AI datových center závisí na čipech Nvidia a půjčených penězích. Firmy jako CoreWeave berou dluhy na nákup těchto čipů a používají je jako zástavu, což vytváří kruhový systém prospívající především Nvidia.",
-      "slug": "chipwrecked",
-      "publishedAt": "2025-12-22T15:32:29+00:00",
-      "date": "2025-12-22 15:32:29",
-      "importance": 4,
-      "category": "ai čipy",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258155_How_Nvidia_is_benefitting_from_chip-backed_loans_CVirginia11.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "url": "/tech-news/2025-12-22/chipwrecked/",
-      "source": {
-        "emoji": "⚡",
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": []
-    },
-    {
       "title": "Nehody Tesly usmrtily 3 lidi během 4 dnů – vrchol roku 2025 s téměř 500 000 staženími z provozu a žalobami",
       "description": "Dvě teenagery zemřely v britském Surrey, jeden mladistvý v Kalifornii, zatímco Tesla řeší stažení 500 000 vozidel a žalobu za nesprávnou smrt související s Autopilotem.",
       "slug": "tesla-crashes-kill-3-in-4-dayscapping-2025-of-near",
@@ -3769,26 +3821,6 @@
       },
       "companies": [
         "Tesla"
-      ],
-      "people": []
-    },
-    {
-      "title": "Dodavatel technologií pro NHS England oznámil bezpečnostní incident - DXS International zasažena ransomwarem",
-      "description": "DXS International, klíčový dodavatel NHS v Anglii, byl zasažen ransomwarem. Neznámá skupina DevMan tvrdí, že ukradla 300 GB dat, ale klinické služby zůstaly nedotčeny.",
-      "slug": "nhs-england-tech-provider-reveals-data-breach-dxs-",
-      "publishedAt": "2025-12-22T12:20:00+00:00",
-      "date": "2025-12-22 12:20:00",
-      "importance": 5,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Fh3VbXWULVM5kiG48uTmkK-970-80.jpg",
-      "url": "/tech-news/2025-12-22/nhs-england-tech-provider-reveals-data-breach-dxs/",
-      "source": {
-        "emoji": "📰",
-        "id": "techradar",
-        "name": "TechRadar"
-      },
-      "companies": [
-        "DXS International"
       ],
       "people": []
     },
@@ -3874,24 +3906,6 @@
       "people": []
     },
     {
-      "title": "NotebookLM a Gemini 3 společně přeměňují výzkum na prezentace, vizuály a strukturovaná data",
-      "description": "Integrace modelu Gemini 3 do NotebookLM umožňuje plynulé zpracování textu, obrázků a dat v jednom pracovním postupu. Tento update mění nástroj z jednoduchého sumarizátoru dokumentů na komplexní platformu pro výzkum a tvorbu obsahu.",
-      "slug": "notebooklm-gemini-3-combine-to-turn-research-into-",
-      "publishedAt": "2025-12-22T07:00:46+00:00",
-      "date": "2025-12-22 07:00:46",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/notebooklm-multimodal-visuals-and-data-export_optimized.jpg",
-      "url": "/tech-news/2025-12-22/notebooklm-gemini-3-combine-to-turn-research-into/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Bitva USA-Čína: Některé firmy volí čínskou technologii",
       "description": "Navzdory hořké rivalitě USA s Čínou v nasazování umělé inteligence se čínská technologie tiše prosazuje na americkém trhu. Čínské open-source AI modely přitahují americké programátory a firmy díky nízké ceně a možnosti úprav.",
       "slug": "us-china-battle-sees-some-companies-choose-chinese",
@@ -3969,27 +3983,6 @@
       "companies": [
         "Google",
         "Waymo"
-      ],
-      "people": []
-    },
-    {
-      "title": "Google spouští továrny s bateriemi na CO2 pro dlouhodobé ukládání obnovitelné energie",
-      "description": "V červenci Google slíbil škálování CO2 baterií společnosti Energy Dome jako řešení pro dlouhodobé ukládání energie. Nyní IEEE Spectrum navštívil první továrnu na Sardinii, kde 2000 tun oxidu uhličitého pohání turbínu generující 20 MW po dobu 10 hodin a ukládá velké množství přebytečné obnovitelné energie.",
-      "slug": "google-launches-co2-battery-plants-for-long-durati",
-      "publishedAt": "2025-12-22T01:34:00+00:00",
-      "date": "2025-12-22 01:34:00",
-      "importance": 5,
-      "category": "ukládání energie",
-      "urlToImage": "https://a.fsdn.com/sd/topics/power_64.png",
-      "url": "/tech-news/2025-12-22/google-launches-co2-battery-plants-for-long-durati/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "companies": [
-        "Google",
-        "Energy Dome"
       ],
       "people": []
     },
