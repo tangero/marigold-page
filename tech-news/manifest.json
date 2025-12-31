@@ -1,15 +1,116 @@
 {
-  "generated": "2025-12-31T01:19:16.011320+00:00",
+  "generated": "2025-12-31T04:55:17.690069+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "Octopus Energy vyčleňuje dceřinou společnost Kraken s AI softwarem pro utility",
-      "description": "Britský gigant čisté energie Octopus Energy Group Ltd. oznámil vyčlenění svého nejcennějšího technologického aktiva do samostatné entity. Dceřiná společnost Kraken Technologies Ltd. se stane nezávislou firmou s valuací 8,65 miliardy dolarů po uzavření kola financování v objemu 1 miliardy dolarů.",
+      "title": "Meta získá singapurskou startupovou firmu Manus pro posílení pokročilých funkcí AI",
+      "description": "Společnost Meta oznámila akvizici čínského AI startupu Manus se sídlem v Singapuru, jehož hodnota dosahuje 2 až 3 miliard USD. Firma Manus vyvinula autonomního AI agenta schopného samostatného rozhodování a provádění úkolů.",
+      "slug": "meta-to-acquire-singapore-based-startup-manus-to-b",
+      "publishedAt": "2025-12-30T03:51:08+00:00",
+      "date": "2025-12-30 03:51:08",
+      "importance": 5,
+      "category": "ai",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--CodrgARg--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-12-29T234402Z_2_LYNXMPELBS0TZ_RTROPTP_3_META-PLATFORMS-MESSAGING-WHATSAPP.JPG?itok=ZNnJftYM",
+      "url": "/tech-news/2025-12-30/meta-to-acquire-singapore-based-startup-manus-to-b/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNA"
+      },
+      "companies": [
+        "Meta",
+        "Manus"
+      ],
+      "people": []
+    },
+    {
+      "title": "Čína plánuje pravidla pro umělou inteligenci k ochraně dětí a prevenci sebevražd",
+      "description": "Návrhové nařízení se zaměřuje na obavy spojené s chatboti, jejichž popularita v posledních měsících prudce vzrostla. Pravidla mají zajistit bezpečnost dětí a zabránit škodlivým radám od AI.",
+      "slug": "china-plans-ai-rules-to-protect-children-and-tackl",
+      "publishedAt": "2025-12-30T02:32:33+00:00",
+      "date": "2025-12-30 02:32:33",
+      "importance": 4,
+      "category": "ai regulace",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0fa6/live/4c396340-e527-11f0-a17f-77b932673098.jpg",
+      "url": "/tech-news/2025-12-30/china-plans-ai-rules-to-protect-children-and-tackl/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BBC News"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "SMIC odkupuje dceřinou společnost za 5,8 miliardy USD, jak čínský pokrok ve výrobě čipů zrychluje",
+      "description": "Semiconductor Manufacturing International Corp. (SMIC), provozovatel největší čínské polovodičové továrny, oznámila plány na odkup zbývajících 49 % podílu v menší foundry Semiconductor Manufacturing North China Corp. za 40,6 miliardy juanů (5,79 miliardy USD). Tento krok posiluje kontrolu nad výrobou čipů v Číně v době snahy o technologickou soběstačnost.",
+      "slug": "smic-buys-out-subsidiary-for-58b-as-chinas-chipmak",
+      "publishedAt": "2025-12-30T02:23:38+00:00",
+      "date": "2025-12-30 02:23:38",
+      "importance": 5,
+      "category": "polovodiče",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Screenshot-from-2025-12-30-09-22-56.png",
+      "url": "/tech-news/2025-12-30/smic-buys-out-subsidiary-for-58b-as-chinas-chipmak/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "SMIC"
+      ],
+      "people": []
+    },
+    {
+      "title": "Meta přebírá čínský startup Manus pro posílení pokročilých funkcí umělé inteligence",
+      "description": "Meta oznámila převzetí singapurské společnosti Manus, která vznikla z čínského startupu Butterfly Effect (Monica.im). Tento krok má urychlit integraci univerzálních agentů umělé inteligence do platforem jako Facebook a WhatsApp. Hodnota akvizice přesahuje miliardu dolarů.",
+      "slug": "meta-to-acquire-chinese-startup-manus-to-boost-adv",
+      "publishedAt": "2025-12-30T02:14:45+00:00",
+      "date": "2025-12-30 02:14:45",
+      "importance": 5,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-73454,resizemode-75,msid-126242430/tech/technology/meta-to-acquire-chinese-startup-manus-to-boost-advanced-ai-features.jpg",
+      "url": "/tech-news/2025-12-30/meta-to-acquire-chinese-startup-manus-to-boost-adv/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Meta",
+        "Manus"
+      ],
+      "people": []
+    },
+    {
+      "title": "Origin Energy investuje 210 milionů do vyčlenění Kraken z Octopus Energy",
+      "description": "Australská energetická společnost Origin Energy vloží 210 milionů australských dolarů do oddělení technologické platformy Kraken od britské Octopus Energy. Tento krok podporuje transformaci maloobchodního segmentu energetických firem.",
+      "slug": "origin-energy-puts-210m-into-spinout-of-kraken-fro",
+      "publishedAt": "2025-12-30T01:52:37+00:00",
+      "date": "2025-12-30 01:52:37",
+      "importance": 4,
+      "category": "energetika",
+      "urlToImage": "https://i.nextmedia.com.au/News/origin energy.jpg",
+      "url": "/tech-news/2025-12-30/origin-energy-puts-210m-into-spinout-of-kraken-fro/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "iTnews"
+      },
+      "companies": [
+        "Kraken",
+        "Octopus Energy"
+      ],
+      "people": []
+    },
+    {
+      "title": "Octopus Energy vyčleňuje AI platformu Kraken jako samostatnou firmu v hodnotě 8,65 miliardy dolarů",
+      "description": "Britská energetická skupina Octopus Energy vyčleňuje svou nejcennější technologickou dceru Kraken Technologies jako nezávislou společnost po získání financování v objemu 1 miliardy dolarů. Kraken vyvíjí specializovaný software pro dodavatele energií a dalších utility služeb, který využívá umělou inteligenci k automatizaci procesů.",
       "slug": "octopus-energy-spins-out-ai-native-utility-softwar",
       "publishedAt": "2025-12-30T00:55:53+00:00",
       "date": "2025-12-30 00:55:53",
       "importance": 4,
-      "category": "startupy",
+      "category": "umělá inteligence",
       "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Screenshot-from-2025-12-30-07-55-24.png",
       "url": "/tech-news/2025-12-30/octopus-energy-spins-out-ai-native-utility-softwar/",
       "source": {
@@ -18,13 +119,14 @@
         "name": "SiliconANGLE News"
       },
       "companies": [
+        "Octopus Energy Group Ltd",
         "Kraken Technologies Ltd"
       ],
       "people": []
     },
     {
       "title": "Zuckerberg kupuje čínskou AI firmu Manus, která slibuje akce místo slov",
-      "description": "Meta oznámila akvizici čínské AI společnosti Manus, jejíž technologie general agents umožňuje nejen generování textu, ale i provádění konkrétních akcí v cloudu. Tato technologie se brzy objeví v produktech Meta a zaměstnanci Manus přejdou do týmu sociální sítě.",
+      "description": "Meta přebírá čínskou AI společnost Manus a integruje její technologii general agents do svých produktů. Tato technologie umožňuje AI provádět praktické úkoly, jako je analýza dokumentů a hodnocení kandidátů na pozice.",
       "slug": "zuck-buys-chinese-ai-company-manus-that-claims-it-",
       "publishedAt": "2025-12-30T00:41:00+00:00",
       "date": "2025-12-30 00:41:00",
@@ -41,13 +143,11 @@
         "Meta",
         "Manus"
       ],
-      "people": [
-        "Mark Zuckerberg"
-      ]
+      "people": []
     },
     {
-      "title": "Meta plánuje koupit singapurský AI startup Manus za více než 2 miliardy dolarů",
-      "description": "Singapurský startup Manus, původně založený v Číně, nabízí firmám AI agenta na bázi předplatného, který funguje jako digitální zaměstnanec pro výzkum a automatizaci úkolů. Akvizice má posílit Meta v oblasti pokročilé umělé inteligence.",
+      "title": "Meta získá singapurský startup Manus pro posílení pokročilých funkcí umělé inteligence",
+      "description": "Meta Platforms souhlasila s akvizicí singapurského startupu Manus, který se specializuje na AI agenta pro firmy, za více než 2 miliardy amerických dolarů. Firma, původně založená v Číně, se přesunula do Singapuru kvůli napětí mezi USA a Čínou.",
       "slug": "meta-to-acquire-singapore-based-start-up-manus-to-",
       "publishedAt": "2025-12-30T00:23:44+00:00",
       "date": "2025-12-30 00:23:44",
@@ -80,24 +180,6 @@
         "emoji": "📰",
         "id": null,
         "name": "The Straits Times"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Věda v roce 2050: budoucí průlomy, které utváří náš svět – a dál",
-      "description": "Jaderná fúze. Lidé na Marsu. Umělá obecné inteligence. To jsou jen některé z pokroků, které by mohly přijít do poloviny století.",
-      "slug": "science-in-2050-the-future-breakthroughs-that-will",
-      "publishedAt": "2025-12-30T00:00:00+00:00",
-      "date": "2025-12-30 00:00:00",
-      "importance": 5,
-      "category": "budoucí průlomy",
-      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-025-04100-6/d41586-025-04100-6_51843060.jpg",
-      "url": "/tech-news/2025-12-30/science-in-2050-the-future-breakthroughs-that-will/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Nature.com"
       },
       "companies": [],
       "people": []
@@ -3862,26 +3944,6 @@
       ]
     },
     {
-      "title": "Chaos Waymo během výpadku proudu v San Franciscu pravděpodobně způsoben selháním operačního managementu, ne chybou softwaru, říká expert",
-      "description": "„Co kdyby to byl zemětřesení? Tisíce robotaxi by blokovaly silnice.“",
-      "slug": "waymo-chaos-during-san-francisco-power-outage-like",
-      "publishedAt": "2025-12-22T23:05:34+00:00",
-      "date": "2025-12-22 23:05:34",
-      "importance": 4,
-      "category": "autonomní vozy",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/12/AP25355126332210-e1766444263493.jpg?resize=1200,600",
-      "url": "/tech-news/2025-12-22/waymo-chaos-during-san-francisco-power-outage-like/",
-      "source": {
-        "emoji": "📰",
-        "id": "fortune",
-        "name": "Fortune"
-      },
-      "companies": [
-        "Waymo"
-      ],
-      "people": []
-    },
-    {
       "title": "Proč „levnější“ baterie představují miliardovou sázku na Čínu",
       "description": "Marketingové materiály pro příští dekádu ukládání energie staví na lithium-železo-fosfátových (LFP) bateriích jako na „rozumnou“ chemii bez kobaltu, niklu, etických problémů z dolů v Demokratické republice Kongo a bez rizika tepelného úniku.",
       "slug": "why-cheaper-batteries-are-a-multi-billion-dollar-b",
@@ -3936,26 +3998,6 @@
       "people": []
     },
     {
-      "title": "Vozidla Waymo znovu jezdí v San Franciscu po výpadku proudu",
-      "description": "Waymo obnovilo svou službu robotaxi v San Franciscu po výpadku proudu, který uvízl vozy po městě, informoval CNBC. Výpadek způsobený požárem podstanice Pacific Gas & Electric narušil semafory a ovlivnil autonomní systémy Waymo.",
-      "slug": "waymo-vehicles-are-operating-again-in-san-francisc",
-      "publishedAt": "2025-12-22T11:32:10+00:00",
-      "date": "2025-12-22 11:32:10",
-      "importance": 4,
-      "category": "autonomní vozy",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-22/waymo-vehicles-are-operating-again-in-san-francisc/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "companies": [
-        "Waymo"
-      ],
-      "people": []
-    },
-    {
       "title": "WISeKey zveřejnila závěrečný dopis CEO akcionářům za rok",
       "description": "WISeKey International Holding Ltd, přední globální společnost v kybernetické bezpečnosti, blockchainu a IoT, zveřejnila 22. prosince 2025 dopis akcionářům od zakladatele a CEO Carlose Moreiry. Dopis shrnuje klíčové milníky roku 2025, včetně akvizic, investic do kvantových technologií a komercializace nových bezpečnostních řešení.",
       "slug": "wisekey-issues-year-end-ceo-letter-to-shareholders",
@@ -3978,26 +4020,6 @@
       ]
     },
     {
-      "title": "Waymo pozastavilo provoz v San Franciscu po problémech během výpadku elektřiny",
-      "description": "Během víkendového výpadku proudu v San Franciscu se autonomní vozy Waymo zastavily u tmavých semaforů a blokovaly dopravu. Společnost dočasně pozastavila svou ride-hailing službu na doporučení starostovy kanceláře kvůli vytvářeným zácpám.",
-      "slug": "waymo-suspended-service-in-san-francisco-after-pro",
-      "publishedAt": "2025-12-22T04:01:28+00:00",
-      "date": "2025-12-22 04:01:28",
-      "importance": 4,
-      "category": "autonomní vozy",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-212810,resizemode-75,msid-126113887/tech/technology/waymo-suspended-service-in-san-francisco-after-problems-during-power-outage.jpg",
-      "url": "/tech-news/2025-12-22/waymo-suspended-service-in-san-francisco-after-pro/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Waymo"
-      ],
-      "people": []
-    },
-    {
       "title": "Robotaxi Waymo ztratila orientaci, když semafory v San Franciscu zhasly",
       "description": "Robotaxi společnosti Waymo se v sobotu večer náhle zastavily po celém San Franciscu kvůli výpadku proudu, který vypnul semafory a odhalil slabiny v navigaci autonomních vozidel. Společnost službu dočasně pozastavila a spolupracuje s městskými úřady.",
       "slug": "waymos-robotaxis-lose-their-way-as-san-francisco-t",
@@ -4014,26 +4036,6 @@
       },
       "companies": [
         "Google",
-        "Waymo"
-      ],
-      "people": []
-    },
-    {
-      "title": "Waymo pozastavilo službu po výpadku proudu v San Franciscu",
-      "description": "Waymo dočasně zastavilo svou službu autonomních taxíků v San Franciscu po rozsáhlém výpadku elektřiny, který způsobil uvíznutí několika autonomních vozů na ulicích. Mluvčí společnosti uvedl, že týmy spolupracují s městskými úřady na obnovení provozu.",
-      "slug": "waymo-suspends-service-after-power-outage-hit-san-",
-      "publishedAt": "2025-12-22T00:53:32+00:00",
-      "date": "2025-12-22 00:53:32",
-      "importance": 4,
-      "category": "autonomní vozy",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/12/image-36.png",
-      "url": "/tech-news/2025-12-22/waymo-suspends-service-after-power-outage-hit-san/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "companies": [
         "Waymo"
       ],
       "people": []
