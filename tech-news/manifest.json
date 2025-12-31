@@ -1,7 +1,95 @@
 {
-  "generated": "2025-12-31T16:42:32.987711+00:00",
+  "generated": "2025-12-31T20:38:02.633185+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Tajemství čipů TSMC ohrožena: Vyšetřování našlo citlivé dokumenty v domě bývalého manažera, který přešel k Intelu",
+      "description": "Taiwanští úředníci objevili v domě Dr. Wei-Jen Lo, bývalého klíčového specialisty TSMC nyní v Intelu, důvěrné dokumenty o pokročilých polovodičových technologiích. TSMC podalo žalobu kvůli obavám z úniku obchodních tajemství v oblasti EUV a 2nm procesů.",
+      "slug": "tsmc-chip-secrets-may-be-in-jeopardy-after-an-inve",
+      "publishedAt": "2025-12-30T19:33:53+00:00",
+      "date": "2025-12-30 19:33:53",
+      "importance": 4,
+      "category": "průmyslová špionáž",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/12/image-31-1.png",
+      "url": "/tech-news/2025-12-30/tsmc-chip-secrets-may-be-in-jeopardy-after-an-inve/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Wccftech"
+      },
+      "companies": [
+        "TSMC",
+        "Intel"
+      ],
+      "people": []
+    },
+    {
+      "title": "Konec Hulu: Disney potvrzuje ukončení samostatné streamovací aplikace v roce 2026, odběratelé protestují",
+      "description": "Disney oznámil, že samostatná aplikace Hulu zanikne v roce 2026 a veškerý obsah se přesune do Disney+. Tento krok reaguje na zpomalený růst odběratelů a vysoké náklady na duplicitní infrastrukturu, přesto odběratelé vyjadřují nespokojenost se ztrátou oddělené platformy pro dospělý obsah.",
+      "slug": "hulus-final-days-disney-confirms-streaming-shutdow",
+      "publishedAt": "2025-12-30T19:30:29+00:00",
+      "date": "2025-12-30 19:30:29",
+      "importance": 5,
+      "category": "streamovací služby",
+      "urlToImage": "https://insidethemagic.net/wp-content/uploads/2024/08/disney-plus-landing-page.jpg",
+      "url": "/tech-news/2025-12-30/hulus-final-days-disney-confirms-streaming-shutdow/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Inside the Magic"
+      },
+      "companies": [
+        "Netflix",
+        "Hulu"
+      ],
+      "people": []
+    },
+    {
+      "title": "AI nadšenec, který právě podpořil dohodu Nvidia-Groq, varuje před krachem datových center: 'Předvídáme významnou finanční krizi'",
+      "description": "Alex Davis tvrdí, že vývojáři datových center třetích stran budou nakonec zrazeni hyperscalery, kterým slouží, a čelí následné dluhové krizi.",
+      "slug": "an-ai-super-bull-who-just-backed-the-nvidia-groq-d",
+      "publishedAt": "2025-12-30T19:15:48+00:00",
+      "date": "2025-12-30 19:15:48",
+      "importance": 5,
+      "category": "datová centra",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2254057762-e1767121724441.jpg?resize=1200,600",
+      "url": "/tech-news/2025-12-30/an-ai-super-bull-who-just-backed-the-nvidia-groq-d/",
+      "source": {
+        "emoji": "📰",
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "companies": [
+        "Nvidia",
+        "Groq"
+      ],
+      "people": [
+        "Alex Davis"
+      ]
+    },
+    {
+      "title": "Co všechno může Meta udělat se svým novým AI agentem za 2 miliardy dolarů",
+      "description": "Meta má problémy konkurovat špičkovým AI laboratořím jako OpenAI a Anthropic. Její akvizice singapurského startupu Manus, který vyvinul první obecně použitelný AI agent, by situaci mohla změnit.",
+      "slug": "everything-meta-could-do-with-its-new-2-billion-ai",
+      "publishedAt": "2025-12-30T18:38:17+00:00",
+      "date": "2025-12-30 18:38:17",
+      "importance": 5,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/d72651dc0a6b938d27ea1f9eb9ae771bbfebf06a/2025/12/30/154b3817-3ddd-488c-bfb2-b892d95135aa/markprofile5gettyimages-2235451108.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "url": "/tech-news/2025-12-30/everything-meta-could-do-with-its-new-2-billion-ai/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "ZDNet"
+      },
+      "companies": [
+        "Meta",
+        "OpenAI",
+        "Anthropic",
+        "Manus"
+      ],
+      "people": []
+    },
     {
       "title": "MiniMax směřuje k IPO v Hong Kongu, čínské AI firmy spěchají k veřejnému obchodování",
       "description": "Čínská startupová společnost v oblasti umělé inteligence MiniMax se připravuje na první veřejnou nabídku akcií v Hong Kongu, kde chce získat více než 600 milionů dolarů. Podporují ji Alibaba Group a Abu Dhabi Investment Authority, přičemž listing je plánován na leden.",
@@ -3915,28 +4003,6 @@
       "people": []
     },
     {
-      "title": "Harman od Samsungu přebírá divizi pokročilých systémů řidičské asistence ZF za 1,76 miliardy dolarů",
-      "description": "Samsung Electronics prostřednictvím dceřiné společnosti Harman International oznámil akvizici divize pokročilých systémů řidičské asistence (ADAS) od ZF Friedrichshafen za 1,5 miliardy eur, což odpovídá přibližně 1,76 miliardám dolarů. Tento krok má posílit nabídku senzorů a řídicích systémů pro bezpečnější automobilovou jízdu.",
-      "slug": "samsungs-harman-to-acquire-zfs-advanced-driver-ass",
-      "publishedAt": "2025-12-23T23:34:05+00:00",
-      "date": "2025-12-23 23:34:05",
-      "importance": 5,
-      "category": "řidičská asistence",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Screenshot-from-2025-12-24-06-33-36.png",
-      "url": "/tech-news/2025-12-23/samsungs-harman-to-acquire-zfs-advanced-driver-ass/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Samsung",
-        "Harman",
-        "ZF Friedrichshafen"
-      ],
-      "people": []
-    },
-    {
       "title": "Trump versus státy: Kdo má právo regulovat umělou inteligenci?",
       "description": "Prezident Trump zřídil úkolovou skupinu k výzvě státním zákonům o umělé inteligenci, regulace této technologie však spadá do nejasné jurisdikce.",
       "slug": "trump-vs-states-who-gets-to-regulate-ai",
@@ -3995,69 +4061,6 @@
         "Tesla"
       ],
       "people": []
-    },
-    {
-      "title": "Nárůst poptávky po stříbře díky průlomu Samsungu v bateriích, zatímco zlato dosahuje rekordních maxim v době varování před podvody s IRA",
-      "description": "Poptávka po stříbře roste díky technologii pevnolátkových baterií Samsungu – každá bateriová sada pro elektromobil vyžaduje přibližně 1 kg stříbra, což by při širokém nasazení mohlo zdvojnásobit globální poptávku a zatížit napjaté zásoby. Zlato překonává rekordní ceny nad 2500 USD za unci, analytici predikují až 3000 USD kvůli de-dolarizaci BRICS a nákupům centrálních bank.",
-      "slug": "silver-demand-surges-with-samsungâs-battery-breakt",
-      "publishedAt": "2025-12-23T06:00:00+00:00",
-      "date": "2025-12-23 06:00:00",
-      "importance": 5,
-      "category": "elektromobilita",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/12/2025-12-23-BBN-PROJECTIONS.jpg",
-      "url": "/tech-news/2025-12-23/silver-demand-surges-with-samsungâs-battery-breakt/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "companies": [
-        "Samsung"
-      ],
-      "people": []
-    },
-    {
-      "title": "SpaceX Starlink dosáhlo přes 9 milionů zákazníků do konce roku 2025",
-      "description": "SpaceX oznámilo, že Starlink má nyní přes 9 milionů zákazníků, oproti 8 milionům v listopadu a 7 milionům v srpnu 2025. Tento růst překonal předpovědi analytiků a ukazuje na rekordní tempo přidávání nových uživatelů.",
-      "slug": "spacex-starlink-gets-over-9-million-customers-by-e",
-      "publishedAt": "2025-12-23T03:08:46+00:00",
-      "date": "2025-12-23 03:08:46",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2024/12/starlinkDTC-1024x730.jpg",
-      "url": "/tech-news/2025-12-23/spacex-starlink-gets-over-9-million-customers-by-e/",
-      "source": {
-        "emoji": "📰",
-        "id": "next-big-future",
-        "name": "Next Big Future"
-      },
-      "companies": [
-        "SpaceX"
-      ],
-      "people": []
-    },
-    {
-      "title": "SoftBank hledá 22,5 miliardy dolarů pro OpenAI do konce roku",
-      "description": "Společnost SoftBank Group Corp. musí do konce roku sehnat 22,5 miliardy dolarů, aby splnila závazek vůči partnerovi OpenAI. Podle exkluzivní zprávy Reuters má generální ředitel Masayoshi Son několik možností, jak peníze získat, včetně nevyužitých maržových úvěrů spojených s investicí do Arm Holdings.",
-      "slug": "report-softbank-scrambles-to-find-225b-for-openai-",
-      "publishedAt": "2025-12-23T01:40:21+00:00",
-      "date": "2025-12-23 01:40:21",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/4808589278_977983a231_k.jpg",
-      "url": "/tech-news/2025-12-23/report-softbank-scrambles-to-find-225b-for-openai/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "SoftBank",
-        "OpenAI"
-      ],
-      "people": [
-        "Masayoshi Son"
-      ]
     }
   ]
 }
