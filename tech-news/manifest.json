@@ -1,7 +1,128 @@
 {
-  "generated": "2025-12-31T04:55:17.690069+00:00",
+  "generated": "2025-12-31T08:44:16.212955+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Japonský Nikkei omezuje růst roku 2025, technologické akcie si berou pauzu",
+      "description": "Japonský akciový index Nikkei mírně klesl v poslední obchodní den roku 2025, táhnutý dolů technologickým sektorem, který byl klíčovým motorem letošního výrazného růstu. Pokles ovlivnily americké trhy a akcie SoftBank po oznámení akvizice.",
+      "slug": "japans-nikkei-trims-2025-surge-as-tech-stocks-take",
+      "publishedAt": "2025-12-30T07:49:33+00:00",
+      "date": "2025-12-30 07:49:33",
+      "importance": 4,
+      "category": "technologické akcie",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126247515,width-1200,height-630,imgsize-281532,overlay-etmarkets/articleshow.jpg",
+      "url": "/tech-news/2025-12-30/japans-nikkei-trims-2025-surge-as-tech-stocks-take/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Meta kupuje čínský startup Manus v transakci v hodnotě 2–3 miliard dolarů pro posílení pokročilé AI",
+      "description": "Meta oznámila akvizici čínského startupu Manus se sídlem v Singapuru, aby integrovala jeho autonomního AI agenta do svých platforem. Hodnota dohody dosahuje 2–3 miliard dolarů.",
+      "slug": "meta-to-buy-chinese-startup-manus-in-deal-worth-2-",
+      "publishedAt": "2025-12-30T07:27:34+00:00",
+      "date": "2025-12-30 07:27:34",
+      "importance": 5,
+      "category": "ai",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2025/12/30/1600x900/logo/SPAIN-TECHNOLOGY-META-2_1763560100642_1763560111760_1767079481298.JPG",
+      "url": "/tech-news/2025-12-30/meta-to-buy-chinese-startup-manus-in-deal-worth-2/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Livemint"
+      },
+      "companies": [
+        "Meta",
+        "Manus"
+      ],
+      "people": []
+    },
+    {
+      "title": "Elon Musk vidí humanoidní roboty všude. Čína může být první, kdo to uskuteční",
+      "description": "Čína si stanovila vývoj humanoidních robotů za strategickou prioritu v technologické soutěži s USA. Analytici očekávají, že domácí firmy Číny předčí Teslu v masové produkci.",
+      "slug": "elon-musk-envisions-humanoid-robots-everywhere-chi",
+      "publishedAt": "2025-12-30T06:10:04+00:00",
+      "date": "2025-12-30 06:10:04",
+      "importance": 5,
+      "category": "robotika",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108241113-1765539884437-gettyimages-2250716809-vcg111608459171.jpeg?v=1765539957&w=1920&h=1080",
+      "url": "/tech-news/2025-12-30/elon-musk-envisions-humanoid-robots-everywhere-chi/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "OpenAI nabízí 555 000 dolarů za „stressující“ práci na ochranu před nekontrolovanou AI a škodami na duševním zdraví",
+      "description": "OpenAI hledá vysoce placeného ředitele na obranu proti rizikům umělé inteligence, jako jsou kyberútoky, nekontrolovaná AI a dopady na duševní zdraví uživatelů. Nabídka přichází po žalobách, které spojují ChatGPT se škodami včetně úmrtí, a odráží nestabilitu v bezpečnostním týmu společnosti.",
+      "slug": "openai-offers-555000-for-âstressfulâ-job-to-guard-",
+      "publishedAt": "2025-12-30T06:00:00+00:00",
+      "date": "2025-12-30 06:00:00",
+      "importance": 4,
+      "category": "ai bezpečnost",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/12/ChatGPT-AI-App-Icons.jpg",
+      "url": "/tech-news/2025-12-30/openai-offers-555000-for-âstressfulâ-job-to-guard/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Meta koupila Manus, AI startup, o kterém se všude mluví | TechCrunch",
+      "description": "Meta oznámila akvizici singapurského AI startupu Manus za 2 miliardy dolarů a nechá ho běžet nezávisle. Jeho AI agenty integruje do Facebooku, Instagramu a WhatsAppu, kde je již dostupný chatbot Meta AI.",
+      "slug": "meta-just-bought-manus-an-ai-startup-everyone-has-",
+      "publishedAt": "2025-12-30T05:40:35+00:00",
+      "date": "2025-12-30 05:40:35",
+      "importance": 5,
+      "category": "ai",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2173579488.jpg?resize=1200,799",
+      "url": "/tech-news/2025-12-30/meta-just-bought-manus-an-ai-startup-everyone-has/",
+      "source": {
+        "emoji": "🚀",
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "companies": [
+        "Meta",
+        "Manus"
+      ],
+      "people": []
+    },
+    {
+      "title": "SoftBank zaplatí 4 miliardy dolarů za investiční firmu DigitalBridge",
+      "description": "SoftBank se dohodl na akvizici private equity firmy DigitalBridge v dealu, který oceňuje investora do datových center na 4 miliardy dolarů (3,4 miliardy eur) včetně dluhu. Tato transakce posiluje pozici SoftBanku v digitální infrastruktuře v době boomu umělé inteligence.",
+      "slug": "softbank-to-pay-4bn-for-investment-firm-digitalbri",
+      "publishedAt": "2025-12-30T05:30:00+00:00",
+      "date": "2025-12-30 05:30:00",
+      "importance": 5,
+      "category": "datová centra",
+      "urlToImage": "https://focus.independent.ie/thumbor/iObGRPhiz9OkcKqckWNTnh50Rqk=/0x0:4501x3001/629x0/prod-mh-ireland/f2a408bb-a8ee-4636-b99a-6263f1137343/ca08fbc1-6b98-4c27-b020-3c8959b73ffd/GettyImages-2197341890.jpg",
+      "url": "/tech-news/2025-12-30/softbank-to-pay-4bn-for-investment-firm-digitalbri/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Independent.ie"
+      },
+      "companies": [
+        "SoftBank",
+        "DigitalBridge"
+      ],
+      "people": []
+    },
     {
       "title": "Meta získá singapurskou startupovou firmu Manus pro posílení pokročilých funkcí AI",
       "description": "Společnost Meta oznámila akvizici čínského AI startupu Manus se sídlem v Singapuru, jehož hodnota dosahuje 2 až 3 miliard USD. Firma Manus vyvinula autonomního AI agenta schopného samostatného rozhodování a provádění úkolů.",
@@ -3664,28 +3785,6 @@
       "people": []
     },
     {
-      "title": "8 startupů, do kterých investoval Sam Altman mimo OpenAI v roce 2025",
-      "description": "Od jaderné fúze a biologické bezpečnosti po doručovací roboty a online vysoké školy, podrobný pohled na investice Sama Altmana do startupů v roce 2025.",
-      "slug": "A-8-startups-sam-altman-invested-in-outside-openai",
-      "publishedAt": "2025-12-23T18:24:49+00:00",
-      "date": "2025-12-23 18:24:49",
-      "importance": 4,
-      "category": "startupy",
-      "urlToImage": "https://observer.com/wp-content/uploads/sites/2/2025/12/GettyImages-2198164367.jpg?quality=80",
-      "url": "/tech-news/2025-12-23/A-8-startups-sam-altman-invested-in-outside-openai/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Observer"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": [
-        "Sam Altman"
-      ]
-    },
-    {
       "title": "Ocenění tech banky Erebor dosáhlo 4,35 miliardy dolarů",
       "description": "Bankovní startup Erebor Bank zaměřený na Silicon Valley by měl získat 350 milionů dolarů v novém kole financování, což by ho ohodnotilo na 4,35 miliardy dolarů, uvedl Bloomberg. Banka podporovaná Peterem Thielem a Palmerem Luckeym se profiluje jako náhrada za zkrachovalou Silicon Valley Bank.",
       "slug": "erebor-sees-valuation-for-tech-focused-bank-hit-43",
@@ -3942,103 +4041,6 @@
       "people": [
         "Masayoshi Son"
       ]
-    },
-    {
-      "title": "Proč „levnější“ baterie představují miliardovou sázku na Čínu",
-      "description": "Marketingové materiály pro příští dekádu ukládání energie staví na lithium-železo-fosfátových (LFP) bateriích jako na „rozumnou“ chemii bez kobaltu, niklu, etických problémů z dolů v Demokratické republice Kongo a bez rizika tepelného úniku.",
-      "slug": "why-cheaper-batteries-are-a-multi-billion-dollar-b",
-      "publishedAt": "2025-12-22T20:00:00+00:00",
-      "date": "2025-12-22 20:00:00",
-      "importance": 4,
-      "category": "ukládání energie",
-      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2025-12-22_qoyve1juab.jpg",
-      "url": "/tech-news/2025-12-22/why-cheaper-batteries-are-a-multi-billion-dollar-b/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "OilPrice.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Proč jaderná fúze nevyřeší problém s energií pro AI",
-      "description": "S rostoucí potřebou obrovských množství elektřiny pro datová centra pohánějící boom umělé inteligence (AI) firmy v tomto sektoru prosazují jadernou fúzi jako jedno z řešení. Autor článku je však skeptický k této možnosti.",
-      "slug": "why-nuclear-fusion-will-not-solve-the-ai-power-pro",
-      "publishedAt": "2025-12-22T19:00:00+00:00",
-      "date": "2025-12-22 19:00:00",
-      "importance": 4,
-      "category": "jaderná fúze",
-      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2025-12-22_2ycc5ks0fl.jpg",
-      "url": "/tech-news/2025-12-22/why-nuclear-fusion-will-not-solve-the-ai-power-pro/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "OilPrice.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "⚡ Týdenní přehled: Exploity firewallů, krádeže dat AI, hacky Androidu, útoky APT, úniky insiderů a další",
-      "description": "Kybernetické hrozby minulého týdne ukazují, že útočníci dosahují velkých škod bez nutnosti složitých operací. Zaměřují se na běžné nástroje jako firewally, přídavky prohlížečů či chytré televize a využívají malé zranitelnosti k vážným průnikům.",
-      "slug": "weekly-recap-firewall-exploits-ai-data-theft-andro",
-      "publishedAt": "2025-12-22T12:00:00+00:00",
-      "date": "2025-12-22 12:00:00",
-      "importance": 5,
-      "category": "kybernetika",
-      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfN3ux07rPKZg1M2O3wpbUAk1rPOaoFe-zhltZduqAdK1WiIPa9z5XcYwZVKNnUem6cU5uvtG-MS9eIDolbN7t3T9nOQYNDufSeGDftevuCUxij9rVpsTegXGjdBP5H1ZjevvhRLlGqG5vD9sxJToi24IPMvAZWrRsMQHKE44iaKidp7cOXDln0xi7Hh65/s790-rw-e365/recap.jpg",
-      "url": "/tech-news/2025-12-22/weekly-recap-firewall-exploits-ai-data-theft-andro/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Internet"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "WISeKey zveřejnila závěrečný dopis CEO akcionářům za rok",
-      "description": "WISeKey International Holding Ltd, přední globální společnost v kybernetické bezpečnosti, blockchainu a IoT, zveřejnila 22. prosince 2025 dopis akcionářům od zakladatele a CEO Carlose Moreiry. Dopis shrnuje klíčové milníky roku 2025, včetně akvizic, investic do kvantových technologií a komercializace nových bezpečnostních řešení.",
-      "slug": "wisekey-issues-year-end-ceo-letter-to-shareholders",
-      "publishedAt": "2025-12-22T06:00:00+00:00",
-      "date": "2025-12-22 06:00:00",
-      "importance": 4,
-      "category": "kybernetika",
-      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/80dae807-c8a0-4e1a-a0f0-61afcc7ae788",
-      "url": "/tech-news/2025-12-22/wisekey-issues-year-end-ceo-letter-to-shareholders/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [
-        "WISeKey"
-      ],
-      "people": [
-        "Carlos Moreira"
-      ]
-    },
-    {
-      "title": "Robotaxi Waymo ztratila orientaci, když semafory v San Franciscu zhasly",
-      "description": "Robotaxi společnosti Waymo se v sobotu večer náhle zastavily po celém San Franciscu kvůli výpadku proudu, který vypnul semafory a odhalil slabiny v navigaci autonomních vozidel. Společnost službu dočasně pozastavila a spolupracuje s městskými úřady.",
-      "slug": "waymos-robotaxis-lose-their-way-as-san-francisco-t",
-      "publishedAt": "2025-12-22T01:55:53+00:00",
-      "date": "2025-12-22 01:55:53",
-      "importance": 4,
-      "category": "autonomní vozidla",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Screenshot-from-2025-12-22-08-55-21.png",
-      "url": "/tech-news/2025-12-22/waymos-robotaxis-lose-their-way-as-san-francisco-t/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Google",
-        "Waymo"
-      ],
-      "people": []
     }
   ]
 }
