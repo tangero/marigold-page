@@ -1,7 +1,170 @@
 {
-  "generated": "2025-12-31T12:52:22.702690+00:00",
+  "generated": "2025-12-31T16:42:32.987711+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "MiniMax směřuje k IPO v Hong Kongu, čínské AI firmy spěchají k veřejnému obchodování",
+      "description": "Čínská startupová společnost v oblasti umělé inteligence MiniMax se připravuje na první veřejnou nabídku akcií v Hong Kongu, kde chce získat více než 600 milionů dolarů. Podporují ji Alibaba Group a Abu Dhabi Investment Authority, přičemž listing je plánován na leden.",
+      "slug": "minimax-moves-toward-hong-kong-ipo-as-chinese-ai-f",
+      "publishedAt": "2025-12-30T16:10:40+00:00",
+      "date": "2025-12-30 16:10:40",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/ai-generated-8563259_1280.jpg",
+      "url": "/tech-news/2025-12-30/minimax-moves-toward-hong-kong-ipo-as-chinese-ai-f/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "MiniMax",
+        "Alibaba Group Holdings Ltd"
+      ],
+      "people": []
+    },
+    {
+      "title": "Meta kupuje startup Manus v dalším kroku k posílení svých snah v oblasti umělé inteligence",
+      "description": "Meta přebírá singapurský startup Manus, který vyvinul univerzálního AI agenta pro výzkum, programování a další úkoly. Akvizice za více než 2 miliardy dolarů umožní integraci technologie do produktů jako Meta AI, přičemž platforma zachová svou nezávislost v prodeji předplatného.",
+      "slug": "meta-buys-startup-manus-in-latest-move-to-advance-",
+      "publishedAt": "2025-12-30T16:02:03+00:00",
+      "date": "2025-12-30 16:02:03",
+      "importance": 5,
+      "category": "ai",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/BwdtBfapvg8X2f6ShQQkhw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap_finance_articles_694/13e65337a61e284cb7a05415e2523325",
+      "url": "/tech-news/2025-12-30/meta-buys-startup-manus-in-latest-move-to-advance/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "Meta",
+        "Manus"
+      ],
+      "people": []
+    },
+    {
+      "title": "Čínské firmy ByteDance a Tencent údajně nabízejí 150% zvýšení mezd a 35% bonusy pro přilákání AI talentů – platy by měly růst i v roce 2026",
+      "description": "Čínské technologické giganty ByteDance a Tencent zvyšují rozpočty na bonusy a platy, aby získaly odborníky na umělou inteligenci. Tento trend probíhá souběžně s propouštěním v širším technologickém sektoru.",
+      "slug": "chinese-firms-bytedance-and-tencent-reportedly-off",
+      "publishedAt": "2025-12-30T15:54:59+00:00",
+      "date": "2025-12-30 15:54:59",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/PMRVxeUPnLgFWWDzaYYztk-1920-80.jpg",
+      "url": "/tech-news/2025-12-30/chinese-firms-bytedance-and-tencent-reportedly-off/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "companies": [
+        "ByteDance",
+        "Tencent"
+      ],
+      "people": []
+    },
+    {
+      "title": "OpenAI získala obrovskou investici 40 miliard dolarů",
+      "description": "OpenAI a SoftBank uzavřely jednu z největších soukromých technologických investic v historii. Japonský konglomerát dokončil svůj závazek 40 miliard USD (přibližně 55 miliard CAD) do tvůrce ChatGPT.",
+      "slug": "openai-secures-massive-40-billion-investment",
+      "publishedAt": "2025-12-30T15:30:53+00:00",
+      "date": "2025-12-30 15:30:53",
+      "importance": 5,
+      "category": "investice",
+      "urlToImage": "https://cdn.iphoneincanada.ca/wp-content/uploads/2025/10/plt-openai-01-hero-01png.png",
+      "url": "/tech-news/2025-12-30/openai-secures-massive-40-billion-investment/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "iPhone in Canada"
+      },
+      "companies": [
+        "OpenAI",
+        "SoftBank"
+      ],
+      "people": []
+    },
+    {
+      "title": "HoneyMyte (známý také jako Mustang Panda) nasazuje backdoor ToneShell v nových útocích",
+      "description": "Skupina HoneyMyte, známá také jako Mustang Panda, použila nový backdoor ToneShell k útokům na vládní entity v Asii. Tento nástroj obchází detekci Microsoft Defender a umožňuje trvalý přístup do systémů.",
+      "slug": "honeymyte-aka-mustang-panda-deploys-toneshell-back",
+      "publishedAt": "2025-12-30T15:22:48+00:00",
+      "date": "2025-12-30 15:22:48",
+      "importance": 5,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://hackread.com/wp-content/uploads/2025/12/honeymyte-mustang-panda-toneshell-backdoor-1024x597.jpg",
+      "url": "/tech-news/2025-12-30/honeymyte-aka-mustang-panda-deploys-toneshell-back/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "HackRead"
+      },
+      "companies": [
+        "Microsoft"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nvidia licencuje technologii inferenčních čipů od Groq a najímá její lídry",
+      "description": "Tato neakvizice umožní Nvidia diverzifikovat dodavatelské řetězce a vstoupit do nových trhů, přičemž se vyhne antimonopolnímu dohledu.",
+      "slug": "nvidia-licenses-groqs-inferencing-chip-tech-and-hi",
+      "publishedAt": "2025-12-30T15:18:05+00:00",
+      "date": "2025-12-30 15:18:05",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://www.networkworld.com/wp-content/uploads/2025/12/4112131-0-24168400-1767107688-Groq.jpg?quality=50&strip=all&w=1024",
+      "url": "/tech-news/2025-12-30/nvidia-licenses-groqs-inferencing-chip-tech-and-hi/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Network World"
+      },
+      "companies": [
+        "Nvidia",
+        "Groq"
+      ],
+      "people": []
+    },
+    {
+      "title": "Očekáván pokles čtvrtletních dodávek Tesly",
+      "description": "Dodávky Tesly se v čtvrtém čtvrtletí očekávají snížit kvůli ztrátě amerických daňových úlev a rostoucí globální konkurenci, přestože společnost uvedla na trh levnější verze svých nejprodávanějších elektromobilů Model 3 a Model Y.",
+      "slug": "teslas-quarterly-deliveries-seen-falling",
+      "publishedAt": "2025-12-30T15:17:37+00:00",
+      "date": "2025-12-30 15:17:37",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://www.rte.ie/images/00239521-1600.jpg",
+      "url": "/tech-news/2025-12-30/teslas-quarterly-deliveries-seen-falling/",
+      "source": {
+        "emoji": "📰",
+        "id": "rte",
+        "name": "RTE"
+      },
+      "companies": [
+        "Tesla"
+      ],
+      "people": []
+    },
+    {
+      "title": "Tyto byly naše nejoblíbenější technologické příběhy z webu v roce 2025",
+      "description": "Každý týden prohledáváme web pro důležité, poučné a fascinující příběhy z vědy a technologií. Zde je shrnutí těch, které nás letos nejvíc zaujaly.",
+      "slug": "these-were-our-favorite-tech-stories-from-around-t",
+      "publishedAt": "2025-12-30T15:00:00+00:00",
+      "date": "2025-12-30 15:00:00",
+      "importance": 5,
+      "category": "souhrn roku",
+      "urlToImage": "https://singularityhub.com/uploads/2025/12/accelerating-horizon-yellow-lines.jpeg?auto=webp",
+      "url": "/tech-news/2025-12-30/these-were-our-favorite-tech-stories-from-around-t/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Singularity Hub"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Meta kupuje AI společnost Manus v hodnotě 500 milionů dolarů – proč to udělala",
       "description": "Meta převzala rychle rostoucí AI startup Manus za valuaci kolem 395 milionů liber. Tento článek vysvětluje, čím se Manus zabývá, proč je jeho hodnota diskutovaná a důvody akvizice právě teď.",
@@ -3794,24 +3957,6 @@
       ]
     },
     {
-      "title": "Nový americký vojenský nástroj GenAI je ‚kritickým prvním krokem‘ v budoucnosti války, říká expert",
-      "description": "Nedávno spuštěný nástroj GenAI pro americké vojáky a zaměstnance ministerstva války je podle vojenského experta ‚kritickým prvním krokem‘ v budoucnosti války.",
-      "slug": "new-us-military-genai-tool-critical-first-step-in-",
-      "publishedAt": "2025-12-23T21:26:49+00:00",
-      "date": "2025-12-23 21:26:49",
-      "importance": 4,
-      "category": "vojenská ai",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/12/pete-hegseth-us-soldier-with-drone.png",
-      "url": "/tech-news/2025-12-23/new-us-military-genai-tool-critical-first-step-in/",
-      "source": {
-        "emoji": "📰",
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Zoox stahuje software kvůli překračování pruhů",
       "description": "Společnost Zoox vydala aktualizaci softwaru pro svůj systém autonomního řízení, aby opravila chování vozidel při překračování středové čáry u křižovatek a blokování přechodů pro chodce.",
       "slug": "zoox-issues-software-recall-over-lane-crossings-te",
@@ -3829,84 +3974,6 @@
       "companies": [
         "Zoox"
       ],
-      "people": []
-    },
-    {
-      "title": "Nvidia míří na dodávky čipů H200 do Číny do poloviny února",
-      "description": "Nvidia plánuje odeslat své výkonné AI čipy H200 do Číny před lunárním Novým rokem. Počáteční dodávky použijí stávající zásoby v objemu 5 000 až 10 000 modulů čipů, což odpovídá přibližně 40 000 až 80 000 kusům samotných čipů H200. Společnost navíc chystá novou výrobní kapacitu pro rok 2026.",
-      "slug": "nvidia-aims-at-shipments-of-h200-chips-to-china-by",
-      "publishedAt": "2025-12-23T19:10:09+00:00",
-      "date": "2025-12-23 19:10:09",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://img.etimg.com/thumb/msid-126147448,width-1200,height-630,imgsize-17916,overlay-economictimes/articleshow.jpg",
-      "url": "/tech-news/2025-12-23/nvidia-aims-at-shipments-of-h200-chips-to-china-by/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": []
-    },
-    {
-      "title": "Ocenění tech banky Erebor dosáhlo 4,35 miliardy dolarů",
-      "description": "Bankovní startup Erebor Bank zaměřený na Silicon Valley by měl získat 350 milionů dolarů v novém kole financování, což by ho ohodnotilo na 4,35 miliardy dolarů, uvedl Bloomberg. Banka podporovaná Peterem Thielem a Palmerem Luckeym se profiluje jako náhrada za zkrachovalou Silicon Valley Bank.",
-      "slug": "erebor-sees-valuation-for-tech-focused-bank-hit-43",
-      "publishedAt": "2025-12-23T18:07:12+00:00",
-      "date": "2025-12-23 18:07:12",
-      "importance": 4,
-      "category": "startupy",
-      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2025/05/bank-capital-requirements.png",
-      "url": "/tech-news/2025-12-23/erebor-sees-valuation-for-tech-focused-bank-hit-43/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "pymnts.com"
-      },
-      "companies": [
-        "Erebor Bank"
-      ],
-      "people": []
-    },
-    {
-      "title": "Desítky živých přenosů z AI kamer Flock byly volně dostupné na internetu",
-      "description": "Živé přenosy z více než 60 AI kamer firmy Flock pro dohled byly dostupné na webu bez autentizace, což umožnilo kdokoli s odkazem sledovat lidi a vozidla v reálném čase. Chybu odhalili youtuber Benn Jordan a 404 Media přes vyhledávač Shodan.",
-      "slug": "dozens-of-flock-ai-camera-feeds-were-just-out-ther",
-      "publishedAt": "2025-12-23T16:09:58+00:00",
-      "date": "2025-12-23 16:09:58",
-      "importance": 4,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK471_Government_Surveillance_CVirginia_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "url": "/tech-news/2025-12-23/dozens-of-flock-ai-camera-feeds-were-just-out-ther/",
-      "source": {
-        "emoji": "⚡",
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "companies": [
-        "Flock"
-      ],
-      "people": []
-    },
-    {
-      "title": "Osobnost roku 2025 podle Emerge: Ani, chatbot Grok",
-      "description": "Vzestup Ani ukázal, jak se chatboti proměnily z nástrojů v partnery, což definovalo rok zaměřený na intimitu umělé inteligence a její dopady na lidskou sféru.",
-      "slug": "emerges-2025-person-of-the-year-ani-the-grok-chatb",
-      "publishedAt": "2025-12-23T16:01:03+00:00",
-      "date": "2025-12-23 16:01:03",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/12/Emerge-Person-of-the-Year-2025-Ani-gID_7.jpg",
-      "url": "/tech-news/2025-12-23/emerges-2025-person-of-the-year-ani-the-grok-chatb/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Decrypt"
-      },
-      "companies": [],
       "people": []
     },
     {
@@ -3930,46 +3997,6 @@
       "people": []
     },
     {
-      "title": "Globální investoři se obracejí k čínské AI, zatímco Wall Street se bojí bubliny",
-      "description": "Globální investoři zvyšují své sázky na čínské společnosti s umělou inteligencí, sází na další DeepSeek a hledají diverzifikaci, přičemž rostou obavy z spekulativní bubliny v sektoru na Wall Street.",
-      "slug": "global-investors-turn-to-chinese-ai-as-wall-street",
-      "publishedAt": "2025-12-23T07:28:06+00:00",
-      "date": "2025-12-23 07:28:06",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/lAn3nro5n72FhggSl3No.g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/51c38460-dfe8-11f0-bfdf-af41f33db60a",
-      "url": "/tech-news/2025-12-23/global-investors-turn-to-chinese-ai-as-wall-street/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [
-        "DeepSeek"
-      ],
-      "people": []
-    },
-    {
-      "title": "HCLTech utratila 400 milionů dolarů na akvizice během týdne, aby posílila AI a datové nabídky",
-      "description": "Tyto akvizice představují největší výdaje společnosti na takové transakce za tři roky, protože se zaměřuje na softwarově řízené schopnosti.",
-      "slug": "hcltech-spends-400-million-on-acquisitions-in-a-we",
-      "publishedAt": "2025-12-23T07:16:22+00:00",
-      "date": "2025-12-23 07:16:22",
-      "importance": 4,
-      "category": "akvizice",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2025/12/23/1600x900/logo/INDIA-IT--1_1705560252397_1766472830597.JPG",
-      "url": "/tech-news/2025-12-23/hcltech-spends-400-million-on-acquisitions-in-a-we/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Livemint"
-      },
-      "companies": [
-        "HCLTech"
-      ],
-      "people": []
-    },
-    {
       "title": "Nárůst poptávky po stříbře díky průlomu Samsungu v bateriích, zatímco zlato dosahuje rekordních maxim v době varování před podvody s IRA",
       "description": "Poptávka po stříbře roste díky technologii pevnolátkových baterií Samsungu – každá bateriová sada pro elektromobil vyžaduje přibližně 1 kg stříbra, což by při širokém nasazení mohlo zdvojnásobit globální poptávku a zatížit napjaté zásoby. Zlato překonává rekordní ceny nad 2500 USD za unci, analytici predikují až 3000 USD kvůli de-dolarizaci BRICS a nákupům centrálních bank.",
       "slug": "silver-demand-surges-with-samsungâs-battery-breakt",
@@ -3986,27 +4013,6 @@
       },
       "companies": [
         "Samsung"
-      ],
-      "people": []
-    },
-    {
-      "title": "Google plánuje akvizici stavitele infrastruktury Intersect pro urychlení rozvoje kapacity",
-      "description": "Google bude spolupracovat s Intersectem na prozkoumávání nových technologií a zvyšování a diverzifikaci dodávek energie, uvedl technologický gigant. Akvizice má urychlit výstavbu datových center pro rostoucí poptávku po AI.",
-      "slug": "google-agrees-to-acquire-infrastructure-builder-in",
-      "publishedAt": "2025-12-23T04:08:19+00:00",
-      "date": "2025-12-23 04:08:19",
-      "importance": 5,
-      "category": "datová centra",
-      "urlToImage": "https://www.networkworld.com/wp-content/uploads/2025/12/4110832-0-83887400-1766462507-shutterstock_1451498966.jpg?quality=50&strip=all&w=1024",
-      "url": "/tech-news/2025-12-23/google-agrees-to-acquire-infrastructure-builder-in/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Network World"
-      },
-      "companies": [
-        "Google",
-        "Intersect"
       ],
       "people": []
     },
