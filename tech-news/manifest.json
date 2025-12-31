@@ -1,7 +1,202 @@
 {
-  "generated": "2025-12-30T20:33:51.077027+00:00",
+  "generated": "2025-12-31T01:19:16.011320+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Octopus Energy vyčleňuje dceřinou společnost Kraken s AI softwarem pro utility",
+      "description": "Britský gigant čisté energie Octopus Energy Group Ltd. oznámil vyčlenění svého nejcennějšího technologického aktiva do samostatné entity. Dceřiná společnost Kraken Technologies Ltd. se stane nezávislou firmou s valuací 8,65 miliardy dolarů po uzavření kola financování v objemu 1 miliardy dolarů.",
+      "slug": "octopus-energy-spins-out-ai-native-utility-softwar",
+      "publishedAt": "2025-12-30T00:55:53+00:00",
+      "date": "2025-12-30 00:55:53",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Screenshot-from-2025-12-30-07-55-24.png",
+      "url": "/tech-news/2025-12-30/octopus-energy-spins-out-ai-native-utility-softwar/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Kraken Technologies Ltd"
+      ],
+      "people": []
+    },
+    {
+      "title": "Zuckerberg kupuje čínskou AI firmu Manus, která slibuje akce místo slov",
+      "description": "Meta oznámila akvizici čínské AI společnosti Manus, jejíž technologie general agents umožňuje nejen generování textu, ale i provádění konkrétních akcí v cloudu. Tato technologie se brzy objeví v produktech Meta a zaměstnanci Manus přejdou do týmu sociální sítě.",
+      "slug": "zuck-buys-chinese-ai-company-manus-that-claims-it-",
+      "publishedAt": "2025-12-30T00:41:00+00:00",
+      "date": "2025-12-30 00:41:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://regmedia.co.uk/2025/12/30/manus_ai_zuckerborg_manus.jpg",
+      "url": "/tech-news/2025-12-30/zuck-buys-chinese-ai-company-manus-that-claims-it/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "companies": [
+        "Meta",
+        "Manus"
+      ],
+      "people": [
+        "Mark Zuckerberg"
+      ]
+    },
+    {
+      "title": "Meta plánuje koupit singapurský AI startup Manus za více než 2 miliardy dolarů",
+      "description": "Singapurský startup Manus, původně založený v Číně, nabízí firmám AI agenta na bázi předplatného, který funguje jako digitální zaměstnanec pro výzkum a automatizaci úkolů. Akvizice má posílit Meta v oblasti pokročilé umělé inteligence.",
+      "slug": "meta-to-acquire-singapore-based-start-up-manus-to-",
+      "publishedAt": "2025-12-30T00:23:44+00:00",
+      "date": "2025-12-30 00:23:44",
+      "importance": 5,
+      "category": "ai",
+      "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/fefd354c1ba1c4db54773de033d176991700d54c7121c73b31672c8e6ed1f5d0",
+      "url": "/tech-news/2025-12-30/meta-to-acquire-singapore-based-start-up-manus-to/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Straits Times"
+      },
+      "companies": [
+        "Meta",
+        "Manus"
+      ],
+      "people": []
+    },
+    {
+      "title": "Noví (mladí) miliardáři z AI boomu",
+      "description": "Většina nových AI miliardářů založila své společnosti před méně než třemi lety. Čtěte více na straitstimes.com.",
+      "slug": "the-new-young-billionaires-of-the-ai-boom",
+      "publishedAt": "2025-12-30T00:05:29+00:00",
+      "date": "2025-12-30 00:05:29",
+      "importance": 4,
+      "category": "ai miliardáři",
+      "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/26bdbce366f56921f8a88b0c227c7478f95e848b4d6e26c24e809a2934112832",
+      "url": "/tech-news/2025-12-30/the-new-young-billionaires-of-the-ai-boom/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Straits Times"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Věda v roce 2050: budoucí průlomy, které utváří náš svět – a dál",
+      "description": "Jaderná fúze. Lidé na Marsu. Umělá obecné inteligence. To jsou jen některé z pokroků, které by mohly přijít do poloviny století.",
+      "slug": "science-in-2050-the-future-breakthroughs-that-will",
+      "publishedAt": "2025-12-30T00:00:00+00:00",
+      "date": "2025-12-30 00:00:00",
+      "importance": 5,
+      "category": "budoucí průlomy",
+      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-025-04100-6/d41586-025-04100-6_51843060.jpg",
+      "url": "/tech-news/2025-12-30/science-in-2050-the-future-breakthroughs-that-will/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Nature.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Globální trh s polovodiči se blíží k 1 bilionu USD v roce 2026, taiwanské slévárny jdou odlišnými cestami",
+      "description": "Globální polovodičový průmysl dosáhne v roce 2026 ročních tržeb 1 bilionu amerických dolarů díky poptávce po procesorech pro umělou inteligenci a pokročilých pamětích. Taiwanské slévárny jako TSMC se odlišují od konkurentů v expanzi a technologiích.",
+      "slug": "global-chip-market-nears-us1-trillion-in-2026-as-t",
+      "publishedAt": "2025-12-29T23:48:50+00:00",
+      "date": "2025-12-29 23:48:50",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://img.digitimes.com/newsshow/20251229pd210_files/1_b.jpg",
+      "url": "/tech-news/2025-12-29/global-chip-market-nears-us1-trillion-in-2026-as-t/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Probuzení Číny staví asijské fúze a akvizice na sebevědomou trať pro rok 2026",
+      "description": "Optimistická nálada kolem obchodních transakcí se rozléhá Asií, přičemž hlavní trhy jako Čína zrychlují po období stagnace a Japonsko dosahuje rekordních objemů.",
+      "slug": "chinas-reawakening-puts-asia-ma-on-confident-cours",
+      "publishedAt": "2025-12-29T23:39:37+00:00",
+      "date": "2025-12-29 23:39:37",
+      "importance": 4,
+      "category": "fúze a akvizice",
+      "urlToImage": null,
+      "url": "/tech-news/2025-12-29/chinas-reawakening-puts-asia-ma-on-confident-cours/",
+      "source": {
+        "emoji": "📰",
+        "id": "financial-post",
+        "name": "Financial Post"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Uniklo miliony záznamů uživatelů WIRED v údajném narušení Condé Nast",
+      "description": "Útočník s přezdívkou Lovely tvrdí, že narušil systémy vydavatele Condé Nast a zveřejnil databázi s více než 23 miliony záznamů uživatelů WIRED. Data obsahují e-maily, uživatelská jména, plná jména, telefonní čísla a adresy, části byly ověřeny jako legitimní. Zatím nebylo narušení potvrzeno oficiálně.",
+      "slug": "millions-of-wired-user-records-leaked-in-claimed-c",
+      "publishedAt": "2025-12-29T23:30:14+00:00",
+      "date": "2025-12-29 23:30:14",
+      "importance": 5,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/wiredhacked.png",
+      "url": "/tech-news/2025-12-29/millions-of-wired-user-records-leaked-in-claimed-c/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Nvidia dokončila nákup akcií Intelu za 5 miliard dolarů",
+      "description": "Společnost Nvidia oznámila dokončení nákupu akcií Intelu v hodnotě 5 miliard dolarů prostřednictvím soukromého umístění. Tato investice odpovídá 4,4% podílu a je součástí širšího partnerství zaměřeného na společné inženýrské projekty v oblasti hardware.",
+      "slug": "nvidia-finalizes-5b-purchase-of-intel-shares",
+      "publishedAt": "2025-12-29T23:08:41+00:00",
+      "date": "2025-12-29 23:08:41",
+      "importance": 5,
+      "category": "hardware",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Nvidia.jpg",
+      "url": "/tech-news/2025-12-29/nvidia-finalizes-5b-purchase-of-intel-shares/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Nvidia",
+        "Intel"
+      ],
+      "people": []
+    },
+    {
+      "title": "Americké a australské agentury varují: Zranitelnost MongoBleed v MongoDB je aktivně využívána",
+      "description": "Kybernetické bezpečnostní úřady v USA a Austrálii upozorňují na aktivní exploitaci kritické zranitelnosti CVE-2025-14847 v MongoDB, která umožňuje útočníkům získat citlivé údaje z paměti databáze. Tato chyba ohrožuje tisíce veřejně dostupných instancí a CISA nařizuje federálním agenturám patchování do 19. ledna.",
+      "slug": "us-and-australian-agencies-warn-mongobleed-vulnera",
+      "publishedAt": "2025-12-29T22:57:09+00:00",
+      "date": "2025-12-29 22:57:09",
+      "importance": 5,
+      "category": "kybernetika",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/mongobleed.png",
+      "url": "/tech-news/2025-12-29/us-and-australian-agencies-warn-mongobleed-vulnera/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "MongoDB"
+      ],
+      "people": []
+    },
     {
       "title": "Výrobci AI čipů, kteří by mohli v roce 2026 ukrást Nvidia část slávy",
       "description": "Nvidia oznámila akvizici designéra AI hardwaru a softwaru Groq za 20 miliard dolarů. Článek analyzuje potenciální konkurenty Nvidia v oblasti AI čipů pro rok 2026, včetně AMD a specializovaných hráčů.",
@@ -3705,46 +3900,6 @@
       "people": []
     },
     {
-      "title": "Trump ztrácí podporu republikánů v politice vůči Číně",
-      "description": "Republikáni se přidávají k rostoucímu počtu odchodů od Trumpovy politiky, kritizujíce jeho ústupky vůči Číně, zejména povolení prodeje pokročilého AI čipu Nvidia H200.",
-      "slug": "trump-loses-gop-support-on-china-policy",
-      "publishedAt": "2025-12-22T20:00:00+00:00",
-      "date": "2025-12-22 20:00:00",
-      "importance": 4,
-      "category": "čínská politika",
-      "urlToImage": "https://i0.wp.com/prospect.org/wp-content/uploads/2025/12/Kuttner-on-Tap-122225.jpg?fit=2309%2C1299&quality=89&ssl=1",
-      "url": "/tech-news/2025-12-22/trump-loses-gop-support-on-china-policy/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The American Prospect"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Šéfka startupu po špionážní kariéře: 'Nastane WannaCry umělé inteligence'",
-      "description": "Bývalá špiónka z izraelské elitní kybernetické jednotky Unit 8200, nyní šéfka firmy Zafran Security Sanaz Yashar, varuje, že AI dramaticky urychluje exploity zero-day zranitelností. Podle analýzy Mandiant byl v roce 2024 průměrný čas do exploitu záporný, což znamená útoky dříve než patchování.",
-      "slug": "spy-turned-startup-ceo-the-wannacry-of-ai-will-hap",
-      "publishedAt": "2025-12-22T19:39:58+00:00",
-      "date": "2025-12-22 19:39:58",
-      "importance": 5,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://regmedia.co.uk/2025/12/22/sanaz_yashar.jpg",
-      "url": "/tech-news/2025-12-22/spy-turned-startup-ceo-the-wannacry-of-ai-will-hap/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "companies": [
-        "Zafran Security"
-      ],
-      "people": [
-        "Sanaz Yashar"
-      ]
-    },
-    {
       "title": "Proč jaderná fúze nevyřeší problém s energií pro AI",
       "description": "S rostoucí potřebou obrovských množství elektřiny pro datová centra pohánějící boom umělé inteligence (AI) firmy v tomto sektoru prosazují jadernou fúzi jako jedno z řešení. Autor článku je však skeptický k této možnosti.",
       "slug": "why-nuclear-fusion-will-not-solve-the-ai-power-pro",
@@ -3760,90 +3915,6 @@
         "name": "OilPrice.com"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Videa ukazují autonomní vozy Waymo blokující silnice během výpadku proudu v San Franciscu",
-      "description": "Waymo obnovuje svou službu bezřidičových taxíků po rozsáhlém výpadku proudu v San Franciscu, který nechal jeho autonomní vozy uvízlé na ulicích v sobotní večer. Videa na sociálních sítích zachytily, jak vozy blokovaly křižovatky kvůli nefunkčním semaforům.",
-      "slug": "videos-show-waymo-self-driving-cars-blocking-roads",
-      "publishedAt": "2025-12-22T18:23:55+00:00",
-      "date": "2025-12-22 18:23:55",
-      "importance": 4,
-      "category": "autonomní vozy",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251222-waymo-sf-power-outage-bf-1057-56f56b.jpg",
-      "url": "/tech-news/2025-12-22/videos-show-waymo-self-driving-cars-blocking-roads/",
-      "source": {
-        "emoji": "📰",
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "companies": [
-        "Waymo"
-      ],
-      "people": []
-    },
-    {
-      "title": "Stav umělé inteligence v roce 2025: Jak si vedly Google, Apple, OpenAI a další",
-      "description": "Umělá inteligence v roce 2025 dále rostla, ale ne všemi očekávanými způsoby a ne každá společnost dosáhla stejného úspěchu. Zde je hodnocení výkonu klíčových firem.",
-      "slug": "the-state-of-ai-in-2025-how-google-apple-openai-an",
-      "publishedAt": "2025-12-22T15:47:00+00:00",
-      "date": "2025-12-22 15:47:00",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/WgvMUEtiWjgH7Rio2m2Kub-2560-80.jpg",
-      "url": "/tech-news/2025-12-22/the-state-of-ai-in-2025-how-google-apple-openai-an/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Central"
-      },
-      "companies": [
-        "Google",
-        "Apple",
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Nehody Tesly usmrtily 3 lidi během 4 dnů – vrchol roku 2025 s téměř 500 000 staženími z provozu a žalobami",
-      "description": "Dvě teenagery zemřely v britském Surrey, jeden mladistvý v Kalifornii, zatímco Tesla řeší stažení 500 000 vozidel a žalobu za nesprávnou smrt související s Autopilotem.",
-      "slug": "tesla-crashes-kill-3-in-4-dayscapping-2025-of-near",
-      "publishedAt": "2025-12-22T12:20:28+00:00",
-      "date": "2025-12-22 12:20:28",
-      "importance": 4,
-      "category": "elektromobilita",
-      "urlToImage": "https://d.ibtimes.com/en/full/4634105/nhtsa-now-targets-tesla-robotaxi.jpg",
-      "url": "/tech-news/2025-12-22/tesla-crashes-kill-3-in-4-dayscapping-2025-of-near/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "International Business Times"
-      },
-      "companies": [
-        "Tesla"
-      ],
-      "people": []
-    },
-    {
-      "title": "Uber a Lyft plánují zavést robotaxi v Londýně ve spolupráci s čínskou Baidu",
-      "description": "Uber a Lyft plánují zavést služby robotaxi v Londýně příští rok prostřednictvím partnerství s čínským technologickým gigantem Baidu. Testování začne v první polovině roku 2026 v rámci britského pilotního programu.",
-      "slug": "uber-and-lyft-plan-to-bring-robotaxis-to-london-in",
-      "publishedAt": "2025-12-22T12:11:04+00:00",
-      "date": "2025-12-22 12:11:04",
-      "importance": 4,
-      "category": "robotaxi",
-      "urlToImage": "https://i.abcnewsfe.com/a/0def79aa-605e-47e9-8e43-674fba953923/wirestory_dde2a816473684deb12bfebde14069f8_16x9.jpg?w=1600",
-      "url": "/tech-news/2025-12-22/uber-and-lyft-plan-to-bring-robotaxis-to-london-in/",
-      "source": {
-        "emoji": "📰",
-        "id": "abc-news",
-        "name": "ABC News"
-      },
-      "companies": [
-        "Uber",
-        "Lyft",
-        "Baidu"
-      ],
       "people": []
     },
     {
@@ -3882,45 +3953,6 @@
       "companies": [
         "Waymo"
       ],
-      "people": []
-    },
-    {
-      "title": "Nejlepší technologické předpovědi Zprávy o strategické inteligenci 2026: Dynamika trhu AI čipů se mění, Nvidia s podílem ~90 % čelí tlaku",
-      "description": "Klíčové tržní příležitosti pro rok 2026 zahrnují růst agentických AI řešení nabízejících hlubší hodnotu než současné nástroje GenAI, komerční dopad kvantového výpočtu ve financích a farmacii a zesílenou konkurenci v AI čipech, protože OpenAI diverzifikuje dodavatele a ohrožuje dominanci Nvidia.",
-      "slug": "top-technology-predictions-strategic-intelligence-",
-      "publishedAt": "2025-12-22T11:31:00+00:00",
-      "date": "2025-12-22 11:31:00",
-      "importance": 4,
-      "category": "ai čipy",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-      "url": "/tech-news/2025-12-22/top-technology-predictions-strategic-intelligence/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [
-        "Nvidia",
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Bitva USA-Čína: Některé firmy volí čínskou technologii",
-      "description": "Navzdory hořké rivalitě USA s Čínou v nasazování umělé inteligence se čínská technologie tiše prosazuje na americkém trhu. Čínské open-source AI modely přitahují americké programátory a firmy díky nízké ceně a možnosti úprav.",
-      "slug": "us-china-battle-sees-some-companies-choose-chinese",
-      "publishedAt": "2025-12-22T06:01:49+00:00",
-      "date": "2025-12-22 06:01:49",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/6948decbfd291e546bdb837d.jpg",
-      "url": "/tech-news/2025-12-22/us-china-battle-sees-some-companies-choose-chinese/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Hurriyet Daily News"
-      },
-      "companies": [],
       "people": []
     },
     {
@@ -3987,26 +4019,6 @@
       "people": []
     },
     {
-      "title": "Zpráva: Výrobce AI čipů Cerebras Systems oživuje plány na IPO, cílí na začátek 2026",
-      "description": "Společnost Cerebras Systems, specializující se na vývoj výkonných čipů pro trénink a inference umělé inteligence, podle zprávy Reuters připravuje podání dokumentů pro úvodní veřejnou nabídku akcií v USA ještě tento týden. Cílem je vstup na burzu v druhém čtvrtletí 2026, po odložení původních plánů kvůli bezpečnostním obavám spojeným s investorem G42.",
-      "slug": "report-ai-chipmaker-cerebras-systems-rekindles-ipo",
-      "publishedAt": "2025-12-22T01:12:59+00:00",
-      "date": "2025-12-22 01:12:59",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/cerebras.png",
-      "url": "/tech-news/2025-12-22/report-ai-chipmaker-cerebras-systems-rekindles-ipo/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Cerebras Systems"
-      ],
-      "people": []
-    },
-    {
       "title": "Waymo pozastavilo službu po výpadku proudu v San Franciscu",
       "description": "Waymo dočasně zastavilo svou službu autonomních taxíků v San Franciscu po rozsáhlém výpadku elektřiny, který způsobil uvíznutí několika autonomních vozů na ulicích. Mluvčí společnosti uvedl, že týmy spolupracují s městskými úřady na obnovení provozu.",
       "slug": "waymo-suspends-service-after-power-outage-hit-san-",
@@ -4023,26 +4035,6 @@
       },
       "companies": [
         "Waymo"
-      ],
-      "people": []
-    },
-    {
-      "title": "Temasek mezi investory v akvizici Clearwater Analytics za 10,9 miliardy dolarů",
-      "description": "Americká firma Clearwater Analytics vyvíjí software pro správu investičních portfolií na bázi cloudové platformy. Skupina investorů vedená Permirou a Warburg Pincus ji získává za 10,9 miliardy dolarů včetně dluhu.",
-      "slug": "temasek-among-investors-in-109-billion-purchase-of",
-      "publishedAt": "2025-12-22T00:15:44+00:00",
-      "date": "2025-12-22 00:15:44",
-      "importance": 5,
-      "category": "fintech",
-      "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/22eb5eb289c32e643d48663c385a8f21639bac89a8df1bee57a231ab2bfbeac0",
-      "url": "/tech-news/2025-12-22/temasek-among-investors-in-109-billion-purchase-of/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Straits Times"
-      },
-      "companies": [
-        "Clearwater Analytics"
       ],
       "people": []
     }
