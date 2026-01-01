@@ -1,24 +1,276 @@
 {
-  "generated": "2026-01-01T01:22:33.935257+00:00",
+  "generated": "2026-01-01T05:06:42.818107+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "TSMC zahájilo hromadnou výrobu 'nejpokročilejších' 2nm čipů",
-      "description": "Taiwanská společnost TSMC, největší světový výrobce čipů na zakázku, zahájila v posledním čtvrtletí roku 2025 hromadnou výrobu svých 2nm polovodičů. Tyto čipy s nanosheet tranzistorovou strukturou slibují vyšší hustotu a lepší energetickou účinnost, což je klíčové pro aplikace v AI a mobilních zařízeních.",
-      "slug": "tsmc-says-started-mass-production-of-most-advanced",
-      "publishedAt": "2025-12-31T00:36:48+00:00",
-      "date": "2025-12-31 00:36:48",
+      "title": "Akademický výzkum pro AI roboty se zaměří na kauzální uvažování a řetězec myšlenek",
+      "description": "Oblasti AI robotů prochází rychlým vývojem, jak naznačují předpovědi šéfů Nvidia a Tesla. Národní rada pro vědu a technologie (NSTC) zdůrazňuje klíčové technologie, přičemž akademický výzkum se soustředí na kauzální uvažování a řetězec myšlenek pro lepší rozhodování robotů.",
+      "slug": "academic-research-for-ai-robots-to-focus-on-causal",
+      "publishedAt": "2025-12-31T04:41:31+00:00",
+      "date": "2025-12-31 04:41:31",
       "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://media.zenfs.com/en/afp.com/3adf821820db76c0f2d0a6eaf3fa432f",
-      "url": "/tech-news/2025-12-31/tsmc-says-started-mass-production-of-most-advanced/",
+      "category": "robotika",
+      "urlToImage": "https://img.digitimes.com/newsshow/20251231pd231_files/2_2b.jpg",
+      "url": "/tech-news/2025-12-31/academic-research-for-ai-robots-to-focus-on-causal/",
       "source": {
         "emoji": "📰",
         "id": null,
-        "name": "Yahoo Entertainment"
+        "name": "Digitimes"
+      },
+      "companies": [
+        "Nvidia",
+        "Tesla"
+      ],
+      "people": [
+        "Jensen Huang",
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Obnovitelné zdroje překonaly uhlí jako největší zdroj elektřiny na světě v roce 2025",
+      "description": "V první polovině roku 2025 obnovitelné zdroje vyrobily 34,3 % globální elektřiny oproti 33,1 % uhlí, což je historický milník. Čína se prosadila jako lídr s instalací 256 GW solárních systémů během prvních šesti měsíců.",
+      "slug": "the-big-box-o-delights-what-went-right-in-2025",
+      "publishedAt": "2025-12-31T04:10:30+00:00",
+      "date": "2025-12-31 04:10:30",
+      "importance": 4,
+      "category": "energetika",
+      "urlToImage": "https://www.mutualfundobserver.com/wp-content/uploads/2025/12/box-of-delights-featured-image.jpg",
+      "url": "/tech-news/2025-12-31/the-big-box-o-delights-what-went-right-in-2025/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Mutualfundobserver.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Top 10 příběhů o dohledu, žurnalistice a šifrování za rok 2025",
+      "description": "Transatlantický spor mezi Velkou Británií a administrativou Trumpa vypukl poté, co Británie se pokusila donutit Apple prolomit své pokročilé šifrování. To byl jen jeden z řady příběhů hlásících o napětí mezi státním dohledem a soukromím v tomto roce.",
+      "slug": "top-10-surveillance-journalism-and-encryption-stor",
+      "publishedAt": "2025-12-31T04:00:00+00:00",
+      "date": "2025-12-31 04:00:00",
+      "importance": 4,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/Hero Images/GCHQ.jpg",
+      "url": "/tech-news/2025-12-31/top-10-surveillance-journalism-and-encryption-stor/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "ComputerWeekly.com"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Meta přebírá asijský AI startup Manus",
+      "description": "Meta kupuje singapurský startup Manus specializující se na univerzální AI agenty za více než 2 miliardy dolarů. Tento krok posiluje AI nabídku na platformách jako Facebook a Instagram, přičemž Manus bude integrován do Meta AI.",
+      "slug": "meta-snaps-up-asian-ai-startup",
+      "publishedAt": "2025-12-31T03:40:10+00:00",
+      "date": "2025-12-31 03:40:10",
+      "importance": 5,
+      "category": "ai startupy",
+      "urlToImage": "https://img1-azrcdn.newser.com/image/1655672-12-20251230214011.jpeg",
+      "url": "/tech-news/2025-12-31/meta-snaps-up-asian-ai-startup/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Newser"
+      },
+      "companies": [
+        "Meta",
+        "Manus"
+      ],
+      "people": []
+    },
+    {
+      "title": "Robotika: Další hranice decentralizované inteligence",
+      "description": "Hostující příspěvek a názor Markuse Levina, spoluzakladatele XYO. Globální výdaje na AI dosáhnou 1,5 bilionu dolarů do konce roku 2025 a robotika s nimi roste. Roboti se pohybují a chovají téměř lidsky, ale v reálném prostředí často selhávají kvůli nedůvěryhodným datům ze senzorů.",
+      "slug": "robotics-the-next-frontier-of-decentralized-intell",
+      "publishedAt": "2025-12-31T02:51:02+00:00",
+      "date": "2025-12-31 02:51:02",
+      "importance": 4,
+      "category": "robotika",
+      "urlToImage": "https://cryptoslate.com/wp-content/uploads/2025/12/depin-ai-robots.jpg",
+      "url": "/tech-news/2025-12-31/robotics-the-next-frontier-of-decentralized-intell/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CryptoSlate"
+      },
+      "companies": [
+        "XYO"
+      ],
+      "people": [
+        "Markus Levin"
+      ]
+    },
+    {
+      "title": "TSMC z Taiwanu zahájila hromadnou výrobu 2nm polovodičových čipů",
+      "description": "Taiwanská společnost TSMC oznámila zahájení objemové výroby 2nm čipů ve čtvrtém čtvrtletí 2025. Tyto čipy přinášejí vyšší hustotu tranzistorů a lepší energetickou účinnost pro výpočetní aplikace včetně AI.",
+      "slug": "taiwans-tsmc-says-it-has-started-mass-production-o",
+      "publishedAt": "2025-12-31T02:20:44+00:00",
+      "date": "2025-12-31 02:20:44",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/17768221615388f7dfa31e35ce9af92c318dd4b1e97cfd95df1ee4a419014da6",
+      "url": "/tech-news/2025-12-31/taiwans-tsmc-says-it-has-started-mass-production-o/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Straits Times"
       },
       "companies": [
         "TSMC"
+      ],
+      "people": []
+    },
+    {
+      "title": "TSMC zahájilo hromadnou výrobu 2nm čipů",
+      "description": "Taiwanská TSMC spustila hromadnou výrobu svých 2nanometrových čipů (N2 technologie), které přinášejí vyšší výkon a lepší energetickou účinnost. Výroba začala v 4. čtvrtletí 2025 podle plánu.",
+      "slug": "tsmc-says-started-mass-production-of-most-advanced",
+      "publishedAt": "2025-12-31T02:16:33+00:00",
+      "date": "2025-12-31 02:16:33",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-143408,resizemode-75,msid-126262323/tech/technology/tsmc-says-started-mass-production-of-most-advanced-2nm-chips.jpg",
+      "url": "/tech-news/2025-12-31/tsmc-says-started-mass-production-of-most-advanced/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "TSMC"
+      ],
+      "people": []
+    },
+    {
+      "title": "Elon Musk odhaluje plán rozšířit datové centrum xAI ‘Colossus’ na 2 gigawatts",
+      "description": "Společnost xAI Elona Muska rozšiřuje komplex datových center pro umělou inteligenci v Memphisu po koupi třetí budovy. Tato budova pojme tisíce nových serverů pro trénink AI modelů a celková výkonnost místa dosáhne téměř 2 gigawattů.",
+      "slug": "elon-musk-reveals-plan-to-expand-xais-colossus-dat",
+      "publishedAt": "2025-12-31T02:01:50+00:00",
+      "date": "2025-12-31 02:01:50",
+      "importance": 4,
+      "category": "datová centra",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/musk.jpg",
+      "url": "/tech-news/2025-12-31/elon-musk-reveals-plan-to-expand-xais-colossus-dat/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "xAI"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "TSMC zahájilo hromadnou výrobu nejpokročilejších 2nm čipů",
+      "description": "Taiwanská společnost TSMC zahájila hromadnou výrobu 2nanometrových polovodičových čipů, které představují nejpokročilejší technologii v oboru z hlediska hustoty a energetické účinnosti. Mezi klienty firmy patří Nvidia a Apple, výroba probíhá v závodech na Taiwanu.",
+      "slug": "tsmc-says-it-started-mass-production-of-most-advan",
+      "publishedAt": "2025-12-31T01:43:00+00:00",
+      "date": "2025-12-31 01:43:00",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--mphPaGJ4--/c_crop,h_576,w_1024,x_0,y_0/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2025/12/31/000_89br6gb.jpg?itok=Tex6eELz",
+      "url": "/tech-news/2025-12-31/tsmc-says-it-started-mass-production-of-most-advan/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNA"
+      },
+      "companies": [
+        "TSMC"
+      ],
+      "people": []
+    },
+    {
+      "title": "Ranní podcast: ET In The Valley: Arvind Jain, spoluzakladatel a generální ředitel Glean",
+      "description": "Arvind Jain nemohl najít data své vlastní firmy v systému Rubrik, proto v roce 2019 založil Glean, první podnikovou generativní AI společnost ještě před érou ChatGPT. Firma nyní zdvojnásobuje roční opakovaný příjem přes 100 milionů USD s 1100 zaměstnanci a sleduje, jak ji technologické giganty kopírují.",
+      "slug": "morning-brief-podcast-et-in-the-valley-arvind-jain",
+      "publishedAt": "2025-12-31T01:30:00+00:00",
+      "date": "2025-12-31 01:30:00",
+      "importance": 4,
+      "category": "generativní ai",
+      "urlToImage": "https://img.etimg.com/photo/126254505.cms",
+      "url": "/tech-news/2025-12-31/morning-brief-podcast-et-in-the-valley-arvind-jain/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Rubrik",
+        "Glean"
+      ],
+      "people": [
+        "Arvind Jain"
+      ]
+    },
+    {
+      "title": "Zpráva: Nvidia by mohla získat startup AI21 Labs specializující se na LLM za 3 miliardy dolarů",
+      "description": "Společnost Nvidia je podle izraelského deníku Calcalist v pokročilých jednáních o akvizici startupu AI21 Labs, který vyvíjí velké jazykové modely a nástroje pro vývoj agentů umělé inteligence. Hodnota dohody by mohla činit 2 až 3 miliardy dolarů, což je více než dvojnásobek poslední veřejně známé valuace firmy.",
+      "slug": "report-nvidia-could-acquire-llm-startup-ai21-labs-",
+      "publishedAt": "2025-12-31T01:22:11+00:00",
+      "date": "2025-12-31 01:22:11",
+      "importance": 5,
+      "category": "ai",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Nvidia-1-1.png",
+      "url": "/tech-news/2025-12-31/report-nvidia-could-acquire-llm-startup-ai21-labs/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Nvidia",
+        "AI21 Labs"
+      ],
+      "people": []
+    },
+    {
+      "title": "Insilico Medicine z Qiming Venture Partners úspěšně uvedena na burze v Hong Kongu",
+      "description": "Společnost Insilico Medicine, lídr v objevování léků poháněném AI a portfolio firma Qiming Venture Partners, dnes úspěšně vstoupila na burzu v Hong Kongu. Jedná se o největší IPO v oblasti biotechnologií na tomto trhu v roce 2025 s tržní kapitalizací přes 19 miliard HKD.",
+      "slug": "qiming-venture-partners-insilico-medicine-successf",
+      "publishedAt": "2025-12-31T01:14:00+00:00",
+      "date": "2025-12-31 01:14:00",
+      "importance": 4,
+      "category": "biotechnologie",
+      "urlToImage": null,
+      "url": "/tech-news/2025-12-31/qiming-venture-partners-insilico-medicine-successf/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "PR Newswire UK"
+      },
+      "companies": [
+        "Insilico Medicine",
+        "Qiming Venture Partners"
+      ],
+      "people": []
+    },
+    {
+      "title": "Čínská společnost Z.ai plánuje získat 560 milionů dolarů při IPO v Hong Kongu",
+      "description": "Jeden z největších čínských vývojářů velkých jazykových modelů Z.ai podal žádost o úvodní veřejnou nabídku na hongkongské burze. Akcie by měly být uvedeny 8. ledna pod tickerem „2513“ a společnost se prezentuje jako první veřejně obchodovaná firma zaměřená na základní modely umělé inteligence.",
+      "slug": "chinese-startup-zai-seeks-560-raise-in-hong-kong-i",
+      "publishedAt": "2025-12-31T01:07:27+00:00",
+      "date": "2025-12-31 01:07:27",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Screenshot-from-2025-12-31-08-06-50.png",
+      "url": "/tech-news/2025-12-31/chinese-startup-zai-seeks-560-raise-in-hong-kong-i/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Z.ai"
       ],
       "people": []
     },
@@ -3628,48 +3880,6 @@
       "people": []
     },
     {
-      "title": "Demokrates varují, že Trumpovo schválení prodeje AI čipů Nvidia by posílilo vojenskou převahu Číny",
-      "description": "Poslanci demokratů nesouhlasí s prodejem pokročilých čipů H200 od NVIDIA do Číny a označují rozhodnutí Trumpovy administrativy za hrozbu pro bezpečnost USA.",
-      "slug": "democrats-warn-trump-green-lighting-nvidia-ai-chip",
-      "publishedAt": "2025-12-24T18:14:00+00:00",
-      "date": "2025-12-24 18:14:00",
-      "importance": 4,
-      "category": "ai čipy",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/gregory-meeks-sits-in-committee.jpg",
-      "url": "/tech-news/2025-12-24/democrats-warn-trump-green-lighting-nvidia-ai-chip/",
-      "source": {
-        "emoji": "📰",
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "companies": [
-        "NVIDIA"
-      ],
-      "people": [
-        "Trump"
-      ]
-    },
-    {
-      "title": "Bývalý reportér Wall Street Journal, který odhalil podvod Theranosu, žaluje AI giganty kvůli údajnému pirátství knih",
-      "description": "John Carreyrou žaluje šest velkých AI společností v kalifornském federálním soudu, obviňuje je z nelegálního použití chráněných knih k trénování jejich systémů umělé inteligence. Jedná se o první žalobu, kde je mezi obviněnými xAI Elona Muska.",
-      "slug": "ex-wsj-reporter-who-exposed-theranos-fraud-sues-ai",
-      "publishedAt": "2025-12-24T17:35:43+00:00",
-      "date": "2025-12-24 17:35:43",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/12/newspress-collage-3kcvnori6-1766597637342.jpg?quality=75&strip=all&1766579689&w=1200",
-      "url": "/tech-news/2025-12-24/ex-wsj-reporter-who-exposed-theranos-fraud-sues-ai/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "New York Post"
-      },
-      "companies": [
-        "Theranos"
-      ],
-      "people": []
-    },
-    {
       "title": "Nový malware dokáže číst vaše chaty a ukrást vám peníze",
       "description": "Nový androidový bankovní trojan Sturnus krade přihlašovací údaje, čte šifrované zprávy a ovládá zařízení. Tento škodlivý software funguje tiše na pozadí a využívá slabiny v systému Android.",
       "slug": "new-malware-can-read-your-chats-and-steal-your-mon",
@@ -3685,27 +3895,6 @@
         "name": "Fox News"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Japonská Fujitsu a Nvidia vyvíjejí platformu s multi-agentní umělou inteligencí",
-      "description": "Nová technologie se aplikuje na fyzické AI aplikace pro pohon průmyslových robotů. Platforma integruje více AI agentů k automatizaci pracovních postupů.",
-      "slug": "japans-fujitsu-and-nvidia-develop-multi-agent-ai-p",
-      "publishedAt": "2025-12-24T15:43:42+00:00",
-      "date": "2025-12-24 15:43:42",
-      "importance": 4,
-      "category": "robotika",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F0%2F2%2F5%2F9%2F11869520-2-eng-GB%2F579f90c00115-photo_SXM2025122400011959.jpg?width=1260&fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=auto&height=630",
-      "url": "/tech-news/2025-12-24/japans-fujitsu-and-nvidia-develop-multi-agent-ai-p/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Nikkei.com"
-      },
-      "companies": [
-        "Fujitsu",
-        "Nvidia"
-      ],
       "people": []
     },
     {
@@ -3751,24 +3940,6 @@
       "people": []
     },
     {
-      "title": "Jak chytří chceme, aby byla umělá inteligence? World models možná chápou svět lépe než my",
-      "description": "Ustupte stranou velkým jazykovým modelům. Dalším velkým krokem pro umělou inteligenci je učení se, rekonstrukce a simulace dynamiky reálného světa.",
-      "slug": "how-smart-do-we-want-ai-to-be-world-models-may-und",
-      "publishedAt": "2025-12-24T12:05:56+00:00",
-      "date": "2025-12-24 12:05:56",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.cnet.com/a/img/resize/9fa5c8236587c9250d9214d37509c106378b44f1/hub/2025/12/18/d769a11b-931d-4caa-8bb7-bb5eef7c75b3/gettyimages-1278921544.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "url": "/tech-news/2025-12-24/how-smart-do-we-want-ai-to-be-world-models-may-und/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNET"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "ServiceNow utratí 7,75 miliardy dolarů za Armis v době kyberútoků na pracovníky po světě",
       "description": "ServiceNow oznámila akvizici kyberbezpečnostní společnosti Armis za 7,75 miliardy dolarů (5,74 miliardy liber), která má být dokončena v druhé polovině roku 2026 v podobě hotovostní transakce.",
       "slug": "servicenow-spends-775bn-on-armis-as-cyber-attacks-",
@@ -3786,90 +3957,6 @@
       "companies": [
         "ServiceNow",
         "Armis"
-      ],
-      "people": []
-    },
-    {
-      "title": "Jak generální ředitel Intelu Lip-Bu Tan okouzlil prezidenta USA Donalda Trumpa",
-      "description": "Generální ředitel Intelu Lip-Bu Tan se dostal pod ostrou kritiku od prezidenta Donalda Trumpa kvůli svým investicím do čínských firem, ale rychle situaci otočil ve prospěch společnosti. Uzavřel s vládou USA dohodu v hodnotě miliard dolarů, která přináší financování a téměř 10procentní podíl ve společnosti.",
-      "slug": "how-intels-dealmaker-ceo-charmed-us-president-dona",
-      "publishedAt": "2025-12-24T11:30:01+00:00",
-      "date": "2025-12-24 11:30:01",
-      "importance": 4,
-      "category": "hardware",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-86658,resizemode-75,msid-126159611/tech/technology/how-intels-dealmaker-ceo-charmed-us-president-donald-trump.jpg",
-      "url": "/tech-news/2025-12-24/how-intels-dealmaker-ceo-charmed-us-president-dona/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Intel"
-      ],
-      "people": [
-        "Lip-Bu Tan",
-        "Donald Trump"
-      ]
-    },
-    {
-      "title": "Jak dealmaker z Silicon Valley okouzlil Trumpa a dal Intelu záchranné lano",
-      "description": "CEO Intelu Lip-Bu Tan se setkal s prezidentem Trumpem a získal pro společnost miliardy dolarů investic od americké vlády za téměř 10% podíl. Tato dohoda posiluje strategickou pozici Intelu v polovodičovém průmyslu, přestože Tanovo vedení je zpochybňováno kvůli nedostatku technické expertízy.",
-      "slug": "how-a-silicon-valley-dealmaker-charmed-trump-and-g",
-      "publishedAt": "2025-12-24T11:05:38+00:00",
-      "date": "2025-12-24 11:05:38",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://img.etimg.com/thumb/msid-126159298,width-1200,height-630,imgsize-86658,overlay-economictimes/articleshow.jpg",
-      "url": "/tech-news/2025-12-24/how-a-silicon-valley-dealmaker-charmed-trump-and-g/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Intel"
-      ],
-      "people": [
-        "Lip-Bu Tan",
-        "Trump"
-      ]
-    },
-    {
-      "title": "Gemini Voice přináší rychlou multispeakerovou audio, bohaté styly a 32k kontextové okno",
-      "description": "Systém Gemini Text-to-Speech (TTS) od Google, poháněný modely Gemini 2.5, generuje živou řeč s podporou více mluvčích, emotivními tóny a 24 jazyky. Umožňuje tvorbu audioknih, podcastů nebo konverzačních AI s vysokou mírou přizpůsobitelnosti.",
-      "slug": "gemini-voice-brings-fast-multi-speaker-audio-rich-",
-      "publishedAt": "2025-12-24T07:00:46+00:00",
-      "date": "2025-12-24 07:00:46",
-      "importance": 4,
-      "category": "syntéza řeči",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/google-gemini-speech-flash-vs-pro_optimized.jpg",
-      "url": "/tech-news/2025-12-24/gemini-voice-brings-fast-multi-speaker-audio-rich/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Akcie Groww vzrostly o 9 %, celkově o 76 % od výdejové ceny. Co pohání tento růst?",
-      "description": "Akcie mateřské společnosti Groww vyskočily o 9,5 % na 175,60 Rs díky očekávanému zařazení do indexu BSE Large Cap a spuštění nouzové obchodní platformy Groww Lite. Od IPO za 100 Rs akcie vzrostly o 75,6 %.",
-      "slug": "groww-shares-soar-9-with-the-stock-up-76-from-issu",
-      "publishedAt": "2025-12-24T06:34:24+00:00",
-      "date": "2025-12-24 06:34:24",
-      "importance": 4,
-      "category": "fintech",
-      "urlToImage": "https://img.etimg.com/thumb/msid-126154669,width-1200,height-630,imgsize-68384,overlay-etmarkets/articleshow.jpg",
-      "url": "/tech-news/2025-12-24/groww-shares-soar-9-with-the-stock-up-76-from-issu/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Groww"
       ],
       "people": []
     },
@@ -3914,46 +4001,6 @@
       "people": []
     },
     {
-      "title": "Holandská flotila Tesel zbankrotovala po vsazení na Muskovy sliby o autonomním řízení",
-      "description": "Holandská leasingová a půjčovní firma Mistergreen čelí insolvenci poté, co postavila svůj byznys model na předpokladu, že vozy Tesla se stanou autonomními robotaxi generujícími příjmy. Kdysi propagátor elektromobility prodává nyní svou flotilu přes 4000 vozů jiným evropským firmám.",
-      "slug": "dutch-tesla-fleet-goes-bankrupt-after-betting-on-m",
-      "publishedAt": "2025-12-24T05:26:36+00:00",
-      "date": "2025-12-24 05:26:36",
-      "importance": 4,
-      "category": "elektromobilita",
-      "urlToImage": "https://guessingheadlights.com/wp-content/uploads/2025/09/shutterstock_716182159-scaled-e1760803515837.jpg",
-      "url": "/tech-news/2025-12-24/dutch-tesla-fleet-goes-bankrupt-after-betting-on-m/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Guessingheadlights.com"
-      },
-      "companies": [
-        "Tesla"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Globální investoři se obracejí k čínským AI akcím kvůli obavám z valuací na Wall Streetu",
-      "description": "Globální investoři přesouvají kapitál do čínských firem zaměřených na umělou inteligenci, protože vysoké valuace amerických technologických akcií vyvolávají obavy z bubliny. Silná podpora politiky, úspěšné burzovní debuty čipových výrobců a snaha Číny o technologickou soběstačnost zvyšují zájem na těchto trzích.",
-      "slug": "global-investors-turn-to-chinese-ai-stocks-amid-wa",
-      "publishedAt": "2025-12-24T05:14:30+00:00",
-      "date": "2025-12-24 05:14:30",
-      "importance": 4,
-      "category": "ai akcie",
-      "urlToImage": "https://img.etimg.com/thumb/msid-126153431,width-1200,height-630,imgsize-55742,overlay-etmarkets/articleshow.jpg",
-      "url": "/tech-news/2025-12-24/global-investors-turn-to-chinese-ai-stocks-amid-wa/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Top 10 příběhů umělé inteligence roku 2025",
       "description": "Žádná téma neovládla rok 2025 tak jako umělá inteligence – ať už šlo o DeepSeek, diskuse o výpočetních zdrojích, nízkou návratnost investic nebo hype okolo agentic AI. Zde jsou top 10 příběhů umělé inteligence podle Computer Weekly.",
       "slug": "top-10-ai-stories-of-2025",
@@ -3990,49 +4037,6 @@
       },
       "companies": [
         "ByteDance"
-      ],
-      "people": []
-    },
-    {
-      "title": "Firma Motive podporovaná Google podala veřejnou žádost o IPO",
-      "description": "Společnost Motive Technologies, kterou podporují investoři jako Google Ventures a Kleiner Perkins, podala veřejnou žádost o úvodní veřejnou nabídku akcií. Firma na software pro správu flotil s prvky umělé inteligence vykázala za devět měsíců rostoucí příjmy na 327,3 milionu dolarů při čisté ztrátě 138,5 milionu dolarů.",
-      "slug": "google-backed-fleet-tracking-firm-motive-files-pub",
-      "publishedAt": "2025-12-24T01:10:49+00:00",
-      "date": "2025-12-24 01:10:49",
-      "importance": 4,
-      "category": "správa flotily",
-      "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-06-13%2F9x9u7m14%2Fipo?rect=6%2C0%2C1194%2C627&w=1200&auto=format%2Ccompress&ogImage=true",
-      "url": "/tech-news/2025-12-24/google-backed-fleet-tracking-firm-motive-files-pub/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Ndtvprofit.com"
-      },
-      "companies": [
-        "Alphabet Inc",
-        "Google Ventures",
-        "Motive Technologies Inc"
-      ],
-      "people": []
-    },
-    {
-      "title": "Google chce přeměňovat youtubery na chatboty. Historicky to nevyšlo dobře.",
-      "description": "Google vyvíjí experimentální funkci Portraits pro YouTube, která umožňuje divákům konverzovat s AI verzemi vybraných tvůrců. Navzdory rizikům bubliny velkých jazykových modelů pokračuje v investicích do generativní umělé inteligence, přestože podobné projekty v minulosti selhaly.",
-      "slug": "google-wants-to-churn-youtubers-into-chatbots-hist",
-      "publishedAt": "2025-12-24T01:08:06+00:00",
-      "date": "2025-12-24 01:08:06",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.tubefilter.com/wp-content/uploads/2025/12/mohamed-nohassi-2iUrK025cec-unsplash.jpg",
-      "url": "/tech-news/2025-12-24/google-wants-to-churn-youtubers-into-chatbots-hist/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Tubefilter"
-      },
-      "companies": [
-        "Google",
-        "Forever Voices AI"
       ],
       "people": []
     },

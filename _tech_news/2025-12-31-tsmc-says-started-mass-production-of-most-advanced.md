@@ -3,50 +3,47 @@ author: Marisa Aigen
 category: polovodiče
 companies:
 - TSMC
-date: '2025-12-31 00:36:48'
-description: Taiwanská společnost TSMC, největší světový výrobce čipů na zakázku,
-  zahájila v posledním čtvrtletí roku 2025 hromadnou výrobu svých 2nm polovodičů.
-  Tyto čipy s nanosheet tranzistorovou strukturou slibují vyšší hustotu a lepší energetickou
-  účinnost, což je klíčové pro aplikace v AI a mobilních zařízeních.
+date: '2025-12-31 02:16:33'
+description: Taiwanská TSMC spustila hromadnou výrobu svých 2nanometrových čipů (N2
+  technologie), které přinášejí vyšší výkon a lepší energetickou účinnost. Výroba
+  začala v 4. čtvrtletí 2025 podle plánu.
 importance: 4
 layout: tech_news_article
 original_title: TSMC says started mass production of 'most advanced' 2nm chips
-publishedAt: '2025-12-31T00:36:48+00:00'
+publishedAt: '2025-12-31T02:16:33+00:00'
 slug: tsmc-says-started-mass-production-of-most-advanced
 source:
   emoji: 📰
-  id: null
-  name: Yahoo Entertainment
-title: TSMC zahájilo hromadnou výrobu 'nejpokročilejších' 2nm čipů
-url: https://finance.yahoo.com/news/tsmc-says-started-mass-production-003648419.html
-urlToImage: https://media.zenfs.com/en/afp.com/3adf821820db76c0f2d0a6eaf3fa432f
-urlToImageBackup: https://media.zenfs.com/en/afp.com/3adf821820db76c0f2d0a6eaf3fa432f
+  id: the-times-of-india
+  name: The Times of India
+title: TSMC zahájilo hromadnou výrobu 2nm čipů
+url: https://economictimes.indiatimes.com/tech/technology/tsmc-says-started-mass-production-of-most-advanced-2nm-chips/articleshow/126262323.cms
+urlToImage: https://img.etimg.com/thumb/width-1200,height-900,imgsize-143408,resizemode-75,msid-126262323/tech/technology/tsmc-says-started-mass-production-of-most-advanced-2nm-chips.jpg
+urlToImageBackup: https://img.etimg.com/thumb/width-1200,height-900,imgsize-143408,resizemode-75,msid-126262323/tech/technology/tsmc-says-started-mass-production-of-most-advanced-2nm-chips.jpg
 ---
 
 ## Souhrn
-Taiwanská firma TSMC, světový lídr v kontraktové výrobě polovodičů, oznámila zahájení hromadné výroby 2nm čipů (označení N2) v čtvrtém čtvrtletí roku 2025, jak plánovala. Tyto čipy se vyrábějí v závodech Fab 20 v Hsinchu a Fab 22 v Kaohsiungu a přinášejí vylepšení v hustotě tranzistorů i energetické účinnosti díky nanosheet tranzistorové struktuře. TSMC dodává čipy firmám jako Nvidia a Apple, které je využívají v zařízeních od smartphonů po AI servery.
+Taiwanská společnost TSMC, největší světový výrobce čipů na zakázku, zahájila hromadnou výrobu 2nm čipů označených jako N2 technologie. Tyto čipy dosahují vyšší hustoty transistorů a lepší energetické účinnosti než předchozí 3nm generace. Výroba byla spuštěna v 4. čtvrtletí 2025, jak firma oznámila na svém webu.
 
 ## Klíčové body
-- Hromadná výroba N2 čipů zahájena v 4Q25 v souladu s plánem.
-- Nanosheet tranzistorová struktura zvyšuje hustotu a snižuje spotřebu energie.
-- Výroba v tchajwanských závodech Fab 20 a Fab 22.
-- Klienti zahrnují Nvidia (GPU pro AI trénink) a Apple (procesory pro zařízení).
-- Více než polovina světových polovodičů, včetně těch pro AI, pochází z Tchaj-wanu.
+- Hromadná výroba N2 technologie probíhá od 4. čtvrtletí 2025.
+- Čipy nabízejí vyšší hustotu prvků a lepší poměr výkonu k spotřebě energie.
+- TSMC vyrábí více než polovinu světových čipů, včetně těch pro AI od firem jako Nvidia a Apple.
+- Technologie je určena pro aplikace od smartphonů po AI servery a vojenskou elektroniku.
+- Tchaj-wan produkuje téměř všechny nejpokročilejší čipy pro umělou inteligenci.
 
 ## Podrobnosti
-TSMC, která vyrábí čipy pro široké spektrum aplikací od mobilních telefonů po vojenskou techniku, dosáhla milníku s 2nm technologií N2. Tato generace navazuje na předchozí 3nm procesy a zavádí nanosheet tranzistory, což umožňuje vyšší počet tranzistorů na čtvereční milimetr oproti starším FinFET strukturám. Výsledkem je lepší výkon při nižší spotřebě energie, což je zásadní pro datacentra s AI modely, kde energetické nároky rostou exponenciálně.
+TSMC, založená v roce 1987 jako první čistě zakázková foundry pro polovodiče, dosáhla milníku zahájením masové produkce 2nm procesu. Tato technologie přechází na architekturu gate-all-around (GAA) tranzistorů, která nahrazuje finové tranzistory (FinFET) z 3nm uzlů. GAA struktura umožňuje vertikální obalování kanálu tranzistoru branou ze všech stran, což snižuje únik proudu a zvyšuje hustotu až o 15–20 procent oproti předchozí generaci. Výsledkem je vyšší výpočetní výkon při nižší spotřebě energie, což je kritické pro datová centra, kde energie tvoří významné náklady.
 
-Výroba probíhá v pokročilých závodech na Tchaj-wanu: Fab 20 v průmyslovém parku Hsinchu na severu a Fab 22 v Kaohsiungu na jihu. Tyto zařízení jsou navrženy pro masovou produkci nejpokročilejších uzlů. TSMC profituje z boomu v AI investicích – podle Gartneru dosáhne světové výdaje na AI v roce 2025 přibližně 1,5 bilionu dolarů a v 2026 přes 2 biliony, což představuje téměř 2 % globálního HDP. Nvidia, která objednává GPU pro trénink velkých jazykových modelů (LLM) jako ty od OpenAI, a Apple, využívající čipy v iPhonech a Macích, patří mezi hlavní zákazníky.
+Firma uvedla, že N2 čipy jsou první v průmyslu s takovou kombinací hustoty a účinnosti. Klienti jako Nvidia, která závisí na TSMC pro své GPU (jako H100 nebo nadcházející Blackwell série pro trénink velkých jazykových modelů LLM), a Apple pro A-sérii a M-sérii procesory, očekávají dodávky brzy. TSMC profituje z boomu umělé inteligence: investice do AI čipů, serverů a datových center od těchto firem dosahují desítek miliard dolarů ročně. Například Nvidia hlásí obrat přes 100 miliard dolarů díky poptávce po AI akcelerátorech.
 
-Tchaj-wan vyrábí přes 50 % světových polovodičů a téměř všechny nejpokročilejší pro AI. Tato dominance vytváří tzv. „křemíkový štít“ proti potenciálním hrozbám z Číny, která považuje Tchaj-wan za své území. USA proto mají strategický zájem na obraně ostrova, protože narušení dodávek by způsobilo globální krizi v tech průmyslu. TSMC plánuje další expanzi, ale geopolitické riziko zůstává vysoké – například při blokádě by došlo k akutnímu nedostatku čipů pro AI hardware.
+Geopolitický kontext hraje roli – Tchaj-wan vyrábí přes 90 procent pokročilých čipů pod 7 nm, což činí TSMC strategickým aktivem. Rizika zahrnují možné narušení dodávek kvůli napětí s Čínou, což vedlo k diversifikaci výroby do USA (Arizona) a Japonska. Přesto kapacity zůstávají limitované: i při zahájení masové výroby budou 2nm čipy nejdříve alokovány největším zákazníkům, s vysokými cenami za wafer kolem 20 000–30 000 dolarů. Další roadmap TSMC zahrnuje A16 (1,6 nm) v roce 2026 s ještě většími zlepšeními.
 
 ## Proč je to důležité
-Zahájení hromadné výroby 2nm čipů urychlí vývoj AI systémů tím, že umožní vyšší výpočetní hustotu v menších a úspornějších balíčcích. Pro průmysl to znamená rychlejší trénink LLM, efektivnější inference v edge zařízeních a snížení nákladů na chlazení datacenter. Nvidia může tak díky tomu škálovat své H100/H200 GPU následovníky, což posílí konkurenceschopnost OpenAI, Google DeepMind nebo Anthropic.
-
-Z uživatelského hlediska přinese to delší výdrž baterie v telefonech a počítačích s Apple Silicon a rychlejší AI funkce na zařízeních, jako je lokální zpracování obrazu v kamerách. Nicméně závislost na Tchaj-wanu zvyšuje rizika: jakýkoli konflikt by způsobil nedostatek podobný pandemické krizi 2021, což by zpomalilo pokrok v autonomních vozidlech Tesla FSD nebo robotice. Firmy jako Intel nebo Samsung zaostávají v 2nm, takže TSMC si udržuje monopol na špičkové uzly, což ovlivňuje celý ekosystém od cloud computingu po vojenské aplikace.
+Zahájení 2nm výroby umožní vývoj efektivnějších AI systémů, kde energetická účinnost určuje škálovatelnost. Pro trénink modelů jako GPT nebo Llama znamená rychlejší iterace a nižší náklady na výpočetní výkon, který dnes dosahuje stovek megawattů v hyperskale datech centrech. Pro inference na edge zařízeních (smartphony, autonomní vozy) přinese delší výdrž baterie a vyšší rychlost. V širším ekosystému posiluje dominanci TSMC a Tchaj-wanu, ale zvyšuje závislost na jednom regionu, což nutí firmy jako Intel nebo Samsung urychlit vlastní 2nm vývoj. Pro uživatele to znamená pokročilejší zařízení v roce 2026+, jako Apple M5 nebo Nvidia RTX 60 série, s reálnými zlepšeními v AI akceleraci.
 
 ---
 
-[Číst původní článek](https://finance.yahoo.com/news/tsmc-says-started-mass-production-003648419.html)
+[Číst původní článek](https://economictimes.indiatimes.com/tech/technology/tsmc-says-started-mass-production-of-most-advanced-2nm-chips/articleshow/126262323.cms)
 
-**Zdroj:** 📰 Yahoo Entertainment
+**Zdroj:** 📰 The Times of India
