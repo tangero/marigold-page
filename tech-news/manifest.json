@@ -1,7 +1,150 @@
 {
-  "generated": "2026-01-01T08:40:07.827949+00:00",
+  "generated": "2026-01-01T12:44:46.089013+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Jak byly údajně pašovány Nvidia čipy v hodnotě 160 milionů dolarů podléhající exportním kontrolám do Číny",
+      "description": "Pašerácká síť falšovala lodní dokumenty, aby nesprávně klasifikovala GPU a skrývala skutečné destinace včetně Číny a dalších zakázaných zemí. Federální žalobci v Texasu odhalili operaci s vazbami na Čínu, která se zaměřovala na export Nvidia H100 a H200 GPU.",
+      "slug": "how-160-million-worth-of-export-controlled-nvidia-",
+      "publishedAt": "2025-12-31T12:00:01+00:00",
+      "date": "2025-12-31 12:00:01",
+      "importance": 5,
+      "category": "pašování čipů",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108238869-1765273146995-gettyimages-2250207687-NVIDIA_Chip.jpeg?v=1767045304&w=1920&h=1080",
+      "url": "/tech-news/2025-12-31/how-160-million-worth-of-export-controlled-nvidia/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nvidia žádá TSMC o zvýšení výroby H200 AI čipů kvůli rostoucí poptávce z Číny: Zpráva",
+      "description": "Nvidia čelí masivní poptávce po H200 AI čipech od čínských technologických firem a oslovila výrobce TSMC, aby zvýšila produkci na objednávky přes dva miliony kusů pro rok 2026. Tento krok přichází za podmínky čekání na regulační schválení z Pekingu, přičemž cena čipů pro čínský trh činí kolem 27 000 dolarů za kus.",
+      "slug": "nvidia-sounds-out-tsmc-on-new-h200-chip-order-as-c",
+      "publishedAt": "2025-12-31T11:13:48+00:00",
+      "date": "2025-12-31 11:13:48",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-46914,resizemode-75,msid-126270938/tech/technology/nvidia-sounds-out-tsmc-on-new-h200-chip-order-as-china-demand-jumps-report.jpg",
+      "url": "/tech-news/2025-12-31/nvidia-sounds-out-tsmc-on-new-h200-chip-order-as-c/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Nvidia",
+        "TSMC"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nvidia rokuje o koupi izraelské AI21 Labs za až 3 miliardy dolarů – report",
+      "description": "Tato akvizice by byla čtvrtou velkou dohodou Nvidie v Izraeli a druhou největší po Mellanox.",
+      "slug": "nvidia-in-talks-to-buy-israels-ai21-labs-for-up-to",
+      "publishedAt": "2025-12-31T11:11:46+00:00",
+      "date": "2025-12-31 11:11:46",
+      "importance": 5,
+      "category": "ai",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/HWouXqIALI560Spp_DWD1w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/verdict_626/da95a43a8c3c543c73eb11424dc023f9",
+      "url": "/tech-news/2025-12-31/nvidia-in-talks-to-buy-israels-ai21-labs-for-up-to/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Verdict"
+      },
+      "companies": [
+        "Nvidia",
+        "AI21 Labs",
+        "Mellanox"
+      ],
+      "people": []
+    },
+    {
+      "title": "Série předpovědí TRADE 2026: Umělá inteligence – část druhá",
+      "description": "Stephan J. Aguirre, senior fixed income trader v Janus Henderson, představuje předpovědi pro rok 2026, kde umělá inteligence a kvantitativní systémy stanou klíčovými pro generování alfa v tradingu. Článek analyzuje dopady technologických změn na finanční trhy, včetně Neuralink a Nvidia.",
+      "slug": "the-trade-predictions-series-2026-artificial-intel",
+      "publishedAt": "2025-12-31T11:04:51+00:00",
+      "date": "2025-12-31 11:04:51",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://biztoc.com/cdn/955/og.png",
+      "url": "/tech-news/2025-12-31/the-trade-predictions-series-2026-artificial-intel/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Každý má teorii, proč Nvidia vyhodila 20 miliard na Groq – většina se mýlí",
+      "description": "Nvidia zaplatila 20 miliard dolarů za nelicenci na technologii startupu Groq, včetně jeho jazykových zpracovatelných jednotek (LPUs) a softwarových knihoven. Tato dohoda umožňuje Nvidia získat klíčový talent, zatímco Groq formálně zůstává nezávislý.",
+      "slug": "everybody-has-a-theory-about-why-nvidia-dropped-20",
+      "publishedAt": "2025-12-31T11:02:13+00:00",
+      "date": "2025-12-31 11:02:13",
+      "importance": 5,
+      "category": "ai čipy",
+      "urlToImage": "https://regmedia.co.uk/2024/08/05/groq_chip_render.jpg",
+      "url": "/tech-news/2025-12-31/everybody-has-a-theory-about-why-nvidia-dropped-20/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "companies": [
+        "Nvidia",
+        "Groq"
+      ],
+      "people": []
+    },
+    {
+      "title": "FT Člověk roku: Jensen Huang",
+      "description": "Financial Times označil Jensena Huanga za člověka roku díky roli, kterou sehrál v globální transformaci umělé inteligence. Článek popisuje jeho kariéru a klíčové momenty v čele Nvidia.",
+      "slug": "ft-person-of-the-year-jensen-huang",
+      "publishedAt": "2025-12-31T11:00:51+00:00",
+      "date": "2025-12-31 11:00:51",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/12/1213-mg-huang.jpg",
+      "url": "/tech-news/2025-12-31/ft-person-of-the-year-jensen-huang/",
+      "source": {
+        "emoji": "📰",
+        "id": "financial-post",
+        "name": "Financial Post"
+      },
+      "companies": [],
+      "people": [
+        "Jensen Huang"
+      ]
+    },
+    {
+      "title": "NVIDIA potřebuje ‚zázrak‘ v dodavatelském řetězci od TSMC kvůli čínským objednávkám H200 AI čipů, které přetěžují dodávky a způsobují úzké místo",
+      "description": "NVIDIA čelí obrovské poptávce po Hopper H200 AI čipech z Číny, která je dvakrát vyšší než současné zásoby. Firma naléhá na TSMC na nouzová opatření v dodavatelském řetězci, což ohrožuje globální dodávky AI čipů.",
+      "slug": "nvidia-needs-a-supply-chain-miracle-from-tsmc-as-c",
+      "publishedAt": "2025-12-31T10:42:37+00:00",
+      "date": "2025-12-31 10:42:37",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/12/Untitled-design-2.jpg",
+      "url": "/tech-news/2025-12-31/nvidia-needs-a-supply-chain-miracle-from-tsmc-as-c/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Wccftech"
+      },
+      "companies": [
+        "NVIDIA",
+        "TSMC"
+      ],
+      "people": []
+    },
     {
       "title": "Co je Manus, čínský AI startup, který Meta kupuje za více než 2 miliardy dolarů?",
       "description": "Meta kupuje Manus za více než 2 miliardy dolarů. Zde je, co dělá tento AI agent, kdo ho vytvořil a proč je tento obchod významný.",
@@ -3681,27 +3824,6 @@
       "people": []
     },
     {
-      "title": "Nvidia rozšiřuje AI impérium licencí od Groq a přetahuje top manažery startupu",
-      "description": "Startup Groq zdvojnásobil valuaci na 6,9 miliardy dolarů z 2,8 miliardy v srpnu minulého roku po kole financování 750 milionů dolarů v září.",
-      "slug": "nvidia-expands-ai-empire-with-groq-licensing-deal-",
-      "publishedAt": "2025-12-24T23:49:58+00:00",
-      "date": "2025-12-24 23:49:58",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/12/nvidia-jensen-huang-groq.jpg?quality=75&strip=all&1766600714&w=1200",
-      "url": "/tech-news/2025-12-24/nvidia-expands-ai-empire-with-groq-licensing-deal/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "New York Post"
-      },
-      "companies": [
-        "Nvidia",
-        "Groq"
-      ],
-      "people": []
-    },
-    {
       "title": "Waymo aktualizuje flotilu bezřidičových robotaxi, aby zabránila chaosu při budoucích výpadech proudu",
       "description": "Společnost Waymo LLC aktualizuje software své flotily robotaxi po velkém výpadku proudu v San Franciscu, který zastavil vozidla na křižovatkách po celém městě. Novinka umožní bezřidičovým autům rychleji rozpoznávat takové události a bezpečně se odtáhnout na okraj vozovky.",
       "slug": "waymo-updates-its-fleet-of-driverless-robotaxis-to",
@@ -3718,50 +3840,6 @@
       },
       "companies": [
         "Waymo"
-      ],
-      "people": []
-    },
-    {
-      "title": "Nvidia licencuje technologii od startupu na inference čipy Groq v údajním dealu za 20 miliard dolarů",
-      "description": "Společnost Groq Inc. oznámila, že Nvidia Corp. licencuje její technologii na neexkluzivním základě. Deal zahrnuje také najmutí několika klíčových zaměstnanců Groq, včetně zakládajícího generálního ředitele Jonathana Rosse a prezidenta Sunnyho Madry.",
-      "slug": "nvidia-to-license-technology-from-inference-chip-s",
-      "publishedAt": "2025-12-24T23:27:04+00:00",
-      "date": "2025-12-24 23:27:04",
-      "importance": 5,
-      "category": "ai čipy",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Groq.png",
-      "url": "/tech-news/2025-12-24/nvidia-to-license-technology-from-inference-chip-s/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Nvidia",
-        "Groq"
-      ],
-      "people": []
-    },
-    {
-      "title": "Nvidia licencuje technologii Groq a přebírá její vedení",
-      "description": "Nvidia uzavřela neexkluzivní licenční dohodu na inference technologii startupu Groq a najímá jeho zakladatele Jonathana Rossa i prezidenta Sunnyho Madru. Groq zůstane nezávislou společností pod novým ředitelem Simonem Edwardsem.",
-      "slug": "nvidia-to-license-groq-technology-hire-executives",
-      "publishedAt": "2025-12-24T21:06:34+00:00",
-      "date": "2025-12-24 21:06:34",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--XdfutspK--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-12-24T210634Z_1_LYNXMPELBN0LU_RTROPTP_3_ISRAEL-TECH-FUNDRAISING.JPG?itok=iatWLtbv",
-      "url": "/tech-news/2025-12-24/nvidia-to-license-groq-technology-hire-executives/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNA"
-      },
-      "companies": [
-        "Nvidia",
-        "Groq",
-        "Alphabet",
-        "Google"
       ],
       "people": []
     },
@@ -3844,27 +3922,6 @@
       "people": []
     },
     {
-      "title": "Samsung vyrábí senzory kamer pro iPhone 18 ve Spojených státech",
-      "description": "Apple navázal partnerství se Samsungem na výrobu pokročilých senzorů kamer pro iPhone 18 v Texasu, což mění dlouhodobé normy dodavatelského řetězce. Tento krok posiluje domácí produkci klíčových komponent v USA.",
-      "slug": "samsung-is-making-iphone-18-camera-sensors-in-us",
-      "publishedAt": "2025-12-24T19:11:28+00:00",
-      "date": "2025-12-24 19:11:28",
-      "importance": 4,
-      "category": "mobilní hardware",
-      "urlToImage": "https://cdn.iphoneincanada.ca/wp-content/uploads/2025/12/camera-controljpeg.jpg",
-      "url": "/tech-news/2025-12-24/samsung-is-making-iphone-18-camera-sensors-in-us/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "iPhone in Canada"
-      },
-      "companies": [
-        "Apple",
-        "Samsung"
-      ],
-      "people": []
-    },
-    {
       "title": "Akcie dosáhly dalších rekordů na zkrácený sváteční den",
       "description": "Wall Street uzavřela výše a dosáhla nových rekordů ve středu na zkrácený obchodní den před Vánoci. Index S&P 500 vzrostl o 22,26 bodu neboli 0,3 % na 6 932,05, Dow Jones Industrial Average přidal 288,75 bodu neboli 0,6 % na 48 731,16 a Nasdaq Composite o 51,46 bodu neboli 0,2 % na 23 613,31.",
       "slug": "stocks-hit-more-records-on-holiday-shortened-day",
@@ -3898,66 +3955,6 @@
         "name": "GlobeNewswire"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Nový malware dokáže číst vaše chaty a ukrást vám peníze",
-      "description": "Nový androidový bankovní trojan Sturnus krade přihlašovací údaje, čte šifrované zprávy a ovládá zařízení. Tento škodlivý software funguje tiše na pozadí a využívá slabiny v systému Android.",
-      "slug": "new-malware-can-read-your-chats-and-steal-your-mon",
-      "publishedAt": "2025-12-24T17:30:28+00:00",
-      "date": "2025-12-24 17:30:28",
-      "importance": 4,
-      "category": "kybernetika",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/12/woman-texts-on-phone.jpg",
-      "url": "/tech-news/2025-12-24/new-malware-can-read-your-chats-and-steal-your-mon/",
-      "source": {
-        "emoji": "📰",
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Šéf OpenAI Sam Altman předpovídá další velký průlom v AI",
-      "description": "Generální ředitel OpenAI Sam Altman tvrdí, že klíčem k superlidské umělé inteligenci bude dokonalá paměť systémů. Podle něj se současný vývoj zaměřuje spíše na schopnosti uvažování než na trvalou paměť.",
-      "slug": "openai-boss-sam-altman-predicts-next-big-ai-breakt",
-      "publishedAt": "2025-12-24T15:04:27+00:00",
-      "date": "2025-12-24 15:04:27",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://static.the-independent.com/2025/12/03/20/22/GettyImages-2218344194.jpg?width=1200&height=800&crop=1200:800",
-      "url": "/tech-news/2025-12-24/openai-boss-sam-altman-predicts-next-big-ai-breakt/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The-independent.com"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": [
-        "Sam Altman"
-      ]
-    },
-    {
-      "title": "NVIDIA Nitrogen: Open source AI pro hry bez specifického ladění na jednotlivé tituly",
-      "description": "NVIDIA představila Nitrogen, generalistického AI agenta, který zvládá různé videohry bez předchozího tréninku na nich. Tento systém využívá imitation learning na více než 40 000 hodinách anotovaného gameplayu a otevírá cestu k širší generalizaci v umělé inteligenci.",
-      "slug": "nvidia-nitrogen-ai-open-source-gaming-ai-without-g",
-      "publishedAt": "2025-12-24T15:00:46+00:00",
-      "date": "2025-12-24 15:00:46",
-      "importance": 5,
-      "category": "herní ai",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/universal-simulator-research-games_optimized.jpg",
-      "url": "/tech-news/2025-12-24/nvidia-nitrogen-ai-open-source-gaming-ai-without-g/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [
-        "NVIDIA"
-      ],
       "people": []
     },
     {
