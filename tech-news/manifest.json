@@ -1,7 +1,147 @@
 {
-  "generated": "2026-01-01T16:43:23.076152+00:00",
+  "generated": "2026-01-01T20:39:12.063289+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Rekapitulace: AI Mode a nevyhnutelnost další evoluce vyhledávače Google",
+      "description": "Autor Abner Li argumentuje, že tradiční vyhledávání Google s deseti modrými odkazy končí díky AI Mode. Generativní AI umožňuje přímé odpovědi na přirozené dotazy a posiluje misi společnosti o uspořádání světových informací.",
+      "slug": "recap-ai-mode-and-the-inevitability-of-google-sear",
+      "publishedAt": "2025-12-31T20:05:00+00:00",
+      "date": "2025-12-31 20:05:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/07/ai-mode-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2025-12-31/recap-ai-mode-and-the-inevitability-of-google-sear/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Si Ťin-pching chválí čínské úspěchy v umělé inteligenci a čipech v triumfálním novoročním projevu",
+      "description": "„Čína se stala jednou z nejrychleji rostoucích ekonomik světa z hlediska inovativní kapacity,“ prohlásil Si v televizním projevu ve středu.",
+      "slug": "xi-touts-chinas-ai-chip-wins-in-triumphant-new-yea",
+      "publishedAt": "2025-12-31T20:03:00+00:00",
+      "date": "2025-12-31 20:03:00",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2243883682-e1767211347134.jpg?resize=1200,600",
+      "url": "/tech-news/2025-12-31/xi-touts-chinas-ai-chip-wins-in-triumphant-new-yea/",
+      "source": {
+        "emoji": "📰",
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Nvidia žádá TSMC o více dodávků: Čínské firmy objednaly přes dva miliony H200",
+      "description": "Po uvolnění amerického embarga čínské technologické společnosti, včetně ByteDance, objednaly více než dva miliony kusů grafických akcelerátorů Nvidia H200. Nvidia proto kontaktovala výrobce TSMC s žádostí o navýšení produkce, přestože skladové zásoby čipů dosahují jen 700 tisíc kusů.",
+      "slug": "nvidia-dms-tsmc-please-sir-can-i-have-some-more-th",
+      "publishedAt": "2025-12-31T19:55:09+00:00",
+      "date": "2025-12-31 19:55:09",
+      "importance": 4,
+      "category": "hardware",
+      "urlToImage": "https://regmedia.co.uk/2023/08/25/nvidia_shutterstock.jpg",
+      "url": "/tech-news/2025-12-31/nvidia-dms-tsmc-please-sir-can-i-have-some-more-th/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "companies": [
+        "Nvidia",
+        "TSMC",
+        "ByteDance"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nvidia se obrací na tchajwanskou TSMC, aby uspokojila rostoucí čínskou poptávku po výkonných AI čipech",
+      "description": "Nvidia urychluje výrobu pokročilých H200 AI čipů, protože čínské technologické firmy objednaly přes 2 miliony kusů pro rok 2026, což převyšuje současné zásoby jen 700 tisíc kusů. Společnost oslovila tchajwanskou TSMC kvůli zvýšení produkce.",
+      "slug": "nvidia-turns-to-taiwans-tsmc-to-help-meet-surging-",
+      "publishedAt": "2025-12-31T19:08:32+00:00",
+      "date": "2025-12-31 19:08:32",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://media.breitbart.com/media/2025/12/Jensen-Huang-is-selling-Nvidia-chips-to-China-640x335.jpg",
+      "url": "/tech-news/2025-12-31/nvidia-turns-to-taiwans-tsmc-to-help-meet-surging/",
+      "source": {
+        "emoji": "📰",
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "companies": [
+        "Nvidia",
+        "TSMC"
+      ],
+      "people": []
+    },
+    {
+      "title": "Čína objednala miliony AI čipů od Nvidia",
+      "description": "Nvidia objednává dodatečné H200 AI čipy od TSMC kvůli obrovským objednávkám čínských technologických firem, přičemž poptávka překonává současné zásoby. Tato situace podtrhuje rostoucí globální hlad po výpočetním výkonu pro umělou inteligenci.",
+      "slug": "china-orders-millions-of-nvidia-ai-chips",
+      "publishedAt": "2025-12-31T18:48:09+00:00",
+      "date": "2025-12-31 18:48:09",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://cdn.iphoneincanada.ca/wp-content/uploads/2025/12/Nvidia.jpg",
+      "url": "/tech-news/2025-12-31/china-orders-millions-of-nvidia-ai-chips/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "iPhone in Canada"
+      },
+      "companies": [
+        "Nvidia",
+        "TSMC"
+      ],
+      "people": []
+    },
+    {
+      "title": "Vše, co Apple plánuje vydat v roce 2026: Skládací iPhone, Siri s LLM, levný MacBook a další",
+      "description": "Podle spekulací z MacRumors bude rok 2026 pro Apple bohatý na novinky včetně prvního skládacího iPhonu, verze Siri poháněné LLM a levného MacBooku. Očekávají se také nový domácí hub, aktualizované displeje a případně OLED MacBook Pro či AI chytré brýle.",
+      "slug": "everything-apple-is-releasing-in-2026-iphone-fold-",
+      "publishedAt": "2025-12-31T18:39:03+00:00",
+      "date": "2025-12-31 18:39:03",
+      "importance": 4,
+      "category": "hardware",
+      "urlToImage": "https://images.macrumors.com/t/53kqmWu4iOwYcrQNxKGfyO7t0mk=/2500x/article-new/2025/07/iPhone-17e-Feature-1.jpg",
+      "url": "/tech-news/2025-12-31/everything-apple-is-releasing-in-2026-iphone-fold/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "MacRumors"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Může jeden stát nás zachránit před katastrofou AI? Pozitivní pohled na novou kalifornskou legislativní regulaci",
+      "description": "Bez federálních pravidel státní zákonodárci v Kalifornii přebírají iniciativu a regulují bezpečnost AI sami.",
+      "slug": "can-one-state-save-us-from-ai-disaster-inside-cali",
+      "publishedAt": "2025-12-31T17:37:16+00:00",
+      "date": "2025-12-31 17:37:16",
+      "importance": 4,
+      "category": "regulace ai",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/f5b6b184d94bead8ea72118f655176013a89f896/2025/12/31/35fe502b-9f26-4b7a-9e25-8e2865d08638/gettyimages-186704207.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "url": "/tech-news/2025-12-31/can-one-state-save-us-from-ai-disaster-inside-cali/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "ZDNet"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Čínská firma na AI čipy Biren Technology získala 717 milionů dolarů v hongkongském IPO",
       "description": "Biren Technology získala HK$5,58 miliardy (716,85 milionů USD) v úvodní veřejné nabídce akcií v Hong Kongu. Cena akcie byla stanovena na HK$19,60 za kus, tedy na horní hranici marketingového rozsahu, a poptávka výrazně překročila nabídku.",
@@ -3904,120 +4044,6 @@
       "people": []
     },
     {
-      "title": "Nejlepší velké jazykové modely umělé inteligence roku 2025",
-      "description": "Zapomeňte na humbuk. Tyto LLM nás zaujaly v roce 2025 – od autonomních asistentů pro programování po vizuální modely zpracovávající celé kódbáze.",
-      "slug": "the-best-ai-large-learning-models-of-2025",
-      "publishedAt": "2025-12-24T21:01:02+00:00",
-      "date": "2025-12-24 21:01:02",
-      "importance": 4,
-      "category": "jazykové modely",
-      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/ai-decrypt-style-14-gID_7.png",
-      "url": "/tech-news/2025-12-24/the-best-ai-large-learning-models-of-2025/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Decrypt"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Nejlepší velké jazykové modely umělé inteligence roku 2025",
-      "description": "Zapomeňte na humbuk. Tyto modely velkých jazyků (LLM) nás v roce 2025 zaujaly – od autonomních asistentů pro programování po vizuální modely zpracovávající celé kódbáze.",
-      "slug": "the-best-ai-large-language-models-of-2025",
-      "publishedAt": "2025-12-24T21:01:02+00:00",
-      "date": "2025-12-24 21:01:02",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/ai-decrypt-style-14-gID_7.png",
-      "url": "/tech-news/2025-12-24/the-best-ai-large-language-models-of-2025/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Decrypt"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Snowflake údajně plánuje akvizici startupu Observe za 1 miliardu dolarů",
-      "description": "Společnost Snowflake Inc. údajně jedná o odkoupení Observe Inc., startupu s cloudovou platformou pro observabilitu. Podle zdrojů citovaných The Information by hodnota transakce mohla dosáhnout přibližně 1 miliardy dolarů, což by byl největší nákup startupu v historii Snowflake.",
-      "slug": "snowflake-reportedly-seeking-to-acquire-observabil",
-      "publishedAt": "2025-12-24T20:52:00+00:00",
-      "date": "2025-12-24 20:52:00",
-      "importance": 5,
-      "category": "startupy",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Snowflake.png",
-      "url": "/tech-news/2025-12-24/snowflake-reportedly-seeking-to-acquire-observabil/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Snowflake",
-        "Observe"
-      ],
-      "people": []
-    },
-    {
-      "title": "Snowflake v jednáních o akvizici Observe pro rozšíření nabídky AI",
-      "description": "Snowflake údajně jedná o akvizici společnosti Observe za přibližně 1 miliardu dolarů, aby rozšířil svou nabídku umělé inteligence. Tato akvizice by přidala nástroje pro monitorování aplikací, včetně těch založených na AI, do portfolia Snowflake.",
-      "slug": "snowflake-in-talks-to-acquire-observe-to-expand-ra",
-      "publishedAt": "2025-12-24T19:36:22+00:00",
-      "date": "2025-12-24 19:36:22",
-      "importance": 5,
-      "category": "ai",
-      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2025/12/Snowflake-Observe1.jpg",
-      "url": "/tech-news/2025-12-24/snowflake-in-talks-to-acquire-observe-to-expand-ra/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "pymnts.com"
-      },
-      "companies": [
-        "Snowflake",
-        "Observe"
-      ],
-      "people": []
-    },
-    {
-      "title": "Akcie dosáhly dalších rekordů na zkrácený sváteční den",
-      "description": "Wall Street uzavřela výše a dosáhla nových rekordů ve středu na zkrácený obchodní den před Vánoci. Index S&P 500 vzrostl o 22,26 bodu neboli 0,3 % na 6 932,05, Dow Jones Industrial Average přidal 288,75 bodu neboli 0,6 % na 48 731,16 a Nasdaq Composite o 51,46 bodu neboli 0,2 % na 23 613,31.",
-      "slug": "stocks-hit-more-records-on-holiday-shortened-day",
-      "publishedAt": "2025-12-24T18:31:53+00:00",
-      "date": "2025-12-24 18:31:53",
-      "importance": 5,
-      "category": "burza",
-      "urlToImage": "https://img1-azrcdn.newser.com/image/1654734-12-20251224123153.jpeg",
-      "url": "/tech-news/2025-12-24/stocks-hit-more-records-on-holiday-shortened-day/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Newser"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Tento nový 3D čip by mohl prolomit největší úzké místo AI",
-      "description": "Výzkumníci vytvořili nový typ 3D počítačového čipu, který vertikálně ukládá paměť a výpočetní prvky, což výrazně zrychluje přenos dat uvnitř čipu. Na rozdíl od tradičních plochých designů tento přístup eliminuje zácpy, které omezují současný hardware pro AI.",
-      "slug": "this-new-3d-chip-could-break-ais-biggest-bottlenec",
-      "publishedAt": "2025-12-24T06:21:36+00:00",
-      "date": "2025-12-24 06:21:36",
-      "importance": 4,
-      "category": "3d čipy",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/3d-chip-breakthrough-to-accelerate-ai.webp",
-      "url": "/tech-news/2025-12-24/this-new-3d-chip-could-break-ais-biggest-bottlenec/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Science Daily"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Top 10 příběhů umělé inteligence roku 2025",
       "description": "Žádná téma neovládla rok 2025 tak jako umělá inteligence – ať už šlo o DeepSeek, diskuse o výpočetních zdrojích, nízkou návratnost investic nebo hype okolo agentic AI. Zde jsou top 10 příběhů umělé inteligence podle Computer Weekly.",
       "slug": "top-10-ai-stories-of-2025",
@@ -4034,26 +4060,6 @@
       },
       "companies": [
         "DeepSeek"
-      ],
-      "people": []
-    },
-    {
-      "title": "Mateřská společnost TikToku ByteDance zvýší výdaje na AI infrastrukturu na 23 miliard dolarů příští rok",
-      "description": "Mateřská společnost TikToku ByteDance plánuje výrazně zvýšit výdaje na infrastrukturu umělé inteligence na přibližně 23,1 miliardy dolarů v fiskálním roce 2026, aby dohnala americké technologické giganty. Podle Financial Times více než polovina rozpočtu půjde na pokročilé polovodiče pro trénink AI modelů a jejich provoz.",
-      "slug": "tiktok-parent-bytedance-to-beef-up-ai-spending-to-",
-      "publishedAt": "2025-12-24T01:46:57+00:00",
-      "date": "2025-12-24 01:46:57",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Screenshot-from-2025-01-24-09-41-20-768x491.png",
-      "url": "/tech-news/2025-12-24/tiktok-parent-bytedance-to-beef-up-ai-spending-to/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "ByteDance"
       ],
       "people": []
     }
