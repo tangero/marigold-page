@@ -1,7 +1,28 @@
 {
-  "generated": "2026-01-01T05:06:42.818107+00:00",
+  "generated": "2026-01-01T08:40:07.827949+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Co je Manus, čínský AI startup, který Meta kupuje za více než 2 miliardy dolarů?",
+      "description": "Meta kupuje Manus za více než 2 miliardy dolarů. Zde je, co dělá tento AI agent, kdo ho vytvořil a proč je tento obchod významný.",
+      "slug": "what-is-manus-the-chinese-founded-ai-startup-meta-",
+      "publishedAt": "2025-12-31T07:01:01+00:00",
+      "date": "2025-12-31 07:01:01",
+      "importance": 5,
+      "category": "ai",
+      "urlToImage": "https://i.insider.com/6954a7ec04eda4732f2e4beb?width=1200&format=jpeg",
+      "url": "/tech-news/2025-12-31/what-is-manus-the-chinese-founded-ai-startup-meta/",
+      "source": {
+        "emoji": "📰",
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "companies": [
+        "Meta",
+        "Manus"
+      ],
+      "people": []
+    },
     {
       "title": "Akademický výzkum pro AI roboty se zaměří na kauzální uvažování a řetězec myšlenek",
       "description": "Oblasti AI robotů prochází rychlým vývojem, jak naznačují předpovědi šéfů Nvidia a Tesla. Národní rada pro vědu a technologie (NSTC) zdůrazňuje klíčové technologie, přičemž akademický výzkum se soustředí na kauzální uvažování a řetězec myšlenek pro lepší rozhodování robotů.",
@@ -3976,28 +3997,6 @@
         "name": "Science Daily"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Japonský Rapidus se chystá konkurovat TSMC a Samsungu v nadvládě nad čipy",
-      "description": "Rapidus, japonské úsilí o vytvoření domácí alternativy k výrobě čipů TSMC a Samsung Foundry, se stává široce podpořeným národním průmyslovým projektem. Projekt cílí na komerční výrobu čipů na 2nanometrovém nodu v roce 2027.",
-      "slug": "japans-rapidus-set-to-rival-tsmc-and-samsung-for-c",
-      "publishedAt": "2025-12-24T06:11:13+00:00",
-      "date": "2025-12-24 06:11:13",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://asiatimes.com/wp-content/uploads/2025/12/Rapidus-Japan-Chips-Chip-Making.jpg",
-      "url": "/tech-news/2025-12-24/japans-rapidus-set-to-rival-tsmc-and-samsung-for-c/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Asia Times"
-      },
-      "companies": [
-        "Rapidus",
-        "TSMC",
-        "Samsung"
-      ],
       "people": []
     },
     {
