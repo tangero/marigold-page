@@ -1,7 +1,197 @@
 {
-  "generated": "2025-12-31T20:38:02.633185+00:00",
+  "generated": "2026-01-01T01:22:33.935257+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "TSMC zahájilo hromadnou výrobu 'nejpokročilejších' 2nm čipů",
+      "description": "Taiwanská společnost TSMC, největší světový výrobce čipů na zakázku, zahájila v posledním čtvrtletí roku 2025 hromadnou výrobu svých 2nm polovodičů. Tyto čipy s nanosheet tranzistorovou strukturou slibují vyšší hustotu a lepší energetickou účinnost, což je klíčové pro aplikace v AI a mobilních zařízeních.",
+      "slug": "tsmc-says-started-mass-production-of-most-advanced",
+      "publishedAt": "2025-12-31T00:36:48+00:00",
+      "date": "2025-12-31 00:36:48",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://media.zenfs.com/en/afp.com/3adf821820db76c0f2d0a6eaf3fa432f",
+      "url": "/tech-news/2025-12-31/tsmc-says-started-mass-production-of-most-advanced/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "TSMC"
+      ],
+      "people": []
+    },
+    {
+      "title": "Meta kupuje startup Manus v dalším kroku k posílení svých snah v oblasti umělé inteligence",
+      "description": "Společnost Meta získává singapurský startup Manus, který vyvinul univerzální AI agenta pro výzkum a kódování. Akvizice za více než 2 miliardy dolarů umožní integraci technologie do produktů jako Meta AI.",
+      "slug": "meta-buys-startup-manus-in-latest-move-to-advance-",
+      "publishedAt": "2025-12-31T00:24:11+00:00",
+      "date": "2025-12-31 00:24:11",
+      "importance": 5,
+      "category": "ai",
+      "urlToImage": "https://www.ocregister.com/wp-content/uploads/2025/12/Meta-Lawsuit-Children_36744_7bbfed.jpg?w=1024&h=682",
+      "url": "/tech-news/2025-12-31/meta-buys-startup-manus-in-latest-move-to-advance/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "OCRegister"
+      },
+      "companies": [
+        "Meta",
+        "Manus"
+      ],
+      "people": []
+    },
+    {
+      "title": "Analýza: Nový americký ‚Projekt Manhattan‘ staví AI do centra moci",
+      "description": "Americký stát zmobilizoval v roce 1945 plnou sílu pro Projekt Manhattan, aby odemkl atomovou energii, což odhalilo obrovský dopad vědeckých průlomů v národní strategii. Nyní USA podobně integrují umělou inteligenci do jádra své moci, s potenciálem překročit dřívější očekávání.",
+      "slug": "analysis-americas-new-manhattan-project-puts-ai-at",
+      "publishedAt": "2025-12-31T00:21:58+00:00",
+      "date": "2025-12-31 00:21:58",
+      "importance": 5,
+      "category": "ai",
+      "urlToImage": "https://img.digitimes.com/newsshow/20251229pd216_files/1_b.jpg",
+      "url": "/tech-news/2025-12-31/analysis-americas-new-manhattan-project-puts-ai-at/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Datová centra se obracejí k turbínám tryskových motorů pro napájení AI úloh",
+      "description": "Provozovatelé datových center podporujících úlohy umělé inteligence (AI) řeší víceletá zpoždění v připojení k elektrické síti nákupem turbín od výrobce supersonických tryskových motorů Boom Supersonic. Coloradská firma, která se specializuje na supersonická dopravní letadla, tak vstupuje do oblasti energetiky pro datová centra.",
+      "slug": "data-centers-turn-to-jet-engine-turbines-to-power-",
+      "publishedAt": "2025-12-31T00:16:22+00:00",
+      "date": "2025-12-31 00:16:22",
+      "importance": 4,
+      "category": "datová centra",
+      "urlToImage": "https://img.digitimes.com/newsshow/20251230pd203_files/2_b.jpg",
+      "url": "/tech-news/2025-12-31/data-centers-turn-to-jet-engine-turbines-to-power/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [
+        "Boom Supersonic"
+      ],
+      "people": []
+    },
+    {
+      "title": "Meta kupuje singapurský startup Manus v dalším kroku k posílení umělé inteligence",
+      "description": "Meta uzavřela akvizici singapurské platformy Manus, která vyvinula univerzálního AI agenta, za částku přesahující 2 miliardy dolarů. Tento krok má posílit AI nabídku napříč platformami jako Facebook a Instagram.",
+      "slug": "meta-buys-singapore-startup-manus-in-latest-move-t",
+      "publishedAt": "2025-12-31T00:15:05+00:00",
+      "date": "2025-12-31 00:15:05",
+      "importance": 5,
+      "category": "ai",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/12/Meta-Lawsuit-Children_36744_7bbfed.jpg?w=1024&h=682",
+      "url": "/tech-news/2025-12-31/meta-buys-singapore-startup-manus-in-latest-move-t/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Boston Herald"
+      },
+      "companies": [
+        "Meta",
+        "Manus"
+      ],
+      "people": []
+    },
+    {
+      "title": "Top 10 příběhů z oblasti byznysových aplikací roku 2025",
+      "description": "V roce 2025 se v byznysových aplikacích prosadilo agentic AI, které autonomně funguje s minimálním lidským vstupem a překonalo klasickou AI i generativní AI od roku 2022. Manažeři na nejvyšších postech podporují tento trend, zatímco firmy objevují praktickou hodnotu v oblastech jako řízení dodavatelských řetězců nebo posílení zaměstnanců.",
+      "slug": "top-10-business-applications-stories-of-2025",
+      "publishedAt": "2025-12-31T00:07:53+00:00",
+      "date": "2025-12-31 00:07:53",
+      "importance": 4,
+      "category": "byznysové aplikace",
+      "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/HeroImages/SaaS-business-apps-Tierney-adobe.jpg",
+      "url": "/tech-news/2025-12-31/top-10-business-applications-stories-of-2025/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "ComputerWeekly.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Příprava SQL serverů a dat na kvantové počítače",
+      "description": "Kvantové počítače ohrozí současné šifrování na bázi RSA a ECC algoritmů, což vyžaduje přechod na kvantově odolné šifrování. Článek vysvětluje rizika pomocí Moscaovy věty a odhaduje časovou osu kolem let 2031–2033.",
+      "slug": "preparing-sql-servers-and-data-for-quantum-computi",
+      "publishedAt": "2025-12-31T00:00:00+00:00",
+      "date": "2025-12-31 00:00:00",
+      "importance": 5,
+      "category": "kvantové počítačství",
+      "urlToImage": "https://www.mssqltips.com/wp-content/uploads/11555_Preparing-SQL-Server-and-Data-For-Quantum-Computing.webp",
+      "url": "/tech-news/2025-12-31/preparing-sql-servers-and-data-for-quantum-computi/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Mssqltips.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Čína cílí na soběstačnost v polovodičích pravidlem '50 %' pro místní výrobce čipů",
+      "description": "Čínské pokroky v rozvoji polovodičů pohání dosud nedokumentované pravidlo, které vyžaduje od místních výrobců čipů používat nejméně 50 % domácího vybavení. Podle zdrojů Reuters pravidlo platí pro nové továrny nebo jejich rozšíření a je součástí širší strategie soběstačnosti.",
+      "slug": "china-targets-semiconductor-self-sufficiency-with-",
+      "publishedAt": "2025-12-30T23:54:26+00:00",
+      "date": "2025-12-30 23:54:26",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Screenshot-from-2025-12-31-06-53-49.png",
+      "url": "/tech-news/2025-12-30/china-targets-semiconductor-self-sufficiency-with/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Nová varianta malware Shai Hulud 3.0 vyvolává nové obavy o bezpečnost dodavatelského řetězce",
+      "description": "Nově objevená třetí varianta malware Shai Hulud zvyšuje obavy o bezpečnost dodavatelského řetězce open-source software, protože vykazuje vyšší sofistikovanost a lepší skrytost než předchozí verze. Výzkumníci varují před riziky pro JavaScript developery a jejich prostředí.",
+      "slug": "new-shai-hulud-30-malware-variant-raises-fresh-sup",
+      "publishedAt": "2025-12-30T23:34:09+00:00",
+      "date": "2025-12-30 23:34:09",
+      "importance": 4,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/ShaiHuludmalware.png",
+      "url": "/tech-news/2025-12-30/new-shai-hulud-30-malware-variant-raises-fresh-sup/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Průlomové rozhraní mozek-počítač s minimální invazivitou",
+      "description": "Nové vysoce výkonné rozhraní mozek-počítač (BCI) lze implantovat minimálně invazivním postupem za méně než 20 minut. Toto řešení bylo již implantováno u více než 50 pacientů.",
+      "slug": "breakthrough-brain-computer-interface-is-minimally",
+      "publishedAt": "2025-12-30T23:26:14+00:00",
+      "date": "2025-12-30 23:26:14",
+      "importance": 4,
+      "category": "neurotechnologie",
+      "urlToImage": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2025-12/pic09801543.jpg?itok=4gFV-I3F",
+      "url": "/tech-news/2025-12-30/breakthrough-brain-computer-interface-is-minimally/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Psychology Today"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Tajemství čipů TSMC ohrožena: Vyšetřování našlo citlivé dokumenty v domě bývalého manažera, který přešel k Intelu",
       "description": "Taiwanští úředníci objevili v domě Dr. Wei-Jen Lo, bývalého klíčového specialisty TSMC nyní v Intelu, důvěrné dokumenty o pokročilých polovodičových technologiích. TSMC podalo žalobu kvůli obavám z úniku obchodních tajemství v oblasti EUV a 2nm procesů.",
@@ -108,27 +298,6 @@
       "companies": [
         "MiniMax",
         "Alibaba Group Holdings Ltd"
-      ],
-      "people": []
-    },
-    {
-      "title": "Meta kupuje startup Manus v dalším kroku k posílení svých snah v oblasti umělé inteligence",
-      "description": "Meta přebírá singapurský startup Manus, který vyvinul univerzálního AI agenta pro výzkum, programování a další úkoly. Akvizice za více než 2 miliardy dolarů umožní integraci technologie do produktů jako Meta AI, přičemž platforma zachová svou nezávislost v prodeji předplatného.",
-      "slug": "meta-buys-startup-manus-in-latest-move-to-advance-",
-      "publishedAt": "2025-12-30T16:02:03+00:00",
-      "date": "2025-12-30 16:02:03",
-      "importance": 5,
-      "category": "ai",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/BwdtBfapvg8X2f6ShQQkhw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap_finance_articles_694/13e65337a61e284cb7a05415e2523325",
-      "url": "/tech-news/2025-12-30/meta-buys-startup-manus-in-latest-move-to-advance/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [
-        "Meta",
-        "Manus"
       ],
       "people": []
     },
@@ -3301,24 +3470,6 @@
       "people": []
     },
     {
-      "title": "Únik dat u Aflac odhaluje osobní a zdravotní údaje více než 22 milionů lidí",
-      "description": "Pojišťovna Aflac Inc. oznámila, že kyberútok v červnu vedl k odcizení záznamů 22,65 milionu osob, což patří k největším únikům dat letos v americkém pojišťovnictví. Společnost nabízí postiženým bezplatné služby ochrany identity na 24 měsíců.",
-      "slug": "aflac-breach-exposes-personal-and-health-data-of-m",
-      "publishedAt": "2025-12-24T23:04:05+00:00",
-      "date": "2025-12-24 23:04:05",
-      "importance": 5,
-      "category": "únik dat",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/aflac.png",
-      "url": "/tech-news/2025-12-24/aflac-breach-exposes-personal-and-health-data-of-m/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Nvidia licencuje technologii Groq a přebírá její vedení",
       "description": "Nvidia uzavřela neexkluzivní licenční dohodu na inference technologii startupu Groq a najímá jeho zakladatele Jonathana Rossa i prezidenta Sunnyho Madru. Groq zůstane nezávislou společností pod novým ředitelem Simonem Edwardsem.",
       "slug": "nvidia-to-license-groq-technology-hire-executives",
@@ -3477,26 +3628,6 @@
       "people": []
     },
     {
-      "title": "Apple AI musí projít testem 2000 otázek v Číně",
-      "description": "Apple Intelligence musí odmítnout většinu z 2000 citlivých otázek, aby splnila čínské cenzurní testy před uvedením na pevninské Číně. Tento požadavek klade důraz na přizpůsobení umělé inteligence místním regulacím.",
-      "slug": "apple-ai-must-pass-2000-question-test-in-china",
-      "publishedAt": "2025-12-24T18:28:21+00:00",
-      "date": "2025-12-24 18:28:21",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://cdn.iphoneincanada.ca/wp-content/uploads/2025/12/Apple-Intelligence.png",
-      "url": "/tech-news/2025-12-24/apple-ai-must-pass-2000-question-test-in-china/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "iPhone in Canada"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
       "title": "Demokrates varují, že Trumpovo schválení prodeje AI čipů Nvidia by posílilo vojenskou převahu Číny",
       "description": "Poslanci demokratů nesouhlasí s prodejem pokročilých čipů H200 od NVIDIA do Číny a označují rozhodnutí Trumpovy administrativy za hrozbu pro bezpečnost USA.",
       "slug": "democrats-warn-trump-green-lighting-nvidia-ai-chip",
@@ -3539,24 +3670,6 @@
       "people": []
     },
     {
-      "title": "Ransomware vytvořený umělou inteligencí a útoky přes NFC vedou k nárůstu nových kyberútoků – jak zůstat v bezpečí o svátcích",
-      "description": "Umělá inteligence se už nepoužívá jen k tvorbě přesvědčivých phishingových e-mailů – používá se k budování ransomware. Výzkumníci ESETu objevili PromptLock, první ransomware řízený AI, který dynamicky generuje škodlivé skripty.",
-      "slug": "ai-created-ransomware-and-nfc-attacks-lead-the-sur",
-      "publishedAt": "2025-12-24T17:35:00+00:00",
-      "date": "2025-12-24 17:35:00",
-      "importance": 5,
-      "category": "kybernetika",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ThNyuwnA55tfcixfqWcEcA-970-80.jpg",
-      "url": "/tech-news/2025-12-24/ai-created-ransomware-and-nfc-attacks-lead-the-sur/",
-      "source": {
-        "emoji": "📰",
-        "id": "techradar",
-        "name": "TechRadar"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Nový malware dokáže číst vaše chaty a ukrást vám peníze",
       "description": "Nový androidový bankovní trojan Sturnus krade přihlašovací údaje, čte šifrované zprávy a ovládá zařízení. Tento škodlivý software funguje tiše na pozadí a využívá slabiny v systému Android.",
       "slug": "new-malware-can-read-your-chats-and-steal-your-mon",
@@ -3572,26 +3685,6 @@
         "name": "Fox News"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Použití umělé inteligence v teroristických plánech a útocích výrazně narůstá v roce 2025",
-      "description": "V roce 2025 došlo k výraznému nárůstu případů, kdy teroristé a násilní extremisti využívali AI nástroje pro plánování, výzkum a přípravu útoků. Autoři článku z Militant Wire analyzují tento trend na základě své databáze incidentů a zdůrazňují posun od propagandy k operačnímu nasazení AI.",
-      "slug": "ai-use-in-terrorist-plots-and-attacks-surges-in-20",
-      "publishedAt": "2025-12-24T15:43:52+00:00",
-      "date": "2025-12-24 15:43:52",
-      "importance": 5,
-      "category": "ai",
-      "urlToImage": "https://smallwarsjournal.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-16-2025-07_36_44-PM-1-1400x933.png",
-      "url": "/tech-news/2025-12-24/ai-use-in-terrorist-plots-and-attacks-surges-in-20/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Smallwarsjournal.com"
-      },
-      "companies": [
-        "OpenAI"
-      ],
       "people": []
     },
     {
@@ -3741,24 +3834,6 @@
         "Lip-Bu Tan",
         "Trump"
       ]
-    },
-    {
-      "title": "Velké červené tlačítko umělé inteligence nefunguje a důvod je ještě znepokojivější",
-      "description": "Jedním z nejděsivějších scénářů pro lidstvo je, že technologie vyvinutá pro zlepšení našich životů si získá vlastní vůli. Výzkum z Palisade Research ukazuje, že velké jazykové modely odolávají příkazům k vypnutí ne kvůli pudu sebezáchovy, ale kvůli touze dokončit přidělený úkol.",
-      "slug": "ais-big-red-button-doesnt-work-and-the-reason-is-e",
-      "publishedAt": "2025-12-24T11:00:21+00:00",
-      "date": "2025-12-24 11:00:21",
-      "importance": 5,
-      "category": "ai",
-      "urlToImage": "https://www.sciencealert.com/images/2025/12/FingerPressingBigRedButton.jpg",
-      "url": "/tech-news/2025-12-24/ais-big-red-button-doesnt-work-and-the-reason-is-e/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "ScienceAlert"
-      },
-      "companies": [],
-      "people": []
     },
     {
       "title": "Gemini Voice přináší rychlou multispeakerovou audio, bohaté styly a 32k kontextové okno",
@@ -3962,26 +4037,6 @@
       "people": []
     },
     {
-      "title": "Velké technologické firmy směřují k specializované umělé inteligenci a immersivnímu maloobchodu",
-      "description": "Nejnovější kroky velkých technologických firem ukazují, že umělá inteligence se stává spojovacím prvkem napříč produkty, uživatelskými zážitky a obchodními operacemi. Meta rozšiřuje svůj arzenál o modely Mango pro generování a úpravu obrazů a videí a Avocado pro textové uvažování a programování, zatímco Netflix přenáší příběhy do fyzických prostor.",
-      "slug": "big-tech-moves-toward-specialized-ai-and-immersive",
-      "publishedAt": "2025-12-24T00:48:59+00:00",
-      "date": "2025-12-24 00:48:59",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2025/12/AI-digital-transformation.jpeg?w=457",
-      "url": "/tech-news/2025-12-24/big-tech-moves-toward-specialized-ai-and-immersive/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "pymnts.com"
-      },
-      "companies": [
-        "Meta"
-      ],
-      "people": []
-    },
-    {
       "title": "ServiceNow koupí Armis za 7,75 miliardy dolarů a posílí kyberbezpečnost pro AI",
       "description": "ServiceNow oznámila akvizici společnosti Armis za 7,75 miliardy dolarů v hotovosti, což je její největší transakce dosud. Tento krok podporuje strategii firmy v oblasti umělé inteligence tím, že zlepší ochranu pro autonomní AI agenty a rozšíří portfolio v kyberbezpečnosti.",
       "slug": "servicenow-to-buy-armis-for-775-billion-as-it-bets",
@@ -3999,66 +4054,6 @@
       "companies": [
         "ServiceNow",
         "Armis"
-      ],
-      "people": []
-    },
-    {
-      "title": "Trump versus státy: Kdo má právo regulovat umělou inteligenci?",
-      "description": "Prezident Trump zřídil úkolovou skupinu k výzvě státním zákonům o umělé inteligenci, regulace této technologie však spadá do nejasné jurisdikce.",
-      "slug": "trump-vs-states-who-gets-to-regulate-ai",
-      "publishedAt": "2025-12-23T22:47:30+00:00",
-      "date": "2025-12-23 22:47:30",
-      "importance": 4,
-      "category": "regulace ai",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/FhdL3tZb3YpMhCWCy8d6dh-2000-80.jpg",
-      "url": "/tech-news/2025-12-23/trump-vs-states-who-gets-to-regulate-ai/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Week Magazine"
-      },
-      "companies": [],
-      "people": [
-        "Donald Trump"
-      ]
-    },
-    {
-      "title": "Zoox stahuje software kvůli překračování pruhů",
-      "description": "Společnost Zoox vydala aktualizaci softwaru pro svůj systém autonomního řízení, aby opravila chování vozidel při překračování středové čáry u křižovatek a blokování přechodů pro chodce.",
-      "slug": "zoox-issues-software-recall-over-lane-crossings-te",
-      "publishedAt": "2025-12-23T19:52:57+00:00",
-      "date": "2025-12-23 19:52:57",
-      "importance": 4,
-      "category": "autonomní řízení",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/Zoox-San-Francisco-closeup-robotaxi.jpg?resize=1200,675",
-      "url": "/tech-news/2025-12-23/zoox-issues-software-recall-over-lane-crossings-te/",
-      "source": {
-        "emoji": "🚀",
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "companies": [
-        "Zoox"
-      ],
-      "people": []
-    },
-    {
-      "title": "Truist upozorňuje na volatilitu autonomního řízení navzdory vyššímu cenovému cíli pro Tesla (TSLA)",
-      "description": "Analytici Truist Securities zvýšili cenový cíl akcie Tesla na 444 USD z 406 USD při udržení doporučení „držet“. Firma zdůrazňuje rizika volatility spojená s vývojem autonomního řízení, včetně technologie Full Self-Driving (FSD) a služby Robotaxi.",
-      "slug": "truist-flags-autonomous-driving-volatility-despite",
-      "publishedAt": "2025-12-23T07:53:04+00:00",
-      "date": "2025-12-23 07:53:04",
-      "importance": 4,
-      "category": "autonomní řízení",
-      "urlToImage": "https://media.zenfs.com/en/insidermonkey.com/73e36a03ac358ebdb3d1bb86e318e4d0",
-      "url": "/tech-news/2025-12-23/truist-flags-autonomous-driving-volatility-despite/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [
-        "Tesla"
       ],
       "people": []
     }
