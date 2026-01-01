@@ -1,7 +1,67 @@
 {
-  "generated": "2026-01-01T12:44:46.089013+00:00",
+  "generated": "2026-01-01T16:43:23.076152+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Čínská firma na AI čipy Biren Technology získala 717 milionů dolarů v hongkongském IPO",
+      "description": "Biren Technology získala HK$5,58 miliardy (716,85 milionů USD) v úvodní veřejné nabídce akcií v Hong Kongu. Cena akcie byla stanovena na HK$19,60 za kus, tedy na horní hranici marketingového rozsahu, a poptávka výrazně překročila nabídku.",
+      "slug": "china-ai-chip-firm-biren-raises-717-million-in-hon",
+      "publishedAt": "2025-12-31T16:19:43+00:00",
+      "date": "2025-12-31 16:19:43",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-850852,resizemode-75,msid-126275324/tech/funding/china-ai-chip-firm-biren-raises-717-million-in-hong-kong-ipo.jpg",
+      "url": "/tech-news/2025-12-31/china-ai-chip-firm-biren-raises-717-million-in-hon/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Biren Technology"
+      ],
+      "people": []
+    },
+    {
+      "title": "Každý startup v jaderné fúzi, který získal více než 100 milionů dolarů | TechCrunch",
+      "description": "Startupy v oblasti jaderné fúze získaly dosud 7,1 miliardy dolarů, přičemž většina prostředků šla do rukou jen několika firem.",
+      "slug": "every-fusion-startup-that-has-raised-over-100m-tec",
+      "publishedAt": "2025-12-31T15:07:35+00:00",
+      "date": "2025-12-31 15:07:35",
+      "importance": 5,
+      "category": "jaderná fúze",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1455925032.jpg?resize=1200,675",
+      "url": "/tech-news/2025-12-31/every-fusion-startup-that-has-raised-over-100m-tec/",
+      "source": {
+        "emoji": "🚀",
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "companies": [
+        "TechCrunch"
+      ],
+      "people": []
+    },
+    {
+      "title": "Čínský výrobce pamětí CXMT připravuje IPO za 4,2 miliardy USD, aby využil napjatý trh s pamětmi – firma načrtá cestu k ziskovosti při růstu poptávky po DRAM",
+      "description": "Čínská společnost ChangXin Memory Technologies (CXMT), největší domácí výrobce pamětí v Číně, se připravuje na IPO v Pekingu s cílem získat 4,2 miliardy USD. Peníze má použít na rozšíření výroby a vývoj nové generace DRAM v době globálního nedostatku pamětí.",
+      "slug": "chinese-memory-maker-cxmt-prepares-42-billion-usd-",
+      "publishedAt": "2025-12-31T14:31:15+00:00",
+      "date": "2025-12-31 14:31:15",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/qWVur4sDMJow8rQDDH6JJi-2240-80.jpg",
+      "url": "/tech-news/2025-12-31/chinese-memory-maker-cxmt-prepares-42-billion-usd/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "companies": [
+        "CXMT"
+      ],
+      "people": []
+    },
     {
       "title": "Jak byly údajně pašovány Nvidia čipy v hodnotě 160 milionů dolarů podléhající exportním kontrolám do Číny",
       "description": "Pašerácká síť falšovala lodní dokumenty, aby nesprávně klasifikovala GPU a skrývala skutečné destinace včetně Číny a dalších zakázaných zemí. Federální žalobci v Texasu odhalili operaci s vazbami na Čínu, která se zaměřovala na export Nvidia H100 a H200 GPU.",
@@ -3940,45 +4000,6 @@
       "people": []
     },
     {
-      "title": "Silicon Valley Acquisition Corp. oznámila uzavření počáteční veřejné nabídky za 200 milionů dolarů",
-      "description": "Silicon Valley Acquisition Corp. uzavřela IPO 20 milionů units po 10 USD za kus, což přineslo 200 milionů USD hrubých výnosů. Společnost, zaměřená na akvizice v tech sektorech včetně AI a fintechu, začala obchodovat na Nasdaq pod symbolem SVAQU.",
-      "slug": "silicon-valley-acquisition-corp-announces-closing-",
-      "publishedAt": "2025-12-24T18:30:00+00:00",
-      "date": "2025-12-24 18:30:00",
-      "importance": 4,
-      "category": "burzovní uvedení",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/000b4934-7dbb-4661-9431-df01327f2fe7",
-      "url": "/tech-news/2025-12-24/silicon-valley-acquisition-corp-announces-closing/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "ServiceNow utratí 7,75 miliardy dolarů za Armis v době kyberútoků na pracovníky po světě",
-      "description": "ServiceNow oznámila akvizici kyberbezpečnostní společnosti Armis za 7,75 miliardy dolarů (5,74 miliardy liber), která má být dokončena v druhé polovině roku 2026 v podobě hotovostní transakce.",
-      "slug": "servicenow-spends-775bn-on-armis-as-cyber-attacks-",
-      "publishedAt": "2025-12-24T11:33:21+00:00",
-      "date": "2025-12-24 11:33:21",
-      "importance": 5,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://d.ibtimes.com/en/full/4638531/servicenow.jpg",
-      "url": "/tech-news/2025-12-24/servicenow-spends-775bn-on-armis-as-cyber-attacks/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "International Business Times"
-      },
-      "companies": [
-        "ServiceNow",
-        "Armis"
-      ],
-      "people": []
-    },
-    {
       "title": "Tento nový 3D čip by mohl prolomit největší úzké místo AI",
       "description": "Výzkumníci vytvořili nový typ 3D počítačového čipu, který vertikálně ukládá paměť a výpočetní prvky, což výrazně zrychluje přenos dat uvnitř čipu. Na rozdíl od tradičních plochých designů tento přístup eliminuje zácpy, které omezují současný hardware pro AI.",
       "slug": "this-new-3d-chip-could-break-ais-biggest-bottlenec",
@@ -4033,27 +4054,6 @@
       },
       "companies": [
         "ByteDance"
-      ],
-      "people": []
-    },
-    {
-      "title": "ServiceNow koupí Armis za 7,75 miliardy dolarů a posílí kyberbezpečnost pro AI",
-      "description": "ServiceNow oznámila akvizici společnosti Armis za 7,75 miliardy dolarů v hotovosti, což je její největší transakce dosud. Tento krok podporuje strategii firmy v oblasti umělé inteligence tím, že zlepší ochranu pro autonomní AI agenty a rozšíří portfolio v kyberbezpečnosti.",
-      "slug": "servicenow-to-buy-armis-for-775-billion-as-it-bets",
-      "publishedAt": "2025-12-24T00:10:00+00:00",
-      "date": "2025-12-24 00:10:00",
-      "importance": 5,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://a.fsdn.com/sd/topics/business_64.png",
-      "url": "/tech-news/2025-12-24/servicenow-to-buy-armis-for-775-billion-as-it-bets/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "companies": [
-        "ServiceNow",
-        "Armis"
       ],
       "people": []
     }
