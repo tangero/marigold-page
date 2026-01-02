@@ -1,7 +1,83 @@
 {
-  "generated": "2026-01-02T12:47:56.626529+00:00",
+  "generated": "2026-01-02T16:35:44.031015+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Největší příběhy v kyberbezpečnosti a kyberútocích roku 2025",
+      "description": "Rok 2025 byl významným rokem pro kyberbezpečnost, s velkými kyberútoky, úniky dat, hrozícími skupinami dosahujícími nové notoricity a exploitací zero-day zranitelností v incidentech. Některé příběhy měly větší dopad nebo popularitu mezi čtenáři než jiné.",
+      "slug": "the-biggest-cybersecurity-and-cyberattack-stories-",
+      "publishedAt": "2026-01-01T16:15:26+00:00",
+      "date": "2026-01-01 16:15:26",
+      "importance": 5,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2025/12/30/2025.jpg",
+      "url": "/tech-news/2026-01-01/the-biggest-cybersecurity-and-cyberattack-stories/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Horší než (většina) lidí: Bezřidičové taxi Waymo narušilo zásah hasičů na místě aktivního požáru",
+      "description": "Autonomní taxi Waymo se spletlo v zatáčce a najelo přímo do uzavřené zóny aktivního požáru v Los Angeles v Kalifornii. Vozidlo zůstalo v uzavřené oblasti asi deset minut, než provedlo otočku a odjelo.",
+      "slug": "worse-than-most-humans-driverless-waymo-taxi-disru",
+      "publishedAt": "2026-01-01T16:08:03+00:00",
+      "date": "2026-01-01 16:08:03",
+      "importance": 4,
+      "category": "autonomní vozidla",
+      "urlToImage": "https://media.breitbart.com/media/2025/12/Driverless-Waymo-car-causing-traffic-havoc-640x335.jpg",
+      "url": "/tech-news/2026-01-01/worse-than-most-humans-driverless-waymo-taxi-disru/",
+      "source": {
+        "emoji": "📰",
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "companies": [
+        "Waymo"
+      ],
+      "people": []
+    },
+    {
+      "title": "CEO AI startupu Lovable vidí AGI jako softwareový systém; plánuje nábor zakladatelů pro rok 2026",
+      "description": "Zakladatel a CEO švédského AI startupu Lovable Anton Osika prohlásil, že umělá obecné inteligence (AGI) lze dosáhnout týmovou prací a algoritmy, nikoli pouze jedním velkým jazykovým modelem. Oznámil ambiciózní nábor současných a bývalých zakladatelů startupů do týmu ve Stockholmu a cíl stát se jedním z mála subjektů schopných AGI vybudovat do roku 2025.",
+      "slug": "ai-coding-startup-lovable-ceo-envisions-agi-as-sof",
+      "publishedAt": "2026-01-01T15:15:41+00:00",
+      "date": "2026-01-01 15:15:41",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-99250,resizemode-75,msid-126289898/tech/artificial-intelligence/ai-coding-startup-lovable-ceo-envisions-agi-as-software-system-eyes-founder-led-hiring-push-for-2026.jpg",
+      "url": "/tech-news/2026-01-01/ai-coding-startup-lovable-ceo-envisions-agi-as-sof/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Lovable"
+      ],
+      "people": []
+    },
+    {
+      "title": "Čtyři trendy v AI výzkumu, na které by podnikové týmy měly v roce 2026 dávat pozor",
+      "description": "Roadmap AI výzkumu pro rok 2026 ukazuje, jak agenti schopní učení, samoopravy a simulace reálného světa změní automatizaci v podnicích.",
+      "slug": "four-ai-research-trends-enterprise-teams-should-wa",
+      "publishedAt": "2026-01-01T14:00:41+00:00",
+      "date": "2026-01-01 14:00:41",
+      "importance": 5,
+      "category": "umělá inteligence",
+      "urlToImage": "https://images.ctfassets.net/jdtwqhzvc2n1/388FvHgrtREmt4SIX9wUBh/4bbed81a266f9d68770660b4b81a650b/AI_trends_2026.jpg?w=800&q=75",
+      "url": "/tech-news/2026-01-01/four-ai-research-trends-enterprise-teams-should-wa/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "VentureBeat"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Proces 2 nm společnosti TSMC překoná kumulativní příjmy technologií 3 nm a 5 nm do 3. čtvrtletí 2026 díky růstu AI",
       "description": "Růst AI způsobuje TSMC problémy s kapacitou 2nm nodu, přesto objednávky neklesají i po zvýšení cen od 1. ledna. Příjmy z 2 nm mají do třetího čtvrtletí 2026 překonat kumulativní příjmy z 3 nm a 5 nm.",
@@ -610,24 +686,6 @@
         "Jensen Huang",
         "Elon Musk"
       ]
-    },
-    {
-      "title": "Obnovitelné zdroje překonaly uhlí jako největší zdroj elektřiny na světě v roce 2025",
-      "description": "V první polovině roku 2025 obnovitelné zdroje vyrobily 34,3 % globální elektřiny oproti 33,1 % uhlí, což je historický milník. Čína se prosadila jako lídr s instalací 256 GW solárních systémů během prvních šesti měsíců.",
-      "slug": "the-big-box-o-delights-what-went-right-in-2025",
-      "publishedAt": "2025-12-31T04:10:30+00:00",
-      "date": "2025-12-31 04:10:30",
-      "importance": 4,
-      "category": "energetika",
-      "urlToImage": "https://www.mutualfundobserver.com/wp-content/uploads/2025/12/box-of-delights-featured-image.jpg",
-      "url": "/tech-news/2025-12-31/the-big-box-o-delights-what-went-right-in-2025/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Mutualfundobserver.com"
-      },
-      "companies": [],
-      "people": []
     },
     {
       "title": "Top 10 příběhů o dohledu, žurnalistice a šifrování za rok 2025",
@@ -3670,55 +3728,6 @@
       "people": []
     },
     {
-      "title": "Nvidia souhlasí s koupí aktiv čipové začínající firmy Groq za 20 miliard dolarů: Podle zpráv",
-      "description": "Podle dohody se k Nvidii připojí zakladatel a generální ředitel Groq Jonathan Ross, který pracoval na Tensor Processing Unit u Google, spolu s prezidentem Sunny Madra a dalším klíčovým personálem. Finanční ředitel Groq Simon Edwards převezme vedení zbylé společnosti, která si ponechá svůj cloudový byznys GroqCloud nezávisle.",
-      "slug": "nvidia-agrees-to-buy-chip-startup-groqs-assets-for",
-      "publishedAt": "2025-12-25T16:43:47+00:00",
-      "date": "2025-12-25 16:43:47",
-      "importance": 5,
-      "category": "ai",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-44170,resizemode-75,msid-126176121/tech/technology/nvidia-agrees-to-buy-chip-startup-groqs-assets-for-20-billion-reports.jpg",
-      "url": "/tech-news/2025-12-25/nvidia-agrees-to-buy-chip-startup-groqs-assets-for/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Nvidia",
-        "Groq",
-        "Google"
-      ],
-      "people": [
-        "Jonathan Ross",
-        "Sunny Madra",
-        "Simon Edwards"
-      ]
-    },
-    {
-      "title": "Ne, NVIDIA neakviruje Groq, ale Jensen Huang právě provedl nečekanou strategickou dohodu",
-      "description": "Generální ředitel NVIDIA Jensen Huang uzavřel s firmou Groq neexkluzivní licenční dohodu na technologii pro inference v AI, což umožňuje integraci jejich nízkonáslatových procesorů do architektury NVIDIA bez regulačních rizik spojených s akvizicí.",
-      "slug": "no-nvidia-isnt-acquiring-groq-but-jensen-just-exec",
-      "publishedAt": "2025-12-25T16:23:44+00:00",
-      "date": "2025-12-25 16:23:44",
-      "importance": 4,
-      "category": "ai hardware",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/12/Untitled-design-28-728x410.png",
-      "url": "/tech-news/2025-12-25/no-nvidia-isnt-acquiring-groq-but-jensen-just-exec/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Wccftech"
-      },
-      "companies": [
-        "NVIDIA",
-        "Groq"
-      ],
-      "people": [
-        "Jensen Huang"
-      ]
-    },
-    {
       "title": "Skříň Pandorina Pentagonu je dokořán: USA integruje pokročilý „řetězec zabíjení řízený AI“ do vojenských a zpravodajských operací",
       "description": "USA začleňuje pokročilé systémy umělé inteligence do svých vojenských a zpravodajských procesů, konkrétně do takzvaného kill chainu, což umožňuje autonomní rozhodování o cílech. Článek spojuje tuto vývoj s širším geopolitickým kontextem, včetně Huntingtonovy teorie střetu civilizací.",
       "slug": "the-pentagons-pandoras-box-is-wide-open-the-us-int",
@@ -4043,28 +4052,6 @@
       },
       "companies": [
         "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Nvidia v nové dohodě najímá špičkové inženýry z Groq, včetně zakladatele, který vyvíjel AI čipy u Google",
-      "description": "V Silicon Valley se prosazuje nový typ obchodování, kdy Nvidia uzavírá neexkluzivní dohodu s chipovým startupem Groq a přebírá jeho klíčové inženýry.",
-      "slug": "in-a-new-deal-nvidia-hires-groqs-top-engineering-t",
-      "publishedAt": "2025-12-25T00:33:59+00:00",
-      "date": "2025-12-25 00:33:59",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://i.insider.com/694c705564858d02d2176409?width=800&format=jpeg",
-      "url": "/tech-news/2025-12-25/in-a-new-deal-nvidia-hires-groqs-top-engineering-t/",
-      "source": {
-        "emoji": "📰",
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "companies": [
-        "Nvidia",
-        "Groq",
-        "Google"
       ],
       "people": []
     }
