@@ -1,10 +1,31 @@
 {
-  "generated": "2026-01-02T04:54:50.479087+00:00",
+  "generated": "2026-01-02T08:43:24.565037+00:00",
   "count": 200,
   "articles": [
     {
+      "title": "Komentář: Dohoda Nvidia s Groq mění polovodičovou branži třemi klíčovými způsoby",
+      "description": "Největší novinkou v rozvoji AI čipů je neexkluzivní licenční dohoda Nvidia s Groq. Nvidia investovala 20 miliard USD do získání licence na technologii Groq a převzala její jádro inženýrského týmu.",
+      "slug": "commentary-nvidias-groq-deal-reshapes-semiconducto",
+      "publishedAt": "2026-01-01T07:45:40+00:00",
+      "date": "2026-01-01 07:45:40",
+      "importance": 5,
+      "category": "polovodiče",
+      "urlToImage": "https://img.digitimes.com/newsshow/20251231pd230_files/2_b.jpg",
+      "url": "/tech-news/2026-01-01/commentary-nvidias-groq-deal-reshapes-semiconducto/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [
+        "Nvidia",
+        "Groq"
+      ],
+      "people": []
+    },
+    {
       "title": "Od prachu k datovým centrům: Rok, kdy AI technologickí giganti a miliardy v dluzích začali přetvářet americkou krajinu",
-      "description": "Velké technologické firmy jako Meta, Google, xAI, OpenAI, Microsoft a Amazon staví obrovská datová centra v americkém vnitrozemí, financovaná masivními půjčkami. Tato expanze mění krajinu, ale naráží na omezení energie a rostoucí rizika na dluhovém trhu.",
+      "description": "Velké technologické firmy přetvářejí mapu USA do AI impéria – datová centra v rozměrech království, bezprecedentní dluhy, omezení energie a víra ve škálování.",
       "slug": "dust-to-data-centers-the-year-ai-tech-giants-and-b",
       "publishedAt": "2026-01-01T03:13:37+00:00",
       "date": "2026-01-01 03:13:37",
@@ -3523,26 +3544,6 @@
       "companies": [
         "Nvidia",
         "Groq"
-      ],
-      "people": []
-    },
-    {
-      "title": "Kritická zranitelnost ‚LangGrinch‘ v langchain-core ohrožuje tajemství AI agentů",
-      "description": "Společnost Cyata Security Ltd., startup zaměřený na bezpečnost umělé inteligence, zveřejnila zprávu o kritické zranitelnosti CVE-2025-68664 v knihovně langchain-core, která je základem pro agenty založené na frameworku LangChain. Tato chyba s hodnocením CVSS 9.3 umožňuje útočníkům odcizovat citlivá data a v určitých podmínkách i spustit vzdálený kód.",
-      "slug": "critical-langgrinch-vulnerability-in-langchain-cor",
-      "publishedAt": "2025-12-25T22:41:14+00:00",
-      "date": "2025-12-25 22:41:14",
-      "importance": 5,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/langgrinch.png",
-      "url": "/tech-news/2025-12-25/critical-langgrinch-vulnerability-in-langchain-cor/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Cyata Security Ltd"
       ],
       "people": []
     },
