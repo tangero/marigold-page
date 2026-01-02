@@ -2,10 +2,9 @@
 author: Marisa Aigen
 category: kyberbezpečnost
 date: '2026-01-01 16:15:26'
-description: Rok 2025 byl významným rokem pro kyberbezpečnost, s velkými kyberútoky,
-  úniky dat, hrozícími skupinami dosahujícími nové notoricity a exploitací zero-day
-  zranitelností v incidentech. Některé příběhy měly větší dopad nebo popularitu mezi
-  čtenáři než jiné.
+description: Rok 2025 byl významným rokem pro kyberbezpečnost díky velkým kyberútokům,
+  únikům dat, rostoucí proslulosti hrozících skupin a exploitaci zero-day zranitelností.
+  Některé příběhy měly větší dopad nebo popularitu mezi čtenáři než ostatní.
 importance: 5
 layout: tech_news_article
 original_title: The biggest cybersecurity and cyberattack stories of 2025
@@ -22,24 +21,23 @@ urlToImageBackup: https://www.bleepstatic.com/content/hl-images/2025/12/30/2025.
 ---
 
 ## Souhrn
-Rok 2025 přinesl řadu významných incidentů v kyberbezpečnosti, včetně velkých úniků dat, nových technik sociálního inženýrství a exploitů zero-day zranitelností. Mezi klíčové příběhy patří únik dat z PornHubu skupinou ShinyHunters a rozšíření ClickFix útoků na více platforem. Tyto události zdůraznily rostoucí sofistikovanost útočníků a slabiny v ochraně citlivých dat.
+Rok 2025 byl poznamenán eskalací kybernetických hrozeb, včetně masivních úniků dat a nových technik sociálního inženýrství. Podle serveru BleepingComputer patří mezi nejdůležitější patnáct událostí únik dat z PornHubu skupinou ShinyHunters a rozšíření ClickFix útoků na více operačních systémů. Tyto incidenty ukazují na zranitelnosti třetích stran a slabiny uživatelského chování.
 
 ## Klíčové body
-- Únik 94 GB dat z PornHubu obsahujících aktivity 200 milionů prémiových uživatelů, včetně prohlížení, hledání a stahování obsahu.
-- Skupina ShinyHunters vydírá PornHub vydáním dat, pokud nebude zaplacena výkupné, s rizikem reputačních škod pro uživatele.
-- ClickFix útoky se rozšířily z Windows na macOS a Linux, kde uživatelé sami instalují malware prostřednictvím falešných oprav chyb.
-- Tato technika sociálního inženýrství využívá falešné chybové zprávy, varování o bezpečnosti nebo výzvy k CAPTCHA k spuštění škodlivých příkazů.
-- Celkově 15 nejvýznamnějších příběhů roku podle BleepingComputer, včetně zero-day exploitů a notorických hrozících skupin.
+- Únik dat z PornHubu: Skupina ShinyHunters ukradla 94 GB dat o aktivitě 200 milionů prémiových uživatelů z analytického nástroje Mixpanel.
+- ClickFix útoky: Falešné chybové zprávy vedoucí k samo-infekci malwarem prostřednictvím PowerShell nebo shell příkazů na Windows, macOS a Linux.
+- Širší trendy: Exploitace zero-day zranitelností, růst notoriety ransomware gangů a státních aktérů.
+- Dopady: Reputační rizika pro uživatele, rozšíření infostealerů a RATů.
 
 ## Podrobnosti
-Článek sumarizuje patnáct nejdůležitějších událostí v kyberbezpečnosti roku 2025, které měly největší dopad nebo čtenářský zájem. Nejsou seřazeny podle priority, ale ilustrují šíři hrozeb. Například na 15. místě stojí únik dat z PornHubu, kde skupina ShinyHunters – známá z minulých vydírání – ukradla data o aktivitách prémiových členů z analytického nástroje Mixpanel, třetí strany poskytující analýzu uživatelského chování na webu. Ukradena data o objemu 94 GB obsahují přes 200 milionů záznamů o prohlížení, hledání a stahování dospělého obsahu. Ačkoli neobsahují finanční údaje, jejich zveřejnění by mohlo vést k vážným osobním a reputačním škodám, podobně jako v případě Ashley Madison v roce 2015, kde došlo k sebevraždám kvůli odhalení nevery.
+Článek Lawrence Abramese z 1. ledna 2026 shrnuje patnáct nejdůležitějších kyberbezpečnostních událostí roku 2025 bez specifického pořadí. Mezi nimi vyniká únik dat z PornHubu, kde extortion skupina ShinyHunters – známá z předchozích útoků na LinkedIn a Twitter – získala přístup k datům o prohlížení, hledání a stahování obsahu u více než 200 milionů prémiových uživatelů. Data o objemu 94 GB pocházejí z třetí strany, analytické platformy Mixpanel, která slouží k sledování uživatelské aktivity na webech. ShinyHunters požadují výkupné, jinak data zveřejní. I když neobsahují finanční údaje, odhalují citlivé informace o sexuálních preferencích, což připomíná únik z Ashley Madison v roce 2015, spojený s sebevraždami a rozvody.
 
-Další významnou hrozbou jsou ClickFix útoky, které se v roce 2025 staly populární mezi státně sponzorovanými hackery i ransomware skupinami. Tato metoda sociálního inženýrství funguje na principu podvodných webových stránek zobrazujících falešné chyby nebo problémy, jako jsou varování o bezpečnosti, CAPTCHA výzvy nebo upozornění na aktualizace. Uživatelé jsou navedeni k spuštění PowerShell příkazů na Windows, shell příkazů na Linuxu nebo ekvivalentů na macOS, čímž sami nainstalují infostealery (kradnouce přihlašovací údaje), RATy (dálkové přístupové trojany pro ovládání počítače) nebo jiný malware. Původně zaměřené na Windows se útoky rychle rozšířily na další operační systémy, což ukazuje na adaptabilitu útočníků.
+Další významnou hrozbou se staly ClickFix útoky, které se rychle rozšířily od Windows na macOS a Linux. Tyto sociální inženýrské kampaně zobrazují falešné chybové hlášky, bezpečnostní varování, CAPTCHA výzvy nebo upozornění na aktualizace, které návštěvníka navedou k zadání příkazů v PowerShell (na Windows) nebo shellu (na Unix-like systémech). Výsledek je samo-infekce zařízení malwarem, jako jsou infostealery pro krádež hesel a cookie, nebo RATy (Remote Access Trojans) pro dálkové ovládání. Tato technika byla převzata různými aktéry, včetně státních hackerů a ransomware gangů, což ukazuje na její univerzálnost a nízkou detekovatelnost antiviry.
 
-Tyto incidenty jsou součástí širšího trendu, kde zero-day zranitelnosti – neznámé chyby v softwaru bez dostupných záplat – byly exploitovány v mnoha útocích. Hrozící skupiny dosáhly nové notoricity díky masivním kampaním, zatímco data breaches ovlivnily miliony uživatelů. BleepingComputer, specializovaný web na kyberbezpečnost, vybral tyto příběhy na základě dopadu a popularity.
+Rok 2025 byl obecně charakterizován exploitací zero-day zranitelností v incidentech, růstem notoriety hrozících skupin a masivními útoky na kritickou infrastrukturu. BleepingComputer zdůrazňuje, že tyto příběhy nejen ovlivnily jednotlivce, ale i celé sektory, jako dospělý obsah nebo firemní analytics.
 
 ## Proč je to důležité
-Tyto události signalizují eskalaci kyberhrozeb v éře rostoucí digitalizace, kde útoky jako ClickFix obcházejí tradiční antiviry manipulací s uživatelem, což zvyšuje riziko pro jednotlivce i firmy. Pro uživatele znamená PornHub breach riziko blackmailingu a stigmatizace, zatímco pro průmysl podtrhuje nutnost lepší ochrany třetích stran jako Mixpanel, který slouží k analýze dat pro optimalizaci webů. V širším kontextu posilují tlak na vývoj lepších detekčních systémů a vzdělávání o sociálním inženýrství. Zero-day exploity zvyšují náklady na bezpečnost a mohou ovlivnit důvěru v cloudové služby, což má dopady na celý technologický ekosystém včetně AI systémů závislých na bezpečných datech.
+Tyto události signalizují selhání v řetězci dodavatelů – útoky na třetí strany jako Mixpanel ukazují, že i prémiové služby jsou zranitelné kvůli slabým bezpečnostním praktikám partnerů. Pro uživatele znamená PornHub únik riziko blackmailingu a sociální stigmatizace, zatímco ClickFix útoky zdůrazňují nutnost školení v rozpoznávání sociálního inženýrství, protože obcházejí tradiční obranu. V širším kontextu posilují tlak na regulace jako GDPR nebo NIS2 v EU, kde zero-day exploity mohou vést k shutdownům služeb. Průmysl musí investovat do zero-trust architektur a monitoringu třetích stran, jinak se podobné krize opakují, což oslabuje důvěru v digitální ekosystém.
 
 ---
 

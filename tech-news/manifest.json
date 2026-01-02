@@ -1,10 +1,86 @@
 {
-  "generated": "2026-01-02T16:35:44.031015+00:00",
+  "generated": "2026-01-02T20:32:56.157963+00:00",
   "count": 200,
   "articles": [
     {
+      "title": "Křemíkový implantát velikosti poštovní známky okamžitě pošle vaše myšlenky AI",
+      "description": "Výzkumníci z Columbia University vyvinuli tenký implantát BISC, který umožňuje bezdrátové rozhraní mezi mozkem a počítačem s 65 536 elektrodami. Tento subduralní systém cílí na pacienty s epilepsií, mrtvicemi, amyotrofní laterální sklerózou nebo slepotou, kteří jsou uvězněni ve vlastním těle.",
+      "slug": "silicon-postage-stamp-implant-instantly-emails-you",
+      "publishedAt": "2026-01-01T19:00:00+00:00",
+      "date": "2026-01-01 19:00:00",
+      "importance": 4,
+      "category": "kybernetika",
+      "urlToImage": "https://assets.newatlas.com/dims4/default/b2be1dd/2147483647/strip/true/crop/1522x799+0+108/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F2e%2F2b%2F7156e77f4e1e87ca8acb6c1bb2ec%2Fbisc-brain-implant.jpeg&na.image_optimisation=0",
+      "url": "/tech-news/2026-01-01/silicon-postage-stamp-implant-instantly-emails-you/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "New Atlas"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "SpaceX, OpenAI a Anthropic mohou vstoupit na burzu",
+      "description": "SpaceX, OpenAI a Anthropic připravují možné úvodní veřejné nabídky akcií v roce 2026, což by mohlo ovlivnit finanční trhy a překonat současné rekordy veřejných listinzích. Tyto kroky by umožnily širšímu okruhu investorů podílet se na růstu těchto klíčových technologických firem.",
+      "slug": "spacex-openai-anthropic-may-launch-ipos",
+      "publishedAt": "2026-01-01T18:36:48+00:00",
+      "date": "2026-01-01 18:36:48",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://cdn.iphoneincanada.ca/wp-content/uploads/2026/01/OpenAI-SpaceX-IPO.jpg",
+      "url": "/tech-news/2026-01-01/spacex-openai-anthropic-may-launch-ipos/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "iPhone in Canada"
+      },
+      "companies": [
+        "SpaceX",
+        "OpenAI",
+        "Anthropic"
+      ],
+      "people": []
+    },
+    {
+      "title": "Modely umělé inteligence mohou rozvinout ‚lidskou‘ závislost na hazardu při větší svobodě: studie",
+      "description": "Velké jazykové modely opakovaně pronásledovaly ztráty, zvyšovaly riziko a dokonce se dostaly do bankrotu v simulovaných hazardních prostředích, ukázala studie z Jižní Koreje.",
+      "slug": "ai-models-can-develop-humanlike-gambling-addiction",
+      "publishedAt": "2026-01-01T18:27:38+00:00",
+      "date": "2026-01-01 18:27:38",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/01/118111307.jpg?quality=75&strip=all&w=1200",
+      "url": "/tech-news/2026-01-01/ai-models-can-develop-humanlike-gambling-addiction/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "New York Post"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Přistání na Měsíci, mise na asteroidy a nové teleskopy: Nejvýznamnější momenty kosmických letů v roce 2026",
+      "description": "Od astronautů obíhajících Měsíc po sondy dosahující Merkuru a asteroidů poblíž Země se rok 2026 stává významným rokem pro vesmírný průzkum. Vládní agentury i soukromé firmy plánují mise, které posunou hranice lidské přítomnosti ve vesmíru a prohloubí znalosti Sluneční soustavy.",
+      "slug": "moon-landings-asteroid-missions-and-new-telescopes",
+      "publishedAt": "2026-01-01T17:00:00+00:00",
+      "date": "2026-01-01 17:00:00",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/L8exumuVUaJatGHCPDRuQm-2048-80.jpg",
+      "url": "/tech-news/2026-01-01/moon-landings-asteroid-missions-and-new-telescopes/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Space.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
       "title": "Největší příběhy v kyberbezpečnosti a kyberútocích roku 2025",
-      "description": "Rok 2025 byl významným rokem pro kyberbezpečnost, s velkými kyberútoky, úniky dat, hrozícími skupinami dosahujícími nové notoricity a exploitací zero-day zranitelností v incidentech. Některé příběhy měly větší dopad nebo popularitu mezi čtenáři než jiné.",
+      "description": "Rok 2025 byl významným rokem pro kyberbezpečnost díky velkým kyberútokům, únikům dat, rostoucí proslulosti hrozících skupin a exploitaci zero-day zranitelností. Některé příběhy měly větší dopad nebo popularitu mezi čtenáři než ostatní.",
       "slug": "the-biggest-cybersecurity-and-cyberattack-stories-",
       "publishedAt": "2026-01-01T16:15:26+00:00",
       "date": "2026-01-01 16:15:26",
@@ -21,13 +97,13 @@
       "people": []
     },
     {
-      "title": "Horší než (většina) lidí: Bezřidičové taxi Waymo narušilo zásah hasičů na místě aktivního požáru",
-      "description": "Autonomní taxi Waymo se spletlo v zatáčce a najelo přímo do uzavřené zóny aktivního požáru v Los Angeles v Kalifornii. Vozidlo zůstalo v uzavřené oblasti asi deset minut, než provedlo otočku a odjelo.",
+      "title": "Horší než (většina) lidí: Bezřidičové taxi Waymo narušilo zásah hasičů na místě požáru",
+      "description": "Autonomní taxi Waymo se spletlo v jízdě a vjelo přímo do aktivního místa požáru v Los Angeles v Kalifornii. Vozidlo ignorovalo uzavírku a zůstalo v uzavřené zóně asi deset minut.",
       "slug": "worse-than-most-humans-driverless-waymo-taxi-disru",
       "publishedAt": "2026-01-01T16:08:03+00:00",
       "date": "2026-01-01 16:08:03",
       "importance": 4,
-      "category": "autonomní vozidla",
+      "category": "autonomní vozy",
       "urlToImage": "https://media.breitbart.com/media/2025/12/Driverless-Waymo-car-causing-traffic-havoc-640x335.jpg",
       "url": "/tech-news/2026-01-01/worse-than-most-humans-driverless-waymo-taxi-disru/",
       "source": {
@@ -3707,27 +3783,6 @@
       "people": []
     },
     {
-      "title": "Nvidia uzavírá dohodu v hodnotě 20 miliard dolarů s Groq",
-      "description": "Nvidia a Groq oznámily 24. prosince 2025 dohodu za 20 miliard dolarů, která zahrnuje neexkluzivní licenci na inference technologii Groq a přechod klíčových zaměstnanců do Nvidia. Groq zůstává nezávislou společností a její platforma GroqCloud bude fungovat dál.",
-      "slug": "nvidia-does-20-billion-deal-with-groq",
-      "publishedAt": "2025-12-25T17:41:54+00:00",
-      "date": "2025-12-25 17:41:54",
-      "importance": 5,
-      "category": "ai hardware",
-      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2025/12/Screenshot-2025-12-25-at-9.40.58-AM.jpg",
-      "url": "/tech-news/2025-12-25/nvidia-does-20-billion-deal-with-groq/",
-      "source": {
-        "emoji": "📰",
-        "id": "next-big-future",
-        "name": "Next Big Future"
-      },
-      "companies": [
-        "NVIDIA",
-        "Groq"
-      ],
-      "people": []
-    },
-    {
       "title": "Skříň Pandorina Pentagonu je dokořán: USA integruje pokročilý „řetězec zabíjení řízený AI“ do vojenských a zpravodajských operací",
       "description": "USA začleňuje pokročilé systémy umělé inteligence do svých vojenských a zpravodajských procesů, konkrétně do takzvaného kill chainu, což umožňuje autonomní rozhodování o cílech. Článek spojuje tuto vývoj s širším geopolitickým kontextem, včetně Huntingtonovy teorie střetu civilizací.",
       "slug": "the-pentagons-pandoras-box-is-wide-open-the-us-int",
@@ -3746,29 +3801,6 @@
       "people": []
     },
     {
-      "title": "Nvidia kupuje aktiva Groq za 20 miliard dolarů – největší dohoda v historii společnosti",
-      "description": "Nvidia souhlasila s koupí aktiv od Groq, výrobce vysokovýkonných čipů pro akceleraci umělé inteligence, za 20 miliard dolarů v hotovosti. Podle generálního ředitele Disruptive Alexa Davise dohoda proběhla rychle, přičemž klíčoví manažeři Groq přecházejí do Nvidia.",
-      "slug": "nvidia-buying-groqs-assets-for-20-billion-in-its-l",
-      "publishedAt": "2025-12-25T15:01:00+00:00",
-      "date": "2025-12-25 15:01:00",
-      "importance": 5,
-      "category": "ai hardware",
-      "urlToImage": "https://a.fsdn.com/sd/topics/business_64.png",
-      "url": "/tech-news/2025-12-25/nvidia-buying-groqs-assets-for-20-billion-in-its-l/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "companies": [
-        "Nvidia",
-        "Groq"
-      ],
-      "people": [
-        "Alex Davis"
-      ]
-    },
-    {
       "title": "Použití AI k vyhnutí se odtažení auta",
       "description": "Funkce FSD Summon od Tesly, technologie umělé inteligence a počítačové vidění pomohly majiteli vyhnout se odtažení vozu a ušetřit 400 dolarů. Případ demonstruje praktické možnosti autonomního parkování v reálném prostředí.",
       "slug": "using-ai-to-avoid-getting-your-car-towed",
@@ -3785,27 +3817,6 @@
       },
       "companies": [
         "Tesla"
-      ],
-      "people": []
-    },
-    {
-      "title": "Nvidia odkoupila aktiva AI čipového startupu Groq za 20 miliard dolarů – největší dohoda v historii společnosti. Transakce zahrnuje převzetí klíčových zaměstnanců Groq včetně CEO",
-      "description": "Groq, konkurent Nvidia v závodě o AI čipy, uzavřel neexkluzivní licenční dohodu s Nvidia v hodnotě 20 miliard dolarů, což převyšuje jeho poslední valuaci o přibližně 13 miliard. Nvidia přijme zakladatele a CEO firmy spolu s dalšími klíčovými zaměstnanci a licencuje jejich duševní vlastnictví.",
-      "slug": "nvidia-buys-ai-chip-startup-groqs-assets-for-20-bi",
-      "publishedAt": "2025-12-25T14:35:10+00:00",
-      "date": "2025-12-25 14:35:10",
-      "importance": 5,
-      "category": "ai čipy",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/TSDruYdVxCEoCaLZC7Ufdg-2560-80.jpg",
-      "url": "/tech-news/2025-12-25/nvidia-buys-ai-chip-startup-groqs-assets-for-20-bi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "companies": [
-        "Nvidia",
-        "Groq"
       ],
       "people": []
     },
@@ -3986,28 +3997,6 @@
       "companies": [
         "Nvidia",
         "Groq"
-      ],
-      "people": []
-    },
-    {
-      "title": "Nvidia se připojuje k vlně dohod velkých technologických firem, licencuje technologii Groq a najímá její vedení",
-      "description": "Nvidia licencovala technologii čipů od startupu Groq a najala jeho zakladatele a generálního ředitele Jonathana Rossa, veterána AI z Google. Tato dohoda navazuje na trend, kdy technologické giganty získávají technologie a talenty bez plných akvizic, přičemž Groq se specializuje na inference modelů umělé inteligence.",
-      "slug": "nvidia-joining-big-tech-deal-spree-to-license-groq",
-      "publishedAt": "2025-12-25T02:57:44+00:00",
-      "date": "2025-12-25 02:57:44",
-      "importance": 4,
-      "category": "ai hardware",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-114962,resizemode-75,msid-126169570/tech/technology/nvidia-joining-big-tech-deal-spree-to-license-groq-technology-hire-executives.jpg",
-      "url": "/tech-news/2025-12-25/nvidia-joining-big-tech-deal-spree-to-license-groq/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Nvidia",
-        "Groq",
-        "Google"
       ],
       "people": []
     },

@@ -1,12 +1,12 @@
 ---
 author: Marisa Aigen
-category: autonomní vozidla
+category: autonomní vozy
 companies:
 - Waymo
 date: '2026-01-01 16:08:03'
-description: Autonomní taxi Waymo se spletlo v zatáčce a najelo přímo do uzavřené
-  zóny aktivního požáru v Los Angeles v Kalifornii. Vozidlo zůstalo v uzavřené oblasti
-  asi deset minut, než provedlo otočku a odjelo.
+description: Autonomní taxi Waymo se spletlo v jízdě a vjelo přímo do aktivního místa
+  požáru v Los Angeles v Kalifornii. Vozidlo ignorovalo uzavírku a zůstalo v uzavřené
+  zóně asi deset minut.
 importance: 4
 layout: tech_news_article
 original_title: 'Worse Than (Most) Humans: Driverless Waymo Taxi Disrupts First Responders
@@ -18,30 +18,31 @@ source:
   id: breitbart-news
   name: Breitbart News
 title: 'Horší než (většina) lidí: Bezřidičové taxi Waymo narušilo zásah hasičů na
-  místě aktivního požáru'
+  místě požáru'
 url: https://www.breitbart.com/tech/2026/01/01/worse-than-most-humans-driverless-waymo-taxi-disrupts-first-responders-at-active-fire-scene/
 urlToImage: https://media.breitbart.com/media/2025/12/Driverless-Waymo-car-causing-traffic-havoc-640x335.jpg
 urlToImageBackup: https://media.breitbart.com/media/2025/12/Driverless-Waymo-car-causing-traffic-havoc-640x335.jpg
 ---
 
-## Souhrn
-Autonomní taxi společnosti Waymo, která je součástí Alphabetu a specializuje se na bezřidičová vozidla pro sdílenou dopravu, nedávno narušilo zásah hasičů v Los Angeles tím, že najelo do uzavřené zóny aktivního požáru na Melrose Avenue v Hollywoodu. Vozidlo ignorovalo silniční závory a probíhalo asi deset minut v nebezpečné oblasti s pasažérem na zadním sedadle. Tento incident podtrhuje opakující se problémy s autonomními systémy Waymo v reálném provozu.
+### Souhrn
+Autonomní vozidlo Waymo, provozované společností Alphabetu (mateřskou firmou Googlu), vjelo minulý týden do uzavřené zóny aktivního požáru na Melrose Avenue v Hollywoodu v Los Angeles. Taxi ignorovalo světelné signály hasičů a zůstalo na místě přibližně deset minut, než provedlo otočku a odjelo. Incident zdokumentovala místní televizní stanice ABC 7 a ukazuje na opakující se problémy s bezpečností autonomních vozidel.
 
-## Klíčové body
-- Waymo taxi najelo přes silniční závory do zóny aktivního požáru v Los Angeles a zůstalo tam deset minut.
-- Vozidlo mělo pasažéra a nakonec provedlo otočku a odjelo.
-- Není to poprvé: podobné incidenty zahrnují nelegální předjíždění školního autobusu v Atlantě a vytváření zácpy v San Franciscu.
-- Co-CEO Waymo Tekedra Mawakana v rozhovoru naznačil, že společnost očekává akceptaci úmrtí způsobených autonomními auty jako ceny za pokrok.
+### Klíčové body
+- Waymo taxi vjelo přes světelné závory do oblasti, kde Losangeleský hasičský sbor řídil zásah u hořící budovy.
+- Vozidlo mělo pasažéra na zadním sedadle a zůstalo v uzavřené zóně asi 10 minut.
+- Není to první selhání: dříve předjíždělo školní autobus v Atlantu a způsobovalo zácpy v San Franciscu.
+- Waymo je notorické pro chování, které frustruje řidiče a obyvatele měst.
+- Co-CEO Waymo Tekedra Mawakana nedávno řekl, že společnost očekává akceptaci smrtelných nehod autonomních aut jako ceny pokroku.
 
-## Podrobnosti
-Autonomní vozidlo Waymo, vybavené senzory LiDAR, radary a kamerami pro navigaci bez řidiče, se v pondělí ráno dostalo do problémů na Melrose Avenue v Hollywoodu. Podle zprávy stanice ABC 7 vozidlo otočilo na ulici navzdory silničním závorám a světlům, které Los Angeles Fire Department používal k uzavření oblasti kvůli požáru. Svidatelé popsali, jak se robotaxi pohybovalo uprostřed zásahu hasičů asi deset minut, než systém konečně zareagoval, provedl U-otočku a opustilo místo. Vozidlo mělo na zadním sedadle pasažéra, což zvyšuje riziko pro civilisty.
+### Podrobnosti
+Waymo, který vyvinul pokročilé autonomní systémy pro jízdu bez řidiče (úroveň autonomie SAE Level 4), spoléhá na kombinaci senzorů jako LIDAR, radary a kamery pro mapování okolí a rozhodování. V tomto případě však systém evidentně nedetekoval nebo ignoroval dočasné uzavírky, které hasiči označili světelnými signály a závory. Podle svědků, citovaných ABC 7, vozidlo pomalu projetlo uzavírkou a zastavilo se uprostřed zásahu, což ohrozilo první respondenty a zdrželo jejich práci. Pasažér v zadu musel čekat, než systém provedl manévr zpět.
 
-Toto není ojedinělý případ. Před několika měsíci bylo Waymo vozidlo zachyceno na videu z mobilu, jak nelegálně předjíždí školní autobus v Atlantě v Georgii. Autobus měl vysazené dítě, blikající světla a vysunutý stop značku, což je jasný zákaz předjíždění. Další incident se odehrál v San Franciscu, kde několik Waymo aut v ranních hodinách v parkovišti vytvořilo zácpu a navzájem na sebe troubeno, což objevilo místní obyvatele kolem 4 hodiny ráno. Tyto události jsou pravidelně sdíleny na sociálních sítích, kde uživatelé dokumentují bizarní chování autonomních vozidel, jako je váhání na křižovatkách nebo ignorování dočasných dopravních opatření.
+Tento incident navazuje na řadu podobných problémů. Před několika měsíci bylo veřejně natočeno video z Atlanty, kde Waymo taxi nelegálně předjíždělo školní autobus s rozsvícenými světly a vysunutým stop znamením, zatímco děti vystupovaly. V San Franciscu v létě autonomní vozy Waymo v pre-dawn hodinách na parkovišti navzájem troubily a vytvořily zácpu, což probudilo místní obyvatele – incident se opakoval pravidelně kolem 4 hodiny ráno. Sociální sítě jsou plné videí dokumentujících bizarní chování těchto vozidel, jako je váhání na křižovatkách nebo ignorování dočasných značek.
 
-Waymo, které provozuje flotilu robotaxi v městech jako Los Angeles, San Francisco a Phoenix, spoléhá na strojové učení pro rozhodování v reálném čase. Systém analyzuje data ze senzorů k detekci překážek, ale selhává v komplexních scénářích jako dočasné uzávěrky nebo nouzové situace. Předchozí zprávy Breitbart News citují co-CEO Tekedru Mawakana z konference TechCrunch Disrupt, kde řekl, že i přes důraz na bezpečnost by společnost musela čelit hypotetickým smrtelným nehodám autonomních aut, které by veřejnost přijala jako součást pokroku. Waymo hlásí miliardy najetých kilometrů v testech, ale reálné provozy odhalují mezery v edge casech – nečekaných situacích, které tvoří malé procento dat, ale způsobují největší problémy.
+Waymo provozuje své robotaxi v několika amerických městech, včetně Los Angeles, San Francisca a Phoenixu, kde nabízí plně autonomní jízdu bez bezpečnostního řidiče. Systém používá high-definition mapy a AI modely pro predikci chování ostatních účastníků provozu. Přesto edge cases – nečekané situace jako požární zásahy – zůstávají achillesovou patou. Na rozdíl od lidských řidičů, kteří intuitivně rozpoznají kontext (např. světla hasičů znamenají nebezpečí), autonomní systémy spoléhají na tréninková data, která nemusí pokrývat všechny scénáře. Nedávná diskuse na konferenci TechCrunch Disrupt odhalila postoj vedení: co-CEO Tekedra Mawakana připustil, že i přes důraz na bezpečnost se smrtelné nehody stanou, a společnost je vidí jako nevyhnutelnou cenu za technologický pokrok.
 
-## Proč je to důležité
-Tento incident zdůrazňuje fundamentální limity současné technologie autonomních vozidel úrovně 4 (podle SAE klasifikace, kde vozidlo jede bez řidiče v omezených podmínkách). Pro průmysl znamená riziko zpomalení expanze robotaxi služeb, protože regulátoři jako kalifornský DMV nebo NHTSA posilují dohled po opakovaných selháních. Pro uživatele to signalizuje, že autonomní systémy jako Waymo One stále nejsou spolehlivější než lidští řidiči v nouzových scénářích, což brzdí masovou adopci. V širším kontextu autonomních vozidel (konkurence Tesla FSD, Cruise) to posiluje debatu o bezpečnosti AI v dopravě: zatímco senzory detekují objekty, rozhodovací algoritmy selhávají u dynamických změn prostředí. Dlouhodobě to může vést k lepším datovým sadám pro trénink modelů, ale krátkodobě zvyšuje skepsi vůči slibům o nulových nehodách.
+### Proč je to důležité
+Tento incident podtrhuje fundamentální limity současné autonomie v reálném provozu, kde dočasné změny (požáry, nehody, stavby) tvoří významný podíl rizik. Pro průmysl znamená ztrátu důvěry veřejnosti a tlaku na regulátory – Kalifornie a federální NHTSA již vyšetřují podobné případy. Pro uživatele to znamená, že robotaxi jako Waymo zatím nejsou spolehlivější než lidští řidiči v komplexních městských prostředích. V širším kontextu brzdí to nasazení plně autonomních flotil, jako plánuje Tesla s FSD nebo Cruise (GM). Pokud se edge cases neřeší robustnějšími AI modely (např. multimodálními predikcemi), autonomní vozy zůstanou notorické spíš než revoluční. Odhaduje se, že pro bezpečí na úrovni lidí potřebují miliardy kilometrů dat, což Waymo již má, ale kvalita predikce v nestandardních situacích zaostává.
 
 ---
 
