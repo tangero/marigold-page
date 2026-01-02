@@ -1,10 +1,28 @@
 {
-  "generated": "2026-01-02T01:19:28.279454+00:00",
+  "generated": "2026-01-02T04:54:50.479087+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "Čínský výrobce grafických karet Biren získal 717 milionů dolarů v IPO",
-      "description": "Společnost Shanghai Biren Intelligent Technology získala ekvivalent 717 milionů dolarů při primární veřejné nabídce akcií na burze v Hong Kongu. Firma prodala 284,8 milionu akcií za 19,6 hongkongského dolara za kus, což představovalo horní hranici cenového pásma.",
+      "title": "Od prachu k datovým centrům: Rok, kdy AI technologickí giganti a miliardy v dluzích začali přetvářet americkou krajinu",
+      "description": "Velké technologické firmy jako Meta, Google, xAI, OpenAI, Microsoft a Amazon staví obrovská datová centra v americkém vnitrozemí, financovaná masivními půjčkami. Tato expanze mění krajinu, ale naráží na omezení energie a rostoucí rizika na dluhovém trhu.",
+      "slug": "dust-to-data-centers-the-year-ai-tech-giants-and-b",
+      "publishedAt": "2026-01-01T03:13:37+00:00",
+      "date": "2026-01-01 03:13:37",
+      "importance": 4,
+      "category": "datová centra",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108203465-1758736724150-gettyimages-2236733575-STARGATE_DATA_CENTER.jpeg?v=1767148020&w=1920&h=1080",
+      "url": "/tech-news/2026-01-01/dust-to-data-centers-the-year-ai-tech-giants-and-b/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Čínský výrobce grafických karet Biren získal 717 milionů dolarů při IPO",
+      "description": "Společnost Shanghai Biren Intelligent Technology, dodavatel grafických karet pro datová centra, získala v hongkongském IPO ekvivalent 717 milionů dolarů prodejem 284,8 milionu akcií za 19,6 hongkongského dolara za kus. Poptávka u institucionálních investorů překonala nabídku 26násobně.",
       "slug": "chinese-graphics-card-maker-biren-raises-717m-in-i",
       "publishedAt": "2026-01-01T00:54:43+00:00",
       "date": "2026-01-01 00:54:43",
@@ -24,7 +42,7 @@
     },
     {
       "title": "Čína posouvá přístup k robotům do mainstreamu službou rychlého půjčování za 1 RMB od Qingtianzhu",
-      "description": "Čínská firma Qingtianzhu spustila službu půjčování humanoidních robotů za 1 RMB (14 centů) v deseti velkých městech, což je agresivní krok k normalizaci jejich používání v komerčním a veřejném prostředí. Zatímco Západ v robotice zaostává, Čína tak buduje ekosystém pro on-demand roboty podobný sdíleným jízdám.",
+      "description": "Čínská firma Qingtianzhu spustila službu půjčování humanoidních robotů za symbolickou cenu 1 RMB v deseti velkých městech. Iniciativa má urychlit adopci robotů v komerčním a veřejném prostředí prostřednictvím rychlé rezervace přes QR kód.",
       "slug": "china-pushes-robot-access-mainstream-with-qingtian",
       "publishedAt": "2026-01-01T00:29:06+00:00",
       "date": "2026-01-01 00:29:06",
@@ -3546,24 +3564,6 @@
       "companies": [
         "Waymo"
       ],
-      "people": []
-    },
-    {
-      "title": "Čína uzavře mezeru v polovodičích po průlomu v EUV litografii",
-      "description": "Čína vyvinula prototyp EUV lithografického stroje v uzavřené laboratoři v Shenzhen v rámci rozsáhlého státního projektu připomínajícího Manhattan Project. Prototyp byl dokončen na začátku roku 2025, zabírá celou tovární halu a nyní prochází testy s cílem produkce čipů do roku 2028.",
-      "slug": "china-will-close-the-semiconductor-gap-after-euv-l",
-      "publishedAt": "2025-12-25T17:52:13+00:00",
-      "date": "2025-12-25 17:52:13",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2025/12/Screenshot-2025-12-25-at-9.45.26-AM.jpg",
-      "url": "/tech-news/2025-12-25/china-will-close-the-semiconductor-gap-after-euv-l/",
-      "source": {
-        "emoji": "📰",
-        "id": "next-big-future",
-        "name": "Next Big Future"
-      },
-      "companies": [],
       "people": []
     },
     {

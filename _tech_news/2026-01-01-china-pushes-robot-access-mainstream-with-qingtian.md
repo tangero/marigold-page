@@ -5,9 +5,9 @@ companies:
 - Qingtianzhu
 date: '2026-01-01 00:29:06'
 description: Čínská firma Qingtianzhu spustila službu půjčování humanoidních robotů
-  za 1 RMB (14 centů) v deseti velkých městech, což je agresivní krok k normalizaci
-  jejich používání v komerčním a veřejném prostředí. Zatímco Západ v robotice zaostává,
-  Čína tak buduje ekosystém pro on-demand roboty podobný sdíleným jízdám.
+  za symbolickou cenu 1 RMB v deseti velkých městech. Iniciativa má urychlit adopci
+  robotů v komerčním a veřejném prostředí prostřednictvím rychlé rezervace přes QR
+  kód.
 importance: 4
 layout: tech_news_article
 original_title: China pushes robot access mainstream with Qingtianzhu’s 1 RMB ‘flash
@@ -26,22 +26,24 @@ urlToImageBackup: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/f
 ---
 
 ## Souhrn
-Čínská společnost Qingtianzhu (Shanghai) Technology Co. Ltd., která se specializuje na vývoj a nasazení humanoidních robotů, spustila 31. prosince 2025 službu rychlého půjčování robotů za symbolickou cenu 1 RMB (přibližně 3,5 Kč nebo 0,14 USD). Tato iniciativa je dostupná v deseti velkých čínských městech a umožňuje rezervaci přes QR kód pro krátkodobé použití v podnicích, výstavách či konferencích. Jedná se o promo akci zaměřenou na přilákání prvních uživatelů a urychlení adopce humanoidní robotiky.
+Čínská společnost Qingtianzhu (Shanghai) Technology Co. Ltd., která se specializuje na vývoj humanoidních robotů, spustila službu rychlého půjčování těchto zařízení za 1 RMB, což je přibližně 3,5 Kč nebo 14 amerických centů. Služba je dostupná v deseti velkých čínských městech a umožňuje rezervaci přes QR kód pro krátkodobé nasazení v podnikovém a veřejném sektoru. Tento krok představuje agresivní snahu o masovou adopci humanoidních robotů, kde Čína získává náskok oproti Západu.
 
 ## Klíčové body
-- Služba funguje v Pekingu, Šanghaji, Kantonu, Šen-čenu, Chang-čou, Čeng-tu, Su-čou, Si-a-men a Čchung-čching.
-- Rezervace probíhá přes QR kód s centrálním plánováním, standardizovanými procesy a podporou personálu na místě.
-- Model je přirovnáván k „robotickému Didi“, kde Didi představuje největší čínskou platformu pro sdílené jízdy.
-- Cena 1 RMB je úvodní promo, ne odráží plné náklady na nasazení robotů.
-- Cílem je vytvořit národní ekosystém pro půjčování robotů a snížit bariéry pro experimentování.
+- Služba je k dispozici v Pekingu, Šanghaji, Kantonu, Šen-čenu, Chang-čou, Čeng-tu, Su-čou, Si-a-men a Čchung-čching.
+- Rezervace probíhá rychle přes QR kód s centralizovaným plánováním pro více scénářů použití.
+- Cena 1 RMB slouží jako propagační vstupní bod pro první uživatele, ne odráží plné náklady na provoz.
+- Platforma funguje podobně jako ride-hailing služba Didi, ale pro roboty – propojuje poptávku firem s dostupnou kapacitou.
+- Každé nasazení zahrnuje standardizované procesy a personál na místě pro zajištění stability.
 
 ## Podrobnosti
-Qingtianzhu, šanghajská firma zaměřená na humanoidní roboty schopné autonomního pohybu a interakce s lidmi, uvedla tuto službu jako součást širšího úsilí o komercializaci robotiky. Uživatelé – převážně firmy pořádající akce, výstavy nebo promo kampaně – si mohou robot rezervovat na hodiny nebo dny přes mobilní aplikaci nebo QR kód. Roboti jsou pak doručeni na místo s technickou podporou, což zajišťuje stabilní provoz. Tento model minimalizuje počáteční investice, protože firmy nemusí kupovat robota za stovky tisíc dolarů, ale jen si ho půjčí na konkrétní událost.
+Qingtianzhu, šanghajská technologická firma zaměřená na humanoidní roboty schopné interakce s lidmi v reálném prostředí, uvedla tuto službu k 31. prosinci 2025 podle zpráv čínských médií jako Pandaily a Sina Finance. Humanoidní roboti od Qingtianzhu jsou navrženi pro praktické aplikace, jako je obsluha na výstavách, konferencích, promo akcích značek nebo podnikových eventech, kde plní role asistentů, průvodců či prezentátorů. Rezervace je okamžitá: uživatel naskenuje QR kód, systém centralizovaně naplánuje nasazení robota z nejbližšího inventáře a zajistí dopravu na místo.
 
-Podle zpráv čínských médií jako Pandaily a Sina Finance je 1 RMB cena pouze vstupenkou pro první zkušenost, podobně jako úvodní slevy u nových technologií. Skutečné náklady zahrnují údržbu, logistiku a energii, ale centrální platforma optimalizuje využití flotily napříč městy. V porovnání se Západem, kde firmy jako Boston Dynamics nebo Figure AI se soustředí především na vývoj hardware a omezené pilotní nasazení, Čína staví na škálovatelném ekosystému. V roce 2025 došlo k rychlému pokroku v humanoidní robotice díky levné výrobě a integraci AI modelů pro navigaci a konverzaci. Qingtianzhu tak napodobuje úspěch Didi v mobilitě, kde poptávka od firem (např. pro uvítání hostů na konferencích nebo distribuci letáků na veletrzích) se automaticky spojuje s dostupnými roboty. Tento přístup může vést k rychlejšímu sběru dat pro zlepšování AI u robotů, protože reálné nasazení odhaluje slabiny v chování.
+Tento model nazvaný „flash rental“ zdůrazňuje rychlost – od objednávky po aktivaci uplyne minimum času – a standardizované workflow, které minimalizují rizika selhání. Na rozdíl od plně autonomních systémů, jako jsou pokusy Tesla s robotem Optimus, zde roboti spoléhají na dedikovaný personál na místě, což zajišťuje stabilitu, ale omezuje plnou nezávislost. Propagační cena 1 RMB je strategická: slouží k přilákání prvních zkušebních uživatelů, kteří pak přejdou na standardní tarify pokrývající amortizaci hardware, údržbu a logistiku. Firma tak buduje národní ekosystém pronájmu robotů, kde platforma funguje jako síťová pánev mezi poptávkou (firemní eventy, výstavy) a nabídkou (sklady robotů v městech).
+
+V širším kontextu rok 2025 přinesl boom umělé inteligence, ale humanoidní robotika se rychle dohání. Čína, s investicemi státních fondů a soukromých gigantů jako Xiaomi nebo Unitree, nasazuje tisíce robotů v továrnách a službách. Západ, včetně USA, zaostává – například Boston Dynamics demonstruje pokroky v hardwaru, ale komercializace je pomalejší kvůli regulačním a etickým otázkám. Qingtianzhu tak kopíruje úspěšný model sdílené ekonomiky (jako Didi s taxíky nebo Mobike s koly), aplikovaný na roboty, což umožňuje firmám testovat technologii bez miliónových investic do vlastního hardware.
 
 ## Proč je to důležité
-Tato iniciativa urychluje adopci humanoidních robotů v Číně, kde vláda podporuje robotiku jako strategický sektor s cílem překonat Západ do roku 2030. Pro průmysl znamená snížení rizik při testování – firmy mohou vyzkoušet roboty bez velkých výdajů, což podpoří integraci do maloobchodu, hotelů nebo vzdělávání. V širším kontextu posiluje čínskou dominanci v robotice, kde v roce 2025 vyrobila přes 50 procent světových průmyslových robotů a nyní expanduje do humanoidních. Pro uživatele to otevírá dveře k levnému přístupu k technologiím, které zatím na Západě zůstávají v laboratořích. Dlouhodobě to může vést k standardizaci robotických služeb, podobně jako u cloud computingu, ale rizika zahrnují závislost na čínských dodavatelích a otázky bezpečnosti dat z AI interakcí. Celkově představuje krok k masovému nasazení, který by mohl inspirovat globální trendy.
+Tato iniciativa urychluje přechod humanoidních robotů z laboratoří do každodenní praxe, zejména v Číně, kde robotika tvoří pilíř národní strategie technologické nadvlády. Pro podniky znamená nižší vstupní bariéry – místo nákupu robota za stovky tisíc dolarů lze ho pronajmout na hodiny nebo dny pro specifické úkoly, což podporuje inovace v sektorech jako retail, event management nebo vzdělávání. V širším ekosystému posiluje Čínu jako lídra v praktickém nasazení robotiky, kde Západ bojuje s vysokými náklady a bezpečnostními normami. Dlouhodobě to může vést k rychlejšímu sběru dat pro trénink AI modelů v reálném světě, ale zároveň vyvolává otázky závislosti na čínském hardware a potenciálních bezpečnostních rizik. Pro globální průmysl je to signál, že éra on-demand robotů začíná, s Čínou v čele.
 
 ---
 
