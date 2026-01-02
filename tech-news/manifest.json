@@ -1,7 +1,108 @@
 {
-  "generated": "2026-01-02T08:43:24.565037+00:00",
+  "generated": "2026-01-02T12:47:56.626529+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Proces 2 nm společnosti TSMC překoná kumulativní příjmy technologií 3 nm a 5 nm do 3. čtvrtletí 2026 díky růstu AI",
+      "description": "Růst AI způsobuje TSMC problémy s kapacitou 2nm nodu, přesto objednávky neklesají i po zvýšení cen od 1. ledna. Příjmy z 2 nm mají do třetího čtvrtletí 2026 překonat kumulativní příjmy z 3 nm a 5 nm.",
+      "slug": "tsmcs-2nm-process-to-surpass-the-companys-3nm-5nm-",
+      "publishedAt": "2026-01-01T11:55:06+00:00",
+      "date": "2026-01-01 11:55:06",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/01/TSMC-factory.jpg",
+      "url": "/tech-news/2026-01-01/tsmcs-2nm-process-to-surpass-the-companys-3nm-5nm/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Wccftech"
+      },
+      "companies": [
+        "TSMC"
+      ],
+      "people": []
+    },
+    {
+      "title": "Elon Musk plánuje vysokoodběrovou výrobu mozkových čipů Neuralink a chce automatizovat chirurgický postup",
+      "description": "Elon Musk uvedl, že implantáty Neuralink přejdou na téměř zcela automatizovaný chirurgický postup v roce 2026. Společnost se připravuje na masovou produkci těchto brain-computer interfaces.",
+      "slug": "elon-musk-plans-high-volume-production-of-neuralin",
+      "publishedAt": "2026-01-01T11:33:14+00:00",
+      "date": "2026-01-01 11:33:14",
+      "importance": 4,
+      "category": "kybernetika",
+      "urlToImage": "https://i.insider.com/69563c8b64858d02d217a0f3?width=1200&format=jpeg",
+      "url": "/tech-news/2026-01-01/elon-musk-plans-high-volume-production-of-neuralin/",
+      "source": {
+        "emoji": "📰",
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "companies": [
+        "Neuralink"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Nvidia kupuje akcie Intelu v hodnotě 5 miliard dolarů, co potřebujete vědět",
+      "description": "Společnost Nvidia odkoupila akcie Intelu (NASDAQ: INTC) v hodnotě 5 miliard dolarů, což podpořilo růst ceny akcií o 2 procenta. Tento krok navazuje na září, kdy Nvidia souhlasila s nákupem za 23,28 dolaru za akcii k posílení produkční kapacity Intelu.",
+      "slug": "nvidia-buys-intel-corporations-intc-shares-worth-5",
+      "publishedAt": "2026-01-01T11:29:34+00:00",
+      "date": "2026-01-01 11:29:34",
+      "importance": 4,
+      "category": "technologické akcie",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/15rK2_2oY7ByOkn0xwM_cg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/fe3d07f390ab832594f0e07094b3f8cd",
+      "url": "/tech-news/2026-01-01/nvidia-buys-intel-corporations-intc-shares-worth-5/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "Nvidia",
+        "Intel"
+      ],
+      "people": []
+    },
+    {
+      "title": "Američtí federální vyšetřovači pronásledují teenage hackerské skupiny jako Scattered Spider, které od roku 2022 cílí na firmy z Fortune 500 v hodnotě 1 bilionu dolarů",
+      "description": "Neřízení teenageři zaútočili na přibližně 120 firem, včetně Nike, Chick-fil-A, Instacart a News Corporation, často se vydávajíce za IT zaměstnance.",
+      "slug": "feds-are-hunting-teenage-hacking-groups-like-scatt",
+      "publishedAt": "2026-01-01T11:27:00+00:00",
+      "date": "2026-01-01 11:27:00",
+      "importance": 5,
+      "category": "kyberzločin",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-1500416880-e1766424902418.jpg?resize=1200,600",
+      "url": "/tech-news/2026-01-01/feds-are-hunting-teenage-hacking-groups-like-scatt/",
+      "source": {
+        "emoji": "📰",
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "companies": [
+        "Instacart"
+      ],
+      "people": []
+    },
+    {
+      "title": "10 vrcholových manažerů sdílelo své předpovědi o AI pro rok 2026",
+      "description": "Od agentických plateb přes kybernetické hrozby až po automatizaci práce na pracovišti – přední manažeři sdílejí své předpovědi, jak AI přetvoří rok 2026.",
+      "slug": "A-10-executives-shared-their-2026-ai-predictions-w",
+      "publishedAt": "2026-01-01T10:36:01+00:00",
+      "date": "2026-01-01 10:36:01",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://i.insider.com/69555ce964858d02d21799b4?width=1200&format=jpeg",
+      "url": "/tech-news/2026-01-01/A-10-executives-shared-their-2026-ai-predictions-w/",
+      "source": {
+        "emoji": "📰",
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Komentář: Dohoda Nvidia s Groq mění polovodičovou branži třemi klíčovými způsoby",
       "description": "Největší novinkou v rozvoji AI čipů je neexkluzivní licenční dohoda Nvidia s Groq. Nvidia investovala 20 miliard USD do získání licence na technologii Groq a převzala její jádro inženýrského týmu.",
@@ -3548,26 +3649,6 @@
       "people": []
     },
     {
-      "title": "Dystopické timelapse video z San Francisca odhaluje, co dělají autonomní vozy Waymo v noci",
-      "description": "Fotograf v San Franciscu natočil timelapse video autonomních vozů Waymo během noci, kdy čekají na další jízdy. Místo návratu do garáží cirkulují městem nebo parkují na veřejných místech, což vytváří dystopický vzhled.",
-      "slug": "dystopian-san-francisco-timelapse-video-reveals-wh",
-      "publishedAt": "2025-12-25T20:31:03+00:00",
-      "date": "2025-12-25 20:31:03",
-      "importance": 4,
-      "category": "autonomní vozy",
-      "urlToImage": "https://brobible.com/wp-content/uploads/2025/12/waymo-where-do-they-go-at-night-how-do-they-drive-timelapse-video.jpg",
-      "url": "/tech-news/2025-12-25/dystopian-san-francisco-timelapse-video-reveals-wh/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BroBible"
-      },
-      "companies": [
-        "Waymo"
-      ],
-      "people": []
-    },
-    {
       "title": "Nvidia uzavírá dohodu v hodnotě 20 miliard dolarů s Groq",
       "description": "Nvidia a Groq oznámily 24. prosince 2025 dohodu za 20 miliard dolarů, která zahrnuje neexkluzivní licenci na inference technologii Groq a přechod klíčových zaměstnanců do Nvidia. Groq zůstává nezávislou společností a její platforma GroqCloud bude fungovat dál.",
       "slug": "nvidia-does-20-billion-deal-with-groq",
@@ -3586,24 +3667,6 @@
         "NVIDIA",
         "Groq"
       ],
-      "people": []
-    },
-    {
-      "title": "Příběh roku 2025 podle Emerge: Jak závod v AI rozbil globální technologický řád",
-      "description": "Rok 2025 ukázal, jak rivalita USA a Číny zbranizovala každou vrstvu technologického zásobníku – od minerálů přes modely AI až po vojenskou doktrínu.",
-      "slug": "emerges-2025-story-of-the-year-how-the-ai-race-fra",
-      "publishedAt": "2025-12-25T17:01:03+00:00",
-      "date": "2025-12-25 17:01:03",
-      "importance": 5,
-      "category": "ai",
-      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/12/Emerge-Story-of-the-Year-2025-AI-Race-Global-Tech-Order-gID_7.jpg",
-      "url": "/tech-news/2025-12-25/emerges-2025-story-of-the-year-how-the-ai-race-fra/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Decrypt"
-      },
-      "companies": [],
       "people": []
     },
     {
@@ -3779,24 +3842,6 @@
       "people": []
     },
     {
-      "title": "Humanoidní roboti jsou stále jen novinkami, ale investice rostou, aby se stali realitou zítra",
-      "description": "Investice a zájem předcházejí technologii i společnosti. Když humanoidní roboti dorazili na Humanoids Summit v Počítačovém muzeu historie v Mountain View v Kalifornii 11. prosince, fronta na registraci už sahala dolů do lobby.",
-      "slug": "humanoid-robots-are-still-novelty-acts-but-investm",
-      "publishedAt": "2025-12-25T13:00:06+00:00",
-      "date": "2025-12-25 13:00:06",
-      "importance": 5,
-      "category": "robotika",
-      "urlToImage": "https://regmedia.co.uk/2025/12/11/humanoids_summit_2025_robot_folding.jpg",
-      "url": "/tech-news/2025-12-25/humanoid-robots-are-still-novelty-acts-but-investm/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Co skutečně získáte s Google AI Pro a AI Ultra v prosinci 2025",
       "description": "Google tiše rozšířil a přestavěl své placené AI nabídky, takže v prosinci 2025 jsou rozdíly mezi bezplatnou verzí, Google AI Pro a Google AI Ultra výrazné v limitech, přístupu k modelům a kontextovém okně. Plány se liší v denní kapacitě, velikosti kontextu a odemčených produktech.",
       "slug": "what-you-actually-get-with-google-ai-pro-and-ai-ul",
@@ -3895,30 +3940,6 @@
       },
       "companies": [],
       "people": []
-    },
-    {
-      "title": "Exkluzivně: Nvidia kupuje aktiva startupu Groq na AI čipy za přibližně 20 miliard dolarů – největší dohoda v historii",
-      "description": "Nvidia souhlasila s koupí aktiv od startupu Groq, který navrhuje vysokovýkonnostní akcelerátory pro umělou inteligenci, za 20 miliard dolarů v hotovosti. Jedná se o největší akvizici Nvidia dosud, přičemž Groq zůstane nezávislou společností s pokračujícím provozem svého cloudu.",
-      "slug": "exclusive-nvidia-buying-ai-chip-startup-groqs-asse",
-      "publishedAt": "2025-12-25T06:01:09+00:00",
-      "date": "2025-12-25 06:01:09",
-      "importance": 5,
-      "category": "ai čipy",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-25/exclusive-nvidia-buying-ai-chip-startup-groqs-asse/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Freerepublic.com"
-      },
-      "companies": [
-        "Nvidia",
-        "Groq",
-        "Disruptive"
-      ],
-      "people": [
-        "Alex Davis"
-      ]
     },
     {
       "title": "Sociální inženýrství stálo kryptoměny miliardy v roce 2025: Jak se chránit",
@@ -4022,26 +4043,6 @@
       },
       "companies": [
         "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "DP Technology získala 114 milionů dolarů na rozvoj AI pro vědu v Číně",
-      "description": "Pekingská startupová společnost DP Technology Co. Ltd. získala 800 milionů juanů (přibližně 114 milionů dolarů) v třetí investiční kole a plánuje je použít na urychlení vědeckého výzkumu pomocí nástrojů umělé inteligence v oblastech jako návrh baterií nebo vývoj léků.",
-      "slug": "dp-technology-raises-114m-to-accelerate-chinas-ai-",
-      "publishedAt": "2025-12-25T00:48:46+00:00",
-      "date": "2025-12-25 00:48:46",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Screenshot-from-2025-12-25-07-48-13.png",
-      "url": "/tech-news/2025-12-25/dp-technology-raises-114m-to-accelerate-chinas-ai/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "DP Technology"
       ],
       "people": []
     },
