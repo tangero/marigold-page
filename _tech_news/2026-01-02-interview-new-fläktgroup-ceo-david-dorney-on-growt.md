@@ -1,10 +1,10 @@
 ---
 author: Marisa Aigen
-category: klimatizační systémy
+category: hvac
 companies:
 - Samsung Electronics
 date: '2026-01-02 00:54:42'
-description: Samsung Electronics získal FläktGroup, předního globálního dodavatele
+description: Samsung Electronics převzal FläktGroup, předního globálního dodavatele
   řešení HVAC (topení, ventilace a klimatizace), aby výrazně posílil svou pozici na
   rychle rostoucím trhu HVAC. Akvizice byla dokončena v listopadu minulého roku.
 importance: 5
@@ -27,24 +27,24 @@ urlToImageBackup: https://img.global.news.samsung.com/global/wp-content/uploads/
 ---
 
 ## Souhrn
-Samsung Electronics dokončil v listopadu 2022 akvizici společnosti FläktGroup za přibližně 1,1 miliardy eur, čímž vstoupil do sektoru HVAC jako významný hráč. Nový generální ředitel David Dorney v rozhovoru diskutuje o strategiích růstu, synergiích se Samsungem a výhledech pro budoucnost topení, ventilace a klimatizace. Tento krok umožňuje Samsungu integrovat HVAC do svého ekosystému smart budov a IoT zařízení.
+Samsung Electronics dokončil v listopadu 2023 akvizici FläktGroup za 1,76 miliardy eur, čímž získal předního evropského výrobce ventilací a klimatizačních systémů. V rozhovoru nový generální ředitel David Dorney mluví o synergiích se Samsungem, růstu v oblasti datacenter a udržitelných technologií. Tento krok posiluje Samsungovu roli v HVAC sektoru, který je klíčový pro energeticky náročné aplikace jako AI datacentra.
 
 ## Klíčové body
-- Akvizice za 1,1 miliardy eur posiluje Samsungovu expanzi do průmyslového a komerčního HVAC trhu.
-- David Dorney, nový CEO, klade důraz na synergie v technologii, jako je integrace AI pro optimalizaci ventilace.
-- FläktGroup se specializuje na ventilátory a systémy pro datová centra, nemocnice a kanceláře.
-- Očekávaný růst trhu HVAC díky poptávce po energeticky úsporných řešeních a udržitelnosti.
-- Plány na rozšíření v Asii a Evropě s využitím Samsungova know-how v semikonduktorech a displejích.
+- Akvizice FläktGroup za 1,76 miliardy eur umožnila Samsungu vstoupit do prémiového segmentu HVAC s ročním obratem 900 milionů eur.
+- David Dorney zdůrazňuje synergie v IoT integraci, kde se HVAC systémy FläktGroup spojí s Samsungovými senzory a AI platformami.
+- Fokus na udržitelnost: nové systémy snižují spotřebu energie v datech až o 30 % díky přesnému chlazení.
+- Růstový potenciál v Asii a USA, kde Samsung plánuje rozšířit prodej.
+- Budoucnost HVAC: přechod k bezuhlíkovým řešením a integrace s edge computingem.
 
 ## Podrobnosti
-FläktGroup, švédsko-finská společnost založená v roce 1918, je jedním z největších dodavatelů ventilátorů a HVAC systémů na světě, s ročním obratem přes 700 milionů eur a působením v pěti desítkách zemí. Nabízí produkty jako axiální a odstředivé ventilátory, tepelná čerpadla a systémy pro řízení vzduchu v prostředích s vysokými nároky na čistotu a efektivitu, například v datových centrech, kde zajišťují chlazení serverů, nebo v nemocnicích pro filtraci vzduchu proti patogenům. Akvizice Samsungem, oznámená v březnu 2022 a dokončená po regulační schválení, představuje vstup korejského giganta do segmentu, který roste tempem 5-7 % ročně díky urbanizaci, digitalizaci a požadavkům na nižší uhlíkovou stopu.
+FläktGroup, švédsko-finský koncern založený v roce 1918, se specializuje na ventilace, tepelná čerpadla a chladicí jednotky pro komerční budovy, nemocnice, letiště a především datacentra. Před akvizicí dosahoval obratu přes 900 milionů eur ročně s 4500 zaměstnanci v 60 zemích. Samsung, který dosud působil převážně v spotřební elektronice a smart home zařízeních, vidí v HVAC strategickou příležitost díky globálnímu růstu trhu o 7 % ročně, poháněnému datacentry pro AI trénink.
 
-David Dorney, který převzal roli CEO krátce po akvizici, má zkušenosti z průmyslových firem jako Ingersoll Rand a zdůrazňuje synergie. Samsung, známý ze spotřební elektroniky a semikonduktorů, nyní může integrovat HVAC do svých smart home řešení, jako je platforma SmartThings. Například ventilátory FläktGroup lze propojit s senzory IoT pro automatickou regulaci teploty a vlhkosti na základě dat z mobilních aplikací. Dorney mluví o využití AI algoritmů pro prediktivní údržbu – systémy analyzují vibrace a teplotu ventilátorů v reálném čase, předpovídají poruchy a snižují spotřebu energie o 20-30 %. To je klíčové pro datová centra, kde chlazení tvoří až 40 % provozních nákladů.
+David Dorney, nový CEO s zkušenostmi z Honeywell a Johnson Controls, popisuje integraci jako klíčovou. FläktGroupovy systémy jako EC+ ventilátory s elektronickým komutovaným motorem (EC motor) umožňují dynamické řízení průtoku vzduchu na základě reálných dat z senzorů. Samsung je napojí na svou platformu SmartThings a AI řešení Bixby, což umožní prediktivní údržbu – algoritmy budou předvídat poruchy na základě dat o vibracích, teplotě a spotřebě. Například v datech s tisíci GPU, kde chlazení tvoří až 40 % nákladů, takové systémy snižují spotřebu o 20–30 %.
 
-V rozhovoru Dorney zmiňuje expanzi do Asie, kde Samsung plánuje lokální výrobu, a Evropy, kde FläktGroup má silnou pozici díky certifikacím EU Green Deal. Synergie zahrnují sdílení R&D: Samsungovy displeje a senzory se integrují do řídicích panelů HVAC, zatímco FläktGroup posiluje Samsungovu nabídku pro B2B segment. Konkurence jako Daikin nebo Carrier čelí tlaku na inovace, protože Samsung může nabídnout end-to-end řešení od čipů po ventilaci.
+Dorney zmiňuje i výzvy: evropské regulace jako Green Deal vyžadují snížení F-gasů v chladivech, což Fläkt řeší přechodem na přírodní média jako propan. Synergie se Samsungem zahrnují sdílení R&D, kde se testují hybridní systémy kombinující vzduchové chlazení s tekutým chlazením pro high-density servery. V USA plánují expanzi do hyperscalerů jako AWS nebo Google Cloud, zatímco v Asii cílí na továrny s vysokými teplotami. Kriticky lze říci, že zatímco Samsung přináší škálovatelnost, FläktGroup dodává know-how v průmyslové automatizaci, ale integrace IoT vyžaduje robustní cybersecurity proti útokům na kritickou infrastrukturu.
 
 ## Proč je to důležité
-Tato akvizice za více než 1 miliardu eur patří mezi největší v tech sektoru v roce 2022 a signalizuje posun technologických gigantů směrem k infrastruktuře budov. V kontextu AI a IT znamená lepší podporu pro datová centra – klíčová pro trénink LLM modelů jako GPT nebo Gemini, kde efektivní chlazení snižuje náklady na GPU clustery. Pro průmysl to otevírá dveře k hybridním systémům, kde HVAC je součástí edge computingu a robotických linek v továrnách. Udržitelnost je další faktor: systémy s AI optimalizací splňují normy EU pro nulové emise do 2050. Pro uživatele v Česku a EU to znamená dostupnější smart budovy s nižšími provozními náklady, ale zároveň riziko závislosti na Samsungovém ekosystému. Celkově posiluje to Samsungovu diverzifikaci mimo mobily a čipy, což ovlivní dodavatelské řetězce v robotice a automatizaci.
+Tato akvizice nad 1 miliardu eur řadí Samsunga mezi lídry v HVAC, sektoru úzce spjatém s AI a datacentry. S rostoucí poptávkou po výpočetním výkonu – např. trénink modelů jako GPT-4 spotřebuje energie ekvivalentu stovek domácností – efektivní chlazení přímo ovlivňuje náklady a udržitelnost. Pro průmysl znamená větší konkurenci pro hráče jako Trane nebo Daikin, s tlakem na inovace v AI-optimalizovaném chlazení. Pro uživatele v IT to přinesou levnější provoz datacenter, méně výpadků a lepší integraci s cloudovými službami. V širším kontextu posiluje to asijskou dominanci v tech infrastruktuře, kde Samsung může konkurovat NVIDIA i v okrajových oblastech jako chlazení GPU racků. Dlouhodobě to urychlí přechod k bezemisním budovám, ale závisí na úspěšné fúzi kultur a technologií.
 
 ---
 

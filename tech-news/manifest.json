@@ -1,15 +1,134 @@
 {
-  "generated": "2026-01-03T01:18:34.817383+00:00",
+  "generated": "2026-01-03T04:53:22.271342+00:00",
   "count": 200,
   "articles": [
     {
+      "title": "Čínská startup na AI čipy Biren vzrostla až o 119 % při debutu v Hong Kongu po získání přibližně 717 milionů dolarů v IPO za 2,52 USD na akcii (Bloomberg)",
+      "description": "Akcie šanghajské společnosti Biren Technology Co. vzrostly při prvním obchodování v Hong Kongu téměř o 119 %. Firma tak získala v počáteční veřejné nabídce akcií kolem 717 milionů dolarů při ceně 2,52 USD za akcii.",
+      "slug": "chinese-ai-chip-startup-biren-surged-as-much-as-11",
+      "publishedAt": "2026-01-02T03:55:01+00:00",
+      "date": "2026-01-02 03:55:01",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBMgHLMr3Tzg/v0/1200x800.jpg",
+      "url": "/tech-news/2026-01-02/chinese-ai-chip-startup-biren-surged-as-much-as-11/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Techmeme.com"
+      },
+      "companies": [
+        "Shanghai Biren Technology Co"
+      ],
+      "people": []
+    },
+    {
+      "title": "Jižní Korejští výrobci kvantového vybavení očekávají velké objednávky díky adopci QPU v datech centrech",
+      "description": "Jak kvantové technologie, jedna z národních strategických technologií Jižní Koreje, přecházejí z vládního výzkumu do soukromého sektoru, rostoucí zátěž AI výpočtů staví kvantové zpracovatelské jednotky (QPU) do centra pozornosti. Výrobci kvantového vybavení tak předpokládají příliv velkých objednávek od datových center.",
+      "slug": "south-koreas-quantum-equipment-makers-anticipate-m",
+      "publishedAt": "2026-01-02T02:55:50+00:00",
+      "date": "2026-01-02 02:55:50",
+      "importance": 4,
+      "category": "kvantové technologie",
+      "urlToImage": "https://img.digitimes.com/newsshow/20260102pd215_files/2_b.jpg",
+      "url": "/tech-news/2026-01-02/south-koreas-quantum-equipment-makers-anticipate-m/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Poptávka z Číny tlačí Nvidia k hledání větší kapacity H200 u TSMC",
+      "description": "Nvidia rokuje s TSMC o rozšíření výroby svých H200 čipů pro umělou inteligenci, protože čínské technologické firmy objednávají velká množství pro rok 2026. Tato jednání signalizují pokračující tlak čínské poptávky na globální dodávatelský řetězec.",
+      "slug": "china-demand-pushes-nvidia-to-seek-more-h200-capac",
+      "publishedAt": "2026-01-02T02:49:59+00:00",
+      "date": "2026-01-02 02:49:59",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.digitimes.com/newsshow/20260102pd216_files/1_b.jpg",
+      "url": "/tech-news/2026-01-02/china-demand-pushes-nvidia-to-seek-more-h200-capac/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [
+        "Nvidia",
+        "TSMC"
+      ],
+      "people": []
+    },
+    {
+      "title": "Čínský výrobce AI čipů Biren výrazně vzrostl na burzovním debutu",
+      "description": "Akcie čínské společnosti Biren Technology, výrobce čipů pro umělou inteligenci, se na hongkongské burze v pátek více než zdvojnásobily. Firma zařazená na černou listinu USA získala při emisi 5,58 miliardy hongkongských dolarů (přibližně 717 milionů USD) prodejem 284,8 milionu akcií po 19,60 HKD za kus.",
+      "slug": "chinese-ai-chipmaker-biren-soars-on-trading-debut",
+      "publishedAt": "2026-01-02T02:42:18+00:00",
+      "date": "2026-01-02 02:42:18",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://biztoc.com/cdn/1b04c75714a57ada_s.webp",
+      "url": "/tech-news/2026-01-02/chinese-ai-chipmaker-biren-soars-on-trading-debut/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "companies": [
+        "Biren Technology"
+      ],
+      "people": []
+    },
+    {
+      "title": "Čínský výrobce AI čipů Biren posílil o 82 % při debutu v Hong Kongu, zahajuje listings 2026",
+      "description": "Akcie Shanghai Biren Technology, čínského designéra AI čipů, otevřely v Hong Kongu o 82,1 % výše než emise cena HK$19,60. Debut přinesl firmě HK$5,58 miliardy a signalizuje vlnu AI a polovodičových IPO v reakci na americká exportní omezení.",
+      "slug": "china-ai-chipmaker-biren-surges-82-on-hong-kong-de",
+      "publishedAt": "2026-01-02T01:49:02+00:00",
+      "date": "2026-01-02 01:49:02",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_3_1733465099406_1733465108677.png",
+      "url": "/tech-news/2026-01-02/china-ai-chipmaker-biren-surges-82-on-hong-kong-de/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Livemint"
+      },
+      "companies": [
+        "Biren"
+      ],
+      "people": []
+    },
+    {
+      "title": "Akcie Biren Technology vyskočily, investoři se vrhnou na první čínskou GPU společnost listovanou v Hong Kongu",
+      "description": "Akcie Shanghai Biren Technology vzrostly o 82,1 procenta na 35,70 HKD v pátek při prvním letošním listování v Hong Kongu. Investoři se vrhli na tuto čínskou firmu vyrábějící grafické procesory (GPU) v kontextu rostoucího zájmu o umělou inteligenci.",
+      "slug": "biren-shares-soar-as-investors-seize-on-first-chin",
+      "publishedAt": "2026-01-02T01:47:15+00:00",
+      "date": "2026-01-02 01:47:15",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://biztoc.com/cdn/69decb7a0b5342e9_s.webp",
+      "url": "/tech-news/2026-01-02/biren-shares-soar-as-investors-seize-on-first-chin/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "companies": [
+        "Shanghai Biren Technology"
+      ],
+      "people": []
+    },
+    {
       "title": "[Rozhovor] Nový generální ředitel FläktGroup David Dorney o růstu, synergiích a budoucnosti HVAC",
-      "description": "Samsung Electronics získal FläktGroup, předního globálního dodavatele řešení HVAC (topení, ventilace a klimatizace), aby výrazně posílil svou pozici na rychle rostoucím trhu HVAC. Akvizice byla dokončena v listopadu minulého roku.",
+      "description": "Samsung Electronics převzal FläktGroup, předního globálního dodavatele řešení HVAC (topení, ventilace a klimatizace), aby výrazně posílil svou pozici na rychle rostoucím trhu HVAC. Akvizice byla dokončena v listopadu minulého roku.",
       "slug": "interview-new-fläktgroup-ceo-david-dorney-on-growt",
       "publishedAt": "2026-01-02T00:54:42+00:00",
       "date": "2026-01-02 00:54:42",
       "importance": 5,
-      "category": "klimatizační systémy",
+      "category": "hvac",
       "urlToImage": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/01/31130912/Samsung-Digital-Appliances-FlaktGroup-CEO-David-Dorney-on-Growth-Synergy-and-the-Future-of-HVAC-Interview_Thumb932.jpg",
       "url": "/tech-news/2026-01-02/interview-new-fläktgroup-ceo-david-dorney-on-growt/",
       "source": {
@@ -25,8 +144,8 @@
       ]
     },
     {
-      "title": "AI čipová divize Baidu Kunlunxin důvěrně podala žádost o listing na hongkongské burze",
-      "description": "Divize Kunlunxin, která vyvíjí AI čipy pro Baidu, podala 1. ledna důvěrnou žádost o úvod na burzu v Hong Kongu. Tento krok připravuje půdu pro spin-off a samostatný listing, přičemž firma byla nedávno ohodnocena na 21 miliard čínských juanů.",
+      "title": "Divize Baidu pro AI čipy Kunlunxin důvěrně podala žádost o listink na hongkongské burze",
+      "description": "Čínský internetový gigant Baidu oznámil, že jeho divize pro AI čipy Kunlunxin podala 1. ledna důvěrnou žádost o úvodní veřejnou nabídku na hongkongské burze. Tento krok umožní oddělení divize při zachování kontroly Baidu a probíhá v kontextu čínských snah o domácí čipy kvůli americkým exportním omezením.",
       "slug": "baidus-ai-chip-arm-kunlunxin-files-confidentially-",
       "publishedAt": "2026-01-01T23:55:27+00:00",
       "date": "2026-01-01 23:55:27",
@@ -46,8 +165,8 @@
       "people": []
     },
     {
-      "title": "Model Gemini 3.0 Pro od Google pomohl vyřešit dlouho nevyřešenou záhadu v Norimberské kronice",
-      "description": "Jazykový model Gemini 3.0 Pro od Google přinesl pokrok v multimodálním uvažování tím, že pomohl dekódovat ruční poznámky v 500 let starém exempláři Norimberské kronice z roku 1493. Tyto poznámky, známé jako roundels, obsahují zkrácenou latinu a římská číslice, jejichž význam zůstal staletí nevyřešený.",
+      "title": "Gemini 3.0 Pro od Google pomohl rozluštit dlouho nevyřešenou záhadu v Norimberské kronice",
+      "description": "Velký jazykový model Gemini 3.0 Pro od Google předvedl pokrok v multimodálním uvažování dekódováním ručních okružních poznámek v 500 let starém exempláři Norimberské kroniky z roku 1493. Poznámky obsahují výpočty biblických chronologií slučující Septuagintu a hebrejskou Bibli k určení roku narození Abraháma.",
       "slug": "googles-gemini-30-pro-helps-solve-long-standing-my",
       "publishedAt": "2026-01-01T23:50:58+00:00",
       "date": "2026-01-01 23:50:58",
@@ -66,8 +185,8 @@
       "people": []
     },
     {
-      "title": "Zpráva: OpenAI plánuje spustit nový audio model v prvním čtvrtletí",
-      "description": "OpenAI Group PBC vyvíjí nový model umělé inteligence optimalizovaný pro generování audia. Podle zdrojů by měl být spuštěn do konce března a přinést přirozenější řeč než současné modely spolu s lepší podporou interakcí v reálném čase.",
+      "title": "Reportáž: OpenAI plánuje spustit nový audio model v prvním čtvrtletí",
+      "description": "OpenAI Group PBC údajně vyvíjí nový model umělé inteligence optimalizovaný pro generování audia, který by měl být spuštěn do konce března. Model má produkovat přirozenější řeč než současné verze a lépe zvládat interakce v reálném čase.",
       "slug": "report-openai-plans-to-launch-new-audio-model-in-t",
       "publishedAt": "2026-01-01T23:44:05+00:00",
       "date": "2026-01-01 23:44:05",
@@ -3827,24 +3946,6 @@
       ]
     },
     {
-      "title": "Texaský developer navrhuje recyklované jaderné reaktory námořnictva USA jako zdroj energie pro AI infrastrukturu",
-      "description": "Texaská firma HGP Intelligent Energy LLC žádá o státní půjčku na projekt, který by použil vyřazené jaderné reaktory z amerických letadlových lodí a ponorek pro napájení datových center určených pro umělou inteligenci. Reaktory by měly poskytnout stabilní výkon kolem 450 až 520 megawattů u Oak Ridge National Laboratory v Tennessee.",
-      "slug": "texas-developer-pitches-recycled-navy-nuclear-reac",
-      "publishedAt": "2025-12-25T23:26:30+00:00",
-      "date": "2025-12-25 23:26:30",
-      "importance": 4,
-      "category": "jaderná energetika",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/navynuclearaidata.png",
-      "url": "/tech-news/2025-12-25/texas-developer-pitches-recycled-navy-nuclear-reac/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Skříň Pandorina Pentagonu je dokořán: USA integruje pokročilý „řetězec zabíjení řízený AI“ do vojenských a zpravodajských operací",
       "description": "USA začleňuje pokročilé systémy umělé inteligence do svých vojenských a zpravodajských procesů, konkrétně do takzvaného kill chainu, což umožňuje autonomní rozhodování o cílech. Článek spojuje tuto vývoj s širším geopolitickým kontextem, včetně Huntingtonovy teorie střetu civilizací.",
       "slug": "the-pentagons-pandoras-box-is-wide-open-the-us-int",
@@ -3923,47 +4024,6 @@
       "people": []
     },
     {
-      "title": "Válka o talenty v umělé inteligenci zasáhla i stážisty",
-      "description": "OpenAI, Anthropic, Google DeepMind a Meta nabízejí vysoké finanční odměny, aby přilákaly a rozvíjely nejlepší začínající talenty v oblasti AI.",
-      "slug": "the-ai-talent-wars-have-come-for-the-interns",
-      "publishedAt": "2025-12-25T10:31:01+00:00",
-      "date": "2025-12-25 10:31:01",
-      "importance": 4,
-      "category": "ai talenty",
-      "urlToImage": "https://i.insider.com/6943414604eda4732f2dbd6b?width=1200&format=jpeg",
-      "url": "/tech-news/2025-12-25/the-ai-talent-wars-have-come-for-the-interns/",
-      "source": {
-        "emoji": "📰",
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "companies": [
-        "OpenAI",
-        "Anthropic",
-        "Google DeepMind",
-        "Meta"
-      ],
-      "people": []
-    },
-    {
-      "title": "Mozkový implantát umožnil paralyzovanému muži ovládat ruce jiné osoby",
-      "description": "Nový systém mozkomozkového rozhraní umožnil quadriplegikovi ovládat pohyby rukou zdravé dobrovolnice a vnímat jejich doteky. Studie popisuje propojení mozků dvou osob prostřednictvím elektrod a umělé inteligence.",
-      "slug": "remarkable-brain-implant-allows-a-paralyzed-man-to",
-      "publishedAt": "2025-12-25T06:55:03+00:00",
-      "date": "2025-12-25 06:55:03",
-      "importance": 4,
-      "category": "kybernetika",
-      "urlToImage": "https://twistedsifter.com/wp-content/uploads/2025/10/Spine.jpg",
-      "url": "/tech-news/2025-12-25/remarkable-brain-implant-allows-a-paralyzed-man-to/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Twistedsifter.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "USA nebo Čína? Stát, který vyhraje závod v jaderné fúzi, ovládne globální primát",
       "description": "Geopolitičtí analytici diskutují, zda USA a Čína vedou studenou válku nebo soutěž o globální dominanci. Článek argumentuje, že klíčem k úspěchu je závod v jaderné fúzi, která poskytne levnou energii pro AI a vojenské technologie.",
       "slug": "us-or-china-the-nation-that-wins-the-nuclear-fusio",
@@ -3979,68 +4039,6 @@
         "name": "Freerepublic.com"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Sociální inženýrství stálo kryptoměny miliardy v roce 2025: Jak se chránit",
-      "description": "Lidská složka představuje jednu z nejslabších oblastí v bezpečnosti kryptoměn, autentizace, hardwarové peněženky, automatizace a přísné ověřovací návyky však umožňují riziko výrazně snížit.",
-      "slug": "social-engineering-cost-crypto-billions-in-2025-ho",
-      "publishedAt": "2025-12-25T05:47:17+00:00",
-      "date": "2025-12-25 05:47:17",
-      "importance": 5,
-      "category": "kryptoměny",
-      "urlToImage": "https://s3.cointelegraph.com/uploads/2025-12/019afbcd-f94b-7c9e-bf65-ca00a3d34b4b",
-      "url": "/tech-news/2025-12-25/social-engineering-cost-crypto-billions-in-2025-ho/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Cointelegraph"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "NVIDIA uzavřela licenční smlouvu s AI čipovým startupem Groq, hodnota smlouvy činí přibližně 3 biliony jenů a může jít o největší transakci v historii",
-      "description": "Společnost Groq oznámila uzavření neexkluzivní licenční smlouvy na svou technologii inference s NVIDIA. Klíčoví manažeři Groq, včetně zakladatele a CEO Jonathana Rosse, přecházejí do NVIDIA, zatímco Groq zůstává nezávislou firmou s pokračujícím provozem GroqCloud.",
-      "slug": "nvidiaがai半導体スタートアップgroqとのライセンス契約に合意契約規模は約3兆円で過去最大の",
-      "publishedAt": "2025-12-25T01:55:00+00:00",
-      "date": "2025-12-25 01:55:00",
-      "importance": 5,
-      "category": "ai hardware",
-      "urlToImage": "https://image.news.livedoor.com/newsimage/stf/f/d/fd53c_88_b6c351619c97bc22fe446f1e1659aaf0.jpg",
-      "url": "/tech-news/2025-12-25/nvidiaがai半導体スタートアップgroqとのライセンス契約に合意契約規模は約3兆円で過去最大の/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Livedoor.com"
-      },
-      "companies": [
-        "NVIDIA",
-        "Groq"
-      ],
-      "people": [
-        "Jonathan Ross",
-        "Sunny Madra"
-      ]
-    },
-    {
-      "title": "Zpráva: OpenAI zkoumá způsoby monetizace ChatGPT konverzačními reklamami",
-      "description": "Společnost OpenAI prý zvažuje vložení reklam do odpovědí ChatGPT kvůli tlaku investorů na monetizaci chatbota. Podle zprávy v The Information společnost testuje možné formáty reklam a partnerství, aby vytvořila udržitelný obchodní model.",
-      "slug": "report-openai-explores-ways-to-monetize-chatgpt-wi",
-      "publishedAt": "2025-12-25T01:40:42+00:00",
-      "date": "2025-12-25 01:40:42",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Screenshot-from-2025-12-25-08-40-07.png",
-      "url": "/tech-news/2025-12-25/report-openai-explores-ways-to-monetize-chatgpt-wi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "OpenAI"
-      ],
       "people": []
     }
   ]
