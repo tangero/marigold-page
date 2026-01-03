@@ -1,7 +1,71 @@
 {
-  "generated": "2026-01-03T16:38:32.461274+00:00",
+  "generated": "2026-01-03T20:34:11.362582+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "BYD překonalo Teslu v prodejích čistě elektrických vozidel za rok 2025 a získalo globální vedení v BEV",
+      "description": "Po letech konkurenčního boje po čtvrtletích BYD oficiálně překonalo Teslu jako největšího světového výrobce čistě elektrických vozidel (BEV) za celý rok 2025. Rozdíl nebyl těsný, BYD prodalo o více než 600 tisíc kusů více.",
+      "slug": "byd-officially-crushes-tesla-in-all-electric-sales",
+      "publishedAt": "2026-01-02T19:36:13+00:00",
+      "date": "2026-01-02 19:36:13",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/01/Tesla-BYD-sales.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2026-01-02/byd-officially-crushes-tesla-in-all-electric-sales/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Electrek"
+      },
+      "companies": [
+        "BYD",
+        "Tesla"
+      ],
+      "people": []
+    },
+    {
+      "title": "Indie nařizuje Muskově X opravit Grok kvůli obscénnímu obsahu generovanému AI | TechCrunch",
+      "description": "Indie nařídila platformě X Elona Muska provést okamžité změny v AI chatbotu Grok kvůli generování obscénního obsahu, jako jsou AI upravené obrázky žen v bikiních a sexuálně explicitní zobrazení dětí. Ministerstvo IT dává 72 hodin na opravy a podání zprávy, jinak hrozí ztráta právní imunity.",
+      "slug": "india-orders-musks-x-to-fix-grok-over-obscene-ai-c",
+      "publishedAt": "2026-01-02T18:31:31+00:00",
+      "date": "2026-01-02 18:31:31",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2207699717.jpg?resize=1200,800",
+      "url": "/tech-news/2026-01-02/india-orders-musks-x-to-fix-grok-over-obscene-ai-c/",
+      "source": {
+        "emoji": "🚀",
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "companies": [
+        "TechCrunch"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Nokia nachází nový život díky dohodě s Nvidia v hodnotě 1 miliardy dolarů",
+      "description": "Nokia získává nový impuls díky dohodě s Nvidia v hodnotě 1 miliardy dolarů, která přetváří její budoucnost v sítích s umělou inteligencí a infrastruktuře telekomunikací další generace. Článek poprvé vyšel na iPhone in Canada.",
+      "slug": "nokia-finds-new-life-through-1-billion-nvidia-deal",
+      "publishedAt": "2026-01-02T18:20:17+00:00",
+      "date": "2026-01-02 18:20:17",
+      "importance": 5,
+      "category": "ai",
+      "urlToImage": "https://cdn.iphoneincanada.ca/wp-content/uploads/2026/01/Nvidia-Noikia.jpg",
+      "url": "/tech-news/2026-01-02/nokia-finds-new-life-through-1-billion-nvidia-deal/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "iPhone in Canada"
+      },
+      "companies": [
+        "Nokia",
+        "Nvidia"
+      ],
+      "people": []
+    },
     {
       "title": "Nvidijino AI impérium: Pohled na největší investice do startupů | TechCrunch",
       "description": "Za poslední dva roky Nvidia investovala své rostoucí zdroje do více než 100 AI startupů. Zde jsou největší investice tohoto giganta v oblasti polovodičů.",
@@ -3968,67 +4032,6 @@
       "people": [
         "Elon Musk"
       ]
-    },
-    {
-      "title": "ServiceNow podepisuje dohodu o akvizici Armis za 7,75 miliardy dolarů",
-      "description": "Akvizice přidává nástroje Armis pro správu kyberfyzikálních aktiv a rizik do platformy ServiceNow zaměřené na bezpečnost a provoz řízený umělou inteligencí. Tento krok posiluje schopnosti v oblasti proaktivní kyberbezpečnosti pro firmy, vlády a kritickou infrastrukturu.",
-      "slug": "servicenow-signs-agreement-to-acquire-armis-for-77",
-      "publishedAt": "2025-12-26T10:22:48+00:00",
-      "date": "2025-12-26 10:22:48",
-      "importance": 5,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/PAPd8Y8bn192QwptFmIOnQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/verdict_626/cc5613e4051b98d7f20e3cb5f2df3882",
-      "url": "/tech-news/2025-12-26/servicenow-signs-agreement-to-acquire-armis-for-77/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Verdict"
-      },
-      "companies": [
-        "ServiceNow",
-        "Armis"
-      ],
-      "people": []
-    },
-    {
-      "title": "Spektakulární pokroky směrem k užitečným kvantovým počítačům",
-      "description": "Na konferenci Q2B Silicon Valley lídři kvantového průmyslu ocenili 'spektakulární' pokroky směrem k praktickým zařízením, ale zdůraznili, že výzvy přetrvávají. Experti jako Joe Altepeter z DARPA a Scott Aaronson vidí reálnou šanci na industriálně užitečné kvantové počítače.",
-      "slug": "spectacular-progress-has-been-made-towards-useful-",
-      "publishedAt": "2025-12-26T08:00:07+00:00",
-      "date": "2025-12-26 08:00:07",
-      "importance": 5,
-      "category": "kvantové počítače",
-      "urlToImage": "https://images.newscientist.com/wp-content/uploads/2025/12/19135618/SEI_278480023.jpg",
-      "url": "/tech-news/2025-12-26/spectacular-progress-has-been-made-towards-useful/",
-      "source": {
-        "emoji": "📰",
-        "id": "new-scientist",
-        "name": "New Scientist"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Licenční dohoda Nvidia za 20 miliard dolarů s Groq míří na dominanci Google v AI čipech",
-      "description": "Nvidia investuje 20 miliard dolarů do licencování AI technologie od společnosti Groq a najímání jejího vedení. Tento krok slouží k posílení pozice proti rostoucímu vlivu Google v hardwaru pro AI inference a je strukturován jako licenční smlouva, aby se minimalizovalo antitrustové riziko.",
-      "slug": "nvidias-20-billion-licensing-deal-for-groq-targets",
-      "publishedAt": "2025-12-26T06:00:00+00:00",
-      "date": "2025-12-26 06:00:00",
-      "importance": 5,
-      "category": "ai čipy",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/12/Nvidia-Building-Logo.jpg",
-      "url": "/tech-news/2025-12-26/nvidias-20-billion-licensing-deal-for-groq-targets/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "companies": [
-        "Nvidia",
-        "Groq",
-        "Google"
-      ],
-      "people": []
     }
   ]
 }
