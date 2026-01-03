@@ -1,7 +1,167 @@
 {
-  "generated": "2026-01-03T04:53:22.271342+00:00",
+  "generated": "2026-01-03T08:42:47.147562+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Čínská BYD se chystá překonat Tesla v prodejích elektromobilů v roce 2025",
+      "description": "Rostoucí čínský automobilový gigant BYD je připraven oficiálně překonat Tesla jako největšího výrobce elektromobilů podle ročních prodejích. Do konce listopadu prodala 2,07 milionu kusů elektromobilů.",
+      "slug": "chinas-byd-poised-to-overtake-tesla-in-2025-ev-sal",
+      "publishedAt": "2026-01-02T07:17:24+00:00",
+      "date": "2026-01-02 07:17:24",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://www.rte.ie/images/0023afb9-1600.jpg",
+      "url": "/tech-news/2026-01-02/chinas-byd-poised-to-overtake-tesla-in-2025-ev-sal/",
+      "source": {
+        "emoji": "📰",
+        "id": "rte",
+        "name": "RTE"
+      },
+      "companies": [
+        "BYD",
+        "Tesla"
+      ],
+      "people": []
+    },
+    {
+      "title": "DeepMind tvrdí, že AGI může vzniknout jako síť AI agentů místo jediné superinteligence",
+      "description": "Google DeepMind ve svém výzkumu argumentuje, že umělá obecné inteligence (AGI) se nemusí objevit jako jediný superinteligentní systém, ale spíše jako síť spolupracujících AI agentů. Tento přístup souvisí s rostoucím nasazením AI agentů v praxi v roce 2025, kdy přecházejí od asistentů k autonomním vykonavatelům složitých úkolů.",
+      "slug": "deepmind-argues-agi-may-emerge-as-network-of-ai-ag",
+      "publishedAt": "2026-01-02T07:14:47+00:00",
+      "date": "2026-01-02 07:14:47",
+      "importance": 5,
+      "category": "umělá inteligence",
+      "urlToImage": "https://img.digitimes.com/newsshow/20251231pd208_files/1_b.jpg",
+      "url": "/tech-news/2026-01-02/deepmind-argues-agi-may-emerge-as-network-of-ai-ag/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [
+        "Google",
+        "DeepMind"
+      ],
+      "people": []
+    },
+    {
+      "title": "Čínská DeepSeek zahájila rok 2026 novou metodou trénování AI, kterou analytici označují za průlom pro škálování",
+      "description": "DeepSeek vydala novou metodu trénování umělé inteligence, kterou analytici považují za průlom v škálování velkých jazykových modelů.",
+      "slug": "chinas-deepseek-kicked-off-2026-with-a-new-ai-trai",
+      "publishedAt": "2026-01-02T07:10:41+00:00",
+      "date": "2026-01-02 07:10:41",
+      "importance": 5,
+      "category": "umělá inteligence",
+      "urlToImage": "https://i.insider.com/695759b704eda4732f2e5e1b?width=1200&format=jpeg",
+      "url": "/tech-news/2026-01-02/chinas-deepseek-kicked-off-2026-with-a-new-ai-trai/",
+      "source": {
+        "emoji": "📰",
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "companies": [
+        "DeepSeek"
+      ],
+      "people": []
+    },
+    {
+      "title": "Samsung získává náskok v závodě o paměti pro AI po údajném vedení v systémových testech Broadcomu",
+      "description": "Paměť HBM4 šesté generace od Samsung Electronics údajně dosáhla nejrychlejších provozních rychlostí v klíčovém technologickém testu provedeném společností Broadcom. Výsledky posilují pozici Samsungu v soutěži o dodávky pamětí pro příští generaci umělé inteligence.",
+      "slug": "samsung-gains-edge-in-ai-memory-race-after-reporte",
+      "publishedAt": "2026-01-02T06:48:47+00:00",
+      "date": "2026-01-02 06:48:47",
+      "importance": 4,
+      "category": "ai hardware",
+      "urlToImage": "https://img.digitimes.com/newsshow/20251231vl202_files/1_b.jpg",
+      "url": "/tech-news/2026-01-02/samsung-gains-edge-in-ai-memory-race-after-reporte/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [
+        "Samsung",
+        "Broadcom"
+      ],
+      "people": []
+    },
+    {
+      "title": "LLMy a rozmach výroby čipů: Co řekl Si Ťin-pching o úspěších Číny v umělé inteligenci v novoroční řeči",
+      "description": "Si Ťin-pching uvedl, že modely umělé inteligence a průlomy v domácím vývoji čipů posílily Čínu v soutěži o globální vedení.",
+      "slug": "llms-and-a-chipmaking-boom-heres-what-xi-jinping-s",
+      "publishedAt": "2026-01-02T05:54:17+00:00",
+      "date": "2026-01-02 05:54:17",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://i.insider.com/69573d35832e0ef1ead70f4e?width=1200&format=jpeg",
+      "url": "/tech-news/2026-01-02/llms-and-a-chipmaking-boom-heres-what-xi-jinping-s/",
+      "source": {
+        "emoji": "📰",
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "companies": [],
+      "people": [
+        "Xi Jinping"
+      ]
+    },
+    {
+      "title": "Rovnováha sil",
+      "description": "Analýza toho, jak technologické inovace, zejména v umělé inteligenci a polovodičích, mění geopolitickou rovnováhu mezi Spojenými státy, Čínou a Evropou.",
+      "slug": "balance-of-power",
+      "publishedAt": "2026-01-02T05:47:02+00:00",
+      "date": "2026-01-02 05:47:02",
+      "importance": 4,
+      "category": "geopolitika",
+      "urlToImage": "http://vitalik.ca/images/icon.png",
+      "url": "/tech-news/2026-01-02/balance-of-power/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Eth.limo"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Čínské technologické akcie vtrhly do roku 2026 s návalem IPO v AI čipech a dalšími plánovanými uvedeními na burzu",
+      "description": "Akcie čínských firem v oblasti AI a polovodičů posílily od průlomu domácího modelu DeepSeek-R1 v lednu 2025. Na počátku roku 2026 probíhá série úspěšných burzovních uvedení firem vyrábějících AI čipy, s dalšími připravovanými listinami.",
+      "slug": "chinese-tech-stocks-charged-into-2026-with-an-ai-c",
+      "publishedAt": "2026-01-02T05:34:04+00:00",
+      "date": "2026-01-02 05:34:04",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://i.insider.com/69573c85832e0ef1ead70f42?width=1200&format=jpeg",
+      "url": "/tech-news/2026-01-02/chinese-tech-stocks-charged-into-2026-with-an-ai-c/",
+      "source": {
+        "emoji": "📰",
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Jednotka Baidu pro polovodiče Kunlunxin žádá o listování v Hong Kongu uprostřed boomu AI čipů v Číně",
+      "description": "Baidu oznámil plány na oddělení své dceřiné společnosti Kunlunxin, která se zabývá vývojem čipů pro umělou inteligenci, a její listování na burze v Hong Kongu. Tento krok probíhá v kontextu amerických omezení exportu pokročilých čipů a snahy Číny o soběstačnost v polovodičovém průmyslu.",
+      "slug": "baidus-semiconductor-unit-kunlunxin-files-for-hong",
+      "publishedAt": "2026-01-02T05:08:12+00:00",
+      "date": "2026-01-02 05:08:12",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108233025-1764244459954-gettyimages-2226761556-tang-notitle250728_npWbw.jpeg?v=1767324080&w=1920&h=1080",
+      "url": "/tech-news/2026-01-02/baidus-semiconductor-unit-kunlunxin-files-for-hong/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [
+        "Baidu",
+        "Kunlunxin"
+      ],
+      "people": []
+    },
     {
       "title": "Čínská startup na AI čipy Biren vzrostla až o 119 % při debutu v Hong Kongu po získání přibližně 717 milionů dolarů v IPO za 2,52 USD na akcii (Bloomberg)",
       "description": "Akcie šanghajské společnosti Biren Technology Co. vzrostly při prvním obchodování v Hong Kongu téměř o 119 %. Firma tak získala v počáteční veřejné nabídce akcií kolem 717 milionů dolarů při ceně 2,52 USD za akcii.",
@@ -2722,27 +2882,6 @@
       "people": []
     },
     {
-      "title": "Čínská BYD se chystá překonat Tesla v prodejích elektromobilů v roce 2025",
-      "description": "Rostoucí čínský automobilový gigant BYD je na cestě oficiálně překonat Tesla jako největšího výrobce elektromobilů na světě podle ročních prodejů. Na základě dat do konce listopadu má BYD výrazný náskok před Teslou.",
-      "slug": "chinas-byd-poised-to-overtake-tesla-in-2025-ev-sal",
-      "publishedAt": "2025-12-29T01:27:20+00:00",
-      "date": "2025-12-29 01:27:20",
-      "importance": 4,
-      "category": "elektromobilita",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-29/chinas-byd-poised-to-overtake-tesla-in-2025-ev-sal/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digital Journal"
-      },
-      "companies": [
-        "BYD",
-        "Tesla"
-      ],
-      "people": []
-    },
-    {
       "title": "OpenAI hledá seniorního vedoucího přípravy na rizika, jak roste dohled nad bezpečností AI",
       "description": "OpenAI Group PBC nabízí pozici vedoucího přípravy, seniorní role zaměřenou na predikci potenciálních škod z umělých inteligencí modelů a navrhování opatření k jejich zmírnění při pokračujícím vývoji schopností. Role vede technickou strategii a provádění Preparedness Framework pro sledování hraničních schopností.",
       "slug": "openai-hiring-senior-preparedness-lead-as-ai-safet",
@@ -3530,28 +3669,6 @@
       "people": []
     },
     {
-      "title": "Čína uvolňuje pravidla pro úvod na burzu firem vyvíjejících opakovaně použitelné rakety",
-      "description": "Šanghajská burza umožní firmám vyvíjejícím opakovaně použitelné komerční rakety rychlejší úvod na STAR market bez některých finančních požadavků. Tento krok má pomoci Číně snížit náskok USA a SpaceX v technologii návratu a opětovného použití prvního stupně rakety.",
-      "slug": "china-eases-ipo-rules-for-firms-developing-reusabl",
-      "publishedAt": "2025-12-26T17:14:12+00:00",
-      "date": "2025-12-26 17:14:12",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108245896-17667685492025-12-24t144922z_119543610_rc2y8iatp2od_rtrmadp_0_space-china-landspace.jpeg?v=1766768568&w=1920&h=1080",
-      "url": "/tech-news/2025-12-26/china-eases-ipo-rules-for-firms-developing-reusabl/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNBC"
-      },
-      "companies": [
-        "SpaceX"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
       "title": "Nvidia licencuje technologii od AI hardware startupu Groq",
       "description": "Společnost Nvidia uzavírá licenční dohodu s firmou Groq, která vyvíjí specializované čipy pro umělou inteligenci. Tento krok umožní Nvidii přístup k pokročilé technologii pro zpracování AI modelů.",
       "slug": "midday-fly-by-nvidia-licensing-technology-from-ai-",
@@ -3864,24 +3981,6 @@
       "people": []
     },
     {
-      "title": "Čína uskutečnila první let opakovaně použitelné rakety Long March 12A v Jiuquan",
-      "description": "Čína provedla debutový let nosné rakety Long March 12A, při kterém se start podařil a druhý stupeň dosáhl předepsané orbity, avšak pokus o zotavení prvního stupně selhal. Raketa, vysoká 70,4 metru, je největší kosmickou nosičkou, kterou Čína dosud postavila.",
-      "slug": "china-debuts-long-march-12a-reusable-rocket-in-jiu",
-      "publishedAt": "2025-12-26T04:40:00+00:00",
-      "date": "2025-12-26 04:40:00",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://www.spxdaily.com/images-hg/china-long-march-12a-debut-launch-day-hg.jpg",
-      "url": "/tech-news/2025-12-26/china-debuts-long-march-12a-reusable-rocket-in-jiu/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Space Daily"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "GORDON CHANG: Trump předává 21. století Číně, zrušil Bidenovo embargo na prodej pokročilých čipů",
       "description": "Trumpovo rozhodnutí tento měsíc zrušit Bidenovo embargo na export pokročilých čipů do Číny a schválit prodej H200 je podle Gordona Changa závažnou chybou, která posílí čínskou konkurenci v AI.",
       "slug": "gordon-chang-trump-hands-21st-century-to-china-rev",
@@ -3944,102 +4043,6 @@
       "people": [
         "Elon Musk"
       ]
-    },
-    {
-      "title": "Skříň Pandorina Pentagonu je dokořán: USA integruje pokročilý „řetězec zabíjení řízený AI“ do vojenských a zpravodajských operací",
-      "description": "USA začleňuje pokročilé systémy umělé inteligence do svých vojenských a zpravodajských procesů, konkrétně do takzvaného kill chainu, což umožňuje autonomní rozhodování o cílech. Článek spojuje tuto vývoj s širším geopolitickým kontextem, včetně Huntingtonovy teorie střetu civilizací.",
-      "slug": "the-pentagons-pandoras-box-is-wide-open-the-us-int",
-      "publishedAt": "2025-12-25T15:55:30+00:00",
-      "date": "2025-12-25 15:55:30",
-      "importance": 4,
-      "category": "vojenská ai",
-      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2025/12/B_Pandora_Box.jpeg",
-      "url": "/tech-news/2025-12-25/the-pentagons-pandoras-box-is-wide-open-the-us-int/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Globalresearch.ca"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Použití AI k vyhnutí se odtažení auta",
-      "description": "Funkce FSD Summon od Tesly, technologie umělé inteligence a počítačové vidění pomohly majiteli vyhnout se odtažení vozu a ušetřit 400 dolarů. Případ demonstruje praktické možnosti autonomního parkování v reálném prostředí.",
-      "slug": "using-ai-to-avoid-getting-your-car-towed",
-      "publishedAt": "2025-12-25T15:00:02+00:00",
-      "date": "2025-12-25 15:00:02",
-      "importance": 4,
-      "category": "elektromobilita",
-      "urlToImage": "https://i.insider.com/694475bc64858d02d2171a76?width=1200&format=jpeg",
-      "url": "/tech-news/2025-12-25/using-ai-to-avoid-getting-your-car-towed/",
-      "source": {
-        "emoji": "📰",
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "companies": [
-        "Tesla"
-      ],
-      "people": []
-    },
-    {
-      "title": "ThreatsDay Bulletin: Skryté loadery, chyby AI chatbotů, exploity AI, hack Dockeru a dalších 15 příběhů",
-      "description": "Je stále těžší rozlišit, kde končí normální technologie a začíná zlomyslný záměr. Útočníci už nejen prolomí dveře – splynou s prostředím, převezmují běžné nástroje, důvěryhodné aplikace a dokonce AI asistenty.",
-      "slug": "threatsday-bulletin-stealth-loaders-ai-chatbot-fla",
-      "publishedAt": "2025-12-25T14:01:00+00:00",
-      "date": "2025-12-25 14:01:00",
-      "importance": 5,
-      "category": "kybernetika",
-      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLTZCBlcEQIEbZWXU3RR3B77xiWfU3KJqq8DjknH8ZNZtgGBsLgiYBO4BthMryQeog4ZEmsXaMCh6BUUCdWfibXHZ_NtEq40tdV5iiFUgpVRplI3zeRnRUm95-KlXosv-v08bOFoEL6IKWJdV0yB0OW5SFl0lE0R4D224pArrKv0Vverh8qRZrYEFALQx9/s790-rw-e365/threatsday.jpg",
-      "url": "/tech-news/2025-12-25/threatsday-bulletin-stealth-loaders-ai-chatbot-fla/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Internet"
-      },
-      "companies": [
-        "Docker"
-      ],
-      "people": []
-    },
-    {
-      "title": "Co skutečně získáte s Google AI Pro a AI Ultra v prosinci 2025",
-      "description": "Google tiše rozšířil a přestavěl své placené AI nabídky, takže v prosinci 2025 jsou rozdíly mezi bezplatnou verzí, Google AI Pro a Google AI Ultra výrazné v limitech, přístupu k modelům a kontextovém okně. Plány se liší v denní kapacitě, velikosti kontextu a odemčených produktech.",
-      "slug": "what-you-actually-get-with-google-ai-pro-and-ai-ul",
-      "publishedAt": "2025-12-25T11:10:50+00:00",
-      "date": "2025-12-25 11:10:50",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.ghacks.net/wp-content/uploads/2025/12/gHacks-articles-24.png",
-      "url": "/tech-news/2025-12-25/what-you-actually-get-with-google-ai-pro-and-ai-ul/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Ghacks Technology News"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "USA nebo Čína? Stát, který vyhraje závod v jaderné fúzi, ovládne globální primát",
-      "description": "Geopolitičtí analytici diskutují, zda USA a Čína vedou studenou válku nebo soutěž o globální dominanci. Článek argumentuje, že klíčem k úspěchu je závod v jaderné fúzi, která poskytne levnou energii pro AI a vojenské technologie.",
-      "slug": "us-or-china-the-nation-that-wins-the-nuclear-fusio",
-      "publishedAt": "2025-12-25T06:04:14+00:00",
-      "date": "2025-12-25 06:04:14",
-      "importance": 5,
-      "category": "jaderná fúze",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-25/us-or-china-the-nation-that-wins-the-nuclear-fusio/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Freerepublic.com"
-      },
-      "companies": [],
-      "people": []
     }
   ]
 }

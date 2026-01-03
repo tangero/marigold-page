@@ -1,0 +1,53 @@
+---
+author: Marisa Aigen
+category: ai čipy
+companies:
+- Baidu
+- Kunlunxin
+date: '2026-01-02 05:08:12'
+description: Baidu oznámil plány na oddělení své dceřiné společnosti Kunlunxin, která
+  se zabývá vývojem čipů pro umělou inteligenci, a její listování na burze v Hong
+  Kongu. Tento krok probíhá v kontextu amerických omezení exportu pokročilých čipů
+  a snahy Číny o soběstačnost v polovodičovém průmyslu.
+importance: 4
+layout: tech_news_article
+original_title: Baidu’s semiconductor unit Kunlunxin files for Hong Kong listing amid
+  AI chip boom in China
+publishedAt: '2026-01-02T05:08:12+00:00'
+slug: baidus-semiconductor-unit-kunlunxin-files-for-hong
+source:
+  emoji: 📰
+  id: null
+  name: CNBC
+title: Jednotka Baidu pro polovodiče Kunlunxin žádá o listování v Hong Kongu uprostřed
+  boomu AI čipů v Číně
+url: https://www.cnbc.com/2026/01/02/baidus-semiconductor-kunlunxin-hong-kong-ipo-ai-chips-listing-china.html
+urlToImage: https://image.cnbcfm.com/api/v1/image/108233025-1764244459954-gettyimages-2226761556-tang-notitle250728_npWbw.jpeg?v=1767324080&w=1920&h=1080
+urlToImageBackup: https://image.cnbcfm.com/api/v1/image/108233025-1764244459954-gettyimages-2226761556-tang-notitle250728_npWbw.jpeg?v=1767324080&w=1920&h=1080
+---
+
+## Souhrn
+Čínský technologický gigant Baidu podal důvěrnou žádost o listování své dceřiné společnosti Kunlunxin na hongkongské burze. Kunlunxin, která navrhuje čipy pro AI datová centra a cloudové výpočty, se má oddělit od mateřské firmy, přičemž Baidu si ponechá 59procentní podíl. Tento krok má podpořit nezávislý růst divize a přilákat investory do čínského AI hardware.
+
+## Klíčové body
+- Baidu vlastní přibližně 59 % Kunlunxin a plánuje spin-off, který vyžaduje schválení čínských regulátorů.
+- Kunlunxin přechází z interního dodavatele Baidu na prodejce čipů třetím stranám.
+- Opatření přichází v době amerických restrikcí na export Nvidia čipů do Číny a Pekingské kampaně za soběstačností v polovodičích.
+- Detaily emise, včetně velikosti a struktury, nejsou známy a úspěch není zaručen.
+- Kunlunxin zůstane dcerou Baidu po listování.
+
+## Podrobnosti
+Baidu, jeden z největších hráčů na čínském trhu s umělou inteligencí, který provozuje vyhledávač podobný Google a AI model Ernie Bot pro generování textu, obrázků a cloudové služby, dlouhodobě investuje do vlastních čipů. Kunlunxin, založená jako interní divize, vyvíjí specializované AI čipy jako Kunlun 2 a Kunlun 3, určené pro trénink velkých jazykových modelů (LLM) a inferenci v datových centrech. Tyto čipy slouží k akceleraci výpočtů v AI aplikacích, kde nahrazují Nvidia GPU, na které mají čínské firmy omezený přístup kvůli americkým sankcím z roku 2022 a následným krokům.
+
+Společnost nyní podala důvěrnou žádost na Hong Kong Stock Exchange (HKEX), což je běžná cesta pro čínské firmy hledající kapitál mimo pevninu kvůli přísnějším regulacím v Šanghaji nebo Shenzhen. Podle oznámení z pátek (údajně 28. července 2025 během World Artificial Intelligence Conference) má spin-off zdůraznit samostatný potenciál Kunlunxin, přilákat investory specializované na polovodiče a rozšířit možnosti financování. Baidu zdůrazňuje, že Kunlunxin se stává významným dodavatelem pro externí klienty, nejen interním pro své cloudové služby.
+
+Tento vývoj souvisí s širší strategií Pekingu, který mobilizoval miliardy juanů na podporu domácího čipového průmyslu prostřednictvím fondů jako National Integrated Circuit Industry Investment Fund. Americké omezení zahrnují zákaz prodeje pokročilých Nvidia H100 a A100 GPU, což nutí firmy jako Baidu, Alibaba nebo Tencent hledat alternativy. Kunlunxin tak konkuruje domácím rivalům jako Huawei Ascend nebo Cambricon, ale s výhodou Baiduina ekosystému dat pro optimalizaci čipů.
+
+## Proč je to důležité
+Listování Kunlunxin posílí čínskou soběstačnost v AI hardwaru, což je klíčové pro udržení tempa v závodě o umělou inteligenci proti USA. Pro průmysl to znamená více kapitálu pro vývoj čipů snižujících závislost na Nvidia, potenciálně snižujících náklady na AI trénink o desítky procent. Pro investory to otevíří přístup k čínskému AI čipovému boomu, kde trh roste rychleji než globálně díky státní podpoře. Nicméně úspěch závisí na schválení CSRC a globální poptávce po méně výkonných čipech oproti Nvidia Blackwell. Dlouhodobě to může urychlit vývoj čínských AI modelů, ale geopolitické rizika zůstávají vysoká.
+
+---
+
+[Číst původní článek](https://www.cnbc.com/2026/01/02/baidus-semiconductor-kunlunxin-hong-kong-ipo-ai-chips-listing-china.html)
+
+**Zdroj:** 📰 CNBC
