@@ -1,7 +1,131 @@
 {
-  "generated": "2026-01-03T12:47:10.999608+00:00",
+  "generated": "2026-01-03T16:38:32.461274+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Nvidijino AI impérium: Pohled na největší investice do startupů | TechCrunch",
+      "description": "Za poslední dva roky Nvidia investovala své rostoucí zdroje do více než 100 AI startupů. Zde jsou největší investice tohoto giganta v oblasti polovodičů.",
+      "slug": "nvidias-ai-empire-a-look-at-its-top-startup-invest",
+      "publishedAt": "2026-01-02T16:01:39+00:00",
+      "date": "2026-01-02 16:01:39",
+      "importance": 4,
+      "category": "ai startupy",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2183848501.jpg?resize=1200,800",
+      "url": "/tech-news/2026-01-02/nvidias-ai-empire-a-look-at-its-top-startup-invest/",
+      "source": {
+        "emoji": "🚀",
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "'Výsledky byly falšovány': Odcházející šéf AI Meta potvrzuje manipulaci benchmarků Llama 4",
+      "description": "Yann LeCun, odcházející hlavní vědec AI společnosti Meta a průkopník moderní umělé inteligence, přiznal, že benchmarky jazykového modelu Llama 4 byly před vydáním v dubnu 2025 mírně manipulovány. Tým použil různé varianty modelu pro různé testy, aby dosáhl lepších výsledků, což vedlo k interním změnám a odchodu klíčových lidí.",
+      "slug": "results-were-fudged-departing-meta-ai-chief-confir",
+      "publishedAt": "2026-01-02T16:00:00+00:00",
+      "date": "2026-01-02 16:00:00",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://a.fsdn.com/sd/topics/facebook_64.png",
+      "url": "/tech-news/2026-01-02/results-were-fudged-departing-meta-ai-chief-confir/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "companies": [
+        "Meta"
+      ],
+      "people": [
+        "Yann LeCun"
+      ]
+    },
+    {
+      "title": "Rivian Automotive (RIVN) odhaluje vlastní AI čipy a strategii autonomie, Needham zvyšuje cenový cíl",
+      "description": "Společnost Rivian Automotive (NASDAQ:RIVN) patří mezi nejlepší akcie pod 25 dolary k nákupu nyní. Dne 12. prosince analytik Needham Chris Pierce zvýšil cenový cíl akcie RIVN na 23 dolarů z 14 dolarů a zachoval doporučení Koupit po představení nových technologií autonomie.",
+      "slug": "rivian-automotive-rivn-unveils-custom-ai-chips-and",
+      "publishedAt": "2026-01-02T15:50:47+00:00",
+      "date": "2026-01-02 15:50:47",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/trzn8SA7znQVaJ4YaTOOGw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/insidermonkey.com/d773db7cd8d2d26109010d361d57105f",
+      "url": "/tech-news/2026-01-02/rivian-automotive-rivn-unveils-custom-ai-chips-and/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "Rivian Automotive"
+      ],
+      "people": []
+    },
+    {
+      "title": "Neobvyklé prohlášení šéfa Samsungu „Samsung je zpátky“ rozjíždí korejskou technologickou scénu",
+      "description": "Akcie Samsung Electronics vzrostly o 7,2 procenta na rekordní úroveň poté, co spoluvýkonný generální ředitel Jun Young Hyun v novoročním memorandu citoval zákazníky říkající „Samsung je zpátky“. To posílilo spekulace o blížícím se obchodu na dodávky pro Nvidia a podtrhlo roli firmy v AI boomu.",
+      "slug": "ceos-unusual-samsung-is-back-remark-galvanizes-kor",
+      "publishedAt": "2026-01-02T15:15:19+00:00",
+      "date": "2026-01-02 15:15:19",
+      "importance": 4,
+      "category": "elektronika",
+      "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/01/0103-mg-samsung.jpg",
+      "url": "/tech-news/2026-01-02/ceos-unusual-samsung-is-back-remark-galvanizes-kor/",
+      "source": {
+        "emoji": "📰",
+        "id": "financial-post",
+        "name": "Financial Post"
+      },
+      "companies": [
+        "Samsung Electronics Co"
+      ],
+      "people": []
+    },
+    {
+      "title": "Kde stojí Nvidia a polovodičové akcie před rokem 2026?",
+      "description": "Nvidia licencovala technologii AI inference a LPUs od společnosti Groq, aby posílila svou pozici vůči konkurenci custom ASIC čipů. Polovodičové akcie čelí krátkodobé volatilitě, ale mohou profitovat z růstu poptávky po AI v roce 2026, přičemž Nvidia vzrostla o 35 % v roce 2025.",
+      "slug": "where-does-nvidia-and-the-semiconductor-stocks-sta",
+      "publishedAt": "2026-01-02T15:11:27+00:00",
+      "date": "2026-01-02 15:11:27",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://biztoc.com/cdn/3e3c71321d58761a_s.webp",
+      "url": "/tech-news/2026-01-02/where-does-nvidia-and-the-semiconductor-stocks-sta/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "companies": [
+        "Nvidia",
+        "Groq"
+      ],
+      "people": []
+    },
+    {
+      "title": "Prodeje Tesly klesly o 16 % ve čtvrtém čtvrtletí kvůli rivalům a ztrátě daňového kreditu na elektromobily",
+      "description": "Dodávky Tesly ve čtvrtém čtvrtletí klesly o 16 % na 418 227 vozidel, přičemž ji překonal čínský BYD; ztráta 7500dolarového federálního daňového kreditu a globální konkurence ovlivnily prodeje.",
+      "slug": "tesla-sales-fall-16-in-q4-amid-rivals-ev-credit-lo",
+      "publishedAt": "2026-01-02T15:07:33+00:00",
+      "date": "2026-01-02 15:07:33",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://s.hdnux.com/photos/01/55/06/23/28599510/6/rawImage.jpg",
+      "url": "/tech-news/2026-01-02/tesla-sales-fall-16-in-q4-amid-rivals-ev-credit-lo/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Austin American-Statesman"
+      },
+      "companies": [
+        "Tesla",
+        "BYD"
+      ],
+      "people": []
+    },
     {
       "title": "Jak Nokia přešla z oběti iPhonu k jednomiliardové dohodě s Nvidia",
       "description": "Nokia, finská společnost, jejíž ikonický vyzváněcí tón se přehrával odhadovaně 1,8 miliardykrát denně na vrcholu dominance na trhu mobilních telefonů a jejíž model 3310 se prodal v 126 milionech kusů, se znovu vynalezla – tentokrát jako klíčová součást AI infrastruktury.",
@@ -3764,29 +3888,6 @@
       "people": []
     },
     {
-      "title": "MEDIROM spolupracuje s World – Nasazení infrastruktury „Proof of Human“ po celém Japonsku, technologie od Sama Altmana a Alexa Blanii",
-      "description": "Společnost MEDIROM Healthcare Technologies uzavřela hlavní servisní smlouvu s Tools for Humanity a World Foundation na provoz ověřovacích míst Proof of Human v Japonsku. Projekt World, spoluzaložený Samem Altmanem, řeší problém odlišení lidí od AI pomocí biometrického ověření a blockchainu.",
-      "slug": "medirom-partners-with-world",
-      "publishedAt": "2025-12-26T22:55:00+00:00",
-      "date": "2025-12-26 22:55:00",
-      "importance": 4,
-      "category": "biometrie",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/6c5821a7-6122-4597-b099-5613e5e214d8",
-      "url": "/tech-news/2025-12-26/medirom-partners-with-world/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [
-        "MEDIROM"
-      ],
-      "people": [
-        "Sam Altman",
-        "Alex Blania"
-      ]
-    },
-    {
       "title": "Akcie Targetu rostou po zprávě o aktivistickém investorovi, dohoda Nvidia s Groq",
       "description": "Prezenter Josh Lipton rozebírá klíčové trendy dne, včetně zprávy Financial Times o budování pozice aktivistického investora v Targetu, poklesu cen ropy a licenční dohody Nvidia s AI čipovým startupem Groq za 20 miliard dolarů.",
       "slug": "target-rises-on-report-of-activist-investor-nvidia",
@@ -3800,27 +3901,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Yahoo Entertainment"
-      },
-      "companies": [
-        "Nvidia",
-        "Groq"
-      ],
-      "people": []
-    },
-    {
-      "title": "Dohoda Nvidia-Groq je strukturována tak, aby udržela 'fikci konkurence naživu', říká analytik",
-      "description": "Popis Groq své dohody s Nvidia jako 'nevýlučné licenční dohody' napodobuje jiné nedávné velké AI transakce řízené americkými technologickými giganty.",
-      "slug": "nvidia-groq-deal-is-structured-to-keep-fiction-of-",
-      "publishedAt": "2025-12-26T19:31:39+00:00",
-      "date": "2025-12-26 19:31:39",
-      "importance": 5,
-      "category": "ai",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108228463-1763575188806-gettyimages-2246892118-AFP_84JG4H7.jpeg?v=1766774718&w=1920&h=1080",
-      "url": "/tech-news/2025-12-26/nvidia-groq-deal-is-structured-to-keep-fiction-of/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNBC"
       },
       "companies": [
         "Nvidia",
@@ -3850,48 +3930,6 @@
       "people": []
     },
     {
-      "title": "Nvidia licencuje technologii od AI hardware startupu Groq",
-      "description": "Společnost Nvidia uzavírá licenční dohodu s firmou Groq, která vyvíjí specializované čipy pro umělou inteligenci. Tento krok umožní Nvidii přístup k pokročilé technologii pro zpracování AI modelů.",
-      "slug": "midday-fly-by-nvidia-licensing-technology-from-ai-",
-      "publishedAt": "2025-12-26T17:07:49+00:00",
-      "date": "2025-12-26 17:07:49",
-      "importance": 4,
-      "category": "ai hardware",
-      "urlToImage": "https://image.thefly.com/catalog/202112/img_1285.jpg",
-      "url": "/tech-news/2025-12-26/midday-fly-by-nvidia-licensing-technology-from-ai/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Thefly.com"
-      },
-      "companies": [
-        "Nvidia",
-        "Groq"
-      ],
-      "people": []
-    },
-    {
-      "title": "Nvidia získává technologii a talenty od výrobce čipů pro inference Groq",
-      "description": "Nvidia potvrdila, že uzavřela neexkluzivní licenční smlouvu na duševní vlastnictví inference technologie od Groq a najala si inženýry z jejího týmu. Groq zůstane nezávislou společností s novým generálním ředitelem.",
-      "slug": "nvidia-acquires-tech-and-talent-from-inference-chi",
-      "publishedAt": "2025-12-26T15:40:27+00:00",
-      "date": "2025-12-26 15:40:27",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2023/12/Nvidia.jpg",
-      "url": "/tech-news/2025-12-26/nvidia-acquires-tech-and-talent-from-inference-chi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "pymnts.com"
-      },
-      "companies": [
-        "Nvidia",
-        "Groq"
-      ],
-      "people": []
-    },
-    {
       "title": "Tento malý čip by mohl změnit budoucnost kvantových počítačů",
       "description": "Nové zařízení velikosti mikročipu umožňuje přesné ovládání frekvencí laserů s nízkou spotřebou energie oproti současným objemným systémům. Je vyrobeno standardními metodami výroby čipů, což usnadňuje masovou produkci a otevírá cestu k větším kvantovým počítačům.",
       "slug": "this-tiny-chip-could-change-the-future-of-quantum-",
@@ -3907,46 +3945,6 @@
         "name": "Science Daily"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Motive podává žádost na IPO, což signalizuje další fázi soutěže v technologiích pro flotily",
-      "description": "Poskytovatel flotilní telematiky Motive podal dokumenty k vstupu na burzu, což by mohlo zesílit konkurenci na trhu technologí pro nákladní dopravu. Tento krok podtrhuje rostoucí roli softwaru jako klíčové infrastruktury pro dopravce čelící úzkým maržím a regulačním tlakům.",
-      "slug": "motive-files-for-ipo-signaling-next-phase-of-fleet",
-      "publishedAt": "2025-12-26T15:21:02+00:00",
-      "date": "2025-12-26 15:21:02",
-      "importance": 4,
-      "category": "flotilní telematika",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/116zdBF.ShYSnORCR8QZAw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzQ-/https://media.zenfs.com/en/freightwaves_373/ac2b49d20a83ecfa1a731862ca969e41",
-      "url": "/tech-news/2025-12-26/motive-files-for-ipo-signaling-next-phase-of-fleet/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [
-        "Motive"
-      ],
-      "people": []
-    },
-    {
-      "title": "Nvidia plánuje zahájit dodávky výkonných H200 AI čipů do Číny do poloviny února",
-      "description": "Nvidia chce spustit dodávky svých druhých nejvýkonnějších AI čipů H200 do Číny před lunárním novým rokem v polovině února, uvedly zdroje obeznámené se situací. Tato dodávka představuje změnu v americké politice po uvolnění omezení ze strany administrativy Donalda Trumpa.",
-      "slug": "nvidia-plans-to-begin-shipping-powerful-h200-ai-ch",
-      "publishedAt": "2025-12-26T15:00:01+00:00",
-      "date": "2025-12-26 15:00:01",
-      "importance": 4,
-      "category": "ai hardware",
-      "urlToImage": "https://media.breitbart.com/media/2025/12/Jensen-Huang-of-Nvidia-holding-chips-bound-for-China-640x335.jpg",
-      "url": "/tech-news/2025-12-26/nvidia-plans-to-begin-shipping-powerful-h200-ai-ch/",
-      "source": {
-        "emoji": "📰",
-        "id": "breitbart-news",
-        "name": "Breitbart News"
-      },
-      "companies": [
-        "Nvidia"
-      ],
       "people": []
     },
     {
