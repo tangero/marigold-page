@@ -1,7 +1,90 @@
 {
-  "generated": "2026-01-02T20:32:56.157963+00:00",
+  "generated": "2026-01-03T01:18:34.817383+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "[Rozhovor] Nový generální ředitel FläktGroup David Dorney o růstu, synergiích a budoucnosti HVAC",
+      "description": "Samsung Electronics získal FläktGroup, předního globálního dodavatele řešení HVAC (topení, ventilace a klimatizace), aby výrazně posílil svou pozici na rychle rostoucím trhu HVAC. Akvizice byla dokončena v listopadu minulého roku.",
+      "slug": "interview-new-fläktgroup-ceo-david-dorney-on-growt",
+      "publishedAt": "2026-01-02T00:54:42+00:00",
+      "date": "2026-01-02 00:54:42",
+      "importance": 5,
+      "category": "klimatizační systémy",
+      "urlToImage": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/01/31130912/Samsung-Digital-Appliances-FlaktGroup-CEO-David-Dorney-on-Growth-Synergy-and-the-Future-of-HVAC-Interview_Thumb932.jpg",
+      "url": "/tech-news/2026-01-02/interview-new-fläktgroup-ceo-david-dorney-on-growt/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Samsung.com"
+      },
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "people": [
+        "David Dorney"
+      ]
+    },
+    {
+      "title": "AI čipová divize Baidu Kunlunxin důvěrně podala žádost o listing na hongkongské burze",
+      "description": "Divize Kunlunxin, která vyvíjí AI čipy pro Baidu, podala 1. ledna důvěrnou žádost o úvod na burzu v Hong Kongu. Tento krok připravuje půdu pro spin-off a samostatný listing, přičemž firma byla nedávno ohodnocena na 21 miliard čínských juanů.",
+      "slug": "baidus-ai-chip-arm-kunlunxin-files-confidentially-",
+      "publishedAt": "2026-01-01T23:55:27+00:00",
+      "date": "2026-01-01 23:55:27",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_3_1733465099406_1733465108677.png",
+      "url": "/tech-news/2026-01-01/baidus-ai-chip-arm-kunlunxin-files-confidentially/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Livemint"
+      },
+      "companies": [
+        "Baidu",
+        "Kunlunxin"
+      ],
+      "people": []
+    },
+    {
+      "title": "Model Gemini 3.0 Pro od Google pomohl vyřešit dlouho nevyřešenou záhadu v Norimberské kronice",
+      "description": "Jazykový model Gemini 3.0 Pro od Google přinesl pokrok v multimodálním uvažování tím, že pomohl dekódovat ruční poznámky v 500 let starém exempláři Norimberské kronice z roku 1493. Tyto poznámky, známé jako roundels, obsahují zkrácenou latinu a římská číslice, jejichž význam zůstal staletí nevyřešený.",
+      "slug": "googles-gemini-30-pro-helps-solve-long-standing-my",
+      "publishedAt": "2026-01-01T23:50:58+00:00",
+      "date": "2026-01-01 23:50:58",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/4987165508_30008bc80e_c.jpg",
+      "url": "/tech-news/2026-01-01/googles-gemini-30-pro-helps-solve-long-standing-my/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Zpráva: OpenAI plánuje spustit nový audio model v prvním čtvrtletí",
+      "description": "OpenAI Group PBC vyvíjí nový model umělé inteligence optimalizovaný pro generování audia. Podle zdrojů by měl být spuštěn do konce března a přinést přirozenější řeč než současné modely spolu s lepší podporou interakcí v reálném čase.",
+      "slug": "report-openai-plans-to-launch-new-audio-model-in-t",
+      "publishedAt": "2026-01-01T23:44:05+00:00",
+      "date": "2026-01-01 23:44:05",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/OpenAI.png",
+      "url": "/tech-news/2026-01-01/report-openai-plans-to-launch-new-audio-model-in-t/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
     {
       "title": "Křemíkový implantát velikosti poštovní známky okamžitě pošle vaše myšlenky AI",
       "description": "Výzkumníci z Columbia University vyvinuli tenký implantát BISC, který umožňuje bezdrátové rozhraní mezi mozkem a počítačem s 65 536 elektrodami. Tento subduralní systém cílí na pacienty s epilepsií, mrtvicemi, amyotrofní laterální sklerózou nebo slepotou, kteří jsou uvězněni ve vlastním těle.",
@@ -3762,27 +3845,6 @@
       "people": []
     },
     {
-      "title": "Nvidia uskutečňuje největší akvizici v historii dohodou s Groq",
-      "description": "Nvidia kupuje aktiva AI čipového startupu Groq za přibližně 20 miliard dolarů, což je její největší obchod dosud. Dohoda zahrnuje licenci na technologii Groq a najmutí klíčových manažerů.",
-      "slug": "nvidia-makes-its-largest-ever-purchase-with-groq-a",
-      "publishedAt": "2025-12-25T22:52:37+00:00",
-      "date": "2025-12-25 22:52:37",
-      "importance": 5,
-      "category": "ai",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-25/nvidia-makes-its-largest-ever-purchase-with-groq-a/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "companies": [
-        "Nvidia",
-        "Groq"
-      ],
-      "people": []
-    },
-    {
       "title": "Skříň Pandorina Pentagonu je dokořán: USA integruje pokročilý „řetězec zabíjení řízený AI“ do vojenských a zpravodajských operací",
       "description": "USA začleňuje pokročilé systémy umělé inteligence do svých vojenských a zpravodajských procesů, konkrétně do takzvaného kill chainu, což umožňuje autonomní rozhodování o cílech. Článek spojuje tuto vývoj s širším geopolitickým kontextem, včetně Huntingtonovy teorie střetu civilizací.",
       "slug": "the-pentagons-pandoras-box-is-wide-open-the-us-int",
@@ -3841,27 +3903,6 @@
       "people": []
     },
     {
-      "title": "Nvidia uzavírá masivní dohodu na 20 miliard dolarů na AI čipy s Groq",
-      "description": "Nvidia uzavřela dohodu se startupem Groq na AI čipy v hodnotě až 20 miliard USD. Podle Bloombergu jde o technologickou licenci, která může významně ovlivnit trh s hardwarem pro umělou inteligenci.",
-      "slug": "nvidia-lands-massive-20b-ai-chip-deal-with-groq",
-      "publishedAt": "2025-12-25T13:10:26+00:00",
-      "date": "2025-12-25 13:10:26",
-      "importance": 4,
-      "category": "ai čipy",
-      "urlToImage": "https://cdn.iphoneincanada.ca/wp-content/uploads/2025/09/nvidia.jpg",
-      "url": "/tech-news/2025-12-25/nvidia-lands-massive-20b-ai-chip-deal-with-groq/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "iPhone in Canada"
-      },
-      "companies": [
-        "Nvidia",
-        "Groq"
-      ],
-      "people": []
-    },
-    {
       "title": "Co skutečně získáte s Google AI Pro a AI Ultra v prosinci 2025",
       "description": "Google tiše rozšířil a přestavěl své placené AI nabídky, takže v prosinci 2025 jsou rozdíly mezi bezplatnou verzí, Google AI Pro a Google AI Ultra výrazné v limitech, přístupu k modelům a kontextovém okně. Plány se liší v denní kapacitě, velikosti kontextu a odemčených produktech.",
       "slug": "what-you-actually-get-with-google-ai-pro-and-ai-ul",
@@ -3901,27 +3942,6 @@
         "Anthropic",
         "Google DeepMind",
         "Meta"
-      ],
-      "people": []
-    },
-    {
-      "title": "Nvidia přitahuje špičkové zaměstnance z startupu na AI čipy Groq v rámci licenční dohody - Financial Times",
-      "description": "Nvidia uzavírá licenční dohodu se startupem Groq, přitahuje jeho klíčové zaměstnance a podle zdrojů kupuje aktiva za přibližně 20 miliard dolarů, což by byl největší deal v historii. Jedná se o strategické posílení v oblasti AI čipů pro inferenci.",
-      "slug": "nvidia-to-poach-top-staff-from-ai-chip-start-up-gr",
-      "publishedAt": "2025-12-25T10:12:21+00:00",
-      "date": "2025-12-25 10:12:21",
-      "importance": 5,
-      "category": "ai čipy",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-25/nvidia-to-poach-top-staff-from-ai-chip-start-up-gr/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "companies": [
-        "Nvidia",
-        "Groq"
       ],
       "people": []
     },
@@ -3977,27 +3997,6 @@
         "name": "Cointelegraph"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Nvidia licencuje technologii inference od Groq, klíčoví manažeři Groq přecházejí do čipového výrobce",
-      "description": "Nvidia uzavírá partnerství s Groq za účelem rozšíření přístupu k technologii pro odvozování v umělé inteligenci a údajně získává aktiva této firmy. Manažeři Groq, včetně generálního ředitele, se připojí k Nvidia.",
-      "slug": "nvidia-licenses-groq-inference-technology-groq-exe",
-      "publishedAt": "2025-12-25T05:04:39+00:00",
-      "date": "2025-12-25 05:04:39",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/657543518/image_657543518.jpg?io=getty-c-w630",
-      "url": "/tech-news/2025-12-25/nvidia-licenses-groq-inference-technology-groq-exe/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Seeking Alpha"
-      },
-      "companies": [
-        "Nvidia",
-        "Groq"
-      ],
       "people": []
     },
     {
