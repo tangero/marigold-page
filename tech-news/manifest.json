@@ -1,7 +1,209 @@
 {
-  "generated": "2026-01-03T08:42:47.147562+00:00",
+  "generated": "2026-01-03T12:47:10.999608+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Jak Nokia přešla z oběti iPhonu k jednomiliardové dohodě s Nvidia",
+      "description": "Nokia, finská společnost, jejíž ikonický vyzváněcí tón se přehrával odhadovaně 1,8 miliardykrát denně na vrcholu dominance na trhu mobilních telefonů a jejíž model 3310 se prodal v 126 milionech kusů, se znovu vynalezla – tentokrát jako klíčová součást AI infrastruktury.",
+      "slug": "how-nokia-went-from-iphone-victim-to-1-billion-nvi",
+      "publishedAt": "2026-01-02T12:00:00+00:00",
+      "date": "2026-01-02 12:00:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://a.fsdn.com/sd/topics/business_64.png",
+      "url": "/tech-news/2026-01-02/how-nokia-went-from-iphone-victim-to-1-billion-nvi/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "companies": [
+        "Nokia",
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Eric Schmidt, bývalý šéf Google, vstupuje do byznysu s datovými centry pro AI s neúspěšnou 150letou texaskou železnicí přeměněnou na ropný gigant",
+      "description": "Bolt a Texas Pacific Land chtějí přilákat hyperscalery na míru přizpůsobenými službami půdy, energie a vody pro areály datových center. Spolupráce spojuje Schmidtvu expertizu v AI s obrovskými zdroji texaské firmy.",
+      "slug": "google-ex-ceo-eric-schmidt-jumps-into-the-ai-data-",
+      "publishedAt": "2026-01-02T12:00:00+00:00",
+      "date": "2026-01-02 12:00:00",
+      "importance": 4,
+      "category": "datová centra",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-1241460440-e1767203494658.jpg?resize=1200,600",
+      "url": "/tech-news/2026-01-02/google-ex-ceo-eric-schmidt-jumps-into-the-ai-data/",
+      "source": {
+        "emoji": "📰",
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "companies": [
+        "Google",
+        "Bolt"
+      ],
+      "people": [
+        "Eric Schmidt"
+      ]
+    },
+    {
+      "title": "Od venkovského Španělska k válce: Binéfar se stává evropským vzorem ve vojenské robotice",
+      "description": "Továrna na vojenskou robotiku na španělském venkově se stala klíčovým hráčem v evropském obranném průmyslu, exportuje technologii do více než 20 zemí a transformuje ekonomiku a zaměstnanost v malém aragonském městě.",
+      "slug": "from-rural-spain-to-war-binéfar-becomes-a-european",
+      "publishedAt": "2026-01-02T11:41:13+00:00",
+      "date": "2026-01-02 11:41:13",
+      "importance": 4,
+      "category": "vojenská robotika",
+      "urlToImage": "https://biztoc.com/cdn/b1629d30f1bcda15_s.webp",
+      "url": "/tech-news/2026-01-02/from-rural-spain-to-war-binéfar-becomes-a-european/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Google Gemini 3 Computer Use: Zdarma AI nástroj pro automatizaci libovolných úkolů",
+      "description": "Google Gemini 3.0 s funkcí Computer Use umožňuje automatizovat repetitivní úkoly v digitálním prostředí díky multimodálnímu porozumění a analýze uživatelských rozhraní. Tento systém je zdarma dostupný přes Google AI Studio a podporuje aplikace od správy dat po plánování úkolů.",
+      "slug": "google-gemini-3-computer-use-free-ai-browser-lets-",
+      "publishedAt": "2026-01-02T11:00:33+00:00",
+      "date": "2026-01-02 11:00:33",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/01/gemini-flash-screen-reading-benchmark_optimized.jpg",
+      "url": "/tech-news/2026-01-02/google-gemini-3-computer-use-free-ai-browser-lets/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Čínský výrobce AI čipů Biren vyskočil o 76 % v nejnovějším IPO v Hong Kongu",
+      "description": "Akcie čínské firmy Shanghai Biren Technology, která navrhuje AI čipy, vzrostly o 76 % při svém debutu na burze v Hong Kongu. Jednalo se o první emisi akcií v tomto finančním centru v roce 2026.",
+      "slug": "chinas-ai-chipmaker-biren-jumps-76-in-latest-hong-",
+      "publishedAt": "2026-01-02T10:57:26+00:00",
+      "date": "2026-01-02 10:57:26",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://biztoc.com/cdn/dc8e275f6cd73f56_s.webp",
+      "url": "/tech-news/2026-01-02/chinas-ai-chipmaker-biren-jumps-76-in-latest-hong/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "companies": [
+        "Shanghai Biren Technology"
+      ],
+      "people": []
+    },
+    {
+      "title": "BYD splnil prodejní cíl a pravděpodobně svrhl Tesla z pozice největšího výrobce elektromobilů",
+      "description": "Šen-čenský výrobce automobilů dodávky 4,6 milionu vozidel loni, což představuje nárůst o 7,7 % oproti roku 2024. Společnost tak pravděpodobně překonala Teslu a stala se světovým lídrem v elektromobilitě.",
+      "slug": "byd-hits-sales-goal-set-to-topple-tesla-as-biggest",
+      "publishedAt": "2026-01-02T10:55:00+00:00",
+      "date": "2026-01-02 10:55:00",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/G4CG7NQHGJG2BIQZVBQ3OQH2EQ.jpg?smart=true&auth=62b85c4fe27c97b0bbf16deea32c623cd3fd5e830e77b436cde37b3eadc6a11c&width=1200&height=630",
+      "url": "/tech-news/2026-01-02/byd-hits-sales-goal-set-to-topple-tesla-as-biggest/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "companies": [
+        "BYD",
+        "Tesla"
+      ],
+      "people": []
+    },
+    {
+      "title": "Plány Applu na rok 2026: Skládací telefony, OLED MacBooky a zaměření na AI",
+      "description": "Apple prý připravuje pro rok 2026 významný útok nových produktů, včetně prvního skládacího iPhonu a MacBooků s OLED displeji. Společnost může také představit chytré brýle poháněné AI a levnější varianty iPhonu a MacBooků.",
+      "slug": "apples-2026-playbook-foldables-oled-macs-and-an-ai",
+      "publishedAt": "2026-01-02T10:50:54+00:00",
+      "date": "2026-01-02 10:50:54",
+      "importance": 4,
+      "category": "hardware",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126304443,width-1200,height-630,imgsize-20146,overlay-etpanache/articleshow.jpg",
+      "url": "/tech-news/2026-01-02/apples-2026-playbook-foldables-oled-macs-and-an-ai/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Čip Apple A20 zdraží o 80 procent na 280 dolarů za kus",
+      "description": "Nadcházející čip Apple A20, určený pro budoucí modely iPhonu, bude vyrábět TSMC na pokročilém 2nm procesu, což zvýší cenu na 280 USD za kus – o 80 procent více než u A19. Tento nárůst souvisí s novými technologiemi jako nanosheet tranzistory a vysokovýkonnými kondenzátory.",
+      "slug": "apples-a20-chip-to-see-an-80-percent-cost-hike-to-",
+      "publishedAt": "2026-01-02T10:34:17+00:00",
+      "date": "2026-01-02 10:34:17",
+      "importance": 4,
+      "category": "hardware",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/11/A20-and-A20-Pro-3.jpg",
+      "url": "/tech-news/2026-01-02/apples-a20-chip-to-see-an-80-percent-cost-hike-to/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Wccftech"
+      },
+      "companies": [
+        "Apple",
+        "TSMC"
+      ],
+      "people": []
+    },
+    {
+      "title": "Akcie designéra AI čipů Biren vyskočily o 76 % na burzovním debutu v Hong Kongu",
+      "description": "Akcie společnosti Shanghai Biren Technology Co. vzrostly téměř o 76 % během prvního obchodního dne v pátek, což představuje nejlepší výkon od začátku roku 2021 mezi emise v Hong Kongu s objemem nejméně 700 milionů dolarů. Biren, čínský výrobce čipů pro umělou inteligenci, tak signalizuje rostoucí zájem investorů o domácí alternativy k západním technologiím.",
+      "slug": "ai-chip-designer-birens-shares-surge-76-on-debut-i",
+      "publishedAt": "2026-01-02T10:24:47+00:00",
+      "date": "2026-01-02 10:24:47",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://biztoc.com/cdn/2dbce869526a0e0b_s.webp",
+      "url": "/tech-news/2026-01-02/ai-chip-designer-birens-shares-surge-76-on-debut-i/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "companies": [
+        "Shanghai Biren Technology Co"
+      ],
+      "people": []
+    },
+    {
+      "title": "Čína a Amerika se musí vážně zabývat riziky AI",
+      "description": "Závod o vedení v vojenské, zpravodajské a komerční AI – a o globální adopci amerických nebo čínských modelů – se jen zintenzivní. Jako národní bezpečnostní poradce jsem pracoval na přípravě USA na každý scénář v nejistém spektru rizik.",
+      "slug": "china-and-america-must-get-serious-about-ai-risk",
+      "publishedAt": "2026-01-02T10:00:36+00:00",
+      "date": "2026-01-02 10:00:36",
+      "importance": 4,
+      "category": "ai rizika",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2025/12/31/1600x900/logo/China_US_PS_AFP_1767179428162_1767179438515.jpg",
+      "url": "/tech-news/2026-01-02/china-and-america-must-get-serious-about-ai-risk/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Livemint"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Čínská BYD se chystá překonat Tesla v prodejích elektromobilů v roce 2025",
       "description": "Rostoucí čínský automobilový gigant BYD je připraven oficiálně překonat Tesla jako největšího výrobce elektromobilů podle ročních prodejích. Do konce listopadu prodala 2,07 milionu kusů elektromobilů.",
@@ -3562,27 +3764,6 @@
       "people": []
     },
     {
-      "title": "Coforge získá Encora za 2,35 miliardy dolarů v dealu na technologické služby",
-      "description": "Poskytovatel IT služeb Coforge Ltd. oznámil plány na akvizici rivala Encora Digital LLC za 2,35 miliardy dolarů. Společnost, obchodovaná na dvou indických burzách, transakci zaplatí akcie a mostní úvěr v hodnotě až 550 milionů dolarů.",
-      "slug": "coforge-to-acquire-encora-in-235b-technology-servi",
-      "publishedAt": "2025-12-26T23:42:12+00:00",
-      "date": "2025-12-26 23:42:12",
-      "importance": 5,
-      "category": "it služby",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Coforge.png",
-      "url": "/tech-news/2025-12-26/coforge-to-acquire-encora-in-235b-technology-servi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Coforge Ltd",
-        "Encora Digital LLC"
-      ],
-      "people": []
-    },
-    {
       "title": "MEDIROM spolupracuje s World – Nasazení infrastruktury „Proof of Human“ po celém Japonsku, technologie od Sama Altmana a Alexa Blanii",
       "description": "Společnost MEDIROM Healthcare Technologies uzavřela hlavní servisní smlouvu s Tools for Humanity a World Foundation na provoz ověřovacích míst Proof of Human v Japonsku. Projekt World, spoluzaložený Samem Altmanem, řeší problém odlišení lidí od AI pomocí biometrického ověření a blockchainu.",
       "slug": "medirom-partners-with-world",
@@ -3729,27 +3910,6 @@
       "people": []
     },
     {
-      "title": "LG Energy Solution prodá továrnu na baterie v Ohiu společnosti Honda za 2,85 miliardy dolarů",
-      "description": "Jižní Korejská LG Energy Solution souhlasila s prodejem budovy a pevných aktiv své továrny na baterie pro elektromobily v Ohiu společnosti Honda Development and Manufacturing of America za 4,22 bilionu jihokorejských wonů, což odpovídá 2,85 miliardám amerických dolarů. Transakce byla oznámena v firemních zprávách.",
-      "slug": "lg-energy-solution-to-sell-ohio-battery-facility-t",
-      "publishedAt": "2025-12-26T15:30:00+00:00",
-      "date": "2025-12-26 15:30:00",
-      "importance": 5,
-      "category": "elektromobilita",
-      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/news/718x300/2025-12-26_ar5tm3m4bi.jpg",
-      "url": "/tech-news/2025-12-26/lg-energy-solution-to-sell-ohio-battery-facility-t/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "OilPrice.com"
-      },
-      "companies": [
-        "LG Energy Solution",
-        "Honda"
-      ],
-      "people": []
-    },
-    {
       "title": "Motive podává žádost na IPO, což signalizuje další fázi soutěže v technologiích pro flotily",
       "description": "Poskytovatel flotilní telematiky Motive podal dokumenty k vstupu na burzu, což by mohlo zesílit konkurenci na trhu technologí pro nákladní dopravu. Tento krok podtrhuje rostoucí roli softwaru jako klíčové infrastruktury pro dopravce čelící úzkým maržím a regulačním tlakům.",
       "slug": "motive-files-for-ipo-signaling-next-phase-of-fleet",
@@ -3790,46 +3950,6 @@
       "people": []
     },
     {
-      "title": "Jak čínská kontrola nad dodavatelskými řetězci baterií představuje kritické riziko pro americkou vojenskou sílu a projekty AI – snížení závislosti potrvá téměř dekádu",
-      "description": "Podle speciální zprávy New York Times je americká vláda znepokojená čínskou dominancí v ekosystému baterií, kde kontroluje velké části výroby a zpracování. Tato závislost ohrožuje AI tréninkové clustery, datacentra, drony i vojenská vozidla.",
-      "slug": "how-chinas-control-of-battery-supply-chains-is-bec",
-      "publishedAt": "2025-12-26T14:39:02+00:00",
-      "date": "2025-12-26 14:39:02",
-      "importance": 4,
-      "category": "dodavatelské řetězce",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/UdAsVitvHGrQrh5KwxDEy3-1920-80.png",
-      "url": "/tech-news/2025-12-26/how-chinas-control-of-battery-supply-chains-is-bec/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Od OpenAI po Nvidia: Firmy nalévají miliardy do infrastruktury pro umělou inteligenci při boomu poptávky",
-      "description": "Nvidia uzavřela dohodu o licencování technologie od AI startupu Groq pro použití v některých svých čipech pro umělou inteligenci, což je největší deal tohoto výrobce čipů a podtrhuje snahu posílit konkurenceschopnost v době rostoucí poptávky.",
-      "slug": "from-openai-to-nvidia-firms-channel-billions-into-",
-      "publishedAt": "2025-12-26T11:43:38+00:00",
-      "date": "2025-12-26 11:43:38",
-      "importance": 4,
-      "category": "ai infrastruktura",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-65846,resizemode-75,msid-126189709/tech/artificial-intelligence/from-openai-to-nvidia-firms-channel-billions-into-ai-infrastructure-as-demand-booms.jpg",
-      "url": "/tech-news/2025-12-26/from-openai-to-nvidia-firms-channel-billions-into/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "OpenAI",
-        "Nvidia",
-        "Groq"
-      ],
-      "people": []
-    },
-    {
       "title": "Šéf Tesly Elon Musk tvrdí, že AI a robotika jsou 'jediný způsob', jak udělat všechny bohaté",
       "description": "Elon Musk slibuje, že AI a robotika udělají všechny bohaté a práci volitelnou. Mluvy v Dubaji, Tesla Optimus a rizika vize univerzální hojnosti prozkoumány.",
       "slug": "tesla-ceo-elon-musk-claims-ai-and-robotics-are-onl",
@@ -3850,28 +3970,6 @@
       "people": [
         "Elon Musk"
       ]
-    },
-    {
-      "title": "Jak 'strach a hrozba od Google' donutila Nvidia utratit 20 miliard dolarů",
-      "description": "Nvidia získala aktiva startupu Groq na AI čipy za 20 miliard dolarů, což je obranný tah proti rostoucímu trendu používání vlastních čipů jako Google TPUs. Akvizice reaguje na nedostatek GPU a touhu firem po levnějším a rychlejším zpracování AI úloh.",
-      "slug": "how-google-fear-and-threat-just-made-nvidia-just-s",
-      "publishedAt": "2025-12-26T10:45:44+00:00",
-      "date": "2025-12-26 10:45:44",
-      "importance": 5,
-      "category": "ai čipy",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-126188783,width-1070,height-580,imgsize-1254951,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
-      "url": "/tech-news/2025-12-26/how-google-fear-and-threat-just-made-nvidia-just-s/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Nvidia",
-        "Groq",
-        "Google"
-      ],
-      "people": []
     },
     {
       "title": "ServiceNow podepisuje dohodu o akvizici Armis za 7,75 miliardy dolarů",
@@ -3913,52 +4011,6 @@
       "people": []
     },
     {
-      "title": "Stovky miliard v hře? Šéf Microsoft AI Mustafa Suleyman bije na poplach kvůli zůstání v soutěži o umělou inteligenci v příštích pěti až deseti letech",
-      "description": "Mustafa Suleyman, šéf divize Microsoft AI, uvedl, že firmy budou muset investovat stovky miliard dolarů, aby vedly závod v umělé inteligenci. Konkurence na špičce AI bude vyžadovat obrovské výdaje na infrastrukturu, hardware a specialisty.",
-      "slug": "hundreds-of-billions-at-stake-microsoft-ai-ceo-mus",
-      "publishedAt": "2025-12-26T07:52:44+00:00",
-      "date": "2025-12-26 07:52:44",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://img.etimg.com/thumb/msid-126186142,width-1200,height-630,imgsize-713465,overlay-economictimes/articleshow.jpg",
-      "url": "/tech-news/2025-12-26/hundreds-of-billions-at-stake-microsoft-ai-ceo-mus/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Microsoft"
-      ],
-      "people": [
-        "Mustafa Suleyman"
-      ]
-    },
-    {
-      "title": "Zakladatel čipového startupu Groq Jonathan Ross udělá u Nvidia 'incredible things': CEO Social Capital Chamath Palihapitiya",
-      "description": "Čipový gigant Nvidia získal aktiva a talenty z AI startupu Groq za 20 miliard dolarů. Tato největší akvizice v historii Nvidia přináší specializovanou technologii inference čipů a zakladatele Jonathana Rossa do týmu Nvidia, zatímco Groq pokračuje v provozu svého cloudového businessu samostatně.",
-      "slug": "chip-startup-groqs-jonathan-ross-will-do-incredibl",
-      "publishedAt": "2025-12-26T06:22:12+00:00",
-      "date": "2025-12-26 06:22:12",
-      "importance": 5,
-      "category": "ai čipy",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-71406,resizemode-75,msid-126184361/tech/technology/chip-startup-groqs-jonathan-ross-will-do-incredible-things-at-nvidia-social-capital-ceo-chamath-palihapitiya.jpg",
-      "url": "/tech-news/2025-12-26/chip-startup-groqs-jonathan-ross-will-do-incredibl/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Groq",
-        "Nvidia"
-      ],
-      "people": [
-        "Jonathan Ross",
-        "Chamath Palihapitiya"
-      ]
-    },
-    {
       "title": "Licenční dohoda Nvidia za 20 miliard dolarů s Groq míří na dominanci Google v AI čipech",
       "description": "Nvidia investuje 20 miliard dolarů do licencování AI technologie od společnosti Groq a najímání jejího vedení. Tento krok slouží k posílení pozice proti rostoucímu vlivu Google v hardwaru pro AI inference a je strukturován jako licenční smlouva, aby se minimalizovalo antitrustové riziko.",
       "slug": "nvidias-20-billion-licensing-deal-for-groq-targets",
@@ -3979,70 +4031,6 @@
         "Google"
       ],
       "people": []
-    },
-    {
-      "title": "GORDON CHANG: Trump předává 21. století Číně, zrušil Bidenovo embargo na prodej pokročilých čipů",
-      "description": "Trumpovo rozhodnutí tento měsíc zrušit Bidenovo embargo na export pokročilých čipů do Číny a schválit prodej H200 je podle Gordona Changa závažnou chybou, která posílí čínskou konkurenci v AI.",
-      "slug": "gordon-chang-trump-hands-21st-century-to-china-rev",
-      "publishedAt": "2025-12-26T03:42:51+00:00",
-      "date": "2025-12-26 03:42:51",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2025/12/GettyImages-2243544195-1-scaled-e1766502227714.jpg",
-      "url": "/tech-news/2025-12-26/gordon-chang-trump-hands-21st-century-to-china-rev/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Daily Caller"
-      },
-      "companies": [],
-      "people": [
-        "Gordon Chang",
-        "Donald Trump",
-        "Joe Biden"
-      ]
-    },
-    {
-      "title": "Coforge jedná o akvizici přes 1 miliardu dolarů; rada rozhodne o získání financí",
-      "description": "Navrhovaná akvizice by měla posílit schopnosti Coforge v oblasti cloudových služeb, práce s daty a vývoje produktů a zároveň rozšířit přítomnost firmy na klíčových zahraničních trzích.",
-      "slug": "coforge-in-talks-for-1-bn-plus-acquisition-board-t",
-      "publishedAt": "2025-12-26T03:05:15+00:00",
-      "date": "2025-12-26 03:05:15",
-      "importance": 5,
-      "category": "it akvizice",
-      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2025/03/20250327081948_Coforge.png",
-      "url": "/tech-news/2025-12-26/coforge-in-talks-for-1-bn-plus-acquisition-board-t/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Moneycontrol"
-      },
-      "companies": [
-        "Coforge"
-      ],
-      "people": []
-    },
-    {
-      "title": "Elon Musk: Překonávání smrti pomocí AI a čipů",
-      "description": "Objevte vizi Elona Muska na překonání smrti nahráváním vědomí. Zjistěte, jak AI a čipy Neuralink cílí na digitální nesmrtelnost.",
-      "slug": "elon-musk-conquering-death-with-ai-and-chips",
-      "publishedAt": "2025-12-26T01:06:46+00:00",
-      "date": "2025-12-26 01:06:46",
-      "importance": 4,
-      "category": "transhumanismus",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2024/08/18083906/AFP__20240817__36EE3UP__v1__Mockup__FilesUsBrazilInternetMedia-1200x630.jpg",
-      "url": "/tech-news/2025-12-26/elon-musk-conquering-death-with-ai-and-chips/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Punch"
-      },
-      "companies": [
-        "Neuralink"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
     }
   ]
 }
