@@ -1,10 +1,70 @@
 {
-  "generated": "2026-01-04T16:37:27.023390+00:00",
+  "generated": "2026-01-04T20:36:44.710702+00:00",
   "count": 200,
   "articles": [
     {
+      "title": "Ovplyvní nové partnerství Disney s OpenAI vaši dovolenou v Disney World?",
+      "description": "Umělá inteligence by mohla změnit tvář Disney navždy. Partnerství s OpenAI zahrnuje investici 1 miliardy dolarů a umožňuje generování videí s ikonickými postavami.",
+      "slug": "will-your-disney-world-vacation-be-impacted-by-dis",
+      "publishedAt": "2026-01-03T20:00:24+00:00",
+      "date": "2026-01-03 20:00:24",
+      "importance": 5,
+      "category": "ai",
+      "urlToImage": "https://www.disneyfoodblog.com/wp-content/uploads/2025/12/openAI-walt-disney-company-700x394.jpeg",
+      "url": "/tech-news/2026-01-03/will-your-disney-world-vacation-be-impacted-by-dis/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "disneyfoodblog.com"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Deset nejvýznamnějších příběhů o AI v roce 2025: Tilly Norwood, velká salva Sora, obavy odborů a další",
+      "description": "Před zahájením veletrhu CES připomeňme si rok 2025, který lze objektivně označit za Rok AI. Tato technologie vyvolala miliardy dolarů v korporátních investicích, posunula akciový trh na rekordní úrovně a donutila Hollywood k prvnímu velkému vyrovnání se s jejími dopady.",
+      "slug": "the-top-10-ai-stories-of-2025-tilly-norwood-soras-",
+      "publishedAt": "2026-01-03T17:00:00+00:00",
+      "date": "2026-01-03 17:00:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2025/10/345344265624564.jpg?w=1024",
+      "url": "/tech-news/2026-01-03/the-top-10-ai-stories-of-2025-tilly-norwood-soras/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Deadline"
+      },
+      "companies": [],
+      "people": [
+        "Tilly Norwood"
+      ]
+    },
+    {
+      "title": "Expanze TSMC v USA téměř osminásobně snižuje marže na čipy kvůli vyšším nákladům na práci a odpisu waferů",
+      "description": "Výroba čipů v USA vede u TSMC k výraznému poklesu hrubých marží, které se zmenšují téměř osminásobně oproti tchajwanské produkci kvůli vyšším nákladům na práci a odpisu waferů. Přesto společnost plánuje investovat až 300 miliard dolarů do amerických fabrik a zařízení pro posílení dodavatelského řetězce.",
+      "slug": "tsmcs-us-expansion-crushes-the-companys-chip-margi",
+      "publishedAt": "2026-01-03T16:27:52+00:00",
+      "date": "2026-01-03 16:27:52",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/10/TSMC-2.jpg",
+      "url": "/tech-news/2026-01-03/tsmcs-us-expansion-crushes-the-companys-chip-margi/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Wccftech"
+      },
+      "companies": [
+        "TSMC"
+      ],
+      "people": []
+    },
+    {
       "title": "Závod o globální dominanci v umělé inteligenci",
-      "description": "Soutěž mezi Čínou a Spojenými státy přesahuje pouze technologii.",
+      "description": "Soutěž mezi Čínou a Spojenými státy přesahuje pouhou technologii.",
       "slug": "the-race-for-global-domination-in-ai",
       "publishedAt": "2026-01-03T15:15:00+00:00",
       "date": "2026-01-03 15:15:00",
@@ -3921,49 +3981,6 @@
       "people": []
     },
     {
-      "title": "Největší technologické trendy, kterých očekávat v roce 2026",
-      "description": "Rok 2026 přinese významné změny v umělé inteligenci, produktech Apple, Nvidia, robotice, rozšířené realitě a dalších oblastech. Článek shrnuje klíčové predikce na základě analýzy odborníků.",
-      "slug": "the-biggest-tech-trends-to-expect-in-2026",
-      "publishedAt": "2025-12-27T17:00:00+00:00",
-      "date": "2025-12-27 17:00:00",
-      "importance": 5,
-      "category": "technologické trendy",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/VPSJvBNfusnHoNcwwMiPxS-1920-80.jpg",
-      "url": "/tech-news/2025-12-27/the-biggest-tech-trends-to-expect-in-2026/",
-      "source": {
-        "emoji": "📰",
-        "id": "techradar",
-        "name": "TechRadar"
-      },
-      "companies": [
-        "Apple",
-        "Nvidia"
-      ],
-      "people": []
-    },
-    {
-      "title": "„To skutečně funguje v Teslách právě teď“ — Elon Musk demonstruje interakci Grok na úrovni člověka v Tesla vozech",
-      "description": "Ráno na Štědrý den Elon Musk na platformě X sdílel video, které ukazuje Tesla Cybertruck řízený hlasovými příkazy AI Grok pro složitou víceetapovou navigaci. Tato funkce je součástí softwarového updatu 2025.44.25.x a přináší přirozenou konverzaci s vozidlem bez manuálního zásahu.",
-      "slug": "this-actually-works-in-teslas-right-now-elon-musk-",
-      "publishedAt": "2025-12-27T15:00:20+00:00",
-      "date": "2025-12-27 15:00:20",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/GjgLgKilGxnQSOxnH3hQlg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/guessing_headlights_178/3fbdfa64c91ee177cb9a443b5f99d028",
-      "url": "/tech-news/2025-12-27/this-actually-works-in-teslas-right-now-elon-musk/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Guessingheadlights.com"
-      },
-      "companies": [
-        "Tesla"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
       "title": "Výpadek Waymo v San Franciscu zvyšuje pochybnosti o připravenosti autonomních taxíků na krize",
       "description": "Bezřidičové taxíky společnosti Waymo, dceřiné firmy Alphabetu, se zasekly na křižovatkách v San Franciscu s blikajícími výstražnými světly poté, co požár v podstanici PG&E způsobil výpadek elektřiny v jedné třetině města a odstavení semaforů 20. prosince. Incident vyvolal obavy o schopnost autonomních vozidel zvládnout mimořádné události jako zemětřesení.",
       "slug": "waymos-san-francisco-outage-raises-doubts-over-rob",
@@ -4018,24 +4035,6 @@
         "emoji": "📰",
         "id": null,
         "name": "The New Yorker"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Pět nejvýznamnějších událostí v závodě o umělou inteligenci tento rok",
-      "description": "Od investičních bublin po války o talenty byl rok 2025 zlomovým bodem pro budoucnost umělé inteligence.",
-      "slug": "the-top-5-things-that-happened-in-the-ai-race-this",
-      "publishedAt": "2025-12-27T10:17:01+00:00",
-      "date": "2025-12-27 10:17:01",
-      "importance": 5,
-      "category": "ai",
-      "urlToImage": "https://i.insider.com/694a7a9e64858d02d2174d21?width=1200&format=jpeg",
-      "url": "/tech-news/2025-12-27/the-top-5-things-that-happened-in-the-ai-race-this/",
-      "source": {
-        "emoji": "📰",
-        "id": "business-insider",
-        "name": "Business Insider"
       },
       "companies": [],
       "people": []

@@ -2,7 +2,7 @@
 author: Marisa Aigen
 category: umělá inteligence
 date: '2026-01-03 15:15:00'
-description: Soutěž mezi Čínou a Spojenými státy přesahuje pouze technologii.
+description: Soutěž mezi Čínou a Spojenými státy přesahuje pouhou technologii.
 importance: 4
 layout: tech_news_article
 original_title: The Race for Global Domination in AI
@@ -19,24 +19,22 @@ urlToImageBackup: https://cdn.theatlantic.com/thumbor/M3-bl65MhJBi4q6ioQ71KYGYDr
 ---
 
 ## Souhrn
-Čínská města Hangzhou, Shanghai, Shenzhen a Chengdu masivně investují do umělé inteligence prostřednictvím státních dotací v celkové výši stovek milionů dolarů, aby se staly globálními centry tohoto odvětví. Tento centralizovaný přístup státu jako investora a regulátora kontrastuje s americkým modelem, kde soukromý sektor s minimálními vlivem vlády pohání inovace. Závod o vedení v umělé inteligenci tak odhaluje střet dvou systémů: autoritářské centralizace proti decentralizované demokracii.
+Čínská města Hangzhou, Shanghai, Shenzhen a Chengdu pumpují stovky milionů dolarů do podpory umělé inteligence, včetně subvencí pro firmy a výstavby specializovaných center. Tento státně řízený přístup kontrastuje s americkým modelem, kde soukromé firmy jako OpenAI nebo Google DeepMind inovují díky volnému trhu a kapitálovým zdrojům. Soutěž tak není jen o algoritmech, ale o střetu centralizované autokracie a decentralizované demokracie.
 
 ## Klíčové body
-- Hangzhou slíbilo 140 milionů USD na dotace pro místní AI firmy v červnu.
-- Shanghai následovalo v červenci stejnou částkou a otevřelo „AI innovation town“ s levnými kancelářemi pro startupy.
-- Shenzhen ročně vyplácí 70 milionů USD na podporu AI firem a výzkumu.
-- Chengdu investovalo 42 milionů USD do startupu Zhipu AI, který vyvíjí tréninkové centra pro modely umělé inteligence.
-- Expert Paul Triolo zdůrazňuje, že Čína bojuje s podporou inovací v AI, zatímco USA umožňuje volný rozvoj soukromého kapitálu.
+- Hangzhou: 140 milionů USD na subvence pro AI firmy působící ve městě (červen 2023).
+- Shanghai: Stejná částka 140 milionů USD v červenci 2023 plus nové „AI innovation town“ s levnými kancelářemi pro startupy.
+- Shenzhen: 70 milionů USD ročně na podporu místních AI firem a výzkumu.
+- Chengdu: 42 milionů USD investováno do startupu Zhipu AI na model-training center a výzkumné zařízení.
+- Odborník Paul Triolo (Albright Stonebridge Group): Čína bojuje s podporou AI, USA se snaží nebránit inovacím.
 
 ## Podrobnosti
-Článek popisuje intenzivní investiční aktivitu čínských městských vlád do umělé inteligence, která následuje osvědčenou strategii státní podpory průmyslových odvětví. V Hangzhou, městě na východě Číny, úřady v červnu 2023 slíbily 140 milionů USD na dotace pro firmy působící v oblasti AI, což má přilákat vývojáře modelů strojového učení a aplikací umělé inteligence. Shanghai okamžitě zareagovalo vlastním programem ve výši 140 milionů USD a v září otevřelo „AI innovation town“ – komplex s levnými kancelářemi určený pro startupy vyvíjející AI systémy, jako jsou velké jazykové modely pro zpracování textu nebo počítačové vidění pro průmyslové aplikace.
+Čínský model podpory umělé inteligence vychází z úspěšné strategie v průmyslových odvětvích, jako je výroba nebo stavebnictví infrastruktury. Stát zde slouží jako hlavní sponzor, koordinátor a ochránce, což sjednocuje úředníky, manažery a podnikatele v národním úkolu. V případě AI však tento top-down přístup naráží na limity, protože oblast vyžaduje rychlou technologickou inovaci, kreativitu a volný tok nápadů. Zhipu AI, do kterého Chengdu investovalo, je čínský startup specializující se na velké jazykové modely (LLM) podobné GPT od OpenAI; tyto modely slouží k generování textu, překladům, analýze dat a automatizaci úkolů v podnicích. Firma plánuje v centru trénovat nové modely na velkém množství GPU, což umožní rychlejší vývoj domácích alternativ k západním technologiím.
 
-V jižním Shenzhen již probíhá roční podpora ve výši 70 milionů USD pro místní AI firmy a výzkumná zařízení, která se zaměřují na hardware pro trénink AI, jako jsou specializované čipy. Na západě Chengdu přilákalo startup Zhipu AI, čínskou firmu specializující se na vývoj velkých jazykových modelů podobných GPT (např. jejich model GLM slouží k generování textu, překladům a analýze dat), investicí 42 milionů USD do nového centra pro trénink modelů a výzkum. Tento přístup, kde stát slouží jako financier, ochránce a koordinátor, fungoval v minulosti v výrobě a infrastruktuře, kde Čína dosáhla světového vedení.
-
-Nicméně umělá inteligence vyžaduje radikální inovace, které centralizovaný systém brzdí. Paul Triolo z poradenské firmy Albright Stonebridge Group, specialist na čínské technologie, uvádí, že čínská vláda stále hledá efektivní způsoby podpory AI sektoru, zatímco USA snižuje regulace a umožňuje kapitalistickým trhům a inovativním firmám jako OpenAI nebo Anthropic volný růst. Čínský model sjednocuje byrokraty, manažery a podnikatele pod směrnici Pekingu, ale postrádá kreativitu decentralizovaného prostředí.
+Naopak v USA vláda minimalizuje zásahy, aby umožnila soukromému sektoru plný rozvoj. Kapitálové trhy financují projekty jako ChatGPT nebo Gemini, kde talenty z celého světa soutěží v otevřeném prostředí. Čínské investice, i když masivní, často podporují stávající firmy spíše než radikální inovace, což vede k závislosti na dovážených čipech (např. Nvidia GPU) kvůli americkým exportním omezením. Shanghaiovo AI innovation town poskytuje start-upům levné kanceláře a zdroje, ale bez záruky průlomů, protože čínské regulace omezují sběr dat pro trénink modelů. Tento trend ukazuje, jak Čína kopíruje playbook z minulosti, ale AI vyžaduje bottom-up dynamiku, kde jednotlivci jako Sam Altman nebo Demis Hassabis pohánějí pokrok.
 
 ## Proč je to důležité
-Tato soutěž ovlivní globální ekosystém umělé inteligence, kde dominance znamená kontrolu nad algoritmy pro autonomní systémy, zdravotnictví a obranu. Čínské investice posilují jejich pozici v aplikovaném AI, ale USA vede v základním výzkumu díky přístupu, který podporuje rizikové inovace. Pro průmysl to znamená riziko duálního standardu: čínské AI s omezeným přístupem k západním datům a technologiím versus otevřený americký trh. Dlouhodobě může čínský tlak donutit Západ k větší koordinaci, což ovlivní dostupnost AI nástrojů pro firmy i uživatele po celém světě.
+Tato soutěž ovlivní globální ekonomiku, bezpečnost a etiku umělé inteligence. Vyhrávající strana ovládne aplikace od autonomních vozidel po vojenské systémy, což pro Evropu a Česko znamená nutnost posílit vlastní AI ekosystém, aby se vyhnuli závislosti na obou velmocích. Čínský model může urychlit nasazení AI v průmyslu, ale rizika centralizace zahrnují cenzuru a méně robustní modely. USA vedou v kvalitě (např. lepší výkon GPT-4 oproti čínským ekvivalentům), ale Čína dohání kvantitou dat a výrobou hardwaru. Dlouhodobě rozhodne, zda státní direktivy překonají tržní inovace.
 
 ---
 
