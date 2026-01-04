@@ -1,7 +1,129 @@
 {
-  "generated": "2026-01-04T08:42:18.900971+00:00",
+  "generated": "2026-01-04T12:41:07.431493+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Starlinkova příští generace 5G přímo do mobilu: Co mohou očekávat zákazníci Rogers",
+      "description": "SpaceX zveřejnilo výroční zprávu o pokrocích Starlinku pro rok 2025, která popisuje rychlou expanzi, zlepšení výkonu a globální zavádění služby satelitního připojení přímo k mobilním telefonům. Kanadští zákazníci operátora Rogers se mohou těšit na lepší pokrytí v odlehlých oblastech, včetně severu Kanady.",
+      "slug": "starlinks-next-gen-5g-direct-to-cell-what-rogers-c",
+      "publishedAt": "2026-01-03T12:00:19+00:00",
+      "date": "2026-01-03 12:00:19",
+      "importance": 4,
+      "category": "satelitní internet",
+      "urlToImage": "https://cdn.iphoneincanada.ca/wp-content/uploads/2026/01/starlink-direct-to-cell-next-gen.jpg",
+      "url": "/tech-news/2026-01-03/starlinks-next-gen-5g-direct-to-cell-what-rogers-c/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "iPhone in Canada"
+      },
+      "companies": [
+        "SpaceX",
+        "Rogers"
+      ],
+      "people": []
+    },
+    {
+      "title": "Průměrná kompenzace zaměstnanců OpenAI dosahuje 1,5 milionu dolarů ročně",
+      "description": "Podle Wall Street Journal zaměstnanci OpenAI obdrželi v roce 2025 akciovou kompenzaci v průměru 1,5 milionu dolarů na osobu, což je nejvíce mezi startupy před plánovaným uvedením na burzu. Tato částka převyšuje mzdy v jiných technologických firmách sedmkrát oproti Alphabetu před jeho IPO.",
+      "slug": "your-jaw-will-hit-the-floor-when-you-find-out-how-",
+      "publishedAt": "2026-01-03T12:00:00+00:00",
+      "date": "2026-01-03 12:00:00",
+      "importance": 4,
+      "category": "ai mzdy",
+      "urlToImage": "https://futurism.com/wp-content/uploads/2026/01/openai-compensation.jpg?quality=85&w=1200",
+      "url": "/tech-news/2026-01-03/your-jaw-will-hit-the-floor-when-you-find-out-how/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Futurism"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Tesla předává korunu v elektromobilech čínskému BYD v roce 2025 kvůli poklesu prodejů",
+      "description": "Prodeje Tesly klesly v roce 2025, čímž společnost předala pozici největšího výrobce elektromobilů na světě čínskému automobilovému gigantovi BYD. Tato změna nastala po zveřejnění výsledků společnosti v pátek.",
+      "slug": "tesla-loses-ev-crown-to-chinas-byd-in-2025-as-sale",
+      "publishedAt": "2026-01-03T11:45:35+00:00",
+      "date": "2026-01-03 11:45:35",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/WEuWuu9swbsGkwYgt2cR0H0QYTBK2gYuiPgVpmX8.jpg",
+      "url": "/tech-news/2026-01-03/tesla-loses-ev-crown-to-chinas-byd-in-2025-as-sale/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Standard Digital"
+      },
+      "companies": [
+        "Tesla",
+        "BYD"
+      ],
+      "people": []
+    },
+    {
+      "title": "Cantor Fitzgerald předpovídá růst v postkvantové éře, optimistický ohledně SEALSQ (LAES)",
+      "description": "SEALSQ Corp (NASDAQ:LAES) je jednou z 10 nejlepších nových penny akcií pro investice. Cantor Fitzgerald zahájil 18. prosince pokrytí akcie s hodnocením převážně pozitivním a cenovým cílem 7 USD díky postkvantovým technologiím.",
+      "slug": "cantor-fitzgerald-sees-post-quantum-growth-bullish",
+      "publishedAt": "2026-01-03T11:19:43+00:00",
+      "date": "2026-01-03 11:19:43",
+      "importance": 4,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/DMC6vZ3LKhh6rRRUX7ddYA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/c2e160765ac4198de15afb3664b8c183",
+      "url": "/tech-news/2026-01-03/cantor-fitzgerald-sees-post-quantum-growth-bullish/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "SEALSQ Corp"
+      ],
+      "people": []
+    },
+    {
+      "title": "Technologická válka: Čína sebevědomě pokračuje v rozvoji inovací v umělé inteligenci v roce 2026",
+      "description": "Poslední den roku 2025 vydala čínská firma DeepSeek nový technický článek o 'manifold-constrained hyper-connections', což je obecný rámec pro trénink systémů umělé inteligence ve velkém měřítku. Tento výzkum naznačuje slibné směry pro vývoj základních modelů a podtrhuje rostoucí konkurenceschopnost čínských AI firem oproti americkým gigantům.",
+      "slug": "tech-war-china-takes-confident-strides-to-develop-",
+      "publishedAt": "2026-01-03T09:30:00+00:00",
+      "date": "2026-01-03 09:30:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/PeHol2Dz0GRB34_tqq86Kw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/south_china_morning_post_us_228/4a6ae3a2ffe7aee0fcd3552217c65b06",
+      "url": "/tech-news/2026-01-03/tech-war-china-takes-confident-strides-to-develop/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "DeepSeek"
+      ],
+      "people": [
+        "Liang Wenfeng"
+      ]
+    },
+    {
+      "title": "ChatGPT 5 překonal lidské skóre na benchmarku ARC AGI 2 díky vrstvě správcovské vrstvy bez omezení",
+      "description": "ChatGPT 5 dosáhl skóre 75 % na testu ARC AGI 2, který měří schopnost řešit neznámé problémy, a překonal průměr lidských uživatelů na 60 %. Úspěch vychází z technik odstranění umělých omezení a použití meta-systému nazvaného správcovská vrstva.",
+      "slug": "chatgpt-5-surpasses-human-score-on-arc-agi-2-thank",
+      "publishedAt": "2026-01-03T09:00:46+00:00",
+      "date": "2026-01-03 09:00:46",
+      "importance": 5,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/01/meta-system-manager-layer-poetic_optimized.jpg",
+      "url": "/tech-news/2026-01-03/chatgpt-5-surpasses-human-score-on-arc-agi-2-thank/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Válka na Ukrajině, den 1408: Ukrajina nasazuje AI drony ve velkém měřítku proti Rusku",
       "description": "Ukrajina produkuje novou generaci automatizovaných útočných dronů s umělou inteligencí, které ničí ruské síly s minimálním lidským dohledem. Po neúspěšném startu v roce 2024 tyto drony překonávají předchozí limity díky lepšímu zpracování videa a rychlejšímu zamykání na cíle.",
@@ -19,29 +141,6 @@
       },
       "companies": [],
       "people": []
-    },
-    {
-      "title": "Tesla v roce 2025 ztrácí titul největšího výrobce elektromobilů ve prospěch čínské BYD kvůli poklesu prodejů",
-      "description": "BYD prodala v roce 2025 2,26 milionu elektromobilů a překonala amerického konkurenta vedeného Elonem Muskem.",
-      "slug": "tesla-loses-ev-crown-to-chinas-byd-in-2025-as-sale",
-      "publishedAt": "2026-01-03T02:38:02+00:00",
-      "date": "2026-01-03 02:38:02",
-      "importance": 4,
-      "category": "elektromobilita",
-      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/DYXLE7BT6FBSBMFNG5CBXCX6ZU.jpg?auth=64cffbf00a0ff927a024aeb841b6c3dfa81d9f71412534713d32c15340ccb64c&width=1200&height=675&quality=70&focal=602%2C499&smart=false",
-      "url": "/tech-news/2026-01-03/tesla-loses-ev-crown-to-chinas-byd-in-2025-as-sale/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "New Zealand Herald"
-      },
-      "companies": [
-        "Tesla",
-        "BYD"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
     },
     {
       "title": "Elon Musk v problémech: Zahájeno vyšetřování AI chatbota kvůli explicitním obrázkům dětí",
@@ -3759,24 +3858,6 @@
       "people": []
     },
     {
-      "title": "Čína vydává návrhové pravidla pro regulaci AI s lidskou interakcí - Reuters",
-      "description": "Čínská správa kyberprostoru zveřejnila návrh na regulaci AI systémů s personifikovanou interakcí, jako jsou chatboti a virtuální společníci. Cílem je zajistit bezpečnost a soulad s národními zájmy při sběru veřejných připomínek.",
-      "slug": "china-issues-draft-rules-to-regulate-ai-with-human",
-      "publishedAt": "2025-12-27T21:32:49+00:00",
-      "date": "2025-12-27 21:32:49",
-      "importance": 4,
-      "category": "regulace ai",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-27/china-issues-draft-rules-to-regulate-ai-with-human/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Největší technologické trendy, kterých očekávat v roce 2026",
       "description": "Rok 2026 přinese významné změny v umělé inteligenci, produktech Apple, Nvidia, robotice, rozšířené realitě a dalších oblastech. Článek shrnuje klíčové predikce na základě analýzy odborníků.",
       "slug": "the-biggest-tech-trends-to-expect-in-2026",
@@ -3938,44 +4019,6 @@
       "people": []
     },
     {
-      "title": "Průvodce ChatGPT 5.2: Nejlepší využití pro podnikání, výzkum, psaní a další",
-      "description": "ChatGPT 5.2 je nejnovější verze modelu umělé inteligence od OpenAI, která vylepšuje kreativitu, paměť a integraci nástrojů pro profesionální úkoly. Tento průvodce vysvětluje, jak model využít v byznysu, výzkumu a tvorbě obsahu, přičemž zohledňuje i jeho limity jako vyšší cenu a slabší výkon v programování.",
-      "slug": "chatgpt-52-guide-best-uses-for-business-research-w",
-      "publishedAt": "2025-12-27T09:00:09+00:00",
-      "date": "2025-12-27 09:00:09",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/chatgpt-5-2-overview-review_optimized.jpg",
-      "url": "/tech-news/2025-12-27/chatgpt-52-guide-best-uses-for-business-research-w/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Canaccord zůstává optimistický k Tesle (TSLA) navzdory krátkodobému poklesu dodávek",
-      "description": "Tesla (NASDAQ: TSLA) patří mezi akcie spojené s umělou inteligencí, které investoři sledují. Dne 22. prosince Canaccord Genuity zvýšil cenový cíl akcie na 551 USD z 482 USD při zachování doporučení „Koupit“.",
-      "slug": "canaccord-remains-bullish-on-tesla-tsla-despite-ne",
-      "publishedAt": "2025-12-27T07:43:55+00:00",
-      "date": "2025-12-27 07:43:55",
-      "importance": 4,
-      "category": "elektromobilita",
-      "urlToImage": "https://media.zenfs.com/en/insidermonkey.com/88ff36b867d43de240dd7e19110814bc",
-      "url": "/tech-news/2025-12-27/canaccord-remains-bullish-on-tesla-tsla-despite-ne/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [
-        "Tesla"
-      ],
-      "people": []
-    },
-    {
       "title": "Nvidia posiluje dominanci v AI strategickou akvizicí talentů z Groq a licenční dohodou",
       "description": "Nvidia uzavřela neexkluzivní licenční dohodu s AI startupem Groq a najala jeho zakladatele Jonathana Rossa, CEO Sunnyho Madru a seniorní inženýry. Groq si zachovává nezávislost pod novým CEO Simonem Edwardsem, přičemž platforma GroqCloud zůstává nedotčená.",
       "slug": "nvidia-strengthens-ai-dominance-with-strategic-gro",
@@ -3999,46 +4042,6 @@
         "Sunny Madra",
         "Simon Edwards"
       ]
-    },
-    {
-      "title": "Je psaní zpráv za volantem autonomní Tesly šílenství?",
-      "description": "Elon Musk tvrdí, že software pro autonomní řízení Tesly umožní cestujícím psát zprávy za určitých podmínek.",
-      "slug": "is-texting-behind-the-wheel-of-a-self-driving-tesl",
-      "publishedAt": "2025-12-27T00:30:14+00:00",
-      "date": "2025-12-27 00:30:14",
-      "importance": 4,
-      "category": "autonomní řízení",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b1e6/live/4ea02c30-dc36-11f0-a665-27b3eb61cb96.png",
-      "url": "/tech-news/2025-12-27/is-texting-behind-the-wheel-of-a-self-driving-tesl/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BBC News"
-      },
-      "companies": [
-        "Tesla"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Budoucnost bez řidičů nabírá na síle s globálními nasazeními robotaxi",
-      "description": "Globální snaha nasadit autonomní taxíky na veřejných komunikacích sílí, protože firmy na sdílení jízd a technologické společnosti přecházejí z pilotních programů k omezeným komerčním provozům v městech v Číně, USA, Evropě a na Blízkém východě.",
-      "slug": "driverless-future-gains-momentum-with-global-robot",
-      "publishedAt": "2025-12-27T00:30:00+00:00",
-      "date": "2025-12-27 00:30:00",
-      "importance": 4,
-      "category": "autonomní vozy",
-      "urlToImage": "https://a.fsdn.com/sd/topics/transportation_64.png",
-      "url": "/tech-news/2025-12-27/driverless-future-gains-momentum-with-global-robot/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "companies": [],
-      "people": []
     }
   ]
 }
