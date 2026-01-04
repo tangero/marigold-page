@@ -1,14 +1,14 @@
 ---
 author: Marisa Aigen
-category: satelitní internet
+category: satelitní komunikace
 companies:
 - SpaceX
 - Rogers
 date: '2026-01-03 12:00:19'
-description: SpaceX zveřejnilo výroční zprávu o pokrocích Starlinku pro rok 2025,
-  která popisuje rychlou expanzi, zlepšení výkonu a globální zavádění služby satelitního
-  připojení přímo k mobilním telefonům. Kanadští zákazníci operátora Rogers se mohou
-  těšit na lepší pokrytí v odlehlých oblastech, včetně severu Kanady.
+description: SpaceX zveřejnilo pokrokový report pro Starlink na rok 2025, který shrnuje
+  rychlou expanzi, zlepšení výkonu a globální zavádění služby Starlink Direct to Cell
+  pro satelitní komunikaci přímo do mobilních telefonů. Kanada, včetně Dálého severu
+  a letecké společnosti WestJet, je v reportu výrazně zmíněna.
 importance: 4
 layout: tech_news_article
 original_title: 'Starlink’s Next-Gen 5G Direct to Cell: What Rogers Customers Can
@@ -19,7 +19,7 @@ source:
   emoji: 📰
   id: null
   name: iPhone in Canada
-title: 'Starlinkova příští generace 5G přímo do mobilu: Co mohou očekávat zákazníci
+title: 'Starlinkova nová generace 5G přímo do mobilu: Co mohou očekávat zákazníci
   Rogers'
 url: https://www.iphoneincanada.ca/2026/01/03/starlinks-next-gen-5g-direct-to-cell-what-rogers-customers-can-expect/
 urlToImage: https://cdn.iphoneincanada.ca/wp-content/uploads/2026/01/starlink-direct-to-cell-next-gen.jpg
@@ -27,24 +27,26 @@ urlToImageBackup: https://cdn.iphoneincanada.ca/wp-content/uploads/2026/01/starl
 ---
 
 ## Souhrn
-SpaceX v zprávě o pokrocích Starlinku pro rok 2025 zdůrazňuje rychlou expanzi sítě, výrazná zlepšení výkonu a zahájení globálního rolloutu služby Direct to Cell, která umožňuje přímé satelitní 5G připojení do standardních mobilních telefonů bez potřeby speciálního vybavení. Kanadský operátor Rogers, partner SpaceX, připravuje tuto technologii pro své zákazníky, což ovlivní zejména oblasti s špatným pozemním pokrytím jako je kanadský Far North. Zpráva také zmiňuje spolupráci s leteckou společností WestJet.
+SpaceX v nedávno zveřejněném pokrokovém reportu pro Starlink na rok 2025 popisuje expanzi sítě, výrazné zlepšení výkonu a globální rozšíření služby Direct to Cell, která umožňuje 5G připojení přímo ze satelitů do standardních mobilních telefonů. Kanadští zákazníci operátora Rogers mohou očekávat lepší pokrytí v odlehlých oblastech, jako je Dálný sever. Report také zmiňuje spolupráci s leteckou společností WestJet.
 
 ## Klíčové body
-- Globální rollout Direct to Cell s podporou 5G přímo do mobilů od roku 2025.
-- Rogers jako klíčový partner v Kanadě pro testování a nasazení služby.
-- Zlepšení výkonu Starlinku: vyšší rychlosti a nižší latence díky novým satelitům.
-- Pokrytí odlehlých oblastí, včetně severu Kanady a leteckých tras WestJet.
-- Integrace s existujícími sítěmi operátorů bez nutnosti výměny zařízení.
+- Globální rollout Starlink Direct to Cell s podporou 5G rychlostí až do 100 Mbps pro hlas, data a textovou zprávy.
+- Expneze sítě Starlink na více než 7000 satelitů v provozu a plány na další tisíce.
+- Speciální zaměření na Kanadu: Rogers jako klíčový partner pro testování a nasazení v arktických oblastech.
+- Zlepšení výkonu: Latence pod 99 ms a kapacita pro miliony uživatelů.
+- Partnerství s WestJet pro letecké připojení.
 
 ## Podrobnosti
-Starlink Direct to Cell je technologie vyvinutá SpaceX, která umožňuje standardním 4G a 5G mobilním telefonům připojit se přímo k satelitům místo pozemních vysílačů. Slouží k eliminaci mrtvých zón v mobilním pokrytí, což je ideální pro venkovské oblasti, oceány nebo letadla. V zprávě pro rok 2025 SpaceX uvádí, že spustilo produkci speciálních satelitů s vestavěnými 5G modemy, které orbitují v nízké oběžné dráze (LEO) a poskytují rychlosti až 100 Mbps pro hlas, data a textové zprávy.
+Starlink Direct to Cell je technologie, která umožňuje standardním LTE a 5G mobilním telefonům připojit se přímo k satelitům bez nutnosti speciálního hardware nebo antény. Satelity Starlink generace 2 s vestavěnými buněčnými payloady emulují pozemní bázi stanice, což umožňuje hlasové hovory, SMS a datové připojení v oblastech bez pozemní infrastruktury. V reportu pro rok 2025 SpaceX uvádí, že první satelity s touto technologií byly vypuštěny v roce 2024 a testování probíhá s partnery jako T-Mobile v USA, Optus v Austrálii a Rogers v Kanadě.
 
-Kanadský operátor Rogers, jeden z největších poskytovatelů mobilních služeb v zemi, uzavřel partnerství se SpaceX v roce 2022 a nyní připravuje komerční nasazení. Zákazníci Rogers budou moci využívat Direct to Cell od roku 2025 v oblastech jako Far North – Arktida a severní teritoria Kanady –, kde pozemní sítě selhávají kvůli terénu a klimatu. Zpráva zmiňuje i integraci s WestJet, kanadskou leteckou společností zaměřenou na vnitrostátní a severoamerické lety, kde satelitní připojení zajistí nepřetržité mobilní služby během letů.
+Pro zákazníky Rogers to znamená postupné rozšíření pokrytí v kanadském Dálném severu, kde tradiční sítě selhávají kvůli rozlehlosti a drsnému terénu. Rogers, jeden z největších kanadských telekomunikačních operátorů, podepsal smlouvu se SpaceX v roce 2022 a plánuje komerční spuštění v roce 2025. Uživatelé budou moci používat své existující telefony – například iPhone nebo Samsung Galaxy – pro nouzová volání (SOS) již nyní v některých regionech, s plnou podporou dat později. Rychlosti by měly dosahovat 2–4 Mbps pro počáteční fázi, s plánem na 5G až 100 Mbps.
 
-Technicky Direct to Cell funguje tak, že satelity emulují standardní buněčné vysílače (cell towers), kompatibilní s čipy v telefonech od Qualcomm (např. Snapdragon X75) nebo MediaTek. SpaceX již otestovalo službu s T-Mobile v USA a plánuje rozšíření na další operátory. V Kanadě Rogers spolupracuje s Bell a Telus na sdílení spektra, což urychlí rollout. Aktuální expanze Starlinku zahrnuje přes 6000 satelitů v provozu, s plány na 42 000, což dramaticky sníží latenci pod 20 ms a zvýší kapacitu.
+Report zdůrazňuje i expanzi celé sítě Starlink: nyní je v orbitě přes 7000 satelitů V1.5 a V2, s latencí sníženou na 20–40 ms v hustě osídlených oblastech a průměrnou rychlostí 100–200 Mbps. Pro Kanadu je klíčová zmínka o WestJet, nízkonákladové letecké společnosti, která testuje Starlink pro Wi-Fi na palubách letadel, což umožní cestujícím přístup k internetu na trasách nad oceány nebo odlehlými oblastmi. SpaceX plánuje další starty satelitů s Direct to Cell schopnostmi, celkem 20 000 kusů do konce dekády.
+
+Tato technologie není bez výzev: regulační schřvání v jednotlivých zemích, interference se stávajícími sítěmi a omezená kapacita v počátečních fázích. Například v Kanadě ISED (Innovation, Science and Economic Development Canada) schválilo provoz, ale vyžaduje koordinaci s jinými satelitními operátory jako OneWeb.
 
 ## Proč je to důležité
-Tato technologie mění paradigmu mobilní konektivity tím, že spojuje satelitní a pozemní sítě do hybridního systému, což je klíčové pro průmysl v době rostoucí poptávky po IoT zařízeních a autonomních vozidlech vyžadujících nepřetržité připojení. Pro uživatele Rogers znamená konec roamingu v odlehlých oblastech a lepší spolehlivost v krizových situacích, jako jsou lesní požáry nebo polární expedice. V širším kontextu posiluje SpaceX dominanci v satelitní komunikaci, konkuruje tradičním operátorům a ovlivňuje globální standardy 5G/6G. Kriticky lze říci, že i přes sliby rychlostí reálný výkon závisí na hustotě satelitů a spektru, kde regulační schválení v Kanadě zůstává klíčovým faktorem.
+Starlink Direct to Cell mění dynamiku mobilní komunikace tím, že eliminuje slepé skvrny na 100 % povrchu Země, což je klíčové pro nouzové služby, logistiku a venkovské oblasti. Pro kanadský trh posiluje pozici Rogers proti konkurentům jako Bell a Telus, kteří také jednají se SpaceX. V širším kontextu urychluje konvergenci satelitních a pozemních sítí, což tlačí operátory k investicím do non-terrestrial networks (NTN) podle standardů 3GPP Release 17. Dlouhodobě to může snížit náklady na infrastrukturu v rozvojových regionech a zlepšit globální konektivitu, ale závisí na úspěšném škálování a regulacích.
 
 ---
 

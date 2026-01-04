@@ -1,15 +1,78 @@
 {
-  "generated": "2026-01-04T12:41:07.431493+00:00",
+  "generated": "2026-01-04T16:37:27.023390+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "Starlinkova příští generace 5G přímo do mobilu: Co mohou očekávat zákazníci Rogers",
-      "description": "SpaceX zveřejnilo výroční zprávu o pokrocích Starlinku pro rok 2025, která popisuje rychlou expanzi, zlepšení výkonu a globální zavádění služby satelitního připojení přímo k mobilním telefonům. Kanadští zákazníci operátora Rogers se mohou těšit na lepší pokrytí v odlehlých oblastech, včetně severu Kanady.",
+      "title": "Závod o globální dominanci v umělé inteligenci",
+      "description": "Soutěž mezi Čínou a Spojenými státy přesahuje pouze technologii.",
+      "slug": "the-race-for-global-domination-in-ai",
+      "publishedAt": "2026-01-03T15:15:00+00:00",
+      "date": "2026-01-03 15:15:00",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://cdn.theatlantic.com/thumbor/M3-bl65MhJBi4q6ioQ71KYGYDr0=/0x53:2000x1095/1200x625/media/img/mt/2026/01/2026_1_3_AI_Race/original.png",
+      "url": "/tech-news/2026-01-03/the-race-for-global-domination-in-ai/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Atlantic"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Humanoidní roboti budou v roce 2026 vykonávat domácí práce – a získáte je za 20 000 dolarů",
+      "description": "S příchodem éry humanoidních robotů předpověděl šéf Tesly Elon Musk, že jeho roboti omezí zločinnost, vyřeší chudobu a provedou operace.",
+      "slug": "humanoid-robots-are-ready-to-do-your-housework-in-",
+      "publishedAt": "2026-01-03T14:00:00+00:00",
+      "date": "2026-01-03 14:00:00",
+      "importance": 5,
+      "category": "robotika",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/01/newspress-collage-3reht88kk-1767395805954.jpg?quality=75&strip=all&1767377859&w=1200",
+      "url": "/tech-news/2026-01-03/humanoid-robots-are-ready-to-do-your-housework-in/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "New York Post"
+      },
+      "companies": [
+        "Tesla"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Sázka Anthropic na ‚více s méně‘ ji udržuje na hranici AI, říká Daniela Amodei pro CNBC",
+      "description": "Daniela Amodei a její bratr Dario Amodei, generální ředitel Anthropic, pomohli vybudovat světonázor, proti kterému nyní sázejí. Anthropic se zaměřuje na efektivitu výpočetního výkonu místo brutálního škálování, na rozdíl od rivala OpenAI.",
+      "slug": "anthropics-do-more-with-less-bet-has-kept-it-at-th",
+      "publishedAt": "2026-01-03T13:00:01+00:00",
+      "date": "2026-01-03 13:00:01",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108247732-1767394033940-gettyimages-2151610540-BLOOMBERG_TECHNOLOGY_SUMMIT.jpeg?v=1767394078&w=1920&h=1080",
+      "url": "/tech-news/2026-01-03/anthropics-do-more-with-less-bet-has-kept-it-at-th/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": [
+        "Daniela Amodei",
+        "Dario Amodei"
+      ]
+    },
+    {
+      "title": "Starlinkova nová generace 5G přímo do mobilu: Co mohou očekávat zákazníci Rogers",
+      "description": "SpaceX zveřejnilo pokrokový report pro Starlink na rok 2025, který shrnuje rychlou expanzi, zlepšení výkonu a globální zavádění služby Starlink Direct to Cell pro satelitní komunikaci přímo do mobilních telefonů. Kanada, včetně Dálého severu a letecké společnosti WestJet, je v reportu výrazně zmíněna.",
       "slug": "starlinks-next-gen-5g-direct-to-cell-what-rogers-c",
       "publishedAt": "2026-01-03T12:00:19+00:00",
       "date": "2026-01-03 12:00:19",
       "importance": 4,
-      "category": "satelitní internet",
+      "category": "satelitní komunikace",
       "urlToImage": "https://cdn.iphoneincanada.ca/wp-content/uploads/2026/01/starlink-direct-to-cell-next-gen.jpg",
       "url": "/tech-news/2026-01-03/starlinks-next-gen-5g-direct-to-cell-what-rogers-c/",
       "source": {
@@ -3879,26 +3942,6 @@
       "people": []
     },
     {
-      "title": "Nvidia zaplatila 20 miliard dolarů za firmu, která nedosáhla svého cíle v tržbách o 75 %",
-      "description": "Panické nákupy, jednoduše řečeno. Pokud něco naznačuje, že bublina AI právě praskne, je to toto.",
-      "slug": "nvidia-just-paid-20b-for-a-company-that-missed-its",
-      "publishedAt": "2025-12-27T16:47:13+00:00",
-      "date": "2025-12-27 16:47:13",
-      "importance": 5,
-      "category": "ai bublina",
-      "urlToImage": "https://substackcdn.com/image/fetch/$s_!7ppM!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9a099433-4de1-45a1-9804-cfcede6b28da_5064x2704.png",
-      "url": "/tech-news/2025-12-27/nvidia-just-paid-20b-for-a-company-that-missed-its/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Drjoshcsimmons.com"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": []
-    },
-    {
       "title": "„To skutečně funguje v Teslách právě teď“ — Elon Musk demonstruje interakci Grok na úrovni člověka v Tesla vozech",
       "description": "Ráno na Štědrý den Elon Musk na platformě X sdílel video, které ukazuje Tesla Cybertruck řízený hlasovými příkazy AI Grok pro složitou víceetapovou navigaci. Tato funkce je součástí softwarového updatu 2025.44.25.x a přináší přirozenou konverzaci s vozidlem bez manuálního zásahu.",
       "slug": "this-actually-works-in-teslas-right-now-elon-musk-",
@@ -3996,52 +4039,6 @@
       },
       "companies": [],
       "people": []
-    },
-    {
-      "title": "Dohoda Nvidia s Groq otřásla Silicon Vallejem. Zde je 5 dalších AI startupů, které se rozpadly v nových dohodách s technologickými giganty",
-      "description": "Tradiční akvizice se staly vzácnějšími. Dohoda Nvidia s Groq připomněla mnoha v technologickém průmyslu známé praktiky pohlcování talentů.",
-      "slug": "nvidias-groq-deal-rattled-silicon-valley-here-are-",
-      "publishedAt": "2025-12-27T10:00:01+00:00",
-      "date": "2025-12-27 10:00:01",
-      "importance": 4,
-      "category": "ai startupy",
-      "urlToImage": "https://i.insider.com/694f138664858d02d21770a3?width=538&format=jpeg",
-      "url": "/tech-news/2025-12-27/nvidias-groq-deal-rattled-silicon-valley-here-are/",
-      "source": {
-        "emoji": "📰",
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "companies": [
-        "Nvidia",
-        "Groq"
-      ],
-      "people": []
-    },
-    {
-      "title": "Nvidia posiluje dominanci v AI strategickou akvizicí talentů z Groq a licenční dohodou",
-      "description": "Nvidia uzavřela neexkluzivní licenční dohodu s AI startupem Groq a najala jeho zakladatele Jonathana Rossa, CEO Sunnyho Madru a seniorní inženýry. Groq si zachovává nezávislost pod novým CEO Simonem Edwardsem, přičemž platforma GroqCloud zůstává nedotčená.",
-      "slug": "nvidia-strengthens-ai-dominance-with-strategic-gro",
-      "publishedAt": "2025-12-27T06:00:00+00:00",
-      "date": "2025-12-27 06:00:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/12/Nvidia-Logo-Sign.jpg",
-      "url": "/tech-news/2025-12-27/nvidia-strengthens-ai-dominance-with-strategic-gro/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "companies": [
-        "Nvidia",
-        "Groq"
-      ],
-      "people": [
-        "Jonathan Ross",
-        "Sunny Madra",
-        "Simon Edwards"
-      ]
     }
   ]
 }
