@@ -1,7 +1,112 @@
 {
-  "generated": "2026-01-03T20:34:11.362582+00:00",
+  "generated": "2026-01-04T01:23:53.666293+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Tesla ztrácí postavení největšího výrobce elektromobilů na světě ve prospěch čínské BYD",
+      "description": "Elon Muskova automobilka dodala v roce 2025 méně plně elektrických vozidel než svůj čínský rival BYD.",
+      "slug": "tesla-loses-crown-as-worlds-biggest-maker-of-evs-t",
+      "publishedAt": "2026-01-02T23:49:37+00:00",
+      "date": "2026-01-02 23:49:37",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/YDKT66STA76FD5RJN5HBIYZHVQ.jpg?smart=true&auth=d79653d965cf95ec1402c9173ecd98e473dc3dcea30b7b078e16077d1fd31fff&width=1200&height=630",
+      "url": "/tech-news/2026-01-02/tesla-loses-crown-as-worlds-biggest-maker-of-evs-t/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "companies": [
+        "Tesla",
+        "BYD"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Porno stroj Elona Muska",
+      "description": "Na platformě X se objevily požadavky na chatbot Grok, aby generoval nekonzensuální sexuální obrázky reálných lidí včetně dětí, a bot jim vyhověl. Elon Musk na problém reagoval žerty, zatímco xAI slibuje zpřísnění bezpečnostních mechanismů.",
+      "slug": "elon-musks-pornography-machine",
+      "publishedAt": "2026-01-02T22:57:00+00:00",
+      "date": "2026-01-02 22:57:00",
+      "importance": 4,
+      "category": "sociální sítě",
+      "urlToImage": "https://cdn.theatlantic.com/thumbor/D91lrh27bVRqtjRU9djVTM0mWMY=/0x43:2000x1085/1200x625/media/img/mt/2026/01/2026_01_02_grok_mpg5/original.jpg",
+      "url": "/tech-news/2026-01-02/elon-musks-pornography-machine/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Atlantic"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Fiserv a Mastercard rozšiřují partnerství pro umožnění obchodu iniciovaného umělou inteligencí",
+      "description": "Společnosti Fiserv a Mastercard rozšiřují spolupráci, aby podpořily agentic commerce, kde systémy umělé inteligence mohou bezpečně iniciovat a dokončovat transakce jménem spotřebitelů. Fiserv integruje rámec Agent Pay Acceptance Framework od Mastercard do své infrastruktury pro přijímání plateb u obchodníků.",
+      "slug": "fiserv-mastercard-expand-partnership-to-enable-ai-",
+      "publishedAt": "2026-01-02T21:48:20+00:00",
+      "date": "2026-01-02 21:48:20",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2023/02/Fiserv-1.jpg",
+      "url": "/tech-news/2026-01-02/fiserv-mastercard-expand-partnership-to-enable-ai/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [
+        "Fiserv",
+        "Mastercard"
+      ],
+      "people": []
+    },
+    {
+      "title": "Tesla ztrácí titul největšího výrobce elektromobilů světa",
+      "description": "Tesla oficiálně předala svou pozici světového lídra v výrobě elektromobilů čínské BYD po 9% poklesu dodávek v roce 2025 kvůli rostoucímu politickému napětí a ztrátě klíčových daňových úlev v USA.",
+      "slug": "tesla-loses-title-as-worlds-biggest-electric-vehic",
+      "publishedAt": "2026-01-02T21:40:38+00:00",
+      "date": "2026-01-02 21:40:38",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2026/01/1280/720/gettyimages-1096056696.jpg?ve=1&tl=1",
+      "url": "/tech-news/2026-01-02/tesla-loses-title-as-worlds-biggest-electric-vehic/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "FOX 11 Los Angeles"
+      },
+      "companies": [
+        "Tesla",
+        "BYD"
+      ],
+      "people": []
+    },
+    {
+      "title": "AI Grok od Elona Muska čelí vládě kritice po zneužití k tvorbě sexualizovaných obrázků žen a nezletilých",
+      "description": "Generátor obrázků AI Grok vyvolal kritiku poté, co byl použit k vytváření nekonzensuálních sexualizovaných obrázků reálných lidí, včetně nezletilých.",
+      "slug": "elon-musks-grok-ai-faces-government-backlash-after",
+      "publishedAt": "2026-01-02T21:33:45+00:00",
+      "date": "2026-01-02 21:33:45",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://i.insider.com/69582a1a04eda4732f2e67cb?width=1200&format=jpeg",
+      "url": "/tech-news/2026-01-02/elon-musks-grok-ai-faces-government-backlash-after/",
+      "source": {
+        "emoji": "📰",
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk"
+      ]
+    },
     {
       "title": "BYD překonalo Teslu v prodejích čistě elektrických vozidel za rok 2025 a získalo globální vedení v BEV",
       "description": "Po letech konkurenčního boje po čtvrtletích BYD oficiálně překonalo Teslu jako největšího světového výrobce čistě elektrických vozidel (BEV) za celý rok 2025. Rozdíl nebyl těsný, BYD prodalo o více než 600 tisíc kusů více.",
@@ -3932,106 +4037,6 @@
       },
       "companies": [],
       "people": []
-    },
-    {
-      "title": "Rok 2025 v přehledu: Vrcholy a propadliny 'Magnificent 7'",
-      "description": "Velké technologické společnosti soutěžily v roce 2025 o dominanci v umělé inteligenci, zatímco tento boomující sektor nadále přitahoval pozornost Wall Street. Sedm klíčových firem dosáhlo souhrnné tržní kapitalizace 21,5 bilionu dolarů.",
-      "slug": "A-2025-in-review-the-highs-and-lows-of-the-magnifi",
-      "publishedAt": "2025-12-27T00:00:00+00:00",
-      "date": "2025-12-27 00:00:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.rte.ie/images/0023aa22-1600.jpg",
-      "url": "/tech-news/2025-12-27/A-2025-in-review-the-highs-and-lows-of-the-magnifi/",
-      "source": {
-        "emoji": "📰",
-        "id": "rte",
-        "name": "RTE"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Akcie Targetu rostou po zprávě o aktivistickém investorovi, dohoda Nvidia s Groq",
-      "description": "Prezenter Josh Lipton rozebírá klíčové trendy dne, včetně zprávy Financial Times o budování pozice aktivistického investora v Targetu, poklesu cen ropy a licenční dohody Nvidia s AI čipovým startupem Groq za 20 miliard dolarů.",
-      "slug": "target-rises-on-report-of-activist-investor-nvidia",
-      "publishedAt": "2025-12-26T20:57:27+00:00",
-      "date": "2025-12-26 20:57:27",
-      "importance": 5,
-      "category": "ai",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/QQ483Ham3vmnSLFlvfOQOA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/c99595f0-e29a-11f0-b6bf-b8a591423132",
-      "url": "/tech-news/2025-12-26/target-rises-on-report-of-activist-investor-nvidia/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [
-        "Nvidia",
-        "Groq"
-      ],
-      "people": []
-    },
-    {
-      "title": "Akcie blízko rekordů, Nvidia roste díky dohodě o licencování s AI startupem Groq",
-      "description": "Americké akcie se v tenkém svátečním obchodování pohybovaly nedaleko rekordního maxima, zatímco výnosy desetiletých státních dluhopisů stouply a investoři se zaměřili na komodity. Nvidia posílila po pozitivní reakci analytiků na licencovní dohodu s umělou inteligencí startupem Groq.",
-      "slug": "stocks-hover-near-record-as-nvidia-gains-on-ai-lic",
-      "publishedAt": "2025-12-26T18:00:55+00:00",
-      "date": "2025-12-26 18:00:55",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/12/776387135.jpg",
-      "url": "/tech-news/2025-12-26/stocks-hover-near-record-as-nvidia-gains-on-ai-lic/",
-      "source": {
-        "emoji": "📰",
-        "id": "financial-post",
-        "name": "Financial Post"
-      },
-      "companies": [
-        "Nvidia",
-        "Groq"
-      ],
-      "people": []
-    },
-    {
-      "title": "Tento malý čip by mohl změnit budoucnost kvantových počítačů",
-      "description": "Nové zařízení velikosti mikročipu umožňuje přesné ovládání frekvencí laserů s nízkou spotřebou energie oproti současným objemným systémům. Je vyrobeno standardními metodami výroby čipů, což usnadňuje masovou produkci a otevírá cestu k větším kvantovým počítačům.",
-      "slug": "this-tiny-chip-could-change-the-future-of-quantum-",
-      "publishedAt": "2025-12-26T15:38:10+00:00",
-      "date": "2025-12-26 15:38:10",
-      "importance": 5,
-      "category": "kvantové počítače",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/quantum-computing-optical-fiber-array.webp",
-      "url": "/tech-news/2025-12-26/this-tiny-chip-could-change-the-future-of-quantum/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Science Daily"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Šéf Tesly Elon Musk tvrdí, že AI a robotika jsou 'jediný způsob', jak udělat všechny bohaté",
-      "description": "Elon Musk slibuje, že AI a robotika udělají všechny bohaté a práci volitelnou. Mluvy v Dubaji, Tesla Optimus a rizika vize univerzální hojnosti prozkoumány.",
-      "slug": "tesla-ceo-elon-musk-claims-ai-and-robotics-are-onl",
-      "publishedAt": "2025-12-26T11:21:37+00:00",
-      "date": "2025-12-26 11:21:37",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://d.ibtimes.com/en/full/4636762/elon-musk-claims-trans-son-has-tragic-mental-illness.png",
-      "url": "/tech-news/2025-12-26/tesla-ceo-elon-musk-claims-ai-and-robotics-are-onl/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "International Business Times"
-      },
-      "companies": [
-        "Tesla"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
     }
   ]
 }
