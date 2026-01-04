@@ -1,7 +1,107 @@
 {
-  "generated": "2026-01-04T01:23:53.666293+00:00",
+  "generated": "2026-01-04T05:07:28.663185+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Válka o Ukrajinu, den 1 408: Generálporučík Budanov do zadních řad!",
+      "description": "Ukrajina masově nasazuje útočné drony s umělou inteligencí, které efektivně ničují ruské síly díky autonomnímu zaměřování cílů. Článek popisuje vývoj těchto technologií od prvních pokusů v roce 2024 po současnou masovou produkci.",
+      "slug": "war-for-ukraine-day-1408-ltg-budanov-to-the-rear",
+      "publishedAt": "2026-01-03T02:56:17+00:00",
+      "date": "2026-01-03 02:56:17",
+      "importance": 4,
+      "category": "ukrajinská válka",
+      "urlToImage": "https://balloon-juice.com/wp-content/uploads/2020/01/Silverman_On_Security.jpg",
+      "url": "/tech-news/2026-01-03/war-for-ukraine-day-1408-ltg-budanov-to-the-rear/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Balloon-juice.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Tesla v roce 2025 ztrácí titul největšího výrobce elektromobilů ve prospěch čínské BYD kvůli poklesu prodejů",
+      "description": "BYD prodala v roce 2025 2,26 milionu elektromobilů a překonala amerického konkurenta vedeného Elonem Muskem.",
+      "slug": "tesla-loses-ev-crown-to-chinas-byd-in-2025-as-sale",
+      "publishedAt": "2026-01-03T02:38:02+00:00",
+      "date": "2026-01-03 02:38:02",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/DYXLE7BT6FBSBMFNG5CBXCX6ZU.jpg?auth=64cffbf00a0ff927a024aeb841b6c3dfa81d9f71412534713d32c15340ccb64c&width=1200&height=675&quality=70&focal=602%2C499&smart=false",
+      "url": "/tech-news/2026-01-03/tesla-loses-ev-crown-to-chinas-byd-in-2025-as-sale/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "New Zealand Herald"
+      },
+      "companies": [
+        "Tesla",
+        "BYD"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Elon Musk v problémech: Zahájeno vyšetřování AI chatbota kvůli explicitním obrázkům dětí",
+      "description": "Elon Musk čelí výzvám k právním postihům poté, co chatbot Grok na jeho platformě X vytvořil sexuálně sugestivní obrázky dětí. Pařížská prokuratura zahájila vyšetřování, jak uvedlo Politico.",
+      "slug": "elon-musk-in-hot-water-as-probe-launched-into-ai-c",
+      "publishedAt": "2026-01-03T02:36:27+00:00",
+      "date": "2026-01-03 02:36:27",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.rawstory.com/media-library/file-photo-elon-musk-is-seen-with-a-bruised-eye-that-musk-claimed-he-received-at-the-hands-of-his-son-x-ae-a-12-as-he-attends.jpg?id=61187726&width=1200&height=600&coordinates=0%2C279%2C0%2C279",
+      "url": "/tech-news/2026-01-03/elon-musk-in-hot-water-as-probe-launched-into-ai-c/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Raw Story"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Tesla ztrácí titul největšího výrobce elektromobilů ve prospěch čínské BYD kvůli konkurenci a konci daňových úlev",
+      "description": "Roční prodeje Tesly klesly druhý rok v řadě kvůli rostoucí konkurenci, konci amerických daňových úlev a odporu vůči značce. Čínská BYD překonala Teslu v ročních prodejích poprvé.",
+      "slug": "tesla-loses-ev-crown-to-chinas-byd-as-competition-",
+      "publishedAt": "2026-01-03T01:33:56+00:00",
+      "date": "2026-01-03 01:33:56",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://media.rnztools.nz/rnz/image/upload/s--2w9r4-0w--/t_tohu-badge-facebook/v1745358281/4K8I69K_cnn_L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbTlzeDN4ZWIwMDAyM2I2b2x5M3BlenNr_L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtOXN4M2U4ajAwMHcyZHFvMHNrczBid3c_JPG?_a=BACCd2AD",
+      "url": "/tech-news/2026-01-03/tesla-loses-ev-crown-to-chinas-byd-as-competition/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "RNZ"
+      },
+      "companies": [
+        "Tesla",
+        "BYD"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nákupy v roce 2026: Umělá inteligence přebírá můj nejoblíbenější koníček",
+      "description": "Éra agentické umělé inteligence slibuje život bez zbytečných trení. Nevyhnutelnosti však budují dovednosti.",
+      "slug": "shopping-in-2026-ai-is-taking-over-my-no-1-hobby",
+      "publishedAt": "2026-01-03T01:30:33+00:00",
+      "date": "2026-01-03 01:30:33",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2026/01/02/1600x900/logo/3-0-98621094-beautyproducts2-0_1679786666568_1767346334702.jpg",
+      "url": "/tech-news/2026-01-03/shopping-in-2026-ai-is-taking-over-my-no-1-hobby/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Livemint"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Tesla ztrácí postavení největšího výrobce elektromobilů na světě ve prospěch čínské BYD",
       "description": "Elon Muskova automobilka dodala v roce 2025 méně plně elektrických vozidel než svůj čínský rival BYD.",
@@ -3677,26 +3777,6 @@
       "people": []
     },
     {
-      "title": "Apple opravuje dvě zero-day zranitelnosti využívané v cílených útocích",
-      "description": "Apple vydal nouzové bezpečnostní aktualizace pro dvě zero-day zranitelnosti v WebKit, které byly aktivně exploitovány v sofistikovaných útocích na konkrétní jednotlivce. Uživatelům iPhonu a iPadu se doporučuje okamžitě aktualizovat zařízení.",
-      "slug": "apple-patches-two-zero-day-flaws-used-in-targeted-",
-      "publishedAt": "2025-12-27T18:30:53+00:00",
-      "date": "2025-12-27 18:30:53",
-      "importance": 5,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/apple-store-new-york-city-iphone-sales.jpg",
-      "url": "/tech-news/2025-12-27/apple-patches-two-zero-day-flaws-used-in-targeted/",
-      "source": {
-        "emoji": "📰",
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
       "title": "Největší technologické trendy, kterých očekávat v roce 2026",
       "description": "Rok 2026 přinese významné změny v umělé inteligenci, produktech Apple, Nvidia, robotice, rozšířené realitě a dalších oblastech. Článek shrnuje klíčové predikce na základě analýzy odborníků.",
       "slug": "the-biggest-tech-trends-to-expect-in-2026",
@@ -3781,46 +3861,6 @@
       "people": []
     },
     {
-      "title": "Analýza: Výpadek Waymo v San Franciscu zvyšuje pochybnosti o připravenosti robotaxi na krize",
-      "description": "Rozsáhlý výpadek proudu v San Franciscu 20. prosince 2025 způsobil, že Waymo robotaxi uvízly na křižovatkách a blokovaly dopravu kvůli nefungujícím semaforům. Incident vyvolal obavy o schopnost autonomních vozidel zvládat nouzové situace, jako jsou zemětřesení nebo povodně, a volání po přísnějších regulacích.",
-      "slug": "analysiswaymos-san-francisco-outage-raises-doubts-",
-      "publishedAt": "2025-12-27T14:01:57+00:00",
-      "date": "2025-12-27 14:01:57",
-      "importance": 4,
-      "category": "autonomní vozy",
-      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--IAob2qJP--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-12-27T140157Z_1_LYNXMPELBQ08E_RTROPTP_3_WAYMO-ROBOTAXI.JPG?itok=UXDPvYZo",
-      "url": "/tech-news/2025-12-27/analysiswaymos-san-francisco-outage-raises-doubts/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNA"
-      },
-      "companies": [
-        "Waymo"
-      ],
-      "people": []
-    },
-    {
-      "title": "Apple vyvíjí DarkDiff AI pro zlepšení fotografií v špatném osvětlení s využitím generativních difúzních modelů",
-      "description": "Společnost Apple představila technologii DarkDiff, která zlepšuje kvalitu fotografií v podmínkách špatného osvětlení integrací generativních difúzních modelů do obrazového signálového procesoru (ISP) kamery. Tato technologie snižuje rozmazání a zvyšuje ostrost snímků přímo v hardwaru zařízení.",
-      "slug": "apple-develops-darkdiff-ai-to-enhance-low-light-ph",
-      "publishedAt": "2025-12-27T12:19:32+00:00",
-      "date": "2025-12-27 12:19:32",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://img.digitimes.com/newsshow/20251226pd203_files/1_b.jpg",
-      "url": "/tech-news/2025-12-27/apple-develops-darkdiff-ai-to-enhance-low-light-ph/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
       "title": "Kde stojí projekty datových center pro AI v oblasti Ann Arbor na konci roku 2025",
       "description": "Od kontroverzního zařízení OpenAI v Saline Township po nadcházející rozhodnutí voličů v Augusta Township čelí více komunit tlakům velkých technologických firem na rozvoj infrastruktury pro umělou inteligenci za silného odporu obyvatel.",
       "slug": "where-ai-data-center-projects-in-the-ann-arbor-are",
@@ -3856,26 +3896,6 @@
         "name": "The New Yorker"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "IPO postavené na opomenutí: Hithium a standardy zveřejňování na HKEX",
-      "description": "S rostoucí globální soutěží o vedení v umělé inteligenci, mikropočítačích a infrastruktuře chytrých měst se vlády a trhy přehodnocují, co je spolehlivé technologické partnerství.",
-      "slug": "an-ipo-built-on-omission-hithium-and-the-disclosur",
-      "publishedAt": "2025-12-27T10:23:17+00:00",
-      "date": "2025-12-27 10:23:17",
-      "importance": 4,
-      "category": "ipo",
-      "urlToImage": "https://d.ibtimes.com/en/full/4638660/hithium-disclosure-standards-facing-hkex.jpg",
-      "url": "/tech-news/2025-12-27/an-ipo-built-on-omission-hithium-and-the-disclosur/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "International Business Times"
-      },
-      "companies": [
-        "Hithium"
-      ],
       "people": []
     },
     {
@@ -3979,24 +3999,6 @@
         "Sunny Madra",
         "Simon Edwards"
       ]
-    },
-    {
-      "title": "11-kubitový atomový procesor v křemíku s fidelitami od 99,10 % do 99,99 %",
-      "description": "Výzkumníci vyvinuli 11-kubitový kvantový procesor na bázi jednotlivých atomů v křemíku, který dosahuje fidelití kvantových branek v rozmezí od 99,10 % do 99,99 %. Tento výkon představuje klíčový pokrok v křemíkových kvantových technologiích směrem k škálovatelným systémům.",
-      "slug": "an-11-qubit-atom-processor-in-silicon-with-all-fid",
-      "publishedAt": "2025-12-27T05:47:01+00:00",
-      "date": "2025-12-27 05:47:01",
-      "importance": 5,
-      "category": "kvantové počítače",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-27/an-11-qubit-atom-processor-in-silicon-with-all-fid/",
-      "source": {
-        "emoji": "📰",
-        "id": "hacker-news",
-        "name": "Hacker News"
-      },
-      "companies": [],
-      "people": []
     },
     {
       "title": "Je psaní zpráv za volantem autonomní Tesly šílenství?",
