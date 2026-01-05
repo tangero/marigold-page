@@ -1,10 +1,33 @@
 {
-  "generated": "2026-01-05T05:11:02.613155+00:00",
+  "generated": "2026-01-05T08:41:16.393255+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "Australské startupy v kvantovém počítačovství se blíží cílům po letech úsilí",
-      "description": "Australské startupy v kvantovém počítačovství postupují k praktickým aplikacím díky vládní podpoře a hlubokému fondu talentů. Země si klade za cíl dostat se do čela oboru do roku 2030.",
+      "title": "SpaceX a soukromé investice pohánějí sny Elona Muska o bilionovém jmění",
+      "description": "Elegantní vozy a futuristické nákladní vozy Tesly definují veřejný obraz Elona Muska, ale SpaceX je skutečným motorem růstu jeho majetku. Potenciální úvod SpaceX na burzu s valuací až 1,5 bilionu USD urychluje jeho cestu k trillionu.",
+      "slug": "spacex-private-ventures-fuel-elon-musks-trillion-d",
+      "publishedAt": "2026-01-04T05:01:00+00:00",
+      "date": "2026-01-04 05:01:00",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ZyMw9K3J9P8U_.xmLXiXQQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/the_daily_upside_435/ff113d25cd44fac23e1554681cf54754",
+      "url": "/tech-news/2026-01-04/spacex-private-ventures-fuel-elon-musks-trillion-d/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Thedailyupside.com"
+      },
+      "companies": [
+        "SpaceX",
+        "Tesla"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Australské startupy v kvantovém počítačovství směřují k cílům po letech úsilí",
+      "description": "Australské startupy v kvantovém počítačovství se blíží k praktickým aplikacím díky vládní podpoře a hlubokému zásobníku talentů. Země si klade za cíl dostat se do popředí tohoto oboru do roku 2030, přičemž firmy jako Q-CTRL vyvíjejí specifické systémy, například kvantovou navigaci.",
       "slug": "australias-quantum-computing-startups-race-toward-",
       "publishedAt": "2026-01-04T00:34:58+00:00",
       "date": "2026-01-04 00:34:58",
@@ -4019,24 +4042,6 @@
       "companies": [
         "SpaceX"
       ],
-      "people": []
-    },
-    {
-      "title": "Proč umělá inteligence nezměnila náš život v roce 2025",
-      "description": "Rok 2025 měl být rokem, kdy autonomní AI agenti převezmou každodenní úkoly. Technologický průmysl slíbil více, než dokázal dodat.",
-      "slug": "why-ai-didnt-transform-our-lives-in-2025",
-      "publishedAt": "2025-12-27T11:00:00+00:00",
-      "date": "2025-12-27 11:00:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://media.newyorker.com/photos/694979f717a442d99f43a62b/16:9/w_1280,c_limit/NEW-YORKER_AI-NO-TAKOVER_ShiraInbar_Still.png",
-      "url": "/tech-news/2025-12-27/why-ai-didnt-transform-our-lives-in-2025/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The New Yorker"
-      },
-      "companies": [],
       "people": []
     }
   ]
