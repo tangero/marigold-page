@@ -1,14 +1,57 @@
 {
-  "generated": "2026-01-04T20:36:44.710702+00:00",
+  "generated": "2026-01-05T01:22:33.435136+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "Ovplyvní nové partnerství Disney s OpenAI vaši dovolenou v Disney World?",
-      "description": "Umělá inteligence by mohla změnit tvář Disney navždy. Partnerství s OpenAI zahrnuje investici 1 miliardy dolarů a umožňuje generování videí s ikonickými postavami.",
+      "title": "Australské startupy v kvantovém počítačství směřují k cílům po letech úsilí",
+      "description": "Startupy v Austrálii se blíží k praktickému využití kvantových počítačů, zatímco země chce do roku 2030 patřit mezi lídry v tomto oboru díky vládní podpoře a hlubokému zásobníku talentů. Firma Q-CTRL vyvíjí například kvantovou navigaci.",
+      "slug": "australias-quantum-computing-startups-race-toward-",
+      "publishedAt": "2026-01-04T00:44:03+00:00",
+      "date": "2026-01-04 00:44:03",
+      "importance": 5,
+      "category": "kvantové počítače",
+      "urlToImage": "https://biztoc.com/cdn/b304b6d55f8859b1_s.webp",
+      "url": "/tech-news/2026-01-04/australias-quantum-computing-startups-race-toward/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "companies": [
+        "Q-CTRL"
+      ],
+      "people": []
+    },
+    {
+      "title": "Čínský výrobce DRAM CXMT míří na IPO za 4,2 miliardy USD proti Samsungu, SK Hynix a Micronu",
+      "description": "Čínská společnost ChangXin Memory Technologies (CXMT), největší výrobce DRAM pamětí v Číně, podala žádost o IPO na šanghajském STAR Marketu s cílem získat až 29,5 miliardy CNY (přibližně 4,2 miliardy USD) na modernizaci výroby a vývoj nových technologií.",
+      "slug": "china-dram-maker-cxmt-targets-42b-ipo-as-it-takes-",
+      "publishedAt": "2026-01-03T23:14:29+00:00",
+      "date": "2026-01-03 23:14:29",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": null,
+      "url": "/tech-news/2026-01-03/china-dram-maker-cxmt-targets-42b-ipo-as-it-takes/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Ic-pcb.com"
+      },
+      "companies": [
+        "CXMT",
+        "Samsung",
+        "SK Hynix",
+        "Micron"
+      ],
+      "people": []
+    },
+    {
+      "title": "Ovlivní nové partnerství Disney s OpenAI vaši dovolenou v Disney World?",
+      "description": "Umělá inteligence by mohla navždy změnit tvář Disney. Partnerství s OpenAI umožní fanouškům vytvářet videa s ikonickými postavami.",
       "slug": "will-your-disney-world-vacation-be-impacted-by-dis",
       "publishedAt": "2026-01-03T20:00:24+00:00",
       "date": "2026-01-03 20:00:24",
-      "importance": 5,
+      "importance": 4,
       "category": "ai",
       "urlToImage": "https://www.disneyfoodblog.com/wp-content/uploads/2025/12/openAI-walt-disney-company-700x394.jpeg",
       "url": "/tech-news/2026-01-03/will-your-disney-world-vacation-be-impacted-by-dis/",
@@ -3977,47 +4020,6 @@
       },
       "companies": [
         "SpaceX"
-      ],
-      "people": []
-    },
-    {
-      "title": "Výpadek Waymo v San Franciscu zvyšuje pochybnosti o připravenosti autonomních taxíků na krize",
-      "description": "Bezřidičové taxíky společnosti Waymo, dceřiné firmy Alphabetu, se zasekly na křižovatkách v San Franciscu s blikajícími výstražnými světly poté, co požár v podstanici PG&E způsobil výpadek elektřiny v jedné třetině města a odstavení semaforů 20. prosince. Incident vyvolal obavy o schopnost autonomních vozidel zvládnout mimořádné události jako zemětřesení.",
-      "slug": "waymos-san-francisco-outage-raises-doubts-over-rob",
-      "publishedAt": "2025-12-27T14:50:23+00:00",
-      "date": "2025-12-27 14:50:23",
-      "importance": 4,
-      "category": "autonomní vozy",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-174506,resizemode-75,msid-126205794/tech/technology/waymos-san-francisco-outage-raises-doubts-over-robotaxi-readiness-during-crises.jpg",
-      "url": "/tech-news/2025-12-27/waymos-san-francisco-outage-raises-doubts-over-rob/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Waymo",
-        "Alphabet"
-      ],
-      "people": []
-    },
-    {
-      "title": "Kde stojí projekty datových center pro AI v oblasti Ann Arbor na konci roku 2025",
-      "description": "Od kontroverzního zařízení OpenAI v Saline Township po nadcházející rozhodnutí voličů v Augusta Township čelí více komunit tlakům velkých technologických firem na rozvoj infrastruktury pro umělou inteligenci za silného odporu obyvatel.",
-      "slug": "where-ai-data-center-projects-in-the-ann-arbor-are",
-      "publishedAt": "2025-12-27T12:11:26+00:00",
-      "date": "2025-12-27 12:11:26",
-      "importance": 4,
-      "category": "datová centra",
-      "urlToImage": "https://www.mlive.com/resizer/v2/P5SB3PT3FJCPFIHLV24HIXTOUQ.jpg?auth=9d42ffaefeddd75fc1f62ff5bb3144bf68d1b065c32ee420ceda49266185fcd9&width=1280&smart=true&quality=90",
-      "url": "/tech-news/2025-12-27/where-ai-data-center-projects-in-the-ann-arbor-are/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "mlive.com"
-      },
-      "companies": [
-        "OpenAI"
       ],
       "people": []
     },
