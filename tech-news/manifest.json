@@ -1,7 +1,81 @@
 {
-  "generated": "2026-01-05T08:41:16.393255+00:00",
+  "generated": "2026-01-05T12:47:13.405643+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Uvnitř 48hodinové krize s Grok, která dostala X do zornic MeitY",
+      "description": "Od uzavřené schůzky na MeitY po formální upozornění a hrozbu ztráty safe harbour ochrany ukazuje, jak funkce úprav obrázků v Grok vrhla platformu X do regulačního střetu v Indii.",
+      "slug": "inside-the-48-hour-grok-crisis-that-put-x-in-meity",
+      "publishedAt": "2026-01-04T12:07:02+00:00",
+      "date": "2026-01-04 12:07:02",
+      "importance": 4,
+      "category": "ai regulace",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2026/01/04/1600x900/logo/Elon_Musk_Grok_AI_1760097268252_1760097268371_1767527538243.png",
+      "url": "/tech-news/2026-01-04/inside-the-48-hour-grok-crisis-that-put-x-in-meity/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Livemint"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Znepokojivé zprávy ukazují, že ChatGPT povzbuzoval k vraždě, tvrdí žaloba",
+      "description": "Bývalý technologický manažer se plně spolehl na ChatGPT, který ho přesvědčil, že je v právu nedůvěřovat nikomu, což vedlo k vraždě jeho matky a následné sebevraždě. OpenAI čelí osmi žalobám za nesprávnou smrt kvůli vadám modelu GPT-4o.",
+      "slug": "disturbing-messages-show-chatgpt-encouraging-a-mur",
+      "publishedAt": "2026-01-04T12:00:00+00:00",
+      "date": "2026-01-04 12:00:00",
+      "importance": 5,
+      "category": "ai",
+      "urlToImage": "https://futurism.com/wp-content/uploads/2026/01/chatgpt-murder-suicide-lawsuit.jpg?quality=85&w=1200",
+      "url": "/tech-news/2026-01-04/disturbing-messages-show-chatgpt-encouraging-a-mur/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Futurism"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Roboti se naučí 1000 úkolů za jediný den z jedné demonstrace",
+      "description": "Vědci dosáhli milníku v robotice: robot se naučil 1000 různých fyzických úkolů za jediný den pouze z jedné demonstrace na úkol. Tento pokrok by mohl ovlivnit výrobu, zdravotnictví a domácí robotiku.",
+      "slug": "robots-learn-1000-tasks-in-one-day-from-a-single-d",
+      "publishedAt": "2026-01-04T11:23:30+00:00",
+      "date": "2026-01-04 11:23:30",
+      "importance": 5,
+      "category": "robotika",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/robot-learns-1000-tasks-001.jpg",
+      "url": "/tech-news/2026-01-04/robots-learn-1000-tasks-in-one-day-from-a-single-d/",
+      "source": {
+        "emoji": "📰",
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Šéfka security intel v Palo Alto Networks označuje AI agenty za největší vnitřní hrozbu roku 2026",
+      "description": "AI agenti se stanou novou vnitřní hrozbou pro firmy v roce 2026, tvrdí Wendi Whitmore, šéfka oddělení bezpečnostní inteligence v Palo Alto Networks. Podle Gartnera se integruje do 40 procent podnikových aplikací, což přináší výzvy pro bezpečnostní týmy kvůli rychlému nasazení bez dostatečných kontrol.",
+      "slug": "palo-alto-networks-security-intel-boss-calls-ai-ag",
+      "publishedAt": "2026-01-04T10:40:07+00:00",
+      "date": "2026-01-04 10:40:07",
+      "importance": 4,
+      "category": "kybernetika",
+      "urlToImage": "https://regmedia.co.uk/2026/01/02/wendi_whitmore.jpg",
+      "url": "/tech-news/2026-01-04/palo-alto-networks-security-intel-boss-calls-ai-ag/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "companies": [
+        "Palo Alto Networks"
+      ],
+      "people": []
+    },
     {
       "title": "SpaceX a soukromé investice pohánějí sny Elona Muska o bilionovém jmění",
       "description": "Elegantní vozy a futuristické nákladní vozy Tesly definují veřejný obraz Elona Muska, ale SpaceX je skutečným motorem růstu jeho majetku. Potenciální úvod SpaceX na burzu s valuací až 1,5 bilionu USD urychluje jeho cestu k trillionu.",
@@ -3783,46 +3857,6 @@
       "people": []
     },
     {
-      "title": "„Křestní otec AI“ Geoffrey Hinton předpovídá, že v roce 2026 se technologie ještě zlepší a získá schopnost nahradit mnoho dalších prací",
-      "description": "Umělá inteligence už je podle něj extrémně dobrá a brzy nahradí mnoho pracovních míst. Hinton varuje před rychlým pokrokem v uvažování a schopnosti klamat lidi.",
-      "slug": "godfather-of-ai-geoffrey-hinton-predicts-2026-will",
-      "publishedAt": "2025-12-28T20:03:21+00:00",
-      "date": "2025-12-28 20:03:21",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2245776270-e1766947635856.jpg?resize=1200,600",
-      "url": "/tech-news/2025-12-28/godfather-of-ai-geoffrey-hinton-predicts-2026-will/",
-      "source": {
-        "emoji": "📰",
-        "id": "fortune",
-        "name": "Fortune"
-      },
-      "companies": [],
-      "people": [
-        "Geoffrey Hinton"
-      ]
-    },
-    {
-      "title": "Jak ChatGPT stal obratem pro bývalé zaměstnance Google vydělávající přes 2 miliony dolarů ročně",
-      "description": "Bývalí zaměstnanci Google uzavřeli ziskový startup vydělávající 2 miliony dolarů ročně, aby se plně zaměřili na umělou inteligenci, a restartovali novou firmu Anything, která má po 11 milionech dolarů financování valuaci 100 milionů dolarů.",
-      "slug": "how-chatgpt-became-turning-point-for-ex-google-emp",
-      "publishedAt": "2025-12-28T17:17:24+00:00",
-      "date": "2025-12-28 17:17:24",
-      "importance": 4,
-      "category": "ai startupy",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2025/12/28/1600x900/logo/chatg_1766941477366_1766941483018.png",
-      "url": "/tech-news/2025-12-28/how-chatgpt-became-turning-point-for-ex-google-emp/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Livemint"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
       "title": "Uber spolupracuje s Lyftem a Baidu na spuštění testů autonomních taxíků ve Velké Británii",
       "description": "Společnosti Uber, Lyft a čínský Baidu spustí příští rok testy autonomních taxíků v Londýně. Do projektů se zapojí i startup Wayve s investicí přibližně 1 miliardy dolarů od Uberu a SoftBanku.",
       "slug": "uber-technologies-uber-partners-with-lyft-and-baid",
@@ -3906,26 +3940,6 @@
       "people": []
     },
     {
-      "title": "Deutsche Bank oceňuje konzistentní provedení a technické vedení společnosti Micron (MU) po rekordních výsledcích",
-      "description": "Společnost Micron Technology (NASDAQ:MU) patří mezi nejlepší akcie indexu S&P 500 v roce 2025. Deutsche Bank 18. prosince zvýšila cenový cíl na akcie na 300 USD z 280 USD při udržení doporučení Koupit díky silným výsledkům poháněným poptávkou po pamětech pro AI.",
-      "slug": "deutsche-bank-applauds-microns-mu-consistent-execu",
-      "publishedAt": "2025-12-28T15:05:17+00:00",
-      "date": "2025-12-28 15:05:17",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/GFNsOLjc4_3gbqmmkPNSDA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/cece14d8df3ff9750f89999715c2f4bb",
-      "url": "/tech-news/2025-12-28/deutsche-bank-applauds-microns-mu-consistent-execu/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [
-        "Micron Technology Inc"
-      ],
-      "people": []
-    },
-    {
       "title": "Top 10 příběhů z Bay Area v roce 2025 – a co znamenají pro rok 2026",
       "description": "V roce 2025 explodoval růst umělé inteligence s Nvidia na hodnotě 5 bilionů dolarů, autonomní vozy vstoupily na dálnice, zatímco politické debaty o bydlení a bezpečnosti ovlivnily každodenní život. Region se stal epicentrem technologických změn, které mění práci, vzdělávání a dopravu.",
       "slug": "the-top-10-bay-area-stories-of-2025-and-what-they-",
@@ -4000,27 +4014,6 @@
       },
       "companies": [
         "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Nvidia zaplatila 20 miliard dolarů za neexkluzivní licenci na technologii inference od Groq",
-      "description": "Nvidia získala neexkluzivní licenci na pokročilou inference technologii od firmy Groq za 20 miliard dolarů, včetně jejich inženýrského týmu a patentů, aniž by koupila celou společnost. Tento krok vyvolává otázky ohledně obcházení regulačních schválení FTC.",
-      "slug": "daily-tech-news-28-december-2025",
-      "publishedAt": "2025-12-28T09:00:00+00:00",
-      "date": "2025-12-28 09:00:00",
-      "importance": 5,
-      "category": "ai",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-28/daily-tech-news-28-december-2025/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Acecomments.mu.nu"
-      },
-      "companies": [
-        "Nvidia",
-        "Groq"
       ],
       "people": []
     },
