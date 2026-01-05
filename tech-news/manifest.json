@@ -1,7 +1,83 @@
 {
-  "generated": "2026-01-05T12:47:13.405643+00:00",
+  "generated": "2026-01-05T16:41:15.755406+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Šéf významné technologické firmy varuje před AI agenty v kyberútocích",
+      "description": "CEO společnosti Zscaler Jay Chaudhry v rozhovoru pro CNBC upozornil, že AI agenti výrazně zintenzivnili kyberútoky tempem, kterému většina firem nestíhá reagovat. Podniky pomalu přizpůsobují svou obranu této hrozbě, což představuje větší riziko než samotná technologie.",
+      "slug": "major-tech-ceo-sounds-alarm-on-ai-agents",
+      "publishedAt": "2026-01-04T15:54:46+00:00",
+      "date": "2026-01-04 15:54:46",
+      "importance": 4,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://biztoc.com/cdn/20fd1d284e4e7813_s.webp",
+      "url": "/tech-news/2026-01-04/major-tech-ceo-sounds-alarm-on-ai-agents/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "companies": [],
+      "people": [
+        "Jay Chaudhry"
+      ]
+    },
+    {
+      "title": "Tiché testy Grok 4.2 ukazují ostřejší uživatelské rozhraní, čistší kód a hratelné hry",
+      "description": "Grok 4.2 s kódovým názvem Obsidian prochází tichými testy na platformách jako Design Arena a LM Marina, kde demonstruje pokroky v tvorbě webových designů, interaktivních UI prvků a dynamických grafů. Tento model spojuje kreativitu s technickou přesností a testuje hranice AI v praktických aplikacích.",
+      "slug": "grok-42-quiet-trials-show-sharper-ui-cleaner-code-",
+      "publishedAt": "2026-01-04T15:00:46+00:00",
+      "date": "2026-01-04 15:00:46",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/01/grok-4-2-vs-4-1-comparison_optimized.jpg",
+      "url": "/tech-news/2026-01-04/grok-42-quiet-trials-show-sharper-ui-cleaner-code/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Automobilky se musí vrátit do školy kyberbezpečnosti",
+      "description": "Tom Jervis je přesvědčen, že pokud výrobci automobilů chtějí pokračovat ve sběru našich dat, musí výrazně zlepšit jejich ochranu před kyberzločinci.",
+      "slug": "car-brands-must-go-back-to-cyber-security-school",
+      "publishedAt": "2026-01-04T14:08:38+00:00",
+      "date": "2026-01-04 14:08:38",
+      "importance": 5,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://media.autoexpress.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1766420971/autoexpress/2025/12/Car and data theft - opinion.jpg",
+      "url": "/tech-news/2026-01-04/car-brands-must-go-back-to-cyber-security-school/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "AutoExpress"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Akcie Baidu (BIDU) vyskočily o 20 %, čipová divize míří na IPO v Hong Kongu",
+      "description": "Akcie Baidu vzrostly o 20,4 % a dosáhly nového 52týdenního maxima díky plánu na oddělené uvedení polovodičové dceřiné společnosti Kunlunxin na burze v Hong Kongu. Tento krok má zvýšit viditelnost AI čipů firmy a přilákat investory do sektoru umělé inteligence.",
+      "slug": "baidu-bidu-skyrockets-20-as-chip-unit-eyes-ipo-in-",
+      "publishedAt": "2026-01-04T13:52:39+00:00",
+      "date": "2026-01-04 13:52:39",
+      "importance": 4,
+      "category": "burza",
+      "urlToImage": "https://media.zenfs.com/en/insidermonkey.com/2f81169e56709ee578124845f2ca360c",
+      "url": "/tech-news/2026-01-04/baidu-bidu-skyrockets-20-as-chip-unit-eyes-ipo-in/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "Baidu"
+      ],
+      "people": []
+    },
     {
       "title": "Uvnitř 48hodinové krize s Grok, která dostala X do zornic MeitY",
       "description": "Od uzavřené schůzky na MeitY po formální upozornění a hrozbu ztráty safe harbour ochrany ukazuje, jak funkce úprav obrázků v Grok vrhla platformu X do regulačního střetu v Indii.",
@@ -3837,26 +3913,6 @@
       "people": []
     },
     {
-      "title": "OpenAI hledá seniorního vedoucího přípravy na rizika, jak roste dohled nad bezpečností AI",
-      "description": "OpenAI Group PBC nabízí pozici vedoucího přípravy, seniorní role zaměřenou na predikci potenciálních škod z umělých inteligencí modelů a navrhování opatření k jejich zmírnění při pokračujícím vývoji schopností. Role vede technickou strategii a provádění Preparedness Framework pro sledování hraničních schopností.",
-      "slug": "openai-hiring-senior-preparedness-lead-as-ai-safet",
-      "publishedAt": "2025-12-28T23:33:00+00:00",
-      "date": "2025-12-28 23:33:00",
-      "importance": 4,
-      "category": "bezpečnost ai",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/openaiheadofprepardness.png",
-      "url": "/tech-news/2025-12-28/openai-hiring-senior-preparedness-lead-as-ai-safet/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
       "title": "Uber spolupracuje s Lyftem a Baidu na spuštění testů autonomních taxíků ve Velké Británii",
       "description": "Společnosti Uber, Lyft a čínský Baidu spustí příští rok testy autonomních taxíků v Londýně. Do projektů se zapojí i startup Wayve s investicí přibližně 1 miliardy dolarů od Uberu a SoftBanku.",
       "slug": "uber-technologies-uber-partners-with-lyft-and-baid",
@@ -3896,26 +3952,6 @@
       "companies": [
         "ServiceNow",
         "Moveworks"
-      ],
-      "people": []
-    },
-    {
-      "title": "Needham upozorňuje na přechod Rocket Lab (RKLB) k hlavnímu dodavateli pro obranu po rekordní zakázce na satelity za 805 milionů dolarů",
-      "description": "Rocket Lab Corporation (NASDAQ: RKLB) patří mezi nejlepší akcie vycházejících technologických firem pro investory. Dne 23. prosince Needham zvýšil cenový cíl akcie na 90 dolarů z 63 dolarů při udržení doporučení Koupit.",
-      "slug": "needham-highlights-rocket-labs-rklb-shift-to-major",
-      "publishedAt": "2025-12-28T15:05:41+00:00",
-      "date": "2025-12-28 15:05:41",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/g.aUiIofdxP0dN4YKcL4Ww--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/419b4545bbf583b1916a4b0eec76014e",
-      "url": "/tech-news/2025-12-28/needham-highlights-rocket-labs-rklb-shift-to-major/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [
-        "Rocket Lab"
       ],
       "people": []
     },
@@ -3995,46 +4031,6 @@
         "name": "Business Insider"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Učte se rychleji s NotebookLM: Přizpůsobuje lekce myšlenkovými mapami pro lepší zapamatování",
-      "description": "Google rozšiřuje platformu NotebookLM o funkci „Learn Your Way“, která personalizuje vzdělávací obsah podle individuálního stylu učení uživatele. Tato AI platforma adaptuje lekce do vizuálních map, příběhů nebo kvízů, což zlepšuje porozumění a uchování informací oproti tradičním metodám.",
-      "slug": "learn-quicker-with-notebooklm-adapts-lessons-with-",
-      "publishedAt": "2025-12-28T09:00:46+00:00",
-      "date": "2025-12-28 09:00:46",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/slides-quizzes-narration-google-ai_optimized.jpg",
-      "url": "/tech-news/2025-12-28/learn-quicker-with-notebooklm-adapts-lessons-with/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Je SpaceX připraveno zahájit testy orbitálního doplňování paliva? - Spaceflight Weekly #198",
-      "description": "Tento týden na Starbase pokračuje stavba na místě startu a separátoru vzduchu, práce na Boosteru 19 a Shipu 39, včetně nové truss struktury na Massey Outpost. SpaceX zároveň dosáhlo milníku se starty Starlink, zatímco Rocket Lab, ULA a Arianespace přispěly dalšími misemi a NASA jmenovala 15. administrátora.",
-      "slug": "is-spacex-ready-to-start-testing-orbital-refilling",
-      "publishedAt": "2025-12-28T06:36:34+00:00",
-      "date": "2025-12-28 06:36:34",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-28/is-spacex-ready-to-start-testing-orbital-refilling/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Freerepublic.com"
-      },
-      "companies": [
-        "SpaceX"
-      ],
       "people": []
     }
   ]
