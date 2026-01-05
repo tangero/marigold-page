@@ -1,7 +1,92 @@
 {
-  "generated": "2026-01-05T16:41:15.755406+00:00",
+  "generated": "2026-01-05T20:43:30.585060+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "OpenAI hledá 'Head of Preparedness' na řešení nových rizik bezpečnosti AI",
+      "description": "Společnost OpenAI Sama Altmana, tvůrce ChatGPT, vyhlašuje novou pozici vrcholového manažera pro připravenost, který povede úsilí o studium a mitigaci bezpečnostních rizik spojených s pokročilými AI modely. Pozice nabízí plat 555 000 dolarů plus podíly a zaměřuje se na přípravu na hraniční schopnosti AI, které mohou vést k vážným škodám.",
+      "slug": "openai-seeks-head-of-preparedness-to-tackle-emergi",
+      "publishedAt": "2026-01-04T19:20:36+00:00",
+      "date": "2026-01-04 19:20:36",
+      "importance": 4,
+      "category": "ai bezpečnost",
+      "urlToImage": "https://media.breitbart.com/media/2025/12/Sam-Altman-speaks-on-screen-640x335.jpg",
+      "url": "/tech-news/2026-01-04/openai-seeks-head-of-preparedness-to-tackle-emergi/",
+      "source": {
+        "emoji": "📰",
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": [
+        "Sam Altman"
+      ]
+    },
+    {
+      "title": "„Otec AI“ Geoffrey Hinton předpovídá, že umělá inteligence nahradí v roce 2026 mnohem více pracovních míst",
+      "description": "„Otec AI“ Geoffrey Hinton věří, že umělá inteligence bude v roce 2026 rychle pokračovat v pokroku a získá schopnost nahradit rostoucí počet lidských pracovních míst díky exponenciálnímu zlepšování výkonu.",
+      "slug": "godfather-of-ai-geoffrey-hinton-predicts-ai-will-r",
+      "publishedAt": "2026-01-04T19:03:21+00:00",
+      "date": "2026-01-04 19:03:21",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://media.breitbart.com/media/2025/12/Godfather-of-AI-predicts-job-losses-640x335.jpg",
+      "url": "/tech-news/2026-01-04/godfather-of-ai-geoffrey-hinton-predicts-ai-will-r/",
+      "source": {
+        "emoji": "📰",
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "companies": [],
+      "people": [
+        "Geoffrey Hinton"
+      ]
+    },
+    {
+      "title": "Čína definovala, co jsou „solid-state“ baterie – jako první na světě",
+      "description": "Zatímco Tesla, Chevrolet, Ford a Hyundai dominují diskuzi o elektromobilech v USA, všichni stále spoléhají na lithium-iontovou technologii baterií starou více než tři roky.",
+      "slug": "china-just-defined-what-solid-state-batteries-areb",
+      "publishedAt": "2026-01-04T17:30:00+00:00",
+      "date": "2026-01-04 17:30:00",
+      "importance": 5,
+      "category": "elektromobilita",
+      "urlToImage": "https://media.zenfs.com/en/autoblog_arena_articles_145/defd71676946021228e7e2dd6c522d06",
+      "url": "/tech-news/2026-01-04/china-just-defined-what-solid-state-batteries-areb/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Autoblog"
+      },
+      "companies": [
+        "Tesla",
+        "Chevrolet",
+        "Ford",
+        "Hyundai"
+      ],
+      "people": []
+    },
+    {
+      "title": "OpenAI přiznává, že prohlížeče s AI čelí neřešitelným útokům typu prompt injection",
+      "description": "OpenAI vyvíjí automatizovaný systém útočníka k testování bezpečnosti prohlížeče ChatGPT Atlas proti hrozbám prompt injection a rizikům kyberzločinců. Společnost uznává, že tyto útoky nelze plně odstranit.",
+      "slug": "openai-admits-ai-browsers-face-unsolvable-prompt-a",
+      "publishedAt": "2026-01-04T17:10:26+00:00",
+      "date": "2026-01-04 17:10:26",
+      "importance": 4,
+      "category": "ai bezpečnost",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/chat-gpt-atlas-presentation.jpg",
+      "url": "/tech-news/2026-01-04/openai-admits-ai-browsers-face-unsolvable-prompt-a/",
+      "source": {
+        "emoji": "📰",
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
     {
       "title": "Šéf významné technologické firmy varuje před AI agenty v kyberútocích",
       "description": "CEO společnosti Zscaler Jay Chaudhry v rozhovoru pro CNBC upozornil, že AI agenti výrazně zintenzivnili kyberútoky tempem, kterému většina firem nestíhá reagovat. Podniky pomalu přizpůsobují svou obranu této hrozbě, což představuje větší riziko než samotná technologie.",
@@ -3913,49 +3998,6 @@
       "people": []
     },
     {
-      "title": "Uber spolupracuje s Lyftem a Baidu na spuštění testů autonomních taxíků ve Velké Británii",
-      "description": "Společnosti Uber, Lyft a čínský Baidu spustí příští rok testy autonomních taxíků v Londýně. Do projektů se zapojí i startup Wayve s investicí přibližně 1 miliardy dolarů od Uberu a SoftBanku.",
-      "slug": "uber-technologies-uber-partners-with-lyft-and-baid",
-      "publishedAt": "2025-12-28T15:59:14+00:00",
-      "date": "2025-12-28 15:59:14",
-      "importance": 4,
-      "category": "autonomní vozidla",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/GjtvmBhItrilu8Ag7qjwaA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/1b0d24331c5749b8809056a69d9d96ee",
-      "url": "/tech-news/2025-12-28/uber-technologies-uber-partners-with-lyft-and-baid/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [
-        "Uber Technologies",
-        "Lyft",
-        "Baidu"
-      ],
-      "people": []
-    },
-    {
-      "title": "ServiceNow dokončila akvizici Moveworks: Co byste měli vědět",
-      "description": "Společnost ServiceNow oznámila 15. prosince dokončení akvizice firmy Moveworks, která se specializuje na AI asistenty pro podnikové vyhledávání a konverzační AI. Tato akvizice vytváří jednotnou platformu sloužící jako vstupní bod založený na AI pro zaměstnance firem.",
-      "slug": "servicenow-inc-now-completes-moveworks-acquisition",
-      "publishedAt": "2025-12-28T15:58:58+00:00",
-      "date": "2025-12-28 15:58:58",
-      "importance": 4,
-      "category": "akvizice",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/m_syx5plVspKhlA6enPMpQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/5775cb349015718d263df9d11bfbbfa0",
-      "url": "/tech-news/2025-12-28/servicenow-inc-now-completes-moveworks-acquisition/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [
-        "ServiceNow",
-        "Moveworks"
-      ],
-      "people": []
-    },
-    {
       "title": "Wedbush upozorňuje na rostoucí příjmy IonQ (IONQ) a silný prodejní pipeline v kvantovém leadershipu",
       "description": "Společnost IonQ Inc. (NYSE: IONQ) patří mezi nejlepší akcie v oblasti nových technologií pro investice. Dne 17. prosince zahájila analytická firma Wedbush pokrytí IonQ s hodnocením Outperform a cenovým cílem 60 USD.",
       "slug": "wedbush-spotlights-ionqs-ionq-scaling-revenue-and-",
@@ -3976,26 +4018,6 @@
       "people": []
     },
     {
-      "title": "Top 10 příběhů z Bay Area v roce 2025 – a co znamenají pro rok 2026",
-      "description": "V roce 2025 explodoval růst umělé inteligence s Nvidia na hodnotě 5 bilionů dolarů, autonomní vozy vstoupily na dálnice, zatímco politické debaty o bydlení a bezpečnosti ovlivnily každodenní život. Region se stal epicentrem technologických změn, které mění práci, vzdělávání a dopravu.",
-      "slug": "the-top-10-bay-area-stories-of-2025-and-what-they-",
-      "publishedAt": "2025-12-28T12:02:54+00:00",
-      "date": "2025-12-28 12:02:54",
-      "importance": 5,
-      "category": "křemíkové údolí",
-      "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/07/France_Vivatech_93460.jpg?w=1024&h=683",
-      "url": "/tech-news/2025-12-28/the-top-10-bay-area-stories-of-2025-and-what-they/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Mercury News"
-      },
-      "companies": [],
-      "people": [
-        "Newsom"
-      ]
-    },
-    {
       "title": "Rok v přehledu 2025: Konsolidace, chaos a cookies",
       "description": "S blížícím se rokem 2026 přehled hlavních událostí roku 2025 a jejich dopadu na oblast reklamních technologií. Fúze agentur přetvářely trh, regulátoři zasahovali proti dominantním hráčům a Google upustil od plánů na nahrazení cookies.",
       "slug": "year-in-review-2025-consolidation-chaos-and-cookie",
@@ -4013,24 +4035,6 @@
       "companies": [
         "Google"
       ],
-      "people": []
-    },
-    {
-      "title": "Robotaxi se v roce 2025 staly virální. Tyto mapy ukazují, kde budete moci jezdit v roce 2026.",
-      "description": "Robotaxi získaly popularitu díky virálním videím, jak jejich přítomnost rostla v USA v roce 2025. V roce 2026 se rozšíří na více amerických silnic a měst.",
-      "slug": "robotaxis-went-viral-in-2025-these-maps-show-where",
-      "publishedAt": "2025-12-28T09:14:01+00:00",
-      "date": "2025-12-28 09:14:01",
-      "importance": 4,
-      "category": "robotaxi",
-      "urlToImage": "https://i.insider.com/694c5e9964858d02d21763ad?width=1200&format=jpeg",
-      "url": "/tech-news/2025-12-28/robotaxis-went-viral-in-2025-these-maps-show-where/",
-      "source": {
-        "emoji": "📰",
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "companies": [],
       "people": []
     }
   ]
