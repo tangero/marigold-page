@@ -1,7 +1,46 @@
 {
-  "generated": "2026-01-06T12:48:31.264305+00:00",
+  "generated": "2026-01-06T16:39:10.801371+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Výrobci jaderného paliva získají od USA 2,7 miliardy dolarů kvůli rostoucí poptávce po energii z AI",
+      "description": "USA udělují po 900 milionech dolarů Centrus Energy Corp. a dvěma dalším výrobcům jaderného paliva v rámci snahy o restart domácí produkce a odvykání se obohacenému ruskýmu uranu.",
+      "slug": "nuclear-fuel-makers-get-27-billion-from-us-as-ai-b",
+      "publishedAt": "2026-01-05T16:15:53+00:00",
+      "date": "2026-01-05 16:15:53",
+      "importance": 4,
+      "category": "jaderná energie",
+      "urlToImage": null,
+      "url": "/tech-news/2026-01-05/nuclear-fuel-makers-get-27-billion-from-us-as-ai-b/",
+      "source": {
+        "emoji": "📰",
+        "id": "financial-post",
+        "name": "Financial Post"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Ledger potvrzuje únik dat zákazníků z hacku třetí strany Global-e",
+      "description": "Společnost Ledger SAS potvrdila únik osobních údajů zákazníků v důsledku bezpečnostního incidentu u e-commerce platformy Global-e. Mezi postižená data patří jména, adresy, e-mailové adresy a telefonní čísla, avšak bezpečnost hardwareových peněženek a kryptoměn zůstává nedotčena.",
+      "slug": "ledger-confirms-leak-of-customer-data-from-third-p",
+      "publishedAt": "2026-01-05T15:45:18+00:00",
+      "date": "2026-01-05 15:45:18",
+      "importance": 4,
+      "category": "kryptoměny",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2018/01/ledger-nano-s-plug-large.png",
+      "url": "/tech-news/2026-01-05/ledger-confirms-leak-of-customer-data-from-third-p/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Ledger",
+        "Global-e"
+      ],
+      "people": []
+    },
     {
       "title": "Jak vytvořit AI data pipelines odolné vůči ransomware: Praktický průvodce pro moderní podniky",
       "description": "Moderní podniky závisí na AI data pipelines pro analýzu dat a automatizované rozhodování. Tento průvodce nabízí praktické kroky k ochraně těchto systémů před ransomware útoky, které ohrožují integritu dat a kontinuitu operací.",
@@ -3799,24 +3838,6 @@
       "people": []
     },
     {
-      "title": "Jak AI přetvořila automobilový svět v roce 2025",
-      "description": "Rok 2025 byl rokem, kdy umělá inteligence převzala řízení v automobilovém průmyslu, doslova. Nejen v zasedacích sálech nebo na burzách, ale stále více na letištích, v showroomech a za volantem samotným. Od rekordních prodejů elektromobilů ve Velké Británii a Evropě až po pokročilé autonomní systémy.",
-      "slug": "how-ai-rewired-the-automotive-world-in-2025",
-      "publishedAt": "2025-12-29T19:00:00+00:00",
-      "date": "2025-12-29 19:00:00",
-      "importance": 4,
-      "category": "automobilový průmysl",
-      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2025-12-28_9oglsa5nqy.jpg",
-      "url": "/tech-news/2025-12-29/how-ai-rewired-the-automotive-world-in-2025/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "OilPrice.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "'Není to dobré:' Elon Musk vyjádřil znepokojení nad vysokotechnologickou výrobou kvůli rostoucím cenám stříbra",
       "description": "Nedávný prudký růst cen stříbra znepokojuje výrobce, včetně Elona Muska, který na platformě X upozornil na rizika pro průmyslové procesy. Cena kovu dosáhla rekordních 80 dolarů za unci, což může ovlivnit výrobu solárních panelů, elektromobilů a elektroniky.",
       "slug": "not-good-elon-musk-expresses-concern-for-high-tech",
@@ -3875,24 +3896,6 @@
         "University of Pennsylvania",
         "University of Michigan"
       ],
-      "people": []
-    },
-    {
-      "title": "GPT-5.2 dosáhl 75 % na ARC AGI2: Vrstvený systém posunul model nad lidský průměr",
-      "description": "Jazykový model GPT-5.2 dosáhl 75 % na benchmarku ARC AGI2, což překonává lidský průměr 60 % a předchozí nejlepší výsledek o 15 procentních bodů. Malý tým výzkumníků z Poetic toho dosáhl novým meta-systémem, který zlepšuje uvažování bez specifického tréninku modelu.",
-      "slug": "gpt-52-just-hit-75-on-arc-agi-layered-system-lifts",
-      "publishedAt": "2025-12-29T11:00:46+00:00",
-      "date": "2025-12-29 11:00:46",
-      "importance": 5,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/12/poetic-reasoning-layer-diagram_optimized.jpg",
-      "url": "/tech-news/2025-12-29/gpt-52-just-hit-75-on-arc-agi-layered-system-lifts/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [],
       "people": []
     },
     {
