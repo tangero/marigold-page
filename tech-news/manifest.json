@@ -1,7 +1,129 @@
 {
-  "generated": "2026-01-06T04:55:19.055899+00:00",
+  "generated": "2026-01-06T08:44:57.118171+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Ovládněte Google AI Studio během minut: od streamování v reálném čase po nástroje pro tvorbu bez kódování",
+      "description": "Google AI Studio je platforma, která zjednodušuje interakci s umělou inteligencí pro uživatele všech úrovní. Nabízí nástroje pro vývoj aplikací bez kódování, tvorbu profesionálních médií a analýzu velkých datových sad z intuitivního rozhraní.",
+      "slug": "master-googles-ai-studio-in-minutes-from-real-time",
+      "publishedAt": "2026-01-05T08:13:46+00:00",
+      "date": "2026-01-05 08:13:46",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/01/generate-media-tools-video-image-audio_optimized.jpg",
+      "url": "/tech-news/2026-01-05/master-googles-ai-studio-in-minutes-from-real-time/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "TSMC zahájilo hromadnou výrobu 2nm procesu, Samsung v těsném závěsu",
+      "description": "Globální závod o vedení v polovodičovém průmyslu se posunul do nové fáze, kdy TSMC oznámilo zahájení hromadné výroby 2nm technologického procesu. To zvyšuje tlak na Samsung Electronics, který se snaží dohnat lídra v oblasti nejpokročilejší výroby čipů.",
+      "slug": "tsmc-kicks-off-2nm-production-with-samsung-in-hot-",
+      "publishedAt": "2026-01-05T08:11:10+00:00",
+      "date": "2026-01-05 08:11:10",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://img.digitimes.com/newsshow/20260105pd222_files/1_b.jpg",
+      "url": "/tech-news/2026-01-05/tsmc-kicks-off-2nm-production-with-samsung-in-hot/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [
+        "TSMC",
+        "Samsung Electronics"
+      ],
+      "people": []
+    },
+    {
+      "title": "5 předpovědí, jak AI ovlivní vysokoškolské vzdělávání v roce 2026",
+      "description": "Článek analyzuje vývoj generativní umělé inteligence ve vzdělávání od roku 2022 a představuje pět předpovědí na rok 2026. Zaměřuje se na partnerství univerzit s technologickými firmami a adaptaci na AI v výuce a výzkumu.",
+      "slug": "A-5-predictions-on-how-ai-will-shape-higher-ed-in-",
+      "publishedAt": "2026-01-05T08:00:00+00:00",
+      "date": "2026-01-05 08:00:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.insidehighered.com/sites/default/files/styles/large/public/2026-01/AI_horizon_2026.jpg?itok=7iQvvcYO",
+      "url": "/tech-news/2026-01-05/A-5-predictions-on-how-ai-will-shape-higher-ed-in/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Inside Higher Ed"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Viděli jste jejich auto?: Elon Musk se před deseti lety smál BYD; nyní překonalo Tesla jako největší výrobce elektromobilů světa",
+      "description": "Čínské BYD dramaticky překonalo Tesla a stalo se v roce 2025 největším výrobcem elektromobilů světa. Prodeje Tesly klesly druhý rok v řadě kvůli nespokojenosti zákazníků s politikou Elona Muska, vypršení amerických daňových úlev a silné zahraniční konkurenci.",
+      "slug": "have-you-seen-their-car-elon-musk-laughed-at-byd-a",
+      "publishedAt": "2026-01-05T07:34:39+00:00",
+      "date": "2026-01-05 07:34:39",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126347501,width-1200,height-630,imgsize-32634,overlay-economictimes/articleshow.jpg",
+      "url": "/tech-news/2026-01-05/have-you-seen-their-car-elon-musk-laughed-at-byd-a/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "BYD",
+        "Tesla"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "OpenAI představuje GPT-5.2-Codex",
+      "description": "OpenAI vydalo GPT-5.2-Codex, verzi modelu GPT-5.2 optimalizovanou pro nástroj Codex, který slouží jako cloudový agent pro vývoj softwaru. Tento model zlepšuje schopnosti v řešení složitých úkolů, jako je refaktoring kódu nebo správa migrací v velkých repozitářích.",
+      "slug": "openai-details-gpt-52-codex",
+      "publishedAt": "2026-01-05T07:28:31+00:00",
+      "date": "2026-01-05 07:28:31",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": null,
+      "url": "/tech-news/2026-01-05/openai-details-gpt-52-codex/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "ComputerWeekly.com"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Kapitán Amerika k prodeji: 72 miliard dolarů",
+      "description": "Dne 5. prosince 2025 Netflix oznámil koupi Warner Bros včetně filmového studia, TV studia, HBO, HBO Max a celého DC Comics vesmíru za 72 miliard dolarů. Deal se očekává uzavřít ve třetím čtvrtletí 2026 navzdory zájmu Paramountu.",
+      "slug": "captain-america-for-sale-72-billion",
+      "publishedAt": "2026-01-05T07:02:58+00:00",
+      "date": "2026-01-05 07:02:58",
+      "importance": 5,
+      "category": "zábavní průmysl",
+      "urlToImage": "https://www.counterpunch.org/wp-content/uploads/2026/01/Screenshot-2026-01-04-at-5.58.38-PM.png",
+      "url": "/tech-news/2026-01-05/captain-america-for-sale-72-billion/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CounterPunch"
+      },
+      "companies": [
+        "Netflix"
+      ],
+      "people": []
+    },
     {
       "title": "Samsung zdvojnásobí počet mobilních zařízení s AI od Google Gemini na 800 milionů kusů letos",
       "description": "Samsung Electronics plánuje v roce 2026 zdvojnásobit počet svých mobilních zařízení s funkcemi Galaxy AI, které pohání model Gemini od Google, z 400 na 800 milionů kusů. Tento krok má posílit pozici Google v globální soutěži o uživatele umělé inteligence.",
@@ -3634,27 +3756,6 @@
       "people": []
     },
     {
-      "title": "Britská Octopus Energy oddělí Kraken s valuací 8,65 miliardy dolarů",
-      "description": "Britská společnost Octopus Energy oznámila oddělení své technologické divize Kraken jako samostatné firmy s valuací 8,65 miliardy dolarů po investičním kole vedeném americkou investiční firmou D1 Capital Partners. Kraken dodává software pro energetické společnosti včetně EDF, National Grid U.S. a Tokyo Gas.",
-      "slug": "britains-octopus-energy-to-spin-out-kraken-at-865-",
-      "publishedAt": "2025-12-29T18:52:54+00:00",
-      "date": "2025-12-29 18:52:54",
-      "importance": 4,
-      "category": "energetické technolo",
-      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--UdP9XSzs--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-12-29T193210Z_2_LYNXMPELBS0PL_RTROPTP_3_BRITAIN-ENERGY.JPG?itok=gGLcF384",
-      "url": "/tech-news/2025-12-29/britains-octopus-energy-to-spin-out-kraken-at-865/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNA"
-      },
-      "companies": [
-        "Octopus Energy",
-        "Kraken"
-      ],
-      "people": []
-    },
-    {
       "title": "'Není to dobré:' Elon Musk vyjádřil znepokojení nad vysokotechnologickou výrobou kvůli rostoucím cenám stříbra",
       "description": "Nedávný prudký růst cen stříbra znepokojuje výrobce, včetně Elona Muska, který na platformě X upozornil na rizika pro průmyslové procesy. Cena kovu dosáhla rekordních 80 dolarů za unci, což může ovlivnit výrobu solárních panelů, elektromobilů a elektroniky.",
       "slug": "not-good-elon-musk-expresses-concern-for-high-tech",
@@ -3794,27 +3895,6 @@
       "people": []
     },
     {
-      "title": "Čína chce omezit AI chatbota v souvislosti se sebevraždou a hazardem",
-      "description": "Navrhovaná pravidla přicházejí v době, kdy čínské startupy AI chatbotů Minimax a Z.ai podaly žádost o úvodní veřejnou nabídku akcií v Hong Kongu.",
-      "slug": "china-to-crack-down-on-ai-chatbots-around-suicide-",
-      "publishedAt": "2025-12-29T07:06:35+00:00",
-      "date": "2025-12-29 07:06:35",
-      "importance": 4,
-      "category": "regulace ai",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108246077-1766970862214-gettyimages-1998839799-AFP_34HJ6JF.jpeg?v=1766970902&w=1920&h=1080",
-      "url": "/tech-news/2025-12-29/china-to-crack-down-on-ai-chatbots-around-suicide/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNBC"
-      },
-      "companies": [
-        "Minimax",
-        "Z.ai"
-      ],
-      "people": []
-    },
-    {
       "title": "IntelliEPI spolupracuje s EZconn na posílení optické komunikace pro AI",
       "description": "Společnost IntelliEPI, specializující se na sloučeninové polovodiče, uzavřela partnerství formou výměny akcií s firmou EZconn v oblasti optických komunikací. Cílem je rozvoj technologie co-packaged optics (CPO) pro uspokojování rostoucích požadavků AI na vysokorychlostní přenos dat.",
       "slug": "intelliepi-partners-with-ezconn-to-boost-ai-optica",
@@ -3832,26 +3912,6 @@
       "companies": [
         "IntelliEPI",
         "EZconn"
-      ],
-      "people": []
-    },
-    {
-      "title": "Čína nasazuje robotickou armádu k hlídání hranice s Vietnamem",
-      "description": "Čína začala nasazovat humanoidní roboty na rušném hraničním přechodu s Vietnamem, což představuje jedno z prvních rozsáhlých využití této technologie pro policejní a bezpečnostní operace. Roboti Walker S2 od firmy UBTECH Robotics dorazili v tomto měsíci na přechod Fangchenggang v provincii Kuang-si na základě vládní zakázky v hodnotě 37 milionů dolarů.",
-      "slug": "china-deploys-a-robot-army-to-guard-the-vietnam-bo",
-      "publishedAt": "2025-12-29T06:20:22+00:00",
-      "date": "2025-12-29 06:20:22",
-      "importance": 5,
-      "category": "robotika",
-      "urlToImage": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_uXxqI8LmcgcyyEhLemGdL5WF_1LxiUD9AyOnEB6wOyL-RZlz1myHlFbeG60nfUvtwelBegaH2wzQ3XXIfQ1SXuRSTpCIRFtFOR3xJmgkwIThK7qDnGhIVH1NgXSh3LdIZGnWWhySLl34cVpGFRjsiaY6Prhd6wvz1mp-Y=w1600",
-      "url": "/tech-news/2025-12-29/china-deploys-a-robot-army-to-guard-the-vietnam-bo/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Gossiplankanews.com"
-      },
-      "companies": [
-        "UBT"
       ],
       "people": []
     },
@@ -3917,51 +3977,6 @@
       "people": []
     },
     {
-      "title": "Analýza: Nvidia staví kapitálovou příkop k upevnění éry CUDA",
-      "description": "Po krátkém přiblížení se k tržní kapitalizaci 5 bilionů USD Nvidia v roce 2025 investovala kapitál v nebývalém tempu do firem jako Groq, OpenAI, Nokia, Synopsys a Intel prostřednictvím technologických dohod, podílů a partnerství. Cílem je posílit dominanci platformy CUDA v oblasti AI.",
-      "slug": "analysis-nvidia-builds-capital-moat-to-lock-in-cud",
-      "publishedAt": "2025-12-29T03:40:47+00:00",
-      "date": "2025-12-29 03:40:47",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://img.digitimes.com/newsshow/20251229pd215_files/2_b.jpg",
-      "url": "/tech-news/2025-12-29/analysis-nvidia-builds-capital-moat-to-lock-in-cud/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
-      },
-      "companies": [
-        "Nvidia",
-        "Groq",
-        "OpenAI",
-        "Nokia",
-        "Synopsys"
-      ],
-      "people": []
-    },
-    {
-      "title": "Za hranicí automatizace: Fyzická AI otevírá novou éru chytrých strojů",
-      "description": "Pokud dnes někdo objedná spodní prádlo z webu Spanx LLC, humanoidní robot zpracuje balík. V distribučním centru GXO Logistics v Georgii pohybují s merchandise bipedální stroje od Agility Robotics s mechanickou přesností a v závodě BMW Group v Spartanburgu roboti Figure 02 zrychlili montáž plechových dílů o 400 procent.",
-      "slug": "beyond-automation-physical-ai-ushers-in-a-new-era-",
-      "publishedAt": "2025-12-29T03:39:05+00:00",
-      "date": "2025-12-29 03:39:05",
-      "importance": 5,
-      "category": "robotika",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/A-modern-humanoid-robot-working-alongside-a-person-in-a-warehouse-setting-with-focus-on-the-robot-a.jpeg",
-      "url": "/tech-news/2025-12-29/beyond-automation-physical-ai-ushers-in-a-new-era/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Agility Robotics Inc",
-        "BMW Group"
-      ],
-      "people": []
-    },
-    {
       "title": "Dohoda Nvidia s Groq otřásá jihokorskými čipovými startupy",
       "description": "Nvidia uzavřela neexkluzivní licenční smlouvu se startupem Groq, čímž získala přístup k jeho specializované čipové technologii pro zpracování výstupů umělé inteligence a najala několik klíčových inženýrů. Tato dohoda signalizuje urychlenou expanzi Nvidia do oblasti inference a vyvolává obavy u jihokorských konkurentů.",
       "slug": "nvidia-groq-deal-rattles-south-korean-chip-startup",
@@ -4001,27 +4016,6 @@
         "Nvidia",
         "Groq",
         "Samsung Electronics"
-      ],
-      "people": []
-    },
-    {
-      "title": "BYD se chystá překonat Teslu jako největšího prodejce elektromobilů na světě v roce 2025",
-      "description": "I přes rychlý růst čelí BYD výzvám na domácím trhu.",
-      "slug": "byd-set-to-surpass-tesla-as-worlds-top-ev-seller-i",
-      "publishedAt": "2025-12-29T02:13:41+00:00",
-      "date": "2025-12-29 02:13:41",
-      "importance": 4,
-      "category": "elektromobilita",
-      "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/6d98963dc3dee3399ff4683d0049f559cd5397ed1c6f6c2bef206869549452d6",
-      "url": "/tech-news/2025-12-29/byd-set-to-surpass-tesla-as-worlds-top-ev-seller-i/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Straits Times"
-      },
-      "companies": [
-        "BYD",
-        "Tesla"
       ],
       "people": []
     },
