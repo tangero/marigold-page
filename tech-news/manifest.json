@@ -1,7 +1,104 @@
 {
-  "generated": "2026-01-06T08:44:57.118171+00:00",
+  "generated": "2026-01-06T12:48:31.264305+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Jak vytvořit AI data pipelines odolné vůči ransomware: Praktický průvodce pro moderní podniky",
+      "description": "Moderní podniky závisí na AI data pipelines pro analýzu dat a automatizované rozhodování. Tento průvodce nabízí praktické kroky k ochraně těchto systémů před ransomware útoky, které ohrožují integritu dat a kontinuitu operací.",
+      "slug": "how-to-build-ransomware-resilient-ai-data-pipeline",
+      "publishedAt": "2026-01-05T12:25:58+00:00",
+      "date": "2026-01-05 12:25:58",
+      "importance": 4,
+      "category": "kyberbezpečnost",
+      "urlToImage": null,
+      "url": "/tech-news/2026-01-05/how-to-build-ransomware-resilient-ai-data-pipeline/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "HackRead"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Kam směřují chytré investice do zelených technologií v roce 2026",
+      "description": "Vzhledem k rostoucí poptávce umělé inteligence po elektrické energii a zhoršujícím se klimatickým katastrofám investoři do klimatických technologií v roce 2026 zaměřují své prostředky na specifické oblasti, jako je fúzní energie a elektrizace.",
+      "slug": "this-is-where-the-smart-green-tech-money-is-headin",
+      "publishedAt": "2026-01-05T12:10:52+00:00",
+      "date": "2026-01-05 12:10:52",
+      "importance": 5,
+      "category": "zelené technologie",
+      "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/01/776240368.jpg",
+      "url": "/tech-news/2026-01-05/this-is-where-the-smart-green-tech-money-is-headin/",
+      "source": {
+        "emoji": "📰",
+        "id": "financial-post",
+        "name": "Financial Post"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Arbe Robotics spojuje radarovou technologii s výpočetním výkonem NVIDIA AI",
+      "description": "Izraelská společnost Arbe Robotics, specializující se na 4D imaging radary, integruje svou technologii s platformami NVIDIA pro umělou inteligenci. Tato kombinace cílí na zlepšení detekce a autonomie v robotice a autonomních vozidlech.",
+      "slug": "arbe-robotics-combines-radar-technology-with-nvidi",
+      "publishedAt": "2026-01-05T12:08:42+00:00",
+      "date": "2026-01-05 12:08:42",
+      "importance": 4,
+      "category": "robotika",
+      "urlToImage": "https://thefly.com/images/meta/hotstocks.jpg",
+      "url": "/tech-news/2026-01-05/arbe-robotics-combines-radar-technology-with-nvidi/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Thefly.com"
+      },
+      "companies": [
+        "Arbe Robotics",
+        "NVIDIA"
+      ],
+      "people": []
+    },
+    {
+      "title": "Teradar představuje svůj první senzor v terahertzovém pásmu pro automobily | TechCrunch",
+      "description": "Společnost Teradar využívá terahertzové pásmo elektromagnetického spektra k vytvoření senzoru, který kombinuje výhody lidar a radarových senzorů. Tento solid-state senzor slibuje dlouhý dosah a vysoké rozlišení v jakémkoli počasí.",
+      "slug": "teradar-reveals-its-first-terahertz-band-vision-se",
+      "publishedAt": "2026-01-05T12:04:00+00:00",
+      "date": "2026-01-05 12:04:00",
+      "importance": 4,
+      "category": "automobilové senzory",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/01/teradar-summit.jpg?resize=1200,675",
+      "url": "/tech-news/2026-01-05/teradar-reveals-its-first-terahertz-band-vision-se/",
+      "source": {
+        "emoji": "🚀",
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "companies": [
+        "Teradar"
+      ],
+      "people": []
+    },
+    {
+      "title": "DayOne Data Centers oznámila financování série C v hodnotě přes 2 miliardy USD pro urychlení expanze globální digitální infrastruktury",
+      "description": "Společnost DayOne Data Centers, nezávislá platforma hyperskalových datových center se sídlem v Singapuru, uzavřela dohody o equity financování série C v celkové výši přes 2 miliardy USD. Tato kola vede investor Coatue a podporuje ji indonéský sovereign fond INA, peníze poslou k rozšíření v Evropě a Asii-Pacific.",
+      "slug": "dayone-data-centers-announces-over-us20-billion-se",
+      "publishedAt": "2026-01-05T11:27:00+00:00",
+      "date": "2026-01-05 11:27:00",
+      "importance": 4,
+      "category": "datová centra",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/37128c08-9228-4101-9e09-fff921147e92",
+      "url": "/tech-news/2026-01-05/dayone-data-centers-announces-over-us20-billion-se/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [
+        "DayOne Data Centers"
+      ],
+      "people": []
+    },
     {
       "title": "Ovládněte Google AI Studio během minut: od streamování v reálném čase po nástroje pro tvorbu bez kódování",
       "description": "Google AI Studio je platforma, která zjednodušuje interakci s umělou inteligencí pro uživatele všech úrovní. Nabízí nástroje pro vývoj aplikací bez kódování, tvorbu profesionálních médií a analýzu velkých datových sad z intuitivního rozhraní.",
@@ -3583,42 +3680,6 @@
       "people": []
     },
     {
-      "title": "Globální trh s polovodiči se blíží k 1 bilionu USD v roce 2026, taiwanské slévárny jdou odlišnými cestami",
-      "description": "Globální polovodičový průmysl dosáhne v roce 2026 ročních tržeb 1 bilionu amerických dolarů díky poptávce po procesorech pro umělou inteligenci a pokročilých pamětích. Taiwanské slévárny jako TSMC se odlišují od konkurentů v expanzi a technologiích.",
-      "slug": "global-chip-market-nears-us1-trillion-in-2026-as-t",
-      "publishedAt": "2025-12-29T23:48:50+00:00",
-      "date": "2025-12-29 23:48:50",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://img.digitimes.com/newsshow/20251229pd210_files/1_b.jpg",
-      "url": "/tech-news/2025-12-29/global-chip-market-nears-us1-trillion-in-2026-as-t/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Probuzení Číny staví asijské fúze a akvizice na sebevědomou trať pro rok 2026",
-      "description": "Optimistická nálada kolem obchodních transakcí se rozléhá Asií, přičemž hlavní trhy jako Čína zrychlují po období stagnace a Japonsko dosahuje rekordních objemů.",
-      "slug": "chinas-reawakening-puts-asia-ma-on-confident-cours",
-      "publishedAt": "2025-12-29T23:39:37+00:00",
-      "date": "2025-12-29 23:39:37",
-      "importance": 4,
-      "category": "fúze a akvizice",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-29/chinas-reawakening-puts-asia-ma-on-confident-cours/",
-      "source": {
-        "emoji": "📰",
-        "id": "financial-post",
-        "name": "Financial Post"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Uniklo miliony záznamů uživatelů WIRED v údajném narušení Condé Nast",
       "description": "Útočník s přezdívkou Lovely tvrdí, že narušil systémy vydavatele Condé Nast a zveřejnil databázi s více než 23 miliony záznamů uživatelů WIRED. Data obsahují e-maily, uživatelská jména, plná jména, telefonní čísla a adresy, části byly ověřeny jako legitimní. Zatím nebylo narušení potvrzeno oficiálně.",
       "slug": "millions-of-wired-user-records-leaked-in-claimed-c",
@@ -3776,24 +3837,6 @@
       ]
     },
     {
-      "title": "Plány Číny na regulaci lidsky podobné AI mohou určit tón globálních pravidel",
-      "description": "Peking chystá zpřísnění pravidel pro lidsku podobnou umělou inteligenci s důrazem na bezpečnost uživatelů a společenské hodnoty. Nový návrh zavádí povinné označování AI interakcí a bezpečnostní kontroly.",
-      "slug": "chinas-plans-for-human-like-ai-could-set-the-tone-",
-      "publishedAt": "2025-12-29T16:10:00+00:00",
-      "date": "2025-12-29 16:10:00",
-      "importance": 4,
-      "category": "ai regulace",
-      "urlToImage": "https://static.scientificamerican.com/dam/m/72b4ce254e84e663/original/AI-head.jpg?m=1767025612.321&w=1200",
-      "url": "/tech-news/2025-12-29/chinas-plans-for-human-like-ai-could-set-the-tone/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Scientific American"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Průměrné ceny waferů TSMC vzrostly o přes 15 % ročně od roku 2019, naznačuje zpráva – hrubé marže zisku se v roce 2025 ztrojnásobily, bez skutečných konkurentů",
       "description": "Podle analýzy SemiAnalysis vzrostly průměrné prodejní ceny (ASP) waferů TSMC od roku 2019 o 15,9 % ročně, přičemž hrubý zisk na wafer se v roce 2025 zvýšil na 3,3násobek. Tento trend je poháněn érou EUV litografie, kde TSMC dominuje bez významné konkurence, což zvyšuje ceny pro zákazníky a end-produkty.",
       "slug": "tsmcs-average-wafer-prices-increased-by-over-15-ea",
@@ -3914,49 +3957,6 @@
         "EZconn"
       ],
       "people": []
-    },
-    {
-      "title": "Od umělé inteligence po čipy: velké technologické firmy dostávají od Trumpa, co chtějí",
-      "description": "Trump využil podporu technologických firem k posílení cíle amerického vedení v umělé inteligenci a kryptoměnách, přičemž zajistil úspěchy pro svou ekonomickou agendu „Amerika na prvním místě“.",
-      "slug": "from-ai-to-chips-big-tech-is-getting-what-it-wants",
-      "publishedAt": "2025-12-29T04:27:13+00:00",
-      "date": "2025-12-29 04:27:13",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://images.indianexpress.com/2025/12/Tech-featured-image20.jpg",
-      "url": "/tech-news/2025-12-29/from-ai-to-chips-big-tech-is-getting-what-it-wants/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Indian Express"
-      },
-      "companies": [],
-      "people": [
-        "Donald Trump"
-      ]
-    },
-    {
-      "title": "Čínská LandSpace se připravuje na konkurenci s Elonem Muskem a SpaceX",
-      "description": "LandSpace se stala první čínskou firmou, která otestovala znovupoužitelné rakety, což je klíčové pro budování národních konstelací satelitů. Společnost plánuje vstoupit na burzu, aby financovala další projekty.",
-      "slug": "chinas-landspace-gears-up-to-take-on-elon-musk-and",
-      "publishedAt": "2025-12-29T04:05:30+00:00",
-      "date": "2025-12-29 04:05:30",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/f75b786763c2d035cfb9dd9c4a538b71982848d16eb733001b208e3fab51089f",
-      "url": "/tech-news/2025-12-29/chinas-landspace-gears-up-to-take-on-elon-musk-and/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Straits Times"
-      },
-      "companies": [
-        "LandSpace",
-        "SpaceX"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
     },
     {
       "title": "Top 10 příběhů kyberbezpečnosti roku 2025",
