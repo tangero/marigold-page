@@ -1,7 +1,73 @@
 {
-  "generated": "2026-01-06T01:23:07.717277+00:00",
+  "generated": "2026-01-06T04:55:19.055899+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Samsung zdvojnásobí počet mobilních zařízení s AI od Google Gemini na 800 milionů kusů letos",
+      "description": "Samsung Electronics plánuje v roce 2026 zdvojnásobit počet svých mobilních zařízení s funkcemi Galaxy AI, které pohání model Gemini od Google, z 400 na 800 milionů kusů. Tento krok má posílit pozici Google v globální soutěži o uživatele umělé inteligence.",
+      "slug": "exclusive-samsung-to-double-mobile-devices-powered",
+      "publishedAt": "2026-01-05T03:06:00+00:00",
+      "date": "2026-01-05 03:06:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--P1NJRr7u--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-01-05T030312Z_1_LYNXMPEM0403I_RTROPTP_3_SAMSUNG-ELEC-MOBILE-GOOGLE.JPG?itok=fx6VEAhA",
+      "url": "/tech-news/2026-01-05/exclusive-samsung-to-double-mobile-devices-powered/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNA"
+      },
+      "companies": [
+        "Samsung",
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Exkluzivně: Samsung zdvojnásobí počet mobilních zařízení s Galaxy AI na 800 milionů kusů letos",
+      "description": "Samsung Electronics plánuje v roce 2026 zdvojnásobit počet svých mobilních zařízení s funkcemi Galaxy AI, poháněnými převážně modelem Gemini od Google, z 400 na 800 milionů kusů. Tento krok má posílit pozici Google v globálním závodě o umělou inteligenci proti rivalům jako OpenAI.",
+      "slug": "exclusive-samsung-to-double-ai-mobile-devices-to-8",
+      "publishedAt": "2026-01-05T03:06:00+00:00",
+      "date": "2026-01-05 03:06:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--P1NJRr7u--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-01-05T030312Z_1_LYNXMPEM0403I_RTROPTP_3_SAMSUNG-ELEC-MOBILE-GOOGLE.JPG?itok=fx6VEAhA",
+      "url": "/tech-news/2026-01-05/exclusive-samsung-to-double-ai-mobile-devices-to-8/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNA"
+      },
+      "companies": [
+        "Samsung Electronics",
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Samsung zdvojnásobí počet mobilních zařízení s Google's Gemini na 800 milionů kusů letos",
+      "description": "Samsung se snaží získat zpět ztracenou vedení před Applem na trhu smartphonů a odrazit konkurenci čínských firem nejen v mobilech, ale i v televízích a domácích spotřebičích, vše pod vedením spoluvýkonného ředitele T M Roha. Nabídne integrované AI služby napříč produkty, aby posílil náskok před Applem, přestože ten byl loni lídrem podle Counterpoint.",
+      "slug": "samsung-to-double-mobile-devices-powered-by-google",
+      "publishedAt": "2026-01-05T03:03:26+00:00",
+      "date": "2026-01-05 03:03:26",
+      "importance": 4,
+      "category": "mobilní ai",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-234944,resizemode-75,msid-126343461/tech/technology/samsung-to-double-mobile-devices-powered-by-googles-gemini-to-800-mln-units-this-year.jpg",
+      "url": "/tech-news/2026-01-05/samsung-to-double-mobile-devices-powered-by-google/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Samsung",
+        "Google",
+        "Apple"
+      ],
+      "people": [
+        "T M Roh"
+      ]
+    },
     {
       "title": "Indická vláda připravena zrušit X status safe harbour k ochraně občanů",
       "description": "Ministerstvo elektroniky a informačních technologií (MeitY) vydalo X formální upozornění kvůli používání AI chatbota Grok k generování a šíření obscénních obrázků a videí žen a dalo platformě 72 hodin na odstranění obsahu a sankce vůči uživatelům.",
@@ -3568,27 +3634,6 @@
       "people": []
     },
     {
-      "title": "Americký výrobní úspěch: Nvidia získává podíl v Intelu za 5 miliard dolarů",
-      "description": "Nvidia, světový lídr v AI čipech, dokončila koupi akcií Intelu v hodnotě 5 miliard dolarů. Transakce oznámená v září poskytne Intelu finanční podporu pro jeho zotavení z dlouhodobých problémů.",
-      "slug": "american-manufacturing-win-nvidia-acquires-5-billi",
-      "publishedAt": "2025-12-29T18:58:17+00:00",
-      "date": "2025-12-29 18:58:17",
-      "importance": 5,
-      "category": "hardware",
-      "urlToImage": "https://media.breitbart.com/media/2025/12/Jensen-Huang-of-Nvidia-teams-up-with-Intel-640x335.jpg",
-      "url": "/tech-news/2025-12-29/american-manufacturing-win-nvidia-acquires-5-billi/",
-      "source": {
-        "emoji": "📰",
-        "id": "breitbart-news",
-        "name": "Breitbart News"
-      },
-      "companies": [
-        "Nvidia",
-        "Intel"
-      ],
-      "people": []
-    },
-    {
       "title": "Britská Octopus Energy oddělí Kraken s valuací 8,65 miliardy dolarů",
       "description": "Britská společnost Octopus Energy oznámila oddělení své technologické divize Kraken jako samostatné firmy s valuací 8,65 miliardy dolarů po investičním kole vedeném americkou investiční firmou D1 Capital Partners. Kraken dodává software pro energetické společnosti včetně EDF, National Grid U.S. a Tokyo Gas.",
       "slug": "britains-octopus-energy-to-spin-out-kraken-at-865-",
@@ -3630,24 +3675,6 @@
       ]
     },
     {
-      "title": "PR cyklus umělé inteligence",
-      "description": "Umělá inteligence prochází cykly od apokalyptických varování typu Skynet přes sliby léčby rakoviny a kariérního růstu v prompt engineeringu až po erotické chatboti. CEO Microsoft AI Mustafa Suleyman nyní varuje, že technologie se může stát nekontrolovatelnou bez řádné regulace.",
-      "slug": "ai-pr-cycle",
-      "publishedAt": "2025-12-29T18:30:00+00:00",
-      "date": "2025-12-29 18:30:00",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-29/ai-pr-cycle/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Eschatonblog.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Plány Číny na regulaci lidsky podobné AI mohou určit tón globálních pravidel",
       "description": "Peking chystá zpřísnění pravidel pro lidsku podobnou umělou inteligenci s důrazem na bezpečnost uživatelů a společenské hodnoty. Nový návrh zavádí povinné označování AI interakcí a bezpečnostní kontroly.",
       "slug": "chinas-plans-for-human-like-ai-could-set-the-tone-",
@@ -3683,24 +3710,6 @@
       "companies": [
         "TSMC"
       ],
-      "people": []
-    },
-    {
-      "title": "AI firmy staví financovní pevnost za 150 miliard dolarů",
-      "description": "Startupy v Silicon Valley zaměřené na umělou inteligenci získaly v roce 2025 rekordních 150 miliard dolarů. Podle Financial Times jde o strategii ochrany před možným poklesem investic do AI v následujícím roce.",
-      "slug": "ai-firms-build-150b-funding-fortress",
-      "publishedAt": "2025-12-29T11:51:38+00:00",
-      "date": "2025-12-29 11:51:38",
-      "importance": 4,
-      "category": "ai startupy",
-      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2025/07/This-Week-in-AI-funding-investments.jpg",
-      "url": "/tech-news/2025-12-29/ai-firms-build-150b-funding-fortress/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "pymnts.com"
-      },
-      "companies": [],
       "people": []
     },
     {
