@@ -1,7 +1,86 @@
 {
-  "generated": "2026-01-05T20:43:30.585060+00:00",
+  "generated": "2026-01-06T01:23:07.717277+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Indická vláda připravena zrušit X status safe harbour k ochraně občanů",
+      "description": "Ministerstvo elektroniky a informačních technologií (MeitY) vydalo X formální upozornění kvůli používání AI chatbota Grok k generování a šíření obscénních obrázků a videí žen a dalo platformě 72 hodin na odstranění obsahu a sankce vůči uživatelům.",
+      "slug": "centre-ready-to-revoke-xs-safe-harbour-tag-to-prot",
+      "publishedAt": "2026-01-05T00:30:00+00:00",
+      "date": "2026-01-05 00:30:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-14500,resizemode-75,msid-126337830/tech/technology/centre-ready-to-revoke-xs-safe-harbour-tag-to-protect-citizens.jpg",
+      "url": "/tech-news/2026-01-05/centre-ready-to-revoke-xs-safe-harbour-tag-to-prot/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Prezidentka Anthropic tvrdí, že společnost prosperuje s „zlomkem“ financování rivalů",
+      "description": "Anthropic přijímá filozofii „dělat více s méně“ k odlišení se v oblasti umělé inteligence. Prezidentka a spoluzakladatelka Daniela Amodei v rozhovoru pro CNBC vysvětlila, jak firma dosahuje špičkových modelů s menšími zdroji než konkurenti jako OpenAI.",
+      "slug": "anthropic-president-says-company-thrives-on-fracti",
+      "publishedAt": "2026-01-04T23:55:44+00:00",
+      "date": "2026-01-04 23:55:44",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/01/Anthropic-president1.jpg",
+      "url": "/tech-news/2026-01-04/anthropic-president-says-company-thrives-on-fracti/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": [
+        "Daniela Amodei"
+      ]
+    },
+    {
+      "title": "Cisco údajně v jednáních o akvizici Axonius za 2 miliardy dolarů, společnost to popírá",
+      "description": "Cisco Systems je podle izraelského média Ctech v pokročilých jednáních o odkoupení startupu Axonius, který se specializuje na správu kybernetických aktiv, za 2 miliardy dolarů. Axonius jednání popírá a tvrdí, že se soustředí na růst a obsluhu zákazníků.",
+      "slug": "cisco-reportedly-in-talks-to-acquire-axonius-but-c",
+      "publishedAt": "2026-01-04T23:35:39+00:00",
+      "date": "2026-01-04 23:35:39",
+      "importance": 5,
+      "category": "kybernetika",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/axonius.png",
+      "url": "/tech-news/2026-01-04/cisco-reportedly-in-talks-to-acquire-axonius-but-c/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Cisco",
+        "Axonius"
+      ],
+      "people": []
+    },
+    {
+      "title": "Kvantové počítačství je dalším investičním tématem v AI",
+      "description": "Kvantové počítačství začíná přitahovat pozornost jako další hlavní investiční téma po rychlém vzestupu umělé inteligence. Rostoucí zájem se projevuje nejen v technologických kruzích, ale i mezi jednotlivými investory, kteří navštěvují specializované semináře.",
+      "slug": "the-next-investment-theme-in-ai-is-quantum-computi",
+      "publishedAt": "2026-01-04T23:21:38+00:00",
+      "date": "2026-01-04 23:21:38",
+      "importance": 4,
+      "category": "kvantové počítače",
+      "urlToImage": "https://i2.ytimg.com/vi/Q9RLBwmaDR4/mqdefault.jpg",
+      "url": "/tech-news/2026-01-04/the-next-investment-theme-in-ai-is-quantum-computi/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Newsonjapan.com"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "OpenAI hledá 'Head of Preparedness' na řešení nových rizik bezpečnosti AI",
       "description": "Společnost OpenAI Sama Altmana, tvůrce ChatGPT, vyhlašuje novou pozici vrcholového manažera pro připravenost, který povede úsilí o studium a mitigaci bezpečnostních rizik spojených s pokročilými AI modely. Pozice nabízí plat 555 000 dolarů plus podíly a zaměřuje se na přípravu na hraniční schopnosti AI, které mohou vést k vážným škodám.",
@@ -3411,27 +3490,6 @@
       "people": []
     },
     {
-      "title": "Výrobci AI čipů, kteří by mohli v roce 2026 ukrást Nvidia část slávy",
-      "description": "Nvidia oznámila akvizici designéra AI hardwaru a softwaru Groq za 20 miliard dolarů. Článek analyzuje potenciální konkurenty Nvidia v oblasti AI čipů pro rok 2026, včetně AMD a specializovaných hráčů.",
-      "slug": "ai-chipmakers-that-could-steal-some-of-nvidias-spo",
-      "publishedAt": "2025-12-29T19:30:00+00:00",
-      "date": "2025-12-29 19:30:00",
-      "importance": 5,
-      "category": "ai čipy",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Hgktxl5QQLRGguHmyCIOeg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/b0be79e0-e4d7-11f0-b0f8-256d8b57fa34",
-      "url": "/tech-news/2025-12-29/ai-chipmakers-that-could-steal-some-of-nvidias-spo/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [
-        "Nvidia",
-        "Groq"
-      ],
-      "people": []
-    },
-    {
       "title": "OpenAI hledá šéfa připravenosti s platem 550 000 dolarů na zmírnění nebezpečí AI, která CEO Sam Altman označuje za stresující",
       "description": "Společnost OpenAI vyhlašuje výběr na pozici šéfa připravenosti s ročním platem 555 000 dolarů plus podíly, aby řešila rizika spojená s AI, jako je duševní zdraví uživatelů a kyberbezpečnost. Tento krok přichází v době rostoucích obav z reputačních a operačních rizik AI u stovek firem.",
       "slug": "openai-is-hiring-a-head-of-preparedness-with-a-550",
@@ -3789,24 +3847,6 @@
       "people": []
     },
     {
-      "title": "AI chatboti mohou souviset s psychózou, tvrdí lékaři",
-      "description": "Psychiatr Keith Sakata už léčil 12 hospitalizovaných pacientů s psychózou vyvolanou AI a další tři ambulantně, podle Wall Street Journal. Top psychiatři souhlasí, že používání AI chatbotů jako ChatGPT může přispívat k psychotickým stavům, což vedlo k sebevraždám, vraždě a soudním sporům.",
-      "slug": "ai-chatbots-may-be-linked-to-psychosis-say-doctors",
-      "publishedAt": "2025-12-29T05:55:00+00:00",
-      "date": "2025-12-29 05:55:00",
-      "importance": 4,
-      "category": "duševní zdraví",
-      "urlToImage": "https://a.fsdn.com/sd/topics/ai_64.png",
-      "url": "/tech-news/2025-12-29/ai-chatbots-may-be-linked-to-psychosis-say-doctors/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Od umělé inteligence po čipy: velké technologické firmy dostávají od Trumpa, co chtějí",
       "description": "Trump využil podporu technologických firem k posílení cíle amerického vedení v umělé inteligenci a kryptoměnách, přičemž zajistil úspěchy pro svou ekonomickou agendu „Amerika na prvním místě“.",
       "slug": "from-ai-to-chips-big-tech-is-getting-what-it-wants",
@@ -3994,46 +4034,6 @@
       "companies": [
         "Nvidia",
         "Groq"
-      ],
-      "people": []
-    },
-    {
-      "title": "Wedbush upozorňuje na rostoucí příjmy IonQ (IONQ) a silný prodejní pipeline v kvantovém leadershipu",
-      "description": "Společnost IonQ Inc. (NYSE: IONQ) patří mezi nejlepší akcie v oblasti nových technologií pro investice. Dne 17. prosince zahájila analytická firma Wedbush pokrytí IonQ s hodnocením Outperform a cenovým cílem 60 USD.",
-      "slug": "wedbush-spotlights-ionqs-ionq-scaling-revenue-and-",
-      "publishedAt": "2025-12-28T15:05:38+00:00",
-      "date": "2025-12-28 15:05:38",
-      "importance": 4,
-      "category": "kvantové počítače",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/q1L0vH36zKHEHGHEm3702Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/80692f3e48103e8907cb30b996063895",
-      "url": "/tech-news/2025-12-28/wedbush-spotlights-ionqs-ionq-scaling-revenue-and/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [
-        "IonQ"
-      ],
-      "people": []
-    },
-    {
-      "title": "Rok v přehledu 2025: Konsolidace, chaos a cookies",
-      "description": "S blížícím se rokem 2026 přehled hlavních událostí roku 2025 a jejich dopadu na oblast reklamních technologií. Fúze agentur přetvářely trh, regulátoři zasahovali proti dominantním hráčům a Google upustil od plánů na nahrazení cookies.",
-      "slug": "year-in-review-2025-consolidation-chaos-and-cookie",
-      "publishedAt": "2025-12-28T10:00:00+00:00",
-      "date": "2025-12-28 10:00:00",
-      "importance": 4,
-      "category": "reklamní technologie",
-      "urlToImage": "https://cdn.exchangewire.com/wp-content/uploads/2024/11/AIcity33333-crop.jpg",
-      "url": "/tech-news/2025-12-28/year-in-review-2025-consolidation-chaos-and-cookie/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "ExchangeWire"
-      },
-      "companies": [
-        "Google"
       ],
       "people": []
     }
