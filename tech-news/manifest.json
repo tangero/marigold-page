@@ -1,7 +1,229 @@
 {
-  "generated": "2026-01-06T20:35:52.432645+00:00",
+  "generated": "2026-01-07T01:24:30.452777+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Nvidia na CES: Alpamayo, Rubin a vzestup uvažující umělé inteligence",
+      "description": "Generální ředitel Nvidia Jensen Huang zahájil keynote na veletrhu CES v Las Vegas, kde představil nové platformy Alpamayo a Rubin a zdůraznil pokrok v uvažující umělé inteligenci. Prezentace se zaměřila na širokou škálu inovací v AI hardwaru a softwaru.",
+      "slug": "nvidia-at-ces-alpamayo-rubin-and-the-rise-of-reaso",
+      "publishedAt": "2026-01-06T00:57:59+00:00",
+      "date": "2026-01-06 00:57:59",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://img.digitimes.com/newsshow/20260106vl200_files/3_2b.jpg",
+      "url": "/tech-news/2026-01-06/nvidia-at-ces-alpamayo-rubin-and-the-rise-of-reaso/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": [
+        "Jensen Huang"
+      ]
+    },
+    {
+      "title": "Nvidia představuje technologii AI s uvažovacími schopnostmi pro autonomní automobily",
+      "description": "Společnost Nvidia oznámila novou AI technologii umožňující 'uvažování' pro autonomní vozy a plánuje testovat službu robotaxi v roce 2027. Šéf firmy Jensen Huang toto označil za klíčový moment pro fyzickou AI, společně s novými modely a čipy pro robotiku.",
+      "slug": "nvidia-unveils-reasoning-ai-technology-for-self-dr",
+      "publishedAt": "2026-01-06T00:52:15+00:00",
+      "date": "2026-01-06 00:52:15",
+      "importance": 4,
+      "category": "autonomní vozy",
+      "urlToImage": null,
+      "url": "/tech-news/2026-01-06/nvidia-unveils-reasoning-ai-technology-for-self-dr/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Platforma X Elona Muska čelí vyšetřováním v Evropě, Indii a Malajsii po vygenerování explicitních obrázků Grokem",
+      "description": "Regulátoři v Evropě, Indii a Malajsii prověřují platformu X poté, co se na sociální síti Elona Muska rozšířily exploatativní obrázky vytvořené chatbotem Grok. Vyšetřování se týká deepfake explicitních snímků žen a dětí, včetně materiálů zobrazujících zneužívání dětí.",
+      "slug": "elon-musks-x-faces-probes-in-europe-india-malaysia",
+      "publishedAt": "2026-01-06T00:49:09+00:00",
+      "date": "2026-01-06 00:49:09",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108170649-1752223567421-gettyimages-2199701064-HL_VFEURAY_2670140.jpeg?v=1767657109&w=1920&h=1080",
+      "url": "/tech-news/2026-01-06/elon-musks-x-faces-probes-in-europe-india-malaysia/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Nvidia představila nové nástroje umělé inteligence pro autonomní vozidla a roboty",
+      "description": "Společnost Nvidia oznámila sadu modelů a nástrojů umělé inteligence, které mají urychlit vývoj autonomních vozidel a pohánět novou generaci robotů. Mezi nimi je vozidlová platforma Alpamayo.",
+      "slug": "nvidia-debuts-new-ai-tools-for-autonomous-vehicles",
+      "publishedAt": "2026-01-06T00:48:53+00:00",
+      "date": "2026-01-06 00:48:53",
+      "importance": 4,
+      "category": "robotika",
+      "urlToImage": "https://biztoc.com/cdn/3f4f2fc393dc6d47_s.webp",
+      "url": "/tech-news/2026-01-06/nvidia-debuts-new-ai-tools-for-autonomous-vehicles/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Generální ředitel Nvidia: Nové čipy Rubin jsou na plánu a urychlí vývoj AI",
+      "description": "Nové produkty Rubin pro datová centra od Nvidia se blíží k vydání letos a zákazníci je brzy vyzkouší. Všechna šest čipů se vrátila od výrobních partnerů, což pomůže zrychlit vývoj umělé inteligence.",
+      "slug": "nvidia-ceo-says-new-rubin-chips-are-on-track-helpi",
+      "publishedAt": "2026-01-06T00:48:49+00:00",
+      "date": "2026-01-06 00:48:49",
+      "importance": 4,
+      "category": "ai hardware",
+      "urlToImage": "https://biztoc.com/cdn/d5cba0aca83b289d_s.webp",
+      "url": "/tech-news/2026-01-06/nvidia-ceo-says-new-rubin-chips-are-on-track-helpi/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Největší oznámení z veletrhu Consumer Electronics Show 2026, počínající čipy Nvidia Vera Rubin",
+      "description": "Přehled klíčových událostí z největší technologické veletrhu světa v Las Vegas, včetně nové architektury čipů Nvidia. Článek shrnuje nejdůležitější novinky zaměřené na hardware pro umělou inteligenci.",
+      "slug": "here-are-the-biggest-announcements-coming-out-of-t",
+      "publishedAt": "2026-01-06T00:42:40+00:00",
+      "date": "2026-01-06 00:42:40",
+      "importance": 4,
+      "category": "hardware",
+      "urlToImage": "https://i.insider.com/695c3ec104eda4732f2e81f3?width=1200&format=jpeg",
+      "url": "/tech-news/2026-01-06/here-are-the-biggest-announcements-coming-out-of-t/",
+      "source": {
+        "emoji": "📰",
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Akcie Nvidia mírně klesly po CES 2026, firma představila humanoidní roboty a AI pro autonomní řízení",
+      "description": "Na CES 2026 Nvidia předvedla nejnovější technologii pro robotiku včetně humanoidních robotů a model Alpamayo pro autonomní vozy. AI modely umožňují robotům chápat svět a autonomním autům řešit neobvyklé situace, jako výpadek světel na křižovatce. Akcie Nvidia klesly o 0,4 % v after-hours obchodování.",
+      "slug": "nvidia-stock-slips-after-ces-2026-as-company-intro",
+      "publishedAt": "2026-01-06T00:32:09+00:00",
+      "date": "2026-01-06 00:32:09",
+      "importance": 5,
+      "category": "robotika",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126363404,width-1200,height-630,imgsize-112196,overlay-economictimes/articleshow.jpg",
+      "url": "/tech-news/2026-01-06/nvidia-stock-slips-after-ces-2026-as-company-intro/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Proč by nová platforma Rubin od Nvidia mohla navždy změnit budoucnost výpočtů pro umělou inteligenci",
+      "description": "Na CES 2026 Nvidia představila Rubin, novou platformu pro superpočítačové výpočty s umělou inteligencí, která má urychlit šíření velkých jazykových modelů mezi širokou veřejností. Platforma snižuje náklady na trénink a provoz AI modelů díky optimalizaci hardwaru.",
+      "slug": "why-nvidias-new-rubin-platform-could-change-the-fu",
+      "publishedAt": "2026-01-06T00:17:16+00:00",
+      "date": "2026-01-06 00:17:16",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/b84fe21f649f4b93a6143ce571d86cf2e6f4c306/2026/01/05/ca0129da-1b05-4418-9950-752d6af0e0e2/nvidia-rubin-supercomputer-ces-2026.png?auto=webp&fit=crop&height=675&width=1200",
+      "url": "/tech-news/2026-01-06/why-nvidias-new-rubin-platform-could-change-the-fu/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "ZDNet"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nvidia představuje nové čipy pro umělou inteligenci a projekt autonomních vozidel s Mercedesem",
+      "description": "Společnost Nvidia oznámila nové čipy určené pro výpočty umělé inteligence a rozšířila spolupráci s Mercedesem-Benz na vývoji autonomních vozidel. Tyto novinky posilují postavení Nvidia v oblasti AI hardwaru a autonomní mobility.",
+      "slug": "nvidia-details-new-ai-chips-and-autonomous-car-pro",
+      "publishedAt": "2026-01-06T00:15:30+00:00",
+      "date": "2026-01-06 00:15:30",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://biztoc.com/cdn/956/og.png",
+      "url": "/tech-news/2026-01-06/nvidia-details-new-ai-chips-and-autonomous-car-pro/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "companies": [
+        "Nvidia",
+        "Mercedes"
+      ],
+      "people": []
+    },
+    {
+      "title": "AI startupy získaly 262 milionů dolarů před blížícími se regulacemi",
+      "description": "Investoři vložili 262 milionů dolarů do afrických AI startupů navzdory hrozícím regulacím a infrastrukturním výzvám. Článek rozebírá růst tohoto sektoru a hlavní překážky.",
+      "slug": "ai-startups-raise-262m-as-regulation-looms",
+      "publishedAt": "2026-01-06T00:07:37+00:00",
+      "date": "2026-01-06 00:07:37",
+      "importance": 4,
+      "category": "ai startupy",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2025/09/18035016/artificial-intelligence.webp",
+      "url": "/tech-news/2026-01-06/ai-startups-raise-262m-as-regulation-looms/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Punch"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Hyundai a Boston Dynamics představili humanoidního robota Atlas na CES",
+      "description": "Společnost Boston Dynamics, vlastněná Hyundai, poprvé veřejně demonstrovala humanoidního robota Atlas na veletrhu CES v Las Vegas. Robot provedl plynulé pohyby a společnost plánuje jeho nasazení ve výrobě automobilů do roku 2028.",
+      "slug": "hyundai-and-boston-dynamics-unveil-humanoid-robot-",
+      "publishedAt": "2026-01-06T00:04:47+00:00",
+      "date": "2026-01-06 00:04:47",
+      "importance": 5,
+      "category": "robotika",
+      "urlToImage": "https://www.ocregister.com/wp-content/uploads/2026/01/Gadget_Show_Hyundai_Boston_Dynamics_72107-1.jpg?w=1024&h=682",
+      "url": "/tech-news/2026-01-06/hyundai-and-boston-dynamics-unveil-humanoid-robot/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "OCRegister"
+      },
+      "companies": [
+        "Hyundai",
+        "Boston Dynamics"
+      ],
+      "people": []
+    },
     {
       "title": "Hackeři tvrdí prolomení inženýrské firmy, nabízejí prodej dat o třech velkých amerických energetických společnostech",
       "description": "Probíhají vyšetřování, ale data se zdají být velmi cenná. Útok cílí na citlivé informace o kritické infrastruktuře.",
@@ -3802,45 +4024,6 @@
       "people": []
     },
     {
-      "title": "Uniklo miliony záznamů uživatelů WIRED v údajném narušení Condé Nast",
-      "description": "Útočník s přezdívkou Lovely tvrdí, že narušil systémy vydavatele Condé Nast a zveřejnil databázi s více než 23 miliony záznamů uživatelů WIRED. Data obsahují e-maily, uživatelská jména, plná jména, telefonní čísla a adresy, části byly ověřeny jako legitimní. Zatím nebylo narušení potvrzeno oficiálně.",
-      "slug": "millions-of-wired-user-records-leaked-in-claimed-c",
-      "publishedAt": "2025-12-29T23:30:14+00:00",
-      "date": "2025-12-29 23:30:14",
-      "importance": 5,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/wiredhacked.png",
-      "url": "/tech-news/2025-12-29/millions-of-wired-user-records-leaked-in-claimed-c/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Nvidia dokončila nákup akcií Intelu za 5 miliard dolarů",
-      "description": "Společnost Nvidia oznámila dokončení nákupu akcií Intelu v hodnotě 5 miliard dolarů prostřednictvím soukromého umístění. Tato investice odpovídá 4,4% podílu a je součástí širšího partnerství zaměřeného na společné inženýrské projekty v oblasti hardware.",
-      "slug": "nvidia-finalizes-5b-purchase-of-intel-shares",
-      "publishedAt": "2025-12-29T23:08:41+00:00",
-      "date": "2025-12-29 23:08:41",
-      "importance": 5,
-      "category": "hardware",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Nvidia.jpg",
-      "url": "/tech-news/2025-12-29/nvidia-finalizes-5b-purchase-of-intel-shares/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Nvidia",
-        "Intel"
-      ],
-      "people": []
-    },
-    {
       "title": "Americké a australské agentury varují: Zranitelnost MongoBleed v MongoDB je aktivně využívána",
       "description": "Kybernetické bezpečnostní úřady v USA a Austrálii upozorňují na aktivní exploitaci kritické zranitelnosti CVE-2025-14847 v MongoDB, která umožňuje útočníkům získat citlivé údaje z paměti databáze. Tato chyba ohrožuje tisíce veřejně dostupných instancí a CISA nařizuje federálním agenturám patchování do 19. ledna.",
       "slug": "us-and-australian-agencies-warn-mongobleed-vulnera",
@@ -3857,191 +4040,6 @@
       },
       "companies": [
         "MongoDB"
-      ],
-      "people": []
-    },
-    {
-      "title": "OpenAI hledá šéfa připravenosti s platem 550 000 dolarů na zmírnění nebezpečí AI, která CEO Sam Altman označuje za stresující",
-      "description": "Společnost OpenAI vyhlašuje výběr na pozici šéfa připravenosti s ročním platem 555 000 dolarů plus podíly, aby řešila rizika spojená s AI, jako je duševní zdraví uživatelů a kyberbezpečnost. Tento krok přichází v době rostoucích obav z reputačních a operačních rizik AI u stovek firem.",
-      "slug": "openai-is-hiring-a-head-of-preparedness-with-a-550",
-      "publishedAt": "2025-12-29T19:29:02+00:00",
-      "date": "2025-12-29 19:29:02",
-      "importance": 4,
-      "category": "bezpečnost ai",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2236543888_895bdb-e1767034730660.jpg?resize=1200,600",
-      "url": "/tech-news/2025-12-29/openai-is-hiring-a-head-of-preparedness-with-a-550/",
-      "source": {
-        "emoji": "📰",
-        "id": "fortune",
-        "name": "Fortune"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": [
-        "Sam Altman"
-      ]
-    },
-    {
-      "title": "'Není to dobré:' Elon Musk vyjádřil znepokojení nad vysokotechnologickou výrobou kvůli rostoucím cenám stříbra",
-      "description": "Nedávný prudký růst cen stříbra znepokojuje výrobce, včetně Elona Muska, který na platformě X upozornil na rizika pro průmyslové procesy. Cena kovu dosáhla rekordních 80 dolarů za unci, což může ovlivnit výrobu solárních panelů, elektromobilů a elektroniky.",
-      "slug": "not-good-elon-musk-expresses-concern-for-high-tech",
-      "publishedAt": "2025-12-29T18:39:29+00:00",
-      "date": "2025-12-29 18:39:29",
-      "importance": 4,
-      "category": "technologická výroba",
-      "urlToImage": "https://media.breitbart.com/media/2025/12/shiny-silver-bars-640x335.jpg",
-      "url": "/tech-news/2025-12-29/not-good-elon-musk-expresses-concern-for-high-tech/",
-      "source": {
-        "emoji": "📰",
-        "id": "breitbart-news",
-        "name": "Breitbart News"
-      },
-      "companies": [],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Průměrné ceny waferů TSMC vzrostly o přes 15 % ročně od roku 2019, naznačuje zpráva – hrubé marže zisku se v roce 2025 ztrojnásobily, bez skutečných konkurentů",
-      "description": "Podle analýzy SemiAnalysis vzrostly průměrné prodejní ceny (ASP) waferů TSMC od roku 2019 o 15,9 % ročně, přičemž hrubý zisk na wafer se v roce 2025 zvýšil na 3,3násobek. Tento trend je poháněn érou EUV litografie, kde TSMC dominuje bez významné konkurence, což zvyšuje ceny pro zákazníky a end-produkty.",
-      "slug": "tsmcs-average-wafer-prices-increased-by-over-15-ea",
-      "publishedAt": "2025-12-29T15:37:33+00:00",
-      "date": "2025-12-29 15:37:33",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ccriH99hinz37Jq6RzYJFb-1920-80.jpg",
-      "url": "/tech-news/2025-12-29/tsmcs-average-wafer-prices-increased-by-over-15-ea/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "companies": [
-        "TSMC"
-      ],
-      "people": []
-    },
-    {
-      "title": "Výzkumníci vyvinuli autonomní roboty menší než zrnko soli",
-      "description": "Výzkumníci z Pensylvánské univerzity a Michiganské univerzity vytvořili nejmenší plně autonomní roboty na světě. Tyto zařízení o velikosti 200 × 300 × 50 mikrometrů fungují na úrovni biologických buněk bez vnější kontroly.",
-      "slug": "researchers-build-autonomous-robots-smaller-than-a",
-      "publishedAt": "2025-12-29T11:22:19+00:00",
-      "date": "2025-12-29 11:22:19",
-      "importance": 5,
-      "category": "robotika",
-      "urlToImage": "https://www.ghacks.net/wp-content/uploads/2025/12/gHacks-articles-38.png",
-      "url": "/tech-news/2025-12-29/researchers-build-autonomous-robots-smaller-than-a/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Ghacks Technology News"
-      },
-      "companies": [
-        "University of Pennsylvania",
-        "University of Michigan"
-      ],
-      "people": []
-    },
-    {
-      "title": "SK hynix zvažuje rozšíření v USA pro pokročilé balení čipů",
-      "description": "Podle ZDNet Korea SK hynix posuzuje výstavbu první masové výrobní linky pro 2.5D pokročilé balení v USA, což by prohloubilo roli tohoto jihokorejského výrobce pamětí v dodávkách pro systémy umělé inteligence. Plánovaná továrna v Indianě by se stala strategickým centrem pro pokročilé AI paměti.",
-      "slug": "sk-hynix-weighs-us-expansion-for-advanced-chip-pac",
-      "publishedAt": "2025-12-29T08:15:06+00:00",
-      "date": "2025-12-29 08:15:06",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://img.digitimes.com/newsshow/20251229pd230_files/1_r.jpg",
-      "url": "/tech-news/2025-12-29/sk-hynix-weighs-us-expansion-for-advanced-chip-pac/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
-      },
-      "companies": [
-        "SK hynix"
-      ],
-      "people": []
-    },
-    {
-      "title": "Top 10 příběhů kyberbezpečnosti roku 2025",
-      "description": "Umělá inteligence ovládla technologické tituly roku 2025, ale obavy expertů na kyberbezpečnost přesahují rizika autonomních systémů. Témata jako vzdálená práce, bezpečnost dodavatelských řetězců, kvantové výpočty, identita a změny v americké politice zůstala v centru pozornosti.",
-      "slug": "top-10-cyber-security-stories-of-2025",
-      "publishedAt": "2025-12-29T04:00:00+00:00",
-      "date": "2025-12-29 04:00:00",
-      "importance": 4,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://www.computerweekly.com/visuals/German/article/think-about-security-adobe.jpg",
-      "url": "/tech-news/2025-12-29/top-10-cyber-security-stories-of-2025/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "ComputerWeekly.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Dohoda Nvidia s Groq otřásá jihokorskými čipovými startupy",
-      "description": "Nvidia uzavřela neexkluzivní licenční smlouvu se startupem Groq, čímž získala přístup k jeho specializované čipové technologii pro zpracování výstupů umělé inteligence a najala několik klíčových inženýrů. Tato dohoda signalizuje urychlenou expanzi Nvidia do oblasti inference a vyvolává obavy u jihokorských konkurentů.",
-      "slug": "nvidia-groq-deal-rattles-south-korean-chip-startup",
-      "publishedAt": "2025-12-29T03:19:04+00:00",
-      "date": "2025-12-29 03:19:04",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://img.digitimes.com/newsshow/20251229pd207_files/2_b.jpg",
-      "url": "/tech-news/2025-12-29/nvidia-groq-deal-rattles-south-korean-chip-startup/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
-      },
-      "companies": [
-        "Nvidia",
-        "Groq"
-      ],
-      "people": []
-    },
-    {
-      "title": "Akvizice Groq společností Nvidia mění krajinu pamětí pro umělou inteligenci",
-      "description": "Společnost Nvidia údajně investovala 20 miliard dolarů do získání technologických licencí od Groq, což představuje její největší investici v historii. Tento krok přitahuje pozornost v Jižní Koreji díky podpoře Groq ze strany Samsung Electronics a jejich spolupráci.",
-      "slug": "nvidias-groq-acquisition-reshapes-ai-memory-landsc",
-      "publishedAt": "2025-12-29T02:53:55+00:00",
-      "date": "2025-12-29 02:53:55",
-      "importance": 5,
-      "category": "ai hardware",
-      "urlToImage": "https://img.digitimes.com/newsshow/20251229pd211_files/2_b.jpg",
-      "url": "/tech-news/2025-12-29/nvidias-groq-acquisition-reshapes-ai-memory-landsc/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
-      },
-      "companies": [
-        "Nvidia",
-        "Groq",
-        "Samsung Electronics"
-      ],
-      "people": []
-    },
-    {
-      "title": "Nadiina kvaziakvizice společnosti Groq signalizuje výzvy pro přežití startupů v oblasti AI čipů",
-      "description": "Nvidia oznámila dohodu v hodnotě 20 miliard dolarů na získání neexkluzivních licencí na technologie od startupu Groq specializujícího se na AI čipy. Současný generální ředitel a jádro výzkumně-vývojového týmu Groq přechází do Nvidia k práci na integraci technologií, zatímco finanční ředitel Groq nastoupí na místo CEO.",
-      "slug": "nvidias-quasi-acquisition-of-groq-signals-ai-chip-",
-      "publishedAt": "2025-12-29T01:57:59+00:00",
-      "date": "2025-12-29 01:57:59",
-      "importance": 5,
-      "category": "ai čipy",
-      "urlToImage": "https://img.digitimes.com/newsshow/20251229pd206_files/2_b.jpg",
-      "url": "/tech-news/2025-12-29/nvidias-quasi-acquisition-of-groq-signals-ai-chip/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
-      },
-      "companies": [
-        "Nvidia",
-        "Groq"
       ],
       "people": []
     }
