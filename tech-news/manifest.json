@@ -1,7 +1,123 @@
 {
-  "generated": "2026-01-07T08:44:15.451881+00:00",
+  "generated": "2026-01-07T12:53:00.679717+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Křišťálová koule: Jak se budou vyvíjet IPO a obchodní dohody v roce 2026",
+      "description": "Čtenáři Term Sheet sdělili své názory na vývoj stavu exitů na soukromých trzích do roku 2026. Článek analyzuje predikce ohledně IPO a fúzí a akvizic v technologickém sektoru.",
+      "slug": "crystal-ball-how-ipos-and-dealmaking-will-shake-ou",
+      "publishedAt": "2026-01-06T12:05:13+00:00",
+      "date": "2026-01-06 12:05:13",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/01/GettyImages-1616669298-e1767555627831.jpg?resize=1200,600",
+      "url": "/tech-news/2026-01-06/crystal-ball-how-ipos-and-dealmaking-will-shake-ou/",
+      "source": {
+        "emoji": "📰",
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Šéf OpenAI přiznal vážný bezpečnostní problém nových AI agentů – mohou být hackerům na prospěch",
+      "description": "Šéf OpenAI Sam Altman upozorňuje, že AI agenti mění průmysly, ale zároveň vytvářejí zranitelnosti, které hackeři mohou zneužít, pokud nebudou řešeny.",
+      "slug": "openais-ceo-just-admitted-his-new-ai-agents-have-a",
+      "publishedAt": "2026-01-06T12:04:00+00:00",
+      "date": "2026-01-06 12:04:00",
+      "importance": 4,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Y9Rcc8UE34i6r5wpVkUeNV-2560-80.jpg",
+      "url": "/tech-news/2026-01-06/openais-ceo-just-admitted-his-new-ai-agents-have-a/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Windows Central"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nvidia představuje autonomní vozy s AI schopností uvažovat",
+      "description": "Nvidia urychluje integraci svých technologií do automobilů a představila platformu Alpamayo, která umožňuje vozům uvažovat v reálném světě. CEO Jensen Huang to oznámil na veletrhu CES v Las Vegas, s plány na rollout prvních vozů v USA v prvním čtvrtletí.",
+      "slug": "nvidia-previews-ai-powered-cars-with-ability-to-re",
+      "publishedAt": "2026-01-06T12:04:00+00:00",
+      "date": "2026-01-06 12:04:00",
+      "importance": 4,
+      "category": "autonomní vozy",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2025/11/automakers-cars-ai-artificial-intelligence-production.jpg?w=457",
+      "url": "/tech-news/2026-01-06/nvidia-previews-ai-powered-cars-with-ability-to-re/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": [
+        "Jensen Huang"
+      ]
+    },
+    {
+      "title": "Lepší výdrž baterie iPhonu? Adaptive Power v iOS 26 ji tiše zlepšuje",
+      "description": "Několik faktorů přispívá k lepšímu výkonu baterie a v nejnovějším systémovém updatu přidala Apple nástroj běžící na pozadí založený na Apple Intelligence.",
+      "slug": "want-better-iphone-battery-life-adaptive-power-in-",
+      "publishedAt": "2026-01-06T12:01:01+00:00",
+      "date": "2026-01-06 12:01:01",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.cnet.com/a/img/resize/d181565ccb337ed956dc4a1644602d9b25e24d64/hub/2025/10/24/3c5210b7-769d-478c-9c7a-5e3d2396eb71/ios-26-iphone-battery-charge.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "url": "/tech-news/2026-01-06/want-better-iphone-battery-life-adaptive-power-in/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNET"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Soukromí bude v roce 2026 pod bezprecedentním útokem",
+      "description": "Velká Británie a Evropa zvyšují opozici vůči šifrování a zesilují dohled nad soukromými komunikacemi. Zde je přehled toho, co očekávat tento rok.",
+      "slug": "privacy-will-be-under-unprecedented-attack-in-2026",
+      "publishedAt": "2026-01-06T11:45:00+00:00",
+      "date": "2026-01-06 11:45:00",
+      "importance": 4,
+      "category": "ochrana soukromí",
+      "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/Hero Images/surveillance-biometrics-identity-privacy-KUBE-adobe.jpg",
+      "url": "/tech-news/2026-01-06/privacy-will-be-under-unprecedented-attack-in-2026/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "ComputerWeekly.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Výzkumníci otráví ukradená data, aby AI systémy vracely chybné výsledky",
+      "description": "Výzkumníci z univerzit v Číně a Singapuru vyvinuli techniku, která činí ukradená data ze znalostních grafů neužitečnými pro systémy GraphRAG. Firmy by měly zvážit pozici hlavního specialisty na dezinformace pro ochranu svých znalostních grafů.",
+      "slug": "researchers-poison-stolen-data-to-make-ai-systems-",
+      "publishedAt": "2026-01-06T11:27:09+00:00",
+      "date": "2026-01-06 11:27:09",
+      "importance": 4,
+      "category": "ai bezpečnost",
+      "urlToImage": "https://regmedia.co.uk/2025/10/09/shutterstock_720129613.jpg",
+      "url": "/tech-news/2026-01-06/researchers-poison-stolen-data-to-make-ai-systems/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Další generace čipů v plné produkci – generální ředitel Nvidia",
       "description": "Generální ředitel Nvidia Jensen Huang oznámil, že nová generace čipů společnosti je v plné produkci a poskytuje pětkrát vyšší výpočetní výkon pro umělou inteligenci oproti předchozím čipům při obsluze chatbotů a dalších AI aplikací.",
@@ -3723,27 +3839,6 @@
       "people": []
     },
     {
-      "title": "Meta kupuje AI společnost Manus v hodnotě 500 milionů dolarů – proč to udělala",
-      "description": "Meta převzala rychle rostoucí AI startup Manus za valuaci kolem 395 milionů liber. Tento článek vysvětluje, čím se Manus zabývá, proč je jeho hodnota diskutovaná a důvody akvizice právě teď.",
-      "slug": "meta-buys-ai-company-manus-worth-500-million-heres",
-      "publishedAt": "2025-12-30T12:24:36+00:00",
-      "date": "2025-12-30 12:24:36",
-      "importance": 4,
-      "category": "ai startupy",
-      "urlToImage": "https://d.ibtimes.com/en/full/4638825/meta-threads.jpg",
-      "url": "/tech-news/2025-12-30/meta-buys-ai-company-manus-worth-500-million-heres/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "International Business Times"
-      },
-      "companies": [
-        "Meta",
-        "Manus"
-      ],
-      "people": []
-    },
-    {
       "title": "OpenAI zpřísňuje pravidla AI pro teenagery, ale obavy přetrvávají",
       "description": "OpenAI oznámila nová bezpečnostní pravidla pro uživatele ChatGPT mladší 18 let, která blokují romantické roleplay a vyžadují zvýšenou opatrnost u témat tělesného obrazu. Tento krok reaguje na rostoucí tlak po tragických případech spojených s AI chatboti.",
       "slug": "openai-tightens-ai-rules-for-teens-but-concerns-re",
@@ -3803,27 +3898,6 @@
       "people": []
     },
     {
-      "title": "Meta kupuje čínský startup Manus v transakci v hodnotě 2–3 miliard dolarů pro posílení pokročilé AI",
-      "description": "Meta oznámila akvizici čínského startupu Manus se sídlem v Singapuru, aby integrovala jeho autonomního AI agenta do svých platforem. Hodnota dohody dosahuje 2–3 miliard dolarů.",
-      "slug": "meta-to-buy-chinese-startup-manus-in-deal-worth-2-",
-      "publishedAt": "2025-12-30T07:27:34+00:00",
-      "date": "2025-12-30 07:27:34",
-      "importance": 5,
-      "category": "ai",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2025/12/30/1600x900/logo/SPAIN-TECHNOLOGY-META-2_1763560100642_1763560111760_1767079481298.JPG",
-      "url": "/tech-news/2025-12-30/meta-to-buy-chinese-startup-manus-in-deal-worth-2/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Livemint"
-      },
-      "companies": [
-        "Meta",
-        "Manus"
-      ],
-      "people": []
-    },
-    {
       "title": "OpenAI nabízí 555 000 dolarů za „stressující“ práci na ochranu před nekontrolovanou AI a škodami na duševním zdraví",
       "description": "OpenAI hledá vysoce placeného ředitele na obranu proti rizikům umělé inteligence, jako jsou kyberútoky, nekontrolovaná AI a dopady na duševní zdraví uživatelů. Nabídka přichází po žalobách, které spojují ChatGPT se škodami včetně úmrtí, a odráží nestabilitu v bezpečnostním týmu společnosti.",
       "slug": "openai-offers-555000-for-âstressfulâ-job-to-guard-",
@@ -3840,27 +3914,6 @@
       },
       "companies": [
         "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Meta koupila Manus, AI startup, o kterém se všude mluví | TechCrunch",
-      "description": "Meta oznámila akvizici singapurského AI startupu Manus za 2 miliardy dolarů a nechá ho běžet nezávisle. Jeho AI agenty integruje do Facebooku, Instagramu a WhatsAppu, kde je již dostupný chatbot Meta AI.",
-      "slug": "meta-just-bought-manus-an-ai-startup-everyone-has-",
-      "publishedAt": "2025-12-30T05:40:35+00:00",
-      "date": "2025-12-30 05:40:35",
-      "importance": 5,
-      "category": "ai",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2173579488.jpg?resize=1200,799",
-      "url": "/tech-news/2025-12-30/meta-just-bought-manus-an-ai-startup-everyone-has/",
-      "source": {
-        "emoji": "🚀",
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "companies": [
-        "Meta",
-        "Manus"
       ],
       "people": []
     },
@@ -3886,27 +3939,6 @@
       "people": []
     },
     {
-      "title": "Meta získá singapurskou startupovou firmu Manus pro posílení pokročilých funkcí AI",
-      "description": "Společnost Meta oznámila akvizici čínského AI startupu Manus se sídlem v Singapuru, jehož hodnota dosahuje 2 až 3 miliard USD. Firma Manus vyvinula autonomního AI agenta schopného samostatného rozhodování a provádění úkolů.",
-      "slug": "meta-to-acquire-singapore-based-startup-manus-to-b",
-      "publishedAt": "2025-12-30T03:51:08+00:00",
-      "date": "2025-12-30 03:51:08",
-      "importance": 5,
-      "category": "ai",
-      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--CodrgARg--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-12-29T234402Z_2_LYNXMPELBS0TZ_RTROPTP_3_META-PLATFORMS-MESSAGING-WHATSAPP.JPG?itok=ZNnJftYM",
-      "url": "/tech-news/2025-12-30/meta-to-acquire-singapore-based-startup-manus-to-b/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNA"
-      },
-      "companies": [
-        "Meta",
-        "Manus"
-      ],
-      "people": []
-    },
-    {
       "title": "SMIC odkupuje dceřinou společnost za 5,8 miliardy USD, jak čínský pokrok ve výrobě čipů zrychluje",
       "description": "Semiconductor Manufacturing International Corp. (SMIC), provozovatel největší čínské polovodičové továrny, oznámila plány na odkup zbývajících 49 % podílu v menší foundry Semiconductor Manufacturing North China Corp. za 40,6 miliardy juanů (5,79 miliardy USD). Tento krok posiluje kontrolu nad výrobou čipů v Číně v době snahy o technologickou soběstačnost.",
       "slug": "smic-buys-out-subsidiary-for-58b-as-chinas-chipmak",
@@ -3923,27 +3955,6 @@
       },
       "companies": [
         "SMIC"
-      ],
-      "people": []
-    },
-    {
-      "title": "Meta přebírá čínský startup Manus pro posílení pokročilých funkcí umělé inteligence",
-      "description": "Meta oznámila převzetí singapurské společnosti Manus, která vznikla z čínského startupu Butterfly Effect (Monica.im). Tento krok má urychlit integraci univerzálních agentů umělé inteligence do platforem jako Facebook a WhatsApp. Hodnota akvizice přesahuje miliardu dolarů.",
-      "slug": "meta-to-acquire-chinese-startup-manus-to-boost-adv",
-      "publishedAt": "2025-12-30T02:14:45+00:00",
-      "date": "2025-12-30 02:14:45",
-      "importance": 5,
-      "category": "ai",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-73454,resizemode-75,msid-126242430/tech/technology/meta-to-acquire-chinese-startup-manus-to-boost-advanced-ai-features.jpg",
-      "url": "/tech-news/2025-12-30/meta-to-acquire-chinese-startup-manus-to-boost-adv/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Meta",
-        "Manus"
       ],
       "people": []
     },
@@ -4003,27 +4014,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Theregister.com"
-      },
-      "companies": [
-        "Meta",
-        "Manus"
-      ],
-      "people": []
-    },
-    {
-      "title": "Meta získá singapurský startup Manus pro posílení pokročilých funkcí umělé inteligence",
-      "description": "Meta Platforms souhlasila s akvizicí singapurského startupu Manus, který se specializuje na AI agenta pro firmy, za více než 2 miliardy amerických dolarů. Firma, původně založená v Číně, se přesunula do Singapuru kvůli napětí mezi USA a Čínou.",
-      "slug": "meta-to-acquire-singapore-based-start-up-manus-to-",
-      "publishedAt": "2025-12-30T00:23:44+00:00",
-      "date": "2025-12-30 00:23:44",
-      "importance": 5,
-      "category": "ai",
-      "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/fefd354c1ba1c4db54773de033d176991700d54c7121c73b31672c8e6ed1f5d0",
-      "url": "/tech-news/2025-12-30/meta-to-acquire-singapore-based-start-up-manus-to/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Straits Times"
       },
       "companies": [
         "Meta",
