@@ -4,47 +4,47 @@ category: robotika
 companies:
 - Hyundai
 - Boston Dynamics
-date: '2026-01-06 00:04:47'
-description: Společnost Boston Dynamics, vlastněná Hyundai, poprvé veřejně demonstrovala
-  humanoidního robota Atlas na veletrhu CES v Las Vegas. Robot provedl plynulé pohyby
-  a společnost plánuje jeho nasazení ve výrobě automobilů do roku 2028.
+date: '2026-01-06 03:08:37'
+description: Společnost uvedla, že produktová verze robota, který pomůže s montáží
+  automobilů, je již v produkci a bude nasazena do roku 2028 v továrně Hyundai na
+  výrobu elektromobilů poblíž Savannah v Georgii.
 importance: 5
 layout: tech_news_article
 original_title: Hyundai and Boston Dynamics unveil humanoid robot Atlas at CES
-publishedAt: '2026-01-06T00:04:47+00:00'
+publishedAt: '2026-01-06T03:08:37+00:00'
 slug: hyundai-and-boston-dynamics-unveil-humanoid-robot-
 source:
   emoji: 📰
-  id: null
-  name: OCRegister
+  id: the-times-of-india
+  name: The Times of India
 title: Hyundai a Boston Dynamics představili humanoidního robota Atlas na CES
-url: https://www.ocregister.com/2026/01/05/ces-2026-humanoid-robots/
-urlToImage: https://www.ocregister.com/wp-content/uploads/2026/01/Gadget_Show_Hyundai_Boston_Dynamics_72107-1.jpg?w=1024&h=682
-urlToImageBackup: https://www.ocregister.com/wp-content/uploads/2026/01/Gadget_Show_Hyundai_Boston_Dynamics_72107-1.jpg?w=1024&h=682
+url: https://economictimes.indiatimes.com/tech/technology/hyundai-and-boston-dynamics-unveil-humanoid-robot-atlas-at-ces/articleshow/126364665.cms
+urlToImage: https://img.etimg.com/thumb/width-1200,height-900,imgsize-49126,resizemode-75,msid-126364665/tech/technology/hyundai-and-boston-dynamics-unveil-humanoid-robot-atlas-at-ces.jpg
+urlToImageBackup: https://img.etimg.com/thumb/width-1200,height-900,imgsize-49126,resizemode-75,msid-126364665/tech/technology/hyundai-and-boston-dynamics-unveil-humanoid-robot-atlas-at-ces.jpg
 ---
 
 ## Souhrn
-Společnost Boston Dynamics, jejímž hlavním vlastníkem je Hyundai, poprvé veřejně předvedla humanoidního robota Atlas na veletrhu CES v Las Vegas. Robot se postavil z podlahy, chodil po jevišti, mával rukou a otáčel hlavou. Verze určená pro sestavování automobilů vstoupí do produkce a bude nasazena v továrně Hyundai v Georgii do roku 2028.
+Hyundai a Boston Dynamics veřejně předvedly humanoidního robota Atlas na veletrhu CES v Las Vegas. Robot prokázal schopnost vstávat z podlahy, chodit a otáčet hlavou, přičemž byl ovládán na dálku. Produktová verze určená pro montáž automobilů vstoupí do výroby a bude nasazena v roce 2028 v továrně Hyundai v Georgii.
 
 ## Klíčové body
-- První veřejná demonstrace Atlasu, který byl ovládán na dálku technikem, ale v reálném nasazení bude autonomní.
-- Plánované nasazení v automobilové výrobě Hyundai pro sestavování elektromobilů do roku 2028.
-- Partnerství s Google DeepMind, které dodá umělou inteligenci pro roboty Boston Dynamics.
-- Úvodní vystoupení čtyřnohých robotů Spot, které tančily synchronizovaně na korejskou popovou hudbu.
-- Boston Dynamics je známé komerčním robotem Spot, který slouží k inspekcím a sběru dat v průmyslovém prostředí.
+- První veřejná demonstrace Atlasu, který se pohybuje jako člověk díky dvěma rukám a nohám.
+- Produkční verze pro automobilovou průmyslovou montáž, nasazení v roce 2028.
+- Partnerství s DeepMind pro integraci umělé inteligence do robotů.
+- Soupeření s Tesla v oblasti humanoidních robotů pro průmyslové použití.
+- Úvodní vystoupení čtyřnohých robotů Spot s tančením na K-pop.
 
 ## Podrobnosti
-Boston Dynamics, americká firma se sídlem v Massachusetts, se specializuje na vývoj pokročilých robotů již desetiletí. Hyundai, jihokorejský automobilový výrobce, získal kontrolní podíl v roce 2021 a nyní integruje robotiku do své výroby. Na tiskové konferenci před CES 5. ledna 2026 v Las Vegas viceprezident a generální manažer projektu Atlas, Zachary Jackowski, přivítal robota slovy „poprvé veřejně“. Atlas, vysoký jako člověk s dvěma rukama a nohama, se zvedl z podlahy, chodil plynule po jevišti několik minut, mával davu a otáčel hlavou o 360 stupňů podobně jako sova. Tato demonstrace byla teleoperovaná – ovládána inženýrem poblíž – což je standardní postup pro bezpečné veřejné představení. V reálném provozu však Atlas operuje autonomně díky pokročilým senzorům, aktuátorům a algoritmům pro dynamickou rovnováhu a manipulaci s objekty.
+Boston Dynamics, firma se sídlem v Massachusetts, kterou Hyundai ovládá od roku 2021, předvedla robota Atlas 5. ledna 2026 na konferenci před CES v Las Vegas. Robot, vysoký jako člověk, se postavil z podlahy, plynule chodil po jevišti, mával davu a otáčel hlavou o 360 stupňů podobně jako sova. Tato demonstrace byla řízena inženýrem na dálku z blízkosti, což ukazuje současné limity autonomy. V reálném nasazení má Atlas operovat autonomně, řekl Zachary Jackowski, generální manažer divize humanoidních robotů u Boston Dynamics.
 
-Společnost oznámila, že komerční verze Atlasu je již v produkci a bude nasazena v továrně Hyundai na výrobu elektromobilů poblíž Savannah v Georgii. Robot zde pomůže se sestavováním vozidel, což znamená zpracování těžkých dílů, přesné manipulace a práci v prostředí, kde lidé čelí rizikům. Boston Dynamics dříve komercializovalo čtyřnohého robota Spot, který slouží k průmyslovým inspekcím, mapování a sběru dat v nebezpečných oblastech jako továrny nebo staveniště. Na úvod akce čtyři Spot roboti synchronizovaně tančili na korejskou popovou skladbu, což demonstrovalo jejich koordinaci ve skupině.
+Produktová verze Atlasu je již v produkci a zaměřuje se na pomoc při montáži automobilů. Bude nasazena v roce 2028 v továrně Hyundai na elektromobily poblíž Savannah v Georgii, kde má zefektivnit výrobní linky. Boston Dynamics je známý svými roboty jako Spot, čtyřnohý robot pro inspekce a průzkum, který se stal jejich prvním komerčním produktem. Na události otevřely program čtyři Spot roboti synchronizovaným tančícím vystoupením na K-pop skladbu, což demonstrovalo jejich koordinaci.
 
-Další krok je partnerství s Google DeepMind, divizí Google specializující se na výzkum umělé inteligence. DeepMind dodá své AI technologie, jako jsou modely pro učení s posilováním (reinforcement learning), které umožní robotům Atlas a Spot lepší adaptaci na reálné úkoly. Toto partnerství navazuje na minulost – Google koupilo Boston Dynamics v roce 2013 a prodalo ho po čtyřech letech. V širším kontextu zesiluje soutěž s Tesla Optimus, který má podobné cíle v průmyslové automatizaci, a dalšími hráči jako Figure AI nebo Agility Robotics.
+Hyundai zároveň oznámil partnerství s DeepMind, divizí Alphabetu specializující se na pokročilou umělou inteligenci. DeepMind dodá své AI technologie pro roboti Boston Dynamics, což umožní lepší vnímání prostředí, plánování pohybu a rozhodování. Toto partnerství navazuje na minulost – Google koupil Boston Dynamics v roce 2013 a prodal ho v roce 2017. Současný Atlas tak představuje krok vpřed oproti předchozím prototypům, které byly méně stabilní a méně lidsky podobné. Hyundai, jihokorejský automobilový gigant, investuje do robotiky pro řešení nedostatku pracovní síly v průmyslu a zvýšení bezpečnosti na výrobních linkách.
 
 ## Proč je to důležité
-Tato demonstrace označuje přechod humanoidních robotů z laboratoře do průmyslové praxe, což urychlí automatizaci výroby. Pro automobilový průmysl znamená snížení nákladů na práci, vyšší bezpečnost a vyšší produktivitu – Hyundai plánuje nasadit Atlas pro konkrétní úkoly v sériové výrobě. V robotice představuje pokrok v dynamické stabilitě a manipulaci, kde Boston Dynamics vede díky svým hydraulickým aktuátorům, které umožňují lidskou obratnost oproti elektromotorům u konkurentů. Partnerství s DeepMind zlepší autonomii pomocí pokročilých AI modelů, což může vést k AGI-like chování v omezených doménách. Rizika zahrnují závislost na teleoperaci v raných fázích a etické otázky masové automatizace pracovních míst, ale celkově posiluje trend integrace robotiky s AI v průmyslu.
+Tato novinka posiluje pozici Boston Dynamics v soutěži o humanoidní roboty, kde hlavním rivalem je Tesla s projektem Optimus. Na rozdíl od Optimuse, který je stále v prototypové fázi, Atlas má konkrétní nasazení v roce 2028, což může urychlit adopci robotů v automobilovém průmyslu. Integrace AI od DeepMind přinese pokročilé schopnosti jako učení se z dat a adaptaci na nečekané situace, což je klíčové pro průmyslovou autonomii. Pro uživatele to znamená potenciálně levnější a efektivnější výrobu elektromobilů, méně chyb a vyšší produktivitu. V širším kontextu urychluje to přechod k robotizované práci, což vyvolává otázky o zaměstnanosti, ale také o bezpečnosti – humanoidní roboti musí projít přísnými testy, aby se vyhnuli nehodám. Tento průlom v robotice může ovlivnit nejen automotive, ale i logistiku, zdravotnictví a domácí aplikace do pěti let.
 
 ---
 
-[Číst původní článek](https://www.ocregister.com/2026/01/05/ces-2026-humanoid-robots/)
+[Číst původní článek](https://economictimes.indiatimes.com/tech/technology/hyundai-and-boston-dynamics-unveil-humanoid-robot-atlas-at-ces/articleshow/126364665.cms)
 
-**Zdroj:** 📰 OCRegister
+**Zdroj:** 📰 The Times of India

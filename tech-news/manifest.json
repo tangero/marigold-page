@@ -1,7 +1,154 @@
 {
-  "generated": "2026-01-07T01:24:30.452777+00:00",
+  "generated": "2026-01-07T05:00:07.697519+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "AMD a její partneři sdílejí vizi „AI všude pro každého“ na CES 2026",
+      "description": "AMD na CES 2026 představilo rackovou platformu Helios jako návrh pro yotta-scale AI infrastrukturu založenou na Instinct MI455X GPU a EPYC „Venice“ CPU. Společnost rozšířila portfolio o nové GPU MI440X, preview MI500 série a Ryzen AI pro počítače a vestavěné systémy, přičemž oznámila investici 150 milionů dolarů do AI ve školách.",
+      "slug": "amd-and-its-partners-share-their-vision-for-ai-eve",
+      "publishedAt": "2026-01-06T04:30:00+00:00",
+      "date": "2026-01-06 04:30:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/9782a337-07ac-424b-9c5a-f9cde47d8d55",
+      "url": "/tech-news/2026-01-06/amd-and-its-partners-share-their-vision-for-ai-eve/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [
+        "AMD"
+      ],
+      "people": []
+    },
+    {
+      "title": "CES 2026: Čínští technologičtí giganti představí humanoidní roboty a displeje příští generace",
+      "description": "Na veletrhu CES 2026, který se koná od 6. do 9. ledna 2026 v Las Vegas, čínské technologické firmy v čele s giganty jako UBTech nebo Xiaomi plánují ukázat pokročilé humanoidní roboty a displeje nové generace. Tato přítomnost podtrhne rostoucí dominanci Číny v oblasti robotiky a AI.",
+      "slug": "ces-2026-chinas-tech-heavyweights-to-showcase-huma",
+      "publishedAt": "2026-01-06T04:14:04+00:00",
+      "date": "2026-01-06 04:14:04",
+      "importance": 5,
+      "category": "robotika",
+      "urlToImage": "https://img.digitimes.com/newsshow/20260106pd221_files/2_r.jpg",
+      "url": "/tech-news/2026-01-06/ces-2026-chinas-tech-heavyweights-to-showcase-huma/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Prezident OpenAI Brockman: Růst HDP bude brzy záviset na výpočetním výkonu",
+      "description": "Prezident a spoluzakladatel OpenAI Greg Brockman na konferenci CES 2026 zdůraznil akutní nedostatek výpočetního výkonu (compute) v jeho firmě a předpověděl, že růst HDP zemí a regionů bude brzy určovat právě dostupnost compute. Tato výpověď zazněla během diskuse s generální ředitelkou AMD Lisou Su.",
+      "slug": "openais-brockman-says-gdp-growth-may-soon-be-tied-",
+      "publishedAt": "2026-01-06T04:01:59+00:00",
+      "date": "2026-01-06 04:01:59",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
+      "url": "/tech-news/2026-01-06/openais-brockman-says-gdp-growth-may-soon-be-tied/",
+      "source": {
+        "emoji": "🚀",
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "companies": [
+        "OpenAI",
+        "AMD"
+      ],
+      "people": [
+        "Greg Brockman",
+        "Lisa Su"
+      ]
+    },
+    {
+      "title": "Samsung využívá modely Gemini v globálním závodě o AI zařízení",
+      "description": "Globální soutěž v umělé inteligenci překračuje fázi vývoje velkých jazykových modelů a přesouvá se k integraci AI do hardware, zařízení a aplikací na spotřebním i podnikovém trhu. Samsung nasazuje modely Gemini od Google, aby posílil svou pozici v tomto závodě.",
+      "slug": "samsung-leverages-gemini-models-as-global-ai-devic",
+      "publishedAt": "2026-01-06T03:51:49+00:00",
+      "date": "2026-01-06 03:51:49",
+      "importance": 4,
+      "category": "ai zařízení",
+      "urlToImage": "https://img.digitimes.com/newsshow/20260106vl205_files/1_2b.jpg",
+      "url": "/tech-news/2026-01-06/samsung-leverages-gemini-models-as-global-ai-devic/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [
+        "Samsung"
+      ],
+      "people": []
+    },
+    {
+      "title": "Lucid Gravity: Šestimístný robotaxi odhalen na CES 2026 – zahájení provozu v San Franciscu letos",
+      "description": "Společnost Lucid představila na veletrhu CES 2026 své robotaxi ve spolupráci s firmou Nuro na autonomní robotiku a Uber Technologies. Služba bude spuštěna v San Franciscu v Kalifornii ještě letos, přičemž vozidlo je založené na modelu Lucid Gravity.",
+      "slug": "lucid-gravity-6-passenger-robotaxi-unveiled-at-ces",
+      "publishedAt": "2026-01-06T03:42:23+00:00",
+      "date": "2026-01-06 03:42:23",
+      "importance": 4,
+      "category": "robotaxi",
+      "urlToImage": "https://paultan.org/image/2026/01/Lucid-Robotaxi-1-e1767664764411-1200x628.jpg",
+      "url": "/tech-news/2026-01-06/lucid-gravity-6-passenger-robotaxi-unveiled-at-ces/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Paul Tan's Automotive News"
+      },
+      "companies": [
+        "Lucid",
+        "Nuro",
+        "Uber Technologies"
+      ],
+      "people": []
+    },
+    {
+      "title": "Prezident Nvidia Jensen Huang na CES 2026 – Nová generace Rubin GPU v plné produkci. 5násobný výkon Blackwella v FP",
+      "description": "Jensen Huang představil nejnovější technologii Nvidia včetně nových čipů Rubin GPU. Architektura Vera Rubin řeší rostoucí poptávku po výpočetním výkonu pro AI, kde modely rostou 10násobně každý rok a uvažování přidává další výpočetní nároky.",
+      "slug": "nvidia-ceo-jensen-huang-ces-2026-keynote-next-gen-",
+      "publishedAt": "2026-01-06T03:12:44+00:00",
+      "date": "2026-01-06 03:12:44",
+      "importance": 4,
+      "category": "grafické procesory",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/01/Screenshot-2026-01-05-at-7.18.27-PM.jpg",
+      "url": "/tech-news/2026-01-06/nvidia-ceo-jensen-huang-ces-2026-keynote-next-gen/",
+      "source": {
+        "emoji": "📰",
+        "id": "next-big-future",
+        "name": "Next Big Future"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": [
+        "Jensen Huang"
+      ]
+    },
+    {
+      "title": "Hyundai a Boston Dynamics představili humanoidního robota Atlas na CES",
+      "description": "Společnost uvedla, že produktová verze robota, který pomůže s montáží automobilů, je již v produkci a bude nasazena do roku 2028 v továrně Hyundai na výrobu elektromobilů poblíž Savannah v Georgii.",
+      "slug": "hyundai-and-boston-dynamics-unveil-humanoid-robot-",
+      "publishedAt": "2026-01-06T03:08:37+00:00",
+      "date": "2026-01-06 03:08:37",
+      "importance": 5,
+      "category": "robotika",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-49126,resizemode-75,msid-126364665/tech/technology/hyundai-and-boston-dynamics-unveil-humanoid-robot-atlas-at-ces.jpg",
+      "url": "/tech-news/2026-01-06/hyundai-and-boston-dynamics-unveil-humanoid-robot/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Hyundai",
+        "Boston Dynamics"
+      ],
+      "people": []
+    },
     {
       "title": "Nvidia na CES: Alpamayo, Rubin a vzestup uvažující umělé inteligence",
       "description": "Generální ředitel Nvidia Jensen Huang zahájil keynote na veletrhu CES v Las Vegas, kde představil nové platformy Alpamayo a Rubin a zdůraznil pokrok v uvažující umělé inteligenci. Prezentace se zaměřila na širokou škálu inovací v AI hardwaru a softwaru.",
@@ -201,27 +348,6 @@
         "name": "The Punch"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Hyundai a Boston Dynamics představili humanoidního robota Atlas na CES",
-      "description": "Společnost Boston Dynamics, vlastněná Hyundai, poprvé veřejně demonstrovala humanoidního robota Atlas na veletrhu CES v Las Vegas. Robot provedl plynulé pohyby a společnost plánuje jeho nasazení ve výrobě automobilů do roku 2028.",
-      "slug": "hyundai-and-boston-dynamics-unveil-humanoid-robot-",
-      "publishedAt": "2026-01-06T00:04:47+00:00",
-      "date": "2026-01-06 00:04:47",
-      "importance": 5,
-      "category": "robotika",
-      "urlToImage": "https://www.ocregister.com/wp-content/uploads/2026/01/Gadget_Show_Hyundai_Boston_Dynamics_72107-1.jpg?w=1024&h=682",
-      "url": "/tech-news/2026-01-06/hyundai-and-boston-dynamics-unveil-humanoid-robot/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "OCRegister"
-      },
-      "companies": [
-        "Hyundai",
-        "Boston Dynamics"
-      ],
       "people": []
     },
     {
@@ -3332,24 +3458,6 @@
       "people": []
     },
     {
-      "title": "Průlomové rozhraní mozek-počítač s minimální invazivitou",
-      "description": "Nové vysoce výkonné rozhraní mozek-počítač (BCI) lze implantovat minimálně invazivním postupem za méně než 20 minut. Toto řešení bylo již implantováno u více než 50 pacientů.",
-      "slug": "breakthrough-brain-computer-interface-is-minimally",
-      "publishedAt": "2025-12-30T23:26:14+00:00",
-      "date": "2025-12-30 23:26:14",
-      "importance": 4,
-      "category": "neurotechnologie",
-      "urlToImage": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2025-12/pic09801543.jpg?itok=4gFV-I3F",
-      "url": "/tech-news/2025-12-30/breakthrough-brain-computer-interface-is-minimally/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Psychology Today"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Tajemství čipů TSMC ohrožena: Vyšetřování našlo citlivé dokumenty v domě bývalého manažera, který přešel k Intelu",
       "description": "Taiwanští úředníci objevili v domě Dr. Wei-Jen Lo, bývalého klíčového specialisty TSMC nyní v Intelu, důvěrné dokumenty o pokročilých polovodičových technologiích. TSMC podalo žalobu kvůli obavám z úniku obchodních tajemství v oblasti EUV a 2nm procesů.",
       "slug": "tsmc-chip-secrets-may-be-in-jeopardy-after-an-inve",
@@ -3390,29 +3498,6 @@
         "Hulu"
       ],
       "people": []
-    },
-    {
-      "title": "AI nadšenec, který právě podpořil dohodu Nvidia-Groq, varuje před krachem datových center: 'Předvídáme významnou finanční krizi'",
-      "description": "Alex Davis tvrdí, že vývojáři datových center třetích stran budou nakonec zrazeni hyperscalery, kterým slouží, a čelí následné dluhové krizi.",
-      "slug": "an-ai-super-bull-who-just-backed-the-nvidia-groq-d",
-      "publishedAt": "2025-12-30T19:15:48+00:00",
-      "date": "2025-12-30 19:15:48",
-      "importance": 5,
-      "category": "datová centra",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2254057762-e1767121724441.jpg?resize=1200,600",
-      "url": "/tech-news/2025-12-30/an-ai-super-bull-who-just-backed-the-nvidia-groq-d/",
-      "source": {
-        "emoji": "📰",
-        "id": "fortune",
-        "name": "Fortune"
-      },
-      "companies": [
-        "Nvidia",
-        "Groq"
-      ],
-      "people": [
-        "Alex Davis"
-      ]
     },
     {
       "title": "Co všechno může Meta udělat se svým novým AI agentem za 2 miliardy dolarů",
@@ -3601,26 +3686,6 @@
       "people": []
     },
     {
-      "title": "Byl Apple hacknut? Masivní kyberútok mohl odhalit citlivá data výrobce iPhonů",
-      "description": "Kyberútok na klíčového dodavatele Applu v Číně mohl vystavit citlivá výrobní data a vyvolává obavy o bezpečnost globálního dodavatelského řetězce. Incident z konce prosince 2025 ukazuje zranitelnost i u nejsilnějších technologických firem.",
-      "slug": "apple-got-hacked-massive-cyberattack-may-have-leak",
-      "publishedAt": "2025-12-30T12:24:12+00:00",
-      "date": "2025-12-30 12:24:12",
-      "importance": 5,
-      "category": "kyberútok",
-      "urlToImage": "https://d.ibtimes.com/en/full/4638822/appl-logo.png",
-      "url": "/tech-news/2025-12-30/apple-got-hacked-massive-cyberattack-may-have-leak/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "International Business Times"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
       "title": "OpenAI zpřísňuje pravidla AI pro teenagery, ale obavy přetrvávají",
       "description": "OpenAI oznámila nová bezpečnostní pravidla pro uživatele ChatGPT mladší 18 let, která blokují romantické roleplay a vyžadují zvýšenou opatrnost u témat tělesného obrazu. Tento krok reaguje na rostoucí tlak po tragických případech spojených s AI chatboti.",
       "slug": "openai-tightens-ai-rules-for-teens-but-concerns-re",
@@ -3637,27 +3702,6 @@
       },
       "companies": [
         "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Největší investice do austrinských startupů v roce 2025",
-      "description": "Startupy z oblasti Austinu získaly v roce 2025 miliardy dolarů z venture capital, což je nejsilnější rok od roku 2021. Mezi největšími koly patří investice do robotiky, umělé inteligence, energetiky a IT bezpečnosti, včetně rekordních 1 miliardy dolarů pro Base Power.",
-      "slug": "austin-2025-funding-rounds-highlight-biggest-vc-de",
-      "publishedAt": "2025-12-30T12:06:08+00:00",
-      "date": "2025-12-30 12:06:08",
-      "importance": 4,
-      "category": "startupy",
-      "urlToImage": "https://s.hdnux.com/photos/01/55/45/30/28726846/4/rawImage.jpg",
-      "url": "/tech-news/2025-12-30/austin-2025-funding-rounds-highlight-biggest-vc-de/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Austin American-Statesman"
-      },
-      "companies": [
-        "Base Power",
-        "NinjaOne"
       ],
       "people": []
     },
@@ -3863,24 +3907,6 @@
       "people": []
     },
     {
-      "title": "Čína plánuje pravidla pro umělou inteligenci k ochraně dětí a prevenci sebevražd",
-      "description": "Návrhové nařízení se zaměřuje na obavy spojené s chatboti, jejichž popularita v posledních měsících prudce vzrostla. Pravidla mají zajistit bezpečnost dětí a zabránit škodlivým radám od AI.",
-      "slug": "china-plans-ai-rules-to-protect-children-and-tackl",
-      "publishedAt": "2025-12-30T02:32:33+00:00",
-      "date": "2025-12-30 02:32:33",
-      "importance": 4,
-      "category": "ai regulace",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0fa6/live/4c396340-e527-11f0-a17f-77b932673098.jpg",
-      "url": "/tech-news/2025-12-30/china-plans-ai-rules-to-protect-children-and-tackl/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BBC News"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "SMIC odkupuje dceřinou společnost za 5,8 miliardy USD, jak čínský pokrok ve výrobě čipů zrychluje",
       "description": "Semiconductor Manufacturing International Corp. (SMIC), provozovatel největší čínské polovodičové továrny, oznámila plány na odkup zbývajících 49 % podílu v menší foundry Semiconductor Manufacturing North China Corp. za 40,6 miliardy juanů (5,79 miliardy USD). Tento krok posiluje kontrolu nad výrobou čipů v Číně v době snahy o technologickou soběstačnost.",
       "slug": "smic-buys-out-subsidiary-for-58b-as-chinas-chipmak",
@@ -4021,26 +4047,6 @@
         "name": "The Straits Times"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Americké a australské agentury varují: Zranitelnost MongoBleed v MongoDB je aktivně využívána",
-      "description": "Kybernetické bezpečnostní úřady v USA a Austrálii upozorňují na aktivní exploitaci kritické zranitelnosti CVE-2025-14847 v MongoDB, která umožňuje útočníkům získat citlivé údaje z paměti databáze. Tato chyba ohrožuje tisíce veřejně dostupných instancí a CISA nařizuje federálním agenturám patchování do 19. ledna.",
-      "slug": "us-and-australian-agencies-warn-mongobleed-vulnera",
-      "publishedAt": "2025-12-29T22:57:09+00:00",
-      "date": "2025-12-29 22:57:09",
-      "importance": 5,
-      "category": "kybernetika",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/mongobleed.png",
-      "url": "/tech-news/2025-12-29/us-and-australian-agencies-warn-mongobleed-vulnera/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "MongoDB"
-      ],
       "people": []
     }
   ]
