@@ -1,7 +1,87 @@
 {
-  "generated": "2026-01-07T16:44:26.505506+00:00",
+  "generated": "2026-01-07T20:38:41.035685+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Tesla čelí žalobě kvůli smrtelné nehodě Modelu X, valí se vlna soudních sporů",
+      "description": "Nová žaloba proti Tesle po tragické nehodě v Idahu, při níž zemřela čtyřčlenná rodina, obviňuje systémy Autosteer a asistenční funkce z nájezdu do protijedoucího kamionu. Jedná se o další případ v řadě žalob po prohře Tesly v prvním velkém soudním sporu o Autopilot.",
+      "slug": "tesla-sued-over-family-killed-in-tragic-model-x-cr",
+      "publishedAt": "2026-01-06T19:58:56+00:00",
+      "date": "2026-01-06 19:58:56",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2024/05/Tesla-Model-S-X-Lunar-Grey.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2026-01-06/tesla-sued-over-family-killed-in-tragic-model-x-cr/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Electrek"
+      },
+      "companies": [
+        "Tesla"
+      ],
+      "people": []
+    },
+    {
+      "title": "Pohled na nové technologie oznámené první den CES 2026",
+      "description": "CES představuje každoročně klíčovou příležitost pro velké i malé firmy předvést produkty, které plánují tento rok umístit na pulty obchodů. První den konference patřil oznámením od Nvidia, AMD a Intel v oblasti čipů a AI platforem.",
+      "slug": "a-look-at-the-new-technology-announced-on-day-1-of",
+      "publishedAt": "2026-01-06T19:39:10+00:00",
+      "date": "2026-01-06 19:39:10",
+      "importance": 4,
+      "category": "spotřební elektronik",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2026/01/2026-01-05T185132Z_686794914_RC23VIAGP4O2_RTRMADP_3_TECH-CES-1024x646.jpg",
+      "url": "/tech-news/2026-01-06/a-look-at-the-new-technology-announced-on-day-1-of/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "PBS"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Sekce 230 nechrání Elona Muska před odpovědností za zneužití deepfakeů, říká senátor",
+      "description": "Státy musí zasáhnout a donutit X a Muska k odpovědnosti, pokud to Trumpovo ministerstvo spravedlnosti neudělá, prohlásil senátor Ron Wyden. Podle něj AI chatboty jako Grok nejsou chráněny sekcí 230 za obsah, který samy generují.",
+      "slug": "section-230-doesnt-cover-elon-musks-ass-when-it-co",
+      "publishedAt": "2026-01-06T19:05:29+00:00",
+      "date": "2026-01-06 19:05:29",
+      "importance": 4,
+      "category": "deepfakes",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/08/elon-musk-june-19-2024-france.jpg",
+      "url": "/tech-news/2026-01-06/section-230-doesnt-cover-elon-musks-ass-when-it-co/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk",
+        "Ron Wyden",
+        "Donald Trump"
+      ]
+    },
+    {
+      "title": "Chatbot Grok od Elona Muska čelí globálnímu odporu kvůli generování sexualizovaných obrázků žen a dětí bez souhlasu",
+      "description": "Rostoucí znepokojení z různých zemí upozorňuje na rizika nudification aplikací, které pomocí AI vytvářejí sexuálně explicitní deepfake obrázky.",
+      "slug": "elon-musks-grok-chatbot-draws-global-backlash-for-",
+      "publishedAt": "2026-01-06T18:53:59+00:00",
+      "date": "2026-01-06 18:53:59",
+      "importance": 4,
+      "category": "deepfakes",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/01/GettyImages-2248158758-e1767725594349.jpg?resize=1200,600",
+      "url": "/tech-news/2026-01-06/elon-musks-grok-chatbot-draws-global-backlash-for/",
+      "source": {
+        "emoji": "📰",
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk"
+      ]
+    },
     {
       "title": "Microsoft spolupracuje s velkým americkým operátorem elektrické sítě na modernizaci systému v Midweste",
       "description": "Americká energetická síť v oblasti Midwesta uzavřela partnerství s Microsoftem, aby zajistila dostatek elektřiny pro rostoucí poptávku způsobenou datovými centry pro umělou inteligenci. Microsoft nasadí své technologie pro predikci výpadků a optimalizaci provozu sítě.",
@@ -3824,27 +3904,6 @@
       "people": []
     },
     {
-      "title": "OpenAI získala obrovskou investici 40 miliard dolarů",
-      "description": "OpenAI a SoftBank uzavřely jednu z největších soukromých technologických investic v historii. Japonský konglomerát dokončil svůj závazek 40 miliard USD (přibližně 55 miliard CAD) do tvůrce ChatGPT.",
-      "slug": "openai-secures-massive-40-billion-investment",
-      "publishedAt": "2025-12-30T15:30:53+00:00",
-      "date": "2025-12-30 15:30:53",
-      "importance": 5,
-      "category": "investice",
-      "urlToImage": "https://cdn.iphoneincanada.ca/wp-content/uploads/2025/10/plt-openai-01-hero-01png.png",
-      "url": "/tech-news/2025-12-30/openai-secures-massive-40-billion-investment/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "iPhone in Canada"
-      },
-      "companies": [
-        "OpenAI",
-        "SoftBank"
-      ],
-      "people": []
-    },
-    {
       "title": "Očekáván pokles čtvrtletních dodávek Tesly",
       "description": "Dodávky Tesly se v čtvrtém čtvrtletí očekávají snížit kvůli ztrátě amerických daňových úlev a rostoucí globální konkurenci, přestože společnost uvedla na trh levnější verze svých nejprodávanějších elektromobilů Model 3 a Model Y.",
       "slug": "teslas-quarterly-deliveries-seen-falling",
@@ -3880,26 +3939,6 @@
         "name": "Singularity Hub"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "OpenAI zpřísňuje pravidla AI pro teenagery, ale obavy přetrvávají",
-      "description": "OpenAI oznámila nová bezpečnostní pravidla pro uživatele ChatGPT mladší 18 let, která blokují romantické roleplay a vyžadují zvýšenou opatrnost u témat tělesného obrazu. Tento krok reaguje na rostoucí tlak po tragických případech spojených s AI chatboti.",
-      "slug": "openai-tightens-ai-rules-for-teens-but-concerns-re",
-      "publishedAt": "2025-12-30T12:11:54+00:00",
-      "date": "2025-12-30 12:11:54",
-      "importance": 4,
-      "category": "ai bezpečnost",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/12/laptop-chatgpt-photo-1.jpg",
-      "url": "/tech-news/2025-12-30/openai-tightens-ai-rules-for-teens-but-concerns-re/",
-      "source": {
-        "emoji": "📰",
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "companies": [
-        "OpenAI"
-      ],
       "people": []
     },
     {
@@ -3959,47 +3998,6 @@
       "companies": [
         "SoftBank",
         "DigitalBridge"
-      ],
-      "people": []
-    },
-    {
-      "title": "SMIC odkupuje dceřinou společnost za 5,8 miliardy USD, jak čínský pokrok ve výrobě čipů zrychluje",
-      "description": "Semiconductor Manufacturing International Corp. (SMIC), provozovatel největší čínské polovodičové továrny, oznámila plány na odkup zbývajících 49 % podílu v menší foundry Semiconductor Manufacturing North China Corp. za 40,6 miliardy juanů (5,79 miliardy USD). Tento krok posiluje kontrolu nad výrobou čipů v Číně v době snahy o technologickou soběstačnost.",
-      "slug": "smic-buys-out-subsidiary-for-58b-as-chinas-chipmak",
-      "publishedAt": "2025-12-30T02:23:38+00:00",
-      "date": "2025-12-30 02:23:38",
-      "importance": 5,
-      "category": "polovodiče",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Screenshot-from-2025-12-30-09-22-56.png",
-      "url": "/tech-news/2025-12-30/smic-buys-out-subsidiary-for-58b-as-chinas-chipmak/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "SMIC"
-      ],
-      "people": []
-    },
-    {
-      "title": "Origin Energy investuje 210 milionů do vyčlenění Kraken z Octopus Energy",
-      "description": "Australská energetická společnost Origin Energy vloží 210 milionů australských dolarů do oddělení technologické platformy Kraken od britské Octopus Energy. Tento krok podporuje transformaci maloobchodního segmentu energetických firem.",
-      "slug": "origin-energy-puts-210m-into-spinout-of-kraken-fro",
-      "publishedAt": "2025-12-30T01:52:37+00:00",
-      "date": "2025-12-30 01:52:37",
-      "importance": 4,
-      "category": "energetika",
-      "urlToImage": "https://i.nextmedia.com.au/News/origin energy.jpg",
-      "url": "/tech-news/2025-12-30/origin-energy-puts-210m-into-spinout-of-kraken-fro/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "iTnews"
-      },
-      "companies": [
-        "Kraken",
-        "Octopus Energy"
       ],
       "people": []
     },
