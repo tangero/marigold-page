@@ -1,7 +1,111 @@
 {
-  "generated": "2026-01-07T12:53:00.679717+00:00",
+  "generated": "2026-01-07T16:44:26.505506+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Microsoft spolupracuje s velkým americkým operátorem elektrické sítě na modernizaci systému v Midweste",
+      "description": "Americká energetická síť v oblasti Midwesta uzavřela partnerství s Microsoftem, aby zajistila dostatek elektřiny pro rostoucí poptávku způsobenou datovými centry pro umělou inteligenci. Microsoft nasadí své technologie pro predikci výpadků a optimalizaci provozu sítě.",
+      "slug": "microsoft-works-with-major-us-electric-grid-operat",
+      "publishedAt": "2026-01-06T16:10:31+00:00",
+      "date": "2026-01-06 16:10:31",
+      "importance": 4,
+      "category": "energetika",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--xgxnFijv--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-01-06T161559Z_2_LYNXMPEM050TY_RTROPTP_3_USA-POWER-GRID-MICROSOFT.JPG?itok=luw8SmPm",
+      "url": "/tech-news/2026-01-06/microsoft-works-with-major-us-electric-grid-operat/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNA"
+      },
+      "companies": [
+        "Microsoft"
+      ],
+      "people": []
+    },
+    {
+      "title": "Před rokem Jensen Huang z Nvidia slíbil 'ChatGPT moment' pro robotiku za rohem. Teď říká, že je 'téměř zde'. Ale je tomu tak?",
+      "description": "Huang tvrdí, že pokroky v modelech, simulaci a výpočetním výkonu posunuly robotiku k dlouho očekávanému obratu – přeměna platforem na stroje v reálném světě však zůstává nejtěžší částí.",
+      "slug": "a-year-ago-nvidias-jensen-huang-said-the-chatgpt-m",
+      "publishedAt": "2026-01-06T16:08:42+00:00",
+      "date": "2026-01-06 16:08:42",
+      "importance": 4,
+      "category": "robotika",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/01/GettyImages-2254221764-e1767710932912.jpg?resize=1200,600",
+      "url": "/tech-news/2026-01-06/a-year-ago-nvidias-jensen-huang-said-the-chatgpt-m/",
+      "source": {
+        "emoji": "📰",
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": [
+        "Jensen Huang"
+      ]
+    },
+    {
+      "title": "Britská vláda vyzývá Elona Muska k řešení „ohavních“ deepfakeů od Grok AI",
+      "description": "Britská ministryně pro technologie Liz Kendall vyzvala Elona Muska, aby zastavil zneužívání AI nástroje Grok na platformě X k tvorbě falešných a ne souhlasných sexuálních obrázků žen a dětí. Regulátor Ofcom zahájil vyšetřování po stížnostech uživatelů na deepfakes, včetně manipulovaných fotografií nezletilých.",
+      "slug": "uk-government-urges-elon-musk-to-address-appalling",
+      "publishedAt": "2026-01-06T16:06:04+00:00",
+      "date": "2026-01-06 16:06:04",
+      "importance": 4,
+      "category": "deepfakes",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2025/12/P115WQB6-e1764803391272.jpg?w=1024",
+      "url": "/tech-news/2026-01-06/uk-government-urges-elon-musk-to-address-appalling/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Deadline"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk",
+        "Liz Kendall"
+      ]
+    },
+    {
+      "title": "Marvell kupuje firmu na síťové vybavení XConn za 540 milionů dolarů v rámci expanze AI infrastruktury",
+      "description": "Společnost Marvell Technology oznámila akvizici poskytovatele síťového vybavení XConn Technologies za přibližně 540 milionů dolarů. Tento krok posiluje její pozici v hardwaru pro datová centra uprostřed soutěže o rozšíření infrastruktury pro umělou inteligenci.",
+      "slug": "marvell-to-buy-networking-equipment-firm-xconn-in-",
+      "publishedAt": "2026-01-06T15:43:10+00:00",
+      "date": "2026-01-06 15:43:10",
+      "importance": 4,
+      "category": "akvizice",
+      "urlToImage": "https://biztoc.com/cdn/6287b6a333354082_s.webp",
+      "url": "/tech-news/2026-01-06/marvell-to-buy-networking-equipment-firm-xconn-in/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "companies": [
+        "Marvell Technology",
+        "XConn Technologies"
+      ],
+      "people": []
+    },
+    {
+      "title": "Británie vyzývá platformu X Elona Muska k okamžitému řešení intimních deepfakes od Grok",
+      "description": "Británie v úterý vyzvala platformu X Elona Muska, aby urgentně řešila šíření intimních deepfake obrázků vytvářených na příkaz pomocí vestavěného AI chatbota Grok. Tento krok přichází v reakci na nárůst nekonzistentních obrázků žen a nezletilých, což vyvolalo evropskou kritiku.",
+      "slug": "uk-urges-musks-x-to-urgently-address-intimate-deep",
+      "publishedAt": "2026-01-06T15:41:00+00:00",
+      "date": "2026-01-06 15:41:00",
+      "importance": 4,
+      "category": "deepfakes",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/01/06/3707982.jpg",
+      "url": "/tech-news/2026-01-06/uk-urges-musks-x-to-urgently-address-intimate-deep/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Star Online"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk"
+      ]
+    },
     {
       "title": "Křišťálová koule: Jak se budou vyvíjet IPO a obchodní dohody v roce 2026",
       "description": "Čtenáři Term Sheet sdělili své názory na vývoj stavu exitů na soukromých trzích do roku 2026. Článek analyzuje predikce ohledně IPO a fúzí a akvizic v technologickém sektoru.",
@@ -3699,24 +3803,6 @@
       "people": []
     },
     {
-      "title": "Nová varianta malware Shai Hulud 3.0 vyvolává nové obavy o bezpečnost dodavatelského řetězce",
-      "description": "Nově objevená třetí varianta malware Shai Hulud zvyšuje obavy o bezpečnost dodavatelského řetězce open-source software, protože vykazuje vyšší sofistikovanost a lepší skrytost než předchozí verze. Výzkumníci varují před riziky pro JavaScript developery a jejich prostředí.",
-      "slug": "new-shai-hulud-30-malware-variant-raises-fresh-sup",
-      "publishedAt": "2025-12-30T23:34:09+00:00",
-      "date": "2025-12-30 23:34:09",
-      "importance": 4,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/ShaiHuludmalware.png",
-      "url": "/tech-news/2025-12-30/new-shai-hulud-30-malware-variant-raises-fresh-sup/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Tajemství čipů TSMC ohrožena: Vyšetřování našlo citlivé dokumenty v domě bývalého manažera, který přešel k Intelu",
       "description": "Taiwanští úředníci objevili v domě Dr. Wei-Jen Lo, bývalého klíčového specialisty TSMC nyní v Intelu, důvěrné dokumenty o pokročilých polovodičových technologiích. TSMC podalo žalobu kvůli obavám z úniku obchodních tajemství v oblasti EUV a 2nm procesů.",
       "slug": "tsmc-chip-secrets-may-be-in-jeopardy-after-an-inve",
@@ -3738,27 +3824,6 @@
       "people": []
     },
     {
-      "title": "MiniMax směřuje k IPO v Hong Kongu, čínské AI firmy spěchají k veřejnému obchodování",
-      "description": "Čínská startupová společnost v oblasti umělé inteligence MiniMax se připravuje na první veřejnou nabídku akcií v Hong Kongu, kde chce získat více než 600 milionů dolarů. Podporují ji Alibaba Group a Abu Dhabi Investment Authority, přičemž listing je plánován na leden.",
-      "slug": "minimax-moves-toward-hong-kong-ipo-as-chinese-ai-f",
-      "publishedAt": "2025-12-30T16:10:40+00:00",
-      "date": "2025-12-30 16:10:40",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/ai-generated-8563259_1280.jpg",
-      "url": "/tech-news/2025-12-30/minimax-moves-toward-hong-kong-ipo-as-chinese-ai-f/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "MiniMax",
-        "Alibaba Group Holdings Ltd"
-      ],
-      "people": []
-    },
-    {
       "title": "OpenAI získala obrovskou investici 40 miliard dolarů",
       "description": "OpenAI a SoftBank uzavřely jednu z největších soukromých technologických investic v historii. Japonský konglomerát dokončil svůj závazek 40 miliard USD (přibližně 55 miliard CAD) do tvůrce ChatGPT.",
       "slug": "openai-secures-massive-40-billion-investment",
@@ -3776,27 +3841,6 @@
       "companies": [
         "OpenAI",
         "SoftBank"
-      ],
-      "people": []
-    },
-    {
-      "title": "Nvidia licencuje technologii inferenčních čipů od Groq a najímá její lídry",
-      "description": "Tato neakvizice umožní Nvidia diverzifikovat dodavatelské řetězce a vstoupit do nových trhů, přičemž se vyhne antimonopolnímu dohledu.",
-      "slug": "nvidia-licenses-groqs-inferencing-chip-tech-and-hi",
-      "publishedAt": "2025-12-30T15:18:05+00:00",
-      "date": "2025-12-30 15:18:05",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://www.networkworld.com/wp-content/uploads/2025/12/4112131-0-24168400-1767107688-Groq.jpg?quality=50&strip=all&w=1024",
-      "url": "/tech-news/2025-12-30/nvidia-licenses-groqs-inferencing-chip-tech-and-hi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Network World"
-      },
-      "companies": [
-        "Nvidia",
-        "Groq"
       ],
       "people": []
     },
@@ -3898,26 +3942,6 @@
       "people": []
     },
     {
-      "title": "OpenAI nabízí 555 000 dolarů za „stressující“ práci na ochranu před nekontrolovanou AI a škodami na duševním zdraví",
-      "description": "OpenAI hledá vysoce placeného ředitele na obranu proti rizikům umělé inteligence, jako jsou kyberútoky, nekontrolovaná AI a dopady na duševní zdraví uživatelů. Nabídka přichází po žalobách, které spojují ChatGPT se škodami včetně úmrtí, a odráží nestabilitu v bezpečnostním týmu společnosti.",
-      "slug": "openai-offers-555000-for-âstressfulâ-job-to-guard-",
-      "publishedAt": "2025-12-30T06:00:00+00:00",
-      "date": "2025-12-30 06:00:00",
-      "importance": 4,
-      "category": "ai bezpečnost",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/12/ChatGPT-AI-App-Icons.jpg",
-      "url": "/tech-news/2025-12-30/openai-offers-555000-for-âstressfulâ-job-to-guard/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
       "title": "SoftBank zaplatí 4 miliardy dolarů za investiční firmu DigitalBridge",
       "description": "SoftBank se dohodl na akvizici private equity firmy DigitalBridge v dealu, který oceňuje investora do datových center na 4 miliardy dolarů (3,4 miliardy eur) včetně dluhu. Tato transakce posiluje pozici SoftBanku v digitální infrastruktuře v době boomu umělé inteligence.",
       "slug": "softbank-to-pay-4bn-for-investment-firm-digitalbri",
@@ -3976,27 +4000,6 @@
       "companies": [
         "Kraken",
         "Octopus Energy"
-      ],
-      "people": []
-    },
-    {
-      "title": "Octopus Energy vyčleňuje AI platformu Kraken jako samostatnou firmu v hodnotě 8,65 miliardy dolarů",
-      "description": "Britská energetická skupina Octopus Energy vyčleňuje svou nejcennější technologickou dceru Kraken Technologies jako nezávislou společnost po získání financování v objemu 1 miliardy dolarů. Kraken vyvíjí specializovaný software pro dodavatele energií a dalších utility služeb, který využívá umělou inteligenci k automatizaci procesů.",
-      "slug": "octopus-energy-spins-out-ai-native-utility-softwar",
-      "publishedAt": "2025-12-30T00:55:53+00:00",
-      "date": "2025-12-30 00:55:53",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Screenshot-from-2025-12-30-07-55-24.png",
-      "url": "/tech-news/2025-12-30/octopus-energy-spins-out-ai-native-utility-softwar/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Octopus Energy Group Ltd",
-        "Kraken Technologies Ltd"
       ],
       "people": []
     },
