@@ -1,7 +1,189 @@
 {
-  "generated": "2026-01-07T05:00:07.697519+00:00",
+  "generated": "2026-01-07T08:44:15.451881+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Další generace čipů v plné produkci – generální ředitel Nvidia",
+      "description": "Generální ředitel Nvidia Jensen Huang oznámil, že nová generace čipů společnosti je v plné produkci a poskytuje pětkrát vyšší výpočetní výkon pro umělou inteligenci oproti předchozím čipům při obsluze chatbotů a dalších AI aplikací.",
+      "slug": "next-generation-of-chips-in-full-production-nvidia",
+      "publishedAt": "2026-01-06T08:14:11+00:00",
+      "date": "2026-01-06 08:14:11",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://www.rte.ie/images/0023b373-1600.jpg",
+      "url": "/tech-news/2026-01-06/next-generation-of-chips-in-full-production-nvidia/",
+      "source": {
+        "emoji": "📰",
+        "id": "rte",
+        "name": "RTE"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": [
+        "Jensen Huang"
+      ]
+    },
+    {
+      "title": "CES 2026: Vše, co potřebujete vědět o hlavních oznámeních Nvidia",
+      "description": "Nvidia představila na CES 2026 Alpamayo, open-source AI model, který přidává uvažovací schopnosti do autonomních vozidel a robotiky. Technologie poprvé debutuje u Mercedes-Benz od začátku 2026. Nvidia také uvedla nový čip Vera Rubin a otevřela zdrojové kódy modelů, simulačních nástrojů a velkých datových sad pro autonomní řízení.",
+      "slug": "ces-2026-all-you-need-to-know-about-nvidias-major-",
+      "publishedAt": "2026-01-06T08:12:58+00:00",
+      "date": "2026-01-06 08:12:58",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-66392,resizemode-75,msid-126369415/tech/technology/ces-2026-all-you-need-to-know-about-nvidias-major-announcements.jpg",
+      "url": "/tech-news/2026-01-06/ces-2026-all-you-need-to-know-about-nvidias-major/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Nvidia",
+        "Mercedes-Benz"
+      ],
+      "people": []
+    },
+    {
+      "title": "AI pero Gumdrop od OpenAI přináší hlasovou pomoc, zachytávání rukopisu a další funkce",
+      "description": "Co kdyby budoucnost umělé inteligence nebyla obrazovka v kapse, ale jednoduché pero v ruce? AI GRID zkoumá, jak ambiciózní projekt AI pera od OpenAI s kódovým názvem „Gumdrop“ může změnit náš vztah k technologiím. Toto pero poháněné AI slouží k mostu mezi chytrými telefony a notebooky.",
+      "slug": "openais-gumdrop-ai-pen-brings-voice-help-handwriti",
+      "publishedAt": "2026-01-06T07:39:44+00:00",
+      "date": "2026-01-06 07:39:44",
+      "importance": 4,
+      "category": "ai hardware",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/01/smart-glasses-vs-openai-pen_optimized.jpg",
+      "url": "/tech-news/2026-01-06/openais-gumdrop-ai-pen-brings-voice-help-handwriti/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Výsledky a vyhlídky umělé inteligence v podnikových aplikacích v roce 2026",
+      "description": "Agentická umělá inteligence dominovala diskusím v podnikovém IT v roce 2025, navazujíc na generativní AI. V roce 2026 určí konvergence forem AI a správa její dopad na podnikové IT.",
+      "slug": "results-and-prospects-for-ai-in-business-applicati",
+      "publishedAt": "2026-01-06T07:25:00+00:00",
+      "date": "2026-01-06 07:25:00",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/Hero Images/technology-digital-future-2-adobe.jpeg",
+      "url": "/tech-news/2026-01-06/results-and-prospects-for-ai-in-business-applicati/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "ComputerWeekly.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Malé 3D tištěné světelné klece by mohly odemknout kvantový internet",
+      "description": "Nová čipová kvantová paměť využívá nanoprintované „světelné klece“ k zachycení světla v atomovém páře, což umožňuje rychlé a spolehlivé ukládání kvantové informace. Struktury lze vyrobit s vysokou přesností a naplnit atomy během dnů místo měsíců, což představuje krok k škálovatelným kvantovým repeaterům.",
+      "slug": "tiny-3d-printed-light-cages-could-unlock-the-quant",
+      "publishedAt": "2026-01-06T07:14:34+00:00",
+      "date": "2026-01-06 07:14:34",
+      "importance": 5,
+      "category": "kvantový internet",
+      "urlToImage": "https://www.sciencedaily.com/images/1920/light-cages-for-enhanced-light-matter-interaction.webp",
+      "url": "/tech-news/2026-01-06/tiny-3d-printed-light-cages-could-unlock-the-quant/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Science Daily"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Spojené arabské emiráty spouští AI ekosystém pro posílení zemědělství odolného vůči klimatu po celém světě",
+      "description": "Ve spolupráci s Nadací Gatesových Abu Dhabi představuje multiinstitucionální AI platformu, která má urychlit zemědělské inovace, posílit potravinovou bezpečnost a podpořit miliony malých farmářů čelících klimatické nestabilitě.",
+      "slug": "uae-launches-ai-ecosystem-to-boost-climate-resilie",
+      "publishedAt": "2026-01-06T06:53:00+00:00",
+      "date": "2026-01-06 06:53:00",
+      "importance": 4,
+      "category": "agrotechnologie",
+      "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/HeroImages/Dubai-skyline-desert-UAE-WaitforLight-adobe.jpg",
+      "url": "/tech-news/2026-01-06/uae-launches-ai-ecosystem-to-boost-climate-resilie/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "ComputerWeekly.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Hesai vybrána jako partner pro lidar v platformě Nvidia DRIVE AGX Hyperion 10",
+      "description": "Společnost Hesai Technology oznámila, že ji Nvidia vybrala jako partnera pro lidarové senzory v referenční platformě DRIVE AGX Hyperion 10, která je navržena pro autonomní řízení úrovně 4. Tato platforma poskytuje automobilkám a vývojářům kompletní architekturu pro počítačové a senzorové systémy.",
+      "slug": "hesai-selected-as-lidar-partner-for-nvidia-drive-a",
+      "publishedAt": "2026-01-06T06:37:39+00:00",
+      "date": "2026-01-06 06:37:39",
+      "importance": 4,
+      "category": "autonomní řízení",
+      "urlToImage": "https://img.digitimes.com/newsshow/20260106vl210_files/2_b.jpg",
+      "url": "/tech-news/2026-01-06/hesai-selected-as-lidar-partner-for-nvidia-drive-a/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [
+        "Hesai Technology",
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "NVIDIA představila architekturu Vera Rubin na CES 2026: rack VR NVL72",
+      "description": "Na CES 2026 NVIDIA odhalila platformu Rubin s rack-scale systémem Vera Rubin NVL72, což je třetí generace její rackové architektury kombinující šest spoludizajnovaných čipů do jednoho systému. Platforma bude dostupná od partnerů ve druhé polovině roku 2026, čipy jsou již vyrobeny a testovány s reálnými úlohami.",
+      "slug": "nvidia-launches-vera-rubin-architecture-at-ces-202",
+      "publishedAt": "2026-01-06T06:18:03+00:00",
+      "date": "2026-01-06 06:18:03",
+      "importance": 4,
+      "category": "hardware",
+      "urlToImage": "https://www.storagereview.com/wp-content/uploads/2026/01/StorageReview-NVIDIA-CES-Keynote-2026-14.jpg",
+      "url": "/tech-news/2026-01-06/nvidia-launches-vera-rubin-architecture-at-ces-202/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Storagereview.com"
+      },
+      "companies": [
+        "NVIDIA"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nejzajímavější technologie prvního dne na CES",
+      "description": "První den veletrhu CES 2026 v Las Vegas představily firmy Nvidia, AMD a Intel důležité čipy a AI platformy, avšak největší zájem vzbudily Star Wars expozice a robotické demonstrace od šéfa Nvidia Jensena Huanga. Klíčovým tématem byl koncept „physical AI“ s novými modely pro simulace a autonomní řízení.",
+      "slug": "the-most-interesting-tech-we-saw-on-day-one-of-ces",
+      "publishedAt": "2026-01-06T06:16:50+00:00",
+      "date": "2026-01-06 06:16:50",
+      "importance": 4,
+      "category": "spotřební elektronik",
+      "urlToImage": null,
+      "url": "/tech-news/2026-01-06/the-most-interesting-tech-we-saw-on-day-one-of-ces/",
+      "source": {
+        "emoji": "📰",
+        "id": "financial-post",
+        "name": "Financial Post"
+      },
+      "companies": [
+        "Nvidia",
+        "AMD",
+        "Intel"
+      ],
+      "people": [
+        "Jensen Huang"
+      ]
+    },
     {
       "title": "AMD a její partneři sdílejí vizi „AI všude pro každého“ na CES 2026",
       "description": "AMD na CES 2026 představilo rackovou platformu Helios jako návrh pro yotta-scale AI infrastrukturu založenou na Instinct MI455X GPU a EPYC „Venice“ CPU. Společnost rozšířila portfolio o nové GPU MI440X, preview MI500 série a Ryzen AI pro počítače a vestavěné systémy, přičemž oznámila investici 150 milionů dolarů do AI ve školách.",
@@ -127,27 +309,6 @@
       "people": [
         "Jensen Huang"
       ]
-    },
-    {
-      "title": "Hyundai a Boston Dynamics představili humanoidního robota Atlas na CES",
-      "description": "Společnost uvedla, že produktová verze robota, který pomůže s montáží automobilů, je již v produkci a bude nasazena do roku 2028 v továrně Hyundai na výrobu elektromobilů poblíž Savannah v Georgii.",
-      "slug": "hyundai-and-boston-dynamics-unveil-humanoid-robot-",
-      "publishedAt": "2026-01-06T03:08:37+00:00",
-      "date": "2026-01-06 03:08:37",
-      "importance": 5,
-      "category": "robotika",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-49126,resizemode-75,msid-126364665/tech/technology/hyundai-and-boston-dynamics-unveil-humanoid-robot-atlas-at-ces.jpg",
-      "url": "/tech-news/2026-01-06/hyundai-and-boston-dynamics-unveil-humanoid-robot/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Hyundai",
-        "Boston Dynamics"
-      ],
-      "people": []
     },
     {
       "title": "Nvidia na CES: Alpamayo, Rubin a vzestup uvažující umělé inteligence",
@@ -3422,24 +3583,6 @@
       "people": []
     },
     {
-      "title": "Čína cílí na soběstačnost v polovodičích pravidlem '50 %' pro místní výrobce čipů",
-      "description": "Čínské pokroky v rozvoji polovodičů pohání dosud nedokumentované pravidlo, které vyžaduje od místních výrobců čipů používat nejméně 50 % domácího vybavení. Podle zdrojů Reuters pravidlo platí pro nové továrny nebo jejich rozšíření a je součástí širší strategie soběstačnosti.",
-      "slug": "china-targets-semiconductor-self-sufficiency-with-",
-      "publishedAt": "2025-12-30T23:54:26+00:00",
-      "date": "2025-12-30 23:54:26",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Screenshot-from-2025-12-31-06-53-49.png",
-      "url": "/tech-news/2025-12-30/china-targets-semiconductor-self-sufficiency-with/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Nová varianta malware Shai Hulud 3.0 vyvolává nové obavy o bezpečnost dodavatelského řetězce",
       "description": "Nově objevená třetí varianta malware Shai Hulud zvyšuje obavy o bezpečnost dodavatelského řetězce open-source software, protože vykazuje vyšší sofistikovanost a lepší skrytost než předchozí verze. Výzkumníci varují před riziky pro JavaScript developery a jejich prostředí.",
       "slug": "new-shai-hulud-30-malware-variant-raises-fresh-sup",
@@ -3479,50 +3622,6 @@
       "people": []
     },
     {
-      "title": "Konec Hulu: Disney potvrzuje ukončení samostatné streamovací aplikace v roce 2026, odběratelé protestují",
-      "description": "Disney oznámil, že samostatná aplikace Hulu zanikne v roce 2026 a veškerý obsah se přesune do Disney+. Tento krok reaguje na zpomalený růst odběratelů a vysoké náklady na duplicitní infrastrukturu, přesto odběratelé vyjadřují nespokojenost se ztrátou oddělené platformy pro dospělý obsah.",
-      "slug": "hulus-final-days-disney-confirms-streaming-shutdow",
-      "publishedAt": "2025-12-30T19:30:29+00:00",
-      "date": "2025-12-30 19:30:29",
-      "importance": 5,
-      "category": "streamovací služby",
-      "urlToImage": "https://insidethemagic.net/wp-content/uploads/2024/08/disney-plus-landing-page.jpg",
-      "url": "/tech-news/2025-12-30/hulus-final-days-disney-confirms-streaming-shutdow/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Inside the Magic"
-      },
-      "companies": [
-        "Netflix",
-        "Hulu"
-      ],
-      "people": []
-    },
-    {
-      "title": "Co všechno může Meta udělat se svým novým AI agentem za 2 miliardy dolarů",
-      "description": "Meta má problémy konkurovat špičkovým AI laboratořím jako OpenAI a Anthropic. Její akvizice singapurského startupu Manus, který vyvinul první obecně použitelný AI agent, by situaci mohla změnit.",
-      "slug": "everything-meta-could-do-with-its-new-2-billion-ai",
-      "publishedAt": "2025-12-30T18:38:17+00:00",
-      "date": "2025-12-30 18:38:17",
-      "importance": 5,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/d72651dc0a6b938d27ea1f9eb9ae771bbfebf06a/2025/12/30/154b3817-3ddd-488c-bfb2-b892d95135aa/markprofile5gettyimages-2235451108.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "url": "/tech-news/2025-12-30/everything-meta-could-do-with-its-new-2-billion-ai/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "ZDNet"
-      },
-      "companies": [
-        "Meta",
-        "OpenAI",
-        "Anthropic",
-        "Manus"
-      ],
-      "people": []
-    },
-    {
       "title": "MiniMax směřuje k IPO v Hong Kongu, čínské AI firmy spěchají k veřejnému obchodování",
       "description": "Čínská startupová společnost v oblasti umělé inteligence MiniMax se připravuje na první veřejnou nabídku akcií v Hong Kongu, kde chce získat více než 600 milionů dolarů. Podporují ji Alibaba Group a Abu Dhabi Investment Authority, přičemž listing je plánován na leden.",
       "slug": "minimax-moves-toward-hong-kong-ipo-as-chinese-ai-f",
@@ -3544,27 +3643,6 @@
       "people": []
     },
     {
-      "title": "Čínské firmy ByteDance a Tencent údajně nabízejí 150% zvýšení mezd a 35% bonusy pro přilákání AI talentů – platy by měly růst i v roce 2026",
-      "description": "Čínské technologické giganty ByteDance a Tencent zvyšují rozpočty na bonusy a platy, aby získaly odborníky na umělou inteligenci. Tento trend probíhá souběžně s propouštěním v širším technologickém sektoru.",
-      "slug": "chinese-firms-bytedance-and-tencent-reportedly-off",
-      "publishedAt": "2025-12-30T15:54:59+00:00",
-      "date": "2025-12-30 15:54:59",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/PMRVxeUPnLgFWWDzaYYztk-1920-80.jpg",
-      "url": "/tech-news/2025-12-30/chinese-firms-bytedance-and-tencent-reportedly-off/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "companies": [
-        "ByteDance",
-        "Tencent"
-      ],
-      "people": []
-    },
-    {
       "title": "OpenAI získala obrovskou investici 40 miliard dolarů",
       "description": "OpenAI a SoftBank uzavřely jednu z největších soukromých technologických investic v historii. Japonský konglomerát dokončil svůj závazek 40 miliard USD (přibližně 55 miliard CAD) do tvůrce ChatGPT.",
       "slug": "openai-secures-massive-40-billion-investment",
@@ -3582,26 +3660,6 @@
       "companies": [
         "OpenAI",
         "SoftBank"
-      ],
-      "people": []
-    },
-    {
-      "title": "HoneyMyte (známý také jako Mustang Panda) nasazuje backdoor ToneShell v nových útocích",
-      "description": "Skupina HoneyMyte, známá také jako Mustang Panda, použila nový backdoor ToneShell k útokům na vládní entity v Asii. Tento nástroj obchází detekci Microsoft Defender a umožňuje trvalý přístup do systémů.",
-      "slug": "honeymyte-aka-mustang-panda-deploys-toneshell-back",
-      "publishedAt": "2025-12-30T15:22:48+00:00",
-      "date": "2025-12-30 15:22:48",
-      "importance": 5,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://hackread.com/wp-content/uploads/2025/12/honeymyte-mustang-panda-toneshell-backdoor-1024x597.jpg",
-      "url": "/tech-news/2025-12-30/honeymyte-aka-mustang-panda-deploys-toneshell-back/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "HackRead"
-      },
-      "companies": [
-        "Microsoft"
       ],
       "people": []
     },
@@ -3706,26 +3764,6 @@
       "people": []
     },
     {
-      "title": "Program Tesla Robotaxi působí stále více jako kouř a zrcadla",
-      "description": "\"Nikdy jsem neviděl Robotaxi v Austinu.\" Článek It’s Starting to Feel a Lot Like Tesla’s Robotaxi Program Is Mostly Smoke and Mirrors se poprvé objevil na Futurism.",
-      "slug": "its-starting-to-feel-a-lot-like-teslas-robotaxi-pr",
-      "publishedAt": "2025-12-30T12:00:00+00:00",
-      "date": "2025-12-30 12:00:00",
-      "importance": 4,
-      "category": "elektromobilita",
-      "urlToImage": "https://futurism.com/wp-content/uploads/2025/12/tesla-robotaxi-smoke-mirrors.jpg?quality=85&w=1200",
-      "url": "/tech-news/2025-12-30/its-starting-to-feel-a-lot-like-teslas-robotaxi-pr/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Futurism"
-      },
-      "companies": [
-        "Tesla"
-      ],
-      "people": []
-    },
-    {
       "title": "Technologický gigant Meta kupuje AI firmu založenou v Číně Manus",
       "description": "Meta oznámila akvizici startupu Manus, jehož autonomní AI agent má zlepšit životy miliard lidí. Jedná se o vzácnou dohodu mezi americkou a čínskou technologií uprostřed rivality USA a Číny.",
       "slug": "tech-giant-meta-buys-chinese-founded-ai-firm-manus",
@@ -3765,24 +3803,6 @@
       "people": []
     },
     {
-      "title": "Japonský Nikkei omezuje růst roku 2025, technologické akcie si berou pauzu",
-      "description": "Japonský akciový index Nikkei mírně klesl v poslední obchodní den roku 2025, táhnutý dolů technologickým sektorem, který byl klíčovým motorem letošního výrazného růstu. Pokles ovlivnily americké trhy a akcie SoftBank po oznámení akvizice.",
-      "slug": "japans-nikkei-trims-2025-surge-as-tech-stocks-take",
-      "publishedAt": "2025-12-30T07:49:33+00:00",
-      "date": "2025-12-30 07:49:33",
-      "importance": 4,
-      "category": "technologické akcie",
-      "urlToImage": "https://img.etimg.com/thumb/msid-126247515,width-1200,height-630,imgsize-281532,overlay-etmarkets/articleshow.jpg",
-      "url": "/tech-news/2025-12-30/japans-nikkei-trims-2025-surge-as-tech-stocks-take/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Meta kupuje čínský startup Manus v transakci v hodnotě 2–3 miliard dolarů pro posílení pokročilé AI",
       "description": "Meta oznámila akvizici čínského startupu Manus se sídlem v Singapuru, aby integrovala jeho autonomního AI agenta do svých platforem. Hodnota dohody dosahuje 2–3 miliard dolarů.",
       "slug": "meta-to-buy-chinese-startup-manus-in-deal-worth-2-",
@@ -3802,26 +3822,6 @@
         "Manus"
       ],
       "people": []
-    },
-    {
-      "title": "Elon Musk vidí humanoidní roboty všude. Čína může být první, kdo to uskuteční",
-      "description": "Čína si stanovila vývoj humanoidních robotů za strategickou prioritu v technologické soutěži s USA. Analytici očekávají, že domácí firmy Číny předčí Teslu v masové produkci.",
-      "slug": "elon-musk-envisions-humanoid-robots-everywhere-chi",
-      "publishedAt": "2025-12-30T06:10:04+00:00",
-      "date": "2025-12-30 06:10:04",
-      "importance": 5,
-      "category": "robotika",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108241113-1765539884437-gettyimages-2250716809-vcg111608459171.jpeg?v=1765539957&w=1920&h=1080",
-      "url": "/tech-news/2025-12-30/elon-musk-envisions-humanoid-robots-everywhere-chi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNBC"
-      },
-      "companies": [],
-      "people": [
-        "Elon Musk"
-      ]
     },
     {
       "title": "OpenAI nabízí 555 000 dolarů za „stressující“ práci na ochranu před nekontrolovanou AI a škodami na duševním zdraví",

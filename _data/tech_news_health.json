@@ -1,6 +1,6 @@
 {
   "status": "WARNING",
-  "timestamp": "2026-01-07T05:00:07.805753+00:00",
+  "timestamp": "2026-01-07T08:44:15.548956+00:00",
   "checks": {
     "freshness": {
       "status": "WARNING",
@@ -16,8 +16,8 @@
     },
     "content_quality": {
       "status": "OK",
-      "avg_length": 3661.0,
-      "median_length": 3654.0
+      "avg_length": 3659.0,
+      "median_length": 3646.0
     },
     "generation_trend": {
       "status": "OK",
@@ -33,16 +33,16 @@
     }
   },
   "metrics": {
-    "total_articles": 475,
+    "total_articles": 483,
     "articles_24h": 0,
     "articles_1h": 0,
     "newest_article_age_hours": 24.5,
     "czech_articles": 100,
     "english_articles": 0,
     "czech_ratio": 1.0,
-    "avg_content_length": 3661.0,
-    "median_content_length": 3654.0,
-    "articles_with_images_pct": 95.0,
+    "avg_content_length": 3659.0,
+    "median_content_length": 3646.0,
+    "articles_with_images_pct": 94.0,
     "articles_with_category_pct": 100.0,
     "front_matter_error_rate": 0.0
   },
