@@ -1,7 +1,211 @@
 {
-  "generated": "2026-01-08T01:18:54.230857+00:00",
+  "generated": "2026-01-08T04:54:56.505180+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Lenovo posiluje ambice v AI partnerstvím s Nvidia a představuje osobní AI platformu Qira",
+      "description": "Lenovo oznámilo strategické partnerství s Nvidia pro urychlení nasazení AI datových center a představilo Qira, osobní AI platformu pro zařízení Lenovo a Motorola. Oznámení proběhlo na CES v Las Vegas v rámci širší prezentace AI technologií a konceptů.",
+      "slug": "lenovo-expands-ai-push-with-nvidia-tie-up-unveils-",
+      "publishedAt": "2026-01-07T03:47:19+00:00",
+      "date": "2026-01-07 03:47:19",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://images.indianexpress.com/2026/01/Nvidia.jpg",
+      "url": "/tech-news/2026-01-07/lenovo-expands-ai-push-with-nvidia-tie-up-unveils/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "companies": [
+        "Lenovo",
+        "Nvidia",
+        "Motorola"
+      ],
+      "people": []
+    },
+    {
+      "title": "Lenovo rozšiřuje nabídku AI spoluprací s Nvidia na gigafactory a platformou Qira",
+      "description": "Lenovo oznámila partnerství s Nvidia na výstavbě AI gigafactory, která umožní poskytovatelům AI cloudu rychleji nasadit podnikové AI úlohy v datových centrech. Na CES 2026 představila také platformu Qira pro osobní AI napříč svými zařízeními a koncepty jako AI brýle.",
+      "slug": "lenovo-expands-ai-lineup-with-nvidia-gigafactory-t",
+      "publishedAt": "2026-01-07T03:19:49+00:00",
+      "date": "2026-01-07 03:19:49",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-77394,resizemode-75,msid-126385940/tech/artificial-intelligence/lenovo-expands-ai-lineup-with-nvidia-gigafactory-tie-up-qira-platform.jpg",
+      "url": "/tech-news/2026-01-07/lenovo-expands-ai-lineup-with-nvidia-gigafactory-t/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Lenovo",
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Alpamayo od Nvidia umožňuje autonomním vozidlům uvažování podobné lidskému",
+      "description": "Na veletrhu CES 2026 Nvidia představila Alpamayo, nový open AI model určený k posílení kognitivních schopností autonomních vozidel. Model integruje rámec reasoning vision language action, díky čemuž vozidla zpracovávají informace a rozhodují se podobně jako člověk.",
+      "slug": "nvidias-alpamayo-enables-human-like-reasoning-for-",
+      "publishedAt": "2026-01-07T03:17:00+00:00",
+      "date": "2026-01-07 03:17:00",
+      "importance": 4,
+      "category": "autonomní vozidla",
+      "urlToImage": "https://i0.wp.com/nextbigwhat.com/wp-content/uploads/2023/03/nextbigwhat-social-media-logo.jpg?fit=1080%2C1080&ssl=1",
+      "url": "/tech-news/2026-01-07/nvidias-alpamayo-enables-human-like-reasoning-for/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Nextbigwhat.com"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Čína prověřuje akvizici AI startupu Manus společností Meta: FT",
+      "description": "Čínské úřady prověřují akvizici společnosti Meta startupu Manus za 2–3 miliardy dolarů kvůli možným porušením pravidel pro export technologií, informoval Financial Times. Kontrolují, zda přesun zaměstnanců a technologií do Singapuru a následný prodej vyžadoval exportní licenci.",
+      "slug": "china-reviews-metas-purchase-of-ai-startup-manus-f",
+      "publishedAt": "2026-01-07T02:58:56+00:00",
+      "date": "2026-01-07 02:58:56",
+      "importance": 5,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-173444,resizemode-75,msid-126385692/tech/artificial-intelligence/china-reviews-metas-purchase-of-ai-startup-manus-ft.jpg",
+      "url": "/tech-news/2026-01-07/china-reviews-metas-purchase-of-ai-startup-manus-f/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Meta",
+        "Manus"
+      ],
+      "people": []
+    },
+    {
+      "title": "xAI Elona Muska dokončila kolo financování za 20 miliard dolarů s podporou Nvidia – Vše, co o dohodě potřebujete vědět",
+      "description": "xAI plánovala financování rozdělit na přibližně 7,5 miliardy dolarů vlastního kapitálu a až 12,5 miliardy dolarů dluhu v speciálním účelovém vozidle, podle zprávy agentury Bloomberg.",
+      "slug": "elon-musks-xai-completes-20-billion-funding-round-",
+      "publishedAt": "2026-01-07T02:58:15+00:00",
+      "date": "2026-01-07 02:58:15",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2026/01/07/1600x900/logo/XAI-FUNDING-NVIDIA-0_1767754532670_1767754540095.JPG",
+      "url": "/tech-news/2026-01-07/elon-musks-xai-completes-20-billion-funding-round/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Livemint"
+      },
+      "companies": [
+        "xAI",
+        "Nvidia"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Platforma X Elona Muska zpřístupňuje AI nástroje pro odstranění oblečení",
+      "description": "Grok, nová iniciativa platformy X Elona Muska, přináší do široké veřejnosti AI nástroje schopné odstranit oblečení z obrázků. Tyto dříve placené aplikace z okrajových částí internetu jsou nyní volně dostupné, což vyvolává vážné etické otázky ohledně soukromí a souhlasu.",
+      "slug": "elon-musks-x-makes-ai-clothing-removal-tools-more-",
+      "publishedAt": "2026-01-07T02:54:27+00:00",
+      "date": "2026-01-07 02:54:27",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://i0.wp.com/nextbigwhat.com/wp-content/uploads/2023/03/nextbigwhat-social-media-logo.jpg?fit=1080%2C1080&ssl=1",
+      "url": "/tech-news/2026-01-07/elon-musks-x-makes-ai-clothing-removal-tools-more/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Nextbigwhat.com"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Zprávy o akvizici Manus společností Meta mají v Washingtonu a Pekingu rozdílný ohlas | TechCrunch",
+      "description": "Čínští úředníci prý zkoumají, zda akvizice Meta porušuje exportní kontroly technologií, což by Pekingu poskytlo vliv, který původně neměl.",
+      "slug": "metas-manus-news-is-getting-different-receptions-i",
+      "publishedAt": "2026-01-07T02:53:56+00:00",
+      "date": "2026-01-07 02:53:56",
+      "importance": 5,
+      "category": "exportní kontroly",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-1968119319.jpg?resize=1200,800",
+      "url": "/tech-news/2026-01-07/metas-manus-news-is-getting-different-receptions-i/",
+      "source": {
+        "emoji": "🚀",
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "companies": [
+        "Meta"
+      ],
+      "people": []
+    },
+    {
+      "title": "Čína prověřuje akvizici Meta singapurské AI společnosti Manus: Zpráva",
+      "description": "Čínští úředníci kontrolují koupi Meta AI startupu Manus za 2 miliardy USD kvůli možným porušením předpisů o kontrole technologií, uvedl Financial Times. Kontrola se zaměřuje na přesun zaměstnanců a technologie do Singapuru před prodejem.",
+      "slug": "china-reviews-metas-purchase-of-singapore-based-ai",
+      "publishedAt": "2026-01-07T02:25:18+00:00",
+      "date": "2026-01-07 02:25:18",
+      "importance": 5,
+      "category": "ai",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--MBCKWOEb--/c_crop,h_562,w_1000,x_0,y_19/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/Meta-Lawsuit-Children_36744.jpg?itok=CM6zMr1b",
+      "url": "/tech-news/2026-01-07/china-reviews-metas-purchase-of-singapore-based-ai/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNA"
+      },
+      "companies": [
+        "Meta",
+        "Manus"
+      ],
+      "people": []
+    },
+    {
+      "title": "Tyto miniaturní roboty jsou menší než zrnko soli a dokážou myslet, pohybovat se i plavat",
+      "description": "Navzdory své velikosti se roboty dokážou pohybovat kapalinami, reagovat na prostředí a fungovat bez vnějšího ovládání.",
+      "slug": "these-tiny-robots-are-smaller-than-grains-of-salt-",
+      "publishedAt": "2026-01-07T02:01:49+00:00",
+      "date": "2026-01-07 02:01:49",
+      "importance": 5,
+      "category": "robotika",
+      "urlToImage": "https://www.cnet.com/a/img/resize/af99f126bfb706ff84267481edd63070c5a7a5fd/hub/2026/01/07/0131c478-b7b7-4441-898d-4c7932d3377b/worlds-smallest-autonomous-robot-jpg.png?auto=webp&fit=crop&height=675&width=1200",
+      "url": "/tech-news/2026-01-07/these-tiny-robots-are-smaller-than-grains-of-salt/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNET"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Uživatelé platformy X přikazují chatbotu Grok svléknout ženy a dívky na fotografiích. Ten to dělá",
+      "description": "Chatbot Grok platformy X generuje přibližně jeden nekonzuentální sexuální obrázek každou minutu. Uživatelé ho zneužívají k tvorbě deepfake obrázků žen a dětí.",
+      "slug": "x-users-tell-grok-chatbot-to-undress-women-and-gir",
+      "publishedAt": "2026-01-07T02:00:00+00:00",
+      "date": "2026-01-07 02:00:00",
+      "importance": 4,
+      "category": "deepfakes",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/5IF2JKFZD5GADJ2UH3OZUZXYHM.jpg?auth=c9a04c9da29490872cb7341fe1de2176e315d71cc89fc4ac80c6fc7d9e1e69c9&width=1200&height=675&quality=70&focal=1485%2C332&smart=false",
+      "url": "/tech-news/2026-01-07/x-users-tell-grok-chatbot-to-undress-women-and-gir/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "New Zealand Herald"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "CES Den 1: Hudba, kterou můžete ochutnat, a roboti na domácí práce",
       "description": "První den veletrhu CES 2026 přinesl oznámení od Nvidia, AMD a Intel v oblasti čipů a AI platforem. Nvidia se zaměřila na koncept physical AI, ukázala nové modely pro simulace a autonomní řízení a představila malé roboty, kteří přitáhli největší pozornost.",
@@ -3291,27 +3495,6 @@
       "people": []
     },
     {
-      "title": "Čína objednala miliony AI čipů od Nvidia",
-      "description": "Nvidia objednává dodatečné H200 AI čipy od TSMC kvůli obrovským objednávkám čínských technologických firem, přičemž poptávka překonává současné zásoby. Tato situace podtrhuje rostoucí globální hlad po výpočetním výkonu pro umělou inteligenci.",
-      "slug": "china-orders-millions-of-nvidia-ai-chips",
-      "publishedAt": "2025-12-31T18:48:09+00:00",
-      "date": "2025-12-31 18:48:09",
-      "importance": 4,
-      "category": "ai čipy",
-      "urlToImage": "https://cdn.iphoneincanada.ca/wp-content/uploads/2025/12/Nvidia.jpg",
-      "url": "/tech-news/2025-12-31/china-orders-millions-of-nvidia-ai-chips/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "iPhone in Canada"
-      },
-      "companies": [
-        "Nvidia",
-        "TSMC"
-      ],
-      "people": []
-    },
-    {
       "title": "Vše, co Apple plánuje vydat v roce 2026: Skládací iPhone, Siri s LLM, levný MacBook a další",
       "description": "Podle spekulací z MacRumors bude rok 2026 pro Apple bohatý na novinky včetně prvního skládacího iPhonu, verze Siri poháněné LLM a levného MacBooku. Očekávají se také nový domácí hub, aktualizované displeje a případně OLED MacBook Pro či AI chytré brýle.",
       "slug": "everything-apple-is-releasing-in-2026-iphone-fold-",
@@ -3328,44 +3511,6 @@
       },
       "companies": [
         "Apple"
-      ],
-      "people": []
-    },
-    {
-      "title": "Může jeden stát nás zachránit před katastrofou AI? Pozitivní pohled na novou kalifornskou legislativní regulaci",
-      "description": "Bez federálních pravidel státní zákonodárci v Kalifornii přebírají iniciativu a regulují bezpečnost AI sami.",
-      "slug": "can-one-state-save-us-from-ai-disaster-inside-cali",
-      "publishedAt": "2025-12-31T17:37:16+00:00",
-      "date": "2025-12-31 17:37:16",
-      "importance": 4,
-      "category": "regulace ai",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/f5b6b184d94bead8ea72118f655176013a89f896/2025/12/31/35fe502b-9f26-4b7a-9e25-8e2865d08638/gettyimages-186704207.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "url": "/tech-news/2025-12-31/can-one-state-save-us-from-ai-disaster-inside-cali/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "ZDNet"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Čínská firma na AI čipy Biren Technology získala 717 milionů dolarů v hongkongském IPO",
-      "description": "Biren Technology získala HK$5,58 miliardy (716,85 milionů USD) v úvodní veřejné nabídce akcií v Hong Kongu. Cena akcie byla stanovena na HK$19,60 za kus, tedy na horní hranici marketingového rozsahu, a poptávka výrazně překročila nabídku.",
-      "slug": "china-ai-chip-firm-biren-raises-717-million-in-hon",
-      "publishedAt": "2025-12-31T16:19:43+00:00",
-      "date": "2025-12-31 16:19:43",
-      "importance": 4,
-      "category": "ai čipy",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-850852,resizemode-75,msid-126275324/tech/funding/china-ai-chip-firm-biren-raises-717-million-in-hong-kong-ipo.jpg",
-      "url": "/tech-news/2025-12-31/china-ai-chip-firm-biren-raises-717-million-in-hon/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Biren Technology"
       ],
       "people": []
     },
@@ -3572,30 +3717,6 @@
         "Manus"
       ],
       "people": []
-    },
-    {
-      "title": "Akademický výzkum pro AI roboty se zaměří na kauzální uvažování a řetězec myšlenek",
-      "description": "Oblasti AI robotů prochází rychlým vývojem, jak naznačují předpovědi šéfů Nvidia a Tesla. Národní rada pro vědu a technologie (NSTC) zdůrazňuje klíčové technologie, přičemž akademický výzkum se soustředí na kauzální uvažování a řetězec myšlenek pro lepší rozhodování robotů.",
-      "slug": "academic-research-for-ai-robots-to-focus-on-causal",
-      "publishedAt": "2025-12-31T04:41:31+00:00",
-      "date": "2025-12-31 04:41:31",
-      "importance": 4,
-      "category": "robotika",
-      "urlToImage": "https://img.digitimes.com/newsshow/20251231pd231_files/2_2b.jpg",
-      "url": "/tech-news/2025-12-31/academic-research-for-ai-robots-to-focus-on-causal/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
-      },
-      "companies": [
-        "Nvidia",
-        "Tesla"
-      ],
-      "people": [
-        "Jensen Huang",
-        "Elon Musk"
-      ]
     },
     {
       "title": "Top 10 příběhů o dohledu, žurnalistice a šifrování za rok 2025",
@@ -3849,24 +3970,6 @@
       "people": []
     },
     {
-      "title": "Analýza: Nový americký ‚Projekt Manhattan‘ staví AI do centra moci",
-      "description": "Americký stát zmobilizoval v roce 1945 plnou sílu pro Projekt Manhattan, aby odemkl atomovou energii, což odhalilo obrovský dopad vědeckých průlomů v národní strategii. Nyní USA podobně integrují umělou inteligenci do jádra své moci, s potenciálem překročit dřívější očekávání.",
-      "slug": "analysis-americas-new-manhattan-project-puts-ai-at",
-      "publishedAt": "2025-12-31T00:21:58+00:00",
-      "date": "2025-12-31 00:21:58",
-      "importance": 5,
-      "category": "ai",
-      "urlToImage": "https://img.digitimes.com/newsshow/20251229pd216_files/1_b.jpg",
-      "url": "/tech-news/2025-12-31/analysis-americas-new-manhattan-project-puts-ai-at/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Datová centra se obracejí k turbínám tryskových motorů pro napájení AI úloh",
       "description": "Provozovatelé datových center podporujících úlohy umělé inteligence (AI) řeší víceletá zpoždění v připojení k elektrické síti nákupem turbín od výrobce supersonických tryskových motorů Boom Supersonic. Coloradská firma, která se specializuje na supersonická dopravní letadla, tak vstupuje do oblasti energetiky pro datová centra.",
       "slug": "data-centers-turn-to-jet-engine-turbines-to-power-",
@@ -3939,102 +4042,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Mssqltips.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Tajemství čipů TSMC ohrožena: Vyšetřování našlo citlivé dokumenty v domě bývalého manažera, který přešel k Intelu",
-      "description": "Taiwanští úředníci objevili v domě Dr. Wei-Jen Lo, bývalého klíčového specialisty TSMC nyní v Intelu, důvěrné dokumenty o pokročilých polovodičových technologiích. TSMC podalo žalobu kvůli obavám z úniku obchodních tajemství v oblasti EUV a 2nm procesů.",
-      "slug": "tsmc-chip-secrets-may-be-in-jeopardy-after-an-inve",
-      "publishedAt": "2025-12-30T19:33:53+00:00",
-      "date": "2025-12-30 19:33:53",
-      "importance": 4,
-      "category": "průmyslová špionáž",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/12/image-31-1.png",
-      "url": "/tech-news/2025-12-30/tsmc-chip-secrets-may-be-in-jeopardy-after-an-inve/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Wccftech"
-      },
-      "companies": [
-        "TSMC",
-        "Intel"
-      ],
-      "people": []
-    },
-    {
-      "title": "Tyto byly naše nejoblíbenější technologické příběhy z webu v roce 2025",
-      "description": "Každý týden prohledáváme web pro důležité, poučné a fascinující příběhy z vědy a technologií. Zde je shrnutí těch, které nás letos nejvíc zaujaly.",
-      "slug": "these-were-our-favorite-tech-stories-from-around-t",
-      "publishedAt": "2025-12-30T15:00:00+00:00",
-      "date": "2025-12-30 15:00:00",
-      "importance": 5,
-      "category": "souhrn roku",
-      "urlToImage": "https://singularityhub.com/uploads/2025/12/accelerating-horizon-yellow-lines.jpeg?auto=webp",
-      "url": "/tech-news/2025-12-30/these-were-our-favorite-tech-stories-from-around-t/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Singularity Hub"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Nejvýznamnější události v kosmickém vědeckém výzkumu pro rok 2026",
-      "description": "Rok 2026 přinese posádky na oběžnou dráhu Měsíce, testy plně znovupoužitelných raket a vypuštění nových orbitálních dalekohledů pro studium okrajů vesmíru. Tyto události posunou kosmický výzkum a průzkum vpřed.",
-      "slug": "these-are-the-most-exciting-space-science-events-f",
-      "publishedAt": "2025-12-30T11:30:00+00:00",
-      "date": "2025-12-30 11:30:00",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://static.scientificamerican.com/dam/m/4abe59a08203f800/original/artemis_ii_countdown_demonstration_test.jpg?m=1766588047.178&w=1200",
-      "url": "/tech-news/2025-12-30/these-are-the-most-exciting-space-science-events-f/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Scientific American"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Zuckerberg kupuje čínskou AI firmu Manus, která slibuje akce místo slov",
-      "description": "Meta přebírá čínskou AI společnost Manus a integruje její technologii general agents do svých produktů. Tato technologie umožňuje AI provádět praktické úkoly, jako je analýza dokumentů a hodnocení kandidátů na pozice.",
-      "slug": "zuck-buys-chinese-ai-company-manus-that-claims-it-",
-      "publishedAt": "2025-12-30T00:41:00+00:00",
-      "date": "2025-12-30 00:41:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://regmedia.co.uk/2025/12/30/manus_ai_zuckerborg_manus.jpg",
-      "url": "/tech-news/2025-12-30/zuck-buys-chinese-ai-company-manus-that-claims-it/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "companies": [
-        "Meta",
-        "Manus"
-      ],
-      "people": []
-    },
-    {
-      "title": "Noví (mladí) miliardáři z AI boomu",
-      "description": "Většina nových AI miliardářů založila své společnosti před méně než třemi lety. Čtěte více na straitstimes.com.",
-      "slug": "the-new-young-billionaires-of-the-ai-boom",
-      "publishedAt": "2025-12-30T00:05:29+00:00",
-      "date": "2025-12-30 00:05:29",
-      "importance": 4,
-      "category": "ai miliardáři",
-      "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/26bdbce366f56921f8a88b0c227c7478f95e848b4d6e26c24e809a2934112832",
-      "url": "/tech-news/2025-12-30/the-new-young-billionaires-of-the-ai-boom/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Straits Times"
       },
       "companies": [],
       "people": []
