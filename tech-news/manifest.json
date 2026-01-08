@@ -1,7 +1,48 @@
 {
-  "generated": "2026-01-08T04:54:56.505180+00:00",
+  "generated": "2026-01-08T08:43:00.212698+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Google DeepMind a Boston Dynamics oznámily nové partnerství pro integraci AI do humanoidních robotů",
+      "description": "Partnerství mezi Google DeepMind a Boston Dynamics, představené na CES 2026, spojuje inženýrské schopnosti Boston Dynamics s AI algoritmy DeepMind pro humanoidního robota Atlas. Cílem je zlepšit jeho rozhodování a adaptabilitu v náročných prostředích, jako jsou katastrofické oblasti.",
+      "slug": "google-deepmind-boston-dynamics-announce-new-partn",
+      "publishedAt": "2026-01-07T07:45:40+00:00",
+      "date": "2026-01-07 07:45:40",
+      "importance": 5,
+      "category": "robotika",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/01/deepmind-boston-dynamics_optimized.jpg",
+      "url": "/tech-news/2026-01-07/google-deepmind-boston-dynamics-announce-new-partn/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [
+        "Google DeepMind",
+        "Boston Dynamics"
+      ],
+      "people": []
+    },
+    {
+      "title": "CES 2026: Nvidia představuje Alpamayo a zdůrazňuje čínské ambice v autonomním řízení",
+      "description": "Na veletrhu CES 2026 v Las Vegas Nvidia oficiálně uvedla svou novou platformu Alpamayo pro autonomní řízení, která představuje přechod od systémů založených na vnímání k systémům zaměřeným na uvažování. Tento krok podle expertů signalizuje rostoucí ambice Číny v oblasti samojezdných vozidel.",
+      "slug": "ces-2026-nvidias-alpamayo-launch-spotlights-chinas",
+      "publishedAt": "2026-01-07T06:55:43+00:00",
+      "date": "2026-01-07 06:55:43",
+      "importance": 4,
+      "category": "autonomní řízení",
+      "urlToImage": "https://img.digitimes.com/newsshow/20260107pd235_files/1_b.jpg",
+      "url": "/tech-news/2026-01-07/ces-2026-nvidias-alpamayo-launch-spotlights-chinas/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": []
+    },
     {
       "title": "Lenovo posiluje ambice v AI partnerstvím s Nvidia a představuje osobní AI platformu Qira",
       "description": "Lenovo oznámilo strategické partnerství s Nvidia pro urychlení nasazení AI datových center a představilo Qira, osobní AI platformu pro zařízení Lenovo a Motorola. Oznámení proběhlo na CES v Las Vegas v rámci širší prezentace AI technologií a konceptů.",
@@ -3535,26 +3576,6 @@
       "people": []
     },
     {
-      "title": "Čínský výrobce pamětí CXMT připravuje IPO za 4,2 miliardy USD, aby využil napjatý trh s pamětmi – firma načrtá cestu k ziskovosti při růstu poptávky po DRAM",
-      "description": "Čínská společnost ChangXin Memory Technologies (CXMT), největší domácí výrobce pamětí v Číně, se připravuje na IPO v Pekingu s cílem získat 4,2 miliardy USD. Peníze má použít na rozšíření výroby a vývoj nové generace DRAM v době globálního nedostatku pamětí.",
-      "slug": "chinese-memory-maker-cxmt-prepares-42-billion-usd-",
-      "publishedAt": "2025-12-31T14:31:15+00:00",
-      "date": "2025-12-31 14:31:15",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/qWVur4sDMJow8rQDDH6JJi-2240-80.jpg",
-      "url": "/tech-news/2025-12-31/chinese-memory-maker-cxmt-prepares-42-billion-usd/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "companies": [
-        "CXMT"
-      ],
-      "people": []
-    },
-    {
       "title": "Jak byly údajně pašovány Nvidia čipy v hodnotě 160 milionů dolarů podléhající exportním kontrolám do Číny",
       "description": "Pašerácká síť falšovala lodní dokumenty, aby nesprávně klasifikovala GPU a skrývala skutečné destinace včetně Číny a dalších zakázaných zemí. Federální žalobci v Texasu odhalili operaci s vazbami na Čínu, která se zaměřovala na export Nvidia H100 a H200 GPU.",
       "slug": "how-160-million-worth-of-export-controlled-nvidia-",
@@ -3925,26 +3946,6 @@
       "companies": [
         "Insilico Medicine",
         "Qiming Venture Partners"
-      ],
-      "people": []
-    },
-    {
-      "title": "Čínská společnost Z.ai plánuje získat 560 milionů dolarů při IPO v Hong Kongu",
-      "description": "Jeden z největších čínských vývojářů velkých jazykových modelů Z.ai podal žádost o úvodní veřejnou nabídku na hongkongské burze. Akcie by měly být uvedeny 8. ledna pod tickerem „2513“ a společnost se prezentuje jako první veřejně obchodovaná firma zaměřená na základní modely umělé inteligence.",
-      "slug": "chinese-startup-zai-seeks-560-raise-in-hong-kong-i",
-      "publishedAt": "2025-12-31T01:07:27+00:00",
-      "date": "2025-12-31 01:07:27",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Screenshot-from-2025-12-31-08-06-50.png",
-      "url": "/tech-news/2025-12-31/chinese-startup-zai-seeks-560-raise-in-hong-kong-i/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Z.ai"
       ],
       "people": []
     },
