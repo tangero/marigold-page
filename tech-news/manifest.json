@@ -1,7 +1,150 @@
 {
-  "generated": "2026-01-08T16:43:44.139484+00:00",
+  "generated": "2026-01-08T20:40:38.311930+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Lux Capital získal 1,5 miliardy dolarů pro svůj největší fond dosud | TechCrunch",
+      "description": "Tato 25letá firma je raným investorem do společností Anduril, Applied Intuition a Runway AI.",
+      "slug": "lux-capital-lands-15-billion-for-its-largest-fund-",
+      "publishedAt": "2026-01-07T20:11:49+00:00",
+      "date": "2026-01-07 20:11:49",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/01/x9fp5t2qhgtpr2xrihuu.png.png?w=600",
+      "url": "/tech-news/2026-01-07/lux-capital-lands-15-billion-for-its-largest-fund/",
+      "source": {
+        "emoji": "🚀",
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "companies": [
+        "Anduril",
+        "Applied Intuition",
+        "Runway AI"
+      ],
+      "people": []
+    },
+    {
+      "title": "OpenAI vybírá b.well pro bezpečné připojení zdravotních dat v ChatGPT pro personalizované AI zdravotní interakce",
+      "description": "OpenAI spolupracuje s firmou b.well, aby uživatelé ChatGPT mohli bezpečně propojit své lékařské záznamy. Tato integrace umožňuje personalizovanější a kontextově přesnější odpovědi v oblasti zdraví přímo na základě individuálních dat uživatele.",
+      "slug": "openai-selects-bwell-to-power-secure-health-data-c",
+      "publishedAt": "2026-01-07T19:45:00+00:00",
+      "date": "2026-01-07 19:45:00",
+      "importance": 4,
+      "category": "zdravotní ai",
+      "urlToImage": "https://mma.prnewswire.com/media/2574542/bwell_Connected_Health_Logo.jpg?p=facebook",
+      "url": "/tech-news/2026-01-07/openai-selects-bwell-to-power-secure-health-data-c/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "PRNewswire"
+      },
+      "companies": [
+        "OpenAI",
+        "b.well"
+      ],
+      "people": []
+    },
+    {
+      "title": "Orlando Sentinel a další noviny žádají sankce kvůli obviněním z ničení klíčových důkazů OpenAI",
+      "description": "OpenAI údajně pokračovalo v mazání zápisů výstupů ChatGPT navzdory příkazům dvou soudců, aby je uchovalo a předalo novinovým společnostem v rámci sporu o autorská práva. Nové soudní podání tvrdí, že bylo nahrazeno přes milion požadovaných logů.",
+      "slug": "orlando-sentinel-other-papers-seek-sanctions-over-",
+      "publishedAt": "2026-01-07T19:44:14+00:00",
+      "date": "2026-01-07 19:44:14",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.orlandosentinel.com/wp-content/uploads/2025/12/OpenAI-Chief_Revenue_Officer_83141_7dd480-1.jpg?w=1024&h=683",
+      "url": "/tech-news/2026-01-07/orlando-sentinel-other-papers-seek-sanctions-over/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Orlando Sentinel"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "MyFitnessPal spouští integraci v novém ChatGPT Health Experience",
+      "description": "MyFitnessPal přináší do ChatGPT personalizovanou výživu, podporu pro hubnutí a recepty přizpůsobené zdravotním cílům pro 800 milionů týdenních uživatelů platformy. Integrace využívá databázi přes 20 milionů potravin a 20 let expertízy společnosti.",
+      "slug": "myfitnesspal-launches-app-in-new-chatgpt-health-ex",
+      "publishedAt": "2026-01-07T19:15:00+00:00",
+      "date": "2026-01-07 19:15:00",
+      "importance": 4,
+      "category": "zdraví",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/4602bc8c-d426-46dc-b679-345bdf7c5fa7",
+      "url": "/tech-news/2026-01-07/myfitnesspal-launches-app-in-new-chatgpt-health-ex/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [
+        "MyFitnessPal"
+      ],
+      "people": []
+    },
+    {
+      "title": "Novinářská malpraxe: Žádný LLM nikdy nic 'nepřizná' a hlásit opak je lež",
+      "description": "V posledním týdnu média jako Reuters, Newsweek, Daily Beast, CNBC a další zveřejnila titulky, podle kterých se Grok – LLM chatbot od Elona Muska – 'omluvil' za generování obrázků bez souhlasu. Toto reportování antropomorfizuje AI a ignoruje, jak velké jazykové modely skutečně fungují.",
+      "slug": "journalistic-malpractice-no-llm-ever-admits-to-any",
+      "publishedAt": "2026-01-07T19:10:14+00:00",
+      "date": "2026-01-07 19:10:14",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+      "url": "/tech-news/2026-01-07/journalistic-malpractice-no-llm-ever-admits-to-any/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Techdirt"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Flint zahajuje výrobu biologicky rozložitelné „papírové baterie“",
+      "description": "Singapurská technologická společnost Flint oznámila na veletrhu Consumer Electronics Show v Las Vegas zahájení výroby dobíjecí „papírové baterie“, která se na konci své životnosti biologicky rozloží. Technologie přechází z laboratořní fáze do masové výroby v singapurském závodě.",
+      "slug": "flint-announces-production-of-biodegradable-paper-",
+      "publishedAt": "2026-01-07T19:00:19+00:00",
+      "date": "2026-01-07 19:00:19",
+      "importance": 5,
+      "category": "papírová baterie",
+      "urlToImage": "https://static.dezeen.com/uploads/2026/01/flint-paper-batteryhero.jpg",
+      "url": "/tech-news/2026-01-07/flint-announces-production-of-biodegradable-paper/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Dezeen"
+      },
+      "companies": [
+        "Flint"
+      ],
+      "people": []
+    },
+    {
+      "title": "Vážná rizika Trumpova výkonného nařízení omezujícího státní regulaci AI",
+      "description": "Desítky států zavedly regulace umělé inteligence k ochraně obyvatel před potenciálními škodami. Tyto opatření nyní ohrožuje výkonné nařízení Trumpovy administrativy z 11. prosince 2025.",
+      "slug": "the-serious-risks-of-trumps-executive-order-curbin",
+      "publishedAt": "2026-01-07T19:00:00+00:00",
+      "date": "2026-01-07 19:00:00",
+      "importance": 4,
+      "category": "ai regulace",
+      "urlToImage": "https://s3.us-east-1.amazonaws.com/in-these-times/_1200x630_crop_center-center_82_none/GettyImages-2218344194.jpg?mtime=1767738105",
+      "url": "/tech-news/2026-01-07/the-serious-risks-of-trumps-executive-order-curbin/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "In These Times"
+      },
+      "companies": [],
+      "people": [
+        "Trump"
+      ]
+    },
     {
       "title": "Největší aktualizace Siri za léta by mohla přijít v březnu – bude stačit?",
       "description": "Pravděpodobně s iOS 26.4 přijde takzvaná LLM Siri, která má fungovat podobně jako ChatGPT a Gemini. Tentokrát se Apple podaří uspět?",
@@ -3724,26 +3867,6 @@
       "people": []
     },
     {
-      "title": "Rekapitulace: AI Mode a nevyhnutelnost další evoluce vyhledávače Google",
-      "description": "Autor Abner Li argumentuje, že tradiční vyhledávání Google s deseti modrými odkazy končí díky AI Mode. Generativní AI umožňuje přímé odpovědi na přirozené dotazy a posiluje misi společnosti o uspořádání světových informací.",
-      "slug": "recap-ai-mode-and-the-inevitability-of-google-sear",
-      "publishedAt": "2025-12-31T20:05:00+00:00",
-      "date": "2025-12-31 20:05:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/07/ai-mode-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2025-12-31/recap-ai-mode-and-the-inevitability-of-google-sear/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
       "title": "Si Ťin-pching chválí čínské úspěchy v umělé inteligenci a čipech v triumfálním novoročním projevu",
       "description": "„Čína se stala jednou z nejrychleji rostoucích ekonomik světa z hlediska inovativní kapacity,“ prohlásil Si v televizním projevu ve středu.",
       "slug": "xi-touts-chinas-ai-chip-wins-in-triumphant-new-yea",
@@ -3762,48 +3885,6 @@
       "people": []
     },
     {
-      "title": "Nvidia se obrací na tchajwanskou TSMC, aby uspokojila rostoucí čínskou poptávku po výkonných AI čipech",
-      "description": "Nvidia urychluje výrobu pokročilých H200 AI čipů, protože čínské technologické firmy objednaly přes 2 miliony kusů pro rok 2026, což převyšuje současné zásoby jen 700 tisíc kusů. Společnost oslovila tchajwanskou TSMC kvůli zvýšení produkce.",
-      "slug": "nvidia-turns-to-taiwans-tsmc-to-help-meet-surging-",
-      "publishedAt": "2025-12-31T19:08:32+00:00",
-      "date": "2025-12-31 19:08:32",
-      "importance": 4,
-      "category": "ai čipy",
-      "urlToImage": "https://media.breitbart.com/media/2025/12/Jensen-Huang-is-selling-Nvidia-chips-to-China-640x335.jpg",
-      "url": "/tech-news/2025-12-31/nvidia-turns-to-taiwans-tsmc-to-help-meet-surging/",
-      "source": {
-        "emoji": "📰",
-        "id": "breitbart-news",
-        "name": "Breitbart News"
-      },
-      "companies": [
-        "Nvidia",
-        "TSMC"
-      ],
-      "people": []
-    },
-    {
-      "title": "Nvidia žádá TSMC o zvýšení výroby H200 AI čipů kvůli rostoucí poptávce z Číny: Zpráva",
-      "description": "Nvidia čelí masivní poptávce po H200 AI čipech od čínských technologických firem a oslovila výrobce TSMC, aby zvýšila produkci na objednávky přes dva miliony kusů pro rok 2026. Tento krok přichází za podmínky čekání na regulační schválení z Pekingu, přičemž cena čipů pro čínský trh činí kolem 27 000 dolarů za kus.",
-      "slug": "nvidia-sounds-out-tsmc-on-new-h200-chip-order-as-c",
-      "publishedAt": "2025-12-31T11:13:48+00:00",
-      "date": "2025-12-31 11:13:48",
-      "importance": 4,
-      "category": "ai čipy",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-46914,resizemode-75,msid-126270938/tech/technology/nvidia-sounds-out-tsmc-on-new-h200-chip-order-as-china-demand-jumps-report.jpg",
-      "url": "/tech-news/2025-12-31/nvidia-sounds-out-tsmc-on-new-h200-chip-order-as-c/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Nvidia",
-        "TSMC"
-      ],
-      "people": []
-    },
-    {
       "title": "Série předpovědí TRADE 2026: Umělá inteligence – část druhá",
       "description": "Stephan J. Aguirre, senior fixed income trader v Janus Henderson, představuje předpovědi pro rok 2026, kde umělá inteligence a kvantitativní systémy stanou klíčovými pro generování alfa v tradingu. Článek analyzuje dopady technologických změn na finanční trhy, včetně Neuralink a Nvidia.",
       "slug": "the-trade-predictions-series-2026-artificial-intel",
@@ -3819,27 +3900,6 @@
         "name": "Biztoc.com"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "NVIDIA potřebuje ‚zázrak‘ v dodavatelském řetězci od TSMC kvůli čínským objednávkám H200 AI čipů, které přetěžují dodávky a způsobují úzké místo",
-      "description": "NVIDIA čelí obrovské poptávce po Hopper H200 AI čipech z Číny, která je dvakrát vyšší než současné zásoby. Firma naléhá na TSMC na nouzová opatření v dodavatelském řetězci, což ohrožuje globální dodávky AI čipů.",
-      "slug": "nvidia-needs-a-supply-chain-miracle-from-tsmc-as-c",
-      "publishedAt": "2025-12-31T10:42:37+00:00",
-      "date": "2025-12-31 10:42:37",
-      "importance": 4,
-      "category": "ai čipy",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/12/Untitled-design-2.jpg",
-      "url": "/tech-news/2025-12-31/nvidia-needs-a-supply-chain-miracle-from-tsmc-as-c/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Wccftech"
-      },
-      "companies": [
-        "NVIDIA",
-        "TSMC"
-      ],
       "people": []
     },
     {
@@ -3966,48 +4026,6 @@
       "people": []
     },
     {
-      "title": "Zpráva: Nvidia by mohla získat startup AI21 Labs specializující se na LLM za 3 miliardy dolarů",
-      "description": "Společnost Nvidia je podle izraelského deníku Calcalist v pokročilých jednáních o akvizici startupu AI21 Labs, který vyvíjí velké jazykové modely a nástroje pro vývoj agentů umělé inteligence. Hodnota dohody by mohla činit 2 až 3 miliardy dolarů, což je více než dvojnásobek poslední veřejně známé valuace firmy.",
-      "slug": "report-nvidia-could-acquire-llm-startup-ai21-labs-",
-      "publishedAt": "2025-12-31T01:22:11+00:00",
-      "date": "2025-12-31 01:22:11",
-      "importance": 5,
-      "category": "ai",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Nvidia-1-1.png",
-      "url": "/tech-news/2025-12-31/report-nvidia-could-acquire-llm-startup-ai21-labs/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Nvidia",
-        "AI21 Labs"
-      ],
-      "people": []
-    },
-    {
-      "title": "Insilico Medicine z Qiming Venture Partners úspěšně uvedena na burze v Hong Kongu",
-      "description": "Společnost Insilico Medicine, lídr v objevování léků poháněném AI a portfolio firma Qiming Venture Partners, dnes úspěšně vstoupila na burzu v Hong Kongu. Jedná se o největší IPO v oblasti biotechnologií na tomto trhu v roce 2025 s tržní kapitalizací přes 19 miliard HKD.",
-      "slug": "qiming-venture-partners-insilico-medicine-successf",
-      "publishedAt": "2025-12-31T01:14:00+00:00",
-      "date": "2025-12-31 01:14:00",
-      "importance": 4,
-      "category": "biotechnologie",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-31/qiming-venture-partners-insilico-medicine-successf/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "PR Newswire UK"
-      },
-      "companies": [
-        "Insilico Medicine",
-        "Qiming Venture Partners"
-      ],
-      "people": []
-    },
-    {
       "title": "Top 10 příběhů z oblasti byznysových aplikací roku 2025",
       "description": "V roce 2025 se v byznysových aplikacích prosadilo agentic AI, které autonomně funguje s minimálním lidským vstupem a překonalo klasickou AI i generativní AI od roku 2022. Manažeři na nejvyšších postech podporují tento trend, zatímco firmy objevují praktickou hodnotu v oblastech jako řízení dodavatelských řetězců nebo posílení zaměstnanců.",
       "slug": "top-10-business-applications-stories-of-2025",
@@ -4021,24 +4039,6 @@
         "emoji": "📰",
         "id": null,
         "name": "ComputerWeekly.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Příprava SQL serverů a dat na kvantové počítače",
-      "description": "Kvantové počítače ohrozí současné šifrování na bázi RSA a ECC algoritmů, což vyžaduje přechod na kvantově odolné šifrování. Článek vysvětluje rizika pomocí Moscaovy věty a odhaduje časovou osu kolem let 2031–2033.",
-      "slug": "preparing-sql-servers-and-data-for-quantum-computi",
-      "publishedAt": "2025-12-31T00:00:00+00:00",
-      "date": "2025-12-31 00:00:00",
-      "importance": 5,
-      "category": "kvantové počítačství",
-      "urlToImage": "https://www.mssqltips.com/wp-content/uploads/11555_Preparing-SQL-Server-and-Data-For-Quantum-Computing.webp",
-      "url": "/tech-news/2025-12-31/preparing-sql-servers-and-data-for-quantum-computi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Mssqltips.com"
       },
       "companies": [],
       "people": []
