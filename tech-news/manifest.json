@@ -1,7 +1,89 @@
 {
-  "generated": "2026-01-07T20:38:41.035685+00:00",
+  "generated": "2026-01-08T01:18:54.230857+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "CES Den 1: Hudba, kterou můžete ochutnat, a roboti na domácí práce",
+      "description": "První den veletrhu CES 2026 přinesl oznámení od Nvidia, AMD a Intel v oblasti čipů a AI platforem. Nvidia se zaměřila na koncept physical AI, ukázala nové modely pro simulace a autonomní řízení a představila malé roboty, kteří přitáhli největší pozornost.",
+      "slug": "ces-day-1-music-you-can-taste-and-chore-robots",
+      "publishedAt": "2026-01-07T00:28:39+00:00",
+      "date": "2026-01-07 00:28:39",
+      "importance": 4,
+      "category": "robotika",
+      "urlToImage": "https://static.the-independent.com/2026/01/06/16/37/AP26005621888149.jpg?width=1200&height=800&crop=1200:800",
+      "url": "/tech-news/2026-01-07/ces-day-1-music-you-can-taste-and-chore-robots/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The-independent.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "AI chatbot Muska Grok čelí globální kritice kvůli sexualizovaným obrázkům žen a dětí",
+      "description": "AI chatbot Elona Muska Grok je pod silným tlakem kvůli generování sexualizovaných obrázků žen a dětí bez souhlasu. Vlády v Evropě, Indii, Malajsii a Brazílii volají po vyšetřování a okamžitých opatřeních.",
+      "slug": "musks-ai-chatbot-faces-global-backlash-over-sexual",
+      "publishedAt": "2026-01-07T00:21:52+00:00",
+      "date": "2026-01-07 00:21:52",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://i.abcnewsfe.com/a/0f56ff14-072c-4d3e-bd1c-d39f17c32682/wirestory_2021bbdb508d080d46e3ae7b8f297d36_16x9.jpg?w=1600",
+      "url": "/tech-news/2026-01-07/musks-ai-chatbot-faces-global-backlash-over-sexual/",
+      "source": {
+        "emoji": "📰",
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Nvidia představuje nové AI čipy a projekt autonomních vozidel s Mercedes-Benz",
+      "description": "Šéf Nvidia Jensen Huang na konferenci CES oznámil dodávky nového AI čipu Vera Rubin, který zvládá více výpočtů při nižší spotřebě energie než předchozí generace. Společnost navíc rozvíjí software pro autonomní řízení, který Mercedes-Benz začne instalovat do aut letos, srovnatelný s Tesla Autopilot.",
+      "slug": "nvidia-details-new-ai-chips-and-autonomous-car-pro",
+      "publishedAt": "2026-01-07T00:02:00+00:00",
+      "date": "2026-01-07 00:02:00",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://a.fsdn.com/sd/topics/transportation_64.png",
+      "url": "/tech-news/2026-01-07/nvidia-details-new-ai-chips-and-autonomous-car-pro/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "companies": [
+        "Nvidia",
+        "Mercedes"
+      ],
+      "people": [
+        "Jensen Huang"
+      ]
+    },
+    {
+      "title": "Marvell kupuje specialistu na síťové switche XConn za 540 milionů dolarů k posílení AI nabídky",
+      "description": "Společnost Marvell Technology oznámila akvizici startupu XConn Technologies za 540 milionů dolarů v kombinaci akcií a hotovosti. Tento krok má posílit portfolio síťových technologií pro AI datová centra a propojení velkých clusterů AI čipů.",
+      "slug": "marvell-buys-network-switching-specialist-xconn-fo",
+      "publishedAt": "2026-01-06T23:57:40+00:00",
+      "date": "2026-01-06 23:57:40",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/Screenshot-from-2025-08-29-08-12-33.png",
+      "url": "/tech-news/2026-01-06/marvell-buys-network-switching-specialist-xconn-fo/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Marvell Technology Inc",
+        "XConn Technologies Holdings Inc"
+      ],
+      "people": []
+    },
     {
       "title": "Tesla čelí žalobě kvůli smrtelné nehodě Modelu X, valí se vlna soudních sporů",
       "description": "Nová žaloba proti Tesle po tragické nehodě v Idahu, při níž zemřela čtyřčlenná rodina, obviňuje systémy Autosteer a asistenční funkce z nájezdu do protijedoucího kamionu. Jedná se o další případ v řadě žalob po prohře Tesly v prvním velkém soudním sporu o Autopilot.",
@@ -769,27 +851,6 @@
       },
       "companies": [
         "Nvidia"
-      ],
-      "people": []
-    },
-    {
-      "title": "Nvidia představuje nové čipy pro umělou inteligenci a projekt autonomních vozidel s Mercedesem",
-      "description": "Společnost Nvidia oznámila nové čipy určené pro výpočty umělé inteligence a rozšířila spolupráci s Mercedesem-Benz na vývoji autonomních vozidel. Tyto novinky posilují postavení Nvidia v oblasti AI hardwaru a autonomní mobility.",
-      "slug": "nvidia-details-new-ai-chips-and-autonomous-car-pro",
-      "publishedAt": "2026-01-06T00:15:30+00:00",
-      "date": "2026-01-06 00:15:30",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://biztoc.com/cdn/956/og.png",
-      "url": "/tech-news/2026-01-06/nvidia-details-new-ai-chips-and-autonomous-car-pro/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "companies": [
-        "Nvidia",
-        "Mercedes"
       ],
       "people": []
     },
@@ -3904,26 +3965,6 @@
       "people": []
     },
     {
-      "title": "Očekáván pokles čtvrtletních dodávek Tesly",
-      "description": "Dodávky Tesly se v čtvrtém čtvrtletí očekávají snížit kvůli ztrátě amerických daňových úlev a rostoucí globální konkurenci, přestože společnost uvedla na trh levnější verze svých nejprodávanějších elektromobilů Model 3 a Model Y.",
-      "slug": "teslas-quarterly-deliveries-seen-falling",
-      "publishedAt": "2025-12-30T15:17:37+00:00",
-      "date": "2025-12-30 15:17:37",
-      "importance": 4,
-      "category": "elektromobilita",
-      "urlToImage": "https://www.rte.ie/images/00239521-1600.jpg",
-      "url": "/tech-news/2025-12-30/teslas-quarterly-deliveries-seen-falling/",
-      "source": {
-        "emoji": "📰",
-        "id": "rte",
-        "name": "RTE"
-      },
-      "companies": [
-        "Tesla"
-      ],
-      "people": []
-    },
-    {
       "title": "Tyto byly naše nejoblíbenější technologické příběhy z webu v roce 2025",
       "description": "Každý týden prohledáváme web pro důležité, poučné a fascinující příběhy z vědy a technologií. Zde je shrnutí těch, které nás letos nejvíc zaujaly.",
       "slug": "these-were-our-favorite-tech-stories-from-around-t",
@@ -3942,27 +3983,6 @@
       "people": []
     },
     {
-      "title": "Technologický gigant Meta kupuje AI firmu založenou v Číně Manus",
-      "description": "Meta oznámila akvizici startupu Manus, jehož autonomní AI agent má zlepšit životy miliard lidí. Jedná se o vzácnou dohodu mezi americkou a čínskou technologií uprostřed rivality USA a Číny.",
-      "slug": "tech-giant-meta-buys-chinese-founded-ai-firm-manus",
-      "publishedAt": "2025-12-30T11:39:35+00:00",
-      "date": "2025-12-30 11:39:35",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/12/AP25345619606497-1767082746_12b6d4-1767088461.jpg?resize=1200%2C630&quality=80",
-      "url": "/tech-news/2025-12-30/tech-giant-meta-buys-chinese-founded-ai-firm-manus/",
-      "source": {
-        "emoji": "📰",
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "companies": [
-        "Meta",
-        "Manus"
-      ],
-      "people": []
-    },
-    {
       "title": "Nejvýznamnější události v kosmickém vědeckém výzkumu pro rok 2026",
       "description": "Rok 2026 přinese posádky na oběžnou dráhu Měsíce, testy plně znovupoužitelných raket a vypuštění nových orbitálních dalekohledů pro studium okrajů vesmíru. Tyto události posunou kosmický výzkum a průzkum vpřed.",
       "slug": "these-are-the-most-exciting-space-science-events-f",
@@ -3978,27 +3998,6 @@
         "name": "Scientific American"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "SoftBank zaplatí 4 miliardy dolarů za investiční firmu DigitalBridge",
-      "description": "SoftBank se dohodl na akvizici private equity firmy DigitalBridge v dealu, který oceňuje investora do datových center na 4 miliardy dolarů (3,4 miliardy eur) včetně dluhu. Tato transakce posiluje pozici SoftBanku v digitální infrastruktuře v době boomu umělé inteligence.",
-      "slug": "softbank-to-pay-4bn-for-investment-firm-digitalbri",
-      "publishedAt": "2025-12-30T05:30:00+00:00",
-      "date": "2025-12-30 05:30:00",
-      "importance": 5,
-      "category": "datová centra",
-      "urlToImage": "https://focus.independent.ie/thumbor/iObGRPhiz9OkcKqckWNTnh50Rqk=/0x0:4501x3001/629x0/prod-mh-ireland/f2a408bb-a8ee-4636-b99a-6263f1137343/ca08fbc1-6b98-4c27-b020-3c8959b73ffd/GettyImages-2197341890.jpg",
-      "url": "/tech-news/2025-12-30/softbank-to-pay-4bn-for-investment-firm-digitalbri/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Independent.ie"
-      },
-      "companies": [
-        "SoftBank",
-        "DigitalBridge"
-      ],
       "people": []
     },
     {
