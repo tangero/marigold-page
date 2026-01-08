@@ -1,7 +1,108 @@
 {
-  "generated": "2026-01-08T12:53:05.525324+00:00",
+  "generated": "2026-01-08T16:43:44.139484+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Největší aktualizace Siri za léta by mohla přijít v březnu – bude stačit?",
+      "description": "Pravděpodobně s iOS 26.4 přijde takzvaná LLM Siri, která má fungovat podobně jako ChatGPT a Gemini. Tentokrát se Apple podaří uspět?",
+      "slug": "apples-biggest-siri-update-in-years-could-arrive-t",
+      "publishedAt": "2026-01-07T16:13:43+00:00",
+      "date": "2026-01-07 16:13:43",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/792a3f8eb7014718bfce3263731b4880e238976a/2025/06/26/dbb9d95d-c57b-4bfc-949a-5cedda909d3f/you-may-qualify-for-apples-95-million-siri-settlement-how-to-file-a-claim-today.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "url": "/tech-news/2026-01-07/apples-biggest-siri-update-in-years-could-arrive-t/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "ZDNet"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nepřirozené nové demo robota od Boston Dynamics vyvolává husí kůži",
+      "description": "Nemůžete napsat „demonstraci“ bez „démóna“. Článek se poprvé objevil na Futurism.",
+      "slug": "boston-dynamics-unnatural-new-robot-demo-will-give",
+      "publishedAt": "2026-01-07T16:11:21+00:00",
+      "date": "2026-01-07 16:11:21",
+      "importance": 5,
+      "category": "robotika",
+      "urlToImage": "https://futurism.com/wp-content/uploads/2026/01/boston-dynamics-new-demo.jpg?w=1200",
+      "url": "/tech-news/2026-01-07/boston-dynamics-unnatural-new-robot-demo-will-give/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Futurism"
+      },
+      "companies": [
+        "Boston Dynamics"
+      ],
+      "people": []
+    },
+    {
+      "title": "Umělá inteligence pomáhá vydláždit cestu autonomním vozům",
+      "description": "I když sen Elona Muska o robotaxi pro všechny ještě není blízko, elegantní elektromobily poháněné umělou inteligencí zaplnily veletrh Consumer Electronics Show a slibují osvobození od nudného řízení. Pustit volant už není fantazie, jak ukazují Waymo v USA a Apollo Go v Číně.",
+      "slug": "ai-helps-pave-the-way-for-self-driving-cars",
+      "publishedAt": "2026-01-07T16:07:32+00:00",
+      "date": "2026-01-07 16:07:32",
+      "importance": 4,
+      "category": "autonomní vozy",
+      "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2026/01/730ecc6dc0ca9e36121d0c054710834dffd8b129.jpg",
+      "url": "/tech-news/2026-01-07/ai-helps-pave-the-way-for-self-driving-cars/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digital Journal"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Micron zahajuje stavbu historické megafab v New Yorku",
+      "description": "Společnost Micron Technology 16. ledna 2026 zahájí stavbu své megafab v Onondaga County v New Yorku po dokončení environmentálních posudků a získání povolení. Projekt představuje největší soukromou investici v historii státu a bude vyrábět pokročilé paměti pro AI systémy.",
+      "slug": "pr-micron-announces-groundbreaking-for-historic-ne",
+      "publishedAt": "2026-01-07T16:07:02+00:00",
+      "date": "2026-01-07 16:07:02",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://www.techpowerup.com/img/APwsAKjedzh6F4ZQ.jpg",
+      "url": "/tech-news/2026-01-07/pr-micron-announces-groundbreaking-for-historic-ne/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Techpowerup.com"
+      },
+      "companies": [
+        "Micron Technology",
+        "Inc"
+      ],
+      "people": []
+    },
+    {
+      "title": "OpenAI spouští ChatGPT Health pro spotřebitele",
+      "description": "OpenAI uvedlo, že ChatGPT Health umožňuje integrovat uživatelské lékařské záznamy pro poskytování přesnějších odpovědí na zdravotní dotazy. Tento nástroj slouží k lepšímu zapojení pacientů do péče o zdraví prostřednictvím AI.",
+      "slug": "openai-launches-chatgpt-health-for-consumer-use",
+      "publishedAt": "2026-01-07T15:48:00+00:00",
+      "date": "2026-01-07 15:48:00",
+      "importance": 4,
+      "category": "zdravotní ai",
+      "urlToImage": "https://www.techtarget.com/rms/onlineimages/health_g1280291825.jpg",
+      "url": "/tech-news/2026-01-07/openai-launches-chatgpt-health-for-consumer-use/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Techtarget.com"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
     {
       "title": "Lux Capital získala 1,5 miliardy dolarů na fond zaměřený na novou vědu a obranu",
       "description": "Riziková kapitálová společnost Lux Capital získala 1,5 miliardy dolarů na svůj devátý fond, což je největší částka v její více než 20leté historii. Fond plánuje podpořit společnosti zaměřené na průlomovou vědu a národní bezpečnost, včetně umělé inteligence a kvantových počítačů.",
@@ -3661,28 +3762,6 @@
       "people": []
     },
     {
-      "title": "Nvidia žádá TSMC o více dodávků: Čínské firmy objednaly přes dva miliony H200",
-      "description": "Po uvolnění amerického embarga čínské technologické společnosti, včetně ByteDance, objednaly více než dva miliony kusů grafických akcelerátorů Nvidia H200. Nvidia proto kontaktovala výrobce TSMC s žádostí o navýšení produkce, přestože skladové zásoby čipů dosahují jen 700 tisíc kusů.",
-      "slug": "nvidia-dms-tsmc-please-sir-can-i-have-some-more-th",
-      "publishedAt": "2025-12-31T19:55:09+00:00",
-      "date": "2025-12-31 19:55:09",
-      "importance": 4,
-      "category": "hardware",
-      "urlToImage": "https://regmedia.co.uk/2023/08/25/nvidia_shutterstock.jpg",
-      "url": "/tech-news/2025-12-31/nvidia-dms-tsmc-please-sir-can-i-have-some-more-th/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "companies": [
-        "Nvidia",
-        "TSMC",
-        "ByteDance"
-      ],
-      "people": []
-    },
-    {
       "title": "Nvidia se obrací na tchajwanskou TSMC, aby uspokojila rostoucí čínskou poptávku po výkonných AI čipech",
       "description": "Nvidia urychluje výrobu pokročilých H200 AI čipů, protože čínské technologické firmy objednaly přes 2 miliony kusů pro rok 2026, což převyšuje současné zásoby jen 700 tisíc kusů. Společnost oslovila tchajwanskou TSMC kvůli zvýšení produkce.",
       "slug": "nvidia-turns-to-taiwans-tsmc-to-help-meet-surging-",
@@ -3721,28 +3800,6 @@
       "companies": [
         "Nvidia",
         "TSMC"
-      ],
-      "people": []
-    },
-    {
-      "title": "Nvidia rokuje o koupi izraelské AI21 Labs za až 3 miliardy dolarů – report",
-      "description": "Tato akvizice by byla čtvrtou velkou dohodou Nvidie v Izraeli a druhou největší po Mellanox.",
-      "slug": "nvidia-in-talks-to-buy-israels-ai21-labs-for-up-to",
-      "publishedAt": "2025-12-31T11:11:46+00:00",
-      "date": "2025-12-31 11:11:46",
-      "importance": 5,
-      "category": "ai",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/HWouXqIALI560Spp_DWD1w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/verdict_626/da95a43a8c3c543c73eb11424dc023f9",
-      "url": "/tech-news/2025-12-31/nvidia-in-talks-to-buy-israels-ai21-labs-for-up-to/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Verdict"
-      },
-      "companies": [
-        "Nvidia",
-        "AI21 Labs",
-        "Mellanox"
       ],
       "people": []
     },
@@ -3823,27 +3880,6 @@
       },
       "companies": [
         "Apple"
-      ],
-      "people": []
-    },
-    {
-      "title": "Meta přebírá asijský AI startup Manus",
-      "description": "Meta kupuje singapurský startup Manus specializující se na univerzální AI agenty za více než 2 miliardy dolarů. Tento krok posiluje AI nabídku na platformách jako Facebook a Instagram, přičemž Manus bude integrován do Meta AI.",
-      "slug": "meta-snaps-up-asian-ai-startup",
-      "publishedAt": "2025-12-31T03:40:10+00:00",
-      "date": "2025-12-31 03:40:10",
-      "importance": 5,
-      "category": "ai startupy",
-      "urlToImage": "https://img1-azrcdn.newser.com/image/1655672-12-20251230214011.jpeg",
-      "url": "/tech-news/2025-12-31/meta-snaps-up-asian-ai-startup/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Newser"
-      },
-      "companies": [
-        "Meta",
-        "Manus"
       ],
       "people": []
     },
@@ -3930,29 +3966,6 @@
       "people": []
     },
     {
-      "title": "Ranní podcast: ET In The Valley: Arvind Jain, spoluzakladatel a generální ředitel Glean",
-      "description": "Arvind Jain nemohl najít data své vlastní firmy v systému Rubrik, proto v roce 2019 založil Glean, první podnikovou generativní AI společnost ještě před érou ChatGPT. Firma nyní zdvojnásobuje roční opakovaný příjem přes 100 milionů USD s 1100 zaměstnanci a sleduje, jak ji technologické giganty kopírují.",
-      "slug": "morning-brief-podcast-et-in-the-valley-arvind-jain",
-      "publishedAt": "2025-12-31T01:30:00+00:00",
-      "date": "2025-12-31 01:30:00",
-      "importance": 4,
-      "category": "generativní ai",
-      "urlToImage": "https://img.etimg.com/photo/126254505.cms",
-      "url": "/tech-news/2025-12-31/morning-brief-podcast-et-in-the-valley-arvind-jain/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Rubrik",
-        "Glean"
-      ],
-      "people": [
-        "Arvind Jain"
-      ]
-    },
-    {
       "title": "Zpráva: Nvidia by mohla získat startup AI21 Labs specializující se na LLM za 3 miliardy dolarů",
       "description": "Společnost Nvidia je podle izraelského deníku Calcalist v pokročilých jednáních o akvizici startupu AI21 Labs, který vyvíjí velké jazykové modely a nástroje pro vývoj agentů umělé inteligence. Hodnota dohody by mohla činit 2 až 3 miliardy dolarů, což je více než dvojnásobek poslední veřejně známé valuace firmy.",
       "slug": "report-nvidia-could-acquire-llm-startup-ai21-labs-",
@@ -3991,27 +4004,6 @@
       "companies": [
         "Insilico Medicine",
         "Qiming Venture Partners"
-      ],
-      "people": []
-    },
-    {
-      "title": "Meta kupuje startup Manus v dalším kroku k posílení svých snah v oblasti umělé inteligence",
-      "description": "Společnost Meta získává singapurský startup Manus, který vyvinul univerzální AI agenta pro výzkum a kódování. Akvizice za více než 2 miliardy dolarů umožní integraci technologie do produktů jako Meta AI.",
-      "slug": "meta-buys-startup-manus-in-latest-move-to-advance-",
-      "publishedAt": "2025-12-31T00:24:11+00:00",
-      "date": "2025-12-31 00:24:11",
-      "importance": 5,
-      "category": "ai",
-      "urlToImage": "https://www.ocregister.com/wp-content/uploads/2025/12/Meta-Lawsuit-Children_36744_7bbfed.jpg?w=1024&h=682",
-      "url": "/tech-news/2025-12-31/meta-buys-startup-manus-in-latest-move-to-advance/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "OCRegister"
-      },
-      "companies": [
-        "Meta",
-        "Manus"
       ],
       "people": []
     },
