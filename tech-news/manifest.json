@@ -1,7 +1,216 @@
 {
-  "generated": "2026-01-08T08:43:00.212698+00:00",
+  "generated": "2026-01-08T12:53:05.525324+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Lux Capital získala 1,5 miliardy dolarů na fond zaměřený na novou vědu a obranu",
+      "description": "Riziková kapitálová společnost Lux Capital získala 1,5 miliardy dolarů na svůj devátý fond, což je největší částka v její více než 20leté historii. Fond plánuje podpořit společnosti zaměřené na průlomovou vědu a národní bezpečnost, včetně umělé inteligence a kvantových počítačů.",
+      "slug": "lux-capital-raises-15-billion-for-fund-focused-on-",
+      "publishedAt": "2026-01-07T12:25:11+00:00",
+      "date": "2026-01-07 12:25:11",
+      "importance": 4,
+      "category": "rizikový kapitál",
+      "urlToImage": null,
+      "url": "/tech-news/2026-01-07/lux-capital-raises-15-billion-for-fund-focused-on/",
+      "source": {
+        "emoji": "📰",
+        "id": "financial-post",
+        "name": "Financial Post"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "AI Grok od Elona Muska čelí kritice kvůli sexualizovaným obrázkům Ashley St Clair",
+      "description": "AI Grok od Elona Muska se dostal pod drobnohled poté, co Ashley St Clair obviňuje chatbot z opakovaného generování sexualizovaných obrázků jí bez souhlasu. Tato kauza oživuje obavy z bezpečnosti umělé inteligence, souhlasu a nedostatečné regulace.",
+      "slug": "elon-musks-grok-ai-faces-backlash-over-sexualised-",
+      "publishedAt": "2026-01-07T12:15:36+00:00",
+      "date": "2026-01-07 12:15:36",
+      "importance": 4,
+      "category": "ai bezpečnost",
+      "urlToImage": "https://d.ibtimes.com/en/full/4639566/elon-musk-grok-ai.jpg",
+      "url": "/tech-news/2026-01-07/elon-musks-grok-ai-faces-backlash-over-sexualised/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "International Business Times"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk",
+        "Ashley St Clair"
+      ]
+    },
+    {
+      "title": "xAI získává 20 miliard dolarů: Elon Musk slaví investiční úspěch, který může přetvořit sílu AI",
+      "description": "Společnost xAI Elona Muska získala 20 miliard dolarů investic, což překonalo cíle financování a podpoří misi pochopení vesmíru. Úspěch je však zastíněn kontroverzí kolem chatbota Grok a jeho zneužití k tvorbě nelegálních deepfake obrázků.",
+      "slug": "xai-bags-20b-as-elon-musk-celebrates-a-funding-win",
+      "publishedAt": "2026-01-07T12:15:18+00:00",
+      "date": "2026-01-07 12:15:18",
+      "importance": 5,
+      "category": "ai",
+      "urlToImage": "https://d.ibtimes.com/en/full/4635254/xai.jpg",
+      "url": "/tech-news/2026-01-07/xai-bags-20b-as-elon-musk-celebrates-a-funding-win/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "International Business Times"
+      },
+      "companies": [
+        "xAI"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Fúzní energie se blíží k praxi: Commonwealth staví první demonstrační elektrárnu s podporou Siemens a Nvidia",
+      "description": "Společnost Commonwealth Fusion Systems dosahuje klíčových milníků při stavbě fúzní elektrárny SPARC, která využívá stejný princip jako Slunce. Partnerství se Siemens a Nvidia pomůže integrovat umělou inteligenci pro řízení a napájení datových center.",
+      "slug": "fusion-power-nearly-ready-for-prime-time-as-common",
+      "publishedAt": "2026-01-07T12:15:14+00:00",
+      "date": "2026-01-07 12:15:14",
+      "importance": 5,
+      "category": "fúzní energie",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/01/20251229-SPARC-digital-twin-3-e1767742454456.jpg?resize=1200,600",
+      "url": "/tech-news/2026-01-07/fusion-power-nearly-ready-for-prime-time-as-common/",
+      "source": {
+        "emoji": "📰",
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "companies": [
+        "Commonwealth",
+        "Siemens",
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "VL-JEPA od Meta překonává objemné velké jazykové modely",
+      "description": "Meta představila VL-JEPA, novou architekturu pro zpracování vize a jazyka, kterou vyvinul tým pod vedením Yana LeCuna. Tento model předpovídá význam přímo v prostoru vestavění, což umožňuje vyšší efektivitu než tradiční velké jazykové modely a otevírá cestu pro aplikace v robotice a nositelných zařízeních.",
+      "slug": "metas-vision-language-shift-vl-jepa-beats-bulky-ll",
+      "publishedAt": "2026-01-07T12:15:04+00:00",
+      "date": "2026-01-07 12:15:04",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/01/vl-jepa-embedding-space-prediction_optimized.jpg",
+      "url": "/tech-news/2026-01-07/metas-vision-language-shift-vl-jepa-beats-bulky-ll/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [
+        "Meta",
+        "Better Stack"
+      ],
+      "people": [
+        "Yan LeCun"
+      ]
+    },
+    {
+      "title": "Spinoff Intelu Articul8 získává více než polovinu kola 70 milionů dolarů při valuaci 500 milionů | TechCrunch",
+      "description": "Articul8, podniková AI společnost vyrostená z Intelu na začátku roku 2024, získala více než polovinu plánovaného kola financování 70 milionů dolarů při pre-money valuaci 500 milionů dolarů. Firma cílí na rostoucí poptávku po AI systémech v regulovaných odvětvích.",
+      "slug": "intel-spinout-articul8-raises-more-than-half-of-70",
+      "publishedAt": "2026-01-07T12:02:14+00:00",
+      "date": "2026-01-07 12:02:14",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/01/articul8-founder-arun-k-subramaniyan.jpg?resize=1200,800",
+      "url": "/tech-news/2026-01-07/intel-spinout-articul8-raises-more-than-half-of-70/",
+      "source": {
+        "emoji": "🚀",
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "companies": [
+        "Intel",
+        "Articul8"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nové AI hlasové pero přímo propojené s ChatGPT s mikrofonem a kamerou",
+      "description": "Nejnovější zařízení OpenAI nazvané Gumdrop je pero ve tvaru pera, které umožňuje přímé hlasové ovládání ChatGPT bez nutnosti smartphonu nebo notebooku. Obsahuje mikrofon, kameru a funkci transkripce rukopisu, čímž zvyšuje dostupnost AI v každodenním životě.",
+      "slug": "new-ai-voice-pen-links-straight-to-chatgpt-with-mi",
+      "publishedAt": "2026-01-07T11:59:01+00:00",
+      "date": "2026-01-07 11:59:01",
+      "importance": 4,
+      "category": "ai hardware",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/01/gumdrop-foxconn-vietnam-production_optimized.jpg",
+      "url": "/tech-news/2026-01-07/new-ai-voice-pen-links-straight-to-chatgpt-with-mi/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Trump Media oznámila plány na největší elektrárnu na výrobu energie na světě – ale pouze v republikánských státech",
+      "description": "O několik týdnů po sloučení Trump Media and Technology Group s firmou TAE Technologies na jadernou fúzi nová společnost zveřejnila plány na stavbu fúzní elektrárny v USA, která má být největší na světě. Výkonný ředitel Devin Nunes uvedl, že lokalitu vyberou pouze v republikánských státech a stavební práce odstartují letos.",
+      "slug": "trump-media-announces-plans-for-worlds-largest-pow",
+      "publishedAt": "2026-01-07T11:58:10+00:00",
+      "date": "2026-01-07 11:58:10",
+      "importance": 5,
+      "category": "jaderná fúze",
+      "urlToImage": null,
+      "url": "/tech-news/2026-01-07/trump-media-announces-plans-for-worlds-largest-pow/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "companies": [
+        "Trump Media and Technology Group",
+        "TAE Technologies"
+      ],
+      "people": []
+    },
+    {
+      "title": "AI chatbot Muska Grok čelí globální kritice kvůli sexualizovaným obrázkům žen a dětí",
+      "description": "AI chatbot Grok od Elona Muska se dostal do konfliktu s vládami po celém světě kvůli vlně sexualizovaných obrázků žen a dětí generovaných bez souhlasu. Británie, Polsko, EU a další země žádají okamžité kroky a vyšetřování.",
+      "slug": "musks-ai-chatbot-faces-global-backlash-over-sexual",
+      "publishedAt": "2026-01-07T11:45:39+00:00",
+      "date": "2026-01-07 11:45:39",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://cmg-cmg-tv-10080-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FDNHPVCSIOAZKDMZCWAF6ER7Y2Q.jpg?auth=87e1b0de6125c12dbfe379d23a3e84abd7d6ac04dd9e94607bffac7197266559&width=1200&height=630&smart=true",
+      "url": "/tech-news/2026-01-07/musks-ai-chatbot-faces-global-backlash-over-sexual/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "WPXI Pittsburgh"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Siemens rozšiřuje spolupráci s Nvidia pro nasazení průmyslové AI",
+      "description": "Společnosti plánují integrovat AI do výrobních provozů, simulačních nástrojů a elektronického návrhu automatizace pro průmysl.",
+      "slug": "siemens-expands-collaboration-with-nvidia-for-indu",
+      "publishedAt": "2026-01-07T11:31:42+00:00",
+      "date": "2026-01-07 11:31:42",
+      "importance": 4,
+      "category": "průmyslové ai",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/p8ISWjAEuba42oQDKqxt4g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/verdict_626/6496d1b098df2f0e591e96d4c194db49",
+      "url": "/tech-news/2026-01-07/siemens-expands-collaboration-with-nvidia-for-indu/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Verdict"
+      },
+      "companies": [
+        "Siemens",
+        "Nvidia"
+      ],
+      "people": []
+    },
     {
       "title": "Google DeepMind a Boston Dynamics oznámily nové partnerství pro integraci AI do humanoidních robotů",
       "description": "Partnerství mezi Google DeepMind a Boston Dynamics, představené na CES 2026, spojuje inženýrské schopnosti Boston Dynamics s AI algoritmy DeepMind pro humanoidního robota Atlas. Cílem je zlepšit jeho rozhodování a adaptabilitu v náročných prostředích, jako jsou katastrofické oblasti.",
@@ -264,26 +473,6 @@
       },
       "companies": [],
       "people": []
-    },
-    {
-      "title": "AI chatbot Muska Grok čelí globální kritice kvůli sexualizovaným obrázkům žen a dětí",
-      "description": "AI chatbot Elona Muska Grok je pod silným tlakem kvůli generování sexualizovaných obrázků žen a dětí bez souhlasu. Vlády v Evropě, Indii, Malajsii a Brazílii volají po vyšetřování a okamžitých opatřeních.",
-      "slug": "musks-ai-chatbot-faces-global-backlash-over-sexual",
-      "publishedAt": "2026-01-07T00:21:52+00:00",
-      "date": "2026-01-07 00:21:52",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://i.abcnewsfe.com/a/0f56ff14-072c-4d3e-bd1c-d39f17c32682/wirestory_2021bbdb508d080d46e3ae7b8f297d36_16x9.jpg?w=1600",
-      "url": "/tech-news/2026-01-07/musks-ai-chatbot-faces-global-backlash-over-sexual/",
-      "source": {
-        "emoji": "📰",
-        "id": "abc-news",
-        "name": "ABC News"
-      },
-      "companies": [],
-      "people": [
-        "Elon Musk"
-      ]
     },
     {
       "title": "Nvidia představuje nové AI čipy a projekt autonomních vozidel s Mercedes-Benz",
@@ -3414,27 +3603,6 @@
       "people": []
     },
     {
-      "title": "IonQ dodá 100-kubitový systém do Jižní Koreje. Měli byste koupit akcie IONQ pro rok 2026?",
-      "description": "Společnost IonQ, největší firma zaměřená výhradně na kvantové počítače podle tržní kapitalizace a příjmů, prohlubuje spolupráci s Korejským institutem pro vědecké a technologické informace (KISTI). V rámci partnerství dodá institutu svůj systém Tempo s 100 kubity.",
-      "slug": "ionq-is-bringing-a-100-qubit-system-to-south-korea",
-      "publishedAt": "2025-12-31T21:46:06+00:00",
-      "date": "2025-12-31 21:46:06",
-      "importance": 5,
-      "category": "kvantové počítače",
-      "urlToImage": "https://biztoc.com/cdn/1be0b9e0b6ff3cb6_s.webp",
-      "url": "/tech-news/2025-12-31/ionq-is-bringing-a-100-qubit-system-to-south-korea/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "companies": [
-        "IonQ",
-        "KISTI"
-      ],
-      "people": []
-    },
-    {
       "title": "TSMC zahájilo hromadnou výrobu nejpokročilejších 2nanometrových čipů",
       "description": "Tajwanský technologický gigant TSMC zahájil hromadnou výrobu svých špičkových 2nanometrových polovodičových čipů, uvedla společnost ve vyjádření, které získala agentura AFP. TSMC je největší světový kontraktový výrobce čipů, které se používají v zařízeních od chytrých telefonů po vojenské systémy.",
       "slug": "tsmc-says-it-has-started-mass-production-of-most-a",
@@ -3536,66 +3704,6 @@
       "people": []
     },
     {
-      "title": "Vše, co Apple plánuje vydat v roce 2026: Skládací iPhone, Siri s LLM, levný MacBook a další",
-      "description": "Podle spekulací z MacRumors bude rok 2026 pro Apple bohatý na novinky včetně prvního skládacího iPhonu, verze Siri poháněné LLM a levného MacBooku. Očekávají se také nový domácí hub, aktualizované displeje a případně OLED MacBook Pro či AI chytré brýle.",
-      "slug": "everything-apple-is-releasing-in-2026-iphone-fold-",
-      "publishedAt": "2025-12-31T18:39:03+00:00",
-      "date": "2025-12-31 18:39:03",
-      "importance": 4,
-      "category": "hardware",
-      "urlToImage": "https://images.macrumors.com/t/53kqmWu4iOwYcrQNxKGfyO7t0mk=/2500x/article-new/2025/07/iPhone-17e-Feature-1.jpg",
-      "url": "/tech-news/2025-12-31/everything-apple-is-releasing-in-2026-iphone-fold/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "MacRumors"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
-      "title": "Každý startup v jaderné fúzi, který získal více než 100 milionů dolarů | TechCrunch",
-      "description": "Startupy v oblasti jaderné fúze získaly dosud 7,1 miliardy dolarů, přičemž většina prostředků šla do rukou jen několika firem.",
-      "slug": "every-fusion-startup-that-has-raised-over-100m-tec",
-      "publishedAt": "2025-12-31T15:07:35+00:00",
-      "date": "2025-12-31 15:07:35",
-      "importance": 5,
-      "category": "jaderná fúze",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1455925032.jpg?resize=1200,675",
-      "url": "/tech-news/2025-12-31/every-fusion-startup-that-has-raised-over-100m-tec/",
-      "source": {
-        "emoji": "🚀",
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "companies": [
-        "TechCrunch"
-      ],
-      "people": []
-    },
-    {
-      "title": "Jak byly údajně pašovány Nvidia čipy v hodnotě 160 milionů dolarů podléhající exportním kontrolám do Číny",
-      "description": "Pašerácká síť falšovala lodní dokumenty, aby nesprávně klasifikovala GPU a skrývala skutečné destinace včetně Číny a dalších zakázaných zemí. Federální žalobci v Texasu odhalili operaci s vazbami na Čínu, která se zaměřovala na export Nvidia H100 a H200 GPU.",
-      "slug": "how-160-million-worth-of-export-controlled-nvidia-",
-      "publishedAt": "2025-12-31T12:00:01+00:00",
-      "date": "2025-12-31 12:00:01",
-      "importance": 5,
-      "category": "pašování čipů",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108238869-1765273146995-gettyimages-2250207687-NVIDIA_Chip.jpeg?v=1767045304&w=1920&h=1080",
-      "url": "/tech-news/2025-12-31/how-160-million-worth-of-export-controlled-nvidia/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNBC"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": []
-    },
-    {
       "title": "Nvidia žádá TSMC o zvýšení výroby H200 AI čipů kvůli rostoucí poptávce z Číny: Zpráva",
       "description": "Nvidia čelí masivní poptávce po H200 AI čipech od čínských technologických firem a oslovila výrobce TSMC, aby zvýšila produkci na objednávky přes dva miliony kusů pro rok 2026. Tento krok přichází za podmínky čekání na regulační schválení z Pekingu, přičemž cena čipů pro čínský trh činí kolem 27 000 dolarů za kus.",
       "slug": "nvidia-sounds-out-tsmc-on-new-h200-chip-order-as-c",
@@ -3655,47 +3763,6 @@
       },
       "companies": [],
       "people": []
-    },
-    {
-      "title": "Každý má teorii, proč Nvidia vyhodila 20 miliard na Groq – většina se mýlí",
-      "description": "Nvidia zaplatila 20 miliard dolarů za nelicenci na technologii startupu Groq, včetně jeho jazykových zpracovatelných jednotek (LPUs) a softwarových knihoven. Tato dohoda umožňuje Nvidia získat klíčový talent, zatímco Groq formálně zůstává nezávislý.",
-      "slug": "everybody-has-a-theory-about-why-nvidia-dropped-20",
-      "publishedAt": "2025-12-31T11:02:13+00:00",
-      "date": "2025-12-31 11:02:13",
-      "importance": 5,
-      "category": "ai čipy",
-      "urlToImage": "https://regmedia.co.uk/2024/08/05/groq_chip_render.jpg",
-      "url": "/tech-news/2025-12-31/everybody-has-a-theory-about-why-nvidia-dropped-20/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "companies": [
-        "Nvidia",
-        "Groq"
-      ],
-      "people": []
-    },
-    {
-      "title": "FT Člověk roku: Jensen Huang",
-      "description": "Financial Times označil Jensena Huanga za člověka roku díky roli, kterou sehrál v globální transformaci umělé inteligence. Článek popisuje jeho kariéru a klíčové momenty v čele Nvidia.",
-      "slug": "ft-person-of-the-year-jensen-huang",
-      "publishedAt": "2025-12-31T11:00:51+00:00",
-      "date": "2025-12-31 11:00:51",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/12/1213-mg-huang.jpg",
-      "url": "/tech-news/2025-12-31/ft-person-of-the-year-jensen-huang/",
-      "source": {
-        "emoji": "📰",
-        "id": "financial-post",
-        "name": "Financial Post"
-      },
-      "companies": [],
-      "people": [
-        "Jensen Huang"
-      ]
     },
     {
       "title": "NVIDIA potřebuje ‚zázrak‘ v dodavatelském řetězci od TSMC kvůli čínským objednávkám H200 AI čipů, které přetěžují dodávky a způsobují úzké místo",
@@ -3843,28 +3910,6 @@
       "people": []
     },
     {
-      "title": "Elon Musk odhaluje plán rozšířit datové centrum xAI ‘Colossus’ na 2 gigawatts",
-      "description": "Společnost xAI Elona Muska rozšiřuje komplex datových center pro umělou inteligenci v Memphisu po koupi třetí budovy. Tato budova pojme tisíce nových serverů pro trénink AI modelů a celková výkonnost místa dosáhne téměř 2 gigawattů.",
-      "slug": "elon-musk-reveals-plan-to-expand-xais-colossus-dat",
-      "publishedAt": "2025-12-31T02:01:50+00:00",
-      "date": "2025-12-31 02:01:50",
-      "importance": 4,
-      "category": "datová centra",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/musk.jpg",
-      "url": "/tech-news/2025-12-31/elon-musk-reveals-plan-to-expand-xais-colossus-dat/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "xAI"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
       "title": "TSMC zahájilo hromadnou výrobu nejpokročilejších 2nm čipů",
       "description": "Taiwanská společnost TSMC zahájila hromadnou výrobu 2nanometrových polovodičových čipů, které představují nejpokročilejší technologii v oboru z hlediska hustoty a energetické účinnosti. Mezi klienty firmy patří Nvidia a Apple, výroba probíhá v závodech na Taiwanu.",
       "slug": "tsmc-says-it-started-mass-production-of-most-advan",
@@ -3963,47 +4008,6 @@
         "emoji": "📰",
         "id": null,
         "name": "OCRegister"
-      },
-      "companies": [
-        "Meta",
-        "Manus"
-      ],
-      "people": []
-    },
-    {
-      "title": "Datová centra se obracejí k turbínám tryskových motorů pro napájení AI úloh",
-      "description": "Provozovatelé datových center podporujících úlohy umělé inteligence (AI) řeší víceletá zpoždění v připojení k elektrické síti nákupem turbín od výrobce supersonických tryskových motorů Boom Supersonic. Coloradská firma, která se specializuje na supersonická dopravní letadla, tak vstupuje do oblasti energetiky pro datová centra.",
-      "slug": "data-centers-turn-to-jet-engine-turbines-to-power-",
-      "publishedAt": "2025-12-31T00:16:22+00:00",
-      "date": "2025-12-31 00:16:22",
-      "importance": 4,
-      "category": "datová centra",
-      "urlToImage": "https://img.digitimes.com/newsshow/20251230pd203_files/2_b.jpg",
-      "url": "/tech-news/2025-12-31/data-centers-turn-to-jet-engine-turbines-to-power/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
-      },
-      "companies": [
-        "Boom Supersonic"
-      ],
-      "people": []
-    },
-    {
-      "title": "Meta kupuje singapurský startup Manus v dalším kroku k posílení umělé inteligence",
-      "description": "Meta uzavřela akvizici singapurské platformy Manus, která vyvinula univerzálního AI agenta, za částku přesahující 2 miliardy dolarů. Tento krok má posílit AI nabídku napříč platformami jako Facebook a Instagram.",
-      "slug": "meta-buys-singapore-startup-manus-in-latest-move-t",
-      "publishedAt": "2025-12-31T00:15:05+00:00",
-      "date": "2025-12-31 00:15:05",
-      "importance": 5,
-      "category": "ai",
-      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/12/Meta-Lawsuit-Children_36744_7bbfed.jpg?w=1024&h=682",
-      "url": "/tech-news/2025-12-31/meta-buys-singapore-startup-manus-in-latest-move-t/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Boston Herald"
       },
       "companies": [
         "Meta",
