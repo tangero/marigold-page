@@ -1,7 +1,185 @@
 {
-  "generated": "2026-01-08T20:40:38.311930+00:00",
+  "generated": "2026-01-09T01:20:04.579891+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Soudce naznačil, že žaloba Elona Muska za podvod proti OpenAI zamíří k porotě",
+      "description": "Federální soudce Yvonne Gonzalez Rogers odmítne návrh OpenAI na zamítnutí žaloby Elona Muska a případ pošle k porotě. Musk obviňuje OpenAI z podvodu při přechodu z neziskové organizace na ziskovou firmu s hodnotou 500 miliard dolarů.",
+      "slug": "judge-indicates-elon-musks-fraud-lawsuit-against-o",
+      "publishedAt": "2026-01-08T00:35:44+00:00",
+      "date": "2026-01-08 00:35:44",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": null,
+      "url": "/tech-news/2026-01-08/judge-indicates-elon-musks-fraud-lawsuit-against-o/",
+      "source": {
+        "emoji": "📰",
+        "id": "financial-post",
+        "name": "Financial Post"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "X oznamuje zavádění dalších bezpečnostních mechanismů pro Grok a vylepšování ochranných prahů",
+      "description": "Indické ministerstvo MeitY zkoumá odpověď platformy X na výzvu k omezení obscénního obsahu generovaného AI: Zdroje",
+      "slug": "x-says-its-introducing-more-grok-guardrails-refini",
+      "publishedAt": "2026-01-08T00:30:00+00:00",
+      "date": "2026-01-08 00:30:00",
+      "importance": 4,
+      "category": "ai bezpečnost",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-58186,resizemode-75,msid-126400465/tech/technology/x-says-its-introducing-more-grok-guardrails-refining-safeguards.jpg",
+      "url": "/tech-news/2026-01-08/x-says-its-introducing-more-grok-guardrails-refini/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Tento elektrický motocykl za 30 000 USD má solid-state baterie a dojezd 370 mil",
+      "description": "Nový TS Pro od Verge Motorcycles nabízí dvě varianty baterií, včetně jedné s dojezdem 370 mil na jedno nabití. Jedná se o první produkční vozidlo s solid-state bateriemi, které bude dostupné v prvním čtvrtletí 2026.",
+      "slug": "this-30k-electric-motorcycle-features-solid-state-",
+      "publishedAt": "2026-01-08T00:15:32+00:00",
+      "date": "2026-01-08 00:15:32",
+      "importance": 5,
+      "category": "elektromobilita",
+      "urlToImage": "https://cdn.hiconsumption.com/wp-content/uploads/2026/01/Verge-TS-Pro-Motorcycle-0-Hero.jpg",
+      "url": "/tech-news/2026-01-08/this-30k-electric-motorcycle-features-solid-state/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Hiconsumption.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Zákonodárci mají znovu předložit návrh na kvantovou iniciativu",
+      "description": "Znovuautorizace Zákona o národní kvantové iniciativě by podpořila pokročilý výzkum kvantových informačních věd napříč federální vládou. Nový návrh představí senátoři Maria Cantwellová a Todd Young po selhání předchozích pokusů.",
+      "slug": "lawmakers-expected-to-reintroduce-quantum-initiati",
+      "publishedAt": "2026-01-08T00:08:00+00:00",
+      "date": "2026-01-08 00:08:00",
+      "importance": 4,
+      "category": "kvantové technologie",
+      "urlToImage": "https://cdn.nextgov.com/media/img/cd/2026/01/07/GettyImages_1246962308/open-graph.jpg",
+      "url": "/tech-news/2026-01-08/lawmakers-expected-to-reintroduce-quantum-initiati/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Nextgov"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Elon Musk vyhrává počáteční bitvu v soudním sporu proti OpenAI a rivalovi Samu Altmanovi",
+      "description": "Elon Musk přesvědčil soudce, aby umožnila porotní soud v jeho obvinění, že OpenAI porušila zakládající misi při přechodu na ziskovou společnost. Žádá neurčenou finanční náhradu za nesprávně získané výnosy vlastníka ChatGPT.",
+      "slug": "elon-musk-wins-early-battle-in-lawsuit-against-ope",
+      "publishedAt": "2026-01-08T00:06:23+00:00",
+      "date": "2026-01-08 00:06:23",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/01/newspress-collage-v23j9jljt-1767830817100.jpg?quality=75&strip=all&1767812850&w=1200",
+      "url": "/tech-news/2026-01-08/elon-musk-wins-early-battle-in-lawsuit-against-ope/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "New York Post"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": [
+        "Elon Musk",
+        "Sam Altman"
+      ]
+    },
+    {
+      "title": "Uvnitř podnulové skrýše nejmocnějšího počítače na světě",
+      "description": "Faisal Islam získal vzácný přístup k Willow – kvantovému počítači společnosti Google. Článek popisuje jeho konstrukci a potenciální vliv na ekonomiku a bezpečnost.",
+      "slug": "inside-the-sub-zero-lair-of-the-worlds-most-powerf",
+      "publishedAt": "2026-01-08T00:04:43+00:00",
+      "date": "2026-01-08 00:04:43",
+      "importance": 5,
+      "category": "kvantové počítače",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/70da/live/bbab2190-ec0d-11f0-b5f7-49f0357294ff.jpg",
+      "url": "/tech-news/2026-01-08/inside-the-sub-zero-lair-of-the-worlds-most-powerf/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BBC News"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Ford vstupuje do závodu o technologii řízení bez pohledu na silnici, startuje s 30 000dolarovým elektromobilem v roce 2028",
+      "description": "Tento plán staví Ford do přímé soutěže s Tesla, General Motors a Rivian Automotive v rozvoji a masovém nasazení systémů autonomního řízení bez nutnosti dohledu řidiče.",
+      "slug": "ford-enters-race-to-offer-eyes-off-driving-tech-st",
+      "publishedAt": "2026-01-08T00:00:01+00:00",
+      "date": "2026-01-08 00:00:01",
+      "importance": 4,
+      "category": "autonomní řízení",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108205796-1759246835485-AP25120668077019.jpg?v=1767824348&w=1920&h=1080",
+      "url": "/tech-news/2026-01-08/ford-enters-race-to-offer-eyes-off-driving-tech-st/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [
+        "Tesla",
+        "Rivian Automotive"
+      ],
+      "people": []
+    },
+    {
+      "title": "Anthropic údajně hledá 10 miliard dolarů financování při valuaci 350 miliard dolarů",
+      "description": "Méně než dva měsíce po posledním kole financování jedná Anthropic o dalších 10 miliardách dolarů. Investoři Coatue Management a GIC by měli vést kolo, které společnosti poskytne pre-money valuaci 350 miliard dolarů, téměř dvojnásobek oproti září.",
+      "slug": "anthropic-reportedly-seeking-to-raise-10b-at-350b-",
+      "publishedAt": "2026-01-07T23:46:55+00:00",
+      "date": "2026-01-07 23:46:55",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/Anthropic.png",
+      "url": "/tech-news/2026-01-07/anthropic-reportedly-seeking-to-raise-10b-at-350b/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": []
+    },
+    {
+      "title": "2026 bude rokem světových modelů. Proč jsou důležitější než velké jazykové modely",
+      "description": "Světové modely představují stavební kameny pro další éru fyzické AI, kde bude umělá inteligence lépe ukotvena v reálném světě. Slouží k simulaci fyzikálních zákonů, detekce objektů a pohybu pro aplikace v robotice a autonomních systémech.",
+      "slug": "A-2026-will-be-the-year-of-world-models-heres-why-",
+      "publishedAt": "2026-01-07T23:44:00+00:00",
+      "date": "2026-01-07 23:44:00",
+      "importance": 4,
+      "category": "světové modely",
+      "urlToImage": "https://www.cnet.com/a/img/resize/c3ca336a7459f7cd3d1894b54ed7bd24d1261911/hub/2026/01/07/c49f1dcf-ad64-4f23-b44b-15c8a94c46df/macpaws-eney-ai-assistant-macbook.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "url": "/tech-news/2026-01-07/A-2026-will-be-the-year-of-world-models-heres-why/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNET"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Lux Capital získal 1,5 miliardy dolarů pro svůj největší fond dosud | TechCrunch",
       "description": "Tato 25letá firma je raným investorem do společností Anduril, Applied Intuition a Runway AI.",
@@ -3847,26 +4025,6 @@
       "people": []
     },
     {
-      "title": "TSMC zahájilo hromadnou výrobu nejpokročilejších 2nanometrových čipů",
-      "description": "Tajwanský technologický gigant TSMC zahájil hromadnou výrobu svých špičkových 2nanometrových polovodičových čipů, uvedla společnost ve vyjádření, které získala agentura AFP. TSMC je největší světový kontraktový výrobce čipů, které se používají v zařízeních od chytrých telefonů po vojenské systémy.",
-      "slug": "tsmc-says-it-has-started-mass-production-of-most-a",
-      "publishedAt": "2025-12-31T21:27:10+00:00",
-      "date": "2025-12-31 21:27:10",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": null,
-      "url": "/tech-news/2025-12-31/tsmc-says-it-has-started-mass-production-of-most-a/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Japan Today"
-      },
-      "companies": [
-        "TSMC"
-      ],
-      "people": []
-    },
-    {
       "title": "Si Ťin-pching chválí čínské úspěchy v umělé inteligenci a čipech v triumfálním novoročním projevu",
       "description": "„Čína se stala jednou z nejrychleji rostoucích ekonomik světa z hlediska inovativní kapacity,“ prohlásil Si v televizním projevu ve středu.",
       "slug": "xi-touts-chinas-ai-chip-wins-in-triumphant-new-yea",
@@ -3880,165 +4038,6 @@
         "emoji": "📰",
         "id": "fortune",
         "name": "Fortune"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Série předpovědí TRADE 2026: Umělá inteligence – část druhá",
-      "description": "Stephan J. Aguirre, senior fixed income trader v Janus Henderson, představuje předpovědi pro rok 2026, kde umělá inteligence a kvantitativní systémy stanou klíčovými pro generování alfa v tradingu. Článek analyzuje dopady technologických změn na finanční trhy, včetně Neuralink a Nvidia.",
-      "slug": "the-trade-predictions-series-2026-artificial-intel",
-      "publishedAt": "2025-12-31T11:04:51+00:00",
-      "date": "2025-12-31 11:04:51",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://biztoc.com/cdn/955/og.png",
-      "url": "/tech-news/2025-12-31/the-trade-predictions-series-2026-artificial-intel/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Co je Manus, čínský AI startup, který Meta kupuje za více než 2 miliardy dolarů?",
-      "description": "Meta kupuje Manus za více než 2 miliardy dolarů. Zde je, co dělá tento AI agent, kdo ho vytvořil a proč je tento obchod významný.",
-      "slug": "what-is-manus-the-chinese-founded-ai-startup-meta-",
-      "publishedAt": "2025-12-31T07:01:01+00:00",
-      "date": "2025-12-31 07:01:01",
-      "importance": 5,
-      "category": "ai",
-      "urlToImage": "https://i.insider.com/6954a7ec04eda4732f2e4beb?width=1200&format=jpeg",
-      "url": "/tech-news/2025-12-31/what-is-manus-the-chinese-founded-ai-startup-meta/",
-      "source": {
-        "emoji": "📰",
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "companies": [
-        "Meta",
-        "Manus"
-      ],
-      "people": []
-    },
-    {
-      "title": "Top 10 příběhů o dohledu, žurnalistice a šifrování za rok 2025",
-      "description": "Transatlantický spor mezi Velkou Británií a administrativou Trumpa vypukl poté, co Británie se pokusila donutit Apple prolomit své pokročilé šifrování. To byl jen jeden z řady příběhů hlásících o napětí mezi státním dohledem a soukromím v tomto roce.",
-      "slug": "top-10-surveillance-journalism-and-encryption-stor",
-      "publishedAt": "2025-12-31T04:00:00+00:00",
-      "date": "2025-12-31 04:00:00",
-      "importance": 4,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/Hero Images/GCHQ.jpg",
-      "url": "/tech-news/2025-12-31/top-10-surveillance-journalism-and-encryption-stor/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "ComputerWeekly.com"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
-      "title": "Robotika: Další hranice decentralizované inteligence",
-      "description": "Hostující příspěvek a názor Markuse Levina, spoluzakladatele XYO. Globální výdaje na AI dosáhnou 1,5 bilionu dolarů do konce roku 2025 a robotika s nimi roste. Roboti se pohybují a chovají téměř lidsky, ale v reálném prostředí často selhávají kvůli nedůvěryhodným datům ze senzorů.",
-      "slug": "robotics-the-next-frontier-of-decentralized-intell",
-      "publishedAt": "2025-12-31T02:51:02+00:00",
-      "date": "2025-12-31 02:51:02",
-      "importance": 4,
-      "category": "robotika",
-      "urlToImage": "https://cryptoslate.com/wp-content/uploads/2025/12/depin-ai-robots.jpg",
-      "url": "/tech-news/2025-12-31/robotics-the-next-frontier-of-decentralized-intell/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CryptoSlate"
-      },
-      "companies": [
-        "XYO"
-      ],
-      "people": [
-        "Markus Levin"
-      ]
-    },
-    {
-      "title": "TSMC z Taiwanu zahájila hromadnou výrobu 2nm polovodičových čipů",
-      "description": "Taiwanská společnost TSMC oznámila zahájení objemové výroby 2nm čipů ve čtvrtém čtvrtletí 2025. Tyto čipy přinášejí vyšší hustotu tranzistorů a lepší energetickou účinnost pro výpočetní aplikace včetně AI.",
-      "slug": "taiwans-tsmc-says-it-has-started-mass-production-o",
-      "publishedAt": "2025-12-31T02:20:44+00:00",
-      "date": "2025-12-31 02:20:44",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/17768221615388f7dfa31e35ce9af92c318dd4b1e97cfd95df1ee4a419014da6",
-      "url": "/tech-news/2025-12-31/taiwans-tsmc-says-it-has-started-mass-production-o/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Straits Times"
-      },
-      "companies": [
-        "TSMC"
-      ],
-      "people": []
-    },
-    {
-      "title": "TSMC zahájilo hromadnou výrobu 2nm čipů",
-      "description": "Taiwanská TSMC spustila hromadnou výrobu svých 2nanometrových čipů (N2 technologie), které přinášejí vyšší výkon a lepší energetickou účinnost. Výroba začala v 4. čtvrtletí 2025 podle plánu.",
-      "slug": "tsmc-says-started-mass-production-of-most-advanced",
-      "publishedAt": "2025-12-31T02:16:33+00:00",
-      "date": "2025-12-31 02:16:33",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-143408,resizemode-75,msid-126262323/tech/technology/tsmc-says-started-mass-production-of-most-advanced-2nm-chips.jpg",
-      "url": "/tech-news/2025-12-31/tsmc-says-started-mass-production-of-most-advanced/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "TSMC"
-      ],
-      "people": []
-    },
-    {
-      "title": "TSMC zahájilo hromadnou výrobu nejpokročilejších 2nm čipů",
-      "description": "Taiwanská společnost TSMC zahájila hromadnou výrobu 2nanometrových polovodičových čipů, které představují nejpokročilejší technologii v oboru z hlediska hustoty a energetické účinnosti. Mezi klienty firmy patří Nvidia a Apple, výroba probíhá v závodech na Taiwanu.",
-      "slug": "tsmc-says-it-started-mass-production-of-most-advan",
-      "publishedAt": "2025-12-31T01:43:00+00:00",
-      "date": "2025-12-31 01:43:00",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--mphPaGJ4--/c_crop,h_576,w_1024,x_0,y_0/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2025/12/31/000_89br6gb.jpg?itok=Tex6eELz",
-      "url": "/tech-news/2025-12-31/tsmc-says-it-started-mass-production-of-most-advan/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNA"
-      },
-      "companies": [
-        "TSMC"
-      ],
-      "people": []
-    },
-    {
-      "title": "Top 10 příběhů z oblasti byznysových aplikací roku 2025",
-      "description": "V roce 2025 se v byznysových aplikacích prosadilo agentic AI, které autonomně funguje s minimálním lidským vstupem a překonalo klasickou AI i generativní AI od roku 2022. Manažeři na nejvyšších postech podporují tento trend, zatímco firmy objevují praktickou hodnotu v oblastech jako řízení dodavatelských řetězců nebo posílení zaměstnanců.",
-      "slug": "top-10-business-applications-stories-of-2025",
-      "publishedAt": "2025-12-31T00:07:53+00:00",
-      "date": "2025-12-31 00:07:53",
-      "importance": 4,
-      "category": "byznysové aplikace",
-      "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/HeroImages/SaaS-business-apps-Tierney-adobe.jpg",
-      "url": "/tech-news/2025-12-31/top-10-business-applications-stories-of-2025/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "ComputerWeekly.com"
       },
       "companies": [],
       "people": []
