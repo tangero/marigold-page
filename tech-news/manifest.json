@@ -1,7 +1,211 @@
 {
-  "generated": "2026-01-09T04:53:48.154216+00:00",
+  "generated": "2026-01-09T08:47:54.091179+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Fordův konkurent Tesla FSD? Výrobce nabídne 'Eyes-Off' technologii v roce 2028 s elektromobilem za 30 000 USD",
+      "description": "Společnost Ford Motor Co. vyvíjí technologii 'eyes-off' podobnou nesupervizovanému systému Full Self-Driving (FSD) od Tesla Inc. a systému Super Cruise od General Motors Co. Plánovaný debut v roce 2028 proběhne s cenově dostupným elektromobilem.",
+      "slug": "fords-tesla-fsd-competitor-automaker-to-offer-eyes",
+      "publishedAt": "2026-01-08T08:11:29+00:00",
+      "date": "2026-01-08 08:11:29",
+      "importance": 4,
+      "category": "autonomní řízení",
+      "urlToImage": "https://biztoc.com/cdn/69ba8850136a33c5_s.webp",
+      "url": "/tech-news/2026-01-08/fords-tesla-fsd-competitor-automaker-to-offer-eyes/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "companies": [
+        "Tesla"
+      ],
+      "people": []
+    },
+    {
+      "title": "PathAI a Univerzitní nemocnice v Curychu oznámily spolupráci na nasazení AISight® Dx a AIM-TumorCellularity pro rutinní molekulární patologické postupy",
+      "description": "PathAI uzavřel strategickou spolupráci s Univerzitní nemocnicí v Curychu (USZ) na nasazení CE-IVD platformy AISight® Dx a algoritmu AIM-TumorCellularity pro kvantifikaci obsahu nádorových buněk (TCC) v každodenních workflowch. Tato iniciativa představuje jednu z prvních implementací AI nástroje v rutinní patologické praxi ve Švýcarsku.",
+      "slug": "pathai-and-university-hospital-zurich-announce-col",
+      "publishedAt": "2026-01-08T08:00:00+00:00",
+      "date": "2026-01-08 08:00:00",
+      "importance": 4,
+      "category": "digitální patologie",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/ab2bfc12-ae80-47c6-9345-a98783489ed7",
+      "url": "/tech-news/2026-01-08/pathai-and-university-hospital-zurich-announce-col/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [
+        "PathAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Meta čelí čínskému vyšetřování kvůli akvizici startupu Manus v oblasti AI agentů",
+      "description": "Čínské ministerstvo obchodu zahájilo prověřování akvizice Meta singapurského startupu Manus za přes 2 miliardy dolarů, aby zjistilo soulad s exportními kontrolami a předpisy o dovozu a vývozu technologií. Tato akvizice má posílit automatizaci v produktech Meta pro spotřebitele i firmy.",
+      "slug": "meta-faces-china-probe-over-acquisition-of-ai-agen",
+      "publishedAt": "2026-01-08T07:51:38+00:00",
+      "date": "2026-01-08 07:51:38",
+      "importance": 5,
+      "category": "ai",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108249117-1767752025702-gettyimages-2243311819-TFSPI_27102025-1999.jpeg?v=1767752037&w=1920&h=1080",
+      "url": "/tech-news/2026-01-08/meta-faces-china-probe-over-acquisition-of-ai-agen/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [
+        "Meta",
+        "Manus"
+      ],
+      "people": []
+    },
+    {
+      "title": "Umělá inteligence pomáhá vydláždit cestu autonomním vozům",
+      "description": "I když sen Elona Muska o robotaxi pro všechny je ještě daleko, elegantní elektromobily poháněné umělou inteligencí zaplnily veletrh CES a slibují osvobození lidí od nudného řízení.",
+      "slug": "ai-helps-pave-the-way-for-self-driving-cars",
+      "publishedAt": "2026-01-08T07:51:30+00:00",
+      "date": "2026-01-08 07:51:30",
+      "importance": 4,
+      "category": "autonomní vozy",
+      "urlToImage": "https://www.rte.ie/images/0023b5cb-1600.jpg",
+      "url": "/tech-news/2026-01-08/ai-helps-pave-the-way-for-self-driving-cars/",
+      "source": {
+        "emoji": "📰",
+        "id": "rte",
+        "name": "RTE"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Platforma NVIDIA Rubin přináší NVLink 6 s 3,6 TB/s a HBM4 s propustností 22 TB/s",
+      "description": "Na CES 2026 NVIDIA představila platformu Rubin s Vera Rubin GPU, která dosahuje 35 petaflops při tréninku AI modelů, což je 3,5násobek oproti předchozí generaci. Platforma integruje NVLink 6 pro propojení s propustností 3,6 TB/s a HBM4 paměť s 22 TB/s, cílené na agentic AI a robotiku.",
+      "slug": "nvidia-rubin-platform-adds-nvlink-6-at-36-tbps-hbm",
+      "publishedAt": "2026-01-08T07:45:01+00:00",
+      "date": "2026-01-08 07:45:01",
+      "importance": 4,
+      "category": "ai hardware",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/01/ai-agents-robotics-on-rubin-hardware_optimized.jpg",
+      "url": "/tech-news/2026-01-08/nvidia-rubin-platform-adds-nvlink-6-at-36-tbps-hbm/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [
+        "NVIDIA"
+      ],
+      "people": []
+    },
+    {
+      "title": "Grok generuje přibližně jeden nekonzistentní sexualizovaný obrázek za minutu",
+      "description": "Podle analýzy firmy Copyleaks vytváří AI model Grok od xAI Elona Muska deepfakes sexualizovaných obrázků žen bez jejich souhlasu v tempu jednoho za minutu. Problém se stal viditelným na platformě X, kde se tyto obrázky šíří.",
+      "slug": "late-night-open-thread-elon-musk-global-child-porn",
+      "publishedAt": "2026-01-08T07:17:11+00:00",
+      "date": "2026-01-08 07:17:11",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://balloon-juice.com/wp-content/uploads/2015/07/tunchiswatching.jpg",
+      "url": "/tech-news/2026-01-08/late-night-open-thread-elon-musk-global-child-porn/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Balloon-juice.com"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Nvidia vyžaduje plnou předem platbu za čipy H200 od čínských zákazníků: Zpráva",
+      "description": "Nvidia prý požaduje od čínských kupujících plnou předem platbu za AI čipy H200, aby minimalizovala rizika spojená s nejistotou schválení dodávek čínskými úřady. Čínské firmy objednaly více než 2 miliony těchto čipů, což překračuje aktuální zásoby výrobce.",
+      "slug": "nvidia-requires-full-upfront-payment-for-h200-chip",
+      "publishedAt": "2026-01-08T07:04:36+00:00",
+      "date": "2026-01-08 07:04:36",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-110160,resizemode-75,msid-126409169/tech/artificial-intelligence/nvidia-requires-full-upfront-payment-for-h200-chips-in-china-report.jpg",
+      "url": "/tech-news/2026-01-08/nvidia-requires-full-upfront-payment-for-h200-chip/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Apple odhalené: Definitivní průvodce produktovou mapou pro rok 2026",
+      "description": "Apple chystá pro rok 2026 širokou škálu produktů s důrazem na umělou inteligenci, dostupnější zařízení a lepší integraci ekosystému. Mezi očekávané novinky patří levnější iPhone 17e a pokročilé AI funkce pro personalizaci.",
+      "slug": "apple-unfolded-the-definitive-2026-roadmap-product",
+      "publishedAt": "2026-01-08T07:00:19+00:00",
+      "date": "2026-01-08 07:00:19",
+      "importance": 4,
+      "category": "apple",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/01/Apple-2026.webp",
+      "url": "/tech-news/2026-01-08/apple-unfolded-the-definitive-2026-roadmap-product/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Gary Black: Tesla nebude sama řešit autonomní řízení bez dohledu po odhalení Nvidia Alpamayo: 'Očekávejte rychlou demokratizaci nespolehlivé autonomie'",
+      "description": "Ředitel Future Fund LLC Gary Black tvrdí, že Tesla nebude jediná firma, která vyřeší autonomní řízení bez dohledu řidiče, po odhalení autonomní technologie Alpamayo od Nvidia. Konkurenti Tesla tak mohou brzy nabízet podobná řešení.",
+      "slug": "gary-black-says-tesla-wont-be-alone-in-solving-aut",
+      "publishedAt": "2026-01-08T06:21:10+00:00",
+      "date": "2026-01-08 06:21:10",
+      "importance": 4,
+      "category": "autonomní řízení",
+      "urlToImage": "https://biztoc.com/cdn/6a5638a28ab96cbb_s.webp",
+      "url": "/tech-news/2026-01-08/gary-black-says-tesla-wont-be-alone-in-solving-aut/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "companies": [
+        "Tesla",
+        "Nvidia"
+      ],
+      "people": [
+        "Gary Black"
+      ]
+    },
+    {
+      "title": "Regulace příliš pomalá na zastavení tsunami AI-generovaných sexuálních obrázků dětí",
+      "description": "Aplikace Grok vlastněná Elonem Muskem se stala jednou z nejstahovanějších v Irsku po zprávách o její schopnosti generovat nelegální sexuální obrázky a videa dětí i intimní fotografie bez souhlasu.",
+      "slug": "regulation-too-slow-to-stem-tsunami-of-ai-generate",
+      "publishedAt": "2026-01-08T06:00:01+00:00",
+      "date": "2026-01-08 06:00:01",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/BALOXEJTWVCSNDYU6JIA7KUCEM.jpg?smart=true&auth=f361fdf1d3a0032476cf594fdc7d683999ac89ba62056e2a37aea1598d835028&width=1200&height=630",
+      "url": "/tech-news/2026-01-08/regulation-too-slow-to-stem-tsunami-of-ai-generate/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk"
+      ]
+    },
     {
       "title": "První čínský 'AI tiger' vstupuje na burzu: Zhipu mírně stoupá při debutu v Hong Kongu",
       "description": "Akcie Zhipu, podporované čínskou vládou, mírně vzrostly při debutu na burze v Hong Kongu po úvodní veřejné nabídce v hodnotě 558 milionů dolarů. Firma je prvním významným čínským vývojářem velkých jazykových modelů (LLM), který šel na burzu.",
@@ -540,26 +744,6 @@
         "Boston Dynamics"
       ],
       "people": []
-    },
-    {
-      "title": "Umělá inteligence pomáhá vydláždit cestu autonomním vozům",
-      "description": "I když sen Elona Muska o robotaxi pro všechny ještě není blízko, elegantní elektromobily poháněné umělou inteligencí zaplnily veletrh Consumer Electronics Show a slibují osvobození od nudného řízení. Pustit volant už není fantazie, jak ukazují Waymo v USA a Apollo Go v Číně.",
-      "slug": "ai-helps-pave-the-way-for-self-driving-cars",
-      "publishedAt": "2026-01-07T16:07:32+00:00",
-      "date": "2026-01-07 16:07:32",
-      "importance": 4,
-      "category": "autonomní vozy",
-      "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2026/01/730ecc6dc0ca9e36121d0c054710834dffd8b129.jpg",
-      "url": "/tech-news/2026-01-07/ai-helps-pave-the-way-for-self-driving-cars/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digital Journal"
-      },
-      "companies": [],
-      "people": [
-        "Elon Musk"
-      ]
     },
     {
       "title": "Micron zahajuje stavbu historické megafab v New Yorku",
@@ -3810,104 +3994,6 @@
       ]
     },
     {
-      "title": "Gemini 3.0 Pro od Google pomohl rozluštit dlouho nevyřešenou záhadu v Norimberské kronice",
-      "description": "Velký jazykový model Gemini 3.0 Pro od Google předvedl pokrok v multimodálním uvažování dekódováním ručních okružních poznámek v 500 let starém exempláři Norimberské kroniky z roku 1493. Poznámky obsahují výpočty biblických chronologií slučující Septuagintu a hebrejskou Bibli k určení roku narození Abraháma.",
-      "slug": "googles-gemini-30-pro-helps-solve-long-standing-my",
-      "publishedAt": "2026-01-01T23:50:58+00:00",
-      "date": "2026-01-01 23:50:58",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/4987165508_30008bc80e_c.jpg",
-      "url": "/tech-news/2026-01-01/googles-gemini-30-pro-helps-solve-long-standing-my/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Reportáž: OpenAI plánuje spustit nový audio model v prvním čtvrtletí",
-      "description": "OpenAI Group PBC údajně vyvíjí nový model umělé inteligence optimalizovaný pro generování audia, který by měl být spuštěn do konce března. Model má produkovat přirozenější řeč než současné verze a lépe zvládat interakce v reálném čase.",
-      "slug": "report-openai-plans-to-launch-new-audio-model-in-t",
-      "publishedAt": "2026-01-01T23:44:05+00:00",
-      "date": "2026-01-01 23:44:05",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/OpenAI.png",
-      "url": "/tech-news/2026-01-01/report-openai-plans-to-launch-new-audio-model-in-t/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Křemíkový implantát velikosti poštovní známky okamžitě pošle vaše myšlenky AI",
-      "description": "Výzkumníci z Columbia University vyvinuli tenký implantát BISC, který umožňuje bezdrátové rozhraní mezi mozkem a počítačem s 65 536 elektrodami. Tento subduralní systém cílí na pacienty s epilepsií, mrtvicemi, amyotrofní laterální sklerózou nebo slepotou, kteří jsou uvězněni ve vlastním těle.",
-      "slug": "silicon-postage-stamp-implant-instantly-emails-you",
-      "publishedAt": "2026-01-01T19:00:00+00:00",
-      "date": "2026-01-01 19:00:00",
-      "importance": 4,
-      "category": "kybernetika",
-      "urlToImage": "https://assets.newatlas.com/dims4/default/b2be1dd/2147483647/strip/true/crop/1522x799+0+108/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F2e%2F2b%2F7156e77f4e1e87ca8acb6c1bb2ec%2Fbisc-brain-implant.jpeg&na.image_optimisation=0",
-      "url": "/tech-news/2026-01-01/silicon-postage-stamp-implant-instantly-emails-you/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "New Atlas"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "SpaceX, OpenAI a Anthropic mohou vstoupit na burzu",
-      "description": "SpaceX, OpenAI a Anthropic připravují možné úvodní veřejné nabídky akcií v roce 2026, což by mohlo ovlivnit finanční trhy a překonat současné rekordy veřejných listinzích. Tyto kroky by umožnily širšímu okruhu investorů podílet se na růstu těchto klíčových technologických firem.",
-      "slug": "spacex-openai-anthropic-may-launch-ipos",
-      "publishedAt": "2026-01-01T18:36:48+00:00",
-      "date": "2026-01-01 18:36:48",
-      "importance": 4,
-      "category": "startupy",
-      "urlToImage": "https://cdn.iphoneincanada.ca/wp-content/uploads/2026/01/OpenAI-SpaceX-IPO.jpg",
-      "url": "/tech-news/2026-01-01/spacex-openai-anthropic-may-launch-ipos/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "iPhone in Canada"
-      },
-      "companies": [
-        "SpaceX",
-        "OpenAI",
-        "Anthropic"
-      ],
-      "people": []
-    },
-    {
-      "title": "Přistání na Měsíci, mise na asteroidy a nové teleskopy: Nejvýznamnější momenty kosmických letů v roce 2026",
-      "description": "Od astronautů obíhajících Měsíc po sondy dosahující Merkuru a asteroidů poblíž Země se rok 2026 stává významným rokem pro vesmírný průzkum. Vládní agentury i soukromé firmy plánují mise, které posunou hranice lidské přítomnosti ve vesmíru a prohloubí znalosti Sluneční soustavy.",
-      "slug": "moon-landings-asteroid-missions-and-new-telescopes",
-      "publishedAt": "2026-01-01T17:00:00+00:00",
-      "date": "2026-01-01 17:00:00",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/L8exumuVUaJatGHCPDRuQm-2048-80.jpg",
-      "url": "/tech-news/2026-01-01/moon-landings-asteroid-missions-and-new-telescopes/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Space.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Největší příběhy v kyberbezpečnosti a kyberútocích roku 2025",
       "description": "Rok 2025 byl významným rokem pro kyberbezpečnost díky velkým kyberútokům, únikům dat, rostoucí proslulosti hrozících skupin a exploitaci zero-day zranitelností. Některé příběhy měly větší dopad nebo popularitu mezi čtenáři než ostatní.",
       "slug": "the-biggest-cybersecurity-and-cyberattack-stories-",
@@ -3946,24 +4032,6 @@
       "people": []
     },
     {
-      "title": "Čtyři trendy v AI výzkumu, na které by podnikové týmy měly v roce 2026 dávat pozor",
-      "description": "Roadmap AI výzkumu pro rok 2026 ukazuje, jak agenti schopní učení, samoopravy a simulace reálného světa změní automatizaci v podnicích.",
-      "slug": "four-ai-research-trends-enterprise-teams-should-wa",
-      "publishedAt": "2026-01-01T14:00:41+00:00",
-      "date": "2026-01-01 14:00:41",
-      "importance": 5,
-      "category": "umělá inteligence",
-      "urlToImage": "https://images.ctfassets.net/jdtwqhzvc2n1/388FvHgrtREmt4SIX9wUBh/4bbed81a266f9d68770660b4b81a650b/AI_trends_2026.jpg?w=800&q=75",
-      "url": "/tech-news/2026-01-01/four-ai-research-trends-enterprise-teams-should-wa/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "VentureBeat"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Proces 2 nm společnosti TSMC překoná kumulativní příjmy technologií 3 nm a 5 nm do 3. čtvrtletí 2026 díky růstu AI",
       "description": "Růst AI způsobuje TSMC problémy s kapacitou 2nm nodu, přesto objednávky neklesají i po zvýšení cen od 1. ledna. Příjmy z 2 nm mají do třetího čtvrtletí 2026 překonat kumulativní příjmy z 3 nm a 5 nm.",
       "slug": "tsmcs-2nm-process-to-surpass-the-companys-3nm-5nm-",
@@ -3980,69 +4048,6 @@
       },
       "companies": [
         "TSMC"
-      ],
-      "people": []
-    },
-    {
-      "title": "Elon Musk plánuje vysokoodběrovou výrobu mozkových čipů Neuralink a chce automatizovat chirurgický postup",
-      "description": "Elon Musk uvedl, že implantáty Neuralink přejdou na téměř zcela automatizovaný chirurgický postup v roce 2026. Společnost se připravuje na masovou produkci těchto brain-computer interfaces.",
-      "slug": "elon-musk-plans-high-volume-production-of-neuralin",
-      "publishedAt": "2026-01-01T11:33:14+00:00",
-      "date": "2026-01-01 11:33:14",
-      "importance": 4,
-      "category": "kybernetika",
-      "urlToImage": "https://i.insider.com/69563c8b64858d02d217a0f3?width=1200&format=jpeg",
-      "url": "/tech-news/2026-01-01/elon-musk-plans-high-volume-production-of-neuralin/",
-      "source": {
-        "emoji": "📰",
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "companies": [
-        "Neuralink"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Nvidia kupuje akcie Intelu v hodnotě 5 miliard dolarů, co potřebujete vědět",
-      "description": "Společnost Nvidia odkoupila akcie Intelu (NASDAQ: INTC) v hodnotě 5 miliard dolarů, což podpořilo růst ceny akcií o 2 procenta. Tento krok navazuje na září, kdy Nvidia souhlasila s nákupem za 23,28 dolaru za akcii k posílení produkční kapacity Intelu.",
-      "slug": "nvidia-buys-intel-corporations-intc-shares-worth-5",
-      "publishedAt": "2026-01-01T11:29:34+00:00",
-      "date": "2026-01-01 11:29:34",
-      "importance": 4,
-      "category": "technologické akcie",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/15rK2_2oY7ByOkn0xwM_cg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/fe3d07f390ab832594f0e07094b3f8cd",
-      "url": "/tech-news/2026-01-01/nvidia-buys-intel-corporations-intc-shares-worth-5/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [
-        "Nvidia",
-        "Intel"
-      ],
-      "people": []
-    },
-    {
-      "title": "Američtí federální vyšetřovači pronásledují teenage hackerské skupiny jako Scattered Spider, které od roku 2022 cílí na firmy z Fortune 500 v hodnotě 1 bilionu dolarů",
-      "description": "Neřízení teenageři zaútočili na přibližně 120 firem, včetně Nike, Chick-fil-A, Instacart a News Corporation, často se vydávajíce za IT zaměstnance.",
-      "slug": "feds-are-hunting-teenage-hacking-groups-like-scatt",
-      "publishedAt": "2026-01-01T11:27:00+00:00",
-      "date": "2026-01-01 11:27:00",
-      "importance": 5,
-      "category": "kyberzločin",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-1500416880-e1766424902418.jpg?resize=1200,600",
-      "url": "/tech-news/2026-01-01/feds-are-hunting-teenage-hacking-groups-like-scatt/",
-      "source": {
-        "emoji": "📰",
-        "id": "fortune",
-        "name": "Fortune"
-      },
-      "companies": [
-        "Instacart"
       ],
       "people": []
     }
