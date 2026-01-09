@@ -1,7 +1,87 @@
 {
-  "generated": "2026-01-09T17:04:55.247228+00:00",
+  "generated": "2026-01-09T20:37:59.940012+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Warrenová a Khanová pod tlakem: Kolaps výrobce Roomba posiluje čínský vliv v datech z amerických domácností",
+      "description": "Senátorka Elizabeth Warren a bývalá šéfka FTC Lina Khan čelí kritice za přispění k selhání akvizice iRobot firmou Amazon, což vedlo k bankrotu společnosti a riziku čínského ovládnutí. To ohrožuje národní bezpečnost kvůli sběru dat ze zařízení v domácnostech.",
+      "slug": "mamdani-adviser-warren-in-the-hot-seat-as-collapse",
+      "publishedAt": "2026-01-08T19:53:40+00:00",
+      "date": "2026-01-08 19:53:40",
+      "importance": 4,
+      "category": "robotika",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/12/elizabeth-warren-xi-jinping-lina-khan.png",
+      "url": "/tech-news/2026-01-08/mamdani-adviser-warren-in-the-hot-seat-as-collapse/",
+      "source": {
+        "emoji": "📰",
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "companies": [
+        "Amazon",
+        "iRobot"
+      ],
+      "people": [
+        "Elizabeth Warren",
+        "Lina Khan"
+      ]
+    },
+    {
+      "title": "Universal Music Group spolupracuje s Nvidia na AI pro tvorbu a objevování hudby",
+      "description": "Spolupráce mezi největším hudebním vydavatelstvím na světě a předním výrobcem AI čipů se zaměřuje na využití umělé inteligence k lepšímu objevování hudby a interakci s umělci.",
+      "slug": "universal-partners-with-nvidia-on-ai-music-creatio",
+      "publishedAt": "2026-01-08T19:40:36+00:00",
+      "date": "2026-01-08 19:40:36",
+      "importance": 4,
+      "category": "ai hudba",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2026/01/202601061258MCT_____PHOTO____BIZ-CPT-AI-MUSIC-CREATION-NVIDIA-FILEPIC-DMT.jpg?w=1024&h=682",
+      "url": "/tech-news/2026-01-08/universal-partners-with-nvidia-on-ai-music-creatio/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Boston Herald"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "CrowdStrike kupuje startup SGNL specializující se na bezpečnost identit za 740 milionů dolarů kvůli hrozbám z AI",
+      "description": "CrowdStrike oznámil akvizici startupu SGNL za 740 milionů dolarů, aby posílil své nástroje kyberbezpečnosti proti hrozbám poháněným umělou inteligencí. Tato technologie umožní kontinuální hodnocení identit uživatelů, strojů i AI agentů a zabrání zneužití identit hackery.",
+      "slug": "crowdstrike-to-buy-identity-security-startup-sgnl-",
+      "publishedAt": "2026-01-08T19:09:02+00:00",
+      "date": "2026-01-08 19:09:02",
+      "importance": 4,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--MUHicy9x--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-01-08T191659Z_3_LYNXMPEM0713B_RTROPTP_3_CROWDSTRIKE-HLDG-STOCKS.JPG?itok=5n3yWfm5",
+      "url": "/tech-news/2026-01-08/crowdstrike-to-buy-identity-security-startup-sgnl/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNA"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Gmail přidává AI pro pomoc při psaní zpráv a správu schránky",
+      "description": "Google vylepšuje Gmail funkcemi ze svého modelu Gemini 3. Zde je přehled novinek včetně možnosti odhlášení.",
+      "slug": "gmail-adds-ai-to-help-you-write-messages-and-keep-",
+      "publishedAt": "2026-01-08T19:04:20+00:00",
+      "date": "2026-01-08 19:04:20",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/10/03/d7ae5b23-812f-4722-9c25-466f8b22e5a5/thumbnail/1200x630/2a34c45bb6665c1c2c3ee726046b4608/gettyimages-1008258358.jpg",
+      "url": "/tech-news/2026-01-08/gmail-adds-ai-to-help-you-write-messages-and-keep/",
+      "source": {
+        "emoji": "📺",
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Qualcomm spolupracuje s Googlem na rozšíření Snapdragon Digital Chassis a integrace s Androidem",
       "description": "Čipový výrobce Qualcomm a Google prohloubili partnerství na vývoj chytrých vozů prostřednictvím platforem Android a Snapdragon Digital Chassis. Spolupráce se zaměří na využití AI platformy Gemini k vytvoření Automotive AI Agentu a lepší cloudové integrace.",
@@ -3819,47 +3899,6 @@
       "people": []
     },
     {
-      "title": "Čínský výrobce AI čipů Biren vyskočil o 76 % v nejnovějším IPO v Hong Kongu",
-      "description": "Akcie čínské firmy Shanghai Biren Technology, která navrhuje AI čipy, vzrostly o 76 % při svém debutu na burze v Hong Kongu. Jednalo se o první emisi akcií v tomto finančním centru v roce 2026.",
-      "slug": "chinas-ai-chipmaker-biren-jumps-76-in-latest-hong-",
-      "publishedAt": "2026-01-02T10:57:26+00:00",
-      "date": "2026-01-02 10:57:26",
-      "importance": 4,
-      "category": "ai čipy",
-      "urlToImage": "https://biztoc.com/cdn/dc8e275f6cd73f56_s.webp",
-      "url": "/tech-news/2026-01-02/chinas-ai-chipmaker-biren-jumps-76-in-latest-hong/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "companies": [
-        "Shanghai Biren Technology"
-      ],
-      "people": []
-    },
-    {
-      "title": "Čínská BYD se chystá překonat Tesla v prodejích elektromobilů v roce 2025",
-      "description": "Rostoucí čínský automobilový gigant BYD je připraven oficiálně překonat Tesla jako největšího výrobce elektromobilů podle ročních prodejích. Do konce listopadu prodala 2,07 milionu kusů elektromobilů.",
-      "slug": "chinas-byd-poised-to-overtake-tesla-in-2025-ev-sal",
-      "publishedAt": "2026-01-02T07:17:24+00:00",
-      "date": "2026-01-02 07:17:24",
-      "importance": 4,
-      "category": "elektromobilita",
-      "urlToImage": "https://www.rte.ie/images/0023afb9-1600.jpg",
-      "url": "/tech-news/2026-01-02/chinas-byd-poised-to-overtake-tesla-in-2025-ev-sal/",
-      "source": {
-        "emoji": "📰",
-        "id": "rte",
-        "name": "RTE"
-      },
-      "companies": [
-        "BYD",
-        "Tesla"
-      ],
-      "people": []
-    },
-    {
       "title": "DeepMind tvrdí, že AGI může vzniknout jako síť AI agentů místo jediné superinteligence",
       "description": "Google DeepMind ve svém výzkumu argumentuje, že umělá obecné inteligence (AGI) se nemusí objevit jako jediný superinteligentní systém, ale spíše jako síť spolupracujících AI agentů. Tento přístup souvisí s rostoucím nasazením AI agentů v praxi v roce 2025, kdy přecházejí od asistentů k autonomním vykonavatelům složitých úkolů.",
       "slug": "deepmind-argues-agi-may-emerge-as-network-of-ai-ag",
@@ -3877,26 +3916,6 @@
       "companies": [
         "Google",
         "DeepMind"
-      ],
-      "people": []
-    },
-    {
-      "title": "Čínská DeepSeek zahájila rok 2026 novou metodou trénování AI, kterou analytici označují za průlom pro škálování",
-      "description": "DeepSeek vydala novou metodu trénování umělé inteligence, kterou analytici považují za průlom v škálování velkých jazykových modelů.",
-      "slug": "chinas-deepseek-kicked-off-2026-with-a-new-ai-trai",
-      "publishedAt": "2026-01-02T07:10:41+00:00",
-      "date": "2026-01-02 07:10:41",
-      "importance": 5,
-      "category": "umělá inteligence",
-      "urlToImage": "https://i.insider.com/695759b704eda4732f2e5e1b?width=1200&format=jpeg",
-      "url": "/tech-news/2026-01-02/chinas-deepseek-kicked-off-2026-with-a-new-ai-trai/",
-      "source": {
-        "emoji": "📰",
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "companies": [
-        "DeepSeek"
       ],
       "people": []
     },
@@ -3995,27 +4014,6 @@
         "name": "Digitimes"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Poptávka z Číny tlačí Nvidia k hledání větší kapacity H200 u TSMC",
-      "description": "Nvidia rokuje s TSMC o rozšíření výroby svých H200 čipů pro umělou inteligenci, protože čínské technologické firmy objednávají velká množství pro rok 2026. Tato jednání signalizují pokračující tlak čínské poptávky na globální dodávatelský řetězec.",
-      "slug": "china-demand-pushes-nvidia-to-seek-more-h200-capac",
-      "publishedAt": "2026-01-02T02:49:59+00:00",
-      "date": "2026-01-02 02:49:59",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://img.digitimes.com/newsshow/20260102pd216_files/1_b.jpg",
-      "url": "/tech-news/2026-01-02/china-demand-pushes-nvidia-to-seek-more-h200-capac/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
-      },
-      "companies": [
-        "Nvidia",
-        "TSMC"
-      ],
       "people": []
     },
     {
