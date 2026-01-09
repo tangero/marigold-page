@@ -1,8 +1,8 @@
 {
   "watermark": {
-    "model_id": "bytedance-seed/seed-1.6-flash",
-    "created_timestamp": 1766505011,
-    "updated_at": "2025-12-24T07:25:27.410713"
+    "model_id": "allenai/olmo-3.1-32b-instruct",
+    "created_timestamp": 1767728554,
+    "updated_at": "2026-01-09T07:25:13.387633"
   },
   "analyzed_models": {
     "openai/gpt-5.1-codex-max": {
@@ -134,11 +134,18 @@
       "analyzed_at": "2025-12-24T07:25:27.410700",
       "success": true,
       "file_path": "/home/runner/work/marigold-page/marigold-page/_llm/2025-12-23-bytedance-seed-seed-1-6-flash.md"
+    },
+    "allenai/olmo-3.1-32b-instruct": {
+      "name": "AllenAI: Olmo 3.1 32B Instruct",
+      "created_timestamp": 1767728554,
+      "analyzed_at": "2026-01-09T07:25:13.387619",
+      "success": true,
+      "file_path": "/home/runner/work/marigold-page/marigold-page/_llm/2026-01-06-allenai-olmo-3-1-32b-instruct.md"
     }
   },
   "statistics": {
-    "total_analyzed": 19,
-    "last_check": "2025-12-24T07:25:27.411050",
-    "last_new_models_found": 2
+    "total_analyzed": 20,
+    "last_check": "2026-01-09T07:25:13.387965",
+    "last_new_models_found": 1
   }
 }
