@@ -1,7 +1,86 @@
 {
-  "generated": "2026-01-09T08:47:54.091179+00:00",
+  "generated": "2026-01-09T12:47:02.729551+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Trh displejů pro robotaxi úrovně 4 dosáhne 3,35 miliardy dolarů – globální trendy, příležitosti a strategie 2019–2034",
+      "description": "Trh displejů pro robotaxi úrovně 4 vykazuje růst díky poptávce po sdílené mobilitě, zlepšené bezpečnosti prostřednictvím pokročilých systémů asistence řidiči a rozvoji chytrých městských řešení. Růst pohání urbanizace, udržitelnost a pokroky v technologiích displejů a umělé inteligence.",
+      "slug": "A-335-bn-level-4-robotaxi-display-global-market-tr",
+      "publishedAt": "2026-01-08T12:22:00+00:00",
+      "date": "2026-01-08 12:22:00",
+      "importance": 4,
+      "category": "robotaxi",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "url": "/tech-news/2026-01-08/A-335-bn-level-4-robotaxi-display-global-market-tr/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Aktualizace příkazového řádku Gemini 3 od Google přidává rozšíření dovedností pro vývojáře",
+      "description": "Nejnovější verze Gemini CLI v0.23 přináší funkci Agent Skills, která umožňuje vývojářům vytvářet modulární specializace pro umělou inteligenci specifické pro úkoly, a rámec Gemini Conductor pro správu kontextu projektů pomocí trvalých markdown souborů. Tato aktualizace rozšiřuje bezplatný přístup na model Gemini 3 a zlepšuje integraci AI do terminálového prostředí.",
+      "slug": "googles-gemini-3-command-line-update-adds-skill-ad",
+      "publishedAt": "2026-01-08T12:15:45+00:00",
+      "date": "2026-01-08 12:15:45",
+      "importance": 4,
+      "category": "programování",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/01/google-gemini-command-line-update_optimized.jpg",
+      "url": "/tech-news/2026-01-08/googles-gemini-3-command-line-update-adds-skill-ad/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Montage Technology plánuje prodej akcií v Hong Kongu v hodnotě až 1 miliardy dolarů v lednu, říkají zdroje",
+      "description": "Čínský návrhář polovodičů Montage Technology připravuje druhé uvedení na burzu v Hong Kongu prostřednictvím nabídky akcií v hodnotě 800 milionů až 1 miliardy dolarů ještě tento měsíc. Pokud dosáhne horní hranice, stane se to největší nabídkou v Hong Kongu od září.",
+      "slug": "montage-technology-plans-up-to-1-billion-hong-kong",
+      "publishedAt": "2026-01-08T12:00:51+00:00",
+      "date": "2026-01-08 12:00:51",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/7772df96a8d56e662f375da53f048b08",
+      "url": "/tech-news/2026-01-08/montage-technology-plans-up-to-1-billion-hong-kong/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "Montage Technology"
+      ],
+      "people": []
+    },
+    {
+      "title": "Aurora Mobile gratuluje Zhipu k úspěšnému uvedení na burzu v Hong Kongu",
+      "description": "Aurora Mobile, čínský poskytovatel služeb pro zapojení zákazníků a marketingové technologie, gratuloval společnosti Zhipu k úspěšnému IPO na hlavní palubě Burzy cenných papírů v Hong Kongu. Zhipu se stala první veřejně obchodovanou firmou s jádrem v základních modelech umělé obecné inteligence (AGI).",
+      "slug": "aurora-mobile-congratulates-zhipu-on-successful-ho",
+      "publishedAt": "2026-01-08T12:00:00+00:00",
+      "date": "2026-01-08 12:00:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/5e12f74e-0978-4008-a030-4c2b113ad11e",
+      "url": "/tech-news/2026-01-08/aurora-mobile-congratulates-zhipu-on-successful-ho/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [
+        "Aurora Mobile",
+        "Zhipu"
+      ],
+      "people": []
+    },
     {
       "title": "Fordův konkurent Tesla FSD? Výrobce nabídne 'Eyes-Off' technologii v roce 2028 s elektromobilem za 30 000 USD",
       "description": "Společnost Ford Motor Co. vyvíjí technologii 'eyes-off' podobnou nesupervizovanému systému Full Self-Driving (FSD) od Tesla Inc. a systému Super Cruise od General Motors Co. Plánovaný debut v roce 2028 proběhne s cenově dostupným elektromobilem.",
@@ -3655,26 +3734,6 @@
       "people": []
     },
     {
-      "title": "Akcie designéra AI čipů Biren vyskočily o 76 % na burzovním debutu v Hong Kongu",
-      "description": "Akcie společnosti Shanghai Biren Technology Co. vzrostly téměř o 76 % během prvního obchodního dne v pátek, což představuje nejlepší výkon od začátku roku 2021 mezi emise v Hong Kongu s objemem nejméně 700 milionů dolarů. Biren, čínský výrobce čipů pro umělou inteligenci, tak signalizuje rostoucí zájem investorů o domácí alternativy k západním technologiím.",
-      "slug": "ai-chip-designer-birens-shares-surge-76-on-debut-i",
-      "publishedAt": "2026-01-02T10:24:47+00:00",
-      "date": "2026-01-02 10:24:47",
-      "importance": 4,
-      "category": "ai čipy",
-      "urlToImage": "https://biztoc.com/cdn/2dbce869526a0e0b_s.webp",
-      "url": "/tech-news/2026-01-02/ai-chip-designer-birens-shares-surge-76-on-debut-i/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "companies": [
-        "Shanghai Biren Technology Co"
-      ],
-      "people": []
-    },
-    {
       "title": "Čína a Amerika se musí vážně zabývat riziky AI",
       "description": "Závod o vedení v vojenské, zpravodajské a komerční AI – a o globální adopci amerických nebo čínských modelů – se jen zintenzivní. Jako národní bezpečnostní poradce jsem pracoval na přípravě USA na každý scénář v nejistém spektru rizik.",
       "slug": "china-and-america-must-get-serious-about-ai-risk",
@@ -3992,64 +4051,6 @@
       "people": [
         "David Dorney"
       ]
-    },
-    {
-      "title": "Největší příběhy v kyberbezpečnosti a kyberútocích roku 2025",
-      "description": "Rok 2025 byl významným rokem pro kyberbezpečnost díky velkým kyberútokům, únikům dat, rostoucí proslulosti hrozících skupin a exploitaci zero-day zranitelností. Některé příběhy měly větší dopad nebo popularitu mezi čtenáři než ostatní.",
-      "slug": "the-biggest-cybersecurity-and-cyberattack-stories-",
-      "publishedAt": "2026-01-01T16:15:26+00:00",
-      "date": "2026-01-01 16:15:26",
-      "importance": 5,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2025/12/30/2025.jpg",
-      "url": "/tech-news/2026-01-01/the-biggest-cybersecurity-and-cyberattack-stories/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BleepingComputer"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Horší než (většina) lidí: Bezřidičové taxi Waymo narušilo zásah hasičů na místě požáru",
-      "description": "Autonomní taxi Waymo se spletlo v jízdě a vjelo přímo do aktivního místa požáru v Los Angeles v Kalifornii. Vozidlo ignorovalo uzavírku a zůstalo v uzavřené zóně asi deset minut.",
-      "slug": "worse-than-most-humans-driverless-waymo-taxi-disru",
-      "publishedAt": "2026-01-01T16:08:03+00:00",
-      "date": "2026-01-01 16:08:03",
-      "importance": 4,
-      "category": "autonomní vozy",
-      "urlToImage": "https://media.breitbart.com/media/2025/12/Driverless-Waymo-car-causing-traffic-havoc-640x335.jpg",
-      "url": "/tech-news/2026-01-01/worse-than-most-humans-driverless-waymo-taxi-disru/",
-      "source": {
-        "emoji": "📰",
-        "id": "breitbart-news",
-        "name": "Breitbart News"
-      },
-      "companies": [
-        "Waymo"
-      ],
-      "people": []
-    },
-    {
-      "title": "Proces 2 nm společnosti TSMC překoná kumulativní příjmy technologií 3 nm a 5 nm do 3. čtvrtletí 2026 díky růstu AI",
-      "description": "Růst AI způsobuje TSMC problémy s kapacitou 2nm nodu, přesto objednávky neklesají i po zvýšení cen od 1. ledna. Příjmy z 2 nm mají do třetího čtvrtletí 2026 překonat kumulativní příjmy z 3 nm a 5 nm.",
-      "slug": "tsmcs-2nm-process-to-surpass-the-companys-3nm-5nm-",
-      "publishedAt": "2026-01-01T11:55:06+00:00",
-      "date": "2026-01-01 11:55:06",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/01/TSMC-factory.jpg",
-      "url": "/tech-news/2026-01-01/tsmcs-2nm-process-to-surpass-the-companys-3nm-5nm/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Wccftech"
-      },
-      "companies": [
-        "TSMC"
-      ],
-      "people": []
     }
   ]
 }
