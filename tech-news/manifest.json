@@ -1,21 +1,61 @@
 {
-  "generated": "2026-01-09T01:20:04.579891+00:00",
+  "generated": "2026-01-09T04:53:48.154216+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "Soudce naznačil, že žaloba Elona Muska za podvod proti OpenAI zamíří k porotě",
-      "description": "Federální soudce Yvonne Gonzalez Rogers odmítne návrh OpenAI na zamítnutí žaloby Elona Muska a případ pošle k porotě. Musk obviňuje OpenAI z podvodu při přechodu z neziskové organizace na ziskovou firmu s hodnotou 500 miliard dolarů.",
+      "title": "První čínský 'AI tiger' vstupuje na burzu: Zhipu mírně stoupá při debutu v Hong Kongu",
+      "description": "Akcie Zhipu, podporované čínskou vládou, mírně vzrostly při debutu na burze v Hong Kongu po úvodní veřejné nabídce v hodnotě 558 milionů dolarů. Firma je prvním významným čínským vývojářem velkých jazykových modelů (LLM), který šel na burzu.",
+      "slug": "chinas-first-ai-tiger-goes-public-as-zhipu-climbs-",
+      "publishedAt": "2026-01-08T04:30:57+00:00",
+      "date": "2026-01-08 04:30:57",
+      "importance": 4,
+      "category": "ai startupy",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108164338-1750918943889-gettyimages-2206295278-TFSPI_24032025-5829.jpeg?v=1767842302&w=1920&h=1080",
+      "url": "/tech-news/2026-01-08/chinas-first-ai-tiger-goes-public-as-zhipu-climbs/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [
+        "Zhipu"
+      ],
+      "people": []
+    },
+    {
+      "title": "OpenAI spouští ChatGPT Health pro propojení lékařských záznamů a wellness aplikací",
+      "description": "Tento krok rozšiřuje možnosti ChatGPT vytvořením vyhrazené sekce pro zdravotní informace, což je jedna z nejoblíbenějších oblastí používání chatbota. Uživatelé mohou nahrávat lékařské záznamy a propojovat aplikace jako Apple Health nebo MyFitnessPal.",
+      "slug": "openai-launches-chatgpt-health-to-connect-medical-",
+      "publishedAt": "2026-01-08T04:28:57+00:00",
+      "date": "2026-01-08 04:28:57",
+      "importance": 4,
+      "category": "zdravotní ai",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/1t0e4a/article70485144.ece/alternates/LANDSCAPE_1200/2025-10-25T214801Z_1894749335_RC2LU7AND8X8_RTRMADP_3_OPENAI-INVESTMENT-SOFTBANK.JPG",
+      "url": "/tech-news/2026-01-08/openai-launches-chatgpt-health-to-connect-medical/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Soudkyně naznačila, že spor Elona Muska proti OpenAI o podvod půjde k porotě",
+      "description": "Federální soudkyně v úterý naznačila, že porota rozhodne, zda OpenAI podvedlo svého spoluzakladatele Elona Muska při přechodu z neziskové výzkumné laboratoře na ziskovou firmu oceňovanou na 500 miliard dolarů. Soudkyně odmítne návrh OpenAI na zamítnutí případu a připraví proces, kde mohou svědčit Musk i Altman.",
       "slug": "judge-indicates-elon-musks-fraud-lawsuit-against-o",
-      "publishedAt": "2026-01-08T00:35:44+00:00",
-      "date": "2026-01-08 00:35:44",
+      "publishedAt": "2026-01-08T03:11:45+00:00",
+      "date": "2026-01-08 03:11:45",
       "importance": 4,
       "category": "ai",
-      "urlToImage": null,
+      "urlToImage": "https://cmg-cmg-tv-10080-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FQ5GNYBCHRQ2EXFG5BTT6UT37K4.jpg?auth=5e37df61ca605b23ac7ceaf891ee8bfe8bf6253b846300a2b03ba85be8ea05c4&width=1200&height=630&smart=true",
       "url": "/tech-news/2026-01-08/judge-indicates-elon-musks-fraud-lawsuit-against-o/",
       "source": {
         "emoji": "📰",
-        "id": "financial-post",
-        "name": "Financial Post"
+        "id": null,
+        "name": "WPXI Pittsburgh"
       },
       "companies": [
         "OpenAI"
@@ -23,6 +63,144 @@
       "people": [
         "Elon Musk"
       ]
+    },
+    {
+      "title": "Čínské technologické firmy vedené Zhipu AI úspěšně debutují v Hong Kongu",
+      "description": "Tři čínské technologické společnosti získaly na burze v Hong Kongu celkem 9,3 miliardy HK dolarů a připravují se na vyšší otevření obchodování. Mezi nimi vyniká Zhipu AI, která se zaměřuje na umělou inteligenci, spolu s firmou na polovodiče Iluvator CoreX a výrobcem chirurgických robotů Shenzhen Edge Medical.",
+      "slug": "chinese-tech-companies-led-by-zhipu-ai-to-rise-in-",
+      "publishedAt": "2026-01-08T02:57:59+00:00",
+      "date": "2026-01-08 02:57:59",
+      "importance": 4,
+      "category": "burzovní debut",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-230582,resizemode-75,msid-126405543/tech/technology/chinese-tech-companies-led-by-zhipu-ai-to-rise-in-hong-kong-debut.jpg",
+      "url": "/tech-news/2026-01-08/chinese-tech-companies-led-by-zhipu-ai-to-rise-in/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Zhipu AI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Masivní zlepšení výkonu inference směsi expertů na NVIDIA Blackwell",
+      "description": "NVIDIA představuje aktualizace svého softwaru pro inference na architektuře Blackwell, které výrazně zvyšují propustnost tokenů u modelů typu směs expertů (MoE), jako je DeepSeek-R1. Tato optimalizace kombinuje hardwareové inovace s softwarem TensorRT-LLM pro nižší náklady na zpracování.",
+      "slug": "delivering-massive-performance-leaps-for-mixture-o",
+      "publishedAt": "2026-01-08T02:43:29+00:00",
+      "date": "2026-01-08 02:43:29",
+      "importance": 4,
+      "category": "ai hardware",
+      "urlToImage": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/01/gb200-nvl-rack-gtc24-press-1920x1080-1.jpg",
+      "url": "/tech-news/2026-01-08/delivering-massive-performance-leaps-for-mixture-o/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Nvidia.com"
+      },
+      "companies": [
+        "NVIDIA"
+      ],
+      "people": []
+    },
+    {
+      "title": "Ford zvyšuje ambice v autonomním řízení a vyvíjí klíčovou technologii interně",
+      "description": "Ford oznámil plány nasadit technologii autonomního řízení bez nutnosti sledovat silnici na veřejných komunikacích do roku 2028. Tradiční automobilka technologie vyvíjí vlastními silami.",
+      "slug": "ford-is-revving-up-its-self-driving-ambitions-and-",
+      "publishedAt": "2026-01-08T02:21:36+00:00",
+      "date": "2026-01-08 02:21:36",
+      "importance": 4,
+      "category": "autonomní řízení",
+      "urlToImage": "https://i.insider.com/695ef11764858d02d217f52b?width=1200&format=jpeg",
+      "url": "/tech-news/2026-01-08/ford-is-revving-up-its-self-driving-ambitions-and/",
+      "source": {
+        "emoji": "📰",
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Tři čínské technologické akcie rostou při burzovním debutu v Hong Kongu díky zájmu investorů o AI a robotiku",
+      "description": "Čínský startup Zhipu AI vedl trojici nových technologických uvedení na burzu v Hong Kongu, což představuje test důvěry investorů v čínský AI sektor konkurující americkým gigantům. Akcie pekingské firmy vzrostly o 3,3 procenta na 120 HKD při otevření.",
+      "slug": "A-3-chinese-tech-stocks-gain-in-hong-kong-debuts-a",
+      "publishedAt": "2026-01-08T01:55:50+00:00",
+      "date": "2026-01-08 01:55:50",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://biztoc.com/cdn/566c29563fd46d37_s.webp",
+      "url": "/tech-news/2026-01-08/A-3-chinese-tech-stocks-gain-in-hong-kong-debuts-a/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "companies": [
+        "Zhipu AI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Rival OpenAI Zhipu AI debutuje v Hong Kongu s valuací 558 milionů dolarů",
+      "description": "Akcie společnosti Knowledge Atlas Technology, známé jako Zhipu AI, vzrostly o 3,3 procenta při svém debutu na burze v Hong Kongu, což otevírá řadu úvazování firem v oblasti umělé inteligence v roce 2026. Čínský AI unicorn, který čelí zákazu v USA, plánuje expanzi do jihovýchodní Asie.",
+      "slug": "openai-rival-zhipu-ai-makes-hong-kong-debut-at-558",
+      "publishedAt": "2026-01-08T01:55:35+00:00",
+      "date": "2026-01-08 01:55:35",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://biztoc.com/cdn/97ddc9102f22245a_s.webp",
+      "url": "/tech-news/2026-01-08/openai-rival-zhipu-ai-makes-hong-kong-debut-at-558/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "companies": [
+        "OpenAI",
+        "Zhipu AI"
+      ],
+      "people": []
+    },
+    {
+      "title": "S&P 500 uzavřel v mínusu, akcie umělé inteligence zvedly Nasdaq",
+      "description": "Index S&P 500 klesl kvůli poklesům ve finančním sektoru, zatímco Nasdaq vzrostl díky akcím firem spojených s AI jako Nvidia a Alphabet. Návrh prezidenta Trumpa na zákaz nákupu rodinných domů velkými investory ovlivnil realitní a obranné akcie, investoři se vracejí k AI titúlům.",
+      "slug": "sp-500-ends-lower-ai-stocks-buoy-nasdaq",
+      "publishedAt": "2026-01-08T01:55:31+00:00",
+      "date": "2026-01-08 01:55:31",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126404911,width-1200,height-630,imgsize-953008,overlay-etmarkets/articleshow.jpg",
+      "url": "/tech-news/2026-01-08/sp-500-ends-lower-ai-stocks-buoy-nasdaq/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Nvidia",
+        "Alphabet"
+      ],
+      "people": []
+    },
+    {
+      "title": "Vláda zasahuje proti Grokovi; indická právní mezera u deepfakes",
+      "description": "Indická vláda požaduje od platformy X podrobnější údaje o obscénním obsahu generovaném AI chatbotem Grok. Tato novinka a další témata v ETtech Morning Dispatch.",
+      "slug": "govt-cracks-down-on-grok-indias-legal-gap-on-deepf",
+      "publishedAt": "2026-01-08T01:29:11+00:00",
+      "date": "2026-01-08 01:29:11",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126404659,width-1070,height-580,imgsize-1906572,overlay-ettech/editionshow.jpg",
+      "url": "/tech-news/2026-01-08/govt-cracks-down-on-grok-indias-legal-gap-on-deepf/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": []
     },
     {
       "title": "X oznamuje zavádění dalších bezpečnostních mechanismů pro Grok a vylepšování ochranných prahů",
@@ -3632,27 +3810,6 @@
       ]
     },
     {
-      "title": "Divize Baidu pro AI čipy Kunlunxin důvěrně podala žádost o listink na hongkongské burze",
-      "description": "Čínský internetový gigant Baidu oznámil, že jeho divize pro AI čipy Kunlunxin podala 1. ledna důvěrnou žádost o úvodní veřejnou nabídku na hongkongské burze. Tento krok umožní oddělení divize při zachování kontroly Baidu a probíhá v kontextu čínských snah o domácí čipy kvůli americkým exportním omezením.",
-      "slug": "baidus-ai-chip-arm-kunlunxin-files-confidentially-",
-      "publishedAt": "2026-01-01T23:55:27+00:00",
-      "date": "2026-01-01 23:55:27",
-      "importance": 4,
-      "category": "ai čipy",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_3_1733465099406_1733465108677.png",
-      "url": "/tech-news/2026-01-01/baidus-ai-chip-arm-kunlunxin-files-confidentially/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Livemint"
-      },
-      "companies": [
-        "Baidu",
-        "Kunlunxin"
-      ],
-      "people": []
-    },
-    {
       "title": "Gemini 3.0 Pro od Google pomohl rozluštit dlouho nevyřešenou záhadu v Norimberské kronice",
       "description": "Velký jazykový model Gemini 3.0 Pro od Google předvedl pokrok v multimodálním uvažování dekódováním ručních okružních poznámek v 500 let starém exempláři Norimberské kroniky z roku 1493. Poznámky obsahují výpočty biblických chronologií slučující Septuagintu a hebrejskou Bibli k určení roku narození Abraháma.",
       "slug": "googles-gemini-30-pro-helps-solve-long-standing-my",
@@ -3733,24 +3890,6 @@
       "people": []
     },
     {
-      "title": "Modely umělé inteligence mohou rozvinout ‚lidskou‘ závislost na hazardu při větší svobodě: studie",
-      "description": "Velké jazykové modely opakovaně pronásledovaly ztráty, zvyšovaly riziko a dokonce se dostaly do bankrotu v simulovaných hazardních prostředích, ukázala studie z Jižní Koreje.",
-      "slug": "ai-models-can-develop-humanlike-gambling-addiction",
-      "publishedAt": "2026-01-01T18:27:38+00:00",
-      "date": "2026-01-01 18:27:38",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/01/118111307.jpg?quality=75&strip=all&w=1200",
-      "url": "/tech-news/2026-01-01/ai-models-can-develop-humanlike-gambling-addiction/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "New York Post"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Přistání na Měsíci, mise na asteroidy a nové teleskopy: Nejvýznamnější momenty kosmických letů v roce 2026",
       "description": "Od astronautů obíhajících Měsíc po sondy dosahující Merkuru a asteroidů poblíž Země se rok 2026 stává významným rokem pro vesmírný průzkum. Vládní agentury i soukromé firmy plánují mise, které posunou hranice lidské přítomnosti ve vesmíru a prohloubí znalosti Sluneční soustavy.",
       "slug": "moon-landings-asteroid-missions-and-new-telescopes",
@@ -3803,26 +3942,6 @@
       },
       "companies": [
         "Waymo"
-      ],
-      "people": []
-    },
-    {
-      "title": "CEO AI startupu Lovable vidí AGI jako softwareový systém; plánuje nábor zakladatelů pro rok 2026",
-      "description": "Zakladatel a CEO švédského AI startupu Lovable Anton Osika prohlásil, že umělá obecné inteligence (AGI) lze dosáhnout týmovou prací a algoritmy, nikoli pouze jedním velkým jazykovým modelem. Oznámil ambiciózní nábor současných a bývalých zakladatelů startupů do týmu ve Stockholmu a cíl stát se jedním z mála subjektů schopných AGI vybudovat do roku 2025.",
-      "slug": "ai-coding-startup-lovable-ceo-envisions-agi-as-sof",
-      "publishedAt": "2026-01-01T15:15:41+00:00",
-      "date": "2026-01-01 15:15:41",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-99250,resizemode-75,msid-126289898/tech/artificial-intelligence/ai-coding-startup-lovable-ceo-envisions-agi-as-software-system-eyes-founder-led-hiring-push-for-2026.jpg",
-      "url": "/tech-news/2026-01-01/ai-coding-startup-lovable-ceo-envisions-agi-as-sof/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Lovable"
       ],
       "people": []
     },
@@ -3925,121 +4044,6 @@
       "companies": [
         "Instacart"
       ],
-      "people": []
-    },
-    {
-      "title": "10 vrcholových manažerů sdílelo své předpovědi o AI pro rok 2026",
-      "description": "Od agentických plateb přes kybernetické hrozby až po automatizaci práce na pracovišti – přední manažeři sdílejí své předpovědi, jak AI přetvoří rok 2026.",
-      "slug": "A-10-executives-shared-their-2026-ai-predictions-w",
-      "publishedAt": "2026-01-01T10:36:01+00:00",
-      "date": "2026-01-01 10:36:01",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://i.insider.com/69555ce964858d02d21799b4?width=1200&format=jpeg",
-      "url": "/tech-news/2026-01-01/A-10-executives-shared-their-2026-ai-predictions-w/",
-      "source": {
-        "emoji": "📰",
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Komentář: Dohoda Nvidia s Groq mění polovodičovou branži třemi klíčovými způsoby",
-      "description": "Největší novinkou v rozvoji AI čipů je neexkluzivní licenční dohoda Nvidia s Groq. Nvidia investovala 20 miliard USD do získání licence na technologii Groq a převzala její jádro inženýrského týmu.",
-      "slug": "commentary-nvidias-groq-deal-reshapes-semiconducto",
-      "publishedAt": "2026-01-01T07:45:40+00:00",
-      "date": "2026-01-01 07:45:40",
-      "importance": 5,
-      "category": "polovodiče",
-      "urlToImage": "https://img.digitimes.com/newsshow/20251231pd230_files/2_b.jpg",
-      "url": "/tech-news/2026-01-01/commentary-nvidias-groq-deal-reshapes-semiconducto/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
-      },
-      "companies": [
-        "Nvidia",
-        "Groq"
-      ],
-      "people": []
-    },
-    {
-      "title": "Od prachu k datovým centrům: Rok, kdy AI technologickí giganti a miliardy v dluzích začali přetvářet americkou krajinu",
-      "description": "Velké technologické firmy přetvářejí mapu USA do AI impéria – datová centra v rozměrech království, bezprecedentní dluhy, omezení energie a víra ve škálování.",
-      "slug": "dust-to-data-centers-the-year-ai-tech-giants-and-b",
-      "publishedAt": "2026-01-01T03:13:37+00:00",
-      "date": "2026-01-01 03:13:37",
-      "importance": 4,
-      "category": "datová centra",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108203465-1758736724150-gettyimages-2236733575-STARGATE_DATA_CENTER.jpeg?v=1767148020&w=1920&h=1080",
-      "url": "/tech-news/2026-01-01/dust-to-data-centers-the-year-ai-tech-giants-and-b/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNBC"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Čínský výrobce grafických karet Biren získal 717 milionů dolarů při IPO",
-      "description": "Společnost Shanghai Biren Intelligent Technology, dodavatel grafických karet pro datová centra, získala v hongkongském IPO ekvivalent 717 milionů dolarů prodejem 284,8 milionu akcií za 19,6 hongkongského dolara za kus. Poptávka u institucionálních investorů překonala nabídku 26násobně.",
-      "slug": "chinese-graphics-card-maker-biren-raises-717m-in-i",
-      "publishedAt": "2026-01-01T00:54:43+00:00",
-      "date": "2026-01-01 00:54:43",
-      "importance": 4,
-      "category": "hardware",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/unsplash-chip.png",
-      "url": "/tech-news/2026-01-01/chinese-graphics-card-maker-biren-raises-717m-in-i/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Shanghai Biren Intelligent Technology Co"
-      ],
-      "people": []
-    },
-    {
-      "title": "Čína posouvá přístup k robotům do mainstreamu službou rychlého půjčování za 1 RMB od Qingtianzhu",
-      "description": "Čínská firma Qingtianzhu spustila službu půjčování humanoidních robotů za symbolickou cenu 1 RMB v deseti velkých městech. Iniciativa má urychlit adopci robotů v komerčním a veřejném prostředí prostřednictvím rychlé rezervace přes QR kód.",
-      "slug": "china-pushes-robot-access-mainstream-with-qingtian",
-      "publishedAt": "2026-01-01T00:29:06+00:00",
-      "date": "2026-01-01 00:29:06",
-      "importance": 4,
-      "category": "robotika",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/12/Qingtianzhu.png",
-      "url": "/tech-news/2026-01-01/china-pushes-robot-access-mainstream-with-qingtian/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Qingtianzhu"
-      ],
-      "people": []
-    },
-    {
-      "title": "Si Ťin-pching chválí čínské úspěchy v umělé inteligenci a čipech v triumfálním novoročním projevu",
-      "description": "„Čína se stala jednou z nejrychleji rostoucích ekonomik světa z hlediska inovativní kapacity,“ prohlásil Si v televizním projevu ve středu.",
-      "slug": "xi-touts-chinas-ai-chip-wins-in-triumphant-new-yea",
-      "publishedAt": "2025-12-31T20:03:00+00:00",
-      "date": "2025-12-31 20:03:00",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2243883682-e1767211347134.jpg?resize=1200,600",
-      "url": "/tech-news/2025-12-31/xi-touts-chinas-ai-chip-wins-in-triumphant-new-yea/",
-      "source": {
-        "emoji": "📰",
-        "id": "fortune",
-        "name": "Fortune"
-      },
-      "companies": [],
       "people": []
     }
   ]
