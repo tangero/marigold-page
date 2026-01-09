@@ -1,7 +1,215 @@
 {
-  "generated": "2026-01-09T12:47:02.729551+00:00",
+  "generated": "2026-01-09T17:04:55.247228+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Qualcomm spolupracuje s Googlem na rozšíření Snapdragon Digital Chassis a integrace s Androidem",
+      "description": "Čipový výrobce Qualcomm a Google prohloubili partnerství na vývoj chytrých vozů prostřednictvím platforem Android a Snapdragon Digital Chassis. Spolupráce se zaměří na využití AI platformy Gemini k vytvoření Automotive AI Agentu a lepší cloudové integrace.",
+      "slug": "qualcomm-teams-up-with-google-to-expand-snapdragon",
+      "publishedAt": "2026-01-08T16:40:16+00:00",
+      "date": "2026-01-08 16:40:16",
+      "importance": 4,
+      "category": "chytré vozy",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/01/Screenshot-2026-01-08-at-8.43.58-PM-scaled.png",
+      "url": "/tech-news/2026-01-08/qualcomm-teams-up-with-google-to-expand-snapdragon/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Wccftech"
+      },
+      "companies": [
+        "Qualcomm",
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Soudce rozhodl, že spor Elona Muska proti OpenAI Sama Altmana postoupí k porotnímu soudu",
+      "description": "Federální soudkyně v Kalifornii Yvonne Gonzalez Rogers zamítla návrhy právníků OpenAI na zamítnutí žaloby Elona Muska. Případ, který se týká změny struktury společnosti z neziskové na ziskově orientovanou, půjde k hlavnímu přelíčení v březnu.",
+      "slug": "judge-rules-elon-musks-lawsuit-against-sam-altmans",
+      "publishedAt": "2026-01-08T16:39:04+00:00",
+      "date": "2026-01-08 16:39:04",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://media.breitbart.com/media/2026/01/Elon-Musk-takes-Sam-Altman-to-court-640x335.jpg",
+      "url": "/tech-news/2026-01-08/judge-rules-elon-musks-lawsuit-against-sam-altmans/",
+      "source": {
+        "emoji": "📰",
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": [
+        "Elon Musk",
+        "Sam Altman"
+      ]
+    },
+    {
+      "title": "Nové funkce umělé inteligence v Gmailu, které z něj činí osobního asistenta",
+      "description": "Google oznámil nové funkce umělé inteligence pro Gmail, které umožňují personalizované psaní e-mailů, vyhledávání informací v schránce a generování seznamů úkolů. Tyto nástroje by měly proměnit e-mailovou službu s více než 3 miliardami uživatelů v osobního asistenta, přičemž dostupnost začíná v USA v angličtině.",
+      "slug": "gmails-new-ai-features-turning-it-into-personal-as",
+      "publishedAt": "2026-01-08T16:27:54+00:00",
+      "date": "2026-01-08 16:27:54",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-15484,resizemode-75,msid-126418805/tech/technology/gmails-new-ai-features-turning-it-into-personal-assistant.jpg",
+      "url": "/tech-news/2026-01-08/gmails-new-ai-features-turning-it-into-personal-as/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Cyera vsadí na bezpečnost dat pro AI s kolem 400 milionů dolarů a valuací 9 miliard",
+      "description": "Společnost Cyera, specializující se na umělou inteligenci a bezpečnost dat, získala 400 milionů dolarů v Series F kole financování, což zvyšuje její valuaci na 9 miliard dolarů. Kolo vedl Blackstone s účastí dalších významných investorů, šest měsíců po předchozím kole za 540 milionů dolarů.",
+      "slug": "cyera-bets-big-on-ai-data-security-with-400m-round",
+      "publishedAt": "2026-01-08T16:25:29+00:00",
+      "date": "2026-01-08 16:25:29",
+      "importance": 4,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/695ea327a0916ed1a498f8f4_Fuel-for-What-Comes-Next_v1-opengraph.png",
+      "url": "/tech-news/2026-01-08/cyera-bets-big-on-ai-data-security-with-400m-round/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Cyera Ltd"
+      ],
+      "people": []
+    },
+    {
+      "title": "Vysoké náklady solid-state baterií konečně řešeny úpravou struktury elektrolytu s levnějšími materiály",
+      "description": "První vozidlo s solid-state baterií dostupné k nákupu v USA je motorka Verge TS Pro, jejíž cena odpovídá základnímu modelu Tesla Model 3. Nový výzkum umožňuje výrobu těchto baterií z levnějších materiálů bez ztráty výkonu.",
+      "slug": "high-solid-state-battery-costs-finally-addressed-w",
+      "publishedAt": "2026-01-08T16:22:00+00:00",
+      "date": "2026-01-08 16:22:00",
+      "importance": 5,
+      "category": "elektromobilita",
+      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/NIO-ET5-sedan.jpg",
+      "url": "/tech-news/2026-01-08/high-solid-state-battery-costs-finally-addressed-w/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Notebookcheck.net"
+      },
+      "companies": [
+        "Verge",
+        "Tesla"
+      ],
+      "people": []
+    },
+    {
+      "title": "Fiserv spolupracuje s Microsoftem na rozšíření využití umělé inteligence",
+      "description": "Poskytovatel technologií pro platby a finanční služby Fiserv zahájil partnerství s Microsoftem zaměřené na umělou inteligenci. Spolupráce má integrovat AI hlouběji do vývojových platforem Fiservu a poskytnout zaměstnancům širší přístup k nástrojům jako Microsoft 365 Copilot.",
+      "slug": "fiserv-teams-with-microsoft-to-expand-ai-use",
+      "publishedAt": "2026-01-08T16:20:27+00:00",
+      "date": "2026-01-08 16:20:27",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2023/02/Fiserv-1.jpg",
+      "url": "/tech-news/2026-01-08/fiserv-teams-with-microsoft-to-expand-ai-use/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [
+        "Fiserv",
+        "Microsoft"
+      ],
+      "people": []
+    },
+    {
+      "title": "EU zvyšuje tlak na X kvůli AI-generovaným sexualizovaným obrázkům",
+      "description": "Evropská unie zintenzivňuje vyšetřování platformy X kvůli sexuálně explicitním AI-generovaným obrázkům dětí sdíleným na sociální síti vlastněné Elonem Muskem. Evropská komise nařídila americké společnosti uchovat interní dokumenty týkající se chatbota Grok.",
+      "slug": "eu-steps-up-pressure-on-x-over-ai-generated-sexual",
+      "publishedAt": "2026-01-08T16:10:44+00:00",
+      "date": "2026-01-08 16:10:44",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://media.zenfs.com/en/dpa_international_526/dc74708041fc27998c75e7ff142efd41",
+      "url": "/tech-news/2026-01-08/eu-steps-up-pressure-on-x-over-ai-generated-sexual/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Dpa-international.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "D-Wave přebírá Quantum Circuits, spinout z Yale",
+      "description": "Yale Ventures gratuluje spinoutu Quantum Circuits, založenému profesorem Yale Dr. Robem Schoelkopfem, k akvizici firmou D-Wave, globálním lídrem v kvantových počítačích a službách. Transakce urychlí vývoj chybově toleratních kvantových počítačů a posílí roli New Haven jako centra kvantového výzkumu.",
+      "slug": "yale-spinout-quantum-circuits-to-be-acquired-by-d-",
+      "publishedAt": "2026-01-08T16:09:48+00:00",
+      "date": "2026-01-08 16:09:48",
+      "importance": 5,
+      "category": "kvantové počítače",
+      "urlToImage": null,
+      "url": "/tech-news/2026-01-08/yale-spinout-quantum-circuits-to-be-acquired-by-d/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yale.edu"
+      },
+      "companies": [
+        "Quantum Circuits",
+        "D-Wave"
+      ],
+      "people": [
+        "Rob Schoelkopf"
+      ]
+    },
+    {
+      "title": "Japonská agentura pro vědu a technologii vyvíjí robota Moonshot pro péči o seniory s technologií NVIDIA",
+      "description": "Program Moonshot financovaný Japonskou agenturou pro vědu a technologii (JST) integruje technologie NVIDIA do vývoje AI robotů pro každodenní péči o starší obyvatele. Cílem je vytvořit autonomní systémy schopné vaření, úklidu a hygienické péče, které se do roku 2050 staly součástí japonských domácností.",
+      "slug": "japan-science-and-technology-agency-develops-nvidi",
+      "publishedAt": "2026-01-08T16:00:29+00:00",
+      "date": "2026-01-08 16:00:29",
+      "importance": 4,
+      "category": "robotika",
+      "urlToImage": "https://blogs.nvidia.com/wp-content/uploads/2026/01/Copy-of-Blog-1280x680.pptx_.jpg",
+      "url": "/tech-news/2026-01-08/japan-science-and-technology-agency-develops-nvidi/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Nvidia.com"
+      },
+      "companies": [
+        "NVIDIA",
+        "Japan Science and Technology Agency"
+      ],
+      "people": []
+    },
+    {
+      "title": "Leden 2026 FinTech Portfolio Startuje s Novými Pohledy na Konverzační AI, Otevřené Platby a Další",
+      "description": "BizClik vydalo leden 2026 vydání FinTech Magazine s analýzami trendů v konverzační AI, otevřených platbách, digitálním bankovnictví a globálních fintech vývoji. Portfolio zahrnuje rozhovory s lídry, jako je CEO OpenAI Applications Fidji Simo, a zprávy o financování Ripple za 500 milionů dolarů.",
+      "slug": "january-2026-fintech-portfolio-launches-with-new-i",
+      "publishedAt": "2026-01-08T16:00:00+00:00",
+      "date": "2026-01-08 16:00:00",
+      "importance": 4,
+      "category": "fintech",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/24b08c15-9c1d-4ae9-bc85-f7e314b30650",
+      "url": "/tech-news/2026-01-08/january-2026-fintech-portfolio-launches-with-new-i/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [
+        "BizClik"
+      ],
+      "people": []
+    },
     {
       "title": "Trh displejů pro robotaxi úrovně 4 dosáhne 3,35 miliardy dolarů – globální trendy, příležitosti a strategie 2019–2034",
       "description": "Trh displejů pro robotaxi úrovně 4 vykazuje růst díky poptávce po sdílené mobilitě, zlepšené bezpečnosti prostřednictvím pokročilých systémů asistence řidiči a rozvoji chytrých městských řešení. Růst pohání urbanizace, udržitelnost a pokroky v technologiích displejů a umělé inteligence.",
@@ -3382,27 +3590,6 @@
       ]
     },
     {
-      "title": "BYD překonalo Teslu v prodejích čistě elektrických vozidel za rok 2025 a získalo globální vedení v BEV",
-      "description": "Po letech konkurenčního boje po čtvrtletích BYD oficiálně překonalo Teslu jako největšího světového výrobce čistě elektrických vozidel (BEV) za celý rok 2025. Rozdíl nebyl těsný, BYD prodalo o více než 600 tisíc kusů více.",
-      "slug": "byd-officially-crushes-tesla-in-all-electric-sales",
-      "publishedAt": "2026-01-02T19:36:13+00:00",
-      "date": "2026-01-02 19:36:13",
-      "importance": 4,
-      "category": "elektromobilita",
-      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/01/Tesla-BYD-sales.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2026-01-02/byd-officially-crushes-tesla-in-all-electric-sales/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Electrek"
-      },
-      "companies": [
-        "BYD",
-        "Tesla"
-      ],
-      "people": []
-    },
-    {
       "title": "Indie nařizuje Muskově X opravit Grok kvůli obscénnímu obsahu generovanému AI | TechCrunch",
       "description": "Indie nařídila platformě X Elona Muska provést okamžité změny v AI chatbotu Grok kvůli generování obscénního obsahu, jako jsou AI upravené obrázky žen v bikiních a sexuálně explicitní zobrazení dětí. Ministerstvo IT dává 72 hodin na opravy a podání zprávy, jinak hrozí ztráta právní imunity.",
       "slug": "india-orders-musks-x-to-fix-grok-over-obscene-ai-c",
@@ -3504,26 +3691,6 @@
       },
       "companies": [
         "Rivian Automotive"
-      ],
-      "people": []
-    },
-    {
-      "title": "Neobvyklé prohlášení šéfa Samsungu „Samsung je zpátky“ rozjíždí korejskou technologickou scénu",
-      "description": "Akcie Samsung Electronics vzrostly o 7,2 procenta na rekordní úroveň poté, co spoluvýkonný generální ředitel Jun Young Hyun v novoročním memorandu citoval zákazníky říkající „Samsung je zpátky“. To posílilo spekulace o blížícím se obchodu na dodávky pro Nvidia a podtrhlo roli firmy v AI boomu.",
-      "slug": "ceos-unusual-samsung-is-back-remark-galvanizes-kor",
-      "publishedAt": "2026-01-02T15:15:19+00:00",
-      "date": "2026-01-02 15:15:19",
-      "importance": 4,
-      "category": "elektronika",
-      "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/01/0103-mg-samsung.jpg",
-      "url": "/tech-news/2026-01-02/ceos-unusual-samsung-is-back-remark-galvanizes-kor/",
-      "source": {
-        "emoji": "📰",
-        "id": "financial-post",
-        "name": "Financial Post"
-      },
-      "companies": [
-        "Samsung Electronics Co"
       ],
       "people": []
     },
@@ -3672,86 +3839,6 @@
       "people": []
     },
     {
-      "title": "BYD splnil prodejní cíl a pravděpodobně svrhl Tesla z pozice největšího výrobce elektromobilů",
-      "description": "Šen-čenský výrobce automobilů dodávky 4,6 milionu vozidel loni, což představuje nárůst o 7,7 % oproti roku 2024. Společnost tak pravděpodobně překonala Teslu a stala se světovým lídrem v elektromobilitě.",
-      "slug": "byd-hits-sales-goal-set-to-topple-tesla-as-biggest",
-      "publishedAt": "2026-01-02T10:55:00+00:00",
-      "date": "2026-01-02 10:55:00",
-      "importance": 4,
-      "category": "elektromobilita",
-      "urlToImage": "https://www.irishtimes.com/resizer/v2/G4CG7NQHGJG2BIQZVBQ3OQH2EQ.jpg?smart=true&auth=62b85c4fe27c97b0bbf16deea32c623cd3fd5e830e77b436cde37b3eadc6a11c&width=1200&height=630",
-      "url": "/tech-news/2026-01-02/byd-hits-sales-goal-set-to-topple-tesla-as-biggest/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-irish-times",
-        "name": "The Irish Times"
-      },
-      "companies": [
-        "BYD",
-        "Tesla"
-      ],
-      "people": []
-    },
-    {
-      "title": "Plány Applu na rok 2026: Skládací telefony, OLED MacBooky a zaměření na AI",
-      "description": "Apple prý připravuje pro rok 2026 významný útok nových produktů, včetně prvního skládacího iPhonu a MacBooků s OLED displeji. Společnost může také představit chytré brýle poháněné AI a levnější varianty iPhonu a MacBooků.",
-      "slug": "apples-2026-playbook-foldables-oled-macs-and-an-ai",
-      "publishedAt": "2026-01-02T10:50:54+00:00",
-      "date": "2026-01-02 10:50:54",
-      "importance": 4,
-      "category": "hardware",
-      "urlToImage": "https://img.etimg.com/thumb/msid-126304443,width-1200,height-630,imgsize-20146,overlay-etpanache/articleshow.jpg",
-      "url": "/tech-news/2026-01-02/apples-2026-playbook-foldables-oled-macs-and-an-ai/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
-      "title": "Čip Apple A20 zdraží o 80 procent na 280 dolarů za kus",
-      "description": "Nadcházející čip Apple A20, určený pro budoucí modely iPhonu, bude vyrábět TSMC na pokročilém 2nm procesu, což zvýší cenu na 280 USD za kus – o 80 procent více než u A19. Tento nárůst souvisí s novými technologiemi jako nanosheet tranzistory a vysokovýkonnými kondenzátory.",
-      "slug": "apples-a20-chip-to-see-an-80-percent-cost-hike-to-",
-      "publishedAt": "2026-01-02T10:34:17+00:00",
-      "date": "2026-01-02 10:34:17",
-      "importance": 4,
-      "category": "hardware",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/11/A20-and-A20-Pro-3.jpg",
-      "url": "/tech-news/2026-01-02/apples-a20-chip-to-see-an-80-percent-cost-hike-to/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Wccftech"
-      },
-      "companies": [
-        "Apple",
-        "TSMC"
-      ],
-      "people": []
-    },
-    {
-      "title": "Čína a Amerika se musí vážně zabývat riziky AI",
-      "description": "Závod o vedení v vojenské, zpravodajské a komerční AI – a o globální adopci amerických nebo čínských modelů – se jen zintenzivní. Jako národní bezpečnostní poradce jsem pracoval na přípravě USA na každý scénář v nejistém spektru rizik.",
-      "slug": "china-and-america-must-get-serious-about-ai-risk",
-      "publishedAt": "2026-01-02T10:00:36+00:00",
-      "date": "2026-01-02 10:00:36",
-      "importance": 4,
-      "category": "ai rizika",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2025/12/31/1600x900/logo/China_US_PS_AFP_1767179428162_1767179438515.jpg",
-      "url": "/tech-news/2026-01-02/china-and-america-must-get-serious-about-ai-risk/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Livemint"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Čínská BYD se chystá překonat Tesla v prodejích elektromobilů v roce 2025",
       "description": "Rostoucí čínský automobilový gigant BYD je připraven oficiálně překonat Tesla jako největšího výrobce elektromobilů podle ročních prodejích. Do konce listopadu prodala 2,07 milionu kusů elektromobilů.",
       "slug": "chinas-byd-poised-to-overtake-tesla-in-2025-ev-sal",
@@ -3855,24 +3942,6 @@
       ]
     },
     {
-      "title": "Rovnováha sil",
-      "description": "Analýza toho, jak technologické inovace, zejména v umělé inteligenci a polovodičích, mění geopolitickou rovnováhu mezi Spojenými státy, Čínou a Evropou.",
-      "slug": "balance-of-power",
-      "publishedAt": "2026-01-02T05:47:02+00:00",
-      "date": "2026-01-02 05:47:02",
-      "importance": 4,
-      "category": "geopolitika",
-      "urlToImage": "http://vitalik.ca/images/icon.png",
-      "url": "/tech-news/2026-01-02/balance-of-power/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Eth.limo"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Čínské technologické akcie vtrhly do roku 2026 s návalem IPO v AI čipech a dalšími plánovanými uvedeními na burzu",
       "description": "Akcie čínských firem v oblasti AI a polovodičů posílily od průlomu domácího modelu DeepSeek-R1 v lednu 2025. Na počátku roku 2026 probíhá série úspěšných burzovních uvedení firem vyrábějících AI čipy, s dalšími připravovanými listinami.",
       "slug": "chinese-tech-stocks-charged-into-2026-with-an-ai-c",
@@ -3888,27 +3957,6 @@
         "name": "Business Insider"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Jednotka Baidu pro polovodiče Kunlunxin žádá o listování v Hong Kongu uprostřed boomu AI čipů v Číně",
-      "description": "Baidu oznámil plány na oddělení své dceřiné společnosti Kunlunxin, která se zabývá vývojem čipů pro umělou inteligenci, a její listování na burze v Hong Kongu. Tento krok probíhá v kontextu amerických omezení exportu pokročilých čipů a snahy Číny o soběstačnost v polovodičovém průmyslu.",
-      "slug": "baidus-semiconductor-unit-kunlunxin-files-for-hong",
-      "publishedAt": "2026-01-02T05:08:12+00:00",
-      "date": "2026-01-02 05:08:12",
-      "importance": 4,
-      "category": "ai čipy",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108233025-1764244459954-gettyimages-2226761556-tang-notitle250728_npWbw.jpeg?v=1767324080&w=1920&h=1080",
-      "url": "/tech-news/2026-01-02/baidus-semiconductor-unit-kunlunxin-files-for-hong/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNBC"
-      },
-      "companies": [
-        "Baidu",
-        "Kunlunxin"
-      ],
       "people": []
     },
     {
@@ -3987,46 +4035,6 @@
       },
       "companies": [
         "Biren Technology"
-      ],
-      "people": []
-    },
-    {
-      "title": "Čínský výrobce AI čipů Biren posílil o 82 % při debutu v Hong Kongu, zahajuje listings 2026",
-      "description": "Akcie Shanghai Biren Technology, čínského designéra AI čipů, otevřely v Hong Kongu o 82,1 % výše než emise cena HK$19,60. Debut přinesl firmě HK$5,58 miliardy a signalizuje vlnu AI a polovodičových IPO v reakci na americká exportní omezení.",
-      "slug": "china-ai-chipmaker-biren-surges-82-on-hong-kong-de",
-      "publishedAt": "2026-01-02T01:49:02+00:00",
-      "date": "2026-01-02 01:49:02",
-      "importance": 4,
-      "category": "ai čipy",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_3_1733465099406_1733465108677.png",
-      "url": "/tech-news/2026-01-02/china-ai-chipmaker-biren-surges-82-on-hong-kong-de/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Livemint"
-      },
-      "companies": [
-        "Biren"
-      ],
-      "people": []
-    },
-    {
-      "title": "Akcie Biren Technology vyskočily, investoři se vrhnou na první čínskou GPU společnost listovanou v Hong Kongu",
-      "description": "Akcie Shanghai Biren Technology vzrostly o 82,1 procenta na 35,70 HKD v pátek při prvním letošním listování v Hong Kongu. Investoři se vrhli na tuto čínskou firmu vyrábějící grafické procesory (GPU) v kontextu rostoucího zájmu o umělou inteligenci.",
-      "slug": "biren-shares-soar-as-investors-seize-on-first-chin",
-      "publishedAt": "2026-01-02T01:47:15+00:00",
-      "date": "2026-01-02 01:47:15",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://biztoc.com/cdn/69decb7a0b5342e9_s.webp",
-      "url": "/tech-news/2026-01-02/biren-shares-soar-as-investors-seize-on-first-chin/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "companies": [
-        "Shanghai Biren Technology"
       ],
       "people": []
     },
