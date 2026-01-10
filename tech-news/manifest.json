@@ -1,7 +1,89 @@
 {
-  "generated": "2026-01-10T04:52:58.019583+00:00",
+  "generated": "2026-01-10T08:38:17.854599+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "AI agenti promění online vyhledávání; Google čelí silné výzvě od OpenAI, tvrdí šéf Snowflake",
+      "description": "Umělá inteligence transformuje online vyhledávání, přičemž startupy jako OpenAI inovují rychleji než etablované firmy, uvedl generální ředitel Snowflake Sridhar Ramaswamy. AI prohlížeče a nástroje mění způsob, jak uživatelé získávají informace, zatímco cloudoví giganti soupeří, Snowflake si je jisté svými specializovanými analytickými platformami.",
+      "slug": "ai-agents-will-transform-online-search-google-face",
+      "publishedAt": "2026-01-09T07:15:03+00:00",
+      "date": "2026-01-09 07:15:03",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-2050382,resizemode-75,msid-126429845/tech/artificial-intelligence/google-vs-chatgpt-ai-agents-will-transform-online-search-google-faces-stiff-challenge-from-openai-snowflake-ceo.jpg",
+      "url": "/tech-news/2026-01-09/ai-agents-will-transform-online-search-google-face/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Google",
+        "OpenAI",
+        "Snowflake"
+      ],
+      "people": [
+        "Sridhar Ramaswamy"
+      ]
+    },
+    {
+      "title": "Akcie Bharat Forge v centru pozornosti po podpisu memoranda s německou Agile Robots",
+      "description": "Indická společnost Bharat Forge podepsala memorandum o porozumění (MoU) s německou firmou Agile Robots. Spolupráce se zaměří na AI řízenou robotiku a inteligentní automatizaci v sektorech jako automobilový průmysl a zdravotnictví.",
+      "slug": "bharat-forge-stock-in-focus-after-signing-mou-with",
+      "publishedAt": "2026-01-09T06:06:23+00:00",
+      "date": "2026-01-09 06:06:23",
+      "importance": 4,
+      "category": "robotika",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126428551,width-1200,height-630,imgsize-176072,overlay-etmarkets/articleshow.jpg",
+      "url": "/tech-news/2026-01-09/bharat-forge-stock-in-focus-after-signing-mou-with/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Agile Robots"
+      ],
+      "people": []
+    },
+    {
+      "title": "Ofcom vyzýván k použití 'zákazových' pravomocí proti X kvůli AI deepfakes",
+      "description": "Britská vláda vyzývá regulátora Ofcom, aby uplatnil všechny své pravomoci včetně efektivního zákazu platformy X kvůli nelegálním AI obrázkům generovaným modelem Grok, který umožňuje digitálně odstraňovat oblečení z fotografií lidí.",
+      "slug": "ofcom-urged-to-use-banning-powers-over-x-ai-deepfa",
+      "publishedAt": "2026-01-09T06:00:44+00:00",
+      "date": "2026-01-09 06:00:44",
+      "importance": 4,
+      "category": "deepfakes",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/309e/live/0888ccc0-ecee-11f0-a272-7ba2cc2ad754.jpg",
+      "url": "/tech-news/2026-01-09/ofcom-urged-to-use-banning-powers-over-x-ai-deepfa/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BBC News"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Čínský výrobce aut Xpeng oznamuje otočku směrem k fyzické AI v době tvrdé konkurence",
+      "description": "Čínský výrobce elektrických aut Xpeng chce být vnímán jako společnost zaměřená na fyzickou umělou inteligenci, nejen jako automobilka. Připravuje uliční testy robotaxi a zahájení sériové výroby humanoidních robotů ještě letos.",
+      "slug": "chinese-automaker-xpeng-touts-ai-pivot-in-face-of-",
+      "publishedAt": "2026-01-09T05:12:32+00:00",
+      "date": "2026-01-09 05:12:32",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://s.yimg.com/os/en/reuters-finance.com/ab082b4cd3c9938d90049fefb616dd8e",
+      "url": "/tech-news/2026-01-09/chinese-automaker-xpeng-touts-ai-pivot-in-face-of/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "Xpeng"
+      ],
+      "people": []
+    },
     {
       "title": "Čínské humanoidní roboty byly všude na největší americké technologické veletrhu",
       "description": "Přítomnost čínských robotických inovací ve srdci americké technologické show neustále připomíná technologický závod mezi oběma zeměmi.",
@@ -3851,47 +3933,6 @@
       "people": []
     },
     {
-      "title": "Nokia nachází nový život díky dohodě s Nvidia v hodnotě 1 miliardy dolarů",
-      "description": "Nokia získává nový impuls díky dohodě s Nvidia v hodnotě 1 miliardy dolarů, která přetváří její budoucnost v sítích s umělou inteligencí a infrastruktuře telekomunikací další generace. Článek poprvé vyšel na iPhone in Canada.",
-      "slug": "nokia-finds-new-life-through-1-billion-nvidia-deal",
-      "publishedAt": "2026-01-02T18:20:17+00:00",
-      "date": "2026-01-02 18:20:17",
-      "importance": 5,
-      "category": "ai",
-      "urlToImage": "https://cdn.iphoneincanada.ca/wp-content/uploads/2026/01/Nvidia-Noikia.jpg",
-      "url": "/tech-news/2026-01-02/nokia-finds-new-life-through-1-billion-nvidia-deal/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "iPhone in Canada"
-      },
-      "companies": [
-        "Nokia",
-        "Nvidia"
-      ],
-      "people": []
-    },
-    {
-      "title": "Nvidijino AI impérium: Pohled na největší investice do startupů | TechCrunch",
-      "description": "Za poslední dva roky Nvidia investovala své rostoucí zdroje do více než 100 AI startupů. Zde jsou největší investice tohoto giganta v oblasti polovodičů.",
-      "slug": "nvidias-ai-empire-a-look-at-its-top-startup-invest",
-      "publishedAt": "2026-01-02T16:01:39+00:00",
-      "date": "2026-01-02 16:01:39",
-      "importance": 4,
-      "category": "ai startupy",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2183848501.jpg?resize=1200,800",
-      "url": "/tech-news/2026-01-02/nvidias-ai-empire-a-look-at-its-top-startup-invest/",
-      "source": {
-        "emoji": "🚀",
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": []
-    },
-    {
       "title": "'Výsledky byly falšovány': Odcházející šéf AI Meta potvrzuje manipulaci benchmarků Llama 4",
       "description": "Yann LeCun, odcházející hlavní vědec AI společnosti Meta a průkopník moderní umělé inteligence, přiznal, že benchmarky jazykového modelu Llama 4 byly před vydáním v dubnu 2025 mírně manipulovány. Tým použil různé varianty modelu pro různé testy, aby dosáhl lepších výsledků, což vedlo k interním změnám a odchodu klíčových lidí.",
       "slug": "results-were-fudged-departing-meta-ai-chief-confir",
@@ -3997,26 +4038,6 @@
       "people": []
     },
     {
-      "title": "LLMy a rozmach výroby čipů: Co řekl Si Ťin-pching o úspěších Číny v umělé inteligenci v novoroční řeči",
-      "description": "Si Ťin-pching uvedl, že modely umělé inteligence a průlomy v domácím vývoji čipů posílily Čínu v soutěži o globální vedení.",
-      "slug": "llms-and-a-chipmaking-boom-heres-what-xi-jinping-s",
-      "publishedAt": "2026-01-02T05:54:17+00:00",
-      "date": "2026-01-02 05:54:17",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://i.insider.com/69573d35832e0ef1ead70f4e?width=1200&format=jpeg",
-      "url": "/tech-news/2026-01-02/llms-and-a-chipmaking-boom-heres-what-xi-jinping-s/",
-      "source": {
-        "emoji": "📰",
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "companies": [],
-      "people": [
-        "Xi Jinping"
-      ]
-    },
-    {
       "title": "Jižní Korejští výrobci kvantového vybavení očekávají velké objednávky díky adopci QPU v datech centrech",
       "description": "Jak kvantové technologie, jedna z národních strategických technologií Jižní Koreje, přecházejí z vládního výzkumu do soukromého sektoru, rostoucí zátěž AI výpočtů staví kvantové zpracovatelské jednotky (QPU) do centra pozornosti. Výrobci kvantového vybavení tak předpokládají příliv velkých objednávek od datových center.",
       "slug": "south-koreas-quantum-equipment-makers-anticipate-m",
@@ -4033,28 +4054,6 @@
       },
       "companies": [],
       "people": []
-    },
-    {
-      "title": "[Rozhovor] Nový generální ředitel FläktGroup David Dorney o růstu, synergiích a budoucnosti HVAC",
-      "description": "Samsung Electronics převzal FläktGroup, předního globálního dodavatele řešení HVAC (topení, ventilace a klimatizace), aby výrazně posílil svou pozici na rychle rostoucím trhu HVAC. Akvizice byla dokončena v listopadu minulého roku.",
-      "slug": "interview-new-fläktgroup-ceo-david-dorney-on-growt",
-      "publishedAt": "2026-01-02T00:54:42+00:00",
-      "date": "2026-01-02 00:54:42",
-      "importance": 5,
-      "category": "hvac",
-      "urlToImage": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/01/31130912/Samsung-Digital-Appliances-FlaktGroup-CEO-David-Dorney-on-Growth-Synergy-and-the-Future-of-HVAC-Interview_Thumb932.jpg",
-      "url": "/tech-news/2026-01-02/interview-new-fläktgroup-ceo-david-dorney-on-growt/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Samsung.com"
-      },
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "people": [
-        "David Dorney"
-      ]
     }
   ]
 }
