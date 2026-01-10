@@ -1,25 +1,124 @@
 {
-  "generated": "2026-01-10T01:18:53.906404+00:00",
+  "generated": "2026-01-10T04:52:58.019583+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "Čína prověří akvizici společnosti Meta startupu Manus v oblasti umělé inteligence",
-      "description": "Bezpečnost se stala hlavní prioritou čínských politiků. Čína oznámila, že posoudí, zda akvizice Meta singapurského AI startupu s čínskými kořeny splňuje čínské zákony.",
-      "slug": "china-to-probe-metas-acquisition-of-artificial-int",
-      "publishedAt": "2026-01-09T00:44:33+00:00",
-      "date": "2026-01-09 00:44:33",
+      "title": "Čínské humanoidní roboty byly všude na největší americké technologické veletrhu",
+      "description": "Přítomnost čínských robotických inovací ve srdci americké technologické show neustále připomíná technologický závod mezi oběma zeměmi.",
+      "slug": "chinas-humanoids-were-everywhere-at-americas-top-t",
+      "publishedAt": "2026-01-09T03:47:04+00:00",
+      "date": "2026-01-09 03:47:04",
+      "importance": 4,
+      "category": "robotika",
+      "urlToImage": "https://biztoc.com/cdn/9575cad7c6b09cc9_s.webp",
+      "url": "/tech-news/2026-01-09/chinas-humanoids-were-everywhere-at-americas-top-t/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Čínská AI firma MiniMax vzrostla o 50 % při debutu v Hong Kongu",
+      "description": "Čínský vývojář AI modelů MiniMax Group vzrostl o 50 % při svém debutu na hongkongské burze v pátek po získání 4,8 miliardy HKD (620 milionů USD). Akcie se obchodovaly za 248 HKD oproti výchozí ceně 165 HKD.",
+      "slug": "china-ai-firm-minimax-soars-50-in-hong-kong-debut",
+      "publishedAt": "2026-01-09T03:07:00+00:00",
+      "date": "2026-01-09 03:07:00",
       "importance": 4,
       "category": "ai",
-      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2026/01/Meta-Manus_73166.jpg?w=1024&h=682",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/01/09/3711963.jpg",
+      "url": "/tech-news/2026-01-09/china-ai-firm-minimax-soars-50-in-hong-kong-debut/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Star Online"
+      },
+      "companies": [
+        "MiniMax Group"
+      ],
+      "people": []
+    },
+    {
+      "title": "Čína zaměstnává armády lidských ‚kyberpracovníků‘ k tréninku humanoidních robotů",
+      "description": "Čína řeší klíčové úzké místo v národním úsilí o vloženou umělou inteligenci zaměstnáváním lidských pracovníků k tréninku humanoidních robotů. Místní vlády zřídily desítky ‚tréninkových center pro roboty‘ v rámci koordinovaného úsilí k získání dat o pohybu pro autonomní humanoidní stroje.",
+      "slug": "china-is-employing-armies-of-human-cyber-laborers-",
+      "publishedAt": "2026-01-09T02:41:59+00:00",
+      "date": "2026-01-09 02:41:59",
+      "importance": 5,
+      "category": "robotika",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/Screenshot-from-2026-01-09-09-41-19.png",
+      "url": "/tech-news/2026-01-09/china-is-employing-armies-of-human-cyber-laborers/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Omezený přístup k H200 signalizuje pečlivý přístup Pekingu k zahraniční AI technologii kvůli bezpečnostním obavám",
+      "description": "Čína se připravuje schválit omezené importy AI čipů H200 od Nvidia ještě tento kvartál, což by mohlo částečně otevřít klíčový trh pro amerického výrobce při zachování přísných bezpečnostních omezení. Podle zdrojů citovaných Bloombergem jde o vyvážený přístup mezi technologickým pokrokem a národní bezpečností.",
+      "slug": "limited-h200-access-signals-beijings-calibrated-ap",
+      "publishedAt": "2026-01-09T01:34:57+00:00",
+      "date": "2026-01-09 01:34:57",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://img.digitimes.com/newsshow/20260109pd209_files/1_b.jpg",
+      "url": "/tech-news/2026-01-09/limited-h200-access-signals-beijings-calibrated-ap/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Podcast Ranní shrnutí: Uvnitř AI strategie společnosti Snowflake",
+      "description": "Pět let po úspěšné burzovní nabídce akcií a v době tržního poklesu vede Sridhar Ramaswamy společnost Snowflake klíčovým přechodem podnikových technologií na umělou inteligenci. V epizodě moderátoři Samidha Sharma a Pranav Mukul diskutují s generálním ředitelem Snowflake o skutečné hodnotě AI v podnikových datech a partnerstvích jako s OpenAI.",
+      "slug": "morning-brief-podcast-inside-snowflakes-ai-strateg",
+      "publishedAt": "2026-01-09T01:04:09+00:00",
+      "date": "2026-01-09 01:04:09",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/photo/126425224.cms",
+      "url": "/tech-news/2026-01-09/morning-brief-podcast-inside-snowflakes-ai-strateg/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Snowflake"
+      ],
+      "people": [
+        "Sridhar Ramaswamy"
+      ]
+    },
+    {
+      "title": "Čína zahájí šetření akvizice Meta startupu Manus v oblasti umělé inteligence",
+      "description": "Čína oznámila, že prošetří akvizici společnosti Meta startupu Manus zabývajícího se umělou inteligencí. Tento krok podtrhuje rostoucí technologickou rivalitu mezi Čínou a USA.",
+      "slug": "china-to-probe-metas-acquisition-of-artificial-int",
+      "publishedAt": "2026-01-09T00:49:50+00:00",
+      "date": "2026-01-09 00:49:50",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://biztoc.com/cdn/025084d973a69931_s.webp",
       "url": "/tech-news/2026-01-09/china-to-probe-metas-acquisition-of-artificial-int/",
       "source": {
         "emoji": "📰",
         "id": null,
-        "name": "Boston Herald"
+        "name": "Biztoc.com"
       },
       "companies": [
         "Meta",
-        "Manus"
+        "Manus",
+        "Google"
       ],
       "people": []
     },
@@ -3752,28 +3851,6 @@
       "people": []
     },
     {
-      "title": "Indie nařizuje Muskově X opravit Grok kvůli obscénnímu obsahu generovanému AI | TechCrunch",
-      "description": "Indie nařídila platformě X Elona Muska provést okamžité změny v AI chatbotu Grok kvůli generování obscénního obsahu, jako jsou AI upravené obrázky žen v bikiních a sexuálně explicitní zobrazení dětí. Ministerstvo IT dává 72 hodin na opravy a podání zprávy, jinak hrozí ztráta právní imunity.",
-      "slug": "india-orders-musks-x-to-fix-grok-over-obscene-ai-c",
-      "publishedAt": "2026-01-02T18:31:31+00:00",
-      "date": "2026-01-02 18:31:31",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2207699717.jpg?resize=1200,800",
-      "url": "/tech-news/2026-01-02/india-orders-musks-x-to-fix-grok-over-obscene-ai-c/",
-      "source": {
-        "emoji": "🚀",
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "companies": [
-        "TechCrunch"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
       "title": "Nokia nachází nový život díky dohodě s Nvidia v hodnotě 1 miliardy dolarů",
       "description": "Nokia získává nový impuls díky dohodě s Nvidia v hodnotě 1 miliardy dolarů, která přetváří její budoucnost v sítích s umělou inteligencí a infrastruktuře telekomunikací další generace. Článek poprvé vyšel na iPhone in Canada.",
       "slug": "nokia-finds-new-life-through-1-billion-nvidia-deal",
@@ -3895,88 +3972,6 @@
       "companies": [
         "Tesla",
         "BYD"
-      ],
-      "people": []
-    },
-    {
-      "title": "Jak Nokia přešla z oběti iPhonu k jednomiliardové dohodě s Nvidia",
-      "description": "Nokia, finská společnost, jejíž ikonický vyzváněcí tón se přehrával odhadovaně 1,8 miliardykrát denně na vrcholu dominance na trhu mobilních telefonů a jejíž model 3310 se prodal v 126 milionech kusů, se znovu vynalezla – tentokrát jako klíčová součást AI infrastruktury.",
-      "slug": "how-nokia-went-from-iphone-victim-to-1-billion-nvi",
-      "publishedAt": "2026-01-02T12:00:00+00:00",
-      "date": "2026-01-02 12:00:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://a.fsdn.com/sd/topics/business_64.png",
-      "url": "/tech-news/2026-01-02/how-nokia-went-from-iphone-victim-to-1-billion-nvi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "companies": [
-        "Nokia",
-        "Nvidia"
-      ],
-      "people": []
-    },
-    {
-      "title": "Eric Schmidt, bývalý šéf Google, vstupuje do byznysu s datovými centry pro AI s neúspěšnou 150letou texaskou železnicí přeměněnou na ropný gigant",
-      "description": "Bolt a Texas Pacific Land chtějí přilákat hyperscalery na míru přizpůsobenými službami půdy, energie a vody pro areály datových center. Spolupráce spojuje Schmidtvu expertizu v AI s obrovskými zdroji texaské firmy.",
-      "slug": "google-ex-ceo-eric-schmidt-jumps-into-the-ai-data-",
-      "publishedAt": "2026-01-02T12:00:00+00:00",
-      "date": "2026-01-02 12:00:00",
-      "importance": 4,
-      "category": "datová centra",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-1241460440-e1767203494658.jpg?resize=1200,600",
-      "url": "/tech-news/2026-01-02/google-ex-ceo-eric-schmidt-jumps-into-the-ai-data/",
-      "source": {
-        "emoji": "📰",
-        "id": "fortune",
-        "name": "Fortune"
-      },
-      "companies": [
-        "Google",
-        "Bolt"
-      ],
-      "people": [
-        "Eric Schmidt"
-      ]
-    },
-    {
-      "title": "Od venkovského Španělska k válce: Binéfar se stává evropským vzorem ve vojenské robotice",
-      "description": "Továrna na vojenskou robotiku na španělském venkově se stala klíčovým hráčem v evropském obranném průmyslu, exportuje technologii do více než 20 zemí a transformuje ekonomiku a zaměstnanost v malém aragonském městě.",
-      "slug": "from-rural-spain-to-war-binéfar-becomes-a-european",
-      "publishedAt": "2026-01-02T11:41:13+00:00",
-      "date": "2026-01-02 11:41:13",
-      "importance": 4,
-      "category": "vojenská robotika",
-      "urlToImage": "https://biztoc.com/cdn/b1629d30f1bcda15_s.webp",
-      "url": "/tech-news/2026-01-02/from-rural-spain-to-war-binéfar-becomes-a-european/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Google Gemini 3 Computer Use: Zdarma AI nástroj pro automatizaci libovolných úkolů",
-      "description": "Google Gemini 3.0 s funkcí Computer Use umožňuje automatizovat repetitivní úkoly v digitálním prostředí díky multimodálnímu porozumění a analýze uživatelských rozhraní. Tento systém je zdarma dostupný přes Google AI Studio a podporuje aplikace od správy dat po plánování úkolů.",
-      "slug": "google-gemini-3-computer-use-free-ai-browser-lets-",
-      "publishedAt": "2026-01-02T11:00:33+00:00",
-      "date": "2026-01-02 11:00:33",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/01/gemini-flash-screen-reading-benchmark_optimized.jpg",
-      "url": "/tech-news/2026-01-02/google-gemini-3-computer-use-free-ai-browser-lets/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [
-        "Google"
       ],
       "people": []
     },
