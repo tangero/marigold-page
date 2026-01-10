@@ -1,7 +1,69 @@
 {
-  "generated": "2026-01-10T16:38:12.724667+00:00",
+  "generated": "2026-01-10T20:34:31.321028+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Sázka hedgeového fondu D1 na SpaceX pohání 39procentní růst soukromého portfolia",
+      "description": "Portfolio soukromých investic hedgeového fondu D1 Capital Partners vzrostlo loni o 39 procent díky významné pozici v SpaceX Elona Muska, které dosáhlo valuace 800 miliard dolarů minulý měsíc. SpaceX tvoří přibližně 45 procent expozice fondu v oblasti venture capital a private equity.",
+      "slug": "hedge-fund-d1s-spacex-bet-fuels-its-39-private-boo",
+      "publishedAt": "2026-01-09T20:01:25+00:00",
+      "date": "2026-01-09 20:01:25",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/01/776378605.jpg",
+      "url": "/tech-news/2026-01-09/hedge-fund-d1s-spacex-bet-fuels-its-39-private-boo/",
+      "source": {
+        "emoji": "📰",
+        "id": "financial-post",
+        "name": "Financial Post"
+      },
+      "companies": [
+        "SpaceX"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Meta uzavřela smlouvy se třemi společnostmi v jaderné energetice pro napájení datových center",
+      "description": "Meta podepsala dohody s firmami Vistra, TerraPower a Oklo na dodávky energie pro svá datová centra zaměřená na umělou inteligenci. Tyto smlouvy, včetně předchozího kontraktu s Constellation Energy, řadí společnost mezi největší odběratele jaderné energie v USA.",
+      "slug": "meta-signs-deals-with-3-nuclear-energy-companies-t",
+      "publishedAt": "2026-01-09T19:16:13+00:00",
+      "date": "2026-01-09 19:16:13",
+      "importance": 4,
+      "category": "jaderná energie",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/01/Meta-AI.jpeg",
+      "url": "/tech-news/2026-01-09/meta-signs-deals-with-3-nuclear-energy-companies-t/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [
+        "Meta"
+      ],
+      "people": []
+    },
+    {
+      "title": "OneStream odchází z burzy: Tři strategické imperativy pro technologické lídry",
+      "description": "Dohoda Hg Capital o akvizici OneStream za 6,4 miliardy dolarů představuje klíčový moment v oblasti podnikového řízení výkonu (EPM). Jedná se o jednu z největších privatizací v sektoru od akvizice Anaplan za 10,7 miliardy dolarů firmou Thoma Bravo v roce 2022.",
+      "slug": "onestream-goes-private-three-strategic-imperatives",
+      "publishedAt": "2026-01-09T18:30:20+00:00",
+      "date": "2026-01-09 18:30:20",
+      "importance": 5,
+      "category": "akvizice",
+      "urlToImage": "https://go.forrester.com/wp-content/uploads/2022/03/FMK_FORR_GenericSocialImage_220314.jpg",
+      "url": "/tech-news/2026-01-09/onestream-goes-private-three-strategic-imperatives/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Forrester.com"
+      },
+      "companies": [
+        "OneStream"
+      ],
+      "people": []
+    },
     {
       "title": "Senátoři vyzvali Apple a Google k odstranění X a Grok z app storeů kvůli sexuálním deepfakům",
       "description": "Tři demokratickí senátoři vyzvali Apple a Google, aby odstranily aplikace X a Grok z jejich obchodů s aplikacemi kvůli generování nekonzistentních sexuálních obrázků skutečných lidí pomocí AI Grok. X omezilo funkci, ale problém přetrvává v samostatné aplikaci Grok.",
@@ -3918,27 +3980,6 @@
       "people": []
     },
     {
-      "title": "Starlinkova nová generace 5G přímo do mobilu: Co mohou očekávat zákazníci Rogers",
-      "description": "SpaceX zveřejnilo pokrokový report pro Starlink na rok 2025, který shrnuje rychlou expanzi, zlepšení výkonu a globální zavádění služby Starlink Direct to Cell pro satelitní komunikaci přímo do mobilních telefonů. Kanada, včetně Dálého severu a letecké společnosti WestJet, je v reportu výrazně zmíněna.",
-      "slug": "starlinks-next-gen-5g-direct-to-cell-what-rogers-c",
-      "publishedAt": "2026-01-03T12:00:19+00:00",
-      "date": "2026-01-03 12:00:19",
-      "importance": 4,
-      "category": "satelitní komunikace",
-      "urlToImage": "https://cdn.iphoneincanada.ca/wp-content/uploads/2026/01/starlink-direct-to-cell-next-gen.jpg",
-      "url": "/tech-news/2026-01-03/starlinks-next-gen-5g-direct-to-cell-what-rogers-c/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "iPhone in Canada"
-      },
-      "companies": [
-        "SpaceX",
-        "Rogers"
-      ],
-      "people": []
-    },
-    {
       "title": "Průměrná kompenzace zaměstnanců OpenAI dosahuje 1,5 milionu dolarů ročně",
       "description": "Podle Wall Street Journal zaměstnanci OpenAI obdrželi v roce 2025 akciovou kompenzaci v průměru 1,5 milionu dolarů na osobu, což je nejvíce mezi startupy před plánovaným uvedením na burzu. Tato částka převyšuje mzdy v jiných technologických firmách sedmkrát oproti Alphabetu před jeho IPO.",
       "slug": "your-jaw-will-hit-the-floor-when-you-find-out-how-",
@@ -3980,28 +4021,6 @@
       "people": []
     },
     {
-      "title": "Technologická válka: Čína sebevědomě pokračuje v rozvoji inovací v umělé inteligenci v roce 2026",
-      "description": "Poslední den roku 2025 vydala čínská firma DeepSeek nový technický článek o 'manifold-constrained hyper-connections', což je obecný rámec pro trénink systémů umělé inteligence ve velkém měřítku. Tento výzkum naznačuje slibné směry pro vývoj základních modelů a podtrhuje rostoucí konkurenceschopnost čínských AI firem oproti americkým gigantům.",
-      "slug": "tech-war-china-takes-confident-strides-to-develop-",
-      "publishedAt": "2026-01-03T09:30:00+00:00",
-      "date": "2026-01-03 09:30:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/PeHol2Dz0GRB34_tqq86Kw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/south_china_morning_post_us_228/4a6ae3a2ffe7aee0fcd3552217c65b06",
-      "url": "/tech-news/2026-01-03/tech-war-china-takes-confident-strides-to-develop/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [
-        "DeepSeek"
-      ],
-      "people": [
-        "Liang Wenfeng"
-      ]
-    },
-    {
       "title": "Válka na Ukrajině, den 1408: Ukrajina nasazuje AI drony ve velkém měřítku proti Rusku",
       "description": "Ukrajina produkuje novou generaci automatizovaných útočných dronů s umělou inteligencí, které ničí ruské síly s minimálním lidským dohledem. Po neúspěšném startu v roce 2024 tyto drony překonávají předchozí limity díky lepšímu zpracování videa a rychlejšímu zamykání na cíle.",
       "slug": "war-for-ukraine-day-1408-ltg-budanov-to-the-rear",
@@ -4017,27 +4036,6 @@
         "name": "Balloon-juice.com"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Tesla ztrácí titul největšího výrobce elektromobilů ve prospěch čínské BYD kvůli konkurenci a konci daňových úlev",
-      "description": "Roční prodeje Tesly klesly druhý rok v řadě kvůli rostoucí konkurenci, konci amerických daňových úlev a odporu vůči značce. Čínská BYD překonala Teslu v ročních prodejích poprvé.",
-      "slug": "tesla-loses-ev-crown-to-chinas-byd-as-competition-",
-      "publishedAt": "2026-01-03T01:33:56+00:00",
-      "date": "2026-01-03 01:33:56",
-      "importance": 4,
-      "category": "elektromobilita",
-      "urlToImage": "https://media.rnztools.nz/rnz/image/upload/s--2w9r4-0w--/t_tohu-badge-facebook/v1745358281/4K8I69K_cnn_L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbTlzeDN4ZWIwMDAyM2I2b2x5M3BlenNr_L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtOXN4M2U4ajAwMHcyZHFvMHNrczBid3c_JPG?_a=BACCd2AD",
-      "url": "/tech-news/2026-01-03/tesla-loses-ev-crown-to-chinas-byd-as-competition/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "RNZ"
-      },
-      "companies": [
-        "Tesla",
-        "BYD"
-      ],
       "people": []
     }
   ]
