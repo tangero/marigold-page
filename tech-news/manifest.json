@@ -1,7 +1,224 @@
 {
-  "generated": "2026-01-10T08:38:17.854599+00:00",
+  "generated": "2026-01-10T12:47:32.302647+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "CrowdStrike posílí bezpečnost identit v éře AI akvizicí SGNL",
+      "description": "Společnost CrowdStrike oznámila akvizici kalifornské firmy SGNL, specializující se na kontinuální řešení bezpečnosti identit, v transakci v hotovosti a akciích v hodnotě přibližně 740 milionů dolarů. Tento krok má rozšířit schopnosti v řízení přístupu pro lidské, ne-lidské a AI identity na základě hodnocení rizik v reálném čase.",
+      "slug": "crowdstrike-to-enhance-ai-era-identity-security-wi",
+      "publishedAt": "2026-01-09T12:21:40+00:00",
+      "date": "2026-01-09 12:21:40",
+      "importance": 4,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://www.techmonitor.ai/wp-content/uploads/sites/29/2026/01/CrowdStrike-afefe1830a65c40ce8ddb820e8be35cd.jpg",
+      "url": "/tech-news/2026-01-09/crowdstrike-to-enhance-ai-era-identity-security-wi/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Verdict"
+      },
+      "companies": [
+        "CrowdStrike",
+        "SGNL"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nvidia a dodavatelé automobilů uzavírají dohody k oživení samořídících vozidel",
+      "description": "Krátká historie průmyslu samořídících aut je plná drahých neúspěchů a nekonečných zpoždění, dodavatelé technologií, čipové firmy včetně Nvidia a někteří výrobci aut však vsazují na umělou inteligenci a síť partnerství k novému pokroku. Na veletrhu CES v Las Vegas byla oznámena řada spoluprací, které mají urychlit komercializaci autonomních technologií.",
+      "slug": "nvidia-auto-suppliers-in-deals-to-rekindle-self-dr",
+      "publishedAt": "2026-01-09T12:18:37+00:00",
+      "date": "2026-01-09 12:18:37",
+      "importance": 4,
+      "category": "autonomní vozy",
+      "urlToImage": "https://www.rte.ie/images/0023b759-1600.jpg",
+      "url": "/tech-news/2026-01-09/nvidia-auto-suppliers-in-deals-to-rekindle-self-dr/",
+      "source": {
+        "emoji": "📰",
+        "id": "rte",
+        "name": "RTE"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Cyera získala 400 milionů dolarů v kolu Series F díky rostoucí poptávce po bezpečnosti podnikového AI",
+      "description": "Cyera získala 400 milionů dolarů v kolu Series F, čímž zvýšila celkový kapitál na více než 1,7 miliardy dolarů a valuaci společnosti na 9 miliard dolarů.",
+      "slug": "cyera-secures-400m-series-f-as-demand-for-enterpri",
+      "publishedAt": "2026-01-09T12:14:47+00:00",
+      "date": "2026-01-09 12:14:47",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://www.techmonitor.ai/wp-content/uploads/sites/29/2026/01/Cyera-79c4755280fff091b67f0a042bae6ee6.jpg",
+      "url": "/tech-news/2026-01-09/cyera-secures-400m-series-f-as-demand-for-enterpri/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Verdict"
+      },
+      "companies": [
+        "Cyera"
+      ],
+      "people": []
+    },
+    {
+      "title": "La Rosa Holdings Corp. oznámila uzavření počátečního financování z 250milionového úvěrového zařízení v rámci 1,25miliardového programu pro AI infrastrukturu",
+      "description": "La Rosa Holdings Corp., realitní a PropTech společnost, uzavřela financování 11 milionů dolarů jako první tranši z 250milionového konvertibilního úvěrového zařízení. Tento krok posiluje celkovou dostupnou kapacitu na 1,25 miliardy dolarů pro rozvoj AI infrastruktury a datových center.",
+      "slug": "la-rosa-holdings-corp-announces-closing-of-initial",
+      "publishedAt": "2026-01-09T12:05:00+00:00",
+      "date": "2026-01-09 12:05:00",
+      "importance": 4,
+      "category": "ai infrastruktura",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/f854f31e-8844-4c15-a86b-772ced2fcb2a",
+      "url": "/tech-news/2026-01-09/la-rosa-holdings-corp-announces-closing-of-initial/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Fyzická AI dominuje na CES, ale lidstvo si na humanoidní sluhy ještě chvíli počká",
+      "description": "CES představuje vzestup fyzické AI a humanoidních robotů, ale životaschopní a cenově dostupní humanoidní sluhové zůstávají vzdálenou vyhlídkou.",
+      "slug": "physical-ai-dominates-ces-but-humanity-will-still-",
+      "publishedAt": "2026-01-09T11:41:22+00:00",
+      "date": "2026-01-09 11:41:22",
+      "importance": 4,
+      "category": "robotika",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/94rrzw/article70490582.ece/alternates/LANDSCAPE_1200/IMG_iStock-1205789278_2_1_O7E8FQGO.jpg",
+      "url": "/tech-news/2026-01-09/physical-ai-dominates-ces-but-humanity-will-still/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Nově získaných 15 miliard dolarů od Andreessen Horowitz odhaluje, kde firma vidí největší příležitosti",
+      "description": "Andreessen Horowitz získalo přes 15 miliard dolarů do různých fondů, což odráží rostoucí objemy venture kapitálu. Peníze směřují do oblastí jako růstové investice, biotechnologie, infrastruktura a obranné technologie.",
+      "slug": "andreessen-horowitzs-shiny-new-15-billion-reveals-",
+      "publishedAt": "2026-01-09T11:23:49+00:00",
+      "date": "2026-01-09 11:23:49",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/09/GettyImages-1166273806-e1725472894883.jpg?resize=1200,600",
+      "url": "/tech-news/2026-01-09/andreessen-horowitzs-shiny-new-15-billion-reveals/",
+      "source": {
+        "emoji": "📰",
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "ChatGPT vs. Gemini: Návštěvnost a co na to říká šéf Google AI Demis Hassabis",
+      "description": "ChatGPT zaznamenal pokles denní návštěvnosti o 22 % za šest týdnů, zatímco Gemini zůstal stabilní. Sam Altman nařídil interní „code red“ kvůli rostoucí konkurenci, což podtrhuje sílu distribuce Google.",
+      "slug": "chatgpt-vs-gemini-traffic-heres-what-google-ai-ceo",
+      "publishedAt": "2026-01-09T11:22:05+00:00",
+      "date": "2026-01-09 11:22:05",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-37614,resizemode-75,msid-126434271/tech/artificial-intelligence/chatgpt-vs-gemini-traffic-heres-what-google-ai-ceo-demis-hassabis-has-to-say.jpg",
+      "url": "/tech-news/2026-01-09/chatgpt-vs-gemini-traffic-heres-what-google-ai-ceo/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Google",
+        "OpenAI"
+      ],
+      "people": [
+        "Demis Hassabis",
+        "Sam Altman"
+      ]
+    },
+    {
+      "title": "Další kapitola umělé inteligence: nové architektury, časová osa AGI a odklon od nadšení z velkých jazykových modelů",
+      "description": "Co kdyby budoucnost umělé inteligence nebyla jen o budování chytřejších systémů, ale o přehodnocení samotné podstaty inteligence? V tomto průvodci Pourya Kordi ukazuje, jak nejnovější pokroky v AI výzkumu zpochybňují dlouhodobé předpoklady a otevírají cestu k nové éře inovací.",
+      "slug": "the-next-chapter-in-ai-fresh-architectures-an-agi-",
+      "publishedAt": "2026-01-09T11:12:41+00:00",
+      "date": "2026-01-09 11:12:41",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/01/meta-jepa-architecture-overview_optimized.jpg",
+      "url": "/tech-news/2026-01-09/the-next-chapter-in-ai-fresh-architectures-an-agi/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [],
+      "people": [
+        "Pourya Kordi"
+      ]
+    },
+    {
+      "title": "Meta oznámila jaderné energetické projekty, které uvolní až 6,6 GW pro napájení amerického vedení v inovacích AI",
+      "description": "Meta uzavřela klíčové dohody s firmami Vistra, TerraPower a Oklo, které rozšíří provoz tří jaderných elektráren, podpoří vývoj jaderných technologií a vytvoří pracovní místa v amerických komunitách.",
+      "slug": "meta-announces-nuclear-energy-projects-unlocking-u",
+      "publishedAt": "2026-01-09T11:00:49+00:00",
+      "date": "2026-01-09 11:00:49",
+      "importance": 4,
+      "category": "jaderná energie",
+      "urlToImage": "https://about.fb.com/wp-content/uploads/2026/01/Nuclear_Header.jpg?w=1200",
+      "url": "/tech-news/2026-01-09/meta-announces-nuclear-energy-projects-unlocking-u/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Fb.com"
+      },
+      "companies": [
+        "Meta",
+        "TerraPower",
+        "Oklo"
+      ],
+      "people": []
+    },
+    {
+      "title": "Ženy a děti jsou na sociálních sítích digitálně svlékány",
+      "description": "Uživatelé platformy X zadávají AI chatbotu Grok příkazy k vytváření sexualizovaných obrázků žen a dětí. Nová funkce umožňuje editaci fotografií, což vede k šíření nekonzistentních deepfakeů krátce před účinností nového amerického zákona.",
+      "slug": "women-and-children-are-being-digitally-undressed-o",
+      "publishedAt": "2026-01-09T11:00:48+00:00",
+      "date": "2026-01-09 11:00:48",
+      "importance": 4,
+      "category": "deepfakes",
+      "urlToImage": "https://www.salon.com/app/uploads/2025/11/GettyImages-1768220555.jpg",
+      "url": "/tech-news/2026-01-09/women-and-children-are-being-digitally-undressed-o/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Salon"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Indie zasahuje proti AI chatbotu Grok: Vysvětleny rizika deepfake a bezpečnosti AI",
+      "description": "Indie podniká kroky proti AI chatbotu Grok kvůli zneužití k tvorbě deepfake obsahu a posiluje regulace bezpečnosti AI.",
+      "slug": "india-cracks-down-on-ai-chatbot-grok-deepfake-and-",
+      "publishedAt": "2026-01-09T11:00:40+00:00",
+      "date": "2026-01-09 11:00:40",
+      "importance": 4,
+      "category": "ai bezpečnost",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/toxa9/article70490432.ece/alternates/LANDSCAPE_1200/5%20Image%20Temp_Daily%20news%2080.jpg",
+      "url": "/tech-news/2026-01-09/india-cracks-down-on-ai-chatbot-grok-deepfake-and/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "AI agenti promění online vyhledávání; Google čelí silné výzvě od OpenAI, tvrdí šéf Snowflake",
       "description": "Umělá inteligence transformuje online vyhledávání, přičemž startupy jako OpenAI inovují rychleji než etablované firmy, uvedl generální ředitel Snowflake Sridhar Ramaswamy. AI prohlížeče a nástroje mění způsob, jak uživatelé získávají informace, zatímco cloudoví giganti soupeří, Snowflake si je jisté svými specializovanými analytickými platformami.",
@@ -3667,29 +3884,6 @@
       ]
     },
     {
-      "title": "Sázka Anthropic na ‚více s méně‘ ji udržuje na hranici AI, říká Daniela Amodei pro CNBC",
-      "description": "Daniela Amodei a její bratr Dario Amodei, generální ředitel Anthropic, pomohli vybudovat světonázor, proti kterému nyní sázejí. Anthropic se zaměřuje na efektivitu výpočetního výkonu místo brutálního škálování, na rozdíl od rivala OpenAI.",
-      "slug": "anthropics-do-more-with-less-bet-has-kept-it-at-th",
-      "publishedAt": "2026-01-03T13:00:01+00:00",
-      "date": "2026-01-03 13:00:01",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108247732-1767394033940-gettyimages-2151610540-BLOOMBERG_TECHNOLOGY_SUMMIT.jpeg?v=1767394078&w=1920&h=1080",
-      "url": "/tech-news/2026-01-03/anthropics-do-more-with-less-bet-has-kept-it-at-th/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNBC"
-      },
-      "companies": [
-        "Anthropic"
-      ],
-      "people": [
-        "Daniela Amodei",
-        "Dario Amodei"
-      ]
-    },
-    {
       "title": "Starlinkova nová generace 5G přímo do mobilu: Co mohou očekávat zákazníci Rogers",
       "description": "SpaceX zveřejnilo pokrokový report pro Starlink na rok 2025, který shrnuje rychlou expanzi, zlepšení výkonu a globální zavádění služby Starlink Direct to Cell pro satelitní komunikaci přímo do mobilních telefonů. Kanada, včetně Dálého severu a letecké společnosti WestJet, je v reportu výrazně zmíněna.",
       "slug": "starlinks-next-gen-5g-direct-to-cell-what-rogers-c",
@@ -3752,26 +3946,6 @@
       "people": []
     },
     {
-      "title": "Cantor Fitzgerald předpovídá růst v postkvantové éře, optimistický ohledně SEALSQ (LAES)",
-      "description": "SEALSQ Corp (NASDAQ:LAES) je jednou z 10 nejlepších nových penny akcií pro investice. Cantor Fitzgerald zahájil 18. prosince pokrytí akcie s hodnocením převážně pozitivním a cenovým cílem 7 USD díky postkvantovým technologiím.",
-      "slug": "cantor-fitzgerald-sees-post-quantum-growth-bullish",
-      "publishedAt": "2026-01-03T11:19:43+00:00",
-      "date": "2026-01-03 11:19:43",
-      "importance": 4,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/DMC6vZ3LKhh6rRRUX7ddYA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/c2e160765ac4198de15afb3664b8c183",
-      "url": "/tech-news/2026-01-03/cantor-fitzgerald-sees-post-quantum-growth-bullish/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [
-        "SEALSQ Corp"
-      ],
-      "people": []
-    },
-    {
       "title": "Technologická válka: Čína sebevědomě pokračuje v rozvoji inovací v umělé inteligenci v roce 2026",
       "description": "Poslední den roku 2025 vydala čínská firma DeepSeek nový technický článek o 'manifold-constrained hyper-connections', což je obecný rámec pro trénink systémů umělé inteligence ve velkém měřítku. Tento výzkum naznačuje slibné směry pro vývoj základních modelů a podtrhuje rostoucí konkurenceschopnost čínských AI firem oproti americkým gigantům.",
       "slug": "tech-war-china-takes-confident-strides-to-develop-",
@@ -3792,24 +3966,6 @@
       "people": [
         "Liang Wenfeng"
       ]
-    },
-    {
-      "title": "ChatGPT 5 překonal lidské skóre na benchmarku ARC AGI 2 díky vrstvě správcovské vrstvy bez omezení",
-      "description": "ChatGPT 5 dosáhl skóre 75 % na testu ARC AGI 2, který měří schopnost řešit neznámé problémy, a překonal průměr lidských uživatelů na 60 %. Úspěch vychází z technik odstranění umělých omezení a použití meta-systému nazvaného správcovská vrstva.",
-      "slug": "chatgpt-5-surpasses-human-score-on-arc-agi-2-thank",
-      "publishedAt": "2026-01-03T09:00:46+00:00",
-      "date": "2026-01-03 09:00:46",
-      "importance": 5,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/01/meta-system-manager-layer-poetic_optimized.jpg",
-      "url": "/tech-news/2026-01-03/chatgpt-5-surpasses-human-score-on-arc-agi-2-thank/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [],
-      "people": []
     },
     {
       "title": "Válka na Ukrajině, den 1408: Ukrajina nasazuje AI drony ve velkém měřítku proti Rusku",
@@ -3884,173 +4040,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Livemint"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Tesla ztrácí postavení největšího výrobce elektromobilů na světě ve prospěch čínské BYD",
-      "description": "Elon Muskova automobilka dodala v roce 2025 méně plně elektrických vozidel než svůj čínský rival BYD.",
-      "slug": "tesla-loses-crown-as-worlds-biggest-maker-of-evs-t",
-      "publishedAt": "2026-01-02T23:49:37+00:00",
-      "date": "2026-01-02 23:49:37",
-      "importance": 4,
-      "category": "elektromobilita",
-      "urlToImage": "https://www.irishtimes.com/resizer/v2/YDKT66STA76FD5RJN5HBIYZHVQ.jpg?smart=true&auth=d79653d965cf95ec1402c9173ecd98e473dc3dcea30b7b078e16077d1fd31fff&width=1200&height=630",
-      "url": "/tech-news/2026-01-02/tesla-loses-crown-as-worlds-biggest-maker-of-evs-t/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-irish-times",
-        "name": "The Irish Times"
-      },
-      "companies": [
-        "Tesla",
-        "BYD"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Tesla ztrácí titul největšího výrobce elektromobilů světa",
-      "description": "Tesla oficiálně předala svou pozici světového lídra v výrobě elektromobilů čínské BYD po 9% poklesu dodávek v roce 2025 kvůli rostoucímu politickému napětí a ztrátě klíčových daňových úlev v USA.",
-      "slug": "tesla-loses-title-as-worlds-biggest-electric-vehic",
-      "publishedAt": "2026-01-02T21:40:38+00:00",
-      "date": "2026-01-02 21:40:38",
-      "importance": 4,
-      "category": "elektromobilita",
-      "urlToImage": "https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2026/01/1280/720/gettyimages-1096056696.jpg?ve=1&tl=1",
-      "url": "/tech-news/2026-01-02/tesla-loses-title-as-worlds-biggest-electric-vehic/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "FOX 11 Los Angeles"
-      },
-      "companies": [
-        "Tesla",
-        "BYD"
-      ],
-      "people": []
-    },
-    {
-      "title": "'Výsledky byly falšovány': Odcházející šéf AI Meta potvrzuje manipulaci benchmarků Llama 4",
-      "description": "Yann LeCun, odcházející hlavní vědec AI společnosti Meta a průkopník moderní umělé inteligence, přiznal, že benchmarky jazykového modelu Llama 4 byly před vydáním v dubnu 2025 mírně manipulovány. Tým použil různé varianty modelu pro různé testy, aby dosáhl lepších výsledků, což vedlo k interním změnám a odchodu klíčových lidí.",
-      "slug": "results-were-fudged-departing-meta-ai-chief-confir",
-      "publishedAt": "2026-01-02T16:00:00+00:00",
-      "date": "2026-01-02 16:00:00",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://a.fsdn.com/sd/topics/facebook_64.png",
-      "url": "/tech-news/2026-01-02/results-were-fudged-departing-meta-ai-chief-confir/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "companies": [
-        "Meta"
-      ],
-      "people": [
-        "Yann LeCun"
-      ]
-    },
-    {
-      "title": "Rivian Automotive (RIVN) odhaluje vlastní AI čipy a strategii autonomie, Needham zvyšuje cenový cíl",
-      "description": "Společnost Rivian Automotive (NASDAQ:RIVN) patří mezi nejlepší akcie pod 25 dolary k nákupu nyní. Dne 12. prosince analytik Needham Chris Pierce zvýšil cenový cíl akcie RIVN na 23 dolarů z 14 dolarů a zachoval doporučení Koupit po představení nových technologií autonomie.",
-      "slug": "rivian-automotive-rivn-unveils-custom-ai-chips-and",
-      "publishedAt": "2026-01-02T15:50:47+00:00",
-      "date": "2026-01-02 15:50:47",
-      "importance": 4,
-      "category": "elektromobilita",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/trzn8SA7znQVaJ4YaTOOGw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/insidermonkey.com/d773db7cd8d2d26109010d361d57105f",
-      "url": "/tech-news/2026-01-02/rivian-automotive-rivn-unveils-custom-ai-chips-and/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [
-        "Rivian Automotive"
-      ],
-      "people": []
-    },
-    {
-      "title": "Kde stojí Nvidia a polovodičové akcie před rokem 2026?",
-      "description": "Nvidia licencovala technologii AI inference a LPUs od společnosti Groq, aby posílila svou pozici vůči konkurenci custom ASIC čipů. Polovodičové akcie čelí krátkodobé volatilitě, ale mohou profitovat z růstu poptávky po AI v roce 2026, přičemž Nvidia vzrostla o 35 % v roce 2025.",
-      "slug": "where-does-nvidia-and-the-semiconductor-stocks-sta",
-      "publishedAt": "2026-01-02T15:11:27+00:00",
-      "date": "2026-01-02 15:11:27",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://biztoc.com/cdn/3e3c71321d58761a_s.webp",
-      "url": "/tech-news/2026-01-02/where-does-nvidia-and-the-semiconductor-stocks-sta/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "companies": [
-        "Nvidia",
-        "Groq"
-      ],
-      "people": []
-    },
-    {
-      "title": "Prodeje Tesly klesly o 16 % ve čtvrtém čtvrtletí kvůli rivalům a ztrátě daňového kreditu na elektromobily",
-      "description": "Dodávky Tesly ve čtvrtém čtvrtletí klesly o 16 % na 418 227 vozidel, přičemž ji překonal čínský BYD; ztráta 7500dolarového federálního daňového kreditu a globální konkurence ovlivnily prodeje.",
-      "slug": "tesla-sales-fall-16-in-q4-amid-rivals-ev-credit-lo",
-      "publishedAt": "2026-01-02T15:07:33+00:00",
-      "date": "2026-01-02 15:07:33",
-      "importance": 4,
-      "category": "elektromobilita",
-      "urlToImage": "https://s.hdnux.com/photos/01/55/06/23/28599510/6/rawImage.jpg",
-      "url": "/tech-news/2026-01-02/tesla-sales-fall-16-in-q4-amid-rivals-ev-credit-lo/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Austin American-Statesman"
-      },
-      "companies": [
-        "Tesla",
-        "BYD"
-      ],
-      "people": []
-    },
-    {
-      "title": "Samsung získává náskok v závodě o paměti pro AI po údajném vedení v systémových testech Broadcomu",
-      "description": "Paměť HBM4 šesté generace od Samsung Electronics údajně dosáhla nejrychlejších provozních rychlostí v klíčovém technologickém testu provedeném společností Broadcom. Výsledky posilují pozici Samsungu v soutěži o dodávky pamětí pro příští generaci umělé inteligence.",
-      "slug": "samsung-gains-edge-in-ai-memory-race-after-reporte",
-      "publishedAt": "2026-01-02T06:48:47+00:00",
-      "date": "2026-01-02 06:48:47",
-      "importance": 4,
-      "category": "ai hardware",
-      "urlToImage": "https://img.digitimes.com/newsshow/20251231vl202_files/1_b.jpg",
-      "url": "/tech-news/2026-01-02/samsung-gains-edge-in-ai-memory-race-after-reporte/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
-      },
-      "companies": [
-        "Samsung",
-        "Broadcom"
-      ],
-      "people": []
-    },
-    {
-      "title": "Jižní Korejští výrobci kvantového vybavení očekávají velké objednávky díky adopci QPU v datech centrech",
-      "description": "Jak kvantové technologie, jedna z národních strategických technologií Jižní Koreje, přecházejí z vládního výzkumu do soukromého sektoru, rostoucí zátěž AI výpočtů staví kvantové zpracovatelské jednotky (QPU) do centra pozornosti. Výrobci kvantového vybavení tak předpokládají příliv velkých objednávek od datových center.",
-      "slug": "south-koreas-quantum-equipment-makers-anticipate-m",
-      "publishedAt": "2026-01-02T02:55:50+00:00",
-      "date": "2026-01-02 02:55:50",
-      "importance": 4,
-      "category": "kvantové technologie",
-      "urlToImage": "https://img.digitimes.com/newsshow/20260102pd215_files/2_b.jpg",
-      "url": "/tech-news/2026-01-02/south-koreas-quantum-equipment-makers-anticipate-m/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
       },
       "companies": [],
       "people": []
