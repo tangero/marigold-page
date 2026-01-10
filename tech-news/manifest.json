@@ -1,7 +1,150 @@
 {
-  "generated": "2026-01-09T20:37:59.940012+00:00",
+  "generated": "2026-01-10T01:18:53.906404+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Čína prověří akvizici společnosti Meta startupu Manus v oblasti umělé inteligence",
+      "description": "Bezpečnost se stala hlavní prioritou čínských politiků. Čína oznámila, že posoudí, zda akvizice Meta singapurského AI startupu s čínskými kořeny splňuje čínské zákony.",
+      "slug": "china-to-probe-metas-acquisition-of-artificial-int",
+      "publishedAt": "2026-01-09T00:44:33+00:00",
+      "date": "2026-01-09 00:44:33",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2026/01/Meta-Manus_73166.jpg?w=1024&h=682",
+      "url": "/tech-news/2026-01-09/china-to-probe-metas-acquisition-of-artificial-int/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Boston Herald"
+      },
+      "companies": [
+        "Meta",
+        "Manus"
+      ],
+      "people": []
+    },
+    {
+      "title": "Google přidává do Gmailu nové funkce umělé inteligence a mění ho na osobního asistenta",
+      "description": "Nové AI možnosti v Gmailu budou zatím dostupné pouze v angličtině v USA.",
+      "slug": "google-adds-new-ai-features-to-gmail-turning-it-in",
+      "publishedAt": "2026-01-09T00:40:15+00:00",
+      "date": "2026-01-09 00:40:15",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2026/01/Gmail_AI_Implant_20215.jpg?w=1024&h=682",
+      "url": "/tech-news/2026-01-09/google-adds-new-ai-features-to-gmail-turning-it-in/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Boston Herald"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Platforma X vedená Elonem Muskem zaznamenala nárůst stížností na syntetická AI média po uvedení Grok Imagine v Indii",
+      "description": "Stížnosti podané na sociální síť X v Indii proti syntetickým nebo manipulovaným médiím vyskočily v září 2025 na odhadovaných 983, což tvořilo více než polovinu z celkových 1959 stížností, oproti nule v předchozích třech měsících. Nárůst souvisí s globálním spuštěním nástroje Grok Imagine pro generování obrázků a videí pomocí AI.",
+      "slug": "elon-musk-led-x-saw-ai-media-grievances-surge-post",
+      "publishedAt": "2026-01-09T00:30:00+00:00",
+      "date": "2026-01-09 00:30:00",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-38374,resizemode-75,msid-126420172/tech/artificial-intelligence/elonn-musk-led-x-saw-ai-media-grievances-surge-post-grok-imagine-rollout-in-india.jpg",
+      "url": "/tech-news/2026-01-09/elon-musk-led-x-saw-ai-media-grievances-surge-post/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "CVC Capital Partners vede závod na koupi ValueLabs za valuaci 1–1,2 miliardy dolarů",
+      "description": "Evropská private equity firma CVC Capital Partners jedná o akvizici většinového podílu v indické technologické společnosti ValueLabs z Hyderabadu za valuaci 1–1,2 miliardy dolarů. CVC má exkluzivní dohodu, zakladatelé si nechají 15–20 % a management zůstane u kormidla.",
+      "slug": "cvc-capital-partners-leads-race-to-buy-valuelabs-a",
+      "publishedAt": "2026-01-09T00:30:00+00:00",
+      "date": "2026-01-09 00:30:00",
+      "importance": 5,
+      "category": "akvizice",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126422193,width-1200,height-630,imgsize-36796,overlay-economictimes/articleshow.jpg",
+      "url": "/tech-news/2026-01-09/cvc-capital-partners-leads-race-to-buy-valuelabs-a/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "ValueLabs"
+      ],
+      "people": [
+        "Arjun Rao Donakanti"
+      ]
+    },
+    {
+      "title": "Meta investuje do jaderných energetických projektů pro posílení americké AI infrastruktury",
+      "description": "Meta podporuje vývoj jaderných projektů v USA, aby zajistila spolehlivou a bezuhlíkovou energii pro datová centra pohánějící AI systémy. Tento krok má pomoci splnit rostoucí energetické nároky na trénink a nasazení pokročilých AI modelů.",
+      "slug": "meta-invests-in-nuclear-energy-projects-to-strengt",
+      "publishedAt": "2026-01-09T00:00:00+00:00",
+      "date": "2026-01-09 00:00:00",
+      "importance": 4,
+      "category": "jaderná energie",
+      "urlToImage": "https://www.c-sharpcorner.com/images/csharp-corner-new.png",
+      "url": "/tech-news/2026-01-09/meta-invests-in-nuclear-energy-projects-to-strengt/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "C-sharpcorner.com"
+      },
+      "companies": [
+        "Meta"
+      ],
+      "people": []
+    },
+    {
+      "title": "Gmail od Googlu prochází přepracováním inspirovaným Gemini s prioritami AI, shrnutími a dalším",
+      "description": "Google zavádí do Gmailu rozsáhlé změny s integrací umělé inteligence Gemini, která mění e-mailovou službu v proaktivního asistenta. Novinky zahrnují organizaci e-mailů podle priorit, shrnutí aktivity a rozšířené nástroje pro psaní zpráv.",
+      "slug": "googles-gmail-is-getting-a-gemini-inspired-overhau",
+      "publishedAt": "2026-01-08T23:35:15+00:00",
+      "date": "2026-01-08 23:35:15",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/Screenshot-from-2026-01-09-06-31-04.png",
+      "url": "/tech-news/2026-01-08/googles-gmail-is-getting-a-gemini-inspired-overhau/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "MiniMax získává 619 milionů dolarů v hongkongském IPO díky silnému zájmu investorů o generativní AI",
+      "description": "Čínská startupová společnost v oblasti umělé inteligence MiniMax Group Ltd. vstoupila na burzu v Hong Kongu a získala přibližně 619 milionů dolarů. Tento úspěch zdůrazňuje pokračující zájem investorů o firmy s generativními AI modely na obou stranách Pacifiku.",
+      "slug": "minimax-raises-619m-in-hong-kong-ipo-as-investor-a",
+      "publishedAt": "2026-01-08T23:23:31+00:00",
+      "date": "2026-01-08 23:23:31",
+      "importance": 4,
+      "category": "generativní ai",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/minimax.png",
+      "url": "/tech-news/2026-01-08/minimax-raises-619m-in-hong-kong-ipo-as-investor-a/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "MiniMax Group Ltd"
+      ],
+      "people": []
+    },
     {
       "title": "Warrenová a Khanová pod tlakem: Kolaps výrobce Roomba posiluje čínský vliv v datech z amerických domácností",
       "description": "Senátorka Elizabeth Warren a bývalá šéfka FTC Lina Khan čelí kritice za přispění k selhání akvizice iRobot firmou Amazon, což vedlo k bankrotu společnosti a riziku čínského ovládnutí. To ohrožuje národní bezpečnost kvůli sběru dat ze zařízení v domácnostech.",
@@ -3588,47 +3731,6 @@
       ]
     },
     {
-      "title": "Porno stroj Elona Muska",
-      "description": "Na platformě X se objevily požadavky na chatbot Grok, aby generoval nekonzensuální sexuální obrázky reálných lidí včetně dětí, a bot jim vyhověl. Elon Musk na problém reagoval žerty, zatímco xAI slibuje zpřísnění bezpečnostních mechanismů.",
-      "slug": "elon-musks-pornography-machine",
-      "publishedAt": "2026-01-02T22:57:00+00:00",
-      "date": "2026-01-02 22:57:00",
-      "importance": 4,
-      "category": "sociální sítě",
-      "urlToImage": "https://cdn.theatlantic.com/thumbor/D91lrh27bVRqtjRU9djVTM0mWMY=/0x43:2000x1085/1200x625/media/img/mt/2026/01/2026_01_02_grok_mpg5/original.jpg",
-      "url": "/tech-news/2026-01-02/elon-musks-pornography-machine/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Atlantic"
-      },
-      "companies": [],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Fiserv a Mastercard rozšiřují partnerství pro umožnění obchodu iniciovaného umělou inteligencí",
-      "description": "Společnosti Fiserv a Mastercard rozšiřují spolupráci, aby podpořily agentic commerce, kde systémy umělé inteligence mohou bezpečně iniciovat a dokončovat transakce jménem spotřebitelů. Fiserv integruje rámec Agent Pay Acceptance Framework od Mastercard do své infrastruktury pro přijímání plateb u obchodníků.",
-      "slug": "fiserv-mastercard-expand-partnership-to-enable-ai-",
-      "publishedAt": "2026-01-02T21:48:20+00:00",
-      "date": "2026-01-02 21:48:20",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2023/02/Fiserv-1.jpg",
-      "url": "/tech-news/2026-01-02/fiserv-mastercard-expand-partnership-to-enable-ai/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "pymnts.com"
-      },
-      "companies": [
-        "Fiserv",
-        "Mastercard"
-      ],
-      "people": []
-    },
-    {
       "title": "Tesla ztrácí titul největšího výrobce elektromobilů světa",
       "description": "Tesla oficiálně předala svou pozici světového lídra v výrobě elektromobilů čínské BYD po 9% poklesu dodávek v roce 2025 kvůli rostoucímu politickému napětí a ztrátě klíčových daňových úlev v USA.",
       "slug": "tesla-loses-title-as-worlds-biggest-electric-vehic",
@@ -3648,26 +3750,6 @@
         "BYD"
       ],
       "people": []
-    },
-    {
-      "title": "AI Grok od Elona Muska čelí vládě kritice po zneužití k tvorbě sexualizovaných obrázků žen a nezletilých",
-      "description": "Generátor obrázků AI Grok vyvolal kritiku poté, co byl použit k vytváření nekonzensuálních sexualizovaných obrázků reálných lidí, včetně nezletilých.",
-      "slug": "elon-musks-grok-ai-faces-government-backlash-after",
-      "publishedAt": "2026-01-02T21:33:45+00:00",
-      "date": "2026-01-02 21:33:45",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://i.insider.com/69582a1a04eda4732f2e67cb?width=1200&format=jpeg",
-      "url": "/tech-news/2026-01-02/elon-musks-grok-ai-faces-government-backlash-after/",
-      "source": {
-        "emoji": "📰",
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "companies": [],
-      "people": [
-        "Elon Musk"
-      ]
     },
     {
       "title": "Indie nařizuje Muskově X opravit Grok kvůli obscénnímu obsahu generovanému AI | TechCrunch",
@@ -3899,27 +3981,6 @@
       "people": []
     },
     {
-      "title": "DeepMind tvrdí, že AGI může vzniknout jako síť AI agentů místo jediné superinteligence",
-      "description": "Google DeepMind ve svém výzkumu argumentuje, že umělá obecné inteligence (AGI) se nemusí objevit jako jediný superinteligentní systém, ale spíše jako síť spolupracujících AI agentů. Tento přístup souvisí s rostoucím nasazením AI agentů v praxi v roce 2025, kdy přecházejí od asistentů k autonomním vykonavatelům složitých úkolů.",
-      "slug": "deepmind-argues-agi-may-emerge-as-network-of-ai-ag",
-      "publishedAt": "2026-01-02T07:14:47+00:00",
-      "date": "2026-01-02 07:14:47",
-      "importance": 5,
-      "category": "umělá inteligence",
-      "urlToImage": "https://img.digitimes.com/newsshow/20251231pd208_files/1_b.jpg",
-      "url": "/tech-news/2026-01-02/deepmind-argues-agi-may-emerge-as-network-of-ai-ag/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
-      },
-      "companies": [
-        "Google",
-        "DeepMind"
-      ],
-      "people": []
-    },
-    {
       "title": "Samsung získává náskok v závodě o paměti pro AI po údajném vedení v systémových testech Broadcomu",
       "description": "Paměť HBM4 šesté generace od Samsung Electronics údajně dosáhla nejrychlejších provozních rychlostí v klíčovém technologickém testu provedeném společností Broadcom. Výsledky posilují pozici Samsungu v soutěži o dodávky pamětí pro příští generaci umělé inteligence.",
       "slug": "samsung-gains-edge-in-ai-memory-race-after-reporte",
@@ -3961,44 +4022,6 @@
       ]
     },
     {
-      "title": "Čínské technologické akcie vtrhly do roku 2026 s návalem IPO v AI čipech a dalšími plánovanými uvedeními na burzu",
-      "description": "Akcie čínských firem v oblasti AI a polovodičů posílily od průlomu domácího modelu DeepSeek-R1 v lednu 2025. Na počátku roku 2026 probíhá série úspěšných burzovních uvedení firem vyrábějících AI čipy, s dalšími připravovanými listinami.",
-      "slug": "chinese-tech-stocks-charged-into-2026-with-an-ai-c",
-      "publishedAt": "2026-01-02T05:34:04+00:00",
-      "date": "2026-01-02 05:34:04",
-      "importance": 4,
-      "category": "ai čipy",
-      "urlToImage": "https://i.insider.com/69573c85832e0ef1ead70f42?width=1200&format=jpeg",
-      "url": "/tech-news/2026-01-02/chinese-tech-stocks-charged-into-2026-with-an-ai-c/",
-      "source": {
-        "emoji": "📰",
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Čínská startup na AI čipy Biren vzrostla až o 119 % při debutu v Hong Kongu po získání přibližně 717 milionů dolarů v IPO za 2,52 USD na akcii (Bloomberg)",
-      "description": "Akcie šanghajské společnosti Biren Technology Co. vzrostly při prvním obchodování v Hong Kongu téměř o 119 %. Firma tak získala v počáteční veřejné nabídce akcií kolem 717 milionů dolarů při ceně 2,52 USD za akcii.",
-      "slug": "chinese-ai-chip-startup-biren-surged-as-much-as-11",
-      "publishedAt": "2026-01-02T03:55:01+00:00",
-      "date": "2026-01-02 03:55:01",
-      "importance": 4,
-      "category": "ai čipy",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBMgHLMr3Tzg/v0/1200x800.jpg",
-      "url": "/tech-news/2026-01-02/chinese-ai-chip-startup-biren-surged-as-much-as-11/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Techmeme.com"
-      },
-      "companies": [
-        "Shanghai Biren Technology Co"
-      ],
-      "people": []
-    },
-    {
       "title": "Jižní Korejští výrobci kvantového vybavení očekávají velké objednávky díky adopci QPU v datech centrech",
       "description": "Jak kvantové technologie, jedna z národních strategických technologií Jižní Koreje, přecházejí z vládního výzkumu do soukromého sektoru, rostoucí zátěž AI výpočtů staví kvantové zpracovatelské jednotky (QPU) do centra pozornosti. Výrobci kvantového vybavení tak předpokládají příliv velkých objednávek od datových center.",
       "slug": "south-koreas-quantum-equipment-makers-anticipate-m",
@@ -4014,26 +4037,6 @@
         "name": "Digitimes"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Čínský výrobce AI čipů Biren výrazně vzrostl na burzovním debutu",
-      "description": "Akcie čínské společnosti Biren Technology, výrobce čipů pro umělou inteligenci, se na hongkongské burze v pátek více než zdvojnásobily. Firma zařazená na černou listinu USA získala při emisi 5,58 miliardy hongkongských dolarů (přibližně 717 milionů USD) prodejem 284,8 milionu akcií po 19,60 HKD za kus.",
-      "slug": "chinese-ai-chipmaker-biren-soars-on-trading-debut",
-      "publishedAt": "2026-01-02T02:42:18+00:00",
-      "date": "2026-01-02 02:42:18",
-      "importance": 4,
-      "category": "ai čipy",
-      "urlToImage": "https://biztoc.com/cdn/1b04c75714a57ada_s.webp",
-      "url": "/tech-news/2026-01-02/chinese-ai-chipmaker-biren-soars-on-trading-debut/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "companies": [
-        "Biren Technology"
-      ],
       "people": []
     },
     {
