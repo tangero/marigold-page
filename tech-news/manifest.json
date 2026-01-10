@@ -1,7 +1,86 @@
 {
-  "generated": "2026-01-10T12:47:32.302647+00:00",
+  "generated": "2026-01-10T16:38:12.724667+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Senátoři vyzvali Apple a Google k odstranění X a Grok z app storeů kvůli sexuálním deepfakům",
+      "description": "Tři demokratickí senátoři vyzvali Apple a Google, aby odstranily aplikace X a Grok z jejich obchodů s aplikacemi kvůli generování nekonzistentních sexuálních obrázků skutečných lidí pomocí AI Grok. X omezilo funkci, ale problém přetrvává v samostatné aplikaci Grok.",
+      "slug": "senators-urged-apple-and-google-to-remove-x-and-gr",
+      "publishedAt": "2026-01-09T16:00:03+00:00",
+      "date": "2026-01-09 16:00:03",
+      "importance": 4,
+      "category": "deepfakes",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260108-grok-ai-app-vl-121p-db4a0a.jpg",
+      "url": "/tech-news/2026-01-09/senators-urged-apple-and-google-to-remove-x-and-gr/",
+      "source": {
+        "emoji": "📰",
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "companies": [
+        "Apple",
+        "Google"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Kvantová neuronová síť by mohla obejít Heisenbergův princip neurčitosti",
+      "description": "Výpočty ukazují, že vnášení náhodnosti do kvantové neuronové sítě by mohlo umožnit určení vlastností kvantových objektů, které jsou jinak zásadně těžko dostupné. Tento přístup by usnadnil měření vlastností qubitů v kvantových počítačích.",
+      "slug": "quantum-neural-network-may-be-able-to-cheat-the-un",
+      "publishedAt": "2026-01-09T16:00:02+00:00",
+      "date": "2026-01-09 16:00:02",
+      "importance": 4,
+      "category": "kvantová ai",
+      "urlToImage": "https://images.newscientist.com/wp-content/uploads/2026/01/08115807/SEI_278889465.jpg",
+      "url": "/tech-news/2026-01-09/quantum-neural-network-may-be-able-to-cheat-the-un/",
+      "source": {
+        "emoji": "📰",
+        "id": "new-scientist",
+        "name": "New Scientist"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Indická vláda zvažuje právní kroky kvůli nesplnění ultimáta X ohledně zneužití Grok AI",
+      "description": "X podal odpověď, v níž tvrdí soulad s indickými zákony a politikami, ale vládní úředníci ji shledali nedostatečnou v konkrétních detailech o provedených krocích.",
+      "slug": "govt-weighs-legal-action-as-x-flouts-ultimatum-on-",
+      "publishedAt": "2026-01-09T15:50:15+00:00",
+      "date": "2026-01-09 15:50:15",
+      "importance": 4,
+      "category": "regulace ai",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/qg9x4w/article70491970.ece/alternates/LANDSCAPE_1200/2026-01-02T182010Z_105403453_RC2PVCAMZMH0_RTRMADP_3_XAI-GROK.JPG",
+      "url": "/tech-news/2026-01-09/govt-weighs-legal-action-as-x-flouts-ultimatum-on/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Allianz spolupracuje s Anthropic na nasazení AI v celém pojišťovacím byznysu",
+      "description": "Allianz plánuje nasadit umělou inteligenci po celém světě v pojišťovnictví s pomocí Anthropic. Poskytovatel finančních služeb a startup v oblasti AI uzavřeli globální partnerství, první projekty již probíhají.",
+      "slug": "allianz-taps-anthropic-to-help-deploy-ai-throughou",
+      "publishedAt": "2026-01-09T15:41:11+00:00",
+      "date": "2026-01-09 15:41:11",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2025/07/Allianz-.jpg",
+      "url": "/tech-news/2026-01-09/allianz-taps-anthropic-to-help-deploy-ai-throughou/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": []
+    },
     {
       "title": "CrowdStrike posílí bezpečnost identit v éře AI akvizicí SGNL",
       "description": "Společnost CrowdStrike oznámila akvizici kalifornské firmy SGNL, specializující se na kontinuální řešení bezpečnosti identit, v transakci v hotovosti a akciích v hodnotě přibližně 740 milionů dolarů. Tento krok má rozšířit schopnosti v řízení přístupu pro lidské, ne-lidské a AI identity na základě hodnocení rizik v reálném čase.",
@@ -3761,29 +3840,6 @@
       "people": []
     },
     {
-      "title": "Čínský výrobce DRAM CXMT míří na IPO za 4,2 miliardy USD a konkuruje Samsungu, SK Hynix i Micronu",
-      "description": "Čínská společnost ChangXin Memory Technologies (CXMT), přední výrobce pamětí DRAM v Číně, podala žádost o úvod na burzu na šanghajském STAR Marketu. Cílem je získat až 29,5 miliardy CNY (přibližně 4,2 miliardy USD) na rozšíření výroby, technologický pokrok a vývoj nových generací pamětí.",
-      "slug": "china-dram-maker-cxmt-targets-42b-ipo-as-it-takes-",
-      "publishedAt": "2026-01-03T23:14:29+00:00",
-      "date": "2026-01-03 23:14:29",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": null,
-      "url": "/tech-news/2026-01-03/china-dram-maker-cxmt-targets-42b-ipo-as-it-takes/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Ic-pcb.com"
-      },
-      "companies": [
-        "ChangXin Memory Technologies",
-        "Samsung",
-        "SK Hynix",
-        "Micron"
-      ],
-      "people": []
-    },
-    {
       "title": "Ovplyvní nové partnerství Disney s OpenAI vaši dovolenou v Disney World?",
       "description": "Umělá inteligence by mohla navždy změnit tvář Disney.",
       "slug": "will-your-disney-world-vacation-be-impacted-by-dis",
@@ -3860,28 +3916,6 @@
       },
       "companies": [],
       "people": []
-    },
-    {
-      "title": "Humanoidní roboti budou v roce 2026 vykonávat domácí práce – a získáte je za 20 000 dolarů",
-      "description": "S příchodem éry humanoidních robotů předpověděl šéf Tesly Elon Musk, že jeho roboti omezí zločinnost, vyřeší chudobu a provedou operace.",
-      "slug": "humanoid-robots-are-ready-to-do-your-housework-in-",
-      "publishedAt": "2026-01-03T14:00:00+00:00",
-      "date": "2026-01-03 14:00:00",
-      "importance": 5,
-      "category": "robotika",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/01/newspress-collage-3reht88kk-1767395805954.jpg?quality=75&strip=all&1767377859&w=1200",
-      "url": "/tech-news/2026-01-03/humanoid-robots-are-ready-to-do-your-housework-in/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "New York Post"
-      },
-      "companies": [
-        "Tesla"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
     },
     {
       "title": "Starlinkova nová generace 5G přímo do mobilu: Co mohou očekávat zákazníci Rogers",
@@ -3986,26 +4020,6 @@
       "people": []
     },
     {
-      "title": "Elon Musk v problémech: Zahájeno vyšetřování AI chatbota kvůli explicitním obrázkům dětí",
-      "description": "Elon Musk čelí výzvám k právním postihům poté, co chatbot Grok na jeho platformě X vytvořil sexuálně sugestivní obrázky dětí. Pařížská prokuratura zahájila vyšetřování, jak uvedlo Politico.",
-      "slug": "elon-musk-in-hot-water-as-probe-launched-into-ai-c",
-      "publishedAt": "2026-01-03T02:36:27+00:00",
-      "date": "2026-01-03 02:36:27",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.rawstory.com/media-library/file-photo-elon-musk-is-seen-with-a-bruised-eye-that-musk-claimed-he-received-at-the-hands-of-his-son-x-ae-a-12-as-he-attends.jpg?id=61187726&width=1200&height=600&coordinates=0%2C279%2C0%2C279",
-      "url": "/tech-news/2026-01-03/elon-musk-in-hot-water-as-probe-launched-into-ai-c/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Raw Story"
-      },
-      "companies": [],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
       "title": "Tesla ztrácí titul největšího výrobce elektromobilů ve prospěch čínské BYD kvůli konkurenci a konci daňových úlev",
       "description": "Roční prodeje Tesly klesly druhý rok v řadě kvůli rostoucí konkurenci, konci amerických daňových úlev a odporu vůči značce. Čínská BYD překonala Teslu v ročních prodejích poprvé.",
       "slug": "tesla-loses-ev-crown-to-chinas-byd-as-competition-",
@@ -4024,24 +4038,6 @@
         "Tesla",
         "BYD"
       ],
-      "people": []
-    },
-    {
-      "title": "Nákupy v roce 2026: Umělá inteligence přebírá můj nejoblíbenější koníček",
-      "description": "Éra agentické umělé inteligence slibuje život bez zbytečných trení. Nevyhnutelnosti však budují dovednosti.",
-      "slug": "shopping-in-2026-ai-is-taking-over-my-no-1-hobby",
-      "publishedAt": "2026-01-03T01:30:33+00:00",
-      "date": "2026-01-03 01:30:33",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2026/01/02/1600x900/logo/3-0-98621094-beautyproducts2-0_1679786666568_1767346334702.jpg",
-      "url": "/tech-news/2026-01-03/shopping-in-2026-ai-is-taking-over-my-no-1-hobby/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Livemint"
-      },
-      "companies": [],
       "people": []
     }
   ]
