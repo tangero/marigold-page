@@ -1,7 +1,87 @@
 {
-  "generated": "2026-01-10T20:34:31.321028+00:00",
+  "generated": "2026-01-11T01:24:28.610885+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Agibank možná odloží IPO v USA po objevení nezvykle regularit brazilským sociálním zabezpečením",
+      "description": "Brazilská fintech společnost Agibank prý může odložit plánovanou úvodní veřejnou nabídku akcií (IPO) v USA, protože brazilský systém sociálního zabezpečení INSS pozastavil její klíčový byznys s výplatními úvěry pro důchodce kvůli závažným nezvykle regularitám.",
+      "slug": "agibank-may-postpone-us-ipo-after-brazils-social-s",
+      "publishedAt": "2026-01-10T00:54:38+00:00",
+      "date": "2026-01-10 00:54:38",
+      "importance": 4,
+      "category": "fintech",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/01/Agibank.png",
+      "url": "/tech-news/2026-01-10/agibank-may-postpone-us-ipo-after-brazils-social-s/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [
+        "Agibank"
+      ],
+      "people": []
+    },
+    {
+      "title": "FCC schválila dalších 7500 satelitů pro celkových 15 000 satelitů SpaceX Starlink",
+      "description": "Federální komise pro komunikace (FCC) povolila společnosti SpaceX nasadit a provozovat až 15 000 pokročilých satelitů Starlink. Toto rozšíření má zajistit rychlejší a výkonnější internetové připojení v USA.",
+      "slug": "fcc-approves-another-7500-satellites-to-a-total-of",
+      "publishedAt": "2026-01-09T23:27:37+00:00",
+      "date": "2026-01-09 23:27:37",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/01/Spacex15K.jpg",
+      "url": "/tech-news/2026-01-09/fcc-approves-another-7500-satellites-to-a-total-of/",
+      "source": {
+        "emoji": "📰",
+        "id": "next-big-future",
+        "name": "Next Big Future"
+      },
+      "companies": [
+        "SpaceX"
+      ],
+      "people": [
+        "Donald Trump"
+      ]
+    },
+    {
+      "title": "Poskytovatel cloudových služeb pro umělou inteligenci Lambda údajně získává kolo financování za 350 milionů dolarů",
+      "description": "Startup Lambda Inc., který provozuje cloudovou platformu pro úlohy umělé inteligence, údajně hledá investice ve výši 350 milionů dolarů. Mubadala Capital jedná o vedení kola financování, pouhé dva měsíce po předchozím kole za 1,5 miliardy dolarů.",
+      "slug": "ai-cloud-provider-lambda-reportedly-raising-350m-r",
+      "publishedAt": "2026-01-09T23:21:02+00:00",
+      "date": "2026-01-09 23:21:02",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/Lambda.png",
+      "url": "/tech-news/2026-01-09/ai-cloud-provider-lambda-reportedly-raising-350m-r/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Lambda Inc"
+      ],
+      "people": []
+    },
+    {
+      "title": "Krize memorizace v AI",
+      "description": "Velké jazykové modely se „neučí“ – kopírují. To by mohlo zásadně ovlivnit technologický průmysl.",
+      "slug": "ais-memorization-crisis",
+      "publishedAt": "2026-01-09T22:43:44+00:00",
+      "date": "2026-01-09 22:43:44",
+      "importance": 5,
+      "category": "umělá inteligence",
+      "urlToImage": "https://cdn.theatlantic.com/thumbor/uoz9_OY2pO-93_0emQxcOSAJICY=/0x32:1498x812/1200x625/media/img/mt/2026/01/2025_12_18_Ai_compress_mpg_landscape/original.gif",
+      "url": "/tech-news/2026-01-09/ais-memorization-crisis/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Atlantic"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Sázka hedgeového fondu D1 na SpaceX pohání 39procentní růst soukromého portfolia",
       "description": "Portfolio soukromých investic hedgeového fondu D1 Capital Partners vzrostlo loni o 39 procent díky významné pozici v SpaceX Elona Muska, které dosáhlo valuace 800 miliard dolarů minulý měsíc. SpaceX tvoří přibližně 45 procent expozice fondu v oblasti venture capital a private equity.",
@@ -3922,64 +4002,6 @@
       "people": []
     },
     {
-      "title": "Deset nejvýznamnějších příběhů o AI v roce 2025: Tilly Norwood, velká salva Sora, obavy odborů a další",
-      "description": "Před zahájením veletrhu CES připomeňme si rok 2025, který lze objektivně označit za Rok AI. Tato technologie vyvolala miliardy dolarů v korporátních investicích, posunula akciový trh na rekordní úrovně a donutila Hollywood k prvnímu velkému vyrovnání se s jejími dopady.",
-      "slug": "the-top-10-ai-stories-of-2025-tilly-norwood-soras-",
-      "publishedAt": "2026-01-03T17:00:00+00:00",
-      "date": "2026-01-03 17:00:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2025/10/345344265624564.jpg?w=1024",
-      "url": "/tech-news/2026-01-03/the-top-10-ai-stories-of-2025-tilly-norwood-soras/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Deadline"
-      },
-      "companies": [],
-      "people": [
-        "Tilly Norwood"
-      ]
-    },
-    {
-      "title": "Expanze TSMC v USA téměř osminásobně snižuje marže na čipy kvůli vyšším nákladům na práci a odpisu waferů",
-      "description": "Výroba čipů v USA vede u TSMC k výraznému poklesu hrubých marží, které se zmenšují téměř osminásobně oproti tchajwanské produkci kvůli vyšším nákladům na práci a odpisu waferů. Přesto společnost plánuje investovat až 300 miliard dolarů do amerických fabrik a zařízení pro posílení dodavatelského řetězce.",
-      "slug": "tsmcs-us-expansion-crushes-the-companys-chip-margi",
-      "publishedAt": "2026-01-03T16:27:52+00:00",
-      "date": "2026-01-03 16:27:52",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/10/TSMC-2.jpg",
-      "url": "/tech-news/2026-01-03/tsmcs-us-expansion-crushes-the-companys-chip-margi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Wccftech"
-      },
-      "companies": [
-        "TSMC"
-      ],
-      "people": []
-    },
-    {
-      "title": "Závod o globální dominanci v umělé inteligenci",
-      "description": "Soutěž mezi Čínou a Spojenými státy přesahuje pouhou technologii.",
-      "slug": "the-race-for-global-domination-in-ai",
-      "publishedAt": "2026-01-03T15:15:00+00:00",
-      "date": "2026-01-03 15:15:00",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://cdn.theatlantic.com/thumbor/M3-bl65MhJBi4q6ioQ71KYGYDr0=/0x53:2000x1095/1200x625/media/img/mt/2026/01/2026_1_3_AI_Race/original.png",
-      "url": "/tech-news/2026-01-03/the-race-for-global-domination-in-ai/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Atlantic"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Průměrná kompenzace zaměstnanců OpenAI dosahuje 1,5 milionu dolarů ročně",
       "description": "Podle Wall Street Journal zaměstnanci OpenAI obdrželi v roce 2025 akciovou kompenzaci v průměru 1,5 milionu dolarů na osobu, což je nejvíce mezi startupy před plánovaným uvedením na burzu. Tato částka převyšuje mzdy v jiných technologických firmách sedmkrát oproti Alphabetu před jeho IPO.",
       "slug": "your-jaw-will-hit-the-floor-when-you-find-out-how-",
@@ -3996,27 +4018,6 @@
       },
       "companies": [
         "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Tesla předává korunu v elektromobilech čínskému BYD v roce 2025 kvůli poklesu prodejů",
-      "description": "Prodeje Tesly klesly v roce 2025, čímž společnost předala pozici největšího výrobce elektromobilů na světě čínskému automobilovému gigantovi BYD. Tato změna nastala po zveřejnění výsledků společnosti v pátek.",
-      "slug": "tesla-loses-ev-crown-to-chinas-byd-in-2025-as-sale",
-      "publishedAt": "2026-01-03T11:45:35+00:00",
-      "date": "2026-01-03 11:45:35",
-      "importance": 4,
-      "category": "elektromobilita",
-      "urlToImage": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/WEuWuu9swbsGkwYgt2cR0H0QYTBK2gYuiPgVpmX8.jpg",
-      "url": "/tech-news/2026-01-03/tesla-loses-ev-crown-to-chinas-byd-in-2025-as-sale/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Standard Digital"
-      },
-      "companies": [
-        "Tesla",
-        "BYD"
       ],
       "people": []
     },
