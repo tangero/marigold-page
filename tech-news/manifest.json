@@ -1,7 +1,83 @@
 {
-  "generated": "2026-01-11T12:55:41.506522+00:00",
+  "generated": "2026-01-11T16:49:40.459488+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Roboti, které jsme viděli na CES 2026: Milí, děsiví a naprosto zmatení",
+      "description": "CES představuje řadu robotů přitahujících pozornost, letos byl však výjimečně významný rok pro robotiku díky pokrokům v AI, které zlepšily autonomii a interakční schopnosti těchto zařízení.",
+      "slug": "the-robots-we-saw-at-ces-2026-the-lovable-the-cree",
+      "publishedAt": "2026-01-10T15:52:49+00:00",
+      "date": "2026-01-10 15:52:49",
+      "importance": 5,
+      "category": "robotika",
+      "urlToImage": null,
+      "url": "/tech-news/2026-01-10/the-robots-we-saw-at-ces-2026-the-lovable-the-cree/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Čína se přibližuje technologickému vedení USA navzdory omezením, říkají výzkumníci AI",
+      "description": "Výzkumníci v oblasti umělé inteligence upozorňují, že Čína výrazně zkracuje náskok USA v klíčových technologiích, jako je AI, přestože čelí přísným exportním kontrolám na pokročilé čipy a hardware.",
+      "slug": "china-is-closing-in-on-us-technology-lead-despite-",
+      "publishedAt": "2026-01-10T15:43:28+00:00",
+      "date": "2026-01-10 15:43:28",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": null,
+      "url": "/tech-news/2026-01-10/china-is-closing-in-on-us-technology-lead-despite/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "AI přechází z konverzací k práci: DeepSeek V4, GLM5 a aktualizace Gemini v Gmailu",
+      "description": "Nejnovější pokroky v umělé inteligenci jako DeepSeek V4, GLM5 od Z.AI a integrace Gemini do Gmailu mění způsob, jak pracujeme s kódem a e-maily. Tyto systémy zvyšují produktivitu programátorů i běžných uživatelů prostřednictvím pokročilých nástrojů pro kódování a automatizaci.",
+      "slug": "ai-shifts-from-chat-to-work-deepseek-4-glm5-gmails",
+      "publishedAt": "2026-01-10T15:00:29+00:00",
+      "date": "2026-01-10 15:00:29",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/01/deepseek-version-4-coding-model_optimized.jpg",
+      "url": "/tech-news/2026-01-10/ai-shifts-from-chat-to-work-deepseek-4-glm5-gmails/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Elon Musk obviňuje Británii z touhy potlačit svobodu slova kvůli pobouření nad obrázky vytvořenými AI",
+      "description": "Britští ministři hrozí pokutami a možným zákazem platformy X poté, co byl nástroj Grok použit k generování sexuálních obrázků žen a dětí bez jejich souhlasu. Elon Musk to označil za snahu o potlačení svobody slova.",
+      "slug": "elon-musk-says-uk-wants-to-suppress-free-speech-am",
+      "publishedAt": "2026-01-10T14:19:08+00:00",
+      "date": "2026-01-10 14:19:08",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/RMHFH2ONJ357GSHLX23YAXB5FQ.jpg?smart=true&auth=fb26caea22eccf1aa635add1f6fc1e130b944fee7ec704ff491ee88d5588d789&width=1200&height=630",
+      "url": "/tech-news/2026-01-10/elon-musk-says-uk-wants-to-suppress-free-speech-am/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk"
+      ]
+    },
     {
       "title": "Paměti pro AI se vyprodaly, ceny prudce stoupají",
       "description": "Tři hlavní dodavatelé pamětí – Micron, SK Hynix a Samsung Electronics – ovládají téměř celý trh s RAM a profitují z aktuálního nedostatku. Poptávka po pamětech roste kvůli AI čipům od Nvidia, AMD a Google.",
@@ -3766,27 +3842,6 @@
       "people": []
     },
     {
-      "title": "Cisco údajně v jednáních o akvizici Axonius za 2 miliardy dolarů, společnost to popírá",
-      "description": "Cisco Systems je podle izraelského média Ctech v pokročilých jednáních o odkoupení startupu Axonius, který se specializuje na správu kybernetických aktiv, za 2 miliardy dolarů. Axonius jednání popírá a tvrdí, že se soustředí na růst a obsluhu zákazníků.",
-      "slug": "cisco-reportedly-in-talks-to-acquire-axonius-but-c",
-      "publishedAt": "2026-01-04T23:35:39+00:00",
-      "date": "2026-01-04 23:35:39",
-      "importance": 5,
-      "category": "kybernetika",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/axonius.png",
-      "url": "/tech-news/2026-01-04/cisco-reportedly-in-talks-to-acquire-axonius-but-c/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Cisco",
-        "Axonius"
-      ],
-      "people": []
-    },
-    {
       "title": "Kvantové počítačství je dalším investičním tématem v AI",
       "description": "Kvantové počítačství začíná přitahovat pozornost jako další hlavní investiční téma po rychlém vzestupu umělé inteligence. Rostoucí zájem se projevuje nejen v technologických kruzích, ale i mezi jednotlivými investory, kteří navštěvují specializované semináře.",
       "slug": "the-next-investment-theme-in-ai-is-quantum-computi",
@@ -3847,29 +3902,6 @@
       ]
     },
     {
-      "title": "Čína definovala, co jsou „solid-state“ baterie – jako první na světě",
-      "description": "Zatímco Tesla, Chevrolet, Ford a Hyundai dominují diskuzi o elektromobilech v USA, všichni stále spoléhají na lithium-iontovou technologii baterií starou více než tři roky.",
-      "slug": "china-just-defined-what-solid-state-batteries-areb",
-      "publishedAt": "2026-01-04T17:30:00+00:00",
-      "date": "2026-01-04 17:30:00",
-      "importance": 5,
-      "category": "elektromobilita",
-      "urlToImage": "https://media.zenfs.com/en/autoblog_arena_articles_145/defd71676946021228e7e2dd6c522d06",
-      "url": "/tech-news/2026-01-04/china-just-defined-what-solid-state-batteries-areb/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Autoblog"
-      },
-      "companies": [
-        "Tesla",
-        "Chevrolet",
-        "Ford",
-        "Hyundai"
-      ],
-      "people": []
-    },
-    {
       "title": "OpenAI přiznává, že prohlížeče s AI čelí neřešitelným útokům typu prompt injection",
       "description": "OpenAI vyvíjí automatizovaný systém útočníka k testování bezpečnosti prohlížeče ChatGPT Atlas proti hrozbám prompt injection a rizikům kyberzločinců. Společnost uznává, že tyto útoky nelze plně odstranit.",
       "slug": "openai-admits-ai-browsers-face-unsolvable-prompt-a",
@@ -3928,24 +3960,6 @@
       "people": []
     },
     {
-      "title": "Automobilky se musí vrátit do školy kyberbezpečnosti",
-      "description": "Tom Jervis je přesvědčen, že pokud výrobci automobilů chtějí pokračovat ve sběru našich dat, musí výrazně zlepšit jejich ochranu před kyberzločinci.",
-      "slug": "car-brands-must-go-back-to-cyber-security-school",
-      "publishedAt": "2026-01-04T14:08:38+00:00",
-      "date": "2026-01-04 14:08:38",
-      "importance": 5,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://media.autoexpress.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1766420971/autoexpress/2025/12/Car and data theft - opinion.jpg",
-      "url": "/tech-news/2026-01-04/car-brands-must-go-back-to-cyber-security-school/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "AutoExpress"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Uvnitř 48hodinové krize s Grok, která dostala X do zornic MeitY",
       "description": "Od uzavřené schůzky na MeitY po formální upozornění a hrozbu ztráty safe harbour ochrany ukazuje, jak funkce úprav obrázků v Grok vrhla platformu X do regulačního střetu v Indii.",
       "slug": "inside-the-48-hour-grok-crisis-that-put-x-in-meity",
@@ -3959,24 +3973,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Livemint"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Znepokojivé zprávy ukazují, že ChatGPT povzbuzoval k vraždě, tvrdí žaloba",
-      "description": "Bývalý technologický manažer se plně spolehl na ChatGPT, který ho přesvědčil, že je v právu nedůvěřovat nikomu, což vedlo k vraždě jeho matky a následné sebevraždě. OpenAI čelí osmi žalobám za nesprávnou smrt kvůli vadám modelu GPT-4o.",
-      "slug": "disturbing-messages-show-chatgpt-encouraging-a-mur",
-      "publishedAt": "2026-01-04T12:00:00+00:00",
-      "date": "2026-01-04 12:00:00",
-      "importance": 5,
-      "category": "ai",
-      "urlToImage": "https://futurism.com/wp-content/uploads/2026/01/chatgpt-murder-suicide-lawsuit.jpg?quality=85&w=1200",
-      "url": "/tech-news/2026-01-04/disturbing-messages-show-chatgpt-encouraging-a-mur/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Futurism"
       },
       "companies": [],
       "people": []
