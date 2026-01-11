@@ -1,7 +1,168 @@
 {
-  "generated": "2026-01-11T16:49:40.459488+00:00",
+  "generated": "2026-01-11T20:51:10.660833+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Indonésie se stává první zemí, která pozastavila Grok od Elona Muska kvůli tvorbě nekonzentačních sexuálních deepfakeů",
+      "description": "Indonésie jako první země na světě pozastavila přístup k chatbotu Grok od xAI kvůli generování sexualizovaných AI obrázků reálných žen a dětí bez jejich souhlasu. Tento krok signalizuje rostoucí globální tlak na regulaci AI nástrojů s minimálními bezpečnostními omezeními.",
+      "slug": "indonesia-becomes-the-first-country-to-suspend-elo",
+      "publishedAt": "2026-01-10T20:06:47+00:00",
+      "date": "2026-01-10 20:06:47",
+      "importance": 4,
+      "category": "deepfakes",
+      "urlToImage": "https://i.insider.com/6962929b832e0ef1ead78d19?width=1200&format=jpeg",
+      "url": "/tech-news/2026-01-10/indonesia-becomes-the-first-country-to-suspend-elo/",
+      "source": {
+        "emoji": "📰",
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Musk obviňuje Británii z snahy potlačit svobodu slova",
+      "description": "Elon Musk se mesiace hádá s britskými úřady a obviňuje je z cenzury a zatýkání kvůli příspěvkům na sociálních sítích. Nejnověji kritizuje hrozbu zákazu jeho AI chatbota Grok kvůli generování deepfake obrázků.",
+      "slug": "musk-accuses-uk-of-drive-to-suppress-free-speech",
+      "publishedAt": "2026-01-10T19:46:04+00:00",
+      "date": "2026-01-10 19:46:04",
+      "importance": 4,
+      "category": "svoboda slova",
+      "urlToImage": "https://mf.b37mrtl.ru/files/2026.01/article/6962ab5220302741d50cb90c.jpg",
+      "url": "/tech-news/2026-01-10/musk-accuses-uk-of-drive-to-suppress-free-speech/",
+      "source": {
+        "emoji": "📰",
+        "id": "rt",
+        "name": "RT"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "OpenAI představuje ChatGPT Health: Funkce pro propojení osobních zdravotních dat s AI chatbotem",
+      "description": "OpenAI Sama Altmana spustila ChatGPT Health, novou funkci umožňující uživatelům bezpečně propojit své zdravotní záznamy a aplikace pro sledování zdraví s AI chatbotem. Funkce slouží k personalizovaným odpovědům na běžné zdravotní otázky, není však náhradou za lékařskou péči.",
+      "slug": "dr-ai-wants-your-data-openai-releases-chatgpt-heal",
+      "publishedAt": "2026-01-10T19:12:33+00:00",
+      "date": "2026-01-10 19:12:33",
+      "importance": 4,
+      "category": "zdravotní ai",
+      "urlToImage": "https://media.breitbart.com/media/2026/01/Sam-Altman-the-boss-of-OpenAIs-ChatGPT-640x335.jpg",
+      "url": "/tech-news/2026-01-10/dr-ai-wants-your-data-openai-releases-chatgpt-heal/",
+      "source": {
+        "emoji": "📰",
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": [
+        "Sam Altman"
+      ]
+    },
+    {
+      "title": "Tento týdenní technologické příběhy z webu (do 10. ledna)",
+      "description": "Týdně prohledáváme web pro důležité, poučné a zajímavé příběhy z vědy a technologie. Příspěvek tento týden zahrnuje pokroky v robotice, umělé inteligenci, biotechnologiích a kvantovém výpočtu.",
+      "slug": "this-weeks-awesome-tech-stories-from-around-the-we",
+      "publishedAt": "2026-01-10T19:10:13+00:00",
+      "date": "2026-01-10 19:10:13",
+      "importance": 5,
+      "category": "technologické novink",
+      "urlToImage": "https://singularityhub.com/uploads/2026/01/abstract-pattern-of-colors-on-black.jpeg?auto=webp",
+      "url": "/tech-news/2026-01-10/this-weeks-awesome-tech-stories-from-around-the-we/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Singularity Hub"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Sam Altman zvažuje IPO OpenAI v hodnotě 830 miliard až 1 bilion dolarů a přiznává, že vedení veřejné společnosti by mohlo být 'opravdu otravné'",
+      "description": "Generální ředitel OpenAI Sam Altman diskutuje o možném úvodě firmy na burzu s valuací až 1 bilion dolarů, ale vyjadřuje skeptický postoj k roli šéfa veřejné společnosti. Spekulace o IPO v roce 2027 nabírají na obrátkách kvůli rostoucím kapitálovým potřebám firmy.",
+      "slug": "sam-altman-weighs-an-830b1t-ipo-and-admits-running",
+      "publishedAt": "2026-01-10T19:01:09+00:00",
+      "date": "2026-01-10 19:01:09",
+      "importance": 4,
+      "category": "ipo",
+      "urlToImage": "https://s.yimg.com/os/en/Benzinga/afc53244ef0f2407359e41f2431148ea",
+      "url": "/tech-news/2026-01-10/sam-altman-weighs-an-830b1t-ipo-and-admits-running/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [],
+      "people": [
+        "Sam Altman"
+      ]
+    },
+    {
+      "title": "První pevnolátková baterie na světě: Hype nebo naděje? Donut Lab pod lupou",
+      "description": "Donut Lab tvrdí, že vyvinula první pevnolátkovou baterii s hustotou energie 400 Wh/kg, nabíjením za 5 minut a životností 100 000 cyklů. Článek zkoumá, zda jde o skutečný průlom v ukládání energie pro elektromobily a obnovitelné zdroje, nebo jen o nepodložené sliby.",
+      "slug": "worlds-first-solid-state-battery-solid-cell-hype-o",
+      "publishedAt": "2026-01-10T18:21:07+00:00",
+      "date": "2026-01-10 18:21:07",
+      "importance": 5,
+      "category": "pevnolátkové baterie",
+      "urlToImage": null,
+      "url": "/tech-news/2026-01-10/worlds-first-solid-state-battery-solid-cell-hype-o/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "companies": [
+        "Donut Lab"
+      ],
+      "people": []
+    },
+    {
+      "title": "Firmy na CES doufají, že mozek bude další velkou věcí v informatice",
+      "description": "Na každé CES se objevují zařízení slibující zlepšení mentálního zdraví. Počet firem vstupujících do oblasti neurotechnologií roste a v budoucnu by EEG headsety mohly být běžné jako srdeční monitory.",
+      "slug": "the-ces-companies-hoping-your-brain-is-the-next-bi",
+      "publishedAt": "2026-01-10T17:52:20+00:00",
+      "date": "2026-01-10 17:52:20",
+      "importance": 4,
+      "category": "neurotechnologie",
+      "urlToImage": null,
+      "url": "/tech-news/2026-01-10/the-ces-companies-hoping-your-brain-is-the-next-bi/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Nvidia vyzývá Teslu: Jensen Huang mluví o 'ChatGPT momentu' pro autonomní řízení",
+      "description": "„ChatGPT moment pro fyzickou AI je zde – když stroje začnou chápat, uvažovat a jednat ve skutečném světě,“ prohlásil generální ředitel Nvidia Jensen Huang na CES v Las Vegas. Nvidia představila model Alpamayo pro autonomní vozy a robotaxi.",
+      "slug": "nvidia-takes-on-tesla-with-what-jensen-huang-calls",
+      "publishedAt": "2026-01-10T16:00:45+00:00",
+      "date": "2026-01-10 16:00:45",
+      "importance": 4,
+      "category": "autonomní vozy",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/VzgaLHGyJWm2OXjhC2O5uA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/3438c520-ec06-11f0-bddf-75be531c7130",
+      "url": "/tech-news/2026-01-10/nvidia-takes-on-tesla-with-what-jensen-huang-calls/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "Nvidia",
+        "Tesla"
+      ],
+      "people": [
+        "Jensen Huang"
+      ]
+    },
     {
       "title": "Roboti, které jsme viděli na CES 2026: Milí, děsiví a naprosto zmatení",
       "description": "CES představuje řadu robotů přitahujících pozornost, letos byl však výjimečně významný rok pro robotiku díky pokrokům v AI, které zlepšily autonomii a interakční schopnosti těchto zařízení.",
@@ -3857,162 +4018,6 @@
         "name": "Newsonjapan.com"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "OpenAI hledá 'Head of Preparedness' na řešení nových rizik bezpečnosti AI",
-      "description": "Společnost OpenAI Sama Altmana, tvůrce ChatGPT, vyhlašuje novou pozici vrcholového manažera pro připravenost, který povede úsilí o studium a mitigaci bezpečnostních rizik spojených s pokročilými AI modely. Pozice nabízí plat 555 000 dolarů plus podíly a zaměřuje se na přípravu na hraniční schopnosti AI, které mohou vést k vážným škodám.",
-      "slug": "openai-seeks-head-of-preparedness-to-tackle-emergi",
-      "publishedAt": "2026-01-04T19:20:36+00:00",
-      "date": "2026-01-04 19:20:36",
-      "importance": 4,
-      "category": "ai bezpečnost",
-      "urlToImage": "https://media.breitbart.com/media/2025/12/Sam-Altman-speaks-on-screen-640x335.jpg",
-      "url": "/tech-news/2026-01-04/openai-seeks-head-of-preparedness-to-tackle-emergi/",
-      "source": {
-        "emoji": "📰",
-        "id": "breitbart-news",
-        "name": "Breitbart News"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": [
-        "Sam Altman"
-      ]
-    },
-    {
-      "title": "„Otec AI“ Geoffrey Hinton předpovídá, že umělá inteligence nahradí v roce 2026 mnohem více pracovních míst",
-      "description": "„Otec AI“ Geoffrey Hinton věří, že umělá inteligence bude v roce 2026 rychle pokračovat v pokroku a získá schopnost nahradit rostoucí počet lidských pracovních míst díky exponenciálnímu zlepšování výkonu.",
-      "slug": "godfather-of-ai-geoffrey-hinton-predicts-ai-will-r",
-      "publishedAt": "2026-01-04T19:03:21+00:00",
-      "date": "2026-01-04 19:03:21",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://media.breitbart.com/media/2025/12/Godfather-of-AI-predicts-job-losses-640x335.jpg",
-      "url": "/tech-news/2026-01-04/godfather-of-ai-geoffrey-hinton-predicts-ai-will-r/",
-      "source": {
-        "emoji": "📰",
-        "id": "breitbart-news",
-        "name": "Breitbart News"
-      },
-      "companies": [],
-      "people": [
-        "Geoffrey Hinton"
-      ]
-    },
-    {
-      "title": "OpenAI přiznává, že prohlížeče s AI čelí neřešitelným útokům typu prompt injection",
-      "description": "OpenAI vyvíjí automatizovaný systém útočníka k testování bezpečnosti prohlížeče ChatGPT Atlas proti hrozbám prompt injection a rizikům kyberzločinců. Společnost uznává, že tyto útoky nelze plně odstranit.",
-      "slug": "openai-admits-ai-browsers-face-unsolvable-prompt-a",
-      "publishedAt": "2026-01-04T17:10:26+00:00",
-      "date": "2026-01-04 17:10:26",
-      "importance": 4,
-      "category": "ai bezpečnost",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/chat-gpt-atlas-presentation.jpg",
-      "url": "/tech-news/2026-01-04/openai-admits-ai-browsers-face-unsolvable-prompt-a/",
-      "source": {
-        "emoji": "📰",
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Šéf významné technologické firmy varuje před AI agenty v kyberútocích",
-      "description": "CEO společnosti Zscaler Jay Chaudhry v rozhovoru pro CNBC upozornil, že AI agenti výrazně zintenzivnili kyberútoky tempem, kterému většina firem nestíhá reagovat. Podniky pomalu přizpůsobují svou obranu této hrozbě, což představuje větší riziko než samotná technologie.",
-      "slug": "major-tech-ceo-sounds-alarm-on-ai-agents",
-      "publishedAt": "2026-01-04T15:54:46+00:00",
-      "date": "2026-01-04 15:54:46",
-      "importance": 4,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://biztoc.com/cdn/20fd1d284e4e7813_s.webp",
-      "url": "/tech-news/2026-01-04/major-tech-ceo-sounds-alarm-on-ai-agents/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "companies": [],
-      "people": [
-        "Jay Chaudhry"
-      ]
-    },
-    {
-      "title": "Tiché testy Grok 4.2 ukazují ostřejší uživatelské rozhraní, čistší kód a hratelné hry",
-      "description": "Grok 4.2 s kódovým názvem Obsidian prochází tichými testy na platformách jako Design Arena a LM Marina, kde demonstruje pokroky v tvorbě webových designů, interaktivních UI prvků a dynamických grafů. Tento model spojuje kreativitu s technickou přesností a testuje hranice AI v praktických aplikacích.",
-      "slug": "grok-42-quiet-trials-show-sharper-ui-cleaner-code-",
-      "publishedAt": "2026-01-04T15:00:46+00:00",
-      "date": "2026-01-04 15:00:46",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/01/grok-4-2-vs-4-1-comparison_optimized.jpg",
-      "url": "/tech-news/2026-01-04/grok-42-quiet-trials-show-sharper-ui-cleaner-code/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Uvnitř 48hodinové krize s Grok, která dostala X do zornic MeitY",
-      "description": "Od uzavřené schůzky na MeitY po formální upozornění a hrozbu ztráty safe harbour ochrany ukazuje, jak funkce úprav obrázků v Grok vrhla platformu X do regulačního střetu v Indii.",
-      "slug": "inside-the-48-hour-grok-crisis-that-put-x-in-meity",
-      "publishedAt": "2026-01-04T12:07:02+00:00",
-      "date": "2026-01-04 12:07:02",
-      "importance": 4,
-      "category": "ai regulace",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2026/01/04/1600x900/logo/Elon_Musk_Grok_AI_1760097268252_1760097268371_1767527538243.png",
-      "url": "/tech-news/2026-01-04/inside-the-48-hour-grok-crisis-that-put-x-in-meity/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Livemint"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Roboti se naučí 1000 úkolů za jediný den z jedné demonstrace",
-      "description": "Vědci dosáhli milníku v robotice: robot se naučil 1000 různých fyzických úkolů za jediný den pouze z jedné demonstrace na úkol. Tento pokrok by mohl ovlivnit výrobu, zdravotnictví a domácí robotiku.",
-      "slug": "robots-learn-1000-tasks-in-one-day-from-a-single-d",
-      "publishedAt": "2026-01-04T11:23:30+00:00",
-      "date": "2026-01-04 11:23:30",
-      "importance": 5,
-      "category": "robotika",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/robot-learns-1000-tasks-001.jpg",
-      "url": "/tech-news/2026-01-04/robots-learn-1000-tasks-in-one-day-from-a-single-d/",
-      "source": {
-        "emoji": "📰",
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Šéfka security intel v Palo Alto Networks označuje AI agenty za největší vnitřní hrozbu roku 2026",
-      "description": "AI agenti se stanou novou vnitřní hrozbou pro firmy v roce 2026, tvrdí Wendi Whitmore, šéfka oddělení bezpečnostní inteligence v Palo Alto Networks. Podle Gartnera se integruje do 40 procent podnikových aplikací, což přináší výzvy pro bezpečnostní týmy kvůli rychlému nasazení bez dostatečných kontrol.",
-      "slug": "palo-alto-networks-security-intel-boss-calls-ai-ag",
-      "publishedAt": "2026-01-04T10:40:07+00:00",
-      "date": "2026-01-04 10:40:07",
-      "importance": 4,
-      "category": "kybernetika",
-      "urlToImage": "https://regmedia.co.uk/2026/01/02/wendi_whitmore.jpg",
-      "url": "/tech-news/2026-01-04/palo-alto-networks-security-intel-boss-calls-ai-ag/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "companies": [
-        "Palo Alto Networks"
-      ],
       "people": []
     },
     {
