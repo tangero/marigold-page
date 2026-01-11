@@ -1,7 +1,125 @@
 {
-  "generated": "2026-01-11T08:42:44.852897+00:00",
+  "generated": "2026-01-11T12:55:41.506522+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Paměti pro AI se vyprodaly, ceny prudce stoupají",
+      "description": "Tři hlavní dodavatelé pamětí – Micron, SK Hynix a Samsung Electronics – ovládají téměř celý trh s RAM a profitují z aktuálního nedostatku. Poptávka po pamětech roste kvůli AI čipům od Nvidia, AMD a Google.",
+      "slug": "ai-memory-is-sold-out-causing-an-unprecedented-sur",
+      "publishedAt": "2026-01-10T12:00:01+00:00",
+      "date": "2026-01-10 12:00:01",
+      "importance": 4,
+      "category": "paměti",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108183409-1754634274002-gettyimages-885294104-spk_00007_01015.jpeg?v=1762812885&w=1920&h=1080",
+      "url": "/tech-news/2026-01-10/ai-memory-is-sold-out-causing-an-unprecedented-sur/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [
+        "Micron",
+        "SK Hynix",
+        "Samsung Electronics"
+      ],
+      "people": []
+    },
+    {
+      "title": "Bezpečnostní novinky tento týden: ICE nyní může špehovat každý telefon ve vaší čtvrti",
+      "description": "Írán vypnul internet kvůli protestům, chatbot Grok od xAI generuje explicitní obsah včetně obrázků nezletilých a ICE získal nástroje pro masové sledování mobilů. Další témata zahrnují extradici podvodníka do Číny a tipy pro lepší soukromí v WhatsApp.",
+      "slug": "security-news-this-week-ice-can-now-spy-on-every-p",
+      "publishedAt": "2026-01-10T11:30:00+00:00",
+      "date": "2026-01-10 11:30:00",
+      "importance": 5,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://media.wired.com/photos/69619f6135ffd689b24891d2/191:100/w_1280,c_limit/Security-Roundup-ICE-Can-Now-Spy-on-Every-Phone-in-Your-Neighborhood-Security.jpg",
+      "url": "/tech-news/2026-01-10/security-news-this-week-ice-can-now-spy-on-every-p/",
+      "source": {
+        "emoji": "🔧",
+        "id": "wired",
+        "name": "Wired"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Vzpoura kvůli deepfakes z Grok: 'výmluva pro cenzuru' – Musk",
+      "description": "Kritici sociální sítě X 'chtějí jakoukoli výmluvu pro cenzuru', tvrdí Elon Musk, zatímco jeho platforma čelí hrozbě uzavření v Británii kvůli deepfake pornografii a obrázkům dětského zneužívání generovaným AI chatbotem Grok.",
+      "slug": "outcry-over-grok-deepfakes-excuse-for-censorship-m",
+      "publishedAt": "2026-01-10T11:03:54+00:00",
+      "date": "2026-01-10 11:03:54",
+      "importance": 4,
+      "category": "deepfakes",
+      "urlToImage": "https://www.rte.ie/images/0023b863-1600.jpg",
+      "url": "/tech-news/2026-01-10/outcry-over-grok-deepfakes-excuse-for-censorship-m/",
+      "source": {
+        "emoji": "📰",
+        "id": "rte",
+        "name": "RTE"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Elon Musk reaguje šokujícím způsobem na nekonzistentní X-rated deepfakes od chatbota Grok",
+      "description": "Elon Musk čelí kritice kvůli zneužití svého AI chatbota Grok na platformě X k tvorbě explicitních deepfake obrázků bez souhlasu, včetně těch s obrazy nezletilých. Musk obviňuje kritiky z touhy po cenzuře a nejeví zájem o řešení problémů.",
+      "slug": "elon-musk-has-shocking-response-after-his-chatbot-",
+      "publishedAt": "2026-01-10T10:10:58+00:00",
+      "date": "2026-01-10 10:10:58",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://images.ladbible.com/ogimage/v3/assets/bltcd74acc1d0a99f3a/blt08dd28c796e05133/696221c2bf5fdfe4077393d9/GettyImages-2246882303_(1).jpg",
+      "url": "/tech-news/2026-01-10/elon-musk-has-shocking-response-after-his-chatbot/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "LADbible"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "AI průmysl vstupuje do politiky. Zde jsou klíčové super PACy k sledování v roce 2026",
+      "description": "AI průmysl investuje stovky milionů dolarů do super PACů před midterm volbami v roce 2026.",
+      "slug": "the-ai-industry-is-getting-into-politics-here-are-",
+      "publishedAt": "2026-01-10T10:07:01+00:00",
+      "date": "2026-01-10 10:07:01",
+      "importance": 4,
+      "category": "ai politika",
+      "urlToImage": "https://i.insider.com/695c31af832e0ef1ead731e5?width=1200&format=jpeg",
+      "url": "/tech-news/2026-01-10/the-ai-industry-is-getting-into-politics-here-are/",
+      "source": {
+        "emoji": "📰",
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Musk: Kritika deepfake obrázků z AI chatbota je 'výmluva pro cenzuru'",
+      "description": "Britská vláda hledá jakoukoli výmluvu pro cenzuru, prohlásil Elon Musk v souvislosti s rostoucí kritikou deepfake sexuálních obrázků vytvářených umělou inteligencí Grok na sociální síti X. Premiér Keir Starmer vyzval platformu k lepší kontrole nástroje a požádal regulátora Ofcom o zvážení všech možností.",
+      "slug": "musk-says-backlash-to-ai-chatbot-deepfake-images-i",
+      "publishedAt": "2026-01-10T09:49:00+00:00",
+      "date": "2026-01-10 09:49:00",
+      "importance": 4,
+      "category": "deepfakes",
+      "urlToImage": "https://e3.365dm.com/26/01/1600x900/skynews-elon-musk-x-artificial-intelligence_7131790.jpg?20260110083527",
+      "url": "/tech-news/2026-01-10/musk-says-backlash-to-ai-chatbot-deepfake-images-i/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Sky.com"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk"
+      ]
+    },
     {
       "title": "Plány expanze Boring Company v Las Vegas a přidání Robovanu v letech 2028-2029",
       "description": "Společnost The Boring Company Elona Muska otevře brzy nové tunely spojující stanice a plánuje přidat autonomní vozidlo Robovan v období 2027-2028. Zaměřuje se na stavbu tunelů malého průměru pro vozidla Tesla s rychlostmi až 240 km/h.",
@@ -3648,28 +3766,6 @@
       "people": []
     },
     {
-      "title": "Prezidentka Anthropic tvrdí, že společnost prosperuje s „zlomkem“ financování rivalů",
-      "description": "Anthropic přijímá filozofii „dělat více s méně“ k odlišení se v oblasti umělé inteligence. Prezidentka a spoluzakladatelka Daniela Amodei v rozhovoru pro CNBC vysvětlila, jak firma dosahuje špičkových modelů s menšími zdroji než konkurenti jako OpenAI.",
-      "slug": "anthropic-president-says-company-thrives-on-fracti",
-      "publishedAt": "2026-01-04T23:55:44+00:00",
-      "date": "2026-01-04 23:55:44",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/01/Anthropic-president1.jpg",
-      "url": "/tech-news/2026-01-04/anthropic-president-says-company-thrives-on-fracti/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "pymnts.com"
-      },
-      "companies": [
-        "Anthropic"
-      ],
-      "people": [
-        "Daniela Amodei"
-      ]
-    },
-    {
       "title": "Cisco údajně v jednáních o akvizici Axonius za 2 miliardy dolarů, společnost to popírá",
       "description": "Cisco Systems je podle izraelského média Ctech v pokročilých jednáních o odkoupení startupu Axonius, který se specializuje na správu kybernetických aktiv, za 2 miliardy dolarů. Axonius jednání popírá a tvrdí, že se soustředí na růst a obsluhu zákazníků.",
       "slug": "cisco-reportedly-in-talks-to-acquire-axonius-but-c",
@@ -3850,26 +3946,6 @@
       "people": []
     },
     {
-      "title": "Akcie Baidu (BIDU) vyskočily o 20 %, čipová divize míří na IPO v Hong Kongu",
-      "description": "Akcie Baidu vzrostly o 20,4 % a dosáhly nového 52týdenního maxima díky plánu na oddělené uvedení polovodičové dceřiné společnosti Kunlunxin na burze v Hong Kongu. Tento krok má zvýšit viditelnost AI čipů firmy a přilákat investory do sektoru umělé inteligence.",
-      "slug": "baidu-bidu-skyrockets-20-as-chip-unit-eyes-ipo-in-",
-      "publishedAt": "2026-01-04T13:52:39+00:00",
-      "date": "2026-01-04 13:52:39",
-      "importance": 4,
-      "category": "burza",
-      "urlToImage": "https://media.zenfs.com/en/insidermonkey.com/2f81169e56709ee578124845f2ca360c",
-      "url": "/tech-news/2026-01-04/baidu-bidu-skyrockets-20-as-chip-unit-eyes-ipo-in/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [
-        "Baidu"
-      ],
-      "people": []
-    },
-    {
       "title": "Uvnitř 48hodinové krize s Grok, která dostala X do zornic MeitY",
       "description": "Od uzavřené schůzky na MeitY po formální upozornění a hrozbu ztráty safe harbour ochrany ukazuje, jak funkce úprav obrázků v Grok vrhla platformu X do regulačního střetu v Indii.",
       "slug": "inside-the-48-hour-grok-crisis-that-put-x-in-meity",
@@ -3965,82 +4041,6 @@
       "people": [
         "Elon Musk"
       ]
-    },
-    {
-      "title": "Australské startupy v kvantovém počítačovství směřují k cílům po letech úsilí",
-      "description": "Australské startupy v kvantovém počítačovství se blíží k praktickým aplikacím díky vládní podpoře a hlubokému zásobníku talentů. Země si klade za cíl dostat se do popředí tohoto oboru do roku 2030, přičemž firmy jako Q-CTRL vyvíjejí specifické systémy, například kvantovou navigaci.",
-      "slug": "australias-quantum-computing-startups-race-toward-",
-      "publishedAt": "2026-01-04T00:34:58+00:00",
-      "date": "2026-01-04 00:34:58",
-      "importance": 5,
-      "category": "kvantové počítače",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F9%2F6%2F3%2F11853691-1-eng-GB%2F15c97eac6ff9-20251219N-Q-CRTL.jpg?width=1260&fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=auto&height=630",
-      "url": "/tech-news/2026-01-04/australias-quantum-computing-startups-race-toward/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Nikkei.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Ovplyvní nové partnerství Disney s OpenAI vaši dovolenou v Disney World?",
-      "description": "Umělá inteligence by mohla navždy změnit tvář Disney.",
-      "slug": "will-your-disney-world-vacation-be-impacted-by-dis",
-      "publishedAt": "2026-01-03T20:00:24+00:00",
-      "date": "2026-01-03 20:00:24",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.disneyfoodblog.com/wp-content/uploads/2025/12/openAI-walt-disney-company-700x394.jpeg",
-      "url": "/tech-news/2026-01-03/will-your-disney-world-vacation-be-impacted-by-dis/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "disneyfoodblog.com"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Průměrná kompenzace zaměstnanců OpenAI dosahuje 1,5 milionu dolarů ročně",
-      "description": "Podle Wall Street Journal zaměstnanci OpenAI obdrželi v roce 2025 akciovou kompenzaci v průměru 1,5 milionu dolarů na osobu, což je nejvíce mezi startupy před plánovaným uvedením na burzu. Tato částka převyšuje mzdy v jiných technologických firmách sedmkrát oproti Alphabetu před jeho IPO.",
-      "slug": "your-jaw-will-hit-the-floor-when-you-find-out-how-",
-      "publishedAt": "2026-01-03T12:00:00+00:00",
-      "date": "2026-01-03 12:00:00",
-      "importance": 4,
-      "category": "ai mzdy",
-      "urlToImage": "https://futurism.com/wp-content/uploads/2026/01/openai-compensation.jpg?quality=85&w=1200",
-      "url": "/tech-news/2026-01-03/your-jaw-will-hit-the-floor-when-you-find-out-how/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Futurism"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Válka na Ukrajině, den 1408: Ukrajina nasazuje AI drony ve velkém měřítku proti Rusku",
-      "description": "Ukrajina produkuje novou generaci automatizovaných útočných dronů s umělou inteligencí, které ničí ruské síly s minimálním lidským dohledem. Po neúspěšném startu v roce 2024 tyto drony překonávají předchozí limity díky lepšímu zpracování videa a rychlejšímu zamykání na cíle.",
-      "slug": "war-for-ukraine-day-1408-ltg-budanov-to-the-rear",
-      "publishedAt": "2026-01-03T02:56:17+00:00",
-      "date": "2026-01-03 02:56:17",
-      "importance": 4,
-      "category": "ukrajinská válka",
-      "urlToImage": "https://balloon-juice.com/wp-content/uploads/2020/01/Silverman_On_Security.jpg",
-      "url": "/tech-news/2026-01-03/war-for-ukraine-day-1408-ltg-budanov-to-the-rear/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Balloon-juice.com"
-      },
-      "companies": [],
-      "people": []
     }
   ]
 }
