@@ -1,27 +1,7 @@
 {
-  "generated": "2026-01-11T05:05:42.364704+00:00",
+  "generated": "2026-01-11T08:42:44.852897+00:00",
   "count": 200,
   "articles": [
-    {
-      "title": "Musk: Rozhořčení nad X je omluva pro cenzuru",
-      "description": "Britská vláda naléhá na regulátora Ofcom, aby použil všechny pravomoci včetně možného zákazu platformy X kvůli generování nevhodných obrázků AI chatbotem Grok. Elon Musk to označil za snahu o potlačení svobody slova.",
-      "slug": "musk-says-x-outcry-is-excuse-for-censorship",
-      "publishedAt": "2026-01-10T01:28:26+00:00",
-      "date": "2026-01-10 01:28:26",
-      "importance": 4,
-      "category": "sociální sítě",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/fae4/live/80dd7630-edbb-11f0-b385-5f48925de19a.jpg",
-      "url": "/tech-news/2026-01-10/musk-says-x-outcry-is-excuse-for-censorship/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BBC News"
-      },
-      "companies": [],
-      "people": [
-        "Elon Musk"
-      ]
-    },
     {
       "title": "Plány expanze Boring Company v Las Vegas a přidání Robovanu v letech 2028-2029",
       "description": "Společnost The Boring Company Elona Muska otevře brzy nové tunely spojující stanice a plánuje přidat autonomní vozidlo Robovan v období 2027-2028. Zaměřuje se na stavbu tunelů malého průměru pro vozidla Tesla s rychlostmi až 240 km/h.",
@@ -4042,6 +4022,24 @@
       "companies": [
         "OpenAI"
       ],
+      "people": []
+    },
+    {
+      "title": "Válka na Ukrajině, den 1408: Ukrajina nasazuje AI drony ve velkém měřítku proti Rusku",
+      "description": "Ukrajina produkuje novou generaci automatizovaných útočných dronů s umělou inteligencí, které ničí ruské síly s minimálním lidským dohledem. Po neúspěšném startu v roce 2024 tyto drony překonávají předchozí limity díky lepšímu zpracování videa a rychlejšímu zamykání na cíle.",
+      "slug": "war-for-ukraine-day-1408-ltg-budanov-to-the-rear",
+      "publishedAt": "2026-01-03T02:56:17+00:00",
+      "date": "2026-01-03 02:56:17",
+      "importance": 4,
+      "category": "ukrajinská válka",
+      "urlToImage": "https://balloon-juice.com/wp-content/uploads/2020/01/Silverman_On_Security.jpg",
+      "url": "/tech-news/2026-01-03/war-for-ukraine-day-1408-ltg-budanov-to-the-rear/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Balloon-juice.com"
+      },
+      "companies": [],
       "people": []
     }
   ]
