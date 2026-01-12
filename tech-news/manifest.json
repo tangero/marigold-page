@@ -1,34 +1,81 @@
 {
-  "generated": "2026-01-12T01:30:58.643245+00:00",
+  "generated": "2026-01-12T05:13:19.883350+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "Články o čipech, TSMC, Samsungu, Huawei, Nvidia, DeepSeek, Meta a umělé inteligenci",
-      "description": "Čínská komunistická strana usiluje o kontrolu informačních technologií, aby formovala a censurovala komunikaci a názory svých občanů i osob mimo hranicemi Číny. Tento soubor novinek se zaměřuje na obchody s polovodiči v kontextu AI.",
-      "slug": "articles-on-chips-tsmc-samsung-huawei-nvidia-deeps",
-      "publishedAt": "2026-01-11T00:00:00+00:00",
-      "date": "2026-01-11 00:00:00",
+      "title": "Jensen Huang propaguje technologii autonomních vozů Nvidia, vyvolává reakci Elona Muska z Tesly",
+      "description": "V pondělí Jensen Huang ve svém projevu na veletrhu CES v Las Vegas chválil Nvidia Alpamayo, open-source AI model určený k urychlení vývoje autonomních vozů úrovně 4. Tato prezentace vyvolala nepřímou výměnu názorů mezi Huangem a Elonem Muskem z Tesly na téma dominance v technologiích pro autonomní jízdu.",
+      "slug": "jensen-huang-pitches-nvidias-self-driving-car-tech",
+      "publishedAt": "2026-01-11T03:21:17+00:00",
+      "date": "2026-01-11 03:21:17",
       "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://www.hoover.org/sites/default/files/styles/facebook/public/research/images/csgp_cyber.jpg?h=2d9e26d4&itok=eG4unC9X",
-      "url": "/tech-news/2026-01-11/articles-on-chips-tsmc-samsung-huawei-nvidia-deeps/",
+      "category": "autonomní vozy",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2026/01/11/1600x900/logo/US-TECHNOLOGY-AI-CES-29_1768101665498_1768101705412.jpg",
+      "url": "/tech-news/2026-01-11/jensen-huang-pitches-nvidias-self-driving-car-tech/",
       "source": {
         "emoji": "📰",
         "id": null,
-        "name": "Hoover.org"
+        "name": "Livemint"
       },
       "companies": [
-        "TSMC",
-        "Samsung",
-        "Huawei",
         "Nvidia",
-        "DeepSeek"
+        "Tesla"
       ],
-      "people": []
+      "people": [
+        "Jensen Huang",
+        "Elon Musk"
+      ]
     },
     {
-      "title": "Akcie čínské aplikace Kuaishou na krátká videa vzrostly o 88 % za uplynulý rok díky úspěchu AI generátoru videí Kling s 60 miliony uživatelů (Bloomberg)",
-      "description": "Akcie čínské platformy pro krátká videa Kuaishou posílily o 88 procent za poslední rok, což je způsobeno úspěchem jejího nástroje Kling AI pro generování videí, který přilákal 60 milionů uživatelů. Firma rychle přešla k AI technologiím a dosáhla významného růstu.",
+      "title": "BYD překonalo Tesla jako největšího výrobce bateriově elektrických vozidel na světě",
+      "description": "Čínská společnost BYD prodala v roce 2025 celkem 2 254 714 bateriově elektrických vozidel, čímž překonala Tesla s 1 636 129 kusy. Tento posun nastal navzdory poklesu prodejů Tesly o 9 procent oproti předchozímu roku.",
+      "slug": "byd-overtakes-tesla-as-the-worlds-largest-ev-manuf",
+      "publishedAt": "2026-01-11T03:03:00+00:00",
+      "date": "2026-01-11 03:03:00",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://assets.newatlas.com/dims4/default/a13158b/2147483647/strip/true/crop/1200x630+0+45/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fd1%2F56%2F683b953a4febbde3d697eb165835%2Fbyd-currently-offers-assisted-driving-features-on-its-more-premium-vehicles.jpg&na.image_optimisation=0",
+      "url": "/tech-news/2026-01-11/byd-overtakes-tesla-as-the-worlds-largest-ev-manuf/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "New Atlas"
+      },
+      "companies": [
+        "BYD",
+        "Tesla"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Nvidia a Tesla směřují k stejnému cíli v autonomním řízení různými cestami",
+      "description": "Generální ředitel Nvidia Jensen Huang představil na veletrhu CES technologii autonomního řízení společnosti, což vyvolalo nepřímou výměnu názorů s Elonem Muskem z Tesly. Diskuse odhaluje konkurenci a rozdílné strategie v boji o dominanci v autonomních vozech.",
+      "slug": "nvidia-tesla-chase-same-self-driving-goal-via-vary",
+      "publishedAt": "2026-01-11T01:31:07+00:00",
+      "date": "2026-01-11 01:31:07",
+      "importance": 4,
+      "category": "autonomní řízení",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126460649,width-1200,height-630,imgsize-51818,overlay-economictimes/articleshow.jpg",
+      "url": "/tech-news/2026-01-11/nvidia-tesla-chase-same-self-driving-goal-via-vary/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Nvidia",
+        "Tesla"
+      ],
+      "people": [
+        "Jensen Huang",
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Akcie čínské aplikace Kuaishou pro krátká videa vzrostly o 88 % za uplynulý rok díky úspěchu Kling AI video generatoru, který získal 60 milionů uživatelů (Bloomberg)",
+      "description": "Akcie společnosti Kuaishou, provozovatele populární čínské aplikace pro krátká videa, posílily o 88 % za poslední rok. Úspěch přinesl jejich AI nástroj Kling pro generování videí z textu nebo obrázků, který si užilo 60 milionů uživatelů.",
       "slug": "chinese-short-video-app-kuaishous-stock-has-surged",
       "publishedAt": "2026-01-10T23:25:01+00:00",
       "date": "2026-01-10 23:25:01",
@@ -3879,26 +3926,6 @@
       "people": []
     },
     {
-      "title": "DayOne Data Centers oznámila financování série C v hodnotě přes 2 miliardy USD pro urychlení expanze globální digitální infrastruktury",
-      "description": "Společnost DayOne Data Centers, nezávislá platforma hyperskalových datových center se sídlem v Singapuru, uzavřela dohody o equity financování série C v celkové výši přes 2 miliardy USD. Tato kola vede investor Coatue a podporuje ji indonéský sovereign fond INA, peníze poslou k rozšíření v Evropě a Asii-Pacific.",
-      "slug": "dayone-data-centers-announces-over-us20-billion-se",
-      "publishedAt": "2026-01-05T11:27:00+00:00",
-      "date": "2026-01-05 11:27:00",
-      "importance": 4,
-      "category": "datová centra",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/37128c08-9228-4101-9e09-fff921147e92",
-      "url": "/tech-news/2026-01-05/dayone-data-centers-announces-over-us20-billion-se/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [
-        "DayOne Data Centers"
-      ],
-      "people": []
-    },
-    {
       "title": "Ovládněte Google AI Studio během minut: od streamování v reálném čase po nástroje pro tvorbu bez kódování",
       "description": "Google AI Studio je platforma, která zjednodušuje interakci s umělou inteligencí pro uživatele všech úrovní. Nabízí nástroje pro vývoj aplikací bez kódování, tvorbu profesionálních médií a analýzu velkých datových sad z intuitivního rozhraní.",
       "slug": "master-googles-ai-studio-in-minutes-from-real-time",
@@ -3999,27 +4026,6 @@
       },
       "companies": [
         "Samsung",
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Exkluzivně: Samsung zdvojnásobí počet mobilních zařízení s Galaxy AI na 800 milionů kusů letos",
-      "description": "Samsung Electronics plánuje v roce 2026 zdvojnásobit počet svých mobilních zařízení s funkcemi Galaxy AI, poháněnými převážně modelem Gemini od Google, z 400 na 800 milionů kusů. Tento krok má posílit pozici Google v globálním závodě o umělou inteligenci proti rivalům jako OpenAI.",
-      "slug": "exclusive-samsung-to-double-ai-mobile-devices-to-8",
-      "publishedAt": "2026-01-05T03:06:00+00:00",
-      "date": "2026-01-05 03:06:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--P1NJRr7u--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-01-05T030312Z_1_LYNXMPEM0403I_RTROPTP_3_SAMSUNG-ELEC-MOBILE-GOOGLE.JPG?itok=fx6VEAhA",
-      "url": "/tech-news/2026-01-05/exclusive-samsung-to-double-ai-mobile-devices-to-8/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNA"
-      },
-      "companies": [
-        "Samsung Electronics",
         "Google"
       ],
       "people": []
