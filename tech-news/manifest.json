@@ -1,7 +1,47 @@
 {
-  "generated": "2026-01-12T08:54:13.329188+00:00",
+  "generated": "2026-01-12T12:57:15.039691+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "NVIDIA na CES 2026 představila nové otevřené AI modely a platformu Vera Rubin s pětinásobným výkonem",
+      "description": "NVIDIA na veletrhu CES 2026 odhalila 13 nových otevřených AI modelů a platformu Vera Rubin, která přináší pětinásobný nárůst výkonu oproti předchozí generaci. Tyto technologie cílí na autonomní vozidla, robotiku a zdravotnictví a jsou již integrovány partnery jako AWS nebo Mercedes-Benz.",
+      "slug": "nvidia-unveils-new-open-ai-models-at-ces-2026-new-",
+      "publishedAt": "2026-01-11T11:00:54+00:00",
+      "date": "2026-01-11 11:00:54",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/01/neotron-speech-asr-live-captioning_optimized.jpg",
+      "url": "/tech-news/2026-01-11/nvidia-unveils-new-open-ai-models-at-ces-2026-new/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [
+        "NVIDIA"
+      ],
+      "people": [
+        "Sam Witteveen"
+      ]
+    },
+    {
+      "title": "Více než 17,5 milionu uživatelů Instagramu má osobní data na prodej na dark webu: Zpráva",
+      "description": "Údajně uniklý datový soubor obsahuje citlivé informace, jako uživatelská jména, fyzické adresy, telefonní čísla a e-mailové adresy. Meta popírá bezpečnostní incident a tvrdí, že problém s žádostmi o reset hesel byl opraven.",
+      "slug": "over-175-million-instagram-users-personal-data-for",
+      "publishedAt": "2026-01-11T09:11:58+00:00",
+      "date": "2026-01-11 09:11:58",
+      "importance": 5,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://images.indianexpress.com/2025/09/Instagram.jpg",
+      "url": "/tech-news/2026-01-11/over-175-million-instagram-users-personal-data-for/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Revoluce umělé inteligence je zde. Přežije ekonomika přechod?",
       "description": "Muž, který předpověděl krizi roku 2008, spoluzakladatel Anthropic a přední podcaster o umělé inteligenci vedli veřejnou debatu v Google dokumentu o budoucnosti umělé inteligence a jejích dopadech na ekonomiku i společnost.",
@@ -3789,24 +3829,6 @@
       "people": []
     },
     {
-      "title": "Hackeři tvrdí prolomení inženýrské firmy, nabízejí prodej dat o třech velkých amerických energetických společnostech",
-      "description": "Probíhají vyšetřování, ale data se zdají být velmi cenná. Útok cílí na citlivé informace o kritické infrastruktuře.",
-      "slug": "hackers-claim-breach-of-engineering-firm-offer-sal",
-      "publishedAt": "2026-01-05T20:10:00+00:00",
-      "date": "2026-01-05 20:10:00",
-      "importance": 5,
-      "category": "kybernetika",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/RD9fsBx8eZkjCoKyWeML35-2560-80.jpg",
-      "url": "/tech-news/2026-01-05/hackers-claim-breach-of-engineering-firm-offer-sal/",
-      "source": {
-        "emoji": "📰",
-        "id": "techradar",
-        "name": "TechRadar"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "‚Byl jsem pravděpodobně prvním CEO, který za tím skočil‘: Jensen Huang z Nvidia tlačí partnery na stavbu v Americe",
       "description": "Jensen Huang spojuje reindustrializaci USA s investicemi do infrastruktury pro umělou inteligenci a staví Nvidia do role průkopníka domácího dodavatelského řetězce.",
       "slug": "i-was-probably-the-first-ceo-to-jump-behind-that-n",
@@ -3983,29 +4005,6 @@
         "Samsung Electronics"
       ],
       "people": []
-    },
-    {
-      "title": "Viděli jste jejich auto?: Elon Musk se před deseti lety smál BYD; nyní překonalo Tesla jako největší výrobce elektromobilů světa",
-      "description": "Čínské BYD dramaticky překonalo Tesla a stalo se v roce 2025 největším výrobcem elektromobilů světa. Prodeje Tesly klesly druhý rok v řadě kvůli nespokojenosti zákazníků s politikou Elona Muska, vypršení amerických daňových úlev a silné zahraniční konkurenci.",
-      "slug": "have-you-seen-their-car-elon-musk-laughed-at-byd-a",
-      "publishedAt": "2026-01-05T07:34:39+00:00",
-      "date": "2026-01-05 07:34:39",
-      "importance": 4,
-      "category": "elektromobilita",
-      "urlToImage": "https://img.etimg.com/thumb/msid-126347501,width-1200,height-630,imgsize-32634,overlay-economictimes/articleshow.jpg",
-      "url": "/tech-news/2026-01-05/have-you-seen-their-car-elon-musk-laughed-at-byd-a/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "BYD",
-        "Tesla"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
     },
     {
       "title": "OpenAI představuje GPT-5.2-Codex",
