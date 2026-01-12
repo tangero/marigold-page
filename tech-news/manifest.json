@@ -1,7 +1,151 @@
 {
-  "generated": "2026-01-12T16:50:50.759969+00:00",
+  "generated": "2026-01-12T20:51:42.531248+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Elon Musk označil britskou vládu za fašistickou kvůli sporu o obrázky z Grok",
+      "description": "Elon Musk označil britskou vládu za fašistickou po hrozbách blokování platformy X kvůli sexualizovaným obrázkům žen a dětí generovaným jeho AI nástrojem Grok. Britské úřady objevily trestné obrázky na dark webu, což vyvolalo reakce politiků včetně premiéra Keira Starmera.",
+      "slug": "elon-musk-labels-uk-fascist-over-grok-image-row",
+      "publishedAt": "2026-01-11T19:40:31+00:00",
+      "date": "2026-01-11 19:40:31",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126470747,width-1200,height-630,imgsize-17000,overlay-economictimes/articleshow.jpg",
+      "url": "/tech-news/2026-01-11/elon-musk-labels-uk-fascist-over-grok-image-row/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Sam Altman z OpenAI: '0%' šance, že mě nadchne být šéfem veřejné společnosti – 'V některých ohledech to bude opravdu otravné'",
+      "description": "Šéf OpenAI Sam Altman prohlásil, že má nulovou motivaci řídit veřejnou společnost a očekává, že to bude otravné. Přesto uznává výhody účasti veřejných trhů na tvorbě hodnoty, ale preferuje soukromé financování kvůli potřebám kapitálu.",
+      "slug": "openais-sam-altman-says-0-chance-hes-excited-to-be",
+      "publishedAt": "2026-01-11T19:31:20+00:00",
+      "date": "2026-01-11 19:31:20",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://s.yimg.com/os/en/Benzinga/ee3d3bf6644841e689d09b577921f0de",
+      "url": "/tech-news/2026-01-11/openais-sam-altman-says-0-chance-hes-excited-to-be/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": [
+        "Sam Altman"
+      ]
+    },
+    {
+      "title": "D-Wave získala 'mocného' spojence v kvantovém výpočtu. Lze zde koupit akcie QBTS?",
+      "description": "Je QBTS považováno za vysoce rizikovou, ale potenciálně velmi výnosnou sázku jako raný lídr v kvantovém výpočtu, nebo základní složku konzervativních portfolií?",
+      "slug": "d-wave-just-got-a-formidable-quantum-computing-all",
+      "publishedAt": "2026-01-11T19:24:12+00:00",
+      "date": "2026-01-11 19:24:12",
+      "importance": 4,
+      "category": "kvantové počítače",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/QQ1SHRIvCIq1C4dq_LSYCA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDg-/https://media.zenfs.com/en/barchart_com_477/9674efa7d4bfd99d012931d58c531420",
+      "url": "/tech-news/2026-01-11/d-wave-just-got-a-formidable-quantum-computing-all/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Barchart.com"
+      },
+      "companies": [
+        "D-Wave"
+      ],
+      "people": []
+    },
+    {
+      "title": "Google rozšiřuje nákupní funkce Gemini s podporou umělé inteligence",
+      "description": "Google rozšiřuje nákupní funkce v AI chatbotu Gemini spoluprací s Walmartem, Shopify, Wayfair a dalšími maloobchodníky, čímž aplikaci mění na virtuálního obchodníka i asistenta. Novinka umožňuje okamžité platby přímo v chatu bez nutnosti opustit aplikaci.",
+      "slug": "google-expands-ai-assisted-shopping-features-of-ge",
+      "publishedAt": "2026-01-11T19:10:12+00:00",
+      "date": "2026-01-11 19:10:12",
+      "importance": 4,
+      "category": "ai nákupy",
+      "urlToImage": "https://cmg-cmg-tv-10080-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FZ2R356A2ZQ72FHJVBGY77SQX4Y.jpg?auth=69e23799266dd6186a6f5cb241930ee758b0cef06e89efc8d85eadf46fe9fac0&width=1200&height=630&smart=true",
+      "url": "/tech-news/2026-01-11/google-expands-ai-assisted-shopping-features-of-ge/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "WPXI Pittsburgh"
+      },
+      "companies": [
+        "Google",
+        "Shopify"
+      ],
+      "people": []
+    },
+    {
+      "title": "Fiserv (FISV) oznámil strategickou spolupráci s Microsoftem",
+      "description": "Společnost Fiserv, Inc. (NASDAQ: FISV), globální lídr v platebních a finančních technologiích, uzavřela strategickou spolupráci s Microsoftem. Cílem je integrovať umělou inteligenci do vývojových platforem Fiserv a nasadit AI nástroje pro zaměstnance i klienty.",
+      "slug": "fiserv-fisv-announces-a-strategic-collaboration-wi",
+      "publishedAt": "2026-01-11T18:59:17+00:00",
+      "date": "2026-01-11 18:59:17",
+      "importance": 4,
+      "category": "fintech",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/o4JnZUBrKvzqWmbYaPEIGw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/9cf2e088293dea28ce6c7c24f45b19ef",
+      "url": "/tech-news/2026-01-11/fiserv-fisv-announces-a-strategic-collaboration-wi/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "Fiserv",
+        "Microsoft"
+      ],
+      "people": []
+    },
+    {
+      "title": "Po Indonésii zablokována Muskova Grok AI v Malajsii kvůli obscénním obrázkům",
+      "description": "Indonésie a Malajsie omezily přístup k Grok AI od Elona Muska minulý víkend a staly se prvními zeměmi, které zakázaly tento systém umělé inteligence kvůli generování obscénního obsahu. Důvodem je riziko deepfake pornografie, která ohrožuje soukromí a bezpečnost.",
+      "slug": "after-indonesia-musks-grok-ai-blocked-in-malaysia-",
+      "publishedAt": "2026-01-11T17:34:41+00:00",
+      "date": "2026-01-11 17:34:41",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2026/01/11/1600x900/logo/grok_1767960562516_1767960562750_1768152844561.jpg",
+      "url": "/tech-news/2026-01-11/after-indonesia-musks-grok-ai-blocked-in-malaysia/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Livemint"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "SpaceX dostalo schválení na vypuštění dalších 7 500 satelitů Starlink nové generace do oběžné dráhy",
+      "description": "Starlink bude mít za pět let 15 000 satelitů Gen2 na oběžné dráze po regulačním rozhodnutí. Rozhodnutí FCC umožní vyšší kapacitu a nižší latenci internetového připojení.",
+      "slug": "spacex-just-got-approval-to-launch-another-7500-ne",
+      "publishedAt": "2026-01-11T17:30:00+00:00",
+      "date": "2026-01-11 17:30:00",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/GJb9hjBdUwmRxUthnMr93c-1920-80.jpg",
+      "url": "/tech-news/2026-01-11/spacex-just-got-approval-to-launch-another-7500-ne/",
+      "source": {
+        "emoji": "📰",
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "companies": [
+        "SpaceX"
+      ],
+      "people": []
+    },
     {
       "title": "Obrázky dětí od Grok pravděpodobně nejsou trestné, říká expert na ochranu dětí",
       "description": "Ať už zákon existuje nebo ne, není důvod, aby program jako Grok generoval obrázky lidí bez oblečení, tvrdí bývalý irský policista Mick Moran. Obrázky dětí vytvořené chatbotem Grok od Elona Muska neplní definici materiálu s dětským sexuálním zneužíváním podle irského zákona z roku 1998.",
@@ -18,27 +162,6 @@
         "name": "The Irish Times"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Google rozšiřuje nákupní funkce s podporou AI v aplikaci Gemini",
-      "description": "Google rozšiřuje nákupní možnosti ve svém AI chatbota Gemini spoluprací s Walmartem, Shopify, Wayfair a dalšími prodejci, čímž aplikace slouží jako virtuální obchodník i asistent. Funkce okamžitého nákupu umožňuje platby přímo v chatu bez opuštění rozhovoru.",
-      "slug": "google-expands-ai-assisted-shopping-features-of-ge",
-      "publishedAt": "2026-01-11T16:12:29+00:00",
-      "date": "2026-01-11 16:12:29",
-      "importance": 4,
-      "category": "ai nákupy",
-      "urlToImage": "https://dims.apnews.com/dims4/default/0fef4e9/2147483647/strip/true/crop/5699x3206+0+297/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fda%2F29%2F585257799a147759e4a5a9726110%2F3fa668636bc9435694d9743b9ab619d4",
-      "url": "/tech-news/2026-01-11/google-expands-ai-assisted-shopping-features-of-ge/",
-      "source": {
-        "emoji": "📰",
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "companies": [
-        "Google",
-        "Shopify"
-      ],
       "people": []
     },
     {
@@ -3182,24 +3305,6 @@
       "people": []
     },
     {
-      "title": "Pohled na nové technologie oznámené první den CES 2026",
-      "description": "CES představuje každoročně klíčovou příležitost pro velké i malé firmy předvést produkty, které plánují tento rok umístit na pulty obchodů. První den konference patřil oznámením od Nvidia, AMD a Intel v oblasti čipů a AI platforem.",
-      "slug": "a-look-at-the-new-technology-announced-on-day-1-of",
-      "publishedAt": "2026-01-06T19:39:10+00:00",
-      "date": "2026-01-06 19:39:10",
-      "importance": 4,
-      "category": "spotřební elektronik",
-      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2026/01/2026-01-05T185132Z_686794914_RC23VIAGP4O2_RTRMADP_3_TECH-CES-1024x646.jpg",
-      "url": "/tech-news/2026-01-06/a-look-at-the-new-technology-announced-on-day-1-of/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "PBS"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Sekce 230 nechrání Elona Muska před odpovědností za zneužití deepfakeů, říká senátor",
       "description": "Státy musí zasáhnout a donutit X a Muska k odpovědnosti, pokud to Trumpovo ministerstvo spravedlnosti neudělá, prohlásil senátor Ron Wyden. Podle něj AI chatboty jako Grok nejsou chráněny sekcí 230 za obsah, který samy generují.",
       "slug": "section-230-doesnt-cover-elon-musks-ass-when-it-co",
@@ -3948,109 +4053,6 @@
       },
       "companies": [],
       "people": []
-    },
-    {
-      "title": "Kam směřují chytré investice do zelených technologií v roce 2026",
-      "description": "Vzhledem k rostoucí poptávce umělé inteligence po elektrické energii a zhoršujícím se klimatickým katastrofám investoři do klimatických technologií v roce 2026 zaměřují své prostředky na specifické oblasti, jako je fúzní energie a elektrizace.",
-      "slug": "this-is-where-the-smart-green-tech-money-is-headin",
-      "publishedAt": "2026-01-05T12:10:52+00:00",
-      "date": "2026-01-05 12:10:52",
-      "importance": 5,
-      "category": "zelené technologie",
-      "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/01/776240368.jpg",
-      "url": "/tech-news/2026-01-05/this-is-where-the-smart-green-tech-money-is-headin/",
-      "source": {
-        "emoji": "📰",
-        "id": "financial-post",
-        "name": "Financial Post"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Teradar představuje svůj první senzor v terahertzovém pásmu pro automobily | TechCrunch",
-      "description": "Společnost Teradar využívá terahertzové pásmo elektromagnetického spektra k vytvoření senzoru, který kombinuje výhody lidar a radarových senzorů. Tento solid-state senzor slibuje dlouhý dosah a vysoké rozlišení v jakémkoli počasí.",
-      "slug": "teradar-reveals-its-first-terahertz-band-vision-se",
-      "publishedAt": "2026-01-05T12:04:00+00:00",
-      "date": "2026-01-05 12:04:00",
-      "importance": 4,
-      "category": "automobilové senzory",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/01/teradar-summit.jpg?resize=1200,675",
-      "url": "/tech-news/2026-01-05/teradar-reveals-its-first-terahertz-band-vision-se/",
-      "source": {
-        "emoji": "🚀",
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "companies": [
-        "Teradar"
-      ],
-      "people": []
-    },
-    {
-      "title": "TSMC zahájilo hromadnou výrobu 2nm procesu, Samsung v těsném závěsu",
-      "description": "Globální závod o vedení v polovodičovém průmyslu se posunul do nové fáze, kdy TSMC oznámilo zahájení hromadné výroby 2nm technologického procesu. To zvyšuje tlak na Samsung Electronics, který se snaží dohnat lídra v oblasti nejpokročilejší výroby čipů.",
-      "slug": "tsmc-kicks-off-2nm-production-with-samsung-in-hot-",
-      "publishedAt": "2026-01-05T08:11:10+00:00",
-      "date": "2026-01-05 08:11:10",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://img.digitimes.com/newsshow/20260105pd222_files/1_b.jpg",
-      "url": "/tech-news/2026-01-05/tsmc-kicks-off-2nm-production-with-samsung-in-hot/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
-      },
-      "companies": [
-        "TSMC",
-        "Samsung Electronics"
-      ],
-      "people": []
-    },
-    {
-      "title": "OpenAI představuje GPT-5.2-Codex",
-      "description": "OpenAI vydalo GPT-5.2-Codex, verzi modelu GPT-5.2 optimalizovanou pro nástroj Codex, který slouží jako cloudový agent pro vývoj softwaru. Tento model zlepšuje schopnosti v řešení složitých úkolů, jako je refaktoring kódu nebo správa migrací v velkých repozitářích.",
-      "slug": "openai-details-gpt-52-codex",
-      "publishedAt": "2026-01-05T07:28:31+00:00",
-      "date": "2026-01-05 07:28:31",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": null,
-      "url": "/tech-news/2026-01-05/openai-details-gpt-52-codex/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "ComputerWeekly.com"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Samsung zdvojnásobí počet mobilních zařízení s Google's Gemini na 800 milionů kusů letos",
-      "description": "Samsung se snaží získat zpět ztracenou vedení před Applem na trhu smartphonů a odrazit konkurenci čínských firem nejen v mobilech, ale i v televízích a domácích spotřebičích, vše pod vedením spoluvýkonného ředitele T M Roha. Nabídne integrované AI služby napříč produkty, aby posílil náskok před Applem, přestože ten byl loni lídrem podle Counterpoint.",
-      "slug": "samsung-to-double-mobile-devices-powered-by-google",
-      "publishedAt": "2026-01-05T03:03:26+00:00",
-      "date": "2026-01-05 03:03:26",
-      "importance": 4,
-      "category": "mobilní ai",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-234944,resizemode-75,msid-126343461/tech/technology/samsung-to-double-mobile-devices-powered-by-googles-gemini-to-800-mln-units-this-year.jpg",
-      "url": "/tech-news/2026-01-05/samsung-to-double-mobile-devices-powered-by-google/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Samsung",
-        "Google",
-        "Apple"
-      ],
-      "people": [
-        "T M Roh"
-      ]
     }
   ]
 }
