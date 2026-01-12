@@ -5,10 +5,9 @@ companies:
 - Nvidia
 - Tesla
 date: '2026-01-11 03:21:17'
-description: V pondělí Jensen Huang ve svém projevu na veletrhu CES v Las Vegas chválil
-  Nvidia Alpamayo, open-source AI model určený k urychlení vývoje autonomních vozů
-  úrovně 4. Tato prezentace vyvolala nepřímou výměnu názorů mezi Huangem a Elonem
-  Muskem z Tesly na téma dominance v technologiích pro autonomní jízdu.
+description: V pondělí Huang ve svém projevu na největší technologické veletrhu v
+  USA chválil Nvidia Alpamayo, open-source AI model navržený pro urychlení vývoje
+  Level 4 autonomních vozů.
 importance: 4
 layout: tech_news_article
 original_title: Jensen Huang pitches Nvidia's self-driving car tech, sparks reaction
@@ -22,34 +21,32 @@ source:
   emoji: 📰
   id: null
   name: Livemint
-title: Jensen Huang propaguje technologii autonomních vozů Nvidia, vyvolává reakci
+title: Jensen Huang propaguje technologii autonomních vozů Nvidia a vyvolává reakci
   Elona Muska z Tesly
 url: https://www.livemint.com/companies/news/jensen-huang-pitches-nvidias-self-driving-car-tech-sparks-reaction-from-teslas-elon-musk-11768100846689.html
 urlToImage: https://www.livemint.com/lm-img/img/2026/01/11/1600x900/logo/US-TECHNOLOGY-AI-CES-29_1768101665498_1768101705412.jpg
 urlToImageBackup: https://www.livemint.com/lm-img/img/2026/01/11/1600x900/logo/US-TECHNOLOGY-AI-CES-29_1768101665498_1768101705412.jpg
 ---
 
-## Souhrn
-Na veletrhu CES v Las Vegas Jensen Huang, zakladatel a generální ředitel Nvidia, nejjasněji prezentoval technologii autonomních vozů své firmy. Zaměřil se na open-source AI model Alpamayo, který má urychlit vývoj vozů úrovně 4 schopných autonomní jízdy bez řidiče v definovaných oblastech. Prezentace vyvolala reakci Elona Muska z Tesly a otevřela debatu o tom, kdo ovládne klíčové technologie pro autonomní vozy a robotaxi.
+### Souhrn
+Jensen Huang, zakladatel a generální ředitel Nvidia, na veletrhu CES v Las Vegas představil Alpamayo, open-source AI model určený k urychlení vývoje Level 4 autonomních vozů. Tato technologie je součástí širšího nástrojového balíčku pro automobilky a vyvolala nepřímou výměnu názorů s Elonem Muskem z Tesly. Diskuse se soustředila na otázku, kdo ovládne klíčovou technologii pro autonomní vozy a robotaxi.
 
-## Klíčové body
-- Nvidia Alpamayo je open-source AI model pro rychlejší vývoj autonomních vozů úrovně 4, které zvládnou jízdu bez lidského zásahu v omezených geografických oblastech.
-- Model je součástí širšího nástrojového balíčku Nvidia pro automobilky, včetně čipů pro trénink v datacentrech a procesorů sloužících jako "mozku" vozidla během jízdy.
-- Prezentace na CES vedla k nepřímé výměně názorů mezi Jensenem Huangem a Elonem Muskem ohledně přístupu k autonomním technologiím.
-- Nvidia cílí na spotřebitelské vozy i flotily robotaxi pro sdílenou dopravu.
-- Událost zvyšuje konkurenci mezi Nvidia a Teslou v oblasti AI pro autonomní jízdu.
+### Klíčové body
+- **Alpamayo**: Open-source AI model Nvidia pro rychlejší vývoj Level 4 autonomních vozů, které zvládají jízdu bez lidského dohledu v definovaných oblastech.
+- **Širší ekosystém Nvidia**: Zahrnuje čipy pro trénink v datacentrech a procesory uvnitř vozů sloužící jako jejich "mozku".
+- **Reakce Elona Muska**: Nepřímá výměna názorů mezi Huangem a Muskem na téma dominance v autonomní jízdě.
+- **Cílové aplikace**: Nejprve spotřebitelská auta, později robotaxi flotily pro sdílenou dopravu.
+- **Kontext CES**: Prezentace proběhla 6. ledna 2026 na největší technologické akci v USA.
 
-## Podrobnosti
-Jensen Huang vystoupil na CES, největším technologickém veletrhu v USA, kde podrobně popsal vizi Nvidia pro autonomní řízení. Centrem jeho projevu byl Alpamayo, open-source AI model navržený specificky pro zrychlení vývoje systémů úrovně 4 podle klasifikace SAE (Society of Automotive Engineers). Vozidla úrovně 4 dokáží provozovat plně autonomní jízdu bez potřeby řidiče v předem definovaných operačních oblastech, jako jsou městské zóny nebo dálnice. Na rozdíl od úrovně 5, která vyžaduje univerzální autonomii všude, je úroveň 4 reálnější pro blízkou implementaci.
+### Podrobnosti
+Jensen Huang vystoupil na CES v Las Vegas, kde podrobně popsal vizi Nvidia pro autonomní jízdu. Hlavním bodem byl Alpamayo, open-source AI model, který automobilkám umožňuje zkrátit čas vývoje softwaru pro Level 4 autonomii. Level 4 znamená, že vozidlo zvládá všechny aspekty jízdy bez řidiče v omezeném geografickém prostoru, jako je město nebo dálnice, bez nutnosti lidského zásahu. Nvidia Alpamayo integruje do svého existujícího balíčku, který zahrnuje výkonné GPU pro trénink modelů v datacentrech a embedded čipy jako Drive Orin či novější platformy, které zpracovávají data v reálném čase přímo ve vozidle.
 
-Alpamayo není samostatný produkt, ale součást komplexního ekosystému Nvidia. Automobilky mohou tento model integrovat do svých vývojových procesů, kde slouží k tréninku a optimalizaci AI algoritmů pro vnímání okolí, rozhodování a plánování trasy. Nvidia doplňuje model výkonnými GPU čipy v datacentrech pro rozsáhlé tréninkové datasety z reálných jízd a embedded čipy v autech, které zpracovávají data v reálném čase. Například platforma Vera Rubin, zmíněná v souvislosti s Huangovým vystoupením, představuje novou generaci AI infrastruktury pro tyto účely.
+Tato strategie Nvidia cílí na tradiční automobilky, které chtějí vlastní AV systémy, na rozdíl od Tesly, která staví na end-to-end neuronových sítích trénovaných na miliardách kilometrů reálných dat z flotily. Huangova prezentace tak vstoupila do teritoria klíčových zákazníků Nvidia, jako je Tesla, která sice kupuje Nvidia hardware, ale vyvíjí vlastní Full Self-Driving (FSD) software. Musk na to reagoval na sociálních sítích zdvořile, ale zdůraznil výhody teslovského přístupu založeného na vizuálním vnímání kamerami bez radaru či LIDARu, což vedlo k veřejné diskusi o nejlepším stacku pro autonomii.
 
-Prezentace vstoupila do teritoria klíčových zákazníků Nvidia, jako je Tesla. Elon Musk reagoval na sociálních sítích zdvořile, ale kriticky, což naznačuje rostoucí napětí. Tesla spoléhá na vlastní end-to-end AI přístup s Full Self-Driving (FSD) softwarem, který trénuje na miliardách kilometrů dat z flotily vozů. Nvidia naopak nabízí otevřenou platformu, která umožňuje automobilkám jako Mercedes-Benz nebo Volvo přizpůsobit si technologii bez závislosti na jednom dodavateli. Tato strategie posiluje pozici Nvidia jako klíčového hráče v dodavatelském řetězci, kde dodává hardware i software pro autonomii.
+Nvidia navíc zmínila Vera Rubin AI platformu během Q&A s novináři, což naznačuje expanzi do širších AI aplikací. Alpamayo slouží k modularnímu vývoji: automobilky mohou model upravit, trénovat na svých datech a integrovat do vozidel. To snižuje závislost na uzavřených systémech a urychluje nasazení, ale zároveň zvyšuje rizika bezpečnosti, pokud open-source kód nebude dostatečně validován.
 
-CES 2026, konaný v Las Vegas, sloužil jako ideální platforma pro tuto prezentaci, protože přitahuje automobilové giganty i tech firmy. Huangovo vystoupení proběhlo 6. ledna 2026 během Q&A sešitu s novináři, kde zmínil i širší aplikace jako robotaxi – autonomní vozy pro sdílené jízdy bez řidiče.
-
-## Proč je to důležité
-Tato iniciativa Nvidia urychluje adopci autonomních vozů úrovně 4, což má dopad na automobilový průmysl i spotřebitele. Open-source přístup snižuje bariéry pro menší automobilky a umožňuje rychlejší iterace, na rozdíl od proprietárních systémů Tesly. V širším kontextu AI posiluje Nvidia dominanci v edge computingu pro autonomii, kde GPU čipy zpracovávají video a senzorová data s latencí pod 100 ms. Konkurence s Teslou může vést k inovacím, ale také k fragmentaci standardů, což zkomplikuje bezpečnostní certifikace. Pro uživatele to znamená blízký příchod bezpečnějších autonomních funkcí v osobních vozech i robotaxi službách, s potenciálem snížit nehody o 90 % podle studií. Dlouhodobě řeší otázku, zda bude trh ovládán vertikálně integrovánými firmami jako Tesla nebo horizontálními dodavateli jako Nvidia.
+### Proč je to důležité
+Tato novinka zesiluje soutěž mezi Nvidia a Teslou o kontrolu nad autonomními vozy, což ovlivní miliardový trh robotaxi a sdílené mobility. Nvidia jako dominantní dodavatel GPU pro AI trénink (přes 80 % trhu) posiluje svou pozici otevřeným softwarem, což přitáhne OEM jako Mercedes nebo Volvo, kteří hledají alternativu k Waymo či Cruise. Pro průmysl znamená nižší vstupní bariéry, ale pro uživatele klíčové bezpečnostní otázky – Level 4 stále čelí regulačním překážkám v EU i USA. Dlouhodobě to urychlí přechod k robotaxi, kde Nvidia může integrovat edge computing s cloudovým tréninkem, zatímco Tesla zdůrazňuje vertikální integraci. Kriticky: Open-source přístup Nvidia může vést k fragmentaci standardů, na rozdíl od teslovského monolitu, což zpomalí globální adopci.
 
 ---
 

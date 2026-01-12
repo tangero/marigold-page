@@ -4,53 +4,46 @@ category: autonomní řízení
 companies:
 - Nvidia
 - Tesla
-date: '2026-01-11 01:31:07'
-description: Generální ředitel Nvidia Jensen Huang představil na veletrhu CES technologii
-  autonomního řízení společnosti, což vyvolalo nepřímou výměnu názorů s Elonem Muskem
-  z Tesly. Diskuse odhaluje konkurenci a rozdílné strategie v boji o dominanci v autonomních
-  vozech.
+date: '2026-01-11 04:09:34'
+description: Nvidia chce dodávat inteligentní vrstvu pro autonomní vozy bez stavby
+  vlastních aut, přesto si přeje vlastnit technologii, která autonomní řízení uskuteční.
 importance: 4
 layout: tech_news_article
 original_title: Nvidia, Tesla chase same self-driving goal via varying paths
-people:
-- Jensen Huang
-- Elon Musk
-publishedAt: '2026-01-11T01:31:07+00:00'
+publishedAt: '2026-01-11T04:09:34+00:00'
 slug: nvidia-tesla-chase-same-self-driving-goal-via-vary
 source:
-  emoji: 📰
-  id: the-times-of-india
-  name: The Times of India
-title: Nvidia a Tesla směřují k stejnému cíli v autonomním řízení různými cestami
-url: https://economictimes.indiatimes.com/news/international/business/nvidia-tesla-chase-same-self-driving-goal-via-varying-paths/articleshow/126460602.cms
-urlToImage: https://img.etimg.com/thumb/msid-126460649,width-1200,height-630,imgsize-51818,overlay-economictimes/articleshow.jpg
-urlToImageBackup: https://img.etimg.com/thumb/msid-126460649,width-1200,height-630,imgsize-51818,overlay-economictimes/articleshow.jpg
+  emoji: 💹
+  id: bloomberg
+  name: Bloomberg
+title: Nvidia a Tesla směřují k autonomnímu řízení různými cestami
+url: https://www.bloomberg.com/news/articles/2026-01-10/nvidia-and-tesla-chase-same-self-driving-goal-via-varying-paths
+urlToImage: https://bl-i.thgim.com/public/incoming/almvyv/article70496936.ece/alternates/LANDSCAPE_1200/2025-12-15T182105Z_597744865_RC2IHU9IHVNG_RTRMADP_3_SCHEDMD-M-A-NVIDIA.JPG
+urlToImageBackup: https://bl-i.thgim.com/public/incoming/almvyv/article70496936.ece/alternates/LANDSCAPE_1200/2025-12-15T182105Z_597744865_RC2IHU9IHVNG_RTRMADP_3_SCHEDMD-M-A-NVIDIA.JPG
 ---
 
 ## Souhrn
-Na veletrhu CES v Las Vegas generální ředitel Nvidia Jensen Huang podrobně představil technologii autonomního řízení firmy, včetně open-source AI modelu Alpamayo pro vozidla úrovně 4. Tato prezentace vyvolala nepřímou diskusi s Elonem Muskem z Tesly, který na ni reagoval na platformě X. Oba lídři soutěží o kontrolu nad klíčovými technologiemi pro autonomní vozy a robotaxi.
+Nvidia a Tesla mají společný cíl – dosáhnout plně autonomního řízení vozidel –, ale volí odlišné strategie. Nvidia se soustředí na vývoj hardwaru a softwaru pro autonomii, který nabízí jiným automobilkám, zatímco Tesla integruje všechny složky do vlastního ekosystému včetně výroby aut. Tento rozdíl odhaluje konkurenční dynamiku v sektoru autonomních vozidel.
 
 ## Klíčové body
-- Nvidia představila Alpamayo, open-source AI model určený k urychlení vývoje autonomních vozidel úrovně 4, která zvládají jízdu bez lidského dohledu v definovaných oblastech.
-- Firma nabízí komplexní toolkit: čipy pro trénink v datacentrech, on-board čipy jako „mozek“ vozu a simulační software pro generování virtuálních dat.
-- Huangova prezentace cílí na automobilky, Nvidia chce dominovat v inteligenci pro autonomii bez výroby aut.
-- Elon Musk reagoval na X po zveřejnění transkriptu, což podtrhlo rozdíly v přístupech mezi Nvidií a Teslou.
-- Soutěž se točí kolem otázky, kdo ovládne technologie pro spotřebitelská autonomní auta a později robotaxi.
+- Nvidia vyvíjí platformu DRIVE s čipy jako Orin a nadcházející Thor, určenou pro široké nasazení u různých výrobců.
+- Tesla staví na vlastním hardwaru HW4 a trénovacím superpočítači Dojo pro software Full Self-Driving (FSD).
+- Nvidia se vyhýbá výrobě aut, aby se stala standardem pro autonomní systémy, Tesla chce kontrolovat celý řetězec.
+- Oba přístupy cílí na robotaxi služby, kde Nvidia spolupracuje s partnery jako Mercedes-Benz.
+- Konkurence mezi nimi urychluje pokrok v AI pro vnímání a rozhodování vozidel.
 
 ## Podrobnosti
-Jensen Huang, generální ředitel Nvidia – firmy specializující se na grafické procesory (GPU) a AI hardware – vystoupil na CES, největším technologickém veletrhu v USA, aby propagoval autonomní řízení. Nvidia se nezaměřuje na stavbu aut, ale poskytuje vrstvu inteligence pro automobilky jako Mercedes-Benz nebo Volvo. Klíčovým prvkem je Alpamayo, open-source AI model navržený pro vývoj vozidel úrovně 4 podle standardu SAE. Tato úroveň umožňuje plně autonomní jízdu bez řidiče v omezených geografických zónách, například v městském prostředí, kde se vozidlo adaptuje na provoz, semafory a chodce.
+Nvidia, přední výrobce grafických procesorů (GPU) optimalizovaných pro AI výpočty, se v oblasti autonomního řízení profiluje jako dodavatel klíčových komponent. Její platforma DRIVE Hyperion zahrnuje čipy Orin s výkonem až 254 TOPS (teraoperací za sekundu) pro zpracování dat z kamer, radarů a lidarů. Tato platforma slouží k vytváření senzorické vrstvy, která detekuje okolí, a k plánovací vrstvě, která rozhoduje o manévrech. Nvidia ji licencuje automobilkám jako Mercedes-Benz, Volvo nebo Zoox, což jí umožňuje šířit technologii bez rizika výroby vozidel. Nadcházející čip Thor, s očekávaným výkonem přes 1000 TOPS, má posílit edge computing přímo v autě a snížit závislost na cloudu.
 
-Alpamayo je součástí širšího balíku nástrojů. Zahrnuje výkonné GPU v datacentrech pro trénink AI modelů na miliardách kilometrů jízdních dat, on-board čipy série Drive Orin, které slouží jako centrální procesor vozu během jízdy a zpracovávají data z kamer, lidarů a radarů v reálném čase. Dále simulační software Omniverse generuje virtuální scénáře, jako nehodové situace nebo hustý provoz, což snižuje náklady na reálné testování. Tento přístup umožňuje automobilkám integrovat autonomii rychleji, bez nutnosti budovat vlastní hardware od nuly.
+Tesla naopak sleduje vertikální integraci. Její hardware HW4, nasazený v novějších modelech jako Cybertruck, kombinuje výpočetní výkon s kamerovým systémem Vision-only, který nahrazuje drahé lidary. Software FSD verze 12, poháněný end-to-end neurálními sítěmi trénovanými na miliardách kilometrů reálných dat, umožňuje vozidlu autonomní jízdu v městském provozu. Tesla využívá superpočítač Dojo k tréninku těchto modelů, což jí dává výhodu v datech z flotily přes 6 milionů aut. Plány na robotaxi, oznámené Elonem Muskem, předpokládají, že vozy budou generovat příjmy sdílením, bez potřeby externích dodavatelů.
 
-Elon Musk, šéf Tesly – výrobce elektromobilů s vlastním systémem Full Self-Driving (FSD) – reagoval na transkript Huangova projevu příspěvkem na X (dříve Twitter). Tesla preferuje end-to-end neuronové sítě trénované na datech z flotily milionů vozů, bez závislosti na externích dodavatelích jako Nvidia. Muskova Tesla chce vertikální integraci: vlastní čipy Dojo pro trénink a FSD software pro úroveň 2+ s cílem na 5. Huang naopak zdůraznil otevřenost a modularitu, což kritici vidí jako výhodu pro rychlejší adopci, ale Tesla obviňuje Nvidia z nedostatečné specializace na autonomii.
-
-Tato výměna odhaluje strategické rozdíly: Nvidia staví na ekosystému pro OEM (původní výrobce), zatímco Tesla integruje vše sama. CES prezentace tak není jen marketingem, ale signálem, že autonomní řízení přechází z prototypů do komerčních aplikací.
+Tyto cesty se protínají v cíli: dosažení úrovně 5 autonomie (plná autonomie bez řidiče). Nvidia spolupracuje s 80 automobilkami, což rozšiřuje její vliv, ale závisí na jejich adopci. Tesla riskuje, ale získává data pro rychlejší iterace. Kriticky lze říci, že Nvidia přístup je skalovatelnější pro průmysl, zatímco Tesla může vést v softwarové inovaci díky proprietárním datům.
 
 ## Proč je to důležité
-Tato soutěž ovlivní, jak rychle se autonomní vozy stanou realitou. Nvidia s tržním podílem přes 80 % v AI hardwaru může urychlit vývoj u tradičních automobiliek, což by rozšířilo robotaxi služby jako Waymo nebo Cruise. Tesla však díky datům z flotily vede v end-to-end přístupu, který snižuje chyby oproti modulárním systémům. Pro průmysl znamená vyšší tlak na bezpečnost – Level 4 vyžaduje miliardy testovacích kilometrů – a regulace jako od NHTSA. Spotřebitelé získají levnější autonomii, ale riziko závislosti na jednom dodavateli (Nvidia) hrozí zranitelnostmi v dodavatelském řetězci. Dlouhodobě určí vítěz, zda autonomii pohání otevřené platformy nebo uzavřené systémy jako u Tesly.
+Rozdílné strategie Nvidia a Tesly ovlivňují celý automobilový průmysl a AI ekosystém. Nvidia se stává de facto standardem pro autonomní hardware, podobně jako x86 pro PC, což urychluje nasazení u tradičních výrobců a posiluje její tržní kapitalizaci nad 3 biliony dolarů. Tesla demonstruje, jak data-driven přístup může vést k průlomům v AI, ovlivňující nejen auta, ale i robotiku (např. Optimus). Pro uživatele to znamená rychlejší příchod bezpečnějších autonomních vozidel – Nvidia urychlí široké rozšíření, Tesla ukáže komerční model robotaxi. V širším kontextu to zvyšuje tlak na evropské a čínské firmy, jako Mobileye nebo Baidu, a zdůrazňuje potřebu regulací pro bezpečnost AI v dopravě. Konkurence mezi těmito giganty pohání pokrok k masové autonomii do 5 let.
 
 ---
 
-[Číst původní článek](https://economictimes.indiatimes.com/news/international/business/nvidia-tesla-chase-same-self-driving-goal-via-varying-paths/articleshow/126460602.cms)
+[Číst původní článek](https://www.bloomberg.com/news/articles/2026-01-10/nvidia-and-tesla-chase-same-self-driving-goal-via-varying-paths)
 
-**Zdroj:** 📰 The Times of India
+**Zdroj:** 💹 Bloomberg

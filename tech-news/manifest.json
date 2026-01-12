@@ -1,10 +1,52 @@
 {
-  "generated": "2026-01-12T05:13:19.883350+00:00",
+  "generated": "2026-01-12T08:54:13.329188+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "Jensen Huang propaguje technologii autonomních vozů Nvidia, vyvolává reakci Elona Muska z Tesly",
-      "description": "V pondělí Jensen Huang ve svém projevu na veletrhu CES v Las Vegas chválil Nvidia Alpamayo, open-source AI model určený k urychlení vývoje autonomních vozů úrovně 4. Tato prezentace vyvolala nepřímou výměnu názorů mezi Huangem a Elonem Muskem z Tesly na téma dominance v technologiích pro autonomní jízdu.",
+      "title": "Revoluce umělé inteligence je zde. Přežije ekonomika přechod?",
+      "description": "Muž, který předpověděl krizi roku 2008, spoluzakladatel Anthropic a přední podcaster o umělé inteligenci vedli veřejnou debatu v Google dokumentu o budoucnosti umělé inteligence a jejích dopadech na ekonomiku i společnost.",
+      "slug": "the-ai-revolution-is-here-will-the-economy-survive",
+      "publishedAt": "2026-01-11T05:47:01+00:00",
+      "date": "2026-01-11 05:47:01",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://substackcdn.com/image/fetch/$s_!zFvh!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89303fb4-8215-4262-8362-180d4debcb75_1024x1024.png",
+      "url": "/tech-news/2026-01-11/the-ai-revolution-is-here-will-the-economy-survive/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Substack.com"
+      },
+      "companies": [
+        "Anthropic",
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nvidia a Tesla směřují k autonomnímu řízení různými cestami",
+      "description": "Nvidia chce dodávat inteligentní vrstvu pro autonomní vozy bez stavby vlastních aut, přesto si přeje vlastnit technologii, která autonomní řízení uskuteční.",
+      "slug": "nvidia-tesla-chase-same-self-driving-goal-via-vary",
+      "publishedAt": "2026-01-11T04:09:34+00:00",
+      "date": "2026-01-11 04:09:34",
+      "importance": 4,
+      "category": "autonomní řízení",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/almvyv/article70496936.ece/alternates/LANDSCAPE_1200/2025-12-15T182105Z_597744865_RC2IHU9IHVNG_RTRMADP_3_SCHEDMD-M-A-NVIDIA.JPG",
+      "url": "/tech-news/2026-01-11/nvidia-tesla-chase-same-self-driving-goal-via-vary/",
+      "source": {
+        "emoji": "💹",
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "companies": [
+        "Nvidia",
+        "Tesla"
+      ],
+      "people": []
+    },
+    {
+      "title": "Jensen Huang propaguje technologii autonomních vozů Nvidia a vyvolává reakci Elona Muska z Tesly",
+      "description": "V pondělí Huang ve svém projevu na největší technologické veletrhu v USA chválil Nvidia Alpamayo, open-source AI model navržený pro urychlení vývoje Level 4 autonomních vozů.",
       "slug": "jensen-huang-pitches-nvidias-self-driving-car-tech",
       "publishedAt": "2026-01-11T03:21:17+00:00",
       "date": "2026-01-11 03:21:17",
@@ -27,8 +69,8 @@
       ]
     },
     {
-      "title": "BYD překonalo Tesla jako největšího výrobce bateriově elektrických vozidel na světě",
-      "description": "Čínská společnost BYD prodala v roce 2025 celkem 2 254 714 bateriově elektrických vozidel, čímž překonala Tesla s 1 636 129 kusy. Tento posun nastal navzdory poklesu prodejů Tesly o 9 procent oproti předchozímu roku.",
+      "title": "BYD překonalo Tesla jako největšího výrobce elektromobilů na světě",
+      "description": "Čínská automobilka BYD prodala v roce 2025 celkem 2,25 milionu čistě bateriových elektromobilů (BEV), čímž překonala Teslu s 1,64 miliony kusů. Tento posun nastal navzdory skeptickým výrokům Elona Muska z roku 2011 o slabé technologii BYD.",
       "slug": "byd-overtakes-tesla-as-the-worlds-largest-ev-manuf",
       "publishedAt": "2026-01-11T03:03:00+00:00",
       "date": "2026-01-11 03:03:00",
@@ -46,30 +88,6 @@
         "Tesla"
       ],
       "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Nvidia a Tesla směřují k stejnému cíli v autonomním řízení různými cestami",
-      "description": "Generální ředitel Nvidia Jensen Huang představil na veletrhu CES technologii autonomního řízení společnosti, což vyvolalo nepřímou výměnu názorů s Elonem Muskem z Tesly. Diskuse odhaluje konkurenci a rozdílné strategie v boji o dominanci v autonomních vozech.",
-      "slug": "nvidia-tesla-chase-same-self-driving-goal-via-vary",
-      "publishedAt": "2026-01-11T01:31:07+00:00",
-      "date": "2026-01-11 01:31:07",
-      "importance": 4,
-      "category": "autonomní řízení",
-      "urlToImage": "https://img.etimg.com/thumb/msid-126460649,width-1200,height-630,imgsize-51818,overlay-economictimes/articleshow.jpg",
-      "url": "/tech-news/2026-01-11/nvidia-tesla-chase-same-self-driving-goal-via-vary/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Nvidia",
-        "Tesla"
-      ],
-      "people": [
-        "Jensen Huang",
         "Elon Musk"
       ]
     },
@@ -4006,27 +4024,6 @@
       },
       "companies": [
         "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Samsung zdvojnásobí počet mobilních zařízení s AI od Google Gemini na 800 milionů kusů letos",
-      "description": "Samsung Electronics plánuje v roce 2026 zdvojnásobit počet svých mobilních zařízení s funkcemi Galaxy AI, které pohání model Gemini od Google, z 400 na 800 milionů kusů. Tento krok má posílit pozici Google v globální soutěži o uživatele umělé inteligence.",
-      "slug": "exclusive-samsung-to-double-mobile-devices-powered",
-      "publishedAt": "2026-01-05T03:06:00+00:00",
-      "date": "2026-01-05 03:06:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--P1NJRr7u--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-01-05T030312Z_1_LYNXMPEM0403I_RTROPTP_3_SAMSUNG-ELEC-MOBILE-GOOGLE.JPG?itok=fx6VEAhA",
-      "url": "/tech-news/2026-01-05/exclusive-samsung-to-double-mobile-devices-powered/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNA"
-      },
-      "companies": [
-        "Samsung",
-        "Google"
       ],
       "people": []
     },
