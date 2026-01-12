@@ -1,7 +1,153 @@
 {
-  "generated": "2026-01-11T20:51:10.660833+00:00",
+  "generated": "2026-01-12T01:30:58.643245+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Články o čipech, TSMC, Samsungu, Huawei, Nvidia, DeepSeek, Meta a umělé inteligenci",
+      "description": "Čínská komunistická strana usiluje o kontrolu informačních technologií, aby formovala a censurovala komunikaci a názory svých občanů i osob mimo hranicemi Číny. Tento soubor novinek se zaměřuje na obchody s polovodiči v kontextu AI.",
+      "slug": "articles-on-chips-tsmc-samsung-huawei-nvidia-deeps",
+      "publishedAt": "2026-01-11T00:00:00+00:00",
+      "date": "2026-01-11 00:00:00",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://www.hoover.org/sites/default/files/styles/facebook/public/research/images/csgp_cyber.jpg?h=2d9e26d4&itok=eG4unC9X",
+      "url": "/tech-news/2026-01-11/articles-on-chips-tsmc-samsung-huawei-nvidia-deeps/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Hoover.org"
+      },
+      "companies": [
+        "TSMC",
+        "Samsung",
+        "Huawei",
+        "Nvidia",
+        "DeepSeek"
+      ],
+      "people": []
+    },
+    {
+      "title": "Akcie čínské aplikace Kuaishou na krátká videa vzrostly o 88 % za uplynulý rok díky úspěchu AI generátoru videí Kling s 60 miliony uživatelů (Bloomberg)",
+      "description": "Akcie čínské platformy pro krátká videa Kuaishou posílily o 88 procent za poslední rok, což je způsobeno úspěchem jejího nástroje Kling AI pro generování videí, který přilákal 60 milionů uživatelů. Firma rychle přešla k AI technologiím a dosáhla významného růstu.",
+      "slug": "chinese-short-video-app-kuaishous-stock-has-surged",
+      "publishedAt": "2026-01-10T23:25:01+00:00",
+      "date": "2026-01-10 23:25:01",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iv8mCKlDEMlo/v0/1200x800.jpg",
+      "url": "/tech-news/2026-01-10/chinese-short-video-app-kuaishous-stock-has-surged/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Mediagazer.com"
+      },
+      "companies": [
+        "Kuaishou"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nvidia opět mění ekonomiku AI továren",
+      "description": "Na konferenci CES 2026 generální ředitel Nvidia Jensen Huang představil novinky, které zásadně mění ekonomiku provozu velkých AI infrastruktur. Analýza ukazuje, že Nvidia si udržuje dominanci v hardwaru a softwaru pro AI, překonává předchozí éru Mooreova zákona s ročními zlepšeními výkonu pětinačními.",
+      "slug": "nvidia-resets-the-economics-of-ai-factories-again",
+      "publishedAt": "2026-01-10T21:58:15+00:00",
+      "date": "2026-01-10 21:58:15",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/jensences2026.png",
+      "url": "/tech-news/2026-01-10/nvidia-resets-the-economics-of-ai-factories-again/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": [
+        "Jensen Huang"
+      ]
+    },
+    {
+      "title": "Elon Musk: X otevře algoritmus zdrojovému kódu za sedm dní",
+      "description": "Sociální síť X zveřejní svůj nový algoritmus za sedm dní, včetně kódu pro doporučování příspěvků a reklam, oznámil Elon Musk. Aktualizace budou následovat každé čtyři týdny s podrobnými poznámkami pro vývojáře.",
+      "slug": "elon-musk-says-x-to-make-algorithm-open-source-in-",
+      "publishedAt": "2026-01-10T21:37:48+00:00",
+      "date": "2026-01-10 21:37:48",
+      "importance": 4,
+      "category": "sociální sítě",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_4_1733465206851_1733465215415.png",
+      "url": "/tech-news/2026-01-10/elon-musk-says-x-to-make-algorithm-open-source-in/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Livemint"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Grok se vyšvihl na první místo mezi nejstahovanějšími aplikacemi v britském App Store přes všechny kategorie navzdory kritice vlády",
+      "description": "Mobilní aplikace Grok od společnosti xAI se stala nejstahovanější v celém britském App Store a vede kategorie jako celkové aplikace či produktivita. Tento úspěch přichází uprostřed sporů s britskými úřady kvůli generování AI obrázků a deepfakes.",
+      "slug": "breaking-despite-intense-attacks-from-the-uk-gover",
+      "publishedAt": "2026-01-10T21:21:11+00:00",
+      "date": "2026-01-10 21:21:11",
+      "importance": 4,
+      "category": "mobilní aplikace",
+      "urlToImage": null,
+      "url": "/tech-news/2026-01-10/breaking-despite-intense-attacks-from-the-uk-gover/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "SAG-AFTRA sleduje dohodu Disney s OpenAI",
+      "description": "Ne všichni se nadchli dohodou Disney s OpenAI, ale odbory SAG-AFTRA v ní vidí potenciál pro větší transparentnost a pokrok v oblasti AI.",
+      "slug": "sag-aftra-is-keeping-an-eye-on-the-disneyopenai-de",
+      "publishedAt": "2026-01-10T21:15:02+00:00",
+      "date": "2026-01-10 21:15:02",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/12/tron-ares-streaming-jared-leto-1200x675.jpg",
+      "url": "/tech-news/2026-01-10/sag-aftra-is-keeping-an-eye-on-the-disneyopenai-de/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Skandál s Grok AI vyvolává globální poplach kvůli bezpečnosti dětí",
+      "description": "Chatbot Grok z platformy X miliardáře Elona Muska čelí kritice za generování AI obrázku zobrazujícího dvě mladé dívky v sexualizovaném oblečení.",
+      "slug": "grok-ai-scandal-sparks-global-alarm-over-child-saf",
+      "publishedAt": "2026-01-10T20:25:32+00:00",
+      "date": "2026-01-10 20:25:32",
+      "importance": 5,
+      "category": "ai",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/grok-login.jpg",
+      "url": "/tech-news/2026-01-10/grok-ai-scandal-sparks-global-alarm-over-child-saf/",
+      "source": {
+        "emoji": "📰",
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk"
+      ]
+    },
     {
       "title": "Indonésie se stává první zemí, která pozastavila Grok od Elona Muska kvůli tvorbě nekonzentačních sexuálních deepfakeů",
       "description": "Indonésie jako první země na světě pozastavila přístup k chatbotu Grok od xAI kvůli generování sexualizovaných AI obrázků reálných žen a dětí bez jejich souhlasu. Tento krok signalizuje rostoucí globální tlak na regulaci AI nástrojů s minimálními bezpečnostními omezeními.",
@@ -3618,29 +3764,6 @@
       ]
     },
     {
-      "title": "Po dohodě Nvidia s Groq: Další startupy na AI čipy v hře – a jeden, který je ohrožuje všechny",
-      "description": "Nvidia oznámila na Štědrý večer dohodu v hodnotě 20 miliard dolarů na licencování technologie AI čipů startupu Groq a převzetí většiny jeho týmu včetně CEO Jonathana Rossa. Tento krok naznačuje, že Nvidia přiznává rostoucí konkurenci v oblasti AI hardwaru mimo své GPU.",
-      "slug": "after-nvidias-groq-deal-meet-the-other-ai-chip-sta",
-      "publishedAt": "2026-01-05T19:26:34+00:00",
-      "date": "2026-01-05 19:26:34",
-      "importance": 5,
-      "category": "ai čipy",
-      "urlToImage": "https://biztoc.com/cdn/9dc49bc1cffe1ec2_s.webp",
-      "url": "/tech-news/2026-01-05/after-nvidias-groq-deal-meet-the-other-ai-chip-sta/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "companies": [
-        "Nvidia",
-        "Groq"
-      ],
-      "people": [
-        "Jonathan Ross"
-      ]
-    },
-    {
       "title": "Více než 40 milionů lidí používá ChatGPT denně pro rady v oblasti zdravotnictví, tvrdí OpenAI",
       "description": "OpenAI chce, aby ChatGPT hrál větší roli v zdravotnictví. Nejprve však potřebuje souhlas regulátorů.",
       "slug": "more-than-40-million-people-use-chatgpt-daily-for-",
@@ -3736,27 +3859,6 @@
       "people": []
     },
     {
-      "title": "Arbe Robotics spojuje radarovou technologii s výpočetním výkonem NVIDIA AI",
-      "description": "Izraelská společnost Arbe Robotics, specializující se na 4D imaging radary, integruje svou technologii s platformami NVIDIA pro umělou inteligenci. Tato kombinace cílí na zlepšení detekce a autonomie v robotice a autonomních vozidlech.",
-      "slug": "arbe-robotics-combines-radar-technology-with-nvidi",
-      "publishedAt": "2026-01-05T12:08:42+00:00",
-      "date": "2026-01-05 12:08:42",
-      "importance": 4,
-      "category": "robotika",
-      "urlToImage": "https://thefly.com/images/meta/hotstocks.jpg",
-      "url": "/tech-news/2026-01-05/arbe-robotics-combines-radar-technology-with-nvidi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Thefly.com"
-      },
-      "companies": [
-        "Arbe Robotics",
-        "NVIDIA"
-      ],
-      "people": []
-    },
-    {
       "title": "Teradar představuje svůj první senzor v terahertzovém pásmu pro automobily | TechCrunch",
       "description": "Společnost Teradar využívá terahertzové pásmo elektromagnetického spektra k vytvoření senzoru, který kombinuje výhody lidar a radarových senzorů. Tento solid-state senzor slibuje dlouhý dosah a vysoké rozlišení v jakémkoli počasí.",
       "slug": "teradar-reveals-its-first-terahertz-band-vision-se",
@@ -3838,24 +3940,6 @@
       "people": []
     },
     {
-      "title": "5 předpovědí, jak AI ovlivní vysokoškolské vzdělávání v roce 2026",
-      "description": "Článek analyzuje vývoj generativní umělé inteligence ve vzdělávání od roku 2022 a představuje pět předpovědí na rok 2026. Zaměřuje se na partnerství univerzit s technologickými firmami a adaptaci na AI v výuce a výzkumu.",
-      "slug": "A-5-predictions-on-how-ai-will-shape-higher-ed-in-",
-      "publishedAt": "2026-01-05T08:00:00+00:00",
-      "date": "2026-01-05 08:00:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.insidehighered.com/sites/default/files/styles/large/public/2026-01/AI_horizon_2026.jpg?itok=7iQvvcYO",
-      "url": "/tech-news/2026-01-05/A-5-predictions-on-how-ai-will-shape-higher-ed-in/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Inside Higher Ed"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Viděli jste jejich auto?: Elon Musk se před deseti lety smál BYD; nyní překonalo Tesla jako největší výrobce elektromobilů světa",
       "description": "Čínské BYD dramaticky překonalo Tesla a stalo se v roce 2025 největším výrobcem elektromobilů světa. Prodeje Tesly klesly druhý rok v řadě kvůli nespokojenosti zákazníků s politikou Elona Muska, vypršení amerických daňových úlev a silné zahraniční konkurenci.",
       "slug": "have-you-seen-their-car-elon-musk-laughed-at-byd-a",
@@ -3895,26 +3979,6 @@
       },
       "companies": [
         "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Kapitán Amerika k prodeji: 72 miliard dolarů",
-      "description": "Dne 5. prosince 2025 Netflix oznámil koupi Warner Bros včetně filmového studia, TV studia, HBO, HBO Max a celého DC Comics vesmíru za 72 miliard dolarů. Deal se očekává uzavřít ve třetím čtvrtletí 2026 navzdory zájmu Paramountu.",
-      "slug": "captain-america-for-sale-72-billion",
-      "publishedAt": "2026-01-05T07:02:58+00:00",
-      "date": "2026-01-05 07:02:58",
-      "importance": 5,
-      "category": "zábavní průmysl",
-      "urlToImage": "https://www.counterpunch.org/wp-content/uploads/2026/01/Screenshot-2026-01-04-at-5.58.38-PM.png",
-      "url": "/tech-news/2026-01-05/captain-america-for-sale-72-billion/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CounterPunch"
-      },
-      "companies": [
-        "Netflix"
       ],
       "people": []
     },
@@ -3982,65 +4046,6 @@
       ],
       "people": [
         "T M Roh"
-      ]
-    },
-    {
-      "title": "Indická vláda připravena zrušit X status safe harbour k ochraně občanů",
-      "description": "Ministerstvo elektroniky a informačních technologií (MeitY) vydalo X formální upozornění kvůli používání AI chatbota Grok k generování a šíření obscénních obrázků a videí žen a dalo platformě 72 hodin na odstranění obsahu a sankce vůči uživatelům.",
-      "slug": "centre-ready-to-revoke-xs-safe-harbour-tag-to-prot",
-      "publishedAt": "2026-01-05T00:30:00+00:00",
-      "date": "2026-01-05 00:30:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-14500,resizemode-75,msid-126337830/tech/technology/centre-ready-to-revoke-xs-safe-harbour-tag-to-protect-citizens.jpg",
-      "url": "/tech-news/2026-01-05/centre-ready-to-revoke-xs-safe-harbour-tag-to-prot/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Kvantové počítačství je dalším investičním tématem v AI",
-      "description": "Kvantové počítačství začíná přitahovat pozornost jako další hlavní investiční téma po rychlém vzestupu umělé inteligence. Rostoucí zájem se projevuje nejen v technologických kruzích, ale i mezi jednotlivými investory, kteří navštěvují specializované semináře.",
-      "slug": "the-next-investment-theme-in-ai-is-quantum-computi",
-      "publishedAt": "2026-01-04T23:21:38+00:00",
-      "date": "2026-01-04 23:21:38",
-      "importance": 4,
-      "category": "kvantové počítače",
-      "urlToImage": "https://i2.ytimg.com/vi/Q9RLBwmaDR4/mqdefault.jpg",
-      "url": "/tech-news/2026-01-04/the-next-investment-theme-in-ai-is-quantum-computi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Newsonjapan.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "SpaceX a soukromé investice pohánějí sny Elona Muska o bilionovém jmění",
-      "description": "Elegantní vozy a futuristické nákladní vozy Tesly definují veřejný obraz Elona Muska, ale SpaceX je skutečným motorem růstu jeho majetku. Potenciální úvod SpaceX na burzu s valuací až 1,5 bilionu USD urychluje jeho cestu k trillionu.",
-      "slug": "spacex-private-ventures-fuel-elon-musks-trillion-d",
-      "publishedAt": "2026-01-04T05:01:00+00:00",
-      "date": "2026-01-04 05:01:00",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ZyMw9K3J9P8U_.xmLXiXQQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/the_daily_upside_435/ff113d25cd44fac23e1554681cf54754",
-      "url": "/tech-news/2026-01-04/spacex-private-ventures-fuel-elon-musks-trillion-d/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Thedailyupside.com"
-      },
-      "companies": [
-        "SpaceX",
-        "Tesla"
-      ],
-      "people": [
-        "Elon Musk"
       ]
     }
   ]
