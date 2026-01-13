@@ -1,7 +1,309 @@
 {
-  "generated": "2026-01-13T12:57:30.777793+00:00",
-  "count": 200,
+  "generated": "2026-01-13T20:52:08.288233+00:00",
+  "count": 199,
   "articles": [
+    {
+      "title": "Inženýři nasadili „Poison Fountain“, který rozhazuje fungování systémů umělé inteligence",
+      "description": "Projekt Poison Fountain má oklamat webové crawlery technologických firem, aby nasály otrávená tréninková data, která naruší modely umělé inteligence. Jeho autoři, kteří pracují pro velké americké AI společnosti, chtějí tím způsobit škody systémům strojové inteligence.",
+      "slug": "engineers-deploy-poison-fountain-that-scrambles-br",
+      "publishedAt": "2026-01-12T20:15:32+00:00",
+      "date": "2026-01-12 20:15:32",
+      "importance": 4,
+      "category": "ai bezpečnost",
+      "urlToImage": "https://futurism.com/wp-content/uploads/2026/01/poison-fountain-ai_37f3fb.jpg?w=1200",
+      "url": "/tech-news/2026-01-12/engineers-deploy-poison-fountain-that-scrambles-br/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Futurism"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Apple založí Apple Intelligence na umělé inteligenci od Google",
+      "description": "Apple a Google oznámily, že nová generace Apple Foundation Models bude založena na modelech Gemini a cloudové technologii Google. Tyto modely pohání budoucí funkce Apple Intelligence, včetně personalizovanější Siri, přičemž ochrana soukromí zůstane nezměněna.",
+      "slug": "apple-to-base-apple-intelligence-on-googles-ai",
+      "publishedAt": "2026-01-12T20:07:24+00:00",
+      "date": "2026-01-12 20:07:24",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.phonescoop.com/img/a/s/c152_c218.jpg",
+      "url": "/tech-news/2026-01-12/apple-to-base-apple-intelligence-on-googles-ai/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Phonescoop.com"
+      },
+      "companies": [
+        "Apple",
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Apple a Google uzavírají dohodu o použití Gemini AI pro vývoj budoucnosti Siri",
+      "description": "Apple spolupracuje s Googlem na napájení budoucích funkcí Apple Intelligence, včetně personalizovanější verze Siri, která vyjde v roce 2026. Partnerství znamená, že další generace Apple Foundation Models bude založena na modelech Gemini a cloudové technologii Google.",
+      "slug": "apple-google-sign-deal-to-use-gemini-ai-to-help-bu",
+      "publishedAt": "2026-01-12T20:04:08+00:00",
+      "date": "2026-01-12 20:04:08",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://sm.pcmag.com/t/pcmag_me/news/a/apple-goog/apple-google-sign-deal-to-use-gemini-ai-to-help-build-the-fu_4zhr.1200.jpg",
+      "url": "/tech-news/2026-01-12/apple-google-sign-deal-to-use-gemini-ai-to-help-bu/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "PCMag.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Velká Británie zavádí zákon kriminalizující deepfake akty v reakci na Grok",
+      "description": "Velká Británie uvádí v platnost zákon, který činí vytváření nekonzistentních intimních deepfake obrázků trestným činem, v reakci na deepfakes generované chatbotem Grok na platformě X. Zákon vyžaduje od platforem proaktivní kroky k prevenci a Ofcom zahájil vyšetřování X.",
+      "slug": "uk-pushes-up-a-law-criminalizing-deepfake-nudes-in",
+      "publishedAt": "2026-01-12T20:03:49+00:00",
+      "date": "2026-01-12 20:03:49",
+      "importance": 4,
+      "category": "deepfakes",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK262_GROK_B_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "url": "/tech-news/2026-01-12/uk-pushes-up-a-law-criminalizing-deepfake-nudes-in/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Precision Neuroscience a Medtronic integrují rozhraní Layer 7 pro brain-computer interface s neurochirurgickou platformou Medtronic",
+      "description": "Precision Neuroscience oznámila strategické partnerství s Medtronic za účelem pokroku v neurochirurgii. Společně vyvíjejí integrované řešení spojující kortikální rozhraní Layer 7 s navigačním systémem StealthStation, které poskytne neurochirurgům real-time údaje o struktuře a funkci mozku.",
+      "slug": "precision-neuroscience-and-medtronic-partner-to-in",
+      "publishedAt": "2026-01-12T20:00:00+00:00",
+      "date": "2026-01-12 20:00:00",
+      "importance": 4,
+      "category": "neurotechnologie",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/30f132af-7046-4849-993d-ae830a076476",
+      "url": "/tech-news/2026-01-12/precision-neuroscience-and-medtronic-partner-to-in/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [
+        "Precision Neuroscience",
+        "Medtronic"
+      ],
+      "people": []
+    },
+    {
+      "title": "Apple a Google uzavřely dohodu o Gemini pro vylepšenou Siri",
+      "description": "Podle víceleté dohody bude Apple používat modely Gemini od Googlu pro svou vylepšenou Siri, která vyjde letos později. Tato spolupráce posiluje postavení Alphabetu v soutěži s OpenAI.",
+      "slug": "apple-google-strike-gemini-deal-for-revamped-siri",
+      "publishedAt": "2026-01-12T19:55:34+00:00",
+      "date": "2026-01-12 19:55:34",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://i.nextmedia.com.au/News/bigstock-apple-store-opened-its-long-aw-78459935.jpg",
+      "url": "/tech-news/2026-01-12/apple-google-strike-gemini-deal-for-revamped-siri/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "iTnews"
+      },
+      "companies": [
+        "Apple",
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Ethereum by neměl odkládat přípravy na hrozbu kvantových počítačů, říká Vitalik Buterin",
+      "description": "Spoluzakladatel Ethereum Vitalik Buterin upozorňuje, že síť by měla fungovat desetiletí bez nutnosti neustálých upgradů, včetně odolnosti proti budoucím kvantovým počítačům.",
+      "slug": "ethereum-shouldnt-delay-preparing-for-quantum-comp",
+      "publishedAt": "2026-01-12T19:50:28+00:00",
+      "date": "2026-01-12 19:50:28",
+      "importance": 4,
+      "category": "kryptoměny",
+      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Ethereum-Vitalik-Buterin-decrypt-style-decrypt-source-01-gID_7.png",
+      "url": "/tech-news/2026-01-12/ethereum-shouldnt-delay-preparing-for-quantum-comp/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Decrypt"
+      },
+      "companies": [],
+      "people": [
+        "Vitalik Buterin"
+      ]
+    },
+    {
+      "title": "Meta jmenuje bývalou poradkyni Bílého domu pro řízení AI projektů",
+      "description": "Meta jmenovala Dinu Powell McCormick na novou vysokou pozici zaměřenou na spolupráci s vládami a investory v oblasti AI infrastruktury. CEO Mark Zuckerberg oznámil plány na stavbu desítek gigawattů výpočetní kapacity tento desetiletí.",
+      "slug": "meta-picks-former-white-house-advisor-to-drive-ai-",
+      "publishedAt": "2026-01-12T19:46:32+00:00",
+      "date": "2026-01-12 19:46:32",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2025/11/Meta-data-centers.jpg",
+      "url": "/tech-news/2026-01-12/meta-picks-former-white-house-advisor-to-drive-ai/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [
+        "Meta"
+      ],
+      "people": [
+        "Mark Zuckerberg"
+      ]
+    },
+    {
+      "title": "„Apple Intelligence“ poháněné Gemini představuje „významnou validaci pro Google“, říká špičkový technologický analytik",
+      "description": "Dohoda umožňující Applu využívat AI technologii Google byla zveřejněna v pondělí ve společném prohlášení těchto siláků z Silicon Valley.",
+      "slug": "apple-intelligence-powered-by-gemini-marks-a-major",
+      "publishedAt": "2026-01-12T19:45:10+00:00",
+      "date": "2026-01-12 19:45:10",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/01/AP26012644382007.jpg?resize=1200,600",
+      "url": "/tech-news/2026-01-12/apple-intelligence-powered-by-gemini-marks-a-major/",
+      "source": {
+        "emoji": "📰",
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "companies": [
+        "Apple",
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Apple žádá Google o pomoc s vylepšením Siri a přidáním dalších AI funkcí na iPhone",
+      "description": "Apple spolupracuje s Googlom na dokončení vývoje vylepšené Siri a dalších funkcí umělé inteligence pro iPhone, protože firma dohání zpoždění v oblasti AI. Partnerství využije technologii Google Gemini k přizpůsobení sady Apple Intelligence.",
+      "slug": "apple-calls-on-google-to-help-smarten-up-siri-and-",
+      "publishedAt": "2026-01-12T19:37:30+00:00",
+      "date": "2026-01-12 19:37:30",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://i.abcnewsfe.com/a/b6495cd0-9b40-4bc4-b557-bfefa5bf0ac5/wirestory_865dfa575279c292bc729a2dfa4e1583_16x9.jpg?w=1600",
+      "url": "/tech-news/2026-01-12/apple-calls-on-google-to-help-smarten-up-siri-and/",
+      "source": {
+        "emoji": "📰",
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "companies": [
+        "Apple",
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Apple volí Gemini",
+      "description": "Apple a Google uzavřely víceletou spolupráci, podle níž budou další generace modelů Apple Foundation Models založeny na modelech Gemini od Google a cloudové infrastruktuře. Tyto modely pohání budoucí funkce Apple Intelligence, včetně personalizovanější verze Siri, při zachování soukromí dat.",
+      "slug": "apple-picks-gemini",
+      "publishedAt": "2026-01-12T19:35:17+00:00",
+      "date": "2026-01-12 19:35:17",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": null,
+      "url": "/tech-news/2026-01-12/apple-picks-gemini/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Mjtsai.com"
+      },
+      "companies": [
+        "Apple",
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Grok zablokován v Malajsii a Indonésii kvůli rostoucímu skandálu s sexuálními deepfakes",
+      "description": "Rostoucí kontrola nad Grok se prohlubuje v EU, Indii, Francii a Velké Británii, která pondělí oznámila záměr kriminalizovat aplikace na odhalování těla. Malajsie a Indonésie jako první země zablokovaly tento AI chatbot od xAI kvůli zneužití na tvorbu nevýslovných sexuálních obrázků.",
+      "slug": "grok-blocked-in-malaysia-and-indonesia-as-sexual-d",
+      "publishedAt": "2026-01-12T19:33:44+00:00",
+      "date": "2026-01-12 19:33:44",
+      "importance": 4,
+      "category": "deepfakes",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/01/GettyImages-2254661247-e1768246051199.jpg?resize=1200,600",
+      "url": "/tech-news/2026-01-12/grok-blocked-in-malaysia-and-indonesia-as-sexual-d/",
+      "source": {
+        "emoji": "📰",
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Apple žádá Google o pomoc s rozšířením AI funkcí na iPhonu",
+      "description": "Apple spolupracuje s Googlem na dokončení vývoje vylepšené Siri a dalších AI funkcí pro iPhone v rámci sady Apple Intelligence. Partnerství využívá technologii Gemini od Googlu, protože Apple zaostává za konkurencí v oblasti umělé inteligence.",
+      "slug": "apple-asks-google-to-help-bring-more-ai-features-t",
+      "publishedAt": "2026-01-12T19:11:59+00:00",
+      "date": "2026-01-12 19:11:59",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://dims.apnews.com/dims4/default/65a86cc/2147483647/strip/true/crop/3680x2070+0+192/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F30%2F8c%2F418f779e836ac5583a9ad8bd7b39%2F7311627f144f48a1ae6a7bba0c2ba217",
+      "url": "/tech-news/2026-01-12/apple-asks-google-to-help-bring-more-ai-features-t/",
+      "source": {
+        "emoji": "📰",
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "companies": [
+        "Apple",
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Tržní kapitalizace mateřské společnosti Google dosáhla 4 bilionů dolarů díky úspěchům v AI",
+      "description": "Mateřská společnost Google, Alphabet, dosáhla tržní kapitalizace 4 bilionů dolarů díky pokrokům v umělé inteligenci. Akcie stouply na rekordních 334,04 dolaru a společnost se stala čtvrtou firmou, která tento milník překonala.",
+      "slug": "google-parent-companys-market-cap-hits-4-trillion-",
+      "publishedAt": "2026-01-12T19:10:19+00:00",
+      "date": "2026-01-12 19:10:19",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2025/09/Google-Gemini-artificial-intelligence-AI.jpg",
+      "url": "/tech-news/2026-01-12/google-parent-companys-market-cap-hits-4-trillion/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [
+        "Alphabet",
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Anthropic posiluje zaměření na zdravotnictví novým programem pro Claude",
+      "description": "Společnost Anthropic představila program „Claude for Healthcare“, který zahrnuje řadu integrací pro svůj model umělé inteligence Claude určených pro zdravotnický sektor. Tyto nástroje umožňují poskytovatelům péče, pacientům a pojišťovnám využívat AI pro lékařské účely prostřednictvím produktů kompatibilních s normou HIPAA.",
+      "slug": "anthropic-increases-medical-focus-with-new-claude-",
+      "publishedAt": "2026-01-12T19:03:26+00:00",
+      "date": "2026-01-12 19:03:26",
+      "importance": 4,
+      "category": "zdravotnická ai",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2024/07/Anthropic-Claude-AI.jpg",
+      "url": "/tech-news/2026-01-12/anthropic-increases-medical-focus-with-new-claude/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": []
+    },
     {
       "title": "Může startup Donut Lab na pevnostátní baterii dodat baterii s 400 Wh/kg a rychlým nabíjením?",
       "description": "Estonská firma Donut Lab tvrdí, že vyvinula první plně pevnostátní baterii na světě s energetickou hustotou 400 Wh/kg, nabíjením pod 5 minut a výdrží až 100 000 cyklů. Tato technologie slibuje vyšší bezpečnost a ekologickou udržitelnost bez použití lithia, kobaltu či niklu, což vyvolává zájem i pochybnosti o její škálovatelnosti.",
@@ -3713,327 +4015,6 @@
       "people": [
         "Jensen Huang"
       ]
-    },
-    {
-      "title": "Tesla čelí žalobě kvůli smrtelné nehodě Modelu X, valí se vlna soudních sporů",
-      "description": "Nová žaloba proti Tesle po tragické nehodě v Idahu, při níž zemřela čtyřčlenná rodina, obviňuje systémy Autosteer a asistenční funkce z nájezdu do protijedoucího kamionu. Jedná se o další případ v řadě žalob po prohře Tesly v prvním velkém soudním sporu o Autopilot.",
-      "slug": "tesla-sued-over-family-killed-in-tragic-model-x-cr",
-      "publishedAt": "2026-01-06T19:58:56+00:00",
-      "date": "2026-01-06 19:58:56",
-      "importance": 4,
-      "category": "elektromobilita",
-      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2024/05/Tesla-Model-S-X-Lunar-Grey.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2026-01-06/tesla-sued-over-family-killed-in-tragic-model-x-cr/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Electrek"
-      },
-      "companies": [
-        "Tesla"
-      ],
-      "people": []
-    },
-    {
-      "title": "Sekce 230 nechrání Elona Muska před odpovědností za zneužití deepfakeů, říká senátor",
-      "description": "Státy musí zasáhnout a donutit X a Muska k odpovědnosti, pokud to Trumpovo ministerstvo spravedlnosti neudělá, prohlásil senátor Ron Wyden. Podle něj AI chatboty jako Grok nejsou chráněny sekcí 230 za obsah, který samy generují.",
-      "slug": "section-230-doesnt-cover-elon-musks-ass-when-it-co",
-      "publishedAt": "2026-01-06T19:05:29+00:00",
-      "date": "2026-01-06 19:05:29",
-      "importance": 4,
-      "category": "deepfakes",
-      "urlToImage": "https://gizmodo.com/app/uploads/2024/08/elon-musk-june-19-2024-france.jpg",
-      "url": "/tech-news/2026-01-06/section-230-doesnt-cover-elon-musks-ass-when-it-co/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "companies": [],
-      "people": [
-        "Elon Musk",
-        "Ron Wyden",
-        "Donald Trump"
-      ]
-    },
-    {
-      "title": "Britská vláda vyzývá Elona Muska k řešení „ohavních“ deepfakeů od Grok AI",
-      "description": "Britská ministryně pro technologie Liz Kendall vyzvala Elona Muska, aby zastavil zneužívání AI nástroje Grok na platformě X k tvorbě falešných a ne souhlasných sexuálních obrázků žen a dětí. Regulátor Ofcom zahájil vyšetřování po stížnostech uživatelů na deepfakes, včetně manipulovaných fotografií nezletilých.",
-      "slug": "uk-government-urges-elon-musk-to-address-appalling",
-      "publishedAt": "2026-01-06T16:06:04+00:00",
-      "date": "2026-01-06 16:06:04",
-      "importance": 4,
-      "category": "deepfakes",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2025/12/P115WQB6-e1764803391272.jpg?w=1024",
-      "url": "/tech-news/2026-01-06/uk-government-urges-elon-musk-to-address-appalling/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Deadline"
-      },
-      "companies": [],
-      "people": [
-        "Elon Musk",
-        "Liz Kendall"
-      ]
-    },
-    {
-      "title": "Británie vyzývá platformu X Elona Muska k okamžitému řešení intimních deepfakes od Grok",
-      "description": "Británie v úterý vyzvala platformu X Elona Muska, aby urgentně řešila šíření intimních deepfake obrázků vytvářených na příkaz pomocí vestavěného AI chatbota Grok. Tento krok přichází v reakci na nárůst nekonzistentních obrázků žen a nezletilých, což vyvolalo evropskou kritiku.",
-      "slug": "uk-urges-musks-x-to-urgently-address-intimate-deep",
-      "publishedAt": "2026-01-06T15:41:00+00:00",
-      "date": "2026-01-06 15:41:00",
-      "importance": 4,
-      "category": "deepfakes",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/01/06/3707982.jpg",
-      "url": "/tech-news/2026-01-06/uk-urges-musks-x-to-urgently-address-intimate-deep/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Star Online"
-      },
-      "companies": [],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Šéf OpenAI přiznal vážný bezpečnostní problém nových AI agentů – mohou být hackerům na prospěch",
-      "description": "Šéf OpenAI Sam Altman upozorňuje, že AI agenti mění průmysly, ale zároveň vytvářejí zranitelnosti, které hackeři mohou zneužít, pokud nebudou řešeny.",
-      "slug": "openais-ceo-just-admitted-his-new-ai-agents-have-a",
-      "publishedAt": "2026-01-06T12:04:00+00:00",
-      "date": "2026-01-06 12:04:00",
-      "importance": 4,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Y9Rcc8UE34i6r5wpVkUeNV-2560-80.jpg",
-      "url": "/tech-news/2026-01-06/openais-ceo-just-admitted-his-new-ai-agents-have-a/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Windows Central"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Lepší výdrž baterie iPhonu? Adaptive Power v iOS 26 ji tiše zlepšuje",
-      "description": "Několik faktorů přispívá k lepšímu výkonu baterie a v nejnovějším systémovém updatu přidala Apple nástroj běžící na pozadí založený na Apple Intelligence.",
-      "slug": "want-better-iphone-battery-life-adaptive-power-in-",
-      "publishedAt": "2026-01-06T12:01:01+00:00",
-      "date": "2026-01-06 12:01:01",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.cnet.com/a/img/resize/d181565ccb337ed956dc4a1644602d9b25e24d64/hub/2025/10/24/3c5210b7-769d-478c-9c7a-5e3d2396eb71/ios-26-iphone-battery-charge.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "url": "/tech-news/2026-01-06/want-better-iphone-battery-life-adaptive-power-in/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNET"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
-      "title": "Soukromí bude v roce 2026 pod bezprecedentním útokem",
-      "description": "Velká Británie a Evropa zvyšují opozici vůči šifrování a zesilují dohled nad soukromými komunikacemi. Zde je přehled toho, co očekávat tento rok.",
-      "slug": "privacy-will-be-under-unprecedented-attack-in-2026",
-      "publishedAt": "2026-01-06T11:45:00+00:00",
-      "date": "2026-01-06 11:45:00",
-      "importance": 4,
-      "category": "ochrana soukromí",
-      "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/Hero Images/surveillance-biometrics-identity-privacy-KUBE-adobe.jpg",
-      "url": "/tech-news/2026-01-06/privacy-will-be-under-unprecedented-attack-in-2026/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "ComputerWeekly.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Výzkumníci otráví ukradená data, aby AI systémy vracely chybné výsledky",
-      "description": "Výzkumníci z univerzit v Číně a Singapuru vyvinuli techniku, která činí ukradená data ze znalostních grafů neužitečnými pro systémy GraphRAG. Firmy by měly zvážit pozici hlavního specialisty na dezinformace pro ochranu svých znalostních grafů.",
-      "slug": "researchers-poison-stolen-data-to-make-ai-systems-",
-      "publishedAt": "2026-01-06T11:27:09+00:00",
-      "date": "2026-01-06 11:27:09",
-      "importance": 4,
-      "category": "ai bezpečnost",
-      "urlToImage": "https://regmedia.co.uk/2025/10/09/shutterstock_720129613.jpg",
-      "url": "/tech-news/2026-01-06/researchers-poison-stolen-data-to-make-ai-systems/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "AI pero Gumdrop od OpenAI přináší hlasovou pomoc, zachytávání rukopisu a další funkce",
-      "description": "Co kdyby budoucnost umělé inteligence nebyla obrazovka v kapse, ale jednoduché pero v ruce? AI GRID zkoumá, jak ambiciózní projekt AI pera od OpenAI s kódovým názvem „Gumdrop“ může změnit náš vztah k technologiím. Toto pero poháněné AI slouží k mostu mezi chytrými telefony a notebooky.",
-      "slug": "openais-gumdrop-ai-pen-brings-voice-help-handwriti",
-      "publishedAt": "2026-01-06T07:39:44+00:00",
-      "date": "2026-01-06 07:39:44",
-      "importance": 4,
-      "category": "ai hardware",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/01/smart-glasses-vs-openai-pen_optimized.jpg",
-      "url": "/tech-news/2026-01-06/openais-gumdrop-ai-pen-brings-voice-help-handwriti/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Výsledky a vyhlídky umělé inteligence v podnikových aplikacích v roce 2026",
-      "description": "Agentická umělá inteligence dominovala diskusím v podnikovém IT v roce 2025, navazujíc na generativní AI. V roce 2026 určí konvergence forem AI a správa její dopad na podnikové IT.",
-      "slug": "results-and-prospects-for-ai-in-business-applicati",
-      "publishedAt": "2026-01-06T07:25:00+00:00",
-      "date": "2026-01-06 07:25:00",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/Hero Images/technology-digital-future-2-adobe.jpeg",
-      "url": "/tech-news/2026-01-06/results-and-prospects-for-ai-in-business-applicati/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "ComputerWeekly.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Malé 3D tištěné světelné klece by mohly odemknout kvantový internet",
-      "description": "Nová čipová kvantová paměť využívá nanoprintované „světelné klece“ k zachycení světla v atomovém páře, což umožňuje rychlé a spolehlivé ukládání kvantové informace. Struktury lze vyrobit s vysokou přesností a naplnit atomy během dnů místo měsíců, což představuje krok k škálovatelným kvantovým repeaterům.",
-      "slug": "tiny-3d-printed-light-cages-could-unlock-the-quant",
-      "publishedAt": "2026-01-06T07:14:34+00:00",
-      "date": "2026-01-06 07:14:34",
-      "importance": 5,
-      "category": "kvantový internet",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/light-cages-for-enhanced-light-matter-interaction.webp",
-      "url": "/tech-news/2026-01-06/tiny-3d-printed-light-cages-could-unlock-the-quant/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Science Daily"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Spojené arabské emiráty spouští AI ekosystém pro posílení zemědělství odolného vůči klimatu po celém světě",
-      "description": "Ve spolupráci s Nadací Gatesových Abu Dhabi představuje multiinstitucionální AI platformu, která má urychlit zemědělské inovace, posílit potravinovou bezpečnost a podpořit miliony malých farmářů čelících klimatické nestabilitě.",
-      "slug": "uae-launches-ai-ecosystem-to-boost-climate-resilie",
-      "publishedAt": "2026-01-06T06:53:00+00:00",
-      "date": "2026-01-06 06:53:00",
-      "importance": 4,
-      "category": "agrotechnologie",
-      "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/HeroImages/Dubai-skyline-desert-UAE-WaitforLight-adobe.jpg",
-      "url": "/tech-news/2026-01-06/uae-launches-ai-ecosystem-to-boost-climate-resilie/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "ComputerWeekly.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Nejzajímavější technologie prvního dne na CES",
-      "description": "První den veletrhu CES 2026 v Las Vegas představily firmy Nvidia, AMD a Intel důležité čipy a AI platformy, avšak největší zájem vzbudily Star Wars expozice a robotické demonstrace od šéfa Nvidia Jensena Huanga. Klíčovým tématem byl koncept „physical AI“ s novými modely pro simulace a autonomní řízení.",
-      "slug": "the-most-interesting-tech-we-saw-on-day-one-of-ces",
-      "publishedAt": "2026-01-06T06:16:50+00:00",
-      "date": "2026-01-06 06:16:50",
-      "importance": 4,
-      "category": "spotřební elektronik",
-      "urlToImage": null,
-      "url": "/tech-news/2026-01-06/the-most-interesting-tech-we-saw-on-day-one-of-ces/",
-      "source": {
-        "emoji": "📰",
-        "id": "financial-post",
-        "name": "Financial Post"
-      },
-      "companies": [
-        "Nvidia",
-        "AMD",
-        "Intel"
-      ],
-      "people": [
-        "Jensen Huang"
-      ]
-    },
-    {
-      "title": "Prezident OpenAI Brockman: Růst HDP bude brzy záviset na výpočetním výkonu",
-      "description": "Prezident a spoluzakladatel OpenAI Greg Brockman na konferenci CES 2026 zdůraznil akutní nedostatek výpočetního výkonu (compute) v jeho firmě a předpověděl, že růst HDP zemí a regionů bude brzy určovat právě dostupnost compute. Tato výpověď zazněla během diskuse s generální ředitelkou AMD Lisou Su.",
-      "slug": "openais-brockman-says-gdp-growth-may-soon-be-tied-",
-      "publishedAt": "2026-01-06T04:01:59+00:00",
-      "date": "2026-01-06 04:01:59",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
-      "url": "/tech-news/2026-01-06/openais-brockman-says-gdp-growth-may-soon-be-tied/",
-      "source": {
-        "emoji": "🚀",
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "companies": [
-        "OpenAI",
-        "AMD"
-      ],
-      "people": [
-        "Greg Brockman",
-        "Lisa Su"
-      ]
-    },
-    {
-      "title": "Samsung využívá modely Gemini v globálním závodě o AI zařízení",
-      "description": "Globální soutěž v umělé inteligenci překračuje fázi vývoje velkých jazykových modelů a přesouvá se k integraci AI do hardware, zařízení a aplikací na spotřebním i podnikovém trhu. Samsung nasazuje modely Gemini od Google, aby posílil svou pozici v tomto závodě.",
-      "slug": "samsung-leverages-gemini-models-as-global-ai-devic",
-      "publishedAt": "2026-01-06T03:51:49+00:00",
-      "date": "2026-01-06 03:51:49",
-      "importance": 4,
-      "category": "ai zařízení",
-      "urlToImage": "https://img.digitimes.com/newsshow/20260106vl205_files/1_2b.jpg",
-      "url": "/tech-news/2026-01-06/samsung-leverages-gemini-models-as-global-ai-devic/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
-      },
-      "companies": [
-        "Samsung"
-      ],
-      "people": []
-    },
-    {
-      "title": "Proč by nová platforma Rubin od Nvidia mohla navždy změnit budoucnost výpočtů pro umělou inteligenci",
-      "description": "Na CES 2026 Nvidia představila Rubin, novou platformu pro superpočítačové výpočty s umělou inteligencí, která má urychlit šíření velkých jazykových modelů mezi širokou veřejností. Platforma snižuje náklady na trénink a provoz AI modelů díky optimalizaci hardwaru.",
-      "slug": "why-nvidias-new-rubin-platform-could-change-the-fu",
-      "publishedAt": "2026-01-06T00:17:16+00:00",
-      "date": "2026-01-06 00:17:16",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/b84fe21f649f4b93a6143ce571d86cf2e6f4c306/2026/01/05/ca0129da-1b05-4418-9950-752d6af0e0e2/nvidia-rubin-supercomputer-ces-2026.png?auto=webp&fit=crop&height=675&width=1200",
-      "url": "/tech-news/2026-01-06/why-nvidias-new-rubin-platform-could-change-the-fu/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "ZDNet"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": []
     }
   ]
 }
