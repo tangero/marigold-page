@@ -1,7 +1,126 @@
 {
-  "generated": "2026-01-12T20:51:42.531248+00:00",
+  "generated": "2026-01-13T01:22:10.312804+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Motional staví AI do centra restartu robotaxi a míří na bezřidičskou službu v roce 2026 | TechCrunch",
+      "description": "Společnost Motional, která vznikla jako společné podnikání Hyundai Motor Group a Aptiv, restartuje své plány na robotaxi s důrazem na AI. Cílem je spuštění komerční bezřidičské služby v Las Vegas do konce roku 2026.",
+      "slug": "motional-puts-ai-at-center-of-robotaxi-reboot-as-i",
+      "publishedAt": "2026-01-12T00:12:36+00:00",
+      "date": "2026-01-12 00:12:36",
+      "importance": 4,
+      "category": "autonomní vozidla",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/01/Motional-hyundai-robotaxi-vegas.jpg?resize=1200,900",
+      "url": "/tech-news/2026-01-12/motional-puts-ai-at-center-of-robotaxi-reboot-as-i/",
+      "source": {
+        "emoji": "🚀",
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "companies": [
+        "Motional"
+      ],
+      "people": []
+    },
+    {
+      "title": "Eggie, Neo, Isaac a Memo jsou domácí roboti. Dovolili byste jim nakládat do myčky?",
+      "description": "Joe Tidy se setkal s roboty, které se trénují na úklid domácího nepořádku. Díky pokrokům v umělé inteligenci vstupují první univerzální domácí roboti do domácností.",
+      "slug": "eggie-neo-isaac-and-memo-are-domestic-robots-but-w",
+      "publishedAt": "2026-01-12T00:07:23+00:00",
+      "date": "2026-01-12 00:07:23",
+      "importance": 4,
+      "category": "domácí roboti",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d7ca/live/e5e62070-ed86-11f0-a422-4ba8a094a8fa.jpg",
+      "url": "/tech-news/2026-01-12/eggie-neo-isaac-and-memo-are-domestic-robots-but-w/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BBC News"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Rovnováha sil v umělé inteligenci se může příští rok dramaticky změnit",
+      "description": "Profesor Yutaka Matsuo z Tokijské univerzity očekává, že globální rovnováha sil v umělé inteligenci v roce 2026 prudce změní díky průlomům v čipech, robotice a autonomním vozidlech. Tyto změny by mohly přeskupit lídry mezi firmami i zeměmi.",
+      "slug": "the-ai-power-balance-could-shift-dramatically-next",
+      "publishedAt": "2026-01-11T23:55:13+00:00",
+      "date": "2026-01-11 23:55:13",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://i2.ytimg.com/vi/JkCdPKw3R9w/mqdefault.jpg",
+      "url": "/tech-news/2026-01-11/the-ai-power-balance-could-shift-dramatically-next/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Newsonjapan.com"
+      },
+      "companies": [],
+      "people": [
+        "Yutaka Matsuo"
+      ]
+    },
+    {
+      "title": "Google představuje Univerzální obchodní protokol pro zefektivnění automatizace nákupů agentů umělé inteligence",
+      "description": "Společnost Google LLC představila nový otevřený standard Universal Commerce Protocol (UCP), který umožňuje agentům umělé inteligence automatizovat celý proces nákupu od vyhledání produktu po platbu a podporu po prodeji. Protokol vyvinula ve spolupráci s velkými prodejci jako Shopify, Target, Walmart a Etsy.",
+      "slug": "google-debuts-universal-commerce-protocol-to-strea",
+      "publishedAt": "2026-01-11T23:44:53+00:00",
+      "date": "2026-01-11 23:44:53",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/Screenshot-from-2026-01-12-06-43-09.png",
+      "url": "/tech-news/2026-01-11/google-debuts-universal-commerce-protocol-to-strea/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Torq získává 140 milionů dolarů při valuaci 1,2 miliardy na rozšíření hyperautomatizace bezpečnosti poháněné AI",
+      "description": "Společnost Torq Ltd., která vyvíjí platformu pro hyperautomatizaci bezpečnosti, oznámila získání 140 milionů dolarů nového financování při valuaci 1,2 miliardy dolarů. Financování poslou k urychlení adopce její platformy bezpečnostních operací poháněné umělou inteligencí a rozšíření marketingových aktivit.",
+      "slug": "torq-raises-140m-at-12b-valuation-to-scale-ai-driv",
+      "publishedAt": "2026-01-11T22:54:14+00:00",
+      "date": "2026-01-11 22:54:14",
+      "importance": 4,
+      "category": "kybernetika",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/torqseriesd.png",
+      "url": "/tech-news/2026-01-11/torq-raises-140m-at-12b-valuation-to-scale-ai-driv/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Torq Ltd"
+      ],
+      "people": []
+    },
+    {
+      "title": "Google spolupracuje s Walmartem a dalšími prodejci pro nákupy přímo v AI chatbotu Gemini",
+      "description": "Google rozšiřuje nákupní funkce svého AI chatbota spoluprací s Walmartem, Shopify, Wayfair a dalšími velkými prodejci, čímž mění aplikaci Gemini na virtuálního obchodníka i asistenta. Nová funkce umožňuje okamžité nákupy bez opuštění chatu.",
+      "slug": "google-teams-up-with-walmart-and-other-retailers-t",
+      "publishedAt": "2026-01-11T22:13:55+00:00",
+      "date": "2026-01-11 22:13:55",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://i.abcnewsfe.com/a/6af97977-36af-43b7-bd0f-1be588876ae2/wirestory_f1679240ba93d40b90a97348b73039d3_16x9.jpg?w=1600",
+      "url": "/tech-news/2026-01-11/google-teams-up-with-walmart-and-other-retailers-t/",
+      "source": {
+        "emoji": "📰",
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "companies": [
+        "Google",
+        "Shopify"
+      ],
+      "people": []
+    },
     {
       "title": "Elon Musk označil britskou vládu za fašistickou kvůli sporu o obrázky z Grok",
       "description": "Elon Musk označil britskou vládu za fašistickou po hrozbách blokování platformy X kvůli sexualizovaným obrázkům žen a dětí generovaným jeho AI nástrojem Grok. Britské úřady objevily trestné obrázky na dark webu, což vyvolalo reakce politiků včetně premiéra Keira Starmera.",
@@ -3367,28 +3486,6 @@
       "people": []
     },
     {
-      "title": "Před rokem Jensen Huang z Nvidia slíbil 'ChatGPT moment' pro robotiku za rohem. Teď říká, že je 'téměř zde'. Ale je tomu tak?",
-      "description": "Huang tvrdí, že pokroky v modelech, simulaci a výpočetním výkonu posunuly robotiku k dlouho očekávanému obratu – přeměna platforem na stroje v reálném světě však zůstává nejtěžší částí.",
-      "slug": "a-year-ago-nvidias-jensen-huang-said-the-chatgpt-m",
-      "publishedAt": "2026-01-06T16:08:42+00:00",
-      "date": "2026-01-06 16:08:42",
-      "importance": 4,
-      "category": "robotika",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/01/GettyImages-2254221764-e1767710932912.jpg?resize=1200,600",
-      "url": "/tech-news/2026-01-06/a-year-ago-nvidias-jensen-huang-said-the-chatgpt-m/",
-      "source": {
-        "emoji": "📰",
-        "id": "fortune",
-        "name": "Fortune"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": [
-        "Jensen Huang"
-      ]
-    },
-    {
       "title": "Britská vláda vyzývá Elona Muska k řešení „ohavních“ deepfakeů od Grok AI",
       "description": "Britská ministryně pro technologie Liz Kendall vyzvala Elona Muska, aby zastavil zneužívání AI nástroje Grok na platformě X k tvorbě falešných a ne souhlasných sexuálních obrázků žen a dětí. Regulátor Ofcom zahájil vyšetřování po stížnostech uživatelů na deepfakes, včetně manipulovaných fotografií nezletilých.",
       "slug": "uk-government-urges-elon-musk-to-address-appalling",
@@ -3449,24 +3546,6 @@
       "people": [
         "Elon Musk"
       ]
-    },
-    {
-      "title": "Křišťálová koule: Jak se budou vyvíjet IPO a obchodní dohody v roce 2026",
-      "description": "Čtenáři Term Sheet sdělili své názory na vývoj stavu exitů na soukromých trzích do roku 2026. Článek analyzuje predikce ohledně IPO a fúzí a akvizic v technologickém sektoru.",
-      "slug": "crystal-ball-how-ipos-and-dealmaking-will-shake-ou",
-      "publishedAt": "2026-01-06T12:05:13+00:00",
-      "date": "2026-01-06 12:05:13",
-      "importance": 4,
-      "category": "startupy",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/01/GettyImages-1616669298-e1767555627831.jpg?resize=1200,600",
-      "url": "/tech-news/2026-01-06/crystal-ball-how-ipos-and-dealmaking-will-shake-ou/",
-      "source": {
-        "emoji": "📰",
-        "id": "fortune",
-        "name": "Fortune"
-      },
-      "companies": [],
-      "people": []
     },
     {
       "title": "Šéf OpenAI přiznal vážný bezpečnostní problém nových AI agentů – mohou být hackerům na prospěch",
@@ -3587,27 +3666,6 @@
       "people": [
         "Jensen Huang"
       ]
-    },
-    {
-      "title": "CES 2026: Vše, co potřebujete vědět o hlavních oznámeních Nvidia",
-      "description": "Nvidia představila na CES 2026 Alpamayo, open-source AI model, který přidává uvažovací schopnosti do autonomních vozidel a robotiky. Technologie poprvé debutuje u Mercedes-Benz od začátku 2026. Nvidia také uvedla nový čip Vera Rubin a otevřela zdrojové kódy modelů, simulačních nástrojů a velkých datových sad pro autonomní řízení.",
-      "slug": "ces-2026-all-you-need-to-know-about-nvidias-major-",
-      "publishedAt": "2026-01-06T08:12:58+00:00",
-      "date": "2026-01-06 08:12:58",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-66392,resizemode-75,msid-126369415/tech/technology/ces-2026-all-you-need-to-know-about-nvidias-major-announcements.jpg",
-      "url": "/tech-news/2026-01-06/ces-2026-all-you-need-to-know-about-nvidias-major/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Nvidia",
-        "Mercedes-Benz"
-      ],
-      "people": []
     },
     {
       "title": "AI pero Gumdrop od OpenAI přináší hlasovou pomoc, zachytávání rukopisu a další funkce",
@@ -3747,44 +3805,6 @@
       "people": [
         "Jensen Huang"
       ]
-    },
-    {
-      "title": "AMD a její partneři sdílejí vizi „AI všude pro každého“ na CES 2026",
-      "description": "AMD na CES 2026 představilo rackovou platformu Helios jako návrh pro yotta-scale AI infrastrukturu založenou na Instinct MI455X GPU a EPYC „Venice“ CPU. Společnost rozšířila portfolio o nové GPU MI440X, preview MI500 série a Ryzen AI pro počítače a vestavěné systémy, přičemž oznámila investici 150 milionů dolarů do AI ve školách.",
-      "slug": "amd-and-its-partners-share-their-vision-for-ai-eve",
-      "publishedAt": "2026-01-06T04:30:00+00:00",
-      "date": "2026-01-06 04:30:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/9782a337-07ac-424b-9c5a-f9cde47d8d55",
-      "url": "/tech-news/2026-01-06/amd-and-its-partners-share-their-vision-for-ai-eve/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [
-        "AMD"
-      ],
-      "people": []
-    },
-    {
-      "title": "CES 2026: Čínští technologičtí giganti představí humanoidní roboty a displeje příští generace",
-      "description": "Na veletrhu CES 2026, který se koná od 6. do 9. ledna 2026 v Las Vegas, čínské technologické firmy v čele s giganty jako UBTech nebo Xiaomi plánují ukázat pokročilé humanoidní roboty a displeje nové generace. Tato přítomnost podtrhne rostoucí dominanci Číny v oblasti robotiky a AI.",
-      "slug": "ces-2026-chinas-tech-heavyweights-to-showcase-huma",
-      "publishedAt": "2026-01-06T04:14:04+00:00",
-      "date": "2026-01-06 04:14:04",
-      "importance": 5,
-      "category": "robotika",
-      "urlToImage": "https://img.digitimes.com/newsshow/20260106pd221_files/2_r.jpg",
-      "url": "/tech-news/2026-01-06/ces-2026-chinas-tech-heavyweights-to-showcase-huma/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
-      },
-      "companies": [],
-      "people": []
     },
     {
       "title": "Prezident OpenAI Brockman: Růst HDP bude brzy záviset na výpočetním výkonu",
@@ -4034,24 +4054,6 @@
       "companies": [
         "Nvidia"
       ],
-      "people": []
-    },
-    {
-      "title": "AI startupy získaly 262 milionů dolarů před blížícími se regulacemi",
-      "description": "Investoři vložili 262 milionů dolarů do afrických AI startupů navzdory hrozícím regulacím a infrastrukturním výzvám. Článek rozebírá růst tohoto sektoru a hlavní překážky.",
-      "slug": "ai-startups-raise-262m-as-regulation-looms",
-      "publishedAt": "2026-01-06T00:07:37+00:00",
-      "date": "2026-01-06 00:07:37",
-      "importance": 4,
-      "category": "ai startupy",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2025/09/18035016/artificial-intelligence.webp",
-      "url": "/tech-news/2026-01-06/ai-startups-raise-262m-as-regulation-looms/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Punch"
-      },
-      "companies": [],
       "people": []
     }
   ]
