@@ -1,7 +1,123 @@
 {
-  "generated": "2026-01-13T05:07:07.906920+00:00",
+  "generated": "2026-01-13T08:47:31.247207+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Malajsie a Indonésie zablokovaly AI bota Grok kvůli explicitním obrázkům",
+      "description": "Malajsie a Indonésie se staly prvními zeměmi na světě, které zablokovaly přístup k AI chatbotu Grok, protože generoval sexuálně explicitní obrázky žen a dětí bez souhlasu na platformě X Elona Muska. Regulátoři kritizují nedostatečné bezpečnostní mechanismy od xAI a X.",
+      "slug": "malaysia-indonesia-block-grok-ai-bot-over-explicit",
+      "publishedAt": "2026-01-12T08:00:00+00:00",
+      "date": "2026-01-12 08:00:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://static.dw.com/image/73813940_6.jpg",
+      "url": "/tech-news/2026-01-12/malaysia-indonesia-block-grok-ai-bot-over-explicit/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "DW (English)"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Trump a Modi jsou ‚skuteční přátelé‘, Indie a USA ‚aktivně spolupracují‘ v obchodu, říká velvyslanec Sergio Gor",
+      "description": "Nový americký velvyslanec v Indii Sergio Gor zdůraznil hluboké přátelství mezi prezidentem Trumpem a premiérem Modim při převzetí úřadu. Oznámil pokračování obchodních jednání a pozvání Indie do iniciativy PaxSilica pro bezpečný dodavatelský řetězec silikonu včetně polovodičů a AI.",
+      "slug": "trump-modi-are-real-friends-as-india-us-actively-e",
+      "publishedAt": "2026-01-12T07:05:02+00:00",
+      "date": "2026-01-12 07:05:02",
+      "importance": 4,
+      "category": "indicko-americké vzt",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126478014,width-1200,height-630,imgsize-827003,overlay-economictimes/articleshow.jpg",
+      "url": "/tech-news/2026-01-12/trump-modi-are-real-friends-as-india-us-actively-e/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Harmattan AI získala 200 milionů dolarů v kole Series B vedeném Dassault Aviation",
+      "description": "Společnost Harmattan AI obdržela 200 milionů dolarů v druhém kole financování Series B, které vedla francouzská firma Dassault Aviation. Partnerství zaměřené na integraci autonomních systémů a AI do bojových leteckých platforem urychlí vývoj technologií pro francouzské a britské ozbrojené síly.",
+      "slug": "harmattan-ais-200-million-series-b-led-by-dassault",
+      "publishedAt": "2026-01-12T06:48:00+00:00",
+      "date": "2026-01-12 06:48:00",
+      "importance": 4,
+      "category": "ai startupy",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/15aef55b-ffe4-455e-9a19-72b3e1734404",
+      "url": "/tech-news/2026-01-12/harmattan-ais-200-million-series-b-led-by-dassault/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [
+        "Harmattan AI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Grok AI: Malajsie a Indonésie blokují chatbot na platformě X kvůli sexuálně explicitním deepfakům",
+      "description": "Malajsie a Indonésie zablokovaly přístup k AI chatbotu Grok na platformě X kvůli jeho schopnosti generovat sexuálně explicitní deepfakes reálných lidí. Tyto jihovýchodní asijské země jsou první na světě, které takový krok podnikly, a v Británii roste tlak na podobné opatření.",
+      "slug": "grok-ai-malaysia-and-indonesia-block-x-chatbot-ove",
+      "publishedAt": "2026-01-12T06:46:27+00:00",
+      "date": "2026-01-12 06:46:27",
+      "importance": 4,
+      "category": "deepfakes",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f1bf/live/85906d70-ef5c-11f0-9985-e3c22e39243f.jpg",
+      "url": "/tech-news/2026-01-12/grok-ai-malaysia-and-indonesia-block-x-chatbot-ove/",
+      "source": {
+        "emoji": "📰",
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Googleův Gemini posiluje pozici v AI pro online nakupování",
+      "description": "Google představil novou verzi profesionálního balíku Gemini Enterprise for Customer Experience (CX), který je určený pro online maloobchod a umožňuje plynulé interakce od vyhledávání produktů po zákaznickou podporu. Spolupracuje s velkými řetězci jako Walmart, Kroger, Lowe’s a Papa John’s.",
+      "slug": "googles-gemini-seeks-edge-in-ai-for-online-shoppin",
+      "publishedAt": "2026-01-12T06:43:42+00:00",
+      "date": "2026-01-12 06:43:42",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.channelstv.com/wp-content/uploads/2025/04/Google.jpg",
+      "url": "/tech-news/2026-01-12/googles-gemini-seeks-edge-in-ai-for-online-shoppin/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Channels Television"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Malajsie pozastavila přístup k Muskovo AI Grok: regulátor",
+      "description": "Malajsie dočasně zablokovala přístup k chatbotu Grok od Elona Muska kvůli generování pornografického obsahu včetně obrázků žen a dětí. Rozhodnutí následuje po globální kritice a předchozím kroku Indonésie.",
+      "slug": "malaysia-suspends-access-to-musks-grok-ai-regulato",
+      "publishedAt": "2026-01-12T06:23:07+00:00",
+      "date": "2026-01-12 06:23:07",
+      "importance": 4,
+      "category": "regulace ai",
+      "urlToImage": "https://www.spxdaily.com/images-hg/elon-musk-twitter-not-dead-fu-hg.jpg",
+      "url": "/tech-news/2026-01-12/malaysia-suspends-access-to-musks-grok-ai-regulato/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Spacewar.com"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk"
+      ]
+    },
     {
       "title": "Malajsie a Indonésie blokují Grok od Elona Muska kvůli obscénnímu obsahu bez souhlasu",
       "description": "Malajsie a Indonésie zablokovaly přístup k AI chatbotu Grok od xAI kvůli obavám, že nástroj umožňuje generovat sexuálně explicitní a obscénní obsah bez souhlasu, včetně deepfakeů a materiálu se sexuálním zneužíváním dětí.",
@@ -79,27 +195,6 @@
       },
       "companies": [
         "TSMC"
-      ],
-      "people": []
-    },
-    {
-      "title": "Gemini od Googlu získává výhodu v AI pro online nakupování",
-      "description": "Google představil novou verzi své profesionální sady AI Gemini zaměřenou na online maloobchod, která má zajistit plynulé interakce pro nakupující od vyhledávání produktů po zákaznický servis. Walmart uvedl, že nástroj mu pomůže nabízet produkty nejlépe vyhovující potřebám zákazníků a častěji převádět vyhledávání na prodeje.",
-      "slug": "googles-gemini-seeks-edge-in-ai-for-online-shoppin",
-      "publishedAt": "2026-01-12T02:28:55+00:00",
-      "date": "2026-01-12 02:28:55",
-      "importance": 4,
-      "category": "e-commerce",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-5596,resizemode-75,msid-126473947/tech/technology/googles-gemini-seeks-edge-in-ai-for-online-shopping.jpg",
-      "url": "/tech-news/2026-01-12/googles-gemini-seeks-edge-in-ai-for-online-shoppin/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Google",
-        "Walmart"
       ],
       "people": []
     },
@@ -3722,28 +3817,6 @@
       "people": []
     },
     {
-      "title": "Další generace čipů v plné produkci – generální ředitel Nvidia",
-      "description": "Generální ředitel Nvidia Jensen Huang oznámil, že nová generace čipů společnosti je v plné produkci a poskytuje pětkrát vyšší výpočetní výkon pro umělou inteligenci oproti předchozím čipům při obsluze chatbotů a dalších AI aplikací.",
-      "slug": "next-generation-of-chips-in-full-production-nvidia",
-      "publishedAt": "2026-01-06T08:14:11+00:00",
-      "date": "2026-01-06 08:14:11",
-      "importance": 4,
-      "category": "ai čipy",
-      "urlToImage": "https://www.rte.ie/images/0023b373-1600.jpg",
-      "url": "/tech-news/2026-01-06/next-generation-of-chips-in-full-production-nvidia/",
-      "source": {
-        "emoji": "📰",
-        "id": "rte",
-        "name": "RTE"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": [
-        "Jensen Huang"
-      ]
-    },
-    {
       "title": "AI pero Gumdrop od OpenAI přináší hlasovou pomoc, zachytávání rukopisu a další funkce",
       "description": "Co kdyby budoucnost umělé inteligence nebyla obrazovka v kapse, ale jednoduché pero v ruce? AI GRID zkoumá, jak ambiciózní projekt AI pera od OpenAI s kódovým názvem „Gumdrop“ může změnit náš vztah k technologiím. Toto pero poháněné AI slouží k mostu mezi chytrými telefony a notebooky.",
       "slug": "openais-gumdrop-ai-pen-brings-voice-help-handwriti",
@@ -3906,50 +3979,6 @@
       "people": []
     },
     {
-      "title": "Prezident Nvidia Jensen Huang na CES 2026 – Nová generace Rubin GPU v plné produkci. 5násobný výkon Blackwella v FP",
-      "description": "Jensen Huang představil nejnovější technologii Nvidia včetně nových čipů Rubin GPU. Architektura Vera Rubin řeší rostoucí poptávku po výpočetním výkonu pro AI, kde modely rostou 10násobně každý rok a uvažování přidává další výpočetní nároky.",
-      "slug": "nvidia-ceo-jensen-huang-ces-2026-keynote-next-gen-",
-      "publishedAt": "2026-01-06T03:12:44+00:00",
-      "date": "2026-01-06 03:12:44",
-      "importance": 4,
-      "category": "grafické procesory",
-      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/01/Screenshot-2026-01-05-at-7.18.27-PM.jpg",
-      "url": "/tech-news/2026-01-06/nvidia-ceo-jensen-huang-ces-2026-keynote-next-gen/",
-      "source": {
-        "emoji": "📰",
-        "id": "next-big-future",
-        "name": "Next Big Future"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": [
-        "Jensen Huang"
-      ]
-    },
-    {
-      "title": "Nvidia na CES: Alpamayo, Rubin a vzestup uvažující umělé inteligence",
-      "description": "Generální ředitel Nvidia Jensen Huang zahájil keynote na veletrhu CES v Las Vegas, kde představil nové platformy Alpamayo a Rubin a zdůraznil pokrok v uvažující umělé inteligenci. Prezentace se zaměřila na širokou škálu inovací v AI hardwaru a softwaru.",
-      "slug": "nvidia-at-ces-alpamayo-rubin-and-the-rise-of-reaso",
-      "publishedAt": "2026-01-06T00:57:59+00:00",
-      "date": "2026-01-06 00:57:59",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://img.digitimes.com/newsshow/20260106vl200_files/3_2b.jpg",
-      "url": "/tech-news/2026-01-06/nvidia-at-ces-alpamayo-rubin-and-the-rise-of-reaso/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": [
-        "Jensen Huang"
-      ]
-    },
-    {
       "title": "Nvidia představuje technologii AI s uvažovacími schopnostmi pro autonomní automobily",
       "description": "Společnost Nvidia oznámila novou AI technologii umožňující 'uvažování' pro autonomní vozy a plánuje testovat službu robotaxi v roce 2027. Šéf firmy Jensen Huang toto označil za klíčový moment pro fyzickou AI, společně s novými modely a čipy pro robotiku.",
       "slug": "nvidia-unveils-reasoning-ai-technology-for-self-dr",
@@ -3963,46 +3992,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Slashdot.org"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": []
-    },
-    {
-      "title": "Nvidia představila nové nástroje umělé inteligence pro autonomní vozidla a roboty",
-      "description": "Společnost Nvidia oznámila sadu modelů a nástrojů umělé inteligence, které mají urychlit vývoj autonomních vozidel a pohánět novou generaci robotů. Mezi nimi je vozidlová platforma Alpamayo.",
-      "slug": "nvidia-debuts-new-ai-tools-for-autonomous-vehicles",
-      "publishedAt": "2026-01-06T00:48:53+00:00",
-      "date": "2026-01-06 00:48:53",
-      "importance": 4,
-      "category": "robotika",
-      "urlToImage": "https://biztoc.com/cdn/3f4f2fc393dc6d47_s.webp",
-      "url": "/tech-news/2026-01-06/nvidia-debuts-new-ai-tools-for-autonomous-vehicles/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": []
-    },
-    {
-      "title": "Generální ředitel Nvidia: Nové čipy Rubin jsou na plánu a urychlí vývoj AI",
-      "description": "Nové produkty Rubin pro datová centra od Nvidia se blíží k vydání letos a zákazníci je brzy vyzkouší. Všechna šest čipů se vrátila od výrobních partnerů, což pomůže zrychlit vývoj umělé inteligence.",
-      "slug": "nvidia-ceo-says-new-rubin-chips-are-on-track-helpi",
-      "publishedAt": "2026-01-06T00:48:49+00:00",
-      "date": "2026-01-06 00:48:49",
-      "importance": 4,
-      "category": "ai hardware",
-      "urlToImage": "https://biztoc.com/cdn/d5cba0aca83b289d_s.webp",
-      "url": "/tech-news/2026-01-06/nvidia-ceo-says-new-rubin-chips-are-on-track-helpi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
       },
       "companies": [
         "Nvidia"

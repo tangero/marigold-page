@@ -1,53 +1,50 @@
 ---
 author: Marisa Aigen
-category: e-commerce
+category: ai
 companies:
 - Google
-- Walmart
-date: '2026-01-12 02:28:55'
-description: Google představil novou verzi své profesionální sady AI Gemini zaměřenou
-  na online maloobchod, která má zajistit plynulé interakce pro nakupující od vyhledávání
-  produktů po zákaznický servis. Walmart uvedl, že nástroj mu pomůže nabízet produkty
-  nejlépe vyhovující potřebám zákazníků a častěji převádět vyhledávání na prodeje.
+date: '2026-01-12 06:43:42'
+description: Google představil novou verzi profesionálního balíku Gemini Enterprise
+  for Customer Experience (CX), který je určený pro online maloobchod a umožňuje plynulé
+  interakce od vyhledávání produktů po zákaznickou podporu. Spolupracuje s velkými
+  řetězci jako Walmart, Kroger, Lowe’s a Papa John’s.
 importance: 4
 layout: tech_news_article
-original_title: Google's Gemini seeks edge in AI for online shopping
-publishedAt: '2026-01-12T02:28:55+00:00'
+original_title: Google's Gemini Seeks Edge In AI For Online Shopping
+publishedAt: '2026-01-12T06:43:42+00:00'
 slug: googles-gemini-seeks-edge-in-ai-for-online-shoppin
 source:
   emoji: 📰
-  id: the-times-of-india
-  name: The Times of India
-title: Gemini od Googlu získává výhodu v AI pro online nakupování
-url: https://economictimes.indiatimes.com/tech/technology/googles-gemini-seeks-edge-in-ai-for-online-shopping/articleshow/126473947.cms
-urlToImage: https://img.etimg.com/thumb/width-1200,height-900,imgsize-5596,resizemode-75,msid-126473947/tech/technology/googles-gemini-seeks-edge-in-ai-for-online-shopping.jpg
-urlToImageBackup: https://img.etimg.com/thumb/width-1200,height-900,imgsize-5596,resizemode-75,msid-126473947/tech/technology/googles-gemini-seeks-edge-in-ai-for-online-shopping.jpg
+  id: null
+  name: Channels Television
+title: Googleův Gemini posiluje pozici v AI pro online nakupování
+url: https://www.channelstv.com/2026/01/12/googles-gemini-seeks-edge-in-ai-for-online-shopping/
+urlToImage: https://www.channelstv.com/wp-content/uploads/2025/04/Google.jpg
+urlToImageBackup: https://www.channelstv.com/wp-content/uploads/2025/04/Google.jpg
 ---
 
 ## Souhrn
-Google v neděli představil novou iteraci své profesionální sady AI Gemini určenou pro online maloobchod. Tento nástroj nazvaný Gemini Enterprise for Customer Experience (CX) umožňuje složité uvažování pro pochopení záměru zákazníka a provádění vícekrokových úkolů s ohledem na jeho preference a souhlas. Cílem je vytvořit bezproblémové nakupování přímo v aplikacích Google bez nutnosti přepínání mezi platformami.
+Google představil Gemini Enterprise for Customer Experience (CX), novou iteraci svého profesionálního balíku AI modelů Gemini zaměřenou na online maloobchod. Tento nástroj využívá složité uvažování k porozumění záměrům zákazníků a provádění vícekrokových úkolů s ohledem na jejich preference a souhlas. Umožňuje nakupování i komunikaci se zákaznickou podporou přímo v aplikacích Google bez nutnosti opouštění prostředí.
 
 ## Klíčové body
-- Gemini Enterprise for CX používá pokročilé uvažování k analýze záměru uživatele a automatizaci úkolů jako vyhledávání produktů nebo komunikace se zákaznickou podporou.
-- Google uzavřel smlouvy s velkými americkými řetězci: Walmart (supermarkety), Kroger (supermarkety), Lowe's (obchody s materiály pro domácí zlepšování) a Papa John's (pizzerie).
-- Nástroj personalizuje nabídky na základě historie interakcí a umožňuje nakupování bez opuštění Google aplikace.
-- Oznámení proběhlo během výroční konference National Retail Federation, největšího sdružení maloobchodníků na světě.
-- Partneři zdůrazňují snížení frikce v interakcích a vyšší míru konverze vyhledávání na prodeje.
+- **Komplexní uvažování**: AI analyzuje záměry uživatelů a vykonává složité úkoly, jako je personalizované doporučování produktů.
+- **Bezprostřední integrace**: Nakupování a podpora probíhají uvnitř Google aplikací, což zjednodušuje proces.
+- **Partnerství s řetězci**: Dohody s Papa John’s (síť pizzerií), Lowe’s (řetězec pro domácí zlepšení), Walmartem a Krogerem (supermarketovými řetězci).
+- **Personalizace v reálném čase**: Nabízí produkty odpovídající preferencím na základě souhlasu uživatele.
+- **Časování oznámení**: Představeno na konferenci National Retail Federation v New Yorku.
 
 ## Podrobnosti
-Gemini Enterprise for Customer Experience (CX) je specializovaná verze modelu Gemini, která integruje složité uvažování (complex reasoning) pro zpracování záměru uživatele. Konkrétně slouží k provádění vícekrokových úkolů, jako je vyhledání produktu podle specifických požadavků, porovnání cen, objednání zboží nebo řešení stížností u zákaznické podpory. Vše probíhá s ohledem na preference uživatele získané z předchozích interakcí a s jeho souhlasem, což zajišťuje soulad s pravidly ochrany soukromí jako GDPR nebo CCPA.
+Gemini Enterprise for Customer Experience (CX) je navržený tak, aby řešil celý cyklus nakupování v online prostředí. AI model dokáže porozumět složitým požadavkům zákazníka, například kombinaci vyhledávání produktu s ohledem na osobní preference, dostupnost a historii nákupů. Provádí vícekrokové operace, jako je porovnání cen, kontrola skladových zásob nebo dokončení objednávky, přičemž vždy respektuje souhlas uživatele s použitím dat. To znamená, že uživatel může v jedné konverzaci s AI vyhledat produkt, získat doporučení, kontaktovat podporu a dokončit platbu, aniž by přepínal mezi aplikacemi.
 
-Uživatel může například v Google aplikaci říct: „Najdi mi nejlevnější kuchyňskou linku s indukční deskou, která se vejde do mé malé kuchyně,“ a systém nejen vyhledá produkty, ale ověří dostupnost, zohlední recenze a dokončí nákup. Tato funkce eliminuje nutnost navigovat mezi webovými stránkami retailerů, což zrychluje proces. Google již má smlouvy s klíčovými hráči: Walmartem, který ji použije pro personalizované doporučení v supermarketech; Krogrem, dalším gigantem v potravinách; Lowe's, specializovaným na stavební materiály a domácí opravy; a Papa John's, síť pizzerií, kde pomůže s objednávkami jídel na míru.
+Google již uzavřel dohody s významnými americkými řetězci. Papa John’s, známý svou sítí pizzerií, plánuje personalizovat interakce s zákazníky, což podle šéfa digitálních technologií Kevina Vasconiho zjednoduší rozhodování a odstraní zbytečné překážky. Lowe’s, specializující se na stavební a domácí materiály, Walmart (největší světový řetězec supermarketů) a Kroger (druhý největší americký potravinářský řetězec) očekávají vyšší míru konverze vyhledávání do prodejů. John Furner, budoucí prezident a generální ředitel Walmartu, zdůraznil, že nástroj pomůže nabízet produkty přesně podle potřeb zákazníků kdykoli a kdekoli.
 
-Kevin Vasconi, šéf digitálních technologií Papa John's, zdůraznil personalizaci každé interakce a odstranění překážek. John Furner, budoucí šéf Walmartu, slíbil intuitivnější zážitky. Oznámení přišlo na konferenci National Retail Federation, kde se diskutuje o budoucnosti maloobchodu. Tento krok navazuje na širší trend integrace AI do e-commerce, kde Google konkuruje Amazonu a jeho Alexe. Na rozdíl od obecného chatbota jako Gemini 1.5 Pro je tato verze optimalizována pro podnikové prostředí s důrazem na konverzi prodejů a compliance.
+Oznámení přišlo na počátku konference National Retail Federation, největšího světového sdružení maloobchodníků, což podtrhuje strategický význam. Google tak rozšiřuje svou AI platformu Gemini, která je postavena na velkých jazykových modelech (LLM), o praktické aplikace v e-commerce. Na rozdíl od obecné verze Gemini tento enterprise balík je optimalizovaný pro podnikové prostředí s důrazem na bezpečnost dat a soulad s předpisy. Pro uživatele to znamená intuitivnější nakupování, kde AI funguje jako virtuální asistent, který učí z interakcí a postupně zlepšuje doporučení.
 
 ## Proč je to důležité
-Tato aktualizace posiluje pozici Google v e-commerce, kde AI modely jako Gemini překonávají tradiční vyhledávače tím, že aktivně řídí celý nákupní cyklus. Pro maloobchodníky znamená vyšší konverzní míru – Walmart očekává častější prodeje z vyhledávání – a snížení nákladů na zákaznickou podporu díky automatizaci. Pro spotřebitele to přináší personalizaci bez ztráty soukromí, ale zároveň zvyšuje riziko závislosti na jednom ekosystému Google.
-
-V širším kontextu urychluje to konsolidaci AI v retailu, kde velcí hráči jako Google, Amazon nebo Microsoft (s Copilotem) dominují. Pokud se Gemini CX osvědčí, může změnit dynamiku trhu s robotaxi-like autonomií v nakupování, kde systém sám rozhoduje a jedná. Kriticky: úspěch závisí na kvalitě uvažování modelu, které zatím není dokonalé v edge casech, a na adopci retailerů mimo USA. Celkově představuje krok k agentickým AI systémům v praxi, s potenciálem miliardového obratu v prodejích.
+Tento krok posiluje pozici Google v konkurenčním prostředí AI pro maloobchod, kde soupeří s Amazonem a jeho nástroji jako Rufus AI. Integrace do vyhledávače a aplikací Google může zvýšit podíl na e-commerce trhu, který v USA přesahuje 1 bilion dolarů ročně. Pro průmysl to znamená přechod k AI-řízeným zákaznickým zkušenostem, což sníží náklady na podporu a zvýší loajalitu zákazníků díky personalizaci. V širším kontextu urychluje adopci AI v retailu, kde modely jako Gemini umožňují přechod od jednoduchého vyhledávání k autonomním transakcím. Nicméně klíčové budou bezpečnostní aspekty – jak Google zajistí soukromí při zpracování citlivých dat o preferencích. Tento vývoj může inspirovat další platformy k podobným integracím, což změní dynamiku online nakupování směrem k plně personalizovaným zážitkům.
 
 ---
 
-[Číst původní článek](https://economictimes.indiatimes.com/tech/technology/googles-gemini-seeks-edge-in-ai-for-online-shopping/articleshow/126473947.cms)
+[Číst původní článek](https://www.channelstv.com/2026/01/12/googles-gemini-seeks-edge-in-ai-for-online-shopping/)
 
-**Zdroj:** 📰 The Times of India
+**Zdroj:** 📰 Channels Television
