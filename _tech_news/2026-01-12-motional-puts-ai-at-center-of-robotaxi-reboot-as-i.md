@@ -1,12 +1,12 @@
 ---
 author: Marisa Aigen
-category: autonomní vozidla
+category: robotaxi
 companies:
 - Motional
 date: '2026-01-12 00:12:36'
-description: Společnost Motional, která vznikla jako společné podnikání Hyundai Motor
-  Group a Aptiv, restartuje své plány na robotaxi s důrazem na AI. Cílem je spuštění
-  komerční bezřidičské služby v Las Vegas do konce roku 2026.
+description: Společnost Motional, která vznikla ze společného podniku Hyundai Motor
+  Group a Aptiv, restartuje své plány na robotaxi s důrazem na umělou inteligenci.
+  Cílem je spuštění komerční bezřidičské služby v Las Vegas do konce roku 2026.
 importance: 4
 layout: tech_news_article
 original_title: Motional puts AI at center of robotaxi reboot as it targets 2026 for
@@ -25,24 +25,26 @@ urlToImageBackup: https://techcrunch.com/wp-content/uploads/2026/01/Motional-hyu
 ---
 
 ## Souhrn
-Společnost Motional po dvou letech problémů restartuje vývoj robotaxi s přístupem založeným na AI foundation modelech. Firma plánuje spustit komerční bezřidičskou jízdní službu v Las Vegas do konce roku 2026 a již nyní testuje vozidla s bezpečnostním řidičem mezi zaměstnanci. Tento krok přichází po propouštění zaměstnanců a další investici od Hyundai ve výši 1 miliardy dolarů.
+Společnost Motional restartuje svůj program robotaxi s přístupem založeným na umělé inteligenci jako základu svého systému autonomního řízení. Firma, která prošla restrukturalizací včetně propouštění zaměstnanců, plánuje spustit komerční bezřidičskou službu v Las Vegas do konce roku 2026. Už nyní testuje službu pro své zaměstnance s bezpečnostním řidičem a brzy ji otevře veřejnosti prostřednictvím partnera jako Lyft nebo Uber.
 
 ## Klíčové body
-- Motional přechází od tradičního robotického přístupu k systému založenému na AI foundation modelech pro lepší škálovatelnost a cenovou dostupnost.
-- Služba s bezpečnostním řidičem je otevřena zaměstnancům v Las Vegas; pro veřejnost s partnerem (Lyft nebo Uber) letos, bezřidičská verze koncem roku.
-- Cíl: plně komerční bezřidičská robotaxi služba do konce 2026.
-- Redukce zaměstnanců z 1400 na méně než 600 po propouštění v květnu 2024.
-- Hyundai investoval další 1 miliardu dolarů po odchodu Aptiv.
+- Motional přechází z tradičního robotického přístupu na model založený na AI foundation modelech pro lepší škálovatelnost a cenovou dostupnost.
+- Služba pro zaměstnance s bezpečnostním řidičem již funguje v Las Vegas; veřejné spuštění s partnerem letos, bezřidičská verze do konce 2026.
+- Hyundai investoval další miliardu dolarů po odchodu Aptiv a propouštění snížilo počet zaměstnanců z 1400 na méně než 600.
+- Prezidentka a CEO Laura Major zdůrazňuje, že pauza umožnila rychlejší dlouhodobý pokrok díky pokročilým AI technologiím.
+- Firma má existující partnerství s Lyft a Uber.
 
 ## Podrobnosti
-Motional, společné podnikání mezi Hyundai Motor Group a Aptiv z roku 2019 s původní hodnotou 4 miliardy dolarů, čelila v posledních dvou letech krizi. Firma zmeškala termín spuštění bezřidičské služby s partnerem Lyft, ztratila Aptiv jako investora a prošla propouštěním, včetně 40procentní redukce v květnu 2024. Počet zaměstnanců klesl z vrcholu 1400 na méně než 600. Hyundai v reakci vložil další 1 miliardu dolarů, aby firmu udržel nad vodou.
+Motional, společnost zaměřená na vývoj autonomních vozidel, která vznikla v roce 2020 ze společného podniku Hyundai Motor Group a Aptiv v hodnotě 4 miliard dolarů, se nachází na křižovatce. Před necelými dvěma lety selhala v termínu spuštění bezřidičské robotaxi služby s partnerem Lyft, ztratila Aptiv jako investora a prošla propouštěním, včetně 40procentní redukce v květnu 2024. Hyundai proto přidal další miliardu dolarů na udržení provozu. Tyto problémy přišly v době, kdy pokroky v umělé inteligenci mění vývoj autonomních systémů.
 
-Klíčovým důvodem restartu byl posun v AI technologiích. Podle prezidentky a CEO Laury Majorové firma poznala, že její stávající bezpečný bezřidičský systém postrádal schopnost generalizace a globální škálovatelnosti za přijatelnou cenu. Proto pozastavila komerční aktivity a přešla na AI-first přístup. Místo klasických robotických metod, které se spoléhají na pevně definované algoritmy pro detekci objektů, navigaci a rozhodování, nyní staví na foundation modelech – velkých neuronových sítích trénovaných na obrovských datech, které umožňují lepší generalizaci do nových prostředí.
+Firma rozhodla o pauze komerčních aktivit a přešla na AI-first přístup. Místo klasického robotického systému, který se spoléhal na modulární senzory a algoritmy, nyní staví na foundation modelech umělé inteligence. Tyto modely, podobné těm používaným v velkých jazykových modelech jako GPT nebo Gemini, umožňují generalizaci chování vozidla napříč různými prostředími bez nutnosti rozsáhlého přeprogramování. Dříve měl systém Motional bezpečné bezřidičské schopnosti, ale chyběla mu cenová dostupnost a globální škálovatelnost.
 
-Tento model slouží k zpracování senzorových dat z lidarů, kamer a radarů v reálném čase, predikci chování ostatních účastníků provozu a plánování jízdy. Výhoda oproti tradičním systémům spočívá v nižších nákladech na vývoj, protože foundation modely lze doladit (fine-tune) pro specifické úlohy místo psaní kódu od nuly. Motional již otevřel robotaxi službu pro své zaměstnance v Las Vegas s bezpečnostním řidičem za volantem. Letos plánuje rozšíření na veřejnost prostřednictvím partnera z oblasti sdílených jízd (má vazby na Lyft i Uber). Koncem roku má být odstraněn bezpečnostní řidič a spuštěna skutečná bezřidičská komerční služba. Dlouhodobý cíl je plná driverless operace do konce 2026.
+V Las Vegas již běží robotaxi služba pro zaměstnance s bezpečnostním řidičem vepředu. Letos ji firma otevře veřejnosti prostřednictvím nenazvaného partnera z oblasti sdílených jízd – pravděpodobně Lyft nebo Uber, se kterými má dlouhodobé vazby. Do konce roku plánuje odstranit bezpečnostního řidiče a spustit plně komerční bezřidičskou službu, přičemž finální cíl je masové nasazení do roku 2026. Prezidentka Laura Major během prezentace v lasvegaských zařízeních uvedla, že pauza byla těžké rozhodnutí, ale umožnila využít AI pokroky pro rychlejší expanzi. Motional tak není bez AI zkušeností – dříve je používala, ale nyní je staví do centra architektury.
+
+Tento přístup připomíná trendy u konkurentů jako Waymo nebo Tesla, kde AI modely zpracovávají video data z kamer pro predikci a rozhodování. Nicméně Motional musí překonat minulé selhání a skeptismus investorů; propouštění signalizuje rizika, ale nová investice od Hyundai naznačuje důvěru.
 
 ## Proč je to důležité
-Tento restart ukazuje, jak AI foundation modely mění vývoj autonomních vozidel. Firmy jako Waymo nebo Tesla FSD již podobné přístupy využívají, ale Motional s podporou Hyundaiho přináší konkurenci v robotaxi segmentu. Pro průmysl znamená snížení nákladů a rychlejší nasazení, což může urychlit přechod k driverless službám. Uživatelé získají levnější a dostupnější robotaxi, ale zůstávají rizika – foundation modely mohou selhat v edge casech, jako jsou raritní scénáře provozu, kde tradiční validace selhala u konkurentů. V kontextu trhu, kde Cruise utrpěl regulace po nehodách, zdůrazňuje to potřebu robustní bezpečnosti. Pokud Motional uspěje, posílí to pozici Hyundaiho v autonomní mobilitě a urychlí globální adopci robotaxi.
+Přechod na AI-first v autonomních vozidlech urychluje soutěž v robotaxi sektoru, kde Waymo již provozuje bezřidičské služby v několika městech a Tesla slibuje FSD verzi 12. Tento krok může snížit náklady na hardware (méně lidarů, více kamer) a zlepšit adaptabilitu na nové lokace, což je klíčové pro globální škálování. Pro průmysl znamená konkurenční tlak na firmy jako Cruise nebo Zoox; pro uživatele potenciálně levnější a dostupnější sdílené jízdy bez řidiče. V kontextu AI revoluce ukazuje, jak foundation modely ovlivňují i robotiku, ale úspěch závisí na bezpečnostních testech – minulé nehody konkurentů připomínají rizika.
 
 ---
 
