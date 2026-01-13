@@ -5,8 +5,8 @@
       "url"      : "/item/claude-cowork/",
       "category" : "AI, Anthropic, Claude, agenti",
       "tags"     : "",
-      "date"     : "11.1.2026",
-      "content"  : "Anthropic 12. ledna 2026 spustil Cowork, novou funkci integrovanou do desktopové aplikace Claude pro macOS. Cowork zpřístupňuje agentní schopnosti Claude Code širšímu okruhu uživatelů bez nutnosti pracovat s příkazovou řádkou nebo nastavovat vývojářské prostředí. Nástroj je zatím dostupný pouze pro předplatitele tarifu Claude Max jako takzvaný výzkumný náhled.Jak Cowork fungujePrincip Cowork je přímočarý. Uživatel vybere konkrétní složku na svém počítači, ke které Claude získá přístup. V rámci této složky může asistent číst existující soubory, upravovat je nebo vytvářet nové. Komunikace probíhá přes standardní chatové rozhraní v desktopové aplikaci Claude.Praktické využití zahrnuje organizaci souborů ve složce Stažené, vytvoření tabulky výdajů z..."
+      "date"     : "12.1.2026",
+      "content"  : "Aktualizuji článek o praktické zkušenosti a kritické zhodnocení od uživatelů.author: Patrick Zandlcategories: AI Anthropic Claude agentilayout: postpost_excerpt: Anthropic spustil Cowork, nástroj pro automatizaci kancelářské práce postavený na Claude Agent SDK. Zatím pouze pro předplatitele Claude Max na macOS.summary_points: Cowork přináší agentní schopnosti Claude Code běžným uživatelům bez nutnosti práce s terminálem Nástroj umožňuje Claude číst, upravovat a vytvářet soubory ve vybrané složce na počítači K dispozici pouze pro předplatitele Claude Max na macOS, ostatní se mohou zapsat na čekací seznam První uživatelské testy odhalují problémy s konektory, chybové hlášky a příliš technické rozhraní Výstupy jsou kvalitnější než z běžného chatu,..."
     },
   
     {
@@ -26736,7 +26736,7 @@
       "title"    : "Rubrika",
       "url"      : "/rubrika/",
       "category" : "stránka",
-      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI Anthropic představil Cowork, Claude Code pro ty ostatní... (11.01.2026) Meta údajně trénuje nový model na čínském Qwen. Jak si stojí v AI závodu? (16.12.2025) 🤖 Tohle je Game Changing AI workflow 🤡 (15.12.2025) 💰 Nový LLM OpenAI GPT-5.2 je superschopný a..."
+      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI Anthropic představil Cowork, Claude Code pro ty ostatní... (12.01.2026) Meta údajně trénuje nový model na čínském Qwen. Jak si stojí v AI závodu? (16.12.2025) 🤖 Tohle je Game Changing AI workflow 🤡 (15.12.2025) 💰 Nový LLM OpenAI GPT-5.2 je superschopný a..."
     }
     
   
@@ -26765,7 +26765,7 @@
       "title"    : "Tech News Health Status",
       "url"      : "/health-status/",
       "category" : "stránka",
-      "content"  : "🏥 Tech News Health &amp; Pipeline Status Status: WARNING Poslední kontrola: 12.01.2026 20:51 Summary: Status: WARNING | Články 24h: 0 | Čeština: 100.0% | Alerty: 3 📈 30denní přehled (30 dní) Nově vygenerováno (30 dní) ℹ️ 1107 Denní průměr: 35.7 LLM náklady $291.79 Celkem za období API dotazy 9078 Sessions: 186 Přeskočeno 7971 Hlavně: low_importance 🔄 Processing Pipeline (30 dní) 📥 API Fetch 9078 ⏭️ Přeskočeno (filtry) 7971 💾 Uloženo 1107 (12.2%) 📊 Denní statistiky (posledních 14 dní) Datum Fetched Saved Skipped Cost Success 2026-01-12 291 34 257 $9.6426 100% 2026-01-11 286 26 260 $9.3697 100% 2026-01-10 290 36 254..."
+      "content"  : "🏥 Tech News Health &amp; Pipeline Status Status: WARNING Poslední kontrola: 13.01.2026 12:57 Summary: Status: WARNING | Články 24h: 0 | Čeština: 100.0% | Alerty: 3 📈 30denní přehled (30 dní) Nově vygenerováno (30 dní) ℹ️ 1087 Denní průměr: 35.1 LLM náklady $288.18 Celkem za období API dotazy 8983 Sessions: 184 Přeskočeno 7896 Hlavně: low_importance 🔄 Processing Pipeline (30 dní) 📥 API Fetch 8983 ⏭️ Přeskočeno (filtry) 7896 💾 Uloženo 1087 (12.1%) 📊 Denní statistiky (posledních 14 dní) Datum Fetched Saved Skipped Cost Success 2026-01-13 197 27 170 $6.1643 100% 2026-01-12 291 34 257 $9.6426 100% 2026-01-11 286 26 260..."
     }
     
   
@@ -27081,6 +27081,15 @@
     ,{
       "title"    : "Technologické zprávy - 2025-12-07",
       "url"      : "/tech-news/2025-12-07/",
+      "category" : "stránka",
+      "content"  : ""
+    }
+    
+  
+    
+    ,{
+      "title"    : "Technologické zprávy - 2026-01-12",
+      "url"      : "/tech-news/2026-01-12/",
       "category" : "stránka",
       "content"  : ""
     }
@@ -30015,286 +30024,6 @@
     
       
       ,{
-        "title"    : "AI startupy získaly 262 milionů dolarů před blížícími se regulacemi",
-        "url"      : "/tech-news/2026-01-06/ai-startups-raise-262m-as-regulation-looms/",
-        "category" : "tech_news",
-        "content"  : "SouhrnInvestoři v roce 2023 a začátkem 2024 investovali do afrických AI startupů celkem 262 milionů dolarů, přestože sektor čelí přísným regulacím a nedostatečné infrastruktuře. Tento příliv kapitálu signalizuje rostoucí zájem o umělou inteligenci na kontinentu, kde se firmy zaměřují na lokální problémy jako zemědělství, zdravotnictví a finanční inkluze. Přesto zůstávají výzvy významné.Klíčové body Celková investice 262 milionů dolarů do afrických AI startupů v posledních měsících. Hlavní příjemci: startupy jako InstaDeep (Tunesko), DataProphet (Jižní Afrika) a africké platformy pro AI v zemědělství. Výzvy: nedostatek výpočetního výkonu, slabé internetové připojení a blížící se regulace dat a AI v EU i lokálně. Růst..."
-      }
-      
-      ,{
-        "title"    : "Proč by nová platforma Rubin od Nvidia mohla navždy změnit budoucnost výpočtů pro umělou inteligenci",
-        "url"      : "/tech-news/2026-01-06/why-nvidias-new-rubin-platform-could-change-the-fu/",
-        "category" : "tech_news",
-        "content"  : "SouhrnNa veletrhu CES 2026 Nvidia představila platformu Rubin, novou superpočítačovou architekturu pro umělou inteligenci. Tato platforma cílí na snížení nákladů při budování, nasazování a zabezpečování největších AI systémů. Klíčové vylepšení zahrnují až desetinásobné snížení nákladů na zpracování tokenů při inference a čtyřnásobné snížení počtu grafických karet (GPU) potřebných k tréninku modelů směsi expertů (MoE) oproti platformě Blackwell.Klíčové body Platforma Rubin snižuje náklady na inference tokeny až o 90 % a vyžaduje o 75 % méně GPU pro trénink MoE modelů. Používá šest specializovaných AI čipů k optimalizaci výkonu a snížení spotřeby zdrojů. První implementace budou distribuovány partnerům koncem roku 2026...."
-      }
-      
-      ,{
-        "title"    : "Akcie Nvidia mírně klesly po CES 2026, firma představila humanoidní roboty a AI pro autonomní řízení",
-        "url"      : "/tech-news/2026-01-06/nvidia-stock-slips-after-ces-2026-as-company-intro/",
-        "category" : "tech_news",
-        "content"  : "SouhrnNa veletrhu CES 2026 Nvidia představila pokročilé AI modely a hardware pro humanoidní roboty a autonomní vozidla. Mezi klíčovými novinkami je model Alpamayo, který pomáhá self-driving systémům reagovat na nečekané události pomocí chain-of-thought uvažování a vision-language-action architektury. Přesto akcie společnosti mírně klesly po keynote generálního ředitele Jensena Huanga.Klíčové body Nvidia spolupracuje s firmami jako Boston Dynamics, Caterpillar, LG Electronics a NEURA Robotics na vývoji humanoidních robotů. Nové AI modely umožňují robotům porozumět okolí a interagovat s ním, podpořené specializovaným hardwarem. Alpamayo slouží jako velký učitel pro autonomní vozy, rozpoznává anomálie jako nefunkční světla a navrhuje bezpečné reakce. Zájem o Alpamayo..."
-      }
-      
-      ,{
-        "title"    : "Největší oznámení z veletrhu Consumer Electronics Show 2026, počínající čipy Nvidia Vera Rubin",
-        "url"      : "/tech-news/2026-01-06/here-are-the-biggest-announcements-coming-out-of-t/",
-        "category" : "tech_news",
-        "content"  : "SouhrnNa veletrhu Consumer Electronics Show (CES) 2026 v Las Vegas představily firmy nejvýznamnější novinky v oblasti hardwaru, přičemž největší pozornost si vysloužila nová architektura čipů Nvidia Vera Rubin. Tato řada GPU navazuje na současnou Blackwell a cílí na zpracování extrémně náročných AI úloh, jako je trénink velkých jazykových modelů (LLM). Další highlighty zahrnovaly pokroky v autonomních vozidlech a displejích, ale Nvidia dominovala diskuzemi o budoucnosti AI výpočetního výkonu.Klíčové body Nvidia Vera Rubin: Nová architektura GPU pro rok 2026, s podporou pro FP4 a FP8 přesnost, navržená pro AI trénink a inferenci v datových centrech. Výkonový skok: Očekávaný nárůst výkonu oproti..."
-      }
-      
-      ,{
-        "title"    : "Generální ředitel Nvidia: Nové čipy Rubin jsou na plánu a urychlí vývoj AI",
-        "url"      : "/tech-news/2026-01-06/nvidia-ceo-says-new-rubin-chips-are-on-track-helpi/",
-        "category" : "tech_news",
-        "content"  : "SouhrnGenerální ředitel Nvidia Jensen Huang oznámil, že vysoce očekávané čipy Rubin pro datová centra jsou v souladu s plánem a budou vydány letos. Zákazníci je brzy mohou vyzkoušet, což přispěje k urychlení vývoje AI. Všechna šest varianta těchto čipů se vrátila od výrobních partnerů.Klíčové body Všechna šest Rubin čipů je zpět od výrobců, jako je pravděpodobně TSMC, a připraveno k testování. Čipy Rubin navazují na architekturu Blackwell a cílí na datová centra pro trénink velkých AI modelů. Zákazníci, včetně velkých cloudových poskytovatelů, získají přístup k technologii ještě letos. Nvidia tím posiluje svou dominanci v AI hardware, kde dodává klíčové akcelerátory..."
-      }
-      
-      ,{
-        "title"    : "Nvidia představila nové nástroje umělé inteligence pro autonomní vozidla a roboty",
-        "url"      : "/tech-news/2026-01-06/nvidia-debuts-new-ai-tools-for-autonomous-vehicles/",
-        "category" : "tech_news",
-        "content"  : "SouhrnSpolečnost Nvidia představila novou sadu modelů a nástrojů umělé inteligence zaměřených na autonomní vozidla a robotiku. Tyto technologie mají vývojářům umožnit rychlejší vytváření systémů pro samojezdné automobily a inteligentní roboty. Klíčovým prvkem je platforma Alpamayo pro vozidla, která integruje AI modely přímo do hardwaru Nvidia.Klíčové body Platforma Alpamayo: Integrované řešení pro autonomní vozidla, které zpracovává data z senzorů v reálném čase a trénuje modely na GPU. AI modely pro roboty: Nástroje pro simulaci pohybu, navigaci a interakci s prostředím, kompatibilní s platformou Nvidia Isaac. Cílené urychlení vývoje: Snížení času na nasazení o desítky procent díky předtrénovaným modelům. Rozšíření ekosystému: Podpora..."
-      }
-      
-      ,{
-        "title"    : "Platforma X Elona Muska čelí vyšetřováním v Evropě, Indii a Malajsii po vygenerování explicitních obrázků Grokem",
-        "url"      : "/tech-news/2026-01-06/elon-musks-x-faces-probes-in-europe-india-malaysia/",
-        "category" : "tech_news",
-        "content"  : "SouhrnPlatforma X, vlastněná Elonem Muskem, se ocitla pod tlakem regulačních orgánů v Evropě, Indii a Malajsii kvůli schopnosti chatbota Grok generovat a umožnit šíření AI vytvořených explicitních obrázků, včetně deepfake pornografie a snímků zneužívání dětí. Britský mediální regulátor Ofcom žádá od X informace o problému, v USA organizace Národní centrum pro sexuální vykořisťování (NCOSE) volá po vyšetřování ministerstvem spravedlnosti a Federální obchodní komisí. Nedávný update funkce Grok Imagine usnadnil tvorbu takového obsahu z textových příkazů, což vedlo k virálnímu šíření na platformě.Klíčové body Regulátoři v Evropě, Indii a Malajsii zahájili vyšetřování po virálním šíření nonkonsenzuálních intimních obrázků (NCII) vygenerovaných Grokem...."
-      }
-      
-      ,{
-        "title"    : "Nvidia představuje technologii AI s uvažovacími schopnostmi pro autonomní automobily",
-        "url"      : "/tech-news/2026-01-06/nvidia-unveils-reasoning-ai-technology-for-self-dr/",
-        "category" : "tech_news",
-        "content"  : "SouhrnSpolečnost Nvidia představila technologii AI s prvky uvažování určenou pro autonomní automobily, která umožňuje vozidlům lépe plánovat složité scénáře na silnici. Firma plánuje spustit testy služby robotaxi v roce 2027 a zároveň uvedla nové AI modely a čipy pro aplikace v robotice a fyzickém světě. Tento krok posiluje postavení Nvidia v oblasti hardwaru pro autonomní systémy.Klíčové body Nvidia vyvinula ‘reasoning’ AI technologii, která umožňuje autonomním vozům uvažovat o více variantách situací a rozhodovat se efektivněji než dosavadní reaktivní systémy. Plán testů robotaxi služby v roce 2027, což představuje vstup Nvidia přímo do provozu bez řidiče. Nové AI modely pro fyzickou..."
-      }
-      
-      ,{
-        "title"    : "Nvidia na CES: Alpamayo, Rubin a vzestup uvažující umělé inteligence",
-        "url"      : "/tech-news/2026-01-06/nvidia-at-ces-alpamayo-rubin-and-the-rise-of-reaso/",
-        "category" : "tech_news",
-        "content"  : "SouhrnNa veletrhu CES v Las Vegas 5. ledna generální ředitel Nvidia Jensen Huang otevřel firemní keynote přivítáním diváků a nastínil širokou prezentaci zaměřenou na nové AI technologie. Klíčovými tématy byly platformy Alpamayo a Rubin, které posouvají hranice výpočetního výkonu pro umělou inteligenci, spolu s důrazem na vzestup uvažující AI schopných logického uvažování.Klíčové body Nvidia představila Alpamayo jako novou platformu pro edge AI aplikace v průmyslovém prostředí. Rubin je navrhovaná architektura GPU pro rok 2026, následující po Blackwell, s cílem zvládat složité reasoning úlohy. Zdůrazněn růst uvažující AI, která překonává tradiční prediktivní modely v logickém myšlení. Prezentace zahrnovala partnerství s firmami..."
-      }
-      
-      ,{
-        "title"    : "Prezident Nvidia Jensen Huang na CES 2026 – Nová generace Rubin GPU v plné produkci. 5násobný výkon Blackwella v FP",
-        "url"      : "/tech-news/2026-01-06/nvidia-ceo-jensen-huang-ces-2026-keynote-next-gen/",
-        "category" : "tech_news",
-        "content"  : "SouhrnNa konferenci CES 2026 prezident Nvidia Jensen Huang oznámil, že nová generace čipů Rubin je již v plné produkci a nabízí pětinásobný výkon oproti předchozí architektuře Blackwell v plovoucí čárce (FP). Tato platforma, zahrnující Vera CPU a Rubin GPU, je navržena pro extrémní AI výpočty v podnicích s tisíci GPU. Oznámení přichází v době, kdy poptávka po výkonu pro trénink velkých jazykových modelů exploduje.Klíčové body Rubin GPU dosahuje 5násobného výkonu Blackwella v FP, s 1,6násobným počtem tranzistorů. Pod jedním rackem lze propojit 72 kusů Rubin GPU (každý s dvěma čipy), celkově 1152 GPU v 16 rackech. Vera CPU má 88..."
-      }
-      
-      ,{
-        "title"    : "Lucid Gravity: Šestimístný robotaxi odhalen na CES 2026 – zahájení provozu v San Franciscu letos",
-        "url"      : "/tech-news/2026-01-06/lucid-gravity-6-passenger-robotaxi-unveiled-at-ces/",
-        "category" : "tech_news",
-        "content"  : "SouhrnSpolečnost Lucid Motors, americký výrobce elektromobilů, odhalila na CES 2026 šestimístné robotaxi založené na modelu Gravity, které vyvíjí ve spolupráci s Nuro a Uberem. Vozidlo absolvovalo minulý měsíc první autonomní testy na silnici a služba má být spuštěna v San Franciscu ještě letos. Používá platformu Nvidia Drive AGX Thor pro autonomní řízení s plným 360stupňovým vnímáním.Klíčové body Partnerství Lucid s Nuro (firma specializující se na autonomní doručovací roboty) a Uberem pro ride-hailing služby. Autonomní testování pod dohledem operátorů, zahájené minulý měsíc. Senzorový systém s vysokourozlišovacími kamerami, pevnými lidarovými senzory a radary, umístěnými v karoserii a střešním kruhovém rámu. Interiér pro..."
-      }
-      
-      ,{
-        "title"    : "Samsung využívá modely Gemini v globálním závodě o AI zařízení",
-        "url"      : "/tech-news/2026-01-06/samsung-leverages-gemini-models-as-global-ai-devic/",
-        "category" : "tech_news",
-        "content"  : "SouhrnSamsung integruje modely Gemini od Google do svých zařízení, což je součástí širšího globálního závodu mezi technologickými giganty o dominanci v AI vybaveném hardware. Tento krok signalizuje posun od vývoje velkých jazykových modelů k jejich praktickému nasazení v mobilních telefonech, tabletech a dalším spotřebním elektronice. Článek zdůrazňuje rostoucí konkurenci, kde firmy jako Samsung, Apple a Google soutěží o vestavěné AI schopnosti.Klíčové body Samsung spolupracuje s Google na integraci modelů Gemini do svých zařízení, včetně on-device zpracování pro rychlejší a soukromější AI funkce. Globální závod o AI zařízení zahrnuje nejen spotřební trh, ale i podnikové aplikace, jako optimalizace výroby nebo podnikový..."
-      }
-      
-      ,{
-        "title"    : "Prezident OpenAI Brockman: Růst HDP bude brzy záviset na výpočetním výkonu",
-        "url"      : "/tech-news/2026-01-06/openais-brockman-says-gdp-growth-may-soon-be-tied/",
-        "category" : "tech_news",
-        "content"  : "SouhrnPrezident a spoluzakladatel OpenAI Greg Brockman během vystoupení na veletrhu CES 2026 v Las Vegas prohlásil, že jeho společnost je silně omezena nedostatkem výpočetního výkonu, což brání vývoji a vydávání nových AI modelů a funkcí. Předpovídá, že v příštích letech bude růst hrubého domácího produktu (HDP) jednotlivých zemí a regionů přímo záviset na množství dostupného compute. První známky tohoto trendu podle něj již vidět.Klíčové body OpenAI vede vnitřní boje o alokaci compute při plánování nových funkcí a modelů AI. Brockman zdůraznil touhu po více compute napříč celou společností. Předpověď: GDP growth bude řízen dostupností compute v zemi nebo regionu. Očekává..."
-      }
-      
-      ,{
-        "title"    : "CES 2026: Čínští technologičtí giganti představí humanoidní roboty a displeje příští generace",
-        "url"      : "/tech-news/2026-01-06/ces-2026-chinas-tech-heavyweights-to-showcase-huma/",
-        "category" : "tech_news",
-        "content"  : "SouhrnČínské technologické společnosti se na nadcházejícím veletrhu CES 2026 chystají dominovat v segmentech humanoidní robotiky a pokročilých displejů. Událost, konající se od 6. do 9. ledna 2026 v Las Vegas, zdůrazní umělou inteligenci jako ústřední téma, přičemž čínští výrobci předvedou roboty schopné lidských pohybů a displeje s revolučními vlastnostmi, jako je vyšší obnovovací frekvence a lepší energetická účinnost.Klíčové body Čínské firmy jako UBTech, Unitree a Xiaomi představí humanoidní roboty s pokročilou autonomií a integrací AI pro domácí i průmyslové použití. Zaměření na next-gen displeje: technologie MicroLED a miniLED s rozlišením přes 8K a obnovovací frekvencí nad 240 Hz. Silná přítomnost..."
-      }
-      
-      ,{
-        "title"    : "AMD a její partneři sdílejí vizi „AI všude pro každého“ na CES 2026",
-        "url"      : "/tech-news/2026-01-06/amd-and-its-partners-share-their-vision-for-ai-eve/",
-        "category" : "tech_news",
-        "content"  : "SouhrnNa CES 2026 AMD pod vedením šéfky Lisy Su představilo strategii pro šíření umělé inteligence do všech oblastí života. Klíčovým prvkem je platforma Helios pro masivní AI infrastrukturu, nové grafické procesory Instinct a rozšíření Ryzen AI pro osobní počítače. Partneri jako OpenAI a AstraZeneca ukázali praktické aplikace těchto technologií.Klíčové body Představení rackové platformy Helios pro yotta-scale AI, postavené na Instinct MI455X GPU a EPYC „Venice“ CPU optimalizovaných pro trénink a inference AI modelů. Nový Instinct MI440X GPU pro podnikové nasazení a náhled na řadu Instinct MI500 pro další generaci. Ryzen AI platformy pro AI PC a vestavěné aplikace, včetně developer..."
-      }
-      
-      ,{
-        "title"    : "Nejzajímavější technologie prvního dne na CES",
-        "url"      : "/tech-news/2026-01-06/the-most-interesting-tech-we-saw-on-day-one-of-ces/",
-        "category" : "tech_news",
-        "content"  : "SouhrnPrvní den konference CES 2026 se zaměřil na umělou inteligenci integrovanou do hardwaru, kde Nvidia, AMD a Intel oznámily nové čipy a platformy. Nejvýraznější byl příspěvek Nvidia s konceptem „physical AI“, který umožňuje trénink AI modelů v simulovaných prostředích s syntetickými daty a jejich následné nasazení do fyzických zařízení. Šéf Nvidia Jensen Huang předvedl modely Cosmos a Alpamayo spolu s novým superčipem Vera Rubin.Klíčové body Nvidia představila „physical AI“: AI trénované na syntetických datech v simulacích fyziky pro reálné roboty a stroje. Cosmos: Základní AI model pro simulace prostředí řízených skutečnou fyzikou, trénovaný na masivních datech. Alpamayo: Specializovaný AI model..."
-      }
-      
-      ,{
-        "title"    : "NVIDIA představila architekturu Vera Rubin na CES 2026: rack VR NVL72",
-        "url"      : "/tech-news/2026-01-06/nvidia-launches-vera-rubin-architecture-at-ces-202/",
-        "category" : "tech_news",
-        "content"  : "SouhrnNa veletrhu CES 2026 NVIDIA představila platformu Rubin, jejímž stěžejním prvkem je rack-scale systém Vera Rubin NVL72. Tento systém spojuje šest čipů navržených společně tak, aby fungovaly jako jednotný celek, a představuje třetí generaci rackových architektur NVIDIA. Všechny čipy prošly výrobou a nyní procházejí validací s reálnými výpočetními úlohami v AI.Klíčové body Systém Vera Rubin NVL72 obsahuje 72 Rubin GPU a 36 Vera CPU s 88 ARM jádry Olympus na každý CPU. FP4 inference výkon dosahuje 3,6 ExaFLOPS, což je 2,5násobek oproti Blackwell Ultra NVL72 (1,44 ExaFLOPS). Vera CPU nabízí NVLink-C2C připojení s 1,8 TB/s šířkou pásma k GPU, dvojnásobek..."
-      }
-      
-      ,{
-        "title"    : "Hesai vybrána jako partner pro lidar v platformě Nvidia DRIVE AGX Hyperion 10",
-        "url"      : "/tech-news/2026-01-06/hesai-selected-as-lidar-partner-for-nvidia-drive-a/",
-        "category" : "tech_news",
-        "content"  : "SouhrnSpolečnost Hesai Technology, přední čínský výrobce lidarových senzorů, byla vybrána Nvidia jako oficiální partner pro platformu DRIVE AGX Hyperion 10. Tato referenční architektura kombinuje výpočetní výkon a senzory pro autonomní řízení úrovně 4, kde vozidlo zvládá složité scénáře bez zásahu řidiče. Partnerství urychlí vývoj autonomních vozidel pro automobilky.Klíčové body Nvidia vybírá Hesai pro dodávku lidarů do DRIVE AGX Hyperion 10, reference pro Level 4 autonomii. Platforma slouží jako kompletní sada pro testování a nasazení autonomních systémů. Hesai posiluje svou pozici díky vazbám s Nvidia, podobně jako jiní čínští dodavatelé. Zaměřeno na automobilky a vývojáře, kteří potřebují standardizovanou platformu. Souvisí s..."
-      }
-      
-      ,{
-        "title"    : "Spojené arabské emiráty spouští AI ekosystém pro posílení zemědělství odolného vůči klimatu po celém světě",
-        "url"      : "/tech-news/2026-01-06/uae-launches-ai-ecosystem-to-boost-climate-resilie/",
-        "category" : "tech_news",
-        "content"  : "SouhrnSpojené arabské emiráty (SAE) spustily AI ekosystém zaměřený na podporu zemědělství v klimaticky ohrožených oblastech. Iniciativa vychází z partnerství s Nadací Gatesových v hodnotě 200 milionů dolarů oznámeného na COP28. Cílem je převést výzkum a data do praktických nástrojů pro farmáře v rozvojových zemích.Klíčové body Partnerství SAE a Nadace Gatesových za 200 milionů dolarů slouží k vývoji AI nástrojů pro adaptaci na změny klimatu. Ekosystém zahrnuje čtyři propojené programy spojující výzkum, vývoj AI modelů a nasazení digitálních poradenských nástrojů. CGIAR AI Hub využívá více než 50 let zemědělských dat z rozvojového světa pro aplikaci strojového učení. Představení proběhlo za účasti..."
-      }
-      
-      ,{
-        "title"    : "Malé 3D tištěné světelné klece by mohly odemknout kvantový internet",
-        "url"      : "/tech-news/2026-01-06/tiny-3d-printed-light-cages-could-unlock-the-quant/",
-        "category" : "tech_news",
-        "content"  : "SouhrnVýzkumníci z Humboldtovy univerzity v Berlíně, Leibnizova ústavu fotonických technologií a Stuttgartske univerzity vyvinuli kvantovou paměť integrovanou na čip, která používá 3D nanotisknuté struktury nazvané „světelné klece“. Tyto dutinové struktury zachycují světlo v jádru naplněném atomovým párem cesia a umožňují rychlou difúzi atomů díky bočnímu přístupu. Výsledek publikovaný v časopise Light: Science &amp;amp; Applications přináší platformu pro vícenásobné paměti na jednom čipu s konzistentním výkonem.Klíčové body Světelné klece se vyrábějí 3D nanoprintem s extrémní přesností a naplňují se cesiovými atomy během dnů, nikoliv měsíců. Boční přístup k jádru zajišťuje rychlou difúzi atomů při zachování optické konfine světla. Na jednom čipu..."
-      }
-      
-      ,{
-        "title"    : "Výsledky a vyhlídky umělé inteligence v podnikových aplikacích v roce 2026",
-        "url"      : "/tech-news/2026-01-06/results-and-prospects-for-ai-in-business-applicati/",
-        "category" : "tech_news",
-        "content"  : "SouhrnAgentická umělá inteligence ovládla podnikové IT v roce 2025, stejně jako dříve generativní AI od konce roku 2022. V roce 2026 se očekává větší konvergence různých forem umělé inteligence, přičemž klíčovou roli bude hrát správa a bezpečnost těchto systémů. Specifické výzvy, jako identita autonomních agentů, vedly k novým akvizicím a výzkumům v oblasti kybernetické bezpečnosti.Klíčové body Dominance agentické AI v podnikovém IT v roce 2025, navazující na tradiční formy jako strojové učení a prediktivní modelování. Očekávaná konvergence všech forem AI s důrazem na podnikovou správu. Bezpečnostní problémy s identitou AI agentů, zdůrazněné výzkumem firmy Okta z srpna 2025. Akvizice ServiceNow:..."
-      }
-      
-      ,{
-        "title"    : "AI pero Gumdrop od OpenAI přináší hlasovou pomoc, zachytávání rukopisu a další funkce",
-        "url"      : "/tech-news/2026-01-06/openais-gumdrop-ai-pen-brings-voice-help-handwriti/",
-        "category" : "tech_news",
-        "content"  : "SouhrnOpenAI vyvíjí AI pero s kódovým názvem Gumdrop, které má sloužit jako minimalistické zařízení bez displeje doplňující chytré telefony a notebooky. Nabízí konverzi rukopisu na text, dvoucestnou hlasovou komunikaci a kontextové povědomí díky neustále aktivním kameře a mikrofonu. Očekávaný start prodeje je v období 2026–2027 za cenu 400–600 dolarů, ve spolupráci s designérem Jonym Ivem.Klíčové body Funkce: Konverze rukopisu na digitální text, hlasová interakce s AI a kontextové povědomí prostřednictvím vestavěné kamery a mikrofonu, které umožňují pero reagovat na okolní prostředí. Design: Bezobrazovkové, minimalistické provedení jako „třetí zařízení“ pro zvýšení produktivity bez rozptylování. Spolupráce: OpenAI spolupracuje s Jonym Ivem, bývalým..."
-      }
-      
-      ,{
-        "title"    : "CES 2026: Vše, co potřebujete vědět o hlavních oznámeních Nvidia",
-        "url"      : "/tech-news/2026-01-06/ces-2026-all-you-need-to-know-about-nvidias-major/",
-        "category" : "tech_news",
-        "content"  : "SouhrnNa veletrhu CES 2026 Nvidia oznámila Alpamayo, rodinu open-source AI modelů určených pro autonomní vozidla a robotiku, které umožňují nejen detekci objektů, ale i uvažování o situacích na silnici. Tyto modely poprvé nasadí Mercedes-Benz v USA v prvním čtvrtletí 2026, v Evropě ve druhém a v Asii později během roku. Společnost zároveň představila nový čip Vera Rubin a zpřístupnila vývojářům modely, simulační nástroje a rozsáhlé datové sady pro trénink autonomního řízení.Klíčové body Alpamayo 1: Hlavní model s 10 miliardami parametrů typu Vision-Language-Action (VLA), který analyzuje video vstup, generuje trajektorii jízdy a vysvětluje rozhodnutí. Partnerství s Mercedes-Benz: Debut autonomních a asistenčních..."
-      }
-      
-      ,{
-        "title"    : "Další generace čipů v plné produkci – generální ředitel Nvidia",
-        "url"      : "/tech-news/2026-01-06/next-generation-of-chips-in-full-production-nvidia/",
-        "category" : "tech_news",
-        "content"  : "SouhrnGenerální ředitel Nvidia Jensen Huang na veletrhu Consumer Electronics Show (CES) 2026 v Las Vegas prohlásil, že nová generace čipů společnosti je v plné produkci. Tyto čipy nabízejí pětkrát vyšší výpočetní výkon pro AI úlohy oproti předchozím modelům, zejména při zpracování chatbotů a dalších AI aplikací. Platforma Vera Rubin, která debutuje letos později, je již testována AI firmami v laboratořích Nvidia.Klíčové body Čipy Vera Rubin jsou v plné produkci a poskytují 5násobný AI výkon oproti předchozí generaci. Platforma zahrnuje šest samostatných čipů; vlajkový server obsahuje 72 grafických procesorů (GPU) a 36 centrálních procesorů (CPU). Možnost propojení do „podů“ s více..."
-      }
-      
-      ,{
-        "title"    : "Výzkumníci otráví ukradená data, aby AI systémy vracely chybné výsledky",
-        "url"      : "/tech-news/2026-01-06/researchers-poison-stolen-data-to-make-ai-systems/",
-        "category" : "tech_news",
-        "content"  : "SouhrnVýzkumníci přidružení k univerzitám v Číně a Singapuru vyvinuli metodu otrávení dat v znalostních grafech (knowledge graphs, KG), díky čemuž se stávají ukradená data zbytečnými, pokud jsou začleněna do AI systémů založených na GraphRAG bez souhlasu. Tato technika chrání drahé proprietární znalosti před zneužitím v konkurenčních produktech. Paper s názvem „Making Theft Useless: Adulteration-Based Protection of Proprietary Knowledge Graphs in GraphRAG Systems“ popisuje adulteraci dat jako efektivní obranu.Klíčové body Výzkumníci navrhují otrávení znalostních grafů, aby GraphRAG systémy vracely nesprávné odpovědi na dotazy. Náklady na tvorbu KG dosahují 5,71 USD za jednu faktickou výpověď, například v databázi Cyc s 21 miliony..."
-      }
-      
-      ,{
-        "title"    : "Soukromí bude v roce 2026 pod bezprecedentním útokem",
-        "url"      : "/tech-news/2026-01-06/privacy-will-be-under-unprecedented-attack-in-2026/",
-        "category" : "tech_news",
-        "content"  : "SouhrnV roce 2026 čelí soukromí elektronických komunikací novým rizikům kvůli tlaku vlád v Velké Británii a Evropě na rozšíření možností sběru a analýzy dat o občanech. Očekává se větší tlak na omezení end-to-end encryption v e-mailech a messengerech jako Signal nebo WhatsApp. Evropský parlament a Rada by měly na jaře přijmout kontroverzní nařízení CSAR, které zavádí skenování soukromých zpráv.Klíčové body Vládami prosazovaný tlak na scanning technologiích před šifrováním pro detekci nezákonného obsahu jako dětská sexuální zneužívání nebo teroristický materiál. Přijetí Child Sexual Abuse Regulation (CSAR), známého jako Chat Control, s dobrovolným nebo povinným skenováním komunikací a ověřováním věku uživatelů. Historická..."
-      }
-      
-      ,{
-        "title"    : "Lepší výdrž baterie iPhonu? Adaptive Power v iOS 26 ji tiše zlepšuje",
-        "url"      : "/tech-news/2026-01-06/want-better-iphone-battery-life-adaptive-power-in/",
-        "category" : "tech_news",
-        "content"  : "SouhrnV aktualizaci iOS 26 představila Apple funkci Adaptive Power, která na základě Apple Intelligence analyzuje chování uživatele a inteligentně upravuje výkon zařízení pro delší výdrž baterie. Tato funkce funguje automaticky na pozadí po týdenní fázi učení a cílí především na náročné operace jako nahrávání videa nebo hraní her. Na rozdíl od Low Power Mode, který omezuje aktivity hrubou silou, Adaptive Power provádí jemné úpravy výkonu podle predikcí.Klíčové body Adaptive Power je aktivováno ve výchozím nastavení na iPhone s podporou Apple Intelligence, včetně starších modelů. Funkce analyzuje vzorce použití po dobu přibližně týdne, než začne aktivně optimalizovat. Zaměřuje se na situace..."
-      }
-      
-      ,{
-        "title"    : "Nvidia představuje autonomní vozy s AI schopností uvažovat",
-        "url"      : "/tech-news/2026-01-06/nvidia-previews-ai-powered-cars-with-ability-to-re/",
-        "category" : "tech_news",
-        "content"  : "SouhrnNvidia představila na veletrhu CES v Las Vegas platformu Alpamayo, která umožňuje autonomním vozům analyzovat data ze senzorů a uvažovat o řešeních složitých situací, jako je výpadek semaforů. CEO Jensen Huang uvedl, že první vozy s touto technologií vyjedou na silnice v USA během prvního čtvrtletí, následně v Evropě a Asii. Platforma navazuje na spolupráci s Mercedes-Benz a rozšiřuje možnosti hands-free jízdy.Klíčové body Platforma Alpamayo umožňuje uživatelům retrénovat AI model pro specifické scénáře. Vozidlo zpracovává vstupy z kamer a senzorů, dělí je na kroky a generuje řešení. Rozšíření spolupráce s Mercedes-Benz na hands-free jízdu na dálnicích i v městech. Plánovaný..."
-      }
-      
-      ,{
-        "title"    : "Šéf OpenAI přiznal vážný bezpečnostní problém nových AI agentů – mohou být hackerům na prospěch",
-        "url"      : "/tech-news/2026-01-06/openais-ceo-just-admitted-his-new-ai-agents-have-a/",
-        "category" : "tech_news",
-        "content"  : "SouhrnŠéf OpenAI Sam Altman přiznal, že pokročilé AI agenti odhalují kritické bezpečnostní slabiny v systémech, což představuje riziko pro kyberbezpečnost. Tyto autonomní systémy, schopné složitých úkolů, mohou být zmanipulovány na škodlivé aktivity. OpenAI proto vyhlašuje hledání specialisty na připravenost pro řešení těchto výzev.Klíčové body AI agenti rychle napredují a nahrazují repetitivní úkoly v korporátním světě. Odhalují bezpečnostní zranitelnosti, které mohou hackeři využít k reálným útokům. Altman popřel existenci škálovací stěny pro trénink modelů a zdůraznil nedostatek kvalitních dat. OpenAI hledá Head of Preparedness pro řešení rizik včetně dopadů na duševní zdraví. Kritika směřuje k prioritizaci produktů nad bezpečností.PodrobnostiVýzkumné laboratoře jako..."
-      }
-      
-      ,{
-        "title"    : "Křišťálová koule: Jak se budou vyvíjet IPO a obchodní dohody v roce 2026",
-        "url"      : "/tech-news/2026-01-06/crystal-ball-how-ipos-and-dealmaking-will-shake-ou/",
-        "category" : "tech_news",
-        "content"  : "SouhrnRok 2025 přinesl úspěšné IPO firem jako Circle a velké akvizice, například Google za 32 miliard dolarů koupil Wiz, ale celkově aktivita na trhu s prvními veřejnými nabídkami (IPO) zůstává pod historickými úrovněmi. Čtenáři Term Sheet predikují, že momentum IPO bude pokračovat do prvního nebo druhého čtvrtletí 2026, poté zpomalí, zatímco akvizice a kreativní formy obchodování zůstanou klíčové pro menší startupy. Tento výhled odráží situaci, kdy soukromé firmy mají více možností likvidity bez nutnosti vstupu na burzu.Klíčové body Úspěšné IPO v 2025: Circle dosáhl velkého zájmu, naopak Navan měl slabší příjem. Velké akvizice: Google koupil Wiz za 32 miliard dolarů,..."
-      }
-      
-      ,{
-        "title"    : "Británie vyzývá platformu X Elona Muska k okamžitému řešení intimních deepfakes od Grok",
-        "url"      : "/tech-news/2026-01-06/uk-urges-musks-x-to-urgently-address-intimate-deep/",
-        "category" : "tech_news",
-        "content"  : "SouhrnBritánie vyzvala sociální síť X, vlastněnou Elonem Muskem, k okamžitému zásahu proti deepfake obrázkům intimní povahy, které generuje AI chatbot Grok na požadavek uživatelů. Tyto obrázky zobrazují ženy a nezletilé v odhalujícím oblečení bez jejich souhlasu, což je v Británii nelegální. Technická ministryně Liz Kendall označila tento obsah za „absolutně příšerný” a požadovala rychlou reakci platformy.Klíčové body Britská vláda se připojila k evropské kritice po zprávách o tom, že Grok vytváří nekonzistentní deepfake obrázky žen a dětí na požadavek uživatelů. X tvrdí, že odstraňuje nelegální obsah a suspenduje účty, včetně těch, které zneužívají Grok k jeho tvorbě. Vytváření a sdílení..."
-      }
-      
-      ,{
-        "title"    : "Marvell kupuje firmu na síťové vybavení XConn za 540 milionů dolarů v rámci expanze AI infrastruktury",
-        "url"      : "/tech-news/2026-01-06/marvell-to-buy-networking-equipment-firm-xconn-in/",
-        "category" : "tech_news",
-        "content"  : "SouhrnSpolečnost Marvell Technology, výrobce polovodičů pro datová centra, oznámila koupě firmy XConn Technologies, specialisty na síťové vybavení, za 540 milionů dolarů. Akvizice má posílit nabídku hardwaru pro datová centra v době rychlého růstu poptávky po infrastruktuře pro trénink AI modelů. Transakce by měla být dokončena v příštích měsících.Klíčové body Marvell platí 540 milionů dolarů v hotovosti za XConn Technologies. XConn se specializuje na síťové komponenty pro datová centra, včetně přepínačů a kabeláží optimalizovaných pro vysokorychlostní přenosy. Akvizice souvisí s expanzí AI infrastruktury, kde je networking klíčovým elementem pro škálování GPU clusterů. Marvell tím rozšiřuje své portfolio o customizované řešení pro..."
-      }
-      
-      ,{
-        "title"    : "Britská vláda vyzývá Elona Muska k řešení „ohavních“ deepfakeů od Grok AI",
-        "url"      : "/tech-news/2026-01-06/uk-government-urges-elon-musk-to-address-appalling/",
-        "category" : "tech_news",
-        "content"  : "SouhrnBritská ministryně pro technologie Liz Kendall vydala prohlášení, ve kterém vyzývá Elona Muska, zakladatele platformy X a firmy xAI, aby okamžitě zabránil používání integrovaného AI nástroje Grok k generování deepfake obrázků. Tyto uměle vytvořené sexuální obrázky cílí převážně na ženy a dívky bez jejich souhlasu, včetně případů s nezletilými. Problém eskaloval po aktualizaci Grok v prosinci, která umožnila uživatelům nahrávat fotografie a žádat AI úpravy.Klíčové body Stížnosti uživatelů na deepfakes vytvořené Grok, včetně sexuálních obrázků 14leté herečky ze seriálu Stranger Things v banánovém bikině. Britský regulátor Ofcom navázal nouzový kontakt s X a vyšetřuje tvorbu „odhalených“ obrázků osob. Platforma X..."
-      }
-      
-      ,{
-        "title"    : "Před rokem Jensen Huang z Nvidia slíbil &#39;ChatGPT moment&#39; pro robotiku za rohem. Teď říká, že je &#39;téměř zde&#39;. Ale je tomu tak?",
-        "url"      : "/tech-news/2026-01-06/a-year-ago-nvidias-jensen-huang-said-the-chatgpt-m/",
-        "category" : "tech_news",
-        "content"  : "SouhrnNa veletrhu CES Nvidia oznámila zahájení plné produkce svého nejnovějšího grafického procesoru Vera Rubin, který posiluje její pozici v AI hardwaru. V keynote přednášce generální ředitel Jensen Huang prohlásil, že ‘ChatGPT moment’ pro fyzickou AI, včetně robotiky a autonomních vozidel, je ‘téměř zde’. Před rokem mluvil o tomto okamžiku jako o ‘věci za rohem’, což naznačuje postupný posun, i když skutečné nasazení v reálném světě zůstává výzvou.Klíčové body Nvidia spustila masovou produkci GPU Vera Rubin, nástupce současných AI čipů, které pohánějí trénink velkých modelů. Huang zdůraznil průlomy v modelech pro porozumění reálnému světu, simulacích a výpočetním výkonu jako klíč k..."
-      }
-      
-      ,{
-        "title"    : "Microsoft spolupracuje s velkým americkým operátorem elektrické sítě na modernizaci systému v Midweste",
-        "url"      : "/tech-news/2026-01-06/microsoft-works-with-major-us-electric-grid-operat/",
-        "category" : "tech_news",
-        "content"  : "SouhrnMicrosoft uzavřel partnerství s Midcontinent Independent System Operator (MISO), nezávislým systémovým operátorem elektrické sítě v centrální části USA. Tato spolupráce má modernizovat síť pokrývající 42 milionů lidí v 15 státech a kanadské Manitobě, především kvůli rostoucí poptávce po elektřině z datových center pro AI. Technologie Microsoftu budou sloužit k predikci a reakci na výpadky způsobené počasím, plánování přenosových linek a urychlení provozních operací.Klíčové body Partnerství mezi Microsoftem a MISO pro nasazení AI technologií v energetické síti. Síť MISO obsluhuje 42 milionů zákazníků v 15 amerických státech a Manitobě. Hlavní cíle: predikce meteorologických výpadků, optimalizace přenosových linek a zrychlení operací. Kontext:..."
-      }
-      
-      ,{
-        "title"    : "Chatbot Grok od Elona Muska čelí globálnímu odporu kvůli generování sexualizovaných obrázků žen a dětí bez souhlasu",
-        "url"      : "/tech-news/2026-01-06/elon-musks-grok-chatbot-draws-global-backlash-for/",
-        "category" : "tech_news",
-        "content"  : "SouhrnChatbot Grok od společnosti xAI Elona Muska vyvolal mezinárodní kritiku poté, co začal generovat sexualizované obrázky žen a dětí bez souhlasu. Vládové představitelé z Británie, Polska, Evropské unie, Francie, Indie, Malajsie a Brazílie požadují okamžité kroky a vyšetřování. Problém souvisí s funkcí Grok Imagine, která umožňuje tvorbu obrázků na základě textových příkazů, včetně kontroverzního režimu pro dospělý obsah.Klíčové body Globální reakce: Británie žádá urgentní akci na platformě X, Polsko chce nové digitální bezpečnostní zákony, EU odsuzuje Grok. Funkce Grok Imagine: AI nástroj pro generování obrázků a videí z textu, s režimem „spicy mode“ pro adult content, umožňuje úpravu cizích obrázků...."
-      }
-      
-      ,{
-        "title"    : "Sekce 230 nechrání Elona Muska před odpovědností za zneužití deepfakeů, říká senátor",
-        "url"      : "/tech-news/2026-01-06/section-230-doesnt-cover-elon-musks-ass-when-it-co/",
-        "category" : "tech_news",
-        "content"  : "SouhrnSenátor Ron Wyden, jeden z autorů zákona o sekci 230 Komunikačního slušnosti z roku 1996, tvrdí, že tato ustanovení nechrání platformy jako X (dříve Twitter) ani Elona Muska před odpovědností za škodlivý obsah generovaný AI chatbotem Grok od xAI. Grok byl v posledním týdnu nucen uživateli vytvářet nelegální sexuálně zneužívající materiály dětí (CSAM) a nekonzensuální sexuální obrázky jiných uživatelů X. Wyden volá po zásahu států, pokud federální úřady pod Trumpovou administrativou nebudou jednat.Klíčové body Sekce 230 chrání platformy před odpovědností za uživatelský obsah, ale ne za materiál generovaný AI chatboty jako Grok. Uživatelé X nútili Grok vytvářet deepfakes: sexuálně zneužívající..."
-      }
-      
-      ,{
-        "title"    : "Pohled na nové technologie oznámené první den CES 2026",
-        "url"      : "/tech-news/2026-01-06/a-look-at-the-new-technology-announced-on-day-1-of/",
-        "category" : "tech_news",
-        "content"  : "SouhrnPrvní den CES 2026 v Las Vegas byl ovládnut oznámeními od Nvidia, AMD a Intel zaměřenými na čipy a AI platformy. Největší pozornost si vysloužila prezentace Nvidia, kde generální ředitel Jensen Huang představil koncept fyzické AI, nové modely Cosmos a Alpamayo pro simulace a autonomní řízení, superčip Vera Rubin v plné produkci a partnerství se Siemens.Klíčové body Nvidia zavádí termín “physical AI” pro modely trénované na syntetických datech v simulovaných prostředích a následně nasazené do fyzických zařízení. Cosmos je základní AI model trénovaný na masivních datech pro simulaci reálných fyzikálních prostředí. Alpamayo je specializovaný AI model pro autonomní vozidla. Vera..."
-      }
-      
-      ,{
-        "title"    : "Tesla čelí žalobě kvůli smrtelné nehodě Modelu X, valí se vlna soudních sporů",
-        "url"      : "/tech-news/2026-01-06/tesla-sued-over-family-killed-in-tragic-model-x-cr/",
-        "category" : "tech_news",
-        "content"  : "SouhrnRodina podala žalobu proti Tesle po smrtelné nehodě vozu Model X z roku 2022 v Idahu, kde zemřely čtyři osoby. Žalobci obviňují systém Autosteer, součást balíčku Autopilot, z toho, že vozidlo náhle opustilo svůj pruh a narazilo do čelní kolize s nákladním automobilem. Tento případ přichází po prohře Tesly v prvním významném soudním sporu týkajícím se Autopilotu a je součástí rostoucí vlny podobných žalob.Klíčové body Nehoda se stala 1. září 2023 na dálnici Idaho State Highway 33 během jízdy v mírné zatáčce. Oběti: Jennifer Blaineová, její dcery Denali (11 let) a Emily (22 let) a zeť Zachary Leavitt (24 let);..."
-      }
-      
-      ,{
-        "title"    : "Marvell kupuje specialistu na síťové switche XConn za 540 milionů dolarů k posílení AI nabídky",
-        "url"      : "/tech-news/2026-01-06/marvell-buys-network-switching-specialist-xconn-fo/",
-        "category" : "tech_news",
-        "content"  : "SouhrnSpolečnost Marvell Technology, výrobce čipů, oznámila akvizici startupu XConn Technologies Holdings za 540 milionů dolarů v dealu založeném na akciích a hotovosti. XConn se specializuje na interconnect switching technologie pro umělou inteligenci a infrastrukturu datových center. Akvizice posílí Marvellovo portfolio v oblasti propojení velkých AI clusterů a pomůže mu konkurovat lídrům jako Nvidia a Broadcom.Klíčové body Hodnota transakce: 540 milionů dolarů (akcie + hotovost). XConnovy switche slouží k propojení velkého množství AI čipů do clusterů pro spouštění velkých jazykových modelů (LLM). Akcie Marvell vzrostly o více než 4 % po oznámení. Připojení inženýrských týmů XConn k Marvellově networking jednotce. Souvislost..."
-      }
-      
-      ,{
         "title"    : "Nvidia představuje nové AI čipy a projekt autonomních vozidel s Mercedes-Benz",
         "url"      : "/tech-news/2026-01-07/nvidia-details-new-ai-chips-and-autonomous-car-pro/",
         "category" : "tech_news",
@@ -31419,6 +31148,167 @@
         "url"      : "/tech-news/2026-01-11/elon-musk-labels-uk-fascist-over-grok-image-row/",
         "category" : "tech_news",
         "content"  : "SouhrnElon Musk obvinil britskou vládu z fašismu poté, co ta posílila hrozby blokováním platformy X kvůli sexualizovaným obrázkům žen a dětí vytvořeným AI modelem Grok od jeho firmy xAI. Musk reagoval na statistiku o nejvyšším počtu zatčení za příspěvky na sociálních sítích a označil Británii za “ostrov vězení”. Internet Watch Foundation identifikovala kriminální obrázky generované Grok na dark webu.Klíčové body Musk na X: Britská vláda je fašistická, potlačuje svobodu slova a snaží se o cenzuru. Platforma X je podle analýz hlavním místem pro tisíce AI generovaných obrázků s nekomfortním svlékáním lidí (non-consensual undressing) každou hodinu. Internet Watch Foundation (IWF) našla..."
+      }
+      
+      ,{
+        "title"    : "Torq získává 140 milionů dolarů při valuaci 1,2 miliardy na rozšíření hyperautomatizace bezpečnosti poháněné AI",
+        "url"      : "/tech-news/2026-01-11/torq-raises-140m-at-12b-valuation-to-scale-ai-driv/",
+        "category" : "tech_news",
+        "content"  : "SouhrnSpolečnost Torq Ltd. získala 140 milionů dolarů v novém kole financování při valuaci 1,2 miliardy dolarů. Peníze použije na rozšíření své platformy pro hyperautomatizaci bezpečnosti, která kombinuje tradiční automatizaci workflow s rozhodováním založeným na AI. Platforma umožňuje bezpečnostním týmům automatizovat složité procesy napříč různými systémy bez programování.Klíčové body Získáno 140 milionů dolarů při valuaci 1,2 miliardy USD, založeno v roce 2020. Platforma pro hyperautomatizaci bezpečnosti: no-code, agentless, integruje SIEM, EDR, identity platformy, firewally a nástroje pro spolupráci. Používá multi-agentní AI systémy pro adaptivní reakce na hrozby, triáž alertů, obohacování dat a autonomní remediaci. AI agenti fungují jako digitální analytici, kteří..."
+      }
+      
+      ,{
+        "title"    : "Google představuje Univerzální obchodní protokol pro zefektivnění automatizace nákupů agentů umělé inteligence",
+        "url"      : "/tech-news/2026-01-11/google-debuts-universal-commerce-protocol-to-strea/",
+        "category" : "tech_news",
+        "content"  : "SouhrnGoogle představil Universal Commerce Protocol (UCP), otevřený standard určený k tomu, aby agenti umělé inteligence mohli automatizovat celý nákupní proces – od objevení produktu přes platbu až po podporu po prodeji. Protokol byl vyvinut ve spolupráci s prodejci jako Shopify (platforma pro elektronické obchody), Target (americký řetězec supermarketů), Walmart (globální maloobchodní řetězec) a Etsy (tržiště pro ručně vyráběné a vintage zboží). Bude integrován do vyhledávače Google a aplikace Gemini, kde umožní rychlejší nákupy prostřednictvím Google Pay a později PayPal.Klíčové body UCP umožňuje AI agentům spolupracovat na jednotlivých krocích nákupu, jako je vyhledávání, platba a dodání. Integruje se s protokoly Agent..."
+      }
+      
+      ,{
+        "title"    : "Rovnováha sil v umělé inteligenci se může příští rok dramaticky změnit",
+        "url"      : "/tech-news/2026-01-11/the-ai-power-balance-could-shift-dramatically-next/",
+        "category" : "tech_news",
+        "content"  : "SouhrnProfesor Yutaka Matsuo z Tokijské univerzity předpovídá, že v roce 2026 dojde k prudké změně globální rovnováhy sil v oblasti umělé inteligence. Klíčové průlomy v polovodičových čipech, robotice a autonomním řízení by mohly narušit současné postavení firem i zemí. Vysvětlil to v televizním pořadu o vědě a technologiích z 26. prosince 2025.Klíčové body Očekávaný „překvapivý“ scénář pro rok 2026: narušení dominance polovodičového sektoru, pokrok k AGI a rozšíření fyzické AI v robotech. Soutěž mezi OpenAI a Google, kde Gemini 3 vykazuje silné výsledky v benchmarkách. Vzestup levných open-source modelů, zejména z Číny, které ohrožují uzavřené systémy s vysokými investicemi. Dynamika..."
+      }
+      
+      ,{
+        "title"    : "Eggie, Neo, Isaac a Memo jsou domácí roboti. Ale nechali byste je nakládat do myčky?",
+        "url"      : "/tech-news/2026-01-12/eggie-neo-isaac-and-memo-are-domestic-robots-but-w/",
+        "category" : "tech_news",
+        "content"  : "SouhrnČlánek představuje domácí humanoidní roboti Eggie od startupu Tangible AI, NEO od společnosti 1X, stejně jako Isaac a Memo, kteří jsou trénováni na běžné úklidové práce jako věšení prádla, nakládání do myčky nebo otírání rozlitých kapalin. Tyto stroje se letos dostávají do prodeje, ale jejich schopnosti jsou omezené pomalostí pohybu a nutností dálkového ovládání lidmi. Autor osobně testoval jejich výkon a hodnotí realistické možnosti robotických pomocníků v každodenním životě.Klíčové body NEO od 1X zahajuje předobjednávky letos a dokáže zalévat rostliny, nosit nápoje a uklízet nádobí, i když s obtížemi při manipulaci s úchytkami. Eggie od Tangible AI zvládá věšení kabátu,..."
+      }
+      
+      ,{
+        "title"    : "Motional staví AI do centra restartu robotaxi a míří na bezřidičskou službu v roce 2026 | TechCrunch",
+        "url"      : "/tech-news/2026-01-12/motional-puts-ai-at-center-of-robotaxi-reboot-as-i/",
+        "category" : "tech_news",
+        "content"  : "SouhrnSpolečnost Motional restartuje svůj program robotaxi s přístupem založeným na umělé inteligenci jako základu svého systému autonomního řízení. Firma, která prošla restrukturalizací včetně propouštění zaměstnanců, plánuje spustit komerční bezřidičskou službu v Las Vegas do konce roku 2026. Už nyní testuje službu pro své zaměstnance s bezpečnostním řidičem a brzy ji otevře veřejnosti prostřednictvím partnera jako Lyft nebo Uber.Klíčové body Motional přechází z tradičního robotického přístupu na model založený na AI foundation modelech pro lepší škálovatelnost a cenovou dostupnost. Služba pro zaměstnance s bezpečnostním řidičem již funguje v Las Vegas; veřejné spuštění s partnerem letos, bezřidičská verze do konce 2026. Hyundai..."
+      }
+      
+      ,{
+        "title"    : "Google spolupracuje s Walmartem a maloobchodníky na nakupování přímo v chatbota Gemini",
+        "url"      : "/tech-news/2026-01-12/google-partners-with-walmart-retailers-to-enable-s/",
+        "category" : "tech_news",
+        "content"  : "SouhrnGoogle oznámil partnerství s maloobchodními řetězci jako Walmart, Shopify a Wayfair, které umožní uživatelům nakupovat přímo v chatbota Gemini bez nutnosti opouštět konverzaci. Nová funkce instant checkout umožňuje rychlé vyúčtování přes různé platební poskytovatele. Oznámení proběhlo na výroční konferenci National Retail Federation v New Yorku, kde se očekává diskuse o roli umělé inteligence v elektronickém obchodu.Klíčové body Partnerství zahrnuje Walmart (největší americký maloobchodní řetězec), Shopify (platforma pro elektronické obchody) a Wayfair (specialista na nábytek online). Funkce instant checkout umožňuje nákup bez opuštění chatbota Gemini, který slouží k vyhledávání produktů i jako virtuální prodejce. Oznámeno na první den konference National Retail..."
+      }
+      
+      ,{
+        "title"    : "Singapur a Japonsko společně pokračují ve vývoji kvantového počítačství",
+        "url"      : "/tech-news/2026-01-12/singapore-and-japan-team-up-on-quantum-computing/",
+        "category" : "tech_news",
+        "content"  : "SouhrnSingapur a Japonsko podepsaly memorandum o spolupráci (MOC) v oblasti kvantové vědy, technologie a inovací. Dohoda stanovuje rámec pro spolupráci v osmi klíčových oblastech a má urychlit přechod od teoretického výzkumu kvantových počítačů k praktickým komerčním řešením. Tato iniciativa přichází v době, kdy země po celém světě soutěží o vedení v této technologii, která by mohla ovlivnit finance, farmacii i kyberbezpečnost.Klíčové body Spolupráce v oblastech jako dialogy o výzkumu, propojení akademické sféry a soukromého sektoru, výměna talentů a vzdělávání. Zaměření na standardy, governance a vývoj komerčních případů použití pro podniky. Sdílení přístupu k výzkumné infrastruktuře a spuštění hraničních pilotních projektů..."
+      }
+      
+      ,{
+        "title"    : "Anthropic vstupuje do zdravotnictví, aby pomohl pacientům pochopit lékařské záznamy",
+        "url"      : "/tech-news/2026-01-12/anthropic-pushes-into-healthcare-to-help-patients/",
+        "category" : "tech_news",
+        "content"  : "SouhrnSpolečnost Anthropic, specializující se na vývoj bezpečných modelů umělé inteligence, rozšířila svůj chatbot Claude o funkce pro zdravotnictví. Uživatelé mohou nyní nahrávat oficiální lékařské záznamy a data z aplikací jako Apple Health, což umožňuje Claudovi shrnovat zdravotní historii, vysvětlovat výsledky vyšetření jednoduchým jazykem a identifikovat vzory v datech. Novinka je dostupná pro předplatitele plánů Claude Pro a Max v USA a navazuje na loňskou iniciativu Claude for Life Sciences.Klíčové body Sdílení lékařských záznamů a fitness dat pro personalizované konverzace o zdraví. Funkce zahrnují shrnutí anamnézy, vysvětlení testů, detekci vzorů v metrikách a přípravu otázek pro lékařské konzultace. Dostupné ihned pro..."
+      }
+      
+      ,{
+        "title"    : "Google spolupracuje s Walmartem a dalšími prodejci na nákupy v AI chatbotu Gemini",
+        "url"      : "/tech-news/2026-01-12/google-teams-up-with-walmart-and-other-retailers-t/",
+        "category" : "tech_news",
+        "content"  : "SouhrnGoogle rozšiřuje nákupní funkce svého AI chatbota Gemini partnerstvím s Walmartem, Shopify, Wayfair a dalšími velkými prodejci. Zákazníci budou moci nakupovat bez opuštění konverzace díky funkci okamžitého nákupu. Oznámení přišlo na úvodní den výroční konvence Národní retailové federace v New Yorku.Klíčové body Partnerství zahrnuje Walmart (největšího amerického prodejce), Shopify (platformu pro elektronický obchod) a Wayfair (specialistu na nábytek online). Funkce okamžitého nákupu umožňuje platby přímo v chatu Gemini přes různé platební poskytovatele. Pro Walmart: propojení účtů přináší personalizovaná doporučení na základě minulých nákupů a slučování s existujícím košíkem. Příklad použití: dotaz na vybavení pro lyžařskou dovolenou vrátí nabídku z inventáře..."
+      }
+      
+      ,{
+        "title"    : "Týdenní shrnutí novinek: Vlivy AI na paměti DRAM, HBM4 a globální expanze TSMC",
+        "url"      : "/tech-news/2026-01-12/weekly-news-roundup-ai-memory-effects-in-dram-hbm4/",
+        "category" : "tech_news",
+        "content"  : "SouhrnTýdenní shrnutí největších zpráv z DIGITIMES Asia za období 5.–11. ledna 2026 zdůrazňuje dopady AI na trh s paměťovými čipy. Ceny DRAM prudce rostou kvůli nedostatku kapacity poháněnému AI servery, zatímco TSMC urychluje stavbu fabrik v Arizoně pro uspokojení poptávky po AI čipech. Mezi další témata patří vývoj HBM4 a výzvy v modularním designu pro software-defined vehicles (SDV).Klíčové body Ceny DRAM vzrostou o 60–70 % v prvním čtvrtletí 2026, protože Samsung Electronics a SK Hynix odmítají dlouhodobé smlouvy a upřednostňují čtvrtletní dohody. TSMC plánuje až 12 fabrik v Arizoně jako jádro své zahraniční expanze, navzdory problémům s rentabilitou a provozem...."
+      }
+      
+      ,{
+        "title"    : "Woolworths posílí digitálního asistenta Olive agentickou umělou inteligencí",
+        "url"      : "/tech-news/2026-01-12/woolworths-to-power-olive-digital-assistant-with-a/",
+        "category" : "tech_news",
+        "content"  : "SouhrnAustralská maloobchodní skupina Woolworths Group nasadí platformu Google Cloud Gemini Enterprise for Customer Experience k vylepšení svého digitálního asistenta Olive. Tato agentická umělá inteligence umožní Olive přechod od jednoduchého chatbota k systému schopnému složitého uvažování, udržování kontextu napříč kanály a provádění vícekrokových úkolů za uživatele. Woolworths tak stane prvním australským řetězcem, který tuto novinku zavede.Klíčové body Woolworths je prvním řetězcem v Austrálii a Asii-Pacifiku s nasazením Gemini Enterprise for CX. Olive získá schopnosti generativní AI pro predikci potřeb zákazníků, jako je plánování jídel podle vkusu a rozpočtu. Platforma byla představena na konferenci NRF 2026 v New Yorku. Další adoptéři zahrnují..."
+      }
+      
+      ,{
+        "title"    : "Walmart spolupracuje s Googlem na prosazování ‚obchodování vedeného agenty‘",
+        "url"      : "/tech-news/2026-01-12/walmart-teams-with-google-to-promote-agent-led-com/",
+        "category" : "tech_news",
+        "content"  : "SouhrnWalmart a Google spustily partnerství zaměřené na ‚obchodování vedené agenty‘, které integruje produkty Walmartu a Sam’s Club do modelu umělé inteligence Gemini. Tato spolupráce využívá nový Universal Commerce Protocol od Googlu a umožňuje uživatelům konverzačně vyhledávat, doporučovat a objednávat zboží. Cílem je přejít od tradičního vyhledávání k intuitivním interakcím s AI agentem.Klíčové body Integrace produktů Walmartu a Sam’s Club do Gemini pro automatické zobrazení relevantních položek během konverzace. Propojení uživatelských účtů pro personalizovaná doporučení na základě minulých nákupů a obsahu košíku. Využití výhod členství Walmart+ a Sam’s Club, včetně doručení na požadované místo a čas. Partnerství řízené novým Universal Commerce..."
+      }
+      
+      ,{
+        "title"    : "Malajsie a Indonésie blokují Grok od Elona Muska kvůli obscénnímu obsahu bez souhlasu",
+        "url"      : "/tech-news/2026-01-12/malaysia-and-indonesia-block-elon-musks-grok-due-t/",
+        "category" : "tech_news",
+        "content"  : "SouhrnMalajsie a Indonésie tento víkend zablokovaly přístup k chatbotu Grok, který vyvinula společnost xAI Elona Muska, kvůli rizikům spojeným s generováním nekonzistentních explicitních obrázků, deepfakeů a materiálu se sexuálním zneužíváním dětí (CSAM). Regulátoři v těchto jihovýchodních asijských zemích nespokojené s reakcemi xAI a Muska nařídili dočasné omezení. xAI reagovala omezením funkcí generování obrázků pouze na placené předplatitele platformy X.Klíčové body Malajsijští regulátoři nařídili blokování po opakovaných selháních X Corp v řešení rizik Grok. Indonésie pozastavila přístup a svolala představitele X kvůli stejným obavám. Aktualizace Grok Imagine usnadnila generování a sdílení explicitního obsahu díky integraci s platformou X. xAI omezila generování..."
+      }
+      
+      ,{
+        "title"    : "Malajsie pozastavila přístup k Muskovo AI Grok: regulátor",
+        "url"      : "/tech-news/2026-01-12/malaysia-suspends-access-to-musks-grok-ai-regulato/",
+        "category" : "tech_news",
+        "content"  : "SouhrnMalajsie pozastavila přístup k umělé inteligenci Grok, kterou vyvinula společnost xAI Elona Muska, kvůli opakovanému zneužití k tvorbě obscénních a sexuálně explicitních obrázků. Malajská komise pro komunikace a multimédia (MCMC) toto opatření oznámila v neděli 11. ledna 2026 a aplikovala ho okamžitě. Grok, integrován do sociální sítě X, umožňoval uživatelům generovat nevhodný obsah jednoduchými textovými příkazy.Klíčové body Malajsie dočasně zablokovala Grok pro místní uživatele kvůli generování sexuálně explicitních obrázků žen a nezletilých. Indonésie se stala první zemí, která Grok zcela zakázala o den dříve. Regulátor MCMC vydal předchozí varování firmám X Corp. a xAI, ale bezpečnostní mechanismy považuje za nedostatečné...."
+      }
+      
+      ,{
+        "title"    : "Googleův Gemini posiluje pozici v AI pro online nakupování",
+        "url"      : "/tech-news/2026-01-12/googles-gemini-seeks-edge-in-ai-for-online-shoppin/",
+        "category" : "tech_news",
+        "content"  : "SouhrnGoogle představil Gemini Enterprise for Customer Experience (CX), novou iteraci svého profesionálního balíku AI modelů Gemini zaměřenou na online maloobchod. Tento nástroj využívá složité uvažování k porozumění záměrům zákazníků a provádění vícekrokových úkolů s ohledem na jejich preference a souhlas. Umožňuje nakupování i komunikaci se zákaznickou podporou přímo v aplikacích Google bez nutnosti opouštění prostředí.Klíčové body Komplexní uvažování: AI analyzuje záměry uživatelů a vykonává složité úkoly, jako je personalizované doporučování produktů. Bezprostřední integrace: Nakupování a podpora probíhají uvnitř Google aplikací, což zjednodušuje proces. Partnerství s řetězci: Dohody s Papa John’s (síť pizzerií), Lowe’s (řetězec pro domácí zlepšení), Walmartem a Krogerem..."
+      }
+      
+      ,{
+        "title"    : "Grok AI: Malajsie a Indonésie blokují chatbot na platformě X kvůli sexuálně explicitním deepfakům",
+        "url"      : "/tech-news/2026-01-12/grok-ai-malaysia-and-indonesia-block-x-chatbot-ove/",
+        "category" : "tech_news",
+        "content"  : "SouhrnMalajsie a Indonésie zablokovaly AI chatbot Grok, integrovaný do platformy X (dříve Twitter), kvůli jeho funkci generování obrázků, která umožňuje vytvářet sexuálně explicitní deepfakes reálných lidí v odhalujících pozicích. Regulátoři v těchto zemích varují před rizikem nekonzistentního pornografického obsahu včetně žen a dětí. Jsou to první státy na světě, které Grok zakázaly, zatímco v Británii zesiluje tlak na blokaci.Klíčové body Malajsie a Indonésie oznámily blokádu o víkendu kvůli opakovanému zneužití Grok k tvorbě škodlivého obsahu. Malajská Komise pro komunikace a multimédia (MCMC) dříve vyzvala X k lepším opatřením, ale platforma nereagovala na rizika designu. Indonéská ministryně pro komunikaci Meutya Hafid..."
+      }
+      
+      ,{
+        "title"    : "Harmattan AI získala 200 milionů dolarů v kole Series B vedeném Dassault Aviation",
+        "url"      : "/tech-news/2026-01-12/harmattan-ais-200-million-series-b-led-by-dassault/",
+        "category" : "tech_news",
+        "content"  : "SouhrnSpolečnost Harmattan AI, specializující se na autonomní systémy pro obranu, získala 200 milionů dolarů v kole Series B financování, které vedla Dassault Aviation. Tato investice souvisí se strategickým partnerstvím na integraci AI a kontrolované autonomie do budoucích bojových leteckých systémů, jako jsou Rafale F5 a UCAS. Prostředky poslou k expanzi do nových operačních oblastí a škálování výroby platforem pro ISR, zachytávání dronů a elektronické válčení.Klíčové body Dassault Aviation vede kolo Series B v hodnotě 200 milionů dolarů pro Harmattan AI. Partnerství urychlí vývoj vestavěné AI pro řízení bezpilotních systémů v Rafale F5 a UCAS. Harmattan AI má schválené programy od..."
+      }
+      
+      ,{
+        "title"    : "Trump a Modi jsou ‚skuteční přátelé‘, Indie a USA ‚aktivně spolupracují‘ v obchodu, říká velvyslanec Sergio Gor",
+        "url"      : "/tech-news/2026-01-12/trump-modi-are-real-friends-as-india-us-actively-e/",
+        "category" : "tech_news",
+        "content"  : "SouhrnNový americký velvyslanec v Indii Sergio Gor při převzetí úřadu v New Delhi potvrdil pokračování aktivních obchodních jednání mezi Indiem a USA navzdory rozdílům v clech a přístupu na trh. Zdůraznil přátelství mezi Donaldem Trumpem a Narendrou Modim a oznámil pozvání Indie jako plného člena do PaxSilica, americké iniciativy pro zajištění bezpečného dodavatelského řetězce silikonu od surovin po vývoj AI.Klíčové body Sergio Gor přirovnal vztahy Indie a USA k „skutečným přátelům“, kteří řeší neshody, a potvrdil další kolo obchodních jednání 13. ledna. Indie bude pozvána jako plný člen PaxSilica, iniciativy zaměřené na silikonový řetězec včetně kritických minerálů, polovodičů, AI a..."
+      }
+      
+      ,{
+        "title"    : "Malajsie a Indonésie zablokovaly AI bota Grok kvůli explicitním obrázkům",
+        "url"      : "/tech-news/2026-01-12/malaysia-indonesia-block-grok-ai-bot-over-explicit/",
+        "category" : "tech_news",
+        "content"  : "SouhrnMalajsie a Indonésie zablokovaly přístup k AI chatbotu Grok od společnosti xAI po tom, co byl zneužit k tvorbě sexuálně explicitních obrázků žen a nezletilých bez jejich souhlasu. Indonésie zahájila dočasnou blokaci v sobotu, Malajsie následovala v neděli. Firmy xAI a X neposkytly dostatečné záruky proti tomuto riziku, což vedlo k okamžité akci regulátorů.Klíčové body Indonéská ministryně pro komunikaci a digitální záležitosti Meutya Hafid označila nekonzistentní sexuální deepfakes za porušení lidských práv, důstojnosti a bezpečnosti v digitálním prostoru. Malajská Komise pro komunikaci a multimédia (MCMC) zablokovala Grok kvůli opakovanému generování obscénních, sexuálně explicitních a urážlivých obrázků včetně těch se zapojením..."
+      }
+      
+      ,{
+        "title"    : "Společné prohlášení Google a Apple",
+        "url"      : "/tech-news/2026-01-12/joint-statement-from-google-and-apple/",
+        "category" : "tech_news",
+        "content"  : "SouhrnApple a Google oznámily víceletou spolupráci, podle níž další generace modelů Apple Foundation Models bude postavena na modelech Gemini od Google a jeho cloudové infrastruktuře. Tyto modely budou napájet pokročilé funkce Apple Intelligence, jako je vylepšená personalizovaná Siri, která dorazí letos. Apple po pečlivé evaluaci zvolilo Google pro svou nejschopnější AI technologii.Klíčové body Další generace Apple Foundation Models založená na modelech Gemini a cloudové technologii Google. Podpora pro budoucí funkce Apple Intelligence, včetně personalizovanější Siri. Provoz na zařízeních Apple a v systému Private Cloud Compute s důrazem na soukromí. Apple oceňuje schopnosti Google AI pro odemknutí nových zážitků pro uživatele...."
+      }
+      
+      ,{
+        "title"    : "Britský regulátor zahájil vyšetřování platformy X kvůli údajnému nelegálnímu obsahu z Grok AI",
+        "url"      : "/tech-news/2026-01-12/uk-regulator-opens-probe-into-x-over-alleged-illeg/",
+        "category" : "tech_news",
+        "content"  : "SouhrnBritský mediální regulátor Ofcom zahájil 12. ledna 2026 formální vyšetřování platformy X, kterou vlastní Elon Musk, kvůli podezření na nedostatečnou ochranu uživatelů před nelegálním obsahem vytvářeným AI chatbotem Grok. Jde především o hlášené případy non-konzistentních intimních obrázků a sexualizovaných snímků dětí, které mohou představovat materiál sexuálního zneužívání dětí (CSAM). Současně Malajsie a Indonésie zablokovaly Grok kvůli riziku tvorby explicitních deepfake obrázků.Klíčové body Ofcom zkoumá, zda X dodržuje britské zákony o ochraně uživatelů před nelegálním obsahem, včetně CSAM z Grok. Grok byl zneužit k generování non-konzistentních sexuálních deepfake, včetně těch zahrnujících děti. Malajsie a Indonésie zablokovaly chatbot kvůli obavám z pornografických..."
+      }
+      
+      ,{
+        "title"    : "Nový americký velvyslanec v Indii prosazuje hlubší obchodní vazby navzdory napětí kvůli ropě",
+        "url"      : "/tech-news/2026-01-12/new-us-ambassador-to-india-pushes-for-deeper-trade/",
+        "category" : "tech_news",
+        "content"  : "SouhrnNový americký velvyslanec v Indii Sergio Gor na svém prvním dni v úřadu vyzval k prohloubení obchodních vztahů mezi USA a Indií, přestože napětí kvůli indickým nákupům ruské ropy přetrvává. Obě země vedou jednání o bilaterální obchodní dohodě a Indie obdržela formální pozvání do americké iniciativy Pax Silica, která má zajistit bezpečný dodavatelský řetězec křemíku pro polovodiče a umělou inteligenci.Klíčové body Od února 2022 se Indie stala druhým největším odběratelem ruské ropy po Číně, což vedlo k americkým tarifům. V srpnu 2025 podepsal prezident Trump výkonný příkaz o 25% dodatečném cla na Indie, čímž celková sazba dosáhla 50 %. Další..."
+      }
+      
+      ,{
+        "title"    : "Může startup Donut Lab na pevnostátní baterii dodat baterii s 400 Wh/kg a rychlým nabíjením?",
+        "url"      : "/tech-news/2026-01-12/can-solid-state-battery-startup-donut-lab-deliver/",
+        "category" : "tech_news",
+        "content"  : "SouhrnEstonská společnost Donut Lab, malý startup zaměřený na vývoj pokročilých baterií, oznámila první plně pevnostátní baterii s energetickou hustotou 400 Wh/kg, nabíjením za méně než 5 minut a odolností až 100 000 cyklů nabíjení a vybíjení. Baterie nevyužívá vzácné kovy jako lithium, kobalt nebo nikl, je nehořlavá, netoxická a odolná vůči propíchnutí. Tyto vlastnosti by mohly ovlivnit oblasti jako elektromobily, drony nebo síťové ukládání energie, avšak zůstávají otázky ohledně ověření a výroby ve velkém.Klíčové body Energetická hustota 400 Wh/kg, což překonává současné lithiové iontové baterie (typicky 250–300 Wh/kg). Nabíjení pod 5 minut při zachování vysoké výdrže. Až 100 000 cyklů..."
       }
       
     
