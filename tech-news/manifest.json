@@ -1,7 +1,86 @@
 {
-  "generated": "2026-01-13T08:47:31.247207+00:00",
+  "generated": "2026-01-13T12:57:30.777793+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Může startup Donut Lab na pevnostátní baterii dodat baterii s 400 Wh/kg a rychlým nabíjením?",
+      "description": "Estonská firma Donut Lab tvrdí, že vyvinula první plně pevnostátní baterii na světě s energetickou hustotou 400 Wh/kg, nabíjením pod 5 minut a výdrží až 100 000 cyklů. Tato technologie slibuje vyšší bezpečnost a ekologickou udržitelnost bez použití lithia, kobaltu či niklu, což vyvolává zájem i pochybnosti o její škálovatelnosti.",
+      "slug": "can-solid-state-battery-startup-donut-lab-deliver-",
+      "publishedAt": "2026-01-12T12:12:10+00:00",
+      "date": "2026-01-12 12:12:10",
+      "importance": 5,
+      "category": "pevnostátní baterie",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/01/first-solid-state-cell-prototype_optimized.jpg",
+      "url": "/tech-news/2026-01-12/can-solid-state-battery-startup-donut-lab-deliver/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [
+        "Donut Lab"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nový americký velvyslanec v Indii prosazuje hlubší obchodní vazby navzdory napětí kvůli ropě",
+      "description": "USA a Indie intenzivně pracují na bilaterální obchodní dohodě k posílení ekonomického a strategického partnerství. Nový velvyslanec Sergio Gor zdůraznil odhodlání překonat rozdíly, včetně sporů o ruské ropy, a pozval Indii do iniciativy Pax Silica pro bezpečný dodavatelský řetězec křemíku.",
+      "slug": "new-us-ambassador-to-india-pushes-for-deeper-trade",
+      "publishedAt": "2026-01-12T11:52:25+00:00",
+      "date": "2026-01-12 11:52:25",
+      "importance": 4,
+      "category": "mezinárodní obchod",
+      "urlToImage": "https://i.abcnewsfe.com/a/1ec70b31-791d-4bf2-acc4-1ff525f2d616/wirestory_a71870e8eb2f62cb698bda074f4ecd49_16x9.jpg?w=1600",
+      "url": "/tech-news/2026-01-12/new-us-ambassador-to-india-pushes-for-deeper-trade/",
+      "source": {
+        "emoji": "📰",
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Britský regulátor zahájil vyšetřování platformy X kvůli údajnému nelegálnímu obsahu z Grok AI",
+      "description": "Mediální regulátor Ofcom spustil formální vyšetřování sociální sítě X Elona Muska, zda plní povinnosti chránit britské uživatele před nelegálním obsahem generovaným chatbotem Grok. Vyšetřování navazuje na kontroverzi kolem deepfake obrázků a materiálu zneužívajícího děti, zatímco Malajsie a Indonésie zablokovaly přístup k Grok.",
+      "slug": "uk-regulator-opens-probe-into-x-over-alleged-illeg",
+      "publishedAt": "2026-01-12T11:42:05+00:00",
+      "date": "2026-01-12 11:42:05",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://variety.com/wp-content/uploads/2026/01/elon-musk-grok.jpg?w=1000&h=563&crop=1",
+      "url": "/tech-news/2026-01-12/uk-regulator-opens-probe-into-x-over-alleged-illeg/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Variety"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Společné prohlášení Google a Apple",
+      "description": "Apple a Google zahájily víceletou spolupráci, v rámci níž budou další generace modelů Apple Foundation Models založeny na modelech Gemini od Google a jeho cloudové technologii. Tyto modely pohání budoucí funkce Apple Intelligence, včetně personalizovanější verze Siri, přičemž se zachovávají standardy soukromí Apple.",
+      "slug": "joint-statement-from-google-and-apple",
+      "publishedAt": "2026-01-12T11:33:00+00:00",
+      "date": "2026-01-12 11:33:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://blog.google/static/blogv2/images/google-200x200.png?version=pr20260107-1732",
+      "url": "/tech-news/2026-01-12/joint-statement-from-google-and-apple/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Blog.google"
+      },
+      "companies": [
+        "Apple",
+        "Google"
+      ],
+      "people": []
+    },
     {
       "title": "Malajsie a Indonésie zablokovaly AI bota Grok kvůli explicitním obrázkům",
       "description": "Malajsie a Indonésie se staly prvními zeměmi na světě, které zablokovaly přístup k AI chatbotu Grok, protože generoval sexuálně explicitní obrázky žen a dětí bez souhlasu na platformě X Elona Muska. Regulátoři kritizují nedostatečné bezpečnostní mechanismy od xAI a X.",
@@ -3739,28 +3818,6 @@
       "people": []
     },
     {
-      "title": "Nvidia představuje autonomní vozy s AI schopností uvažovat",
-      "description": "Nvidia urychluje integraci svých technologií do automobilů a představila platformu Alpamayo, která umožňuje vozům uvažovat v reálném světě. CEO Jensen Huang to oznámil na veletrhu CES v Las Vegas, s plány na rollout prvních vozů v USA v prvním čtvrtletí.",
-      "slug": "nvidia-previews-ai-powered-cars-with-ability-to-re",
-      "publishedAt": "2026-01-06T12:04:00+00:00",
-      "date": "2026-01-06 12:04:00",
-      "importance": 4,
-      "category": "autonomní vozy",
-      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2025/11/automakers-cars-ai-artificial-intelligence-production.jpg?w=457",
-      "url": "/tech-news/2026-01-06/nvidia-previews-ai-powered-cars-with-ability-to-re/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "pymnts.com"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": [
-        "Jensen Huang"
-      ]
-    },
-    {
       "title": "Lepší výdrž baterie iPhonu? Adaptive Power v iOS 26 ji tiše zlepšuje",
       "description": "Několik faktorů přispívá k lepšímu výkonu baterie a v nejnovějším systémovém updatu přidala Apple nástroj běžící na pozadí založený na Apple Intelligence.",
       "slug": "want-better-iphone-battery-life-adaptive-power-in-",
@@ -3891,26 +3948,6 @@
       "people": []
     },
     {
-      "title": "NVIDIA představila architekturu Vera Rubin na CES 2026: rack VR NVL72",
-      "description": "Na CES 2026 NVIDIA odhalila platformu Rubin s rack-scale systémem Vera Rubin NVL72, což je třetí generace její rackové architektury kombinující šest spoludizajnovaných čipů do jednoho systému. Platforma bude dostupná od partnerů ve druhé polovině roku 2026, čipy jsou již vyrobeny a testovány s reálnými úlohami.",
-      "slug": "nvidia-launches-vera-rubin-architecture-at-ces-202",
-      "publishedAt": "2026-01-06T06:18:03+00:00",
-      "date": "2026-01-06 06:18:03",
-      "importance": 4,
-      "category": "hardware",
-      "urlToImage": "https://www.storagereview.com/wp-content/uploads/2026/01/StorageReview-NVIDIA-CES-Keynote-2026-14.jpg",
-      "url": "/tech-news/2026-01-06/nvidia-launches-vera-rubin-architecture-at-ces-202/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Storagereview.com"
-      },
-      "companies": [
-        "NVIDIA"
-      ],
-      "people": []
-    },
-    {
       "title": "Nejzajímavější technologie prvního dne na CES",
       "description": "První den veletrhu CES 2026 v Las Vegas představily firmy Nvidia, AMD a Intel důležité čipy a AI platformy, avšak největší zájem vzbudily Star Wars expozice a robotické demonstrace od šéfa Nvidia Jensena Huanga. Klíčovým tématem byl koncept „physical AI“ s novými modely pro simulace a autonomní řízení.",
       "slug": "the-most-interesting-tech-we-saw-on-day-one-of-ces",
@@ -3975,46 +4012,6 @@
       },
       "companies": [
         "Samsung"
-      ],
-      "people": []
-    },
-    {
-      "title": "Nvidia představuje technologii AI s uvažovacími schopnostmi pro autonomní automobily",
-      "description": "Společnost Nvidia oznámila novou AI technologii umožňující 'uvažování' pro autonomní vozy a plánuje testovat službu robotaxi v roce 2027. Šéf firmy Jensen Huang toto označil za klíčový moment pro fyzickou AI, společně s novými modely a čipy pro robotiku.",
-      "slug": "nvidia-unveils-reasoning-ai-technology-for-self-dr",
-      "publishedAt": "2026-01-06T00:52:15+00:00",
-      "date": "2026-01-06 00:52:15",
-      "importance": 4,
-      "category": "autonomní vozy",
-      "urlToImage": null,
-      "url": "/tech-news/2026-01-06/nvidia-unveils-reasoning-ai-technology-for-self-dr/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": []
-    },
-    {
-      "title": "Akcie Nvidia mírně klesly po CES 2026, firma představila humanoidní roboty a AI pro autonomní řízení",
-      "description": "Na CES 2026 Nvidia předvedla nejnovější technologii pro robotiku včetně humanoidních robotů a model Alpamayo pro autonomní vozy. AI modely umožňují robotům chápat svět a autonomním autům řešit neobvyklé situace, jako výpadek světel na křižovatce. Akcie Nvidia klesly o 0,4 % v after-hours obchodování.",
-      "slug": "nvidia-stock-slips-after-ces-2026-as-company-intro",
-      "publishedAt": "2026-01-06T00:32:09+00:00",
-      "date": "2026-01-06 00:32:09",
-      "importance": 5,
-      "category": "robotika",
-      "urlToImage": "https://img.etimg.com/thumb/msid-126363404,width-1200,height-630,imgsize-112196,overlay-economictimes/articleshow.jpg",
-      "url": "/tech-news/2026-01-06/nvidia-stock-slips-after-ces-2026-as-company-intro/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Nvidia"
       ],
       "people": []
     },
