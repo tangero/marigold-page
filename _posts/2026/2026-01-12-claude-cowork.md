@@ -17,26 +17,6 @@ title: Anthropic představil Cowork, Claude Code pro ty ostatní...
 thumbnail: https://www.marigold.cz/assets/claude-cowork.png
 ---
 
-Aktualizuji článek o praktické zkušenosti a kritické zhodnocení od uživatelů.
-
----
-author: Patrick Zandl
-categories:
-- AI
-- Anthropic
-- Claude
-- agenti
-layout: post
-post_excerpt: Anthropic spustil Cowork, nástroj pro automatizaci kancelářské práce postavený na Claude Agent SDK. Zatím pouze pro předplatitele Claude Max na macOS.
-summary_points:
-- Cowork přináší agentní schopnosti Claude Code běžným uživatelům bez nutnosti práce s terminálem
-- Nástroj umožňuje Claude číst, upravovat a vytvářet soubory ve vybrané složce na počítači
-- K dispozici pouze pro předplatitele Claude Max na macOS, ostatní se mohou zapsat na čekací seznam
-- První uživatelské testy odhalují problémy s konektory, chybové hlášky a příliš technické rozhraní
-- Výstupy jsou kvalitnější než z běžného chatu, ale produkt zatím hledá své publikum
-title: Anthropic představil Cowork, agentní automatizaci pro běžné uživatele
----
-
 Anthropic 12. ledna 2026 spustil [Cowork](https://claude.com/blog/cowork), novou funkci integrovanou do desktopové aplikace Claude pro macOS. Cowork zpřístupňuje agentní schopnosti Claude Code širšímu okruhu uživatelů bez nutnosti pracovat s příkazovou řádkou nebo nastavovat vývojářské prostředí. Nástroj je zatím dostupný pouze pro předplatitele tarifu Claude Max jako "výzkumný náhled". Jak funguje a máte se na něj těšit? 
 
 ## Jak Cowork funguje
