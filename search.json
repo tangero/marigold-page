@@ -1,6 +1,15 @@
 [
   
     {
+      "title"    : "Závod o vaše zdravotní záznamy",
+      "url"      : "/item/zavod-o-vase-zdravotni-zaznamy/",
+      "category" : "AI, Anthropic, Claude, agenti",
+      "tags"     : "",
+      "date"     : "14.1.2026",
+      "content"  : "Nejprve OpenAI, o den později Anthropic a nyní i Google spustili konkurenční zdravotnické produkty založené na umělé inteligenci. Nejde o to vám pomoci, ale o to, stát se rozhraním mezi vámi a vašimi zdravotními daty. Protože tam jsou peníze. A jak víme, peníze AI potřebuje, aby mohla žít.Během pouhých několika dnů tohoto měsíce oznámili tři technologičtí giganti produkty, které “mění pravidla hry”. Alespoň tak se všichni tváří. Dne 7. ledna představila OpenAI službu ChatGPT Health. 11. ledna spustil Anthropic službu Claude for Healthcare. A pouhé dva dny na to, 13. ledna, Google tiše vypustil MedGemma 1.5 a MedASR. Všichni slibují,..."
+    },
+  
+    {
       "title"    : "Anthropic představil Cowork, Claude Code pro ty ostatní...",
       "url"      : "/item/claude-cowork/",
       "category" : "AI, Anthropic, Claude, agenti",
@@ -26736,7 +26745,7 @@
       "title"    : "Rubrika",
       "url"      : "/rubrika/",
       "category" : "stránka",
-      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI Anthropic představil Cowork, Claude Code pro ty ostatní... (12.01.2026) Meta údajně trénuje nový model na čínském Qwen. Jak si stojí v AI závodu? (16.12.2025) 🤖 Tohle je Game Changing AI workflow 🤡 (15.12.2025) 💰 Nový LLM OpenAI GPT-5.2 je superschopný a..."
+      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI Závod o vaše zdravotní záznamy (14.01.2026) Anthropic představil Cowork, Claude Code pro ty ostatní... (12.01.2026) Meta údajně trénuje nový model na čínském Qwen. Jak si stojí v AI závodu? (16.12.2025) 🤖 Tohle je Game Changing AI workflow 🤡 (15.12.2025) 💰 Nový..."
     }
     
   
@@ -26765,7 +26774,7 @@
       "title"    : "Tech News Health Status",
       "url"      : "/health-status/",
       "category" : "stránka",
-      "content"  : "🏥 Tech News Health &amp; Pipeline Status Status: WARNING Poslední kontrola: 14.01.2026 05:16 Summary: Status: WARNING | Články 24h: 0 | Čeština: 100.0% | Alerty: 3 📈 30denní přehled (30 dní) Nově vygenerováno (30 dní) ℹ️ 1081 Denní průměr: 34.9 LLM náklady $283.61 Celkem za období API dotazy 8832 Sessions: 181 Přeskočeno 7751 Hlavně: low_importance 🔄 Processing Pipeline (30 dní) 📥 API Fetch 8832 ⏭️ Přeskočeno (filtry) 7751 💾 Uloženo 1081 (12.2%) 📊 Denní statistiky (posledních 14 dní) Datum Fetched Saved Skipped Cost Success 2026-01-14 97 14 83 $3.0793 100% 2026-01-13 244 46 198 $7.7801 100% 2026-01-12 291 34 257..."
+      "content"  : "🏥 Tech News Health &amp; Pipeline Status Status: WARNING Poslední kontrola: 14.01.2026 16:51 Summary: Status: WARNING | Články 24h: 0 | Čeština: 100.0% | Alerty: 3 📈 30denní přehled (30 dní) Nově vygenerováno (30 dní) ℹ️ 1093 Denní průměr: 35.3 LLM náklady $286.88 Celkem za období API dotazy 8926 Sessions: 183 Přeskočeno 7833 Hlavně: low_importance 🔄 Processing Pipeline (30 dní) 📥 API Fetch 8926 ⏭️ Přeskočeno (filtry) 7833 💾 Uloženo 1093 (12.2%) 📊 Denní statistiky (posledních 14 dní) Datum Fetched Saved Skipped Cost Success 2026-01-14 191 26 165 $6.3515 100% 2026-01-13 244 46 198 $7.7801 100% 2026-01-12 291 34 257..."
     }
     
   
@@ -27793,7 +27802,7 @@
       "title"    : "Seznam kategorií",
       "url"      : "/kategorie/",
       "category" : "stránka",
-      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 258 - UMTS: 8 - 3G: 11 - Turboúvod do mobilních sítí: 8 - Historie: 7 - Startupy: 36 - Mobilní sítě: 45 - SMS: 3 - Média: 30 - Apple: 109 - Příběhy: 41 - Sociální sítě: 65 - Knihy: 24 - eKnihy: 7 - Konference: 4 - Twitter: 3 - Video: 5 - iPhone: 20 - Flash: 3 - O2: 3 - Google: 76 - Nova: 4 - Weblogy: 8 - Ufon: 6 - CDMA: 6 - LTE: 10 - 4G: 6..."
+      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 259 - UMTS: 8 - 3G: 11 - Turboúvod do mobilních sítí: 8 - Historie: 7 - Startupy: 36 - Mobilní sítě: 45 - SMS: 3 - Média: 30 - Apple: 109 - Příběhy: 41 - Sociální sítě: 65 - Knihy: 24 - eKnihy: 7 - Konference: 4 - Twitter: 3 - Video: 5 - iPhone: 20 - Flash: 3 - O2: 3 - Google: 76 - Nova: 4 - Weblogy: 8 - Ufon: 6 - CDMA: 6 - LTE: 10 - 4G: 6..."
     }
     
   
@@ -31248,6 +31257,90 @@
         "url"      : "/tech-news/2026-01-13/hegseth-joins-musk-at-spacex-pledges-elon-style-ap/",
         "category" : "tech_news",
         "content"  : "SouhrnPete Hegseth, nově jmenovaný ministr války v administrativě prezidenta Trumpa, navštívil ústředí SpaceX v texaském Starbase a společně s Elonem Muskem oznámil plány na transformaci Pentagonu. Slibuje „muskovský“ přístup k inovacím, včetně nasazení AI modelu Grok od xAI příští měsíc, aby USA překonaly protivníky v oblastech jako umělá inteligence, hypersonické systémy a vesmírné technologie. Cílem je přestat s „mírovým vědeckým veletrhem“ a vstoupit do „válečného zbrojního závodu“.Klíčové body Hegseth použil vulkánský pozdrav z Star Treku a opakoval Muskovu frázi „udělat Star Trek skutečností“. Pentagon nasadí AI model Grok, vyvinutý xAI (firmou Elona Muska zaměřenou na pokročilou umělou inteligenci), pro vojenské..."
+      }
+      
+      ,{
+        "title"    : "Co se můžeme naučit z toho, jak útočníci využívali AI v roce 2025?",
+        "url"      : "/tech-news/2026-01-13/what-should-we-learn-from-how-attackers-leveraged/",
+        "category" : "tech_news",
+        "content"  : "SouhrnV roce 2025 útočníci efektivně využívali AI k zesílení tradičních kybernetických taktik, což umožnilo masivní škálování útoků bez nutnosti vymýšlet zcela nové metody. Místo exotických hrozeb jako kvantové útoky nebo pokročilé zero-trust architektury se zaměřili na optimalizaci základů, jako je phishing, reconnaissance a automatizace exploitů. Tento trend zdůrazňuje, že obrana by měla vrátit pozornost k základním principům, jako je Zero Trust model.Klíčové body Útočníci používali GenAI k generování personalizovaných phishingových zpráv v miliardovém objemu, což zvýšilo úspěšnost útoků o řády. LLM modely sloužily k automatizované analýze cílových sítí a tvorbě exploitů, urychlující celý cyklus útoku. Zero Trust Everywhere přineslo ochranu..."
+      }
+      
+      ,{
+        "title"    : "Elon Musk radí nekupovat Tesla Roadster, pokud vám záleží na bezpečnosti",
+        "url"      : "/tech-news/2026-01-13/elon-musk-implores-you-not-to-buy-a-tesla-roadster/",
+        "category" : "tech_news",
+        "content"  : "SouhrnElon Musk v podcastu Moonshots s Peterem Diamandisem uvedl, že projekt Tesla Roadster nemá bezpečnost jako hlavní cíl, podobně jako u sportovních aut typu Ferrari. Roadster má být odhalen 1. dubna tohoto roku a představuje podle Muska vrchol éry vozidel řízených lidmi, než se Tesla plně zaměří na autonomní jízdu.Klíčové body Bezpečnost není prioritou projektu, Musk porovnává Roadster s Ferrari. Cíl je „nezabít nikoho v tomto autě“, ale zaměření je na výkon. Roadster bude „nejlepší z posledních aut řízených člověkem”. Speciifikace zahrnují zrychlení 0-100 km/h pod jednu sekundu díky thrusterům, maximální rychlost přes 400 km/h a točivý moment 10 000..."
+      }
+      
+      ,{
+        "title"    : "Velká Británie zakazuje deepfake akty na X po skandálu s Grok AI – Promiň, Elone, nejde o potlačení svobody slova",
+        "url"      : "/tech-news/2026-01-13/the-uk-outlaws-deepfake-nudes-on-x-after-grok-ai-u/",
+        "category" : "tech_news",
+        "content"  : "SouhrnVelká Británie aktivuje zákon zakazující nekonzentační deepfake intimní obrázky po kontroverzi s AI chatbotem Grok na platformě X, který generoval explicitní sexuální obsah z fotografií uživatelů. Tato regulace přichází v reakci na vyšetřování Ofcom, které zkoumá, zda X porušil Online Safety Act. Elon Musk obviňuje kritiky z cenzury, ale zákon se zaměřuje na ochranu soukromí a prevenci zneužití AI.Klíčové body Grok AI na X reagoval na požadavky uživatelů generováním tisíců explicitních obrázků na hodinu, včetně nezletilých. X reagoval odstraněním obsahu, banem účtů a spoluprací s policií, ale viní uživatele. Ofcom zahájil vyšetřování s možnými pokutami až 18 milionů liber nebo..."
+      }
+      
+      ,{
+        "title"    : "Gráinne Seoige volá po okamžité akci proti AI aplikacím umožňujícím sexuální zneužívací obrázky",
+        "url"      : "/tech-news/2026-01-13/gr%C3%A1inne-seoige-calls-for-urgent-action-on-ai-apps/",
+        "category" : "tech_news",
+        "content"  : "SouhrnIrská politička a bývalá televizní moderátorka Gráinne Seoige volá po urgentních legislativních reformách kvůli aplikacím AI, které umožňují tvorbu nekonzensuálních sexuálních obrázků. Během své volební kampaně v roce 2024 byla obětí takzvané „nudification“ technologie, která odhaluje oblečení na fotografiích. Nedávný incident s AI modelem Grok od xAI, použitým k generování podobného obsahu, jen podtrhuje rostoucí rizika.Klíčové body Gráinne Seoige byla během kampaně v Galway West terčem falešných sexuálních obrázků vytvořených AI. Kritizuje rychlost vývoje AI oproti pomalé legislativě a volá po okamžitých opatřeních. Souvisí s nedávným zneužitím Grok, AI chatbota od xAI (společnosti Elona Muska), který generoval nekonzensuální sexuální obrázky..."
+      }
+      
+      ,{
+        "title"    : "Všichni se od Groka distancují. Pete Hegseth ho vpustil do armády",
+        "url"      : "/tech-news/2026-01-13/everyone-is-distancing-themselves-from-grok-pete-h/",
+        "category" : "tech_news",
+        "content"  : "SouhrnMinistr obrany USA Pete Hegseth oznámil integraci chatbota Grok od společnosti xAI do nové vnitřní AI platformy Pentagonu nazvané GenAI.mil. Grok bude společně s modelem Gemini od Google k dispozici na neklasifikovaných i klasifikovaných sítích armády. Oznámení proběhlo na centrále SpaceX v jižním Texasu za účasti Elona Muska.Klíčové body Grok získá přístup k vojenským datům na všech úrovních sítí Pentagonu. Platforma GenAI.mil integruje více AI modelů pro interní použití v armádě. Elon Musk otevřel událost diskusí o SpaceX a vizi Star Treku, Hegseth předvedl vulkánský pozdrav. Grok má historii kontroverzí, včetně šíření dezinformací a nevhodného obsahu. Nasazení proběhne ještě tento..."
+      }
+      
+      ,{
+        "title"    : "Nákup v chatu: Google přidává Checkout do Gemini a AI režimu vyhledávání",
+        "url"      : "/tech-news/2026-01-13/buy-in-chat-google-adds-checkout-to-gemini-and-sea/",
+        "category" : "tech_news",
+        "content"  : "SouhrnGoogle zavádí funkci Checkout do svého AI chatbota Gemini a do AI režimu Google Vyhledávání. Tato novinka umožňuje americkým uživatelům dokončit nákup produktů přímo v chatu nebo vyhledávacím okně bez přechodu na externí webové stránky. Současně představuje Universal Commerce Protocol (UCP), otevřený standard pro integraci AI agentů s platebními systémy a online obchody.Klíčové body Funkce Checkout je dostupná v Gemini a AI režimu Google Vyhledávání pro uživatele v USA. Platby lze provést pomocí Google Pay nebo PayPal. Universal Commerce Protocol (UCP) vyvinutý ve spolupráci s prodejci jako Shopify, Etsy, Walmart a Target. Podpora od více než 20 společností včetně Mastercard..."
+      }
+      
+      ,{
+        "title"    : "Apple volí Google Gemini místo OpenAI pro budoucí Siri a AI funkce",
+        "url"      : "/tech-news/2026-01-13/apple-chooses-google-gemini-over-openai-for-future/",
+        "category" : "tech_news",
+        "content"  : "SouhrnApple potvrdilo víceletou dohodu s Googlem na použití modelu Gemini jako základu pro své Apple Foundation Models. Tato spolupráce ovlivní kompletní přepracování Siri a rozšíří se na další funkce Apple Intelligence v systémech iOS, iPadOS a macOS. Integrace ChatGPT z roku 2024 zůstane dostupná jako volitelný nástroj pro složité uživatelské dotazy.Klíčové body Gemini se stane základem pro Siri a systémové AI funkce Apple, nikoli ChatGPT. Rozhodnutí vychází z hodnocení schopností modelů, ne z nákladů nebo pohodlí. Data uživatelů zůstanou zpracovávána na zařízeních Apple nebo v jeho Private Cloud Compute, ne na serverech Google. Apple si zachová kontrolu nad designem Siri,..."
+      }
+      
+      ,{
+        "title"    : "Jsem celoživotní uživatel iPhonu, ale několik měsíců s Gemini na Androidu mi ukázalo, proč je partnerství Apple a Google v AI klíčové",
+        "url"      : "/tech-news/2026-01-13/im-a-lifelong-iphone-user-but-a-few-months-with-ge/",
+        "category" : "tech_news",
+        "content"  : "SouhrnApple a Google oznámily víceletou spolupráci, v rámci níž budou další generace Apple Foundation Models postaveny na modelech Gemini od Google a jeho cloudové infrastruktuře. Tyto modely pohání budoucí funkce Apple Intelligence, včetně personalizovanější verze hlasového asistenta Siri, která má přijít letos. Partnerství přichází po opakovaných zprávách o jednáních a signalizuje, že Apple potřebuje externí AI technologie k udržení konkurenceschopnosti.Klíčové body Apple Foundation Models budou založeny na Gemini modelech a Google cloud technologii. Partnerství umožní vývoj pokročilejších funkcí Apple Intelligence, jako je vylepšená Siri s lepší personalizací. Oznámení přichází krátce po spekulacích z minulého roku a potvrzuje zpoždění Apple v..."
+      }
+      
+      ,{
+        "title"    : "Ochrante svou WAN síť před hrozbami kvantových počítačů",
+        "url"      : "/tech-news/2026-01-13/safeguard-your-wan-from-quantum-computing-threats/",
+        "category" : "tech_news",
+        "content"  : "SouhrnKvantové počítače představují reálnou hrozbu pro současné šifrovací metody založené na veřejném klíči, které chrání data přenášená WAN sítěmi. Útoky typu harvest now, decrypt later (HNDL) umožňují útočníkům sbírat šifrovaný provoz nyní a dešifrovat ho později pomocí kryptograficky relevantního kvantového počítače (CRQC). Cisco řada 8000 Series Secure Routers zavádí post-quantum cryptography (PQC) prostřednictvím post-quantum předem sdílených klíčů, což poskytuje okamžitou ochranu pro kritické sítě.Klíčové body Současné asymetrické šifrování (RSA, ECC) je zranitelné vůči kvantovým algoritmům jako Shor’s algorithm. HNDL útoky cílí na dlouhodobě citlivá data v WAN, kde útočníci zachytí šifrovaný provoz a veřejné klíče pro budoucí dešifrování. WAN sítě..."
+      }
+      
+      ,{
+        "title"    : "Pentagon oznámil novou strategii pro akceleraci umělé inteligence",
+        "url"      : "/tech-news/2026-01-13/pentagon-announces-new-ai-acceleration-strategy/",
+        "category" : "tech_news",
+        "content"  : "SouhrnMinisterstvo obrany USA (Pentagon) oznámilo strategii pro urychlené nasazení umělé inteligence v armádě, s cílem vytvořit ‘AI-first’ bojovou sílu napříč všemi operačními doménami. Iniciativa, schválená prezidentem Donaldem Trumpem, počítají s investicemi do výpočetního výkonu pro AI a využitím soukromého kapitálu v řádu stovek miliard dolarů. Klíčovým bodem je také odstranění tzv. ‘woke DEI’ prvků z vojenských AI systémů.Klíčové body Sedm iniciaálních projektů pro zlepšení bojových taktik, simulací, zpracování zpravodajství a vývoje zbraní. Automatizace vnitřních administrativních procesů a workflowů v armádě. Rozšíření přístupu k výpočetnímu výkonu pro AI, včetně spolupráce se soukromým sektorem. Nařízení k odstranění diverzitních, inkluzivních a rovnostářských (DEI)..."
+      }
+      
+      ,{
+        "title"    : "Elon Musk: Hlavním cílem SpaceX je uskutečnit Star Trek",
+        "url"      : "/tech-news/2026-01-13/elon-says-spacexs-core-purpose-is-to-make-star-tre/",
+        "category" : "tech_news",
+        "content"  : "SouhrnElon Musk na události s přítomností vrcholových představitelů Pentagonu prohlásil, že hlavním účelem SpaceX je uskutečnit vizi Star Treku, včetně velkých kosmických lodí pro cestování na Měsíc, Mars a dál. Současně oznámil integraci modelu Grok od xAI do armádní platformy GenAI.mil, která poskytne přístup k špičkovým AI modelům na všech sítích amerického ministerstva obrany. Tato iniciativa je součástí širší strategie akcelerace umělé inteligence v armádě.Klíčové body SpaceX a americká vláda chtějí proměnit sci-fi v realitu, včetně výstavby Starfleet Academy a průzkumu vesmíru. Model Grok od xAI se připojí k GenAI.mil a bude dostupný na neveřejných i tajných sítích ministerstva obrany...."
+      }
+      
+      ,{
+        "title"    : "Ředitelé HR a Jamie Dimon tvrdí, že AI neumůže naučit lidské dovednosti. Nejmladší self-made miliardáři na světě to chtějí vyvrátit",
+        "url"      : "/tech-news/2026-01-13/chief-people-officersand-jamie-dimonsay-ai-cant-le/",
+        "category" : "tech_news",
+        "content"  : "SouhrnStartup Mercor ze San Francisca vyzývá výroky lídrů jako Jamie Dimon z JP Morgan a Satya Nadella z Microsoftu, kteří tvrdí, že umělá inteligence nikdy nenaučí emoční inteligenci, kritické myšlení či jiné lidské dovednosti. Tři 22letí zakladatelé firmy, kteří se po valuaci 10 miliard dolarů stali nejmladšími self-made miliardáři, najímají profesionály z různých oborů na vysoce placené gigové úkoly, aby trénovali AI modely na principy jako soudnost, nuance a vkus. Cílem je uzavřít poslední mezeru mezi stroji a lidmi a urychlit automatizaci kancelářských prací.Klíčové body Jamie Dimon a Satya Nadella argumentují, že emoční inteligence (EQ) a kritické myšlení přežijí vlnu..."
       }
       
     
