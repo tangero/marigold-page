@@ -1,7 +1,175 @@
 {
-  "generated": "2026-01-14T12:56:14.865417+00:00",
-  "count": 178,
+  "generated": "2026-01-14T16:51:15.058660+00:00",
+  "count": 186,
   "articles": [
+    {
+      "title": "Ředitelé HR a Jamie Dimon tvrdí, že AI neumůže naučit lidské dovednosti. Nejmladší self-made miliardáři na světě to chtějí vyvrátit",
+      "description": "Kolik stojí trénink AI, která vám vezme práci? Firma Mercor nabízí gigové zakázky pro profesionály až za 150 dolarů za hodinu, aby naučila modely umělé inteligence soudnost a nuance.",
+      "slug": "chief-people-officersand-jamie-dimonsay-ai-cant-le",
+      "publishedAt": "2026-01-13T16:07:34+00:00",
+      "date": "2026-01-13 16:07:34",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/11/Mercor-Founders-Adarsh-Hiremath-Brendan-Foody-e1762888211209.jpg?resize=1200,600",
+      "url": "/tech-news/2026-01-13/chief-people-officersand-jamie-dimonsay-ai-cant-le/",
+      "source": {
+        "emoji": "📰",
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "companies": [
+        "Mercor"
+      ],
+      "people": [
+        "Jamie Dimon"
+      ]
+    },
+    {
+      "title": "Elon Musk: Hlavním cílem SpaceX je uskutečnit Star Trek",
+      "description": "Elon Musk prohlásil, že jádrem poslání SpaceX je proměnit Star Trek v realitu. Americká vláda a SpaceX spolupracují na transformaci vědy fikce na skutečnost, přičemž model Grok od xAI se připojí k platformě GenAI.mil a spustí tento měsíc.",
+      "slug": "elon-says-spacexs-core-purpose-is-to-make-star-tre",
+      "publishedAt": "2026-01-13T16:03:59+00:00",
+      "date": "2026-01-13 16:03:59",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/01/Screenshot-2026-01-13-at-8.03.31-AM.jpg",
+      "url": "/tech-news/2026-01-13/elon-says-spacexs-core-purpose-is-to-make-star-tre/",
+      "source": {
+        "emoji": "📰",
+        "id": "next-big-future",
+        "name": "Next Big Future"
+      },
+      "companies": [
+        "SpaceX",
+        "xAI"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Pentagon oznámil novou strategii pro akceleraci umělé inteligence",
+      "description": "Ministerstvo obrany USA spustilo novou strategii pro rychlou integraci umělé inteligence do armády, aby se stalo 'AI-first' silou. Plán, nařízený prezidentem Donaldem Trumpem, zahrnuje sedm projektů zaměřených na bojové schopnosti, zpracování zpravodajství a automatizaci administrativy.",
+      "slug": "pentagon-announces-new-ai-acceleration-strategy",
+      "publishedAt": "2026-01-13T16:00:37+00:00",
+      "date": "2026-01-13 16:00:37",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://mf.b37mrtl.ru/files/2026.01/article/69666b4120302777f704cdb4.jpg",
+      "url": "/tech-news/2026-01-13/pentagon-announces-new-ai-acceleration-strategy/",
+      "source": {
+        "emoji": "📰",
+        "id": "rt",
+        "name": "RT"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Ochrante svou WAN síť před hrozbami kvantových počítačů",
+      "description": "Kvantové počítače prolomí současné šifrování veřejným klíčem, což činí provoz WAN sítí zvláště zranitelným vůči útokům harvest now, decrypt later (HNDL). Nové bezpečné routry řady Cisco 8000 Series umožňují brzkou ochranu proti kvantovým hrozbám pomocí post-quantum předem sdílených klíčů.",
+      "slug": "safeguard-your-wan-from-quantum-computing-threats",
+      "publishedAt": "2026-01-13T16:00:31+00:00",
+      "date": "2026-01-13 16:00:31",
+      "importance": 5,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/01/PQC-blog-feature.png",
+      "url": "/tech-news/2026-01-13/safeguard-your-wan-from-quantum-computing-threats/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Cisco.com"
+      },
+      "companies": [
+        "Cisco"
+      ],
+      "people": []
+    },
+    {
+      "title": "Jsem celoživotní uživatel iPhonu, ale několik měsíců s Gemini na Androidu mi ukázalo, proč je partnerství Apple a Google v AI klíčové",
+      "description": "Apple a Google uzavřely partnerství, podle něhož budou Apple Foundation Models založeny na modelech Gemini. Tento krok ovlivní funkce Apple Intelligence včetně vylepšené Siri a posiluje pozici iPhonu v AI ekosystému.",
+      "slug": "im-a-lifelong-iphone-user-but-a-few-months-with-ge",
+      "publishedAt": "2026-01-13T16:00:00+00:00",
+      "date": "2026-01-13 16:00:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/G4PLUNgTX7brYQSsr864qW-1920-80.jpg",
+      "url": "/tech-news/2026-01-13/im-a-lifelong-iphone-user-but-a-few-months-with-ge/",
+      "source": {
+        "emoji": "📰",
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "companies": [
+        "Apple",
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Apple volí Google Gemini místo OpenAI pro budoucí Siri a AI funkce",
+      "description": "Apple potvrdilo víceletou dohodu s Googlem, podle níž budou další generace Apple Foundation Models založeny na technologii Gemini AI. Partnerství pohání přepracovanou Siri a další funkce Apple Intelligence, přičemž ChatGPT zůstane volitelnou volbou.",
+      "slug": "apple-chooses-google-gemini-over-openai-for-future",
+      "publishedAt": "2026-01-13T15:53:20+00:00",
+      "date": "2026-01-13 15:53:20",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.ghacks.net/wp-content/uploads/2026/01/gHacks-articles-87.png",
+      "url": "/tech-news/2026-01-13/apple-chooses-google-gemini-over-openai-for-future/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Ghacks Technology News"
+      },
+      "companies": [
+        "Apple",
+        "Google",
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nákup v chatu: Google přidává Checkout do Gemini a AI režimu vyhledávání",
+      "description": "Google spouští funkci Checkout v AI chatbota Gemini i v AI režimu Google Vyhledávání, což umožňuje uživatelům nakupovat produkty přímo v konverzaci bez opuštění rozhraní. Platby probíhají přes Google Pay nebo PayPal a novinka je podpořena otevřeným standardem Universal Commerce Protocol.",
+      "slug": "buy-in-chat-google-adds-checkout-to-gemini-and-sea",
+      "publishedAt": "2026-01-13T15:52:46+00:00",
+      "date": "2026-01-13 15:52:46",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.pcworld.com/wp-content/uploads/2026/01/Gemini-3.jpeg?quality=50&strip=all&w=1024",
+      "url": "/tech-news/2026-01-13/buy-in-chat-google-adds-checkout-to-gemini-and-sea/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "PCWorld"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Všichni se od Groka distancují. Pete Hegseth ho vpustil do armády",
+      "description": "Z centrály SpaceX oznámil ministr obrany Pete Hegseth, že Grok bude součástí nové vnitřní AI platformy americké armády GenAI.mil. Tento krok vyvolává otázky ohledně bezpečnosti a spolehlivosti modelu s kontroverzní historií.",
+      "slug": "everyone-is-distancing-themselves-from-grok-pete-h",
+      "publishedAt": "2026-01-13T15:47:42+00:00",
+      "date": "2026-01-13 15:47:42",
+      "importance": 4,
+      "category": "vojenská ai",
+      "urlToImage": "https://img.pastemagazine.com/wp-content/juploads/2026/01/Screenshot-2026-01-13-at-7.12.30-PM.jpg",
+      "url": "/tech-news/2026-01-13/everyone-is-distancing-themselves-from-grok-pete-h/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Jezebel"
+      },
+      "companies": [
+        "SpaceX"
+      ],
+      "people": [
+        "Pete Hegseth"
+      ]
+    },
     {
       "title": "Gráinne Seoige volá po okamžité akci proti AI aplikacím umožňujícím sexuální zneužívací obrázky",
       "description": "Technologie AI se vyvíjí rychleji než naše zákony a oběti za to platí, uvedla Seoige. Bývalá moderátorka a kandidátka Fianna Fáil sdílela svůj traumatický zážitek s deepfake obrázky.",
