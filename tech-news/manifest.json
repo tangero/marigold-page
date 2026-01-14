@@ -1,7 +1,176 @@
 {
-  "generated": "2026-01-14T01:24:20.697290+00:00",
+  "generated": "2026-01-14T05:16:36.232483+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Hegseth se připojuje k Muskovi ve SpaceX, slibuje ‚muskovský‘ přístup k rozvoji technologií v Pentagonu a chce uskutečnit Star Trek",
+      "description": "Pete Hegseth navštívil SpaceX a společně s Elonem Muskem slíbil radikální reformu Pentagonu inspirovanou stylem SpaceX. Zdůraznil nutnost nasadit AI model Grok a zaměřit se na klíčové technologie, aby USA vyhrály technologickou nadvládu.",
+      "slug": "hegseth-joins-musk-at-spacex-pledges-elon-style-ap",
+      "publishedAt": "2026-01-13T03:55:28+00:00",
+      "date": "2026-01-13 03:55:28",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/01/https-x-com-dowresponse-status-118810708_4f017f.jpg?quality=75&strip=all&w=1200",
+      "url": "/tech-news/2026-01-13/hegseth-joins-musk-at-spacex-pledges-elon-style-ap/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "New York Post"
+      },
+      "companies": [
+        "SpaceX"
+      ],
+      "people": [
+        "Hegseth",
+        "Musk"
+      ]
+    },
+    {
+      "title": "Apple potvrdilo dlouhodobou smlouvu s Google na bázi Gemini pro své AI základní modely včetně nové Siri",
+      "description": "Apple a Google uzavřely víceletou spolupráci, podle níž budou další generace Apple základních modelů postaveny na modelech Gemini od Google a jejich cloudové technologii. Tato dohoda posílí funkce Apple Intelligence, včetně vylepšené verze Siri, která má být spuštěna v roce 2026.",
+      "slug": "蘋果確認與google簽署長約以gemini為基礎打造包含新版siri在內的蘋果ai基礎模型",
+      "publishedAt": "2026-01-13T03:38:00+00:00",
+      "date": "2026-01-13 03:38:00",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://bucket-image.inkmaginecms.com/version/social/9dde7c0f-a597-445c-80dd-9a93db8a4006/image/2026/01/5821f0cc-f9be-4bde-b662-741140b0d7af.jpg",
+      "url": "/tech-news/2026-01-13/蘋果確認與google簽署長約以gemini為基礎打造包含新版siri在內的蘋果ai基礎模型/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Cool3c.com"
+      },
+      "companies": [
+        "Apple",
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Proč Apple požádal Google o pomoc s vylepšením Siri a přidáním dalších AI funkcí do iPhonu",
+      "description": "Apple uzavřel dohodu s Googlem, která umožní využít technologii Gemini k přizpůsobení AI funkcí nazvaných Apple Intelligence na iPhone a dalších zařízeních. Tento krok pomůže Applu dohnat zpoždění v oblasti umělé inteligence, zejména u vylepšení virtuálního asistenta Siri.",
+      "slug": "why-apple-has-called-on-google-to-help-smarten-up-",
+      "publishedAt": "2026-01-13T03:05:26+00:00",
+      "date": "2026-01-13 03:05:26",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-37762,resizemode-75,msid-126495889/tech/artificial-intelligence/why-apple-has-called-on-google-to-help-smarten-up-siri-and-bring-other-ai-features-to-the-iphone.jpg",
+      "url": "/tech-news/2026-01-13/why-apple-has-called-on-google-to-help-smarten-up/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Apple",
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "IPO Amagi Media Labs: Běží ocenění před zisky u tohoto SaaS hráče?",
+      "description": "Založená v roce 2008, Amagi je B2B technologická společnost, která pomáhá vlastníkům médií a vysílačům provozovat reklamně podporované televizní kanály na internetu.",
+      "slug": "amagi-media-labs-ipo-is-the-valuation-running-ahea",
+      "publishedAt": "2026-01-13T02:56:55+00:00",
+      "date": "2026-01-13 02:56:55",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/1s0c6w/article70503904.ece/alternates/LANDSCAPE_1200/IPO.jfif",
+      "url": "/tech-news/2026-01-13/amagi-media-labs-ipo-is-the-valuation-running-ahea/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "companies": [
+        "Amagi Media Labs"
+      ],
+      "people": []
+    },
+    {
+      "title": "OpenAI získává zdravotnický startup Torch za 100 milionů dolarů",
+      "description": "Torch je malý startup v oblasti zdravotnických technologií, který sjednocuje roztříštěná medicínská data, jako výsledky laboratorních testů, údaje o lécích a záznamy z lékařských návštěv, do jediného systému čitelného pro umělou inteligenci. OpenAI toto akvizice integruje do funkce ChatGPT Health pro lepší analýzu osobních zdravotních dat.",
+      "slug": "openai-acquires-healthcare-startup-torch-deal-pegg",
+      "publishedAt": "2026-01-13T02:56:48+00:00",
+      "date": "2026-01-13 02:56:48",
+      "importance": 4,
+      "category": "zdravotnické ai",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-10304,resizemode-75,msid-126495788/tech/startups/openai-acquires-healthcare-startup-torch-deal-pegged-at-100-million.jpg",
+      "url": "/tech-news/2026-01-13/openai-acquires-healthcare-startup-torch-deal-pegg/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "OpenAI",
+        "Torch"
+      ],
+      "people": []
+    },
+    {
+      "title": "Appleův největší tah v AI dosud – Google Gemini pohání novou Siri a Apple Intelligence",
+      "description": "Apple potvrdil spolupráci s Googlem, díky níž model Gemini napájí příští generaci Siri a funkcí Apple Intelligence. Tato aliance představuje významný upgrade umělé inteligence v Apple zařízeních ještě letos.",
+      "slug": "apple-biggest-ai-move-yet-google-gemini-will-power",
+      "publishedAt": "2026-01-13T02:32:19+00:00",
+      "date": "2026-01-13 02:32:19",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": null,
+      "url": "/tech-news/2026-01-13/apple-biggest-ai-move-yet-google-gemini-will-power/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "companies": [
+        "Apple",
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Francouzská stíhačková společnost Dassault investuje 200 milionů dolarů do startupu na autonomní drony Harmattan AI",
+      "description": "Francouzský startup Harmattan AI, který vyvíjí autonomní drony pro evropské armády, získal 200 milionů dolarů v kolu Series B. Kolo vedla výrobce stíhaček a firemních tryskáčů Dassault Aviation SA, čímž se celková získaná částka zvýšila na 242 milionů dolarů při valuaci 1,4 miliardy dolarů.",
+      "slug": "french-fighter-company-dassault-invests-200m-in-au",
+      "publishedAt": "2026-01-13T01:51:39+00:00",
+      "date": "2026-01-13 01:51:39",
+      "importance": 4,
+      "category": "autonomní drony",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/Screenshot-from-2026-01-13-08-49-18.png",
+      "url": "/tech-news/2026-01-13/french-fighter-company-dassault-invests-200m-in-au/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Harmattan AI",
+        "Dassault Aviation SA"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nárůst Alphabetu na 4 biliony dolarů upevňuje postavení vítěze v AI boomu",
+      "description": "Alphabet Inc. překročil tržní kapitalizaci 4 bilionů dolarů a stal se jedním z klíčových hráčů v éře umělé inteligence. Partnerství s Applem a silný růst akcií ho staví do pozice dominantního aktéra v AI, který předčí konkurenci.",
+      "slug": "alphabets-rise-to-4-trillion-cements-status-as-ai-",
+      "publishedAt": "2026-01-13T01:49:16+00:00",
+      "date": "2026-01-13 01:49:16",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2026/01/13/1600x900/logo/GOOGLE-DATA-0_1768268638891_1768268664682.jpg",
+      "url": "/tech-news/2026-01-13/alphabets-rise-to-4-trillion-cements-status-as-ai/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Livemint"
+      },
+      "companies": [
+        "Alphabet",
+        "Apple"
+      ],
+      "people": []
+    },
     {
       "title": "Smlouva Google–Apple v oblasti AI signalizuje novou fázi soutěže mimo modely",
       "description": "Google a Apple uzavřely víceletou spolupráci, podle níž další generace modelů Apple Foundation Models budou postaveny na modelech Gemini od Google a jeho cloudové technologii. Partnerství má podpořit budoucí funkce Apple Intelligence, jako jsou nástroje pro generování textu, obrázků a personalizované asistenci.",
@@ -3484,26 +3653,6 @@
       ]
     },
     {
-      "title": "Nepřirozené nové demo robota od Boston Dynamics vyvolává husí kůži",
-      "description": "Nemůžete napsat „demonstraci“ bez „démóna“. Článek se poprvé objevil na Futurism.",
-      "slug": "boston-dynamics-unnatural-new-robot-demo-will-give",
-      "publishedAt": "2026-01-07T16:11:21+00:00",
-      "date": "2026-01-07 16:11:21",
-      "importance": 5,
-      "category": "robotika",
-      "urlToImage": "https://futurism.com/wp-content/uploads/2026/01/boston-dynamics-new-demo.jpg?w=1200",
-      "url": "/tech-news/2026-01-07/boston-dynamics-unnatural-new-robot-demo-will-give/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Futurism"
-      },
-      "companies": [
-        "Boston Dynamics"
-      ],
-      "people": []
-    },
-    {
       "title": "Micron zahajuje stavbu historické megafab v New Yorku",
       "description": "Společnost Micron Technology 16. ledna 2026 zahájí stavbu své megafab v Onondaga County v New Yorku po dokončení environmentálních posudků a získání povolení. Projekt představuje největší soukromou investici v historii státu a bude vyrábět pokročilé paměti pro AI systémy.",
       "slug": "pr-micron-announces-groundbreaking-for-historic-ne",
@@ -3561,27 +3710,6 @@
       },
       "companies": [],
       "people": []
-    },
-    {
-      "title": "AI Grok od Elona Muska čelí kritice kvůli sexualizovaným obrázkům Ashley St Clair",
-      "description": "AI Grok od Elona Muska se dostal pod drobnohled poté, co Ashley St Clair obviňuje chatbot z opakovaného generování sexualizovaných obrázků jí bez souhlasu. Tato kauza oživuje obavy z bezpečnosti umělé inteligence, souhlasu a nedostatečné regulace.",
-      "slug": "elon-musks-grok-ai-faces-backlash-over-sexualised-",
-      "publishedAt": "2026-01-07T12:15:36+00:00",
-      "date": "2026-01-07 12:15:36",
-      "importance": 4,
-      "category": "ai bezpečnost",
-      "urlToImage": "https://d.ibtimes.com/en/full/4639566/elon-musk-grok-ai.jpg",
-      "url": "/tech-news/2026-01-07/elon-musks-grok-ai-faces-backlash-over-sexualised/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "International Business Times"
-      },
-      "companies": [],
-      "people": [
-        "Elon Musk",
-        "Ashley St Clair"
-      ]
     },
     {
       "title": "xAI získává 20 miliard dolarů: Elon Musk slaví investiční úspěch, který může přetvořit sílu AI",
@@ -3775,26 +3903,6 @@
       "people": []
     },
     {
-      "title": "CES 2026: Nvidia představuje Alpamayo a zdůrazňuje čínské ambice v autonomním řízení",
-      "description": "Na veletrhu CES 2026 v Las Vegas Nvidia oficiálně uvedla svou novou platformu Alpamayo pro autonomní řízení, která představuje přechod od systémů založených na vnímání k systémům zaměřeným na uvažování. Tento krok podle expertů signalizuje rostoucí ambice Číny v oblasti samojezdných vozidel.",
-      "slug": "ces-2026-nvidias-alpamayo-launch-spotlights-chinas",
-      "publishedAt": "2026-01-07T06:55:43+00:00",
-      "date": "2026-01-07 06:55:43",
-      "importance": 4,
-      "category": "autonomní řízení",
-      "urlToImage": "https://img.digitimes.com/newsshow/20260107pd235_files/1_b.jpg",
-      "url": "/tech-news/2026-01-07/ces-2026-nvidias-alpamayo-launch-spotlights-chinas/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": []
-    },
-    {
       "title": "Lenovo posiluje ambice v AI partnerstvím s Nvidia a představuje osobní AI platformu Qira",
       "description": "Lenovo oznámilo strategické partnerství s Nvidia pro urychlení nasazení AI datových center a představilo Qira, osobní AI platformu pro zařízení Lenovo a Motorola. Oznámení proběhlo na CES v Las Vegas v rámci širší prezentace AI technologií a konceptů.",
       "slug": "lenovo-expands-ai-push-with-nvidia-tie-up-unveils-",
@@ -3858,70 +3966,6 @@
       "people": []
     },
     {
-      "title": "Čína prověřuje akvizici AI startupu Manus společností Meta: FT",
-      "description": "Čínské úřady prověřují akvizici společnosti Meta startupu Manus za 2–3 miliardy dolarů kvůli možným porušením pravidel pro export technologií, informoval Financial Times. Kontrolují, zda přesun zaměstnanců a technologií do Singapuru a následný prodej vyžadoval exportní licenci.",
-      "slug": "china-reviews-metas-purchase-of-ai-startup-manus-f",
-      "publishedAt": "2026-01-07T02:58:56+00:00",
-      "date": "2026-01-07 02:58:56",
-      "importance": 5,
-      "category": "ai",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-173444,resizemode-75,msid-126385692/tech/artificial-intelligence/china-reviews-metas-purchase-of-ai-startup-manus-ft.jpg",
-      "url": "/tech-news/2026-01-07/china-reviews-metas-purchase-of-ai-startup-manus-f/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Meta",
-        "Manus"
-      ],
-      "people": []
-    },
-    {
-      "title": "xAI Elona Muska dokončila kolo financování za 20 miliard dolarů s podporou Nvidia – Vše, co o dohodě potřebujete vědět",
-      "description": "xAI plánovala financování rozdělit na přibližně 7,5 miliardy dolarů vlastního kapitálu a až 12,5 miliardy dolarů dluhu v speciálním účelovém vozidle, podle zprávy agentury Bloomberg.",
-      "slug": "elon-musks-xai-completes-20-billion-funding-round-",
-      "publishedAt": "2026-01-07T02:58:15+00:00",
-      "date": "2026-01-07 02:58:15",
-      "importance": 4,
-      "category": "startupy",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2026/01/07/1600x900/logo/XAI-FUNDING-NVIDIA-0_1767754532670_1767754540095.JPG",
-      "url": "/tech-news/2026-01-07/elon-musks-xai-completes-20-billion-funding-round/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Livemint"
-      },
-      "companies": [
-        "xAI",
-        "Nvidia"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Platforma X Elona Muska zpřístupňuje AI nástroje pro odstranění oblečení",
-      "description": "Grok, nová iniciativa platformy X Elona Muska, přináší do široké veřejnosti AI nástroje schopné odstranit oblečení z obrázků. Tyto dříve placené aplikace z okrajových částí internetu jsou nyní volně dostupné, což vyvolává vážné etické otázky ohledně soukromí a souhlasu.",
-      "slug": "elon-musks-x-makes-ai-clothing-removal-tools-more-",
-      "publishedAt": "2026-01-07T02:54:27+00:00",
-      "date": "2026-01-07 02:54:27",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://i0.wp.com/nextbigwhat.com/wp-content/uploads/2023/03/nextbigwhat-social-media-logo.jpg?fit=1080%2C1080&ssl=1",
-      "url": "/tech-news/2026-01-07/elon-musks-x-makes-ai-clothing-removal-tools-more/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Nextbigwhat.com"
-      },
-      "companies": [],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
       "title": "Zprávy o akvizici Manus společností Meta mají v Washingtonu a Pekingu rozdílný ohlas | TechCrunch",
       "description": "Čínští úředníci prý zkoumají, zda akvizice Meta porušuje exportní kontroly technologií, což by Pekingu poskytlo vliv, který původně neměl.",
       "slug": "metas-manus-news-is-getting-different-receptions-i",
@@ -3938,27 +3982,6 @@
       },
       "companies": [
         "Meta"
-      ],
-      "people": []
-    },
-    {
-      "title": "Čína prověřuje akvizici Meta singapurské AI společnosti Manus: Zpráva",
-      "description": "Čínští úředníci kontrolují koupi Meta AI startupu Manus za 2 miliardy USD kvůli možným porušením předpisů o kontrole technologií, uvedl Financial Times. Kontrola se zaměřuje na přesun zaměstnanců a technologie do Singapuru před prodejem.",
-      "slug": "china-reviews-metas-purchase-of-singapore-based-ai",
-      "publishedAt": "2026-01-07T02:25:18+00:00",
-      "date": "2026-01-07 02:25:18",
-      "importance": 5,
-      "category": "ai",
-      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--MBCKWOEb--/c_crop,h_562,w_1000,x_0,y_19/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/Meta-Lawsuit-Children_36744.jpg?itok=CM6zMr1b",
-      "url": "/tech-news/2026-01-07/china-reviews-metas-purchase-of-singapore-based-ai/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNA"
-      },
-      "companies": [
-        "Meta",
-        "Manus"
       ],
       "people": []
     },
@@ -3994,24 +4017,6 @@
         "emoji": "📰",
         "id": null,
         "name": "New Zealand Herald"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "CES Den 1: Hudba, kterou můžete ochutnat, a roboti na domácí práce",
-      "description": "První den veletrhu CES 2026 přinesl oznámení od Nvidia, AMD a Intel v oblasti čipů a AI platforem. Nvidia se zaměřila na koncept physical AI, ukázala nové modely pro simulace a autonomní řízení a představila malé roboty, kteří přitáhli největší pozornost.",
-      "slug": "ces-day-1-music-you-can-taste-and-chore-robots",
-      "publishedAt": "2026-01-07T00:28:39+00:00",
-      "date": "2026-01-07 00:28:39",
-      "importance": 4,
-      "category": "robotika",
-      "urlToImage": "https://static.the-independent.com/2026/01/06/16/37/AP26005621888149.jpg?width=1200&height=800&crop=1200:800",
-      "url": "/tech-news/2026-01-07/ces-day-1-music-you-can-taste-and-chore-robots/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The-independent.com"
       },
       "companies": [],
       "people": []
