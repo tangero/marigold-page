@@ -1,7 +1,85 @@
 {
-  "generated": "2026-01-14T05:16:36.232483+00:00",
-  "count": 200,
+  "generated": "2026-01-14T12:56:14.865417+00:00",
+  "count": 178,
   "articles": [
+    {
+      "title": "Gráinne Seoige volá po okamžité akci proti AI aplikacím umožňujícím sexuální zneužívací obrázky",
+      "description": "Technologie AI se vyvíjí rychleji než naše zákony a oběti za to platí, uvedla Seoige. Bývalá moderátorka a kandidátka Fianna Fáil sdílela svůj traumatický zážitek s deepfake obrázky.",
+      "slug": "gráinne-seoige-calls-for-urgent-action-on-ai-apps-",
+      "publishedAt": "2026-01-13T12:16:00+00:00",
+      "date": "2026-01-13 12:16:00",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://img2.thejournal.ie/article/6925170/river/?height=400&version=6925218",
+      "url": "/tech-news/2026-01-13/gráinne-seoige-calls-for-urgent-action-on-ai-apps/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "TheJournal.ie"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Velká Británie zakazuje deepfake akty na X po skandálu s Grok AI – Promiň, Elone, nejde o potlačení svobody slova",
+      "description": "Velká Británie uvádí v platnost zákon, který criminalizuje vytváření nekonzentačních intimních deepfake obrázků, po incidentu, kdy AI chatbot Grok na platformě X generoval sexuálně explicitní obsah reálných lidí bez souhlasu.",
+      "slug": "the-uk-outlaws-deepfake-nudes-on-x-after-grok-ai-u",
+      "publishedAt": "2026-01-13T12:04:00+00:00",
+      "date": "2026-01-13 12:04:00",
+      "importance": 4,
+      "category": "deepfakes",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/hCinchdNAAB2CwppGFsQmn-2560-80.jpg",
+      "url": "/tech-news/2026-01-13/the-uk-outlaws-deepfake-nudes-on-x-after-grok-ai-u/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Windows Central"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Elon Musk radí nekupovat Tesla Roadster, pokud vám záleží na bezpečnosti",
+      "description": "Elon Musk prohlásil, že nadcházející Roadster nebude mít bezpečnost jako hlavní prioritu a stane se nejlepším z posledních aut řízených člověkem před dlouho očekávaným odhalením.",
+      "slug": "elon-musk-implores-you-not-to-buy-a-tesla-roadster",
+      "publishedAt": "2026-01-13T11:56:11+00:00",
+      "date": "2026-01-13 11:56:11",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/d4z6TaY6QrEHtU4sEQzyDd-1920-80.jpg",
+      "url": "/tech-news/2026-01-13/elon-musk-implores-you-not-to-buy-a-tesla-roadster/",
+      "source": {
+        "emoji": "📰",
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "companies": [
+        "Tesla"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Co se můžeme naučit z toho, jak útočníci využívali AI v roce 2025?",
+      "description": "Starý scénář, nový rozsah: Zatímco obránci honí trendy, útočníci optimalizují základní postupy. Bezpečnostní průmysl se soustředí na 'nové' hrozby jako AI-powered útoky, ale realita ukazuje jiné priority.",
+      "slug": "what-should-we-learn-from-how-attackers-leveraged-",
+      "publishedAt": "2026-01-13T11:55:00+00:00",
+      "date": "2026-01-13 11:55:00",
+      "importance": 4,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg11caZQqhaS0OyoXT_GpH_CIUPoC00sjkeg4ycrORRwI75LWELCfMCO0yyfL1FoKf8jrX6NJZsGVFZ2m1o_H3VFdFtBJprczhcQn5bbS5YH65k4I1PVoGAJGZP4N2NHfj_m2VjXJPmO8k-GfaZFUcIXSN9lLuOZ3Dnl8cqQkwkMEWHWY0cYuu4QIBKXVE/s790-rw-e365/AI.jpg",
+      "url": "/tech-news/2026-01-13/what-should-we-learn-from-how-attackers-leveraged/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Internet"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Hegseth se připojuje k Muskovi ve SpaceX, slibuje ‚muskovský‘ přístup k rozvoji technologií v Pentagonu a chce uskutečnit Star Trek",
       "description": "Pete Hegseth navštívil SpaceX a společně s Elonem Muskem slíbil radikální reformu Pentagonu inspirovanou stylem SpaceX. Zdůraznil nutnost nasadit AI model Grok a zaměřit se na klíčové technologie, aby USA vyhrály technologickou nadvládu.",
@@ -3508,541 +3586,6 @@
         "Rivian Automotive"
       ],
       "people": []
-    },
-    {
-      "title": "Lux Capital získal 1,5 miliardy dolarů pro svůj největší fond dosud | TechCrunch",
-      "description": "Tato 25letá firma je raným investorem do společností Anduril, Applied Intuition a Runway AI.",
-      "slug": "lux-capital-lands-15-billion-for-its-largest-fund-",
-      "publishedAt": "2026-01-07T20:11:49+00:00",
-      "date": "2026-01-07 20:11:49",
-      "importance": 4,
-      "category": "startupy",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/01/x9fp5t2qhgtpr2xrihuu.png.png?w=600",
-      "url": "/tech-news/2026-01-07/lux-capital-lands-15-billion-for-its-largest-fund/",
-      "source": {
-        "emoji": "🚀",
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "companies": [
-        "Anduril",
-        "Applied Intuition",
-        "Runway AI"
-      ],
-      "people": []
-    },
-    {
-      "title": "OpenAI vybírá b.well pro bezpečné připojení zdravotních dat v ChatGPT pro personalizované AI zdravotní interakce",
-      "description": "OpenAI spolupracuje s firmou b.well, aby uživatelé ChatGPT mohli bezpečně propojit své lékařské záznamy. Tato integrace umožňuje personalizovanější a kontextově přesnější odpovědi v oblasti zdraví přímo na základě individuálních dat uživatele.",
-      "slug": "openai-selects-bwell-to-power-secure-health-data-c",
-      "publishedAt": "2026-01-07T19:45:00+00:00",
-      "date": "2026-01-07 19:45:00",
-      "importance": 4,
-      "category": "zdravotní ai",
-      "urlToImage": "https://mma.prnewswire.com/media/2574542/bwell_Connected_Health_Logo.jpg?p=facebook",
-      "url": "/tech-news/2026-01-07/openai-selects-bwell-to-power-secure-health-data-c/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "PRNewswire"
-      },
-      "companies": [
-        "OpenAI",
-        "b.well"
-      ],
-      "people": []
-    },
-    {
-      "title": "Orlando Sentinel a další noviny žádají sankce kvůli obviněním z ničení klíčových důkazů OpenAI",
-      "description": "OpenAI údajně pokračovalo v mazání zápisů výstupů ChatGPT navzdory příkazům dvou soudců, aby je uchovalo a předalo novinovým společnostem v rámci sporu o autorská práva. Nové soudní podání tvrdí, že bylo nahrazeno přes milion požadovaných logů.",
-      "slug": "orlando-sentinel-other-papers-seek-sanctions-over-",
-      "publishedAt": "2026-01-07T19:44:14+00:00",
-      "date": "2026-01-07 19:44:14",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.orlandosentinel.com/wp-content/uploads/2025/12/OpenAI-Chief_Revenue_Officer_83141_7dd480-1.jpg?w=1024&h=683",
-      "url": "/tech-news/2026-01-07/orlando-sentinel-other-papers-seek-sanctions-over/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Orlando Sentinel"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "MyFitnessPal spouští integraci v novém ChatGPT Health Experience",
-      "description": "MyFitnessPal přináší do ChatGPT personalizovanou výživu, podporu pro hubnutí a recepty přizpůsobené zdravotním cílům pro 800 milionů týdenních uživatelů platformy. Integrace využívá databázi přes 20 milionů potravin a 20 let expertízy společnosti.",
-      "slug": "myfitnesspal-launches-app-in-new-chatgpt-health-ex",
-      "publishedAt": "2026-01-07T19:15:00+00:00",
-      "date": "2026-01-07 19:15:00",
-      "importance": 4,
-      "category": "zdraví",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/4602bc8c-d426-46dc-b679-345bdf7c5fa7",
-      "url": "/tech-news/2026-01-07/myfitnesspal-launches-app-in-new-chatgpt-health-ex/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [
-        "MyFitnessPal"
-      ],
-      "people": []
-    },
-    {
-      "title": "Novinářská malpraxe: Žádný LLM nikdy nic 'nepřizná' a hlásit opak je lež",
-      "description": "V posledním týdnu média jako Reuters, Newsweek, Daily Beast, CNBC a další zveřejnila titulky, podle kterých se Grok – LLM chatbot od Elona Muska – 'omluvil' za generování obrázků bez souhlasu. Toto reportování antropomorfizuje AI a ignoruje, jak velké jazykové modely skutečně fungují.",
-      "slug": "journalistic-malpractice-no-llm-ever-admits-to-any",
-      "publishedAt": "2026-01-07T19:10:14+00:00",
-      "date": "2026-01-07 19:10:14",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
-      "url": "/tech-news/2026-01-07/journalistic-malpractice-no-llm-ever-admits-to-any/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Techdirt"
-      },
-      "companies": [],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Flint zahajuje výrobu biologicky rozložitelné „papírové baterie“",
-      "description": "Singapurská technologická společnost Flint oznámila na veletrhu Consumer Electronics Show v Las Vegas zahájení výroby dobíjecí „papírové baterie“, která se na konci své životnosti biologicky rozloží. Technologie přechází z laboratořní fáze do masové výroby v singapurském závodě.",
-      "slug": "flint-announces-production-of-biodegradable-paper-",
-      "publishedAt": "2026-01-07T19:00:19+00:00",
-      "date": "2026-01-07 19:00:19",
-      "importance": 5,
-      "category": "papírová baterie",
-      "urlToImage": "https://static.dezeen.com/uploads/2026/01/flint-paper-batteryhero.jpg",
-      "url": "/tech-news/2026-01-07/flint-announces-production-of-biodegradable-paper/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Dezeen"
-      },
-      "companies": [
-        "Flint"
-      ],
-      "people": []
-    },
-    {
-      "title": "Vážná rizika Trumpova výkonného nařízení omezujícího státní regulaci AI",
-      "description": "Desítky států zavedly regulace umělé inteligence k ochraně obyvatel před potenciálními škodami. Tyto opatření nyní ohrožuje výkonné nařízení Trumpovy administrativy z 11. prosince 2025.",
-      "slug": "the-serious-risks-of-trumps-executive-order-curbin",
-      "publishedAt": "2026-01-07T19:00:00+00:00",
-      "date": "2026-01-07 19:00:00",
-      "importance": 4,
-      "category": "ai regulace",
-      "urlToImage": "https://s3.us-east-1.amazonaws.com/in-these-times/_1200x630_crop_center-center_82_none/GettyImages-2218344194.jpg?mtime=1767738105",
-      "url": "/tech-news/2026-01-07/the-serious-risks-of-trumps-executive-order-curbin/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "In These Times"
-      },
-      "companies": [],
-      "people": [
-        "Trump"
-      ]
-    },
-    {
-      "title": "Micron zahajuje stavbu historické megafab v New Yorku",
-      "description": "Společnost Micron Technology 16. ledna 2026 zahájí stavbu své megafab v Onondaga County v New Yorku po dokončení environmentálních posudků a získání povolení. Projekt představuje největší soukromou investici v historii státu a bude vyrábět pokročilé paměti pro AI systémy.",
-      "slug": "pr-micron-announces-groundbreaking-for-historic-ne",
-      "publishedAt": "2026-01-07T16:07:02+00:00",
-      "date": "2026-01-07 16:07:02",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://www.techpowerup.com/img/APwsAKjedzh6F4ZQ.jpg",
-      "url": "/tech-news/2026-01-07/pr-micron-announces-groundbreaking-for-historic-ne/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Techpowerup.com"
-      },
-      "companies": [
-        "Micron Technology",
-        "Inc"
-      ],
-      "people": []
-    },
-    {
-      "title": "OpenAI spouští ChatGPT Health pro spotřebitele",
-      "description": "OpenAI uvedlo, že ChatGPT Health umožňuje integrovat uživatelské lékařské záznamy pro poskytování přesnějších odpovědí na zdravotní dotazy. Tento nástroj slouží k lepšímu zapojení pacientů do péče o zdraví prostřednictvím AI.",
-      "slug": "openai-launches-chatgpt-health-for-consumer-use",
-      "publishedAt": "2026-01-07T15:48:00+00:00",
-      "date": "2026-01-07 15:48:00",
-      "importance": 4,
-      "category": "zdravotní ai",
-      "urlToImage": "https://www.techtarget.com/rms/onlineimages/health_g1280291825.jpg",
-      "url": "/tech-news/2026-01-07/openai-launches-chatgpt-health-for-consumer-use/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Techtarget.com"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Lux Capital získala 1,5 miliardy dolarů na fond zaměřený na novou vědu a obranu",
-      "description": "Riziková kapitálová společnost Lux Capital získala 1,5 miliardy dolarů na svůj devátý fond, což je největší částka v její více než 20leté historii. Fond plánuje podpořit společnosti zaměřené na průlomovou vědu a národní bezpečnost, včetně umělé inteligence a kvantových počítačů.",
-      "slug": "lux-capital-raises-15-billion-for-fund-focused-on-",
-      "publishedAt": "2026-01-07T12:25:11+00:00",
-      "date": "2026-01-07 12:25:11",
-      "importance": 4,
-      "category": "rizikový kapitál",
-      "urlToImage": null,
-      "url": "/tech-news/2026-01-07/lux-capital-raises-15-billion-for-fund-focused-on/",
-      "source": {
-        "emoji": "📰",
-        "id": "financial-post",
-        "name": "Financial Post"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "xAI získává 20 miliard dolarů: Elon Musk slaví investiční úspěch, který může přetvořit sílu AI",
-      "description": "Společnost xAI Elona Muska získala 20 miliard dolarů investic, což překonalo cíle financování a podpoří misi pochopení vesmíru. Úspěch je však zastíněn kontroverzí kolem chatbota Grok a jeho zneužití k tvorbě nelegálních deepfake obrázků.",
-      "slug": "xai-bags-20b-as-elon-musk-celebrates-a-funding-win",
-      "publishedAt": "2026-01-07T12:15:18+00:00",
-      "date": "2026-01-07 12:15:18",
-      "importance": 5,
-      "category": "ai",
-      "urlToImage": "https://d.ibtimes.com/en/full/4635254/xai.jpg",
-      "url": "/tech-news/2026-01-07/xai-bags-20b-as-elon-musk-celebrates-a-funding-win/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "International Business Times"
-      },
-      "companies": [
-        "xAI"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Fúzní energie se blíží k praxi: Commonwealth staví první demonstrační elektrárnu s podporou Siemens a Nvidia",
-      "description": "Společnost Commonwealth Fusion Systems dosahuje klíčových milníků při stavbě fúzní elektrárny SPARC, která využívá stejný princip jako Slunce. Partnerství se Siemens a Nvidia pomůže integrovat umělou inteligenci pro řízení a napájení datových center.",
-      "slug": "fusion-power-nearly-ready-for-prime-time-as-common",
-      "publishedAt": "2026-01-07T12:15:14+00:00",
-      "date": "2026-01-07 12:15:14",
-      "importance": 5,
-      "category": "fúzní energie",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/01/20251229-SPARC-digital-twin-3-e1767742454456.jpg?resize=1200,600",
-      "url": "/tech-news/2026-01-07/fusion-power-nearly-ready-for-prime-time-as-common/",
-      "source": {
-        "emoji": "📰",
-        "id": "fortune",
-        "name": "Fortune"
-      },
-      "companies": [
-        "Commonwealth",
-        "Siemens",
-        "Nvidia"
-      ],
-      "people": []
-    },
-    {
-      "title": "VL-JEPA od Meta překonává objemné velké jazykové modely",
-      "description": "Meta představila VL-JEPA, novou architekturu pro zpracování vize a jazyka, kterou vyvinul tým pod vedením Yana LeCuna. Tento model předpovídá význam přímo v prostoru vestavění, což umožňuje vyšší efektivitu než tradiční velké jazykové modely a otevírá cestu pro aplikace v robotice a nositelných zařízeních.",
-      "slug": "metas-vision-language-shift-vl-jepa-beats-bulky-ll",
-      "publishedAt": "2026-01-07T12:15:04+00:00",
-      "date": "2026-01-07 12:15:04",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/01/vl-jepa-embedding-space-prediction_optimized.jpg",
-      "url": "/tech-news/2026-01-07/metas-vision-language-shift-vl-jepa-beats-bulky-ll/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [
-        "Meta",
-        "Better Stack"
-      ],
-      "people": [
-        "Yan LeCun"
-      ]
-    },
-    {
-      "title": "Spinoff Intelu Articul8 získává více než polovinu kola 70 milionů dolarů při valuaci 500 milionů | TechCrunch",
-      "description": "Articul8, podniková AI společnost vyrostená z Intelu na začátku roku 2024, získala více než polovinu plánovaného kola financování 70 milionů dolarů při pre-money valuaci 500 milionů dolarů. Firma cílí na rostoucí poptávku po AI systémech v regulovaných odvětvích.",
-      "slug": "intel-spinout-articul8-raises-more-than-half-of-70",
-      "publishedAt": "2026-01-07T12:02:14+00:00",
-      "date": "2026-01-07 12:02:14",
-      "importance": 4,
-      "category": "startupy",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/01/articul8-founder-arun-k-subramaniyan.jpg?resize=1200,800",
-      "url": "/tech-news/2026-01-07/intel-spinout-articul8-raises-more-than-half-of-70/",
-      "source": {
-        "emoji": "🚀",
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "companies": [
-        "Intel",
-        "Articul8"
-      ],
-      "people": []
-    },
-    {
-      "title": "Nové AI hlasové pero přímo propojené s ChatGPT s mikrofonem a kamerou",
-      "description": "Nejnovější zařízení OpenAI nazvané Gumdrop je pero ve tvaru pera, které umožňuje přímé hlasové ovládání ChatGPT bez nutnosti smartphonu nebo notebooku. Obsahuje mikrofon, kameru a funkci transkripce rukopisu, čímž zvyšuje dostupnost AI v každodenním životě.",
-      "slug": "new-ai-voice-pen-links-straight-to-chatgpt-with-mi",
-      "publishedAt": "2026-01-07T11:59:01+00:00",
-      "date": "2026-01-07 11:59:01",
-      "importance": 4,
-      "category": "ai hardware",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/01/gumdrop-foxconn-vietnam-production_optimized.jpg",
-      "url": "/tech-news/2026-01-07/new-ai-voice-pen-links-straight-to-chatgpt-with-mi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Trump Media oznámila plány na největší elektrárnu na výrobu energie na světě – ale pouze v republikánských státech",
-      "description": "O několik týdnů po sloučení Trump Media and Technology Group s firmou TAE Technologies na jadernou fúzi nová společnost zveřejnila plány na stavbu fúzní elektrárny v USA, která má být největší na světě. Výkonný ředitel Devin Nunes uvedl, že lokalitu vyberou pouze v republikánských státech a stavební práce odstartují letos.",
-      "slug": "trump-media-announces-plans-for-worlds-largest-pow",
-      "publishedAt": "2026-01-07T11:58:10+00:00",
-      "date": "2026-01-07 11:58:10",
-      "importance": 5,
-      "category": "jaderná fúze",
-      "urlToImage": null,
-      "url": "/tech-news/2026-01-07/trump-media-announces-plans-for-worlds-largest-pow/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Freerepublic.com"
-      },
-      "companies": [
-        "Trump Media and Technology Group",
-        "TAE Technologies"
-      ],
-      "people": []
-    },
-    {
-      "title": "AI chatbot Muska Grok čelí globální kritice kvůli sexualizovaným obrázkům žen a dětí",
-      "description": "AI chatbot Grok od Elona Muska se dostal do konfliktu s vládami po celém světě kvůli vlně sexualizovaných obrázků žen a dětí generovaných bez souhlasu. Británie, Polsko, EU a další země žádají okamžité kroky a vyšetřování.",
-      "slug": "musks-ai-chatbot-faces-global-backlash-over-sexual",
-      "publishedAt": "2026-01-07T11:45:39+00:00",
-      "date": "2026-01-07 11:45:39",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://cmg-cmg-tv-10080-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FDNHPVCSIOAZKDMZCWAF6ER7Y2Q.jpg?auth=87e1b0de6125c12dbfe379d23a3e84abd7d6ac04dd9e94607bffac7197266559&width=1200&height=630&smart=true",
-      "url": "/tech-news/2026-01-07/musks-ai-chatbot-faces-global-backlash-over-sexual/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "WPXI Pittsburgh"
-      },
-      "companies": [],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Siemens rozšiřuje spolupráci s Nvidia pro nasazení průmyslové AI",
-      "description": "Společnosti plánují integrovat AI do výrobních provozů, simulačních nástrojů a elektronického návrhu automatizace pro průmysl.",
-      "slug": "siemens-expands-collaboration-with-nvidia-for-indu",
-      "publishedAt": "2026-01-07T11:31:42+00:00",
-      "date": "2026-01-07 11:31:42",
-      "importance": 4,
-      "category": "průmyslové ai",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/p8ISWjAEuba42oQDKqxt4g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/verdict_626/6496d1b098df2f0e591e96d4c194db49",
-      "url": "/tech-news/2026-01-07/siemens-expands-collaboration-with-nvidia-for-indu/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Verdict"
-      },
-      "companies": [
-        "Siemens",
-        "Nvidia"
-      ],
-      "people": []
-    },
-    {
-      "title": "Google DeepMind a Boston Dynamics oznámily nové partnerství pro integraci AI do humanoidních robotů",
-      "description": "Partnerství mezi Google DeepMind a Boston Dynamics, představené na CES 2026, spojuje inženýrské schopnosti Boston Dynamics s AI algoritmy DeepMind pro humanoidního robota Atlas. Cílem je zlepšit jeho rozhodování a adaptabilitu v náročných prostředích, jako jsou katastrofické oblasti.",
-      "slug": "google-deepmind-boston-dynamics-announce-new-partn",
-      "publishedAt": "2026-01-07T07:45:40+00:00",
-      "date": "2026-01-07 07:45:40",
-      "importance": 5,
-      "category": "robotika",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/01/deepmind-boston-dynamics_optimized.jpg",
-      "url": "/tech-news/2026-01-07/google-deepmind-boston-dynamics-announce-new-partn/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [
-        "Google DeepMind",
-        "Boston Dynamics"
-      ],
-      "people": []
-    },
-    {
-      "title": "Lenovo posiluje ambice v AI partnerstvím s Nvidia a představuje osobní AI platformu Qira",
-      "description": "Lenovo oznámilo strategické partnerství s Nvidia pro urychlení nasazení AI datových center a představilo Qira, osobní AI platformu pro zařízení Lenovo a Motorola. Oznámení proběhlo na CES v Las Vegas v rámci širší prezentace AI technologií a konceptů.",
-      "slug": "lenovo-expands-ai-push-with-nvidia-tie-up-unveils-",
-      "publishedAt": "2026-01-07T03:47:19+00:00",
-      "date": "2026-01-07 03:47:19",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://images.indianexpress.com/2026/01/Nvidia.jpg",
-      "url": "/tech-news/2026-01-07/lenovo-expands-ai-push-with-nvidia-tie-up-unveils/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Indian Express"
-      },
-      "companies": [
-        "Lenovo",
-        "Nvidia",
-        "Motorola"
-      ],
-      "people": []
-    },
-    {
-      "title": "Lenovo rozšiřuje nabídku AI spoluprací s Nvidia na gigafactory a platformou Qira",
-      "description": "Lenovo oznámila partnerství s Nvidia na výstavbě AI gigafactory, která umožní poskytovatelům AI cloudu rychleji nasadit podnikové AI úlohy v datových centrech. Na CES 2026 představila také platformu Qira pro osobní AI napříč svými zařízeními a koncepty jako AI brýle.",
-      "slug": "lenovo-expands-ai-lineup-with-nvidia-gigafactory-t",
-      "publishedAt": "2026-01-07T03:19:49+00:00",
-      "date": "2026-01-07 03:19:49",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-77394,resizemode-75,msid-126385940/tech/artificial-intelligence/lenovo-expands-ai-lineup-with-nvidia-gigafactory-tie-up-qira-platform.jpg",
-      "url": "/tech-news/2026-01-07/lenovo-expands-ai-lineup-with-nvidia-gigafactory-t/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Lenovo",
-        "Nvidia"
-      ],
-      "people": []
-    },
-    {
-      "title": "Alpamayo od Nvidia umožňuje autonomním vozidlům uvažování podobné lidskému",
-      "description": "Na veletrhu CES 2026 Nvidia představila Alpamayo, nový open AI model určený k posílení kognitivních schopností autonomních vozidel. Model integruje rámec reasoning vision language action, díky čemuž vozidla zpracovávají informace a rozhodují se podobně jako člověk.",
-      "slug": "nvidias-alpamayo-enables-human-like-reasoning-for-",
-      "publishedAt": "2026-01-07T03:17:00+00:00",
-      "date": "2026-01-07 03:17:00",
-      "importance": 4,
-      "category": "autonomní vozidla",
-      "urlToImage": "https://i0.wp.com/nextbigwhat.com/wp-content/uploads/2023/03/nextbigwhat-social-media-logo.jpg?fit=1080%2C1080&ssl=1",
-      "url": "/tech-news/2026-01-07/nvidias-alpamayo-enables-human-like-reasoning-for/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Nextbigwhat.com"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": []
-    },
-    {
-      "title": "Zprávy o akvizici Manus společností Meta mají v Washingtonu a Pekingu rozdílný ohlas | TechCrunch",
-      "description": "Čínští úředníci prý zkoumají, zda akvizice Meta porušuje exportní kontroly technologií, což by Pekingu poskytlo vliv, který původně neměl.",
-      "slug": "metas-manus-news-is-getting-different-receptions-i",
-      "publishedAt": "2026-01-07T02:53:56+00:00",
-      "date": "2026-01-07 02:53:56",
-      "importance": 5,
-      "category": "exportní kontroly",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-1968119319.jpg?resize=1200,800",
-      "url": "/tech-news/2026-01-07/metas-manus-news-is-getting-different-receptions-i/",
-      "source": {
-        "emoji": "🚀",
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "companies": [
-        "Meta"
-      ],
-      "people": []
-    },
-    {
-      "title": "Tyto miniaturní roboty jsou menší než zrnko soli a dokážou myslet, pohybovat se i plavat",
-      "description": "Navzdory své velikosti se roboty dokážou pohybovat kapalinami, reagovat na prostředí a fungovat bez vnějšího ovládání.",
-      "slug": "these-tiny-robots-are-smaller-than-grains-of-salt-",
-      "publishedAt": "2026-01-07T02:01:49+00:00",
-      "date": "2026-01-07 02:01:49",
-      "importance": 5,
-      "category": "robotika",
-      "urlToImage": "https://www.cnet.com/a/img/resize/af99f126bfb706ff84267481edd63070c5a7a5fd/hub/2026/01/07/0131c478-b7b7-4441-898d-4c7932d3377b/worlds-smallest-autonomous-robot-jpg.png?auto=webp&fit=crop&height=675&width=1200",
-      "url": "/tech-news/2026-01-07/these-tiny-robots-are-smaller-than-grains-of-salt/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNET"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Uživatelé platformy X přikazují chatbotu Grok svléknout ženy a dívky na fotografiích. Ten to dělá",
-      "description": "Chatbot Grok platformy X generuje přibližně jeden nekonzuentální sexuální obrázek každou minutu. Uživatelé ho zneužívají k tvorbě deepfake obrázků žen a dětí.",
-      "slug": "x-users-tell-grok-chatbot-to-undress-women-and-gir",
-      "publishedAt": "2026-01-07T02:00:00+00:00",
-      "date": "2026-01-07 02:00:00",
-      "importance": 4,
-      "category": "deepfakes",
-      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/5IF2JKFZD5GADJ2UH3OZUZXYHM.jpg?auth=c9a04c9da29490872cb7341fe1de2176e315d71cc89fc4ac80c6fc7d9e1e69c9&width=1200&height=675&quality=70&focal=1485%2C332&smart=false",
-      "url": "/tech-news/2026-01-07/x-users-tell-grok-chatbot-to-undress-women-and-gir/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "New Zealand Herald"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Nvidia představuje nové AI čipy a projekt autonomních vozidel s Mercedes-Benz",
-      "description": "Šéf Nvidia Jensen Huang na konferenci CES oznámil dodávky nového AI čipu Vera Rubin, který zvládá více výpočtů při nižší spotřebě energie než předchozí generace. Společnost navíc rozvíjí software pro autonomní řízení, který Mercedes-Benz začne instalovat do aut letos, srovnatelný s Tesla Autopilot.",
-      "slug": "nvidia-details-new-ai-chips-and-autonomous-car-pro",
-      "publishedAt": "2026-01-07T00:02:00+00:00",
-      "date": "2026-01-07 00:02:00",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://a.fsdn.com/sd/topics/transportation_64.png",
-      "url": "/tech-news/2026-01-07/nvidia-details-new-ai-chips-and-autonomous-car-pro/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "companies": [
-        "Nvidia",
-        "Mercedes"
-      ],
-      "people": [
-        "Jensen Huang"
-      ]
     }
   ]
 }
