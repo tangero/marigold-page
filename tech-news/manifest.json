@@ -1,7 +1,90 @@
 {
-  "generated": "2026-01-14T16:51:15.058660+00:00",
-  "count": 186,
+  "generated": "2026-01-14T20:44:32.677696+00:00",
+  "count": 190,
   "articles": [
+    {
+      "title": "‚Star Trek real‘: Hegseth chválí Grok za umožnění uživatelům vést války",
+      "description": "‚Vyhraješ tento závod tím, že se staneš silou pro vedení války založenou na umělé inteligenci ve všech doménách,‘ řekl ministr obrany v pondělí.",
+      "slug": "star-trek-real-hegseth-praises-grok-for-allowing-u",
+      "publishedAt": "2026-01-13T20:00:06+00:00",
+      "date": "2026-01-13 20:00:06",
+      "importance": 4,
+      "category": "vojenská ai",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/01/pete-hegseth-elon-musk-jan-12-2026-1200x675.jpg",
+      "url": "/tech-news/2026-01-13/star-trek-real-hegseth-praises-grok-for-allowing-u/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "companies": [],
+      "people": [
+        "Hegseth"
+      ]
+    },
+    {
+      "title": "Nejnovější projev Elona Muska o Star Treku zmínil vytvoření reálné Starfleet Academy, což činí jeho komentáře k seriálu překvapivými",
+      "description": "Elon Musk na tiskové konferenci vyjádřil touhu udělat Star Trek realitou včetně Starfleet Academy. Tyto slova kontrastují s jeho nedávnými výroky o nadcházejícím seriálu Star Trek: Starfleet Academy. Zpráva je matoucí.",
+      "slug": "elon-musks-latest-star-trek-speech-mentioned-makin",
+      "publishedAt": "2026-01-13T19:59:32+00:00",
+      "date": "2026-01-13 19:59:32",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/3So4MpuA4T8q7FNVahpxHE-1280-80.jpg",
+      "url": "/tech-news/2026-01-13/elon-musks-latest-star-trek-speech-mentioned-makin/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CinemaBlend"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Oficiálně potvrzeno: Google Gemini pohání budoucí Apple Intelligence a vylepšení Siri",
+      "description": "Google Gemini bude napájet budoucí funkce Apple Intelligence a vylepšení Siri, což představuje významnou spolupráci mezi Applem a Googelem. Tato dohoda znamená, že Apple Foundation Models budou založeny na modelech Gemini a cloudové technologii Google.",
+      "slug": "its-official-google-gemini-will-power-future-apple",
+      "publishedAt": "2026-01-13T19:45:08+00:00",
+      "date": "2026-01-13 19:45:08",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://cdn.redmondpie.com/wp-content/uploads/2020/04/google-apple-1200px.jpg",
+      "url": "/tech-news/2026-01-13/its-official-google-gemini-will-power-future-apple/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "redmondpie.com"
+      },
+      "companies": [
+        "Apple",
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "V roce 2026 se Google zaměřuje na to, aby byla umělá inteligence skutečně užitečná",
+      "description": "Výkonný manažer Google Sameer Samat hodnotí minulý rok jako období zvědavosti vůči AI. Tento rok klade důraz na její praktickou užitečnost v zařízeních a službách.",
+      "slug": "in-2026-google-is-focused-on-making-ai-actually-us",
+      "publishedAt": "2026-01-13T19:00:36+00:00",
+      "date": "2026-01-13 19:00:36",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.cnet.com/a/img/resize/e09004d86eb808a2594eeb2894207ca98a067198/hub/2025/12/11/5b313203-e96f-4f47-8996-4aa0d3956914/gemini-logo-gettyimages-2246856729.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "url": "/tech-news/2026-01-13/in-2026-google-is-focused-on-making-ai-actually-us/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNET"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": [
+        "Sameer Samat"
+      ]
+    },
     {
       "title": "Ředitelé HR a Jamie Dimon tvrdí, že AI neumůže naučit lidské dovednosti. Nejmladší self-made miliardáři na světě to chtějí vyvrátit",
       "description": "Kolik stojí trénink AI, která vám vezme práci? Firma Mercor nabízí gigové zakázky pro profesionály až za 150 dolarů za hodinu, aby naučila modely umělé inteligence soudnost a nuance.",
