@@ -23,7 +23,7 @@ Anthropic 12. ledna 2026 spustil [Cowork](https://claude.com/blog/cowork), novou
 
 Princip Cowork je přímočarý. Uživatel vybere konkrétní složku na svém počítači, ke které Claude získá přístup. Proto také vázanost na MacOS - používá se jeho sandboxing, čili z vyhražené složky Cowork bez vašeho souhlasu "nevyleze".  V rámci této složky může asistent číst existující soubory, upravovat je nebo vytvářet nové. Komunikace probíhá přes standardní chatové rozhraní v desktopové aplikaci Claude. Jak to vypadá, vidíte na obrázku, kde jsem Cowork pověřil, aby mi uklidil pracovní plochu. Zvládl to moc dobře :)
 
-![Takhle vypadá Claude Cowork](/assets/images/claude-cowork.png)
+![Takhle vypadá Claude Cowork](/assets/claude-cowork.png)
 
 Architektura Cowork staví na několika základních komponentách. Konektory a MCP servery zajišťují přístup k externím službám jako Gmail nebo Google Kalendář. Přístup k souborovému systému umožňuje vytváření a čtení lokálních souborů. Systém kroků (TODOs/Steps) zobrazuje diskrétní sledovatelné kroky, které Cowork provádí při plnění úkolu. Artefakty představují soubory vygenerované během práce a kontextová sekce ukazuje soubory, zdroje a konektory použité při zpracování. Součástí jsou také předinstalované dovednosti (Skills), zejména pro vytváření souborů jako DOCX nebo PPTX.
 
