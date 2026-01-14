@@ -6,7 +6,7 @@
       "category" : "AI, Anthropic, Claude, agenti",
       "tags"     : "",
       "date"     : "12.1.2026",
-      "content"  : "Aktualizuji článek o praktické zkušenosti a kritické zhodnocení od uživatelů.author: Patrick Zandlcategories: AI Anthropic Claude agentilayout: postpost_excerpt: Anthropic spustil Cowork, nástroj pro automatizaci kancelářské práce postavený na Claude Agent SDK. Zatím pouze pro předplatitele Claude Max na macOS.summary_points: Cowork přináší agentní schopnosti Claude Code běžným uživatelům bez nutnosti práce s terminálem Nástroj umožňuje Claude číst, upravovat a vytvářet soubory ve vybrané složce na počítači K dispozici pouze pro předplatitele Claude Max na macOS, ostatní se mohou zapsat na čekací seznam První uživatelské testy odhalují problémy s konektory, chybové hlášky a příliš technické rozhraní Výstupy jsou kvalitnější než z běžného chatu,..."
+      "content"  : "Anthropic 12. ledna 2026 spustil Cowork, novou funkci integrovanou do desktopové aplikace Claude pro macOS. Cowork zpřístupňuje agentní schopnosti Claude Code širšímu okruhu uživatelů bez nutnosti pracovat s příkazovou řádkou nebo nastavovat vývojářské prostředí. Nástroj je zatím dostupný pouze pro předplatitele tarifu Claude Max jako “výzkumný náhled”. Jak funguje a máte se na něj těšit?Jak Cowork fungujePrincip Cowork je přímočarý. Uživatel vybere konkrétní složku na svém počítači, ke které Claude získá přístup. Proto také vázanost na MacOS - používá se jeho sandboxing, čili z vyhražené složky Cowork bez vašeho souhlasu “nevyleze”. V rámci této složky může asistent číst existující soubory,..."
     },
   
     {
@@ -26765,7 +26765,7 @@
       "title"    : "Tech News Health Status",
       "url"      : "/health-status/",
       "category" : "stránka",
-      "content"  : "🏥 Tech News Health &amp; Pipeline Status Status: WARNING Poslední kontrola: 13.01.2026 12:57 Summary: Status: WARNING | Články 24h: 0 | Čeština: 100.0% | Alerty: 3 📈 30denní přehled (30 dní) Nově vygenerováno (30 dní) ℹ️ 1087 Denní průměr: 35.1 LLM náklady $288.18 Celkem za období API dotazy 8983 Sessions: 184 Přeskočeno 7896 Hlavně: low_importance 🔄 Processing Pipeline (30 dní) 📥 API Fetch 8983 ⏭️ Přeskočeno (filtry) 7896 💾 Uloženo 1087 (12.1%) 📊 Denní statistiky (posledních 14 dní) Datum Fetched Saved Skipped Cost Success 2026-01-13 197 27 170 $6.1643 100% 2026-01-12 291 34 257 $9.6426 100% 2026-01-11 286 26 260..."
+      "content"  : "🏥 Tech News Health &amp; Pipeline Status Status: WARNING Poslední kontrola: 14.01.2026 05:16 Summary: Status: WARNING | Články 24h: 0 | Čeština: 100.0% | Alerty: 3 📈 30denní přehled (30 dní) Nově vygenerováno (30 dní) ℹ️ 1081 Denní průměr: 34.9 LLM náklady $283.61 Celkem za období API dotazy 8832 Sessions: 181 Přeskočeno 7751 Hlavně: low_importance 🔄 Processing Pipeline (30 dní) 📥 API Fetch 8832 ⏭️ Přeskočeno (filtry) 7751 💾 Uloženo 1081 (12.2%) 📊 Denní statistiky (posledních 14 dní) Datum Fetched Saved Skipped Cost Success 2026-01-14 97 14 83 $3.0793 100% 2026-01-13 244 46 198 $7.7801 100% 2026-01-12 291 34 257..."
     }
     
   
@@ -27360,6 +27360,15 @@
     ,{
       "title"    : "Technologické zprávy - 2025-12-06",
       "url"      : "/tech-news/2025-12-06/",
+      "category" : "stránka",
+      "content"  : ""
+    }
+    
+  
+    
+    ,{
+      "title"    : "Technologické zprávy - 2026-01-13",
+      "url"      : "/tech-news/2026-01-13/",
       "category" : "stránka",
       "content"  : ""
     }
@@ -30024,265 +30033,6 @@
     
       
       ,{
-        "title"    : "Nvidia představuje nové AI čipy a projekt autonomních vozidel s Mercedes-Benz",
-        "url"      : "/tech-news/2026-01-07/nvidia-details-new-ai-chips-and-autonomous-car-pro/",
-        "category" : "tech_news",
-        "content"  : "SouhrnNa konferenci CES v Las Vegas představil šéf Nvidia Jensen Huang nový AI čip Vera Rubin, jehož dodávky začnou v druhé polovině roku. Tento čip umožňuje vyšší výkon při nižší spotřebě energie a nižších nákladech. Nvidia rovněž pokračuje v spolupráci s Mercedes-Benz na autonomních vozidlech, kde začne dodávat software Alpamayo pro autonomní navigaci.Klíčové body Nový čip Vera Rubin: vyžaduje čtvrtinu počtu kusů oproti předchozí generaci Blackwell pro trénink AI modelů, náklady na provoz klesnou na desetinu. Dodávky od druhé poloviny roku: zákazníci jako Microsoft a Amazon, rychlejší instalace díky přepracovaným superpočítačům s méně kabely. Autonomní vozidla: Mercedes-Benz začne letos dodávat..."
-      }
-      
-      ,{
-        "title"    : "CES Den 1: Hudba, kterou můžete ochutnat, a roboti na domácí práce",
-        "url"      : "/tech-news/2026-01-07/ces-day-1-music-you-can-taste-and-chore-robots/",
-        "category" : "tech_news",
-        "content"  : "SouhrnPrvní den CES 2026 v Las Vegas byl poznamenán oznámeními velkých výrobců čipů jako Nvidia, AMD a Intel, kteří představili nové platformy pro umělou inteligenci. Nvidia se soustředila na koncept „physical AI“, tedy modely AI trénované v virtuálních prostředích s použitím syntetických dat a následně nasazené do fyzických zařízení. Největší pozornost vzbudili malí autonomní roboti na jevišti a domácí robot CLOiD od LG Electronics.Klíčové body Physical AI od Nvidia: Koncept pro trénink AI v simulovaných fyzikálních prostředích pomocí syntetických dat, následně aplikovaný na reálné roboty a stroje. Cosmos: Základní model AI trénovaný na obrovských datech pro simulaci prostředí řízených skutečnou..."
-      }
-      
-      ,{
-        "title"    : "Uživatelé platformy X přikazují chatbotu Grok svléknout ženy a dívky na fotografiích. Ten to dělá",
-        "url"      : "/tech-news/2026-01-07/x-users-tell-grok-chatbot-to-undress-women-and-gir/",
-        "category" : "tech_news",
-        "content"  : "SouhrnUživatelé sociální sítě X využívají chatbot Grok k generování nekonzuentálních sexuálních obrázků žen a dětí na základě skutečných fotografií. Grok tyto požadavky splňuje, přestože platforma některé příspěvky po stížnostech smazala, ale generování neblokuje. Případ zdůrazňuje slabiny v bezpečnostních mechanismách AI od xAI.Klíčové body Uživatelé zadávají Grokovi příkazy jako „svléknout“ ženy do spodního prádla, nanesení tekutiny na tělo nebo vyobrazení s modřinami a strachem. Mezi oběťmi je influencerka Ashley St Clair, jejíž fotografie z 14 let byla zneužita; má právní spor s Elonem Muskem o opatrovnictví jejich syna. Grok generuje asi jeden takový obrázek za minutu, včetně těch s dětmi, což..."
-      }
-      
-      ,{
-        "title"    : "Tyto miniaturní roboty jsou menší než zrnko soli a dokážou myslet, pohybovat se i plavat",
-        "url"      : "/tech-news/2026-01-07/these-tiny-robots-are-smaller-than-grains-of-salt/",
-        "category" : "tech_news",
-        "content"  : "SouhrnVýzkumníci z University of Pennsylvania a University of Michigan vyvinuli autonomní microroboty o velikosti přibližně 200 × 300 × 50 mikrometrů, což je menší než zrnko soli. Tyto zařízení se pohybují kapalinami, vnímají změny v prostředí jako teplotu, sledují naprogramované trasy a fungují nezávisle měsíce díky světlu jako jedinému zdroji energie. Výsledky práce byly publikovány v žurnálech Science Robotics a Proceedings of the National Academy of Sciences.Klíčové body Velikost a autonomie: Roboty jsou 10 000krát menší než předchozí autonomní systémy, integují vnímání, výpočty, rozhodování a pohyb v jednom samostatném modulu bez vnějšího ovládání. Pohon: Používají miniaturní solární články k generování..."
-      }
-      
-      ,{
-        "title"    : "Čína prověřuje akvizici Meta singapurské AI společnosti Manus: Zpráva",
-        "url"      : "/tech-news/2026-01-07/china-reviews-metas-purchase-of-singapore-based-ai/",
-        "category" : "tech_news",
-        "content"  : "SouhrnČínské ministerstvo obchodu prověřuje akvizici společnosti Meta singapurské AI firmy Manus za přibližně 2 miliardy USD. Kontrola se týká toho, zda přesun zaměstnanců a technologie Manus z Číny do Singapuru vyžadoval exportní licenci podle čínského práva. Ačkoli je v počátečních fázích, může vést k ovlivnění nebo dokonce zrušení transakce.Klíčové body Čínští úředníci hodnotí potřebu exportní licence pro přesun technologie a personálu Manus do Singapuru před prodejem Meta. Akvizice proběhla minulý měsíc s valuací 2–3 miliardy USD. Manus vyvinul general AI agenta, který autonomně rozhoduje a vykonává úkoly s minimálním zadáním, na rozdíl od chatbotů jako ChatGPT nebo DeepSeek. Review je..."
-      }
-      
-      ,{
-        "title"    : "Zprávy o akvizici Manus společností Meta mají v Washingtonu a Pekingu rozdílný ohlas | TechCrunch",
-        "url"      : "/tech-news/2026-01-07/metas-manus-news-is-getting-different-receptions-i/",
-        "category" : "tech_news",
-        "content"  : "SouhrnSpolečnost Meta plánuje odkoupit platformu pro AI asistenty Manus za 2 miliardy dolarů, což vyvolává regulační spor mezi USA a Čínou. Americké úřady transakci schvalují navzdory dřívějším obavám z investic do čínských AI firem, zatímco čínští regulátoři kontrolují, zda přesun klíčového týmu Manus z Pekingu do Singapuru vyžadoval exportní licenci. Tento vývoj obrací role a dává Pekingu potenciální páku v jednáních.Klíčové body Meta chce koupit Manus, platformu pro vývoj AI asistentů, za 2 miliardy dolarů. Manus se přestěhovala z Pekingu do Singapuru kvůli americkým investičním omezením, což se nazývá „Singapore washing“. USA transakci považují za legitimní po předchozích sporech o..."
-      }
-      
-      ,{
-        "title"    : "Platforma X Elona Muska zpřístupňuje AI nástroje pro odstranění oblečení",
-        "url"      : "/tech-news/2026-01-07/elon-musks-x-makes-ai-clothing-removal-tools-more/",
-        "category" : "tech_news",
-        "content"  : "SouhrnPlatforma X vlastněná Elonem Muskem prostřednictvím iniciativy Grok zpřístupňuje umělou inteligenci určenou k odstranění oblečení z fotografií. Tato technologie, dosud omezená na placené služby v temných segmentech sítě, se nyní stává mainstreamovou. Novinka provokuje debatu o rizicích digitálního zneužití a nedostatku souhlasu.Klíčové body Grok od xAI integruje nástroje pro generování obrázků bez oblečení na základě vstupních fotografií. Přechod z placených, skrytých služeb k veřejné dostupnosti na platformě X. Etické rizika: porušení soukromí, tvorba non-konsensuálních deepfakeů a potenciál pro šíření pomsty. Kontext: podobné AI modely fungují na principu difuzních modelů, jako Stable Diffusion s fine-tuningem na NSFW data. Platforma X tak..."
-      }
-      
-      ,{
-        "title"    : "xAI Elona Muska dokončila kolo financování za 20 miliard dolarů s podporou Nvidia – Vše, co o dohodě potřebujete vědět",
-        "url"      : "/tech-news/2026-01-07/elon-musks-xai-completes-20-billion-funding-round/",
-        "category" : "tech_news",
-        "content"  : "SouhrnSpolečnost xAI Elona Muska, zaměřená na vývoj umělé inteligence, oznámila dokončení kola financování v celkové výši 20 miliard dolarů. Mezi investory patří Nvidia, Valor Equity Partners, Katarský investiční úřad, Stepstone Group, Fidelity Management &amp;amp; Research, MGX, Baron Capital Group a investiční skupina společnosti Cisco Systems. Peníze mají sloužit k rozšíření výpočetní infrastruktury, vývoji AI produktů a výzkumu v oblasti porozumění vesmíru.Klíčové body Celková částka: 20 miliard dolarů, zahrnující směs vlastního kapitálu a dluhu. Klíčoví investoři: Nvidia (plánovaný příspěvek až 2 miliardy dolarů), Valor Equity Partners (investiční fond zaměřený na technologie), Katarský investiční úřad (suverénní fond s aktivy přes 500 miliard..."
-      }
-      
-      ,{
-        "title"    : "Čína prověřuje akvizici AI startupu Manus společností Meta: FT",
-        "url"      : "/tech-news/2026-01-07/china-reviews-metas-purchase-of-ai-startup-manus-f/",
-        "category" : "tech_news",
-        "content"  : "SouhrnČínské ministerstvo obchodu zahájilo předběžné prověřování akvizice AI startupu Manus společností Meta, která proběhla minulý měsíc za odhadovanou hodnotu 2 až 3 miliardy dolarů. Úřady posuzují, zda přesun klíčových zaměstnanců a technologií Manus z Číny do Singapuru a následný prodej Meta vyžadoval exportní licenci podle čínského práva. Toto prověřování je v rané fázi a nemusí vést k formálnímu vyšetřování, ale může ovlivnit dokončení transakce.Klíčové body Akvizice Manus, singapurského AI startupu specializujícího se na autonomní AI agenty, proběhla za 2–3 miliardy USD. Manus se proslavil vydáním tzv. general AI agentu, který autonomně rozhoduje a provádí úkoly s minimálním vstupem uživatele. Čínské..."
-      }
-      
-      ,{
-        "title"    : "Alpamayo od Nvidia umožňuje autonomním vozidlům uvažování podobné lidskému",
-        "url"      : "/tech-news/2026-01-07/nvidias-alpamayo-enables-human-like-reasoning-for/",
-        "category" : "tech_news",
-        "content"  : "SouhrnNa veletrhu CES 2026 Nvidia odhalila Alpamayo, open AI model zaměřený na autonomní vozidla. Tento model využívá rámec reasoning vision language action (VLA), který umožňuje vozidlům kombinovat zpracování vizuálních dat, jazykové porozumění a akční rozhodování v lidském stylu. Cílem je zvýšit bezpečnost a efektivitu samořídících systémů.Klíčové body Alpamayo je open-source AI model, volně dostupný pro vývojáře. Integruje VLA framework pro simulaci lidského uvažování v reálném čase. Navržen pro platformu Nvidia Drive, používanou v autonomních vozidlech. Prezentován na CES 2026 jako krok k pokročilejší autonomii. Zaměřen na zlepšení bezpečnosti a efektivity dopravy.PodrobnostiNvidia, přední výrobce grafických procesorů (GPU) a lídr v AI..."
-      }
-      
-      ,{
-        "title"    : "Lenovo rozšiřuje nabídku AI spoluprací s Nvidia na gigafactory a platformou Qira",
-        "url"      : "/tech-news/2026-01-07/lenovo-expands-ai-lineup-with-nvidia-gigafactory-t/",
-        "category" : "tech_news",
-        "content"  : "SouhrnLenovo, největší světový výrobce osobních počítačů, uzavřelo partnerství s Nvidia na výstavbě AI gigafactory, která zkrátí čas nasazení datových center na týdny. Společnost zároveň představila platformu Qira, osobní AI systém pro svá zařízení včetně telefonů Motorola, a koncepty jako AI brýle a nositelný asistent Project Maxwell. Oznámení proběhlo na veletrhu CES 2026 v Las Vegas.Klíčové body Partnerství Lenovo a Nvidia na liquid-cooled hybridní AI infrastruktuře pro rychlé nasazení datových center. Platforma Qira funguje napříč PC, telefony, tablety a nositelná zařízení Lenovo i Motorola, včetně integrace služeb třetích stran jako Expedia. Koncept AI brýle a nositelný asistent Project Maxwell pro real-time..."
-      }
-      
-      ,{
-        "title"    : "Lenovo posiluje ambice v AI partnerstvím s Nvidia a představuje osobní AI platformu Qira",
-        "url"      : "/tech-news/2026-01-07/lenovo-expands-ai-push-with-nvidia-tie-up-unveils/",
-        "category" : "tech_news",
-        "content"  : "SouhrnLenovo, největší světový výrobce osobních počítačů, na veletrhu CES v Las Vegas oznámilo partnerství s Nvidia zaměřené na zrychlení výstavby AI datových center. Současně představilo Qira, osobní AI systém určený pro bezproblémovou práci napříč zařízeními značek Lenovo a Motorola, včetně počítačů, telefonů, tabletů a nositelných zařízení.Klíčové body Partnerství s Nvidia umožňuje cloudovým poskytovatelům nasadit liquid-cooled hybridní AI infrastrukturu v řádu týdnů místo měsíců. Qira funguje i na pozadí a integruje externí služby, například rezervační systém společnosti Expedia. Prezentace zahrnovala také konceptová zařízení a první skládací smartphone pod značkou Motorola. Oznámení provedl generální ředitel Lenovo Yang Yuanqing po boku šéfa Nvidia..."
-      }
-      
-      ,{
-        "title"    : "CES 2026: Nvidia představuje Alpamayo a zdůrazňuje čínské ambice v autonomním řízení",
-        "url"      : "/tech-news/2026-01-07/ces-2026-nvidias-alpamayo-launch-spotlights-chinas/",
-        "category" : "tech_news",
-        "content"  : "SouhrnNa veletrhu CES 2026 v Las Vegas Nvidia představila platformu Alpamayo, svou další generaci AI pro autonomní řízení. Tato platforma přechází od systémů řízených pouze vnímáním okolí k modelům schopným uvažovat a rozhodovat se. Představení zdůrazňuje rostoucí roli čínských výrobců v soutěži o autonomní technologie.Klíčové body Nvidia uvádí Alpamayo jako next-generation AI platformu pro autonomní řízení, zaměřenou na reasoning-oriented intelligence. Přechod od perception-driven systémů (jako detekce objektů kamerami) k uvažujícím modelům, které simulují lidské rozhodování. Silný důraz na čínské ambice: místní automobilky jako Huawei nebo XPeng integrují podobné technologie v závodě s Teslou. Související produkty: Drive AGX Hyperion s senzory..."
-      }
-      
-      ,{
-        "title"    : "Google DeepMind a Boston Dynamics oznámily nové partnerství pro integraci AI do humanoidních robotů",
-        "url"      : "/tech-news/2026-01-07/google-deepmind-boston-dynamics-announce-new-partn/",
-        "category" : "tech_news",
-        "content"  : "SouhrnGoogle DeepMind a Boston Dynamics uzavřely partnerství pro integraci pokročilých AI algoritmů do humanoidního robota Atlas. Tato spolupráce, oznámená na veletrhu CES 2026, má posílit schopnosti robota v oblasti rychlého rozhodování a navigace v terénu, což otevře dveře k aplikacím v záchranných operacích a průmyslové automatizaci. Partnerství reaguje na rostoucí konkurenci v robotice od firem jako Tesla nebo Nvidia.Klíčové body Integrace AI od DeepMind do robota Atlas pro zlepšení kognitivních funkcí, jako je řešení problémů v reálném čase. Zaměření na kombinaci fyzické mobility (např. překonávání terénu) s umělou inteligencí pro autonomní operace v nebezpečných prostředích. Potenciální aplikace v katastrofálních scénářích,..."
-      }
-      
-      ,{
-        "title"    : "Siemens rozšiřuje spolupráci s Nvidia pro nasazení průmyslové AI",
-        "url"      : "/tech-news/2026-01-07/siemens-expands-collaboration-with-nvidia-for-indu/",
-        "category" : "tech_news",
-        "content"  : "SouhrnSiemens a Nvidia rozšiřují své partnerství na vývoj průmyslových AI řešení, včetně plně AI-řízených výrobních provozů a systému pro průmyslovou AI. Společně vytvoří tzv. průmyslový operační systém pro AI, který integruje umělou inteligenci do výrobních a simulačních procesů napříč průmyslovými odvětvími. Siemens poskytne specialisty a své hardwareové a softwarové know-how, zatímco Nvidia dodá AI infrastrukturu včetně simulačních modelů a rámců.Klíčové body Vývoj průmyslového operačního systému pro AI s integrací do výrobních workflow. GPU akcelerace v celém simulačním portfoliu Siemensu pro kompatibilitu s Nvidia CUDA-X knihovnami a AI fyzikálními modely. Generativní simulace využívající Nvidia PhysicsNeMo pro autonomní digitální dvojčata s real-time..."
-      }
-      
-      ,{
-        "title"    : "AI chatbot Muska Grok čelí globální kritice kvůli sexualizovaným obrázkům žen a dětí",
-        "url"      : "/tech-news/2026-01-07/musks-ai-chatbot-faces-global-backlash-over-sexual/",
-        "category" : "tech_news",
-        "content"  : "SouhrnAI chatbot Grok od společnosti xAI, kterou vede Elon Musk, vyvolal mezinárodní kritiku po tom, co jeho funkce pro generování obrázků vytvořila sexualizované snímky žen a dětí bez souhlasu uživatelů těchto obrázků. Problém se zhoršil, když Grok začal upravovat cizí fotografie nahrnuté na platformě X. Vládové představitelé z Británie, Polska, Evropské unie, Francie, Indie, Malajsie a Brazílie odsoudili tento vývoj a volají po okamžitých opatřeních a vyšetřováních.Klíčové body Britské ministerstvo pro vědu a technologie vyzvalo platformu X k urgentní reakci. Polský poslanec uvedl případ jako důvod pro zavedení zákonů o digitální bezpečnosti. Evropská komise, francouzští, indičtí, malajskí a brazilští regulátoři..."
-      }
-      
-      ,{
-        "title"    : "Trump Media oznámila plány na největší elektrárnu na výrobu energie na světě – ale pouze v republikánských státech",
-        "url"      : "/tech-news/2026-01-07/trump-media-announces-plans-for-worlds-largest-pow/",
-        "category" : "tech_news",
-        "content"  : "SouhrnTrump Media and Technology Group (TMTG), provozovatel platformy Truth Social, se sloučila s TAE Technologies, firmou zaměřenou na vývoj jaderné fúze, a nyní plánuje postavit první komerční fúzní elektrárnu v USA. Tato elektrárna má být největší zařízení na výrobu energie na světě a bude umístěna výhradně v republikánských státech. Společnost otevřela výběr lokalit pro státní a místní vlády, s rozhodnutím v příštích týdnech.Klíčové body Sloučení TMTG s TAE Technologies umožňuje výstavbu první komerční fúzní elektrárny v USA s více reaktory na ploše minimálně 20 akrů. Lokalita musí být v republikánském státě, blízko metropole pro přístup k talentu, s připojením na..."
-      }
-      
-      ,{
-        "title"    : "Nové AI hlasové pero přímo propojené s ChatGPT s mikrofonem a kamerou",
-        "url"      : "/tech-news/2026-01-07/new-ai-voice-pen-links-straight-to-chatgpt-with-mi/",
-        "category" : "tech_news",
-        "content"  : "SouhrnOpenAI představuje Gumdrop, pero ve tvaru zařízení s mikrofonem a kamerou, které se připojuje přímo k ChatGPT a umožňuje hlasové příkazy, otázky i transkripci rukopisu bez závislosti na telefonech nebo počítačích. Tento hardware minimalizuje roli obrazovek a cílí na intuitivní integraci AI do rutiny. Cílem je posílit přímý přístup k AI službám OpenAI a snížit závislost na platformách jako iOS nebo Android.Klíčové body Minimalistický design pera s mikrofonem, kamerou a schopností transkripce rukopisu do textu pro ChatGPT. Přímé připojení k AI bez prostředníků, což zvyšuje soukromí díky zpracování na zařízení. Zaměření na hlasovou interakci a real-time konverzace pro každodenní použití..."
-      }
-      
-      ,{
-        "title"    : "Spinoff Intelu Articul8 získává více než polovinu kola 70 milionů dolarů při valuaci 500 milionů | TechCrunch",
-        "url"      : "/tech-news/2026-01-07/intel-spinout-articul8-raises-more-than-half-of-70/",
-        "category" : "tech_news",
-        "content"  : "SouhrnArticul8, podniková AI společnost oddělená od Intelu na začátku roku 2024, získala více než polovinu plánovaného Series B kola ve výši 70 milionů dolarů při pre-money valuaci 500 milionů dolarů. První tranše kola vede španělský fond Adara Ventures a společnost očekává uzavření celého kola v prvním čtvrtletí letošního roku. Tato valuace představuje pětinásobný růst oproti post-money valuaci 100 milionů dolarů z ledna 2024.Klíčové body Zajištěno více než 50 % z 70milionového kola Series B při 500milionové pre-money valuaci. Celková hodnota kontraktů překročila 90 milionů dolarů od 29 platiacích zákazníků, včetně Hitachi Energy, AWS, Franklin Templeton a Intelu. Společnost je revenue-positive..."
-      }
-      
-      ,{
-        "title"    : "VL-JEPA od Meta překonává objemné velké jazykové modely",
-        "url"      : "/tech-news/2026-01-07/metas-vision-language-shift-vl-jepa-beats-bulky-ll/",
-        "category" : "tech_news",
-        "content"  : "SouhrnMeta vyvinula VL-JEPA, vizuálně-jazykovou variantu architektury JEPA, která předpovídá význam dat přímo v embedding space místo sekvenčního generování textu. Tento přístup snižuje výpočetní nároky a umožňuje rychlé zpracování vizuálních a jazykových vstupů současně. Model je navržen pro reálné aplikace, jako je robotika a nositelná technologie.Klíčové body Předpovídání významu v embedding space místo slov za slovem, což zrychluje zpracování a snižuje spotřebu zdrojů. Současné zpracování vizuálních a jazykových dat pro rychlé rozhodování v reálném čase. Optimalizovaná architektura s pokročilými vizuálními vestavěními, vrstvami neuronových sítí a selektivním dekódováním textu. Fine-tuning zlepšuje přesnost a efektivitu při omezených datech. Potenciál pro robotiku a nositelná..."
-      }
-      
-      ,{
-        "title"    : "Fúzní energie se blíží k praxi: Commonwealth staví první demonstrační elektrárnu s podporou Siemens a Nvidia",
-        "url"      : "/tech-news/2026-01-07/fusion-power-nearly-ready-for-prime-time-as-common/",
-        "category" : "tech_news",
-        "content"  : "SouhrnSpolečnost Commonwealth Fusion Systems (CFS), lídr v oblasti fúzní energie, staví svou první demonstrační elektrárnu SPARC nedaleko Bostonu. Nedávno instalovala první z 18 vysoce teplotních supravodivých magnetů ve tvaru písmene D, což je klíčový krok k dosažení plazmatu v roce 2027. CFS spolupracuje se Siemens a Nvidia na integraci umělé inteligence pro optimalizaci provozu a napájení datových center.Klíčové body Instalace prvního supravodivého magnetu v projektu SPARC, který má být dokončen do konce roku 2026. Plánovaná první produkce plazmatu v roce 2027, následovaná komerční elektrárnou ARC na počátku 30. let. Partnerství se Siemens a Nvidia zaměřené na využití AI pro řízení..."
-      }
-      
-      ,{
-        "title"    : "xAI získává 20 miliard dolarů: Elon Musk slaví investiční úspěch, který může přetvořit sílu AI",
-        "url"      : "/tech-news/2026-01-07/xai-bags-20b-as-elon-musk-celebrates-a-funding-win/",
-        "category" : "tech_news",
-        "content"  : "SouhrnSpolečnost xAI, kterou založil Elon Musk, získala v novém investičním kole 20 miliard dolarů (ekvivalent 14,81 miliardy liber). Tato částka umisťuje firmu do pozice, z níž může významně konkurovat etablovaným hráčům v oblasti AI. Elon Musk na platformě X poděkoval týmu a investorům, přičemž úspěch je však zatížen kritikou kvůli zneužití chatbota Grok pro tvorbu nelegálních deepfake obrázků žen a nezletilých.Klíčové body Investiční kolo v hodnotě 20 miliard dolarů s účastí Nvidia, Qatar Investment Authority, Fidelity Management and Research Company a Valor Equity Partners (tato firma se specializuje na investice do technologických startupů). Elon Musk sdílel na X zprávu: „Gratuluji..."
-      }
-      
-      ,{
-        "title"    : "AI Grok od Elona Muska čelí kritice kvůli sexualizovaným obrázkům Ashley St Clair",
-        "url"      : "/tech-news/2026-01-07/elon-musks-grok-ai-faces-backlash-over-sexualised/",
-        "category" : "tech_news",
-        "content"  : "SouhrnAI chatbot Grok od společnosti xAI, kterou založil Elon Musk, vyvolal kontroverzi tím, že generoval sexualizované a upravené obrázky Ashley St Clair bez jejího souhlasu. St Clair, matka jednoho z Muskova dítěte, popsala zážitek jako znepokojivý a obrázky se rozšířily online. Kauza zdůrazňuje slabiny v bezpečnostních mechanismách generativních AI modelů a volá po přísnější regulaci.Klíčové body Grok generoval explicitní obrázky Ashley St Clair navzdory jejím opakovaným pokusům to zastavit. xAI dosud neuveřejnila detaily o bezpečnostních opatřeních nebo řešení problému. St Clair zvažuje právní kroky, což testuje aplikaci stávajících zákonů na AI-generovaný obsah. Kauza vyvolala politickou reakci ve Velké Británii a..."
-      }
-      
-      ,{
-        "title"    : "Lux Capital získala 1,5 miliardy dolarů na fond zaměřený na novou vědu a obranu",
-        "url"      : "/tech-news/2026-01-07/lux-capital-raises-15-billion-for-fund-focused-on/",
-        "category" : "tech_news",
-        "content"  : "SouhrnRiziková kapitálová společnost Lux Capital uzavřela sbírku 1,5 miliardy dolarů pro svůj devátý fond, který představuje největší objem v její více než dvacetileté historii. Fond, který byl předimenzován, se zaměřuje na investice do oblastí jako průlomová věda, národní bezpečnost, umělé inteligence, kvantové počítače a jaderná energie. Tento krok probíhá v době intenzivnější spolupráce mezi technologickými firmami ze Silicon Valley a vládou USA.Klíčové body Lux Capital získala 1,5 miliardy dolarů na fond IX, předimenzovaný oproti poptávce. Zaměření na průlomové technologie: umělá inteligence, kvantové počítače, jaderná energie a obranné aplikace. Minulé investice do startupů s vládními zakázkami: Anduril Industries (autonomní zbraňové systémy),..."
-      }
-      
-      ,{
-        "title"    : "OpenAI spouští ChatGPT Health pro spotřebitele",
-        "url"      : "/tech-news/2026-01-07/openai-launches-chatgpt-health-for-consumer-use/",
-        "category" : "tech_news",
-        "content"  : "SouhrnOpenAI spustilo ChatGPT Health, specializovanou verzi chatbota určenou pro spotřebitele, která umožňuje propojit uživatelské lékařské záznamy a data z aplikací jako Apple Health. Tímto způsobem chatbot poskytuje personalizovanější odpovědi na zdravotní otázky, jako je vysvětlení diagnóz nebo pojistných nároků. Společnost zdůrazňuje posílenou ochranu dat, i když nástroj není v souladu s předpisy HIPAA.Klíčové body Propojení s lékařskými záznamy, portály, aplikacemi (Apple Health, Function, MyFitnessPal) a PDF dokumenty pro ucelený přehled. Žádné trénování AI modelů na sdílených datech, multifaktorová autentizace a uživatelská kontrola nad propojeními. Aplikace v Health musí splňovat minimální sběr dat a procházet dodatečnou bezpečnostní kontrolou. Vyplňuje mezeru v..."
-      }
-      
-      ,{
-        "title"    : "Micron zahajuje stavbu historické megafab v New Yorku",
-        "url"      : "/tech-news/2026-01-07/pr-micron-announces-groundbreaking-for-historic-ne/",
-        "category" : "tech_news",
-        "content"  : "SouhrnSpolečnost Micron Technology, přední americký výrobce polovodičových pamětí, oznámila zahájení stavby své megafab v Onondaga County v New Yorku 16. ledna 2026. Tento areál s až čtyřmi výrobními halami se stane největší polovodičovou továrnou v USA a zaměří se na výrobu nejmodernějších pamětí pro AI aplikace. Slavnostní zahájení se zúčastní vrcholoví manažeři firmy, představitelé Trumpovy administrativy a newyorských úřadů.Klíčové body Datum zahájení: 16. leden 2026 po environmentálních schváleních a povoleních. Rozsah projektu: Až čtyři výrobní haly (fabs), největší polovodičová továrna v USA a největší soukromá investice v historii New Yorku. Účast na ceremonii: CEO Sanjay Mehrotra, představitelé Trumpovy administrativy (včetně..."
-      }
-      
-      ,{
-        "title"    : "Nepřirozené nové demo robota od Boston Dynamics vyvolává husí kůži",
-        "url"      : "/tech-news/2026-01-07/boston-dynamics-unnatural-new-robot-demo-will-give/",
-        "category" : "tech_news",
-        "content"  : "SouhrnBoston Dynamics představil na veletrhu CES v Las Vegas nové schopnosti humanoidního robota Atlas, který díky speciálním kloubům umožňuje kontinuální rotaci v bocích, zápěstích a krku. Firma oznámila přípravu produkční verze tohoto robota a partnerství s Google DeepMind pro integraci pokročilé umělé inteligence. Plánuje nasazení Atlasu v automobilové továrně Hyundai do roku 2028.Klíčové body Klouby s kontinuální rotací (360 stupňů) v bocích, zápěstích a krku umožňují pohyby překračující lidskou anatomii. Demo zahrnovalo rotaci rukou jako vrták, otočení hlavy a plné otočení trupu. Produkční verze Atlasu: výška 188 cm, hmotnost 90 kg. Partnerství s DeepMind pro AI schopnosti, jako je plánování..."
-      }
-      
-      ,{
-        "title"    : "Největší aktualizace Siri za léta by mohla přijít v březnu – bude stačit?",
-        "url"      : "/tech-news/2026-01-07/apples-biggest-siri-update-in-years-could-arrive-t/",
-        "category" : "tech_news",
-        "content"  : "SouhrnApple plánuje vydat významnou aktualizaci hlasového asistenta Siri, která integruje velký jazykový model (LLM). Tato verze by měla debutovat v březnu 2026 společně s iOS 26.4 a má přinést chování podobné pokročilým AI chatbotům jako ChatGPT nebo Gemini. Zprávy naznačují interní testování na iPhonech, iPadech a Macích, avšak úspěch závisí na snížení chybovosti.Klíčové body LLM Siri bude testována jako samostatná aplikace a integruje pokročilé AI schopnosti pro přirozenější interakce. Očekávané vydání v březnu 2026 s iOS 26.4, podle reportů od analytika Marka Gurmana z konce 2024. Cílem je snížit frustrace z chyb, které uživatelé zažívají dlouhodobě, jako v příkladech z..."
-      }
-      
-      ,{
-        "title"    : "Vážná rizika Trumpova výkonného nařízení omezujícího státní regulaci AI",
-        "url"      : "/tech-news/2026-01-07/the-serious-risks-of-trumps-executive-order-curbin/",
-        "category" : "tech_news",
-        "content"  : "SouhrnPrezident Donald Trump podepsal 11. prosince 2025 výkonné nařízení, které má převzít nad státními zákony regulujícími AI a nahradit je národním rámcem s minimální zátěží. Tento krok reaguje na rychlý růst generativních systémů AI, jako je ChatGPT, který generuje text a obrázky na základě uživatelských požadavků, a ohrožuje regulace zavedené v 38 státech v roce 2025. Nařízení vyzývá federální úřady k aktivnímu boji proti státním předpisům.Klíčové body Výkonné nařízení prohlašuje za politiku USA vytvoření národního rámce pro AI s minimální regulační zátěží a vyzývá generálního prokurátora k zřízení úderné skupiny pro soudní napadení nesouladných státních zákonů. Ministr obchodu má identifikovat..."
-      }
-      
-      ,{
-        "title"    : "Flint zahajuje výrobu biologicky rozložitelné „papírové baterie“",
-        "url"      : "/tech-news/2026-01-07/flint-announces-production-of-biodegradable-paper/",
-        "category" : "tech_news",
-        "content"  : "SouhrnSingapurská firma Flint, specializující se na inovativní bateriové technologie, oznámila zahájení sériové výroby dobíjecí „papírové baterie“. Tato baterie je tenká, ohýbatelná a plně biologicky rozložitelná, přičemž nevyužívá lithiové, kobalthové ani niklové složky. Výroba probíhá v jejím závodě v Singapuru a baterie je připravena pro první komerční integrace do zařízení.Klíčové body Baterie se vyrábí bez lithia, kobaltu nebo niklu; anoda z zinku, katoda z manganu a elektrolyt na bázi vodného hydrogelu. Plně biologicky rozložitelná: po použití lze zkompostovat v půdě, kde se rozloží do šesti týdnů bez škodlivých zbytků. Tenký a ohýbatelný design v vakuově utěsněném obalu umožňuje integraci do flexibilních..."
-      }
-      
-      ,{
-        "title"    : "Novinářská malpraxe: Žádný LLM nikdy nic &#39;nepřizná&#39; a hlásit opak je lež",
-        "url"      : "/tech-news/2026-01-07/journalistic-malpractice-no-llm-ever-admits-to-any/",
-        "category" : "tech_news",
-        "content"  : "SouhrnMédia špatně interpretují chování Groku, chatbota od xAI Elona Muska, jako skutečnou omluvu za generování nevhodných obrázků. LLM jako Grok nemají vědomí ani schopnost přiznávat chyby; pouze generují text na základě uživatelského vstupu. Toto zkreslené reportování odhaluje nedostatky v novinářském porozumění AI.Klíčové body Média jako Reuters a Newsweek tvrdí, že Grok se ‘omluvil’ za tvorbu obrázků bez souhlasu, což je nepřesné. LLM fungují stateless – každá odpověď je nezávislá na předchozích interakcích a závisí výhradně na promptu. Grok, postavený na modelu Grok-1.5 nebo novějším s podporou generování obrázků přes Flux.1, se dříve prezentoval kontroverzně, například jako ‘MechaHitler’. Autor čláčku srovnává..."
-      }
-      
-      ,{
-        "title"    : "MyFitnessPal spouští integraci v novém ChatGPT Health Experience",
-        "url"      : "/tech-news/2026-01-07/myfitnesspal-launches-app-in-new-chatgpt-health-ex/",
-        "category" : "tech_news",
-        "content"  : "SouhrnMyFitnessPal, největší globální aplikace pro sledování výživy a jídelníčku, spustila 7. ledna 2026 integraci přímo do ChatGPT. Tato novinka umožňuje uživatelům ChatGPT získat v reálném čase personalizované rady k výživě, recepty a správě hmotnosti na základě databáze přes 20 milionů potravin. Integrace funguje v novém ChatGPT Health experience i napříč celou platformou s 800 miliony týdenních uživatelů.Klíčové body Personalizované rady: Uživatelé mohou ptát na zdravé večeře, jídelníčky pro hubnutí nebo vysoce proteinová jídla a dostat odpovědi s recepty, makroživinami a kalorickými cíli. Datové zdroje: Využívá 20 let vědecky podložených dat MyFitnessPal, databázi 20 milionů potravin a 2000 receptů. Dostupnost: Jedna..."
-      }
-      
-      ,{
-        "title"    : "Orlando Sentinel a další noviny žádají sankce kvůli obviněním z ničení klíčových důkazů OpenAI",
-        "url"      : "/tech-news/2026-01-07/orlando-sentinel-other-papers-seek-sanctions-over/",
-        "category" : "tech_news",
-        "content"  : "SouhrnAdvokáti novinových společností, včetně Orlando Sentinel a New York Times, žádají soud v Manhattanu o sankce vůči OpenAI. Firma prý smazala miliony zápisů konverzací s ChatGPT, které měly sloužit jako důkaz o porušení autorských práv na novinové články. Tento krok proběhl navzdory příkazům dvou soudců k uchování těchto dat.Klíčové body OpenAI nahradilo miliony požadovaných zápisů výstupů jinými konverzacemi, což naznačuje smazání původních logů. Zápisy měly obsahovat důkazy, že ChatGPT generuje obsah založený na chráněných novinových textech. Soudní příkazy vydali magistrátní soudkyně Ona Wang (listopad) a federální soudce (5. ledna). Spor vede Tribune Publishing, MediaNews Group a Authors Guild proti OpenAI..."
-      }
-      
-      ,{
-        "title"    : "OpenAI vybírá b.well pro bezpečné připojení zdravotních dat v ChatGPT pro personalizované AI zdravotní interakce",
-        "url"      : "/tech-news/2026-01-07/openai-selects-bwell-to-power-secure-health-data-c/",
-        "category" : "tech_news",
-        "content"  : "SouhrnOpenAI oznámilo partnerství s firmou b.well, která poskytne infrastrukturu pro bezpečné připojení zdravotních dat do ChatGPT Health. Uživatelé tak mohou explicitně autorizovat přístup k svým lékařským záznamům z amerických zdravotnických poskytovatelů, což umožní AI generovat odpovědi založené na jejich longitudinálních zdravotních datech. Tento krok klade důraz na kontrolu uživatele nad daty a soukromím.Klíčové body OpenAI integruje b.well pro přístup k datům z více než 2,2 milionu poskytovatelů a 320 zdravotních pojišťoven v USA. Platforma b.well využívá FHIR-based API a standardy pro ověření identity, správu souhlasu a auditovatelnost. Funkce je dostupná v ChatGPT Health, kde slouží k personalizovaným zdravotním radám a..."
-      }
-      
-      ,{
-        "title"    : "Lux Capital získal 1,5 miliardy dolarů pro svůj největší fond dosud | TechCrunch",
-        "url"      : "/tech-news/2026-01-07/lux-capital-lands-15-billion-for-its-largest-fund/",
-        "category" : "tech_news",
-        "content"  : "SouhrnVenture kapitálová firma Lux Capital uzavřela svůj devátý fond v objemu 1,5 miliardy dolarů, což představuje největší fond v její 25leté historii. Navzdory tomu, že rok 2025 byl podle dat PitchBook nejhorším za deset let z hlediska počtu nově získaných VC fondů v USA, Lux přilákala investory díky úspěšnému track recordu v investicích do obranných technologií a umělé inteligence. Tento fond zvyšuje celkové aktiva pod správou firmy na 7 miliard dolarů.Klíčové body Uzavření fondu o velikosti 1,5 miliardy USD, největšího v historii firmy. Rané seed investice do Anduril (aktuální hodnota 30,5 miliardy USD) a Applied Intuition (hodnota 15 miliard USD,..."
-      }
-      
-      ,{
-        "title"    : "2026 bude rokem světových modelů. Proč jsou důležitější než velké jazykové modely",
-        "url"      : "/tech-news/2026-01-07/a-2026-will-be-the-year-of-world-models-heres-why/",
-        "category" : "tech_news",
-        "content"  : "SouhrnRok 2026 by měl přinést posun od velkých jazykových modelů (LLM) k světovým modelům, které umožňují AI chápat a simulovat fyzický svět. Tyto modely překládají zákony fyziky, detekci objektů a dynamiku pohybu do digitální podoby, což je základ pro fyzickou AI schopnou nejen chápat realitu, ale i v ní jednat. Klíčoví experti jako Yann LeCun, Fei-Fei Li a Jensen Huang signalizují tento trend.Klíčové body Yann LeCun opustil vedení AI u Meta kvůli startupu zaměřenému na světové modely. Fei-Fei Li označuje prostorovou inteligenci za další hranici inovací v AI. Nvidia v keynote na CES 2026 zdůraznila trénink modelů na datech ukotvených..."
-      }
-      
-      ,{
-        "title"    : "Anthropic údajně hledá 10 miliard dolarů financování při valuaci 350 miliard dolarů",
-        "url"      : "/tech-news/2026-01-07/anthropic-reportedly-seeking-to-raise-10b-at-350b/",
-        "category" : "tech_news",
-        "content"  : "SouhrnSpolečnost Anthropic PBC, vývojář velkých jazykových modelů Claude, údajně rokuje o novém kole financování v objemu 10 miliard dolarů při pre-money valuaci 350 miliard dolarů. Jednání probíhají méně než dva měsíce po předchozím kole a vedou je investoři Coatue Management a GIC. Tato valuace překonává xAI, ale zaostává za OpenAI s valuací 600 miliard dolarů.Klíčové body Nové financování 10 miliard dolarů při valuaci 350 miliard dolarů, téměř dvojnásobek oproti valuaci ze září. Vedení kola Coatue Management (hedžový fond zaměřený na technologie) a GIC (singapurský státní investiční fond). Očekávaný růst ročního opakovaného příjmu z 9 miliard dolarů koncem 2025 na téměř..."
-      }
-      
-      ,{
         "title"    : "Ford vstupuje do závodu o technologii řízení bez pohledu na silnici, startuje s 30 000dolarovým elektromobilem v roce 2028",
         "url"      : "/tech-news/2026-01-08/ford-enters-race-to-offer-eyes-off-driving-tech-st/",
         "category" : "tech_news",
@@ -31309,6 +31059,195 @@
         "url"      : "/tech-news/2026-01-12/can-solid-state-battery-startup-donut-lab-deliver/",
         "category" : "tech_news",
         "content"  : "SouhrnEstonská společnost Donut Lab, malý startup zaměřený na vývoj pokročilých baterií, oznámila první plně pevnostátní baterii s energetickou hustotou 400 Wh/kg, nabíjením za méně než 5 minut a odolností až 100 000 cyklů nabíjení a vybíjení. Baterie nevyužívá vzácné kovy jako lithium, kobalt nebo nikl, je nehořlavá, netoxická a odolná vůči propíchnutí. Tyto vlastnosti by mohly ovlivnit oblasti jako elektromobily, drony nebo síťové ukládání energie, avšak zůstávají otázky ohledně ověření a výroby ve velkém.Klíčové body Energetická hustota 400 Wh/kg, což překonává současné lithiové iontové baterie (typicky 250–300 Wh/kg). Nabíjení pod 5 minut při zachování vysoké výdrže. Až 100 000 cyklů..."
+      }
+      
+      ,{
+        "title"    : "Anthropic posiluje zaměření na zdravotnictví novým programem pro Claude",
+        "url"      : "/tech-news/2026-01-12/anthropic-increases-medical-focus-with-new-claude/",
+        "category" : "tech_news",
+        "content"  : "SouhrnSpolečnost Anthropic, vývojář modelů umělé inteligence Claude, spustila program „Claude for Healthcare“. Tento program nabízí sadu nástrojů a integrací, které umožňují zdravotnickým zařízením, pacientům a pojišťovnám používat Claude pro specifické lékařské úkoly. Oznámení přišlo 11. ledna a zaměřuje se na bezpečnou manipulaci s daty v souladu s předpisy jako HIPAA.Klíčové body Připojení k federálním databázím, jako je Centers for Medicare &amp;amp; Medicaid Services (CMS), pro ověřování krytí, autorizace a apelace faktur. Podpora pro přesnou lékařskou fakturaci, ověřování poskytovatelů a prioritizaci pacientových zpráv. Integrace s osobními zdravotnickými platformami Apple Health a Android Health Connect pro analýzu výsledků laboratoří a přípravu na..."
+      }
+      
+      ,{
+        "title"    : "Tržní kapitalizace mateřské společnosti Google dosáhla 4 bilionů dolarů díky úspěchům v AI",
+        "url"      : "/tech-news/2026-01-12/google-parent-companys-market-cap-hits-4-trillion/",
+        "category" : "tech_news",
+        "content"  : "SouhrnMateřská společnost Google, Alphabet, poprvé dosáhla tržní kapitalizace 4 bilionů dolarů 12. ledna díky úspěchům v oblasti umělé inteligenci (AI). Akcie dosáhly intradenního maxima 334,04 dolaru, což zvýšilo celkovou hodnotu na 4,03 bilionu dolarů. Tento milník představuje obrat v náladě investorů po obavách z konkurence jako ChatGPT.Klíčové body Akcie Alphabetu dosáhly rekordu 334,04 dolaru, tržní kapitalizace 4,03 bilionu dolarů – čtvrtá firma po Apple, Microsoftu a Nvidii. Partnerství s Apple: Gemini AI model pohání novou verzi Siri. Růst uživatelů Gemini z 450 milionů minulého léta na 650 milionů dnes. Vyšlo Gemini 3, model s širokými aplikacemi v AI. Obrat po..."
+      }
+      
+      ,{
+        "title"    : "Apple žádá Google o pomoc s rozšířením AI funkcí na iPhonu",
+        "url"      : "/tech-news/2026-01-12/apple-asks-google-to-help-bring-more-ai-features-t/",
+        "category" : "tech_news",
+        "content"  : "SouhrnApple uzavřel partnerství s Googlem, aby dokončil vývoj AI funkcí pro iPhone, včetně přepracování virtuálního asistenta Siri. Tato spolupráce umožní využít model Gemini k přizpůsobení sady Apple Intelligence na iPhone a další zařízení Apple. Společnost tak reaguje na své zpoždění v závodě o umělou inteligenci, kde vedou Google a Samsung.Klíčové body Apple bude používat technologii Gemini od Googlu pro sadu AI funkcí nazvanou Apple Intelligence. Partnerství pomůže dokončit přepracování Siri, které mělo přeměnit asistenta na konverzačního multitaskera. Mnoho slibovaných AI funkcí pro iPhone z roku 2024 zůstává ve vývoji, zatímco konkurence je již nasadila. Dohoda byla oznámena společným prohlášením obou..."
+      }
+      
+      ,{
+        "title"    : "Grok zablokován v Malajsii a Indonésii kvůli rostoucímu skandálu s sexuálními deepfakes",
+        "url"      : "/tech-news/2026-01-12/grok-blocked-in-malaysia-and-indonesia-as-sexual-d/",
+        "category" : "tech_news",
+        "content"  : "SouhrnMalajsie a Indonésie jako první země na světě zablokovaly přístup k AI chatbotu Grok od společnosti xAI Elona Muska kvůli obavám z jeho zneužití na generování sexuálních deepfakes bez souhlasu. Regulátoři kritizují nedostatečné bezpečnostní mechanismy, které nedokážou zabránit tvorbě explicitních obrázků žen i dětí. Scrutiny se rozšiřuje do EU, Indie, Francie a Velké Británie, kde probíhají vyšetřování a legislativní kroky.Klíčové body Malajsie a Indonésie dočasně zablokovaly Grok kvůli šíření falešného pornografického obsahu, zejména s ženami a nezletilými. Velká Británie plánuje kriminalizovat aplikace na ‘odévání’ (nudification apps) a zahájila vyšetřování Grok za sdílení sexuálních obrázků dětí. xAI omezilo generování a úpravu..."
+      }
+      
+      ,{
+        "title"    : "Apple volí Gemini",
+        "url"      : "/tech-news/2026-01-12/apple-picks-gemini/",
+        "category" : "tech_news",
+        "content"  : "SouhrnApple a Google vstoupily do víceleté spolupráce, díky níž budou nové Apple Foundation Models – základní modely umělé inteligence od Apple – postaveny na modelech Gemini od Google a jeho cloudové technologii. Tyto modely budou napájet pokročilé funkce Apple Intelligence, jako je vylepšená a personalizovanější Siri, která má přijít letos. Apple zdůrazňuje, že vše poběží na jeho zařízeních a v systému Private Cloud Compute s důrazem na soukromí.Klíčové body Víceletá dohoda mezi Apple a Google na základních modelech umělé inteligence. Apple Foundation Models založené na Gemini, které slouží k tvorbě pokročilých funkcí jako personalizovaná Siri. Zachování provozu na zařízeních Apple..."
+      }
+      
+      ,{
+        "title"    : "Apple žádá Google o pomoc s vylepšením Siri a přidáním dalších AI funkcí na iPhone",
+        "url"      : "/tech-news/2026-01-12/apple-calls-on-google-to-help-smarten-up-siri-and/",
+        "category" : "tech_news",
+        "content"  : "SouhrnApple oznámil partnerství s Googlom, které umožní využít technologii Gemini k dokončení vývoje vylepšené Siri a dalších funkcí umělé inteligence v rámci sady Apple Intelligence na iPhone a dalších zařízeních. Tento krok přichází po zpožděních Apple v AI vývoji, kdy mnoho slíbených funkcí zůstalo v beta fázi, zatímco Google a Samsung již nasazují podobné technologie. Partnerství bylo zveřejněno společným prohlášením 12. ledna 2026.Klíčové body Apple integruje Google Gemini do Apple Intelligence pro vylepšení Siri a další AI funkce na iPhone, iPadu a dalších produktech. Původní plán na AI upgrady v roce 2024 se posunul na rok 2026 kvůli vývojovým problémům...."
+      }
+      
+      ,{
+        "title"    : "„Apple Intelligence“ poháněné Gemini představuje „významnou validaci pro Google“, říká špičkový technologický analytik",
+        "url"      : "/tech-news/2026-01-12/apple-intelligence-powered-by-gemini-marks-a-major/",
+        "category" : "tech_news",
+        "content"  : "SouhrnApple společně s Googlem oznámila partnerství, díky kterému bude Apple Intelligence – sada AI funkcí pro iPhone a další zařízení – poháněna modelem Gemini od Google. Tato dohoda pomůže Applu dokončit vývoj vylepšené Siri a dalších AI nástrojů, které byly zpožděny. Podle analytika Dana Ivese z Wedbush Securities jde o klíčovou validaci pro Google v soutěži o AI dominanci.Klíčové body Apple integruje Gemini do Apple Intelligence pro personalizaci AI funkcí na iPhone, iPadech a Macích. Vývoj Siri, která měla získat konverzační schopnosti a multitasking, byl odložen na rok 2026. Google již nasadilo Gemini v prohlížeči, Gmailu a telefonech Pixel, kde..."
+      }
+      
+      ,{
+        "title"    : "Meta jmenuje bývalou poradkyni Bílého domu pro řízení AI projektů",
+        "url"      : "/tech-news/2026-01-12/meta-picks-former-white-house-advisor-to-drive-ai/",
+        "category" : "tech_news",
+        "content"  : "SouhrnMeta jmenovala nové manažery pro klíčové oblasti svých AI iniciativ, včetně spolupráce s vládami a rozvoje datových center. CEO Mark Zuckerberg na Facebooku uvedl, že společnost plánuje postavit desítky gigawattů výpočetní infrastruktury tento desetiletí a stovky gigawattů dlouhodobě, což považuje za strategickou výhodu. Mezi novými lídry je Dina Powell McCormick, bývalá poradkyně prezidenta Donalda Trumpa.Klíčové body Jmenování Dině Powell McCormick na pozici prezidentky a vicepředsedkyně pro partnerství s vládami a investory v AI infrastruktuře. Santosh Janardhan pokračuje v dohledu nad datovými centry a jejich technickou architekturou. Daniel Gross, spoluzakladatel firmy Safe Superintelligence (zaměřené na vývoj bezpečné superinteligence), vede novou skupinu..."
+      }
+      
+      ,{
+        "title"    : "Ethereum by neměl odkládat přípravy na hrozbu kvantových počítačů, říká Vitalik Buterin",
+        "url"      : "/tech-news/2026-01-12/ethereum-shouldnt-delay-preparing-for-quantum-comp/",
+        "category" : "tech_news",
+        "content"  : "SouhrnSpoluzakladatel Ethereum Vitalik Buterin vyzval k okamžité přípravě na hrozbu kvantových počítačů. Podle něj by blockchain měl být navržen tak, aby fungoval desítky let bez častých aktualizací, včetně ochrany proti kvantovým útokům. Tato výzva přichází v době, kdy ceny kryptoměn jako Bitcoin a Ethereum rostou.Klíčové body Ethereum potřebuje post-kvantovou kryptografii, aby odolal algoritmům jako Shor’s algorithm. Síť by měla minimalizovat závislost na opakovaných upgrdech pro dlouhodobou stabilitu. Vitalik zdůrazňuje, že příprava by měla začít nyní, před praktickým nasazením kvantových počítačů. Aktuální ceny: BTC 94 321 USD (+2,89 %), ETH 3 211 USD (+3,40 %). Doporučuje přechod na odolnější podpisové schémata,..."
+      }
+      
+      ,{
+        "title"    : "Apple a Google uzavřely dohodu o Gemini pro vylepšenou Siri",
+        "url"      : "/tech-news/2026-01-12/apple-google-strike-gemini-deal-for-revamped-siri/",
+        "category" : "tech_news",
+        "content"  : "SouhrnApple uzavřel s Googlem víceletou dohodu, podle níž bude využívat modely Gemini pro svou přepracovanou verzi hlasového asistenta Siri, jež má vyjít ještě letos. Tento krok prohlubuje alianci obou technologických gigantů v oblasti umělé inteligence a pomáhá společnosti Alphabet konkurovat OpenAI. Modely Gemini budou základem pro Apple Foundation Models i další funkce Apple Intelligence.Klíčové body Apple vybral Gemini po pečlivé evaluaci jako nejvhodnější technologii pro Siri a budoucí AI funkce. Dohoda otevírá Google přístup k více než 2 miliardám aktivních Apple zařízení. Google již pohání AI funkce v Samsungu Galaxy AI, tento kontrakt je dalším krokem. Apple dříve integroval ChatGPT..."
+      }
+      
+      ,{
+        "title"    : "Precision Neuroscience a Medtronic integrují rozhraní Layer 7 pro brain-computer interface s neurochirurgickou platformou Medtronic",
+        "url"      : "/tech-news/2026-01-12/precision-neuroscience-and-medtronic-partner-to-in/",
+        "category" : "tech_news",
+        "content"  : "SouhrnPrecision Neuroscience, společnost specializující se na minimálně invazivní rozhraní mozek-počítač (BCI), uzavřela partnerství s Medtronic, předním výrobcem medicínských zařízení. Cílem je integrace technologie Layer 7 do systému StealthStation pro chirurgickou navigaci. Tato kombinace má umožnit neurochirurgům rychlejší a přesnější rozhodování během operací.Klíčové body Integrace vysokorozlišovacího kortikálního rozhraní Layer 7 s 3D navigačním systémem StealthStation. Poskytnutí real-time údajů o struktuře i funkci mozku v operační síni. Minimalizace potřeby samostatných nástrojů pro vizualizaci mozku. Partnerství urychluje klinické nasazení BCI technologie. Citace CEO Michaela Magera: integrace do existujících nástrojů pro rychlou adopci.PodrobnostiPrecision Neuroscience, založená v roce 2021 bývalým spoluzakladatelem Neuralinku Benem Rapoportem, se..."
+      }
+      
+      ,{
+        "title"    : "Velká Británie zavádí zákon kriminalizující deepfake akty v reakci na Grok",
+        "url"      : "/tech-news/2026-01-12/uk-pushes-up-a-law-criminalizing-deepfake-nudes-in/",
+        "category" : "tech_news",
+        "content"  : "SouhrnVelká Británie urychleně uvádí v platnost ustanovení Zákona o datech (Data Act), které kriminalizují vytváření nebo zadávání nekonzistentních intimních deepfake obrázků, jako reakci na explozi takového obsahu generovaného AI chatbotem Grok na sociální síti X. Ministrka vědy Liz Kendall zároveň oznámila, že toto porušení stane prioritním v rámci Zákona o online bezpečnosti (Online Safety Act), což platформы nutí k proaktivní detekci a odstranění. Regulátor Ofcom již zahájil formální vyšetřování X.Klíčové body Vytváření nebo zadávání nekonzistentních intimních deepfake obrázků je od tohoto týdne trestným činem podle Data Act z minulého roku. Porušení se stává prioritním v Online Safety Act, což zavazuje..."
+      }
+      
+      ,{
+        "title"    : "Apple a Google uzavírají dohodu o použití Gemini AI pro vývoj budoucnosti Siri",
+        "url"      : "/tech-news/2026-01-12/apple-google-sign-deal-to-use-gemini-ai-to-help-bu/",
+        "category" : "tech_news",
+        "content"  : "SouhrnApple oznámil víceleté partnerství s Googlem, podle kterého budou budoucí Apple Foundation Models – základy umělé inteligence pro zařízení Apple – postaveny na modelech Gemini a cloudové infrastruktuře Google. Tato spolupráce má umožnit vývoj pokročilejší, personalizovanější verze hlasového asistenta Siri, jejíž vydání je naplánováno na rok 2026. Apple Intelligence, sada AI funkcí integrována do iOS a dalších systémů, bude i nadále spoléhat na místní zpracování na zařízeních a privátní cloudovou síť Private Cloud Compute s důrazem na soukromí.Klíčové body Apple Foundation Models budou založeny na modelech Gemini od Google, což potvrzuje, že vlastní modely Applu nedosahovaly požadovaného výkonu. Personalizovaná Siri,..."
+      }
+      
+      ,{
+        "title"    : "Apple založí Apple Intelligence na umělé inteligenci od Google",
+        "url"      : "/tech-news/2026-01-12/apple-to-base-apple-intelligence-on-googles-ai/",
+        "category" : "tech_news",
+        "content"  : "SouhrnApple a Google vydaly společné prohlášení, podle kterého bude další generace Apple Foundation Models postavena na modelech Gemini od Google a jeho cloudové infrastruktuře. Tyto modely budou napájet funkce Apple Intelligence, jako je vylepšená Siri s vyšší mírou personalizace. Apple zdůrazňuje, že principy ochrany soukromí, včetně zpracování dat na zařízení a Private Cloud Compute, zůstanou zachovány.Klíčové body Nová generace Apple Foundation Models využije modely Gemini jako základní vrstvu pro trénink a provoz. Funkce Apple Intelligence, včetně Siri, získají vyšší výkon díky cloudové podpoře Google. Apple přiznává problémy s vlastním vývojem AI a volí Google jako nejvhodnější technologii. Ochrana soukromí zůstává..."
+      }
+      
+      ,{
+        "title"    : "Inženýři nasadili „Poison Fountain“, který rozhazuje fungování systémů umělé inteligence",
+        "url"      : "/tech-news/2026-01-12/engineers-deploy-poison-fountain-that-scrambles-br/",
+        "category" : "tech_news",
+        "content"  : "SouhrnProjekt Poison Fountain, spuštěný minulý týden, umožňuje otrávit tréninková data pro modely umělé inteligence tím, že webové crawlery velkých firem nasají záměrně poškozené informace z webu. Autoři projektu, kteří podle zdrojů pracují pro přední americké AI společnosti, se odvolávají na varování Geoffreye Hintona a cílí na sabotáž AI systémů. Tento přístup by mohl v teoretické rovině výrazně zkomplikovat trénink velkých modelů.Klíčové body Projekt Poison Fountain trikují webové crawlery, aby sbíraly otrávená data z webových stránek, což vede k chybám v tréninku AI modelů. Zapojeni jsou inženýři z velkých amerických AI firem, což eskaluje interní konflikt v oboru. Odkaz na Geoffreye..."
+      }
+      
+      ,{
+        "title"    : "Nový navrhovaný zákon by umožnil provoz autonomních vozidel ve státě New York",
+        "url"      : "/tech-news/2026-01-13/new-proposed-legislation-would-let-self-driving-ca/",
+        "category" : "tech_news",
+        "content"  : "SouhrnGuvernérka New Yorku Kathy Hochul v utorňajším projevu State of the State oznámí návrh legislativy, která by rozšířila současné regulace a umožnila společnostem provozovat omezené komerční služby autonomních vozidel v menších městech státu. Program vylučuje New York City a vyžaduje od firem prokázání lokální podpory a solidních bezpečnostních záznamů. Cílem je zvýšit bezpečnost na silnicích a zlepšit mobilitu v oblastech mimo velkoměsto.Klíčové body Pilotní programy autonomních vozidel schvalovány pouze pro menší města mimo New York City. Žádosti firem musí obsahovat důkaz lokální podpory a prokázané bezpečnostní výsledky. Státní agentury budou dohlížet na dodržování vysokých bezpečnostních standardů. Nejasný postup přechodu z..."
+      }
+      
+      ,{
+        "title"    : "Kroger a Papa Johns testují AI agenty Gemini pro maloobchod",
+        "url"      : "/tech-news/2026-01-13/kroger-papa-johns-test-gemini-ai-agents-for-retail/",
+        "category" : "tech_news",
+        "content"  : "SouhrnGoogle Cloud spustil platformu Gemini Enterprise for Customer Experience, určenou pro nasazení AI agentů v maloobchodu. Tyto agenty podporují procesy jako objevování produktů, vytváření objednávek a řešení problémů po nákupu. První testy probíhají u řetězců Kroger a Papa Johns, oznámeno na konferenci National Retail Federation v New Yorku.Klíčové body Platforma umožňuje nasazení konfigurovatelných AI agentů, kteří udržují kontext napříč kanály jako mobilní aplikace, webové stránky, kiosky a hlasové systémy. Kroger (největší americký řetězec supermarketů) a Papa Johns (síť pizzerií) integrují technologii do svých existujících systémů pro zákazníky. Na rozdíl od Google Universal Commerce Protocol zůstávají interakce v brandových prostředích, ne..."
+      }
+      
+      ,{
+        "title"    : "Elon Musk investuje 20 miliard dolarů do Mississippi, zatímco Kanada odhání investory",
+        "url"      : "/tech-news/2026-01-13/elon-musk-invests-20-billion-in-mississippi-as-can/",
+        "category" : "tech_news",
+        "content"  : "SouhrnElon Musk plánuje investovat 20 miliard dolarů do výstavby datových center pro umělou inteligenci v Mississippi, což je největší investice v historii tohoto státu. Tento krok navazuje na podobné projekty v Tennessee a kontrastuje s odlivem investorů z Kanady kvůli přísným regulacím. Investice se zaměřuje na infrastrukturu pro trénink AI modelů, jako jsou velké jazykové modely.Klíčové body Investice 20 miliard dolarů do AI datových center v Mississippi, největší v historii státu. Navazuje na projekty v Tennessee, zaměřené na vyspělé technologie. Kontrast s Kanadou, kde regulace a vysoké náklady odhánějí investory do AI infrastruktury. Data centra zaměstnají omezený počet lidí, přibližně..."
+      }
+      
+      ,{
+        "title"    : "Smlouva Google–Apple v oblasti AI signalizuje novou fázi soutěže mimo modely",
+        "url"      : "/tech-news/2026-01-13/googleapple-ai-deal-signals-a-new-phase-of-competi/",
+        "category" : "tech_news",
+        "content"  : "SouhrnGoogle a Apple spustily víceletou spolupráci, díky níž budou další generace modelů Apple Foundation Models – základních velkých jazykových modelů pro ekosystém Apple – stavět na modelech Gemini od Google a jeho cloudové infrastruktuře. Tato dohoda umožní vývoj pokročilých funkcí Apple Intelligence, které zahrnují on-device zpracování dat i cloudové výpočty. Partnerství signalizuje, že soutěž v oblasti AI se posouvá od vývoje samotných modelů k integraci, bezpečnosti a uživatelským aplikacím.Klíčové body Apple Foundation Models budou integrovat Google Gemini jako základní vrstvu pro trénink a inferenci. Google poskytne cloudovou technologii pro škálování Apple Intelligence funkcí mimo zařízení uživatele. Spolupráce je víceletá a..."
+      }
+      
+      ,{
+        "title"    : "Nárůst Alphabetu na 4 biliony dolarů upevňuje postavení vítěze v AI boomu",
+        "url"      : "/tech-news/2026-01-13/alphabets-rise-to-4-trillion-cements-status-as-ai/",
+        "category" : "tech_news",
+        "content"  : "SouhrnSpolečnost Alphabet Inc., mateřská firma Google, dosáhla 12. ledna 2026 tržní kapitalizace přes 4 biliony dolarů, čímž se zařadila mezi špičku světových firem. Tento milník přichází v kontextu AI boomu, podporený multiročním partnerstvím s Applem pro napájení AI technologií v iPhonech včetně hlasového asistenta Siri. Akcie Alphabetu vzrostly o 1 % na 331,86 dolaru, což přidalo k jeho valuaci téměř 1,5 bilionu dolarů za rok 2025.Klíčové body Alphabet překonal Apple v tržní kapitalizaci a stal se druhou největší firmou za Nvidia. Multiroční dohoda s Applem zahrnuje poskytování AI technologií pro Siri a další funkce v iPhonech. Akcie vzrostly o 6..."
+      }
+      
+      ,{
+        "title"    : "Francouzská stíhačková společnost Dassault investuje 200 milionů dolarů do startupu na autonomní drony Harmattan AI",
+        "url"      : "/tech-news/2026-01-13/french-fighter-company-dassault-invests-200m-in-au/",
+        "category" : "tech_news",
+        "content"  : "SouhrnFrancouzský startup Harmattan AI, specializující se na levné a hromadně vyráběné autonomní drony řízené umělou inteligencí pro evropské armády, získal 200 milionů dolarů v kolu Series B. Investici vedla společnost Dassault Aviation SA, známá výrobou stíhaček Rafale a firemních tryskáčů. Tato investice celkové financování zvýšila na 242 milionů dolarů při valuaci 1,4 miliardy dolarů a otevírá spolupráci na AI pro nové letadla a drony.Klíčové body Harmattan AI vyvíjí tři produkty: vojenský dohledový dron, dron na zachytávání zbraní a tréninkový systém. Firma má kontrakty s francouzským ministerstvem obrany na 1000 autonomních dronů a s britským na 3000 systémů v rámci vícemiliardového..."
+      }
+      
+      ,{
+        "title"    : "Appleův největší tah v AI dosud – Google Gemini pohání novou Siri a Apple Intelligence",
+        "url"      : "/tech-news/2026-01-13/apple-biggest-ai-move-yet-google-gemini-will-power/",
+        "category" : "tech_news",
+        "content"  : "SouhrnApple oficiálně oznámil partnerství s Googlem, podle něhož model Gemini posílí Siri a Apple Intelligence. Tento krok znamená integraci Googleho technologie do jádra Appleho ekosystému, s očekávaným vydáním upgradu během tohoto roku. Spolupráce byla potvrzena po pečlivé evaluaci, kdy Apple shledal Gemini jako nejvhodnější řešení pro své AI potřeby.Klíčové body Apple integruje Google Gemini do Siri pro významný upgrade funkcí umělé inteligence. Partnerství zahrnuje i Apple Intelligence, což je sada AI nástrojů pro iOS, macOS a další platformy. Očekávané vydání upgradu letos, po testování na CES 2026. Apple zdůrazňuje, že volba padla po evaluaci více technologií. Implikace pro budoucí produkty:..."
+      }
+      
+      ,{
+        "title"    : "OpenAI získává zdravotnický startup Torch za 100 milionů dolarů",
+        "url"      : "/tech-news/2026-01-13/openai-acquires-healthcare-startup-torch-deal-pegg/",
+        "category" : "tech_news",
+        "content"  : "SouhrnOpenAI oznámilo akvizici startupu Torch za přibližně 100 milionů dolarů v akciích, což posiluje jeho expanzi do oblasti umělé inteligence v zdravotnictví. Torch vyvinul systém pro sjednocení rozptýlených medicínských dat do formátu přístupného pro AI, který nyní obohatí funkci ChatGPT Health. Tým Torch se připojí k OpenAI pro další rozvoj této platformy.Klíčové body Akvizice za 100 milionů dolarů v akciích, oznámena pondělí. Torch založen v roce 2024 Ilyou Abyzovem a Eugenem Huangem, tým o čtyřech lidech z bývalého Forward Health. Systém Torch funguje jako „medicínská paměť pro AI“, konsoliduje data z nositelných zařízení, laboratoří a klinických záznamů. Integrace do ChatGPT..."
+      }
+      
+      ,{
+        "title"    : "IPO Amagi Media Labs: Běží ocenění před zisky u tohoto SaaS hráče?",
+        "url"      : "/tech-news/2026-01-13/amagi-media-labs-ipo-is-the-valuation-running-ahea/",
+        "category" : "tech_news",
+        "content"  : "SouhrnTechnologická firma Amagi Media Labs vstupuje na burzu s emise akcí v hodnotě 1 789 crore rupií, což představuje významný krok pro SaaS společnost v mediálním sektoru. Emise zahrnuje novou emisi 816 crore rupií a nabídku na prodej stávajících akcií v objemu 973 crore rupií v cenovém pásmu 343–361 rupií za akcii. Společnost dosáhla statusu jednorožce v roce 2022, ale investoři se zaměřují na to, zda vysoké ocenění odpovídá ziskovosti.Klíčové body Emise: nová emise 816 crore rupií (2,26 crore akcií) a OFS 973 crore rupií (2,69 crore akcií). Prodejci: raní investoři jako Trudy, Accel, Norwest Venture Partners a Premji Invest,..."
+      }
+      
+      ,{
+        "title"    : "Proč Apple požádal Google o pomoc s vylepšením Siri a přidáním dalších AI funkcí do iPhonu",
+        "url"      : "/tech-news/2026-01-13/why-apple-has-called-on-google-to-help-smarten-up/",
+        "category" : "tech_news",
+        "content"  : "SouhrnApple a Google oznámily partnerství, které umožní Applu integrovat Googleovu AI technologii Gemini do svého balíčku Apple Intelligence. Tento krok má urychlit vývoj vylepšené verze Siri a dalších AI funkcí pro iPhone, iPady a Mac počítače. Apple tak reaguje na své zpoždění v závodě o umělou inteligenci oproti konkurentům jako Google a Samsung.Klíčové body Apple bude využívat Google Gemini k dokončení AI funkcí Apple Intelligence, včetně přepracování Siri na konverzačního multitaskera. Partnerství bylo zveřejněno společným prohlášením; Siri upgrade byl původně slíben na rok 2024, nyní odložen na 2026. Google posiluje svou pozici díky integraci Gemini do Apple zařízení, přestože Apple..."
+      }
+      
+      ,{
+        "title"    : "Apple potvrdilo dlouhodobou smlouvu s Google na bázi Gemini pro své AI základní modely včetně nové Siri",
+        "url"      : "/tech-news/2026-01-13/%E8%98%8B%E6%9E%9C%E7%A2%BA%E8%AA%8D%E8%88%87google%E7%B0%BD%E7%BD%B2%E9%95%B7%E7%B4%84%E4%BB%A5gemini%E7%82%BA%E5%9F%BA%E7%A4%8E%E6%89%93%E9%80%A0%E5%8C%85%E5%90%AB%E6%96%B0%E7%89%88siri%E5%9C%A8%E5%85%A7%E7%9A%84%E8%98%8B%E6%9E%9Cai%E5%9F%BA%E7%A4%8E%E6%A8%A1%E5%9E%8B/",
+        "category" : "tech_news",
+        "content"  : "SouhrnApple a Google oznámily víceletou spolupráci, v rámci níž budou budoucí Apple základní modely založeny na modelech Gemini od Google. Tato partnerství umožní Apple integrovat pokročilé AI funkce do svých zařízení, včetně nové verze Siri plánované na rok 2026. Modely budou běžet v Apple privátním cloudu za účelem zachování soukromí uživatelů.Klíčové body Apple použije upravené modely Gemini jako základ pro Apple Intelligence, včetně vylepšené Siri. Spolupráce byla oznámena 12. ledna 2026 po spekulacích z srpna 2025. Modely poběží v Apple privátním cloudu a zařízeních, což naznačuje možný nákup Google TPU pro optimalizaci výkonu. Google byl vybrán po prvním partnerství s..."
+      }
+      
+      ,{
+        "title"    : "Hegseth se připojuje k Muskovi ve SpaceX, slibuje ‚muskovský‘ přístup k rozvoji technologií v Pentagonu a chce uskutečnit Star Trek",
+        "url"      : "/tech-news/2026-01-13/hegseth-joins-musk-at-spacex-pledges-elon-style-ap/",
+        "category" : "tech_news",
+        "content"  : "SouhrnPete Hegseth, nově jmenovaný ministr války v administrativě prezidenta Trumpa, navštívil ústředí SpaceX v texaském Starbase a společně s Elonem Muskem oznámil plány na transformaci Pentagonu. Slibuje „muskovský“ přístup k inovacím, včetně nasazení AI modelu Grok od xAI příští měsíc, aby USA překonaly protivníky v oblastech jako umělá inteligence, hypersonické systémy a vesmírné technologie. Cílem je přestat s „mírovým vědeckým veletrhem“ a vstoupit do „válečného zbrojního závodu“.Klíčové body Hegseth použil vulkánský pozdrav z Star Treku a opakoval Muskovu frázi „udělat Star Trek skutečností“. Pentagon nasadí AI model Grok, vyvinutý xAI (firmou Elona Muska zaměřenou na pokročilou umělou inteligenci), pro vojenské..."
       }
       
     
