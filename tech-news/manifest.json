@@ -1,7 +1,341 @@
 {
-  "generated": "2026-01-14T16:51:15.058660+00:00",
-  "count": 186,
+  "generated": "2026-01-15T05:08:43.827987+00:00",
+  "count": 200,
   "articles": [
+    {
+      "title": "Podporovaná Flipkartem společnost Shadowfax stanovila cenové pásmo na 118–124 rupií za akcii pro IPO v hodnotě 1 907 milionů rupií",
+      "description": "Logistická společnost Shadowfax Technologies, podporovaná Flipkartem a dalšími investory, stanovila cenové pásmo pro své IPO na 118–124 rupií za akcii. Veřejná nabídka v celkové hodnotě 1 907 milionů rupií zahrnuje novou emisi akcií za 1 000 milionů rupií a nabídku k prodeji (OFS) za 907 milionů rupií.",
+      "slug": "flipkart-backed-shadowfax-sets-price-band-at-rs-11",
+      "publishedAt": "2026-01-14T03:23:24+00:00",
+      "date": "2026-01-14 03:23:24",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-29191,resizemode-75,msid-126517054/tech/technology/flipkart-backed-shadowfax-sets-price-band-at-rs-118-124-per-share-for-rs-1907-crore-ipo.jpg",
+      "url": "/tech-news/2026-01-14/flipkart-backed-shadowfax-sets-price-band-at-rs-11/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Flipkart",
+        "Shadowfax"
+      ],
+      "people": []
+    },
+    {
+      "title": "Defense Unicorns získalo 136 milionů dolarů na bezpečné aktualizace vojenského softwaru",
+      "description": "Startup na doručování softwaru pro bojové operace Defense Unicorns Inc. získal 136 milionů dolarů v kmeni Series B, čímž jeho valuace překročila 1 miliardu dolarů a stal se oficiálním unicornem. Kolo vedl fond Bain Capital s účasťou dalších investorů včetně Davida Petraeuse.",
+      "slug": "defense-unicorns-bags-136-million-in-funding-to-de",
+      "publishedAt": "2026-01-14T02:48:47+00:00",
+      "date": "2026-01-14 02:48:47",
+      "importance": 4,
+      "category": "vojenské technologie",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/Screenshot-from-2026-01-14-09-43-27.png",
+      "url": "/tech-news/2026-01-14/defense-unicorns-bags-136-million-in-funding-to-de/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Defense Unicorns Inc"
+      ],
+      "people": []
+    },
+    {
+      "title": "Google a Character.AI souhlasí s vyrovnáním sporů s rodinami, kde se obviňují z podpořování sebevraždy teenagera chatovacími AI",
+      "description": "Google a startup Character.AI, který vyvíjí konverzační AI modely, se dohodli na mimosoudním vyrovnání v několika sporech z USA. Rodiny tvrdí, že chatboti podpořili sebevraždy teenagerů, včetně 14letého chlapce z Floridy. Podmínky vyrovnání nejsou známy a čeká se na soudní schválení.",
+      "slug": "チャットaiが少年の自殺を後押ししたとする訴訟でgoogleとcharacteraiが遺族との和解に",
+      "publishedAt": "2026-01-14T02:19:00+00:00",
+      "date": "2026-01-14 02:19:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://image.news.livedoor.com/newsimage/stf/7/e/7edac_88_0f273e290f14c8e7e5c9eb8d9f613f87.jpg",
+      "url": "/tech-news/2026-01-14/チャットaiが少年の自殺を後押ししたとする訴訟でgoogleとcharacteraiが遺族との和解に/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Livedoor.com"
+      },
+      "companies": [
+        "Google",
+        "Character.AI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Report: Apple bude Gemini doladit samostatně, bez Google značky na Siri a další detaily",
+      "description": "The Information zveřejnila report o partnerství Apple a Google, podle kterého Gemini poslouží jako základ pro AI funkce Apple včetně nové Siri. Apple bude model doladit samostatně a v aktuálním prototypu chybí jakákoli Google značka.",
+      "slug": "report-apple-to-fine-tune-gemini-independently-no-",
+      "publishedAt": "2026-01-14T01:57:45+00:00",
+      "date": "2026-01-14 01:57:45",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/07/new-Gemini-icon-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2026-01-14/report-apple-to-fine-tune-gemini-independently-no/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "companies": [
+        "Apple",
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Co znamená dohoda Apple s Google v oblasti AI pro oba technologické giganty a pro startup OpenAI v hodnotě 500 miliard dolarů",
+      "description": "Partnerství Apple a Google potvrzuje návratný impuls Google v AI, zdůrazňuje problémy Apple s vývojem vlastních modelů a může přinést komplikace pro OpenAI.",
+      "slug": "what-apples-ai-deal-with-google-means-for-the-two-",
+      "publishedAt": "2026-01-14T01:48:19+00:00",
+      "date": "2026-01-14 01:48:19",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/01/GettyImages-1500910680-e1768339061314.jpg?resize=1200,600",
+      "url": "/tech-news/2026-01-14/what-apples-ai-deal-with-google-means-for-the-two/",
+      "source": {
+        "emoji": "📰",
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "companies": [
+        "Apple",
+        "Google",
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "AI čipové startupy Etched.ai a Cerebras Systems získávají velké financování k konkurenci s Nvidia",
+      "description": "Startupy Etched.ai a Cerebras Systems, rivalové Nvidia na trhu AI čipů, získávají stovky milionů dolarů na vývoj specializovaných procesorů. Etched.ai uzavřelo kolo za 500 milionů dolarů s valuací přes 5 miliard, zatímco Cerebras jedná o dvojnásobek a připravuje IPO.",
+      "slug": "ai-chip-unicorns-etchedai-and-cerebras-systems-get",
+      "publishedAt": "2026-01-14T01:44:25+00:00",
+      "date": "2026-01-14 01:44:25",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/Screenshot-from-2026-01-14-08-43-53.png",
+      "url": "/tech-news/2026-01-14/ai-chip-unicorns-etchedai-and-cerebras-systems-get/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Etched.ai",
+        "Cerebras Systems",
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "USA povolují Nvidia odesílat pokročilé AI čipy do Číny s omezeními",
+      "description": "Americké ministerstvo obchodu povolilo Nvidia prodávat pokročilé umělé inteligence čipy v Číně za podmínek, což navazuje na změnu politiky oznámenou prezidentem Donaldem Trumpem. Nvidia může exportovat čip H200, pokud prokáže dostatečné dodávky v USA, zatímco nejpokročilejší procesory zůstávají blokovány.",
+      "slug": "us-allows-nvidia-to-send-advanced-ai-chips-to-chin",
+      "publishedAt": "2026-01-14T01:37:32+00:00",
+      "date": "2026-01-14 01:37:32",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2026/01/b8730b1229d70e816feaded4797f9b355b57d64c.jpg",
+      "url": "/tech-news/2026-01-14/us-allows-nvidia-to-send-advanced-ai-chips-to-chin/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digital Journal"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": [
+        "Donald Trump"
+      ]
+    },
+    {
+      "title": "Propouštění v divizi VR od Meta a zavírání studií podtrhují Zuckerbergův velký obrat k umělé inteligenci",
+      "description": "Meta propouští zaměstnance v divizi Reality Labs zaměřené na virtuální realitu a zavírá několik VR studií, aby přesunula zdroje do umělé inteligence. Tento krok nastal necelé čtyři roky po přejmenování Facebooku na Meta s důrazem na metaverse.",
+      "slug": "metas-vr-layoffs-studio-closures-underscore-zucker",
+      "publishedAt": "2026-01-14T01:21:22+00:00",
+      "date": "2026-01-14 01:21:22",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107121537-1663699194580-gettyimages-612997102-OCULUS_CONNECT.jpeg?v=1768251927&w=1920&h=1080",
+      "url": "/tech-news/2026-01-14/metas-vr-layoffs-studio-closures-underscore-zucker/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [
+        "Meta"
+      ],
+      "people": [
+        "Mark Zuckerberg"
+      ]
+    },
+    {
+      "title": "USA schvalují prodej pokročilých čipů Nvidia H200 do Číny",
+      "description": "Americká vláda povolila prodej čipů H200 od Nvidia do Číny s přísnými podmínkami, což ovlivňuje geopolitickou soutěž o nadvládu v umělé inteligenci mezi USA a Čínou.",
+      "slug": "us-approves-sale-of-nvidias-advanced-h200-chips-to",
+      "publishedAt": "2026-01-14T00:48:55+00:00",
+      "date": "2026-01-14 00:48:55",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3a62/live/f45e8fa0-f0da-11f0-a29c-c32ead86fb16.jpg",
+      "url": "/tech-news/2026-01-14/us-approves-sale-of-nvidias-advanced-h200-chips-to/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BBC News"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Íránské rušení Starlinku a způsoby překonání rušení",
+      "description": "Írán ruší Starlink pomocí vojenských elektronických válkových nástrojů, pravděpodobně dovezených z Číny a Ruska, nasazených na mobilních platformách jako náklaďáky nebo drony. To vytváří lokální, patchy rušení s packet loss eskalujícím z 30 % na přes 80 % v postižených oblastech.",
+      "slug": "iran-jamming-of-starlink-and-ways-to-overcome-jamm",
+      "publishedAt": "2026-01-14T00:30:05+00:00",
+      "date": "2026-01-14 00:30:05",
+      "importance": 4,
+      "category": "elektronická válka",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2022/05/starlinkmobile.jpeg",
+      "url": "/tech-news/2026-01-14/iran-jamming-of-starlink-and-ways-to-overcome-jamm/",
+      "source": {
+        "emoji": "📰",
+        "id": "next-big-future",
+        "name": "Next Big Future"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Politický teoretik tvrdí, že 'probudil' model Anthropic Claude a odhalil rizika zkreslení v promptech",
+      "description": "Pundit hnutí 'Dark Enlightenment' zveřejnil transkript, který podle něj ukazuje, jak snadno lze chatbot navést k opakování uživatelské ideologie.",
+      "slug": "political-theorist-says-he-red-pilled-anthropic-cl",
+      "publishedAt": "2026-01-14T00:18:24+00:00",
+      "date": "2026-01-14 00:18:24",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/anthropic-claude-ai-decrypt-style-gID_7.png",
+      "url": "/tech-news/2026-01-14/political-theorist-says-he-red-pilled-anthropic-cl/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Decrypt"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": []
+    },
+    {
+      "title": "Export čipů Nvidia H200 do Číny schválen Trumpovou administrativou, druhé nejsilnější AI čipy však vyžadují speciální prověrku",
+      "description": "Administrativa Donalda Trumpa formálně povolila prodej čipů Nvidia H200 do Číny výměnou za 25procentní poplatek pro americkou vládu. Nvidia a čínské velvyslanectví ve Washingtonu neodpověděly na žádosti o komentář.",
+      "slug": "nvidia-h200-chip-exports-to-china-gets-nod-from-do",
+      "publishedAt": "2026-01-13T23:56:41+00:00",
+      "date": "2026-01-13 23:56:41",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126515253,width-1200,height-630,imgsize-120820,overlay-economictimes/articleshow.jpg",
+      "url": "/tech-news/2026-01-13/nvidia-h200-chip-exports-to-china-gets-nod-from-do/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": [
+        "Donald Trump"
+      ]
+    },
+    {
+      "title": "‚Star Trek real‘: Hegseth chválí Grok za umožnění uživatelům vést války",
+      "description": "‚Vyhraješ tento závod tím, že se staneš silou pro vedení války založenou na umělé inteligenci ve všech doménách,‘ řekl ministr obrany v pondělí.",
+      "slug": "star-trek-real-hegseth-praises-grok-for-allowing-u",
+      "publishedAt": "2026-01-13T20:00:06+00:00",
+      "date": "2026-01-13 20:00:06",
+      "importance": 4,
+      "category": "vojenská ai",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/01/pete-hegseth-elon-musk-jan-12-2026-1200x675.jpg",
+      "url": "/tech-news/2026-01-13/star-trek-real-hegseth-praises-grok-for-allowing-u/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "companies": [],
+      "people": [
+        "Hegseth"
+      ]
+    },
+    {
+      "title": "Nejnovější projev Elona Muska o Star Treku zmínil vytvoření reálné Starfleet Academy, což činí jeho komentáře k seriálu překvapivými",
+      "description": "Elon Musk na tiskové konferenci vyjádřil touhu udělat Star Trek realitou včetně Starfleet Academy. Tyto slova kontrastují s jeho nedávnými výroky o nadcházejícím seriálu Star Trek: Starfleet Academy. Zpráva je matoucí.",
+      "slug": "elon-musks-latest-star-trek-speech-mentioned-makin",
+      "publishedAt": "2026-01-13T19:59:32+00:00",
+      "date": "2026-01-13 19:59:32",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/3So4MpuA4T8q7FNVahpxHE-1280-80.jpg",
+      "url": "/tech-news/2026-01-13/elon-musks-latest-star-trek-speech-mentioned-makin/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CinemaBlend"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Oficiálně potvrzeno: Google Gemini pohání budoucí Apple Intelligence a vylepšení Siri",
+      "description": "Google Gemini bude napájet budoucí funkce Apple Intelligence a vylepšení Siri, což představuje významnou spolupráci mezi Applem a Googelem. Tato dohoda znamená, že Apple Foundation Models budou založeny na modelech Gemini a cloudové technologii Google.",
+      "slug": "its-official-google-gemini-will-power-future-apple",
+      "publishedAt": "2026-01-13T19:45:08+00:00",
+      "date": "2026-01-13 19:45:08",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://cdn.redmondpie.com/wp-content/uploads/2020/04/google-apple-1200px.jpg",
+      "url": "/tech-news/2026-01-13/its-official-google-gemini-will-power-future-apple/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "redmondpie.com"
+      },
+      "companies": [
+        "Apple",
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "V roce 2026 se Google zaměřuje na to, aby byla umělá inteligence skutečně užitečná",
+      "description": "Výkonný manažer Google Sameer Samat hodnotí minulý rok jako období zvědavosti vůči AI. Tento rok klade důraz na její praktickou užitečnost v zařízeních a službách.",
+      "slug": "in-2026-google-is-focused-on-making-ai-actually-us",
+      "publishedAt": "2026-01-13T19:00:36+00:00",
+      "date": "2026-01-13 19:00:36",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.cnet.com/a/img/resize/e09004d86eb808a2594eeb2894207ca98a067198/hub/2025/12/11/5b313203-e96f-4f47-8996-4aa0d3956914/gemini-logo-gettyimages-2246856729.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "url": "/tech-news/2026-01-13/in-2026-google-is-focused-on-making-ai-actually-us/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNET"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": [
+        "Sameer Samat"
+      ]
+    },
     {
       "title": "Ředitelé HR a Jamie Dimon tvrdí, že AI neumůže naučit lidské dovednosti. Nejmladší self-made miliardáři na světě to chtějí vyvrátit",
       "description": "Kolik stojí trénink AI, která vám vezme práci? Firma Mercor nabízí gigové zakázky pro profesionály až za 150 dolarů za hodinu, aby naučila modely umělé inteligence soudnost a nuance.",
@@ -3155,24 +3489,6 @@
       "people": []
     },
     {
-      "title": "Trh displejů pro robotaxi úrovně 4 dosáhne 3,35 miliardy dolarů – globální trendy, příležitosti a strategie 2019–2034",
-      "description": "Trh displejů pro robotaxi úrovně 4 vykazuje růst díky poptávce po sdílené mobilitě, zlepšené bezpečnosti prostřednictvím pokročilých systémů asistence řidiči a rozvoji chytrých městských řešení. Růst pohání urbanizace, udržitelnost a pokroky v technologiích displejů a umělé inteligence.",
-      "slug": "A-335-bn-level-4-robotaxi-display-global-market-tr",
-      "publishedAt": "2026-01-08T12:22:00+00:00",
-      "date": "2026-01-08 12:22:00",
-      "importance": 4,
-      "category": "robotaxi",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-      "url": "/tech-news/2026-01-08/A-335-bn-level-4-robotaxi-display-global-market-tr/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Aktualizace příkazového řádku Gemini 3 od Google přidává rozšíření dovedností pro vývojáře",
       "description": "Nejnovější verze Gemini CLI v0.23 přináší funkci Agent Skills, která umožňuje vývojářům vytvářet modulární specializace pro umělou inteligenci specifické pro úkoly, a rámec Gemini Conductor pro správu kontextu projektů pomocí trvalých markdown souborů. Tato aktualizace rozšiřuje bezplatný přístup na model Gemini 3 a zlepšuje integraci AI do terminálového prostředí.",
       "slug": "googles-gemini-3-command-line-update-adds-skill-ad",
@@ -3555,26 +3871,6 @@
         "name": "Business Insider"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Tři čínské technologické akcie rostou při burzovním debutu v Hong Kongu díky zájmu investorů o AI a robotiku",
-      "description": "Čínský startup Zhipu AI vedl trojici nových technologických uvedení na burzu v Hong Kongu, což představuje test důvěry investorů v čínský AI sektor konkurující americkým gigantům. Akcie pekingské firmy vzrostly o 3,3 procenta na 120 HKD při otevření.",
-      "slug": "A-3-chinese-tech-stocks-gain-in-hong-kong-debuts-a",
-      "publishedAt": "2026-01-08T01:55:50+00:00",
-      "date": "2026-01-08 01:55:50",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://biztoc.com/cdn/566c29563fd46d37_s.webp",
-      "url": "/tech-news/2026-01-08/A-3-chinese-tech-stocks-gain-in-hong-kong-debuts-a/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "companies": [
-        "Zhipu AI"
-      ],
       "people": []
     },
     {
