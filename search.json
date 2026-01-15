@@ -26783,7 +26783,7 @@
       "title"    : "Tech News Health Status",
       "url"      : "/health-status/",
       "category" : "stránka",
-      "content"  : "🏥 Tech News Health &amp; Pipeline Status Status: WARNING Poslední kontrola: 15.01.2026 05:08 Summary: Status: WARNING | Články 24h: 0 | Čeština: 100.0% | Alerty: 3 📈 30denní přehled (30 dní) Nově vygenerováno (30 dní) ℹ️ 1071 Denní průměr: 34.5 LLM náklady $282.33 Celkem za období API dotazy 8782 Sessions: 180 Přeskočeno 7711 Hlavně: low_importance 🔄 Processing Pipeline (30 dní) 📥 API Fetch 8782 ⏭️ Přeskočeno (filtry) 7711 💾 Uloženo 1071 (12.2%) 📊 Denní statistiky (posledních 14 dní) Datum Fetched Saved Skipped Cost Success 2026-01-15 100 13 87 $3.0602 100% 2026-01-14 240 30 210 $7.948 100% 2026-01-13 244 46 198..."
+      "content"  : "🏥 Tech News Health &amp; Pipeline Status Status: WARNING Poslední kontrola: 15.01.2026 16:57 Summary: Status: WARNING | Články 24h: 0 | Čeština: 100.0% | Alerty: 3 📈 30denní přehled (30 dní) Nově vygenerováno (30 dní) ℹ️ 1089 Denní průměr: 35.1 LLM náklady $287.45 Celkem za období API dotazy 8930 Sessions: 183 Přeskočeno 7841 Hlavně: low_importance 🔄 Processing Pipeline (30 dní) 📥 API Fetch 8930 ⏭️ Přeskočeno (filtry) 7841 💾 Uloženo 1089 (12.2%) 📊 Denní statistiky (posledních 14 dní) Datum Fetched Saved Skipped Cost Success 2026-01-15 248 31 217 $8.176 100% 2026-01-14 240 30 210 $7.948 100% 2026-01-13 244 46 198..."
     }
     
   
@@ -31156,6 +31156,132 @@
         "url"      : "/tech-news/2026-01-14/flipkart-backed-shadowfax-sets-price-band-at-rs-11/",
         "category" : "tech_news",
         "content"  : "SouhrnLogistická startupová společnost Shadowfax Technologies oznámila cenové pásmo pro svou úvodní veřejnou nabídku (IPO) na 118–124 rupií za akcii s nominální hodnotou 10 rupií. Nabídka v celkové hodnotě 1 907 milionů rupií se skládá z nové emise akcií za 1 000 milionů rupií a nabídky k prodeji (OFS) za 907 milionů rupií od současných akcionářů. IPO otevře 20. ledna a uzavře 22. ledna.Klíčové body Cenové pásmo: 118–124 rupií za akcii. Celková hodnota IPO: 1 907 milionů rupií (1 000 milionů nová emise + 907 milionů OFS). Hlavní prodejci v OFS: Flipkart (až 400 milionů rupií), Eight Roads (197 milionů rupií),..."
+      }
+      
+      ,{
+        "title"    : "Ministerka pro AI píše šéfovi irské policie o aplikacích &#39;nudify&#39;",
+        "url"      : "/tech-news/2026-01-14/ai-minister-writes-to-garda-commissioner-about-nud/",
+        "category" : "tech_news",
+        "content"  : "SouhrnIrská ministerka státu Niamh Smyth napsala policejnímu komisaři Drewu Harriskovi ohledně AI chatbota Grok, který patří společnosti xAI Elona Muska. Grok umožňuje uživatelům generovat deepfake obrázky, které sexualizují reálné osoby včetně dětí bez jejich souhlasu. Podle výzkumu generoval před omezením na placené uživatele kolem 6700 takových obrázků za hodinu.Klíčové body Grok, AI chatbot od xAI, umožňuje veřejné generování sexualizovaných obrázků z fotografií reálných lidí, často označených jako obsah pro dospělé. Výzkum ukázal masivní škálu: 6700 obrázků za hodinu oproti 79 obrázkům z pěti největších nudify webů dohromady. Elon Musk slibuje tresty za nelegální použití, ale odmítá omezení jako cenzuru. V..."
+      }
+      
+      ,{
+        "title"    : "Proč se technologie nudifikace najednou stala velkým problémem?",
+        "url"      : "/tech-news/2026-01-14/why-is-nudification-technology-suddenly-a-major-is/",
+        "category" : "tech_news",
+        "content"  : "SouhrnTechnologie nudifikace, která dokáže pomocí AI odhalit těla na libovolných fotografiích, se dostala do centra pozornosti díky chatbotu Grok od Elona Muska. Před omezením na placené uživatele generoval Grok přibližně 6700 sexualizovaných obrázků za hodinu, což převyšuje produkci všech pěti největších specializovaných webů dohromady. Irská ministryně Niamh Smyth vyzvala policii k vyšetřování kvůli nelegálnímu obsahu včetně dětských obrázků.Klíčové body Grok umožnil uživatelům X (dříve Twitter) veřejně generovat deepfake obrázky reálných žen a dětí v bikini nebo sexualizovaném oblečení bez souhlasu subjektů. Podle výzkumu dosahovala produkce 6700 obrázků za hodinu, oproti 79 obrázkům z pěti největších nudifikačních webů. Elon Musk slibuje..."
+      }
+      
+      ,{
+        "title"    : "TCS a AMD oznámily strategickou spolupráci na rozšíření adopce AI ve velkém měřítku",
+        "url"      : "/tech-news/2026-01-14/tcs-and-amd-announce-strategic-collaboration-to-dr/",
+        "category" : "tech_news",
+        "content"  : "SouhrnTata Consultancy Services (TCS), globální poskytovatel IT služeb, konzultací a business řešení, a AMD, výrobce procesorů a AI akcelerátorů, oznámily strategickou spolupráci. Cílem je pomoci podnikům škálovat adopci umělé inteligence (AI) od experimentálních pilotů k plnohodnotné produkci, modernizovat starší IT prostředí a vytvářet bezpečná, vysokovýkonná digitální pracovní místa. Partnerství bylo zveřejněno 14. ledna 2026 z Bombaje a Santa Clary.Klíčové body Společný vývoj průmyslově specifických AI a generativních AI (GenAI) řešení pro sektory jako životní vědy, výroba a bankovnictví. Modernizace hybridních cloudových a edge prostředí, nasazení AI-poháněných řešení pro pracovní prostředí a urychlení inovací v cloud-to-edge úlohách. Rychlé školení a certifikace..."
+      }
+      
+      ,{
+        "title"    : "SEALSQ oznámila memorándum o porozumění ohledně potenciální strategické investice a akvizice kvantové firmy Quobly",
+        "url"      : "/tech-news/2026-01-14/sealsq-announces-entry-into-a-memorandum-of-unders/",
+        "category" : "tech_news",
+        "content"  : "SouhrnSpolečnost SEALSQ Corp (NASDAQ: LAES), globální lídr v bezpečnosti polovodičů a řešeních Post-Quantum Cryptography (PQC), oznámila 14. ledna 2026 vstup do neviazaného memoranda o porozumění s akcionáři francouzské firmy Quobly SAS. Tento dokument otevírá cestu k exkluzivním jednáním o počáteční menšinové investici a následné akvizici většinového podílu v Quobly, průkopníkovi v kvantové mikroelektronice vyvíjejícím křemíkové kvantové procesory.Klíčové body Neviazané memorandum vede k exkluzivním jednáním o transakci v několika fázích s celkovou investicí kolem 200 milionů USD za většinový podíl. Transakce podléhá due diligence (finanční, právní, technické a komerční), schválením orgánů a dalším podmínkám. Navazuje na strategickou spolupráci oznámenou 21. listopadu..."
+      }
+      
+      ,{
+        "title"    : "Dcera WISeKey, SEALSQ, uzavřela memorándum o porozumění ohledně potenciální investice a akvizice kvantové firmy Quobly",
+        "url"      : "/tech-news/2026-01-14/wisekeys-subsidiary-sealsq-announces-entry-into-a/",
+        "category" : "tech_news",
+        "content"  : "SouhrnSpolečnost SEALSQ, dceřiná firma švýcarské WISeKey, uzavřela 14. ledna 2026 nebindící memorándum o porozumění s akcionáři francouzské Quobly. Tento dokument otevírá exkluzivní jednání o počáteční menšinové investici a potenciální akvizici většinového podílu v firmě, která vyvíjí křemíkové kvantové procesory. Transakce je součástí kvantové strategie SEALSQ a bude financována částečně z jejího kvantového fondu.Klíčové body SEALSQ plánuje multi-fázovou transakci: nejdříve menšinový podíl, poté možná většinový. Quobly se specializuje na kvantovou mikroelektroniku s využitím standardních polovodičových výrobních procesů. Transakce podléhá due diligence, regulatorním schválením a definitivním smlouvám. WISeKey je globální hráč v kyberbezpečnosti, blockchainu a IoT; SEALSQ se zaměřuje na bezpečné polovodiče..."
+      }
+      
+      ,{
+        "title"    : "Čínští celníci dostali pokyn, že čipy Nvidia H200 nejsou povoleny k dovozu, říkají zdroje",
+        "url"      : "/tech-news/2026-01-14/chinas-customs-agents-told-nvidias-h200-chips-are/",
+        "category" : "tech_news",
+        "content"  : "SouhrnČínské celní úřady tento týden informovaly své agenty, že AI čipy Nvidia H200 nejsou povoleny k dovozu do země. Vláda zároveň svolala zástupce domácích technologických firem a explicitně jim nařídila, aby tyto čipy nekupovaly, pokud to není nezbytné. Podle tří anonymních zdrojů jde o formulaci tak přísnou, že představuje prozatímní zákaz, i když situace se může v budoucnu změnit.Klíčové body Čínské celní úřady zakázaly dovoz čipů Nvidia H200. Domácí firmy dostaly přímý příkaz od úředníků nekupovat je. Žádné oficiální vysvětlení motivů, spekulace o podpoře domácího průmyslu nebo geopolitice. Čipy H200 byly tento týden schváleny k exportu do Číny americkou Trumpovou..."
+      }
+      
+      ,{
+        "title"    : "Soudní spor Musk proti OpenAI odstartuje 27. dubna",
+        "url"      : "/tech-news/2026-01-14/musk-vs-openai-trial-set-for-april-27/",
+        "category" : "tech_news",
+        "content"  : "SouhrnSoud v žalobě Elona Muska proti OpenAI, jeho generálnímu řediteli Samu Altmanovi a dalším, včetně Microsoftu, začne 27. dubna podle rozhodnutí federálního soudu. Musk tvrdí, že OpenAI opustilo svou původní neziskovou misi zaměřenou na veřejné dobro a open source AI ve prospěch lukrativního podniku propojeného s Microsoftem. Tento spor odhaluje napětí mezi ideály otevřené umělé inteligence a komerčními zájmy.Klíčové body Termín soudu: 27. dubna v San Franciscu. Hlavní obvinění: OpenAI pod vedením Altmana podvodně změnilo strukturu z neziskovky na ziskovou firmu s miliardovými dohodami s Microsoftem. Role Muska: Spoluzakladatel OpenAI v roce 2015, největší počáteční donor (desítky milionů dolarů), odešel..."
+      }
+      
+      ,{
+        "title"    : "Claude Cowork mění AI v každodenního partnera pro úkoly a další novinky z AI",
+        "url"      : "/tech-news/2026-01-14/claude-cowork-turns-ai-into-your-daily-task-partne/",
+        "category" : "tech_news",
+        "content"  : "SouhrnAnthropic spustil Claude Cowork, nový AI nástroj určený k automatizaci pracovních úkolů, jako je organizace souborů, tvorba tabulek a provádění operací v prohlížeči. Tento systém se integruje s platformami Slack a Zapier a je dostupný v research preview pro předplatitele vyšších tarifů na macOS. Článek dále pokrývá Google Universal Commerce Protocol pro elektronický obchod a plány OpenAI na vývoj hardwaru s vestavěnou AI.Klíčové body Claude Cowork od Anthropic umožňuje automatizaci úkolů mimo kódování, včetně práce se soubory, tabulkami a prohlížečem, s podporou pro technické i netechnické uživatele. Google Universal Commerce Protocol (UCP) zavádí AI funkce pro přímé platby a komunikaci..."
+      }
+      
+      ,{
+        "title"    : "Siri 2.0: Je to stále Siri, nebo Google Assistant v převleku?",
+        "url"      : "/tech-news/2026-01-14/siri-20-is-it-still-siri-or-just-google-assistant/",
+        "category" : "tech_news",
+        "content"  : "SouhrnApple oznámilo aktualizaci Siri pro rok 2026, která přijme pokročilé AI základní modely od Google. Tento krok má zlepšit přesnost, kontextové porozumění a celkovou použitelnost Siri, která dlouho zaostává za konkurenty jako Google Assistant nebo Amazon Alexa. Spolupráce dvou gigantů signalizuje pragmatický přístup k vývoji umělé inteligence.Klíčové body Integrace Google AI modelů do Siri v roce 2026. Odklon od tradičního vlastního vývoje Apple v oblasti AI. Řešení kritiků ohledně nízké přesnosti a kontextového porozumění Siri. Partnerství podobné spolupráci na výchozím vyhledávači v Safari. Detaily v videu Marquese Brownleeho na YouTube.PodrobnostiApple dlouhodobě stavělo na vlastním vývoji technologií, včetně hlasového asistenta Siri,..."
+      }
+      
+      ,{
+        "title"    : "Britský zákaz nudifikačních aplikací se nevztahuje na Grok Elona Muska",
+        "url"      : "/tech-news/2026-01-14/uk-nudification-app-ban-wont-apply-to-elon-musks-g/",
+        "category" : "tech_news",
+        "content"  : "SouhrnBritská vláda připravuje zákaz nudifikačních aplikací, které slouží výhradně k vytváření nekonzensuálních nahých obrázků a videí pomocí generativní AI, ale tento zákaz se nedotkne obecnějšího AI systému Grok od společnosti xAI Elona Muska. Podle ministryně pro technologie Liz Kendall se regulace zaměří pouze na nástroje s jediným „opovrženíhodným“ účelem. Grok, integrován do sociální sítě X, byl kritizován za zneužití k tvorbě sexuálně zaměřených deepfakeů, především na úkor žen a dětí.Klíčové body Zákaz nudifikačních aplikací bude zaveden prostřednictvím zákona Crime and Policing Bill, který právě prochází parlamentním schvalováním. Grok, jako general-purpose AI, generuje nejen obrázky, ale i text a další obsah,..."
+      }
+      
+      ,{
+        "title"    : "Šéf Nvidia Jensen Huang odmítá apokalyptické spekulace o AI: Sci-fi není užitečné",
+        "url"      : "/tech-news/2026-01-14/nvidia-ceo-jensen-huang-pushes-back-on-ai-doomsday/",
+        "category" : "tech_news",
+        "content"  : "SouhrnŠéf společnosti Nvidia Jensen Huang v podcastu No Priors kritizoval přehnané apokalyptické předpovědi o umělé inteligenci, označené jako doomerské narativy. Tvrdí, že takové sci-fi inspirace zkreslují veřejné vnímání, regulace a brzdí inovace. Místo strachu z konce světa by se mělo zaměřit na současné limity AI, jako je nedostatečná spolehlivost.Klíčové body Huang kritizoval vlivné osobnosti za šíření doomerských narativů inspirovaných sci-fi, které podle něj škodí společnosti, průmyslu i vládám. Varoval, že alarmistické scénáře ovlivňují regulace, což může způsobit restrikce brzdící inovace a favorizující velké firmy. Naznačil, že někteří kritici AI rizik mají konkurenční komerční zájmy a snaží se ovlivnit regulace ve..."
+      }
+      
+      ,{
+        "title"    : "Musk předpovídá, že AI přinese světovou hojnost s příchodem AGI",
+        "url"      : "/tech-news/2026-01-14/musk-predicts-ai-will-lead-to-abundance-when-agi-a/",
+        "category" : "tech_news",
+        "content"  : "SouhrnElon Musk v podcastu Moonshots With Peter Diamandis předpověděl, že umělá inteligence (AI) s příchodem AGI vytvoří světovou hojnost, kde ceny zboží a služeb dramaticky klesnou díky růstu produktivity. Lidé podle něj nebudou potřebovat šetřit na důchod, protože efektivita AI umožní univerzální přístup k požadovaným zdrojům. Predikuje AGI již v roce 2026 a do roku 2030 překročení inteligence všech lidí dohromady.Klíčové body Musk očekává AGI v roce 2026, což je umělá inteligence schopná vykonávat úkoly na úrovni nebo nad úrovní člověka ve všech oblastech. Do roku 2030 AI překoná inteligenci všech lidí společně díky exponenciálnímu růstu výpočetních kapacit. Ceny klesnou..."
+      }
+      
+      ,{
+        "title"    : "Ben Horowitz: Umělá inteligence bude větší než internet – obavy z bubliny přehlížejí, co se skutečně děje",
+        "url"      : "/tech-news/2026-01-14/ben-horowitz-says-ai-will-be-bigger-than-the-inter/",
+        "category" : "tech_news",
+        "content"  : "SouhrnBen Horowitz, spoluzakladatel a managing partner investičního fondu Andreessen Horowitz (a16z), prohlásil, že umělá inteligence (AI) předčí internet v rozsahu a dopadu na ekonomiku. Podle něj jsou obavy z finanční bubliny neopodstatněné, protože vysoké valuace AI firem odrážejí reálnou poptávku po hardwaru i softwaru a rychlou adopci v podnicích.Klíčové body Umělá inteligence bude podle Horowitze větší než internet díky širšímu spektru aplikací v průmyslu. Vysoké valuace (např. NVIDIA přes 3 biliony dolarů tržní kapitalizace) jsou způsobeny rekordní poptávkou po GPU pro trénink AI modelů. Rychlá adopce: Modely jako GPT-4 nebo Claude se implementují v tisících firem pro automatizaci úkolů. Kritika..."
+      }
+      
+      ,{
+        "title"    : "Elon Musk: Studium na lékařské fakultě bude za tři roky zbytečné, každý dostane lepší péči než prezident",
+        "url"      : "/tech-news/2026-01-14/elon-musk-says-going-to-medical-school-will-be-poi/",
+        "category" : "tech_news",
+        "content"  : "SouhrnElon Musk v podcastu s Peterem Diamandisem tvrdí, že za tři roky bude navštěvovat lékařskou fakultu zbytečné, protože umělá inteligence poskytne všem přístup k lékařské péči lepší než ta, kterou dostává americký prezident. Zdůraznil dlouhou dobu potřebnou k vzdělání lékaře a rychle se měnící medicínské znalosti. Toto prohlášení souvisí s širším dopadem AI na pracovní trh, kde už teď automatizuje rutinní úkoly.Klíčové body Musk: Lékařské vzdělání trvá příliš dlouho a znalosti se neustále vyvíjejí, což AI zvládne rychleji. AI augmentuje lékařskou péči a brzy ji překoná v kvalitě. Souvislost s predikcemi Anthropic CEO Daría Amodeie, že AI eliminuje až 50..."
+      }
+      
+      ,{
+        "title"    : "Globální výzkumná zpráva o platformách pro vývoj autonomních vozidel 2026: Trendy trhu v hodnotě 159,5 miliardy dolarů, konkurenční prostředí, strategie a příležitosti, 2020-2025, 2025-2030F, 2035F",
+        "url"      : "/tech-news/2026-01-14/autonomous-vehicle-development-platform-global-res/",
+        "category" : "tech_news",
+        "content"  : "SouhrnGlobální trh platforem pro vývoj autonomních vozidel vykazuje rychlý růst, kdy podle zprávy Research and Markets dosáhne hodnoty 52,39 miliardy dolarů v roce 2026 oproti 39,6 miliardám v roce 2025, s ročním složeným tempo růstu (CAGR) 32,3 procenta. Do roku 2030 se očekává nárůst na 159,5 miliardy dolarů při CAGR 32,1 procenta. Tento růst podporují pokroky v umělé inteligenci, senzorech a testovacích technologiích, přičemž Severní Amerika vede díky výrobním pobídkám.Klíčové body Růst trhu: z 39,6 miliardy USD (2025) na 52,39 miliardy USD (2026) a 159,5 miliardy USD (2030). Hlavní hnací síly: vývoj senzorů, testovací flotily autonomních vozidel, spolupráce mezi automobilkami..."
+      }
+      
+      ,{
+        "title"    : "Deepgram získal 130 milionů dolarů při valuaci 1,3 miliardy pro rozvoj hlasové AI",
+        "url"      : "/tech-news/2026-01-14/deepgram-raises-130m-at-13bn-valuation-for-voice-a/",
+        "category" : "tech_news",
+        "content"  : "SouhrnSpolečnost Deepgram, zaměřená na hlasovou AI, získala 130 milionů dolarů v třetí kole financování typu Series C, čímž se její valuace zvýšila na 1,3 miliardy dolarů. Peníze půjdou na mezinárodní expanzi, vývoj produktů a integraci nedávné akvizice v oblasti restaurací. Platforma slouží přes 1300 organizacím včetně NASA a Amazon Web Services pro budování vlastních hlasových agentů.Klíčové body Financování vedl investor AVP, zapojili se noví investoři jako Alumni Ventures, Princeville Capital a Citi Ventures. Stávající investoři zahrnují Tiger Global, In-Q-Tel, Y Combinator a univerzity jako Stanford, Michigan a Columbia. Technologie podporuje přes 50 jazyků a umožňuje real-time konverzace pro enterprise prostředí..."
+      }
+      
+      ,{
+        "title"    : "Google využívá svou říši aplikací k posílení Gemini prostřednictvím &#39;Personal Intelligence&#39;",
+        "url"      : "/tech-news/2026-01-14/google-is-leaning-on-its-app-empire-to-give-gemini/",
+        "category" : "tech_news",
+        "content"  : "SouhrnGoogle rozšiřuje schopnosti svého modelu Gemini o funkci ‘Personal Intelligence’, která umožňuje chatbota analyzovat a zpracovávat data z uživatelských aplikací jako Gmail, Fotky, Kalendář, Disk a YouTube. Tím Gemini získává kontextuální porozumění osobním datům uživatele, což usnadňuje personalizované odpovědi a úkony. Na rozdíl od konkurentů jako OpenAI ChatGPT nebo Anthropic Claude, kteří postrádají takovou hlubokou integraci s ekosystémem aplikací.Klíčové body Gemini nyní přistupuje k datům z Gmailu pro sumarizaci e-mailů, z Fotek pro vyhledávání obrázků a z YouTube pro analýzu videí. Funkce ‘Personal Intelligence’ funguje v experimentálním režimu pro vybrané uživatele Google One AI Premium. Podpora zahrnuje i Kalendář, Disk..."
+      }
+      
+      ,{
+        "title"    : "Apple vyladí Siri poháněnou Gemini, aby odstranila googleovský dojem",
+        "url"      : "/tech-news/2026-01-14/apple-fine-tuning-gemini-powered-siri-to-erase-the/",
+        "category" : "tech_news",
+        "content"  : "SouhrnApple podle zprávy serveru The Information samostatně vyladí model Gemini od Google pro svou hlasovou asistentku Siri. Cílem je vytvořit bezbrandovou verzi, která bude působit jako přirozená součást ekosystému Apple, bez jakýchkoli stop po Googlu. Přechod k této nové Sirí začne na jaře 2026, s pokročilejšími funkcemi odhalenými na konferenci WWDC 2026.Klíčové body Apple aplikuje white-labeling na Gemini, což znamená fine-tuning modelu bez viditelných Google log nebo brandingů. Nová Siri opustí tradiční odkazy na webové stránky a poskytne přímé konverzační odpovědi na faktické otázky. Podpora složitých požadavků, například hledání kontaktu v minulých zprávách, pokud není v adresáři. Plánované funkce zahrnují..."
       }
       
     
