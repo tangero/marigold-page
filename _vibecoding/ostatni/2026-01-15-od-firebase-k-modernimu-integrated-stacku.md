@@ -12,7 +12,7 @@ summary_points:
 - Convex nabízí end-to-end TypeScript prostředí s automatickou reaktivitou a ACID transakcemi
 - Fenomén Vibe coding favorizuje nástroje s silnou typovou kontrolou a minimem konfiguračních souborů
 - Tradiční VPS hosting zůstává ekonomickou volbou pro provoz, ale brzdí rychlost vývoje AI funkcí
-title: Konec lepení služeb - Od Firebase k modernímu Integrated Stacku (2026 Edition)
+title: Od Firebase k modernímu Integrated Stacku (2026 Edition)
 ---
 
 Vývojáři webových a AI aplikací stojí před rozhodnutím, které určí rychlost jejich vývoje na roky dopředu. Trh Backend-as-a-Service (BaaS) dospěl a rozdělil se do tří generací. Zatímco dříve byla volba jednoduchá ("Dej tam Firebase"), dnes, v éře AI a TypeScriptu, stará řešení naráží na své limity.
