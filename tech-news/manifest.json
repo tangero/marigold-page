@@ -1,7 +1,88 @@
 {
-  "generated": "2026-01-15T12:53:19.311345+00:00",
-  "count": 170,
+  "generated": "2026-01-15T16:57:12.907410+00:00",
+  "count": 174,
   "articles": [
+    {
+      "title": "Apple vyladí Siri poháněnou Gemini, aby odstranila googleovský dojem",
+      "description": "Apple samostatně vyladí svou Siri poháněnou modelem Gemini od Google, aby vymazala jakýkoli nádech po Googlu a převzala plnou kontrolu nad chováním AI. Tento přístup umožní Sirí poskytovat přímé odpovědi místo odkazů na web a dokonce emocionální podporu.",
+      "slug": "apple-fine-tuning-gemini-powered-siri-to-erase-the",
+      "publishedAt": "2026-01-14T16:19:44+00:00",
+      "date": "2026-01-14 16:19:44",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2024/10/Apple-Intelligence-Siri-Logo.jpg",
+      "url": "/tech-news/2026-01-14/apple-fine-tuning-gemini-powered-siri-to-erase-the/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Headlines"
+      },
+      "companies": [
+        "Apple",
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Google využívá svou říši aplikací k posílení Gemini prostřednictvím 'Personal Intelligence'",
+      "description": "Chatbot Gemini nyní dokáže uvažovat napříč aplikacemi Google včetně Gmailu, Fotek a YouTube. Tato funkce nabízí výhodu, kterou OpenAI a Anthropic zatím nemají.",
+      "slug": "google-is-leaning-on-its-app-empire-to-give-gemini",
+      "publishedAt": "2026-01-14T16:01:01+00:00",
+      "date": "2026-01-14 16:01:01",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://i.insider.com/696724f704eda4732f2f07ef?width=1200&format=jpeg",
+      "url": "/tech-news/2026-01-14/google-is-leaning-on-its-app-empire-to-give-gemini/",
+      "source": {
+        "emoji": "📰",
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "companies": [
+        "Google",
+        "OpenAI",
+        "Anthropic"
+      ],
+      "people": []
+    },
+    {
+      "title": "Deepgram získal 130 milionů dolarů při valuaci 1,3 miliardy pro rozvoj hlasové AI",
+      "description": "Financování podpoří mezinárodní expanzi Deepgramu, vývoj produktů a nedávnou akvizici v sektoru restaurací. Společnost poskytuje infrastrukтуру pro hlasové AI agenty podporující přes 50 jazyků.",
+      "slug": "deepgram-raises-130m-at-13bn-valuation-for-voice-a",
+      "publishedAt": "2026-01-14T15:52:54+00:00",
+      "date": "2026-01-14 15:52:54",
+      "importance": 4,
+      "category": "hlasová ai",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/WYTKFRTzlteTXXzZXLJH3A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/verdict_626/fd52573b503e3e9fee63ae15831d2a5e",
+      "url": "/tech-news/2026-01-14/deepgram-raises-130m-at-13bn-valuation-for-voice-a/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Verdict"
+      },
+      "companies": [
+        "Deepgram"
+      ],
+      "people": []
+    },
+    {
+      "title": "Globální výzkumná zpráva o platformách pro vývoj autonomních vozidel 2026: Trendy trhu v hodnotě 159,5 miliardy dolarů, konkurenční prostředí, strategie a příležitosti, 2020-2025, 2025-2030F, 2035F",
+      "description": "Trh platforem pro vývoj autonomních vozidel poroste z 39,6 miliardy dolarů v roce 2025 na 52,39 miliardy v roce 2026 a dosáhne 159,5 miliardy do roku 2030. Klíčové příležitosti zahrnují pokroky v detekci překážek poháněné AI, integraci V2X komunikace a expanzi v komerčních flotilách vozidel.",
+      "slug": "autonomous-vehicle-development-platform-global-res",
+      "publishedAt": "2026-01-14T15:41:00+00:00",
+      "date": "2026-01-14 15:41:00",
+      "importance": 4,
+      "category": "autonomní vozidla",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "url": "/tech-news/2026-01-14/autonomous-vehicle-development-platform-global-res/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Elon Musk: Studium na lékařské fakultě bude za tři roky zbytečné, každý dostane lepší péči než prezident",
       "description": "Elon Musk nedávno prohlásil, že díky umělé inteligenci bude za tři roky studium medicíny zbytečné. Každý bude mít přístup k lékařské péči lepší než současná prezidentská.",
