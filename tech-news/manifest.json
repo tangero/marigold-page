@@ -1,7 +1,87 @@
 {
-  "generated": "2026-01-14T20:44:32.677696+00:00",
-  "count": 190,
+  "generated": "2026-01-15T01:23:29.696449+00:00",
+  "count": 194,
   "articles": [
+    {
+      "title": "USA schvalují prodej pokročilých čipů Nvidia H200 do Číny",
+      "description": "Americká vláda povolila prodej čipů H200 od Nvidia do Číny s přísnými podmínkami, což ovlivňuje geopolitickou soutěž o nadvládu v umělé inteligenci mezi USA a Čínou.",
+      "slug": "us-approves-sale-of-nvidias-advanced-h200-chips-to",
+      "publishedAt": "2026-01-14T00:48:55+00:00",
+      "date": "2026-01-14 00:48:55",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3a62/live/f45e8fa0-f0da-11f0-a29c-c32ead86fb16.jpg",
+      "url": "/tech-news/2026-01-14/us-approves-sale-of-nvidias-advanced-h200-chips-to/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BBC News"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Íránské rušení Starlinku a způsoby překonání rušení",
+      "description": "Írán ruší Starlink pomocí vojenských elektronických válkových nástrojů, pravděpodobně dovezených z Číny a Ruska, nasazených na mobilních platformách jako náklaďáky nebo drony. To vytváří lokální, patchy rušení s packet loss eskalujícím z 30 % na přes 80 % v postižených oblastech.",
+      "slug": "iran-jamming-of-starlink-and-ways-to-overcome-jamm",
+      "publishedAt": "2026-01-14T00:30:05+00:00",
+      "date": "2026-01-14 00:30:05",
+      "importance": 4,
+      "category": "elektronická válka",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2022/05/starlinkmobile.jpeg",
+      "url": "/tech-news/2026-01-14/iran-jamming-of-starlink-and-ways-to-overcome-jamm/",
+      "source": {
+        "emoji": "📰",
+        "id": "next-big-future",
+        "name": "Next Big Future"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Politický teoretik tvrdí, že 'probudil' model Anthropic Claude a odhalil rizika zkreslení v promptech",
+      "description": "Pundit hnutí 'Dark Enlightenment' zveřejnil transkript, který podle něj ukazuje, jak snadno lze chatbot navést k opakování uživatelské ideologie.",
+      "slug": "political-theorist-says-he-red-pilled-anthropic-cl",
+      "publishedAt": "2026-01-14T00:18:24+00:00",
+      "date": "2026-01-14 00:18:24",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/anthropic-claude-ai-decrypt-style-gID_7.png",
+      "url": "/tech-news/2026-01-14/political-theorist-says-he-red-pilled-anthropic-cl/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Decrypt"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": []
+    },
+    {
+      "title": "Export čipů Nvidia H200 do Číny schválen Trumpovou administrativou, druhé nejsilnější AI čipy však vyžadují speciální prověrku",
+      "description": "Administrativa Donalda Trumpa formálně povolila prodej čipů Nvidia H200 do Číny výměnou za 25procentní poplatek pro americkou vládu. Nvidia a čínské velvyslanectví ve Washingtonu neodpověděly na žádosti o komentář.",
+      "slug": "nvidia-h200-chip-exports-to-china-gets-nod-from-do",
+      "publishedAt": "2026-01-13T23:56:41+00:00",
+      "date": "2026-01-13 23:56:41",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126515253,width-1200,height-630,imgsize-120820,overlay-economictimes/articleshow.jpg",
+      "url": "/tech-news/2026-01-13/nvidia-h200-chip-exports-to-china-gets-nod-from-do/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": [
+        "Donald Trump"
+      ]
+    },
     {
       "title": "‚Star Trek real‘: Hegseth chválí Grok za umožnění uživatelům vést války",
       "description": "‚Vyhraješ tento závod tím, že se staneš silou pro vedení války založenou na umělé inteligenci ve všech doménách,‘ řekl ministr obrany v pondělí.",
