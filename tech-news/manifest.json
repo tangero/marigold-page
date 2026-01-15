@@ -1,7 +1,268 @@
 {
-  "generated": "2026-01-15T16:57:12.907410+00:00",
-  "count": 174,
+  "generated": "2026-01-15T20:49:29.026206+00:00",
+  "count": 187,
   "articles": [
+    {
+      "title": "Platforma X Elona Muska čelí vážným problémům kvůli deepfake pornografii",
+      "description": "Grok se používá k tvorbě zneužívajících a nelegálních obrázků. Aktualizace umožnila manipulaci s cizími fotografiemi bez souhlasu.",
+      "slug": "elon-musks-x-is-in-deep-trouble-over-deepfake-porn",
+      "publishedAt": "2026-01-14T20:15:18+00:00",
+      "date": "2026-01-14 20:15:18",
+      "importance": 4,
+      "category": "deepfakes",
+      "urlToImage": "https://foreignpolicy.com/wp-content/uploads/2026/01/GROK-X-CSAM-DEEPFAKES-GettyImages-2255888850.png?w=1000",
+      "url": "/tech-news/2026-01-14/elon-musks-x-is-in-deep-trouble-over-deepfake-porn/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Foreign Policy"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Čínská Z.AI vydala první velký model generování AI obrázků trénovaný bez amerických čipů",
+      "description": "Společnost Z.AI uvedla GLM-Image, model pro generování obrázků v umělé inteligenci, který byl trénován výhradně na čipech Huawei. Tento krok probíhá v kontextu blokování dovozů Nvidia H200 čínskou vládou s cílem posílit soběstačnost v AI.",
+      "slug": "chinas-zai-releases-first-major-ai-image-generatio",
+      "publishedAt": "2026-01-14T20:10:01+00:00",
+      "date": "2026-01-14 20:10:01",
+      "importance": 4,
+      "category": "generativní ai",
+      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/ai-decrypt-style-18-gID_7.png",
+      "url": "/tech-news/2026-01-14/chinas-zai-releases-first-major-ai-image-generatio/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Decrypt"
+      },
+      "companies": [
+        "Z.AI",
+        "Huawei",
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "USA schvalují export čipů Nvidia H200 do Číny",
+      "description": "S určitými podmínkami.",
+      "slug": "us-approves-nvidia-h200-chip-exports-to-china",
+      "publishedAt": "2026-01-14T20:07:23+00:00",
+      "date": "2026-01-14 20:07:23",
+      "importance": 4,
+      "category": "hardware",
+      "urlToImage": "https://i.nextmedia.com.au/News/2026-01-13T212819Z_1_LYNXMPEM0C19V_RTROPTP_4_USA-CHINA-NVIDIA.JPG",
+      "url": "/tech-news/2026-01-14/us-approves-nvidia-h200-chip-exports-to-china/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "iTnews"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Apple a Google čelí tlaku na odstranění X a Grok z obchodů s aplikacemi",
+      "description": "Grok se dostává pod rostoucí tlak od zastánských skupin poté, co uživatelé použili tento AI chatbot k vytvoření sexualizovaných obrázků nezletilých a žen. Koalice téměř 30 organizací vyzývá Google a Apple k odstranění aplikací X a Grok z jejich obchodů.",
+      "slug": "apple-google-face-pressure-to-remove-x-and-grok-fr",
+      "publishedAt": "2026-01-14T20:01:52+00:00",
+      "date": "2026-01-14 20:01:52",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/01/14/dccd328c-2286-4d40-b2e9-1476c83e27cd/thumbnail/1200x630/f1b738da4f0539b4bc69ae9984721c46/gettyimages-2255688653.jpg",
+      "url": "/tech-news/2026-01-14/apple-google-face-pressure-to-remove-x-and-grok-fr/",
+      "source": {
+        "emoji": "📺",
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "companies": [
+        "Apple",
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Tato baterie změní svět za tři měsíce, nebo udělá z tohoto muže blázna",
+      "description": "Společnost Donut Lab oznámila solid-state baterii s hustotou energie 400 Wh/kg, která vydrží 100 000 cyklů nabíjení a nabije se za 5 minut. Pokud tvrdí skalovatelnost a produkci, mohlo by to představovat největší průlom v elektromobilitě a úložištích energie.",
+      "slug": "this-battery-is-about-to-change-the-world-in-3-mon",
+      "publishedAt": "2026-01-14T19:58:48+00:00",
+      "date": "2026-01-14 19:58:48",
+      "importance": 5,
+      "category": "elektromobilita",
+      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/01/Donut-Lab-solid-state-battery.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2026-01-14/this-battery-is-about-to-change-the-world-in-3-mon/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Electrek"
+      },
+      "companies": [
+        "Donut Lab"
+      ],
+      "people": []
+    },
+    {
+      "title": "Apple volí Google Gemini pro pohon Siri, aby získal čas",
+      "description": "Gemini byl logickou volbou pro Apple Intelligence, alespoň dokud Apple nevyvine vlastní AI model. Partnerství umožňuje Applu rychle posunout Siri do éry agentických AI systémů.",
+      "slug": "apple-picking-google-gemini-to-power-siri-was-abou",
+      "publishedAt": "2026-01-14T19:45:58+00:00",
+      "date": "2026-01-14 19:45:58",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.cnet.com/a/img/resize/33a350e366f74ea895455b2a00ad628a1c157537/hub/2026/01/14/0c9351cf-453c-4c77-ae26-9d520ddd7476/image-1.png?auto=webp&fit=crop&height=675&width=1200",
+      "url": "/tech-news/2026-01-14/apple-picking-google-gemini-to-power-siri-was-abou/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNET"
+      },
+      "companies": [
+        "Apple",
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Národní výpadek mobilních služeb ochromil telefonní spojení v Disney World, miliony v režimu SOS",
+      "description": "Náhlý celonárodní výpadek mobilních sítí Verizonu, AT&T a T-Mobile ovlivnil přes 146 milionů zákazníků v USA, včetně návštěvníků Walt Disney World Resortu. Zákazníci se ocitli v režimu SOS bez datového připojení a hlasových služeb, což zkomplikovalo navigaci v parcích závislou na aplikaci My Disney Experience.",
+      "slug": "national-outage-takes-down-phone-service-at-disney",
+      "publishedAt": "2026-01-14T19:45:24+00:00",
+      "date": "2026-01-14 19:45:24",
+      "importance": 5,
+      "category": "síťový výpadek",
+      "urlToImage": "https://insidethemagic.net/wp-content/uploads/2024/02/disney-world-guests-phone.jpg",
+      "url": "/tech-news/2026-01-14/national-outage-takes-down-phone-service-at-disney/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Inside the Magic"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Google Gemini nyní přistupuje k vašemu digitálnímu životu pro inteligentnější odpovědi",
+      "description": "Pokud používáte aplikace Google jako Gmail nebo Photos, společnost už zná určité aspekty vašeho života. Nabízí udělat tyto znalosti dostupnější prostřednictvím funkce Personal Intelligence, která je synthesizuje do modelu Gemini.",
+      "slug": "google-gemini-can-now-access-your-digital-life-for",
+      "publishedAt": "2026-01-14T19:08:20+00:00",
+      "date": "2026-01-14 19:08:20",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.pcworld.com/wp-content/uploads/2026/01/shutterstock_2523880741.jpg?quality=50&strip=all&w=1024",
+      "url": "/tech-news/2026-01-14/google-gemini-can-now-access-your-digital-life-for/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "PCWorld"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Stačilo by ho jen vypnout",
+      "description": "Generativní AI je prezentována jako transformační a složitá technologie, jejíž tvůrci nedokážou vysvětlit její chování. Kritika směřuje k chatbotu Grok od Elona Muska, který generuje obrázky odhalující oblečení cizích lidí bez souhlasu, včetně materiálu s dětmi.",
+      "slug": "he-could-just-turn-it-off",
+      "publishedAt": "2026-01-14T18:53:44+00:00",
+      "date": "2026-01-14 18:53:44",
+      "importance": 4,
+      "category": "generativní ai",
+      "urlToImage": null,
+      "url": "/tech-news/2026-01-14/he-could-just-turn-it-off/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Apple možná použije upravený model Google Gemini",
+      "description": "Apple prý interně přizpůsobí model umělé inteligence Gemini od Google pro vylepšení Siri a Apple Intelligence, přičemž zachová typický styl uživatelského rozhraní firmy. Novinka by měla posílit konkurenční schopnosti Apple v oblasti AI bez úplné závislosti na externích partnerech.",
+      "slug": "apple-may-use-customized-google-gemini",
+      "publishedAt": "2026-01-14T18:49:18+00:00",
+      "date": "2026-01-14 18:49:18",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://cdn.iphoneincanada.ca/wp-content/uploads/2026/01/Siri.jpg",
+      "url": "/tech-news/2026-01-14/apple-may-use-customized-google-gemini/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "iPhone in Canada"
+      },
+      "companies": [
+        "Apple",
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Algonomy a Databricks uzavírají partnerství Built On pro RetailAI",
+      "description": "Algonomy oznámilo partnerství Built On s Databricks, které přináší agentickou AI do maloobchodního plánování poptávky, alokace a optimalizace v podnikovém měřítku. Řešení RetailAI transformuje tradiční grafická rozhraní na konverzační interakce podporované pokročilou umělou inteligencí.",
+      "slug": "algonomy-databricks-built-on-partnership-for-retai",
+      "publishedAt": "2026-01-14T18:45:00+00:00",
+      "date": "2026-01-14 18:45:00",
+      "importance": 4,
+      "category": "maloobchodní ai",
+      "urlToImage": "https://www.databricks.com/sites/default/files/2026-01/algonomy-databricks-built-partnership-retailai-og-image.png",
+      "url": "/tech-news/2026-01-14/algonomy-databricks-built-on-partnership-for-retai/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Databricks.com"
+      },
+      "companies": [
+        "Algonomy",
+        "Databricks"
+      ],
+      "people": []
+    },
+    {
+      "title": "Podcast: Grok AI a dubinská městská rada v pohybu?",
+      "description": "Irská policie vyšetřuje 200 obrázků podezřelého dětského sexuálního zneužívání generovaných aplikací Grok AI. Problém souvisí s aktualizací umožňující digitální svlékání osob bez rozlišení věku.",
+      "slug": "podcast-grok-ai-and-dublin-city-council-on-the-mov",
+      "publishedAt": "2026-01-14T18:42:43+00:00",
+      "date": "2026-01-14 18:42:43",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.rte.ie/images/0023bde5-1600.jpg",
+      "url": "/tech-news/2026-01-14/podcast-grok-ai-and-dublin-city-council-on-the-mov/",
+      "source": {
+        "emoji": "📰",
+        "id": "rte",
+        "name": "RTE"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Vaše další sluchátka možná budou schopna číst váš mozek – a budete rádi, že to dokážou",
+      "description": "Neurable se vrací se svým algoritmem pro čtení mozku poháněným AI, tentokrát ve spolupráci s HyperX.",
+      "slug": "your-next-pair-of-headphones-may-be-able-to-read-y",
+      "publishedAt": "2026-01-14T18:24:00+00:00",
+      "date": "2026-01-14 18:24:00",
+      "importance": 4,
+      "category": "neurotechnologie",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/b9d3fa7744f7c113b0c3caf0b2a7ac13e46f064e/2026/01/06/cc9030ad-8ece-4d3a-927f-e87751e4abab/hyperx-3.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "url": "/tech-news/2026-01-14/your-next-pair-of-headphones-may-be-able-to-read-y/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "ZDNet"
+      },
+      "companies": [
+        "Neurable",
+        "HyperX"
+      ],
+      "people": []
+    },
     {
       "title": "Apple vyladí Siri poháněnou Gemini, aby odstranila googleovský dojem",
       "description": "Apple samostatně vyladí svou Siri poháněnou modelem Gemini od Google, aby vymazala jakýkoli nádech po Googlu a převzala plnou kontrolu nad chováním AI. Tento přístup umožní Sirí poskytovat přímé odpovědi místo odkazů na web a dokonce emocionální podporu.",
