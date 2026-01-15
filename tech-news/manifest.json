@@ -1,7 +1,113 @@
 {
-  "generated": "2026-01-15T09:00:14.209624+00:00",
-  "count": 165,
+  "generated": "2026-01-15T12:53:19.311345+00:00",
+  "count": 170,
   "articles": [
+    {
+      "title": "Elon Musk: Studium na lékařské fakultě bude za tři roky zbytečné, každý dostane lepší péči než prezident",
+      "description": "Elon Musk nedávno prohlásil, že díky umělé inteligenci bude za tři roky studium medicíny zbytečné. Každý bude mít přístup k lékařské péči lepší než současná prezidentská.",
+      "slug": "elon-musk-says-going-to-medical-school-will-be-poi",
+      "publishedAt": "2026-01-14T12:20:00+00:00",
+      "date": "2026-01-14 12:20:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/cDSnX6b2JMcSBTmhzVUnZb-2560-80.jpg",
+      "url": "/tech-news/2026-01-14/elon-musk-says-going-to-medical-school-will-be-poi/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Windows Central"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Ben Horowitz: Umělá inteligence bude větší než internet – obavy z bubliny přehlížejí, co se skutečně děje",
+      "description": "Spoluzakladatel investičního fondu Andreessen Horowitz Ben Horowitz uvedl, že vzestup umělé inteligence není jen humbukem. Rekordní poptávka a adopce podle něj vysvětlují rostoucí valuace společností v tomto sektoru.",
+      "slug": "ben-horowitz-says-ai-will-be-bigger-than-the-inter",
+      "publishedAt": "2026-01-14T11:57:47+00:00",
+      "date": "2026-01-14 11:57:47",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://i.insider.com/69676c2f64858d02d2184fed?width=1200&format=jpeg",
+      "url": "/tech-news/2026-01-14/ben-horowitz-says-ai-will-be-bigger-than-the-inter/",
+      "source": {
+        "emoji": "📰",
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "companies": [
+        "Andreessen Horowitz"
+      ],
+      "people": [
+        "Ben Horowitz"
+      ]
+    },
+    {
+      "title": "Musk předpovídá, že AI přinese světovou hojnost s příchodem AGI",
+      "description": "Elon Musk v podcastu Moonshots With Peter Diamandis uvedl, že pokročilá umělá inteligence povede k situaci, kdy lidé nebudou muset šetřit na důchod díky poklesu cen a univerzálnímu příjmu. Predikuje příchod AGI v roce 2026 a překročení lidské inteligence do roku 2030.",
+      "slug": "musk-predicts-ai-will-lead-to-abundance-when-agi-a",
+      "publishedAt": "2026-01-14T11:51:59+00:00",
+      "date": "2026-01-14 11:51:59",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2024/03/Elon-Musk-OpenAI.jpg",
+      "url": "/tech-news/2026-01-14/musk-predicts-ai-will-lead-to-abundance-when-agi-a/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk",
+        "Peter Diamandis"
+      ]
+    },
+    {
+      "title": "Šéf Nvidia Jensen Huang odmítá apokalyptické spekulace o AI: Sci-fi není užitečné",
+      "description": "Šéf Nvidia Jensen Huang kritizoval doomerské narativy, které vykreslují umělou inteligenci jako konec světa, a argumentoval, že takové sci-fi rámování zkresluje veřejné chápání a regulace. V podcastu No Priors varoval, že to škodí průmyslu i vládám.",
+      "slug": "nvidia-ceo-jensen-huang-pushes-back-on-ai-doomsday",
+      "publishedAt": "2026-01-14T11:47:42+00:00",
+      "date": "2026-01-14 11:47:42",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126526024,width-1200,height-630,imgsize-463453,overlay-etpanache/articleshow.jpg",
+      "url": "/tech-news/2026-01-14/nvidia-ceo-jensen-huang-pushes-back-on-ai-doomsday/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": [
+        "Jensen Huang"
+      ]
+    },
+    {
+      "title": "Britský zákaz nudifikačních aplikací se nevztahuje na Grok Elona Muska",
+      "description": "Britská vláda chystá zákaz nudifikačních aplikací, ale nevztahuje se na univerzální AI nástroje jako Grok Elona Muska, uvedla ministryně pro technologie Liz Kendall. Zákaz cílí na aplikace s jediným účelem: používat generativní AI k proměně obrázků reálných lidí v falešné nahé fotografie a videa bez souhlasu.",
+      "slug": "uk-nudification-app-ban-wont-apply-to-elon-musks-g",
+      "publishedAt": "2026-01-14T11:25:44+00:00",
+      "date": "2026-01-14 11:25:44",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/01/14/GettyImages-2254661596-scaled.jpg",
+      "url": "/tech-news/2026-01-14/uk-nudification-app-ban-wont-apply-to-elon-musks-g/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "POLITICO.eu"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk",
+        "Liz Kendall"
+      ]
+    },
     {
       "title": "Siri 2.0: Je to stále Siri, nebo Google Assistant v převleku?",
       "description": "Apple oznámilo novou aktualizaci Siri plánovanou na rok 2026, která integruje pokročilé AI základní modely od Google. Tato spolupráce představuje strategický posun v přístupu Apple k umělé inteligenci a má řešit dlouhodobé nedostatky Siri.",
