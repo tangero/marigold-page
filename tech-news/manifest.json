@@ -1,10 +1,153 @@
 {
-  "generated": "2026-01-16T01:26:31.259549+00:00",
-  "count": 193,
+  "generated": "2026-01-16T04:57:28.741219+00:00",
+  "count": 200,
   "articles": [
     {
+      "title": "Co je Grok 3 a jak se liší od ChatGPT?",
+      "description": "Prozkoumejte klíčové rozdíly mezi Grok 3 a ChatGPT. Zjistěte, který AI chatbot vyniká v aktuálních informacích oproti hlubokému učení a tvorbě obsahu. Vyberte si správný nástroj!",
+      "slug": "what-is-grok-3-and-how-is-it-different-from-chatgp",
+      "publishedAt": "2026-01-15T04:20:23+00:00",
+      "date": "2026-01-15 04:20:23",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.c-sharpcorner.com/images/csharp-corner-new.png",
+      "url": "/tech-news/2026-01-15/what-is-grok-3-and-how-is-it-different-from-chatgp/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "C-sharpcorner.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Guvernérka New Yorku otevírá cestu pro robotaxi … kromě v New York City",
+      "description": "Guvernérka New Yorku Kathy Hochul připravuje legislativu, která by legalizovala provoz robotaxi v celém státě – s výjimkou nejlidnatějšího města New York City. Tento krok by mohl urychlit nasazení autonomních vozidel firem jako Waymo mimo velkoměsto.",
+      "slug": "new-york-governor-opens-pathway-for-robotaxis-exce",
+      "publishedAt": "2026-01-15T03:59:57+00:00",
+      "date": "2026-01-15 03:59:57",
+      "importance": 4,
+      "category": "robotaxi",
+      "urlToImage": "https://cleantechnica.com/wp-content/uploads/2025/07/Waymo-teen-account.jpeg",
+      "url": "/tech-news/2026-01-15/new-york-governor-opens-pathway-for-robotaxis-exce/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CleanTechnica"
+      },
+      "companies": [],
+      "people": [
+        "Kathy Hochul"
+      ]
+    },
+    {
+      "title": "Čína připravuje pravidla pro nákupy čipů Nvidia H200, hlásí Nikkei Asia",
+      "description": "Čína pracuje na pravidlech omezujících objem pokročilých AI čipů, které mohou místní firmy nakupovat od zahraničních výrobců jako Nvidia. Tato opatření následují po rozhodnutí americké Trumpovy administrativy povolit prodej čipů H200 do Číny, přestože čínské úřady momentálně dovoz blokují.",
+      "slug": "china-drafting-purchase-rules-for-nvidia-h200-chip",
+      "publishedAt": "2026-01-15T03:21:24+00:00",
+      "date": "2026-01-15 03:21:24",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://s.yimg.com/os/en/reuters-finance.com/2d298e5494e3349bc11075aafdc3e5e1",
+      "url": "/tech-news/2026-01-15/china-drafting-purchase-rules-for-nvidia-h200-chip/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "OpenAI uzavřela dohodu na výpočetní výkon v hodnotě 10 miliard dolarů s konkurentem Nvidia Cerebras",
+      "description": "OpenAI nakoupí až 750 megawattů výpočetního výkonu od firmy Cerebras za více než 10 miliard dolarů na tři roky. Dohoda slouží k napájení ChatGPT, především pro inference a uvažovací modely, a posiluje postavení Cerebras jako alternativy k Nvidia.",
+      "slug": "openai-signs-10-billion-computing-deal-with-nvidia",
+      "publishedAt": "2026-01-15T03:14:52+00:00",
+      "date": "2026-01-15 03:14:52",
+      "importance": 4,
+      "category": "ai hardware",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-47682,resizemode-75,msid-126537436/tech/artificial-intelligence/openai-signs-10-billion-computing-deal-with-nvidia-challenger-cerebras.jpg",
+      "url": "/tech-news/2026-01-15/openai-signs-10-billion-computing-deal-with-nvidia/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "OpenAI",
+        "Nvidia",
+        "Cerebras"
+      ],
+      "people": []
+    },
+    {
+      "title": "Čínská Z.ai tvrdí, že natrénovala model výhradně na hardware od Huawei",
+      "description": "Společnost neuvedla, kolik zařízení použila, Nvidia tak může pravděpodobně klidně spát",
+      "slug": "chinas-zai-claims-it-trained-a-model-using-only-hu",
+      "publishedAt": "2026-01-15T02:27:31+00:00",
+      "date": "2026-01-15 02:27:31",
+      "importance": 4,
+      "category": "hardware",
+      "urlToImage": "https://regmedia.co.uk/2025/03/17/leonardo_ai_china_ai_watermark.jpg",
+      "url": "/tech-news/2026-01-15/chinas-zai-claims-it-trained-a-model-using-only-hu/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "companies": [
+        "Zhipu AI",
+        "Huawei",
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "OpenAI se zavazuje k nákupu AI výpočetní kapacity v hodnotě přes 10 miliard dolarů od Cerebras Systems",
+      "description": "OpenAI Group PBC uzavřela dohodu s výrobcem čipů pro umělou inteligenci Cerebras Systems na zajištění výpočetní kapacity pro své velké jazykové modely. Společnost uvedla, že čipy Cerebras použije k napájení ChatGPT a plánuje nákup až 750 megawattů výpočetního výkonu na tři roky.",
+      "slug": "openai-commits-to-buying-over-10b-worth-of-ai-comp",
+      "publishedAt": "2026-01-15T01:36:34+00:00",
+      "date": "2026-01-15 01:36:34",
+      "importance": 4,
+      "category": "ai hardware",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/cerebras-hof.jpg",
+      "url": "/tech-news/2026-01-15/openai-commits-to-buying-over-10b-worth-of-ai-comp/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "OpenAI",
+        "Cerebras Systems"
+      ],
+      "people": []
+    },
+    {
+      "title": "Alpaca získává 150 milionů dolarů na rozšíření platformy pro správu brokeražních účtů",
+      "description": "Finanční technologická společnost AlpacaDB Inc. získala 150 milionů dolarů v investicích Series D při valuaci 1,15 miliardy dolarů. Kolo vedl fond Drive Capital s příspěvky od více než tucetu investorů včetně poboček BNP Paribas a Mitsubishi UFJ Financial Group.",
+      "slug": "alpaca-raises-150m-to-grow-its-brokerage-account-m",
+      "publishedAt": "2026-01-15T01:17:55+00:00",
+      "date": "2026-01-15 01:17:55",
+      "importance": 4,
+      "category": "fintech",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/Alpaca.png",
+      "url": "/tech-news/2026-01-15/alpaca-raises-150m-to-grow-its-brokerage-account-m/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "AlpacaDB Inc"
+      ],
+      "people": []
+    },
+    {
       "title": "Dva spoluzakladatelé Thinking Machines Lab odcházejí a vracejí se do OpenAI",
-      "description": "Tato zpráva představuje úder pro Thinking Machines Lab. Již se objevují dvě verze událostí vedoucích k odchodu.",
+      "description": "Tato zpráva představuje úder pro Thinking Machines Lab. Již se objevují dvě verze vysvětlení toho, co k odchodu došlo.",
       "slug": "two-thinking-machines-lab-cofounders-are-leaving-t",
       "publishedAt": "2026-01-15T00:40:28+00:00",
       "date": "2026-01-15 00:40:28",
