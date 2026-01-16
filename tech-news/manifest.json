@@ -1,7 +1,127 @@
 {
-  "generated": "2026-01-16T04:57:28.741219+00:00",
+  "generated": "2026-01-16T08:46:28.850038+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Google integruje data z Gmailu, YouTube a Vyhledávání přímo do Gemini",
+      "description": "Google rozšiřuje roli modelu Gemini z obecného chatbota na personalizovaného asistenta integrací dat z Gmailu, YouTube a Google Vyhledávání. Tato změna umožňuje Gemini odkazovat na e-maily, historii vyhledávání a aktivitu na YouTube pro přesnější odpovědi.",
+      "slug": "google-integrates-gmail-youtube-and-search-data-di",
+      "publishedAt": "2026-01-15T08:14:35+00:00",
+      "date": "2026-01-15 08:14:35",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.ghacks.net/wp-content/uploads/2026/01/gHacks-articles-95.png",
+      "url": "/tech-news/2026-01-15/google-integrates-gmail-youtube-and-search-data-di/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Ghacks Technology News"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Volvo EX60 nakonec umožní umělé inteligenci Gemini od Google přístup ke všem kamerám vozu",
+      "description": "Mám rezervy ohledně umožnění přístupu asistentovi AI od Google ke kamerám vozu, ale kdo ví, zda kupující luxusních elektrických vozů nebudou mít stejné obavy?",
+      "slug": "volvo-ex60-will-eventually-let-googles-gemini-ai-a",
+      "publishedAt": "2026-01-15T08:00:00+00:00",
+      "date": "2026-01-15 08:00:00",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://www.jalopnik.com/img/gallery/volvo-ex60-will-eventually-let-googles-gemini-ai-access-all-your-cars-cameras/l-intro-1768435175.jpg",
+      "url": "/tech-news/2026-01-15/volvo-ex60-will-eventually-let-googles-gemini-ai-a/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Jalopnik"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "SAP a Syngenta oznámily partnerství pro rozšíření zemědělství podporovaného umělou inteligencí",
+      "description": "Víceleté strategické technologické partnerství se SAP vtělí umělou inteligenci do jádra podniku Syngenta.",
+      "slug": "sap-and-syngenta-announce-partnership-to-scale-ai-",
+      "publishedAt": "2026-01-15T08:00:00+00:00",
+      "date": "2026-01-15 08:00:00",
+      "importance": 4,
+      "category": "ai zemědělství",
+      "urlToImage": "https://news.sap.com/wp-content/blogs.dir/1/files/2026/01/15/Image-via-Syngenta-for-SAP-newsbyte-Jan-2025_Scientist-in-greenhouse.jpg",
+      "url": "/tech-news/2026-01-15/sap-and-syngenta-announce-partnership-to-scale-ai/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Sap.com"
+      },
+      "companies": [
+        "SAP"
+      ],
+      "people": []
+    },
+    {
+      "title": "Od Gemini 3 k YouTube a Androidu: Proč je strategie Google v umělé inteligenci obtížně překonatelná",
+      "description": "Google posiluje svou pozici lídra v umělé inteligenci integrací modelů jako Gemini 3 do svých platforem jako YouTube a Android. Článek rozebírá, jak ekosystém společnosti zajišťuje širokou dostupnost a cenovou přístupnost pokročilých AI nástrojů pro miliardy uživatelů.",
+      "slug": "from-gemini-3-to-youtube-android-why-googles-ai-st",
+      "publishedAt": "2026-01-15T07:46:51+00:00",
+      "date": "2026-01-15 07:46:51",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/01/ai-subscription-value-25k-credits_optimized.jpg",
+      "url": "/tech-news/2026-01-15/from-gemini-3-to-youtube-android-why-googles-ai-st/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "USA zavádí 25% clo na prodej některých čipů jako součást dohody s Nvidia",
+      "description": "Dohoda umožňuje společnosti Nvidia dodávat AI procesory do Číny, přičemž USA uvalují 25% clo na dovoz těchto čipů před jejich finálním odesláním.",
+      "slug": "us-sets-25-tariff-on-some-chip-sales-as-part-of-nv",
+      "publishedAt": "2026-01-15T07:29:38+00:00",
+      "date": "2026-01-15 07:29:38",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/XWVKMMLS2ALUW4OEH4AJB536YQ.jpg?smart=true&auth=26cff0f1aca22653ac0218d3e980a2c80fd367134ce4eb6771bdcfdf7f7ad397&width=1200&height=630",
+      "url": "/tech-news/2026-01-15/us-sets-25-tariff-on-some-chip-sales-as-part-of-nv/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Platforma X Elona Muska omezuje editaci fotek v Grok kvůli obavám z sexualizovaných obrázků",
+      "description": "Společnost X oznámila, že AI chatbot Grok už nebude umožňovat editaci obrázků skutečných lidí v odhalujícím oblečení v jurisdikcích, kde je to nezákonné. Opatření přichází po vyšetřování britského regulátora Ofcom kvůli zneužívání nástroje na sexualizaci žen a dětí.",
+      "slug": "elon-musks-x-restricts-grok-photo-editing-amid-con",
+      "publishedAt": "2026-01-15T07:25:26+00:00",
+      "date": "2026-01-15 07:25:26",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/6MB5ARMENHYXOSFPEEJTD5I6YQ.jpg?smart=true&auth=ab955ef9994833a90dc22381456206d51df39c517f2beb6ee98604601485246a&width=1200&height=630",
+      "url": "/tech-news/2026-01-15/elon-musks-x-restricts-grok-photo-editing-amid-con/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk"
+      ]
+    },
     {
       "title": "Co je Grok 3 a jak se liší od ChatGPT?",
       "description": "Prozkoumejte klíčové rozdíly mezi Grok 3 a ChatGPT. Zjistěte, který AI chatbot vyniká v aktuálních informacích oproti hlubokému učení a tvorbě obsahu. Vyberte si správný nástroj!",
@@ -3378,44 +3498,6 @@
       ]
     },
     {
-      "title": "Poskytovatel cloudových služeb pro umělou inteligenci Lambda údajně získává kolo financování za 350 milionů dolarů",
-      "description": "Startup Lambda Inc., který provozuje cloudovou platformu pro úlohy umělé inteligence, údajně hledá investice ve výši 350 milionů dolarů. Mubadala Capital jedná o vedení kola financování, pouhé dva měsíce po předchozím kole za 1,5 miliardy dolarů.",
-      "slug": "ai-cloud-provider-lambda-reportedly-raising-350m-r",
-      "publishedAt": "2026-01-09T23:21:02+00:00",
-      "date": "2026-01-09 23:21:02",
-      "importance": 4,
-      "category": "startupy",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/Lambda.png",
-      "url": "/tech-news/2026-01-09/ai-cloud-provider-lambda-reportedly-raising-350m-r/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Lambda Inc"
-      ],
-      "people": []
-    },
-    {
-      "title": "Krize memorizace v AI",
-      "description": "Velké jazykové modely se „neučí“ – kopírují. To by mohlo zásadně ovlivnit technologický průmysl.",
-      "slug": "ais-memorization-crisis",
-      "publishedAt": "2026-01-09T22:43:44+00:00",
-      "date": "2026-01-09 22:43:44",
-      "importance": 5,
-      "category": "umělá inteligence",
-      "urlToImage": "https://cdn.theatlantic.com/thumbor/uoz9_OY2pO-93_0emQxcOSAJICY=/0x32:1498x812/1200x625/media/img/mt/2026/01/2025_12_18_Ai_compress_mpg_landscape/original.gif",
-      "url": "/tech-news/2026-01-09/ais-memorization-crisis/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Atlantic"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Sázka hedgeového fondu D1 na SpaceX pohání 39procentní růst soukromého portfolia",
       "description": "Portfolio soukromých investic hedgeového fondu D1 Capital Partners vzrostlo loni o 39 procent díky významné pozici v SpaceX Elona Muska, které dosáhlo valuace 800 miliard dolarů minulý měsíc. SpaceX tvoří přibližně 45 procent expozice fondu v oblasti venture capital a private equity.",
       "slug": "hedge-fund-d1s-spacex-bet-fuels-its-39-private-boo",
@@ -3537,26 +3619,6 @@
       "people": []
     },
     {
-      "title": "Allianz spolupracuje s Anthropic na nasazení AI v celém pojišťovacím byznysu",
-      "description": "Allianz plánuje nasadit umělou inteligenci po celém světě v pojišťovnictví s pomocí Anthropic. Poskytovatel finančních služeb a startup v oblasti AI uzavřeli globální partnerství, první projekty již probíhají.",
-      "slug": "allianz-taps-anthropic-to-help-deploy-ai-throughou",
-      "publishedAt": "2026-01-09T15:41:11+00:00",
-      "date": "2026-01-09 15:41:11",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2025/07/Allianz-.jpg",
-      "url": "/tech-news/2026-01-09/allianz-taps-anthropic-to-help-deploy-ai-throughou/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "pymnts.com"
-      },
-      "companies": [
-        "Anthropic"
-      ],
-      "people": []
-    },
-    {
       "title": "CrowdStrike posílí bezpečnost identit v éře AI akvizicí SGNL",
       "description": "Společnost CrowdStrike oznámila akvizici kalifornské firmy SGNL, specializující se na kontinuální řešení bezpečnosti identit, v transakci v hotovosti a akciích v hodnotě přibližně 740 milionů dolarů. Tento krok má rozšířit schopnosti v řízení přístupu pro lidské, ne-lidské a AI identity na základě hodnocení rizik v reálném čase.",
       "slug": "crowdstrike-to-enhance-ai-era-identity-security-wi",
@@ -3649,24 +3711,6 @@
         "emoji": "📰",
         "id": null,
         "name": "BusinessLine"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Nově získaných 15 miliard dolarů od Andreessen Horowitz odhaluje, kde firma vidí největší příležitosti",
-      "description": "Andreessen Horowitz získalo přes 15 miliard dolarů do různých fondů, což odráží rostoucí objemy venture kapitálu. Peníze směřují do oblastí jako růstové investice, biotechnologie, infrastruktura a obranné technologie.",
-      "slug": "andreessen-horowitzs-shiny-new-15-billion-reveals-",
-      "publishedAt": "2026-01-09T11:23:49+00:00",
-      "date": "2026-01-09 11:23:49",
-      "importance": 4,
-      "category": "startupy",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/09/GettyImages-1166273806-e1725472894883.jpg?resize=1200,600",
-      "url": "/tech-news/2026-01-09/andreessen-horowitzs-shiny-new-15-billion-reveals/",
-      "source": {
-        "emoji": "📰",
-        "id": "fortune",
-        "name": "Fortune"
       },
       "companies": [],
       "people": []
@@ -3771,50 +3815,6 @@
         "name": "BusinessLine"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "AI agenti promění online vyhledávání; Google čelí silné výzvě od OpenAI, tvrdí šéf Snowflake",
-      "description": "Umělá inteligence transformuje online vyhledávání, přičemž startupy jako OpenAI inovují rychleji než etablované firmy, uvedl generální ředitel Snowflake Sridhar Ramaswamy. AI prohlížeče a nástroje mění způsob, jak uživatelé získávají informace, zatímco cloudoví giganti soupeří, Snowflake si je jisté svými specializovanými analytickými platformami.",
-      "slug": "ai-agents-will-transform-online-search-google-face",
-      "publishedAt": "2026-01-09T07:15:03+00:00",
-      "date": "2026-01-09 07:15:03",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-2050382,resizemode-75,msid-126429845/tech/artificial-intelligence/google-vs-chatgpt-ai-agents-will-transform-online-search-google-faces-stiff-challenge-from-openai-snowflake-ceo.jpg",
-      "url": "/tech-news/2026-01-09/ai-agents-will-transform-online-search-google-face/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Google",
-        "OpenAI",
-        "Snowflake"
-      ],
-      "people": [
-        "Sridhar Ramaswamy"
-      ]
-    },
-    {
-      "title": "Akcie Bharat Forge v centru pozornosti po podpisu memoranda s německou Agile Robots",
-      "description": "Indická společnost Bharat Forge podepsala memorandum o porozumění (MoU) s německou firmou Agile Robots. Spolupráce se zaměří na AI řízenou robotiku a inteligentní automatizaci v sektorech jako automobilový průmysl a zdravotnictví.",
-      "slug": "bharat-forge-stock-in-focus-after-signing-mou-with",
-      "publishedAt": "2026-01-09T06:06:23+00:00",
-      "date": "2026-01-09 06:06:23",
-      "importance": 4,
-      "category": "robotika",
-      "urlToImage": "https://img.etimg.com/thumb/msid-126428551,width-1200,height-630,imgsize-176072,overlay-etmarkets/articleshow.jpg",
-      "url": "/tech-news/2026-01-09/bharat-forge-stock-in-focus-after-signing-mou-with/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Agile Robots"
-      ],
       "people": []
     },
     {
