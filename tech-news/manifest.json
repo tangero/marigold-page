@@ -1,7 +1,528 @@
 {
-  "generated": "2026-01-15T16:57:12.907410+00:00",
-  "count": 174,
+  "generated": "2026-01-16T04:57:28.741219+00:00",
+  "count": 200,
   "articles": [
+    {
+      "title": "Co je Grok 3 a jak se liší od ChatGPT?",
+      "description": "Prozkoumejte klíčové rozdíly mezi Grok 3 a ChatGPT. Zjistěte, který AI chatbot vyniká v aktuálních informacích oproti hlubokému učení a tvorbě obsahu. Vyberte si správný nástroj!",
+      "slug": "what-is-grok-3-and-how-is-it-different-from-chatgp",
+      "publishedAt": "2026-01-15T04:20:23+00:00",
+      "date": "2026-01-15 04:20:23",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.c-sharpcorner.com/images/csharp-corner-new.png",
+      "url": "/tech-news/2026-01-15/what-is-grok-3-and-how-is-it-different-from-chatgp/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "C-sharpcorner.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Guvernérka New Yorku otevírá cestu pro robotaxi … kromě v New York City",
+      "description": "Guvernérka New Yorku Kathy Hochul připravuje legislativu, která by legalizovala provoz robotaxi v celém státě – s výjimkou nejlidnatějšího města New York City. Tento krok by mohl urychlit nasazení autonomních vozidel firem jako Waymo mimo velkoměsto.",
+      "slug": "new-york-governor-opens-pathway-for-robotaxis-exce",
+      "publishedAt": "2026-01-15T03:59:57+00:00",
+      "date": "2026-01-15 03:59:57",
+      "importance": 4,
+      "category": "robotaxi",
+      "urlToImage": "https://cleantechnica.com/wp-content/uploads/2025/07/Waymo-teen-account.jpeg",
+      "url": "/tech-news/2026-01-15/new-york-governor-opens-pathway-for-robotaxis-exce/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CleanTechnica"
+      },
+      "companies": [],
+      "people": [
+        "Kathy Hochul"
+      ]
+    },
+    {
+      "title": "Čína připravuje pravidla pro nákupy čipů Nvidia H200, hlásí Nikkei Asia",
+      "description": "Čína pracuje na pravidlech omezujících objem pokročilých AI čipů, které mohou místní firmy nakupovat od zahraničních výrobců jako Nvidia. Tato opatření následují po rozhodnutí americké Trumpovy administrativy povolit prodej čipů H200 do Číny, přestože čínské úřady momentálně dovoz blokují.",
+      "slug": "china-drafting-purchase-rules-for-nvidia-h200-chip",
+      "publishedAt": "2026-01-15T03:21:24+00:00",
+      "date": "2026-01-15 03:21:24",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://s.yimg.com/os/en/reuters-finance.com/2d298e5494e3349bc11075aafdc3e5e1",
+      "url": "/tech-news/2026-01-15/china-drafting-purchase-rules-for-nvidia-h200-chip/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "OpenAI uzavřela dohodu na výpočetní výkon v hodnotě 10 miliard dolarů s konkurentem Nvidia Cerebras",
+      "description": "OpenAI nakoupí až 750 megawattů výpočetního výkonu od firmy Cerebras za více než 10 miliard dolarů na tři roky. Dohoda slouží k napájení ChatGPT, především pro inference a uvažovací modely, a posiluje postavení Cerebras jako alternativy k Nvidia.",
+      "slug": "openai-signs-10-billion-computing-deal-with-nvidia",
+      "publishedAt": "2026-01-15T03:14:52+00:00",
+      "date": "2026-01-15 03:14:52",
+      "importance": 4,
+      "category": "ai hardware",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-47682,resizemode-75,msid-126537436/tech/artificial-intelligence/openai-signs-10-billion-computing-deal-with-nvidia-challenger-cerebras.jpg",
+      "url": "/tech-news/2026-01-15/openai-signs-10-billion-computing-deal-with-nvidia/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "OpenAI",
+        "Nvidia",
+        "Cerebras"
+      ],
+      "people": []
+    },
+    {
+      "title": "Čínská Z.ai tvrdí, že natrénovala model výhradně na hardware od Huawei",
+      "description": "Společnost neuvedla, kolik zařízení použila, Nvidia tak může pravděpodobně klidně spát",
+      "slug": "chinas-zai-claims-it-trained-a-model-using-only-hu",
+      "publishedAt": "2026-01-15T02:27:31+00:00",
+      "date": "2026-01-15 02:27:31",
+      "importance": 4,
+      "category": "hardware",
+      "urlToImage": "https://regmedia.co.uk/2025/03/17/leonardo_ai_china_ai_watermark.jpg",
+      "url": "/tech-news/2026-01-15/chinas-zai-claims-it-trained-a-model-using-only-hu/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "companies": [
+        "Zhipu AI",
+        "Huawei",
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "OpenAI se zavazuje k nákupu AI výpočetní kapacity v hodnotě přes 10 miliard dolarů od Cerebras Systems",
+      "description": "OpenAI Group PBC uzavřela dohodu s výrobcem čipů pro umělou inteligenci Cerebras Systems na zajištění výpočetní kapacity pro své velké jazykové modely. Společnost uvedla, že čipy Cerebras použije k napájení ChatGPT a plánuje nákup až 750 megawattů výpočetního výkonu na tři roky.",
+      "slug": "openai-commits-to-buying-over-10b-worth-of-ai-comp",
+      "publishedAt": "2026-01-15T01:36:34+00:00",
+      "date": "2026-01-15 01:36:34",
+      "importance": 4,
+      "category": "ai hardware",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/cerebras-hof.jpg",
+      "url": "/tech-news/2026-01-15/openai-commits-to-buying-over-10b-worth-of-ai-comp/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "OpenAI",
+        "Cerebras Systems"
+      ],
+      "people": []
+    },
+    {
+      "title": "Alpaca získává 150 milionů dolarů na rozšíření platformy pro správu brokeražních účtů",
+      "description": "Finanční technologická společnost AlpacaDB Inc. získala 150 milionů dolarů v investicích Series D při valuaci 1,15 miliardy dolarů. Kolo vedl fond Drive Capital s příspěvky od více než tucetu investorů včetně poboček BNP Paribas a Mitsubishi UFJ Financial Group.",
+      "slug": "alpaca-raises-150m-to-grow-its-brokerage-account-m",
+      "publishedAt": "2026-01-15T01:17:55+00:00",
+      "date": "2026-01-15 01:17:55",
+      "importance": 4,
+      "category": "fintech",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/Alpaca.png",
+      "url": "/tech-news/2026-01-15/alpaca-raises-150m-to-grow-its-brokerage-account-m/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "AlpacaDB Inc"
+      ],
+      "people": []
+    },
+    {
+      "title": "Dva spoluzakladatelé Thinking Machines Lab odcházejí a vracejí se do OpenAI",
+      "description": "Tato zpráva představuje úder pro Thinking Machines Lab. Již se objevují dvě verze vysvětlení toho, co k odchodu došlo.",
+      "slug": "two-thinking-machines-lab-cofounders-are-leaving-t",
+      "publishedAt": "2026-01-15T00:40:28+00:00",
+      "date": "2026-01-15 00:40:28",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://media.wired.com/photos/696832c5bbf56c47d3d0ed29/191:100/w_1280,c_limit/Thinking%20Machines%20Cofounder%20Barret%20Zoph%20is%20Leaving%20the%20Lab%20and%20Rejoining%20OpenAI-Business-2243572881.jpg",
+      "url": "/tech-news/2026-01-15/two-thinking-machines-lab-cofounders-are-leaving-t/",
+      "source": {
+        "emoji": "🔧",
+        "id": "wired",
+        "name": "Wired"
+      },
+      "companies": [
+        "Thinking Machines Lab",
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Zpráva Barclays o humanoidních robotech: Trh v hodnotě 200 miliard dolarů do roku 2035",
+      "description": "Výzkum Barclays predikuje, že trh s humanoidními roboty dosáhne 200 miliard dolarů do roku 2035 díky masové produkci a poklesu cen. V roce 2025 se očekává instalace 16 tisíc kusů, přičemž Čína agresivně zaplavuje globální trh.",
+      "slug": "barclays-shiftless-robot-report-financial-times",
+      "publishedAt": "2026-01-15T00:12:59+00:00",
+      "date": "2026-01-15 00:12:59",
+      "importance": 5,
+      "category": "robotika",
+      "urlToImage": null,
+      "url": "/tech-news/2026-01-15/barclays-shiftless-robot-report-financial-times/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Akcie Rocket Lab dosáhly historického maxima po 1,4 miliardovém kontraktu s americkou armádou a návštěvě ministra obrany",
+      "description": "Kiwi-americká firma Rocket Lab získala největší zakázku v historii a přivítala ministra obrany USA, což posunulo její akcie na rekord.",
+      "slug": "rocket-lab-shares-surge-to-all-time-high-after-14b",
+      "publishedAt": "2026-01-14T23:53:23+00:00",
+      "date": "2026-01-14 23:53:23",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/ZQIIHKFEANDL3KQEZK2JW27ZBM.jpg?auth=bb2850531529376deea9ba0eb10e9a88b5cf7cd93b1534dadc958f54ff12e45e&width=1200&height=675&quality=70&focal=1144%2C738&smart=false",
+      "url": "/tech-news/2026-01-14/rocket-lab-shares-surge-to-all-time-high-after-14b/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "New Zealand Herald"
+      },
+      "companies": [
+        "Rocket Lab"
+      ],
+      "people": []
+    },
+    {
+      "title": "Google představuje nástroj Personal Intelligence pro personalizaci chatbota Gemini",
+      "description": "Google spustil nástroj Personal Intelligence, který umožňuje uživatelům přizpůsobit odpovědi chatbota Gemini na základě jejich osobních dat z Google služeb. Funkce začíná pro omezený počet placených uživatelů v USA a postupně se rozšiřuje.",
+      "slug": "google-introduces-personal-intelligence-personaliz",
+      "publishedAt": "2026-01-14T23:28:40+00:00",
+      "date": "2026-01-14 23:28:40",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/Gemini.png",
+      "url": "/tech-news/2026-01-14/google-introduces-personal-intelligence-personaliz/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "USA schvalují omezený prodej pokročilých AI čipů Nvidia H200 do Číny",
+      "description": "Ministerstvo obchodu USA povolilo export čipů Nvidia H200 do Číny pro schválené zákazníky za podmínek bezpečnostních opatření a 25procentního podílu americké vlády. Nejpokročilejší čipy Blackwell zůstávají plně omezené.",
+      "slug": "us-approves-sale-of-nvidias-advanced-ai-chips-to-c",
+      "publishedAt": "2026-01-14T23:20:00+00:00",
+      "date": "2026-01-14 23:20:00",
+      "importance": 4,
+      "category": "ai hardware",
+      "urlToImage": "https://a.fsdn.com/sd/topics/china_64.png",
+      "url": "/tech-news/2026-01-14/us-approves-sale-of-nvidias-advanced-ai-chips-to-c/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Předpovědi pro rok 2026: Kompletní seznam",
+      "description": "Autor shrnul své předpovědi pro rok 2026 do jednoho příspěvku po dvou týdnech psaní a devíti příspěvcích. Zahrnuje úpadek algoritmicky řízeného obsahu na sociálních sítích, plánované uvedení Anthropic na burzu, snížení nákladů na výpočetní výkon pro AI a další trendy.",
+      "slug": "predictions-2026-the-full-list",
+      "publishedAt": "2026-01-14T23:08:00+00:00",
+      "date": "2026-01-14 23:08:00",
+      "importance": 4,
+      "category": "předpovědi",
+      "urlToImage": "https://battellemedia.com/wp-content/uploads/2024/12/Screenshot-2024-12-23-at-10.39.22 AM-800x1024.png",
+      "url": "/tech-news/2026-01-14/predictions-2026-the-full-list/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Battellemedia.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Platforma X Elona Muska čelí vážným problémům kvůli deepfake pornografii",
+      "description": "Grok se používá k tvorbě zneužívajících a nelegálních obrázků. Aktualizace umožnila manipulaci s cizími fotografiemi bez souhlasu.",
+      "slug": "elon-musks-x-is-in-deep-trouble-over-deepfake-porn",
+      "publishedAt": "2026-01-14T20:15:18+00:00",
+      "date": "2026-01-14 20:15:18",
+      "importance": 4,
+      "category": "deepfakes",
+      "urlToImage": "https://foreignpolicy.com/wp-content/uploads/2026/01/GROK-X-CSAM-DEEPFAKES-GettyImages-2255888850.png?w=1000",
+      "url": "/tech-news/2026-01-14/elon-musks-x-is-in-deep-trouble-over-deepfake-porn/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Foreign Policy"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Čínská Z.AI vydala první velký model generování AI obrázků trénovaný bez amerických čipů",
+      "description": "Společnost Z.AI uvedla GLM-Image, model pro generování obrázků v umělé inteligenci, který byl trénován výhradně na čipech Huawei. Tento krok probíhá v kontextu blokování dovozů Nvidia H200 čínskou vládou s cílem posílit soběstačnost v AI.",
+      "slug": "chinas-zai-releases-first-major-ai-image-generatio",
+      "publishedAt": "2026-01-14T20:10:01+00:00",
+      "date": "2026-01-14 20:10:01",
+      "importance": 4,
+      "category": "generativní ai",
+      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/ai-decrypt-style-18-gID_7.png",
+      "url": "/tech-news/2026-01-14/chinas-zai-releases-first-major-ai-image-generatio/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Decrypt"
+      },
+      "companies": [
+        "Z.AI",
+        "Huawei",
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "USA schvalují export čipů Nvidia H200 do Číny",
+      "description": "S určitými podmínkami.",
+      "slug": "us-approves-nvidia-h200-chip-exports-to-china",
+      "publishedAt": "2026-01-14T20:07:23+00:00",
+      "date": "2026-01-14 20:07:23",
+      "importance": 4,
+      "category": "hardware",
+      "urlToImage": "https://i.nextmedia.com.au/News/2026-01-13T212819Z_1_LYNXMPEM0C19V_RTROPTP_4_USA-CHINA-NVIDIA.JPG",
+      "url": "/tech-news/2026-01-14/us-approves-nvidia-h200-chip-exports-to-china/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "iTnews"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Apple a Google čelí tlaku na odstranění X a Grok z obchodů s aplikacemi",
+      "description": "Grok se dostává pod rostoucí tlak od zastánských skupin poté, co uživatelé použili tento AI chatbot k vytvoření sexualizovaných obrázků nezletilých a žen. Koalice téměř 30 organizací vyzývá Google a Apple k odstranění aplikací X a Grok z jejich obchodů.",
+      "slug": "apple-google-face-pressure-to-remove-x-and-grok-fr",
+      "publishedAt": "2026-01-14T20:01:52+00:00",
+      "date": "2026-01-14 20:01:52",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/01/14/dccd328c-2286-4d40-b2e9-1476c83e27cd/thumbnail/1200x630/f1b738da4f0539b4bc69ae9984721c46/gettyimages-2255688653.jpg",
+      "url": "/tech-news/2026-01-14/apple-google-face-pressure-to-remove-x-and-grok-fr/",
+      "source": {
+        "emoji": "📺",
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "companies": [
+        "Apple",
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Tato baterie změní svět za tři měsíce, nebo udělá z tohoto muže blázna",
+      "description": "Společnost Donut Lab oznámila solid-state baterii s hustotou energie 400 Wh/kg, která vydrží 100 000 cyklů nabíjení a nabije se za 5 minut. Pokud tvrdí skalovatelnost a produkci, mohlo by to představovat největší průlom v elektromobilitě a úložištích energie.",
+      "slug": "this-battery-is-about-to-change-the-world-in-3-mon",
+      "publishedAt": "2026-01-14T19:58:48+00:00",
+      "date": "2026-01-14 19:58:48",
+      "importance": 5,
+      "category": "elektromobilita",
+      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/01/Donut-Lab-solid-state-battery.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2026-01-14/this-battery-is-about-to-change-the-world-in-3-mon/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Electrek"
+      },
+      "companies": [
+        "Donut Lab"
+      ],
+      "people": []
+    },
+    {
+      "title": "Apple volí Google Gemini pro pohon Siri, aby získal čas",
+      "description": "Gemini byl logickou volbou pro Apple Intelligence, alespoň dokud Apple nevyvine vlastní AI model. Partnerství umožňuje Applu rychle posunout Siri do éry agentických AI systémů.",
+      "slug": "apple-picking-google-gemini-to-power-siri-was-abou",
+      "publishedAt": "2026-01-14T19:45:58+00:00",
+      "date": "2026-01-14 19:45:58",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.cnet.com/a/img/resize/33a350e366f74ea895455b2a00ad628a1c157537/hub/2026/01/14/0c9351cf-453c-4c77-ae26-9d520ddd7476/image-1.png?auto=webp&fit=crop&height=675&width=1200",
+      "url": "/tech-news/2026-01-14/apple-picking-google-gemini-to-power-siri-was-abou/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNET"
+      },
+      "companies": [
+        "Apple",
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Národní výpadek mobilních služeb ochromil telefonní spojení v Disney World, miliony v režimu SOS",
+      "description": "Náhlý celonárodní výpadek mobilních sítí Verizonu, AT&T a T-Mobile ovlivnil přes 146 milionů zákazníků v USA, včetně návštěvníků Walt Disney World Resortu. Zákazníci se ocitli v režimu SOS bez datového připojení a hlasových služeb, což zkomplikovalo navigaci v parcích závislou na aplikaci My Disney Experience.",
+      "slug": "national-outage-takes-down-phone-service-at-disney",
+      "publishedAt": "2026-01-14T19:45:24+00:00",
+      "date": "2026-01-14 19:45:24",
+      "importance": 5,
+      "category": "síťový výpadek",
+      "urlToImage": "https://insidethemagic.net/wp-content/uploads/2024/02/disney-world-guests-phone.jpg",
+      "url": "/tech-news/2026-01-14/national-outage-takes-down-phone-service-at-disney/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Inside the Magic"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Google Gemini nyní přistupuje k vašemu digitálnímu životu pro inteligentnější odpovědi",
+      "description": "Pokud používáte aplikace Google jako Gmail nebo Photos, společnost už zná určité aspekty vašeho života. Nabízí udělat tyto znalosti dostupnější prostřednictvím funkce Personal Intelligence, která je synthesizuje do modelu Gemini.",
+      "slug": "google-gemini-can-now-access-your-digital-life-for",
+      "publishedAt": "2026-01-14T19:08:20+00:00",
+      "date": "2026-01-14 19:08:20",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.pcworld.com/wp-content/uploads/2026/01/shutterstock_2523880741.jpg?quality=50&strip=all&w=1024",
+      "url": "/tech-news/2026-01-14/google-gemini-can-now-access-your-digital-life-for/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "PCWorld"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Stačilo by ho jen vypnout",
+      "description": "Generativní AI je prezentována jako transformační a složitá technologie, jejíž tvůrci nedokážou vysvětlit její chování. Kritika směřuje k chatbotu Grok od Elona Muska, který generuje obrázky odhalující oblečení cizích lidí bez souhlasu, včetně materiálu s dětmi.",
+      "slug": "he-could-just-turn-it-off",
+      "publishedAt": "2026-01-14T18:53:44+00:00",
+      "date": "2026-01-14 18:53:44",
+      "importance": 4,
+      "category": "generativní ai",
+      "urlToImage": null,
+      "url": "/tech-news/2026-01-14/he-could-just-turn-it-off/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Apple možná použije upravený model Google Gemini",
+      "description": "Apple prý interně přizpůsobí model umělé inteligence Gemini od Google pro vylepšení Siri a Apple Intelligence, přičemž zachová typický styl uživatelského rozhraní firmy. Novinka by měla posílit konkurenční schopnosti Apple v oblasti AI bez úplné závislosti na externích partnerech.",
+      "slug": "apple-may-use-customized-google-gemini",
+      "publishedAt": "2026-01-14T18:49:18+00:00",
+      "date": "2026-01-14 18:49:18",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://cdn.iphoneincanada.ca/wp-content/uploads/2026/01/Siri.jpg",
+      "url": "/tech-news/2026-01-14/apple-may-use-customized-google-gemini/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "iPhone in Canada"
+      },
+      "companies": [
+        "Apple",
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Algonomy a Databricks uzavírají partnerství Built On pro RetailAI",
+      "description": "Algonomy oznámilo partnerství Built On s Databricks, které přináší agentickou AI do maloobchodního plánování poptávky, alokace a optimalizace v podnikovém měřítku. Řešení RetailAI transformuje tradiční grafická rozhraní na konverzační interakce podporované pokročilou umělou inteligencí.",
+      "slug": "algonomy-databricks-built-on-partnership-for-retai",
+      "publishedAt": "2026-01-14T18:45:00+00:00",
+      "date": "2026-01-14 18:45:00",
+      "importance": 4,
+      "category": "maloobchodní ai",
+      "urlToImage": "https://www.databricks.com/sites/default/files/2026-01/algonomy-databricks-built-partnership-retailai-og-image.png",
+      "url": "/tech-news/2026-01-14/algonomy-databricks-built-on-partnership-for-retai/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Databricks.com"
+      },
+      "companies": [
+        "Algonomy",
+        "Databricks"
+      ],
+      "people": []
+    },
+    {
+      "title": "Podcast: Grok AI a dubinská městská rada v pohybu?",
+      "description": "Irská policie vyšetřuje 200 obrázků podezřelého dětského sexuálního zneužívání generovaných aplikací Grok AI. Problém souvisí s aktualizací umožňující digitální svlékání osob bez rozlišení věku.",
+      "slug": "podcast-grok-ai-and-dublin-city-council-on-the-mov",
+      "publishedAt": "2026-01-14T18:42:43+00:00",
+      "date": "2026-01-14 18:42:43",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.rte.ie/images/0023bde5-1600.jpg",
+      "url": "/tech-news/2026-01-14/podcast-grok-ai-and-dublin-city-council-on-the-mov/",
+      "source": {
+        "emoji": "📰",
+        "id": "rte",
+        "name": "RTE"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Vaše další sluchátka možná budou schopna číst váš mozek – a budete rádi, že to dokážou",
+      "description": "Neurable se vrací se svým algoritmem pro čtení mozku poháněným AI, tentokrát ve spolupráci s HyperX.",
+      "slug": "your-next-pair-of-headphones-may-be-able-to-read-y",
+      "publishedAt": "2026-01-14T18:24:00+00:00",
+      "date": "2026-01-14 18:24:00",
+      "importance": 4,
+      "category": "neurotechnologie",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/b9d3fa7744f7c113b0c3caf0b2a7ac13e46f064e/2026/01/06/cc9030ad-8ece-4d3a-927f-e87751e4abab/hyperx-3.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "url": "/tech-news/2026-01-14/your-next-pair-of-headphones-may-be-able-to-read-y/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "ZDNet"
+      },
+      "companies": [
+        "Neurable",
+        "HyperX"
+      ],
+      "people": []
+    },
     {
       "title": "Apple vyladí Siri poháněnou Gemini, aby odstranila googleovský dojem",
       "description": "Apple samostatně vyladí svou Siri poháněnou modelem Gemini od Google, aby vymazala jakýkoli nádech po Googlu a převzala plnou kontrolu nad chováním AI. Tento přístup umožní Sirí poskytovat přímé odpovědi místo odkazů na web a dokonce emocionální podporu.",
