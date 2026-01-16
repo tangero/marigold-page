@@ -4,7 +4,7 @@ categories:
 - Convex
 - Supabase  
 layout: post
-post_excerpt: Vývojáři webových a AI aplikací stojí před rozhodnutím, které určí rychlost jejich vývoje na roky dopředu. Trh Backend-as-a-Service (BaaS) dospěl a rozdělil se do tří generací. Zatímco dříve byla volba jednoduchá _Dej tam Firebase_, dnes, v éře AI a TypeScriptu, stará řešení naráží na své limity. Pojďme se na tento vývoj podívat. 
+post_excerpt: Vývojáři webových a AI aplikací stojí před rozhodnutím, které určí rychlost jejich vývoje na roky dopředu. Trh Backend-as-a-Service (BaaS) dospěl a rozdělil se do tří generací. Zatímco dříve byla volba jednoduchá - dej tam Firebase - dnes, v éře AI a TypeScriptu, stará řešení naráží na své limity. Pojďme se na tento vývoj podívat. 
 summary_points:
 - Trend Integrated Stack nahrazuje složité lepení služeb pro zrychlení vývoje AI aplikací
 - Firebase a AWS Amplify naráží u moderních projektů na limity v oblasti NoSQL a složité infrastruktury
