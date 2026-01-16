@@ -1,7 +1,105 @@
 {
-  "generated": "2026-01-16T08:46:28.850038+00:00",
+  "generated": "2026-01-16T12:53:00.418525+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Proč budou čipy Apple M5 Pro a Max stát za dlouhé čekání",
+      "description": "Macworld analyzuje nadcházející čipy Apple M5 Pro a M5 Max pro nové MacBook Pro modely. Očekávají se významná zlepšení výkonu oproti řadě M4, včetně až 50procentního nárůstu grafického výkonu.",
+      "slug": "why-apples-m5-pro-and-max-chips-will-be-worth-the-",
+      "publishedAt": "2026-01-15T12:15:25+00:00",
+      "date": "2026-01-15 12:15:25",
+      "importance": 4,
+      "category": "hardware",
+      "urlToImage": "https://www.macworld.com/wp-content/uploads/2026/01/m5-pro-max-chip-graphic-1.jpg?quality=50&strip=all&w=1024",
+      "url": "/tech-news/2026-01-15/why-apples-m5-pro-and-max-chips-will-be-worth-the/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Macworld"
+      },
+      "companies": [
+        "Apple",
+        "Macworld"
+      ],
+      "people": []
+    },
+    {
+      "title": "Startup Higgsfield pro generování videí pomocí AI dosáhl valuace 1,3 miliardy dolarů novým financováním",
+      "description": "Startup Higgsfield se zabývající generováním videí pomocí AI získal 80 milionů dolarů v rozšíření série A, což společnosti vyneslo valuaci přes 1,3 miliardy dolarů. Firma hlásí roční recurující příjem ve výši 200 milionů dolarů a zaměřuje se na integraci modelů třetích stran.",
+      "slug": "ai-video-startup-higgsfield-hits-13-billion-valuat",
+      "publishedAt": "2026-01-15T12:02:57+00:00",
+      "date": "2026-01-15 12:02:57",
+      "importance": 4,
+      "category": "ai startupy",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--kaO7vsaE--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-01-15T120211Z_1_LYNXMPEM0E0O1_RTROPTP_3_USA-POWER-GOOGLE-TRANSMISSION.JPG?itok=N1k_rpSs",
+      "url": "/tech-news/2026-01-15/ai-video-startup-higgsfield-hits-13-billion-valuat/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNA"
+      },
+      "companies": [
+        "Higgsfield"
+      ],
+      "people": []
+    },
+    {
+      "title": "Kyivstar dosáhl 3 milionů zákazníků se službou Starlink Direct to Cell a posiluje konektivitu Ukrajiny",
+      "description": "Satelitní služba přímo do mobilních zařízení od Kyivstaru dosáhla v krátkém čase 3 milionů registrovaných předplatitelů a umožnila odeslání přes 1,2 milionu SMS zpráv. Společnost nyní otevírá přístup k testování na zařízeních iPhone s iOS 26.2 nebo novějším.",
+      "slug": "kyivstar-reaches-3-million-customers-with-starlink",
+      "publishedAt": "2026-01-15T12:00:00+00:00",
+      "date": "2026-01-15 12:00:00",
+      "importance": 4,
+      "category": "satelitní komunikace",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/566557cc-9ed1-45a3-afdb-f4c4979ca35a",
+      "url": "/tech-news/2026-01-15/kyivstar-reaches-3-million-customers-with-starlink/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "IPO boom se vrací, SpaceX a OpenAI na seznamu investorů pro rok 2026. Buďte opatrní s nákupy",
+      "description": "Očekávaný nárůst počtu firem vstupujících na burzu přináší více příležitostí, ale zároveň i rizika zklamání. Mezi potenciálními kandidáty pro rok 2026 jsou giganti jako SpaceX a OpenAI.",
+      "slug": "ipo-boom-times-are-back-with-spacex-and-openai-on-",
+      "publishedAt": "2026-01-15T12:00:00+00:00",
+      "date": "2026-01-15 12:00:00",
+      "importance": 4,
+      "category": "ipo",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/01/FORTUNE-IPO-FINAL-WEB.jpg?resize=1200,600",
+      "url": "/tech-news/2026-01-15/ipo-boom-times-are-back-with-spacex-and-openai-on/",
+      "source": {
+        "emoji": "📰",
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "companies": [
+        "SpaceX",
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Colorado School of Mines zavedla první bakalářský program v inženýrství kvantových systémů v USA",
+      "description": "Colorado School of Mines spouští první bakalářský stupeň v oboru inženýrství kvantových systémů v USA. Tento program vyplňuje mezeru ve vzdělávání pro pracovníky v kvantových technologiích, kde více než polovina pozic vyžaduje pouze bakalářský titul nebo méně.",
+      "slug": "colorado-school-of-mines-establishes-nations-first",
+      "publishedAt": "2026-01-15T12:00:00+00:00",
+      "date": "2026-01-15 12:00:00",
+      "importance": 4,
+      "category": "kvantové technologie",
+      "urlToImage": null,
+      "url": "/tech-news/2026-01-15/colorado-school-of-mines-establishes-nations-first/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Google integruje data z Gmailu, YouTube a Vyhledávání přímo do Gemini",
       "description": "Google rozšiřuje roli modelu Gemini z obecného chatbota na personalizovaného asistenta integrací dat z Gmailu, YouTube a Google Vyhledávání. Tato změna umožňuje Gemini odkazovat na e-maily, historii vyhledávání a aktivitu na YouTube pro přesnější odpovědi.",
@@ -3716,30 +3814,6 @@
       "people": []
     },
     {
-      "title": "ChatGPT vs. Gemini: Návštěvnost a co na to říká šéf Google AI Demis Hassabis",
-      "description": "ChatGPT zaznamenal pokles denní návštěvnosti o 22 % za šest týdnů, zatímco Gemini zůstal stabilní. Sam Altman nařídil interní „code red“ kvůli rostoucí konkurenci, což podtrhuje sílu distribuce Google.",
-      "slug": "chatgpt-vs-gemini-traffic-heres-what-google-ai-ceo",
-      "publishedAt": "2026-01-09T11:22:05+00:00",
-      "date": "2026-01-09 11:22:05",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-37614,resizemode-75,msid-126434271/tech/artificial-intelligence/chatgpt-vs-gemini-traffic-heres-what-google-ai-ceo-demis-hassabis-has-to-say.jpg",
-      "url": "/tech-news/2026-01-09/chatgpt-vs-gemini-traffic-heres-what-google-ai-ceo/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Google",
-        "OpenAI"
-      ],
-      "people": [
-        "Demis Hassabis",
-        "Sam Altman"
-      ]
-    },
-    {
       "title": "Další kapitola umělé inteligence: nové architektury, časová osa AGI a odklon od nadšení z velkých jazykových modelů",
       "description": "Co kdyby budoucnost umělé inteligence nebyla jen o budování chytřejších systémů, ale o přehodnocení samotné podstaty inteligence? V tomto průvodci Pourya Kordi ukazuje, jak nejnovější pokroky v AI výzkumu zpochybňují dlouhodobé předpoklady a otevírají cestu k nové éře inovací.",
       "slug": "the-next-chapter-in-ai-fresh-architectures-an-agi-",
@@ -3856,62 +3930,6 @@
       "people": []
     },
     {
-      "title": "Čínské humanoidní roboty byly všude na největší americké technologické veletrhu",
-      "description": "Přítomnost čínských robotických inovací ve srdci americké technologické show neustále připomíná technologický závod mezi oběma zeměmi.",
-      "slug": "chinas-humanoids-were-everywhere-at-americas-top-t",
-      "publishedAt": "2026-01-09T03:47:04+00:00",
-      "date": "2026-01-09 03:47:04",
-      "importance": 4,
-      "category": "robotika",
-      "urlToImage": "https://biztoc.com/cdn/9575cad7c6b09cc9_s.webp",
-      "url": "/tech-news/2026-01-09/chinas-humanoids-were-everywhere-at-americas-top-t/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Čínská AI firma MiniMax vzrostla o 50 % při debutu v Hong Kongu",
-      "description": "Čínský vývojář AI modelů MiniMax Group vzrostl o 50 % při svém debutu na hongkongské burze v pátek po získání 4,8 miliardy HKD (620 milionů USD). Akcie se obchodovaly za 248 HKD oproti výchozí ceně 165 HKD.",
-      "slug": "china-ai-firm-minimax-soars-50-in-hong-kong-debut",
-      "publishedAt": "2026-01-09T03:07:00+00:00",
-      "date": "2026-01-09 03:07:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/01/09/3711963.jpg",
-      "url": "/tech-news/2026-01-09/china-ai-firm-minimax-soars-50-in-hong-kong-debut/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Star Online"
-      },
-      "companies": [
-        "MiniMax Group"
-      ],
-      "people": []
-    },
-    {
-      "title": "Čína zaměstnává armády lidských ‚kyberpracovníků‘ k tréninku humanoidních robotů",
-      "description": "Čína řeší klíčové úzké místo v národním úsilí o vloženou umělou inteligenci zaměstnáváním lidských pracovníků k tréninku humanoidních robotů. Místní vlády zřídily desítky ‚tréninkových center pro roboty‘ v rámci koordinovaného úsilí k získání dat o pohybu pro autonomní humanoidní stroje.",
-      "slug": "china-is-employing-armies-of-human-cyber-laborers-",
-      "publishedAt": "2026-01-09T02:41:59+00:00",
-      "date": "2026-01-09 02:41:59",
-      "importance": 5,
-      "category": "robotika",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/Screenshot-from-2026-01-09-09-41-19.png",
-      "url": "/tech-news/2026-01-09/china-is-employing-armies-of-human-cyber-laborers/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Omezený přístup k H200 signalizuje pečlivý přístup Pekingu k zahraniční AI technologii kvůli bezpečnostním obavám",
       "description": "Čína se připravuje schválit omezené importy AI čipů H200 od Nvidia ještě tento kvartál, což by mohlo částečně otevřít klíčový trh pro amerického výrobce při zachování přísných bezpečnostních omezení. Podle zdrojů citovaných Bloombergem jde o vyvážený přístup mezi technologickým pokrokem a národní bezpečností.",
       "slug": "limited-h200-access-signals-beijings-calibrated-ap",
@@ -3952,28 +3970,6 @@
       "people": [
         "Sridhar Ramaswamy"
       ]
-    },
-    {
-      "title": "Čína zahájí šetření akvizice Meta startupu Manus v oblasti umělé inteligence",
-      "description": "Čína oznámila, že prošetří akvizici společnosti Meta startupu Manus zabývajícího se umělou inteligencí. Tento krok podtrhuje rostoucí technologickou rivalitu mezi Čínou a USA.",
-      "slug": "china-to-probe-metas-acquisition-of-artificial-int",
-      "publishedAt": "2026-01-09T00:49:50+00:00",
-      "date": "2026-01-09 00:49:50",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://biztoc.com/cdn/025084d973a69931_s.webp",
-      "url": "/tech-news/2026-01-09/china-to-probe-metas-acquisition-of-artificial-int/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "companies": [
-        "Meta",
-        "Manus",
-        "Google"
-      ],
-      "people": []
     },
     {
       "title": "Google přidává do Gmailu nové funkce umělé inteligence a mění ho na osobního asistenta",
