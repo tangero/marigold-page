@@ -1,7 +1,125 @@
 {
-  "generated": "2026-01-16T12:53:00.418525+00:00",
+  "generated": "2026-01-16T16:51:18.204263+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Japonsko pomůže ASEAN vyvinout umělou inteligenci v místních jazycích kvůli obavám z Číny",
+      "description": "Japonsko a digitální ministři zemí ASEAN se dohodli na spolupráci při vývoji umělé inteligence přizpůsobené jihovýchodním asijským jazykům a kulturám. Cílem je snížit závislost na čínské technologii, včetně podpory kambodžského projektu pro khmerskou umělou inteligenci.",
+      "slug": "japan-to-help-asean-develop-local-language-ai-amid",
+      "publishedAt": "2026-01-15T16:11:52+00:00",
+      "date": "2026-01-15 16:11:52",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F6%2F9%2F5%2F12015969-2-eng-GB%2F313cf5f9be67-photo_SXM2026011500010364.jpg?width=1260&fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=auto&height=630",
+      "url": "/tech-news/2026-01-15/japan-to-help-asean-develop-local-language-ai-amid/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Nikkei.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "5 miliard dolarů pro Siri: Cena dohody Apple-Google v oblasti AI",
+      "description": "Dohoda Apple s Google o integraci modelů Gemini do Siri a Apple Intelligence má hodnotu 5 miliard dolarů. Tento krok umožňuje Apple využít externí AI infrastrukturu místo stavby vlastních datových center.",
+      "slug": "A-5-billion-for-siri-the-massive-price-of-the-appl",
+      "publishedAt": "2026-01-15T16:07:44+00:00",
+      "date": "2026-01-15 16:07:44",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2025/08/Apple-Google-Gemini-Siri-featured.jpg",
+      "url": "/tech-news/2026-01-15/A-5-billion-for-siri-the-massive-price-of-the-appl/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Headlines"
+      },
+      "companies": [
+        "Apple",
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Sora 2 od OpenAI začala úspěšně. Tempo se zpomalilo",
+      "description": "Aplikace získala 1 milion stažení během prvních pěti dnů, přestože byla dostupná jen pro iOS a vyžadovala pozvánku. V celém prosinci měla na iOS a Androidu dohromady přes 3 miliony stažení.",
+      "slug": "openais-sora-2-started-off-scorching-hot-things-ha",
+      "publishedAt": "2026-01-15T16:05:37+00:00",
+      "date": "2026-01-15 16:05:37",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/dog-video-from-sora-fps30.gif?auto=compress%2Cformat&cs=srgb",
+      "url": "/tech-news/2026-01-15/openais-sora-2-started-off-scorching-hot-things-ha/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Sherwood.news"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Grok zablokován před úpravou obrázků reálných lidí do odhalujícího oblečení v místech, kde je to nelegální, oznámila X",
+      "description": "Oznámení přišlo po globální vlně kritiky kvůli sexualizovaným obrázkům žen a dětí, včetně vyšetřování v Kalifornii a právních kroků ze strany vlád jako Malajsie či Indonésie.",
+      "slug": "grok-blocked-from-undressing-images-in-places-wher",
+      "publishedAt": "2026-01-15T15:59:29+00:00",
+      "date": "2026-01-15 15:59:29",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2026/01/Grok_Deepfakes_73527_a23d71-1.jpg?w=1024&h=575",
+      "url": "/tech-news/2026-01-15/grok-blocked-from-undressing-images-in-places-wher/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Denver Post"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Boom umělé inteligence posiluje obavy z bubliny v oboru (VIDEO)",
+      "description": "Masivní investice do umělé inteligence vyvolávají obavy z finanční bubliny, protože technologie zatím negeneruje zisky. Vyšetřování RT odhaluje kruhové financování mezi propojenými technologickými firmami.",
+      "slug": "ai-boom-fuels-fears-of-an-industry-bubble-video",
+      "publishedAt": "2026-01-15T15:57:30+00:00",
+      "date": "2026-01-15 15:57:30",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://mf.b37mrtl.ru/files/2026.01/article/6968f67c20302729f74f0be9.jpg",
+      "url": "/tech-news/2026-01-15/ai-boom-fuels-fears-of-an-industry-bubble-video/",
+      "source": {
+        "emoji": "📰",
+        "id": "rt",
+        "name": "RT"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Wikimedia Foundation oznámila nová partnerství s AI společnostmi Amazon, Meta, Microsoft, Perplexity a dalšími",
+      "description": "Nadace Wikimedia k příležitosti 25. výročí oznámila partnerství s velkými AI firmami, které se staly zákazníky jejího komerčního produktu Wikimedia Enterprise. Tento produkt umožňuje masivní využívání obsahu Wikipedie a dalších projektů Wikimedia pro trénink AI modelů a poskytování faktických odpovědí.",
+      "slug": "wikimedia-foundation-announces-new-ai-partnerships",
+      "publishedAt": "2026-01-15T15:20:23+00:00",
+      "date": "2026-01-15 15:20:23",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/10/GettyImages-528784450.jpg?w=1024",
+      "url": "/tech-news/2026-01-15/wikimedia-foundation-announces-new-ai-partnerships/",
+      "source": {
+        "emoji": "🚀",
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "companies": [
+        "Amazon",
+        "Meta",
+        "Microsoft",
+        "Perplexity"
+      ],
+      "people": []
+    },
     {
       "title": "Proč budou čipy Apple M5 Pro a Max stát za dlouhé čekání",
       "description": "Macworld analyzuje nadcházející čipy Apple M5 Pro a M5 Max pro nové MacBook Pro modely. Očekávají se významná zlepšení výkonu oproti řadě M4, včetně až 50procentního nárůstu grafického výkonu.",
@@ -3574,28 +3692,6 @@
       ]
     },
     {
-      "title": "FCC schválila dalších 7500 satelitů pro celkových 15 000 satelitů SpaceX Starlink",
-      "description": "Federální komise pro komunikace (FCC) povolila společnosti SpaceX nasadit a provozovat až 15 000 pokročilých satelitů Starlink. Toto rozšíření má zajistit rychlejší a výkonnější internetové připojení v USA.",
-      "slug": "fcc-approves-another-7500-satellites-to-a-total-of",
-      "publishedAt": "2026-01-09T23:27:37+00:00",
-      "date": "2026-01-09 23:27:37",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/01/Spacex15K.jpg",
-      "url": "/tech-news/2026-01-09/fcc-approves-another-7500-satellites-to-a-total-of/",
-      "source": {
-        "emoji": "📰",
-        "id": "next-big-future",
-        "name": "Next Big Future"
-      },
-      "companies": [
-        "SpaceX"
-      ],
-      "people": [
-        "Donald Trump"
-      ]
-    },
-    {
       "title": "Sázka hedgeového fondu D1 na SpaceX pohání 39procentní růst soukromého portfolia",
       "description": "Portfolio soukromých investic hedgeového fondu D1 Capital Partners vzrostlo loni o 39 procent díky významné pozici v SpaceX Elona Muska, které dosáhlo valuace 800 miliard dolarů minulý měsíc. SpaceX tvoří přibližně 45 procent expozice fondu v oblasti venture capital a private equity.",
       "slug": "hedge-fund-d1s-spacex-bet-fuels-its-39-private-boo",
@@ -3717,27 +3813,6 @@
       "people": []
     },
     {
-      "title": "CrowdStrike posílí bezpečnost identit v éře AI akvizicí SGNL",
-      "description": "Společnost CrowdStrike oznámila akvizici kalifornské firmy SGNL, specializující se na kontinuální řešení bezpečnosti identit, v transakci v hotovosti a akciích v hodnotě přibližně 740 milionů dolarů. Tento krok má rozšířit schopnosti v řízení přístupu pro lidské, ne-lidské a AI identity na základě hodnocení rizik v reálném čase.",
-      "slug": "crowdstrike-to-enhance-ai-era-identity-security-wi",
-      "publishedAt": "2026-01-09T12:21:40+00:00",
-      "date": "2026-01-09 12:21:40",
-      "importance": 4,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://www.techmonitor.ai/wp-content/uploads/sites/29/2026/01/CrowdStrike-afefe1830a65c40ce8ddb820e8be35cd.jpg",
-      "url": "/tech-news/2026-01-09/crowdstrike-to-enhance-ai-era-identity-security-wi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Verdict"
-      },
-      "companies": [
-        "CrowdStrike",
-        "SGNL"
-      ],
-      "people": []
-    },
-    {
       "title": "Nvidia a dodavatelé automobilů uzavírají dohody k oživení samořídících vozidel",
       "description": "Krátká historie průmyslu samořídících aut je plná drahých neúspěchů a nekonečných zpoždění, dodavatelé technologií, čipové firmy včetně Nvidia a někteří výrobci aut však vsazují na umělou inteligenci a síť partnerství k novému pokroku. Na veletrhu CES v Las Vegas byla oznámena řada spoluprací, které mají urychlit komercializaci autonomních technologií.",
       "slug": "nvidia-auto-suppliers-in-deals-to-rekindle-self-dr",
@@ -3754,26 +3829,6 @@
       },
       "companies": [
         "Nvidia"
-      ],
-      "people": []
-    },
-    {
-      "title": "Cyera získala 400 milionů dolarů v kolu Series F díky rostoucí poptávce po bezpečnosti podnikového AI",
-      "description": "Cyera získala 400 milionů dolarů v kolu Series F, čímž zvýšila celkový kapitál na více než 1,7 miliardy dolarů a valuaci společnosti na 9 miliard dolarů.",
-      "slug": "cyera-secures-400m-series-f-as-demand-for-enterpri",
-      "publishedAt": "2026-01-09T12:14:47+00:00",
-      "date": "2026-01-09 12:14:47",
-      "importance": 4,
-      "category": "startupy",
-      "urlToImage": "https://www.techmonitor.ai/wp-content/uploads/sites/29/2026/01/Cyera-79c4755280fff091b67f0a042bae6ee6.jpg",
-      "url": "/tech-news/2026-01-09/cyera-secures-400m-series-f-as-demand-for-enterpri/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Verdict"
-      },
-      "companies": [
-        "Cyera"
       ],
       "people": []
     },
@@ -3910,26 +3965,6 @@
       "people": []
     },
     {
-      "title": "Čínský výrobce aut Xpeng oznamuje otočku směrem k fyzické AI v době tvrdé konkurence",
-      "description": "Čínský výrobce elektrických aut Xpeng chce být vnímán jako společnost zaměřená na fyzickou umělou inteligenci, nejen jako automobilka. Připravuje uliční testy robotaxi a zahájení sériové výroby humanoidních robotů ještě letos.",
-      "slug": "chinese-automaker-xpeng-touts-ai-pivot-in-face-of-",
-      "publishedAt": "2026-01-09T05:12:32+00:00",
-      "date": "2026-01-09 05:12:32",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://s.yimg.com/os/en/reuters-finance.com/ab082b4cd3c9938d90049fefb616dd8e",
-      "url": "/tech-news/2026-01-09/chinese-automaker-xpeng-touts-ai-pivot-in-face-of/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [
-        "Xpeng"
-      ],
-      "people": []
-    },
-    {
       "title": "Omezený přístup k H200 signalizuje pečlivý přístup Pekingu k zahraniční AI technologii kvůli bezpečnostním obavám",
       "description": "Čína se připravuje schválit omezené importy AI čipů H200 od Nvidia ještě tento kvartál, což by mohlo částečně otevřít klíčový trh pro amerického výrobce při zachování přísných bezpečnostních omezení. Podle zdrojů citovaných Bloombergem jde o vyvážený přístup mezi technologickým pokrokem a národní bezpečností.",
       "slug": "limited-h200-access-signals-beijings-calibrated-ap",
@@ -3990,48 +4025,6 @@
         "Google"
       ],
       "people": []
-    },
-    {
-      "title": "Platforma X vedená Elonem Muskem zaznamenala nárůst stížností na syntetická AI média po uvedení Grok Imagine v Indii",
-      "description": "Stížnosti podané na sociální síť X v Indii proti syntetickým nebo manipulovaným médiím vyskočily v září 2025 na odhadovaných 983, což tvořilo více než polovinu z celkových 1959 stížností, oproti nule v předchozích třech měsících. Nárůst souvisí s globálním spuštěním nástroje Grok Imagine pro generování obrázků a videí pomocí AI.",
-      "slug": "elon-musk-led-x-saw-ai-media-grievances-surge-post",
-      "publishedAt": "2026-01-09T00:30:00+00:00",
-      "date": "2026-01-09 00:30:00",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-38374,resizemode-75,msid-126420172/tech/artificial-intelligence/elonn-musk-led-x-saw-ai-media-grievances-surge-post-grok-imagine-rollout-in-india.jpg",
-      "url": "/tech-news/2026-01-09/elon-musk-led-x-saw-ai-media-grievances-surge-post/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "CVC Capital Partners vede závod na koupi ValueLabs za valuaci 1–1,2 miliardy dolarů",
-      "description": "Evropská private equity firma CVC Capital Partners jedná o akvizici většinového podílu v indické technologické společnosti ValueLabs z Hyderabadu za valuaci 1–1,2 miliardy dolarů. CVC má exkluzivní dohodu, zakladatelé si nechají 15–20 % a management zůstane u kormidla.",
-      "slug": "cvc-capital-partners-leads-race-to-buy-valuelabs-a",
-      "publishedAt": "2026-01-09T00:30:00+00:00",
-      "date": "2026-01-09 00:30:00",
-      "importance": 5,
-      "category": "akvizice",
-      "urlToImage": "https://img.etimg.com/thumb/msid-126422193,width-1200,height-630,imgsize-36796,overlay-economictimes/articleshow.jpg",
-      "url": "/tech-news/2026-01-09/cvc-capital-partners-leads-race-to-buy-valuelabs-a/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "ValueLabs"
-      ],
-      "people": [
-        "Arjun Rao Donakanti"
-      ]
     },
     {
       "title": "Meta investuje do jaderných energetických projektů pro posílení americké AI infrastruktury",
