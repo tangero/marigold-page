@@ -1,7 +1,124 @@
 {
-  "generated": "2026-01-15T20:49:29.026206+00:00",
-  "count": 187,
+  "generated": "2026-01-16T01:26:31.259549+00:00",
+  "count": 193,
   "articles": [
+    {
+      "title": "Dva spoluzakladatelé Thinking Machines Lab odcházejí a vracejí se do OpenAI",
+      "description": "Tato zpráva představuje úder pro Thinking Machines Lab. Již se objevují dvě verze událostí vedoucích k odchodu.",
+      "slug": "two-thinking-machines-lab-cofounders-are-leaving-t",
+      "publishedAt": "2026-01-15T00:40:28+00:00",
+      "date": "2026-01-15 00:40:28",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://media.wired.com/photos/696832c5bbf56c47d3d0ed29/191:100/w_1280,c_limit/Thinking%20Machines%20Cofounder%20Barret%20Zoph%20is%20Leaving%20the%20Lab%20and%20Rejoining%20OpenAI-Business-2243572881.jpg",
+      "url": "/tech-news/2026-01-15/two-thinking-machines-lab-cofounders-are-leaving-t/",
+      "source": {
+        "emoji": "🔧",
+        "id": "wired",
+        "name": "Wired"
+      },
+      "companies": [
+        "Thinking Machines Lab",
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Zpráva Barclays o humanoidních robotech: Trh v hodnotě 200 miliard dolarů do roku 2035",
+      "description": "Výzkum Barclays predikuje, že trh s humanoidními roboty dosáhne 200 miliard dolarů do roku 2035 díky masové produkci a poklesu cen. V roce 2025 se očekává instalace 16 tisíc kusů, přičemž Čína agresivně zaplavuje globální trh.",
+      "slug": "barclays-shiftless-robot-report-financial-times",
+      "publishedAt": "2026-01-15T00:12:59+00:00",
+      "date": "2026-01-15 00:12:59",
+      "importance": 5,
+      "category": "robotika",
+      "urlToImage": null,
+      "url": "/tech-news/2026-01-15/barclays-shiftless-robot-report-financial-times/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Akcie Rocket Lab dosáhly historického maxima po 1,4 miliardovém kontraktu s americkou armádou a návštěvě ministra obrany",
+      "description": "Kiwi-americká firma Rocket Lab získala největší zakázku v historii a přivítala ministra obrany USA, což posunulo její akcie na rekord.",
+      "slug": "rocket-lab-shares-surge-to-all-time-high-after-14b",
+      "publishedAt": "2026-01-14T23:53:23+00:00",
+      "date": "2026-01-14 23:53:23",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/ZQIIHKFEANDL3KQEZK2JW27ZBM.jpg?auth=bb2850531529376deea9ba0eb10e9a88b5cf7cd93b1534dadc958f54ff12e45e&width=1200&height=675&quality=70&focal=1144%2C738&smart=false",
+      "url": "/tech-news/2026-01-14/rocket-lab-shares-surge-to-all-time-high-after-14b/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "New Zealand Herald"
+      },
+      "companies": [
+        "Rocket Lab"
+      ],
+      "people": []
+    },
+    {
+      "title": "Google představuje nástroj Personal Intelligence pro personalizaci chatbota Gemini",
+      "description": "Google spustil nástroj Personal Intelligence, který umožňuje uživatelům přizpůsobit odpovědi chatbota Gemini na základě jejich osobních dat z Google služeb. Funkce začíná pro omezený počet placených uživatelů v USA a postupně se rozšiřuje.",
+      "slug": "google-introduces-personal-intelligence-personaliz",
+      "publishedAt": "2026-01-14T23:28:40+00:00",
+      "date": "2026-01-14 23:28:40",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/Gemini.png",
+      "url": "/tech-news/2026-01-14/google-introduces-personal-intelligence-personaliz/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "USA schvalují omezený prodej pokročilých AI čipů Nvidia H200 do Číny",
+      "description": "Ministerstvo obchodu USA povolilo export čipů Nvidia H200 do Číny pro schválené zákazníky za podmínek bezpečnostních opatření a 25procentního podílu americké vlády. Nejpokročilejší čipy Blackwell zůstávají plně omezené.",
+      "slug": "us-approves-sale-of-nvidias-advanced-ai-chips-to-c",
+      "publishedAt": "2026-01-14T23:20:00+00:00",
+      "date": "2026-01-14 23:20:00",
+      "importance": 4,
+      "category": "ai hardware",
+      "urlToImage": "https://a.fsdn.com/sd/topics/china_64.png",
+      "url": "/tech-news/2026-01-14/us-approves-sale-of-nvidias-advanced-ai-chips-to-c/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Předpovědi pro rok 2026: Kompletní seznam",
+      "description": "Autor shrnul své předpovědi pro rok 2026 do jednoho příspěvku po dvou týdnech psaní a devíti příspěvcích. Zahrnuje úpadek algoritmicky řízeného obsahu na sociálních sítích, plánované uvedení Anthropic na burzu, snížení nákladů na výpočetní výkon pro AI a další trendy.",
+      "slug": "predictions-2026-the-full-list",
+      "publishedAt": "2026-01-14T23:08:00+00:00",
+      "date": "2026-01-14 23:08:00",
+      "importance": 4,
+      "category": "předpovědi",
+      "urlToImage": "https://battellemedia.com/wp-content/uploads/2024/12/Screenshot-2024-12-23-at-10.39.22 AM-800x1024.png",
+      "url": "/tech-news/2026-01-14/predictions-2026-the-full-list/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Battellemedia.com"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Platforma X Elona Muska čelí vážným problémům kvůli deepfake pornografii",
       "description": "Grok se používá k tvorbě zneužívajících a nelegálních obrázků. Aktualizace umožnila manipulaci s cizími fotografiemi bez souhlasu.",
