@@ -1,7 +1,173 @@
 {
-  "generated": "2026-01-16T20:40:38.122360+00:00",
+  "generated": "2026-01-17T01:18:43.224455+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Grok blokován před úpravou obrázků reálných lidí do odhalujícího oblečení pomocí AI v místech, kde je to nelegální, uvedla X",
+      "description": "AI chatbot Grok od Elona Muska nebude moci upravovat fotografie tak, aby zobrazovaly reálné osoby v odhalujícím oblečení v oblastech, kde to zákon zakazuje, podle prohlášení na platformě X. Opatření přichází po globálním odporu vůči sexualizovaným obrázkům žen a dětí.",
+      "slug": "grok-blocked-from-undressing-images-with-ai-in-pla",
+      "publishedAt": "2026-01-16T00:14:17+00:00",
+      "date": "2026-01-16 00:14:17",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2026/01/2026-01-15T124959Z_1833880125_RC2X0JAQT12L_RTRMADP_3_XAI-GROK-BRITAIN-1024x699.jpg",
+      "url": "/tech-news/2026-01-16/grok-blocked-from-undressing-images-with-ai-in-pla/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "PBS"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "NVentures společnosti Nvidia investuje do Harmonic AI v sérii C pro matematickou superinteligenci",
+      "description": "Startup Harmonic AI, zaměřený na matematickou superinteligenci, získal investici od NVentures, venture kapitálové divize Nvidia, v rámci série C kola za 120 milionů dolarů na valuaci 1,45 miliardy dolarů. Peníze poslou k rozvoji systému Aristotle, pokročilého motoru pro matematické uvažování bez halucinací.",
+      "slug": "nvidias-nventures-backs-harmonic-ai-in-series-c-fo",
+      "publishedAt": "2026-01-16T00:13:27+00:00",
+      "date": "2026-01-16 00:13:27",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/11/harmonicai.png",
+      "url": "/tech-news/2026-01-16/nvidias-nventures-backs-harmonic-ai-in-series-c-fo/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Nvidia",
+        "Harmonic AI"
+      ],
+      "people": []
+    },
+    {
+      "title": "OpenAI investuje do firmy na brain-computer interface spoluzaložené CEO Samem Altmanem",
+      "description": "Merge Labs vyvíjí technologie pro ovládání zařízení pomocí mozku bez implantace hardware do těla. OpenAI se účastní seed kola v hodnotě 252 milionů dolarů, které vede investice do non-invazivních brain-computer interfaces (BCI).",
+      "slug": "openai-invests-in-brain-interface-biz-co-founded-b",
+      "publishedAt": "2026-01-16T00:13:06+00:00",
+      "date": "2026-01-16 00:13:06",
+      "importance": 4,
+      "category": "neurotechnologie",
+      "urlToImage": "https://regmedia.co.uk/2023/03/02/shutterstock_brain_vs_person.jpg",
+      "url": "/tech-news/2026-01-16/openai-invests-in-brain-interface-biz-co-founded-b/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "companies": [
+        "OpenAI",
+        "Merge Labs"
+      ],
+      "people": [
+        "Sam Altman"
+      ]
+    },
+    {
+      "title": "Irský startup Equal1 získal 60 milionů dolarů na nasazení škálovatelné kvantové výpočetní technologie",
+      "description": "Irský startup Equal1 Ltd. získal 60 milionů dolarů v nové investiční kole vedeném fondem Ireland Strategic Investment Fund. Mezi investory jsou také Atlantic Bridge, Matterwave Ventures, Enterprise Ireland, Elkstone a TNO. Peníze poslou k nasazení kvantového procesoru Bell-1, který je postavený na standardním křemíku.",
+      "slug": "irish-startup-equal1-receives-60m-to-start-deployi",
+      "publishedAt": "2026-01-16T00:09:42+00:00",
+      "date": "2026-01-16 00:09:42",
+      "importance": 5,
+      "category": "kvantové počítače",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/Screenshot-from-2026-01-16-07-04-38.png",
+      "url": "/tech-news/2026-01-16/irish-startup-equal1-receives-60m-to-start-deployi/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Equal1 Ltd",
+        "Atlantic Bridge",
+        "Matterwave Ventures",
+        "Enterprise Ireland",
+        "Elkstone"
+      ],
+      "people": []
+    },
+    {
+      "title": "Problém umělé inteligence s dětskou pornografií se výrazně zhoršuje",
+      "description": "Minulý rok bylo vyprodukováno tisíce zneužívajících videí – tolik, kolik vědí výzkumníci.",
+      "slug": "ais-child-porn-problem-is-getting-much-worse",
+      "publishedAt": "2026-01-16T00:01:00+00:00",
+      "date": "2026-01-16 00:01:00",
+      "importance": 5,
+      "category": "umělá inteligence",
+      "urlToImage": "https://cdn.theatlantic.com/thumbor/1eydAXWrmpR5TB5oCpq9dSJnVD8=/0x43:2000x1085/1200x625/media/img/mt/2026/01/2026_01_15_kids_mgp/original.jpg",
+      "url": "/tech-news/2026-01-16/ais-child-porn-problem-is-getting-much-worse/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Atlantic"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Airbnb zdánlivě potvrzuje projekt autonomního vozu Apple – co to odhaluje o posunu Apple v AI a budoucnosti Airbnb",
+      "description": "Nejnovější oznámení o najmutí nového šéfa technologie Airbnb neúmyslně potvrzuje dlouho spekulovaný projekt self-driving car Apple a poskytuje kontext k vývoji AI strategie Apple i ambicím Airbnb v oblasti umělé inteligence.",
+      "slug": "airbnb-seemingly-confirms-apples-self-driving-car-",
+      "publishedAt": "2026-01-16T00:00:00+00:00",
+      "date": "2026-01-16 00:00:00",
+      "importance": 4,
+      "category": "autonomní vozy",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/TR4wp3g5bUSPcwpeUiohUU-1280-80.jpg",
+      "url": "/tech-news/2026-01-16/airbnb-seemingly-confirms-apples-self-driving-car/",
+      "source": {
+        "emoji": "📰",
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "companies": [
+        "Airbnb",
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Prediktivní AI překlenuje mezeru v bezpečnostní reakci na automatizované útoky",
+      "description": "Podle výhledu World Economic Forum Cyber Risk in 2026 bude umělá inteligence (AI) nejdůležitějším faktorem formujícím strategie kyberbezpečnosti, což potvrdilo 94 % dotázaných vedoucích pracovníků jako multiplikátor síly pro obranu i útok. Prediktivní AI umožňuje detekovat hrozby dříve v cyklu útoku.",
+      "slug": "predictive-ai-bridges-the-security-response-gap-in",
+      "publishedAt": "2026-01-15T23:58:59+00:00",
+      "date": "2026-01-15 23:58:59",
+      "importance": 4,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/01/AI-security1.jpg",
+      "url": "/tech-news/2026-01-15/predictive-ai-bridges-the-security-response-gap-in/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "OpenAI investuje do vývojáře rozhraní mozek-počítač Merge Labs",
+      "description": "OpenAI Group PBC investovala do Merge Labs Inc., startupu vyvíjejícího hardware umožňující ovládání počítačů myšlenkami. Podle zdrojů jde o seed kolo v objemu 250 až 252 milionů dolarů s účastí Bain Capital a Gabea Newella.",
+      "slug": "openai-invests-in-brain-computer-interface-develop",
+      "publishedAt": "2026-01-15T23:47:23+00:00",
+      "date": "2026-01-15 23:47:23",
+      "importance": 4,
+      "category": "kybernetika",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/unsplash2-1.png",
+      "url": "/tech-news/2026-01-15/openai-invests-in-brain-computer-interface-develop/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "OpenAI",
+        "Merge Labs"
+      ],
+      "people": []
+    },
     {
       "title": "USA a Tchaj-wan se dohodly na stropu cla 15 % a investicích 500 miliard dolarů do čipů",
       "description": "USA a Tchaj-wan uzavřely obchodní dohodu, která snižuje cla na tchajwanské zboží z 20 % na 15 % a odemyká balíček 500 miliard dolarů pro rozvoj polovodičového průmyslu v USA. Dohoda zahrnuje 250 miliard dolarů přímých investic a stejnou částku v garancích úvěrů pro výstavbu továrny na čipy, energetiku a AI infrastrukturu.",
@@ -3805,46 +3971,6 @@
       ]
     },
     {
-      "title": "Meta uzavřela smlouvy se třemi společnostmi v jaderné energetice pro napájení datových center",
-      "description": "Meta podepsala dohody s firmami Vistra, TerraPower a Oklo na dodávky energie pro svá datová centra zaměřená na umělou inteligenci. Tyto smlouvy, včetně předchozího kontraktu s Constellation Energy, řadí společnost mezi největší odběratele jaderné energie v USA.",
-      "slug": "meta-signs-deals-with-3-nuclear-energy-companies-t",
-      "publishedAt": "2026-01-09T19:16:13+00:00",
-      "date": "2026-01-09 19:16:13",
-      "importance": 4,
-      "category": "jaderná energie",
-      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/01/Meta-AI.jpeg",
-      "url": "/tech-news/2026-01-09/meta-signs-deals-with-3-nuclear-energy-companies-t/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "pymnts.com"
-      },
-      "companies": [
-        "Meta"
-      ],
-      "people": []
-    },
-    {
-      "title": "OneStream odchází z burzy: Tři strategické imperativy pro technologické lídry",
-      "description": "Dohoda Hg Capital o akvizici OneStream za 6,4 miliardy dolarů představuje klíčový moment v oblasti podnikového řízení výkonu (EPM). Jedná se o jednu z největších privatizací v sektoru od akvizice Anaplan za 10,7 miliardy dolarů firmou Thoma Bravo v roce 2022.",
-      "slug": "onestream-goes-private-three-strategic-imperatives",
-      "publishedAt": "2026-01-09T18:30:20+00:00",
-      "date": "2026-01-09 18:30:20",
-      "importance": 5,
-      "category": "akvizice",
-      "urlToImage": "https://go.forrester.com/wp-content/uploads/2022/03/FMK_FORR_GenericSocialImage_220314.jpg",
-      "url": "/tech-news/2026-01-09/onestream-goes-private-three-strategic-imperatives/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Forrester.com"
-      },
-      "companies": [
-        "OneStream"
-      ],
-      "people": []
-    },
-    {
       "title": "Senátoři vyzvali Apple a Google k odstranění X a Grok z app storeů kvůli sexuálním deepfakům",
       "description": "Tři demokratickí senátoři vyzvali Apple a Google, aby odstranily aplikace X a Grok z jejich obchodů s aplikacemi kvůli generování nekonzistentních sexuálních obrázků skutečných lidí pomocí AI Grok. X omezilo funkci, ale problém přetrvává v samostatné aplikaci Grok.",
       "slug": "senators-urged-apple-and-google-to-remove-x-and-gr",
@@ -3886,44 +4012,6 @@
       "people": []
     },
     {
-      "title": "Nvidia a dodavatelé automobilů uzavírají dohody k oživení samořídících vozidel",
-      "description": "Krátká historie průmyslu samořídících aut je plná drahých neúspěchů a nekonečných zpoždění, dodavatelé technologií, čipové firmy včetně Nvidia a někteří výrobci aut však vsazují na umělou inteligenci a síť partnerství k novému pokroku. Na veletrhu CES v Las Vegas byla oznámena řada spoluprací, které mají urychlit komercializaci autonomních technologií.",
-      "slug": "nvidia-auto-suppliers-in-deals-to-rekindle-self-dr",
-      "publishedAt": "2026-01-09T12:18:37+00:00",
-      "date": "2026-01-09 12:18:37",
-      "importance": 4,
-      "category": "autonomní vozy",
-      "urlToImage": "https://www.rte.ie/images/0023b759-1600.jpg",
-      "url": "/tech-news/2026-01-09/nvidia-auto-suppliers-in-deals-to-rekindle-self-dr/",
-      "source": {
-        "emoji": "📰",
-        "id": "rte",
-        "name": "RTE"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": []
-    },
-    {
-      "title": "Fyzická AI dominuje na CES, ale lidstvo si na humanoidní sluhy ještě chvíli počká",
-      "description": "CES představuje vzestup fyzické AI a humanoidních robotů, ale životaschopní a cenově dostupní humanoidní sluhové zůstávají vzdálenou vyhlídkou.",
-      "slug": "physical-ai-dominates-ces-but-humanity-will-still-",
-      "publishedAt": "2026-01-09T11:41:22+00:00",
-      "date": "2026-01-09 11:41:22",
-      "importance": 4,
-      "category": "robotika",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/94rrzw/article70490582.ece/alternates/LANDSCAPE_1200/IMG_iStock-1205789278_2_1_O7E8FQGO.jpg",
-      "url": "/tech-news/2026-01-09/physical-ai-dominates-ces-but-humanity-will-still/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Další kapitola umělé inteligence: nové architektury, časová osa AGI a odklon od nadšení z velkých jazykových modelů",
       "description": "Co kdyby budoucnost umělé inteligence nebyla jen o budování chytřejších systémů, ale o přehodnocení samotné podstaty inteligence? V tomto průvodci Pourya Kordi ukazuje, jak nejnovější pokroky v AI výzkumu zpochybňují dlouhodobé předpoklady a otevírají cestu k nové éře inovací.",
       "slug": "the-next-chapter-in-ai-fresh-architectures-an-agi-",
@@ -3944,28 +4032,6 @@
       ]
     },
     {
-      "title": "Meta oznámila jaderné energetické projekty, které uvolní až 6,6 GW pro napájení amerického vedení v inovacích AI",
-      "description": "Meta uzavřela klíčové dohody s firmami Vistra, TerraPower a Oklo, které rozšíří provoz tří jaderných elektráren, podpoří vývoj jaderných technologií a vytvoří pracovní místa v amerických komunitách.",
-      "slug": "meta-announces-nuclear-energy-projects-unlocking-u",
-      "publishedAt": "2026-01-09T11:00:49+00:00",
-      "date": "2026-01-09 11:00:49",
-      "importance": 4,
-      "category": "jaderná energie",
-      "urlToImage": "https://about.fb.com/wp-content/uploads/2026/01/Nuclear_Header.jpg?w=1200",
-      "url": "/tech-news/2026-01-09/meta-announces-nuclear-energy-projects-unlocking-u/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Fb.com"
-      },
-      "companies": [
-        "Meta",
-        "TerraPower",
-        "Oklo"
-      ],
-      "people": []
-    },
-    {
       "title": "Ženy a děti jsou na sociálních sítích digitálně svlékány",
       "description": "Uživatelé platformy X zadávají AI chatbotu Grok příkazy k vytváření sexualizovaných obrázků žen a dětí. Nová funkce umožňuje editaci fotografií, což vede k šíření nekonzistentních deepfakeů krátce před účinností nového amerického zákona.",
       "slug": "women-and-children-are-being-digitally-undressed-o",
@@ -3981,66 +4047,6 @@
         "name": "Salon"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Ofcom vyzýván k použití 'zákazových' pravomocí proti X kvůli AI deepfakes",
-      "description": "Britská vláda vyzývá regulátora Ofcom, aby uplatnil všechny své pravomoci včetně efektivního zákazu platformy X kvůli nelegálním AI obrázkům generovaným modelem Grok, který umožňuje digitálně odstraňovat oblečení z fotografií lidí.",
-      "slug": "ofcom-urged-to-use-banning-powers-over-x-ai-deepfa",
-      "publishedAt": "2026-01-09T06:00:44+00:00",
-      "date": "2026-01-09 06:00:44",
-      "importance": 4,
-      "category": "deepfakes",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/309e/live/0888ccc0-ecee-11f0-a272-7ba2cc2ad754.jpg",
-      "url": "/tech-news/2026-01-09/ofcom-urged-to-use-banning-powers-over-x-ai-deepfa/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BBC News"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Podcast Ranní shrnutí: Uvnitř AI strategie společnosti Snowflake",
-      "description": "Pět let po úspěšné burzovní nabídce akcií a v době tržního poklesu vede Sridhar Ramaswamy společnost Snowflake klíčovým přechodem podnikových technologií na umělou inteligenci. V epizodě moderátoři Samidha Sharma a Pranav Mukul diskutují s generálním ředitelem Snowflake o skutečné hodnotě AI v podnikových datech a partnerstvích jako s OpenAI.",
-      "slug": "morning-brief-podcast-inside-snowflakes-ai-strateg",
-      "publishedAt": "2026-01-09T01:04:09+00:00",
-      "date": "2026-01-09 01:04:09",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://img.etimg.com/photo/126425224.cms",
-      "url": "/tech-news/2026-01-09/morning-brief-podcast-inside-snowflakes-ai-strateg/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Snowflake"
-      ],
-      "people": [
-        "Sridhar Ramaswamy"
-      ]
-    },
-    {
-      "title": "Meta investuje do jaderných energetických projektů pro posílení americké AI infrastruktury",
-      "description": "Meta podporuje vývoj jaderných projektů v USA, aby zajistila spolehlivou a bezuhlíkovou energii pro datová centra pohánějící AI systémy. Tento krok má pomoci splnit rostoucí energetické nároky na trénink a nasazení pokročilých AI modelů.",
-      "slug": "meta-invests-in-nuclear-energy-projects-to-strengt",
-      "publishedAt": "2026-01-09T00:00:00+00:00",
-      "date": "2026-01-09 00:00:00",
-      "importance": 4,
-      "category": "jaderná energie",
-      "urlToImage": "https://www.c-sharpcorner.com/images/csharp-corner-new.png",
-      "url": "/tech-news/2026-01-09/meta-invests-in-nuclear-energy-projects-to-strengt/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "C-sharpcorner.com"
-      },
-      "companies": [
-        "Meta"
-      ],
       "people": []
     }
   ]
