@@ -1,7 +1,68 @@
 {
-  "generated": "2026-01-17T08:42:47.445210+00:00",
+  "generated": "2026-01-17T12:50:43.051748+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Hlavní využití kvantových počítačů možná nepotřebuje kvantové počítače",
+      "description": "Porozumění molekule FeMoco, která hraje klíčovou roli v fixaci dusíku umožňující život na Zemi, bylo dlouho považováno za problém pro kvantové počítače. Nyní ho však možná vyřešil klasický počítač.",
+      "slug": "a-leading-use-for-quantum-computers-might-not-need",
+      "publishedAt": "2026-01-16T12:00:05+00:00",
+      "date": "2026-01-16 12:00:05",
+      "importance": 5,
+      "category": "kvantové počítače",
+      "urlToImage": "https://images.newscientist.com/wp-content/uploads/2026/01/15164231/SEI_280892275.jpg",
+      "url": "/tech-news/2026-01-16/a-leading-use-for-quantum-computers-might-not-need/",
+      "source": {
+        "emoji": "📰",
+        "id": "new-scientist",
+        "name": "New Scientist"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Šéf OpenAI Sam Altman získal 252 milionů dolarů pro firmu na rozhraní mozek-počítač – Merge Labs je stále v rané fázi výzkumu",
+      "description": "OpenAI investuje do BCI, protože je považuje za důležitou novou oblast, která umožní plynulou interakci s AI. Firma se zaměřuje na neinvazivní technologie urychlené AI.",
+      "slug": "openai-ceo-sam-altman-raises-252-million-for-brain",
+      "publishedAt": "2026-01-16T11:40:00+00:00",
+      "date": "2026-01-16 11:40:00",
+      "importance": 4,
+      "category": "neurotechnologie",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/6YCJFDu536nafYdLmMeVmM-1920-80.jpg",
+      "url": "/tech-news/2026-01-16/openai-ceo-sam-altman-raises-252-million-for-brain/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "companies": [
+        "OpenAI",
+        "Merge Labs"
+      ],
+      "people": [
+        "Sam Altman"
+      ]
+    },
+    {
+      "title": "Trump nařizuje nouzovou aukci energie pro datová centra AI velkých technologických firem",
+      "description": "Americký prezident Donald Trump nařizuje největšímu operátorovi elektrizační sítě PJM, aby provedl nouzovou aukci dodávek energie. Cílem je ochránit spotřebitele před růstem cen elektřiny způsobeným poptávkou po napájení pro nová datová centra AI od firem jako Google, Microsoft nebo Amazon.",
+      "slug": "trump-orders-emergency-power-auction-for-big-tech-",
+      "publishedAt": "2026-01-16T11:00:00+00:00",
+      "date": "2026-01-16 11:00:00",
+      "importance": 4,
+      "category": "datová centra",
+      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/news/718x300/2026-01-16_il5yg2kcqd.jpg",
+      "url": "/tech-news/2026-01-16/trump-orders-emergency-power-auction-for-big-tech/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "OilPrice.com"
+      },
+      "companies": [],
+      "people": [
+        "Donald Trump"
+      ]
+    },
     {
       "title": "xAI žalováno kvůli nekonzentrálním deepfake obrázkům Ashley St Clair, matky dítěte Elona Muska",
       "description": "Ashley St Clair, matka jednoho z dětí Elona Muska, v čtvrtek zažalovala jeho společnost umělé inteligence (AI) xAI s tím, že její chatbot Grok vygeneroval sexuálně explicitní obrázky ní bez jejího souhlasu. Clair zdůraznila, že xAI selhalo v prevenci…",
@@ -3789,28 +3850,6 @@
       ]
     },
     {
-      "title": "Nvidia opět mění ekonomiku AI továren",
-      "description": "Na konferenci CES 2026 generální ředitel Nvidia Jensen Huang představil novinky, které zásadně mění ekonomiku provozu velkých AI infrastruktur. Analýza ukazuje, že Nvidia si udržuje dominanci v hardwaru a softwaru pro AI, překonává předchozí éru Mooreova zákona s ročními zlepšeními výkonu pětinačními.",
-      "slug": "nvidia-resets-the-economics-of-ai-factories-again",
-      "publishedAt": "2026-01-10T21:58:15+00:00",
-      "date": "2026-01-10 21:58:15",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/jensences2026.png",
-      "url": "/tech-news/2026-01-10/nvidia-resets-the-economics-of-ai-factories-again/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": [
-        "Jensen Huang"
-      ]
-    },
-    {
       "title": "SAG-AFTRA sleduje dohodu Disney s OpenAI",
       "description": "Ne všichni se nadchli dohodou Disney s OpenAI, ale odbory SAG-AFTRA v ní vidí potenciál pro větší transparentnost a pokrok v oblasti AI.",
       "slug": "sag-aftra-is-keeping-an-eye-on-the-disneyopenai-de",
@@ -3829,26 +3868,6 @@
         "OpenAI"
       ],
       "people": []
-    },
-    {
-      "title": "Musk obviňuje Británii z snahy potlačit svobodu slova",
-      "description": "Elon Musk se mesiace hádá s britskými úřady a obviňuje je z cenzury a zatýkání kvůli příspěvkům na sociálních sítích. Nejnověji kritizuje hrozbu zákazu jeho AI chatbota Grok kvůli generování deepfake obrázků.",
-      "slug": "musk-accuses-uk-of-drive-to-suppress-free-speech",
-      "publishedAt": "2026-01-10T19:46:04+00:00",
-      "date": "2026-01-10 19:46:04",
-      "importance": 4,
-      "category": "svoboda slova",
-      "urlToImage": "https://mf.b37mrtl.ru/files/2026.01/article/6962ab5220302741d50cb90c.jpg",
-      "url": "/tech-news/2026-01-10/musk-accuses-uk-of-drive-to-suppress-free-speech/",
-      "source": {
-        "emoji": "📰",
-        "id": "rt",
-        "name": "RT"
-      },
-      "companies": [],
-      "people": [
-        "Elon Musk"
-      ]
     },
     {
       "title": "Tento týdenní technologické příběhy z webu (do 10. ledna)",
@@ -4022,26 +4041,6 @@
       },
       "companies": [],
       "people": []
-    },
-    {
-      "title": "Musk: Kritika deepfake obrázků z AI chatbota je 'výmluva pro cenzuru'",
-      "description": "Britská vláda hledá jakoukoli výmluvu pro cenzuru, prohlásil Elon Musk v souvislosti s rostoucí kritikou deepfake sexuálních obrázků vytvářených umělou inteligencí Grok na sociální síti X. Premiér Keir Starmer vyzval platformu k lepší kontrole nástroje a požádal regulátora Ofcom o zvážení všech možností.",
-      "slug": "musk-says-backlash-to-ai-chatbot-deepfake-images-i",
-      "publishedAt": "2026-01-10T09:49:00+00:00",
-      "date": "2026-01-10 09:49:00",
-      "importance": 4,
-      "category": "deepfakes",
-      "urlToImage": "https://e3.365dm.com/26/01/1600x900/skynews-elon-musk-x-artificial-intelligence_7131790.jpg?20260110083527",
-      "url": "/tech-news/2026-01-10/musk-says-backlash-to-ai-chatbot-deepfake-images-i/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Sky.com"
-      },
-      "companies": [],
-      "people": [
-        "Elon Musk"
-      ]
     }
   ]
 }
