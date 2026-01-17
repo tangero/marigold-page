@@ -1,7 +1,223 @@
 {
-  "generated": "2026-01-17T01:18:43.224455+00:00",
+  "generated": "2026-01-17T04:55:33.556938+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Asijské akcie smíšené po silných výsledcích TSMC",
+      "description": "Asijské trhy byly v pátek smíšené poté, co tchajwanský výrobce čipů TSMC oznámil výrazný nárůst zisku, což posílilo důvěru v sektor AI díky poptávce po čipech pro umělou inteligenci a nové obchodní dohodě USA s Tchaj-wanem.",
+      "slug": "asian-stocks-mixed-after-bumper-tsmc-results",
+      "publishedAt": "2026-01-16T03:57:32+00:00",
+      "date": "2026-01-16 03:57:32",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2026/01/eca39cd1d113b89a18f05589ad33bb81bb1eea8d.jpg",
+      "url": "/tech-news/2026-01-16/asian-stocks-mixed-after-bumper-tsmc-results/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digital Journal"
+      },
+      "companies": [
+        "TSMC"
+      ],
+      "people": []
+    },
+    {
+      "title": "TSMC rozšíří investice do USA v hodnotě 165 miliard dolarů – co o tom víme",
+      "description": "TSMC urychlí svou expanzi v Arizoně v hodnotě miliard dolarů po obchodní dohodě mezi USA a Tchaj-wanem a silných hospodářských výsledcích. Společnost zvyšuje investice kvůli rostoucí poptávce po čipech pro AI.",
+      "slug": "tsmc-is-set-to-expand-its-165-billion-us-investmen",
+      "publishedAt": "2026-01-16T03:25:18+00:00",
+      "date": "2026-01-16 03:25:18",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108166832-1751446059813-gettyimages-2202607774-TRUMP_TSMC.jpeg?v=1768528141&w=1920&h=1080",
+      "url": "/tech-news/2026-01-16/tsmc-is-set-to-expand-its-165-billion-us-investmen/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [
+        "TSMC"
+      ],
+      "people": []
+    },
+    {
+      "title": "Po kritice X omezuje Grok v generování sexualizovaných obrázků reálných lidí",
+      "description": "Společnost X Corp. reaguje na mezinárodní kritiku chatbotu Grok a zakáže mu generovat umělé obrázky reálných lidí v situacích bez oblečení, pokud je to v dané zemi nezákonné. Tato změna následuje po stížnostech z Kalifornie, Velké Británie a dalších zemí kvůli deepfakes bez souhlasu obětí.",
+      "slug": "after-backlash-x-restricts-grok-from-generating-se",
+      "publishedAt": "2026-01-16T03:19:40+00:00",
+      "date": "2026-01-16 03:19:40",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/alexander-shatov-d4_aCS3jsQ0-unsplash.jpg",
+      "url": "/tech-news/2026-01-16/after-backlash-x-restricts-grok-from-generating-se/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "X Corp"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Společnost Merge Sama Altmana získala 367 milionů dolarů na propojení mozků s počítači",
+      "description": "Merge Labs, společnost spoluzakládáná Samem Altmanem z OpenAI, která vyvíjí zařízení pro přímé propojení lidského mozku s počítači, získala investici 252 milionů amerických dolarů (367 milionů v přepočtu). Nejprve plánuje medicínské aplikace, později produkty pro širokou veřejnost.",
+      "slug": "sam-altmans-merge-raises-367m-to-link-brains-and-c",
+      "publishedAt": "2026-01-16T03:01:49+00:00",
+      "date": "2026-01-16 03:01:49",
+      "importance": 4,
+      "category": "neurotechnologie",
+      "urlToImage": "https://images.thenightly.com.au/publication/C-21324986/3486dffc5a96a796f21c60e2bdc9726e3dc6e799-16x9-x0y417w4000h2250.jpg?imwidth=1200",
+      "url": "/tech-news/2026-01-16/sam-altmans-merge-raises-367m-to-link-brains-and-c/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Thenightly.com.au"
+      },
+      "companies": [
+        "Merge Labs"
+      ],
+      "people": [
+        "Sam Altman"
+      ]
+    },
+    {
+      "title": "Tchaj-wan se stane blízkým strategickým partnerem USA v oblasti AI díky nové investiční dohodě",
+      "description": "Partnerství by mohlo posílit technologickou inovaci, upevnit ekonomické vazby a změnit geopolitickou dynamiku v asijsko-pacifickém regionu.",
+      "slug": "taiwan-to-become-close-ai-strategic-partner-with-u",
+      "publishedAt": "2026-01-16T03:00:45+00:00",
+      "date": "2026-01-16 03:00:45",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/01/15220013/3c808489-b194-4009-afd6-b1d1da4c11c5-800x420.jpg",
+      "url": "/tech-news/2026-01-16/taiwan-to-become-close-ai-strategic-partner-with-u/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Crypto Briefing"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "USA a Tchaj-wan uzavřely obchodní dohodu se sníženými cly",
+      "description": "Nová dohoda zavazuje tchajwanské firmy vyrábějící čipy k investicím a stavbě závodů v USA. Na oplátku Washington sníží clo na tchajwanské zboží z 20 % na 15 %.",
+      "slug": "us-taiwan-reach-trade-deal-with-lower-tariffs",
+      "publishedAt": "2026-01-16T02:56:00+00:00",
+      "date": "2026-01-16 02:56:00",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://static.dw.com/image/75529846_6.jpg",
+      "url": "/tech-news/2026-01-16/us-taiwan-reach-trade-deal-with-lower-tariffs/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "DW (English)"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Taiwan chce být strategickým partnerem USA v oblasti AI díky dohodě o clech",
+      "description": "Administrativa Donalda Trumpa tlačí Taiwan, hlavního výrobce polovodičů, na větší investice do USA, konkrétně do výroby čipů pohánějících vývoj umělé inteligence. Dohoda snižuje cla na taiwanské exporty a podporuje investice v hodnotě 250 miliard dolarů do polovodičů, energie a AI.",
+      "slug": "taiwan-aims-to-be-strategic-ai-partner-with-us-und",
+      "publishedAt": "2026-01-16T02:48:13+00:00",
+      "date": "2026-01-16 02:48:13",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-5946,resizemode-75,msid-126556071/tech/artificial-intelligence/taiwan-aims-to-be-strategic-ai-partner-with-us-under-tariff-deal.jpg",
+      "url": "/tech-news/2026-01-16/taiwan-aims-to-be-strategic-ai-partner-with-us-und/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Filipíny omezují Grok kvůli obavám z dětské pornografie",
+      "description": "Ministerstvo informací a komunikačních technologií Filipín (DICT) nařídilo okamžitý zákaz přístupu k AI nástroji Grok od Elona Muska po stížnostech na zneužití k tvorbě sexuálně konotovaných obrázků včetně deepfakes s dětmi. Přístup bude obnoven až po splnění filipínských zákonů.",
+      "slug": "philippines-restricts-grok-over-child-pornography-",
+      "publishedAt": "2026-01-16T02:40:14+00:00",
+      "date": "2026-01-16 02:40:14",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.yugatech.com/wp-content/uploads/2026/01/NEWS-ARTICLE-18.png",
+      "url": "/tech-news/2026-01-16/philippines-restricts-grok-over-child-pornography/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yugatech.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Wikipedia uzavřela dohody s AI firmami Amazon, Meta, Microsoft a Perplexity k 25. výročí: Co to znamená",
+      "description": "Wikimedia Foundation, mateřská organizace Wikipedie, oznámila k 25. výročí uzavření dohod o umělé inteligenci s firmami Amazon, Meta Platforms, Microsoft, Mistral AI a Perplexity. Tyto dohody přicházejí po podobných smluvách s Google v roce 2022 a Ecosia v roce 2025.",
+      "slug": "wikipedia-signs-ai-deal-with-amazon-meta-microsoft",
+      "publishedAt": "2026-01-16T02:38:18+00:00",
+      "date": "2026-01-16 02:38:18",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2026/01/16/1600x900/logo/Wikipedia-25th-Anniversary-1_1768530098631_1768530123698.jpg",
+      "url": "/tech-news/2026-01-16/wikipedia-signs-ai-deal-with-amazon-meta-microsoft/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Livemint"
+      },
+      "companies": [
+        "Amazon",
+        "Meta",
+        "Microsoft",
+        "Perplexity",
+        "Mistral AI"
+      ],
+      "people": []
+    },
+    {
+      "title": "USA a Tchaj-wan uzavřely dohodu o snížení cel a rozšíření investic do čipů",
+      "description": "USA a Tchaj-wan uzavřely novou obchodní dohodu, která snižuje cla a podporuje investice do amerického sektoru polovodičů. Cílem je zajistit stabilní dodávky čipů a posílit výrobní kapacity v USA.",
+      "slug": "us-taiwan-seal-deal-to-cut-tariffs-expand-chip-inv",
+      "publishedAt": "2026-01-16T02:17:20+00:00",
+      "date": "2026-01-16 02:17:20",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2026/01/16072158/AFP__20260116__92W44VK__v1__Mockup__TaiwanUsDiplomacyTradeTariff1-1200x630.jpg",
+      "url": "/tech-news/2026-01-16/us-taiwan-seal-deal-to-cut-tariffs-expand-chip-inv/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Punch"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "USA a Tchaj-wan uzavřely obchodní dohodu se zaměřením na polovodičové čipy a Čínu",
+      "description": "USA a Tchaj-wan uzavřely obchodní dohodu, která snižuje cla na tchajwanské exporty polovodičů a podporuje investice do americké výroby. Tchajwanské firmy slibují 250 miliard dolarů na rozšíření produkce čipů, energie a umělé inteligence v USA.",
+      "slug": "us-and-taiwan-reach-trade-deal-with-semiconductor-",
+      "publishedAt": "2026-01-16T01:23:28+00:00",
+      "date": "2026-01-16 01:23:28",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126555338,width-1200,height-630,imgsize-62542,overlay-economictimes/articleshow.jpg",
+      "url": "/tech-news/2026-01-16/us-and-taiwan-reach-trade-deal-with-semiconductor/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Grok blokován před úpravou obrázků reálných lidí do odhalujícího oblečení pomocí AI v místech, kde je to nelegální, uvedla X",
       "description": "AI chatbot Grok od Elona Muska nebude moci upravovat fotografie tak, aby zobrazovaly reálné osoby v odhalujícím oblečení v oblastech, kde to zákon zakazuje, podle prohlášení na platformě X. Opatření přichází po globálním odporu vůči sexualizovaným obrázkům žen a dětí.",
@@ -3471,26 +3687,6 @@
       ]
     },
     {
-      "title": "Akcie čínské aplikace Kuaishou pro krátká videa vzrostly o 88 % za uplynulý rok díky úspěchu Kling AI video generatoru, který získal 60 milionů uživatelů (Bloomberg)",
-      "description": "Akcie společnosti Kuaishou, provozovatele populární čínské aplikace pro krátká videa, posílily o 88 % za poslední rok. Úspěch přinesl jejich AI nástroj Kling pro generování videí z textu nebo obrázků, který si užilo 60 milionů uživatelů.",
-      "slug": "chinese-short-video-app-kuaishous-stock-has-surged",
-      "publishedAt": "2026-01-10T23:25:01+00:00",
-      "date": "2026-01-10 23:25:01",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iv8mCKlDEMlo/v0/1200x800.jpg",
-      "url": "/tech-news/2026-01-10/chinese-short-video-app-kuaishous-stock-has-surged/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Mediagazer.com"
-      },
-      "companies": [
-        "Kuaishou"
-      ],
-      "people": []
-    },
-    {
       "title": "Nvidia opět mění ekonomiku AI továren",
       "description": "Na konferenci CES 2026 generální ředitel Nvidia Jensen Huang představil novinky, které zásadně mění ekonomiku provozu velkých AI infrastruktur. Analýza ukazuje, že Nvidia si udržuje dominanci v hardwaru a softwaru pro AI, překonává předchozí éru Mooreova zákona s ročními zlepšeními výkonu pětinačními.",
       "slug": "nvidia-resets-the-economics-of-ai-factories-again",
@@ -3531,26 +3727,6 @@
       "people": [
         "Elon Musk"
       ]
-    },
-    {
-      "title": "Grok se vyšvihl na první místo mezi nejstahovanějšími aplikacemi v britském App Store přes všechny kategorie navzdory kritice vlády",
-      "description": "Mobilní aplikace Grok od společnosti xAI se stala nejstahovanější v celém britském App Store a vede kategorie jako celkové aplikace či produktivita. Tento úspěch přichází uprostřed sporů s britskými úřady kvůli generování AI obrázků a deepfakes.",
-      "slug": "breaking-despite-intense-attacks-from-the-uk-gover",
-      "publishedAt": "2026-01-10T21:21:11+00:00",
-      "date": "2026-01-10 21:21:11",
-      "importance": 4,
-      "category": "mobilní aplikace",
-      "urlToImage": null,
-      "url": "/tech-news/2026-01-10/breaking-despite-intense-attacks-from-the-uk-gover/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Freerepublic.com"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
     },
     {
       "title": "SAG-AFTRA sleduje dohodu Disney s OpenAI",
@@ -3630,28 +3806,6 @@
       "companies": [],
       "people": [
         "Elon Musk"
-      ]
-    },
-    {
-      "title": "OpenAI představuje ChatGPT Health: Funkce pro propojení osobních zdravotních dat s AI chatbotem",
-      "description": "OpenAI Sama Altmana spustila ChatGPT Health, novou funkci umožňující uživatelům bezpečně propojit své zdravotní záznamy a aplikace pro sledování zdraví s AI chatbotem. Funkce slouží k personalizovaným odpovědům na běžné zdravotní otázky, není však náhradou za lékařskou péči.",
-      "slug": "dr-ai-wants-your-data-openai-releases-chatgpt-heal",
-      "publishedAt": "2026-01-10T19:12:33+00:00",
-      "date": "2026-01-10 19:12:33",
-      "importance": 4,
-      "category": "zdravotní ai",
-      "urlToImage": "https://media.breitbart.com/media/2026/01/Sam-Altman-the-boss-of-OpenAIs-ChatGPT-640x335.jpg",
-      "url": "/tech-news/2026-01-10/dr-ai-wants-your-data-openai-releases-chatgpt-heal/",
-      "source": {
-        "emoji": "📰",
-        "id": "breitbart-news",
-        "name": "Breitbart News"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": [
-        "Sam Altman"
       ]
     },
     {
@@ -3772,44 +3926,6 @@
       "people": []
     },
     {
-      "title": "Čína se přibližuje technologickému vedení USA navzdory omezením, říkají výzkumníci AI",
-      "description": "Výzkumníci v oblasti umělé inteligence upozorňují, že Čína výrazně zkracuje náskok USA v klíčových technologiích, jako je AI, přestože čelí přísným exportním kontrolám na pokročilé čipy a hardware.",
-      "slug": "china-is-closing-in-on-us-technology-lead-despite-",
-      "publishedAt": "2026-01-10T15:43:28+00:00",
-      "date": "2026-01-10 15:43:28",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": null,
-      "url": "/tech-news/2026-01-10/china-is-closing-in-on-us-technology-lead-despite/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "AI přechází z konverzací k práci: DeepSeek V4, GLM5 a aktualizace Gemini v Gmailu",
-      "description": "Nejnovější pokroky v umělé inteligenci jako DeepSeek V4, GLM5 od Z.AI a integrace Gemini do Gmailu mění způsob, jak pracujeme s kódem a e-maily. Tyto systémy zvyšují produktivitu programátorů i běžných uživatelů prostřednictvím pokročilých nástrojů pro kódování a automatizaci.",
-      "slug": "ai-shifts-from-chat-to-work-deepseek-4-glm5-gmails",
-      "publishedAt": "2026-01-10T15:00:29+00:00",
-      "date": "2026-01-10 15:00:29",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/01/deepseek-version-4-coding-model_optimized.jpg",
-      "url": "/tech-news/2026-01-10/ai-shifts-from-chat-to-work-deepseek-4-glm5-gmails/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
       "title": "Elon Musk obviňuje Británii z touhy potlačit svobodu slova kvůli pobouření nad obrázky vytvořenými AI",
       "description": "Britští ministři hrozí pokutami a možným zákazem platformy X poté, co byl nástroj Grok použit k generování sexuálních obrázků žen a dětí bez jejich souhlasu. Elon Musk to označil za snahu o potlačení svobody slova.",
       "slug": "elon-musk-says-uk-wants-to-suppress-free-speech-am",
@@ -3828,28 +3944,6 @@
       "people": [
         "Elon Musk"
       ]
-    },
-    {
-      "title": "Paměti pro AI se vyprodaly, ceny prudce stoupají",
-      "description": "Tři hlavní dodavatelé pamětí – Micron, SK Hynix a Samsung Electronics – ovládají téměř celý trh s RAM a profitují z aktuálního nedostatku. Poptávka po pamětech roste kvůli AI čipům od Nvidia, AMD a Google.",
-      "slug": "ai-memory-is-sold-out-causing-an-unprecedented-sur",
-      "publishedAt": "2026-01-10T12:00:01+00:00",
-      "date": "2026-01-10 12:00:01",
-      "importance": 4,
-      "category": "paměti",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108183409-1754634274002-gettyimages-885294104-spk_00007_01015.jpeg?v=1762812885&w=1920&h=1080",
-      "url": "/tech-news/2026-01-10/ai-memory-is-sold-out-causing-an-unprecedented-sur/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNBC"
-      },
-      "companies": [
-        "Micron",
-        "SK Hynix",
-        "Samsung Electronics"
-      ],
-      "people": []
     },
     {
       "title": "Bezpečnostní novinky tento týden: ICE nyní může špehovat každý telefon ve vaší čtvrti",
@@ -3946,108 +4040,6 @@
       "people": [
         "Elon Musk"
       ]
-    },
-    {
-      "title": "Plány expanze Boring Company v Las Vegas a přidání Robovanu v letech 2028-2029",
-      "description": "Společnost The Boring Company Elona Muska otevře brzy nové tunely spojující stanice a plánuje přidat autonomní vozidlo Robovan v období 2027-2028. Zaměřuje se na stavbu tunelů malého průměru pro vozidla Tesla s rychlostmi až 240 km/h.",
-      "slug": "boring-company-vegas-expansion-plans-and-adding-ro",
-      "publishedAt": "2026-01-10T01:11:59+00:00",
-      "date": "2026-01-10 01:11:59",
-      "importance": 4,
-      "category": "podzemní doprava",
-      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/01/Screenshot-2026-01-09-at-5.06.41-PM.jpg",
-      "url": "/tech-news/2026-01-10/boring-company-vegas-expansion-plans-and-adding-ro/",
-      "source": {
-        "emoji": "📰",
-        "id": "next-big-future",
-        "name": "Next Big Future"
-      },
-      "companies": [
-        "Boring Company",
-        "Tesla"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Senátoři vyzvali Apple a Google k odstranění X a Grok z app storeů kvůli sexuálním deepfakům",
-      "description": "Tři demokratickí senátoři vyzvali Apple a Google, aby odstranily aplikace X a Grok z jejich obchodů s aplikacemi kvůli generování nekonzistentních sexuálních obrázků skutečných lidí pomocí AI Grok. X omezilo funkci, ale problém přetrvává v samostatné aplikaci Grok.",
-      "slug": "senators-urged-apple-and-google-to-remove-x-and-gr",
-      "publishedAt": "2026-01-09T16:00:03+00:00",
-      "date": "2026-01-09 16:00:03",
-      "importance": 4,
-      "category": "deepfakes",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260108-grok-ai-app-vl-121p-db4a0a.jpg",
-      "url": "/tech-news/2026-01-09/senators-urged-apple-and-google-to-remove-x-and-gr/",
-      "source": {
-        "emoji": "📰",
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "companies": [
-        "Apple",
-        "Google"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Kvantová neuronová síť by mohla obejít Heisenbergův princip neurčitosti",
-      "description": "Výpočty ukazují, že vnášení náhodnosti do kvantové neuronové sítě by mohlo umožnit určení vlastností kvantových objektů, které jsou jinak zásadně těžko dostupné. Tento přístup by usnadnil měření vlastností qubitů v kvantových počítačích.",
-      "slug": "quantum-neural-network-may-be-able-to-cheat-the-un",
-      "publishedAt": "2026-01-09T16:00:02+00:00",
-      "date": "2026-01-09 16:00:02",
-      "importance": 4,
-      "category": "kvantová ai",
-      "urlToImage": "https://images.newscientist.com/wp-content/uploads/2026/01/08115807/SEI_278889465.jpg",
-      "url": "/tech-news/2026-01-09/quantum-neural-network-may-be-able-to-cheat-the-un/",
-      "source": {
-        "emoji": "📰",
-        "id": "new-scientist",
-        "name": "New Scientist"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Další kapitola umělé inteligence: nové architektury, časová osa AGI a odklon od nadšení z velkých jazykových modelů",
-      "description": "Co kdyby budoucnost umělé inteligence nebyla jen o budování chytřejších systémů, ale o přehodnocení samotné podstaty inteligence? V tomto průvodci Pourya Kordi ukazuje, jak nejnovější pokroky v AI výzkumu zpochybňují dlouhodobé předpoklady a otevírají cestu k nové éře inovací.",
-      "slug": "the-next-chapter-in-ai-fresh-architectures-an-agi-",
-      "publishedAt": "2026-01-09T11:12:41+00:00",
-      "date": "2026-01-09 11:12:41",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/01/meta-jepa-architecture-overview_optimized.jpg",
-      "url": "/tech-news/2026-01-09/the-next-chapter-in-ai-fresh-architectures-an-agi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [],
-      "people": [
-        "Pourya Kordi"
-      ]
-    },
-    {
-      "title": "Ženy a děti jsou na sociálních sítích digitálně svlékány",
-      "description": "Uživatelé platformy X zadávají AI chatbotu Grok příkazy k vytváření sexualizovaných obrázků žen a dětí. Nová funkce umožňuje editaci fotografií, což vede k šíření nekonzistentních deepfakeů krátce před účinností nového amerického zákona.",
-      "slug": "women-and-children-are-being-digitally-undressed-o",
-      "publishedAt": "2026-01-09T11:00:48+00:00",
-      "date": "2026-01-09 11:00:48",
-      "importance": 4,
-      "category": "deepfakes",
-      "urlToImage": "https://www.salon.com/app/uploads/2025/11/GettyImages-1768220555.jpg",
-      "url": "/tech-news/2026-01-09/women-and-children-are-being-digitally-undressed-o/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Salon"
-      },
-      "companies": [],
-      "people": []
     }
   ]
 }
