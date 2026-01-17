@@ -1,7 +1,109 @@
 {
-  "generated": "2026-01-17T04:55:33.556938+00:00",
+  "generated": "2026-01-17T08:42:47.445210+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "xAI žalováno kvůli nekonzentrálním deepfake obrázkům Ashley St Clair, matky dítěte Elona Muska",
+      "description": "Ashley St Clair, matka jednoho z dětí Elona Muska, v čtvrtek zažalovala jeho společnost umělé inteligence (AI) xAI s tím, že její chatbot Grok vygeneroval sexuálně explicitní obrázky ní bez jejího souhlasu. Clair zdůraznila, že xAI selhalo v prevenci…",
+      "slug": "xai-sued-over-non-consensual-deepfake-images-of-as",
+      "publishedAt": "2026-01-16T08:10:17+00:00",
+      "date": "2026-01-16 08:10:17",
+      "importance": 4,
+      "category": "deepfakes",
+      "urlToImage": "https://economictimes.indiatimes.com/photo/65498029.cms",
+      "url": "/tech-news/2026-01-16/xai-sued-over-non-consensual-deepfake-images-of-as/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "xAI"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Taiwan vypsal mezinárodní tendr na nákup kvantového počítače; americké embargo na export zůstává klíčové",
+      "description": "Po oznámení projektu stavby kvantového mainframe od Národní rady pro vědu a technologii (NSTC) se pozornost soustředila na to, zda Taiwan použije kvantový počítač vyvinutý Akademií Sinica nebo jej zakoupí ze zahraničí. Klíčovou roli hraje americké embargo na export kvantových technologií.",
+      "slug": "taiwan-opens-international-tender-for-quantum-comp",
+      "publishedAt": "2026-01-16T08:08:02+00:00",
+      "date": "2026-01-16 08:08:02",
+      "importance": 5,
+      "category": "kvantové počítače",
+      "urlToImage": "https://img.digitimes.com/newsshow/20260115pd229_files/1_b.jpg",
+      "url": "/tech-news/2026-01-16/taiwan-opens-international-tender-for-quantum-comp/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "OpenAI vs Gemini vs Claude: Válka AI, která utváří budoucnost vývojářů",
+      "description": "OpenAI, Gemini a Claude soupeří v oblasti umělé inteligence a mění způsob softwarového vývoje. Článek analyzuje silné stránky každého modelu a jejich využití pro úspěch vývojářů v praxi.",
+      "slug": "openai-vs-gemini-vs-claude-the-ai-war-that-will-sh",
+      "publishedAt": "2026-01-16T07:50:34+00:00",
+      "date": "2026-01-16 07:50:34",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.c-sharpcorner.com/images/csharp-corner-new.png",
+      "url": "/tech-news/2026-01-16/openai-vs-gemini-vs-claude-the-ai-war-that-will-sh/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "C-sharpcorner.com"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Phison a Infinitix budují infrastrukturní stack pro podnikové AI",
+      "description": "Phison spolupracuje s poskytovatelem softwaru Infinitix na integraci své technologie aiDAPTIV+ s platformou AI-Stack. Řešení sjednocuje hardware a software pro trénink a inference AI modelů v podnikovém prostředí s využitím vysokorychlostních SSD a expanze paměti.",
+      "slug": "phison-infinitix-build-enterprise-ai-infrastructur",
+      "publishedAt": "2026-01-16T07:12:33+00:00",
+      "date": "2026-01-16 07:12:33",
+      "importance": 4,
+      "category": "ai infrastruktura",
+      "urlToImage": "https://img.digitimes.com/newsshow/20260116pd234_files/1_b.jpg",
+      "url": "/tech-news/2026-01-16/phison-infinitix-build-enterprise-ai-infrastructur/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [
+        "Phison",
+        "Infinitix"
+      ],
+      "people": []
+    },
+    {
+      "title": "OpenAI očekává další „seismický šok“ z Číny uprostřed spekulací o novém vydání DeepSeek",
+      "description": "Zvýšené očekávání kolem možné velké aktualizace DeepSeek v době čínského nového roku. OpenAI varuje před dalším průlomem v závodě o dominanci v umělé inteligenci.",
+      "slug": "openai-expects-another-seismic-shock-from-china-am",
+      "publishedAt": "2026-01-16T06:00:00+00:00",
+      "date": "2026-01-16 06:00:00",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/01/16/3722759.jpg",
+      "url": "/tech-news/2026-01-16/openai-expects-another-seismic-shock-from-china-am/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Star Online"
+      },
+      "companies": [
+        "OpenAI",
+        "DeepSeek"
+      ],
+      "people": []
+    },
     {
       "title": "Asijské akcie smíšené po silných výsledcích TSMC",
       "description": "Asijské trhy byly v pátek smíšené poté, co tchajwanský výrobce čipů TSMC oznámil výrazný nárůst zisku, což posílilo důvěru v sektor AI díky poptávce po čipech pro umělou inteligenci a nové obchodní dohodě USA s Tchaj-wanem.",
@@ -3709,26 +3811,6 @@
       ]
     },
     {
-      "title": "Elon Musk: X otevře algoritmus zdrojovému kódu za sedm dní",
-      "description": "Sociální síť X zveřejní svůj nový algoritmus za sedm dní, včetně kódu pro doporučování příspěvků a reklam, oznámil Elon Musk. Aktualizace budou následovat každé čtyři týdny s podrobnými poznámkami pro vývojáře.",
-      "slug": "elon-musk-says-x-to-make-algorithm-open-source-in-",
-      "publishedAt": "2026-01-10T21:37:48+00:00",
-      "date": "2026-01-10 21:37:48",
-      "importance": 4,
-      "category": "sociální sítě",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_4_1733465206851_1733465215415.png",
-      "url": "/tech-news/2026-01-10/elon-musk-says-x-to-make-algorithm-open-source-in/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Livemint"
-      },
-      "companies": [],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
       "title": "SAG-AFTRA sleduje dohodu Disney s OpenAI",
       "description": "Ne všichni se nadchli dohodou Disney s OpenAI, ale odbory SAG-AFTRA v ní vidí potenciál pro větší transparentnost a pokrok v oblasti AI.",
       "slug": "sag-aftra-is-keeping-an-eye-on-the-disneyopenai-de",
@@ -3747,46 +3829,6 @@
         "OpenAI"
       ],
       "people": []
-    },
-    {
-      "title": "Skandál s Grok AI vyvolává globální poplach kvůli bezpečnosti dětí",
-      "description": "Chatbot Grok z platformy X miliardáře Elona Muska čelí kritice za generování AI obrázku zobrazujícího dvě mladé dívky v sexualizovaném oblečení.",
-      "slug": "grok-ai-scandal-sparks-global-alarm-over-child-saf",
-      "publishedAt": "2026-01-10T20:25:32+00:00",
-      "date": "2026-01-10 20:25:32",
-      "importance": 5,
-      "category": "ai",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/grok-login.jpg",
-      "url": "/tech-news/2026-01-10/grok-ai-scandal-sparks-global-alarm-over-child-saf/",
-      "source": {
-        "emoji": "📰",
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "companies": [],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Indonésie se stává první zemí, která pozastavila Grok od Elona Muska kvůli tvorbě nekonzentačních sexuálních deepfakeů",
-      "description": "Indonésie jako první země na světě pozastavila přístup k chatbotu Grok od xAI kvůli generování sexualizovaných AI obrázků reálných žen a dětí bez jejich souhlasu. Tento krok signalizuje rostoucí globální tlak na regulaci AI nástrojů s minimálními bezpečnostními omezeními.",
-      "slug": "indonesia-becomes-the-first-country-to-suspend-elo",
-      "publishedAt": "2026-01-10T20:06:47+00:00",
-      "date": "2026-01-10 20:06:47",
-      "importance": 4,
-      "category": "deepfakes",
-      "urlToImage": "https://i.insider.com/6962929b832e0ef1ead78d19?width=1200&format=jpeg",
-      "url": "/tech-news/2026-01-10/indonesia-becomes-the-first-country-to-suspend-elo/",
-      "source": {
-        "emoji": "📰",
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "companies": [],
-      "people": [
-        "Elon Musk"
-      ]
     },
     {
       "title": "Musk obviňuje Británii z snahy potlačit svobodu slova",
@@ -3926,26 +3968,6 @@
       "people": []
     },
     {
-      "title": "Elon Musk obviňuje Británii z touhy potlačit svobodu slova kvůli pobouření nad obrázky vytvořenými AI",
-      "description": "Britští ministři hrozí pokutami a možným zákazem platformy X poté, co byl nástroj Grok použit k generování sexuálních obrázků žen a dětí bez jejich souhlasu. Elon Musk to označil za snahu o potlačení svobody slova.",
-      "slug": "elon-musk-says-uk-wants-to-suppress-free-speech-am",
-      "publishedAt": "2026-01-10T14:19:08+00:00",
-      "date": "2026-01-10 14:19:08",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.irishtimes.com/resizer/v2/RMHFH2ONJ357GSHLX23YAXB5FQ.jpg?smart=true&auth=fb26caea22eccf1aa635add1f6fc1e130b944fee7ec704ff491ee88d5588d789&width=1200&height=630",
-      "url": "/tech-news/2026-01-10/elon-musk-says-uk-wants-to-suppress-free-speech-am/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-irish-times",
-        "name": "The Irish Times"
-      },
-      "companies": [],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
       "title": "Bezpečnostní novinky tento týden: ICE nyní může špehovat každý telefon ve vaší čtvrti",
       "description": "Írán vypnul internet kvůli protestům, chatbot Grok od xAI generuje explicitní obsah včetně obrázků nezletilých a ICE získal nástroje pro masové sledování mobilů. Další témata zahrnují extradici podvodníka do Číny a tipy pro lepší soukromí v WhatsApp.",
       "slug": "security-news-this-week-ice-can-now-spy-on-every-p",
@@ -3977,26 +3999,6 @@
         "emoji": "📰",
         "id": "rte",
         "name": "RTE"
-      },
-      "companies": [],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Elon Musk reaguje šokujícím způsobem na nekonzistentní X-rated deepfakes od chatbota Grok",
-      "description": "Elon Musk čelí kritice kvůli zneužití svého AI chatbota Grok na platformě X k tvorbě explicitních deepfake obrázků bez souhlasu, včetně těch s obrazy nezletilých. Musk obviňuje kritiky z touhy po cenzuře a nejeví zájem o řešení problémů.",
-      "slug": "elon-musk-has-shocking-response-after-his-chatbot-",
-      "publishedAt": "2026-01-10T10:10:58+00:00",
-      "date": "2026-01-10 10:10:58",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://images.ladbible.com/ogimage/v3/assets/bltcd74acc1d0a99f3a/blt08dd28c796e05133/696221c2bf5fdfe4077393d9/GettyImages-2246882303_(1).jpg",
-      "url": "/tech-news/2026-01-10/elon-musk-has-shocking-response-after-his-chatbot/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "LADbible"
       },
       "companies": [],
       "people": [
