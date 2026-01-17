@@ -1,7 +1,134 @@
 {
-  "generated": "2026-01-17T16:45:11.271632+00:00",
+  "generated": "2026-01-17T20:42:14.666680+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Od kanceláří OpenAI k dohodě s Eli Lilly – jak se Chai Discovery stala jedním z nejvýraznějších jmen v AI vývoji léků",
+      "description": "Od kanceláří OpenAI k dohodě s Eli Lilly – jak se Chai Discovery stala jedním z nejvýraznějších jmen v AI vývoji léků (techcrunch.com)",
+      "slug": "from-openais-offices-to-a-deal-with-eli-lilly-how-",
+      "publishedAt": "2026-01-16T20:14:47+00:00",
+      "date": "2026-01-16 20:14:47",
+      "importance": 4,
+      "category": "farmaceutická ai",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/01/251201-ChaiDiscovery-group-5263.jpg?resize=1200,800",
+      "url": "/tech-news/2026-01-16/from-openais-offices-to-a-deal-with-eli-lilly-how/",
+      "source": {
+        "emoji": "🚀",
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "companies": [
+        "OpenAI",
+        "Chai Discovery"
+      ],
+      "people": []
+    },
+    {
+      "title": "OpenAI investovalo miliardy do nedávných dohod na čipy. Někteří velcí hráči zůstali stranou",
+      "description": "OpenAI uzavřelo dohody v hodnotě miliard dolarů s výrobci AI čipů včetně Nvidia, AMD, Broadcom a Cerebras.",
+      "slug": "openai-has-committed-billions-to-recent-chip-deals",
+      "publishedAt": "2026-01-16T20:00:01+00:00",
+      "date": "2026-01-16 20:00:01",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108236135-1764788503612-gettyimages-2197366908-dsc00472_mof5bjgn.jpeg?v=1768592223&w=1920&h=1080",
+      "url": "/tech-news/2026-01-16/openai-has-committed-billions-to-recent-chip-deals/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [
+        "OpenAI",
+        "Nvidia",
+        "AMD",
+        "Broadcom",
+        "Cerebras"
+      ],
+      "people": []
+    },
+    {
+      "title": "OpenAI testuje reklamy v ChatGPT kvůli tlaku na zvýšení příjmů",
+      "description": "Společnost OpenAI začne zobrazovat reklamy některým americkým uživatelům ChatGPT, což představuje zásadní odklon od dosavadního modelu založeného na předplatném.",
+      "slug": "openai-to-test-ads-in-chatgpt-as-startup-faces-pre",
+      "publishedAt": "2026-01-16T19:42:09+00:00",
+      "date": "2026-01-16 19:42:09",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/01/logo-openai-displayed-near-response-11307183.jpg?quality=75&strip=all&w=1200",
+      "url": "/tech-news/2026-01-16/openai-to-test-ads-in-chatgpt-as-startup-faces-pre/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "New York Post"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Bluetooth zařízení s technologií Google Fast Pair jsou zranitelná vůči novému útoku",
+      "description": "Výzkumníci z belgické univerzity KU Leuven odhalili zranitelnosti v technologii Google Fast Pair, která slouží k rychlému párování Bluetooth zařízení na systémech Android a ChromeOS. Nový útok nazvaný WhisperPair umožňuje hackerům převzít kontrolu nad sluchátky, reproduktory a mikrofony zařízení od výrobců jako Sony, Anker nebo Nothing, včetně sledování polohy uživatele.",
+      "slug": "bluetooth-devices-with-google-fast-pair-are-vulner",
+      "publishedAt": "2026-01-16T19:39:31+00:00",
+      "date": "2026-01-16 19:39:31",
+      "importance": 5,
+      "category": "kybernetika",
+      "urlToImage": "https://production-static.mobilesyrup.com/uploads/2024/10/Google-pixel-buds-header-4-scaled.jpg",
+      "url": "/tech-news/2026-01-16/bluetooth-devices-with-google-fast-pair-are-vulner/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "MobileSyrup"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Cla na dovoz z Tchaj-wanu klesnou po obchodní dohodě, což by mělo snížit ceny technologií",
+      "description": "USA a Tchaj-wan uzavřely obchodní dohodu, která snižuje cla na dovoz z technologicky zaměřené oblasti výměnou za investice v USA.",
+      "slug": "taiwan-tariffs-fall-after-trade-deal-hopefully-eas",
+      "publishedAt": "2026-01-16T19:33:19+00:00",
+      "date": "2026-01-16 19:33:19",
+      "importance": 4,
+      "category": "hardware",
+      "urlToImage": "https://www.pcworld.com/wp-content/uploads/2026/01/pexels-pixabay-259027.jpg?quality=50&strip=all&w=1024",
+      "url": "/tech-news/2026-01-16/taiwan-tariffs-fall-after-trade-deal-hopefully-eas/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "PCWorld"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Nejnovější startup Sama Altmana konkuruje Neuralinku Elona Muska",
+      "description": "Šéf OpenAI přidává do svého portfolia startup Merge Labs na mozko-počítačová rozhraní s financováním 252 milionů dolarů. Firma plánuje vyvinout vysoce výkonná rozhraní integrovatelná s umělou inteligencí.",
+      "slug": "sam-altmans-latest-startup-takes-on-elon-musks-neu",
+      "publishedAt": "2026-01-16T19:30:34+00:00",
+      "date": "2026-01-16 19:30:34",
+      "importance": 4,
+      "category": "mozko-počítačové roz",
+      "urlToImage": "https://observer.com/wp-content/uploads/sites/2/2025/11/GettyImages-2226495963-e1762793830529.jpg?quality=80",
+      "url": "/tech-news/2026-01-16/sam-altmans-latest-startup-takes-on-elon-musks-neu/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Observer"
+      },
+      "companies": [
+        "OpenAI",
+        "Neuralink"
+      ],
+      "people": [
+        "Sam Altman",
+        "Elon Musk"
+      ]
+    },
     {
       "title": "ASML dosáhla rekordní hodnoty díky AI boomu – analytici vidí prostor pro další růst",
       "description": "Holandský výrobce polovodičového vybavení ASML se ve čtvrtek stal třetí evropskou společností s valuací přes 500 miliard dolarů.",
@@ -3701,26 +3828,6 @@
       "people": []
     },
     {
-      "title": "Po Indonésii zablokována Muskova Grok AI v Malajsii kvůli obscénním obrázkům",
-      "description": "Indonésie a Malajsie omezily přístup k Grok AI od Elona Muska minulý víkend a staly se prvními zeměmi, které zakázaly tento systém umělé inteligence kvůli generování obscénního obsahu. Důvodem je riziko deepfake pornografie, která ohrožuje soukromí a bezpečnost.",
-      "slug": "after-indonesia-musks-grok-ai-blocked-in-malaysia-",
-      "publishedAt": "2026-01-11T17:34:41+00:00",
-      "date": "2026-01-11 17:34:41",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2026/01/11/1600x900/logo/grok_1767960562516_1767960562750_1768152844561.jpg",
-      "url": "/tech-news/2026-01-11/after-indonesia-musks-grok-ai-blocked-in-malaysia/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Livemint"
-      },
-      "companies": [],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
       "title": "SpaceX dostalo schválení na vypuštění dalších 7 500 satelitů Starlink nové generace do oběžné dráhy",
       "description": "Starlink bude mít za pět let 15 000 satelitů Gen2 na oběžné dráze po regulačním rozhodnutí. Rozhodnutí FCC umožní vyšší kapacitu a nižší latenci internetového připojení.",
       "slug": "spacex-just-got-approval-to-launch-another-7500-ne",
@@ -3821,24 +3928,6 @@
       "people": [
         "Tony Wu"
       ]
-    },
-    {
-      "title": "Insideri z AI průmyslu spustili web k otravování dat, která živí modely umělé inteligence",
-      "description": "Projekt Poison Fountain vyzývá provozovatele webů k přidání odkazů na otrávená tréninková data pro AI crawleře. Cílem je oslabit současný vývoj umělé inteligence a upozornit na její slabiny.",
-      "slug": "ai-industry-insiders-launch-site-to-poison-the-dat",
-      "publishedAt": "2026-01-11T14:30:12+00:00",
-      "date": "2026-01-11 14:30:12",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://regmedia.co.uk/2016/06/10/poison_pill.jpg",
-      "url": "/tech-news/2026-01-11/ai-industry-insiders-launch-site-to-poison-the-dat/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "companies": [],
-      "people": []
     },
     {
       "title": "NVIDIA na CES 2026 představila nové otevřené AI modely a platformu Vera Rubin s pětinásobným výkonem",
@@ -3968,80 +4057,6 @@
       "people": [
         "Elon Musk"
       ]
-    },
-    {
-      "title": "Tento týdenní technologické příběhy z webu (do 10. ledna)",
-      "description": "Týdně prohledáváme web pro důležité, poučné a zajímavé příběhy z vědy a technologie. Příspěvek tento týden zahrnuje pokroky v robotice, umělé inteligenci, biotechnologiích a kvantovém výpočtu.",
-      "slug": "this-weeks-awesome-tech-stories-from-around-the-we",
-      "publishedAt": "2026-01-10T19:10:13+00:00",
-      "date": "2026-01-10 19:10:13",
-      "importance": 5,
-      "category": "technologické novink",
-      "urlToImage": "https://singularityhub.com/uploads/2026/01/abstract-pattern-of-colors-on-black.jpeg?auto=webp",
-      "url": "/tech-news/2026-01-10/this-weeks-awesome-tech-stories-from-around-the-we/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Singularity Hub"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "První pevnolátková baterie na světě: Hype nebo naděje? Donut Lab pod lupou",
-      "description": "Donut Lab tvrdí, že vyvinula první pevnolátkovou baterii s hustotou energie 400 Wh/kg, nabíjením za 5 minut a životností 100 000 cyklů. Článek zkoumá, zda jde o skutečný průlom v ukládání energie pro elektromobily a obnovitelné zdroje, nebo jen o nepodložené sliby.",
-      "slug": "worlds-first-solid-state-battery-solid-cell-hype-o",
-      "publishedAt": "2026-01-10T18:21:07+00:00",
-      "date": "2026-01-10 18:21:07",
-      "importance": 5,
-      "category": "pevnolátkové baterie",
-      "urlToImage": null,
-      "url": "/tech-news/2026-01-10/worlds-first-solid-state-battery-solid-cell-hype-o/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Freerepublic.com"
-      },
-      "companies": [
-        "Donut Lab"
-      ],
-      "people": []
-    },
-    {
-      "title": "Firmy na CES doufají, že mozek bude další velkou věcí v informatice",
-      "description": "Na každé CES se objevují zařízení slibující zlepšení mentálního zdraví. Počet firem vstupujících do oblasti neurotechnologií roste a v budoucnu by EEG headsety mohly být běžné jako srdeční monitory.",
-      "slug": "the-ces-companies-hoping-your-brain-is-the-next-bi",
-      "publishedAt": "2026-01-10T17:52:20+00:00",
-      "date": "2026-01-10 17:52:20",
-      "importance": 4,
-      "category": "neurotechnologie",
-      "urlToImage": null,
-      "url": "/tech-news/2026-01-10/the-ces-companies-hoping-your-brain-is-the-next-bi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Roboti, které jsme viděli na CES 2026: Milí, děsiví a naprosto zmatení",
-      "description": "CES představuje řadu robotů přitahujících pozornost, letos byl však výjimečně významný rok pro robotiku díky pokrokům v AI, které zlepšily autonomii a interakční schopnosti těchto zařízení.",
-      "slug": "the-robots-we-saw-at-ces-2026-the-lovable-the-cree",
-      "publishedAt": "2026-01-10T15:52:49+00:00",
-      "date": "2026-01-10 15:52:49",
-      "importance": 5,
-      "category": "robotika",
-      "urlToImage": null,
-      "url": "/tech-news/2026-01-10/the-robots-we-saw-at-ces-2026-the-lovable-the-cree/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "companies": [],
-      "people": []
     }
   ]
 }
