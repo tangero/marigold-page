@@ -1,7 +1,127 @@
 {
-  "generated": "2026-01-17T12:50:43.051748+00:00",
+  "generated": "2026-01-17T16:45:11.271632+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "ASML dosáhla rekordní hodnoty díky AI boomu – analytici vidí prostor pro další růst",
+      "description": "Holandský výrobce polovodičového vybavení ASML se ve čtvrtek stal třetí evropskou společností s valuací přes 500 miliard dolarů.",
+      "slug": "asml-hits-record-high-on-ai-boost-and-analysts-see",
+      "publishedAt": "2026-01-16T16:06:39+00:00",
+      "date": "2026-01-16 16:06:39",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107402297-1713339157313-gettyimages-1950315198-NETHERLANDS_ASML.jpeg?v=1768577053&w=1920&h=1080",
+      "url": "/tech-news/2026-01-16/asml-hits-record-high-on-ai-boost-and-analysts-see/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [
+        "ASML"
+      ],
+      "people": []
+    },
+    {
+      "title": "Proč musí lídři firem prozkoumat postkvantovou kryptografii před kvantovou érou",
+      "description": "S pokračujícím vývojem kvantových počítačů hrozí ohrožení současných kryptografických standardů. Článek vysvětluje, jak se firmy mohou připravit na postkvantovou kryptografii (PQC) a vyhnout se rizikům jako jsou útoky typu harvest now, decrypt later.",
+      "slug": "why-business-leaders-must-explore-post-quantum-pre",
+      "publishedAt": "2026-01-16T15:53:00+00:00",
+      "date": "2026-01-16 15:53:00",
+      "importance": 5,
+      "category": "postkvantová kryptog",
+      "urlToImage": "https://www.techtarget.com/rms/onlineimages/arvr_g1200559136.jpg",
+      "url": "/tech-news/2026-01-16/why-business-leaders-must-explore-post-quantum-pre/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Techtarget.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Co se děje s… Kyivstar, Verizon, Nigérie",
+      "description": "Služba D2D od Kyivstaru přilákala 3 miliony uživatelů. Verizon uzavře akvizici operátora Frontier s FTTP sítí za 20 miliard dolarů. Nigérie udělila tři další licence pro satelitní služby.",
+      "slug": "whats-up-with-kyivstar-verizon-nigeria",
+      "publishedAt": "2026-01-16T15:52:18+00:00",
+      "date": "2026-01-16 15:52:18",
+      "importance": 5,
+      "category": "telekomunikace",
+      "urlToImage": "https://assets.telecomtv.com/assets/telecomtv/csm-starlink-kyivstar-network-name-on-phone-screen-31a84281b9-source-veon-21613.jpg?w=1200",
+      "url": "/tech-news/2026-01-16/whats-up-with-kyivstar-verizon-nigeria/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "TelecomTV"
+      },
+      "companies": [
+        "Kyivstar",
+        "Verizon",
+        "Frontier"
+      ],
+      "people": []
+    },
+    {
+      "title": "Cloudflare, X a další služby dnes mimo provoz",
+      "description": "Cloudflare, síť pro doručování obsahu a distribuovaný DNS server, byl dnes ráno mimo provoz, což ovlivnilo mnoho webových stránek včetně X. Služby se postupně zotavují, ale výpadek ukazuje na zranitelnost internetové infrastruktury.",
+      "slug": "cloudflare-x-and-other-things-down-today",
+      "publishedAt": "2026-01-16T15:47:46+00:00",
+      "date": "2026-01-16 15:47:46",
+      "importance": 5,
+      "category": "cloudové výpadky",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/01/Screenshot-2026-01-16-at-7.50.04-AM.jpg",
+      "url": "/tech-news/2026-01-16/cloudflare-x-and-other-things-down-today/",
+      "source": {
+        "emoji": "📰",
+        "id": "next-big-future",
+        "name": "Next Big Future"
+      },
+      "companies": [
+        "Cloudflare"
+      ],
+      "people": []
+    },
+    {
+      "title": "Cena akcií Micron dnes: Co pohání růst MU – $100 miliardová mega továrna v New Yorku a nákup akcií insiderem",
+      "description": "Akcie společnosti Micron Technology (MU) vzrostly o více než 6 % po oznámení zahájení stavby $100 miliardového komplexu pro výrobu pamětí v Onondaga County v New Yorku. Tento projekt, označovaný jako největší polovodičová továrna v USA, má zahájit produkci v roce 2030 a vytvořit 50 000 pracovních míst, přičemž podporuje růst AI a datových center.",
+      "slug": "micron-stock-price-today-whats-driving-mu-rally-10",
+      "publishedAt": "2026-01-16T15:31:44+00:00",
+      "date": "2026-01-16 15:31:44",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126579992,width-1200,height-630,imgsize-341816,overlay-economictimes/articleshow.jpg",
+      "url": "/tech-news/2026-01-16/micron-stock-price-today-whats-driving-mu-rally-10/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Micron Technology"
+      ],
+      "people": []
+    },
+    {
+      "title": "Průlom, díky kterému robotické obličeje působí méně strašidelně",
+      "description": "Lidé věnují při konverzaci velkou pozornost pohybům rtů, roboti v tom dosud zaostávali. Robot vyvinutý na Columbia Engineering se naučil realistické pohyby rtů sledováním svého odrazu v zrcadle a videí lidí z internetu, což mu umožňuje synchronizovaně mluvit a zpívat.",
+      "slug": "the-breakthrough-that-makes-robot-faces-feel-less-",
+      "publishedAt": "2026-01-16T15:28:30+00:00",
+      "date": "2026-01-16 15:28:30",
+      "importance": 5,
+      "category": "robotika",
+      "urlToImage": "https://www.sciencedaily.com/images/1920/lip-syncing-robot.webp",
+      "url": "/tech-news/2026-01-16/the-breakthrough-that-makes-robot-faces-feel-less/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Science Daily"
+      },
+      "companies": [
+        "Columbia Engineering"
+      ],
+      "people": []
+    },
     {
       "title": "Hlavní využití kvantových počítačů možná nepotřebuje kvantové počítače",
       "description": "Porozumění molekule FeMoco, která hraje klíčovou roli v fixaci dusíku umožňující život na Zemi, bylo dlouho považováno za problém pro kvantové počítače. Nyní ho však možná vyřešil klasický počítač.",
@@ -3850,26 +3970,6 @@
       ]
     },
     {
-      "title": "SAG-AFTRA sleduje dohodu Disney s OpenAI",
-      "description": "Ne všichni se nadchli dohodou Disney s OpenAI, ale odbory SAG-AFTRA v ní vidí potenciál pro větší transparentnost a pokrok v oblasti AI.",
-      "slug": "sag-aftra-is-keeping-an-eye-on-the-disneyopenai-de",
-      "publishedAt": "2026-01-10T21:15:02+00:00",
-      "date": "2026-01-10 21:15:02",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/12/tron-ares-streaming-jared-leto-1200x675.jpg",
-      "url": "/tech-news/2026-01-10/sag-aftra-is-keeping-an-eye-on-the-disneyopenai-de/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
       "title": "Tento týdenní technologické příběhy z webu (do 10. ledna)",
       "description": "Týdně prohledáváme web pro důležité, poučné a zajímavé příběhy z vědy a technologie. Příspěvek tento týden zahrnuje pokroky v robotice, umělé inteligenci, biotechnologiích a kvantovém výpočtu.",
       "slug": "this-weeks-awesome-tech-stories-from-around-the-we",
@@ -3886,26 +3986,6 @@
       },
       "companies": [],
       "people": []
-    },
-    {
-      "title": "Sam Altman zvažuje IPO OpenAI v hodnotě 830 miliard až 1 bilion dolarů a přiznává, že vedení veřejné společnosti by mohlo být 'opravdu otravné'",
-      "description": "Generální ředitel OpenAI Sam Altman diskutuje o možném úvodě firmy na burzu s valuací až 1 bilion dolarů, ale vyjadřuje skeptický postoj k roli šéfa veřejné společnosti. Spekulace o IPO v roce 2027 nabírají na obrátkách kvůli rostoucím kapitálovým potřebám firmy.",
-      "slug": "sam-altman-weighs-an-830b1t-ipo-and-admits-running",
-      "publishedAt": "2026-01-10T19:01:09+00:00",
-      "date": "2026-01-10 19:01:09",
-      "importance": 4,
-      "category": "ipo",
-      "urlToImage": "https://s.yimg.com/os/en/Benzinga/afc53244ef0f2407359e41f2431148ea",
-      "url": "/tech-news/2026-01-10/sam-altman-weighs-an-830b1t-ipo-and-admits-running/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [],
-      "people": [
-        "Sam Altman"
-      ]
     },
     {
       "title": "První pevnolátková baterie na světě: Hype nebo naděje? Donut Lab pod lupou",
@@ -3946,29 +4026,6 @@
       "people": []
     },
     {
-      "title": "Nvidia vyzývá Teslu: Jensen Huang mluví o 'ChatGPT momentu' pro autonomní řízení",
-      "description": "„ChatGPT moment pro fyzickou AI je zde – když stroje začnou chápat, uvažovat a jednat ve skutečném světě,“ prohlásil generální ředitel Nvidia Jensen Huang na CES v Las Vegas. Nvidia představila model Alpamayo pro autonomní vozy a robotaxi.",
-      "slug": "nvidia-takes-on-tesla-with-what-jensen-huang-calls",
-      "publishedAt": "2026-01-10T16:00:45+00:00",
-      "date": "2026-01-10 16:00:45",
-      "importance": 4,
-      "category": "autonomní vozy",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/VzgaLHGyJWm2OXjhC2O5uA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/3438c520-ec06-11f0-bddf-75be531c7130",
-      "url": "/tech-news/2026-01-10/nvidia-takes-on-tesla-with-what-jensen-huang-calls/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [
-        "Nvidia",
-        "Tesla"
-      ],
-      "people": [
-        "Jensen Huang"
-      ]
-    },
-    {
       "title": "Roboti, které jsme viděli na CES 2026: Milí, děsiví a naprosto zmatení",
       "description": "CES představuje řadu robotů přitahujících pozornost, letos byl však výjimečně významný rok pro robotiku díky pokrokům v AI, které zlepšily autonomii a interakční schopnosti těchto zařízení.",
       "slug": "the-robots-we-saw-at-ces-2026-the-lovable-the-cree",
@@ -3982,62 +4039,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Slashdot.org"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Bezpečnostní novinky tento týden: ICE nyní může špehovat každý telefon ve vaší čtvrti",
-      "description": "Írán vypnul internet kvůli protestům, chatbot Grok od xAI generuje explicitní obsah včetně obrázků nezletilých a ICE získal nástroje pro masové sledování mobilů. Další témata zahrnují extradici podvodníka do Číny a tipy pro lepší soukromí v WhatsApp.",
-      "slug": "security-news-this-week-ice-can-now-spy-on-every-p",
-      "publishedAt": "2026-01-10T11:30:00+00:00",
-      "date": "2026-01-10 11:30:00",
-      "importance": 5,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://media.wired.com/photos/69619f6135ffd689b24891d2/191:100/w_1280,c_limit/Security-Roundup-ICE-Can-Now-Spy-on-Every-Phone-in-Your-Neighborhood-Security.jpg",
-      "url": "/tech-news/2026-01-10/security-news-this-week-ice-can-now-spy-on-every-p/",
-      "source": {
-        "emoji": "🔧",
-        "id": "wired",
-        "name": "Wired"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Vzpoura kvůli deepfakes z Grok: 'výmluva pro cenzuru' – Musk",
-      "description": "Kritici sociální sítě X 'chtějí jakoukoli výmluvu pro cenzuru', tvrdí Elon Musk, zatímco jeho platforma čelí hrozbě uzavření v Británii kvůli deepfake pornografii a obrázkům dětského zneužívání generovaným AI chatbotem Grok.",
-      "slug": "outcry-over-grok-deepfakes-excuse-for-censorship-m",
-      "publishedAt": "2026-01-10T11:03:54+00:00",
-      "date": "2026-01-10 11:03:54",
-      "importance": 4,
-      "category": "deepfakes",
-      "urlToImage": "https://www.rte.ie/images/0023b863-1600.jpg",
-      "url": "/tech-news/2026-01-10/outcry-over-grok-deepfakes-excuse-for-censorship-m/",
-      "source": {
-        "emoji": "📰",
-        "id": "rte",
-        "name": "RTE"
-      },
-      "companies": [],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "AI průmysl vstupuje do politiky. Zde jsou klíčové super PACy k sledování v roce 2026",
-      "description": "AI průmysl investuje stovky milionů dolarů do super PACů před midterm volbami v roce 2026.",
-      "slug": "the-ai-industry-is-getting-into-politics-here-are-",
-      "publishedAt": "2026-01-10T10:07:01+00:00",
-      "date": "2026-01-10 10:07:01",
-      "importance": 4,
-      "category": "ai politika",
-      "urlToImage": "https://i.insider.com/695c31af832e0ef1ead731e5?width=1200&format=jpeg",
-      "url": "/tech-news/2026-01-10/the-ai-industry-is-getting-into-politics-here-are/",
-      "source": {
-        "emoji": "📰",
-        "id": "business-insider",
-        "name": "Business Insider"
       },
       "companies": [],
       "people": []
