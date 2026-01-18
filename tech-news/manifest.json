@@ -1,7 +1,189 @@
 {
-  "generated": "2026-01-18T12:52:53.733454+00:00",
+  "generated": "2026-01-18T16:47:21.733354+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Vysokovýkonné čipy M5 pro MacBook Pro jsou téměř tady: Proč se vyplatilo čekat",
+      "description": "Macworld informuje o blížících se čipech M5 Pro a M5 Max pro 14- a 16palcové MacBook Pro. Ty přinesou významná zlepšení výkonu procesoru a grafiky oproti předchozí generaci M4.",
+      "slug": "the-high-end-m5-macbook-pro-chips-are-almost-here-",
+      "publishedAt": "2026-01-17T16:15:00+00:00",
+      "date": "2026-01-17 16:15:00",
+      "importance": 4,
+      "category": "hardware",
+      "urlToImage": "https://www.macworld.com/wp-content/uploads/2026/01/m5-pro-max-chip-graphic-6.jpg?quality=50&strip=all&w=1024",
+      "url": "/tech-news/2026-01-17/the-high-end-m5-macbook-pro-chips-are-almost-here/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Macworld"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Nvidia brzy vstoupí do přímé konkurence s Teslou Elona Muska – Zde je důvod",
+      "description": "Jedno z nejvýznamnějších oznámení Nvidia na CES 2026 ji postavilo do přímé technologické konfrontace s Teslou, rivality, která se bude vyvíjet celý rok.",
+      "slug": "nvidia-will-soon-be-competing-with-elon-musks-tesl",
+      "publishedAt": "2026-01-17T15:47:00+00:00",
+      "date": "2026-01-17 15:47:00",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://www.bgr.com/img/gallery/nvidia-will-soon-be-competing-with-elon-musks-tesla-heres-why/l-intro-1768235513.jpg",
+      "url": "/tech-news/2026-01-17/nvidia-will-soon-be-competing-with-elon-musks-tesl/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BGR"
+      },
+      "companies": [
+        "Nvidia",
+        "Tesla"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Xpeng Iron Humanoid: Co to znamená pro roboty, čipy a vývojáře",
+      "description": "Xpeng představil humanoidního robota Iron s přirozenou chůzí, zakřiveným 3D displejem hlavy a vysoce artikulovanými rukama. Tento design není jen vizuální, ale strategický tah zaměřený na sběr dat z lidských prostředí díky lidské morfologii spojené s třemi proprietárními Turing čipy.",
+      "slug": "xpeng-iron-humanoid-what-it-means-for-robots-chips",
+      "publishedAt": "2026-01-17T15:38:53+00:00",
+      "date": "2026-01-17 15:38:53",
+      "importance": 5,
+      "category": "robotika",
+      "urlToImage": "https://bitrebels.com/wp-content/uploads/2026/01/xpeng-iron-humanoid-robot-chip-developer-optimized.jpg",
+      "url": "/tech-news/2026-01-17/xpeng-iron-humanoid-what-it-means-for-robots-chips/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Bitrebels.com"
+      },
+      "companies": [
+        "Xpeng"
+      ],
+      "people": []
+    },
+    {
+      "title": "Tento týden nejzajímavější technologické příběhy z webu (do 17. ledna)",
+      "description": "Každý týden prohledáváme web pro důležité, poučné a fascinující příběhy z vědy a technologie. Příspěvek se poprvé objevil na SingularityHub.",
+      "slug": "this-weeks-awesome-tech-stories-from-around-the-we",
+      "publishedAt": "2026-01-17T15:00:00+00:00",
+      "date": "2026-01-17 15:00:00",
+      "importance": 4,
+      "category": "technologické novink",
+      "urlToImage": "https://singularityhub.com/uploads/2026/01/vienna-church-artwork-dome.jpeg?auto=webp",
+      "url": "/tech-news/2026-01-17/this-weeks-awesome-tech-stories-from-around-the-we/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Singularity Hub"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Datové centrum xAI možná jednalo nelegálně, EPA uzavřela slabinu u metanových turbín",
+      "description": "Agentura pro ochranu životního prostředí (EPA) upravila směrnice a uzavřela regulační slabinu umožňující provoz metanových plynových turbín bez povolení, i když jsou dočasné. Startup xAI Elona Muska tak mohl porušit předpisy při napájení datového centra Colossus 1 v Memphisu v Tennessee.",
+      "slug": "xais-data-center-may-have-acted-illegally-as-epa-c",
+      "publishedAt": "2026-01-17T14:19:51+00:00",
+      "date": "2026-01-17 14:19:51",
+      "importance": 4,
+      "category": "datová centra",
+      "urlToImage": "https://sm.pcmag.com/t/pcmag_uk/news/x/xais-data-/xais-data-center-may-have-acted-illegally-as-epa-clarifies-t_efv7.1200.jpg",
+      "url": "/tech-news/2026-01-17/xais-data-center-may-have-acted-illegally-as-epa-c/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "PCMag.com"
+      },
+      "companies": [
+        "xAI"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Hlavní zprávy: Apple Creator Studio, Siri poháněná Google Gemini a další",
+      "description": "Apple představilo první produkt roku 2026 – předplatné Apple Creator Studio s kreativními aplikacemi pro editaci videa, audia a obrázků včetně AI funkcí. Společnost zároveň potvrdila, že nová verze Siri bude využívat model Google Gemini.",
+      "slug": "top-stories-apple-creator-studio-google-gemini-pow",
+      "publishedAt": "2026-01-17T14:00:00+00:00",
+      "date": "2026-01-17 14:00:00",
+      "importance": 4,
+      "category": "kreativní software",
+      "urlToImage": "https://images.macrumors.com/t/mqgb5qlh-f94StrGKxfMatg39Yg=/1600x/article-new/2026/01/top-stories-2026-01-17.jpg",
+      "url": "/tech-news/2026-01-17/top-stories-apple-creator-studio-google-gemini-pow/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "MacRumors"
+      },
+      "companies": [
+        "Apple",
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Vyzkoušel jsem produktivního agenta Google CC v Workspace – osobní asistent, kterého si nemohu dovolit",
+      "description": "Google CC je experimentální produktivní agent, který pokrývá Gmail, Disk a Kalendář. Tento nástroj demonstruje, jak by agentická umělá inteligence mohla stát se běžnou součástí produktivity.",
+      "slug": "i-tried-googles-cc-productivity-agent-in-workspace",
+      "publishedAt": "2026-01-17T13:07:00+00:00",
+      "date": "2026-01-17 13:07:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/u9yzt4FqscCgLUgq3ihzCQ-2560-80.jpg",
+      "url": "/tech-news/2026-01-17/i-tried-googles-cc-productivity-agent-in-workspace/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Central"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Fox News AI Newsletter: Poplach v datových centrech",
+      "description": "Fox News AI Newsletter informuje o nejnovějších pokrocích v technologii umělé inteligence, zaměřuje se na výzvy i příležitosti spojené s AI. Tento vydání se věnuje boomu datových center, spotřebě energie, skandálu s Grok AI a geopolitickým aspektům AI.",
+      "slug": "fox-news-ai-newsletter-data-center-alarm",
+      "publishedAt": "2026-01-17T13:00:40+00:00",
+      "date": "2026-01-17 13:00:40",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/09/ai-data-center.jpg",
+      "url": "/tech-news/2026-01-17/fox-news-ai-newsletter-data-center-alarm/",
+      "source": {
+        "emoji": "📰",
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "OpenAI by podle zpráv mohlo dojít k penězům do poloviny 2027 – analytik maluje ponurý obraz po prozkoumání financí společnosti",
+      "description": "Analytik Sebastian Mallaby varuje, že OpenAI čelí obrovským finančním problémům kvůli vysokým výdajům na vývoj AI. Společnost by mohla vyčerpat hotovost do 18 měsíců, pokud se ekonomika AI nevyvíjí lépe.",
+      "slug": "openai-could-reportedly-run-out-of-cash-by-mid-202",
+      "publishedAt": "2026-01-17T13:00:00+00:00",
+      "date": "2026-01-17 13:00:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/x7d5kZuVL9z6R8sEgC7GqE-2000-80.jpg",
+      "url": "/tech-news/2026-01-17/openai-could-reportedly-run-out-of-cash-by-mid-202/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": [
+        "Sam Altman"
+      ]
+    },
     {
       "title": "OpenAI, Anthropic a Google představily nové nástroje AI pro zdravotnictví – takto fungují",
       "description": "Obavy z ochrany dat a halucinací nezpomalují přijetí automatizace v zdravotnictví.",
@@ -3424,63 +3606,6 @@
       ]
     },
     {
-      "title": "Inženýři nasadili „Poison Fountain“, který rozhazuje fungování systémů umělé inteligence",
-      "description": "Projekt Poison Fountain má oklamat webové crawlery technologických firem, aby nasály otrávená tréninková data, která naruší modely umělé inteligence. Jeho autoři, kteří pracují pro velké americké AI společnosti, chtějí tím způsobit škody systémům strojové inteligence.",
-      "slug": "engineers-deploy-poison-fountain-that-scrambles-br",
-      "publishedAt": "2026-01-12T20:15:32+00:00",
-      "date": "2026-01-12 20:15:32",
-      "importance": 4,
-      "category": "ai bezpečnost",
-      "urlToImage": "https://futurism.com/wp-content/uploads/2026/01/poison-fountain-ai_37f3fb.jpg?w=1200",
-      "url": "/tech-news/2026-01-12/engineers-deploy-poison-fountain-that-scrambles-br/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Futurism"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Apple založí Apple Intelligence na umělé inteligenci od Google",
-      "description": "Apple a Google oznámily, že nová generace Apple Foundation Models bude založena na modelech Gemini a cloudové technologii Google. Tyto modely pohání budoucí funkce Apple Intelligence, včetně personalizovanější Siri, přičemž ochrana soukromí zůstane nezměněna.",
-      "slug": "apple-to-base-apple-intelligence-on-googles-ai",
-      "publishedAt": "2026-01-12T20:07:24+00:00",
-      "date": "2026-01-12 20:07:24",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.phonescoop.com/img/a/s/c152_c218.jpg",
-      "url": "/tech-news/2026-01-12/apple-to-base-apple-intelligence-on-googles-ai/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Phonescoop.com"
-      },
-      "companies": [
-        "Apple",
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Apple a Google uzavírají dohodu o použití Gemini AI pro vývoj budoucnosti Siri",
-      "description": "Apple spolupracuje s Googlem na napájení budoucích funkcí Apple Intelligence, včetně personalizovanější verze Siri, která vyjde v roce 2026. Partnerství znamená, že další generace Apple Foundation Models bude založena na modelech Gemini a cloudové technologii Google.",
-      "slug": "apple-google-sign-deal-to-use-gemini-ai-to-help-bu",
-      "publishedAt": "2026-01-12T20:04:08+00:00",
-      "date": "2026-01-12 20:04:08",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://sm.pcmag.com/t/pcmag_me/news/a/apple-goog/apple-google-sign-deal-to-use-gemini-ai-to-help-build-the-fu_4zhr.1200.jpg",
-      "url": "/tech-news/2026-01-12/apple-google-sign-deal-to-use-gemini-ai-to-help-bu/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "PCMag.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Velká Británie zavádí zákon kriminalizující deepfake akty v reakci na Grok",
       "description": "Velká Británie uvádí v platnost zákon, který činí vytváření nekonzistentních intimních deepfake obrázků trestným činem, v reakci na deepfakes generované chatbotem Grok na platformě X. Zákon vyžaduje od platforem proaktivní kroky k prevenci a Ofcom zahájil vyšetřování X.",
       "slug": "uk-pushes-up-a-law-criminalizing-deepfake-nudes-in",
@@ -3520,47 +3645,6 @@
       "people": []
     },
     {
-      "title": "Apple a Google uzavřely dohodu o Gemini pro vylepšenou Siri",
-      "description": "Podle víceleté dohody bude Apple používat modely Gemini od Googlu pro svou vylepšenou Siri, která vyjde letos později. Tato spolupráce posiluje postavení Alphabetu v soutěži s OpenAI.",
-      "slug": "apple-google-strike-gemini-deal-for-revamped-siri",
-      "publishedAt": "2026-01-12T19:55:34+00:00",
-      "date": "2026-01-12 19:55:34",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://i.nextmedia.com.au/News/bigstock-apple-store-opened-its-long-aw-78459935.jpg",
-      "url": "/tech-news/2026-01-12/apple-google-strike-gemini-deal-for-revamped-siri/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "iTnews"
-      },
-      "companies": [
-        "Apple",
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Ethereum by neměl odkládat přípravy na hrozbu kvantových počítačů, říká Vitalik Buterin",
-      "description": "Spoluzakladatel Ethereum Vitalik Buterin upozorňuje, že síť by měla fungovat desetiletí bez nutnosti neustálých upgradů, včetně odolnosti proti budoucím kvantovým počítačům.",
-      "slug": "ethereum-shouldnt-delay-preparing-for-quantum-comp",
-      "publishedAt": "2026-01-12T19:50:28+00:00",
-      "date": "2026-01-12 19:50:28",
-      "importance": 4,
-      "category": "kryptoměny",
-      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Ethereum-Vitalik-Buterin-decrypt-style-decrypt-source-01-gID_7.png",
-      "url": "/tech-news/2026-01-12/ethereum-shouldnt-delay-preparing-for-quantum-comp/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Decrypt"
-      },
-      "companies": [],
-      "people": [
-        "Vitalik Buterin"
-      ]
-    },
-    {
       "title": "Meta jmenuje bývalou poradkyni Bílého domu pro řízení AI projektů",
       "description": "Meta jmenovala Dinu Powell McCormick na novou vysokou pozici zaměřenou na spolupráci s vládami a investory v oblasti AI infrastruktury. CEO Mark Zuckerberg oznámil plány na stavbu desítek gigawattů výpočetní kapacity tento desetiletí.",
       "slug": "meta-picks-former-white-house-advisor-to-drive-ai-",
@@ -3581,48 +3665,6 @@
       "people": [
         "Mark Zuckerberg"
       ]
-    },
-    {
-      "title": "„Apple Intelligence“ poháněné Gemini představuje „významnou validaci pro Google“, říká špičkový technologický analytik",
-      "description": "Dohoda umožňující Applu využívat AI technologii Google byla zveřejněna v pondělí ve společném prohlášení těchto siláků z Silicon Valley.",
-      "slug": "apple-intelligence-powered-by-gemini-marks-a-major",
-      "publishedAt": "2026-01-12T19:45:10+00:00",
-      "date": "2026-01-12 19:45:10",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/01/AP26012644382007.jpg?resize=1200,600",
-      "url": "/tech-news/2026-01-12/apple-intelligence-powered-by-gemini-marks-a-major/",
-      "source": {
-        "emoji": "📰",
-        "id": "fortune",
-        "name": "Fortune"
-      },
-      "companies": [
-        "Apple",
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Apple volí Gemini",
-      "description": "Apple a Google uzavřely víceletou spolupráci, podle níž budou další generace modelů Apple Foundation Models založeny na modelech Gemini od Google a cloudové infrastruktuře. Tyto modely pohání budoucí funkce Apple Intelligence, včetně personalizovanější verze Siri, při zachování soukromí dat.",
-      "slug": "apple-picks-gemini",
-      "publishedAt": "2026-01-12T19:35:17+00:00",
-      "date": "2026-01-12 19:35:17",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": null,
-      "url": "/tech-news/2026-01-12/apple-picks-gemini/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Mjtsai.com"
-      },
-      "companies": [
-        "Apple",
-        "Google"
-      ],
-      "people": []
     },
     {
       "title": "Grok zablokován v Malajsii a Indonésii kvůli rostoucímu skandálu s sexuálními deepfakes",
@@ -3660,26 +3702,6 @@
       "companies": [
         "Alphabet",
         "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Může startup Donut Lab na pevnostátní baterii dodat baterii s 400 Wh/kg a rychlým nabíjením?",
-      "description": "Estonská firma Donut Lab tvrdí, že vyvinula první plně pevnostátní baterii na světě s energetickou hustotou 400 Wh/kg, nabíjením pod 5 minut a výdrží až 100 000 cyklů. Tato technologie slibuje vyšší bezpečnost a ekologickou udržitelnost bez použití lithia, kobaltu či niklu, což vyvolává zájem i pochybnosti o její škálovatelnosti.",
-      "slug": "can-solid-state-battery-startup-donut-lab-deliver-",
-      "publishedAt": "2026-01-12T12:12:10+00:00",
-      "date": "2026-01-12 12:12:10",
-      "importance": 5,
-      "category": "pevnostátní baterie",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/01/first-solid-state-cell-prototype_optimized.jpg",
-      "url": "/tech-news/2026-01-12/can-solid-state-battery-startup-donut-lab-deliver/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [
-        "Donut Lab"
       ],
       "people": []
     },
@@ -4014,24 +4036,6 @@
       "companies": [
         "Motional"
       ],
-      "people": []
-    },
-    {
-      "title": "Eggie, Neo, Isaac a Memo jsou domácí roboti. Ale nechali byste je nakládat do myčky?",
-      "description": "Joe Tidy se setkává s roboty, které se učí uklízet všechen nepořádek v domácnosti. Letos se do domácností dostanou první univerzální domácí roboti díky pokrokům v AI.",
-      "slug": "eggie-neo-isaac-and-memo-are-domestic-robots-but-w",
-      "publishedAt": "2026-01-12T00:07:23+00:00",
-      "date": "2026-01-12 00:07:23",
-      "importance": 4,
-      "category": "domácí roboti",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d7ca/live/e5e62070-ed86-11f0-a422-4ba8a094a8fa.jpg",
-      "url": "/tech-news/2026-01-12/eggie-neo-isaac-and-memo-are-domestic-robots-but-w/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BBC News"
-      },
-      "companies": [],
       "people": []
     }
   ]
