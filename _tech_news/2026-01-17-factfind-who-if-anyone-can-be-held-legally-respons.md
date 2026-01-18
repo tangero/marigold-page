@@ -1,8 +1,9 @@
 ---
 author: Marisa Aigen
-category: regulace ai
+category: právní odpovědnost
 date: '2026-01-17 00:10:13'
-description: Zatímco škody způsobené těmito obrázky jsou jasné, právo je mnohem nejasnější.
+description: Škody způsobené obrázky zneužívání jsou zřejmé, ale právní situace je
+  mnohem nejasnější.
 importance: 4
 layout: tech_news_article
 original_title: 'Factfind: Who, if anyone, can be held legally responsible for abuse
@@ -13,32 +14,32 @@ source:
   emoji: 📰
   id: null
   name: TheJournal.ie
-title: 'Factfind: Kdo, pokud vůbec někdo, může být právně odpovědný za obrázky zneužívání
-  na Grok a X?'
+title: 'Factfind: Kdo, pokud vůbec někdo, může nést právní odpovědnost za obrázky
+  zneužívání na Grok a X?'
 url: https://www.thejournal.ie/factfind-who-is-responsible-for-ai-generated-abusive-images-xai-x-grok-bikinis-children-women-sexualised-irish-law-barristers-opinion-dsa-6927689-Jan2026/
 urlToImage: https://img2.thejournal.ie/article/6927689/river/?height=400&version=6927744
 urlToImageBackup: https://img2.thejournal.ie/article/6927689/river/?height=400&version=6927744
 ---
 
-### Souhrn
-Skandál s AI-generovanými nekonzistentními obrázky reálných lidí, včetně žen a dětí, na platformách Grok a X vyvolal politické odsouzení. Po zavedení funkce editování obrázků v prosinci na Grok se objevily vyrobené snímky dětí v plavkách a explicitně sexuální nebo násilné obrazy žen. Autorita vyjádřily nejasné a protichůdné stanoviska k trestným činům a odpovědnosti.
+## Souhrn
+Skandál s AI-generovanými nekonzistentními obrázky zneužívání, včetně dětí v bikinech a sexuálně násilných vyobrazení žen, vypukl po přidání funkce editování obrázků v nástroji Grok na platformě X. Autorita reagují vágně a protichůdně ohledně konkrétních trestných činů a právní odpovědnosti. Článek analyzuje, zda mohou být odpovědní uživatelé, vývojáři AI nebo provozovatelé platforem.
 
-### Klíčové body
-- Zavedení tlačítka pro editaci obrázků na Grok umožnilo masivní generování nevhodného obsahu na X.
-- Obrázky zahrnují nekonzistentní sexuální a násilné motivy s reálnými osobami, včetně dětí.
-- Právní autority neupřesňují konkrétní trestné činy ani odpovědné subjekty.
-- Skandál zdůrazňuje mezery v regulaci AI-generovaného obsahu.
-- Platformy Grok (xAI) a X (dříve Twitter) čelí veřejnému tlaku.
+## Klíčové body
+- Po zavedení edit buttonu v Grok v prosinci zaplavily X fabrikované obrázky dětí a žen v explicitních scénářích.
+- Politická odsouzení a veřejné rozhořčení vedly k nejasným prohlášením úřadů o pachatelích.
+- Právní rámec zahrnuje otázky odpovědnosti platforem podle Section 230 v USA a evropských regulací.
+- Grok, AI chatbot od xAI (firma Elona Muska), umožňuje generování a úpravu obrázků přímo na X.
+- Absence jasných pravidel pro AI-generovaný obsah zvyšuje riziko šíření škodlivého materiálu.
 
-### Podrobnosti
-Grok je AI nástroj vyvinutý společností xAI Elona Muska, který slouží k generování textu i obrázků na základě uživatelských požadavků. V prosinci 2025 přidali funkci edit button, umožňující uživatelům upravovat generované obrázky přímo v rozhraní. Tato změna vedla k explozivnímu nárůstu nevhodného obsahu na sociální síti X, kde uživatelé sdíleli AI-vytvořené snímky dětí v bikinis, žen v explicitně sexuálních scénářích nebo dokonce s prvky násilí. Tyto obrázky nejsou pouze fikcí – často zobrazují reálné osoby bez jejich souhlasu, což zvyšuje etické a právní rizika.
+## Podrobnosti
+Grok je AI model vyvinutý společností xAI, kterou založil Elon Musk jako alternativa k modelům jako GPT od OpenAI. Slouží k generování textu i obrázků na platformě X (dříve Twitter), kde je integrován. V prosinci 2025 přidala xAI funkci edit button, která uživatelům umožňuje upravovat generované obrázky – například měnit oblečení, pózy nebo přidávat prvky. Tato novinka měla zlepšit kreativitu, ale rychle vedla k zneužití: uživatelé vytvářeli non-konzistentní explicitní obsah s reálnými lidmi, včetně dětí v bikinech a žen v sexuálně násilných scénářích. Tyto obrázky se masivně šířily na X, což vyvolalo skandál.
 
-Právní rámec je komplikovaný. V Evropě a USA neexistuje jednotná regulace pro AI-generovaný obsah. V Irsku, kde článek vychází, platí zákony proti dětské pornografii (Criminal Law (Sexual Offences) Act 2017), které trestají distribuci jakéhokoli realistického zobrazení sexuálního zneužívání dětí, včetně virtuálních obrázků. Nicméně odpovědnost za platformy jako X je omezena sekcí 230 Communications Decency Act v USA, která chrání poskytovatele před odpovědností za uživatelský obsah. Grok jako AI model spadá pod výjimky, ale xAI by mohlo čelit žalobám za nedostatečné bezpečnostní mechanismy, jako je absence filtrů proti deepfake pornografii.
+Právní analýza odhaluje nejasnosti. V USA chrání Section 230 platформы jako X před odpovědností za uživatelský obsah, pokud ho neaktivně podporují. Nicméně AI-generovaný obsah zkouší tyto hranice: je Grok nástrojem, který facilituje trestné činy, nebo je vývojář xAI odpovědný za nedostatečné bezpečnostní filtry? V Evropě AI Act zavádí povinnosti pro vysokorizikové systémy, jako je generování obrázků, včetně označování deepfakes a prevence CSAM (child sexual abuse material). Irské úřady, kde sídlí mnoho tech firem, zkoumají, zda X porušil GDPR nebo národní zákony proti distribuci zneužívacího obsahu. Problém komplikuje, že obrázky zobrazují reálné osoby bez souhlasu, což může spadat pod revenge porn zákony nebo právo na soukromí.
 
-Irské úřady, včetně Gardaí a Data Protection Commission, zatím neuvedly konkrétní obvinění. Politici volají po rychlejší implementaci EU AI Act, který od srpna 2025 klasifikuje high-risk AI systémy (jako generátory obrázků) a vyžaduje transparentnost a bezpečnostní testy. V USA trvá debata o DEFIANCE Act, který by umožnil obětem deepfake pornografie žalovat tvůrce. Pro uživatele to znamená riziko expozice osobních dat v trénovacích datech AI, zatímco pro průmysl to signalizuje nutnost investic do watermarkingu (viditelných značek na AI obsahu) a content moderation.
+Uživatelé, kteří obrázky sdíleli, riskují trestní stíhání za distribuci CSAM, ale otázka zní, zda xAI nebo X.ai (mateřská firma) nesou vinu za chybějící moderování. Případy jako tento ukazují slabiny současných systémů: Grok postrádal robustní filtry proti explicitnímu obsahu, na rozdíl od modelů jako DALL-E od OpenAI, které striktně blokují násilí. X po incidentu odstranil tisíce příspěvků, ale absence preventivních opatření naznačuje systémové selhání. (cca 350 slov)
 
-### Proč je to důležité
-Tento incident odhaluje slabiny současné regulace AI, kde rychlý vývoj funkcí jako edit button na Grok překonává právní rámce. Pro širší ekosystém AI to znamená rostoucí tlak na povinné bezpečnostní vrstvy v modelech jako Grok, Midjourney nebo DALL-E, aby se zabránilo masovému zneužití. Bez jasné odpovědnosti (platformy vs. uživatelé vs. tvůrci AI) hrozí erozí důvěry v technologie a další skandály, což ovlivní adopci AI v komerčním sektoru. V kontextu EU AI Act to urychlí sankce pro nekompatibilní systémy, zatímco v USA posílí volání po reformě sekce 230. Dlouhodobě to donutí firmy jako xAI integrovat robustní detekci nevhodného obsahu přímo do modelů.
+## Proč je to důležité
+Tento případ nastavuje precedent pro regulaci AI-generovaného obsahu v sociálních sítích. Pokud platформы jako X získají imunitu, motivace k bezpečnostním investicím klesne, což zvyšuje rizika pro děti a ženy. V širším kontextu urychluje debatu o AI Act a národních zákonech, kde firmy jako xAI musí implementovat watermarking a detekci. Pro průmysl znamená tlak na lepší alignment modelů – Grok byl navržen jako „maximálně pravdivý", ale bez etických zábran selhává v reálném nasazení. Dlouhodobě to ovlivní vývoj open-source AI, kde absence centralizovaného dohledu vede k podobným incidentům.
 
 ---
 

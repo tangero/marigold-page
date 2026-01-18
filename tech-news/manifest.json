@@ -1,10 +1,112 @@
 {
-  "generated": "2026-01-18T01:25:30.515567+00:00",
+  "generated": "2026-01-18T05:05:16.301359+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "Grok: Test pro řízení umělé inteligence",
-      "description": "Porušení systému Grok je vážné. Reakce zahrnující vyšetřování, pozastavení a sankce bude působit jako odstrašení.",
+      "title": "Trump chce, aby technologické firmy platily za nové elektrárny kvůli AI",
+      "description": "Administrativa Donalda Trumpa a guvernérští několika států vyzvali největší americkou elektrickou síť PJM Interconnection, aby velké technologické společnosti financovaly výstavbu nových elektráren. Důvodem je explozivní růst cen elektřiny způsobený datovými centry pro trénink a provoz umělé inteligence.",
+      "slug": "trump-wants-tech-companies-to-foot-the-bill-for-ne",
+      "publishedAt": "2026-01-17T03:31:18+00:00",
+      "date": "2026-01-17 03:31:18",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": null,
+      "url": "/tech-news/2026-01-17/trump-wants-tech-companies-to-foot-the-bill-for-ne/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "companies": [],
+      "people": [
+        "Trump"
+      ]
+    },
+    {
+      "title": "Tesla dostala pět týdnů prodlení v americkém vyšetřování technologie Full Self-Driving",
+      "description": "Americká Národní správa pro bezpečnost silničního provozu (NHTSA) poskytla Tesle pět týdnů navíc na odpověď na obvinění z porušování dopravních předpisů vozy v režimu Full Self-Driving (FSD). Vyšetřování se týká 2,9 milionu vozidel a zahrnuje desítky incidentů včetně prejíždění na červenou a jízdy špatným směrem.",
+      "slug": "tesla-granted-more-time-in-us-investigation-into-i",
+      "publishedAt": "2026-01-17T03:14:20+00:00",
+      "date": "2026-01-17 03:14:20",
+      "importance": 4,
+      "category": "autonomní řízení",
+      "urlToImage": "https://dims.apnews.com/dims4/default/fae829c/2147483647/strip/true/crop/5608x3155+0+292/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F54%2Ff7%2Ff5728a88a2275c49f205d0e468de%2Ff4ea056e3cb1439cb5ac1685c4acffd8",
+      "url": "/tech-news/2026-01-17/tesla-granted-more-time-in-us-investigation-into-i/",
+      "source": {
+        "emoji": "📰",
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "companies": [
+        "Tesla"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nvidia Jensena Huanga zasáhla nečekaná celní blokáda v Číně pro vlajkový čip H200, dodavatelé zastavili výrobu: Zpráva",
+      "description": "Dodavatelé součástek pro H200 čipy Nvidie pozastavili výrobu poté, co čínští celníci zablokovali dovoz těchto AI procesorů do Číny, uvedl Financial Times. Nvidia byla touto situací překvapena, přestože USA v prosinci schválily prodej těchto čipů na čínský trh.",
+      "slug": "jensen-huangs-nvidia-hit-by-surprise-customs-block",
+      "publishedAt": "2026-01-17T02:29:20+00:00",
+      "date": "2026-01-17 02:29:20",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2026/01/17/1600x900/Nvidia_Jensen_Huang_H200_chip_China_customs_block_1768617680899_1768617681133.jpg",
+      "url": "/tech-news/2026-01-17/jensen-huangs-nvidia-hit-by-surprise-customs-block/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Livemint"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": [
+        "Jensen Huang"
+      ]
+    },
+    {
+      "title": "xAI Elona Muska čelí složitějšímu rozšiřování datových center po aktualizaci pravidla EPA",
+      "description": "Aktualizované pravidlo EPA uzavřelo mezeru, která umožnila xAI rychle postavit datové centrum v Memphisu s použitím turbín spalujících zemní plyn jako zdroj energie.",
+      "slug": "elon-musks-xai-faces-tougher-road-building-out-dat",
+      "publishedAt": "2026-01-17T01:35:08+00:00",
+      "date": "2026-01-17 01:35:08",
+      "importance": 4,
+      "category": "datová centra",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108170649-1752223567421-gettyimages-2199701064-HL_VFEURAY_2670140.jpeg?v=1768605085&w=1920&h=1080",
+      "url": "/tech-news/2026-01-17/elon-musks-xai-faces-tougher-road-building-out-dat/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [
+        "xAI"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Administrativa Trumpa vyzývá technologické firmy, aby platily za nové elektrárny pro AI datová centra",
+      "description": "Bílý dům uspořádal akci s bipartizánní skupinou guvernérů, aby prosadili reformy v největší americké elektrické síti. Cílem je zajistit, aby technologické společnosti financovaly výstavbu nových elektráren kvůli rostoucí poptávce po energii z AI datových center.",
+      "slug": "trump-admin-calls-on-tech-companies-to-pay-energy-",
+      "publishedAt": "2026-01-17T01:09:44+00:00",
+      "date": "2026-01-17 01:09:44",
+      "importance": 4,
+      "category": "ai energetika",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/01/17/d13d0241-474a-4804-8860-0587d721a90b/thumbnail/1200x630/2e4a5dfceec5ac736d6beec722735dd6/gettyimages-2253640278.jpg",
+      "url": "/tech-news/2026-01-17/trump-admin-calls-on-tech-companies-to-pay-energy/",
+      "source": {
+        "emoji": "📺",
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Grok: test pro řízení umělé inteligence",
+      "description": "Porušení systému Grok je vážné. Reakce zahrnující vyšetřování, pozastavení a sankce bude mít odstrašující účinek.",
       "slug": "grok-a-test-for-ai-governance",
       "publishedAt": "2026-01-17T00:45:00+00:00",
       "date": "2026-01-17 00:45:00",
@@ -21,19 +123,37 @@
       "people": []
     },
     {
-      "title": "Factfind: Kdo, pokud vůbec někdo, může být právně odpovědný za obrázky zneužívání na Grok a X?",
-      "description": "Zatímco škody způsobené těmito obrázky jsou jasné, právo je mnohem nejasnější.",
+      "title": "Factfind: Kdo, pokud vůbec někdo, může nést právní odpovědnost za obrázky zneužívání na Grok a X?",
+      "description": "Škody způsobené obrázky zneužívání jsou zřejmé, ale právní situace je mnohem nejasnější.",
       "slug": "factfind-who-if-anyone-can-be-held-legally-respons",
       "publishedAt": "2026-01-17T00:10:13+00:00",
       "date": "2026-01-17 00:10:13",
       "importance": 4,
-      "category": "regulace ai",
+      "category": "právní odpovědnost",
       "urlToImage": "https://img2.thejournal.ie/article/6927689/river/?height=400&version=6927744",
       "url": "/tech-news/2026-01-17/factfind-who-if-anyone-can-be-held-legally-respons/",
       "source": {
         "emoji": "📰",
         "id": null,
         "name": "TheJournal.ie"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Skryté energetické náklady umělé inteligence",
+      "description": "Projekce energetických potřeb sektoru umělé inteligence se do roku 2030 zdvojnásobí, což představuje vážnou výzvu pro energetickou bezpečnost mnoha zemí a regionů.",
+      "slug": "the-hidden-energy-costs-of-artificial-intelligence",
+      "publishedAt": "2026-01-17T00:00:00+00:00",
+      "date": "2026-01-17 00:00:00",
+      "importance": 4,
+      "category": "energetika ai",
+      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2026-01-16_uh9bcoqyvl.jpg",
+      "url": "/tech-news/2026-01-17/the-hidden-energy-costs-of-artificial-intelligence/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "OilPrice.com"
       },
       "companies": [],
       "people": []
@@ -3799,49 +3919,6 @@
       "people": []
     },
     {
-      "title": "Sam Altman z OpenAI: '0%' šance, že mě nadchne být šéfem veřejné společnosti – 'V některých ohledech to bude opravdu otravné'",
-      "description": "Šéf OpenAI Sam Altman prohlásil, že má nulovou motivaci řídit veřejnou společnost a očekává, že to bude otravné. Přesto uznává výhody účasti veřejných trhů na tvorbě hodnoty, ale preferuje soukromé financování kvůli potřebám kapitálu.",
-      "slug": "openais-sam-altman-says-0-chance-hes-excited-to-be",
-      "publishedAt": "2026-01-11T19:31:20+00:00",
-      "date": "2026-01-11 19:31:20",
-      "importance": 4,
-      "category": "startupy",
-      "urlToImage": "https://s.yimg.com/os/en/Benzinga/ee3d3bf6644841e689d09b577921f0de",
-      "url": "/tech-news/2026-01-11/openais-sam-altman-says-0-chance-hes-excited-to-be/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": [
-        "Sam Altman"
-      ]
-    },
-    {
-      "title": "Google rozšiřuje nákupní funkce Gemini s podporou umělé inteligence",
-      "description": "Google rozšiřuje nákupní funkce v AI chatbotu Gemini spoluprací s Walmartem, Shopify, Wayfair a dalšími maloobchodníky, čímž aplikaci mění na virtuálního obchodníka i asistenta. Novinka umožňuje okamžité platby přímo v chatu bez nutnosti opustit aplikaci.",
-      "slug": "google-expands-ai-assisted-shopping-features-of-ge",
-      "publishedAt": "2026-01-11T19:10:12+00:00",
-      "date": "2026-01-11 19:10:12",
-      "importance": 4,
-      "category": "ai nákupy",
-      "urlToImage": "https://cmg-cmg-tv-10080-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FZ2R356A2ZQ72FHJVBGY77SQX4Y.jpg?auth=69e23799266dd6186a6f5cb241930ee758b0cef06e89efc8d85eadf46fe9fac0&width=1200&height=630&smart=true",
-      "url": "/tech-news/2026-01-11/google-expands-ai-assisted-shopping-features-of-ge/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "WPXI Pittsburgh"
-      },
-      "companies": [
-        "Google",
-        "Shopify"
-      ],
-      "people": []
-    },
-    {
       "title": "SpaceX dostalo schválení na vypuštění dalších 7 500 satelitů Starlink nové generace do oběžné dráhy",
       "description": "Starlink bude mít za pět let 15 000 satelitů Gen2 na oběžné dráze po regulačním rozhodnutí. Rozhodnutí FCC umožní vyšší kapacitu a nižší latenci internetového připojení.",
       "slug": "spacex-just-got-approval-to-launch-another-7500-ne",
@@ -3859,24 +3936,6 @@
       "companies": [
         "SpaceX"
       ],
-      "people": []
-    },
-    {
-      "title": "Obrázky dětí od Grok pravděpodobně nejsou trestné, říká expert na ochranu dětí",
-      "description": "Ať už zákon existuje nebo ne, není důvod, aby program jako Grok generoval obrázky lidí bez oblečení, tvrdí bývalý irský policista Mick Moran. Obrázky dětí vytvořené chatbotem Grok od Elona Muska neplní definici materiálu s dětským sexuálním zneužíváním podle irského zákona z roku 1998.",
-      "slug": "grok-images-of-children-probably-not-prosecutable-",
-      "publishedAt": "2026-01-11T16:14:58+00:00",
-      "date": "2026-01-11 16:14:58",
-      "importance": 4,
-      "category": "etika ai",
-      "urlToImage": "https://www.irishtimes.com/resizer/v2/ZMSACVYNLQQVSRJNCU4HFCS3GM.jpg?smart=true&auth=df0d7d9be929df49d9ca153abb59242848123ca9108606193a27d347bb9d21af&width=1200&height=630",
-      "url": "/tech-news/2026-01-11/grok-images-of-children-probably-not-prosecutable/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-irish-times",
-        "name": "The Irish Times"
-      },
-      "companies": [],
       "people": []
     },
     {
@@ -3944,28 +4003,6 @@
       ]
     },
     {
-      "title": "NVIDIA na CES 2026 představila nové otevřené AI modely a platformu Vera Rubin s pětinásobným výkonem",
-      "description": "NVIDIA na veletrhu CES 2026 odhalila 13 nových otevřených AI modelů a platformu Vera Rubin, která přináší pětinásobný nárůst výkonu oproti předchozí generaci. Tyto technologie cílí na autonomní vozidla, robotiku a zdravotnictví a jsou již integrovány partnery jako AWS nebo Mercedes-Benz.",
-      "slug": "nvidia-unveils-new-open-ai-models-at-ces-2026-new-",
-      "publishedAt": "2026-01-11T11:00:54+00:00",
-      "date": "2026-01-11 11:00:54",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/01/neotron-speech-asr-live-captioning_optimized.jpg",
-      "url": "/tech-news/2026-01-11/nvidia-unveils-new-open-ai-models-at-ces-2026-new/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [
-        "NVIDIA"
-      ],
-      "people": [
-        "Sam Witteveen"
-      ]
-    },
-    {
       "title": "Více než 17,5 milionu uživatelů Instagramu má osobní data na prodej na dark webu: Zpráva",
       "description": "Údajně uniklý datový soubor obsahuje citlivé informace, jako uživatelská jména, fyzické adresy, telefonní čísla a e-mailové adresy. Meta popírá bezpečnostní incident a tvrdí, že problém s žádostmi o reset hesel byl opraven.",
       "slug": "over-175-million-instagram-users-personal-data-for",
@@ -4003,51 +4040,6 @@
         "Google"
       ],
       "people": []
-    },
-    {
-      "title": "Nvidia a Tesla směřují k autonomnímu řízení různými cestami",
-      "description": "Nvidia chce dodávat inteligentní vrstvu pro autonomní vozy bez stavby vlastních aut, přesto si přeje vlastnit technologii, která autonomní řízení uskuteční.",
-      "slug": "nvidia-tesla-chase-same-self-driving-goal-via-vary",
-      "publishedAt": "2026-01-11T04:09:34+00:00",
-      "date": "2026-01-11 04:09:34",
-      "importance": 4,
-      "category": "autonomní řízení",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/almvyv/article70496936.ece/alternates/LANDSCAPE_1200/2025-12-15T182105Z_597744865_RC2IHU9IHVNG_RTRMADP_3_SCHEDMD-M-A-NVIDIA.JPG",
-      "url": "/tech-news/2026-01-11/nvidia-tesla-chase-same-self-driving-goal-via-vary/",
-      "source": {
-        "emoji": "💹",
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "companies": [
-        "Nvidia",
-        "Tesla"
-      ],
-      "people": []
-    },
-    {
-      "title": "Jensen Huang propaguje technologii autonomních vozů Nvidia a vyvolává reakci Elona Muska z Tesly",
-      "description": "V pondělí Huang ve svém projevu na největší technologické veletrhu v USA chválil Nvidia Alpamayo, open-source AI model navržený pro urychlení vývoje Level 4 autonomních vozů.",
-      "slug": "jensen-huang-pitches-nvidias-self-driving-car-tech",
-      "publishedAt": "2026-01-11T03:21:17+00:00",
-      "date": "2026-01-11 03:21:17",
-      "importance": 4,
-      "category": "autonomní vozy",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2026/01/11/1600x900/logo/US-TECHNOLOGY-AI-CES-29_1768101665498_1768101705412.jpg",
-      "url": "/tech-news/2026-01-11/jensen-huang-pitches-nvidias-self-driving-car-tech/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Livemint"
-      },
-      "companies": [
-        "Nvidia",
-        "Tesla"
-      ],
-      "people": [
-        "Jensen Huang",
-        "Elon Musk"
-      ]
     }
   ]
 }
