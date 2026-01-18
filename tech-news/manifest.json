@@ -1,7 +1,133 @@
 {
-  "generated": "2026-01-18T08:41:55.548001+00:00",
+  "generated": "2026-01-18T12:52:53.733454+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "OpenAI, Anthropic a Google představily nové nástroje AI pro zdravotnictví – takto fungují",
+      "description": "Obavy z ochrany dat a halucinací nezpomalují přijetí automatizace v zdravotnictví.",
+      "slug": "openai-anthropic-and-google-all-have-new-ai-health",
+      "publishedAt": "2026-01-17T12:00:49+00:00",
+      "date": "2026-01-17 12:00:49",
+      "importance": 4,
+      "category": "zdravotnické ai",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/1440536d0bad807db38b431be8588c28f78d610f/2026/01/16/f122ca9d-da43-464c-b490-b606a31765aa/stethoscope-gettyimages-1432009995.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "url": "/tech-news/2026-01-17/openai-anthropic-and-google-all-have-new-ai-health/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "ZDNet"
+      },
+      "companies": [
+        "OpenAI",
+        "Anthropic",
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "OpenAI plánuje zavést reklamy pro uživatele ChatGPT",
+      "description": "OpenAI začne testovat reklamy v ChatGPT pro uživatele bez placeného předplatného, aby zvýšilo příjmy na pokrytí nákladů na čipy a datacentra přesahujících 1 bilion dolarů.",
+      "slug": "openai-plans-to-introduce-ads-for-chatgpt-users",
+      "publishedAt": "2026-01-17T11:43:43+00:00",
+      "date": "2026-01-17 11:43:43",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-2229106393-68b73e3f64095.jpg?crop=1.00xw:0.849xh;0,0.0839xh&resize=1200:*",
+      "url": "/tech-news/2026-01-17/openai-plans-to-introduce-ads-for-chatgpt-users/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "KOCO Oklahoma City"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Micron kupuje továrnu PSMC na Taiwanu za 1,8 miliardy USD, obě firmy přehodnocují strategie pro paměti v AI",
+      "description": "Micron Technology podepsal exkluzivní záměr o koupi továrny P5 společnosti Powerchip Semiconductor Manufacturing Corporation v Tongluo na Taiwanu v hotovostní transakci v hodnotě 1,8 miliardy USD.",
+      "slug": "micron-to-buy-psmc-taiwan-fab-in-18bn-deal-as-both",
+      "publishedAt": "2026-01-17T11:29:29+00:00",
+      "date": "2026-01-17 11:29:29",
+      "importance": 5,
+      "category": "polovodiče",
+      "urlToImage": "https://img.digitimes.com/newsshow/20260117vl200_files/1_2b.jpg",
+      "url": "/tech-news/2026-01-17/micron-to-buy-psmc-taiwan-fab-in-18bn-deal-as-both/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [
+        "Micron Technology",
+        "Powerchip Semiconductor Manufacturing Corporation"
+      ],
+      "people": []
+    },
+    {
+      "title": "Technologické novinky týdne: Apple spolupracuje s Google na Gemini, masivní výpadek Verizonu, šéf OnePlus v problémech a další",
+      "description": "Tento týden oznámily Apple a Google víceletou spolupráci na integraci modelu Gemini do Siri a dalších AI funkcí v iPhonech od roku 2026. Verizon zažil rozsáhlý výpadek služeb, šéf OnePlus Pete Lau čelí zatykači na Tchaj-wanu, unikly informace o Androidu 17 a Pixel 10a by mohl přijít dříve.",
+      "slug": "tech-news-wrap-apple-snags-gemini-massive-verizon-",
+      "publishedAt": "2026-01-17T11:15:00+00:00",
+      "date": "2026-01-17 11:15:00",
+      "importance": 5,
+      "category": "mobilní technologie",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/qyvommZ3NCXhgZvnbYW6Bi-2560-80.jpg",
+      "url": "/tech-news/2026-01-17/tech-news-wrap-apple-snags-gemini-massive-verizon/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Central"
+      },
+      "companies": [
+        "Apple",
+        "Google",
+        "Verizon",
+        "OnePlus"
+      ],
+      "people": [
+        "Pete Lau"
+      ]
+    },
+    {
+      "title": "ChatGPT Go expanduje globálně s GPT-5.2 Instant, jasnými označenými reklamami a rozšířenou pamětí",
+      "description": "OpenAI spustilo předplatné ChatGPT Go po celém světě za 8 USD měsíčně v USA s lokálními cenami v 171 zemích. Tento stupeň přináší funkce jako GPT-5.2 Instant pro rychlé odpovědi, generování obrázků a nahrávání souborů, přičemž free a Go verze obsahují reklamy pro udržení nízkých cen.",
+      "slug": "chatgpt-go-goes-worldwide-with-gpt-52-instant-clea",
+      "publishedAt": "2026-01-17T11:00:55+00:00",
+      "date": "2026-01-17 11:00:55",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/01/chatgpt-go-plus-pro-compare_optimized.jpg",
+      "url": "/tech-news/2026-01-17/chatgpt-go-goes-worldwide-with-gpt-52-instant-clea/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Plánování, kódování a kontrola souběžně s agenty v Claude Code",
+      "description": "Leon van Zyl popisuje, jak sub-agenti v Claude Code mění pracovní postupy tím, že rozkládají složité úkoly na specializované části. Tyto agenty umožňují delegovat kódování, návrh a testování samostatně, přičemž udržují kontext hlavního projektu.",
+      "slug": "plan-code-and-review-in-parallel-with-agents-in-cl",
+      "publishedAt": "2026-01-17T09:00:21+00:00",
+      "date": "2026-01-17 09:00:21",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/01/context-bounds-claude-code_optimized.jpg",
+      "url": "/tech-news/2026-01-17/plan-code-and-review-in-parallel-with-agents-in-cl/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Izrael a Spojené státy podepsaly společné prohlášení o umělé inteligenci",
       "description": "Izrael a USA uzavřely v Jeruzalémě společné prohlášení v oblasti umělé inteligence v rámci iniciativy Pax Silica. Izrael se stal první zemí z devíti předních států, která toto prohlášení s USA podepsala.",
@@ -153,26 +279,6 @@
       "people": [
         "Trump"
       ]
-    },
-    {
-      "title": "Tesla dostala pět týdnů prodlení v americkém vyšetřování technologie Full Self-Driving",
-      "description": "Americká Národní správa pro bezpečnost silničního provozu (NHTSA) poskytla Tesle pět týdnů navíc na odpověď na obvinění z porušování dopravních předpisů vozy v režimu Full Self-Driving (FSD). Vyšetřování se týká 2,9 milionu vozidel a zahrnuje desítky incidentů včetně prejíždění na červenou a jízdy špatným směrem.",
-      "slug": "tesla-granted-more-time-in-us-investigation-into-i",
-      "publishedAt": "2026-01-17T03:14:20+00:00",
-      "date": "2026-01-17 03:14:20",
-      "importance": 4,
-      "category": "autonomní řízení",
-      "urlToImage": "https://dims.apnews.com/dims4/default/fae829c/2147483647/strip/true/crop/5608x3155+0+292/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F54%2Ff7%2Ff5728a88a2275c49f205d0e468de%2Ff4ea056e3cb1439cb5ac1685c4acffd8",
-      "url": "/tech-news/2026-01-17/tesla-granted-more-time-in-us-investigation-into-i/",
-      "source": {
-        "emoji": "📰",
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "companies": [
-        "Tesla"
-      ],
-      "people": []
     },
     {
       "title": "Nvidia Jensena Huanga zasáhla nečekaná celní blokáda v Číně pro vlajkový čip H200, dodavatelé zastavili výrobu: Zpráva",
@@ -3498,27 +3604,6 @@
       "people": []
     },
     {
-      "title": "Apple žádá Google o pomoc s vylepšením Siri a přidáním dalších AI funkcí na iPhone",
-      "description": "Apple spolupracuje s Googlom na dokončení vývoje vylepšené Siri a dalších funkcí umělé inteligence pro iPhone, protože firma dohání zpoždění v oblasti AI. Partnerství využije technologii Google Gemini k přizpůsobení sady Apple Intelligence.",
-      "slug": "apple-calls-on-google-to-help-smarten-up-siri-and-",
-      "publishedAt": "2026-01-12T19:37:30+00:00",
-      "date": "2026-01-12 19:37:30",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://i.abcnewsfe.com/a/b6495cd0-9b40-4bc4-b557-bfefa5bf0ac5/wirestory_865dfa575279c292bc729a2dfa4e1583_16x9.jpg?w=1600",
-      "url": "/tech-news/2026-01-12/apple-calls-on-google-to-help-smarten-up-siri-and/",
-      "source": {
-        "emoji": "📰",
-        "id": "abc-news",
-        "name": "ABC News"
-      },
-      "companies": [
-        "Apple",
-        "Google"
-      ],
-      "people": []
-    },
-    {
       "title": "Apple volí Gemini",
       "description": "Apple a Google uzavřely víceletou spolupráci, podle níž budou další generace modelů Apple Foundation Models založeny na modelech Gemini od Google a cloudové infrastruktuře. Tyto modely pohání budoucí funkce Apple Intelligence, včetně personalizovanější verze Siri, při zachování soukromí dat.",
       "slug": "apple-picks-gemini",
@@ -3558,27 +3643,6 @@
       "people": []
     },
     {
-      "title": "Apple žádá Google o pomoc s rozšířením AI funkcí na iPhonu",
-      "description": "Apple spolupracuje s Googlem na dokončení vývoje vylepšené Siri a dalších AI funkcí pro iPhone v rámci sady Apple Intelligence. Partnerství využívá technologii Gemini od Googlu, protože Apple zaostává za konkurencí v oblasti umělé inteligence.",
-      "slug": "apple-asks-google-to-help-bring-more-ai-features-t",
-      "publishedAt": "2026-01-12T19:11:59+00:00",
-      "date": "2026-01-12 19:11:59",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://dims.apnews.com/dims4/default/65a86cc/2147483647/strip/true/crop/3680x2070+0+192/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F30%2F8c%2F418f779e836ac5583a9ad8bd7b39%2F7311627f144f48a1ae6a7bba0c2ba217",
-      "url": "/tech-news/2026-01-12/apple-asks-google-to-help-bring-more-ai-features-t/",
-      "source": {
-        "emoji": "📰",
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "companies": [
-        "Apple",
-        "Google"
-      ],
-      "people": []
-    },
-    {
       "title": "Tržní kapitalizace mateřské společnosti Google dosáhla 4 bilionů dolarů díky úspěchům v AI",
       "description": "Mateřská společnost Google, Alphabet, dosáhla tržní kapitalizace 4 bilionů dolarů díky pokrokům v umělé inteligenci. Akcie stouply na rekordních 334,04 dolaru a společnost se stala čtvrtou firmou, která tento milník překonala.",
       "slug": "google-parent-companys-market-cap-hits-4-trillion-",
@@ -3596,26 +3660,6 @@
       "companies": [
         "Alphabet",
         "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Anthropic posiluje zaměření na zdravotnictví novým programem pro Claude",
-      "description": "Společnost Anthropic představila program „Claude for Healthcare“, který zahrnuje řadu integrací pro svůj model umělé inteligence Claude určených pro zdravotnický sektor. Tyto nástroje umožňují poskytovatelům péče, pacientům a pojišťovnám využívat AI pro lékařské účely prostřednictvím produktů kompatibilních s normou HIPAA.",
-      "slug": "anthropic-increases-medical-focus-with-new-claude-",
-      "publishedAt": "2026-01-12T19:03:26+00:00",
-      "date": "2026-01-12 19:03:26",
-      "importance": 4,
-      "category": "zdravotnická ai",
-      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2024/07/Anthropic-Claude-AI.jpg",
-      "url": "/tech-news/2026-01-12/anthropic-increases-medical-focus-with-new-claude/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "pymnts.com"
-      },
-      "companies": [
-        "Anthropic"
       ],
       "people": []
     },
@@ -3915,26 +3959,6 @@
       "people": []
     },
     {
-      "title": "Anthropic vstupuje do zdravotnictví, aby pomohl pacientům pochopit lékařské záznamy",
-      "description": "Vývojář umělé inteligence Anthropic představil nové schopnosti pro zdravotnictví a životní vědy ve svém hlavním chatbota Claude. Uživatelé nyní mohou sdílet lékařské záznamy a data z fitness aplikací, jako je Apple Health, pro personalizovanější analýzu zdraví.",
-      "slug": "anthropic-pushes-into-healthcare-to-help-patients-",
-      "publishedAt": "2026-01-12T01:45:11+00:00",
-      "date": "2026-01-12 01:45:11",
-      "importance": 4,
-      "category": "zdravotnictví",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/Screenshot-from-2026-01-12-08-40-12.png",
-      "url": "/tech-news/2026-01-12/anthropic-pushes-into-healthcare-to-help-patients/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Anthropic"
-      ],
-      "people": []
-    },
-    {
       "title": "Singapur a Japonsko společně pokračují ve vývoji kvantového počítačství",
       "description": "Obě země uzavřely memorandum o spolupráci, které má překlenout mezeru mezi kvantovým výzkumem a komerčními aplikacemi. Jedná se o první mezivládní dohodu Singapuru v tomto sektoru.",
       "slug": "singapore-and-japan-team-up-on-quantum-computing",
@@ -4009,29 +4033,6 @@
       },
       "companies": [],
       "people": []
-    },
-    {
-      "title": "xAI zablokováno přístup k Claude, Anthropic prosazuje pravidla proti konkurentům",
-      "description": "Anthropic zablokoval firmě xAI přístup k modelům Claude poté, co je xAI používala přes nástroj Cursor pro kódování. Spoluzakladatel xAI Tony Wu uvedl, že to krátkodobě sníží produktivitu, ale donutí tým k vývoji vlastních nástrojů.",
-      "slug": "xai-locked-out-of-claude-as-anthropic-enforces-com",
-      "publishedAt": "2026-01-11T14:31:50+00:00",
-      "date": "2026-01-11 14:31:50",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-55848,resizemode-75,msid-126466343/tech/artificial-intelligence/xai-locked-out-of-claude-as-anthropic-enforces-competitor-rules.jpg",
-      "url": "/tech-news/2026-01-11/xai-locked-out-of-claude-as-anthropic-enforces-com/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "xAI",
-        "Anthropic"
-      ],
-      "people": [
-        "Tony Wu"
-      ]
     }
   ]
 }
