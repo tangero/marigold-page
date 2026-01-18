@@ -2,9 +2,9 @@
 author: Marisa Aigen
 category: hardware
 date: '2026-01-17 16:15:00'
-description: Macworld informuje o blížících se čipech M5 Pro a M5 Max pro 14- a 16palcové
-  MacBook Pro. Ty přinesou významná zlepšení výkonu procesoru a grafiky oproti předchozí
-  generaci M4.
+description: Macworld informuje o nadcházejících čipech M5 Pro a M5 Max pro 14- a
+  16palcové MacBook Pro, které přinesou významná zlepšení výkonu oproti M4. Základní
+  M5 již ukázal 13% lepší jednojádrový výkon CPU, 22% vícejádrový a až 50% v grafice.
 importance: 4
 layout: tech_news_article
 original_title: 'The high-end M5 MacBook Pro chips are almost here: Here’s why the
@@ -15,33 +15,31 @@ source:
   emoji: 📰
   id: null
   name: Macworld
-title: 'Vysokovýkonné čipy M5 pro MacBook Pro jsou téměř tady: Proč se vyplatilo čekat'
+title: 'Vysokovýkonné čipy M5 pro MacBook Pro se blíží: Proč se vyplatilo čekat'
 url: https://www.macworld.com/article/3030240/m5-pro-max-macbook-pro-performance-speed-graphics-configurations.html
 urlToImage: https://www.macworld.com/wp-content/uploads/2026/01/m5-pro-max-chip-graphic-6.jpg?quality=50&strip=all&w=1024
 urlToImageBackup: https://www.macworld.com/wp-content/uploads/2026/01/m5-pro-max-chip-graphic-6.jpg?quality=50&strip=all&w=1024
 ---
 
 ## Souhrn
-Apple chystá uvedení čipů M5 Pro a M5 Max do 14- a 16palcových modelů MacBook Pro, pravděpodobně ještě tento měsíc. Recenze základního M5 v 14palcovém MacBook Pro ukázala zlepšení single-core výkonu CPU o 13 procent, multi-core o 22 procent a grafického výkonu o 35 až 50 procent oproti M4, při zachování stejného počtu jader. Tato generace využije novou technologii balení TSMC SoIC-mH pro flexibilnější konfigurace CPU a GPU.
+Apple chystá vydání MacBook Pro s čipy M5 Pro a M5 Max, které by měly tento měsíc debutovat v 14- a 16palcových modelech. Tyto čipy nadále stavějí na architektuře ARM s integrovaným CPU a GPU, přičemž základní M5 v prvním testovaném 14palcovém MacBook Pro přinesl 13% zlepšení v jednojádrovém výkonu CPU, 22% ve vícejádrovém a 35–50% v grafickém výkonu oproti M4. Očekávají se podobné konfigurace jader, ale s lepší efektivitou díky nové technologii balení TSMC SoIC-mH.
 
 ## Klíčové body
-- Zlepšení single-core CPU o 13 procent a multi-core o 22 procent oproti M4.
-- Grafický výkon M5 Max srovnatelný s GeForce RTX 4070, potenciálně přes 250 000 bodů v Geekbench 6 GPU.
-- Stejný maximální počet jader: 14 pro M5 Pro (CPU), 20 pro GPU; 16 CPU a 40 GPU pro M5 Max.
-- Nová technologie TSMC SoIC-mH umožňuje variabilní uspořádání jader.
-- Další modely: M5 Pro v Mac mini na jaře, M5 Max a Ultra v Mac Studio.
+- Zlepšení výkonu oproti M4: 13% single-core CPU, 22% multi-core CPU, 35–50% GPU v základním M5.
+- M5 Max by měl dosáhnout grafického výkonu srovnatelného s GeForce RTX 4070 a překonat 250 000 bodů v Geekbench 6 GPU.
+- Stejný počet jader: max. 14 CPU/20 GPU pro M5 Pro, 16 CPU/40 GPU pro M5 Max.
+- Nové balení TSMC SoIC-mH umožňuje flexibilní konfigurace CPU a GPU.
+- Další zařízení: M5 Pro v Mac mini na jaře, M5 Max/Ultra v Mac Studio.
 
 ## Podrobnosti
-První MacBook Pro s čipem M5, 14palcový model, přinesl překvapivě výrazný skok výkonu oproti M4, i když hardware zůstal v podstatě stejný kromě rychlejšího SSD. Základní M5 má 10jádrový CPU a 10jádrovou GPU, přesto dosáhl 13procentního nárůstu v single-core úlohách, jako je běžné prohlížení webu nebo editace dokumentů, a 22procentního v multi-core, což je klíčové pro renderování videa nebo kompilaci kódu. Největší posun nastal v grafice, kde M5 překonal M4 o 35 až 50 procent, což umožňuje plynulejší práci v aplikacích jako Final Cut Pro nebo Adobe Premiere.
+Článek vychází z recenzí prvního MacBook Pro s čipem M5, kde se kromě rychlejšího SSD nezměnil design, ale výkon skočil výrazně. Základní M5 má 10jádrové CPU a 10jádrové GPU, stejně jako M4, přesto dosáhl těchto zlepšení díky optimalizacím v architektuře a výrobním procesu. Apple neplánuje navyšovat maximální počet jader – M5 Pro zůstane u 14 CPU jader (pravděpodobně 10 výkonnostních a 4 efektivních) a M5 Max u 16. GPU konfigurace by měly být 20 jader pro Pro a 40 pro Max, s podobnou paměťovou pásmovou šířkou a video enkodéry jako u základního M5.
 
-Očekávané M5 Pro a Max udrží stejné maximální konfigurace jako u M4: M5 Pro nabídne až 14 CPU jader (kombinace výkonných a efektivních) a 20 GPU jader, zatímco M5 Max posune strop na 16 CPU a 40 GPU jader. Nižší konfigurace budou dostupné pro levnější modely, jak je u Apple zvykem. Paměťová propustnost, video enkodéry a další prvky by měly následovat vzorec z přechodu M4 na M4 Pro/Max, kde vyšší varianty zdvojnásobily výkon díky většímu počtu jader a širšímu přístupu k paměti.
+Klíčovou novinkou je technologie balení TSMC SoIC-mH (System on Integrated Chips – micro Hybrid bonding), která umožňuje propojit CPU a GPU čipy flexibilněji než předchozí metody. To by mohlo vést k lepšímu škálování výkonu v různých konfiguracích a vyšší energetické efektivitě, což je důležité pro notebooky s dlouhou výdrží baterie. Výrobní proces zůstává na 3 nm, ale s vylepšeními, která zvyšují frekvence a snižují spotřebu.
 
-Klíčovou novinkou je technologie TSMC SoIC-mH (System on Integrated Chips s micro humps), která umožňuje 3D propojení čipletů. To znamená flexibilnější kombinace CPU a GPU bloků bez nutnosti pevně daného designu, což zlepšuje výtěžnost výroby a umožňuje přizpůsobení pro různé úlohy. Například v MacBook Pro by to mohlo znamenat lepší rovnováhu mezi výkonem a spotřebou energie. Výroba probíhá na 2nm procesu TSMC, což snižuje spotřebu oproti 3nm u M4 a zvyšuje hustotu tranzistorů.
-
-Po MacBook Pro následují desktopové varianty: M5 Pro v Mac mini na jaře a M5 Max s Ultra v Mac Studio, kde Ultra spojí dva Max čipy pro extrémní výkon v profesionálních workflow.
+Očekávané vydání: 14- a 16palcové MacBook Pro tento měsíc, následně na jaře M5 Pro v Mac mini a M5 Max/Ultra v Mac Studio. Tyto čipy slouží k náročné práci jako video editace v Final Cut Pro, 3D modelování v Blenderu nebo machine learning úlohy v TensorFlow, kde integrované Neural Engine zpracovává AI inference rychleji. Pro srovnání, M4 Max dosahuje kolem 200 000 bodů v Geekbench GPU, takže M5 Max by předstihl desktopové GPU jako RTX 4070 v určitých testech, při nižší spotřebě (kolem 100 W oproti 200+ W u NVIDIA).
 
 ## Proč je to důležité
-Tato generace M5 posiluje pozici Apple Silicon v profesionálním segmentu, kde exceluje v úlohách machine learningu díky unified memory architektuře a Neural Engine. Pro uživatele znamená rychlejší export videa, lepší podporu AI modelů v aplikacích jako Logic Pro nebo Xcode a konkurenci NVIDIA GPU v kreativním softwaru. V širším kontextu IT to tlačí na Intel a AMD k inovacím v mobilních čipech a posiluje ekosystém Apple pro vývojáře AI, kteří preferují macOS pro jeho stabilitu. Nicméně skok není revoluční – závisí na optimalizaci softwaru a reálném chlazení v tenkém MacBooku. Pro průmysl to signalizuje přechod k čipletovým designům, což ovlivní i konkurenty jako Qualcomm.
+Pro profesionální uživatele – editory, developery a AI specialisty – znamená vyšší výkon v kompaktním balení konkurenční výhodu oproti Windows notebookům s Intel/AMD CPU a diskrétními GPU. Apple tak posiluje dominanci v segmentu high-end laptopů, kde ARM architektura překonává x86 v efektivitě. V širším kontextu to tlačí konkurenty jako Qualcomm (Snapdragon X Elite) a NVIDIA k inovacím v mobilních SoC. Pro průmysl to urychlí adopci AI workloadů na edge zařízeních, protože vyšší GPU výkon umožňuje lokální trénink menších modelů LLM bez cloudu. Nicméně zůstává závislost na uzavřeném ekosystému macOS, což omezuje kompatibilitu s některým softwarem.
 
 ---
 

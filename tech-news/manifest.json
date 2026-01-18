@@ -1,10 +1,140 @@
 {
-  "generated": "2026-01-18T16:47:21.733354+00:00",
+  "generated": "2026-01-18T20:41:43.690015+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "Vysokovýkonné čipy M5 pro MacBook Pro jsou téměř tady: Proč se vyplatilo čekat",
-      "description": "Macworld informuje o blížících se čipech M5 Pro a M5 Max pro 14- a 16palcové MacBook Pro. Ty přinesou významná zlepšení výkonu procesoru a grafiky oproti předchozí generaci M4.",
+      "title": "Kdo jsou čtyři vynálezci indického původu za nejnovějším patentem Tesla na AI od Elona Muska?",
+      "description": "Patent Tesla na AI technologii, který vyvinul tým s několika vynálezci indického původu, vyvolal debatu na platformě X. Elon Musk tým pochválil, ale někteří uživatelé upozornili na rozpor mezi oslavou inovací a kritickými názory na imigranty v IT.",
+      "slug": "who-are-the-four-indian-origin-inventors-behind-el",
+      "publishedAt": "2026-01-17T20:13:32+00:00",
+      "date": "2026-01-17 20:13:32",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-126627888,width-1280,height-720,imgsize-582398,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "url": "/tech-news/2026-01-17/who-are-the-four-indian-origin-inventors-behind-el/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Tesla"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Antimonopolní panika přispěla k pádu amerického pionýra v robotice",
+      "description": "Antimonopolní regulátoři blokováním akvizice Amazonu společností iRobot, tvůrcem robotických vysavačů Roomba, naopak oslabili konkurenci. To vedlo k bankrotu americké firmy v prosinci a jejímu převzetí čínským věřitelem.",
+      "slug": "antitrust-panic-helped-kill-an-american-robotics-p",
+      "publishedAt": "2026-01-17T20:00:00+00:00",
+      "date": "2026-01-17 20:00:00",
+      "importance": 4,
+      "category": "robotika",
+      "urlToImage": "https://www.theblaze.com/media-library/antitrust-panic-helped-kill-an-american-robotics-pioneer.jpg?id=62823438&width=1200&height=600&coordinates=0%2C128%2C0%2C128",
+      "url": "/tech-news/2026-01-17/antitrust-panic-helped-kill-an-american-robotics-p/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "TheBlaze"
+      },
+      "companies": [
+        "Amazon",
+        "iRobot"
+      ],
+      "people": []
+    },
+    {
+      "title": "Uvnitř xAI a budoucnost milionů emulovaných lidí",
+      "description": "Rozhovor se Sulaimanem Ghorim, členem technického týmu xAI, odhaluje plány na emulaci milionů virtuálních lidí pomocí distribuovaných čipů v Tesla vozech. Klíčovou výhodou xAI je rychlost nasazení hardwaru a schopnost předvídat úzke hrdla v rozvoji.",
+      "slug": "inside-xai-and-future-of-millions-of-emulated-huma",
+      "publishedAt": "2026-01-17T18:57:21+00:00",
+      "date": "2026-01-17 18:57:21",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/01/Screenshot-2026-01-17-at-10.56.07-AM.jpg",
+      "url": "/tech-news/2026-01-17/inside-xai-and-future-of-millions-of-emulated-huma/",
+      "source": {
+        "emoji": "📰",
+        "id": "next-big-future",
+        "name": "Next Big Future"
+      },
+      "companies": [
+        "xAI",
+        "Tesla"
+      ],
+      "people": [
+        "Sulaiman Ghori"
+      ]
+    },
+    {
+      "title": "Na pokraji superinteligence: Musk žaluje OpenAI, aby ochromil jejich financování",
+      "description": "Žaloba Elona Muska má zabránit plnému přechodu OpenAI na model zaměřený na zisk a potenciálně narušit vazby s Microsoftem. Důkazy ukazují úmysl porušit rané dohody, což i při vítězství OpenAI v roce 2026 vytvoří nejistotu u investorů a zpomalí jejich pokrok v závodě o umělou inteligenci.",
+      "slug": "on-the-verge-of-superintelligence-musk-sues-openai",
+      "publishedAt": "2026-01-17T18:31:01+00:00",
+      "date": "2026-01-17 18:31:01",
+      "importance": 5,
+      "category": "ai",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/01/Screenshot-2026-01-17-at-10.26.28-AM.jpg",
+      "url": "/tech-news/2026-01-17/on-the-verge-of-superintelligence-musk-sues-openai/",
+      "source": {
+        "emoji": "📰",
+        "id": "next-big-future",
+        "name": "Next Big Future"
+      },
+      "companies": [
+        "OpenAI",
+        "Microsoft"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Appleův upgrade MacBooku Pro na OLED a dotykový displej může přijít dříve, než se očekávalo",
+      "description": "Upgrade na OLED displej pro MacBook Pro byl dříve očekáván na konec roku 2026, ale masová výroba panelů od Samsungu už probíhá, což naznačuje možný předčasný start. Nové displeje by měly podporovat dotykové ovládání.",
+      "slug": "apples-oled-touchscreen-macbook-pro-upgrade-could-",
+      "publishedAt": "2026-01-17T17:30:00+00:00",
+      "date": "2026-01-17 17:30:00",
+      "importance": 4,
+      "category": "notebooky",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/HnwuA9J8xyyyy2ovz3Kst-2000-80.jpg",
+      "url": "/tech-news/2026-01-17/apples-oled-touchscreen-macbook-pro-upgrade-could/",
+      "source": {
+        "emoji": "📰",
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Jel jsem v novém plně autonomním robotaxi od Hyundai – a naviguje divokými ulicemi Las Vegas překvapivě dobře",
+      "description": "Hyundai a Motional spustí novou robotaxi službu v Las Vegas ještě letos, konečným cílem jsou bezřidičovská auta, která si budete moci koupit.",
+      "slug": "i-took-a-ride-in-hyundais-new-fully-autonomous-rob",
+      "publishedAt": "2026-01-17T17:00:00+00:00",
+      "date": "2026-01-17 17:00:00",
+      "importance": 4,
+      "category": "autonomní vozy",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/r9ZFznzJn4tHGNnSGiZWFW-1920-80.jpg",
+      "url": "/tech-news/2026-01-17/i-took-a-ride-in-hyundais-new-fully-autonomous-rob/",
+      "source": {
+        "emoji": "📰",
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "companies": [
+        "Hyundai",
+        "Motional"
+      ],
+      "people": []
+    },
+    {
+      "title": "Vysokovýkonné čipy M5 pro MacBook Pro se blíží: Proč se vyplatilo čekat",
+      "description": "Macworld informuje o nadcházejících čipech M5 Pro a M5 Max pro 14- a 16palcové MacBook Pro, které přinesou významná zlepšení výkonu oproti M4. Základní M5 již ukázal 13% lepší jednojádrový výkon CPU, 22% vícejádrový a až 50% v grafice.",
       "slug": "the-high-end-m5-macbook-pro-chips-are-almost-here-",
       "publishedAt": "2026-01-17T16:15:00+00:00",
       "date": "2026-01-17 16:15:00",
@@ -3667,45 +3797,6 @@
       ]
     },
     {
-      "title": "Grok zablokován v Malajsii a Indonésii kvůli rostoucímu skandálu s sexuálními deepfakes",
-      "description": "Rostoucí kontrola nad Grok se prohlubuje v EU, Indii, Francii a Velké Británii, která pondělí oznámila záměr kriminalizovat aplikace na odhalování těla. Malajsie a Indonésie jako první země zablokovaly tento AI chatbot od xAI kvůli zneužití na tvorbu nevýslovných sexuálních obrázků.",
-      "slug": "grok-blocked-in-malaysia-and-indonesia-as-sexual-d",
-      "publishedAt": "2026-01-12T19:33:44+00:00",
-      "date": "2026-01-12 19:33:44",
-      "importance": 4,
-      "category": "deepfakes",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/01/GettyImages-2254661247-e1768246051199.jpg?resize=1200,600",
-      "url": "/tech-news/2026-01-12/grok-blocked-in-malaysia-and-indonesia-as-sexual-d/",
-      "source": {
-        "emoji": "📰",
-        "id": "fortune",
-        "name": "Fortune"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Tržní kapitalizace mateřské společnosti Google dosáhla 4 bilionů dolarů díky úspěchům v AI",
-      "description": "Mateřská společnost Google, Alphabet, dosáhla tržní kapitalizace 4 bilionů dolarů díky pokrokům v umělé inteligenci. Akcie stouply na rekordních 334,04 dolaru a společnost se stala čtvrtou firmou, která tento milník překonala.",
-      "slug": "google-parent-companys-market-cap-hits-4-trillion-",
-      "publishedAt": "2026-01-12T19:10:19+00:00",
-      "date": "2026-01-12 19:10:19",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2025/09/Google-Gemini-artificial-intelligence-AI.jpg",
-      "url": "/tech-news/2026-01-12/google-parent-companys-market-cap-hits-4-trillion/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "pymnts.com"
-      },
-      "companies": [
-        "Alphabet",
-        "Google"
-      ],
-      "people": []
-    },
-    {
       "title": "Nový americký velvyslanec v Indii prosazuje hlubší obchodní vazby navzdory napětí kvůli ropě",
       "description": "USA a Indie intenzivně pracují na bilaterální obchodní dohodě k posílení ekonomického a strategického partnerství. Nový velvyslanec Sergio Gor zdůraznil odhodlání překonat rozdíly, včetně sporů o ruské ropy, a pozval Indii do iniciativy Pax Silica pro bezpečný dodavatelský řetězec křemíku.",
       "slug": "new-us-ambassador-to-india-pushes-for-deeper-trade",
@@ -3823,44 +3914,6 @@
       "people": []
     },
     {
-      "title": "Grok AI: Malajsie a Indonésie blokují chatbot na platformě X kvůli sexuálně explicitním deepfakům",
-      "description": "Malajsie a Indonésie zablokovaly přístup k AI chatbotu Grok na platformě X kvůli jeho schopnosti generovat sexuálně explicitní deepfakes reálných lidí. Tyto jihovýchodní asijské země jsou první na světě, které takový krok podnikly, a v Británii roste tlak na podobné opatření.",
-      "slug": "grok-ai-malaysia-and-indonesia-block-x-chatbot-ove",
-      "publishedAt": "2026-01-12T06:46:27+00:00",
-      "date": "2026-01-12 06:46:27",
-      "importance": 4,
-      "category": "deepfakes",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f1bf/live/85906d70-ef5c-11f0-9985-e3c22e39243f.jpg",
-      "url": "/tech-news/2026-01-12/grok-ai-malaysia-and-indonesia-block-x-chatbot-ove/",
-      "source": {
-        "emoji": "📰",
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Googleův Gemini posiluje pozici v AI pro online nakupování",
-      "description": "Google představil novou verzi profesionálního balíku Gemini Enterprise for Customer Experience (CX), který je určený pro online maloobchod a umožňuje plynulé interakce od vyhledávání produktů po zákaznickou podporu. Spolupracuje s velkými řetězci jako Walmart, Kroger, Lowe’s a Papa John’s.",
-      "slug": "googles-gemini-seeks-edge-in-ai-for-online-shoppin",
-      "publishedAt": "2026-01-12T06:43:42+00:00",
-      "date": "2026-01-12 06:43:42",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.channelstv.com/wp-content/uploads/2025/04/Google.jpg",
-      "url": "/tech-news/2026-01-12/googles-gemini-seeks-edge-in-ai-for-online-shoppin/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Channels Television"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
       "title": "Malajsie pozastavila přístup k Muskovo AI Grok: regulátor",
       "description": "Malajsie dočasně zablokovala přístup k chatbotu Grok od Elona Muska kvůli generování pornografického obsahu včetně obrázků žen a dětí. Rozhodnutí následuje po globální kritice a předchozím kroku Indonésie.",
       "slug": "malaysia-suspends-access-to-musks-grok-ai-regulato",
@@ -3961,26 +4014,6 @@
       "people": []
     },
     {
-      "title": "Google spolupracuje s Walmartem a dalšími prodejci na nákupy v AI chatbotu Gemini",
-      "description": "Funkce okamžitého nákupu umožní zákazníkům objednávat zboží od vybraných firem a prostřednictvím různých platebních poskytovatelů přímo v chatu Gemini, ve kterém produkty hledali, uvedli Walmart a Google.",
-      "slug": "google-teams-up-with-walmart-and-other-retailers-t",
-      "publishedAt": "2026-01-12T02:25:54+00:00",
-      "date": "2026-01-12 02:25:54",
-      "importance": 4,
-      "category": "ai nákupy",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-54562,resizemode-75,msid-126473916/tech/artificial-intelligence/google-teams-up-with-walmart-and-other-retailers-to-enable-shopping-within-gemini-ai-chatbot.jpg",
-      "url": "/tech-news/2026-01-12/google-teams-up-with-walmart-and-other-retailers-t/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
       "title": "Singapur a Japonsko společně pokračují ve vývoji kvantového počítačství",
       "description": "Obě země uzavřely memorandum o spolupráci, které má překlenout mezeru mezi kvantovým výzkumem a komerčními aplikacemi. Jedná se o první mezivládní dohodu Singapuru v tomto sektoru.",
       "slug": "singapore-and-japan-team-up-on-quantum-computing",
@@ -3996,26 +4029,6 @@
         "name": "ComputerWeekly.com"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Google spolupracuje s Walmartem a maloobchodníky na nakupování přímo v chatbota Gemini",
-      "description": "Google rozšiřuje svůj chatbot Gemini o funkce pro nákupy poháněné umělou inteligencí a okamžité vyúčtování prostřednictvím partnerství s Walmartem, Shopify a dalšími maloobchodníky. Tento krok zintenzivňuje soutěž mezi technologickými giganty v oblasti elektronického obchodu založeného na AI.",
-      "slug": "google-partners-with-walmart-retailers-to-enable-s",
-      "publishedAt": "2026-01-12T00:59:27+00:00",
-      "date": "2026-01-12 00:59:27",
-      "importance": 4,
-      "category": "e-commerce",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/d5dgpl/article70499891.ece/alternates/LANDSCAPE_1200/2025-03-05T130238Z_96424677_RC2LU7AVKBC2_RTRMADP_3_GOOGLE-AI-AUSTRALIA.JPG",
-      "url": "/tech-news/2026-01-12/google-partners-with-walmart-retailers-to-enable-s/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "companies": [
-        "Google"
-      ],
       "people": []
     },
     {
