@@ -1,7 +1,139 @@
 {
-  "generated": "2026-01-18T05:05:16.301359+00:00",
+  "generated": "2026-01-18T08:41:55.548001+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Izrael a Spojené státy podepsaly společné prohlášení o umělé inteligenci",
+      "description": "Izrael a USA uzavřely v Jeruzalémě společné prohlášení v oblasti umělé inteligence v rámci iniciativy Pax Silica. Izrael se stal první zemí z devíti předních států, která toto prohlášení s USA podepsala.",
+      "slug": "israel-and-the-united-states-sign-joint-statement-",
+      "publishedAt": "2026-01-17T07:54:36+00:00",
+      "date": "2026-01-17 07:54:36",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": null,
+      "url": "/tech-news/2026-01-17/israel-and-the-united-states-sign-joint-statement/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "USA snižují clo na tchajwanské zboží na 15 % v obchodní dohodě (aktualizace)",
+      "description": "Spojené státy souhlasily se snížením cel na tchajwanské zboží z 20 % na 15 %, bez jejich přičítání k existujícím sazbám největšího příznivce (MFN), uvedl tchajwanský Exekutivní juan v pátečním prohlášení.",
+      "slug": "us-lowers-tariff-on-taiwanese-goods-to-15-in-trade",
+      "publishedAt": "2026-01-17T07:54:30+00:00",
+      "date": "2026-01-17 07:54:30",
+      "importance": 4,
+      "category": "obchodní dohoda",
+      "urlToImage": null,
+      "url": "/tech-news/2026-01-17/us-lowers-tariff-on-taiwanese-goods-to-15-in-trade/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Vše, co zatím víme o skládacím iPhonu od Apple",
+      "description": "První skládací model od Apple může napodobovat zážitek z iPadu mini s poměrem stran 4:3 a technologií pantu z tekutého kovu.",
+      "slug": "everything-we-know-so-dar-about-apples-doldable-ip",
+      "publishedAt": "2026-01-17T07:06:22+00:00",
+      "date": "2026-01-17 07:06:22",
+      "importance": 4,
+      "category": "skládací telefony",
+      "urlToImage": "https://images.indianexpress.com/2026/01/IE-2026-01-10T155523.616-1.jpg",
+      "url": "/tech-news/2026-01-17/everything-we-know-so-dar-about-apples-doldable-ip/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Elon Musk a problémy s úpravami Grok pro omezení funkcí",
+      "description": "Kontroverze kolem funkce Grok pro digitální svlékání vedla k pobouření a obnovila debatu o regulaci rychle se vyvíjející technologie vládami zde i ve světě.",
+      "slug": "elon-musk-and-the-issue-with-his-grok-blocking-twe",
+      "publishedAt": "2026-01-17T07:01:01+00:00",
+      "date": "2026-01-17 07:01:01",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.rte.ie/images/0021c6bf-1600.jpg",
+      "url": "/tech-news/2026-01-17/elon-musk-and-the-issue-with-his-grok-blocking-twe/",
+      "source": {
+        "emoji": "📰",
+        "id": "rte",
+        "name": "RTE"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Společné prohlášení Spojených států a Izraele k zahájení strategického partnerství v oblasti umělé inteligence, výzkumu a klíčových technologií",
+      "description": "Vlády USA a Izraele zveřejnily společné prohlášení k zahájení strategického partnerství zaměřeného na umělou inteligenci, výzkum a klíčové technologie. Partnerství je součástí iniciativy Pax Silica a zahrnuje spolupráci v oblastech AI, energie, polovodičů a dalších.",
+      "slug": "joint-statement-of-the-united-states-and-israel-on",
+      "publishedAt": "2026-01-17T06:46:42+00:00",
+      "date": "2026-01-17 06:46:42",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": null,
+      "url": "/tech-news/2026-01-17/joint-statement-of-the-united-states-and-israel-on/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Tento rozpočet by mohl být jiskrou za posunem Indie v oblasti umělé inteligence",
+      "description": "Indický státní rozpočet na rok 2026 přichází v době, kdy Indie zaměřuje na provádění AI strategií. Odborníci volají po strukturálních reformách v oblasti energie, schvalování a politické jistoty, aby bylo možné škálovat výpočetní kapacity.",
+      "slug": "this-budget-could-be-the-spark-behind-indias-ai-po",
+      "publishedAt": "2026-01-17T06:30:40+00:00",
+      "date": "2026-01-17 06:30:40",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126604175,width-1200,height-630,imgsize-61976,overlay-economictimes/articleshow.jpg",
+      "url": "/tech-news/2026-01-17/this-budget-could-be-the-spark-behind-indias-ai-po/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Chcí zákazníci Woolworths, aby AI od Google přidávalo položky do košíku? Brzy se to dozvíme",
+      "description": "NÁZOR: AI bude zohledňovat slevy a akce, nenásilně ovlivňující, co lidé koupí.",
+      "slug": "do-woolworths-shoppers-want-google-ai-adding-items",
+      "publishedAt": "2026-01-17T06:01:18+00:00",
+      "date": "2026-01-17 06:01:18",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/V47ZV2CA6RFGXJNN5AS2T5GPJ4.jpg?auth=a23afb03ea8ad2634778d10624ff0511a17ffd1fb0235b28cbc212583ff837ec&width=1200&height=675&quality=70&focal=1002%2C896&smart=false",
+      "url": "/tech-news/2026-01-17/do-woolworths-shoppers-want-google-ai-adding-items/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "New Zealand Herald"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
     {
       "title": "Trump chce, aby technologické firmy platily za nové elektrárny kvůli AI",
       "description": "Administrativa Donalda Trumpa a guvernérští několika států vyzvali největší americkou elektrickou síť PJM Interconnection, aby velké technologické společnosti financovaly výstavbu nových elektráren. Důvodem je explozivní růst cen elektřiny způsobený datovými centry pro trénink a provoz umělé inteligence.",
@@ -3879,107 +4011,6 @@
       "people": []
     },
     {
-      "title": "Rovnováha sil v umělé inteligenci se může příští rok dramaticky změnit",
-      "description": "Profesor Yutaka Matsuo z Tokijské univerzity očekává, že globální rovnováha sil v umělé inteligenci v roce 2026 prudce změní díky průlomům v čipech, robotice a autonomním vozidlech. Tyto změny by mohly přeskupit lídry mezi firmami i zeměmi.",
-      "slug": "the-ai-power-balance-could-shift-dramatically-next",
-      "publishedAt": "2026-01-11T23:55:13+00:00",
-      "date": "2026-01-11 23:55:13",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://i2.ytimg.com/vi/JkCdPKw3R9w/mqdefault.jpg",
-      "url": "/tech-news/2026-01-11/the-ai-power-balance-could-shift-dramatically-next/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Newsonjapan.com"
-      },
-      "companies": [],
-      "people": [
-        "Yutaka Matsuo"
-      ]
-    },
-    {
-      "title": "Torq získává 140 milionů dolarů při valuaci 1,2 miliardy na rozšíření hyperautomatizace bezpečnosti poháněné AI",
-      "description": "Společnost Torq Ltd., která vyvíjí platformu pro hyperautomatizaci bezpečnosti, oznámila získání 140 milionů dolarů nového financování při valuaci 1,2 miliardy dolarů. Financování poslou k urychlení adopce její platformy bezpečnostních operací poháněné umělou inteligencí a rozšíření marketingových aktivit.",
-      "slug": "torq-raises-140m-at-12b-valuation-to-scale-ai-driv",
-      "publishedAt": "2026-01-11T22:54:14+00:00",
-      "date": "2026-01-11 22:54:14",
-      "importance": 4,
-      "category": "kybernetika",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/torqseriesd.png",
-      "url": "/tech-news/2026-01-11/torq-raises-140m-at-12b-valuation-to-scale-ai-driv/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Torq Ltd"
-      ],
-      "people": []
-    },
-    {
-      "title": "SpaceX dostalo schválení na vypuštění dalších 7 500 satelitů Starlink nové generace do oběžné dráhy",
-      "description": "Starlink bude mít za pět let 15 000 satelitů Gen2 na oběžné dráze po regulačním rozhodnutí. Rozhodnutí FCC umožní vyšší kapacitu a nižší latenci internetového připojení.",
-      "slug": "spacex-just-got-approval-to-launch-another-7500-ne",
-      "publishedAt": "2026-01-11T17:30:00+00:00",
-      "date": "2026-01-11 17:30:00",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/GJb9hjBdUwmRxUthnMr93c-1920-80.jpg",
-      "url": "/tech-news/2026-01-11/spacex-just-got-approval-to-launch-another-7500-ne/",
-      "source": {
-        "emoji": "📰",
-        "id": "techradar",
-        "name": "TechRadar"
-      },
-      "companies": [
-        "SpaceX"
-      ],
-      "people": []
-    },
-    {
-      "title": "Walmart spolupracuje s Alphabetem na nákupích s podporou umělé inteligence v Gemini",
-      "description": "Platforma Gemini od Googlu bude analyzovat záměr uživatelů k nákupu, například dotaz na odstranění skvrny od vína z koberce může vést k odkazům na související produkty Walmartu. Tato integrace umožní přímé nákupy v prohlížeči nebo aplikaci Gemini.",
-      "slug": "walmart-teams-with-alphabet-for-ai-assisted-shoppi",
-      "publishedAt": "2026-01-11T15:53:46+00:00",
-      "date": "2026-01-11 15:53:46",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/01/GettyImages-2247687122-e1768146570671.jpg?resize=1200,600",
-      "url": "/tech-news/2026-01-11/walmart-teams-with-alphabet-for-ai-assisted-shoppi/",
-      "source": {
-        "emoji": "📰",
-        "id": "fortune",
-        "name": "Fortune"
-      },
-      "companies": [
-        "Alphabet"
-      ],
-      "people": []
-    },
-    {
-      "title": "Walmart spolupracuje s Gemini od Google pro snadnější vyhledávání a nákup zboží",
-      "description": "Obchodní řetězec Walmart navázal partnerství s umělou inteligencí Gemini od Google, aby usnadnil zákazníkům objevování a nákup produktů. Má podobnou dohodu s ChatGPT od OpenAI a vlastního AI chatbota Sparky.",
-      "slug": "walmart-teams-up-with-googles-gemini-to-make-it-ea",
-      "publishedAt": "2026-01-11T15:00:01+00:00",
-      "date": "2026-01-11 15:00:01",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108229495-1763673071760-gettyimages-2247687115-jr_12925_4e6vzwin.jpeg?v=1763673473&w=1920&h=1080",
-      "url": "/tech-news/2026-01-11/walmart-teams-up-with-googles-gemini-to-make-it-ea/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNBC"
-      },
-      "companies": [
-        "Google",
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
       "title": "xAI zablokováno přístup k Claude, Anthropic prosazuje pravidla proti konkurentům",
       "description": "Anthropic zablokoval firmě xAI přístup k modelům Claude poté, co je xAI používala přes nástroj Cursor pro kódování. Spoluzakladatel xAI Tony Wu uvedl, že to krátkodobě sníží produktivitu, ale donutí tým k vývoji vlastních nástrojů.",
       "slug": "xai-locked-out-of-claude-as-anthropic-enforces-com",
@@ -4001,45 +4032,6 @@
       "people": [
         "Tony Wu"
       ]
-    },
-    {
-      "title": "Více než 17,5 milionu uživatelů Instagramu má osobní data na prodej na dark webu: Zpráva",
-      "description": "Údajně uniklý datový soubor obsahuje citlivé informace, jako uživatelská jména, fyzické adresy, telefonní čísla a e-mailové adresy. Meta popírá bezpečnostní incident a tvrdí, že problém s žádostmi o reset hesel byl opraven.",
-      "slug": "over-175-million-instagram-users-personal-data-for",
-      "publishedAt": "2026-01-11T09:11:58+00:00",
-      "date": "2026-01-11 09:11:58",
-      "importance": 5,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://images.indianexpress.com/2025/09/Instagram.jpg",
-      "url": "/tech-news/2026-01-11/over-175-million-instagram-users-personal-data-for/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Indian Express"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Revoluce umělé inteligence je zde. Přežije ekonomika přechod?",
-      "description": "Muž, který předpověděl krizi roku 2008, spoluzakladatel Anthropic a přední podcaster o umělé inteligenci vedli veřejnou debatu v Google dokumentu o budoucnosti umělé inteligence a jejích dopadech na ekonomiku i společnost.",
-      "slug": "the-ai-revolution-is-here-will-the-economy-survive",
-      "publishedAt": "2026-01-11T05:47:01+00:00",
-      "date": "2026-01-11 05:47:01",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://substackcdn.com/image/fetch/$s_!zFvh!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89303fb4-8215-4262-8362-180d4debcb75_1024x1024.png",
-      "url": "/tech-news/2026-01-11/the-ai-revolution-is-here-will-the-economy-survive/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Substack.com"
-      },
-      "companies": [
-        "Anthropic",
-        "Google"
-      ],
-      "people": []
     }
   ]
 }
