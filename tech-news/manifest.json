@@ -1,10 +1,159 @@
 {
-  "generated": "2026-01-19T09:01:37.496396+00:00",
+  "generated": "2026-01-19T12:59:50.138249+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "Proč omezení Grok nezastaví nejnovější AI hrozbu společnosti",
-      "description": "X oznámilo blokování Grok před generováním sexualizovaných obrázků reálných lidí. Kontroverze však odhaluje hlubší problém: technologie pro AI odhalování nahoty je již rozšířená, snadno kopírovatelná a téměř nemožno ji obsahovat.",
+      "title": "Poskytovatelé internetu a botnet AISURU/Kimwolf: Diskuse o detekci a mitigaci",
+      "description": "Experti na mailing listu NANOG diskutují, jak poskytovatelé internetových služeb mohou detekovat a blokovat botnet AISURU/Kimwolf, který generuje distribuované útoky typu DoS z infikovaných zařízení zákazníků. Navrhují použití externích malware feedů v uzavřených zahradech poskytovatelů služeb.",
+      "slug": "re-isp-operators-aisurukimwolf-botnet",
+      "publishedAt": "2026-01-18T12:21:07+00:00",
+      "date": "2026-01-18 12:21:07",
+      "importance": 4,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://seclists.org/images/nanog-img.png",
+      "url": "/tech-news/2026-01-18/re-isp-operators-aisurukimwolf-botnet/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Seclists.org"
+      },
+      "companies": [],
+      "people": [
+        "Suresh Ramasubramanian"
+      ]
+    },
+    {
+      "title": "Prozkoumání všech aplikací a nástrojů Google AI pro rok 2026: Včetně pokročilých funkcí Gemini 3",
+      "description": "Blazing Zebra analyzuje rozsáhlý ekosystém Google AI s více než 30 nástroji, které mění tvorbu obsahu, vývoj softwaru a automatizaci úkolů. Článek zdůrazňuje Gemini Advanced s kontextovým oknem 1 milion tokenů a další nástroje pro produktivitu i kreativitu.",
+      "slug": "all-google-ai-apps-tools-for-2026-explored-includi",
+      "publishedAt": "2026-01-18T11:00:56+00:00",
+      "date": "2026-01-18 11:00:56",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/01/notebook-lm-source-grounded-content_optimized.jpg",
+      "url": "/tech-news/2026-01-18/all-google-ai-apps-tools-for-2026-explored-includi/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Elon Musk proti OpenAI: Co nově odtajněné soudní dokumenty odhalují a co ne",
+      "description": "Odtajněné soudní záznamy získané během právního procesu zahrnují výpovědi klíčových osob zapojených do případu, jako jsou Sam Altman, Greg Brockman, Ilya Sutskever, Mira Murati a Satya Nadella. Dokumenty odhalují detaily o sporech kolem změny modelu OpenAI z neziskového na ziskový.",
+      "slug": "elon-musk-vs-openai-what-newly-unsealed-court-docs",
+      "publishedAt": "2026-01-18T10:24:09+00:00",
+      "date": "2026-01-18 10:24:09",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://images.indianexpress.com/2024/03/elon-altman-featured.jpg",
+      "url": "/tech-news/2026-01-18/elon-musk-vs-openai-what-newly-unsealed-court-docs/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": [
+        "Elon Musk",
+        "Sam Altman",
+        "Greg Brockman"
+      ]
+    },
+    {
+      "title": "Tři majitelé Tesla reagují na změnu FSD od Elona Muska",
+      "description": "Reakce majitelů Tesla na oznámení Elona Muska, že systém FSD bude dostupný pouze za 99 dolarů měsíčně, se pohybují od frustrace po nadšení.",
+      "slug": "A-3-tesla-owners-react-to-elon-musks-fsd-change",
+      "publishedAt": "2026-01-18T10:00:01+00:00",
+      "date": "2026-01-18 10:00:01",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://i.insider.com/696a576ba645d11881877b90?width=1200&format=jpeg",
+      "url": "/tech-news/2026-01-18/A-3-tesla-owners-react-to-elon-musks-fsd-change/",
+      "source": {
+        "emoji": "📰",
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "companies": [
+        "Tesla"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Rusko spustí rivala Elonova Muska Starlinku – šéf Roscosmosu",
+      "description": "Rusko uvede do oběhu více než 300 komunikačních satelitů a vytvoří vlastní satelitní internetovou síť podobnou Starlinku do roku 2027, oznámil šéf Roscosmosu Dmitrij Bakanov. Síť má konkurovat globálnímu pokrytí SpaceX.",
+      "slug": "russia-to-launch-rival-to-elon-musks-starlink-spac",
+      "publishedAt": "2026-01-18T09:30:06+00:00",
+      "date": "2026-01-18 09:30:06",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://mf.b37mrtl.ru/files/2026.01/article/696c8d28203027460917d819.jpg",
+      "url": "/tech-news/2026-01-18/russia-to-launch-rival-to-elon-musks-starlink-spac/",
+      "source": {
+        "emoji": "📰",
+        "id": "rt",
+        "name": "RT"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk",
+        "Dmitry Bakanov"
+      ]
+    },
+    {
+      "title": "Stěny se stahují na Teslu",
+      "description": "Článek kriticky analyzuje problémy Tesly způsobené rozhodnutími Elona Muska, včetně bezpečnostních rizik u dveří vozidel a selhání v prodeji elektromobilů, kde ji překonalo čínské BYD. Popisuje, jak tyto chyby ohrožují budoucnost společnosti.",
+      "slug": "the-walls-are-closing-in-on-tesla",
+      "publishedAt": "2026-01-18T08:39:42+00:00",
+      "date": "2026-01-18 08:39:42",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://substackcdn.com/image/fetch/$s_!OA5e!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7e90712d-c47b-44f4-aab4-30416f7119c4_1600x1121.jpeg",
+      "url": "/tech-news/2026-01-18/the-walls-are-closing-in-on-tesla/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Planetearthandbeyond.co"
+      },
+      "companies": [
+        "Tesla"
+      ],
+      "people": []
+    },
+    {
+      "title": "Íránské potlačení internetu staví Muskův Starlink na velkou zkoušku",
+      "description": "Íránské vypnutí internetu během protestů proměnilo Starlink od SpaceX v záchranné lano pro demonstranty, kteří však čelí rušení signálu a falšování GPS. Reakce společnosti SpaceX sledují vlády a armády kvůli rostoucím geopolitickým rizikům.",
+      "slug": "irans-internet-crackdown-puts-musks-starlink-to-a-",
+      "publishedAt": "2026-01-18T08:27:02+00:00",
+      "date": "2026-01-18 08:27:02",
+      "importance": 4,
+      "category": "satelitní internet",
+      "urlToImage": "https://images.firstpost.com/uploads/2026/01/Untitled-design-76-2026-01-fdec0db86982289b2f8aecf0ad0720f0-1200x675.jpg?im=FitAndFill=(1200,675)",
+      "url": "/tech-news/2026-01-18/irans-internet-crackdown-puts-musks-starlink-to-a/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Firstpost"
+      },
+      "companies": [
+        "SpaceX"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Proč omezení Grok nezastaví nejnovější AI pohromu společnosti",
+      "description": "Platforma X omezila chatbot Grok v generování sexualizovaných obrázků reálných lidí v zemích, kde je takový obsah nelegální. Kontroverze však odhalila hlubší problém: technologie pro AI svlékání na nahotu je již rozšířená, snadno rekreovatelná a téměř nemožno ji omezit.",
       "slug": "why-grok-restrictions-wont-stop-societys-latest-ai",
       "publishedAt": "2026-01-18T08:00:00+00:00",
       "date": "2026-01-18 08:00:00",
@@ -3915,140 +4064,6 @@
       "people": [
         "Kathy Hochul"
       ]
-    },
-    {
-      "title": "Velká Británie zavádí zákon kriminalizující deepfake akty v reakci na Grok",
-      "description": "Velká Británie uvádí v platnost zákon, který činí vytváření nekonzistentních intimních deepfake obrázků trestným činem, v reakci na deepfakes generované chatbotem Grok na platformě X. Zákon vyžaduje od platforem proaktivní kroky k prevenci a Ofcom zahájil vyšetřování X.",
-      "slug": "uk-pushes-up-a-law-criminalizing-deepfake-nudes-in",
-      "publishedAt": "2026-01-12T20:03:49+00:00",
-      "date": "2026-01-12 20:03:49",
-      "importance": 4,
-      "category": "deepfakes",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK262_GROK_B_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "url": "/tech-news/2026-01-12/uk-pushes-up-a-law-criminalizing-deepfake-nudes-in/",
-      "source": {
-        "emoji": "⚡",
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Britský regulátor zahájil vyšetřování platformy X kvůli údajnému nelegálnímu obsahu z Grok AI",
-      "description": "Mediální regulátor Ofcom spustil formální vyšetřování sociální sítě X Elona Muska, zda plní povinnosti chránit britské uživatele před nelegálním obsahem generovaným chatbotem Grok. Vyšetřování navazuje na kontroverzi kolem deepfake obrázků a materiálu zneužívajícího děti, zatímco Malajsie a Indonésie zablokovaly přístup k Grok.",
-      "slug": "uk-regulator-opens-probe-into-x-over-alleged-illeg",
-      "publishedAt": "2026-01-12T11:42:05+00:00",
-      "date": "2026-01-12 11:42:05",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://variety.com/wp-content/uploads/2026/01/elon-musk-grok.jpg?w=1000&h=563&crop=1",
-      "url": "/tech-news/2026-01-12/uk-regulator-opens-probe-into-x-over-alleged-illeg/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Variety"
-      },
-      "companies": [],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Trump a Modi jsou ‚skuteční přátelé‘, Indie a USA ‚aktivně spolupracují‘ v obchodu, říká velvyslanec Sergio Gor",
-      "description": "Nový americký velvyslanec v Indii Sergio Gor zdůraznil hluboké přátelství mezi prezidentem Trumpem a premiérem Modim při převzetí úřadu. Oznámil pokračování obchodních jednání a pozvání Indie do iniciativy PaxSilica pro bezpečný dodavatelský řetězec silikonu včetně polovodičů a AI.",
-      "slug": "trump-modi-are-real-friends-as-india-us-actively-e",
-      "publishedAt": "2026-01-12T07:05:02+00:00",
-      "date": "2026-01-12 07:05:02",
-      "importance": 4,
-      "category": "indicko-americké vzt",
-      "urlToImage": "https://img.etimg.com/thumb/msid-126478014,width-1200,height-630,imgsize-827003,overlay-economictimes/articleshow.jpg",
-      "url": "/tech-news/2026-01-12/trump-modi-are-real-friends-as-india-us-actively-e/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Walmart spolupracuje s Googlem na prosazování ‚obchodování vedeného agenty‘",
-      "description": "Walmart zahájil partnerství s Googlem založené na novém Universal Commerce Protocol. Spolupráce spojuje nástroj umělé inteligence Gemini s nabídkou produktů Walmartu a Sam’s Club, což umožňuje konverzační nákupy přímo v rozhraní Gemini.",
-      "slug": "walmart-teams-with-google-to-promote-agent-led-com",
-      "publishedAt": "2026-01-12T03:56:29+00:00",
-      "date": "2026-01-12 03:56:29",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2023/02/walmart-earnings.jpg",
-      "url": "/tech-news/2026-01-12/walmart-teams-with-google-to-promote-agent-led-com/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "pymnts.com"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Woolworths posílí digitálního asistenta Olive agentickou umělou inteligencí",
-      "description": "Australský maloobchodní gigant je prvním v regionu Asie-Pacifiku, který použije Google Gemini Enterprise for Customer Experience k přeměně svého chatbota na proaktivního nákupního partnera.",
-      "slug": "woolworths-to-power-olive-digital-assistant-with-a",
-      "publishedAt": "2026-01-12T03:04:00+00:00",
-      "date": "2026-01-12 03:04:00",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/Hero Images/retail-supermarket-vegetables-IrinaSokolovskaya-adobe.jpg",
-      "url": "/tech-news/2026-01-12/woolworths-to-power-olive-digital-assistant-with-a/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "ComputerWeekly.com"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Týdenní shrnutí novinek: Vlivy AI na paměti DRAM, HBM4 a globální expanze TSMC",
-      "description": "Nejčtenější příběhy DIGITIMES Asia z prvního plného týdne roku 2026 (5.–11. ledna) se zaměřují na růst cen pamětí DRAM kvůli AI infrastruktuře, vývoj HBM4 a expanzi TSMC v USA.",
-      "slug": "weekly-news-roundup-ai-memory-effects-in-dram-hbm4",
-      "publishedAt": "2026-01-12T02:42:06+00:00",
-      "date": "2026-01-12 02:42:06",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://img.digitimes.com/newsshow/20260112vl201_files/1_2b.jpg",
-      "url": "/tech-news/2026-01-12/weekly-news-roundup-ai-memory-effects-in-dram-hbm4/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
-      },
-      "companies": [
-        "TSMC"
-      ],
-      "people": []
-    },
-    {
-      "title": "Singapur a Japonsko společně pokračují ve vývoji kvantového počítačství",
-      "description": "Obě země uzavřely memorandum o spolupráci, které má překlenout mezeru mezi kvantovým výzkumem a komerčními aplikacemi. Jedná se o první mezivládní dohodu Singapuru v tomto sektoru.",
-      "slug": "singapore-and-japan-team-up-on-quantum-computing",
-      "publishedAt": "2026-01-12T01:30:00+00:00",
-      "date": "2026-01-12 01:30:00",
-      "importance": 4,
-      "category": "kvantové počítačství",
-      "urlToImage": "https://www.computerweekly.com/visuals/German/article/Hero-quantum-computing-AAandW-adobe.jpg",
-      "url": "/tech-news/2026-01-12/singapore-and-japan-team-up-on-quantum-computing/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "ComputerWeekly.com"
-      },
-      "companies": [],
-      "people": []
     }
   ]
 }
