@@ -1,10 +1,95 @@
 {
-  "generated": "2026-01-19T05:11:18.576093+00:00",
+  "generated": "2026-01-19T09:01:37.496396+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "Obavy z bezpečnosti AI",
-      "description": "Australský eSafety komisař upozorňuje na zneužití generativní umělé inteligence Grok na sociální síti X k tvorbě sexualizovaných nebo exploatativních obrázků lidí. Regulator požaduje od X informace o bezpečnostních opatřeních a připravuje se na použití právních nástrojů.",
+      "title": "Proč omezení Grok nezastaví nejnovější AI hrozbu společnosti",
+      "description": "X oznámilo blokování Grok před generováním sexualizovaných obrázků reálných lidí. Kontroverze však odhaluje hlubší problém: technologie pro AI odhalování nahoty je již rozšířená, snadno kopírovatelná a téměř nemožno ji obsahovat.",
+      "slug": "why-grok-restrictions-wont-stop-societys-latest-ai",
+      "publishedAt": "2026-01-18T08:00:00+00:00",
+      "date": "2026-01-18 08:00:00",
+      "importance": 4,
+      "category": "deepfakes",
+      "urlToImage": "https://www.rte.ie/images/0023c044-1600.jpg",
+      "url": "/tech-news/2026-01-18/why-grok-restrictions-wont-stop-societys-latest-ai/",
+      "source": {
+        "emoji": "📰",
+        "id": "rte",
+        "name": "RTE"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "OpenAI snižuje závislost na grafických procesorech NVIDIA díky rychlejším čipům Cerebras",
+      "description": "OpenAI uzavřelo desetimiliardovou dohodu s Cerebras Systems na zlepšení rychlosti AI inference a snížení závislosti na NVIDIA GPU. Partnerství přináší 750 megawattů výpočetního výkonu pro služby jako ChatGPT a podporuje real-time AI interakce.",
+      "slug": "openai-reduces-nvidia-gpu-reliance-with-faster-cer",
+      "publishedAt": "2026-01-18T07:00:52+00:00",
+      "date": "2026-01-18 07:00:52",
+      "importance": 4,
+      "category": "hardware",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/01/gpu-vs-specialized-inference_optimized.jpg",
+      "url": "/tech-news/2026-01-18/openai-reduces-nvidia-gpu-reliance-with-faster-cer/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [
+        "OpenAI",
+        "NVIDIA",
+        "Cerebras Systems"
+      ],
+      "people": []
+    },
+    {
+      "title": "Claude Code pro spisovatele",
+      "description": "Pět užitečných věcí, které jsem dosud vytvořila pomocí Claude Code. Navíc: Grok ustupuje a Thinking Machines se zhroutí.",
+      "slug": "claude-code-for-writers",
+      "publishedAt": "2026-01-18T05:47:01+00:00",
+      "date": "2026-01-18 05:47:01",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.platformer.news/content/images/size/w1200/2026/01/shutterstock_2590594339.jpg",
+      "url": "/tech-news/2026-01-18/claude-code-for-writers/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Platformer.news"
+      },
+      "companies": [
+        "Thinking Machines"
+      ],
+      "people": []
+    },
+    {
+      "title": "Bitva o talenty v AI nabírá na obrátkách: Bývalí zaměstnanci OpenAI se vracejí z Miry Muratiiny Thinking Machines",
+      "description": "OpenAI přijalo zpět tři specialisty – Barret Zoph, Luke Metz a Sam Schoenholz –, kteří odešli do startupu Thinking Machines zakládatelky Miry Murati. Tento pohyb zdůrazňuje intenzivní soutěž o vrcholové AI odborníky v miliardovém sektoru.",
+      "slug": "battle-for-ai-talent-heats-up-as-former-openai-sta",
+      "publishedAt": "2026-01-18T05:43:04+00:00",
+      "date": "2026-01-18 05:43:04",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2026/01/18/1600x900/Mira_Murati_Thinking_Machines_OpenAI_1768714817072_1768714817208.jpg",
+      "url": "/tech-news/2026-01-18/battle-for-ai-talent-heats-up-as-former-openai-sta/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Livemint"
+      },
+      "companies": [
+        "OpenAI",
+        "Thinking Machines"
+      ],
+      "people": [
+        "Mira Murati",
+        "Barret Zoph",
+        "Luke Metz"
+      ]
+    },
+    {
+      "title": "Obavy z bezpečnosti umělé inteligence",
+      "description": "Australský eSafety komisař upozorňuje na zneužití generativního systému umělé inteligence Grok na sociální síti X k tvorbě sexualizovaných nebo exploatativních obrázků lidí. Regulator požaduje od X lepší bezpečnostní opatření a připravuje se na použití právních nástrojů.",
       "slug": "concerns-over-ai-safety",
       "publishedAt": "2026-01-18T02:35:03+00:00",
       "date": "2026-01-18 02:35:03",
@@ -21,34 +106,13 @@
       "people": []
     },
     {
-      "title": "Operátoři ISP a botnet AISURU/Kimwolf",
-      "description": "Diskuse na mailing listu NANOG odhaluje problémy internetových poskytovatelů s botnetem AISURU/Kimwolf, který infikuje zařízení pro nelegální TV vysílání a způsobuje přetížení sítí. Experti navrhují publikovat článek v New York Times, ale pochybují o dopadu na obyčejné uživatele.",
-      "slug": "re-isp-operators-aisurukimwolf-botnet",
-      "publishedAt": "2026-01-18T01:42:30+00:00",
-      "date": "2026-01-18 01:42:30",
-      "importance": 4,
-      "category": "kybernetika",
-      "urlToImage": "https://seclists.org/images/nanog-img.png",
-      "url": "/tech-news/2026-01-18/re-isp-operators-aisurukimwolf-botnet/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Seclists.org"
-      },
-      "companies": [],
-      "people": [
-        "Mel Beckman",
-        "David Pogue"
-      ]
-    },
-    {
       "title": "Čína a USA se musí vážně zabývat riziky umělé inteligence",
-      "description": "V listopadu 2024 vydali prezidenti USA Joe Biden a Číny Si Ťin-pching první podstatné společné prohlášení o národněbezpečnostních rizicích spojených s AI. Oba státy uznávají potřebu udržovat bezpečnost a stabilitu v této oblasti.",
+      "description": "V listopadu 2024 vydali prezidenti USA Joe Biden a Číny Si Ťin-pching první podstatné společné prohlášení o národněbezpečnostních rizicích spojených s umělou inteligencí. Oba státy uznávají potřebu udržovat bezpečnost a stabilitu v této oblasti.",
       "slug": "china-and-america-must-get-serious-about-ai-risk",
       "publishedAt": "2026-01-18T00:15:01+00:00",
       "date": "2026-01-18 00:15:01",
       "importance": 4,
-      "category": "ai rizika",
+      "category": "rizika ai",
       "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2026/01/Khabar-Hub-Article_Jake-Sullivan_1200px-630X-px-Final_2026.01.16-Upload.jpg",
       "url": "/tech-news/2026-01-18/china-and-america-must-get-serious-about-ai-risk/",
       "source": {
@@ -3871,45 +3935,6 @@
       "people": []
     },
     {
-      "title": "Precision Neuroscience a Medtronic integrují rozhraní Layer 7 pro brain-computer interface s neurochirurgickou platformou Medtronic",
-      "description": "Precision Neuroscience oznámila strategické partnerství s Medtronic za účelem pokroku v neurochirurgii. Společně vyvíjejí integrované řešení spojující kortikální rozhraní Layer 7 s navigačním systémem StealthStation, které poskytne neurochirurgům real-time údaje o struktuře a funkci mozku.",
-      "slug": "precision-neuroscience-and-medtronic-partner-to-in",
-      "publishedAt": "2026-01-12T20:00:00+00:00",
-      "date": "2026-01-12 20:00:00",
-      "importance": 4,
-      "category": "neurotechnologie",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/30f132af-7046-4849-993d-ae830a076476",
-      "url": "/tech-news/2026-01-12/precision-neuroscience-and-medtronic-partner-to-in/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [
-        "Precision Neuroscience",
-        "Medtronic"
-      ],
-      "people": []
-    },
-    {
-      "title": "Nový americký velvyslanec v Indii prosazuje hlubší obchodní vazby navzdory napětí kvůli ropě",
-      "description": "USA a Indie intenzivně pracují na bilaterální obchodní dohodě k posílení ekonomického a strategického partnerství. Nový velvyslanec Sergio Gor zdůraznil odhodlání překonat rozdíly, včetně sporů o ruské ropy, a pozval Indii do iniciativy Pax Silica pro bezpečný dodavatelský řetězec křemíku.",
-      "slug": "new-us-ambassador-to-india-pushes-for-deeper-trade",
-      "publishedAt": "2026-01-12T11:52:25+00:00",
-      "date": "2026-01-12 11:52:25",
-      "importance": 4,
-      "category": "mezinárodní obchod",
-      "urlToImage": "https://i.abcnewsfe.com/a/1ec70b31-791d-4bf2-acc4-1ff525f2d616/wirestory_a71870e8eb2f62cb698bda074f4ecd49_16x9.jpg?w=1600",
-      "url": "/tech-news/2026-01-12/new-us-ambassador-to-india-pushes-for-deeper-trade/",
-      "source": {
-        "emoji": "📰",
-        "id": "abc-news",
-        "name": "ABC News"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Britský regulátor zahájil vyšetřování platformy X kvůli údajnému nelegálnímu obsahu z Grok AI",
       "description": "Mediální regulátor Ofcom spustil formální vyšetřování sociální sítě X Elona Muska, zda plní povinnosti chránit britské uživatele před nelegálním obsahem generovaným chatbotem Grok. Vyšetřování navazuje na kontroverzi kolem deepfake obrázků a materiálu zneužívajícího děti, zatímco Malajsie a Indonésie zablokovaly přístup k Grok.",
       "slug": "uk-regulator-opens-probe-into-x-over-alleged-illeg",
@@ -4023,26 +4048,6 @@
         "name": "ComputerWeekly.com"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Motional staví AI do centra restartu robotaxi a míří na bezřidičskou službu v roce 2026 | TechCrunch",
-      "description": "Společnost Motional, která vznikla ze společného podniku Hyundai Motor Group a Aptiv, restartuje své plány na robotaxi s důrazem na umělou inteligenci. Cílem je spuštění komerční bezřidičské služby v Las Vegas do konce roku 2026.",
-      "slug": "motional-puts-ai-at-center-of-robotaxi-reboot-as-i",
-      "publishedAt": "2026-01-12T00:12:36+00:00",
-      "date": "2026-01-12 00:12:36",
-      "importance": 4,
-      "category": "robotaxi",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/01/Motional-hyundai-robotaxi-vegas.jpg?resize=1200,900",
-      "url": "/tech-news/2026-01-12/motional-puts-ai-at-center-of-robotaxi-reboot-as-i/",
-      "source": {
-        "emoji": "🚀",
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "companies": [
-        "Motional"
-      ],
       "people": []
     }
   ]

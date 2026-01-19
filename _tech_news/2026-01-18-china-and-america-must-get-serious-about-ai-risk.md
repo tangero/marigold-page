@@ -1,10 +1,11 @@
 ---
 author: Marisa Aigen
-category: ai rizika
+category: rizika ai
 date: '2026-01-18 00:15:01'
 description: V listopadu 2024 vydali prezidenti USA Joe Biden a Číny Si Ťin-pching
   první podstatné společné prohlášení o národněbezpečnostních rizicích spojených s
-  AI. Oba státy uznávají potřebu udržovat bezpečnost a stabilitu v této oblasti.
+  umělou inteligencí. Oba státy uznávají potřebu udržovat bezpečnost a stabilitu v
+  této oblasti.
 importance: 4
 layout: tech_news_article
 original_title: China and America Must Get Serious About AI Risk
@@ -24,24 +25,24 @@ urlToImageBackup: https://english.khabarhub.com/wp-content/uploads/2026/01/Khaba
 ---
 
 ## Souhrn
-V listopadu 2024 na summitu APEC v Peru vydali prezident USA Joe Biden a prezident Číny Si Ťin-pching první podstatné společné prohlášení zaměřené na národněbezpečnostní rizika umělé inteligence. Dokument zdůrazňuje shodu obou velmocí na nutnosti spolupráce při řešení rizik AI, včetně prevence zneužití v konfliktech a zajištění bezpečného vývoje technologií. Toto prohlášení představuje krok k deeskalaci v globálním závodě o AI nadvládu.
+V listopadu 2024 se na summitu APEC v Peru setkali prezident USA Joe Biden a prezident Číny Si Ťin-pching a vydali společné prohlášení o rizicích umělé inteligence pro národní bezpečnost. Oba lídři zdůraznili nutnost spolupráce na prevenci zneužití AI, včetně kybernetických hrozeb a destabilizujících technologií. Toto je první takto konkrétní diplomatická dohoda mezi dvěma supervelmocemi v oblasti AI bezpečnosti.
 
 ## Klíčové body
-- První substantivní společné prohlášení USA a Číny o národněbezpečnostních rizicích AI.
-- Shoda na potřebě udržovat bezpečnost a stabilitu AI systémů.
-- Závazek k dialogu o rizicích, včetně testování bezpečnosti modelů a prevence misinformací.
-- Odkaz na existující rámce, jako jsou exportní kontroly na AI čipy.
-- Výzva k mezinárodní spolupráci bez omezení technologického pokroku.
+- Společné uznání rizik AI pro národní bezpečnost, včetně možného zneužití v kyberútocích a šíření dezinformací.
+- Závazek k dialogu o bezpečnostních standardech pro AI modely, jako jsou velké jazykové modely (LLM).
+- Plán na pokračující konzultace mezi expertům z obou zemí.
+- Omezení na vojenské aplikace AI, bez detailů o civilních sektorech.
+- Kontext napětí v obchodu s čipy a exportní kontroly USA.
 
 ## Podrobnosti
-Prohlášení bylo publikováno po bilaterálním setkání Bidenových a Siových na okraji summitu APEC v Limě, kde obě strany uznaly, že rychlý vývoj AI přináší nejen příležitosti, ale i závažná rizika pro národní bezpečnost. Mezi klíčové body patří uznání potřeby "udržovat bezpečnost a stabilitu AI v systémech kritické infrastruktury", což zahrnuje ochranu před autonomními zbraněmi, kybernetickými útoky podporovanými AI nebo ztrátou kontroly nad pokročilými modely, jako jsou velké jazykové modely (LLM). USA a Čína se zavázaly k pokračujícímu dialogu prostřednictvím pracovních skupin, které by měly diskutovat o standardech testování bezpečnosti AI, včetně red-teamingových cvičení, kde se modely úmyslně testují na zranitelnosti vůči jailbreakům nebo manipulaci výstupů.
+Prohlášení vyšlo z bilaterálního summitu na okraji fóra APEC v Limě, kde Biden a Si diskutovali široké spektrum témat včetně Taiwanu a obchodu. V části věnované AI obě strany konstatovaly, že rychlý vývoj technologií jako LLM přináší nejen výhody, ale i rizika, jako je autonomní rozhodování systémů schopných manipulovat daty v reálném čase. Například modely jako GPT-4 nebo čínské ekvivalenty od firem jako Baidu a Alibaba mohou být použity k generování sofistikovaných phishingových kampaní nebo deepfake videí pro dezinformace.
 
-Toto prohlášení navazuje na předchozí napětí, jako jsou americké exportní restrikce na pokročilé GPU čipy od Nvidia, které brání Číně v přístupu k hardwaru nutnému pro trénink velkých AI modelů. Čína naopak rozvíjí vlastní ekosystém s modely jako DeepSeek nebo Qwen od Alibaba, které dosahují výkonu srovnatelného s GPT-4, ale bez západních čipů. Prohlášení neřeší přímo tyto restrikce, ale naznačuje možnost koordinace, aby se zabránilo eskalaci do technologické války. Dále se zmiňuje spolupráce proti AI-generovaným dezinformacím, což je aktuální v kontextu voleb a geopolitických konfliktů, kde nástroje jako deepfakes mohou destabilizovat společnosti.
+USA v posledních letech zavádějí exportní kontroly na high-end GPU od Nvidia, které jsou klíčové pro trénink velkých AI modelů, aby omezily čínský přístup k těmto technologiím. Čína naopak investuje miliardy do domácího vývoje čipů, jako jsou Huawei Ascend série, které slouží k akceleraci AI výpočtů. Prohlášení nenabízí konkrétní mechanismy, jako sdílení dat o incidentech nebo společné testování modelů na bezpečnostní slabiny, ale slibuje pravidelné konzultace. To navazuje na předchozí dohody, jako Bidenovo výkonnostní nařízení z října 2023 o bezpečném vývoji AI, které vyžaduje testování na rizika jako bias nebo halucinace v modelech.
 
-V praxi to znamená pro průmysl potřebu přizpůsobit se potenciálním společným standardům bezpečnosti. Například firmy jako OpenAI nebo Anthropic v USA již implementují bezpečnostní vrstvy v modelech Claude, které zabraňují generování škodlivého obsahu, zatímco čínské firmy jako Baidu s Erním musí dodržovat státní cenzuru. Pro uživatele to představuje naději na méně rizikové AI nástroje, ale zároveň riziko zpomalení inovací kvůli regulacím. Celkově dokument není právně závazný, ale signalizuje změnu od konfrontace k pragmatické spolupráci.
+V praxi to znamená pro průmysl potencionální uvolnění napětí v dodavatelských řetězcích. Firmy jako OpenAI nebo xAI by mohly získat lepší přehled o čínských postupech, což by urychlilo vývoj obranných nástrojů proti AI založeným hrozbám. Pro uživatele to představuje nepřímou ochranu před globálními kybernetickými riziky, i když bez okamžitých změn v produktech.
 
 ## Proč je to důležité
-Toto prohlášení mění dynamiku globálního AI ekosystému, kde USA a Čína kontrolují přes 80 % výpočetního výkonu pro AI trénink. Bez spolupráce hrozí závod v zbrojení s AI zbraněmi, jako autonomní drony nebo kybernetické systémy schopné sebezdokonalování. Pro evropský průmysl, včetně českých firem v AI jako GoodAI, to otevíře dveře k mezinárodním standardům, které by mohly sjednotit bezpečnostní požadavky podle EU AI Act. Dlouhodobě snižuje rizika existenciálních hrozeb, jako je AGI mimo kontrolu, a podporuje udržitelný vývoj. Nicméně skepticky lze konstatovat, že bez konkrétních kroků, jako sdílení dat o incidentech, zůstane deklarací bez reálného dopadu.
+Toto prohlášení nastavuje precedens pro globální governance AI, kde dvě největší ekonomiky kontrolují přes 70 % výzkumu v AI. Bez spolupráce hrozí eskalace závodů ve zbraních, jako vývoj autonomních dronů nebo AI pro elektronickou válku. V širším ekosystému to ovlivní regulace v EU (AI Act) a G7 iniciativy, kde USA teď mají diplomatickou páku. Kriticky řečeno, prohlášení je spíš symbolické než operační – chybí vymahatelné standardy, jako red-teaming pro vojenské AI modely. Pokud se dialog rozvine, může zabránit incidentům podobným SolarWinds hacku, ale bez detailů zůstává riziko, že obě strany budou pokračovat v tajném vývoji. Pro české firmy v IT sektoru to znamená sledovat změny v exportu technologií a připravit se na nové bezpečnostní požadavky v AI aplikacích.
 
 ---
 
