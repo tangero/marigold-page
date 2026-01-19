@@ -1,26 +1,48 @@
 {
-  "generated": "2026-01-19T12:59:50.138249+00:00",
+  "generated": "2026-01-19T16:43:52.087984+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "Poskytovatelé internetu a botnet AISURU/Kimwolf: Diskuse o detekci a mitigaci",
-      "description": "Experti na mailing listu NANOG diskutují, jak poskytovatelé internetových služeb mohou detekovat a blokovat botnet AISURU/Kimwolf, který generuje distribuované útoky typu DoS z infikovaných zařízení zákazníků. Navrhují použití externích malware feedů v uzavřených zahradech poskytovatelů služeb.",
-      "slug": "re-isp-operators-aisurukimwolf-botnet",
-      "publishedAt": "2026-01-18T12:21:07+00:00",
-      "date": "2026-01-18 12:21:07",
+      "title": "Plánujte, laděte a vydávejte rychleji s Antigravity od Google",
+      "description": "Google Antigravity, poháněný modelem Gemini 3, přináší AI platformu pro vývoj software, která zjednodušuje plánování, ladění a spolupráci. Nabízí funkce jako dynamické spravování kontextu, vývoj řízený testy a integraci s Git, což zvyšuje produktivitu developerů.",
+      "slug": "plan-debug-ship-faster-with-antigravity-from-googl",
+      "publishedAt": "2026-01-18T15:00:34+00:00",
+      "date": "2026-01-18 15:00:34",
       "importance": 4,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://seclists.org/images/nanog-img.png",
-      "url": "/tech-news/2026-01-18/re-isp-operators-aisurukimwolf-botnet/",
+      "category": "programování",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/01/antigravity-gemini-3-coding-tool_optimized.jpg",
+      "url": "/tech-news/2026-01-18/plan-debug-ship-faster-with-antigravity-from-googl/",
       "source": {
         "emoji": "📰",
         "id": null,
-        "name": "Seclists.org"
+        "name": "Geeky Gadgets"
       },
-      "companies": [],
-      "people": [
-        "Suresh Ramasubramanian"
-      ]
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Micron riskuje velkou sázku na rozšíření výroby pamětí, uzavírá obrovskou dohodu o akvizici továrny s tchajwanskou Powerchip kvůli nedostatku",
+      "description": "Micron, přední výrobce pamětí, urychluje výrobu DRAM spoluprací s Powerchip, jedním z největších tchajwanských dodavatelů čipů. Nové strategické partnerství s PSMC by mělo zvýšit výstup DRAM až o 15 procent během několika čtvrtletí.",
+      "slug": "micron-makes-a-bold-bet-to-expand-memory-productio",
+      "publishedAt": "2026-01-18T14:21:39+00:00",
+      "date": "2026-01-18 14:21:39",
+      "importance": 5,
+      "category": "polovodiče",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/01/20221004-wafer-closeup-tertiary_3-2-all-others-1456x874.avif",
+      "url": "/tech-news/2026-01-18/micron-makes-a-bold-bet-to-expand-memory-productio/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Wccftech"
+      },
+      "companies": [
+        "Micron",
+        "Powerchip",
+        "PSMC"
+      ],
+      "people": []
     },
     {
       "title": "Prozkoumání všech aplikací a nástrojů Google AI pro rok 2026: Včetně pokročilých funkcí Gemini 3",
@@ -3960,27 +3982,6 @@
       "companies": [
         "Harmattan AI",
         "Dassault Aviation SA"
-      ],
-      "people": []
-    },
-    {
-      "title": "Nárůst Alphabetu na 4 biliony dolarů upevňuje postavení vítěze v AI boomu",
-      "description": "Alphabet Inc. překročil tržní kapitalizaci 4 bilionů dolarů a stal se jedním z klíčových hráčů v éře umělé inteligence. Partnerství s Applem a silný růst akcií ho staví do pozice dominantního aktéra v AI, který předčí konkurenci.",
-      "slug": "alphabets-rise-to-4-trillion-cements-status-as-ai-",
-      "publishedAt": "2026-01-13T01:49:16+00:00",
-      "date": "2026-01-13 01:49:16",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2026/01/13/1600x900/logo/GOOGLE-DATA-0_1768268638891_1768268664682.jpg",
-      "url": "/tech-news/2026-01-13/alphabets-rise-to-4-trillion-cements-status-as-ai/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Livemint"
-      },
-      "companies": [
-        "Alphabet",
-        "Apple"
       ],
       "people": []
     },
