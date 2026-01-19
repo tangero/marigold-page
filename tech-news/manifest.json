@@ -1,7 +1,103 @@
 {
-  "generated": "2026-01-19T16:43:52.087984+00:00",
+  "generated": "2026-01-19T20:54:22.428891+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Starlink čelí významnému bezpečnostnímu testu v íránské represe",
+      "description": "Írán se snaží prosadit úplné internetové blackouty během represe na disidenty, ale Starlink funguje jako klíčové spojení. SpaceX tento satelitní internet zdarma uvolnilo pro Íránce, což staví americké inženýry proti íránským rušičkám signálu.",
+      "slug": "starlink-faces-high-profile-security-test-in-iran-",
+      "publishedAt": "2026-01-18T20:05:11+00:00",
+      "date": "2026-01-18 20:05:11",
+      "importance": 4,
+      "category": "kybernetika",
+      "urlToImage": "https://i.nextmedia.com.au/News/2026-01-16T110429Z_2_LYNXMPEM0F0JV_RTROPTP_4_IRAN-ECONOMY-PROTESTS-STARLINK.JPG",
+      "url": "/tech-news/2026-01-18/starlink-faces-high-profile-security-test-in-iran/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "iTnews"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "OpenAI otestuje reklamy v ChatGPT",
+      "description": "OpenAI začne testovat reklamy v ChatGPT u některých amerických uživatelů na bezplatném tarifu a levnějším Go plánu, aby zvýšila příjmy kvůli vysokým nákladům na vývoj AI. Reklamy nebudou ovlivňovat odpovědi chatbota a konverzace zůstanou soukromé.",
+      "slug": "openai-to-test-ads-in-chatgpt",
+      "publishedAt": "2026-01-18T20:05:11+00:00",
+      "date": "2026-01-18 20:05:11",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://i.nextmedia.com.au/News/20230829093352_chatgpt.jpg",
+      "url": "/tech-news/2026-01-18/openai-to-test-ads-in-chatgpt/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "iTnews"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Meta to udělala správně s jadernou energií",
+      "description": "Zaslouží si uznání a napodobení.",
+      "slug": "meta-does-it-right-with-nuclear-power",
+      "publishedAt": "2026-01-18T19:46:00+00:00",
+      "date": "2026-01-18 19:46:00",
+      "importance": 4,
+      "category": "jaderná energie",
+      "urlToImage": "https://www.wnd.com/wp-content/uploads/2022/04/nuclear-power-plants-stacks-steam-cool-energy-electricity-power-electrical-grid-unsplash.jpg",
+      "url": "/tech-news/2026-01-18/meta-does-it-right-with-nuclear-power/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Wnd.com"
+      },
+      "companies": [
+        "Meta"
+      ],
+      "people": []
+    },
+    {
+      "title": "Gigant fiber broadbandu vyšetřuje bezpečnostní průnik postihující 1 milion uživatelů",
+      "description": "Brightspeed prý čelí velkému bezpečnostnímu průniku, hackeři z Crimson Collective tvrdí přístup k záznamům přes 1 milionu zákazníků včetně osobních údajů a platebních informací. Společnost situaci aktivně prošetřuje, zatím průnik nepotvrdila.",
+      "slug": "fiber-broadband-giant-investigates-breach-affectin",
+      "publishedAt": "2026-01-18T17:30:59+00:00",
+      "date": "2026-01-18 17:30:59",
+      "importance": 5,
+      "category": "kybernetika",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/12/hacker-photo-1.jpg",
+      "url": "/tech-news/2026-01-18/fiber-broadband-giant-investigates-breach-affectin/",
+      "source": {
+        "emoji": "📰",
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "companies": [
+        "Brightspeed"
+      ],
+      "people": []
+    },
+    {
+      "title": "Flying Umbrella konečně sleduje tebe, po roce skrytých selhání",
+      "description": "Představte si deštník, který se vznáší vedle vás a následuje vaše kroky přes pole. Po roce skrytých selhání a opakovaných přestaveb se tento koncept posunul z novinky k fungujícímu autonomous demonstratoru. Projekt odhalil skutečné omezení, která de…",
+      "slug": "flying-umbrella-finally-follows-you-after-a-year-o",
+      "publishedAt": "2026-01-18T16:07:24+00:00",
+      "date": "2026-01-18 16:07:24",
+      "importance": 5,
+      "category": "drony",
+      "urlToImage": "https://bitrebels.com/wp-content/uploads/2026/01/autonomous-flying-umbrella-tracking-pedestrian-optimized.jpg",
+      "url": "/tech-news/2026-01-18/flying-umbrella-finally-follows-you-after-a-year-o/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Bitrebels.com"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Plánujte, laděte a vydávejte rychleji s Antigravity od Google",
       "description": "Google Antigravity, poháněný modelem Gemini 3, přináší AI platformu pro vývoj software, která zjednodušuje plánování, ladění a spolupráci. Nabízí funkce jako dynamické spravování kontextu, vývoj řízený testy a integraci s Git, což zvyšuje produktivitu developerů.",
@@ -3592,28 +3688,6 @@
       ]
     },
     {
-      "title": "Ředitelé HR a Jamie Dimon tvrdí, že AI neumůže naučit lidské dovednosti. Nejmladší self-made miliardáři na světě to chtějí vyvrátit",
-      "description": "Kolik stojí trénink AI, která vám vezme práci? Firma Mercor nabízí gigové zakázky pro profesionály až za 150 dolarů za hodinu, aby naučila modely umělé inteligence soudnost a nuance.",
-      "slug": "chief-people-officersand-jamie-dimonsay-ai-cant-le",
-      "publishedAt": "2026-01-13T16:07:34+00:00",
-      "date": "2026-01-13 16:07:34",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/11/Mercor-Founders-Adarsh-Hiremath-Brendan-Foody-e1762888211209.jpg?resize=1200,600",
-      "url": "/tech-news/2026-01-13/chief-people-officersand-jamie-dimonsay-ai-cant-le/",
-      "source": {
-        "emoji": "📰",
-        "id": "fortune",
-        "name": "Fortune"
-      },
-      "companies": [
-        "Mercor"
-      ],
-      "people": [
-        "Jamie Dimon"
-      ]
-    },
-    {
       "title": "Elon Musk: Hlavním cílem SpaceX je uskutečnit Star Trek",
       "description": "Elon Musk prohlásil, že jádrem poslání SpaceX je proměnit Star Trek v realitu. Americká vláda a SpaceX spolupracují na transformaci vědy fikce na skutečnost, přičemž model Grok od xAI se připojí k platformě GenAI.mil a spustí tento měsíc.",
       "slug": "elon-says-spacexs-core-purpose-is-to-make-star-tre",
@@ -3691,48 +3765,6 @@
       },
       "companies": [
         "Apple",
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Apple volí Google Gemini místo OpenAI pro budoucí Siri a AI funkce",
-      "description": "Apple potvrdilo víceletou dohodu s Googlem, podle níž budou další generace Apple Foundation Models založeny na technologii Gemini AI. Partnerství pohání přepracovanou Siri a další funkce Apple Intelligence, přičemž ChatGPT zůstane volitelnou volbou.",
-      "slug": "apple-chooses-google-gemini-over-openai-for-future",
-      "publishedAt": "2026-01-13T15:53:20+00:00",
-      "date": "2026-01-13 15:53:20",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.ghacks.net/wp-content/uploads/2026/01/gHacks-articles-87.png",
-      "url": "/tech-news/2026-01-13/apple-chooses-google-gemini-over-openai-for-future/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Ghacks Technology News"
-      },
-      "companies": [
-        "Apple",
-        "Google",
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Nákup v chatu: Google přidává Checkout do Gemini a AI režimu vyhledávání",
-      "description": "Google spouští funkci Checkout v AI chatbota Gemini i v AI režimu Google Vyhledávání, což umožňuje uživatelům nakupovat produkty přímo v konverzaci bez opuštění rozhraní. Platby probíhají přes Google Pay nebo PayPal a novinka je podpořena otevřeným standardem Universal Commerce Protocol.",
-      "slug": "buy-in-chat-google-adds-checkout-to-gemini-and-sea",
-      "publishedAt": "2026-01-13T15:52:46+00:00",
-      "date": "2026-01-13 15:52:46",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.pcworld.com/wp-content/uploads/2026/01/Gemini-3.jpeg?quality=50&strip=all&w=1024",
-      "url": "/tech-news/2026-01-13/buy-in-chat-google-adds-checkout-to-gemini-and-sea/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "PCWorld"
-      },
-      "companies": [
         "Google"
       ],
       "people": []
@@ -3903,26 +3935,6 @@
       "people": []
     },
     {
-      "title": "IPO Amagi Media Labs: Běží ocenění před zisky u tohoto SaaS hráče?",
-      "description": "Založená v roce 2008, Amagi je B2B technologická společnost, která pomáhá vlastníkům médií a vysílačům provozovat reklamně podporované televizní kanály na internetu.",
-      "slug": "amagi-media-labs-ipo-is-the-valuation-running-ahea",
-      "publishedAt": "2026-01-13T02:56:55+00:00",
-      "date": "2026-01-13 02:56:55",
-      "importance": 4,
-      "category": "startupy",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/1s0c6w/article70503904.ece/alternates/LANDSCAPE_1200/IPO.jfif",
-      "url": "/tech-news/2026-01-13/amagi-media-labs-ipo-is-the-valuation-running-ahea/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "companies": [
-        "Amagi Media Labs"
-      ],
-      "people": []
-    },
-    {
       "title": "OpenAI získává zdravotnický startup Torch za 100 milionů dolarů",
       "description": "Torch je malý startup v oblasti zdravotnických technologií, který sjednocuje roztříštěná medicínská data, jako výsledky laboratorních testů, údaje o lécích a záznamy z lékařských návštěv, do jediného systému čitelného pro umělou inteligenci. OpenAI toto akvizice integruje do funkce ChatGPT Health pro lepší analýzu osobních zdravotních dat.",
       "slug": "openai-acquires-healthcare-startup-torch-deal-pegg",
@@ -3940,27 +3952,6 @@
       "companies": [
         "OpenAI",
         "Torch"
-      ],
-      "people": []
-    },
-    {
-      "title": "Appleův největší tah v AI dosud – Google Gemini pohání novou Siri a Apple Intelligence",
-      "description": "Apple potvrdil spolupráci s Googlem, díky níž model Gemini napájí příští generaci Siri a funkcí Apple Intelligence. Tato aliance představuje významný upgrade umělé inteligence v Apple zařízeních ještě letos.",
-      "slug": "apple-biggest-ai-move-yet-google-gemini-will-power",
-      "publishedAt": "2026-01-13T02:32:19+00:00",
-      "date": "2026-01-13 02:32:19",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": null,
-      "url": "/tech-news/2026-01-13/apple-biggest-ai-move-yet-google-gemini-will-power/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Freerepublic.com"
-      },
-      "companies": [
-        "Apple",
-        "Google"
       ],
       "people": []
     },
