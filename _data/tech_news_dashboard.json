@@ -1,29 +1,27 @@
 {
-  "generated_at": "2026-01-19T01:26:53.189977+00:00",
+  "generated_at": "2026-01-19T05:11:19.267617+00:00",
   "period_days": 30,
   "current_status": {
-    "health": "WARNING",
-    "last_run": "2026-01-19T01:03:17.822630+00:00",
+    "health": "OK",
+    "last_run": "2026-01-19T04:46:40.569967+00:00",
     "last_run_status": "success",
-    "articles_today": 8,
-    "active_alerts": [
-      "Málo článků dnes: 8"
-    ]
+    "articles_today": 12,
+    "active_alerts": []
   },
   "daily_series": [
     {
       "date": "2026-01-19",
-      "sessions_count": 1,
-      "articles_fetched": 48,
-      "articles_processed": 33,
-      "articles_saved": 8,
-      "articles_skipped": 40,
+      "sessions_count": 2,
+      "articles_fetched": 96,
+      "articles_processed": 67,
+      "articles_saved": 12,
+      "articles_skipped": 84,
       "skip_reasons": {
-        "content_filter": 15,
-        "low_importance": 25
+        "content_filter": 29,
+        "low_importance": 55
       },
-      "llm_cost": 1.3713,
-      "avg_duration": 1401.31,
+      "llm_cost": 2.8179,
+      "avg_duration": 1425.47,
       "success_rate": 1.0
     },
     {
@@ -478,20 +476,20 @@
     }
   ],
   "aggregates": {
-    "total_articles": 1073,
-    "total_cost": 279.93,
-    "avg_daily_articles": 34.6,
+    "total_articles": 1077,
+    "total_cost": 281.38,
+    "avg_daily_articles": 34.7,
     "most_common_skip_reason": {
       "reason": "low_importance",
-      "count": 5480
+      "count": 5510
     },
-    "total_sessions": 179,
-    "total_fetched": 8726,
-    "total_skipped": 7653
+    "total_sessions": 180,
+    "total_fetched": 8774,
+    "total_skipped": 7697
   },
   "performance_metrics": {
-    "avg_session_duration": 1377.96,
-    "avg_api_response_time": 384.0,
+    "avg_session_duration": 1378.36,
+    "avg_api_response_time": 383.0,
     "avg_tokens_per_article": 4247.0,
     "error_rate": 0.0
   }

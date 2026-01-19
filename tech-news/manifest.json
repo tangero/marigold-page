@@ -1,10 +1,49 @@
 {
-  "generated": "2026-01-19T01:26:52.498247+00:00",
+  "generated": "2026-01-19T05:11:18.576093+00:00",
   "count": 200,
   "articles": [
     {
+      "title": "Obavy z bezpečnosti AI",
+      "description": "Australský eSafety komisař upozorňuje na zneužití generativní umělé inteligence Grok na sociální síti X k tvorbě sexualizovaných nebo exploatativních obrázků lidí. Regulator požaduje od X informace o bezpečnostních opatřeních a připravuje se na použití právních nástrojů.",
+      "slug": "concerns-over-ai-safety",
+      "publishedAt": "2026-01-18T02:35:03+00:00",
+      "date": "2026-01-18 02:35:03",
+      "importance": 4,
+      "category": "bezpečnost ai",
+      "urlToImage": "https://northern.starweekly.com.au/wp-content/uploads/sites/5/2026/01/computer_519231_01.jpg",
+      "url": "/tech-news/2026-01-18/concerns-over-ai-safety/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Starweekly.com.au"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Operátoři ISP a botnet AISURU/Kimwolf",
+      "description": "Diskuse na mailing listu NANOG odhaluje problémy internetových poskytovatelů s botnetem AISURU/Kimwolf, který infikuje zařízení pro nelegální TV vysílání a způsobuje přetížení sítí. Experti navrhují publikovat článek v New York Times, ale pochybují o dopadu na obyčejné uživatele.",
+      "slug": "re-isp-operators-aisurukimwolf-botnet",
+      "publishedAt": "2026-01-18T01:42:30+00:00",
+      "date": "2026-01-18 01:42:30",
+      "importance": 4,
+      "category": "kybernetika",
+      "urlToImage": "https://seclists.org/images/nanog-img.png",
+      "url": "/tech-news/2026-01-18/re-isp-operators-aisurukimwolf-botnet/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Seclists.org"
+      },
+      "companies": [],
+      "people": [
+        "Mel Beckman",
+        "David Pogue"
+      ]
+    },
+    {
       "title": "Čína a USA se musí vážně zabývat riziky umělé inteligence",
-      "description": "V listopadu 2024 vydali prezidenti Joe Biden a Si Ťin-pching první podstatné společné prohlášení k národněbezpečnostním rizikům spojeným s umělou inteligencí. Oba státy uznávají potřebu spolupráce při řešení těchto rizik.",
+      "description": "V listopadu 2024 vydali prezidenti USA Joe Biden a Číny Si Ťin-pching první podstatné společné prohlášení o národněbezpečnostních rizicích spojených s AI. Oba státy uznávají potřebu udržovat bezpečnost a stabilitu v této oblasti.",
       "slug": "china-and-america-must-get-serious-about-ai-risk",
       "publishedAt": "2026-01-18T00:15:01+00:00",
       "date": "2026-01-18 00:15:01",
@@ -24,8 +63,8 @@
       ]
     },
     {
-      "title": "Průlomové technologie roku 2026? MIT Technology Review vybírá sodíkové-iontové baterie a komerční vesmírné stanice",
-      "description": "MIT Technology Review na začátku roku 2026 zveřejnila seznam 'odborných odhadů' o vznikajících technologiích, které podle redakce pohánějí pokrok nebo vyvolají největší změny v příštích letech. Mezi vybranými jsou sodíkové-iontové baterie jako levnější alternativa k lithiovým a komerční vesmírné stanice.",
+      "title": "Průlomové technologie roku 2026? MIT Technology Review vybírá sodíkové baterie a komerční vesmírné stanice",
+      "description": "MIT Technology Review zveřejnila seznam technologických průlomů pro rok 2026, které podle expertů pohánějí pokrok nebo vyvolají největší změny. Mezi nimi jsou sodíkové baterie jako levnější alternativa k lithiovým, komerční vesmírné stanice a pokroky v AI, jako AI společníci, nástroje pro kódování a mechanistická interpretovatelnost pro velké jazykové modely.",
       "slug": "A-2026s-breakthrough-technologies-mit-technology-r",
       "publishedAt": "2026-01-17T23:41:00+00:00",
       "date": "2026-01-17 23:41:00",
@@ -3853,28 +3892,6 @@
       "people": []
     },
     {
-      "title": "Meta jmenuje bývalou poradkyni Bílého domu pro řízení AI projektů",
-      "description": "Meta jmenovala Dinu Powell McCormick na novou vysokou pozici zaměřenou na spolupráci s vládami a investory v oblasti AI infrastruktury. CEO Mark Zuckerberg oznámil plány na stavbu desítek gigawattů výpočetní kapacity tento desetiletí.",
-      "slug": "meta-picks-former-white-house-advisor-to-drive-ai-",
-      "publishedAt": "2026-01-12T19:46:32+00:00",
-      "date": "2026-01-12 19:46:32",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2025/11/Meta-data-centers.jpg",
-      "url": "/tech-news/2026-01-12/meta-picks-former-white-house-advisor-to-drive-ai/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "pymnts.com"
-      },
-      "companies": [
-        "Meta"
-      ],
-      "people": [
-        "Mark Zuckerberg"
-      ]
-    },
-    {
       "title": "Nový americký velvyslanec v Indii prosazuje hlubší obchodní vazby navzdory napětí kvůli ropě",
       "description": "USA a Indie intenzivně pracují na bilaterální obchodní dohodě k posílení ekonomického a strategického partnerství. Nový velvyslanec Sergio Gor zdůraznil odhodlání překonat rozdíly, včetně sporů o ruské ropy, a pozval Indii do iniciativy Pax Silica pro bezpečný dodavatelský řetězec křemíku.",
       "slug": "new-us-ambassador-to-india-pushes-for-deeper-trade",
@@ -3929,26 +3946,6 @@
       },
       "companies": [],
       "people": []
-    },
-    {
-      "title": "Malajsie pozastavila přístup k Muskovo AI Grok: regulátor",
-      "description": "Malajsie dočasně zablokovala přístup k chatbotu Grok od Elona Muska kvůli generování pornografického obsahu včetně obrázků žen a dětí. Rozhodnutí následuje po globální kritice a předchozím kroku Indonésie.",
-      "slug": "malaysia-suspends-access-to-musks-grok-ai-regulato",
-      "publishedAt": "2026-01-12T06:23:07+00:00",
-      "date": "2026-01-12 06:23:07",
-      "importance": 4,
-      "category": "regulace ai",
-      "urlToImage": "https://www.spxdaily.com/images-hg/elon-musk-twitter-not-dead-fu-hg.jpg",
-      "url": "/tech-news/2026-01-12/malaysia-suspends-access-to-musks-grok-ai-regulato/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Spacewar.com"
-      },
-      "companies": [],
-      "people": [
-        "Elon Musk"
-      ]
     },
     {
       "title": "Walmart spolupracuje s Googlem na prosazování ‚obchodování vedeného agenty‘",
