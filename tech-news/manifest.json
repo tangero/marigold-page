@@ -1,7 +1,69 @@
 {
-  "generated": "2026-01-18T20:41:43.690015+00:00",
+  "generated": "2026-01-19T01:26:52.498247+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Čína a USA se musí vážně zabývat riziky umělé inteligence",
+      "description": "V listopadu 2024 vydali prezidenti Joe Biden a Si Ťin-pching první podstatné společné prohlášení k národněbezpečnostním rizikům spojeným s umělou inteligencí. Oba státy uznávají potřebu spolupráce při řešení těchto rizik.",
+      "slug": "china-and-america-must-get-serious-about-ai-risk",
+      "publishedAt": "2026-01-18T00:15:01+00:00",
+      "date": "2026-01-18 00:15:01",
+      "importance": 4,
+      "category": "ai rizika",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2026/01/Khabar-Hub-Article_Jake-Sullivan_1200px-630X-px-Final_2026.01.16-Upload.jpg",
+      "url": "/tech-news/2026-01-18/china-and-america-must-get-serious-about-ai-risk/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Khabarhub.com"
+      },
+      "companies": [],
+      "people": [
+        "Joe Biden",
+        "Xi Jinping"
+      ]
+    },
+    {
+      "title": "Průlomové technologie roku 2026? MIT Technology Review vybírá sodíkové-iontové baterie a komerční vesmírné stanice",
+      "description": "MIT Technology Review na začátku roku 2026 zveřejnila seznam 'odborných odhadů' o vznikajících technologiích, které podle redakce pohánějí pokrok nebo vyvolají největší změny v příštích letech. Mezi vybranými jsou sodíkové-iontové baterie jako levnější alternativa k lithiovým a komerční vesmírné stanice.",
+      "slug": "A-2026s-breakthrough-technologies-mit-technology-r",
+      "publishedAt": "2026-01-17T23:41:00+00:00",
+      "date": "2026-01-17 23:41:00",
+      "importance": 5,
+      "category": "průlomové technologi",
+      "urlToImage": "https://a.fsdn.com/sd/topics/space_64.png",
+      "url": "/tech-news/2026-01-17/A-2026s-breakthrough-technologies-mit-technology-r/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "companies": [
+        "MIT"
+      ],
+      "people": []
+    },
+    {
+      "title": "Bank of America přehodnocuje akcie Alphabetu po uzavření dvou klíčových partnerství Googlem",
+      "description": "Investoři znovu zkoumají akcie Googlu díky novým partnerstvím spojeným s modely Gemini, která tlačí cenu akcií nahoru. Dne 11. ledna Google uzavřel spolupráci s Walmartem a dalším partnerem.",
+      "slug": "bank-of-america-revamps-alphabet-stock-after-googl",
+      "publishedAt": "2026-01-17T20:17:00+00:00",
+      "date": "2026-01-17 20:17:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://s.yimg.com/os/en/thestreet_881/ee6eabd15e63e0f0af3e4cfa2aebf52d",
+      "url": "/tech-news/2026-01-17/bank-of-america-revamps-alphabet-stock-after-googl/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "TheStreet"
+      },
+      "companies": [
+        "Alphabet",
+        "Google"
+      ],
+      "people": []
+    },
     {
       "title": "Kdo jsou čtyři vynálezci indického původu za nejnovějším patentem Tesla na AI od Elona Muska?",
       "description": "Patent Tesla na AI technologii, který vyvinul tým s několika vynálezci indického původu, vyvolal debatu na platformě X. Elon Musk tým pochválil, ale někteří uživatelé upozornili na rozpor mezi oslavou inovací a kritickými názory na imigranty v IT.",
@@ -9,7 +71,7 @@
       "publishedAt": "2026-01-17T20:13:32+00:00",
       "date": "2026-01-17 20:13:32",
       "importance": 4,
-      "category": "ai",
+      "category": "umělá inteligence",
       "urlToImage": "https://static.toiimg.com/thumb/msid-126627888,width-1280,height-720,imgsize-582398,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "url": "/tech-news/2026-01-17/who-are-the-four-indian-origin-inventors-behind-el/",
       "source": {
@@ -17,20 +79,18 @@
         "id": "the-times-of-india",
         "name": "The Times of India"
       },
-      "companies": [
-        "Tesla"
-      ],
+      "companies": [],
       "people": [
         "Elon Musk"
       ]
     },
     {
-      "title": "Antimonopolní panika přispěla k pádu amerického pionýra v robotice",
-      "description": "Antimonopolní regulátoři blokováním akvizice Amazonu společností iRobot, tvůrcem robotických vysavačů Roomba, naopak oslabili konkurenci. To vedlo k bankrotu americké firmy v prosinci a jejímu převzetí čínským věřitelem.",
+      "title": "Protimonopolní panika pomohla zabít amerického pionýra v robotice",
+      "description": "Protimonopolní regulátoři tvrdí, že chrání konkurenci. Jejich rozhodnutí zablokovat akvizici Amazonu společností iRobot provedlo opak – pomohlo to zahnat amerického lídra v robotice do bankrotu v prosinci a odevzdat ho čínskému věřiteli.",
       "slug": "antitrust-panic-helped-kill-an-american-robotics-p",
       "publishedAt": "2026-01-17T20:00:00+00:00",
       "date": "2026-01-17 20:00:00",
-      "importance": 4,
+      "importance": 5,
       "category": "robotika",
       "urlToImage": "https://www.theblaze.com/media-library/antitrust-panic-helped-kill-an-american-robotics-pioneer.jpg?id=62823438&width=1200&height=600&coordinates=0%2C128%2C0%2C128",
       "url": "/tech-news/2026-01-17/antitrust-panic-helped-kill-an-american-robotics-p/",
@@ -47,7 +107,7 @@
     },
     {
       "title": "Uvnitř xAI a budoucnost milionů emulovaných lidí",
-      "description": "Rozhovor se Sulaimanem Ghorim, členem technického týmu xAI, odhaluje plány na emulaci milionů virtuálních lidí pomocí distribuovaných čipů v Tesla vozech. Klíčovou výhodou xAI je rychlost nasazení hardwaru a schopnost předvídat úzke hrdla v rozvoji.",
+      "description": "Rozhovor se Sulaimanem Ghorim, členem technického týmu xAI, odhaluje plány na emulaci milionů virtuálních lidí pomocí distribuovaných čipů v Tesla vozech. Firma je omezena hardwarem, její výhodou je rychlost nasazení a predikce úzkých hrdel, což umožňuje denní iterace modelů.",
       "slug": "inside-xai-and-future-of-millions-of-emulated-huma",
       "publishedAt": "2026-01-17T18:57:21+00:00",
       "date": "2026-01-17 18:57:21",
@@ -69,8 +129,8 @@
       ]
     },
     {
-      "title": "Na pokraji superinteligence: Musk žaluje OpenAI, aby ochromil jejich financování",
-      "description": "Žaloba Elona Muska má zabránit plnému přechodu OpenAI na model zaměřený na zisk a potenciálně narušit vazby s Microsoftem. Důkazy ukazují úmysl porušit rané dohody, což i při vítězství OpenAI v roce 2026 vytvoří nejistotu u investorů a zpomalí jejich pokrok v závodě o umělou inteligenci.",
+      "title": "Na pokraji superinteligence: Musk žaluje OpenAI, aby podřízl jejich financování",
+      "description": "Žaloba Elona Muska má zabránit plnému přechodu OpenAI na model zaměřený na zisk a potenciálně narušit vazby s Microsoftem. Důkazy ukazují záměr porušit rané dohody, což i při vítězství OpenAI v roce 2026 vytvoří investiční nejistotu a zpomalí jejich pokrok v závodě o AI.",
       "slug": "on-the-verge-of-superintelligence-musk-sues-openai",
       "publishedAt": "2026-01-17T18:31:01+00:00",
       "date": "2026-01-17 18:31:01",
@@ -90,6 +150,24 @@
       "people": [
         "Elon Musk"
       ]
+    },
+    {
+      "title": "Hláší se případy 'psychózy vyvolané AI'. Jak nebezpečná je?",
+      "description": "Umělá inteligence se stále více proplétá do každodenního života, od chatbotů nabízejících společenství po algoritmy formující obsah online. Klinici varují, že generativní AI může zhoršit nebo spustit psychotické symptomy u zranitelných osob.",
+      "slug": "cases-of-ai-psychosis-are-being-reported-how-dange",
+      "publishedAt": "2026-01-17T18:00:02+00:00",
+      "date": "2026-01-17 18:00:02",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.sciencealert.com/images/2026/01/ai_psychosis_header-3.jpg",
+      "url": "/tech-news/2026-01-17/cases-of-ai-psychosis-are-being-reported-how-dange/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "companies": [],
+      "people": []
     },
     {
       "title": "Appleův upgrade MacBooku Pro na OLED a dotykový displej může přijít dříve, než se očekávalo",
@@ -3835,47 +3913,6 @@
       ]
     },
     {
-      "title": "Společné prohlášení Google a Apple",
-      "description": "Apple a Google zahájily víceletou spolupráci, v rámci níž budou další generace modelů Apple Foundation Models založeny na modelech Gemini od Google a jeho cloudové technologii. Tyto modely pohání budoucí funkce Apple Intelligence, včetně personalizovanější verze Siri, přičemž se zachovávají standardy soukromí Apple.",
-      "slug": "joint-statement-from-google-and-apple",
-      "publishedAt": "2026-01-12T11:33:00+00:00",
-      "date": "2026-01-12 11:33:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://blog.google/static/blogv2/images/google-200x200.png?version=pr20260107-1732",
-      "url": "/tech-news/2026-01-12/joint-statement-from-google-and-apple/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Blog.google"
-      },
-      "companies": [
-        "Apple",
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Malajsie a Indonésie zablokovaly AI bota Grok kvůli explicitním obrázkům",
-      "description": "Malajsie a Indonésie se staly prvními zeměmi na světě, které zablokovaly přístup k AI chatbotu Grok, protože generoval sexuálně explicitní obrázky žen a dětí bez souhlasu na platformě X Elona Muska. Regulátoři kritizují nedostatečné bezpečnostní mechanismy od xAI a X.",
-      "slug": "malaysia-indonesia-block-grok-ai-bot-over-explicit",
-      "publishedAt": "2026-01-12T08:00:00+00:00",
-      "date": "2026-01-12 08:00:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://static.dw.com/image/73813940_6.jpg",
-      "url": "/tech-news/2026-01-12/malaysia-indonesia-block-grok-ai-bot-over-explicit/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "DW (English)"
-      },
-      "companies": [],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
       "title": "Trump a Modi jsou ‚skuteční přátelé‘, Indie a USA ‚aktivně spolupracují‘ v obchodu, říká velvyslanec Sergio Gor",
       "description": "Nový americký velvyslanec v Indii Sergio Gor zdůraznil hluboké přátelství mezi prezidentem Trumpem a premiérem Modim při převzetí úřadu. Oznámil pokračování obchodních jednání a pozvání Indie do iniciativy PaxSilica pro bezpečný dodavatelský řetězec silikonu včetně polovodičů a AI.",
       "slug": "trump-modi-are-real-friends-as-india-us-actively-e",
@@ -3894,26 +3931,6 @@
       "people": []
     },
     {
-      "title": "Harmattan AI získala 200 milionů dolarů v kole Series B vedeném Dassault Aviation",
-      "description": "Společnost Harmattan AI obdržela 200 milionů dolarů v druhém kole financování Series B, které vedla francouzská firma Dassault Aviation. Partnerství zaměřené na integraci autonomních systémů a AI do bojových leteckých platforem urychlí vývoj technologií pro francouzské a britské ozbrojené síly.",
-      "slug": "harmattan-ais-200-million-series-b-led-by-dassault",
-      "publishedAt": "2026-01-12T06:48:00+00:00",
-      "date": "2026-01-12 06:48:00",
-      "importance": 4,
-      "category": "ai startupy",
-      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/15aef55b-ffe4-455e-9a19-72b3e1734404",
-      "url": "/tech-news/2026-01-12/harmattan-ais-200-million-series-b-led-by-dassault/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [
-        "Harmattan AI"
-      ],
-      "people": []
-    },
-    {
       "title": "Malajsie pozastavila přístup k Muskovo AI Grok: regulátor",
       "description": "Malajsie dočasně zablokovala přístup k chatbotu Grok od Elona Muska kvůli generování pornografického obsahu včetně obrázků žen a dětí. Rozhodnutí následuje po globální kritice a předchozím kroku Indonésie.",
       "slug": "malaysia-suspends-access-to-musks-grok-ai-regulato",
@@ -3927,26 +3944,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Spacewar.com"
-      },
-      "companies": [],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Malajsie a Indonésie blokují Grok od Elona Muska kvůli obscénnímu obsahu bez souhlasu",
-      "description": "Malajsie a Indonésie zablokovaly přístup k AI chatbotu Grok od xAI kvůli obavám, že nástroj umožňuje generovat sexuálně explicitní a obscénní obsah bez souhlasu, včetně deepfakeů a materiálu se sexuálním zneužíváním dětí.",
-      "slug": "malaysia-and-indonesia-block-elon-musks-grok-due-t",
-      "publishedAt": "2026-01-12T04:21:35+00:00",
-      "date": "2026-01-12 04:21:35",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108174051-1752860818701-gettyimages-2224956825-kokovlis-notitle250718_npmM4.jpeg?v=1768184191&w=1920&h=1080",
-      "url": "/tech-news/2026-01-12/malaysia-and-indonesia-block-elon-musks-grok-due-t/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNBC"
       },
       "companies": [],
       "people": [

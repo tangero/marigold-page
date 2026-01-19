@@ -7,8 +7,8 @@ companies:
 date: '2026-01-17 18:57:21'
 description: Rozhovor se Sulaimanem Ghorim, členem technického týmu xAI, odhaluje
   plány na emulaci milionů virtuálních lidí pomocí distribuovaných čipů v Tesla vozech.
-  Klíčovou výhodou xAI je rychlost nasazení hardwaru a schopnost předvídat úzke hrdla
-  v rozvoji.
+  Firma je omezena hardwarem, její výhodou je rychlost nasazení a predikce úzkých
+  hrdel, což umožňuje denní iterace modelů.
 importance: 4
 layout: tech_news_article
 original_title: Inside xAI and Future of Millions of Emulated Humans
@@ -27,24 +27,24 @@ urlToImageBackup: https://nextbigfuture.s3.amazonaws.com/uploads/2026/01/Screens
 ---
 
 ## Souhrn
-Sulaiman Ghori, člen technického týmu xAI, v rozhovoru popisuje, jak firma plánuje emulovat miliony virtuálních lidí na distribuované síti Tesla vozů vybavených HW4 čipy. xAI je omezeno hardwarem, ale vyniká rychlostí nasazení a iteracemi modelů. Tento přístup umožní levné škálování AI úkolů bez nutnosti stavět nové datacentra.
+Rozhovor se Sulaimanem Ghorim, členem technického týmu xAI – firmy Elona Muska zaměřené na vývoj pokročilé umělé inteligence – popisuje interní fungování společnosti a ambiciózní plány na emulaci milionů virtuálních lidských agentů. Ty by měly běžet na nevyužitém výpočetním výkonu Tesla vozidel s hardwarem HW4. xAI se soustředí na rychlé nasazení hardwaru a eliminaci softwarových omezení pro urychlení vývoje AI modelů.
 
 ## Klíčové body
-- Emulace milionů lidských digitálních úkolů na idle Tesla vozech s HW4 hardwarem.
-- Rychlé tréninkové cykly: racky spouštějí trénink během hodin po instalaci.
-- Macrohard jako digitální ekvivalent Optimus robota pro klávesnice/myš/ekránové úkoly.
-- Elon Muskova metoda předvídání úzkých hrdel a okamžité řešení problémů.
-- Vysoká volnost a intenzivní pracovní prostředí v xAI.
+- xAI plánuje emulovat miliony lidí na distribuovaných Tesla čipech HW4, které jsou dostatečné pro běžné AI úlohy.
+- Největší výhodou je rychlost nasazení hardwaru: trénink racků začíná během hodin po instalaci, oproti dnům jinde.
+- Macrohard funguje jako digitální verze robota Optimus a emuluje úkoly s klávesnicí, myší a obrazovkou za zlomek nákladů.
+- Elon Musk predikuje úzká hrdla dopředu a řeší problémy okamžitě, například telefonáty dodavatelům pro okamžité záplaty.
+- Pracovní prostředí zahrnuje vysokou svobodu, intenzivní cykly a překryvy projektů.
 
 ## Podrobnosti
-xAI, firma Elona Muska zaměřená na vývoj pokročilé umělé inteligence, čelí omezením v hardwaru, ale kompenzuje je rychlostí nasazení. Podle Ghoriho je HW4 – hardware čtvrté generace v Tesla vozech pro autonomní řízení – dostatečný pro běžné AI úlohy. Firma plánuje využít přibližně 3 miliony HW4 vozů v USA, kde majitelé budou dostávat platbu za pronájem výpočetního výkonu v době nečinnosti. Tento distribuovaný přístup eliminuje potřebu nákladných datacenter od dodavatelů jako AWS, Oracle nebo NVIDIA, protože Tesla vozy již mají potřebné sítě, chlazení a napájení.
+Sulaiman Ghori, který nastoupil do xAI po neúspěšných pokusech o vlastní startupy a díky doporučení Grega Yanga, popisuje, jak xAI překonává hardwareová omezení. Firma využívá distribuovanou síť Tesla vozidel s hardwarem HW4, který již obsahuje potřebné čipy, síťování, chlazení a napájení. V USA je přibližně 3 miliony takových vozidel, jejichž vlastníkům by xAI platilo za pronájem výpočetního času během nečinnosti. Tento přístup je kapitálově efektivnější než nákup serverů od AWS, Oracle nebo NVIDIA, protože eliminuje potřebu nové infrastruktury.
 
-Klíčovým prvkem je Macrohard, digitální analogie humanoidního robota Optimus od Tesla. Macrohard emuluje lidské úkoly založené na klávesnici, myši a obrazovce – například programování, datový vstup nebo administrativní práce – za zlomek nákladů a s 24/7 dostupností. Nasazení začne pomalu na tisících emulátorů a rychle se vyšplhá na milion, bez omezení infrastrukturou. xAI iteruje modely denně, někdy i vícekrát, včetně pre-tréninkových fází, díky superpočítačovým týmům, které odstraňují bariéry jako latence nebo overhead softwaru, což přináší 2–8násobné zlepšení.
+Klíčovým projektem je Macrohard, digitální analogie humanoidního robota Optimus od Tesla. Slouží k emulaci jakýchkoli úkolů založených na klávesnici, myši a obrazovce – například programování, datový vstup nebo administrativní práce – s 24hodinovou dostupností a nižšími náklady než lidská práce. Nasazení začne pomalu (od tisíců emulatorů), ale rychle se vyšplhá na miliony, bez omezení infrastrukturou. xAI přitom dosahuje denního, někdy několikanásobného iterování modelů ještě před dokončením pre-trainingu, díky rychlému setupu racků (hodiny místo týdnů) a superkomputačnímu týmu, který odstraňuje bariéry jako latence nebo overhead – což přináší 2–8násobné zrychlení.
 
-Elon Musk exceluje v predikci úzkých hrdel měsíce či roky dopředu a pracuje od konce k začátku, zaměřen na klíčové metriky jako finanční a fyzické. Týmy xAI to napodobují. Problémy řeší okamžitě – Musk volá dodavatelům pro patchy přes noc nebo osobně opravuje vedle inženýrů. Na konci schůzí se ptá: „Jak vám mohu pomoci to zrychlit?“ Pracovní prostředí je charakterizováno vysokou volností, rychlými přechody mezi projekty (2–3 současně) a intenzivními pushy včetně víkendů. Používají 80 mobilních generátorů a bateriové balíčky pro rychlé nasazení.
+Elon Musk exceluje v predikci úzkých hrdel měsíce či roky dopředu a pracuje od konce k začátku, s důrazem na klíčové metriky (finanční a fyzické). Na problémy reaguje ihned: volá dodavatelům pro okamžité záplaty nebo řeší blokery během hodin. V meetingech se ptá: „Jak vám mohu pomoci to zrychlit?“ Pracovní atmosféra je charakterizována vysokou svobodou a odpovědností – zaměstnanci přecházejí mezi projekty, vlastní celé komponenty a zvládají 24hodinové cykly, jako rollout Imagine. Intenzita zahrnuje víkendy a dlouhé dny v kanceláři, podpořené 80 mobilními generátory a bateriemi. Ghori zdůrazňuje hustotu talentů, která vyžaduje neustálé úsilí.
 
 ## Proč je to důležité
-Tento plán xAI by mohl revolučně změnit škálování AI tím, že využije existující miliardy idle GPU v spotřebitelských zařízeních, což snižuje kapitálové náklady a urychluje vývoj směrem k AGI. Pro průmysl znamená levnější automatizaci digitálních úkolů, kde dnes lidé tráví hodiny. Kriticky však zůstávají otázky latence v distribuované síti vozů, bezpečnosti dat v soukromých autech a regulace placení vlastníkům. Pokud se podaří, posílí to dominanci Tesla ekosystému v AI a donutí konkurenty jako OpenAI hledat podobné decentralizované řešení. Celkově urychlí přechod k masivní emulaci lidské práce, ale vyžaduje pečlivé řízení rizik spolehlivosti.
+Tento přístup může zásadně změnit škálování AI tím, že využije existující miliardy dolarů v Tesla hardware pro distribuované výpočty, což sníží náklady na trénink a inference modelů. Pro průmysl znamená potenciál masivního nasazení agentů pro digitální práci, což ohrozí rutinní kancelářské pozice, ale urychlí inovace v AI. Kriticky: síťování mezi miliony mobilních zařízení představuje technické výzvy (latence, spolehlivost), a závislost na Tesla vlastnících přináší rizika regulací i adopce. V širším kontextu posiluje xAI pozici proti OpenAI nebo Google díky hardwarové vertikální integraci s Tesla, ale úspěch závisí na reálném výkonu HW4 oproti datacentrovým GPU.
 
 ---
 
