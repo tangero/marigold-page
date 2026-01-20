@@ -1,8 +1,8 @@
 {
   "watermark": {
-    "model_id": "openai/gpt-5.2-codex",
-    "created_timestamp": 1768409315,
-    "updated_at": "2026-01-15T07:25:14.398427"
+    "model_id": "openai/gpt-audio",
+    "created_timestamp": 1768862569,
+    "updated_at": "2026-01-20T07:28:11.428175"
   },
   "analyzed_models": {
     "openai/gpt-5.1-codex-max": {
@@ -155,11 +155,32 @@
       "analyzed_at": "2026-01-15T07:25:14.398413",
       "success": true,
       "file_path": "/home/runner/work/marigold-page/marigold-page/_llm/2026-01-14-openai-gpt-5-2-codex.md"
+    },
+    "z-ai/glm-4.7-flash": {
+      "name": "Z.AI: GLM 4.7 Flash",
+      "created_timestamp": 1768833913,
+      "analyzed_at": "2026-01-20T07:27:17.402458",
+      "success": true,
+      "file_path": "/home/runner/work/marigold-page/marigold-page/_llm/2026-01-19-z-ai-glm-4-7-flash.md"
+    },
+    "openai/gpt-audio-mini": {
+      "name": "OpenAI: GPT Audio Mini",
+      "created_timestamp": 1768859419,
+      "analyzed_at": "2026-01-20T07:27:45.406885",
+      "success": true,
+      "file_path": "/home/runner/work/marigold-page/marigold-page/_llm/2026-01-19-openai-gpt-audio-mini.md"
+    },
+    "openai/gpt-audio": {
+      "name": "OpenAI: GPT Audio",
+      "created_timestamp": 1768862569,
+      "analyzed_at": "2026-01-20T07:28:11.428161",
+      "success": true,
+      "file_path": "/home/runner/work/marigold-page/marigold-page/_llm/2026-01-19-openai-gpt-audio.md"
     }
   },
   "statistics": {
-    "total_analyzed": 22,
-    "last_check": "2026-01-15T07:25:14.398758",
-    "last_new_models_found": 1
+    "total_analyzed": 25,
+    "last_check": "2026-01-20T07:28:11.428531",
+    "last_new_models_found": 3
   }
 }
