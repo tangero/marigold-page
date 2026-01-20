@@ -1,7 +1,68 @@
 {
-  "generated": "2026-01-20T08:55:23.656266+00:00",
+  "generated": "2026-01-20T13:00:50.929710+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Google přináší umělou inteligenci do Gmailu se smart schránkou a vyhledáváním e-mailů",
+      "description": "Google zavádí funkce Gmailu poháněné umělou inteligencí, které umožňují vyhledávat, shrnovat a automaticky odpovídat na e-maily. Tyto nástroje urychlí správu přeplněných schránek a proces psaní zpráv.",
+      "slug": "google-brings-ai-to-gmail-with-smart-inbox-and-ema",
+      "publishedAt": "2026-01-19T12:23:39+00:00",
+      "date": "2026-01-19 12:23:39",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://images.firstpost.com/uploads/2026/01/image-2026-01-f397b0d5f7358fc49cf70ebdd2ffbe7b-1200x675.jpg?im=FitAndFill=(1200,675)",
+      "url": "/tech-news/2026-01-19/google-brings-ai-to-gmail-with-smart-inbox-and-ema/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Firstpost"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Trh autonomního řízení vykazuje silný růst s očekávaným CAGR 17,63 % do roku 2033 | Astute Analytica",
+      "description": "Globální trh autonomního řízení dosáhl v roce 2024 hodnoty 170,22 miliardy USD a podle Astute Analytica by měl do roku 2033 narůst na 668,64 miliardy USD při CAGR 17,63 %. Růst pohání pokroky v AI, senzorových technologiích a softwaru, přičemž klíčoví hráči jako Waymo, Tesla, Nvidia a Mobileye formují tento segment.",
+      "slug": "autonomous-driving-market-sees-robust-growth-with-",
+      "publishedAt": "2026-01-19T11:43:00+00:00",
+      "date": "2026-01-19 11:43:00",
+      "importance": 4,
+      "category": "autonomní řízení",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/a77988df-ad1a-4619-9a4e-367c858dc70e",
+      "url": "/tech-news/2026-01-19/autonomous-driving-market-sees-robust-growth-with/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [
+        "Waymo",
+        "Tesla",
+        "Nvidia",
+        "Mobileye"
+      ],
+      "people": []
+    },
+    {
+      "title": "Trh s materiály pro lithiové kovové baterie dosáhne objemu 1 549 218,4 tuny do roku 2035",
+      "description": "Globální trh s materiály pro lithiové kovové baterie by měl vzrůst z 130 000 tun v roce 2025 na 1 549 218,4 tuny v roce 2035 při CAGR 36,53 % od roku 2026. Hodnota trhu se očekává z 1,44 miliardy USD v roce 2025 na 32,48 miliardy USD v roce 2035.",
+      "slug": "lithium-metal-battery-materials-market-volume-wort",
+      "publishedAt": "2026-01-19T11:36:00+00:00",
+      "date": "2026-01-19 11:36:00",
+      "importance": 5,
+      "category": "lithiové baterie",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
+      "url": "/tech-news/2026-01-19/lithium-metal-battery-materials-market-volume-wort/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Závod o vytvoření evropského DeepSeek je v plném proudu",
       "description": "Jak dlouhodobé spojenectví Evropy s USA slábne, její snaha stát se soběstačnou supervelmocí v umělé inteligenci nabývá na naléhavosti.",
@@ -3807,49 +3868,6 @@
       ]
     },
     {
-      "title": "Oficiálně potvrzeno: Google Gemini pohání budoucí Apple Intelligence a vylepšení Siri",
-      "description": "Google Gemini bude napájet budoucí funkce Apple Intelligence a vylepšení Siri, což představuje významnou spolupráci mezi Applem a Googelem. Tato dohoda znamená, že Apple Foundation Models budou založeny na modelech Gemini a cloudové technologii Google.",
-      "slug": "its-official-google-gemini-will-power-future-apple",
-      "publishedAt": "2026-01-13T19:45:08+00:00",
-      "date": "2026-01-13 19:45:08",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://cdn.redmondpie.com/wp-content/uploads/2020/04/google-apple-1200px.jpg",
-      "url": "/tech-news/2026-01-13/its-official-google-gemini-will-power-future-apple/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "redmondpie.com"
-      },
-      "companies": [
-        "Apple",
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "V roce 2026 se Google zaměřuje na to, aby byla umělá inteligence skutečně užitečná",
-      "description": "Výkonný manažer Google Sameer Samat hodnotí minulý rok jako období zvědavosti vůči AI. Tento rok klade důraz na její praktickou užitečnost v zařízeních a službách.",
-      "slug": "in-2026-google-is-focused-on-making-ai-actually-us",
-      "publishedAt": "2026-01-13T19:00:36+00:00",
-      "date": "2026-01-13 19:00:36",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.cnet.com/a/img/resize/e09004d86eb808a2594eeb2894207ca98a067198/hub/2025/12/11/5b313203-e96f-4f47-8996-4aa0d3956914/gemini-logo-gettyimages-2246856729.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "url": "/tech-news/2026-01-13/in-2026-google-is-focused-on-making-ai-actually-us/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNET"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": [
-        "Sameer Samat"
-      ]
-    },
-    {
       "title": "Pentagon oznámil novou strategii pro akceleraci umělé inteligence",
       "description": "Ministerstvo obrany USA spustilo novou strategii pro rychlou integraci umělé inteligence do armády, aby se stalo 'AI-first' silou. Plán, nařízený prezidentem Donaldem Trumpem, zahrnuje sedm projektů zaměřených na bojové schopnosti, zpracování zpravodajství a automatizaci administrativy.",
       "slug": "pentagon-announces-new-ai-acceleration-strategy",
@@ -3884,27 +3902,6 @@
       },
       "companies": [
         "Cisco"
-      ],
-      "people": []
-    },
-    {
-      "title": "Jsem celoživotní uživatel iPhonu, ale několik měsíců s Gemini na Androidu mi ukázalo, proč je partnerství Apple a Google v AI klíčové",
-      "description": "Apple a Google uzavřely partnerství, podle něhož budou Apple Foundation Models založeny na modelech Gemini. Tento krok ovlivní funkce Apple Intelligence včetně vylepšené Siri a posiluje pozici iPhonu v AI ekosystému.",
-      "slug": "im-a-lifelong-iphone-user-but-a-few-months-with-ge",
-      "publishedAt": "2026-01-13T16:00:00+00:00",
-      "date": "2026-01-13 16:00:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/G4PLUNgTX7brYQSsr864qW-1920-80.jpg",
-      "url": "/tech-news/2026-01-13/im-a-lifelong-iphone-user-but-a-few-months-with-ge/",
-      "source": {
-        "emoji": "📰",
-        "id": "techradar",
-        "name": "TechRadar"
-      },
-      "companies": [
-        "Apple",
-        "Google"
       ],
       "people": []
     },
