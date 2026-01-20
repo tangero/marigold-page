@@ -1,7 +1,133 @@
 {
-  "generated": "2026-01-20T17:08:36.170701+00:00",
+  "generated": "2026-01-20T21:14:34.114963+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Tesla se plně vrhá na výrobu čipů, Musk podporuje Dojo3 – Dokáže porazit Nvidia v poměru cena/výkon?",
+      "description": "Tesla oživuje projekt superpočítače Dojo3 s čipem AI5 a posiluje své ambice ve výrobě vlastních čipů, aby konkurovala Nvidia v efektivitě cena/výkon. Manažeři i spotřebitelé sledují, zda tento krok přinese slíbené výhody.",
+      "slug": "tesla-goes-all-in-on-chipmaking-as-musk-backs-dojo",
+      "publishedAt": "2026-01-19T20:32:15+00:00",
+      "date": "2026-01-19 20:32:15",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://d.ibtimes.com/en/full/4639246/tesla.png",
+      "url": "/tech-news/2026-01-19/tesla-goes-all-in-on-chipmaking-as-musk-backs-dojo/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "International Business Times"
+      },
+      "companies": [
+        "Tesla",
+        "Nvidia"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Starlink pomohl Íráncům v 'digitálním vězení', jeho monopol však představuje riziko",
+      "description": "V Íránu poskytl Starlink spojení se světem mimo cenzuru, ale obavy z dominance jedné firmy nad takovou klíčovou technologií rostou.",
+      "slug": "starlink-was-able-to-help-iranians-in-digital-pris",
+      "publishedAt": "2026-01-19T19:09:56+00:00",
+      "date": "2026-01-19 19:09:56",
+      "importance": 4,
+      "category": "satelitní internet",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/e06b8217425fba084d8957af9133c7c0?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=261&width=862&height=485&imformat=generic",
+      "url": "/tech-news/2026-01-19/starlink-was-able-to-help-iranians-in-digital-pris/",
+      "source": {
+        "emoji": "📰",
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Tesla dokončila čip AI5 a oživuje Dojo 3 díky dohodě s Intelem o balení",
+      "description": "Tesla dokončila vývoj automobilového procesoru AI5, což umožňuje výrobu v závodech TSMC a Samsungu. Tento pokrok oživuje dříve pozastavený projekt superpočítače Dojo 3. Elon Musk oznámil, že čip AI5 dosáhne výkonu srovnatelného s architekturou NVIDIA Hopper.",
+      "slug": "tesla-completes-ai5-chip-revives-dojo-3-with-intel",
+      "publishedAt": "2026-01-19T18:42:07+00:00",
+      "date": "2026-01-19 18:42:07",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.techpowerup.com/img/gUGGc5PWLY3BvjMc.jpg",
+      "url": "/tech-news/2026-01-19/tesla-completes-ai5-chip-revives-dojo-3-with-intel/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Techpowerup.com"
+      },
+      "companies": [
+        "Tesla",
+        "Intel",
+        "TSMC",
+        "Samsung"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Ransomware útok na Ingram Micro ovlivnil 42 000 osob",
+      "description": "Společnost Ingram Micro oznámila, že ransomware útok vystavil osobní údaje přibližně 42 000 lidí, včetně jmen, dat narození, čísel sociálního zabezpečení a pracovních údajů. Ingram Micro je globální distributor technologií a poskytovatel služeb v dodavatelském řetězci, který slouží jako prostředník mezi dodavateli jako Microsoft, Cisco nebo HP a odběrateli.",
+      "slug": "ransomware-attack-on-ingram-micro-impacts-42000-in",
+      "publishedAt": "2026-01-19T18:29:03+00:00",
+      "date": "2026-01-19 18:29:03",
+      "importance": 5,
+      "category": "kyberútok",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2012/04/data-breach.jpg",
+      "url": "/tech-news/2026-01-19/ransomware-attack-on-ingram-micro-impacts-42000-in/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "companies": [
+        "Ingram Micro"
+      ],
+      "people": []
+    },
+    {
+      "title": "OpenAI se v roce 2026 zaměří na 'praktickou adopci', říká finanční šéfka Sarah Friar",
+      "description": "OpenAI udělá z roku 2026 rok 'praktické adopce', uvedla v nedělním blogu finanční ředitelka umělé inteligence startupu Sarah Friar.",
+      "slug": "openai-to-focus-on-practical-adoption-in-2026-says",
+      "publishedAt": "2026-01-19T18:26:44+00:00",
+      "date": "2026-01-19 18:26:44",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108188496-1755694394550-SG-Friar-01.jpg?v=1755694558&w=1920&h=1080",
+      "url": "/tech-news/2026-01-19/openai-to-focus-on-practical-adoption-in-2026-says/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": [
+        "Sarah Friar"
+      ]
+    },
+    {
+      "title": "Zde jsou 55 amerických AI startupů, které získaly 100 milionů dolarů nebo více v roce 2025 | TechCrunch",
+      "description": "Americké AI startupy v roce 2025 získaly významné objemy venture kapitálu, přičemž celkem 55 firem obdrželo kola financování v hodnotě 100 milionů dolarů nebo více. Tento trend navazuje na silný rok 2024 a naznačuje pokračující zájem investorů o umělou inteligenci.",
+      "slug": "here-are-the-55-us-ai-startups-that-have-raised-10",
+      "publishedAt": "2026-01-19T18:07:35+00:00",
+      "date": "2026-01-19 18:07:35",
+      "importance": 4,
+      "category": "ai startupy",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-1485726179-1.jpg?resize=1200,720",
+      "url": "/tech-news/2026-01-19/here-are-the-55-us-ai-startups-that-have-raised-10/",
+      "source": {
+        "emoji": "🚀",
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "První elektromobil s vestavěnou umělou inteligencí Gemini dorazí tento týden, Volvo EX60 ale musí překonat Alexa+ v BMW iX3",
       "description": "Volvo uvede jako první výrobce automobilů nový vůz s integrovaným hlasovým asistentem Google Gemini na bázi umělé inteligence. Model EX60 slibuje přirozenější konverzace mezi řidičem a vozem díky hardwaru od Nvidia a Qualcomm.",
@@ -3815,28 +3941,6 @@
       "people": []
     },
     {
-      "title": "AI čipové startupy Etched.ai a Cerebras Systems získávají velké financování k konkurenci s Nvidia",
-      "description": "Startupy Etched.ai a Cerebras Systems, rivalové Nvidia na trhu AI čipů, získávají stovky milionů dolarů na vývoj specializovaných procesorů. Etched.ai uzavřelo kolo za 500 milionů dolarů s valuací přes 5 miliard, zatímco Cerebras jedná o dvojnásobek a připravuje IPO.",
-      "slug": "ai-chip-unicorns-etchedai-and-cerebras-systems-get",
-      "publishedAt": "2026-01-14T01:44:25+00:00",
-      "date": "2026-01-14 01:44:25",
-      "importance": 4,
-      "category": "ai čipy",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/Screenshot-from-2026-01-14-08-43-53.png",
-      "url": "/tech-news/2026-01-14/ai-chip-unicorns-etchedai-and-cerebras-systems-get/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Etched.ai",
-        "Cerebras Systems",
-        "Nvidia"
-      ],
-      "people": []
-    },
-    {
       "title": "USA povolují Nvidia odesílat pokročilé AI čipy do Číny s omezeními",
       "description": "Americké ministerstvo obchodu povolilo Nvidia prodávat pokročilé umělé inteligence čipy v Číně za podmínek, což navazuje na změnu politiky oznámenou prezidentem Donaldem Trumpem. Nvidia může exportovat čip H200, pokud prokáže dostatečné dodávky v USA, zatímco nejpokročilejší procesory zůstávají blokovány.",
       "slug": "us-allows-nvidia-to-send-advanced-ai-chips-to-chin",
@@ -3935,106 +4039,6 @@
       },
       "companies": [
         "Anthropic"
-      ],
-      "people": []
-    },
-    {
-      "title": "‚Star Trek real‘: Hegseth chválí Grok za umožnění uživatelům vést války",
-      "description": "‚Vyhraješ tento závod tím, že se staneš silou pro vedení války založenou na umělé inteligenci ve všech doménách,‘ řekl ministr obrany v pondělí.",
-      "slug": "star-trek-real-hegseth-praises-grok-for-allowing-u",
-      "publishedAt": "2026-01-13T20:00:06+00:00",
-      "date": "2026-01-13 20:00:06",
-      "importance": 4,
-      "category": "vojenská ai",
-      "urlToImage": "https://gizmodo.com/app/uploads/2026/01/pete-hegseth-elon-musk-jan-12-2026-1200x675.jpg",
-      "url": "/tech-news/2026-01-13/star-trek-real-hegseth-praises-grok-for-allowing-u/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "companies": [],
-      "people": [
-        "Hegseth"
-      ]
-    },
-    {
-      "title": "Velká Británie zakazuje deepfake akty na X po skandálu s Grok AI – Promiň, Elone, nejde o potlačení svobody slova",
-      "description": "Velká Británie uvádí v platnost zákon, který criminalizuje vytváření nekonzentačních intimních deepfake obrázků, po incidentu, kdy AI chatbot Grok na platformě X generoval sexuálně explicitní obsah reálných lidí bez souhlasu.",
-      "slug": "the-uk-outlaws-deepfake-nudes-on-x-after-grok-ai-u",
-      "publishedAt": "2026-01-13T12:04:00+00:00",
-      "date": "2026-01-13 12:04:00",
-      "importance": 4,
-      "category": "deepfakes",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/hCinchdNAAB2CwppGFsQmn-2560-80.jpg",
-      "url": "/tech-news/2026-01-13/the-uk-outlaws-deepfake-nudes-on-x-after-grok-ai-u/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Windows Central"
-      },
-      "companies": [],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Co se můžeme naučit z toho, jak útočníci využívali AI v roce 2025?",
-      "description": "Starý scénář, nový rozsah: Zatímco obránci honí trendy, útočníci optimalizují základní postupy. Bezpečnostní průmysl se soustředí na 'nové' hrozby jako AI-powered útoky, ale realita ukazuje jiné priority.",
-      "slug": "what-should-we-learn-from-how-attackers-leveraged-",
-      "publishedAt": "2026-01-13T11:55:00+00:00",
-      "date": "2026-01-13 11:55:00",
-      "importance": 4,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg11caZQqhaS0OyoXT_GpH_CIUPoC00sjkeg4ycrORRwI75LWELCfMCO0yyfL1FoKf8jrX6NJZsGVFZ2m1o_H3VFdFtBJprczhcQn5bbS5YH65k4I1PVoGAJGZP4N2NHfj_m2VjXJPmO8k-GfaZFUcIXSN9lLuOZ3Dnl8cqQkwkMEWHWY0cYuu4QIBKXVE/s790-rw-e365/AI.jpg",
-      "url": "/tech-news/2026-01-13/what-should-we-learn-from-how-attackers-leveraged/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Internet"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Apple potvrdilo dlouhodobou smlouvu s Google na bázi Gemini pro své AI základní modely včetně nové Siri",
-      "description": "Apple a Google uzavřely víceletou spolupráci, podle níž budou další generace Apple základních modelů postaveny na modelech Gemini od Google a jejich cloudové technologii. Tato dohoda posílí funkce Apple Intelligence, včetně vylepšené verze Siri, která má být spuštěna v roce 2026.",
-      "slug": "蘋果確認與google簽署長約以gemini為基礎打造包含新版siri在內的蘋果ai基礎模型",
-      "publishedAt": "2026-01-13T03:38:00+00:00",
-      "date": "2026-01-13 03:38:00",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://bucket-image.inkmaginecms.com/version/social/9dde7c0f-a597-445c-80dd-9a93db8a4006/image/2026/01/5821f0cc-f9be-4bde-b662-741140b0d7af.jpg",
-      "url": "/tech-news/2026-01-13/蘋果確認與google簽署長約以gemini為基礎打造包含新版siri在內的蘋果ai基礎模型/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Cool3c.com"
-      },
-      "companies": [
-        "Apple",
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Proč Apple požádal Google o pomoc s vylepšením Siri a přidáním dalších AI funkcí do iPhonu",
-      "description": "Apple uzavřel dohodu s Googlem, která umožní využít technologii Gemini k přizpůsobení AI funkcí nazvaných Apple Intelligence na iPhone a dalších zařízeních. Tento krok pomůže Applu dohnat zpoždění v oblasti umělé inteligence, zejména u vylepšení virtuálního asistenta Siri.",
-      "slug": "why-apple-has-called-on-google-to-help-smarten-up-",
-      "publishedAt": "2026-01-13T03:05:26+00:00",
-      "date": "2026-01-13 03:05:26",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-37762,resizemode-75,msid-126495889/tech/artificial-intelligence/why-apple-has-called-on-google-to-help-smarten-up-siri-and-bring-other-ai-features-to-the-iphone.jpg",
-      "url": "/tech-news/2026-01-13/why-apple-has-called-on-google-to-help-smarten-up/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Apple",
-        "Google"
       ],
       "people": []
     }
