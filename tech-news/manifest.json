@@ -1,7 +1,107 @@
 {
-  "generated": "2026-01-20T01:27:58.275622+00:00",
+  "generated": "2026-01-20T05:15:40.086643+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Sequoia Capital, investor do OpenAI, jedná o vstup do navrhovaného 25miliardového fondu Anthropic",
+      "description": "Sequoia Capital se chystá připojit k fondům Coatue a singapurskému suverénnímu fondu GIC v obrovském financování umělé inteligence startupu Anthropic. Tato dohoda by zvýšila valuaci firmy na 350 miliard dolarů a představuje neobvyklý krok, protože Sequoia obvykle neinvestuje do přímých konkurentů.",
+      "slug": "openai-backer-sequoia-capital-in-talks-to-join-ant",
+      "publishedAt": "2026-01-19T03:24:08+00:00",
+      "date": "2026-01-19 03:24:08",
+      "importance": 4,
+      "category": "ai startupy",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/Screenshot-from-2026-01-19-10-23-32.png",
+      "url": "/tech-news/2026-01-19/openai-backer-sequoia-capital-in-talks-to-join-ant/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "people": []
+    },
+    {
+      "title": "Týdenní shrnutí novinek: nedostatek pamětí, síla balení a globální otočka TSMC",
+      "description": "Nejčtenější příběhy DIGITIMES Asia za týden 12.–18. ledna 2026 se zaměřují na výzvy v polovodičovém průmyslu, včetně expanze TSMC v USA a rozděleného oživení tchajwanského sektoru.",
+      "slug": "weekly-news-roundup-memory-shortages-packaging-pow",
+      "publishedAt": "2026-01-19T02:56:55+00:00",
+      "date": "2026-01-19 02:56:55",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://img.digitimes.com/newsshow/20260119vl200_files/2_2b.jpg",
+      "url": "/tech-news/2026-01-19/weekly-news-roundup-memory-shortages-packaging-pow/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [
+        "TSMC"
+      ],
+      "people": []
+    },
+    {
+      "title": "Co znamená dohoda USA a Tchaj-wanu pro 'křemíkový štít' ostrova",
+      "description": "Dohoda USA a Tchaj-wanu zaměřená na rozšíření kapacity výroby čipů v USA nemusí plně odnaučit Washington od nejpokročilejších polovodičů ostrova.",
+      "slug": "what-the-us-taiwan-deal-means-for-the-islands-sili",
+      "publishedAt": "2026-01-19T01:38:58+00:00",
+      "date": "2026-01-19 01:38:58",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108253427-1768545719275-gettyimages-2235681649-AA_19092025_2429907.jpeg?v=1768545753&w=1920&h=1080",
+      "url": "/tech-news/2026-01-19/what-the-us-taiwan-deal-means-for-the-islands-sili/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Velká sázka Blackstone na AI; Rozdělení malých globálních kompetenčních center v Indii",
+      "description": "Investiční fond Blackstone uzavřel strukturovanou investici do startupu Neysa zaměřeného na cloudovou infrastrukturu pro AI, což mu zajistí kontrolní podíl. Transakce představuje vstup Blackstone do provozu datových center pro AI v Indii.",
+      "slug": "blackstones-big-ai-bet-indias-nano-gcc-split",
+      "publishedAt": "2026-01-19T01:28:04+00:00",
+      "date": "2026-01-19 01:28:04",
+      "importance": 4,
+      "category": "ai startupy",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126665418,width-1070,height-580,imgsize-22892,overlay-ettech/editionshow.jpg",
+      "url": "/tech-news/2026-01-19/blackstones-big-ai-bet-indias-nano-gcc-split/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Neysa"
+      ],
+      "people": []
+    },
+    {
+      "title": "Akcie Powerchipu vyskočily po oznámení Micronu o koupi taiwanské továrny za 1,8 miliardy dolarů",
+      "description": "Akcie taiwanské společnosti Powerchip Semiconductor Manufacturing Corp. v pondělí vzrostly o téměř 10 procent poté, co americký výrobce paměťových čipů Micron Technology oznámil podpis záměru koupit její továrnu P5 v Tongluo za 1,8 miliardy dolarů v hotovosti. Tato akvizice má posílit produkci DRAM čipů od druhé poloviny roku 2027.",
+      "slug": "powerchip-shares-jump-after-micron-moves-to-buy-ta",
+      "publishedAt": "2026-01-19T01:20:32+00:00",
+      "date": "2026-01-19 01:20:32",
+      "importance": 5,
+      "category": "polovodiče",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--uNtscccU--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-01-19T012032Z_1_LYNXMPEM0I028_RTROPTP_3_MICRON-RESULTS.JPG?itok=vc7CEZWz",
+      "url": "/tech-news/2026-01-19/powerchip-shares-jump-after-micron-moves-to-buy-ta/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNA"
+      },
+      "companies": [
+        "Powerchip Semiconductor Manufacturing Corp",
+        "Micron Technology"
+      ],
+      "people": []
+    },
     {
       "title": "ElevenLabs míří na ocenění 11 miliard dolarů pro firmu s hlasovou AI",
       "description": "Společnost ElevenLabs jedná o nové financování, které by ji ohodnotilo na 11 miliard USD a učinilo nejcennější AI startupem ve Velké Británii. To by téměř zdvojnásobilo současnou valuaci firmy zaměřené na generování realistických hlasů pomocí umělé inteligence.",
@@ -3667,26 +3767,6 @@
       ]
     },
     {
-      "title": "Nejnovější projev Elona Muska o Star Treku zmínil vytvoření reálné Starfleet Academy, což činí jeho komentáře k seriálu překvapivými",
-      "description": "Elon Musk na tiskové konferenci vyjádřil touhu udělat Star Trek realitou včetně Starfleet Academy. Tyto slova kontrastují s jeho nedávnými výroky o nadcházejícím seriálu Star Trek: Starfleet Academy. Zpráva je matoucí.",
-      "slug": "elon-musks-latest-star-trek-speech-mentioned-makin",
-      "publishedAt": "2026-01-13T19:59:32+00:00",
-      "date": "2026-01-13 19:59:32",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/3So4MpuA4T8q7FNVahpxHE-1280-80.jpg",
-      "url": "/tech-news/2026-01-13/elon-musks-latest-star-trek-speech-mentioned-makin/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CinemaBlend"
-      },
-      "companies": [],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
       "title": "Oficiálně potvrzeno: Google Gemini pohání budoucí Apple Intelligence a vylepšení Siri",
       "description": "Google Gemini bude napájet budoucí funkce Apple Intelligence a vylepšení Siri, což představuje významnou spolupráci mezi Applem a Googelem. Tato dohoda znamená, že Apple Foundation Models budou založeny na modelech Gemini a cloudové technologii Google.",
       "slug": "its-official-google-gemini-will-power-future-apple",
@@ -3727,29 +3807,6 @@
       ],
       "people": [
         "Sameer Samat"
-      ]
-    },
-    {
-      "title": "Elon Musk: Hlavním cílem SpaceX je uskutečnit Star Trek",
-      "description": "Elon Musk prohlásil, že jádrem poslání SpaceX je proměnit Star Trek v realitu. Americká vláda a SpaceX spolupracují na transformaci vědy fikce na skutečnost, přičemž model Grok od xAI se připojí k platformě GenAI.mil a spustí tento měsíc.",
-      "slug": "elon-says-spacexs-core-purpose-is-to-make-star-tre",
-      "publishedAt": "2026-01-13T16:03:59+00:00",
-      "date": "2026-01-13 16:03:59",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/01/Screenshot-2026-01-13-at-8.03.31-AM.jpg",
-      "url": "/tech-news/2026-01-13/elon-says-spacexs-core-purpose-is-to-make-star-tre/",
-      "source": {
-        "emoji": "📰",
-        "id": "next-big-future",
-        "name": "Next Big Future"
-      },
-      "companies": [
-        "SpaceX",
-        "xAI"
-      ],
-      "people": [
-        "Elon Musk"
       ]
     },
     {
@@ -3810,28 +3867,6 @@
         "Google"
       ],
       "people": []
-    },
-    {
-      "title": "Všichni se od Groka distancují. Pete Hegseth ho vpustil do armády",
-      "description": "Z centrály SpaceX oznámil ministr obrany Pete Hegseth, že Grok bude součástí nové vnitřní AI platformy americké armády GenAI.mil. Tento krok vyvolává otázky ohledně bezpečnosti a spolehlivosti modelu s kontroverzní historií.",
-      "slug": "everyone-is-distancing-themselves-from-grok-pete-h",
-      "publishedAt": "2026-01-13T15:47:42+00:00",
-      "date": "2026-01-13 15:47:42",
-      "importance": 4,
-      "category": "vojenská ai",
-      "urlToImage": "https://img.pastemagazine.com/wp-content/juploads/2026/01/Screenshot-2026-01-13-at-7.12.30-PM.jpg",
-      "url": "/tech-news/2026-01-13/everyone-is-distancing-themselves-from-grok-pete-h/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Jezebel"
-      },
-      "companies": [
-        "SpaceX"
-      ],
-      "people": [
-        "Pete Hegseth"
-      ]
     },
     {
       "title": "Gráinne Seoige volá po okamžité akci proti AI aplikacím umožňujícím sexuální zneužívací obrázky",
@@ -3972,48 +4007,6 @@
       "companies": [
         "OpenAI",
         "Torch"
-      ],
-      "people": []
-    },
-    {
-      "title": "Francouzská stíhačková společnost Dassault investuje 200 milionů dolarů do startupu na autonomní drony Harmattan AI",
-      "description": "Francouzský startup Harmattan AI, který vyvíjí autonomní drony pro evropské armády, získal 200 milionů dolarů v kolu Series B. Kolo vedla výrobce stíhaček a firemních tryskáčů Dassault Aviation SA, čímž se celková získaná částka zvýšila na 242 milionů dolarů při valuaci 1,4 miliardy dolarů.",
-      "slug": "french-fighter-company-dassault-invests-200m-in-au",
-      "publishedAt": "2026-01-13T01:51:39+00:00",
-      "date": "2026-01-13 01:51:39",
-      "importance": 4,
-      "category": "autonomní drony",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/Screenshot-from-2026-01-13-08-49-18.png",
-      "url": "/tech-news/2026-01-13/french-fighter-company-dassault-invests-200m-in-au/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Harmattan AI",
-        "Dassault Aviation SA"
-      ],
-      "people": []
-    },
-    {
-      "title": "Smlouva Google–Apple v oblasti AI signalizuje novou fázi soutěže mimo modely",
-      "description": "Google a Apple uzavřely víceletou spolupráci, podle níž další generace modelů Apple Foundation Models budou postaveny na modelech Gemini od Google a jeho cloudové technologii. Partnerství má podpořit budoucí funkce Apple Intelligence, jako jsou nástroje pro generování textu, obrázků a personalizované asistenci.",
-      "slug": "googleapple-ai-deal-signals-a-new-phase-of-competi",
-      "publishedAt": "2026-01-13T00:33:28+00:00",
-      "date": "2026-01-13 00:33:28",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://img.digitimes.com/newsshow/20260113vl200_files/2_b.jpg",
-      "url": "/tech-news/2026-01-13/googleapple-ai-deal-signals-a-new-phase-of-competi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
-      },
-      "companies": [
-        "Google",
-        "Apple"
       ],
       "people": []
     },
