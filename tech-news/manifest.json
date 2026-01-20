@@ -1,7 +1,49 @@
 {
-  "generated": "2026-01-19T20:54:22.428891+00:00",
+  "generated": "2026-01-20T01:27:58.275622+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "ElevenLabs míří na ocenění 11 miliard dolarů pro firmu s hlasovou AI",
+      "description": "Společnost ElevenLabs jedná o nové financování, které by ji ohodnotilo na 11 miliard USD a učinilo nejcennější AI startupem ve Velké Británii. To by téměř zdvojnásobilo současnou valuaci firmy zaměřené na generování realistických hlasů pomocí umělé inteligence.",
+      "slug": "elevenlabs-eyes-11-billion-valuation-for-voice-ai-",
+      "publishedAt": "2026-01-18T22:46:58+00:00",
+      "date": "2026-01-18 22:46:58",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/01/ElevenLabs-voice-AI1.jpg",
+      "url": "/tech-news/2026-01-18/elevenlabs-eyes-11-billion-valuation-for-voice-ai/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [
+        "ElevenLabs"
+      ],
+      "people": []
+    },
+    {
+      "title": "Tesla spouští první velkou lithiumovou rafinérii v USA",
+      "description": "Tesla North America a Elon Musk oznámili, že největší a nejpokročilejší lithiumová rafinérie v USA nedaleko Corpus Christi v Texasu je nyní v provozu. Tento závod představuje klíčový krok k posílení domácí výroby lithiumu pro baterie elektromobilů.",
+      "slug": "tesla-fires-up-americas-first-major-lithium-refine",
+      "publishedAt": "2026-01-18T22:00:00+00:00",
+      "date": "2026-01-18 22:00:00",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2026-01-16_njy3qpw5rg.jpg",
+      "url": "/tech-news/2026-01-18/tesla-fires-up-americas-first-major-lithium-refine/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "OilPrice.com"
+      },
+      "companies": [
+        "Tesla"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
     {
       "title": "Starlink čelí významnému bezpečnostnímu testu v íránské represe",
       "description": "Írán se snaží prosadit úplné internetové blackouty během represe na disidenty, ale Starlink funguje jako klíčové spojení. SpaceX tento satelitní internet zdarma uvolnilo pro Íránce, což staví americké inženýry proti íránským rušičkám signálu.",
@@ -3830,28 +3872,6 @@
       ]
     },
     {
-      "title": "Elon Musk radí nekupovat Tesla Roadster, pokud vám záleží na bezpečnosti",
-      "description": "Elon Musk prohlásil, že nadcházející Roadster nebude mít bezpečnost jako hlavní prioritu a stane se nejlepším z posledních aut řízených člověkem před dlouho očekávaným odhalením.",
-      "slug": "elon-musk-implores-you-not-to-buy-a-tesla-roadster",
-      "publishedAt": "2026-01-13T11:56:11+00:00",
-      "date": "2026-01-13 11:56:11",
-      "importance": 4,
-      "category": "elektromobilita",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/d4z6TaY6QrEHtU4sEQzyDd-1920-80.jpg",
-      "url": "/tech-news/2026-01-13/elon-musk-implores-you-not-to-buy-a-tesla-roadster/",
-      "source": {
-        "emoji": "📰",
-        "id": "techradar",
-        "name": "TechRadar"
-      },
-      "companies": [
-        "Tesla"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
       "title": "Co se můžeme naučit z toho, jak útočníci využívali AI v roce 2025?",
       "description": "Starý scénář, nový rozsah: Zatímco obránci honí trendy, útočníci optimalizují základní postupy. Bezpečnostní průmysl se soustředí na 'nové' hrozby jako AI-powered útoky, ale realita ukazuje jiné priority.",
       "slug": "what-should-we-learn-from-how-attackers-leveraged-",
@@ -3996,26 +4016,6 @@
         "Apple"
       ],
       "people": []
-    },
-    {
-      "title": "Elon Musk investuje 20 miliard dolarů do Mississippi, zatímco Kanada odhání investory",
-      "description": "Elon Musk investuje obrovské částky do konzervativních států jako Tennessee a nyní Mississippi, především do datových center pro umělou inteligenci. Tato investice ve výši 20 miliard dolarů představuje největší v historii Mississippi, překonávající předchozí maximum 10 miliard dolarů.",
-      "slug": "elon-musk-invests-20-billion-in-mississippi-as-can",
-      "publishedAt": "2026-01-13T00:18:01+00:00",
-      "date": "2026-01-13 00:18:01",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": null,
-      "url": "/tech-news/2026-01-13/elon-musk-invests-20-billion-in-mississippi-as-can/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Freerepublic.com"
-      },
-      "companies": [],
-      "people": [
-        "Elon Musk"
-      ]
     },
     {
       "title": "Kroger a Papa Johns testují AI agenty Gemini pro maloobchod",
