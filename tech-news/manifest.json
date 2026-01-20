@@ -1,7 +1,47 @@
 {
-  "generated": "2026-01-20T05:15:40.086643+00:00",
+  "generated": "2026-01-20T08:55:23.656266+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Závod o vytvoření evropského DeepSeek je v plném proudu",
+      "description": "Jak dlouhodobé spojenectví Evropy s USA slábne, její snaha stát se soběstačnou supervelmocí v umělé inteligenci nabývá na naléhavosti.",
+      "slug": "the-race-to-build-the-deepseek-of-europe-is-on",
+      "publishedAt": "2026-01-19T07:00:00+00:00",
+      "date": "2026-01-19 07:00:00",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://media.wired.com/photos/696af5f8760211e43e025ef8/191:100/w_1280,c_limit/DeepSeek-Europe-Race-Business-2196250439.jpg",
+      "url": "/tech-news/2026-01-19/the-race-to-build-the-deepseek-of-europe-is-on/",
+      "source": {
+        "emoji": "🔧",
+        "id": "wired",
+        "name": "Wired"
+      },
+      "companies": [
+        "DeepSeek"
+      ],
+      "people": []
+    },
+    {
+      "title": "Micron koupí tchajwanskou továrnu za 1,8 miliardy dolarů",
+      "description": "Společnost Micron se sídlem v Boise ve státě Idaho plánuje získat tchajwanskou továrnu na výrobu čipů, aby uspokojila rostoucí poptávku po paměťových produktech pro ukládání dat.",
+      "slug": "micron-to-buy-taiwan-plant-for-18-billion",
+      "publishedAt": "2026-01-19T06:58:00+00:00",
+      "date": "2026-01-19 06:58:00",
+      "importance": 5,
+      "category": "polovodiče",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/DyvrK1XPG49YaeDRCU7d9w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/the_wall_street_journal_hosted_996/e7a88b57d89bf1ca08c7c3a434b7e209",
+      "url": "/tech-news/2026-01-19/micron-to-buy-taiwan-plant-for-18-billion/",
+      "source": {
+        "emoji": "📈",
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "companies": [
+        "Micron"
+      ],
+      "people": []
+    },
     {
       "title": "Sequoia Capital, investor do OpenAI, jedná o vstup do navrhovaného 25miliardového fondu Anthropic",
       "description": "Sequoia Capital se chystá připojit k fondům Coatue a singapurskému suverénnímu fondu GIC v obrovském financování umělé inteligence startupu Anthropic. Tato dohoda by zvýšila valuaci firmy na 350 miliard dolarů a představuje neobvyklý krok, protože Sequoia obvykle neinvestuje do přímých konkurentů.",
@@ -3869,24 +3909,6 @@
       "people": []
     },
     {
-      "title": "Gráinne Seoige volá po okamžité akci proti AI aplikacím umožňujícím sexuální zneužívací obrázky",
-      "description": "Technologie AI se vyvíjí rychleji než naše zákony a oběti za to platí, uvedla Seoige. Bývalá moderátorka a kandidátka Fianna Fáil sdílela svůj traumatický zážitek s deepfake obrázky.",
-      "slug": "gráinne-seoige-calls-for-urgent-action-on-ai-apps-",
-      "publishedAt": "2026-01-13T12:16:00+00:00",
-      "date": "2026-01-13 12:16:00",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://img2.thejournal.ie/article/6925170/river/?height=400&version=6925218",
-      "url": "/tech-news/2026-01-13/gráinne-seoige-calls-for-urgent-action-on-ai-apps/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "TheJournal.ie"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Velká Británie zakazuje deepfake akty na X po skandálu s Grok AI – Promiň, Elone, nejde o potlačení svobody slova",
       "description": "Velká Británie uvádí v platnost zákon, který criminalizuje vytváření nekonzentačních intimních deepfake obrázků, po incidentu, kdy AI chatbot Grok na platformě X generoval sexuálně explicitní obsah reálných lidí bez souhlasu.",
       "slug": "the-uk-outlaws-deepfake-nudes-on-x-after-grok-ai-u",
@@ -3923,29 +3945,6 @@
       },
       "companies": [],
       "people": []
-    },
-    {
-      "title": "Hegseth se připojuje k Muskovi ve SpaceX, slibuje ‚muskovský‘ přístup k rozvoji technologií v Pentagonu a chce uskutečnit Star Trek",
-      "description": "Pete Hegseth navštívil SpaceX a společně s Elonem Muskem slíbil radikální reformu Pentagonu inspirovanou stylem SpaceX. Zdůraznil nutnost nasadit AI model Grok a zaměřit se na klíčové technologie, aby USA vyhrály technologickou nadvládu.",
-      "slug": "hegseth-joins-musk-at-spacex-pledges-elon-style-ap",
-      "publishedAt": "2026-01-13T03:55:28+00:00",
-      "date": "2026-01-13 03:55:28",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/01/https-x-com-dowresponse-status-118810708_4f017f.jpg?quality=75&strip=all&w=1200",
-      "url": "/tech-news/2026-01-13/hegseth-joins-musk-at-spacex-pledges-elon-style-ap/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "New York Post"
-      },
-      "companies": [
-        "SpaceX"
-      ],
-      "people": [
-        "Hegseth",
-        "Musk"
-      ]
     },
     {
       "title": "Apple potvrdilo dlouhodobou smlouvu s Google na bázi Gemini pro své AI základní modely včetně nové Siri",
