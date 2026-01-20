@@ -1,7 +1,120 @@
 {
-  "generated": "2026-01-20T13:00:50.929710+00:00",
+  "generated": "2026-01-20T17:08:36.170701+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "První elektromobil s vestavěnou umělou inteligencí Gemini dorazí tento týden, Volvo EX60 ale musí překonat Alexa+ v BMW iX3",
+      "description": "Volvo uvede jako první výrobce automobilů nový vůz s integrovaným hlasovým asistentem Google Gemini na bázi umělé inteligence. Model EX60 slibuje přirozenější konverzace mezi řidičem a vozem díky hardwaru od Nvidia a Qualcomm.",
+      "slug": "the-worlds-first-gemini-powered-ev-lands-this-week",
+      "publishedAt": "2026-01-19T16:11:12+00:00",
+      "date": "2026-01-19 16:11:12",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/biprUiJJTUN5f6cun6UEg5-1920-80.jpg",
+      "url": "/tech-news/2026-01-19/the-worlds-first-gemini-powered-ev-lands-this-week/",
+      "source": {
+        "emoji": "📰",
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "companies": [
+        "Google",
+        "Amazon"
+      ],
+      "people": []
+    },
+    {
+      "title": "Zrcadlový trénink: Jak se humanoidní robot naučil synchronizovat rty se řečí pomocí AI a odrazu",
+      "description": "Silikonové rty se přesně pohybovaly s každou slabikou, tvořily kulatý tvar pro „hello“ a uzavřenou polohu pro „world“. Poprvé se robot naučil synchronizovat řeč a pohyb rtů ne manuálním programováním, ale sledováním sebe sama v zrcadle.",
+      "slug": "mirror-training-how-a-humanoid-robot-learned-to-li",
+      "publishedAt": "2026-01-19T16:03:30+00:00",
+      "date": "2026-01-19 16:03:30",
+      "importance": 5,
+      "category": "robotika",
+      "urlToImage": "https://scienceblog.com/wp-content/uploads/2026/01/face.jpeg",
+      "url": "/tech-news/2026-01-19/mirror-training-how-a-humanoid-robot-learned-to-li/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "ScienceBlog.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Rusští hacktivisté zesilují disruptivní kybernetický tlak na britské organizace",
+      "description": "Britské Národní centrum pro kybernetickou bezpečnost (NCSC) varuje před pokračujícími disruptivními kyberútoky ruských hacktivistů na místní samosprávy a provozovatele kritické národní infrastruktury. Útoky se soustředí především na DoS útoky, které mají za cíl paralyzovat webové služby a online systémy.",
+      "slug": "russian-hacktivists-intensify-disruptive-cyber-pre",
+      "publishedAt": "2026-01-19T15:30:00+00:00",
+      "date": "2026-01-19 15:30:00",
+      "importance": 4,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://assets.infosecurity-magazine.com/webpage/og/21334949-af3c-4246-9e5f-d74dadd81003.jpg",
+      "url": "/tech-news/2026-01-19/russian-hacktivists-intensify-disruptive-cyber-pre/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Infosecurity Magazine"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Dodavatelé Nvidia pozastavili výrobu po blokádě čipů H200 v Číně",
+      "description": "Pozastavení exportu zdůrazňuje rostoucí obchodní napětí kolem AI hardware.",
+      "slug": "nvidia-suppliers-pause-output-after-china-blocks-h",
+      "publishedAt": "2026-01-19T15:18:39+00:00",
+      "date": "2026-01-19 15:18:39",
+      "importance": 4,
+      "category": "ai hardware",
+      "urlToImage": "https://s.yimg.com/os/en/us.finance.gurufocus/528af7acf1b685a79f0a0ee8c34ab69c",
+      "url": "/tech-news/2026-01-19/nvidia-suppliers-pause-output-after-china-blocks-h/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Průlom v AI: Jedna noc spánku odhalí 130 budoucích zdravotních rizik | AIHealthTech",
+      "description": "Výzkumníci představili SleepFM, základní model umělé inteligence trénovaný na více než 585 tisících hodinách polysomnografických záznamů z přes 65 tisíc jedinců. Z jediné noci spánku predikuje rizika 130 onemocnění včetně úmrtí, demence, infarktu myokardu a mrtvice.",
+      "slug": "ai-breakthrough-one-nights-sleep-reveals-130-futur",
+      "publishedAt": "2026-01-19T15:15:30+00:00",
+      "date": "2026-01-19 15:15:30",
+      "importance": 4,
+      "category": "zdravotní technologi",
+      "urlToImage": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/19003f02-5471-4c15-84e9-357e9d99e467/ChatGPT_Image_Jan_19__2026__08_37_58_AM.png?t=1768829895",
+      "url": "/tech-news/2026-01-19/ai-breakthrough-one-nights-sleep-reveals-130-futur/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Standout.digital"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Uvnitř ‚nejkontroverznějšího tématu‘ v Trumpově administrativě: Politika umělé inteligence",
+      "description": "Zatímco pravicové kruhy upravují svůj postoj k umělé inteligenci, několik koalic soupeří o pozornost prezidenta, uvedli experti na umělou inteligenci pro The Daily. Článek odhaluje vnitřní dynamiku tohoto sporu.",
+      "slug": "inside-the-most-controversial-issue-in-trump-admin",
+      "publishedAt": "2026-01-19T15:10:58+00:00",
+      "date": "2026-01-19 15:10:58",
+      "importance": 4,
+      "category": "ai politika",
+      "urlToImage": "https://www.dailysignal.com/wp-content/uploads/2026/01/AI.jpg",
+      "url": "/tech-news/2026-01-19/inside-the-most-controversial-issue-in-trump-admin/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Daily Signal"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Google přináší umělou inteligenci do Gmailu se smart schránkou a vyhledáváním e-mailů",
       "description": "Google zavádí funkce Gmailu poháněné umělou inteligencí, které umožňují vyhledávat, shrnovat a automaticky odpovídat na e-maily. Tyto nástroje urychlí správu přeplněných schránek a proces psaní zpráv.",
@@ -3826,28 +3939,6 @@
       "people": []
     },
     {
-      "title": "Export čipů Nvidia H200 do Číny schválen Trumpovou administrativou, druhé nejsilnější AI čipy však vyžadují speciální prověrku",
-      "description": "Administrativa Donalda Trumpa formálně povolila prodej čipů Nvidia H200 do Číny výměnou za 25procentní poplatek pro americkou vládu. Nvidia a čínské velvyslanectví ve Washingtonu neodpověděly na žádosti o komentář.",
-      "slug": "nvidia-h200-chip-exports-to-china-gets-nod-from-do",
-      "publishedAt": "2026-01-13T23:56:41+00:00",
-      "date": "2026-01-13 23:56:41",
-      "importance": 4,
-      "category": "ai čipy",
-      "urlToImage": "https://img.etimg.com/thumb/msid-126515253,width-1200,height-630,imgsize-120820,overlay-economictimes/articleshow.jpg",
-      "url": "/tech-news/2026-01-13/nvidia-h200-chip-exports-to-china-gets-nod-from-do/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": [
-        "Donald Trump"
-      ]
-    },
-    {
       "title": "‚Star Trek real‘: Hegseth chválí Grok za umožnění uživatelům vést války",
       "description": "‚Vyhraješ tento závod tím, že se staneš silou pro vedení války založenou na umělé inteligenci ve všech doménách,‘ řekl ministr obrany v pondělí.",
       "slug": "star-trek-real-hegseth-praises-grok-for-allowing-u",
@@ -3866,44 +3957,6 @@
       "people": [
         "Hegseth"
       ]
-    },
-    {
-      "title": "Pentagon oznámil novou strategii pro akceleraci umělé inteligence",
-      "description": "Ministerstvo obrany USA spustilo novou strategii pro rychlou integraci umělé inteligence do armády, aby se stalo 'AI-first' silou. Plán, nařízený prezidentem Donaldem Trumpem, zahrnuje sedm projektů zaměřených na bojové schopnosti, zpracování zpravodajství a automatizaci administrativy.",
-      "slug": "pentagon-announces-new-ai-acceleration-strategy",
-      "publishedAt": "2026-01-13T16:00:37+00:00",
-      "date": "2026-01-13 16:00:37",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://mf.b37mrtl.ru/files/2026.01/article/69666b4120302777f704cdb4.jpg",
-      "url": "/tech-news/2026-01-13/pentagon-announces-new-ai-acceleration-strategy/",
-      "source": {
-        "emoji": "📰",
-        "id": "rt",
-        "name": "RT"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Ochrante svou WAN síť před hrozbami kvantových počítačů",
-      "description": "Kvantové počítače prolomí současné šifrování veřejným klíčem, což činí provoz WAN sítí zvláště zranitelným vůči útokům harvest now, decrypt later (HNDL). Nové bezpečné routry řady Cisco 8000 Series umožňují brzkou ochranu proti kvantovým hrozbám pomocí post-quantum předem sdílených klíčů.",
-      "slug": "safeguard-your-wan-from-quantum-computing-threats",
-      "publishedAt": "2026-01-13T16:00:31+00:00",
-      "date": "2026-01-13 16:00:31",
-      "importance": 5,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/01/PQC-blog-feature.png",
-      "url": "/tech-news/2026-01-13/safeguard-your-wan-from-quantum-computing-threats/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Cisco.com"
-      },
-      "companies": [
-        "Cisco"
-      ],
-      "people": []
     },
     {
       "title": "Velká Británie zakazuje deepfake akty na X po skandálu s Grok AI – Promiň, Elone, nejde o potlačení svobody slova",
@@ -3984,67 +4037,6 @@
         "Google"
       ],
       "people": []
-    },
-    {
-      "title": "OpenAI získává zdravotnický startup Torch za 100 milionů dolarů",
-      "description": "Torch je malý startup v oblasti zdravotnických technologií, který sjednocuje roztříštěná medicínská data, jako výsledky laboratorních testů, údaje o lécích a záznamy z lékařských návštěv, do jediného systému čitelného pro umělou inteligenci. OpenAI toto akvizice integruje do funkce ChatGPT Health pro lepší analýzu osobních zdravotních dat.",
-      "slug": "openai-acquires-healthcare-startup-torch-deal-pegg",
-      "publishedAt": "2026-01-13T02:56:48+00:00",
-      "date": "2026-01-13 02:56:48",
-      "importance": 4,
-      "category": "zdravotnické ai",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-10304,resizemode-75,msid-126495788/tech/startups/openai-acquires-healthcare-startup-torch-deal-pegged-at-100-million.jpg",
-      "url": "/tech-news/2026-01-13/openai-acquires-healthcare-startup-torch-deal-pegg/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "OpenAI",
-        "Torch"
-      ],
-      "people": []
-    },
-    {
-      "title": "Kroger a Papa Johns testují AI agenty Gemini pro maloobchod",
-      "description": "Google Cloud představil platformu Gemini Enterprise for Customer Experience, která umožňuje retailerům nasadit AI agenty pro podporu nakupování, objednávání a zákaznického servisu napříč digitálními kanály. Kroger a Papa Johns ji již integrují do svých systémů, což představuje posun k autonomním AI agentům v retailu.",
-      "slug": "kroger-papa-johns-test-gemini-ai-agents-for-retail",
-      "publishedAt": "2026-01-13T00:17:41+00:00",
-      "date": "2026-01-13 00:17:41",
-      "importance": 4,
-      "category": "ai agenti",
-      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/01/Papa-Johns-AI-retail1.jpg",
-      "url": "/tech-news/2026-01-13/kroger-papa-johns-test-gemini-ai-agents-for-retail/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "pymnts.com"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Nový navrhovaný zákon by umožnil provoz autonomních vozidel ve státě New York",
-      "description": "Guvernérka New Yorku Kathy Hochul navrhne zákon umožňující omezené pilotní programy autonomních vozidel v menších městech mimo New York City. Plnohodnotné komerční služby by mohly následovat.",
-      "slug": "new-proposed-legislation-would-let-self-driving-ca",
-      "publishedAt": "2026-01-13T00:06:38+00:00",
-      "date": "2026-01-13 00:06:38",
-      "importance": 4,
-      "category": "autonomní vozidla",
-      "urlToImage": "https://media.wired.com/photos/69657ea7c1888fd2ae66437c/191:100/w_1280,c_limit/New-Proposed-Legislation-Would-Let-Self-Driving-Cars%20Operate%20in-New-York-State-Gear-2250123135.jpg",
-      "url": "/tech-news/2026-01-13/new-proposed-legislation-would-let-self-driving-ca/",
-      "source": {
-        "emoji": "🔧",
-        "id": "wired",
-        "name": "Wired"
-      },
-      "companies": [],
-      "people": [
-        "Kathy Hochul"
-      ]
     }
   ]
 }
