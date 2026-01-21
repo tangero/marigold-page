@@ -1,7 +1,63 @@
 {
-  "generated": "2026-01-21T08:59:54.573559+00:00",
+  "generated": "2026-01-21T13:12:03.545544+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Proč elektřina, ne kapitál, rozhodne o vítězství v bitvách o AI",
+      "description": "AI a kryptoměny se stále hodnotí primárně jako technologické fenomény s důrazem na čipy, modely nebo získaný kapitál. Toto pojetí je však zastaralé – v aktuální fázi cyklu růst určuje především dostupnost elektrické energie.",
+      "slug": "why-power-not-capital-will-decide-who-wins-the-ai-",
+      "publishedAt": "2026-01-20T12:00:00+00:00",
+      "date": "2026-01-20 12:00:00",
+      "importance": 4,
+      "category": "energetika",
+      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2026-01-16_pci9gfco4e.jpg",
+      "url": "/tech-news/2026-01-20/why-power-not-capital-will-decide-who-wins-the-ai/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "OilPrice.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Vypnutí internetu dusí íránské podniky již oslabené propadem měny",
+      "description": "Íránci se téměř dva týdny potýkají s téměř úplným výpadem internetu. Tento krok vlády kvůli protestům výrazně zasažení firmy závislé na online platformách.",
+      "slug": "internet-shutdown-squeezes-irans-ailing-businesses",
+      "publishedAt": "2026-01-20T11:41:38+00:00",
+      "date": "2026-01-20 11:41:38",
+      "importance": 5,
+      "category": "vypnutí internetu",
+      "urlToImage": "https://i.abcnewsfe.com/a/75311856-8b9c-4155-b133-e28bb06ed700/wirestory_a0bd2df1d13355dcc28f46e5b5b3c893_16x9.jpg?w=1600",
+      "url": "/tech-news/2026-01-20/internet-shutdown-squeezes-irans-ailing-businesses/",
+      "source": {
+        "emoji": "📰",
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Je ChatGPT Health nový WebMD?",
+      "description": "Nový chatbot od OpenAI má posílit rozhodování uživatelů o zdraví – riskuje však vyvolat zmatky a úzkosti. Služba umožní nahrávat lékařské záznamy a data z aplikací pro wellness.",
+      "slug": "is-chatgpt-health-the-new-webmd",
+      "publishedAt": "2026-01-20T11:30:12+00:00",
+      "date": "2026-01-20 11:30:12",
+      "importance": 4,
+      "category": "zdravotní ai",
+      "urlToImage": "https://www.salon.com/app/uploads/2026/01/ai-doctor-GettyImages-2207571664.jpg",
+      "url": "/tech-news/2026-01-20/is-chatgpt-health-the-new-webmd/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Salon"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
     {
       "title": "Everstone spojuje Wingify a AB Tasty do platformy pro optimalizaci digitálních zážitků s obratem přes 100 milionů dolarů | TechCrunch",
       "description": "Soukromá investiční firma Everstone Capital spojuje indickou společnost Wingify, která se zaměřuje na A/B testování webových stránek, s francouzskou AB Tasty do jedné platformy s ročním obratem přes 100 milionů dolarů. Kombinovaná firma bude obsluhovat přes 4000 zákazníků a investovat do AI nástrojů pro personalizaci a testování.",
@@ -3459,26 +3515,6 @@
       "people": []
     },
     {
-      "title": "Platforma X Elona Muska čelí vážným problémům kvůli deepfake pornografii",
-      "description": "Grok se používá k tvorbě zneužívajících a nelegálních obrázků. Aktualizace umožnila manipulaci s cizími fotografiemi bez souhlasu.",
-      "slug": "elon-musks-x-is-in-deep-trouble-over-deepfake-porn",
-      "publishedAt": "2026-01-14T20:15:18+00:00",
-      "date": "2026-01-14 20:15:18",
-      "importance": 4,
-      "category": "deepfakes",
-      "urlToImage": "https://foreignpolicy.com/wp-content/uploads/2026/01/GROK-X-CSAM-DEEPFAKES-GettyImages-2255888850.png?w=1000",
-      "url": "/tech-news/2026-01-14/elon-musks-x-is-in-deep-trouble-over-deepfake-porn/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Foreign Policy"
-      },
-      "companies": [],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
       "title": "USA schvalují export čipů Nvidia H200 do Číny",
       "description": "S určitými podmínkami.",
       "slug": "us-approves-nvidia-h200-chip-exports-to-china",
@@ -3634,26 +3670,6 @@
         "Anthropic"
       ],
       "people": []
-    },
-    {
-      "title": "Elon Musk: Studium na lékařské fakultě bude za tři roky zbytečné, každý dostane lepší péči než prezident",
-      "description": "Elon Musk nedávno prohlásil, že díky umělé inteligenci bude za tři roky studium medicíny zbytečné. Každý bude mít přístup k lékařské péči lepší než současná prezidentská.",
-      "slug": "elon-musk-says-going-to-medical-school-will-be-poi",
-      "publishedAt": "2026-01-14T12:20:00+00:00",
-      "date": "2026-01-14 12:20:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/cDSnX6b2JMcSBTmhzVUnZb-2560-80.jpg",
-      "url": "/tech-news/2026-01-14/elon-musk-says-going-to-medical-school-will-be-poi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Windows Central"
-      },
-      "companies": [],
-      "people": [
-        "Elon Musk"
-      ]
     },
     {
       "title": "Musk předpovídá, že AI přinese světovou hojnost s příchodem AGI",
@@ -3848,27 +3864,6 @@
         "Niamh Smyth",
         "Elon Musk"
       ]
-    },
-    {
-      "title": "Podporovaná Flipkartem společnost Shadowfax stanovila cenové pásmo na 118–124 rupií za akcii pro IPO v hodnotě 1 907 milionů rupií",
-      "description": "Logistická společnost Shadowfax Technologies, podporovaná Flipkartem a dalšími investory, stanovila cenové pásmo pro své IPO na 118–124 rupií za akcii. Veřejná nabídka v celkové hodnotě 1 907 milionů rupií zahrnuje novou emisi akcií za 1 000 milionů rupií a nabídku k prodeji (OFS) za 907 milionů rupií.",
-      "slug": "flipkart-backed-shadowfax-sets-price-band-at-rs-11",
-      "publishedAt": "2026-01-14T03:23:24+00:00",
-      "date": "2026-01-14 03:23:24",
-      "importance": 4,
-      "category": "startupy",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-29191,resizemode-75,msid-126517054/tech/technology/flipkart-backed-shadowfax-sets-price-band-at-rs-118-124-per-share-for-rs-1907-crore-ipo.jpg",
-      "url": "/tech-news/2026-01-14/flipkart-backed-shadowfax-sets-price-band-at-rs-11/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Flipkart",
-        "Shadowfax"
-      ],
-      "people": []
     },
     {
       "title": "Google a Character.AI souhlasí s vyrovnáním sporů s rodinami, kde se obviňují z podpořování sebevraždy teenagera chatovacími AI",
