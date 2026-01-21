@@ -1,10 +1,91 @@
 {
-  "generated": "2026-01-21T01:37:52.022616+00:00",
+  "generated": "2026-01-21T05:17:25.658547+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "Micron rychle zvýší výrobu DRAM akvizicí továrny za 1,8 miliardy dolarů",
-      "description": "Taiwan's Powerchip prodává svou továrnu v Tongluo, otevřenou před 19 měsíci po investici 9,5 miliardy dolarů, americkému Microns za 1,8 miliardy. Tento krok umožní Microns rychle navýšit kapacitu výrobu pamětí DRAM, které jsou klíčové pro rostoucí poptávku v oblasti AI a datových center.",
+      "title": "Írán tvrdí, že internet bude plně obnoven do konce týdne",
+      "description": "Íránský viceprezident pro vědu, technologii a znalostní ekonomiku Hossein Afshin oznámil, že celostátní přístup k internetu bude obnoven do konce týdne na příkaz prezidenta, čímž skončí vypnutí zavedené 8. ledna kvůli protestům.",
+      "slug": "iran-claims-internet-will-be-fully-restored-by-wee",
+      "publishedAt": "2026-01-20T02:52:32+00:00",
+      "date": "2026-01-20 02:52:32",
+      "importance": 5,
+      "category": "internetová cenzura",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1206528.jpg",
+      "url": "/tech-news/2026-01-20/iran-claims-internet-will-be-fully-restored-by-wee/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Israelnationalnews.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Kalifornie nařizuje společnosti Elona Muska s AI okamžitě přestat šířit sexuální deepfakes",
+      "description": "Generální prokurátor Kalifornie Rob Bonta poslal společnosti xAI dopis s výzvou k ukončení tvorby a distribuce nekonsenzuálních sexuálních obrázků. Akce souvisí s nedávným updatem nástroje Grok, který umožňuje editaci obrázků.",
+      "slug": "california-orders-elon-musks-ai-company-to-immedia",
+      "publishedAt": "2026-01-20T01:38:08+00:00",
+      "date": "2026-01-20 01:38:08",
+      "importance": 4,
+      "category": "deepfakes",
+      "urlToImage": "https://cdn.kpbs.org/dims4/default/7bfa61c/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/90/?url=http%3A%2F%2Fkpbs-brightspot.s3.us-west-2.amazonaws.com%2F58%2F85%2F3d1777d5414d84bd2e04168be1c5%2F072823-x-former-twitter-ap-cm.webp",
+      "url": "/tech-news/2026-01-20/california-orders-elon-musks-ai-company-to-immedia/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "KPBS"
+      },
+      "companies": [
+        "xAI"
+      ],
+      "people": [
+        "Elon Musk",
+        "Rob Bonta"
+      ]
+    },
+    {
+      "title": "Vývojář AI čipů FuriosaAI údajně hledá financování až 500 milionů dolarů",
+      "description": "Seoulská společnost FuriosaAI, která vyvíjí čipy pro umělou inteligenci, rokuje o novém kole financování v objemu 300 až 500 milionů dolarů. Firma najala investiční banky Morgan Stanley a Mirae Asset Securities k uzavření kola série D.",
+      "slug": "ai-chip-developer-furiousaai-reportedly-raising-up",
+      "publishedAt": "2026-01-20T01:19:14+00:00",
+      "date": "2026-01-20 01:19:14",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/RNGD.png",
+      "url": "/tech-news/2026-01-20/ai-chip-developer-furiousaai-reportedly-raising-up/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "FuriousaAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Vývojář AI čipů FuriosaAI údajně hledá financování až 500 milionů dolarů",
+      "description": "Seoulská firma FuriosaAI, specializující se na čipy pro umělou inteligenci, prý rokuje o novém kole financování v rozmezí 300 až 500 milionů dolarů. Společnost angažovala investiční banky Morgan Stanley a Mirae Asset Securities pro uzavření kola série D.",
+      "slug": "ai-chip-developer-furiosaai-reportedly-raising-up-",
+      "publishedAt": "2026-01-20T01:19:14+00:00",
+      "date": "2026-01-20 01:19:14",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/RNGD.png",
+      "url": "/tech-news/2026-01-20/ai-chip-developer-furiosaai-reportedly-raising-up/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "FuriosaAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Micron rychle rozšíří výrobu DRAM nákupem továrny za 1,8 miliardy dolarů",
+      "description": "Tajwanská společnost Powerchip prodává továrnu na výrobu čipů, kterou otevřela před 19 měsíci po investici 9,5 miliardy dolarů. Micron tím získá okamžitou kapacitu pro výrobu DRAM pamětí.",
       "slug": "micron-finds-a-way-to-make-more-dram-with-18bn-chi",
       "publishedAt": "2026-01-20T00:55:52+00:00",
       "date": "2026-01-20 00:55:52",
@@ -24,13 +105,13 @@
       "people": []
     },
     {
-      "title": "Jio Platforms spouští přípravy na obří úvodní veřejnou nabídku akcií",
-      "description": "Jio Platforms vybrala Morgan Stanley a Goldman Sachs jako hlavní bankéře pro své plánované IPO s očekávanou valuací 133–182 miliard USD. Společnost čeká na schválení ministerstva financí pro 2,5% veřejný podíl u velkých IPO, přičemž soukromí investoři plánují prodat část svých podílů.",
+      "title": "Jio Platforms spouští přípravy na obří veřejnou nabídku akcií",
+      "description": "Jio Platforms vybralo Morgan Stanley a Goldman Sachs jako hlavní bankéře pro své nadcházející IPO s očekávanou valuací 133–182 miliard USD. Společnost čeká na schválení ministerstva financí pro 2,5% veřejnou nabídku u obřích IPO a plánuje smíšenou emisi primárních i sekundárních akcií.",
       "slug": "jio-platforms-sets-ball-rolling-on-mega-public-flo",
       "publishedAt": "2026-01-20T00:53:20+00:00",
       "date": "2026-01-20 00:53:20",
       "importance": 4,
-      "category": "ipo",
+      "category": "veřejná nabídka",
       "urlToImage": "https://img.etimg.com/thumb/msid-126739062,width-1200,height-630,imgsize-2855927,overlay-etmarkets/articleshow.jpg",
       "url": "/tech-news/2026-01-20/jio-platforms-sets-ball-rolling-on-mega-public-flo/",
       "source": {
@@ -3378,27 +3459,6 @@
       "people": []
     },
     {
-      "title": "Apple volí Google Gemini pro pohon Siri, aby získal čas",
-      "description": "Gemini byl logickou volbou pro Apple Intelligence, alespoň dokud Apple nevyvine vlastní AI model. Partnerství umožňuje Applu rychle posunout Siri do éry agentických AI systémů.",
-      "slug": "apple-picking-google-gemini-to-power-siri-was-abou",
-      "publishedAt": "2026-01-14T19:45:58+00:00",
-      "date": "2026-01-14 19:45:58",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.cnet.com/a/img/resize/33a350e366f74ea895455b2a00ad628a1c157537/hub/2026/01/14/0c9351cf-453c-4c77-ae26-9d520ddd7476/image-1.png?auto=webp&fit=crop&height=675&width=1200",
-      "url": "/tech-news/2026-01-14/apple-picking-google-gemini-to-power-siri-was-abou/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNET"
-      },
-      "companies": [
-        "Apple",
-        "Google"
-      ],
-      "people": []
-    },
-    {
       "title": "Národní výpadek mobilních služeb ochromil telefonní spojení v Disney World, miliony v režimu SOS",
       "description": "Náhlý celonárodní výpadek mobilních sítí Verizonu, AT&T a T-Mobile ovlivnil přes 146 milionů zákazníků v USA, včetně návštěvníků Walt Disney World Resortu. Zákazníci se ocitli v režimu SOS bez datového připojení a hlasových služeb, což zkomplikovalo navigaci v parcích závislou na aplikaci My Disney Experience.",
       "slug": "national-outage-takes-down-phone-service-at-disney",
@@ -3536,24 +3596,6 @@
       "people": []
     },
     {
-      "title": "Globální výzkumná zpráva o platformách pro vývoj autonomních vozidel 2026: Trendy trhu v hodnotě 159,5 miliardy dolarů, konkurenční prostředí, strategie a příležitosti, 2020-2025, 2025-2030F, 2035F",
-      "description": "Trh platforem pro vývoj autonomních vozidel poroste z 39,6 miliardy dolarů v roce 2025 na 52,39 miliardy v roce 2026 a dosáhne 159,5 miliardy do roku 2030. Klíčové příležitosti zahrnují pokroky v detekci překážek poháněné AI, integraci V2X komunikace a expanzi v komerčních flotilách vozidel.",
-      "slug": "autonomous-vehicle-development-platform-global-res",
-      "publishedAt": "2026-01-14T15:41:00+00:00",
-      "date": "2026-01-14 15:41:00",
-      "importance": 4,
-      "category": "autonomní vozidla",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-      "url": "/tech-news/2026-01-14/autonomous-vehicle-development-platform-global-res/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Elon Musk: Studium na lékařské fakultě bude za tři roky zbytečné, každý dostane lepší péči než prezident",
       "description": "Elon Musk nedávno prohlásil, že díky umělé inteligenci bude za tři roky studium medicíny zbytečné. Každý bude mít přístup k lékařské péči lepší než současná prezidentská.",
       "slug": "elon-musk-says-going-to-medical-school-will-be-poi",
@@ -3571,28 +3613,6 @@
       "companies": [],
       "people": [
         "Elon Musk"
-      ]
-    },
-    {
-      "title": "Ben Horowitz: Umělá inteligence bude větší než internet – obavy z bubliny přehlížejí, co se skutečně děje",
-      "description": "Spoluzakladatel investičního fondu Andreessen Horowitz Ben Horowitz uvedl, že vzestup umělé inteligence není jen humbukem. Rekordní poptávka a adopce podle něj vysvětlují rostoucí valuace společností v tomto sektoru.",
-      "slug": "ben-horowitz-says-ai-will-be-bigger-than-the-inter",
-      "publishedAt": "2026-01-14T11:57:47+00:00",
-      "date": "2026-01-14 11:57:47",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://i.insider.com/69676c2f64858d02d2184fed?width=1200&format=jpeg",
-      "url": "/tech-news/2026-01-14/ben-horowitz-says-ai-will-be-bigger-than-the-inter/",
-      "source": {
-        "emoji": "📰",
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "companies": [
-        "Andreessen Horowitz"
-      ],
-      "people": [
-        "Ben Horowitz"
       ]
     },
     {
@@ -3721,26 +3741,6 @@
         "Elon Musk",
         "Samuel Altman"
       ]
-    },
-    {
-      "title": "Čínští celníci dostali pokyn, že čipy Nvidia H200 nejsou povoleny k dovozu, říkají zdroje",
-      "description": "Čína prý nařídila celním agentům a domácím technologickým firmám, aby nedovážely AI čipy Nvidia H200, přičemž úředníci to označují za dočasný de facto zákaz. Motivy Pekingu zůstávají nejasné, spekulace sahají od podpory domácích čipových firem po vyjednávací taktiku vůči USA.",
-      "slug": "chinas-customs-agents-told-nvidias-h200-chips-are-",
-      "publishedAt": "2026-01-14T07:03:21+00:00",
-      "date": "2026-01-14 07:03:21",
-      "importance": 4,
-      "category": "ai čipy",
-      "urlToImage": "https://img.etimg.com/thumb/msid-126520429,width-1200,height-630,imgsize-17916,overlay-economictimes/articleshow.jpg",
-      "url": "/tech-news/2026-01-14/chinas-customs-agents-told-nvidias-h200-chips-are/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": []
     },
     {
       "title": "Dcera WISeKey, SEALSQ, uzavřela memorándum o porozumění ohledně potenciální investice a akvizice kvantové firmy Quobly",
