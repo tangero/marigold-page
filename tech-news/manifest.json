@@ -1,7 +1,71 @@
 {
-  "generated": "2026-01-21T17:02:48.511657+00:00",
+  "generated": "2026-01-21T21:01:37.117441+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Generální ředitel Anthropic Dario Amodei: Umělá inteligence může zvýšit jak růst HDP, tak nezaměstnanost",
+      "description": "Šéf společnosti Anthropic, která vyvíjí velké jazykové modely jako Claude, varuje, že AI vytvoří nový ekonomický scénář s vysokým růstem HDP a současně vysokou nezaměstnaností. Tento vývoj by podle něj zvýšil sociální nerovnosti, zejména v USA.",
+      "slug": "anthropic-ceo-dario-amodei-says-ai-could-increase-",
+      "publishedAt": "2026-01-20T19:34:49+00:00",
+      "date": "2026-01-20 19:34:49",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/01/AI-artificial-intelligence.jpeg",
+      "url": "/tech-news/2026-01-20/anthropic-ceo-dario-amodei-says-ai-could-increase/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": [
+        "Dario Amodei"
+      ]
+    },
+    {
+      "title": "OpenAI zavádí predikci věku",
+      "description": "Navazuje na práci k posílení bezpečnosti teenagerů.",
+      "slug": "openai-is-rolling-out-age-prediction",
+      "publishedAt": "2026-01-20T19:34:48+00:00",
+      "date": "2026-01-20 19:34:48",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://images.ctfassets.net/kftzwdyauwt9/6Zc47ksvon6g1VivNjTI0R/b5c02b2cec9669fd1f46822d3bfad12b/OAI_AgePrediction_Blog_ArtCard_1200x630.png?w=1600&h=900&fit=fill",
+      "url": "/tech-news/2026-01-20/openai-is-rolling-out-age-prediction/",
+      "source": {
+        "emoji": "🤖",
+        "id": null,
+        "name": "Openai.com"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Davos 2026: Čína výrazně dohnala USA, ale stále nedokáže inovovat za hranicemi současných možností, říká šéf Google DeepMind Demis Hassabis",
+      "description": "Demis Hassabis, generální ředitel Google DeepMind, předpovídá, že umělá obecná inteligence (AGI) do deseti let transformuje vědu a zdraví a přinese éru hojnosti. Zároveň oceňuje pokrok Číny v AI schopnostech, ale zdůrazňuje její nedostatek průlomových inovací na nových hranicích.",
+      "slug": "davos-2026-china-has-caught-up-a-lot-with-us-but-y",
+      "publishedAt": "2026-01-20T19:09:22+00:00",
+      "date": "2026-01-20 19:09:22",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-156250,resizemode-75,msid-126853497/tech/technology/davos-2026-china-has-caught-up-a-lot-with-us-but-yet-to-innovate-beyond-frontier-says-google-deepmind-ceo-demis-hassabis.jpg",
+      "url": "/tech-news/2026-01-20/davos-2026-china-has-caught-up-a-lot-with-us-but-y/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Google DeepMind"
+      ],
+      "people": [
+        "Demis Hassabis"
+      ]
+    },
     {
       "title": "Spojené arabské emiráty dostanou pokročilé AI čipy za pár měsíců, říká šéf G42",
       "description": "G42, přední společnost se zaměřením na umělou inteligenci v Spojených arabských emirátech, očekává dodávky pokročilých čipů od firem Nvidia, AMD a Cerebras během příštích měsíců. Tyto dodávky posílí jejich postavení v globálním AI sektoru.",
@@ -3692,27 +3756,6 @@
       "people": []
     },
     {
-      "title": "Musk předpovídá, že AI přinese světovou hojnost s příchodem AGI",
-      "description": "Elon Musk v podcastu Moonshots With Peter Diamandis uvedl, že pokročilá umělá inteligence povede k situaci, kdy lidé nebudou muset šetřit na důchod díky poklesu cen a univerzálnímu příjmu. Predikuje příchod AGI v roce 2026 a překročení lidské inteligence do roku 2030.",
-      "slug": "musk-predicts-ai-will-lead-to-abundance-when-agi-a",
-      "publishedAt": "2026-01-14T11:51:59+00:00",
-      "date": "2026-01-14 11:51:59",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2024/03/Elon-Musk-OpenAI.jpg",
-      "url": "/tech-news/2026-01-14/musk-predicts-ai-will-lead-to-abundance-when-agi-a/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "pymnts.com"
-      },
-      "companies": [],
-      "people": [
-        "Elon Musk",
-        "Peter Diamandis"
-      ]
-    },
-    {
       "title": "Šéf Nvidia Jensen Huang odmítá apokalyptické spekulace o AI: Sci-fi není užitečné",
       "description": "Šéf Nvidia Jensen Huang kritizoval doomerské narativy, které vykreslují umělou inteligenci jako konec světa, a argumentoval, že takové sci-fi rámování zkresluje veřejné chápání a regulace. V podcastu No Priors varoval, že to škodí průmyslu i vládám.",
       "slug": "nvidia-ceo-jensen-huang-pushes-back-on-ai-doomsday",
@@ -3775,30 +3818,6 @@
         "Google"
       ],
       "people": []
-    },
-    {
-      "title": "Soudní spor Musk proti OpenAI odstartuje 27. dubna",
-      "description": "Federální soud v San Franciscu stanovil, že soud v žalobě Elona Muska proti OpenAI, Samu Altmanovi a Microsoftu začne 27. dubna. Musk obviňuje organizaci z opuštění původní neziskové mise ve prospěch ziskového modelu spojeného s Microsoftem.",
-      "slug": "musk-vs-openai-trial-set-for-april-27",
-      "publishedAt": "2026-01-14T07:25:36+00:00",
-      "date": "2026-01-14 07:25:36",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.spxdaily.com/images-hg/elon-musk-x-ai-marker-hg.jpg",
-      "url": "/tech-news/2026-01-14/musk-vs-openai-trial-set-for-april-27/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Space Daily"
-      },
-      "companies": [
-        "OpenAI",
-        "Microsoft"
-      ],
-      "people": [
-        "Elon Musk",
-        "Samuel Altman"
-      ]
     },
     {
       "title": "Dcera WISeKey, SEALSQ, uzavřela memorándum o porozumění ohledně potenciální investice a akvizice kvantové firmy Quobly",
@@ -3969,28 +3988,6 @@
       ],
       "people": [
         "Donald Trump"
-      ]
-    },
-    {
-      "title": "Propouštění v divizi VR od Meta a zavírání studií podtrhují Zuckerbergův velký obrat k umělé inteligenci",
-      "description": "Meta propouští zaměstnance v divizi Reality Labs zaměřené na virtuální realitu a zavírá několik VR studií, aby přesunula zdroje do umělé inteligence. Tento krok nastal necelé čtyři roky po přejmenování Facebooku na Meta s důrazem na metaverse.",
-      "slug": "metas-vr-layoffs-studio-closures-underscore-zucker",
-      "publishedAt": "2026-01-14T01:21:22+00:00",
-      "date": "2026-01-14 01:21:22",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107121537-1663699194580-gettyimages-612997102-OCULUS_CONNECT.jpeg?v=1768251927&w=1920&h=1080",
-      "url": "/tech-news/2026-01-14/metas-vr-layoffs-studio-closures-underscore-zucker/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNBC"
-      },
-      "companies": [
-        "Meta"
-      ],
-      "people": [
-        "Mark Zuckerberg"
       ]
     },
     {
