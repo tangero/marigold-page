@@ -1,8 +1,8 @@
 {
   "watermark": {
-    "model_id": "openai/gpt-audio",
-    "created_timestamp": 1768862569,
-    "updated_at": "2026-01-20T07:28:11.428175"
+    "model_id": "liquid/lfm-2.5-1.2b-thinking:free",
+    "created_timestamp": 1768927527,
+    "updated_at": "2026-01-21T07:28:08.465485"
   },
   "analyzed_models": {
     "openai/gpt-5.1-codex-max": {
@@ -176,11 +176,25 @@
       "analyzed_at": "2026-01-20T07:28:11.428161",
       "success": true,
       "file_path": "/home/runner/work/marigold-page/marigold-page/_llm/2026-01-19-openai-gpt-audio.md"
+    },
+    "liquid/lfm-2.5-1.2b-instruct:free": {
+      "name": "LiquidAI: LFM2.5-1.2B-Instruct (free)",
+      "created_timestamp": 1768927521,
+      "analyzed_at": "2026-01-21T07:27:34.462603",
+      "success": true,
+      "file_path": "/home/runner/work/marigold-page/marigold-page/_llm/2026-01-20-liquid-lfm-2-5-1-2b-instruct-free.md"
+    },
+    "liquid/lfm-2.5-1.2b-thinking:free": {
+      "name": "LiquidAI: LFM2.5-1.2B-Thinking (free)",
+      "created_timestamp": 1768927527,
+      "analyzed_at": "2026-01-21T07:28:08.465472",
+      "success": true,
+      "file_path": "/home/runner/work/marigold-page/marigold-page/_llm/2026-01-20-liquid-lfm-2-5-1-2b-thinking-free.md"
     }
   },
   "statistics": {
-    "total_analyzed": 25,
-    "last_check": "2026-01-20T07:28:11.428531",
-    "last_new_models_found": 3
+    "total_analyzed": 27,
+    "last_check": "2026-01-21T07:28:08.465902",
+    "last_new_models_found": 2
   }
 }
