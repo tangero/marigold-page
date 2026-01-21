@@ -1,7 +1,107 @@
 {
-  "generated": "2026-01-21T13:12:03.545544+00:00",
+  "generated": "2026-01-21T17:02:48.511657+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Spojené arabské emiráty dostanou pokročilé AI čipy za pár měsíců, říká šéf G42",
+      "description": "G42, přední společnost se zaměřením na umělou inteligenci v Spojených arabských emirátech, očekává dodávky pokročilých čipů od firem Nvidia, AMD a Cerebras během příštích měsíců. Tyto dodávky posílí jejich postavení v globálním AI sektoru.",
+      "slug": "uae-to-get-advanced-ai-chips-in-couple-of-months-g",
+      "publishedAt": "2026-01-20T16:16:18+00:00",
+      "date": "2026-01-20 16:16:18",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": null,
+      "url": "/tech-news/2026-01-20/uae-to-get-advanced-ai-chips-in-couple-of-months-g/",
+      "source": {
+        "emoji": "📰",
+        "id": "financial-post",
+        "name": "Financial Post"
+      },
+      "companies": [
+        "G42"
+      ],
+      "people": []
+    },
+    {
+      "title": "Podcast On theCUBE: Alphabet dosáhlo 4 bilionů, Nvidia ovládá AI továrny a maloobchod přijímá agenty",
+      "description": "Nový rok 2026 přinesl klíčové události v oblasti umělé inteligence: Alphabet dosáhl tržní kapitalizace 4 bilionů dolarů díky agresivní AI strategii Google a Nvidia upevnila dominanci v infrastruktuře pro AI továrny. Maloobchod se zaměřuje na autonomní agenty, což signalizuje přechod k agentickému nákupnímu systému.",
+      "slug": "on-thecube-pod-alphabet-hits-4t-nvidia-rules-ai-fa",
+      "publishedAt": "2026-01-20T16:02:14+00:00",
+      "date": "2026-01-20 16:02:14",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/John-Furrier-and-Dave-Vellante-theCUBE-Pod-119.png",
+      "url": "/tech-news/2026-01-20/on-thecube-pod-alphabet-hits-4t-nvidia-rules-ai-fa/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Alphabet",
+        "Google",
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Cena akcií Micron: Proč akcie MU dnes rostou a jaký je nový cenový cíl",
+      "description": "Akcie Micron Technology (MU) výrazně vzrostly poté, co investiční banka Stifel zvýšila cenový cíl na 360 USD z předchozích 300 USD při udržení doporučení Koupit. Důvodem je silná poptávka po DRAM čipech v AI cloudu, lepší řízení nabídky a akvizice továrny v Tchaj-wanu za 1,8 miliardy USD.",
+      "slug": "micron-stock-price-why-mu-shares-are-rising-today-",
+      "publishedAt": "2026-01-20T15:55:58+00:00",
+      "date": "2026-01-20 15:55:58",
+      "importance": 5,
+      "category": "akcie",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126827052,width-1200,height-630,imgsize-13770,overlay-economictimes/articleshow.jpg",
+      "url": "/tech-news/2026-01-20/micron-stock-price-why-mu-shares-are-rising-today/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Micron Technology"
+      ],
+      "people": []
+    },
+    {
+      "title": "Humanoidní roboti: Další hranice fyzické AI",
+      "description": "Kdysi považovaní pouze za sci-fi, humanoidní roboti se stávají realitou díky pokrokům v umělé inteligenci a dalších technologiích. Tyto stroje kombinují agentickou AI s lidskou formou pro autonomní působení v reálném světě.",
+      "slug": "humanoid-robots-the-next-frontier-in-physical-ai",
+      "publishedAt": "2026-01-20T15:54:00+00:00",
+      "date": "2026-01-20 15:54:00",
+      "importance": 5,
+      "category": "robotika",
+      "urlToImage": "https://www.techtarget.com/rms/onlineimages/chatbot_g1273438441.jpg",
+      "url": "/tech-news/2026-01-20/humanoid-robots-the-next-frontier-in-physical-ai/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Techtarget.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Google vstupuje do světa kontaktních center",
+      "description": "Na nedávné akci NRF převládl zájem o nakupování v answer enginech díky novému Gemini Enterprise pro zákaznickou zkušenost a Universal Commerce Protocol od Google. Méně nápadná, ale významná novinka pro specialisty na CX a kontaktní centra je oznámení Google Cloud’s Customer Experience Agent Studio.",
+      "slug": "google-has-entered-the-contact-center-chat",
+      "publishedAt": "2026-01-20T15:50:05+00:00",
+      "date": "2026-01-20 15:50:05",
+      "importance": 4,
+      "category": "zákaznická zkušenost",
+      "urlToImage": "https://go.forrester.com/wp-content/uploads/2026/01/Social-Image-Template.png",
+      "url": "/tech-news/2026-01-20/google-has-entered-the-contact-center-chat/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Forrester.com"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
     {
       "title": "Proč elektřina, ne kapitál, rozhodne o vítězství v bitvách o AI",
       "description": "AI a kryptoměny se stále hodnotí primárně jako technologické fenomény s důrazem na čipy, modely nebo získaný kapitál. Toto pojetí je však zastaralé – v aktuální fázi cyklu růst určuje především dostupnost elektrické energie.",
@@ -3457,26 +3557,6 @@
       "people": []
     },
     {
-      "title": "Google představuje nástroj Personal Intelligence pro personalizaci chatbota Gemini",
-      "description": "Google spustil nástroj Personal Intelligence, který umožňuje uživatelům přizpůsobit odpovědi chatbota Gemini na základě jejich osobních dat z Google služeb. Funkce začíná pro omezený počet placených uživatelů v USA a postupně se rozšiřuje.",
-      "slug": "google-introduces-personal-intelligence-personaliz",
-      "publishedAt": "2026-01-14T23:28:40+00:00",
-      "date": "2026-01-14 23:28:40",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/Gemini.png",
-      "url": "/tech-news/2026-01-14/google-introduces-personal-intelligence-personaliz/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
       "title": "USA schvalují omezený prodej pokročilých AI čipů Nvidia H200 do Číny",
       "description": "Ministerstvo obchodu USA povolilo export čipů Nvidia H200 do Číny pro schválené zákazníky za podmínek bezpečnostních opatření a 25procentního podílu americké vlády. Nejpokročilejší čipy Blackwell zůstávají plně omezené.",
       "slug": "us-approves-sale-of-nvidias-advanced-ai-chips-to-c",
@@ -3573,44 +3653,6 @@
       "people": []
     },
     {
-      "title": "Google Gemini nyní přistupuje k vašemu digitálnímu životu pro inteligentnější odpovědi",
-      "description": "Pokud používáte aplikace Google jako Gmail nebo Photos, společnost už zná určité aspekty vašeho života. Nabízí udělat tyto znalosti dostupnější prostřednictvím funkce Personal Intelligence, která je synthesizuje do modelu Gemini.",
-      "slug": "google-gemini-can-now-access-your-digital-life-for",
-      "publishedAt": "2026-01-14T19:08:20+00:00",
-      "date": "2026-01-14 19:08:20",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.pcworld.com/wp-content/uploads/2026/01/shutterstock_2523880741.jpg?quality=50&strip=all&w=1024",
-      "url": "/tech-news/2026-01-14/google-gemini-can-now-access-your-digital-life-for/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "PCWorld"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Stačilo by ho jen vypnout",
-      "description": "Generativní AI je prezentována jako transformační a složitá technologie, jejíž tvůrci nedokážou vysvětlit její chování. Kritika směřuje k chatbotu Grok od Elona Muska, který generuje obrázky odhalující oblečení cizích lidí bez souhlasu, včetně materiálu s dětmi.",
-      "slug": "he-could-just-turn-it-off",
-      "publishedAt": "2026-01-14T18:53:44+00:00",
-      "date": "2026-01-14 18:53:44",
-      "importance": 4,
-      "category": "generativní ai",
-      "urlToImage": null,
-      "url": "/tech-news/2026-01-14/he-could-just-turn-it-off/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Podcast: Grok AI a dubinská městská rada v pohybu?",
       "description": "Irská policie vyšetřuje 200 obrázků podezřelého dětského sexuálního zneužívání generovaných aplikací Grok AI. Problém souvisí s aktualizací umožňující digitální svlékání osob bez rozlišení věku.",
       "slug": "podcast-grok-ai-and-dublin-city-council-on-the-mov",
@@ -3646,28 +3688,6 @@
       "companies": [
         "Neurable",
         "HyperX"
-      ],
-      "people": []
-    },
-    {
-      "title": "Google využívá svou říši aplikací k posílení Gemini prostřednictvím 'Personal Intelligence'",
-      "description": "Chatbot Gemini nyní dokáže uvažovat napříč aplikacemi Google včetně Gmailu, Fotek a YouTube. Tato funkce nabízí výhodu, kterou OpenAI a Anthropic zatím nemají.",
-      "slug": "google-is-leaning-on-its-app-empire-to-give-gemini",
-      "publishedAt": "2026-01-14T16:01:01+00:00",
-      "date": "2026-01-14 16:01:01",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://i.insider.com/696724f704eda4732f2f07ef?width=1200&format=jpeg",
-      "url": "/tech-news/2026-01-14/google-is-leaning-on-its-app-empire-to-give-gemini/",
-      "source": {
-        "emoji": "📰",
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "companies": [
-        "Google",
-        "OpenAI",
-        "Anthropic"
       ],
       "people": []
     },
@@ -3991,24 +4011,6 @@
       "companies": [
         "Nvidia"
       ],
-      "people": []
-    },
-    {
-      "title": "Íránské rušení Starlinku a způsoby překonání rušení",
-      "description": "Írán ruší Starlink pomocí vojenských elektronických válkových nástrojů, pravděpodobně dovezených z Číny a Ruska, nasazených na mobilních platformách jako náklaďáky nebo drony. To vytváří lokální, patchy rušení s packet loss eskalujícím z 30 % na přes 80 % v postižených oblastech.",
-      "slug": "iran-jamming-of-starlink-and-ways-to-overcome-jamm",
-      "publishedAt": "2026-01-14T00:30:05+00:00",
-      "date": "2026-01-14 00:30:05",
-      "importance": 4,
-      "category": "elektronická válka",
-      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2022/05/starlinkmobile.jpeg",
-      "url": "/tech-news/2026-01-14/iran-jamming-of-starlink-and-ways-to-overcome-jamm/",
-      "source": {
-        "emoji": "📰",
-        "id": "next-big-future",
-        "name": "Next Big Future"
-      },
-      "companies": [],
       "people": []
     },
     {
