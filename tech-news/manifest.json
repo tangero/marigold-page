@@ -1,7 +1,104 @@
 {
-  "generated": "2026-01-20T21:14:34.114963+00:00",
+  "generated": "2026-01-21T01:37:52.022616+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Micron rychle zvýší výrobu DRAM akvizicí továrny za 1,8 miliardy dolarů",
+      "description": "Taiwan's Powerchip prodává svou továrnu v Tongluo, otevřenou před 19 měsíci po investici 9,5 miliardy dolarů, americkému Microns za 1,8 miliardy. Tento krok umožní Microns rychle navýšit kapacitu výrobu pamětí DRAM, které jsou klíčové pro rostoucí poptávku v oblasti AI a datových center.",
+      "slug": "micron-finds-a-way-to-make-more-dram-with-18bn-chi",
+      "publishedAt": "2026-01-20T00:55:52+00:00",
+      "date": "2026-01-20 00:55:52",
+      "importance": 5,
+      "category": "polovodiče",
+      "urlToImage": "https://regmedia.co.uk/2021/03/17/shutterstock_micron_boise.jpg",
+      "url": "/tech-news/2026-01-20/micron-finds-a-way-to-make-more-dram-with-18bn-chi/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "companies": [
+        "Micron",
+        "Powerchip"
+      ],
+      "people": []
+    },
+    {
+      "title": "Jio Platforms spouští přípravy na obří úvodní veřejnou nabídku akcií",
+      "description": "Jio Platforms vybrala Morgan Stanley a Goldman Sachs jako hlavní bankéře pro své plánované IPO s očekávanou valuací 133–182 miliard USD. Společnost čeká na schválení ministerstva financí pro 2,5% veřejný podíl u velkých IPO, přičemž soukromí investoři plánují prodat část svých podílů.",
+      "slug": "jio-platforms-sets-ball-rolling-on-mega-public-flo",
+      "publishedAt": "2026-01-20T00:53:20+00:00",
+      "date": "2026-01-20 00:53:20",
+      "importance": 4,
+      "category": "ipo",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126739062,width-1200,height-630,imgsize-2855927,overlay-etmarkets/articleshow.jpg",
+      "url": "/tech-news/2026-01-20/jio-platforms-sets-ball-rolling-on-mega-public-flo/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Jio Platforms"
+      ],
+      "people": []
+    },
+    {
+      "title": "OpenAI plánuje odhalit první hardware produkt v roce 2026",
+      "description": "OpenAI je podle svého šéfa globálních záležitostí na cestě k odhalení prvního hardware zařízení v druhé polovině roku 2026. Spolupracuje s designérským týmem Jonyho Iveho po akvizici jeho startupu za 6,5 miliardy dolarů.",
+      "slug": "openais-audio-first-hardware-product-could-launch-",
+      "publishedAt": "2026-01-20T00:07:00+00:00",
+      "date": "2026-01-20 00:07:00",
+      "importance": 4,
+      "category": "hardware",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/2dAidsg3greDHeqFxASwSY-2560-80.jpg",
+      "url": "/tech-news/2026-01-20/openais-audio-first-hardware-product-could-launch/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Central"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Ministr pro podnikání podporuje britské scaleupy balíčkem na růst a revizí administrativních předpisů",
+      "description": "Britští podnikatelé, pracovníci a komunity budou těžit z rozsáhlého balíčku opatření na růst, protože vláda investuje do klíčových sektorů růstu a snižuje byrokracii, aby pomohla firmám expandovat.",
+      "slug": "business-secretary-backs-british-scaleups-with-gro",
+      "publishedAt": "2026-01-20T00:01:10+00:00",
+      "date": "2026-01-20 00:01:10",
+      "importance": 4,
+      "category": "scaleupy",
+      "urlToImage": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      "url": "/tech-news/2026-01-20/business-secretary-backs-british-scaleups-with-gro/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Www.gov.uk"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "NYSE představuje platformu pro obchodování s tokenizovanými akciemi",
+      "description": "New Yorkská burza plánuje spustit obchodní místo, které umožní investorům kupovat a prodávat tokenizované akcie. Mateřská společnost Intercontinental Exchange Inc. tuto iniciativu oznámila a platforma bude podporovat 24hodinové obchodování s okamžitým vyrovnáním.",
+      "slug": "nyse-previews-platform-for-tokenized-stock-trading",
+      "publishedAt": "2026-01-19T23:37:15+00:00",
+      "date": "2026-01-19 23:37:15",
+      "importance": 4,
+      "category": "kryptoměny",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/Unsplash3.png",
+      "url": "/tech-news/2026-01-19/nyse-previews-platform-for-tokenized-stock-trading/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Tesla se plně vrhá na výrobu čipů, Musk podporuje Dojo3 – Dokáže porazit Nvidia v poměru cena/výkon?",
       "description": "Tesla oživuje projekt superpočítače Dojo3 s čipem AI5 a posiluje své ambice ve výrobě vlastních čipů, aby konkurovala Nvidia v efektivitě cena/výkon. Manažeři i spotřebitelé sledují, zda tento krok přinese slíbené výhody.",
@@ -3261,27 +3358,6 @@
       "people": []
     },
     {
-      "title": "Apple a Google čelí tlaku na odstranění X a Grok z obchodů s aplikacemi",
-      "description": "Grok se dostává pod rostoucí tlak od zastánských skupin poté, co uživatelé použili tento AI chatbot k vytvoření sexualizovaných obrázků nezletilých a žen. Koalice téměř 30 organizací vyzývá Google a Apple k odstranění aplikací X a Grok z jejich obchodů.",
-      "slug": "apple-google-face-pressure-to-remove-x-and-grok-fr",
-      "publishedAt": "2026-01-14T20:01:52+00:00",
-      "date": "2026-01-14 20:01:52",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/01/14/dccd328c-2286-4d40-b2e9-1476c83e27cd/thumbnail/1200x630/f1b738da4f0539b4bc69ae9984721c46/gettyimages-2255688653.jpg",
-      "url": "/tech-news/2026-01-14/apple-google-face-pressure-to-remove-x-and-grok-fr/",
-      "source": {
-        "emoji": "📺",
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "companies": [
-        "Apple",
-        "Google"
-      ],
-      "people": []
-    },
-    {
       "title": "Tato baterie změní svět za tři měsíce, nebo udělá z tohoto muže blázna",
       "description": "Společnost Donut Lab oznámila solid-state baterii s hustotou energie 400 Wh/kg, která vydrží 100 000 cyklů nabíjení a nabije se za 5 minut. Pokud tvrdí skalovatelnost a produkci, mohlo by to představovat největší průlom v elektromobilitě a úložištích energie.",
       "slug": "this-battery-is-about-to-change-the-world-in-3-mon",
@@ -3379,48 +3455,6 @@
       "people": []
     },
     {
-      "title": "Apple možná použije upravený model Google Gemini",
-      "description": "Apple prý interně přizpůsobí model umělé inteligence Gemini od Google pro vylepšení Siri a Apple Intelligence, přičemž zachová typický styl uživatelského rozhraní firmy. Novinka by měla posílit konkurenční schopnosti Apple v oblasti AI bez úplné závislosti na externích partnerech.",
-      "slug": "apple-may-use-customized-google-gemini",
-      "publishedAt": "2026-01-14T18:49:18+00:00",
-      "date": "2026-01-14 18:49:18",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://cdn.iphoneincanada.ca/wp-content/uploads/2026/01/Siri.jpg",
-      "url": "/tech-news/2026-01-14/apple-may-use-customized-google-gemini/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "iPhone in Canada"
-      },
-      "companies": [
-        "Apple",
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Algonomy a Databricks uzavírají partnerství Built On pro RetailAI",
-      "description": "Algonomy oznámilo partnerství Built On s Databricks, které přináší agentickou AI do maloobchodního plánování poptávky, alokace a optimalizace v podnikovém měřítku. Řešení RetailAI transformuje tradiční grafická rozhraní na konverzační interakce podporované pokročilou umělou inteligencí.",
-      "slug": "algonomy-databricks-built-on-partnership-for-retai",
-      "publishedAt": "2026-01-14T18:45:00+00:00",
-      "date": "2026-01-14 18:45:00",
-      "importance": 4,
-      "category": "maloobchodní ai",
-      "urlToImage": "https://www.databricks.com/sites/default/files/2026-01/algonomy-databricks-built-partnership-retailai-og-image.png",
-      "url": "/tech-news/2026-01-14/algonomy-databricks-built-on-partnership-for-retai/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Databricks.com"
-      },
-      "companies": [
-        "Algonomy",
-        "Databricks"
-      ],
-      "people": []
-    },
-    {
       "title": "Podcast: Grok AI a dubinská městská rada v pohybu?",
       "description": "Irská policie vyšetřuje 200 obrázků podezřelého dětského sexuálního zneužívání generovaných aplikací Grok AI. Problém souvisí s aktualizací umožňující digitální svlékání osob bez rozlišení věku.",
       "slug": "podcast-grok-ai-and-dublin-city-council-on-the-mov",
@@ -3456,27 +3490,6 @@
       "companies": [
         "Neurable",
         "HyperX"
-      ],
-      "people": []
-    },
-    {
-      "title": "Apple vyladí Siri poháněnou Gemini, aby odstranila googleovský dojem",
-      "description": "Apple samostatně vyladí svou Siri poháněnou modelem Gemini od Google, aby vymazala jakýkoli nádech po Googlu a převzala plnou kontrolu nad chováním AI. Tento přístup umožní Sirí poskytovat přímé odpovědi místo odkazů na web a dokonce emocionální podporu.",
-      "slug": "apple-fine-tuning-gemini-powered-siri-to-erase-the",
-      "publishedAt": "2026-01-14T16:19:44+00:00",
-      "date": "2026-01-14 16:19:44",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2024/10/Apple-Intelligence-Siri-Logo.jpg",
-      "url": "/tech-news/2026-01-14/apple-fine-tuning-gemini-powered-siri-to-erase-the/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Headlines"
-      },
-      "companies": [
-        "Apple",
-        "Google"
       ],
       "people": []
     },
@@ -3803,27 +3816,6 @@
       "category": "nudifikace",
       "urlToImage": "https://www.rte.ie/images/0023b391-1600.jpg",
       "url": "/tech-news/2026-01-14/why-is-nudification-technology-suddenly-a-major-is/",
-      "source": {
-        "emoji": "📰",
-        "id": "rte",
-        "name": "RTE"
-      },
-      "companies": [],
-      "people": [
-        "Niamh Smyth",
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Ministerka pro AI píše šéfovi irské policie o aplikacích 'nudify'",
-      "description": "Ministerka státu Niamh Smyth se obrátila na komisaře Garda ohledně AI chatbota Grok od Elona Muska a podobných aplikací, které generují nelegální sexualizované obrázky dětí i dospělých.",
-      "slug": "ai-minister-writes-to-garda-commissioner-about-nud",
-      "publishedAt": "2026-01-14T06:00:02+00:00",
-      "date": "2026-01-14 06:00:02",
-      "importance": 4,
-      "category": "deepfakes",
-      "urlToImage": "https://www.rte.ie/images/0023bcfe-1600.jpg",
-      "url": "/tech-news/2026-01-14/ai-minister-writes-to-garda-commissioner-about-nud/",
       "source": {
         "emoji": "📰",
         "id": "rte",
