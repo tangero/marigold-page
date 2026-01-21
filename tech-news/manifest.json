@@ -1,7 +1,114 @@
 {
-  "generated": "2026-01-21T05:17:25.658547+00:00",
+  "generated": "2026-01-21T08:59:54.573559+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Everstone spojuje Wingify a AB Tasty do platformy pro optimalizaci digitálních zážitků s obratem přes 100 milionů dolarů | TechCrunch",
+      "description": "Soukromá investiční firma Everstone Capital spojuje indickou společnost Wingify, která se zaměřuje na A/B testování webových stránek, s francouzskou AB Tasty do jedné platformy s ročním obratem přes 100 milionů dolarů. Kombinovaná firma bude obsluhovat přes 4000 zákazníků a investovat do AI nástrojů pro personalizaci a testování.",
+      "slug": "everstone-combines-wingify-ab-tasty-for-100m-digit",
+      "publishedAt": "2026-01-20T08:03:21+00:00",
+      "date": "2026-01-20 08:03:21",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/01/wingify-logo-jagmeet-singh-techcrunch.jpg?resize=1200,800",
+      "url": "/tech-news/2026-01-20/everstone-combines-wingify-ab-tasty-for-100m-digit/",
+      "source": {
+        "emoji": "🚀",
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "companies": [
+        "Everstone",
+        "Wingify",
+        "AB Tasty",
+        "TechCrunch"
+      ],
+      "people": []
+    },
+    {
+      "title": "GreenboneOS: CVE-2025-64155: Exploitace FortiSIEM v reálném prostředí pro neautentizovaný root-level RCE",
+      "description": "Dne 13. ledna 2026 společnost Fortinet zveřejnila a opravila CVE-2025-64155 (CVSS 9.8) postihující FortiSIEM spolu s pěti dalšími zranitelnostmi v řadě svých produktů. Tato zranitelnost představuje vysoké riziko, protože krátce po jejím zveřejnění byla hlášena aktivní exploitace v reálném prostředí.",
+      "slug": "greenboneos-cve-2025-64155-in-the-wild-exploitatio",
+      "publishedAt": "2026-01-20T07:53:25+00:00",
+      "date": "2026-01-20 07:53:25",
+      "importance": 5,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://www.greenbone.net/wp-content/uploads/CVE-2025-64155-fortisiem-rce1.jpg",
+      "url": "/tech-news/2026-01-20/greenboneos-cve-2025-64155-in-the-wild-exploitatio/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Greenbone.net"
+      },
+      "companies": [
+        "Fortinet"
+      ],
+      "people": []
+    },
+    {
+      "title": "Tesla dokončila čip AI5, obnovuje Dojo 3 díky dohodě s Intelem o balení",
+      "description": "Tesla dokončila vývoj automobilového procesoru AI5, který umožní sériovou výrobu v závodech TSMC a Samsung. Tento pokrok oživuje pozastavený projekt superpočítače Dojo 3, kde Intel přebírá balení pomocí technologie EMIB. Čip AI5 dosáhne výkonu srovnatelného s architekturou NVIDIA Hopper.",
+      "slug": "tesla-completes-ai5-chip-revives-dojo-3-with-intel",
+      "publishedAt": "2026-01-20T07:50:45+00:00",
+      "date": "2026-01-20 07:50:45",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": null,
+      "url": "/tech-news/2026-01-20/tesla-completes-ai5-chip-revives-dojo-3-with-intel/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Madshrimps.be"
+      },
+      "companies": [
+        "Tesla",
+        "Intel",
+        "TSMC",
+        "Samsung"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Trh Tudou Guarantee na Telegramu zastavuje transakce po zpracování přes 12 miliard dolarů",
+      "description": "Telegramový trh s garancemi Tudou Guarantee, známý reklamou široké palety nelegálních služeb, podle zjištění firmy Elliptic ukončuje operace. Blockchainová analytická společnost uvádí, že služba efektivně zastavila transakce po zpracování obrovského objemu prostřednictvím kryptoměn.",
+      "slug": "tudou-guarantee-marketplace-halts-telegram-transac",
+      "publishedAt": "2026-01-20T07:40:00+00:00",
+      "date": "2026-01-20 07:40:00",
+      "importance": 5,
+      "category": "kryptoměny",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAig5-Somu-FrJikNOP0x03HGZ7BNOjkJuWqVOJpyVr1jyPxPtgCIZqqrDEn9G3FPkgryml3vqK5FeSnKaVMTWypZTvChn6hLRgJ5cjLzOS39BW0U_OW38ggPj7izAgiU5IOjATbCl6A2fRC156dZQ2Pn-Yman12ABm-uFtRN3oGofTeCZk6lpdQgll6eY/s900-e365/botcoin.jpg",
+      "url": "/tech-news/2026-01-20/tudou-guarantee-marketplace-halts-telegram-transac/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Internet"
+      },
+      "companies": [
+        "Elliptic",
+        "Telegram"
+      ],
+      "people": []
+    },
+    {
+      "title": "Přemýšlejte pečlivě, než necháte nový AI systém Woolworths nakupovat vaše potraviny",
+      "description": "Bez kritického zkoumání hrozí agentický nákup tiše změnit chování spotřebitelů způsobem, který je těžko odhalitelný – a ještě těžší zvrátit. Woolworths spolupracuje s Google na integraci agentické umělé inteligence do chatbota Olive.",
+      "slug": "think-carefully-before-letting-woolworths-new-ai-s",
+      "publishedAt": "2026-01-20T06:28:35+00:00",
+      "date": "2026-01-20 06:28:35",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/eec4253538a7ab02201042d836a8e30b?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=105&width=862&height=485&imformat=generic",
+      "url": "/tech-news/2026-01-20/think-carefully-before-letting-woolworths-new-ai-s/",
+      "source": {
+        "emoji": "📰",
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Írán tvrdí, že internet bude plně obnoven do konce týdne",
       "description": "Íránský viceprezident pro vědu, technologii a znalostní ekonomiku Hossein Afshin oznámil, že celostátní přístup k internetu bude obnoven do konce týdne na příkaz prezidenta, čímž skončí vypnutí zavedené 8. ledna kvůli protestům.",
@@ -220,31 +327,6 @@
       },
       "companies": [],
       "people": []
-    },
-    {
-      "title": "Tesla dokončila čip AI5 a oživuje Dojo 3 díky dohodě s Intelem o balení",
-      "description": "Tesla dokončila vývoj automobilového procesoru AI5, což umožňuje výrobu v závodech TSMC a Samsungu. Tento pokrok oživuje dříve pozastavený projekt superpočítače Dojo 3. Elon Musk oznámil, že čip AI5 dosáhne výkonu srovnatelného s architekturou NVIDIA Hopper.",
-      "slug": "tesla-completes-ai5-chip-revives-dojo-3-with-intel",
-      "publishedAt": "2026-01-19T18:42:07+00:00",
-      "date": "2026-01-19 18:42:07",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.techpowerup.com/img/gUGGc5PWLY3BvjMc.jpg",
-      "url": "/tech-news/2026-01-19/tesla-completes-ai5-chip-revives-dojo-3-with-intel/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Techpowerup.com"
-      },
-      "companies": [
-        "Tesla",
-        "Intel",
-        "TSMC",
-        "Samsung"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
     },
     {
       "title": "Ransomware útok na Ingram Micro ovlivnil 42 000 osob",
@@ -3397,28 +3479,6 @@
       ]
     },
     {
-      "title": "Čínská Z.AI vydala první velký model generování AI obrázků trénovaný bez amerických čipů",
-      "description": "Společnost Z.AI uvedla GLM-Image, model pro generování obrázků v umělé inteligenci, který byl trénován výhradně na čipech Huawei. Tento krok probíhá v kontextu blokování dovozů Nvidia H200 čínskou vládou s cílem posílit soběstačnost v AI.",
-      "slug": "chinas-zai-releases-first-major-ai-image-generatio",
-      "publishedAt": "2026-01-14T20:10:01+00:00",
-      "date": "2026-01-14 20:10:01",
-      "importance": 4,
-      "category": "generativní ai",
-      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/ai-decrypt-style-18-gID_7.png",
-      "url": "/tech-news/2026-01-14/chinas-zai-releases-first-major-ai-image-generatio/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Decrypt"
-      },
-      "companies": [
-        "Z.AI",
-        "Huawei",
-        "Nvidia"
-      ],
-      "people": []
-    },
-    {
       "title": "USA schvalují export čipů Nvidia H200 do Číny",
       "description": "S určitými podmínkami.",
       "slug": "us-approves-nvidia-h200-chip-exports-to-china",
@@ -3576,26 +3636,6 @@
       "people": []
     },
     {
-      "title": "Deepgram získal 130 milionů dolarů při valuaci 1,3 miliardy pro rozvoj hlasové AI",
-      "description": "Financování podpoří mezinárodní expanzi Deepgramu, vývoj produktů a nedávnou akvizici v sektoru restaurací. Společnost poskytuje infrastrukтуру pro hlasové AI agenty podporující přes 50 jazyků.",
-      "slug": "deepgram-raises-130m-at-13bn-valuation-for-voice-a",
-      "publishedAt": "2026-01-14T15:52:54+00:00",
-      "date": "2026-01-14 15:52:54",
-      "importance": 4,
-      "category": "hlasová ai",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/WYTKFRTzlteTXXzZXLJH3A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/verdict_626/fd52573b503e3e9fee63ae15831d2a5e",
-      "url": "/tech-news/2026-01-14/deepgram-raises-130m-at-13bn-valuation-for-voice-a/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Verdict"
-      },
-      "companies": [
-        "Deepgram"
-      ],
-      "people": []
-    },
-    {
       "title": "Elon Musk: Studium na lékařské fakultě bude za tři roky zbytečné, každý dostane lepší péči než prezident",
       "description": "Elon Musk nedávno prohlásil, že díky umělé inteligenci bude za tři roky studium medicíny zbytečné. Každý bude mít přístup k lékařské péči lepší než současná prezidentská.",
       "slug": "elon-musk-says-going-to-medical-school-will-be-poi",
@@ -3698,24 +3738,6 @@
         "Apple",
         "Google"
       ],
-      "people": []
-    },
-    {
-      "title": "Claude Cowork mění AI v každodenního partnera pro úkoly a další novinky z AI",
-      "description": "Anthropic uvedl Claude Cowork, AI nástroj pro produktivitu, který zvládá organizaci souborů, tvorbu tabulek a úkoly v prohlížeči s integrací do Slacku a Zapieru. Článek rovněž informuje o Google Universal Commerce Protocol pro e-commerce a plánech OpenAI na AI hardware.",
-      "slug": "claude-cowork-turns-ai-into-your-daily-task-partne",
-      "publishedAt": "2026-01-14T07:43:11+00:00",
-      "date": "2026-01-14 07:43:11",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/01/Claude-Cowork.jpg",
-      "url": "/tech-news/2026-01-14/claude-cowork-turns-ai-into-your-daily-task-partne/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [],
       "people": []
     },
     {
@@ -3845,26 +3867,6 @@
       "companies": [
         "Flipkart",
         "Shadowfax"
-      ],
-      "people": []
-    },
-    {
-      "title": "Defense Unicorns získalo 136 milionů dolarů na bezpečné aktualizace vojenského softwaru",
-      "description": "Startup na doručování softwaru pro bojové operace Defense Unicorns Inc. získal 136 milionů dolarů v kmeni Series B, čímž jeho valuace překročila 1 miliardu dolarů a stal se oficiálním unicornem. Kolo vedl fond Bain Capital s účasťou dalších investorů včetně Davida Petraeuse.",
-      "slug": "defense-unicorns-bags-136-million-in-funding-to-de",
-      "publishedAt": "2026-01-14T02:48:47+00:00",
-      "date": "2026-01-14 02:48:47",
-      "importance": 4,
-      "category": "vojenské technologie",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/Screenshot-from-2026-01-14-09-43-27.png",
-      "url": "/tech-news/2026-01-14/defense-unicorns-bags-136-million-in-funding-to-de/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Defense Unicorns Inc"
       ],
       "people": []
     },
