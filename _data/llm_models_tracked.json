@@ -1,8 +1,8 @@
 {
   "watermark": {
-    "model_id": "liquid/lfm-2.5-1.2b-thinking:free",
-    "created_timestamp": 1768927527,
-    "updated_at": "2026-01-21T07:28:08.465485"
+    "model_id": "writer/palmyra-x5",
+    "created_timestamp": 1769003823,
+    "updated_at": "2026-01-22T07:26:13.720403"
   },
   "analyzed_models": {
     "openai/gpt-5.1-codex-max": {
@@ -190,11 +190,18 @@
       "analyzed_at": "2026-01-21T07:28:08.465472",
       "success": true,
       "file_path": "/home/runner/work/marigold-page/marigold-page/_llm/2026-01-20-liquid-lfm-2-5-1-2b-thinking-free.md"
+    },
+    "writer/palmyra-x5": {
+      "name": "Writer: Palmyra X5",
+      "created_timestamp": 1769003823,
+      "analyzed_at": "2026-01-22T07:26:13.720389",
+      "success": true,
+      "file_path": "/home/runner/work/marigold-page/marigold-page/_llm/2026-01-21-writer-palmyra-x5.md"
     }
   },
   "statistics": {
-    "total_analyzed": 27,
-    "last_check": "2026-01-21T07:28:08.465902",
-    "last_new_models_found": 2
+    "total_analyzed": 28,
+    "last_check": "2026-01-22T07:26:13.720801",
+    "last_new_models_found": 1
   }
 }
