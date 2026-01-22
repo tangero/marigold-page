@@ -1,7 +1,164 @@
 {
-  "generated": "2026-01-22T05:14:28.890866+00:00",
+  "generated": "2026-01-22T08:54:02.928047+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Zipline překonal 2 miliony dodávek, získal přes 600 milionů dolarů na další růst a rozšiřuje operace do Houstonu a Phoenixu",
+      "description": "Americká robotická společnost Zipline oznámila překročení 2 milionů komerčních dodávek drony, získání více než 600 milionů dolarů v novém kole financování a plánované rozšíření do Houstonu a Phoenixu na začátku roku 2026. S touto investicí dosáhla valuace 7,6 miliardy dolarů.",
+      "slug": "zipline-surpasses-2-million-deliveries-raises-more",
+      "publishedAt": "2026-01-21T08:01:00+00:00",
+      "date": "2026-01-21 08:01:00",
+      "importance": 4,
+      "category": "dronové doručování",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/30db214e-ff54-44a3-bc09-f965191686ec",
+      "url": "/tech-news/2026-01-21/zipline-surpasses-2-million-deliveries-raises-more/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [
+        "Zipline"
+      ],
+      "people": []
+    },
+    {
+      "title": "Spolupráce s Khan Academy na vývoji AI nástrojů pro vzdělávání",
+      "description": "Google oznámil partnerství s neziskovou platformou Khan Academy na tvorbě vzdělávacích nástrojů poháněných modely Gemini. Khan Academy integruje Gemini do nástroje Writing Coach pro žáky 7–12 let a brzy spustí Reading Coach pro žáky 5–12 let.",
+      "slug": "collaborating-with-khan-academy-to-build-the-best-",
+      "publishedAt": "2026-01-21T08:00:00+00:00",
+      "date": "2026-01-21 08:00:00",
+      "importance": 4,
+      "category": "vzdělávací ai",
+      "urlToImage": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/khanacademy_social.width-1300.png",
+      "url": "/tech-news/2026-01-21/collaborating-with-khan-academy-to-build-the-best/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Blog.google"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Připravte se na SAT s cvičnými testy v Gemini",
+      "description": "Digitální ilustrace rozhraní Gemini AI zobrazující okno „SAT Practice Test“, doprovázená ikonami diplomové čepice a studentů, představující AI nástroje pro vzdělávání. Google spolupracuje s The Princeton Review na bezplatných plnohodnotných cvičných testech SAT přímo v aplikaci Gemini.",
+      "slug": "prep-for-the-sat-with-practice-tests-in-gemini",
+      "publishedAt": "2026-01-21T07:50:33+00:00",
+      "date": "2026-01-21 07:50:33",
+      "importance": 4,
+      "category": "vzdělávací technolog",
+      "urlToImage": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/024-BETT26-PracticeTests-Header-Resize-Social.width-1300.png",
+      "url": "/tech-news/2026-01-21/prep-for-the-sat-with-practice-tests-in-gemini/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Blog.google"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Čína: Obchodní dohoda USA a Tchaj-wanu vysává ekonomiku ostrova ve prospěch Ameriky",
+      "description": "Čína zesílila kritiku obchodní dohody mezi Tchaj-wanem a USA, podle níž tato dohoda prospívá Washingtonu a oslabuje průmyslovou sílu Tchaj-wanu. Dohoda zahrnuje snížení cel a masivní investice do amerického technologického sektoru.",
+      "slug": "china-says-trade-deal-with-us-will-drain-taiwans-e",
+      "publishedAt": "2026-01-21T07:15:38+00:00",
+      "date": "2026-01-21 07:15:38",
+      "importance": 4,
+      "category": "obchodní dohoda",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108246627-17671010072025-12-30t115146z_1132148463_rc2zqia0wyvo_rtrmadp_0_china-taiwan-drills.jpeg?v=1767101108&w=1920&h=1080",
+      "url": "/tech-news/2026-01-21/china-says-trade-deal-with-us-will-drain-taiwans-e/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Elon Musk proti OpenAI: Soud v dubnu 2026 o kontrole, dohodě s Microsoftem a přechodu na ziskový model",
+      "description": "Společná vize budoucnosti umělé inteligence se změnila v hořký právní spor mezi Elonem Muskem a OpenAI. Wes Roth popisuje, jak se kdysi spojené síly stočily do konfliktu, který může ovlivnit vývoj AI. Klíčem je obvinění z porušení zakládajících principů při přechodu z neziskové na ziskovou strukturu a partnerství s Microsoftem.",
+      "slug": "elon-musk-vs-openai-april-2026-trial-lawsuit-over-",
+      "publishedAt": "2026-01-21T07:14:28+00:00",
+      "date": "2026-01-21 07:14:28",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/01/openai-microsoft-investment-2019_optimized.jpg",
+      "url": "/tech-news/2026-01-21/elon-musk-vs-openai-april-2026-trial-lawsuit-over/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [
+        "OpenAI",
+        "Microsoft"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Galaxy plánuje spustit hedge fond za 100 milionů USD uprostřed poklesu trhu",
+      "description": "Firma Galaxy, vedená Mikem Novogratzem, chystá spuštění hedge fondu s počátečním kapitálem 100 milionů USD, který využije volatility na trhu kryptoměn a tradičních finančních služeb. Tento krok signalizuje důvěru v digitální aktiva i růst v regulačních a technologických oblastech.",
+      "slug": "galaxy-plans-to-debut-100m-hedge-fund-amid-market-",
+      "publishedAt": "2026-01-21T07:09:57+00:00",
+      "date": "2026-01-21 07:09:57",
+      "importance": 4,
+      "category": "kryptoměny",
+      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/01/21020740/9cf90a98-b9b6-4714-8584-a718416cca30-800x420.jpg",
+      "url": "/tech-news/2026-01-21/galaxy-plans-to-debut-100m-hedge-fund-amid-market/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Crypto Briefing"
+      },
+      "companies": [
+        "Galaxy"
+      ],
+      "people": []
+    },
+    {
+      "title": "Akcie Amagi klesly při debutu na indické burze, cloudová TV softwarová firma testuje zájem investorů | TechCrunch",
+      "description": "Akcie Amagi debutovaly se 12% slevou, což poskytuje raný náhled na poptávku investorů po vzácném typu technologického listingu v Indii.",
+      "slug": "amagi-slides-in-india-debut-as-cloud-tv-software-f",
+      "publishedAt": "2026-01-21T06:25:00+00:00",
+      "date": "2026-01-21 06:25:00",
+      "importance": 4,
+      "category": "burzovní debut",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/01/amagi-jagmeet-singh-techcrunch.jpg?resize=1200,800",
+      "url": "/tech-news/2026-01-21/amagi-slides-in-india-debut-as-cloud-tv-software-f/",
+      "source": {
+        "emoji": "🚀",
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "companies": [
+        "Amagi"
+      ],
+      "people": []
+    },
+    {
+      "title": "Skupina AM podepsala memorandum o porozumění s vládou Uttar Pradesh na výstavbu AI výpočetního centra o výkonu 1 GW",
+      "description": "Skupina AM uzavřela memorandum s Invest UP, agenturou vlády Uttar Pradesh, na vybudování výpočetního centra pro umělou inteligenci s kapacitou 1 GW v oblasti Greater Noida. Projekt s investicí kolem 25 miliard USD má sloužit globálním AI úlohám a podpořit šíření technologie od okrajových agentů po inteligentní tokeny.",
+      "slug": "am-group-signs-landmark-mou-with-uttar-pradesh-gov",
+      "publishedAt": "2026-01-21T06:16:58+00:00",
+      "date": "2026-01-21 06:16:58",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/2mtif6/article70532113.ece/alternates/LANDSCAPE_1200/Screenshot%202026-01-21%20102811.png",
+      "url": "/tech-news/2026-01-21/am-group-signs-landmark-mou-with-uttar-pradesh-gov/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "companies": [
+        "AM Group"
+      ],
+      "people": []
+    },
     {
       "title": "OpenAI zaplatí za energetické upgrady na lokalitách Stargate",
       "description": "OpenAI oznámilo, že uhradí náklady na vývoj energetické infrastruktury pro svá datacentra Stargate, aby zabránilo zvýšení cen elektřiny pro spotřebitele. Společnost spolupracuje s místními komunitami a reaguje na rostoucí obavy z energetické zátěže AI projektů.",
@@ -3417,27 +3574,6 @@
       "people": []
     },
     {
-      "title": "5 miliard dolarů pro Siri: Cena dohody Apple-Google v oblasti AI",
-      "description": "Dohoda Apple s Google o integraci modelů Gemini do Siri a Apple Intelligence má hodnotu 5 miliard dolarů. Tento krok umožňuje Apple využít externí AI infrastrukturu místo stavby vlastních datových center.",
-      "slug": "A-5-billion-for-siri-the-massive-price-of-the-appl",
-      "publishedAt": "2026-01-15T16:07:44+00:00",
-      "date": "2026-01-15 16:07:44",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2025/08/Apple-Google-Gemini-Siri-featured.jpg",
-      "url": "/tech-news/2026-01-15/A-5-billion-for-siri-the-massive-price-of-the-appl/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Headlines"
-      },
-      "companies": [
-        "Apple",
-        "Google"
-      ],
-      "people": []
-    },
-    {
       "title": "Sora 2 od OpenAI začala úspěšně. Tempo se zpomalilo",
       "description": "Aplikace získala 1 milion stažení během prvních pěti dnů, přestože byla dostupná jen pro iOS a vyžadovala pozvánku. V celém prosinci měla na iOS a Androidu dohromady přes 3 miliony stažení.",
       "slug": "openais-sora-2-started-off-scorching-hot-things-ha",
@@ -3471,24 +3607,6 @@
         "emoji": "📰",
         "id": null,
         "name": "The Denver Post"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Boom umělé inteligence posiluje obavy z bubliny v oboru (VIDEO)",
-      "description": "Masivní investice do umělé inteligence vyvolávají obavy z finanční bubliny, protože technologie zatím negeneruje zisky. Vyšetřování RT odhaluje kruhové financování mezi propojenými technologickými firmami.",
-      "slug": "ai-boom-fuels-fears-of-an-industry-bubble-video",
-      "publishedAt": "2026-01-15T15:57:30+00:00",
-      "date": "2026-01-15 15:57:30",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://mf.b37mrtl.ru/files/2026.01/article/6968f67c20302729f74f0be9.jpg",
-      "url": "/tech-news/2026-01-15/ai-boom-fuels-fears-of-an-industry-bubble-video/",
-      "source": {
-        "emoji": "📰",
-        "id": "rt",
-        "name": "RT"
       },
       "companies": [],
       "people": []
@@ -3914,133 +4032,6 @@
         "name": "Slashdot.org"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Vaše další sluchátka možná budou schopna číst váš mozek – a budete rádi, že to dokážou",
-      "description": "Neurable se vrací se svým algoritmem pro čtení mozku poháněným AI, tentokrát ve spolupráci s HyperX.",
-      "slug": "your-next-pair-of-headphones-may-be-able-to-read-y",
-      "publishedAt": "2026-01-14T18:24:00+00:00",
-      "date": "2026-01-14 18:24:00",
-      "importance": 4,
-      "category": "neurotechnologie",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/b9d3fa7744f7c113b0c3caf0b2a7ac13e46f064e/2026/01/06/cc9030ad-8ece-4d3a-927f-e87751e4abab/hyperx-3.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "url": "/tech-news/2026-01-14/your-next-pair-of-headphones-may-be-able-to-read-y/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "ZDNet"
-      },
-      "companies": [
-        "Neurable",
-        "HyperX"
-      ],
-      "people": []
-    },
-    {
-      "title": "Dcera WISeKey, SEALSQ, uzavřela memorándum o porozumění ohledně potenciální investice a akvizice kvantové firmy Quobly",
-      "description": "Společnost SEALSQ, dceřiná firma WISeKey, podepsala nebindící memorándum o porozumění s akcionáři francouzské Quobly, průkopníka křemíkových kvantových procesorů. Cílem je počáteční menšinová investice s možností následné akvizice většinového podílu.",
-      "slug": "wisekeys-subsidiary-sealsq-announces-entry-into-a-",
-      "publishedAt": "2026-01-14T06:30:00+00:00",
-      "date": "2026-01-14 06:30:00",
-      "importance": 4,
-      "category": "kvantové počítače",
-      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/80dae807-c8a0-4e1a-a0f0-61afcc7ae788",
-      "url": "/tech-news/2026-01-14/wisekeys-subsidiary-sealsq-announces-entry-into-a/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [
-        "WISeKey",
-        "SEALSQ",
-        "Quobly"
-      ],
-      "people": []
-    },
-    {
-      "title": "Proč se technologie nudifikace najednou stala velkým problémem?",
-      "description": "Irská ministryně Niamh Smyth se obrátila na policejního prezidenta ohledně AI chatbota Grok od Elona Muska a podobných aplikací, které slouží k generování nelegálních sexualizovaných obrázků dětí i dospělých.",
-      "slug": "why-is-nudification-technology-suddenly-a-major-is",
-      "publishedAt": "2026-01-14T06:00:02+00:00",
-      "date": "2026-01-14 06:00:02",
-      "importance": 4,
-      "category": "nudifikace",
-      "urlToImage": "https://www.rte.ie/images/0023b391-1600.jpg",
-      "url": "/tech-news/2026-01-14/why-is-nudification-technology-suddenly-a-major-is/",
-      "source": {
-        "emoji": "📰",
-        "id": "rte",
-        "name": "RTE"
-      },
-      "companies": [],
-      "people": [
-        "Niamh Smyth",
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Google a Character.AI souhlasí s vyrovnáním sporů s rodinami, kde se obviňují z podpořování sebevraždy teenagera chatovacími AI",
-      "description": "Google a startup Character.AI, který vyvíjí konverzační AI modely, se dohodli na mimosoudním vyrovnání v několika sporech z USA. Rodiny tvrdí, že chatboti podpořili sebevraždy teenagerů, včetně 14letého chlapce z Floridy. Podmínky vyrovnání nejsou známy a čeká se na soudní schválení.",
-      "slug": "チャットaiが少年の自殺を後押ししたとする訴訟でgoogleとcharacteraiが遺族との和解に",
-      "publishedAt": "2026-01-14T02:19:00+00:00",
-      "date": "2026-01-14 02:19:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://image.news.livedoor.com/newsimage/stf/7/e/7edac_88_0f273e290f14c8e7e5c9eb8d9f613f87.jpg",
-      "url": "/tech-news/2026-01-14/チャットaiが少年の自殺を後押ししたとする訴訟でgoogleとcharacteraiが遺族との和解に/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Livedoor.com"
-      },
-      "companies": [
-        "Google",
-        "Character.AI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Co znamená dohoda Apple s Google v oblasti AI pro oba technologické giganty a pro startup OpenAI v hodnotě 500 miliard dolarů",
-      "description": "Partnerství Apple a Google potvrzuje návratný impuls Google v AI, zdůrazňuje problémy Apple s vývojem vlastních modelů a může přinést komplikace pro OpenAI.",
-      "slug": "what-apples-ai-deal-with-google-means-for-the-two-",
-      "publishedAt": "2026-01-14T01:48:19+00:00",
-      "date": "2026-01-14 01:48:19",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/01/GettyImages-1500910680-e1768339061314.jpg?resize=1200,600",
-      "url": "/tech-news/2026-01-14/what-apples-ai-deal-with-google-means-for-the-two/",
-      "source": {
-        "emoji": "📰",
-        "id": "fortune",
-        "name": "Fortune"
-      },
-      "companies": [
-        "Apple",
-        "Google",
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "USA schvalují prodej pokročilých čipů Nvidia H200 do Číny",
-      "description": "Americká vláda povolila prodej čipů H200 od Nvidia do Číny s přísnými podmínkami, což ovlivňuje geopolitickou soutěž o nadvládu v umělé inteligenci mezi USA a Čínou.",
-      "slug": "us-approves-sale-of-nvidias-advanced-h200-chips-to",
-      "publishedAt": "2026-01-14T00:48:55+00:00",
-      "date": "2026-01-14 00:48:55",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3a62/live/f45e8fa0-f0da-11f0-a29c-c32ead86fb16.jpg",
-      "url": "/tech-news/2026-01-14/us-approves-sale-of-nvidias-advanced-h200-chips-to/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BBC News"
-      },
-      "companies": [
-        "Nvidia"
-      ],
       "people": []
     }
   ]
