@@ -1,7 +1,175 @@
 {
-  "generated": "2026-01-22T01:31:35.911891+00:00",
+  "generated": "2026-01-22T05:14:28.890866+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "OpenAI zaplatí za energetické upgrady na lokalitách Stargate",
+      "description": "OpenAI oznámilo, že uhradí náklady na vývoj energetické infrastruktury pro svá datacentra Stargate, aby zabránilo zvýšení cen elektřiny pro spotřebitele. Společnost spolupracuje s místními komunitami a reaguje na rostoucí obavy z energetické zátěže AI projektů.",
+      "slug": "openai-says-it-will-pay-for-energy-upgrades-at-sta",
+      "publishedAt": "2026-01-21T04:13:02+00:00",
+      "date": "2026-01-21 04:13:02",
+      "importance": 4,
+      "category": "datacentra",
+      "urlToImage": null,
+      "url": "/tech-news/2026-01-21/openai-says-it-will-pay-for-energy-upgrades-at-sta/",
+      "source": {
+        "emoji": "📰",
+        "id": "financial-post",
+        "name": "Financial Post"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Americký těžař uranu míří na globální vliv ve vzácných zemích díky australské akvizici",
+      "description": "Americká společnost Energy Fuels Inc., která těží uran i vzácné zeminy v Arizoně, uzavřela dohodu o převzetí australské těžební firmy Australian Strategic Materials Ltd. za 299 milionů dolarů. Cílem je vytvořit plně integrovaný dodavatelský řetězec od těžby po zpracování kovů, který posílí západní pozici proti čínské dominanci.",
+      "slug": "us-miner-eyes-global-rare-earths-clout-with-austra",
+      "publishedAt": "2026-01-21T02:30:42+00:00",
+      "date": "2026-01-21 02:30:42",
+      "importance": 4,
+      "category": "vzácné zeminy",
+      "urlToImage": null,
+      "url": "/tech-news/2026-01-21/us-miner-eyes-global-rare-earths-clout-with-austra/",
+      "source": {
+        "emoji": "📰",
+        "id": "financial-post",
+        "name": "Financial Post"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "4DMedical získala financování přes 100 milionů dolarů na urychlení expanze v USA",
+      "description": "Australská společnost 4DMedical, zabývající se pokročilým 4D zobrazováním plic, oznámila získání investic v objemu přes 100 milionů amerických dolarů. Financování poslou k rozšíření operací na americkém trhu a vývoji technologií pro diagnostiku respiračních onemocnění.",
+      "slug": "morning-headlines-12126",
+      "publishedAt": "2026-01-21T02:19:47+00:00",
+      "date": "2026-01-21 02:19:47",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": null,
+      "url": "/tech-news/2026-01-21/morning-headlines-12126/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Histalk2.com"
+      },
+      "companies": [
+        "4DMedical"
+      ],
+      "people": []
+    },
+    {
+      "title": "Generální ředitel Anthropic kritizoval na Davosu Nvidia a export čipů do Číny",
+      "description": "Dario Amodei z Anthropic ostře kritizoval americkou administrativu i čipové firmy jako Nvidia za povolení prodeje výkonných čipů do Číny. Kritika je významná, protože Nvidia je hlavním partnerem a investorem Anthropic, který dodává GPU pro jejich AI modely.",
+      "slug": "anthropics-ceo-stuns-davos-with-nvidia-criticism-t",
+      "publishedAt": "2026-01-21T01:42:42+00:00",
+      "date": "2026-01-21 01:42:42",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2153561878.jpg?w=1024",
+      "url": "/tech-news/2026-01-21/anthropics-ceo-stuns-davos-with-nvidia-criticism-t/",
+      "source": {
+        "emoji": "🚀",
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "companies": [
+        "Anthropic",
+        "Nvidia"
+      ],
+      "people": [
+        "Dario Amodei"
+      ]
+    },
+    {
+      "title": "OpenAI bude odhadovat věk uživatelů před zobrazením pikantního obsahu v ChatGPT",
+      "description": "OpenAI nasazuje model pro predikci věku, aby určil, zda jsou uživatelé ChatGPT dostatečně dospělí na citlivý nebo potenciálně škodlivý obsah. Tento krok reaguje na bezpečnostní tlaky a plány na monetizaci služby.",
+      "slug": "openai-will-try-to-guess-your-age-before-chatgpt-g",
+      "publishedAt": "2026-01-21T01:37:35+00:00",
+      "date": "2026-01-21 01:37:35",
+      "importance": 4,
+      "category": "ai bezpečnost",
+      "urlToImage": "https://regmedia.co.uk/2023/06/23/shutterstock_kids.jpg",
+      "url": "/tech-news/2026-01-21/openai-will-try-to-guess-your-age-before-chatgpt-g/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Startup Emergent získal významné financování; Sebi schválil IPO PhonePe",
+      "description": "AI startup Emergent z Indie získal 70 milionů dolarů od Khosla Ventures a SoftBank, čímž se jeho valuace ztrojnásobila na 300 milionů dolarů. Indická regulační autorita Sebi zároveň schválila úvodní veřejnou nabídku akcií fintechu PhonePe.",
+      "slug": "emergent-bags-major-funding-sebi-greenlights-phone",
+      "publishedAt": "2026-01-21T01:34:15+00:00",
+      "date": "2026-01-21 01:34:15",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126902859,width-1070,height-580,imgsize-1713776,overlay-ettech/editionshow.jpg",
+      "url": "/tech-news/2026-01-21/emergent-bags-major-funding-sebi-greenlights-phone/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Emergent",
+        "PhonePe"
+      ],
+      "people": []
+    },
+    {
+      "title": "ServiceNow spolupracuje s OpenAI na vývoji a nasazení podnikových AI agentů",
+      "description": "Společnost ServiceNow uzavřela tříletou dohodu s OpenAI na integraci nejpokročilejších AI modelů do svých platforem. Dohoda zahrnuje závazek k příjmům a zaměřuje se na agentic AI pro bezpečné a škálovatelné workflowy v podnicích.",
+      "slug": "servicenow-partners-with-openai-to-develop-and-dep",
+      "publishedAt": "2026-01-21T01:29:03+00:00",
+      "date": "2026-01-21 01:29:03",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/SN-office-1.jpeg",
+      "url": "/tech-news/2026-01-21/servicenow-partners-with-openai-to-develop-and-dep/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "ServiceNow",
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "AGI potřebuje modely světa a stav modelů světa",
+      "description": "Demis Hassabis, generální ředitel Google DeepMind, uvedl, že cesta ChatGPT vyžaduje modely světa. Firmy jako OpenAI, Google, XAI a Anthropic spoléhají na velké jazykové modely (LLM), zatímco systémy jako Google Genie 3 generují interaktivní 3D prostředí z textu.",
+      "slug": "agi-needs-world-models-and-state-of-world-models",
+      "publishedAt": "2026-01-21T01:10:22+00:00",
+      "date": "2026-01-21 01:10:22",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/01/worldmodel-1.jpg",
+      "url": "/tech-news/2026-01-21/agi-needs-world-models-and-state-of-world-models/",
+      "source": {
+        "emoji": "📰",
+        "id": "next-big-future",
+        "name": "Next Big Future"
+      },
+      "companies": [
+        "Google",
+        "OpenAI",
+        "XAI",
+        "Anthropic"
+      ],
+      "people": [
+        "Demis Hassabis"
+      ]
+    },
     {
       "title": "Produkce Teslových Cybercab a Optimus začne 'bolestivě pomalu', později se zrychlí, říká Musk",
       "description": "Generální ředitel Tesly Elon Musk oznámil, že počáteční výroba robotaxi Cybercab a humanoidního robota Optimus bude velmi pomalá kvůli složitosti nových komponent, ale časem se výrazně zrychlí. Tato technologie tvoří klíčovou část hodnoty společnosti ve výši 1,39 bilionu dolarů, přestože hlavní příjmy stále pocházejí z prodeje elektromobilů.",
@@ -3749,66 +3917,6 @@
       "people": []
     },
     {
-      "title": "USA schvalují omezený prodej pokročilých AI čipů Nvidia H200 do Číny",
-      "description": "Ministerstvo obchodu USA povolilo export čipů Nvidia H200 do Číny pro schválené zákazníky za podmínek bezpečnostních opatření a 25procentního podílu americké vlády. Nejpokročilejší čipy Blackwell zůstávají plně omezené.",
-      "slug": "us-approves-sale-of-nvidias-advanced-ai-chips-to-c",
-      "publishedAt": "2026-01-14T23:20:00+00:00",
-      "date": "2026-01-14 23:20:00",
-      "importance": 4,
-      "category": "ai hardware",
-      "urlToImage": "https://a.fsdn.com/sd/topics/china_64.png",
-      "url": "/tech-news/2026-01-14/us-approves-sale-of-nvidias-advanced-ai-chips-to-c/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": []
-    },
-    {
-      "title": "USA schvalují export čipů Nvidia H200 do Číny",
-      "description": "S určitými podmínkami.",
-      "slug": "us-approves-nvidia-h200-chip-exports-to-china",
-      "publishedAt": "2026-01-14T20:07:23+00:00",
-      "date": "2026-01-14 20:07:23",
-      "importance": 4,
-      "category": "hardware",
-      "urlToImage": "https://i.nextmedia.com.au/News/2026-01-13T212819Z_1_LYNXMPEM0C19V_RTROPTP_4_USA-CHINA-NVIDIA.JPG",
-      "url": "/tech-news/2026-01-14/us-approves-nvidia-h200-chip-exports-to-china/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "iTnews"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": []
-    },
-    {
-      "title": "Tato baterie změní svět za tři měsíce, nebo udělá z tohoto muže blázna",
-      "description": "Společnost Donut Lab oznámila solid-state baterii s hustotou energie 400 Wh/kg, která vydrží 100 000 cyklů nabíjení a nabije se za 5 minut. Pokud tvrdí skalovatelnost a produkci, mohlo by to představovat největší průlom v elektromobilitě a úložištích energie.",
-      "slug": "this-battery-is-about-to-change-the-world-in-3-mon",
-      "publishedAt": "2026-01-14T19:58:48+00:00",
-      "date": "2026-01-14 19:58:48",
-      "importance": 5,
-      "category": "elektromobilita",
-      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/01/Donut-Lab-solid-state-battery.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2026-01-14/this-battery-is-about-to-change-the-world-in-3-mon/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Electrek"
-      },
-      "companies": [
-        "Donut Lab"
-      ],
-      "people": []
-    },
-    {
       "title": "Vaše další sluchátka možná budou schopna číst váš mozek – a budete rádi, že to dokážou",
       "description": "Neurable se vrací se svým algoritmem pro čtení mozku poháněným AI, tentokrát ve spolupráci s HyperX.",
       "slug": "your-next-pair-of-headphones-may-be-able-to-read-y",
@@ -3826,48 +3934,6 @@
       "companies": [
         "Neurable",
         "HyperX"
-      ],
-      "people": []
-    },
-    {
-      "title": "Britský zákaz nudifikačních aplikací se nevztahuje na Grok Elona Muska",
-      "description": "Britská vláda chystá zákaz nudifikačních aplikací, ale nevztahuje se na univerzální AI nástroje jako Grok Elona Muska, uvedla ministryně pro technologie Liz Kendall. Zákaz cílí na aplikace s jediným účelem: používat generativní AI k proměně obrázků reálných lidí v falešné nahé fotografie a videa bez souhlasu.",
-      "slug": "uk-nudification-app-ban-wont-apply-to-elon-musks-g",
-      "publishedAt": "2026-01-14T11:25:44+00:00",
-      "date": "2026-01-14 11:25:44",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/01/14/GettyImages-2254661596-scaled.jpg",
-      "url": "/tech-news/2026-01-14/uk-nudification-app-ban-wont-apply-to-elon-musks-g/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "POLITICO.eu"
-      },
-      "companies": [],
-      "people": [
-        "Elon Musk",
-        "Liz Kendall"
-      ]
-    },
-    {
-      "title": "Siri 2.0: Je to stále Siri, nebo Google Assistant v převleku?",
-      "description": "Apple oznámilo novou aktualizaci Siri plánovanou na rok 2026, která integruje pokročilé AI základní modely od Google. Tato spolupráce představuje strategický posun v přístupu Apple k umělé inteligenci a má řešit dlouhodobé nedostatky Siri.",
-      "slug": "siri-20-is-it-still-siri-or-just-google-assistant-",
-      "publishedAt": "2026-01-14T08:00:50+00:00",
-      "date": "2026-01-14 08:00:50",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/01/apple-google-siri-2026-update_optimized.jpg",
-      "url": "/tech-news/2026-01-14/siri-20-is-it-still-siri-or-just-google-assistant/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [
-        "Apple",
-        "Google"
       ],
       "people": []
     },
@@ -3890,48 +3956,6 @@
         "WISeKey",
         "SEALSQ",
         "Quobly"
-      ],
-      "people": []
-    },
-    {
-      "title": "SEALSQ oznámila memorándum o porozumění ohledně potenciální strategické investice a akvizice kvantové firmy Quobly",
-      "description": "Společnost SEALSQ, lídr v oblasti bezpečnosti polovodičů a kryptografie odolné vůči kvantovým útokům (Post-Quantum Cryptography, PQC), vstoupila do neviazaného memoranda o porozumění s akcionáři francouzské firmy Quobly. Cílem je počáteční menšinová investice následovaná možnou akvizicí většinového podílu v hodnotě přibližně 200 milionů USD.",
-      "slug": "sealsq-announces-entry-into-a-memorandum-of-unders",
-      "publishedAt": "2026-01-14T06:30:00+00:00",
-      "date": "2026-01-14 06:30:00",
-      "importance": 4,
-      "category": "kvantové výpočty",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/4071513d-3f7c-4a38-a055-8da38cfb60df",
-      "url": "/tech-news/2026-01-14/sealsq-announces-entry-into-a-memorandum-of-unders/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [
-        "SEALSQ",
-        "Quobly"
-      ],
-      "people": []
-    },
-    {
-      "title": "TCS a AMD oznámily strategickou spolupráci na rozšíření adopce AI ve velkém měřítku",
-      "description": "Tata Consultancy Services (TCS) a AMD spustily partnerství zaměřené na přechod firem od pilotních AI projektů k produkčnímu nasazení, modernizaci legacy systémů a vývoj průmyslově specifických řešení. Spolupráce kombinuje doménovou expertizu TCS s vysokovýkonnými AI technologiemi AMD.",
-      "slug": "tcs-and-amd-announce-strategic-collaboration-to-dr",
-      "publishedAt": "2026-01-14T06:04:20+00:00",
-      "date": "2026-01-14 06:04:20",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": null,
-      "url": "/tech-news/2026-01-14/tcs-and-amd-announce-strategic-collaboration-to-dr/",
-      "source": {
-        "emoji": "📰",
-        "id": "financial-post",
-        "name": "Financial Post"
-      },
-      "companies": [
-        "TCS",
-        "AMD"
       ],
       "people": []
     },
@@ -3998,28 +4022,6 @@
         "OpenAI"
       ],
       "people": []
-    },
-    {
-      "title": "USA povolují Nvidia odesílat pokročilé AI čipy do Číny s omezeními",
-      "description": "Americké ministerstvo obchodu povolilo Nvidia prodávat pokročilé umělé inteligence čipy v Číně za podmínek, což navazuje na změnu politiky oznámenou prezidentem Donaldem Trumpem. Nvidia může exportovat čip H200, pokud prokáže dostatečné dodávky v USA, zatímco nejpokročilejší procesory zůstávají blokovány.",
-      "slug": "us-allows-nvidia-to-send-advanced-ai-chips-to-chin",
-      "publishedAt": "2026-01-14T01:37:32+00:00",
-      "date": "2026-01-14 01:37:32",
-      "importance": 4,
-      "category": "ai čipy",
-      "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2026/01/b8730b1229d70e816feaded4797f9b355b57d64c.jpg",
-      "url": "/tech-news/2026-01-14/us-allows-nvidia-to-send-advanced-ai-chips-to-chin/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digital Journal"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": [
-        "Donald Trump"
-      ]
     },
     {
       "title": "USA schvalují prodej pokročilých čipů Nvidia H200 do Číny",
