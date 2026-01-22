@@ -1,7 +1,112 @@
 {
-  "generated": "2026-01-22T08:54:02.928047+00:00",
+  "generated": "2026-01-22T13:04:22.192826+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Nový tým umělé inteligence Meta tento měsíc interně doručil první klíčové modely, uvedl šéftechnický ředitel",
+      "description": "Na tiskové konferenci na okraji ročního zasedání Světového ekonomického fóra v Davosu řekl CTO Andrew Bosworth, že modely vytvořené týmem Meta Superintelligence Labs, založeným minulý rok, vykazují velký potenciál.",
+      "slug": "metas-new-ai-team-delivered-first-key-models-inter",
+      "publishedAt": "2026-01-21T12:25:27+00:00",
+      "date": "2026-01-21 12:25:27",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1451794,resizemode-75,msid-126985664/tech/technology/metas-new-ai-team-delivered-first-key-models-internally-this-month-cto-says.jpg",
+      "url": "/tech-news/2026-01-21/metas-new-ai-team-delivered-first-key-models-inter/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Meta"
+      ],
+      "people": [
+        "Andrew Bosworth"
+      ]
+    },
+    {
+      "title": "„Křestní otec AI“ je „velmi smutný“ z toho, čím se stalo jeho celoživotní dílo",
+      "description": "Geoffrey Hinton vyjádřil znepokojení, že umělá inteligence, kterou pomohl vyvinout, představuje rizika, která nejsou dostatečně brána vážně.",
+      "slug": "the-godfather-of-ai-says-hes-very-sad-about-what-h",
+      "publishedAt": "2026-01-21T12:00:58+00:00",
+      "date": "2026-01-21 12:00:58",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://i.insider.com/69709f50e1ba468a96aa669b?width=1200&format=jpeg",
+      "url": "/tech-news/2026-01-21/the-godfather-of-ai-says-hes-very-sad-about-what-h/",
+      "source": {
+        "emoji": "📰",
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "companies": [],
+      "people": [
+        "Geoffrey Hinton"
+      ]
+    },
+    {
+      "title": "Preply získává 150 milionů dolarů na posílení učení jazyků pod vedením člověka s AI",
+      "description": "Globální platforma pro výuku jazyků Preply získala 150 milionů dolarů v kole Series D od investora WestCap, což celkový objem financování zvyšuje na 299 milionů dolarů a valuaci na 1,2 miliardy dolarů. Peníze poslou k rozšíření platformy, která kombinuje lidské tutory s AI nástroji pro personalizaci výuky.",
+      "slug": "preply-raises-150m-to-enhance-human-led-language-l",
+      "publishedAt": "2026-01-21T12:00:15+00:00",
+      "date": "2026-01-21 12:00:15",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/Screenshot-from-2026-01-19-08-52-01.png",
+      "url": "/tech-news/2026-01-21/preply-raises-150m-to-enhance-human-led-language-l/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Preply"
+      ],
+      "people": []
+    },
+    {
+      "title": "Johnston vysvětluje, proč Beacon Health System vsadí na AI EHR od Oracle",
+      "description": "Beacon Health System uzavřelo komplexní dohodu s Oraclem na implementaci nové platformy elektronických zdravotních záznamů s umělou inteligencí. Tato dohoda zahrnuje analytické nástroje a systémy pro řízení podnikových zdrojů a positionuje 10nemocniční systém jako beta partnera pro nadcházející technologie Oracle.",
+      "slug": "johnston-explains-why-beacon-is-betting-big-on-ora",
+      "publishedAt": "2026-01-21T12:00:13+00:00",
+      "date": "2026-01-21 12:00:13",
+      "importance": 4,
+      "category": "zdravotnická ai",
+      "urlToImage": "https://healthsystemcio.com/wp-content/uploads/2020/02/johnston_stacey-2.jpg",
+      "url": "/tech-news/2026-01-21/johnston-explains-why-beacon-is-betting-big-on-ora/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Healthsystemcio.com"
+      },
+      "companies": [
+        "Oracle"
+      ],
+      "people": []
+    },
+    {
+      "title": "Sam Altman odpovídá Elonovi Muskovi ohledně tvrzení o bezpečnosti ChatGPT",
+      "description": "Spor mezi technologickými lídry eskaloval poté, co Musk na sociální síti X varoval před používáním ChatGPT od OpenAI. Altman se brání proti tvrzením o nedostatečné bezpečnosti modelu.",
+      "slug": "sam-altman-hits-back-at-elon-musk-over-chatgpt-saf",
+      "publishedAt": "2026-01-21T11:59:59+00:00",
+      "date": "2026-01-21 11:59:59",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/01/sam-altman-elon-musk-decrypt-style-gID_7.jpg",
+      "url": "/tech-news/2026-01-21/sam-altman-hits-back-at-elon-musk-over-chatgpt-saf/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Decrypt"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": [
+        "Sam Altman",
+        "Elon Musk"
+      ]
+    },
     {
       "title": "Zipline překonal 2 miliony dodávek, získal přes 600 milionů dolarů na další růst a rozšiřuje operace do Houstonu a Phoenixu",
       "description": "Americká robotická společnost Zipline oznámila překročení 2 milionů komerčních dodávek drony, získání více než 600 milionů dolarů v novém kole financování a plánované rozšíření do Houstonu a Phoenixu na začátku roku 2026. S touto investicí dosáhla valuace 7,6 miliardy dolarů.",
@@ -3461,27 +3566,6 @@
       "people": []
     },
     {
-      "title": "Kalifornie vyšetřuje AI firmu Elona Muska po lavině stížností na sexuální obsah",
-      "description": "Generální prokurátor Rob Bonta uvedl, že jeho úřad prošetřuje, zda nový nástroj pro editaci obrázků od AI společnosti Elona Muska porušuje kalifornské zákony. Vyšetřování se zaměřuje na šíření AI-generovaných explicitních obrázků žen a dětí bez souhlasu na platformě X.",
-      "slug": "california-investigates-elon-musks-ai-company-afte",
-      "publishedAt": "2026-01-15T20:08:10+00:00",
-      "date": "2026-01-15 20:08:10",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://cdn.kpbs.org/dims4/default/29e8883/2147483647/strip/true/crop/1536x806+0+109/resize/1200x630!/quality/90/?url=http%3A%2F%2Fkpbs-brightspot.s3.us-west-2.amazonaws.com%2F74%2F99%2Fa4d80d504362a1c1e69a4c1cb5c9%2Fimage-2026-01-15t120354-213.jpg",
-      "url": "/tech-news/2026-01-15/california-investigates-elon-musks-ai-company-afte/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "KPBS"
-      },
-      "companies": [],
-      "people": [
-        "Elon Musk",
-        "Rob Bonta"
-      ]
-    },
-    {
       "title": "USA a Tchaj-wan uzavřely dohodu o snížení cel a zvýšení investic do polovodičů",
       "description": "USA a Tchaj-wan dosáhly dlouho očekávané obchodní dohody, která snižuje cla na tchajwanské zboží na 15 procent a zavazuje tchajwanské polovodičové společnosti k navýšení financování amerických operací o 500 miliard dolarů.",
       "slug": "us-taiwan-clinch-deal-to-cut-tariffs-boost-chip-in",
@@ -3513,24 +3597,6 @@
         "emoji": "📰",
         "id": null,
         "name": "CNBC"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Apple prohrál závod v AI — teď začíná skutečná výzva",
-      "description": "I přes prohru v AI Apple loni dosáhl mnoha úspěchů. Chaos s uvedením Apple Intelligence byl trapný, ale firma pokračovala v prodeji iPhonů. Oznámení použití modelů Gemini pro chytřejší Siri signalizuje partnerství s Googlem.",
-      "slug": "apple-lost-the-ai-race-now-the-real-challenge-star",
-      "publishedAt": "2026-01-15T18:47:30+00:00",
-      "date": "2026-01-15 18:47:30",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25698444/DSC08567_processed_2.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-      "url": "/tech-news/2026-01-15/apple-lost-the-ai-race-now-the-real-challenge-star/",
-      "source": {
-        "emoji": "⚡",
-        "id": "the-verge",
-        "name": "The Verge"
       },
       "companies": [],
       "people": []
@@ -3652,26 +3718,6 @@
       "companies": [
         "Apple",
         "Macworld"
-      ],
-      "people": []
-    },
-    {
-      "title": "Startup Higgsfield pro generování videí pomocí AI dosáhl valuace 1,3 miliardy dolarů novým financováním",
-      "description": "Startup Higgsfield se zabývající generováním videí pomocí AI získal 80 milionů dolarů v rozšíření série A, což společnosti vyneslo valuaci přes 1,3 miliardy dolarů. Firma hlásí roční recurující příjem ve výši 200 milionů dolarů a zaměřuje se na integraci modelů třetích stran.",
-      "slug": "ai-video-startup-higgsfield-hits-13-billion-valuat",
-      "publishedAt": "2026-01-15T12:02:57+00:00",
-      "date": "2026-01-15 12:02:57",
-      "importance": 4,
-      "category": "ai startupy",
-      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--kaO7vsaE--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-01-15T120211Z_1_LYNXMPEM0E0O1_RTROPTP_3_USA-POWER-GOOGLE-TRANSMISSION.JPG?itok=N1k_rpSs",
-      "url": "/tech-news/2026-01-15/ai-video-startup-higgsfield-hits-13-billion-valuat/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNA"
-      },
-      "companies": [
-        "Higgsfield"
       ],
       "people": []
     },
@@ -3976,26 +4022,6 @@
       "people": []
     },
     {
-      "title": "Alpaca získává 150 milionů dolarů na rozšíření platformy pro správu brokeražních účtů",
-      "description": "Finanční technologická společnost AlpacaDB Inc. získala 150 milionů dolarů v investicích Series D při valuaci 1,15 miliardy dolarů. Kolo vedl fond Drive Capital s příspěvky od více než tucetu investorů včetně poboček BNP Paribas a Mitsubishi UFJ Financial Group.",
-      "slug": "alpaca-raises-150m-to-grow-its-brokerage-account-m",
-      "publishedAt": "2026-01-15T01:17:55+00:00",
-      "date": "2026-01-15 01:17:55",
-      "importance": 4,
-      "category": "fintech",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/Alpaca.png",
-      "url": "/tech-news/2026-01-15/alpaca-raises-150m-to-grow-its-brokerage-account-m/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "AlpacaDB Inc"
-      ],
-      "people": []
-    },
-    {
       "title": "Dva spoluzakladatelé Thinking Machines Lab odcházejí a vracejí se do OpenAI",
       "description": "Tato zpráva představuje úder pro Thinking Machines Lab. Již se objevují dvě verze vysvětlení toho, co k odchodu došlo.",
       "slug": "two-thinking-machines-lab-cofounders-are-leaving-t",
@@ -4014,24 +4040,6 @@
         "Thinking Machines Lab",
         "OpenAI"
       ],
-      "people": []
-    },
-    {
-      "title": "Zpráva Barclays o humanoidních robotech: Trh v hodnotě 200 miliard dolarů do roku 2035",
-      "description": "Výzkum Barclays predikuje, že trh s humanoidními roboty dosáhne 200 miliard dolarů do roku 2035 díky masové produkci a poklesu cen. V roce 2025 se očekává instalace 16 tisíc kusů, přičemž Čína agresivně zaplavuje globální trh.",
-      "slug": "barclays-shiftless-robot-report-financial-times",
-      "publishedAt": "2026-01-15T00:12:59+00:00",
-      "date": "2026-01-15 00:12:59",
-      "importance": 5,
-      "category": "robotika",
-      "urlToImage": null,
-      "url": "/tech-news/2026-01-15/barclays-shiftless-robot-report-financial-times/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "companies": [],
       "people": []
     }
   ]
