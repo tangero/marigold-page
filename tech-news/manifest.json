@@ -1,7 +1,112 @@
 {
-  "generated": "2026-01-22T16:53:08.258505+00:00",
+  "generated": "2026-01-22T20:55:52.894577+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Blue Origin Jeffa Bezose nasadí podnikovou síť satelitů v nízké oběžné dráze",
+      "description": "S rychlostmi až 6 Tbps. Síť TeraWave je určená pro datová centra, vlády a firmy.",
+      "slug": "bezos-blue-origin-to-deploy-enterprise-grade-leosa",
+      "publishedAt": "2026-01-21T20:05:07+00:00",
+      "date": "2026-01-21 20:05:07",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://i.nextmedia.com.au/News/UK_from_space_at_night_with_aurora.jpg",
+      "url": "/tech-news/2026-01-21/bezos-blue-origin-to-deploy-enterprise-grade-leosa/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "iTnews"
+      },
+      "companies": [
+        "Blue Origin"
+      ],
+      "people": [
+        "Jeff Bezos"
+      ]
+    },
+    {
+      "title": "Miliardáři Elon Musk a Sam Altman se hádají, kdo způsobil více nevinných smrtí",
+      "description": "Technologickí miliardáři Elon Musk a Sam Altman vedou na platformě X spor o to, čí technologie – Grok nebo ChatGPT – je spojena s větším počtem úmrtí. Diskuse se týká soudních sporů souvisejících s sebevraždami, autonehodami a vraždami.",
+      "slug": "billionaires-elon-musk-and-sam-altman-argue-over-w",
+      "publishedAt": "2026-01-21T20:01:21+00:00",
+      "date": "2026-01-21 20:01:21",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/01/elon-musk-on-red-carpet.jpg?w=1600&h=900&fit=crop",
+      "url": "/tech-news/2026-01-21/billionaires-elon-musk-and-sam-altman-argue-over-w/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Screen Rant"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk",
+        "Sam Altman"
+      ]
+    },
+    {
+      "title": "Většina lidí už nedokáže odlišit AI videa od reality, nová studie Runway odhaluje – dokonce ani jeho spoluzakladatel",
+      "description": "Nejnovější model generátoru AI videí od Runway ukazuje, že rozhodování, zda je video reálné nebo uměle vytvořené, je jako hodotání mincí. Účastníci studie ho správně identifikovali jen v 57,1 procenta případů.",
+      "slug": "most-people-now-cant-separate-ai-videos-from-reali",
+      "publishedAt": "2026-01-21T20:00:00+00:00",
+      "date": "2026-01-21 20:00:00",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/7bd4B8SvF38pHWX9Rip5YB-2000-80.jpg",
+      "url": "/tech-news/2026-01-21/most-people-now-cant-separate-ai-videos-from-reali/",
+      "source": {
+        "emoji": "📰",
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "companies": [
+        "Runway"
+      ],
+      "people": []
+    },
+    {
+      "title": "Rezolve AI uzavřela předplněné financování ve výši 250 milionů dolarů a vstupuje do roku 2026 s výrazně posílenou bilancí v AI commerce",
+      "description": "Společnost Rezolve AI získala 250 milionů dolarů v registraci přímého financování, které bylo předplněno díky zájmu institucionálních investorů. Tento kapitál umožní urychlit fúze a akvizice, rozšířit nasazení v podnicích a přeměnit adopci AI na udržitelný růst příjmů.",
+      "slug": "rezolve-ai-closes-250-million-oversubscribed-finan",
+      "publishedAt": "2026-01-21T19:04:00+00:00",
+      "date": "2026-01-21 19:04:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/d7c6e8ce-e67f-484a-bead-d7785b8e8464",
+      "url": "/tech-news/2026-01-21/rezolve-ai-closes-250-million-oversubscribed-finan/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [
+        "Rezolve Ai"
+      ],
+      "people": []
+    },
+    {
+      "title": "Elon Musk potvrzuje, že auta s AI4 dosáhnou autonomního řízení bez dohledu bez dalších upgradů",
+      "description": "Šéf Tesly Elon Musk potvrdil, že vozidla vybavená čipem AI4 (HW4) dokážou realizovat plně autonomní řízení bez dohledu řidiče a bez nutnosti hardwarových úprav. Tato technologie podle něj překoná lidskou bezpečnost řízení.",
+      "slug": "elon-musk-confirms-ai4-powered-cars-can-achieve-un",
+      "publishedAt": "2026-01-21T19:01:15+00:00",
+      "date": "2026-01-21 19:01:15",
+      "importance": 4,
+      "category": "autonomní řízení",
+      "urlToImage": "https://s.yimg.com/os/en/Benzinga/b3ea28497c92ed5fa158a7337a01ab06",
+      "url": "/tech-news/2026-01-21/elon-musk-confirms-ai4-powered-cars-can-achieve-un/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "Tesla"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
     {
       "title": "Generální ředitel Nvidia Jensen Huang vyzývá státy, aby AI považovaly za klíčovou národní infrastrukturu",
       "description": "Na zasedání Světového ekonomického fóra Jensen Huang, generální ředitel Nvidia, prohlásil, že umělá inteligence je pro národní rozvoj stejně nezbytná jako elektřina nebo dopravní sítě. Vyzval země k budování vlastní AI infrastruktury, aby ochránily svá data, jazyk a kulturu.",
@@ -3725,24 +3830,6 @@
       "people": []
     },
     {
-      "title": "Grok zablokován před úpravou obrázků reálných lidí do odhalujícího oblečení v místech, kde je to nelegální, oznámila X",
-      "description": "Oznámení přišlo po globální vlně kritiky kvůli sexualizovaným obrázkům žen a dětí, včetně vyšetřování v Kalifornii a právních kroků ze strany vlád jako Malajsie či Indonésie.",
-      "slug": "grok-blocked-from-undressing-images-in-places-wher",
-      "publishedAt": "2026-01-15T15:59:29+00:00",
-      "date": "2026-01-15 15:59:29",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2026/01/Grok_Deepfakes_73527_a23d71-1.jpg?w=1024&h=575",
-      "url": "/tech-news/2026-01-15/grok-blocked-from-undressing-images-in-places-wher/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Denver Post"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Wikimedia Foundation oznámila nová partnerství s AI společnostmi Amazon, Meta, Microsoft, Perplexity a dalšími",
       "description": "Nadace Wikimedia k příležitosti 25. výročí oznámila partnerství s velkými AI firmami, které se staly zákazníky jejího komerčního produktu Wikimedia Enterprise. Tento produkt umožňuje masivní využívání obsahu Wikipedie a dalších projektů Wikimedia pro trénink AI modelů a poskytování faktických odpovědí.",
       "slug": "wikimedia-foundation-announces-new-ai-partnerships",
@@ -3805,47 +3892,6 @@
       "people": []
     },
     {
-      "title": "IPO boom se vrací, SpaceX a OpenAI na seznamu investorů pro rok 2026. Buďte opatrní s nákupy",
-      "description": "Očekávaný nárůst počtu firem vstupujících na burzu přináší více příležitostí, ale zároveň i rizika zklamání. Mezi potenciálními kandidáty pro rok 2026 jsou giganti jako SpaceX a OpenAI.",
-      "slug": "ipo-boom-times-are-back-with-spacex-and-openai-on-",
-      "publishedAt": "2026-01-15T12:00:00+00:00",
-      "date": "2026-01-15 12:00:00",
-      "importance": 4,
-      "category": "ipo",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/01/FORTUNE-IPO-FINAL-WEB.jpg?resize=1200,600",
-      "url": "/tech-news/2026-01-15/ipo-boom-times-are-back-with-spacex-and-openai-on/",
-      "source": {
-        "emoji": "📰",
-        "id": "fortune",
-        "name": "Fortune"
-      },
-      "companies": [
-        "SpaceX",
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Google integruje data z Gmailu, YouTube a Vyhledávání přímo do Gemini",
-      "description": "Google rozšiřuje roli modelu Gemini z obecného chatbota na personalizovaného asistenta integrací dat z Gmailu, YouTube a Google Vyhledávání. Tato změna umožňuje Gemini odkazovat na e-maily, historii vyhledávání a aktivitu na YouTube pro přesnější odpovědi.",
-      "slug": "google-integrates-gmail-youtube-and-search-data-di",
-      "publishedAt": "2026-01-15T08:14:35+00:00",
-      "date": "2026-01-15 08:14:35",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.ghacks.net/wp-content/uploads/2026/01/gHacks-articles-95.png",
-      "url": "/tech-news/2026-01-15/google-integrates-gmail-youtube-and-search-data-di/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Ghacks Technology News"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
       "title": "Volvo EX60 nakonec umožní umělé inteligenci Gemini od Google přístup ke všem kamerám vozu",
       "description": "Mám rezervy ohledně umožnění přístupu asistentovi AI od Google ke kamerám vozu, ale kdo ví, zda kupující luxusních elektrických vozů nebudou mít stejné obavy?",
       "slug": "volvo-ex60-will-eventually-let-googles-gemini-ai-a",
@@ -3886,26 +3932,6 @@
       "people": []
     },
     {
-      "title": "Od Gemini 3 k YouTube a Androidu: Proč je strategie Google v umělé inteligenci obtížně překonatelná",
-      "description": "Google posiluje svou pozici lídra v umělé inteligenci integrací modelů jako Gemini 3 do svých platforem jako YouTube a Android. Článek rozebírá, jak ekosystém společnosti zajišťuje širokou dostupnost a cenovou přístupnost pokročilých AI nástrojů pro miliardy uživatelů.",
-      "slug": "from-gemini-3-to-youtube-android-why-googles-ai-st",
-      "publishedAt": "2026-01-15T07:46:51+00:00",
-      "date": "2026-01-15 07:46:51",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/01/ai-subscription-value-25k-credits_optimized.jpg",
-      "url": "/tech-news/2026-01-15/from-gemini-3-to-youtube-android-why-googles-ai-st/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
       "title": "USA zavádí 25% clo na prodej některých čipů jako součást dohody s Nvidia",
       "description": "Dohoda umožňuje společnosti Nvidia dodávat AI procesory do Číny, přičemž USA uvalují 25% clo na dovoz těchto čipů před jejich finálním odesláním.",
       "slug": "us-sets-25-tariff-on-some-chip-sales-as-part-of-nv",
@@ -3924,26 +3950,6 @@
         "Nvidia"
       ],
       "people": []
-    },
-    {
-      "title": "Platforma X Elona Muska omezuje editaci fotek v Grok kvůli obavám z sexualizovaných obrázků",
-      "description": "Společnost X oznámila, že AI chatbot Grok už nebude umožňovat editaci obrázků skutečných lidí v odhalujícím oblečení v jurisdikcích, kde je to nezákonné. Opatření přichází po vyšetřování britského regulátora Ofcom kvůli zneužívání nástroje na sexualizaci žen a dětí.",
-      "slug": "elon-musks-x-restricts-grok-photo-editing-amid-con",
-      "publishedAt": "2026-01-15T07:25:26+00:00",
-      "date": "2026-01-15 07:25:26",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.irishtimes.com/resizer/v2/6MB5ARMENHYXOSFPEEJTD5I6YQ.jpg?smart=true&auth=ab955ef9994833a90dc22381456206d51df39c517f2beb6ee98604601485246a&width=1200&height=630",
-      "url": "/tech-news/2026-01-15/elon-musks-x-restricts-grok-photo-editing-amid-con/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-irish-times",
-        "name": "The Irish Times"
-      },
-      "companies": [],
-      "people": [
-        "Elon Musk"
-      ]
     },
     {
       "title": "Co je Grok 3 a jak se liší od ChatGPT?",
