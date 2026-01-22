@@ -1,7 +1,92 @@
 {
-  "generated": "2026-01-22T13:04:22.192826+00:00",
+  "generated": "2026-01-22T16:53:08.258505+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Generální ředitel Nvidia Jensen Huang vyzývá státy, aby AI považovaly za klíčovou národní infrastrukturu",
+      "description": "Na zasedání Světového ekonomického fóra Jensen Huang, generální ředitel Nvidia, prohlásil, že umělá inteligence je pro národní rozvoj stejně nezbytná jako elektřina nebo dopravní sítě. Vyzval země k budování vlastní AI infrastruktury, aby ochránily svá data, jazyk a kulturu.",
+      "slug": "nvidia-ceo-jensen-huang-urges-nations-to-treat-ai-",
+      "publishedAt": "2026-01-21T16:18:10+00:00",
+      "date": "2026-01-21 16:18:10",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-54346,resizemode-75,msid-127015626/tech/artificial-intelligence/nvidia-ceo-jensen-huang-urges-nations-to-treat-ai-as-core-national-infrastructure.jpg",
+      "url": "/tech-news/2026-01-21/nvidia-ceo-jensen-huang-urges-nations-to-treat-ai/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": [
+        "Jensen Huang",
+        "Laurence Fink"
+      ]
+    },
+    {
+      "title": "Šéf Nvidia očekává investice v řádu bilionů dolarů do AI",
+      "description": "Infrastruktura pro vývoj a provoz generativních modelů umělé inteligence bude vyžadovat další investice v řádu 'bilionů' dolarů, uvedl v stredu šéf největšího výrobce AI čipů Nvidia.",
+      "slug": "nvidia-boss-sees-trillions-in-ai-spending-ahead",
+      "publishedAt": "2026-01-21T16:14:54+00:00",
+      "date": "2026-01-21 16:14:54",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-107042,resizemode-75,msid-127015669/tech/technology/nvidia-boss-sees-trillions-in-ai-spending-ahead.jpg",
+      "url": "/tech-news/2026-01-21/nvidia-boss-sees-trillions-in-ai-spending-ahead/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Laboratoř umělé inteligence Meta dodala první modely interně",
+      "description": "Nová laboratoř umělé inteligence společnosti Meta dodala své první modely AI pro interní použití. Hlavní technologický ředitel Andrew Bosworth uvedl, že modely vytvořené týmem Superintelligence Labs vykazují slibné výsledky po pouhých šesti měsících vývoje.",
+      "slug": "metas-ai-lab-delivers-first-models-in-house",
+      "publishedAt": "2026-01-21T15:46:15+00:00",
+      "date": "2026-01-21 15:46:15",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/01/Meta-AI.jpeg",
+      "url": "/tech-news/2026-01-21/metas-ai-lab-delivers-first-models-in-house/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [
+        "Meta"
+      ],
+      "people": [
+        "Andrew Bosworth"
+      ]
+    },
+    {
+      "title": "Americká Blaize podepsala memoranda o porozumění s vládou Telangana pro podporu iniciativ v AI",
+      "description": "Společnost Blaize uzavřela memoranda o porozumění s vládou indického státu Telangana na podporu rozvoje v elektronice, polovodičích a umělé inteligenci. Partnerství prozkoumá aplikace AI v diagnostice v zdravotnictví, automatizaci výroby a energetické úspornosti.",
+      "slug": "us-based-blaize-signs-mou-with-telangana-govt-to-s",
+      "publishedAt": "2026-01-21T15:39:21+00:00",
+      "date": "2026-01-21 15:39:21",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-116510,resizemode-75,msid-127010107/tech/technology/us-based-blaize-signs-mou-with-telangana-govt-to-support-ai-initiatives.jpg",
+      "url": "/tech-news/2026-01-21/us-based-blaize-signs-mou-with-telangana-govt-to-s/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Blaize"
+      ],
+      "people": []
+    },
     {
       "title": "Nový tým umělé inteligence Meta tento měsíc interně doručil první klíčové modely, uvedl šéftechnický ředitel",
       "description": "Na tiskové konferenci na okraji ročního zasedání Světového ekonomického fóra v Davosu řekl CTO Andrew Bosworth, že modely vytvořené týmem Meta Superintelligence Labs, založeným minulý rok, vykazují velký potenciál.",
@@ -3602,26 +3687,6 @@
       "people": []
     },
     {
-      "title": "Customers lament Tesla’s move toward monthly fees for self-driving cars: ‘You will own nothing and be happy’",
-      "description": "Elon Musk oznámil zrušení outright nákupů pro self-driving technology ve prospěch měsíčního předplatného.",
-      "slug": "customers-lament-teslas-move-toward-monthly-fees-f",
-      "publishedAt": "2026-01-15T18:41:35+00:00",
-      "date": "2026-01-15 18:41:35",
-      "importance": 4,
-      "category": "elektromobilita",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/01/GettyImages-492682218.jpg?resize=1200,600",
-      "url": "/tech-news/2026-01-15/customers-lament-teslas-move-toward-monthly-fees-f/",
-      "source": {
-        "emoji": "📰",
-        "id": "fortune",
-        "name": "Fortune"
-      },
-      "companies": [],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
       "title": "Japonsko pomůže ASEAN vyvinout umělou inteligenci v místních jazycích kvůli obavám z Číny",
       "description": "Japonsko a digitální ministři zemí ASEAN se dohodli na spolupráci při vývoji umělé inteligence přizpůsobené jihovýchodním asijským jazykům a kulturám. Cílem je snížit závislost na čínské technologii, včetně podpory kambodžského projektu pro khmerskou umělou inteligenci.",
       "slug": "japan-to-help-asean-develop-local-language-ai-amid",
@@ -3758,24 +3823,6 @@
         "SpaceX",
         "OpenAI"
       ],
-      "people": []
-    },
-    {
-      "title": "Colorado School of Mines zavedla první bakalářský program v inženýrství kvantových systémů v USA",
-      "description": "Colorado School of Mines spouští první bakalářský stupeň v oboru inženýrství kvantových systémů v USA. Tento program vyplňuje mezeru ve vzdělávání pro pracovníky v kvantových technologiích, kde více než polovina pozic vyžaduje pouze bakalářský titul nebo méně.",
-      "slug": "colorado-school-of-mines-establishes-nations-first",
-      "publishedAt": "2026-01-15T12:00:00+00:00",
-      "date": "2026-01-15 12:00:00",
-      "importance": 4,
-      "category": "kvantové technologie",
-      "urlToImage": null,
-      "url": "/tech-news/2026-01-15/colorado-school-of-mines-establishes-nations-first/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [],
       "people": []
     },
     {
@@ -3937,26 +3984,6 @@
       ]
     },
     {
-      "title": "Čína připravuje pravidla pro nákupy čipů Nvidia H200, hlásí Nikkei Asia",
-      "description": "Čína pracuje na pravidlech omezujících objem pokročilých AI čipů, které mohou místní firmy nakupovat od zahraničních výrobců jako Nvidia. Tato opatření následují po rozhodnutí americké Trumpovy administrativy povolit prodej čipů H200 do Číny, přestože čínské úřady momentálně dovoz blokují.",
-      "slug": "china-drafting-purchase-rules-for-nvidia-h200-chip",
-      "publishedAt": "2026-01-15T03:21:24+00:00",
-      "date": "2026-01-15 03:21:24",
-      "importance": 4,
-      "category": "ai čipy",
-      "urlToImage": "https://s.yimg.com/os/en/reuters-finance.com/2d298e5494e3349bc11075aafdc3e5e1",
-      "url": "/tech-news/2026-01-15/china-drafting-purchase-rules-for-nvidia-h200-chip/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": []
-    },
-    {
       "title": "OpenAI uzavřela dohodu na výpočetní výkon v hodnotě 10 miliard dolarů s konkurentem Nvidia Cerebras",
       "description": "OpenAI nakoupí až 750 megawattů výpočetního výkonu od firmy Cerebras za více než 10 miliard dolarů na tři roky. Dohoda slouží k napájení ChatGPT, především pro inference a uvažovací modely, a posiluje postavení Cerebras jako alternativy k Nvidia.",
       "slug": "openai-signs-10-billion-computing-deal-with-nvidia",
@@ -3975,28 +4002,6 @@
         "OpenAI",
         "Nvidia",
         "Cerebras"
-      ],
-      "people": []
-    },
-    {
-      "title": "Čínská Z.ai tvrdí, že natrénovala model výhradně na hardware od Huawei",
-      "description": "Společnost neuvedla, kolik zařízení použila, Nvidia tak může pravděpodobně klidně spát",
-      "slug": "chinas-zai-claims-it-trained-a-model-using-only-hu",
-      "publishedAt": "2026-01-15T02:27:31+00:00",
-      "date": "2026-01-15 02:27:31",
-      "importance": 4,
-      "category": "hardware",
-      "urlToImage": "https://regmedia.co.uk/2025/03/17/leonardo_ai_china_ai_watermark.jpg",
-      "url": "/tech-news/2026-01-15/chinas-zai-claims-it-trained-a-model-using-only-hu/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "companies": [
-        "Zhipu AI",
-        "Huawei",
-        "Nvidia"
       ],
       "people": []
     },
