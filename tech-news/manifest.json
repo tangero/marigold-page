@@ -1,7 +1,155 @@
 {
-  "generated": "2026-01-21T21:01:37.117441+00:00",
+  "generated": "2026-01-22T01:31:35.911891+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Produkce Teslových Cybercab a Optimus začne 'bolestivě pomalu', později se zrychlí, říká Musk",
+      "description": "Generální ředitel Tesly Elon Musk oznámil, že počáteční výroba robotaxi Cybercab a humanoidního robota Optimus bude velmi pomalá kvůli složitosti nových komponent, ale časem se výrazně zrychlí. Tato technologie tvoří klíčovou část hodnoty společnosti ve výši 1,39 bilionu dolarů, přestože hlavní příjmy stále pocházejí z prodeje elektromobilů.",
+      "slug": "teslas-cybercab-optimus-output-to-start-agonizingl",
+      "publishedAt": "2026-01-21T00:26:23+00:00",
+      "date": "2026-01-21 00:26:23",
+      "importance": 4,
+      "category": "robotika",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--ytaPAdWQ--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-01-21T002623Z_1_LYNXMPEM0K00R_RTROPTP_3_TESLA-PRODUCTION.JPG?itok=BTk3UB5H",
+      "url": "/tech-news/2026-01-21/teslas-cybercab-optimus-output-to-start-agonizingl/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNA"
+      },
+      "companies": [
+        "Tesla"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "OpenAI spouští „OpenAI for Education: Countries“ pro podporu národních iniciativ v AI vzdělávání",
+      "description": "OpenAI zahajuje program „OpenAI for Education: Countries“, který pomáhá zemím integrovat umělou inteligenci do vzdělávání, rozvoje pracovní síly a budování gramotnosti v AI. Jedná se o dlouhodobou investici zaměřenou na národní úroveň.",
+      "slug": "openai-launches-openai-for-education-countries-to-",
+      "publishedAt": "2026-01-21T00:00:00+00:00",
+      "date": "2026-01-21 00:00:00",
+      "importance": 4,
+      "category": "ai vzdělávání",
+      "urlToImage": "https://www.c-sharpcorner.com/images/csharp-corner-new.png",
+      "url": "/tech-news/2026-01-21/openai-launches-openai-for-education-countries-to/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "C-sharpcorner.com"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Startup na inference AI Baseten získal 300 milionů dolarů a podporu od Nvidia",
+      "description": "Nvidia podle zpráv investovala 150 milionů dolarů do startupu Baseten, který se zaměřuje na zpracování AI modelů pro inference. Tato investice je součástí kola ve výši 300 milionů dolarů, které zdvojnásobilo valuaci firmy na 5 miliard dolarů.",
+      "slug": "ai-inference-startup-baseten-raises-300-million-an",
+      "publishedAt": "2026-01-20T23:49:00+00:00",
+      "date": "2026-01-20 23:49:00",
+      "importance": 4,
+      "category": "ai startupy",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/01/AI-Baseten-Nvidia.jpeg",
+      "url": "/tech-news/2026-01-20/ai-inference-startup-baseten-raises-300-million-an/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [
+        "Baseten",
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "SpaceX by mohl vypustit let 12 Starshipu verze Block 3 v únoru nebo březnu 2026",
+      "description": "Dne 20. ledna 2026 je SpaceX Ship 39 v závěrečných fázích osazování v Mega Bay 2 na Starbase, včetně instalace zadních klapek. Ship 39 a Booster 19 se připravují na společné testování a start letu Starship Flight 12 z Pad 2.",
+      "slug": "spacex-could-launch-block-3-starship-flight-12-in-",
+      "publishedAt": "2026-01-20T23:37:20+00:00",
+      "date": "2026-01-20 23:37:20",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/01/Screenshot-2026-01-20-at-3.36.32-PM.jpg",
+      "url": "/tech-news/2026-01-20/spacex-could-launch-block-3-starship-flight-12-in/",
+      "source": {
+        "emoji": "📰",
+        "id": "next-big-future",
+        "name": "Next Big Future"
+      },
+      "companies": [
+        "SpaceX"
+      ],
+      "people": []
+    },
+    {
+      "title": "Šéf Anthropic Dario Amodei kritizuje Trumpa za 'šílené' rozhodnutí prodávat pokročilé AI čipy do Číny",
+      "description": "Generální ředitel Anthropic PBC Dario Amodei označil za velkou chybu rozhodnutí americké vlády povolit prodej pokročilých čipů pro umělou inteligenci do Číny. Varoval před vážnými dopady na národní bezpečnost a přirovnal to k prodeji jaderných zbraní Severní Koreji.",
+      "slug": "anthropic-boss-dario-amodei-slams-trump-over-crazy",
+      "publishedAt": "2026-01-20T23:34:34+00:00",
+      "date": "2026-01-20 23:34:34",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/Screenshot-from-2026-01-21-06-32-23.png",
+      "url": "/tech-news/2026-01-20/anthropic-boss-dario-amodei-slams-trump-over-crazy/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": [
+        "Dario Amodei",
+        "Trump"
+      ]
+    },
+    {
+      "title": "Netflix přidal 23 milionů nových odběratelů v roce 2025",
+      "description": "Netflix oznámil růst počtu odběratelů o 23 milionů na celkových 325 milionů k konci roku 2025. Společnost vykázala tržby 45,2 miliardy dolarů a připravuje akvizici Warner Bros. Discovery za 82,7 miliardy dolarů.",
+      "slug": "netflix-added-23-million-new-subscribers-in-2025",
+      "publishedAt": "2026-01-20T23:31:49+00:00",
+      "date": "2026-01-20 23:31:49",
+      "importance": 5,
+      "category": "streamování",
+      "urlToImage": "https://assets-prd.ignimgs.com/2025/07/31/kpop-demon-hunters-1753979448755.png?width=1280&format=jpg&auto=webp&quality=80",
+      "url": "/tech-news/2026-01-20/netflix-added-23-million-new-subscribers-in-2025/",
+      "source": {
+        "emoji": "📰",
+        "id": "ign",
+        "name": "IGN"
+      },
+      "companies": [
+        "Netflix"
+      ],
+      "people": []
+    },
+    {
+      "title": "Rozhovor s výkonným viceprezidentem Quanty Mikem Yangem: Posun v paradigmatu AI průmyslu teprve začal",
+      "description": "Serverový průmysl těží z rozmachu AI. Tržby Quanty dosáhly v roce 2025 rekordní hodnoty přes 2 biliony NT$ (63,2 miliardy USD), přičemž hlavním hnacím motorem jsou AI servery. Mike Yang, výkonný viceprezident Quanty a prezident divize, v rozhovoru zdůrazňuje, že změny v AI sektoru teprve nabírají na síle.",
+      "slug": "quanta-evp-mike-yang-interview-ai-industry-paradig",
+      "publishedAt": "2026-01-20T23:28:35+00:00",
+      "date": "2026-01-20 23:28:35",
+      "importance": 4,
+      "category": "ai servery",
+      "urlToImage": "https://img.digitimes.com/newsshow/20260119pd210_files/2_r.jpg",
+      "url": "/tech-news/2026-01-20/quanta-evp-mike-yang-interview-ai-industry-paradig/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [
+        "Quanta"
+      ],
+      "people": [
+        "Mike Yang"
+      ]
+    },
     {
       "title": "Generální ředitel Anthropic Dario Amodei: Umělá inteligence může zvýšit jak růst HDP, tak nezaměstnanost",
       "description": "Šéf společnosti Anthropic, která vyvíjí velké jazykové modely jako Claude, varuje, že AI vytvoří nový ekonomický scénář s vysokým růstem HDP a současně vysokou nezaměstnaností. Tento vývoj by podle něj zvýšil sociální nerovnosti, zejména v USA.",
@@ -3601,26 +3749,6 @@
       "people": []
     },
     {
-      "title": "Akcie Rocket Lab dosáhly historického maxima po 1,4 miliardovém kontraktu s americkou armádou a návštěvě ministra obrany",
-      "description": "Kiwi-americká firma Rocket Lab získala největší zakázku v historii a přivítala ministra obrany USA, což posunulo její akcie na rekord.",
-      "slug": "rocket-lab-shares-surge-to-all-time-high-after-14b",
-      "publishedAt": "2026-01-14T23:53:23+00:00",
-      "date": "2026-01-14 23:53:23",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/ZQIIHKFEANDL3KQEZK2JW27ZBM.jpg?auth=bb2850531529376deea9ba0eb10e9a88b5cf7cd93b1534dadc958f54ff12e45e&width=1200&height=675&quality=70&focal=1144%2C738&smart=false",
-      "url": "/tech-news/2026-01-14/rocket-lab-shares-surge-to-all-time-high-after-14b/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "New Zealand Herald"
-      },
-      "companies": [
-        "Rocket Lab"
-      ],
-      "people": []
-    },
-    {
       "title": "USA schvalují omezený prodej pokročilých AI čipů Nvidia H200 do Číny",
       "description": "Ministerstvo obchodu USA povolilo export čipů Nvidia H200 do Číny pro schválené zákazníky za podmínek bezpečnostních opatření a 25procentního podílu americké vlády. Nejpokročilejší čipy Blackwell zůstávají plně omezené.",
       "slug": "us-approves-sale-of-nvidias-advanced-ai-chips-to-c",
@@ -3638,24 +3766,6 @@
       "companies": [
         "Nvidia"
       ],
-      "people": []
-    },
-    {
-      "title": "Předpovědi pro rok 2026: Kompletní seznam",
-      "description": "Autor shrnul své předpovědi pro rok 2026 do jednoho příspěvku po dvou týdnech psaní a devíti příspěvcích. Zahrnuje úpadek algoritmicky řízeného obsahu na sociálních sítích, plánované uvedení Anthropic na burzu, snížení nákladů na výpočetní výkon pro AI a další trendy.",
-      "slug": "predictions-2026-the-full-list",
-      "publishedAt": "2026-01-14T23:08:00+00:00",
-      "date": "2026-01-14 23:08:00",
-      "importance": 4,
-      "category": "předpovědi",
-      "urlToImage": "https://battellemedia.com/wp-content/uploads/2024/12/Screenshot-2024-12-23-at-10.39.22 AM-800x1024.png",
-      "url": "/tech-news/2026-01-14/predictions-2026-the-full-list/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Battellemedia.com"
-      },
-      "companies": [],
       "people": []
     },
     {
@@ -3699,42 +3809,6 @@
       "people": []
     },
     {
-      "title": "Národní výpadek mobilních služeb ochromil telefonní spojení v Disney World, miliony v režimu SOS",
-      "description": "Náhlý celonárodní výpadek mobilních sítí Verizonu, AT&T a T-Mobile ovlivnil přes 146 milionů zákazníků v USA, včetně návštěvníků Walt Disney World Resortu. Zákazníci se ocitli v režimu SOS bez datového připojení a hlasových služeb, což zkomplikovalo navigaci v parcích závislou na aplikaci My Disney Experience.",
-      "slug": "national-outage-takes-down-phone-service-at-disney",
-      "publishedAt": "2026-01-14T19:45:24+00:00",
-      "date": "2026-01-14 19:45:24",
-      "importance": 5,
-      "category": "síťový výpadek",
-      "urlToImage": "https://insidethemagic.net/wp-content/uploads/2024/02/disney-world-guests-phone.jpg",
-      "url": "/tech-news/2026-01-14/national-outage-takes-down-phone-service-at-disney/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Inside the Magic"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Podcast: Grok AI a dubinská městská rada v pohybu?",
-      "description": "Irská policie vyšetřuje 200 obrázků podezřelého dětského sexuálního zneužívání generovaných aplikací Grok AI. Problém souvisí s aktualizací umožňující digitální svlékání osob bez rozlišení věku.",
-      "slug": "podcast-grok-ai-and-dublin-city-council-on-the-mov",
-      "publishedAt": "2026-01-14T18:42:43+00:00",
-      "date": "2026-01-14 18:42:43",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.rte.ie/images/0023bde5-1600.jpg",
-      "url": "/tech-news/2026-01-14/podcast-grok-ai-and-dublin-city-council-on-the-mov/",
-      "source": {
-        "emoji": "📰",
-        "id": "rte",
-        "name": "RTE"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Vaše další sluchátka možná budou schopna číst váš mozek – a budete rádi, že to dokážou",
       "description": "Neurable se vrací se svým algoritmem pro čtení mozku poháněným AI, tentokrát ve spolupráci s HyperX.",
       "slug": "your-next-pair-of-headphones-may-be-able-to-read-y",
@@ -3754,28 +3828,6 @@
         "HyperX"
       ],
       "people": []
-    },
-    {
-      "title": "Šéf Nvidia Jensen Huang odmítá apokalyptické spekulace o AI: Sci-fi není užitečné",
-      "description": "Šéf Nvidia Jensen Huang kritizoval doomerské narativy, které vykreslují umělou inteligenci jako konec světa, a argumentoval, že takové sci-fi rámování zkresluje veřejné chápání a regulace. V podcastu No Priors varoval, že to škodí průmyslu i vládám.",
-      "slug": "nvidia-ceo-jensen-huang-pushes-back-on-ai-doomsday",
-      "publishedAt": "2026-01-14T11:47:42+00:00",
-      "date": "2026-01-14 11:47:42",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://img.etimg.com/thumb/msid-126526024,width-1200,height-630,imgsize-463453,overlay-etpanache/articleshow.jpg",
-      "url": "/tech-news/2026-01-14/nvidia-ceo-jensen-huang-pushes-back-on-ai-doomsday/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": [
-        "Jensen Huang"
-      ]
     },
     {
       "title": "Britský zákaz nudifikačních aplikací se nevztahuje na Grok Elona Muska",
@@ -3926,27 +3978,6 @@
       "people": []
     },
     {
-      "title": "Report: Apple bude Gemini doladit samostatně, bez Google značky na Siri a další detaily",
-      "description": "The Information zveřejnila report o partnerství Apple a Google, podle kterého Gemini poslouží jako základ pro AI funkce Apple včetně nové Siri. Apple bude model doladit samostatně a v aktuálním prototypu chybí jakákoli Google značka.",
-      "slug": "report-apple-to-fine-tune-gemini-independently-no-",
-      "publishedAt": "2026-01-14T01:57:45+00:00",
-      "date": "2026-01-14 01:57:45",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/07/new-Gemini-icon-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2026-01-14/report-apple-to-fine-tune-gemini-independently-no/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "companies": [
-        "Apple",
-        "Google"
-      ],
-      "people": []
-    },
-    {
       "title": "Co znamená dohoda Apple s Google v oblasti AI pro oba technologické giganty a pro startup OpenAI v hodnotě 500 miliard dolarů",
       "description": "Partnerství Apple a Google potvrzuje návratný impuls Google v AI, zdůrazňuje problémy Apple s vývojem vlastních modelů a může přinést komplikace pro OpenAI.",
       "slug": "what-apples-ai-deal-with-google-means-for-the-two-",
@@ -4007,26 +4038,6 @@
       },
       "companies": [
         "Nvidia"
-      ],
-      "people": []
-    },
-    {
-      "title": "Politický teoretik tvrdí, že 'probudil' model Anthropic Claude a odhalil rizika zkreslení v promptech",
-      "description": "Pundit hnutí 'Dark Enlightenment' zveřejnil transkript, který podle něj ukazuje, jak snadno lze chatbot navést k opakování uživatelské ideologie.",
-      "slug": "political-theorist-says-he-red-pilled-anthropic-cl",
-      "publishedAt": "2026-01-14T00:18:24+00:00",
-      "date": "2026-01-14 00:18:24",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/anthropic-claude-ai-decrypt-style-gID_7.png",
-      "url": "/tech-news/2026-01-14/political-theorist-says-he-red-pilled-anthropic-cl/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Decrypt"
-      },
-      "companies": [
-        "Anthropic"
       ],
       "people": []
     }
