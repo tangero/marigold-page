@@ -1,7 +1,173 @@
 {
-  "generated": "2026-01-23T13:14:28.035270+00:00",
-  "count": 167,
+  "generated": "2026-01-23T20:54:12.246387+00:00",
+  "count": 175,
   "articles": [
+    {
+      "title": "Stát Louisiana a Persona AI spouštějí pilotní program s humanoidními roboty v ocelárně SSE Steel Fabrication",
+      "description": "Stát Louisiana podepsal memorandum o porozumění s firmou Persona AI na spuštění pilotního projektu s humanoidními roboty v továrně SSE Steel Fabrication. Program se zaměří na sběr dat o pohybu a úkolech v reálném průmyslovém prostředí pro vývoj embodied AI.",
+      "slug": "state-of-louisiana-and-persona-ai-launch-humanoid-",
+      "publishedAt": "2026-01-22T20:08:00+00:00",
+      "date": "2026-01-22 20:08:00",
+      "importance": 5,
+      "category": "robotika",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/e8701128-a9ec-4c56-9ac9-5ebe979c236d",
+      "url": "/tech-news/2026-01-22/state-of-louisiana-and-persona-ai-launch-humanoid/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [
+        "Persona AI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Šéf OpenAI Sam Altman hledá 50 miliard dolarů od investorů z Blízkého východu",
+      "description": "Šéf OpenAI Sam Altman se scházel s investory na Blízkém východě, aby získal jejich účast v kole sběru financí v objemu nejméně 50 miliard dolarů. Pokud se podaří, valuace společnosti by dosáhla 750 až 830 miliard dolarů.",
+      "slug": "openai-ceo-sam-altman-seeks-50b-from-middle-east-i",
+      "publishedAt": "2026-01-22T20:06:23+00:00",
+      "date": "2026-01-22 20:06:23",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2025/02/OpenAI.jpg",
+      "url": "/tech-news/2026-01-22/openai-ceo-sam-altman-seeks-50b-from-middle-east-i/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": [
+        "Sam Altman"
+      ]
+    },
+    {
+      "title": "Mapa trhu s fyzickými AI modely: Za závodem o kontrolu nad inteligencí robotů",
+      "description": "Robotický sektor získal v roce 2025 rekordních 40,7 miliardy dolarů, což představuje nárůst 74 procent oproti předchozímu roku a 9 procent ze všech venture investic, díky čemuž se stává lídrem vedle softwaru pro AI. Fyzická AI umožňuje robotům pracovat ve skutečném světě a učit se z dat místo pevně naprogramovaných pravidel.",
+      "slug": "the-physical-ai-models-market-map-behind-the-arms-",
+      "publishedAt": "2026-01-22T19:49:49+00:00",
+      "date": "2026-01-22 19:49:49",
+      "importance": 5,
+      "category": "robotika",
+      "urlToImage": "https://research-assets.cbinsights.com/2026/01/22134819/Infographic-Based_Feature-Image-Template-5.png",
+      "url": "/tech-news/2026-01-22/the-physical-ai-models-market-map-behind-the-arms/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Cbinsights.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Napínavá telenovela AI startupu, která svírá Silicon Valley",
+      "description": "Startup Thinking Machines, spoluzaložený bývalou šéfovou technologií OpenAI Mirou Murati, prochází interním chaosem, protože klíčoví manažeři Zoph, Metz a Schoenholz odešli do OpenAI kvůli neshodám o strategii a financování. Meta mezitím lákala další zaměstnance nabídkami v hodnotě stovek milionů dolarů.",
+      "slug": "the-ai-startup-soap-opera-riveting-silicon-valley",
+      "publishedAt": "2026-01-22T19:38:43+00:00",
+      "date": "2026-01-22 19:38:43",
+      "importance": 4,
+      "category": "ai startupy",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-665044,resizemode-75,msid-127191565/tech/artificial-intelligence/the-ai-startup-soap-opera-riveting-silicon-valley.jpg",
+      "url": "/tech-news/2026-01-22/the-ai-startup-soap-opera-riveting-silicon-valley/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Thinking Machines",
+        "OpenAI",
+        "Meta"
+      ],
+      "people": [
+        "Mira Murati",
+        "Zoph",
+        "Metz"
+      ]
+    },
+    {
+      "title": "Pinegrove Opportunity získala 2,2 miliardy dolarů pro svůj první fond na sekundární venture investice",
+      "description": "Pinegrove Opportunity Partners uzavřela sběr 2,2 miliardy dolarů pro svůj debutový fond v rychle rostoucí oblasti sekundárních investic do rizikového kapitálu. Fond se zaměřuje na nákup existujících podílů v venture financovaných firmách místo primárních kol.",
+      "slug": "pinegrove-opportunity-raises-22-billion-for-new-ve",
+      "publishedAt": "2026-01-22T19:37:35+00:00",
+      "date": "2026-01-22 19:37:35",
+      "importance": 4,
+      "category": "rizikový kapitál",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_4_1733465206851_1733465215415.png",
+      "url": "/tech-news/2026-01-22/pinegrove-opportunity-raises-22-billion-for-new-ve/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Livemint"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Pinuccio Sciola, AustLit, OpenAI a další: Čtvrteční odpolední ResearchBuzz, 22. ledna 2026",
+      "description": "Přehled novinek zahrnující digitální archiv sochaře Pinuccia Scioly, 25 let databáze australské literatury AustLit, potvrzení OpenAI o vývoji AI nositelného zařízení pro rok 2026 a další události v oblasti AI a digitálních archivů.",
+      "slug": "pinuccio-sciola-austlit-openai-more-thursday-after",
+      "publishedAt": "2026-01-22T19:32:26+00:00",
+      "date": "2026-01-22 19:32:26",
+      "importance": 4,
+      "category": "digitální archiv",
+      "urlToImage": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvczAud3AuY29tXC9pXC9ibGFuay5qcGciLCJ0eHQiOiJSZXNlYXJjaEJ1enoiLCJ0ZW1wbGF0ZSI6ImhpZ2h3YXkiLCJmb250IjoiIiwiYmxvZ19pZCI6NDMyODc1Nn0.BjdcPIDlw4ZG0Ki13B-quwxnrzAxn9iB5rJXagRMNlcMQ",
+      "url": "/tech-news/2026-01-22/pinuccio-sciola-austlit-openai-more-thursday-after/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Researchbuzz.me"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Premiéra Elona Muska na fóru WEF v Davosu: Mluvil o umírání na Marsu, vysmíval se Trumpově mírové radě, sdílel vizi AI robotů a plány Tesla FSD",
+      "description": "Elon Musk překvapil účastníky na Světovém ekonomickém fóru v Davosu svým prvním vystoupením. Mluvil o snu umřít na Marsu, vtipkoval o globální politice a sdílel vizi rozšířených humanoidních robotů spolu s aktualizacemi systému Tesla Full Self-Driving (FSD).",
+      "slug": "elon-musks-wef-debut-in-davos-talks-of-dying-on-ma",
+      "publishedAt": "2026-01-22T18:53:20+00:00",
+      "date": "2026-01-22 18:53:20",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://img.etimg.com/thumb/msid-127187669,width-1200,height-630,imgsize-262230,overlay-economictimes/articleshow.jpg",
+      "url": "/tech-news/2026-01-22/elon-musks-wef-debut-in-davos-talks-of-dying-on-ma/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Tesla"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Vtipy Elona Muska o Grónsku na Davosu nevyšly – představil plán prodeje humanoidních robotů",
+      "description": "Překvapivé vystoupení Elona Muska na Světovém ekonomickém fóru v Davosu začalo neúspěšným vtipem o Grónsku v souvislosti s plány Donalda Trumpa. Musk oznámil prodej humanoidních robotů Optimus veřejnosti do konce příštího roku a cíl získat schválení pro plně autonomní řízení vozidel v zahraničí do roku 2027.",
+      "slug": "elon-musks-greenland-jokes-fall-flat-at-davos-in-a",
+      "publishedAt": "2026-01-22T18:36:55+00:00",
+      "date": "2026-01-22 18:36:55",
+      "importance": 4,
+      "category": "robotika",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/01/119448832.jpg?quality=75&strip=all&w=1200",
+      "url": "/tech-news/2026-01-22/elon-musks-greenland-jokes-fall-flat-at-davos-in-a/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "New York Post"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk"
+      ]
+    },
     {
       "title": "Fond Billa Gatese vede investici 110 milionů dolarů do startupu na čipy pro AI",
       "description": "Fond Billa Gatese, investiční oddělení Microsoftu a Aramco Ventures investují 110 milionů dolarů do Neurophos Inc., austrinské společnosti vyvíjející optickou zpracovatelskou jednotku (OPU), která má překonat akcelerátory pro spouštění modelů AI.",
