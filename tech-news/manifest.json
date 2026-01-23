@@ -1,7 +1,112 @@
 {
-  "generated": "2026-01-23T05:17:03.221995+00:00",
-  "count": 200,
+  "generated": "2026-01-23T13:14:28.035270+00:00",
+  "count": 167,
   "articles": [
+    {
+      "title": "Fond Billa Gatese vede investici 110 milionů dolarů do startupu na čipy pro AI",
+      "description": "Fond Billa Gatese, investiční oddělení Microsoftu a Aramco Ventures investují 110 milionů dolarů do Neurophos Inc., austrinské společnosti vyvíjející optickou zpracovatelskou jednotku (OPU), která má překonat akcelerátory pro spouštění modelů AI.",
+      "slug": "bill-gates-vc-fund-leads-110-million-funding-for-c",
+      "publishedAt": "2026-01-22T12:33:58+00:00",
+      "date": "2026-01-22 12:33:58",
+      "importance": 4,
+      "category": "ai hardware",
+      "urlToImage": null,
+      "url": "/tech-news/2026-01-22/bill-gates-vc-fund-leads-110-million-funding-for-c/",
+      "source": {
+        "emoji": "📰",
+        "id": "financial-post",
+        "name": "Financial Post"
+      },
+      "companies": [
+        "Microsoft Corp",
+        "Neurophos Inc"
+      ],
+      "people": [
+        "Bill Gates"
+      ]
+    },
+    {
+      "title": "Technologický inovační institut a Světové ekonomické fórum oznámily založení Abu Dhabi Centra pro hraniční technologie na Davosu",
+      "description": "Technologický inovační institut (TII), výzkumné oddělení Rady pro pokročilé technologie v Abu Dhabi (ATRC), a Světové ekonomické fórum (WEF) spustily nové centrum v rámci sítě Centre for the Fourth Industrial Revolution (C4IR). Zaměřuje se na výzkum a nasazení kvantových počítačů, robotiky, pohonových a vesmírných systémů včetně souvisejících AI aplikací.",
+      "slug": "technology-innovation-institute-and-world-economic",
+      "publishedAt": "2026-01-22T12:30:06+00:00",
+      "date": "2026-01-22 12:30:06",
+      "importance": 4,
+      "category": "hraniční technologie",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2026/01/22/Annual-Meeting-Davos-2026.jpg",
+      "url": "/tech-news/2026-01-22/technology-innovation-institute-and-world-economic/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Antaranews.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "General Fusion souhlasí s uvedením na burzu prostřednictvím dohody SPAC v hodnotě 1 miliardy dolarů",
+      "description": "Kanadská společnost General Fusion Inc. uzavřela dohodu o fúzi s prázdnou schránkovou firmou Spring Valley Acquisition Corp. III. Transakce s pro-forma hodnotou vlastního kapitálu 1 miliarda dolarů by měla vytvořit jednu z prvních veřejně obchodovaných firem vyvíjejících technologie jaderné fúze.",
+      "slug": "general-fusion-agrees-to-go-public-via-1-billion-s",
+      "publishedAt": "2026-01-22T12:23:41+00:00",
+      "date": "2026-01-22 12:23:41",
+      "importance": 5,
+      "category": "jaderná fúze",
+      "urlToImage": null,
+      "url": "/tech-news/2026-01-22/general-fusion-agrees-to-go-public-via-1-billion-s/",
+      "source": {
+        "emoji": "📰",
+        "id": "financial-post",
+        "name": "Financial Post"
+      },
+      "companies": [
+        "General Fusion Inc"
+      ],
+      "people": []
+    },
+    {
+      "title": "Volvo přidá Google Gemini do 2,5 milionu vozů po celém světě v rozsáhlé OTA aktualizaci, způsobilé modely od roku výroby 2020",
+      "description": "Švédský výrobce Volvo oznámil nasazení generativní AI Google Gemini do 2,5 milionu vozů prostřednictvím over-the-air aktualizace. Tento krok nahradí stávajícího Google Assistanta a sjednotí infotainment starších modelů s novějšími vozy jako EX30 nebo EX90.",
+      "slug": "volvo-to-add-google-gemini-to-25mil-cars-globally-",
+      "publishedAt": "2026-01-22T12:00:59+00:00",
+      "date": "2026-01-22 12:00:59",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://paultan.org/image/2026/01/2026-Volvo-EX60-infotainment-e1769082118956-1200x676.jpg",
+      "url": "/tech-news/2026-01-22/volvo-to-add-google-gemini-to-25mil-cars-globally/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Paul Tan's Automotive News"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Google získává špičkové talenty z hlasového AI startupu Hume AI v licenční dohodě",
+      "description": "CEO Hume AI Alan Cowen se připojí k Google DeepMind spolu s několika top inženýry v rámci licenční dohody. Startup bude pokračovat v poskytování své technologie jiným AI laboratořím.",
+      "slug": "google-acquires-top-talent-from-ai-voice-startup-h",
+      "publishedAt": "2026-01-22T12:00:00+00:00",
+      "date": "2026-01-22 12:00:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://media.wired.com/photos/696a8b532ff75004cc890293/191:100/w_1280,c_limit/Google-Signs-Licensing-Deal-with-Hume-Business-2252501394.jpg",
+      "url": "/tech-news/2026-01-22/google-acquires-top-talent-from-ai-voice-startup-h/",
+      "source": {
+        "emoji": "🔧",
+        "id": "wired",
+        "name": "Wired"
+      },
+      "companies": [
+        "Google",
+        "Hume AI",
+        "Google DeepMind"
+      ],
+      "people": [
+        "Alan Cowen"
+      ]
+    },
     {
       "title": "Taiwan posouvá kvantovou strategii do druhé fáze, sází na hybridní výpočty a globální partnerství",
       "description": "Tajwanská vláda přechází svůj program rozvoje kvantových technologií do druhé fáze, zaměřenou na výstavbu národní heterogenní hybridní výpočetní platformy, která integruje výpočetní výkon vysokého výkonu (HPC) s kvantovými výpočty (QC). Program spoléhá na mezinárodní spolupráce kvůli omezením v exportu technologií.",
@@ -3286,778 +3391,6 @@
         "name": "OilPrice.com"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "OpenAI začne testovat reklamy v ChatGPT u bezplatných a Go tarifů",
-      "description": "OpenAI Group PBC oznámila plány na zobrazení reklam v ChatGPT. Společnost začne v příštích týdnech zobrazovat propagované nabídky dospělým uživatelům s bezplatnými účty v USA a také předplatitelům tarifu ChatGPT Go.",
-      "slug": "openai-to-start-testing-chatgpt-ads-across-free-go",
-      "publishedAt": "2026-01-16T23:58:02+00:00",
-      "date": "2026-01-16 23:58:02",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/OpenAI-3.png",
-      "url": "/tech-news/2026-01-16/openai-to-start-testing-chatgpt-ads-across-free-go/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Investoři vložili loni do vesmírných startupů více než 55 miliard dolarů",
-      "description": "Loni investoři nalili do vesmírných startupů rekordních 55,3 miliardy dolarů, přičemž největší objem šel do aplikací využívajících data ze vesmíru. Očekávané IPO společnosti SpaceX v roce 2026 by mohlo být klíčovým milníkem pro celý sektor.",
-      "slug": "investors-put-more-than-55-billion-behind-space-st",
-      "publishedAt": "2026-01-16T22:23:24+00:00",
-      "date": "2026-01-16 22:23:24",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/696aae6163e6b060f208828a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "url": "/tech-news/2026-01-16/investors-put-more-than-55-billion-behind-space-st/",
-      "source": {
-        "emoji": "💼",
-        "id": null,
-        "name": "Forbes"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Databázová společnost ClickHouse získává 400 milionů dolarů a přebírá startup pro observabilitu AI Langfuse",
-      "description": "Open-source společnost ClickHouse Inc. uzavřela kolo investic série D v hodnotě 400 milionů dolarů při valuaci 15 miliard dolarů. Investici vedl Dragoneer a připojili se k ní GIC, Index Ventures, Khosla Ventures, Lightspeed Venture Partners, T. Rowe Price a WCM Investment Management.",
-      "slug": "database-maker-clickhouse-raises-400m-acquires-ai-",
-      "publishedAt": "2026-01-16T21:49:01+00:00",
-      "date": "2026-01-16 21:49:01",
-      "importance": 4,
-      "category": "startupy",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/ClickHouse.png",
-      "url": "/tech-news/2026-01-16/database-maker-clickhouse-raises-400m-acquires-ai/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "ClickHouse",
-        "Langfuse"
-      ],
-      "people": []
-    },
-    {
-      "title": "Od kanceláří OpenAI k dohodě s Eli Lilly – jak se Chai Discovery stala jedním z nejvýraznějších jmen v AI vývoji léků",
-      "description": "Od kanceláří OpenAI k dohodě s Eli Lilly – jak se Chai Discovery stala jedním z nejvýraznějších jmen v AI vývoji léků (techcrunch.com)",
-      "slug": "from-openais-offices-to-a-deal-with-eli-lilly-how-",
-      "publishedAt": "2026-01-16T20:14:47+00:00",
-      "date": "2026-01-16 20:14:47",
-      "importance": 4,
-      "category": "farmaceutická ai",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/01/251201-ChaiDiscovery-group-5263.jpg?resize=1200,800",
-      "url": "/tech-news/2026-01-16/from-openais-offices-to-a-deal-with-eli-lilly-how/",
-      "source": {
-        "emoji": "🚀",
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "companies": [
-        "OpenAI",
-        "Chai Discovery"
-      ],
-      "people": []
-    },
-    {
-      "title": "OpenAI investovalo miliardy do nedávných dohod na čipy. Někteří velcí hráči zůstali stranou",
-      "description": "OpenAI uzavřelo dohody v hodnotě miliard dolarů s výrobci AI čipů včetně Nvidia, AMD, Broadcom a Cerebras.",
-      "slug": "openai-has-committed-billions-to-recent-chip-deals",
-      "publishedAt": "2026-01-16T20:00:01+00:00",
-      "date": "2026-01-16 20:00:01",
-      "importance": 4,
-      "category": "ai čipy",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108236135-1764788503612-gettyimages-2197366908-dsc00472_mof5bjgn.jpeg?v=1768592223&w=1920&h=1080",
-      "url": "/tech-news/2026-01-16/openai-has-committed-billions-to-recent-chip-deals/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNBC"
-      },
-      "companies": [
-        "OpenAI",
-        "Nvidia",
-        "AMD",
-        "Broadcom",
-        "Cerebras"
-      ],
-      "people": []
-    },
-    {
-      "title": "OpenAI testuje reklamy v ChatGPT kvůli tlaku na zvýšení příjmů",
-      "description": "Společnost OpenAI začne zobrazovat reklamy některým americkým uživatelům ChatGPT, což představuje zásadní odklon od dosavadního modelu založeného na předplatném.",
-      "slug": "openai-to-test-ads-in-chatgpt-as-startup-faces-pre",
-      "publishedAt": "2026-01-16T19:42:09+00:00",
-      "date": "2026-01-16 19:42:09",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/01/logo-openai-displayed-near-response-11307183.jpg?quality=75&strip=all&w=1200",
-      "url": "/tech-news/2026-01-16/openai-to-test-ads-in-chatgpt-as-startup-faces-pre/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "New York Post"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Bluetooth zařízení s technologií Google Fast Pair jsou zranitelná vůči novému útoku",
-      "description": "Výzkumníci z belgické univerzity KU Leuven odhalili zranitelnosti v technologii Google Fast Pair, která slouží k rychlému párování Bluetooth zařízení na systémech Android a ChromeOS. Nový útok nazvaný WhisperPair umožňuje hackerům převzít kontrolu nad sluchátky, reproduktory a mikrofony zařízení od výrobců jako Sony, Anker nebo Nothing, včetně sledování polohy uživatele.",
-      "slug": "bluetooth-devices-with-google-fast-pair-are-vulner",
-      "publishedAt": "2026-01-16T19:39:31+00:00",
-      "date": "2026-01-16 19:39:31",
-      "importance": 5,
-      "category": "kybernetika",
-      "urlToImage": "https://production-static.mobilesyrup.com/uploads/2024/10/Google-pixel-buds-header-4-scaled.jpg",
-      "url": "/tech-news/2026-01-16/bluetooth-devices-with-google-fast-pair-are-vulner/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "MobileSyrup"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Cla na dovoz z Tchaj-wanu klesnou po obchodní dohodě, což by mělo snížit ceny technologií",
-      "description": "USA a Tchaj-wan uzavřely obchodní dohodu, která snižuje cla na dovoz z technologicky zaměřené oblasti výměnou za investice v USA.",
-      "slug": "taiwan-tariffs-fall-after-trade-deal-hopefully-eas",
-      "publishedAt": "2026-01-16T19:33:19+00:00",
-      "date": "2026-01-16 19:33:19",
-      "importance": 4,
-      "category": "hardware",
-      "urlToImage": "https://www.pcworld.com/wp-content/uploads/2026/01/pexels-pixabay-259027.jpg?quality=50&strip=all&w=1024",
-      "url": "/tech-news/2026-01-16/taiwan-tariffs-fall-after-trade-deal-hopefully-eas/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "PCWorld"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Nejnovější startup Sama Altmana konkuruje Neuralinku Elona Muska",
-      "description": "Šéf OpenAI přidává do svého portfolia startup Merge Labs na mozko-počítačová rozhraní s financováním 252 milionů dolarů. Firma plánuje vyvinout vysoce výkonná rozhraní integrovatelná s umělou inteligencí.",
-      "slug": "sam-altmans-latest-startup-takes-on-elon-musks-neu",
-      "publishedAt": "2026-01-16T19:30:34+00:00",
-      "date": "2026-01-16 19:30:34",
-      "importance": 4,
-      "category": "mozko-počítačové roz",
-      "urlToImage": "https://observer.com/wp-content/uploads/sites/2/2025/11/GettyImages-2226495963-e1762793830529.jpg?quality=80",
-      "url": "/tech-news/2026-01-16/sam-altmans-latest-startup-takes-on-elon-musks-neu/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Observer"
-      },
-      "companies": [
-        "OpenAI",
-        "Neuralink"
-      ],
-      "people": [
-        "Sam Altman",
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "ASML dosáhla rekordní hodnoty díky AI boomu – analytici vidí prostor pro další růst",
-      "description": "Holandský výrobce polovodičového vybavení ASML se ve čtvrtek stal třetí evropskou společností s valuací přes 500 miliard dolarů.",
-      "slug": "asml-hits-record-high-on-ai-boost-and-analysts-see",
-      "publishedAt": "2026-01-16T16:06:39+00:00",
-      "date": "2026-01-16 16:06:39",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107402297-1713339157313-gettyimages-1950315198-NETHERLANDS_ASML.jpeg?v=1768577053&w=1920&h=1080",
-      "url": "/tech-news/2026-01-16/asml-hits-record-high-on-ai-boost-and-analysts-see/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNBC"
-      },
-      "companies": [
-        "ASML"
-      ],
-      "people": []
-    },
-    {
-      "title": "Proč musí lídři firem prozkoumat postkvantovou kryptografii před kvantovou érou",
-      "description": "S pokračujícím vývojem kvantových počítačů hrozí ohrožení současných kryptografických standardů. Článek vysvětluje, jak se firmy mohou připravit na postkvantovou kryptografii (PQC) a vyhnout se rizikům jako jsou útoky typu harvest now, decrypt later.",
-      "slug": "why-business-leaders-must-explore-post-quantum-pre",
-      "publishedAt": "2026-01-16T15:53:00+00:00",
-      "date": "2026-01-16 15:53:00",
-      "importance": 5,
-      "category": "postkvantová kryptog",
-      "urlToImage": "https://www.techtarget.com/rms/onlineimages/arvr_g1200559136.jpg",
-      "url": "/tech-news/2026-01-16/why-business-leaders-must-explore-post-quantum-pre/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Techtarget.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Co se děje s… Kyivstar, Verizon, Nigérie",
-      "description": "Služba D2D od Kyivstaru přilákala 3 miliony uživatelů. Verizon uzavře akvizici operátora Frontier s FTTP sítí za 20 miliard dolarů. Nigérie udělila tři další licence pro satelitní služby.",
-      "slug": "whats-up-with-kyivstar-verizon-nigeria",
-      "publishedAt": "2026-01-16T15:52:18+00:00",
-      "date": "2026-01-16 15:52:18",
-      "importance": 5,
-      "category": "telekomunikace",
-      "urlToImage": "https://assets.telecomtv.com/assets/telecomtv/csm-starlink-kyivstar-network-name-on-phone-screen-31a84281b9-source-veon-21613.jpg?w=1200",
-      "url": "/tech-news/2026-01-16/whats-up-with-kyivstar-verizon-nigeria/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "TelecomTV"
-      },
-      "companies": [
-        "Kyivstar",
-        "Verizon",
-        "Frontier"
-      ],
-      "people": []
-    },
-    {
-      "title": "Cloudflare, X a další služby dnes mimo provoz",
-      "description": "Cloudflare, síť pro doručování obsahu a distribuovaný DNS server, byl dnes ráno mimo provoz, což ovlivnilo mnoho webových stránek včetně X. Služby se postupně zotavují, ale výpadek ukazuje na zranitelnost internetové infrastruktury.",
-      "slug": "cloudflare-x-and-other-things-down-today",
-      "publishedAt": "2026-01-16T15:47:46+00:00",
-      "date": "2026-01-16 15:47:46",
-      "importance": 5,
-      "category": "cloudové výpadky",
-      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/01/Screenshot-2026-01-16-at-7.50.04-AM.jpg",
-      "url": "/tech-news/2026-01-16/cloudflare-x-and-other-things-down-today/",
-      "source": {
-        "emoji": "📰",
-        "id": "next-big-future",
-        "name": "Next Big Future"
-      },
-      "companies": [
-        "Cloudflare"
-      ],
-      "people": []
-    },
-    {
-      "title": "Cena akcií Micron dnes: Co pohání růst MU – $100 miliardová mega továrna v New Yorku a nákup akcií insiderem",
-      "description": "Akcie společnosti Micron Technology (MU) vzrostly o více než 6 % po oznámení zahájení stavby $100 miliardového komplexu pro výrobu pamětí v Onondaga County v New Yorku. Tento projekt, označovaný jako největší polovodičová továrna v USA, má zahájit produkci v roce 2030 a vytvořit 50 000 pracovních míst, přičemž podporuje růst AI a datových center.",
-      "slug": "micron-stock-price-today-whats-driving-mu-rally-10",
-      "publishedAt": "2026-01-16T15:31:44+00:00",
-      "date": "2026-01-16 15:31:44",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://img.etimg.com/thumb/msid-126579992,width-1200,height-630,imgsize-341816,overlay-economictimes/articleshow.jpg",
-      "url": "/tech-news/2026-01-16/micron-stock-price-today-whats-driving-mu-rally-10/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Micron Technology"
-      ],
-      "people": []
-    },
-    {
-      "title": "Průlom, díky kterému robotické obličeje působí méně strašidelně",
-      "description": "Lidé věnují při konverzaci velkou pozornost pohybům rtů, roboti v tom dosud zaostávali. Robot vyvinutý na Columbia Engineering se naučil realistické pohyby rtů sledováním svého odrazu v zrcadle a videí lidí z internetu, což mu umožňuje synchronizovaně mluvit a zpívat.",
-      "slug": "the-breakthrough-that-makes-robot-faces-feel-less-",
-      "publishedAt": "2026-01-16T15:28:30+00:00",
-      "date": "2026-01-16 15:28:30",
-      "importance": 5,
-      "category": "robotika",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/lip-syncing-robot.webp",
-      "url": "/tech-news/2026-01-16/the-breakthrough-that-makes-robot-faces-feel-less/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Science Daily"
-      },
-      "companies": [
-        "Columbia Engineering"
-      ],
-      "people": []
-    },
-    {
-      "title": "Šéf OpenAI Sam Altman získal 252 milionů dolarů pro firmu na rozhraní mozek-počítač – Merge Labs je stále v rané fázi výzkumu",
-      "description": "OpenAI investuje do BCI, protože je považuje za důležitou novou oblast, která umožní plynulou interakci s AI. Firma se zaměřuje na neinvazivní technologie urychlené AI.",
-      "slug": "openai-ceo-sam-altman-raises-252-million-for-brain",
-      "publishedAt": "2026-01-16T11:40:00+00:00",
-      "date": "2026-01-16 11:40:00",
-      "importance": 4,
-      "category": "neurotechnologie",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/6YCJFDu536nafYdLmMeVmM-1920-80.jpg",
-      "url": "/tech-news/2026-01-16/openai-ceo-sam-altman-raises-252-million-for-brain/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "companies": [
-        "OpenAI",
-        "Merge Labs"
-      ],
-      "people": [
-        "Sam Altman"
-      ]
-    },
-    {
-      "title": "Trump nařizuje nouzovou aukci energie pro datová centra AI velkých technologických firem",
-      "description": "Americký prezident Donald Trump nařizuje největšímu operátorovi elektrizační sítě PJM, aby provedl nouzovou aukci dodávek energie. Cílem je ochránit spotřebitele před růstem cen elektřiny způsobeným poptávkou po napájení pro nová datová centra AI od firem jako Google, Microsoft nebo Amazon.",
-      "slug": "trump-orders-emergency-power-auction-for-big-tech-",
-      "publishedAt": "2026-01-16T11:00:00+00:00",
-      "date": "2026-01-16 11:00:00",
-      "importance": 4,
-      "category": "datová centra",
-      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/news/718x300/2026-01-16_il5yg2kcqd.jpg",
-      "url": "/tech-news/2026-01-16/trump-orders-emergency-power-auction-for-big-tech/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "OilPrice.com"
-      },
-      "companies": [],
-      "people": [
-        "Donald Trump"
-      ]
-    },
-    {
-      "title": "xAI žalováno kvůli nekonzentrálním deepfake obrázkům Ashley St Clair, matky dítěte Elona Muska",
-      "description": "Ashley St Clair, matka jednoho z dětí Elona Muska, v čtvrtek zažalovala jeho společnost umělé inteligence (AI) xAI s tím, že její chatbot Grok vygeneroval sexuálně explicitní obrázky ní bez jejího souhlasu. Clair zdůraznila, že xAI selhalo v prevenci…",
-      "slug": "xai-sued-over-non-consensual-deepfake-images-of-as",
-      "publishedAt": "2026-01-16T08:10:17+00:00",
-      "date": "2026-01-16 08:10:17",
-      "importance": 4,
-      "category": "deepfakes",
-      "urlToImage": "https://economictimes.indiatimes.com/photo/65498029.cms",
-      "url": "/tech-news/2026-01-16/xai-sued-over-non-consensual-deepfake-images-of-as/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "xAI"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Taiwan vypsal mezinárodní tendr na nákup kvantového počítače; americké embargo na export zůstává klíčové",
-      "description": "Po oznámení projektu stavby kvantového mainframe od Národní rady pro vědu a technologii (NSTC) se pozornost soustředila na to, zda Taiwan použije kvantový počítač vyvinutý Akademií Sinica nebo jej zakoupí ze zahraničí. Klíčovou roli hraje americké embargo na export kvantových technologií.",
-      "slug": "taiwan-opens-international-tender-for-quantum-comp",
-      "publishedAt": "2026-01-16T08:08:02+00:00",
-      "date": "2026-01-16 08:08:02",
-      "importance": 5,
-      "category": "kvantové počítače",
-      "urlToImage": "https://img.digitimes.com/newsshow/20260115pd229_files/1_b.jpg",
-      "url": "/tech-news/2026-01-16/taiwan-opens-international-tender-for-quantum-comp/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "OpenAI vs Gemini vs Claude: Válka AI, která utváří budoucnost vývojářů",
-      "description": "OpenAI, Gemini a Claude soupeří v oblasti umělé inteligence a mění způsob softwarového vývoje. Článek analyzuje silné stránky každého modelu a jejich využití pro úspěch vývojářů v praxi.",
-      "slug": "openai-vs-gemini-vs-claude-the-ai-war-that-will-sh",
-      "publishedAt": "2026-01-16T07:50:34+00:00",
-      "date": "2026-01-16 07:50:34",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.c-sharpcorner.com/images/csharp-corner-new.png",
-      "url": "/tech-news/2026-01-16/openai-vs-gemini-vs-claude-the-ai-war-that-will-sh/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "C-sharpcorner.com"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Phison a Infinitix budují infrastrukturní stack pro podnikové AI",
-      "description": "Phison spolupracuje s poskytovatelem softwaru Infinitix na integraci své technologie aiDAPTIV+ s platformou AI-Stack. Řešení sjednocuje hardware a software pro trénink a inference AI modelů v podnikovém prostředí s využitím vysokorychlostních SSD a expanze paměti.",
-      "slug": "phison-infinitix-build-enterprise-ai-infrastructur",
-      "publishedAt": "2026-01-16T07:12:33+00:00",
-      "date": "2026-01-16 07:12:33",
-      "importance": 4,
-      "category": "ai infrastruktura",
-      "urlToImage": "https://img.digitimes.com/newsshow/20260116pd234_files/1_b.jpg",
-      "url": "/tech-news/2026-01-16/phison-infinitix-build-enterprise-ai-infrastructur/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
-      },
-      "companies": [
-        "Phison",
-        "Infinitix"
-      ],
-      "people": []
-    },
-    {
-      "title": "OpenAI očekává další „seismický šok“ z Číny uprostřed spekulací o novém vydání DeepSeek",
-      "description": "Zvýšené očekávání kolem možné velké aktualizace DeepSeek v době čínského nového roku. OpenAI varuje před dalším průlomem v závodě o dominanci v umělé inteligenci.",
-      "slug": "openai-expects-another-seismic-shock-from-china-am",
-      "publishedAt": "2026-01-16T06:00:00+00:00",
-      "date": "2026-01-16 06:00:00",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/01/16/3722759.jpg",
-      "url": "/tech-news/2026-01-16/openai-expects-another-seismic-shock-from-china-am/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Star Online"
-      },
-      "companies": [
-        "OpenAI",
-        "DeepSeek"
-      ],
-      "people": []
-    },
-    {
-      "title": "Asijské akcie smíšené po silných výsledcích TSMC",
-      "description": "Asijské trhy byly v pátek smíšené poté, co tchajwanský výrobce čipů TSMC oznámil výrazný nárůst zisku, což posílilo důvěru v sektor AI díky poptávce po čipech pro umělou inteligenci a nové obchodní dohodě USA s Tchaj-wanem.",
-      "slug": "asian-stocks-mixed-after-bumper-tsmc-results",
-      "publishedAt": "2026-01-16T03:57:32+00:00",
-      "date": "2026-01-16 03:57:32",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2026/01/eca39cd1d113b89a18f05589ad33bb81bb1eea8d.jpg",
-      "url": "/tech-news/2026-01-16/asian-stocks-mixed-after-bumper-tsmc-results/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digital Journal"
-      },
-      "companies": [
-        "TSMC"
-      ],
-      "people": []
-    },
-    {
-      "title": "TSMC rozšíří investice do USA v hodnotě 165 miliard dolarů – co o tom víme",
-      "description": "TSMC urychlí svou expanzi v Arizoně v hodnotě miliard dolarů po obchodní dohodě mezi USA a Tchaj-wanem a silných hospodářských výsledcích. Společnost zvyšuje investice kvůli rostoucí poptávce po čipech pro AI.",
-      "slug": "tsmc-is-set-to-expand-its-165-billion-us-investmen",
-      "publishedAt": "2026-01-16T03:25:18+00:00",
-      "date": "2026-01-16 03:25:18",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108166832-1751446059813-gettyimages-2202607774-TRUMP_TSMC.jpeg?v=1768528141&w=1920&h=1080",
-      "url": "/tech-news/2026-01-16/tsmc-is-set-to-expand-its-165-billion-us-investmen/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNBC"
-      },
-      "companies": [
-        "TSMC"
-      ],
-      "people": []
-    },
-    {
-      "title": "Společnost Merge Sama Altmana získala 367 milionů dolarů na propojení mozků s počítači",
-      "description": "Merge Labs, společnost spoluzakládáná Samem Altmanem z OpenAI, která vyvíjí zařízení pro přímé propojení lidského mozku s počítači, získala investici 252 milionů amerických dolarů (367 milionů v přepočtu). Nejprve plánuje medicínské aplikace, později produkty pro širokou veřejnost.",
-      "slug": "sam-altmans-merge-raises-367m-to-link-brains-and-c",
-      "publishedAt": "2026-01-16T03:01:49+00:00",
-      "date": "2026-01-16 03:01:49",
-      "importance": 4,
-      "category": "neurotechnologie",
-      "urlToImage": "https://images.thenightly.com.au/publication/C-21324986/3486dffc5a96a796f21c60e2bdc9726e3dc6e799-16x9-x0y417w4000h2250.jpg?imwidth=1200",
-      "url": "/tech-news/2026-01-16/sam-altmans-merge-raises-367m-to-link-brains-and-c/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Thenightly.com.au"
-      },
-      "companies": [
-        "Merge Labs"
-      ],
-      "people": [
-        "Sam Altman"
-      ]
-    },
-    {
-      "title": "Tchaj-wan se stane blízkým strategickým partnerem USA v oblasti AI díky nové investiční dohodě",
-      "description": "Partnerství by mohlo posílit technologickou inovaci, upevnit ekonomické vazby a změnit geopolitickou dynamiku v asijsko-pacifickém regionu.",
-      "slug": "taiwan-to-become-close-ai-strategic-partner-with-u",
-      "publishedAt": "2026-01-16T03:00:45+00:00",
-      "date": "2026-01-16 03:00:45",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/01/15220013/3c808489-b194-4009-afd6-b1d1da4c11c5-800x420.jpg",
-      "url": "/tech-news/2026-01-16/taiwan-to-become-close-ai-strategic-partner-with-u/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Crypto Briefing"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "USA a Tchaj-wan uzavřely obchodní dohodu se sníženými cly",
-      "description": "Nová dohoda zavazuje tchajwanské firmy vyrábějící čipy k investicím a stavbě závodů v USA. Na oplátku Washington sníží clo na tchajwanské zboží z 20 % na 15 %.",
-      "slug": "us-taiwan-reach-trade-deal-with-lower-tariffs",
-      "publishedAt": "2026-01-16T02:56:00+00:00",
-      "date": "2026-01-16 02:56:00",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://static.dw.com/image/75529846_6.jpg",
-      "url": "/tech-news/2026-01-16/us-taiwan-reach-trade-deal-with-lower-tariffs/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "DW (English)"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Taiwan chce být strategickým partnerem USA v oblasti AI díky dohodě o clech",
-      "description": "Administrativa Donalda Trumpa tlačí Taiwan, hlavního výrobce polovodičů, na větší investice do USA, konkrétně do výroby čipů pohánějících vývoj umělé inteligence. Dohoda snižuje cla na taiwanské exporty a podporuje investice v hodnotě 250 miliard dolarů do polovodičů, energie a AI.",
-      "slug": "taiwan-aims-to-be-strategic-ai-partner-with-us-und",
-      "publishedAt": "2026-01-16T02:48:13+00:00",
-      "date": "2026-01-16 02:48:13",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-5946,resizemode-75,msid-126556071/tech/artificial-intelligence/taiwan-aims-to-be-strategic-ai-partner-with-us-under-tariff-deal.jpg",
-      "url": "/tech-news/2026-01-16/taiwan-aims-to-be-strategic-ai-partner-with-us-und/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Filipíny omezují Grok kvůli obavám z dětské pornografie",
-      "description": "Ministerstvo informací a komunikačních technologií Filipín (DICT) nařídilo okamžitý zákaz přístupu k AI nástroji Grok od Elona Muska po stížnostech na zneužití k tvorbě sexuálně konotovaných obrázků včetně deepfakes s dětmi. Přístup bude obnoven až po splnění filipínských zákonů.",
-      "slug": "philippines-restricts-grok-over-child-pornography-",
-      "publishedAt": "2026-01-16T02:40:14+00:00",
-      "date": "2026-01-16 02:40:14",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.yugatech.com/wp-content/uploads/2026/01/NEWS-ARTICLE-18.png",
-      "url": "/tech-news/2026-01-16/philippines-restricts-grok-over-child-pornography/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yugatech.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Wikipedia uzavřela dohody s AI firmami Amazon, Meta, Microsoft a Perplexity k 25. výročí: Co to znamená",
-      "description": "Wikimedia Foundation, mateřská organizace Wikipedie, oznámila k 25. výročí uzavření dohod o umělé inteligenci s firmami Amazon, Meta Platforms, Microsoft, Mistral AI a Perplexity. Tyto dohody přicházejí po podobných smluvách s Google v roce 2022 a Ecosia v roce 2025.",
-      "slug": "wikipedia-signs-ai-deal-with-amazon-meta-microsoft",
-      "publishedAt": "2026-01-16T02:38:18+00:00",
-      "date": "2026-01-16 02:38:18",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2026/01/16/1600x900/logo/Wikipedia-25th-Anniversary-1_1768530098631_1768530123698.jpg",
-      "url": "/tech-news/2026-01-16/wikipedia-signs-ai-deal-with-amazon-meta-microsoft/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Livemint"
-      },
-      "companies": [
-        "Amazon",
-        "Meta",
-        "Microsoft",
-        "Perplexity",
-        "Mistral AI"
-      ],
-      "people": []
-    },
-    {
-      "title": "USA a Tchaj-wan uzavřely dohodu o snížení cel a rozšíření investic do čipů",
-      "description": "USA a Tchaj-wan uzavřely novou obchodní dohodu, která snižuje cla a podporuje investice do amerického sektoru polovodičů. Cílem je zajistit stabilní dodávky čipů a posílit výrobní kapacity v USA.",
-      "slug": "us-taiwan-seal-deal-to-cut-tariffs-expand-chip-inv",
-      "publishedAt": "2026-01-16T02:17:20+00:00",
-      "date": "2026-01-16 02:17:20",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2026/01/16072158/AFP__20260116__92W44VK__v1__Mockup__TaiwanUsDiplomacyTradeTariff1-1200x630.jpg",
-      "url": "/tech-news/2026-01-16/us-taiwan-seal-deal-to-cut-tariffs-expand-chip-inv/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Punch"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "USA a Tchaj-wan uzavřely obchodní dohodu se zaměřením na polovodičové čipy a Čínu",
-      "description": "USA a Tchaj-wan uzavřely obchodní dohodu, která snižuje cla na tchajwanské exporty polovodičů a podporuje investice do americké výroby. Tchajwanské firmy slibují 250 miliard dolarů na rozšíření produkce čipů, energie a umělé inteligence v USA.",
-      "slug": "us-and-taiwan-reach-trade-deal-with-semiconductor-",
-      "publishedAt": "2026-01-16T01:23:28+00:00",
-      "date": "2026-01-16 01:23:28",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://img.etimg.com/thumb/msid-126555338,width-1200,height-630,imgsize-62542,overlay-economictimes/articleshow.jpg",
-      "url": "/tech-news/2026-01-16/us-and-taiwan-reach-trade-deal-with-semiconductor/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Grok blokován před úpravou obrázků reálných lidí do odhalujícího oblečení pomocí AI v místech, kde je to nelegální, uvedla X",
-      "description": "AI chatbot Grok od Elona Muska nebude moci upravovat fotografie tak, aby zobrazovaly reálné osoby v odhalujícím oblečení v oblastech, kde to zákon zakazuje, podle prohlášení na platformě X. Opatření přichází po globálním odporu vůči sexualizovaným obrázkům žen a dětí.",
-      "slug": "grok-blocked-from-undressing-images-with-ai-in-pla",
-      "publishedAt": "2026-01-16T00:14:17+00:00",
-      "date": "2026-01-16 00:14:17",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2026/01/2026-01-15T124959Z_1833880125_RC2X0JAQT12L_RTRMADP_3_XAI-GROK-BRITAIN-1024x699.jpg",
-      "url": "/tech-news/2026-01-16/grok-blocked-from-undressing-images-with-ai-in-pla/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "PBS"
-      },
-      "companies": [],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "NVentures společnosti Nvidia investuje do Harmonic AI v sérii C pro matematickou superinteligenci",
-      "description": "Startup Harmonic AI, zaměřený na matematickou superinteligenci, získal investici od NVentures, venture kapitálové divize Nvidia, v rámci série C kola za 120 milionů dolarů na valuaci 1,45 miliardy dolarů. Peníze poslou k rozvoji systému Aristotle, pokročilého motoru pro matematické uvažování bez halucinací.",
-      "slug": "nvidias-nventures-backs-harmonic-ai-in-series-c-fo",
-      "publishedAt": "2026-01-16T00:13:27+00:00",
-      "date": "2026-01-16 00:13:27",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/11/harmonicai.png",
-      "url": "/tech-news/2026-01-16/nvidias-nventures-backs-harmonic-ai-in-series-c-fo/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Nvidia",
-        "Harmonic AI"
-      ],
-      "people": []
-    },
-    {
-      "title": "OpenAI investuje do firmy na brain-computer interface spoluzaložené CEO Samem Altmanem",
-      "description": "Merge Labs vyvíjí technologie pro ovládání zařízení pomocí mozku bez implantace hardware do těla. OpenAI se účastní seed kola v hodnotě 252 milionů dolarů, které vede investice do non-invazivních brain-computer interfaces (BCI).",
-      "slug": "openai-invests-in-brain-interface-biz-co-founded-b",
-      "publishedAt": "2026-01-16T00:13:06+00:00",
-      "date": "2026-01-16 00:13:06",
-      "importance": 4,
-      "category": "neurotechnologie",
-      "urlToImage": "https://regmedia.co.uk/2023/03/02/shutterstock_brain_vs_person.jpg",
-      "url": "/tech-news/2026-01-16/openai-invests-in-brain-interface-biz-co-founded-b/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "companies": [
-        "OpenAI",
-        "Merge Labs"
-      ],
-      "people": [
-        "Sam Altman"
-      ]
-    },
-    {
-      "title": "Irský startup Equal1 získal 60 milionů dolarů na nasazení škálovatelné kvantové výpočetní technologie",
-      "description": "Irský startup Equal1 Ltd. získal 60 milionů dolarů v nové investiční kole vedeném fondem Ireland Strategic Investment Fund. Mezi investory jsou také Atlantic Bridge, Matterwave Ventures, Enterprise Ireland, Elkstone a TNO. Peníze poslou k nasazení kvantového procesoru Bell-1, který je postavený na standardním křemíku.",
-      "slug": "irish-startup-equal1-receives-60m-to-start-deployi",
-      "publishedAt": "2026-01-16T00:09:42+00:00",
-      "date": "2026-01-16 00:09:42",
-      "importance": 5,
-      "category": "kvantové počítače",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/Screenshot-from-2026-01-16-07-04-38.png",
-      "url": "/tech-news/2026-01-16/irish-startup-equal1-receives-60m-to-start-deployi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Equal1 Ltd",
-        "Atlantic Bridge",
-        "Matterwave Ventures",
-        "Enterprise Ireland",
-        "Elkstone"
-      ],
-      "people": []
-    },
-    {
-      "title": "Problém umělé inteligence s dětskou pornografií se výrazně zhoršuje",
-      "description": "Minulý rok bylo vyprodukováno tisíce zneužívajících videí – tolik, kolik vědí výzkumníci.",
-      "slug": "ais-child-porn-problem-is-getting-much-worse",
-      "publishedAt": "2026-01-16T00:01:00+00:00",
-      "date": "2026-01-16 00:01:00",
-      "importance": 5,
-      "category": "umělá inteligence",
-      "urlToImage": "https://cdn.theatlantic.com/thumbor/1eydAXWrmpR5TB5oCpq9dSJnVD8=/0x43:2000x1085/1200x625/media/img/mt/2026/01/2026_01_15_kids_mgp/original.jpg",
-      "url": "/tech-news/2026-01-16/ais-child-porn-problem-is-getting-much-worse/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Atlantic"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Airbnb zdánlivě potvrzuje projekt autonomního vozu Apple – co to odhaluje o posunu Apple v AI a budoucnosti Airbnb",
-      "description": "Nejnovější oznámení o najmutí nového šéfa technologie Airbnb neúmyslně potvrzuje dlouho spekulovaný projekt self-driving car Apple a poskytuje kontext k vývoji AI strategie Apple i ambicím Airbnb v oblasti umělé inteligence.",
-      "slug": "airbnb-seemingly-confirms-apples-self-driving-car-",
-      "publishedAt": "2026-01-16T00:00:00+00:00",
-      "date": "2026-01-16 00:00:00",
-      "importance": 4,
-      "category": "autonomní vozy",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/TR4wp3g5bUSPcwpeUiohUU-1280-80.jpg",
-      "url": "/tech-news/2026-01-16/airbnb-seemingly-confirms-apples-self-driving-car/",
-      "source": {
-        "emoji": "📰",
-        "id": "techradar",
-        "name": "TechRadar"
-      },
-      "companies": [
-        "Airbnb",
-        "Apple"
-      ],
       "people": []
     }
   ]

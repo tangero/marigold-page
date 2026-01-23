@@ -26783,7 +26783,7 @@
       "title"    : "Tech News Health Status",
       "url"      : "/health-status/",
       "category" : "stránka",
-      "content"  : "🏥 Tech News Health &amp; Pipeline Status Status: WARNING Poslední kontrola: 23.01.2026 05:17 Summary: Status: WARNING | Články 24h: 0 | Čeština: 100.0% | Alerty: 3 📈 30denní přehled (30 dní) Nově vygenerováno (30 dní) ℹ️ 1076 Denní průměr: 34.7 LLM náklady $282.25 Celkem za období API dotazy 8769 Sessions: 180 Přeskočeno 7693 Hlavně: low_importance 🔄 Processing Pipeline (30 dní) 📥 API Fetch 8769 ⏭️ Přeskočeno (filtry) 7693 💾 Uloženo 1076 (12.3%) 📊 Denní statistiky (posledních 14 dní) Datum Fetched Saved Skipped Cost Success 2026-01-23 98 22 76 $3.3904 100% 2026-01-22 297 40 257 $9.7483 100% 2026-01-21 298 28 270..."
+      "content"  : "🏥 Tech News Health &amp; Pipeline Status Status: WARNING Poslední kontrola: 23.01.2026 13:14 Summary: Status: WARNING | Články 24h: 0 | Čeština: 100.0% | Alerty: 3 📈 30denní přehled (30 dní) Nově vygenerováno (30 dní) ℹ️ 1081 Denní průměr: 34.9 LLM náklady $283.89 Celkem za období API dotazy 8818 Sessions: 181 Přeskočeno 7737 Hlavně: low_importance 🔄 Processing Pipeline (30 dní) 📥 API Fetch 8818 ⏭️ Přeskočeno (filtry) 7737 💾 Uloženo 1081 (12.3%) 📊 Denní statistiky (posledních 14 dní) Datum Fetched Saved Skipped Cost Success 2026-01-23 147 27 120 $5.0263 100% 2026-01-22 297 40 257 $9.7483 100% 2026-01-21 298 28 270..."
     }
     
   
@@ -31312,6 +31312,41 @@
         "url"      : "/tech-news/2026-01-22/taiwan-advances-second-phase-quantum-strategy-bett/",
         "category" : "tech_news",
         "content"  : "SouhrnTajwanská vláda pod vedením Národní rady pro vědu a technologii (NSTC) zahajuje druhou fázi národního programu kvantových technologií. Klíčovým prvkem je výstavba heterogenní hybridní výpočetní platformy na národní úrovni, která spojuje HPC s QC. Tento krok má posílit domácí kapacity v oblasti kvantového výpočtu prostřednictvím globálních partnerství.Klíčové body Druhá fáze programu řízená ministrem Cheng-wen Wu z NSTC se zaměřuje na integraci HPC a QC do jedné platformy. Vyhlášen mezinárodní tender na nákup kvantového počítače, přestože platí americké exportní omezení. Tajwanské výzkumné týmy dosahují pokroků v autonomní výrobě kvantových komponent. Hledání mezinárodních partnerů pro integraci quantum-HPC systémů. Souvisí s širším rozvojem..."
+      }
+      
+      ,{
+        "title"    : "Google získává špičkové talenty z hlasového AI startupu Hume AI v licenční dohodě",
+        "url"      : "/tech-news/2026-01-22/google-acquires-top-talent-from-ai-voice-startup-h/",
+        "category" : "tech_news",
+        "content"  : "SouhrnGoogle DeepMind najímá CEO startupu Hume AI, Alana Cowena, a přibližně sedm špičkových inženýrů v rámci licenční dohody. Hume AI, firma zaměřená na vývoj emocionálně inteligentních hlasových rozhraní, bude nadále dodávat své technologie dalším AI laboratořím. Tento krok podtrhuje rostoucí význam hlasových interakcí s AI, které dokážou detekovat emoce a náladu uživatelů na základě hlasu.Klíčové body Alan Cowen s doktorátem z psychologie a sedm inženýrů přechází do Google DeepMind pro integraci hlasových a emočních funkcí do modelů. Licenční dohoda s utajenými finančními detaily; Hume AI získalo dosud 74 milionů USD investic. Očekávané příjmy 100 milionů USD v roce 2026 díky..."
+      }
+      
+      ,{
+        "title"    : "Volvo přidá Google Gemini do 2,5 milionu vozů po celém světě v rozsáhlé OTA aktualizaci, způsobilé modely od roku výroby 2020",
+        "url"      : "/tech-news/2026-01-22/volvo-to-add-google-gemini-to-25mil-cars-globally/",
+        "category" : "tech_news",
+        "content"  : "SouhrnVolvo spustí distribuci generativní umělé inteligence Google Gemini do 2,5 milionu vozů s operačním systémem založeným na Android Automotive. Aktualizace proběhne over-the-air (OTA) a zasáhne modely od roku výroby 2020, jako je XC40 Recharge EV (nyní EX40). Tím se infotainment starších vozů přiblíží rozhraní novějších modelů, včetně EX30, EX90 a nedávno představeného ES90.Klíčové body Aktualizace pro 2,5 milionu vozů globálně, což je jeden z největších OTA rolloutů v automobilovém průmyslu. Způsobilé všechny vozy Volvo s Android Automotive OS od roku 2020. Google Gemini nahradí Google Assistanta a přinese pokročilé konverzační schopnosti. Update včetně nového uživatelského rozhraní, přizpůsobeného výkonu staršího hardware...."
+      }
+      
+      ,{
+        "title"    : "General Fusion souhlasí s uvedením na burzu prostřednictvím dohody SPAC v hodnotě 1 miliardy dolarů",
+        "url"      : "/tech-news/2026-01-22/general-fusion-agrees-to-go-public-via-1-billion-s/",
+        "category" : "tech_news",
+        "content"  : "SouhrnKanadská společnost General Fusion Inc., která se zaměřuje na vývoj technologie jaderné fúze typu magnetized target fusion, souhlasila s fúzí s investiční schránkovou společností Spring Valley Acquisition Corp. III. Dohoda má pro-forma hodnotu vlastního kapitálu přibližně 1 miliarda dolarů a očekává se, že bude uzavřena v polovině letošního roku. Výtěžek má posloužit k dokončení komerční elektrárny v polovině třicátých let.Klíčové body Fúze s Spring Valley Acquisition Corp. III za 1 miliardu dolarů, uzavření v polovině roku. General Fusion vyvíjí systém magnetized target fusion pro generování čisté energie. Cíl: komerční jaderná elektrárna v polovině 2030. let. Rostoucí zájem investorů o fúzi..."
+      }
+      
+      ,{
+        "title"    : "Technologický inovační institut a Světové ekonomické fórum oznámily založení Abu Dhabi Centra pro hraniční technologie na Davosu",
+        "url"      : "/tech-news/2026-01-22/technology-innovation-institute-and-world-economic/",
+        "category" : "tech_news",
+        "content"  : "SouhrnTechnologický inovační institut (TII) z Abu Dhabi a Světové ekonomické fórum (WEF) podepsaly dohodu o založení Abu Dhabi Centra pro hraniční technologie. Toto centrum je součástí globální sítě C4IR a má koordinovat výzkum, politiku a nasazení technologií jako Quantum Computing, robotika a vesmírné systémy. Oznámení proběhlo na okraji výročního zasedání WEF v Davosu.Klíčové body Založení Abu Dhabi Centra pro hraniční technologie v rámci C4IR Global Network. Zaměření na Quantum Computing pro rychlejší výpočty nespolehlivé na klasické počítače, robotiku pro autonomní systémy, pohonné a vesmírné technologie a související AI aplikace pro zpracování dat a optimalizaci. UAE slouží jako testovací prostředí díky..."
+      }
+      
+      ,{
+        "title"    : "Fond Billa Gatese vede investici 110 milionů dolarů do startupu na čipy pro AI",
+        "url"      : "/tech-news/2026-01-22/bill-gates-vc-fund-leads-110-million-funding-for-c/",
+        "category" : "tech_news",
+        "content"  : "SouhrnFond Billa Gatese, známý jako Gates Frontier, vedl kolo investic ve výši 110 milionů dolarů do společnosti Neurophos Inc. Mezi dalšími investory jsou investiční paře Microsoftu (M12), Aramco Ventures ze Saúdské Arábie, Bosch Ventures, Tectonic Ventures a Space Capital. Neurophos vyvíjí optickou zpracovatelskou jednotku (OPU), čip založený na světle, který má nabídnout vyšší výkon než konvenční grafické zpracovatelské jednotky (GPU) pro trénink a provoz modelů umělé inteligence.Klíčové body Investice 110 milionů dolarů vedená Gates Frontier, s účasťou M12 (Microsoft), Aramco Ventures, Bosch Ventures, Tectonic Ventures a Space Capital. Neurophos Inc. sídlí v Austinu (Texas) a zaměřuje se na optickou zpracovatelskou..."
       }
       
     
