@@ -1,13 +1,13 @@
 ---
 author: Marisa Aigen
-category: ai
+category: umělá inteligence
 companies:
 - Apple
 - Google
 date: '2026-01-22 00:50:43'
-description: Apple prý plánuje zvýšit schopnosti Siri a proměnit digitálního asistenta
-  v chatbot umělé inteligence později letos. Chatbot bude integrován do operačních
-  systémů iPhone, iPadu a Macu a do aplikací jako e-mail, hudba či fotografie.
+description: Apple plánuje letos zvýšit schopnosti Siri a přeměnit digitálního asistenta
+  v AI chatbot. Tento chatbot bude integrován do systémů iPhone, iPad a Mac a bude
+  využívat model Gemini od Google.
 importance: 4
 layout: tech_news_article
 original_title: Apple to Turn Siri Into AI Chatbot Powered by Google’s Gemini
@@ -24,24 +24,23 @@ urlToImageBackup: https://www.pymnts.com/wp-content/uploads/2026/01/Siri-Gemini-
 ---
 
 ## Souhrn
-Apple podle zpráv agentury Bloomberg plánuje přeměnit hlasového asistenta Siri na plnohodnotný AI chatbot poháněný modelem Gemini od Google. Tato změna přijde později letos a bude integrována do systémů iOS, iPadOS i macOS včetně klíčových aplikací. Partnerství s Googlem bylo oficiálně oznámeno 12. ledna a zaměřuje se na Apple Intelligence.
+Apple podle zpráv plánuje letos přeměnit Siri na plnohodnotný AI chatbot poháněný modelem Gemini od Google. Chatbot se objeví v operačních systémech iPhone, iPad a Mac, bude integrován do klíčových aplikací jako Pošta, Hudba a Fotky a aktivuje se hlasovým příkazem „Siri“ nebo dlouhým stiskem bočního tlačítka. Před spuštěním přijde aktualizace současné verze Siri.
 
 ## Klíčové body
-- Chatbot bude dostupný na iPhone, iPadu a Macu, aktivovatelný příkazem „Siri“ nebo dlouhým stiskem bočního tlačítka.
-- Integrace do aplikací jako Pošta, Hudba a Fotky pro přímé zpracování obsahu.
-- Schopnosti zahrnují vyhledávání na webu, tvorbu textového obsahu, generování obrázků a analýzu nahraných souborů.
-- Pohon zajistí Google Gemini jako základní model, uživatelské rozhraní navrhne Apple.
-- Před spuštěním přijde aktualizace současné verze Siri.
+- Chatbot umožní vyhledávání na webu, tvorbu obsahu, generování obrázků a analýzu nahraných souborů.
+- Model AI dodá Google (Gemini), uživatelské rozhraní navrhne Apple.
+- Partnerství Apple a Google oznámené 12. ledna 2026; Gemini posílí Apple Intelligence.
+- Zpráva vychází z anonymních zdrojů citovaných Bloombergem.
 
 ## Podrobnosti
-Apple dlouhodobě zaostával za konkurencí v oblasti velkých jazykových modelů (LLM), jako jsou GPT od OpenAI nebo Gemini od Google. Podle zdrojů citovaných Bloombergem toto partnerství řeší tuto slabinu tím, že Apple získá přístup k pokročilému modelu Gemini, který slouží k zpracování složitých požadavků uživatelů, včetně kontextového porozumění a generování obsahu. Gemini je multimodalní model, schopný pracovat s textem, obrázky i daty, což umožní Siri například analyzovat fotografie pro popis obsahu nebo generovat nové obrázky na základě popisu.
+Apple se chystá výrazně posílit svého digitálního asistenta Siri transformací na AI chatbot, který překročí současné možnosti hlasového ovládání. Podle zprávy Bloombergu z 21. ledna 2026, citující nepojmenované zdroje, přijde tato změna ještě letos. Chatbot bude nativně zabudován do iOS, iPadOS a macOS, což znamená bezproblémovou integraci do zařízení bez nutnosti instalace samostatné aplikace. Bude dostupný v jádrových aplikacích jako Pošta (pro sumarizaci e-mailů nebo automatické odpovědi), Hudba (pro personalizované playlisty na základě kontextu) a Fotky (pro vyhledávání a editaci obrázků pomocí AI). Aktivace zůstane stejná: hlasovým voláním „Siri“ nebo držením bočního tlačítka na iPhone a iPadu.
 
-Aktivace zůstane intuitivní: hlasový příkaz „Siri“ nebo stisk tlačítka, ale chatbot přinese hlubší integraci. V aplikaci Pošta například dokáže shrnout e-maily, odpovědět na ně nebo vyhledat informace napříč schránkou. V Hudbě může navrhnout playlisty na základě nálady popsané uživatelem, zatímco ve Fotkách analyzovat soubory pro vyhledání specifických motivů nebo úpravy. Tvorba obsahu zahrnuje psaní textů, jako jsou e-maily nebo poznámky, a generování obrázků přímo v systému.
+Klíčovou technologií je custom AI model od Google, konkrétně Gemini, který pohání jádro chatbota. Apple si nechá na starost uživatelské rozhraní, což zajistí konzistenci s iOS designem. Gemini, jako multimodalní model, umožní pokročilé funkce: vyhledávání na webu s kontextovým porozuměním, generování textu nebo kódu, tvorbu obrázků z popisu a analýzu souborů (např. rozpoznání obsahu v PDF nebo fotkách). Před plným nasazením chatbotu Apple vydá aktualizaci stávající Siri, pravděpodobně s prvními AI prvky z Apple Intelligence.
 
-Před plným nasazením chatbotu Apple vydá aktualizovanou verzi současné Siri, pravděpodobně s prvními prvky Apple Intelligence. Partnerství z 12. ledna explicitně uvádí, že budoucí Apple Foundation Models budou stavět na Gemini a cloudové infrastruktuře Google. Apple si zachová kontrolu nad uživatelským rozhraním, což znamená konzistentní design s iOS principy soukromí a on-device zpracování, kde to bude možné. Nicméně závislost na cloudu Google vyvolává otázky ohledně latence a bezpečnosti dat, protože ne všechny operace poběží lokálně. Apple na dotaz neodpovědělo, což je typické pro fázi vývoje.
+Toto navazuje na partnerství Apple a Google oznámené 12. ledna 2026. Společnosti prohlásily, že další iterace Apple Foundation Models bude stavět na Gemini a cloudové infrastruktuře Google. Tyto modely posílí Apple Intelligence – soubor AI funkcí v iOS 18 a novějších, včetně personalizovaného asistenta. Apple odmítl komentovat zprávu PYMNTS. Jako expert na AI vidím rizika: závislost na Google může omezit soukromí dat (Gemini běží v cloudu) a způsobit problémy s latencí oproti on-device modelům jako Apple vlastní modely. Navíc, protože jde o leaky, reálné nasazení může být odlišné.
 
 ## Proč je to důležité
-Toto partnerství posiluje pozici Apple v AI ekosystému, kde dosud spoléhala na vlastní méně výkonné modely. Pro uživatele to znamená přístup k funkcím srovnatelným s ChatGPT nebo Google Assistant přímo v ekosystému Apple, což zlepší produktivitu – od rychlého vyhledávání po kreativní úpravy obsahu. Pro průmysl to signalizuje, že i giganti jako Apple volí spolupráci místo plné soběstačnosti, což posílí dominance Google v poskytování AI modelů. Zároveň to může urychlit adopci AI v mobilních zařízeních, ale vyvolává rizika závislosti na jednom dodavateli a potenciální antitrustní šetření kvůli dlouhodobému partnerství Apple-Google v prohlížečích a vyhledávání. V širším kontextu urychluje to soutěž mezi LLM, kde Gemini získá masivní distribuci přes miliardy Apple zařízení.
+Tato změna posouvá Siri z jednoduchého hlasového asistenta na konkurenta ChatGPT nebo Google Assistant, což ovlivní miliardy uživatelů Apple zařízení. Partnerství s Google signalizuje, že Apple zatím nespoléhá jen na vlastní AI (jako OpenELM), ale integruje špičkové modely pro rychlý pokrok. Pro průmysl to znamená intenzivnější soutěž v AI asistentech – Microsoft s Copilotem, Google s Gemini, OpenAI s GPT. Uživatelé získají praktické nástroje pro produktivitu, ale za cenu sdílení dat s Google. V širším kontextu urychluje to adopci AI v spotřební elektronice a může ovlivnit antitrustové debaty o dominanci Google v AI cloudu.
 
 ---
 
