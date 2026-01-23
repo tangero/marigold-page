@@ -1,7 +1,514 @@
 {
-  "generated": "2026-01-22T16:53:08.258505+00:00",
+  "generated": "2026-01-23T05:17:03.221995+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Taiwan posouvá kvantovou strategii do druhé fáze, sází na hybridní výpočty a globální partnerství",
+      "description": "Tajwanská vláda přechází svůj program rozvoje kvantových technologií do druhé fáze, zaměřenou na výstavbu národní heterogenní hybridní výpočetní platformy, která integruje výpočetní výkon vysokého výkonu (HPC) s kvantovými výpočty (QC). Program spoléhá na mezinárodní spolupráce kvůli omezením v exportu technologií.",
+      "slug": "taiwan-advances-second-phase-quantum-strategy-bett",
+      "publishedAt": "2026-01-22T04:18:09+00:00",
+      "date": "2026-01-22 04:18:09",
+      "importance": 4,
+      "category": "kvantové výpočty",
+      "urlToImage": "https://img.digitimes.com/newsshow/20260122pd237_files/2_2b.jpg",
+      "url": "/tech-news/2026-01-22/taiwan-advances-second-phase-quantum-strategy-bett/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Luxshare čelí údajnému útoku ransomware, data Apple a Nvidia ohrožena",
+      "description": "Čínský výrobce elektroniky Luxshare Precision byl zasažen kybernetickým incidentem, kdy ransomware skupina tvrdí, že prolomila jeho systémy a ukradla citlivá data o inženýrství a provozu. Mezi ohroženými jsou údaje týkající se Apple a Nvidia, což zvyšuje riziko pro dodavatelský řetězec těchto gigantů.",
+      "slug": "luxshare-faces-alleged-ransomware-attack-putting-a",
+      "publishedAt": "2026-01-22T04:17:50+00:00",
+      "date": "2026-01-22 04:17:50",
+      "importance": 5,
+      "category": "kybernetika",
+      "urlToImage": "https://img.digitimes.com/newsshow/20260122pd226_files/2_b.jpg",
+      "url": "/tech-news/2026-01-22/luxshare-faces-alleged-ransomware-attack-putting-a/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [
+        "Apple",
+        "Luxshare",
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Moji noví sousedé jsou roboti",
+      "description": "Roboti v obytné budově autora se rychle množí – od podlahového čističe typu Roomba po plánované drony na okna. Článek analyzuje překážky na cestě k masovému nasazení humanoidních robotů, které by podle Barclays mohly tvořit 200miliardový trh do roku 2035.",
+      "slug": "my-new-neighbors-are-robots",
+      "publishedAt": "2026-01-22T03:19:23+00:00",
+      "date": "2026-01-22 03:19:23",
+      "importance": 5,
+      "category": "robotika",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2026/01/Robot.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
+      "url": "/tech-news/2026-01-22/my-new-neighbors-are-robots/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Vox"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Platforma X Elona Muska omezuje tvorbu explicitních obrázků pomocí Grok",
+      "description": "Toto opatření přichází v reakci na globální rozhořčení nad explicitními obrázky generovanými umělou inteligencí, které zaplavily platformu X. Minulý týden zahájili regulátoři po celém světě vyšetřování Grok a některé země aplikaci zakázaly.",
+      "slug": "elon-musks-x-restricts-ability-to-create-explicit-",
+      "publishedAt": "2026-01-22T03:17:26+00:00",
+      "date": "2026-01-22 03:17:26",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-32704,resizemode-75,msid-127092468/tech/technology/elon-musks-x-restricts-ability-to-create-explicit-images-with-grok.jpg",
+      "url": "/tech-news/2026-01-22/elon-musks-x-restricts-ability-to-create-explicit/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Blue Origin Jeffa Bezose oznámila satelitního rivala Starlinku Elona Muska",
+      "description": "Blue Origin se zaměří na podniky a vlády, zatímco Starlink nabízí služby i jednotlivcům.",
+      "slug": "bezos-blue-origin-announces-satellite-rival-to-mus",
+      "publishedAt": "2026-01-22T03:15:27+00:00",
+      "date": "2026-01-22 03:15:27",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/73aa/live/c94863d0-f734-11f0-ab85-cdd1a514d36d.jpg",
+      "url": "/tech-news/2026-01-22/bezos-blue-origin-announces-satellite-rival-to-mus/",
+      "source": {
+        "emoji": "📰",
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "companies": [
+        "Blue Origin"
+      ],
+      "people": [
+        "Jeff Bezos",
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Umělá inteligence dorazila do Gmailu: Co byste měli vědět",
+      "description": "Google tento měsíc začal zavádět sadu nových nástrojů založených na generativní umělé inteligenci, která pomáhá uživatelům spravovat přeplněné schránky a urychlit psaní emailů. Některé funkce jsou zdarma, jiné vyžadují předplatné.",
+      "slug": "ai-has-arrived-in-gmail-heres-what-to-know",
+      "publishedAt": "2026-01-22T02:56:20+00:00",
+      "date": "2026-01-22 02:56:20",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-37762,resizemode-75,msid-127090157/tech/artificial-intelligence/ai-has-arrived-in-gmail-heres-what-to-know.jpg",
+      "url": "/tech-news/2026-01-22/ai-has-arrived-in-gmail-heres-what-to-know/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Co se stane s růstem HDP a světovou ekonomikou v reálném AI boomu?",
+      "description": "Federal Reserve hlásí růst reálného HDP na 5,4 %, což je nárůst oproti začátku ledna a připomíná investiční boom telekomunikací koncem 90. let. Současná stavba AI datových center vytváří podobnou vlnu infrastrukturních výdajů s potenciálem udržitelného růstu.",
+      "slug": "what-happens-to-gdp-growth-world-economy-in-a-real",
+      "publishedAt": "2026-01-22T01:50:06+00:00",
+      "date": "2026-01-22 01:50:06",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/01/Screenshot-2026-01-21-at-5.48.09-PM.jpg",
+      "url": "/tech-news/2026-01-22/what-happens-to-gdp-growth-world-economy-in-a-real/",
+      "source": {
+        "emoji": "📰",
+        "id": "next-big-future",
+        "name": "Next Big Future"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Perovskitová betavoltaická buňka dosáhla rekordní účinnosti s využitím zdroje uhlíku-14",
+      "description": "Výzkumný tým z DGIST vyvinul perovskitovou samonapájecí betavoltaickou baterii, která podle autorů dosáhla světově nejvyšší konverzní účinnosti pro tento typ zařízení při zachování dlouhodobé provozní stability. Technologie cílí na aplikace vyžadující nepřetržité napájení bez dobíjení, jako jsou systémy umělé inteligence, zařízení internetu věcí a hardware pro vesmírné mise.",
+      "slug": "perovskite-betavoltaic-cell-sets-record-efficiency",
+      "publishedAt": "2026-01-22T01:24:18+00:00",
+      "date": "2026-01-22 01:24:18",
+      "importance": 5,
+      "category": "jaderné baterie",
+      "urlToImage": "https://www.spxdaily.com/images-hg/dgist-carbon-14-perovskite-betavoltaics-nuclear-battery-hg.jpg",
+      "url": "/tech-news/2026-01-22/perovskite-betavoltaic-cell-sets-record-efficiency/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Space Daily"
+      },
+      "companies": [
+        "DGIST"
+      ],
+      "people": []
+    },
+    {
+      "title": "Anthropic vydává novou 'konstituci' pro umělou inteligenci Claude",
+      "description": "Společnost Anthropic PBC zveřejnila novou verzi konstituce pro modely Claude, dokumentu, který stanovuje pravidla pro zpracování dotazů velkými jazykovými modely. Tato aktualizace řeší limity původní verze z května 2023 tím, že přidává vysvětlení důvodů chování.",
+      "slug": "anthropic-releases-new-ai-constitution-for-claude",
+      "publishedAt": "2026-01-22T01:01:44+00:00",
+      "date": "2026-01-22 01:01:44",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/Anthropic-1.png",
+      "url": "/tech-news/2026-01-22/anthropic-releases-new-ai-constitution-for-claude/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": []
+    },
+    {
+      "title": "Apple promění Siri v AI chatbot poháněný modelem Gemini od Google",
+      "description": "Apple plánuje letos zvýšit schopnosti Siri a přeměnit digitálního asistenta v AI chatbot. Tento chatbot bude integrován do systémů iPhone, iPad a Mac a bude využívat model Gemini od Google.",
+      "slug": "apple-to-turn-siri-into-ai-chatbot-powered-by-goog",
+      "publishedAt": "2026-01-22T00:50:43+00:00",
+      "date": "2026-01-22 00:50:43",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/01/Siri-Gemini-AI-Apple.jpeg",
+      "url": "/tech-news/2026-01-22/apple-to-turn-siri-into-ai-chatbot-powered-by-goog/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [
+        "Apple",
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "YouTube brzy umožní tvůrcům vytvářet Shorts pomocí své AI podobizny",
+      "description": "YouTube CEO Neal Mohan oznámil, že tvůrci budou moci brzy vytvářet krátké videa Shorts s využitím své vlastní AI generované podoby. Umělá inteligence má podle něj sloužit jako nástroj pro vyjádření, nikoli jako náhrada lidské kreativity.",
+      "slug": "youtube-will-soon-let-creators-make-shorts-using-t",
+      "publishedAt": "2026-01-22T00:30:11+00:00",
+      "date": "2026-01-22 00:30:11",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.cnet.com/a/img/resize/a264f0438e2d8b8af7f1e5fb6ecd79cd0c9306a3/hub/2026/01/21/0a695987-5130-4eb0-b999-1f09c22f58b4/youtube-logo-gettyimages-2244978040.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "url": "/tech-news/2026-01-22/youtube-will-soon-let-creators-make-shorts-using-t/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNET"
+      },
+      "companies": [],
+      "people": [
+        "Neal Mohan"
+      ]
+    },
+    {
+      "title": "Startup Upscale získává 200 milionů dolarů na výzvu NVSwitch od Nvidia",
+      "description": "Startup Upscale AI oznámil získání 200 milionů dolarů v Series A financování na vývoj síťových switchů pro rack-scale AI systémy, které mají konkurovat dominanci Nvidia. Plánuje použít své čipy SkyHammer v prvních UALink switchech letos později.",
+      "slug": "ai-networking-startup-upscale-scores-200m-to-chall",
+      "publishedAt": "2026-01-22T00:07:56+00:00",
+      "date": "2026-01-22 00:07:56",
+      "importance": 4,
+      "category": "ai hardware",
+      "urlToImage": "https://regmedia.co.uk/2023/07/13/shutterstock_hammeranvil.jpg",
+      "url": "/tech-news/2026-01-22/ai-networking-startup-upscale-scores-200m-to-chall/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "companies": [
+        "Upscale AI",
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Demonstrace kódů pro kvantovou korekci chyb s nízkou režii",
+      "description": "Kvantové kódy low-density parity-check pro korekci chyb slibují vysoký výkon, ale vyžadují interakce mezi vzdálenými qubity. Dva z těchto kódů byly úspěšně implementovány na suprachiovodivém zařízení s 32 qubity.",
+      "slug": "demonstration-of-low-overhead-quantum-error-correc",
+      "publishedAt": "2026-01-22T00:00:00+00:00",
+      "date": "2026-01-22 00:00:00",
+      "importance": 4,
+      "category": "kvantové počítače",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41567-025-03157-4/MediaObjects/41567_2025_3157_Fig1_HTML.png",
+      "url": "/tech-news/2026-01-22/demonstration-of-low-overhead-quantum-error-correc/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Nature.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Nová vojenská strategie USA je příkladem ‚AI peacocking‘",
+      "description": "Nová strategie se silně opírá o propagaci umělé inteligence – s potenciálně smrtelnými následky.",
+      "slug": "the-united-states-new-military-strategy-is-a-case-",
+      "publishedAt": "2026-01-21T23:30:58+00:00",
+      "date": "2026-01-21 23:30:58",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://images.theconversation.com/files/713544/original/file-20260121-56-q1gupv.jpg?ixlib=rb-4.1.0&rect=140%2C216%2C2601%2C1300&q=45&auto=format&w=1356&h=668&fit=crop",
+      "url": "/tech-news/2026-01-21/the-united-states-new-military-strategy-is-a-case/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Očekávejte AGI do několika let, říká šéf Anthropic – a ztráty pracovních míst také",
+      "description": "Pokroky směrem k umělé inteligenci na úrovni člověka se zrychňují, což zvyšuje rizika narušení zaměstnanosti a institucí, uvedli lídři průmyslu.",
+      "slug": "expect-agi-within-a-few-years-says-anthropic-ceoan",
+      "publishedAt": "2026-01-21T23:28:12+00:00",
+      "date": "2026-01-21 23:28:12",
+      "importance": 5,
+      "category": "ai",
+      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/ai-decrypt-style-14-gID_7.png",
+      "url": "/tech-news/2026-01-21/expect-agi-within-a-few-years-says-anthropic-ceoan/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Decrypt"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": []
+    },
+    {
+      "title": "BitGo stanoví cenu IPO před debutem na burze, cílí na valuaci 1,96 miliardy dolarů",
+      "description": "Kryptoměnová platforma BitGo Holdings Inc. dnes dokončuje svou úvodní veřejnou nabídku akcií před uvedením na New York Stock Exchange, kde hledá valuaci až 1,96 miliardy dolarů. Společnost plánuje vybrat až 201 milionů dolarů prodejem 11,8 milionu akcií za cenu 15 až 17 dolarů za kus.",
+      "slug": "bitgo-to-price-its-ipo-ahead-of-stock-market-debut",
+      "publishedAt": "2026-01-21T23:27:30+00:00",
+      "date": "2026-01-21 23:27:30",
+      "importance": 4,
+      "category": "kryptoměny",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/Unsplash-1-800x454-1.png",
+      "url": "/tech-news/2026-01-21/bitgo-to-price-its-ipo-ahead-of-stock-market-debut/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "BitGo Holdings Inc"
+      ],
+      "people": []
+    },
+    {
+      "title": "BitGo stanovilo cenu IPO nad očekávaný rozsah před debutem na burze, cílí na valuaci přes 2 miliardy dolarů",
+      "description": "Kryptoměnová platforma BitGo získala 213 milionů dolarů z počáteční veřejné nabídky akcií, kdy stanovila cenu na 18 dolarů za akcii nad původní rozsahem 15–17 dolarů. Akcie debutovaly na NYSE s růstem téměř 25 procent, později se ustálily na nárůstu o 3 procenta.",
+      "slug": "bitgo-prices-its-ipo-above-range-ahead-of-stock-ma",
+      "publishedAt": "2026-01-21T23:27:30+00:00",
+      "date": "2026-01-21 23:27:30",
+      "importance": 4,
+      "category": "kryptoměny",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/Unsplash-1-800x454-1.png",
+      "url": "/tech-news/2026-01-21/bitgo-prices-its-ipo-above-range-ahead-of-stock-ma/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "BitGo Holdings Inc"
+      ],
+      "people": []
+    },
+    {
+      "title": "Lemonade spouští levnější pojištění vozidel pro Tesla FSD",
+      "description": "Pojišťovna Lemonade snižuje sazby za pojištění na míli o přibližně 50 % pro řidiče Tesla, když je aktivní systém Full Self-Driving. Spuštění začíná v Arizoně a využívá telemetrii vozidel k rozlišení manuálního a autonomního řízení.",
+      "slug": "lemonade-launches-cheaper-car-insurance-for-tesla-",
+      "publishedAt": "2026-01-21T23:25:43+00:00",
+      "date": "2026-01-21 23:25:43",
+      "importance": 4,
+      "category": "autonomní řízení",
+      "urlToImage": "https://i0.wp.com/cdnssl.ubergizmo.com/wp-content/uploads/2026/01/lemonade-cheaper-fsd-insurance.jpg",
+      "url": "/tech-news/2026-01-21/lemonade-launches-cheaper-car-insurance-for-tesla/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Ubergizmo"
+      },
+      "companies": [
+        "Lemonade",
+        "Tesla"
+      ],
+      "people": []
+    },
+    {
+      "title": "Gurman popisuje dvoufázové zavádění AI od Apple",
+      "description": "Mark Gurman z Bloombergu informuje o plánech Apple na dvoufázové zavedení nových AI funkcí založených na modelech Google. První fáze přinese vylepšení hlasového asistenta Siri v iOS 26.4, druhá přidá chatbotové možnosti v iOS 27.",
+      "slug": "gurman-details-apple-two-phase-ai-rollout",
+      "publishedAt": "2026-01-21T23:22:50+00:00",
+      "date": "2026-01-21 23:22:50",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://sixcolors.com/wp-content/themes/sixcolors/images/6colors_og_image.png",
+      "url": "/tech-news/2026-01-21/gurman-details-apple-two-phase-ai-rollout/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "sixcolors.com"
+      },
+      "companies": [
+        "Apple",
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Upscale AI získala 200 milionů dolarů na vývoj síťových čipů pro škálování AI clusterů",
+      "description": "Společnost Upscale AI, vývojář síťových čipů pro clustery umělé inteligence, získala 200 milionů dolarů v novém kole financování. Hlavními investory jsou Tiger Global, Premji Invest a Xora Innovation, k nimž se připojily venture kapitálové divize Intelu a Qualcomm.",
+      "slug": "upscale-ai-raises-200m-to-develop-scale-up-ai-netw",
+      "publishedAt": "2026-01-21T23:19:18+00:00",
+      "date": "2026-01-21 23:19:18",
+      "importance": 4,
+      "category": "ai hardware",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/unsplash-1.png",
+      "url": "/tech-news/2026-01-21/upscale-ai-raises-200m-to-develop-scale-up-ai-netw/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Upscale AI",
+        "Tiger Global",
+        "Premji Invest",
+        "Xora Innovation"
+      ],
+      "people": []
+    },
+    {
+      "title": "Blue Origin Jeffa Bezose nasadí podnikovou síť satelitů v nízké oběžné dráze",
+      "description": "S rychlostmi až 6 Tbps. Síť TeraWave je určená pro datová centra, vlády a firmy.",
+      "slug": "bezos-blue-origin-to-deploy-enterprise-grade-leosa",
+      "publishedAt": "2026-01-21T20:05:07+00:00",
+      "date": "2026-01-21 20:05:07",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://i.nextmedia.com.au/News/UK_from_space_at_night_with_aurora.jpg",
+      "url": "/tech-news/2026-01-21/bezos-blue-origin-to-deploy-enterprise-grade-leosa/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "iTnews"
+      },
+      "companies": [
+        "Blue Origin"
+      ],
+      "people": [
+        "Jeff Bezos"
+      ]
+    },
+    {
+      "title": "Miliardáři Elon Musk a Sam Altman se hádají, kdo způsobil více nevinných smrtí",
+      "description": "Technologickí miliardáři Elon Musk a Sam Altman vedou na platformě X spor o to, čí technologie – Grok nebo ChatGPT – je spojena s větším počtem úmrtí. Diskuse se týká soudních sporů souvisejících s sebevraždami, autonehodami a vraždami.",
+      "slug": "billionaires-elon-musk-and-sam-altman-argue-over-w",
+      "publishedAt": "2026-01-21T20:01:21+00:00",
+      "date": "2026-01-21 20:01:21",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/01/elon-musk-on-red-carpet.jpg?w=1600&h=900&fit=crop",
+      "url": "/tech-news/2026-01-21/billionaires-elon-musk-and-sam-altman-argue-over-w/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Screen Rant"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk",
+        "Sam Altman"
+      ]
+    },
+    {
+      "title": "Většina lidí už nedokáže odlišit AI videa od reality, nová studie Runway odhaluje – dokonce ani jeho spoluzakladatel",
+      "description": "Nejnovější model generátoru AI videí od Runway ukazuje, že rozhodování, zda je video reálné nebo uměle vytvořené, je jako hodotání mincí. Účastníci studie ho správně identifikovali jen v 57,1 procenta případů.",
+      "slug": "most-people-now-cant-separate-ai-videos-from-reali",
+      "publishedAt": "2026-01-21T20:00:00+00:00",
+      "date": "2026-01-21 20:00:00",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/7bd4B8SvF38pHWX9Rip5YB-2000-80.jpg",
+      "url": "/tech-news/2026-01-21/most-people-now-cant-separate-ai-videos-from-reali/",
+      "source": {
+        "emoji": "📰",
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "companies": [
+        "Runway"
+      ],
+      "people": []
+    },
+    {
+      "title": "Rezolve AI uzavřela předplněné financování ve výši 250 milionů dolarů a vstupuje do roku 2026 s výrazně posílenou bilancí v AI commerce",
+      "description": "Společnost Rezolve AI získala 250 milionů dolarů v registraci přímého financování, které bylo předplněno díky zájmu institucionálních investorů. Tento kapitál umožní urychlit fúze a akvizice, rozšířit nasazení v podnicích a přeměnit adopci AI na udržitelný růst příjmů.",
+      "slug": "rezolve-ai-closes-250-million-oversubscribed-finan",
+      "publishedAt": "2026-01-21T19:04:00+00:00",
+      "date": "2026-01-21 19:04:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/d7c6e8ce-e67f-484a-bead-d7785b8e8464",
+      "url": "/tech-news/2026-01-21/rezolve-ai-closes-250-million-oversubscribed-finan/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [
+        "Rezolve Ai"
+      ],
+      "people": []
+    },
+    {
+      "title": "Elon Musk potvrzuje, že auta s AI4 dosáhnou autonomního řízení bez dohledu bez dalších upgradů",
+      "description": "Šéf Tesly Elon Musk potvrdil, že vozidla vybavená čipem AI4 (HW4) dokážou realizovat plně autonomní řízení bez dohledu řidiče a bez nutnosti hardwarových úprav. Tato technologie podle něj překoná lidskou bezpečnost řízení.",
+      "slug": "elon-musk-confirms-ai4-powered-cars-can-achieve-un",
+      "publishedAt": "2026-01-21T19:01:15+00:00",
+      "date": "2026-01-21 19:01:15",
+      "importance": 4,
+      "category": "autonomní řízení",
+      "urlToImage": "https://s.yimg.com/os/en/Benzinga/b3ea28497c92ed5fa158a7337a01ab06",
+      "url": "/tech-news/2026-01-21/elon-musk-confirms-ai4-powered-cars-can-achieve-un/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "Tesla"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
     {
       "title": "Generální ředitel Nvidia Jensen Huang vyzývá státy, aby AI považovaly za klíčovou národní infrastrukturu",
       "description": "Na zasedání Světového ekonomického fóra Jensen Huang, generální ředitel Nvidia, prohlásil, že umělá inteligence je pro národní rozvoj stejně nezbytná jako elektřina nebo dopravní sítě. Vyzval země k budování vlastní AI infrastruktury, aby ochránily svá data, jazyk a kulturu.",
@@ -3088,24 +3595,6 @@
       "people": []
     },
     {
-      "title": "Hlavní využití kvantových počítačů možná nepotřebuje kvantové počítače",
-      "description": "Porozumění molekule FeMoco, která hraje klíčovou roli v fixaci dusíku umožňující život na Zemi, bylo dlouho považováno za problém pro kvantové počítače. Nyní ho však možná vyřešil klasický počítač.",
-      "slug": "a-leading-use-for-quantum-computers-might-not-need",
-      "publishedAt": "2026-01-16T12:00:05+00:00",
-      "date": "2026-01-16 12:00:05",
-      "importance": 5,
-      "category": "kvantové počítače",
-      "urlToImage": "https://images.newscientist.com/wp-content/uploads/2026/01/15164231/SEI_280892275.jpg",
-      "url": "/tech-news/2026-01-16/a-leading-use-for-quantum-computers-might-not-need/",
-      "source": {
-        "emoji": "📰",
-        "id": "new-scientist",
-        "name": "New Scientist"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Šéf OpenAI Sam Altman získal 252 milionů dolarů pro firmu na rozhraní mozek-počítač – Merge Labs je stále v rané fázi výzkumu",
       "description": "OpenAI investuje do BCI, protože je považuje za důležitou novou oblast, která umožní plynulou interakci s AI. Firma se zaměřuje na neinvazivní technologie urychlené AI.",
       "slug": "openai-ceo-sam-altman-raises-252-million-for-brain",
@@ -3289,28 +3778,6 @@
         "TSMC"
       ],
       "people": []
-    },
-    {
-      "title": "Po kritice X omezuje Grok v generování sexualizovaných obrázků reálných lidí",
-      "description": "Společnost X Corp. reaguje na mezinárodní kritiku chatbotu Grok a zakáže mu generovat umělé obrázky reálných lidí v situacích bez oblečení, pokud je to v dané zemi nezákonné. Tato změna následuje po stížnostech z Kalifornie, Velké Británie a dalších zemí kvůli deepfakes bez souhlasu obětí.",
-      "slug": "after-backlash-x-restricts-grok-from-generating-se",
-      "publishedAt": "2026-01-16T03:19:40+00:00",
-      "date": "2026-01-16 03:19:40",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/alexander-shatov-d4_aCS3jsQ0-unsplash.jpg",
-      "url": "/tech-news/2026-01-16/after-backlash-x-restricts-grok-from-generating-se/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "X Corp"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
     },
     {
       "title": "Společnost Merge Sama Altmana získala 367 milionů dolarů na propojení mozků s počítači",
@@ -3590,460 +4057,6 @@
       "companies": [
         "Airbnb",
         "Apple"
-      ],
-      "people": []
-    },
-    {
-      "title": "Prediktivní AI překlenuje mezeru v bezpečnostní reakci na automatizované útoky",
-      "description": "Podle výhledu World Economic Forum Cyber Risk in 2026 bude umělá inteligence (AI) nejdůležitějším faktorem formujícím strategie kyberbezpečnosti, což potvrdilo 94 % dotázaných vedoucích pracovníků jako multiplikátor síly pro obranu i útok. Prediktivní AI umožňuje detekovat hrozby dříve v cyklu útoku.",
-      "slug": "predictive-ai-bridges-the-security-response-gap-in",
-      "publishedAt": "2026-01-15T23:58:59+00:00",
-      "date": "2026-01-15 23:58:59",
-      "importance": 4,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/01/AI-security1.jpg",
-      "url": "/tech-news/2026-01-15/predictive-ai-bridges-the-security-response-gap-in/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "pymnts.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "OpenAI investuje do vývojáře rozhraní mozek-počítač Merge Labs",
-      "description": "OpenAI Group PBC investovala do Merge Labs Inc., startupu vyvíjejícího hardware umožňující ovládání počítačů myšlenkami. Podle zdrojů jde o seed kolo v objemu 250 až 252 milionů dolarů s účastí Bain Capital a Gabea Newella.",
-      "slug": "openai-invests-in-brain-computer-interface-develop",
-      "publishedAt": "2026-01-15T23:47:23+00:00",
-      "date": "2026-01-15 23:47:23",
-      "importance": 4,
-      "category": "kybernetika",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/unsplash2-1.png",
-      "url": "/tech-news/2026-01-15/openai-invests-in-brain-computer-interface-develop/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "OpenAI",
-        "Merge Labs"
-      ],
-      "people": []
-    },
-    {
-      "title": "USA a Tchaj-wan se dohodly na stropu cla 15 % a investicích 500 miliard dolarů do čipů",
-      "description": "USA a Tchaj-wan uzavřely obchodní dohodu, která snižuje cla na tchajwanské zboží z 20 % na 15 % a odemyká balíček 500 miliard dolarů pro rozvoj polovodičového průmyslu v USA. Dohoda zahrnuje 250 miliard dolarů přímých investic a stejnou částku v garancích úvěrů pro výstavbu továrny na čipy, energetiku a AI infrastrukturu.",
-      "slug": "us-and-taiwan-agree-to-15-tariff-cap-and-500b-chip",
-      "publishedAt": "2026-01-15T20:09:12+00:00",
-      "date": "2026-01-15 20:09:12",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/01/15150421/26ce2ba0-aba5-45a9-8d56-059ff14a983c-800x420.jpg",
-      "url": "/tech-news/2026-01-15/us-and-taiwan-agree-to-15-tariff-cap-and-500b-chip/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Crypto Briefing"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "USA a Tchaj-wan uzavřely dohodu o snížení cel a zvýšení investic do polovodičů",
-      "description": "USA a Tchaj-wan dosáhly dlouho očekávané obchodní dohody, která snižuje cla na tchajwanské zboží na 15 procent a zavazuje tchajwanské polovodičové společnosti k navýšení financování amerických operací o 500 miliard dolarů.",
-      "slug": "us-taiwan-clinch-deal-to-cut-tariffs-boost-chip-in",
-      "publishedAt": "2026-01-15T19:35:54+00:00",
-      "date": "2026-01-15 19:35:54",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": null,
-      "url": "/tech-news/2026-01-15/us-taiwan-clinch-deal-to-cut-tariffs-boost-chip-in/",
-      "source": {
-        "emoji": "📰",
-        "id": "financial-post",
-        "name": "Financial Post"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Taiwan investuje 250 miliard dolarů do výroby čipů v USA v rámci nové obchodní dohody",
-      "description": "Spojené státy a Tchaj-wan dosáhly obchodní dohody o stavbě čipů a čipových továren na americké půdě, oznámilo ministerstvo obchodu ve čtvrtek. Tchajwanské firmy vloží minimálně 250 miliard dolarů do výrobních kapacit v USA.",
-      "slug": "taiwan-will-invest-250-billion-in-us-chipmaking-un",
-      "publishedAt": "2026-01-15T19:21:51+00:00",
-      "date": "2026-01-15 19:21:51",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108240992-17654969442025-12-11t234501z_1287636350_rc2neia7vqwp_rtrmadp_0_usa-trump.jpeg?v=1765497054&w=1920&h=1080",
-      "url": "/tech-news/2026-01-15/taiwan-will-invest-250-billion-in-us-chipmaking-un/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNBC"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Japonsko pomůže ASEAN vyvinout umělou inteligenci v místních jazycích kvůli obavám z Číny",
-      "description": "Japonsko a digitální ministři zemí ASEAN se dohodli na spolupráci při vývoji umělé inteligence přizpůsobené jihovýchodním asijským jazykům a kulturám. Cílem je snížit závislost na čínské technologii, včetně podpory kambodžského projektu pro khmerskou umělou inteligenci.",
-      "slug": "japan-to-help-asean-develop-local-language-ai-amid",
-      "publishedAt": "2026-01-15T16:11:52+00:00",
-      "date": "2026-01-15 16:11:52",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F6%2F9%2F5%2F12015969-2-eng-GB%2F313cf5f9be67-photo_SXM2026011500010364.jpg?width=1260&fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=auto&height=630",
-      "url": "/tech-news/2026-01-15/japan-to-help-asean-develop-local-language-ai-amid/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Nikkei.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Sora 2 od OpenAI začala úspěšně. Tempo se zpomalilo",
-      "description": "Aplikace získala 1 milion stažení během prvních pěti dnů, přestože byla dostupná jen pro iOS a vyžadovala pozvánku. V celém prosinci měla na iOS a Androidu dohromady přes 3 miliony stažení.",
-      "slug": "openais-sora-2-started-off-scorching-hot-things-ha",
-      "publishedAt": "2026-01-15T16:05:37+00:00",
-      "date": "2026-01-15 16:05:37",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/dog-video-from-sora-fps30.gif?auto=compress%2Cformat&cs=srgb",
-      "url": "/tech-news/2026-01-15/openais-sora-2-started-off-scorching-hot-things-ha/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Sherwood.news"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Grok zablokován před úpravou obrázků reálných lidí do odhalujícího oblečení v místech, kde je to nelegální, oznámila X",
-      "description": "Oznámení přišlo po globální vlně kritiky kvůli sexualizovaným obrázkům žen a dětí, včetně vyšetřování v Kalifornii a právních kroků ze strany vlád jako Malajsie či Indonésie.",
-      "slug": "grok-blocked-from-undressing-images-in-places-wher",
-      "publishedAt": "2026-01-15T15:59:29+00:00",
-      "date": "2026-01-15 15:59:29",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2026/01/Grok_Deepfakes_73527_a23d71-1.jpg?w=1024&h=575",
-      "url": "/tech-news/2026-01-15/grok-blocked-from-undressing-images-in-places-wher/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Denver Post"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Wikimedia Foundation oznámila nová partnerství s AI společnostmi Amazon, Meta, Microsoft, Perplexity a dalšími",
-      "description": "Nadace Wikimedia k příležitosti 25. výročí oznámila partnerství s velkými AI firmami, které se staly zákazníky jejího komerčního produktu Wikimedia Enterprise. Tento produkt umožňuje masivní využívání obsahu Wikipedie a dalších projektů Wikimedia pro trénink AI modelů a poskytování faktických odpovědí.",
-      "slug": "wikimedia-foundation-announces-new-ai-partnerships",
-      "publishedAt": "2026-01-15T15:20:23+00:00",
-      "date": "2026-01-15 15:20:23",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/10/GettyImages-528784450.jpg?w=1024",
-      "url": "/tech-news/2026-01-15/wikimedia-foundation-announces-new-ai-partnerships/",
-      "source": {
-        "emoji": "🚀",
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "companies": [
-        "Amazon",
-        "Meta",
-        "Microsoft",
-        "Perplexity"
-      ],
-      "people": []
-    },
-    {
-      "title": "Proč budou čipy Apple M5 Pro a Max stát za dlouhé čekání",
-      "description": "Macworld analyzuje nadcházející čipy Apple M5 Pro a M5 Max pro nové MacBook Pro modely. Očekávají se významná zlepšení výkonu oproti řadě M4, včetně až 50procentního nárůstu grafického výkonu.",
-      "slug": "why-apples-m5-pro-and-max-chips-will-be-worth-the-",
-      "publishedAt": "2026-01-15T12:15:25+00:00",
-      "date": "2026-01-15 12:15:25",
-      "importance": 4,
-      "category": "hardware",
-      "urlToImage": "https://www.macworld.com/wp-content/uploads/2026/01/m5-pro-max-chip-graphic-1.jpg?quality=50&strip=all&w=1024",
-      "url": "/tech-news/2026-01-15/why-apples-m5-pro-and-max-chips-will-be-worth-the/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Macworld"
-      },
-      "companies": [
-        "Apple",
-        "Macworld"
-      ],
-      "people": []
-    },
-    {
-      "title": "Kyivstar dosáhl 3 milionů zákazníků se službou Starlink Direct to Cell a posiluje konektivitu Ukrajiny",
-      "description": "Satelitní služba přímo do mobilních zařízení od Kyivstaru dosáhla v krátkém čase 3 milionů registrovaných předplatitelů a umožnila odeslání přes 1,2 milionu SMS zpráv. Společnost nyní otevírá přístup k testování na zařízeních iPhone s iOS 26.2 nebo novějším.",
-      "slug": "kyivstar-reaches-3-million-customers-with-starlink",
-      "publishedAt": "2026-01-15T12:00:00+00:00",
-      "date": "2026-01-15 12:00:00",
-      "importance": 4,
-      "category": "satelitní komunikace",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/566557cc-9ed1-45a3-afdb-f4c4979ca35a",
-      "url": "/tech-news/2026-01-15/kyivstar-reaches-3-million-customers-with-starlink/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "IPO boom se vrací, SpaceX a OpenAI na seznamu investorů pro rok 2026. Buďte opatrní s nákupy",
-      "description": "Očekávaný nárůst počtu firem vstupujících na burzu přináší více příležitostí, ale zároveň i rizika zklamání. Mezi potenciálními kandidáty pro rok 2026 jsou giganti jako SpaceX a OpenAI.",
-      "slug": "ipo-boom-times-are-back-with-spacex-and-openai-on-",
-      "publishedAt": "2026-01-15T12:00:00+00:00",
-      "date": "2026-01-15 12:00:00",
-      "importance": 4,
-      "category": "ipo",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/01/FORTUNE-IPO-FINAL-WEB.jpg?resize=1200,600",
-      "url": "/tech-news/2026-01-15/ipo-boom-times-are-back-with-spacex-and-openai-on/",
-      "source": {
-        "emoji": "📰",
-        "id": "fortune",
-        "name": "Fortune"
-      },
-      "companies": [
-        "SpaceX",
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Google integruje data z Gmailu, YouTube a Vyhledávání přímo do Gemini",
-      "description": "Google rozšiřuje roli modelu Gemini z obecného chatbota na personalizovaného asistenta integrací dat z Gmailu, YouTube a Google Vyhledávání. Tato změna umožňuje Gemini odkazovat na e-maily, historii vyhledávání a aktivitu na YouTube pro přesnější odpovědi.",
-      "slug": "google-integrates-gmail-youtube-and-search-data-di",
-      "publishedAt": "2026-01-15T08:14:35+00:00",
-      "date": "2026-01-15 08:14:35",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.ghacks.net/wp-content/uploads/2026/01/gHacks-articles-95.png",
-      "url": "/tech-news/2026-01-15/google-integrates-gmail-youtube-and-search-data-di/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Ghacks Technology News"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Volvo EX60 nakonec umožní umělé inteligenci Gemini od Google přístup ke všem kamerám vozu",
-      "description": "Mám rezervy ohledně umožnění přístupu asistentovi AI od Google ke kamerám vozu, ale kdo ví, zda kupující luxusních elektrických vozů nebudou mít stejné obavy?",
-      "slug": "volvo-ex60-will-eventually-let-googles-gemini-ai-a",
-      "publishedAt": "2026-01-15T08:00:00+00:00",
-      "date": "2026-01-15 08:00:00",
-      "importance": 4,
-      "category": "elektromobilita",
-      "urlToImage": "https://www.jalopnik.com/img/gallery/volvo-ex60-will-eventually-let-googles-gemini-ai-access-all-your-cars-cameras/l-intro-1768435175.jpg",
-      "url": "/tech-news/2026-01-15/volvo-ex60-will-eventually-let-googles-gemini-ai-a/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Jalopnik"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "SAP a Syngenta oznámily partnerství pro rozšíření zemědělství podporovaného umělou inteligencí",
-      "description": "Víceleté strategické technologické partnerství se SAP vtělí umělou inteligenci do jádra podniku Syngenta.",
-      "slug": "sap-and-syngenta-announce-partnership-to-scale-ai-",
-      "publishedAt": "2026-01-15T08:00:00+00:00",
-      "date": "2026-01-15 08:00:00",
-      "importance": 4,
-      "category": "ai zemědělství",
-      "urlToImage": "https://news.sap.com/wp-content/blogs.dir/1/files/2026/01/15/Image-via-Syngenta-for-SAP-newsbyte-Jan-2025_Scientist-in-greenhouse.jpg",
-      "url": "/tech-news/2026-01-15/sap-and-syngenta-announce-partnership-to-scale-ai/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Sap.com"
-      },
-      "companies": [
-        "SAP"
-      ],
-      "people": []
-    },
-    {
-      "title": "Od Gemini 3 k YouTube a Androidu: Proč je strategie Google v umělé inteligenci obtížně překonatelná",
-      "description": "Google posiluje svou pozici lídra v umělé inteligenci integrací modelů jako Gemini 3 do svých platforem jako YouTube a Android. Článek rozebírá, jak ekosystém společnosti zajišťuje širokou dostupnost a cenovou přístupnost pokročilých AI nástrojů pro miliardy uživatelů.",
-      "slug": "from-gemini-3-to-youtube-android-why-googles-ai-st",
-      "publishedAt": "2026-01-15T07:46:51+00:00",
-      "date": "2026-01-15 07:46:51",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/01/ai-subscription-value-25k-credits_optimized.jpg",
-      "url": "/tech-news/2026-01-15/from-gemini-3-to-youtube-android-why-googles-ai-st/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "USA zavádí 25% clo na prodej některých čipů jako součást dohody s Nvidia",
-      "description": "Dohoda umožňuje společnosti Nvidia dodávat AI procesory do Číny, přičemž USA uvalují 25% clo na dovoz těchto čipů před jejich finálním odesláním.",
-      "slug": "us-sets-25-tariff-on-some-chip-sales-as-part-of-nv",
-      "publishedAt": "2026-01-15T07:29:38+00:00",
-      "date": "2026-01-15 07:29:38",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://www.irishtimes.com/resizer/v2/XWVKMMLS2ALUW4OEH4AJB536YQ.jpg?smart=true&auth=26cff0f1aca22653ac0218d3e980a2c80fd367134ce4eb6771bdcfdf7f7ad397&width=1200&height=630",
-      "url": "/tech-news/2026-01-15/us-sets-25-tariff-on-some-chip-sales-as-part-of-nv/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-irish-times",
-        "name": "The Irish Times"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": []
-    },
-    {
-      "title": "Platforma X Elona Muska omezuje editaci fotek v Grok kvůli obavám z sexualizovaných obrázků",
-      "description": "Společnost X oznámila, že AI chatbot Grok už nebude umožňovat editaci obrázků skutečných lidí v odhalujícím oblečení v jurisdikcích, kde je to nezákonné. Opatření přichází po vyšetřování britského regulátora Ofcom kvůli zneužívání nástroje na sexualizaci žen a dětí.",
-      "slug": "elon-musks-x-restricts-grok-photo-editing-amid-con",
-      "publishedAt": "2026-01-15T07:25:26+00:00",
-      "date": "2026-01-15 07:25:26",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.irishtimes.com/resizer/v2/6MB5ARMENHYXOSFPEEJTD5I6YQ.jpg?smart=true&auth=ab955ef9994833a90dc22381456206d51df39c517f2beb6ee98604601485246a&width=1200&height=630",
-      "url": "/tech-news/2026-01-15/elon-musks-x-restricts-grok-photo-editing-amid-con/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-irish-times",
-        "name": "The Irish Times"
-      },
-      "companies": [],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Co je Grok 3 a jak se liší od ChatGPT?",
-      "description": "Prozkoumejte klíčové rozdíly mezi Grok 3 a ChatGPT. Zjistěte, který AI chatbot vyniká v aktuálních informacích oproti hlubokému učení a tvorbě obsahu. Vyberte si správný nástroj!",
-      "slug": "what-is-grok-3-and-how-is-it-different-from-chatgp",
-      "publishedAt": "2026-01-15T04:20:23+00:00",
-      "date": "2026-01-15 04:20:23",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.c-sharpcorner.com/images/csharp-corner-new.png",
-      "url": "/tech-news/2026-01-15/what-is-grok-3-and-how-is-it-different-from-chatgp/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "C-sharpcorner.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Guvernérka New Yorku otevírá cestu pro robotaxi … kromě v New York City",
-      "description": "Guvernérka New Yorku Kathy Hochul připravuje legislativu, která by legalizovala provoz robotaxi v celém státě – s výjimkou nejlidnatějšího města New York City. Tento krok by mohl urychlit nasazení autonomních vozidel firem jako Waymo mimo velkoměsto.",
-      "slug": "new-york-governor-opens-pathway-for-robotaxis-exce",
-      "publishedAt": "2026-01-15T03:59:57+00:00",
-      "date": "2026-01-15 03:59:57",
-      "importance": 4,
-      "category": "robotaxi",
-      "urlToImage": "https://cleantechnica.com/wp-content/uploads/2025/07/Waymo-teen-account.jpeg",
-      "url": "/tech-news/2026-01-15/new-york-governor-opens-pathway-for-robotaxis-exce/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CleanTechnica"
-      },
-      "companies": [],
-      "people": [
-        "Kathy Hochul"
-      ]
-    },
-    {
-      "title": "OpenAI uzavřela dohodu na výpočetní výkon v hodnotě 10 miliard dolarů s konkurentem Nvidia Cerebras",
-      "description": "OpenAI nakoupí až 750 megawattů výpočetního výkonu od firmy Cerebras za více než 10 miliard dolarů na tři roky. Dohoda slouží k napájení ChatGPT, především pro inference a uvažovací modely, a posiluje postavení Cerebras jako alternativy k Nvidia.",
-      "slug": "openai-signs-10-billion-computing-deal-with-nvidia",
-      "publishedAt": "2026-01-15T03:14:52+00:00",
-      "date": "2026-01-15 03:14:52",
-      "importance": 4,
-      "category": "ai hardware",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-47682,resizemode-75,msid-126537436/tech/artificial-intelligence/openai-signs-10-billion-computing-deal-with-nvidia-challenger-cerebras.jpg",
-      "url": "/tech-news/2026-01-15/openai-signs-10-billion-computing-deal-with-nvidia/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "OpenAI",
-        "Nvidia",
-        "Cerebras"
-      ],
-      "people": []
-    },
-    {
-      "title": "OpenAI se zavazuje k nákupu AI výpočetní kapacity v hodnotě přes 10 miliard dolarů od Cerebras Systems",
-      "description": "OpenAI Group PBC uzavřela dohodu s výrobcem čipů pro umělou inteligenci Cerebras Systems na zajištění výpočetní kapacity pro své velké jazykové modely. Společnost uvedla, že čipy Cerebras použije k napájení ChatGPT a plánuje nákup až 750 megawattů výpočetního výkonu na tři roky.",
-      "slug": "openai-commits-to-buying-over-10b-worth-of-ai-comp",
-      "publishedAt": "2026-01-15T01:36:34+00:00",
-      "date": "2026-01-15 01:36:34",
-      "importance": 4,
-      "category": "ai hardware",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/cerebras-hof.jpg",
-      "url": "/tech-news/2026-01-15/openai-commits-to-buying-over-10b-worth-of-ai-comp/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "OpenAI",
-        "Cerebras Systems"
-      ],
-      "people": []
-    },
-    {
-      "title": "Dva spoluzakladatelé Thinking Machines Lab odcházejí a vracejí se do OpenAI",
-      "description": "Tato zpráva představuje úder pro Thinking Machines Lab. Již se objevují dvě verze vysvětlení toho, co k odchodu došlo.",
-      "slug": "two-thinking-machines-lab-cofounders-are-leaving-t",
-      "publishedAt": "2026-01-15T00:40:28+00:00",
-      "date": "2026-01-15 00:40:28",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://media.wired.com/photos/696832c5bbf56c47d3d0ed29/191:100/w_1280,c_limit/Thinking%20Machines%20Cofounder%20Barret%20Zoph%20is%20Leaving%20the%20Lab%20and%20Rejoining%20OpenAI-Business-2243572881.jpg",
-      "url": "/tech-news/2026-01-15/two-thinking-machines-lab-cofounders-are-leaving-t/",
-      "source": {
-        "emoji": "🔧",
-        "id": "wired",
-        "name": "Wired"
-      },
-      "companies": [
-        "Thinking Machines Lab",
-        "OpenAI"
       ],
       "people": []
     }
