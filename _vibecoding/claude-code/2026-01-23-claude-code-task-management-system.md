@@ -19,6 +19,10 @@ title: Claude Code přechází od Todo seznamů k plnohodnotným Tasks
 
 Anthropic přechází u Claude Code od Todo seznamů k plnohodnotným Tasks. Změna přináší podporu závislostí mezi úkoly, persistenci napříč sessions a koordinaci práce při využití více instancí AI agenta současně.
 
+A moje shrnutí a pár postřehů si můžete pustit i na videu:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UYiO97d4YvY?si=nFWvVWjTypp8DvD9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Důvody změny architektury
 
 Původní systém TodoWrite Tool se ukázal jako nedostatečný s nástupem modelu Opus 4.5. Ten disponuje výrazně lepší schopností běžet autonomně po delší dobu a udržovat si přehled o stavu práce. Podle týmu Anthropic model u menších úkolů již nepotřeboval explicitní nástroj pro správu seznamu činností - sám si dokázal pamatovat, co je třeba udělat.
