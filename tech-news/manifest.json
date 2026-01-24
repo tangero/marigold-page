@@ -1,7 +1,156 @@
 {
-  "generated": "2026-01-24T16:41:17.503424+00:00",
-  "count": 161,
+  "generated": "2026-01-24T20:41:23.518402+00:00",
+  "count": 168,
   "articles": [
+    {
+      "title": "Databricks získal dalších 1,8 miliardy dolarů dluhu před plánovaným IPO",
+      "description": "Databricks, firma specializující se na datovou analytiku a AI, získala nových 1,8 miliardy dolarů dluhu a celkem má přístup k více než 7 miliardám dolarů. Společnost je připravena na vstup na burzu v roce 2026.",
+      "slug": "databricks-obtains-18-billion-in-additional-debt-a",
+      "publishedAt": "2026-01-23T19:14:50+00:00",
+      "date": "2026-01-23 19:14:50",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108090174-1737511299846-Handout_Ali_Ghodsi_seated.jpg?v=1737511358&w=1920&h=1080",
+      "url": "/tech-news/2026-01-23/databricks-obtains-18-billion-in-additional-debt-a/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [
+        "Databricks"
+      ],
+      "people": []
+    },
+    {
+      "title": "Co noví vlastníci TikToku znamenají pro váš doporučený obsah",
+      "description": "TikTok má v USA nové vlastníky po uzavření dohody o oddělení amerických operací za 14 miliard dolarů. ByteDance předalo kontrolu investorům včetně Oracle, Silver Lake a MGX, což může ovlivnit algoritmus doporučení a bezpečnost dat.",
+      "slug": "what-tiktoks-new-owners-mean-for-your-feed",
+      "publishedAt": "2026-01-23T19:13:23+00:00",
+      "date": "2026-01-23 19:13:23",
+      "importance": 5,
+      "category": "sociální sítě",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK051_VRG_Illo_N_Barclay_7_tiktok.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "url": "/tech-news/2026-01-23/what-tiktoks-new-owners-mean-for-your-feed/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "companies": [
+        "ByteDance"
+      ],
+      "people": []
+    },
+    {
+      "title": "Tesla Elona Muska ukončuje systém Autopilot – zde je důvod",
+      "description": "Tesla minulý týden oznámila, že od 14. února přestane nabízet Full Self-Driving jako jednorázovou koupi za 8000 dolarů. Společnost tlačí zákazníky k měsíčnímu předplatnému za 99 dolarů a v nových vozech v Kanadě a USA ruší základní systém Autopilot.",
+      "slug": "elon-musks-tesla-pulls-plug-on-autopilot-system-he",
+      "publishedAt": "2026-01-23T19:08:17+00:00",
+      "date": "2026-01-23 19:08:17",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/01/tesla-car-charging-outside-tesla-115265647.jpg?quality=75&strip=all&w=1200",
+      "url": "/tech-news/2026-01-23/elon-musks-tesla-pulls-plug-on-autopilot-system-he/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "New York Post"
+      },
+      "companies": [
+        "Tesla"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Prý tajně následuje každé Tesla Robotaxi další auto, důvod je tak absurdní, že mu nebudete věřit",
+      "description": "Elon Musk oznámil, že Tesla Robotaxi budou jezdit bez bezpečnostního dozoru přímo v autě, ale podle zpráv dozorci nyní sledují vozy z následujícího automobilu. Tento postup odhalil videoblog Tesla nadšence a kritizují ho jako zbytečně komplikovaný trik.",
+      "slug": "theres-reportedly-a-car-secretly-following-every-t",
+      "publishedAt": "2026-01-23T19:07:31+00:00",
+      "date": "2026-01-23 19:07:31",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://futurism.com/wp-content/uploads/2026/01/car-following-tesla-robotaxi.jpg?w=1200",
+      "url": "/tech-news/2026-01-23/theres-reportedly-a-car-secretly-following-every-t/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Futurism"
+      },
+      "companies": [
+        "Tesla"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "TikTok vytváří většinově americky vlastněnou společnost s Oracle, Silver Lake a MGX",
+      "description": "TikTok uzavřel dohodu o nové americké společnosti, kde čínský mateřský koncern ByteDance předává většinové vlastnictví nečínským investorům, aby řešil obavy z národní bezpečnosti a zabránil možnému zákazu v USA.",
+      "slug": "tiktok-forms-majority-american-owned-venture-with-",
+      "publishedAt": "2026-01-23T19:00:22+00:00",
+      "date": "2026-01-23 19:00:22",
+      "importance": 4,
+      "category": "sociální sítě",
+      "urlToImage": "https://macdailynews.com/wp-content/uploads/2024/12/241206_tiktok.png",
+      "url": "/tech-news/2026-01-23/tiktok-forms-majority-american-owned-venture-with/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Macdailynews.com"
+      },
+      "companies": [
+        "TikTok",
+        "Oracle"
+      ],
+      "people": []
+    },
+    {
+      "title": "Programátorská místa v ohrožení? Microsoft, NVIDIA, Anthropic a Elon Musk znejistěli alarm | Denní technologická aktualizace – 23. ledna 2026",
+      "description": "Top technologičtí lídři jako CEO Microsoftu Satya Nadella, šéf NVIDIY Jensen Huang, generální ředitel Anthropicu Dario Amodei a Elon Musk varují před dopady umělé inteligence na programátorská pracovní místa, bezpečnost vozidel a budoucnost práce.",
+      "slug": "ai-coding-jobs-at-risk-microsoft-nvidia-anthropic-",
+      "publishedAt": "2026-01-23T18:45:32+00:00",
+      "date": "2026-01-23 18:45:32",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.c-sharpcorner.com/images/csharp-corner-new.png",
+      "url": "/tech-news/2026-01-23/ai-coding-jobs-at-risk-microsoft-nvidia-anthropic/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "C-sharpcorner.com"
+      },
+      "companies": [
+        "Microsoft",
+        "NVIDIA",
+        "Anthropic"
+      ],
+      "people": [
+        "Satya Nadella",
+        "Jensen Huang",
+        "Dario Amodei"
+      ]
+    },
+    {
+      "title": "Energetický supercyklus AI: Snaha zajistit nepřetržitě fungující energetickou infrastrukturu",
+      "description": "Globální rozvoj umělé inteligence naráží na limity elektrické sítě kvůli rostoucí poptávce datových center. Článek zdůrazňuje posun k jaderné energii jako zdroji stabilního výkonu a zmínky o firmách jako Eagle Energy Metals nebo Oklo.",
+      "slug": "the-ai-energy-supercycle-striving-to-secure-247-po",
+      "publishedAt": "2026-01-23T18:35:00+00:00",
+      "date": "2026-01-23 18:35:00",
+      "importance": 4,
+      "category": "energetika ai",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/fa80d6c4-97b0-465a-b7f0-f79df6f8bc19",
+      "url": "/tech-news/2026-01-23/the-ai-energy-supercycle-striving-to-secure-247-po/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Kongres varuje před kybernetickými hrozbami poháněnými AI před velkými událostmi v USA",
       "description": "Hackeři potřebují uspět jen jednou, aby způsobili chaos. Kongresové slyšení zdůraznilo, že se bezpečnostní díry množí, protože podvodníci cílí na největší cíle pomocí AI, autonomních dronů a kyberútoků.",
