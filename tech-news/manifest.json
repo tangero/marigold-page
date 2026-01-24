@@ -1,7 +1,131 @@
 {
-  "generated": "2026-01-24T12:49:08.582053+00:00",
-  "count": 155,
+  "generated": "2026-01-24T16:41:17.503424+00:00",
+  "count": 161,
   "articles": [
+    {
+      "title": "Kongres varuje před kybernetickými hrozbami poháněnými AI před velkými událostmi v USA",
+      "description": "Hackeři potřebují uspět jen jednou, aby způsobili chaos. Kongresové slyšení zdůraznilo, že se bezpečnostní díry množí, protože podvodníci cílí na největší cíle pomocí AI, autonomních dronů a kyberútoků.",
+      "slug": "congress-warns-of-ai-driven-cyber-threats-ahead-of",
+      "publishedAt": "2026-01-23T16:15:34+00:00",
+      "date": "2026-01-23 16:15:34",
+      "importance": 4,
+      "category": "kybernetika",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/01/Congress.jpeg",
+      "url": "/tech-news/2026-01-23/congress-warns-of-ai-driven-cyber-threats-ahead-of/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Čína nařizuje Alibaba a technologickým firmám připravit objednávky na Nvidia H200",
+      "description": "Regulátoři nedávno udělili předběžné schválení Alibaba, Tencent Holdings a ByteDance pro postoupění do další fáze příprav nákupů, uvedli lidé obeznámení se situací.",
+      "slug": "china-tells-alibaba-tech-firms-to-ready-nvidia-h20",
+      "publishedAt": "2026-01-23T16:15:08+00:00",
+      "date": "2026-01-23 16:15:08",
+      "importance": 4,
+      "category": "ai hardware",
+      "urlToImage": "https://c.ndtvimg.com/2025-11/3eprbrss_nvidia-blackwell_625x300_03_November_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1080,height=607",
+      "url": "/tech-news/2026-01-23/china-tells-alibaba-tech-firms-to-ready-nvidia-h20/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Ndtvprofit.com"
+      },
+      "companies": [
+        "Alibaba",
+        "Nvidia",
+        "Tencent Holdings Ltd",
+        "ByteDance Ltd"
+      ],
+      "people": []
+    },
+    {
+      "title": "Sdílení zdravotních údajů s chatbotem je, ne překvapivě, špatný nápad",
+      "description": "Každý týden se více než 230 milionů lidí ptá ChatGPT na rady ohledně zdraví a wellness, tvrdí OpenAI. Společnost chatbot prezentuje jako spojence pro navigaci pojišťovnami a vyplňování papírování, ale experti varují před sdílením citlivých zdravotních dat.",
+      "slug": "giving-your-healthcare-info-to-a-chatbot-is-unsurp",
+      "publishedAt": "2026-01-23T16:07:24+00:00",
+      "date": "2026-01-23 16:07:24",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STKS524_AI_HEALTH_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "url": "/tech-news/2026-01-23/giving-your-healthcare-info-to-a-chatbot-is-unsurp/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Proč Elon Musk plánuje zvýšit cenu předplatného Tesla FSD po ukončení režimu Autopilot – vysvětleno",
+      "description": "Elon Musk oznámil, že Tesla zvýší ceny předplatného pro software Full Self-Driving (FSD) s jeho zlepšujícími se schopnostmi, případně nad rámec současných 99 dolarů měsíčně. Tento krok souvisí s ukončením standardního Autopilotu a tlakem na předplatné jako hlavní zdroj příjmů.",
+      "slug": "why-is-elon-musk-planning-to-hike-teslas-fsd-subsc",
+      "publishedAt": "2026-01-23T16:01:34+00:00",
+      "date": "2026-01-23 16:01:34",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2026/01/23/1600x900/logo/FILES-US-AI-TECHNOLOGY-INTERNET-0_1768883709126_1768883718915_1769182924884.jpg",
+      "url": "/tech-news/2026-01-23/why-is-elon-musk-planning-to-hike-teslas-fsd-subsc/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Livemint"
+      },
+      "companies": [
+        "Tesla"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Alibaba plánuje IPO pro čipovou divizi T-Head k financování investic do AI infrastruktury – konkurence Cambriconu a Huawei na domácím trhu s akcelerátory",
+      "description": "Čipová divize Alibaby T-Head se připravuje na úvodní veřejnou nabídku (IPO), aby získala kapitál pro rozvoj AI akcelerátorů. Alibaba tak posílí svou pozici v čínském trhu s hardwarem pro umělou inteligenci a financuje infrastrukturní projekty.",
+      "slug": "alibaba-plans-ipo-for-chip-arm-t-head-to-help-bank",
+      "publishedAt": "2026-01-23T15:50:49+00:00",
+      "date": "2026-01-23 15:50:49",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/LyXhaFLnFmGeSh8PqYKPuh-1920-80.jpg",
+      "url": "/tech-news/2026-01-23/alibaba-plans-ipo-for-chip-arm-t-head-to-help-bank/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "companies": [
+        "Alibaba",
+        "T-Head",
+        "Cambricon",
+        "Huawei"
+      ],
+      "people": []
+    },
+    {
+      "title": "Fox News AI Newsletter: Historická výstavba infrastruktury pro umělou inteligenci",
+      "description": "Fox News AI Newsletter informuje o nejnovějších pokrocích v technologii umělé inteligence, včetně výzev a příležitostí, které AI přináší. Tento vydání se zaměřuje na masivní investice do AI infrastruktury, partnerství gigantů a změny v zaměstnanosti.",
+      "slug": "fox-news-ai-newsletter-historic-infrastructure-bui",
+      "publishedAt": "2026-01-23T15:39:05+00:00",
+      "date": "2026-01-23 15:39:05",
+      "importance": 4,
+      "category": "ai infrastruktura",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/06/Nvidia-Jensen-Huang-Photo-1.jpg",
+      "url": "/tech-news/2026-01-23/fox-news-ai-newsletter-historic-infrastructure-bui/",
+      "source": {
+        "emoji": "📰",
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Čína prohlubuje vyšetřování akvizice startupu Manus společností Meta za 2 miliardy dolarů",
       "description": "Čínští úředníci prohlubují zkoumání prosincové akvizice agentického AI startupu Manus společností Meta, zda porušila předpisy o exportu technologií nebo národní bezpečnosti. Hlavním bodem zájmu je možný únik čínských technologií nebo uživatelských dat do rukou americké firmy.",
