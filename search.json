@@ -26783,7 +26783,7 @@
       "title"    : "Tech News Health Status",
       "url"      : "/health-status/",
       "category" : "stránka",
-      "content"  : "🏥 Tech News Health &amp; Pipeline Status Status: WARNING Poslední kontrola: 23.01.2026 13:14 Summary: Status: WARNING | Články 24h: 0 | Čeština: 100.0% | Alerty: 3 📈 30denní přehled (30 dní) Nově vygenerováno (30 dní) ℹ️ 1081 Denní průměr: 34.9 LLM náklady $283.89 Celkem za období API dotazy 8818 Sessions: 181 Přeskočeno 7737 Hlavně: low_importance 🔄 Processing Pipeline (30 dní) 📥 API Fetch 8818 ⏭️ Přeskočeno (filtry) 7737 💾 Uloženo 1081 (12.3%) 📊 Denní statistiky (posledních 14 dní) Datum Fetched Saved Skipped Cost Success 2026-01-23 147 27 120 $5.0263 100% 2026-01-22 297 40 257 $9.7483 100% 2026-01-21 298 28 270..."
+      "content"  : "🏥 Tech News Health &amp; Pipeline Status Status: WARNING Poslední kontrola: 24.01.2026 04:52 Summary: Status: WARNING | Články 24h: 0 | Čeština: 100.0% | Alerty: 3 📈 30denní přehled (30 dní) Nově vygenerováno (30 dní) ℹ️ 1081 Denní průměr: 34.9 LLM náklady $279.24 Celkem za období API dotazy 8666 Sessions: 178 Přeskočeno 7585 Hlavně: low_importance 🔄 Processing Pipeline (30 dní) 📥 API Fetch 8666 ⏭️ Přeskočeno (filtry) 7585 💾 Uloženo 1081 (12.5%) 📊 Denní statistiky (posledních 14 dní) Datum Fetched Saved Skipped Cost Success 2026-01-24 97 14 83 $2.9002 100% 2026-01-23 194 36 158 $6.6624 100% 2026-01-22 297 40 257..."
     }
     
   
@@ -27207,6 +27207,15 @@
     ,{
       "title"    : "Technologické zprávy - 2025-10-12",
       "url"      : "/tech-news/2025-10-12/",
+      "category" : "stránka",
+      "content"  : ""
+    }
+    
+  
+    
+    ,{
+      "title"    : "Technologické zprávy - 2026-01-23",
+      "url"      : "/tech-news/2026-01-23/",
       "category" : "stránka",
       "content"  : ""
     }
@@ -30181,272 +30190,6 @@
     
       
       ,{
-        "title"    : "Skryté energetické náklady umělé inteligence",
-        "url"      : "/tech-news/2026-01-17/the-hidden-energy-costs-of-artificial-intelligence/",
-        "category" : "tech_news",
-        "content"  : "SouhrnMezinárodní energetická agentura (IEA) predikuje, že spotřeba energie v sektoru umělé inteligence se mezi současností a rokem 2030 zdvojnásobí. Tento růst ohrožuje energetickou bezpečnost v mnoha regionech kvůli rostoucímu poptávce po elektrické energii pro data centra. Článek zdůrazňuje, jak tyto skryté náklady ovlivňují globální energetický systém.Klíčové body Energetická poptávka AI se do roku 2030 zdvojnásobí podle IEA. Data centra pohánějící AI modely jako GPT nebo Gemini spotřebovávají ekvivalent energie pro miliony domácností. Rostoucí zátěž na sítě vede k rizikům pro energetickou bezpečnost v Evropě a USA. Firmy jako Microsoft a Google uzavírají smlouvy na jadernou energii pro pokrytí potřeb. Bez..."
-      }
-      
-      ,{
-        "title"    : "Factfind: Kdo, pokud vůbec někdo, může nést právní odpovědnost za obrázky zneužívání na Grok a X?",
-        "url"      : "/tech-news/2026-01-17/factfind-who-if-anyone-can-be-held-legally-respons/",
-        "category" : "tech_news",
-        "content"  : "SouhrnSkandál s AI-generovanými nekonzistentními obrázky zneužívání, včetně dětí v bikinech a sexuálně násilných vyobrazení žen, vypukl po přidání funkce editování obrázků v nástroji Grok na platformě X. Autorita reagují vágně a protichůdně ohledně konkrétních trestných činů a právní odpovědnosti. Článek analyzuje, zda mohou být odpovědní uživatelé, vývojáři AI nebo provozovatelé platforem.Klíčové body Po zavedení edit buttonu v Grok v prosinci zaplavily X fabrikované obrázky dětí a žen v explicitních scénářích. Politická odsouzení a veřejné rozhořčení vedly k nejasným prohlášením úřadů o pachatelích. Právní rámec zahrnuje otázky odpovědnosti platforem podle Section 230 v USA a evropských regulací. Grok, AI chatbot od..."
-      }
-      
-      ,{
-        "title"    : "Grok: test pro řízení umělé inteligence",
-        "url"      : "/tech-news/2026-01-17/grok-a-test-for-ai-governance/",
-        "category" : "tech_news",
-        "content"  : "SouhrnSystém Grok od společnosti xAI Elona Muska nedávno generoval na platformě X nekonzistentní sexuálně zafarbené obrázky žen a dětí, což vyvolalo vyšetřování regulatorů v Evropské unii, Francii, Indii, Malajsii a Spojeném království. Evropští představitelé toto chování označili za nelegální a britští regulátoři zahájili urgentní šetření. Tato kauza testuje globální rámce řízení umělé inteligence.Klíčové body Grok generoval nekonzistentní sexuální obrázky žen a dětí na sociální síti X. Vyšetřování probíhá v EU, Francii, Indii, Malajsii a UK; někteří regulátoři to považují za porušení trestních zákonů. Kauza zdůrazňuje nutnost bezpečnosti, kontroly a dohledu nad AI systémy nasazenými ve velkém měřítku. Globální shoda na..."
-      }
-      
-      ,{
-        "title"    : "Administrativa Trumpa vyzývá technologické firmy, aby platily za nové elektrárny pro AI datová centra",
-        "url"      : "/tech-news/2026-01-17/trump-admin-calls-on-tech-companies-to-pay-energy/",
-        "category" : "tech_news",
-        "content"  : "SouhrnAdministrativa prezidenta Trumpa společně s bipartizánní skupinou guvernérů vyzvala k reformám v síti PJM Interconnection, největší elektrické síti v USA, která zásobuje 67 milionů lidí v 13 státech. Dohoda stanovuje, že technologické firmy mají financovat nové elektrárny nutné pro AI datová centra, aby se zabránilo růstu cen elektřiny pro obyvatele. Federální a státní představitelé podepsali společné prohlášení o principech, které zahrnuje investice přes 15 miliard dolarů do nové výroby energie.Klíčové body Technologické společnosti mají platit za výstavbu nových elektráren v regionu PJM kvůli explozivnímu růstu AI datových center. Dohoda zahrnuje nouzovou aukci kapacity v PJM a ochranu domácností před zvýšením..."
-      }
-      
-      ,{
-        "title"    : "xAI Elona Muska čelí složitějšímu rozšiřování datových center po aktualizaci pravidla EPA",
-        "url"      : "/tech-news/2026-01-17/elon-musks-xai-faces-tougher-road-building-out-dat/",
-        "category" : "tech_news",
-        "content"  : "SouhrnAmerická Agentura pro ochranu životního prostředí (EPA) tento týden aktualizovala pravidla, čímž uzavřela regulační mezeru, kterou xAI Elona Muska využila k rychlé výstavbě prvního datového centra Colossus v Memphisu. Firma klasifikovala přívěsové plynové turbíny jako „non-road engines“, což jí umožnilo obejít povolení podle Zákona o čistém vzduchu. Nová úprava vyžaduje plná povolení pro takové instalace, což zpomalí další expanzi xAI v oblasti.Klíčové body EPA zakazuje klasifikovat stacionární plynové turbíny jako „non-road engines“ a vyžaduje povolení Clean Air Act, pokud emise překročí prahové hodnoty. xAI v Memphisu použila shluk turbín k vytvoření off-grid elektrárny pro datové centrum plné grafických procesorů Nvidia,..."
-      }
-      
-      ,{
-        "title"    : "Nvidia Jensena Huanga zasáhla nečekaná celní blokáda v Číně pro vlajkový čip H200, dodavatelé zastavili výrobu: Zpráva",
-        "url"      : "/tech-news/2026-01-17/jensen-huangs-nvidia-hit-by-surprise-customs-block/",
-        "category" : "tech_news",
-        "content"  : "SouhrnNvidia, vedená Jensenem Huangem, čelí nečekané celní blokádě v Číně ohledně dovozu svého vlajkového AI čipu H200. Dodavatelé klíčových součástek, jako jsou tištěné desky plošných spojů (PCB), zastavili výrobu kvůli obavám z budoucích ztrát. Situace nastala krátce po schválení prodeje USA, přičemž čínské úřady neposkytly okamžitou reakci.Klíčové body Čínské celní úřady zablokovaly první zásilky H200 čipů, které dorazily do Hong Kongu tento týden. Dodavatelé pozastavili výrobu specifických součástek pro H200, které nelze snadno přeutilizovat v jiných produktech. Nvidia očekávala přibližně 1 milion objednávek z Číny, což představuje významný podíl jejích prodejů AI hardware. USA v prosinci 2025 schválily export H200..."
-      }
-      
-      ,{
-        "title"    : "Trump chce, aby technologické firmy platily za nové elektrárny kvůli AI",
-        "url"      : "/tech-news/2026-01-17/trump-wants-tech-companies-to-foot-the-bill-for-ne/",
-        "category" : "tech_news",
-        "content"  : "SouhrnAdministrativa Donalda Trumpa a guvernérští několika států podepsali dohodu, která ukládá velkým technologickým firmám financovat výstavbu nových elektráren v oblasti PJM Interconnection. Tato největší americká elektrická síť slouží 65 milionům lidí v 13 státech a okrese Columbia, včetně severní Virginie, kde se nachází největší světový trh s datovými centry. Tech firmy souhlasily s příspěvkem 15 miliard dolarů na novou výrobní kapacitu.Klíčové body Administrativa a státy podepsaly pakt na financování nových elektráren tech firmami kvůli poptávce po elektřině z datových center AI. PJM Interconnection zaznamenala explozivní růst cen elektřiny, částečně kvůli datovým centrům v severní Virginii. Tech giganty slíbily 15 miliard..."
-      }
-      
-      ,{
-        "title"    : "Chcí zákazníci Woolworths, aby AI od Google přidávalo položky do košíku? Brzy se to dozvíme",
-        "url"      : "/tech-news/2026-01-17/do-woolworths-shoppers-want-google-ai-adding-items/",
-        "category" : "tech_news",
-        "content"  : "SouhrnWoolworths, australský řetězec supermarketů, uzavřel partnerství s Googlem na vylepšení svého chatbota Olive o agentické schopnosti umělé inteligence. Nová verze na bázi modelu Gemini umožní plánování jídel, interpretaci receptů, aplikaci loajálnostních slev a přímé přidávání navržených položek do online košíku. Zákazníci si však budou muset objednávky stále schválit a zaplatit, přestože klíčová rozhodnutí mohou být již ovlivněna systémem.Klíčové body Partnerství Woolworths a Google startuje v Austrálii ještě letos, s integrací agentické AI do chatbota Olive. Olive přejde z pasivního odpovídání otázek na aktivní akce: plánování jídel, čtení ručních receptů a sestavování košíku. Systém zohledňuje slevy a akce, čímž nenásilně ovlivňuje..."
-      }
-      
-      ,{
-        "title"    : "Tento rozpočet by mohl být jiskrou za posunem Indie v oblasti umělé inteligence",
-        "url"      : "/tech-news/2026-01-17/this-budget-could-be-the-spark-behind-indias-ai-po/",
-        "category" : "tech_news",
-        "content"  : "SouhrnIndický státní rozpočet na rok 2026 by mohl urychlit přechod Indie od ambicí v umělé inteligenci k reálnému nasazení. Za poslední dva roky vláda schválila misi IndiaAI s rozpočtem 10 372 crore rupií a rozšířila přístup k subvenovaným GPU z 10 000 na přes 38 000 kusů. Klíčové výzvy nyní spočívají v dostupnosti energie, zjednodušení schvalování a dlouhodobé politické jistotě.Klíčové body Schválení mise IndiaAI v březnu 2024 s rozpočtem 10 372 crore rupií (cca 1,25 miliardy USD), která AI definuje jako národní infrastrukturu. Rozšíření subvenovaných GPU na přes 38 000 kusů, plus vývoj datasetů, školicích programů a bezpečnostních rámců. Rozpočet..."
-      }
-      
-      ,{
-        "title"    : "Společné prohlášení Spojených států a Izraele k zahájení strategického partnerství v oblasti umělé inteligence, výzkumu a klíčových technologií",
-        "url"      : "/tech-news/2026-01-17/joint-statement-of-the-united-states-and-israel-on/",
-        "category" : "tech_news",
-        "content"  : "SouhrnSpojené státy americké a Izrael zahájily 16. ledna 2026 strategické partnerství v oblasti umělé inteligence, výzkumu a klíčových technologií. Tento krok formálně prohlubuje dlouhodobou spolupráci v kritických sektorech, jako jsou AI, pokročilé výpočetní technologie, vesmírné technologie a polovodiče. Partnerství spadá pod rámec Pax Silica, který má zajistit technologickou převahu a ochranu citlivých výzkumů.Klíčové body Společný výzkum a investice do AI, energie, pokročilých výpočetních technologií, vesmírných technologií, edge inovací a polovodičů. Zaměření na ochranu citlivých technologií a zajištění bezpečného výzkumného prostředí. Podpora ekonomického růstu, tvorby pracovních míst a bezpečnosti prostřednictvím technologické nadřazenosti. Formální rámec pro dlouhodobou spolupráci v rámci Pax Silica...."
-      }
-      
-      ,{
-        "title"    : "Elon Musk a problémy s úpravami Grok pro omezení funkcí",
-        "url"      : "/tech-news/2026-01-17/elon-musk-and-the-issue-with-his-grok-blocking-twe/",
-        "category" : "tech_news",
-        "content"  : "SouhrnNa Štědrý den 2025 získal chatbot Grok od platformy X (dříve Twitter) schopnost digitálně odstraňovat oblečení z fotografií lidí, včetně dětí, což okamžitě vedlo k masovému generování nevhodného obsahu. Tato funkce vyvolala globální pobouření kvůli tvorbě materiálu s sexuálním zneužíváním dětí (CSAM). Reakce Elona Muska a následné úpravy systému jen zesílily kritiku, protože omezily přístup pouze na placené předplatitele.Klíčové body prosince 2025: Grok získal funkci pro editaci obrázků, umožňující svlékání postav včetně dětí. Masové zneužití: Uživatelé generovali obrázky celebrit, politiků a CSAM. Reakce Muska: Nejprve emotikony, později prohlášení o boji proti CSAM. ledna 2026: Funkce omezena na placené předplatitele X..."
-      }
-      
-      ,{
-        "title"    : "Vše, co zatím víme o skládacím iPhonu od Apple",
-        "url"      : "/tech-news/2026-01-17/everything-we-know-so-dar-about-apples-doldable-ip/",
-        "category" : "tech_news",
-        "content"  : "SouhrnAnalytik Jeff Pu v poznámce pro investory sdílel první detaily o očekávaném skládacím iPhonu, který by měl přijít v roce 2026. Mezi klíčovými prvky je poměr stran 4:3 podobný iPadu mini, přechod na Touch ID místo Face ID a pevný pant z titanu a tekutého kovu. Tyto informace vycházejí z různých spekulací a nejsou oficiálně potvrzené společností Apple.Klíčové body Displej: 5,3 palce na vnější straně a 7,8 palce na vnitřní, s možným poměrem stran 4:3 pro tabletový vzhled. Bezpečnost: Touch ID fingerprint senzor místo Face ID, což znamená nižší úroveň zabezpečení. Konstrukce: Tělo z hliníku a titanu, pant z titanu..."
-      }
-      
-      ,{
-        "title"    : "USA snižují clo na tchajwanské zboží na 15 % v obchodní dohodě (aktualizace)",
-        "url"      : "/tech-news/2026-01-17/us-lowers-tariff-on-taiwanese-goods-to-15-in-trade/",
-        "category" : "tech_news",
-        "content"  : "SouhrnSpojené státy a Tchaj-wan uzavřely obchodní dohodu, podle níž USA sníží cla na tchajwanské zboží z 20 % na 15 %, bez navýšení na stávající sazby největšího příznivce (MFN). Dohoda poskytuje polovodičům a souvisejícím produktům nejvýhodnější zacházení podle paragrafu 232 Zákona o rozšíření obchodu a zahrnuje závazky k rozšíření spolupráce v dodavatelských řetězcích a umělé inteligenci. Tchajwanské firmy v sektorech polovodičů, elektroniky, AI a energetiky plánují investovat 250 miliard USD do USA.Klíčové body Snížení cel na tchajwanské zboží z 20 % na 15 %, shodné se sazbami pro Japonsko, Jižní Koreu a EU, bez přičítání k MFN sazbám. Nejvýhodnější podmínky..."
-      }
-      
-      ,{
-        "title"    : "Izrael a Spojené státy podepsaly společné prohlášení o umělé inteligenci",
-        "url"      : "/tech-news/2026-01-17/israel-and-the-united-states-sign-joint-statement/",
-        "category" : "tech_news",
-        "content"  : "SouhrnIzrael a Spojené státy podepsaly 16. ledna 2026 v Jeruzalémě společné prohlášení o spolupráci v umělé inteligenci. Tento krok navazuje na připojení Izraele k iniciativě Pax Silica, která sdružuje devět předních národů v oblasti AI. Prohlášení podepsali šéf izraelského Národního úřadu pro AI brigádní generál (v rez.) Erez Eskel a americký podsekretář pro ekonomické záležitosti Jacob Helberg za přítomnosti ministra zahraničí Gideona Sa’ara a velvyslance Mikea Huckabeeho.Klíčové body Izrael je první zemí z iniciativy Pax Silica, která uzavřela společné prohlášení s USA. Iniciativa Pax Silica spojuje devět předních států v cíli posílit globální leadership v AI. Podpis proběhl v Městě..."
-      }
-      
-      ,{
-        "title"    : "Plánování, kódování a kontrola souběžně s agenty v Claude Code",
-        "url"      : "/tech-news/2026-01-17/plan-code-and-review-in-parallel-with-agents-in-cl/",
-        "category" : "tech_news",
-        "content"  : "SouhrnSub-agenti v Claude Code, nástroji od Anthropic pro asistovanou tvorbu kódu založenou na modelu Claude, umožňují paralelní zpracování úkolů jako plánování, kódování a kontrola kódu. Tento přístup deleguje specifické role specializovaným agentům, jako je Coder Agent pro psaní kódu, Code Reviewer Agent pro revizi a UI Expert Agent pro uživatelské rozhraní, což zjednodušuje řízení velkých projektů. Výsledkem je efektivnější workflow bez ztráty kontextu.Klíčové body Sub-agenti rozkládají složité úkoly na specializované komponenty, což umožňuje paralelní provádění a šetří tokeny v hlavním vlákně. Možnost přizpůsobení rolí a nástrojů, například Coder Agent pro generování kódu, Code Reviewer Agent pro detekci chyb a UI..."
-      }
-      
-      ,{
-        "title"    : "ChatGPT Go expanduje globálně s GPT-5.2 Instant, jasnými označenými reklamami a rozšířenou pamětí",
-        "url"      : "/tech-news/2026-01-17/chatgpt-go-goes-worldwide-with-gpt-52-instant-clea/",
-        "category" : "tech_news",
-        "content"  : "SouhrnOpenAI spustilo globálně nový předplatný stupeň ChatGPT Go za 8 USD měsíčně v USA, s přizpůsobenými cenami pro různé země, aby zvýšilo dostupnost pokročilé AI. Tento model zavádí reklamy do bezplatné a Go verze, přičemž zdůrazňuje transparentnost a ochranu soukromí. Nabízí vylepšené funkce včetně modelu GPT-5.2 Instant pro okamžité odpovědi, generování obrázků a rozšířenou paměť.Klíčové body Globální spuštění v 171 zemích s lokálními cenami pro lepší dostupnost. Tři stupně předplatného: ChatGPT Go (základní funkce za nízkou cenu), ChatGPT Plus (20 USD/měsíc pro pokročilé možnosti) a ChatGPT Pro (200 USD/měsíc pro firemní výkon). Reklamy v bezplatné a Go verzi s jasnými..."
-      }
-      
-      ,{
-        "title"    : "Technologické novinky týdne: Apple spolupracuje s Google na Gemini, masivní výpadek Verizonu, šéf OnePlus v problémech a další",
-        "url"      : "/tech-news/2026-01-17/tech-news-wrap-apple-snags-gemini-massive-verizon/",
-        "category" : "tech_news",
-        "content"  : "SouhrnApple a Google zahajují strategickou spolupráci, která integruje AI model Gemini do Siri a dalších funkcí v zařízeních Apple od roku 2026. Verizon prožil masivní výpadek sítě ovlivňující miliony uživatelů, zatímco šéf OnePlus Pete Lau čelí zatykači na Tchaj-wanu kvůli sporům. Dalšími tématy jsou únik informací o Androidu 17 a předčasné uvedení Pixelu 10a.Klíčové body Apple vybere Gemini jako základ pro Siri a AI funkce v iPhonech, což posiluje pozici Google v AI ekosystému. Výpadek Verizonu způsobil výpadky telefonních a datových služeb pro miliony zákazníků v USA. Pete Lau, spoluzakladatel OnePlus (výrobce chytrých telefonů), má vydaný zatykač na Tchaj-wanu kvůli..."
-      }
-      
-      ,{
-        "title"    : "Micron kupuje továrnu PSMC na Taiwanu za 1,8 miliardy USD, obě firmy přehodnocují strategie pro paměti v AI",
-        "url"      : "/tech-news/2026-01-17/micron-to-buy-psmc-taiwan-fab-in-18bn-deal-as-both/",
-        "category" : "tech_news",
-        "content"  : "SouhrnSpolečnost Micron Technology, přední americký výrobce pamětí, oznámila předběžnou dohodu o akvizici továrny P5 taiwanské firmy Powerchip Semiconductor Manufacturing Corporation (PSMC) v lokalitě Tongluo. Transakce v hodnotě 1,8 miliardy USD je součástí širšího přehodnocování strategií obou firem v oblasti pamětí pro aplikace umělé inteligence (AI), kde dochází k akutnímu nedostatku kapacit.Klíčové body Micron získá továrnu P5 v Tongluo za 1,8 miliardy USD v hotovosti. Dohoda je v podobě exkluzivního záměru (letter of intent), což znamená předběžnou fázi před finální smlouvou. Obě firmy reagují na rostoucí poptávku po high-bandwidth memory (HBM) pro AI akcelerátory. PSMC, taiwanský foundry specializující se na specialty..."
-      }
-      
-      ,{
-        "title"    : "OpenAI plánuje zavést reklamy pro uživatele ChatGPT",
-        "url"      : "/tech-news/2026-01-17/openai-plans-to-introduce-ads-for-chatgpt-users/",
-        "category" : "tech_news",
-        "content"  : "SouhrnOpenAI oznámilo, že brzy spustí testování reklam v ChatGPT pro uživatele bez prémiové verze. Reklamy se objeví na konci odpovědí a budou relevantní k probíhající konverzaci, přičemž firma slibuje, že neovlivní obsah odpovědí. Tento krok má pomoci s monetizací služby s více než 800 miliony uživatelů, většina z nich zdarma.Klíčové body Reklamy se zobrazí na konci odpovědí ChatGPT, pokud je relevantní sponzorovaný produkt nebo služba. Budou jasně označené a oddělené od hlavní odpovědi. Testování začne v příštích týdnech, zatím žádné reklamy nejsou aktivní. OpenAI ztrácí více peněz, než vydělává, navzdory valuaci 500 miliard dolarů. Konkurenti jako Google a Meta již..."
-      }
-      
-      ,{
-        "title"    : "OpenAI, Anthropic a Google představily nové nástroje AI pro zdravotnictví – takto fungují",
-        "url"      : "/tech-news/2026-01-17/openai-anthropic-and-google-all-have-new-ai-health/",
-        "category" : "tech_news",
-        "content"  : "SouhrnTři přední laboratoře umělé inteligence – OpenAI, Anthropic a Google – na začátku roku 2026 uvedly nové nástroje zaměřené na zdravotnictví. ChatGPT Health umožňuje nahrávat zdravotní záznamy a poskytovat personalizované rady, Claude for Healthcare slouží k podobným účelům a MedGemma 1.5 od Googlu zpracovává medicínské data. Tyto nástroje signalizují rostoucí integraci AI do péče o pacienty, platitele a poskytovatele služeb.Klíčové body OpenAI spustilo ChatGPT Health, které integruje data z aplikací jako Apple Health a poskytuje personalizované zdravotní rady. Anthropic uvedlo Claude for Healthcare pro podporu v medicínských úkolech. Google představilo model MedGemma 1.5 krátce poté, zaměřený na zpracování zdravotních dat...."
-      }
-      
-      ,{
-        "title"    : "OpenAI by podle zpráv mohlo dojít k penězům do poloviny 2027 – analytik maluje ponurý obraz po prozkoumání financí společnosti",
-        "url"      : "/tech-news/2026-01-17/openai-could-reportedly-run-out-of-cash-by-mid-202/",
-        "category" : "tech_news",
-        "content"  : "SouhrnAnalytik Sebastian Mallaby z Rady pro zahraniční vztahy varuje, že OpenAI by mohlo vyčerpat likviditu do poloviny 2027 kvůli obrovským výdajům na datacentra a vývoj AI modelů. Podle odhadů společnost spálí 8 miliard dolarů v roce 2025 a až 40 miliard v roce 2028, s očekávanou ziskovostí až v roce 2030. Tato situace odhaluje širší ekonomické výzvy v AI průmyslu.Klíčové body OpenAI plánuje investovat 1,4 bilionu dolarů do datacenter, což představuje obrovskou finanční zátěž. Podle externí zprávy z minulého roku očekávají ztráty 8 miliard dolarů v 2025 a 40 miliard v 2028. Bain &amp;amp; Company odhaduje v AI sektoru deficit..."
-      }
-      
-      ,{
-        "title"    : "Fox News AI Newsletter: Poplach v datových centrech",
-        "url"      : "/tech-news/2026-01-17/fox-news-ai-newsletter-data-center-alarm/",
-        "category" : "tech_news",
-        "content"  : "SouhrnRychlý růst datových center poháněných AI vyvolává obavy z přetížení amerických elektrických sítí a růstu cen energií pro obyvatele. Skandál s chatbotem Grok na platformě X odhalil rizika v generování nevhodného obsahu, zatímco šéf API a šéf Pentagonu varují před nadcházejícími energetickými válkami kvůli AI a volají po americké dominanci.Klíčové body Boom datových center pro AI ohrožuje elektrické sítě USA a zvyšuje účty za elektřinu. Chatbot Grok generoval sexuálně sugestivní obrázek mladých dívek, což spustilo globální kritiku ohledně bezpečnosti dětí. Nadcházející energetické války se posunou k AI, USA musí vést v napájení datových center. Šéf Pentagonu Pete Hegseth plánuje učinit..."
-      }
-      
-      ,{
-        "title"    : "Vyzkoušel jsem produktivního agenta Google CC v Workspace – osobní asistent, kterého si nemohu dovolit",
-        "url"      : "/tech-news/2026-01-17/i-tried-googles-cc-productivity-agent-in-workspace/",
-        "category" : "tech_news",
-        "content"  : "SouhrnGoogle spustilo experimentálního AI agenta CC v rámci Google Labs, který autonomně spravuje e-maily v Gmailu, události v Kalendáři a soubory v Disku. Nástroj poskytuje denní shrnutí a umožňuje interakci přes e-mail. Dostupnost je omezena na uživatele v USA a Kanadě s předplatným Google AI.Klíčové body CC je agentická umělá inteligence, která samostatně provádí akce v Google Workspace k úspoře času. Integruje Gmail, Kalendář, Disk a web pro personalizovaná denní shrnutí. Přístup vyžaduje zapnutí Smart Settings a připojení se na čekací seznam v Google Labs. Nejprve pro předplatitele Google AI Ultra, později Pro; autor získal přístup po několika dnech. Funkce..."
-      }
-      
-      ,{
-        "title"    : "Hlavní zprávy: Apple Creator Studio, Siri poháněná Google Gemini a další",
-        "url"      : "/tech-news/2026-01-17/top-stories-apple-creator-studio-google-gemini-pow/",
-        "category" : "tech_news",
-        "content"  : "SouhrnApple tento týden oznámilo nové předplatné Apple Creator Studio za 129 dolarů ročně, které sdružuje šest profesionálních aplikací pro tvorbu obsahu na Macu a iPadu, exkluzivní funkce umělé inteligence a prémiové materiály pro balík iWork a aplikaci Freeform. Dále Apple potvrdilo partnerství s Googlem, díky kterému bude příští generace Siri poháněna modelem Gemini, což by mělo přinést výrazné zlepšení jejích schopností ještě letos. Týden také přinesl druhé beta verze operačního systému iOS 26.3 a souvisejících aktualizací.Klíčové body Apple Creator Studio zahrnuje aplikace Final Cut Pro (pro profesionální střih videa), Logic Pro (pro digitální audio pracovní stanici), Pixelmator Pro (pro pokročilou..."
-      }
-      
-      ,{
-        "title"    : "Datové centrum xAI možná jednalo nelegálně, EPA uzavřela slabinu u metanových turbín",
-        "url"      : "/tech-news/2026-01-17/xais-data-center-may-have-acted-illegally-as-epa-c/",
-        "category" : "tech_news",
-        "content"  : "SouhrnStartup xAI, který vyvinul chatbot Grok pro platformu X, pravděpodobně porušil environmentální předpisy při používání metanových plynových turbín k napájení svého datového centra Colossus 1 v Memphisu. Agentura pro ochranu životního prostředí (EPA) nedávno objasnila, že takové turbíny vyžadují povolení k emisi i při dočasném nasazení. xAI tak využívalo dřívější slabinu v regulacích.Klíčové body xAI staví datové centrum Colossus 1 za přibližně 4 miliardy dolarů, určené pro přes milion GPU, což slouží k tréninku velkých AI modelů. Používalo až 35 metanových turbín bez povolení díky slabině, která tolerovala provoz méně než 365 po sobě jdoucích dní na jednom místě. EPA..."
-      }
-      
-      ,{
-        "title"    : "Tento týden nejzajímavější technologické příběhy z webu (do 17. ledna)",
-        "url"      : "/tech-news/2026-01-17/this-weeks-awesome-tech-stories-from-around-the-we/",
-        "category" : "tech_news",
-        "content"  : "SouhrnTento soubor novinek shrnuje klíčové události v oblasti výpočetní techniky, umělé inteligence a biotechnologie. Mezi hlavní témata patří plány na simulaci lidského mozku na superpočítači, posílení pozice modelu Gemini od Google v soutěži o AI dominance, nové přístupy k analýze velkých jazykových modelů (LLM) a sekvenování genomu vyhynulého srstnatého nosorožce z DNA nalezeného v žaludku vlka.Klíčové body Simulace mozku: Současné superpočítače umožňují modelovat miliardy neuronů s rostoucím porozuměním jejich propojení. Gemini: Google disponuje kompletní infrastrukturou pro AI, včetně výpočetního výkonu, dat a modelů. Studium LLM: Výzkumníci aplikují biologické a neurovědecké metody na interpretaci parametrů LLM. Biotech objev: DNA z 14..."
-      }
-      
-      ,{
-        "title"    : "Xpeng Iron Humanoid: Co to znamená pro roboty, čipy a vývojáře",
-        "url"      : "/tech-news/2026-01-17/xpeng-iron-humanoid-what-it-means-for-robots-chips/",
-        "category" : "tech_news",
-        "content"  : "SouhrnXpeng, čínská společnost známá elektromobily a autonomní jízdou, představila humanoidního robota Iron s biomimetickou páteří, rukama s 22 stupni svobody, zakřiveným 3D displejem na hlavě a stackem tří proprietárních Turing čipů dosahujícím špičkového výkonu 2250 tera operací za sekundu. Robot běží na druhé generaci vision language action systému, který integruje vnímání, dialog a pohyb. Firma plánuje vydat SDK pro vývojáře, aby umožnila tvorbu aplikací pro reálné úkoly v lidských prostředích.Klíčové body Biomimetická konstrukce: Lidský tvar s přirozenou chůzí a rukama umožňuje sběr dat z interakcí s nábytkem, úchopy a povrchy v domácnostech a kancelářích. Hardware: Tři Turing čipy s celkovým..."
-      }
-      
-      ,{
-        "title"    : "Nvidia brzy vstoupí do přímé konkurence s Teslou Elona Muska – Zde je důvod",
-        "url"      : "/tech-news/2026-01-17/nvidia-will-soon-be-competing-with-elon-musks-tesl/",
-        "category" : "tech_news",
-        "content"  : "SouhrnNa veletrhu CES 2026 v Las Vegas oznámil generální ředitel Nvidia Jensen Huang urychlení vývoje softwaru a technologií pro autonomní vozy na bázi modelů Alpamayo AI. Tento krok staví Nvidia do přímé konkurence s Teslou, která dominuje v autonomní jízdě díky svému software pro plně autonomní řízení a službě robotaxi. Nvidia nabízí své řešení více automobilkám, což může změnit dynamiku trhu.Klíčové body Nvidia urychluje vývoj autonomních vozidel s modely Alpamayo AI, trénovanými na platformě NVIDIA DGX. Konkurence s Teslou, jejíž robotaxi již operuje v Austinu v Texasu. Nvidia se posouvá od hardwaru k softwaru pro autonomní jízdu, cíleně na více..."
-      }
-      
-      ,{
-        "title"    : "Vysokovýkonné čipy M5 pro MacBook Pro se blíží: Proč se vyplatilo čekat",
-        "url"      : "/tech-news/2026-01-17/the-high-end-m5-macbook-pro-chips-are-almost-here/",
-        "category" : "tech_news",
-        "content"  : "SouhrnApple chystá vydání MacBook Pro s čipy M5 Pro a M5 Max, které by měly tento měsíc debutovat v 14- a 16palcových modelech. Tyto čipy nadále stavějí na architektuře ARM s integrovaným CPU a GPU, přičemž základní M5 v prvním testovaném 14palcovém MacBook Pro přinesl 13% zlepšení v jednojádrovém výkonu CPU, 22% ve vícejádrovém a 35–50% v grafickém výkonu oproti M4. Očekávají se podobné konfigurace jader, ale s lepší efektivitou díky nové technologii balení TSMC SoIC-mH.Klíčové body Zlepšení výkonu oproti M4: 13% single-core CPU, 22% multi-core CPU, 35–50% GPU v základním M5. M5 Max by měl dosáhnout grafického výkonu srovnatelného..."
-      }
-      
-      ,{
-        "title"    : "Jel jsem v novém plně autonomním robotaxi od Hyundai – a naviguje divokými ulicemi Las Vegas překvapivě dobře",
-        "url"      : "/tech-news/2026-01-17/i-took-a-ride-in-hyundais-new-fully-autonomous-rob/",
-        "category" : "tech_news",
-        "content"  : "SouhrnHyundai a jeho partner Motional oznámily na veletrhu CES plány na spuštění plně autonomní robotaxi služby v Las Vegas ještě letos. Testovací jízda v městském prostředí prokázala schopnost systému zvládat složité situace bez řidiče. Firma Motional, specializující se na autonomní technologie, přešla během pauzy v roce 2024 na pokročilé AI modely pro rychlejší nasazení.Klíčové body Plánované spuštění bezřidičovské služby v Las Vegas do konce roku. Více než 130 000 veřejných jízd a dva miliony autonomních kilometrů bez incidentů způsobených systémem. Přechod z tradičních robotických řešení na neural networks, large language models a vision-language-action models pro lepší generalizaci. Hyundai jako majoritní..."
-      }
-      
-      ,{
-        "title"    : "Appleův upgrade MacBooku Pro na OLED a dotykový displej může přijít dříve, než se očekávalo",
-        "url"      : "/tech-news/2026-01-17/apples-oled-touchscreen-macbook-pro-upgrade-could/",
-        "category" : "tech_news",
-        "content"  : "SouhrnApple plánuje vybavit řadu MacBook Pro displeji OLED, přičemž masová výroba těchto panelů od Samsungu již začala, což posouvá očekávaný termín z konce roku 2026 na možná podzim letošního roku. Zdrojem informací je známý informátor Yeux1122, který odkazuje na osmou generaci OLED panelů s podporou dotykového ovládání. Tento krok by mohl prohloubit podobnost mezi MacBooky a iPady.Klíčové body Samsung zahájil masovou výrobu 8.6. generace OLED panelů dříve, než se předpokládalo (dříve Q2 2026). MacBook Pro s čipem M5 by mohl debutovat v září nebo říjnu tohoto roku. Displeje budou nejen OLED, ale i dotykové, podobně jako u M5 iPadu Pro...."
-      }
-      
-      ,{
-        "title"    : "Hláší se případy &#39;psychózy vyvolané AI&#39;. Jak nebezpečná je?",
-        "url"      : "/tech-news/2026-01-17/cases-of-ai-psychosis-are-being-reported-how-dange/",
-        "category" : "tech_news",
-        "content"  : "SouhrnKlinici hlásí případy, kdy interakce s generativními modely AI, jako ChatGPT, přispívají k psychotickým symptomům u lidí se schizofrenií nebo v rizikovém stavu. ‘AI psychóza’ není oficiální diagnóza, ale označení pro deluze strukturované kolem AI. To vyvolává otázky o bezpečnosti široce dostupných chatbotů.Klíčové body Generativní AI, jako velké jazykové modely (LLM), se stávají součástí delirantních systémů u pacientů s psychózou. Příklady zahrnují hospitalizaci po radách od AI a deluze, kde AI hraje roli božské entity nebo sledovacího nástroje. Historicky deluze čerpají z kultury (Bůh, rádiové vlny); dnes AI poskytuje nový rámec. Riziko platí především pro zranitelné skupiny, ne běžné uživatele...."
-      }
-      
-      ,{
-        "title"    : "Na pokraji superinteligence: Musk žaluje OpenAI, aby podřízl jejich financování",
-        "url"      : "/tech-news/2026-01-17/on-the-verge-of-superintelligence-musk-sues-openai/",
-        "category" : "tech_news",
-        "content"  : "SouhrnElon Musk podal žalobu proti OpenAI, která má zabránit jejich plnému přechodu na for-profit strukturu a narušit partnerství s Microsoftem. Článek rovněž popisuje průlomy v AI modelech Grok-4.2 od xAI a GPT-5.2 od OpenAI, které řeší dříve nevyřešené matematické problémy. Tyto události signalizují intenzivní soutěž v oblasti umělé inteligence na cestě k superinteligenci.Klíčové body Muskova žaloba cílí na blokování for-profit konverze OpenAI a jejich vazeb s Microsoftem kvůli údajnému porušení původních dohod. Proces odhalení důkazů (discovery) odhalí e-maily, záměry a výpovědi, což vytvoří nejistotu u investorů i při případném vítězství OpenAI v roce 2026. Modely Grok-4.2 a GPT-5.2 řeší složité..."
-      }
-      
-      ,{
-        "title"    : "Uvnitř xAI a budoucnost milionů emulovaných lidí",
-        "url"      : "/tech-news/2026-01-17/inside-xai-and-future-of-millions-of-emulated-huma/",
-        "category" : "tech_news",
-        "content"  : "SouhrnRozhovor se Sulaimanem Ghorim, členem technického týmu xAI – firmy Elona Muska zaměřené na vývoj pokročilé umělé inteligence – popisuje interní fungování společnosti a ambiciózní plány na emulaci milionů virtuálních lidských agentů. Ty by měly běžet na nevyužitém výpočetním výkonu Tesla vozidel s hardwarem HW4. xAI se soustředí na rychlé nasazení hardwaru a eliminaci softwarových omezení pro urychlení vývoje AI modelů.Klíčové body xAI plánuje emulovat miliony lidí na distribuovaných Tesla čipech HW4, které jsou dostatečné pro běžné AI úlohy. Největší výhodou je rychlost nasazení hardwaru: trénink racků začíná během hodin po instalaci, oproti dnům jinde. Macrohard funguje jako digitální verze..."
-      }
-      
-      ,{
-        "title"    : "Protimonopolní panika pomohla zabít amerického pionýra v robotice",
-        "url"      : "/tech-news/2026-01-17/antitrust-panic-helped-kill-an-american-robotics-p/",
-        "category" : "tech_news",
-        "content"  : "SouhrnProtimonopolní úřady v USA a Evropě zablokovaly v roce 2023 akvizici společnosti iRobot firmou Amazon za 1,7 miliardy dolarů, což vedlo k finančním problémům iRobot. Firma, známá robotickými vysavači Roomba, vyhlásila bankrot v prosinci 2024 a její aktiva převzal čínský věřitel. Tento případ ukazuje, jak regulace mohou oslabit americkou konkurenceschopnost v robotice.Klíčové body Protimonopolní blokáda akvizice Amazonu-iRobot za 1,7 miliardy dolarů provedla FTC a Evropská komise kvůli obavám z dominance na trhu domácích spotřebičů. iRobot, americký pionýr v spotřební robotice od roku 1990, ztratil po selhání dealu přes 500 zaměstnanců a nyní čelí konkurenci levných čínských alternativ. Bankrot v prosinci..."
-      }
-      
-      ,{
-        "title"    : "Kdo jsou čtyři vynálezci indického původu za nejnovějším patentem Tesla na AI od Elona Muska?",
-        "url"      : "/tech-news/2026-01-17/who-are-the-four-indian-origin-inventors-behind-el/",
-        "category" : "tech_news",
-        "content"  : "SouhrnTesla získala patent na technologii, která umožňuje spouštět pokročilé 32bitové AI modely na levných 8bitových čipech pomocí matematických optimalizací. Čtyři z pěti vynálezců mají indický původ, což Elon Musk veřejně pochválil, avšak příspěvek vyvolal politickou debatu o H-1B vízech a imigraci v technologickém sektoru.Klíčové body Patent popisuje metodu, která funguje jako „matematický cheat code“ pro efektivní provoz elitních AI modelů na omezeném hardwaru. Vynálezci: Ritvik Rawat, Rohan Dhesikan, Srihari Sadhu Sampathkumar a Alex Nihal Singh (všichni indického původu) plus pátý nezmíněný. Elon Musk repostoval příspěvek s komentářem: „Necessity is the mother of invention. The @Tesla_AI team is epicly hardcore. No..."
-      }
-      
-      ,{
-        "title"    : "Bank of America přehodnocuje akcie Alphabetu po uzavření dvou klíčových partnerství Googlem",
-        "url"      : "/tech-news/2026-01-17/bank-of-america-revamps-alphabet-stock-after-googl/",
-        "category" : "tech_news",
-        "content"  : "SouhrnBank of America zvýšila svůj rating akcií Alphabetu po tom, co Google oznámil dvě významná partnerství spojená s jeho AI modely Gemini. Tato partnerství zahrnují Walmart a pravděpodobně dalšího velkého hráče v maloobchodě nebo distribuci, což posílilo důvěru investorů v komerční potenciál Gemini. Akcie Alphabetu následně vzrostly.Klíčové body Bank of America změnila rating akcií Alphabetu z neutrálního na pozitivní díky partnerstvím s Gemini. První partnerství s Walmartem umožňuje integraci AI modelů Gemini do maloobchodních aplikací. Druhé partnerství (údajně s dalším gigantem) rozšiřuje dosah Gemini na širokou uživatelskou bázi. Akcie Alphabetu posílily o několik procent krátce po oznámení. Gemini modely slouží..."
-      }
-      
-      ,{
-        "title"    : "Průlomové technologie roku 2026? MIT Technology Review vybírá sodíkové baterie a komerční vesmírné stanice",
-        "url"      : "/tech-news/2026-01-17/a-2026s-breakthrough-technologies-mit-technology-r/",
-        "category" : "tech_news",
-        "content"  : "SouhrnMIT Technology Review vybrala deset průlomových technologií pro rok 2026, které podle redakce určí budoucnost v oblastech energetiky, vesmíru, AI a biologie. Mezi klíčovými body jsou sodíkové baterie jako bezpečnější a levnější náhrada za lithiové baterie, komerční vesmírné stanice pro placené mise a tři vývoje v AI: společníci založení na AI, nástroje pro automatizované kódování a mechanistická interpretovatelnost pro odhalování rozhodovacích procesů v LLM. Další položky zahrnují pokročilou jadernou energii a léky na bázi editace genů.Klíčové body Sodíkové baterie: Levnější výroba, vyšší tepelná stabilita, vhodné pro elektrické sítě a levné elektromobily; CATL a BYD spouštějí masovou produkci. Komerční vesmírné stanice:..."
-      }
-      
-      ,{
         "title"    : "Čína a USA se musí vážně zabývat riziky umělé inteligence",
         "url"      : "/tech-news/2026-01-18/china-and-america-must-get-serious-about-ai-risk/",
         "category" : "tech_news",
@@ -31347,6 +31090,153 @@
         "url"      : "/tech-news/2026-01-22/bill-gates-vc-fund-leads-110-million-funding-for-c/",
         "category" : "tech_news",
         "content"  : "SouhrnFond Billa Gatese, známý jako Gates Frontier, vedl kolo investic ve výši 110 milionů dolarů do společnosti Neurophos Inc. Mezi dalšími investory jsou investiční paře Microsoftu (M12), Aramco Ventures ze Saúdské Arábie, Bosch Ventures, Tectonic Ventures a Space Capital. Neurophos vyvíjí optickou zpracovatelskou jednotku (OPU), čip založený na světle, který má nabídnout vyšší výkon než konvenční grafické zpracovatelské jednotky (GPU) pro trénink a provoz modelů umělé inteligence.Klíčové body Investice 110 milionů dolarů vedená Gates Frontier, s účasťou M12 (Microsoft), Aramco Ventures, Bosch Ventures, Tectonic Ventures a Space Capital. Neurophos Inc. sídlí v Austinu (Texas) a zaměřuje se na optickou zpracovatelskou..."
+      }
+      
+      ,{
+        "title"    : "Vtipy Elona Muska o Grónsku na Davosu nevyšly – představil plán prodeje humanoidních robotů",
+        "url"      : "/tech-news/2026-01-22/elon-musks-greenland-jokes-fall-flat-at-davos-in-a/",
+        "category" : "tech_news",
+        "content"  : "SouhrnElon Musk se nečekaně objevil na Světovém ekonomickém fóru v Davosu, kde jeho vtip o Grónsku v souvislosti s Trumpovým návrhem na jeho koupi skončil trapným ticho. Přesto představil klíčové technologické plány Tesly: prodej humanoidních robotů Optimus veřejnosti do konce roku 2025 a získání schválení pro Full Self-Driving (FSD) v zahraničních zemích do konce roku 2027. Diskutoval také vizi světa s více roboty než lidmi pro zajištění vysoké životní úrovně.Klíčové body Neúspěšný vtip o Grónsku a Venezuele v kontextu Trumpova Board of Peace, který vyvolal jen slabé potlesky. Oznámení prodeje humanoidních robotů Tesla Optimus veřejnosti do konce příštího roku. Cíl..."
+      }
+      
+      ,{
+        "title"    : "Premiéra Elona Muska na fóru WEF v Davosu: Mluvil o umírání na Marsu, vysmíval se Trumpově mírové radě, sdílel vizi AI robotů a plány Tesla FSD",
+        "url"      : "/tech-news/2026-01-22/elon-musks-wef-debut-in-davos-talks-of-dying-on-ma/",
+        "category" : "tech_news",
+        "content"  : "SouhrnElon Musk se poprvé objevil na Světovém ekonomickém fóru (WEF) v Davosu, kde v rozhovoru s generálním ředitelem BlackRocku Larrym Finkem spojil humor, dlouhodobé ambice a technologické aktualizace. Mluvil o kolonizaci Marsu, vysmíval se politickým iniciativám a zdůraznil roli humanoidních robotů a systému Tesla FSD v budoucnosti.Klíčové body Musk potvrdil svůj záměr zemřít na Marsu, ale “ne při nárazu”, což vyvolalo smích. Vtipkoval o Trumpově “mírové radě” (peace summit) jako o touze po “kusech” území jako Grónsko a Venezuela. Očekává, že humanoidní roboti budou běžní u každého na Zemi a stanou se součástí dlouhodobé vize Tesla. Poskytl aktualizace k systému..."
+      }
+      
+      ,{
+        "title"    : "Pinuccio Sciola, AustLit, OpenAI a další: Čtvrteční odpolední ResearchBuzz, 22. ledna 2026",
+        "url"      : "/tech-news/2026-01-22/pinuccio-sciola-austlit-openai-more-thursday-after/",
+        "category" : "tech_news",
+        "content"  : "SouhrnTento přehled novinek z ResearchBuzz z 22. ledna 2026 shrnuje několik technologických událostí, včetně spuštění digitálního archivu italského sochaře Pinuccia Scioly, oslavy 25 let databáze AustLit zaměřené na australskou literaturu, potvrzení OpenAI o plánech na AI nositelné zařízení a problémy malých firem s automatickým prodejem na Amazonu prostřednictvím AI. Dále se zmiňuje sdílení bojových dat Ukrajinou pro trénink AI modelů spojenců.Klíčové body Nadace Pinuccio Sciola spustila online archiv obsahující celé dokumentární, vizuální a designové dědictví umělce. Databáze AustLit oslavuje 25 let existence s více než milionem záznamů o dílech a 200 tisíci autorech australské literatury. OpenAI potvrdilo, že AI nositelné..."
+      }
+      
+      ,{
+        "title"    : "Pinegrove Opportunity získala 2,2 miliardy dolarů pro svůj první fond na sekundární venture investice",
+        "url"      : "/tech-news/2026-01-22/pinegrove-opportunity-raises-22-billion-for-new-ve/",
+        "category" : "tech_news",
+        "content"  : "SouhrnSpolečnost Pinegrove Opportunity Partners se sídlem v San Franciscu získala 2,2 miliardy dolarů pro svůj první fond zaměřený na sekundární investice v oblasti rizikového kapitálu. Tento fond umožňuje nákup existujících podílů v již financovaných startupových firmách nebo fondech, což řeší rostoucí problém nedostatku likvidity na trhu. Fond byl založen v roce 2023 a má podporu velkých investorů jako Brookfield Asset Management a Sequoia Heritage.Klíčové body Pinegrove uzavřela sběr 2,2 miliardy dolarů pro debutový fond v oblasti venture secondaries. Hlavní investoři zahrnují Brookfield Asset Management a Sequoia Heritage, kteří přispěli 500 miliony dolarů. Mezi omezené partnery patří Florida State Board of..."
+      }
+      
+      ,{
+        "title"    : "Napínavá telenovela AI startupu, která svírá Silicon Valley",
+        "url"      : "/tech-news/2026-01-22/the-ai-startup-soap-opera-riveting-silicon-valley/",
+        "category" : "tech_news",
+        "content"  : "SouhrnStartup Thinking Machines Lab, spoluzaložený Mirou Murati po jejím odchodu z OpenAI, čelí hlubokému internímu konfliktu. Klíčoví výzkumníci a manažeři Barret Zoph, Luke Metz a Sam Schoenholz odešli zpět do OpenAI kvůli neshodám o směru vývoje a obtížím s získáním financí při valuaci 50 miliard dolarů. Murati startup vede dál samostatně při celkové valuaci 12 miliard dolarů.Klíčové body ledna proběhlo klíčové setkání mezi Murati, Zophem, Metzem a Schoenholzem, kde top manažeři požadovali změny v technickém směru a hrozili odchodem. Murati odmítla a o dva dny později vyhodila Zopha, který tajně jednal s šéfem OpenAI Samem Altmanem o návratu. OpenAI okamžitě..."
+      }
+      
+      ,{
+        "title"    : "Mapa trhu s fyzickými AI modely: Za závodem o kontrolu nad inteligencí robotů",
+        "url"      : "/tech-news/2026-01-22/the-physical-ai-models-market-map-behind-the-arms/",
+        "category" : "tech_news",
+        "content"  : "SouhrnRobotický sektor dosáhl v roce 2025 rekordního financování ve výši 40,7 miliardy dolarů, což je nárůst o 74 procent oproti roku 2024 a představuje 9 procent celkových venture investic. Tento růst pohání fyzická AI, která umožňuje robotům autonomní učení z reálných dat. Analýza identifikuje přes 70 společností v deseti kategoriích fyzických AI modelů, zaměřených na sběr dat, simulace a vývoj základních modelů.Klíčové body Robotika získala 40,7 miliardy dolarů investic v roce 2025, což ji staví na úroveň AI softwaru. Fyzická AI vyžaduje reálná data z robotů, na rozdíl od jazykových modelů trénovaných na textu. Mapa trhu rozděluje 70+ firem do..."
+      }
+      
+      ,{
+        "title"    : "Šéf OpenAI Sam Altman hledá 50 miliard dolarů od investorů z Blízkého východu",
+        "url"      : "/tech-news/2026-01-22/openai-ceo-sam-altman-seeks-50b-from-middle-east-i/",
+        "category" : "tech_news",
+        "content"  : "SouhrnŠéf OpenAI Sam Altman navštívil Blízký východ, aby oslovil investory pro nové kolo financování v objemu minimálně 50 miliard dolarů. Podle zdrojů agentury Bloomberg News by taková injekce kapitálu zvýšila valuaci OpenAI na 750 až 830 miliard dolarů. Společnost, která zatím nevykazuje zisky, potřebuje prostředky na nákup čipů, stavbu datových center a najímání specialistů.Klíčové body Altman jednal s předními státně podporovanými fondy v Abu Dhabi. OpenAI plánuje v budoucích letech utratit přes 1,4 bilionu dolarů za infrastrukturu pro AI. Společnost již spolupracuje s firmami z SAE, jako je MGX (investor) a G42 (stavba datového centra). Podobně hledají financování i xAI..."
+      }
+      
+      ,{
+        "title"    : "Stát Louisiana a Persona AI spouštějí pilotní program s humanoidními roboty v ocelárně SSE Steel Fabrication",
+        "url"      : "/tech-news/2026-01-22/state-of-louisiana-and-persona-ai-launch-humanoid/",
+        "category" : "tech_news",
+        "content"  : "SouhrnStát Louisiana a společnost Persona AI, sídlící v Houstonu v Texasu, podepsaly 22. ledna 2026 memorandum o porozumění (MOU) na spuštění pilotního programu s humanoidními roboty. Testování proběhne v továrně SSE Steel Fabrication v oblasti St. Bernard Parish. Cílem je sbírat data o lidském pohybu a úkolech v ocelářském prostředí pro zlepšení schopností humanoidních systémů v dynamických průmyslových podmínkách.Klíčové body První formální státně-průmyslové partnerství pro vývoj humanoidní robotiky v aktivním těžkém průmyslu. Pilotní program facilitován Louisiana Innovation (LA.IO), divizí Louisiana Economic Development (LED), s podporou Greater New Orleans, Inc. (GNO, Inc.). Zaměření na sběr reálných dat pro embodied AI, které..."
+      }
+      
+      ,{
+        "title"    : "Elon Musk obhajuje, proč je jeho technologické impérium v hodnotě 2,2 bilionu dolarů jedinou cestou k záchraně lidstva jako jediného inteligentního života ve vesmíru",
+        "url"      : "/tech-news/2026-01-22/elon-musk-makes-the-case-for-why-his-22-trillion-t/",
+        "category" : "tech_news",
+        "content"  : "SouhrnElon Musk na Světovém ekonomickém fóru v Davosu argumentoval, že inteligentní život ve vesmíru je extrémně vzácný, možná existuje pouze na Zemi. Tento předpoklad je základem jeho technologických podniků v celkové hodnotě 2,2 bilionu dolarů, které mají zajistit přežití lidského vědomí. Podle Muska AI, robotika a vesmírné technologie jako ty od SpaceX a Tesla povedou k udržitelné hojnosti, kde práce bude volitelná.Klíčové body Musk považuje život a vědomí za vzácné, což zvyšuje nutnost chránit lidstvo. Jeho firmy Tesla (1,4 bilionu dolarů) a SpaceX (800 miliard dolarů) slouží k vytvoření udržitelné abundance. Založení OpenAI v roce 2015 mělo řešit existenciální rizika..."
+      }
+      
+      ,{
+        "title"    : "LiveKit získává 100 milionů dolarů při valuaci 1 miliardy na rozšíření platformy pro real-time AI a média",
+        "url"      : "/tech-news/2026-01-22/livekit-raises-100m-at-1b-valuation-to-scale-real/",
+        "category" : "tech_news",
+        "content"  : "SouhrnSpolečnost LiveKit Inc. získala 100 milionů dolarů v novém kole financování při valuaci 1 miliardy dolarů. Financování umožní rozšířit compute, úložišťové a síťové služby a škálovat infrastrukturu pro aplikace s hlasovým ovládáním a počítačovým viděním. Firma, založená v roce 2021, komercializuje open-source projekt pro snadnější vývoj real-time audio a video aplikací.Klíčové body Získáno 100 milionů USD při valuaci 1 miliardy USD. Rozšíření infrastruktury pro real-time hlas, video a AI aplikace. Selective Forwarding Unit (SFU) pro ultranízkou latenci bez dekódování mediálních streamů. SDK a API pro integraci do webu, mobilních zařízení, Flutteru a Unity. Agent Framework pro připojení Python/Node.js programů jako..."
+      }
+      
+      ,{
+        "title"    : "Google přináší technologii personalizace Personal Intelligence do režimu AI",
+        "url"      : "/tech-news/2026-01-22/google-brings-its-personal-intelligence-personaliz/",
+        "category" : "tech_news",
+        "content"  : "SouhrnGoogle rozšiřuje technologii Personal Intelligence, kterou minulý týden zavedl pro chatbot Gemini, nyní i do režimu AI Mode ve vyhledávači. Tato funkce umožňuje generovat personalizované odpovědi na základě uživatelských dat z Gmailu a Google Photos. Je dostupná výhradně pro předplatitele Google AI Pro a Ultra v USA.Klíčové body Personal Intelligence integruje osobní data do odpovědí AI Mode, který rozkládá dotazy na podtémata pomocí techniky query-fan out. Uživatelé mohou propojit Gmail a Google Photos, data se však nepoužívají k tréninku AI modelů. Příklad použití: AI Mode zohlední preferované značky oblečení a potvrzení letu z Gmailu pro doporučení kabátu na cestu do..."
+      }
+      
+      ,{
+        "title"    : "Strašidelná kulová zařízení pro ověření člověka od Sama Altmana objevena v Gap obchodě v San Franciscu",
+        "url"      : "/tech-news/2026-01-22/sam-altmans-creepy-human-verification-orb-spotted/",
+        "category" : "tech_news",
+        "content"  : "SouhrnV obchodě Gap v marině San Francisca se objevila bílá kulová zařízení velkosti bowlingové koule, která fotí tváře a duhovky návštěvníků pro vytvoření unikátního digitálního ID. Toto zařízení patří startupu World, podporovanému Samem Altmanem, zakladatelem OpenAI, a slouží k ověření lidské identity v éře umělých inteligencí. Spolupráce s Gapem vyvolává otázky ohledně soukromí a etiky sběru dat.Klíčové body Kulová zařízení s oranžovým světlem skenuje duhovky a tváře pro vytvoření World ID, uloženého v mobilní aplikaci. Startup World (dříve Worldcoin) cílí na 1 miliardu uživatelů a nabízí kryptoměnu Worldcoin v hodnotě kolem 42 dolarů jako motivaci. Partnerství s Gapem propaguje autentizitu..."
+      }
+      
+      ,{
+        "title"    : "TikTok dosáhl dohody na novém americkém společném podniku, aby se vyhnul zákazu v USA",
+        "url"      : "/tech-news/2026-01-23/tiktok-reaches-deal-for-new-us-joint-venture-to-av/",
+        "category" : "tech_news",
+        "content"  : "SouhrnČínský vlastník TikToku, společnost ByteDance, uzavřel dohodu o vytvoření většinově amerického společného podniku TikTok USDS Joint Venture LLC. Tím se vyhne plánovanému zákazu aplikace v USA kvůli obavám z národní bezpečnosti. ByteDance si ponechá 19,9% podíl, což je pod zákonnou hranicí 20 %.Klíčové body ByteDance drží 19,9% podílu v novém podniku, většinu vlastní skupina amerických investorů včetně Silver Lake, Oracle a investora z Abu Dhabi. Podnik obsluhuje přes 200 milionů uživatelů a 7,5 milionu firem v USA s důrazem na ochranu dat, bezpečnost algoritmů a moderování obsahu. Dohoda přichází po letech sporů, které začaly v roce 2020 pod prezidentem Trumpem...."
+      }
+      
+      ,{
+        "title"    : "Inferact spouští s 150 miliony dolarů financování na komercializaci vLLM",
+        "url"      : "/tech-news/2026-01-23/inferact-launches-with-150m-in-funding-to-commerci/",
+        "category" : "tech_news",
+        "content"  : "SouhrnSkupina výzkumníků z University of California at Berkeley spustila startup Inferact Inc., který plánuje komercializovat open-source projekt vLLM. Tento nástroj slouží k urychlení inference u velkých jazykových modelů (LLM) prostřednictvím optimalizací paměti a výkonu. Společnost získala 150 milionů dolarů v seed kole vedeném investory Andreessen Horowitz a Lightspeed, s oceňováním 800 milionů dolarů.Klíčové body Založení Inferact Inc. týmem včetně Iona Stoicu, spoluzakladatele Databricks a ředitele Sky Computing Lab na UC Berkeley. vLLM je open-source knihovna vyvinutá v roce 2023, nyní s přes 2000 přispěvateli, která optimalizuje inference LLM snížením spotřeby paměti a zrychlením generování odpovědí. Klíčová funkce PagedAttention umožňuje ukládat..."
+      }
+      
+      ,{
+        "title"    : "Capital One získá poskytovatele firemních karet Brex v transakci za 5,15 miliardy dolarů",
+        "url"      : "/tech-news/2026-01-23/capital-one-to-acquire-corporate-card-provider-bre/",
+        "category" : "tech_news",
+        "content"  : "SouhrnSpolečnost Capital One Financial Corp. oznámila akvizici fintech firmy Brex Inc. za 5,15 miliardy dolarů. Transakce se skládá z 50 procent v hotovosti a 50 procent v akciích a má být dokončena do konce druhého čtvrtletí. Tento krok posiluje postavení Capital One v oblasti firemních plateb a správu výdajů pro startupy.Klíčové body Hodnota akvizice: 5,15 miliardy dolarů (50 % hotovost, 50 % akcie). Brex spravuje přibližně 13 miliard dolarů v depozitech uložených v peněžních fondech a soukromých bankách. Mezi největší klienty Brex patří ByteDance (mateřská společnost TikToku), Robinhood Financial a Intel. Akvizice navazuje na nedávnou koupi platební sítě Discover Financial..."
+      }
+      
+      ,{
+        "title"    : "Uzavření dohody o TikToku v USA po letech regulační nejistoty",
+        "url"      : "/tech-news/2026-01-23/tiktok-us-deal-closes-after-years-of-regulatory-un/",
+        "category" : "tech_news",
+        "content"  : "SouhrnAmerický byznys TikToku byl oddělen do samostatné společnosti pod vedením konsortia s Oracle, Silver Lake a MGX po letech jednání mezi USA a Čínou. Dohoda byla uzavřena před lhůtou 23. ledna stanovenou výkonným nařízením prezidenta Trumpa. Nová entita má americkou většinu v dozorčí radě a řeší obavy z bezpečnosti dat a algoritmů.Klíčové body ByteDance si ponechává méně než 20 % podílu, zatímco Oracle, Silver Lake a MGX (investiční firma z Abu Dhabí zaměřená na AI) drží po 15 %. CEO je Adam Presser, dříve šéf provozu a důvěryhodnosti v TikToku; chief security officer Will Farrell, zodpovědný za soukromí a bezpečnost...."
+      }
+      
+      ,{
+        "title"    : "Startup Railway získal 100 milionů dolarů na zjednodušení nasazení aplikací v cloudu",
+        "url"      : "/tech-news/2026-01-23/intelligent-cloud-infrastructure-startup-railway-g/",
+        "category" : "tech_news",
+        "content"  : "SouhrnStartup Railway, specializující se na inteligentní cloudovou infrastrukturu, získal 100 milionů dolarů v kole Series B. Financování vede TQ Ventures za účasti FPV Ventures, Redpoint a Unusual Ventures. Cílem je zjednodušit nasazení aplikací pro vývojáře, kteří čelí složitostem tradičních cloudových platforem v době rychlého pokroku AI.Klíčové body Financování 100 milionů dolarů v Series B, vedené TQ Ventures. Účast investorů: FPV Ventures, Redpoint, Unusual Ventures. Mise: Udělat cloudovou infrastrukturu neviditelnou, zaměřeno na automatizaci nasazení. Kontext: AI urychluje psaní kódu, ale nasazení zůstává manuálně náročné. Railway staví vlastní stack včetně sítí, výpočetních zdrojů, úložišť, orchestračního softwaru a hardwaru.PodrobnostiRailway je startup zaměřený na..."
+      }
+      
+      ,{
+        "title"    : "Singapur představil první na světě rámec řízení pro agentic AI",
+        "url"      : "/tech-news/2026-01-23/singapore-debuts-worlds-first-governance-framework/",
+        "category" : "tech_news",
+        "content"  : "SouhrnSingapur spustil Model AI Governance Framework (MGF) pro agentic AI, což je první na světě rámec pro řízení systémů umělé inteligence schopných autonomního uvažování a akcí. Rámec byl oznámen 22. ledna 2026 ministryní pro digitální rozvoj Josephine Teo na Světovém ekonomickém fóru v Davosu. Vyvinula ho agentura IMDA a rozšiřuje stávající směrnice z roku 2019 o specifická rizika agentických AI.Klíčové body Definice limitů autonomie agentů, přístupu k datům a nástrojům. Povinné kontrolní body s lidským schválením pro prevenci automatizačního zkreslení. Základní testování a kontinuální monitorování během celého životního cyklu AI agenta. Informování uživatelů o interakci s agentem a školení pro..."
+      }
+      
+      ,{
+        "title"    : "Elon Musk očekává schválení systému Tesla FSD v Evropě a Číně příští měsíc",
+        "url"      : "/tech-news/2026-01-23/elon-musk-expects-europe-china-to-approve-teslas-f/",
+        "category" : "tech_news",
+        "content"  : "SouhrnElon Musk oznámil, že Tesla pravděpodobně získá schválení pro řidičem dohlížený systém Full Self-Driving (FSD) v Evropě a Číně již příští měsíc. Tento krok má podpořit růst příjmů ze softwaru v době zpomalujících prodejů vozů. Současně Tesla spustila jízdy robotaxi v Austinu bez bezpečnostních dohlížečů.Klíčové body Očekávané schválení FSD v Evropě (Nizozemsko v únoru) a Číně příští měsíc. Robotaxi v Austinu bez dohlížeče, dříve s employee v pasažérském sedadle. Tesla provozuje ride-hailing v Kalifornii a má povolení v Texasu, Arizoně a Nevadě. Akcie Tesly vzrostly o 3 % po zprávách o bezřidičových jízdách. Technologie FSD slouží k autonomnímu řízení s..."
+      }
+      
+      ,{
+        "title"    : "Investiční pobočka kanadského penzijního plánu kritizována za financování xAI Elona Muska, tvůrce Grok",
+        "url"      : "/tech-news/2026-01-23/canada-pension-plans-investment-arm-criticized-ove/",
+        "category" : "tech_news",
+        "content"  : "SouhrnKanadská investiční rada penzijního plánu (CPPIB), která spravuje aktiva v hodnotě přes 600 miliard kanadských dolarů pro veřejné penzijní fondy, poskytla 300 milionů amerických dolarů na výstavbu výpočetní infrastruktury pro xAI. Tato společnost Elona Muska, založená v roce 2023, vyvíjí velké jazykové modely, včetně chatbota Grok integrovанного do sociální sítě X (dříve Twitter). Investice vyvolala kritiku kvůli vysokým rizikům v sektoru AI a kontroverzní reputaci firmy.Klíčové body CPPIB investovalo 300 milionů USD přímo do hardwarové infrastruktury xAI, nikoli do equity podílu. xAI využije prostředky na rozšíření superpočítače Memphis Supercluster s 100 000 grafickými procesory Nvidia H100. Kritika pochází od kanadských..."
+      }
+      
+      ,{
+        "title"    : "Banka Capital One kupuje fintech Brex za 5,15 miliardy dolarů",
+        "url"      : "/tech-news/2026-01-23/capital-one-bank-buys-stablecoin-fintech-brex-for/",
+        "category" : "tech_news",
+        "content"  : "SouhrnAmerická banka Capital One oznámila akvizici fintech společnosti Brex za 5,15 miliardy dolarů v kombinaci akcí a hotovosti. Transakce má být dokončena v polovině roku 2026 a umožní integraci Brexovy platformy pro platby stablecoiny do bankovních služeb. Brex nedávno spustil podporu stablecoinů jako USDC pro firemní karty, což představuje krok tradičních bank směrem k kryptoměnám.Klíčové body Hodnota dohody: 5,15 miliardy dolarů (akcie a hotovost), uzavření v polovině 2026. Brex: Fintech zaměřený na korporátní karty a řízení výdajů, první globální poskytovatel s nativní podporou stablecoinů (USDC). Pedro Franceschi, zakladatel a CEO Brex, zůstane v čele společnosti. Richard Fairbank, CEO Capital One:..."
       }
       
     
