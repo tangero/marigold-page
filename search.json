@@ -26783,7 +26783,7 @@
       "title"    : "Tech News Health Status",
       "url"      : "/health-status/",
       "category" : "stránka",
-      "content"  : "🏥 Tech News Health &amp; Pipeline Status Status: WARNING Poslední kontrola: 24.01.2026 04:52 Summary: Status: WARNING | Články 24h: 0 | Čeština: 100.0% | Alerty: 3 📈 30denní přehled (30 dní) Nově vygenerováno (30 dní) ℹ️ 1081 Denní průměr: 34.9 LLM náklady $279.24 Celkem za období API dotazy 8666 Sessions: 178 Přeskočeno 7585 Hlavně: low_importance 🔄 Processing Pipeline (30 dní) 📥 API Fetch 8666 ⏭️ Přeskočeno (filtry) 7585 💾 Uloženo 1081 (12.5%) 📊 Denní statistiky (posledních 14 dní) Datum Fetched Saved Skipped Cost Success 2026-01-24 97 14 83 $2.9002 100% 2026-01-23 194 36 158 $6.6624 100% 2026-01-22 297 40 257..."
+      "content"  : "🏥 Tech News Health &amp; Pipeline Status Status: WARNING Poslední kontrola: 24.01.2026 08:44 Summary: Status: WARNING | Články 24h: 0 | Čeština: 100.0% | Alerty: 3 📈 30denní přehled (30 dní) Nově vygenerováno (30 dní) ℹ️ 1083 Denní průměr: 34.9 LLM náklady $280.83 Celkem za období API dotazy 8715 Sessions: 179 Přeskočeno 7632 Hlavně: low_importance 🔄 Processing Pipeline (30 dní) 📥 API Fetch 8715 ⏭️ Přeskočeno (filtry) 7632 💾 Uloženo 1083 (12.4%) 📊 Denní statistiky (posledních 14 dní) Datum Fetched Saved Skipped Cost Success 2026-01-24 146 16 130 $4.4944 100% 2026-01-23 194 36 158 $6.6624 100% 2026-01-22 297 40 257..."
     }
     
   
@@ -31237,6 +31237,20 @@
         "url"      : "/tech-news/2026-01-23/capital-one-bank-buys-stablecoin-fintech-brex-for/",
         "category" : "tech_news",
         "content"  : "SouhrnAmerická banka Capital One oznámila akvizici fintech společnosti Brex za 5,15 miliardy dolarů v kombinaci akcí a hotovosti. Transakce má být dokončena v polovině roku 2026 a umožní integraci Brexovy platformy pro platby stablecoiny do bankovních služeb. Brex nedávno spustil podporu stablecoinů jako USDC pro firemní karty, což představuje krok tradičních bank směrem k kryptoměnám.Klíčové body Hodnota dohody: 5,15 miliardy dolarů (akcie a hotovost), uzavření v polovině 2026. Brex: Fintech zaměřený na korporátní karty a řízení výdajů, první globální poskytovatel s nativní podporou stablecoinů (USDC). Pedro Franceschi, zakladatel a CEO Brex, zůstane v čele společnosti. Richard Fairbank, CEO Capital One:..."
+      }
+      
+      ,{
+        "title"    : "20 000 uživatelů AI v pojišťovně Travelers se připravuje na Inovaci 2.0; Automatizace zmenšuje call centra pro pojistné nároky",
+        "url"      : "/tech-news/2026-01-23/a-20000-ai-users-at-travelers-prep-for-innovation/",
+        "category" : "tech_news",
+        "content"  : "SouhrnPojišťovna Travelers, jedna z největších v USA, má nyní více než 20 000 zaměstnanců, kteří pravidelně používají AI nástroje k podpoře své práce. Krátce po oznámení spolupráce s firmou Anthropic, která vyvíjí velké jazykové modely jako Claude, na nasazení personalizovaných AI agentů pro 10 000 inženýrů a datových vědců, CEO Alan Schnitzer představil plány na Inovaci 2.0. Tato iniciativa navazuje na desetiletou strategii investic do technologií, která přinesla růst pojistných prémii a zlepšení ziskovosti.Klíčové body Více než 20 000 zaměstnanců Travelers používá AI nástroje denně, včetně oblastí jako claims call centra, kde automatizace zvyšuje efektivitu. Partnerství s Anthropic umožní 10..."
+      }
+      
+      ,{
+        "title"    : "Tyto 4 velké technologické sázky přetvarují globální ekonomiku v roce 2026",
+        "url"      : "/tech-news/2026-01-23/these-4-big-technology-bets-will-reshape-the-globa/",
+        "category" : "tech_news",
+        "content"  : "SouhrnARK Invest vydal desáté vydání svého vlajkového výzkumného reportu Big Ideas 2026, který mapuje 13 klíčových technologií měnících globální ekonomiku. Hlavní zaměření je na pět propojených platforem: umělou inteligenci (AI), veřejné blockchainy, robotiku, úložiště energie a multiomiku. Report předpokládá, že investice do těchto oblastí přidají 1,9 procenta k ročnímu růstu HDP.Klíčové body 13 Big Ideas zahrnuje velké zrychlení (great acceleration), infrastrukturu AI, spotřebitelský operační systém na bázi AI, produktivitu AI, bitcoin, tokenizovaná aktiva, aplikace decentralizovaných financí (DeFi), multiomiku, opakovaně použitelné rakety, robotiku, distribuovanou energii, autonomní vozidla a autonomní logistiku. Pět hlavních inovativních platforem je stále více propojených: pokroky v jedné..."
       }
       
     
