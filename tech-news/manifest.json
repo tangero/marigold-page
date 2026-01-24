@@ -1,7 +1,107 @@
 {
-  "generated": "2026-01-23T20:54:12.246387+00:00",
-  "count": 175,
+  "generated": "2026-01-24T01:22:25.592384+00:00",
+  "count": 180,
   "articles": [
+    {
+      "title": "Indické ambice v polovodičích nabírají na síle díky továrně Micron v Gudžarátu, která začne fungovat příští měsíc",
+      "description": "Nová továrna společnosti Micron Technology v Sanandu v Gudžarátu zahájí komerční výrobu polovodičů do konce února. Indie navazuje strategická partnerství s USA, EU, Německem, Japonskem a Jižní Koreou pro zajištění dodavatelských řetězců, zejména přístupu k vzácným zeminám, uvedl ministr pro IT a elektroniku Ashwini Vaishnaw.",
+      "slug": "indias-chip-ambitions-set-to-take-wing-with-micron",
+      "publishedAt": "2026-01-23T00:51:47+00:00",
+      "date": "2026-01-23 00:51:47",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-218914,resizemode-75,msid-127238703/tech/technology/indias-chip-ambitions-set-to-take-wing-with-microns-gujarat-plant-coming-onstream-next-month.jpg",
+      "url": "/tech-news/2026-01-23/indias-chip-ambitions-set-to-take-wing-with-micron/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Micron Technology"
+      ],
+      "people": []
+    },
+    {
+      "title": "Strašidelná kulová zařízení pro ověření člověka od Sama Altmana objevena v Gap obchodě v San Franciscu",
+      "description": "Kulový přístroj sbírající biometrická data pro ověření lidské identity se objevil v Gap obchodě v San Franciscu. Jedná se o technologie společnosti World, kterou podporuje Sam Altman, určenou k odlišení lidí od umělých inteligencí.",
+      "slug": "sam-altmans-creepy-human-verification-orb-spotted-",
+      "publishedAt": "2026-01-22T23:32:03+00:00",
+      "date": "2026-01-22 23:32:03",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/01/119466511.jpg?quality=75&strip=all&w=1200",
+      "url": "/tech-news/2026-01-22/sam-altmans-creepy-human-verification-orb-spotted/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "New York Post"
+      },
+      "companies": [],
+      "people": [
+        "Sam Altman"
+      ]
+    },
+    {
+      "title": "Google přináší technologii personalizace Personal Intelligence do režimu AI",
+      "description": "Týden po zavedení nového nástroje personalizace pro chatbot Gemini přinesla společnost Google tuto technologii do svého hlavního vyhledávače. Funkce Personal Intelligence je zpočátku dostupná pro uživatele v USA s účty Google AI Pro a Ultra.",
+      "slug": "google-brings-its-personal-intelligence-personaliz",
+      "publishedAt": "2026-01-22T23:31:00+00:00",
+      "date": "2026-01-22 23:31:00",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/Google2.png",
+      "url": "/tech-news/2026-01-22/google-brings-its-personal-intelligence-personaliz/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "LiveKit získává 100 milionů dolarů při valuaci 1 miliardy na rozšíření platformy pro real-time AI a média",
+      "description": "Společnost LiveKit Inc., zabývající se infrastrukturou pro komunikaci, real-time média a umělou inteligenci, získala 100 milionů dolarů nového financování při valuaci 1 miliardy dolarů. Peníze poslou k rozšíření platformy pro developery v oblasti real-time hlasu, videa a AI.",
+      "slug": "livekit-raises-100m-at-1b-valuation-to-scale-real-",
+      "publishedAt": "2026-01-22T23:15:44+00:00",
+      "date": "2026-01-22 23:15:44",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/livekit_640x400.png",
+      "url": "/tech-news/2026-01-22/livekit-raises-100m-at-1b-valuation-to-scale-real/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "LiveKit"
+      ],
+      "people": []
+    },
+    {
+      "title": "Elon Musk obhajuje, proč je jeho technologické impérium v hodnotě 2,2 bilionu dolarů jedinou cestou k záchraně lidstva jako jediného inteligentního života ve vesmíru",
+      "description": "„Pokud by někdo věděl, zda jsou mezi námi mimozemšťané, byl by to já,“ řekl Musk během Světového ekonomického fóra ve čtvrtek.",
+      "slug": "elon-musk-makes-the-case-for-why-his-22-trillion-t",
+      "publishedAt": "2026-01-22T23:11:15+00:00",
+      "date": "2026-01-22 23:11:15",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/01/GettyImages-2256971457-e1769122909180.jpg?resize=1200,600",
+      "url": "/tech-news/2026-01-22/elon-musk-makes-the-case-for-why-his-22-trillion-t/",
+      "source": {
+        "emoji": "📰",
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk"
+      ]
+    },
     {
       "title": "Stát Louisiana a Persona AI spouštějí pilotní program s humanoidními roboty v ocelárně SSE Steel Fabrication",
       "description": "Stát Louisiana podepsal memorandum o porozumění s firmou Persona AI na spuštění pilotního projektu s humanoidními roboty v továrně SSE Steel Fabrication. Program se zaměří na sběr dat o pohybu a úkolech v reálném průmyslovém prostředí pro vývoj embodied AI.",
