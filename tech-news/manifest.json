@@ -1,7 +1,68 @@
 {
-  "generated": "2026-01-24T08:44:54.111203+00:00",
-  "count": 152,
+  "generated": "2026-01-24T12:49:08.582053+00:00",
+  "count": 155,
   "articles": [
+    {
+      "title": "Čína prohlubuje vyšetřování akvizice startupu Manus společností Meta za 2 miliardy dolarů",
+      "description": "Čínští úředníci prohlubují zkoumání prosincové akvizice agentického AI startupu Manus společností Meta, zda porušila předpisy o exportu technologií nebo národní bezpečnosti. Hlavním bodem zájmu je možný únik čínských technologií nebo uživatelských dat do rukou americké firmy.",
+      "slug": "china-deepens-review-of-metas-landmark-2-billion-m",
+      "publishedAt": "2026-01-23T12:10:18+00:00",
+      "date": "2026-01-23 12:10:18",
+      "importance": 5,
+      "category": "ai",
+      "urlToImage": "https://c.ndtvimg.com/2026-01/50ng9ml8_the-manus-ai-app-icon_625x300_23_January_26.jpg?im=FeatureCrop,algorithm=dnn,width=1080,height=607",
+      "url": "/tech-news/2026-01-23/china-deepens-review-of-metas-landmark-2-billion-m/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Ndtvprofit.com"
+      },
+      "companies": [
+        "Meta",
+        "Manus"
+      ],
+      "people": []
+    },
+    {
+      "title": "Demis Hassabis a jak umělá inteligence může zkrotit náš molekulární vesmír",
+      "description": "Magazín Fortune tento týden zveřejnil reportáž z Isomorphic Labs, firmy Demise Hassabise, zakladatele DeepMind a nositele Nobelovy ceny. Článek se zaměřuje na využití AI k prozkoumání obrovského chemického prostoru pro objevování léků.",
+      "slug": "demis-hassabis-and-how-ai-just-might-wrangle-our-m",
+      "publishedAt": "2026-01-23T11:32:58+00:00",
+      "date": "2026-01-23 11:32:58",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/01/Demis-Hassabis-Isomorphic-thumbnail.jpg?resize=1200,600",
+      "url": "/tech-news/2026-01-23/demis-hassabis-and-how-ai-just-might-wrangle-our-m/",
+      "source": {
+        "emoji": "📰",
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "companies": [
+        "Isomorphic Labs"
+      ],
+      "people": [
+        "Demis Hassabis"
+      ]
+    },
+    {
+      "title": "WEF26: Saúdská Arábie vede novou globální iniciativu na ochranu korálových útesů a rozvoj potenciálu AI",
+      "description": "Saúdská delegace na výročním zasedání Světového ekonomického fóra (WEF) 2026 oznámila pořádání prvního Globálního summitu o korálových útesech a ambice stát se globálním centrem pro AI. Klíčovou součástí je rámcová dohoda o financování v hodnotě až 1,2 miliardy dolarů na rozšíření AI datových center.",
+      "slug": "wef26-saudi-arabia-leads-new-global-push-to-protec",
+      "publishedAt": "2026-01-23T11:03:40+00:00",
+      "date": "2026-01-23 11:03:40",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2026/01/23/WEF26-Saudi-Arabia-Leads.jpg",
+      "url": "/tech-news/2026-01-23/wef26-saudi-arabia-leads-new-global-push-to-protec/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Antaranews.com"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Tyto 4 velké technologické sázky přetvarují globální ekonomiku v roce 2026",
       "description": "V následujících 12 měsících a dále budou podniky soustředěny na klíčové oblasti, včetně umělé inteligence a robotiky. ARK Invest ve svém výročním reportu identifikuje technologie, které urychlí růst HDP.",
