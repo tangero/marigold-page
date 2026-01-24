@@ -1,24 +1,193 @@
 {
-  "generated": "2026-01-24T01:22:25.592384+00:00",
-  "count": 180,
+  "generated": "2026-01-24T04:52:06.872859+00:00",
+  "count": 188,
   "articles": [
     {
-      "title": "Indické ambice v polovodičích nabírají na síle díky továrně Micron v Gudžarátu, která začne fungovat příští měsíc",
-      "description": "Nová továrna společnosti Micron Technology v Sanandu v Gudžarátu zahájí komerční výrobu polovodičů do konce února. Indie navazuje strategická partnerství s USA, EU, Německem, Japonskem a Jižní Koreou pro zajištění dodavatelských řetězců, zejména přístupu k vzácným zeminám, uvedl ministr pro IT a elektroniku Ashwini Vaishnaw.",
-      "slug": "indias-chip-ambitions-set-to-take-wing-with-micron",
-      "publishedAt": "2026-01-23T00:51:47+00:00",
-      "date": "2026-01-23 00:51:47",
+      "title": "Banka Capital One kupuje fintech Brex za 5,15 miliardy dolarů",
+      "description": "Capital One získala fintech Brex za 5,15 miliardy dolarů, což by mělo přinést službu plateb stablecoiny do tradiční bankovní giganta.",
+      "slug": "capital-one-bank-buys-stablecoin-fintech-brex-for-",
+      "publishedAt": "2026-01-23T04:12:35+00:00",
+      "date": "2026-01-23 04:12:35",
+      "importance": 5,
+      "category": "kryptoměny",
+      "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-01/019be8c5-856f-7ad8-8a17-31081e3a16cd.jpg",
+      "url": "/tech-news/2026-01-23/capital-one-bank-buys-stablecoin-fintech-brex-for/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Cointelegraph"
+      },
+      "companies": [
+        "Brex"
+      ],
+      "people": []
+    },
+    {
+      "title": "Investiční pobočka kanadského penzijního plánu kritizována za financování xAI Elona Muska, tvůrce Grok",
+      "description": "Kanadská investiční rada penzijního plánu (CPPIB) čelí kritice za poskytnutí 300 milionů amerických dolarů na infrastrukturu pro xAI Elona Muska, společnost vyvíjející kontroverzní chatbot Grok na bázi umělé inteligence.",
+      "slug": "canada-pension-plans-investment-arm-criticized-ove",
+      "publishedAt": "2026-01-23T03:31:56+00:00",
+      "date": "2026-01-23 03:31:56",
       "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-218914,resizemode-75,msid-127238703/tech/technology/indias-chip-ambitions-set-to-take-wing-with-microns-gujarat-plant-coming-onstream-next-month.jpg",
-      "url": "/tech-news/2026-01-23/indias-chip-ambitions-set-to-take-wing-with-micron/",
+      "category": "ai",
+      "urlToImage": "https://i.cbc.ca/ais/dff4e9cb-c599-41e9-be15-731bf5231b0b,1769134309289/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C246%2C4724%2C2657%29%3BResize%3D620",
+      "url": "/tech-news/2026-01-23/canada-pension-plans-investment-arm-criticized-ove/",
+      "source": {
+        "emoji": "📰",
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "companies": [
+        "xAI"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Elon Musk očekává schválení systému Tesla FSD v Evropě a Číně příští měsíc",
+      "description": "Regulační pokrok u FSD a počáteční nasazení robotaxi ukazují na dynamiku v AI ambicích Tesly, přesto technologie zůstává v počátcích vzhledem k valuaci, která výrazně převyšuje mnoho technologických a automobilových firem.",
+      "slug": "elon-musk-expects-europe-china-to-approve-teslas-f",
+      "publishedAt": "2026-01-23T03:07:12+00:00",
+      "date": "2026-01-23 03:07:12",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-21944,resizemode-75,msid-127225605/tech/technology/elon-musk-expects-europe-china-to-approve-teslas-fsd-system-next-month.jpg",
+      "url": "/tech-news/2026-01-23/elon-musk-expects-europe-china-to-approve-teslas-f/",
       "source": {
         "emoji": "📰",
         "id": "the-times-of-india",
         "name": "The Times of India"
       },
       "companies": [
-        "Micron Technology"
+        "Tesla"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Singapur představil první na světě rámec řízení pro agentic AI",
+      "description": "Správní úřad pro informační a komunikační technologie (IMDA) vydal průvodce, který pomůže firmám bezpečně nasadit AI agenty a řešit rizika jako neoprávněné akce a automatizační zkreslení.",
+      "slug": "singapore-debuts-worlds-first-governance-framework",
+      "publishedAt": "2026-01-23T02:31:00+00:00",
+      "date": "2026-01-23 02:31:00",
+      "importance": 4,
+      "category": "governace ai",
+      "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/HeroImages/Davos-Switzerland-World-Economic-Forum-SimonMichael-adobe.jpg",
+      "url": "/tech-news/2026-01-23/singapore-debuts-worlds-first-governance-framework/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "ComputerWeekly.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Startup Railway získal 100 milionů dolarů na zjednodušení nasazení aplikací v cloudu",
+      "description": "Společnost Railway uzavřela kolo Series B v hodnotě 100 milionů dolarů vedené TQ Ventures s účastí FPV Ventures, Redpoint a Unusual Ventures. Financování podpoří misi firmy udělat cloudovou infrastrukturu neviditelnou pro vývojáře, kteří se tak mohou soustředit na tvorbu kódu v éře akcelerovaného AI vývoje.",
+      "slug": "intelligent-cloud-infrastructure-startup-railway-g",
+      "publishedAt": "2026-01-23T02:29:57+00:00",
+      "date": "2026-01-23 02:29:57",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/Screenshot-from-2026-01-23-09-28-57.png",
+      "url": "/tech-news/2026-01-23/intelligent-cloud-infrastructure-startup-railway-g/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Railway"
+      ],
+      "people": []
+    },
+    {
+      "title": "Uzavření dohody o TikToku v USA po letech regulační nejistoty",
+      "description": "TikTokovo oddělení amerického byznysu k konsorciu vedenému Oracle, Silver Lake a MGX bylo uzavřeno poté, co úředník Bílého domu oznámil finalizaci dohody mezi USA a Čínou. Nová společnost má americkou většinu v dozorčí radě a řídí ochranu dat, moderování obsahu i bezpečnost algoritmů.",
+      "slug": "tiktok-us-deal-closes-after-years-of-regulatory-un",
+      "publishedAt": "2026-01-23T01:54:34+00:00",
+      "date": "2026-01-23 01:54:34",
+      "importance": 4,
+      "category": "sociální sítě",
+      "urlToImage": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/01/dfd02404-994c-4527-b5f8-d5f23fd9fdc1-671.jpeg",
+      "url": "/tech-news/2026-01-23/tiktok-us-deal-closes-after-years-of-regulatory-un/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Search Engine Journal"
+      },
+      "companies": [
+        "TikTok",
+        "Oracle",
+        "Silver Lake",
+        "MGX"
+      ],
+      "people": []
+    },
+    {
+      "title": "Capital One získá poskytovatele firemních karet Brex v transakci za 5,15 miliardy dolarů",
+      "description": "Společnost Capital One Financial oznámila akvizici fintech startupu Brex za 5,15 miliardy dolarů, což je další velká transakce pod vedením generálního ředitele Richarda Fairbanka. Akvizice byla zveřejněna během výkazu o výsledcích za čtvrté čtvrtletí a má být uzavřena do konce druhého čtvrtletí.",
+      "slug": "capital-one-to-acquire-corporate-card-provider-bre",
+      "publishedAt": "2026-01-23T01:24:07+00:00",
+      "date": "2026-01-23 01:24:07",
+      "importance": 5,
+      "category": "akvizice",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/Screenshot-from-2026-01-23-08-22-35.png",
+      "url": "/tech-news/2026-01-23/capital-one-to-acquire-corporate-card-provider-bre/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Brex"
+      ],
+      "people": [
+        "Richard Fairbank"
+      ]
+    },
+    {
+      "title": "Inferact spouští s 150 miliony dolarů financování na komercializaci vLLM",
+      "description": "Skupina výzkumníků v umělé inteligenci spustila startup Inferact Inc., který bude komercializovat open-source projekt vLLM pro optimalizaci inference velkých jazykových modelů. Financování seed kola činí 150 milionů dolarů s oceňováním společnosti 800 milionů dolarů.",
+      "slug": "inferact-launches-with-150m-in-funding-to-commerci",
+      "publishedAt": "2026-01-23T01:13:45+00:00",
+      "date": "2026-01-23 01:13:45",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/AI.png",
+      "url": "/tech-news/2026-01-23/inferact-launches-with-150m-in-funding-to-commerci/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Inferact Inc",
+        "Andreessen Horowitz",
+        "Lightspeed"
+      ],
+      "people": []
+    },
+    {
+      "title": "TikTok dosáhl dohody na novém americkém společném podniku, aby se vyhnul zákazu v USA",
+      "description": "Vlastník TikToku ByteDance si ponechá 19,9% podíl ve společném podniku, čímž zůstane pod hranicí 20 %, stanovenou zákonem, a udrží tak provoz v USA.",
+      "slug": "tiktok-reaches-deal-for-new-us-joint-venture-to-av",
+      "publishedAt": "2026-01-23T01:07:00+00:00",
+      "date": "2026-01-23 01:07:00",
+      "importance": 4,
+      "category": "sociální sítě",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--Lhxw-sQz--/c_crop,h_449,w_799,x_1,y_75/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-12-18T224343Z_5_LYNXMPELBH1B7_RTROPTP_3_USA-TRUMP-TIKTOK.JPG?itok=5jf2k7JW",
+      "url": "/tech-news/2026-01-23/tiktok-reaches-deal-for-new-us-joint-venture-to-av/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNA"
+      },
+      "companies": [
+        "ByteDance"
       ],
       "people": []
     },
