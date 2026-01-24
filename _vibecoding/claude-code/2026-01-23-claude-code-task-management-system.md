@@ -60,7 +60,7 @@ Tento mechanismus funguje i pro  `claude -p`  a AgentSDK, což umožňuje konzis
 
 ## Inspirace z komunity
 
-Anthropic explicitně zmínil inspiraci z komunitních projektů, konkrétně [Beads](https://github.com/yegge-labs/beads) od Steva Yeggeho. Beads je framework pro koordinaci AI agentů, který rovněž pracuje s konceptem úkolů a jejich závislostí. Ale nejrůznějších projektů a Skillů na zpracování tasků se v poslední době objevilo mnoho a je logické, že CC takové řešení integroval.
+Anthropic explicitně zmínil inspiraci z komunitních projektů, konkrétně [Beads](https://github.com/steveyegge/beads) od Steva Yeggeho. Beads je framework pro koordinaci AI agentů, který rovněž pracuje s konceptem úkolů a jejich závislostí. Ale nejrůznějších projektů a Skillů na zpracování tasků se v poslední době objevilo mnoho a je logické, že CC takové řešení integroval.
 
 ## Tasks do hloubky
 
