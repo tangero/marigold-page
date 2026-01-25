@@ -1,7 +1,51 @@
 {
-  "generated": "2026-01-25T08:39:20.080870+00:00",
-  "count": 182,
+  "generated": "2026-01-25T12:50:30.658141+00:00",
+  "count": 184,
   "articles": [
+    {
+      "title": "Týdenní novinky ze světa technologií: Apple plánuje AI nositelné zařízení a telefon s podporou Androidu, Linuxu i Windowsu",
+      "description": "Navíc: Asus opouští trh se smartphony a Sony navazuje partnerství s TCL na výrobu televizorů.",
+      "slug": "gear-news-of-the-week-apples-ai-wearable-and-a-pho",
+      "publishedAt": "2026-01-24T11:00:00+00:00",
+      "date": "2026-01-24 11:00:00",
+      "importance": 4,
+      "category": "hardware",
+      "urlToImage": "https://media.wired.com/photos/6973e07957e4f3e5a01e8bfe/191:100/w_1280,c_limit/Gear%20News%20of%20the%20Week-%20Apple's%20AI%20Wearable,%20a%20Phone%20That%20Can%20Boot%20Android,%20Linux,%20and%20Windows.png",
+      "url": "/tech-news/2026-01-24/gear-news-of-the-week-apples-ai-wearable-and-a-pho/",
+      "source": {
+        "emoji": "🔧",
+        "id": "wired",
+        "name": "Wired"
+      },
+      "companies": [
+        "Apple",
+        "Asus",
+        "Sony",
+        "TCL"
+      ],
+      "people": []
+    },
+    {
+      "title": "Tesla v Austinu zdvojnásobila flotilu robotaxi na 68 oproti před třemi týdny",
+      "description": "Tesla přidává denně přibližně deset robotaxi do své flotily v Austinu a za týden překoná známých 137 vozidel Waymo. Waymo sice tvrdí, že má 200 vozidel, ale pozorováno bylo jen 137 různých poznávacích značek. Za 30-50 dní by Tesla mohla dosáhnout 500 vozidel, což odpovídá cíli Elona Muska.",
+      "slug": "tesla-austin-doubles-robotaxi-fleet-to-68-from-3-w",
+      "publishedAt": "2026-01-24T08:40:41+00:00",
+      "date": "2026-01-24 08:40:41",
+      "importance": 4,
+      "category": "robotaxi",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/01/Screenshot-2026-01-24-at-12.29.49-AM.jpg",
+      "url": "/tech-news/2026-01-24/tesla-austin-doubles-robotaxi-fleet-to-68-from-3-w/",
+      "source": {
+        "emoji": "📰",
+        "id": "next-big-future",
+        "name": "Next Big Future"
+      },
+      "companies": [
+        "Tesla",
+        "Waymo"
+      ],
+      "people": []
+    },
     {
       "title": "Show HN: Claude Code pro Sales a GTM",
       "description": "Vyzkoušel jsem všechny SaaS Sales a GTM tools; nakonec jsem vibe-coding jednoduchý tool, který prostě funguje. Používá Claude Code jako backend (vtipné, já vím). Pomáhá enrich, qualify a prepare high-quality reach-outs\n\nURL komentářů: https://news.ycombinator.com/item?id=46741678\nPoin…",
