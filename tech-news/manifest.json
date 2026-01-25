@@ -1,10 +1,114 @@
 {
-  "generated": "2026-01-25T05:07:25.261725+00:00",
-  "count": 177,
+  "generated": "2026-01-25T08:39:20.080870+00:00",
+  "count": 182,
   "articles": [
     {
-      "title": "Čína prohlubuje vyšetřování akvizice Manus za 2 miliardy dolarů od Meta",
-      "description": "Čínští úředníci rozšiřují prohlídku prosincové akvizice startupu s agentickou AI Manus společností Meta, aby ověřili porušení předpisů o exportu technologií, národní bezpečnosti, měnových tocích a daních. Klíčovým bodem zůstává riziko úniku čínských technologií nebo uživatelských dat k americké firmě.",
+      "title": "Show HN: Claude Code pro Sales a GTM",
+      "description": "Vyzkoušel jsem všechny SaaS Sales a GTM tools; nakonec jsem vibe-coding jednoduchý tool, který prostě funguje. Používá Claude Code jako backend (vtipné, já vím). Pomáhá enrich, qualify a prepare high-quality reach-outs\n\nURL komentářů: https://news.ycombinator.com/item?id=46741678\nPoin…",
+      "slug": "show-hn-claude-code-for-sales-and-gtm",
+      "publishedAt": "2026-01-24T07:08:43+00:00",
+      "date": "2026-01-24 07:08:43",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://opengraph.githubassets.com/0b3cd7821c5895fa9b2f962ab9a25235aee389994dd819adfcd158631ac52d18/chaitanyya/sales",
+      "url": "/tech-news/2026-01-24/show-hn-claude-code-for-sales-and-gtm/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Github.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Gemini přichází do Chrome s aktualizací ChromeOS 144",
+      "description": "Google připravuje vydání ChromeOS 144, první velké aktualizace v roce 2026, která přináší nativní integraci modelu Gemini přímo do prohlížeče Chrome na zařízeních Chromebook Plus. Tato funkce umožňuje interakci s obsahem aktuálně otevřené webové stránky v reálném čase.",
+      "slug": "gemini-arrives-in-chrome-with-the-chromeos-144-upd",
+      "publishedAt": "2026-01-24T06:56:27+00:00",
+      "date": "2026-01-24 06:56:27",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.ghacks.net/wp-content/uploads/2026/01/gHacks-articles-2026-01-24T085356.027.png",
+      "url": "/tech-news/2026-01-24/gemini-arrives-in-chrome-with-the-chromeos-144-upd/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Ghacks Technology News"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Trump slibuje třítýdenní schvalování jaderných elektráren pro technologické firmy, což spustilo růst akcií",
+      "description": "Prezident Trump na fóru v Davosu oznámil urychlené schvalování výstavby jaderných reaktorů pro tech společnosti během tří týdnů. Cílem je pokryt rostoucí spotřebu elektřiny daty centry umělé inteligence, což okamžitě posílilo akcie firem v jaderném sektoru.",
+      "slug": "trump-vows-three-week-nuclear-approvals-for-tech-s",
+      "publishedAt": "2026-01-24T06:00:00+00:00",
+      "date": "2026-01-24 06:00:00",
+      "importance": 4,
+      "category": "jaderná energie",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/01/Nuclear-Power-Plant-Stacks-Radiation.jpg",
+      "url": "/tech-news/2026-01-24/trump-vows-three-week-nuclear-approvals-for-tech-s/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "companies": [],
+      "people": [
+        "Trump"
+      ]
+    },
+    {
+      "title": "Bez kódování: Od nápadu k softwaru - Anil Dash",
+      "description": "Blogový příspěvek popisuje průlomový pokrok v technologii kódování poháněný AI, kde programátoři ovládají flotily desítek kódovacích botů, které společně vytvářejí celé funkce na základě popisu v běžné češtině nebo angličtině. Tento přístup překonává dřívější limity velkých jazykových modelů díky orchestraci a rezilenci.",
+      "slug": "codeless-from-idea-to-software-anil-dash",
+      "publishedAt": "2026-01-24T05:47:02+00:00",
+      "date": "2026-01-24 05:47:02",
+      "importance": 5,
+      "category": "bez kódování",
+      "urlToImage": "https://anildash.com/images/sunset-murmuration.jpeg",
+      "url": "/tech-news/2026-01-24/codeless-from-idea-to-software-anil-dash/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Anildash.com"
+      },
+      "companies": [],
+      "people": [
+        "Anil Dash"
+      ]
+    },
+    {
+      "title": "Právní AI gigant Harvey získává Hexus, zatímco konkurence v právním tech sílí | TechCrunch",
+      "description": "Zakladatelka a CEO Hexus Sakshi Pratap, která dříve zastávala inženýrské role u Walmartu, Oracle a Google, uvedla pro TechCrunch, že její tým v San Franciscu se už připojil k Harvey, zatímco inženýři v Indii nastoupí po zřízení kanceláře v Bangalore.",
+      "slug": "legal-ai-giant-harvey-acquires-hexus-as-competitio",
+      "publishedAt": "2026-01-24T05:29:18+00:00",
+      "date": "2026-01-24 05:29:18",
+      "importance": 4,
+      "category": "právní ai",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/Screenshot-2025-11-14-at-11.50.31-AM.png?resize=1200,863",
+      "url": "/tech-news/2026-01-24/legal-ai-giant-harvey-acquires-hexus-as-competitio/",
+      "source": {
+        "emoji": "🚀",
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "companies": [
+        "Harvey",
+        "Hexus",
+        "Walmart",
+        "Oracle",
+        "Google"
+      ],
+      "people": [
+        "Sakshi Pratap"
+      ]
+    },
+    {
+      "title": "Čína prohlubuje vyšetřování Meta akvizice Manus za 2 miliardy dolarů",
+      "description": "Čínští úředníci rozšiřují prošetřování prosincové akvizice agentického AI startupu Manus americkou společností Meta za 2 miliardy dolarů. Klíčovým bodem je, zda došlo k porušení předpisů o exportu technologií, národní bezpečnosti nebo sdílení uživatelských dat s americkou firmou.",
       "slug": "china-deepens-review-of-metas-landmark-2-billion-m",
       "publishedAt": "2026-01-24T04:07:32+00:00",
       "date": "2026-01-24 04:07:32",
