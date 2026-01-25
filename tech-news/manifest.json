@@ -1,7 +1,171 @@
 {
-  "generated": "2026-01-24T20:41:23.518402+00:00",
-  "count": 168,
+  "generated": "2026-01-25T01:28:44.143711+00:00",
+  "count": 176,
   "articles": [
+    {
+      "title": "Tesla robotaxi nyní má safety monitory následující vzadu",
+      "description": "Tesliny robotaxis byly kritizovány za to, že ačkoli neměly řidiče za volantem, stále měly „safety monitor“. Ti tichí lidští zaměstnanci seděli na sedadle spolujezdce místo řidičova. Nyní, více než půl roku do serv…",
+      "slug": "tesla-robotaxi-now-has-safety-monitors-following-b",
+      "publishedAt": "2026-01-24T00:46:12+00:00",
+      "date": "2026-01-24 00:46:12",
+      "importance": 4,
+      "category": "autonomní vozy",
+      "urlToImage": null,
+      "url": "/tech-news/2026-01-24/tesla-robotaxi-now-has-safety-monitors-following-b/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "companies": [
+        "Tesla"
+      ],
+      "people": []
+    },
+    {
+      "title": "Elon Musk o Marsu, robotech a jak bude umělá inteligence ‚chytřejší než lidé letos‘",
+      "description": "Larry Fink, předseda a generální ředitel investiční firmy BlackRock, provedl rozhovor s Elonem Muskem, šéfem Tesla a SpaceX, na Světovém ekonomickém fóru v Davos ve Švýcarsku. Diskutovali o umělé inteligenci, robotice, vesmíru a expanzi civilizace.",
+      "slug": "elon-musk-on-mars-robots-and-how-ai-will-be-smarte",
+      "publishedAt": "2026-01-24T00:26:44+00:00",
+      "date": "2026-01-24 00:26:44",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/01/elon-musk-attends-56th-annual-119509272-e1769211312163.jpg?quality=75&strip=all&w=1200",
+      "url": "/tech-news/2026-01-24/elon-musk-on-mars-robots-and-how-ai-will-be-smarte/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "New York Post"
+      },
+      "companies": [
+        "Tesla",
+        "SpaceX"
+      ],
+      "people": [
+        "Larry Fink",
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Federální iniciativy chtějí posunout AI za jednoduchou diagnostiku",
+      "description": "Americké ministerstvo zdravotnictví a lidské péče (U.S. Department of Health and Human Services) prostřednictvím agentury ARPA-H vyhlašuje víceletý program ADVOCATE pro vývoj agentických AI systémů v kardiovaskulární péči. Tyto systémy mají autonomně pomáhat pacientům a získat schválení FDA během tří let.",
+      "slug": "federal-initiatives-aim-to-move-ai-beyond-simple-d",
+      "publishedAt": "2026-01-24T00:06:06+00:00",
+      "date": "2026-01-24 00:06:06",
+      "importance": 4,
+      "category": "medicínská ai",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/01/AI-healthcare-diagnostics.jpeg",
+      "url": "/tech-news/2026-01-24/federal-initiatives-aim-to-move-ai-beyond-simple-d/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Databricks získal 1,8 miliardy dolarů v dluhovém financování",
+      "description": "Společnost Databricks získala 1,8 miliardy dolarů v dluhovém financování od institucionálních investorů ve dvou tranších. Tato injekce posiluje bilance po nedávném kole Series L v hodnotě přes 4 miliardy dolarů a umožňuje další akvizice startupů.",
+      "slug": "databricks-reportedly-raises-18b-in-debt-financing",
+      "publishedAt": "2026-01-23T23:33:13+00:00",
+      "date": "2026-01-23 23:33:13",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/databricks-dataai2025-hall.jpg",
+      "url": "/tech-news/2026-01-23/databricks-reportedly-raises-18b-in-debt-financing/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Databricks"
+      ],
+      "people": []
+    },
+    {
+      "title": "OpenAI chce podíl z výsledků výzkumu a vývoje zákazníků podporovaných AI",
+      "description": "OpenAI zvažuje nový obchodní model, při kterém by získávala procento z příjmů z inovací vytvořených zákazníky pomocí jejích AI systémů. Plán je vnitřně diskutován a přitahuje pozornost v klíčových oblastech jako technologie, farmacie a vědy o materiálech.",
+      "slug": "openai-to-take-a-percentage-from-customer-ai-assis",
+      "publishedAt": "2026-01-23T23:15:12+00:00",
+      "date": "2026-01-23 23:15:12",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": null,
+      "url": "/tech-news/2026-01-23/openai-to-take-a-percentage-from-customer-ai-assis/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Aibase.com"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Hassan Taher analyzuje bezpečnostní kompromise v Trumpově rozhodnutí o exportu čipů NVIDIA H200",
+      "description": "Hassan Taher, odborník na křižovatku umělé inteligence, etiky a politiky, hodnotí rozhodnutí Trumpovy administrativy povolit export čipů NVIDIA H200 do Číny. Toto opatření obrací restrikce z éry Bidena a zavádí 25procentní clo na čipy testované v amerických zařízeních, což má přinést příjmy a vrátit americkým firmám podíl na čínském trhu.",
+      "slug": "hassan-taher-analyzes-the-security-trade-offs-in-t",
+      "publishedAt": "2026-01-23T22:48:17+00:00",
+      "date": "2026-01-23 22:48:17",
+      "importance": 4,
+      "category": "ai politika",
+      "urlToImage": "https://bitrebels.com/wp-content/uploads/2026/01/nvidia-green-logo-graphics-card-optimized.jpg",
+      "url": "/tech-news/2026-01-23/hassan-taher-analyzes-the-security-trade-offs-in-t/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Bitrebels.com"
+      },
+      "companies": [
+        "NVIDIA"
+      ],
+      "people": [
+        "Hassan Taher",
+        "Trump"
+      ]
+    },
+    {
+      "title": "NASA oznámila tiskové konference pro misi SpaceX Crew-12 na Mezinárodní vesmírnou stanici",
+      "description": "NASA a její partneři projednají přípravy na rotaci posádky na Mezinárodní vesmírné stanici během dvou tiskových konferencí 30. ledna z Johnsonova vesmírného centra v Houstonu. Posádka Crew-12 zahrnuje astronauty z NASA, Evropské vesmírné agentury a Roscosmosu a odstartuje na raketě Falcon 9.",
+      "slug": "nasa-sets-briefings-for-spacex-crew-12-mission-to-",
+      "publishedAt": "2026-01-23T22:46:13+00:00",
+      "date": "2026-01-23 22:46:13",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://www.nasa.gov/wp-content/uploads/2026/01/nasas-spacex-crew-12-spacex-suits-1.png",
+      "url": "/tech-news/2026-01-23/nasa-sets-briefings-for-spacex-crew-12-mission-to/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "NASA"
+      },
+      "companies": [
+        "NASA",
+        "SpaceX"
+      ],
+      "people": []
+    },
+    {
+      "title": "Vyhrává Čína tiše závod v umělé inteligenci?",
+      "description": "Redaktorka BBC Lily Jamali zkoumá, proč se velké americké firmy i startupy obracejí k čínské technologii v oblasti AI.",
+      "slug": "is-china-quietly-winning-the-ai-race",
+      "publishedAt": "2026-01-23T22:31:33+00:00",
+      "date": "2026-01-23 22:31:33",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/82c7/live/8a085560-f77d-11f0-b7ec-55c1cb544783.jpg",
+      "url": "/tech-news/2026-01-23/is-china-quietly-winning-the-ai-race/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BBC News"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Databricks získal dalších 1,8 miliardy dolarů dluhu před plánovaným IPO",
       "description": "Databricks, firma specializující se na datovou analytiku a AI, získala nových 1,8 miliardy dolarů dluhu a celkem má přístup k více než 7 miliardám dolarů. Společnost je připravena na vstup na burzu v roce 2026.",
