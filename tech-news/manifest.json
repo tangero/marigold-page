@@ -1,7 +1,110 @@
 {
-  "generated": "2026-01-25T12:50:30.658141+00:00",
-  "count": 184,
+  "generated": "2026-01-25T16:45:17.213889+00:00",
+  "count": 189,
   "articles": [
+    {
+      "title": "Mews získává 255 milionů eur na rozšíření AI a automatizace v hotelnictví",
+      "description": "Amsterdamská platforma Mews pro hotelový software získala 255 milionů eur (zhruba 300 milionů dolarů) v kole Series D, aby posílila automatizaci a workflowy poháněné AI. Kolem vedl fond EQT Growth s novou účastí Atomico a HarbourVest Partners.",
+      "slug": "mews-raises-255m-to-accelerate-ai-and-automation-i",
+      "publishedAt": "2026-01-24T16:10:49+00:00",
+      "date": "2026-01-24 16:10:49",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F01%2FTNW-Article-Banner.png&signature=143a4dee7e46ae8d092931bb0a74cc3f",
+      "url": "/tech-news/2026-01-24/mews-raises-255m-to-accelerate-ai-and-automation-i/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-next-web",
+        "name": "The Next Web"
+      },
+      "companies": [
+        "Mews"
+      ],
+      "people": []
+    },
+    {
+      "title": "Brex a výhody i rizika agresivního získávání kapitálu",
+      "description": "Capital One oznámila akvizici Brex za 5,15 miliardy dolarů, což je úspěšný exit v méně než 10 letech pro tvůrce kategorie firemních karet pro startupy. Nicméně hodnota je méně než polovina z 12,3 miliardy dolarů z října 2022, což ilustruje rizika příliš ambiciózního fundraisingu.",
+      "slug": "brex-and-the-pros-and-cons-of-hubristic-fundraisin",
+      "publishedAt": "2026-01-24T15:18:47+00:00",
+      "date": "2026-01-24 15:18:47",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://i0.wp.com/www.saastr.com/wp-content/uploads/2026/01/IMG_0553-scaled.jpg?fit=1000%2C667&quality=70&ssl=1",
+      "url": "/tech-news/2026-01-24/brex-and-the-pros-and-cons-of-hubristic-fundraisin/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Saastr.com"
+      },
+      "companies": [
+        "Brex",
+        "Capital One"
+      ],
+      "people": []
+    },
+    {
+      "title": "Tento týdenní významné technologické příběhy z webu (do 24. ledna)",
+      "description": "Každý týden prohledáváme web pro důležité, poučné a fascinující příběhy z vědy a technologie. Příspěvek vyšel na SingularityHub.",
+      "slug": "this-weeks-awesome-tech-stories-from-around-the-we",
+      "publishedAt": "2026-01-24T15:00:00+00:00",
+      "date": "2026-01-24 15:00:00",
+      "importance": 5,
+      "category": "technologické novink",
+      "urlToImage": "https://singularityhub.com/uploads/2026/01/helix-nebula-eye-of-god-webb-image.jpeg?auto=webp",
+      "url": "/tech-news/2026-01-24/this-weeks-awesome-tech-stories-from-around-the-we/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Singularity Hub"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Elon Musk: Cena předplatného FSD 99 USD/měsíc poroste s lepšením technologie, Tesla ruší Autopilot v USA: „Můžete být na telefonu...“",
+      "description": "Šéf Tesly Elon Musk oznámil, že cena měsíčního předplatného systému Full Self-Driving (FSD) za 99 dolarů poroste s pokračujícím vývojem technologie. Tesla zároveň ukončuje nabídku Autopilota v USA a nahrazuje ho systémem Traffic-Aware Cruise Control.",
+      "slug": "elon-musk-says-fsds-99month-subscription-fee-will-",
+      "publishedAt": "2026-01-24T14:31:03+00:00",
+      "date": "2026-01-24 14:31:03",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://s.yimg.com/os/en/Benzinga/520c12548e8abd70695e9a15581e5463",
+      "url": "/tech-news/2026-01-24/elon-musk-says-fsds-99month-subscription-fee-will/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "Tesla"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Proč se Meta staví do pozice giganta v infrastruktuře pro AI – a zdvojnásobuje nákladnou novou strategii",
+      "description": "S Meta Compute mění Mark Zuckerberg datová centra, čipy a energii v potenciální největší strategickou zbraň společnosti.",
+      "slug": "why-meta-is-positioning-itself-as-an-ai-infrastruc",
+      "publishedAt": "2026-01-24T13:00:00+00:00",
+      "date": "2026-01-24 13:00:00",
+      "importance": 4,
+      "category": "ai infrastruktura",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/01/GettyImages-2235448143.jpg?resize=1200,600",
+      "url": "/tech-news/2026-01-24/why-meta-is-positioning-itself-as-an-ai-infrastruc/",
+      "source": {
+        "emoji": "📰",
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "companies": [
+        "Meta"
+      ],
+      "people": [
+        "Mark Zuckerberg"
+      ]
+    },
     {
       "title": "Týdenní novinky ze světa technologií: Apple plánuje AI nositelné zařízení a telefon s podporou Androidu, Linuxu i Windowsu",
       "description": "Navíc: Asus opouští trh se smartphony a Sony navazuje partnerství s TCL na výrobu televizorů.",
