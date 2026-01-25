@@ -1,10 +1,51 @@
 {
-  "generated": "2026-01-25T01:28:44.143711+00:00",
-  "count": 176,
+  "generated": "2026-01-25T05:07:25.261725+00:00",
+  "count": 177,
   "articles": [
     {
-      "title": "Tesla robotaxi nyní má safety monitory následující vzadu",
-      "description": "Tesliny robotaxis byly kritizovány za to, že ačkoli neměly řidiče za volantem, stále měly „safety monitor“. Ti tichí lidští zaměstnanci seděli na sedadle spolujezdce místo řidičova. Nyní, více než půl roku do serv…",
+      "title": "Čína prohlubuje vyšetřování akvizice Manus za 2 miliardy dolarů od Meta",
+      "description": "Čínští úředníci rozšiřují prohlídku prosincové akvizice startupu s agentickou AI Manus společností Meta, aby ověřili porušení předpisů o exportu technologií, národní bezpečnosti, měnových tocích a daních. Klíčovým bodem zůstává riziko úniku čínských technologií nebo uživatelských dat k americké firmě.",
+      "slug": "china-deepens-review-of-metas-landmark-2-billion-m",
+      "publishedAt": "2026-01-24T04:07:32+00:00",
+      "date": "2026-01-24 04:07:32",
+      "importance": 5,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-37166,resizemode-75,msid-127360665/tech/artificial-intelligence/china-deepens-review-of-metas-landmark-2-billion-manus-buyout.jpg",
+      "url": "/tech-news/2026-01-24/china-deepens-review-of-metas-landmark-2-billion-m/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Meta",
+        "Manus"
+      ],
+      "people": []
+    },
+    {
+      "title": "Vývojář hotelového softwaru Mews získal 300 milionů dolarů při valuaci 2,5 miliardy",
+      "description": "Holandský startup Mews Systems, který vyvíjí cloudovou platformu a platební terminály pro provozovatele hotelů, získal 300 milionů dolarů v investičním kole Series D vedeném fondem EQT Growth. Společnost tak dosáhla valuace 2,5 miliardy dolarů po zpracování transakcí za 19 miliard dolarů v minulém roce.",
+      "slug": "hotel-software-maker-mews-nabs-300m-at-25b-valuati",
+      "publishedAt": "2026-01-24T01:20:21+00:00",
+      "date": "2026-01-24 01:20:21",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/Mews.png",
+      "url": "/tech-news/2026-01-24/hotel-software-maker-mews-nabs-300m-at-25b-valuati/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Mews Systems BV"
+      ],
+      "people": []
+    },
+    {
+      "title": "Tesla robotaxi nyní mají bezpečnostní monitory následující za nimi",
+      "description": "Tesla robotaxi byly kritizovány za přítomnost tichých bezpečnostních monitorů na sedadle spolujezdce. Po půl roce provozu Elon Musk oznámil jízdy bez monitorů v autě, ale nové video ukazuje, že je následují černé Tesla vozy s dohledem.",
       "slug": "tesla-robotaxi-now-has-safety-monitors-following-b",
       "publishedAt": "2026-01-24T00:46:12+00:00",
       "date": "2026-01-24 00:46:12",
@@ -437,27 +478,6 @@
         "name": "Fox News"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Čína prohlubuje vyšetřování akvizice startupu Manus společností Meta za 2 miliardy dolarů",
-      "description": "Čínští úředníci prohlubují zkoumání prosincové akvizice agentického AI startupu Manus společností Meta, zda porušila předpisy o exportu technologií nebo národní bezpečnosti. Hlavním bodem zájmu je možný únik čínských technologií nebo uživatelských dat do rukou americké firmy.",
-      "slug": "china-deepens-review-of-metas-landmark-2-billion-m",
-      "publishedAt": "2026-01-23T12:10:18+00:00",
-      "date": "2026-01-23 12:10:18",
-      "importance": 5,
-      "category": "ai",
-      "urlToImage": "https://c.ndtvimg.com/2026-01/50ng9ml8_the-manus-ai-app-icon_625x300_23_January_26.jpg?im=FeatureCrop,algorithm=dnn,width=1080,height=607",
-      "url": "/tech-news/2026-01-23/china-deepens-review-of-metas-landmark-2-billion-m/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Ndtvprofit.com"
-      },
-      "companies": [
-        "Meta",
-        "Manus"
-      ],
       "people": []
     },
     {
