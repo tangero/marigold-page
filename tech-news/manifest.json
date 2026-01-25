@@ -1,10 +1,96 @@
 {
-  "generated": "2026-01-25T16:45:17.213889+00:00",
-  "count": 189,
+  "generated": "2026-01-25T20:41:18.545330+00:00",
+  "count": 193,
   "articles": [
     {
-      "title": "Mews získává 255 milionů eur na rozšíření AI a automatizace v hotelnictví",
-      "description": "Amsterdamská platforma Mews pro hotelový software získala 255 milionů eur (zhruba 300 milionů dolarů) v kole Series D, aby posílila automatizaci a workflowy poháněné AI. Kolem vedl fond EQT Growth s novou účastí Atomico a HarbourVest Partners.",
+      "title": "JChristina popisuje robotickou konstrukci SpaceX pro masovou výrobu Starship Block 3",
+      "description": "SpaceX přechází u Starship Block 3 z prototypování na škálovatelnou masovou výrobu s automatizovanými procesy, které zvyšují spolehlivost a snižují náklady. Cílem jsou časté mise na Mars a rozšíření konstelace Starlink.",
+      "slug": "jchristina-describes-spacex-robot-construction-for",
+      "publishedAt": "2026-01-24T19:37:47+00:00",
+      "date": "2026-01-24 19:37:47",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/01/V3Booster.jpg",
+      "url": "/tech-news/2026-01-24/jchristina-describes-spacex-robot-construction-for/",
+      "source": {
+        "emoji": "📰",
+        "id": "next-big-future",
+        "name": "Next Big Future"
+      },
+      "companies": [
+        "SpaceX"
+      ],
+      "people": []
+    },
+    {
+      "title": "NVIDIA a AMD volbou TSMC jako hlavního výrobce čipů udělaly jednu z největších sázek historie a změnily průmysl",
+      "description": "Generální ředitelé NVIDIA Jensen Huang a AMD Lisa Su nedávno mluvili o tom, jak jejich důvěra v TSMC jako hlavního výrobce čipů před několika lety připadala iracionální, ale nyní se vyplácí v éře AI. Tato volba zajistila firmám prioritu v dodávkách a spolupráci na vývoji technologií.",
+      "slug": "nvidia-and-amd-choosing-tsmc-as-their-primary-foun",
+      "publishedAt": "2026-01-24T18:14:27+00:00",
+      "date": "2026-01-24 18:14:27",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/01/Untitled-design-45-728x410.png",
+      "url": "/tech-news/2026-01-24/nvidia-and-amd-choosing-tsmc-as-their-primary-foun/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Wccftech"
+      },
+      "companies": [
+        "NVIDIA",
+        "AMD",
+        "TSMC"
+      ],
+      "people": [
+        "Jensen Huang",
+        "Lisa Su"
+      ]
+    },
+    {
+      "title": "Proč kliknutí na špatný odkaz Copilot ohrozí vaše data",
+      "description": "Zranitelnost v bezpečnosti Microsoft Copilot umožňuje útočníkům krást data prostřednictvím škodlivých odkazů. Zjistěte, jak útok funguje, a naučte se chránit.",
+      "slug": "why-clicking-the-wrong-copilot-link-could-put-your",
+      "publishedAt": "2026-01-24T18:00:14+00:00",
+      "date": "2026-01-24 18:00:14",
+      "importance": 5,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/microsoft-copilot.jpg",
+      "url": "/tech-news/2026-01-24/why-clicking-the-wrong-copilot-link-could-put-your/",
+      "source": {
+        "emoji": "📰",
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "companies": [
+        "Microsoft"
+      ],
+      "people": []
+    },
+    {
+      "title": "Americká pojišťovna Lemonade snižuje sazby o 50 % pro řidiče používající software Full Self-Driving od Tesly",
+      "description": "Americká pojišťovna Lemonade oznámila snížení pojistného o 50 % pro řidiče elektromobilů Tesla, když řízení přebírá software Full Self-Driving (FSD). Tento krok vychází z telemetrických dat, která ukazují dvojnásobnou bezpečnost FSD oproti manuálnímu řízení.",
+      "slug": "us-insurer-lemonade-cuts-rates-50-for-drivers-usin",
+      "publishedAt": "2026-01-24T17:34:00+00:00",
+      "date": "2026-01-24 17:34:00",
+      "importance": 4,
+      "category": "autonomní řízení",
+      "urlToImage": "https://a.fsdn.com/sd/topics/ai_64.png",
+      "url": "/tech-news/2026-01-24/us-insurer-lemonade-cuts-rates-50-for-drivers-usin/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "companies": [
+        "Lemonade",
+        "Tesla"
+      ],
+      "people": []
+    },
+    {
+      "title": "Mews získává 255 milionů eur na rozvoj umělé inteligence a automatizace v hotelnictví",
+      "description": "Platforma Mews se sídlem v Amsterdamu získala 255 milionů eur (zhruba 300 milionů dolarů) v investičním kole řady D, aby posílila automatizaci a workflowy poháněné umělou inteligencí pro hotely po celém světě. Kolo vedl fond EQT Growth s novou účastí Atomico a HarbourVest Partners.",
       "slug": "mews-raises-255m-to-accelerate-ai-and-automation-i",
       "publishedAt": "2026-01-24T16:10:49+00:00",
       "date": "2026-01-24 16:10:49",
