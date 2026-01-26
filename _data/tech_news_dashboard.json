@@ -1,106 +1,76 @@
 {
-  "generated_at": "2025-12-26T16:37:49.679465+00:00",
+  "generated_at": "2026-01-26T16:42:34.177032+00:00",
   "period_days": 30,
   "current_status": {
     "health": "OK",
-    "last_run": "2025-12-26T16:16:58.706022+00:00",
+    "last_run": "2026-01-26T16:24:23.249689+00:00",
     "last_run_status": "success",
-    "articles_today": 37,
+    "articles_today": 13,
     "active_alerts": []
   },
   "daily_series": [
     {
-      "date": "2025-12-26",
+      "date": "2026-01-26",
       "sessions_count": 5,
-      "articles_fetched": 247,
-      "articles_processed": 182,
-      "articles_saved": 37,
-      "articles_skipped": 210,
+      "articles_fetched": 245,
+      "articles_processed": 180,
+      "articles_saved": 13,
+      "articles_skipped": 232,
       "skip_reasons": {
-        "low_importance": 145,
+        "low_importance": 167,
         "content_filter": 65
       },
-      "llm_cost": 7.6867,
-      "avg_duration": 1226.83,
+      "llm_cost": 7.7306,
+      "avg_duration": 1294.07,
       "success_rate": 1.0
     },
     {
-      "date": "2025-12-25",
+      "date": "2026-01-25",
       "sessions_count": 6,
-      "articles_fetched": 284,
-      "articles_processed": 207,
-      "articles_saved": 38,
-      "articles_skipped": 246,
+      "articles_fetched": 298,
+      "articles_processed": 234,
+      "articles_saved": 29,
+      "articles_skipped": 269,
       "skip_reasons": {
-        "low_importance": 169,
-        "content_filter": 77
+        "content_filter": 64,
+        "low_importance": 205
       },
-      "llm_cost": 8.7668,
-      "avg_duration": 1142.09,
+      "llm_cost": 9.641,
+      "avg_duration": 1384.56,
       "success_rate": 1.0
     },
     {
-      "date": "2025-12-24",
-      "sessions_count": 6,
-      "articles_fetched": 296,
-      "articles_processed": 215,
-      "articles_saved": 23,
-      "articles_skipped": 273,
-      "skip_reasons": {
-        "low_importance": 192,
-        "content_filter": 81
-      },
-      "llm_cost": 9.1896,
-      "avg_duration": 1150.82,
-      "success_rate": 1.0
-    },
-    {
-      "date": "2025-12-23",
+      "date": "2026-01-24",
       "sessions_count": 6,
       "articles_fetched": 296,
-      "articles_processed": 226,
-      "articles_saved": 48,
-      "articles_skipped": 248,
+      "articles_processed": 225,
+      "articles_saved": 32,
+      "articles_skipped": 264,
       "skip_reasons": {
-        "low_importance": 178,
-        "content_filter": 70
+        "low_importance": 193,
+        "content_filter": 71
       },
-      "llm_cost": 9.8354,
-      "avg_duration": 1345.87,
+      "llm_cost": 9.426,
+      "avg_duration": 1415.74,
       "success_rate": 1.0
     },
     {
-      "date": "2025-12-22",
-      "sessions_count": 6,
-      "articles_fetched": 297,
-      "articles_processed": 231,
-      "articles_saved": 27,
-      "articles_skipped": 270,
+      "date": "2026-01-23",
+      "sessions_count": 4,
+      "articles_fetched": 194,
+      "articles_processed": 156,
+      "articles_saved": 36,
+      "articles_skipped": 158,
       "skip_reasons": {
-        "content_filter": 66,
-        "low_importance": 204
+        "low_importance": 120,
+        "content_filter": 38
       },
-      "llm_cost": 9.936,
-      "avg_duration": 1507.96,
+      "llm_cost": 6.6624,
+      "avg_duration": 2107.8,
       "success_rate": 1.0
     },
     {
-      "date": "2025-12-21",
-      "sessions_count": 6,
-      "articles_fetched": 294,
-      "articles_processed": 219,
-      "articles_saved": 28,
-      "articles_skipped": 266,
-      "skip_reasons": {
-        "low_importance": 191,
-        "content_filter": 75
-      },
-      "llm_cost": 9.1113,
-      "avg_duration": 1274.3,
-      "success_rate": 1.0
-    },
-    {
-      "date": "2025-12-20",
+      "date": "2026-01-22",
       "sessions_count": 6,
       "articles_fetched": 297,
       "articles_processed": 226,
@@ -110,387 +80,417 @@
         "low_importance": 186,
         "content_filter": 71
       },
-      "llm_cost": 9.6284,
-      "avg_duration": 1574.0,
+      "llm_cost": 9.7483,
+      "avg_duration": 1942.45,
       "success_rate": 1.0
     },
     {
-      "date": "2025-12-19",
-      "sessions_count": 6,
-      "articles_fetched": 297,
-      "articles_processed": 229,
-      "articles_saved": 47,
-      "articles_skipped": 250,
-      "skip_reasons": {
-        "content_filter": 68,
-        "low_importance": 182
-      },
-      "llm_cost": 9.6848,
-      "avg_duration": 1714.92,
-      "success_rate": 1.0
-    },
-    {
-      "date": "2025-12-18",
-      "sessions_count": 6,
-      "articles_fetched": 296,
-      "articles_processed": 224,
-      "articles_saved": 40,
-      "articles_skipped": 256,
-      "skip_reasons": {
-        "content_filter": 72,
-        "low_importance": 184
-      },
-      "llm_cost": 9.5443,
-      "avg_duration": 1704.79,
-      "success_rate": 1.0
-    },
-    {
-      "date": "2025-12-17",
+      "date": "2026-01-21",
       "sessions_count": 6,
       "articles_fetched": 298,
-      "articles_processed": 219,
-      "articles_saved": 36,
-      "articles_skipped": 262,
+      "articles_processed": 237,
+      "articles_saved": 28,
+      "articles_skipped": 270,
       "skip_reasons": {
-        "content_filter": 79,
-        "low_importance": 183
+        "low_importance": 209,
+        "content_filter": 61
       },
-      "llm_cost": 9.5224,
-      "avg_duration": 1808.89,
+      "llm_cost": 9.9708,
+      "avg_duration": 2226.3,
       "success_rate": 1.0
     },
     {
-      "date": "2025-12-16",
+      "date": "2026-01-20",
       "sessions_count": 6,
-      "articles_fetched": 295,
+      "articles_fetched": 290,
       "articles_processed": 231,
-      "articles_saved": 46,
-      "articles_skipped": 249,
+      "articles_saved": 24,
+      "articles_skipped": 266,
       "skip_reasons": {
-        "low_importance": 185,
-        "content_filter": 64
+        "low_importance": 207,
+        "content_filter": 59
       },
-      "llm_cost": 9.8837,
-      "avg_duration": 1873.65,
+      "llm_cost": 9.7125,
+      "avg_duration": 2028.91,
       "success_rate": 1.0
     },
     {
-      "date": "2025-12-15",
-      "sessions_count": 6,
-      "articles_fetched": 293,
-      "articles_processed": 215,
-      "articles_saved": 39,
-      "articles_skipped": 254,
-      "skip_reasons": {
-        "low_importance": 176,
-        "content_filter": 78
-      },
-      "llm_cost": 9.2062,
-      "avg_duration": 1783.01,
-      "success_rate": 1.0
-    },
-    {
-      "date": "2025-12-14",
-      "sessions_count": 6,
-      "articles_fetched": 295,
-      "articles_processed": 221,
-      "articles_saved": 39,
-      "articles_skipped": 256,
-      "skip_reasons": {
-        "low_importance": 182,
-        "content_filter": 74
-      },
-      "llm_cost": 9.2636,
-      "avg_duration": 1619.06,
-      "success_rate": 1.0
-    },
-    {
-      "date": "2025-12-13",
+      "date": "2026-01-19",
       "sessions_count": 6,
       "articles_fetched": 292,
-      "articles_processed": 227,
-      "articles_saved": 47,
-      "articles_skipped": 245,
+      "articles_processed": 221,
+      "articles_saved": 40,
+      "articles_skipped": 252,
       "skip_reasons": {
-        "low_importance": 180,
-        "content_filter": 65
+        "content_filter": 71,
+        "low_importance": 181
       },
-      "llm_cost": 9.7728,
-      "avg_duration": 1528.43,
+      "llm_cost": 9.3845,
+      "avg_duration": 1762.81,
       "success_rate": 1.0
     },
     {
-      "date": "2025-12-12",
+      "date": "2026-01-18",
       "sessions_count": 6,
       "articles_fetched": 297,
-      "articles_processed": 229,
-      "articles_saved": 41,
-      "articles_skipped": 256,
+      "articles_processed": 222,
+      "articles_saved": 52,
+      "articles_skipped": 245,
       "skip_reasons": {
-        "low_importance": 188,
-        "content_filter": 68
+        "content_filter": 75,
+        "low_importance": 170
       },
-      "llm_cost": 9.9348,
-      "avg_duration": 1901.8,
+      "llm_cost": 9.4875,
+      "avg_duration": 1555.47,
       "success_rate": 1.0
     },
     {
-      "date": "2025-12-11",
-      "sessions_count": 5,
-      "articles_fetched": 246,
-      "articles_processed": 183,
-      "articles_saved": 36,
-      "articles_skipped": 210,
-      "skip_reasons": {
-        "low_importance": 147,
-        "content_filter": 63
-      },
-      "llm_cost": 7.8693,
-      "avg_duration": 2186.82,
-      "success_rate": 1.0
-    },
-    {
-      "date": "2025-12-10",
+      "date": "2026-01-17",
       "sessions_count": 6,
-      "articles_fetched": 295,
-      "articles_processed": 231,
-      "articles_saved": 58,
-      "articles_skipped": 237,
+      "articles_fetched": 292,
+      "articles_processed": 209,
+      "articles_saved": 39,
+      "articles_skipped": 253,
       "skip_reasons": {
-        "low_importance": 173,
-        "content_filter": 64
+        "low_importance": 170,
+        "content_filter": 83
       },
-      "llm_cost": 10.234,
-      "avg_duration": 1748.17,
+      "llm_cost": 9.0889,
+      "avg_duration": 1551.49,
       "success_rate": 1.0
     },
     {
-      "date": "2025-12-09",
-      "sessions_count": 5,
-      "articles_fetched": 244,
-      "articles_processed": 184,
-      "articles_saved": 33,
-      "articles_skipped": 211,
-      "skip_reasons": {
-        "low_importance": 151,
-        "content_filter": 60
-      },
-      "llm_cost": 7.9495,
-      "avg_duration": 1443.65,
-      "success_rate": 1.0
-    },
-    {
-      "date": "2025-12-08",
+      "date": "2026-01-16",
       "sessions_count": 6,
-      "articles_fetched": 535,
-      "articles_processed": 413,
-      "articles_saved": 251,
-      "articles_skipped": 284,
-      "skip_reasons": {
-        "low_importance": 162,
-        "content_filter": 122
-      },
-      "llm_cost": 17.4959,
-      "avg_duration": 2975.13,
-      "success_rate": 1.0
-    },
-    {
-      "date": "2025-12-07",
-      "sessions_count": 6,
-      "articles_fetched": 581,
-      "articles_processed": 454,
-      "articles_saved": 309,
-      "articles_skipped": 272,
-      "skip_reasons": {
-        "low_importance": 145,
-        "content_filter": 127
-      },
-      "llm_cost": 18.9727,
-      "avg_duration": 2772.86,
-      "success_rate": 1.0
-    },
-    {
-      "date": "2025-12-06",
-      "sessions_count": 6,
-      "articles_fetched": 583,
-      "articles_processed": 442,
-      "articles_saved": 382,
-      "articles_skipped": 201,
-      "skip_reasons": {
-        "content_filter": 141,
-        "low_importance": 60
-      },
-      "llm_cost": 2.9939,
-      "avg_duration": 512.45,
-      "success_rate": 1.0
-    },
-    {
-      "date": "2025-12-05",
-      "sessions_count": 6,
-      "articles_fetched": 593,
-      "articles_processed": 445,
-      "articles_saved": 400,
-      "articles_skipped": 193,
-      "skip_reasons": {
-        "low_importance": 45,
-        "content_filter": 148
-      },
-      "llm_cost": 0.0,
-      "avg_duration": 82.42,
-      "success_rate": 1.0
-    },
-    {
-      "date": "2025-12-04",
-      "sessions_count": 6,
-      "articles_fetched": 590,
-      "articles_processed": 458,
-      "articles_saved": 419,
-      "articles_skipped": 171,
-      "skip_reasons": {
-        "content_filter": 132,
-        "low_importance": 39
-      },
-      "llm_cost": 0.0,
-      "avg_duration": 103.33,
-      "success_rate": 1.0
-    },
-    {
-      "date": "2025-12-03",
-      "sessions_count": 6,
-      "articles_fetched": 590,
-      "articles_processed": 468,
-      "articles_saved": 370,
-      "articles_skipped": 220,
-      "skip_reasons": {
-        "content_filter": 122,
-        "low_importance": 98
-      },
-      "llm_cost": 16.3981,
-      "avg_duration": 8365.82,
-      "success_rate": 1.0
-    },
-    {
-      "date": "2025-12-02",
-      "sessions_count": 5,
-      "articles_fetched": 491,
-      "articles_processed": 378,
-      "articles_saved": 234,
+      "articles_fetched": 296,
+      "articles_processed": 221,
+      "articles_saved": 39,
       "articles_skipped": 257,
       "skip_reasons": {
-        "low_importance": 144,
-        "content_filter": 113
+        "low_importance": 182,
+        "content_filter": 75
       },
-      "llm_cost": 14.6133,
-      "avg_duration": 7610.72,
+      "llm_cost": 9.5979,
+      "avg_duration": 1551.27,
       "success_rate": 1.0
     },
     {
-      "date": "2025-12-01",
+      "date": "2026-01-15",
+      "sessions_count": 6,
+      "articles_fetched": 297,
+      "articles_processed": 233,
+      "articles_saved": 46,
+      "articles_skipped": 251,
+      "skip_reasons": {
+        "low_importance": 187,
+        "content_filter": 64
+      },
+      "llm_cost": 9.7467,
+      "avg_duration": 1854.22,
+      "success_rate": 1.0
+    },
+    {
+      "date": "2026-01-14",
       "sessions_count": 5,
-      "articles_fetched": 385,
-      "articles_processed": 263,
-      "articles_saved": 223,
-      "articles_skipped": 162,
+      "articles_fetched": 240,
+      "articles_processed": 186,
+      "articles_saved": 30,
+      "articles_skipped": 210,
       "skip_reasons": {
-        "content_filter": 122,
-        "low_importance": 40
+        "content_filter": 54,
+        "low_importance": 156
       },
-      "llm_cost": 0.4481,
-      "avg_duration": 293.5,
-      "success_rate": 0.8
-    },
-    {
-      "date": "2025-11-30",
-      "sessions_count": 6,
-      "articles_fetched": 589,
-      "articles_processed": 430,
-      "articles_saved": 364,
-      "articles_skipped": 225,
-      "skip_reasons": {
-        "low_importance": 66,
-        "content_filter": 159
-      },
-      "llm_cost": 0.0,
-      "avg_duration": 88.51,
+      "llm_cost": 7.948,
+      "avg_duration": 1725.72,
       "success_rate": 1.0
     },
     {
-      "date": "2025-11-29",
-      "sessions_count": 6,
-      "articles_fetched": 582,
-      "articles_processed": 451,
-      "articles_saved": 371,
-      "articles_skipped": 211,
+      "date": "2026-01-13",
+      "sessions_count": 5,
+      "articles_fetched": 244,
+      "articles_processed": 181,
+      "articles_saved": 46,
+      "articles_skipped": 198,
       "skip_reasons": {
-        "low_importance": 80,
-        "content_filter": 131
+        "low_importance": 135,
+        "content_filter": 63
       },
-      "llm_cost": 0.0,
-      "avg_duration": 99.42,
+      "llm_cost": 7.7801,
+      "avg_duration": 1782.98,
       "success_rate": 1.0
     },
     {
-      "date": "2025-11-28",
+      "date": "2026-01-12",
       "sessions_count": 6,
-      "articles_fetched": 584,
-      "articles_processed": 458,
-      "articles_saved": 399,
-      "articles_skipped": 185,
+      "articles_fetched": 291,
+      "articles_processed": 221,
+      "articles_saved": 34,
+      "articles_skipped": 257,
       "skip_reasons": {
-        "content_filter": 126,
-        "low_importance": 59
+        "low_importance": 187,
+        "content_filter": 70
       },
-      "llm_cost": 0.0,
-      "avg_duration": 87.95,
+      "llm_cost": 9.6426,
+      "avg_duration": 1794.59,
       "success_rate": 1.0
     },
     {
-      "date": "2025-11-27",
+      "date": "2026-01-11",
       "sessions_count": 6,
-      "articles_fetched": 587,
-      "articles_processed": 446,
-      "articles_saved": 379,
-      "articles_skipped": 208,
+      "articles_fetched": 286,
+      "articles_processed": 220,
+      "articles_saved": 26,
+      "articles_skipped": 260,
       "skip_reasons": {
-        "content_filter": 141,
-        "low_importance": 67
+        "low_importance": 194,
+        "content_filter": 66
       },
-      "llm_cost": 1.2514,
-      "avg_duration": 1415.68,
+      "llm_cost": 9.3697,
+      "avg_duration": 1586.3,
       "success_rate": 1.0
     },
     {
-      "date": "2025-11-26",
+      "date": "2026-01-10",
       "sessions_count": 6,
-      "articles_fetched": 587,
-      "articles_processed": 429,
-      "articles_saved": 352,
-      "articles_skipped": 235,
+      "articles_fetched": 290,
+      "articles_processed": 222,
+      "articles_saved": 36,
+      "articles_skipped": 254,
       "skip_reasons": {
-        "content_filter": 158,
-        "low_importance": 77
+        "low_importance": 186,
+        "content_filter": 68
       },
-      "llm_cost": 3.5436,
-      "avg_duration": 3401.39,
+      "llm_cost": 9.113,
+      "avg_duration": 1270.16,
+      "success_rate": 1.0
+    },
+    {
+      "date": "2026-01-09",
+      "sessions_count": 6,
+      "articles_fetched": 292,
+      "articles_processed": 217,
+      "articles_saved": 50,
+      "articles_skipped": 242,
+      "skip_reasons": {
+        "low_importance": 167,
+        "content_filter": 75
+      },
+      "llm_cost": 9.398,
+      "avg_duration": 1268.15,
+      "success_rate": 1.0
+    },
+    {
+      "date": "2026-01-08",
+      "sessions_count": 6,
+      "articles_fetched": 293,
+      "articles_processed": 222,
+      "articles_saved": 38,
+      "articles_skipped": 255,
+      "skip_reasons": {
+        "content_filter": 71,
+        "low_importance": 184
+      },
+      "llm_cost": 9.5132,
+      "avg_duration": 1328.94,
+      "success_rate": 1.0
+    },
+    {
+      "date": "2026-01-07",
+      "sessions_count": 6,
+      "articles_fetched": 295,
+      "articles_processed": 235,
+      "articles_saved": 44,
+      "articles_skipped": 251,
+      "skip_reasons": {
+        "low_importance": 191,
+        "content_filter": 60
+      },
+      "llm_cost": 10.1179,
+      "avg_duration": 1363.7,
+      "success_rate": 1.0
+    },
+    {
+      "date": "2026-01-06",
+      "sessions_count": 6,
+      "articles_fetched": 290,
+      "articles_processed": 225,
+      "articles_saved": 25,
+      "articles_skipped": 265,
+      "skip_reasons": {
+        "low_importance": 200,
+        "content_filter": 65
+      },
+      "llm_cost": 9.6839,
+      "avg_duration": 1270.62,
+      "success_rate": 1.0
+    },
+    {
+      "date": "2026-01-05",
+      "sessions_count": 6,
+      "articles_fetched": 296,
+      "articles_processed": 206,
+      "articles_saved": 22,
+      "articles_skipped": 274,
+      "skip_reasons": {
+        "low_importance": 184,
+        "content_filter": 90
+      },
+      "llm_cost": 8.5162,
+      "avg_duration": 1210.37,
+      "success_rate": 1.0
+    },
+    {
+      "date": "2026-01-04",
+      "sessions_count": 6,
+      "articles_fetched": 288,
+      "articles_processed": 212,
+      "articles_saved": 25,
+      "articles_skipped": 263,
+      "skip_reasons": {
+        "content_filter": 76,
+        "low_importance": 187
+      },
+      "llm_cost": 8.7375,
+      "avg_duration": 1166.16,
+      "success_rate": 1.0
+    },
+    {
+      "date": "2026-01-03",
+      "sessions_count": 6,
+      "articles_fetched": 290,
+      "articles_processed": 231,
+      "articles_saved": 43,
+      "articles_skipped": 247,
+      "skip_reasons": {
+        "low_importance": 188,
+        "content_filter": 59
+      },
+      "llm_cost": 10.1417,
+      "avg_duration": 1351.79,
+      "success_rate": 1.0
+    },
+    {
+      "date": "2026-01-02",
+      "sessions_count": 6,
+      "articles_fetched": 287,
+      "articles_processed": 210,
+      "articles_saved": 24,
+      "articles_skipped": 263,
+      "skip_reasons": {
+        "low_importance": 186,
+        "content_filter": 77
+      },
+      "llm_cost": 9.1458,
+      "avg_duration": 1185.96,
+      "success_rate": 1.0
+    },
+    {
+      "date": "2026-01-01",
+      "sessions_count": 6,
+      "articles_fetched": 292,
+      "articles_processed": 217,
+      "articles_saved": 44,
+      "articles_skipped": 248,
+      "skip_reasons": {
+        "low_importance": 173,
+        "content_filter": 75
+      },
+      "llm_cost": 9.5654,
+      "avg_duration": 1187.93,
+      "success_rate": 1.0
+    },
+    {
+      "date": "2025-12-31",
+      "sessions_count": 6,
+      "articles_fetched": 293,
+      "articles_processed": 237,
+      "articles_saved": 48,
+      "articles_skipped": 245,
+      "skip_reasons": {
+        "content_filter": 56,
+        "low_importance": 189
+      },
+      "llm_cost": 10.2497,
+      "avg_duration": 1361.58,
+      "success_rate": 1.0
+    },
+    {
+      "date": "2025-12-30",
+      "sessions_count": 6,
+      "articles_fetched": 292,
+      "articles_processed": 219,
+      "articles_saved": 32,
+      "articles_skipped": 260,
+      "skip_reasons": {
+        "low_importance": 187,
+        "content_filter": 73
+      },
+      "llm_cost": 9.3839,
+      "avg_duration": 1272.8,
+      "success_rate": 1.0
+    },
+    {
+      "date": "2025-12-29",
+      "sessions_count": 6,
+      "articles_fetched": 287,
+      "articles_processed": 214,
+      "articles_saved": 16,
+      "articles_skipped": 271,
+      "skip_reasons": {
+        "low_importance": 198,
+        "content_filter": 73
+      },
+      "llm_cost": 9.2742,
+      "avg_duration": 1271.4,
+      "success_rate": 1.0
+    },
+    {
+      "date": "2025-12-28",
+      "sessions_count": 6,
+      "articles_fetched": 300,
+      "articles_processed": 205,
+      "articles_saved": 32,
+      "articles_skipped": 268,
+      "skip_reasons": {
+        "low_importance": 173,
+        "content_filter": 95
+      },
+      "llm_cost": 8.5825,
+      "avg_duration": 1175.5,
+      "success_rate": 1.0
+    },
+    {
+      "date": "2025-12-27",
+      "sessions_count": 6,
+      "articles_fetched": 289,
+      "articles_processed": 212,
+      "articles_saved": 27,
+      "articles_skipped": 262,
+      "skip_reasons": {
+        "low_importance": 185,
+        "content_filter": 77
+      },
+      "llm_cost": 8.7305,
+      "avg_duration": 1133.91,
       "success_rate": 1.0
     }
   ],
   "aggregates": {
-    "total_articles": 5156,
-    "total_cost": 242.74,
-    "avg_daily_articles": 166.3,
+    "total_articles": 1060,
+    "total_cost": 285.09,
+    "avg_daily_articles": 34.2,
     "most_common_skip_reason": {
       "reason": "low_importance",
-      "count": 4278
+      "count": 5627
     },
     "total_sessions": 181,
-    "total_fetched": 12436,
-    "total_skipped": 7280
+    "total_fetched": 8827,
+    "total_skipped": 7767
   },
   "performance_metrics": {
-    "avg_session_duration": 1807.08,
-    "avg_api_response_time": 393.0,
-    "avg_tokens_per_article": 3139.0,
+    "avg_session_duration": 1487.75,
+    "avg_api_response_time": 399.0,
+    "avg_tokens_per_article": 4241.0,
     "error_rate": 0.0
   }
 }

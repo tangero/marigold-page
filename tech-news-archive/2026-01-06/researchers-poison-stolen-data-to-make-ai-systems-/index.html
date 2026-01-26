@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Výzkumníci otráví ukradená data, aby AI systémy vracely chybné výsledky | Marigold.cz Tech News</title>
+    <meta name="description" content="Výzkumníci z univerzit v Číně a Singapuru vyvinuli techniku, která činí ukradená data ze znalostních grafů neužitečnými pro systémy GraphRAG. Firmy by měly zváž">
+    <link rel="canonical" href="https://www.marigold.cz/tech-news/2026-01-06/researchers-poison-stolen-data-to-make-ai-systems-/">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #374151; background: #f3f4f6; }
+        .container { max-width: 800px; margin: 0 auto; padding: 2rem; }
+        .tech-news-article { background: white; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); padding: 2rem; margin: 2rem 0; }
+        .source-info { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem; flex-wrap: wrap; }
+        .source-emoji { font-size: 1.5rem; }
+        .source-name { font-weight: 600; color: #374151; }
+        .importance-indicator { display: flex; gap: 2px; margin-left: auto; }
+        .star { color: #fbbf24; font-size: 1.2rem; }
+        .star.empty { color: #d1d5db; }
+        .article-title { font-size: 2rem; font-weight: 700; line-height: 1.2; margin-bottom: 1rem; color: #111827; }
+        .article-meta { display: flex; align-items: center; gap: 1rem; font-size: 0.875rem; color: #6b7280; margin-bottom: 1.5rem; }
+        .category { padding: 0.25rem 0.75rem; border-radius: 1rem; font-weight: 500; font-size: 0.75rem; text-transform: uppercase; background: #e5e7eb; color: #374151; }
+        .article-image { margin: 1.5rem 0; border-radius: 8px; overflow: hidden; }
+        .article-image img { width: 100%; height: auto; display: block; }
+        .article-content { font-size: 1.125rem; line-height: 1.7; margin-bottom: 2rem; }
+        .article-content h2 { font-size: 1.5rem; margin: 1.5rem 0 1rem; color: #111827; }
+        .article-content p { margin-bottom: 1rem; }
+        .article-footer { border-top: 1px solid #e5e7eb; padding-top: 1.5rem; }
+        .read-more-btn { display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: #3b82f6; color: white; text-decoration: none; border-radius: 8px; font-weight: 500; }
+        .read-more-btn:hover { background: #2563eb; }
+        .original-title { margin-top: 1rem; color: #6b7280; font-size: 0.875rem; }
+        .back-link { display: inline-block; margin-bottom: 1rem; color: #3b82f6; text-decoration: none; }
+        .back-link:hover { text-decoration: underline; }
+        .archive-notice { background: #fef3c7; border: 1px solid #f59e0b; border-radius: 8px; padding: 1rem; margin-bottom: 1rem; font-size: 0.875rem; color: #92400e; }
+        @media (max-width: 640px) {
+            .container { padding: 1rem; }
+            .tech-news-article { padding: 1.5rem; margin: 1rem 0; }
+            .article-title { font-size: 1.5rem; }
+            .source-info { flex-direction: column; align-items: flex-start; }
+            .importance-indicator { margin-left: 0; margin-top: 0.5rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="/tech-news/" class="back-link">&larr; Zpět na Tech News</a>
+
+        <div class="archive-notice">
+            Tento článek je z archivu. Byl publikován 06.01.2026.
+        </div>
+
+        <article class="tech-news-article">
+            <header>
+                <div class="source-info">
+                    <span class="source-emoji">📰</span>
+                    <span class="source-name">Theregister.com</span>
+                    <div class="importance-indicator">
+                        <span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star empty">☆</span>
+                    </div>
+                </div>
+
+                <h1 class="article-title">Výzkumníci otráví ukradená data, aby AI systémy vracely chybné výsledky</h1>
+
+                <div class="article-meta">
+                    <time datetime="2026-01-06T11:27:09+00:00">06.01.2026</time>
+                    <span class="category">ai bezpečnost</span>
+                </div>
+            </header>
+
+            
+            <div class="article-image">
+                <img src="https://regmedia.co.uk/2025/10/09/shutterstock_720129613.jpg" alt="Výzkumníci otráví ukradená data, aby AI systémy vracely chybné výsledky" loading="lazy">
+            </div>
+        
+
+            <div class="article-content">
+                <h2>Souhrn</h2>
+<p>Výzkumníci přidružení k univerzitám v Číně a Singapuru vyvinuli metodu otrávení dat v znalostních grafech (knowledge graphs, KG), díky čemuž se stávají ukradená data zbytečnými, pokud jsou začleněna do AI systémů založených na GraphRAG bez souhlasu. Tato technika chrání drahé proprietární znalosti před zneužitím v konkurenčních produktech. Paper s názvem „Making Theft Useless: Adulteration-Based Protection of Proprietary Knowledge Graphs in GraphRAG Systems“ popisuje adulteraci dat jako efektivní obranu.</p>
+<h2>Klíčové body</h2>
+<ul>
+<li>Výzkumníci navrhují otrávení znalostních grafů, aby GraphRAG systémy vracely nesprávné odpovědi na dotazy.</li>
+<li>Náklady na tvorbu KG dosahují 5,71 USD za jednu faktickou výpověď, například v databázi Cyc s 21 miliony tvrzení.</li>
+<li>Firmy jako Pfizer a Siemens používají KG pro objev léků a výrobní procesy.</li>
+<li>GraphRAG, vývoj od Microsoftu, vylepšuje retrieval-augmented generation (RAG) pomocí sémantických shluků dat.</li>
+<li>Technologie je podporována Amazonem, Googlem a Microsoftem v jejich cloudových službách.</li>
+</ul>
+<h2>Podrobnosti</h2>
+<p>Velké jazykové modely (LLM) jako Gemini od Google nebo modely od Microsoftu spoléhají na tréninková data, ale pro aktuální informace se používá retrieval-augmented generation (RAG). Tato metoda umožňuje LLM přistupovat k externím datovým sadám během generování odpovědí, což zlepšuje přesnost, ale nezaručuje správnost – například Google AI Overviews v prohledávači poskytuje aktuální webová data, která nemusí být vždy přesná. GraphRAG představuje pokročilejší variantu od Microsoftu, která strukturovaná data organizuje do znalostních grafů (KG). KG jsou sémanticky propojené shluky informací, kde uzly představují entity a hrany vztahy mezi nimi, což usnadňuje LLM pochopení kontextu a generování přesnějších predikcí.</p>
+<p>Výzkumníci Weijie Wang, Peizhuo Lv a kolegové poukazují na vysoké náklady tvorby KG. Například databáze Cyc obsahuje 21 milionů faktických tvrzení a její rozšíření stojí průměrně 5,71 USD za výpověď. Firmy jako farmaceutický gigant Pfizer využívají KG pro urychlení objevování léků tím, že mapují chemické interakce a biologické dráhy. Podobně Siemens, specializující se na průmyslovou automatizaci, integruje KG do výrobních procesů pro optimalizaci a predikci poruch. Tyto KG jsou klíčovým majetkem, protože umožňují budování specializovaných AI systémů.</p>
+<p>Navrhovaná obrana spočívá v adulteraci – záměrném znečištění dat toxickými prvky. Pokud zloděj ukradne KG a načte ji do GraphRAG systému, otrávené části způsobí, že LLM bude na související dotazy odpovídat chybně nebo nesouladně. Metoda je navržena tak, aby byla nepostřehnutelná pro běžné použití originálního KG, ale devastující pro neoprávněné kopie. Autoři testovali přístup na reálných datech a prokázali výrazné snížení přesnosti v ukradených grafech.</p>
+<h2>Proč je to důležité</h2>
+<p>V éře, kdy se data stávají nejhodnotnějším aktivem pro AI, roste riziko krádeže proprietárních KG, podobně jako u mediálních tvůrců bojujících proti scrapingu pro trénink LLM. Tato technika poskytuje firemám praktickou obranu proti konkurentům, kteří by mohli ukradená data použít k rychlému nasazení levnějších AI nástrojů. Podpora GraphRAG velkými cloudy (Amazon, Google, Microsoft) znamená, že metoda má široký dosah – ovlivní celý ekosystém RAG systémů. Pro průmysl to znamená posun od pasivní ochrany (šifrování, přístupová práva) k aktivní sabotáži dat, což může změnit strategie vývoje AI. Kriticky lze dodat, že adulterace vyžaduje pečlivý design, aby nepoškodila vlastní systémy, a otevírá debatu o etice záměrných chyb v datech.</p>
+<hr />
+<p><a href="https://www.theregister.com/2026/01/06/ai_data_pollution_defense/">Číst původní článek</a></p>
+<p><strong>Zdroj:</strong> 📰 Theregister.com</p>
+            </div>
+
+            <footer class="article-footer">
+                <a href="https://www.theregister.com/2026/01/06/ai_data_pollution_defense/" target="_blank" rel="noopener" class="read-more-btn">
+                    Číst původní článek &rarr;
+                </a>
+
+                <div class="original-title"><small>Původní název: Researchers poison stolen data to make AI systems return wrong results</small></div>
+            </footer>
+        </article>
+
+        <p style="text-align: center; color: #6b7280; font-size: 0.875rem; margin-top: 2rem;">
+            &copy; 2026 <a href="https://www.marigold.cz" style="color: #3b82f6;">Marigold.cz</a>
+        </p>
+    </div>
+</body>
+</html>
