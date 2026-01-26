@@ -1,6 +1,15 @@
 [
   
     {
+      "title"    : "Clawdbot - když má AI ruce. Realita za virálním hypem autonomních agentů",
+      "url"      : "/item/clawdbot-realita-vs-hype/",
+      "category" : "AI, Anthropic, Claude, agenti",
+      "tags"     : "",
+      "date"     : "26.1.2026",
+      "content"  : "Pravděpodobně jste to sociálních sítích viděli: videa, kde AI sama spravuje e-maily, zatímco uživatel spí, nebo „staví web” na jeden příkaz. Jméno tohoto nástroje je Clawdbot. Je to hype, nebo budoucnost?Marketingová zkratka zní: „Claude, který může ovládat váš počítač.” Realita je však mnohem střízlivější a technicky náročnější. Clawdbot je fascinující pohled do budoucnosti, kde AI není “SaaS služba”, ale “kolega s vlastním počítačem”. Prostě váš parťák, kterému pošlete zprávu s instrukcí, co má udělat a on to udělá. Skvělé! Ale pro běžného uživatele je to ale zatím spíše minové pole a bezpečnostní problém.Takhle vypadá virální obliba - hvězdičky na Githubu..."
+    },
+  
+    {
       "title"    : "Zítraslavní - přijďte si poslechnout autorské čtení zítra slavných spisovatelů",
       "url"      : "/item/klub-zitraslavnych/",
       "category" : "literatura, Scribeton, čtení",
@@ -26754,7 +26763,7 @@
       "title"    : "Rubrika",
       "url"      : "/rubrika/",
       "category" : "stránka",
-      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI Závod o vaše zdravotní záznamy (14.01.2026) Anthropic představil Cowork, Claude Code pro ty ostatní... (12.01.2026) Meta údajně trénuje nový model na čínském Qwen. Jak si stojí v AI závodu? (16.12.2025) 🤖 Tohle je Game Changing AI workflow 🤡 (15.12.2025) 💰 Nový..."
+      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI Clawdbot - když má AI ruce. Realita za virálním hypem autonomních agentů (26.01.2026) Závod o vaše zdravotní záznamy (14.01.2026) Anthropic představil Cowork, Claude Code pro ty ostatní... (12.01.2026) Meta údajně trénuje nový model na čínském Qwen. Jak si stojí v AI..."
     }
     
   
@@ -27919,7 +27928,7 @@
       "title"    : "Seznam kategorií",
       "url"      : "/kategorie/",
       "category" : "stránka",
-      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 259 - UMTS: 8 - 3G: 11 - Turboúvod do mobilních sítí: 8 - Historie: 7 - Startupy: 36 - Mobilní sítě: 45 - SMS: 3 - Média: 30 - Apple: 109 - Příběhy: 41 - Sociální sítě: 65 - Knihy: 24 - eKnihy: 7 - Konference: 4 - Twitter: 3 - Video: 5 - iPhone: 20 - Flash: 3 - O2: 3 - Google: 76 - Nova: 4 - Weblogy: 8 - Ufon: 6 - CDMA: 6 - LTE: 10 - 4G: 6..."
+      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 260 - UMTS: 8 - 3G: 11 - Turboúvod do mobilních sítí: 8 - Historie: 7 - Startupy: 36 - Mobilní sítě: 45 - SMS: 3 - Média: 30 - Apple: 109 - Příběhy: 41 - Sociální sítě: 65 - Knihy: 24 - eKnihy: 7 - Konference: 4 - Twitter: 3 - Video: 5 - iPhone: 20 - Flash: 3 - O2: 3 - Google: 76 - Nova: 4 - Weblogy: 8 - Ufon: 6 - CDMA: 6 - LTE: 10 - 4G: 6..."
     }
     
   
