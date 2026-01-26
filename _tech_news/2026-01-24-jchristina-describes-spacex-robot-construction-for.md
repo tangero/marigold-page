@@ -4,9 +4,10 @@ category: kosmonautika
 companies:
 - SpaceX
 date: '2026-01-24 19:37:47'
-description: SpaceX přechází u Starship Block 3 z prototypování na škálovatelnou masovou
-  výrobu s automatizovanými procesy, které zvyšují spolehlivost a snižují náklady.
-  Cílem jsou časté mise na Mars a rozšíření konstelace Starlink.
+description: Starship Block 3 (Verze 3 nebo V3) společnosti SpaceX znamená přechod
+  od prototypů k masové produkci s důrazem na spolehlivost, nižší náklady a vysoký
+  objem výroby. Cílem jsou časté mise na Mars a rozšíření konstelace Starlink díky
+  automatizaci a nové výrobní hale GigaBay.
 importance: 4
 layout: tech_news_article
 original_title: JChristina Describes SpaceX Robot Construction for Mass Production
@@ -24,25 +25,25 @@ urlToImage: https://nextbigfuture.s3.amazonaws.com/uploads/2026/01/V3Booster.jpg
 urlToImageBackup: https://nextbigfuture.s3.amazonaws.com/uploads/2026/01/V3Booster.jpg
 ---
 
-### Souhrn
-SpaceX vyvíjí Starship Block 3 (označovaný také jako verze 3 nebo V3) jako první variantu určenou pro masovou výrobu místo prototypů. Podle Josepha Cristiny, který se zabývá analýzami kosmických technologií, se zavádí robotizované sestavování, zejména tepelných štítových dlaždic. Elon Musk plánuje starty jednou týdně do konce roku 2026, což umožní dopravu 100 tun nákladu na oběžnou dráhu pro síť Starlink.
+## Souhrn
+SpaceX s modelem Starship Block 3 (V3) opouští fázi prototypů a zaměřuje se na masovou výrobu s využitím robotické sestavy, zejména pro tepelné štíty. Podle Josepha Cristiny a citací Elona Muska z let 2025–2026 plánuje firma launch jednou týdně do konce 2026 a dlouhodobě až 10 000 raket ročně. Výrobní zařízení v Starbase na Texasu se rozšiřuje o halu GigaBay o ploše 65 000 m² za 250 milionů dolarů.
 
-### Klíčové body
-- Automatizované sestavování tepelných štítových dlaždic pro vyšší spolehlivost.
-- Výstavba továrny GigaBay v Starbase, Texas, o ploše přibližně 700 000 čtverečních stop za 250 milionů dolarů.
-- Cíl výroby 10 000 raket ročně a starty jednou týdně od roku 2026.
-- Horní stupeň Starship s 9 motory Raptor (3 hladinové a 6 vakuové verze), přechod možná až ve verzi V4 v roce 2027.
-- Zaměření na plnou znovupoužitelnost pro dopravu nákladu do oběžné dráhy Starlink.
+## Klíčové body
+- Automatizovaná sestava tepelných dlaždic a dalších komponent pro vyšší spolehlivost a nižší náklady.
+- Nová hala GigaBay určená k urychlení produkce horních stupňů Starship.
+- Plánovaný přechod horního stupně na 9 motorů Raptor (3 hladinové, 6 vakuové), možná až pro verzi V4 v roce 2027.
+- Cíl: 1 start týdně s dodávkou 100 tun na oběžnou dráhu pro Starlink při plné znovupoužitelnosti.
+- Dlouhodobá vize: 10 000 raket ročně pro mise na Mars a expanzi satelitní sítě.
 
-### Podrobnosti
-SpaceX, firma Elona Muska specializující se na vývoj raket s plnou znovupoužitelností, přechází u Starship Block 3 k výrobním procesům podobným automobilovému průmyslu. Doposud sloužily prototypy k testování designu, nyní se soustředí na sériovou výrobu, která umožní snížit náklady na jednotku a zvýšit tempo produkce. Klíčovou změnou je robotizované sestavování, které Christina popsal na základě dostupných informací – zejména u tepelných štítových dlaždic, které chrání raketu při návratu z oběžné dráhy. Tyto dlaždice musí odolat extrémním teplotám při aerodynamickém brzdění v atmosféře.
+## Podrobnosti
+Joseph Cristina, známý pozorovatel SpaceX, popsal v lednu 2026 přechod Starship Block 3 k sériové výrobě, kde robotické systémy přebírají klíčové procesy jako instalace tisíců tepelných dlaždic na tepelný štít. Tyto dlaždice chrání raketu při návratu z oběžné dráhy a jejich automatizovaná montáž snižuje chyby oproti ruční práci v předchozích verzích. Výrobní komplex Starbase v Texasu se rozrůstá o GigaBay, strukturu o ploše přibližně 65 000 metrů čtverečních za investici 250 milionů dolarů, navrženou pro paralelní sestavu více raket současně.
 
-Výrobní zařízení v Starbase, Texas, se rozšiřuje o strukturu GigaBay s plochou 65 000 metrů čtverečních, jejíž stavba stojí 250 milionů dolarů. Tato továrna je navržena pro vysoký výdej, Musk mluví o kapacitě 10 000 raket ročně. V tweetu z 24. října 2025 uvedl, že další start bude verze 3, která je výrazně lepší než verze 2, a verze 4 zdvojnásobí nosnost. V březnu 2025 předpověděl starty jednou týdně za 12 měsíců, tedy koncem 2026, s dopravou 100 tun na oběžnou dráhu Starlink při plné znovupoužitelnosti.
+Elon Musk v říjnu 2025 na platformě X uvedl, že SpaceX směřuje k startu jednou týdně do 12 měsíců, což by mělo nastat koncem 2026, s dodávkou 100 tun nákladu na nízkou oběžnou dráhu pro konstelaci Starlink při plné znovupoužitelnosti. V březnu 2025 dodal, že design V3 je téměř dokončený a radikálně lepší než V2, s plány na V4, která zdvojnásobí nosnost. Zmínka o 9 motorech na horním stupni (namísto současných 6: 3 hladinové Raptor a 3 vakuové) se objevuje v kontextu V3, ale podle dostupných screenshotů a spekulací by mohla přijít až v V4 kolem 2027. Raptory slouží k pohonu: hladinové verze pro start a přistání na Zemi, vakuové pro efektivitu ve vesmíru.
 
-Horní stupeň Starship prochází změnou z 6 na 9 motorů Raptor: 3 sea-level varianty pro start a manévry v atmosféře a 6 vakových pro vesmír. Christina naznačuje, že 9motorová konfigurace může přijít až ve verzi V4 v roce 2027, zatímco V3 zůstane u současného designu. Tyto motory slouží k pohonu rakety kapalným kyslíkem a metanem, což umožňuje výrobu paliva na Marsu z místních zdrojů. Plány Muska jsou ambiciózní, ale historie SpaceX ukazuje, že termíny se často posouvají kvůli regulačním a technickým výzvám, jako byly explozemi prototypů.
+Tento posun reflektuje strategii SpaceX na rychlou iteraci, kde prototypování ustupuje sériové výrobě podobně jako u Tesla Gigafactory. Historicky SpaceX čelilo zpožděním – například slibovaný týdenní rytmus startů byl odkládán – ale úspěšné testy V2 ukazují pokrok v reusabilitě. Robotizace snižuje náklady na launch pod 10 milionů dolarů, což je klíčové pro ekonomiku Starlinku s tisíci satelitů.
 
-### Proč je to důležité
-Přechod k masové výrobě Starship Block 3 znamená konec éry nákladných prototypů a začátek éry levných, častých startů, což změní ekonomiku kosmonautiky. Pro Starlink, konstelaci tisíců satelitů pro globální internet, to umožní rychlou expanzi a snížení cen přenosu dat. V širším kontextu to posiluje konkurenci vůči tradičním hráčům jako Boeing nebo ULA, kde stojí starty desítky milionů dolarů. Pokud SpaceX dosáhne cíle 52 startů ročně, stane se dominantním poskytovatelem nákladní dopravy do vesmíru, což urychlí projekty jako mise na Mars nebo lunární základny. Nicméně úspěch závisí na ověření znovupoužitelnosti a regulačním schválení FAA, bez čehož zůstanou plány teoretickými.
+## Proč je to důležité
+Masová výroba Starship V3 umožní SpaceX dominovat v satelitní konektivitě prostřednictvím Starlinku, který již pokrývá globální internet, a otevře cestu k pravidelným misím na Mars. Pro průmysl to znamená tlak na konkurenty jako Blue Origin nebo ULA k podobné automatizaci, kde současné náklady na kg nákladu přesahují 2000 dolarů oproti cílovým 10 dolarům u Starship. V širším kontextu urychluje to komercializaci vesmíru, snižuje závislost na státních programech jako SLS NASA a podporuje dlouhodobé cíle jako multiplanetární civilizace, i když závisí na řešení regulačních a technických rizik jako exploze při testech.
 
 ---
 

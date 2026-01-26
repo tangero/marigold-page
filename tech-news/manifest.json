@@ -1,10 +1,10 @@
 {
-  "generated": "2026-01-25T20:41:18.545330+00:00",
-  "count": 193,
+  "generated": "2026-01-26T01:24:18.487102+00:00",
+  "count": 194,
   "articles": [
     {
       "title": "JChristina popisuje robotickou konstrukci SpaceX pro masovou výrobu Starship Block 3",
-      "description": "SpaceX přechází u Starship Block 3 z prototypování na škálovatelnou masovou výrobu s automatizovanými procesy, které zvyšují spolehlivost a snižují náklady. Cílem jsou časté mise na Mars a rozšíření konstelace Starlink.",
+      "description": "Starship Block 3 (Verze 3 nebo V3) společnosti SpaceX znamená přechod od prototypů k masové produkci s důrazem na spolehlivost, nižší náklady a vysoký objem výroby. Cílem jsou časté mise na Mars a rozšíření konstelace Starlink díky automatizaci a nové výrobní hale GigaBay.",
       "slug": "jchristina-describes-spacex-robot-construction-for",
       "publishedAt": "2026-01-24T19:37:47+00:00",
       "date": "2026-01-24 19:37:47",
@@ -21,6 +21,26 @@
         "SpaceX"
       ],
       "people": []
+    },
+    {
+      "title": "AI experti se na Davosu střetli v debatě o blízkosti inteligence na úrovni člověka",
+      "description": "Přední AI lídři na Davosu nesouhlasí, zda velké jazykové modely (LLM) vedou k umělé obecné inteligenci (AGI). Demis Hassabis z Google DeepMind a Yann LeCun tvrdí, že současné systémy jsou daleko od cíle, na rozdíl od optimistů z OpenAI a Anthropic.",
+      "slug": "ai-luminaries-clash-at-davos-over-how-close-human-",
+      "publishedAt": "2026-01-24T19:34:00+00:00",
+      "date": "2026-01-24 19:34:00",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://a.fsdn.com/sd/topics/ai_64.png",
+      "url": "/tech-news/2026-01-24/ai-luminaries-clash-at-davos-over-how-close-human/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "companies": [],
+      "people": [
+        "Demis Hassabis"
+      ]
     },
     {
       "title": "NVIDIA a AMD volbou TSMC jako hlavního výrobce čipů udělaly jednu z největších sázek historie a změnily průmysl",
