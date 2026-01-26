@@ -1,15 +1,81 @@
 {
-  "generated": "2026-01-26T08:48:24.455124+00:00",
-  "count": 197,
+  "generated": "2026-01-26T13:01:03.958453+00:00",
+  "count": 200,
   "articles": [
     {
-      "title": "Siri 2.0 vs. Siri 3.0: Upgrade iOS 27, který mění hru",
-      "description": "Apple připravuje Siri 2.0 a Siri 3.0 pro rok 2026, což představuje významný posun v AI asistentech. Integrace pokročilých modelů jako Google Gemini umožní lepší zpracování složitých úkolů a kontextovou paměť.",
+      "title": "Chyba v protokolu Google Fast Pair umožňuje hackerům převzít sluchátka",
+      "description": "Výzkumníci z KU Leuven odhalili zranitelnosti v protokolu Google Fast Pair pod názvem WhisperPair, které umožňují tiché převzetí Bluetooth zařízení jako sluchátka nebo reproduktory. Google na to reaguje vydáním záplat pro výrobce a aktualizací certifikačních požadavků.",
+      "slug": "google-fast-pair-flaw-lets-hackers-hijack-headphon",
+      "publishedAt": "2026-01-25T12:02:55+00:00",
+      "date": "2026-01-25 12:02:55",
+      "importance": 5,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/google-fast-pair-hacking.jpg",
+      "url": "/tech-news/2026-01-25/google-fast-pair-flaw-lets-hackers-hijack-headphon/",
+      "source": {
+        "emoji": "📰",
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Sam Altman z OpenAI plánuje návštěvu Indie, současně s India AI Impact Summit v New Delhi",
+      "description": "Návštěva Altmana, jeho první v Indii po téměř roce, se shoduje s India AI Impact Summit 2026 v New Delhi od 16. do 20. února, kde se očekávají Jensen Huang z Nvidia, Sundar Pichai z Google a Mukesh Ambani z Reliance Industries. Účast Altmana však není potvrzena a plány mohou změnit.",
+      "slug": "openais-sam-altman-eyes-india-visit-as-global-ai-l",
+      "publishedAt": "2026-01-25T11:04:21+00:00",
+      "date": "2026-01-25 11:04:21",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-47682,resizemode-75,msid-127470231/tech/artificial-intelligence/openais-sam-altman-eyes-india-visit-as-global-ai-leaders-gather-in-new-delhi.jpg",
+      "url": "/tech-news/2026-01-25/openais-sam-altman-eyes-india-visit-as-global-ai-l/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "OpenAI",
+        "Nvidia",
+        "Google"
+      ],
+      "people": [
+        "Sam Altman",
+        "Jensen Huang",
+        "Sundar Pichai"
+      ]
+    },
+    {
+      "title": "Týdenní přehled: Kompromitovány i plně aktualizované firewally FortiGate, útočníci testují chybu Cisco umožňující vzdálené provedení kódu",
+      "description": "Přehled klíčových událostí minulého týdne v kyberbezpečnosti zahrnuje kompromitaci aktualizovaných firewallů FortiGate, testování zranitelnosti Cisco RCE a další hrozby jako škodlivé rozšíření prohlížeče či napadené Linux aplikace.",
+      "slug": "week-in-review-fully-patched-fortigate-firewalls-a",
+      "publishedAt": "2026-01-25T09:00:02+00:00",
+      "date": "2026-01-25 09:00:02",
+      "importance": 5,
+      "category": "kybernetika",
+      "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/25124832/cybersecurity-week-review-2-1500.webp",
+      "url": "/tech-news/2026-01-25/week-in-review-fully-patched-fortigate-firewalls-a/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Help Net Security"
+      },
+      "companies": [
+        "Cisco"
+      ],
+      "people": []
+    },
+    {
+      "title": "Siri 2.0 oproti Siri 3.0: Upgrade iOS 27 pro pokročilejší AI asistenta",
+      "description": "Apple plánuje v roce 2026 vydat Siri 2.0 s aktualizací iOS 26.4 a následně Siri 3.0, což představuje významný krok k integraci pokročilých AI modelů. Tyto verze mají zlepšit zpracování složitých úkolů, kontextovou paměť a vyhledávání souborů pomocí modelů jako Google Gemini na serverech Apple.",
       "slug": "siri-20-vs-siri-30-the-ios-27-upgrade-that-changes",
       "publishedAt": "2026-01-25T08:00:04+00:00",
       "date": "2026-01-25 08:00:04",
       "importance": 4,
-      "category": "ai",
+      "category": "umělá inteligence",
       "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/01/siri-3-0-generative-ai-update_optimized.jpg",
       "url": "/tech-news/2026-01-25/siri-20-vs-siri-30-the-ios-27-upgrade-that-changes/",
       "source": {

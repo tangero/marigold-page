@@ -1,12 +1,13 @@
 ---
 author: Marisa Aigen
-category: ai
+category: umělá inteligence
 companies:
 - Apple
 date: '2026-01-25 08:00:04'
-description: Apple připravuje Siri 2.0 a Siri 3.0 pro rok 2026, což představuje významný
-  posun v AI asistentech. Integrace pokročilých modelů jako Google Gemini umožní lepší
-  zpracování složitých úkolů a kontextovou paměť.
+description: Apple plánuje v roce 2026 vydat Siri 2.0 s aktualizací iOS 26.4 a následně
+  Siri 3.0, což představuje významný krok k integraci pokročilých AI modelů. Tyto
+  verze mají zlepšit zpracování složitých úkolů, kontextovou paměť a vyhledávání souborů
+  pomocí modelů jako Google Gemini na serverech Apple.
 importance: 4
 layout: tech_news_article
 original_title: 'Siri 2.0 vs Siri 3.0: The iOS 27 Upgrade That Changes Everything'
@@ -16,31 +17,31 @@ source:
   emoji: 📰
   id: null
   name: Geeky Gadgets
-title: 'Siri 2.0 vs. Siri 3.0: Upgrade iOS 27, který mění hru'
+title: 'Siri 2.0 oproti Siri 3.0: Upgrade iOS 27 pro pokročilejší AI asistenta'
 url: https://www.geeky-gadgets.com/siri-2-0-vs-siri-3-0/
 urlToImage: https://www.geeky-gadgets.com/wp-content/uploads/2026/01/siri-3-0-generative-ai-update_optimized.jpg
 urlToImageBackup: https://www.geeky-gadgets.com/wp-content/uploads/2026/01/siri-3-0-generative-ai-update_optimized.jpg
 ---
 
 ## Souhrn
-Apple chystá vydání Siri 2.0 s aktualizací iOS 26.4 na jaře 2026 a následně Siri 3.0, které transformují hlasového asistenta na sofistikovanější nástroj. Tyto verze integrují pokročilé chatbotové technologie a modely Google Gemini hostované na serverech Apple, čímž Siri získá schopnosti srovnatelné s konkurencí v generativní AI. Změny se zaměřují na lepší porozumění kontextu, správu úkolů a interakci s daty uživatele.
+Apple připravuje vydání Siri 2.0 v jarní aktualizaci iOS 26.4 v roce 2026, která přinese vylepšení v podobě rozšířené znalostní báze, správy složitých úkolů a konverzační paměti. Tato verze využije Google Gemini foundation models hostované na serverech Apple, což umožní Siri lépe konkurovat jiným AI asistentům. Siri 3.0 má následovat jako další fáze, s ještě většími pokroky v generativní AI.
 
 ## Klíčové body
 - Rozšířená znalostní báze pro přesnější odpovědi na složité otázky.
-- Pokročilá správa vícekrokových úkolů, včetně plánování schůzek a seznamů úkolů.
-- Konverzační paměť pro uchování informací z předchozích interakcí.
-- Hledání a načítání souborů napříč zařízeními uživatele.
-- Použití modelů Google Gemini na Apple serverech pro rychlost a soukromí.
+- Zlepšená správa vícekrokových úkolů, jako plánování schůzek nebo organizace seznamů úkolů.
+- Konverzační paměť, která si uchovává informace z předchozích interakcí pro personalizované odpovědi.
+- Funkce vyhledávání a načítání souborů napříč zařízeními uživatele.
+- Integrace pokročilých chatbot technologií pro plynulejší interakce.
 
 ## Podrobnosti
-Siri 2.0, plánovaná pro iOS 26.4, představuje první fázi Apple strategie v AI. Tato verze nahradí současné omezené schopnosti asistenta pokročilými funkcemi založenými na velkých jazykových modelech (LLM). Například rozšířená znalostní báze umožní Siri čerpat z širšího spektra dat, což znamená, že na otázky jako „Jaké jsou nejlepší strategie pro optimalizaci baterie v mé iPhone?“ odpoví s ohledem na aktuální model zařízení a uživatelské návyky, místo obecných rad.
+Siri 2.0, plánovaná na jaro 2026 s iOS 26.4, označuje první etapu Apple strategie v oblasti AI asistentů. Tato aktualizace se zaměřuje na zpracování komplexních úkolů, kde současná Siri často selhává kvůli omezené kontextové povědomí. Pomocí Google Gemini foundation models, které poběží na Apple serverech, získá Siri přístup k širšímu spektru dat bez nutnosti odesílat žádosti na externí servery Google, což by mělo zachovat soukromí uživatelů. Foundation models jsou velké jazykové modely (LLM) optimalizované pro generování textu a porozumění kontextu, podobně jako GPT nebo Llama, ale zde přizpůsobené pro hlasové interakce.
 
-Správa úkolů se posouvá na vyšší úroveň: Siri bude schopna řešit multi-step procesy, jako je „Naplánuj schůzku s Janem na pondělí v 14 hodin, pošli mu pozvánku přes Kalendář a nastav si připomínku 30 minut předem.“ To zahrnuje integraci s nativními aplikacemi jako Kalendář, Připomínky a Mail. Konverzační paměť funguje tak, že si Siri zapamatuje detaily z minulých rozhovorů – pokud řeknete „Připomeň mi ten recept na tiramisu, o kterém jsme mluvili minulý týden“, systém vyhledá kontext a poskytne relevantní informace. Hledání souborů umožní příkazy typu „Najdi tu prezentaci z minulého měsíce na mém Macu“, kde Siri prohledá iCloud, lokální úložiště a připojená zařízení.
+Mezi klíčovými funkcemi patří rozšířená znalostní báze, která umožní Siri odpovídat na nuancované otázky z oblastí jako věda, historie nebo aktuální události s vyšší přesností než dosud. Správa úkolů se posune na úroveň multi-step tasků: uživatel může říct „Naplánuj schůzku s Tomem na pondělí, pošli mu připomínku a přidej do mého kalendáře“, a Siri to zpracuje v jednom toku. Konverzační paměť funguje tak, že si Siri zapamatuje detaily z minulých rozhovorů – například preference v restauracích nebo rodinné údaje – a aplikuje je v budoucích interakcích, což zvyšuje personalizaci bez nutnosti opakovaného zadávání informací.
 
-Tyto funkce běží na Apple serverech s modely Google Gemini, což zajišťuje nízkou latenci a zachování soukromí dat – data neopouštějí ekosystém Apple. Siri 3.0, očekávaná později v roce 2026 s iOS 27, by měla přinést ještě větší autonomii, včetně generování obsahu a hlubší integrace s aplikacemi třetích stran. Informace vycházejí z analýzy videa kanálu iDeviceHelp na YouTube, který se specializuje na Apple novinky a leaky z dodavatelského řetězce.
+Další praktickou funkcí je vyhledávání souborů: Siri prohledá obsah iPhonu, iPadu nebo Macu a vrátí konkrétní dokumenty, fotky nebo poznámky na základě popisu, jako „Najdi tu fotku z dovolené v Itálii z loňského léta“. Tyto změny vycházejí z potřeby Apple dohnat zpoždění vůči konkurentům jako Google Assistant nebo ChatGPT, které již nabízejí podobné schopnosti. Zdrojem informací je video na YouTube od kanálu iDeviceHelp, který se zaměřuje na Apple novinky a leaky z interních zdrojů. Siri 3.0, zmíněná v titulech jako součást iOS 27, má přinést ještě pokročilejší generativní funkce, ale detaily zatím nejsou známy.
 
 ## Proč je to důležité
-Tento upgrade řeší dlouhodobou slabost Siri vůči konkurentům jako Google Assistant nebo ChatGPT, kde Apple dosud zaostávalo v generativní AI. Pro uživatele to znamená přechod od reaktivního asistenta k proaktivnímu nástroji, který zvyšuje produktivitu v každodenním používání iPhone, iPadu nebo Macu. V širším kontextu posiluje Apple pozici v AI trhu, kde dominují OpenAI a Google – integrace Gemini modelů signalizuje strategická partnerství a snahu o soběstačnost. Pokud se plány potvrdí, iOS 27 by mohl přilákat uživatele z Androidu díky lepší AI personalizaci. Nicméně závislost na externích modelech jako Gemini vyvolává otázky ohledně dlouhodobé kontroly nad AI a potenciálních bezpečnostních rizik při zpracování citlivých dat.
+Tento upgrade posouvá Siri z jednoduchého hlasového příkazového nástroje na plnohodnotného AI asistenta schopného generativního myšlení, což umožní Apple lépe konkurovat v trhu generativní AI, kde dominují OpenAI, Google a Anthropic. Pro uživatele to znamená vyšší produktivitu v každodenních úkolech, jako organizace času nebo správa dat, bez nutnosti přecházet na jiné aplikace. V širším kontextu to signalizuje, že Apple investuje do vlastní AI infrastruktury, včetně serverů pro hosting modelů, aby minimalizovalo závislost na externích poskytovatelích a posílilo bezpečnost dat. Pokud se plány potvrdí, může to ovlivnit ekosystém iOS zařízení, kde se Siri stane centrálním bodem pro AI interakce, a donutit konkurenty jako Samsung nebo Microsoft k podobným upgradům. Celkově to představuje strategický tah Apple k udržení dominance v prémiovém segmentu smartphonů prostřednictvím AI.
 
 ---
 
