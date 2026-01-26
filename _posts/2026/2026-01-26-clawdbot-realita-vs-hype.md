@@ -22,6 +22,9 @@ Pravděpodobně jste to sociálních sítích viděli: videa, kde AI sama spravu
 
 Marketingová zkratka zní: _„Claude, který může ovládat váš počítač."_ Realita je však mnohem střízlivější a technicky náročnější. Clawdbot je fascinující pohled do budoucnosti, kde AI není "SaaS služba", ale "kolega s vlastním počítačem". Prostě váš parťák, kterému pošlete zprávu s instrukcí, co má udělat a on to udělá. Skvělé!  Ale pro běžného uživatele je to ale zatím spíše minové pole a bezpečnostní problém.
 
+![Takhle vypadá virální obliba - hvězdičky na Githubu letí vzhůru](/assets/github-stars-clawdbot.jpeg)
+_Takhle vypadá virální obliba - hvězdičky na Githubu letí vzhůru_
+
 ## Co Clawdbot technicky je (bez marketingu)
 
 [Clawdbot](https://clawd.bot) není aplikace z App Store. Je to **open-source framework běžící lokálně** (vyžaduje Node.js), který funguje jako prostředník (Gateway) mezi třemi body:
