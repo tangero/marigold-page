@@ -1,7 +1,31 @@
 {
-  "generated": "2026-01-26T01:24:18.487102+00:00",
-  "count": 194,
+  "generated": "2026-01-26T05:08:56.004458+00:00",
+  "count": 195,
   "articles": [
+    {
+      "title": "Revoluce AI v podnikání: Co se stane se SaaS, OpenAI a Microsoftem?",
+      "description": "Satya Nadella popisuje budoucnost AI copilots a agentů a jejich dopad na práci v kancelářích. Vysvětluje evoluci Microsoft Copilotu od nápověd kódování po autonomní agenty a srovnává vývoj AI modelů s historií databázového trhu.",
+      "slug": "ais-business-revolution-what-happens-to-saas-opena",
+      "publishedAt": "2026-01-25T02:16:38+00:00",
+      "date": "2026-01-25 02:16:38",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2023/03/microsoftai.jpeg",
+      "url": "/tech-news/2026-01-25/ais-business-revolution-what-happens-to-saas-opena/",
+      "source": {
+        "emoji": "📰",
+        "id": "next-big-future",
+        "name": "Next Big Future"
+      },
+      "companies": [
+        "OpenAI",
+        "Microsoft",
+        "GitHub"
+      ],
+      "people": [
+        "Satya Nadella"
+      ]
+    },
     {
       "title": "JChristina popisuje robotickou konstrukci SpaceX pro masovou výrobu Starship Block 3",
       "description": "Starship Block 3 (Verze 3 nebo V3) společnosti SpaceX znamená přechod od prototypů k masové produkci s důrazem na spolehlivost, nižší náklady a vysoký objem výroby. Cílem jsou časté mise na Mars a rozšíření konstelace Starlink díky automatizaci a nové výrobní hale GigaBay.",
