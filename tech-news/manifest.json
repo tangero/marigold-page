@@ -1,7 +1,66 @@
 {
-  "generated": "2026-01-26T13:01:03.958453+00:00",
+  "generated": "2026-01-26T16:42:33.712826+00:00",
   "count": 200,
   "articles": [
+    {
+      "title": "Apple odhalí vylepšenou Siri s podporou Gemini v únoru 2026, omezuje ‚World Knowledge Answers‘ a AI v Safari",
+      "description": "Apple podle informací z newsletteru Marka Gurmana plánuje představit novou Siri poháněnou modelem Gemini od Google už v únoru 2026. Tato verze přijde s aktualizací iOS 26.4 a přinese pokročilé funkce, zatímco společnost zpomaluje jiné AI projekty.",
+      "slug": "apple-to-unveil-the-revamped-gemini-backed-siri-in",
+      "publishedAt": "2026-01-25T16:20:01+00:00",
+      "date": "2026-01-25 16:20:01",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/01/Apple-Siri-1.jpg",
+      "url": "/tech-news/2026-01-25/apple-to-unveil-the-revamped-gemini-backed-siri-in/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Wccftech"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Kdy plánuje Apple odhalit novou Siri poháněnou Google Gemini",
+      "description": "Apple plánuje představit personalizovanější verzi Siri poháněnou modelem Google Gemini v druhé polovině února, podle analytika Marka Gurmana z Bloombergu. Tato verze bude součástí aktualizace iOS 26.4 a umožní asistentovi přístup k osobním datům a obsahu na obrazovce.",
+      "slug": "heres-when-apple-plans-to-unveil-a-new-siri-powere",
+      "publishedAt": "2026-01-25T15:21:54+00:00",
+      "date": "2026-01-25 15:21:54",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://images.macrumors.com/t/ORk-7wZLnGzYz-7TJ-ugstvyR8Q=/1600x/article-new/2026/01/siri-gemini-iphone.jpg",
+      "url": "/tech-news/2026-01-25/heres-when-apple-plans-to-unveil-a-new-siri-powere/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "MacRumors"
+      },
+      "companies": [
+        "Apple",
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Bez rukou, bez řidiče, žádný problém? Láska San Francisca k robotaxi",
+      "description": "Jak se autonomní řídicí vozy šíří po oblasti Bay, ženy patří mezi jejich největší uživatele.",
+      "slug": "no-hands-no-driver-no-problem-san-franciscos-love-",
+      "publishedAt": "2026-01-25T13:00:00+00:00",
+      "date": "2026-01-25 13:00:00",
+      "importance": 4,
+      "category": "autonomní vozy",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/JATRGDAZU46WWBDL6R4MXXAH4E.jpg?smart=true&auth=a36259a9164e41e04c3f4ebf1dbcdb0417c5918ef18654d94f8d834b0748d7c4&width=1200&height=630",
+      "url": "/tech-news/2026-01-25/no-hands-no-driver-no-problem-san-franciscos-love/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Chyba v protokolu Google Fast Pair umožňuje hackerům převzít sluchátka",
       "description": "Výzkumníci z KU Leuven odhalili zranitelnosti v protokolu Google Fast Pair pod názvem WhisperPair, které umožňují tiché převzetí Bluetooth zařízení jako sluchátka nebo reproduktory. Google na to reaguje vydáním záplat pro výrobce a aktualizací certifikačních požadavků.",
@@ -3854,26 +3913,6 @@
       "people": []
     },
     {
-      "title": "Prozkoumání všech aplikací a nástrojů Google AI pro rok 2026: Včetně pokročilých funkcí Gemini 3",
-      "description": "Blazing Zebra analyzuje rozsáhlý ekosystém Google AI s více než 30 nástroji, které mění tvorbu obsahu, vývoj softwaru a automatizaci úkolů. Článek zdůrazňuje Gemini Advanced s kontextovým oknem 1 milion tokenů a další nástroje pro produktivitu i kreativitu.",
-      "slug": "all-google-ai-apps-tools-for-2026-explored-includi",
-      "publishedAt": "2026-01-18T11:00:56+00:00",
-      "date": "2026-01-18 11:00:56",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/01/notebook-lm-source-grounded-content_optimized.jpg",
-      "url": "/tech-news/2026-01-18/all-google-ai-apps-tools-for-2026-explored-includi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
       "title": "Elon Musk proti OpenAI: Co nově odtajněné soudní dokumenty odhalují a co ne",
       "description": "Odtajněné soudní záznamy získané během právního procesu zahrnují výpovědi klíčových osob zapojených do případu, jako jsou Sam Altman, Greg Brockman, Ilya Sutskever, Mira Murati a Satya Nadella. Dokumenty odhalují detaily o sporech kolem změny modelu OpenAI z neziskového na ziskový.",
       "slug": "elon-musk-vs-openai-what-newly-unsealed-court-docs",
@@ -3895,28 +3934,6 @@
         "Elon Musk",
         "Sam Altman",
         "Greg Brockman"
-      ]
-    },
-    {
-      "title": "Tři majitelé Tesla reagují na změnu FSD od Elona Muska",
-      "description": "Reakce majitelů Tesla na oznámení Elona Muska, že systém FSD bude dostupný pouze za 99 dolarů měsíčně, se pohybují od frustrace po nadšení.",
-      "slug": "A-3-tesla-owners-react-to-elon-musks-fsd-change",
-      "publishedAt": "2026-01-18T10:00:01+00:00",
-      "date": "2026-01-18 10:00:01",
-      "importance": 4,
-      "category": "elektromobilita",
-      "urlToImage": "https://i.insider.com/696a576ba645d11881877b90?width=1200&format=jpeg",
-      "url": "/tech-news/2026-01-18/A-3-tesla-owners-react-to-elon-musks-fsd-change/",
-      "source": {
-        "emoji": "📰",
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "companies": [
-        "Tesla"
-      ],
-      "people": [
-        "Elon Musk"
       ]
     },
     {
@@ -4041,31 +4058,6 @@
         "Thinking Machines"
       ],
       "people": []
-    },
-    {
-      "title": "Bitva o talenty v AI nabírá na obrátkách: Bývalí zaměstnanci OpenAI se vracejí z Miry Muratiiny Thinking Machines",
-      "description": "OpenAI přijalo zpět tři specialisty – Barret Zoph, Luke Metz a Sam Schoenholz –, kteří odešli do startupu Thinking Machines zakládatelky Miry Murati. Tento pohyb zdůrazňuje intenzivní soutěž o vrcholové AI odborníky v miliardovém sektoru.",
-      "slug": "battle-for-ai-talent-heats-up-as-former-openai-sta",
-      "publishedAt": "2026-01-18T05:43:04+00:00",
-      "date": "2026-01-18 05:43:04",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2026/01/18/1600x900/Mira_Murati_Thinking_Machines_OpenAI_1768714817072_1768714817208.jpg",
-      "url": "/tech-news/2026-01-18/battle-for-ai-talent-heats-up-as-former-openai-sta/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Livemint"
-      },
-      "companies": [
-        "OpenAI",
-        "Thinking Machines"
-      ],
-      "people": [
-        "Mira Murati",
-        "Barret Zoph",
-        "Luke Metz"
-      ]
     },
     {
       "title": "Obavy z bezpečnosti umělé inteligence",
