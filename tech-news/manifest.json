@@ -1,15 +1,55 @@
 {
-  "generated": "2026-01-26T05:08:56.004458+00:00",
-  "count": 195,
+  "generated": "2026-01-26T08:48:24.455124+00:00",
+  "count": 197,
   "articles": [
     {
-      "title": "Revoluce AI v podnikání: Co se stane se SaaS, OpenAI a Microsoftem?",
-      "description": "Satya Nadella popisuje budoucnost AI copilots a agentů a jejich dopad na práci v kancelářích. Vysvětluje evoluci Microsoft Copilotu od nápověd kódování po autonomní agenty a srovnává vývoj AI modelů s historií databázového trhu.",
+      "title": "Siri 2.0 vs. Siri 3.0: Upgrade iOS 27, který mění hru",
+      "description": "Apple připravuje Siri 2.0 a Siri 3.0 pro rok 2026, což představuje významný posun v AI asistentech. Integrace pokročilých modelů jako Google Gemini umožní lepší zpracování složitých úkolů a kontextovou paměť.",
+      "slug": "siri-20-vs-siri-30-the-ios-27-upgrade-that-changes",
+      "publishedAt": "2026-01-25T08:00:04+00:00",
+      "date": "2026-01-25 08:00:04",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/01/siri-3-0-generative-ai-update_optimized.jpg",
+      "url": "/tech-news/2026-01-25/siri-20-vs-siri-30-the-ios-27-upgrade-that-changes/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Únik o akci Apple v Los Angeles: Přicházejí MacBook Pro s M5 Max",
+      "description": "Apple připravuje exkluzivní akci v Los Angeles od 27. do 29. ledna 2026, kde představí nové MacBook Pro s čipy M5 Pro a M5 Max. Tato soukromá akce je zaměřena na profesionální tvůrce obsahu a zahrnuje i novou sadu nástrojů Creator Studio.",
+      "slug": "apples-la-event-just-leaked-m5-max-macbook-pros-co",
+      "publishedAt": "2026-01-25T05:11:48+00:00",
+      "date": "2026-01-25 05:11:48",
+      "importance": 4,
+      "category": "hardware",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/01/m5-macbook-pros-creator-studio-launch-event_optimized.jpg",
+      "url": "/tech-news/2026-01-25/apples-la-event-just-leaked-m5-max-macbook-pros-co/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Revoluce AI v byznysu: Co se stane se SaaS, OpenAI a Microsoftem?",
+      "description": "Budoucnost AI kopilotů a agentů a jejich dopad na práci v kancelářích. Satya Nadella popisuje vývoj Microsoft Copilot od návrhů kódu v GitHub Copilot přes chat a akce až po autonomní agenty.",
       "slug": "ais-business-revolution-what-happens-to-saas-opena",
       "publishedAt": "2026-01-25T02:16:38+00:00",
       "date": "2026-01-25 02:16:38",
       "importance": 4,
-      "category": "ai",
+      "category": "umělá inteligence",
       "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2023/03/microsoftai.jpeg",
       "url": "/tech-news/2026-01-25/ais-business-revolution-what-happens-to-saas-opena/",
       "source": {
