@@ -1,10 +1,90 @@
 {
-  "generated": "2026-01-27T01:09:33.646538+00:00",
-  "count": 162,
+  "generated": "2026-01-27T05:04:31.174915+00:00",
+  "count": 137,
   "articles": [
     {
+      "title": "Jak používám Claude Code k urychlení práce softwareového inženýra a zlepšení života",
+      "description": "Claude Code výrazně ovlivňuje software engineering tím, že umožňuje rychlou tvorbu kódu. Inženýrka z Google popisuje, jak nástroj vyřešil problém, na kterém její tým pracoval rok.",
+      "slug": "how-i-use-claude-code-to-accelerate-my-software-en",
+      "publishedAt": "2026-01-26T03:28:54+00:00",
+      "date": "2026-01-26 03:28:54",
+      "importance": 4,
+      "category": "programování",
+      "urlToImage": "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvnzwhwwkswxp4sfilstj.png",
+      "url": "/tech-news/2026-01-26/how-i-use-claude-code-to-accelerate-my-software-en/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Dev.to"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Nový startup špičkového AI výzkumníka Richarda Sochera jedná o valuaci 4 miliard dolarů",
+      "description": "Známý výzkumník v umělé inteligenci Richard Socher hledá stovky milionů dolarů pro nový startup Recursive zaměřený na pokročilé AI systémy. Financování by firmu ohodnotilo na přibližně 4 miliardy dolarů, vedou ho GV a Greycroft.",
+      "slug": "star-ai-researchers-new-lab-in-talks-for-4-billion",
+      "publishedAt": "2026-01-26T03:02:47+00:00",
+      "date": "2026-01-26 03:02:47",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-183794,resizemode-75,msid-127521804/tech/funding/star-ai-researchers-new-lab-in-talks-for-4-billion-valuation.jpg",
+      "url": "/tech-news/2026-01-26/star-ai-researchers-new-lab-in-talks-for-4-billion/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Recursive"
+      ],
+      "people": [
+        "Richard Socher"
+      ]
+    },
+    {
+      "title": "Čínské technologické IPO v Hong Kongu excelují díky pekinskému tlaku na soběstačnost",
+      "description": "Nové akcie čínských technologických firem v Hong Kongu přinesly nadprůměrné výnosy při svých premiérách v roce 2026, protože investoři v náročném makroprostředí vsazují na pekinský program technologické soběstačnosti. Firmy jako výrobce grafických procesorů Shanghai Biren Technology a polovodičový výrobce OmniVision dosáhly průměrně 30procentního růstu.",
+      "slug": "chinese-tech-listings-shine-in-hong-kong-fuelled-b",
+      "publishedAt": "2026-01-26T02:15:10+00:00",
+      "date": "2026-01-26 02:15:10",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/01/23/a6cfc8ac-f0a7-4318-8335-5153a48f4c94_7cf66148.jpg?itok=nRuDkRMJ&v=1769157695",
+      "url": "/tech-news/2026-01-26/chinese-tech-listings-shine-in-hong-kong-fuelled-b/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Post Magazine"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Samsung se blíží k certifikaci Nvidia pro klíčové HBM4 paměťové čipy pro AI",
+      "description": "Společnost Samsung Electronics se blíží k získání certifikace od Nvidia pro své nejnovější paměťové čipy HBM4 určené pro AI akcelerátory. Tím se přibližuje rivalovi SK Hynix v dodávkách pro Nvidia.",
+      "slug": "samsung-nears-nvidias-approval-for-key-hbm4-ai-mem",
+      "publishedAt": "2026-01-26T02:11:14+00:00",
+      "date": "2026-01-26 02:11:14",
+      "importance": 4,
+      "category": "ai hardware",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_3_1733465099406_1733465108677.png",
+      "url": "/tech-news/2026-01-26/samsung-nears-nvidias-approval-for-key-hbm4-ai-mem/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Livemint"
+      },
+      "companies": [
+        "Samsung",
+        "Nvidia",
+        "SK Hynix"
+      ],
+      "people": []
+    },
+    {
       "title": "Indie zvažuje vstup do Pax Silica navzdory obavám o suverenitu",
-      "description": "Indie zvažuje připojení k iniciativě Pax Silica vedené USA pro zajištění dodavatelských řetězců polovodičů, AI infrastruktury, kritických minerálů a pokročilé výroby. New Delhi touží po přístupu k surovinám a nástrojům, ale je opatrné kvůli závazkům, které by mohly omezit suverénní tvorbu politiky v oblasti AI.",
+      "description": "Indie uvažuje o připojení k iniciativě Pax Silica vedené USA, která má zajistit dodavatelské řetězce pro polovodiče, infrastrukturu AI, kritické minerály a pokročilou výrobu. New Delhi touží po přístupu k surovinám a nástrojům, ale obává se závazků, které by omezily suverénní politiku v oblasti AI.",
       "slug": "india-weighing-pax-silica-entry-despite-sovereignt",
       "publishedAt": "2026-01-26T00:30:00+00:00",
       "date": "2026-01-26 00:30:00",
@@ -21,8 +101,8 @@
       "people": []
     },
     {
-      "title": "Robotaxi Waymo zablokovalo jízdní pruhu pro cyklisty, společnost obviňuje lidského řidiče",
-      "description": "Menší kontroverze vznikla poté, co bylo robotaxi Waymo v Denveru přistiženo při blokování jízdního pruhu pro kola, ale firma tvrdí, že za to nese odpovědnost lidský řidič v vozidle.",
+      "title": "Robotaxi Waymo blokovalo jízdní pruh pro kola, společnost obviňuje lidského řidiče",
+      "description": "Menší kontroverze vznikla poté, co bylo robotaxi Waymo přistiženo při blokování jízdního pruhu pro kola v Denveru, ale firma tvrdí, že chyba je na straně lidského řidiče v tréninkovém voze.",
       "slug": "waymo-self-driving-taxi-blocks-a-bike-lane-and-the",
       "publishedAt": "2026-01-26T00:17:00+00:00",
       "date": "2026-01-26 00:17:00",
@@ -2742,599 +2822,6 @@
       "companies": [
         "OpenAI"
       ],
-      "people": []
-    },
-    {
-      "title": "Startup na inference AI Baseten získal 300 milionů dolarů a podporu od Nvidia",
-      "description": "Nvidia podle zpráv investovala 150 milionů dolarů do startupu Baseten, který se zaměřuje na zpracování AI modelů pro inference. Tato investice je součástí kola ve výši 300 milionů dolarů, které zdvojnásobilo valuaci firmy na 5 miliard dolarů.",
-      "slug": "ai-inference-startup-baseten-raises-300-million-an",
-      "publishedAt": "2026-01-20T23:49:00+00:00",
-      "date": "2026-01-20 23:49:00",
-      "importance": 4,
-      "category": "ai startupy",
-      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/01/AI-Baseten-Nvidia.jpeg",
-      "url": "/tech-news/2026-01-20/ai-inference-startup-baseten-raises-300-million-an/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "pymnts.com"
-      },
-      "companies": [
-        "Baseten",
-        "Nvidia"
-      ],
-      "people": []
-    },
-    {
-      "title": "SpaceX by mohl vypustit let 12 Starshipu verze Block 3 v únoru nebo březnu 2026",
-      "description": "Dne 20. ledna 2026 je SpaceX Ship 39 v závěrečných fázích osazování v Mega Bay 2 na Starbase, včetně instalace zadních klapek. Ship 39 a Booster 19 se připravují na společné testování a start letu Starship Flight 12 z Pad 2.",
-      "slug": "spacex-could-launch-block-3-starship-flight-12-in-",
-      "publishedAt": "2026-01-20T23:37:20+00:00",
-      "date": "2026-01-20 23:37:20",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/01/Screenshot-2026-01-20-at-3.36.32-PM.jpg",
-      "url": "/tech-news/2026-01-20/spacex-could-launch-block-3-starship-flight-12-in/",
-      "source": {
-        "emoji": "📰",
-        "id": "next-big-future",
-        "name": "Next Big Future"
-      },
-      "companies": [
-        "SpaceX"
-      ],
-      "people": []
-    },
-    {
-      "title": "Šéf Anthropic Dario Amodei kritizuje Trumpa za 'šílené' rozhodnutí prodávat pokročilé AI čipy do Číny",
-      "description": "Generální ředitel Anthropic PBC Dario Amodei označil za velkou chybu rozhodnutí americké vlády povolit prodej pokročilých čipů pro umělou inteligenci do Číny. Varoval před vážnými dopady na národní bezpečnost a přirovnal to k prodeji jaderných zbraní Severní Koreji.",
-      "slug": "anthropic-boss-dario-amodei-slams-trump-over-crazy",
-      "publishedAt": "2026-01-20T23:34:34+00:00",
-      "date": "2026-01-20 23:34:34",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/Screenshot-from-2026-01-21-06-32-23.png",
-      "url": "/tech-news/2026-01-20/anthropic-boss-dario-amodei-slams-trump-over-crazy/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Anthropic"
-      ],
-      "people": [
-        "Dario Amodei",
-        "Trump"
-      ]
-    },
-    {
-      "title": "Netflix přidal 23 milionů nových odběratelů v roce 2025",
-      "description": "Netflix oznámil růst počtu odběratelů o 23 milionů na celkových 325 milionů k konci roku 2025. Společnost vykázala tržby 45,2 miliardy dolarů a připravuje akvizici Warner Bros. Discovery za 82,7 miliardy dolarů.",
-      "slug": "netflix-added-23-million-new-subscribers-in-2025",
-      "publishedAt": "2026-01-20T23:31:49+00:00",
-      "date": "2026-01-20 23:31:49",
-      "importance": 5,
-      "category": "streamování",
-      "urlToImage": "https://assets-prd.ignimgs.com/2025/07/31/kpop-demon-hunters-1753979448755.png?width=1280&format=jpg&auto=webp&quality=80",
-      "url": "/tech-news/2026-01-20/netflix-added-23-million-new-subscribers-in-2025/",
-      "source": {
-        "emoji": "📰",
-        "id": "ign",
-        "name": "IGN"
-      },
-      "companies": [
-        "Netflix"
-      ],
-      "people": []
-    },
-    {
-      "title": "Rozhovor s výkonným viceprezidentem Quanty Mikem Yangem: Posun v paradigmatu AI průmyslu teprve začal",
-      "description": "Serverový průmysl těží z rozmachu AI. Tržby Quanty dosáhly v roce 2025 rekordní hodnoty přes 2 biliony NT$ (63,2 miliardy USD), přičemž hlavním hnacím motorem jsou AI servery. Mike Yang, výkonný viceprezident Quanty a prezident divize, v rozhovoru zdůrazňuje, že změny v AI sektoru teprve nabírají na síle.",
-      "slug": "quanta-evp-mike-yang-interview-ai-industry-paradig",
-      "publishedAt": "2026-01-20T23:28:35+00:00",
-      "date": "2026-01-20 23:28:35",
-      "importance": 4,
-      "category": "ai servery",
-      "urlToImage": "https://img.digitimes.com/newsshow/20260119pd210_files/2_r.jpg",
-      "url": "/tech-news/2026-01-20/quanta-evp-mike-yang-interview-ai-industry-paradig/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
-      },
-      "companies": [
-        "Quanta"
-      ],
-      "people": [
-        "Mike Yang"
-      ]
-    },
-    {
-      "title": "Generální ředitel Anthropic Dario Amodei: Umělá inteligence může zvýšit jak růst HDP, tak nezaměstnanost",
-      "description": "Šéf společnosti Anthropic, která vyvíjí velké jazykové modely jako Claude, varuje, že AI vytvoří nový ekonomický scénář s vysokým růstem HDP a současně vysokou nezaměstnaností. Tento vývoj by podle něj zvýšil sociální nerovnosti, zejména v USA.",
-      "slug": "anthropic-ceo-dario-amodei-says-ai-could-increase-",
-      "publishedAt": "2026-01-20T19:34:49+00:00",
-      "date": "2026-01-20 19:34:49",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/01/AI-artificial-intelligence.jpeg",
-      "url": "/tech-news/2026-01-20/anthropic-ceo-dario-amodei-says-ai-could-increase/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "pymnts.com"
-      },
-      "companies": [
-        "Anthropic"
-      ],
-      "people": [
-        "Dario Amodei"
-      ]
-    },
-    {
-      "title": "OpenAI zavádí predikci věku",
-      "description": "Navazuje na práci k posílení bezpečnosti teenagerů.",
-      "slug": "openai-is-rolling-out-age-prediction",
-      "publishedAt": "2026-01-20T19:34:48+00:00",
-      "date": "2026-01-20 19:34:48",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://images.ctfassets.net/kftzwdyauwt9/6Zc47ksvon6g1VivNjTI0R/b5c02b2cec9669fd1f46822d3bfad12b/OAI_AgePrediction_Blog_ArtCard_1200x630.png?w=1600&h=900&fit=fill",
-      "url": "/tech-news/2026-01-20/openai-is-rolling-out-age-prediction/",
-      "source": {
-        "emoji": "🤖",
-        "id": null,
-        "name": "Openai.com"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Davos 2026: Čína výrazně dohnala USA, ale stále nedokáže inovovat za hranicemi současných možností, říká šéf Google DeepMind Demis Hassabis",
-      "description": "Demis Hassabis, generální ředitel Google DeepMind, předpovídá, že umělá obecná inteligence (AGI) do deseti let transformuje vědu a zdraví a přinese éru hojnosti. Zároveň oceňuje pokrok Číny v AI schopnostech, ale zdůrazňuje její nedostatek průlomových inovací na nových hranicích.",
-      "slug": "davos-2026-china-has-caught-up-a-lot-with-us-but-y",
-      "publishedAt": "2026-01-20T19:09:22+00:00",
-      "date": "2026-01-20 19:09:22",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-156250,resizemode-75,msid-126853497/tech/technology/davos-2026-china-has-caught-up-a-lot-with-us-but-yet-to-innovate-beyond-frontier-says-google-deepmind-ceo-demis-hassabis.jpg",
-      "url": "/tech-news/2026-01-20/davos-2026-china-has-caught-up-a-lot-with-us-but-y/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Google DeepMind"
-      ],
-      "people": [
-        "Demis Hassabis"
-      ]
-    },
-    {
-      "title": "Spojené arabské emiráty dostanou pokročilé AI čipy za pár měsíců, říká šéf G42",
-      "description": "G42, přední společnost se zaměřením na umělou inteligenci v Spojených arabských emirátech, očekává dodávky pokročilých čipů od firem Nvidia, AMD a Cerebras během příštích měsíců. Tyto dodávky posílí jejich postavení v globálním AI sektoru.",
-      "slug": "uae-to-get-advanced-ai-chips-in-couple-of-months-g",
-      "publishedAt": "2026-01-20T16:16:18+00:00",
-      "date": "2026-01-20 16:16:18",
-      "importance": 4,
-      "category": "ai čipy",
-      "urlToImage": null,
-      "url": "/tech-news/2026-01-20/uae-to-get-advanced-ai-chips-in-couple-of-months-g/",
-      "source": {
-        "emoji": "📰",
-        "id": "financial-post",
-        "name": "Financial Post"
-      },
-      "companies": [
-        "G42"
-      ],
-      "people": []
-    },
-    {
-      "title": "Podcast On theCUBE: Alphabet dosáhlo 4 bilionů, Nvidia ovládá AI továrny a maloobchod přijímá agenty",
-      "description": "Nový rok 2026 přinesl klíčové události v oblasti umělé inteligence: Alphabet dosáhl tržní kapitalizace 4 bilionů dolarů díky agresivní AI strategii Google a Nvidia upevnila dominanci v infrastruktuře pro AI továrny. Maloobchod se zaměřuje na autonomní agenty, což signalizuje přechod k agentickému nákupnímu systému.",
-      "slug": "on-thecube-pod-alphabet-hits-4t-nvidia-rules-ai-fa",
-      "publishedAt": "2026-01-20T16:02:14+00:00",
-      "date": "2026-01-20 16:02:14",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/John-Furrier-and-Dave-Vellante-theCUBE-Pod-119.png",
-      "url": "/tech-news/2026-01-20/on-thecube-pod-alphabet-hits-4t-nvidia-rules-ai-fa/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Alphabet",
-        "Google",
-        "Nvidia"
-      ],
-      "people": []
-    },
-    {
-      "title": "Cena akcií Micron: Proč akcie MU dnes rostou a jaký je nový cenový cíl",
-      "description": "Akcie Micron Technology (MU) výrazně vzrostly poté, co investiční banka Stifel zvýšila cenový cíl na 360 USD z předchozích 300 USD při udržení doporučení Koupit. Důvodem je silná poptávka po DRAM čipech v AI cloudu, lepší řízení nabídky a akvizice továrny v Tchaj-wanu za 1,8 miliardy USD.",
-      "slug": "micron-stock-price-why-mu-shares-are-rising-today-",
-      "publishedAt": "2026-01-20T15:55:58+00:00",
-      "date": "2026-01-20 15:55:58",
-      "importance": 5,
-      "category": "akcie",
-      "urlToImage": "https://img.etimg.com/thumb/msid-126827052,width-1200,height-630,imgsize-13770,overlay-economictimes/articleshow.jpg",
-      "url": "/tech-news/2026-01-20/micron-stock-price-why-mu-shares-are-rising-today/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Micron Technology"
-      ],
-      "people": []
-    },
-    {
-      "title": "Humanoidní roboti: Další hranice fyzické AI",
-      "description": "Kdysi považovaní pouze za sci-fi, humanoidní roboti se stávají realitou díky pokrokům v umělé inteligenci a dalších technologiích. Tyto stroje kombinují agentickou AI s lidskou formou pro autonomní působení v reálném světě.",
-      "slug": "humanoid-robots-the-next-frontier-in-physical-ai",
-      "publishedAt": "2026-01-20T15:54:00+00:00",
-      "date": "2026-01-20 15:54:00",
-      "importance": 5,
-      "category": "robotika",
-      "urlToImage": "https://www.techtarget.com/rms/onlineimages/chatbot_g1273438441.jpg",
-      "url": "/tech-news/2026-01-20/humanoid-robots-the-next-frontier-in-physical-ai/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Techtarget.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Google vstupuje do světa kontaktních center",
-      "description": "Na nedávné akci NRF převládl zájem o nakupování v answer enginech díky novému Gemini Enterprise pro zákaznickou zkušenost a Universal Commerce Protocol od Google. Méně nápadná, ale významná novinka pro specialisty na CX a kontaktní centra je oznámení Google Cloud’s Customer Experience Agent Studio.",
-      "slug": "google-has-entered-the-contact-center-chat",
-      "publishedAt": "2026-01-20T15:50:05+00:00",
-      "date": "2026-01-20 15:50:05",
-      "importance": 4,
-      "category": "zákaznická zkušenost",
-      "urlToImage": "https://go.forrester.com/wp-content/uploads/2026/01/Social-Image-Template.png",
-      "url": "/tech-news/2026-01-20/google-has-entered-the-contact-center-chat/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Forrester.com"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Proč elektřina, ne kapitál, rozhodne o vítězství v bitvách o AI",
-      "description": "AI a kryptoměny se stále hodnotí primárně jako technologické fenomény s důrazem na čipy, modely nebo získaný kapitál. Toto pojetí je však zastaralé – v aktuální fázi cyklu růst určuje především dostupnost elektrické energie.",
-      "slug": "why-power-not-capital-will-decide-who-wins-the-ai-",
-      "publishedAt": "2026-01-20T12:00:00+00:00",
-      "date": "2026-01-20 12:00:00",
-      "importance": 4,
-      "category": "energetika",
-      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2026-01-16_pci9gfco4e.jpg",
-      "url": "/tech-news/2026-01-20/why-power-not-capital-will-decide-who-wins-the-ai/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "OilPrice.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Vypnutí internetu dusí íránské podniky již oslabené propadem měny",
-      "description": "Íránci se téměř dva týdny potýkají s téměř úplným výpadem internetu. Tento krok vlády kvůli protestům výrazně zasažení firmy závislé na online platformách.",
-      "slug": "internet-shutdown-squeezes-irans-ailing-businesses",
-      "publishedAt": "2026-01-20T11:41:38+00:00",
-      "date": "2026-01-20 11:41:38",
-      "importance": 5,
-      "category": "vypnutí internetu",
-      "urlToImage": "https://i.abcnewsfe.com/a/75311856-8b9c-4155-b133-e28bb06ed700/wirestory_a0bd2df1d13355dcc28f46e5b5b3c893_16x9.jpg?w=1600",
-      "url": "/tech-news/2026-01-20/internet-shutdown-squeezes-irans-ailing-businesses/",
-      "source": {
-        "emoji": "📰",
-        "id": "abc-news",
-        "name": "ABC News"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Je ChatGPT Health nový WebMD?",
-      "description": "Nový chatbot od OpenAI má posílit rozhodování uživatelů o zdraví – riskuje však vyvolat zmatky a úzkosti. Služba umožní nahrávat lékařské záznamy a data z aplikací pro wellness.",
-      "slug": "is-chatgpt-health-the-new-webmd",
-      "publishedAt": "2026-01-20T11:30:12+00:00",
-      "date": "2026-01-20 11:30:12",
-      "importance": 4,
-      "category": "zdravotní ai",
-      "urlToImage": "https://www.salon.com/app/uploads/2026/01/ai-doctor-GettyImages-2207571664.jpg",
-      "url": "/tech-news/2026-01-20/is-chatgpt-health-the-new-webmd/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Salon"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Everstone spojuje Wingify a AB Tasty do platformy pro optimalizaci digitálních zážitků s obratem přes 100 milionů dolarů | TechCrunch",
-      "description": "Soukromá investiční firma Everstone Capital spojuje indickou společnost Wingify, která se zaměřuje na A/B testování webových stránek, s francouzskou AB Tasty do jedné platformy s ročním obratem přes 100 milionů dolarů. Kombinovaná firma bude obsluhovat přes 4000 zákazníků a investovat do AI nástrojů pro personalizaci a testování.",
-      "slug": "everstone-combines-wingify-ab-tasty-for-100m-digit",
-      "publishedAt": "2026-01-20T08:03:21+00:00",
-      "date": "2026-01-20 08:03:21",
-      "importance": 4,
-      "category": "startupy",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/01/wingify-logo-jagmeet-singh-techcrunch.jpg?resize=1200,800",
-      "url": "/tech-news/2026-01-20/everstone-combines-wingify-ab-tasty-for-100m-digit/",
-      "source": {
-        "emoji": "🚀",
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "companies": [
-        "Everstone",
-        "Wingify",
-        "AB Tasty",
-        "TechCrunch"
-      ],
-      "people": []
-    },
-    {
-      "title": "GreenboneOS: CVE-2025-64155: Exploitace FortiSIEM v reálném prostředí pro neautentizovaný root-level RCE",
-      "description": "Dne 13. ledna 2026 společnost Fortinet zveřejnila a opravila CVE-2025-64155 (CVSS 9.8) postihující FortiSIEM spolu s pěti dalšími zranitelnostmi v řadě svých produktů. Tato zranitelnost představuje vysoké riziko, protože krátce po jejím zveřejnění byla hlášena aktivní exploitace v reálném prostředí.",
-      "slug": "greenboneos-cve-2025-64155-in-the-wild-exploitatio",
-      "publishedAt": "2026-01-20T07:53:25+00:00",
-      "date": "2026-01-20 07:53:25",
-      "importance": 5,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://www.greenbone.net/wp-content/uploads/CVE-2025-64155-fortisiem-rce1.jpg",
-      "url": "/tech-news/2026-01-20/greenboneos-cve-2025-64155-in-the-wild-exploitatio/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Greenbone.net"
-      },
-      "companies": [
-        "Fortinet"
-      ],
-      "people": []
-    },
-    {
-      "title": "Tesla dokončila čip AI5, obnovuje Dojo 3 díky dohodě s Intelem o balení",
-      "description": "Tesla dokončila vývoj automobilového procesoru AI5, který umožní sériovou výrobu v závodech TSMC a Samsung. Tento pokrok oživuje pozastavený projekt superpočítače Dojo 3, kde Intel přebírá balení pomocí technologie EMIB. Čip AI5 dosáhne výkonu srovnatelného s architekturou NVIDIA Hopper.",
-      "slug": "tesla-completes-ai5-chip-revives-dojo-3-with-intel",
-      "publishedAt": "2026-01-20T07:50:45+00:00",
-      "date": "2026-01-20 07:50:45",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": null,
-      "url": "/tech-news/2026-01-20/tesla-completes-ai5-chip-revives-dojo-3-with-intel/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Madshrimps.be"
-      },
-      "companies": [
-        "Tesla",
-        "Intel",
-        "TSMC",
-        "Samsung"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Trh Tudou Guarantee na Telegramu zastavuje transakce po zpracování přes 12 miliard dolarů",
-      "description": "Telegramový trh s garancemi Tudou Guarantee, známý reklamou široké palety nelegálních služeb, podle zjištění firmy Elliptic ukončuje operace. Blockchainová analytická společnost uvádí, že služba efektivně zastavila transakce po zpracování obrovského objemu prostřednictvím kryptoměn.",
-      "slug": "tudou-guarantee-marketplace-halts-telegram-transac",
-      "publishedAt": "2026-01-20T07:40:00+00:00",
-      "date": "2026-01-20 07:40:00",
-      "importance": 5,
-      "category": "kryptoměny",
-      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAig5-Somu-FrJikNOP0x03HGZ7BNOjkJuWqVOJpyVr1jyPxPtgCIZqqrDEn9G3FPkgryml3vqK5FeSnKaVMTWypZTvChn6hLRgJ5cjLzOS39BW0U_OW38ggPj7izAgiU5IOjATbCl6A2fRC156dZQ2Pn-Yman12ABm-uFtRN3oGofTeCZk6lpdQgll6eY/s900-e365/botcoin.jpg",
-      "url": "/tech-news/2026-01-20/tudou-guarantee-marketplace-halts-telegram-transac/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Internet"
-      },
-      "companies": [
-        "Elliptic",
-        "Telegram"
-      ],
-      "people": []
-    },
-    {
-      "title": "Přemýšlejte pečlivě, než necháte nový AI systém Woolworths nakupovat vaše potraviny",
-      "description": "Bez kritického zkoumání hrozí agentický nákup tiše změnit chování spotřebitelů způsobem, který je těžko odhalitelný – a ještě těžší zvrátit. Woolworths spolupracuje s Google na integraci agentické umělé inteligence do chatbota Olive.",
-      "slug": "think-carefully-before-letting-woolworths-new-ai-s",
-      "publishedAt": "2026-01-20T06:28:35+00:00",
-      "date": "2026-01-20 06:28:35",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/eec4253538a7ab02201042d836a8e30b?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=105&width=862&height=485&imformat=generic",
-      "url": "/tech-news/2026-01-20/think-carefully-before-letting-woolworths-new-ai-s/",
-      "source": {
-        "emoji": "📰",
-        "id": "abc-news-au",
-        "name": "ABC News (AU)"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Írán tvrdí, že internet bude plně obnoven do konce týdne",
-      "description": "Íránský viceprezident pro vědu, technologii a znalostní ekonomiku Hossein Afshin oznámil, že celostátní přístup k internetu bude obnoven do konce týdne na příkaz prezidenta, čímž skončí vypnutí zavedené 8. ledna kvůli protestům.",
-      "slug": "iran-claims-internet-will-be-fully-restored-by-wee",
-      "publishedAt": "2026-01-20T02:52:32+00:00",
-      "date": "2026-01-20 02:52:32",
-      "importance": 5,
-      "category": "internetová cenzura",
-      "urlToImage": "https://2.a7.org/files/pictures/000/1206528.jpg",
-      "url": "/tech-news/2026-01-20/iran-claims-internet-will-be-fully-restored-by-wee/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Israelnationalnews.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Kalifornie nařizuje společnosti Elona Muska s AI okamžitě přestat šířit sexuální deepfakes",
-      "description": "Generální prokurátor Kalifornie Rob Bonta poslal společnosti xAI dopis s výzvou k ukončení tvorby a distribuce nekonsenzuálních sexuálních obrázků. Akce souvisí s nedávným updatem nástroje Grok, který umožňuje editaci obrázků.",
-      "slug": "california-orders-elon-musks-ai-company-to-immedia",
-      "publishedAt": "2026-01-20T01:38:08+00:00",
-      "date": "2026-01-20 01:38:08",
-      "importance": 4,
-      "category": "deepfakes",
-      "urlToImage": "https://cdn.kpbs.org/dims4/default/7bfa61c/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/90/?url=http%3A%2F%2Fkpbs-brightspot.s3.us-west-2.amazonaws.com%2F58%2F85%2F3d1777d5414d84bd2e04168be1c5%2F072823-x-former-twitter-ap-cm.webp",
-      "url": "/tech-news/2026-01-20/california-orders-elon-musks-ai-company-to-immedia/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "KPBS"
-      },
-      "companies": [
-        "xAI"
-      ],
-      "people": [
-        "Elon Musk",
-        "Rob Bonta"
-      ]
-    },
-    {
-      "title": "Vývojář AI čipů FuriosaAI údajně hledá financování až 500 milionů dolarů",
-      "description": "Seoulská společnost FuriosaAI, která vyvíjí čipy pro umělou inteligenci, rokuje o novém kole financování v objemu 300 až 500 milionů dolarů. Firma najala investiční banky Morgan Stanley a Mirae Asset Securities k uzavření kola série D.",
-      "slug": "ai-chip-developer-furiousaai-reportedly-raising-up",
-      "publishedAt": "2026-01-20T01:19:14+00:00",
-      "date": "2026-01-20 01:19:14",
-      "importance": 4,
-      "category": "ai čipy",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/RNGD.png",
-      "url": "/tech-news/2026-01-20/ai-chip-developer-furiousaai-reportedly-raising-up/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "FuriousaAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Vývojář AI čipů FuriosaAI údajně hledá financování až 500 milionů dolarů",
-      "description": "Seoulská firma FuriosaAI, specializující se na čipy pro umělou inteligenci, prý rokuje o novém kole financování v rozmezí 300 až 500 milionů dolarů. Společnost angažovala investiční banky Morgan Stanley a Mirae Asset Securities pro uzavření kola série D.",
-      "slug": "ai-chip-developer-furiosaai-reportedly-raising-up-",
-      "publishedAt": "2026-01-20T01:19:14+00:00",
-      "date": "2026-01-20 01:19:14",
-      "importance": 4,
-      "category": "ai čipy",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/RNGD.png",
-      "url": "/tech-news/2026-01-20/ai-chip-developer-furiosaai-reportedly-raising-up/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "FuriosaAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Micron rychle rozšíří výrobu DRAM nákupem továrny za 1,8 miliardy dolarů",
-      "description": "Tajwanská společnost Powerchip prodává továrnu na výrobu čipů, kterou otevřela před 19 měsíci po investici 9,5 miliardy dolarů. Micron tím získá okamžitou kapacitu pro výrobu DRAM pamětí.",
-      "slug": "micron-finds-a-way-to-make-more-dram-with-18bn-chi",
-      "publishedAt": "2026-01-20T00:55:52+00:00",
-      "date": "2026-01-20 00:55:52",
-      "importance": 5,
-      "category": "polovodiče",
-      "urlToImage": "https://regmedia.co.uk/2021/03/17/shutterstock_micron_boise.jpg",
-      "url": "/tech-news/2026-01-20/micron-finds-a-way-to-make-more-dram-with-18bn-chi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "companies": [
-        "Micron",
-        "Powerchip"
-      ],
-      "people": []
-    },
-    {
-      "title": "Jio Platforms spouští přípravy na obří veřejnou nabídku akcií",
-      "description": "Jio Platforms vybralo Morgan Stanley a Goldman Sachs jako hlavní bankéře pro své nadcházející IPO s očekávanou valuací 133–182 miliard USD. Společnost čeká na schválení ministerstva financí pro 2,5% veřejnou nabídku u obřích IPO a plánuje smíšenou emisi primárních i sekundárních akcií.",
-      "slug": "jio-platforms-sets-ball-rolling-on-mega-public-flo",
-      "publishedAt": "2026-01-20T00:53:20+00:00",
-      "date": "2026-01-20 00:53:20",
-      "importance": 4,
-      "category": "veřejná nabídka",
-      "urlToImage": "https://img.etimg.com/thumb/msid-126739062,width-1200,height-630,imgsize-2855927,overlay-etmarkets/articleshow.jpg",
-      "url": "/tech-news/2026-01-20/jio-platforms-sets-ball-rolling-on-mega-public-flo/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Jio Platforms"
-      ],
-      "people": []
-    },
-    {
-      "title": "OpenAI plánuje odhalit první hardware produkt v roce 2026",
-      "description": "OpenAI je podle svého šéfa globálních záležitostí na cestě k odhalení prvního hardware zařízení v druhé polovině roku 2026. Spolupracuje s designérským týmem Jonyho Iveho po akvizici jeho startupu za 6,5 miliardy dolarů.",
-      "slug": "openais-audio-first-hardware-product-could-launch-",
-      "publishedAt": "2026-01-20T00:07:00+00:00",
-      "date": "2026-01-20 00:07:00",
-      "importance": 4,
-      "category": "hardware",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/2dAidsg3greDHeqFxASwSY-2560-80.jpg",
-      "url": "/tech-news/2026-01-20/openais-audio-first-hardware-product-could-launch/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Central"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Ministr pro podnikání podporuje britské scaleupy balíčkem na růst a revizí administrativních předpisů",
-      "description": "Britští podnikatelé, pracovníci a komunity budou těžit z rozsáhlého balíčku opatření na růst, protože vláda investuje do klíčových sektorů růstu a snižuje byrokracii, aby pomohla firmám expandovat.",
-      "slug": "business-secretary-backs-british-scaleups-with-gro",
-      "publishedAt": "2026-01-20T00:01:10+00:00",
-      "date": "2026-01-20 00:01:10",
-      "importance": 4,
-      "category": "scaleupy",
-      "urlToImage": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
-      "url": "/tech-news/2026-01-20/business-secretary-backs-british-scaleups-with-gro/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Www.gov.uk"
-      },
-      "companies": [],
       "people": []
     }
   ]
