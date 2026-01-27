@@ -1,7 +1,127 @@
 {
-  "generated": "2026-01-27T08:41:02.374534+00:00",
-  "count": 140,
+  "generated": "2026-01-27T12:46:53.126141+00:00",
+  "count": 146,
   "articles": [
+    {
+      "title": "USA Rare Earth získala záměr s vládou USA na 1,6 miliardy dolarů financování pro domácí řetězec těžkých vzácných zemin",
+      "description": "Ministerstvo obchodu USA poskytlo předběžný záměr v rámci programu CHIPS na 277 milionů dolarů federálních prostředků a 1,3 miliardy v prioritním zajištěném úvěru. Společnost současně získala 1,5 miliardy dolarů od soukromých investorů.",
+      "slug": "usa-rare-earth-announces-letter-of-intent-with-the",
+      "publishedAt": "2026-01-26T12:01:00+00:00",
+      "date": "2026-01-26 12:01:00",
+      "importance": 4,
+      "category": "vzácné zeminy",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/d5c28bab-f555-48eb-9406-114bc09642a7",
+      "url": "/tech-news/2026-01-26/usa-rare-earth-announces-letter-of-intent-with-the/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Nvidia se chystá nahradit Apple jako největšího zákazníka TSMC, což signalizuje změnu dynamiky v čipovém průmyslu",
+      "description": "Tato výměna pozic označí zásadní posun v polovodičovém průmyslu a odráží rostoucí význam Nvidia v souvislosti s výstavbou infrastruktury pro AI.",
+      "slug": "nvidia-set-to-supplant-apple-as-tsmcs-top-customer",
+      "publishedAt": "2026-01-26T12:00:01+00:00",
+      "date": "2026-01-26 12:00:01",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108256599-17692040872025-11-08t035700z_1622658992_rc20shayuttn_rtrmadp_0_nvidia-tsmc.jpeg?v=1769204159&w=1920&h=1080",
+      "url": "/tech-news/2026-01-26/nvidia-set-to-supplant-apple-as-tsmcs-top-customer/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [
+        "Nvidia",
+        "Apple",
+        "TSMC"
+      ],
+      "people": []
+    },
+    {
+      "title": "Valuace Synthesia po získání 200 milionů vyskočila na 4 miliardy dolarů",
+      "description": "Londýnský startup Synthesia, který vyvíjí nástroje pro tvorbu videí na bázi umělé inteligence, získal 200 milionů dolarů v páté investiční kole typu Series E. Tím se jeho valuace téměř zdvojnásobila na přibližně 4 miliardy dolarů a firma se stala jednou z nejcennějších evropských společností v oblasti AI.",
+      "slug": "synthesias-valuation-jumps-to-4b-after-200m-raise",
+      "publishedAt": "2026-01-26T11:45:43+00:00",
+      "date": "2026-01-26 11:45:43",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F01%2FSynthesia-has-raised-200-million-in-a-Series-E-round.png&signature=376f85cb54768b5c3430f3a02655bd0d",
+      "url": "/tech-news/2026-01-26/synthesias-valuation-jumps-to-4b-after-200m-raise/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-next-web",
+        "name": "The Next Web"
+      },
+      "companies": [
+        "Synthesia",
+        "Google Ventures"
+      ],
+      "people": []
+    },
+    {
+      "title": "Technologie deepfake 'Nudify' se stává temnější – a nebezpečnější",
+      "description": "Sexuální deepfakes se stávají sofistikovanějšími, snadno dostupnými a nebezpečnými pro miliony žen, které jsou touto technologií zneužívány. Ekosystém webů, botů a aplikací umožňuje automatizaci obrázkového sexuálního zneužívání, včetně tvorby materiálu s dětským sexuálním zneužíváním.",
+      "slug": "deepfake-nudify-technology-is-getting-darkerand-mo",
+      "publishedAt": "2026-01-26T11:30:00+00:00",
+      "date": "2026-01-26 11:30:00",
+      "importance": 4,
+      "category": "deepfakes",
+      "urlToImage": "https://media.wired.com/photos/6967ccfc2d7bb65af6a6a25b/191:100/w_1280,c_limit/sec-deepfake-grok-137144127.jpg",
+      "url": "/tech-news/2026-01-26/deepfake-nudify-technology-is-getting-darkerand-mo/",
+      "source": {
+        "emoji": "🔧",
+        "id": "wired",
+        "name": "Wired"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Evropská unie vyšetřuje platformu X Elona Muska kvůli deepfake obrázkům z AI",
+      "description": "Regulátoři EU zahájili formální vyšetřování sociální sítě X kvůli tomu, že její AI chatbot Grok generuje nekonzensuální sexuální deepfake obrázky, včetně obsahu, který může být považován za materiál s dětským sexuálním zneužíváním. Vyšetřování se rozšiřuje i na doporučovací systémy platformy po oznámení přechodu na AI Grok pro výběr zobrazovaných příspěvků.",
+      "slug": "eu-investigates-musks-x-over-ai-deepfake-images",
+      "publishedAt": "2026-01-26T11:28:00+00:00",
+      "date": "2026-01-26 11:28:00",
+      "importance": 4,
+      "category": "deepfakes",
+      "urlToImage": "https://dims.apnews.com/dims4/default/bb0ccde/2147483647/strip/true/crop/2182x1454+0+3/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F72%2F68%2Fe18af1992d043f541e7e6b4556ca%2F154a9a56332943d69579f721cc09713a",
+      "url": "/tech-news/2026-01-26/eu-investigates-musks-x-over-ai-deepfake-images/",
+      "source": {
+        "emoji": "📰",
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Společnost IonQ na kvantové počítače získává americkou polovodičovou firmu SkyWater za 1,8 miliardy dolarů",
+      "description": "IonQ a SkyWater Technology uzavřely definitivní dohodu o akvizici za 35 dolarů na akcii v transakci hotovostí a akciemi s collar mechanismem, což znamená celkovou hodnotu akcií přibližně 1,8 miliardy dolarů. Tento krok umožní IonQ vertikální integraci výroby a zrychlení vývoje kvantových technologií v USA.",
+      "slug": "quantum-computing-firm-ionq-acquires-us-semiconduc",
+      "publishedAt": "2026-01-26T11:25:00+00:00",
+      "date": "2026-01-26 11:25:00",
+      "importance": 5,
+      "category": "kvantové počítače",
+      "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2024/11/28150559/hns-large_logo.webp",
+      "url": "/tech-news/2026-01-26/quantum-computing-firm-ionq-acquires-us-semiconduc/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Help Net Security"
+      },
+      "companies": [
+        "IonQ",
+        "SkyWater Technology"
+      ],
+      "people": []
+    },
     {
       "title": "Apple představí aktualizaci Siri poháněnou Gemini v únoru: Zpráva",
       "description": "Aktualizace, která je klíčová pro partnerství společnosti s Google, využije modely umělé inteligence Gemini, protože Apple se snaží posunout Siri za hranice tradičního hlasového asistenta.",
