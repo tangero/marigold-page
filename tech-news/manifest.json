@@ -1,7 +1,143 @@
 {
-  "generated": "2026-01-27T12:46:53.126141+00:00",
-  "count": 146,
+  "generated": "2026-01-27T16:40:02.975267+00:00",
+  "count": 153,
   "articles": [
+    {
+      "title": "Proč Google Gemini zatím nemá reklamy: ‚Důvěra ve svého asistenta‘",
+      "description": "Generální ředitel Google DeepMind Demis Hassabis prohlásil, že Google nemá aktuální plány zavést reklamy do AI asistenta Gemini kvůli otázkám důvěryhodnosti. Na rozdíl od OpenAI, které chystá testování reklam v ChatGPT, Google staví na uživatelské prioritu.",
+      "slug": "why-google-gemini-has-no-ads-yet-trust-in-your-ass",
+      "publishedAt": "2026-01-26T16:17:48+00:00",
+      "date": "2026-01-26 16:17:48",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/01/e2db4b07-4697-4b99-a6fc-4b8f3b757621-72.png",
+      "url": "/tech-news/2026-01-26/why-google-gemini-has-no-ads-yet-trust-in-your-ass/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Search Engine Journal"
+      },
+      "companies": [
+        "Google",
+        "OpenAI"
+      ],
+      "people": [
+        "Demis Hassabis"
+      ]
+    },
+    {
+      "title": "CISA zveřejnila seznam kategorií produktů podporujících postkvantovou kryptografii",
+      "description": "Americká agentura CISA vydala počáteční seznam kategorií hardwaru a softwaru, které podporují nebo brzy budou podporovat standardy postkvantové kryptografie (PQC). Seznam má pomoci organizacím v plánování přechodu na tyto technologie kvůli rostoucím hrozbám ze strany kvantových počítačů.",
+      "slug": "cisa-releases-list-of-post-quantum-cryptography-pr",
+      "publishedAt": "2026-01-26T16:15:00+00:00",
+      "date": "2026-01-26 16:15:00",
+      "importance": 5,
+      "category": "postkvantová kryptog",
+      "urlToImage": "https://assets.infosecurity-magazine.com/webpage/og/04784937-943e-4199-9961-dc3ece11b88c.jpg",
+      "url": "/tech-news/2026-01-26/cisa-releases-list-of-post-quantum-cryptography-pr/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Infosecurity Magazine"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Kdo ovládá botnet Badbox 2.0?",
+      "description": "Kyberzločinci ovládající botnet Kimwolf, který infikoval přes 2 miliony zařízení, sdíleli screenshot ukazující kompromitaci ovládacího panelu Badbox 2.0, rozsáhlého čínského botnetu poháněného škodlivým softwarem v Android TV streamovacích boxech. Díky tomu mají FBI a Google lepší stopy k identifikaci pachatelů.",
+      "slug": "who-operates-the-badbox-20-botnet",
+      "publishedAt": "2026-01-26T16:11:38+00:00",
+      "date": "2026-01-26 16:11:38",
+      "importance": 5,
+      "category": "kyberkriminalita",
+      "urlToImage": "https://krebsonsecurity.com/wp-content/uploads/2026/01/badboxpanel.png",
+      "url": "/tech-news/2026-01-26/who-operates-the-badbox-20-botnet/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Krebs on Security"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Microsoft představuje Maia 200, svůj 'powerhouse' akcelerátor pro velkoškálovou AI",
+      "description": "Maia 200 s více než 100 miliardami tranzistorů nabízí vysoký výkon pro AI inferencing, překonává konkurenty od AWS a Google Cloud.",
+      "slug": "microsoft-unveils-maia-200-its-powerhouse-accelera",
+      "publishedAt": "2026-01-26T16:00:00+00:00",
+      "date": "2026-01-26 16:00:00",
+      "importance": 4,
+      "category": "ai hardware",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/BSVBEAGEWfwryuSnecEAQm-970-80.jpg",
+      "url": "/tech-news/2026-01-26/microsoft-unveils-maia-200-its-powerhouse-accelera/",
+      "source": {
+        "emoji": "📰",
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "companies": [
+        "Microsoft"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nvidia investuje 2 miliardy dolarů do zadlužené CoreWeave pro rozšíření o 5 GW AI výpočetní kapacity",
+      "description": "CoreWeave integruje produkty Nvidia do své platformy, včetně nové architektury čipů Rubin. Investice pomůže firmě, která má dluhy přes 18 miliard dolarů, vybudovat další datová centra pro AI.",
+      "slug": "nvidia-invests-2b-to-help-debt-ridden-coreweave-ad",
+      "publishedAt": "2026-01-26T15:52:55+00:00",
+      "date": "2026-01-26 15:52:55",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/jxZt9UgV930kYlh_PbL.aQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NTc-/https://media.zenfs.com/en/techcrunch_finance_785/38cb754c3d8c389423d13f44fdea0245",
+      "url": "/tech-news/2026-01-26/nvidia-invests-2b-to-help-debt-ridden-coreweave-ad/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "Nvidia",
+        "CoreWeave"
+      ],
+      "people": []
+    },
+    {
+      "title": "Vláda AI? Trumpova administrativa plánuje psát regulace pomocí umělé inteligence",
+      "description": "Vynechání prostředníka?",
+      "slug": "government-by-ai-trump-admin-plans-to-write-regula",
+      "publishedAt": "2026-01-26T15:35:21+00:00",
+      "date": "2026-01-26 15:35:21",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/01/Trump-AI-write-transportation-laws-1200x675.jpg",
+      "url": "/tech-news/2026-01-26/government-by-ai-trump-admin-plans-to-write-regula/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Administrativa Trumpa investuje do dalšího amerického těžaře vzácných zemin, aby oslabila čínskou nadvládu nad dodávkami",
+      "description": "Čína zpracovává více než 90 % světových kritických minerálů a využívá svou dominanci na trhu k získání výhody v obchodní válce s Washingtonem.",
+      "slug": "trump-administration-invests-in-another-us-rare-ea",
+      "publishedAt": "2026-01-26T15:10:21+00:00",
+      "date": "2026-01-26 15:10:21",
+      "importance": 4,
+      "category": "vzácné zeminy",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2026/01/Congress_Critical_Minerals_89852_08017b.jpg?w=1024&h=683",
+      "url": "/tech-news/2026-01-26/trump-administration-invests-in-another-us-rare-ea/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Boston Herald"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "USA Rare Earth získala záměr s vládou USA na 1,6 miliardy dolarů financování pro domácí řetězec těžkých vzácných zemin",
       "description": "Ministerstvo obchodu USA poskytlo předběžný záměr v rámci programu CHIPS na 277 milionů dolarů federálních prostředků a 1,3 miliardy v prioritním zajištěném úvěru. Společnost současně získala 1,5 miliardy dolarů od soukromých investorů.",
