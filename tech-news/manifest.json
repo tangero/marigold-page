@@ -1,7 +1,110 @@
 {
-  "generated": "2026-01-27T16:40:02.975267+00:00",
-  "count": 153,
+  "generated": "2026-01-27T20:32:35.581306+00:00",
+  "count": 158,
   "articles": [
+    {
+      "title": "Xiaomi SU7 poprvé překonalo prodeje Tesla Model 3 v Číně",
+      "description": "Poprvé od uvedení Modelu 3 v Číně v roce 2019 ho v segmentu prémiových elektrických sedanů překonal jiný výrobce. Je jím společnost Xiaomi, známá především výrobou chytrých telefonů.",
+      "slug": "xiaomi-su7-outsells-tesla-model-3-in-china-for-the",
+      "publishedAt": "2026-01-26T19:42:38+00:00",
+      "date": "2026-01-26 19:42:38",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2025/02/Xiaomi-SU7-Ultra-EV.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2026-01-26/xiaomi-su7-outsells-tesla-model-3-in-china-for-the/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Electrek"
+      },
+      "companies": [
+        "Xiaomi",
+        "Tesla"
+      ],
+      "people": []
+    },
+    {
+      "title": "(PR) NVIDIA a CoreWeave posilují spolupráci pro urychlení výstavby AI fabrik",
+      "description": "NVIDIA a CoreWeave oznámily rozšíření své dlouhodobé spolupráce, aby CoreWeave urychlila výstavbu více než 5 gigawattů AI fabrik do roku 2030 a podpořila globální adopci umělé inteligence. NVIDIA investovala 2 miliardy dolarů do akcií CoreWeave za cenu 87,20 dolaru za akcii.",
+      "slug": "pr-nvidia-coreweaves-strengthened-collab-to-accele",
+      "publishedAt": "2026-01-26T19:12:26+00:00",
+      "date": "2026-01-26 19:12:26",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.techpowerup.com/img/OYp978VkAzMoQxxd.jpg",
+      "url": "/tech-news/2026-01-26/pr-nvidia-coreweaves-strengthened-collab-to-accele/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Techpowerup.com"
+      },
+      "companies": [
+        "NVIDIA",
+        "CoreWeave"
+      ],
+      "people": []
+    },
+    {
+      "title": "Starlink Elona Muska bude muset žádat o nové schválení od IN-SPACe pro služby přímé konektivity do zařízení v Indii",
+      "description": "Indický regulátor IN-SPACe zamítl žádost Starlinku o schválení konstelace satelitů Gen 2 kvůli nesplněným požadavkům a nepovoleným frekvenčním pásmům. Schválen byl pouze Gen 1 pro tradiční broadband služby z 4408 nízkoregulárních satelitů.",
+      "slug": "elon-musks-starlink-may-have-to-seek-fresh-in-spac",
+      "publishedAt": "2026-01-26T19:01:45+00:00",
+      "date": "2026-01-26 19:01:45",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://img.etimg.com/thumb/msid-127570204,width-1200,height-630,imgsize-28906,overlay-economictimes/articleshow.jpg",
+      "url": "/tech-news/2026-01-26/elon-musks-starlink-may-have-to-seek-fresh-in-spac/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "ChatGPT Health slibuje personalizované zdravotní informace. Přináší mnohá rizika",
+      "description": "Nový nástroj OpenAI pro zdraví a wellness umožňuje uživatelům propojit zdravotní záznamy s chatem. Nebyl však nezávisle testován a stále bude dělat chyby.",
+      "slug": "chatgpt-health-promises-to-personalise-health-info",
+      "publishedAt": "2026-01-26T18:53:33+00:00",
+      "date": "2026-01-26 18:53:33",
+      "importance": 4,
+      "category": "zdraví",
+      "urlToImage": "https://images.theconversation.com/files/713784/original/file-20260122-56-74jatz.png?ixlib=rb-4.1.0&rect=0%2C50%2C1600%2C800&q=45&auto=format&w=1356&h=668&fit=crop",
+      "url": "/tech-news/2026-01-26/chatgpt-health-promises-to-personalise-health-info/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Synthesia chce, aby její mluvící AI avatary školily prodejce a náborovaly zaměstnance",
+      "description": "Londýnská AI firma Synthesia vyvíjí digitální avatary pro firmy, které brzy povedou interaktivní konverzace v oblasti školení prodeje a náboru. Společnost získala 200 milionů dolarů financování při valuaci 4 miliard dolarů, mezi investory je Nvidia a fond GV od Alphabetu.",
+      "slug": "nvidias-synthesia-wants-its-talking-ai-avatars-to-",
+      "publishedAt": "2026-01-26T18:50:42+00:00",
+      "date": "2026-01-26 18:50:42",
+      "importance": 4,
+      "category": "ai avatary",
+      "urlToImage": "https://img.etimg.com/thumb/msid-127569661,width-1200,height-630,imgsize-26804,overlay-economictimes/articleshow.jpg",
+      "url": "/tech-news/2026-01-26/nvidias-synthesia-wants-its-talking-ai-avatars-to/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Nvidia",
+        "Synthesia"
+      ],
+      "people": []
+    },
     {
       "title": "Proč Google Gemini zatím nemá reklamy: ‚Důvěra ve svého asistenta‘",
       "description": "Generální ředitel Google DeepMind Demis Hassabis prohlásil, že Google nemá aktuální plány zavést reklamy do AI asistenta Gemini kvůli otázkám důvěryhodnosti. Na rozdíl od OpenAI, které chystá testování reklam v ChatGPT, Google staví na uživatelské prioritu.",
