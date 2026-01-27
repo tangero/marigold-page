@@ -1,7 +1,68 @@
 {
-  "generated": "2026-01-27T05:04:31.174915+00:00",
-  "count": 137,
+  "generated": "2026-01-27T08:41:02.374534+00:00",
+  "count": 140,
   "articles": [
+    {
+      "title": "Apple představí aktualizaci Siri poháněnou Gemini v únoru: Zpráva",
+      "description": "Aktualizace, která je klíčová pro partnerství společnosti s Google, využije modely umělé inteligence Gemini, protože Apple se snaží posunout Siri za hranice tradičního hlasového asistenta.",
+      "slug": "apple-to-unveil-gemini-powered-siri-update-in-febr",
+      "publishedAt": "2026-01-26T07:38:00+00:00",
+      "date": "2026-01-26 07:38:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-534203,resizemode-75,msid-127535692/tech/technology/apple-to-unveil-gemini-powered-siri-update-in-february-report.jpg",
+      "url": "/tech-news/2026-01-26/apple-to-unveil-gemini-powered-siri-update-in-febr/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Apple",
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Apple Experience Event: Nové MacBooky a studio pro tvůrce",
+      "description": "Apple vstupuje do klíčové fáze oznámení s důrazem na aktualizace iOS 26.3 a iOS 26.2.1, které firma aktivně testuje. Připravuje se na významná uvedení produktů včetně nových MacBooků a studia pro tvůrce obsahu, přičemž v únoru 2026 přijde Siri 2.0 s AI modelem Gemini od Google.",
+      "slug": "apple-experience-event-new-macbooks-and-creator-st",
+      "publishedAt": "2026-01-26T06:00:59+00:00",
+      "date": "2026-01-26 06:00:59",
+      "importance": 4,
+      "category": "hardware",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/01/ios-26-3-update-features-overview_optimized.jpg",
+      "url": "/tech-news/2026-01-26/apple-experience-event-new-macbooks-and-creator-st/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Šanghajský AI startup StepFun získal přes 718 milionů dolarů v B+ kole",
+      "description": "Šanghajský startup StepFun zaměřený na velké modely dokončil B+ kolo financování přesahující 5 miliard RMB (718 milionů USD), což představuje největší jednorázovou investici v čínském sektoru velkých modelů za posledních 12 měsíců. V kolu se podíleli investoři jako Shanghai SDIC Leading Fund, Tencent a další.",
+      "slug": "shanghai-ai-unicorn-stepfun-raises-over-718-millio",
+      "publishedAt": "2026-01-26T05:42:29+00:00",
+      "date": "2026-01-26 05:42:29",
+      "importance": 4,
+      "category": "ai startupy",
+      "urlToImage": "https://technode.com/wp-content/uploads/2026/01/stepfun.png",
+      "url": "/tech-news/2026-01-26/shanghai-ai-unicorn-stepfun-raises-over-718-millio/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "TechNode"
+      },
+      "companies": [
+        "StepFun"
+      ],
+      "people": []
+    },
     {
       "title": "Jak používám Claude Code k urychlení práce softwareového inženýra a zlepšení života",
       "description": "Claude Code výrazně ovlivňuje software engineering tím, že umožňuje rychlou tvorbu kódu. Inženýrka z Google popisuje, jak nástroj vyřešil problém, na kterém její tým pracoval rok.",
