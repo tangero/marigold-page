@@ -1,7 +1,108 @@
 {
-  "generated": "2026-01-28T05:05:55.158869+00:00",
-  "count": 129,
+  "generated": "2026-01-28T08:49:37.763622+00:00",
+  "count": 134,
   "articles": [
+    {
+      "title": "Zpráva Zscaler 2026 o hrozbách AI: 91% meziroční nárůst aktivity AI vytváří rostoucí mezeru v dohledu pro globální podniky",
+      "description": "Rychlá adopce AI vytváří kritickou bezpečnostní mezeru mezi inovací a bezpečností, což vyžaduje, aby organizace přijaly platformu pro bezpečnost AI postavenou na principu Zero Trust. Zpráva analyzuje téměř bilion transakcí AI/ML a odhaluje zranitelnosti v podnikových systémech.",
+      "slug": "zscaler-2026-ai-threat-report-91-year-over-year-su",
+      "publishedAt": "2026-01-27T08:01:00+00:00",
+      "date": "2026-01-27 08:01:00",
+      "importance": 4,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/bc212637-6ad5-43b1-9aa5-f998c8fe68ba",
+      "url": "/tech-news/2026-01-27/zscaler-2026-ai-threat-report-91-year-over-year-su/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [
+        "Zscaler"
+      ],
+      "people": []
+    },
+    {
+      "title": "Meta otestuje prémiová předplatná pro Instagram, Facebook a WhatsApp",
+      "description": "Technologický gigant Meta spustí v příštích měsících testy prémiových předplatných pro uživatele Instagramu, Facebooku a WhatsAppu. Předplatitelé získají přístup k rozšířeným funkcím umělé inteligence, zatímco základní služby zůstanou zdarma.",
+      "slug": "meta-to-trial-premium-subscriptions-for-instagram-",
+      "publishedAt": "2026-01-27T06:34:15+00:00",
+      "date": "2026-01-27 06:34:15",
+      "importance": 4,
+      "category": "sociální sítě",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/eaa4/live/f5a13ad0-fb38-11f0-9ffe-0d55f5bffcbe.jpg",
+      "url": "/tech-news/2026-01-27/meta-to-trial-premium-subscriptions-for-instagram/",
+      "source": {
+        "emoji": "📰",
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "companies": [
+        "Meta"
+      ],
+      "people": []
+    },
+    {
+      "title": "Micron investuje 24 miliard dolarů do závodu v Singapuru kvůli boomu AI a nedostatku pamětí",
+      "description": "Společnost Micron Technology oznámila investici 24 miliard dolarů do rozšíření výroby paměťových čipů v Singapuru, aby zmírnila globální nedostatek způsobený rostoucí poptávkou po AI technologiích.",
+      "slug": "micron-to-invest-24-billion-in-singapore-plant-as-",
+      "publishedAt": "2026-01-27T06:33:14+00:00",
+      "date": "2026-01-27 06:33:14",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107094138-16588563032022-07-26t172411z_1787565250_rc2igy7tmv7z_rtrmadp_0_micron-tech-chips.jpeg?v=1681144814&w=1920&h=1080",
+      "url": "/tech-news/2026-01-27/micron-to-invest-24-billion-in-singapore-plant-as/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [
+        "Micron Technology"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nvidia spouští technologie AI pro podporu předpovědi počasí",
+      "description": "Společnost Nvidia nabízí nový open-source software a modely, které umožní vládám a firmám snadněji využívat umělou inteligenci a složitá data k vývoji vlastních systémů předpovědi počasí. Platforma Earth-2 zahrnuje AI modely pro předpovědi na dva týdny dopředu a krátkodobé výhledy bouří šest hodin předem.",
+      "slug": "nvidia-launches-ai-technologies-to-aid-weather-for",
+      "publishedAt": "2026-01-27T06:20:41+00:00",
+      "date": "2026-01-27 06:20:41",
+      "importance": 4,
+      "category": "předpověď počasí",
+      "urlToImage": "https://www.insurancejournal.com/img/social/opengraph/ij-social-default-1200x630.png",
+      "url": "/tech-news/2026-01-27/nvidia-launches-ai-technologies-to-aid-weather-for/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Insurance Journal"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "ASML těží z úspěchu Nvidia díky laserům a obřím tiskárnám čipů",
+      "description": "Zatímco firmy s umělou inteligencí soutěží o čipy Nvidia nezbytné pro AI boom, holandská ASML si vybudovala klíčovou pozici v dodavatelském řetězci výrobou laserových strojů na tisk čipů. Společnost, jejíž klienti zahrnují TSMC a Intel, vidí růst akcií díky zvýšeným investicím do výroby.",
+      "slug": "asml-rides-nvidias-coattails-with-lasers-and-huge-",
+      "publishedAt": "2026-01-27T06:20:03+00:00",
+      "date": "2026-01-27 06:20:03",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://s.yimg.com/os/en/reuters.com/bf5baaa9b1fba1404baa57c718064aec",
+      "url": "/tech-news/2026-01-27/asml-rides-nvidias-coattails-with-lasers-and-huge/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "ASML",
+        "Nvidia"
+      ],
+      "people": []
+    },
     {
       "title": "Micron plánuje továrnu na paměťové čipy za 24 miliard dolarů v Singapuru",
       "description": "Americká společnost oznámila novou zařízení na výrobu plátků, které pomůže uspokojit rostoucí poptávku po paměťových čipech.",
