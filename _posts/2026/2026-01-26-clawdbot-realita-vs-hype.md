@@ -13,12 +13,14 @@ summary_points:
 - Provoz je možný na levném VPS nebo Raspberry Pi, ale nastavení integrací vyžaduje technické znalosti
 - Finanční náklady mohou být vysoké, autonomní agenti generují desítky volání API s účty až 150 USD měsíčně
 - Existují významná bezpečnostní rizika, zejména prompt injection útoky skrze zpracovávané soubory
-title: Clawdbot - když má AI ruce. Realita za virálním hypem autonomních agentů
+title: Clawdbot (Moltbot) - když má AI ruce. Realita za virálním hypem autonomních agentů
 thumbnail: https://www.marigold.cz/assets/clawdbot.png
 ---
 
 
-Pravděpodobně jste to sociálních sítích viděli: videa, kde AI sama spravuje e-maily, zatímco uživatel spí, nebo „staví web" na jeden příkaz. Jméno tohoto nástroje je **Clawdbot**. Je to hype, nebo budoucnost? 
+Pravděpodobně jste to sociálních sítích viděli: videa, kde AI sama spravuje e-maily, zatímco uživatel spí, nebo „staví web" na jeden příkaz. Jméno tohoto nástroje je **Clawdbot**. Vlastně není, musel se rychle přejmenovat na **Moltbot**. Je to hype, nebo budoucnost? 
+
+**Update 28.1.2026:** Clawdbot je nyní Moltbot. Vývojáři museli svůj nástroj přejmenovat na Moltbot, protože Clawdbot byl příliš příliš zvukově podobný Claude společnosti Anthropic, která [o změná názvu požádala](https://www.forbes.com/sites/ronschmelzer/2026/01/27/viral-ai-sidekick-clawdbot-changes-name-to-moltbot-and-sheds-its-old-skin/). V tomto článku používáme dále jméno Clawdbot.
 
 Marketingová zkratka zní: _„Claude, který může ovládat váš počítač."_ Realita je však mnohem střízlivější a technicky náročnější. Clawdbot je fascinující pohled do budoucnosti, kde AI není "SaaS služba", ale "kolega s vlastním počítačem". Prostě váš parťák, kterému pošlete zprávu s instrukcí, co má udělat a on to udělá. Skvělé!  Ale pro běžného uživatele je to ale zatím spíše minové pole a bezpečnostní problém.
 
