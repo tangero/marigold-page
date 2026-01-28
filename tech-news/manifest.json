@@ -1,7 +1,43 @@
 {
-  "generated": "2026-01-27T20:32:35.581306+00:00",
-  "count": 158,
+  "generated": "2026-01-28T01:25:11.537194+00:00",
+  "count": 160,
   "articles": [
+    {
+      "title": "Humanoidní roboti zaostávají v efektivitě",
+      "description": "Humanoidní roboti se stali symbolem přechodu umělé inteligence (AI) do fyzické ekonomiky. Navrženy pro chůzi, zvedání, uchopování a interakci v lidských prostředích, slibují řešení nedostatku pracovní síly, avšak jejich reálná produktivita výrazně zaostává za očekáváním.",
+      "slug": "humanoid-robots-are-falling-short-on-efficiency",
+      "publishedAt": "2026-01-27T00:42:31+00:00",
+      "date": "2026-01-27 00:42:31",
+      "importance": 4,
+      "category": "humanoidní roboti",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/01/humanoid-robotics-logistics.jpeg",
+      "url": "/tech-news/2026-01-27/humanoid-robots-are-falling-short-on-efficiency/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Zrychlení difúzních modelů otevřenou plug-and-play knihovnou",
+      "description": "NVIDIA představila FastGen, otevřenou knihovnu, která sjednocuje pokročilé techniky destilace pro zrychlení vícekrokových difúzních modelů na jednokrokové nebo několikakrokové generátory. Knihovna dosahuje 10násobného až 100násobného zrychlení odběru vzorků při zachování kvality a podporuje i velké video modely s 14 miliardami parametrů.",
+      "slug": "accelerating-diffusion-models-with-an-open-plug-an",
+      "publishedAt": "2026-01-26T23:39:34+00:00",
+      "date": "2026-01-26 23:39:34",
+      "importance": 4,
+      "category": "generativní ai",
+      "urlToImage": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/01/image1-1.jpg",
+      "url": "/tech-news/2026-01-26/accelerating-diffusion-models-with-an-open-plug-an/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Nvidia.com"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Xiaomi SU7 poprvé překonalo prodeje Tesla Model 3 v Číně",
       "description": "Poprvé od uvedení Modelu 3 v Číně v roce 2019 ho v segmentu prémiových elektrických sedanů překonal jiný výrobce. Je jím společnost Xiaomi, známá především výrobou chytrých telefonů.",
