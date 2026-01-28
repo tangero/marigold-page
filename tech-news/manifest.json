@@ -1,7 +1,70 @@
 {
-  "generated": "2026-01-28T12:58:46.872398+00:00",
-  "count": 135,
+  "generated": "2026-01-28T17:00:21.455385+00:00",
+  "count": 138,
   "articles": [
+    {
+      "title": "Od vyhledávání k nákupům: Čínští agenti umělé inteligence mění elektronický obchod a každodenní život",
+      "description": "Analytik predikuje, že první agent umělé inteligence v Číně dosáhne 300 milionů měsíčních aktivních uživatelů.",
+      "slug": "from-search-to-shopping-chinas-ai-agents-transform",
+      "publishedAt": "2026-01-27T16:09:27+00:00",
+      "date": "2026-01-27 16:09:27",
+      "importance": 4,
+      "category": "ai agenti",
+      "urlToImage": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1123535987.jpg?11235356251769530246",
+      "url": "/tech-news/2026-01-27/from-search-to-shopping-chinas-ai-agents-transform/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Sputnikglobe.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Šéf vědy OpenAI: Velké jazykové modely nejsou připraveny na nové objevy a to je v pořádku",
+      "description": "OpenAI v říjnu spustilo specializovaný tým OpenAI for Science pod vedením viceprezidenta Kevina Weila, jehož cílem je zvyšovat produktivitu vědců. Weil v rozhovoru pro MIT Technology Review přiznal, že velké jazykové modely (LLM) zatím neumí generovat skutečně nové objevy, což podle něj není současným úkolem těchto systémů.",
+      "slug": "openais-science-chief-says-llms-arent-ready-for-no",
+      "publishedAt": "2026-01-27T16:02:00+00:00",
+      "date": "2026-01-27 16:02:00",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://a.fsdn.com/sd/topics/ai_64.png",
+      "url": "/tech-news/2026-01-27/openais-science-chief-says-llms-arent-ready-for-no/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "companies": [
+        "OpenAI",
+        "MIT"
+      ],
+      "people": [
+        "Kevin Weil"
+      ]
+    },
+    {
+      "title": "Ai2 vydává rodinu open-source AI agentů pro vývojáře, kteří se adaptují na libovolný kódový základ",
+      "description": "Allen Institute for AI (Ai2) vydal Ai2 Open Coding Agents, sadu open-source nástrojů pro tvorbu a trénink vlastních kódovacích agentů. První model SERA řeší více než 55 % problémů na benchmarku SWE-Bench Verified a překonává srovnatelné open-source i některé uzavřené modely.",
+      "slug": "ai2-launches-family-of-open-source-ai-developer-ag",
+      "publishedAt": "2026-01-27T16:00:11+00:00",
+      "date": "2026-01-27 16:00:11",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/04/A-group-of-AI-agents-standing-in-a-semicircle-with-hands-on-keyboards-with-computer-code-flickering-.jpeg",
+      "url": "/tech-news/2026-01-27/ai2-launches-family-of-open-source-ai-developer-ag/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Ai2",
+        "GitHub",
+        "Allen Institute for AI"
+      ],
+      "people": []
+    },
     {
       "title": "Velká Británie oznámila tým AI podporovaný Meta pro modernizaci veřejných služeb",
       "description": "Britská vláda sestavila tým specialistů na umělou inteligenci financovaný společností Meta, aby vyvinul nástroje pro zlepšení dopravy, veřejné bezpečnosti a obrany. Premiér Keir Starmer zamýšlí využít technologii k zvýšení produktivity státní správy a rozvoji domácího AI průmyslu.",
