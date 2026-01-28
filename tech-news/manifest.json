@@ -1,7 +1,29 @@
 {
-  "generated": "2026-01-28T08:49:37.763622+00:00",
-  "count": 134,
+  "generated": "2026-01-28T12:58:46.872398+00:00",
+  "count": 135,
   "articles": [
+    {
+      "title": "Velká Británie oznámila tým AI podporovaný Meta pro modernizaci veřejných služeb",
+      "description": "Britská vláda sestavila tým specialistů na umělou inteligenci financovaný společností Meta, aby vyvinul nástroje pro zlepšení dopravy, veřejné bezpečnosti a obrany. Premiér Keir Starmer zamýšlí využít technologii k zvýšení produktivity státní správy a rozvoji domácího AI průmyslu.",
+      "slug": "uk-announces-meta-backed-ai-team-to-upgrade-public",
+      "publishedAt": "2026-01-27T12:23:21+00:00",
+      "date": "2026-01-27 12:23:21",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--oXYUv9LK--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-01-27T122917Z_2_LYNXMPEM0Q0UX_RTROPTP_3_META-PLATFORMS-MESSAGING-WHATSAPP.JPG?itok=1JZMWvwv",
+      "url": "/tech-news/2026-01-27/uk-announces-meta-backed-ai-team-to-upgrade-public/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNA"
+      },
+      "companies": [
+        "Meta"
+      ],
+      "people": [
+        "Keir Starmer"
+      ]
+    },
     {
       "title": "Zpráva Zscaler 2026 o hrozbách AI: 91% meziroční nárůst aktivity AI vytváří rostoucí mezeru v dohledu pro globální podniky",
       "description": "Rychlá adopce AI vytváří kritickou bezpečnostní mezeru mezi inovací a bezpečností, což vyžaduje, aby organizace přijaly platformu pro bezpečnost AI postavenou na principu Zero Trust. Zpráva analyzuje téměř bilion transakcí AI/ML a odhaluje zranitelnosti v podnikových systémech.",
