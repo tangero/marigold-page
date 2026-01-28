@@ -1,8 +1,8 @@
 {
   "watermark": {
-    "model_id": "moonshotai/kimi-k2.5",
-    "created_timestamp": 1769487076,
-    "updated_at": "2026-01-27T07:26:57.218285"
+    "model_id": "arcee-ai/trinity-large-preview:free",
+    "created_timestamp": 1769552670,
+    "updated_at": "2026-01-28T07:27:46.245928"
   },
   "analyzed_models": {
     "openai/gpt-5.1-codex-max": {
@@ -218,11 +218,18 @@
       "analyzed_at": "2026-01-27T07:26:57.218274",
       "success": true,
       "file_path": "/home/runner/work/marigold-page/marigold-page/_llm/2026-01-27-moonshotai-kimi-k2-5.md"
+    },
+    "arcee-ai/trinity-large-preview:free": {
+      "name": "Arcee AI: Trinity Large Preview (free)",
+      "created_timestamp": 1769552670,
+      "analyzed_at": "2026-01-28T07:27:46.245914",
+      "success": true,
+      "file_path": "/home/runner/work/marigold-page/marigold-page/_llm/2026-01-27-arcee-ai-trinity-large-preview-free.md"
     }
   },
   "statistics": {
-    "total_analyzed": 31,
-    "last_check": "2026-01-27T07:26:57.218641",
-    "last_new_models_found": 2
+    "total_analyzed": 32,
+    "last_check": "2026-01-28T07:27:46.246356",
+    "last_new_models_found": 1
   }
 }
