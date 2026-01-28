@@ -1,7 +1,67 @@
 {
-  "generated": "2026-01-28T17:00:21.455385+00:00",
-  "count": 138,
+  "generated": "2026-01-28T20:54:04.429989+00:00",
+  "count": 141,
   "articles": [
+    {
+      "title": "Wall Street je nervózní před výkazy Tesly za 4. čtvrtletí kvůli poklesu dodávek a rostoucí nejistotě v AI",
+      "description": "Analytici se obávají poklesu dodávek vozidel Tesly a výzev, kterým firma čelí v umělé inteligenci a robotice.",
+      "slug": "wall-street-is-feeling-anxious-ahead-of-teslas-q4-",
+      "publishedAt": "2026-01-27T19:34:00+00:00",
+      "date": "2026-01-27 19:34:00",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://i.insider.com/6978ea2ed3c7faef0eccfdbd?width=1200&format=jpeg",
+      "url": "/tech-news/2026-01-27/wall-street-is-feeling-anxious-ahead-of-teslas-q4/",
+      "source": {
+        "emoji": "📰",
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "companies": [
+        "Tesla"
+      ],
+      "people": []
+    },
+    {
+      "title": "Proč musíte zahájit strategii postkvantové kryptografie hned teď – sponzorovaný obsah od Palo Alto Networks",
+      "description": "Sponzorovaný obsah od Palo Alto Networks. Článek zdůrazňuje nutnost okamžité migrace na kryptografii odolnou vůči kvantovým počítačům kvůli hrozbě sběru šifrovaných dat a budoucímu dešifrování.",
+      "slug": "why-your-post-quantum-cryptography-strategy-must-s",
+      "publishedAt": "2026-01-27T19:30:04+00:00",
+      "date": "2026-01-27 19:30:04",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://hbr.org/resources/images/article_assets/2026/01/AdobeStock_1688512515-1200x675-1.png",
+      "url": "/tech-news/2026-01-27/why-your-post-quantum-cryptography-strategy-must-s/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Harvard Business Review"
+      },
+      "companies": [
+        "Palo Alto Networks"
+      ],
+      "people": []
+    },
+    {
+      "title": "Anthropic plánuje získat 20 miliard dolarů při valuaci 350 miliard díky vysoké poptávce investorů",
+      "description": "Anthropic zdvojnásobuje svůj cíl na 20 miliard dolarů v nové investiční kole kvůli silné poptávce investorů a dosáhne valuace 350 miliard dolarů. Kolem vede singapurský suverénní fond GIC a americký investor Coatue, s dalšími zúčastněnými jako Sequoia Capital.",
+      "slug": "anthropic-targets-20b-raise-at-350b-valuation-as-i",
+      "publishedAt": "2026-01-27T18:59:55+00:00",
+      "date": "2026-01-27 18:59:55",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/01/27135851/765b1bec-e064-461c-86d7-e0792d868934-800x420.jpg",
+      "url": "/tech-news/2026-01-27/anthropic-targets-20b-raise-at-350b-valuation-as-i/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Crypto Briefing"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": []
+    },
     {
       "title": "Od vyhledávání k nákupům: Čínští agenti umělé inteligence mění elektronický obchod a každodenní život",
       "description": "Analytik predikuje, že první agent umělé inteligence v Číně dosáhne 300 milionů měsíčních aktivních uživatelů.",
