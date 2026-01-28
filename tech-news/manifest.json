@@ -1,7 +1,175 @@
 {
-  "generated": "2026-01-28T01:25:11.537194+00:00",
-  "count": 160,
+  "generated": "2026-01-28T05:05:55.158869+00:00",
+  "count": 129,
   "articles": [
+    {
+      "title": "Micron plánuje továrnu na paměťové čipy za 24 miliard dolarů v Singapuru",
+      "description": "Americká společnost oznámila novou zařízení na výrobu plátků, které pomůže uspokojit rostoucí poptávku po paměťových čipech.",
+      "slug": "micron-plans-24bn-memory-chipmaking-plant-in-singa",
+      "publishedAt": "2026-01-27T04:28:41+00:00",
+      "date": "2026-01-27 04:28:41",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F5%2F5%2F9%2F12059556-2-eng-GB%2F199ab1df9380-2025-08-25T211349Z_305389776_RC2LEGA7NNRG_RTRMADP_3_MICRON-RESULTS.JPG?width=1260&fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=auto&height=630",
+      "url": "/tech-news/2026-01-27/micron-plans-24bn-memory-chipmaking-plant-in-singa/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Nikkei.com"
+      },
+      "companies": [
+        "Micron"
+      ],
+      "people": []
+    },
+    {
+      "title": "Generální ředitel Anthropic varuje, že lidstvo nemusí být připravené na pokročilou umělou inteligenci",
+      "description": "Generální ředitel Anthropic PBC Dario Amodei zveřejnil esej o rizicích vývoje mocných systémů umělé inteligence a způsobech jejich zmírnění. Varuje, že společnost prochází zkouškou ohně, která otestuje její zralost v ovládání této technologie.",
+      "slug": "anthropic-ceo-warns-humanity-may-not-be-ready-for-",
+      "publishedAt": "2026-01-27T03:49:14+00:00",
+      "date": "2026-01-27 03:49:14",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/53202070940_fc475bae14_c-1.jpg",
+      "url": "/tech-news/2026-01-27/anthropic-ceo-warns-humanity-may-not-be-ready-for/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": [
+        "Dario Amodei"
+      ]
+    },
+    {
+      "title": "Micron investuje 30,5 miliardy singapurských dolarů do Singapuru pro zvýšení výroby čipů, vytvoří 1600 pracovních míst",
+      "description": "Společnost Micron Technology investuje 30,5 miliardy singapurských dolarů (24 miliard USD) do nové továrny v Singapuru na výrobu NAND flash paměťových čipů pro datová centra poháněná AI. Tato továrna by měla být v provozu v druhé polovině roku 2028 a vytvoří 1600 pracovních míst.",
+      "slug": "micron-to-invest-305-billion-in-singapore-to-boost",
+      "publishedAt": "2026-01-27T03:31:14+00:00",
+      "date": "2026-01-27 03:31:14",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/37b4a04a7f77c682d1c846be2f6e9f2812c1b38b2cf0c8d6f6ce9426c75675eb",
+      "url": "/tech-news/2026-01-27/micron-to-invest-305-billion-in-singapore-to-boost/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Straits Times"
+      },
+      "companies": [
+        "Micron"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nvidia investuje 2 miliardy dolarů do CoreWeave pro rozšíření AI infrastruktury",
+      "description": "Nvidia a cloudová firma CoreWeave rozšiřily partnerství na výstavbu více než 5 gigawattů AI 'továrn' do roku 2030, aby podpořily růst umělé inteligence. Nvidia v rámci dohody investovala 2 miliardy dolarů.",
+      "slug": "nvidia-pours-us2-billion-into-coreweave-for-ai-inf",
+      "publishedAt": "2026-01-27T03:25:33+00:00",
+      "date": "2026-01-27 03:25:33",
+      "importance": 4,
+      "category": "ai infrastruktura",
+      "urlToImage": "https://img.digitimes.com/newsshow/20260127vl202_files/1_2b.jpg",
+      "url": "/tech-news/2026-01-27/nvidia-pours-us2-billion-into-coreweave-for-ai-inf/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [
+        "Nvidia",
+        "CoreWeave"
+      ],
+      "people": []
+    },
+    {
+      "title": "Samsung by mohl zahájit hromadnou výrobu čipů HBM4 příští měsíc pro Nvidia",
+      "description": "Čipy HBM3 a HBM3E od Samsungu, používané v akcelerátorech umělé inteligence, trpěly problémy s výkonem. Společnost je loni přepracovala, aby získala schválení od Nvidia, přesto byly použity jen v omezeném počtu akcelerátorů.",
+      "slug": "samsung-could-start-mass-production-of-hbm4-chips-",
+      "publishedAt": "2026-01-27T03:04:21+00:00",
+      "date": "2026-01-27 03:04:21",
+      "importance": 4,
+      "category": "hardware",
+      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2025/12/Nvidia-Vera-Rubin-NVL144-Tray-AI-Platform-GTC-2025-1200x675.jpg",
+      "url": "/tech-news/2026-01-27/samsung-could-start-mass-production-of-hbm4-chips/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SamMobile"
+      },
+      "companies": [
+        "Samsung",
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Micron zahájil stavbu pokročilé továrny na výrobu waferů v Singapuru",
+      "description": "Společnost Micron Technology investuje přibližně 24 miliard USD během 10 let do nové továrny v Singapuru, která poskytne 700 000 čtverečních stop prostoru pro čisté místnosti a podpoří poptávku po NAND pamětech poháněnou AI.",
+      "slug": "micron-breaks-ground-on-advanced-wafer-fabrication",
+      "publishedAt": "2026-01-27T02:30:00+00:00",
+      "date": "2026-01-27 02:30:00",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/7b41b567-5fa9-4dee-8bcb-9ea728ca57ee",
+      "url": "/tech-news/2026-01-27/micron-breaks-ground-on-advanced-wafer-fabrication/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [
+        "Micron"
+      ],
+      "people": []
+    },
+    {
+      "title": "Microsoft představuje AI čip Maia 200, pokrok v hromadné výrobě přitahuje pozornost",
+      "description": "Microsoft 27. ledna oficiálně představil svůj druhý AI akcelerátor Maia 200, čímž pokračuje v úsilí o vývoj vlastních čipů od roku 2019. Nový čip se zaměřuje na zlepšený výkon při odvozování modelů a vyrábí se na pokročilém 3nm procesu TSMC.",
+      "slug": "microsoft-launches-maia-200-ai-chip-mass-productio",
+      "publishedAt": "2026-01-27T02:07:44+00:00",
+      "date": "2026-01-27 02:07:44",
+      "importance": 4,
+      "category": "ai hardware",
+      "urlToImage": "https://img.digitimes.com/newsshow/20260127pd201_files/2_b.jpg",
+      "url": "/tech-news/2026-01-27/microsoft-launches-maia-200-ai-chip-mass-productio/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [
+        "Microsoft",
+        "TSMC"
+      ],
+      "people": []
+    },
+    {
+      "title": "Apple zvažovalo Anthropic a OpenAI před partnerstvím s Googlem v oblasti umělé inteligence",
+      "description": "Před uzavřením spolupráce s Googlem na vývoji další generace hlasového asistenta Siri Apple vedlo jednání s firmami Anthropic a OpenAI. Apple odmítlo partnerství s Anthropic kvůli vysokým finančním požadavkům a OpenAI kvůli rostoucí konkurenci mezi společnostmi.",
+      "slug": "apple-considered-anthropic-and-openai-before-partn",
+      "publishedAt": "2026-01-27T02:06:58+00:00",
+      "date": "2026-01-27 02:06:58",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/01/Apple-Google1.jpg",
+      "url": "/tech-news/2026-01-27/apple-considered-anthropic-and-openai-before-partn/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [
+        "Apple",
+        "Anthropic",
+        "OpenAI",
+        "Google"
+      ],
+      "people": []
+    },
     {
       "title": "Humanoidní roboti zaostávají v efektivitě",
       "description": "Humanoidní roboti se stali symbolem přechodu umělé inteligence (AI) do fyzické ekonomiky. Navrženy pro chůzi, zvedání, uchopování a interakci v lidských prostředích, slibují řešení nedostatku pracovní síly, avšak jejich reálná produktivita výrazně zaostává za očekáváním.",
@@ -2473,811 +2641,6 @@
         "name": "Nature.com"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Nová vojenská strategie USA je příkladem ‚AI peacocking‘",
-      "description": "Nová strategie se silně opírá o propagaci umělé inteligence – s potenciálně smrtelnými následky.",
-      "slug": "the-united-states-new-military-strategy-is-a-case-",
-      "publishedAt": "2026-01-21T23:30:58+00:00",
-      "date": "2026-01-21 23:30:58",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://images.theconversation.com/files/713544/original/file-20260121-56-q1gupv.jpg?ixlib=rb-4.1.0&rect=140%2C216%2C2601%2C1300&q=45&auto=format&w=1356&h=668&fit=crop",
-      "url": "/tech-news/2026-01-21/the-united-states-new-military-strategy-is-a-case/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Conversation Africa"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Očekávejte AGI do několika let, říká šéf Anthropic – a ztráty pracovních míst také",
-      "description": "Pokroky směrem k umělé inteligenci na úrovni člověka se zrychňují, což zvyšuje rizika narušení zaměstnanosti a institucí, uvedli lídři průmyslu.",
-      "slug": "expect-agi-within-a-few-years-says-anthropic-ceoan",
-      "publishedAt": "2026-01-21T23:28:12+00:00",
-      "date": "2026-01-21 23:28:12",
-      "importance": 5,
-      "category": "ai",
-      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/ai-decrypt-style-14-gID_7.png",
-      "url": "/tech-news/2026-01-21/expect-agi-within-a-few-years-says-anthropic-ceoan/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Decrypt"
-      },
-      "companies": [
-        "Anthropic"
-      ],
-      "people": []
-    },
-    {
-      "title": "BitGo stanoví cenu IPO před debutem na burze, cílí na valuaci 1,96 miliardy dolarů",
-      "description": "Kryptoměnová platforma BitGo Holdings Inc. dnes dokončuje svou úvodní veřejnou nabídku akcií před uvedením na New York Stock Exchange, kde hledá valuaci až 1,96 miliardy dolarů. Společnost plánuje vybrat až 201 milionů dolarů prodejem 11,8 milionu akcií za cenu 15 až 17 dolarů za kus.",
-      "slug": "bitgo-to-price-its-ipo-ahead-of-stock-market-debut",
-      "publishedAt": "2026-01-21T23:27:30+00:00",
-      "date": "2026-01-21 23:27:30",
-      "importance": 4,
-      "category": "kryptoměny",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/Unsplash-1-800x454-1.png",
-      "url": "/tech-news/2026-01-21/bitgo-to-price-its-ipo-ahead-of-stock-market-debut/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "BitGo Holdings Inc"
-      ],
-      "people": []
-    },
-    {
-      "title": "BitGo stanovilo cenu IPO nad očekávaný rozsah před debutem na burze, cílí na valuaci přes 2 miliardy dolarů",
-      "description": "Kryptoměnová platforma BitGo získala 213 milionů dolarů z počáteční veřejné nabídky akcií, kdy stanovila cenu na 18 dolarů za akcii nad původní rozsahem 15–17 dolarů. Akcie debutovaly na NYSE s růstem téměř 25 procent, později se ustálily na nárůstu o 3 procenta.",
-      "slug": "bitgo-prices-its-ipo-above-range-ahead-of-stock-ma",
-      "publishedAt": "2026-01-21T23:27:30+00:00",
-      "date": "2026-01-21 23:27:30",
-      "importance": 4,
-      "category": "kryptoměny",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/Unsplash-1-800x454-1.png",
-      "url": "/tech-news/2026-01-21/bitgo-prices-its-ipo-above-range-ahead-of-stock-ma/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "BitGo Holdings Inc"
-      ],
-      "people": []
-    },
-    {
-      "title": "Lemonade spouští levnější pojištění vozidel pro Tesla FSD",
-      "description": "Pojišťovna Lemonade snižuje sazby za pojištění na míli o přibližně 50 % pro řidiče Tesla, když je aktivní systém Full Self-Driving. Spuštění začíná v Arizoně a využívá telemetrii vozidel k rozlišení manuálního a autonomního řízení.",
-      "slug": "lemonade-launches-cheaper-car-insurance-for-tesla-",
-      "publishedAt": "2026-01-21T23:25:43+00:00",
-      "date": "2026-01-21 23:25:43",
-      "importance": 4,
-      "category": "autonomní řízení",
-      "urlToImage": "https://i0.wp.com/cdnssl.ubergizmo.com/wp-content/uploads/2026/01/lemonade-cheaper-fsd-insurance.jpg",
-      "url": "/tech-news/2026-01-21/lemonade-launches-cheaper-car-insurance-for-tesla/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Ubergizmo"
-      },
-      "companies": [
-        "Lemonade",
-        "Tesla"
-      ],
-      "people": []
-    },
-    {
-      "title": "Gurman popisuje dvoufázové zavádění AI od Apple",
-      "description": "Mark Gurman z Bloombergu informuje o plánech Apple na dvoufázové zavedení nových AI funkcí založených na modelech Google. První fáze přinese vylepšení hlasového asistenta Siri v iOS 26.4, druhá přidá chatbotové možnosti v iOS 27.",
-      "slug": "gurman-details-apple-two-phase-ai-rollout",
-      "publishedAt": "2026-01-21T23:22:50+00:00",
-      "date": "2026-01-21 23:22:50",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://sixcolors.com/wp-content/themes/sixcolors/images/6colors_og_image.png",
-      "url": "/tech-news/2026-01-21/gurman-details-apple-two-phase-ai-rollout/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "sixcolors.com"
-      },
-      "companies": [
-        "Apple",
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Upscale AI získala 200 milionů dolarů na vývoj síťových čipů pro škálování AI clusterů",
-      "description": "Společnost Upscale AI, vývojář síťových čipů pro clustery umělé inteligence, získala 200 milionů dolarů v novém kole financování. Hlavními investory jsou Tiger Global, Premji Invest a Xora Innovation, k nimž se připojily venture kapitálové divize Intelu a Qualcomm.",
-      "slug": "upscale-ai-raises-200m-to-develop-scale-up-ai-netw",
-      "publishedAt": "2026-01-21T23:19:18+00:00",
-      "date": "2026-01-21 23:19:18",
-      "importance": 4,
-      "category": "ai hardware",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/unsplash-1.png",
-      "url": "/tech-news/2026-01-21/upscale-ai-raises-200m-to-develop-scale-up-ai-netw/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Upscale AI",
-        "Tiger Global",
-        "Premji Invest",
-        "Xora Innovation"
-      ],
-      "people": []
-    },
-    {
-      "title": "Blue Origin Jeffa Bezose nasadí podnikovou síť satelitů v nízké oběžné dráze",
-      "description": "S rychlostmi až 6 Tbps. Síť TeraWave je určená pro datová centra, vlády a firmy.",
-      "slug": "bezos-blue-origin-to-deploy-enterprise-grade-leosa",
-      "publishedAt": "2026-01-21T20:05:07+00:00",
-      "date": "2026-01-21 20:05:07",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://i.nextmedia.com.au/News/UK_from_space_at_night_with_aurora.jpg",
-      "url": "/tech-news/2026-01-21/bezos-blue-origin-to-deploy-enterprise-grade-leosa/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "iTnews"
-      },
-      "companies": [
-        "Blue Origin"
-      ],
-      "people": [
-        "Jeff Bezos"
-      ]
-    },
-    {
-      "title": "Miliardáři Elon Musk a Sam Altman se hádají, kdo způsobil více nevinných smrtí",
-      "description": "Technologickí miliardáři Elon Musk a Sam Altman vedou na platformě X spor o to, čí technologie – Grok nebo ChatGPT – je spojena s větším počtem úmrtí. Diskuse se týká soudních sporů souvisejících s sebevraždami, autonehodami a vraždami.",
-      "slug": "billionaires-elon-musk-and-sam-altman-argue-over-w",
-      "publishedAt": "2026-01-21T20:01:21+00:00",
-      "date": "2026-01-21 20:01:21",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/01/elon-musk-on-red-carpet.jpg?w=1600&h=900&fit=crop",
-      "url": "/tech-news/2026-01-21/billionaires-elon-musk-and-sam-altman-argue-over-w/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Screen Rant"
-      },
-      "companies": [],
-      "people": [
-        "Elon Musk",
-        "Sam Altman"
-      ]
-    },
-    {
-      "title": "Většina lidí už nedokáže odlišit AI videa od reality, nová studie Runway odhaluje – dokonce ani jeho spoluzakladatel",
-      "description": "Nejnovější model generátoru AI videí od Runway ukazuje, že rozhodování, zda je video reálné nebo uměle vytvořené, je jako hodotání mincí. Účastníci studie ho správně identifikovali jen v 57,1 procenta případů.",
-      "slug": "most-people-now-cant-separate-ai-videos-from-reali",
-      "publishedAt": "2026-01-21T20:00:00+00:00",
-      "date": "2026-01-21 20:00:00",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/7bd4B8SvF38pHWX9Rip5YB-2000-80.jpg",
-      "url": "/tech-news/2026-01-21/most-people-now-cant-separate-ai-videos-from-reali/",
-      "source": {
-        "emoji": "📰",
-        "id": "techradar",
-        "name": "TechRadar"
-      },
-      "companies": [
-        "Runway"
-      ],
-      "people": []
-    },
-    {
-      "title": "Rezolve AI uzavřela předplněné financování ve výši 250 milionů dolarů a vstupuje do roku 2026 s výrazně posílenou bilancí v AI commerce",
-      "description": "Společnost Rezolve AI získala 250 milionů dolarů v registraci přímého financování, které bylo předplněno díky zájmu institucionálních investorů. Tento kapitál umožní urychlit fúze a akvizice, rozšířit nasazení v podnicích a přeměnit adopci AI na udržitelný růst příjmů.",
-      "slug": "rezolve-ai-closes-250-million-oversubscribed-finan",
-      "publishedAt": "2026-01-21T19:04:00+00:00",
-      "date": "2026-01-21 19:04:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/d7c6e8ce-e67f-484a-bead-d7785b8e8464",
-      "url": "/tech-news/2026-01-21/rezolve-ai-closes-250-million-oversubscribed-finan/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [
-        "Rezolve Ai"
-      ],
-      "people": []
-    },
-    {
-      "title": "Elon Musk potvrzuje, že auta s AI4 dosáhnou autonomního řízení bez dohledu bez dalších upgradů",
-      "description": "Šéf Tesly Elon Musk potvrdil, že vozidla vybavená čipem AI4 (HW4) dokážou realizovat plně autonomní řízení bez dohledu řidiče a bez nutnosti hardwarových úprav. Tato technologie podle něj překoná lidskou bezpečnost řízení.",
-      "slug": "elon-musk-confirms-ai4-powered-cars-can-achieve-un",
-      "publishedAt": "2026-01-21T19:01:15+00:00",
-      "date": "2026-01-21 19:01:15",
-      "importance": 4,
-      "category": "autonomní řízení",
-      "urlToImage": "https://s.yimg.com/os/en/Benzinga/b3ea28497c92ed5fa158a7337a01ab06",
-      "url": "/tech-news/2026-01-21/elon-musk-confirms-ai4-powered-cars-can-achieve-un/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [
-        "Tesla"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Generální ředitel Nvidia Jensen Huang vyzývá státy, aby AI považovaly za klíčovou národní infrastrukturu",
-      "description": "Na zasedání Světového ekonomického fóra Jensen Huang, generální ředitel Nvidia, prohlásil, že umělá inteligence je pro národní rozvoj stejně nezbytná jako elektřina nebo dopravní sítě. Vyzval země k budování vlastní AI infrastruktury, aby ochránily svá data, jazyk a kulturu.",
-      "slug": "nvidia-ceo-jensen-huang-urges-nations-to-treat-ai-",
-      "publishedAt": "2026-01-21T16:18:10+00:00",
-      "date": "2026-01-21 16:18:10",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-54346,resizemode-75,msid-127015626/tech/artificial-intelligence/nvidia-ceo-jensen-huang-urges-nations-to-treat-ai-as-core-national-infrastructure.jpg",
-      "url": "/tech-news/2026-01-21/nvidia-ceo-jensen-huang-urges-nations-to-treat-ai/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": [
-        "Jensen Huang",
-        "Laurence Fink"
-      ]
-    },
-    {
-      "title": "Šéf Nvidia očekává investice v řádu bilionů dolarů do AI",
-      "description": "Infrastruktura pro vývoj a provoz generativních modelů umělé inteligence bude vyžadovat další investice v řádu 'bilionů' dolarů, uvedl v stredu šéf největšího výrobce AI čipů Nvidia.",
-      "slug": "nvidia-boss-sees-trillions-in-ai-spending-ahead",
-      "publishedAt": "2026-01-21T16:14:54+00:00",
-      "date": "2026-01-21 16:14:54",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-107042,resizemode-75,msid-127015669/tech/technology/nvidia-boss-sees-trillions-in-ai-spending-ahead.jpg",
-      "url": "/tech-news/2026-01-21/nvidia-boss-sees-trillions-in-ai-spending-ahead/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": []
-    },
-    {
-      "title": "Laboratoř umělé inteligence Meta dodala první modely interně",
-      "description": "Nová laboratoř umělé inteligence společnosti Meta dodala své první modely AI pro interní použití. Hlavní technologický ředitel Andrew Bosworth uvedl, že modely vytvořené týmem Superintelligence Labs vykazují slibné výsledky po pouhých šesti měsících vývoje.",
-      "slug": "metas-ai-lab-delivers-first-models-in-house",
-      "publishedAt": "2026-01-21T15:46:15+00:00",
-      "date": "2026-01-21 15:46:15",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/01/Meta-AI.jpeg",
-      "url": "/tech-news/2026-01-21/metas-ai-lab-delivers-first-models-in-house/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "pymnts.com"
-      },
-      "companies": [
-        "Meta"
-      ],
-      "people": [
-        "Andrew Bosworth"
-      ]
-    },
-    {
-      "title": "Americká Blaize podepsala memoranda o porozumění s vládou Telangana pro podporu iniciativ v AI",
-      "description": "Společnost Blaize uzavřela memoranda o porozumění s vládou indického státu Telangana na podporu rozvoje v elektronice, polovodičích a umělé inteligenci. Partnerství prozkoumá aplikace AI v diagnostice v zdravotnictví, automatizaci výroby a energetické úspornosti.",
-      "slug": "us-based-blaize-signs-mou-with-telangana-govt-to-s",
-      "publishedAt": "2026-01-21T15:39:21+00:00",
-      "date": "2026-01-21 15:39:21",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-116510,resizemode-75,msid-127010107/tech/technology/us-based-blaize-signs-mou-with-telangana-govt-to-support-ai-initiatives.jpg",
-      "url": "/tech-news/2026-01-21/us-based-blaize-signs-mou-with-telangana-govt-to-s/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Blaize"
-      ],
-      "people": []
-    },
-    {
-      "title": "Nový tým umělé inteligence Meta tento měsíc interně doručil první klíčové modely, uvedl šéftechnický ředitel",
-      "description": "Na tiskové konferenci na okraji ročního zasedání Světového ekonomického fóra v Davosu řekl CTO Andrew Bosworth, že modely vytvořené týmem Meta Superintelligence Labs, založeným minulý rok, vykazují velký potenciál.",
-      "slug": "metas-new-ai-team-delivered-first-key-models-inter",
-      "publishedAt": "2026-01-21T12:25:27+00:00",
-      "date": "2026-01-21 12:25:27",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1451794,resizemode-75,msid-126985664/tech/technology/metas-new-ai-team-delivered-first-key-models-internally-this-month-cto-says.jpg",
-      "url": "/tech-news/2026-01-21/metas-new-ai-team-delivered-first-key-models-inter/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Meta"
-      ],
-      "people": [
-        "Andrew Bosworth"
-      ]
-    },
-    {
-      "title": "„Křestní otec AI“ je „velmi smutný“ z toho, čím se stalo jeho celoživotní dílo",
-      "description": "Geoffrey Hinton vyjádřil znepokojení, že umělá inteligence, kterou pomohl vyvinout, představuje rizika, která nejsou dostatečně brána vážně.",
-      "slug": "the-godfather-of-ai-says-hes-very-sad-about-what-h",
-      "publishedAt": "2026-01-21T12:00:58+00:00",
-      "date": "2026-01-21 12:00:58",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://i.insider.com/69709f50e1ba468a96aa669b?width=1200&format=jpeg",
-      "url": "/tech-news/2026-01-21/the-godfather-of-ai-says-hes-very-sad-about-what-h/",
-      "source": {
-        "emoji": "📰",
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "companies": [],
-      "people": [
-        "Geoffrey Hinton"
-      ]
-    },
-    {
-      "title": "Preply získává 150 milionů dolarů na posílení učení jazyků pod vedením člověka s AI",
-      "description": "Globální platforma pro výuku jazyků Preply získala 150 milionů dolarů v kole Series D od investora WestCap, což celkový objem financování zvyšuje na 299 milionů dolarů a valuaci na 1,2 miliardy dolarů. Peníze poslou k rozšíření platformy, která kombinuje lidské tutory s AI nástroji pro personalizaci výuky.",
-      "slug": "preply-raises-150m-to-enhance-human-led-language-l",
-      "publishedAt": "2026-01-21T12:00:15+00:00",
-      "date": "2026-01-21 12:00:15",
-      "importance": 4,
-      "category": "startupy",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/Screenshot-from-2026-01-19-08-52-01.png",
-      "url": "/tech-news/2026-01-21/preply-raises-150m-to-enhance-human-led-language-l/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Preply"
-      ],
-      "people": []
-    },
-    {
-      "title": "Johnston vysvětluje, proč Beacon Health System vsadí na AI EHR od Oracle",
-      "description": "Beacon Health System uzavřelo komplexní dohodu s Oraclem na implementaci nové platformy elektronických zdravotních záznamů s umělou inteligencí. Tato dohoda zahrnuje analytické nástroje a systémy pro řízení podnikových zdrojů a positionuje 10nemocniční systém jako beta partnera pro nadcházející technologie Oracle.",
-      "slug": "johnston-explains-why-beacon-is-betting-big-on-ora",
-      "publishedAt": "2026-01-21T12:00:13+00:00",
-      "date": "2026-01-21 12:00:13",
-      "importance": 4,
-      "category": "zdravotnická ai",
-      "urlToImage": "https://healthsystemcio.com/wp-content/uploads/2020/02/johnston_stacey-2.jpg",
-      "url": "/tech-news/2026-01-21/johnston-explains-why-beacon-is-betting-big-on-ora/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Healthsystemcio.com"
-      },
-      "companies": [
-        "Oracle"
-      ],
-      "people": []
-    },
-    {
-      "title": "Sam Altman odpovídá Elonovi Muskovi ohledně tvrzení o bezpečnosti ChatGPT",
-      "description": "Spor mezi technologickými lídry eskaloval poté, co Musk na sociální síti X varoval před používáním ChatGPT od OpenAI. Altman se brání proti tvrzením o nedostatečné bezpečnosti modelu.",
-      "slug": "sam-altman-hits-back-at-elon-musk-over-chatgpt-saf",
-      "publishedAt": "2026-01-21T11:59:59+00:00",
-      "date": "2026-01-21 11:59:59",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/01/sam-altman-elon-musk-decrypt-style-gID_7.jpg",
-      "url": "/tech-news/2026-01-21/sam-altman-hits-back-at-elon-musk-over-chatgpt-saf/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Decrypt"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": [
-        "Sam Altman",
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Zipline překonal 2 miliony dodávek, získal přes 600 milionů dolarů na další růst a rozšiřuje operace do Houstonu a Phoenixu",
-      "description": "Americká robotická společnost Zipline oznámila překročení 2 milionů komerčních dodávek drony, získání více než 600 milionů dolarů v novém kole financování a plánované rozšíření do Houstonu a Phoenixu na začátku roku 2026. S touto investicí dosáhla valuace 7,6 miliardy dolarů.",
-      "slug": "zipline-surpasses-2-million-deliveries-raises-more",
-      "publishedAt": "2026-01-21T08:01:00+00:00",
-      "date": "2026-01-21 08:01:00",
-      "importance": 4,
-      "category": "dronové doručování",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/30db214e-ff54-44a3-bc09-f965191686ec",
-      "url": "/tech-news/2026-01-21/zipline-surpasses-2-million-deliveries-raises-more/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [
-        "Zipline"
-      ],
-      "people": []
-    },
-    {
-      "title": "Spolupráce s Khan Academy na vývoji AI nástrojů pro vzdělávání",
-      "description": "Google oznámil partnerství s neziskovou platformou Khan Academy na tvorbě vzdělávacích nástrojů poháněných modely Gemini. Khan Academy integruje Gemini do nástroje Writing Coach pro žáky 7–12 let a brzy spustí Reading Coach pro žáky 5–12 let.",
-      "slug": "collaborating-with-khan-academy-to-build-the-best-",
-      "publishedAt": "2026-01-21T08:00:00+00:00",
-      "date": "2026-01-21 08:00:00",
-      "importance": 4,
-      "category": "vzdělávací ai",
-      "urlToImage": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/khanacademy_social.width-1300.png",
-      "url": "/tech-news/2026-01-21/collaborating-with-khan-academy-to-build-the-best/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Blog.google"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Připravte se na SAT s cvičnými testy v Gemini",
-      "description": "Digitální ilustrace rozhraní Gemini AI zobrazující okno „SAT Practice Test“, doprovázená ikonami diplomové čepice a studentů, představující AI nástroje pro vzdělávání. Google spolupracuje s The Princeton Review na bezplatných plnohodnotných cvičných testech SAT přímo v aplikaci Gemini.",
-      "slug": "prep-for-the-sat-with-practice-tests-in-gemini",
-      "publishedAt": "2026-01-21T07:50:33+00:00",
-      "date": "2026-01-21 07:50:33",
-      "importance": 4,
-      "category": "vzdělávací technolog",
-      "urlToImage": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/024-BETT26-PracticeTests-Header-Resize-Social.width-1300.png",
-      "url": "/tech-news/2026-01-21/prep-for-the-sat-with-practice-tests-in-gemini/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Blog.google"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Čína: Obchodní dohoda USA a Tchaj-wanu vysává ekonomiku ostrova ve prospěch Ameriky",
-      "description": "Čína zesílila kritiku obchodní dohody mezi Tchaj-wanem a USA, podle níž tato dohoda prospívá Washingtonu a oslabuje průmyslovou sílu Tchaj-wanu. Dohoda zahrnuje snížení cel a masivní investice do amerického technologického sektoru.",
-      "slug": "china-says-trade-deal-with-us-will-drain-taiwans-e",
-      "publishedAt": "2026-01-21T07:15:38+00:00",
-      "date": "2026-01-21 07:15:38",
-      "importance": 4,
-      "category": "obchodní dohoda",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108246627-17671010072025-12-30t115146z_1132148463_rc2zqia0wyvo_rtrmadp_0_china-taiwan-drills.jpeg?v=1767101108&w=1920&h=1080",
-      "url": "/tech-news/2026-01-21/china-says-trade-deal-with-us-will-drain-taiwans-e/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNBC"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Elon Musk proti OpenAI: Soud v dubnu 2026 o kontrole, dohodě s Microsoftem a přechodu na ziskový model",
-      "description": "Společná vize budoucnosti umělé inteligence se změnila v hořký právní spor mezi Elonem Muskem a OpenAI. Wes Roth popisuje, jak se kdysi spojené síly stočily do konfliktu, který může ovlivnit vývoj AI. Klíčem je obvinění z porušení zakládajících principů při přechodu z neziskové na ziskovou strukturu a partnerství s Microsoftem.",
-      "slug": "elon-musk-vs-openai-april-2026-trial-lawsuit-over-",
-      "publishedAt": "2026-01-21T07:14:28+00:00",
-      "date": "2026-01-21 07:14:28",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/01/openai-microsoft-investment-2019_optimized.jpg",
-      "url": "/tech-news/2026-01-21/elon-musk-vs-openai-april-2026-trial-lawsuit-over/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [
-        "OpenAI",
-        "Microsoft"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Galaxy plánuje spustit hedge fond za 100 milionů USD uprostřed poklesu trhu",
-      "description": "Firma Galaxy, vedená Mikem Novogratzem, chystá spuštění hedge fondu s počátečním kapitálem 100 milionů USD, který využije volatility na trhu kryptoměn a tradičních finančních služeb. Tento krok signalizuje důvěru v digitální aktiva i růst v regulačních a technologických oblastech.",
-      "slug": "galaxy-plans-to-debut-100m-hedge-fund-amid-market-",
-      "publishedAt": "2026-01-21T07:09:57+00:00",
-      "date": "2026-01-21 07:09:57",
-      "importance": 4,
-      "category": "kryptoměny",
-      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/01/21020740/9cf90a98-b9b6-4714-8584-a718416cca30-800x420.jpg",
-      "url": "/tech-news/2026-01-21/galaxy-plans-to-debut-100m-hedge-fund-amid-market/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Crypto Briefing"
-      },
-      "companies": [
-        "Galaxy"
-      ],
-      "people": []
-    },
-    {
-      "title": "Akcie Amagi klesly při debutu na indické burze, cloudová TV softwarová firma testuje zájem investorů | TechCrunch",
-      "description": "Akcie Amagi debutovaly se 12% slevou, což poskytuje raný náhled na poptávku investorů po vzácném typu technologického listingu v Indii.",
-      "slug": "amagi-slides-in-india-debut-as-cloud-tv-software-f",
-      "publishedAt": "2026-01-21T06:25:00+00:00",
-      "date": "2026-01-21 06:25:00",
-      "importance": 4,
-      "category": "burzovní debut",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/01/amagi-jagmeet-singh-techcrunch.jpg?resize=1200,800",
-      "url": "/tech-news/2026-01-21/amagi-slides-in-india-debut-as-cloud-tv-software-f/",
-      "source": {
-        "emoji": "🚀",
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "companies": [
-        "Amagi"
-      ],
-      "people": []
-    },
-    {
-      "title": "Skupina AM podepsala memorandum o porozumění s vládou Uttar Pradesh na výstavbu AI výpočetního centra o výkonu 1 GW",
-      "description": "Skupina AM uzavřela memorandum s Invest UP, agenturou vlády Uttar Pradesh, na vybudování výpočetního centra pro umělou inteligenci s kapacitou 1 GW v oblasti Greater Noida. Projekt s investicí kolem 25 miliard USD má sloužit globálním AI úlohám a podpořit šíření technologie od okrajových agentů po inteligentní tokeny.",
-      "slug": "am-group-signs-landmark-mou-with-uttar-pradesh-gov",
-      "publishedAt": "2026-01-21T06:16:58+00:00",
-      "date": "2026-01-21 06:16:58",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/2mtif6/article70532113.ece/alternates/LANDSCAPE_1200/Screenshot%202026-01-21%20102811.png",
-      "url": "/tech-news/2026-01-21/am-group-signs-landmark-mou-with-uttar-pradesh-gov/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "companies": [
-        "AM Group"
-      ],
-      "people": []
-    },
-    {
-      "title": "OpenAI zaplatí za energetické upgrady na lokalitách Stargate",
-      "description": "OpenAI oznámilo, že uhradí náklady na vývoj energetické infrastruktury pro svá datacentra Stargate, aby zabránilo zvýšení cen elektřiny pro spotřebitele. Společnost spolupracuje s místními komunitami a reaguje na rostoucí obavy z energetické zátěže AI projektů.",
-      "slug": "openai-says-it-will-pay-for-energy-upgrades-at-sta",
-      "publishedAt": "2026-01-21T04:13:02+00:00",
-      "date": "2026-01-21 04:13:02",
-      "importance": 4,
-      "category": "datacentra",
-      "urlToImage": null,
-      "url": "/tech-news/2026-01-21/openai-says-it-will-pay-for-energy-upgrades-at-sta/",
-      "source": {
-        "emoji": "📰",
-        "id": "financial-post",
-        "name": "Financial Post"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Americký těžař uranu míří na globální vliv ve vzácných zemích díky australské akvizici",
-      "description": "Americká společnost Energy Fuels Inc., která těží uran i vzácné zeminy v Arizoně, uzavřela dohodu o převzetí australské těžební firmy Australian Strategic Materials Ltd. za 299 milionů dolarů. Cílem je vytvořit plně integrovaný dodavatelský řetězec od těžby po zpracování kovů, který posílí západní pozici proti čínské dominanci.",
-      "slug": "us-miner-eyes-global-rare-earths-clout-with-austra",
-      "publishedAt": "2026-01-21T02:30:42+00:00",
-      "date": "2026-01-21 02:30:42",
-      "importance": 4,
-      "category": "vzácné zeminy",
-      "urlToImage": null,
-      "url": "/tech-news/2026-01-21/us-miner-eyes-global-rare-earths-clout-with-austra/",
-      "source": {
-        "emoji": "📰",
-        "id": "financial-post",
-        "name": "Financial Post"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "4DMedical získala financování přes 100 milionů dolarů na urychlení expanze v USA",
-      "description": "Australská společnost 4DMedical, zabývající se pokročilým 4D zobrazováním plic, oznámila získání investic v objemu přes 100 milionů amerických dolarů. Financování poslou k rozšíření operací na americkém trhu a vývoji technologií pro diagnostiku respiračních onemocnění.",
-      "slug": "morning-headlines-12126",
-      "publishedAt": "2026-01-21T02:19:47+00:00",
-      "date": "2026-01-21 02:19:47",
-      "importance": 4,
-      "category": "startupy",
-      "urlToImage": null,
-      "url": "/tech-news/2026-01-21/morning-headlines-12126/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Histalk2.com"
-      },
-      "companies": [
-        "4DMedical"
-      ],
-      "people": []
-    },
-    {
-      "title": "Generální ředitel Anthropic kritizoval na Davosu Nvidia a export čipů do Číny",
-      "description": "Dario Amodei z Anthropic ostře kritizoval americkou administrativu i čipové firmy jako Nvidia za povolení prodeje výkonných čipů do Číny. Kritika je významná, protože Nvidia je hlavním partnerem a investorem Anthropic, který dodává GPU pro jejich AI modely.",
-      "slug": "anthropics-ceo-stuns-davos-with-nvidia-criticism-t",
-      "publishedAt": "2026-01-21T01:42:42+00:00",
-      "date": "2026-01-21 01:42:42",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2153561878.jpg?w=1024",
-      "url": "/tech-news/2026-01-21/anthropics-ceo-stuns-davos-with-nvidia-criticism-t/",
-      "source": {
-        "emoji": "🚀",
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "companies": [
-        "Anthropic",
-        "Nvidia"
-      ],
-      "people": [
-        "Dario Amodei"
-      ]
-    },
-    {
-      "title": "OpenAI bude odhadovat věk uživatelů před zobrazením pikantního obsahu v ChatGPT",
-      "description": "OpenAI nasazuje model pro predikci věku, aby určil, zda jsou uživatelé ChatGPT dostatečně dospělí na citlivý nebo potenciálně škodlivý obsah. Tento krok reaguje na bezpečnostní tlaky a plány na monetizaci služby.",
-      "slug": "openai-will-try-to-guess-your-age-before-chatgpt-g",
-      "publishedAt": "2026-01-21T01:37:35+00:00",
-      "date": "2026-01-21 01:37:35",
-      "importance": 4,
-      "category": "ai bezpečnost",
-      "urlToImage": "https://regmedia.co.uk/2023/06/23/shutterstock_kids.jpg",
-      "url": "/tech-news/2026-01-21/openai-will-try-to-guess-your-age-before-chatgpt-g/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Startup Emergent získal významné financování; Sebi schválil IPO PhonePe",
-      "description": "AI startup Emergent z Indie získal 70 milionů dolarů od Khosla Ventures a SoftBank, čímž se jeho valuace ztrojnásobila na 300 milionů dolarů. Indická regulační autorita Sebi zároveň schválila úvodní veřejnou nabídku akcií fintechu PhonePe.",
-      "slug": "emergent-bags-major-funding-sebi-greenlights-phone",
-      "publishedAt": "2026-01-21T01:34:15+00:00",
-      "date": "2026-01-21 01:34:15",
-      "importance": 4,
-      "category": "startupy",
-      "urlToImage": "https://img.etimg.com/thumb/msid-126902859,width-1070,height-580,imgsize-1713776,overlay-ettech/editionshow.jpg",
-      "url": "/tech-news/2026-01-21/emergent-bags-major-funding-sebi-greenlights-phone/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Emergent",
-        "PhonePe"
-      ],
-      "people": []
-    },
-    {
-      "title": "ServiceNow spolupracuje s OpenAI na vývoji a nasazení podnikových AI agentů",
-      "description": "Společnost ServiceNow uzavřela tříletou dohodu s OpenAI na integraci nejpokročilejších AI modelů do svých platforem. Dohoda zahrnuje závazek k příjmům a zaměřuje se na agentic AI pro bezpečné a škálovatelné workflowy v podnicích.",
-      "slug": "servicenow-partners-with-openai-to-develop-and-dep",
-      "publishedAt": "2026-01-21T01:29:03+00:00",
-      "date": "2026-01-21 01:29:03",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/SN-office-1.jpeg",
-      "url": "/tech-news/2026-01-21/servicenow-partners-with-openai-to-develop-and-dep/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "ServiceNow",
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "AGI potřebuje modely světa a stav modelů světa",
-      "description": "Demis Hassabis, generální ředitel Google DeepMind, uvedl, že cesta ChatGPT vyžaduje modely světa. Firmy jako OpenAI, Google, XAI a Anthropic spoléhají na velké jazykové modely (LLM), zatímco systémy jako Google Genie 3 generují interaktivní 3D prostředí z textu.",
-      "slug": "agi-needs-world-models-and-state-of-world-models",
-      "publishedAt": "2026-01-21T01:10:22+00:00",
-      "date": "2026-01-21 01:10:22",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/01/worldmodel-1.jpg",
-      "url": "/tech-news/2026-01-21/agi-needs-world-models-and-state-of-world-models/",
-      "source": {
-        "emoji": "📰",
-        "id": "next-big-future",
-        "name": "Next Big Future"
-      },
-      "companies": [
-        "Google",
-        "OpenAI",
-        "XAI",
-        "Anthropic"
-      ],
-      "people": [
-        "Demis Hassabis"
-      ]
-    },
-    {
-      "title": "Produkce Teslových Cybercab a Optimus začne 'bolestivě pomalu', později se zrychlí, říká Musk",
-      "description": "Generální ředitel Tesly Elon Musk oznámil, že počáteční výroba robotaxi Cybercab a humanoidního robota Optimus bude velmi pomalá kvůli složitosti nových komponent, ale časem se výrazně zrychlí. Tato technologie tvoří klíčovou část hodnoty společnosti ve výši 1,39 bilionu dolarů, přestože hlavní příjmy stále pocházejí z prodeje elektromobilů.",
-      "slug": "teslas-cybercab-optimus-output-to-start-agonizingl",
-      "publishedAt": "2026-01-21T00:26:23+00:00",
-      "date": "2026-01-21 00:26:23",
-      "importance": 4,
-      "category": "robotika",
-      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--ytaPAdWQ--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-01-21T002623Z_1_LYNXMPEM0K00R_RTROPTP_3_TESLA-PRODUCTION.JPG?itok=BTk3UB5H",
-      "url": "/tech-news/2026-01-21/teslas-cybercab-optimus-output-to-start-agonizingl/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNA"
-      },
-      "companies": [
-        "Tesla"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "OpenAI spouští „OpenAI for Education: Countries“ pro podporu národních iniciativ v AI vzdělávání",
-      "description": "OpenAI zahajuje program „OpenAI for Education: Countries“, který pomáhá zemím integrovat umělou inteligenci do vzdělávání, rozvoje pracovní síly a budování gramotnosti v AI. Jedná se o dlouhodobou investici zaměřenou na národní úroveň.",
-      "slug": "openai-launches-openai-for-education-countries-to-",
-      "publishedAt": "2026-01-21T00:00:00+00:00",
-      "date": "2026-01-21 00:00:00",
-      "importance": 4,
-      "category": "ai vzdělávání",
-      "urlToImage": "https://www.c-sharpcorner.com/images/csharp-corner-new.png",
-      "url": "/tech-news/2026-01-21/openai-launches-openai-for-education-countries-to/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "C-sharpcorner.com"
-      },
-      "companies": [
-        "OpenAI"
-      ],
       "people": []
     }
   ]
