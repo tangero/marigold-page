@@ -1,7 +1,45 @@
 {
-  "generated": "2026-01-29T09:06:03.671830+00:00",
-  "count": 122,
+  "generated": "2026-01-29T13:00:55.897437+00:00",
+  "count": 124,
   "articles": [
+    {
+      "title": "Řízení nově vznikajících nákladů agentického obchodu s inspirací z strategie drop shippingu",
+      "description": "Přečtěte si tento článek, abyste pochopili kroky k vytvoření strategie pro integraci agentického obchodu do vašich obchodních operací. Zaměřuje se na rostoucí poplatky v answer enginech jako ChatGPT a možnosti minimalizace nákladů.",
+      "slug": "manage-the-emerging-costs-of-agentic-commerce-by-t",
+      "publishedAt": "2026-01-28T12:34:24+00:00",
+      "date": "2026-01-28 12:34:24",
+      "importance": 4,
+      "category": "agentický obchod",
+      "urlToImage": "https://go.forrester.com/wp-content/uploads/2026/01/drop-ship-agentic-comm-blog.jpg",
+      "url": "/tech-news/2026-01-28/manage-the-emerging-costs-of-agentic-commerce-by-t/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Forrester.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Muž s Muskův mozkový čip v britské zkoušce říká, že to 'působí kouzelně'",
+      "description": "Jeden z prvních lidí v Británii, kteří dostali mozkový čip Neuralink od Elona Muska, popisuje zážitek jako kouzelný a věří, že technologie změní životy lidí s těžkou paralýzou.",
+      "slug": "man-given-musks-brain-chip-in-uk-trial-says-it-fee",
+      "publishedAt": "2026-01-28T12:31:00+00:00",
+      "date": "2026-01-28 12:31:00",
+      "importance": 4,
+      "category": "kybernetika",
+      "urlToImage": "https://e3.365dm.com/26/01/1600x900/skynews-neuralink-clark_7148477.jpg?20260128131025",
+      "url": "/tech-news/2026-01-28/man-given-musks-brain-chip-in-uk-trial-says-it-fee/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Sky.com"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk"
+      ]
+    },
     {
       "title": "Čínští výrobci humanoidních robotů míří na trhy Blízkého východu a USA",
       "description": "Čínské firmy s humanoidními roboty expandují globálně a vyvíjejí tlak na Optimus Elona Muska před zahájením masové výroby. Startup LimX Dynamics jedná s americkými partnery a získává první zahraniční investory z Blízkého východu.",
