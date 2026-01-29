@@ -1,7 +1,130 @@
 {
-  "generated": "2026-01-29T05:33:14.423309+00:00",
-  "count": 116,
+  "generated": "2026-01-29T09:06:03.671830+00:00",
+  "count": 122,
   "articles": [
+    {
+      "title": "Čínští výrobci humanoidních robotů míří na trhy Blízkého východu a USA",
+      "description": "Čínské firmy s humanoidními roboty expandují globálně a vyvíjejí tlak na Optimus Elona Muska před zahájením masové výroby. Startup LimX Dynamics jedná s americkými partnery a získává první zahraniční investory z Blízkého východu.",
+      "slug": "cnbcs-the-china-connection-newsletter-china-made-h",
+      "publishedAt": "2026-01-28T07:49:37+00:00",
+      "date": "2026-01-28 07:49:37",
+      "importance": 5,
+      "category": "robotika",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108256777-1769386060864-Full-Size_Humanoid_Oli_Autonomously_Picking_Up_Tennis_Ball_from_the_Floor_in_Asian_Squat_-_Side_View.jpg?v=1769390131&w=1920&h=1080",
+      "url": "/tech-news/2026-01-28/cnbcs-the-china-connection-newsletter-china-made-h/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Yotta mění strategii IPO, upřednostní indickou burzu, nechává si otevřenou možnost Nasdaqu",
+      "description": "Indická firma Yotta Data Services, specializující se na datová centra a infrastrukturu pro umělou inteligenci s kampusy v Navi Mumbai, Noida a GIFT City, změnila plán kótování. Místo původního listing na Nasdaqu prostřednictvím fúze se SPAC plánuje nejdříve IPO v Indii, přičemž si rezervuje možnost amerického trhu.",
+      "slug": "yotta-flips-ipo-strategy-to-pursue-india-ipo-first",
+      "publishedAt": "2026-01-28T07:33:42+00:00",
+      "date": "2026-01-28 07:33:42",
+      "importance": 4,
+      "category": "datová centra",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2026/01/28/1600x900/logo/Sunil-Gupta--co-founder--managing-director--and-ch_1692896988023_1769577954092.jpg",
+      "url": "/tech-news/2026-01-28/yotta-flips-ipo-strategy-to-pursue-india-ipo-first/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Livemint"
+      },
+      "companies": [
+        "Yotta"
+      ],
+      "people": []
+    },
+    {
+      "title": "Taiwan sází na dronové roje, klíčovou roli hraje Anduril Lattice AI command",
+      "description": "Taiwan spustil iniciativu k posílení protivzdušné obrany prostřednictvím integrace amerických a domácích raket a radarů do síťového řetězce zabíjení nazvaného Taiwan Shield neboli Taiwan Dome. Důležitou součástí je nasazení dronových rojů řízených AI systémem Lattice od firmy Anduril.",
+      "slug": "taiwan-bets-on-drone-swarms-with-anduril-lattice-a",
+      "publishedAt": "2026-01-28T07:24:35+00:00",
+      "date": "2026-01-28 07:24:35",
+      "importance": 4,
+      "category": "dronové roje",
+      "urlToImage": "https://img.digitimes.com/newsshow/20260128pd211_files/1_b.jpg",
+      "url": "/tech-news/2026-01-28/taiwan-bets-on-drone-swarms-with-anduril-lattice-a/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [
+        "Anduril"
+      ],
+      "people": []
+    },
+    {
+      "title": "Cassava Technologies a AXON Networks oznámily strategické partnerství pro podporu adopce AI a inovací u afrických firem",
+      "description": "Cassava Technologies, globální technologická společnost afrického původu, a AXON Networks, specialist na inteligentní síťové platformy, spustily spolupráci na vývoji a nasazení první end-to-end platformy Operator-as-a-Service (OaaS) v Africe. Tato AI-ready platforma využije vysokorychlostní fiberovou síť Cassavy k připojení milionů uživatelů a firem.",
+      "slug": "cassava-technologies-and-axon-networks-announce-st",
+      "publishedAt": "2026-01-28T07:00:00+00:00",
+      "date": "2026-01-28 07:00:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://mma.prnewswire.com/media/2871172/Axon_Networks_Cassava_Technologies.jpg?p=facebook",
+      "url": "/tech-news/2026-01-28/cassava-technologies-and-axon-networks-announce-st/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "PR Newswire UK"
+      },
+      "companies": [
+        "Cassava Technologies",
+        "AXON Networks"
+      ],
+      "people": []
+    },
+    {
+      "title": "Powertech investuje 43,3 miliardy NT$ do urychlení FOPLP, cílí na hromadnou výrobu v 1. pololetí 2027",
+      "description": "Tchajwanská firma Powertech, specializující se na balení a testování polovodičů, oznámila investici 43,3 miliardy nových tchajwanských dolarů do technologie fan-out panel-level packaging (FOPLP). Cílem je reagovat na poptávku z oblasti AI a výpočetních systémů vysokého výkonu (HPC) s plánovanou hromadnou výrobou v první polovině roku 2027.",
+      "slug": "powertech-will-invest-nt433-billion-to-accelerate-",
+      "publishedAt": "2026-01-28T06:55:54+00:00",
+      "date": "2026-01-28 06:55:54",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://img.digitimes.com/newsshow/20260128pd215_files/2_b.jpg",
+      "url": "/tech-news/2026-01-28/powertech-will-invest-nt433-billion-to-accelerate/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [
+        "Powertech"
+      ],
+      "people": [
+        "DK Tsai"
+      ]
+    },
+    {
+      "title": "Davos Spotlight | EVYD, Ministerstvo zdravotnictví Bruneje Darussalam a Novartis Foundation spouštějí národní iniciativu na prevenci kardiovaskulárních onemocnění s umělou inteligencí",
+      "description": "Na Světovém ekonomickém fóru v Davosu oznámili Novartis Foundation, Ministerstvo zdravotnictví Bruneje a firma EVYD spuštění národní iniciativy CARDIO4Cities. Program využívá umělou inteligenci a data z národní zdravotnické platformy k identifikaci rizikových jedinců a cíleným intervencím proti kardiovaskulárním onemocněním.",
+      "slug": "davos-spotlight-evyd-ministry-of-health-brunei-dar",
+      "publishedAt": "2026-01-28T06:18:41+00:00",
+      "date": "2026-01-28 06:18:41",
+      "importance": 4,
+      "category": "zdravotní ai",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/6rc238/article70559747.ece/alternates/LANDSCAPE_1200/Screenshot%202026-01-28%20114036.png",
+      "url": "/tech-news/2026-01-28/davos-spotlight-evyd-ministry-of-health-brunei-dar/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "companies": [
+        "EVYD"
+      ],
+      "people": []
+    },
     {
       "title": "PitchBook předpovídá opatrné zlepšení pro IPO podporované rizikovým kapitálem v roce 2026",
       "description": "Nová zpráva od PitchBook Data Inc. nabízí opatrně optimistický výhled na počáteční veřejné nabídky (IPO) podporované americkým rizikovým kapitálem v roce 2026. Ačkoli se okno pro IPO otevřelo, stále není plně funkční, což brání úplnému oživení trhu.",
