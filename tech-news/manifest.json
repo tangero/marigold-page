@@ -1,7 +1,67 @@
 {
-  "generated": "2026-01-29T17:04:04.317541+00:00",
-  "count": 127,
+  "generated": "2026-01-29T21:22:52.833473+00:00",
+  "count": 130,
   "articles": [
+    {
+      "title": "Americká společnost Waymo plánuje spustit robotaxi v Londýně do čtvrtého čtvrtletí 2026",
+      "description": "Americká firma Waymo, součást Alphabetu, oznámila záměr spustit plně autonomní službu sdílených jízd v Londýně do konce roku 2026. Společnost se v USA rozvíjela postupně navzdory přísným regulacím a vysokým nákladům na technologii.",
+      "slug": "us-robotaxi-group-waymo-aims-to-launch-in-london-b",
+      "publishedAt": "2026-01-28T20:12:56+00:00",
+      "date": "2026-01-28 20:12:56",
+      "importance": 4,
+      "category": "robotaxi",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--PDZxhPVn--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-01-28T201256Z_2_LYNXMPEM0R1CD_RTROPTP_3_BRITAIN-WAYMO.JPG?itok=dmjKnWHd",
+      "url": "/tech-news/2026-01-28/us-robotaxi-group-waymo-aims-to-launch-in-london-b/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNA"
+      },
+      "companies": [
+        "Waymo",
+        "Alphabet",
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Skotsko získává posílení AI růstové zóny v Lanarkshire",
+      "description": "CoreWeave staví 500MW AI cloud, který poskytne regionu 800 vysoce placených pracovních míst v umělé inteligenci. Britská vláda odhalila AI růstovou zónu v Lanarkshire, která má přinést přes 3400 pracovních míst a miliardy liber investic.",
+      "slug": "scotland-gets-ai-growth-zone-boost-in-lanarkshire",
+      "publishedAt": "2026-01-28T19:01:00+00:00",
+      "date": "2026-01-28 19:01:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.computerweekly.com/visuals/German/article/cloud-computing-adobe.jpg",
+      "url": "/tech-news/2026-01-28/scotland-gets-ai-growth-zone-boost-in-lanarkshire/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "ComputerWeekly.com"
+      },
+      "companies": [
+        "CoreWeave"
+      ],
+      "people": []
+    },
+    {
+      "title": "Všichni využívají WinRAR phishing: RATy se šíří rychlostí blesku",
+      "description": "Od ruských a čínských státních agentů po obyčejné finančně motivované zločince všichni zneužívají dlouho opravenou zranitelnost WinRAR k šíření infostealerů a trojských koní pro vzdálený přístup (RAT). Chyba CVE-2025-8088 umožňuje skryté umístění škodlivého kódu na systém pomocí alternativních datových proudů (ADS) ve Windows.",
+      "slug": "everybody-is-winrar-phishing-dropping-rats-as-fast",
+      "publishedAt": "2026-01-28T18:59:38+00:00",
+      "date": "2026-01-28 18:59:38",
+      "importance": 5,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://regmedia.co.uk/2016/04/20/root_rat.jpg",
+      "url": "/tech-news/2026-01-28/everybody-is-winrar-phishing-dropping-rats-as-fast/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Diskusní panely: Proč AI společnosti vsazují na jadernou energii nové generace",
       "description": "Umělá inteligence pohání bezprecedentní investice do masivních datových center a zdrojů energie pro jejich obrovskou výpočetní potřebu. Jaderné elektrárny nové generace představují potenciální řešení, které by mohlo být levnější na výstavbu a bezpečnější v provozu.",
