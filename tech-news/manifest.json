@@ -1,7 +1,67 @@
 {
-  "generated": "2026-01-29T13:00:55.897437+00:00",
-  "count": 124,
+  "generated": "2026-01-29T17:04:04.317541+00:00",
+  "count": 127,
   "articles": [
+    {
+      "title": "Diskusní panely: Proč AI společnosti vsazují na jadernou energii nové generace",
+      "description": "Umělá inteligence pohání bezprecedentní investice do masivních datových center a zdrojů energie pro jejich obrovskou výpočetní potřebu. Jaderné elektrárny nové generace představují potenciální řešení, které by mohlo být levnější na výstavbu a bezpečnější v provozu.",
+      "slug": "roundtables-why-ai-companies-are-betting-on-next-g",
+      "publishedAt": "2026-01-28T16:23:00+00:00",
+      "date": "2026-01-28 16:23:00",
+      "importance": 4,
+      "category": "jaderná energie",
+      "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2026/01/MITTR-Roundtables-Zoom-Opening-Overlay.png?resize=1200,600",
+      "url": "/tech-news/2026-01-28/roundtables-why-ai-companies-are-betting-on-next-g/",
+      "source": {
+        "emoji": "🎓",
+        "id": null,
+        "name": "MIT Technology Review"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Nová umělá inteligence od DeepMind dokáže číst milion písmen DNA najednou – a skutečně je chápat",
+      "description": "AlphaGenome je údajně nejobsažnější a nejpřesnější model pro analýzu DNA sekvencí vyvinutý dosud.",
+      "slug": "deepminds-new-ai-can-read-a-million-dna-letters-at",
+      "publishedAt": "2026-01-28T16:00:02+00:00",
+      "date": "2026-01-28 16:00:02",
+      "importance": 4,
+      "category": "genomika",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/01/shutterstock_228658501-1200x675.jpg",
+      "url": "/tech-news/2026-01-28/deepminds-new-ai-can-read-a-million-dna-letters-at/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "companies": [
+        "DeepMind"
+      ],
+      "people": []
+    },
+    {
+      "title": "SpaceX zvažuje IPO v hodnotě 1,5 bilionu dolarů synchronizované s narozeninami Muska",
+      "description": "Společnost SpaceX zvažuje úvodní veřejnou nabídku akcií (IPO), která by ji ohodnotila na přibližně 1,5 bilionu dolarů a získala by 50 miliard dolarů. Plánovaný termín v polovině června 2026 by připadal blízko 55. narozenin Elona Muska a astronomické události setkání Jupiteru a Venuše.",
+      "slug": "spacex-weighs-a-15t-ipo-synced-up-with-musks-birth",
+      "publishedAt": "2026-01-28T15:31:00+00:00",
+      "date": "2026-01-28 15:31:00",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://img2-azrcdn.newser.com/image/1661279-12-20260128093101.jpeg",
+      "url": "/tech-news/2026-01-28/spacex-weighs-a-15t-ipo-synced-up-with-musks-birth/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Newser"
+      },
+      "companies": [
+        "SpaceX"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
     {
       "title": "Řízení nově vznikajících nákladů agentického obchodu s inspirací z strategie drop shippingu",
       "description": "Přečtěte si tento článek, abyste pochopili kroky k vytvoření strategie pro integraci agentického obchodu do vašich obchodních operací. Zaměřuje se na rostoucí poplatky v answer enginech jako ChatGPT a možnosti minimalizace nákladů.",
