@@ -1,7 +1,45 @@
 {
-  "generated": "2026-01-28T20:54:04.429989+00:00",
-  "count": 141,
+  "generated": "2026-01-29T01:33:43.139581+00:00",
+  "count": 143,
   "articles": [
+    {
+      "title": "Google urychluje dohody v AI pro posílení Gemini v médiích a hlasu",
+      "description": "Google urychlil řadu akvizic, najímání talentů a strategických investic zaměřených na posílení umělé inteligence Gemini v generování médií, hlasové interakci a mezinárodních trzích. Tato strategie reaguje na rostoucí konkurenci v základních modelech a multimodální AI.",
+      "slug": "google-accelerates-ai-deals-to-strengthen-gemini-i",
+      "publishedAt": "2026-01-28T00:51:54+00:00",
+      "date": "2026-01-28 00:51:54",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/01/Google-AI-investments.jpeg",
+      "url": "/tech-news/2026-01-28/google-accelerates-ai-deals-to-strengthen-gemini-i/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "AI chatboti pronikají do sociálněvědních průzkumů – a zlepšují se v obcházení detekce",
+      "description": "Výzkumník vytvořil chatbota nerozeznatelného od lidských účastníků online průzkumů. Někteří badatelé varují, že tento klíčový nástroj sociálních věd je nyní ohrožen.",
+      "slug": "ai-chatbots-are-infiltrating-social-science-survey",
+      "publishedAt": "2026-01-28T00:00:00+00:00",
+      "date": "2026-01-28 00:00:00",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-00221-8/d41586-026-00221-8_51970340.jpg",
+      "url": "/tech-news/2026-01-28/ai-chatbots-are-infiltrating-social-science-survey/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Nature.com"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Wall Street je nervózní před výkazy Tesly za 4. čtvrtletí kvůli poklesu dodávek a rostoucí nejistotě v AI",
       "description": "Analytici se obávají poklesu dodávek vozidel Tesly a výzev, kterým firma čelí v umělé inteligenci a robotice.",
