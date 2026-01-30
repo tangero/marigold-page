@@ -1,7 +1,151 @@
 {
-  "generated": "2026-01-30T12:58:25.165344+00:00",
-  "count": 113,
+  "generated": "2026-01-30T17:01:04.251405+00:00",
+  "count": 120,
   "articles": [
+    {
+      "title": "EU se postavila proti Muskově AI, která 'svléká' ženy. Dokáže ochránit své občany?",
+      "description": "Evropská unie prověřuje AI Grok od Elona Muska poté, co jeho funkce pro deepfakes vygenerovala miliony sexualizovaných obrázků žen a dětí. Brusel tak testuje své nejtvrdší technologické předpisy na jednom z největších případů.",
+      "slug": "the-eu-takes-on-musks-ai-that-undresses-women-can-",
+      "publishedAt": "2026-01-29T16:22:00+00:00",
+      "date": "2026-01-29 16:22:00",
+      "importance": 5,
+      "category": "deepfakes",
+      "urlToImage": "https://static.dw.com/image/75713143_6.jpg",
+      "url": "/tech-news/2026-01-29/the-eu-takes-on-musks-ai-that-undresses-women-can/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "DW (English)"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Může EU postavit Muskovi AI funkci 'svlékání'?",
+      "description": "EU prověřuje Grok AI Elona Muska poté, co jeho deepfake funkce vygenerovala miliony sexualizovaných obrázků žen a dětí. Brusel tak testuje své nejtvrdší technologické zákony na jednom z největších případů.",
+      "slug": "can-the-eu-take-on-musk-over-ai-undressing-feature",
+      "publishedAt": "2026-01-29T16:22:00+00:00",
+      "date": "2026-01-29 16:22:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://static.dw.com/image/75713143_6.jpg",
+      "url": "/tech-news/2026-01-29/can-the-eu-take-on-musk-over-ai-undressing-feature/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "DW (English)"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Exploze raket SpaceX způsobují vážné bezpečnostní problémy leteckým společnostem",
+      "description": "Exploze raket Starship od SpaceX ohrožují komerční lety, kdy letadla musí nouzově měnit kurzy kvůli troskám. Problém se opakuje a zatěžuje Federální úřad pro letectví (FAA), který musí vyvažovat podporu vesmírného průmyslu s bezpečností vzdušného prostoru.",
+      "slug": "spacex-rocket-explosions-are-causing-major-safety-",
+      "publishedAt": "2026-01-29T16:17:00+00:00",
+      "date": "2026-01-29 16:17:00",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://www.bgr.com/img/gallery/spacex-rocket-explosions-are-causing-major-safety-issues-for-airlines/l-intro-1769129120.jpg",
+      "url": "/tech-news/2026-01-29/spacex-rocket-explosions-are-causing-major-safety/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BGR"
+      },
+      "companies": [
+        "SpaceX"
+      ],
+      "people": []
+    },
+    {
+      "title": "Kampaň Nvidie za prodej AI čipů do Číny se konečně vyplatila",
+      "description": "Peking schválil prodej stovek tisíc čipů Nvidia H200 čínským AI firmám jako ByteDance, Alibaba a Tencent – vrchol dramatické změny v americké technologické politice.",
+      "slug": "nvidias-campaign-to-sell-ai-chips-to-china-finally",
+      "publishedAt": "2026-01-29T16:10:53+00:00",
+      "date": "2026-01-29 16:10:53",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://media.wired.com/photos/697a9c48f20d0ff71a085282/191:100/w_1280,c_limit/Made-In-China-Access-to-US-Chips-2245031811.jpg",
+      "url": "/tech-news/2026-01-29/nvidias-campaign-to-sell-ai-chips-to-china-finally/",
+      "source": {
+        "emoji": "🔧",
+        "id": "wired",
+        "name": "Wired"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Tržiště GPU clusterů PaleBlueDot AI získalo 150 milionů dolarů při valuaci 1 miliardy",
+      "description": "PaleBlueDot AI, cloudová platforma se sídlem v Silicon Valley nabízející škálovatelné jednotné GPU clustery po celém světě pro úlohy AI inference a dlouhodobé výpočty, získala 150 milionů dolarů v Series B kole financování vedeném B Capital při valuaci přes 1 miliardu dolarů.",
+      "slug": "gpu-cluster-marketplace-palebluedot-ai-raises-150m",
+      "publishedAt": "2026-01-29T16:05:11+00:00",
+      "date": "2026-01-29 16:05:11",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/earth-11014_1280.jpg",
+      "url": "/tech-news/2026-01-29/gpu-cluster-marketplace-palebluedot-ai-raises-150m/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "PaleBlueDot AI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Možnosti růstu na trhu opakovaně použitelných raket v hodnotě 3,83 miliardy dolarů, 2026–2030 & 2035 – dominují SpaceX, Blue Origin a ArianeGroup",
+      "description": "Globální trh s opakovaně použitelnými rakety roste z 3,3 miliardy USD v roce 2025 na 6,94 miliardy USD do roku 2030 s ročním složeným tempo růstu 16 %. Růst pohání technologie vertikálního vzletu a přistání, poptávka po komerčních satelitech a vládní investice do vesmírných programů.",
+      "slug": "growth-opportunities-in-the-383-billion-reusable-r",
+      "publishedAt": "2026-01-29T15:39:00+00:00",
+      "date": "2026-01-29 15:39:00",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "url": "/tech-news/2026-01-29/growth-opportunities-in-the-383-billion-reusable-r/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [
+        "SpaceX",
+        "Blue Origin",
+        "ArianeGroup"
+      ],
+      "people": []
+    },
+    {
+      "title": "Roční zisky Tesly klesly o 46 procent, Elon Musk ztratil titul globálního lídra v prodejích elektromobilů",
+      "description": "Tesla oznámila v aktualizaci výsledků pokles zisku o 46 procent oproti loňsku, což signalizuje obtížné období pro výrobce elektromobilů, který ztratil pozici největšího prodejce na světě. Společnost se zaměřuje na přechod k robotice a autonomním technologiím.",
+      "slug": "teslas-annual-profits-drop-46-as-elon-musk-loses-g",
+      "publishedAt": "2026-01-29T15:33:29+00:00",
+      "date": "2026-01-29 15:33:29",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://media.breitbart.com/media/2026/01/Elon-Musk-lost-in-thought-about-Tesla-earnings-640x335.jpg",
+      "url": "/tech-news/2026-01-29/teslas-annual-profits-drop-46-as-elon-musk-loses-g/",
+      "source": {
+        "emoji": "📰",
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "companies": [
+        "Tesla"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
     {
       "title": "60 způsobů, jak hacknout svůj chatbot",
       "description": "Představení průvodce HRExaminer po bezpečnosti AI pro HRTech a WorkTech, který varuje před rostoucími zranitelnostmi chatbotů v době AI boomu.",
