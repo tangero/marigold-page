@@ -1,7 +1,191 @@
 {
-  "generated": "2026-01-29T21:22:52.833473+00:00",
-  "count": 130,
+  "generated": "2026-01-30T01:30:40.312886+00:00",
+  "count": 139,
   "articles": [
+    {
+      "title": "Tesla překonala odhady zisků, Musk převádí firmu z aut na roboty",
+      "description": "Akcie Tesly mírně rostly v obchodování po uzavření trhu poté, co firma překonala očekávání ve čtvrtletních výsledcích. Generální ředitel Elon Musk oznámil zásadní změny, které posunou identitu Tesly směrem k robotice a umělé inteligenci.",
+      "slug": "tesla-earnings-top-estimates-as-musk-pivots-compan",
+      "publishedAt": "2026-01-29T00:49:28+00:00",
+      "date": "2026-01-29 00:49:28",
+      "importance": 5,
+      "category": "robotika",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/teslaoptimus3.png",
+      "url": "/tech-news/2026-01-29/tesla-earnings-top-estimates-as-musk-pivots-compan/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Tesla"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Yotta zvažuje listink v Indii, aby využila vlnu AI technologií",
+      "description": "Yotta Data Services plánuje listink na indické burze v letech 2026-27 a hledá investory pro pre-IPO kolo. Generální ředitel Sunil Gupta uvedl, že společnost jedná s vysokopříjmovými jednotlivci, rodinnými úřady a fondy, přičemž očekává získání více než 4000 crore rupií.",
+      "slug": "yotta-eyeing-india-listing-to-ride-the-ai-tech-wav",
+      "publishedAt": "2026-01-29T00:31:00+00:00",
+      "date": "2026-01-29 00:31:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-9922,resizemode-75,msid-127718850/tech/startups/yotta-data-services-eyes-2027-listing-says-ceo.jpg",
+      "url": "/tech-news/2026-01-29/yotta-eyeing-india-listing-to-ride-the-ai-tech-wav/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Yotta"
+      ],
+      "people": [
+        "Sunil Gupta"
+      ]
+    },
+    {
+      "title": "Zisky Tesly klesly loni o 46 procenta, ztratila postavení největšího prodejce elektromobilů",
+      "description": "Společnost oznámila ukončení výroby dražších modelů Model S a Model X a přenáší tyto výrobní kapacity na výrobu humanoidních robotů Optimus.",
+      "slug": "tesla-profits-slumped-46-last-year-as-it-lost-its-",
+      "publishedAt": "2026-01-29T00:01:39+00:00",
+      "date": "2026-01-29 00:01:39",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5616x3159+0+293/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F07%2F73%2F4bfced234220bae0205c4bd172fc%2Fap23207689478887.jpg",
+      "url": "/tech-news/2026-01-29/tesla-profits-slumped-46-last-year-as-it-lost-its/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "NPR"
+      },
+      "companies": [
+        "Tesla"
+      ],
+      "people": []
+    },
+    {
+      "title": "Více než 3 400 pracovních míst a cílená podpora místních komunit k řešení nákladů na životní minimum: Lanarkshire jmenována nejnovější AI Growth Zone",
+      "description": "Skotsko otevře novou AI Growth Zone v Lanarkshire, která podpoří přes 3 400 pracovních míst a přispěje k ekonomickému růstu v rámci Moderní průmyslové strategie Velké Británie.",
+      "slug": "more-than-3400-jobs-and-targeted-support-for-local",
+      "publishedAt": "2026-01-29T00:01:11+00:00",
+      "date": "2026-01-29 00:01:11",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      "url": "/tech-news/2026-01-29/more-than-3400-jobs-and-targeted-support-for-local/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Www.gov.uk"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Decagon AI získává 250 milionů dolarů při valuaci 4,5 miliardy na rozšíření platformy AI concierge",
+      "description": "Společnost Decagon AI Inc., která vyvíjí umělou inteligenci jako concierge pro zákaznickou podporu firem, získala 250 milionů dolarů v novém financování při valuaci 4,5 miliardy dolarů. Peníze slouží k rozšíření konverzační AI platformy a urychlení růstu při nasazování technologie do dalších podniků.",
+      "slug": "decagon-ai-raises-250m-at-45b-valuation-to-scale-a",
+      "publishedAt": "2026-01-28T23:58:20+00:00",
+      "date": "2026-01-28 23:58:20",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/decagon.png",
+      "url": "/tech-news/2026-01-28/decagon-ai-raises-250m-at-45b-valuation-to-scale-a/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Decagon AI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Semco a LG Innotek vstupují do dodavatelského řetězce humanoidních robotů",
+      "description": "Jihokorejští výrobci elektronických komponent Semco a LG Innotek považují humanoidní roboty za klíčový růstový sektor v éře pokročilé umělé inteligence. Podle zdroje ChosunBiz se tyto firmy zaměřují na dodávky součástek pro rychle se rozvíjející robotický trh.",
+      "slug": "semco-and-lg-innotek-push-into-humanoid-robot-supp",
+      "publishedAt": "2026-01-28T23:48:12+00:00",
+      "date": "2026-01-28 23:48:12",
+      "importance": 4,
+      "category": "robotika",
+      "urlToImage": "https://img.digitimes.com/newsshow/20260128pd233_files/1_b.jpg",
+      "url": "/tech-news/2026-01-28/semco-and-lg-innotek-push-into-humanoid-robot-supp/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [
+        "Semco",
+        "LG Innotek"
+      ],
+      "people": []
+    },
+    {
+      "title": "Japonsko se připojuje k americké misi Genesis, spolupracuje s Nvidia a národními laboratořemi na pokroku v AI ve vědě",
+      "description": "Japonská vláda se stala prvním mezinárodním partnerem v iniciativě USA Genesis Mission, která urychluje vědecký výzkum prostřednictvím AI. Partnerství zahrnuje firmu Nvidia a americké národní laboratoře, zaměřené na aplikace AI v simulacích a analýze dat.",
+      "slug": "japan-joins-us-genesis-mission-partners-with-nvidi",
+      "publishedAt": "2026-01-28T23:47:10+00:00",
+      "date": "2026-01-28 23:47:10",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.digitimes.com/newsshow/20260128pd240_files/1_b.jpg",
+      "url": "/tech-news/2026-01-28/japan-joins-us-genesis-mission-partners-with-nvidi/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Zisk Samsungu ve čtvrtém čtvrtletí se ztrojnásobil, překonal odhady díky poptávce po AI čipech a nedostatku paměti",
+      "description": "Samsung Electronics hlásí více než ztrojnásobení zisku ve čtvrtém čtvrtletí, dosáhlo nového rekordu a překonalo odhady analytiků díky nedostatku paměťových čipů způsobenému poptávkou po serverech pro umělou inteligenci.",
+      "slug": "samsungs-fourth-quarter-profit-triples-beating-est",
+      "publishedAt": "2026-01-28T23:41:07+00:00",
+      "date": "2026-01-28 23:41:07",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108179470-1753922208638-gettyimages-1065011358-191112final.jpeg?v=1769641309&w=1920&h=1080",
+      "url": "/tech-news/2026-01-28/samsungs-fourth-quarter-profit-triples-beating-est/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "people": []
+    },
+    {
+      "title": "Waabi získává 750 milionů dolarů, Uber přislíbí až 250 milionů na partnerství v robotaxi",
+      "description": "Kanadská společnost Waabi Innovation Inc., specializující se na autonomní kamiony, oznámila získání 750 milionů dolarů nového financování a samostatnou budoucí investici až 250 milionů dolarů od Uber Technologies Inc. na podporu partnerství pro nasazení robotaxi na platformě Uber.",
+      "slug": "waabi-raises-750m-as-uber-separately-commits-up-to",
+      "publishedAt": "2026-01-28T23:22:57+00:00",
+      "date": "2026-01-28 23:22:57",
+      "importance": 4,
+      "category": "autonomní vozidla",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/waabi1.jpg",
+      "url": "/tech-news/2026-01-28/waabi-raises-750m-as-uber-separately-commits-up-to/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Waabi Innovation Inc",
+        "Uber Technologies Inc"
+      ],
+      "people": []
+    },
     {
       "title": "Americká společnost Waymo plánuje spustit robotaxi v Londýně do čtvrtého čtvrtletí 2026",
       "description": "Americká firma Waymo, součást Alphabetu, oznámila záměr spustit plně autonomní službu sdílených jízd v Londýně do konce roku 2026. Společnost se v USA rozvíjela postupně navzdory přísným regulacím a vysokým nákladům na technologii.",
