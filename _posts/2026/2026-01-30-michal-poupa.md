@@ -5,7 +5,7 @@ categories:
 - Michal Poupa
 layout: post
 post_excerpt: Štěstím mého života je, že kolem sebe mám ty nejlepší lidi, jaké bych si mohl přát. A málo jim to říkám, čehož pak zpětně lituju. Tak dneska o jednom z nich. O Michalu Poupovi. 
-title: "Vždycky jsem měl štěstí na báječné lidi. Tak dnes o Michalu Poupovi"
+title: Vždycky jsem měl štěstí na báječné lidi. Tak dnes o Michalu Poupovi
 ---
 
 Štěstím mého života je, že kolem sebe mám ty nejlepší lidi, jaké bych si mohl přát. A málo jim to říkám, čehož pak zpětně lituju. Tak dneska o jednom z nich. 
