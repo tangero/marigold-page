@@ -1,7 +1,71 @@
 {
-  "generated": "2026-01-30T01:30:40.312886+00:00",
-  "count": 139,
+  "generated": "2026-01-30T08:54:14.133674+00:00",
+  "count": 111,
   "articles": [
+    {
+      "title": "DPI a PODTECH uzavírají partnerství k urychlení globálního nasazení AI infrastruktury",
+      "description": "Společnosti Datalec Precision Installations (DPI) a PODTECH oznámily globální partnerství zaměřené na dodávku předpřipravené AI infrastruktury pro hyperscalery v Evropě, Asii a na Blízkém východě. Partnerství řeší aktuální nedostatek kapacity datových center způsobený rychle rostoucí poptávkou po AI výpočetních zdrojích.",
+      "slug": "dpi-and-podtech-partner-to-accelerate-ai-infrastru",
+      "publishedAt": "2026-01-29T08:05:00+00:00",
+      "date": "2026-01-29 08:05:00",
+      "importance": 4,
+      "category": "ai infrastruktura",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/76d51ea8-efa4-4a5c-b56b-b0ce945bdcd0",
+      "url": "/tech-news/2026-01-29/dpi-and-podtech-partner-to-accelerate-ai-infrastru/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [
+        "DPI",
+        "PODTECH"
+      ],
+      "people": []
+    },
+    {
+      "title": "Tesla znovu potvrzuje zahájení výroby Cybercab letos",
+      "description": "Tesla oznámila investici 2 miliard dolarů do společnosti xAI Elona Muska na vývoj umělé inteligence a potvrdila, že plány na výrobu robotaxi Cybercab probíhají podle harmonogramu pro tento rok.",
+      "slug": "tesla-reiterates-cybercab-production-starts-this-y",
+      "publishedAt": "2026-01-29T07:19:42+00:00",
+      "date": "2026-01-29 07:19:42",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://www.rte.ie/images/0022b315-1600.jpg",
+      "url": "/tech-news/2026-01-29/tesla-reiterates-cybercab-production-starts-this-y/",
+      "source": {
+        "emoji": "📰",
+        "id": "rte",
+        "name": "RTE"
+      },
+      "companies": [
+        "Tesla",
+        "xAI"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Rok proměny: Tesla mění směr k robotaxi a domácí výrobě čipů",
+      "description": "Tesla vstupuje do roku, který manažeři označují za klíčový bod obratu. Společnost posouvá vpřed nasazení robotaxi a technologii Full Self-Driving (FSD), přičemž řeší potenciální úzká hrdla v globálních dodávkách polovodičů.",
+      "slug": "a-year-of-transformation-tesla-pivots-to-robotaxis",
+      "publishedAt": "2026-01-29T07:10:59+00:00",
+      "date": "2026-01-29 07:10:59",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://img.digitimes.com/newsshow/20260129vl213_files/2_b.jpg",
+      "url": "/tech-news/2026-01-29/a-year-of-transformation-tesla-pivots-to-robotaxis/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [
+        "Tesla"
+      ],
+      "people": []
+    },
     {
       "title": "Tesla překonala odhady zisků, Musk převádí firmu z aut na roboty",
       "description": "Akcie Tesly mírně rostly v obchodování po uzavření trhu poté, co firma překonala očekávání ve čtvrtletních výsledcích. Generální ředitel Elon Musk oznámil zásadní změny, které posunou identitu Tesly směrem k robotice a umělé inteligenci.",
@@ -2200,646 +2264,6 @@
         "name": "pymnts.com"
       },
       "companies": [],
-      "people": []
-    },
-    {
-      "title": "Databricks získal 1,8 miliardy dolarů v dluhovém financování",
-      "description": "Společnost Databricks získala 1,8 miliardy dolarů v dluhovém financování od institucionálních investorů ve dvou tranších. Tato injekce posiluje bilance po nedávném kole Series L v hodnotě přes 4 miliardy dolarů a umožňuje další akvizice startupů.",
-      "slug": "databricks-reportedly-raises-18b-in-debt-financing",
-      "publishedAt": "2026-01-23T23:33:13+00:00",
-      "date": "2026-01-23 23:33:13",
-      "importance": 4,
-      "category": "startupy",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/databricks-dataai2025-hall.jpg",
-      "url": "/tech-news/2026-01-23/databricks-reportedly-raises-18b-in-debt-financing/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Databricks"
-      ],
-      "people": []
-    },
-    {
-      "title": "OpenAI chce podíl z výsledků výzkumu a vývoje zákazníků podporovaných AI",
-      "description": "OpenAI zvažuje nový obchodní model, při kterém by získávala procento z příjmů z inovací vytvořených zákazníky pomocí jejích AI systémů. Plán je vnitřně diskutován a přitahuje pozornost v klíčových oblastech jako technologie, farmacie a vědy o materiálech.",
-      "slug": "openai-to-take-a-percentage-from-customer-ai-assis",
-      "publishedAt": "2026-01-23T23:15:12+00:00",
-      "date": "2026-01-23 23:15:12",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": null,
-      "url": "/tech-news/2026-01-23/openai-to-take-a-percentage-from-customer-ai-assis/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Aibase.com"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Hassan Taher analyzuje bezpečnostní kompromise v Trumpově rozhodnutí o exportu čipů NVIDIA H200",
-      "description": "Hassan Taher, odborník na křižovatku umělé inteligence, etiky a politiky, hodnotí rozhodnutí Trumpovy administrativy povolit export čipů NVIDIA H200 do Číny. Toto opatření obrací restrikce z éry Bidena a zavádí 25procentní clo na čipy testované v amerických zařízeních, což má přinést příjmy a vrátit americkým firmám podíl na čínském trhu.",
-      "slug": "hassan-taher-analyzes-the-security-trade-offs-in-t",
-      "publishedAt": "2026-01-23T22:48:17+00:00",
-      "date": "2026-01-23 22:48:17",
-      "importance": 4,
-      "category": "ai politika",
-      "urlToImage": "https://bitrebels.com/wp-content/uploads/2026/01/nvidia-green-logo-graphics-card-optimized.jpg",
-      "url": "/tech-news/2026-01-23/hassan-taher-analyzes-the-security-trade-offs-in-t/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Bitrebels.com"
-      },
-      "companies": [
-        "NVIDIA"
-      ],
-      "people": [
-        "Hassan Taher",
-        "Trump"
-      ]
-    },
-    {
-      "title": "NASA oznámila tiskové konference pro misi SpaceX Crew-12 na Mezinárodní vesmírnou stanici",
-      "description": "NASA a její partneři projednají přípravy na rotaci posádky na Mezinárodní vesmírné stanici během dvou tiskových konferencí 30. ledna z Johnsonova vesmírného centra v Houstonu. Posádka Crew-12 zahrnuje astronauty z NASA, Evropské vesmírné agentury a Roscosmosu a odstartuje na raketě Falcon 9.",
-      "slug": "nasa-sets-briefings-for-spacex-crew-12-mission-to-",
-      "publishedAt": "2026-01-23T22:46:13+00:00",
-      "date": "2026-01-23 22:46:13",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://www.nasa.gov/wp-content/uploads/2026/01/nasas-spacex-crew-12-spacex-suits-1.png",
-      "url": "/tech-news/2026-01-23/nasa-sets-briefings-for-spacex-crew-12-mission-to/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "NASA"
-      },
-      "companies": [
-        "NASA",
-        "SpaceX"
-      ],
-      "people": []
-    },
-    {
-      "title": "Vyhrává Čína tiše závod v umělé inteligenci?",
-      "description": "Redaktorka BBC Lily Jamali zkoumá, proč se velké americké firmy i startupy obracejí k čínské technologii v oblasti AI.",
-      "slug": "is-china-quietly-winning-the-ai-race",
-      "publishedAt": "2026-01-23T22:31:33+00:00",
-      "date": "2026-01-23 22:31:33",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/82c7/live/8a085560-f77d-11f0-b7ec-55c1cb544783.jpg",
-      "url": "/tech-news/2026-01-23/is-china-quietly-winning-the-ai-race/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BBC News"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Databricks získal dalších 1,8 miliardy dolarů dluhu před plánovaným IPO",
-      "description": "Databricks, firma specializující se na datovou analytiku a AI, získala nových 1,8 miliardy dolarů dluhu a celkem má přístup k více než 7 miliardám dolarů. Společnost je připravena na vstup na burzu v roce 2026.",
-      "slug": "databricks-obtains-18-billion-in-additional-debt-a",
-      "publishedAt": "2026-01-23T19:14:50+00:00",
-      "date": "2026-01-23 19:14:50",
-      "importance": 4,
-      "category": "startupy",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108090174-1737511299846-Handout_Ali_Ghodsi_seated.jpg?v=1737511358&w=1920&h=1080",
-      "url": "/tech-news/2026-01-23/databricks-obtains-18-billion-in-additional-debt-a/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNBC"
-      },
-      "companies": [
-        "Databricks"
-      ],
-      "people": []
-    },
-    {
-      "title": "Co noví vlastníci TikToku znamenají pro váš doporučený obsah",
-      "description": "TikTok má v USA nové vlastníky po uzavření dohody o oddělení amerických operací za 14 miliard dolarů. ByteDance předalo kontrolu investorům včetně Oracle, Silver Lake a MGX, což může ovlivnit algoritmus doporučení a bezpečnost dat.",
-      "slug": "what-tiktoks-new-owners-mean-for-your-feed",
-      "publishedAt": "2026-01-23T19:13:23+00:00",
-      "date": "2026-01-23 19:13:23",
-      "importance": 5,
-      "category": "sociální sítě",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK051_VRG_Illo_N_Barclay_7_tiktok.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "url": "/tech-news/2026-01-23/what-tiktoks-new-owners-mean-for-your-feed/",
-      "source": {
-        "emoji": "⚡",
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "companies": [
-        "ByteDance"
-      ],
-      "people": []
-    },
-    {
-      "title": "Tesla Elona Muska ukončuje systém Autopilot – zde je důvod",
-      "description": "Tesla minulý týden oznámila, že od 14. února přestane nabízet Full Self-Driving jako jednorázovou koupi za 8000 dolarů. Společnost tlačí zákazníky k měsíčnímu předplatnému za 99 dolarů a v nových vozech v Kanadě a USA ruší základní systém Autopilot.",
-      "slug": "elon-musks-tesla-pulls-plug-on-autopilot-system-he",
-      "publishedAt": "2026-01-23T19:08:17+00:00",
-      "date": "2026-01-23 19:08:17",
-      "importance": 4,
-      "category": "elektromobilita",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/01/tesla-car-charging-outside-tesla-115265647.jpg?quality=75&strip=all&w=1200",
-      "url": "/tech-news/2026-01-23/elon-musks-tesla-pulls-plug-on-autopilot-system-he/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "New York Post"
-      },
-      "companies": [
-        "Tesla"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Prý tajně následuje každé Tesla Robotaxi další auto, důvod je tak absurdní, že mu nebudete věřit",
-      "description": "Elon Musk oznámil, že Tesla Robotaxi budou jezdit bez bezpečnostního dozoru přímo v autě, ale podle zpráv dozorci nyní sledují vozy z následujícího automobilu. Tento postup odhalil videoblog Tesla nadšence a kritizují ho jako zbytečně komplikovaný trik.",
-      "slug": "theres-reportedly-a-car-secretly-following-every-t",
-      "publishedAt": "2026-01-23T19:07:31+00:00",
-      "date": "2026-01-23 19:07:31",
-      "importance": 4,
-      "category": "elektromobilita",
-      "urlToImage": "https://futurism.com/wp-content/uploads/2026/01/car-following-tesla-robotaxi.jpg?w=1200",
-      "url": "/tech-news/2026-01-23/theres-reportedly-a-car-secretly-following-every-t/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Futurism"
-      },
-      "companies": [
-        "Tesla"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "TikTok vytváří většinově americky vlastněnou společnost s Oracle, Silver Lake a MGX",
-      "description": "TikTok uzavřel dohodu o nové americké společnosti, kde čínský mateřský koncern ByteDance předává většinové vlastnictví nečínským investorům, aby řešil obavy z národní bezpečnosti a zabránil možnému zákazu v USA.",
-      "slug": "tiktok-forms-majority-american-owned-venture-with-",
-      "publishedAt": "2026-01-23T19:00:22+00:00",
-      "date": "2026-01-23 19:00:22",
-      "importance": 4,
-      "category": "sociální sítě",
-      "urlToImage": "https://macdailynews.com/wp-content/uploads/2024/12/241206_tiktok.png",
-      "url": "/tech-news/2026-01-23/tiktok-forms-majority-american-owned-venture-with/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Macdailynews.com"
-      },
-      "companies": [
-        "TikTok",
-        "Oracle"
-      ],
-      "people": []
-    },
-    {
-      "title": "Programátorská místa v ohrožení? Microsoft, NVIDIA, Anthropic a Elon Musk znejistěli alarm | Denní technologická aktualizace – 23. ledna 2026",
-      "description": "Top technologičtí lídři jako CEO Microsoftu Satya Nadella, šéf NVIDIY Jensen Huang, generální ředitel Anthropicu Dario Amodei a Elon Musk varují před dopady umělé inteligence na programátorská pracovní místa, bezpečnost vozidel a budoucnost práce.",
-      "slug": "ai-coding-jobs-at-risk-microsoft-nvidia-anthropic-",
-      "publishedAt": "2026-01-23T18:45:32+00:00",
-      "date": "2026-01-23 18:45:32",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.c-sharpcorner.com/images/csharp-corner-new.png",
-      "url": "/tech-news/2026-01-23/ai-coding-jobs-at-risk-microsoft-nvidia-anthropic/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "C-sharpcorner.com"
-      },
-      "companies": [
-        "Microsoft",
-        "NVIDIA",
-        "Anthropic"
-      ],
-      "people": [
-        "Satya Nadella",
-        "Jensen Huang",
-        "Dario Amodei"
-      ]
-    },
-    {
-      "title": "Energetický supercyklus AI: Snaha zajistit nepřetržitě fungující energetickou infrastrukturu",
-      "description": "Globální rozvoj umělé inteligence naráží na limity elektrické sítě kvůli rostoucí poptávce datových center. Článek zdůrazňuje posun k jaderné energii jako zdroji stabilního výkonu a zmínky o firmách jako Eagle Energy Metals nebo Oklo.",
-      "slug": "the-ai-energy-supercycle-striving-to-secure-247-po",
-      "publishedAt": "2026-01-23T18:35:00+00:00",
-      "date": "2026-01-23 18:35:00",
-      "importance": 4,
-      "category": "energetika ai",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/fa80d6c4-97b0-465a-b7f0-f79df6f8bc19",
-      "url": "/tech-news/2026-01-23/the-ai-energy-supercycle-striving-to-secure-247-po/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Kongres varuje před kybernetickými hrozbami poháněnými AI před velkými událostmi v USA",
-      "description": "Hackeři potřebují uspět jen jednou, aby způsobili chaos. Kongresové slyšení zdůraznilo, že se bezpečnostní díry množí, protože podvodníci cílí na největší cíle pomocí AI, autonomních dronů a kyberútoků.",
-      "slug": "congress-warns-of-ai-driven-cyber-threats-ahead-of",
-      "publishedAt": "2026-01-23T16:15:34+00:00",
-      "date": "2026-01-23 16:15:34",
-      "importance": 4,
-      "category": "kybernetika",
-      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/01/Congress.jpeg",
-      "url": "/tech-news/2026-01-23/congress-warns-of-ai-driven-cyber-threats-ahead-of/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "pymnts.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Čína nařizuje Alibaba a technologickým firmám připravit objednávky na Nvidia H200",
-      "description": "Regulátoři nedávno udělili předběžné schválení Alibaba, Tencent Holdings a ByteDance pro postoupění do další fáze příprav nákupů, uvedli lidé obeznámení se situací.",
-      "slug": "china-tells-alibaba-tech-firms-to-ready-nvidia-h20",
-      "publishedAt": "2026-01-23T16:15:08+00:00",
-      "date": "2026-01-23 16:15:08",
-      "importance": 4,
-      "category": "ai hardware",
-      "urlToImage": "https://c.ndtvimg.com/2025-11/3eprbrss_nvidia-blackwell_625x300_03_November_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1080,height=607",
-      "url": "/tech-news/2026-01-23/china-tells-alibaba-tech-firms-to-ready-nvidia-h20/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Ndtvprofit.com"
-      },
-      "companies": [
-        "Alibaba",
-        "Nvidia",
-        "Tencent Holdings Ltd",
-        "ByteDance Ltd"
-      ],
-      "people": []
-    },
-    {
-      "title": "Sdílení zdravotních údajů s chatbotem je, ne překvapivě, špatný nápad",
-      "description": "Každý týden se více než 230 milionů lidí ptá ChatGPT na rady ohledně zdraví a wellness, tvrdí OpenAI. Společnost chatbot prezentuje jako spojence pro navigaci pojišťovnami a vyplňování papírování, ale experti varují před sdílením citlivých zdravotních dat.",
-      "slug": "giving-your-healthcare-info-to-a-chatbot-is-unsurp",
-      "publishedAt": "2026-01-23T16:07:24+00:00",
-      "date": "2026-01-23 16:07:24",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STKS524_AI_HEALTH_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "url": "/tech-news/2026-01-23/giving-your-healthcare-info-to-a-chatbot-is-unsurp/",
-      "source": {
-        "emoji": "⚡",
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Proč Elon Musk plánuje zvýšit cenu předplatného Tesla FSD po ukončení režimu Autopilot – vysvětleno",
-      "description": "Elon Musk oznámil, že Tesla zvýší ceny předplatného pro software Full Self-Driving (FSD) s jeho zlepšujícími se schopnostmi, případně nad rámec současných 99 dolarů měsíčně. Tento krok souvisí s ukončením standardního Autopilotu a tlakem na předplatné jako hlavní zdroj příjmů.",
-      "slug": "why-is-elon-musk-planning-to-hike-teslas-fsd-subsc",
-      "publishedAt": "2026-01-23T16:01:34+00:00",
-      "date": "2026-01-23 16:01:34",
-      "importance": 4,
-      "category": "elektromobilita",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2026/01/23/1600x900/logo/FILES-US-AI-TECHNOLOGY-INTERNET-0_1768883709126_1768883718915_1769182924884.jpg",
-      "url": "/tech-news/2026-01-23/why-is-elon-musk-planning-to-hike-teslas-fsd-subsc/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Livemint"
-      },
-      "companies": [
-        "Tesla"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Alibaba plánuje IPO pro čipovou divizi T-Head k financování investic do AI infrastruktury – konkurence Cambriconu a Huawei na domácím trhu s akcelerátory",
-      "description": "Čipová divize Alibaby T-Head se připravuje na úvodní veřejnou nabídku (IPO), aby získala kapitál pro rozvoj AI akcelerátorů. Alibaba tak posílí svou pozici v čínském trhu s hardwarem pro umělou inteligenci a financuje infrastrukturní projekty.",
-      "slug": "alibaba-plans-ipo-for-chip-arm-t-head-to-help-bank",
-      "publishedAt": "2026-01-23T15:50:49+00:00",
-      "date": "2026-01-23 15:50:49",
-      "importance": 4,
-      "category": "ai čipy",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/LyXhaFLnFmGeSh8PqYKPuh-1920-80.jpg",
-      "url": "/tech-news/2026-01-23/alibaba-plans-ipo-for-chip-arm-t-head-to-help-bank/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "companies": [
-        "Alibaba",
-        "T-Head",
-        "Cambricon",
-        "Huawei"
-      ],
-      "people": []
-    },
-    {
-      "title": "Fox News AI Newsletter: Historická výstavba infrastruktury pro umělou inteligenci",
-      "description": "Fox News AI Newsletter informuje o nejnovějších pokrocích v technologii umělé inteligence, včetně výzev a příležitostí, které AI přináší. Tento vydání se zaměřuje na masivní investice do AI infrastruktury, partnerství gigantů a změny v zaměstnanosti.",
-      "slug": "fox-news-ai-newsletter-historic-infrastructure-bui",
-      "publishedAt": "2026-01-23T15:39:05+00:00",
-      "date": "2026-01-23 15:39:05",
-      "importance": 4,
-      "category": "ai infrastruktura",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/06/Nvidia-Jensen-Huang-Photo-1.jpg",
-      "url": "/tech-news/2026-01-23/fox-news-ai-newsletter-historic-infrastructure-bui/",
-      "source": {
-        "emoji": "📰",
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Demis Hassabis a jak umělá inteligence může zkrotit náš molekulární vesmír",
-      "description": "Magazín Fortune tento týden zveřejnil reportáž z Isomorphic Labs, firmy Demise Hassabise, zakladatele DeepMind a nositele Nobelovy ceny. Článek se zaměřuje na využití AI k prozkoumání obrovského chemického prostoru pro objevování léků.",
-      "slug": "demis-hassabis-and-how-ai-just-might-wrangle-our-m",
-      "publishedAt": "2026-01-23T11:32:58+00:00",
-      "date": "2026-01-23 11:32:58",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/01/Demis-Hassabis-Isomorphic-thumbnail.jpg?resize=1200,600",
-      "url": "/tech-news/2026-01-23/demis-hassabis-and-how-ai-just-might-wrangle-our-m/",
-      "source": {
-        "emoji": "📰",
-        "id": "fortune",
-        "name": "Fortune"
-      },
-      "companies": [
-        "Isomorphic Labs"
-      ],
-      "people": [
-        "Demis Hassabis"
-      ]
-    },
-    {
-      "title": "WEF26: Saúdská Arábie vede novou globální iniciativu na ochranu korálových útesů a rozvoj potenciálu AI",
-      "description": "Saúdská delegace na výročním zasedání Světového ekonomického fóra (WEF) 2026 oznámila pořádání prvního Globálního summitu o korálových útesech a ambice stát se globálním centrem pro AI. Klíčovou součástí je rámcová dohoda o financování v hodnotě až 1,2 miliardy dolarů na rozšíření AI datových center.",
-      "slug": "wef26-saudi-arabia-leads-new-global-push-to-protec",
-      "publishedAt": "2026-01-23T11:03:40+00:00",
-      "date": "2026-01-23 11:03:40",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2026/01/23/WEF26-Saudi-Arabia-Leads.jpg",
-      "url": "/tech-news/2026-01-23/wef26-saudi-arabia-leads-new-global-push-to-protec/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Antaranews.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Tyto 4 velké technologické sázky přetvarují globální ekonomiku v roce 2026",
-      "description": "V následujících 12 měsících a dále budou podniky soustředěny na klíčové oblasti, včetně umělé inteligence a robotiky. ARK Invest ve svém výročním reportu identifikuje technologie, které urychlí růst HDP.",
-      "slug": "these-4-big-technology-bets-will-reshape-the-globa",
-      "publishedAt": "2026-01-23T07:59:18+00:00",
-      "date": "2026-01-23 07:59:18",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/6673c35f451db81cd06e32c506142ec049e441fd/2026/01/22/69f47a33-944d-4b03-83f6-e2e3f00e58db/gettyimages-184866939.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "url": "/tech-news/2026-01-23/these-4-big-technology-bets-will-reshape-the-globa/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "ZDNet"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "20 000 uživatelů AI v pojišťovně Travelers se připravuje na Inovaci 2.0; Automatizace zmenšuje call centra pro pojistné nároky",
-      "description": "Pojišťovna Travelers má již více než 20 000 zaměstnanců, kteří pravidelně používají AI nástroje, a po oznámení partnerství s Anthropic na personalizované AI agenty pro 10 000 inženýrů a datových vědců spouští Inovaci 2.0. Díky investicím do dat a technologií dosáhla růstu čistého zisku o 20 procent ve čtvrtém čtvrtletí a 26 procent za celý rok při snížení nákladové míry.",
-      "slug": "A-20000-ai-users-at-travelers-prep-for-innovation-",
-      "publishedAt": "2026-01-23T06:07:21+00:00",
-      "date": "2026-01-23 06:07:21",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.insurancejournal.com/app/uploads/2026/01/Travelers-Hartford-Connecticut-2-full-scaled.jpg",
-      "url": "/tech-news/2026-01-23/A-20000-ai-users-at-travelers-prep-for-innovation/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Carriermanagement.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Banka Capital One kupuje fintech Brex za 5,15 miliardy dolarů",
-      "description": "Capital One získala fintech Brex za 5,15 miliardy dolarů, což by mělo přinést službu plateb stablecoiny do tradiční bankovní giganta.",
-      "slug": "capital-one-bank-buys-stablecoin-fintech-brex-for-",
-      "publishedAt": "2026-01-23T04:12:35+00:00",
-      "date": "2026-01-23 04:12:35",
-      "importance": 5,
-      "category": "kryptoměny",
-      "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-01/019be8c5-856f-7ad8-8a17-31081e3a16cd.jpg",
-      "url": "/tech-news/2026-01-23/capital-one-bank-buys-stablecoin-fintech-brex-for/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Cointelegraph"
-      },
-      "companies": [
-        "Brex"
-      ],
-      "people": []
-    },
-    {
-      "title": "Investiční pobočka kanadského penzijního plánu kritizována za financování xAI Elona Muska, tvůrce Grok",
-      "description": "Kanadská investiční rada penzijního plánu (CPPIB) čelí kritice za poskytnutí 300 milionů amerických dolarů na infrastrukturu pro xAI Elona Muska, společnost vyvíjející kontroverzní chatbot Grok na bázi umělé inteligence.",
-      "slug": "canada-pension-plans-investment-arm-criticized-ove",
-      "publishedAt": "2026-01-23T03:31:56+00:00",
-      "date": "2026-01-23 03:31:56",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://i.cbc.ca/ais/dff4e9cb-c599-41e9-be15-731bf5231b0b,1769134309289/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C246%2C4724%2C2657%29%3BResize%3D620",
-      "url": "/tech-news/2026-01-23/canada-pension-plans-investment-arm-criticized-ove/",
-      "source": {
-        "emoji": "📰",
-        "id": "cbc-news",
-        "name": "CBC News"
-      },
-      "companies": [
-        "xAI"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Elon Musk očekává schválení systému Tesla FSD v Evropě a Číně příští měsíc",
-      "description": "Regulační pokrok u FSD a počáteční nasazení robotaxi ukazují na dynamiku v AI ambicích Tesly, přesto technologie zůstává v počátcích vzhledem k valuaci, která výrazně převyšuje mnoho technologických a automobilových firem.",
-      "slug": "elon-musk-expects-europe-china-to-approve-teslas-f",
-      "publishedAt": "2026-01-23T03:07:12+00:00",
-      "date": "2026-01-23 03:07:12",
-      "importance": 4,
-      "category": "elektromobilita",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-21944,resizemode-75,msid-127225605/tech/technology/elon-musk-expects-europe-china-to-approve-teslas-fsd-system-next-month.jpg",
-      "url": "/tech-news/2026-01-23/elon-musk-expects-europe-china-to-approve-teslas-f/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Tesla"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Singapur představil první na světě rámec řízení pro agentic AI",
-      "description": "Správní úřad pro informační a komunikační technologie (IMDA) vydal průvodce, který pomůže firmám bezpečně nasadit AI agenty a řešit rizika jako neoprávněné akce a automatizační zkreslení.",
-      "slug": "singapore-debuts-worlds-first-governance-framework",
-      "publishedAt": "2026-01-23T02:31:00+00:00",
-      "date": "2026-01-23 02:31:00",
-      "importance": 4,
-      "category": "governace ai",
-      "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/HeroImages/Davos-Switzerland-World-Economic-Forum-SimonMichael-adobe.jpg",
-      "url": "/tech-news/2026-01-23/singapore-debuts-worlds-first-governance-framework/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "ComputerWeekly.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Startup Railway získal 100 milionů dolarů na zjednodušení nasazení aplikací v cloudu",
-      "description": "Společnost Railway uzavřela kolo Series B v hodnotě 100 milionů dolarů vedené TQ Ventures s účastí FPV Ventures, Redpoint a Unusual Ventures. Financování podpoří misi firmy udělat cloudovou infrastrukturu neviditelnou pro vývojáře, kteří se tak mohou soustředit na tvorbu kódu v éře akcelerovaného AI vývoje.",
-      "slug": "intelligent-cloud-infrastructure-startup-railway-g",
-      "publishedAt": "2026-01-23T02:29:57+00:00",
-      "date": "2026-01-23 02:29:57",
-      "importance": 4,
-      "category": "startupy",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/Screenshot-from-2026-01-23-09-28-57.png",
-      "url": "/tech-news/2026-01-23/intelligent-cloud-infrastructure-startup-railway-g/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Railway"
-      ],
-      "people": []
-    },
-    {
-      "title": "Uzavření dohody o TikToku v USA po letech regulační nejistoty",
-      "description": "TikTokovo oddělení amerického byznysu k konsorciu vedenému Oracle, Silver Lake a MGX bylo uzavřeno poté, co úředník Bílého domu oznámil finalizaci dohody mezi USA a Čínou. Nová společnost má americkou většinu v dozorčí radě a řídí ochranu dat, moderování obsahu i bezpečnost algoritmů.",
-      "slug": "tiktok-us-deal-closes-after-years-of-regulatory-un",
-      "publishedAt": "2026-01-23T01:54:34+00:00",
-      "date": "2026-01-23 01:54:34",
-      "importance": 4,
-      "category": "sociální sítě",
-      "urlToImage": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/01/dfd02404-994c-4527-b5f8-d5f23fd9fdc1-671.jpeg",
-      "url": "/tech-news/2026-01-23/tiktok-us-deal-closes-after-years-of-regulatory-un/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Search Engine Journal"
-      },
-      "companies": [
-        "TikTok",
-        "Oracle",
-        "Silver Lake",
-        "MGX"
-      ],
-      "people": []
-    },
-    {
-      "title": "Capital One získá poskytovatele firemních karet Brex v transakci za 5,15 miliardy dolarů",
-      "description": "Společnost Capital One Financial oznámila akvizici fintech startupu Brex za 5,15 miliardy dolarů, což je další velká transakce pod vedením generálního ředitele Richarda Fairbanka. Akvizice byla zveřejněna během výkazu o výsledcích za čtvrté čtvrtletí a má být uzavřena do konce druhého čtvrtletí.",
-      "slug": "capital-one-to-acquire-corporate-card-provider-bre",
-      "publishedAt": "2026-01-23T01:24:07+00:00",
-      "date": "2026-01-23 01:24:07",
-      "importance": 5,
-      "category": "akvizice",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/Screenshot-from-2026-01-23-08-22-35.png",
-      "url": "/tech-news/2026-01-23/capital-one-to-acquire-corporate-card-provider-bre/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Brex"
-      ],
-      "people": [
-        "Richard Fairbank"
-      ]
-    },
-    {
-      "title": "Inferact spouští s 150 miliony dolarů financování na komercializaci vLLM",
-      "description": "Skupina výzkumníků v umělé inteligenci spustila startup Inferact Inc., který bude komercializovat open-source projekt vLLM pro optimalizaci inference velkých jazykových modelů. Financování seed kola činí 150 milionů dolarů s oceňováním společnosti 800 milionů dolarů.",
-      "slug": "inferact-launches-with-150m-in-funding-to-commerci",
-      "publishedAt": "2026-01-23T01:13:45+00:00",
-      "date": "2026-01-23 01:13:45",
-      "importance": 4,
-      "category": "startupy",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/AI.png",
-      "url": "/tech-news/2026-01-23/inferact-launches-with-150m-in-funding-to-commerci/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Inferact Inc",
-        "Andreessen Horowitz",
-        "Lightspeed"
-      ],
-      "people": []
-    },
-    {
-      "title": "TikTok dosáhl dohody na novém americkém společném podniku, aby se vyhnul zákazu v USA",
-      "description": "Vlastník TikToku ByteDance si ponechá 19,9% podíl ve společném podniku, čímž zůstane pod hranicí 20 %, stanovenou zákonem, a udrží tak provoz v USA.",
-      "slug": "tiktok-reaches-deal-for-new-us-joint-venture-to-av",
-      "publishedAt": "2026-01-23T01:07:00+00:00",
-      "date": "2026-01-23 01:07:00",
-      "importance": 4,
-      "category": "sociální sítě",
-      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--Lhxw-sQz--/c_crop,h_449,w_799,x_1,y_75/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-12-18T224343Z_5_LYNXMPELBH1B7_RTROPTP_3_USA-TRUMP-TIKTOK.JPG?itok=5jf2k7JW",
-      "url": "/tech-news/2026-01-23/tiktok-reaches-deal-for-new-us-joint-venture-to-av/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNA"
-      },
-      "companies": [
-        "ByteDance"
-      ],
       "people": []
     }
   ]
