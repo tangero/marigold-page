@@ -1,7 +1,255 @@
 {
-  "generated": "2026-01-30T17:01:04.251405+00:00",
-  "count": 120,
+  "generated": "2026-01-30T20:48:30.477537+00:00",
+  "count": 132,
   "articles": [
+    {
+      "title": "Waymo otevírá službu na letišti v San Franciscu. Vše, co potřebujete vědět o robotaxi",
+      "description": "Zde je přehled, kde autonomní společnost působí a kam se chystá brzy rozšířit.",
+      "slug": "waymo-opens-up-airport-service-in-san-francisco-ev",
+      "publishedAt": "2026-01-29T20:21:00+00:00",
+      "date": "2026-01-29 20:21:00",
+      "importance": 4,
+      "category": "autonomní vozy",
+      "urlToImage": "https://www.cnet.com/a/img/resize/fc2fd45ab2e66a4fe11c3fd8fedbefbcfba95af6/hub/2024/09/13/aca68d34-bb9b-4072-b1b5-1bb664a26159/waymo.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "url": "/tech-news/2026-01-29/waymo-opens-up-airport-service-in-san-francisco-ev/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNET"
+      },
+      "companies": [
+        "Waymo"
+      ],
+      "people": []
+    },
+    {
+      "title": "Waymo v Santa Monice srazil dítě",
+      "description": "23. ledna kolem 7:40 ráno poblíž školy Grant Elementary v Santa Monice autonomní Jaguar I-Pace od Waymo narazil na dítě, které vyběhlo zpoza dvojparkujícího SUV. Vozidlo brzdilo z 17 mph na méně než 6 mph před mírným nárazem, dítě utrpělo lehké zranění a NHTSA zahájila vyšetřování.",
+      "slug": "waymo-hits-child-in-santa-monica",
+      "publishedAt": "2026-01-29T20:20:47+00:00",
+      "date": "2026-01-29 20:20:47",
+      "importance": 4,
+      "category": "autonomní vozy",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2018/03/52a49a9bda14741ffd028335af01a5b5.png",
+      "url": "/tech-news/2026-01-29/waymo-hits-child-in-santa-monica/",
+      "source": {
+        "emoji": "📰",
+        "id": "next-big-future",
+        "name": "Next Big Future"
+      },
+      "companies": [
+        "Waymo"
+      ],
+      "people": []
+    },
+    {
+      "title": "Apple koupil izraelský startup Q.ai za téměř 2 miliardy dolarů, jeho druhou největší akvizici v historii",
+      "description": "Apple provedl jednu ze svých největších akvizic nákupem izraelského startupu Q.ai zaměřeného na AI za přibližně 2 miliardy dolarů. Tento krok má urychlit vývoj pokročilých nositelných zařízení s umělou inteligencí.",
+      "slug": "apple-buys-israeli-startup-qai-for-nearly-2-billio",
+      "publishedAt": "2026-01-29T20:05:41+00:00",
+      "date": "2026-01-29 20:05:41",
+      "importance": 5,
+      "category": "ai",
+      "urlToImage": "https://macdailynews.com/wp-content/uploads/2024/08/240801_apple_logo_02.png",
+      "url": "/tech-news/2026-01-29/apple-buys-israeli-startup-qai-for-nearly-2-billio/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Macdailynews.com"
+      },
+      "companies": [
+        "Apple",
+        "Q.ai"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nová akvizice Apple by mohla vyřešit největší problém s umělou inteligencí",
+      "description": "Apple získal společnost Q.ai v transakci odhadované na 2 miliardy dolarů. Některé detaily o technologii Q.ai naznačují potenciál pro pokrok v hlasovém vstupu bez zvuku pro Siri a další AI nástroje Apple.",
+      "slug": "apples-new-acquisition-could-solve-my-biggest-ai-p",
+      "publishedAt": "2026-01-29T20:01:54+00:00",
+      "date": "2026-01-29 20:01:54",
+      "importance": 5,
+      "category": "ai",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/apple-intelligence-iphone-17-pro-orange.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2026-01-29/apples-new-acquisition-could-solve-my-biggest-ai-p/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "companies": [
+        "Apple",
+        "Q.ai"
+      ],
+      "people": []
+    },
+    {
+      "title": "Google spouští ‚Project Genie‘ pro generování hratelných světů",
+      "description": "Genie 3 je univerzální model světa schopný generovat různorodá interaktivní prostředí. Google nyní umožňuje přístup k němu předplatitelům AI Ultra v USA prostřednictvím Project Genie.",
+      "slug": "google-rolling-out-project-genie-to-generate-playa",
+      "publishedAt": "2026-01-29T19:58:25+00:00",
+      "date": "2026-01-29 19:58:25",
+      "importance": 4,
+      "category": "herní průmysl",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/01/Google-Project-Genie-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2026-01-29/google-rolling-out-project-genie-to-generate-playa/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Apple získává izraelský AI startup Q.ai v velké dohodě",
+      "description": "Dohoda odhadovaná na až 2 miliardy dolarů přivede firmu Q.ai z Ramat Ganu a jejích 100 zaměstnanců k Applu. Pro zakladatele Aviada Maizelse jde o druhý prodej společnosti technologickému gigantovi.",
+      "slug": "apple-acquires-israeli-ai-startup-qai-in-major-dea",
+      "publishedAt": "2026-01-29T19:47:55+00:00",
+      "date": "2026-01-29 19:47:55",
+      "importance": 5,
+      "category": "ai startupy",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1198659.jpg",
+      "url": "/tech-news/2026-01-29/apple-acquires-israeli-ai-startup-qai-in-major-dea/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Israelnationalnews.com"
+      },
+      "companies": [
+        "Apple",
+        "Q.ai"
+      ],
+      "people": [
+        "Aviad Maizels"
+      ]
+    },
+    {
+      "title": "Apple získává izraelský startup Q.ai zaměřený na audio AI před výsledky za Q4",
+      "description": "Apple podle Financial Times získal izraelský startup Q.ai, který se specializuje na technologie umělé inteligence pro zpracování audia. Akvizice přichází v době příprav na fiskální výsledky za čtvrté čtvrtletí a rostoucí kontroly nad AI strategií společnosti.",
+      "slug": "apple-acquires-israeli-audio-ai-startup-qai-before",
+      "publishedAt": "2026-01-29T19:47:37+00:00",
+      "date": "2026-01-29 19:47:37",
+      "importance": 4,
+      "category": "ai startupy",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2024/08/Apple.jpg",
+      "url": "/tech-news/2026-01-29/apple-acquires-israeli-audio-ai-startup-qai-before/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [
+        "Apple",
+        "Q.ai"
+      ],
+      "people": []
+    },
+    {
+      "title": "AI píše 100 % kódu v Anthropic, říkají špičkoví inženýři OpenAI – s důsledky pro budoucnost pracovních míst ve vývoji software",
+      "description": "Nástroje AI pro generování kódu se stávají natolik pokročilými, že inženýři v Anthropic a OpenAI jež píšou žádný kód ručně. To vyvolává otázky ohledně budoucnosti profese programátorů.",
+      "slug": "ai-writes-100-of-the-code-at-anthropic-openai-top-",
+      "publishedAt": "2026-01-29T19:47:31+00:00",
+      "date": "2026-01-29 19:47:31",
+      "importance": 4,
+      "category": "programování",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/01/GettyImages-2216956965_40536e-e1769705381107.jpg?resize=1200,600",
+      "url": "/tech-news/2026-01-29/ai-writes-100-of-the-code-at-anthropic-openai-top/",
+      "source": {
+        "emoji": "📰",
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "companies": [
+        "Anthropic",
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Samsung se spoléhá na boom pamětí pro AI k růstu příjmů",
+      "description": "Samsung oznámil nejlepší čtvrtletí v historii za čtvrté čtvrtletí 2025 díky poptávce po polovodičích a pamětích souvisejících s umělou inteligenci. Poptávka po vysokorychlostních pamětích pro AI servery výrazně překonala nabídku a zvýšila ceny.",
+      "slug": "samsung-leans-on-ai-memory-boom-to-drive-revenue",
+      "publishedAt": "2026-01-29T19:46:12+00:00",
+      "date": "2026-01-29 19:46:12",
+      "importance": 4,
+      "category": "ai paměti",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2024/02/Samsung.jpg",
+      "url": "/tech-news/2026-01-29/samsung-leans-on-ai-memory-boom-to-drive-revenue/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [
+        "Samsung"
+      ],
+      "people": []
+    },
+    {
+      "title": "Legion Intelligence vydává otevřený dopis národní bezpečnostní komunitě o osobních AI asistentech",
+      "description": "Legion Intelligence, firma zaměřená na bezpečnost v oblasti umělé inteligence, vydala otevřený dopis lídrům americké národní bezpečnosti, obrany a zpravodajství. Varuje před rychlou adopcí open-source AI asistenta Clawdbot, nyní přejmenovaného na Moltbot, kvůli významným operačním bezpečnostním rizikům.",
+      "slug": "legion-intelligence-issues-open-letter-to-the-nati",
+      "publishedAt": "2026-01-29T19:43:00+00:00",
+      "date": "2026-01-29 19:43:00",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/6577f8a5-477e-4f92-bf52-641e657ed478",
+      "url": "/tech-news/2026-01-29/legion-intelligence-issues-open-letter-to-the-nati/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [
+        "Legion Intelligence"
+      ],
+      "people": []
+    },
+    {
+      "title": "Apple získává izraelský startup Q.ai údajně za 2 miliardy dolarů",
+      "description": "Apple ovládl izraelský startup Q.ai, což by mělo posílit jeho schopnosti v umělé inteligenci. Podle zdrojů Financial Times je hodnota dohody téměř 2 miliardy dolarů, což činí tuto akvizici druhou největší v historii společnosti.",
+      "slug": "apple-acquires-qai-for-a-reported-2-billion",
+      "publishedAt": "2026-01-29T19:12:29+00:00",
+      "date": "2026-01-29 19:12:29",
+      "importance": 5,
+      "category": "ai",
+      "urlToImage": null,
+      "url": "/tech-news/2026-01-29/apple-acquires-qai-for-a-reported-2-billion/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "companies": [
+        "Apple",
+        "Q.ai"
+      ],
+      "people": []
+    },
+    {
+      "title": "Tesla ukončuje výrobu Modelu S a X příští kvartál kvůli zaměření na robota Optimus",
+      "description": "Tesla ruší výrobu svých dvou nejstarších elektromobilů Model S a Model X příští kvartál, aby přesměrovala zdroje do autonomní robotické budoucnosti s humanoidním robotem Optimus.",
+      "slug": "tesla-sunsetting-model-s-and-x-next-quarter-to-ref",
+      "publishedAt": "2026-01-29T19:09:35+00:00",
+      "date": "2026-01-29 19:09:35",
+      "importance": 4,
+      "category": "robotika",
+      "urlToImage": "https://www.cnet.com/a/img/resize/69992de19ec58223fbdb299126e782a27c115cd5/hub/2021/01/27/3847d537-713c-4f4a-8448-d4787dac6172/tesla-model-s-refresh-210-ogi.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "url": "/tech-news/2026-01-29/tesla-sunsetting-model-s-and-x-next-quarter-to-ref/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNET"
+      },
+      "companies": [
+        "Tesla"
+      ],
+      "people": []
+    },
     {
       "title": "EU se postavila proti Muskově AI, která 'svléká' ženy. Dokáže ochránit své občany?",
       "description": "Evropská unie prověřuje AI Grok od Elona Muska poté, co jeho funkce pro deepfakes vygenerovala miliony sexualizovaných obrázků žen a dětí. Brusel tak testuje své nejtvrdší technologické předpisy na jednom z největších případů.",
