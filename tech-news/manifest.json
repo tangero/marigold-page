@@ -1,7 +1,47 @@
 {
-  "generated": "2026-01-30T08:54:14.133674+00:00",
-  "count": 111,
+  "generated": "2026-01-30T12:58:25.165344+00:00",
+  "count": 113,
   "articles": [
+    {
+      "title": "60 způsobů, jak hacknout svůj chatbot",
+      "description": "Představení průvodce HRExaminer po bezpečnosti AI pro HRTech a WorkTech, který varuje před rostoucími zranitelnostmi chatbotů v době AI boomu.",
+      "slug": "A-60-ways-to-hack-your-chatbot",
+      "publishedAt": "2026-01-29T12:16:25+00:00",
+      "date": "2026-01-29 12:16:25",
+      "importance": 4,
+      "category": "ai bezpečnost",
+      "urlToImage": "https://substackcdn.com/image/fetch/$s_!Ca6J!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F39e3c1e6-8ce8-4032-8d77-c2dc3031fd82_3840x2160.heic",
+      "url": "/tech-news/2026-01-29/A-60-ways-to-hack-your-chatbot/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Hrexaminer.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Elon Musk trvá na tom, že Tesla je technologická společnost. Začíná to tak vypadat.",
+      "description": "Zvyšování předplatného, výroba robotů a prodej méně aut? Tesla se chová jako technologická společnost více než kdy dřív.",
+      "slug": "elon-musk-insists-tesla-is-a-tech-company-its-star",
+      "publishedAt": "2026-01-29T11:59:33+00:00",
+      "date": "2026-01-29 11:59:33",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://i.insider.com/6979fc73a645d11881881e7b?width=1200&format=jpeg",
+      "url": "/tech-news/2026-01-29/elon-musk-insists-tesla-is-a-tech-company-its-star/",
+      "source": {
+        "emoji": "📰",
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "companies": [
+        "Tesla"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
     {
       "title": "DPI a PODTECH uzavírají partnerství k urychlení globálního nasazení AI infrastruktury",
       "description": "Společnosti Datalec Precision Installations (DPI) a PODTECH oznámily globální partnerství zaměřené na dodávku předpřipravené AI infrastruktury pro hyperscalery v Evropě, Asii a na Blízkém východě. Partnerství řeší aktuální nedostatek kapacity datových center způsobený rychle rostoucí poptávkou po AI výpočetních zdrojích.",
