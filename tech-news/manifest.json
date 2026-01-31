@@ -1,7 +1,237 @@
 {
-  "generated": "2026-01-31T05:23:21.683981+00:00",
-  "count": 127,
+  "generated": "2026-01-31T08:43:47.087599+00:00",
+  "count": 137,
   "articles": [
+    {
+      "title": "Jižní Korea zavádí globální milník v zákonech o bezpečnosti umělé inteligence včetně dopadů na duševní zdraví",
+      "description": "Jižní Korea přijala zákony o umělé inteligenci a stala se první velkou zemí, která to udělala samostatně. Článek podrobně analyzuje nové předpisy, zdůrazňuje jejich silné i slabé stránky. Exkluzivní pohled od AI Insider.",
+      "slug": "south-korea-enacts-global-milestone-of-ai-safety-l",
+      "publishedAt": "2026-01-30T08:15:00+00:00",
+      "date": "2026-01-30 08:15:00",
+      "importance": 5,
+      "category": "ai regulace",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/697ad4ae7ce519811db188ca/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "url": "/tech-news/2026-01-30/south-korea-enacts-global-milestone-of-ai-safety-l/",
+      "source": {
+        "emoji": "💼",
+        "id": null,
+        "name": "Forbes"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Eckoh navazuje partnerství s boost.ai pro bezpečnost v konverzační AI v regulovaných odvětvích",
+      "description": "Eckoh, poskytovatel bezpečných řešení pro zákaznickou komunikaci a platby, spolupracuje s boost.ai na integraci generativních AI agentů s certifikovanou bezpečnostní platformou. Tím podniky v bankovnictví, zdravotnictví nebo maloobchodu mohou bezpečně zpracovávat citlivé údaje a platby prostřednictvím AI.",
+      "slug": "eckoh-partners-with-boostai-to-deliver-unmatched-s",
+      "publishedAt": "2026-01-30T08:05:00+00:00",
+      "date": "2026-01-30 08:05:00",
+      "importance": 4,
+      "category": "konverzační ai",
+      "urlToImage": null,
+      "url": "/tech-news/2026-01-30/eckoh-partners-with-boostai-to-deliver-unmatched-s/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "PR Newswire UK"
+      },
+      "companies": [
+        "Eckoh",
+        "boost.ai"
+      ],
+      "people": []
+    },
+    {
+      "title": "Bývalý inženýr Google odsouzen za krádež 2 000 AI obchodních tajemství pro čínský startup",
+      "description": "Bývalý inženýr Google obviněný z krádeže tisíců důvěrných dokumentů společnosti pro vybudování startupu v Číně byl v USA odsouzen, oznámilo ministerstvo spravedlnosti (DoJ). Linwei Ding (známý také jako Leon Ding), 38 let, byl shledán vinným v soudním procesu.",
+      "slug": "ex-google-engineer-convicted-for-stealing-2000-ai-",
+      "publishedAt": "2026-01-30T07:35:00+00:00",
+      "date": "2026-01-30 07:35:00",
+      "importance": 5,
+      "category": "průmyslová špionáž",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuiLCvokVP8ei0IzeeCTdv8uXcyZ4052maeakPb57SypS2iVyNL4ctwUKjGUjrdVBYyS7eCP-5fydL1UJXLGmg4Ae5wY6J1Nhaph__CeBi2ht5W-XTJhBim8IbYf78EgXdZ7omg2O30DgJCZPTqN1CPQMZ5023ZGU0K5jTmxoX251whXEQ0CljA9BP9RWZ/s1700-e365/ai-secrets.jpg",
+      "url": "/tech-news/2026-01-30/ex-google-engineer-convicted-for-stealing-2000-ai/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Internet"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nákup Q.ai společností Apple – Co to znamená pro iPhony, AirPods a nositelná zařízení",
+      "description": "Očekáváme integraci technologie Q.ai do budoucího hardware Apple.",
+      "slug": "apples-qai-buy-what-it-means-for-iphones-airpods-w",
+      "publishedAt": "2026-01-30T07:20:10+00:00",
+      "date": "2026-01-30 07:20:10",
+      "importance": 5,
+      "category": "ai",
+      "urlToImage": "https://c.ndtvimg.com/2026-01/i2rbk4ss_apple_625x300_30_January_26.png?im=FeatureCrop,algorithm=dnn,width=1080,height=607",
+      "url": "/tech-news/2026-01-30/apples-qai-buy-what-it-means-for-iphones-airpods-w/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Ndtvprofit.com"
+      },
+      "companies": [
+        "Apple",
+        "Q.ai"
+      ],
+      "people": []
+    },
+    {
+      "title": "DeepSeek nyní může kupovat čipy Nvidia H200, Čína však stanovila podmínky",
+      "description": "Čína podmínečně schválila nákup čipů Nvidia H200 pro svůj přední startup DeepSeek v AI, přičemž podmínky stále finalizuje. Tento krok probíhá na pozadí eskalujících technických napětí mezi USA a Čínou.",
+      "slug": "deepseek-can-now-buy-nvidias-h200-chips-but-china-",
+      "publishedAt": "2026-01-30T07:16:47+00:00",
+      "date": "2026-01-30 07:16:47",
+      "importance": 4,
+      "category": "hardware",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/hnb8ty/article70569358.ece/alternates/LANDSCAPE_1200/2025-11-05T081214Z_2091479820_RC2NFGAKVD7Y_RTRMADP_3_CHINA-CHIPS.JPG",
+      "url": "/tech-news/2026-01-30/deepseek-can-now-buy-nvidias-h200-chips-but-china/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "companies": [
+        "DeepSeek",
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Vytvářejte finanční modely během minut s Claude pro Excel",
+      "description": "Integrace AI modelu Claude od Anthropic do Microsoft Excel umožňuje automatizovat složité úkoly v tabulkách a zkrátit čas na tvorbu finančních modelů z hodin na minuty. Tento doplněk přináší nativní boční panel, dynamické aktualizace a specializované funkce pro finance a analýzu dat.",
+      "slug": "build-finance-models-in-minutes-with-claude-for-ex",
+      "publishedAt": "2026-01-30T07:12:50+00:00",
+      "date": "2026-01-30 07:12:50",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/01/spreadsheet-dynamic-updates-formulas_optimized.jpg",
+      "url": "/tech-news/2026-01-30/build-finance-models-in-minutes-with-claude-for-ex/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [
+        "Anthropic",
+        "Microsoft"
+      ],
+      "people": []
+    },
+    {
+      "title": "Bývalý inženýr Google odsouzen za krádež tajemství umělé inteligence pro čínské společnosti",
+      "description": "Linwei Ding, 38letý čínský státní příslušník, byl po 11denním soudním procesu v San Franciscu shledán vinným ze sedmi obvinění z ekonomické špionáže a sedmi z krádeže obchodních tajemství. Odcizil tisíce stran důvěrných dokumentů z Google, aby pomohl dvěma čínským firmám.",
+      "slug": "ex-google-engineer-convicted-of-stealing-ai-secret",
+      "publishedAt": "2026-01-30T07:02:26+00:00",
+      "date": "2026-01-30 07:02:26",
+      "importance": 5,
+      "category": "ai",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/ulkdva/article70569318.ece/alternates/LANDSCAPE_1200/IMG_FILE_PHOTO__Illustra_2_1_GADTRUAJ.jpg",
+      "url": "/tech-news/2026-01-30/ex-google-engineer-convicted-of-stealing-ai-secret/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Významná modernizace Siri: Plán Applu konkurovat na trhu AI chatbotů",
+      "description": "Apple pracuje na projektu „Campos“, který přemění dlouholetého hlasového asistenta Siri na pokročilý AI chatbot. Tento upgrade řeší historická omezení Siri a staví ji do přímé konkurence s nástroji jako ChatGPT a Gemini.",
+      "slug": "siris-big-upgrade-apples-plan-to-dominate-the-ai-c",
+      "publishedAt": "2026-01-30T07:00:11+00:00",
+      "date": "2026-01-30 07:00:11",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/01/Siri-1.jpg",
+      "url": "/tech-news/2026-01-30/siris-big-upgrade-apples-plan-to-dominate-the-ai-c/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Čína podmínečně schválila DeepSeek nákup čipů Nvidia H200, tvrdí zdroje",
+      "description": "Podle Reutera získaly ByteDance, Alibaba a Tencent povolení k nákupu více než 400 000 čipů H200 dohromady. Čína udělila top AI startupu DeepSeek podmínečné schválení pro nákup těchto pokročilých AI čipů.",
+      "slug": "china-conditionally-approves-deepseek-to-buy-nvidi",
+      "publishedAt": "2026-01-30T06:55:01+00:00",
+      "date": "2026-01-30 06:55:01",
+      "importance": 4,
+      "category": "hardware",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-148130,resizemode-75,msid-127793709/tech/technology/china-conditionally-approves-deepseek-to-buy-nvidias-h200-chips-sources.jpg",
+      "url": "/tech-news/2026-01-30/china-conditionally-approves-deepseek-to-buy-nvidi/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "DeepSeek",
+        "Nvidia",
+        "ByteDance",
+        "Alibaba",
+        "Tencent"
+      ],
+      "people": []
+    },
+    {
+      "title": "Apple dosáhl nejvýkonnějšího kvartálu v historii díky rekordním prodejům iPhonů",
+      "description": "„Ohromná úroveň poptávky“ omezila schopnost společnosti držet krok a vedla k nízkým zásobám, řekl Tim Cook.",
+      "slug": "apple-enjoys-most-profitable-quarter-ever-amid-rec",
+      "publishedAt": "2026-01-30T06:27:56+00:00",
+      "date": "2026-01-30 06:27:56",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/CFGFRMNGIC23SQQNC3JU64P5Y4.jpg?smart=true&auth=dcc8e1ccfc6e1462e279d827e3d1a0bcddfedc53051e66141041c95ecad0c8a8&width=1200&height=630",
+      "url": "/tech-news/2026-01-30/apple-enjoys-most-profitable-quarter-ever-amid-rec/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Irishtimes.comhttps"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": [
+        "Tim Cook"
+      ]
+    },
+    {
+      "title": "Apple kupuje tajemný izraelský startup na audio AI Q.ai",
+      "description": "Apple koupilo izraelský startup Q.ai specializující se na audio AI v transakci v hodnotě přibližně 2 miliard dolarů. Jedná se o druhou nejdražší akvizici v historii Applu, překonanou pouze koupí Beats.",
+      "slug": "apple-buys-secretive-audio-ai-startup-qai",
+      "publishedAt": "2026-01-30T06:05:02+00:00",
+      "date": "2026-01-30 06:05:02",
+      "importance": 5,
+      "category": "ai",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/26/01/apple-buys-q-ai/-952x498w6/gsmarena_000.jpg",
+      "url": "/tech-news/2026-01-30/apple-buys-secretive-audio-ai-startup-qai/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GSMArena.com"
+      },
+      "companies": [
+        "Apple",
+        "Q.ai",
+        "Beats"
+      ],
+      "people": []
+    },
     {
       "title": "Alibaba a Baidu posouvají plány na IPO pro své dceřiné společnosti v oblasti AI čipů",
       "description": "Dvě největší čínské technologické firmy, Alibaba a Baidu, zahájily procesy počáteční veřejné nabídky (IPO) pro své dceřiné společnosti zaměřené na návrh polovodičů. Tento krok podporuje snahu Pekingu dosáhnout soběstačnosti v produkci čipů pro umělou inteligenci.",
@@ -86,26 +316,6 @@
       "people": [
         "Elon Musk"
       ]
-    },
-    {
-      "title": "Bývalý inženýr Google odsouzen za krádež AI tajemství pro čínské společnosti",
-      "description": "Linwei Ding, 38letý čínský občan, byl po 11denním federálním procesu v San Franciscu shledán vinným ze sedmi obvinění z ekonomické špionáže a sedmi z krádeže obchodních tajemství. Odcizil tisíce stran důvěrných informací o infrastruktuře pro trénink velkých AI modelů, aby pomohl dvěma čínským firmám.",
-      "slug": "ex-google-engineer-convicted-of-stealing-ai-secret",
-      "publishedAt": "2026-01-30T03:04:53+00:00",
-      "date": "2026-01-30 03:04:53",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-339406,resizemode-75,msid-127789839/tech/technology/ex-google-engineer-convicted-of-stealing-ai-secrets-for-chinese-companies.jpg",
-      "url": "/tech-news/2026-01-30/ex-google-engineer-convicted-of-stealing-ai-secret/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
     },
     {
       "title": "Nelegální toky kryptoměn dosáhly rekordních 158 miliard dolarů v roce 2025, tvrdí TRM Labs",

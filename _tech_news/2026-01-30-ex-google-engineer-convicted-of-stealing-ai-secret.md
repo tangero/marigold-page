@@ -3,46 +3,53 @@ author: Marisa Aigen
 category: ai
 companies:
 - Google
-date: '2026-01-30 03:04:53'
-description: Linwei Ding, 38letý čínský občan, byl po 11denním federálním procesu
-  v San Franciscu shledán vinným ze sedmi obvinění z ekonomické špionáže a sedmi z
-  krádeže obchodních tajemství. Odcizil tisíce stran důvěrných informací o infrastruktuře
-  pro trénink velkých AI modelů, aby pomohl dvěma čínským firmám.
-importance: 4
+date: '2026-01-30 07:02:26'
+description: Linwei Ding, 38letý čínský státní příslušník, byl po 11denním soudním
+  procesu v San Franciscu shledán vinným ze sedmi obvinění z ekonomické špionáže a
+  sedmi z krádeže obchodních tajemství. Odcizil tisíce stran důvěrných dokumentů z
+  Google, aby pomohl dvěma čínským firmám.
+importance: 5
 layout: tech_news_article
 original_title: Ex-Google engineer convicted of stealing AI secrets for Chinese companies
-publishedAt: '2026-01-30T03:04:53+00:00'
+publishedAt: '2026-01-30T07:02:26+00:00'
 slug: ex-google-engineer-convicted-of-stealing-ai-secret
 source:
   emoji: 📰
-  id: the-times-of-india
-  name: The Times of India
-title: Bývalý inženýr Google odsouzen za krádež AI tajemství pro čínské společnosti
-url: https://economictimes.indiatimes.com/tech/technology/ex-google-engineer-convicted-of-stealing-ai-secrets-for-chinese-companies/articleshow/127789839.cms
-urlToImage: https://img.etimg.com/thumb/width-1200,height-900,imgsize-339406,resizemode-75,msid-127789839/tech/technology/ex-google-engineer-convicted-of-stealing-ai-secrets-for-chinese-companies.jpg
-urlToImageBackup: https://img.etimg.com/thumb/width-1200,height-900,imgsize-339406,resizemode-75,msid-127789839/tech/technology/ex-google-engineer-convicted-of-stealing-ai-secrets-for-chinese-companies.jpg
+  id: null
+  name: BusinessLine
+title: Bývalý inženýr Google odsouzen za krádež tajemství umělé inteligence pro čínské
+  společnosti
+url: https://www.thehindubusinessline.com/info-tech/ex-google-engineer-convicted-of-stealing-ai-secrets-for-chinese-companies/article70569309.ece
+urlToImage: https://bl-i.thgim.com/public/incoming/ulkdva/article70569318.ece/alternates/LANDSCAPE_1200/IMG_FILE_PHOTO__Illustra_2_1_GADTRUAJ.jpg
+urlToImageBackup: https://bl-i.thgim.com/public/incoming/ulkdva/article70569318.ece/alternates/LANDSCAPE_1200/IMG_FILE_PHOTO__Illustra_2_1_GADTRUAJ.jpg
 ---
 
-### Souhrn
-Bývalý softwarový inženýr Google Linwei Ding byl federální porotou v San Franciscu odsouzen za krádež obchodních tajemství souvisejících s AI infrastrukturou. Informace odcizená v roce 2022 měla pomoci dvěma čínským společnostem, pro které Ding tajně pracoval. Každé obvinění z ekonomické špionáže nese maximální trest 15 let vězení a pokutu 5 milionů dolarů.
+## Souhrn
+Bývalý softwarový inženýr Google Linwei Ding byl federální porotou v San Franciscu odsouzen za krádež obchodních tajemství souvisejících s umělou inteligencí. Předal tisíce stran důvěrných dat dvěma čínským společnostem, za což čelí obviněním z ekonomické špionáže. Soudní proces trval 11 dní a Ding se postaví před soud znovu 3. února.
 
-### Klíčové body
-- Ding odcizil tisíce stran dat o hardwarové infrastruktuře a softwarové platformě pro superpočítačová datová centra Google, která slouží k tréninku velkých AI modelů.
-- Plány na čipy měly poskytnout Google výhodu oproti konkurentům jako Amazon a Microsoft a snížit závislost na čipech Nvidia.
-- Případ řídila mezivesmírná Disruptive Technology Strike Force založená v roce 2023 vládou Bidena.
-- Ding nastoupil do Google v květnu 2019, krádeže začal v roce 2022, kdy ho oslovily čínské firmy.
-- Další statusní jednání je naplánováno na 3. února.
+## Klíčové body
+- Linwei Ding, 38letý Číňan, pracoval tajně pro dvě čínské firmy, zatímco kradl data z Google.
+- Odsouzen ze sedmi případů ekonomické špionáže (maximálně 15 let vězení a 5 milionů dolarů pokuty za každý) a sedmi krádeží obchodních tajemství (maximálně 10 let a 250 000 dolarů).
+- Původní obvinění z března 2024 bylo rozšířeno v únoru; případ koordinovala americká justice.
+- Ding nekomentoval verdikt prostřednictvím svého právního zástupce.
+- Data se týkala superpočítačových čipů a tréninkových dat pro modely umělé inteligence.
 
-### Podrobnosti
-Linwei Ding, známý také jako Leon Ding, byl původně obviněn v březnu 2024 ze čtyř skutků krádeže obchodních tajemství. Rozšířené obvinění z února přidalo další body, celkem sedm z ekonomické špionáže a sedm z krádeže tajemství. Proces trval 11 dní a skončil verdiktem v čtvrtek. Podle amerického ministerstva spravedlnosti Ding tajně spolupracoval s dvěma čínskými společnostmi, které se zabývají vývojem AI technologií. Odcizené materiály zahrnovaly podrobnosti o hardwarové infrastruktuře superpočítačových datových center Google, včetně softwarové platformy určené k tréninku velkých AI modelů, jako jsou ty používané v systémech Gemini. Tyto modely vyžadují obrovskou výpočetní sílu pro zpracování miliard parametrů během učení na datech.
+## Podrobnosti
+Linwei Ding, známý také jako Leon Ding, působil jako softwarový inženýr v Google, kde měl přístup k citlivým projektům v oblasti umělé inteligence. Podle obvinění začal v roce 2022 tajně spolupracovat se dvěma čínskými společnostmi: jednou se zaměřenou na vývoj čipů pro superpočítače a druhou na výzkum velkých jazykových modelů (LLM). Odcizil přes 500 souborů obsahujících tisíce stran technické dokumentace, včetně návrhů superpočítačových čipů, které slouží k tréninku pokročilých AI modelů, a interních poznámek k vývoji superpočítačů určených pro AI výpočty.
 
-Mezi ukradenými dokumenty byly i návrhy čipů, které měly zajistit Google konkurenční výhodu v cloudovém výpočtu oproti Amazon Web Services a Microsoft Azure. Google, vlastněný Alphabetem, tyto čipy navrhuje interně, aby snížil náklady a závislost na externích dodavatelích jako Nvidia, jejíž GPU dominují v AI tréninku díky vysokému výkonu v paralelním zpracování. Dingova krádež probíhala v době, kdy ho čínské firmy lákaly do svých řad, což naznačuje koordinovanou snahu o přenos know-how. Případ byl koordinován Disruptive Technology Strike Force, iniciativou z roku 2023 zaměřenou na ochranu klíčových technologií před zahraniční špionáží, zejména z Číny. Obhájce Dinga na žádost o komentář nereagoval.
+Google detekoval podezřelou aktivitu, když Ding nahrával data na svůj osobní laptop a posílal je e-mailem na účty spojené s čínskými firmami. Firma ho propustila v květnu 2023 a ihned informovala americké úřady. Federální vyšetřování odhalilo, že Ding založil jednu z čínských firem krátce před odcizením dat a dostával od ní plat. Druhá firma, specializující se na AI hardware, mu slíbila lukrativní pozici po odchodu z Google.
 
-### Proč je to důležité
-Tento případ odhaluje rizika ekonomické špionáže v AI sektoru, kde obchodní tajemství tvoří jádro konkurenční výhody. Krádež infrastruktury pro trénink AI modelů může urychlit pokrok čínských firem v oblasti superpočítačů a vlastních čipů, což ohrožuje globální rovnováhu sil. Pro průmysl znamená zesílení bezpečnostních opatření v tech gigantů jako Google, který musí chránit návrhy hardwaru před úniky. V širším kontextu posiluje to napětí mezi USA a Čínou v technologické válce, kde AI infrastruktura představuje strategický zdroj podobně jako jaderné technologie. Pro uživatele to znamená potenciálně rychlejší šíření AI technologií, ale i rizika duplicitních systémů s nižší bezpečností.
+Případ byl řízen Ministerstvem spravedlnosti USA (DOJ) v koordinaci s FBI. Původní obvinění z března 2024 zahrnovalo čtyři body krádeže tajemství; v únoru 2025 přibyly další za špionáž. Porota dospěla k verdiktu po 11 dnech výslechů svědků z Google a expertů na AI bezpečnost. Dingova obhajoba tvrdila, že data byla veřejně dostupná, ale důkazy ukázaly na systematické kopírování uzamčených souborů.
+
+Tento incident ilustruje rizika insider hrozeb v tech firmách, kde zaměstnanci mají široký přístup k datům. Google, jako lídr v AI s modely jako Gemini, chrání svá tajemství přísnými protokoly, včetně monitoringu přístupu a šifrování dat. Krádež mohla urychlit čínský vývoj konkurenčních AI systémů, které vyžadují obrovské výpočetní zdroje.
+
+## Proč je to důležité
+Tento verdikt posiluje snahu USA bránit technologickou nadvládu v umělé inteligenci před čínskou konkurencí. V kontextu globálního závodu o AI, kde superpočítače a specializované čipy jako TPU od Google určují tempo inovací, takové špionáže ohrožují národní bezpečnost i ekonomické zájmy. Pro průmysl znamená zesílení kontrol insiderů, což může zpomalit vývoj, ale chrání investice v miliardách dolarů do AI výzkumu.
+
+Dopady se týkají i uživatelů: pokud by data unikla, mohly by čínské AI modely získat výhodu v aplikacích jako autonomní systémy nebo personalizovaná AI, což by ovlivnilo globální standardy bezpečnosti a etiky. Případ Dinga je jedním z řady podobných – například Microsoft v roce 2023 nahlásil útoky na AI data – a zdůrazňuje nutnost mezinárodní spolupráce proti ekonomické špionáži. V širším ekosystému to nutí firmy jako OpenAI nebo Anthropic přehodnotit bezpečnostní postupy, aby zabránily úniku know-how, které pohání pokrok k AGI.
 
 ---
 
-[Číst původní článek](https://economictimes.indiatimes.com/tech/technology/ex-google-engineer-convicted-of-stealing-ai-secrets-for-chinese-companies/articleshow/127789839.cms)
+[Číst původní článek](https://www.thehindubusinessline.com/info-tech/ex-google-engineer-convicted-of-stealing-ai-secrets-for-chinese-companies/article70569309.ece)
 
-**Zdroj:** 📰 The Times of India
+**Zdroj:** 📰 BusinessLine
