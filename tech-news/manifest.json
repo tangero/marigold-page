@@ -1,7 +1,218 @@
 {
-  "generated": "2026-01-31T01:28:14.801177+00:00",
-  "count": 140,
+  "generated": "2026-01-31T05:23:21.683981+00:00",
+  "count": 127,
   "articles": [
+    {
+      "title": "Alibaba a Baidu posouvají plány na IPO pro své dceřiné společnosti v oblasti AI čipů",
+      "description": "Dvě největší čínské technologické firmy, Alibaba a Baidu, zahájily procesy počáteční veřejné nabídky (IPO) pro své dceřiné společnosti zaměřené na návrh polovodičů. Tento krok podporuje snahu Pekingu dosáhnout soběstačnosti v produkci čipů pro umělou inteligenci.",
+      "slug": "alibaba-baidu-advance-ipo-plans-for-ai-chip-subsid",
+      "publishedAt": "2026-01-30T04:58:07+00:00",
+      "date": "2026-01-30 04:58:07",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://img.digitimes.com/newsshow/20260129pd228_files/2_b.jpg",
+      "url": "/tech-news/2026-01-30/alibaba-baidu-advance-ipo-plans-for-ai-chip-subsid/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [
+        "Alibaba",
+        "Baidu"
+      ],
+      "people": []
+    },
+    {
+      "title": "Bývalý inženýr Google shledán vinným z krádeže AI tajemství pro čínské firmy",
+      "description": "Bývalý inženýr Google Linwei Ding byl shledán vinným z 14 federálních obvinění z ekonomické špionáže a krádeže obchodních tajemství. Předal více než 2000 stran citlivých informací o umělé inteligenci dvěma čínským technologickým firmám, pro které tajně pracoval.",
+      "slug": "former-google-engineer-found-guilty-of-stealing-ai",
+      "publishedAt": "2026-01-30T04:29:09+00:00",
+      "date": "2026-01-30 04:29:09",
+      "importance": 4,
+      "category": "průmyslová špionáž",
+      "urlToImage": null,
+      "url": "/tech-news/2026-01-30/former-google-engineer-found-guilty-of-stealing-ai/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Apple kupuje izraelskou audio startup Q.ai",
+      "description": "Apple 29. ledna 2026 oznámilo akvizici izraelské firmy Q.ai, která vyvíjí umělou inteligenci pro zpracování zvuku. Hodnota transakce se odhaduje na 1,6 až 2 miliardy amerických dolarů a představuje druhou největší akvizici Applu.",
+      "slug": "apple-buys-israeli-audio-startup-qai",
+      "publishedAt": "2026-01-30T03:46:51+00:00",
+      "date": "2026-01-30 03:46:51",
+      "importance": 5,
+      "category": "ai",
+      "urlToImage": "https://img.digitimes.com/newsshow/20260130vl204_files/1_b.jpg",
+      "url": "/tech-news/2026-01-30/apple-buys-israeli-audio-startup-qai/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [
+        "Apple",
+        "Q.ai"
+      ],
+      "people": []
+    },
+    {
+      "title": "Proč chce Elon Musk umístit datová centra pro AI do vesmíru?",
+      "description": "Datová centra v kosmu, stále v rané fázi vývoje, by spoléhala na stovky solárních satelitů propojených v oběžné dráze k zvládnutí obrovských výpočetních nároků AI systémů jako Grok od xAI nebo ChatGPT od OpenAI. V době, kdy pozemní zařízení jsou energeticky náročná a drahá na provoz, by kosmická řešení nabízela neustálou solární energii a eliminovala náklady na chlazení.",
+      "slug": "why-does-elon-musk-want-to-put-ai-data-centers-in-",
+      "publishedAt": "2026-01-30T03:32:12+00:00",
+      "date": "2026-01-30 03:32:12",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-355158,resizemode-75,msid-127790193/tech/technology/why-does-elon-musk-want-to-put-ai-data-centers-in-space.jpg",
+      "url": "/tech-news/2026-01-30/why-does-elon-musk-want-to-put-ai-data-centers-in/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "xAI",
+        "OpenAI"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Bývalý inženýr Google odsouzen za krádež AI tajemství pro čínské společnosti",
+      "description": "Linwei Ding, 38letý čínský občan, byl po 11denním federálním procesu v San Franciscu shledán vinným ze sedmi obvinění z ekonomické špionáže a sedmi z krádeže obchodních tajemství. Odcizil tisíce stran důvěrných informací o infrastruktuře pro trénink velkých AI modelů, aby pomohl dvěma čínským firmám.",
+      "slug": "ex-google-engineer-convicted-of-stealing-ai-secret",
+      "publishedAt": "2026-01-30T03:04:53+00:00",
+      "date": "2026-01-30 03:04:53",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-339406,resizemode-75,msid-127789839/tech/technology/ex-google-engineer-convicted-of-stealing-ai-secrets-for-chinese-companies.jpg",
+      "url": "/tech-news/2026-01-30/ex-google-engineer-convicted-of-stealing-ai-secret/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nelegální toky kryptoměn dosáhly rekordních 158 miliard dolarů v roce 2025, tvrdí TRM Labs",
+      "description": "Podvodníci rozšířili dosah pomocí nových nástrojů a zvýšili věrohodnost svých akcí. Podle TRM Labs se použití velkých jazykových modelů v podvodech pětkrát zvýšilo v roce 2025, což fraudsterům umožňuje vytvářet přesvědčivé zprávy, vést souběžné konverzace a oklamávat oběti různorodými metodami.",
+      "slug": "illicit-crypto-flows-hit-record-158-billion-in-202",
+      "publishedAt": "2026-01-30T03:00:36+00:00",
+      "date": "2026-01-30 03:00:36",
+      "importance": 4,
+      "category": "kryptoměny",
+      "urlToImage": "https://bitcoinist.com/wp-content/uploads/2026/01/a_2bd233.jpg",
+      "url": "/tech-news/2026-01-30/illicit-crypto-flows-hit-record-158-billion-in-202/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Bitcoinist"
+      },
+      "companies": [
+        "TRM Labs"
+      ],
+      "people": []
+    },
+    {
+      "title": "Apple získal izraelský startup Q.ai zaměřený na audio AI",
+      "description": "Apple neupřesnil, jak technologie Q.ai využije, ale startup vyvíjel aplikace strojového učení pro porozumění šeptané řeči a zlepšení audia v náročných prostředích.",
+      "slug": "apple-acquires-israeli-audio-ai-startup-qai",
+      "publishedAt": "2026-01-30T02:59:01+00:00",
+      "date": "2026-01-30 02:59:01",
+      "importance": 5,
+      "category": "ai startupy",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-103640,resizemode-75,msid-127789750/tech/startups/apple-acquires-israeli-audio-ai-startup-q-ai.jpg",
+      "url": "/tech-news/2026-01-30/apple-acquires-israeli-audio-ai-startup-qai/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Apple",
+        "Q.ai"
+      ],
+      "people": []
+    },
+    {
+      "title": "Pentagon se střetává s Anthropic kvůli použití vojenské AI, tvrdí zdroje",
+      "description": "Diskuse představují raný testovací případ, zda Silicon Valley, v dobré milosti Washingtonu po letech napětí, může ovlivnit, jak americké vojenské a zpravodajské složky nasazují stále výkonnější AI na bojišti.",
+      "slug": "pentagon-clashes-with-anthropic-over-military-ai-u",
+      "publishedAt": "2026-01-30T02:46:53+00:00",
+      "date": "2026-01-30 02:46:53",
+      "importance": 4,
+      "category": "vojenská ai",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-13550,resizemode-75,msid-127789594/tech/artificial-intelligence/pentagon-clashes-with-anthropic-over-military-ai-use-sources-say.jpg",
+      "url": "/tech-news/2026-01-30/pentagon-clashes-with-anthropic-over-military-ai-u/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": []
+    },
+    {
+      "title": "Apple získává izraelský startup Q.ai zaměřený na audio AI údajně za 1,6 miliardy dolarů",
+      "description": "Apple neoznámil podmínky akvizice Q.ai, který podpořily venture kapitálové firmy Matter Venture Partners, Kleiner Perkins, Spark Capital, Exor a GV (dříve Google Ventures). Transakce ohodnotila startup na přibližně 1,6 miliardy dolarů podle zdroje blízkého jednáním.",
+      "slug": "apple-acquires-israeli-audio-ai-startup-qai-report",
+      "publishedAt": "2026-01-30T02:19:39+00:00",
+      "date": "2026-01-30 02:19:39",
+      "importance": 5,
+      "category": "ai",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2026/01/30/1600x900/logo/Apple-Results-0_1769739524384_1769739537148.jpg",
+      "url": "/tech-news/2026-01-30/apple-acquires-israeli-audio-ai-startup-qai-report/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Livemint"
+      },
+      "companies": [
+        "Apple",
+        "Q.ai"
+      ],
+      "people": []
+    },
+    {
+      "title": "Elon Musk údajně zvažuje sloučení SpaceX a xAI, případně i Tesla",
+      "description": "Elon Musk prý přemýšlí o sloučení svého startupu xAI, sociální sítě X a raketové společnosti SpaceX do jediné entity. Alternativně by mohlo dojít k fúzi SpaceX s veřejně obchodovanou Teslou před plánovaným IPO SpaceX.",
+      "slug": "elon-musk-reportedly-considering-merger-between-sp",
+      "publishedAt": "2026-01-30T02:16:21+00:00",
+      "date": "2026-01-30 02:16:21",
+      "importance": 4,
+      "category": "fúze firem",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/Screenshot-from-2026-01-30-09-14-46.png",
+      "url": "/tech-news/2026-01-30/elon-musk-reportedly-considering-merger-between-sp/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "SpaceX",
+        "xAI",
+        "Tesla"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
     {
       "title": "Generální ředitel Apple slibuje „osobní a soukromou“ umělou inteligenci pro uživatele",
       "description": "Tim Cook ujišťuje uživatele iPhonu, že jejich soukromí bude zachováno v nové spolupráci, která přináší AI Gemini od Google do Siri.",
@@ -108,26 +319,6 @@
       },
       "companies": [
         "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Pentagon se střetl s Anthropic kvůli vojenskému využití AI: Zpráva",
-      "description": "Po týdnech jednání v rámci smlouvy v hodnotě až 200 milionů dolarů jsou americké ministerstvo obrany a Anthropic v patové situaci kvůli sporu o bezpečnostní omezení AI.",
-      "slug": "pentagon-clashes-with-anthropic-over-military-ai-u",
-      "publishedAt": "2026-01-29T23:46:36+00:00",
-      "date": "2026-01-29 23:46:36",
-      "importance": 4,
-      "category": "vojenské ai",
-      "urlToImage": "https://img.huffingtonpost.com/asset/697bf0e42200007d0a6d8fb4.jpeg?ops=1200_630",
-      "url": "/tech-news/2026-01-29/pentagon-clashes-with-anthropic-over-military-ai-u/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "HuffPost"
-      },
-      "companies": [
-        "Anthropic"
       ],
       "people": []
     },
@@ -2409,466 +2600,6 @@
       "people": [
         "Satya Nadella"
       ]
-    },
-    {
-      "title": "JChristina popisuje robotickou konstrukci SpaceX pro masovou výrobu Starship Block 3",
-      "description": "Starship Block 3 (Verze 3 nebo V3) společnosti SpaceX znamená přechod od prototypů k masové produkci s důrazem na spolehlivost, nižší náklady a vysoký objem výroby. Cílem jsou časté mise na Mars a rozšíření konstelace Starlink díky automatizaci a nové výrobní hale GigaBay.",
-      "slug": "jchristina-describes-spacex-robot-construction-for",
-      "publishedAt": "2026-01-24T19:37:47+00:00",
-      "date": "2026-01-24 19:37:47",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/01/V3Booster.jpg",
-      "url": "/tech-news/2026-01-24/jchristina-describes-spacex-robot-construction-for/",
-      "source": {
-        "emoji": "📰",
-        "id": "next-big-future",
-        "name": "Next Big Future"
-      },
-      "companies": [
-        "SpaceX"
-      ],
-      "people": []
-    },
-    {
-      "title": "AI experti se na Davosu střetli v debatě o blízkosti inteligence na úrovni člověka",
-      "description": "Přední AI lídři na Davosu nesouhlasí, zda velké jazykové modely (LLM) vedou k umělé obecné inteligenci (AGI). Demis Hassabis z Google DeepMind a Yann LeCun tvrdí, že současné systémy jsou daleko od cíle, na rozdíl od optimistů z OpenAI a Anthropic.",
-      "slug": "ai-luminaries-clash-at-davos-over-how-close-human-",
-      "publishedAt": "2026-01-24T19:34:00+00:00",
-      "date": "2026-01-24 19:34:00",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://a.fsdn.com/sd/topics/ai_64.png",
-      "url": "/tech-news/2026-01-24/ai-luminaries-clash-at-davos-over-how-close-human/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "companies": [],
-      "people": [
-        "Demis Hassabis"
-      ]
-    },
-    {
-      "title": "NVIDIA a AMD volbou TSMC jako hlavního výrobce čipů udělaly jednu z největších sázek historie a změnily průmysl",
-      "description": "Generální ředitelé NVIDIA Jensen Huang a AMD Lisa Su nedávno mluvili o tom, jak jejich důvěra v TSMC jako hlavního výrobce čipů před několika lety připadala iracionální, ale nyní se vyplácí v éře AI. Tato volba zajistila firmám prioritu v dodávkách a spolupráci na vývoji technologií.",
-      "slug": "nvidia-and-amd-choosing-tsmc-as-their-primary-foun",
-      "publishedAt": "2026-01-24T18:14:27+00:00",
-      "date": "2026-01-24 18:14:27",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/01/Untitled-design-45-728x410.png",
-      "url": "/tech-news/2026-01-24/nvidia-and-amd-choosing-tsmc-as-their-primary-foun/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Wccftech"
-      },
-      "companies": [
-        "NVIDIA",
-        "AMD",
-        "TSMC"
-      ],
-      "people": [
-        "Jensen Huang",
-        "Lisa Su"
-      ]
-    },
-    {
-      "title": "Proč kliknutí na špatný odkaz Copilot ohrozí vaše data",
-      "description": "Zranitelnost v bezpečnosti Microsoft Copilot umožňuje útočníkům krást data prostřednictvím škodlivých odkazů. Zjistěte, jak útok funguje, a naučte se chránit.",
-      "slug": "why-clicking-the-wrong-copilot-link-could-put-your",
-      "publishedAt": "2026-01-24T18:00:14+00:00",
-      "date": "2026-01-24 18:00:14",
-      "importance": 5,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/microsoft-copilot.jpg",
-      "url": "/tech-news/2026-01-24/why-clicking-the-wrong-copilot-link-could-put-your/",
-      "source": {
-        "emoji": "📰",
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "companies": [
-        "Microsoft"
-      ],
-      "people": []
-    },
-    {
-      "title": "Americká pojišťovna Lemonade snižuje sazby o 50 % pro řidiče používající software Full Self-Driving od Tesly",
-      "description": "Americká pojišťovna Lemonade oznámila snížení pojistného o 50 % pro řidiče elektromobilů Tesla, když řízení přebírá software Full Self-Driving (FSD). Tento krok vychází z telemetrických dat, která ukazují dvojnásobnou bezpečnost FSD oproti manuálnímu řízení.",
-      "slug": "us-insurer-lemonade-cuts-rates-50-for-drivers-usin",
-      "publishedAt": "2026-01-24T17:34:00+00:00",
-      "date": "2026-01-24 17:34:00",
-      "importance": 4,
-      "category": "autonomní řízení",
-      "urlToImage": "https://a.fsdn.com/sd/topics/ai_64.png",
-      "url": "/tech-news/2026-01-24/us-insurer-lemonade-cuts-rates-50-for-drivers-usin/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "companies": [
-        "Lemonade",
-        "Tesla"
-      ],
-      "people": []
-    },
-    {
-      "title": "Mews získává 255 milionů eur na rozvoj umělé inteligence a automatizace v hotelnictví",
-      "description": "Platforma Mews se sídlem v Amsterdamu získala 255 milionů eur (zhruba 300 milionů dolarů) v investičním kole řady D, aby posílila automatizaci a workflowy poháněné umělou inteligencí pro hotely po celém světě. Kolo vedl fond EQT Growth s novou účastí Atomico a HarbourVest Partners.",
-      "slug": "mews-raises-255m-to-accelerate-ai-and-automation-i",
-      "publishedAt": "2026-01-24T16:10:49+00:00",
-      "date": "2026-01-24 16:10:49",
-      "importance": 4,
-      "category": "startupy",
-      "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F01%2FTNW-Article-Banner.png&signature=143a4dee7e46ae8d092931bb0a74cc3f",
-      "url": "/tech-news/2026-01-24/mews-raises-255m-to-accelerate-ai-and-automation-i/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-next-web",
-        "name": "The Next Web"
-      },
-      "companies": [
-        "Mews"
-      ],
-      "people": []
-    },
-    {
-      "title": "Brex a výhody i rizika agresivního získávání kapitálu",
-      "description": "Capital One oznámila akvizici Brex za 5,15 miliardy dolarů, což je úspěšný exit v méně než 10 letech pro tvůrce kategorie firemních karet pro startupy. Nicméně hodnota je méně než polovina z 12,3 miliardy dolarů z října 2022, což ilustruje rizika příliš ambiciózního fundraisingu.",
-      "slug": "brex-and-the-pros-and-cons-of-hubristic-fundraisin",
-      "publishedAt": "2026-01-24T15:18:47+00:00",
-      "date": "2026-01-24 15:18:47",
-      "importance": 4,
-      "category": "startupy",
-      "urlToImage": "https://i0.wp.com/www.saastr.com/wp-content/uploads/2026/01/IMG_0553-scaled.jpg?fit=1000%2C667&quality=70&ssl=1",
-      "url": "/tech-news/2026-01-24/brex-and-the-pros-and-cons-of-hubristic-fundraisin/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Saastr.com"
-      },
-      "companies": [
-        "Brex",
-        "Capital One"
-      ],
-      "people": []
-    },
-    {
-      "title": "Tento týdenní významné technologické příběhy z webu (do 24. ledna)",
-      "description": "Každý týden prohledáváme web pro důležité, poučné a fascinující příběhy z vědy a technologie. Příspěvek vyšel na SingularityHub.",
-      "slug": "this-weeks-awesome-tech-stories-from-around-the-we",
-      "publishedAt": "2026-01-24T15:00:00+00:00",
-      "date": "2026-01-24 15:00:00",
-      "importance": 5,
-      "category": "technologické novink",
-      "urlToImage": "https://singularityhub.com/uploads/2026/01/helix-nebula-eye-of-god-webb-image.jpeg?auto=webp",
-      "url": "/tech-news/2026-01-24/this-weeks-awesome-tech-stories-from-around-the-we/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Singularity Hub"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Elon Musk: Cena předplatného FSD 99 USD/měsíc poroste s lepšením technologie, Tesla ruší Autopilot v USA: „Můžete být na telefonu...“",
-      "description": "Šéf Tesly Elon Musk oznámil, že cena měsíčního předplatného systému Full Self-Driving (FSD) za 99 dolarů poroste s pokračujícím vývojem technologie. Tesla zároveň ukončuje nabídku Autopilota v USA a nahrazuje ho systémem Traffic-Aware Cruise Control.",
-      "slug": "elon-musk-says-fsds-99month-subscription-fee-will-",
-      "publishedAt": "2026-01-24T14:31:03+00:00",
-      "date": "2026-01-24 14:31:03",
-      "importance": 4,
-      "category": "elektromobilita",
-      "urlToImage": "https://s.yimg.com/os/en/Benzinga/520c12548e8abd70695e9a15581e5463",
-      "url": "/tech-news/2026-01-24/elon-musk-says-fsds-99month-subscription-fee-will/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [
-        "Tesla"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Proč se Meta staví do pozice giganta v infrastruktuře pro AI – a zdvojnásobuje nákladnou novou strategii",
-      "description": "S Meta Compute mění Mark Zuckerberg datová centra, čipy a energii v potenciální největší strategickou zbraň společnosti.",
-      "slug": "why-meta-is-positioning-itself-as-an-ai-infrastruc",
-      "publishedAt": "2026-01-24T13:00:00+00:00",
-      "date": "2026-01-24 13:00:00",
-      "importance": 4,
-      "category": "ai infrastruktura",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/01/GettyImages-2235448143.jpg?resize=1200,600",
-      "url": "/tech-news/2026-01-24/why-meta-is-positioning-itself-as-an-ai-infrastruc/",
-      "source": {
-        "emoji": "📰",
-        "id": "fortune",
-        "name": "Fortune"
-      },
-      "companies": [
-        "Meta"
-      ],
-      "people": [
-        "Mark Zuckerberg"
-      ]
-    },
-    {
-      "title": "Týdenní novinky ze světa technologií: Apple plánuje AI nositelné zařízení a telefon s podporou Androidu, Linuxu i Windowsu",
-      "description": "Navíc: Asus opouští trh se smartphony a Sony navazuje partnerství s TCL na výrobu televizorů.",
-      "slug": "gear-news-of-the-week-apples-ai-wearable-and-a-pho",
-      "publishedAt": "2026-01-24T11:00:00+00:00",
-      "date": "2026-01-24 11:00:00",
-      "importance": 4,
-      "category": "hardware",
-      "urlToImage": "https://media.wired.com/photos/6973e07957e4f3e5a01e8bfe/191:100/w_1280,c_limit/Gear%20News%20of%20the%20Week-%20Apple's%20AI%20Wearable,%20a%20Phone%20That%20Can%20Boot%20Android,%20Linux,%20and%20Windows.png",
-      "url": "/tech-news/2026-01-24/gear-news-of-the-week-apples-ai-wearable-and-a-pho/",
-      "source": {
-        "emoji": "🔧",
-        "id": "wired",
-        "name": "Wired"
-      },
-      "companies": [
-        "Apple",
-        "Asus",
-        "Sony",
-        "TCL"
-      ],
-      "people": []
-    },
-    {
-      "title": "Tesla v Austinu zdvojnásobila flotilu robotaxi na 68 oproti před třemi týdny",
-      "description": "Tesla přidává denně přibližně deset robotaxi do své flotily v Austinu a za týden překoná známých 137 vozidel Waymo. Waymo sice tvrdí, že má 200 vozidel, ale pozorováno bylo jen 137 různých poznávacích značek. Za 30-50 dní by Tesla mohla dosáhnout 500 vozidel, což odpovídá cíli Elona Muska.",
-      "slug": "tesla-austin-doubles-robotaxi-fleet-to-68-from-3-w",
-      "publishedAt": "2026-01-24T08:40:41+00:00",
-      "date": "2026-01-24 08:40:41",
-      "importance": 4,
-      "category": "robotaxi",
-      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/01/Screenshot-2026-01-24-at-12.29.49-AM.jpg",
-      "url": "/tech-news/2026-01-24/tesla-austin-doubles-robotaxi-fleet-to-68-from-3-w/",
-      "source": {
-        "emoji": "📰",
-        "id": "next-big-future",
-        "name": "Next Big Future"
-      },
-      "companies": [
-        "Tesla",
-        "Waymo"
-      ],
-      "people": []
-    },
-    {
-      "title": "Show HN: Claude Code pro Sales a GTM",
-      "description": "Vyzkoušel jsem všechny SaaS Sales a GTM tools; nakonec jsem vibe-coding jednoduchý tool, který prostě funguje. Používá Claude Code jako backend (vtipné, já vím). Pomáhá enrich, qualify a prepare high-quality reach-outs\n\nURL komentářů: https://news.ycombinator.com/item?id=46741678\nPoin…",
-      "slug": "show-hn-claude-code-for-sales-and-gtm",
-      "publishedAt": "2026-01-24T07:08:43+00:00",
-      "date": "2026-01-24 07:08:43",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://opengraph.githubassets.com/0b3cd7821c5895fa9b2f962ab9a25235aee389994dd819adfcd158631ac52d18/chaitanyya/sales",
-      "url": "/tech-news/2026-01-24/show-hn-claude-code-for-sales-and-gtm/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Github.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Gemini přichází do Chrome s aktualizací ChromeOS 144",
-      "description": "Google připravuje vydání ChromeOS 144, první velké aktualizace v roce 2026, která přináší nativní integraci modelu Gemini přímo do prohlížeče Chrome na zařízeních Chromebook Plus. Tato funkce umožňuje interakci s obsahem aktuálně otevřené webové stránky v reálném čase.",
-      "slug": "gemini-arrives-in-chrome-with-the-chromeos-144-upd",
-      "publishedAt": "2026-01-24T06:56:27+00:00",
-      "date": "2026-01-24 06:56:27",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.ghacks.net/wp-content/uploads/2026/01/gHacks-articles-2026-01-24T085356.027.png",
-      "url": "/tech-news/2026-01-24/gemini-arrives-in-chrome-with-the-chromeos-144-upd/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Ghacks Technology News"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Trump slibuje třítýdenní schvalování jaderných elektráren pro technologické firmy, což spustilo růst akcií",
-      "description": "Prezident Trump na fóru v Davosu oznámil urychlené schvalování výstavby jaderných reaktorů pro tech společnosti během tří týdnů. Cílem je pokryt rostoucí spotřebu elektřiny daty centry umělé inteligence, což okamžitě posílilo akcie firem v jaderném sektoru.",
-      "slug": "trump-vows-three-week-nuclear-approvals-for-tech-s",
-      "publishedAt": "2026-01-24T06:00:00+00:00",
-      "date": "2026-01-24 06:00:00",
-      "importance": 4,
-      "category": "jaderná energie",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/01/Nuclear-Power-Plant-Stacks-Radiation.jpg",
-      "url": "/tech-news/2026-01-24/trump-vows-three-week-nuclear-approvals-for-tech-s/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "companies": [],
-      "people": [
-        "Trump"
-      ]
-    },
-    {
-      "title": "Bez kódování: Od nápadu k softwaru - Anil Dash",
-      "description": "Blogový příspěvek popisuje průlomový pokrok v technologii kódování poháněný AI, kde programátoři ovládají flotily desítek kódovacích botů, které společně vytvářejí celé funkce na základě popisu v běžné češtině nebo angličtině. Tento přístup překonává dřívější limity velkých jazykových modelů díky orchestraci a rezilenci.",
-      "slug": "codeless-from-idea-to-software-anil-dash",
-      "publishedAt": "2026-01-24T05:47:02+00:00",
-      "date": "2026-01-24 05:47:02",
-      "importance": 5,
-      "category": "bez kódování",
-      "urlToImage": "https://anildash.com/images/sunset-murmuration.jpeg",
-      "url": "/tech-news/2026-01-24/codeless-from-idea-to-software-anil-dash/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Anildash.com"
-      },
-      "companies": [],
-      "people": [
-        "Anil Dash"
-      ]
-    },
-    {
-      "title": "Právní AI gigant Harvey získává Hexus, zatímco konkurence v právním tech sílí | TechCrunch",
-      "description": "Zakladatelka a CEO Hexus Sakshi Pratap, která dříve zastávala inženýrské role u Walmartu, Oracle a Google, uvedla pro TechCrunch, že její tým v San Franciscu se už připojil k Harvey, zatímco inženýři v Indii nastoupí po zřízení kanceláře v Bangalore.",
-      "slug": "legal-ai-giant-harvey-acquires-hexus-as-competitio",
-      "publishedAt": "2026-01-24T05:29:18+00:00",
-      "date": "2026-01-24 05:29:18",
-      "importance": 4,
-      "category": "právní ai",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/Screenshot-2025-11-14-at-11.50.31-AM.png?resize=1200,863",
-      "url": "/tech-news/2026-01-24/legal-ai-giant-harvey-acquires-hexus-as-competitio/",
-      "source": {
-        "emoji": "🚀",
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "companies": [
-        "Harvey",
-        "Hexus",
-        "Walmart",
-        "Oracle",
-        "Google"
-      ],
-      "people": [
-        "Sakshi Pratap"
-      ]
-    },
-    {
-      "title": "Čína prohlubuje vyšetřování Meta akvizice Manus za 2 miliardy dolarů",
-      "description": "Čínští úředníci rozšiřují prošetřování prosincové akvizice agentického AI startupu Manus americkou společností Meta za 2 miliardy dolarů. Klíčovým bodem je, zda došlo k porušení předpisů o exportu technologií, národní bezpečnosti nebo sdílení uživatelských dat s americkou firmou.",
-      "slug": "china-deepens-review-of-metas-landmark-2-billion-m",
-      "publishedAt": "2026-01-24T04:07:32+00:00",
-      "date": "2026-01-24 04:07:32",
-      "importance": 5,
-      "category": "ai",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-37166,resizemode-75,msid-127360665/tech/artificial-intelligence/china-deepens-review-of-metas-landmark-2-billion-manus-buyout.jpg",
-      "url": "/tech-news/2026-01-24/china-deepens-review-of-metas-landmark-2-billion-m/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Meta",
-        "Manus"
-      ],
-      "people": []
-    },
-    {
-      "title": "Vývojář hotelového softwaru Mews získal 300 milionů dolarů při valuaci 2,5 miliardy",
-      "description": "Holandský startup Mews Systems, který vyvíjí cloudovou platformu a platební terminály pro provozovatele hotelů, získal 300 milionů dolarů v investičním kole Series D vedeném fondem EQT Growth. Společnost tak dosáhla valuace 2,5 miliardy dolarů po zpracování transakcí za 19 miliard dolarů v minulém roce.",
-      "slug": "hotel-software-maker-mews-nabs-300m-at-25b-valuati",
-      "publishedAt": "2026-01-24T01:20:21+00:00",
-      "date": "2026-01-24 01:20:21",
-      "importance": 4,
-      "category": "startupy",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/Mews.png",
-      "url": "/tech-news/2026-01-24/hotel-software-maker-mews-nabs-300m-at-25b-valuati/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Mews Systems BV"
-      ],
-      "people": []
-    },
-    {
-      "title": "Tesla robotaxi nyní mají bezpečnostní monitory následující za nimi",
-      "description": "Tesla robotaxi byly kritizovány za přítomnost tichých bezpečnostních monitorů na sedadle spolujezdce. Po půl roce provozu Elon Musk oznámil jízdy bez monitorů v autě, ale nové video ukazuje, že je následují černé Tesla vozy s dohledem.",
-      "slug": "tesla-robotaxi-now-has-safety-monitors-following-b",
-      "publishedAt": "2026-01-24T00:46:12+00:00",
-      "date": "2026-01-24 00:46:12",
-      "importance": 4,
-      "category": "autonomní vozy",
-      "urlToImage": null,
-      "url": "/tech-news/2026-01-24/tesla-robotaxi-now-has-safety-monitors-following-b/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "companies": [
-        "Tesla"
-      ],
-      "people": []
-    },
-    {
-      "title": "Elon Musk o Marsu, robotech a jak bude umělá inteligence ‚chytřejší než lidé letos‘",
-      "description": "Larry Fink, předseda a generální ředitel investiční firmy BlackRock, provedl rozhovor s Elonem Muskem, šéfem Tesla a SpaceX, na Světovém ekonomickém fóru v Davos ve Švýcarsku. Diskutovali o umělé inteligenci, robotice, vesmíru a expanzi civilizace.",
-      "slug": "elon-musk-on-mars-robots-and-how-ai-will-be-smarte",
-      "publishedAt": "2026-01-24T00:26:44+00:00",
-      "date": "2026-01-24 00:26:44",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/01/elon-musk-attends-56th-annual-119509272-e1769211312163.jpg?quality=75&strip=all&w=1200",
-      "url": "/tech-news/2026-01-24/elon-musk-on-mars-robots-and-how-ai-will-be-smarte/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "New York Post"
-      },
-      "companies": [
-        "Tesla",
-        "SpaceX"
-      ],
-      "people": [
-        "Larry Fink",
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Federální iniciativy chtějí posunout AI za jednoduchou diagnostiku",
-      "description": "Americké ministerstvo zdravotnictví a lidské péče (U.S. Department of Health and Human Services) prostřednictvím agentury ARPA-H vyhlašuje víceletý program ADVOCATE pro vývoj agentických AI systémů v kardiovaskulární péči. Tyto systémy mají autonomně pomáhat pacientům a získat schválení FDA během tří let.",
-      "slug": "federal-initiatives-aim-to-move-ai-beyond-simple-d",
-      "publishedAt": "2026-01-24T00:06:06+00:00",
-      "date": "2026-01-24 00:06:06",
-      "importance": 4,
-      "category": "medicínská ai",
-      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/01/AI-healthcare-diagnostics.jpeg",
-      "url": "/tech-news/2026-01-24/federal-initiatives-aim-to-move-ai-beyond-simple-d/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "pymnts.com"
-      },
-      "companies": [],
-      "people": []
     }
   ]
 }
