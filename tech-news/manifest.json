@@ -1,7 +1,47 @@
 {
-  "generated": "2026-01-31T12:49:15.480965+00:00",
-  "count": 145,
+  "generated": "2026-01-31T16:44:23.193852+00:00",
+  "count": 147,
   "articles": [
+    {
+      "title": "Skupina Sandworm z Ruska zaútočila na energetickou společnost v Polsku pomocí DynoWiper, objevila výzkum ESET",
+      "description": "Výzkumníci ESET identifikovali nový mazací malware DynoWiper použitý proti energetické společnosti v Polsku. Taktiky, techniky a postupy (TTPs) připomínají útok s wiperem ZOV na Ukrajině, přičemž ESET připisuje útok ruské skupině Sandworm s střední jistotou.",
+      "slug": "russian-sandworm-group-attacks-energy-company-in-p",
+      "publishedAt": "2026-01-30T16:09:00+00:00",
+      "date": "2026-01-30 16:09:00",
+      "importance": 5,
+      "category": "kybernetika",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/d6434bd9-71ad-46f5-b1c8-81bd2b967640",
+      "url": "/tech-news/2026-01-30/russian-sandworm-group-attacks-energy-company-in-p/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [
+        "ESET"
+      ],
+      "people": []
+    },
+    {
+      "title": "USA vidí Indii jako klíčového partnera v iniciativě Pax Silica pro umělou inteligenci",
+      "description": "USA staví Indii jako klíčového budoucího partnera v novém rámci ekonomické bezpečnosti, který má zajistit globální dodavatelské řetězce pro umělou inteligenci a pokročilé technologie, uvedl v pátek podzobmí ministr zahraničí pro ekonomické záležitosti Jacob Helberg.",
+      "slug": "us-sees-india-as-key-partner-in-pax-silica-ai-push",
+      "publishedAt": "2026-01-30T15:35:50+00:00",
+      "date": "2026-01-30 15:35:50",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-15328,resizemode-75,msid-127804874/tech/artificial-intelligence/us-sees-india-as-key-partner-in-pax-silica-ai-push.jpg",
+      "url": "/tech-news/2026-01-30/us-sees-india-as-key-partner-in-pax-silica-ai-push/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": [
+        "Jacob Helberg"
+      ]
+    },
     {
       "title": "Býci i medvědi na Tesle dospěli k dohodě: Toto není automobilový titul",
       "description": "Dlouholetá debata mezi investory, zda hodnotit Teslu jako automobilku nebo technologickou velmoc, se tento týden blížila k rozuzlení díky plánům firmy na dramatickou přestavbu výrobních linek.",
