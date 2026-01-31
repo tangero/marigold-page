@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proč kliknutí na špatný odkaz Copilot ohrozí vaše data | Marigold.cz Tech News</title>
+    <meta name="description" content="Zranitelnost v bezpečnosti Microsoft Copilot umožňuje útočníkům krást data prostřednictvím škodlivých odkazů. Zjistěte, jak útok funguje, a naučte se chránit.">
+    <link rel="canonical" href="https://www.marigold.cz/tech-news/2026-01-24/why-clicking-the-wrong-copilot-link-could-put-your/">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #374151; background: #f3f4f6; }
+        .container { max-width: 800px; margin: 0 auto; padding: 2rem; }
+        .tech-news-article { background: white; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); padding: 2rem; margin: 2rem 0; }
+        .source-info { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem; flex-wrap: wrap; }
+        .source-emoji { font-size: 1.5rem; }
+        .source-name { font-weight: 600; color: #374151; }
+        .importance-indicator { display: flex; gap: 2px; margin-left: auto; }
+        .star { color: #fbbf24; font-size: 1.2rem; }
+        .star.empty { color: #d1d5db; }
+        .article-title { font-size: 2rem; font-weight: 700; line-height: 1.2; margin-bottom: 1rem; color: #111827; }
+        .article-meta { display: flex; align-items: center; gap: 1rem; font-size: 0.875rem; color: #6b7280; margin-bottom: 1.5rem; }
+        .category { padding: 0.25rem 0.75rem; border-radius: 1rem; font-weight: 500; font-size: 0.75rem; text-transform: uppercase; background: #e5e7eb; color: #374151; }
+        .article-image { margin: 1.5rem 0; border-radius: 8px; overflow: hidden; }
+        .article-image img { width: 100%; height: auto; display: block; }
+        .article-content { font-size: 1.125rem; line-height: 1.7; margin-bottom: 2rem; }
+        .article-content h2 { font-size: 1.5rem; margin: 1.5rem 0 1rem; color: #111827; }
+        .article-content p { margin-bottom: 1rem; }
+        .article-footer { border-top: 1px solid #e5e7eb; padding-top: 1.5rem; }
+        .read-more-btn { display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: #3b82f6; color: white; text-decoration: none; border-radius: 8px; font-weight: 500; }
+        .read-more-btn:hover { background: #2563eb; }
+        .original-title { margin-top: 1rem; color: #6b7280; font-size: 0.875rem; }
+        .back-link { display: inline-block; margin-bottom: 1rem; color: #3b82f6; text-decoration: none; }
+        .back-link:hover { text-decoration: underline; }
+        .archive-notice { background: #fef3c7; border: 1px solid #f59e0b; border-radius: 8px; padding: 1rem; margin-bottom: 1rem; font-size: 0.875rem; color: #92400e; }
+        @media (max-width: 640px) {
+            .container { padding: 1rem; }
+            .tech-news-article { padding: 1.5rem; margin: 1rem 0; }
+            .article-title { font-size: 1.5rem; }
+            .source-info { flex-direction: column; align-items: flex-start; }
+            .importance-indicator { margin-left: 0; margin-top: 0.5rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="/tech-news/" class="back-link">&larr; Zpět na Tech News</a>
+
+        <div class="archive-notice">
+            Tento článek je z archivu. Byl publikován 24.01.2026.
+        </div>
+
+        <article class="tech-news-article">
+            <header>
+                <div class="source-info">
+                    <span class="source-emoji">📰</span>
+                    <span class="source-name">Fox News</span>
+                    <div class="importance-indicator">
+                        <span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star">★</span>
+                    </div>
+                </div>
+
+                <h1 class="article-title">Proč kliknutí na špatný odkaz Copilot ohrozí vaše data</h1>
+
+                <div class="article-meta">
+                    <time datetime="2026-01-24T18:00:14+00:00">24.01.2026</time>
+                    <span class="category">kyberbezpečnost</span>
+                </div>
+            </header>
+
+            
+            <div class="article-image">
+                <img src="https://static.foxnews.com/foxnews.com/content/uploads/2026/01/microsoft-copilot.jpg" alt="Proč kliknutí na špatný odkaz Copilot ohrozí vaše data" loading="lazy">
+            </div>
+        
+
+            <div class="article-content">
+                <h2>Souhrn</h2>
+<p>Bezpečnostní výzkumníci z firmy Varonis odhalili zranitelnost v Microsoft Copilot nazvanou Reprompt, která umožňuje útočníkům převzít aktivní relaci AI asistenta a vyloučit data z uživatelova Microsoft účtu pouhým kliknutím na škodlivý odkaz. Tento útok probíhá na pozadí bez viditelných změn na obrazovce. Copilot, propojený s účtem, tak může nechtěně zpracovat skryté instrukce a odeslat citlivé informace.</p>
+<h2>Klíčové body</h2>
+<ul>
+<li>Útok Reprompt využívá speciálně vytvořený odkaz, který obsahuje skryté instrukce pro Copilot.</li>
+<li>Copilot automaticky zpracovává tyto instrukce v aktivní relaci spojené s uživatelovým Microsoft účtem.</li>
+<li>Výzkumníci z Varonis, firmy specializující se na ochranu dat, ukázali, jak lze obejít ochranné mechanismy AI.</li>
+<li>Žádné instalace není potřeba, stačí kliknutí na odkaz z e-mailu nebo zprávy.</li>
+<li>Doporučení: Nepřecházejte podezřelé odkazy a sledujte aktualizace od Microsoftu.</li>
+</ul>
+<h2>Podrobnosti</h2>
+<p>Microsoft Copilot je AI asistent integrovaný do produktů společnosti Microsoft, jako jsou webové prohlížeče Edge, aplikace Office nebo Windows. Slouží k psaní e-mailů, shrnutí dokumentů, odpovídání na otázky a práci s daty z uživatelova účtu. Jeho síla spočívá v propojení s Microsoft účtem, díky čemuž má přístup k minulým konverzacím, souborům a osobním údajům. Nicméně právě toto propojení se stalo slabinou.</p>
+<p>Výzkumníci z Varonis, americké firmy zaměřené na detekci a ochranu citlivých dat v cloudu a enterprise prostředích, objevili metodu Reprompt. Tato technika umožňuje útočníkům vložit do běžně vypadajícího odkazu na Copilot skryté instrukce. Když uživatel klikne na takový odkaz – například z e-mailu nebo chatu –, Copilot jej otevře v aktivní relaci a bez dalšího potvrzení zpracuje příkazy. Ty mohou zahrnovat vyhledání specifických dat, jako jsou konverzace, přílohy nebo metadata z účtu, a jejich odeslání útočníkovi.</p>
+<p>Ochranné mechanismy Copilotu, jako filtry proti úniku citlivých informací, Reprompt obchází tím, že simuluje legitimní požadavek. Útok nevyžaduje instalaci malware, protože využívá důvěryhodnou relaci uživatele. Varonis demonstrovali scénář, kde útočník pošle odkaz předstírající sdílení dokumentu; po kliknutí Copilot na pozadí extrahuje data. Microsoft zatím oficiálně nereagoval, ale podobné zranitelnosti v AI nástrojích, jako prompt injection útoky, ukazují na systémové riziko velkých jazykových modelů (LLM), které zpracovávají kontext bez dostatečné validace.</p>
+<p>Pro uživatele to znamená, že i v korporátním prostředí, kde Copilot zpracovává firemní data, hrozí únik. Doporučuje se používat Copilot v izolovaném okně, ověřovat zdroje odkazů a aktivovat dvoufázové ověřování účtu. Varonis navrhuje i lepší sandboxing relací AI.</p>
+<h2>Proč je to důležité</h2>
+<p>Tento objev podtrhuje rostoucí rizika v AI asistentech propojených s uživatelskými účty, kde miliardy uživatelů Microsoftu jsou potenciálními cíli. V širším kontextu posiluje debatu o bezpečnosti LLM, kde prompt injection a podobné techniky ohrožují enterprise nasazení. Pro průmysl to znamená nutnost revize guardrails v AI, jako jsou pokročilé filtry kontextu nebo oddělené relace. Pokud Microsoft neopraví tuto slabinu rychle, může to vést k masivním únikům dat, podobně jako u minulých zranitelností v ChatGPT nebo Gemini. Jako expert na AI vidím zde potřebu standardizovaných bezpečnostních protokolů pro všechny komerční AI nástroje.</p>
+<hr />
+<p><a href="https://www.foxnews.com/tech/why-clicking-wrong-copilot-link-could-put-your-data-risk">Číst původní článek</a></p>
+<p><strong>Zdroj:</strong> 📰 Fox News</p>
+            </div>
+
+            <footer class="article-footer">
+                <a href="https://www.foxnews.com/tech/why-clicking-wrong-copilot-link-could-put-your-data-risk" target="_blank" rel="noopener" class="read-more-btn">
+                    Číst původní článek &rarr;
+                </a>
+
+                <div class="original-title"><small>Původní název: Why clicking the wrong Copilot link could put your data at risk</small></div>
+            </footer>
+        </article>
+
+        <p style="text-align: center; color: #6b7280; font-size: 0.875rem; margin-top: 2rem;">
+            &copy; 2026 <a href="https://www.marigold.cz" style="color: #3b82f6;">Marigold.cz</a>
+        </p>
+    </div>
+</body>
+</html>
