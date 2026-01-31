@@ -1,7 +1,131 @@
 {
-  "generated": "2026-01-31T16:44:23.193852+00:00",
-  "count": 147,
+  "generated": "2026-01-31T20:40:46.332975+00:00",
+  "count": 153,
   "articles": [
+    {
+      "title": "Akcie herních firem klesají kvůli AI modelu Google, který mění příkazy na herní světy",
+      "description": "Akcie herních společností prudce klesly v pátek odpoledne poté, co Google představil model umělé inteligence Project Genie schopný vytvářet interaktivní digitální světy z jednoduchých textových příkazů nebo nahraných obrázků. Akcie výrobce Grand Theft Auto od Take-Two Interactive klesly o 10 procent, Roblox o více než 12 procent a Unity Software o 21 procent.",
+      "slug": "videogame-stocks-slide-on-googles-ai-model-that-tu",
+      "publishedAt": "2026-01-30T20:01:46+00:00",
+      "date": "2026-01-30 20:01:46",
+      "importance": 4,
+      "category": "herní průmysl",
+      "urlToImage": null,
+      "url": "/tech-news/2026-01-30/videogame-stocks-slide-on-googles-ai-model-that-tu/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "companies": [
+        "Alphabet",
+        "Google",
+        "Take-Two Interactive"
+      ],
+      "people": []
+    },
+    {
+      "title": "Projekt Genie od Googlu není pro vás",
+      "description": "Google zkouší přístup Yann LeCuna k umělé inteligenci. Firma vydala model Genie 3, který generuje interaktivní prostředí, ale jen pro vybrané předplatitele.",
+      "slug": "googles-project-genie-is-not-for-you",
+      "publishedAt": "2026-01-30T19:55:52+00:00",
+      "date": "2026-01-30 19:55:52",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/01/Screenshot-2026-01-30-at-12.01.51 PM-e1769802391492-1200x675.jpg",
+      "url": "/tech-news/2026-01-30/googles-project-genie-is-not-for-you/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": [
+        "Yann LeCun"
+      ]
+    },
+    {
+      "title": "Waymo robotaxi srazilo dítě poblíž školy, spuštěno federální vyšetřování",
+      "description": "Federální vyšetřování zahájila Národní správa pro bezpečnost silničního provozu (NHTSA) po kolizi autonomního vozidla Waymo s mladým žákem v školské zóně v Santa Monice v Kalifornii. Dítě vyběhlo zpoza zaparkovaného SUV a utrpělo jen lehké zranění, přesto incident odhaluje limity senzorových systémů autonomních vozidel.",
+      "slug": "waymo-robotaxi-hits-child-near-school-triggering-f",
+      "publishedAt": "2026-01-30T19:30:00+00:00",
+      "date": "2026-01-30 19:30:00",
+      "importance": 4,
+      "category": "autonomní vozy",
+      "urlToImage": "https://hothardware.com/contentimages/NewsItem/69742/content/16x9_2133x1200_highres-waymo.jpg",
+      "url": "/tech-news/2026-01-30/waymo-robotaxi-hits-child-near-school-triggering-f/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Hot Hardware"
+      },
+      "companies": [
+        "Waymo"
+      ],
+      "people": []
+    },
+    {
+      "title": "Bývalý inženýr Google shledán vinným z špionáže a krádeže AI technologií",
+      "description": "Federální porota shledala bývalého softwarového inženýra Google Linwei Dinga vinným z ekonomické špionáže a krádeže obchodních tajemství souvisejících s AI. Tento případ představuje první odsouzení za ekonomickou špionáž spojenou s umělou inteligencí v USA, podle ministerstva spravedlnosti.",
+      "slug": "former-google-engineer-found-guilty-of-espionage-a",
+      "publishedAt": "2026-01-30T19:05:48+00:00",
+      "date": "2026-01-30 19:05:48",
+      "importance": 5,
+      "category": "průmyslová špionáž",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108230973-17639991772025-11-24t154318z_1737158446_rc2lwq9j2uvq_rtrmadp_0_google-stocks.jpeg?v=1763999195&w=1920&h=1080",
+      "url": "/tech-news/2026-01-30/former-google-engineer-found-guilty-of-espionage-a/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Rover Perseverance od NASA dokončil první jízdu na Marsu plánovanou umělou inteligencí",
+      "description": "Tým šestikolového roveru Perseverance využil AI s vizuálními schopnostmi k vytvoření bezpečné trasy po povrchu Rudé planety bez vstupu lidských plánovačů tras. Mise proběhla 8. a 10. prosince 2025 pod vedením Jet Propulsion Laboratory.",
+      "slug": "nasas-perseverance-rover-completes-first-ai-planne",
+      "publishedAt": "2026-01-30T18:51:46+00:00",
+      "date": "2026-01-30 18:51:46",
+      "importance": 5,
+      "category": "kosmonautika",
+      "urlToImage": "https://www.nasa.gov/wp-content/uploads/2026/01/1-pia26647-navcam-drive-video-thumb.jpg",
+      "url": "/tech-news/2026-01-30/nasas-perseverance-rover-completes-first-ai-planne/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "NASA"
+      },
+      "companies": [
+        "NASA"
+      ],
+      "people": []
+    },
+    {
+      "title": "OpenAI ukončí několik starších modelů v ChatGPT v únoru",
+      "description": "OpenAI plánuje od února 2026 ukončit několik starších modelů v ChatGPT, včetně oblíbeného GPT-4o, který firma přinesla zpět po problematickém spuštění GPT-5. Nejpopulárnější se stává nový model GPT-5.2 s lepší customizací.",
+      "slug": "openai-to-retire-several-older-models-from-chatgpt",
+      "publishedAt": "2026-01-30T18:24:40+00:00",
+      "date": "2026-01-30 18:24:40",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2025/08/OpenAI-GPT-4o.jpg",
+      "url": "/tech-news/2026-01-30/openai-to-retire-several-older-models-from-chatgpt/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Thurrott.com"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
     {
       "title": "Skupina Sandworm z Ruska zaútočila na energetickou společnost v Polsku pomocí DynoWiper, objevila výzkum ESET",
       "description": "Výzkumníci ESET identifikovali nový mazací malware DynoWiper použitý proti energetické společnosti v Polsku. Taktiky, techniky a postupy (TTPs) připomínají útok s wiperem ZOV na Ukrajině, přičemž ESET připisuje útok ruské skupině Sandworm s střední jistotou.",
