@@ -1,7 +1,179 @@
 {
-  "generated": "2026-01-30T20:48:30.477537+00:00",
-  "count": 132,
+  "generated": "2026-01-31T01:28:14.801177+00:00",
+  "count": 140,
   "articles": [
+    {
+      "title": "Generální ředitel Apple slibuje „osobní a soukromou“ umělou inteligenci pro uživatele",
+      "description": "Tim Cook ujišťuje uživatele iPhonu, že jejich soukromí bude zachováno v nové spolupráci, která přináší AI Gemini od Google do Siri.",
+      "slug": "apple-ceo-commits-to-personal-and-private-ai-for-u",
+      "publishedAt": "2026-01-30T00:57:01+00:00",
+      "date": "2026-01-30 00:57:01",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.cultofmac.com/wp-content/uploads/2026/01/Tim-Cook-Apple-Intelligence.jpg.webp",
+      "url": "/tech-news/2026-01-30/apple-ceo-commits-to-personal-and-private-ai-for-u/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Cult of Mac"
+      },
+      "companies": [
+        "Apple",
+        "Google"
+      ],
+      "people": [
+        "Tim Cook"
+      ]
+    },
+    {
+      "title": "Tesla ukončuje výrobu nejdůležitějšího auta 21. století",
+      "description": "Model S si zasloužil lepší osud. Tesla zastavuje produkci svého ikonického sedanu, který otevřel dveře elektromobilitě.",
+      "slug": "tesla-just-killed-the-most-important-car-of-the-21",
+      "publishedAt": "2026-01-30T00:29:00+00:00",
+      "date": "2026-01-30 00:29:00",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://cdn.theatlantic.com/thumbor/TJWCieNe0ngWt2We5BSZYtEz4ZM=/0x43:2000x1085/1200x625/media/img/mt/2026/01/2026_01_29_Tesla_mpg/original.jpg",
+      "url": "/tech-news/2026-01-30/tesla-just-killed-the-most-important-car-of-the-21/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Atlantic"
+      },
+      "companies": [
+        "Tesla"
+      ],
+      "people": []
+    },
+    {
+      "title": "Proč chce Elon Musk umístit centra dat pro AI do vesmíru",
+      "description": "Elon Musk věří, že centra dat pro AI ve vesmíru na solárních satelitech sníží náklady na energii a chlazení. SpaceX na tento koncept vsází velké prostředky v závodě o vedení v umělé inteligenci.",
+      "slug": "why-elon-musk-wants-to-put-ai-data-centres-in-spac",
+      "publishedAt": "2026-01-30T00:21:35+00:00",
+      "date": "2026-01-30 00:21:35",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/b8b7ni/article70568641.ece/alternates/LANDSCAPE_1200/2026-01-22T160725Z_1956941635_RC2G6JAMG4RC_RTRMADP_3_DAVOS-MEETING.JPG",
+      "url": "/tech-news/2026-01-30/why-elon-musk-wants-to-put-ai-data-centres-in-spac/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "companies": [
+        "SpaceX"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Elon Musk údajně zvažuje sloučení Tesla, xAI a SpaceX",
+      "description": "SpaceX prý zvažuje sloučení s Tesla nebo xAI před plánovaným IPO, podle Bloomberg. Akcionáři Tesla by se měli obávat konfliktů zájmů kvůli Muskovo dominantnímu podílu v soukromých firmách.",
+      "slug": "elon-musk-is-rumored-to-be-floating-merger-between",
+      "publishedAt": "2026-01-30T00:00:52+00:00",
+      "date": "2026-01-30 00:00:52",
+      "importance": 4,
+      "category": "sloučení firem",
+      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/01/Elon-Musk-self-dealing-Tesla-Spa.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2026-01-30/elon-musk-is-rumored-to-be-floating-merger-between/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Electrek"
+      },
+      "companies": [
+        "Tesla",
+        "xAI",
+        "SpaceX"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "PwC rozšiřuje alianci s Google Cloud o 400 milionů dolarů na AI řízené bezpečnostní operace",
+      "description": "Společnost PricewaterhouseCoopers oznámila rozšířenou spolupráci s Google Cloud v hodnotě 400 milionů dolarů na tři roky. Cílem je modernizovat bezpečnostní operace organizací a posílit jejich kybernetickou odolnost pomocí umělé inteligence a inteligence o hrozbách.",
+      "slug": "pwc-expands-google-cloud-alliance-with-400m-push-i",
+      "publishedAt": "2026-01-29T23:51:14+00:00",
+      "date": "2026-01-29 23:51:14",
+      "importance": 4,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/pwcgooglecloud.png",
+      "url": "/tech-news/2026-01-29/pwc-expands-google-cloud-alliance-with-400m-push-i/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Pentagon se střetl s Anthropic kvůli vojenskému využití AI: Zpráva",
+      "description": "Po týdnech jednání v rámci smlouvy v hodnotě až 200 milionů dolarů jsou americké ministerstvo obrany a Anthropic v patové situaci kvůli sporu o bezpečnostní omezení AI.",
+      "slug": "pentagon-clashes-with-anthropic-over-military-ai-u",
+      "publishedAt": "2026-01-29T23:46:36+00:00",
+      "date": "2026-01-29 23:46:36",
+      "importance": 4,
+      "category": "vojenské ai",
+      "urlToImage": "https://img.huffingtonpost.com/asset/697bf0e42200007d0a6d8fb4.jpeg?ops=1200_630",
+      "url": "/tech-news/2026-01-29/pentagon-clashes-with-anthropic-over-military-ai-u/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "HuffPost"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": []
+    },
+    {
+      "title": "(PR) Kioxia a Sandisk prodlužují dohodu o společném podniku v Yokkaichi do roku 2034",
+      "description": "Kioxia Corporation a Sandisk Corporation oznámily prodloužení dohod o společném podniku v závodě Yokkaichi o pět let, do 31. prosince 2034. Dohoda zahrnuje platbu 1,165 miliardy USD za výrobní služby a zajištění dodávek pokročilé 3D flash paměti pro aplikace generativní AI.",
+      "slug": "pr-kioxia-and-sandisk-extend-yokkaichi-joint-ventu",
+      "publishedAt": "2026-01-29T23:46:33+00:00",
+      "date": "2026-01-29 23:46:33",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://www.techpowerup.com/img/MIMeNDUoBXS5mOT3.jpg",
+      "url": "/tech-news/2026-01-29/pr-kioxia-and-sandisk-extend-yokkaichi-joint-ventu/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Techpowerup.com"
+      },
+      "companies": [
+        "Kioxia Corporation",
+        "Kioxia Holdings Corporation",
+        "Sandisk Corporation"
+      ],
+      "people": []
+    },
+    {
+      "title": "Apple získal AI startup Q.ai za údajných 2 miliard dolarů",
+      "description": "Apple Inc. koupil izraelskou firmu Q.ai, vývojáře umělé inteligence pro nositelná zařízení, za přibližně 2 miliardy dolarů. Technologie rozpoznává mluvenou i šeptanou řeč v hlučných prostředích analýzou mikro pohybů obličejové kůže a sleduje zdravotní metriky jako srdeční tep.",
+      "slug": "apple-acquires-ai-startup-qai-for-reported-2b",
+      "publishedAt": "2026-01-29T23:29:54+00:00",
+      "date": "2026-01-29 23:29:54",
+      "importance": 5,
+      "category": "ai startupy",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/395180753_cd01024384_b-1.jpg",
+      "url": "/tech-news/2026-01-29/apple-acquires-ai-startup-qai-for-reported-2b/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Apple",
+        "Q.ai"
+      ],
+      "people": []
+    },
     {
       "title": "Waymo otevírá službu na letišti v San Franciscu. Vše, co potřebujete vědět o robotaxi",
       "description": "Zde je přehled, kde autonomní společnost působí a kam se chystá brzy rozšířit.",
