@@ -1,7 +1,169 @@
 {
-  "generated": "2026-01-31T08:43:47.087599+00:00",
-  "count": 137,
+  "generated": "2026-01-31T12:49:15.480965+00:00",
+  "count": 145,
   "articles": [
+    {
+      "title": "Býci i medvědi na Tesle dospěli k dohodě: Toto není automobilový titul",
+      "description": "Dlouholetá debata mezi investory, zda hodnotit Teslu jako automobilku nebo technologickou velmoc, se tento týden blížila k rozuzlení díky plánům firmy na dramatickou přestavbu výrobních linek.",
+      "slug": "tesla-bulls-and-bears-reach-an-agreement-this-is-n",
+      "publishedAt": "2026-01-30T12:26:20+00:00",
+      "date": "2026-01-30 12:26:20",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/01/teslas-eye-watering-valuation-the-stocks-forward-pe-ratio-i.jpg",
+      "url": "/tech-news/2026-01-30/tesla-bulls-and-bears-reach-an-agreement-this-is-n/",
+      "source": {
+        "emoji": "📰",
+        "id": "financial-post",
+        "name": "Financial Post"
+      },
+      "companies": [
+        "Tesla"
+      ],
+      "people": []
+    },
+    {
+      "title": "Indie přitahuje 70 miliard dolarů investic do AI infrastruktury, AI Mission 2.0 za 5-6 měsíců: Ashwini Vaishnaw",
+      "description": "Indie připravuje AI Mission 2.0 po úspěchu první fáze, která přilákala 70 miliard dolarů investic do výpočetní infrastruktury pro umělou inteligenci. Program má rozšířit přístup k této technologii po celé zemi, s diskuzemi se zúčastněnými stranami brzy.",
+      "slug": "india-attracts-70-billion-investment-in-ai-infra-a",
+      "publishedAt": "2026-01-30T12:25:43+00:00",
+      "date": "2026-01-30 12:25:43",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/msid-127801057,width-1200,height-630,imgsize-39842,overlay-economictimes/articleshow.jpg",
+      "url": "/tech-news/2026-01-30/india-attracts-70-billion-investment-in-ai-infra-a/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": [
+        "Ashwini Vaishnaw"
+      ]
+    },
+    {
+      "title": "Co říkají odborníci o největších a nejvíce očekávaných úvodech na burzu letošního roku: SpaceX a OpenAI",
+      "description": "SpaceX a OpenAI s lídry Elonem Muskem a Samem Altmanem patří k klíčovým postavám technologického sektoru. Obě společnosti by mohly vstoupit na burzu v roce 2026.",
+      "slug": "what-smart-people-are-saying-about-the-biggest-mos",
+      "publishedAt": "2026-01-30T12:24:38+00:00",
+      "date": "2026-01-30 12:24:38",
+      "importance": 4,
+      "category": "ipo",
+      "urlToImage": "https://i.insider.com/697c20fae1ba468a96ab03e7?width=1200&format=jpeg",
+      "url": "/tech-news/2026-01-30/what-smart-people-are-saying-about-the-biggest-mos/",
+      "source": {
+        "emoji": "📰",
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "companies": [
+        "SpaceX",
+        "OpenAI"
+      ],
+      "people": [
+        "Elon Musk",
+        "Sam Altman"
+      ]
+    },
+    {
+      "title": "Nvidia: Závislost čínské armády na americké technologii by byla 'nesmyslná', po obviněních z pomoci DeepSeek při trénování AI modelů – kritici vlády nechtěně podporují zahraniční konkurenty",
+      "description": "Amerika by měla vždy chtít, aby její průmysl soutěžil o prověřené a schválené komerční obchody, čímž chrání národní bezpečnost, vytváří americká pracovní místa a udržuje vedení v AI.",
+      "slug": "nvidia-says-chinese-military-dependence-on-america",
+      "publishedAt": "2026-01-30T12:08:05+00:00",
+      "date": "2026-01-30 12:08:05",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/axSw3ek2fcxZ2mRS33b7vk-2560-80.jpg",
+      "url": "/tech-news/2026-01-30/nvidia-says-chinese-military-dependence-on-america/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "companies": [
+        "Nvidia",
+        "Deepseek"
+      ],
+      "people": []
+    },
+    {
+      "title": "VEON spolupracuje s MindBridge na posílení finanční analýzy, auditu a interních kontrol schopnostmi augmentované inteligence",
+      "description": "VEON Ltd. a MindBridge oznámily strategickou spolupráci na nasazení AI nástrojů pro finanční analýzu, interní kontroly a audit napříč globálními operacemi VEON. Společnosti zavádějí platformu Central Insights Factory, která analyzuje všechny transakce pro přesnější identifikaci rizik.",
+      "slug": "veon-partners-with-mindbridge-to-enhance-financial",
+      "publishedAt": "2026-01-30T12:00:00+00:00",
+      "date": "2026-01-30 12:00:00",
+      "importance": 4,
+      "category": "fintech",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/1ef0e1c7-0bca-4edc-851e-87e0e0325851",
+      "url": "/tech-news/2026-01-30/veon-partners-with-mindbridge-to-enhance-financial/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [
+        "VEON",
+        "MindBridge"
+      ],
+      "people": []
+    },
+    {
+      "title": "VenHub zahajuje obchodování na Nasdaq pod tickerem „VHUB“",
+      "description": "Společnost VenHub Global Inc. získala schválení pro listování na Nasdaq a zahajuje obchodování pod tickerem VHUB. Firma představuje plně autonomní chytré obchody, které řeší vítriliónovou tržní příležitost v maloobchodu bez personálu na místě.",
+      "slug": "venhub-begins-trading-on-nasdaq-under-ticker-symbo",
+      "publishedAt": "2026-01-30T12:00:00+00:00",
+      "date": "2026-01-30 12:00:00",
+      "importance": 4,
+      "category": "chytré obchody",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/d690c88d-a706-4af4-92d0-30df57c4e2a0",
+      "url": "/tech-news/2026-01-30/venhub-begins-trading-on-nasdaq-under-ticker-symbo/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [
+        "VenHub"
+      ],
+      "people": []
+    },
+    {
+      "title": "Přehled agentů Kimi K2.5: Zkrácení doby běhu, paralelní agenti a volání nástrojů",
+      "description": "Kimi K2.5 je nový open source multimodalní AI model, který slibuje až čtyřnásobně rychlejší dokončování úkolů oproti vedoucím modelům díky technologii Agent Swarm umožňující paralelní provádění až 100 sub-agentů. Model překonává konkurenty v benchmarkách jako Browser Comp a HLE a nabízí čtyři specializované varianty pro různé aplikace.",
+      "slug": "kimi-k25-agents-overview-cut-run-time-parallel-age",
+      "publishedAt": "2026-01-30T11:42:33+00:00",
+      "date": "2026-01-30 11:42:33",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/01/kimi-k2-5-speed-vs-claude-opus_optimized.jpg",
+      "url": "/tech-news/2026-01-30/kimi-k25-agents-overview-cut-run-time-parallel-age/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Odznaky, bajty a vydírání",
+      "description": "Za kulisami policejní práce v kyberprostoru: co víme o chycených kyberzločincích? Co je dostalo do pasti, odkud pocházejí a jakou roli hráli v kyberzločinném světě.",
+      "slug": "badges-bytes-and-blackmail",
+      "publishedAt": "2026-01-30T11:30:00+00:00",
+      "date": "2026-01-30 11:30:00",
+      "importance": 4,
+      "category": "kyberkriminalita",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEulnS63dy7njgVFds_geMDCv0zmG26xS14G9C5NKNmD7sT42_P_f_GjJhkzZ59m-fobXQGPzP65ioXYtq0edn3Wje7rXn9is0fPlt-XMHhtAtE7cp5B4M_Mw3lwHJ4u-nHOJt4OoyJ1sRd6RXPRXY1dBkFAeOtzAaij6WlX0syPvBqSMV5G2Kt8ylkPU/s1700-e365/orange.jpg",
+      "url": "/tech-news/2026-01-30/badges-bytes-and-blackmail/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Internet"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Jižní Korea zavádí globální milník v zákonech o bezpečnosti umělé inteligence včetně dopadů na duševní zdraví",
       "description": "Jižní Korea přijala zákony o umělé inteligenci a stala se první velkou zemí, která to udělala samostatně. Článek podrobně analyzuje nové předpisy, zdůrazňuje jejich silné i slabé stránky. Exkluzivní pohled od AI Insider.",
