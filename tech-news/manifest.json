@@ -1,7 +1,129 @@
 {
-  "generated": "2026-02-01T16:44:38.539282+00:00",
-  "count": 168,
+  "generated": "2026-02-01T20:40:14.427572+00:00",
+  "count": 174,
   "articles": [
+    {
+      "title": "Rozšiřující se povrch kyberútoků díky AI agentům, modelům a nepřátelským státům vyvolává nová varování",
+      "description": "S urychlujícím se vývojem umělé inteligence rostou obavy o bezpečnost její podpůrné infrastruktury. Vzestup AI agentů přináší nové rizika v oblasti kontroly přístupu a akcí těchto systémů.",
+      "slug": "expanding-cyberattack-surface-from-ai-agents-model",
+      "publishedAt": "2026-01-31T19:52:49+00:00",
+      "date": "2026-01-31 19:52:49",
+      "importance": 4,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/ChatGPT-Image-Jan-30-2026-04_32_48-PM.png",
+      "url": "/tech-news/2026-01-31/expanding-cyberattack-surface-from-ai-agents-model/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Večeře NVIDIA v hodnotě „bilionu dolarů“ s taiwanskými partnery ukazuje, proč Jensen Huang zůstane o krok napřed v dodavatelském řetězci AI",
+      "description": "Generální ředitel NVIDIA Jensen Huang uspořádal večeři s vrcholovými manažery taiwanského dodavatelského řetězce, včetně šéfa TSMC. Tato setkání podtrhují blízké vazby NVIDIA, které jí umožňují odolávat nedostatkům čipů, pamětí DRAM a NAND i pokročilému balení díky vertikální integraci dodavatelů.",
+      "slug": "nvidias-trillion-dollar-dinner-with-taiwanese-part",
+      "publishedAt": "2026-01-31T18:07:55+00:00",
+      "date": "2026-01-31 18:07:55",
+      "importance": 4,
+      "category": "dodavatelský řetězec",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/01/2026_01_31_403ea2673537482d97b1dcd9faec943c-1.jpg",
+      "url": "/tech-news/2026-01-31/nvidias-trillion-dollar-dinner-with-taiwanese-part/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Wccftech"
+      },
+      "companies": [
+        "NVIDIA"
+      ],
+      "people": [
+        "Jensen Huang"
+      ]
+    },
+    {
+      "title": "CoreWeave ukazuje, jak infrastruktura z éry kryptoměn tiše stala páteří AI",
+      "description": "Společnost CoreWeave, původně provozovatel těžby kryptoměn, se přeorientovala na poskytování výpočetní infrastruktury pro AI a stala se jedním z největších nezávislých operátorů GPU mimo hlavní cloudové poskytovatele. Tento posun odhaluje širší trend, kdy hardware z kryptotěžby slouží k tréninku AI modelů, což mění ekonomiku datových center.",
+      "slug": "coreweave-shows-how-crypto-era-infrastructure-quie",
+      "publishedAt": "2026-01-31T18:04:41+00:00",
+      "date": "2026-01-31 18:04:41",
+      "importance": 4,
+      "category": "ai infrastruktura",
+      "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-01/019c14ef-a7bd-7a12-b26b-3ab3b1eba4d9.jpg",
+      "url": "/tech-news/2026-01-31/coreweave-shows-how-crypto-era-infrastructure-quie/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Cointelegraph"
+      },
+      "companies": [
+        "CoreWeave"
+      ],
+      "people": []
+    },
+    {
+      "title": "USA odsoudily bývalého inženýra Google za předávání dat o AI technologiích do Číny",
+      "description": "Federální porota v USA odsoudila Linwei Dinga, bývalého softwarového inženýra Google, za krádež vysoce citlivých dat o infrastruktuře superpočítačů pro AI a jejich tajné předání čínským technologickým firmám.",
+      "slug": "us-convicts-ex-google-engineer-for-sending-ai-tech",
+      "publishedAt": "2026-01-31T17:33:42+00:00",
+      "date": "2026-01-31 17:33:42",
+      "importance": 4,
+      "category": "kyberšpionáž",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2024/06/24/justice-2.jpg",
+      "url": "/tech-news/2026-01-31/us-convicts-ex-google-engineer-for-sending-ai-tech/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Mobilní operátoři mohou získat vaši GPS polohu",
+      "description": "V iOS 26.3 Apple představil novou funkci soukromí, která omezuje data „přesné polohy“ poskytovaná mobilním sítím přes věžové stanice. Funkce je dostupná pouze na zařízeních s vlastním Apple modemem z roku 2025.",
+      "slug": "mobile-carriers-can-get-your-gps-location",
+      "publishedAt": "2026-01-31T17:21:34+00:00",
+      "date": "2026-01-31 17:21:34",
+      "importance": 4,
+      "category": "soukromí polohy",
+      "urlToImage": null,
+      "url": "/tech-news/2026-01-31/mobile-carriers-can-get-your-gps-location/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Dywa.ng"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "SpaceX žádá FCC o povolení k vybudování konstelace datových center ve vesmíru",
+      "description": "SpaceX podala žádost k Federální komisi pro komunikace (FCC) o vypuštění až jednoho milionu satelitů do oběžné dráhy Země. Cílem je vytvořit solárně napájenou síť datových center pro zpracování dat pro umělou inteligenci.",
+      "slug": "spacex-seeks-fcc-nod-to-build-data-center-constell",
+      "publishedAt": "2026-01-31T17:13:48+00:00",
+      "date": "2026-01-31 17:13:48",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": null,
+      "url": "/tech-news/2026-01-31/spacex-seeks-fcc-nod-to-build-data-center-constell/",
+      "source": {
+        "emoji": "📰",
+        "id": "financial-post",
+        "name": "Financial Post"
+      },
+      "companies": [
+        "SpaceX"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
     {
       "title": "Když se agentické systémy umělé inteligence dostanou do špatných rukou",
       "description": "Agentická umělá inteligence mění každodenní život, ale její autonomie přináší naléhavá rizika pro soukromí, bezpečnost a etiku. Systémy schopné autonomního rozhodování zpracovávají citlivá data, což je činí atraktivním cílem pro zneužití.",
