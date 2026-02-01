@@ -1,13 +1,13 @@
 ---
 layout: default
 ---
-<!-- start Mermaid run code --> 
+<!-- start Mermaid run code -->
 <script type="module">
   import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10.0.2/+esm'
   mermaid.initialize({startOnLoad:true,theme:'neutral'})
   await mermaid.run({querySelector:'code.language-mermaid'})
 </script>
-<!-- end fMermaid run code --> 
+<!-- end fMermaid run code -->
 
 
 <!-- místo původního feedwind code -->
@@ -123,19 +123,13 @@ layout: default
 <article class="post detailed">
   <h1>{{ page.title }}</h1>
 
-  {% if page.categories contains "AI" %}
   <div class="posts">
     <blockquote>
-      <p>💡 Letní <a href="https://skola.prolnuto.cz/">škola AI</a> zdarma! Každý pracovní den jedna lekce, za tři týdny jste v obraze. <br/>👉 Přidejte se zdarma na <a href="https://skola.prolnuto.cz/">skola.prolnuto.cz</a></p>
+      <p>💡 Reklama v Patrickově newsletteru? <a href="https://www.mailpromo.cz/">Vyzkoušejte MailPromo</a> - nový reklamní nástroj pro newslettery. <br/>👉  <a href="https://www.mailpromo.cz/">MailPromo.cz</a></p>
     </blockquote>
   </div>
-  {% elsif page.categories contains "projev" %}
-  <div class="posts">
-    <blockquote>
-      <p>💡 <a href="/projevy/">Překlady zajímavých projevů a přednášek - zde</a></p>
-    </blockquote>
-  </div>
-  {% endif %}
+
+
 
   {% if page.collection != 'obrazy' %}
   <!-- Zde se zobrazí obsah pro všechny ostatní kolekce než 'obrazy' -->
@@ -157,8 +151,8 @@ layout: default
   {% when '11' %}listopad
   {% when '12' %}prosinec
 {% endcase %}
-{{ page.date | date: "%Y" }} 
-    
+{{ page.date | date: "%Y" }}
+
     </p>
 
     {% if page.last_modified_at %}
@@ -176,7 +170,7 @@ layout: default
         {% unless forloop.last %}&nbsp;{% endunless %}
       {% endfor %}
     </div>
-   
+
   </div>
 
   {% if page.thumbnail %}
@@ -202,7 +196,7 @@ layout: default
     </ul>
   </div>
 
-  
+
 
 <style>
 .quick-summary {
@@ -255,16 +249,16 @@ layout: default
         background: linear-gradient(145deg, #2d3748, #1a202c);
         box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.2);
     }
-    
+
     .quick-summary-header {
         color: #e2e8f0;
     }
-    
+
     .summary-icon,
     .summary-points li {
         color: #cbd5e0;
     }
-    
+
     .summary-points li::before {
         color: #7f9cf5;
     }
@@ -287,7 +281,7 @@ layout: default
   </div>
 
   <div class="ai-rubric-link">
-    
+
     <!-- Přidání tabulky s náhodně vybranými obrazy pouze pro články z kolekce Obrazy -->
     {% if page.url contains '/obrazy/' %}
     <div class="related-posts">
@@ -320,7 +314,7 @@ layout: default
             <tr>
               <td colspan="3">Žádné podobné obrazy nebyly nalezeny.</td>
             </tr>
-          {% endif %}          
+          {% endif %}
         </tbody>
       </table>
     </div>
@@ -337,10 +331,10 @@ layout: default
     <div id="feedback-widget"></div>
 
     <!-- Widget se vloží do #feedback-widget -->
-    <script 
-        src="https://top.marigold.cz/mg-feedback.js" 
-        data-slug="{{ page.url | slugify }}" 
-        data-title="{{ page.title }}" 
+    <script
+        src="https://top.marigold.cz/mg-feedback.js"
+        data-slug="{{ page.url | slugify }}"
+        data-title="{{ page.title }}"
         data-url="{{ site.url }}{{ page.url }}"
         data-target="#feedback-widget"
     ></script>
@@ -372,7 +366,7 @@ layout: default
         </tbody>
       </table>
     </div>
-  {% endif %}  
+  {% endif %}
 
 
 
@@ -382,7 +376,7 @@ layout: default
   </div>
 
   <div>
-    <p><span class="share-box">Sdílejte článek:</span> <a href="http://twitter.com/share?text={{ page.title }}&url={{site.url}}{{page.url}}" target="_blank">Twitter</a>, <a href="https://www.facebook.com/sharer.php?u={{site.url}}{{page.url}}" target="_blank">Facebook</a>, 
+    <p><span class="share-box">Sdílejte článek:</span> <a href="http://twitter.com/share?text={{ page.title }}&url={{site.url}}{{page.url}}" target="_blank">Twitter</a>, <a href="https://www.facebook.com/sharer.php?u={{site.url}}{{page.url}}" target="_blank">Facebook</a>,
 
     {% if page.path %}
       <a href="{{ site.github_repo }}/blob/main/{{ page.path }}" target="_blank">
@@ -395,7 +389,7 @@ layout: default
       {% if page.previous.url %}
         <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a> |
       {% endif %}
-      
+
       {% if page.next.url %}
         <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
       {% endif %}
@@ -412,51 +406,51 @@ layout: default
 document.addEventListener('DOMContentLoaded', function() {
     // Najdi všechny code bloky (kromě Mermaid)
     const codeBlocks = document.querySelectorAll('pre:not(:has(code.language-mermaid))');
-    
+
     codeBlocks.forEach((codeBlock, index) => {
         // Vytvoř kontejner pro code block
         const container = document.createElement('div');
         container.className = 'code-block-container';
-        
+
         // Vytvoř tlačítko kopírovat
         const copyButton = document.createElement('button');
         copyButton.className = 'copy-button';
         copyButton.textContent = 'Kopírovat';
         copyButton.setAttribute('data-index', index);
-        
+
         // Vlož code block a tlačítko do kontejneru
         codeBlock.parentNode.insertBefore(container, codeBlock);
         container.appendChild(copyButton);
         container.appendChild(codeBlock);
-        
+
         // Přidej event listener na tlačítko
         copyButton.addEventListener('click', async () => {
             try {
                 // Získej text z code bloku
                 const code = codeBlock.querySelector('code') || codeBlock;
                 const text = code.textContent;
-                
+
                 // Kopíruj do schránky
                 await navigator.clipboard.writeText(text);
-                
+
                 // Změň stav tlačítka
                 copyButton.textContent = 'Zkopírováno!';
                 copyButton.classList.add('copied');
-                
+
                 // Zobraz toast notifikaci
                 showToast();
-                
+
                 // Po 2 sekundách vrať původní stav
                 setTimeout(() => {
                     copyButton.textContent = 'Kopírovat';
                     copyButton.classList.remove('copied');
                 }, 2000);
-                
+
             } catch (err) {
                 console.error('Chyba při kopírování:', err);
                 copyButton.textContent = 'Chyba';
                 copyButton.classList.add('copied');
-                
+
                 setTimeout(() => {
                     copyButton.textContent = 'Kopírovat';
                     copyButton.classList.remove('copied');

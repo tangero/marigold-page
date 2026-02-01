@@ -1,0 +1,49 @@
+name: Archive Tech News
+
+on:
+  schedule:
+    - cron: '30 2 * * *'  # Denně ve 2:30 UTC
+  workflow_dispatch:
+
+env:
+  TZ: Europe/Prague
+
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Archive old tech_news
+        run: |
+          echo "Archivuji tech_news starší než 7 dní..."
+          python scripts/archive_tech_news.py --days 7
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "Tech News Bot"
+          git config user.email "actions@github.com"
+          git add tech-news-archive/ _tech_news/ || true
+          if git diff --staged --quiet; then
+            echo "Žádné nové archivované články"
+            exit 0
+          fi
+          git commit -m "Archivace starých tech_news [skip ci]"
+          git pull --rebase || true
+          git push

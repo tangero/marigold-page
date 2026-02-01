@@ -41,3 +41,4 @@ _audio/2025-05-25-microsoft-build-2025.mp3
 *.backup
 *-shm
 *-wal
+.DS_Store

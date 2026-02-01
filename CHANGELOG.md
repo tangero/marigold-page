@@ -7,6 +7,13 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
 
 ## [Unreleased]
 
+### Removed
+- **LLM rubrika deaktivována** - služba přesunuta na jiný server
+  - Smazán GitHub Actions workflow `llm-tracker.yml` (denní generování zastaveno)
+  - Odstraněna kolekce `llm` z `_config.yml` (stránky se negenerují)
+  - Smazána hlavní stránka `_pages/llm.md`
+  - Soubory v `_llm/`, skripty a layouty ponechány jako archiv
+
 ### Changed
 - **Migrace z OneSignal na Firebase Cloud Messaging (FCM)** - kompletní přepracování push notifikací
   - Nový service worker `firebase-messaging-sw.js` pro FCM

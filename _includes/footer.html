@@ -1,63 +1,95 @@
 <footer class="site-footer">
-  <div class="footer-compact">
-    <!-- Řádek 1: Sociální ikony + Copyright -->
-    <div class="footer-row footer-social-row">
-      <div class="social-icons">
-        {% if site.footer-links.email %}
-          <a href="mailto:{{ site.footer-links.email }}" title="Email" aria-label="Email">
-            <i class="svg-icon email"></i>
-          </a>
-        {% endif %}
-        {% if site.footer-links.facebook %}
-          <a href="https://www.facebook.com/{{ site.footer-links.facebook }}" title="Facebook" aria-label="Facebook">
-            <i class="svg-icon facebook"></i>
-          </a>
-        {% endif %}
-        {% if site.footer-links.twitter %}
-          <a href="https://www.twitter.com/{{ site.footer-links.twitter }}" title="Twitter" aria-label="Twitter">
-            <i class="svg-icon twitter"></i>
-          </a>
-        {% endif %}
-        {% if site.footer-links.linkedin %}
-          <a href="https://www.linkedin.com/in/{{ site.footer-links.linkedin }}" title="LinkedIn" aria-label="LinkedIn">
-            <i class="svg-icon linkedin"></i>
-          </a>
-        {% endif %}
-        {% if site.footer-links.rss %}
-          <a href="/feed.xml" title="RSS Feed" aria-label="RSS Feed">
-            <i class="svg-icon rss"></i>
-          </a>
-        {% endif %}
-      </div>
-      <div class="copyright">
-        &copy; {{ 'now' | date: "%Y" }} {{ site.name }}
-      </div>
-    </div>
+    <div class="footer-compact">
+        <!-- Řádek 1: Sociální ikony + Copyright -->
+        <div class="footer-row footer-social-row">
+            <div class="social-icons">
+                {% if site.footer-links.email %}
+                <a
+                    href="mailto:{{ site.footer-links.email }}"
+                    title="Email"
+                    aria-label="Email"
+                >
+                    <i class="svg-icon email"></i>
+                </a>
+                {% endif %} {% if site.footer-links.facebook %}
+                <a
+                    href="https://www.facebook.com/{{ site.footer-links.facebook }}"
+                    title="Facebook"
+                    aria-label="Facebook"
+                >
+                    <i class="svg-icon facebook"></i>
+                </a>
+                {% endif %} {% if site.footer-links.twitter %}
+                <a
+                    href="https://www.twitter.com/{{ site.footer-links.twitter }}"
+                    title="Twitter"
+                    aria-label="Twitter"
+                >
+                    <i class="svg-icon twitter"></i>
+                </a>
+                {% endif %} {% if site.footer-links.linkedin %}
+                <a
+                    href="https://www.linkedin.com/in/{{ site.footer-links.linkedin }}"
+                    title="LinkedIn"
+                    aria-label="LinkedIn"
+                >
+                    <i class="svg-icon linkedin"></i>
+                </a>
+                {% endif %} {% if site.footer-links.rss %}
+                <a href="/feed.xml" title="RSS Feed" aria-label="RSS Feed">
+                    <i class="svg-icon rss"></i>
+                </a>
+                {% endif %}
+            </div>
+            <div class="copyright">
+                &copy; {{ 'now' | date: "%Y" }} {{ site.name }}
+            </div>
+        </div>
 
-    <!-- Řádek 2: Projekty -->
-    <div class="footer-row footer-projects-row">
-      <a href="https://www.marigold.cz">Marigold.cz</a> |
-      <a href="https://www.zitraslavni.cz">Spisovatelský klub Zítraslavní.cz</a> |
-      <a href="https://www.vibecoding.cz">VibeCoding.cz</a> |
-      <a href="https://www.topflix.cz">Co sledovat na Netflixu? TopFlix.cz</a> |
-      <a href="https://zandl.substack.com">Patrickův Newsletter</a> |
-      <a href="https://www.kronium.eu">LED svítilny do outdooru</a> |
-      <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a> |
-      <a href="https://www.brandysboleslav.cz/urednideska">Úřední deska Brandýs nad Labem-Stará Boleslav</a> |
-      <a href="https://skola.prolnuto.cz/">Letní škola AI</a> |
-      <a href="/changelog/">Changelog Marigold.cz</a>
-    </div>
+        <!-- Řádek 2: Projekty -->
+        <div class="footer-row footer-projects-row">
+            <a href="https://www.marigold.cz">Marigold.cz</a> |
+            <a href="https://www.zitraslavni.cz"
+                >Spisovatelský klub Zítraslavní.cz</a
+            >
+            | <a href="https://www.vibecoding.cz">VibeCoding.cz</a> |
+            <a href="https://www.topflix.cz"
+                >Co sledovat na Netflixu? TopFlix.cz</a
+            >
+            | <a href="https://zandl.substack.com">Patrickův Newsletter</a> |
+            <a href="https://www.kronium.eu">LED svítilny do outdooru</a> |
+            <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a>
+            |
+            <a href="https://www.brandysboleslav.cz/"
+                >Piráti Brandýs nad Labem-Stará Boleslav</a
+            >
+            |
+            <a href="https://www.3gpp-explorer.com/">3GPP 4G/5G specifikace</a>
+            | <a href="https://www.mailpromo.cz/">Reklama v newsletteru</a> |
+            <a href="https://www.topflix.cz/">Co dávají na Netflixu</a> |
+            <a href="/changelog/">Changelog Marigold.cz</a>
+        </div>
 
-    <!-- Řádek 3: Badges -->
-    <div class="footer-row footer-partners-row">
-      <a title="GDPR-compliant Web Analytics" href="https://clicky.com/101451859">
-        <img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" />
-      </a>
-      <a href="https://github.com/tangero/marigold-page">
-        <img src="https://img.shields.io/github/last-commit/tangero/marigold-page" alt="GitHub Last Commit">
-      </a>
+        <!-- Řádek 3: Badges -->
+        <div class="footer-row footer-partners-row">
+            <a
+                title="GDPR-compliant Web Analytics"
+                href="https://clicky.com/101451859"
+            >
+                <img
+                    alt="Clicky"
+                    src="//static.getclicky.com/media/links/badge.gif"
+                    border="0"
+                />
+            </a>
+            <a href="https://github.com/tangero/marigold-page">
+                <img
+                    src="https://img.shields.io/github/last-commit/tangero/marigold-page"
+                    alt="GitHub Last Commit"
+                />
+            </a>
+        </div>
     </div>
-  </div>
 </footer>
 
 <!-- Analytics skripty -->

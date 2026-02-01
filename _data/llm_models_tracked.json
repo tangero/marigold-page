@@ -1,8 +1,8 @@
 {
   "watermark": {
-    "model_id": "writer/palmyra-x5",
-    "created_timestamp": 1769003823,
-    "updated_at": "2026-01-22T07:26:13.720403"
+    "model_id": "arcee-ai/trinity-large-preview:free",
+    "created_timestamp": 1769552670,
+    "updated_at": "2026-01-28T07:27:46.245928"
   },
   "analyzed_models": {
     "openai/gpt-5.1-codex-max": {
@@ -197,11 +197,39 @@
       "analyzed_at": "2026-01-22T07:26:13.720389",
       "success": true,
       "file_path": "/home/runner/work/marigold-page/marigold-page/_llm/2026-01-21-writer-palmyra-x5.md"
+    },
+    "minimax/minimax-m2-her": {
+      "name": "MiniMax: MiniMax M2-her",
+      "created_timestamp": 1769177239,
+      "analyzed_at": "2026-01-25T07:23:42.715950",
+      "success": true,
+      "file_path": "/home/runner/work/marigold-page/marigold-page/_llm/2026-01-23-minimax-minimax-m2-her.md"
+    },
+    "upstage/solar-pro-3:free": {
+      "name": "Upstage: Solar Pro 3 (free)",
+      "created_timestamp": 1769481200,
+      "analyzed_at": "2026-01-27T07:26:20.185934",
+      "success": true,
+      "file_path": "/home/runner/work/marigold-page/marigold-page/_llm/2026-01-27-upstage-solar-pro-3-free.md"
+    },
+    "moonshotai/kimi-k2.5": {
+      "name": "MoonshotAI: Kimi K2.5",
+      "created_timestamp": 1769487076,
+      "analyzed_at": "2026-01-27T07:26:57.218274",
+      "success": true,
+      "file_path": "/home/runner/work/marigold-page/marigold-page/_llm/2026-01-27-moonshotai-kimi-k2-5.md"
+    },
+    "arcee-ai/trinity-large-preview:free": {
+      "name": "Arcee AI: Trinity Large Preview (free)",
+      "created_timestamp": 1769552670,
+      "analyzed_at": "2026-01-28T07:27:46.245914",
+      "success": true,
+      "file_path": "/home/runner/work/marigold-page/marigold-page/_llm/2026-01-27-arcee-ai-trinity-large-preview-free.md"
     }
   },
   "statistics": {
-    "total_analyzed": 28,
-    "last_check": "2026-01-22T07:26:13.720801",
+    "total_analyzed": 32,
+    "last_check": "2026-01-28T07:27:46.246356",
     "last_new_models_found": 1
   }
 }

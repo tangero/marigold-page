@@ -1,17 +1,25 @@
-name: Build and Deploy
+name: Build and Deploy (GitHub Pages)
 on:
   push:
     branches:
       - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
@@ -20,55 +28,7 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.2'
-          bundler-cache: false
-
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.x'
-          cache: 'pip'
-
-      - name: Install Ruby dependencies
-        run: |
-          rm -rf vendor/bundle
-          bundle config set --local path 'vendor/bundle'
-          bundle install --jobs 4 --retry 3 --clean
-
-      - name: Install Python dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
-
-      - name: Configure Git
-        run: |
-          git config --global user.name 'GitHub Actions Bot'
-          git config --global user.email 'actions@github.com'
-
-      - name: Generate summaries
-        env:
-          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
-        run: |
-          python generate_summaries.py
-          git add _posts/*.md
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "Add article summaries [skip ci]"
-            git push
-          fi
-
-      - name: Archive old tech_news
-        run: |
-          echo "Archivuji tech_news starší než 7 dní..."
-          python scripts/archive_tech_news.py --days 7
-          # Commitni změny pokud existují
-          git add tech-news-archive/ _tech_news/ || true
-          if git diff --staged --quiet; then
-            echo "Žádné nové archivované články"
-          else
-            git commit -m "Archivace starých tech_news [skip ci]"
-            git push
-          fi
+          bundler-cache: true
 
       - name: Build Jekyll site
         run: JEKYLL_ENV=production bundle exec jekyll build
@@ -77,9 +37,18 @@ jobs:
           LANGUAGE: en_US
           LC_ALL: en_US.UTF-8
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./_site
-          full_commit_message: Deploy site update
+          path: ./_site
+
+  deploy:
+    runs-on: ubuntu-latest
+    needs: build
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
