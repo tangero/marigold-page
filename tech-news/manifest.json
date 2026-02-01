@@ -1,7 +1,50 @@
 {
-  "generated": "2026-02-01T08:42:21.090852+00:00",
+  "generated": "2026-02-01T12:45:27.893609+00:00",
   "count": 164,
   "articles": [
+    {
+      "title": "Dohoda NVIDIA s OpenAI za 100 miliard dolarů je v ohrožení: Jensen Huang kritizuje nedostatek disciplíny a rivalové jako Anthropic a Google se zlepšují",
+      "description": "NVIDIA ještě neuzavřela svou největší investici do OpenAI v hodnotě 100 miliard dolarů na dodávku výpočetního výkonu multi-GW. CEO Jensen Huang soukromě kritizuje byznysový přístup OpenAI za nedostatek disciplíny, zatímco konkurenti jako Anthropic a Google posilují své pozice.",
+      "slug": "nvidias-100-billion-mega-deal-with-openai-is-in-da",
+      "publishedAt": "2026-01-31T09:53:29+00:00",
+      "date": "2026-01-31 09:53:29",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://wccftech.com/wp-content/uploads/2026/01/Nvidia-CEO-Jensen-Huang-complains-about-stock-price-slide-during-all-hands-meeting-—-says-market-did-not-appreciate-companys-incredible-quarter-updated-with-Nvidia-comment-Toms-Hardware192.jpg",
+      "url": "/tech-news/2026-01-31/nvidias-100-billion-mega-deal-with-openai-is-in-da/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Wccftech"
+      },
+      "companies": [
+        "NVIDIA",
+        "OpenAI"
+      ],
+      "people": [
+        "Jensen Huang"
+      ]
+    },
+    {
+      "title": "Bývalý inženýr Google odsouzen za ekonomickou špionáž a krádež důvěrných AI technologií",
+      "description": "Federální porota v San Franciscu odsoudila bývalého softwarového inženýra Google Linwei Dinga ze sedmi obvinění z ekonomické špionáže a sedmi z krádeže obchodních tajemství. Ding ukradl tisíce stránek důvěrných informací o AI technologiích Google ve prospěch Čínské lidové republiky.",
+      "slug": "former-google-engineer-found-guilty-of-economic-es",
+      "publishedAt": "2026-01-31T08:34:40+00:00",
+      "date": "2026-01-31 08:34:40",
+      "importance": 5,
+      "category": "ai",
+      "urlToImage": null,
+      "url": "/tech-news/2026-01-31/former-google-engineer-found-guilty-of-economic-es/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
     {
       "title": "SpaceX žádá FCC o povolení k 1 milionu AI satelitů ve vesmíru",
       "description": "Společnost SpaceX podala žádost americkému regulačnímu orgánu FCC na výstavbu orbitálních datových center s až 1 milionem satelitů určených pro AI inference. Projekt je označen jako první krok k vytvoření Kardashevovy civilizace typu 2, která by využívala veškerou energii Slunce.",
@@ -175,30 +218,6 @@
       ]
     },
     {
-      "title": "Americký soudce naznačuje, že xAI Elona Muska může prohrát žalobu proti OpenAI Sama Altmana za krádež obchodních tajemství",
-      "description": "Federální soudkyně v San Franciscu signalizovala, že může zamítnout žalobu startupu xAI Elona Muska, který obviňuje konkurenční OpenAI Sama Altmana z krádeže obchodních tajemství pro nekalou výhodu v rozvoji umělé inteligence.",
-      "slug": "us-judge-signals-musks-xai-may-lose-lawsuit-accusi",
-      "publishedAt": "2026-01-31T01:32:38+00:00",
-      "date": "2026-01-31 01:32:38",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-49012,resizemode-75,msid-127812716/tech/technology/us-judge-signals-musks-xai-may-lose-lawsuit-accusing-altmans-openai-of-stealing-trade-secrets.jpg",
-      "url": "/tech-news/2026-01-31/us-judge-signals-musks-xai-may-lose-lawsuit-accusi/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "xAI",
-        "OpenAI"
-      ],
-      "people": [
-        "Elon Musk",
-        "Sam Altman"
-      ]
-    },
-    {
       "title": "Analýza: Spojení SpaceX s xAI může být pro Musk Inc jednoduché, ale Tesla je složitější",
       "description": "Fanoušci Elona Muska a sám podnikatel dlouho spekulují o sloučení jeho firem do Musk Inc. Zatímco fúze SpaceX s xAI by mohla být hladká jako spoj mezi dvěma soukromými subjekty, spojení se Tesla čelí výzvám kvůli její veřejné povaze a přechodu na robotaxi.",
       "slug": "analysiscombining-spacex-with-xai-may-be-simple-fo",
@@ -298,26 +317,6 @@
         "emoji": "📰",
         "id": null,
         "name": "New York Post"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Bývalý inženýr Google shledán vinným z ekonomické špionáže a krádeže důvěrných technologií umělé inteligence",
-      "description": "Bývalý zaměstnanec Google Linwei Ding byl americkým soudem shledán vinným z ekonomické špionáže a krádeže obchodních tajemství souvisejících s AI. Předal citlivé údaje o superpočítačových čipech čínským firmám, což ohrozilo technologickou převahu USA.",
-      "slug": "former-google-engineer-found-guilty-of-economic-es",
-      "publishedAt": "2026-01-30T22:52:52+00:00",
-      "date": "2026-01-30 22:52:52",
-      "importance": 5,
-      "category": "ekonomická špionáž",
-      "urlToImage": null,
-      "url": "/tech-news/2026-01-30/former-google-engineer-found-guilty-of-economic-es/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Slashdot.org"
       },
       "companies": [
         "Google"
