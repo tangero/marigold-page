@@ -1,15 +1,55 @@
 {
-  "generated": "2026-02-01T05:40:45.596985+00:00",
-  "count": 162,
+  "generated": "2026-02-01T08:42:21.090852+00:00",
+  "count": 164,
   "articles": [
     {
-      "title": "Bývalý inženýr Google odsouzen v případu špionáže v oblasti AI",
-      "description": "Federální porota v San Franciscu odsoudila bývalého softwarového inženýra Google za krádež citlivých obchodních tajemství v oblasti umělé inteligence ve prospěch Číny. Jedná se o první odsouzení za ekonomickou špionáž související s AI, uvedli američtí představitelé.",
+      "title": "SpaceX žádá FCC o povolení k 1 milionu AI satelitů ve vesmíru",
+      "description": "Společnost SpaceX podala žádost americkému regulačnímu orgánu FCC na výstavbu orbitálních datových center s až 1 milionem satelitů určených pro AI inference. Projekt je označen jako první krok k vytvoření Kardashevovy civilizace typu 2, která by využívala veškerou energii Slunce.",
+      "slug": "spacex-applies-to-fcc-for-1-million-ai-satellites-",
+      "publishedAt": "2026-01-31T05:54:00+00:00",
+      "date": "2026-01-31 05:54:00",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2025/10/starlinkv3.jpg",
+      "url": "/tech-news/2026-01-31/spacex-applies-to-fcc-for-1-million-ai-satellites/",
+      "source": {
+        "emoji": "📰",
+        "id": "next-big-future",
+        "name": "Next Big Future"
+      },
+      "companies": [
+        "SpaceX"
+      ],
+      "people": [
+        "Kardashev"
+      ]
+    },
+    {
+      "title": "Smlouva o volném obchodu Indie a EU staví „obousměrný most“ pro inovace: francouzský velvyslanec v USA Laurent Bili",
+      "description": "Laurent Bili, francouzský velvyslanec ve Spojených státech, na setkání uvedl, že smlouva o volném obchodu posiluje spolupráci mezi Evropou a Indií v klíčových sektorech včetně inovací a technologií.",
+      "slug": "india-eu-fta-builds-two-way-bridge-for-innovation-",
+      "publishedAt": "2026-01-31T03:55:50+00:00",
+      "date": "2026-01-31 03:55:50",
+      "importance": 4,
+      "category": "volný obchod",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/e88llv/article70573085.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_KSL_U153MENSK_R1522080312_7_8435e6a5-8b34-44c1-9e41-6634e9a7d3ef.jpg",
+      "url": "/tech-news/2026-01-31/india-eu-fta-builds-two-way-bridge-for-innovation/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Bývalý inženýr Google odsouzen v případu špionáže s umělou inteligencí",
+      "description": "Federální porota v San Franciscu uznala bývalého softwarového inženýra Google Linwei Dinga vinným z krádeže citlivých obchodních tajemství o umělé inteligencí ve prospěch Číny. Jedná se o první odsouzení za ekonomickou špionáž související s AI, což podtrhuje rostoucí napětí v globálním závodě o technologii AI.",
       "slug": "former-google-engineer-convicted-in-ai-espionage-c",
       "publishedAt": "2026-01-31T03:48:31+00:00",
       "date": "2026-01-31 03:48:31",
-      "importance": 5,
-      "category": "ekonomická špionáž",
+      "importance": 4,
+      "category": "ai špionáž",
       "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-35046,resizemode-75,msid-127813540/tech/technology/former-google-engineer-convicted-in-ai-espionage-case.jpg",
       "url": "/tech-news/2026-01-31/former-google-engineer-convicted-in-ai-espionage-c/",
       "source": {
@@ -24,7 +64,7 @@
     },
     {
       "title": "Faraday Future i Tesla plánují rozjezd výroby robotů",
-      "description": "Dva kalifornští výrobci automobilů, jeden velký a jeden malý, se obracejí k výrobě robotů ve svých kalifornských továrnách, jak oznámili v posledních dnech. Tesla cílí na milion kusů humanoidních robotů Optimus ročně ve Fremontu.",
+      "description": "Dva kalifornští výrobci automobilů, jeden obří a jeden malý, se obracejí k výrobě robotů ve svých kalifornských závodech, jak oznámili v posledních dnech. Tesla cílí na masovou produkci humanoidního robota Optimus v továrně v Fremontu.",
       "slug": "faraday-future-tesla-each-plan-robot-rollout-john-",
       "publishedAt": "2026-01-31T03:46:00+00:00",
       "date": "2026-01-31 03:46:00",
@@ -45,7 +85,7 @@
     },
     {
       "title": "Anthropic představuje pluginy pro Claude Cowork k automatizaci více úkolů",
-      "description": "Společnost Anthropic PBC dnes vydala aktualizaci pro nástroj Claude Cowork, která uživatelům umožňuje rozšířit jeho funkce vlastními pluginy. Claude Cowork slouží k automatizaci vícekrokových úkolů v souborových složkách a prohlížeči uživatele.",
+      "description": "Společnost Anthropic PBC dnes vydala aktualizaci pro nástroj Claude Cowork, která uživatelům umožňuje rozšířit jeho funkce vlastními pluginy. Claude Cowork slouží k automatizaci vícekrokových úkolů v souborech a prohlížeči, například k sumarizaci nově stažených obchodních dokumentů.",
       "slug": "anthropic-debuts-claude-cowork-plugins-to-help-use",
       "publishedAt": "2026-01-31T01:53:15+00:00",
       "date": "2026-01-31 01:53:15",
@@ -64,8 +104,8 @@
       "people": []
     },
     {
-      "title": "SpaceX zvažuje fúzi s Tesla nebo xAI",
-      "description": "SpaceX podle zdrojů blízkých věci zvažuje možnou fúzi s Tesla nebo xAI, což by mohlo vést k konsolidaci impéria Elona Muska. Bloomberg Technology analyzuje potenciální dopady této spekulace.",
+      "title": "SpaceX údajně zvažuje fúzi s Tesla nebo xAI",
+      "description": "SpaceX zvažuje možnou fúzi s Tesla nebo xAI podle zdrojů obeznámených se situací. Bloomberg Technology analyzuje, co by konsolidace impéria Elona Muska znamenala pro technologie a trh.",
       "slug": "spacex-said-to-consider-merger-with-tesla-or-xai-4",
       "publishedAt": "2026-01-31T01:48:12+00:00",
       "date": "2026-01-31 01:48:12",
@@ -89,7 +129,7 @@
     },
     {
       "title": "Spojení SpaceX s xAI může být pro Muska jednoduché, Tesla však ne",
-      "description": "Fanoušci Elona Muska a sám vlastník dlouho uvažují o fúzi jeho firem do 'Musk Inc.'. SpaceX se blíží k akvizici xAI, což by usnadnilo plány na datová centra ve vesmíru, zatímco spojení s Teslou by vyžadovalo schválení akcionářů.",
+      "description": "Elon Musk a jeho fanoušci dlouho diskutují o sloučení jeho firem do jediného konglomerátu Musk Inc. SpaceX se podle zpráv blíží k akvizici xAI, což by umožnilo datová centra ve vesmíru, zatímco spojení se Teslou by vyžadovalo schválení akcionářů a čelilo by větším překážkám.",
       "slug": "combining-spacex-with-xai-may-be-simple-for-musk-b",
       "publishedAt": "2026-01-31T01:42:34+00:00",
       "date": "2026-01-31 01:42:34",
@@ -112,12 +152,12 @@
       ]
     },
     {
-      "title": "Starlink od Muska aktualizuje zásady ochrany soukromí, umožňuje použití dat zákazníků k trénování AI",
-      "description": "Společnost SpaceX aktualizovala globální zásady ochrany soukromí služby Starlink, aby umožnila využívat data uživatelů k trénování modelů umělé inteligence, pokud se neodoptují. Toto se děje v době jednání o sloučení s Muskovo firmou xAI před plánovaným velkým úvodem na burzu.",
+      "title": "Starlink Elona Muska aktualizuje zásady ochrany soukromí pro trénování AI na datech zákazníků",
+      "description": "SpaceX aktualizovalo zásady ochrany soukromí Starlinku, aby umožnilo použití dat uživatelů k trénování modelů umělé inteligence, pokud se nevyoptují. Tato změna přichází před plánovaným IPO a jednáními o sloučení s Muskovo AI firmou xAI, která by mohla zvýšit hodnotu SpaceX nad 1 bilion dolarů.",
       "slug": "musks-starlink-updates-privacy-policy-to-allow-con",
       "publishedAt": "2026-01-31T01:36:37+00:00",
       "date": "2026-01-31 01:36:37",
-      "importance": 5,
+      "importance": 4,
       "category": "ai",
       "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-43596,resizemode-75,msid-127812751/tech/technology/musks-starlink-updates-privacy-policy-to-allow-consumer-data-to-train-ai.jpg",
       "url": "/tech-news/2026-01-31/musks-starlink-updates-privacy-policy-to-allow-con/",
