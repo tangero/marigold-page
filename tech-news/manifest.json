@@ -1,25 +1,161 @@
 {
-  "generated": "2026-02-01T01:41:13.210670+00:00",
-  "count": 166,
+  "generated": "2026-02-01T05:40:45.596985+00:00",
+  "count": 162,
   "articles": [
     {
-      "title": "Investice do AI infrastruktury v Indii v hodnotě 70 miliard dolarů se mohou zdvojnásobit na summitu IndiaAI Impact Summit, řekl Ashwini Vaishnaw",
-      "description": "Indická AI infrastruktura s investicemi 70 miliard dolarů se podle ministra Ashwiniho Vaishnawa může zdvojnásobit během příštího summitu IndiaAI Impact Summit. Vláda plánuje spustit druhou fázi mise IndiaAI a národní AI modely.",
-      "slug": "A-70-billion-ai-infra-investments-may-double-at-in",
-      "publishedAt": "2026-01-31T00:30:00+00:00",
-      "date": "2026-01-31 00:30:00",
-      "importance": 4,
-      "category": "ai infrastruktura",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-9040,resizemode-75,msid-127806356/tech/artificial-intelligence/70-billion-ai-infra-investments-may-double-at-indiaai-impact-summit-ashwini-vaishnaw.jpg",
-      "url": "/tech-news/2026-01-31/A-70-billion-ai-infra-investments-may-double-at-in/",
+      "title": "Bývalý inženýr Google odsouzen v případu špionáže v oblasti AI",
+      "description": "Federální porota v San Franciscu odsoudila bývalého softwarového inženýra Google za krádež citlivých obchodních tajemství v oblasti umělé inteligence ve prospěch Číny. Jedná se o první odsouzení za ekonomickou špionáž související s AI, uvedli američtí představitelé.",
+      "slug": "former-google-engineer-convicted-in-ai-espionage-c",
+      "publishedAt": "2026-01-31T03:48:31+00:00",
+      "date": "2026-01-31 03:48:31",
+      "importance": 5,
+      "category": "ekonomická špionáž",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-35046,resizemode-75,msid-127813540/tech/technology/former-google-engineer-convicted-in-ai-espionage-case.jpg",
+      "url": "/tech-news/2026-01-31/former-google-engineer-convicted-in-ai-espionage-c/",
       "source": {
         "emoji": "📰",
         "id": "the-times-of-india",
         "name": "The Times of India"
       },
-      "companies": [],
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Faraday Future i Tesla plánují rozjezd výroby robotů",
+      "description": "Dva kalifornští výrobci automobilů, jeden velký a jeden malý, se obracejí k výrobě robotů ve svých kalifornských továrnách, jak oznámili v posledních dnech. Tesla cílí na milion kusů humanoidních robotů Optimus ročně ve Fremontu.",
+      "slug": "faraday-future-tesla-each-plan-robot-rollout-john-",
+      "publishedAt": "2026-01-31T03:46:00+00:00",
+      "date": "2026-01-31 03:46:00",
+      "importance": 5,
+      "category": "robotika",
+      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/hanfordsentinel.com/content/tncms/assets/v3/editorial/6/ba/6bab07f6-2903-4eb8-8f4c-731aabbd0345/697d4a65cfc04.preview.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
+      "url": "/tech-news/2026-01-31/faraday-future-tesla-each-plan-robot-rollout-john/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Hanfordsentinel.com"
+      },
+      "companies": [
+        "Faraday Future",
+        "Tesla"
+      ],
+      "people": []
+    },
+    {
+      "title": "Anthropic představuje pluginy pro Claude Cowork k automatizaci více úkolů",
+      "description": "Společnost Anthropic PBC dnes vydala aktualizaci pro nástroj Claude Cowork, která uživatelům umožňuje rozšířit jeho funkce vlastními pluginy. Claude Cowork slouží k automatizaci vícekrokových úkolů v souborových složkách a prohlížeči uživatele.",
+      "slug": "anthropic-debuts-claude-cowork-plugins-to-help-use",
+      "publishedAt": "2026-01-31T01:53:15+00:00",
+      "date": "2026-01-31 01:53:15",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/Anthropic1.png",
+      "url": "/tech-news/2026-01-31/anthropic-debuts-claude-cowork-plugins-to-help-use/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": []
+    },
+    {
+      "title": "SpaceX zvažuje fúzi s Tesla nebo xAI",
+      "description": "SpaceX podle zdrojů blízkých věci zvažuje možnou fúzi s Tesla nebo xAI, což by mohlo vést k konsolidaci impéria Elona Muska. Bloomberg Technology analyzuje potenciální dopady této spekulace.",
+      "slug": "spacex-said-to-consider-merger-with-tesla-or-xai-4",
+      "publishedAt": "2026-01-31T01:48:12+00:00",
+      "date": "2026-01-31 01:48:12",
+      "importance": 4,
+      "category": "fúze firem",
+      "urlToImage": null,
+      "url": "/tech-news/2026-01-31/spacex-said-to-consider-merger-with-tesla-or-xai-4/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "companies": [
+        "SpaceX",
+        "Tesla",
+        "xAI"
+      ],
       "people": [
-        "Ashwini Vaishnaw"
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Spojení SpaceX s xAI může být pro Muska jednoduché, Tesla však ne",
+      "description": "Fanoušci Elona Muska a sám vlastník dlouho uvažují o fúzi jeho firem do 'Musk Inc.'. SpaceX se blíží k akvizici xAI, což by usnadnilo plány na datová centra ve vesmíru, zatímco spojení s Teslou by vyžadovalo schválení akcionářů.",
+      "slug": "combining-spacex-with-xai-may-be-simple-for-musk-b",
+      "publishedAt": "2026-01-31T01:42:34+00:00",
+      "date": "2026-01-31 01:42:34",
+      "importance": 4,
+      "category": "fúze firem",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-183588,resizemode-75,msid-127812790/tech/technology/combining-spacex-with-xai-may-be-simple-for-musk-but-tesla-isnt-so-easy.jpg",
+      "url": "/tech-news/2026-01-31/combining-spacex-with-xai-may-be-simple-for-musk-b/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "SpaceX",
+        "xAI",
+        "Tesla"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Starlink od Muska aktualizuje zásady ochrany soukromí, umožňuje použití dat zákazníků k trénování AI",
+      "description": "Společnost SpaceX aktualizovala globální zásady ochrany soukromí služby Starlink, aby umožnila využívat data uživatelů k trénování modelů umělé inteligence, pokud se neodoptují. Toto se děje v době jednání o sloučení s Muskovo firmou xAI před plánovaným velkým úvodem na burzu.",
+      "slug": "musks-starlink-updates-privacy-policy-to-allow-con",
+      "publishedAt": "2026-01-31T01:36:37+00:00",
+      "date": "2026-01-31 01:36:37",
+      "importance": 5,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-43596,resizemode-75,msid-127812751/tech/technology/musks-starlink-updates-privacy-policy-to-allow-consumer-data-to-train-ai.jpg",
+      "url": "/tech-news/2026-01-31/musks-starlink-updates-privacy-policy-to-allow-con/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "SpaceX",
+        "xAI"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Americký soudce naznačuje, že xAI Elona Muska může prohrát žalobu proti OpenAI Sama Altmana za krádež obchodních tajemství",
+      "description": "Federální soudkyně v San Franciscu signalizovala, že může zamítnout žalobu startupu xAI Elona Muska, který obviňuje konkurenční OpenAI Sama Altmana z krádeže obchodních tajemství pro nekalou výhodu v rozvoji umělé inteligence.",
+      "slug": "us-judge-signals-musks-xai-may-lose-lawsuit-accusi",
+      "publishedAt": "2026-01-31T01:32:38+00:00",
+      "date": "2026-01-31 01:32:38",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-49012,resizemode-75,msid-127812716/tech/technology/us-judge-signals-musks-xai-may-lose-lawsuit-accusing-altmans-openai-of-stealing-trade-secrets.jpg",
+      "url": "/tech-news/2026-01-31/us-judge-signals-musks-xai-may-lose-lawsuit-accusi/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "xAI",
+        "OpenAI"
+      ],
+      "people": [
+        "Elon Musk",
+        "Sam Altman"
       ]
     },
     {
@@ -107,28 +243,6 @@
         "Google"
       ],
       "people": []
-    },
-    {
-      "title": "Starlink Elona Muska aktualizoval zásady ochrany soukromí pro trénování AI na datech zákazníků",
-      "description": "Společnost SpaceX upravila globální zásady ochrany soukromí pro službu Starlink, aby umožnila využívat data zákazníků k trénování modelů strojového učení a umělé inteligence. Tento krok předchází možnou fúzi se společností xAI a plánovanému úvěrné nabídce akcií.",
-      "slug": "musks-starlink-updates-privacy-policy-to-allow-con",
-      "publishedAt": "2026-01-30T23:08:53+00:00",
-      "date": "2026-01-30 23:08:53",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--utq7GfVp--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-01-30T232025Z_2_LYNXMPEM0T1BJ_RTROPTP_3_XAI-M-A-STARLINK-AI.JPG?itok=k-E1Qi1w",
-      "url": "/tech-news/2026-01-30/musks-starlink-updates-privacy-policy-to-allow-con/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNA"
-      },
-      "companies": [
-        "SpaceX"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
     },
     {
       "title": "Bývalý softwarový inženýr Google odsouzen za špionáž v oblasti AI a krádež obchodních tajemství",
@@ -3221,195 +3335,6 @@
         "Waymo"
       ],
       "people": []
-    },
-    {
-      "title": "Apple odhalí vylepšenou Siri s podporou Gemini v únoru 2026, omezuje ‚World Knowledge Answers‘ a AI v Safari",
-      "description": "Apple podle informací z newsletteru Marka Gurmana plánuje představit novou Siri poháněnou modelem Gemini od Google už v únoru 2026. Tato verze přijde s aktualizací iOS 26.4 a přinese pokročilé funkce, zatímco společnost zpomaluje jiné AI projekty.",
-      "slug": "apple-to-unveil-the-revamped-gemini-backed-siri-in",
-      "publishedAt": "2026-01-25T16:20:01+00:00",
-      "date": "2026-01-25 16:20:01",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/01/Apple-Siri-1.jpg",
-      "url": "/tech-news/2026-01-25/apple-to-unveil-the-revamped-gemini-backed-siri-in/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Wccftech"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
-      "title": "Kdy plánuje Apple odhalit novou Siri poháněnou Google Gemini",
-      "description": "Apple plánuje představit personalizovanější verzi Siri poháněnou modelem Google Gemini v druhé polovině února, podle analytika Marka Gurmana z Bloombergu. Tato verze bude součástí aktualizace iOS 26.4 a umožní asistentovi přístup k osobním datům a obsahu na obrazovce.",
-      "slug": "heres-when-apple-plans-to-unveil-a-new-siri-powere",
-      "publishedAt": "2026-01-25T15:21:54+00:00",
-      "date": "2026-01-25 15:21:54",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://images.macrumors.com/t/ORk-7wZLnGzYz-7TJ-ugstvyR8Q=/1600x/article-new/2026/01/siri-gemini-iphone.jpg",
-      "url": "/tech-news/2026-01-25/heres-when-apple-plans-to-unveil-a-new-siri-powere/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "MacRumors"
-      },
-      "companies": [
-        "Apple",
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Bez rukou, bez řidiče, žádný problém? Láska San Francisca k robotaxi",
-      "description": "Jak se autonomní řídicí vozy šíří po oblasti Bay, ženy patří mezi jejich největší uživatele.",
-      "slug": "no-hands-no-driver-no-problem-san-franciscos-love-",
-      "publishedAt": "2026-01-25T13:00:00+00:00",
-      "date": "2026-01-25 13:00:00",
-      "importance": 4,
-      "category": "autonomní vozy",
-      "urlToImage": "https://www.irishtimes.com/resizer/v2/JATRGDAZU46WWBDL6R4MXXAH4E.jpg?smart=true&auth=a36259a9164e41e04c3f4ebf1dbcdb0417c5918ef18654d94f8d834b0748d7c4&width=1200&height=630",
-      "url": "/tech-news/2026-01-25/no-hands-no-driver-no-problem-san-franciscos-love/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-irish-times",
-        "name": "The Irish Times"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Chyba v protokolu Google Fast Pair umožňuje hackerům převzít sluchátka",
-      "description": "Výzkumníci z KU Leuven odhalili zranitelnosti v protokolu Google Fast Pair pod názvem WhisperPair, které umožňují tiché převzetí Bluetooth zařízení jako sluchátka nebo reproduktory. Google na to reaguje vydáním záplat pro výrobce a aktualizací certifikačních požadavků.",
-      "slug": "google-fast-pair-flaw-lets-hackers-hijack-headphon",
-      "publishedAt": "2026-01-25T12:02:55+00:00",
-      "date": "2026-01-25 12:02:55",
-      "importance": 5,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/google-fast-pair-hacking.jpg",
-      "url": "/tech-news/2026-01-25/google-fast-pair-flaw-lets-hackers-hijack-headphon/",
-      "source": {
-        "emoji": "📰",
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Sam Altman z OpenAI plánuje návštěvu Indie, současně s India AI Impact Summit v New Delhi",
-      "description": "Návštěva Altmana, jeho první v Indii po téměř roce, se shoduje s India AI Impact Summit 2026 v New Delhi od 16. do 20. února, kde se očekávají Jensen Huang z Nvidia, Sundar Pichai z Google a Mukesh Ambani z Reliance Industries. Účast Altmana však není potvrzena a plány mohou změnit.",
-      "slug": "openais-sam-altman-eyes-india-visit-as-global-ai-l",
-      "publishedAt": "2026-01-25T11:04:21+00:00",
-      "date": "2026-01-25 11:04:21",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-47682,resizemode-75,msid-127470231/tech/artificial-intelligence/openais-sam-altman-eyes-india-visit-as-global-ai-leaders-gather-in-new-delhi.jpg",
-      "url": "/tech-news/2026-01-25/openais-sam-altman-eyes-india-visit-as-global-ai-l/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "OpenAI",
-        "Nvidia",
-        "Google"
-      ],
-      "people": [
-        "Sam Altman",
-        "Jensen Huang",
-        "Sundar Pichai"
-      ]
-    },
-    {
-      "title": "Týdenní přehled: Kompromitovány i plně aktualizované firewally FortiGate, útočníci testují chybu Cisco umožňující vzdálené provedení kódu",
-      "description": "Přehled klíčových událostí minulého týdne v kyberbezpečnosti zahrnuje kompromitaci aktualizovaných firewallů FortiGate, testování zranitelnosti Cisco RCE a další hrozby jako škodlivé rozšíření prohlížeče či napadené Linux aplikace.",
-      "slug": "week-in-review-fully-patched-fortigate-firewalls-a",
-      "publishedAt": "2026-01-25T09:00:02+00:00",
-      "date": "2026-01-25 09:00:02",
-      "importance": 5,
-      "category": "kybernetika",
-      "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/25124832/cybersecurity-week-review-2-1500.webp",
-      "url": "/tech-news/2026-01-25/week-in-review-fully-patched-fortigate-firewalls-a/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Help Net Security"
-      },
-      "companies": [
-        "Cisco"
-      ],
-      "people": []
-    },
-    {
-      "title": "Siri 2.0 oproti Siri 3.0: Upgrade iOS 27 pro pokročilejší AI asistenta",
-      "description": "Apple plánuje v roce 2026 vydat Siri 2.0 s aktualizací iOS 26.4 a následně Siri 3.0, což představuje významný krok k integraci pokročilých AI modelů. Tyto verze mají zlepšit zpracování složitých úkolů, kontextovou paměť a vyhledávání souborů pomocí modelů jako Google Gemini na serverech Apple.",
-      "slug": "siri-20-vs-siri-30-the-ios-27-upgrade-that-changes",
-      "publishedAt": "2026-01-25T08:00:04+00:00",
-      "date": "2026-01-25 08:00:04",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/01/siri-3-0-generative-ai-update_optimized.jpg",
-      "url": "/tech-news/2026-01-25/siri-20-vs-siri-30-the-ios-27-upgrade-that-changes/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
-      "title": "Únik o akci Apple v Los Angeles: Přicházejí MacBook Pro s M5 Max",
-      "description": "Apple připravuje exkluzivní akci v Los Angeles od 27. do 29. ledna 2026, kde představí nové MacBook Pro s čipy M5 Pro a M5 Max. Tato soukromá akce je zaměřena na profesionální tvůrce obsahu a zahrnuje i novou sadu nástrojů Creator Studio.",
-      "slug": "apples-la-event-just-leaked-m5-max-macbook-pros-co",
-      "publishedAt": "2026-01-25T05:11:48+00:00",
-      "date": "2026-01-25 05:11:48",
-      "importance": 4,
-      "category": "hardware",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/01/m5-macbook-pros-creator-studio-launch-event_optimized.jpg",
-      "url": "/tech-news/2026-01-25/apples-la-event-just-leaked-m5-max-macbook-pros-co/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
-      "title": "Revoluce AI v byznysu: Co se stane se SaaS, OpenAI a Microsoftem?",
-      "description": "Budoucnost AI kopilotů a agentů a jejich dopad na práci v kancelářích. Satya Nadella popisuje vývoj Microsoft Copilot od návrhů kódu v GitHub Copilot přes chat a akce až po autonomní agenty.",
-      "slug": "ais-business-revolution-what-happens-to-saas-opena",
-      "publishedAt": "2026-01-25T02:16:38+00:00",
-      "date": "2026-01-25 02:16:38",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2023/03/microsoftai.jpeg",
-      "url": "/tech-news/2026-01-25/ais-business-revolution-what-happens-to-saas-opena/",
-      "source": {
-        "emoji": "📰",
-        "id": "next-big-future",
-        "name": "Next Big Future"
-      },
-      "companies": [
-        "OpenAI",
-        "Microsoft",
-        "GitHub"
-      ],
-      "people": [
-        "Satya Nadella"
-      ]
     }
   ]
 }
