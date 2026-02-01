@@ -1,7 +1,107 @@
 {
-  "generated": "2026-02-01T12:45:27.893609+00:00",
-  "count": 164,
+  "generated": "2026-02-01T16:44:38.539282+00:00",
+  "count": 168,
   "articles": [
+    {
+      "title": "Když se agentické systémy umělé inteligence dostanou do špatných rukou",
+      "description": "Agentická umělá inteligence mění každodenní život, ale její autonomie přináší naléhavá rizika pro soukromí, bezpečnost a etiku. Systémy schopné autonomního rozhodování zpracovávají citlivá data, což je činí atraktivním cílem pro zneužití.",
+      "slug": "when-agentic-ai-systems-fall-into-the-wrong-hands",
+      "publishedAt": "2026-01-31T14:00:00+00:00",
+      "date": "2026-01-31 14:00:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/LJ7xXkLMRdgVo8vT4Ccgrb-2560-80.jpg",
+      "url": "/tech-news/2026-01-31/when-agentic-ai-systems-fall-into-the-wrong-hands/",
+      "source": {
+        "emoji": "📰",
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Hlavní zprávy: Apple Creator Studio, AirTag 2 a další",
+      "description": "Tento týden Apple uvedlo první významné produkty roku 2026, včetně balíčku aplikací Creator Studio a druhé generace AirTagu. Objevily se také zvěsti o aktualizacích Maců, personalizované Siri a významné akvizici.",
+      "slug": "top-stories-apple-creator-studio-airtag-2-and-more",
+      "publishedAt": "2026-01-31T14:00:00+00:00",
+      "date": "2026-01-31 14:00:00",
+      "importance": 4,
+      "category": "apple novinky",
+      "urlToImage": "https://images.macrumors.com/t/p4wfwlhm98_LrQNp0NryalSi3gg=/1600x/article-new/2026/01/top-stories-2026-01-31.jpg",
+      "url": "/tech-news/2026-01-31/top-stories-apple-creator-studio-airtag-2-and-more/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "MacRumors"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "NASA povolala Claude k navržení trasy pro rover Perseverance na Marsu",
+      "description": "Model umělé inteligence Claude od Anthropic analyzoval orbitální snímky a data o svazích, aby navrhl trasu pro rover Perseverance. Rover podle ní ujel 400 metrů na povrchu Marsu s schválením inženýrů z Jet Propulsion Laboratory.",
+      "slug": "nasa-taps-claude-to-conjure-mars-rovers-travel-pla",
+      "publishedAt": "2026-01-31T13:13:05+00:00",
+      "date": "2026-01-31 13:13:05",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://regmedia.co.uk/2021/03/12/perseverance.jpg",
+      "url": "/tech-news/2026-01-31/nasa-taps-claude-to-conjure-mars-rovers-travel-pla/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "companies": [
+        "Anthropic",
+        "NASA"
+      ],
+      "people": []
+    },
+    {
+      "title": "Chrome s Gemini nyní zpracovává formuláře, plánuje cesty a naviguje v aplikacích, zatímco se vy soustředíte na podstatné",
+      "description": "Integrace modelu Gemini 3 AI do prohlížeče Chrome umožňuje automatizaci složitých úkolů, jako je vyplňování formulářů, plánování cest nebo navigace v aplikacích. Tato agentická umělá inteligence interaguje s webovými stránkami podobně jako člověk a zpracovává vizuální data pro vyšší produktivitu.",
+      "slug": "chrome-with-gemini-now-handles-forms-plans-trips-a",
+      "publishedAt": "2026-01-31T13:00:39+00:00",
+      "date": "2026-01-31 13:00:39",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/01/visual-reasoning-upgrade-chrome-ai_optimized.jpg",
+      "url": "/tech-news/2026-01-31/chrome-with-gemini-now-handles-forms-plans-trips-a/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "TD Cowen snížil hodnocení SkyWater Technology (SKYT) na Držet po dohodě s IonQ",
+      "description": "Analytici TD Cowen snížili hodnocení akcií SkyWater Technology z Nákup na Držet a zvýšili cílovou cenu na 35 USD po oznámení akvizice firmou IonQ za stejnou hodnotu na akcii, což celkově činí přibližně 1,88 miliardy USD. Podobný krok podnikla i firma Craig-Hallum.",
+      "slug": "td-cowen-downgrades-skywater-technology-inc-skyt-t",
+      "publishedAt": "2026-01-31T13:00:35+00:00",
+      "date": "2026-01-31 13:00:35",
+      "importance": 5,
+      "category": "polovodiče",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/pwnyqpeQFB8IeP4csFAaJA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/2bdd57cc5c2e6a8b38233389d9ea67fb",
+      "url": "/tech-news/2026-01-31/td-cowen-downgrades-skywater-technology-inc-skyt-t/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "SkyWater Technology",
+        "IonQ"
+      ],
+      "people": []
+    },
     {
       "title": "Dohoda NVIDIA s OpenAI za 100 miliard dolarů je v ohrožení: Jensen Huang kritizuje nedostatek disciplíny a rivalové jako Anthropic a Google se zlepšují",
       "description": "NVIDIA ještě neuzavřela svou největší investici do OpenAI v hodnotě 100 miliard dolarů na dodávku výpočetního výkonu multi-GW. CEO Jensen Huang soukromě kritizuje byznysový přístup OpenAI za nedostatek disciplíny, zatímco konkurenti jako Anthropic a Google posilují své pozice.",
@@ -405,27 +505,6 @@
       "companies": [
         "Google",
         "DeepMind"
-      ],
-      "people": []
-    },
-    {
-      "title": "Akcie videogamových firem klesají kvůli AI modelu Google, který mění příkazy na hratelné světy",
-      "description": "Akcie společností z videogamového průmyslu prudce klesly poté, co Google představil AI model Project Genie schopný generovat interaktivní digitální světy z jednoduchých textových příkazů nebo nahraných obrázků. Tento model simuluje fyziku a interakce v reálném čase, což ohrožuje tradiční postupy vývoje her.",
-      "slug": "videogame-stocks-slide-on-googles-ai-model-that-tu",
-      "publishedAt": "2026-01-30T22:00:00+00:00",
-      "date": "2026-01-30 22:00:00",
-      "importance": 4,
-      "category": "herní průmysl",
-      "urlToImage": "https://a.fsdn.com/sd/topics/ai_64.png",
-      "url": "/tech-news/2026-01-30/videogame-stocks-slide-on-googles-ai-model-that-tu/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "companies": [
-        "Alphabet",
-        "Google"
       ],
       "people": []
     },
