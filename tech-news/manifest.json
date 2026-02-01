@@ -1,16 +1,269 @@
 {
-  "generated": "2026-01-31T20:40:46.332975+00:00",
-  "count": 153,
+  "generated": "2026-02-01T01:41:13.210670+00:00",
+  "count": 166,
   "articles": [
     {
-      "title": "Akcie herních firem klesají kvůli AI modelu Google, který mění příkazy na herní světy",
-      "description": "Akcie herních společností prudce klesly v pátek odpoledne poté, co Google představil model umělé inteligence Project Genie schopný vytvářet interaktivní digitální světy z jednoduchých textových příkazů nebo nahraných obrázků. Akcie výrobce Grand Theft Auto od Take-Two Interactive klesly o 10 procent, Roblox o více než 12 procent a Unity Software o 21 procent.",
+      "title": "Investice do AI infrastruktury v Indii v hodnotě 70 miliard dolarů se mohou zdvojnásobit na summitu IndiaAI Impact Summit, řekl Ashwini Vaishnaw",
+      "description": "Indická AI infrastruktura s investicemi 70 miliard dolarů se podle ministra Ashwiniho Vaishnawa může zdvojnásobit během příštího summitu IndiaAI Impact Summit. Vláda plánuje spustit druhou fázi mise IndiaAI a národní AI modely.",
+      "slug": "A-70-billion-ai-infra-investments-may-double-at-in",
+      "publishedAt": "2026-01-31T00:30:00+00:00",
+      "date": "2026-01-31 00:30:00",
+      "importance": 4,
+      "category": "ai infrastruktura",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-9040,resizemode-75,msid-127806356/tech/artificial-intelligence/70-billion-ai-infra-investments-may-double-at-indiaai-impact-summit-ashwini-vaishnaw.jpg",
+      "url": "/tech-news/2026-01-31/A-70-billion-ai-infra-investments-may-double-at-in/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": [
+        "Ashwini Vaishnaw"
+      ]
+    },
+    {
+      "title": "Analýza: Spojení SpaceX s xAI může být pro Musk Inc jednoduché, ale Tesla je složitější",
+      "description": "Fanoušci Elona Muska a sám podnikatel dlouho spekulují o sloučení jeho firem do Musk Inc. Zatímco fúze SpaceX s xAI by mohla být hladká jako spoj mezi dvěma soukromými subjekty, spojení se Tesla čelí výzvám kvůli její veřejné povaze a přechodu na robotaxi.",
+      "slug": "analysiscombining-spacex-with-xai-may-be-simple-fo",
+      "publishedAt": "2026-01-30T23:32:08+00:00",
+      "date": "2026-01-30 23:32:08",
+      "importance": 4,
+      "category": "fúze firem",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--BroR4dsU--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-01-30T233208Z_1_LYNXMPEM0T1BW_RTROPTP_3_TESLA-NEW-YORK.JPG?itok=cVn7nuc5",
+      "url": "/tech-news/2026-01-30/analysiscombining-spacex-with-xai-may-be-simple-fo/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNA"
+      },
+      "companies": [
+        "SpaceX",
+        "xAI",
+        "Tesla"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Jednání o sloučení SpaceX a Tesla upozorňují na téměř 20 000 bitcoinů",
+      "description": "Jakýkoli deal mezi SpaceX a Tesla by tiše konsolidoval jedny z největších korporátních holdingů bitcoinů na světě pod jednou střechou. Společně drží tyto firmy přibližně 20 000 BTC v hodnotě zhruba 1,7 miliardy dolarů.",
+      "slug": "spacex-tesla-merger-talks-puts-nearly-20000-bitcoi",
+      "publishedAt": "2026-01-30T23:30:00+00:00",
+      "date": "2026-01-30 23:30:00",
+      "importance": 4,
+      "category": "kryptoměny",
+      "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/4290d2e5ba7140f5d65f68d3183a9abb87c098a4-3840x2160.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "url": "/tech-news/2026-01-30/spacex-tesla-merger-talks-puts-nearly-20000-bitcoi/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CoinDesk"
+      },
+      "companies": [
+        "SpaceX",
+        "Tesla"
+      ],
+      "people": []
+    },
+    {
+      "title": "Mise NASA Artemis 2 na Měsíc komplikuje start Crew-12 od SpaceX",
+      "description": "Datum startu astronautů Crew-12 na Mezinárodní vesmírnou stanici bude záviset na výsledku mokré zkušební oblečení Artemis 2 a pokusech o start.",
+      "slug": "nasas-artemis-2-mission-to-the-moon-puts-crew-12-s",
+      "publishedAt": "2026-01-30T23:25:50+00:00",
+      "date": "2026-01-30 23:25:50",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/qjFhWEU8YNq5fPZX6C7ENY-1366-80.jpg",
+      "url": "/tech-news/2026-01-30/nasas-artemis-2-mission-to-the-moon-puts-crew-12-s/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Space.com"
+      },
+      "companies": [
+        "NASA",
+        "SpaceX"
+      ],
+      "people": []
+    },
+    {
+      "title": "Bývalý inženýr Google odsouzen za krádež AI tajemství ve prospěch Číny",
+      "description": "Americký soud uznal Linwei Dinga vinným z ekonomické špionáže a krádeže obchodních tajemství po odcizení citlivých dat o infrastruktuře umělé inteligence společnosti Google. Ding předával informace čínským firmám a budoval vlastní startup v Číně.",
+      "slug": "former-google-engineer-convicted-of-stealing-ai-se",
+      "publishedAt": "2026-01-30T23:13:27+00:00",
+      "date": "2026-01-30 23:13:27",
+      "importance": 4,
+      "category": "ekonomická špionáž",
+      "urlToImage": null,
+      "url": "/tech-news/2026-01-30/former-google-engineer-convicted-of-stealing-ai-se/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Starlink Elona Muska aktualizoval zásady ochrany soukromí pro trénování AI na datech zákazníků",
+      "description": "Společnost SpaceX upravila globální zásady ochrany soukromí pro službu Starlink, aby umožnila využívat data zákazníků k trénování modelů strojového učení a umělé inteligence. Tento krok předchází možnou fúzi se společností xAI a plánovanému úvěrné nabídce akcií.",
+      "slug": "musks-starlink-updates-privacy-policy-to-allow-con",
+      "publishedAt": "2026-01-30T23:08:53+00:00",
+      "date": "2026-01-30 23:08:53",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--utq7GfVp--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-01-30T232025Z_2_LYNXMPEM0T1BJ_RTROPTP_3_XAI-M-A-STARLINK-AI.JPG?itok=k-E1Qi1w",
+      "url": "/tech-news/2026-01-30/musks-starlink-updates-privacy-policy-to-allow-con/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNA"
+      },
+      "companies": [
+        "SpaceX"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Bývalý softwarový inženýr Google odsouzen za špionáž v oblasti AI a krádež obchodních tajemství",
+      "description": "Porota uznala Leona Dinga, 38 let, vinným ze sedmi obvinění z ekonomické špionáže a sedmi z krádeže obchodních tajemství – včetně tisíců stran obchodních tajemství Google, která byla ukradena na prospěch Číny.",
+      "slug": "former-google-software-engineer-convicted-of-ai-es",
+      "publishedAt": "2026-01-30T22:55:54+00:00",
+      "date": "2026-01-30 22:55:54",
+      "importance": 5,
+      "category": "ai špionáž",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/01/120053457.jpg?quality=75&strip=all&w=1200",
+      "url": "/tech-news/2026-01-30/former-google-software-engineer-convicted-of-ai-es/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "New York Post"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Bývalý inženýr Google shledán vinným z ekonomické špionáže a krádeže důvěrných technologií umělé inteligence",
+      "description": "Bývalý zaměstnanec Google Linwei Ding byl americkým soudem shledán vinným z ekonomické špionáže a krádeže obchodních tajemství souvisejících s AI. Předal citlivé údaje o superpočítačových čipech čínským firmám, což ohrozilo technologickou převahu USA.",
+      "slug": "former-google-engineer-found-guilty-of-economic-es",
+      "publishedAt": "2026-01-30T22:52:52+00:00",
+      "date": "2026-01-30 22:52:52",
+      "importance": 5,
+      "category": "ekonomická špionáž",
+      "urlToImage": null,
+      "url": "/tech-news/2026-01-30/former-google-engineer-found-guilty-of-economic-es/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Apple málem zvolilo Claude pro pohánění nové Siri, Anthropic ale požadoval příliš mnoho",
+      "description": "Apple původně plánovalo přestavět Siri na velkém jazykovém modelu Claude od Anthropic, ale kvůli vysokým cenovým požadavkům se rozhodlo pro partnerství s Google a jeho modelem Gemini.",
+      "slug": "apple-almost-chose-claude-to-power-the-new-siri-bu",
+      "publishedAt": "2026-01-30T22:08:55+00:00",
+      "date": "2026-01-30 22:08:55",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.mactrast.com/wp-content/uploads/2025/05/Anthropic.jpg",
+      "url": "/tech-news/2026-01-30/apple-almost-chose-claude-to-power-the-new-siri-bu/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Mactrast.com"
+      },
+      "companies": [
+        "Apple",
+        "Anthropic"
+      ],
+      "people": []
+    },
+    {
+      "title": "Pojišťovna Lemonade integruje se s Tesla a systémem Tesla FSD",
+      "description": "Pojišťovna Lemonade nabízí poloviční tarif za najeté kilometry v Tesla vozech, pokud je aktivní systém Full Self-Driving (FSD). Spolupracuje přímo s Tesla pro přístup k telemetrickým datům v reálném čase, což umožňuje přesné rozlišení autonomních a manuálních kilometrů.",
+      "slug": "lemonade-insurance-integrates-with-tesla-and-tesla",
+      "publishedAt": "2026-01-30T22:04:19+00:00",
+      "date": "2026-01-30 22:04:19",
+      "importance": 4,
+      "category": "autonomní řízení",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/01/FSDfuturesafety.jpg",
+      "url": "/tech-news/2026-01-30/lemonade-insurance-integrates-with-tesla-and-tesla/",
+      "source": {
+        "emoji": "📰",
+        "id": "next-big-future",
+        "name": "Next Big Future"
+      },
+      "companies": [
+        "Lemonade",
+        "Tesla"
+      ],
+      "people": []
+    },
+    {
+      "title": "Apple získává Q.ai",
+      "description": "Apple provedl svou druhou největší akvizici v historii – za 2 miliardy dolarů koupil čtyřletý startup Q.ai zaměřený na umělou inteligenci pro audio technologie. Tato technologie umožňuje bezhlasovou komunikaci s AI asistenty pomocí optických senzorů zachycujících mikro pohyby obličeje.",
+      "slug": "apple-acquires-qai",
+      "publishedAt": "2026-01-30T22:03:58+00:00",
+      "date": "2026-01-30 22:03:58",
+      "importance": 5,
+      "category": "ai startupy",
+      "urlToImage": null,
+      "url": "/tech-news/2026-01-30/apple-acquires-qai/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Mjtsai.com"
+      },
+      "companies": [
+        "Apple",
+        "Q.ai",
+        "Beats"
+      ],
+      "people": []
+    },
+    {
+      "title": "Google Project Genie",
+      "description": "Mnoho nástrojů na bázi AI produkuje převážně nekvalitní obsah. Google Project Genie však demonstruje schopnost technologie vytvářet poutavé zážitky pomocí modelu DeepMind Genie 3, který generuje virtuální světy prozkoumatelné a upravitelné v reálném čase.",
+      "slug": "google-project-genie",
+      "publishedAt": "2026-01-30T22:00:01+00:00",
+      "date": "2026-01-30 22:00:01",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://uncrate.com/p/2026/01/google-project-genie-1.jpg",
+      "url": "/tech-news/2026-01-30/google-project-genie/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Uncrate.com"
+      },
+      "companies": [
+        "Google",
+        "DeepMind"
+      ],
+      "people": []
+    },
+    {
+      "title": "Akcie videogamových firem klesají kvůli AI modelu Google, který mění příkazy na hratelné světy",
+      "description": "Akcie společností z videogamového průmyslu prudce klesly poté, co Google představil AI model Project Genie schopný generovat interaktivní digitální světy z jednoduchých textových příkazů nebo nahraných obrázků. Tento model simuluje fyziku a interakce v reálném čase, což ohrožuje tradiční postupy vývoje her.",
       "slug": "videogame-stocks-slide-on-googles-ai-model-that-tu",
-      "publishedAt": "2026-01-30T20:01:46+00:00",
-      "date": "2026-01-30 20:01:46",
+      "publishedAt": "2026-01-30T22:00:00+00:00",
+      "date": "2026-01-30 22:00:00",
       "importance": 4,
       "category": "herní průmysl",
-      "urlToImage": null,
+      "urlToImage": "https://a.fsdn.com/sd/topics/ai_64.png",
       "url": "/tech-news/2026-01-30/videogame-stocks-slide-on-googles-ai-model-that-tu/",
       "source": {
         "emoji": "📰",
@@ -19,10 +272,31 @@
       },
       "companies": [
         "Alphabet",
-        "Google",
-        "Take-Two Interactive"
+        "Google"
       ],
       "people": []
+    },
+    {
+      "title": "XAI Grok 4.20 odložen na polovinu února",
+      "description": "Elon Musk oznámil zpoždění vydání modelu XAI Grok 4.20 z konce 2025 na polovinu února 2026 kvůli dodatečnému tréninku a problémům s napájením způsobeným počasím. Model by měl díky tomu překonat původní verzi a v benchmarkách už nyní překonává GPT-5, Claude a Gemini v predikcích reálných událostí.",
+      "slug": "xai-grok-420-delayed-to-mid-february",
+      "publishedAt": "2026-01-30T21:57:41+00:00",
+      "date": "2026-01-30 21:57:41",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/01/Screenshot-2026-01-30-at-1.42.32-PM.jpg",
+      "url": "/tech-news/2026-01-30/xai-grok-420-delayed-to-mid-february/",
+      "source": {
+        "emoji": "📰",
+        "id": "next-big-future",
+        "name": "Next Big Future"
+      },
+      "companies": [
+        "XAI"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
     },
     {
       "title": "Projekt Genie od Googlu není pro vás",
