@@ -4,9 +4,9 @@ category: kosmonautika
 companies:
 - SpaceX
 date: '2026-02-01 00:55:41'
-description: Elon Musk tvrdí, že nejlevnější místo pro umělou inteligenci bude vesmír
-  a stane se tak do dvou let, maximálně za tři. Společnost SpaceX podala žádost k
-  americké Federální komisi pro komunikace na orbitální síť satelitů pro AI výpočty.
+description: Elon Musk tvrdí, že nejlevnější místo pro umístění AI bude vesmír a stane
+  se tak během dvou let, maximálně tří. Společnost SpaceX podala žádost k FCC o vypuštění
+  až milionu satelitů pro solárně poháněná datová centra v oběžné dráze.
 importance: 4
 layout: tech_news_article
 original_title: SpaceX seeks approval for million-plus satellites in space data-centre
@@ -19,32 +19,32 @@ source:
   emoji: 📰
   id: null
   name: The Sydney Morning Herald
-title: SpaceX žádá o povolení k vypuštění více než milionu satelitů pro vesmírný komplex
-  datových center
+title: SpaceX žádá o schválení přes milionu satelitů pro orbitální komplex datových
+  center
 url: https://www.smh.com.au/business/companies/spacex-seeks-approval-for-million-plus-satellites-in-space-data-centre-complex-20260201-p5nylc.html
 urlToImage: https://static.ffx.io/images/$zoom_0.3531%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/e3f8b40973051e866b0af151969dc6d8376424f2
 urlToImageBackup: https://static.ffx.io/images/$zoom_0.3531%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/e3f8b40973051e866b0af151969dc6d8376424f2
 ---
 
 ## Souhrn
-SpaceX podala žádost k Federální komisi pro komunikace (FCC) o povolení k vypuštění až jedné miliony satelitů do zemské oběžné dráhy. Tyto satelity by měly tvořit orbitální datová centra určená pro složité výpočty umělé inteligence (AI). Systém by využíval sluneční energii přímo a radiativní chlazení ve vakuu vesmíru, což by podle společnosti snížilo náklady a environmentální dopad oproti pozemním datovým centrům.
+SpaceX podala u Federální komise pro komunikace (FCC) žádost o povolení k vypuštění až jedného milionu satelitů, které by tvořily síť orbitálních datových center pro výpočty umělé inteligence (AI). Tento systém by využíval sluneční energii a radiaci chlazení ve vesmíru, čímž by snížil náklady oproti pozemním datovým centrům. Elon Musk na platformě X reagoval, že plánují začít menším počtem a postupně navyšovat.
 
 ## Klíčové body
-- Plánovaný počet satelitů: až 1 milion, umístěných na výšce 500 až 2000 km pro téměř neustálý přístup k slunci.
-- Pohon: sluneční panely bez potřeby baterií, chlazení radiací místo vodních systémů.
-- Komunikace: laserové spojí mezi satelity pro přenos dat.
-- Cíl: zvládnout růst datových požadavků poháněný AI, s vizí Kardashevovy II. civilizace.
-- Vypuštění: pomocí opakovaně použitelné rakety Starship.
+- Žádost zahrnuje až 1 milion satelitů na výškách 500–2000 km s laserovými spojeny pro komunikaci.
+- Satelity by byly poháněny sluncem, bez potřeby baterií, a chlazené radiací ve vakuu.
+- Cílem je podpora růstu datových požadavků AI a přechod k multiplanetární civilizaci podle stupnice Kardashev.
+- Vypuštění by probíhalo pomocí rakety Starship, která umožňuje opakované použití.
+- Musk předpovídá, že vesmír se stane nejlevnějším místem pro AI do 2–3 let.
 
 ## Podrobnosti
-SpaceX, společnost Elona Muska specializující se na vývoj raket a satelitních systémů jako je Starlink pro globální internet, nyní navrhuje radikální expanzi. V žádosti podané v pátek k FCC popisuje síť satelitů, které by fungovaly jako samostatná datová centra. Každý satelit by byl vybaven výpočetními jednotkami pro zpracování AI úloh, například trénink velkých jazykových modelů (LLM) nebo inferenci modelů jako GPT nebo Llama. Tato centra by řešila aktuální limity pozemních infrastruktur: spotřebu energie, která u velkých AI modelů dosahuje stovek megawattů, a potřebu obrovských objemů vody pro chlazení.
+Společnost SpaceX, známá svými projekty jako Starlink (síť tisíců satelitů pro internetové připojení) a raketou Starship pro meziplanetární lety, nyní navrhuje radikální expanzi. V žádosti z konce minulého týdne popisuje síť satelitů, které by fungovaly jako plnohodnotná datová centra schopná zpracovávat složité AI výpočty. Každý satelit by byl vybaven solárními panely pro nepřetržitý přísun energie díky oběžné dráze s minimálními stíny Země. Na rozdíl od pozemních datových center, která spotřebovávají obrovské množství vody na chlazení a elektřiny na baterie, by tento systém využíval přirozené chlazení radiací do vesmíru, kde teplo uniká bez odporu atmosféry.
 
-Ve vesmíru by sluneční panely zajistily nepřetržitý zdroj energie díky absenci nocí na vyšších orbitách. Radiativní chlazení, kdy teplo uniká přímo do vakua, eliminuje potřebu chladicích systémů. Satelity by komunikovaly laserovými spoji, což umožňuje rychlý přenos dat mezi nimi i se Zemí. Vypuštění by probíhalo raketou Starship, která je navržena pro masové transporty nákladu do vesmíru s nízkými náklady na kilogram.
+Komunikace mezi satelity by probíhala laserovými spoji, což umožní rychlý přenos dat mezi jednotlivými uzly sítě. Celý konstelace by měla kapacitu zvládnout explozivní růst datových nároků AI, jako je trénování velkých jazykových modelů (LLM) nebo inferenční výpočty pro miliardy uživatelů. SpaceX odhaduje, že toto řešení bude levnější a ekologicky šetrnější, protože eliminuje závislost na vzácných zeminách v bateriích a vodních zdrojích. Raketa Starship, schopná nést až 100 tun nákladu na nízkou oběžnou dráhu při opakovaném použití, by umožnila ekonomické vypuštění tohoto objemu – i když milion satelitů představuje logistickou výzvu s tisíci starty.
 
-Elon Musk na platformě X reagoval: „Myslel jsem, že začneme malým a postupně narůsteme.“ Plán spojuje současné potřeby AI s dlouhodobou vizí multiplanetární civilizace. Termín „Kardashev II“ odkazuje na škálu civilizací podle ruského astronoma Nikolaje Kardasheva, kde typ II plně využívá energii své hvězdy – zde Slunce. SpaceX odhaduje, že tento systém podpoří AI aplikace pro miliardy uživatelů. Realizace však čelí výzvám: riziko kolizí satelitů (už nyní Starlink má tisíce kusů), regulace FCC kvůli spektru a orbitálnímu provozu, plus náklady na výrobu a údržbu. Žádost je prvním krokem, schválení není zaručené.
+Elon Musk, zakladatel SpaceX, na X potvrdil záměr a ironicky poznamenal, že začnou "malým" počtem. Jeho předpověď, že vesmír se stane nejlevnějším místem pro AI, vychází z rostoucích nákladů na pozemní infrastrukturu, kde datová centra jako ty od Nvidia nebo Microsoft spotřebovávají ekvivalent energie malých zemí. Kritici však upozorňují na rizika: hustá konstelace by mohla zhoršit problém vesmírného odpadu, interferovat s astronomickými pozorováními a vyžadovat sofistikovanou kolizní prevenci, jak ukázal Starlink s jeho současných 6000 satelity.
 
 ## Proč je to důležité
-Tento návrh řeší klíčové bottleneck v AI průmyslu: rychlý růst datových center, které spotřebovávají až 2 % globální elektřiny a přispívají k vodní krizi. Vesmírní AI centra by mohla snížit zemní zátěž, umožnit škálování pro AGI pokroky a integrovat se s existujícími sítěmi jako Starlink. Pro uživatele to znamená potenciálně levnější cloudové AI služby, rychlejší inferenci modelů. V širším kontextu posiluje to dominanci SpaceX v kosmickém sektoru, kde konkurence jako Amazon (Kuiper) nebo Blue Origin zaostávají. Kriticky: úspěch závisí na Starshipu, jehož plné nasazení ještě neproběhlo, a na regulátorech, kteří se obávají přeplnění orbit. Pokud se podaří, urychlí to přechod k vesmírné infrastruktuře, což ovlivní celý tech ekosystém od AI po telekomunikace.
+Tento návrh by mohl přetvořit ekonomiku AI tím, že sníží náklady na výpočetní výkon o řády, což umožní širší přístup k pokročilým AI aplikacím pro průmysl i jednotlivce. V kontextu globálního nedostatku energie a vody pro datová centra (např. trénování GPT-4 spotřebovalo ekvivalent stovek domácností) nabízí vesmírné řešení alternativu, která by podpořila vývoj AGI bez omezení pozemní infrastruktury. Pro SpaceX to znamená synergii se Starlinkem a Starship, posilující pozici v kosmickém průmyslu. Nicméně úspěch závisí na schválení FCC, mezinárodních regulacích a technické realizovatelnosti – milion satelitů by znamenal bezprecedentní hustotu v oběžné dráze, s potenciálními dopady na satelitní navigaci GPS nebo vojenské systémy. V širším ekosystému to urychlí soutěž mezi firmami jako Amazon (Kuiper) nebo China SatNet, kde AI výpočty v kosmu mohou stát klíčem k multiplanetární expanzi lidstva.
 
 ---
 

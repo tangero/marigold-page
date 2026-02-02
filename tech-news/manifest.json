@@ -1,10 +1,32 @@
 {
-  "generated": "2026-02-02T05:44:41.506313+00:00",
-  "count": 150,
+  "generated": "2026-02-02T08:57:37.078404+00:00",
+  "count": 151,
   "articles": [
     {
-      "title": "Společnost Jeffa Bezosa pozastavuje vesmírný turismus kvůli soustředění na Měsíc",
-      "description": "Blue Origin oznámila, že pozastavuje lety rakety New Shepard na minimálně dva roky, aby se soustředila na mise NASA pro návrat astronautů na Měsíc. Společnost má objednávky na sedadla na několik let dopředu.",
+      "title": "Musk: Kroky k zastavení Ruska v používání Starlinku fungovaly",
+      "description": "Elon Musk uvedl, že opatření SpaceX k blokování neoprávněného použití Starlinku Ruskem se ukázala jako úspěšná. Řekl, ať se ozvou, pokud bude potřeba více.",
+      "slug": "musk-says-steps-to-stop-russia-from-using-starlink",
+      "publishedAt": "2026-02-01T08:18:25+00:00",
+      "date": "2026-02-01 08:18:25",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--zJ4y1SGX--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-02-01T081825Z_1_LYNXMPEM100KJ_RTROPTP_3_XAI-M-A-SPACEX-FCC.JPG?itok=V-XaicVU",
+      "url": "/tech-news/2026-02-01/musk-says-steps-to-stop-russia-from-using-starlink/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNA"
+      },
+      "companies": [
+        "SpaceX"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Raketonosná společnost Jeffa Bezosa pozastavuje vesmírný turismus kvůli soustředění na Měsíc",
+      "description": "Blue Origin uvedla, že má několik let trvající seznam čekajících zákazníků na místo v raketě New Shepard.",
       "slug": "jeff-bezos-rocket-company-pauses-space-tourism-to-",
       "publishedAt": "2026-02-01T04:14:00+00:00",
       "date": "2026-02-01 04:14:00",
@@ -25,8 +47,8 @@
       ]
     },
     {
-      "title": "Jižní Korea dosáhla rekordních exportů v lednu díky boomu AI čipů",
-      "description": "Celková hodnota exportů v lednu činila 65,8 miliardy USD, což představuje nárůst o 33,9 procenta oproti loňsku a poprvé překonala hranici 60 miliard USD za měsíc. Růst byl poháněn zejména exportem polovodičů, který se zdvojnásobil díky poptávce po čipech pro umělou inteligenci.",
+      "title": "Jižní Korea dosáhla rekordních exportů za leden díky boomu AI čipů",
+      "description": "Celková hodnota exportů v lednu činila 65,8 miliardy USD, což představuje nárůst o 33,9 procenta oproti loňskému roku a poprvé překonala hranici 60 miliard USD za měsíc. Hlavním hnacím motorem byl růst exportů polovodičů spojený s globálním poptávkou po čipech pro umělou inteligenci.",
       "slug": "south-korea-posts-record-january-exports-on-ai-chi",
       "publishedAt": "2026-02-01T02:56:10+00:00",
       "date": "2026-02-01 02:56:10",
@@ -44,7 +66,7 @@
     },
     {
       "title": "Pentagon chce smrtící AI bez bezpečnostních omezení – Reuters",
-      "description": "Americké ministerstvo obrany je v konfliktu s firmou Anthropic kvůli etickým omezením v jejich AI systémech, která brání nasazení v autonomních zbraních a domácím dohledu. Smlouva v hodnotě až 200 milionů dolarů je kvůli tomu pozastavena.",
+      "description": "Americké ministerstvo obrany je v sporu s firmou Anthropic kvůli etickým omezením v jejích AI systémech, která brání jejich nasazení v autonomních zbraních a domácím sledování. Smlouva v hodnotě až 200 milionů dolarů je kvůli tomu pozastavena.",
       "slug": "pentagon-wants-killer-ai-without-safeguards-reuter",
       "publishedAt": "2026-02-01T01:49:50+00:00",
       "date": "2026-02-01 01:49:50",
@@ -63,8 +85,8 @@
       "people": []
     },
     {
-      "title": "SpaceX žádá o povolení k vypuštění více než milionu satelitů pro vesmírný komplex datových center",
-      "description": "Elon Musk tvrdí, že nejlevnější místo pro umělou inteligenci bude vesmír a stane se tak do dvou let, maximálně za tři. Společnost SpaceX podala žádost k americké Federální komisi pro komunikace na orbitální síť satelitů pro AI výpočty.",
+      "title": "SpaceX žádá o schválení přes milionu satelitů pro orbitální komplex datových center",
+      "description": "Elon Musk tvrdí, že nejlevnější místo pro umístění AI bude vesmír a stane se tak během dvou let, maximálně tří. Společnost SpaceX podala žádost k FCC o vypuštění až milionu satelitů pro solárně poháněná datová centra v oběžné dráze.",
       "slug": "spacex-seeks-approval-for-million-plus-satellites-",
       "publishedAt": "2026-02-01T00:55:41+00:00",
       "date": "2026-02-01 00:55:41",
@@ -86,7 +108,7 @@
     },
     {
       "title": "Waymo získává 16 miliard dolarů při valuaci 110 miliard",
-      "description": "Waymo, dceřiná společnost Alphabetu zaměřená na autonomní řízení vozidel, finalizuje kolo financování v objemu 16 miliard dolarů s valuací 110 miliard dolarů, což představuje více než zdvojnásobení předchozí valuace. Alphabet přispívá zhruba 13 miliardami dolarů, přičemž se zapojují noví i stávající investoři.",
+      "description": "Waymo, dceřiná společnost Alphabetu pro autonomní řízení, uzavírá kolo financování v objemu 16 miliard dolarů s valuací 110 miliard dolarů, což představuje více než zdvojnásobení oproti předchozímu kolu. Alphabet přispívá zhruba 13 miliardami dolarů, do kola vstupují noví investoři jako Sequoia Capital nebo DST Global.",
       "slug": "waymo-raising-16-billion-on-110-billion-valuation",
       "publishedAt": "2026-02-01T00:39:49+00:00",
       "date": "2026-02-01 00:39:49",

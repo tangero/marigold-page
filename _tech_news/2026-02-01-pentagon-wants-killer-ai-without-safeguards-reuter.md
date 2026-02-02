@@ -4,9 +4,9 @@ category: vojenská ai
 companies:
 - Anthropic
 date: '2026-02-01 01:49:50'
-description: Americké ministerstvo obrany je v konfliktu s firmou Anthropic kvůli
-  etickým omezením v jejich AI systémech, která brání nasazení v autonomních zbraních
-  a domácím dohledu. Smlouva v hodnotě až 200 milionů dolarů je kvůli tomu pozastavena.
+description: Americké ministerstvo obrany je v sporu s firmou Anthropic kvůli etickým
+  omezením v jejích AI systémech, která brání jejich nasazení v autonomních zbraních
+  a domácím sledování. Smlouva v hodnotě až 200 milionů dolarů je kvůli tomu pozastavena.
 importance: 4
 layout: tech_news_article
 original_title: Pentagon wants killer AI without safeguards – Reuters
@@ -23,24 +23,24 @@ urlToImageBackup: https://mf.b37mrtl.ru/files/2026.02/article/697eb07e85f5400dc0
 ---
 
 ## Souhrn
-Americké ministerstvo obrany, známé jako Pentagon, je v ostrém sporu s vývojářem umělé inteligence Anthropic ohledně bezpečnostních omezení vestavěných do jejich AI modelů. Tyto omezení brání použití technologií pro autonomní smrtící operace bez lidského dohledu nebo pro domácí sledování občanů. Kontrakt v hodnotě až 200 milionů dolarů zůstává neuzavřený kvůli neshodám.
+Americké ministerstvo obrany, běžně nazývané Pentagon, se střetlo s vývojářem umělé inteligence Anthropic ohledně bezpečnostních omezení vestavěných do jeho technologií. Tyto omezení mají zabránit použití AI v autonomních smrtících zbraních bez lidského dohledu nebo v domácím sledování obyvatel. Spor způsobil pozastavení smlouvy v hodnotě až 200 milionů dolarů.
 
 ## Klíčové body
-- Pentagon považuje omezení Anthropic za příliš restriktivní a chce je odstranit pro plné vojenské nasazení AI.
-- Anthropic se obává zneužití svých AI nástrojů pro zabíjení bez dostatečného lidského zásahu nebo pro sledování Američanů.
-- Spor zastavil smlouvu v hodnotě až 200 milionů dolarů, jak uvedlo šest zdrojů pro Reuters.
-- Firma Anthropic, založená v San Franciscu, se specializuje na bezpečné AI modely jako Claude s důrazem na etiku.
-- Tento konflikt odhaluje napětí mezi komerčními AI firmami a vojenskými potřebami.
+- Pentagon tlačí na odstranění etických limitů v AI od Anthropic, aby mohl nasadit systémy pro autonomní cílení a sledování.
+- Anthropic, firma specializující se na bezpečné AI modely jako Claude, se obává zneužití pro smrtící operace bez kontroly.
+- Smlouva je pozastavena; zdroje mluví o šesti anonymních osobách obeznámených se situací.
+- Konflikt odhaluje napětí mezi komerčními AI firmami a vojenskými potřebami.
+- Reuters cituje, že armáda považuje omezení za přílišná.
 
 ## Podrobnosti
-Americké ministerstvo obrany se snaží uzavřít smlouvu s Anthropic, firmou zaměřenou na vývoj velkých jazykových modelů (LLM) jako je řada Claude, které jsou navrženy s vestavěnými bezpečnostními mechanismy známými jako safeguards. Tyto mechanismy zabraňují AI v generování instrukcí pro autonomní zbraně, jako jsou drony nebo robotické systémy schopné samostatného zacílení a úderu bez lidského schválení, a zároveň omezují použití pro masové sledování v domácím prostředí, například analýzu dat z kamer nebo sociálních sítí. Podle šesti zdrojů obeznámených se situací, které cituje Reuters, vojenští představitelé argumentují, že komerční AI by měla být plně využitelná pro obranné účely bez těchto "přehnaných" limitů.
+Anthropic je kalifornská společnost založená v roce 2021 bývalými výzkumníky OpenAI, která se zaměřuje na vývoj velkých jazykových modelů (LLM) s důrazem na bezpečnost. Jejich hlavní produkt, model Claude, slouží k generování textu, analýze dat a řešení složitých úkolů, ale obsahuje tzv. ústavní AI – rámec, který vynucuje etické chování a zabraňuje škodlivým výstupům. Firma získala investice od gigantů jako Amazon a Google, celkem přes 7 miliard dolarů, což ji řadí mezi lídry v oblasti zodpovědného AI.
 
-Anthropic, který byl založen bývalými výzkumníky z OpenAI s cílem priorizovat bezpečnost umělé inteligence prostřednictvím přístupu nazvaného constitutional AI, tyto obavy zdůrazňuje. Jejich modely jsou trénovány tak, aby odmítaly požadavky na škodlivé akce, včetně plánování útoků nebo dezinformací. Vojenská strana naopak tvrdí, že v boji proti protivníkům jako Čína nebo Rusko potřebuje rychlé a autonomní systémy, kde zpoždění způsobené lidským rozhodováním může být fatální. Tento spor nastal v kontextu rostoucího zájmu Pentagonu o AI, který investoval miliardy dolarů do programů jako Replicator pro nasazení tisíců autonomních dronů.
+Pentagon chtěl integrovat tyto technologie do svých systémů pro autonomní zbraně, kde AI rozhoduje o útocích bez lidského zásahu, a pro sledování na domácí půdě, například kamerovými sítěmi nebo analýzou sociálních sítí. Podle zdrojů citovaných Reutersem armáda argumentuje, že omezení Anthropic omezují operační flexibilitu v bojových podmínkách. Anthropic naopak upozorňuje na rizika: chyby v AI by mohly vést k civilním obětem, eskalaci konfliktů nebo porušení ústavy kvůli masovému sledování Američanů.
 
-Zdroj článku, RT.com, často prezentuje zprávy s protizápadním nádechem a používá termín "Department of War" místo oficiálního "Department of Defense", což podtrhuje propagandistický tón. Přesto fakta o sporu potvrzuje Reuters na základě více zdrojů, což naznačuje reálný konflikt v praxi komercializace AI pro armádu.
+Tento spor není ojedinělý. Podobné debaty probíhají kolem smrtících autonomních zbraňových systémů (LAWS), které OSN diskutuje od roku 2014. Firmy jako OpenAI a Google už dříve odmítly vojenské zakázky – OpenAI v roce 2024 zakázalo použití ChatGPT pro vývoj zbraní. Pentagon se proto obrací k jiným dodavatelům, jako Palantir nebo tradiční zbrojaři jako Lockheed Martin, kteří AI integrují bez takových etických brzd. Pozastavení smlouvy znamená, že Anthropic ztrácí potenciální příjem, ale udržuje svou reputaci v oblasti AI safety. Situace ilustruje, jak se komerční AI, původně určené pro civilní aplikace jako chatboti nebo data analýza, stávají vojenskými nástroji.
 
 ## Proč je to důležité
-Tento spor ilustruje klíčové napětí v ekosystému umělé inteligence mezi etickými standardy soukromých firem a vojenskými požadavky států. Pokud Pentagon uspěje v prosazení AI bez safeguards, mohlo by to vést k rychlejšímu nasazení autonomních zbraní, což zvyšuje rizika chybného zacílení civilistů nebo eskalace konfliktů bez lidského zásahu. Naopak, pokud firmy jako Anthropic udrží svá omezení, zpomalí to vojenskou adopci pokročilých AI, což by mohlo ovlivnit globální rovnováhu sil – zejména když Čína a Rusko nemají podobné etické brzdy. Pro průmysl to znamená, že investoři do AI firem budou čelit tlaku na úpravu bezpečnostních politik, což by mohlo oslabit důvěru veřejnosti v technologii. V širším kontextu to urychluje debatu o mezinárodních dohodách o zabijáckých robotech, jako je snaha OSN o zákaz lethal autonomous weapons systems (LAWS).
+Tento konflikt podtrhuje rostoucí napětí mezi rychlým vývojem AI a etickými normami. Pro průmysl znamená, že vojenské zakázky mohou nutit firmy k ústupkům od bezpečnostních standardů, což oslabí globální snahy o regulaci AI (např. EU AI Act nebo Bidenova výkonná směrnice z roku 2023). Pokud Pentagon uspěje, urychlí to vývoj killer robotů, což zvyšuje riziko náhodných útoků – AI systémy jako ty od Anthropic mají úspěšnost detekce cílů kolem 90 %, ale v reálném boji klesá kvůli nepředvídatelným faktorům. Pro uživatele a společnost to představuje hrozbu militarizace AI, kde technologie určené pro efektivitu končí v rukou armády bez dostatečných kontrol. Dlouhodobě to může vést k závodům ve zbraních mezi USA, Čínou a Ruskem, kde bezpečnostní prvky budou první obětí.
 
 ---
 
