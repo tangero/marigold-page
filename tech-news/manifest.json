@@ -1,14 +1,58 @@
 {
-  "generated": "2026-02-01T20:40:14.427572+00:00",
-  "count": 174,
+  "generated": "2026-02-02T01:34:02.151786+00:00",
+  "count": 175,
   "articles": [
     {
+      "title": "SpaceX žádá o schválení přes milionu satelitů pro vesmírný komplex datových center",
+      "description": "Společnost SpaceX podala žádost u Federální komise pro komunikace (FCC) o vypuštění až milionu satelitů, které by tvořily solárně poháněná datová centra pro výpočty umělé inteligence. Elon Musk uvedl, že vesmír se stane nejlevnějším místem pro AI do dvou až tří let.",
+      "slug": "spacex-seeks-approval-for-million-plus-satellites-",
+      "publishedAt": "2026-02-01T00:55:41+00:00",
+      "date": "2026-02-01 00:55:41",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://static.ffx.io/images/$zoom_0.3531%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/e3f8b40973051e866b0af151969dc6d8376424f2",
+      "url": "/tech-news/2026-02-01/spacex-seeks-approval-for-million-plus-satellites/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Sydney Morning Herald"
+      },
+      "companies": [
+        "SpaceX"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Waymo získává 16 miliard dolarů při valuaci 110 miliard",
+      "description": "Waymo, dceřiná společnost Alphabetu pro autonomní řízení, dokončuje kolo financování 16 miliard dolarů s valuací 110 miliard dolarů, což představuje více než zdvojnásobení předchozí hodnoty. Alphabet přispívá 13 miliardami dolarů, do kola vstupují noví investoři jako Sequoia Capital či DST Global.",
+      "slug": "waymo-raising-16-billion-on-110-billion-valuation",
+      "publishedAt": "2026-02-01T00:39:49+00:00",
+      "date": "2026-02-01 00:39:49",
+      "importance": 4,
+      "category": "autonomní řízení",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2018/03/52a49a9bda14741ffd028335af01a5b5.png",
+      "url": "/tech-news/2026-02-01/waymo-raising-16-billion-on-110-billion-valuation/",
+      "source": {
+        "emoji": "📰",
+        "id": "next-big-future",
+        "name": "Next Big Future"
+      },
+      "companies": [
+        "Waymo",
+        "Alphabet",
+        "Google"
+      ],
+      "people": []
+    },
+    {
       "title": "Rozšiřující se povrch kyberútoků díky AI agentům, modelům a nepřátelským státům vyvolává nová varování",
-      "description": "S urychlujícím se vývojem umělé inteligence rostou obavy o bezpečnost její podpůrné infrastruktury. Vzestup AI agentů přináší nové rizika v oblasti kontroly přístupu a akcí těchto systémů.",
+      "description": "Rychlý rozvoj umělé inteligence zvyšuje obavy o bezpečnost její infrastruktury, zejména kvůli AI agentům, kteří rozšiřují povrch útoků. Experti upozorňují na rizika spojená s protokoly jako MCP a možnými zneužitími ze strany států jako Čína.",
       "slug": "expanding-cyberattack-surface-from-ai-agents-model",
       "publishedAt": "2026-01-31T19:52:49+00:00",
       "date": "2026-01-31 19:52:49",
-      "importance": 4,
+      "importance": 5,
       "category": "kyberbezpečnost",
       "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/ChatGPT-Image-Jan-30-2026-04_32_48-PM.png",
       "url": "/tech-news/2026-01-31/expanding-cyberattack-surface-from-ai-agents-model/",
@@ -101,28 +145,6 @@
         "Apple"
       ],
       "people": []
-    },
-    {
-      "title": "SpaceX žádá FCC o povolení k vybudování konstelace datových center ve vesmíru",
-      "description": "SpaceX podala žádost k Federální komisi pro komunikace (FCC) o vypuštění až jednoho milionu satelitů do oběžné dráhy Země. Cílem je vytvořit solárně napájenou síť datových center pro zpracování dat pro umělou inteligenci.",
-      "slug": "spacex-seeks-fcc-nod-to-build-data-center-constell",
-      "publishedAt": "2026-01-31T17:13:48+00:00",
-      "date": "2026-01-31 17:13:48",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": null,
-      "url": "/tech-news/2026-01-31/spacex-seeks-fcc-nod-to-build-data-center-constell/",
-      "source": {
-        "emoji": "📰",
-        "id": "financial-post",
-        "name": "Financial Post"
-      },
-      "companies": [
-        "SpaceX"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
     },
     {
       "title": "Když se agentické systémy umělé inteligence dostanou do špatných rukou",
