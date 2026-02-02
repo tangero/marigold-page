@@ -1,10 +1,114 @@
 {
-  "generated": "2026-02-02T08:57:37.078404+00:00",
-  "count": 151,
+  "generated": "2026-02-02T13:02:06.613616+00:00",
+  "count": 156,
   "articles": [
     {
-      "title": "Musk: Kroky k zastavení Ruska v používání Starlinku fungovaly",
-      "description": "Elon Musk uvedl, že opatření SpaceX k blokování neoprávněného použití Starlinku Ruskem se ukázala jako úspěšná. Řekl, ať se ozvou, pokud bude potřeba více.",
+      "title": "Nový objev v laserové technologii by mohl změnit situaci v kvantových počítačích",
+      "description": "Kvantové počítače mají velký potenciál, ale jejich základní jednotka qubit čelí problémům se stabilitou. Nová studie navrhuje řešení prostřednictvím laserové technologie.",
+      "slug": "new-discovery-in-laser-technology-could-change-eve",
+      "publishedAt": "2026-02-01T11:17:00+00:00",
+      "date": "2026-02-01 11:17:00",
+      "importance": 5,
+      "category": "kvantové počítače",
+      "urlToImage": "https://www.bgr.com/img/gallery/new-discovery-in-laser-technology-could-change-everything-for-quantum-computing/l-intro-1769451563.jpg",
+      "url": "/tech-news/2026-02-01/new-discovery-in-laser-technology-could-change-eve/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BGR"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Všechny způsoby, jakými jsou firmy Elona Muska propojené, od spolupráce Tesly se SpaceX po Grok v vozidlech",
+      "description": "Pět firem vedených Elonem Muskem se stále více proplétá, ještě před investicí Tesly ve výši 2 miliard dolarů do xAI nebo spekulacemi o sloučení.",
+      "slug": "all-the-ways-elon-musks-companies-are-already-inte",
+      "publishedAt": "2026-02-01T10:00:01+00:00",
+      "date": "2026-02-01 10:00:01",
+      "importance": 4,
+      "category": "elon musk",
+      "urlToImage": "https://i.insider.com/697d196da645d11881885fc3?width=1200&format=jpeg",
+      "url": "/tech-news/2026-02-01/all-the-ways-elon-musks-companies-are-already-inte/",
+      "source": {
+        "emoji": "📰",
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "companies": [
+        "Tesla",
+        "SpaceX",
+        "xAI"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Co znamená indický státní rozpočet 2026 pro AI a GenAI a jak formuje růst",
+      "description": "Indický státní rozpočet 2026 staví AI a generativní AI za národní ekonomickou infrastrukturu. Nové politiky, financování infrastruktury, zjednodušení daní a vzdělávací iniciativy posilují indický AI ekosystém a podporují přechod k budování vlastních AI systémů.",
+      "slug": "what-indian-union-budget-2026-means-for-ai-genai-a",
+      "publishedAt": "2026-02-01T09:51:32+00:00",
+      "date": "2026-02-01 09:51:32",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.c-sharpcorner.com/images/csharp-corner-new.png",
+      "url": "/tech-news/2026-02-01/what-indian-union-budget-2026-means-for-ai-genai-a/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "C-sharpcorner.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Týdenní přehled: Microsoft opravuje exploitovanou zero-day chybu v Office, Fortinet záplátní zranitelnost SSO ve FortiCloud",
+      "description": "Přehled nejdůležitějších novinek z uplynulého týdne v kyberbezpečnosti zahrnuje opravu zero-day zranitelnosti v Office od Microsoftu, odražení datového útoku na polskou energetiku a rozhovory o bezpečnosti ve vědeckém výzkumu.",
+      "slug": "week-in-review-microsoft-fixes-exploited-office-ze",
+      "publishedAt": "2026-02-01T09:00:59+00:00",
+      "date": "2026-02-01 09:00:59",
+      "importance": 5,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2023/12/01112502/cybersecurity_week_in_review1.jpg",
+      "url": "/tech-news/2026-02-01/week-in-review-microsoft-fixes-exploited-office-ze/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Help Net Security"
+      },
+      "companies": [
+        "Microsoft",
+        "Fortinet",
+        "Fermilab"
+      ],
+      "people": [
+        "Matthew Kwiatkowski"
+      ]
+    },
+    {
+      "title": "Ministerka financí Sitharamanová oznámila daňovou dovolenou pro datová centra v Indii do roku 2047",
+      "description": "Datová centra uspokojují jednu z klíčových potřeb poptávky po umělé inteligenci – potřebu výpočetního výkonu. Indická vláda zavádí daňové úlevy pro zahraniční firmy, aby podpořila rozvoj infrastruktury pro AI.",
+      "slug": "fm-sitharaman-announces-tax-holiday-for-data-centr",
+      "publishedAt": "2026-02-01T08:55:10+00:00",
+      "date": "2026-02-01 08:55:10",
+      "importance": 4,
+      "category": "datová centra",
+      "urlToImage": "https://images.indianexpress.com/2026/02/data-centre.jpg",
+      "url": "/tech-news/2026-02-01/fm-sitharaman-announces-tax-holiday-for-data-centr/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "companies": [],
+      "people": [
+        "Nirmala Sitharaman"
+      ]
+    },
+    {
+      "title": "Musk tvrdí, že opatření proti použití Starlinku Ruskem fungovala",
+      "description": "Elon Musk uvedl, že kroky společnosti SpaceX k zastavení neoprávněného použití Starlinku Ruskem se zdají být úspěšné. Informoval o tom v neděli a vyzval k hlášení dalších problémů.",
       "slug": "musk-says-steps-to-stop-russia-from-using-starlink",
       "publishedAt": "2026-02-01T08:18:25+00:00",
       "date": "2026-02-01 08:18:25",
