@@ -1,7 +1,126 @@
 {
-  "generated": "2026-02-02T13:02:06.613616+00:00",
-  "count": 156,
+  "generated": "2026-02-02T16:55:38.890092+00:00",
+  "count": 162,
   "articles": [
+    {
+      "title": "Bývalý inženýr Google odsouzen za krádež tajemství o GPU a TPU ve prospěch čínských zájmů – snažil se získat financování pro svou startup",
+      "description": "Federální porota v San Franciscu uznala bývalého inženýra Google Linweiho Dinga vinným z krádeže důvěrných dat o infrastruktuře AI a jejich předání ve prospěch čínských zájmů. Ding byl odsouzen na 14 bodů, včetně ekonomické špionáže a krádeže obchodních tajemství.",
+      "slug": "former-google-engineer-convicted-of-stealing-gpu-a",
+      "publishedAt": "2026-02-01T16:21:52+00:00",
+      "date": "2026-02-01 16:21:52",
+      "importance": 4,
+      "category": "průmyslová špionáž",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/9yjpJGx28XVepArU3M5vBD-2144-80.jpg",
+      "url": "/tech-news/2026-02-01/former-google-engineer-convicted-of-stealing-gpu-a/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Apple uvede čipy M5 Pro a M5 Max současně s vydáním macOS 26.3, který je v současnosti v beta testování",
+      "description": "Apple plánuje spustit MacBook Pro modely s čipy M5 Pro a M5 Max v první polovině 2026, pravděpodobně současně s veřejným vydáním macOS 26.3. Tato informace vychází z reportu analytika Marka Gurmana a dalších zdrojů s hodnocením pravděpodobnosti 80 procent.",
+      "slug": "apple-to-launch-its-m5-pro-and-m5-max-chipsets-at-",
+      "publishedAt": "2026-02-01T16:10:33+00:00",
+      "date": "2026-02-01 16:10:33",
+      "importance": 4,
+      "category": "hardware",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/02/M5-Pro-and-M5-Max-MacBook-Pro-models-2.jpg",
+      "url": "/tech-news/2026-02-01/apple-to-launch-its-m5-pro-and-m5-max-chipsets-at/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Wccftech"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "SpaceX chce umístit datová centra pro AI do vesmíru s až milionem satelitů",
+      "description": "SpaceX podala u Federální komise pro komunikace žádost o povolení k vypuštění až jednoho milionu satelitů pro orbitální datová centra. Ty mají řešit rostoucí poptávku po výpočetním výkonu pro umělou inteligenci a dramaticky rozšířit současnou síť Starlink.",
+      "slug": "spacex-wants-to-put-ai-data-centers-in-space-with-",
+      "publishedAt": "2026-02-01T16:02:16+00:00",
+      "date": "2026-02-01 16:02:16",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://www.ghacks.net/wp-content/uploads/2026/02/gHacks-articles-12.png",
+      "url": "/tech-news/2026-02-01/spacex-wants-to-put-ai-data-centers-in-space-with/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Ghacks Technology News"
+      },
+      "companies": [
+        "SpaceX"
+      ],
+      "people": []
+    },
+    {
+      "title": "Závod v umělé inteligenci míří na Google TPUs, DOJ obvinilo ex-zaměstnance Google ze špionáže",
+      "description": "Závod v umělé inteligenci nabírá na obrátkách a korporátní špionáž dosahuje nebývalých úrovní. Americké ministerstvo spravedlnosti (DOJ) odsoudilo bývalého softwarového inženýra Google Linweiho Dinga za ekonomickou špionáž a krádež důvěrných informací o Tensor Processing Units (TPUs).",
+      "slug": "ai-arms-race-targets-google-tpus-as-doj-charges-ex",
+      "publishedAt": "2026-02-01T15:44:52+00:00",
+      "date": "2026-02-01 15:44:52",
+      "importance": 5,
+      "category": "ai špionáž",
+      "urlToImage": "https://www.techpowerup.com/img/chCuPbHK4wpM4OD1.jpg",
+      "url": "/tech-news/2026-02-01/ai-arms-race-targets-google-tpus-as-doj-charges-ex/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Techpowerup.com"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Genie 3 od DeepMind vytváří interaktivní světy z pokynů, které působí realisticky",
+      "description": "Google DeepMind představilo Genie 3, AI nástroj, který z textových pokynů nebo obrázků generuje plně interaktivní 3D prostředí s realistickými interakcemi. Tento systém je dostupný výhradně pro předplatitele Google AI Ultra a nachází uplatnění v herním průmyslu, robotice i kreativních oborech.",
+      "slug": "deepminds-genie-3-makes-interactive-worlds-from-yo",
+      "publishedAt": "2026-02-01T15:00:42+00:00",
+      "date": "2026-02-01 15:00:42",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/02/realistic-physics-lighting-genie-3_optimized.jpg",
+      "url": "/tech-news/2026-02-01/deepminds-genie-3-makes-interactive-worlds-from-yo/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [
+        "DeepMind",
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Speciál státního rozpočtu 2026",
+      "description": "Indická ministryně financí Nirmala Sitharaman představila svůj devátý státní rozpočet s důrazem na hospodářský růst, tvorbu pracovních míst a podporu výroby v náročných globálních podmínkách. Klíčovou změnou pro technologický sektor je daňová úleva do roku 2047 pro zahraniční poskytovatele cloudových služeb využívající data centra v Indii, což má posílit pozici země jako centra pro AI a digitální infrastrukturu.",
+      "slug": "union-budget-2026-special",
+      "publishedAt": "2026-02-01T13:42:09+00:00",
+      "date": "2026-02-01 13:42:09",
+      "importance": 4,
+      "category": "státní rozpočet",
+      "urlToImage": "https://img.etimg.com/thumb/msid-127842546,width-1070,height-580,imgsize-1972929,overlay-ettech/editionshow.jpg",
+      "url": "/tech-news/2026-02-01/union-budget-2026-special/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Nový objev v laserové technologii by mohl změnit situaci v kvantových počítačích",
       "description": "Kvantové počítače mají velký potenciál, ale jejich základní jednotka qubit čelí problémům se stabilitou. Nová studie navrhuje řešení prostřednictvím laserové technologie.",

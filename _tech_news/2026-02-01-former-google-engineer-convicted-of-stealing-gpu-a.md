@@ -1,0 +1,52 @@
+---
+author: Marisa Aigen
+category: průmyslová špionáž
+companies:
+- Google
+date: '2026-02-01 16:21:52'
+description: Federální porota v San Franciscu uznala bývalého inženýra Google Linweiho
+  Dinga vinným z krádeže důvěrných dat o infrastruktuře AI a jejich předání ve prospěch
+  čínských zájmů. Ding byl odsouzen na 14 bodů, včetně ekonomické špionáže a krádeže
+  obchodních tajemství.
+importance: 4
+layout: tech_news_article
+original_title: Former Google engineer convicted of stealing GPU and TPU trade secrets
+  for 'Chinese interests' — tried to raise funding for his own start-up
+publishedAt: '2026-02-01T16:21:52+00:00'
+slug: former-google-engineer-convicted-of-stealing-gpu-a
+source:
+  emoji: 📰
+  id: null
+  name: Tom's Hardware UK
+title: Bývalý inženýr Google odsouzen za krádež tajemství o GPU a TPU ve prospěch
+  čínských zájmů – snažil se získat financování pro svou startup
+url: https://www.tomshardware.com/tech-industry/former-google-engineer-convicted-of-stealing-gpu-and-tpu-trade-secrets
+urlToImage: https://cdn.mos.cms.futurecdn.net/9yjpJGx28XVepArU3M5vBD-2144-80.jpg
+urlToImageBackup: https://cdn.mos.cms.futurecdn.net/9yjpJGx28XVepArU3M5vBD-2144-80.jpg
+---
+
+## Souhrn
+Federální porota v San Franciscu odsoudila bývalého inženýra Google Linweiho Dinga za krádež citlivých dat o infrastruktuře umělé inteligence a jejich předání čínským zájmům. Mezi květnem 2022 a dubnem 2023 Ding kopíroval interní dokumenty o navrhování a provozu AI datových center Google, která zahrnovala specifikace TPU a GPU. Současně hledal práci a venture kapitál u čínských firem pro svou novou společnost Rongshu.
+
+## Klíčové body
+- Odsouzen na 14 bodů obvinění, včetně ekonomické špionáže a krádeže obchodních tajemství.
+- Ukradené materiály pokrývaly sedm kategorií tajemství o AI datových centrech Google.
+- Zahrnovaly low-level specifikace TPU, instrukční sady TPU, charakteristiky výkonu spojené s HBM pamětí a inter-chip propojeními.
+- Dokumenty o architektuře TPU systémů, software pro plánování úloh v clusterech, GPU clusterech a SmartNIC hardwaru pro síťování.
+- John A. Eisenberg z ministerstva spravedlnosti USA označil případ za „vypočítané porušení důvěry“.
+
+## Podrobnosti
+Linwei Ding pracoval u Google v období, kdy společnost intenzivně rozvíjela svou AI infrastrukturu pro trénink velkých jazykových modelů, jako je Gemini. TPU, neboli Tensor Processing Units, jsou specializované čipy vyvinuté Google pro paralelní matrixové operace v hlubokém učení; slouží k urychlení tréninku a inference modelů umělé inteligence v obrovských clusterech. Ukradené dokumenty obsahovaly podrobné specifikace těchto čipů, včetně instrukčních sad, které definují, jak procesor zpracovává AI úlohy, a charakteristiky výkonu při přístupu k HBM (High Bandwidth Memory), což je typ paměti s vysokou propustností potřebné pro rychlé datové operace. Dále šlo o inter-chip propojení, která umožňují škálování tisíců TPU do clusterů schopných zpracovávat petabajty dat.
+
+Kromě TPU Ding odcizil informace o GPU, tedy grafických procesorech používaných pro podobné paralelní výpočty v AI, včetně orchestrace GPU clusterů – tedy softwaru a konfigurací pro řízení více GPU v rozsahu tisíců kusů. Tato data popisovala, jak Google nastavuje multi-GPU systémy pro škálovatelné provozy. Součástí byly i detaily o proprietárním SmartNIC hardwaru a softwaru, což jsou inteligentní síťové rozhraní karty optimalizované pro vysokou propustnost a nízkou latenci v AI clusterech; tyto komponenty minimalizují zpoždění při výměně dat mezi uzly, což je kritické pro efektivitu tréninku modelů s miliardami parametrů.
+
+Podle superseding indictmentu ministerstva spravedlnosti USA Ding tyto materiály kopíroval na své osobní zařízení, zatímco zakládal Rongshu, startup zaměřený na AI technologie, a nabízel své služby čínským firmám. Tento případ ilustruje rizika interní špionáže v době, kdy AI hardware představuje strategickou výhodu. Google chrání tyto tajemství kvůli rostoucím nárokům na výpočetní výkon – modely jako GPT-4 nebo Gemini vyžadují clustery s desítkami tisíc akcelerátorů.
+
+## Proč je to důležité
+Tento verdikt podtrhuje rostoucí rizika průmyslové špionáže v AI sektoru, kde USA a Čína soupeří o vedení v hardwarové infrastruktuře. Krádež tajemství o TPU a GPU může urychlit čínské snahy o vývoj konkurenčních čipů, jako jsou domácí alternativy k Nvidia H100, což ohrožuje konkurenční výhodu západních firem. Pro průmysl znamená posílení bezpečnostních opatření: firmy jako Google, OpenAI nebo Microsoft budou pravděpodobně zpřísňovat kontroly přístupu k IP, screening zaměstnanců a monitorování datových toků. Geopoliticky to eskaluje napětí – USA již omezují export AI čipů do Číny, a případy jako tento posilují argumenty pro další restrikce. Pro uživatele AI služeb to nemá přímý dopad, ale nepřímo zvyšuje náklady na vývoj, což se projeví v cenách cloudových AI služeb. Celkově připomíná, že v éře AGI je ochrana infrastruktury klíčová pro udržení technologického vedení.
+
+---
+
+[Číst původní článek](https://www.tomshardware.com/tech-industry/former-google-engineer-convicted-of-stealing-gpu-and-tpu-trade-secrets)
+
+**Zdroj:** 📰 Tom's Hardware UK
