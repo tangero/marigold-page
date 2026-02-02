@@ -6,10 +6,10 @@ companies:
 - Alphabet
 - Google
 date: '2026-02-01 00:39:49'
-description: Waymo, dceřiná společnost Alphabetu pro autonomní řízení, dokončuje kolo
-  financování 16 miliard dolarů s valuací 110 miliard dolarů, což představuje více
-  než zdvojnásobení předchozí hodnoty. Alphabet přispívá 13 miliardami dolarů, do
-  kola vstupují noví investoři jako Sequoia Capital či DST Global.
+description: Waymo, dceřiná společnost Alphabetu zaměřená na autonomní řízení vozidel,
+  finalizuje kolo financování v objemu 16 miliard dolarů s valuací 110 miliard dolarů,
+  což představuje více než zdvojnásobení předchozí valuace. Alphabet přispívá zhruba
+  13 miliardami dolarů, přičemž se zapojují noví i stávající investoři.
 importance: 4
 layout: tech_news_article
 original_title: Waymo Raising $16 Billion on $110 Billion Valuation
@@ -25,23 +25,23 @@ urlToImage: https://nextbigfuture.s3.amazonaws.com/uploads/2018/03/52a49a9bda147
 urlToImageBackup: https://nextbigfuture.s3.amazonaws.com/uploads/2018/03/52a49a9bda14741ffd028335af01a5b5.png
 ---
 
-### Souhrn
-Waymo, dceřiná společnost Alphabetu specializující se na autonomní vozidla, uzavírá kolo financování v objemu 16 miliard dolarů, které stanovuje valuaci firmy na 110 miliard dolarů. Tato částka téměř zdvojnásobuje předchozí valuaci a většinu prostředků, asi 13 miliard, poskytuje mateřská společnost Alphabet. Noví investoři zahrnují rizikové kapitálové fondy Sequoia Capital, DST Global vedené Yuriem Milnerem a Dragoneer Investment Group, zatímco stávající investoři jako Andreessen Horowitz a fond Mubadala z Abu Dhabi navyšují své podíly.
+## Souhrn
+Waymo, dceřiná společnost Alphabetu specializující se na vývoj a provoz autonomních vozidel, uzavírá kolo financování v hodnotě 16 miliard dolarů při valuaci 110 miliard dolarů. Tato částka zdvojnásobuje předchozí valuaci společnosti a umožní další expanzi služeb robotaxi. Alphabet, mateřská firma Google, pokrývá většinu investice, což podtrhuje strategický zájem o tuto oblast.
 
-### Klíčové body
-- Valuace Waymo vzrostla na 110 miliard dolarů díky 16miliardovému kolu financování.
-- Roční opakovaný příjem překročil 350 milionů dolarů, ale firma vykazuje ztráty 2–4 miliardy ročně.
-- Úspěšně absolvováno přes 20 milionů jízd bez řidiče a 125 milionů autonomních mil na silnicích USA s minimálními incidenty.
-- Provoz Level 4 autonomních služeb sdílených jízd v San Franciscu, Los Angeles, Phoenixu a Miamí, cíl 1 milion jízd týdně letos.
-- Plány na expanzi do dalších měst USA včetně New Yorku, partnerství s Uberem v Austinu a Atlante, testy v Londýně a Tokiu.
+## Klíčové body
+- Finanční kolo: 16 miliard USD při valuaci 110 miliard USD, Alphabet přispívá 13 miliardami USD.
+- Noví investoři: Sequoia Capital (investiční fond zaměřený na technologické startupy), DST Global (fond Yuriho Milnera) a Dragoneer Investment Group.
+- Stávající investoři: Andreessen Horowitz (a16z) a Mubadala (investiční fond z Abu Dhabi).
+- Finanční výsledky: Roční opakující se příjmy přes 350 milionů USD, roční ztráty 2–4 miliardy USD.
+- Provozní úspěchy: Více než 20 milionů jízd bez řidiče a 125 milionů autonomních mil na silnicích USA s minimálními bezpečnostními incidenty.
 
-### Podrobnosti
-Waymo provozuje plně autonomní (Level 4) služby sdílených jízd, kde vozidla jedou bez bezpečnostního řidiče v omezených městských oblastech. Tato úroveň autonomie znamená, že systém zvládá všechny jízdní situace v definovaných podmínkách bez lidského zásahu, což je klíčové pro komerční nasazení robotaxi. Firma již eviduje přes 20 milionů takových jízd a 125 milionů plně autonomních mil, s velmi nízkým počtem bezpečnostních incidentů, což potvrzuje spolehlivost technologie oproti konkurentům jako Tesla Full Self-Driving (FSD), které stále vyžadují dohled řidiče.
+## Podrobnosti
+Waymo provozuje služby plně autonomního sdílení jízd (Level 4 autonomie, což znamená provoz bez bezpečnostního řidiče v omezených geografických oblastech) ve městech San Francisco, Los Angeles, Phoenix a Miami. Očekává se, že do konce roku dosáhne 1 milionu jízd týdně. Společnost plánuje expanzi do dalších amerických měst včetně New Yorku, partnerství s Uberem v Austinu a Atlante a testování v Londýně a Tokiu. K diversifikaci flotily přechází z drahých SUV Jaguar I-Pace na levnější modely Hyundai Ioniq 5 a větší dodávky od čínské firmy Zeekr, která se specializuje na elektromobily pro autonomní aplikace.
 
-Přes rostoucí příjmy z předplatného a jízd (roční opakovaný příjem nad 350 milionů dolarů) Waymo ztrácí 2–4 miliardy dolarů ročně kvůli vysokým nákladům na vývoj, mapování, senzory LiDAR a údržbu flotily. Toto kolo financování umožní urychlit expanzi: do dalších amerických měst včetně New Yorku, partnerství s Uberem v Austinu a Atlante pro integraci do tamních sítí sdílených jízd a zahájení testů v Londýně a Tokiu. Waymo navíc diverzifikuje flotilu z drahých SUV Jaguar I-Pace na levnější Hyundai Ioniq 5 a větší dodávky od čínské firmy Zeekr, což sníží provozní náklady a umožní škálování. Sequoia Capital je známá investicemi do růstových tech firem jako OpenAI, DST Global (Yuri Milner) se zaměřuje na globální tech giganty a Dragoneer na pozdní fáze růstu. Andreessen Horowitz (a16z) a Mubadala již dříve investovaly do autonomního sektoru.
+Přes rychlý růst příjmů z provozu robotaxi zůstává Waymo v červených číslech kvůli vysokým nákladům na vývoj senzorů, mapování a bezpečnostní validaci. Level 4 autonomie umožňuje komerční provoz v geo-omezených zónách, ale ne univerzální nasazení na všech silnicích, což je stále výzvou oproti slibům konkurentů jako Tesla s jejím Full Self-Driving (FSD). Waymo již absolvovala přes 20 milionů jízd pouze s pasažéry a 125 milionů mil v plně autonomním režimu, což je největší dataset na světě pro validaci bezpečnosti. Tato data slouží k tréninku AI modelů pro predikci chování ostatních účastníků provozu a rozhodování v reálném čase. Nové financování umožní škálování flotily a zlepšení hustoty služeb, což je klíčové pro dosažení ekonomiky měřítka.
 
-### Proč je to důležité
-Toto financování posiluje pozici Waymo jako lídra v Level 4 autonomii, kde překonává Teslu v počtu bezpečných autonomních mil a reálném nasazení bez řidiče. Pro průmysl znamená urychlení komercializace robotaxi, což může snížit náklady na dopravu pod úroveň soukromých aut a změnit městskou mobilitu. V širším kontextu AI a robotiky ukazuje, že investoři i nadále vsazují na autonomní systémy navzdory ztrátám, ale Waymo musí prokázat dlouhodobou ziskovost, aby udrželo náskok před čínskými konkurenty jako Baidu Apollo. Pro uživatele to přináší blízkou dostupnost levných, bezpečných robotaxi v USA a postupně globálně.
+## Proč je to důležité
+Toto financování posiluje pozici Waymo jako lídra v segmentu robotaxi proti konkurentům jako Cruise (GM) nebo Tesla, která plánuje vlastní robotaxi síť. Valuace 110 miliard dolarů signalizuje důvěru investorů v dlouhodobý potenciál autonomní mobility, přestože ztráty připomínají rizika spojená s vysokými investicemi do hardwaru a AI. Pro průmysl to znamená urychlení přechodu k sdíleným autonomním vozidlům, což ovlivní dopravní infrastrukturu, sníží náklady na dopravu (robotaxi mohou stát méně než soukromá auta) a změní model vlastnictví vozidel. V širším kontextu autonomního řízení to podtrhuje, že Level 4 je již komerčně provozovatelný, ale cesta k Level 5 (plná autonomie všude) vyžaduje další průlomy v generalizaci AI modelů.
 
 ---
 
