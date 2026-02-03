@@ -1,7 +1,65 @@
 {
-  "generated": "2026-02-03T17:12:24.972805+00:00",
-  "count": 157,
+  "generated": "2026-02-03T20:51:52.074873+00:00",
+  "count": 160,
   "articles": [
+    {
+      "title": "Varo získala 123,9 milionu dolarů na rozšíření půjčkové a bankovní platformy",
+      "description": "Digitální challenger banka Varo získala tento týden 123,9 milionu dolarů v Series G kole financování, čímž své celkové financování zvýšila na 1,1 miliardy dolarů. Kolem vedl stávající investor Warburg Pincus a nový investor Coliseum Capital Management, přispěl také Northview.",
+      "slug": "varo-raises-1239-million-to-scale-its-lending-and-",
+      "publishedAt": "2026-02-02T20:25:19+00:00",
+      "date": "2026-02-02 20:25:19",
+      "importance": 4,
+      "category": "fintech",
+      "urlToImage": "https://finovate.com/wp-content/uploads/2026/02/pexels-diva-30455943-scaled.jpg",
+      "url": "/tech-news/2026-02-02/varo-raises-1239-million-to-scale-its-lending-and/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Finovate.com"
+      },
+      "companies": [
+        "Varo"
+      ],
+      "people": []
+    },
+    {
+      "title": "Varo Bank získala 123,9 milionu dolarů na novou fázi růstu",
+      "description": "Varo Bank, plně digitální národně charterovaná banka v USA, oznámila získání 123,9 milionu dolarů v sedmém investičním kole vedeném investorem Warburg Pincus a novým partnerem Coliseum Capital Management. Společnost zároveň posílila svou radu ředitelů o dva zkušené bankovní manažery.",
+      "slug": "varo-bank-raises-1239-million-to-fuel-new-stage-of",
+      "publishedAt": "2026-02-02T18:52:40+00:00",
+      "date": "2026-02-02 18:52:40",
+      "importance": 4,
+      "category": "fintech",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/02/Varo-Bank.jpeg",
+      "url": "/tech-news/2026-02-02/varo-bank-raises-1239-million-to-fuel-new-stage-of/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [
+        "Varo Bank"
+      ],
+      "people": []
+    },
+    {
+      "title": "Čínské zemědělské roboty jsou mnohem víc než jen luxusní traktory",
+      "description": "Automatizace a roboti se stávají standardem v mnoha průmyslech, výzkumníci a farmáři v Číně však inovace v chytrém zemědělství posouvají dál.",
+      "slug": "chinas-farming-robots-are-a-lot-more-than-just-fan",
+      "publishedAt": "2026-02-02T18:47:00+00:00",
+      "date": "2026-02-02 18:47:00",
+      "importance": 4,
+      "category": "chytré zemědělství",
+      "urlToImage": "https://www.bgr.com/img/gallery/chinas-farming-robots-are-a-lot-more-than-just-fancy-tractors/l-intro-1769620993.jpg",
+      "url": "/tech-news/2026-02-02/chinas-farming-robots-are-a-lot-more-than-just-fan/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BGR"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "LimX získává 200 milionů dolarů na vývoj vtělené inteligence pro humanoidní robotiku",
       "description": "Čínská společnost LimX Dynamics Inc., zabývající se autonomními humanoidními roboty na bázi umělé inteligence, oznámila získání přibližně 200 milionů dolarů v rané fázi financování. Peníze poslou k rozvoji vtělené inteligence, která umožňuje robotům učit se z interakce s reálným prostředím.",
