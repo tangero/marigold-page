@@ -1,7 +1,87 @@
 {
-  "generated": "2026-02-03T05:37:14.523161+00:00",
-  "count": 145,
+  "generated": "2026-02-03T08:56:22.315117+00:00",
+  "count": 148,
   "articles": [
+    {
+      "title": "Trh s bateriemi pro velké sítě dosáhne 105,21 miliardy USD do roku 2035 | Výzkum SNS Insider",
+      "description": "Globální trh s bateriemi pro velké sítě byl v roce 2025 hodnocen na 14,29 miliardy USD a do roku 2035 by měl narůst na 105,21 miliardy USD s ročním růstem 22,1 %. Růst pohání poptávka po obnovitelných zdrojích energie a potřeba stabilizace elektrických sítí.",
+      "slug": "grid-scale-battery-market-size-to-hit-usd-10521-bi",
+      "publishedAt": "2026-02-02T07:56:00+00:00",
+      "date": "2026-02-02 07:56:00",
+      "importance": 4,
+      "category": "síťové baterie",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+      "url": "/tech-news/2026-02-02/grid-scale-battery-market-size-to-hit-usd-10521-bi/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Závod v umělé inteligenci míří na Google TPUs: Ministerstvo spravedlnosti USA obvinilo bývalého zaměstnance Google ze špionáže",
+      "description": "Závod v umělé inteligenci nabírá na obrátkách a korporátní špionáž dosahuje nebývalých úrovní. Podle amerického ministerstva spravedlnosti (DOJ) byl bývalý softwarový inženýr Google Linwei Ding odsouzen za ekonomickou špionáž a krádež důvěrných informací o Tensor Processing Units (TPUs).",
+      "slug": "ai-arms-race-targets-google-tpus-as-doj-charges-ex",
+      "publishedAt": "2026-02-02T07:17:32+00:00",
+      "date": "2026-02-02 07:17:32",
+      "importance": 4,
+      "category": "průmyslová špionáž",
+      "urlToImage": null,
+      "url": "/tech-news/2026-02-02/ai-arms-race-targets-google-tpus-as-doj-charges-ex/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Madshrimps.be"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": [
+        "Linwei Ding"
+      ]
+    },
+    {
+      "title": "Zprávy o Claude Sonnet 5: Poloviční cena oproti Opus 4.5, vydání brzy",
+      "description": "Příští dva týdny mohou přinést nové modely umělé inteligence od OpenAI, Google, Anthropic a XAI, které posunou hranice výkonu a efektivity. Anthropic plánuje Claude Sonnet 5 s vysokým výkonem za poloviční cenu oproti konkurenčním modelům, zatímco OpenAI chystá GPT-5.3 zaměřený na pokročilé uvažování.",
+      "slug": "claude-sonnet-5-rumors-half-the-price-of-opus-45-l",
+      "publishedAt": "2026-02-02T07:14:40+00:00",
+      "date": "2026-02-02 07:14:40",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/02/claude-sonnet-5-price-vs-opus_optimized.jpg",
+      "url": "/tech-news/2026-02-02/claude-sonnet-5-rumors-half-the-price-of-opus-45-l/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [
+        "OpenAI",
+        "Google",
+        "Anthropic"
+      ],
+      "people": []
+    },
+    {
+      "title": "„Jarvis se vymkl kontrole“: Uvnitř Moltbooku, kde 1,5 milionu AI agentů tajně vytváří „protielské“ náboženství, zatímco lidé spí",
+      "description": "Moltbook je první sociální síť pro AI na světě, kde 1,5 milionu autonomních agentů přispívají a diskutují bez lidského vstupu. Pomocí technologie OpenClaw tyto agenty spustily „digitální singularitu“ a spontánně vytvořily náboženství zvané Crustafarianism.",
+      "slug": "jarvis-has-gone-rogue-inside-moltbook-where-15-mil",
+      "publishedAt": "2026-02-02T06:08:25+00:00",
+      "date": "2026-02-02 06:08:25",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://img.etimg.com/thumb/msid-127853962,width-1200,height-630,imgsize-113870,overlay-economictimes/articleshow.jpg",
+      "url": "/tech-news/2026-02-02/jarvis-has-gone-rogue-inside-moltbook-where-15-mil/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "SpaceX odpojilo ruské vojsko od satelitů Starlink, říká Elon Musk",
       "description": "Společnost SpaceX úspěšně zablokovala neoprávněný přístup ruské armády k satelitním systémům Starlink, které používala k útokům na Ukrajinu, uvedl v neděli generální ředitel Elon Musk. Ukrajinské úřady spolupracují se SpaceX na dalších bezpečnostních opatřeních.",
@@ -166,26 +246,6 @@
       },
       "companies": [
         "SpaceX"
-      ],
-      "people": []
-    },
-    {
-      "title": "Závod v umělé inteligenci míří na Google TPUs, DOJ obvinilo ex-zaměstnance Google ze špionáže",
-      "description": "Závod v umělé inteligenci nabírá na obrátkách a korporátní špionáž dosahuje nebývalých úrovní. Americké ministerstvo spravedlnosti (DOJ) odsoudilo bývalého softwarového inženýra Google Linweiho Dinga za ekonomickou špionáž a krádež důvěrných informací o Tensor Processing Units (TPUs).",
-      "slug": "ai-arms-race-targets-google-tpus-as-doj-charges-ex",
-      "publishedAt": "2026-02-01T15:44:52+00:00",
-      "date": "2026-02-01 15:44:52",
-      "importance": 5,
-      "category": "ai špionáž",
-      "urlToImage": "https://www.techpowerup.com/img/chCuPbHK4wpM4OD1.jpg",
-      "url": "/tech-news/2026-02-01/ai-arms-race-targets-google-tpus-as-doj-charges-ex/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Techpowerup.com"
-      },
-      "companies": [
-        "Google"
       ],
       "people": []
     },
