@@ -1,15 +1,57 @@
 {
-  "generated": "2026-02-03T01:36:23.729064+00:00",
-  "count": 165,
+  "generated": "2026-02-03T05:37:14.523161+00:00",
+  "count": 145,
   "articles": [
     {
-      "title": "Startup Alphabetu na robotaxi Waymo chce získat 16 miliard dolarů při valuaci 110 miliard",
-      "description": "Podnik Alphabetu Waymo LLC plánuje získat asi 16 miliard dolarů v nové kole financování, které by zvýšilo jeho valuaci na 110 miliard dolarů. Většinu částky poskytne sám Alphabet, doplněný investory jako Sequoia Capital nebo Andreessen Horowitz.",
+      "title": "SpaceX odpojilo ruské vojsko od satelitů Starlink, říká Elon Musk",
+      "description": "Společnost SpaceX úspěšně zablokovala neoprávněný přístup ruské armády k satelitním systémům Starlink, které používala k útokům na Ukrajinu, uvedl v neděli generální ředitel Elon Musk. Ukrajinské úřady spolupracují se SpaceX na dalších bezpečnostních opatřeních.",
+      "slug": "spacex-cuts-russian-military-link-to-starlink-sate",
+      "publishedAt": "2026-02-02T04:20:36+00:00",
+      "date": "2026-02-02 04:20:36",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/02/120195086.jpg?quality=75&strip=all&w=1200",
+      "url": "/tech-news/2026-02-02/spacex-cuts-russian-military-link-to-starlink-sate/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "New York Post"
+      },
+      "companies": [
+        "SpaceX"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Oracle odhaluje plán na získání 50 miliard dolarů pro ambice v AI datových centrech",
+      "description": "Společnost Oracle plánuje tento rok získat 45 až 50 miliard dolarů na rozšíření kapacity datových center pro úlohy umělé inteligence. Tento krok má financovat poptávku od klientů jako OpenAI, Meta nebo Nvidia, avšak znepokojuje investory kvůli rostoucímu dluhu firmy.",
+      "slug": "oracle-unveils-50b-fundraising-plan-to-fuel-ai-dat",
+      "publishedAt": "2026-02-02T02:41:19+00:00",
+      "date": "2026-02-02 02:41:19",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/AdobeStock_414268077_Editorial_Use_Only.jpeg",
+      "url": "/tech-news/2026-02-02/oracle-unveils-50b-fundraising-plan-to-fuel-ai-dat/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Oracle"
+      ],
+      "people": []
+    },
+    {
+      "title": "Startup Waymo od Alphabetu chce získat 16 miliard dolarů při valuaci 110 miliard",
+      "description": "Společnost Waymo, divize Alphabetu zaměřená na autonomní vozidla, plánuje nové kolo financování v objemu přibližně 16 miliard dolarů, které by její valuaci zvýšilo na 110 miliard. Většinu prostředků má poskytnout samotný Alphabet, doplněný významnými investory jako Sequoia Capital nebo Andreessen Horowitz.",
       "slug": "alphabets-robotaxi-startup-waymo-looks-to-raise-16",
       "publishedAt": "2026-02-02T00:55:17+00:00",
       "date": "2026-02-02 00:55:17",
       "importance": 4,
-      "category": "robotaxi",
+      "category": "autonomní vozy",
       "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Screenshot-from-2025-12-22-08-55-21.png",
       "url": "/tech-news/2026-02-02/alphabets-robotaxi-startup-waymo-looks-to-raise-16/",
       "source": {
@@ -25,7 +67,7 @@
     },
     {
       "title": "SpaceX žádá FCC o povolení k vybudování konstelace datových center ve vesmíru",
-      "description": "Společnost SpaceX vytváří solárně poháněnou síť satelitů, aby vyhověla explozivnímu růstu datových požadavků poháněných AI. Satelity mají sloužit jako orbitální datová centra pro výpočty umělé inteligence.",
+      "description": "SpaceX plánuje solárně poháněnou síť satelitů pro zpracování dat AI, aby uspokojila explozivní růst poptávky po výpočetním výkonu.",
       "slug": "spacex-seeks-fcc-nod-to-build-data-center-constell",
       "publishedAt": "2026-02-02T00:01:30+00:00",
       "date": "2026-02-02 00:01:30",
@@ -166,24 +208,6 @@
         "DeepMind",
         "Google"
       ],
-      "people": []
-    },
-    {
-      "title": "Speciál státního rozpočtu 2026",
-      "description": "Indická ministryně financí Nirmala Sitharaman představila svůj devátý státní rozpočet s důrazem na hospodářský růst, tvorbu pracovních míst a podporu výroby v náročných globálních podmínkách. Klíčovou změnou pro technologický sektor je daňová úleva do roku 2047 pro zahraniční poskytovatele cloudových služeb využívající data centra v Indii, což má posílit pozici země jako centra pro AI a digitální infrastrukturu.",
-      "slug": "union-budget-2026-special",
-      "publishedAt": "2026-02-01T13:42:09+00:00",
-      "date": "2026-02-01 13:42:09",
-      "importance": 4,
-      "category": "státní rozpočet",
-      "urlToImage": "https://img.etimg.com/thumb/msid-127842546,width-1070,height-580,imgsize-1972929,overlay-ettech/editionshow.jpg",
-      "url": "/tech-news/2026-02-01/union-budget-2026-special/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [],
       "people": []
     },
     {
@@ -2976,438 +3000,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Nature.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Wall Street je nervózní před výkazy Tesly za 4. čtvrtletí kvůli poklesu dodávek a rostoucí nejistotě v AI",
-      "description": "Analytici se obávají poklesu dodávek vozidel Tesly a výzev, kterým firma čelí v umělé inteligenci a robotice.",
-      "slug": "wall-street-is-feeling-anxious-ahead-of-teslas-q4-",
-      "publishedAt": "2026-01-27T19:34:00+00:00",
-      "date": "2026-01-27 19:34:00",
-      "importance": 4,
-      "category": "elektromobilita",
-      "urlToImage": "https://i.insider.com/6978ea2ed3c7faef0eccfdbd?width=1200&format=jpeg",
-      "url": "/tech-news/2026-01-27/wall-street-is-feeling-anxious-ahead-of-teslas-q4/",
-      "source": {
-        "emoji": "📰",
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "companies": [
-        "Tesla"
-      ],
-      "people": []
-    },
-    {
-      "title": "Proč musíte zahájit strategii postkvantové kryptografie hned teď – sponzorovaný obsah od Palo Alto Networks",
-      "description": "Sponzorovaný obsah od Palo Alto Networks. Článek zdůrazňuje nutnost okamžité migrace na kryptografii odolnou vůči kvantovým počítačům kvůli hrozbě sběru šifrovaných dat a budoucímu dešifrování.",
-      "slug": "why-your-post-quantum-cryptography-strategy-must-s",
-      "publishedAt": "2026-01-27T19:30:04+00:00",
-      "date": "2026-01-27 19:30:04",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://hbr.org/resources/images/article_assets/2026/01/AdobeStock_1688512515-1200x675-1.png",
-      "url": "/tech-news/2026-01-27/why-your-post-quantum-cryptography-strategy-must-s/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Harvard Business Review"
-      },
-      "companies": [
-        "Palo Alto Networks"
-      ],
-      "people": []
-    },
-    {
-      "title": "Anthropic plánuje získat 20 miliard dolarů při valuaci 350 miliard díky vysoké poptávce investorů",
-      "description": "Anthropic zdvojnásobuje svůj cíl na 20 miliard dolarů v nové investiční kole kvůli silné poptávce investorů a dosáhne valuace 350 miliard dolarů. Kolem vede singapurský suverénní fond GIC a americký investor Coatue, s dalšími zúčastněnými jako Sequoia Capital.",
-      "slug": "anthropic-targets-20b-raise-at-350b-valuation-as-i",
-      "publishedAt": "2026-01-27T18:59:55+00:00",
-      "date": "2026-01-27 18:59:55",
-      "importance": 4,
-      "category": "startupy",
-      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/01/27135851/765b1bec-e064-461c-86d7-e0792d868934-800x420.jpg",
-      "url": "/tech-news/2026-01-27/anthropic-targets-20b-raise-at-350b-valuation-as-i/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Crypto Briefing"
-      },
-      "companies": [
-        "Anthropic"
-      ],
-      "people": []
-    },
-    {
-      "title": "Od vyhledávání k nákupům: Čínští agenti umělé inteligence mění elektronický obchod a každodenní život",
-      "description": "Analytik predikuje, že první agent umělé inteligence v Číně dosáhne 300 milionů měsíčních aktivních uživatelů.",
-      "slug": "from-search-to-shopping-chinas-ai-agents-transform",
-      "publishedAt": "2026-01-27T16:09:27+00:00",
-      "date": "2026-01-27 16:09:27",
-      "importance": 4,
-      "category": "ai agenti",
-      "urlToImage": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1123535987.jpg?11235356251769530246",
-      "url": "/tech-news/2026-01-27/from-search-to-shopping-chinas-ai-agents-transform/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Sputnikglobe.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Šéf vědy OpenAI: Velké jazykové modely nejsou připraveny na nové objevy a to je v pořádku",
-      "description": "OpenAI v říjnu spustilo specializovaný tým OpenAI for Science pod vedením viceprezidenta Kevina Weila, jehož cílem je zvyšovat produktivitu vědců. Weil v rozhovoru pro MIT Technology Review přiznal, že velké jazykové modely (LLM) zatím neumí generovat skutečně nové objevy, což podle něj není současným úkolem těchto systémů.",
-      "slug": "openais-science-chief-says-llms-arent-ready-for-no",
-      "publishedAt": "2026-01-27T16:02:00+00:00",
-      "date": "2026-01-27 16:02:00",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://a.fsdn.com/sd/topics/ai_64.png",
-      "url": "/tech-news/2026-01-27/openais-science-chief-says-llms-arent-ready-for-no/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "companies": [
-        "OpenAI",
-        "MIT"
-      ],
-      "people": [
-        "Kevin Weil"
-      ]
-    },
-    {
-      "title": "Ai2 vydává rodinu open-source AI agentů pro vývojáře, kteří se adaptují na libovolný kódový základ",
-      "description": "Allen Institute for AI (Ai2) vydal Ai2 Open Coding Agents, sadu open-source nástrojů pro tvorbu a trénink vlastních kódovacích agentů. První model SERA řeší více než 55 % problémů na benchmarku SWE-Bench Verified a překonává srovnatelné open-source i některé uzavřené modely.",
-      "slug": "ai2-launches-family-of-open-source-ai-developer-ag",
-      "publishedAt": "2026-01-27T16:00:11+00:00",
-      "date": "2026-01-27 16:00:11",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/04/A-group-of-AI-agents-standing-in-a-semicircle-with-hands-on-keyboards-with-computer-code-flickering-.jpeg",
-      "url": "/tech-news/2026-01-27/ai2-launches-family-of-open-source-ai-developer-ag/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Ai2",
-        "GitHub",
-        "Allen Institute for AI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Velká Británie oznámila tým AI podporovaný Meta pro modernizaci veřejných služeb",
-      "description": "Britská vláda sestavila tým specialistů na umělou inteligenci financovaný společností Meta, aby vyvinul nástroje pro zlepšení dopravy, veřejné bezpečnosti a obrany. Premiér Keir Starmer zamýšlí využít technologii k zvýšení produktivity státní správy a rozvoji domácího AI průmyslu.",
-      "slug": "uk-announces-meta-backed-ai-team-to-upgrade-public",
-      "publishedAt": "2026-01-27T12:23:21+00:00",
-      "date": "2026-01-27 12:23:21",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--oXYUv9LK--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-01-27T122917Z_2_LYNXMPEM0Q0UX_RTROPTP_3_META-PLATFORMS-MESSAGING-WHATSAPP.JPG?itok=1JZMWvwv",
-      "url": "/tech-news/2026-01-27/uk-announces-meta-backed-ai-team-to-upgrade-public/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNA"
-      },
-      "companies": [
-        "Meta"
-      ],
-      "people": [
-        "Keir Starmer"
-      ]
-    },
-    {
-      "title": "Zpráva Zscaler 2026 o hrozbách AI: 91% meziroční nárůst aktivity AI vytváří rostoucí mezeru v dohledu pro globální podniky",
-      "description": "Rychlá adopce AI vytváří kritickou bezpečnostní mezeru mezi inovací a bezpečností, což vyžaduje, aby organizace přijaly platformu pro bezpečnost AI postavenou na principu Zero Trust. Zpráva analyzuje téměř bilion transakcí AI/ML a odhaluje zranitelnosti v podnikových systémech.",
-      "slug": "zscaler-2026-ai-threat-report-91-year-over-year-su",
-      "publishedAt": "2026-01-27T08:01:00+00:00",
-      "date": "2026-01-27 08:01:00",
-      "importance": 4,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/bc212637-6ad5-43b1-9aa5-f998c8fe68ba",
-      "url": "/tech-news/2026-01-27/zscaler-2026-ai-threat-report-91-year-over-year-su/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [
-        "Zscaler"
-      ],
-      "people": []
-    },
-    {
-      "title": "Meta otestuje prémiová předplatná pro Instagram, Facebook a WhatsApp",
-      "description": "Technologický gigant Meta spustí v příštích měsících testy prémiových předplatných pro uživatele Instagramu, Facebooku a WhatsAppu. Předplatitelé získají přístup k rozšířeným funkcím umělé inteligence, zatímco základní služby zůstanou zdarma.",
-      "slug": "meta-to-trial-premium-subscriptions-for-instagram-",
-      "publishedAt": "2026-01-27T06:34:15+00:00",
-      "date": "2026-01-27 06:34:15",
-      "importance": 4,
-      "category": "sociální sítě",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/eaa4/live/f5a13ad0-fb38-11f0-9ffe-0d55f5bffcbe.jpg",
-      "url": "/tech-news/2026-01-27/meta-to-trial-premium-subscriptions-for-instagram/",
-      "source": {
-        "emoji": "📰",
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "companies": [
-        "Meta"
-      ],
-      "people": []
-    },
-    {
-      "title": "Micron investuje 24 miliard dolarů do závodu v Singapuru kvůli boomu AI a nedostatku pamětí",
-      "description": "Společnost Micron Technology oznámila investici 24 miliard dolarů do rozšíření výroby paměťových čipů v Singapuru, aby zmírnila globální nedostatek způsobený rostoucí poptávkou po AI technologiích.",
-      "slug": "micron-to-invest-24-billion-in-singapore-plant-as-",
-      "publishedAt": "2026-01-27T06:33:14+00:00",
-      "date": "2026-01-27 06:33:14",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107094138-16588563032022-07-26t172411z_1787565250_rc2igy7tmv7z_rtrmadp_0_micron-tech-chips.jpeg?v=1681144814&w=1920&h=1080",
-      "url": "/tech-news/2026-01-27/micron-to-invest-24-billion-in-singapore-plant-as/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNBC"
-      },
-      "companies": [
-        "Micron Technology"
-      ],
-      "people": []
-    },
-    {
-      "title": "Nvidia spouští technologie AI pro podporu předpovědi počasí",
-      "description": "Společnost Nvidia nabízí nový open-source software a modely, které umožní vládám a firmám snadněji využívat umělou inteligenci a složitá data k vývoji vlastních systémů předpovědi počasí. Platforma Earth-2 zahrnuje AI modely pro předpovědi na dva týdny dopředu a krátkodobé výhledy bouří šest hodin předem.",
-      "slug": "nvidia-launches-ai-technologies-to-aid-weather-for",
-      "publishedAt": "2026-01-27T06:20:41+00:00",
-      "date": "2026-01-27 06:20:41",
-      "importance": 4,
-      "category": "předpověď počasí",
-      "urlToImage": "https://www.insurancejournal.com/img/social/opengraph/ij-social-default-1200x630.png",
-      "url": "/tech-news/2026-01-27/nvidia-launches-ai-technologies-to-aid-weather-for/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Insurance Journal"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": []
-    },
-    {
-      "title": "ASML těží z úspěchu Nvidia díky laserům a obřím tiskárnám čipů",
-      "description": "Zatímco firmy s umělou inteligencí soutěží o čipy Nvidia nezbytné pro AI boom, holandská ASML si vybudovala klíčovou pozici v dodavatelském řetězci výrobou laserových strojů na tisk čipů. Společnost, jejíž klienti zahrnují TSMC a Intel, vidí růst akcií díky zvýšeným investicím do výroby.",
-      "slug": "asml-rides-nvidias-coattails-with-lasers-and-huge-",
-      "publishedAt": "2026-01-27T06:20:03+00:00",
-      "date": "2026-01-27 06:20:03",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://s.yimg.com/os/en/reuters.com/bf5baaa9b1fba1404baa57c718064aec",
-      "url": "/tech-news/2026-01-27/asml-rides-nvidias-coattails-with-lasers-and-huge/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [
-        "ASML",
-        "Nvidia"
-      ],
-      "people": []
-    },
-    {
-      "title": "Micron plánuje továrnu na paměťové čipy za 24 miliard dolarů v Singapuru",
-      "description": "Americká společnost oznámila novou zařízení na výrobu plátků, které pomůže uspokojit rostoucí poptávku po paměťových čipech.",
-      "slug": "micron-plans-24bn-memory-chipmaking-plant-in-singa",
-      "publishedAt": "2026-01-27T04:28:41+00:00",
-      "date": "2026-01-27 04:28:41",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F5%2F5%2F9%2F12059556-2-eng-GB%2F199ab1df9380-2025-08-25T211349Z_305389776_RC2LEGA7NNRG_RTRMADP_3_MICRON-RESULTS.JPG?width=1260&fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=auto&height=630",
-      "url": "/tech-news/2026-01-27/micron-plans-24bn-memory-chipmaking-plant-in-singa/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Nikkei.com"
-      },
-      "companies": [
-        "Micron"
-      ],
-      "people": []
-    },
-    {
-      "title": "Generální ředitel Anthropic varuje, že lidstvo nemusí být připravené na pokročilou umělou inteligenci",
-      "description": "Generální ředitel Anthropic PBC Dario Amodei zveřejnil esej o rizicích vývoje mocných systémů umělé inteligence a způsobech jejich zmírnění. Varuje, že společnost prochází zkouškou ohně, která otestuje její zralost v ovládání této technologie.",
-      "slug": "anthropic-ceo-warns-humanity-may-not-be-ready-for-",
-      "publishedAt": "2026-01-27T03:49:14+00:00",
-      "date": "2026-01-27 03:49:14",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/53202070940_fc475bae14_c-1.jpg",
-      "url": "/tech-news/2026-01-27/anthropic-ceo-warns-humanity-may-not-be-ready-for/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Anthropic"
-      ],
-      "people": [
-        "Dario Amodei"
-      ]
-    },
-    {
-      "title": "Micron investuje 30,5 miliardy singapurských dolarů do Singapuru pro zvýšení výroby čipů, vytvoří 1600 pracovních míst",
-      "description": "Společnost Micron Technology investuje 30,5 miliardy singapurských dolarů (24 miliard USD) do nové továrny v Singapuru na výrobu NAND flash paměťových čipů pro datová centra poháněná AI. Tato továrna by měla být v provozu v druhé polovině roku 2028 a vytvoří 1600 pracovních míst.",
-      "slug": "micron-to-invest-305-billion-in-singapore-to-boost",
-      "publishedAt": "2026-01-27T03:31:14+00:00",
-      "date": "2026-01-27 03:31:14",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/37b4a04a7f77c682d1c846be2f6e9f2812c1b38b2cf0c8d6f6ce9426c75675eb",
-      "url": "/tech-news/2026-01-27/micron-to-invest-305-billion-in-singapore-to-boost/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Straits Times"
-      },
-      "companies": [
-        "Micron"
-      ],
-      "people": []
-    },
-    {
-      "title": "Nvidia investuje 2 miliardy dolarů do CoreWeave pro rozšíření AI infrastruktury",
-      "description": "Nvidia a cloudová firma CoreWeave rozšiřily partnerství na výstavbu více než 5 gigawattů AI 'továrn' do roku 2030, aby podpořily růst umělé inteligence. Nvidia v rámci dohody investovala 2 miliardy dolarů.",
-      "slug": "nvidia-pours-us2-billion-into-coreweave-for-ai-inf",
-      "publishedAt": "2026-01-27T03:25:33+00:00",
-      "date": "2026-01-27 03:25:33",
-      "importance": 4,
-      "category": "ai infrastruktura",
-      "urlToImage": "https://img.digitimes.com/newsshow/20260127vl202_files/1_2b.jpg",
-      "url": "/tech-news/2026-01-27/nvidia-pours-us2-billion-into-coreweave-for-ai-inf/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
-      },
-      "companies": [
-        "Nvidia",
-        "CoreWeave"
-      ],
-      "people": []
-    },
-    {
-      "title": "Samsung by mohl zahájit hromadnou výrobu čipů HBM4 příští měsíc pro Nvidia",
-      "description": "Čipy HBM3 a HBM3E od Samsungu, používané v akcelerátorech umělé inteligence, trpěly problémy s výkonem. Společnost je loni přepracovala, aby získala schválení od Nvidia, přesto byly použity jen v omezeném počtu akcelerátorů.",
-      "slug": "samsung-could-start-mass-production-of-hbm4-chips-",
-      "publishedAt": "2026-01-27T03:04:21+00:00",
-      "date": "2026-01-27 03:04:21",
-      "importance": 4,
-      "category": "hardware",
-      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2025/12/Nvidia-Vera-Rubin-NVL144-Tray-AI-Platform-GTC-2025-1200x675.jpg",
-      "url": "/tech-news/2026-01-27/samsung-could-start-mass-production-of-hbm4-chips/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SamMobile"
-      },
-      "companies": [
-        "Samsung",
-        "Nvidia"
-      ],
-      "people": []
-    },
-    {
-      "title": "Micron zahájil stavbu pokročilé továrny na výrobu waferů v Singapuru",
-      "description": "Společnost Micron Technology investuje přibližně 24 miliard USD během 10 let do nové továrny v Singapuru, která poskytne 700 000 čtverečních stop prostoru pro čisté místnosti a podpoří poptávku po NAND pamětech poháněnou AI.",
-      "slug": "micron-breaks-ground-on-advanced-wafer-fabrication",
-      "publishedAt": "2026-01-27T02:30:00+00:00",
-      "date": "2026-01-27 02:30:00",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/7b41b567-5fa9-4dee-8bcb-9ea728ca57ee",
-      "url": "/tech-news/2026-01-27/micron-breaks-ground-on-advanced-wafer-fabrication/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [
-        "Micron"
-      ],
-      "people": []
-    },
-    {
-      "title": "Microsoft představuje AI čip Maia 200, pokrok v hromadné výrobě přitahuje pozornost",
-      "description": "Microsoft 27. ledna oficiálně představil svůj druhý AI akcelerátor Maia 200, čímž pokračuje v úsilí o vývoj vlastních čipů od roku 2019. Nový čip se zaměřuje na zlepšený výkon při odvozování modelů a vyrábí se na pokročilém 3nm procesu TSMC.",
-      "slug": "microsoft-launches-maia-200-ai-chip-mass-productio",
-      "publishedAt": "2026-01-27T02:07:44+00:00",
-      "date": "2026-01-27 02:07:44",
-      "importance": 4,
-      "category": "ai hardware",
-      "urlToImage": "https://img.digitimes.com/newsshow/20260127pd201_files/2_b.jpg",
-      "url": "/tech-news/2026-01-27/microsoft-launches-maia-200-ai-chip-mass-productio/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
-      },
-      "companies": [
-        "Microsoft",
-        "TSMC"
-      ],
-      "people": []
-    },
-    {
-      "title": "Apple zvažovalo Anthropic a OpenAI před partnerstvím s Googlem v oblasti umělé inteligence",
-      "description": "Před uzavřením spolupráce s Googlem na vývoji další generace hlasového asistenta Siri Apple vedlo jednání s firmami Anthropic a OpenAI. Apple odmítlo partnerství s Anthropic kvůli vysokým finančním požadavkům a OpenAI kvůli rostoucí konkurenci mezi společnostmi.",
-      "slug": "apple-considered-anthropic-and-openai-before-partn",
-      "publishedAt": "2026-01-27T02:06:58+00:00",
-      "date": "2026-01-27 02:06:58",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/01/Apple-Google1.jpg",
-      "url": "/tech-news/2026-01-27/apple-considered-anthropic-and-openai-before-partn/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "pymnts.com"
-      },
-      "companies": [
-        "Apple",
-        "Anthropic",
-        "OpenAI",
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Humanoidní roboti zaostávají v efektivitě",
-      "description": "Humanoidní roboti se stali symbolem přechodu umělé inteligence (AI) do fyzické ekonomiky. Navrženy pro chůzi, zvedání, uchopování a interakci v lidských prostředích, slibují řešení nedostatku pracovní síly, avšak jejich reálná produktivita výrazně zaostává za očekáváním.",
-      "slug": "humanoid-robots-are-falling-short-on-efficiency",
-      "publishedAt": "2026-01-27T00:42:31+00:00",
-      "date": "2026-01-27 00:42:31",
-      "importance": 4,
-      "category": "humanoidní roboti",
-      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/01/humanoid-robotics-logistics.jpeg",
-      "url": "/tech-news/2026-01-27/humanoid-robots-are-falling-short-on-efficiency/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "pymnts.com"
       },
       "companies": [],
       "people": []
