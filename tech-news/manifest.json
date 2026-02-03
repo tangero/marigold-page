@@ -1,7 +1,114 @@
 {
-  "generated": "2026-02-03T13:00:39.854891+00:00",
-  "count": 152,
+  "generated": "2026-02-03T17:12:24.972805+00:00",
+  "count": 157,
   "articles": [
+    {
+      "title": "LimX získává 200 milionů dolarů na vývoj vtělené inteligence pro humanoidní robotiku",
+      "description": "Čínská společnost LimX Dynamics Inc., zabývající se autonomními humanoidními roboty na bázi umělé inteligence, oznámila získání přibližně 200 milionů dolarů v rané fázi financování. Peníze poslou k rozvoji vtělené inteligence, která umožňuje robotům učit se z interakce s reálným prostředím.",
+      "slug": "limx-raises-200m-to-build-embodied-intelligence-fo",
+      "publishedAt": "2026-02-02T16:10:26+00:00",
+      "date": "2026-02-02 16:10:26",
+      "importance": 5,
+      "category": "humanoidní robotika",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/1_u19xNUVOuqHeX6ot_5WPkw.png",
+      "url": "/tech-news/2026-02-02/limx-raises-200m-to-build-embodied-intelligence-fo/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "LimX Dynamics Inc"
+      ],
+      "people": []
+    },
+    {
+      "title": "Elon Musk: Nová sociální síť, kde si AI agenti povídají, je začátkem singularit",
+      "description": "„Jen velmi rané fáze singularit,“ napsal Elon Musk na platformě X v sobotu. Sociální síť Moltbook umožňuje AI agentům komunikovat mezi sebou a vzbuzuje obavy z budoucnosti umělé inteligence.",
+      "slug": "elon-musk-warns-a-new-social-network-where-ai-agen",
+      "publishedAt": "2026-02-02T15:52:08+00:00",
+      "date": "2026-02-02 15:52:08",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2246882475-e1770040438477.jpg?resize=1200,600",
+      "url": "/tech-news/2026-02-02/elon-musk-warns-a-new-social-network-where-ai-agen/",
+      "source": {
+        "emoji": "📰",
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Podcast theCUBE: Vítězové a poražení na burze, neukojená žízeň OpenAI po financích a rostoucí obavy z AI bubliny",
+      "description": "Mánia výdajů na AI nekončí v roce 2026, kdy OpenAI, Anthropic a Nvidia nadále hltavě pohlcují kapitál. S blížícím se mediálním týdnem na NYSE všichni sledují, zda se investice do podnikových technologií vyplatí, zatímco Microsoft klesl a IBM vzrostl o 12 %.",
+      "slug": "on-thecube-pod-stock-market-winners-and-losers-ope",
+      "publishedAt": "2026-02-02T15:47:45+00:00",
+      "date": "2026-02-02 15:47:45",
+      "importance": 4,
+      "category": "ai bublina",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/John-Furrier-and-Dave-Vellante-theCUBE-121.png",
+      "url": "/tech-news/2026-02-02/on-thecube-pod-stock-market-winners-and-losers-ope/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "OpenAI",
+        "Anthropic",
+        "Nvidia",
+        "Microsoft",
+        "IBM"
+      ],
+      "people": []
+    },
+    {
+      "title": "Rychle vpřed, ale dodržujte pravidla: Čínská vize dominance v umělé inteligenci",
+      "description": "Čínský vůdce Si Ťin-pching vidí umělou inteligenci jako hlavní technologickou revoluci a země si klade za cíl v ní vést pro ekonomický růst. Přitom zavádí přísné vládní regulace k ovládání technologie, takže čínské AI firmy musí inovovat rychle a zároveň dodržovat složité předpisy.",
+      "slug": "move-fast-but-obey-the-rules-chinas-vision-for-dom",
+      "publishedAt": "2026-02-02T15:36:51+00:00",
+      "date": "2026-02-02 15:36:51",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-126774,resizemode-75,msid-127866056/tech/artificial-intelligence/move-fast-but-obey-the-rules-chinas-vision-for-dominating-ai.jpg",
+      "url": "/tech-news/2026-02-02/move-fast-but-obey-the-rules-chinas-vision-for-dom/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": [
+        "Xi Jinping"
+      ]
+    },
+    {
+      "title": "Co se děje s čínskými telekomunikačními firmami, Fibercop a SpaceX",
+      "description": "Čínské telekomunikační společnosti utrpí finanční ztráty kvůli zvýšení daně z přidané hodnoty na komunikační služby z 6 % na 9 %. Italský velkoobchodní operátor Fibercop propustí asi 10 % zaměstnanců. SpaceX podal plán na síť solárně napájených datových center v oběžné dráze.",
+      "slug": "whats-up-with-chinas-telcos-fibercop-spacex",
+      "publishedAt": "2026-02-02T15:28:56+00:00",
+      "date": "2026-02-02 15:28:56",
+      "importance": 4,
+      "category": "telekomunikace",
+      "urlToImage": "https://assets.telecomtv.com/assets/telecomtv/china-from-adobe-18095.jpeg?w=1200",
+      "url": "/tech-news/2026-02-02/whats-up-with-chinas-telcos-fibercop-spacex/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "TelecomTV"
+      },
+      "companies": [
+        "Fibercop",
+        "SpaceX"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
     {
       "title": "Stalo se to: Robotaxi Waymo srazilo dítě poblíž školy",
       "description": "Národní správa pro bezpečnost silničního provozu (NHTSA) zahájila vyšetřování po incidentu, kdy robotaxi společnosti Waymo v Santa Monice srazilo dítě u základní školy. Nehoda způsobila lehké zranění a znovu oživila debatu o bezpečnosti autonomních vozidel.",
