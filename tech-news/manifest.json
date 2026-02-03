@@ -1,7 +1,83 @@
 {
-  "generated": "2026-02-03T08:56:22.315117+00:00",
-  "count": 148,
+  "generated": "2026-02-03T13:00:39.854891+00:00",
+  "count": 152,
   "articles": [
+    {
+      "title": "Stalo se to: Robotaxi Waymo srazilo dítě poblíž školy",
+      "description": "Národní správa pro bezpečnost silničního provozu (NHTSA) zahájila vyšetřování po incidentu, kdy robotaxi společnosti Waymo v Santa Monice srazilo dítě u základní školy. Nehoda způsobila lehké zranění a znovu oživila debatu o bezpečnosti autonomních vozidel.",
+      "slug": "it-happened-a-waymo-robotaxi-has-struck-a-child-ne",
+      "publishedAt": "2026-02-02T12:29:09+00:00",
+      "date": "2026-02-02 12:29:09",
+      "importance": 4,
+      "category": "autonomní vozy",
+      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/01/waymo_passes-school-bus.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2026-02-02/it-happened-a-waymo-robotaxi-has-struck-a-child-ne/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Electrek"
+      },
+      "companies": [
+        "Waymo"
+      ],
+      "people": []
+    },
+    {
+      "title": "⚡ Týdenní shrnutí: Proxy Botnet, Zero-Day v Office, Výkupné u MongoDB, Únosy AI a nové hrozby",
+      "description": "Každý týden přináší nové objevy, útoky a obrany, které formují stav kybernetické bezpečnosti. Některé hrozby jsou zastaveny rychle, jiné zůstávají neviditelné, dokud nezpůsobí skutečné škody. Někdy stačí jediný update, exploit nebo chyba, aby se změnil pohled na rizika.",
+      "slug": "weekly-recap-proxy-botnet-office-zero-day-mongodb-",
+      "publishedAt": "2026-02-02T11:59:00+00:00",
+      "date": "2026-02-02 11:59:00",
+      "importance": 5,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhn9uSby99DCwswXd6TJFvm-PoprW_CRTBw9ybmBUQv9frf03WLoy6wgTB5IhjjulguZSLvc72tXk-6OrsFDjg5_Ab1QivwnXKZY16oC4sJ9iKE39MyxSXmXdWZ8o3XdAc4X3vB6-ed7x5WvNt149AgZ7EI7sTg2FDqcWU5HkI9Mli-dDUPUzj_ub_-umx0/s1700-e365/recap.jpg",
+      "url": "/tech-news/2026-02-02/weekly-recap-proxy-botnet-office-zero-day-mongodb/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Internet"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Rozhovor: Proč je identita jádrem kyberbezpečnosti",
+      "description": "V době konsolidace trhu mluví Computer Weekly s vedením Keeper Security o tom, jak systémy správy identit a přístupu se stávají jednotnými platformami pro zabezpečení identit lidí i strojů. Ředitel Darren Guccione a technický ředitel Craig Lurey diskutují růst nehumánních identit a umělých agentů.",
+      "slug": "interview-why-identity-is-the-nucleus-for-cyber-se",
+      "publishedAt": "2026-02-02T11:56:00+00:00",
+      "date": "2026-02-02 11:56:00",
+      "importance": 5,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://www.computerweekly.com/visuals/German/Hero-Identitaetsmanagement-By-Natalia-Adobe-02.jpg",
+      "url": "/tech-news/2026-02-02/interview-why-identity-is-the-nucleus-for-cyber-se/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "ComputerWeekly.com"
+      },
+      "companies": [
+        "Keeper Security"
+      ],
+      "people": []
+    },
+    {
+      "title": "Cítíte už AGI?",
+      "description": "Podle některých předpovědí je rok 2026 tím, kdy přijde všemocná umělá inteligence.",
+      "slug": "do-you-feel-the-agi-yet",
+      "publishedAt": "2026-02-02T11:42:00+00:00",
+      "date": "2026-02-02 11:42:00",
+      "importance": 5,
+      "category": "ai",
+      "urlToImage": "https://cdn.theatlantic.com/thumbor/OgjIM9FclMKqFvTCpPp0bTU3XjI=/2x22:1096x596/960x504/media/img/mt/2026/01/2026_01_014_AGI_mpg/original.gif",
+      "url": "/tech-news/2026-02-02/do-you-feel-the-agi-yet/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Atlantic"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Trh s bateriemi pro velké sítě dosáhne 105,21 miliardy USD do roku 2035 | Výzkum SNS Insider",
       "description": "Globální trh s bateriemi pro velké sítě byl v roce 2025 hodnocen na 14,29 miliardy USD a do roku 2035 by měl narůst na 105,21 miliardy USD s ročním růstem 22,1 %. Růst pohání poptávka po obnovitelných zdrojích energie a potřeba stabilizace elektrických sítí.",
