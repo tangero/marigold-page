@@ -1,7 +1,72 @@
 {
-  "generated": "2026-02-02T16:55:38.890092+00:00",
-  "count": 162,
+  "generated": "2026-02-03T01:36:23.729064+00:00",
+  "count": 165,
   "articles": [
+    {
+      "title": "Startup Alphabetu na robotaxi Waymo chce získat 16 miliard dolarů při valuaci 110 miliard",
+      "description": "Podnik Alphabetu Waymo LLC plánuje získat asi 16 miliard dolarů v nové kole financování, které by zvýšilo jeho valuaci na 110 miliard dolarů. Většinu částky poskytne sám Alphabet, doplněný investory jako Sequoia Capital nebo Andreessen Horowitz.",
+      "slug": "alphabets-robotaxi-startup-waymo-looks-to-raise-16",
+      "publishedAt": "2026-02-02T00:55:17+00:00",
+      "date": "2026-02-02 00:55:17",
+      "importance": 4,
+      "category": "robotaxi",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Screenshot-from-2025-12-22-08-55-21.png",
+      "url": "/tech-news/2026-02-02/alphabets-robotaxi-startup-waymo-looks-to-raise-16/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Alphabet",
+        "Waymo"
+      ],
+      "people": []
+    },
+    {
+      "title": "SpaceX žádá FCC o povolení k vybudování konstelace datových center ve vesmíru",
+      "description": "Společnost SpaceX vytváří solárně poháněnou síť satelitů, aby vyhověla explozivnímu růstu datových požadavků poháněných AI. Satelity mají sloužit jako orbitální datová centra pro výpočty umělé inteligence.",
+      "slug": "spacex-seeks-fcc-nod-to-build-data-center-constell",
+      "publishedAt": "2026-02-02T00:01:30+00:00",
+      "date": "2026-02-02 00:01:30",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2250382327-e1769990295527.jpg?resize=1200,600",
+      "url": "/tech-news/2026-02-02/spacex-seeks-fcc-nod-to-build-data-center-constell/",
+      "source": {
+        "emoji": "📰",
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "companies": [
+        "SpaceX"
+      ],
+      "people": []
+    },
+    {
+      "title": "Firma podporovaná OpenAI chce číst myšlenky ultrazvukem. Je věda za tím pevná?",
+      "description": "Odštěpená společnost Merge Labs chce konkurovat Neuralinku Elona Muska a používat ultrazvuk k čtení a ovlivňování mozkové aktivity bez invazivních implantátů. Výzkumníci však upozorňují, že technologie je stále v rané fázi vývoje.",
+      "slug": "openai-backed-firm-to-use-ultrasound-to-read-minds",
+      "publishedAt": "2026-02-02T00:00:00+00:00",
+      "date": "2026-02-02 00:00:00",
+      "importance": 4,
+      "category": "neurotechnologie",
+      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-00329-x/d41586-026-00329-x_52008718.jpg",
+      "url": "/tech-news/2026-02-02/openai-backed-firm-to-use-ultrasound-to-read-minds/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Nature.com"
+      },
+      "companies": [
+        "OpenAI",
+        "Merge Labs",
+        "Neuralink"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
     {
       "title": "Bývalý inženýr Google odsouzen za krádež tajemství o GPU a TPU ve prospěch čínských zájmů – snažil se získat financování pro svou startup",
       "description": "Federální porota v San Franciscu uznala bývalého inženýra Google Linweiho Dinga vinným z krádeže důvěrných dat o infrastruktuře AI a jejich předání ve prospěch čínských zájmů. Ding byl odsouzen na 14 bodů, včetně ekonomické špionáže a krádeže obchodních tajemství.",
