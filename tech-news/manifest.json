@@ -1,7 +1,116 @@
 {
-  "generated": "2026-02-04T05:36:00.677004+00:00",
-  "count": 154,
+  "generated": "2026-02-04T08:52:46.366102+00:00",
+  "count": 159,
   "articles": [
+    {
+      "title": "Elon Musk spojuje své raketové a AI podniky před očekávaným IPO letos",
+      "description": "Elon Musk spojuje své podniky v oblasti vesmírného průzkumu a umělé inteligence do jedné společnosti před plánovaným velkým úvodem na burzu letos. Akvizice xAI firmou SpaceX má umožnit dominanci v raketovém i AI sektoru.",
+      "slug": "elon-musk-combines-his-rocket-and-ai-businesses-be",
+      "publishedAt": "2026-02-03T08:27:31+00:00",
+      "date": "2026-02-03 08:27:31",
+      "importance": 5,
+      "category": "kosmonautika",
+      "urlToImage": "https://i.abcnewsfe.com/a/18b0bdda-9f90-40ee-a816-0c1297a69a50/wirestory_2079f03fa888652b7fe836afe8b670a1_16x9.jpg?w=1600",
+      "url": "/tech-news/2026-02-03/elon-musk-combines-his-rocket-and-ai-businesses-be/",
+      "source": {
+        "emoji": "📰",
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "OpenAI spouští aplikaci Codex, aby vyzvalo konkurenty v boomu AI pro kódování",
+      "description": "OpenAI oficiálně vydalo samostatnou aplikaci pro Codex, svého AI asistenta pro generování kódu. Tento nástroj umožňuje spravovat více AI agentů současně a podporuje dlouhodobé projekty, což je reakce na rostoucí konkurenci v oblasti AI pro programování.",
+      "slug": "openai-rolls-out-codex-app-to-challenge-rivals-in-",
+      "publishedAt": "2026-02-03T08:00:32+00:00",
+      "date": "2026-02-03 08:00:32",
+      "importance": 4,
+      "category": "programování",
+      "urlToImage": "https://www.ghacks.net/wp-content/uploads/2026/02/gHacks-articles-20.png",
+      "url": "/tech-news/2026-02-03/openai-rolls-out-codex-app-to-challenge-rivals-in/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Ghacks Technology News"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Elon Musk sloučil SpaceX se svým startupem xAI s cílem provozovat datová centra ve vesmíru",
+      "description": "Musk opakovaně mluvil o nutnosti urychlit vývoj technologií umožňujících provoz datových center ve vesmíru. Sloučení zahrnuje SpaceX, xAI, Starlink a sociální síť X před plánovaným velkým IPO.",
+      "slug": "elon-musk-has-merged-spacex-with-his-ai-start-up-w",
+      "publishedAt": "2026-02-03T07:40:11+00:00",
+      "date": "2026-02-03 07:40:11",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://img2.thejournal.ie/article/6945149/river/?height=400&version=6945154",
+      "url": "/tech-news/2026-02-03/elon-musk-has-merged-spacex-with-his-ai-start-up-w/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "TheJournal.ie"
+      },
+      "companies": [
+        "SpaceX"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Vysvětleno: Proč Elon Musk sloučil své vesmírné a AI firmy do kolosa v hodnotě 1,25 bilionu dolarů",
+      "description": "SpaceX převzalo xAI, čímž se xAI stalo plně vlastněnou dceřinou společností pod korporátní strukturou SpaceX. Musk tento kombinovaný subjekt prezentuje jako integrovanou platformu spojující rakety, satelity, pokročilé AI modely a sociální síť spojenou s xAI.",
+      "slug": "explained-why-elon-musk-merged-his-space-and-ai-bu",
+      "publishedAt": "2026-02-03T07:17:36+00:00",
+      "date": "2026-02-03 07:17:36",
+      "importance": 5,
+      "category": "kosmonautika",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-43178,resizemode-75,msid-127879135/tech/technology/explained-why-elon-musk-merged-his-space-and-ai-businesses-to-create-a-1-25-trillion-behemoth.jpg",
+      "url": "/tech-news/2026-02-03/explained-why-elon-musk-merged-his-space-and-ai-bu/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "SpaceX",
+        "xAI"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "AMD a Broadcom podporují FOPLP od Powertech; měsíční příjmy dosáhnou 3 miliard NT$",
+      "description": "Společnost Powertech Technology, přední výrobce balení pamětí, intenzivně expanduje do technologie fan-out panel-level packaging (FOPLP) s podporou AMD a Broadcom. Předseda Duh-Kung Tsai vyjádřil optimismus ohledně AI průmyslu uprostřed nedostatku pamětí a rostoucí poptávky po pokročilém balení čipů.",
+      "slug": "amd-and-broadcom-back-powertechs-foplp-monthly-rev",
+      "publishedAt": "2026-02-03T07:06:24+00:00",
+      "date": "2026-02-03 07:06:24",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://img.digitimes.com/newsshow/20260203pd218_files/1_b.jpg",
+      "url": "/tech-news/2026-02-03/amd-and-broadcom-back-powertechs-foplp-monthly-rev/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [
+        "AMD",
+        "Broadcom",
+        "Powertech Technology"
+      ],
+      "people": [
+        "Duh-Kung Tsai"
+      ]
+    },
     {
       "title": "Mega dohoda SpaceX–xAI Elona Muska ostří pozornost na účetnictví bitcoinu před IPO",
       "description": "Fúze SpaceX s firmou xAI soustřeďuje expozici vůči kryptoměnám napříč Muskými podniky. Tesla patří mezi největší veřejné držitele bitcoinu, zatímco sloučená společnost zdědí bitcoinové zásoby SpaceX v hodnotě zhruba 650 milionů dolarů.",
