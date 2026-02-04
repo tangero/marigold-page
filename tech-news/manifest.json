@@ -1,7 +1,162 @@
 {
-  "generated": "2026-02-03T20:51:52.074873+00:00",
-  "count": 160,
+  "generated": "2026-02-04T01:24:54.209637+00:00",
+  "count": 167,
   "articles": [
+    {
+      "title": "SoftBank a Intel spojují síly na technologii pamětí příští generace",
+      "description": "Startup SAIMEMORY, založený SoftBankem, podepsal dohodu s Intelem na společné komercializaci pamětí ZAM s vysokou kapacitou, širokým pásmem a nízkou spotřebou energie. Spolupráce zahrnuje i Riken a Fujitsu, s plánem na prototyp do fiskálního roku 2027.",
+      "slug": "softbank-and-intel-join-forces-on-next-generation-",
+      "publishedAt": "2026-02-03T00:40:41+00:00",
+      "date": "2026-02-03 00:40:41",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://i2.ytimg.com/vi/0UYw9CoOGns/mqdefault.jpg",
+      "url": "/tech-news/2026-02-03/softbank-and-intel-join-forces-on-next-generation/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Newsonjapan.com"
+      },
+      "companies": [
+        "SoftBank",
+        "Intel",
+        "SAIMEMORY"
+      ],
+      "people": []
+    },
+    {
+      "title": "SpaceX plánuje datová centra v oběžné dráze kvůli zatížení infrastruktury AI",
+      "description": "SpaceX žádá o federální schválení pro spuštění až 1 milionu solárních satelitních datových center do oběžné dráhy, aby zvládlo rostoucí poptávku po výpočetním výkonu a energii bez zatěžování pozemních sítí, vodních zdrojů a stavebních předpisů.",
+      "slug": "spacex-aims-for-data-centers-in-orbit-as-ai-strain",
+      "publishedAt": "2026-02-03T00:39:03+00:00",
+      "date": "2026-02-03 00:39:03",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/02/SpaceX-AI-infrastructure.jpeg",
+      "url": "/tech-news/2026-02-03/spacex-aims-for-data-centers-in-orbit-as-ai-strain/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [
+        "SpaceX"
+      ],
+      "people": []
+    },
+    {
+      "title": "SpaceX Elona Muska získává xAI v rekordní dohodě před obřím IPO",
+      "description": "Nová dohoda spojí několik projektů Elona Muska, včetně jeho AI chatbota Grok, satelitní komunikační společnosti Starlink a sociální sítě X. Transakce hodnotí SpaceX na 1 bilion dolarů a xAI na 250 miliard dolarů.",
+      "slug": "elon-musks-spacex-acquires-xai-in-record-setting-d",
+      "publishedAt": "2026-02-03T00:07:51+00:00",
+      "date": "2026-02-03 00:07:51",
+      "importance": 5,
+      "category": "akvizice",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2026/02/02/1600x900/SWITZERLAND-POLITICS-ECONOMY-DIPLOMACY-102_1770076510795_1770076523213.jpg",
+      "url": "/tech-news/2026-02-03/elon-musks-spacex-acquires-xai-in-record-setting-d/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Livemint"
+      },
+      "companies": [
+        "SpaceX",
+        "xAI",
+        "Starlink"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Google Cloud a Liberty Global uzavírají pětileté partnerství v oblasti AI",
+      "description": "Google Cloud a Liberty Global uzavřely pětileté strategické partnerství na nasazení modelů Gemini AI a dalších cloudových nástrojů v evropských operacích Liberty Global. Dohoda podpoří AI vyhledávání na TV platformě Horizon, automatizaci zákaznického servisu a prodej Google zařízení jako Pixel telefony.",
+      "slug": "google-cloud-liberty-global-strike-five-year-ai-pa",
+      "publishedAt": "2026-02-03T00:06:00+00:00",
+      "date": "2026-02-03 00:06:00",
+      "importance": 4,
+      "category": "ai partnerství",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--hOhZYNkK--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-02-03T000518Z_1_LYNXMPEM12004_RTROPTP_3_TECH-CONFERENCE-MWC.JPG?itok=Zsa74ouL",
+      "url": "/tech-news/2026-02-03/google-cloud-liberty-global-strike-five-year-ai-pa/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNA"
+      },
+      "companies": [
+        "Alphabet",
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Waymo se přibližuje cenám Uberu a Lyftu, více pasažérů důvěřuje robotaxi",
+      "description": "Robotaxi byly dosud dražší s delšími čekacími dobami. Studie agregátoru Obi naznačuje, že se situace mění díky poklesu cen Wayma a zkrácení čekání.",
+      "slug": "waymo-closes-in-on-uber-and-lyft-prices-as-more-ri",
+      "publishedAt": "2026-02-02T23:49:07+00:00",
+      "date": "2026-02-02 23:49:07",
+      "importance": 4,
+      "category": "autonomní vozy",
+      "urlToImage": "https://singularityhub.com/uploads/2026/02/waymo-robotaxi-driving-city-street.jpeg?auto=webp",
+      "url": "/tech-news/2026-02-02/waymo-closes-in-on-uber-and-lyft-prices-as-more-ri/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Singularity Hub"
+      },
+      "companies": [
+        "Waymo",
+        "Uber",
+        "Lyft",
+        "Obi"
+      ],
+      "people": []
+    },
+    {
+      "title": "D-Wave prosazuje dvoukolejnou kvantovou strategii proti výzvám od IBM a Google",
+      "description": "Společnost D-Wave zahájila rok 2026 řadou strategických iniciativ k posílení své pozice v závodě o komercializaci kvantového výpočtu. Firma, která se dlouhodobě zaměřuje na technologii quantum annealing pro řešení optimalizačních problémů, nedávno dokončila klíčové kroky v této oblasti.",
+      "slug": "d-wave-pursues-dual-track-quantum-strategy-to-face",
+      "publishedAt": "2026-02-02T23:45:09+00:00",
+      "date": "2026-02-02 23:45:09",
+      "importance": 5,
+      "category": "kvantové počítače",
+      "urlToImage": "https://img.digitimes.com/newsshow/20260202pd229_files/2_2b.jpg",
+      "url": "/tech-news/2026-02-02/d-wave-pursues-dual-track-quantum-strategy-to-face/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [
+        "D-Wave",
+        "IBM",
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "SpaceX získává Muskovu xAI pro plány na orbitální datová centra",
+      "description": "SpaceX se slučuje s Elonovou firmou xAI před plánovaným IPO, které má přinést desítky miliard dolarů. Fúze má umožnit výstavbu datových center ve vesmíru s využitím až milionu satelitů.",
+      "slug": "spacex-acquires-musks-xai-to-fuel-orbital-data-cen",
+      "publishedAt": "2026-02-02T23:44:57+00:00",
+      "date": "2026-02-02 23:44:57",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://sm.pcmag.com/t/pcmag_uk/news/s/spacex-acq/spacex-acquires-musks-xai-to-fuel-orbital-data-center-plans_bvxz.1200.jpg",
+      "url": "/tech-news/2026-02-02/spacex-acquires-musks-xai-to-fuel-orbital-data-cen/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "PCMag.com"
+      },
+      "companies": [
+        "SpaceX",
+        "xAI"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
     {
       "title": "Varo získala 123,9 milionu dolarů na rozšíření půjčkové a bankovní platformy",
       "description": "Digitální challenger banka Varo získala tento týden 123,9 milionu dolarů v Series G kole financování, čímž své celkové financování zvýšila na 1,1 miliardy dolarů. Kolem vedl stávající investor Warburg Pincus a nový investor Coliseum Capital Management, přispěl také Northview.",
