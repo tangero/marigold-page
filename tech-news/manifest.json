@@ -1,7 +1,266 @@
 {
-  "generated": "2026-02-04T01:24:54.209637+00:00",
-  "count": 167,
+  "generated": "2026-02-04T05:36:00.677004+00:00",
+  "count": 154,
   "articles": [
+    {
+      "title": "Mega dohoda SpaceX–xAI Elona Muska ostří pozornost na účetnictví bitcoinu před IPO",
+      "description": "Fúze SpaceX s firmou xAI soustřeďuje expozici vůči kryptoměnám napříč Muskými podniky. Tesla patří mezi největší veřejné držitele bitcoinu, zatímco sloučená společnost zdědí bitcoinové zásoby SpaceX v hodnotě zhruba 650 milionů dolarů.",
+      "slug": "musks-spacexxai-mega-deal-sharpens-focus-on-bitcoi",
+      "publishedAt": "2026-02-03T04:53:36+00:00",
+      "date": "2026-02-03 04:53:36",
+      "importance": 4,
+      "category": "kryptoměny",
+      "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/97bf2e29eb3c1b7bbc38861e392cdd3baacfcacf-1919x1080.jpg?auto=format",
+      "url": "/tech-news/2026-02-03/musks-spacexxai-mega-deal-sharpens-focus-on-bitcoi/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CoinDesk"
+      },
+      "companies": [
+        "SpaceX",
+        "xAI",
+        "Tesla"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Dohoda Indie a USA hlavním katalyzátorem pro indický ekosystém elektroniky a polovodičů: prezident IESA",
+      "description": "Dohoda urychlí design a výrobu polovodičů, zvýší přidanou hodnotu v elektronice a rozšíří spolupráci v oblastech AI, datových center a pokročilé výroby, uvedl Ashok Chandak, prezident IESA.",
+      "slug": "india-us-deal-a-major-catalyst-for-our-electronics",
+      "publishedAt": "2026-02-03T04:53:36+00:00",
+      "date": "2026-02-03 04:53:36",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://bl-i.thgim.com/public/todays-paper/tp-budget/h55o6x/article70580543.ece/alternates/LANDSCAPE_1200/Budget_-FM-annoGGUFH6G40.6.jpg.jpg",
+      "url": "/tech-news/2026-02-03/india-us-deal-a-major-catalyst-for-our-electronics/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "companies": [],
+      "people": [
+        "Ashok Chandak"
+      ]
+    },
+    {
+      "title": "Signáluje rozsáhlý OpenClaw-Moltbook nástup technologické singularit?",
+      "description": "Článek popisuje rychlý pokrok umělé inteligence směrem k technologické singularitě, poháněný open-source projekty jako Clawdbot (také Maltbot nebo OpenClaw). Roth a další tvrdí, že jsme překročili intelektuální horizont událostí, kde sebezlepšování AI činí budoucnost nepředvídatelnou.",
+      "slug": "is-the-singularity-moment-signaled-by-large-scale-",
+      "publishedAt": "2026-02-03T04:49:11+00:00",
+      "date": "2026-02-03 04:49:11",
+      "importance": 5,
+      "category": "technologická singul",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/02/Screenshot-2026-02-02-at-8.48.31-PM.jpg",
+      "url": "/tech-news/2026-02-03/is-the-singularity-moment-signaled-by-large-scale/",
+      "source": {
+        "emoji": "📰",
+        "id": "next-big-future",
+        "name": "Next Big Future"
+      },
+      "companies": [],
+      "people": [
+        "Roth"
+      ]
+    },
+    {
+      "title": "Čínské AI čipy dosahují masové produkce a oslabují dominanci Nvidia v Číně",
+      "description": "Americké exportní kontroly urychlují lokalizaci AI čipů pro datová centra v Číně, přičemž data o dodávkách ukazují rychlé komerční škálování. Nejméně devět čínských dodavatelů AI čipů dodalo nebo získalo objednávky překračující významné objemy u více než tuceti domácích značek.",
+      "slug": "chinas-ai-chip-swarm-hits-mass-scale-chipping-away",
+      "publishedAt": "2026-02-03T04:02:25+00:00",
+      "date": "2026-02-03 04:02:25",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://img.digitimes.com/newsshow/20260203pd213_files/4_r.jpg",
+      "url": "/tech-news/2026-02-03/chinas-ai-chip-swarm-hits-mass-scale-chipping-away/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Rover Perseverance dokončil první trasu plánovanou umělou inteligencí po okraji kráteru Jezero",
+      "description": "Rover Perseverance mise NASA dokončil první jízdy na Marsu plně naplánované generativní umělou inteligencí schopnou zpracování vizuálních dat. Systém bez lidského zásahu navrhl bezpečné trasy přes okraj kráteru Jezero během testů 8. a 10. prosince 2025.",
+      "slug": "perseverance-rover-completes-landmark-ai-guided-tr",
+      "publishedAt": "2026-02-03T03:50:43+00:00",
+      "date": "2026-02-03 03:50:43",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://www.spxdaily.com/images-hg/mars-perseverance-rover-ai-planned-drive-hg.jpg",
+      "url": "/tech-news/2026-02-03/perseverance-rover-completes-landmark-ai-guided-tr/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Marsdaily.com"
+      },
+      "companies": [
+        "NASA"
+      ],
+      "people": []
+    },
+    {
+      "title": "Musk sloučil xAI se SpaceX pro stavbu vesmírných datových center",
+      "description": "Společnost SpaceX Elona Muska převzala jeho firmu na umělou inteligenci xAI v rámci fúze zaměřené na nasazení datových center ve vesmíru. Fúze spojuje raketové kapacity SpaceX s technologiemi xAI pro vytvoření vertikálně integrovaného systému pro AI výpočty.",
+      "slug": "must-merges-xai-into-spacex-to-build-space-data-ce",
+      "publishedAt": "2026-02-03T03:46:25+00:00",
+      "date": "2026-02-03 03:46:25",
+      "importance": 5,
+      "category": "kosmonautika",
+      "urlToImage": "https://www.rte.ie/images/0021b986-1600.jpg",
+      "url": "/tech-news/2026-02-03/must-merges-xai-into-spacex-to-build-space-data-ce/",
+      "source": {
+        "emoji": "📰",
+        "id": "rte",
+        "name": "RTE"
+      },
+      "companies": [
+        "xAI",
+        "SpaceX"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Dceřiná společnost SoftBank bude spolupracovat s Intelem na paměti nové generace pro AI",
+      "description": "Dceřiná společnost SoftBanku Saimemory uzavřela dohodu o spolupráci s Intelem na komercializaci paměti nové generace. Partnerství se zaměřuje na technologie pro umělou inteligenci a výpočetní výkon.",
+      "slug": "softbank-subsidiary-to-work-with-intel-on-next-gen",
+      "publishedAt": "2026-02-03T03:17:49+00:00",
+      "date": "2026-02-03 03:17:49",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108260523-1770088498257-gettyimages-2230217289-AA_19082025_2377515.jpeg?v=1770088635&w=1920&h=1080",
+      "url": "/tech-news/2026-02-03/softbank-subsidiary-to-work-with-intel-on-next-gen/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [
+        "SoftBank",
+        "Intel"
+      ],
+      "people": []
+    },
+    {
+      "title": "SpaceX Elona Muska kupuje xAI a sjednocuje své další společnosti pod jednu střechu, IPO očekáváno letos",
+      "description": "Transakce spojuje několik jeho produktů, včetně AI chatbota Grok, satelitní komunikační společnosti Starlink a sociální sítě X.",
+      "slug": "elon-musks-spacex-buys-xai-bringing-his-other-comp",
+      "publishedAt": "2026-02-03T03:15:42+00:00",
+      "date": "2026-02-03 03:15:42",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/g5zadc/article70585926.ece/alternates/LANDSCAPE_1200/2026-01-30T233122Z_1707930221_RC26BDAY7Q9P_RTRMADP_3_XAI-M-A-SPACEX-TESLA.JPG",
+      "url": "/tech-news/2026-02-03/elon-musks-spacex-buys-xai-bringing-his-other-comp/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "companies": [
+        "SpaceX",
+        "xAI",
+        "Starlink"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Snowflake představuje nové AI nástroje a oznámil partnerství s OpenAI",
+      "description": "Nové funkce jako generátor kódu poháněný agentem a automatizované semantické modelování usnadňují vývoj pokročilých aplikací a posilují konkurenční postavení společnosti. Mezi novinkami je také partnerství s OpenAI v hodnotě 200 milionů dolarů.",
+      "slug": "snowflake-launches-new-ai-tools-unveils-openai-par",
+      "publishedAt": "2026-02-03T03:00:00+00:00",
+      "date": "2026-02-03 03:00:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.techtarget.com/rms/onlineimages/code_g1287248739.jpg",
+      "url": "/tech-news/2026-02-03/snowflake-launches-new-ai-tools-unveils-openai-par/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Techtarget.com"
+      },
+      "companies": [
+        "Snowflake",
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Davos v centru pozornosti | EVYD a Novartis Foundation spouštějí národní program s umělou inteligencí proti kardiovaskulárním onemocněním",
+      "description": "Na ročním zasedání Světového ekonomického fóra v Davosu 2026 oznámil předseda představenstva Novartis Dr. Giovanni Caforio nové partnerství s ministerstvem zdravotnictví Bruneje Darussalam a EVYD Technology. Společně zahájí národní iniciativu CARDIO4Cities, která využije umělou inteligenci a data k prevenci srdečních onemocnění.",
+      "slug": "davos-spotlight-evyd-and-novartis-foundation-launc",
+      "publishedAt": "2026-02-03T02:49:39+00:00",
+      "date": "2026-02-03 02:49:39",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2026/02/03/Mrs_Gong_Yingying_Founder_and_Chairlady_of_Yidu_Tech_speaks_with_Mr_Marnix_van_Ginneken_Chairma.jpg",
+      "url": "/tech-news/2026-02-03/davos-spotlight-evyd-and-novartis-foundation-launc/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Antaranews.com"
+      },
+      "companies": [
+        "EVYD"
+      ],
+      "people": [
+        "Giovanni Caforio"
+      ]
+    },
+    {
+      "title": "Google Cloud a Liberty Global uzavírají pětileté partnerství v oblasti AI",
+      "description": "Liberty Global s přibližně 80 miliony pevných a mobilních připojení v Evropě oznámil dohodu s Google Cloud, která umožní nasazení modelů Gemini AI a dalších cloudových nástrojů. Partnerství podpoří nové služby jako AI vyhledávání na platformě Horizon TV a automatizaci zákaznické podpory.",
+      "slug": "google-cloud-liberty-global-strike-five-year-ai-pa",
+      "publishedAt": "2026-02-03T02:46:21+00:00",
+      "date": "2026-02-03 02:46:21",
+      "importance": 4,
+      "category": "ai partnerství",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-237246,resizemode-75,msid-127874528/tech/artificial-intelligence/google-cloud-liberty-global-strike-five-year-ai-partnership.jpg",
+      "url": "/tech-news/2026-02-03/google-cloud-liberty-global-strike-five-year-ai-pa/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Google Cloud",
+        "Liberty Global"
+      ],
+      "people": []
+    },
+    {
+      "title": "Elon Musk: Fúze SpaceX a xAI vytvoří 'nejambicióznější' inovativní motor s AI",
+      "description": "SpaceX Elona Muska převzalo xAI s cílem integrovat umělou inteligenci s vesmírnými technologiemi, přesunout datová centra do oběžné dráhy a financovat dlouhodobou expanzi do kosmu.",
+      "slug": "elon-musk-says-spacex-xai-merger-will-form-most-am",
+      "publishedAt": "2026-02-03T02:32:10+00:00",
+      "date": "2026-02-03 02:32:10",
+      "importance": 5,
+      "category": "kosmonautika",
+      "urlToImage": "https://d.ibtimes.com.au/en/full/1891034/elon-musk-says-spacex-xai-merger-will-form-most-ambitious.png",
+      "url": "/tech-news/2026-02-03/elon-musk-says-spacex-xai-merger-will-form-most-am/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Ibtimes.com.au"
+      },
+      "companies": [
+        "SpaceX",
+        "xAI"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
     {
       "title": "SoftBank a Intel spojují síly na technologii pamětí příští generace",
       "description": "Startup SAIMEMORY, založený SoftBankem, podepsal dohodu s Intelem na společné komercializaci pamětí ZAM s vysokou kapacitou, širokým pásmem a nízkou spotřebou energie. Spolupráce zahrnuje i Riken a Fujitsu, s plánem na prototyp do fiskálního roku 2027.",
@@ -67,27 +326,6 @@
       "people": [
         "Elon Musk"
       ]
-    },
-    {
-      "title": "Google Cloud a Liberty Global uzavírají pětileté partnerství v oblasti AI",
-      "description": "Google Cloud a Liberty Global uzavřely pětileté strategické partnerství na nasazení modelů Gemini AI a dalších cloudových nástrojů v evropských operacích Liberty Global. Dohoda podpoří AI vyhledávání na TV platformě Horizon, automatizaci zákaznického servisu a prodej Google zařízení jako Pixel telefony.",
-      "slug": "google-cloud-liberty-global-strike-five-year-ai-pa",
-      "publishedAt": "2026-02-03T00:06:00+00:00",
-      "date": "2026-02-03 00:06:00",
-      "importance": 4,
-      "category": "ai partnerství",
-      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--hOhZYNkK--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-02-03T000518Z_1_LYNXMPEM12004_RTROPTP_3_TECH-CONFERENCE-MWC.JPG?itok=Zsa74ouL",
-      "url": "/tech-news/2026-02-03/google-cloud-liberty-global-strike-five-year-ai-pa/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNA"
-      },
-      "companies": [
-        "Alphabet",
-        "Google"
-      ],
-      "people": []
     },
     {
       "title": "Waymo se přibližuje cenám Uberu a Lyftu, více pasažérů důvěřuje robotaxi",
@@ -2975,487 +3213,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Www.gov.uk"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Decagon AI získává 250 milionů dolarů při valuaci 4,5 miliardy na rozšíření platformy AI concierge",
-      "description": "Společnost Decagon AI Inc., která vyvíjí umělou inteligenci jako concierge pro zákaznickou podporu firem, získala 250 milionů dolarů v novém financování při valuaci 4,5 miliardy dolarů. Peníze slouží k rozšíření konverzační AI platformy a urychlení růstu při nasazování technologie do dalších podniků.",
-      "slug": "decagon-ai-raises-250m-at-45b-valuation-to-scale-a",
-      "publishedAt": "2026-01-28T23:58:20+00:00",
-      "date": "2026-01-28 23:58:20",
-      "importance": 4,
-      "category": "startupy",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/decagon.png",
-      "url": "/tech-news/2026-01-28/decagon-ai-raises-250m-at-45b-valuation-to-scale-a/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Decagon AI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Semco a LG Innotek vstupují do dodavatelského řetězce humanoidních robotů",
-      "description": "Jihokorejští výrobci elektronických komponent Semco a LG Innotek považují humanoidní roboty za klíčový růstový sektor v éře pokročilé umělé inteligence. Podle zdroje ChosunBiz se tyto firmy zaměřují na dodávky součástek pro rychle se rozvíjející robotický trh.",
-      "slug": "semco-and-lg-innotek-push-into-humanoid-robot-supp",
-      "publishedAt": "2026-01-28T23:48:12+00:00",
-      "date": "2026-01-28 23:48:12",
-      "importance": 4,
-      "category": "robotika",
-      "urlToImage": "https://img.digitimes.com/newsshow/20260128pd233_files/1_b.jpg",
-      "url": "/tech-news/2026-01-28/semco-and-lg-innotek-push-into-humanoid-robot-supp/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
-      },
-      "companies": [
-        "Semco",
-        "LG Innotek"
-      ],
-      "people": []
-    },
-    {
-      "title": "Japonsko se připojuje k americké misi Genesis, spolupracuje s Nvidia a národními laboratořemi na pokroku v AI ve vědě",
-      "description": "Japonská vláda se stala prvním mezinárodním partnerem v iniciativě USA Genesis Mission, která urychluje vědecký výzkum prostřednictvím AI. Partnerství zahrnuje firmu Nvidia a americké národní laboratoře, zaměřené na aplikace AI v simulacích a analýze dat.",
-      "slug": "japan-joins-us-genesis-mission-partners-with-nvidi",
-      "publishedAt": "2026-01-28T23:47:10+00:00",
-      "date": "2026-01-28 23:47:10",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://img.digitimes.com/newsshow/20260128pd240_files/1_b.jpg",
-      "url": "/tech-news/2026-01-28/japan-joins-us-genesis-mission-partners-with-nvidi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": []
-    },
-    {
-      "title": "Zisk Samsungu ve čtvrtém čtvrtletí se ztrojnásobil, překonal odhady díky poptávce po AI čipech a nedostatku paměti",
-      "description": "Samsung Electronics hlásí více než ztrojnásobení zisku ve čtvrtém čtvrtletí, dosáhlo nového rekordu a překonalo odhady analytiků díky nedostatku paměťových čipů způsobenému poptávkou po serverech pro umělou inteligenci.",
-      "slug": "samsungs-fourth-quarter-profit-triples-beating-est",
-      "publishedAt": "2026-01-28T23:41:07+00:00",
-      "date": "2026-01-28 23:41:07",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108179470-1753922208638-gettyimages-1065011358-191112final.jpeg?v=1769641309&w=1920&h=1080",
-      "url": "/tech-news/2026-01-28/samsungs-fourth-quarter-profit-triples-beating-est/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNBC"
-      },
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "people": []
-    },
-    {
-      "title": "Waabi získává 750 milionů dolarů, Uber přislíbí až 250 milionů na partnerství v robotaxi",
-      "description": "Kanadská společnost Waabi Innovation Inc., specializující se na autonomní kamiony, oznámila získání 750 milionů dolarů nového financování a samostatnou budoucí investici až 250 milionů dolarů od Uber Technologies Inc. na podporu partnerství pro nasazení robotaxi na platformě Uber.",
-      "slug": "waabi-raises-750m-as-uber-separately-commits-up-to",
-      "publishedAt": "2026-01-28T23:22:57+00:00",
-      "date": "2026-01-28 23:22:57",
-      "importance": 4,
-      "category": "autonomní vozidla",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/waabi1.jpg",
-      "url": "/tech-news/2026-01-28/waabi-raises-750m-as-uber-separately-commits-up-to/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Waabi Innovation Inc",
-        "Uber Technologies Inc"
-      ],
-      "people": []
-    },
-    {
-      "title": "Americká společnost Waymo plánuje spustit robotaxi v Londýně do čtvrtého čtvrtletí 2026",
-      "description": "Americká firma Waymo, součást Alphabetu, oznámila záměr spustit plně autonomní službu sdílených jízd v Londýně do konce roku 2026. Společnost se v USA rozvíjela postupně navzdory přísným regulacím a vysokým nákladům na technologii.",
-      "slug": "us-robotaxi-group-waymo-aims-to-launch-in-london-b",
-      "publishedAt": "2026-01-28T20:12:56+00:00",
-      "date": "2026-01-28 20:12:56",
-      "importance": 4,
-      "category": "robotaxi",
-      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--PDZxhPVn--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-01-28T201256Z_2_LYNXMPEM0R1CD_RTROPTP_3_BRITAIN-WAYMO.JPG?itok=dmjKnWHd",
-      "url": "/tech-news/2026-01-28/us-robotaxi-group-waymo-aims-to-launch-in-london-b/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNA"
-      },
-      "companies": [
-        "Waymo",
-        "Alphabet",
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Skotsko získává posílení AI růstové zóny v Lanarkshire",
-      "description": "CoreWeave staví 500MW AI cloud, který poskytne regionu 800 vysoce placených pracovních míst v umělé inteligenci. Britská vláda odhalila AI růstovou zónu v Lanarkshire, která má přinést přes 3400 pracovních míst a miliardy liber investic.",
-      "slug": "scotland-gets-ai-growth-zone-boost-in-lanarkshire",
-      "publishedAt": "2026-01-28T19:01:00+00:00",
-      "date": "2026-01-28 19:01:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.computerweekly.com/visuals/German/article/cloud-computing-adobe.jpg",
-      "url": "/tech-news/2026-01-28/scotland-gets-ai-growth-zone-boost-in-lanarkshire/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "ComputerWeekly.com"
-      },
-      "companies": [
-        "CoreWeave"
-      ],
-      "people": []
-    },
-    {
-      "title": "Všichni využívají WinRAR phishing: RATy se šíří rychlostí blesku",
-      "description": "Od ruských a čínských státních agentů po obyčejné finančně motivované zločince všichni zneužívají dlouho opravenou zranitelnost WinRAR k šíření infostealerů a trojských koní pro vzdálený přístup (RAT). Chyba CVE-2025-8088 umožňuje skryté umístění škodlivého kódu na systém pomocí alternativních datových proudů (ADS) ve Windows.",
-      "slug": "everybody-is-winrar-phishing-dropping-rats-as-fast",
-      "publishedAt": "2026-01-28T18:59:38+00:00",
-      "date": "2026-01-28 18:59:38",
-      "importance": 5,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://regmedia.co.uk/2016/04/20/root_rat.jpg",
-      "url": "/tech-news/2026-01-28/everybody-is-winrar-phishing-dropping-rats-as-fast/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Diskusní panely: Proč AI společnosti vsazují na jadernou energii nové generace",
-      "description": "Umělá inteligence pohání bezprecedentní investice do masivních datových center a zdrojů energie pro jejich obrovskou výpočetní potřebu. Jaderné elektrárny nové generace představují potenciální řešení, které by mohlo být levnější na výstavbu a bezpečnější v provozu.",
-      "slug": "roundtables-why-ai-companies-are-betting-on-next-g",
-      "publishedAt": "2026-01-28T16:23:00+00:00",
-      "date": "2026-01-28 16:23:00",
-      "importance": 4,
-      "category": "jaderná energie",
-      "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2026/01/MITTR-Roundtables-Zoom-Opening-Overlay.png?resize=1200,600",
-      "url": "/tech-news/2026-01-28/roundtables-why-ai-companies-are-betting-on-next-g/",
-      "source": {
-        "emoji": "🎓",
-        "id": null,
-        "name": "MIT Technology Review"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Nová umělá inteligence od DeepMind dokáže číst milion písmen DNA najednou – a skutečně je chápat",
-      "description": "AlphaGenome je údajně nejobsažnější a nejpřesnější model pro analýzu DNA sekvencí vyvinutý dosud.",
-      "slug": "deepminds-new-ai-can-read-a-million-dna-letters-at",
-      "publishedAt": "2026-01-28T16:00:02+00:00",
-      "date": "2026-01-28 16:00:02",
-      "importance": 4,
-      "category": "genomika",
-      "urlToImage": "https://gizmodo.com/app/uploads/2026/01/shutterstock_228658501-1200x675.jpg",
-      "url": "/tech-news/2026-01-28/deepminds-new-ai-can-read-a-million-dna-letters-at/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "companies": [
-        "DeepMind"
-      ],
-      "people": []
-    },
-    {
-      "title": "SpaceX zvažuje IPO v hodnotě 1,5 bilionu dolarů synchronizované s narozeninami Muska",
-      "description": "Společnost SpaceX zvažuje úvodní veřejnou nabídku akcií (IPO), která by ji ohodnotila na přibližně 1,5 bilionu dolarů a získala by 50 miliard dolarů. Plánovaný termín v polovině června 2026 by připadal blízko 55. narozenin Elona Muska a astronomické události setkání Jupiteru a Venuše.",
-      "slug": "spacex-weighs-a-15t-ipo-synced-up-with-musks-birth",
-      "publishedAt": "2026-01-28T15:31:00+00:00",
-      "date": "2026-01-28 15:31:00",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://img2-azrcdn.newser.com/image/1661279-12-20260128093101.jpeg",
-      "url": "/tech-news/2026-01-28/spacex-weighs-a-15t-ipo-synced-up-with-musks-birth/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Newser"
-      },
-      "companies": [
-        "SpaceX"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Řízení nově vznikajících nákladů agentického obchodu s inspirací z strategie drop shippingu",
-      "description": "Přečtěte si tento článek, abyste pochopili kroky k vytvoření strategie pro integraci agentického obchodu do vašich obchodních operací. Zaměřuje se na rostoucí poplatky v answer enginech jako ChatGPT a možnosti minimalizace nákladů.",
-      "slug": "manage-the-emerging-costs-of-agentic-commerce-by-t",
-      "publishedAt": "2026-01-28T12:34:24+00:00",
-      "date": "2026-01-28 12:34:24",
-      "importance": 4,
-      "category": "agentický obchod",
-      "urlToImage": "https://go.forrester.com/wp-content/uploads/2026/01/drop-ship-agentic-comm-blog.jpg",
-      "url": "/tech-news/2026-01-28/manage-the-emerging-costs-of-agentic-commerce-by-t/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Forrester.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Muž s Muskův mozkový čip v britské zkoušce říká, že to 'působí kouzelně'",
-      "description": "Jeden z prvních lidí v Británii, kteří dostali mozkový čip Neuralink od Elona Muska, popisuje zážitek jako kouzelný a věří, že technologie změní životy lidí s těžkou paralýzou.",
-      "slug": "man-given-musks-brain-chip-in-uk-trial-says-it-fee",
-      "publishedAt": "2026-01-28T12:31:00+00:00",
-      "date": "2026-01-28 12:31:00",
-      "importance": 4,
-      "category": "kybernetika",
-      "urlToImage": "https://e3.365dm.com/26/01/1600x900/skynews-neuralink-clark_7148477.jpg?20260128131025",
-      "url": "/tech-news/2026-01-28/man-given-musks-brain-chip-in-uk-trial-says-it-fee/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Sky.com"
-      },
-      "companies": [],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Čínští výrobci humanoidních robotů míří na trhy Blízkého východu a USA",
-      "description": "Čínské firmy s humanoidními roboty expandují globálně a vyvíjejí tlak na Optimus Elona Muska před zahájením masové výroby. Startup LimX Dynamics jedná s americkými partnery a získává první zahraniční investory z Blízkého východu.",
-      "slug": "cnbcs-the-china-connection-newsletter-china-made-h",
-      "publishedAt": "2026-01-28T07:49:37+00:00",
-      "date": "2026-01-28 07:49:37",
-      "importance": 5,
-      "category": "robotika",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108256777-1769386060864-Full-Size_Humanoid_Oli_Autonomously_Picking_Up_Tennis_Ball_from_the_Floor_in_Asian_Squat_-_Side_View.jpg?v=1769390131&w=1920&h=1080",
-      "url": "/tech-news/2026-01-28/cnbcs-the-china-connection-newsletter-china-made-h/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNBC"
-      },
-      "companies": [],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Yotta mění strategii IPO, upřednostní indickou burzu, nechává si otevřenou možnost Nasdaqu",
-      "description": "Indická firma Yotta Data Services, specializující se na datová centra a infrastrukturu pro umělou inteligenci s kampusy v Navi Mumbai, Noida a GIFT City, změnila plán kótování. Místo původního listing na Nasdaqu prostřednictvím fúze se SPAC plánuje nejdříve IPO v Indii, přičemž si rezervuje možnost amerického trhu.",
-      "slug": "yotta-flips-ipo-strategy-to-pursue-india-ipo-first",
-      "publishedAt": "2026-01-28T07:33:42+00:00",
-      "date": "2026-01-28 07:33:42",
-      "importance": 4,
-      "category": "datová centra",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2026/01/28/1600x900/logo/Sunil-Gupta--co-founder--managing-director--and-ch_1692896988023_1769577954092.jpg",
-      "url": "/tech-news/2026-01-28/yotta-flips-ipo-strategy-to-pursue-india-ipo-first/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Livemint"
-      },
-      "companies": [
-        "Yotta"
-      ],
-      "people": []
-    },
-    {
-      "title": "Taiwan sází na dronové roje, klíčovou roli hraje Anduril Lattice AI command",
-      "description": "Taiwan spustil iniciativu k posílení protivzdušné obrany prostřednictvím integrace amerických a domácích raket a radarů do síťového řetězce zabíjení nazvaného Taiwan Shield neboli Taiwan Dome. Důležitou součástí je nasazení dronových rojů řízených AI systémem Lattice od firmy Anduril.",
-      "slug": "taiwan-bets-on-drone-swarms-with-anduril-lattice-a",
-      "publishedAt": "2026-01-28T07:24:35+00:00",
-      "date": "2026-01-28 07:24:35",
-      "importance": 4,
-      "category": "dronové roje",
-      "urlToImage": "https://img.digitimes.com/newsshow/20260128pd211_files/1_b.jpg",
-      "url": "/tech-news/2026-01-28/taiwan-bets-on-drone-swarms-with-anduril-lattice-a/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
-      },
-      "companies": [
-        "Anduril"
-      ],
-      "people": []
-    },
-    {
-      "title": "Cassava Technologies a AXON Networks oznámily strategické partnerství pro podporu adopce AI a inovací u afrických firem",
-      "description": "Cassava Technologies, globální technologická společnost afrického původu, a AXON Networks, specialist na inteligentní síťové platformy, spustily spolupráci na vývoji a nasazení první end-to-end platformy Operator-as-a-Service (OaaS) v Africe. Tato AI-ready platforma využije vysokorychlostní fiberovou síť Cassavy k připojení milionů uživatelů a firem.",
-      "slug": "cassava-technologies-and-axon-networks-announce-st",
-      "publishedAt": "2026-01-28T07:00:00+00:00",
-      "date": "2026-01-28 07:00:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://mma.prnewswire.com/media/2871172/Axon_Networks_Cassava_Technologies.jpg?p=facebook",
-      "url": "/tech-news/2026-01-28/cassava-technologies-and-axon-networks-announce-st/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "PR Newswire UK"
-      },
-      "companies": [
-        "Cassava Technologies",
-        "AXON Networks"
-      ],
-      "people": []
-    },
-    {
-      "title": "Powertech investuje 43,3 miliardy NT$ do urychlení FOPLP, cílí na hromadnou výrobu v 1. pololetí 2027",
-      "description": "Tchajwanská firma Powertech, specializující se na balení a testování polovodičů, oznámila investici 43,3 miliardy nových tchajwanských dolarů do technologie fan-out panel-level packaging (FOPLP). Cílem je reagovat na poptávku z oblasti AI a výpočetních systémů vysokého výkonu (HPC) s plánovanou hromadnou výrobou v první polovině roku 2027.",
-      "slug": "powertech-will-invest-nt433-billion-to-accelerate-",
-      "publishedAt": "2026-01-28T06:55:54+00:00",
-      "date": "2026-01-28 06:55:54",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://img.digitimes.com/newsshow/20260128pd215_files/2_b.jpg",
-      "url": "/tech-news/2026-01-28/powertech-will-invest-nt433-billion-to-accelerate/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
-      },
-      "companies": [
-        "Powertech"
-      ],
-      "people": [
-        "DK Tsai"
-      ]
-    },
-    {
-      "title": "Davos Spotlight | EVYD, Ministerstvo zdravotnictví Bruneje Darussalam a Novartis Foundation spouštějí národní iniciativu na prevenci kardiovaskulárních onemocnění s umělou inteligencí",
-      "description": "Na Světovém ekonomickém fóru v Davosu oznámili Novartis Foundation, Ministerstvo zdravotnictví Bruneje a firma EVYD spuštění národní iniciativy CARDIO4Cities. Program využívá umělou inteligenci a data z národní zdravotnické platformy k identifikaci rizikových jedinců a cíleným intervencím proti kardiovaskulárním onemocněním.",
-      "slug": "davos-spotlight-evyd-ministry-of-health-brunei-dar",
-      "publishedAt": "2026-01-28T06:18:41+00:00",
-      "date": "2026-01-28 06:18:41",
-      "importance": 4,
-      "category": "zdravotní ai",
-      "urlToImage": "https://th-i.thgim.com/public/incoming/6rc238/article70559747.ece/alternates/LANDSCAPE_1200/Screenshot%202026-01-28%20114036.png",
-      "url": "/tech-news/2026-01-28/davos-spotlight-evyd-ministry-of-health-brunei-dar/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "companies": [
-        "EVYD"
-      ],
-      "people": []
-    },
-    {
-      "title": "PitchBook předpovídá opatrné zlepšení pro IPO podporované rizikovým kapitálem v roce 2026",
-      "description": "Nová zpráva od PitchBook Data Inc. nabízí opatrně optimistický výhled na počáteční veřejné nabídky (IPO) podporované americkým rizikovým kapitálem v roce 2026. Ačkoli se okno pro IPO otevřelo, stále není plně funkční, což brání úplnému oživení trhu.",
-      "slug": "pitchbook-forecasts-cautious-improvement-for-ventu",
-      "publishedAt": "2026-01-28T05:01:32+00:00",
-      "date": "2026-01-28 05:01:32",
-      "importance": 4,
-      "category": "rizikový kapitál",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/2026ipooutlook.png",
-      "url": "/tech-news/2026-01-28/pitchbook-forecasts-cautious-improvement-for-ventu/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "PitchBook Data Inc"
-      ],
-      "people": []
-    },
-    {
-      "title": "Čína schválila dovoz první várky AI čipů Nvidia H200: Zpráva",
-      "description": "Čína povolila dovoz první série uměleckých inteligencí čipů Nvidia H200, uvedli dva zdroje blízcí události pro agenturu Reuters. Toto rozhodnutí představuje změnu postoje, protože čínské úřady vyvažují domácí poptávku po pokročilých AI čipech s podporou vlastního polovodičového průmyslu.",
-      "slug": "china-gives-green-light-to-importing-first-batch-o",
-      "publishedAt": "2026-01-28T04:43:29+00:00",
-      "date": "2026-01-28 04:43:29",
-      "importance": 4,
-      "category": "ai hardware",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-104814,resizemode-75,msid-127676871/tech/technology/china-gives-green-light-to-importing-first-batch-of-nvidias-h200-ai-chips-sources-say.jpg",
-      "url": "/tech-news/2026-01-28/china-gives-green-light-to-importing-first-batch-o/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": []
-    },
-    {
-      "title": "Micron zahajuje stavbu singapurské továrny na polovodičové pláty za 24 miliard USD",
-      "description": "Paměťový gigant pokračuje v globální expanzi a staví novou továrnu na výrobu NAND flash v Singapuru, aby uspokojila rostoucí poptávku po paměťových čipech poháněnou globálním boomem umělé inteligence.",
-      "slug": "micron-breaks-ground-on-24bn-singapore-wafer-fab",
-      "publishedAt": "2026-01-28T02:29:00+00:00",
-      "date": "2026-01-28 02:29:00",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://www.computerweekly.com/visuals/LeMagIT/hero_article/SSD_AdobeStock_277596688.jpeg",
-      "url": "/tech-news/2026-01-28/micron-breaks-ground-on-24bn-singapore-wafer-fab/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "ComputerWeekly.com"
-      },
-      "companies": [
-        "Micron"
-      ],
-      "people": []
-    },
-    {
-      "title": "Google urychluje dohody v AI pro posílení Gemini v médiích a hlasu",
-      "description": "Google urychlil řadu akvizic, najímání talentů a strategických investic zaměřených na posílení umělé inteligence Gemini v generování médií, hlasové interakci a mezinárodních trzích. Tato strategie reaguje na rostoucí konkurenci v základních modelech a multimodální AI.",
-      "slug": "google-accelerates-ai-deals-to-strengthen-gemini-i",
-      "publishedAt": "2026-01-28T00:51:54+00:00",
-      "date": "2026-01-28 00:51:54",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/01/Google-AI-investments.jpeg",
-      "url": "/tech-news/2026-01-28/google-accelerates-ai-deals-to-strengthen-gemini-i/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "pymnts.com"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "AI chatboti pronikají do sociálněvědních průzkumů – a zlepšují se v obcházení detekce",
-      "description": "Výzkumník vytvořil chatbota nerozeznatelného od lidských účastníků online průzkumů. Někteří badatelé varují, že tento klíčový nástroj sociálních věd je nyní ohrožen.",
-      "slug": "ai-chatbots-are-infiltrating-social-science-survey",
-      "publishedAt": "2026-01-28T00:00:00+00:00",
-      "date": "2026-01-28 00:00:00",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-00221-8/d41586-026-00221-8_51970340.jpg",
-      "url": "/tech-news/2026-01-28/ai-chatbots-are-infiltrating-social-science-survey/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Nature.com"
       },
       "companies": [],
       "people": []

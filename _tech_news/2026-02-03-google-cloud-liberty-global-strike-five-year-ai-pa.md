@@ -2,50 +2,52 @@
 author: Marisa Aigen
 category: ai partnerství
 companies:
-- Alphabet
-- Google
-date: '2026-02-03 00:06:00'
-description: Google Cloud a Liberty Global uzavřely pětileté strategické partnerství
-  na nasazení modelů Gemini AI a dalších cloudových nástrojů v evropských operacích
-  Liberty Global. Dohoda podpoří AI vyhledávání na TV platformě Horizon, automatizaci
-  zákaznického servisu a prodej Google zařízení jako Pixel telefony.
+- Google Cloud
+- Liberty Global
+date: '2026-02-03 02:46:21'
+description: Liberty Global s přibližně 80 miliony pevných a mobilních připojení v
+  Evropě oznámil dohodu s Google Cloud, která umožní nasazení modelů Gemini AI a dalších
+  cloudových nástrojů. Partnerství podpoří nové služby jako AI vyhledávání na platformě
+  Horizon TV a automatizaci zákaznické podpory.
 importance: 4
 layout: tech_news_article
 original_title: Google Cloud, Liberty Global strike five-year AI partnership
-publishedAt: '2026-02-03T00:06:00+00:00'
+publishedAt: '2026-02-03T02:46:21+00:00'
 slug: google-cloud-liberty-global-strike-five-year-ai-pa
 source:
   emoji: 📰
-  id: null
-  name: CNA
+  id: the-times-of-india
+  name: The Times of India
 title: Google Cloud a Liberty Global uzavírají pětileté partnerství v oblasti AI
-url: https://www.channelnewsasia.com/business/google-cloud-liberty-global-strike-five-year-ai-partnership-5902471
-urlToImage: https://dam.mediacorp.sg/image/upload/s--hOhZYNkK--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-02-03T000518Z_1_LYNXMPEM12004_RTROPTP_3_TECH-CONFERENCE-MWC.JPG?itok=Zsa74ouL
-urlToImageBackup: https://dam.mediacorp.sg/image/upload/s--hOhZYNkK--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-02-03T000518Z_1_LYNXMPEM12004_RTROPTP_3_TECH-CONFERENCE-MWC.JPG?itok=Zsa74ouL
+url: https://economictimes.indiatimes.com/tech/artificial-intelligence/google-cloud-liberty-global-strike-five-year-ai-partnership/articleshow/127874528.cms
+urlToImage: https://img.etimg.com/thumb/width-1200,height-900,imgsize-237246,resizemode-75,msid-127874528/tech/artificial-intelligence/google-cloud-liberty-global-strike-five-year-ai-partnership.jpg
+urlToImageBackup: https://img.etimg.com/thumb/width-1200,height-900,imgsize-237246,resizemode-75,msid-127874528/tech/artificial-intelligence/google-cloud-liberty-global-strike-five-year-ai-partnership.jpg
 ---
 
 ## Souhrn
-Google Cloud, rychle rostoucí divize Alphabetu, a Liberty Global uzavřely pětileté strategické partnerství. Bude nasazovat modely Gemini AI a další cloudové služby napříč evropskými sítěmi Liberty Global, které obsluhují přibližně 80 milionů pevných a mobilních připojení. Partnerství rozšiřuje stávající spolupráci a zaměřuje se na nové spotřebitelské služby.
+Google Cloud a Liberty Global uzavřely pětileté strategické partnerství, které zahrnuje nasazení modelů Gemini AI a dalších cloudových technologií napříč evropskými operacemi Liberty Global. Dohoda má podpořit vývoj nových spotřebitelských služeb, jako je vyhledávání a doporučování obsahu poháněné AI na TV platformě Horizon, a zároveň automatizaci zákaznických služeb. Partnerství rozšiřuje stávající spolupráci a zahrnuje i distribuci Google zařízení jako Pixel telefony a chytré hodinky.
 
 ## Klíčové body
-- Nasazení modelů Gemini AI pro vyhledávání a objevování obsahu na platformě Horizon TV.
-- Automatizace zákaznického servisu pomocí AI nástrojů.
-- Prodej Google produktů jako Pixel telefony, hodinky a chytré domácí zařízení přes jednotky Liberty Global.
-- Rozšíření na operace ve Velké Británii (Virgin Media O2), Belgii (Telenet), Nizozemsku (VodafoneZiggo) a Švýcarsku (Sunrise).
-- Pětiletá dohoda, poprvé zveřejněná agenturou Reuters.
+- Nasazení Google Gemini AI modelů pro zlepšení spotřebitelských služeb, včetně AI vyhledávání na Horizon TV platformě.
+- Automatizace zákaznické podpory a zlepšení spolehlivosti sítí pomocí autonomních operací.
+- Distribuci Google produktů (Pixel telefony, hodinky, smart-home zařízení) přes jednotky Liberty Global jako Virgin Media O2, Telenet, VodafoneZiggo a Sunrise.
+- Potenciální využití přebytečné kapacity datových center Liberty Global, včetně joint venture AtlasEdge, Google Cloud.
+- Cílení na malé firmy s cloudovými službami, kyberbezpečností a AI nástroji.
 
 ## Podrobnosti
-Liberty Global je evropský telekomunikační a kabelový operátor s širokou sítí, která zahrnuje přibližně 80 milionů pevných a mobilních připojení. Mezi jeho klíčové dcery patří Virgin Media O2 ve Velké Británii, Telenet v Belgii, VodafoneZiggo v Nizozemsku a Sunrise ve Švýcarsku. Tyto společnosti poskytují širokopásmový internet, televizi a mobilní služby milionům zákazníků. Partnerství s Google Cloud, oznámené 3. února, staví na dřívějších spolupracích a integruje cloudové technologie Alphabetu do jejich infrastruktury.
+Liberty Global je telekomunikační skupina působící v Evropě s přibližně 80 miliony pevných a mobilních připojení. Mezi její klíčové operace patří britská Virgin Media O2, belgická Telenet, nizozemsko-belgická VodafoneZiggo a švýcarská Sunrise. Tyto společnosti poskytují širokopásmový internet, mobilní služby a TV platformy, jako je Horizon TV, která slouží k streamování a interakci s obsahem.
 
-Modely Gemini, což jsou velké jazykové modely od Google, umožňují pokročilé zpracování přirozeného jazyka, generování textu a analýzu dat. V kontextu Horizon TV platformy, která slouží k streamování televize a video na vyžádání, budou tyto modely napřímo podporovat AI vyhledávání a doporučování obsahu. Zákazníci tak získají personalizované návrhy na základě jejich sledovacích zvyklostí, podobně jako u Netflixu nebo YouTube, ale integrováno do kabelové televize. Automatizace zákaznického servisu znamená nasazení chatbotů a hlasových asistentů poháněných Gemini, které řeší běžné dotazy, jako je řešení technických problémů nebo fakturace, což snižuje zátěž na lidské operátory.
+Partnerství s Google Cloud, rychle rostoucí divizí Alphabetu, umožní nasadit modely Gemini AI – multimodální AI systémy schopné zpracovávat text, obrázky a další data pro generování odpovědí a analýz. Na platformě Horizon TV to znamená AI-poháněné vyhledávání a doporučování obsahu, které pomůže uživatelům rychleji najít programy na základě preferencí a kontextu. Automatizace zákaznických služeb využije AI k řešení běžných dotazů, což sníží zátěž na lidi a zrychlí odezvy.
 
-Kromě toho dohoda umožní prodej hardware od Google, včetně Pixel telefonů s pokročilými fotoaparáty a AI funkcemi pro úpravu obrázků, chytrých hodinek Pixel Watch pro sledování zdraví a fitness a zařízení jako Nest termostaty pro chytrou domácnost. Tyto produkty budou dostupné přímo přes sítě Liberty Global, což posílí jejich nabídku zařízení kompatibilních s Androidem a Google službami. Mike Fries, generální ředitel Liberty Global, označil dohodu za významný milník, který podpoří inovace v spotřebitelských službách. Google Cloud naopak získává přístup k masivní zákaznické bázi v Evropě, kde konkuruje AWS a Azure.
+Dohoda navíc rozšiřuje nabídku Google hardware: Pixel telefony s pokročilými fotoaparáty a AI funkcemi pro úpravu fotek, Pixel Watch pro sledování zdraví a fitness dat, a smart-home zařízení kompatibilní s Google Home pro ovládání domácnosti hlasem nebo automatizací. Tyto produkty budou dostupné přímo u operátorů Liberty Global, což usnadní jejich prodej v balíčcích s připojením.
+
+Technicky partnerství cílí na zlepšení síťové spolehlivosti a bezpečnosti pomocí cloudových nástrojů Google. Autonomní síťové operace umožní AI monitorovat a optimalizovat provoz sítě v reálném čase, predikovat výpadky a automaticky je řešit. Google Cloud by mohl využít přebytečnou kapacitu datových center Liberty Global, včetně joint venture AtlasEdge, které provozuje edge computing zařízení blízko uživatelů pro nižší latenci. To je důležité pro AI inference, kde rychlost zpracování dat ovlivňuje uživatelský zážitek.
 
 ## Proč je to důležité
-Toto partnerství urychluje integraci AI do telekomunikačních služeb v Evropě, kde regulace jako GDPR a AI Act kladou důraz na bezpečnost dat. Pro uživatele znamená lepší personalizaci TV obsahu a rychlejší podporu, ale zároveň riziko větší závislosti na Google ekosystému, což může omezit volbu. Pro průmysl posiluje pozici Gemini proti GPT od OpenAI nebo Llama od Meta v enterprise nasazeních. S 80 miliony připojení se stává Liberty Global jedním z největších evropských kanálů pro šíření Google AI, což může ovlivnit konkurenční dynamiku v cloudovém trhu. V širším kontextu podtrhuje trend, kdy telekom operátoři investují do AI pro udržení zákazníků v éře streamingu a 5G.
+Toto partnerství posiluje pozici Google Cloud na evropském telekomunikačním trhu, kde konkuruje AWS a Azure. Pro Liberty Global představuje konkurenční výhodu v podobě AI integrace do stávajících služeb, což může zvýšit retenci zákazníků mezi 80 miliony připojení. V širším kontextu urychluje adopci AI v telekomunikacích, kde autonomní sítě snižují náklady na provoz o desítky procent a umožňují personalizované služby. Pro uživatele to znamená lepší TV zážitek, rychlejší podporu a širší přístup k Google ekosystému. Kriticky lze poznamenat, že rozšíření stávající spolupráce nemusí přinést okamžité revoluční změny, ale dlouhodobě podpoří přechod k AI-driven infrastruktuře v Evropě, kde regulace jako GDPR vyžadují pečlivé řízení dat.
 
 ---
 
-[Číst původní článek](https://www.channelnewsasia.com/business/google-cloud-liberty-global-strike-five-year-ai-partnership-5902471)
+[Číst původní článek](https://economictimes.indiatimes.com/tech/artificial-intelligence/google-cloud-liberty-global-strike-five-year-ai-partnership/articleshow/127874528.cms)
 
-**Zdroj:** 📰 CNA
+**Zdroj:** 📰 The Times of India
