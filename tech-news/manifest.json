@@ -1,7 +1,95 @@
 {
-  "generated": "2026-02-04T08:52:46.366102+00:00",
-  "count": 159,
+  "generated": "2026-02-04T13:01:25.187251+00:00",
+  "count": 163,
   "articles": [
+    {
+      "title": "Druhý den: SpaceX Elona Muska kupuje jeho AI společnost xAI",
+      "description": "SpaceX oznámila akvizici xAI, což podle Elona Muska vytvoří vertikálně integrovaný systém pro inovace na Zemi i ve vesmíru. Fúze umožní výstavbu datových center pro umělou inteligenci přímo ve vesmíru.",
+      "slug": "the-morning-after-elon-musks-spacex-is-buying-his-",
+      "publishedAt": "2026-02-03T12:33:04+00:00",
+      "date": "2026-02-03 12:33:04",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": null,
+      "url": "/tech-news/2026-02-03/the-morning-after-elon-musks-spacex-is-buying-his/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "companies": [
+        "SpaceX",
+        "xAI"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "„Nejhloupější nápad, jaký jsem slyšel“ — Jak Own získal 2 miliardy v akvizici od Salesforce",
+      "description": "Hluboký rozbor SaaStr AI se Samem Gutmannem, CEO společnosti Own, o budování miliardové firmy na zálohování dat odmítáním téměř všech rozšíření. Společně s Harpinderem Sinhem z Innovation Endeavors sdílel celý příběh včetně největších chyb.",
+      "slug": "the-dumbest-idea-ive-ever-heard-how-own-became-a-2",
+      "publishedAt": "2026-02-03T12:27:41+00:00",
+      "date": "2026-02-03 12:27:41",
+      "importance": 5,
+      "category": "startupy",
+      "urlToImage": "https://i0.wp.com/www.saastr.com/wp-content/uploads/2026/02/ownback.jpg?fit=640%2C480&quality=70&ssl=1",
+      "url": "/tech-news/2026-02-03/the-dumbest-idea-ive-ever-heard-how-own-became-a-2/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Saastr.com"
+      },
+      "companies": [
+        "Own",
+        "Salesforce"
+      ],
+      "people": [
+        "Sam Gutmann",
+        "Harpinder Singh"
+      ]
+    },
+    {
+      "title": "MacBook Pro s čipy M5 Pro/Max a další novinky od Apple tento měsíc",
+      "description": "Macworld informuje o očekávaném vydání MacBook Pro s čipy M5 Pro a M5 Max, nového Studio Display s technologií ProMotion a HDR, beta verze iOS 26.4 s vylepšenou Siri na bázi modelu Gemini od Google a novinkách na Apple TV+ a Apple Arcade.",
+      "slug": "m5-promax-macbook-pros-and-everything-else-coming-",
+      "publishedAt": "2026-02-03T12:15:00+00:00",
+      "date": "2026-02-03 12:15:00",
+      "importance": 4,
+      "category": "apple hardware",
+      "urlToImage": "https://www.macworld.com/wp-content/uploads/2026/02/apple-feb-26-releases-2.jpg?quality=50&strip=all&w=1024",
+      "url": "/tech-news/2026-02-03/m5-promax-macbook-pros-and-everything-else-coming/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Macworld"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Analytici v bilanci Google očekávají odpovědi na dohodu Apple s Gemini pro Siri",
+      "description": "Při hlášení čtvrtletních výsledků Google analytici budou hledat nové detaily o partnerství s Apple na přepracování virtuálního asistenta Siri pomocí AI modelu Gemini. Dohoda představuje významný krok pro šíření technologie Gemini díky 2,5 miliardě aktivních zařízení Apple.",
+      "slug": "in-google-earnings-analysts-want-answers-on-apples",
+      "publishedAt": "2026-02-03T12:00:01+00:00",
+      "date": "2026-02-03 12:00:01",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108251190-1768231661465-gettyimages-2252639381-dellatorre-notitle251222_npwev.jpeg?v=1769815846&w=1920&h=1080",
+      "url": "/tech-news/2026-02-03/in-google-earnings-analysts-want-answers-on-apples/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [
+        "Google",
+        "Apple"
+      ],
+      "people": []
+    },
     {
       "title": "Elon Musk spojuje své raketové a AI podniky před očekávaným IPO letos",
       "description": "Elon Musk spojuje své podniky v oblasti vesmírného průzkumu a umělé inteligence do jedné společnosti před plánovaným velkým úvodem na burzu letos. Akvizice xAI firmou SpaceX má umožnit dominanci v raketovém i AI sektoru.",
