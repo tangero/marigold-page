@@ -1,7 +1,152 @@
 {
-  "generated": "2026-02-04T17:08:47.366215+00:00",
-  "count": 168,
+  "generated": "2026-02-04T20:47:42.313855+00:00",
+  "count": 175,
   "articles": [
+    {
+      "title": "Apple přidává agenty od Anthropic a OpenAI do nástroje Xcode",
+      "description": "Apple zavádí agentické programování do Xcode, svého hlavního nástroje pro vývoj aplikací. Tento krok umožňuje integraci agentů jako Claude Agent od Anthropic a Codex od OpenAI pro autonomní zpracování složitých úkolů.",
+      "slug": "apple-adds-agents-from-anthropic-and-openai-to-its",
+      "publishedAt": "2026-02-03T20:23:53+00:00",
+      "date": "2026-02-03 20:23:53",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108156731-1749494285081-gettyimages-2218819408-APPLE_WWDC.jpeg?v=1770148506&w=1920&h=1080",
+      "url": "/tech-news/2026-02-03/apple-adds-agents-from-anthropic-and-openai-to-its/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [
+        "Apple",
+        "Anthropic",
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Akcie i bitcoin klesají, investoři vyprodávají akcie softwarových firem",
+      "description": "Akcie obecně klesly v úterý, protože investoři se zbavovali podílů v softwarových společnostech kvůli obavám, že nástroje umělé inteligence ohrozí jejich podnikání. Technologický sektor vedl S&P 500 k poklesu o 0,8 % a Nasdaq o 1,4 %.",
+      "slug": "stocks-and-bitcoin-sink-as-investors-dump-software",
+      "publishedAt": "2026-02-03T20:15:33+00:00",
+      "date": "2026-02-03 20:15:33",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260121-stock-market-nyse-mn-0815-dd5a80.jpg",
+      "url": "/tech-news/2026-02-03/stocks-and-bitcoin-sink-as-investors-dump-software/",
+      "source": {
+        "emoji": "📰",
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Apple vylepšil Xcode pro lepší podporu kódovacích agentů",
+      "description": "Apple vydal Xcode 26.3, který výrazně rozšiřuje podporu pro AI kódovací agenty jako Claude a ChatGPT. Novinka umožňuje těmto systémům prohledávat dokumentaci, prozkoumávat strukturu souborů a ověřovat změny vizuálně.",
+      "slug": "apple-just-made-xcode-better-for-vibe-coding",
+      "publishedAt": "2026-02-03T20:12:08+00:00",
+      "date": "2026-02-03 20:12:08",
+      "importance": 4,
+      "category": "programování",
+      "urlToImage": null,
+      "url": "/tech-news/2026-02-03/apple-just-made-xcode-better-for-vibe-coding/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Jensen Huang z Nvidia popírá spekulace o dohodě s OpenAI: 'Žádné drama'",
+      "description": "Generální ředitel Nvidia Jensen Huang prohlásil, že plán investovat do OpenAI je na správné cestě. Popřel zprávy o napětí mezi firmami a potvrdil účast v dalším kole fundraisingu.",
+      "slug": "nvidias-jensen-huang-denies-openai-deal-rumors-the",
+      "publishedAt": "2026-02-03T19:30:45+00:00",
+      "date": "2026-02-03 19:30:45",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108256213-1769171467655-108256213-17691714072026-01-21t110421z_923549888_rc2m5jaurrtk_rtrmadp_0_davos-meeting.jpg?v=1769171479&w=1920&h=1080",
+      "url": "/tech-news/2026-02-03/nvidias-jensen-huang-denies-openai-deal-rumors-the/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [
+        "Nvidia",
+        "OpenAI"
+      ],
+      "people": [
+        "Jensen Huang"
+      ]
+    },
+    {
+      "title": "Šéf OpenAI Altman považuje Moltbook za pravděpodobný módní výstřelek, podporuje však technologii za ním",
+      "description": "Sam Altman na Cisco AI Summit v San Franciscu bagatelizoval virální AI sociální síť Moltbook jako dočasný fenomén, ale pochválil technologii umožňující botům autonomní chování. Tato platforma, naplněná open-source boty OpenClaw, vyvolává debatu o hranicích umělé inteligence.",
+      "slug": "openai-ceo-altman-dismisses-moltbook-as-likely-fad",
+      "publishedAt": "2026-02-03T19:19:34+00:00",
+      "date": "2026-02-03 19:19:34",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--epLWKAue--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-02-03T191934Z_1_LYNXMPEM12180_RTROPTP_3_AI-SUMMIT-OPENAI-MOLTBOOK.JPG?itok=SYI8UC8H",
+      "url": "/tech-news/2026-02-03/openai-ceo-altman-dismisses-moltbook-as-likely-fad/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNA"
+      },
+      "companies": [
+        "OpenAI",
+        "Moltbook",
+        "Cisco"
+      ],
+      "people": [
+        "Sam Altman"
+      ]
+    },
+    {
+      "title": "Pařížská jednotka pro kyberzločin prohledala kanceláře X, Musk předvolán",
+      "description": "Francouzská razie a předvolání Muska souvisí s vyšetřováním podezření na zneužití algoritmů a podvodnou extrakci dat ze strany X nebo jejích vedoucích pracovníků.",
+      "slug": "paris-prosecutors-cybercrime-unit-searches-x-offic",
+      "publishedAt": "2026-02-03T19:13:40+00:00",
+      "date": "2026-02-03 19:13:40",
+      "importance": 4,
+      "category": "kyberzločin",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107394975-17119856732024-04-01t100016z_364557262_rc2lx6avc6wm_rtrmadp_0_autos-tesla-brand-sales.jpeg?v=1718036742&w=1920&h=1080",
+      "url": "/tech-news/2026-02-03/paris-prosecutors-cybercrime-unit-searches-x-offic/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Akcie klesají z blízkých rekordních úrovní kvůli propadu technologického sektoru",
+      "description": "Zlato a stříbro se zotavují po historickém výprodeji, zatímco ropa roste.",
+      "slug": "stocks-fall-from-near-record-levels-amid-tech-rout",
+      "publishedAt": "2026-02-03T18:52:44+00:00",
+      "date": "2026-02-03 18:52:44",
+      "importance": 4,
+      "category": "technologické akcie",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/3755HS2Y3PA5L7ZD2XFDPNPPOM.jpg?smart=true&auth=162b6eb1a8ae9a2b954436f4e75ef6c14c705ed8f54b95503b91decbe3538a6f&width=1200&height=630",
+      "url": "/tech-news/2026-02-03/stocks-fall-from-near-record-levels-amid-tech-rout/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Tiger Analytics plánuje úvod na burzu při blížícím se překročení miliardy dolarů v příjmech",
       "description": "Letos dosáhne firma přibližně 0,5 miliardy dolarů v příjmech a do roku 2030 cílí na překročení miliardy, uvedl zakladatel Mahesh Kumar.",
