@@ -1,7 +1,114 @@
 {
-  "generated": "2026-02-04T13:01:25.187251+00:00",
-  "count": 163,
+  "generated": "2026-02-04T17:08:47.366215+00:00",
+  "count": 168,
   "articles": [
+    {
+      "title": "Tiger Analytics plánuje úvod na burzu při blížícím se překročení miliardy dolarů v příjmech",
+      "description": "Letos dosáhne firma přibližně 0,5 miliardy dolarů v příjmech a do roku 2030 cílí na překročení miliardy, uvedl zakladatel Mahesh Kumar.",
+      "slug": "tiger-analytics-eyes-an-ipo-as-company-inches-clos",
+      "publishedAt": "2026-02-03T16:23:49+00:00",
+      "date": "2026-02-03 16:23:49",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/pgyd02/article70587973.ece/alternates/LANDSCAPE_1200/tiger1_30.jpg",
+      "url": "/tech-news/2026-02-03/tiger-analytics-eyes-an-ipo-as-company-inches-clos/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "companies": [
+        "Tiger Analytics"
+      ],
+      "people": [
+        "Kumar"
+      ]
+    },
+    {
+      "title": "SpaceX získává xAI, Musk plánuje datová centra v nízké oběžné dráze",
+      "description": "SpaceX, poskytovatel služeb v nízké oběžné dráze (LEO), získává xAI, umělou inteligenci (AI) firmu založenou Elonem Muskem v roce 2023. Oznámení naznačuje integraci za účelem výstavby datových center ve vesmíru poháněných solární energií, která mají řešit nedostatek energie na Zemi.",
+      "slug": "spacex-acquires-xai-as-musk-eyes-space-based-data-",
+      "publishedAt": "2026-02-03T16:15:00+00:00",
+      "date": "2026-02-03 16:15:00",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": null,
+      "url": "/tech-news/2026-02-03/spacex-acquires-xai-as-musk-eyes-space-based-data/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Telecompetitor"
+      },
+      "companies": [
+        "SpaceX",
+        "xAI"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Dassault a Nvidia společně budují platformu pro průmyslovou AI",
+      "description": "Dassault Systèmes a Nvidia oznámily dlouhodobé strategické partnerství na vytvoření sdílené platformy pro průmyslovou umělou inteligenci, která kombinuje vědecky podložená virtuální dvojčata s velkorysou AI infrastrukturou pro podporu aplikací v mnoha oborech.",
+      "slug": "dassault-and-nvidia-partner-to-build-industrial-ai",
+      "publishedAt": "2026-02-03T16:00:54+00:00",
+      "date": "2026-02-03 16:00:54",
+      "importance": 4,
+      "category": "průmyslová ai",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/12/Designer-3.jpeg",
+      "url": "/tech-news/2026-02-03/dassault-and-nvidia-partner-to-build-industrial-ai/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Dassault Systèmes SA",
+        "Nvidia Corp"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nositel Nobela plánuje stavbu nejmocnějšího kvantového počítače na světě",
+      "description": "John Martinis, který už dvakrát zásadně ovlivnil kvantové výpočty, nyní zakládá firmu QoLab pro vývoj superprovodníkových kvantových počítačů s bezkonkurenčními schopnostmi. Jeho předchozí práce položila základy pro současné qubity od IBM a Google.",
+      "slug": "nobel-laureate-says-hell-build-worlds-most-powerfu",
+      "publishedAt": "2026-02-03T16:00:11+00:00",
+      "date": "2026-02-03 16:00:11",
+      "importance": 5,
+      "category": "kvantové počítače",
+      "urlToImage": "https://images.newscientist.com/wp-content/uploads/2026/01/22164324/martinis-qa.gif",
+      "url": "/tech-news/2026-02-03/nobel-laureate-says-hell-build-worlds-most-powerfu/",
+      "source": {
+        "emoji": "📰",
+        "id": "new-scientist",
+        "name": "New Scientist"
+      },
+      "companies": [],
+      "people": [
+        "John Martinis"
+      ]
+    },
+    {
+      "title": "Dassault Systèmes a NVIDIA spolupracují na průmyslové AI platformě pohánějící virtuální dvojníky",
+      "description": "Dassault Systèmes a NVIDIA oznámily dlouhodobé strategické partnerství na vytvoření sdílené průmyslové architektury pro klíčovou umělou inteligenci napříč odvětvími. Platforma kombinuje virtuální dvojníky od Dassault Systèmes s AI infrastrukturou NVIDIA pro vědecky validované modely průmyslového světa.",
+      "slug": "dassault-systèmes-and-nvidia-partner-to-build-indu",
+      "publishedAt": "2026-02-03T16:00:00+00:00",
+      "date": "2026-02-03 16:00:00",
+      "importance": 4,
+      "category": "průmyslová ai",
+      "urlToImage": "https://s3.amazonaws.com/cms.ipressroom.com/219/files/202602/698172313d63329cf4c98d9b_Dassault%20Systemes%20and%20NVIDIA/Dassault%20Systemes%20and%20NVIDIA_3183037e-e68c-4f6b-b422-cd9bbccf4af7-prv.png",
+      "url": "/tech-news/2026-02-03/dassault-systèmes-and-nvidia-partner-to-build-indu/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Nvidia.com"
+      },
+      "companies": [
+        "Dassault Systèmes",
+        "NVIDIA"
+      ],
+      "people": []
+    },
     {
       "title": "Druhý den: SpaceX Elona Muska kupuje jeho AI společnost xAI",
       "description": "SpaceX oznámila akvizici xAI, což podle Elona Muska vytvoří vertikálně integrovaný systém pro inovace na Zemi i ve vesmíru. Fúze umožní výstavbu datových center pro umělou inteligenci přímo ve vesmíru.",
