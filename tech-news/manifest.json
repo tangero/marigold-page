@@ -1,7 +1,154 @@
 {
-  "generated": "2026-02-05T09:04:06.752188+00:00",
-  "count": 165,
+  "generated": "2026-02-05T13:55:02.455973+00:00",
+  "count": 172,
   "articles": [
+    {
+      "title": "Uber nesplnil výhled zisků a jmenuje nového finančního ředitele pro budoucnost robotaxi",
+      "description": "Balaji Krishnamurthy, viceprezident pro strategické finance a vztahy s investory v Uberu již více než šest let, nahradí současného finančního ředitele Prashantha Mahendru-Rajahe, který odchází po necelých třech letech. Tato změna přichází současně se slabším výhledem na zisky a zdůrazňuje zaměření na autonomní vozidla.",
+      "slug": "uber-misses-on-profit-outlook-names-new-cfo-for-ro",
+      "publishedAt": "2026-02-04T12:29:51+00:00",
+      "date": "2026-02-04 12:29:51",
+      "importance": 4,
+      "category": "autonomní vozy",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-42520,resizemode-75,msid-127909882/tech/technology/uber-misses-on-profit-outlook-names-new-cfo-for-robotaxi-future.jpg",
+      "url": "/tech-news/2026-02-04/uber-misses-on-profit-outlook-names-new-cfo-for-ro/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Uber"
+      ],
+      "people": []
+    },
+    {
+      "title": "Proč dnes klesají akcie softwarových firem, zejména SaaS? Klíčové důvody, které byste měli znát",
+      "description": "Index S&P North American Software klesl tento týden o 15 procent, což představuje největší propad od finanční krize v roce 2008. Tento jev, označovaný jako 'SaaSpocalypse' v hodnotě 285 miliard dolarů, byl vyvolán spuštěním autonomních legálních agentů od společnosti Anthropic, které ohrožují tradiční model příjmů založený na počtu uživatelských licencí.",
+      "slug": "why-are-software-shares-particularly-saas-plunging",
+      "publishedAt": "2026-02-04T12:25:06+00:00",
+      "date": "2026-02-04 12:25:06",
+      "importance": 4,
+      "category": "saas",
+      "urlToImage": "https://img.etimg.com/thumb/msid-127909814,width-1200,height-630,imgsize-128926,overlay-economictimes/articleshow.jpg",
+      "url": "/tech-news/2026-02-04/why-are-software-shares-particularly-saas-plunging/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": []
+    },
+    {
+      "title": "Startup na AI čipy Positron získal 230 milionů dolarů od Arm a Kataru, aby konkuroval Nvidia",
+      "description": "Finanční kolo ohodnotilo ambiciózního konkurenta Nvidia na více než 1 miliardu dolarů.",
+      "slug": "ai-chip-startup-positron-raises-230-million-from-a",
+      "publishedAt": "2026-02-04T12:23:39+00:00",
+      "date": "2026-02-04 12:23:39",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": null,
+      "url": "/tech-news/2026-02-04/ai-chip-startup-positron-raises-230-million-from-a/",
+      "source": {
+        "emoji": "📰",
+        "id": "financial-post",
+        "name": "Financial Post"
+      },
+      "companies": [
+        "Positron",
+        "Arm",
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Je autonomní AI budoucností lidstva? Uprostřed hype kolem Moltbooku a spuštění nového nástroje Anthropicu Sam Altman předpovídá budoucnost",
+      "description": "Rychlý vzestup sociální sítě Moltbook poháněné AI, kde působí pouze autonomní boty, vyvolal debatu o blízkosti strojů k nezávislému chování. Generální ředitel OpenAI Sam Altman tento projekt bagatelizuje jako krátkodobý experiment, ale zdůrazňuje, že technologie za ním ukazuje směr vývoje AI.",
+      "slug": "is-autonomous-ai-humanitys-future-amid-moltbook-hy",
+      "publishedAt": "2026-02-04T12:16:41+00:00",
+      "date": "2026-02-04 12:16:41",
+      "importance": 4,
+      "category": "autonomní ai",
+      "urlToImage": "https://img.etimg.com/thumb/msid-127909587,width-1200,height-630,imgsize-68398,overlay-etpanache/articleshow.jpg",
+      "url": "/tech-news/2026-02-04/is-autonomous-ai-humanitys-future-amid-moltbook-hy/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Moltbook",
+        "Anthropic",
+        "OpenAI"
+      ],
+      "people": [
+        "Sam Altman"
+      ]
+    },
+    {
+      "title": "Globální akcie softwarových firem zasaženy varováním od Anthropic před narušením umělou inteligencí",
+      "description": "Akcie softwarových firem v Evropě, USA a Asii klesly kvůli obavám z pokroků v umělé inteligenci, které mohou narušit jejich obchodní modely. Spouštěčem byl nový nástroj od Anthropic pro model Claude, který cílí na aplikační vrstvu v oblastech práva, prodeje a analýzy dat.",
+      "slug": "global-software-stocks-hit-by-anthropic-wake-up-ca",
+      "publishedAt": "2026-02-04T12:10:44+00:00",
+      "date": "2026-02-04 12:10:44",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--uRBC0dJB--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-02-04T120659Z_1_LYNXMPEM130KA_RTROPTP_3_ANTHROPIC-SEQUOIA-FUNDING.JPG?itok=Zl0vBASv",
+      "url": "/tech-news/2026-02-04/global-software-stocks-hit-by-anthropic-wake-up-ca/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNA"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": []
+    },
+    {
+      "title": "Texas Instruments kupuje Silicon Laboratories za 7,5 miliardy dolarů",
+      "description": "Texas Instruments oznámil akvizici Silicon Laboratories za 7,5 miliardy dolarů, čímž posiluje svou pozici v oblasti bezdrátových konektivitních čipů pro průmyslové a spotřební zařízení. Jedná se o největší nákup této společnosti od roku 2011.",
+      "slug": "texas-instruments-to-buy-chip-designer-silicon-lab",
+      "publishedAt": "2026-02-04T12:05:19+00:00",
+      "date": "2026-02-04 12:05:19",
+      "importance": 5,
+      "category": "polovodiče",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--KLDcbb4S--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-02-04T121225Z_2_LYNXMPEM130QE_RTROPTP_3_SILICON-LABORATORIES-M-A-TEXAS-INSTRUMENTS.JPG?itok=VgSW6v7z",
+      "url": "/tech-news/2026-02-04/texas-instruments-to-buy-chip-designer-silicon-lab/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNA"
+      },
+      "companies": [
+        "Texas Instruments",
+        "Silicon Laboratories"
+      ],
+      "people": []
+    },
+    {
+      "title": "Bojovat proti umělé inteligenci pomocí umělé inteligence: případ Google SynthID",
+      "description": "Podle zprávy Global Risks Report 2026 od Světového ekonomického fóra zůstávají dezinformace a zkreslené informace největším technologickým rizikem. Článek analyzuje, jak Google SynthID pomáhá odhalovat AI-generovaný obsah na příkladu ověřování obrázku a videa o údajném zatčení Ofori-Atta.",
+      "slug": "combattre-lia-par-lia-le-cas-de-google-synthid-ang",
+      "publishedAt": "2026-02-04T12:02:59+00:00",
+      "date": "2026-02-04 12:02:59",
+      "importance": 4,
+      "category": "dezinformace",
+      "urlToImage": "https://ghanafact.com/wp-content/uploads/2026/02/Google-SynthID.png",
+      "url": "/tech-news/2026-02-04/combattre-lia-par-lia-le-cas-de-google-synthid-ang/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Ghanafact.com"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
     {
       "title": "Proč nová pracovní sada AI od Anthropic způsobila pokles technologických akcií v USA a Indii",
       "description": "Oznámení nové sady nástrojů pro automatizaci práce od Anthropic vyvolalo obavy z nahrazení tradičních softwarových firem umělou inteligencí a vedlo k prudkému poklesu akcií technologických společností v USA i Indii.",
