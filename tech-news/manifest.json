@@ -1,7 +1,217 @@
 {
-  "generated": "2026-02-05T01:34:36.526907+00:00",
-  "count": 183,
+  "generated": "2026-02-05T05:37:16.780078+00:00",
+  "count": 161,
   "articles": [
+    {
+      "title": "Vůdčí postavení OpenAI se zužuje s rostoucí konkurencí v AI",
+      "description": "Soupeři OpenAI snižují náskok ChatGPT. Podle zprávy klesl tržní podíl největšího chatbota z 69,1 % na 45,3 % mezi lednem 2025 a lednem 2026 u denních uživatelů mobilní aplikace v USA. Gemini vzrostl z 14,7 % na 25,1 % a Grok z 1,6 % na 15,2 %.",
+      "slug": "openais-lead-is-contracting-as-ai-competition-inte",
+      "publishedAt": "2026-02-04T05:01:00+00:00",
+      "date": "2026-02-04 05:01:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://a.fsdn.com/sd/topics/ai_64.png",
+      "url": "/tech-news/2026-02-04/openais-lead-is-contracting-as-ai-competition-inte/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "SaaSpocalypse v hodnotě 1,93 bilionu rupií pro IT akcie: Vysvětlení a dopady pro investory",
+      "description": "Indické IT akcie prožily v středu největší pokles od března 2020 kvůli obavám z umělé inteligence, která by mohla znehodnotit tradiční software a IT služby. Tržní hodnota odvětví klesla o 1,93 bilionu rupií, což odráží globální trendy v AI.",
+      "slug": "rs-175-lakh-crore-saaspocalypse-for-it-stocks-expl",
+      "publishedAt": "2026-02-04T04:58:50+00:00",
+      "date": "2026-02-04 04:58:50",
+      "importance": 4,
+      "category": "it akcie",
+      "urlToImage": "https://img.etimg.com/thumb/msid-127900170,width-1200,height-630,imgsize-2846913,overlay-etmarkets/articleshow.jpg",
+      "url": "/tech-news/2026-02-04/rs-175-lakh-crore-saaspocalypse-for-it-stocks-expl/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Samsung a SK Hynix přecházejí na HBM4, přestože výtěžnost a politická rizika hrozí",
+      "description": "Samsung Electronics a SK Hynix získaly připravenou technologii pro výrobu 16-vrstvových zásobníků šesté generace vysokopásmové paměti HBM4. To staví obě korejské firmy do klíčové soutěže v roce 2026 v souvislosti s rostoucí poptávkou po pamětech pro umělou inteligenci.",
+      "slug": "samsung-sk-hynix-move-into-hbm4-as-yields-and-poli",
+      "publishedAt": "2026-02-04T04:39:46+00:00",
+      "date": "2026-02-04 04:39:46",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://img.digitimes.com/newsshow/20260204pd215_files/2_b.jpg",
+      "url": "/tech-news/2026-02-04/samsung-sk-hynix-move-into-hbm4-as-yields-and-poli/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [
+        "Samsung",
+        "SK Hynix"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nové AI nástroje od Anthropic prohlubují pokles akcií v datové analytice a softwaru, tvrdí investoři",
+      "description": "Kanadská společnost Thomson Reuters, vlastník legální databáze Westlaw, klesla o téměř 18 %. Je na cestě k největší denní ztrátě v historii a nejnižšímu zavření od června 2021.",
+      "slug": "anthropics-new-ai-tools-deepen-selloff-in-data-ana",
+      "publishedAt": "2026-02-04T04:37:52+00:00",
+      "date": "2026-02-04 04:37:52",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/msid-127899846,width-1200,height-630,imgsize-62534,overlay-etmarkets/articleshow.jpg",
+      "url": "/tech-news/2026-02-04/anthropics-new-ai-tools-deepen-selloff-in-data-ana/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": []
+    },
+    {
+      "title": "Wipro a LTIM vedou poklesy mezi IT akciemi po novém AI nástroji Anthropic",
+      "description": "Index Nifty IT klesl až o 6 % po otevření trhu, akcie firem jako LTIMindtree, Persistent Systems, HCLTech, Infosys a Wipro ztratily více než 5 %. Pokles vyvolalo vydání nového AI nástroje od Anthropic pro automatizaci právních úkolů.",
+      "slug": "wipro-ltim-lead-declines-in-it-stocks-after-anthro",
+      "publishedAt": "2026-02-04T03:57:51+00:00",
+      "date": "2026-02-04 03:57:51",
+      "importance": 4,
+      "category": "it akcie",
+      "urlToImage": "https://c.ndtvimg.com/2026-02/op2vbv84_itstocks_625x300_04_February_26.jpg?im=FitAndFill,algorithm=dnn,width=1080,height=607",
+      "url": "/tech-news/2026-02-04/wipro-ltim-lead-declines-in-it-stocks-after-anthro/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Ndtvprofit.com"
+      },
+      "companies": [
+        "Anthropic",
+        "Wipro",
+        "LTIMindtree",
+        "Persistent Systems",
+        "HCLTech"
+      ],
+      "people": []
+    },
+    {
+      "title": "Prodeje AI čipů Nvidia do Číny pozastaveny americkou bezpečnostní kontrolou: Zpráva",
+      "description": "Prodeje AI čipů H200 od Nvidia do Číny zůstávají v nejistotě kvůli probíhající kontrole národní bezpečnosti USA. Čínští zákazníci nepodávají objednávky, dokud nebude jasné, zda získají exportní licence a jaké podmínky budou splněny.",
+      "slug": "nvidia-ai-chip-sales-to-china-stalled-by-us-securi",
+      "publishedAt": "2026-02-04T03:49:50+00:00",
+      "date": "2026-02-04 03:49:50",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-63438,resizemode-75,msid-127899264/tech/technology/nvidia-ai-chip-sales-to-china-stalled-by-us-security-review-report.jpg",
+      "url": "/tech-news/2026-02-04/nvidia-ai-chip-sales-to-china-stalled-by-us-securi/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Šéf OpenAI Altman považuje Moltbook za pravděpodobný módní výstřelek, podporuje technologii za ním",
+      "description": "Sam Altman na Cisco AI Summit v San Franciscu minimalizoval virální sociální síť Moltbook jako dočasný fenomén, ale zdůraznil význam technologie umožňující autonomní chování AI botů. Mluvil o OpenClaw, open-source agentovi pro ovládání počítače, a ukázal na OpenAI Codex jako podobný nástroj.",
+      "slug": "openai-ceo-altman-dismisses-moltbook-as-likely-fad",
+      "publishedAt": "2026-02-04T02:54:10+00:00",
+      "date": "2026-02-04 02:54:10",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-36192,resizemode-75,msid-127898546/tech/artificial-intelligence/openai-ceo-altman-dismisses-moltbook-as-likely-fad-backs-the-tech-behind-it.jpg",
+      "url": "/tech-news/2026-02-04/openai-ceo-altman-dismisses-moltbook-as-likely-fad/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "OpenAI",
+        "Cisco"
+      ],
+      "people": [
+        "Sam Altman"
+      ]
+    },
+    {
+      "title": "Fractal Analytics stanovila cenové pásmo pro IPO, cílí na valuaci 14 450 crore rupií",
+      "description": "Indická firma Fractal Analytics, zabývající se umělou inteligencí a analýzou dat, stanovila cenové pásmo 857-900 rupií na akcii pro své IPO s cílovou valuací přibližně 1,6 miliardy dolarů. IPO se otevře pro retailové investory 9. února a firma chce být první čistě na AI zaměřenou společností na burze v Indii.",
+      "slug": "fractal-analytics-sets-ipo-price-band-eyes-rs-1445",
+      "publishedAt": "2026-02-04T02:37:35+00:00",
+      "date": "2026-02-04 02:37:35",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://img.etimg.com/thumb/msid-127898328,width-1200,height-630,imgsize-37116,overlay-etmarkets/articleshow.jpg",
+      "url": "/tech-news/2026-02-04/fractal-analytics-sets-ipo-price-band-eyes-rs-1445/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Fractal Analytics"
+      ],
+      "people": []
+    },
+    {
+      "title": "Francouzští vyšetřovatelé kyberzločinu prohledali pařížskou centrálu X kvůli chatbotu Grok",
+      "description": "Francouzské kanceláře společnosti X Corp. Elona Muska byly prohledány v rámci předběžného vyšetřování obvinění ze šíření obrázků dětského sexuálního zneužívání a dalších trestných činů. Razii provedly francouzské policejní jednotky pro kyberzločin, prokuratura a Europol.",
+      "slug": "xs-paris-hq-raided-by-french-cybercrime-officers-o",
+      "publishedAt": "2026-02-04T02:13:07+00:00",
+      "date": "2026-02-04 02:13:07",
+      "importance": 4,
+      "category": "kyberzločin",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/54817684706_0b4d7670d3_c.jpg",
+      "url": "/tech-news/2026-02-04/xs-paris-hq-raided-by-french-cybercrime-officers-o/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "X Corp"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Akcie Infosys a Wipro v centru pozornosti po poklesu ADR až o 6 %. Proč k tomu došlo",
+      "description": "Akcie Wipro a Infosys přitahují pozornost poté, co jejich americké ADR klesly přes noc až o 6 %, což odráží obavy investorů z globálního softwarového sektoru. Prodej byl spuštěn novým nástrojem AI startupu Anthropic pro právní týmy, zesilujícím konkurenci v oblasti AI.",
+      "slug": "infosys-wipro-shares-in-focus-as-us-listed-adrs-sl",
+      "publishedAt": "2026-02-04T02:01:08+00:00",
+      "date": "2026-02-04 02:01:08",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/msid-127897844,width-1200,height-630,imgsize-111036,overlay-etmarkets/articleshow.jpg",
+      "url": "/tech-news/2026-02-04/infosys-wipro-shares-in-focus-as-us-listed-adrs-sl/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Infosys",
+        "Wipro",
+        "Anthropic"
+      ],
+      "people": []
+    },
     {
       "title": "Skyryse získala přes 300 milionů dolarů na systém řízení letu s prvky umělé inteligence",
       "description": "Společnost Skyryse Inc., vývojář systému řízení letu s prvky umělé inteligence, uzavřela investiční kolo Series C v hodnotě více než 300 milionů dolarů. Kolo vedly Autopilot Ventures a vracející se investor Fidelity Management, společnost nyní hodnotí na 1,15 miliardy dolarů.",
@@ -245,30 +455,6 @@
       ],
       "people": [
         "Jensen Huang"
-      ]
-    },
-    {
-      "title": "Šéf OpenAI Altman považuje Moltbook za pravděpodobný módní výstřelek, podporuje však technologii za ním",
-      "description": "Sam Altman na Cisco AI Summit v San Franciscu bagatelizoval virální AI sociální síť Moltbook jako dočasný fenomén, ale pochválil technologii umožňující botům autonomní chování. Tato platforma, naplněná open-source boty OpenClaw, vyvolává debatu o hranicích umělé inteligence.",
-      "slug": "openai-ceo-altman-dismisses-moltbook-as-likely-fad",
-      "publishedAt": "2026-02-03T19:19:34+00:00",
-      "date": "2026-02-03 19:19:34",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--epLWKAue--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-02-03T191934Z_1_LYNXMPEM12180_RTROPTP_3_AI-SUMMIT-OPENAI-MOLTBOOK.JPG?itok=SYI8UC8H",
-      "url": "/tech-news/2026-02-03/openai-ceo-altman-dismisses-moltbook-as-likely-fad/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNA"
-      },
-      "companies": [
-        "OpenAI",
-        "Moltbook",
-        "Cisco"
-      ],
-      "people": [
-        "Sam Altman"
       ]
     },
     {
@@ -3186,647 +3372,6 @@
       "people": [
         "Elon Musk"
       ]
-    },
-    {
-      "title": "PwC rozšiřuje alianci s Google Cloud o 400 milionů dolarů na AI řízené bezpečnostní operace",
-      "description": "Společnost PricewaterhouseCoopers oznámila rozšířenou spolupráci s Google Cloud v hodnotě 400 milionů dolarů na tři roky. Cílem je modernizovat bezpečnostní operace organizací a posílit jejich kybernetickou odolnost pomocí umělé inteligence a inteligence o hrozbách.",
-      "slug": "pwc-expands-google-cloud-alliance-with-400m-push-i",
-      "publishedAt": "2026-01-29T23:51:14+00:00",
-      "date": "2026-01-29 23:51:14",
-      "importance": 4,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/pwcgooglecloud.png",
-      "url": "/tech-news/2026-01-29/pwc-expands-google-cloud-alliance-with-400m-push-i/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "(PR) Kioxia a Sandisk prodlužují dohodu o společném podniku v Yokkaichi do roku 2034",
-      "description": "Kioxia Corporation a Sandisk Corporation oznámily prodloužení dohod o společném podniku v závodě Yokkaichi o pět let, do 31. prosince 2034. Dohoda zahrnuje platbu 1,165 miliardy USD za výrobní služby a zajištění dodávek pokročilé 3D flash paměti pro aplikace generativní AI.",
-      "slug": "pr-kioxia-and-sandisk-extend-yokkaichi-joint-ventu",
-      "publishedAt": "2026-01-29T23:46:33+00:00",
-      "date": "2026-01-29 23:46:33",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://www.techpowerup.com/img/MIMeNDUoBXS5mOT3.jpg",
-      "url": "/tech-news/2026-01-29/pr-kioxia-and-sandisk-extend-yokkaichi-joint-ventu/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Techpowerup.com"
-      },
-      "companies": [
-        "Kioxia Corporation",
-        "Kioxia Holdings Corporation",
-        "Sandisk Corporation"
-      ],
-      "people": []
-    },
-    {
-      "title": "Apple získal AI startup Q.ai za údajných 2 miliard dolarů",
-      "description": "Apple Inc. koupil izraelskou firmu Q.ai, vývojáře umělé inteligence pro nositelná zařízení, za přibližně 2 miliardy dolarů. Technologie rozpoznává mluvenou i šeptanou řeč v hlučných prostředích analýzou mikro pohybů obličejové kůže a sleduje zdravotní metriky jako srdeční tep.",
-      "slug": "apple-acquires-ai-startup-qai-for-reported-2b",
-      "publishedAt": "2026-01-29T23:29:54+00:00",
-      "date": "2026-01-29 23:29:54",
-      "importance": 5,
-      "category": "ai startupy",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/395180753_cd01024384_b-1.jpg",
-      "url": "/tech-news/2026-01-29/apple-acquires-ai-startup-qai-for-reported-2b/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Apple",
-        "Q.ai"
-      ],
-      "people": []
-    },
-    {
-      "title": "Waymo otevírá službu na letišti v San Franciscu. Vše, co potřebujete vědět o robotaxi",
-      "description": "Zde je přehled, kde autonomní společnost působí a kam se chystá brzy rozšířit.",
-      "slug": "waymo-opens-up-airport-service-in-san-francisco-ev",
-      "publishedAt": "2026-01-29T20:21:00+00:00",
-      "date": "2026-01-29 20:21:00",
-      "importance": 4,
-      "category": "autonomní vozy",
-      "urlToImage": "https://www.cnet.com/a/img/resize/fc2fd45ab2e66a4fe11c3fd8fedbefbcfba95af6/hub/2024/09/13/aca68d34-bb9b-4072-b1b5-1bb664a26159/waymo.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "url": "/tech-news/2026-01-29/waymo-opens-up-airport-service-in-san-francisco-ev/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNET"
-      },
-      "companies": [
-        "Waymo"
-      ],
-      "people": []
-    },
-    {
-      "title": "Waymo v Santa Monice srazil dítě",
-      "description": "23. ledna kolem 7:40 ráno poblíž školy Grant Elementary v Santa Monice autonomní Jaguar I-Pace od Waymo narazil na dítě, které vyběhlo zpoza dvojparkujícího SUV. Vozidlo brzdilo z 17 mph na méně než 6 mph před mírným nárazem, dítě utrpělo lehké zranění a NHTSA zahájila vyšetřování.",
-      "slug": "waymo-hits-child-in-santa-monica",
-      "publishedAt": "2026-01-29T20:20:47+00:00",
-      "date": "2026-01-29 20:20:47",
-      "importance": 4,
-      "category": "autonomní vozy",
-      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2018/03/52a49a9bda14741ffd028335af01a5b5.png",
-      "url": "/tech-news/2026-01-29/waymo-hits-child-in-santa-monica/",
-      "source": {
-        "emoji": "📰",
-        "id": "next-big-future",
-        "name": "Next Big Future"
-      },
-      "companies": [
-        "Waymo"
-      ],
-      "people": []
-    },
-    {
-      "title": "Apple koupil izraelský startup Q.ai za téměř 2 miliardy dolarů, jeho druhou největší akvizici v historii",
-      "description": "Apple provedl jednu ze svých největších akvizic nákupem izraelského startupu Q.ai zaměřeného na AI za přibližně 2 miliardy dolarů. Tento krok má urychlit vývoj pokročilých nositelných zařízení s umělou inteligencí.",
-      "slug": "apple-buys-israeli-startup-qai-for-nearly-2-billio",
-      "publishedAt": "2026-01-29T20:05:41+00:00",
-      "date": "2026-01-29 20:05:41",
-      "importance": 5,
-      "category": "ai",
-      "urlToImage": "https://macdailynews.com/wp-content/uploads/2024/08/240801_apple_logo_02.png",
-      "url": "/tech-news/2026-01-29/apple-buys-israeli-startup-qai-for-nearly-2-billio/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Macdailynews.com"
-      },
-      "companies": [
-        "Apple",
-        "Q.ai"
-      ],
-      "people": []
-    },
-    {
-      "title": "Nová akvizice Apple by mohla vyřešit největší problém s umělou inteligencí",
-      "description": "Apple získal společnost Q.ai v transakci odhadované na 2 miliardy dolarů. Některé detaily o technologii Q.ai naznačují potenciál pro pokrok v hlasovém vstupu bez zvuku pro Siri a další AI nástroje Apple.",
-      "slug": "apples-new-acquisition-could-solve-my-biggest-ai-p",
-      "publishedAt": "2026-01-29T20:01:54+00:00",
-      "date": "2026-01-29 20:01:54",
-      "importance": 5,
-      "category": "ai",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/apple-intelligence-iphone-17-pro-orange.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2026-01-29/apples-new-acquisition-could-solve-my-biggest-ai-p/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "companies": [
-        "Apple",
-        "Q.ai"
-      ],
-      "people": []
-    },
-    {
-      "title": "Google spouští ‚Project Genie‘ pro generování hratelných světů",
-      "description": "Genie 3 je univerzální model světa schopný generovat různorodá interaktivní prostředí. Google nyní umožňuje přístup k němu předplatitelům AI Ultra v USA prostřednictvím Project Genie.",
-      "slug": "google-rolling-out-project-genie-to-generate-playa",
-      "publishedAt": "2026-01-29T19:58:25+00:00",
-      "date": "2026-01-29 19:58:25",
-      "importance": 4,
-      "category": "herní průmysl",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/01/Google-Project-Genie-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2026-01-29/google-rolling-out-project-genie-to-generate-playa/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Apple získává izraelský AI startup Q.ai v velké dohodě",
-      "description": "Dohoda odhadovaná na až 2 miliardy dolarů přivede firmu Q.ai z Ramat Ganu a jejích 100 zaměstnanců k Applu. Pro zakladatele Aviada Maizelse jde o druhý prodej společnosti technologickému gigantovi.",
-      "slug": "apple-acquires-israeli-ai-startup-qai-in-major-dea",
-      "publishedAt": "2026-01-29T19:47:55+00:00",
-      "date": "2026-01-29 19:47:55",
-      "importance": 5,
-      "category": "ai startupy",
-      "urlToImage": "https://2.a7.org/files/pictures/000/1198659.jpg",
-      "url": "/tech-news/2026-01-29/apple-acquires-israeli-ai-startup-qai-in-major-dea/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Israelnationalnews.com"
-      },
-      "companies": [
-        "Apple",
-        "Q.ai"
-      ],
-      "people": [
-        "Aviad Maizels"
-      ]
-    },
-    {
-      "title": "Apple získává izraelský startup Q.ai zaměřený na audio AI před výsledky za Q4",
-      "description": "Apple podle Financial Times získal izraelský startup Q.ai, který se specializuje na technologie umělé inteligence pro zpracování audia. Akvizice přichází v době příprav na fiskální výsledky za čtvrté čtvrtletí a rostoucí kontroly nad AI strategií společnosti.",
-      "slug": "apple-acquires-israeli-audio-ai-startup-qai-before",
-      "publishedAt": "2026-01-29T19:47:37+00:00",
-      "date": "2026-01-29 19:47:37",
-      "importance": 4,
-      "category": "ai startupy",
-      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2024/08/Apple.jpg",
-      "url": "/tech-news/2026-01-29/apple-acquires-israeli-audio-ai-startup-qai-before/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "pymnts.com"
-      },
-      "companies": [
-        "Apple",
-        "Q.ai"
-      ],
-      "people": []
-    },
-    {
-      "title": "AI píše 100 % kódu v Anthropic, říkají špičkoví inženýři OpenAI – s důsledky pro budoucnost pracovních míst ve vývoji software",
-      "description": "Nástroje AI pro generování kódu se stávají natolik pokročilými, že inženýři v Anthropic a OpenAI jež píšou žádný kód ručně. To vyvolává otázky ohledně budoucnosti profese programátorů.",
-      "slug": "ai-writes-100-of-the-code-at-anthropic-openai-top-",
-      "publishedAt": "2026-01-29T19:47:31+00:00",
-      "date": "2026-01-29 19:47:31",
-      "importance": 4,
-      "category": "programování",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/01/GettyImages-2216956965_40536e-e1769705381107.jpg?resize=1200,600",
-      "url": "/tech-news/2026-01-29/ai-writes-100-of-the-code-at-anthropic-openai-top/",
-      "source": {
-        "emoji": "📰",
-        "id": "fortune",
-        "name": "Fortune"
-      },
-      "companies": [
-        "Anthropic",
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Samsung se spoléhá na boom pamětí pro AI k růstu příjmů",
-      "description": "Samsung oznámil nejlepší čtvrtletí v historii za čtvrté čtvrtletí 2025 díky poptávce po polovodičích a pamětích souvisejících s umělou inteligenci. Poptávka po vysokorychlostních pamětích pro AI servery výrazně překonala nabídku a zvýšila ceny.",
-      "slug": "samsung-leans-on-ai-memory-boom-to-drive-revenue",
-      "publishedAt": "2026-01-29T19:46:12+00:00",
-      "date": "2026-01-29 19:46:12",
-      "importance": 4,
-      "category": "ai paměti",
-      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2024/02/Samsung.jpg",
-      "url": "/tech-news/2026-01-29/samsung-leans-on-ai-memory-boom-to-drive-revenue/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "pymnts.com"
-      },
-      "companies": [
-        "Samsung"
-      ],
-      "people": []
-    },
-    {
-      "title": "Legion Intelligence vydává otevřený dopis národní bezpečnostní komunitě o osobních AI asistentech",
-      "description": "Legion Intelligence, firma zaměřená na bezpečnost v oblasti umělé inteligence, vydala otevřený dopis lídrům americké národní bezpečnosti, obrany a zpravodajství. Varuje před rychlou adopcí open-source AI asistenta Clawdbot, nyní přejmenovaného na Moltbot, kvůli významným operačním bezpečnostním rizikům.",
-      "slug": "legion-intelligence-issues-open-letter-to-the-nati",
-      "publishedAt": "2026-01-29T19:43:00+00:00",
-      "date": "2026-01-29 19:43:00",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/6577f8a5-477e-4f92-bf52-641e657ed478",
-      "url": "/tech-news/2026-01-29/legion-intelligence-issues-open-letter-to-the-nati/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [
-        "Legion Intelligence"
-      ],
-      "people": []
-    },
-    {
-      "title": "Apple získává izraelský startup Q.ai údajně za 2 miliardy dolarů",
-      "description": "Apple ovládl izraelský startup Q.ai, což by mělo posílit jeho schopnosti v umělé inteligenci. Podle zdrojů Financial Times je hodnota dohody téměř 2 miliardy dolarů, což činí tuto akvizici druhou největší v historii společnosti.",
-      "slug": "apple-acquires-qai-for-a-reported-2-billion",
-      "publishedAt": "2026-01-29T19:12:29+00:00",
-      "date": "2026-01-29 19:12:29",
-      "importance": 5,
-      "category": "ai",
-      "urlToImage": null,
-      "url": "/tech-news/2026-01-29/apple-acquires-qai-for-a-reported-2-billion/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "companies": [
-        "Apple",
-        "Q.ai"
-      ],
-      "people": []
-    },
-    {
-      "title": "Tesla ukončuje výrobu Modelu S a X příští kvartál kvůli zaměření na robota Optimus",
-      "description": "Tesla ruší výrobu svých dvou nejstarších elektromobilů Model S a Model X příští kvartál, aby přesměrovala zdroje do autonomní robotické budoucnosti s humanoidním robotem Optimus.",
-      "slug": "tesla-sunsetting-model-s-and-x-next-quarter-to-ref",
-      "publishedAt": "2026-01-29T19:09:35+00:00",
-      "date": "2026-01-29 19:09:35",
-      "importance": 4,
-      "category": "robotika",
-      "urlToImage": "https://www.cnet.com/a/img/resize/69992de19ec58223fbdb299126e782a27c115cd5/hub/2021/01/27/3847d537-713c-4f4a-8448-d4787dac6172/tesla-model-s-refresh-210-ogi.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "url": "/tech-news/2026-01-29/tesla-sunsetting-model-s-and-x-next-quarter-to-ref/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNET"
-      },
-      "companies": [
-        "Tesla"
-      ],
-      "people": []
-    },
-    {
-      "title": "EU se postavila proti Muskově AI, která 'svléká' ženy. Dokáže ochránit své občany?",
-      "description": "Evropská unie prověřuje AI Grok od Elona Muska poté, co jeho funkce pro deepfakes vygenerovala miliony sexualizovaných obrázků žen a dětí. Brusel tak testuje své nejtvrdší technologické předpisy na jednom z největších případů.",
-      "slug": "the-eu-takes-on-musks-ai-that-undresses-women-can-",
-      "publishedAt": "2026-01-29T16:22:00+00:00",
-      "date": "2026-01-29 16:22:00",
-      "importance": 5,
-      "category": "deepfakes",
-      "urlToImage": "https://static.dw.com/image/75713143_6.jpg",
-      "url": "/tech-news/2026-01-29/the-eu-takes-on-musks-ai-that-undresses-women-can/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "DW (English)"
-      },
-      "companies": [],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Může EU postavit Muskovi AI funkci 'svlékání'?",
-      "description": "EU prověřuje Grok AI Elona Muska poté, co jeho deepfake funkce vygenerovala miliony sexualizovaných obrázků žen a dětí. Brusel tak testuje své nejtvrdší technologické zákony na jednom z největších případů.",
-      "slug": "can-the-eu-take-on-musk-over-ai-undressing-feature",
-      "publishedAt": "2026-01-29T16:22:00+00:00",
-      "date": "2026-01-29 16:22:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://static.dw.com/image/75713143_6.jpg",
-      "url": "/tech-news/2026-01-29/can-the-eu-take-on-musk-over-ai-undressing-feature/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "DW (English)"
-      },
-      "companies": [],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Exploze raket SpaceX způsobují vážné bezpečnostní problémy leteckým společnostem",
-      "description": "Exploze raket Starship od SpaceX ohrožují komerční lety, kdy letadla musí nouzově měnit kurzy kvůli troskám. Problém se opakuje a zatěžuje Federální úřad pro letectví (FAA), který musí vyvažovat podporu vesmírného průmyslu s bezpečností vzdušného prostoru.",
-      "slug": "spacex-rocket-explosions-are-causing-major-safety-",
-      "publishedAt": "2026-01-29T16:17:00+00:00",
-      "date": "2026-01-29 16:17:00",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://www.bgr.com/img/gallery/spacex-rocket-explosions-are-causing-major-safety-issues-for-airlines/l-intro-1769129120.jpg",
-      "url": "/tech-news/2026-01-29/spacex-rocket-explosions-are-causing-major-safety/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BGR"
-      },
-      "companies": [
-        "SpaceX"
-      ],
-      "people": []
-    },
-    {
-      "title": "Kampaň Nvidie za prodej AI čipů do Číny se konečně vyplatila",
-      "description": "Peking schválil prodej stovek tisíc čipů Nvidia H200 čínským AI firmám jako ByteDance, Alibaba a Tencent – vrchol dramatické změny v americké technologické politice.",
-      "slug": "nvidias-campaign-to-sell-ai-chips-to-china-finally",
-      "publishedAt": "2026-01-29T16:10:53+00:00",
-      "date": "2026-01-29 16:10:53",
-      "importance": 4,
-      "category": "ai čipy",
-      "urlToImage": "https://media.wired.com/photos/697a9c48f20d0ff71a085282/191:100/w_1280,c_limit/Made-In-China-Access-to-US-Chips-2245031811.jpg",
-      "url": "/tech-news/2026-01-29/nvidias-campaign-to-sell-ai-chips-to-china-finally/",
-      "source": {
-        "emoji": "🔧",
-        "id": "wired",
-        "name": "Wired"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": []
-    },
-    {
-      "title": "Tržiště GPU clusterů PaleBlueDot AI získalo 150 milionů dolarů při valuaci 1 miliardy",
-      "description": "PaleBlueDot AI, cloudová platforma se sídlem v Silicon Valley nabízející škálovatelné jednotné GPU clustery po celém světě pro úlohy AI inference a dlouhodobé výpočty, získala 150 milionů dolarů v Series B kole financování vedeném B Capital při valuaci přes 1 miliardu dolarů.",
-      "slug": "gpu-cluster-marketplace-palebluedot-ai-raises-150m",
-      "publishedAt": "2026-01-29T16:05:11+00:00",
-      "date": "2026-01-29 16:05:11",
-      "importance": 4,
-      "category": "startupy",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/earth-11014_1280.jpg",
-      "url": "/tech-news/2026-01-29/gpu-cluster-marketplace-palebluedot-ai-raises-150m/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "PaleBlueDot AI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Možnosti růstu na trhu opakovaně použitelných raket v hodnotě 3,83 miliardy dolarů, 2026–2030 & 2035 – dominují SpaceX, Blue Origin a ArianeGroup",
-      "description": "Globální trh s opakovaně použitelnými rakety roste z 3,3 miliardy USD v roce 2025 na 6,94 miliardy USD do roku 2030 s ročním složeným tempo růstu 16 %. Růst pohání technologie vertikálního vzletu a přistání, poptávka po komerčních satelitech a vládní investice do vesmírných programů.",
-      "slug": "growth-opportunities-in-the-383-billion-reusable-r",
-      "publishedAt": "2026-01-29T15:39:00+00:00",
-      "date": "2026-01-29 15:39:00",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-      "url": "/tech-news/2026-01-29/growth-opportunities-in-the-383-billion-reusable-r/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [
-        "SpaceX",
-        "Blue Origin",
-        "ArianeGroup"
-      ],
-      "people": []
-    },
-    {
-      "title": "Roční zisky Tesly klesly o 46 procent, Elon Musk ztratil titul globálního lídra v prodejích elektromobilů",
-      "description": "Tesla oznámila v aktualizaci výsledků pokles zisku o 46 procent oproti loňsku, což signalizuje obtížné období pro výrobce elektromobilů, který ztratil pozici největšího prodejce na světě. Společnost se zaměřuje na přechod k robotice a autonomním technologiím.",
-      "slug": "teslas-annual-profits-drop-46-as-elon-musk-loses-g",
-      "publishedAt": "2026-01-29T15:33:29+00:00",
-      "date": "2026-01-29 15:33:29",
-      "importance": 4,
-      "category": "elektromobilita",
-      "urlToImage": "https://media.breitbart.com/media/2026/01/Elon-Musk-lost-in-thought-about-Tesla-earnings-640x335.jpg",
-      "url": "/tech-news/2026-01-29/teslas-annual-profits-drop-46-as-elon-musk-loses-g/",
-      "source": {
-        "emoji": "📰",
-        "id": "breitbart-news",
-        "name": "Breitbart News"
-      },
-      "companies": [
-        "Tesla"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "60 způsobů, jak hacknout svůj chatbot",
-      "description": "Představení průvodce HRExaminer po bezpečnosti AI pro HRTech a WorkTech, který varuje před rostoucími zranitelnostmi chatbotů v době AI boomu.",
-      "slug": "A-60-ways-to-hack-your-chatbot",
-      "publishedAt": "2026-01-29T12:16:25+00:00",
-      "date": "2026-01-29 12:16:25",
-      "importance": 4,
-      "category": "ai bezpečnost",
-      "urlToImage": "https://substackcdn.com/image/fetch/$s_!Ca6J!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F39e3c1e6-8ce8-4032-8d77-c2dc3031fd82_3840x2160.heic",
-      "url": "/tech-news/2026-01-29/A-60-ways-to-hack-your-chatbot/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Hrexaminer.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Elon Musk trvá na tom, že Tesla je technologická společnost. Začíná to tak vypadat.",
-      "description": "Zvyšování předplatného, výroba robotů a prodej méně aut? Tesla se chová jako technologická společnost více než kdy dřív.",
-      "slug": "elon-musk-insists-tesla-is-a-tech-company-its-star",
-      "publishedAt": "2026-01-29T11:59:33+00:00",
-      "date": "2026-01-29 11:59:33",
-      "importance": 4,
-      "category": "elektromobilita",
-      "urlToImage": "https://i.insider.com/6979fc73a645d11881881e7b?width=1200&format=jpeg",
-      "url": "/tech-news/2026-01-29/elon-musk-insists-tesla-is-a-tech-company-its-star/",
-      "source": {
-        "emoji": "📰",
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "companies": [
-        "Tesla"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "DPI a PODTECH uzavírají partnerství k urychlení globálního nasazení AI infrastruktury",
-      "description": "Společnosti Datalec Precision Installations (DPI) a PODTECH oznámily globální partnerství zaměřené na dodávku předpřipravené AI infrastruktury pro hyperscalery v Evropě, Asii a na Blízkém východě. Partnerství řeší aktuální nedostatek kapacity datových center způsobený rychle rostoucí poptávkou po AI výpočetních zdrojích.",
-      "slug": "dpi-and-podtech-partner-to-accelerate-ai-infrastru",
-      "publishedAt": "2026-01-29T08:05:00+00:00",
-      "date": "2026-01-29 08:05:00",
-      "importance": 4,
-      "category": "ai infrastruktura",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/76d51ea8-efa4-4a5c-b56b-b0ce945bdcd0",
-      "url": "/tech-news/2026-01-29/dpi-and-podtech-partner-to-accelerate-ai-infrastru/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [
-        "DPI",
-        "PODTECH"
-      ],
-      "people": []
-    },
-    {
-      "title": "Tesla znovu potvrzuje zahájení výroby Cybercab letos",
-      "description": "Tesla oznámila investici 2 miliard dolarů do společnosti xAI Elona Muska na vývoj umělé inteligence a potvrdila, že plány na výrobu robotaxi Cybercab probíhají podle harmonogramu pro tento rok.",
-      "slug": "tesla-reiterates-cybercab-production-starts-this-y",
-      "publishedAt": "2026-01-29T07:19:42+00:00",
-      "date": "2026-01-29 07:19:42",
-      "importance": 4,
-      "category": "elektromobilita",
-      "urlToImage": "https://www.rte.ie/images/0022b315-1600.jpg",
-      "url": "/tech-news/2026-01-29/tesla-reiterates-cybercab-production-starts-this-y/",
-      "source": {
-        "emoji": "📰",
-        "id": "rte",
-        "name": "RTE"
-      },
-      "companies": [
-        "Tesla",
-        "xAI"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Rok proměny: Tesla mění směr k robotaxi a domácí výrobě čipů",
-      "description": "Tesla vstupuje do roku, který manažeři označují za klíčový bod obratu. Společnost posouvá vpřed nasazení robotaxi a technologii Full Self-Driving (FSD), přičemž řeší potenciální úzká hrdla v globálních dodávkách polovodičů.",
-      "slug": "a-year-of-transformation-tesla-pivots-to-robotaxis",
-      "publishedAt": "2026-01-29T07:10:59+00:00",
-      "date": "2026-01-29 07:10:59",
-      "importance": 4,
-      "category": "elektromobilita",
-      "urlToImage": "https://img.digitimes.com/newsshow/20260129vl213_files/2_b.jpg",
-      "url": "/tech-news/2026-01-29/a-year-of-transformation-tesla-pivots-to-robotaxis/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
-      },
-      "companies": [
-        "Tesla"
-      ],
-      "people": []
-    },
-    {
-      "title": "Tesla překonala odhady zisků, Musk převádí firmu z aut na roboty",
-      "description": "Akcie Tesly mírně rostly v obchodování po uzavření trhu poté, co firma překonala očekávání ve čtvrtletních výsledcích. Generální ředitel Elon Musk oznámil zásadní změny, které posunou identitu Tesly směrem k robotice a umělé inteligenci.",
-      "slug": "tesla-earnings-top-estimates-as-musk-pivots-compan",
-      "publishedAt": "2026-01-29T00:49:28+00:00",
-      "date": "2026-01-29 00:49:28",
-      "importance": 5,
-      "category": "robotika",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/teslaoptimus3.png",
-      "url": "/tech-news/2026-01-29/tesla-earnings-top-estimates-as-musk-pivots-compan/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Tesla"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Yotta zvažuje listink v Indii, aby využila vlnu AI technologií",
-      "description": "Yotta Data Services plánuje listink na indické burze v letech 2026-27 a hledá investory pro pre-IPO kolo. Generální ředitel Sunil Gupta uvedl, že společnost jedná s vysokopříjmovými jednotlivci, rodinnými úřady a fondy, přičemž očekává získání více než 4000 crore rupií.",
-      "slug": "yotta-eyeing-india-listing-to-ride-the-ai-tech-wav",
-      "publishedAt": "2026-01-29T00:31:00+00:00",
-      "date": "2026-01-29 00:31:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-9922,resizemode-75,msid-127718850/tech/startups/yotta-data-services-eyes-2027-listing-says-ceo.jpg",
-      "url": "/tech-news/2026-01-29/yotta-eyeing-india-listing-to-ride-the-ai-tech-wav/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Yotta"
-      ],
-      "people": [
-        "Sunil Gupta"
-      ]
-    },
-    {
-      "title": "Zisky Tesly klesly loni o 46 procenta, ztratila postavení největšího prodejce elektromobilů",
-      "description": "Společnost oznámila ukončení výroby dražších modelů Model S a Model X a přenáší tyto výrobní kapacity na výrobu humanoidních robotů Optimus.",
-      "slug": "tesla-profits-slumped-46-last-year-as-it-lost-its-",
-      "publishedAt": "2026-01-29T00:01:39+00:00",
-      "date": "2026-01-29 00:01:39",
-      "importance": 4,
-      "category": "elektromobilita",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5616x3159+0+293/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F07%2F73%2F4bfced234220bae0205c4bd172fc%2Fap23207689478887.jpg",
-      "url": "/tech-news/2026-01-29/tesla-profits-slumped-46-last-year-as-it-lost-its/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "NPR"
-      },
-      "companies": [
-        "Tesla"
-      ],
-      "people": []
-    },
-    {
-      "title": "Více než 3 400 pracovních míst a cílená podpora místních komunit k řešení nákladů na životní minimum: Lanarkshire jmenována nejnovější AI Growth Zone",
-      "description": "Skotsko otevře novou AI Growth Zone v Lanarkshire, která podpoří přes 3 400 pracovních míst a přispěje k ekonomickému růstu v rámci Moderní průmyslové strategie Velké Británie.",
-      "slug": "more-than-3400-jobs-and-targeted-support-for-local",
-      "publishedAt": "2026-01-29T00:01:11+00:00",
-      "date": "2026-01-29 00:01:11",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
-      "url": "/tech-news/2026-01-29/more-than-3400-jobs-and-targeted-support-for-local/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Www.gov.uk"
-      },
-      "companies": [],
-      "people": []
     }
   ]
 }
