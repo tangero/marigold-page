@@ -1,7 +1,107 @@
 {
-  "generated": "2026-02-05T05:37:16.780078+00:00",
-  "count": 161,
+  "generated": "2026-02-05T09:04:06.752188+00:00",
+  "count": 165,
   "articles": [
+    {
+      "title": "Proč nová pracovní sada AI od Anthropic způsobila pokles technologických akcií v USA a Indii",
+      "description": "Oznámení nové sady nástrojů pro automatizaci práce od Anthropic vyvolalo obavy z nahrazení tradičních softwarových firem umělou inteligencí a vedlo k prudkému poklesu akcií technologických společností v USA i Indii.",
+      "slug": "why-a-new-anthropic-ai-workplace-suite-triggered-a",
+      "publishedAt": "2026-02-04T07:48:13+00:00",
+      "date": "2026-02-04 07:48:13",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://images.indianexpress.com/2026/02/wallstreet.jpg",
+      "url": "/tech-news/2026-02-04/why-a-new-anthropic-ai-workplace-suite-triggered-a/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": []
+    },
+    {
+      "title": "Prodeje AI čipů H200 od Nvidia do Číny zadrženy kvůli bezpečnostní kontrole USA, hlásí FT",
+      "description": "Prodeje AI čipu H200 od Nvidia do Číny zůstávají v nejistotě téměř dva měsíce po schválení exportu, protože čekají na finální bezpečnostní posouzení ze strany USA. Čínští zákazníci nepodávají objednávky, dokud nebude jasné, zda získají licence a jaké podmínky budou platit.",
+      "slug": "nvidia-ai-chip-sales-to-china-stalled-by-us-securi",
+      "publishedAt": "2026-02-04T07:36:36+00:00",
+      "date": "2026-02-04 07:36:36",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108261167-1770188704196-gettyimages-2258106869-kokovlis-notitle260128_npA8a.jpeg?v=1770188848&w=1920&h=1080",
+      "url": "/tech-news/2026-02-04/nvidia-ai-chip-sales-to-china-stalled-by-us-securi/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Šok z AI Anthropic poslal akcie IT firem do nejhoršího dne od března 2020",
+      "description": "Indický index Nifty IT klesl až o 6 %, což představuje nejhorší den od pádu v březnu 2020 způsobeného covidem. Příčinou byl oznámení americké AI firmy Anthropic o 11 nových pluginech pro platformu Claude Cowork, které automatizují širokou škálu profesionálních úkolů a vyvolaly obavy o budoucnost tradičních IT služeb.",
+      "slug": "anthropic-ai-shock-sends-it-stocks-to-worst-day-si",
+      "publishedAt": "2026-02-04T07:36:21+00:00",
+      "date": "2026-02-04 07:36:21",
+      "importance": 4,
+      "category": "it akcie",
+      "urlToImage": "https://img.etimg.com/thumb/msid-127903339,width-1200,height-630,imgsize-62534,overlay-etmarkets/articleshow.jpg",
+      "url": "/tech-news/2026-02-04/anthropic-ai-shock-sends-it-stocks-to-worst-day-si/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": []
+    },
+    {
+      "title": "Vysvětleno: Nástroj Anthropic, který tlačí dolů akcie indických IT firem",
+      "description": "Společnost Anthropic vedená Dariem Amodeiem uvedla v lednu platformu Claude Cowork. Nástroj zaměřený na vývojáře Claude Code už minulý měsíc zatížil softwarové akcie, ale právní plugin Legal Automation z 3. února vyvolal novou vlnu prodejů.",
+      "slug": "explained-the-anthropic-tool-hammering-indian-it-s",
+      "publishedAt": "2026-02-04T07:35:02+00:00",
+      "date": "2026-02-04 07:35:02",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-62534,resizemode-75,msid-127903319/tech/technology/explained-the-anthropic-tool-hammering-indian-it-stocks.jpg",
+      "url": "/tech-news/2026-02-04/explained-the-anthropic-tool-hammering-indian-it-s/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": [
+        "Dario Amodei"
+      ]
+    },
+    {
+      "title": "Oakley Meta přináší „Athletic Intelligence“ na jeviště Super Bowlu",
+      "description": "Hvězdami obsazená dynamická kampaň představuje brýle Oakley Meta Performance AI Glasses jako nový konkurenční nástroj pro sportovce. Oakley Meta debutuje na Super Bowlu spotem od agentury Mother Los Angeles, který zdůrazňuje real-time asistenci díky Meta AI.",
+      "slug": "oakley-meta-brings-athletic-intelligence-to-the-su",
+      "publishedAt": "2026-02-04T07:00:00+00:00",
+      "date": "2026-02-04 07:00:00",
+      "importance": 4,
+      "category": "ai brýle",
+      "urlToImage": "https://www.creativeboom.com/upload/articles/4a/4ab733ac028c476529a76811d825a6f66f4c3fbf_800.jpg",
+      "url": "/tech-news/2026-02-04/oakley-meta-brings-athletic-intelligence-to-the-su/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Creative Boom"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Vůdčí postavení OpenAI se zužuje s rostoucí konkurencí v AI",
       "description": "Soupeři OpenAI snižují náskok ChatGPT. Podle zprávy klesl tržní podíl největšího chatbota z 69,1 % na 45,3 % mezi lednem 2025 a lednem 2026 u denních uživatelů mobilní aplikace v USA. Gemini vzrostl z 14,7 % na 25,1 % a Grok z 1,6 % na 15,2 %.",
@@ -102,26 +202,6 @@
         "LTIMindtree",
         "Persistent Systems",
         "HCLTech"
-      ],
-      "people": []
-    },
-    {
-      "title": "Prodeje AI čipů Nvidia do Číny pozastaveny americkou bezpečnostní kontrolou: Zpráva",
-      "description": "Prodeje AI čipů H200 od Nvidia do Číny zůstávají v nejistotě kvůli probíhající kontrole národní bezpečnosti USA. Čínští zákazníci nepodávají objednávky, dokud nebude jasné, zda získají exportní licence a jaké podmínky budou splněny.",
-      "slug": "nvidia-ai-chip-sales-to-china-stalled-by-us-securi",
-      "publishedAt": "2026-02-04T03:49:50+00:00",
-      "date": "2026-02-04 03:49:50",
-      "importance": 4,
-      "category": "ai čipy",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-63438,resizemode-75,msid-127899264/tech/technology/nvidia-ai-chip-sales-to-china-stalled-by-us-security-review-report.jpg",
-      "url": "/tech-news/2026-02-04/nvidia-ai-chip-sales-to-china-stalled-by-us-securi/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Nvidia"
       ],
       "people": []
     },
