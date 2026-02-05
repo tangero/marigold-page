@@ -1,7 +1,31 @@
 {
-  "generated": "2026-02-05T17:13:33.371322+00:00",
-  "count": 180,
+  "generated": "2026-02-05T20:50:04.230663+00:00",
+  "count": 181,
   "articles": [
+    {
+      "title": "Generální ředitel Bondu Doron Kempel vystoupí dnes na Fox Business v pořadu The Claman Countdown ve 15:15 východního času",
+      "description": "Společnost Bond (NASDAQ: OBAI), tvůrce první platformy pro preventivní osobní bezpečnost poháněné AI, oznámila účast svého zakladatele a CEO Dorona Kempela v živém vysílání na Fox Business. Firma slaví přímé listování na Nasdaq a podporu přes 1,4 milionu bezpečnostních požadavků.",
+      "slug": "bond-ceo-doron-kempel-to-appear-on-fox-business-du",
+      "publishedAt": "2026-02-04T19:35:00+00:00",
+      "date": "2026-02-04 19:35:00",
+      "importance": 4,
+      "category": "ai bezpečnost",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/09e10d04-a9c0-42fa-af97-375c2bbc7b78",
+      "url": "/tech-news/2026-02-04/bond-ceo-doron-kempel-to-appear-on-fox-business-du/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [
+        "Bond",
+        "Tg-17",
+        "Inc"
+      ],
+      "people": [
+        "Doron Kempel"
+      ]
+    },
     {
       "title": "ElevenLabs získává 500 milionů dolarů na rozšíření platformy pro AI hlasovou technologii",
       "description": "Společnost ElevenLabs uzavřela kolo financování série D v hodnotě 500 milionů dolarů, díky čemuž její valuace dosáhla přibližně 11 miliard dolarů. Kolo vedla Sequoia Capital s účastí Andreessen Horowitz a Iconiq Capital.",
