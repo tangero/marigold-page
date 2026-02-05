@@ -1,7 +1,177 @@
 {
-  "generated": "2026-02-05T13:55:02.455973+00:00",
-  "count": 172,
+  "generated": "2026-02-05T17:13:33.371322+00:00",
+  "count": 180,
   "articles": [
+    {
+      "title": "ElevenLabs získává 500 milionů dolarů na rozšíření platformy pro AI hlasovou technologii",
+      "description": "Společnost ElevenLabs uzavřela kolo financování série D v hodnotě 500 milionů dolarů, díky čemuž její valuace dosáhla přibližně 11 miliard dolarů. Kolo vedla Sequoia Capital s účastí Andreessen Horowitz a Iconiq Capital.",
+      "slug": "elevenlabs-lands-500-million-to-expand-ai-voice-pl",
+      "publishedAt": "2026-02-04T16:31:53+00:00",
+      "date": "2026-02-04 16:31:53",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/02/ElevenLabs-funding-Voice-AI.jpeg",
+      "url": "/tech-news/2026-02-04/elevenlabs-lands-500-million-to-expand-ai-voice-pl/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [
+        "ElevenLabs"
+      ],
+      "people": []
+    },
+    {
+      "title": "Francouzské úřady prohledaly kanceláře platformy X kvůli vyšetřování explicitních deepfakes",
+      "description": "Francouzští úředníci prohledali pařížské kanceláře sociální sítě X kvůli podezření na šíření materiálu s dětským sexuálním zneužíváním a explicitních deepfakes bez souhlasu. Vyšetřování se rozšiřuje na AI produkty platformy a zahrnuje výslechy Elona Muska a bývalé šéfky Lindy Yaccarino.",
+      "slug": "french-x-offices-raided-as-authorities-investigate",
+      "publishedAt": "2026-02-04T16:26:15+00:00",
+      "date": "2026-02-04 16:26:15",
+      "importance": 4,
+      "category": "deepfakes",
+      "urlToImage": "https://petapixel.com/assets/uploads/2026/01/X-Twitter-Elon-Musk.jpg",
+      "url": "/tech-news/2026-02-04/french-x-offices-raided-as-authorities-investigate/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "PetaPixel"
+      },
+      "companies": [
+        "Twitter"
+      ],
+      "people": []
+    },
+    {
+      "title": "Positron AI získává 230 milionů dolarů při valuaci přes 1 miliardu na vývoj energeticky úsporného hardware pro akceleraci AI",
+      "description": "Společnost Positron AI, která vyvíjí vlastní křemík a hardware pro energeticky úsporné zpracování inference umělé inteligence, oznámila přediměřenou rundu Series B ve výši 230 milionů dolarů při valuaci jedné miliardy dolarů. Runda byla spoluleadována investory Arena Private Wealth, Jump Trading a Unless, s účastí Qatar Investment Authority, Arm a dalších.",
+      "slug": "positron-ai-raises-230m-at-over-1b-valuation-to-bu",
+      "publishedAt": "2026-02-04T16:25:38+00:00",
+      "date": "2026-02-04 16:25:38",
+      "importance": 4,
+      "category": "ai hardware",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/positron-asimov-image.png",
+      "url": "/tech-news/2026-02-04/positron-ai-raises-230m-at-over-1b-valuation-to-bu/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Positron AI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Rival společnosti Nvidia, Cerebras Systems, získal valuaci 23,1 miliardy dolarů v nejnovějším financování",
+      "description": "Výrobce čipů pro umělou inteligenci Cerebras Systems získal 1 miliardu dolarů v pokročilém kole financování, které ho ohodnotilo na 23 miliard dolarů. Valuace se téměř ztrojnásobila za necelých pět měsíců od předchozího kola vedeného fondem Tiger Global.",
+      "slug": "nvidia-rival-cerebras-systems-valued-at-231-billio",
+      "publishedAt": "2026-02-04T16:08:32+00:00",
+      "date": "2026-02-04 16:08:32",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--VD9GSl9j--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-02-04T160945Z_2_LYNXMPEM13147_RTROPTP_3_CEREBRAS-SUPERCOMPUTER.JPG?itok=bn5HVvbj",
+      "url": "/tech-news/2026-02-04/nvidia-rival-cerebras-systems-valued-at-231-billio/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNA"
+      },
+      "companies": [
+        "Nvidia",
+        "Cerebras Systems",
+        "Tiger Global"
+      ],
+      "people": []
+    },
+    {
+      "title": "Výrobce AI čipů Cerebras Systems získal 1 miliardu dolarů v pokročilém kole financování",
+      "description": "Společnost Cerebras Systems, konkurent Nvidie v oblasti AI čipů, získala 1 miliardu dolarů v investici, která ji ohodnotila na 23 miliard dolarů. Kolo vedl fond Tiger Global, investoři zahrnují Benchmark, AMD, Coatue a fond 1789 Capital podporovaný Donaldem Trumpem mladším.",
+      "slug": "ai-chip-maker-cerebras-systems-raises-1-billion-in",
+      "publishedAt": "2026-02-04T16:08:32+00:00",
+      "date": "2026-02-04 16:08:32",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--VD9GSl9j--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-02-04T160945Z_2_LYNXMPEM13147_RTROPTP_3_CEREBRAS-SUPERCOMPUTER.JPG?itok=bn5HVvbj",
+      "url": "/tech-news/2026-02-04/ai-chip-maker-cerebras-systems-raises-1-billion-in/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNA"
+      },
+      "companies": [
+        "Cerebras Systems",
+        "Tiger Global",
+        "Benchmark",
+        "AMD",
+        "Coatue"
+      ],
+      "people": [
+        "Donald Trump Jr"
+      ]
+    },
+    {
+      "title": "AI startup ElevenLabs podporovaný Nvidia dosáhl valuace 11 miliard dolarů v novém kole financování, připravuje se na IPO",
+      "description": "Globální investice do AI startupů dosáhly v roce 2025 rekordních hodnot, evropské firmy získaly podle Dealroom rekordních 21,6 miliardy dolarů.",
+      "slug": "nvidia-backed-ai-voice-startup-elevenlabs-hits-11-",
+      "publishedAt": "2026-02-04T16:06:03+00:00",
+      "date": "2026-02-04 16:06:03",
+      "importance": 4,
+      "category": "ai startupy",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108166937-1751460466152-gettyimages-2210000239-TFSPI_16042025-6546.jpeg?v=1770218820&w=1920&h=1080",
+      "url": "/tech-news/2026-02-04/nvidia-backed-ai-voice-startup-elevenlabs-hits-11/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [
+        "Nvidia",
+        "ElevenLabs",
+        "Dealroom"
+      ],
+      "people": []
+    },
+    {
+      "title": "„Cítil jsem se trochu zbytečný a bylo to smutné“: Sam Altman se cítí zastaralý při používání vlastních AI nástrojů – a není v tom sám",
+      "description": "„Jsem si jistý, že vymyslíme mnohem lepší a zajímavější způsoby, jak trávit čas,“ řekl šéf OpenAI. „Ale cítím nostalgii vůči současnosti.“",
+      "slug": "i-felt-a-little-useless-and-it-was-sad-sam-altman-",
+      "publishedAt": "2026-02-04T16:00:52+00:00",
+      "date": "2026-02-04 16:00:52",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2225599223-e1770219836206.jpg?resize=1200,600",
+      "url": "/tech-news/2026-02-04/i-felt-a-little-useless-and-it-was-sad-sam-altman/",
+      "source": {
+        "emoji": "📰",
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": [
+        "Sam Altman"
+      ]
+    },
+    {
+      "title": "Obrana proti kyberútokům poháněným AI: Proč obranné týmy potřebují nové dovednosti",
+      "description": "Kyberútoky poháněné AI překonávají tradiční obrany. Článek rozebírá čtyři klíčové kategorie hrozeb a nutné nové dovednosti pro obranné týmy (blue teamy).",
+      "slug": "defending-against-ai-powered-cyber-attacks-why-you",
+      "publishedAt": "2026-02-04T16:00:21+00:00",
+      "date": "2026-02-04 16:00:21",
+      "importance": 4,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://www.offsec.com/app/uploads/2026/02/LLM-Red-Teaming-blog-post.png",
+      "url": "/tech-news/2026-02-04/defending-against-ai-powered-cyber-attacks-why-you/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Offsec.com"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Uber nesplnil výhled zisků a jmenuje nového finančního ředitele pro budoucnost robotaxi",
       "description": "Balaji Krishnamurthy, viceprezident pro strategické finance a vztahy s investory v Uberu již více než šest let, nahradí současného finančního ředitele Prashantha Mahendru-Rajahe, který odchází po necelých třech letech. Tato změna přichází současně se slabším výhledem na zisky a zdůrazňuje zaměření na autonomní vozidla.",
