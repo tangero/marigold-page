@@ -1,7 +1,169 @@
 {
-  "generated": "2026-02-04T20:47:42.313855+00:00",
-  "count": 175,
+  "generated": "2026-02-05T01:34:36.526907+00:00",
+  "count": 183,
   "articles": [
+    {
+      "title": "Skyryse získala přes 300 milionů dolarů na systém řízení letu s prvky umělé inteligence",
+      "description": "Společnost Skyryse Inc., vývojář systému řízení letu s prvky umělé inteligence, uzavřela investiční kolo Series C v hodnotě více než 300 milionů dolarů. Kolo vedly Autopilot Ventures a vracející se investor Fidelity Management, společnost nyní hodnotí na 1,15 miliardy dolarů.",
+      "slug": "skyryse-raises-300m-for-its-ai-flight-control-syst",
+      "publishedAt": "2026-02-04T01:04:40+00:00",
+      "date": "2026-02-04 01:04:40",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Skyryse.png",
+      "url": "/tech-news/2026-02-04/skyryse-raises-300m-for-its-ai-flight-control-syst/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Skyryse Inc",
+        "Autopilot Ventures"
+      ],
+      "people": []
+    },
+    {
+      "title": "SpaceX přebírá xAI: Klíčové fakta o dohodě Elona Muska v oblasti AI a vesmíru",
+      "description": "Fúze posiluje Muskovu strategii datových center a umělé inteligence v době rostoucí konkurence s firmami jako Google, Meta, OpenAI a Anthropic podporovaný Amazonem.",
+      "slug": "spacex-acquires-xai-key-facts-about-elon-musks-ai-",
+      "publishedAt": "2026-02-04T00:49:23+00:00",
+      "date": "2026-02-04 00:49:23",
+      "importance": 5,
+      "category": "ai",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/c58fy4/article70590023.ece/alternates/LANDSCAPE_1200/2026-02-02T213022Z_1456700214_RC2PVCAPFSUH_RTRMADP_3_SPACEX-M-A-XAI.JPG",
+      "url": "/tech-news/2026-02-04/spacex-acquires-xai-key-facts-about-elon-musks-ai/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "companies": [
+        "SpaceX",
+        "xAI",
+        "Google",
+        "Meta",
+        "OpenAI"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Unicorn India Ventures uzavřel třetí fond na 1 200 crore rupií, investuje do polovodičů, vesmírných technologií a infrastruktury pro AI",
+      "description": "Venture kapitálová firma Unicorn India Ventures uzavřela svůj třetí fond na 1 200 crore rupií (přibližně 144 milionů USD), překonala cíl 1 000 crore. Fond cílí na polovodiče, vesmírné technologie a infrastrukturu pro AI, s plánem 20 investic po 10–15 crore rupií.",
+      "slug": "unicorn-india-ventures-closes-third-fund-at-rs-120",
+      "publishedAt": "2026-02-04T00:31:00+00:00",
+      "date": "2026-02-04 00:31:00",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-34774,resizemode-75,msid-127890609/tech/funding/unicorn-india-ventures-closes-third-fund-at-rs-1200-crore-to-invest-in-semicon-spacetech-and-ai-infra.jpg",
+      "url": "/tech-news/2026-02-04/unicorn-india-ventures-closes-third-fund-at-rs-120/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "ChrysCapital získává významný menšinový podíl v Nash Industries z Bangaluru",
+      "description": "ChrysCapital investoval do Nash Industries, dodavatele přesných výrobních řešení z Bangaluru, aby podpořil jeho expanzi do globálních trhů. Společnost plánuje využít nové obchodní dohody mezi USA a Indií oraz EU, přecházet z domácího lídra na mezinárodního hráče v sektorech jako AI a čistá energie.",
+      "slug": "chryscapital-acquires-minority-stake-in-bengaluru-",
+      "publishedAt": "2026-02-04T00:30:30+00:00",
+      "date": "2026-02-04 00:30:30",
+      "importance": 4,
+      "category": "automobilový průmysl",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2026/02/03/1600x900/logo/2-0-1411322937-iStock-1060489592-0_1679755387573_1770129878363.jpg",
+      "url": "/tech-news/2026-02-04/chryscapital-acquires-minority-stake-in-bengaluru/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Livemint"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Sam Altman zkoumá novou ekonomiku pro vědecké objevy poháněné AI",
+      "description": "Sam Altman na summitu Cisco o AI načrtl budoucnost, v níž OpenAI překročí pouhé poskytování přístupu k modelům a začne selektivně podporovat výsledky, které tyto modely pomohou produkovat. Mluvil s prezidentem a šéfem produktů Cisco Jeetu Patetem o investicích do náročných vědeckých projektů.",
+      "slug": "sam-altman-explores-new-economics-for-ai-driven-sc",
+      "publishedAt": "2026-02-04T00:13:54+00:00",
+      "date": "2026-02-04 00:13:54",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2025/11/Sam-Altman-OpenAI-6.jpg",
+      "url": "/tech-news/2026-02-04/sam-altman-explores-new-economics-for-ai-driven-sc/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [
+        "Cisco",
+        "OpenAI"
+      ],
+      "people": [
+        "Sam Altman"
+      ]
+    },
+    {
+      "title": "Sam Altman: Plně AI společnosti jsou možné, ale firmy nejsou připravené",
+      "description": "Sam Altman, šéf OpenAI, popisuje AI jako sílu přetvářející fyzickou infrastrukturu, urychlující vědecké objevy a pohánějící ekonomický růst. Podle něj je horní hranice vývoje plně AI společnosti, kde AI systémy aktivně řídí práci, avšak většina podniků na tento posun není strukturalně připravena.",
+      "slug": "sam-altman-says-full-ai-companies-are-possible-but",
+      "publishedAt": "2026-02-04T00:02:29+00:00",
+      "date": "2026-02-04 00:02:29",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/02/AI-automation-Sam-Altman.jpeg",
+      "url": "/tech-news/2026-02-04/sam-altman-says-full-ai-companies-are-possible-but/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [],
+      "people": [
+        "Sam Altman"
+      ]
+    },
+    {
+      "title": "Vláda otevře cestu pokročilé jaderné energie pro růst ekonomiky",
+      "description": "Vláda zveřejňuje Rámec pro pokročilou jadernou energii, aby spustila průkopnické jaderné technologie. Cílem je napájet AI boom čistou energií a vytvářet pracovní místa.",
+      "slug": "government-to-unlock-advanced-nuclear-to-grow-econ",
+      "publishedAt": "2026-02-04T00:00:04+00:00",
+      "date": "2026-02-04 00:00:04",
+      "importance": 4,
+      "category": "jaderná energie",
+      "urlToImage": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      "url": "/tech-news/2026-02-04/government-to-unlock-advanced-nuclear-to-grow-econ/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Www.gov.uk"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Injekční hydrogelový bioelektrický stimulátor pro bezdrátovou hlubokou mozkovou neuromodulaci",
+      "description": "Hluboká mozková stimulace je účinná při léčbě neurologických poruch, ale vyžaduje invazivní implantáty. Vědci vyvinuli injekční vodivý hydrogel, který se formuje přímo v těle a umožňuje bezdrátovou neuromodulaci prostřednictvím kapacitního spojení, s prokázaným terapeutickým efektem v modelu Parkinsonovy choroby u krys.",
+      "slug": "injectable-hydrogel-bioelectrostimulator-for-wirel",
+      "publishedAt": "2026-02-04T00:00:00+00:00",
+      "date": "2026-02-04 00:00:00",
+      "importance": 4,
+      "category": "bioelektronika",
+      "urlToImage": null,
+      "url": "/tech-news/2026-02-04/injectable-hydrogel-bioelectrostimulator-for-wirel/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Nature.com"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Apple přidává agenty od Anthropic a OpenAI do nástroje Xcode",
       "description": "Apple zavádí agentické programování do Xcode, svého hlavního nástroje pro vývoj aplikací. Tento krok umožňuje integraci agentů jako Claude Agent od Anthropic a Codex od OpenAI pro autonomní zpracování složitých úkolů.",
