@@ -1,7 +1,122 @@
 {
-  "generated": "2026-02-06T05:39:56.064449+00:00",
-  "count": 147,
+  "generated": "2026-02-06T09:02:33.616615+00:00",
+  "count": 153,
   "articles": [
+    {
+      "title": "Umělá inteligence: Prodej akcií v hodnotě 1 bilionu dolarů na Wall Street a obavy z narušení obchodních modelů",
+      "description": "Vlna prodejů signalizuje rostoucí obavy, že umělá inteligence mění základy technologického průmyslu. Investoři se obávají, že AI nahradí tradiční obchodní modely mnoha firem.",
+      "slug": "artificial-intelligence-the-1-trillion-sell-off-on",
+      "publishedAt": "2026-02-05T07:59:09+00:00",
+      "date": "2026-02-05 07:59:09",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://en.protothema.gr/wp-content/uploads/2026/02/sell-off.webp",
+      "url": "/tech-news/2026-02-05/artificial-intelligence-the-1-trillion-sell-off-on/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Protothema.gr"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "GreenboneOS: Zpráva o hrozbách za leden 2026: Bouřlivý začátek",
+      "description": "Rok 2026 začal výrazným nárůstem kritických zranitelností v široce nasazeném softwaru. Podle zprávy World Economic Forum 58 % manažerů vidí zvýšené riziko jejich exploitace. Doporučuje se pravidelné skenování infrastruktur pro detekci a prioritizaci oprav.",
+      "slug": "greenboneos-january-2026-threat-report-off-to-a-ra",
+      "publishedAt": "2026-02-05T07:04:27+00:00",
+      "date": "2026-02-05 07:04:27",
+      "importance": 4,
+      "category": "kybernetika",
+      "urlToImage": "https://www.greenbone.net/wp-content/uploads/evolving-cyber-risk-concerns.png",
+      "url": "/tech-news/2026-02-05/greenboneos-january-2026-threat-report-off-to-a-ra/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Greenbone.net"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Telna spouští růstový fond pro travel eSIM v hodnotě 100 milionů dolarů",
+      "description": "Telna, platforma pro aktivaci eSIM v oblasti cestování, spustila první specializovaný investiční fond zaměřený výhradně na digitální eSIM značky a aplikace. Fond v objemu 100 milionů dolarů má urychlit globální adopci travel eSIM a podpořit novou generaci MVNO a super aplikací.",
+      "slug": "telna-launches-100m-travel-esim-growth-fund",
+      "publishedAt": "2026-02-05T06:32:00+00:00",
+      "date": "2026-02-05 06:32:00",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/HeroImages/eSIM-tech-phone-digital-yuriygolub-adobe.jpg",
+      "url": "/tech-news/2026-02-05/telna-launches-100m-travel-esim-growth-fund/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "ComputerWeekly.com"
+      },
+      "companies": [
+        "Telna"
+      ],
+      "people": []
+    },
+    {
+      "title": "Američtí zákonodárci obviňují Nvidia z podpory čínské armády",
+      "description": "Američtí zákonodárci obviňují Nvidia z pomoci čínské Lidové osvobozenecké armádě (PLA), protože čipy H200 prodané firmě DeepSeek AI byly použity k vývoji modelu umělé inteligence pro vojenské účely. Bipartitní výbor na Čínu požaduje přísné exportní kontroly, včetně úplného zastavení prodejů těchto čipů.",
+      "slug": "us-lawmakers-accuse-nvidia-of-aiding-chinas-milita",
+      "publishedAt": "2026-02-05T06:00:00+00:00",
+      "date": "2026-02-05 06:00:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/02/Nvidia-Logo-Building.jpg",
+      "url": "/tech-news/2026-02-05/us-lawmakers-accuse-nvidia-of-aiding-chinas-milita/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "companies": [
+        "Nvidia",
+        "DeepSeek AI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Pentagon urychluje změnu v dronové válce 1,1miliardovou investicí do programu „Drone Dominance“",
+      "description": "Ministerstvo obrany USA alokuje 1,1 miliardy dolarů na vývoj jednorázových útočných dronů, s plánem nasadit stovky tisíc kusů do roku 2027. Investice reaguje na úspěchy dronů v ukrajinské válce a vojenské pokroky Číny, přecházejíc od drahých zbraní k levným masově vyráběným systémům.",
+      "slug": "pentagon-accelerates-drone-warfare-revolution-with",
+      "publishedAt": "2026-02-05T06:00:00+00:00",
+      "date": "2026-02-05 06:00:00",
+      "importance": 4,
+      "category": "vojenské drony",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/02/Military-War-Soldier-Drone.jpg",
+      "url": "/tech-news/2026-02-05/pentagon-accelerates-drone-warfare-revolution-with/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Průlom čínské CATL v bateriích 5C: Konec éry spalovacích motorů",
+      "description": "Čínská společnost CATL představila baterii s nabíjecím výkonem 5C, která umožňuje plné nabití za minut 10–15. Tento pokrok řeší klíčové limity elektromobilů a zvyšuje jejich konkurenceschopnost oproti vozům se spalovacím motorem.",
+      "slug": "chinaâs-catl-5c-battery-breakthrough-the-final-nai",
+      "publishedAt": "2026-02-05T06:00:00+00:00",
+      "date": "2026-02-05 06:00:00",
+      "importance": 5,
+      "category": "elektromobilita",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/02/catl-5c-battery-fast-charging-technology-self-healing-electrolyte-187-original.jpg",
+      "url": "/tech-news/2026-02-05/chinaâs-catl-5c-battery-breakthrough-the-final-nai/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "companies": [
+        "CATL"
+      ],
+      "people": []
+    },
     {
       "title": "Marťanský rover nemůže uniknout AI ani na úplně jiné planetě",
       "description": "Ovládání roveru na dálku v reálném čase není možné kvůli obrovské vzdálenosti mezi planetami.",
