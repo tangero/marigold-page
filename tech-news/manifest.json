@@ -1,7 +1,67 @@
 {
-  "generated": "2026-02-06T09:02:33.616615+00:00",
-  "count": 153,
+  "generated": "2026-02-06T13:01:16.755353+00:00",
+  "count": 156,
   "articles": [
+    {
+      "title": "Trilionový propad technologických akcií zachvátil všechny tituly v cestě umělé inteligence",
+      "description": "Akcie softwareových firem prudce klesly, hodnota těch sledovaných v ETF iShares klesla téměř o bilion dolarů za posledních sedm dní.",
+      "slug": "trillion-dollar-tech-wipeout-ensnares-all-stocks-i",
+      "publishedAt": "2026-02-05T12:36:53+00:00",
+      "date": "2026-02-05 12:36:53",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2259052233_c28be3-e1770294952515.jpg?resize=1200,600",
+      "url": "/tech-news/2026-02-05/trillion-dollar-tech-wipeout-ensnares-all-stocks-i/",
+      "source": {
+        "emoji": "📰",
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "CrowdStrike (CRWD) přebírá SGNL za 740 milionů dolarů pro posílení bezpečnosti identit proti hrozbám poháněným AI",
+      "description": "CrowdStrike Holdings Inc. (NASDAQ: CRWD) oznámil 9. ledna akvizici startupu SGNL za 740 milionů dolarů, aby posílil svou nabídku v oblasti bezpečnosti identit vůči hrozbám z autonomních AI agentů a strojových identit. Technologie SGNL se integruje do platformy Falcon a nahrazuje statické modely přístupu dynamickými, kontextově závislými autorizacemi.",
+      "slug": "crowdstrike-crwd-acquires-sgnl-for-740m-to-support",
+      "publishedAt": "2026-02-05T12:20:15+00:00",
+      "date": "2026-02-05 12:20:15",
+      "importance": 4,
+      "category": "kybernetika",
+      "urlToImage": "https://s.yimg.com/os/en/insidermonkey.com/7d093cb11f4eccb8fbefc5547c5e125a",
+      "url": "/tech-news/2026-02-05/crowdstrike-crwd-acquires-sgnl-for-740m-to-support/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "CrowdStrike",
+        "SGNL"
+      ],
+      "people": []
+    },
+    {
+      "title": "Tower Semiconductor spolupracuje s NVIDIA na pokročilé AI infrastruktuře s 1.6T optickými moduly pro datová centra",
+      "description": "Tower Semiconductor rozšiřuje nasazení AI infrastruktury pomocí své platformy Silicon Photonics pro vysokorychlostní 1.6T optické moduly navržené podle síťových protokolů NVIDIA. Tato technologie zdvojnásobuje datovou rychlost oproti předchozím řešením a zvyšuje propustnost optického připojení v datech centrech.",
+      "slug": "tower-semiconductor-teams-with-nvidia-to-advance-a",
+      "publishedAt": "2026-02-05T11:30:00+00:00",
+      "date": "2026-02-05 11:30:00",
+      "importance": 4,
+      "category": "ai infrastruktura",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/4d3c7ba3-3a46-4e45-8b46-0578b3cbfef2",
+      "url": "/tech-news/2026-02-05/tower-semiconductor-teams-with-nvidia-to-advance-a/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [
+        "Tower Semiconductor",
+        "NVIDIA"
+      ],
+      "people": []
+    },
     {
       "title": "Umělá inteligence: Prodej akcií v hodnotě 1 bilionu dolarů na Wall Street a obavy z narušení obchodních modelů",
       "description": "Vlna prodejů signalizuje rostoucí obavy, že umělá inteligence mění základy technologického průmyslu. Investoři se obávají, že AI nahradí tradiční obchodní modely mnoha firem.",
