@@ -1,7 +1,151 @@
 {
-  "generated": "2026-02-06T01:32:36.896982+00:00",
-  "count": 189,
+  "generated": "2026-02-06T05:39:56.064449+00:00",
+  "count": 147,
   "articles": [
+    {
+      "title": "Marťanský rover nemůže uniknout AI ani na úplně jiné planetě",
+      "description": "Ovládání roveru na dálku v reálném čase není možné kvůli obrovské vzdálenosti mezi planetami.",
+      "slug": "mars-rover-cant-escape-ai-even-on-a-whole-separate",
+      "publishedAt": "2026-02-05T04:45:00+00:00",
+      "date": "2026-02-05 04:45:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.jalopnik.com/img/gallery/mars-rover-is-on-a-whole-separate-planet-and-still-cant-escape-ai/l-intro-1770144595.jpg",
+      "url": "/tech-news/2026-02-05/mars-rover-cant-escape-ai-even-on-a-whole-separate/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Jalopnik"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Čtvrtletní výsledky Googlu ukazují, jak se internetový gigant posiluje v éře umělé inteligence",
+      "description": "Čísla zveřejněná ve středu označují třetí po sobě jdoucí čtvrtletí růstu digitální reklamy Googlu o více než 10 % oproti předchozímu roku. Divize pohánějící datová centra pro služby AI vykázala růst prodejů o více než 30 %.",
+      "slug": "googles-quarterly-results-paint-a-picture-of-an-in",
+      "publishedAt": "2026-02-05T04:24:41+00:00",
+      "date": "2026-02-05 04:24:41",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-477836,resizemode-75,msid-127923517/tech/technology/googles-quarterly-results-paint-a-picture-of-an-internet-powerhouse-getting-stronger-in-ai-age.jpg",
+      "url": "/tech-news/2026-02-05/googles-quarterly-results-paint-a-picture-of-an-in/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Amazon prohlubuje vazby na OpenAI v době zintenzivňující se soutěže v AI",
+      "description": "Amazon jedná o speciální přístup k technologiím OpenAI a zvažuje investici v řádu miliard dolarů do této AI společnosti, podle zprávy The Information. Tato jednání odhalují snahu hlavních poskytovatelů cloudových služeb o bližší spolupráci v oblasti umělé inteligence.",
+      "slug": "amazon-explores-deeper-openai-ties-as-ai-competiti",
+      "publishedAt": "2026-02-05T04:16:42+00:00",
+      "date": "2026-02-05 04:16:42",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.digitimes.com/newsshow/20260205vl205_files/1_2b.jpg",
+      "url": "/tech-news/2026-02-05/amazon-explores-deeper-openai-ties-as-ai-competiti/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [
+        "Amazon",
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "OpenAI a Snowflake uzavřely partnerství v hodnotě 200 milionů dolarů pro posílení AI v analýze dat",
+      "description": "OpenAI a Snowflake oznámily strategické partnerství v hodnotě 200 milionů dolarů (přibližně 4,6 miliardy Kč), které umožní nativní integraci modelů OpenAI do platformy Snowflake. Firmy tak budou moci spouštět AI přímo na svých datech bez nutnosti jejich exportu.",
+      "slug": "openaiとsnowflakeが300億円規模のパートナーシップを締結しaiでのデータ分析を強化",
+      "publishedAt": "2026-02-05T03:21:00+00:00",
+      "date": "2026-02-05 03:21:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://image.news.livedoor.com/newsimage/stf/4/0/409a5_88_c56e597623402e4b850c22b8222ba95a.png",
+      "url": "/tech-news/2026-02-05/openaiとsnowflakeが300億円規模のパートナーシップを締結しaiでのデータ分析を強化/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Livedoor.com"
+      },
+      "companies": [
+        "OpenAI",
+        "Snowflake"
+      ],
+      "people": []
+    },
+    {
+      "title": "Překážky bránící fúzi Tesla a SpaceX",
+      "description": "Fúze Tesla a SpaceX se neuskuteční, zejména ne letos, kvůli obrovské složitosti, regulačním rizikům a dostupným alternativám jako společné podniky. Jednání s bankami se týkají především plánovaného IPO SpaceX.",
+      "slug": "showstoppers-for-tesla-and-spacex-merger",
+      "publishedAt": "2026-02-05T03:12:33+00:00",
+      "date": "2026-02-05 03:12:33",
+      "importance": 4,
+      "category": "firemní fúze",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/02/Screenshot-2026-02-04-at-7.02.12-PM.jpg",
+      "url": "/tech-news/2026-02-05/showstoppers-for-tesla-and-spacex-merger/",
+      "source": {
+        "emoji": "📰",
+        "id": "next-big-future",
+        "name": "Next Big Future"
+      },
+      "companies": [
+        "Tesla",
+        "SpaceX"
+      ],
+      "people": []
+    },
+    {
+      "title": "Texas Instruments přebírá Silicon Labs",
+      "description": "Texas Instruments přebere Silicon Labs za 231,00 USD za akcii, což představuje celkovou hodnotu podniku přibližně 7,5 miliardy USD. Transakce by měla být dokončena v první polovině roku 2027 za předpokladu schválení regulačními orgány a splnění dalších podmínek.",
+      "slug": "texas-instruments-to-acquire-silicon-labs",
+      "publishedAt": "2026-02-05T03:01:44+00:00",
+      "date": "2026-02-05 03:01:44",
+      "importance": 5,
+      "category": "polovodiče",
+      "urlToImage": "https://www.cnx-software.com/wp-content/uploads/2026/02/Texas-Instruments-acquires-Silicon-Labs.png",
+      "url": "/tech-news/2026-02-05/texas-instruments-to-acquire-silicon-labs/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNX Software"
+      },
+      "companies": [
+        "Texas Instruments",
+        "Silicon Labs"
+      ],
+      "people": []
+    },
+    {
+      "title": "AI továrny pohání reindustrializaci v hodnotě bilionu dolarů, říká Jensen Huang",
+      "description": "Šéf Nvidia Jensen Huang prohlásil, že svět vstupuje do rozhodujícího momentu reindustrializace, označeného největší vlnou stavby průmyslové infrastruktury v lidské historii. Investice do AI továren by měly dosáhnout bilionů dolarů a přetvořit průmysl.",
+      "slug": "ai-factories-will-power-a-trillion-dollar-reindust",
+      "publishedAt": "2026-02-05T02:35:33+00:00",
+      "date": "2026-02-05 02:35:33",
+      "importance": 4,
+      "category": "ai továrny",
+      "urlToImage": "https://img.digitimes.com/newsshow/20260205pd214_files/2_b.jpg",
+      "url": "/tech-news/2026-02-05/ai-factories-will-power-a-trillion-dollar-reindust/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": [
+        "Jensen Huang"
+      ]
+    },
     {
       "title": "Alphabet vsadí 185 miliard dolarů na Gemini, agentický obchod a podnikovou umělou inteligenci",
       "description": "Alphabet oznámil plány na investice v rozsahu 175 až 185 miliard dolarů do kapitálových výdajů v roce 2026 kvůli rostoucí poptávce po výpočetním výkonu pro umělou inteligenci. Tento krok reaguje na omezenou kapacitu v oblastech cloudu, reklamy a podnikového softwaru, přičemž model Gemini se stává klíčovou operační vrstvou.",
@@ -2932,1033 +3076,6 @@
       "companies": [
         "SpaceX",
         "xAI"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Analýza: Spojení SpaceX s xAI může být pro Musk Inc jednoduché, ale Tesla je složitější",
-      "description": "Fanoušci Elona Muska a sám podnikatel dlouho spekulují o sloučení jeho firem do Musk Inc. Zatímco fúze SpaceX s xAI by mohla být hladká jako spoj mezi dvěma soukromými subjekty, spojení se Tesla čelí výzvám kvůli její veřejné povaze a přechodu na robotaxi.",
-      "slug": "analysiscombining-spacex-with-xai-may-be-simple-fo",
-      "publishedAt": "2026-01-30T23:32:08+00:00",
-      "date": "2026-01-30 23:32:08",
-      "importance": 4,
-      "category": "fúze firem",
-      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--BroR4dsU--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-01-30T233208Z_1_LYNXMPEM0T1BW_RTROPTP_3_TESLA-NEW-YORK.JPG?itok=cVn7nuc5",
-      "url": "/tech-news/2026-01-30/analysiscombining-spacex-with-xai-may-be-simple-fo/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNA"
-      },
-      "companies": [
-        "SpaceX",
-        "xAI",
-        "Tesla"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Jednání o sloučení SpaceX a Tesla upozorňují na téměř 20 000 bitcoinů",
-      "description": "Jakýkoli deal mezi SpaceX a Tesla by tiše konsolidoval jedny z největších korporátních holdingů bitcoinů na světě pod jednou střechou. Společně drží tyto firmy přibližně 20 000 BTC v hodnotě zhruba 1,7 miliardy dolarů.",
-      "slug": "spacex-tesla-merger-talks-puts-nearly-20000-bitcoi",
-      "publishedAt": "2026-01-30T23:30:00+00:00",
-      "date": "2026-01-30 23:30:00",
-      "importance": 4,
-      "category": "kryptoměny",
-      "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/4290d2e5ba7140f5d65f68d3183a9abb87c098a4-3840x2160.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-      "url": "/tech-news/2026-01-30/spacex-tesla-merger-talks-puts-nearly-20000-bitcoi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CoinDesk"
-      },
-      "companies": [
-        "SpaceX",
-        "Tesla"
-      ],
-      "people": []
-    },
-    {
-      "title": "Mise NASA Artemis 2 na Měsíc komplikuje start Crew-12 od SpaceX",
-      "description": "Datum startu astronautů Crew-12 na Mezinárodní vesmírnou stanici bude záviset na výsledku mokré zkušební oblečení Artemis 2 a pokusech o start.",
-      "slug": "nasas-artemis-2-mission-to-the-moon-puts-crew-12-s",
-      "publishedAt": "2026-01-30T23:25:50+00:00",
-      "date": "2026-01-30 23:25:50",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/qjFhWEU8YNq5fPZX6C7ENY-1366-80.jpg",
-      "url": "/tech-news/2026-01-30/nasas-artemis-2-mission-to-the-moon-puts-crew-12-s/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Space.com"
-      },
-      "companies": [
-        "NASA",
-        "SpaceX"
-      ],
-      "people": []
-    },
-    {
-      "title": "Bývalý inženýr Google odsouzen za krádež AI tajemství ve prospěch Číny",
-      "description": "Americký soud uznal Linwei Dinga vinným z ekonomické špionáže a krádeže obchodních tajemství po odcizení citlivých dat o infrastruktuře umělé inteligence společnosti Google. Ding předával informace čínským firmám a budoval vlastní startup v Číně.",
-      "slug": "former-google-engineer-convicted-of-stealing-ai-se",
-      "publishedAt": "2026-01-30T23:13:27+00:00",
-      "date": "2026-01-30 23:13:27",
-      "importance": 4,
-      "category": "ekonomická špionáž",
-      "urlToImage": null,
-      "url": "/tech-news/2026-01-30/former-google-engineer-convicted-of-stealing-ai-se/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Freerepublic.com"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Bývalý softwarový inženýr Google odsouzen za špionáž v oblasti AI a krádež obchodních tajemství",
-      "description": "Porota uznala Leona Dinga, 38 let, vinným ze sedmi obvinění z ekonomické špionáže a sedmi z krádeže obchodních tajemství – včetně tisíců stran obchodních tajemství Google, která byla ukradena na prospěch Číny.",
-      "slug": "former-google-software-engineer-convicted-of-ai-es",
-      "publishedAt": "2026-01-30T22:55:54+00:00",
-      "date": "2026-01-30 22:55:54",
-      "importance": 5,
-      "category": "ai špionáž",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/01/120053457.jpg?quality=75&strip=all&w=1200",
-      "url": "/tech-news/2026-01-30/former-google-software-engineer-convicted-of-ai-es/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "New York Post"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Apple málem zvolilo Claude pro pohánění nové Siri, Anthropic ale požadoval příliš mnoho",
-      "description": "Apple původně plánovalo přestavět Siri na velkém jazykovém modelu Claude od Anthropic, ale kvůli vysokým cenovým požadavkům se rozhodlo pro partnerství s Google a jeho modelem Gemini.",
-      "slug": "apple-almost-chose-claude-to-power-the-new-siri-bu",
-      "publishedAt": "2026-01-30T22:08:55+00:00",
-      "date": "2026-01-30 22:08:55",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.mactrast.com/wp-content/uploads/2025/05/Anthropic.jpg",
-      "url": "/tech-news/2026-01-30/apple-almost-chose-claude-to-power-the-new-siri-bu/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Mactrast.com"
-      },
-      "companies": [
-        "Apple",
-        "Anthropic"
-      ],
-      "people": []
-    },
-    {
-      "title": "Pojišťovna Lemonade integruje se s Tesla a systémem Tesla FSD",
-      "description": "Pojišťovna Lemonade nabízí poloviční tarif za najeté kilometry v Tesla vozech, pokud je aktivní systém Full Self-Driving (FSD). Spolupracuje přímo s Tesla pro přístup k telemetrickým datům v reálném čase, což umožňuje přesné rozlišení autonomních a manuálních kilometrů.",
-      "slug": "lemonade-insurance-integrates-with-tesla-and-tesla",
-      "publishedAt": "2026-01-30T22:04:19+00:00",
-      "date": "2026-01-30 22:04:19",
-      "importance": 4,
-      "category": "autonomní řízení",
-      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/01/FSDfuturesafety.jpg",
-      "url": "/tech-news/2026-01-30/lemonade-insurance-integrates-with-tesla-and-tesla/",
-      "source": {
-        "emoji": "📰",
-        "id": "next-big-future",
-        "name": "Next Big Future"
-      },
-      "companies": [
-        "Lemonade",
-        "Tesla"
-      ],
-      "people": []
-    },
-    {
-      "title": "Apple získává Q.ai",
-      "description": "Apple provedl svou druhou největší akvizici v historii – za 2 miliardy dolarů koupil čtyřletý startup Q.ai zaměřený na umělou inteligenci pro audio technologie. Tato technologie umožňuje bezhlasovou komunikaci s AI asistenty pomocí optických senzorů zachycujících mikro pohyby obličeje.",
-      "slug": "apple-acquires-qai",
-      "publishedAt": "2026-01-30T22:03:58+00:00",
-      "date": "2026-01-30 22:03:58",
-      "importance": 5,
-      "category": "ai startupy",
-      "urlToImage": null,
-      "url": "/tech-news/2026-01-30/apple-acquires-qai/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Mjtsai.com"
-      },
-      "companies": [
-        "Apple",
-        "Q.ai",
-        "Beats"
-      ],
-      "people": []
-    },
-    {
-      "title": "Google Project Genie",
-      "description": "Mnoho nástrojů na bázi AI produkuje převážně nekvalitní obsah. Google Project Genie však demonstruje schopnost technologie vytvářet poutavé zážitky pomocí modelu DeepMind Genie 3, který generuje virtuální světy prozkoumatelné a upravitelné v reálném čase.",
-      "slug": "google-project-genie",
-      "publishedAt": "2026-01-30T22:00:01+00:00",
-      "date": "2026-01-30 22:00:01",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://uncrate.com/p/2026/01/google-project-genie-1.jpg",
-      "url": "/tech-news/2026-01-30/google-project-genie/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Uncrate.com"
-      },
-      "companies": [
-        "Google",
-        "DeepMind"
-      ],
-      "people": []
-    },
-    {
-      "title": "XAI Grok 4.20 odložen na polovinu února",
-      "description": "Elon Musk oznámil zpoždění vydání modelu XAI Grok 4.20 z konce 2025 na polovinu února 2026 kvůli dodatečnému tréninku a problémům s napájením způsobeným počasím. Model by měl díky tomu překonat původní verzi a v benchmarkách už nyní překonává GPT-5, Claude a Gemini v predikcích reálných událostí.",
-      "slug": "xai-grok-420-delayed-to-mid-february",
-      "publishedAt": "2026-01-30T21:57:41+00:00",
-      "date": "2026-01-30 21:57:41",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/01/Screenshot-2026-01-30-at-1.42.32-PM.jpg",
-      "url": "/tech-news/2026-01-30/xai-grok-420-delayed-to-mid-february/",
-      "source": {
-        "emoji": "📰",
-        "id": "next-big-future",
-        "name": "Next Big Future"
-      },
-      "companies": [
-        "XAI"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Projekt Genie od Googlu není pro vás",
-      "description": "Google zkouší přístup Yann LeCuna k umělé inteligenci. Firma vydala model Genie 3, který generuje interaktivní prostředí, ale jen pro vybrané předplatitele.",
-      "slug": "googles-project-genie-is-not-for-you",
-      "publishedAt": "2026-01-30T19:55:52+00:00",
-      "date": "2026-01-30 19:55:52",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://gizmodo.com/app/uploads/2026/01/Screenshot-2026-01-30-at-12.01.51 PM-e1769802391492-1200x675.jpg",
-      "url": "/tech-news/2026-01-30/googles-project-genie-is-not-for-you/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": [
-        "Yann LeCun"
-      ]
-    },
-    {
-      "title": "Waymo robotaxi srazilo dítě poblíž školy, spuštěno federální vyšetřování",
-      "description": "Federální vyšetřování zahájila Národní správa pro bezpečnost silničního provozu (NHTSA) po kolizi autonomního vozidla Waymo s mladým žákem v školské zóně v Santa Monice v Kalifornii. Dítě vyběhlo zpoza zaparkovaného SUV a utrpělo jen lehké zranění, přesto incident odhaluje limity senzorových systémů autonomních vozidel.",
-      "slug": "waymo-robotaxi-hits-child-near-school-triggering-f",
-      "publishedAt": "2026-01-30T19:30:00+00:00",
-      "date": "2026-01-30 19:30:00",
-      "importance": 4,
-      "category": "autonomní vozy",
-      "urlToImage": "https://hothardware.com/contentimages/NewsItem/69742/content/16x9_2133x1200_highres-waymo.jpg",
-      "url": "/tech-news/2026-01-30/waymo-robotaxi-hits-child-near-school-triggering-f/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Hot Hardware"
-      },
-      "companies": [
-        "Waymo"
-      ],
-      "people": []
-    },
-    {
-      "title": "Bývalý inženýr Google shledán vinným z špionáže a krádeže AI technologií",
-      "description": "Federální porota shledala bývalého softwarového inženýra Google Linwei Dinga vinným z ekonomické špionáže a krádeže obchodních tajemství souvisejících s AI. Tento případ představuje první odsouzení za ekonomickou špionáž spojenou s umělou inteligencí v USA, podle ministerstva spravedlnosti.",
-      "slug": "former-google-engineer-found-guilty-of-espionage-a",
-      "publishedAt": "2026-01-30T19:05:48+00:00",
-      "date": "2026-01-30 19:05:48",
-      "importance": 5,
-      "category": "průmyslová špionáž",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108230973-17639991772025-11-24t154318z_1737158446_rc2lwq9j2uvq_rtrmadp_0_google-stocks.jpeg?v=1763999195&w=1920&h=1080",
-      "url": "/tech-news/2026-01-30/former-google-engineer-found-guilty-of-espionage-a/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNBC"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Rover Perseverance od NASA dokončil první jízdu na Marsu plánovanou umělou inteligencí",
-      "description": "Tým šestikolového roveru Perseverance využil AI s vizuálními schopnostmi k vytvoření bezpečné trasy po povrchu Rudé planety bez vstupu lidských plánovačů tras. Mise proběhla 8. a 10. prosince 2025 pod vedením Jet Propulsion Laboratory.",
-      "slug": "nasas-perseverance-rover-completes-first-ai-planne",
-      "publishedAt": "2026-01-30T18:51:46+00:00",
-      "date": "2026-01-30 18:51:46",
-      "importance": 5,
-      "category": "kosmonautika",
-      "urlToImage": "https://www.nasa.gov/wp-content/uploads/2026/01/1-pia26647-navcam-drive-video-thumb.jpg",
-      "url": "/tech-news/2026-01-30/nasas-perseverance-rover-completes-first-ai-planne/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "NASA"
-      },
-      "companies": [
-        "NASA"
-      ],
-      "people": []
-    },
-    {
-      "title": "OpenAI ukončí několik starších modelů v ChatGPT v únoru",
-      "description": "OpenAI plánuje od února 2026 ukončit několik starších modelů v ChatGPT, včetně oblíbeného GPT-4o, který firma přinesla zpět po problematickém spuštění GPT-5. Nejpopulárnější se stává nový model GPT-5.2 s lepší customizací.",
-      "slug": "openai-to-retire-several-older-models-from-chatgpt",
-      "publishedAt": "2026-01-30T18:24:40+00:00",
-      "date": "2026-01-30 18:24:40",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2025/08/OpenAI-GPT-4o.jpg",
-      "url": "/tech-news/2026-01-30/openai-to-retire-several-older-models-from-chatgpt/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Thurrott.com"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Skupina Sandworm z Ruska zaútočila na energetickou společnost v Polsku pomocí DynoWiper, objevila výzkum ESET",
-      "description": "Výzkumníci ESET identifikovali nový mazací malware DynoWiper použitý proti energetické společnosti v Polsku. Taktiky, techniky a postupy (TTPs) připomínají útok s wiperem ZOV na Ukrajině, přičemž ESET připisuje útok ruské skupině Sandworm s střední jistotou.",
-      "slug": "russian-sandworm-group-attacks-energy-company-in-p",
-      "publishedAt": "2026-01-30T16:09:00+00:00",
-      "date": "2026-01-30 16:09:00",
-      "importance": 5,
-      "category": "kybernetika",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/d6434bd9-71ad-46f5-b1c8-81bd2b967640",
-      "url": "/tech-news/2026-01-30/russian-sandworm-group-attacks-energy-company-in-p/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [
-        "ESET"
-      ],
-      "people": []
-    },
-    {
-      "title": "USA vidí Indii jako klíčového partnera v iniciativě Pax Silica pro umělou inteligenci",
-      "description": "USA staví Indii jako klíčového budoucího partnera v novém rámci ekonomické bezpečnosti, který má zajistit globální dodavatelské řetězce pro umělou inteligenci a pokročilé technologie, uvedl v pátek podzobmí ministr zahraničí pro ekonomické záležitosti Jacob Helberg.",
-      "slug": "us-sees-india-as-key-partner-in-pax-silica-ai-push",
-      "publishedAt": "2026-01-30T15:35:50+00:00",
-      "date": "2026-01-30 15:35:50",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-15328,resizemode-75,msid-127804874/tech/artificial-intelligence/us-sees-india-as-key-partner-in-pax-silica-ai-push.jpg",
-      "url": "/tech-news/2026-01-30/us-sees-india-as-key-partner-in-pax-silica-ai-push/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [],
-      "people": [
-        "Jacob Helberg"
-      ]
-    },
-    {
-      "title": "Býci i medvědi na Tesle dospěli k dohodě: Toto není automobilový titul",
-      "description": "Dlouholetá debata mezi investory, zda hodnotit Teslu jako automobilku nebo technologickou velmoc, se tento týden blížila k rozuzlení díky plánům firmy na dramatickou přestavbu výrobních linek.",
-      "slug": "tesla-bulls-and-bears-reach-an-agreement-this-is-n",
-      "publishedAt": "2026-01-30T12:26:20+00:00",
-      "date": "2026-01-30 12:26:20",
-      "importance": 4,
-      "category": "elektromobilita",
-      "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/01/teslas-eye-watering-valuation-the-stocks-forward-pe-ratio-i.jpg",
-      "url": "/tech-news/2026-01-30/tesla-bulls-and-bears-reach-an-agreement-this-is-n/",
-      "source": {
-        "emoji": "📰",
-        "id": "financial-post",
-        "name": "Financial Post"
-      },
-      "companies": [
-        "Tesla"
-      ],
-      "people": []
-    },
-    {
-      "title": "Indie přitahuje 70 miliard dolarů investic do AI infrastruktury, AI Mission 2.0 za 5-6 měsíců: Ashwini Vaishnaw",
-      "description": "Indie připravuje AI Mission 2.0 po úspěchu první fáze, která přilákala 70 miliard dolarů investic do výpočetní infrastruktury pro umělou inteligenci. Program má rozšířit přístup k této technologii po celé zemi, s diskuzemi se zúčastněnými stranami brzy.",
-      "slug": "india-attracts-70-billion-investment-in-ai-infra-a",
-      "publishedAt": "2026-01-30T12:25:43+00:00",
-      "date": "2026-01-30 12:25:43",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://img.etimg.com/thumb/msid-127801057,width-1200,height-630,imgsize-39842,overlay-economictimes/articleshow.jpg",
-      "url": "/tech-news/2026-01-30/india-attracts-70-billion-investment-in-ai-infra-a/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [],
-      "people": [
-        "Ashwini Vaishnaw"
-      ]
-    },
-    {
-      "title": "Co říkají odborníci o největších a nejvíce očekávaných úvodech na burzu letošního roku: SpaceX a OpenAI",
-      "description": "SpaceX a OpenAI s lídry Elonem Muskem a Samem Altmanem patří k klíčovým postavám technologického sektoru. Obě společnosti by mohly vstoupit na burzu v roce 2026.",
-      "slug": "what-smart-people-are-saying-about-the-biggest-mos",
-      "publishedAt": "2026-01-30T12:24:38+00:00",
-      "date": "2026-01-30 12:24:38",
-      "importance": 4,
-      "category": "ipo",
-      "urlToImage": "https://i.insider.com/697c20fae1ba468a96ab03e7?width=1200&format=jpeg",
-      "url": "/tech-news/2026-01-30/what-smart-people-are-saying-about-the-biggest-mos/",
-      "source": {
-        "emoji": "📰",
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "companies": [
-        "SpaceX",
-        "OpenAI"
-      ],
-      "people": [
-        "Elon Musk",
-        "Sam Altman"
-      ]
-    },
-    {
-      "title": "Nvidia: Závislost čínské armády na americké technologii by byla 'nesmyslná', po obviněních z pomoci DeepSeek při trénování AI modelů – kritici vlády nechtěně podporují zahraniční konkurenty",
-      "description": "Amerika by měla vždy chtít, aby její průmysl soutěžil o prověřené a schválené komerční obchody, čímž chrání národní bezpečnost, vytváří americká pracovní místa a udržuje vedení v AI.",
-      "slug": "nvidia-says-chinese-military-dependence-on-america",
-      "publishedAt": "2026-01-30T12:08:05+00:00",
-      "date": "2026-01-30 12:08:05",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/axSw3ek2fcxZ2mRS33b7vk-2560-80.jpg",
-      "url": "/tech-news/2026-01-30/nvidia-says-chinese-military-dependence-on-america/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "companies": [
-        "Nvidia",
-        "Deepseek"
-      ],
-      "people": []
-    },
-    {
-      "title": "VEON spolupracuje s MindBridge na posílení finanční analýzy, auditu a interních kontrol schopnostmi augmentované inteligence",
-      "description": "VEON Ltd. a MindBridge oznámily strategickou spolupráci na nasazení AI nástrojů pro finanční analýzu, interní kontroly a audit napříč globálními operacemi VEON. Společnosti zavádějí platformu Central Insights Factory, která analyzuje všechny transakce pro přesnější identifikaci rizik.",
-      "slug": "veon-partners-with-mindbridge-to-enhance-financial",
-      "publishedAt": "2026-01-30T12:00:00+00:00",
-      "date": "2026-01-30 12:00:00",
-      "importance": 4,
-      "category": "fintech",
-      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/1ef0e1c7-0bca-4edc-851e-87e0e0325851",
-      "url": "/tech-news/2026-01-30/veon-partners-with-mindbridge-to-enhance-financial/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [
-        "VEON",
-        "MindBridge"
-      ],
-      "people": []
-    },
-    {
-      "title": "VenHub zahajuje obchodování na Nasdaq pod tickerem „VHUB“",
-      "description": "Společnost VenHub Global Inc. získala schválení pro listování na Nasdaq a zahajuje obchodování pod tickerem VHUB. Firma představuje plně autonomní chytré obchody, které řeší vítriliónovou tržní příležitost v maloobchodu bez personálu na místě.",
-      "slug": "venhub-begins-trading-on-nasdaq-under-ticker-symbo",
-      "publishedAt": "2026-01-30T12:00:00+00:00",
-      "date": "2026-01-30 12:00:00",
-      "importance": 4,
-      "category": "chytré obchody",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/d690c88d-a706-4af4-92d0-30df57c4e2a0",
-      "url": "/tech-news/2026-01-30/venhub-begins-trading-on-nasdaq-under-ticker-symbo/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [
-        "VenHub"
-      ],
-      "people": []
-    },
-    {
-      "title": "Přehled agentů Kimi K2.5: Zkrácení doby běhu, paralelní agenti a volání nástrojů",
-      "description": "Kimi K2.5 je nový open source multimodalní AI model, který slibuje až čtyřnásobně rychlejší dokončování úkolů oproti vedoucím modelům díky technologii Agent Swarm umožňující paralelní provádění až 100 sub-agentů. Model překonává konkurenty v benchmarkách jako Browser Comp a HLE a nabízí čtyři specializované varianty pro různé aplikace.",
-      "slug": "kimi-k25-agents-overview-cut-run-time-parallel-age",
-      "publishedAt": "2026-01-30T11:42:33+00:00",
-      "date": "2026-01-30 11:42:33",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/01/kimi-k2-5-speed-vs-claude-opus_optimized.jpg",
-      "url": "/tech-news/2026-01-30/kimi-k25-agents-overview-cut-run-time-parallel-age/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Odznaky, bajty a vydírání",
-      "description": "Za kulisami policejní práce v kyberprostoru: co víme o chycených kyberzločincích? Co je dostalo do pasti, odkud pocházejí a jakou roli hráli v kyberzločinném světě.",
-      "slug": "badges-bytes-and-blackmail",
-      "publishedAt": "2026-01-30T11:30:00+00:00",
-      "date": "2026-01-30 11:30:00",
-      "importance": 4,
-      "category": "kyberkriminalita",
-      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEulnS63dy7njgVFds_geMDCv0zmG26xS14G9C5NKNmD7sT42_P_f_GjJhkzZ59m-fobXQGPzP65ioXYtq0edn3Wje7rXn9is0fPlt-XMHhtAtE7cp5B4M_Mw3lwHJ4u-nHOJt4OoyJ1sRd6RXPRXY1dBkFAeOtzAaij6WlX0syPvBqSMV5G2Kt8ylkPU/s1700-e365/orange.jpg",
-      "url": "/tech-news/2026-01-30/badges-bytes-and-blackmail/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Internet"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Jižní Korea zavádí globální milník v zákonech o bezpečnosti umělé inteligence včetně dopadů na duševní zdraví",
-      "description": "Jižní Korea přijala zákony o umělé inteligenci a stala se první velkou zemí, která to udělala samostatně. Článek podrobně analyzuje nové předpisy, zdůrazňuje jejich silné i slabé stránky. Exkluzivní pohled od AI Insider.",
-      "slug": "south-korea-enacts-global-milestone-of-ai-safety-l",
-      "publishedAt": "2026-01-30T08:15:00+00:00",
-      "date": "2026-01-30 08:15:00",
-      "importance": 5,
-      "category": "ai regulace",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/697ad4ae7ce519811db188ca/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "url": "/tech-news/2026-01-30/south-korea-enacts-global-milestone-of-ai-safety-l/",
-      "source": {
-        "emoji": "💼",
-        "id": null,
-        "name": "Forbes"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Eckoh navazuje partnerství s boost.ai pro bezpečnost v konverzační AI v regulovaných odvětvích",
-      "description": "Eckoh, poskytovatel bezpečných řešení pro zákaznickou komunikaci a platby, spolupracuje s boost.ai na integraci generativních AI agentů s certifikovanou bezpečnostní platformou. Tím podniky v bankovnictví, zdravotnictví nebo maloobchodu mohou bezpečně zpracovávat citlivé údaje a platby prostřednictvím AI.",
-      "slug": "eckoh-partners-with-boostai-to-deliver-unmatched-s",
-      "publishedAt": "2026-01-30T08:05:00+00:00",
-      "date": "2026-01-30 08:05:00",
-      "importance": 4,
-      "category": "konverzační ai",
-      "urlToImage": null,
-      "url": "/tech-news/2026-01-30/eckoh-partners-with-boostai-to-deliver-unmatched-s/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "PR Newswire UK"
-      },
-      "companies": [
-        "Eckoh",
-        "boost.ai"
-      ],
-      "people": []
-    },
-    {
-      "title": "Bývalý inženýr Google odsouzen za krádež 2 000 AI obchodních tajemství pro čínský startup",
-      "description": "Bývalý inženýr Google obviněný z krádeže tisíců důvěrných dokumentů společnosti pro vybudování startupu v Číně byl v USA odsouzen, oznámilo ministerstvo spravedlnosti (DoJ). Linwei Ding (známý také jako Leon Ding), 38 let, byl shledán vinným v soudním procesu.",
-      "slug": "ex-google-engineer-convicted-for-stealing-2000-ai-",
-      "publishedAt": "2026-01-30T07:35:00+00:00",
-      "date": "2026-01-30 07:35:00",
-      "importance": 5,
-      "category": "průmyslová špionáž",
-      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuiLCvokVP8ei0IzeeCTdv8uXcyZ4052maeakPb57SypS2iVyNL4ctwUKjGUjrdVBYyS7eCP-5fydL1UJXLGmg4Ae5wY6J1Nhaph__CeBi2ht5W-XTJhBim8IbYf78EgXdZ7omg2O30DgJCZPTqN1CPQMZ5023ZGU0K5jTmxoX251whXEQ0CljA9BP9RWZ/s1700-e365/ai-secrets.jpg",
-      "url": "/tech-news/2026-01-30/ex-google-engineer-convicted-for-stealing-2000-ai/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Internet"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Nákup Q.ai společností Apple – Co to znamená pro iPhony, AirPods a nositelná zařízení",
-      "description": "Očekáváme integraci technologie Q.ai do budoucího hardware Apple.",
-      "slug": "apples-qai-buy-what-it-means-for-iphones-airpods-w",
-      "publishedAt": "2026-01-30T07:20:10+00:00",
-      "date": "2026-01-30 07:20:10",
-      "importance": 5,
-      "category": "ai",
-      "urlToImage": "https://c.ndtvimg.com/2026-01/i2rbk4ss_apple_625x300_30_January_26.png?im=FeatureCrop,algorithm=dnn,width=1080,height=607",
-      "url": "/tech-news/2026-01-30/apples-qai-buy-what-it-means-for-iphones-airpods-w/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Ndtvprofit.com"
-      },
-      "companies": [
-        "Apple",
-        "Q.ai"
-      ],
-      "people": []
-    },
-    {
-      "title": "DeepSeek nyní může kupovat čipy Nvidia H200, Čína však stanovila podmínky",
-      "description": "Čína podmínečně schválila nákup čipů Nvidia H200 pro svůj přední startup DeepSeek v AI, přičemž podmínky stále finalizuje. Tento krok probíhá na pozadí eskalujících technických napětí mezi USA a Čínou.",
-      "slug": "deepseek-can-now-buy-nvidias-h200-chips-but-china-",
-      "publishedAt": "2026-01-30T07:16:47+00:00",
-      "date": "2026-01-30 07:16:47",
-      "importance": 4,
-      "category": "hardware",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/hnb8ty/article70569358.ece/alternates/LANDSCAPE_1200/2025-11-05T081214Z_2091479820_RC2NFGAKVD7Y_RTRMADP_3_CHINA-CHIPS.JPG",
-      "url": "/tech-news/2026-01-30/deepseek-can-now-buy-nvidias-h200-chips-but-china/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "companies": [
-        "DeepSeek",
-        "Nvidia"
-      ],
-      "people": []
-    },
-    {
-      "title": "Vytvářejte finanční modely během minut s Claude pro Excel",
-      "description": "Integrace AI modelu Claude od Anthropic do Microsoft Excel umožňuje automatizovat složité úkoly v tabulkách a zkrátit čas na tvorbu finančních modelů z hodin na minuty. Tento doplněk přináší nativní boční panel, dynamické aktualizace a specializované funkce pro finance a analýzu dat.",
-      "slug": "build-finance-models-in-minutes-with-claude-for-ex",
-      "publishedAt": "2026-01-30T07:12:50+00:00",
-      "date": "2026-01-30 07:12:50",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/01/spreadsheet-dynamic-updates-formulas_optimized.jpg",
-      "url": "/tech-news/2026-01-30/build-finance-models-in-minutes-with-claude-for-ex/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [
-        "Anthropic",
-        "Microsoft"
-      ],
-      "people": []
-    },
-    {
-      "title": "Bývalý inženýr Google odsouzen za krádež tajemství umělé inteligence pro čínské společnosti",
-      "description": "Linwei Ding, 38letý čínský státní příslušník, byl po 11denním soudním procesu v San Franciscu shledán vinným ze sedmi obvinění z ekonomické špionáže a sedmi z krádeže obchodních tajemství. Odcizil tisíce stran důvěrných dokumentů z Google, aby pomohl dvěma čínským firmám.",
-      "slug": "ex-google-engineer-convicted-of-stealing-ai-secret",
-      "publishedAt": "2026-01-30T07:02:26+00:00",
-      "date": "2026-01-30 07:02:26",
-      "importance": 5,
-      "category": "ai",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/ulkdva/article70569318.ece/alternates/LANDSCAPE_1200/IMG_FILE_PHOTO__Illustra_2_1_GADTRUAJ.jpg",
-      "url": "/tech-news/2026-01-30/ex-google-engineer-convicted-of-stealing-ai-secret/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Významná modernizace Siri: Plán Applu konkurovat na trhu AI chatbotů",
-      "description": "Apple pracuje na projektu „Campos“, který přemění dlouholetého hlasového asistenta Siri na pokročilý AI chatbot. Tento upgrade řeší historická omezení Siri a staví ji do přímé konkurence s nástroji jako ChatGPT a Gemini.",
-      "slug": "siris-big-upgrade-apples-plan-to-dominate-the-ai-c",
-      "publishedAt": "2026-01-30T07:00:11+00:00",
-      "date": "2026-01-30 07:00:11",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/01/Siri-1.jpg",
-      "url": "/tech-news/2026-01-30/siris-big-upgrade-apples-plan-to-dominate-the-ai-c/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
-      "title": "Čína podmínečně schválila DeepSeek nákup čipů Nvidia H200, tvrdí zdroje",
-      "description": "Podle Reutera získaly ByteDance, Alibaba a Tencent povolení k nákupu více než 400 000 čipů H200 dohromady. Čína udělila top AI startupu DeepSeek podmínečné schválení pro nákup těchto pokročilých AI čipů.",
-      "slug": "china-conditionally-approves-deepseek-to-buy-nvidi",
-      "publishedAt": "2026-01-30T06:55:01+00:00",
-      "date": "2026-01-30 06:55:01",
-      "importance": 4,
-      "category": "hardware",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-148130,resizemode-75,msid-127793709/tech/technology/china-conditionally-approves-deepseek-to-buy-nvidias-h200-chips-sources.jpg",
-      "url": "/tech-news/2026-01-30/china-conditionally-approves-deepseek-to-buy-nvidi/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "DeepSeek",
-        "Nvidia",
-        "ByteDance",
-        "Alibaba",
-        "Tencent"
-      ],
-      "people": []
-    },
-    {
-      "title": "Apple dosáhl nejvýkonnějšího kvartálu v historii díky rekordním prodejům iPhonů",
-      "description": "„Ohromná úroveň poptávky“ omezila schopnost společnosti držet krok a vedla k nízkým zásobám, řekl Tim Cook.",
-      "slug": "apple-enjoys-most-profitable-quarter-ever-amid-rec",
-      "publishedAt": "2026-01-30T06:27:56+00:00",
-      "date": "2026-01-30 06:27:56",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://www.irishtimes.com/resizer/v2/CFGFRMNGIC23SQQNC3JU64P5Y4.jpg?smart=true&auth=dcc8e1ccfc6e1462e279d827e3d1a0bcddfedc53051e66141041c95ecad0c8a8&width=1200&height=630",
-      "url": "/tech-news/2026-01-30/apple-enjoys-most-profitable-quarter-ever-amid-rec/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Irishtimes.comhttps"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": [
-        "Tim Cook"
-      ]
-    },
-    {
-      "title": "Apple kupuje tajemný izraelský startup na audio AI Q.ai",
-      "description": "Apple koupilo izraelský startup Q.ai specializující se na audio AI v transakci v hodnotě přibližně 2 miliard dolarů. Jedná se o druhou nejdražší akvizici v historii Applu, překonanou pouze koupí Beats.",
-      "slug": "apple-buys-secretive-audio-ai-startup-qai",
-      "publishedAt": "2026-01-30T06:05:02+00:00",
-      "date": "2026-01-30 06:05:02",
-      "importance": 5,
-      "category": "ai",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/26/01/apple-buys-q-ai/-952x498w6/gsmarena_000.jpg",
-      "url": "/tech-news/2026-01-30/apple-buys-secretive-audio-ai-startup-qai/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GSMArena.com"
-      },
-      "companies": [
-        "Apple",
-        "Q.ai",
-        "Beats"
-      ],
-      "people": []
-    },
-    {
-      "title": "Alibaba a Baidu posouvají plány na IPO pro své dceřiné společnosti v oblasti AI čipů",
-      "description": "Dvě největší čínské technologické firmy, Alibaba a Baidu, zahájily procesy počáteční veřejné nabídky (IPO) pro své dceřiné společnosti zaměřené na návrh polovodičů. Tento krok podporuje snahu Pekingu dosáhnout soběstačnosti v produkci čipů pro umělou inteligenci.",
-      "slug": "alibaba-baidu-advance-ipo-plans-for-ai-chip-subsid",
-      "publishedAt": "2026-01-30T04:58:07+00:00",
-      "date": "2026-01-30 04:58:07",
-      "importance": 4,
-      "category": "ai čipy",
-      "urlToImage": "https://img.digitimes.com/newsshow/20260129pd228_files/2_b.jpg",
-      "url": "/tech-news/2026-01-30/alibaba-baidu-advance-ipo-plans-for-ai-chip-subsid/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
-      },
-      "companies": [
-        "Alibaba",
-        "Baidu"
-      ],
-      "people": []
-    },
-    {
-      "title": "Bývalý inženýr Google shledán vinným z krádeže AI tajemství pro čínské firmy",
-      "description": "Bývalý inženýr Google Linwei Ding byl shledán vinným z 14 federálních obvinění z ekonomické špionáže a krádeže obchodních tajemství. Předal více než 2000 stran citlivých informací o umělé inteligenci dvěma čínským technologickým firmám, pro které tajně pracoval.",
-      "slug": "former-google-engineer-found-guilty-of-stealing-ai",
-      "publishedAt": "2026-01-30T04:29:09+00:00",
-      "date": "2026-01-30 04:29:09",
-      "importance": 4,
-      "category": "průmyslová špionáž",
-      "urlToImage": null,
-      "url": "/tech-news/2026-01-30/former-google-engineer-found-guilty-of-stealing-ai/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Apple kupuje izraelskou audio startup Q.ai",
-      "description": "Apple 29. ledna 2026 oznámilo akvizici izraelské firmy Q.ai, která vyvíjí umělou inteligenci pro zpracování zvuku. Hodnota transakce se odhaduje na 1,6 až 2 miliardy amerických dolarů a představuje druhou největší akvizici Applu.",
-      "slug": "apple-buys-israeli-audio-startup-qai",
-      "publishedAt": "2026-01-30T03:46:51+00:00",
-      "date": "2026-01-30 03:46:51",
-      "importance": 5,
-      "category": "ai",
-      "urlToImage": "https://img.digitimes.com/newsshow/20260130vl204_files/1_b.jpg",
-      "url": "/tech-news/2026-01-30/apple-buys-israeli-audio-startup-qai/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
-      },
-      "companies": [
-        "Apple",
-        "Q.ai"
-      ],
-      "people": []
-    },
-    {
-      "title": "Proč chce Elon Musk umístit datová centra pro AI do vesmíru?",
-      "description": "Datová centra v kosmu, stále v rané fázi vývoje, by spoléhala na stovky solárních satelitů propojených v oběžné dráze k zvládnutí obrovských výpočetních nároků AI systémů jako Grok od xAI nebo ChatGPT od OpenAI. V době, kdy pozemní zařízení jsou energeticky náročná a drahá na provoz, by kosmická řešení nabízela neustálou solární energii a eliminovala náklady na chlazení.",
-      "slug": "why-does-elon-musk-want-to-put-ai-data-centers-in-",
-      "publishedAt": "2026-01-30T03:32:12+00:00",
-      "date": "2026-01-30 03:32:12",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-355158,resizemode-75,msid-127790193/tech/technology/why-does-elon-musk-want-to-put-ai-data-centers-in-space.jpg",
-      "url": "/tech-news/2026-01-30/why-does-elon-musk-want-to-put-ai-data-centers-in/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "xAI",
-        "OpenAI"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Nelegální toky kryptoměn dosáhly rekordních 158 miliard dolarů v roce 2025, tvrdí TRM Labs",
-      "description": "Podvodníci rozšířili dosah pomocí nových nástrojů a zvýšili věrohodnost svých akcí. Podle TRM Labs se použití velkých jazykových modelů v podvodech pětkrát zvýšilo v roce 2025, což fraudsterům umožňuje vytvářet přesvědčivé zprávy, vést souběžné konverzace a oklamávat oběti různorodými metodami.",
-      "slug": "illicit-crypto-flows-hit-record-158-billion-in-202",
-      "publishedAt": "2026-01-30T03:00:36+00:00",
-      "date": "2026-01-30 03:00:36",
-      "importance": 4,
-      "category": "kryptoměny",
-      "urlToImage": "https://bitcoinist.com/wp-content/uploads/2026/01/a_2bd233.jpg",
-      "url": "/tech-news/2026-01-30/illicit-crypto-flows-hit-record-158-billion-in-202/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Bitcoinist"
-      },
-      "companies": [
-        "TRM Labs"
-      ],
-      "people": []
-    },
-    {
-      "title": "Apple získal izraelský startup Q.ai zaměřený na audio AI",
-      "description": "Apple neupřesnil, jak technologie Q.ai využije, ale startup vyvíjel aplikace strojového učení pro porozumění šeptané řeči a zlepšení audia v náročných prostředích.",
-      "slug": "apple-acquires-israeli-audio-ai-startup-qai",
-      "publishedAt": "2026-01-30T02:59:01+00:00",
-      "date": "2026-01-30 02:59:01",
-      "importance": 5,
-      "category": "ai startupy",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-103640,resizemode-75,msid-127789750/tech/startups/apple-acquires-israeli-audio-ai-startup-q-ai.jpg",
-      "url": "/tech-news/2026-01-30/apple-acquires-israeli-audio-ai-startup-qai/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Apple",
-        "Q.ai"
-      ],
-      "people": []
-    },
-    {
-      "title": "Pentagon se střetává s Anthropic kvůli použití vojenské AI, tvrdí zdroje",
-      "description": "Diskuse představují raný testovací případ, zda Silicon Valley, v dobré milosti Washingtonu po letech napětí, může ovlivnit, jak americké vojenské a zpravodajské složky nasazují stále výkonnější AI na bojišti.",
-      "slug": "pentagon-clashes-with-anthropic-over-military-ai-u",
-      "publishedAt": "2026-01-30T02:46:53+00:00",
-      "date": "2026-01-30 02:46:53",
-      "importance": 4,
-      "category": "vojenská ai",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-13550,resizemode-75,msid-127789594/tech/artificial-intelligence/pentagon-clashes-with-anthropic-over-military-ai-use-sources-say.jpg",
-      "url": "/tech-news/2026-01-30/pentagon-clashes-with-anthropic-over-military-ai-u/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Anthropic"
-      ],
-      "people": []
-    },
-    {
-      "title": "Apple získává izraelský startup Q.ai zaměřený na audio AI údajně za 1,6 miliardy dolarů",
-      "description": "Apple neoznámil podmínky akvizice Q.ai, který podpořily venture kapitálové firmy Matter Venture Partners, Kleiner Perkins, Spark Capital, Exor a GV (dříve Google Ventures). Transakce ohodnotila startup na přibližně 1,6 miliardy dolarů podle zdroje blízkého jednáním.",
-      "slug": "apple-acquires-israeli-audio-ai-startup-qai-report",
-      "publishedAt": "2026-01-30T02:19:39+00:00",
-      "date": "2026-01-30 02:19:39",
-      "importance": 5,
-      "category": "ai",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2026/01/30/1600x900/logo/Apple-Results-0_1769739524384_1769739537148.jpg",
-      "url": "/tech-news/2026-01-30/apple-acquires-israeli-audio-ai-startup-qai-report/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Livemint"
-      },
-      "companies": [
-        "Apple",
-        "Q.ai"
-      ],
-      "people": []
-    },
-    {
-      "title": "Elon Musk údajně zvažuje sloučení SpaceX a xAI, případně i Tesla",
-      "description": "Elon Musk prý přemýšlí o sloučení svého startupu xAI, sociální sítě X a raketové společnosti SpaceX do jediné entity. Alternativně by mohlo dojít k fúzi SpaceX s veřejně obchodovanou Teslou před plánovaným IPO SpaceX.",
-      "slug": "elon-musk-reportedly-considering-merger-between-sp",
-      "publishedAt": "2026-01-30T02:16:21+00:00",
-      "date": "2026-01-30 02:16:21",
-      "importance": 4,
-      "category": "fúze firem",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/Screenshot-from-2026-01-30-09-14-46.png",
-      "url": "/tech-news/2026-01-30/elon-musk-reportedly-considering-merger-between-sp/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "SpaceX",
-        "xAI",
-        "Tesla"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Generální ředitel Apple slibuje „osobní a soukromou“ umělou inteligenci pro uživatele",
-      "description": "Tim Cook ujišťuje uživatele iPhonu, že jejich soukromí bude zachováno v nové spolupráci, která přináší AI Gemini od Google do Siri.",
-      "slug": "apple-ceo-commits-to-personal-and-private-ai-for-u",
-      "publishedAt": "2026-01-30T00:57:01+00:00",
-      "date": "2026-01-30 00:57:01",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.cultofmac.com/wp-content/uploads/2026/01/Tim-Cook-Apple-Intelligence.jpg.webp",
-      "url": "/tech-news/2026-01-30/apple-ceo-commits-to-personal-and-private-ai-for-u/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Cult of Mac"
-      },
-      "companies": [
-        "Apple",
-        "Google"
-      ],
-      "people": [
-        "Tim Cook"
-      ]
-    },
-    {
-      "title": "Tesla ukončuje výrobu nejdůležitějšího auta 21. století",
-      "description": "Model S si zasloužil lepší osud. Tesla zastavuje produkci svého ikonického sedanu, který otevřel dveře elektromobilitě.",
-      "slug": "tesla-just-killed-the-most-important-car-of-the-21",
-      "publishedAt": "2026-01-30T00:29:00+00:00",
-      "date": "2026-01-30 00:29:00",
-      "importance": 4,
-      "category": "elektromobilita",
-      "urlToImage": "https://cdn.theatlantic.com/thumbor/TJWCieNe0ngWt2We5BSZYtEz4ZM=/0x43:2000x1085/1200x625/media/img/mt/2026/01/2026_01_29_Tesla_mpg/original.jpg",
-      "url": "/tech-news/2026-01-30/tesla-just-killed-the-most-important-car-of-the-21/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Atlantic"
-      },
-      "companies": [
-        "Tesla"
-      ],
-      "people": []
-    },
-    {
-      "title": "Proč chce Elon Musk umístit centra dat pro AI do vesmíru",
-      "description": "Elon Musk věří, že centra dat pro AI ve vesmíru na solárních satelitech sníží náklady na energii a chlazení. SpaceX na tento koncept vsází velké prostředky v závodě o vedení v umělé inteligenci.",
-      "slug": "why-elon-musk-wants-to-put-ai-data-centres-in-spac",
-      "publishedAt": "2026-01-30T00:21:35+00:00",
-      "date": "2026-01-30 00:21:35",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/b8b7ni/article70568641.ece/alternates/LANDSCAPE_1200/2026-01-22T160725Z_1956941635_RC2G6JAMG4RC_RTRMADP_3_DAVOS-MEETING.JPG",
-      "url": "/tech-news/2026-01-30/why-elon-musk-wants-to-put-ai-data-centres-in-spac/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "companies": [
-        "SpaceX"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Elon Musk údajně zvažuje sloučení Tesla, xAI a SpaceX",
-      "description": "SpaceX prý zvažuje sloučení s Tesla nebo xAI před plánovaným IPO, podle Bloomberg. Akcionáři Tesla by se měli obávat konfliktů zájmů kvůli Muskovo dominantnímu podílu v soukromých firmách.",
-      "slug": "elon-musk-is-rumored-to-be-floating-merger-between",
-      "publishedAt": "2026-01-30T00:00:52+00:00",
-      "date": "2026-01-30 00:00:52",
-      "importance": 4,
-      "category": "sloučení firem",
-      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/01/Elon-Musk-self-dealing-Tesla-Spa.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2026-01-30/elon-musk-is-rumored-to-be-floating-merger-between/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Electrek"
-      },
-      "companies": [
-        "Tesla",
-        "xAI",
-        "SpaceX"
       ],
       "people": [
         "Elon Musk"
