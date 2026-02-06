@@ -1,7 +1,143 @@
 {
-  "generated": "2026-02-06T13:01:16.755353+00:00",
-  "count": 156,
+  "generated": "2026-02-06T17:05:09.794799+00:00",
+  "count": 163,
   "articles": [
+    {
+      "title": "QuantumScape zahájila pilotní výrobní linku Eagle pro solid-state baterie [Video]",
+      "description": "Společnost QuantumScape, specializující se na vývoj solid-state baterií, zahájila v únoru 2026 svou pilotní výrobní linku Eagle. Tato linka umožní výrobu vzorkových článků QSE-5 pro automobilové dodavatele OEM, jako je Volkswagen Group, a položí základy pro budoucí masovou produkci.",
+      "slug": "quantumscape-inaugurates-eagle-line-pilot-for-soli",
+      "publishedAt": "2026-02-05T16:29:30+00:00",
+      "date": "2026-02-05 16:29:30",
+      "importance": 5,
+      "category": "elektromobilita",
+      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/02/QuantumScape-solid-state-pilot-production.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2026-02-05/quantumscape-inaugurates-eagle-line-pilot-for-soli/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Electrek"
+      },
+      "companies": [
+        "QuantumScape"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nástroje pro elektronický návrh (EDA) – Výzkumná zpráva 2026: Analýza podílu na trhu, trendy v oboru a statistiky, předpovědi růstu 2025-2031",
+      "description": "Trh s nástroji EDA dosáhne v roce 2026 hodnoty 20,78 miliardy USD a do roku 2031 vyroste na 30,67 miliardy USD při CAGR 8,1 %. Růst pohání rychlejší škálování tranzistorů, návrhy povolené AI a ověřování založené na cloudu, přičemž příležitosti nabízejí architektury chipletů, akcelerátory AI/ML a rostoucí poptávka po SIP.",
+      "slug": "electronic-design-automation-tools-eda-research-re",
+      "publishedAt": "2026-02-05T16:29:00+00:00",
+      "date": "2026-02-05 16:29:00",
+      "importance": 5,
+      "category": "eda nástroje",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "url": "/tech-news/2026-02-05/electronic-design-automation-tools-eda-research-re/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Siri napájená Gemini může běžet na serverech Google",
+      "description": "Nová prohlášení od vrcholových manažerů Google naznačují, že nadcházející verze Siri s modelem Gemini bude využívat infrastrukturu Google místo serverů Apple.",
+      "slug": "gemini-powered-siri-may-run-on-googles-servers-aft",
+      "publishedAt": "2026-02-05T16:27:55+00:00",
+      "date": "2026-02-05 16:27:55",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2025/08/Apple-Google-Gemini-Siri-featured.jpg",
+      "url": "/tech-news/2026-02-05/gemini-powered-siri-may-run-on-googles-servers-aft/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Headlines"
+      },
+      "companies": [
+        "Google",
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "SpaceX využívá Starlink k bezpečnějšímu provozu v nízké oběžné dráze pro všechny",
+      "description": "Vesmírný odpad představuje dlouhodobý bezpečnostní problém pro operace v nízké oběžné dráze, ale SpaceX a Starlink vyvinuli systém, který by měl tento problém pomoci vyřešit.",
+      "slug": "spacex-is-using-starlink-to-make-low-earth-orbit-s",
+      "publishedAt": "2026-02-05T16:17:00+00:00",
+      "date": "2026-02-05 16:17:00",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://www.bgr.com/img/gallery/spacex-is-using-starlink-to-make-low-earth-orbit-safer-for-everyone/l-intro-1770145707.jpg",
+      "url": "/tech-news/2026-02-05/spacex-is-using-starlink-to-make-low-earth-orbit-s/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BGR"
+      },
+      "companies": [
+        "SpaceX"
+      ],
+      "people": []
+    },
+    {
+      "title": "„Kvantové dvojníky“ simulují to, co superpočítače nezvládnou",
+      "description": "Zatímco univerzální kvantové počítače postupují pomalu k praktičnosti, startup se zaměřuje na analogovou kvantovou simulaci. Tato technologie bez plné kontroly nad jednotlivými qubity umožňuje simulovat složité kvantové systémy rychleji než superpočítače a nabízí jednonedělní zpracování na zakázku.",
+      "slug": "quantum-twins-simulate-what-supercomputers-cant",
+      "publishedAt": "2026-02-05T16:00:02+00:00",
+      "date": "2026-02-05 16:00:02",
+      "importance": 5,
+      "category": "kvantové počítače",
+      "urlToImage": "https://spectrum.ieee.org/media-library/image.jpg?id=63832927&width=1200&height=600&coordinates=0%2C189%2C0%2C281",
+      "url": "/tech-news/2026-02-05/quantum-twins-simulate-what-supercomputers-cant/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Ieee.org"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Skutečná data o adopci zdravotnických technologií: Pohled firem a vládní trendy s klíčovými statistikami (např. 71 % amerických nemocnic, valuace firem 3 miliardy USD)",
+      "description": "Podle projekcí trhu dosáhne sektor umělé inteligence v zdravotnictví v roce 2025 hodnoty 37,98 miliardy USD a do roku 2035 naroste na 928,18 miliardy USD při složené roční míře růstu 37,66 %. Report shrnuje adopci těchto technologií v nemocnicích a u firem s detaily o financování a datech.",
+      "slug": "real-world-data-on-healthcare-technology-adoption-",
+      "publishedAt": "2026-02-05T16:00:00+00:00",
+      "date": "2026-02-05 16:00:00",
+      "importance": 4,
+      "category": "zdravotnické technol",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
+      "url": "/tech-news/2026-02-05/real-world-data-on-healthcare-technology-adoption/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Tržní podíl ChatGPT klesá, Google a konkurenti se přibližují, ukazují data z aplikací",
+      "description": "Podíl aplikace ChatGPT na trhu klesl z 69 % na 45 % během roku, zatímco Gemini od Google získává pozice – což může zkomplikovat plánované úvodní veřejné nabídky akcií společnosti OpenAI.",
+      "slug": "chatgpts-market-share-is-slipping-as-google-and-ri",
+      "publishedAt": "2026-02-05T15:54:19+00:00",
+      "date": "2026-02-05 15:54:19",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2225624183-e1770297356782.jpg?resize=1200,600",
+      "url": "/tech-news/2026-02-05/chatgpts-market-share-is-slipping-as-google-and-ri/",
+      "source": {
+        "emoji": "📰",
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "companies": [
+        "Google",
+        "OpenAI"
+      ],
+      "people": []
+    },
     {
       "title": "Trilionový propad technologických akcií zachvátil všechny tituly v cestě umělé inteligence",
       "description": "Akcie softwareových firem prudce klesly, hodnota těch sledovaných v ETF iShares klesla téměř o bilion dolarů za posledních sedm dní.",
