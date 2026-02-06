@@ -1,7 +1,69 @@
 {
-  "generated": "2026-02-06T17:05:09.794799+00:00",
-  "count": 163,
+  "generated": "2026-02-06T20:50:32.890495+00:00",
+  "count": 166,
   "articles": [
+    {
+      "title": "Patent SpaceX zvyšuje efektivitu přímého připojení k mobilním sítím z nízké oběžné dráhy",
+      "description": "SpaceX získal patent na technologii, která řeší klíčový problém signalizace v síti Starlink Direct-to-Cell. Tato inovace umožňuje plynulé připojení miliard stávajících chytrých telefonů k satelitům na nízké oběžné dráhe bez úprav hardwaru nebo speciální SIM karty.",
+      "slug": "spacex-patent-makes-low-earth-orbit-direct-to-cell",
+      "publishedAt": "2026-02-05T19:46:59+00:00",
+      "date": "2026-02-05 19:46:59",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/02/Screenshot-2026-02-05-at-11.39.24-AM.jpg",
+      "url": "/tech-news/2026-02-05/spacex-patent-makes-low-earth-orbit-direct-to-cell/",
+      "source": {
+        "emoji": "📰",
+        "id": "next-big-future",
+        "name": "Next Big Future"
+      },
+      "companies": [
+        "SpaceX",
+        "T-Mobile"
+      ],
+      "people": []
+    },
+    {
+      "title": "Vlajkové lodě Tesly končí: Co kanadští majitelé Modelu S a X potřebují vědět",
+      "description": "Tesla oficiálně ukončuje produkci Modelu S a Modelu X do června 2026 a přestavuje továrnu v Fremontu na výrobu milionů humanoidních robotů Optimus. Elon Musk tento krok označil za 'mírně smutný'.",
+      "slug": "starlink-reveals-canada-is-now-a-top-5-market-as-s",
+      "publishedAt": "2026-02-05T19:23:39+00:00",
+      "date": "2026-02-05 19:23:39",
+      "importance": 5,
+      "category": "satelitní internet",
+      "urlToImage": "https://cdn.iphoneincanada.ca/wp-content/uploads/2025/06/starlink-cell.jpg",
+      "url": "/tech-news/2026-02-05/starlink-reveals-canada-is-now-a-top-5-market-as-s/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "iPhone in Canada"
+      },
+      "companies": [
+        "SpaceX",
+        "Ookla"
+      ],
+      "people": []
+    },
+    {
+      "title": "Argumenty pro rychlý ekonomický šok způsobený AI",
+      "description": "Dr. Alexander Wissner-Gross vysvětluje, proč rychlý pokles nákladů na AI spouští řetězovou reakci, která může zkolabovat nákladovou strukturu celé ekonomiky. Rozhovor prozkoumává koncept ekonomické singularity, rekurzivní sebezlepšení AI a roli regulací jako hlavní brzdy pokroku.",
+      "slug": "arguments-for-rapid-economic-shock-from-ai",
+      "publishedAt": "2026-02-05T18:51:45+00:00",
+      "date": "2026-02-05 18:51:45",
+      "importance": 4,
+      "category": "ekonomika ai",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/02/Screenshot-2026-02-05-at-10.50.29-AM.jpg",
+      "url": "/tech-news/2026-02-05/arguments-for-rapid-economic-shock-from-ai/",
+      "source": {
+        "emoji": "📰",
+        "id": "next-big-future",
+        "name": "Next Big Future"
+      },
+      "companies": [],
+      "people": [
+        "Alexander Wissner-Gross"
+      ]
+    },
     {
       "title": "QuantumScape zahájila pilotní výrobní linku Eagle pro solid-state baterie [Video]",
       "description": "Společnost QuantumScape, specializující se na vývoj solid-state baterií, zahájila v únoru 2026 svou pilotní výrobní linku Eagle. Tato linka umožní výrobu vzorkových článků QSE-5 pro automobilové dodavatele OEM, jako je Volkswagen Group, a položí základy pro budoucí masovou produkci.",
