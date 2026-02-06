@@ -1,7 +1,177 @@
 {
-  "generated": "2026-02-05T20:50:04.230663+00:00",
-  "count": 181,
+  "generated": "2026-02-06T01:32:36.896982+00:00",
+  "count": 189,
   "articles": [
+    {
+      "title": "Alphabet vsadí 185 miliard dolarů na Gemini, agentický obchod a podnikovou umělou inteligenci",
+      "description": "Alphabet oznámil plány na investice v rozsahu 175 až 185 miliard dolarů do kapitálových výdajů v roce 2026 kvůli rostoucí poptávce po výpočetním výkonu pro umělou inteligenci. Tento krok reaguje na omezenou kapacitu v oblastech cloudu, reklamy a podnikového softwaru, přičemž model Gemini se stává klíčovou operační vrstvou.",
+      "slug": "alphabet-bets-185b-on-gemini-agentic-commerce-and-",
+      "publishedAt": "2026-02-05T00:47:32+00:00",
+      "date": "2026-02-05 00:47:32",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/02/Alphabet-Google-Gemini1.jpg",
+      "url": "/tech-news/2026-02-05/alphabet-bets-185b-on-gemini-agentic-commerce-and/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [
+        "Alphabet"
+      ],
+      "people": []
+    },
+    {
+      "title": "Roční příjmy Googlu poprvé překročily 400 miliard dolarů, investice do AI rostou",
+      "description": "Mateřská společnost Alphabet zveřejnila silné finanční výsledky s ročním obratem přes 400 miliard dolarů. Příjmy rostou díky investicím do cloudových služeb s umělou inteligencí, přičemž poptávka po nich převyšuje nabídku.",
+      "slug": "googles-annual-revenue-tops-400-bn-for-first-time-",
+      "publishedAt": "2026-02-05T00:34:27+00:00",
+      "date": "2026-02-05 00:34:27",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2026/02/0f9bacc8c187bd2325fce8db5632264285e5982a.jpg",
+      "url": "/tech-news/2026-02-05/googles-annual-revenue-tops-400-bn-for-first-time/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digital Journal"
+      },
+      "companies": [
+        "Google",
+        "Alphabet"
+      ],
+      "people": []
+    },
+    {
+      "title": "Ciena se vrací do indexu S&P 500 po 17 letech absence",
+      "description": "Ciena předpovídá nejrychlejší růst od roku 2011 v aktuálním fiskálním roce díky své roli v infrastruktuře pro umělou inteligenci. Výrobce optického síťového vybavení nahrazuje v indexu firmu Dayforce.",
+      "slug": "ciena-returns-to-sp-500-after-getting-booted-17-ye",
+      "publishedAt": "2026-02-05T00:07:51+00:00",
+      "date": "2026-02-05 00:07:51",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108261687-1770247972762-gettyimages-170545273-SMITH_CIENA_CORP.jpeg?v=1770248049&w=1920&h=1080",
+      "url": "/tech-news/2026-02-05/ciena-returns-to-sp-500-after-getting-booted-17-ye/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [
+        "Ciena"
+      ],
+      "people": []
+    },
+    {
+      "title": "Manažeři Googlu naznačují, že Siri s podporou Gemini poběží na jejich vlastních serverech",
+      "description": "Během telefonátu o výsledcích Alphabetu za čtvrté čtvrtletí 2025 přidal CEO Sundar Pichai k zmatku ohledně toho, kde přesně poběží nadcházející Siri s podporou modelu Gemini od Googlu.",
+      "slug": "google-execs-suggest-gemini-powered-siri-will-in-f",
+      "publishedAt": "2026-02-05T00:04:40+00:00",
+      "date": "2026-02-05 00:04:40",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/01/apple-intelligence-gemini.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2026-02-05/google-execs-suggest-gemini-powered-siri-will-in-f/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "companies": [
+        "Alphabet",
+        "Google"
+      ],
+      "people": [
+        "Sundar Pichai"
+      ]
+    },
+    {
+      "title": "Sam Altman označil Moltbook za 'módní výstřelek' po bezpečnostním průsaku",
+      "description": "Virální sociální síť určená pro agenty umělé inteligence vyvolala debatu v technologickém sektoru s smíšenými reakcemi lídrů oboru, po bezpečnostní chybě, která odhalila soukromá data uživatelů, podle agentur Reuters a CNBC.",
+      "slug": "sam-altman-calls-moltbook-a-fad-after-security-bre",
+      "publishedAt": "2026-02-04T23:56:53+00:00",
+      "date": "2026-02-04 23:56:53",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://img.digitimes.com/newsshow/20260204vl214_files/2_r.jpg",
+      "url": "/tech-news/2026-02-04/sam-altman-calls-moltbook-a-fad-after-security-bre/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [],
+      "people": [
+        "Sam Altman"
+      ]
+    },
+    {
+      "title": "Musk prý prozkoumává čínský dodavatelský řetězec, zaměřuje se na HJT a perovskitovou solární technologii",
+      "description": "Zdroje z dodavatelského řetězce uvedly, že týmy spojené s Tesla a SpaceX nedávno nenápadně navštívily několik čínských solárních firem. Prohlížely vybavení, křemíkové pláty, články a moduly s důrazem na technologie příští generace, jako je heteropřechodová technologie (HJT) a perovskitové solární buňky.",
+      "slug": "musk-reportedly-scouts-chinas-supply-chain-zeroing",
+      "publishedAt": "2026-02-04T23:54:56+00:00",
+      "date": "2026-02-04 23:54:56",
+      "importance": 4,
+      "category": "fotovoltaika",
+      "urlToImage": "https://img.digitimes.com/newsshow/20260204pd231_files/1_b.jpg",
+      "url": "/tech-news/2026-02-04/musk-reportedly-scouts-chinas-supply-chain-zeroing/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [
+        "Tesla",
+        "SpaceX"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "TSMC CEO oznámil hromadnou výrobu 3nanometrových čipů v Japonsku, investice údajně 17 miliard USD",
+      "description": "TSMC plánuje spustit hromadnou výrobu pokročilých 3nanometrových čipů v japonském Kumamoto, aby uspokojilo rostoucí poptávku po čipech pro umělou inteligenci. Podle místních médií dosáhne investice 17 miliard USD, přičemž firma dosud tyto čipy vyrábí převážně na Tchaj-wanu.",
+      "slug": "tsmc-ceo-flags-3-nanometre-chip-production-in-japa",
+      "publishedAt": "2026-02-04T23:50:00+00:00",
+      "date": "2026-02-04 23:50:00",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--HcJONydl--/c_crop,h_449,w_799,x_1,y_1/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-02-05T032523Z_1_LYNXMPEM1405A_RTROPTP_3_TSMC-JAPAN.JPG?itok=nHno0yOA",
+      "url": "/tech-news/2026-02-04/tsmc-ceo-flags-3-nanometre-chip-production-in-japa/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNA"
+      },
+      "companies": [
+        "TSMC"
+      ],
+      "people": [
+        "CC Wei"
+      ]
+    },
+    {
+      "title": "Alphabet výrazně zvýší výdaje na AI, zatímco Google Cloud a reklamní příjmy vynikají",
+      "description": "Mateřská společnost Google, Alphabet Inc., překonala očekávání při výsledcích za čtvrté čtvrtletí, ale akcie klesly kvůli plánům na zdvojnásobení investic do datových center pro umělou inteligenci. Většina prostředků půjde na výpočetní kapacitu pro Google DeepMind a cloudové zákazníky.",
+      "slug": "alphabet-to-jack-up-ai-spending-as-google-cloud-an",
+      "publishedAt": "2026-02-04T23:32:19+00:00",
+      "date": "2026-02-04 23:32:19",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/googleio2023-pichai-a1.jpg",
+      "url": "/tech-news/2026-02-04/alphabet-to-jack-up-ai-spending-as-google-cloud-an/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Alphabet Inc",
+        "Google LLC"
+      ],
+      "people": []
+    },
     {
       "title": "Generální ředitel Bondu Doron Kempel vystoupí dnes na Fox Business v pořadu The Claman Countdown ve 15:15 východního času",
       "description": "Společnost Bond (NASDAQ: OBAI), tvůrce první platformy pro preventivní osobní bezpečnost poháněné AI, oznámila účast svého zakladatele a CEO Dorona Kempela v živém vysílání na Fox Business. Firma slaví přímé listování na Nasdaq a podporu přes 1,4 milionu bezpečnostních požadavků.",
