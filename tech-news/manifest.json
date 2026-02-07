@@ -1,7 +1,71 @@
 {
-  "generated": "2026-02-06T20:50:32.890495+00:00",
-  "count": 166,
+  "generated": "2026-02-07T01:28:46.280528+00:00",
+  "count": 169,
   "articles": [
+    {
+      "title": "Agenti přicházejí a indické IT spěchá jim naproti",
+      "description": "Společnosti jako Cognizant, Infosys, HCLTech a Wipro urychleně přijímají AI agenty kvůli rostoucímu konkurenčnímu tlaku od firem jako Anthropic a Palantir, které vyvíjejí nástroje ohrožující jejich tradiční příjmové proudy.",
+      "slug": "agents-are-coming-and-indias-it-is-rushing-to-meet",
+      "publishedAt": "2026-02-06T00:30:56+00:00",
+      "date": "2026-02-06 00:30:56",
+      "importance": 4,
+      "category": "ai agenti",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2026/02/05/1600x900/logo/2-0-1248136665-hires1-0_1679614153162_1770279326473.jpg",
+      "url": "/tech-news/2026-02-06/agents-are-coming-and-indias-it-is-rushing-to-meet/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Livemint"
+      },
+      "companies": [
+        "Cognizant",
+        "Infosys",
+        "HCLTech",
+        "Wipro",
+        "Anthropic"
+      ],
+      "people": []
+    },
+    {
+      "title": "Přebírají roboti kontrolu?",
+      "description": "Allison Okamura o roli robotiky v nově vznikajících technologiích. Diskuse o pokrocích v humanoidních robotech, autonomních systémech a výzvách v tréninku robotů.",
+      "slug": "the-robots-are-taking-over",
+      "publishedAt": "2026-02-06T00:00:00+00:00",
+      "date": "2026-02-06 00:00:00",
+      "importance": 5,
+      "category": "robotika",
+      "urlToImage": "https://www.hoover.org/sites/default/files/styles/facebook/public/2026-02/Matters-of-Policy-Politics1700pxproductimage_2-5.jpg?h=b8a17b70&itok=GdJPIgDB",
+      "url": "/tech-news/2026-02-06/the-robots-are-taking-over/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Hoover.org"
+      },
+      "companies": [],
+      "people": [
+        "Allison Okamura"
+      ]
+    },
+    {
+      "title": "Elon Musk popisuje emulované lidi a umělou inteligenci ve vesmíru",
+      "description": "Elon Musk diskutuje slévání AI, robotiky, energie a vesmírných technologií jako klíčové pro budoucnost lidstva. Identifikuje úzká hrdla v energii, čipech a výrobě a předpovídá, že orbitální datová centra se stanou nejlevnější a nejškálovatelnější infrastrukturou pro AI do 30-36 měsíců.",
+      "slug": "elon-musk-describes-emulated-humans-and-ai-in-spac",
+      "publishedAt": "2026-02-05T23:58:24+00:00",
+      "date": "2026-02-05 23:58:24",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/02/Screenshot-2026-02-05-at-3.57.31-PM.jpg",
+      "url": "/tech-news/2026-02-05/elon-musk-describes-emulated-humans-and-ai-in-spac/",
+      "source": {
+        "emoji": "📰",
+        "id": "next-big-future",
+        "name": "Next Big Future"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk"
+      ]
+    },
     {
       "title": "Patent SpaceX zvyšuje efektivitu přímého připojení k mobilním sítím z nízké oběžné dráhy",
       "description": "SpaceX získal patent na technologii, která řeší klíčový problém signalizace v síti Starlink Direct-to-Cell. Tato inovace umožňuje plynulé připojení miliard stávajících chytrých telefonů k satelitům na nízké oběžné dráhe bez úprav hardwaru nebo speciální SIM karty.",
