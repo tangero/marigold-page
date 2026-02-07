@@ -1,7 +1,89 @@
 {
-  "generated": "2026-02-07T05:24:44.304659+00:00",
-  "count": 158,
+  "generated": "2026-02-07T08:44:11.711165+00:00",
+  "count": 162,
   "articles": [
+    {
+      "title": "Co přijde dál: TBD | Technologie, moc a budoucnost - Elon 3.0",
+      "description": "Elon Musk ukončuje výrobu ikonických modelů Tesla, plánuje zavedení SpaceX na burzu a posiluje investice do umělé inteligence a robotiky. V podcastu se diskutuje, zda v nové fázi své kariéry zkrotí své excesy, a v Plus segmentu se dotýká i jeho zmínky v Epsteinových souborech.",
+      "slug": "what-next-tbd-tech-power-and-the-future-elon-30",
+      "publishedAt": "2026-02-06T08:00:00+00:00",
+      "date": "2026-02-06 08:00:00",
+      "importance": 4,
+      "category": "elon musk",
+      "urlToImage": "https://open-images.acast.com/shows/69612d9223ce58f14619a8f6/1770331362095-bfc925b1-587c-4f70-9ca4-f71dc35cc2b0.jpeg?height=315",
+      "url": "/tech-news/2026-02-06/what-next-tbd-tech-power-and-the-future-elon-30/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Acast.com"
+      },
+      "companies": [
+        "Tesla",
+        "SpaceX"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "LG Energy Solution získá plné vlastnictví NextStar Energy v společném strategickém rozhodnutí se Stellantis",
+      "description": "LG Energy Solution přebere plné vlastnictví kanadské společnosti NextStar Energy tím, že od Stellantis koupí 49procentní podíl. Tento krok posílí technologickou expertizu a růst továrny na baterie v kanadském Windsoru.",
+      "slug": "lg-energy-solution-to-acquire-full-ownership-of-ne",
+      "publishedAt": "2026-02-06T07:19:00+00:00",
+      "date": "2026-02-06 07:19:00",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/c44b1e4d-3fdd-4335-ac5e-8e83f0c963cb",
+      "url": "/tech-news/2026-02-06/lg-energy-solution-to-acquire-full-ownership-of-ne/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [
+        "LG Energy Solution",
+        "NextStar Energy"
+      ],
+      "people": []
+    },
+    {
+      "title": "Decentralizační triáda: Jak bateriová technologie, robotika a lokální AI přinesou nezávislost",
+      "description": "Centralizované systémy jako elektrická síť nebo velké technologické firmy omezují autonomii uživatelů. Článek popisuje konvergenci tří technologií – pokročilého bateriového úložiště, humanoidní robotiky a lokálně běžící umělé inteligence – které umožňují úplnou decentralizaci.",
+      "slug": "the-decentralization-trifecta-how-battery-tech-rob",
+      "publishedAt": "2026-02-06T06:00:00+00:00",
+      "date": "2026-02-06 06:00:00",
+      "importance": 5,
+      "category": "decentralizace",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/02/decentralization-battery-technology-robotics-197-original.jpg",
+      "url": "/tech-news/2026-02-06/the-decentralization-trifecta-how-battery-tech-rob/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Plány NVIDIA na novou generaci GPU se zadrhávají kvůli nedostatku HBM – ceny výpočetní techniky porostou",
+      "description": "Nedostatek vysoce výkonné paměti HBM způsobuje zpoždění v časové ose nových grafických procesorů NVIDIA a ovlivňuje dodávky pro data centra, počítače i chytré telefony. To vede k očekávanému růstu cen v celém technologickém sektoru.",
+      "slug": "nvidias-next-gen-gpu-timeline-unravels-due-to-crit",
+      "publishedAt": "2026-02-06T06:00:00+00:00",
+      "date": "2026-02-06 06:00:00",
+      "importance": 4,
+      "category": "hardware",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/02/Nvidia-Building-Logo.jpg",
+      "url": "/tech-news/2026-02-06/nvidias-next-gen-gpu-timeline-unravels-due-to-crit/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "companies": [
+        "NVIDIA"
+      ],
+      "people": []
+    },
     {
       "title": "MicroStrategy plánuje spustit program pro bezpečnost Bitcoinu proti hrozbám z kvantových počítačů",
       "description": "MicroStrategy zamýšlí spustit program pro bezpečnost Bitcoinu, který se zaměří na hrozby z kvantových počítačů a další budoucí zranitelnosti. Iniciativa zdůrazňuje potřebu proaktivních opatření v kryptoměnovém průmyslu k ochraně před technologickými riziky.",
