@@ -1,7 +1,47 @@
 {
-  "generated": "2026-02-07T12:46:40.240692+00:00",
-  "count": 166,
+  "generated": "2026-02-07T16:42:05.771348+00:00",
+  "count": 168,
   "articles": [
+    {
+      "title": "Goldman Sachs nasazuje Claude AI pro účetnictví obchodů, dodržování předpisů a onboarding – Začala nová éra investičního bankovnictví, kdy Anthropic pohání klíčové operace?",
+      "description": "Po šesti měsících interního vývoje nasazuje Goldman Sachs autonomní AI agenty poháněné Anthropic Claude Opus 4.6 pro zpracování účetnictví obchodů, dodržování předpisů a onboarding klientů. CIO Marco Argenti potvrzuje posun od kódovací pomoci k složitým logickým finančním úkolům.",
+      "slug": "goldman-sachs-deploys-claude-ai-for-trade-accounti",
+      "publishedAt": "2026-02-06T16:14:36+00:00",
+      "date": "2026-02-06 16:14:36",
+      "importance": 4,
+      "category": "fintech",
+      "urlToImage": "https://img.etimg.com/thumb/msid-127998284,width-1200,height-630,imgsize-65870,overlay-economictimes/articleshow.jpg",
+      "url": "/tech-news/2026-02-06/goldman-sachs-deploys-claude-ai-for-trade-accounti/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": [
+        "Marco Argenti"
+      ]
+    },
+    {
+      "title": "3 způsoby, jak NVFP4 zrychluje trénink a inference umělé inteligence",
+      "description": "Nejnovější modely umělé inteligence rostou na velikosti a složitosti, což vyžaduje čím dál větší výpočetní výkon pro trénink a inference, který překračuje možnosti Mooreova zákona. NVIDIA vyvinula formát NVFP4 pro své GPU Blackwell, který přináší výhody 4bitové plovoucí čárkové přesnosti při zachování vysoké úrovně přesnosti.",
+      "slug": "A-3-ways-nvfp4-accelerates-ai-training-and-inferen",
+      "publishedAt": "2026-02-06T16:01:08+00:00",
+      "date": "2026-02-06 16:01:08",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/02/image1-1.png",
+      "url": "/tech-news/2026-02-06/A-3-ways-nvfp4-accelerates-ai-training-and-inferen/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Nvidia.com"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Asijská státem podporovaná skupina TGR-STA-1030 prolomila sítě 70 vlád a infrastrukturních subjektů",
       "description": "Dosud nedokumentovaná kyberšpionážní skupina z Asie, pravděpodobně podporovaná státem, infiltrovala sítě nejméně 70 vládních a kritické infrastruktury organizací ve 37 zemích během posledního roku. Zjištění pocházejí z analýzy Palo Alto Networks Unit 42, která zdůrazňuje potřebu modelu Zero Trust a integrace AI v obraně.",
