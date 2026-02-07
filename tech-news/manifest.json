@@ -1,7 +1,195 @@
 {
-  "generated": "2026-02-07T01:28:46.280528+00:00",
-  "count": 169,
+  "generated": "2026-02-07T05:24:44.304659+00:00",
+  "count": 158,
   "articles": [
+    {
+      "title": "MicroStrategy plánuje spustit program pro bezpečnost Bitcoinu proti hrozbám z kvantových počítačů",
+      "description": "MicroStrategy zamýšlí spustit program pro bezpečnost Bitcoinu, který se zaměří na hrozby z kvantových počítačů a další budoucí zranitelnosti. Iniciativa zdůrazňuje potřebu proaktivních opatření v kryptoměnovém průmyslu k ochraně před technologickými riziky.",
+      "slug": "strategy-plans-to-launch-bitcoin-security-program-",
+      "publishedAt": "2026-02-06T04:38:06+00:00",
+      "date": "2026-02-06 04:38:06",
+      "importance": 4,
+      "category": "kryptoměny",
+      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/02/05233638/45b56501-ed84-4522-9fa8-504954ea1272-800x420.jpg",
+      "url": "/tech-news/2026-02-06/strategy-plans-to-launch-bitcoin-security-program/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Crypto Briefing"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Jak byl fúzní deal SpaceX a xAI za 1,25 bilionu dolarů urychlen po technickém průlomu SpaceX v orbitálních datových centrech minulé podzimy (Wall Street Journal)",
+      "description": "Wall Street Journal popisuje urychlenou fúzi SpaceX a xAI za 1,25 bilionu dolarů, která následovala po technickém průlomu SpaceX v orbitálních datových centrech. Dohoda vychází z kombinace satelitních technologií SpaceX a AI technologií xAI.",
+      "slug": "how-the-spacex-xai-125t-merger-deal-was-fast-track",
+      "publishedAt": "2026-02-06T04:25:00+00:00",
+      "date": "2026-02-06 04:25:00",
+      "importance": 5,
+      "category": "kosmonautika",
+      "urlToImage": "https://images.wsj.net/im-15189627/social",
+      "url": "/tech-news/2026-02-06/how-the-spacex-xai-125t-merger-deal-was-fast-track/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Techmeme.com"
+      },
+      "companies": [
+        "SpaceX",
+        "xAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Strach z AI sužuje akcie software firem: Nelogická panika nebo apokalypsa SaaS?",
+      "description": "Software sektor čelí vážným tržním obavám po vydání nových AI nástrojů od Anthropic, což spustilo výprodej akcií SaaS a datových firem. Investoři přehodnocují, které software společnosti dokážou koexistovat s AI dlouhodobě.",
+      "slug": "ai-fears-pummel-software-stocks-is-it-illogical-pa",
+      "publishedAt": "2026-02-06T04:22:18+00:00",
+      "date": "2026-02-06 04:22:18",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107431256-1718898592166-gettyimages-1737213579-PGONCHAR_4313.jpeg?v=1770350660&w=1920&h=1080",
+      "url": "/tech-news/2026-02-06/ai-fears-pummel-software-stocks-is-it-illogical-pa/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Jak nový nástroj Anthropic může ovlivnit IT práce? Zakladatel Zoho Sridhar Vembu varuje s reálným příkladem",
+      "description": "Zakladatel firmy Zoho Sridhar Vembu varuje programátory před dopadem pokročilých AI nástrojů na jejich profesi a uvádí příklady jako aplikace Bhagavad Gita postavená bez ručního kódu či kompilátor C vytvořený modelem Claude od Anthropic.",
+      "slug": "how-anthropic-new-ai-tool-could-impact-it-jobs-zoh",
+      "publishedAt": "2026-02-06T04:20:29+00:00",
+      "date": "2026-02-06 04:20:29",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://img.etimg.com/thumb/msid-127969002,width-1200,height-630,imgsize-34282,overlay-etpanache/articleshow.jpg",
+      "url": "/tech-news/2026-02-06/how-anthropic-new-ai-tool-could-impact-it-jobs-zoh/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Anthropic",
+        "Zoho"
+      ],
+      "people": [
+        "Sridhar Vembu",
+        "Anish Moonka"
+      ]
+    },
+    {
+      "title": "ISRO míří na obsazené mise Chandrayaan do roku 2028, Gaganyaan na rok 2027",
+      "description": "Předseda ISRO V. Narayanan oznámil, že Indie pracuje na programu Gaganyaan s posádkou pro rok 2027, před kterým proběhnou tři nepilotované mise. Obsazené mise Chandrayaan-4 a Chandrayaan-5 by měly následovat v roce 2028, pokud práce postoupí podle plánu.",
+      "slug": "isro-targets-crewed-chandrayaan-missions-by-2028-g",
+      "publishedAt": "2026-02-06T03:32:53+00:00",
+      "date": "2026-02-06 03:32:53",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://img.etimg.com/thumb/msid-127967568,width-1200,height-630,imgsize-23426,overlay-economictimes/articleshow.jpg",
+      "url": "/tech-news/2026-02-06/isro-targets-crewed-chandrayaan-missions-by-2028-g/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "ISRO"
+      ],
+      "people": [
+        "V Narayanan"
+      ]
+    },
+    {
+      "title": "AI roboti vytvářejí náboženství, obchodují s digitálními drogami... | Jsou ale někteří lidmi v převleku?",
+      "description": "Během několika dní po spuštění platformy Moltbook si AI agenti vytvořili vlastní náboženství, ekonomiky, vlády a subkultury bez lidského zásahu.",
+      "slug": "ai-bots-creating-religions-dealing-digital-drugs-b",
+      "publishedAt": "2026-02-06T03:00:17+00:00",
+      "date": "2026-02-06 03:00:17",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://studyfinds.org/wp-content/uploads/2025/04/Robot-hands-typing-scaled.jpg",
+      "url": "/tech-news/2026-02-06/ai-bots-creating-religions-dealing-digital-drugs-b/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Study Finds"
+      },
+      "companies": [
+        "Moltbook"
+      ],
+      "people": []
+    },
+    {
+      "title": "SpaceX je hodnotnější než Tesla",
+      "description": "Tržní kapitalizace Tesly klesla na 1,24 bilionu dolarů. Po akvizici společnosti xAI společností SpaceX dosáhla valuace SpaceX hodnoty 1,25 bilionu dolarů.",
+      "slug": "spacex-is-worth-more-than-tesla",
+      "publishedAt": "2026-02-06T02:37:53+00:00",
+      "date": "2026-02-06 02:37:53",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/02/Screenshot-2026-02-05-at-5.56.56-PM.jpg",
+      "url": "/tech-news/2026-02-06/spacex-is-worth-more-than-tesla/",
+      "source": {
+        "emoji": "📰",
+        "id": "next-big-future",
+        "name": "Next Big Future"
+      },
+      "companies": [
+        "SpaceX",
+        "Tesla",
+        "XAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Anthropic představil nový model umělé inteligence Claude Opus 4.6, rivalita s OpenAI sílí",
+      "description": "Společnost Anthropic ve čtvrtek vydala svůj nejnovější vysoce výkonný model umělé inteligence Claude Opus 4.6, čímž eskaluje soutěž s OpenAI. OpenAI na to reagovalo vydáním platformy Frontier pro podnikové AI agenty.",
+      "slug": "anthropic-unveils-new-ai-model-claude-opus-46-as-o",
+      "publishedAt": "2026-02-06T02:17:42+00:00",
+      "date": "2026-02-06 02:17:42",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-62534,resizemode-75,msid-127964978/tech/artificial-intelligence/anthropic-unveils-new-ai-model-claude-opus-4-6-as-openai-rivalry-heats-up.jpg",
+      "url": "/tech-news/2026-02-06/anthropic-unveils-new-ai-model-claude-opus-46-as-o/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Anthropic",
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Elon Musk vyvolává nedůvěru nečekaným oznámením o dlouho očekávané technologii Tesly: 'Tohle se nezdá být řešením'",
+      "description": "S velkým zrnkem soli. Oznámení o téměř dokončeném čipu AI5 pro autonomní řízení a roboty Optimus narazilo na skeptický přijetí kvůli opakovaným zpožděním.",
+      "slug": "elon-musk-raises-eyebrows-with-unexpected-announce",
+      "publishedAt": "2026-02-06T02:00:00+00:00",
+      "date": "2026-02-06 02:00:00",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/dRRIGc9QcKojQCa2w4PCxg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/the_cool_down_737/cb1982491476b472362f6bdfaf6514fc",
+      "url": "/tech-news/2026-02-06/elon-musk-raises-eyebrows-with-unexpected-announce/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "Tesla"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
     {
       "title": "Agenti přicházejí a indické IT spěchá jim naproti",
       "description": "Společnosti jako Cognizant, Infosys, HCLTech a Wipro urychleně přijímají AI agenty kvůli rostoucímu konkurenčnímu tlaku od firem jako Anthropic a Palantir, které vyvíjejí nástroje ohrožující jejich tradiční příjmové proudy.",
@@ -3102,421 +3290,6 @@
         "Google"
       ],
       "people": []
-    },
-    {
-      "title": "Rozšiřující se povrch kyberútoků díky AI agentům, modelům a nepřátelským státům vyvolává nová varování",
-      "description": "Rychlý rozvoj umělé inteligence zvyšuje obavy o bezpečnost její infrastruktury, zejména kvůli AI agentům, kteří rozšiřují povrch útoků. Experti upozorňují na rizika spojená s protokoly jako MCP a možnými zneužitími ze strany států jako Čína.",
-      "slug": "expanding-cyberattack-surface-from-ai-agents-model",
-      "publishedAt": "2026-01-31T19:52:49+00:00",
-      "date": "2026-01-31 19:52:49",
-      "importance": 5,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/ChatGPT-Image-Jan-30-2026-04_32_48-PM.png",
-      "url": "/tech-news/2026-01-31/expanding-cyberattack-surface-from-ai-agents-model/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Večeře NVIDIA v hodnotě „bilionu dolarů“ s taiwanskými partnery ukazuje, proč Jensen Huang zůstane o krok napřed v dodavatelském řetězci AI",
-      "description": "Generální ředitel NVIDIA Jensen Huang uspořádal večeři s vrcholovými manažery taiwanského dodavatelského řetězce, včetně šéfa TSMC. Tato setkání podtrhují blízké vazby NVIDIA, které jí umožňují odolávat nedostatkům čipů, pamětí DRAM a NAND i pokročilému balení díky vertikální integraci dodavatelů.",
-      "slug": "nvidias-trillion-dollar-dinner-with-taiwanese-part",
-      "publishedAt": "2026-01-31T18:07:55+00:00",
-      "date": "2026-01-31 18:07:55",
-      "importance": 4,
-      "category": "dodavatelský řetězec",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/01/2026_01_31_403ea2673537482d97b1dcd9faec943c-1.jpg",
-      "url": "/tech-news/2026-01-31/nvidias-trillion-dollar-dinner-with-taiwanese-part/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Wccftech"
-      },
-      "companies": [
-        "NVIDIA"
-      ],
-      "people": [
-        "Jensen Huang"
-      ]
-    },
-    {
-      "title": "CoreWeave ukazuje, jak infrastruktura z éry kryptoměn tiše stala páteří AI",
-      "description": "Společnost CoreWeave, původně provozovatel těžby kryptoměn, se přeorientovala na poskytování výpočetní infrastruktury pro AI a stala se jedním z největších nezávislých operátorů GPU mimo hlavní cloudové poskytovatele. Tento posun odhaluje širší trend, kdy hardware z kryptotěžby slouží k tréninku AI modelů, což mění ekonomiku datových center.",
-      "slug": "coreweave-shows-how-crypto-era-infrastructure-quie",
-      "publishedAt": "2026-01-31T18:04:41+00:00",
-      "date": "2026-01-31 18:04:41",
-      "importance": 4,
-      "category": "ai infrastruktura",
-      "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-01/019c14ef-a7bd-7a12-b26b-3ab3b1eba4d9.jpg",
-      "url": "/tech-news/2026-01-31/coreweave-shows-how-crypto-era-infrastructure-quie/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Cointelegraph"
-      },
-      "companies": [
-        "CoreWeave"
-      ],
-      "people": []
-    },
-    {
-      "title": "USA odsoudily bývalého inženýra Google za předávání dat o AI technologiích do Číny",
-      "description": "Federální porota v USA odsoudila Linwei Dinga, bývalého softwarového inženýra Google, za krádež vysoce citlivých dat o infrastruktuře superpočítačů pro AI a jejich tajné předání čínským technologickým firmám.",
-      "slug": "us-convicts-ex-google-engineer-for-sending-ai-tech",
-      "publishedAt": "2026-01-31T17:33:42+00:00",
-      "date": "2026-01-31 17:33:42",
-      "importance": 4,
-      "category": "kyberšpionáž",
-      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2024/06/24/justice-2.jpg",
-      "url": "/tech-news/2026-01-31/us-convicts-ex-google-engineer-for-sending-ai-tech/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BleepingComputer"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Mobilní operátoři mohou získat vaši GPS polohu",
-      "description": "V iOS 26.3 Apple představil novou funkci soukromí, která omezuje data „přesné polohy“ poskytovaná mobilním sítím přes věžové stanice. Funkce je dostupná pouze na zařízeních s vlastním Apple modemem z roku 2025.",
-      "slug": "mobile-carriers-can-get-your-gps-location",
-      "publishedAt": "2026-01-31T17:21:34+00:00",
-      "date": "2026-01-31 17:21:34",
-      "importance": 4,
-      "category": "soukromí polohy",
-      "urlToImage": null,
-      "url": "/tech-news/2026-01-31/mobile-carriers-can-get-your-gps-location/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Dywa.ng"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
-      "title": "Když se agentické systémy umělé inteligence dostanou do špatných rukou",
-      "description": "Agentická umělá inteligence mění každodenní život, ale její autonomie přináší naléhavá rizika pro soukromí, bezpečnost a etiku. Systémy schopné autonomního rozhodování zpracovávají citlivá data, což je činí atraktivním cílem pro zneužití.",
-      "slug": "when-agentic-ai-systems-fall-into-the-wrong-hands",
-      "publishedAt": "2026-01-31T14:00:00+00:00",
-      "date": "2026-01-31 14:00:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/LJ7xXkLMRdgVo8vT4Ccgrb-2560-80.jpg",
-      "url": "/tech-news/2026-01-31/when-agentic-ai-systems-fall-into-the-wrong-hands/",
-      "source": {
-        "emoji": "📰",
-        "id": "techradar",
-        "name": "TechRadar"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Hlavní zprávy: Apple Creator Studio, AirTag 2 a další",
-      "description": "Tento týden Apple uvedlo první významné produkty roku 2026, včetně balíčku aplikací Creator Studio a druhé generace AirTagu. Objevily se také zvěsti o aktualizacích Maců, personalizované Siri a významné akvizici.",
-      "slug": "top-stories-apple-creator-studio-airtag-2-and-more",
-      "publishedAt": "2026-01-31T14:00:00+00:00",
-      "date": "2026-01-31 14:00:00",
-      "importance": 4,
-      "category": "apple novinky",
-      "urlToImage": "https://images.macrumors.com/t/p4wfwlhm98_LrQNp0NryalSi3gg=/1600x/article-new/2026/01/top-stories-2026-01-31.jpg",
-      "url": "/tech-news/2026-01-31/top-stories-apple-creator-studio-airtag-2-and-more/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "MacRumors"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
-      "title": "NASA povolala Claude k navržení trasy pro rover Perseverance na Marsu",
-      "description": "Model umělé inteligence Claude od Anthropic analyzoval orbitální snímky a data o svazích, aby navrhl trasu pro rover Perseverance. Rover podle ní ujel 400 metrů na povrchu Marsu s schválením inženýrů z Jet Propulsion Laboratory.",
-      "slug": "nasa-taps-claude-to-conjure-mars-rovers-travel-pla",
-      "publishedAt": "2026-01-31T13:13:05+00:00",
-      "date": "2026-01-31 13:13:05",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://regmedia.co.uk/2021/03/12/perseverance.jpg",
-      "url": "/tech-news/2026-01-31/nasa-taps-claude-to-conjure-mars-rovers-travel-pla/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "companies": [
-        "Anthropic",
-        "NASA"
-      ],
-      "people": []
-    },
-    {
-      "title": "Chrome s Gemini nyní zpracovává formuláře, plánuje cesty a naviguje v aplikacích, zatímco se vy soustředíte na podstatné",
-      "description": "Integrace modelu Gemini 3 AI do prohlížeče Chrome umožňuje automatizaci složitých úkolů, jako je vyplňování formulářů, plánování cest nebo navigace v aplikacích. Tato agentická umělá inteligence interaguje s webovými stránkami podobně jako člověk a zpracovává vizuální data pro vyšší produktivitu.",
-      "slug": "chrome-with-gemini-now-handles-forms-plans-trips-a",
-      "publishedAt": "2026-01-31T13:00:39+00:00",
-      "date": "2026-01-31 13:00:39",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/01/visual-reasoning-upgrade-chrome-ai_optimized.jpg",
-      "url": "/tech-news/2026-01-31/chrome-with-gemini-now-handles-forms-plans-trips-a/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "TD Cowen snížil hodnocení SkyWater Technology (SKYT) na Držet po dohodě s IonQ",
-      "description": "Analytici TD Cowen snížili hodnocení akcií SkyWater Technology z Nákup na Držet a zvýšili cílovou cenu na 35 USD po oznámení akvizice firmou IonQ za stejnou hodnotu na akcii, což celkově činí přibližně 1,88 miliardy USD. Podobný krok podnikla i firma Craig-Hallum.",
-      "slug": "td-cowen-downgrades-skywater-technology-inc-skyt-t",
-      "publishedAt": "2026-01-31T13:00:35+00:00",
-      "date": "2026-01-31 13:00:35",
-      "importance": 5,
-      "category": "polovodiče",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/pwnyqpeQFB8IeP4csFAaJA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/2bdd57cc5c2e6a8b38233389d9ea67fb",
-      "url": "/tech-news/2026-01-31/td-cowen-downgrades-skywater-technology-inc-skyt-t/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [
-        "SkyWater Technology",
-        "IonQ"
-      ],
-      "people": []
-    },
-    {
-      "title": "Dohoda NVIDIA s OpenAI za 100 miliard dolarů je v ohrožení: Jensen Huang kritizuje nedostatek disciplíny a rivalové jako Anthropic a Google se zlepšují",
-      "description": "NVIDIA ještě neuzavřela svou největší investici do OpenAI v hodnotě 100 miliard dolarů na dodávku výpočetního výkonu multi-GW. CEO Jensen Huang soukromě kritizuje byznysový přístup OpenAI za nedostatek disciplíny, zatímco konkurenti jako Anthropic a Google posilují své pozice.",
-      "slug": "nvidias-100-billion-mega-deal-with-openai-is-in-da",
-      "publishedAt": "2026-01-31T09:53:29+00:00",
-      "date": "2026-01-31 09:53:29",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://wccftech.com/wp-content/uploads/2026/01/Nvidia-CEO-Jensen-Huang-complains-about-stock-price-slide-during-all-hands-meeting-—-says-market-did-not-appreciate-companys-incredible-quarter-updated-with-Nvidia-comment-Toms-Hardware192.jpg",
-      "url": "/tech-news/2026-01-31/nvidias-100-billion-mega-deal-with-openai-is-in-da/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Wccftech"
-      },
-      "companies": [
-        "NVIDIA",
-        "OpenAI"
-      ],
-      "people": [
-        "Jensen Huang"
-      ]
-    },
-    {
-      "title": "Bývalý inženýr Google odsouzen za ekonomickou špionáž a krádež důvěrných AI technologií",
-      "description": "Federální porota v San Franciscu odsoudila bývalého softwarového inženýra Google Linwei Dinga ze sedmi obvinění z ekonomické špionáže a sedmi z krádeže obchodních tajemství. Ding ukradl tisíce stránek důvěrných informací o AI technologiích Google ve prospěch Čínské lidové republiky.",
-      "slug": "former-google-engineer-found-guilty-of-economic-es",
-      "publishedAt": "2026-01-31T08:34:40+00:00",
-      "date": "2026-01-31 08:34:40",
-      "importance": 5,
-      "category": "ai",
-      "urlToImage": null,
-      "url": "/tech-news/2026-01-31/former-google-engineer-found-guilty-of-economic-es/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Globalsecurity.org"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "SpaceX žádá FCC o povolení k 1 milionu AI satelitů ve vesmíru",
-      "description": "Společnost SpaceX podala žádost americkému regulačnímu orgánu FCC na výstavbu orbitálních datových center s až 1 milionem satelitů určených pro AI inference. Projekt je označen jako první krok k vytvoření Kardashevovy civilizace typu 2, která by využívala veškerou energii Slunce.",
-      "slug": "spacex-applies-to-fcc-for-1-million-ai-satellites-",
-      "publishedAt": "2026-01-31T05:54:00+00:00",
-      "date": "2026-01-31 05:54:00",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2025/10/starlinkv3.jpg",
-      "url": "/tech-news/2026-01-31/spacex-applies-to-fcc-for-1-million-ai-satellites/",
-      "source": {
-        "emoji": "📰",
-        "id": "next-big-future",
-        "name": "Next Big Future"
-      },
-      "companies": [
-        "SpaceX"
-      ],
-      "people": [
-        "Kardashev"
-      ]
-    },
-    {
-      "title": "Smlouva o volném obchodu Indie a EU staví „obousměrný most“ pro inovace: francouzský velvyslanec v USA Laurent Bili",
-      "description": "Laurent Bili, francouzský velvyslanec ve Spojených státech, na setkání uvedl, že smlouva o volném obchodu posiluje spolupráci mezi Evropou a Indií v klíčových sektorech včetně inovací a technologií.",
-      "slug": "india-eu-fta-builds-two-way-bridge-for-innovation-",
-      "publishedAt": "2026-01-31T03:55:50+00:00",
-      "date": "2026-01-31 03:55:50",
-      "importance": 4,
-      "category": "volný obchod",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/e88llv/article70573085.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_KSL_U153MENSK_R1522080312_7_8435e6a5-8b34-44c1-9e41-6634e9a7d3ef.jpg",
-      "url": "/tech-news/2026-01-31/india-eu-fta-builds-two-way-bridge-for-innovation/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Bývalý inženýr Google odsouzen v případu špionáže s umělou inteligencí",
-      "description": "Federální porota v San Franciscu uznala bývalého softwarového inženýra Google Linwei Dinga vinným z krádeže citlivých obchodních tajemství o umělé inteligencí ve prospěch Číny. Jedná se o první odsouzení za ekonomickou špionáž související s AI, což podtrhuje rostoucí napětí v globálním závodě o technologii AI.",
-      "slug": "former-google-engineer-convicted-in-ai-espionage-c",
-      "publishedAt": "2026-01-31T03:48:31+00:00",
-      "date": "2026-01-31 03:48:31",
-      "importance": 4,
-      "category": "ai špionáž",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-35046,resizemode-75,msid-127813540/tech/technology/former-google-engineer-convicted-in-ai-espionage-case.jpg",
-      "url": "/tech-news/2026-01-31/former-google-engineer-convicted-in-ai-espionage-c/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Faraday Future i Tesla plánují rozjezd výroby robotů",
-      "description": "Dva kalifornští výrobci automobilů, jeden obří a jeden malý, se obracejí k výrobě robotů ve svých kalifornských závodech, jak oznámili v posledních dnech. Tesla cílí na masovou produkci humanoidního robota Optimus v továrně v Fremontu.",
-      "slug": "faraday-future-tesla-each-plan-robot-rollout-john-",
-      "publishedAt": "2026-01-31T03:46:00+00:00",
-      "date": "2026-01-31 03:46:00",
-      "importance": 5,
-      "category": "robotika",
-      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/hanfordsentinel.com/content/tncms/assets/v3/editorial/6/ba/6bab07f6-2903-4eb8-8f4c-731aabbd0345/697d4a65cfc04.preview.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
-      "url": "/tech-news/2026-01-31/faraday-future-tesla-each-plan-robot-rollout-john/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Hanfordsentinel.com"
-      },
-      "companies": [
-        "Faraday Future",
-        "Tesla"
-      ],
-      "people": []
-    },
-    {
-      "title": "Anthropic představuje pluginy pro Claude Cowork k automatizaci více úkolů",
-      "description": "Společnost Anthropic PBC dnes vydala aktualizaci pro nástroj Claude Cowork, která uživatelům umožňuje rozšířit jeho funkce vlastními pluginy. Claude Cowork slouží k automatizaci vícekrokových úkolů v souborech a prohlížeči, například k sumarizaci nově stažených obchodních dokumentů.",
-      "slug": "anthropic-debuts-claude-cowork-plugins-to-help-use",
-      "publishedAt": "2026-01-31T01:53:15+00:00",
-      "date": "2026-01-31 01:53:15",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/01/Anthropic1.png",
-      "url": "/tech-news/2026-01-31/anthropic-debuts-claude-cowork-plugins-to-help-use/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Anthropic"
-      ],
-      "people": []
-    },
-    {
-      "title": "SpaceX údajně zvažuje fúzi s Tesla nebo xAI",
-      "description": "SpaceX zvažuje možnou fúzi s Tesla nebo xAI podle zdrojů obeznámených se situací. Bloomberg Technology analyzuje, co by konsolidace impéria Elona Muska znamenala pro technologie a trh.",
-      "slug": "spacex-said-to-consider-merger-with-tesla-or-xai-4",
-      "publishedAt": "2026-01-31T01:48:12+00:00",
-      "date": "2026-01-31 01:48:12",
-      "importance": 4,
-      "category": "fúze firem",
-      "urlToImage": null,
-      "url": "/tech-news/2026-01-31/spacex-said-to-consider-merger-with-tesla-or-xai-4/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Freerepublic.com"
-      },
-      "companies": [
-        "SpaceX",
-        "Tesla",
-        "xAI"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Spojení SpaceX s xAI může být pro Muska jednoduché, Tesla však ne",
-      "description": "Elon Musk a jeho fanoušci dlouho diskutují o sloučení jeho firem do jediného konglomerátu Musk Inc. SpaceX se podle zpráv blíží k akvizici xAI, což by umožnilo datová centra ve vesmíru, zatímco spojení se Teslou by vyžadovalo schválení akcionářů a čelilo by větším překážkám.",
-      "slug": "combining-spacex-with-xai-may-be-simple-for-musk-b",
-      "publishedAt": "2026-01-31T01:42:34+00:00",
-      "date": "2026-01-31 01:42:34",
-      "importance": 4,
-      "category": "fúze firem",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-183588,resizemode-75,msid-127812790/tech/technology/combining-spacex-with-xai-may-be-simple-for-musk-but-tesla-isnt-so-easy.jpg",
-      "url": "/tech-news/2026-01-31/combining-spacex-with-xai-may-be-simple-for-musk-b/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "SpaceX",
-        "xAI",
-        "Tesla"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Starlink Elona Muska aktualizuje zásady ochrany soukromí pro trénování AI na datech zákazníků",
-      "description": "SpaceX aktualizovalo zásady ochrany soukromí Starlinku, aby umožnilo použití dat uživatelů k trénování modelů umělé inteligence, pokud se nevyoptují. Tato změna přichází před plánovaným IPO a jednáními o sloučení s Muskovo AI firmou xAI, která by mohla zvýšit hodnotu SpaceX nad 1 bilion dolarů.",
-      "slug": "musks-starlink-updates-privacy-policy-to-allow-con",
-      "publishedAt": "2026-01-31T01:36:37+00:00",
-      "date": "2026-01-31 01:36:37",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-43596,resizemode-75,msid-127812751/tech/technology/musks-starlink-updates-privacy-policy-to-allow-consumer-data-to-train-ai.jpg",
-      "url": "/tech-news/2026-01-31/musks-starlink-updates-privacy-policy-to-allow-con/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "SpaceX",
-        "xAI"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
     }
   ]
 }
