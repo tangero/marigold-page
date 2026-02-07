@@ -1,7 +1,188 @@
 {
-  "generated": "2026-02-07T16:42:05.771348+00:00",
-  "count": 168,
+  "generated": "2026-02-07T20:37:09.273775+00:00",
+  "count": 177,
   "articles": [
+    {
+      "title": "Goldman Sachs nasazuje AI agenty pro účetnictví a dodržování předpisů",
+      "description": "Goldman Sachs zavádí autonomní AI agenty postavené na modelu Claude od Anthropic pro automatizaci klíčových účetních, regulačních a operačních finančních funkcí. Iniciativa ukazuje rychlý přechod k agentickým AI systémům v korporátních financích.",
+      "slug": "goldman-sachs-lets-ai-agents-do-accounting-and-com",
+      "publishedAt": "2026-02-06T19:47:35+00:00",
+      "date": "2026-02-06 19:47:35",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/02/Goldman-Sachs-AI-accounting-compliance.jpeg",
+      "url": "/tech-news/2026-02-06/goldman-sachs-lets-ai-agents-do-accounting-and-com/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": []
+    },
+    {
+      "title": "Univerzita Washingtonu v St. Louis digitalizuje historii, stížnosti na ChatGPT a kolaps dohody Nvidia s OpenAI",
+      "description": "ResearchBuzz shrnuje aktuální tech novinky: digitalizaci více než 6400 historických fotografií z Washington University, nespokojenost uživatelů ChatGPT s plánovaným ukončením modelu GPT-4o a neuskutečnění plánované investice Nvidia do OpenAI v hodnotě 100 miliard dolarů.",
+      "slug": "washington-university-in-st-louis-chatgpt-nvidia-m",
+      "publishedAt": "2026-02-06T19:44:11+00:00",
+      "date": "2026-02-06 19:44:11",
+      "importance": 4,
+      "category": "digitalizace",
+      "urlToImage": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvczAud3AuY29tXC9pXC9ibGFuay5qcGciLCJ0eHQiOiJSZXNlYXJjaEJ1enoiLCJ0ZW1wbGF0ZSI6ImhpZ2h3YXkiLCJmb250IjoiIiwiYmxvZ19pZCI6NDMyODc1Nn0.BjdcPIDlw4ZG0Ki13B-quwxnrzAxn9iB5rJXagRMNlcMQ",
+      "url": "/tech-news/2026-02-06/washington-university-in-st-louis-chatgpt-nvidia-m/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Researchbuzz.me"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Akcie Nvidia prudce rostou díky plánu velkých technologických firem na výdaje 650 miliard dolarů do AI",
+      "description": "Akcie Nvidia výrazně vzrostly, protože investoři hromadně kupují podíly firem, které profitují z obrovských investic velkých technologických společností do umělé inteligence. Tento vývoj nastal po oznámení plánů na výdaje 650 miliard dolarů v roce 2026.",
+      "slug": "nvidia-shares-surge-on-big-techs-us650-billion-ai-",
+      "publishedAt": "2026-02-06T19:21:20+00:00",
+      "date": "2026-02-06 19:21:20",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/02/0207-bc-nvidia-.jpg",
+      "url": "/tech-news/2026-02-06/nvidia-shares-surge-on-big-techs-us650-billion-ai/",
+      "source": {
+        "emoji": "📰",
+        "id": "financial-post",
+        "name": "Financial Post"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Fox News AI Newsletter: Američané jsou klamáni ohledně umělé inteligence",
+      "description": "Fox News AI Newsletter informuje o nejnovějších pokrocích v technologii umělé inteligence, zaměřuje se na výzvy i příležitosti, které AI přináší v oblasti pracovního trhu, ekonomiky a energetiky.",
+      "slug": "fox-news-ai-newsletter-the-american-people-are-bei",
+      "publishedAt": "2026-02-06T19:14:57+00:00",
+      "date": "2026-02-06 19:14:57",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/07/shyam-sankar.png",
+      "url": "/tech-news/2026-02-06/fox-news-ai-newsletter-the-american-people-are-bei/",
+      "source": {
+        "emoji": "📰",
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Nejlepší terapeutické aplikace unikají data, která mohou skončit na dark webu",
+      "description": "Při používání terapeutických aplikací na Androidu nemusíte počítat s rizikem úniku dat, který by ohrozil váš osobní život a odhalil soukromé záznamy z terapie. Nový report odhaluje zranitelnosti v top appkách, jejichž data se prodávají na dark webu.",
+      "slug": "top-therapy-apps-are-leaking-data-and-it-may-end-u",
+      "publishedAt": "2026-02-06T19:05:51+00:00",
+      "date": "2026-02-06 19:05:51",
+      "importance": 4,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2026/02/AH-Therapy-Apps.jpg",
+      "url": "/tech-news/2026-02-06/top-therapy-apps-are-leaking-data-and-it-may-end-u/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Headlines"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Soudce umožnil pokračovat v sporu o autorská práva k Blade Runner 2049 proti Elonovi Muskovi a Tesle",
+      "description": "Rozhodnutí soudce snižuje pravděpodobnost zamítnutí sporů o autorská práva souvisejících s generativní AI a může odradit firmy od jejího používání kvůli hrozbě nákladných soudních poplatků.",
+      "slug": "judge-lets-blade-runner-2049-copyright-suit-agains",
+      "publishedAt": "2026-02-06T19:02:13+00:00",
+      "date": "2026-02-06 19:02:13",
+      "importance": 4,
+      "category": "autorská práva",
+      "urlToImage": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/02/02.05.26-v1.jpg",
+      "url": "/tech-news/2026-02-06/judge-lets-blade-runner-2049-copyright-suit-agains/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Reason"
+      },
+      "companies": [
+        "Tesla"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Goldman Sachs spolupracuje s Anthropic na automatizaci bankovních úkolů pomocí AI agentů, uvádí CNBC",
+      "description": "Goldman Sachs vyvíjí s technologickou firmou Anthropic AI agenty pro automatizaci interních procesů, jako je účetnictví obchodů a prověřování klientů. Banka potvrdila zprávu CNBC a plánuje brzké nasazení těchto agentů založených na modelu Claude.",
+      "slug": "goldman-sachs-teams-up-with-anthropic-to-automate-",
+      "publishedAt": "2026-02-06T19:00:43+00:00",
+      "date": "2026-02-06 19:00:43",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--L8bEliav--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-02-06T190013Z_1_LYNXMPEM1514Y_RTROPTP_3_GOLDMAN-SACHS-RESULTS.JPG?itok=yFmw2fyI",
+      "url": "/tech-news/2026-02-06/goldman-sachs-teams-up-with-anthropic-to-automate/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNA"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": []
+    },
+    {
+      "title": "Fúze Warner Bros.: Zákonodárci žádají závazky k zaměstnanosti",
+      "description": "Senátor Adam Schiff a poslankyně Laura Friedman vyzvali generální ředitele Netflixu a Paramountu k upřesnění, jak jejich firmy zachovají a rozšíří dobře placené práce ve filmovém a televizním průmyslu v Los Angeles v souvislosti s plánovanými fúzemi se Warner Bros.",
+      "slug": "warner-bros-merger-legislators-ask-for-employment-",
+      "publishedAt": "2026-02-06T18:58:53+00:00",
+      "date": "2026-02-06 18:58:53",
+      "importance": 5,
+      "category": "filmový průmysl",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/09/Sen.-Adam-Schiff-and-Rep.-Laura-Friedman-Split-Getty-H-2025.jpg?w=1296&h=730&crop=1",
+      "url": "/tech-news/2026-02-06/warner-bros-merger-legislators-ask-for-employment/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Hollywood Reporter"
+      },
+      "companies": [],
+      "people": [
+        "Adam Schiff",
+        "Laura Friedman"
+      ]
+    },
+    {
+      "title": "Šéf Nvidia vidí digitální dvojčata jako hnací sílu rozmachu robotů v příštím desetiletí",
+      "description": "Šéf Nvidia Jensen Huang nedávno zdůraznil, že příštích deset let bude klíčovým obdobím zrýchleného rozvoje robotické technologie. Klíčem k efektivnímu nasazení humanoidních robotů v továrnách je hluboká integrace AI a digitálních dvojčat.",
+      "slug": "nvidia-ceo-sees-digital-twins-driving-robot-surge-",
+      "publishedAt": "2026-02-06T18:44:00+00:00",
+      "date": "2026-02-06 18:44:00",
+      "importance": 5,
+      "category": "robotika",
+      "urlToImage": "https://img.digitimes.com/newsshow/20260206pd226_files/2_b.jpg",
+      "url": "/tech-news/2026-02-06/nvidia-ceo-sees-digital-twins-driving-robot-surge/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": [
+        "Jensen Huang"
+      ]
+    },
     {
       "title": "Goldman Sachs nasazuje Claude AI pro účetnictví obchodů, dodržování předpisů a onboarding – Začala nová éra investičního bankovnictví, kdy Anthropic pohání klíčové operace?",
       "description": "Po šesti měsících interního vývoje nasazuje Goldman Sachs autonomní AI agenty poháněné Anthropic Claude Opus 4.6 pro zpracování účetnictví obchodů, dodržování předpisů a onboarding klientů. CIO Marco Argenti potvrzuje posun od kódovací pomoci k složitým logickým finančním úkolům.",
