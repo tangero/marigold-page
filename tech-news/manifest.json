@@ -1,7 +1,81 @@
 {
-  "generated": "2026-02-07T08:44:11.711165+00:00",
-  "count": 162,
+  "generated": "2026-02-07T12:46:40.240692+00:00",
+  "count": 166,
   "articles": [
+    {
+      "title": "Asijská státem podporovaná skupina TGR-STA-1030 prolomila sítě 70 vlád a infrastrukturních subjektů",
+      "description": "Dosud nedokumentovaná kyberšpionážní skupina z Asie, pravděpodobně podporovaná státem, infiltrovala sítě nejméně 70 vládních a kritické infrastruktury organizací ve 37 zemích během posledního roku. Zjištění pocházejí z analýzy Palo Alto Networks Unit 42, která zdůrazňuje potřebu modelu Zero Trust a integrace AI v obraně.",
+      "slug": "asian-state-backed-group-tgr-sta-1030-breaches-70-",
+      "publishedAt": "2026-02-06T12:07:00+00:00",
+      "date": "2026-02-06 12:07:00",
+      "importance": 5,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkJXKdHXB2KDlczzJtz-jzXDWo2g659AlM7wEMe5ZqLyV2xBZlvoO3uEyL25wwkvVZ1VLoKF6nZ_KJY5M8uHOb0c5Jon9VcLakImOaWVnCt_3LaR22nrrpZK9SmQZifDzmSB5NpaUikQeAhPP5nvgyK53vaJVSAkBRdpmpJA81kghRzC49Hwg2F0NzUfO6/s1700-e365/cyberattack.jpg",
+      "url": "/tech-news/2026-02-06/asian-state-backed-group-tgr-sta-1030-breaches-70/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Internet"
+      },
+      "companies": [
+        "Palo Alto Networks"
+      ],
+      "people": []
+    },
+    {
+      "title": "Kvantový skok nebo križovatka komunity?",
+      "description": "Dvanáct sousedů v zimních kabátech se shromáždilo v kostele na jihovýchodě Chicaga, aby diskutovali o plánovaném megaprojektu Quantum Shore Chicago s kvantovým počítačovým kampusem. Obyvatelé se obávají gentrifikace a environmentálních dopadů, zatímco zastánci slibují revoluci v medicíně a energetice.",
+      "slug": "quantum-leap-or-community-crossroads",
+      "publishedAt": "2026-02-06T12:00:00+00:00",
+      "date": "2026-02-06 12:00:00",
+      "importance": 5,
+      "category": "urbanistika",
+      "urlToImage": "https://i0.wp.com/chicagoreader.com/wp-content/uploads/2026/02/MLimon_1_social.jpg?fit=1200%2C675&quality=89&ssl=1",
+      "url": "/tech-news/2026-02-06/quantum-leap-or-community-crossroads/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Chicago Reader"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Pandorina skříňka",
+      "description": "Kvantové počítače využívají kvantovou mechaniku k výpočtům, které tradiční počítače nezvládnou, a slibují zpracování složitých dat mnohem rychleji. Startup PsiQuantum investuje 9 miliard dolarů do vývoje prvního odolného kvantového počítače v Chicagu, přesto technologie čelí výrazným chybám a skeptickým názorům.",
+      "slug": "pandoras-box",
+      "publishedAt": "2026-02-06T12:00:00+00:00",
+      "date": "2026-02-06 12:00:00",
+      "importance": 5,
+      "category": "kvantové počítače",
+      "urlToImage": "https://i0.wp.com/chicagoreader.com/wp-content/uploads/2026/02/TestAssemblyFacility_5_credit-PsiQuantum_web.jpg?fit=1200%2C800&quality=89&ssl=1",
+      "url": "/tech-news/2026-02-06/pandoras-box/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Chicago Reader"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Přichází Claude Opus 4.6: S 1milionovým oknem tokenů a lepším uvažováním",
+      "description": "Claude Opus 4.6 od Anthropic přináší kontextové okno o velikosti 1 milion tokenů a pokročilé agentické schopnosti, které umožňují autonomní zpracování složitých úkolů jako programování nebo analýza dat. Model překonává konkurenty v klíčových benchmarkách a je určen pro velké projekty, i když některé funkce jsou v beta verzi s prémiovým oceňováním.",
+      "slug": "claude-opus-46-arrives-with-a-1m-token-window-shar",
+      "publishedAt": "2026-02-06T11:15:35+00:00",
+      "date": "2026-02-06 11:15:35",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/02/agentic-coding-benchmark-scores_optimized.jpg",
+      "url": "/tech-news/2026-02-06/claude-opus-46-arrives-with-a-1m-token-window-shar/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Co přijde dál: TBD | Technologie, moc a budoucnost - Elon 3.0",
       "description": "Elon Musk ukončuje výrobu ikonických modelů Tesla, plánuje zavedení SpaceX na burzu a posiluje investice do umělé inteligence a robotiky. V podcastu se diskutuje, zda v nové fázi své kariéry zkrotí své excesy, a v Plus segmentu se dotýká i jeho zmínky v Epsteinových souborech.",
