@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mobilní operátoři mohou získat vaši GPS polohu | Marigold.cz Tech News</title>
+    <meta name="description" content="V iOS 26.3 Apple představil novou funkci soukromí, která omezuje data „přesné polohy“ poskytovaná mobilním sítím přes věžové stanice. Funkce je dostupná pouze n">
+    <link rel="canonical" href="https://www.marigold.cz/tech-news/2026-01-31/mobile-carriers-can-get-your-gps-location/">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #374151; background: #f3f4f6; }
+        .container { max-width: 800px; margin: 0 auto; padding: 2rem; }
+        .tech-news-article { background: white; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); padding: 2rem; margin: 2rem 0; }
+        .source-info { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem; flex-wrap: wrap; }
+        .source-emoji { font-size: 1.5rem; }
+        .source-name { font-weight: 600; color: #374151; }
+        .importance-indicator { display: flex; gap: 2px; margin-left: auto; }
+        .star { color: #fbbf24; font-size: 1.2rem; }
+        .star.empty { color: #d1d5db; }
+        .article-title { font-size: 2rem; font-weight: 700; line-height: 1.2; margin-bottom: 1rem; color: #111827; }
+        .article-meta { display: flex; align-items: center; gap: 1rem; font-size: 0.875rem; color: #6b7280; margin-bottom: 1.5rem; }
+        .category { padding: 0.25rem 0.75rem; border-radius: 1rem; font-weight: 500; font-size: 0.75rem; text-transform: uppercase; background: #e5e7eb; color: #374151; }
+        .article-image { margin: 1.5rem 0; border-radius: 8px; overflow: hidden; }
+        .article-image img { width: 100%; height: auto; display: block; }
+        .article-content { font-size: 1.125rem; line-height: 1.7; margin-bottom: 2rem; }
+        .article-content h2 { font-size: 1.5rem; margin: 1.5rem 0 1rem; color: #111827; }
+        .article-content p { margin-bottom: 1rem; }
+        .article-footer { border-top: 1px solid #e5e7eb; padding-top: 1.5rem; }
+        .read-more-btn { display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: #3b82f6; color: white; text-decoration: none; border-radius: 8px; font-weight: 500; }
+        .read-more-btn:hover { background: #2563eb; }
+        .original-title { margin-top: 1rem; color: #6b7280; font-size: 0.875rem; }
+        .back-link { display: inline-block; margin-bottom: 1rem; color: #3b82f6; text-decoration: none; }
+        .back-link:hover { text-decoration: underline; }
+        .archive-notice { background: #fef3c7; border: 1px solid #f59e0b; border-radius: 8px; padding: 1rem; margin-bottom: 1rem; font-size: 0.875rem; color: #92400e; }
+        @media (max-width: 640px) {
+            .container { padding: 1rem; }
+            .tech-news-article { padding: 1.5rem; margin: 1rem 0; }
+            .article-title { font-size: 1.5rem; }
+            .source-info { flex-direction: column; align-items: flex-start; }
+            .importance-indicator { margin-left: 0; margin-top: 0.5rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="/tech-news/" class="back-link">&larr; Zpět na Tech News</a>
+
+        <div class="archive-notice">
+            Tento článek je z archivu. Byl publikován 31.01.2026.
+        </div>
+
+        <article class="tech-news-article">
+            <header>
+                <div class="source-info">
+                    <span class="source-emoji">📰</span>
+                    <span class="source-name">Dywa.ng</span>
+                    <div class="importance-indicator">
+                        <span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star empty">☆</span>
+                    </div>
+                </div>
+
+                <h1 class="article-title">Mobilní operátoři mohou získat vaši GPS polohu</h1>
+
+                <div class="article-meta">
+                    <time datetime="2026-01-31T17:21:34+00:00">31.01.2026</time>
+                    <span class="category">soukromí polohy</span>
+                </div>
+            </header>
+
+            
+
+            <div class="article-content">
+                <h2>Souhrn</h2>
+<p>Apple v systému iOS 26.3 zavedl funkci, která brání mobilním operátorům získávat přesné GNSS polohové údaje (jako GPS, GLONASS, Galileo nebo BeiDou) z připojených zařízení. Tato data byla dosud předávána automaticky přes standardní protokoly buněčných sítí, jako je RRLP pro 2G a 3G nebo LPP pro 4G a 5G. Novinka je omezena na telefony s Apple modemem z roku 2025 a poskytuje operátorům pouze nepřesné údaje z triangulace věžových stanic.</p>
+<h2>Klíčové body</h2>
+<ul>
+<li>Mobilní sítě využívají control-plane protokoly (RRLP, RRC, LPP) k automatickému získávání GNSS polohy s přesností jednotek metrů, bez vědomí uživatele.</li>
+<li>Apple modem v zařízeních od roku 2025 umožňuje omezit tato data na nepřesnou polohu (desítky až stovky metrů).</li>
+<li>Funkce je součástí iOS 26.3 a reaguje na dlouhodobé praktiky operátorů i státních orgánů, jako bylo použití DEA v USA v roce 2006.</li>
+<li>GNSS výpočet zůstává pasivní na zařízení, ale protokoly sítě nutí k odeslání koordinátů.</li>
+</ul>
+<h2>Podrobnosti</h2>
+<p>Mobilní sítě určují polohu zařízení na základě připojení k věžovým stanicím, což poskytuje přesnost desítek až stovek metrů, zejména v době před rozšířením 5G. Tento mechanismus triangulace je známý a byl použit například v soudních případech, kde státní orgány získaly data od operátorů. Méně známé je však, že buněčné standardy obsahují protokoly pro přímé získávání přesnějších GNSS údajů. V sítích 2G a 3G slouží Radio Resources LCS Protocol (RRLP) k tomu, aby síť vyslala požadavek na zařízení, které pak bez upozornění uživatele pošle své souřadnice s přesností srovnatelnou s mapovými aplikacemi, tedy jednotky metrů. Pro 4G a 5G je tento proces řízen LTE Positioning Protocol (LPP), který funguje podobně.</p>
+<p>Tyto protokoly patří mezi nativní control-plane mechanismy, což znamená, že probíhají v jádru buněčné komunikace a jsou uživateli neviditelné. GNSS poloha se počítá pasivně na zařízení – příjem signálů ze satelitů nevyžaduje odesílání dat zpět, podobně jako čtení dopravní značky neoznamuje nikomu vaši pozici. Přesto sítě tyto údaje získávají pravidelně. Praktické použití sahá do minulosti: v roce 2006 americká DEA získala soudní příkaz na sledování polohy telefonu přes tyto protokoly, což ukazuje na jejich dlouhodobé využití vynucovacími orgány.</p>
+<p>Apple nyní v iOS 26.3 toto chování mění výhradně na zařízeních s vlastním modemem, který firma vyvinula a začala nasazovat v roce 2025. Tento čip umožňuje filtrovat odpovědi na požadavky sítě, takže operátoři dostanou pouze hrubou polohu z věžových stanic. Starší zařízení s modemy od Qualcomm nebo jiných dodavatelů zůstávají náchylná k plnému přenosu dat. Funkce slouží k posílení soukromí polohy a lze ji aktivovat v nastavení soukromí, kde uživatel vidí, jaké údaje se sdílejí.</p>
+<h2>Proč je to důležité</h2>
+<p>Tato změna odhaluje dlouhodobou slabinu v soukromí mobilních zařízení a nastavuje precedens pro omezení automatického sledování operátory. V širším kontextu posiluje Apple svou pozici v boji za soukromí, podobně jako u App Tracking Transparency nebo Intelligent Tracking Prevention v Safari. Pro uživatele znamená ménší riziko neoprávneného sledování bez souhlasu, což je klíčové v éře, kdy státní i soukromé subjekty využívají polohová data k profilování. Nicméně omezení na nový hardware znamená, že většina současných iPhonů zůstane zranitelná, což kritici považují za nedostatečné řešení. Pro průmysl to tlačí dodavatele modemů k podobným funkcím a může ovlivnit standardy 5G/6G, kde přesná lokalizace slouží k optimalizaci sítě i nouzovým službám. Celkově přispívá k diskuzi o rovnováze mezi uživatelským soukromím a požadavky infrastruktury.</p>
+<hr />
+<p><a href="https://an.dywa.ng/carrier-gnss.html">Číst původní článek</a></p>
+<p><strong>Zdroj:</strong> 📰 Dywa.ng</p>
+            </div>
+
+            <footer class="article-footer">
+                <a href="https://an.dywa.ng/carrier-gnss.html" target="_blank" rel="noopener" class="read-more-btn">
+                    Číst původní článek &rarr;
+                </a>
+
+                <div class="original-title"><small>Původní název: Mobile carriers can get your GPS location</small></div>
+            </footer>
+        </article>
+
+        <p style="text-align: center; color: #6b7280; font-size: 0.875rem; margin-top: 2rem;">
+            &copy; 2026 <a href="https://www.marigold.cz" style="color: #3b82f6;">Marigold.cz</a>
+        </p>
+    </div>
+</body>
+</html>
