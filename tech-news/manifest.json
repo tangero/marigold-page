@@ -1,7 +1,175 @@
 {
-  "generated": "2026-02-07T20:37:09.273775+00:00",
-  "count": 177,
+  "generated": "2026-02-08T01:52:04.329018+00:00",
+  "count": 185,
   "articles": [
+    {
+      "title": "Vista Equity Partners a Intel vedou investici do startupu na AI čipy SambaNova: Zpráva",
+      "description": "Soukromá investiční firma Vista Equity Partners vede nové kolo financování přes 350 milionů dolarů do startupu SambaNova Systems, který vyvíjí čipy pro umělou inteligenci. Jedná se o významný odklon od tradičního zaměření Visty na podnikové software, s účastí Intelu.",
+      "slug": "vista-equity-partners-and-intel-to-lead-investment",
+      "publishedAt": "2026-02-07T00:52:47+00:00",
+      "date": "2026-02-07 00:52:47",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-32530,resizemode-75,msid-128015119/tech/funding/vista-equity-partners-and-intel-to-lead-investment-in-ai-chip-startup-sambanova-report.jpg",
+      "url": "/tech-news/2026-02-07/vista-equity-partners-and-intel-to-lead-investment/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Intel",
+        "SambaNova Systems"
+      ],
+      "people": []
+    },
+    {
+      "title": "Anthropic představil nový model umělé inteligence, rivalita s OpenAI sílí",
+      "description": "San Francisco, USA (AFP) 5. února 2026 – Anthropic ve čtvrtek vydal svůj nejnovější vysoce výkonný model umělé inteligence Claude Opus 4.6, čímž zesílil svou soutěž s OpenAI v závodě o vedoucí postavení v oblasti AI. Společnost založili v roce 2021 bývalí zaměstnanci OpenAI a zaměřuje se na bezpečnost a předvídatelnost modelů pro podniky.",
+      "slug": "anthropic-unveils-new-ai-model-as-openai-rivalry-h",
+      "publishedAt": "2026-02-07T00:17:09+00:00",
+      "date": "2026-02-07 00:17:09",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.spxdaily.com/images-hg/data-spix-4-hg.jpg",
+      "url": "/tech-news/2026-02-07/anthropic-unveils-new-ai-model-as-openai-rivalry-h/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Space Daily"
+      },
+      "companies": [
+        "Anthropic",
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Američtí zákonodárci: Technologie Nvidia pro AI pohání čínskou armádu",
+      "description": "Skupina amerických poslanců varuje před prodejem pokročilých čipů Nvidia do Číny, protože podpora startupu DeepSeek posiluje schopnosti lidové osvobozenecké armády (PLA). Nvidia odmítá obvinění a tvrdí, že Čína má dostatek vlastních čipů pro vojenské účely.",
+      "slug": "us-lawmakers-say-nvidia-ai-tech-powering-chinas-mi",
+      "publishedAt": "2026-02-07T00:16:15+00:00",
+      "date": "2026-02-07 00:16:15",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.spxdaily.com/images-hg/nvidia-logo-foyer-hg.jpg",
+      "url": "/tech-news/2026-02-07/us-lawmakers-say-nvidia-ai-tech-powering-chinas-mi/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Space Daily"
+      },
+      "companies": [
+        "Nvidia",
+        "DeepSeek"
+      ],
+      "people": []
+    },
+    {
+      "title": "Samsung dosáhl dosud nejlepšího zisku díky poptávce po AI čipech",
+      "description": "Jihokorejský technologický gigant Samsung Electronics vykázal v posledním čtvrtletí roku 2025 rekordní tržby 93,8 bilionu KRW a provozní zisk 20,1 bilionu KRW. Úspěch je poháněn masivní poptávkou po paměťových čipech pro umělou inteligenci, zejména typu HBM.",
+      "slug": "samsung-logs-best-ever-profit-on-ai-chip-demand",
+      "publishedAt": "2026-02-07T00:16:15+00:00",
+      "date": "2026-02-07 00:16:15",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://www.spxdaily.com/images-hg/samsung-note-7-smartphone-hg.jpg",
+      "url": "/tech-news/2026-02-07/samsung-logs-best-ever-profit-on-ai-chip-demand/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Space Daily"
+      },
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "people": []
+    },
+    {
+      "title": "Šéf Nvidia doufá, že Čína povolí prodej čipů",
+      "description": "Generální ředitel Nvidia Jensen Huang vyjádřil optimismus ohledně možnosti prodeje výkonného AI čipu H200 čínským firmám. Jeho slova přicházejí po zprávách o autorizaci odběratelů v Číně a dohodě mezi Trumpem a Si Ťin-pchingem o uvolnění omezení.",
+      "slug": "nvidia-boss-hopeful-of-china-allowing-chip-sales",
+      "publishedAt": "2026-02-07T00:16:15+00:00",
+      "date": "2026-02-07 00:16:15",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://www.spxdaily.com/images-hg/nvidia-logo-foyer-hg.jpg",
+      "url": "/tech-news/2026-02-07/nvidia-boss-hopeful-of-china-allowing-chip-sales/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Space Daily"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": [
+        "Jensen Huang"
+      ]
+    },
+    {
+      "title": "Micron staví 24miliardovou singapurskou továrnu na čipy kvůli rostoucí poptávce po AI",
+      "description": "Americká firma Micron zahájila stavbu nové továrny na pokročilé wafery v Singapuru za 24 miliard dolarů, aby pokryla nedostatek paměťových čipů způsobený explozí poptávky po AI v datacentrech. Výroba NAND komponentů by měla startovat v roce 2028 a pomoci zmírnit tlak na ceny spotřební elektroniky.",
+      "slug": "micron-builds-24-bn-singapore-chip-fab-as-ai-deman",
+      "publishedAt": "2026-02-07T00:16:15+00:00",
+      "date": "2026-02-07 00:16:15",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://www.spxdaily.com/images-hg/chip-tech-spix-hg.jpg",
+      "url": "/tech-news/2026-02-07/micron-builds-24-bn-singapore-chip-fab-as-ai-deman/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Space Daily"
+      },
+      "companies": [
+        "Micron"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nizozemský technologický gigant ASML hlásí rekordní zisky a světlou budoucnost díky AI",
+      "description": "Nizozemský výrobce strojů na polovodičové čipy ASML oznámil významný růst ročního čistého zisku za rok 2025 a předpovídá další expanzi poháněnou poptávkou po umělé inteligenci. Firma potvrdila robustní zakázky a očekává prodej mezi 34 a 39 miliardami eur v roce 2026.",
+      "slug": "dutch-tech-giant-asml-posts-bumper-profits-eyes-br",
+      "publishedAt": "2026-02-07T00:16:15+00:00",
+      "date": "2026-02-07 00:16:15",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://www.spxdaily.com/images-hg/asml-microchips-logo-hg.jpg",
+      "url": "/tech-news/2026-02-07/dutch-tech-giant-asml-posts-bumper-profits-eyes-br/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Space Daily"
+      },
+      "companies": [
+        "ASML"
+      ],
+      "people": []
+    },
+    {
+      "title": "Sloučení SpaceX a xAI od Muska vyvolává rizika v řízení a financích",
+      "description": "Po potvrzení Elona Muska, že SpaceX dokončilo akvizici startupu xAI v oblasti umělé inteligence, se pozornost rychle přesunula od detailů dohody k jejím širším důsledkům. Tato nekonvenční transakce přináší obavy z koncentrace moci, konfliktů zájmů a finančních rizik před plánovaným IPO SpaceX.",
+      "slug": "musks-spacex-xai-merger-raises-governance-and-fina",
+      "publishedAt": "2026-02-06T23:41:45+00:00",
+      "date": "2026-02-06 23:41:45",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.digitimes.com/newsshow/20260204vl212_files/2_b.jpg",
+      "url": "/tech-news/2026-02-06/musks-spacex-xai-merger-raises-governance-and-fina/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [
+        "SpaceX",
+        "xAI"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
     {
       "title": "Goldman Sachs nasazuje AI agenty pro účetnictví a dodržování předpisů",
       "description": "Goldman Sachs zavádí autonomní AI agenty postavené na modelu Claude od Anthropic pro automatizaci klíčových účetních, regulačních a operačních finančních funkcí. Iniciativa ukazuje rychlý přechod k agentickým AI systémům v korporátních financích.",
