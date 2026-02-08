@@ -1,10 +1,72 @@
 {
-  "generated": "2026-02-08T01:52:04.329018+00:00",
-  "count": 185,
+  "generated": "2026-02-08T05:47:09.278404+00:00",
+  "count": 173,
   "articles": [
     {
-      "title": "Vista Equity Partners a Intel vedou investici do startupu na AI čipy SambaNova: Zpráva",
-      "description": "Soukromá investiční firma Vista Equity Partners vede nové kolo financování přes 350 milionů dolarů do startupu SambaNova Systems, který vyvíjí čipy pro umělou inteligenci. Jedná se o významný odklon od tradičního zaměření Visty na podnikové software, s účastí Intelu.",
+      "title": "Kalendář IPO: Tři emise v hodnotě 3871 crore rupií vstoupí na trh příští týden, Fractal Analytics a Aye Finance vedou",
+      "description": "Indický trh s IPO očekává rušný týden s třemi emisemi v celkové hodnotě 3871 crore rupií (přibližně 466 milionů USD), které otevřou mezi 9. a 16. únorem. Fractal Analytics, první čistě AI zaměřená společnost v Indii, a Aye Finance tvoří jádro mainboard segmentu, zatímco Marushika Technology posiluje SME platformu.",
+      "slug": "ipo-calendar-3-issues-worth-rs-3871-crore-hit-the-",
+      "publishedAt": "2026-02-07T04:50:31+00:00",
+      "date": "2026-02-07 04:50:31",
+      "importance": 4,
+      "category": "ipo",
+      "urlToImage": "https://img.etimg.com/thumb/msid-128020469,width-1200,height-630,imgsize-1415912,overlay-etmarkets/articleshow.jpg",
+      "url": "/tech-news/2026-02-07/ipo-calendar-3-issues-worth-rs-3871-crore-hit-the/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Fractal Analytics",
+        "Marushika Technology"
+      ],
+      "people": []
+    },
+    {
+      "title": "Řešení netarifních bariér pro technologickou spolupráci, BTA se zaměřuje na usnadnění obchodu: Piyush Goyal",
+      "description": "Indie a Spojené státy uzavřely významnou bilaterální obchodní dohodu, která usnadňuje přístup na trh, snižuje bariéry a rozšiřuje spolupráci v pokročilých technologiích včetně grafických procesorů (GPU). Indičtí exportéři získají snížená cla z 50 % na 18 %, což podpoří jejich konkurenceschopnost a růst digitální infrastruktury.",
+      "slug": "addressing-non-tariff-barriers-to-tech-cooperation",
+      "publishedAt": "2026-02-07T03:12:33+00:00",
+      "date": "2026-02-07 03:12:33",
+      "importance": 4,
+      "category": "technologický obchod",
+      "urlToImage": "https://img.etimg.com/thumb/msid-128018976,width-1200,height-630,imgsize-44038,overlay-economictimes/articleshow.jpg",
+      "url": "/tech-news/2026-02-07/addressing-non-tariff-barriers-to-tech-cooperation/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": [
+        "Piyush Goyal"
+      ]
+    },
+    {
+      "title": "SambaNova získává přes 350 milionů dolarů od konsorcia podporovaného Intelem",
+      "description": "Startup na čipy pro umělou inteligenci SambaNova Systems jedná o investici více než 350 milionů dolarů, vedenou firmou Vista Equity Partners. Mezi investory je Intel s možným příspěvkem až 150 milionů dolarů a venture kapitálová společnost Cambium Capital.",
+      "slug": "report-sambanova-is-raising-350m-from-intel-backed",
+      "publishedAt": "2026-02-07T01:36:29+00:00",
+      "date": "2026-02-07 01:36:29",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/SambaNova.png",
+      "url": "/tech-news/2026-02-07/report-sambanova-is-raising-350m-from-intel-backed/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "SambaNova",
+        "Intel"
+      ],
+      "people": []
+    },
+    {
+      "title": "Vista Equity Partners a Intel povedou investici do startupu na AI čipy SambaNova: Zpráva",
+      "description": "Soukromá investiční společnost Vista Equity Partners vede nové kolo financování přes 350 milionů dolarů do startupu SambaNova Systems na čipy pro umělou inteligenci, což je vzácný odklon od jejího tradičního zaměření na podnikové software. Mezi investory je i Intel, který plánuje vložit až 150 milionů dolarů.",
       "slug": "vista-equity-partners-and-intel-to-lead-investment",
       "publishedAt": "2026-02-07T00:52:47+00:00",
       "date": "2026-02-07 00:52:47",
@@ -24,13 +86,13 @@
       "people": []
     },
     {
-      "title": "Anthropic představil nový model umělé inteligence, rivalita s OpenAI sílí",
-      "description": "San Francisco, USA (AFP) 5. února 2026 – Anthropic ve čtvrtek vydal svůj nejnovější vysoce výkonný model umělé inteligence Claude Opus 4.6, čímž zesílil svou soutěž s OpenAI v závodě o vedoucí postavení v oblasti AI. Společnost založili v roce 2021 bývalí zaměstnanci OpenAI a zaměřuje se na bezpečnost a předvídatelnost modelů pro podniky.",
+      "title": "Anthropic představuje nový model umělé inteligence, rivalita s OpenAI sílí",
+      "description": "Společnost Anthropic ve čtvrtek vydala svůj nejnovější vysoce výkonný model umělé inteligence Claude Opus 4.6, čímž zesiluje konkurenci s OpenAI. Tento model cílí na podnikové aplikace s důrazem na bezpečnost dat a předvídatelnost.",
       "slug": "anthropic-unveils-new-ai-model-as-openai-rivalry-h",
       "publishedAt": "2026-02-07T00:17:09+00:00",
       "date": "2026-02-07 00:17:09",
       "importance": 4,
-      "category": "ai",
+      "category": "tech",
       "urlToImage": "https://www.spxdaily.com/images-hg/data-spix-4-hg.jpg",
       "url": "/tech-news/2026-02-07/anthropic-unveils-new-ai-model-as-openai-rivalry-h/",
       "source": {
@@ -3524,317 +3586,6 @@
       "people": [
         "Elon Musk"
       ]
-    },
-    {
-      "title": "Bývalý inženýr Google odsouzen za krádež tajemství o GPU a TPU ve prospěch čínských zájmů – snažil se získat financování pro svou startup",
-      "description": "Federální porota v San Franciscu uznala bývalého inženýra Google Linweiho Dinga vinným z krádeže důvěrných dat o infrastruktuře AI a jejich předání ve prospěch čínských zájmů. Ding byl odsouzen na 14 bodů, včetně ekonomické špionáže a krádeže obchodních tajemství.",
-      "slug": "former-google-engineer-convicted-of-stealing-gpu-a",
-      "publishedAt": "2026-02-01T16:21:52+00:00",
-      "date": "2026-02-01 16:21:52",
-      "importance": 4,
-      "category": "průmyslová špionáž",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/9yjpJGx28XVepArU3M5vBD-2144-80.jpg",
-      "url": "/tech-news/2026-02-01/former-google-engineer-convicted-of-stealing-gpu-a/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Apple uvede čipy M5 Pro a M5 Max současně s vydáním macOS 26.3, který je v současnosti v beta testování",
-      "description": "Apple plánuje spustit MacBook Pro modely s čipy M5 Pro a M5 Max v první polovině 2026, pravděpodobně současně s veřejným vydáním macOS 26.3. Tato informace vychází z reportu analytika Marka Gurmana a dalších zdrojů s hodnocením pravděpodobnosti 80 procent.",
-      "slug": "apple-to-launch-its-m5-pro-and-m5-max-chipsets-at-",
-      "publishedAt": "2026-02-01T16:10:33+00:00",
-      "date": "2026-02-01 16:10:33",
-      "importance": 4,
-      "category": "hardware",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/02/M5-Pro-and-M5-Max-MacBook-Pro-models-2.jpg",
-      "url": "/tech-news/2026-02-01/apple-to-launch-its-m5-pro-and-m5-max-chipsets-at/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Wccftech"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
-      "title": "SpaceX chce umístit datová centra pro AI do vesmíru s až milionem satelitů",
-      "description": "SpaceX podala u Federální komise pro komunikace žádost o povolení k vypuštění až jednoho milionu satelitů pro orbitální datová centra. Ty mají řešit rostoucí poptávku po výpočetním výkonu pro umělou inteligenci a dramaticky rozšířit současnou síť Starlink.",
-      "slug": "spacex-wants-to-put-ai-data-centers-in-space-with-",
-      "publishedAt": "2026-02-01T16:02:16+00:00",
-      "date": "2026-02-01 16:02:16",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://www.ghacks.net/wp-content/uploads/2026/02/gHacks-articles-12.png",
-      "url": "/tech-news/2026-02-01/spacex-wants-to-put-ai-data-centers-in-space-with/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Ghacks Technology News"
-      },
-      "companies": [
-        "SpaceX"
-      ],
-      "people": []
-    },
-    {
-      "title": "Genie 3 od DeepMind vytváří interaktivní světy z pokynů, které působí realisticky",
-      "description": "Google DeepMind představilo Genie 3, AI nástroj, který z textových pokynů nebo obrázků generuje plně interaktivní 3D prostředí s realistickými interakcemi. Tento systém je dostupný výhradně pro předplatitele Google AI Ultra a nachází uplatnění v herním průmyslu, robotice i kreativních oborech.",
-      "slug": "deepminds-genie-3-makes-interactive-worlds-from-yo",
-      "publishedAt": "2026-02-01T15:00:42+00:00",
-      "date": "2026-02-01 15:00:42",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/02/realistic-physics-lighting-genie-3_optimized.jpg",
-      "url": "/tech-news/2026-02-01/deepminds-genie-3-makes-interactive-worlds-from-yo/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [
-        "DeepMind",
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Nový objev v laserové technologii by mohl změnit situaci v kvantových počítačích",
-      "description": "Kvantové počítače mají velký potenciál, ale jejich základní jednotka qubit čelí problémům se stabilitou. Nová studie navrhuje řešení prostřednictvím laserové technologie.",
-      "slug": "new-discovery-in-laser-technology-could-change-eve",
-      "publishedAt": "2026-02-01T11:17:00+00:00",
-      "date": "2026-02-01 11:17:00",
-      "importance": 5,
-      "category": "kvantové počítače",
-      "urlToImage": "https://www.bgr.com/img/gallery/new-discovery-in-laser-technology-could-change-everything-for-quantum-computing/l-intro-1769451563.jpg",
-      "url": "/tech-news/2026-02-01/new-discovery-in-laser-technology-could-change-eve/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BGR"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Všechny způsoby, jakými jsou firmy Elona Muska propojené, od spolupráce Tesly se SpaceX po Grok v vozidlech",
-      "description": "Pět firem vedených Elonem Muskem se stále více proplétá, ještě před investicí Tesly ve výši 2 miliard dolarů do xAI nebo spekulacemi o sloučení.",
-      "slug": "all-the-ways-elon-musks-companies-are-already-inte",
-      "publishedAt": "2026-02-01T10:00:01+00:00",
-      "date": "2026-02-01 10:00:01",
-      "importance": 4,
-      "category": "elon musk",
-      "urlToImage": "https://i.insider.com/697d196da645d11881885fc3?width=1200&format=jpeg",
-      "url": "/tech-news/2026-02-01/all-the-ways-elon-musks-companies-are-already-inte/",
-      "source": {
-        "emoji": "📰",
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "companies": [
-        "Tesla",
-        "SpaceX",
-        "xAI"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Co znamená indický státní rozpočet 2026 pro AI a GenAI a jak formuje růst",
-      "description": "Indický státní rozpočet 2026 staví AI a generativní AI za národní ekonomickou infrastrukturu. Nové politiky, financování infrastruktury, zjednodušení daní a vzdělávací iniciativy posilují indický AI ekosystém a podporují přechod k budování vlastních AI systémů.",
-      "slug": "what-indian-union-budget-2026-means-for-ai-genai-a",
-      "publishedAt": "2026-02-01T09:51:32+00:00",
-      "date": "2026-02-01 09:51:32",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.c-sharpcorner.com/images/csharp-corner-new.png",
-      "url": "/tech-news/2026-02-01/what-indian-union-budget-2026-means-for-ai-genai-a/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "C-sharpcorner.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Týdenní přehled: Microsoft opravuje exploitovanou zero-day chybu v Office, Fortinet záplátní zranitelnost SSO ve FortiCloud",
-      "description": "Přehled nejdůležitějších novinek z uplynulého týdne v kyberbezpečnosti zahrnuje opravu zero-day zranitelnosti v Office od Microsoftu, odražení datového útoku na polskou energetiku a rozhovory o bezpečnosti ve vědeckém výzkumu.",
-      "slug": "week-in-review-microsoft-fixes-exploited-office-ze",
-      "publishedAt": "2026-02-01T09:00:59+00:00",
-      "date": "2026-02-01 09:00:59",
-      "importance": 5,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2023/12/01112502/cybersecurity_week_in_review1.jpg",
-      "url": "/tech-news/2026-02-01/week-in-review-microsoft-fixes-exploited-office-ze/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Help Net Security"
-      },
-      "companies": [
-        "Microsoft",
-        "Fortinet",
-        "Fermilab"
-      ],
-      "people": [
-        "Matthew Kwiatkowski"
-      ]
-    },
-    {
-      "title": "Ministerka financí Sitharamanová oznámila daňovou dovolenou pro datová centra v Indii do roku 2047",
-      "description": "Datová centra uspokojují jednu z klíčových potřeb poptávky po umělé inteligenci – potřebu výpočetního výkonu. Indická vláda zavádí daňové úlevy pro zahraniční firmy, aby podpořila rozvoj infrastruktury pro AI.",
-      "slug": "fm-sitharaman-announces-tax-holiday-for-data-centr",
-      "publishedAt": "2026-02-01T08:55:10+00:00",
-      "date": "2026-02-01 08:55:10",
-      "importance": 4,
-      "category": "datová centra",
-      "urlToImage": "https://images.indianexpress.com/2026/02/data-centre.jpg",
-      "url": "/tech-news/2026-02-01/fm-sitharaman-announces-tax-holiday-for-data-centr/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Indian Express"
-      },
-      "companies": [],
-      "people": [
-        "Nirmala Sitharaman"
-      ]
-    },
-    {
-      "title": "Musk tvrdí, že opatření proti použití Starlinku Ruskem fungovala",
-      "description": "Elon Musk uvedl, že kroky společnosti SpaceX k zastavení neoprávněného použití Starlinku Ruskem se zdají být úspěšné. Informoval o tom v neděli a vyzval k hlášení dalších problémů.",
-      "slug": "musk-says-steps-to-stop-russia-from-using-starlink",
-      "publishedAt": "2026-02-01T08:18:25+00:00",
-      "date": "2026-02-01 08:18:25",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--zJ4y1SGX--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-02-01T081825Z_1_LYNXMPEM100KJ_RTROPTP_3_XAI-M-A-SPACEX-FCC.JPG?itok=V-XaicVU",
-      "url": "/tech-news/2026-02-01/musk-says-steps-to-stop-russia-from-using-starlink/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNA"
-      },
-      "companies": [
-        "SpaceX"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Raketonosná společnost Jeffa Bezosa pozastavuje vesmírný turismus kvůli soustředění na Měsíc",
-      "description": "Blue Origin uvedla, že má několik let trvající seznam čekajících zákazníků na místo v raketě New Shepard.",
-      "slug": "jeff-bezos-rocket-company-pauses-space-tourism-to-",
-      "publishedAt": "2026-02-01T04:14:00+00:00",
-      "date": "2026-02-01 04:14:00",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://images.indianexpress.com/2025/11/BIhar-2-1-1.jpg",
-      "url": "/tech-news/2026-02-01/jeff-bezos-rocket-company-pauses-space-tourism-to/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Indian Express"
-      },
-      "companies": [
-        "Blue Origin"
-      ],
-      "people": [
-        "Jeff Bezos"
-      ]
-    },
-    {
-      "title": "Jižní Korea dosáhla rekordních exportů za leden díky boomu AI čipů",
-      "description": "Celková hodnota exportů v lednu činila 65,8 miliardy USD, což představuje nárůst o 33,9 procenta oproti loňskému roku a poprvé překonala hranici 60 miliard USD za měsíc. Hlavním hnacím motorem byl růst exportů polovodičů spojený s globálním poptávkou po čipech pro umělou inteligenci.",
-      "slug": "south-korea-posts-record-january-exports-on-ai-chi",
-      "publishedAt": "2026-02-01T02:56:10+00:00",
-      "date": "2026-02-01 02:56:10",
-      "importance": 4,
-      "category": "ai čipy",
-      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--vGi2-zjk--/c_crop,h_562,w_1000,x_0,y_24/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/south_korea_trade_21016.jpg?itok=Cn6AVnd_",
-      "url": "/tech-news/2026-02-01/south-korea-posts-record-january-exports-on-ai-chi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNA"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Pentagon chce smrtící AI bez bezpečnostních omezení – Reuters",
-      "description": "Americké ministerstvo obrany je v sporu s firmou Anthropic kvůli etickým omezením v jejích AI systémech, která brání jejich nasazení v autonomních zbraních a domácím sledování. Smlouva v hodnotě až 200 milionů dolarů je kvůli tomu pozastavena.",
-      "slug": "pentagon-wants-killer-ai-without-safeguards-reuter",
-      "publishedAt": "2026-02-01T01:49:50+00:00",
-      "date": "2026-02-01 01:49:50",
-      "importance": 4,
-      "category": "vojenská ai",
-      "urlToImage": "https://mf.b37mrtl.ru/files/2026.02/article/697eb07e85f5400dc05ea07c.jpg",
-      "url": "/tech-news/2026-02-01/pentagon-wants-killer-ai-without-safeguards-reuter/",
-      "source": {
-        "emoji": "📰",
-        "id": "rt",
-        "name": "RT"
-      },
-      "companies": [
-        "Anthropic"
-      ],
-      "people": []
-    },
-    {
-      "title": "SpaceX žádá o schválení přes milionu satelitů pro orbitální komplex datových center",
-      "description": "Elon Musk tvrdí, že nejlevnější místo pro umístění AI bude vesmír a stane se tak během dvou let, maximálně tří. Společnost SpaceX podala žádost k FCC o vypuštění až milionu satelitů pro solárně poháněná datová centra v oběžné dráze.",
-      "slug": "spacex-seeks-approval-for-million-plus-satellites-",
-      "publishedAt": "2026-02-01T00:55:41+00:00",
-      "date": "2026-02-01 00:55:41",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://static.ffx.io/images/$zoom_0.3531%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/e3f8b40973051e866b0af151969dc6d8376424f2",
-      "url": "/tech-news/2026-02-01/spacex-seeks-approval-for-million-plus-satellites/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Sydney Morning Herald"
-      },
-      "companies": [
-        "SpaceX"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Waymo získává 16 miliard dolarů při valuaci 110 miliard",
-      "description": "Waymo, dceřiná společnost Alphabetu pro autonomní řízení, uzavírá kolo financování v objemu 16 miliard dolarů s valuací 110 miliard dolarů, což představuje více než zdvojnásobení oproti předchozímu kolu. Alphabet přispívá zhruba 13 miliardami dolarů, do kola vstupují noví investoři jako Sequoia Capital nebo DST Global.",
-      "slug": "waymo-raising-16-billion-on-110-billion-valuation",
-      "publishedAt": "2026-02-01T00:39:49+00:00",
-      "date": "2026-02-01 00:39:49",
-      "importance": 4,
-      "category": "autonomní řízení",
-      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2018/03/52a49a9bda14741ffd028335af01a5b5.png",
-      "url": "/tech-news/2026-02-01/waymo-raising-16-billion-on-110-billion-valuation/",
-      "source": {
-        "emoji": "📰",
-        "id": "next-big-future",
-        "name": "Next Big Future"
-      },
-      "companies": [
-        "Waymo",
-        "Alphabet",
-        "Google"
-      ],
-      "people": []
     }
   ]
 }

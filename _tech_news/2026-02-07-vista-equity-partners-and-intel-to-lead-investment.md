@@ -5,10 +5,10 @@ companies:
 - Intel
 - SambaNova Systems
 date: '2026-02-07 00:52:47'
-description: Soukromá investiční firma Vista Equity Partners vede nové kolo financování
-  přes 350 milionů dolarů do startupu SambaNova Systems, který vyvíjí čipy pro umělou
-  inteligenci. Jedná se o významný odklon od tradičního zaměření Visty na podnikové
-  software, s účastí Intelu.
+description: Soukromá investiční společnost Vista Equity Partners vede nové kolo financování
+  přes 350 milionů dolarů do startupu SambaNova Systems na čipy pro umělou inteligenci,
+  což je vzácný odklon od jejího tradičního zaměření na podnikové software. Mezi investory
+  je i Intel, který plánuje vložit až 150 milionů dolarů.
 importance: 4
 layout: tech_news_article
 original_title: 'Vista Equity Partners and Intel to lead investment in AI chip startup
@@ -19,7 +19,7 @@ source:
   emoji: 📰
   id: the-times-of-india
   name: The Times of India
-title: 'Vista Equity Partners a Intel vedou investici do startupu na AI čipy SambaNova:
+title: 'Vista Equity Partners a Intel povedou investici do startupu na AI čipy SambaNova:
   Zpráva'
 url: https://economictimes.indiatimes.com/tech/funding/vista-equity-partners-and-intel-to-lead-investment-in-ai-chip-startup-sambanova-report/articleshow/128015119.cms
 urlToImage: https://img.etimg.com/thumb/width-1200,height-900,imgsize-32530,resizemode-75,msid-128015119/tech/funding/vista-equity-partners-and-intel-to-lead-investment-in-ai-chip-startup-sambanova-report.jpg
@@ -27,24 +27,24 @@ urlToImageBackup: https://img.etimg.com/thumb/width-1200,height-900,imgsize-3253
 ---
 
 ## Souhrn
-Soukromá investiční firma Vista Equity Partners vede kolo financování série E pro startup SambaNova Systems v celkovém objemu přes 350 milionů dolarů. Mezi investory patří také Intel, který plánuje vložit 100 až 150 milionů dolarů, a venture kapitálová firma Cambium Capital. SambaNova Systems, specializující se na čipy pro výpočty v umělé inteligenci, chce prostřednictvím těchto prostředků posílit konkurenceschopnost vůči lídru trhu Nvidia, zejména v segmentu inference čipů pro AI aplikace.
+Soukromá investiční společnost Vista Equity Partners vede sérii E financování startupu SambaNova Systems, který vyvíjí čipy pro umělou inteligenci, s objemem přes 350 milionů dolarů. Do kola se zapojil i Intel s plánovanou investicí 100 až 150 milionů dolarů prostřednictvím partnerství s rizikovým kapitálem Cambium Capital. SambaNova tak získává prostředky na konkurenci s lídrem trhu Nvidia v oblasti inference čipů pro AI aplikace.
 
 ## Klíčové body
-- Vista Equity Partners vede předpokládaně přeobjednané kolo série E přes 350 milionů USD ve spolupráci s Cambium Capital.
+- Vista Equity Partners vede kolo financování přes 350 milionů USD, což je neobvyklé pro firmu zaměřenou na podnikové software.
 - Intel investuje 100 milionů USD s možností navýšení na 150 milionů USD.
-- SambaNova Systems cílí na čipy pro inference, což je fáze spouštění hotových AI modelů v produkčním prostředí.
-- Pro Vistu představuje investice raritu, protože se firma s majetkem přes 100 miliard USD tradičně zaměřuje výhradně na podnikové software.
-- Financování je stále v průběhu, podrobnosti o valuaci nejsou známy a mohou se změnit.
+- Kolo je předem plně obsazené (oversubscribed) a slouží k rozšíření výroby inference čipů pro rostoucí poptávku po AI výpočtech.
+- SambaNova Systems se specializuje na kompletní AI systémy včetně hardwaru a softwaru pro trénink a inference modelů umělé inteligence.
+- Financování probíhá, valuace není známá a podmínky se mohou změnit.
 
 ## Podrobnosti
-SambaNova Systems je kalifornský startup založený v roce 2017, který vyvíjí vlastní architekturu čipů pro umělou inteligenci nazvanou Dataflow-as-a-Service. Jejich systém Cardinal kombinuje čipy SN40 s softwarem pro trénink i inference velkých AI modelů, což umožňuje zákazníkům nasadit AI výpočty bez nutnosti vlastního hardwaru. Na rozdíl od Nvidia, která dominuje trhu s GPU jako H100 pro trénink modelů, se SambaNova zaměřuje především na inference – fázi, kdy se hotové modely používají k generování odpovědí v reálném čase, například v chatbotech nebo doporučovacích systémech. Tento segment roste rychleji než trénink, protože vyžaduje méně výpočetního výkonu, ale vyšší objem nasazení.
+SambaNova Systems, kalifornský startup založený v roce 2017, vyvíjí integrované systémy pro umělou inteligenci, které kombinují vlastní čipy typu Dataflow pro efektivní zpracování velkých AI modelů. Na rozdíl od Nvidia, která dominuje trhu s GPU pro trénink i inference, se SambaNova zaměřuje na plně stackové řešení – od hardwaru přes software až po cloudovou platformu Reconfigurable Dataflow Unit (RDU). Tyto čipy umožňují rychlejší a energeticky úspornější inference, což je klíčové pro nasazení AI modelů v produkčním prostředí, například v generativních AI jako large language models (LLM), kde je potřeba rychle generovat odpovědi na miliardy požadavků denně.
 
-Vista Equity Partners, spravující přes 100 miliard USD, obvykle investuje do podnikového software – například v roce 2022 koupila Citrix Systems za cloudové výpočty a v roce 2025 Nexthink pro monitorování IT zařízení. Tato investice do hardwaru pro AI je výjimkou, pravděpodobně motivovaná tlakem na software firmy způsobeným AI. Nedávný pokles akcií softwareových společností o téměř 1 bilion USD ukazuje, jak AI mění tradiční modely, kde software byl tailwindem, nyní se stává disruptorem.
+Vista Equity Partners, spravující aktiva přes 100 miliard dolarů, tradičně investuje výhradně do podnikového software – například v roce 2022 získala Citrix Systems za 13 miliard dolarů a v roce 2025 Nexthink. Tato investice do hardwaru pro AI představuje významný odklon, pravděpodobně motivovaný tlakem na software firmy způsobeným AI disruptací. Globální akcie software letos ztratily téměř bilion dolarů kvůli obavám, že AI automatyzuje rutinní úkoly a snižuje poptávku po tradičním softwaru.
 
-Intel, dlouholetý výrobce procesorů, se snaží vrátit do AI hry po slabých výsledcích s vlastními čipy Gaudi3 pro trénink. Investice do SambaNova posiluje jeho portfolio v inference, kde spolupracuje s existujícími zákazníky jako Oracle nebo Perplexity AI. Podle zdrojů Reuters je kolo přeobjednané, ale probíhá, takže finální podmínky mohou kolísat. Ani jedna ze stran nekomentovala, což je standardní při probíhajících jednáních.
+Intel, dlouholetý investor do SambaNova, posiluje svou pozici v AI ekosystému. Společnost bojuje s Nvidia v segmentech datacenterových čipů a tato investice může pomoci integrovat SambaNova technologie do svých Gaudi čipů nebo Xeon procesorů s AI akcelerací. Kolo financování, vedené Cambium Capital, je předem plně obsazené, což signalizuje silný zájem investorů o diverzifikaci dodavatelských řetězců mimo Nvidia, jejíž čipy H100 a Blackwell čelí nedostatku kvůli vysoké poptávce.
 
 ## Proč je to důležité
-Tato investice signalizuje rostoucí poptávku po alternativách k Nvidia, která ovládá 80-90 % trhu AI čipů a čelí dodavatelským škrtům. Pro průmysl znamená větší konkurenci v inference, což by mohlo snížit ceny a zlepšit dostupnost AI pro firmy mimo hyperscalery jako Google nebo Microsoft. Intel takto diverzifikuje rizika a Vista testuje nové oblasti mimo software, kde AI způsobuje poklesy. Pro uživatele to znamená potenciálně levnější AI služby, ale závisí na úspěchu SambaNova – startup již získal přes 1,1 miliardy USD v předchozích kolech a slouží klientům jako Bank of America. Dlouhodobě to posiluje ekosystém AI hardwaru mimo jednu firmu, což snižuje rizika monopolů, i když Nvidia zůstává dominantní díky CUDA softwaremu.
+Tato investice posiluje konkurenci v trhu AI čipů, kde Nvidia drží přes 80 procent podílu v datacentrech. Pro průmysl znamená ménší závislost na jednom dodavateli, nižší ceny inference a lepší dostupnost pro firmy nasazující AI modely jako GPT nebo Llama. Uživatelé – od cloud providerů po podniky – získají alternativy k Nvidia CUDA ekosystému, což urychlí adopci AI v oblastech jako zdravotnictví, finance nebo autonomní systémy. Pro Vistu to diverzifikuje portfolio směrem k hardwaru, který pohání software disruptaci. V širším kontextu podtrhuje, jak AI hardware stává se klíčovým segmentem, kde funding nad 350 milionů USD signalizuje dlouhodobý růst trhu odhadovaný na stovky miliard dolarů do roku 2030. Nicméně úspěch SambaNova závisí na škálovatelnosti výroby a kompatibilitě s existujícími frameworky jako PyTorch nebo TensorFlow.
 
 ---
 
