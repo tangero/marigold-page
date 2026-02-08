@@ -1,7 +1,68 @@
 {
-  "generated": "2026-02-08T08:47:34.116408+00:00",
-  "count": 178,
+  "generated": "2026-02-08T12:51:14.802087+00:00",
+  "count": 181,
   "articles": [
+    {
+      "title": "OpenAI Frontier chce nahradit manuální úkoly AI agenty",
+      "description": "OpenAI představilo OpenAI Frontier, platformu umělé inteligence založenou na agentech, která automatizuje pracovní úkoly dříve vykonávané lidmi. Tato iniciativa umožňuje virtuálním agentům pracovat napříč korporátními systémy podobně jako zaměstnanci.",
+      "slug": "openai-frontier-wants-to-replace-manual-tasks-with",
+      "publishedAt": "2026-02-07T12:10:27+00:00",
+      "date": "2026-02-07 12:10:27",
+      "importance": 4,
+      "category": "ai agenti",
+      "urlToImage": "https://i0.wp.com/cdnssl.ubergizmo.com/wp-content/uploads/2023/03/openai.png",
+      "url": "/tech-news/2026-02-07/openai-frontier-wants-to-replace-manual-tasks-with/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Ubergizmo"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Proč akcie Nvidia zaznamenaly nejlepší den od dubna? Akcie Nvidia (NVDA) vzrostly o 8,2 %, čímž znovu dosáhly tržní kapitalizace 4,5 bilionu dolarů",
+      "description": "Akcie Nvidia vyskočily o 8,2 % na 185,40 USD poté, co velké technologické firmy potvrdily výdaje 650 miliard dolarů na AI infrastrukturu pro rok 2026. Amazon vede s rozpočtem 200 miliard na datová centra. Tento vývoj signalizuje urychlení výstavby AI infrastruktury a udržitelnou poptávku po čipech.",
+      "slug": "why-nvidia-shares-just-had-their-best-day-since-ap",
+      "publishedAt": "2026-02-07T12:09:36+00:00",
+      "date": "2026-02-07 12:09:36",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/msid-128031781,width-1200,height-630,imgsize-87680,overlay-economictimes/articleshow.jpg",
+      "url": "/tech-news/2026-02-07/why-nvidia-shares-just-had-their-best-day-since-ap/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Nvidia",
+        "Amazon"
+      ],
+      "people": []
+    },
+    {
+      "title": "Vaishnaw: Indie intenzivně jedná s USA o elektronice a duševním vlastnictví",
+      "description": "Indie a USA uzavřely rámec pro prozatímní obchodní dohodu zaměřenou na elektroniku a duševní vlastnictví. Dohoda má odstranit netarifní bariéry a zvýšit obchod s technologickými produkty včetně GPU pro datová centra.",
+      "slug": "vaishnaw-india-in-close-talks-with-us-on-electroni",
+      "publishedAt": "2026-02-07T10:24:12+00:00",
+      "date": "2026-02-07 10:24:12",
+      "importance": 4,
+      "category": "elektronika",
+      "urlToImage": "https://img.etimg.com/thumb/msid-128029373,width-1200,height-630,imgsize-33034,overlay-economictimes/articleshow.jpg",
+      "url": "/tech-news/2026-02-07/vaishnaw-india-in-close-talks-with-us-on-electroni/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": [
+        "Vaishnaw"
+      ]
+    },
     {
       "title": "Banka zaměřená na kryptoměny Erebor získala první novou americkou bankovní licenci v Trumpově druhém období: WSJ",
       "description": "Američtí regulátoři udělili národní licenci kryptoměnám zaměřené Erebor Bank, startupovému veritelovi podporovanému významnými technologickými investory, který cílí na startupy, firmy z oblasti AI a obranných technologií.",
