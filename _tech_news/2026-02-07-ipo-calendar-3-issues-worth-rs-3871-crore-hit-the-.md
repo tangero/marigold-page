@@ -3,12 +3,13 @@ author: Marisa Aigen
 category: ipo
 companies:
 - Fractal Analytics
+- Aye Finance
 - Marushika Technology
 date: '2026-02-07 04:50:31'
-description: Indický trh s IPO očekává rušný týden s třemi emisemi v celkové hodnotě
-  3871 crore rupií (přibližně 466 milionů USD), které otevřou mezi 9. a 16. únorem.
-  Fractal Analytics, první čistě AI zaměřená společnost v Indii, a Aye Finance tvoří
-  jádro mainboard segmentu, zatímco Marushika Technology posiluje SME platformu.
+description: Indický trh s IPO se připravuje na rušný týden, kdy tři emise v celkové
+  hodnotě 3871 milionů rupií otevřou mezi 9. a 16. únorem. Fractal Analytics a Aye
+  Finance dominují v segmentu hlavní tabule, zatímco Marushika Technology přidává
+  impuls na platformě pro malé a střední podniky.
 importance: 4
 layout: tech_news_article
 original_title: 'IPO calendar: 3 issues worth Rs 3,871 crore hit the market next week
@@ -19,32 +20,30 @@ source:
   emoji: 📰
   id: the-times-of-india
   name: The Times of India
-title: 'Kalendář IPO: Tři emise v hodnotě 3871 crore rupií vstoupí na trh příští týden,
-  Fractal Analytics a Aye Finance vedou'
+title: 'Kalendář IPO: Tři emise v hodnotě 3871 milionů rupií vstoupí na trh příští
+  týden, Fractal Analytics a Aye Finance vedou'
 url: https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-calendar-3-issues-worth-rs-3871-crore-hit-the-market-next-week-as-fractal-aye-finance-hit-markets/articleshow/128020477.cms
 urlToImage: https://img.etimg.com/thumb/msid-128020469,width-1200,height-630,imgsize-1415912,overlay-etmarkets/articleshow.jpg
 urlToImageBackup: https://img.etimg.com/thumb/msid-128020469,width-1200,height-630,imgsize-1415912,overlay-etmarkets/articleshow.jpg
 ---
 
 ## Souhrn
-Indický primární trh s akciemi se připravuje na aktivní týden s třemi IPO v celkové hodnotě 3871 crore rupií. Největší pozornost si vyslouží Fractal Analytics, první indická společnost zaměřená výhradně na umělou inteligenci, a Aye Finance, nebankovní finanční instituce. Emise otevřou 9. února a uzavřou 11. února s plánovaným listováním 16. února na burzách BSE a NSE.
+Indický primární trh s akciemi čeká aktivní týden s třemi IPO v celkové hodnotě 3871 milionů rupií, která otevřou mezi 9. a 16. únorem. Největší pozornost si vyslouží Fractal Analytics, první čistě zaměřená společnost na umělou inteligenci (AI) v Indii, a Aye Finance, nebankovní finanční společnost (NBFC). Tyto emise společně představují většinu plánovaného financování.
 
 ## Klíčové body
-- Fractal Analytics: IPO v hodnotě 2834 crore rupií (čerstvá emise 1023 crore rupií + prodej stávajících akcií 1810 crore rupií), cenový pásmo 857–900 rupií za akcii, minimální lot 16 akcií (14 400 rupií nahoře).
-- Aye Finance: IPO za 1010 crore rupií (čerstvá emise 710 crore rupií + prodej 300 crore rupií).
-- Marushika Technology: Menší SME IPO, které doplňuje týdenní nabídku.
-- Fractal Analytics slaví silný zájem investorů s prémií 4 % na šedém trhu.
-- Celková částka odpovídá přibližně 466 milionům USD při kurzu 83 rupií za dolar.
+- Fractal Analytics: IPO v hodnotě 2834 milionů rupií, otevření 9. února, uzavření 11. února, listink na BSE a NSE 16. února; cenový pásmo 857–900 rupií na akcii.
+- Aye Finance: IPO za 1010 milionů rupií, stejné termíny jako Fractal; zahrnuje novou emisi 710 milionů rupií a prodej stávajících akcií za 300 milionů rupií.
+- Marushika Technology: Menší emise na SME platformě, přispívá k celkovému objemu.
+- Fractal Analytics se specializuje na AI služby, platformy a růstové podniky pro globální klientelu, převážně z USA.
+- Šedý trh naznačuje prémií kolem 4 % pro Fractal, což signalizuje očekávaný pozitivní debut.
 
 ## Podrobnosti
-Fractal Analytics, založená v roce 2000, se specializuje na AI služby, platformy a růstové podniky zaměřené na rozhodovací inteligenci pro globální podniky. Společnost generuje významný podíl příjmů z amerického trhu a poskytuje řešení v oblastech jako analýza dat, prediktivní modelování a optimalizace procesů pomocí AI. Toto IPO je prezentováno jako první čistě AI zaměřené listování v Indii, což podtrhuje rostoucí dominanci umělé inteligence v ekonomice země. Cena akcie je stanovena v pásmu 857 až 900 rupií, což umožňuje investorům vstoupit minimálně za 14 400 rupií. Očekávaný debut je pozitivní díky prémiím na šedém trhu kolem 4 %, což signalizuje důvěru v dlouhodobý růst AI sektoru.
+Fractal Analytics, založená v roce 2000, vybudovala globální podnik zaměřený na AI a rozhodovací inteligenci. Společnost poskytuje AI služby, které zpracovávají data pro podnikové rozhodování, platformy pro automatizaci analýz a samostatné růstové divize. Její klientela zahrnuje velké globální firmy, přičemž významná část příjmů pochází z USA. IPO Fractal Analytics má hodnotu 2834 milionů rupií a skládá se z nové emise akcií za 1023 milionů rupií, která poslouží k expanzi, a prodeje stávajících akcií za 1810 milionů rupií od současných akcionářů. Minimální objednávka činí 16 akcií, což při horní hranici cenového pásma vyžaduje investici 14 400 rupií. Tato emise je označována jako první čistě AI listing v Indii, což podtrhuje rostoucí zájem o AI technologie v rozvíjejících se trzích.
 
-Aye Finance, založená v roce 1993 jako nebankovní finanční společnost (NBFC), se zaměřuje na poskytování mikropůjček malým a středním podnikům v Indii, kde pomáhá řešit nedostatek kapitálu pro neformální sektor. Její IPO v hodnotě 1010 crore rupií zahrnuje čerstvou emisi pro expanzi a prodej stávajících akcií. Tato emise posiluje diversifikaci týdenní nabídky, kde mainboard segment tvoří většinu objemu.
-
-Marushika Technology přidává na SME platformě menší emisi, která cílí na investory hledající růstové příležitosti v technologickém sektoru pro malé firmy, i když detaily nejsou tak prominentní. Celkově tyto IPO představují kumulativní sběr 3871 crore rupií, což je významný impuls pro indický akciový trh v období 9.–16. února. Fractal Analytics tak stává se marquee událostí, protože demonstruje, jak AI firmy přecházejí z startupové fáze do veřejného obchodování s globálním dosahem.
+Vedle Fractal otevře Aye Finance, založená v roce 1993, IPO v hodnotě 1010 milionů rupií. Aye Finance je NBFC specializovaná na poskytování úvěrů malým podnikům a živnostníkům v Indii, kde řeší nedostatek financování pro nebankovní sektor. Emise zahrnuje novou emisi za 710 milionů rupií na rozšíření půjček a prodej akcií za 300 milionů rupií. Marushika Technology přidává menší IPO na SME platformě, která je určena pro malé a střední podniky s nižšími požadavky na regulaci. Celkový objem 3871 milionů rupií (přibližně 46 milionů USD při aktuálním kurzu) ukazuje na oživení indického IPO trhu po klidnějším období. Zájem investorů je patrný z šedého trhu, kde Fractal vykazuje prémii 4 %, což odráží důvěru v AI sektor.
 
 ## Proč je to důležité
-Toto IPO podtrhuje expanzi AI v Indii, kde Fractal Analytics jako první pure-play AI společnost otevírá dveře dalším inovacím v umělé inteligenci. Pro průmysl znamená přístup k kapitálu pro škálování AI platforem, které slouží k predikci, automatizaci a rozhodování v korporátním prostředí. Investoři získají expozici vůči sektoru s vysokým růstovým potenciálem, zejména s ohledem na americký trh. V širším kontextu posiluje indický tech ekosystém, kde IPO firem jako Fractal může přilákat globální kapitál a konkurovat západním AI gigantům. Aye Finance doplňuje finanční inkluzi, což je klíčové pro udržitelný růst ekonomiky. Celkově to signalizuje oživení primárního trhu po pandemii, s důrazem na technologie a finance.
+Toto IPO představuje klíčový moment pro indický tech sektor, zejména AI, kde Fractal Analytics vstupuje jako první specializovaná firma na burzu. To může přilákat další investice do AI startupů v Asii a demonstrovat, jak AI služby – od datové analýzy po prediktivní modely – generují stabilní příjmy z globálních klientů. Pro průmysl znamená posílení kapitálu pro expanzi Fractal, což urychlí vývoj AI platforem pro rozhodovací procesy v podnicích. Aye Finance naopak ilustruje, jak fintech řeší inkluzivní financování v rozvojových ekonomikách. V širším kontextu to podtrhuje trend, kdy IPO tech firem s financováním nad 100 milionů USD stávají se indikátorem zdraví primárního trhu a přitahují zahraniční kapitál do AI a fintechu.
 
 ---
 

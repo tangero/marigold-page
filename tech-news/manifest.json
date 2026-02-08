@@ -1,10 +1,108 @@
 {
-  "generated": "2026-02-08T05:47:09.278404+00:00",
-  "count": 173,
+  "generated": "2026-02-08T08:47:34.116408+00:00",
+  "count": 178,
   "articles": [
     {
-      "title": "Kalendář IPO: Tři emise v hodnotě 3871 crore rupií vstoupí na trh příští týden, Fractal Analytics a Aye Finance vedou",
-      "description": "Indický trh s IPO očekává rušný týden s třemi emisemi v celkové hodnotě 3871 crore rupií (přibližně 466 milionů USD), které otevřou mezi 9. a 16. únorem. Fractal Analytics, první čistě AI zaměřená společnost v Indii, a Aye Finance tvoří jádro mainboard segmentu, zatímco Marushika Technology posiluje SME platformu.",
+      "title": "Banka zaměřená na kryptoměny Erebor získala první novou americkou bankovní licenci v Trumpově druhém období: WSJ",
+      "description": "Američtí regulátoři udělili národní licenci kryptoměnám zaměřené Erebor Bank, startupovému veritelovi podporovanému významnými technologickými investory, který cílí na startupy, firmy z oblasti AI a obranných technologií.",
+      "slug": "crypto-focused-erebor-wins-first-new-us-bank-chart",
+      "publishedAt": "2026-02-07T06:54:42+00:00",
+      "date": "2026-02-07 06:54:42",
+      "importance": 4,
+      "category": "kryptoměny",
+      "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-02/019c36ce-5a33-781b-aa51-456342834541.jpg",
+      "url": "/tech-news/2026-02-07/crypto-focused-erebor-wins-first-new-us-bank-chart/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Cointelegraph"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Jak Nvidia se stala první společností s hodnotou 5 bilionů dolarů, v 4 grafech | CNN Business",
+      "description": "Nvidia, a ne Apple či Microsoft, se stala v říjnu první společností, která překonala valuaci 5 bilionů dolarů, čímž upevnila svou roli jako motor AI boomu díky čipům, které navrhuje.",
+      "slug": "how-nvidia-became-the-first-5-trillion-company-in-",
+      "publishedAt": "2026-02-07T06:45:42+00:00",
+      "date": "2026-02-07 06:45:42",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/nvidia-card.jpg?c=16x9&q=w_800,c_fill",
+      "url": "/tech-news/2026-02-07/how-nvidia-became-the-first-5-trillion-company-in/",
+      "source": {
+        "emoji": "📰",
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "companies": [
+        "Nvidia",
+        "Apple",
+        "Microsoft"
+      ],
+      "people": []
+    },
+    {
+      "title": "Zpráva varuje před čínskými výzkumníky s vazbami na KKP a armádu v citlivých laboratořích amerických univerzit",
+      "description": "Strážní pes zveřejnil zprávu, která identifikuje téměř dvě desítky čínských akademiků na předních amerických univerzitách s vazbami na Komunistickou stranu Číny, instituce spojené s čínskou armádou nebo blacklistované firmy. Tito výzkumníci pracují na citlivém federálně financovaném výzkumu v oblastech jako AI, kvantové senzory a infekční onemocnění s potenciálním vojenským využitím.",
+      "slug": "report-warns-chinese-researchers-with-ccp-military",
+      "publishedAt": "2026-02-07T06:00:00+00:00",
+      "date": "2026-02-07 06:00:00",
+      "importance": 4,
+      "category": "čínská špionáž",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/02/Science-Discovery-Equipment-Lab-Oil-Analysis-Analyze.jpg",
+      "url": "/tech-news/2026-02-07/report-warns-chinese-researchers-with-ccp-military/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Euforie kolem umělé inteligence se střetává s realitou softwaru v krvavém týdnu pro akcie",
+      "description": "To, co jsme viděli, je masivní rotace na trhu, nikoliv výprodej, což dokazují investoři nahrnuvší se do defenzivních titulů.",
+      "slug": "ai-hype-meets-software-reality-in-bloody-week-for-",
+      "publishedAt": "2026-02-07T06:00:00+00:00",
+      "date": "2026-02-07 06:00:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/NDNNV3CHBF4UOLGU5UAACOI2TU.jpg?smart=true&auth=574bef4e4c81b3bde853b58939b0f43f4fdee568ac09aa7b501282186899952b&width=1200&height=630",
+      "url": "/tech-news/2026-02-07/ai-hype-meets-software-reality-in-bloody-week-for/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Benchmark získal 225 milionů dolarů v speciálních fondech na posílení investic do Cerebras | TechCrunch",
+      "description": "Investiční společnost Benchmark vložila nejméně 225 milionů dolarů do nového kola financování AI čipmakeru Cerebras Systems, který získal celkem 1 miliardu dolarů při valuaci 23 miliard dolarů. Tato investice představuje významný krok v soutěži o AI infrastrukturu.",
+      "slug": "benchmark-raises-225m-in-special-funds-to-double-d",
+      "publishedAt": "2026-02-07T05:24:37+00:00",
+      "date": "2026-02-07 05:24:37",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-1251294592.jpg?w=1024",
+      "url": "/tech-news/2026-02-07/benchmark-raises-225m-in-special-funds-to-double-d/",
+      "source": {
+        "emoji": "🚀",
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "companies": [
+        "Benchmark",
+        "Cerebras",
+        "TechCrunch"
+      ],
+      "people": []
+    },
+    {
+      "title": "Kalendář IPO: Tři emise v hodnotě 3871 milionů rupií vstoupí na trh příští týden, Fractal Analytics a Aye Finance vedou",
+      "description": "Indický trh s IPO se připravuje na rušný týden, kdy tři emise v celkové hodnotě 3871 milionů rupií otevřou mezi 9. a 16. únorem. Fractal Analytics a Aye Finance dominují v segmentu hlavní tabule, zatímco Marushika Technology přidává impuls na platformě pro malé a střední podniky.",
       "slug": "ipo-calendar-3-issues-worth-rs-3871-crore-hit-the-",
       "publishedAt": "2026-02-07T04:50:31+00:00",
       "date": "2026-02-07 04:50:31",
@@ -19,6 +117,7 @@
       },
       "companies": [
         "Fractal Analytics",
+        "Aye Finance",
         "Marushika Technology"
       ],
       "people": []
