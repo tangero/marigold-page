@@ -1,7 +1,103 @@
 {
-  "generated": "2026-02-08T12:51:14.802087+00:00",
-  "count": 181,
+  "generated": "2026-02-08T16:48:06.091645+00:00",
+  "count": 186,
   "articles": [
+    {
+      "title": "ICT produkty z USA jsou pro Indie nutností právě nyní: Pijush Goyal",
+      "description": "Indický ministr obchodu Pijush Goyal zdůraznil potřebu amerických ICT produktů pro rozvoj datových center a umělé inteligence v Indii. V rámci prozatímní obchodní dohody s USA se Indie zavázala odstranit bariéry pro dovoz US medicínských zařízení a ICT zboží, včetně GPU pro datová centra.",
+      "slug": "ict-products-from-us-need-of-the-hour-in-india-piy",
+      "publishedAt": "2026-02-07T16:05:14+00:00",
+      "date": "2026-02-07 16:05:14",
+      "importance": 4,
+      "category": "lékařská zařízení",
+      "urlToImage": "https://img.etimg.com/thumb/msid-128039521,width-1200,height-630,imgsize-54466,overlay-economictimes/articleshow.jpg",
+      "url": "/tech-news/2026-02-07/ict-products-from-us-need-of-the-hour-in-india-piy/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": [
+        "Piyush Goyal"
+      ]
+    },
+    {
+      "title": "Indo-americká obchodní dohoda posílí indický trh datových center sedminásobně",
+      "description": "Podíl Indie na globálním trhu datových center činí nyní přibližně 5,5 %, s vhodnou podporou politiky by mohl vzrůst na 10 %, což odpovídá více než 12 miliardám USD do roku 2032.",
+      "slug": "india-us-trade-pact-set-to-boost-indias-data-centr",
+      "publishedAt": "2026-02-07T15:50:20+00:00",
+      "date": "2026-02-07 15:50:20",
+      "importance": 4,
+      "category": "datová centra",
+      "urlToImage": "https://bl-i.thgim.com/public/todays-paper/tp-news/fupllz/article70597611.ece/alternates/LANDSCAPE_1200/Data-centre-plaG3QFHTC5H.4.jpg.jpg",
+      "url": "/tech-news/2026-02-07/india-us-trade-pact-set-to-boost-indias-data-centr/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Dočasná obchodní dohoda Indie a USA usnadní přístup k pokročilým GPU a vybavení pro datová centra",
+      "description": "Indický ministr IT Ashwini Vaishnaw uvedl, že Indie a USA finalizují dočasný obchodní rámec, který urychlí přístup k grafickým procesorům (GPU) a vybavení pro datová centra. Dohoda vytvoří příležitosti pro startupy, poskytovatele služeb a širší AI ekosystém.",
+      "slug": "india-us-interim-trade-deal-to-boost-access-to-adv",
+      "publishedAt": "2026-02-07T15:07:45+00:00",
+      "date": "2026-02-07 15:07:45",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-160290,resizemode-75,msid-128037330/tech/technology/india-us-interim-trade-deal-to-boost-access-to-advanced-gpus-data-centres-equipments.jpg",
+      "url": "/tech-news/2026-02-07/india-us-interim-trade-deal-to-boost-access-to-adv/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": [
+        "Ashwini Vaishnaw"
+      ]
+    },
+    {
+      "title": "Recenze IPO Fractal Analytics: Oceňování vypadá náročné uprostřed narušení AI",
+      "description": "Fractal Analytics je v nepříjemné mezištati. Oceňována je jako prémiový AI hráč, ale její současný finanční profil stále připomíná model založený na službách s nízkými maržemi.",
+      "slug": "fractal-analytics-ipo-review-valuation-looks-deman",
+      "publishedAt": "2026-02-07T14:24:48+00:00",
+      "date": "2026-02-07 14:24:48",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/67j2ds/article70601112.ece/alternates/LANDSCAPE_1200/PO08_AI.jpg",
+      "url": "/tech-news/2026-02-07/fractal-analytics-ipo-review-valuation-looks-deman/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "companies": [
+        "Fractal Analytics"
+      ],
+      "people": []
+    },
+    {
+      "title": "Čínská mikrovlnná zbraň o výkonu 20 gigawattů označená čínskými médii za ‚noční můru Starlinku‘ – přenosné zařízení o hmotnosti 5 tun dokáže vyslat destruktivní výboje na plnou minutu",
+      "description": "Čínští vědci vyvinuli výkonnou mikrovlnnou zbraň schopnou narušovat nebo poškozovat satelity v nízké oběžné dráze. TPG1000Cs je první zařízení, které udrží 20gigawattový výkon po dobu jedné minuty, a lze ho snadno převézt na vozidle.",
+      "slug": "A-20-gigawatt-chinese-microwave-weapon-touted-as-s",
+      "publishedAt": "2026-02-07T14:07:26+00:00",
+      "date": "2026-02-07 14:07:26",
+      "importance": 4,
+      "category": "protisatelitní zbraň",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/whXDR89kup53EZa5dMeBHV-1920-80.jpg",
+      "url": "/tech-news/2026-02-07/A-20-gigawatt-chinese-microwave-weapon-touted-as-s/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "OpenAI Frontier chce nahradit manuální úkoly AI agenty",
       "description": "OpenAI představilo OpenAI Frontier, platformu umělé inteligence založenou na agentech, která automatizuje pracovní úkoly dříve vykonávané lidmi. Tato iniciativa umožňuje virtuálním agentům pracovat napříč korporátními systémy podobně jako zaměstnanci.",
