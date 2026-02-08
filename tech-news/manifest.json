@@ -1,10 +1,87 @@
 {
-  "generated": "2026-02-08T16:48:06.091645+00:00",
-  "count": 186,
+  "generated": "2026-02-08T20:40:48.381226+00:00",
+  "count": 190,
   "articles": [
     {
-      "title": "ICT produkty z USA jsou pro Indie nutností právě nyní: Pijush Goyal",
-      "description": "Indický ministr obchodu Pijush Goyal zdůraznil potřebu amerických ICT produktů pro rozvoj datových center a umělé inteligence v Indii. V rámci prozatímní obchodní dohody s USA se Indie zavázala odstranit bariéry pro dovoz US medicínských zařízení a ICT zboží, včetně GPU pro datová centra.",
+      "title": "Elon Musk varuje, že USA se ‚1 000 % zbankrotují‘, pokud AI a robotika nezachrání ekonomiku před drtivým dluhem",
+      "description": "‚Potřebujeme jen dost času na vybudování AI a robotů, abychom se nezbankrotovali dříve.‘",
+      "slug": "elon-musk-warns-the-us-is-1000-going-to-go-bankrup",
+      "publishedAt": "2026-02-07T18:48:28+00:00",
+      "date": "2026-02-07 18:48:28",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2214431997-e1770486306508.jpg?resize=1200,600",
+      "url": "/tech-news/2026-02-07/elon-musk-warns-the-us-is-1000-going-to-go-bankrup/",
+      "source": {
+        "emoji": "📰",
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Risika v informatice: Shrnutí číslo 34.86",
+      "description": "Vydání 34.86 mailing listu RISKS shrnuje aktuální hrozby v kyberbezpečnosti, umělé inteligenci a autonomních systémech, včetně prompt injection v autech a úniků dat z Harvardu a UPenn.",
+      "slug": "no-subject",
+      "publishedAt": "2026-02-07T18:26:25+00:00",
+      "date": "2026-02-07 18:26:25",
+      "importance": 5,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://seclists.org/images/risks-img.png",
+      "url": "/tech-news/2026-02-07/no-subject/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Seclists.org"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Tento týdenní výběr technologických novinek z webu (do 7. února)",
+      "description": "Každý týden prohledáváme web kvůli důležitým, poučným a fascinujícím příběhům z vědy a technologie. Tento vydání pokrývá kritiku AI hype, pokroky v kvantové simulaci, umělou inteligenci řešící matematické problémy a nosní sprej proti chřipce.",
+      "slug": "this-weeks-awesome-tech-stories-from-around-the-we",
+      "publishedAt": "2026-02-07T18:02:27+00:00",
+      "date": "2026-02-07 18:02:27",
+      "importance": 5,
+      "category": "technologické novink",
+      "urlToImage": "https://singularityhub.com/uploads/2026/02/digital-network-nodes.jpeg?auto=webp",
+      "url": "/tech-news/2026-02-07/this-weeks-awesome-tech-stories-from-around-the-we/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Singularity Hub"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Autonomní důlní nákladní vůz s výměnou baterií získal významnou investici od BYD [video]",
+      "description": "Čínská společnost Boonray vyvinula autonomní elektrický důlní nákladní vůz s automatickou výměnou baterií, který cílí na transformaci těžebního průmyslu. Globální výrobce elektromobilů BYD investoval 100 milionů renminbi (přibližně 14,5 milionu USD) do jeho dalšího rozvoje.",
+      "slug": "autonomous-battery-swap-mining-truck-gets-big-buck",
+      "publishedAt": "2026-02-07T17:17:07+00:00",
+      "date": "2026-02-07 17:17:07",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/02/boonray.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2026-02-07/autonomous-battery-swap-mining-truck-gets-big-buck/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Electrek"
+      },
+      "companies": [
+        "Boonray",
+        "BYD"
+      ],
+      "people": []
+    },
+    {
+      "title": "ICT produkty z USA jsou pro Indii nyní nezbytností: Piyush Goyal",
+      "description": "V rámci prozatímní obchodní dohody mezi Indií a USA se New Delhi zavázalo odstranit dlouhodobé bariéry v obchodu s americkými lékařskými zařízeními a zrušit restriktivní dovozní licenční postupy pro ICT zboží, které oddalují přístup na trh nebo ukládají kvantitativní omezení.",
       "slug": "ict-products-from-us-need-of-the-hour-in-india-piy",
       "publishedAt": "2026-02-07T16:05:14+00:00",
       "date": "2026-02-07 16:05:14",
