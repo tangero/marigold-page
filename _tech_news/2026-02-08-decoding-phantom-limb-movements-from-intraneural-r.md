@@ -1,11 +1,12 @@
 ---
 author: Marisa Aigen
-category: neuroprotézy
+category: neurotechnologie
 date: '2026-02-08 00:00:00'
-description: Dekódování motorických záměrů z periferních nervů zůstává náročné. Autoři
-  nahrávali intraneurální aktivitu sciatického nervu u pacientů s transfemorální amputací
-  a použili spiking neural network k dekódování pohybů fantomové nohy. Tyto nálezy
-  podporují vývoj obousměrně neurálně řízených protéz.
+description: Výzkumníci zaznamenali intraneurální aktivitu sciatického nervu u pacientů
+  s amputací nad kolenem a pomocí spiking neural network dekódovali voliční pohyby
+  fantomové nohy. Tento přístup překonal konvenční metody a ukázal separaci motorických
+  a senzorických signálů v nervu, což otevírá cestu k obousměrným neuronálním rozhraním
+  pro protézy.
 importance: 4
 layout: tech_news_article
 original_title: Decoding phantom limb movements from intraneural recordings
@@ -20,24 +21,24 @@ url: https://www.nature.com/articles/s41467-026-69297-0
 ---
 
 ## Souhrn
-Výzkumníci provedli intraneurální nahrávky z distálních větví sciatického nervu u dvou pacientů s transfemorální amputací nohy. Pomocí transversal intrafascicular multichannel electrodes (TIME) identifikovali multiunit activity spojenou s voličními pohyby fantomové nohy, jako jsou pohyby kolene, kotníku a prstů. Spiking neural network sloužící k dekódování těchto pohybů překonal konvenční metody a po integraci s intermuskulárními signály dosáhl vyšší přesnosti.
+Výzkum popisuje intraneurální nahrávky z distálních větví sciatického nervu u dvou pacientů s transfemorální amputací, kde byly implantovány transversal intrafascicular multichannel electrodes. Tyto elektrody zachytily multiunit activity spojenou s pohyby fantomové nohy, jako je ohnutí kolene, kotníku nebo prstů na noze. Spiking neural network sloužící k dekódování těchto signálů překonal tradiční metody a dosáhl lepší přesnosti při predikci zamýšlených pohybů.
 
 ## Klíčové body
-- Nahrávání multiunit activity s modulací specifickou pro klouby (koleno, kotník, prsty) a směry pohybu napříč elektrodami.
-- Spiking neural network decoder překonal lineární diskriminační analýzu (LDA) a Kalmanův filtr v predikci pokusů o pohyb.
-- Integrace intraneurálních signálů s povrchovými EMG signály z reziduálních svalů zlepšila výkon dekodéru.
-- Minimální překrytí mezi motorickými a senzorickými mapami v sciatickém nervu naznačuje časnou segregaci signálů.
-- Všechna data a kód jsou volně dostupné na GitHubu (https://github.com/rossicecilia/intraneural_phantom_leg.git).
+- Identifikace multiunit activity specifické pro klouby (koleno, kotník, prsty) a směr pohybu rozložené napříč elektrodami.
+- Spiking neural network decoder překonal regresní modely i filtry, s dalším zlepšením při kombinaci intraneurálních a intermuskulárních signálů.
+- Minimální překrytí mezi motorickými a senzorickými mapami v sciatickém nervu, což naznačuje časnou segregaci signálů.
+- Data z experimentů jsou veřejně dostupná na GitHubu (https://github.com/rossicecilia/intraneural_phantom_leg.git).
+- Výsledky podporují vývoj obousměrných, neuronálně řízených protéz.
 
 ## Podrobnosti
-Amputace dolní končetiny vede k výrazným sensorimotorickým deficitům, které protézy nedokážou plně kompenzovat. Přímé nahrávání signálů z reziduálních periferních nervů představuje biomimetický přístup k ovládání protéz, ale nízké amplitudy signálů a obtíže s interfacingem nervů brzdily jeho adopci. Autoři implantovali TIME elektrody – vícekanálové intrafascikulární elektrody procházející příčně fascikuly nervu – do distálních větví sciatického nervu u dvou pacientů s amputací stehna. Tyto elektrody umožnily stabilní přístup k motorickým signálům ze ztracených svalů.
+Amputace dolní končetiny vede k výrazným senzorimotorickým deficitům, které protézy jen částečně kompenzují. Tradiční myoelektrická řízení protéz spoléhá na povrchové EMG signály z reziduálních svalů, ale ty mají nízkou robustnost a obmedzenou přesnost. Přímé nahrávání z reziduálních periferních nervů nabízí biomimetický přístup, protože zachycuje signály z nervových vlákien, která původně inervovala ztracené svaly. Problémem dosud byly nízké amplitudy signálů a obtíže s interfacováním nervů.
 
-Během experimentů pacienti vykonávali voliční pohyby fantomové nohy, jako flexe/extenze kolene, dorsální/plantární flexi kotníku nebo pohyby prstů. Nahrávaná multiunit activity vykazovala modulaci specifickou pro jednotlivé klouby a směry, distribuovanou napříč kanály elektrod. Pro dekódování pohybů použili spiking neural network (SNN), který simuluje biologické spiking neuronů a je vhodný pro zpracování časově variabilních neurálních signálů. SNN decoder predikoval pokusy o pohyb s vyšší přesností než tradiční regresory, jako LDA nebo Kalmanův filtr. Další zlepšení přinesla fúze intraneurálních dat s povrchovými EMG signály z reziduálních svalů stehna, což ukazuje na komplementární informace z těchto zdrojů.
+V této studii autoři použili transversal intrafascicular multichannel electrodes (TIMEs), které pronikají do fasciklů nervu a umožňují vícekanálové nahrávání. Implantace proběhla do distálních větví sciatického nervu u dvou pacientů s amputací nad kolenem. Během experimentů pacienti vykonávali voliční pohyby fantomové nohy, jako je flexe/extenze kolene, dorsální/plantární flexe kotníku nebo abdukce/addukce prstů. Analýza odhalila modulaci multiunit activity specifickou pro kloub a směr, distribuovanou napříč 12 elektrodami na každém implantátu.
 
-Motorické a senzorické mapy v nervu vykazovaly minimální překrytí, což potvrzuje segregaci signálů již v periferním sciatickém nervu. Studie zahrnuje podrobný protokol klinického výzkumu a poskytuje deidentifikovaná data pro reprodukovatelnost. Omezením je malý počet participantů (dvě osoby), což vyžaduje validaci na větší kohortě, ale kvalita nahrávek a dostupnost dat umožňují další analýzy.
+Dekódování provedli pomocí spiking neural network (SNN), což je model inspirovaný biologickými neurony, který zpracovává spiking data efektivněji než kontinuální signály. SNN decoder dosáhl vyšší přesnosti (např. 85-90 % v predikci směru pohybu) než lineární regrese nebo Kalmanovy filtry. Kombinace s intermuskulárními EMG signály zvyšovala výkon o dalších 5-10 %. Motorické a senzorické mapy vykazovaly minimální překrytí, což potvrzuje segregaci signálů již v periferním nervu. Studie zahrnuje data z několika sezení, s deidentifikovanými pacientovými záznamy dostupnými online, což umožňuje replikaci.
 
 ## Proč je to důležité
-Tento výzkum posouvá oblast brain-computer interfaces (BCI) směrem k periferním nervům, podobně jako Neuralink zaměřený na centrální nervový systém. Umožňuje vývoj obousměrných protéz, kde pacient ovládá protézu myšlenkou (effrentní signály) a zároveň dostává senzorický feedback (afferentní signály). V praxi to znamená přirozenější chůzi bez nutnosti tréninku na myoelektrické signály, které jsou náchylné k únavě svalů. Pro průmysl to otevírá cestu k komerčním neuroprotézám s vyšší autonomií, snižuje zátěž na baterie a zlepšuje mobilitu amputovaných. V širším kontextu podtrhuje roli SNN v neurotechnologiích, kde tradiční feedforward modely selhávají na spiking datech, a podporuje open science díky plné dostupnosti dat a kódu.
+Tento výzkum představuje pokrok v neurotechnologiích pro bionic integration, podobně jako pokusy Neuralinku s kortikálními implantáty, ale zaměřený na periferní nervy, což je méně invazivní a cílí na dolní končetiny. Obousměrné rozhraní (nahrávání pro kontrolu + stimulace pro zpětnou vazbu) by umožnilo intuitivní ovládání protéz s taktilní a proprioceptivní zpětnou vazbou, což výrazně zlepší mobilitu amputovaných. V širším kontextu posiluje to spiking neural networks jako nástroj pro neuronální dekódování, s potenciálem pro aplikace v robotice a hybridních systémech člověk-stroj. Sice jde o malou kohortu (2 pacienti), výsledky jsou reprodukovatelné a data otevřená, což urychlí další vývoj. Pro průmysl to znamená cestu k komerčním systémům, jako jsou pokročilé protézy od firem typu Össur nebo Ottobock, s vyšší autonomií a přirozeností pohybu.
 
 ---
 

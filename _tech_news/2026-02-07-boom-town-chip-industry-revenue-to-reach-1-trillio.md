@@ -2,10 +2,9 @@
 author: Marisa Aigen
 category: polovodiče
 date: '2026-02-07 23:06:59'
-description: Globální polovodičový průmysl poprvé v historii překročí roční příjmy
-  1 bilionu dolarů v roce 2026, což je milestone urychlený poptávkou po čipech pro
-  AI a datová centra. Růst překonává původní odhady o čtyři roky a signalizuje široké
-  využití čipů v ekonomice.
+description: Globální polovodičový průmysl by měl poprvé dosáhnout ročních příjmů
+  1 bilionu dolarů v roce 2026. Tento milník je poháněn poptávkou po čipech pro aplikace
+  AI a šířící se integrací polovodičů do všech ekonomických odvětví.
 importance: 4
 layout: tech_news_article
 original_title: 'Boom Town: Chip Industry Revenue to Reach $1 Trillion in 2026 Driven
@@ -24,24 +23,24 @@ urlToImageBackup: https://media.breitbart.com/media/2026/02/Jensen-Huang-shows-o
 ---
 
 ### Souhrn
-Globální polovodičový průmysl dosáhne v roce 2026 příjmů přes 1 bilion dolarů, což představuje historický milník tažený poptávkou po čipech pro datová centra určená k výpočtům AI. Podle Semiconductor Industry Association (SIA) příjmy v roce 2025 činily 791,7 miliardy dolarů a v roce 2026 porostou o 26 procent. Tento růst přichází o čtyři roky dříve, než experti původně předpokládali.
+Globální polovodičový průmysl dosáhne v roce 2026 příjmů ve výši 1 bilionu dolarů, což představuje historický milník urychlený poptávkou po čipech pro AI. Podle údajů Semiconductor Industry Association (SIA) příjmy v roce 2025 činily 791,7 miliardy dolarů a očekává se 26procentní růst následujícího roku. Tento růst překonává dřívější odhady o čtyři roky.
 
 ### Klíčové body
-- Příjmy v 2026: přes 1 bilion USD, růst o 26 % z 791,7 miliardy v 2025.
-- Logické čipy (CPU): růst o 40 % na 301,9 miliardy USD.
-- Paměťové čipy: růst o 35 % na 223,1 miliardy USD.
-- Hlavní tahúni: poptávka po čipech pro datová centra od firem jako Nvidia a Micron Technology.
-- Geograficky: růst v Asii-Pacificku, Americe, Evropě a Číně; jediný pokles v Japonsku.
+- Příjmy v roce 2025: 791,7 miliardy dolarů, růst o 26 % v roce 2026 na přes 1 bilion.
+- Logické čipy (střediska zpracování dat, jako CPU): růst o 40 % na 301,9 miliardy dolarů.
+- Paměťové polovodiče (pro ukládání a správu dat): růst o 35 % na 223,1 miliardy dolarů.
+- Hlavní tahoun: poptávka po čipech pro datová centra od firem jako Nvidia a Micron Technology.
+- Regionální růst: Asijsko-pacifický region, Ameriky, Evropa a Čína; jediný pokles v Japonsku.
 
 ### Podrobnosti
-Polovodičový průmysl zažívá nebývalý růst, který Bloomberg připisuje zejména explozi poptávky po výkonných čipech pro datová centra. Tyto centra slouží k tréninku a provozu velkých jazykových modelů (LLM) jako GPT nebo Llama, kde GPU od Nvidia zpracovávají obrovské objemy dat pro strojové učení. Například Nvidia reportovala rekordní zisky díky svým H100 a nadcházejícím Blackwell GPU, které optimalizují paralelní výpočty pro AI trénink. Podobně Micron Technology profituje z poptávky po HBM (high-bandwidth memory), paměti s vysokou propustností pro rychlé přístupy k datům v AI aplikacích.
+Polovodičový průmysl zažívá nebývalý růst, který Bloomberg připisuje především expanzi datových center určených pro výpočty AI. Logické čipy slouží jako ústřední procesory zařízení, kde zpracovávají instrukce a vykonávají výpočty nutné pro trénink velkých jazykových modelů nebo inferenci v reálném čase. Například GPU od Nvidia, které spadají do kategorie logických čipů, umožňují paralelní zpracování dat pro AI algoritmy, což je klíčové pro modely jako GPT nebo Llama. Paměťové polovodiče, jako DRAM nebo NAND flash, umožňují rychlé ukládání a přístup k velkým objemům dat, což je nezbytné pro trénink AI na terabajtech dat.
 
-Podle SIA CEO Johna Neuffera tento růst překonal všechny prognózy – původně se očekávalo dosažení bilionu až za čtyři roky. V roce 2025 logické čipy, fungující jako centrální procesory zařízení, zvýšily příjmy o 40 % na 301,9 miliardy dolarů. Paměťové polovodiče, klíčové pro ukládání a správu dat v počítačích, porostly o 35 % na 223,1 miliardy. Geograficky byl růst vyrovnaný: Asie-Pacifická oblast, Ameriky, Evropa a Čína zaznamenaly nárůst prodejů, zatímco Japonsko jako jediný velký trh vykázalo pokles, pravděpodobně kvůli slabší domácí poptávce a konkurenci z Tchaj-wanu (TSMC).
+Podle SIA dosáhly prodeje v roce 2025 rekordní úrovně a překonaly všechny předchozí projekce. John Neuffer, generální ředitel SIA, uvedl, že dřívější odhady počítaly s dosažením bilionu až za čtyři roky. Tento urychlený růst přinesl obrovské zisky hlavním výrobcům, jako je Nvidia, která dominuje v AI akcelerátorech, a Micron Technology, specializující se na paměti. Geograficky byl růst široký: Asijsko-pacifický region vede díky výrobním kapacitám v Tchaj-wanu (TSMC) a Jižní Koreji (Samsung), následované Amerikami (Intel, Nvidia), Evropou a Čínou. Pouze Japonsko vykázalo pokles, pravděpodobně kvůli slabší poptávce v spotřební elektronice.
 
-Tento boom není omezen na AI – čipy se integrují do automobilového průmyslu (autonomní řízení), spotřební elektroniky a průmyslové robotiky. Například v robotice, kde firmy jako Boston Dynamics vyžadují edge computing čipy pro autonomní navigaci, roste poptávka po nízkoodložených procesorech. Kriticky lze říci, že růst závisí na dodavatelských řetězcích: Tchaj-wan dominuje výrobou pokročilých nodů (3nm, 2nm), což přináší rizika geopolitických konfliktů s Čínou.
+Tento trend signalizuje, že AI není jen softwarovou revolucí, ale vyžaduje masivní hardwareovou podporu. Datová centra spotřebovávají čipy v objemu, který převyšuje poptávku z mobilních zařízení nebo automobilů, kde se čipy používají pro autonomní řízení.
 
 ### Proč je to důležité
-Tento milník ukazuje sílu AI jako hnací síly ekonomiky – bez dostupných čipů by pokrok v LLM, autonomních vozidlech (Tesla FSD) nebo robotice stagnoval. Pro uživatele znamená lepší dostupnost AI služeb (rychlejší ChatGPT, stabilnější cloud computing), ale i vyšší ceny energie pro datová centra. Pro průmysl signalizuje zdraví tech sektoru: růst v polovodičích táhne investice do AI infrastruktury, podporuje IPO firem jako Arm Holdings a funding pro AI startupy. Nicméně závislost na Nvidia (přes 80 % trhu AI GPU) vytváří monopolní rizika a potřebu diverzifikace (AMD, Intel Gaudi). V širším kontextu posiluje to pozici USA v tech válce s Čínou, kde exportní restrikce na pokročilé čipy brzdí čínský AI rozvoj.
+Růst polovodičového průmyslu je základním indikátorem zdraví AI ekosystému, protože bez dostupných čipů nelze škálovat modely AI ani nasazovat je v praxi. Pro uživatele to znamená rychlejší inovace v AI nástrojích, jako jsou pokročilé LLM pro generování textu nebo obrazu, ale také rizika: vysoká koncentrace poptávky na Nvidia může vést k nedostatku čipů a zdražení. Neuffer zdůraznil, že technologie polovodičů je základem pro klíčové odvětví, včetně robotiky a autonomních systémů. V širším kontextu to podporuje ekonomický růst, ale vyžaduje investice do výrobních kapacit, aby se zabránilo uzavření, jako v případě nedostatku čipů během pandemie. Jako expert na AI vidím v tomto růstu potvrzení, že hardware je úzkým hrdlem pro další pokrok v AGI, kde budou potřebné ještě výkonnější čipy pro simulace komplexních systémů.
 
 ---
 

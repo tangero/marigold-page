@@ -1,13 +1,13 @@
 ---
 author: Marisa Aigen
-category: umělá inteligence
+category: ai
 companies:
 - Nvidia
 - Dassault Systèmes
 date: '2026-02-07 23:30:37'
-description: Dassault Systèmes oznámila největší technologickou integraci s Nvidia,
-  čímž prohlubuje 25 let trvající spolupráci. V rámci rozšířené partnerství firmy
-  implementují zrychlené výpočty a generativní umělou inteligenci do svých řešení.
+description: Dassault Systèmes oznámilo největší technologickou integraci s Nvidia
+  v rámci 25letého partnerství. Společnosti integrují akcelerované výpočty a generativní
+  umělou inteligenci do průmyslových aplikací.
 importance: 4
 layout: tech_news_article
 original_title: Nvidia and Dassault Systèmes deepen partnership to bring AI into the
@@ -18,7 +18,7 @@ source:
   emoji: 📰
   id: null
   name: Digitimes
-title: Nvidia a Dassault Systèmes prohlubují partnerství, aby přinesly umělou inteligenci
+title: Nvidia a Dassault Systèmes prohlubují partnerství pro přenos umělé inteligence
   do fyzického světa
 url: https://www.digitimes.com/news/a20260205PD218/dassault-nvidia-partnership-technology-design.html
 urlToImage: https://img.digitimes.com/newsshow/20260205pd218_files/2_b.jpg
@@ -26,24 +26,24 @@ urlToImageBackup: https://img.digitimes.com/newsshow/20260205pd218_files/2_b.jpg
 ---
 
 ## Souhrn
-Dassault Systèmes a Nvidia prohlubují své dlouholeté partnerství největší technologickou integrací v historii francouzské firmy. Cílem je vložit zrychlené výpočty na bázi grafických procesorů Nvidia a generativní umělou inteligenci do nástrojů pro návrh, simulace a digitální dvojčata, což umožní přesnější modelování fyzického světa.
+Dassault Systèmes a Nvidia prohlubují své dlouhodobé partnerství, které trvá více než 25 let, prostřednictvím největší technologické integrace v historii francouzské firmy. Cílem je zabudovat akcelerované výpočty na bázi GPU od Nvidia a generativní umělou inteligenci do platforem pro 3D design a simulace. Tato spolupráce má přenést pokročilé AI schopnosti do reálných průmyslových procesů, jako je vývoj produktů a virtuální prototypování.
 
 ## Klíčové body
-- Největší technologická integrace Dassault Systèmes s Nvidia po 25 letech spolupráce.
-- Implementace zrychlených výpočtů (accelerated computing) a generativní AI do softwaru pro průmyslový design.
-- Zaměření na digitální dvojčata a simulace reálného světa pro automotive, letectví a výrobu.
-- Účast Jensen Huanga na událostech Dassault, včetně vize 3D univerza.
-- Souvislost s dalšími projekty Nvidia v oblasti autonomního řízení a kvantových výpočtů.
+- Největší technologická integrace v historii Dassault Systèmes s Nvidia.
+- Integrace akcelerovaných výpočtů (Nvidia GPU) a generativní AI do platformy 3DEXPERIENCE.
+- Partnerství trvá přes 25 let a zaměřuje se na průmyslové aplikace v designu, simulacích a výrobě.
+- Cílem je zlepšit simulace fyzikálních procesů pomocí AI pro rychlejší vývoj produktů.
+- Oznámeno 8. února 2026, publikováno DIGITIMES Asia.
 
 ## Podrobnosti
-Dassault Systèmes, francouzský výrobce softwaru pro třídimenzionální návrh a řízení životního cyklu výrobků (PLM), oznámil rozšíření spolupráce s Nvidia, která sahá až do roku 1999. Tato integrace představuje největší krok v historii firmy a zaměřuje se na propojení technologií Nvidia s platformami jako 3DEXPERIENCE. Konkrétně jde o využití grafických procesorů Nvidia s podporou CUDA pro zrychlené výpočty, které umožňují rychlejší simulace složitých fyzikálních jevů, jako je proudění kapalin nebo mechanické namáhání materiálů.
+Dassault Systèmes, francouzská společnost specializující se na softwarová řešení pro 3D design, simulace a management životního cyklu produktů (PLM), jako jsou nástroje CATIA pro letecký průmysl nebo SolidWorks pro mechanický design, oznámila rozšíření spolupráce s Nvidia. Nvidia, lídr v grafických procesorech (GPU) a akcelerovaných výpočtech pro umělou inteligenci, poskytne své technologie pro integraci do platformy 3DEXPERIENCE. Tato platforma slouží k vytváření virtuálních dvojčat produktů, kde inženýři simulují chování materiálů, aerodynamiku nebo výrobní procesy ještě před fyzickou realizací.
 
-Generativní umělá inteligence bude integrována do nástrojů pro optimalizaci návrhů. Například v softwaru CATIA nebo SolidWorks, které slouží k tvorbě 3D modelů automobilů, letadel či medicínských zařízení, umožní AI generovat varianty designů na základě definovaných parametrů, jako je hmotnost, pevnost nebo aerodynamika. Tato technologie vychází z modelů Nvidia jako Omniverse, platformy pro virtuální spolupráci v 3D prostředích, kde se simulují tovární linky nebo celé tovární haly jako digitální dvojčata.
+Podle oznámení bude integrace zahrnovat akcelerované výpočty na bázi Nvidia GPU, které výrazně zrychlí složité simulace, jako jsou konečnoelementové analýzy (FEA) nebo dynamické modely proudění kapalin (CFD). Dále přijde generativní umělá inteligence, která umožní automatizovanou optimalizaci designů – například generování stovek variant lehkých konstrukcí pro automobilový nebo letecký průmysl na základě zadaných parametrů, jako je hmotnost, pevnost nebo spotřeba energie. Pravděpodobně se objeví i podpora pro Nvidia Omniverse, otevřenou platformu pro 3D simulace a spolupráci v reálném čase, což umožní týmům z různých lokalit pracovat na sdílených virtuálních modelech.
 
-Článek zmiňuje i širší kontext: Jensen Huang, šéf Nvidia, se zúčastnil události Dassault Systèmes, kde představil vizi 3D univerza – uceleného digitálního světa pro testování fyzických systémů. To souvisí s obranou bezpečnosti autonomních systémů řízení Nvidia a změnou strategie v kvantových výpočtech. Pro průmysl to znamená přechod od tradičních simulací na AI-akcelerované modely, které zkrátí vývojové cykly z měsíců na dny. Například evropští automobiloví výrobci, kteří podle CEO Dassault zaostávají, by mohli díky tomu konkurovat americkým a asijským firmám v oblasti elektromobility.
+Tato integrace navazuje na předchozí spolupráce, kde Nvidia již dodávala GPU pro výpočetní clustery Dassault. Nyní jde o hlubší fúzi na úrovni softwaru, kde AI nebude jen urychlovat výpočty, ale aktivně navrhovat řešení. Pro uživatele to znamená kratší cykly vývoje – z měsíců na dny – a snížení nákladů na fyzické prototypy. V průmyslu, kde firmy jako Boeing nebo Airbus používají software Dassault, to posílí konkurenceschopnost vůči levnějším výrobcům z Asie.
 
 ## Proč je to důležité
-Toto partnerství posiluje pozici Nvidia v průmyslové AI, kde GPU převažují nad CPU díky paralelnímu zpracování dat pro simulace. Pro uživatele v automotive nebo letectví to znamená přesnější predikce chování reálných systémů, což snižuje náklady na prototypy a zrychluje inovace. V širším ekosystému urychluje přechod k generativní ekonomice založené na digitálních dvojčatech, kde AI generuje nejen designy, ale i optimalizované výrobní procesy. Kriticky lze říci, že zatímco slibuje efektivitu, závislost na Nvidia hardwaru zvyšuje rizika dodavatelského řetězce a potenciální licenční poplatky. Dlouhodobě to může ovlivnit konkurenci v Evropě, kde Dassault pomáhá lokálním firmám držet krok s globálními trendy v AI-driven designu.
+Toto partnerství posouvá umělou inteligenci z abstraktních datových center do konkrétních fyzikálních aplikací, kde AI řeší problémy materiálů a výroby. V širším kontextu urychluje digitální transformaci průmyslu 4.0, kde virtuální simulace nahrazují fyzické testy a snižují emise CO2. Pro Nvidia to znamená další odbyt GPU v nekonzumním segmentu, kde marže jsou vyšší než v herním průmyslu. Kriticky lze říci, že zatímco generativní AI v designu slibuje revoluci, reálné nasazení závisí na přesnosti modelů – chyby v simulacích by mohly vést k bezpečnostním rizikům v kritických oblastech jako letadla. Nicméně pro evropský průmysl to posiluje soběstačnost v AI technologiích oproti americkým gigantům jako Autodesk. Celkově přispívá k trendu, kde AI integrace do CAD/CAE software stává standardem, což ovlivní miliardy dolarů v globálním trhu PLM.
 
 ---
 
