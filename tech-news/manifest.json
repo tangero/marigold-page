@@ -1,7 +1,90 @@
 {
-  "generated": "2026-02-09T05:45:27.008070+00:00",
-  "count": 173,
+  "generated": "2026-02-09T09:04:18.515632+00:00",
+  "count": 177,
   "articles": [
+    {
+      "title": "Submer a Anant Raj Cloud společně budují udržitelná AI datová centra v Indii",
+      "description": "Evropská firma Submer a indická Anant Raj Cloud uzavřely partnerství na stavbu datových center připravených na náročné AI úlohy po celé Indii. Tato zařízení využijí vysokohustotní a energeticky úsporné systémy s tekutým chlazením, což umožní podnikům a vládě provozovat velké AI programy při nižší spotřebě energie.",
+      "slug": "submer-and-anant-raj-cloud-team-up-to-build-sustai",
+      "publishedAt": "2026-02-08T07:47:18+00:00",
+      "date": "2026-02-08 07:47:18",
+      "importance": 4,
+      "category": "ai datacentra",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-12020,resizemode-75,msid-128063620/tech/artificial-intelligence/submer-and-anant-raj-cloud-team-up-to-build-sustainable-ai-data-centres-in-india.jpg",
+      "url": "/tech-news/2026-02-08/submer-and-anant-raj-cloud-team-up-to-build-sustai/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Submer",
+        "Anant Raj Cloud"
+      ],
+      "people": []
+    },
+    {
+      "title": "ChatGPT 5.3 Codex vede v programování, zatímco Claude 4.6 AI sází na spolehlivost",
+      "description": "Článek z Better Stack porovnává pokroky v AI modelech pro programování: OpenAI GPT 5.3 Codex proti Anthropic Claude Opus 4.6. Zkoumá jejich rychlost, kontextové okno a další funkce v kontextu vývoje softwaru.",
+      "slug": "chatgpt-53-codex-moves-ahead-on-code-while-claudes",
+      "publishedAt": "2026-02-08T07:00:19+00:00",
+      "date": "2026-02-08 07:00:19",
+      "importance": 4,
+      "category": "programování",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/02/coding-models-comparison-ui-vs-functionality_optimized.jpg",
+      "url": "/tech-news/2026-02-08/chatgpt-53-codex-moves-ahead-on-code-while-claudes/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [
+        "Better Stack",
+        "OpenAI",
+        "Anthropic"
+      ],
+      "people": []
+    },
+    {
+      "title": "PhonePe před IPO cílí na růst v platbách, obchodnících a nových platformách",
+      "description": "Walmartem podporovaná PhonePe se připravuje na IPO pravděpodobně v dubnu s plány na rozšíření v digitálních platbách, finančních službách a spotřebitelských platformách. Veřejná nabídka bude výhradně nabídkou pro prodej 5,06 crore akcií od stávajících akcionářů jako Walmart, Microsoft a Tiger Global.",
+      "slug": "ipo-bound-phonepe-targets-growth-in-payments-merch",
+      "publishedAt": "2026-02-08T06:24:07+00:00",
+      "date": "2026-02-08 06:24:07",
+      "importance": 4,
+      "category": "fintech",
+      "urlToImage": "https://img.etimg.com/thumb/msid-128061493,width-1200,height-630,imgsize-669702,overlay-economictimes/articleshow.jpg",
+      "url": "/tech-news/2026-02-08/ipo-bound-phonepe-targets-growth-in-payments-merch/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "PhonePe"
+      ],
+      "people": []
+    },
+    {
+      "title": "Šéf bezpečnosti Waymo přiznal, že vzdálení operátoři z Filipín pomáhají řídit americká robotaxi",
+      "description": "Hlavní bezpečnostní důstojník Waymo Mauricio Peña prozradil na senátním slyšení, že někteří vzdálení operátoři sídlící na Filipínách asistují jeho samořídícím vozům při navigaci v náročných situacích.",
+      "slug": "waymo-exec-admits-remote-operators-in-philippines-",
+      "publishedAt": "2026-02-08T05:47:02+00:00",
+      "date": "2026-02-08 05:47:02",
+      "importance": 4,
+      "category": "autonomní vozy",
+      "urlToImage": "https://eletric-vehicles.com/wp-content/uploads/2026/02/Waymo_US_01.webp",
+      "url": "/tech-news/2026-02-08/waymo-exec-admits-remote-operators-in-philippines/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Eletric-vehicles.com"
+      },
+      "companies": [
+        "Waymo"
+      ],
+      "people": []
+    },
     {
       "title": "Dekódování pohybů fantomové končetiny z intraneurálních nahrávek",
       "description": "Výzkumníci zaznamenali intraneurální aktivitu sciatického nervu u pacientů s amputací nad kolenem a pomocí spiking neural network dekódovali voliční pohyby fantomové nohy. Tento přístup překonal konvenční metody a ukázal separaci motorických a senzorických signálů v nervu, což otevírá cestu k obousměrným neuronálním rozhraním pro protézy.",
