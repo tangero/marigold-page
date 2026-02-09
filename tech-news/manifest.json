@@ -1,7 +1,43 @@
 {
-  "generated": "2026-02-09T13:08:28.174837+00:00",
-  "count": 183,
+  "generated": "2026-02-09T20:34:39.263087+00:00",
+  "count": 185,
   "articles": [
+    {
+      "title": "The guy who coined 'vibe-coding' says the next big thing is 'agentic engineering'",
+      "description": "OpenAI cofounder Andrej Karpathy says 'agentic engineering is the next evolution in AI coding as vibe-coding marks its first anniversary.",
+      "slug": "the-guy-who-coined-vibe-coding-says-the-next-big-t",
+      "publishedAt": "2026-02-08T18:18:26+00:00",
+      "date": "2026-02-08 18:18:26",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://i.insider.com/68f53bf05dbc4fd10dab1f5f?width=1200&format=jpeg",
+      "url": "/tech-news/2026-02-08/the-guy-who-coined-vibe-coding-says-the-next-big-t/",
+      "source": {
+        "emoji": "📰",
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "SpaceX Falcon 9 True Cost to Launch is About $300 per Pound Which is 25% of Selling Price to Customers",
+      "description": "There are many sources like Our World in Data describe the cost to launch with SpaceX Falcon 9 as $2600 per kilogram or $1200 per pound but the cost to SpaceX is $900 per kilogram or $390 per pound. The ~$67–70 million external selling price is for about 30 o…",
+      "slug": "spacex-falcon-9-true-cost-to-launch-is-about-300-p",
+      "publishedAt": "2026-02-08T17:44:57+00:00",
+      "date": "2026-02-08 17:44:57",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/02/Screenshot-2026-02-08-at-9.01.28-AM.jpg",
+      "url": "/tech-news/2026-02-08/spacex-falcon-9-true-cost-to-launch-is-about-300-p/",
+      "source": {
+        "emoji": "📰",
+        "id": "next-big-future",
+        "name": "Next Big Future"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Šéf vlády Andhra Pradesh Naidu položil základní kámen pro Quantum Valley v Amaravati",
       "description": "Přední společnosti jako IBM, TCS a L&T hrají klíčovou roli při přivádění prvního indického 133-kubitového kvantového počítače do Amaravati.",
