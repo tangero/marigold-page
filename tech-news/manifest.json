@@ -1,7 +1,151 @@
 {
-  "generated": "2026-02-09T09:04:18.515632+00:00",
-  "count": 177,
+  "generated": "2026-02-09T13:08:28.174837+00:00",
+  "count": 183,
   "articles": [
+    {
+      "title": "Šéf vlády Andhra Pradesh Naidu položil základní kámen pro Quantum Valley v Amaravati",
+      "description": "Přední společnosti jako IBM, TCS a L&T hrají klíčovou roli při přivádění prvního indického 133-kubitového kvantového počítače do Amaravati.",
+      "slug": "andhra-pradesh-cm-naidu-lays-foundation-stone-for-",
+      "publishedAt": "2026-02-08T11:39:14+00:00",
+      "date": "2026-02-08 11:39:14",
+      "importance": 4,
+      "category": "kvantové počítače",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/5k98uf/article70607297.ece/alternates/LANDSCAPE_1200/PTI02_07_2026_000760B.jpg",
+      "url": "/tech-news/2026-02-08/andhra-pradesh-cm-naidu-lays-foundation-stone-for/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "companies": [
+        "IBM",
+        "TCS",
+        "L&T"
+      ],
+      "people": [
+        "Naidu"
+      ]
+    },
+    {
+      "title": "Co se stane, když roboti naučí cítit fyzickou újmu?",
+      "description": "Výzkumníci vyvinuli elektronickou kůži umožňující humanoidním robotům rozlišovat běžný dotek od škodlivé síly. Tato schopnost, dříve typická pro živé nervové systémy, by mohla ovlivnit interakce robotů s fyzickým světem a lidmi.",
+      "slug": "what-happens-if-robots-learn-to-feel-physical-harm",
+      "publishedAt": "2026-02-08T11:03:00+00:00",
+      "date": "2026-02-08 11:03:00",
+      "importance": 5,
+      "category": "robotika",
+      "urlToImage": "https://assets.newatlas.com/dims4/default/8cd3a92/2147483647/strip/true/crop/6000x3150+0+674/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F87%2F3b%2F8c1584e14cde96499f362d9cb0d7%2Fdepositphotos-548051850-xl.jpg&na.image_optimisation=0",
+      "url": "/tech-news/2026-02-08/what-happens-if-robots-learn-to-feel-physical-harm/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "New Atlas"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Apple iPhone 18 Pro Max a iPhone 18 Pro možná opustí Dynamic Island, získají vylepšení baterie a procesoru",
+      "description": "Připravovaná řada iPhone 18 Pro od Appleu vzbuzuje pozornost díky únikům informací o změnách v displeji, větší baterii a novém čipu. Face ID by mělo přejít pod obrazovku, což by odstranilo Dynamic Island. Čip A20 Pro na 2nm technologii slibuje vyšší výkon a nižší spotřebu energie.",
+      "slug": "apple-iphone-18-pro-max-iphone-18-pro-may-drop-dyn",
+      "publishedAt": "2026-02-08T11:00:18+00:00",
+      "date": "2026-02-08 11:00:18",
+      "importance": 4,
+      "category": "smartphony",
+      "urlToImage": "https://img.etimg.com/thumb/msid-128068465,width-1200,height-630,imgsize-1248165,overlay-economictimes/articleshow.jpg",
+      "url": "/tech-news/2026-02-08/apple-iphone-18-pro-max-iphone-18-pro-may-drop-dyn/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Goldman Sachs spolupracuje s Anthropic na automatizaci bankovních úkolů pomocí AI agentů: Zpráva",
+      "description": "Investiční banka Goldman Sachs v posledních šesti měsících spolupracuje s inženýry společnosti Anthropic na vývoji autonomních AI agentů pro úkoly jako účetnictví obchodů a transakcí, due diligence klientů a onboarding. Podle šéfa informačních technologií banky Marca Argenttiho technologie založená na modelu Claude by měla výrazně zkrátit čas potřebný na klíčové provozní procesy.",
+      "slug": "goldman-sachs-teams-up-with-anthropic-to-automate-",
+      "publishedAt": "2026-02-08T10:52:28+00:00",
+      "date": "2026-02-08 10:52:28",
+      "importance": 4,
+      "category": "fintech",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-116932,resizemode-75,msid-128068301/tech/technology/goldman-sachs-teams-up-with-anthropic-to-automate-banking-tasks-with-ai-agents-report.jpg",
+      "url": "/tech-news/2026-02-08/goldman-sachs-teams-up-with-anthropic-to-automate/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": []
+    },
+    {
+      "title": "Trhy brzy otestují Muskovo sloučení slibující internet z vesmíru",
+      "description": "Elon Musk minulý týden sloučil SpaceX a xAI, čímž vznikla jedna z největších a nejcennějších soukromých firem světa. Analytici vidí v tomto kroku kombinaci růstového potenciálu a finančních rizik při přípravě na vstup na burzu.",
+      "slug": "markets-will-soon-test-a-musk-merger-that-promises",
+      "publishedAt": "2026-02-08T10:00:00+00:00",
+      "date": "2026-02-08 10:00:00",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-05/160608-elon-musk-jsw-750p-f4d933.jpg",
+      "url": "/tech-news/2026-02-08/markets-will-soon-test-a-musk-merger-that-promises/",
+      "source": {
+        "emoji": "📰",
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "companies": [
+        "SpaceX",
+        "xAI"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Tesla tvrdí, že její auta by se měla řídit jako lidé. Waymo říká, že latka je vyšší",
+      "description": "Tesla argumentuje, že autonomní řízení je možné pouze s kamerami, podobně jako lidé řídí očima. Manažer Wayma tento přirovnání odmítá a tvrdí, že požadavky na bezpečnost jsou vyšší.",
+      "slug": "tesla-says-its-cars-should-drive-themselves-as-hum",
+      "publishedAt": "2026-02-08T09:44:02+00:00",
+      "date": "2026-02-08 09:44:02",
+      "importance": 4,
+      "category": "autonomní vozy",
+      "urlToImage": "https://i.insider.com/6988034ed3c7faef0ecddbe4?width=1200&format=jpeg",
+      "url": "/tech-news/2026-02-08/tesla-says-its-cars-should-drive-themselves-as-hum/",
+      "source": {
+        "emoji": "📰",
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "companies": [
+        "Tesla",
+        "Waymo"
+      ],
+      "people": []
+    },
+    {
+      "title": "Týdenní přehled: Podrobnosti o útoku na řetězec dodávek Notepad++, cíle a předpověď Patch Tuesday",
+      "description": "Přehled nejdůležitějších kybernetických zpráv minulého týdne zahrnuje útok na aktualizační mechanismus Notepad++, novou open-source mapu globálních hrozeb a exploitaci zranitelností státními hackery.",
+      "slug": "week-in-review-notepad-supply-chain-attack-details",
+      "publishedAt": "2026-02-08T09:00:42+00:00",
+      "date": "2026-02-08 09:00:42",
+      "importance": 5,
+      "category": "kybernetika",
+      "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/25124830/cybersecurity-week-review-1-1500.webp",
+      "url": "/tech-news/2026-02-08/week-in-review-notepad-supply-chain-attack-details/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Help Net Security"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Submer a Anant Raj Cloud společně budují udržitelná AI datová centra v Indii",
       "description": "Evropská firma Submer a indická Anant Raj Cloud uzavřely partnerství na stavbu datových center připravených na náročné AI úlohy po celé Indii. Tato zařízení využijí vysokohustotní a energeticky úsporné systémy s tekutým chlazením, což umožní podnikům a vládě provozovat velké AI programy při nižší spotřebě energie.",
@@ -907,26 +1051,6 @@
       "people": [
         "Elon Musk"
       ]
-    },
-    {
-      "title": "Goldman Sachs spolupracuje s Anthropic na automatizaci bankovních úkolů pomocí AI agentů, uvádí CNBC",
-      "description": "Goldman Sachs vyvíjí s technologickou firmou Anthropic AI agenty pro automatizaci interních procesů, jako je účetnictví obchodů a prověřování klientů. Banka potvrdila zprávu CNBC a plánuje brzké nasazení těchto agentů založených na modelu Claude.",
-      "slug": "goldman-sachs-teams-up-with-anthropic-to-automate-",
-      "publishedAt": "2026-02-06T19:00:43+00:00",
-      "date": "2026-02-06 19:00:43",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--L8bEliav--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-02-06T190013Z_1_LYNXMPEM1514Y_RTROPTP_3_GOLDMAN-SACHS-RESULTS.JPG?itok=yFmw2fyI",
-      "url": "/tech-news/2026-02-06/goldman-sachs-teams-up-with-anthropic-to-automate/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNA"
-      },
-      "companies": [
-        "Anthropic"
-      ],
-      "people": []
     },
     {
       "title": "Fúze Warner Bros.: Zákonodárci žádají závazky k zaměstnanosti",
