@@ -1,7 +1,151 @@
 {
-  "generated": "2026-02-08T20:40:48.381226+00:00",
-  "count": 190,
+  "generated": "2026-02-09T01:33:29.057099+00:00",
+  "count": 197,
   "articles": [
+    {
+      "title": "Dekódování pohybů fantomové končetiny z intraneurálních nahrávek",
+      "description": "Dekódování motorických záměrů z periferních nervů zůstává náročné. Autoři nahrávali intraneurální aktivitu sciatického nervu u pacientů s transfemorální amputací a použili spiking neural network k dekódování pohybů fantomové nohy. Tyto nálezy podporují vývoj obousměrně neurálně řízených protéz.",
+      "slug": "decoding-phantom-limb-movements-from-intraneural-r",
+      "publishedAt": "2026-02-08T00:00:00+00:00",
+      "date": "2026-02-08 00:00:00",
+      "importance": 4,
+      "category": "neuroprotézy",
+      "urlToImage": null,
+      "url": "/tech-news/2026-02-08/decoding-phantom-limb-movements-from-intraneural-r/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Nature.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Investice AMD do fotoniky a modulární architektury signalizuje posun v rozvoji AI infrastruktury",
+      "description": "AMD se profiluje tak, aby řešila budoucí potřeby výpočtů umělé inteligence prostřednictvím pokroků v návrhu čipů a systémové architektuře, především integrací fotonické technologie a modulárních rackových platforem. CTO Mark Papermaster zdůrazňuje tuto strategii v kontextu rostoucích požadavků na AI výpočetní výkon.",
+      "slug": "amds-investment-in-photonics-and-modular-architect",
+      "publishedAt": "2026-02-07T23:36:47+00:00",
+      "date": "2026-02-07 23:36:47",
+      "importance": 4,
+      "category": "ai infrastruktura",
+      "urlToImage": "https://img.digitimes.com/newsshow/20260205pd219_files/2_b.jpg",
+      "url": "/tech-news/2026-02-07/amds-investment-in-photonics-and-modular-architect/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [
+        "AMD"
+      ],
+      "people": [
+        "Mark Papermaster"
+      ]
+    },
+    {
+      "title": "Nvidia a Dassault Systèmes prohlubují partnerství, aby přinesly umělou inteligenci do fyzického světa",
+      "description": "Dassault Systèmes oznámila největší technologickou integraci s Nvidia, čímž prohlubuje 25 let trvající spolupráci. V rámci rozšířené partnerství firmy implementují zrychlené výpočty a generativní umělou inteligenci do svých řešení.",
+      "slug": "nvidia-and-dassault-systèmes-deepen-partnership-to",
+      "publishedAt": "2026-02-07T23:30:37+00:00",
+      "date": "2026-02-07 23:30:37",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://img.digitimes.com/newsshow/20260205pd218_files/2_b.jpg",
+      "url": "/tech-news/2026-02-07/nvidia-and-dassault-systèmes-deepen-partnership-to/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [
+        "Nvidia",
+        "Dassault Systèmes"
+      ],
+      "people": []
+    },
+    {
+      "title": "Polovodičový průmysl dosáhne příjmů 1 bilionu dolarů v roce 2026 díky poptávce po AI",
+      "description": "Globální polovodičový průmysl poprvé v historii překročí roční příjmy 1 bilionu dolarů v roce 2026, což je milestone urychlený poptávkou po čipech pro AI a datová centra. Růst překonává původní odhady o čtyři roky a signalizuje široké využití čipů v ekonomice.",
+      "slug": "boom-town-chip-industry-revenue-to-reach-1-trillio",
+      "publishedAt": "2026-02-07T23:06:59+00:00",
+      "date": "2026-02-07 23:06:59",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://media.breitbart.com/media/2026/02/Jensen-Huang-shows-off-Nvidia-chips-640x335.jpg",
+      "url": "/tech-news/2026-02-07/boom-town-chip-industry-revenue-to-reach-1-trillio/",
+      "source": {
+        "emoji": "📰",
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Rychlý vzestup humanoidních robotů",
+      "description": "Několik automobilových výrobců výrazně investuje do robotů s cílem dále automatizovat provozy v budoucnosti. I když současná generace humanoidních robotů pracuje pomaleji než lidé, automobilky tyto stroje stále považují za klíč k efektivitě.",
+      "slug": "the-rapid-rise-of-humanoid-robots",
+      "publishedAt": "2026-02-07T22:00:00+00:00",
+      "date": "2026-02-07 22:00:00",
+      "importance": 5,
+      "category": "robotika",
+      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2026-02-06_sppukoi3mg.jpg",
+      "url": "/tech-news/2026-02-07/the-rapid-rise-of-humanoid-robots/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "OilPrice.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Otáčecí bod nové generace jaderné energie: Meta a hyperscalers uzavírají dohody s TerraPower Billa Gatese, Oklo podporovaným Samem Altmanem a dalšími",
+      "description": "Meta, Google, Amazon a další společnosti doufají, že využijí rozmach v jaderné výstavbě k napájení datových center pro AI.",
+      "slug": "next-gen-nuclears-tipping-point-meta-and-hyperscal",
+      "publishedAt": "2026-02-07T21:42:09+00:00",
+      "date": "2026-02-07 21:42:09",
+      "importance": 4,
+      "category": "jaderná energie",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2215966935-e1770338435600.jpg?resize=1200,600",
+      "url": "/tech-news/2026-02-07/next-gen-nuclears-tipping-point-meta-and-hyperscal/",
+      "source": {
+        "emoji": "📰",
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "companies": [
+        "Meta",
+        "TerraPower",
+        "Oklo",
+        "Google",
+        "Amazon"
+      ],
+      "people": [
+        "Bill Gates",
+        "Sam Altman"
+      ]
+    },
+    {
+      "title": "Apple testuje dva zásadní vylepšení fotoaparátu pro iPhone 18 Pro",
+      "description": "Apple podle spolehlivého leakera testuje nový hlavní fotoaparát s variabilní clonou a teleobjektiv s větší clonou pro iPhone 18 Pro. Tyto změny by měly zlepšit výkon v různých světelných podmínkách a kontrolu hloubky ostrosti.",
+      "slug": "apple-testing-two-major-iphone-18-pro-camera-upgra",
+      "publishedAt": "2026-02-07T20:26:04+00:00",
+      "date": "2026-02-07 20:26:04",
+      "importance": 4,
+      "category": "mobilní telefony",
+      "urlToImage": "https://images.macrumors.com/t/P6o_sCTViql2FdQGH-vv-sg5FGU=/2000x/article-new/2025/09/iphone-17-cameras-zoom.jpg",
+      "url": "/tech-news/2026-02-07/apple-testing-two-major-iphone-18-pro-camera-upgra/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "MacRumors"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
     {
       "title": "Elon Musk varuje, že USA se ‚1 000 % zbankrotují‘, pokud AI a robotika nezachrání ekonomiku před drtivým dluhem",
       "description": "‚Potřebujeme jen dost času na vybudování AI a robotů, abychom se nezbankrotovali dříve.‘",
