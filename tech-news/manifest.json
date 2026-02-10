@@ -1,7 +1,79 @@
 {
-  "generated": "2026-02-10T01:23:18.399269+00:00",
-  "count": 186,
+  "generated": "2026-02-10T05:28:10.768352+00:00",
+  "count": 155,
   "articles": [
+    {
+      "title": "SpaceX Shifts to Rapid Moon Development Instead of Mars for More Scaling of AI in Space",
+      "description": "SpaceX has already shifted focus to building a self-growing city on the Moon, as we can potentially achieve that in less than 10 years, whereas Mars would take 20+ years. Elon Musk is talking about building a city on the Moon at a faster pace. The real reason…",
+      "slug": "spacex-shifts-to-rapid-moon-development-instead-of",
+      "publishedAt": "2026-02-09T04:41:20+00:00",
+      "date": "2026-02-09 04:41:20",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/02/mooncity-1024x571.jpg",
+      "url": "/tech-news/2026-02-09/spacex-shifts-to-rapid-moon-development-instead-of/",
+      "source": {
+        "emoji": "📰",
+        "id": "next-big-future",
+        "name": "Next Big Future"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Rs 2 lakh crore IT rout meets India's first AI IPO: Is Fractal a better bet than TCS, Infosys and HCL Tech?",
+      "description": "Fractal Analytics' IPO launches amid Indian IT sector worries about AI automation. While traditional IT stocks face a sharp sell-off, Fractal offers a pure-play AI investment. Its focus on enterprise AI and analytics solutions differentiates it from legacy fi…",
+      "slug": "rs-2-lakh-crore-it-rout-meets-indias-first-ai-ipo-",
+      "publishedAt": "2026-02-09T02:58:22+00:00",
+      "date": "2026-02-09 02:58:22",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://img.etimg.com/thumb/msid-128094536,width-1200,height-630,imgsize-37116,overlay-etmarkets/articleshow.jpg",
+      "url": "/tech-news/2026-02-09/rs-2-lakh-crore-it-rout-meets-indias-first-ai-ipo/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "10 Best Sci-Fi Shows On Netflix",
+      "description": "Sci-fi is a very versatile genre, with some of the most imaginative and exciting ideas. Netflix is streaming some of the best sci-fi shows ever made.",
+      "slug": "A-10-best-sci-fi-shows-on-netflix",
+      "publishedAt": "2026-02-09T02:45:18+00:00",
+      "date": "2026-02-09 02:45:18",
+      "importance": 5,
+      "category": "tech",
+      "urlToImage": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/01/jibaro-in-love-death-and-robots.jpg?w=1600&h=900&fit=crop",
+      "url": "/tech-news/2026-02-09/A-10-best-sci-fi-shows-on-netflix/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Screen Rant"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Fractal Analytics IPO opens at ₹857-900; issue size ₹2,834 crore",
+      "description": "Fractal Analytics Ltd opens its Rs 2,834 crore IPO at Rs 857-900 per share, backed by strong anchor investor demand, raising funds for AI R&D and loan repayment.",
+      "slug": "fractal-analytics-ipo-opens-at-857-900-issue-size-",
+      "publishedAt": "2026-02-09T02:44:56+00:00",
+      "date": "2026-02-09 02:44:56",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/mksoh5/article70609494.ece/alternates/LANDSCAPE_1200/2025-11-19T054404Z_1041360960_RC25ZHAHJJWB_RTRMADP_3_FRACTAL-ANALYTICS-INTERVIEW-CEO.JPG",
+      "url": "/tech-news/2026-02-09/fractal-analytics-ipo-opens-at-857-900-issue-size/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Why Quantum Computing Isn’t a Serious Risk for Bitcoin Yet: CoinShares",
       "description": "New research says today’s quantum computers are far too weak to threaten Bitcoin’s cryptography, leaving the network years to prepare.",
@@ -3076,756 +3148,6 @@
       },
       "companies": [],
       "people": []
-    },
-    {
-      "title": "Apple přidává agenty od Anthropic a OpenAI do nástroje Xcode",
-      "description": "Apple zavádí agentické programování do Xcode, svého hlavního nástroje pro vývoj aplikací. Tento krok umožňuje integraci agentů jako Claude Agent od Anthropic a Codex od OpenAI pro autonomní zpracování složitých úkolů.",
-      "slug": "apple-adds-agents-from-anthropic-and-openai-to-its",
-      "publishedAt": "2026-02-03T20:23:53+00:00",
-      "date": "2026-02-03 20:23:53",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108156731-1749494285081-gettyimages-2218819408-APPLE_WWDC.jpeg?v=1770148506&w=1920&h=1080",
-      "url": "/tech-news/2026-02-03/apple-adds-agents-from-anthropic-and-openai-to-its/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNBC"
-      },
-      "companies": [
-        "Apple",
-        "Anthropic",
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Akcie i bitcoin klesají, investoři vyprodávají akcie softwarových firem",
-      "description": "Akcie obecně klesly v úterý, protože investoři se zbavovali podílů v softwarových společnostech kvůli obavám, že nástroje umělé inteligence ohrozí jejich podnikání. Technologický sektor vedl S&P 500 k poklesu o 0,8 % a Nasdaq o 1,4 %.",
-      "slug": "stocks-and-bitcoin-sink-as-investors-dump-software",
-      "publishedAt": "2026-02-03T20:15:33+00:00",
-      "date": "2026-02-03 20:15:33",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260121-stock-market-nyse-mn-0815-dd5a80.jpg",
-      "url": "/tech-news/2026-02-03/stocks-and-bitcoin-sink-as-investors-dump-software/",
-      "source": {
-        "emoji": "📰",
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Apple vylepšil Xcode pro lepší podporu kódovacích agentů",
-      "description": "Apple vydal Xcode 26.3, který výrazně rozšiřuje podporu pro AI kódovací agenty jako Claude a ChatGPT. Novinka umožňuje těmto systémům prohledávat dokumentaci, prozkoumávat strukturu souborů a ověřovat změny vizuálně.",
-      "slug": "apple-just-made-xcode-better-for-vibe-coding",
-      "publishedAt": "2026-02-03T20:12:08+00:00",
-      "date": "2026-02-03 20:12:08",
-      "importance": 4,
-      "category": "programování",
-      "urlToImage": null,
-      "url": "/tech-news/2026-02-03/apple-just-made-xcode-better-for-vibe-coding/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
-      "title": "Jensen Huang z Nvidia popírá spekulace o dohodě s OpenAI: 'Žádné drama'",
-      "description": "Generální ředitel Nvidia Jensen Huang prohlásil, že plán investovat do OpenAI je na správné cestě. Popřel zprávy o napětí mezi firmami a potvrdil účast v dalším kole fundraisingu.",
-      "slug": "nvidias-jensen-huang-denies-openai-deal-rumors-the",
-      "publishedAt": "2026-02-03T19:30:45+00:00",
-      "date": "2026-02-03 19:30:45",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108256213-1769171467655-108256213-17691714072026-01-21t110421z_923549888_rc2m5jaurrtk_rtrmadp_0_davos-meeting.jpg?v=1769171479&w=1920&h=1080",
-      "url": "/tech-news/2026-02-03/nvidias-jensen-huang-denies-openai-deal-rumors-the/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNBC"
-      },
-      "companies": [
-        "Nvidia",
-        "OpenAI"
-      ],
-      "people": [
-        "Jensen Huang"
-      ]
-    },
-    {
-      "title": "Pařížská jednotka pro kyberzločin prohledala kanceláře X, Musk předvolán",
-      "description": "Francouzská razie a předvolání Muska souvisí s vyšetřováním podezření na zneužití algoritmů a podvodnou extrakci dat ze strany X nebo jejích vedoucích pracovníků.",
-      "slug": "paris-prosecutors-cybercrime-unit-searches-x-offic",
-      "publishedAt": "2026-02-03T19:13:40+00:00",
-      "date": "2026-02-03 19:13:40",
-      "importance": 4,
-      "category": "kyberzločin",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107394975-17119856732024-04-01t100016z_364557262_rc2lx6avc6wm_rtrmadp_0_autos-tesla-brand-sales.jpeg?v=1718036742&w=1920&h=1080",
-      "url": "/tech-news/2026-02-03/paris-prosecutors-cybercrime-unit-searches-x-offic/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNBC"
-      },
-      "companies": [],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Akcie klesají z blízkých rekordních úrovní kvůli propadu technologického sektoru",
-      "description": "Zlato a stříbro se zotavují po historickém výprodeji, zatímco ropa roste.",
-      "slug": "stocks-fall-from-near-record-levels-amid-tech-rout",
-      "publishedAt": "2026-02-03T18:52:44+00:00",
-      "date": "2026-02-03 18:52:44",
-      "importance": 4,
-      "category": "technologické akcie",
-      "urlToImage": "https://www.irishtimes.com/resizer/v2/3755HS2Y3PA5L7ZD2XFDPNPPOM.jpg?smart=true&auth=162b6eb1a8ae9a2b954436f4e75ef6c14c705ed8f54b95503b91decbe3538a6f&width=1200&height=630",
-      "url": "/tech-news/2026-02-03/stocks-fall-from-near-record-levels-amid-tech-rout/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-irish-times",
-        "name": "The Irish Times"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Tiger Analytics plánuje úvod na burzu při blížícím se překročení miliardy dolarů v příjmech",
-      "description": "Letos dosáhne firma přibližně 0,5 miliardy dolarů v příjmech a do roku 2030 cílí na překročení miliardy, uvedl zakladatel Mahesh Kumar.",
-      "slug": "tiger-analytics-eyes-an-ipo-as-company-inches-clos",
-      "publishedAt": "2026-02-03T16:23:49+00:00",
-      "date": "2026-02-03 16:23:49",
-      "importance": 4,
-      "category": "startupy",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/pgyd02/article70587973.ece/alternates/LANDSCAPE_1200/tiger1_30.jpg",
-      "url": "/tech-news/2026-02-03/tiger-analytics-eyes-an-ipo-as-company-inches-clos/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "companies": [
-        "Tiger Analytics"
-      ],
-      "people": [
-        "Kumar"
-      ]
-    },
-    {
-      "title": "SpaceX získává xAI, Musk plánuje datová centra v nízké oběžné dráze",
-      "description": "SpaceX, poskytovatel služeb v nízké oběžné dráze (LEO), získává xAI, umělou inteligenci (AI) firmu založenou Elonem Muskem v roce 2023. Oznámení naznačuje integraci za účelem výstavby datových center ve vesmíru poháněných solární energií, která mají řešit nedostatek energie na Zemi.",
-      "slug": "spacex-acquires-xai-as-musk-eyes-space-based-data-",
-      "publishedAt": "2026-02-03T16:15:00+00:00",
-      "date": "2026-02-03 16:15:00",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": null,
-      "url": "/tech-news/2026-02-03/spacex-acquires-xai-as-musk-eyes-space-based-data/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Telecompetitor"
-      },
-      "companies": [
-        "SpaceX",
-        "xAI"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Dassault a Nvidia společně budují platformu pro průmyslovou AI",
-      "description": "Dassault Systèmes a Nvidia oznámily dlouhodobé strategické partnerství na vytvoření sdílené platformy pro průmyslovou umělou inteligenci, která kombinuje vědecky podložená virtuální dvojčata s velkorysou AI infrastrukturou pro podporu aplikací v mnoha oborech.",
-      "slug": "dassault-and-nvidia-partner-to-build-industrial-ai",
-      "publishedAt": "2026-02-03T16:00:54+00:00",
-      "date": "2026-02-03 16:00:54",
-      "importance": 4,
-      "category": "průmyslová ai",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/12/Designer-3.jpeg",
-      "url": "/tech-news/2026-02-03/dassault-and-nvidia-partner-to-build-industrial-ai/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Dassault Systèmes SA",
-        "Nvidia Corp"
-      ],
-      "people": []
-    },
-    {
-      "title": "Nositel Nobela plánuje stavbu nejmocnějšího kvantového počítače na světě",
-      "description": "John Martinis, který už dvakrát zásadně ovlivnil kvantové výpočty, nyní zakládá firmu QoLab pro vývoj superprovodníkových kvantových počítačů s bezkonkurenčními schopnostmi. Jeho předchozí práce položila základy pro současné qubity od IBM a Google.",
-      "slug": "nobel-laureate-says-hell-build-worlds-most-powerfu",
-      "publishedAt": "2026-02-03T16:00:11+00:00",
-      "date": "2026-02-03 16:00:11",
-      "importance": 5,
-      "category": "kvantové počítače",
-      "urlToImage": "https://images.newscientist.com/wp-content/uploads/2026/01/22164324/martinis-qa.gif",
-      "url": "/tech-news/2026-02-03/nobel-laureate-says-hell-build-worlds-most-powerfu/",
-      "source": {
-        "emoji": "📰",
-        "id": "new-scientist",
-        "name": "New Scientist"
-      },
-      "companies": [],
-      "people": [
-        "John Martinis"
-      ]
-    },
-    {
-      "title": "Dassault Systèmes a NVIDIA spolupracují na průmyslové AI platformě pohánějící virtuální dvojníky",
-      "description": "Dassault Systèmes a NVIDIA oznámily dlouhodobé strategické partnerství na vytvoření sdílené průmyslové architektury pro klíčovou umělou inteligenci napříč odvětvími. Platforma kombinuje virtuální dvojníky od Dassault Systèmes s AI infrastrukturou NVIDIA pro vědecky validované modely průmyslového světa.",
-      "slug": "dassault-systèmes-and-nvidia-partner-to-build-indu",
-      "publishedAt": "2026-02-03T16:00:00+00:00",
-      "date": "2026-02-03 16:00:00",
-      "importance": 4,
-      "category": "průmyslová ai",
-      "urlToImage": "https://s3.amazonaws.com/cms.ipressroom.com/219/files/202602/698172313d63329cf4c98d9b_Dassault%20Systemes%20and%20NVIDIA/Dassault%20Systemes%20and%20NVIDIA_3183037e-e68c-4f6b-b422-cd9bbccf4af7-prv.png",
-      "url": "/tech-news/2026-02-03/dassault-systèmes-and-nvidia-partner-to-build-indu/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Nvidia.com"
-      },
-      "companies": [
-        "Dassault Systèmes",
-        "NVIDIA"
-      ],
-      "people": []
-    },
-    {
-      "title": "Druhý den: SpaceX Elona Muska kupuje jeho AI společnost xAI",
-      "description": "SpaceX oznámila akvizici xAI, což podle Elona Muska vytvoří vertikálně integrovaný systém pro inovace na Zemi i ve vesmíru. Fúze umožní výstavbu datových center pro umělou inteligenci přímo ve vesmíru.",
-      "slug": "the-morning-after-elon-musks-spacex-is-buying-his-",
-      "publishedAt": "2026-02-03T12:33:04+00:00",
-      "date": "2026-02-03 12:33:04",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": null,
-      "url": "/tech-news/2026-02-03/the-morning-after-elon-musks-spacex-is-buying-his/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "companies": [
-        "SpaceX",
-        "xAI"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "„Nejhloupější nápad, jaký jsem slyšel“ — Jak Own získal 2 miliardy v akvizici od Salesforce",
-      "description": "Hluboký rozbor SaaStr AI se Samem Gutmannem, CEO společnosti Own, o budování miliardové firmy na zálohování dat odmítáním téměř všech rozšíření. Společně s Harpinderem Sinhem z Innovation Endeavors sdílel celý příběh včetně největších chyb.",
-      "slug": "the-dumbest-idea-ive-ever-heard-how-own-became-a-2",
-      "publishedAt": "2026-02-03T12:27:41+00:00",
-      "date": "2026-02-03 12:27:41",
-      "importance": 5,
-      "category": "startupy",
-      "urlToImage": "https://i0.wp.com/www.saastr.com/wp-content/uploads/2026/02/ownback.jpg?fit=640%2C480&quality=70&ssl=1",
-      "url": "/tech-news/2026-02-03/the-dumbest-idea-ive-ever-heard-how-own-became-a-2/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Saastr.com"
-      },
-      "companies": [
-        "Own",
-        "Salesforce"
-      ],
-      "people": [
-        "Sam Gutmann",
-        "Harpinder Singh"
-      ]
-    },
-    {
-      "title": "MacBook Pro s čipy M5 Pro/Max a další novinky od Apple tento měsíc",
-      "description": "Macworld informuje o očekávaném vydání MacBook Pro s čipy M5 Pro a M5 Max, nového Studio Display s technologií ProMotion a HDR, beta verze iOS 26.4 s vylepšenou Siri na bázi modelu Gemini od Google a novinkách na Apple TV+ a Apple Arcade.",
-      "slug": "m5-promax-macbook-pros-and-everything-else-coming-",
-      "publishedAt": "2026-02-03T12:15:00+00:00",
-      "date": "2026-02-03 12:15:00",
-      "importance": 4,
-      "category": "apple hardware",
-      "urlToImage": "https://www.macworld.com/wp-content/uploads/2026/02/apple-feb-26-releases-2.jpg?quality=50&strip=all&w=1024",
-      "url": "/tech-news/2026-02-03/m5-promax-macbook-pros-and-everything-else-coming/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Macworld"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
-      "title": "Analytici v bilanci Google očekávají odpovědi na dohodu Apple s Gemini pro Siri",
-      "description": "Při hlášení čtvrtletních výsledků Google analytici budou hledat nové detaily o partnerství s Apple na přepracování virtuálního asistenta Siri pomocí AI modelu Gemini. Dohoda představuje významný krok pro šíření technologie Gemini díky 2,5 miliardě aktivních zařízení Apple.",
-      "slug": "in-google-earnings-analysts-want-answers-on-apples",
-      "publishedAt": "2026-02-03T12:00:01+00:00",
-      "date": "2026-02-03 12:00:01",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108251190-1768231661465-gettyimages-2252639381-dellatorre-notitle251222_npwev.jpeg?v=1769815846&w=1920&h=1080",
-      "url": "/tech-news/2026-02-03/in-google-earnings-analysts-want-answers-on-apples/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNBC"
-      },
-      "companies": [
-        "Google",
-        "Apple"
-      ],
-      "people": []
-    },
-    {
-      "title": "Elon Musk spojuje své raketové a AI podniky před očekávaným IPO letos",
-      "description": "Elon Musk spojuje své podniky v oblasti vesmírného průzkumu a umělé inteligence do jedné společnosti před plánovaným velkým úvodem na burzu letos. Akvizice xAI firmou SpaceX má umožnit dominanci v raketovém i AI sektoru.",
-      "slug": "elon-musk-combines-his-rocket-and-ai-businesses-be",
-      "publishedAt": "2026-02-03T08:27:31+00:00",
-      "date": "2026-02-03 08:27:31",
-      "importance": 5,
-      "category": "kosmonautika",
-      "urlToImage": "https://i.abcnewsfe.com/a/18b0bdda-9f90-40ee-a816-0c1297a69a50/wirestory_2079f03fa888652b7fe836afe8b670a1_16x9.jpg?w=1600",
-      "url": "/tech-news/2026-02-03/elon-musk-combines-his-rocket-and-ai-businesses-be/",
-      "source": {
-        "emoji": "📰",
-        "id": "abc-news",
-        "name": "ABC News"
-      },
-      "companies": [],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "OpenAI spouští aplikaci Codex, aby vyzvalo konkurenty v boomu AI pro kódování",
-      "description": "OpenAI oficiálně vydalo samostatnou aplikaci pro Codex, svého AI asistenta pro generování kódu. Tento nástroj umožňuje spravovat více AI agentů současně a podporuje dlouhodobé projekty, což je reakce na rostoucí konkurenci v oblasti AI pro programování.",
-      "slug": "openai-rolls-out-codex-app-to-challenge-rivals-in-",
-      "publishedAt": "2026-02-03T08:00:32+00:00",
-      "date": "2026-02-03 08:00:32",
-      "importance": 4,
-      "category": "programování",
-      "urlToImage": "https://www.ghacks.net/wp-content/uploads/2026/02/gHacks-articles-20.png",
-      "url": "/tech-news/2026-02-03/openai-rolls-out-codex-app-to-challenge-rivals-in/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Ghacks Technology News"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Elon Musk sloučil SpaceX se svým startupem xAI s cílem provozovat datová centra ve vesmíru",
-      "description": "Musk opakovaně mluvil o nutnosti urychlit vývoj technologií umožňujících provoz datových center ve vesmíru. Sloučení zahrnuje SpaceX, xAI, Starlink a sociální síť X před plánovaným velkým IPO.",
-      "slug": "elon-musk-has-merged-spacex-with-his-ai-start-up-w",
-      "publishedAt": "2026-02-03T07:40:11+00:00",
-      "date": "2026-02-03 07:40:11",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://img2.thejournal.ie/article/6945149/river/?height=400&version=6945154",
-      "url": "/tech-news/2026-02-03/elon-musk-has-merged-spacex-with-his-ai-start-up-w/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "TheJournal.ie"
-      },
-      "companies": [
-        "SpaceX"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Vysvětleno: Proč Elon Musk sloučil své vesmírné a AI firmy do kolosa v hodnotě 1,25 bilionu dolarů",
-      "description": "SpaceX převzalo xAI, čímž se xAI stalo plně vlastněnou dceřinou společností pod korporátní strukturou SpaceX. Musk tento kombinovaný subjekt prezentuje jako integrovanou platformu spojující rakety, satelity, pokročilé AI modely a sociální síť spojenou s xAI.",
-      "slug": "explained-why-elon-musk-merged-his-space-and-ai-bu",
-      "publishedAt": "2026-02-03T07:17:36+00:00",
-      "date": "2026-02-03 07:17:36",
-      "importance": 5,
-      "category": "kosmonautika",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-43178,resizemode-75,msid-127879135/tech/technology/explained-why-elon-musk-merged-his-space-and-ai-businesses-to-create-a-1-25-trillion-behemoth.jpg",
-      "url": "/tech-news/2026-02-03/explained-why-elon-musk-merged-his-space-and-ai-bu/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "SpaceX",
-        "xAI"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "AMD a Broadcom podporují FOPLP od Powertech; měsíční příjmy dosáhnou 3 miliard NT$",
-      "description": "Společnost Powertech Technology, přední výrobce balení pamětí, intenzivně expanduje do technologie fan-out panel-level packaging (FOPLP) s podporou AMD a Broadcom. Předseda Duh-Kung Tsai vyjádřil optimismus ohledně AI průmyslu uprostřed nedostatku pamětí a rostoucí poptávky po pokročilém balení čipů.",
-      "slug": "amd-and-broadcom-back-powertechs-foplp-monthly-rev",
-      "publishedAt": "2026-02-03T07:06:24+00:00",
-      "date": "2026-02-03 07:06:24",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://img.digitimes.com/newsshow/20260203pd218_files/1_b.jpg",
-      "url": "/tech-news/2026-02-03/amd-and-broadcom-back-powertechs-foplp-monthly-rev/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
-      },
-      "companies": [
-        "AMD",
-        "Broadcom",
-        "Powertech Technology"
-      ],
-      "people": [
-        "Duh-Kung Tsai"
-      ]
-    },
-    {
-      "title": "Mega dohoda SpaceX–xAI Elona Muska ostří pozornost na účetnictví bitcoinu před IPO",
-      "description": "Fúze SpaceX s firmou xAI soustřeďuje expozici vůči kryptoměnám napříč Muskými podniky. Tesla patří mezi největší veřejné držitele bitcoinu, zatímco sloučená společnost zdědí bitcoinové zásoby SpaceX v hodnotě zhruba 650 milionů dolarů.",
-      "slug": "musks-spacexxai-mega-deal-sharpens-focus-on-bitcoi",
-      "publishedAt": "2026-02-03T04:53:36+00:00",
-      "date": "2026-02-03 04:53:36",
-      "importance": 4,
-      "category": "kryptoměny",
-      "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/97bf2e29eb3c1b7bbc38861e392cdd3baacfcacf-1919x1080.jpg?auto=format",
-      "url": "/tech-news/2026-02-03/musks-spacexxai-mega-deal-sharpens-focus-on-bitcoi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CoinDesk"
-      },
-      "companies": [
-        "SpaceX",
-        "xAI",
-        "Tesla"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Dohoda Indie a USA hlavním katalyzátorem pro indický ekosystém elektroniky a polovodičů: prezident IESA",
-      "description": "Dohoda urychlí design a výrobu polovodičů, zvýší přidanou hodnotu v elektronice a rozšíří spolupráci v oblastech AI, datových center a pokročilé výroby, uvedl Ashok Chandak, prezident IESA.",
-      "slug": "india-us-deal-a-major-catalyst-for-our-electronics",
-      "publishedAt": "2026-02-03T04:53:36+00:00",
-      "date": "2026-02-03 04:53:36",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://bl-i.thgim.com/public/todays-paper/tp-budget/h55o6x/article70580543.ece/alternates/LANDSCAPE_1200/Budget_-FM-annoGGUFH6G40.6.jpg.jpg",
-      "url": "/tech-news/2026-02-03/india-us-deal-a-major-catalyst-for-our-electronics/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "companies": [],
-      "people": [
-        "Ashok Chandak"
-      ]
-    },
-    {
-      "title": "Signáluje rozsáhlý OpenClaw-Moltbook nástup technologické singularit?",
-      "description": "Článek popisuje rychlý pokrok umělé inteligence směrem k technologické singularitě, poháněný open-source projekty jako Clawdbot (také Maltbot nebo OpenClaw). Roth a další tvrdí, že jsme překročili intelektuální horizont událostí, kde sebezlepšování AI činí budoucnost nepředvídatelnou.",
-      "slug": "is-the-singularity-moment-signaled-by-large-scale-",
-      "publishedAt": "2026-02-03T04:49:11+00:00",
-      "date": "2026-02-03 04:49:11",
-      "importance": 5,
-      "category": "technologická singul",
-      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/02/Screenshot-2026-02-02-at-8.48.31-PM.jpg",
-      "url": "/tech-news/2026-02-03/is-the-singularity-moment-signaled-by-large-scale/",
-      "source": {
-        "emoji": "📰",
-        "id": "next-big-future",
-        "name": "Next Big Future"
-      },
-      "companies": [],
-      "people": [
-        "Roth"
-      ]
-    },
-    {
-      "title": "Čínské AI čipy dosahují masové produkce a oslabují dominanci Nvidia v Číně",
-      "description": "Americké exportní kontroly urychlují lokalizaci AI čipů pro datová centra v Číně, přičemž data o dodávkách ukazují rychlé komerční škálování. Nejméně devět čínských dodavatelů AI čipů dodalo nebo získalo objednávky překračující významné objemy u více než tuceti domácích značek.",
-      "slug": "chinas-ai-chip-swarm-hits-mass-scale-chipping-away",
-      "publishedAt": "2026-02-03T04:02:25+00:00",
-      "date": "2026-02-03 04:02:25",
-      "importance": 4,
-      "category": "ai čipy",
-      "urlToImage": "https://img.digitimes.com/newsshow/20260203pd213_files/4_r.jpg",
-      "url": "/tech-news/2026-02-03/chinas-ai-chip-swarm-hits-mass-scale-chipping-away/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": []
-    },
-    {
-      "title": "Rover Perseverance dokončil první trasu plánovanou umělou inteligencí po okraji kráteru Jezero",
-      "description": "Rover Perseverance mise NASA dokončil první jízdy na Marsu plně naplánované generativní umělou inteligencí schopnou zpracování vizuálních dat. Systém bez lidského zásahu navrhl bezpečné trasy přes okraj kráteru Jezero během testů 8. a 10. prosince 2025.",
-      "slug": "perseverance-rover-completes-landmark-ai-guided-tr",
-      "publishedAt": "2026-02-03T03:50:43+00:00",
-      "date": "2026-02-03 03:50:43",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://www.spxdaily.com/images-hg/mars-perseverance-rover-ai-planned-drive-hg.jpg",
-      "url": "/tech-news/2026-02-03/perseverance-rover-completes-landmark-ai-guided-tr/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Marsdaily.com"
-      },
-      "companies": [
-        "NASA"
-      ],
-      "people": []
-    },
-    {
-      "title": "Musk sloučil xAI se SpaceX pro stavbu vesmírných datových center",
-      "description": "Společnost SpaceX Elona Muska převzala jeho firmu na umělou inteligenci xAI v rámci fúze zaměřené na nasazení datových center ve vesmíru. Fúze spojuje raketové kapacity SpaceX s technologiemi xAI pro vytvoření vertikálně integrovaného systému pro AI výpočty.",
-      "slug": "must-merges-xai-into-spacex-to-build-space-data-ce",
-      "publishedAt": "2026-02-03T03:46:25+00:00",
-      "date": "2026-02-03 03:46:25",
-      "importance": 5,
-      "category": "kosmonautika",
-      "urlToImage": "https://www.rte.ie/images/0021b986-1600.jpg",
-      "url": "/tech-news/2026-02-03/must-merges-xai-into-spacex-to-build-space-data-ce/",
-      "source": {
-        "emoji": "📰",
-        "id": "rte",
-        "name": "RTE"
-      },
-      "companies": [
-        "xAI",
-        "SpaceX"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Dceřiná společnost SoftBank bude spolupracovat s Intelem na paměti nové generace pro AI",
-      "description": "Dceřiná společnost SoftBanku Saimemory uzavřela dohodu o spolupráci s Intelem na komercializaci paměti nové generace. Partnerství se zaměřuje na technologie pro umělou inteligenci a výpočetní výkon.",
-      "slug": "softbank-subsidiary-to-work-with-intel-on-next-gen",
-      "publishedAt": "2026-02-03T03:17:49+00:00",
-      "date": "2026-02-03 03:17:49",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108260523-1770088498257-gettyimages-2230217289-AA_19082025_2377515.jpeg?v=1770088635&w=1920&h=1080",
-      "url": "/tech-news/2026-02-03/softbank-subsidiary-to-work-with-intel-on-next-gen/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNBC"
-      },
-      "companies": [
-        "SoftBank",
-        "Intel"
-      ],
-      "people": []
-    },
-    {
-      "title": "SpaceX Elona Muska kupuje xAI a sjednocuje své další společnosti pod jednu střechu, IPO očekáváno letos",
-      "description": "Transakce spojuje několik jeho produktů, včetně AI chatbota Grok, satelitní komunikační společnosti Starlink a sociální sítě X.",
-      "slug": "elon-musks-spacex-buys-xai-bringing-his-other-comp",
-      "publishedAt": "2026-02-03T03:15:42+00:00",
-      "date": "2026-02-03 03:15:42",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/g5zadc/article70585926.ece/alternates/LANDSCAPE_1200/2026-01-30T233122Z_1707930221_RC26BDAY7Q9P_RTRMADP_3_XAI-M-A-SPACEX-TESLA.JPG",
-      "url": "/tech-news/2026-02-03/elon-musks-spacex-buys-xai-bringing-his-other-comp/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "companies": [
-        "SpaceX",
-        "xAI",
-        "Starlink"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Snowflake představuje nové AI nástroje a oznámil partnerství s OpenAI",
-      "description": "Nové funkce jako generátor kódu poháněný agentem a automatizované semantické modelování usnadňují vývoj pokročilých aplikací a posilují konkurenční postavení společnosti. Mezi novinkami je také partnerství s OpenAI v hodnotě 200 milionů dolarů.",
-      "slug": "snowflake-launches-new-ai-tools-unveils-openai-par",
-      "publishedAt": "2026-02-03T03:00:00+00:00",
-      "date": "2026-02-03 03:00:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.techtarget.com/rms/onlineimages/code_g1287248739.jpg",
-      "url": "/tech-news/2026-02-03/snowflake-launches-new-ai-tools-unveils-openai-par/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Techtarget.com"
-      },
-      "companies": [
-        "Snowflake",
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Davos v centru pozornosti | EVYD a Novartis Foundation spouštějí národní program s umělou inteligencí proti kardiovaskulárním onemocněním",
-      "description": "Na ročním zasedání Světového ekonomického fóra v Davosu 2026 oznámil předseda představenstva Novartis Dr. Giovanni Caforio nové partnerství s ministerstvem zdravotnictví Bruneje Darussalam a EVYD Technology. Společně zahájí národní iniciativu CARDIO4Cities, která využije umělou inteligenci a data k prevenci srdečních onemocnění.",
-      "slug": "davos-spotlight-evyd-and-novartis-foundation-launc",
-      "publishedAt": "2026-02-03T02:49:39+00:00",
-      "date": "2026-02-03 02:49:39",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2026/02/03/Mrs_Gong_Yingying_Founder_and_Chairlady_of_Yidu_Tech_speaks_with_Mr_Marnix_van_Ginneken_Chairma.jpg",
-      "url": "/tech-news/2026-02-03/davos-spotlight-evyd-and-novartis-foundation-launc/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Antaranews.com"
-      },
-      "companies": [
-        "EVYD"
-      ],
-      "people": [
-        "Giovanni Caforio"
-      ]
-    },
-    {
-      "title": "Google Cloud a Liberty Global uzavírají pětileté partnerství v oblasti AI",
-      "description": "Liberty Global s přibližně 80 miliony pevných a mobilních připojení v Evropě oznámil dohodu s Google Cloud, která umožní nasazení modelů Gemini AI a dalších cloudových nástrojů. Partnerství podpoří nové služby jako AI vyhledávání na platformě Horizon TV a automatizaci zákaznické podpory.",
-      "slug": "google-cloud-liberty-global-strike-five-year-ai-pa",
-      "publishedAt": "2026-02-03T02:46:21+00:00",
-      "date": "2026-02-03 02:46:21",
-      "importance": 4,
-      "category": "ai partnerství",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-237246,resizemode-75,msid-127874528/tech/artificial-intelligence/google-cloud-liberty-global-strike-five-year-ai-partnership.jpg",
-      "url": "/tech-news/2026-02-03/google-cloud-liberty-global-strike-five-year-ai-pa/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Google Cloud",
-        "Liberty Global"
-      ],
-      "people": []
-    },
-    {
-      "title": "Elon Musk: Fúze SpaceX a xAI vytvoří 'nejambicióznější' inovativní motor s AI",
-      "description": "SpaceX Elona Muska převzalo xAI s cílem integrovat umělou inteligenci s vesmírnými technologiemi, přesunout datová centra do oběžné dráhy a financovat dlouhodobou expanzi do kosmu.",
-      "slug": "elon-musk-says-spacex-xai-merger-will-form-most-am",
-      "publishedAt": "2026-02-03T02:32:10+00:00",
-      "date": "2026-02-03 02:32:10",
-      "importance": 5,
-      "category": "kosmonautika",
-      "urlToImage": "https://d.ibtimes.com.au/en/full/1891034/elon-musk-says-spacex-xai-merger-will-form-most-ambitious.png",
-      "url": "/tech-news/2026-02-03/elon-musk-says-spacex-xai-merger-will-form-most-am/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Ibtimes.com.au"
-      },
-      "companies": [
-        "SpaceX",
-        "xAI"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "SoftBank a Intel spojují síly na technologii pamětí příští generace",
-      "description": "Startup SAIMEMORY, založený SoftBankem, podepsal dohodu s Intelem na společné komercializaci pamětí ZAM s vysokou kapacitou, širokým pásmem a nízkou spotřebou energie. Spolupráce zahrnuje i Riken a Fujitsu, s plánem na prototyp do fiskálního roku 2027.",
-      "slug": "softbank-and-intel-join-forces-on-next-generation-",
-      "publishedAt": "2026-02-03T00:40:41+00:00",
-      "date": "2026-02-03 00:40:41",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://i2.ytimg.com/vi/0UYw9CoOGns/mqdefault.jpg",
-      "url": "/tech-news/2026-02-03/softbank-and-intel-join-forces-on-next-generation/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Newsonjapan.com"
-      },
-      "companies": [
-        "SoftBank",
-        "Intel",
-        "SAIMEMORY"
-      ],
-      "people": []
-    },
-    {
-      "title": "SpaceX plánuje datová centra v oběžné dráze kvůli zatížení infrastruktury AI",
-      "description": "SpaceX žádá o federální schválení pro spuštění až 1 milionu solárních satelitních datových center do oběžné dráhy, aby zvládlo rostoucí poptávku po výpočetním výkonu a energii bez zatěžování pozemních sítí, vodních zdrojů a stavebních předpisů.",
-      "slug": "spacex-aims-for-data-centers-in-orbit-as-ai-strain",
-      "publishedAt": "2026-02-03T00:39:03+00:00",
-      "date": "2026-02-03 00:39:03",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/02/SpaceX-AI-infrastructure.jpeg",
-      "url": "/tech-news/2026-02-03/spacex-aims-for-data-centers-in-orbit-as-ai-strain/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "pymnts.com"
-      },
-      "companies": [
-        "SpaceX"
-      ],
-      "people": []
-    },
-    {
-      "title": "SpaceX Elona Muska získává xAI v rekordní dohodě před obřím IPO",
-      "description": "Nová dohoda spojí několik projektů Elona Muska, včetně jeho AI chatbota Grok, satelitní komunikační společnosti Starlink a sociální sítě X. Transakce hodnotí SpaceX na 1 bilion dolarů a xAI na 250 miliard dolarů.",
-      "slug": "elon-musks-spacex-acquires-xai-in-record-setting-d",
-      "publishedAt": "2026-02-03T00:07:51+00:00",
-      "date": "2026-02-03 00:07:51",
-      "importance": 5,
-      "category": "akvizice",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2026/02/02/1600x900/SWITZERLAND-POLITICS-ECONOMY-DIPLOMACY-102_1770076510795_1770076523213.jpg",
-      "url": "/tech-news/2026-02-03/elon-musks-spacex-acquires-xai-in-record-setting-d/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Livemint"
-      },
-      "companies": [
-        "SpaceX",
-        "xAI",
-        "Starlink"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
     }
   ]
 }
