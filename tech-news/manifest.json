@@ -1,7 +1,86 @@
 {
-  "generated": "2026-02-10T13:14:47.107215+00:00",
-  "count": 163,
+  "generated": "2026-02-10T17:21:21.308391+00:00",
+  "count": 167,
   "articles": [
+    {
+      "title": "Pákistán investuje 1 miliardu USD do umělé inteligence pro posílení digitální ekonomiky",
+      "description": "Premiér Shehbaz Sharif oznámil investici 1 miliardy amerických dolarů do AI do roku 2030. Cílem je vybudovat robustní AI ekosystém, zaměřený na klíčové sektory jako zemědělství a průmysl, a zvýšit produktivitu populace.",
+      "slug": "pakistan-to-invest-1-bln-usd-in-ai-to-boost-digita",
+      "publishedAt": "2026-02-09T16:31:00+00:00",
+      "date": "2026-02-09 16:31:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "url": "/tech-news/2026-02-09/pakistan-to-invest-1-bln-usd-in-ai-to-boost-digita/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Star Online"
+      },
+      "companies": [],
+      "people": [
+        "Shehbaz Sharif"
+      ]
+    },
+    {
+      "title": "Ashwini Vaishnaw diskutoval strategické vazby Indie a USA se Sergiem Gorem",
+      "description": "Indický ministr Ashwini Vaishnaw se v pondělí setkal s americkým velvyslancem v Indii Sergiem Gorem a diskutovali posílení strategických vztahů mezi oběma zeměmi s důrazem na polovodiče a výrobu elektroniky. Vaishnaw očekává silnou účast USA na summitu AI Impact Summit 2026.",
+      "slug": "ashwini-vaishnaw-discusses-india-us-strategic-ties",
+      "publishedAt": "2026-02-09T16:28:08+00:00",
+      "date": "2026-02-09 16:28:08",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-02/09/thumb/fitandfill/1200X630/1770654431-2942.jpg",
+      "url": "/tech-news/2026-02-09/ashwini-vaishnaw-discusses-india-us-strategic-ties/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Business Standard"
+      },
+      "companies": [],
+      "people": [
+        "Ashwini Vaishnaw",
+        "Sergio Gor"
+      ]
+    },
+    {
+      "title": "Paradigmatická změna: Hrozba pro rutinní IT role v sektoru služeb narůstá",
+      "description": "Příchod užitečné nové technologie vždy vede k narušení, protože některé funkce jsou postupně vyřazovány. Například chovatelé koní prožili krizi s příchodem automobilu.",
+      "slug": "a-paradigm-shift-threat-is-increasing-for-routine-",
+      "publishedAt": "2026-02-09T16:03:22+00:00",
+      "date": "2026-02-09 16:03:22",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-02/20/full/1645373400-9814.jpg",
+      "url": "/tech-news/2026-02-09/a-paradigm-shift-threat-is-increasing-for-routine/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Business Standard"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "NASA nechala AI řídit rover Perseverance dva dny",
+      "description": "NASA pokročila směrem k větší autonomii planetárních roverů tím, že v prosinci použila AI k generování trasových bodů pro rover Perseverance během dvou dnů. Rover ujel celkem 456 metrů bez jakéhokoli lidského zásahu.",
+      "slug": "nasa-let-ai-drive-the-perseverance-rover-for-two-d",
+      "publishedAt": "2026-02-09T15:56:57+00:00",
+      "date": "2026-02-09 15:56:57",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://www.universetoday.com/article_images/E2_-_PIA26645_-_Hyperdrive_Overlay.width-1320_20260206_172551.jpg",
+      "url": "/tech-news/2026-02-09/nasa-let-ai-drive-the-perseverance-rover-for-two-d/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Universe Today"
+      },
+      "companies": [
+        "NASA"
+      ],
+      "people": []
+    },
     {
       "title": "Imec otevřel pilotní linku NanoIC a urychluje inovace v systémech na čipu pod 2 nm",
       "description": "Imec, přední výzkumné centrum v pokročilých polovodičových technologiích, otevřelo rozšíření čisté místnosti o 2 000 m² ve svém sídle v Leuvenu. Tento krok představuje klíčový milník pro evropskou pilotní linku NanoIC, která cílí na vývoj technologií pod 2 nm.",
