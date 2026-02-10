@@ -1,7 +1,27 @@
 {
-  "generated": "2026-02-10T09:05:18.055132+00:00",
-  "count": 162,
+  "generated": "2026-02-10T13:14:47.107215+00:00",
+  "count": 163,
   "articles": [
+    {
+      "title": "Imec otevřel pilotní linku NanoIC a urychluje inovace v systémech na čipu pod 2 nm",
+      "description": "Imec, přední výzkumné centrum v pokročilých polovodičových technologiích, otevřelo rozšíření čisté místnosti o 2 000 m² ve svém sídle v Leuvenu. Tento krok představuje klíčový milník pro evropskou pilotní linku NanoIC, která cílí na vývoj technologií pod 2 nm.",
+      "slug": "pr-imec-inaugurates-nanoic-pilot-line-accelerating",
+      "publishedAt": "2026-02-09T12:28:42+00:00",
+      "date": "2026-02-09 12:28:42",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://www.techpowerup.com/img/U2X9GjJcbZ5kf8gA.jpg",
+      "url": "/tech-news/2026-02-09/pr-imec-inaugurates-nanoic-pilot-line-accelerating/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Techpowerup.com"
+      },
+      "companies": [
+        "Imec"
+      ],
+      "people": []
+    },
     {
       "title": "GPT-5.3 Codex zvyšuje latku, Opus 4.6 však stále vede v hlubokém uvažování",
       "description": "OpenAI představilo model GPT-5.3 Codex s kontextovým oknem 400 tisíc tokenů, rychlejší exekucí a vyšší efektivitou pro kódování. Porovnání s modelem Opus 4.6 od Anthropic ukazuje silné stránky v rychlosti, zatímco Opus vyniká v hlubokém uvažování.",
