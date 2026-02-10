@@ -1,7 +1,152 @@
 {
-  "generated": "2026-02-10T05:28:10.768352+00:00",
-  "count": 155,
+  "generated": "2026-02-10T09:05:18.055132+00:00",
+  "count": 162,
   "articles": [
+    {
+      "title": "GPT-5.3 Codex zvyšuje latku, Opus 4.6 však stále vede v hlubokém uvažování",
+      "description": "OpenAI představilo model GPT-5.3 Codex s kontextovým oknem 400 tisíc tokenů, rychlejší exekucí a vyšší efektivitou pro kódování. Porovnání s modelem Opus 4.6 od Anthropic ukazuje silné stránky v rychlosti, zatímco Opus vyniká v hlubokém uvažování.",
+      "slug": "gpt-53-codex-raises-the-bar-but-opus-46-still-owns",
+      "publishedAt": "2026-02-09T08:41:15+00:00",
+      "date": "2026-02-09 08:41:15",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/02/codex-vs-opus-4-6-comparison-chart_optimized.jpg",
+      "url": "/tech-news/2026-02-09/gpt-53-codex-raises-the-bar-but-opus-46-still-owns/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Role Inda v SaaSpocalypse: AI od Anthropic odebralo indickým tech gigantům 2,5 lakh crore",
+      "description": "Indický technologický lídr Rahul Patil je v centru tržního otřesu. Jeho práce na novém Claude AI od Anthropic, schopném samostatných pracovních postupů, vymazala miliardy z globálních tech firem. Tento 'efekt Patil' zpochybňuje tradiční software a IT služby.",
+      "slug": "an-indians-role-in-the-saaspocalypse-while-anthrop",
+      "publishedAt": "2026-02-09T08:40:09+00:00",
+      "date": "2026-02-09 08:40:09",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://img.etimg.com/thumb/msid-128105863,width-1200,height-630,imgsize-62534,overlay-economictimes/articleshow.jpg",
+      "url": "/tech-news/2026-02-09/an-indians-role-in-the-saaspocalypse-while-anthrop/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": [
+        "Rahul Patil"
+      ]
+    },
+    {
+      "title": "Domov na Měsíci za 10 let? Plán Elona Muska na samo-růstoucí lunární město zní jako z 'Interstellar'",
+      "description": "SpaceX plánuje samo-růstoucí město na Měsíci do deseti let, což představuje posun od dřívějších ambicí na Mars. Firma míří na bezzałogové přistání na Měsíci do března 2027 a nedávno získala xAI pro integraci umělé inteligence.",
+      "slug": "home-at-moon-in-10-years-elon-musks-plan-for-a-sel",
+      "publishedAt": "2026-02-09T08:32:11+00:00",
+      "date": "2026-02-09 08:32:11",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://img.etimg.com/thumb/msid-128105205,width-1200,height-630,imgsize-1651907,overlay-economictimes/articleshow.jpg",
+      "url": "/tech-news/2026-02-09/home-at-moon-in-10-years-elon-musks-plan-for-a-sel/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "SpaceX",
+        "xAI"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "„AI“ nejhledanější podceněná vertikála v Reliance Industries: Morgan Stanley",
+      "description": "Morgan Stanley považuje umělou inteligenci (AI) za nejdůležitější podhodnocenou oblast Reliance Industries (RIL) a udržuje hodnocení Overweight s cílovou cenou 1 803 Rs, což znamená 24% růst od uzavření 6. února na 1 451 Rs.",
+      "slug": "ai-the-most-underappreciated-vertical-in-reliance-",
+      "publishedAt": "2026-02-09T07:55:04+00:00",
+      "date": "2026-02-09 07:55:04",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/msid-128104303,width-1200,height-630,imgsize-73796,overlay-etmarkets/articleshow.jpg",
+      "url": "/tech-news/2026-02-09/ai-the-most-underappreciated-vertical-in-reliance/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "TII ze SAE vyzývá dominanci velkých technologických firem otevřenými Falcon AI modely",
+      "description": "Prostřednictvím Falcon modelů a otevřené, efektivitou řízené výzkumné strategie se Technology Innovation Institute staví Spojené arabské emiráty jako producenta základních umělých inteligencí, nikoli jen spotřebitele globálních platforem.",
+      "slug": "uaes-tii-challenges-big-tech-dominance-with-open-s",
+      "publishedAt": "2026-02-09T07:35:00+00:00",
+      "date": "2026-02-09 07:35:00",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/HeroImages/Abu-Dhabi-city-water-UAE-tuulijumala-adobe.jpg",
+      "url": "/tech-news/2026-02-09/uaes-tii-challenges-big-tech-dominance-with-open-s/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "ComputerWeekly.com"
+      },
+      "companies": [
+        "Technology Innovation Institute"
+      ],
+      "people": []
+    },
+    {
+      "title": "Hloubkový pohled: Čínští technologickí giganti utrácí obrovské sumy, aby ovládli AI v zdravotnictví",
+      "description": "Firmy jako Ant Group a ByteDance investují stovky milionů juanů do personalizovaných lékařských konzultací prostřednictvím AI, ale ziskový obchodní model zatím zůstává nedosažitelný.",
+      "slug": "in-depth-chinas-tech-giants-burn-cash-to-try-to-do",
+      "publishedAt": "2026-02-09T07:20:26+00:00",
+      "date": "2026-02-09 07:20:26",
+      "importance": 4,
+      "category": "ai zdravotnictví",
+      "urlToImage": "https://img.caixin.com/2026-02-05/177028537954944_560_373.jpg",
+      "url": "/tech-news/2026-02-09/in-depth-chinas-tech-giants-burn-cash-to-try-to-do/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Caixin Global"
+      },
+      "companies": [
+        "Ant Group",
+        "ByteDance"
+      ],
+      "people": []
+    },
+    {
+      "title": "Agent Teams proměňuje Claude Code v rychlý systém s více agenty",
+      "description": "Funkce Agent Teams v Claude Code od Anthropic umožňuje vytvářet týmy specializovaných sub-agentů, kteří autonomně spolupracují na složitých úkolech. Kombinace s modelem Opus 4.6 přináší paralelní zpracování a lepší orchestraci workflowů, i když s vysokými nároky na zdroje.",
+      "slug": "agent-teams-turns-claude-code-into-a-fast-multi-wo",
+      "publishedAt": "2026-02-09T07:13:12+00:00",
+      "date": "2026-02-09 07:13:12",
+      "importance": 4,
+      "category": "ai agenti",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/02/claude-code-agent-teams-split-panes_optimized.jpg",
+      "url": "/tech-news/2026-02-09/agent-teams-turns-claude-code-into-a-fast-multi-wo/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [
+        "Better Stack",
+        "Anthropic"
+      ],
+      "people": []
+    },
     {
       "title": "SpaceX Shifts to Rapid Moon Development Instead of Mars for More Scaling of AI in Space",
       "description": "SpaceX has already shifted focus to building a self-growing city on the Moon, as we can potentially achieve that in less than 10 years, whereas Mars would take 20+ years. Elon Musk is talking about building a city on the Moon at a faster pace. The real reason…",
