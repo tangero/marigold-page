@@ -1,7 +1,148 @@
 {
-  "generated": "2026-02-10T17:21:21.308391+00:00",
-  "count": 167,
+  "generated": "2026-02-10T21:03:52.168678+00:00",
+  "count": 174,
   "articles": [
+    {
+      "title": "ChatGPT zavádí reklamy | TechCrunch",
+      "description": "OpenAI začíná testovat reklamy v ChatGPT pro bezplatné uživatele a držitele levného předplatného Go v USA. Placení plány zůstávají bez reklam, přičemž firma zdůrazňuje, že reklamy neovlivňují odpovědi modelu ani neohrožují soukromí konverzací.",
+      "slug": "chatgpt-rolls-out-ads-techcrunch",
+      "publishedAt": "2026-02-09T20:16:28+00:00",
+      "date": "2026-02-09 20:16:28",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/02/chatgpt-ads.webp?resize=1200,675",
+      "url": "/tech-news/2026-02-09/chatgpt-rolls-out-ads-techcrunch/",
+      "source": {
+        "emoji": "🚀",
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Robotaxi Wayma často ovládají lidé z Filipín",
+      "description": "Waymo obhajuje své plány s čínsky propojenými robotaxi a dálkovými operátory z Filipín, zatímco američtí senátoři upozorňují na rizika pro národní bezpečnost a pracovní práva.",
+      "slug": "waymos-robotaxis-are-often-operated-by-some-guy-in",
+      "publishedAt": "2026-02-09T20:16:23+00:00",
+      "date": "2026-02-09 20:16:23",
+      "importance": 4,
+      "category": "robotaxi",
+      "urlToImage": "https://www.carscoops.com/wp-content/uploads/2026/02/Waymo-Zeekr-USA-1024x576.jpg",
+      "url": "/tech-news/2026-02-09/waymos-robotaxis-are-often-operated-by-some-guy-in/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CarScoops"
+      },
+      "companies": [
+        "Waymo"
+      ],
+      "people": []
+    },
+    {
+      "title": "Super Bowl se stal pódiem pro rivalitu v AI průmyslu",
+      "description": "Letošní Super Bowl označil obrat, kdy firmy zaměřené na umělou inteligenci ovládly reklamní prostor. OpenAI a její rival Anthropic využily tuto masivní platformu k veřejné konfrontaci ohledně monetizace, soukromí a důvěry v AI.",
+      "slug": "super-bowl-becomes-stage-for-ai-industry-rivalry",
+      "publishedAt": "2026-02-09T20:15:12+00:00",
+      "date": "2026-02-09 20:15:12",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/02/Anthropic-Super-Bowl-ad.png",
+      "url": "/tech-news/2026-02-09/super-bowl-becomes-stage-for-ai-industry-rivalry/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Investoři přesouvají zaměření na efektivitu a ekonomiku AI",
+      "description": "Investice rizikového kapitálu do umělé inteligence pokračovaly na počátku února, ale investoři nyní upřednostňují odolnost a ekonomiku technologie před pouhým škálováním. Mezi klíčovými příklady jsou financování Positron AI na energeticky úsporné inference a Goodfire na nástroje pro interpretovatelnost modelů.",
+      "slug": "investors-shift-focus-to-ai-efficiency-and-economi",
+      "publishedAt": "2026-02-09T19:42:44+00:00",
+      "date": "2026-02-09 19:42:44",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2025/07/This-Week-in-AI-funding-investments.jpg",
+      "url": "/tech-news/2026-02-09/investors-shift-focus-to-ai-efficiency-and-economi/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Podnik v datových centrech podporovaný Ericem Schmidtem jedná o velkou dohodu s Googlom",
+      "description": "Bolt Data and Energy, kterou nedávno spoluzaložil Eric Schmidt a získala investici 150 milionů dolarů, vede jednání s Googlom o tom, aby tento gigant byl hlavním partnerem pro jejich kampus v Texasu.",
+      "slug": "eric-schmidt-backed-data-center-venture-is-negotia",
+      "publishedAt": "2026-02-09T19:33:44+00:00",
+      "date": "2026-02-09 19:33:44",
+      "importance": 4,
+      "category": "datová centra",
+      "urlToImage": "https://i.insider.com/698a3241a645d1188188fc28?width=1200&format=jpeg",
+      "url": "/tech-news/2026-02-09/eric-schmidt-backed-data-center-venture-is-negotia/",
+      "source": {
+        "emoji": "📰",
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "companies": [
+        "Bolt Data and Energy",
+        "Google"
+      ],
+      "people": [
+        "Eric Schmidt"
+      ]
+    },
+    {
+      "title": "Elon Musk mění plány SpaceX: Z Marsu na měsíční město pro záchranu civilizace",
+      "description": "Nejbohatší člověk světa oznámil, že jeho společnost SpaceX přesouvá fokus z osídlení Marsu na stavbu „seberozrůstajícího města“ na Měsíci. Tento krok umožní dosáhnout cíle rychleji než plány na Rudou planetu.",
+      "slug": "elon-musk-pivots-from-spacex-mars-plan-to-build-a-",
+      "publishedAt": "2026-02-09T19:23:53+00:00",
+      "date": "2026-02-09 19:23:53",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://static.ffx.io/images/$zoom_0.2468%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_208%2C$y_0/t_crop_custom/q_86%2Cf_auto/5755152059979a120574365679444f672434bcba",
+      "url": "/tech-news/2026-02-09/elon-musk-pivots-from-spacex-mars-plan-to-build-a/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Sydney Morning Herald"
+      },
+      "companies": [
+        "SpaceX"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Rozšíření Fractile ukazuje růstové příležitosti Británie v AI",
+      "description": "Britská startupová firma Fractile na AI čipy investuje 100 milionů liber do rozšíření v Bristolu a Londýně, což vláda prezentuje jako příklad svého plánu na rozvoj AI. Společnost slibuje čipy pro inference AI modelů až 50krát rychlejší a za desetinu nákladů oproti GPU.",
+      "slug": "fractile-expansion-demonstrates-uk-growth-opportun",
+      "publishedAt": "2026-02-09T19:01:00+00:00",
+      "date": "2026-02-09 19:01:00",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/HeroImages/AI-artificial-intelligence-chips-BAIVECTOR-adobe.jpg",
+      "url": "/tech-news/2026-02-09/fractile-expansion-demonstrates-uk-growth-opportun/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "ComputerWeekly.com"
+      },
+      "companies": [
+        "Fractile"
+      ],
+      "people": []
+    },
     {
       "title": "Pákistán investuje 1 miliardu USD do umělé inteligence pro posílení digitální ekonomiky",
       "description": "Premiér Shehbaz Sharif oznámil investici 1 miliardy amerických dolarů do AI do roku 2030. Cílem je vybudovat robustní AI ekosystém, zaměřený na klíčové sektory jako zemědělství a průmysl, a zvýšit produktivitu populace.",
