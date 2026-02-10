@@ -1,7 +1,25 @@
 {
-  "generated": "2026-02-09T20:34:39.263087+00:00",
-  "count": 185,
+  "generated": "2026-02-10T01:23:18.399269+00:00",
+  "count": 186,
   "articles": [
+    {
+      "title": "Why Quantum Computing Isn’t a Serious Risk for Bitcoin Yet: CoinShares",
+      "description": "New research says today’s quantum computers are far too weak to threaten Bitcoin’s cryptography, leaving the network years to prepare.",
+      "slug": "why-quantum-computing-isnt-a-serious-risk-for-bitc",
+      "publishedAt": "2026-02-09T01:01:22+00:00",
+      "date": "2026-02-09 01:01:22",
+      "importance": 5,
+      "category": "tech",
+      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/bitcoin-decrypt-style-specs-gID_7.png",
+      "url": "/tech-news/2026-02-09/why-quantum-computing-isnt-a-serious-risk-for-bitc/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Decrypt"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "The guy who coined 'vibe-coding' says the next big thing is 'agentic engineering'",
       "description": "OpenAI cofounder Andrej Karpathy says 'agentic engineering is the next evolution in AI coding as vibe-coding marks its first anniversary.",
