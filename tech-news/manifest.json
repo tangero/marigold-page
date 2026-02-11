@@ -1,7 +1,84 @@
 {
-  "generated": "2026-02-11T13:12:03.101400+00:00",
-  "count": 146,
+  "generated": "2026-02-11T17:26:17.617331+00:00",
+  "count": 150,
   "articles": [
+    {
+      "title": "Chyba v ocenění SaaSpocalypse: Proč trhy špatně chápou otřes AI v SaaS",
+      "description": "Trhy dramaticky reagovaly na nové AI nástroje od Anthropic a OpenAI prodejem akcií SaaS firem v hodnotě 285 miliard dolarů, ale podle analýzy to není kolaps, nýbrž přeskupení rolí v éře agentických systémů. Investoři lumpují všechny firmy dohromady a ignorují rozdíly v ohrožení.",
+      "slug": "the-saaspocalypse-mispricing-why-markets-are-getti",
+      "publishedAt": "2026-02-10T16:50:23+00:00",
+      "date": "2026-02-10 16:50:23",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/saaspocalypse-reve-1.png",
+      "url": "/tech-news/2026-02-10/the-saaspocalypse-mispricing-why-markets-are-getti/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Alphabet vydá vzácný 100letý dluhopis na financování expanze AI",
+      "description": "Alphabet chystá vydání vzácného 100letého dluhopisu v hodnotě 1 miliardy liber v rámci pětidílné emise za 5,5 miliardy liber (7,53 miliardy dolarů), jak ukazuje memo hlavního manažera. Tento krok reaguje na rostoucí výdaje na umělou inteligenci u amerických technologických gigantů.",
+      "slug": "alphabet-to-sell-rare-100-year-bond-to-fund-ai-exp",
+      "publishedAt": "2026-02-10T16:45:07+00:00",
+      "date": "2026-02-10 16:45:07",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-83108,resizemode-75,msid-128168009/tech/technology/alphabet-to-sell-rare-100-year-bond-to-fund-ai-expansion-bookrunner-memo-shows.jpg",
+      "url": "/tech-news/2026-02-10/alphabet-to-sell-rare-100-year-bond-to-fund-ai-exp/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Alphabet"
+      ],
+      "people": []
+    },
+    {
+      "title": "Singapur obviňuje hackery podporované Čínou z útoku na své čtyři největší telekomunikační firmy | TechCrunch",
+      "description": "Singapurská vláda potvrdila, že hackeři UNC3886 získali omezený přístup k kritickým systémům čtyř největších telekomunikačních společností, ale ne narušili služby ani neukradli data zákazníků.",
+      "slug": "singapore-says-china-backed-hackers-targeted-its-f",
+      "publishedAt": "2026-02-10T16:23:59+00:00",
+      "date": "2026-02-10 16:23:59",
+      "importance": 5,
+      "category": "kybernetika",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/02/singapore-2152482714.jpg?resize=1200,800",
+      "url": "/tech-news/2026-02-10/singapore-says-china-backed-hackers-targeted-its-f/",
+      "source": {
+        "emoji": "🚀",
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Vega získává 120 milionů dolarů v kolu Series B na přehodnocení detekce kybernetických hrozeb v podnicích | TechCrunch",
+      "description": "Společnost Vega Security získala 120 milionů dolarů v kolu Series B, čímž se její valuace zvýšila na 700 milionů dolarů. Kolo vedl fond Accel a účastnili se ho Cyberstarts, Redpoint a CRV. Firma se zaměřuje na AI pro detekci hrozeb přímo v místech, kde data existují, bez nutnosti centralizovaného ukládání.",
+      "slug": "vega-raises-120m-series-b-to-rethink-how-enterpris",
+      "publishedAt": "2026-02-10T16:03:14+00:00",
+      "date": "2026-02-10 16:03:14",
+      "importance": 4,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/02/Shay-Sandler-Eli-Rosen.-Credit-Ohad-Kab.jpeg?resize=1200,802",
+      "url": "/tech-news/2026-02-10/vega-raises-120m-series-b-to-rethink-how-enterpris/",
+      "source": {
+        "emoji": "🚀",
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "companies": [
+        "Vega Security",
+        "Accel"
+      ],
+      "people": []
+    },
     {
       "title": "Vyznamenaní investoři Mukul Agrawal a Sunil Singhania získávají podíly v YAAP Digital před IPO",
       "description": "Investoři Mukul Agrawal a fond India Ahead Venture Fund pod vedením Sunila Singhania získali menšinové podíly v YAAP Digital, což potvrzuje důvěru v její platformu marketingové inteligence poháněnou AI. Tato investice přichází v době, kdy se společnost připravuje na uvedení na burzu.",
