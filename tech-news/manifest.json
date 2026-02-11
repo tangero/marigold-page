@@ -1,7 +1,30 @@
 {
-  "generated": "2026-02-11T09:07:31.501910+00:00",
-  "count": 145,
+  "generated": "2026-02-11T13:12:03.101400+00:00",
+  "count": 146,
   "articles": [
+    {
+      "title": "Vyznamenaní investoři Mukul Agrawal a Sunil Singhania získávají podíly v YAAP Digital před IPO",
+      "description": "Investoři Mukul Agrawal a fond India Ahead Venture Fund pod vedením Sunila Singhania získali menšinové podíly v YAAP Digital, což potvrzuje důvěru v její platformu marketingové inteligence poháněnou AI. Tato investice přichází v době, kdy se společnost připravuje na uvedení na burzu.",
+      "slug": "star-investors-mukul-agrawal-sunil-singhania-pick-",
+      "publishedAt": "2026-02-10T12:37:30+00:00",
+      "date": "2026-02-10 12:37:30",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://img.etimg.com/thumb/msid-128159342,width-1200,height-630,imgsize-52014,overlay-etmarkets/articleshow.jpg",
+      "url": "/tech-news/2026-02-10/star-investors-mukul-agrawal-sunil-singhania-pick/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "YAAP Digital"
+      ],
+      "people": [
+        "Mukul Agrawal",
+        "Sunil Singhania"
+      ]
+    },
     {
       "title": "Cisco představuje nový čip pro síťování v AI, konkuruje Broadcom a Nvidia",
       "description": "Cisco Systems uvedlo nový čip Silicon One G300 a router pro zrychlení komunikace v obřích datových centrech s AI systémy. Tento hardware konkuruje řešením od Broadcom a Nvidia v trhu AI infrastruktury v hodnotě 600 miliard dolarů.",
