@@ -1,7 +1,29 @@
 {
-  "generated": "2026-02-11T17:26:17.617331+00:00",
-  "count": 150,
+  "generated": "2026-02-11T20:57:08.424593+00:00",
+  "count": 151,
   "articles": [
+    {
+      "title": "Jony Ive a OpenAI odkládají uvedení AI hardware na rok 2027",
+      "description": "Vysoce očekávané AI zařízení od Jony Ive a OpenAI je odloženo na nejdříve únor 2027. Tým zároveň opustil název „io“ kvůli sporu o ochrannou známku a hledá novou identitu produktu.",
+      "slug": "jony-ive-openai-delay-their-ai-hardware-launch-unt",
+      "publishedAt": "2026-02-10T20:20:32+00:00",
+      "date": "2026-02-10 20:20:32",
+      "importance": 4,
+      "category": "ai hardware",
+      "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2025/07/openai-sam-altman-jony-ive-io-featured.jpg",
+      "url": "/tech-news/2026-02-10/jony-ive-openai-delay-their-ai-hardware-launch-unt/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Headlines"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": [
+        "Jony Ive"
+      ]
+    },
     {
       "title": "Chyba v ocenění SaaSpocalypse: Proč trhy špatně chápou otřes AI v SaaS",
       "description": "Trhy dramaticky reagovaly na nové AI nástroje od Anthropic a OpenAI prodejem akcií SaaS firem v hodnotě 285 miliard dolarů, ale podle analýzy to není kolaps, nýbrž přeskupení rolí v éře agentických systémů. Investoři lumpují všechny firmy dohromady a ignorují rozdíly v ohrožení.",
