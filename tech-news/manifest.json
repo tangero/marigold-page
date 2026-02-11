@@ -1,7 +1,107 @@
 {
-  "generated": "2026-02-11T05:52:32.072271+00:00",
-  "count": 140,
+  "generated": "2026-02-11T09:07:31.501910+00:00",
+  "count": 145,
   "articles": [
+    {
+      "title": "Cisco představuje nový čip pro síťování v AI, konkuruje Broadcom a Nvidia",
+      "description": "Cisco Systems uvedlo nový čip Silicon One G300 a router pro zrychlení komunikace v obřích datových centrech s AI systémy. Tento hardware konkuruje řešením od Broadcom a Nvidia v trhu AI infrastruktury v hodnotě 600 miliard dolarů.",
+      "slug": "cisco-unveils-new-ai-networking-chip-taking-on-bro",
+      "publishedAt": "2026-02-10T08:36:39+00:00",
+      "date": "2026-02-10 08:36:39",
+      "importance": 4,
+      "category": "ai hardware",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--OLVR-zAK--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-02-10T083353Z_1_LYNXMPEM190EB_RTROPTP_3_TECH-CONFERENCE-MWC.JPG?itok=2aaCx1Kg",
+      "url": "/tech-news/2026-02-10/cisco-unveils-new-ai-networking-chip-taking-on-bro/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNA"
+      },
+      "companies": [
+        "Cisco",
+        "Broadcom",
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Bezpečnost pro éru agentů: Cisco AI Defense posouvá hranice",
+      "description": "Před rokem Cisco představilo Cisco AI Defense, první komplexní podnikové řešení pro bezpečnost umělé inteligence. Nyní přináší významný pokrok v ochraně AI aplikací a agentů prostřednictvím bezpečnosti celého řetězce dodávek AI, pokročilého algoritmického red teamingu a real-time ochranných mechanismů pro agenty.",
+      "slug": "security-for-the-agentic-era-cisco-ai-defense-brea",
+      "publishedAt": "2026-02-10T08:30:14+00:00",
+      "date": "2026-02-10 08:30:14",
+      "importance": 4,
+      "category": "ai bezpečnost",
+      "urlToImage": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/02/Screenshot-2026-02-05-at-12.08.13 PM.png",
+      "url": "/tech-news/2026-02-10/security-for-the-agentic-era-cisco-ai-defense-brea/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Cisco.com"
+      },
+      "companies": [
+        "Cisco"
+      ],
+      "people": []
+    },
+    {
+      "title": "ChatGPT začíná testovat reklamy pro bezplatné uživatele v USA",
+      "description": "OpenAI zahájilo testování reklam v ChatGPT pro bezplatné účty v USA, krátce po zesměšnění tohoto konceptu reklamou Anthropicu na Super Bowl. Reklamy se objevují pouze u přihlášených dospělých uživatelů bez placeného předplatného a neovlivňují obsah odpovědí.",
+      "slug": "chatgpt-begins-testing-ads-for-free-users-in-the-u",
+      "publishedAt": "2026-02-10T07:53:19+00:00",
+      "date": "2026-02-10 07:53:19",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.ghacks.net/wp-content/uploads/2026/02/gHacks-articles-44.png",
+      "url": "/tech-news/2026-02-10/chatgpt-begins-testing-ads-for-free-users-in-the-u/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Ghacks Technology News"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "G42 rozšiřuje globální ambice v umělé inteligenci partnerstvím na suverénní cloud ve Vietnamu",
+      "description": "Emirátská skupina G42 přenáší svůj model suverénní umělé inteligence do jihovýchodní Asie prostřednictvím partnerství s vietnamským konzorciem. Dohoda s FPT Corporation a Viet Thai Group zahrnuje vývoj hyperskalární cloudové infrastruktury s závazky k spotřebě až 1 miliardy dolarů.",
+      "slug": "g42-expands-global-ai-ambitions-with-sovereign-clo",
+      "publishedAt": "2026-02-10T07:45:00+00:00",
+      "date": "2026-02-10 07:45:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.computerweekly.com/visuals/German/article/artificial-intelligence-brain-adobe.jpg",
+      "url": "/tech-news/2026-02-10/g42-expands-global-ai-ambitions-with-sovereign-clo/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "ComputerWeekly.com"
+      },
+      "companies": [
+        "G42"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nejsilnější evropská raketa Ariane 64 se připravuje na první start",
+      "description": "Raketa Ariane 64, varianta s čtyřmi boostery z rodiny Ariane 6, má v čtvrtek uskutečnit první start z evropského kosmodromu v Kourou ve francouzské Guyaně. Cílem je vysazení 32 satelitů pro širokopásmovou konstelaci Amazon Leo.",
+      "slug": "europes-most-powerful-rocket-ariane-64-scheduled-t",
+      "publishedAt": "2026-02-10T07:31:40+00:00",
+      "date": "2026-02-10 07:31:40",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-10/14/thumb/fitandfill/1200X630/1728879741-7642.jpg",
+      "url": "/tech-news/2026-02-10/europes-most-powerful-rocket-ariane-64-scheduled-t/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Business Standard"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Desítky tisíc tun nákladu na Měsíc s raketou SpaceX Starship od roku 2027",
       "description": "Tankovací verze rakety SpaceX Starship V4 by měla být připravena v roce 2027, což sníží počet doplňování paliva pro lunární mise na 5 až 6. Při alokaci 1200 až 1400 letů z plánovaných 10 000 ročně by to umožnilo 200 plných misí s dodávkou přes 40 000 tun na povrch Měsíce.",
