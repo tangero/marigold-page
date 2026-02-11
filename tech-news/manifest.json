@@ -1,7 +1,108 @@
 {
-  "generated": "2026-02-10T21:03:52.168678+00:00",
-  "count": 174,
+  "generated": "2026-02-11T01:40:36.165934+00:00",
+  "count": 179,
   "articles": [
+    {
+      "title": "Nejlepší názory Business Standard: Vlna automatizace a křehký jaderný mír",
+      "description": "Prezentace nejlepších názorových článků Business Standard pro dnešek, které se zaměřují na dopady nového nástroje Claude Cowork od Anthropic na IT sektor a na rostoucí rizika v jaderné bezpečnosti.",
+      "slug": "best-of-bs-opinion-automation-surge-and-the-fragil",
+      "publishedAt": "2026-02-10T00:45:08+00:00",
+      "date": "2026-02-10 00:45:08",
+      "importance": 4,
+      "category": "automatizace",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-02/09/thumb/fitandfill/1200X630/1770653543-4369.jpg",
+      "url": "/tech-news/2026-02-10/best-of-bs-opinion-automation-surge-and-the-fragil/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Business Standard"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "R²D²: Škálování multimodálního učení robotů s NVIDIA Isaac Lab",
+      "description": "Budování robustních a inteligentních robotů vyžaduje testování v komplexních prostředích. Shromažďování dat ve skutečném světě je však nákladné, pomalé a často nebezpečné, což simulace pomáhá překonat.",
+      "slug": "r²d²-scaling-multimodal-robot-learning-with-nvidia",
+      "publishedAt": "2026-02-10T00:41:27+00:00",
+      "date": "2026-02-10 00:41:27",
+      "importance": 4,
+      "category": "robotika",
+      "urlToImage": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/02/multimodal-robotics.gif",
+      "url": "/tech-news/2026-02-10/r²d²-scaling-multimodal-robot-learning-with-nvidia/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Nvidia.com"
+      },
+      "companies": [
+        "NVIDIA"
+      ],
+      "people": []
+    },
+    {
+      "title": "Městská rada v Portlandu chladná k návrhu o robotaxi, zákonodárci naplánovali hlasování na příští týden",
+      "description": "Portland se obává nedostatku regulací pro autonomní vozidla. Zákonodárci chtějí umožnit firmám jako Waymo provozovat robotaxi bez místních omezení.",
+      "slug": "city-council-cold-on-robotaxi-bill-as-lawmakers-se",
+      "publishedAt": "2026-02-10T00:27:03+00:00",
+      "date": "2026-02-10 00:27:03",
+      "importance": 4,
+      "category": "robotaxi",
+      "urlToImage": "https://bikeportland.org/wp-content/uploads/2026/02/tumwaymo.jpg",
+      "url": "/tech-news/2026-02-10/city-council-cold-on-robotaxi-bill-as-lawmakers-se/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Bikeportland.org"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "AI podnikání SK za 10 miliard USD přivádí předsedu k Nvidia",
+      "description": "SK Group urychluje expanzi v infrastruktuře umělé inteligence investicí 10 miliard USD a vysoké vedení navštívilo Spojené státy, aby jednalo s Nvidia. Korejské média hlásí, že předseda Chey Tae-won a manažeři SK Hynix hledají strategickou spolupráci v oblasti AI čipů a pamětí.",
+      "slug": "sks-us10bn-ai-venture-takes-chairman-to-nvidias-do",
+      "publishedAt": "2026-02-09T23:47:35+00:00",
+      "date": "2026-02-09 23:47:35",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.digitimes.com/newsshow/20260209pd232_files/2_b.jpg",
+      "url": "/tech-news/2026-02-09/sks-us10bn-ai-venture-takes-chairman-to-nvidias-do/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [
+        "Nvidia",
+        "SK Group",
+        "SK Hynix"
+      ],
+      "people": [
+        "Chey Tae-won"
+      ]
+    },
+    {
+      "title": "Startup Oxide Computer na infrastrukturu soukromého cloudu údajně získal 200 milionů dolarů v novém kole financování",
+      "description": "Startup Oxide Computer Co., který vyvíjí infrastrukturu datových center inspirovanou cloudovými službami, údajně získal 200 milionů dolarů v novém kole financování. Kolem vedl fond U.S. Innovative Technology Fund a následuje po loňském kole ve výši 100 milionů dolarů.",
+      "slug": "private-cloud-infrastructure-startup-oxide-compute",
+      "publishedAt": "2026-02-09T23:41:41+00:00",
+      "date": "2026-02-09 23:41:41",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Oxide.png",
+      "url": "/tech-news/2026-02-09/private-cloud-infrastructure-startup-oxide-compute/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Oxide Computer",
+        "Axios"
+      ],
+      "people": []
+    },
     {
       "title": "ChatGPT zavádí reklamy | TechCrunch",
       "description": "OpenAI začíná testovat reklamy v ChatGPT pro bezplatné uživatele a držitele levného předplatného Go v USA. Placení plány zůstávají bez reklam, přičemž firma zdůrazňuje, že reklamy neovlivňují odpovědi modelu ani neohrožují soukromí konverzací.",

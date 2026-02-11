@@ -1,14 +1,31 @@
 {
-  "generated_at": "2026-02-10T21:03:52.607097+00:00",
+  "generated_at": "2026-02-11T01:40:36.560398+00:00",
   "period_days": 30,
   "current_status": {
-    "health": "OK",
-    "last_run": "2026-02-10T20:37:56.869294+00:00",
+    "health": "WARNING",
+    "last_run": "2026-02-11T01:20:33.579405+00:00",
     "last_run_status": "success",
-    "articles_today": 24,
-    "active_alerts": []
+    "articles_today": 5,
+    "active_alerts": [
+      "Málo článků dnes: 5"
+    ]
   },
   "daily_series": [
+    {
+      "date": "2026-02-11",
+      "sessions_count": 1,
+      "articles_fetched": 49,
+      "articles_processed": 34,
+      "articles_saved": 5,
+      "articles_skipped": 44,
+      "skip_reasons": {
+        "content_filter": 15,
+        "low_importance": 29
+      },
+      "llm_cost": 1.435,
+      "avg_duration": 1185.17,
+      "success_rate": 1.0
+    },
     {
       "date": "2026-02-10",
       "sessions_count": 6,
@@ -458,39 +475,24 @@
       "llm_cost": 9.6426,
       "avg_duration": 1794.59,
       "success_rate": 1.0
-    },
-    {
-      "date": "2026-01-11",
-      "sessions_count": 6,
-      "articles_fetched": 286,
-      "articles_processed": 220,
-      "articles_saved": 26,
-      "articles_skipped": 260,
-      "skip_reasons": {
-        "low_importance": 194,
-        "content_filter": 66
-      },
-      "llm_cost": 9.3697,
-      "avg_duration": 1586.3,
-      "success_rate": 1.0
     }
   ],
   "aggregates": {
-    "total_articles": 1023,
-    "total_cost": 275.36,
-    "avg_daily_articles": 33.0,
+    "total_articles": 1002,
+    "total_cost": 267.42,
+    "avg_daily_articles": 32.3,
     "most_common_skip_reason": {
       "reason": "low_importance",
-      "count": 5562
+      "count": 5397
     },
-    "total_sessions": 178,
-    "total_fetched": 8711,
-    "total_skipped": 7688
+    "total_sessions": 173,
+    "total_fetched": 8474,
+    "total_skipped": 7472
   },
   "performance_metrics": {
-    "avg_session_duration": 1566.39,
+    "avg_session_duration": 1563.5,
     "avg_api_response_time": 344.0,
-    "avg_tokens_per_article": 4161.0,
+    "avg_tokens_per_article": 4157.0,
     "error_rate": 0.0
   }
 }
