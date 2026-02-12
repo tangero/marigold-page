@@ -1,7 +1,146 @@
 {
-  "generated": "2026-02-12T05:40:56.660621+00:00",
-  "count": 128,
+  "generated": "2026-02-12T08:55:01.340704+00:00",
+  "count": 135,
   "articles": [
+    {
+      "title": "Apple pro rok 2026: Proč stojí za čekání na chytřejší nové zařízení",
+      "description": "Apple plánuje na začátku roku 2026 představit aktualizovanou nabídku produktů s důrazem na chytřejší a efektivnější technologie v iPhonech, iPadech, Macích a umělé inteligenci. Zaměření je na zlepšení výkonu a softwarové inteligence bez výrazných designových změn.",
+      "slug": "inside-apples-2026-lineup-why-this-years-smarter-n",
+      "publishedAt": "2026-02-11T08:30:17+00:00",
+      "date": "2026-02-11 08:30:17",
+      "importance": 4,
+      "category": "hardware",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/02/apple-2026-product-lineup-devices_optimized.jpg",
+      "url": "/tech-news/2026-02-11/inside-apples-2026-lineup-why-this-years-smarter-n/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "IPO indické Fractal Analytics za 314 milionů dolarů plně obsazeno na poslední den nabídkové lhůty",
+      "description": "Pořadní nabídka mumbaií firmy Fractal Analytics, první pro čistě indickou společnost zaměřenou na umělou inteligenci, byla plně obsazena na závěrečný den nabídkové lhůty. Společnost získala nabídky na 27,23 milionu akcií oproti 18,58 milionu nabízeným.",
+      "slug": "indias-fractal-analytics-314-million-ipo-fully-sub",
+      "publishedAt": "2026-02-11T07:53:53+00:00",
+      "date": "2026-02-11 07:53:53",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--K64kMzpp--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-02-11T075353Z_2_LYNXMPEM1A0BQ_RTROPTP_3_FRACTAL-ANALYTICS-RESULTS.JPG?itok=2X9wdjq0",
+      "url": "/tech-news/2026-02-11/indias-fractal-analytics-314-million-ipo-fully-sub/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNA"
+      },
+      "companies": [
+        "Fractal Analytics"
+      ],
+      "people": []
+    },
+    {
+      "title": "Alphabet vydává vzácný 100letý dluhopis na financování expanze AI",
+      "description": "Alphabet vydal vzácný 100letý dluhopis v rámci globální emise dluhopisů v hodnotě 31,51 miliardy dolarů. Tento krok reaguje na rostoucí výdaje na umělou inteligenci u amerických technologických gigantů a představuje první takovou emisi v tech sektoru od roku 1997.",
+      "slug": "alphabet-sells-rare-100-year-bond-to-fund-ai-expan",
+      "publishedAt": "2026-02-11T07:49:09+00:00",
+      "date": "2026-02-11 07:49:09",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.rte.ie/images/00124c94-1600.jpg",
+      "url": "/tech-news/2026-02-11/alphabet-sells-rare-100-year-bond-to-fund-ai-expan/",
+      "source": {
+        "emoji": "📰",
+        "id": "rte",
+        "name": "RTE"
+      },
+      "companies": [
+        "Alphabet"
+      ],
+      "people": []
+    },
+    {
+      "title": "ChatGPT Deep Research nyní běží na GPT-5.2",
+      "description": "OpenAI zavádí model GPT-5.2 do funkce ChatGPT Deep Research, která umožňuje procházet velké objemy dat a poskytovat přesné poznatky s citacemi v reálném čase. Tento upgrade zlepšuje přesnost výzkumu pro profesionály a integruje ověřené zdroje přímo do pracovního postupu.",
+      "slug": "chatgpt-deep-research-now-runs-on-gpt-52",
+      "publishedAt": "2026-02-11T07:41:30+00:00",
+      "date": "2026-02-11 07:41:30",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/02/real-time-research-plan-editor-chatgpt_optimized.jpg",
+      "url": "/tech-news/2026-02-11/chatgpt-deep-research-now-runs-on-gpt-52/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Konsorcium Brandwatch a Blackbird.AI vybráno NATO pro dodání schopnosti hodnocení informačního prostředí",
+      "description": "Konsorcium firem Brandwatch a Blackbird.AI získalo zakázku od NATO na vývoj AI nástrojů pro monitorování a analýzu informačního prostředí. Řešení umožní detekci dezinformací a škodlivých narativů z veřejných a komerčních datových zdrojů.",
+      "slug": "brandwatch-and-blackbirdai-consortium-selected-by-",
+      "publishedAt": "2026-02-11T07:09:55+00:00",
+      "date": "2026-02-11 07:09:55",
+      "importance": 4,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/u0z4ci/article70618440.ece/alternates/LANDSCAPE_1200/Screenshot%202026-02-11%20111028.png",
+      "url": "/tech-news/2026-02-11/brandwatch-and-blackbirdai-consortium-selected-by/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "companies": [
+        "Brandwatch",
+        "Blackbird.AI"
+      ],
+      "people": []
+    },
+    {
+      "title": "TSMC schválilo rekordních 45 miliard dolarů na kapitálové výdaje pro rozšíření polovodičové kapacity",
+      "description": "TSMC zveřejnilo tržby za leden 2026 v hodnotě 401,26 miliardy NT$ (přibližně 12,763 miliardy USD), což je nárůst o 19,8 % oproti prosinci 2025 a 36,8 % oproti lednu 2025. Správní rada současně schválila kapitálové výdaje ve výši 44,962 miliardy USD na rok 2026, což představuje dosud nejvyšší částku v historii společnosti.",
+      "slug": "tsmc-greenlights-record-45-billion-capex-to-boost-",
+      "publishedAt": "2026-02-11T06:57:34+00:00",
+      "date": "2026-02-11 06:57:34",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://www.techpowerup.com/img/UjWHpghamnwUD5ln.jpg",
+      "url": "/tech-news/2026-02-11/tsmc-greenlights-record-45-billion-capex-to-boost/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Techpowerup.com"
+      },
+      "companies": [
+        "TSMC"
+      ],
+      "people": []
+    },
+    {
+      "title": "Energetická firma Solv Energy získala v IPO 512,5 milionu dolarů",
+      "description": "Společnost Solv Energy Inc. získala v americkém úvodním veřejném nabídce akcií 512,5 milionu dolarů, přičemž akcie byly oceny na horní hranici nabízeného rozsahu 22 až 25 dolarů za akcii.",
+      "slug": "power-engineering-firm-solv-energy-raises-5125-mil",
+      "publishedAt": "2026-02-11T06:27:11+00:00",
+      "date": "2026-02-11 06:27:11",
+      "importance": 4,
+      "category": "energetika",
+      "urlToImage": null,
+      "url": "/tech-news/2026-02-11/power-engineering-firm-solv-energy-raises-5125-mil/",
+      "source": {
+        "emoji": "📰",
+        "id": "financial-post",
+        "name": "Financial Post"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "ByteDance vyvíjí AI čip, rokuje o výrobě se Samsungem, tvrdí zdroje",
       "description": "ByteDance chce obdržet vzorové čipy do konce března. Firma plánuje vyprodukovat nejméně 100 000 kusů čipu určeného pro úlohy inference v umělé inteligenci letos, podle zdrojů.",
