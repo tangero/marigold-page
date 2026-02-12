@@ -1,7 +1,123 @@
 {
-  "generated": "2026-02-11T20:57:08.424593+00:00",
-  "count": 151,
+  "generated": "2026-02-12T01:35:37.166889+00:00",
+  "count": 157,
   "articles": [
+    {
+      "title": "Cena Bitcoinu: Trumpův sen o kryptoměnách se mění v noční můru",
+      "description": "Článek popisuje prudký pokles ceny Bitcoinu, který vyvrací myšlenku o něm jako o digitálním zlatě, a spojuje ho s dopady nových nástrojů umělé inteligence od Anthropic na finanční trhy. Na rozdíl od zlata, které funguje jako ochrana proti rizikům, Bitcoin prohrává v nestabilním prostředí.",
+      "slug": "bitcoin-price-trumps-crypto-dream-is-turning-into-",
+      "publishedAt": "2026-02-11T01:05:09+00:00",
+      "date": "2026-02-11 01:05:09",
+      "importance": 4,
+      "category": "kryptoměny",
+      "urlToImage": "https://static.ffx.io/images/$zoom_0.467901720563304%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_17/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/c4eb87af3fbb07c4d0b7b183339154778499f11fb2383e03819d115b681054f1",
+      "url": "/tech-news/2026-02-11/bitcoin-price-trumps-crypto-dream-is-turning-into/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Sydney Morning Herald"
+      },
+      "companies": [],
+      "people": [
+        "Trump"
+      ]
+    },
+    {
+      "title": "Zpráva: Startup na kompresi AI modelů Multiverse hledá kolo financování za 500 milionů eur",
+      "description": "Španělský startup Multiverse Computing SL, který vyvíjí technologii snižující hardware nároky umělých inteligencí, prý shání nový kapitál ve výši 500 milionů eur, což je přibližně 594 milionů dolarů. Toto kolo by mělo firmu ocenit na 1,5 miliardy eur.",
+      "slug": "report-ai-model-compression-startup-multiverse-see",
+      "publishedAt": "2026-02-11T01:02:30+00:00",
+      "date": "2026-02-11 01:02:30",
+      "importance": 4,
+      "category": "ai startupy",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/AI-1.png",
+      "url": "/tech-news/2026-02-11/report-ai-model-compression-startup-multiverse-see/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Multiverse Computing SL"
+      ],
+      "people": []
+    },
+    {
+      "title": "Co Nvidia, Google a Meta vyvíjejí mimo čipy a výpočetní infrastrukturu",
+      "description": "Zatímco debata o velkých technologických firmách se zaměřuje na čipy a výpočetní kapacity, firmy jako Nvidia, Google a Meta posouvají umělou inteligenci hlouběji do reálných pracovních procesů. Mezi klíčové kroky patří průmyslové AI platformy, experimenty se sociálními sítěmi založenými na AI a autonomní agenti pro vědecký výzkum.",
+      "slug": "what-nvidia-google-and-meta-are-building-beyond-ch",
+      "publishedAt": "2026-02-11T00:34:52+00:00",
+      "date": "2026-02-11 00:34:52",
+      "importance": 4,
+      "category": "průmyslová ai",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/02/DassaultSystemesandNVIDIA1.png",
+      "url": "/tech-news/2026-02-11/what-nvidia-google-and-meta-are-building-beyond-ch/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [
+        "Nvidia",
+        "Google",
+        "Meta"
+      ],
+      "people": []
+    },
+    {
+      "title": "Agentní AI narušuje model fakturace IT služeb",
+      "description": "Smíšené sazby fakturace v globálních IT službách klesají posledních 24 měsíců v USA a Indii pro role jako weboví a mobilní vývojáři, full-stack inženýři, podpora vzdálené plochy a kybernetičtí obránci.",
+      "slug": "agentic-ai-breaking-its-billing-model",
+      "publishedAt": "2026-02-11T00:30:00+00:00",
+      "date": "2026-02-11 00:30:00",
+      "importance": 4,
+      "category": "agentní ai",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1286369,resizemode-75,msid-128170101/tech/information-tech/agentic-ai-breaking-its-billing-model.jpg",
+      "url": "/tech-news/2026-02-11/agentic-ai-breaking-its-billing-model/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Umělá inteligence by mohla transformovat ekonomiku do konce roku",
+      "description": "Analýza přirovnává současný pokrok v umělé inteligenci k situaci před pandemií COVID-19 v únoru 2020. Podle expertů v oboru AI dosáhla technologie inflexního bodu, který ohrozí bílokošarové zaměstnání, urychlí vědecký vývoj a destabilizuje politiku.",
+      "slug": "ai-could-transform-the-economy-by-years-end",
+      "publishedAt": "2026-02-11T00:04:51+00:00",
+      "date": "2026-02-11 00:04:51",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2026/02/gettyimages-2250233378.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "url": "/tech-news/2026-02-11/ai-could-transform-the-economy-by-years-end/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Vox"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Vesmírná AI obchází problémy s výstavbou sítě a povoleními pro pozemní datová centra",
+      "description": "Počáteční pozemní datová centra AI využívají existující infrastrukturu a elektrárny s volnou kapacitou. Při škálování čelí operátoři složitějším lokalitám, environmentálním posudkům a stavbě nové sítě, což trvá desetiletí. Vesmírná AI by mohla tyto komplikace obejít díky snížení nákladů na starty raket Starship od SpaceX.",
+      "slug": "space-ai-avoids-grid-buildout-and-permit-problems-",
+      "publishedAt": "2026-02-11T00:03:10+00:00",
+      "date": "2026-02-11 00:03:10",
+      "importance": 4,
+      "category": "vesmírná ai",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/02/Screenshot-2026-02-10-at-4.02.28-PM.jpg",
+      "url": "/tech-news/2026-02-11/space-ai-avoids-grid-buildout-and-permit-problems/",
+      "source": {
+        "emoji": "📰",
+        "id": "next-big-future",
+        "name": "Next Big Future"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Jony Ive a OpenAI odkládají uvedení AI hardware na rok 2027",
       "description": "Vysoce očekávané AI zařízení od Jony Ive a OpenAI je odloženo na nejdříve únor 2027. Tým zároveň opustil název „io“ kvůli sporu o ochrannou známku a hledá novou identitu produktu.",
