@@ -1,7 +1,128 @@
 {
-  "generated": "2026-02-12T08:55:01.340704+00:00",
-  "count": 135,
+  "generated": "2026-02-12T13:04:51.594018+00:00",
+  "count": 141,
   "articles": [
+    {
+      "title": "IonQ vytváří první vertikálně integrovanou kvantovou firmu akvizicí za 1,8 miliardy dolarů",
+      "description": "IonQ nedávno získalo několik společností, včetně SkyWater Technology za 1,8 miliardy dolarů. Tento krok vytváří první vertikálně integrovanou kvantovou platformovou firmu a posiluje domácí výrobu v USA v globálním kvantovém ekosystému.",
+      "slug": "ionq-creates-first-of-its-kind-quantum-firm-with-1",
+      "publishedAt": "2026-02-11T12:38:47+00:00",
+      "date": "2026-02-11 12:38:47",
+      "importance": 5,
+      "category": "kvantové technologie",
+      "urlToImage": "https://assets.telecomtv.com/assets/telecomtv/ionq-source-ionq-21765.jpg?w=1200",
+      "url": "/tech-news/2026-02-11/ionq-creates-first-of-its-kind-quantum-firm-with-1/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "TelecomTV"
+      },
+      "companies": [
+        "IonQ",
+        "SkyWater Technology"
+      ],
+      "people": []
+    },
+    {
+      "title": "Startup na fúzní energii získal 450 milionů dolarů na výrobu energie pomocí největších laserů světa",
+      "description": "Společnost Inertia Enterprises získala 450 milionů dolarů na vývoj komerční elektrárny využívající jedinou fúzní technologii, která v laboratoři prokázala generování čistého výkonu. Firma plánuje stavbu nejsilnějších laserů a výrobní linky na palivové pelety.",
+      "slug": "fusion-startup-raises-450-million-in-bid-to-make-p",
+      "publishedAt": "2026-02-11T12:24:58+00:00",
+      "date": "2026-02-11 12:24:58",
+      "importance": 5,
+      "category": "jaderná fúze",
+      "urlToImage": null,
+      "url": "/tech-news/2026-02-11/fusion-startup-raises-450-million-in-bid-to-make-p/",
+      "source": {
+        "emoji": "📰",
+        "id": "financial-post",
+        "name": "Financial Post"
+      },
+      "companies": [
+        "Inertia Enterprises"
+      ],
+      "people": []
+    },
+    {
+      "title": "Francouzská AI společnost Mistral investuje 1,4 miliardy dolarů do datových center ve Švédsku",
+      "description": "Francouzský startup v oblasti umělé inteligence Mistral AI oznámil investici 1,2 miliardy eur do výstavby nových datových center ve Švédsku. Tento krok má posílit evropské nezávislé kapacity pro vývoj AI modelů.",
+      "slug": "france-ai-company-mistral-invests-14-billion-in-da",
+      "publishedAt": "2026-02-11T12:18:35+00:00",
+      "date": "2026-02-11 12:18:35",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--L49U1FhB--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-02-11T121727Z_1_LYNXMPEM1A0P4_RTROPTP_3_MISTRAL-FUNDING-ASML-TECH.JPG?itok=GB3_Gudh",
+      "url": "/tech-news/2026-02-11/france-ai-company-mistral-invests-14-billion-in-da/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNA"
+      },
+      "companies": [
+        "Mistral AI"
+      ],
+      "people": []
+    },
+    {
+      "title": "VAROVÁNÍ AI: DĚJE SE NĚCO VELKÉHO...",
+      "description": "Děje se něco velkého. Osobní poznámka pro netechnické přátele a rodinu o změnách, které AI začíná přinášet.",
+      "slug": "ai-warning-something-big-is-happpening",
+      "publishedAt": "2026-02-11T12:00:20+00:00",
+      "date": "2026-02-11 12:00:20",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://shumer.dev/images/social-preview.jpg",
+      "url": "/tech-news/2026-02-11/ai-warning-something-big-is-happpening/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Shumer.dev"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Mistral prosazuje nezávislost evropské AI při příjmech přes 400 milionů dolarů",
+      "description": "Francouzský startup Mistral oznámil 20násobný růst příjmů za poslední rok, kdy roční příjmová sazba překročila 400 milionů dolarů. Spoluzakladatel a generální ředitel Arthur Mensch zároveň prohlásil plány na investici 1,4 miliardy dolarů do datových center ve Švédsku pro posílení evropské autonomie v AI.",
+      "slug": "mistral-pushes-eu-ai-freedom-as-revenues-top-400-m",
+      "publishedAt": "2026-02-11T11:43:01+00:00",
+      "date": "2026-02-11 11:43:01",
+      "importance": 4,
+      "category": "ai startupy",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2025/12/Mistral-AI1.jpg",
+      "url": "/tech-news/2026-02-11/mistral-pushes-eu-ai-freedom-as-revenues-top-400-m/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [
+        "Mistral"
+      ],
+      "people": [
+        "Arthur Mensch"
+      ]
+    },
+    {
+      "title": "Americký sbor námořní pěchoty udělil Kodiak AI kontrakt na vývoj autonomního pozemního vozidla",
+      "description": "Kodiak AI integroval svůj systém autonomního řízení Kodiak Driver do nosiče ROGUE-Fires americké námořní pěchoty. Tato spolupráce demonstruje všestrannost technologie pro strategické vojenské operace v náročných prostředích.",
+      "slug": "us-marine-corps-awards-kodiak-ai-autonomous-ground",
+      "publishedAt": "2026-02-11T11:30:00+00:00",
+      "date": "2026-02-11 11:30:00",
+      "importance": 4,
+      "category": "autonomní vozidla",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/7397076e-22eb-4ad8-bf18-7d49f239a306",
+      "url": "/tech-news/2026-02-11/us-marine-corps-awards-kodiak-ai-autonomous-ground/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [
+        "Kodiak"
+      ],
+      "people": []
+    },
     {
       "title": "Apple pro rok 2026: Proč stojí za čekání na chytřejší nové zařízení",
       "description": "Apple plánuje na začátku roku 2026 představit aktualizovanou nabídku produktů s důrazem na chytřejší a efektivnější technologie v iPhonech, iPadech, Macích a umělé inteligenci. Zaměření je na zlepšení výkonu a softwarové inteligence bez výrazných designových změn.",
