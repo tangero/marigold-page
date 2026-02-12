@@ -1,7 +1,68 @@
 {
-  "generated": "2026-02-12T13:04:51.594018+00:00",
-  "count": 141,
+  "generated": "2026-02-12T17:10:13.244384+00:00",
+  "count": 144,
   "articles": [
+    {
+      "title": "IPO AI společnosti Fractal předplněno 2,66násobně v závěrečný den nabídkové fáze",
+      "description": "IPO indické AI firmy Fractal Analytics za 2 834 crore Rs bylo na poslední den předplněno 2,66násobně při cenovém pásmu 857–900 Rs na akcii. Valuace společnosti dosahuje 15 473 crore Rs (1,71 miliardy USD), což představuje pokles oproti předchozímu ocenění 20 978 crore Rs z července 2025.",
+      "slug": "ai-company-fractals-ipo-subscribed-266-times-on-fi",
+      "publishedAt": "2026-02-11T16:26:19+00:00",
+      "date": "2026-02-11 16:26:19",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-31814,resizemode-75,msid-128216201/tech/technology/ai-company-fractals-ipo-subscribed-2-66-times-on-final-day-of-bidding.jpg",
+      "url": "/tech-news/2026-02-11/ai-company-fractals-ipo-subscribed-266-times-on-fi/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Fractal"
+      ],
+      "people": []
+    },
+    {
+      "title": "Tesla spolupracuje s Tencentem na integraci WeChat do více než milionu aut v Číně",
+      "description": "Tencent Cloud oznámil partnerství s Teslou na integraci funkcí spojených s WeChat přímo do vozidel Tesla v Číně. Aktualizace přes vzduch se rozjedu na více než milion Model 3 a Model Y vyrobených v továrně Giga Shanghai a přinese sdílení polohy jedním dotykem a návrhy služeb poháněné umělou inteligencí.",
+      "slug": "tesla-partners-with-tencent-to-bring-wechat-inside",
+      "publishedAt": "2026-02-11T16:21:02+00:00",
+      "date": "2026-02-11 16:21:02",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2024/08/Tesla-cheaper-model-3-interior.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2026-02-11/tesla-partners-with-tencent-to-bring-wechat-inside/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Electrek"
+      },
+      "companies": [
+        "Tesla",
+        "Tencent"
+      ],
+      "people": []
+    },
+    {
+      "title": "Zde jsou značky, které přinášejí reklamy do ChatGPT",
+      "description": "OpenAI spustilo pilotní program reklam v ChatGPT, díky čemuž víme, jaké produkty se budou objevovat pod konverzacemi s AI. Mezi partnery jsou velké firmy jako Target, Adobe nebo Ford, reklamy se zobrazí zdarma uživatelům nebo těm s levnějším předplatným.",
+      "slug": "here-are-the-brands-bringing-ads-to-chatgpt",
+      "publishedAt": "2026-02-11T16:08:03+00:00",
+      "date": "2026-02-11 16:08:03",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462010/STK155_OPEN_AI_CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "url": "/tech-news/2026-02-11/here-are-the-brands-bringing-ads-to-chatgpt/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
     {
       "title": "IonQ vytváří první vertikálně integrovanou kvantovou firmu akvizicí za 1,8 miliardy dolarů",
       "description": "IonQ nedávno získalo několik společností, včetně SkyWater Technology za 1,8 miliardy dolarů. Tento krok vytváří první vertikálně integrovanou kvantovou platformovou firmu a posiluje domácí výrobu v USA v globálním kvantovém ekosystému.",
