@@ -1,7 +1,65 @@
 {
-  "generated": "2026-02-12T17:10:13.244384+00:00",
-  "count": 144,
+  "generated": "2026-02-12T20:48:30.538496+00:00",
+  "count": 147,
   "articles": [
+    {
+      "title": "Výzkum sodíkových baterií zaznamenal průlom, který by mohl změnit elektromobily",
+      "description": "Sodíkové baterie jsou alternativou k lithiovým, ale dosud je omezovaly chemické komplikace spojené s nižší hustotou energie a pomalejším nabíjením. Nové průlomy od čínské firmy CATL a výzkumníků tyto problémy řeší.",
+      "slug": "sodium-ion-battery-research-just-had-a-breakthroug",
+      "publishedAt": "2026-02-11T20:17:00+00:00",
+      "date": "2026-02-11 20:17:00",
+      "importance": 5,
+      "category": "sodíkové baterie",
+      "urlToImage": "https://www.bgr.com/img/gallery/sodium-ion-battery-research-just-had-a-breakthrough-that-could-change-everything/l-intro-1770591384.jpg",
+      "url": "/tech-news/2026-02-11/sodium-ion-battery-research-just-had-a-breakthroug/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BGR"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Výrobce Ray-Ban EssilorLuxottica: Prodeje brýlí s Meta AI se v roce 2025 více než ztrojnásobily",
+      "description": "Francouzsko-italský okularový výrobce spolupracuje na chytrých brýlích se společností Meta od roku 2019.",
+      "slug": "ray-ban-maker-essilorluxottica-says-it-more-than-t",
+      "publishedAt": "2026-02-11T20:09:32+00:00",
+      "date": "2026-02-11 20:09:32",
+      "importance": 4,
+      "category": "chytré brýle",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108201461-1758309556598-gettyimages-2235586867-META_CONNECT.jpeg?v=1770838209&w=1920&h=1080",
+      "url": "/tech-news/2026-02-11/ray-ban-maker-essilorluxottica-says-it-more-than-t/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [
+        "Meta"
+      ],
+      "people": []
+    },
+    {
+      "title": "Google integruje novou nákupní funkci do vyhledávání a Gemini",
+      "description": "Google testuje nové reklamní formáty v AI módu vyhledávání, které umožňují prodejcům nabízet produkty přímo v výsledcích. Uživatelé mohou kupovat z Etsy a Wayfair v rámci Gemini a využívat slevy prostřednictvím funkce Direct Offers.",
+      "slug": "google-weaves-new-shopping-feature-into-search-and",
+      "publishedAt": "2026-02-11T19:51:05+00:00",
+      "date": "2026-02-11 19:51:05",
+      "importance": 4,
+      "category": "e-commerce",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/01/Google-Chrome-Gemini-AI.jpeg",
+      "url": "/tech-news/2026-02-11/google-weaves-new-shopping-feature-into-search-and/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
     {
       "title": "IPO AI společnosti Fractal předplněno 2,66násobně v závěrečný den nabídkové fáze",
       "description": "IPO indické AI firmy Fractal Analytics za 2 834 crore Rs bylo na poslední den předplněno 2,66násobně při cenovém pásmu 857–900 Rs na akcii. Valuace společnosti dosahuje 15 473 crore Rs (1,71 miliardy USD), což představuje pokles oproti předchozímu ocenění 20 978 crore Rs z července 2025.",
