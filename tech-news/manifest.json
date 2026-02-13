@@ -1,7 +1,192 @@
 {
-  "generated": "2026-02-13T05:42:30.682186+00:00",
-  "count": 131,
+  "generated": "2026-02-13T08:58:58.016286+00:00",
+  "count": 140,
   "articles": [
+    {
+      "title": "Americké akcie dnes | SoftBank vykázal čtvrtý po sobě jdoucí čtvrtletní zisk 1,6 miliardy dolarů díky ziskům z OpenAI",
+      "description": "Japonská skupina SoftBank Group v čtvrtletí říjen-prosinec vykázala čistý zisk 248,6 miliardy jenů (1,62 miliardy dolarů), což je čtvrtý kvartál v řadě s kladným výsledkem. Zisk byl podpořen rostoucí valuací investice do OpenAI, tvůrce ChatGPT.",
+      "slug": "us-stocks-today-softbank-posts-fourth-straight-qua",
+      "publishedAt": "2026-02-12T07:55:37+00:00",
+      "date": "2026-02-12 07:55:37",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/msid-128245154,width-1200,height-630,imgsize-29506,overlay-etmarkets/articleshow.jpg",
+      "url": "/tech-news/2026-02-12/us-stocks-today-softbank-posts-fourth-straight-qua/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "SoftBank Group",
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Agnikul Cosmos bude spolupracovat s NeevCloud na datovém centru ve vesmíru",
+      "description": "Indická vesmírná startupová firma Agnikul Cosmos naváže partnerství s cloudovou společností NeevCloud, aby umožnila provoz datového centra ve vesmíru pro AI SuperCloud platformu. Tento krok cílí na rostoucí poptávku po výpočetních kapacitách pro AI úlohy a zvyšuje udržitelnost oproti pozemním datovým centrům.",
+      "slug": "agnikul-cosmos-to-partner-with-neevcloud-to-host-d",
+      "publishedAt": "2026-02-12T07:48:15+00:00",
+      "date": "2026-02-12 07:48:15",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/81hay0/article70623128.ece/alternates/LANDSCAPE_1200/Agnikul%20Founders%20left%20to%20right%20-%20Srinath%20Ravichandran%20Co-founder%20%20CEO%20Moin%20SPM%20Co-founder%20%20COO%201%201.JPG",
+      "url": "/tech-news/2026-02-12/agnikul-cosmos-to-partner-with-neevcloud-to-host-d/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "companies": [
+        "Agnikul Cosmos",
+        "NeevCloud"
+      ],
+      "people": []
+    },
+    {
+      "title": "SoftBank dosáhl čtvrtletního zisku 2,05 miliardy dolarů díky investicím do OpenAI",
+      "description": "SoftBank investoval do OpenAI více než 30 miliard amerických dolarů a díky růstu valuace této společnosti vykázal významný zisk. Více informací na straitstimes.com.",
+      "slug": "softbank-posts-205-billion-quarterly-profit-on-ope",
+      "publishedAt": "2026-02-12T07:41:24+00:00",
+      "date": "2026-02-12 07:41:24",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/d4c76b040cedc9f32aa428f4de1a35cab986307f2483a283704dee072de3cc7f",
+      "url": "/tech-news/2026-02-12/softbank-posts-205-billion-quarterly-profit-on-ope/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Straits Times"
+      },
+      "companies": [
+        "SoftBank",
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Samsung zahájil hromadnou výrobu svých nejdůležitějších čipů v historii",
+      "description": "Samsung je první společností na světě, která zahájila hromadnou výrobu pamětí HBM4 šesté generace s vysokou propustností dat. Tyto čipy budou použity v nejpokročilejších AI akcelerátorech.",
+      "slug": "samsung-announces-mass-production-its-most-importa",
+      "publishedAt": "2026-02-12T07:16:03+00:00",
+      "date": "2026-02-12 07:16:03",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2026/02/Samsung-HBM4-Memory-Chips-1200x675.jpg",
+      "url": "/tech-news/2026-02-12/samsung-announces-mass-production-its-most-importa/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SamMobile"
+      },
+      "companies": [
+        "Samsung"
+      ],
+      "people": []
+    },
+    {
+      "title": "Samsung zahájil hromadnou výrobu pamětí HBM4 s rychlostmi až 13 Gbps a kapacitou 48 GB",
+      "description": "Samsung spustil hromadnou výrobu a dodávky pamětí HBM4 s rychlostmi 11,7 až 13 Gbps, propustností 3,3 TB/s na stack a kapacitou až 48 GB ve 16-vrstvových konfiguracích. Tyto paměti budou sloužit datacentrovým čipům jako NVIDIA Vera Rubin a AMD Instinct MI450.",
+      "slug": "samsung-begins-hbm4-memory-mass-production-with-up",
+      "publishedAt": "2026-02-12T07:10:39+00:00",
+      "date": "2026-02-12 07:10:39",
+      "importance": 4,
+      "category": "hardware",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/02/Samsung-Semiconductors-Industry-First-Commercial-HBM4_main2.jpg",
+      "url": "/tech-news/2026-02-12/samsung-begins-hbm4-memory-mass-production-with-up/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Wccftech"
+      },
+      "companies": [
+        "Samsung"
+      ],
+      "people": []
+    },
+    {
+      "title": "Rok po šoku z DeepSeek se připravte na vlnu levných čínských modelů umělé inteligence",
+      "description": "Rok po tom, co čínský startup DeepSeek otřásl globálním technologickým průmyslem vydáním levného modelu umělé inteligence, jsou jeho domácí konkurenti lépe připraveni a soutěží v uvedení nových modelů s větším důrazem na spotřebitele.",
+      "slug": "a-year-on-from-deepseek-shock-get-set-for-flurry-o",
+      "publishedAt": "2026-02-12T07:03:05+00:00",
+      "date": "2026-02-12 07:03:05",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-39562,resizemode-75,msid-128243272/tech/artificial-intelligence/a-year-on-from-deepseek-shock-get-set-for-flurry-of-low-cost-chinese-ai-models.jpg",
+      "url": "/tech-news/2026-02-12/a-year-on-from-deepseek-shock-get-set-for-flurry-o/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "DeepSeek"
+      ],
+      "people": []
+    },
+    {
+      "title": "Google: Čínská APT31 použila Gemini k plánování kyberútoků na americké organizace",
+      "description": "Čínská hackerská skupina APT31, sankcionovaná USA za útoky na kritickou infrastrukturu, využila AI chatbot Gemini k automatické analýze zranitelností a plánování kyberútoků. Mezitím rostou útoky typu 'distilace' na krádež duševního vlastnictví.",
+      "slug": "google-chinas-apt31-used-gemini-to-plan-cyberattac",
+      "publishedAt": "2026-02-12T07:00:08+00:00",
+      "date": "2026-02-12 07:00:08",
+      "importance": 5,
+      "category": "kybernetika",
+      "urlToImage": "https://regmedia.co.uk/2024/09/16/shutterstock_china_digital_eyeball.jpg",
+      "url": "/tech-news/2026-02-12/google-chinas-apt31-used-gemini-to-plan-cyberattac/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "SoftBank hlásí čtvrtý po sobě čtvrtletní zisk 1,6 miliardy dolarů díky ziskům z OpenAI",
+      "description": "Japonská skupina SoftBank Group dosáhla v čtvrtletí říjen-prosinec čistého zisku 248,6 miliardy jenů (1,62 miliardy dolarů), především díky růstu valuace její investice do OpenAI. Jedná se o čtvrtý kvartér v řadě s ziskem.",
+      "slug": "softbank-posts-fourth-straight-quarterly-profit-of",
+      "publishedAt": "2026-02-12T06:35:52+00:00",
+      "date": "2026-02-12 06:35:52",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--WWh90njJ--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-02-12T065859Z_2_LYNXMPEM1B0C3_RTROPTP_3_SOFTBANK-OPENAI-INVESTMENT.JPG?itok=tpccQagy",
+      "url": "/tech-news/2026-02-12/softbank-posts-fourth-straight-quarterly-profit-of/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNA"
+      },
+      "companies": [
+        "SoftBank Group",
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "SoftBank vykázal čtvrtletní zisk 1,6 miliardy dolarů díky ziskům z OpenAI",
+      "description": "Japonská investiční skupina SoftBank Group oznámila čistý zisk 248,6 miliardy jenů (1,62 miliardy USD) za říjen až prosinec, poháněný růstem valuace její investice do OpenAI. Výsledky představují čtvrtý po sobě jdoucí ziskový kvartál.",
+      "slug": "softbank-posts-16-billion-quarterly-profit-on-open",
+      "publishedAt": "2026-02-12T06:35:52+00:00",
+      "date": "2026-02-12 06:35:52",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--WWh90njJ--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-02-12T065859Z_2_LYNXMPEM1B0C3_RTROPTP_3_SOFTBANK-OPENAI-INVESTMENT.JPG?itok=tpccQagy",
+      "url": "/tech-news/2026-02-12/softbank-posts-16-billion-quarterly-profit-on-open/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNA"
+      },
+      "companies": [
+        "SoftBank Group",
+        "OpenAI"
+      ],
+      "people": []
+    },
     {
       "title": "Anthropic uhradí 100 % nákladů na modernizaci elektrické sítě pro svá datacentra AI",
       "description": "Společnost Anthropic se zavázala hradit všechny náklady na posílení elektrické sítě spojené s jejími daty centry pro umělou inteligenci, aby tyto výdaje nešly na účet domácností.",
