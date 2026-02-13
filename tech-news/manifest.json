@@ -1,7 +1,113 @@
 {
-  "generated": "2026-02-12T20:48:30.538496+00:00",
-  "count": 147,
+  "generated": "2026-02-13T01:33:56.610265+00:00",
+  "count": 152,
   "articles": [
+    {
+      "title": "Microsoft varuje, že otrávená tlačítka a odkazy AI mohou zradit vaši důvěru",
+      "description": "Firmy vkládají do tlačítek a odkazů skryté prompty, které nutí AI generovat obsah podle jejich představ místo objektivního výstupu. Microsoft odhalil přes 50 unikátních případů od 31 společností v 14 odvětvích.",
+      "slug": "microsoft-warns-that-poisoned-ai-buttons-and-links",
+      "publishedAt": "2026-02-12T01:07:06+00:00",
+      "date": "2026-02-12 01:07:06",
+      "importance": 4,
+      "category": "ai bezpečnost",
+      "urlToImage": "https://regmedia.co.uk/2020/02/21/shutterstock_poison_pills.jpg",
+      "url": "/tech-news/2026-02-12/microsoft-warns-that-poisoned-ai-buttons-and-links/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "companies": [
+        "Microsoft"
+      ],
+      "people": []
+    },
+    {
+      "title": "Anthropic slibuje, že jeho datacentra vůbec nezvýší vaše účty za energie",
+      "description": "Společnost Anthropic se zavázala kompenzovat spotřebitelům jakékoli zvýšení cen energie způsobené provozem jejích vlastních datacenter. Pronajaté kapacity od Amazonu, Microsoftu a Google však pod tuto záruku nespadají.",
+      "slug": "anthropic-promises-its-datacenters-totally-wont-dr",
+      "publishedAt": "2026-02-12T00:47:13+00:00",
+      "date": "2026-02-12 00:47:13",
+      "importance": 4,
+      "category": "datacentra",
+      "urlToImage": "https://regmedia.co.uk/2026/02/12/electric_meter.jpg",
+      "url": "/tech-news/2026-02-12/anthropic-promises-its-datacenters-totally-wont-dr/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "companies": [
+        "Anthropic",
+        "Amazon",
+        "Microsoft",
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Pentagon tlačí na přední AI společnosti, aby rozšířily nástroje na tajné sítě, říkají zdroje",
+      "description": "Pentagon žádá společnosti jako OpenAI a Anthropic, aby učinily své modely umělé inteligence dostupnými na sítích s utajenými informacemi bez běžných omezení. Cílem je nasadit pokročilé AI schopnosti na všech úrovních utajení v kontextu budoucích vojenských operací.",
+      "slug": "exclusive-pentagon-pushing-ai-companies-to-expand-",
+      "publishedAt": "2026-02-12T00:45:40+00:00",
+      "date": "2026-02-12 00:45:40",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--AcdZX71Z--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-02-12T004540Z_1_LYNXMPEM1B01I_RTROPTP_3_USA-PENTAGON-AI.JPG?itok=s0QDQ_jS",
+      "url": "/tech-news/2026-02-12/exclusive-pentagon-pushing-ai-companies-to-expand/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNA"
+      },
+      "companies": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "people": []
+    },
+    {
+      "title": "Solowin Holdings oznámila dohodu o financování až 100 milionů USD se Streeterville Capital na podporu globální strategie digitálních aktiv",
+      "description": "Fintech společnost Solowin Holdings (Nasdaq: AXG) uzavřela smlouvu o koupi cenných papírů se Streeterville Capital na částku až 100 milionů USD. První tranche ve výši 5,415 milionů USD byla již dokončena a prostředky půjdou na expanzi stablecoinů, tokenizaci aktiv a výzkum v AI a blockchainu.",
+      "slug": "solowin-holdings-announces-up-to-us100m-financing-",
+      "publishedAt": "2026-02-12T00:40:00+00:00",
+      "date": "2026-02-12 00:40:00",
+      "importance": 4,
+      "category": "kryptoměny",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/e299ef47-c0b3-4803-95ed-09bbb16c1ece",
+      "url": "/tech-news/2026-02-12/solowin-holdings-announces-up-to-us100m-financing/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [
+        "SOLOWIN HOLDINGS"
+      ],
+      "people": []
+    },
+    {
+      "title": "SpaceX mění směr, chce budovat na Měsíci místo Marsu",
+      "description": "Společnost SpaceX, kterou Elon Musk založil v roce 2002 s cílem vytvořit soběstačné město na Marsu, nyní přesouvá hlavní fokus na Měsíc. Důvodem je kratší vývojový čas, rychlejší cesty a častější startovací okna.",
+      "slug": "spacex-makes-a-huge-pivot-wants-to-build-on-the-mo",
+      "publishedAt": "2026-02-11T23:37:08+00:00",
+      "date": "2026-02-11 23:37:08",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://www.universetoday.com/article_images/191119-spacex-starship-artist-rendering-ew-1204p_20260211_003035.jpg",
+      "url": "/tech-news/2026-02-11/spacex-makes-a-huge-pivot-wants-to-build-on-the-mo/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Universe Today"
+      },
+      "companies": [
+        "SpaceX"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
     {
       "title": "Výzkum sodíkových baterií zaznamenal průlom, který by mohl změnit elektromobily",
       "description": "Sodíkové baterie jsou alternativou k lithiovým, ale dosud je omezovaly chemické komplikace spojené s nižší hustotou energie a pomalejším nabíjením. Nové průlomy od čínské firmy CATL a výzkumníků tyto problémy řeší.",
