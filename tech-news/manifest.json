@@ -1,7 +1,192 @@
 {
-  "generated": "2026-02-13T01:33:56.610265+00:00",
-  "count": 152,
+  "generated": "2026-02-13T05:42:30.682186+00:00",
+  "count": 131,
   "articles": [
+    {
+      "title": "Anthropic uhradí 100 % nákladů na modernizaci elektrické sítě pro svá datacentra AI",
+      "description": "Společnost Anthropic se zavázala hradit všechny náklady na posílení elektrické sítě spojené s jejími daty centry pro umělou inteligenci, aby tyto výdaje nešly na účet domácností.",
+      "slug": "anthropic-says-it-will-pay-100-of-the-grid-upgrade",
+      "publishedAt": "2026-02-12T05:03:31+00:00",
+      "date": "2026-02-12 05:03:31",
+      "importance": 4,
+      "category": "datacentra",
+      "urlToImage": "https://i.insider.com/698d4edca645d11881893150?width=1200&format=jpeg",
+      "url": "/tech-news/2026-02-12/anthropic-says-it-will-pay-100-of-the-grid-upgrade/",
+      "source": {
+        "emoji": "📰",
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": []
+    },
+    {
+      "title": "Šok 1,3 bilionu rupií! Proč akcie TCS, Infosys a dalších IT firem klesly až o 5 %",
+      "description": "Indický IT sektor zaznamenal prudký pokles, kdy index Nifty IT klesl o více než 4 %, což vedlo ke ztrátě 1,3 bilionu rupií na tržní kapitalizaci. Důvodem jsou obavy z narušení umělou inteligencí, zejména po uvedení nového nástroje Claude Cowork od Anthropic, který automatizuje rutinní úkoly v IT službách.",
+      "slug": "rs-13-lakh-crore-shock-why-tcs-infosys-other-it-st",
+      "publishedAt": "2026-02-12T04:49:41+00:00",
+      "date": "2026-02-12 04:49:41",
+      "importance": 4,
+      "category": "it akcie",
+      "urlToImage": "https://img.etimg.com/thumb/msid-128238476,width-1200,height-630,imgsize-2247844,overlay-etmarkets/articleshow.jpg",
+      "url": "/tech-news/2026-02-12/rs-13-lakh-crore-shock-why-tcs-infosys-other-it-st/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Anthropic"
+      ],
+      "people": []
+    },
+    {
+      "title": "Umělá inteligence ohrožuje podnikové software – může změnit způsob práce",
+      "description": "I když jste tyto software nástroje nikdy nepoužívali, váš zaměstnavatel je pravděpodobně využívá. Nové agentní nástroje umělé inteligence nyní hrozí převrátit systémy, na které se firmy spoléhají roky.",
+      "slug": "ai-threatens-to-eat-business-software-and-it-could",
+      "publishedAt": "2026-02-12T04:23:02+00:00",
+      "date": "2026-02-12 04:23:02",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://images.theconversation.com/files/717562/original/file-20260211-56-jl872x.jpg?ixlib=rb-4.1.0&rect=0%2C396%2C4744%2C2372&q=45&auto=format&w=1356&h=668&fit=crop",
+      "url": "/tech-news/2026-02-12/ai-threatens-to-eat-business-software-and-it-could/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Zhipu vede rally čínských AI akcií, růst o 30 %, vlna nových vydání zasáhla trh",
+      "description": "Index Shanghai STAR AI Industry Index vzrostl o 1,7 % před částečným útlumem zisků. Čínské akcie v oblasti umělé inteligence posílily díky vydáním upgradovaných modelů od několika firem.",
+      "slug": "zhipu-leads-rally-in-chinese-ai-stocks-surging-30-",
+      "publishedAt": "2026-02-12T03:50:38+00:00",
+      "date": "2026-02-12 03:50:38",
+      "importance": 4,
+      "category": "ai akcie",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108257110-1769448456827-gettyimages-2254532744-CHINA_ZHIPU.jpeg?v=1770861763&w=1920&h=1080",
+      "url": "/tech-news/2026-02-12/zhipu-leads-rally-in-chinese-ai-stocks-surging-30/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [
+        "Zhipu"
+      ],
+      "people": []
+    },
+    {
+      "title": "Alokace akcií Fractal Analytics IPO dnes: Jak zkontrolovat stav na MUFG Intime India, GMP a výhled na listování",
+      "description": "Alokace akcií Fractal Analytics IPO proběhne 12. února, akcie budou připsány do 13. února a listování na burzách BSE a NSE je plánováno na 16. února. Grey market premium naznačuje skromné zisky z listování, investoři mohou stav zkontrolovat na webu registrátora MUFG Intime India.",
+      "slug": "fractal-analytics-ipo-allotment-today-how-to-check",
+      "publishedAt": "2026-02-12T02:23:32+00:00",
+      "date": "2026-02-12 02:23:32",
+      "importance": 4,
+      "category": "ipo",
+      "urlToImage": "https://img.etimg.com/thumb/msid-128233994,width-1200,height-630,imgsize-17836,overlay-etmarkets/articleshow.jpg",
+      "url": "/tech-news/2026-02-12/fractal-analytics-ipo-allotment-today-how-to-check/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Fractal Analytics"
+      ],
+      "people": []
+    },
+    {
+      "title": "Taiwanský prezident chce větší obrannou a AI spolupráci s Evropou: rozhovor pro AFP",
+      "description": "Prezident Lai Ching-te v exkluzivním rozhovoru pro AFP volá po posílení spolupráce mezi Tchaj-wanem a Evropou v oblasti obranného průmyslu, obranných technologií a umělé inteligence. Tchaj-wan zároveň podporuje investice svých polovodičových firem do Evropy, aby posílil ekonomické vazby na třetí největší exportní trh.",
+      "slug": "taiwan-leader-wants-greater-defence-cooperation-wi",
+      "publishedAt": "2026-02-12T02:05:18+00:00",
+      "date": "2026-02-12 02:05:18",
+      "importance": 4,
+      "category": "obraná spolupráce",
+      "urlToImage": "https://s.france24.com/media/display/46c14bf0-07b7-11f1-8de5-005056bf30b7/w:1280/p:16x9/060092d9dccec70dd56d32493377ce772a17a1b5.jpg",
+      "url": "/tech-news/2026-02-12/taiwan-leader-wants-greater-defence-cooperation-wi/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "FRANCE 24 English"
+      },
+      "companies": [],
+      "people": [
+        "Lai"
+      ]
+    },
+    {
+      "title": "Google posiluje partnerství s Kakao pro vylepšení aplikací pomocí AI technologií na Androidu",
+      "description": "Google oznámil spolupráci s korejskou firmou Kakao na inovacích uživatelského zážitku na zařízeních Android s využitím pokročilé AI technologie. V rámci partnerství bude Kakao vyvíjet uživatelské rozhraní pro AI brýle na platformě Android XR a optimalizovat on-device AI služby jako Kanana v aplikaci KakaoTalk.",
+      "slug": "google-strengthens-partnership-with-kakao-to-enhan",
+      "publishedAt": "2026-02-12T01:53:40+00:00",
+      "date": "2026-02-12 01:53:40",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://cdn.platum.kr/wp-content/uploads/2025/05/Google.org_-1024x320.jpg",
+      "url": "/tech-news/2026-02-12/google-strengthens-partnership-with-kakao-to-enhan/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Platum.kr"
+      },
+      "companies": [
+        "Google",
+        "Kakao"
+      ],
+      "people": []
+    },
+    {
+      "title": "Startup Meridian s agentickou AI pro finanční modelování získal 17 milionů dolarů",
+      "description": "Startup Meridian, zaměřený na agentickou umělou inteligenci pro složité finanční modelování, získal 17 milionů dolarů v seed financování vedeném Andreessen Horowitz a The General Partners. Valuace společnosti po kolu dosáhla 100 milionů dolarů.",
+      "slug": "agentic-financial-modeling-startup-meridian-gets-1",
+      "publishedAt": "2026-02-12T01:31:36+00:00",
+      "date": "2026-02-12 01:31:36",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Screenshot-from-2026-02-12-08-29-46.png",
+      "url": "/tech-news/2026-02-12/agentic-financial-modeling-startup-meridian-gets-1/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Meridian",
+        "Andreessen Horowitz",
+        "The General Partners"
+      ],
+      "people": []
+    },
+    {
+      "title": "Pentagon tlačí AI společnosti na rozšíření do tajných sítí, říkají zdroje",
+      "description": "Pentagon tlačí přední AI společnosti včetně OpenAI a Anthropic, aby jejich nástroje umělé inteligence byly dostupné na tajných sítích bez mnoha standardních omezení, která tyto firmy uživatelům ukládají. Jde o nasazení AI modelů na neklasifikovaných i klasifikovaných sítích pro vojenské účely.",
+      "slug": "pentagon-pushing-ai-companies-to-expand-on-classif",
+      "publishedAt": "2026-02-12T01:31:30+00:00",
+      "date": "2026-02-12 01:31:30",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-158224,resizemode-75,msid-128231949/tech/artificial-intelligence/pentagon-pushing-ai-companies-to-expand-on-classified-networks-sources-say.jpg",
+      "url": "/tech-news/2026-02-12/pentagon-pushing-ai-companies-to-expand-on-classif/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "people": []
+    },
     {
       "title": "Microsoft varuje, že otrávená tlačítka a odkazy AI mohou zradit vaši důvěru",
       "description": "Firmy vkládají do tlačítek a odkazů skryté prompty, které nutí AI generovat obsah podle jejich představ místo objektivního výstupu. Microsoft odhalil přes 50 unikátních případů od 31 společností v 14 odvětvích.",
@@ -2446,618 +2631,6 @@
         "ASML"
       ],
       "people": []
-    },
-    {
-      "title": "Sloučení SpaceX a xAI od Muska vyvolává rizika v řízení a financích",
-      "description": "Po potvrzení Elona Muska, že SpaceX dokončilo akvizici startupu xAI v oblasti umělé inteligence, se pozornost rychle přesunula od detailů dohody k jejím širším důsledkům. Tato nekonvenční transakce přináší obavy z koncentrace moci, konfliktů zájmů a finančních rizik před plánovaným IPO SpaceX.",
-      "slug": "musks-spacex-xai-merger-raises-governance-and-fina",
-      "publishedAt": "2026-02-06T23:41:45+00:00",
-      "date": "2026-02-06 23:41:45",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://img.digitimes.com/newsshow/20260204vl212_files/2_b.jpg",
-      "url": "/tech-news/2026-02-06/musks-spacex-xai-merger-raises-governance-and-fina/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
-      },
-      "companies": [
-        "SpaceX",
-        "xAI"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Goldman Sachs nasazuje AI agenty pro účetnictví a dodržování předpisů",
-      "description": "Goldman Sachs zavádí autonomní AI agenty postavené na modelu Claude od Anthropic pro automatizaci klíčových účetních, regulačních a operačních finančních funkcí. Iniciativa ukazuje rychlý přechod k agentickým AI systémům v korporátních financích.",
-      "slug": "goldman-sachs-lets-ai-agents-do-accounting-and-com",
-      "publishedAt": "2026-02-06T19:47:35+00:00",
-      "date": "2026-02-06 19:47:35",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/02/Goldman-Sachs-AI-accounting-compliance.jpeg",
-      "url": "/tech-news/2026-02-06/goldman-sachs-lets-ai-agents-do-accounting-and-com/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "pymnts.com"
-      },
-      "companies": [
-        "Anthropic"
-      ],
-      "people": []
-    },
-    {
-      "title": "Univerzita Washingtonu v St. Louis digitalizuje historii, stížnosti na ChatGPT a kolaps dohody Nvidia s OpenAI",
-      "description": "ResearchBuzz shrnuje aktuální tech novinky: digitalizaci více než 6400 historických fotografií z Washington University, nespokojenost uživatelů ChatGPT s plánovaným ukončením modelu GPT-4o a neuskutečnění plánované investice Nvidia do OpenAI v hodnotě 100 miliard dolarů.",
-      "slug": "washington-university-in-st-louis-chatgpt-nvidia-m",
-      "publishedAt": "2026-02-06T19:44:11+00:00",
-      "date": "2026-02-06 19:44:11",
-      "importance": 4,
-      "category": "digitalizace",
-      "urlToImage": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvczAud3AuY29tXC9pXC9ibGFuay5qcGciLCJ0eHQiOiJSZXNlYXJjaEJ1enoiLCJ0ZW1wbGF0ZSI6ImhpZ2h3YXkiLCJmb250IjoiIiwiYmxvZ19pZCI6NDMyODc1Nn0.BjdcPIDlw4ZG0Ki13B-quwxnrzAxn9iB5rJXagRMNlcMQ",
-      "url": "/tech-news/2026-02-06/washington-university-in-st-louis-chatgpt-nvidia-m/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Researchbuzz.me"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": []
-    },
-    {
-      "title": "Akcie Nvidia prudce rostou díky plánu velkých technologických firem na výdaje 650 miliard dolarů do AI",
-      "description": "Akcie Nvidia výrazně vzrostly, protože investoři hromadně kupují podíly firem, které profitují z obrovských investic velkých technologických společností do umělé inteligence. Tento vývoj nastal po oznámení plánů na výdaje 650 miliard dolarů v roce 2026.",
-      "slug": "nvidia-shares-surge-on-big-techs-us650-billion-ai-",
-      "publishedAt": "2026-02-06T19:21:20+00:00",
-      "date": "2026-02-06 19:21:20",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/02/0207-bc-nvidia-.jpg",
-      "url": "/tech-news/2026-02-06/nvidia-shares-surge-on-big-techs-us650-billion-ai/",
-      "source": {
-        "emoji": "📰",
-        "id": "financial-post",
-        "name": "Financial Post"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": []
-    },
-    {
-      "title": "Fox News AI Newsletter: Američané jsou klamáni ohledně umělé inteligence",
-      "description": "Fox News AI Newsletter informuje o nejnovějších pokrocích v technologii umělé inteligence, zaměřuje se na výzvy i příležitosti, které AI přináší v oblasti pracovního trhu, ekonomiky a energetiky.",
-      "slug": "fox-news-ai-newsletter-the-american-people-are-bei",
-      "publishedAt": "2026-02-06T19:14:57+00:00",
-      "date": "2026-02-06 19:14:57",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/07/shyam-sankar.png",
-      "url": "/tech-news/2026-02-06/fox-news-ai-newsletter-the-american-people-are-bei/",
-      "source": {
-        "emoji": "📰",
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Nejlepší terapeutické aplikace unikají data, která mohou skončit na dark webu",
-      "description": "Při používání terapeutických aplikací na Androidu nemusíte počítat s rizikem úniku dat, který by ohrozil váš osobní život a odhalil soukromé záznamy z terapie. Nový report odhaluje zranitelnosti v top appkách, jejichž data se prodávají na dark webu.",
-      "slug": "top-therapy-apps-are-leaking-data-and-it-may-end-u",
-      "publishedAt": "2026-02-06T19:05:51+00:00",
-      "date": "2026-02-06 19:05:51",
-      "importance": 4,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2026/02/AH-Therapy-Apps.jpg",
-      "url": "/tech-news/2026-02-06/top-therapy-apps-are-leaking-data-and-it-may-end-u/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Headlines"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Soudce umožnil pokračovat v sporu o autorská práva k Blade Runner 2049 proti Elonovi Muskovi a Tesle",
-      "description": "Rozhodnutí soudce snižuje pravděpodobnost zamítnutí sporů o autorská práva souvisejících s generativní AI a může odradit firmy od jejího používání kvůli hrozbě nákladných soudních poplatků.",
-      "slug": "judge-lets-blade-runner-2049-copyright-suit-agains",
-      "publishedAt": "2026-02-06T19:02:13+00:00",
-      "date": "2026-02-06 19:02:13",
-      "importance": 4,
-      "category": "autorská práva",
-      "urlToImage": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/02/02.05.26-v1.jpg",
-      "url": "/tech-news/2026-02-06/judge-lets-blade-runner-2049-copyright-suit-agains/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Reason"
-      },
-      "companies": [
-        "Tesla"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Fúze Warner Bros.: Zákonodárci žádají závazky k zaměstnanosti",
-      "description": "Senátor Adam Schiff a poslankyně Laura Friedman vyzvali generální ředitele Netflixu a Paramountu k upřesnění, jak jejich firmy zachovají a rozšíří dobře placené práce ve filmovém a televizním průmyslu v Los Angeles v souvislosti s plánovanými fúzemi se Warner Bros.",
-      "slug": "warner-bros-merger-legislators-ask-for-employment-",
-      "publishedAt": "2026-02-06T18:58:53+00:00",
-      "date": "2026-02-06 18:58:53",
-      "importance": 5,
-      "category": "filmový průmysl",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/09/Sen.-Adam-Schiff-and-Rep.-Laura-Friedman-Split-Getty-H-2025.jpg?w=1296&h=730&crop=1",
-      "url": "/tech-news/2026-02-06/warner-bros-merger-legislators-ask-for-employment/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Hollywood Reporter"
-      },
-      "companies": [],
-      "people": [
-        "Adam Schiff",
-        "Laura Friedman"
-      ]
-    },
-    {
-      "title": "Šéf Nvidia vidí digitální dvojčata jako hnací sílu rozmachu robotů v příštím desetiletí",
-      "description": "Šéf Nvidia Jensen Huang nedávno zdůraznil, že příštích deset let bude klíčovým obdobím zrýchleného rozvoje robotické technologie. Klíčem k efektivnímu nasazení humanoidních robotů v továrnách je hluboká integrace AI a digitálních dvojčat.",
-      "slug": "nvidia-ceo-sees-digital-twins-driving-robot-surge-",
-      "publishedAt": "2026-02-06T18:44:00+00:00",
-      "date": "2026-02-06 18:44:00",
-      "importance": 5,
-      "category": "robotika",
-      "urlToImage": "https://img.digitimes.com/newsshow/20260206pd226_files/2_b.jpg",
-      "url": "/tech-news/2026-02-06/nvidia-ceo-sees-digital-twins-driving-robot-surge/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": [
-        "Jensen Huang"
-      ]
-    },
-    {
-      "title": "Goldman Sachs nasazuje Claude AI pro účetnictví obchodů, dodržování předpisů a onboarding – Začala nová éra investičního bankovnictví, kdy Anthropic pohání klíčové operace?",
-      "description": "Po šesti měsících interního vývoje nasazuje Goldman Sachs autonomní AI agenty poháněné Anthropic Claude Opus 4.6 pro zpracování účetnictví obchodů, dodržování předpisů a onboarding klientů. CIO Marco Argenti potvrzuje posun od kódovací pomoci k složitým logickým finančním úkolům.",
-      "slug": "goldman-sachs-deploys-claude-ai-for-trade-accounti",
-      "publishedAt": "2026-02-06T16:14:36+00:00",
-      "date": "2026-02-06 16:14:36",
-      "importance": 4,
-      "category": "fintech",
-      "urlToImage": "https://img.etimg.com/thumb/msid-127998284,width-1200,height-630,imgsize-65870,overlay-economictimes/articleshow.jpg",
-      "url": "/tech-news/2026-02-06/goldman-sachs-deploys-claude-ai-for-trade-accounti/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Anthropic"
-      ],
-      "people": [
-        "Marco Argenti"
-      ]
-    },
-    {
-      "title": "3 způsoby, jak NVFP4 zrychluje trénink a inference umělé inteligence",
-      "description": "Nejnovější modely umělé inteligence rostou na velikosti a složitosti, což vyžaduje čím dál větší výpočetní výkon pro trénink a inference, který překračuje možnosti Mooreova zákona. NVIDIA vyvinula formát NVFP4 pro své GPU Blackwell, který přináší výhody 4bitové plovoucí čárkové přesnosti při zachování vysoké úrovně přesnosti.",
-      "slug": "A-3-ways-nvfp4-accelerates-ai-training-and-inferen",
-      "publishedAt": "2026-02-06T16:01:08+00:00",
-      "date": "2026-02-06 16:01:08",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/02/image1-1.png",
-      "url": "/tech-news/2026-02-06/A-3-ways-nvfp4-accelerates-ai-training-and-inferen/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Nvidia.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Asijská státem podporovaná skupina TGR-STA-1030 prolomila sítě 70 vlád a infrastrukturních subjektů",
-      "description": "Dosud nedokumentovaná kyberšpionážní skupina z Asie, pravděpodobně podporovaná státem, infiltrovala sítě nejméně 70 vládních a kritické infrastruktury organizací ve 37 zemích během posledního roku. Zjištění pocházejí z analýzy Palo Alto Networks Unit 42, která zdůrazňuje potřebu modelu Zero Trust a integrace AI v obraně.",
-      "slug": "asian-state-backed-group-tgr-sta-1030-breaches-70-",
-      "publishedAt": "2026-02-06T12:07:00+00:00",
-      "date": "2026-02-06 12:07:00",
-      "importance": 5,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkJXKdHXB2KDlczzJtz-jzXDWo2g659AlM7wEMe5ZqLyV2xBZlvoO3uEyL25wwkvVZ1VLoKF6nZ_KJY5M8uHOb0c5Jon9VcLakImOaWVnCt_3LaR22nrrpZK9SmQZifDzmSB5NpaUikQeAhPP5nvgyK53vaJVSAkBRdpmpJA81kghRzC49Hwg2F0NzUfO6/s1700-e365/cyberattack.jpg",
-      "url": "/tech-news/2026-02-06/asian-state-backed-group-tgr-sta-1030-breaches-70/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Internet"
-      },
-      "companies": [
-        "Palo Alto Networks"
-      ],
-      "people": []
-    },
-    {
-      "title": "Kvantový skok nebo križovatka komunity?",
-      "description": "Dvanáct sousedů v zimních kabátech se shromáždilo v kostele na jihovýchodě Chicaga, aby diskutovali o plánovaném megaprojektu Quantum Shore Chicago s kvantovým počítačovým kampusem. Obyvatelé se obávají gentrifikace a environmentálních dopadů, zatímco zastánci slibují revoluci v medicíně a energetice.",
-      "slug": "quantum-leap-or-community-crossroads",
-      "publishedAt": "2026-02-06T12:00:00+00:00",
-      "date": "2026-02-06 12:00:00",
-      "importance": 5,
-      "category": "urbanistika",
-      "urlToImage": "https://i0.wp.com/chicagoreader.com/wp-content/uploads/2026/02/MLimon_1_social.jpg?fit=1200%2C675&quality=89&ssl=1",
-      "url": "/tech-news/2026-02-06/quantum-leap-or-community-crossroads/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Chicago Reader"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Pandorina skříňka",
-      "description": "Kvantové počítače využívají kvantovou mechaniku k výpočtům, které tradiční počítače nezvládnou, a slibují zpracování složitých dat mnohem rychleji. Startup PsiQuantum investuje 9 miliard dolarů do vývoje prvního odolného kvantového počítače v Chicagu, přesto technologie čelí výrazným chybám a skeptickým názorům.",
-      "slug": "pandoras-box",
-      "publishedAt": "2026-02-06T12:00:00+00:00",
-      "date": "2026-02-06 12:00:00",
-      "importance": 5,
-      "category": "kvantové počítače",
-      "urlToImage": "https://i0.wp.com/chicagoreader.com/wp-content/uploads/2026/02/TestAssemblyFacility_5_credit-PsiQuantum_web.jpg?fit=1200%2C800&quality=89&ssl=1",
-      "url": "/tech-news/2026-02-06/pandoras-box/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Chicago Reader"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Přichází Claude Opus 4.6: S 1milionovým oknem tokenů a lepším uvažováním",
-      "description": "Claude Opus 4.6 od Anthropic přináší kontextové okno o velikosti 1 milion tokenů a pokročilé agentické schopnosti, které umožňují autonomní zpracování složitých úkolů jako programování nebo analýza dat. Model překonává konkurenty v klíčových benchmarkách a je určen pro velké projekty, i když některé funkce jsou v beta verzi s prémiovým oceňováním.",
-      "slug": "claude-opus-46-arrives-with-a-1m-token-window-shar",
-      "publishedAt": "2026-02-06T11:15:35+00:00",
-      "date": "2026-02-06 11:15:35",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/02/agentic-coding-benchmark-scores_optimized.jpg",
-      "url": "/tech-news/2026-02-06/claude-opus-46-arrives-with-a-1m-token-window-shar/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Co přijde dál: TBD | Technologie, moc a budoucnost - Elon 3.0",
-      "description": "Elon Musk ukončuje výrobu ikonických modelů Tesla, plánuje zavedení SpaceX na burzu a posiluje investice do umělé inteligence a robotiky. V podcastu se diskutuje, zda v nové fázi své kariéry zkrotí své excesy, a v Plus segmentu se dotýká i jeho zmínky v Epsteinových souborech.",
-      "slug": "what-next-tbd-tech-power-and-the-future-elon-30",
-      "publishedAt": "2026-02-06T08:00:00+00:00",
-      "date": "2026-02-06 08:00:00",
-      "importance": 4,
-      "category": "elon musk",
-      "urlToImage": "https://open-images.acast.com/shows/69612d9223ce58f14619a8f6/1770331362095-bfc925b1-587c-4f70-9ca4-f71dc35cc2b0.jpeg?height=315",
-      "url": "/tech-news/2026-02-06/what-next-tbd-tech-power-and-the-future-elon-30/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Acast.com"
-      },
-      "companies": [
-        "Tesla",
-        "SpaceX"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "LG Energy Solution získá plné vlastnictví NextStar Energy v společném strategickém rozhodnutí se Stellantis",
-      "description": "LG Energy Solution přebere plné vlastnictví kanadské společnosti NextStar Energy tím, že od Stellantis koupí 49procentní podíl. Tento krok posílí technologickou expertizu a růst továrny na baterie v kanadském Windsoru.",
-      "slug": "lg-energy-solution-to-acquire-full-ownership-of-ne",
-      "publishedAt": "2026-02-06T07:19:00+00:00",
-      "date": "2026-02-06 07:19:00",
-      "importance": 4,
-      "category": "elektromobilita",
-      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/c44b1e4d-3fdd-4335-ac5e-8e83f0c963cb",
-      "url": "/tech-news/2026-02-06/lg-energy-solution-to-acquire-full-ownership-of-ne/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [
-        "LG Energy Solution",
-        "NextStar Energy"
-      ],
-      "people": []
-    },
-    {
-      "title": "Decentralizační triáda: Jak bateriová technologie, robotika a lokální AI přinesou nezávislost",
-      "description": "Centralizované systémy jako elektrická síť nebo velké technologické firmy omezují autonomii uživatelů. Článek popisuje konvergenci tří technologií – pokročilého bateriového úložiště, humanoidní robotiky a lokálně běžící umělé inteligence – které umožňují úplnou decentralizaci.",
-      "slug": "the-decentralization-trifecta-how-battery-tech-rob",
-      "publishedAt": "2026-02-06T06:00:00+00:00",
-      "date": "2026-02-06 06:00:00",
-      "importance": 5,
-      "category": "decentralizace",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/02/decentralization-battery-technology-robotics-197-original.jpg",
-      "url": "/tech-news/2026-02-06/the-decentralization-trifecta-how-battery-tech-rob/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Plány NVIDIA na novou generaci GPU se zadrhávají kvůli nedostatku HBM – ceny výpočetní techniky porostou",
-      "description": "Nedostatek vysoce výkonné paměti HBM způsobuje zpoždění v časové ose nových grafických procesorů NVIDIA a ovlivňuje dodávky pro data centra, počítače i chytré telefony. To vede k očekávanému růstu cen v celém technologickém sektoru.",
-      "slug": "nvidias-next-gen-gpu-timeline-unravels-due-to-crit",
-      "publishedAt": "2026-02-06T06:00:00+00:00",
-      "date": "2026-02-06 06:00:00",
-      "importance": 4,
-      "category": "hardware",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/02/Nvidia-Building-Logo.jpg",
-      "url": "/tech-news/2026-02-06/nvidias-next-gen-gpu-timeline-unravels-due-to-crit/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "companies": [
-        "NVIDIA"
-      ],
-      "people": []
-    },
-    {
-      "title": "MicroStrategy plánuje spustit program pro bezpečnost Bitcoinu proti hrozbám z kvantových počítačů",
-      "description": "MicroStrategy zamýšlí spustit program pro bezpečnost Bitcoinu, který se zaměří na hrozby z kvantových počítačů a další budoucí zranitelnosti. Iniciativa zdůrazňuje potřebu proaktivních opatření v kryptoměnovém průmyslu k ochraně před technologickými riziky.",
-      "slug": "strategy-plans-to-launch-bitcoin-security-program-",
-      "publishedAt": "2026-02-06T04:38:06+00:00",
-      "date": "2026-02-06 04:38:06",
-      "importance": 4,
-      "category": "kryptoměny",
-      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/02/05233638/45b56501-ed84-4522-9fa8-504954ea1272-800x420.jpg",
-      "url": "/tech-news/2026-02-06/strategy-plans-to-launch-bitcoin-security-program/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Crypto Briefing"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Jak byl fúzní deal SpaceX a xAI za 1,25 bilionu dolarů urychlen po technickém průlomu SpaceX v orbitálních datových centrech minulé podzimy (Wall Street Journal)",
-      "description": "Wall Street Journal popisuje urychlenou fúzi SpaceX a xAI za 1,25 bilionu dolarů, která následovala po technickém průlomu SpaceX v orbitálních datových centrech. Dohoda vychází z kombinace satelitních technologií SpaceX a AI technologií xAI.",
-      "slug": "how-the-spacex-xai-125t-merger-deal-was-fast-track",
-      "publishedAt": "2026-02-06T04:25:00+00:00",
-      "date": "2026-02-06 04:25:00",
-      "importance": 5,
-      "category": "kosmonautika",
-      "urlToImage": "https://images.wsj.net/im-15189627/social",
-      "url": "/tech-news/2026-02-06/how-the-spacex-xai-125t-merger-deal-was-fast-track/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Techmeme.com"
-      },
-      "companies": [
-        "SpaceX",
-        "xAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Strach z AI sužuje akcie software firem: Nelogická panika nebo apokalypsa SaaS?",
-      "description": "Software sektor čelí vážným tržním obavám po vydání nových AI nástrojů od Anthropic, což spustilo výprodej akcií SaaS a datových firem. Investoři přehodnocují, které software společnosti dokážou koexistovat s AI dlouhodobě.",
-      "slug": "ai-fears-pummel-software-stocks-is-it-illogical-pa",
-      "publishedAt": "2026-02-06T04:22:18+00:00",
-      "date": "2026-02-06 04:22:18",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107431256-1718898592166-gettyimages-1737213579-PGONCHAR_4313.jpeg?v=1770350660&w=1920&h=1080",
-      "url": "/tech-news/2026-02-06/ai-fears-pummel-software-stocks-is-it-illogical-pa/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNBC"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Jak nový nástroj Anthropic může ovlivnit IT práce? Zakladatel Zoho Sridhar Vembu varuje s reálným příkladem",
-      "description": "Zakladatel firmy Zoho Sridhar Vembu varuje programátory před dopadem pokročilých AI nástrojů na jejich profesi a uvádí příklady jako aplikace Bhagavad Gita postavená bez ručního kódu či kompilátor C vytvořený modelem Claude od Anthropic.",
-      "slug": "how-anthropic-new-ai-tool-could-impact-it-jobs-zoh",
-      "publishedAt": "2026-02-06T04:20:29+00:00",
-      "date": "2026-02-06 04:20:29",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://img.etimg.com/thumb/msid-127969002,width-1200,height-630,imgsize-34282,overlay-etpanache/articleshow.jpg",
-      "url": "/tech-news/2026-02-06/how-anthropic-new-ai-tool-could-impact-it-jobs-zoh/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Anthropic",
-        "Zoho"
-      ],
-      "people": [
-        "Sridhar Vembu",
-        "Anish Moonka"
-      ]
-    },
-    {
-      "title": "ISRO míří na obsazené mise Chandrayaan do roku 2028, Gaganyaan na rok 2027",
-      "description": "Předseda ISRO V. Narayanan oznámil, že Indie pracuje na programu Gaganyaan s posádkou pro rok 2027, před kterým proběhnou tři nepilotované mise. Obsazené mise Chandrayaan-4 a Chandrayaan-5 by měly následovat v roce 2028, pokud práce postoupí podle plánu.",
-      "slug": "isro-targets-crewed-chandrayaan-missions-by-2028-g",
-      "publishedAt": "2026-02-06T03:32:53+00:00",
-      "date": "2026-02-06 03:32:53",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://img.etimg.com/thumb/msid-127967568,width-1200,height-630,imgsize-23426,overlay-economictimes/articleshow.jpg",
-      "url": "/tech-news/2026-02-06/isro-targets-crewed-chandrayaan-missions-by-2028-g/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "ISRO"
-      ],
-      "people": [
-        "V Narayanan"
-      ]
-    },
-    {
-      "title": "AI roboti vytvářejí náboženství, obchodují s digitálními drogami... | Jsou ale někteří lidmi v převleku?",
-      "description": "Během několika dní po spuštění platformy Moltbook si AI agenti vytvořili vlastní náboženství, ekonomiky, vlády a subkultury bez lidského zásahu.",
-      "slug": "ai-bots-creating-religions-dealing-digital-drugs-b",
-      "publishedAt": "2026-02-06T03:00:17+00:00",
-      "date": "2026-02-06 03:00:17",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://studyfinds.org/wp-content/uploads/2025/04/Robot-hands-typing-scaled.jpg",
-      "url": "/tech-news/2026-02-06/ai-bots-creating-religions-dealing-digital-drugs-b/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Study Finds"
-      },
-      "companies": [
-        "Moltbook"
-      ],
-      "people": []
-    },
-    {
-      "title": "SpaceX je hodnotnější než Tesla",
-      "description": "Tržní kapitalizace Tesly klesla na 1,24 bilionu dolarů. Po akvizici společnosti xAI společností SpaceX dosáhla valuace SpaceX hodnoty 1,25 bilionu dolarů.",
-      "slug": "spacex-is-worth-more-than-tesla",
-      "publishedAt": "2026-02-06T02:37:53+00:00",
-      "date": "2026-02-06 02:37:53",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/02/Screenshot-2026-02-05-at-5.56.56-PM.jpg",
-      "url": "/tech-news/2026-02-06/spacex-is-worth-more-than-tesla/",
-      "source": {
-        "emoji": "📰",
-        "id": "next-big-future",
-        "name": "Next Big Future"
-      },
-      "companies": [
-        "SpaceX",
-        "Tesla",
-        "XAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Anthropic představil nový model umělé inteligence Claude Opus 4.6, rivalita s OpenAI sílí",
-      "description": "Společnost Anthropic ve čtvrtek vydala svůj nejnovější vysoce výkonný model umělé inteligence Claude Opus 4.6, čímž eskaluje soutěž s OpenAI. OpenAI na to reagovalo vydáním platformy Frontier pro podnikové AI agenty.",
-      "slug": "anthropic-unveils-new-ai-model-claude-opus-46-as-o",
-      "publishedAt": "2026-02-06T02:17:42+00:00",
-      "date": "2026-02-06 02:17:42",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-62534,resizemode-75,msid-127964978/tech/artificial-intelligence/anthropic-unveils-new-ai-model-claude-opus-4-6-as-openai-rivalry-heats-up.jpg",
-      "url": "/tech-news/2026-02-06/anthropic-unveils-new-ai-model-claude-opus-46-as-o/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Anthropic",
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Elon Musk vyvolává nedůvěru nečekaným oznámením o dlouho očekávané technologii Tesly: 'Tohle se nezdá být řešením'",
-      "description": "S velkým zrnkem soli. Oznámení o téměř dokončeném čipu AI5 pro autonomní řízení a roboty Optimus narazilo na skeptický přijetí kvůli opakovaným zpožděním.",
-      "slug": "elon-musk-raises-eyebrows-with-unexpected-announce",
-      "publishedAt": "2026-02-06T02:00:00+00:00",
-      "date": "2026-02-06 02:00:00",
-      "importance": 4,
-      "category": "elektromobilita",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/dRRIGc9QcKojQCa2w4PCxg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/the_cool_down_737/cb1982491476b472362f6bdfaf6514fc",
-      "url": "/tech-news/2026-02-06/elon-musk-raises-eyebrows-with-unexpected-announce/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [
-        "Tesla"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Agenti přicházejí a indické IT spěchá jim naproti",
-      "description": "Společnosti jako Cognizant, Infosys, HCLTech a Wipro urychleně přijímají AI agenty kvůli rostoucímu konkurenčnímu tlaku od firem jako Anthropic a Palantir, které vyvíjejí nástroje ohrožující jejich tradiční příjmové proudy.",
-      "slug": "agents-are-coming-and-indias-it-is-rushing-to-meet",
-      "publishedAt": "2026-02-06T00:30:56+00:00",
-      "date": "2026-02-06 00:30:56",
-      "importance": 4,
-      "category": "ai agenti",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2026/02/05/1600x900/logo/2-0-1248136665-hires1-0_1679614153162_1770279326473.jpg",
-      "url": "/tech-news/2026-02-06/agents-are-coming-and-indias-it-is-rushing-to-meet/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Livemint"
-      },
-      "companies": [
-        "Cognizant",
-        "Infosys",
-        "HCLTech",
-        "Wipro",
-        "Anthropic"
-      ],
-      "people": []
-    },
-    {
-      "title": "Přebírají roboti kontrolu?",
-      "description": "Allison Okamura o roli robotiky v nově vznikajících technologiích. Diskuse o pokrocích v humanoidních robotech, autonomních systémech a výzvách v tréninku robotů.",
-      "slug": "the-robots-are-taking-over",
-      "publishedAt": "2026-02-06T00:00:00+00:00",
-      "date": "2026-02-06 00:00:00",
-      "importance": 5,
-      "category": "robotika",
-      "urlToImage": "https://www.hoover.org/sites/default/files/styles/facebook/public/2026-02/Matters-of-Policy-Politics1700pxproductimage_2-5.jpg?h=b8a17b70&itok=GdJPIgDB",
-      "url": "/tech-news/2026-02-06/the-robots-are-taking-over/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Hoover.org"
-      },
-      "companies": [],
-      "people": [
-        "Allison Okamura"
-      ]
     }
   ]
 }
