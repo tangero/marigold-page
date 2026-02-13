@@ -1,7 +1,168 @@
 {
-  "generated": "2026-02-13T13:01:15.295143+00:00",
-  "count": 148,
+  "generated": "2026-02-13T17:02:19.117089+00:00",
+  "count": 156,
   "articles": [
+    {
+      "title": "Tyto 4 kritické zranitelnosti AI jsou zneužívány rychleji, než obránci stihnou reagovat",
+      "description": "Od útoků typu prompt injection po podvody s deepfakes bezpečnostní výzkumníci uvádějí, že několik chyb nemá známou opravu. Zde je přehled těchto problémů.",
+      "slug": "these-4-critical-ai-vulnerabilities-are-being-expl",
+      "publishedAt": "2026-02-12T16:26:56+00:00",
+      "date": "2026-02-12 16:26:56",
+      "importance": 5,
+      "category": "ai bezpečnost",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/32db0bda826046b0d2703b9713fd04f9739cf838/2026/02/10/bfe5dd37-f08f-4991-8009-84b7c6022267/gettyimages-1346242220.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "url": "/tech-news/2026-02-12/these-4-critical-ai-vulnerabilities-are-being-expl/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "ZDNet"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Spouštění autonomního provozu s 6. generací Waymo Driver",
+      "description": "Waymo zahájí plně autonomní provoz se svou 6. generací řidiče, což představuje klíčový krok k rozšíření technologie do více měst a pro více pasažérů. Tento systém pohání další fázi expanze s optimalizovanou konfigurací, která snižuje náklady při zachování bezpečnostních standardů.",
+      "slug": "beginning-autonomous-operations-with-the-6th-gener",
+      "publishedAt": "2026-02-12T16:10:29+00:00",
+      "date": "2026-02-12 16:10:29",
+      "importance": 4,
+      "category": "autonomní vozy",
+      "urlToImage": "https://images.ctfassets.net/7ijaobx36mtm/2vy2r8uqvrtF80vIo4aDQK/49a4410ba259e0dfb248870e6c30ea78/Waymo_6th_Gen_Hero.png",
+      "url": "/tech-news/2026-02-12/beginning-autonomous-operations-with-the-6th-gener/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Waymo.com"
+      },
+      "companies": [
+        "Waymo"
+      ],
+      "people": []
+    },
+    {
+      "title": "Šestá generace robotaxi od Waymo je připravena pro pasažéry i sériovou výrobu",
+      "description": "Po letech testování Waymo oznámilo, že šestá generace technologie autonomního řízení je připravena pro přepravu pasažérů, nejprve pro zaměstnance v San Franciscu a Los Angeles. Firma plánuje velkovýrobu vozidel pro posílení své pozice v soutěži o robotaxi.",
+      "slug": "waymos-next-gen-robotaxi-is-ready-for-passengers-a",
+      "publishedAt": "2026-02-12T16:05:01+00:00",
+      "date": "2026-02-12 16:05:01",
+      "importance": 4,
+      "category": "autonomní vozidla",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/unnamed-1.jpg?quality=90&strip=all&crop=0%2C10.75214828329%2C100%2C78.49570343342&w=1200",
+      "url": "/tech-news/2026-02-12/waymos-next-gen-robotaxi-is-ready-for-passengers-a/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "companies": [
+        "Waymo"
+      ],
+      "people": []
+    },
+    {
+      "title": "Waymo začíná nasazovat šestou generaci robotaxi Ojai pro posílení své převahy v USA",
+      "description": "Společnost se připravuje na rozšíření do několika nových měst v roce 2026. Nová vozidla používají levnější komponenty a zlepšenou navigaci v nepříznivém počasí.",
+      "slug": "waymo-begins-deploying-next-gen-ojai-robotaxis-to-",
+      "publishedAt": "2026-02-12T16:00:02+00:00",
+      "date": "2026-02-12 16:00:02",
+      "importance": 4,
+      "category": "autonomní vozy",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108261073-1770161242648-gettyimages-2259268678-ALPHABET_EARNS.jpeg?v=1770161334&w=1920&h=1080",
+      "url": "/tech-news/2026-02-12/waymo-begins-deploying-next-gen-ojai-robotaxis-to/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [
+        "Waymo"
+      ],
+      "people": []
+    },
+    {
+      "title": "SpaceX poskytuje v Íránu bezplatný internet přes satelitní službu Starlink během protestů proti režimu",
+      "description": "Společnost SpaceX Elona Muska aktivovala bezplatný přístup k internetu přes satelitní síť Starlink pro uživatele v Íránu. Tento krok probíhá uprostřed tvrdé represe íránského režimu vůči protivládním protestům, jak potvrdil technologický expert v kontaktu s íránskými uživateli Starlinku.",
+      "slug": "A-2月13日看軍聞學英語",
+      "publishedAt": "2026-02-12T16:00:00+00:00",
+      "date": "2026-02-12 16:00:00",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": null,
+      "url": "/tech-news/2026-02-12/A-2月13日看軍聞學英語/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "SpaceX"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Technická cesta a obchodní model kancelářské práce bez lidí",
+      "description": "Firma xAI vyvíjí AI na hardwaru Tesla AI4, které plně napodobuje lidskou práci na počítači, podobně jako Tesla FSD v automobilech, ale pro stolní počítače a notebooky. Systém využívá kamery nebo zachytávání obrazovky ke sledování uživatele, stisků kláves a pohybů myší.",
+      "slug": "technical-path-and-business-model-of-office-work-w",
+      "publishedAt": "2026-02-12T15:53:47+00:00",
+      "date": "2026-02-12 15:53:47",
+      "importance": 4,
+      "category": "automatizace práce",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/02/Screenshot-2026-02-12-at-7.47.08-AM.jpg",
+      "url": "/tech-news/2026-02-12/technical-path-and-business-model-of-office-work-w/",
+      "source": {
+        "emoji": "📰",
+        "id": "next-big-future",
+        "name": "Next Big Future"
+      },
+      "companies": [
+        "xAI",
+        "Tesla"
+      ],
+      "people": []
+    },
+    {
+      "title": "Obrovský únik dat OneFly: Unikly identifikační údaje cestujících a platební detaily",
+      "description": "Plné platební údaje v čistém textu unikly z nechráněné instance Elasticsearch, postihuje nejméně 6000 zákazníků OneFly. Mezi uniklými daty jsou jména, data narození, detaily identifikačních dokladů, údaje o letech a JWT tokeny.",
+      "slug": "huge-onefly-data-breach-sees-traveler-ids-and-paym",
+      "publishedAt": "2026-02-12T15:42:16+00:00",
+      "date": "2026-02-12 15:42:16",
+      "importance": 5,
+      "category": "únik dat",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/jt92kXfBXVXUWwnKBmDJLn-2560-80.jpg",
+      "url": "/tech-news/2026-02-12/huge-onefly-data-breach-sees-traveler-ids-and-paym/",
+      "source": {
+        "emoji": "📰",
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "companies": [
+        "OneFly"
+      ],
+      "people": []
+    },
+    {
+      "title": "Dynamika AWS podporuje rozšiřující se strategii Amazonu v AI a cloudu",
+      "description": "Amazon (NASDAQ:AMZN) patří podle analytiků k nejlepším akciím firem s machine learningem. Po výsledcích za Q4 2025 snížil UBS cenový cíl akcie na 301 USD z 311 USD kvůli vyšším výdajům na kapitálové investice.",
+      "slug": "aws-momentum-supports-amazoncoms-amzn-expanding-ai",
+      "publishedAt": "2026-02-12T15:39:23+00:00",
+      "date": "2026-02-12 15:39:23",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/r4yH5U7Ng2Vmm_N2sdim2A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/insidermonkey.com/bf5db36a1da6774e5e796de67b414473",
+      "url": "/tech-news/2026-02-12/aws-momentum-supports-amazoncoms-amzn-expanding-ai/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "Amazon"
+      ],
+      "people": []
+    },
     {
       "title": "Aktualizujte nyní! iOS 26.3 obsahuje desítky kritických bezpečnostních oprav",
       "description": "Apple vydal iOS 26.3 a iPadOS 26.3 s přes 35 bezpečnostními záplatami, včetně opravy zero-day zranitelnosti v Dynamic Link Editor (dyld), která byla již využita v cílených útocích. Aktualizace chrání před neoprávněným přístupem k datům i na uzamčených zařízeních.",
