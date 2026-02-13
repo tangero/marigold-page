@@ -1,7 +1,87 @@
 {
-  "generated": "2026-02-13T17:02:19.117089+00:00",
-  "count": 156,
+  "generated": "2026-02-13T20:48:48.440074+00:00",
+  "count": 159,
   "articles": [
+    {
+      "title": "Pentagon tlačí AI společnosti na rozšíření do tajných sítí",
+      "description": "Bez mnoha standardních bezpečnostních opatření. Armáda USA chce nasadit nástroje umělé inteligence od firem jako OpenAI a Anthropic na sítích s utajenými informacemi.",
+      "slug": "pentagon-pushing-ai-companies-to-expand-on-classif",
+      "publishedAt": "2026-02-12T19:51:53+00:00",
+      "date": "2026-02-12 19:51:53",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://i.nextmedia.com.au/News/2026-02-12T004540Z_1_LYNXMPEM1B01I_RTROPTP_4_USA-PENTAGON-AI.JPG",
+      "url": "/tech-news/2026-02-12/pentagon-pushing-ai-companies-to-expand-on-classif/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "iTnews"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Google varuje před zloději, kteří klonují AI modely pomocí API",
+      "description": "Google Threat Intelligence Group upozorňuje na rostoucí hrozbu model extraction attacks, při kterých útočníci využívají legitimní přístup k API velkých jazykových modelů (LLM) k získání dat pro trénování vlastních kopií. Tato technika umožňuje rychlé a levné replikování proprietárních modelů bez nutnosti tradičního prolomení systémů.",
+      "slug": "google-warns-against-thieves-using-apis-to-clone-a",
+      "publishedAt": "2026-02-12T19:13:57+00:00",
+      "date": "2026-02-12 19:13:57",
+      "importance": 4,
+      "category": "kybernetika",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/02/Google-AI-theft.jpeg",
+      "url": "/tech-news/2026-02-12/google-warns-against-thieves-using-apis-to-clone-a/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Anthropic dosáhl valuace 380 miliard dolarů po financovním kole za 30 miliard",
+      "description": "Společnost Anthropic získala 30 miliard dolarů v novém financovním kole, což zdvojnásobilo její valuaci na 380 miliard dolarů. Tento krok podtrhuje rostoucí zájem investorů o AI technologie, přičemž firma se odlišuje zaměřením na kódování a enterprise řešení.",
+      "slug": "anthropic-clinches-380-billion-valuation-after-30-",
+      "publishedAt": "2026-02-12T19:03:41+00:00",
+      "date": "2026-02-12 19:03:41",
+      "importance": 5,
+      "category": "ai",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--LgUWkQbx--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-02-12T190605Z_2_LYNXMPEM1B1DQ_RTROPTP_3_ANTHROPIC-AI.JPG?itok=mpx1nRAV",
+      "url": "/tech-news/2026-02-12/anthropic-clinches-380-billion-valuation-after-30/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNA"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": []
+    },
+    {
+      "title": "PayPal spolupracuje se Sabre a Mindtrip na agentic AI pro cestování",
+      "description": "PayPal zahajuje partnerství zaměřené na umělou inteligenci se společnostmi Sabre a Mindtrip. Spolupráce spojuje schopnosti agentic commerce od PayPalu, podnikovou technologii pro cestování od Sabre a spotřebitelskou platformu od Mindtrip.",
+      "slug": "paypal-teams-with-sabre-and-mindtrip-on-agentic-ai",
+      "publishedAt": "2026-02-12T18:33:00+00:00",
+      "date": "2026-02-12 18:33:00",
+      "importance": 4,
+      "category": "cestovní ai",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/02/agentic-artificial-intelligents-travel.jpeg",
+      "url": "/tech-news/2026-02-12/paypal-teams-with-sabre-and-mindtrip-on-agentic-ai/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [
+        "PayPal",
+        "Sabre",
+        "Mindtrip"
+      ],
+      "people": []
+    },
     {
       "title": "Tyto 4 kritické zranitelnosti AI jsou zneužívány rychleji, než obránci stihnou reagovat",
       "description": "Od útoků typu prompt injection po podvody s deepfakes bezpečnostní výzkumníci uvádějí, že několik chyb nemá známou opravu. Zde je přehled těchto problémů.",
@@ -663,27 +743,6 @@
         "Meridian",
         "Andreessen Horowitz",
         "The General Partners"
-      ],
-      "people": []
-    },
-    {
-      "title": "Pentagon tlačí AI společnosti na rozšíření do tajných sítí, říkají zdroje",
-      "description": "Pentagon tlačí přední AI společnosti včetně OpenAI a Anthropic, aby jejich nástroje umělé inteligence byly dostupné na tajných sítích bez mnoha standardních omezení, která tyto firmy uživatelům ukládají. Jde o nasazení AI modelů na neklasifikovaných i klasifikovaných sítích pro vojenské účely.",
-      "slug": "pentagon-pushing-ai-companies-to-expand-on-classif",
-      "publishedAt": "2026-02-12T01:31:30+00:00",
-      "date": "2026-02-12 01:31:30",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-158224,resizemode-75,msid-128231949/tech/artificial-intelligence/pentagon-pushing-ai-companies-to-expand-on-classified-networks-sources-say.jpg",
-      "url": "/tech-news/2026-02-12/pentagon-pushing-ai-companies-to-expand-on-classif/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "OpenAI",
-        "Anthropic"
       ],
       "people": []
     },

@@ -1,52 +1,47 @@
 ---
 author: Marisa Aigen
 category: umělá inteligence
-companies:
-- OpenAI
-- Anthropic
-date: '2026-02-12 01:31:30'
-description: Pentagon tlačí přední AI společnosti včetně OpenAI a Anthropic, aby jejich
-  nástroje umělé inteligence byly dostupné na tajných sítích bez mnoha standardních
-  omezení, která tyto firmy uživatelům ukládají. Jde o nasazení AI modelů na neklasifikovaných
-  i klasifikovaných sítích pro vojenské účely.
+date: '2026-02-12 19:51:53'
+description: Bez mnoha standardních bezpečnostních opatření. Armáda USA chce nasadit
+  nástroje umělé inteligence od firem jako OpenAI a Anthropic na sítích s utajenými
+  informacemi.
 importance: 4
 layout: tech_news_article
-original_title: Pentagon pushing AI companies to expand on classified networks, sources
-  say
-publishedAt: '2026-02-12T01:31:30+00:00'
+original_title: Pentagon pushing AI companies to expand on classified networks
+publishedAt: '2026-02-12T19:51:53+00:00'
 slug: pentagon-pushing-ai-companies-to-expand-on-classif
 source:
   emoji: 📰
-  id: the-times-of-india
-  name: The Times of India
-title: Pentagon tlačí AI společnosti na rozšíření do tajných sítí, říkají zdroje
-url: https://economictimes.indiatimes.com/tech/artificial-intelligence/pentagon-pushing-ai-companies-to-expand-on-classified-networks-sources-say/articleshow/128231949.cms
-urlToImage: https://img.etimg.com/thumb/width-1200,height-900,imgsize-158224,resizemode-75,msid-128231949/tech/artificial-intelligence/pentagon-pushing-ai-companies-to-expand-on-classified-networks-sources-say.jpg
-urlToImageBackup: https://img.etimg.com/thumb/width-1200,height-900,imgsize-158224,resizemode-75,msid-128231949/tech/artificial-intelligence/pentagon-pushing-ai-companies-to-expand-on-classified-networks-sources-say.jpg
+  id: null
+  name: iTnews
+title: Pentagon tlačí AI společnosti na rozšíření do tajných sítí
+url: https://www.itnews.com.au/news/pentagon-pushing-ai-companies-to-expand-on-classified-networks-623589?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+News+feed
+urlToImage: https://i.nextmedia.com.au/News/2026-02-12T004540Z_1_LYNXMPEM1B01I_RTROPTP_4_USA-PENTAGON-AI.JPG
+urlToImageBackup: https://i.nextmedia.com.au/News/2026-02-12T004540Z_1_LYNXMPEM1B01I_RTROPTP_4_USA-PENTAGON-AI.JPG
 ---
 
 ## Souhrn
-Pentagon vyvíjí tlak na špičkové AI společnosti jako OpenAI a Anthropic, aby jejich modely umělé inteligence byly dostupné na tajných sítích bez většiny standardních uživatelských omezení. Během akce v Bílém domě to naznačil šéf technologie Pentagonu Emil Michael, který mluvil o nasazení frontier AI na všech úrovních utajení. Tato jednání probíhají v kontextu budoucího bojiště ovládaného autonomními drony, roboty a kyberútoky.
+Pentagon tlačí přední společnosti v oblasti umělé inteligence, včetně OpenAI a Anthropic, aby jejich modely byly dostupné na tajných sítích bez standardních uživatelských omezení. Šéf technologie Pentagonu Emil Michael to sdělil na akci v Bílém domě a armáda plánuje nasazení AI na všech úrovních utajení. Jedná se o součást jednání o využití AI v budoucích konfliktech s autonomními drony, roboty a kyberútoky.
 
 ## Klíčové body
-- Pentagon chce AI nástroje na tajných sítích pro citlivé operace jako plánování misí nebo zaměřování zbraní.
-- OpenAI a Anthropic jsou pod tlakem k uvolnění omezení, která firmy normálně ukládají.
-- Pouze Anthropic je zatím dostupný na tajných sítích přes třetí strany, ale s dodržováním firemních zásad.
-- Většina vojenských AI nástrojů je omezena na neklasifikované sítě pro administrativní účely.
-- Jednání zesilují debatu o vojenském nasazení AI bez etických a bezpečnostních bariér.
+- Pentagon cílí na top AI firmy jako OpenAI a Anthropic pro nasazení jejich modelů na tajných (classified) sítích.
+- Většina současných vojenských AI nástrojů je omezena na ne tajné (unclassified) sítě pro administrativní účely.
+- Pouze Anthropic je zatím dostupný na tajných sítích přes třetí strany, ale s dodržováním firemních zásad použití.
+- Tajné sítě slouží k citlivým úkolům jako plánování misí nebo cílení zbraní.
+- Cílem je využít AI pro syntézu informací a podporu rozhodování.
 
 ## Podrobnosti
-Pentagon aktivně rokoval s předními tvůrci generativní AI, aby frontier modely – tedy ty nejpokročilejší jazykové modely jako GPT od OpenAI nebo Claude od Anthropic – byly integrovány do tajných sítích. Tyto sítě slouží k zpracování vysoce citlivých dat, například pro plánování vojenských misí, kde AI může analyzovat data v reálném čase, generovat strategie nebo podporovat zaměřování zbraní. Na rozdíl od běžných neklasifikovaných sítí, které se používají pro administrativní úkoly jako logistika nebo reporty, tajné sítě chrání informace s národním bezpečnostním významem.
+Pentagon intenzivně rokuje s předními tvůrci generativních modelů umělé inteligence o tom, jak integrovat tyto technologie do vojenského prostředí. Podle zdrojů obeznámených se situací Emil Michael, hlavní technologický důstojník Pentagonu, na akci v Bílém domě oznámil, že armáda chce frontier AI modely – tedy ty nejpokročilejší – nasadit napříč všemi úrovněmi utajení, od otevřených po vysoce tajné. To znamená přístup k modelům jako GPT od OpenAI nebo Claude od Anthropic přímo na sítích, kde se zpracovávají citlivé údaje.
 
-Emil Michael, šéf technologie Pentagonu, během pondělní akce v Bílém domě uvedl, že armáda směřuje k nasazení těchto AI schopností na všech úrovních utajení. Podle anonymních zdrojů blízkých jednáním to znamená snahu obejít standardní uživatelská omezení, jako jsou zákazy na generování obsahu souvisejícího s násilím nebo vojenskými aplikacemi. OpenAI, která vyvinula modely GPT sloužící k textové generaci, překladu, analýze dat a tvorbě kódu, zatím takové nasazení neposkytuje. Anthropic, specializující se na bezpečnější AI modely Claude s důrazem na úrovně bezpečnosti (Constitutional AI), je dostupný na tajných sítích přes prostředníky, ale vláda musí dodržovat firemní zásady používání, které brání například vývoji autonomních zbraní.
+V současnosti většina customizovaných AI nástrojů pro americkou armádu funguje výhradně na ne tajných sítích, které slouží především k administrativním úkolům, jako je zpracování dat nebo rutinní analýzy. Anthropic, společnost specializující se na bezpečné modely velkých jazykových modelů (LLM), je jedinou, která je dostupná na tajných sítích, ale pouze prostřednictvím třetích stran a s plným dodržováním jejich zásad použití. Tyto zásady obvykle zahrnují omezení na vojenské aplikace, zákaz vývoje zbraní a mechanismy prevence halucinací nebo šíření dezinformací.
 
-Tato iniciativa navazuje na existující spolupráce, kde firmy budují custom AI pro armádu, ale ty zůstávají na neklasifikovaných sítích. Reuters nezjistil detaily o tom, jak přesně Pentagon plánuje deployovat AI chatbota na tajných sítích – zda přes on-premise servery, air-gapped systémy nebo hybridní řešení. Současné bojiště, například na Ukrajině, ukazuje rostoucí roli autonomních dronů a robotů, kde AI rozhoduje o navigaci, detekci cílů a kyberobranně. Pentagon tak vidí AI jako klíč k udržení převahy, ale firmy argumentují riziky úniku dat nebo zneužití k vývoji smrtících technologií.
+Tajné sítě Pentagonu zpracovávají data pro klíčové operace, jako je plánování misí, kde AI může syntetizovat obrovské objemy informací z různých zdrojů, nebo cílení zbraní, kde by mohlo pomoci s predikcí pohybů nepřítele. Nicméně Reuters nezjistil konkrétní plány na nasazení AI chatbotů, jako jsou ChatGPT nebo podobné, ani termíny. Tato iniciativa přichází v době, kdy bojiště ovládají autonomní roje dronů, robotické systémy a kyberútoky, kde rychlé rozhodování založené na AI může být rozhodující. Firmy jako OpenAI, která vyvinula GPT modely pro generování textu, kódu a analýz, a Anthropic, zaměřená na konstituální AI s důrazem na bezpečnost, dosud prosazovaly striktní limity na vojenské použití, aby zabránily zneužití.
 
 ## Proč je to důležité
-Tento tlak odhaluje napětí mezi technologickými giganty a vládou v oblasti nasazení AI pro obranu. Pro průmysl to znamená potenciální miliardové kontrakty, ale i riziko reputačních ztrát kvůli etickým obavám – mnoho zaměstnanců OpenAI a Anthropic protestovalo proti vojenským aplikacím. V širším kontextu urychluje to vývoj bezpečnostních standardů pro AI na tajných sítích, kde selhání může vést k kompromitaci národní bezpečnosti. Pro uživatele mimo armádu to signalizuje, že komerční AI modely budou stále více ovlivněny státními požadavky, což může změnit jejich dostupnost a bezpečnostní omezení. Dlouhodobě to posiluje dominanci USA v AI zbrojení, ale zvyšuje globální rizika eskalace v kyberprostorech a autonomních konfliktech.
+Tato snaha Pentagonu zvyšuje napětí mezi armádou a AI firmami ohledně kontroly nad nasazením technologií. Pro průmysl to znamená potenciální ztrátu autonomii – firmy by musely uvolnit své zásady, což by mohlo oslabit bezpečnostní mechanismy jako filtry halucinací nebo etické vodítka. V kontextu širšího ekosystému AI to urychluje militarizaci technologie, kde modely trénované na veřejných datech by mohly být vystaveny utajeným informacím, což zvyšuje rizika úniků nebo chybných rozhodnutí v reálných operacích. Pro uživatele a vývojáře to signalizuje, že komerční AI se stávají součástí národní bezpečnosti, což může ovlivnit globální regulace a etické debaty o autonomních zbraních. Celkově to podtrhuje, jak se AI stává klíčovým elementem moderní války, ale bez standardních ochran to přináší rizika spojená s nespolehlivostí LLM v kritických scénářích.
 
 ---
 
-[Číst původní článek](https://economictimes.indiatimes.com/tech/artificial-intelligence/pentagon-pushing-ai-companies-to-expand-on-classified-networks-sources-say/articleshow/128231949.cms)
+[Číst původní článek](https://www.itnews.com.au/news/pentagon-pushing-ai-companies-to-expand-on-classified-networks-623589?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+News+feed)
 
-**Zdroj:** 📰 The Times of India
+**Zdroj:** 📰 iTnews
