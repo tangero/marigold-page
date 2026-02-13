@@ -1,7 +1,161 @@
 {
-  "generated": "2026-02-13T08:58:58.016286+00:00",
-  "count": 140,
+  "generated": "2026-02-13T13:01:15.295143+00:00",
+  "count": 148,
   "articles": [
+    {
+      "title": "Aktualizujte nyní! iOS 26.3 obsahuje desítky kritických bezpečnostních oprav",
+      "description": "Apple vydal iOS 26.3 a iPadOS 26.3 s přes 35 bezpečnostními záplatami, včetně opravy zero-day zranitelnosti v Dynamic Link Editor (dyld), která byla již využita v cílených útocích. Aktualizace chrání před neoprávněným přístupem k datům i na uzamčených zařízeních.",
+      "slug": "update-now-ios-263-contains-dozens-of-critical-sec",
+      "publishedAt": "2026-02-12T12:15:00+00:00",
+      "date": "2026-02-12 12:15:00",
+      "importance": 5,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://www.macworld.com/wp-content/uploads/2026/02/iphone-ios-update.jpg?quality=50&strip=all&w=1024",
+      "url": "/tech-news/2026-02-12/update-now-ios-263-contains-dozens-of-critical-sec/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Macworld"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Administrativa Trumpa připravuje jednotnou a centralizovanou národní kvantovou strategii USA",
+      "description": "Federální iniciativa má oživit kvantový sektor a čelit čínské kvantové expanzi. Plán slibuje příchod 'další hranice kvantové inovace' a nahradí současný roztříštěný přístup centralizovanou správou.",
+      "slug": "trump-administration-preps-unified-and-centralised",
+      "publishedAt": "2026-02-12T11:35:45+00:00",
+      "date": "2026-02-12 11:35:45",
+      "importance": 4,
+      "category": "kvantové technologie",
+      "urlToImage": "https://assets.telecomtv.com/assets/telecomtv/north-america-map-15060.jpeg?w=1200",
+      "url": "/tech-news/2026-02-12/trump-administration-preps-unified-and-centralised/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "TelecomTV"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Přestaňte mluvit s AI, nechte je mluvit mezi sebou: Protokol A2A",
+      "description": "Ptal jste se někdy Alexy, aby vám připomněla odeslat zprávu na WhatsApp v určenou hodinu, a pak se divili, proč to nemůže udělat sama? Protokol A2A od Google řeší tuto mezeru tím, že umožňuje AI agentům přímo komunikovat a spolupracovat napříč aplikacemi.",
+      "slug": "stop-talking-to-ai-let-them-talk-to-each-other-the",
+      "publishedAt": "2026-02-12T11:35:31+00:00",
+      "date": "2026-02-12 11:35:31",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F02%2FA2A-protocol-1.png&signature=415b42611bebabe1a15ef00560369923",
+      "url": "/tech-news/2026-02-12/stop-talking-to-ai-let-them-talk-to-each-other-the/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-next-web",
+        "name": "The Next Web"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "AI robot s teplou kůží a kamerovými očima působí znepokojivě lidsky",
+      "description": "Šanghajský startup DroidUp představil humanoidního robota Moya s kůží teploty 32–36 °C, která evokuje lidskou. Biometrický AI robot vyjde v roce 2026 za 173 000 dolarů a je určen pro zdravotnictví, vzdělávání či jako společník.",
+      "slug": "warm-skinned-ai-robot-with-camera-eyes-is-seriousl",
+      "publishedAt": "2026-02-12T11:28:17+00:00",
+      "date": "2026-02-12 11:28:17",
+      "importance": 5,
+      "category": "robotika",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/02/1-warm-skinned-ai-robot-crowd.jpg",
+      "url": "/tech-news/2026-02-12/warm-skinned-ai-robot-with-camera-eyes-is-seriousl/",
+      "source": {
+        "emoji": "📰",
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Samsung zahájil dodávky první komerční HBM4 s vysokým výkonem pro AI výpočty",
+      "description": "Samsung Electronics zahájil hmotnou výrobu a dodávky své HBM4 paměti zákazníkům, což je první případ v oboru. Tato paměť překonává standardy rychlostí a kapacity, což pomáhá řešit datové úzká místa v AI tréninku.",
+      "slug": "pr-samsung-ships-industry-first-commercial-hbm4-wi",
+      "publishedAt": "2026-02-12T11:26:17+00:00",
+      "date": "2026-02-12 11:26:17",
+      "importance": 4,
+      "category": "hardware",
+      "urlToImage": "https://www.techpowerup.com/img/PM1zBixqEJB2XYPX.jpg",
+      "url": "/tech-news/2026-02-12/pr-samsung-ships-industry-first-commercial-hbm4-wi/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Techpowerup.com"
+      },
+      "companies": [
+        "Samsung Electronics Co",
+        "Ltd"
+      ],
+      "people": []
+    },
+    {
+      "title": "Umělá inteligence už usnadňuje online podvody. Může to být ještě horší.",
+      "description": "Anton Cherepanov objevil na VirusTotal soubor s ransomware PromptLock, který využívá velké jazykové modely (LLM) k plné automatizaci útoku. Ačkoli se ukázalo, že jde o výzkumný projekt, demonstruje to potenciál AI pro flexibilní malware.",
+      "slug": "ai-is-already-making-online-swindles-easier-it-cou",
+      "publishedAt": "2026-02-12T11:00:00+00:00",
+      "date": "2026-02-12 11:00:00",
+      "importance": 5,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2026/02/opener-final1_social.jpg?resize=1200,600",
+      "url": "/tech-news/2026-02-12/ai-is-already-making-online-swindles-easier-it-cou/",
+      "source": {
+        "emoji": "🎓",
+        "id": null,
+        "name": "MIT Technology Review"
+      },
+      "companies": [],
+      "people": [
+        "Anton Cherepanov"
+      ]
+    },
+    {
+      "title": "Palo Alto Networks dokončila akvizici CyberArk za 25 miliard dolarů",
+      "description": "Palo Alto Networks finalizovala akvizici společnosti CyberArk za 25 miliard dolarů, čímž začleňuje bezpečnost identit do své hlavní strategické platformy. Tento krok reaguje na rostoucí potřebu ochrany identit uživatelů, strojů i AI entit v podnicích.",
+      "slug": "palo-alto-networks-closes-25bn-acquisition-of-cybe",
+      "publishedAt": "2026-02-12T10:49:33+00:00",
+      "date": "2026-02-12 10:49:33",
+      "importance": 5,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://www.techmonitor.ai/wp-content/uploads/sites/29/2026/02/pao-alto-ae8f52c7cfe4d2516d51792cc5d33303.jpg",
+      "url": "/tech-news/2026-02-12/palo-alto-networks-closes-25bn-acquisition-of-cybe/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Verdict"
+      },
+      "companies": [
+        "Palo Alto Networks",
+        "CyberArk"
+      ],
+      "people": []
+    },
+    {
+      "title": "Claude Opus 4.6: Rozšiřuje kontext na 1 milion tokenů",
+      "description": "Claude Opus 4.6 od Anthropic přináší kontextové okno o velikosti 1 milionu tokenů, což umožňuje současnou analýzu až 50 000 řádků kódu. Tento model podporuje autonomní kódování a koordinaci týmů AI agentů pro vývoj složitých projektů.",
+      "slug": "claude-opus-46-expands-context-to-1-million-tokens",
+      "publishedAt": "2026-02-12T10:45:07+00:00",
+      "date": "2026-02-12 10:45:07",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/02/one-million-token-context-code-review_optimized.jpg",
+      "url": "/tech-news/2026-02-12/claude-opus-46-expands-context-to-1-million-tokens/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": []
+    },
     {
       "title": "Americké akcie dnes | SoftBank vykázal čtvrtý po sobě jdoucí čtvrtletní zisk 1,6 miliardy dolarů díky ziskům z OpenAI",
       "description": "Japonská skupina SoftBank Group v čtvrtletí říjen-prosinec vykázala čistý zisk 248,6 miliardy jenů (1,62 miliardy dolarů), což je čtvrtý kvartál v řadě s kladným výsledkem. Zisk byl podpořen rostoucí valuací investice do OpenAI, tvůrce ChatGPT.",
