@@ -1,7 +1,103 @@
 {
-  "generated": "2026-02-14T05:25:07.353008+00:00",
-  "count": 139,
+  "generated": "2026-02-14T08:39:13.709030+00:00",
+  "count": 144,
   "articles": [
+    {
+      "title": "Sensex a Nifty klesají; evropské trhy rostou",
+      "description": "Hlavní indické indexy Sensex a Nifty ztrácely v poledním obchodování kvůli slabým globálním signálům spojeným s novým AI modelem od Anthropic, což vyvolalo obavy o budoucnost IT sektoru závislého na outsourcování. Kromě mediálního indexu všechny sektorové indexy na NSE obchodovány v mínusu, s kovy, IT a realitami v čele poklesu.",
+      "slug": "sensex-nifty-decline-european-mrkt-advance",
+      "publishedAt": "2026-02-13T08:21:01+00:00",
+      "date": "2026-02-13 08:21:01",
+      "importance": 4,
+      "category": "burza",
+      "urlToImage": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+      "url": "/tech-news/2026-02-13/sensex-nifty-decline-european-mrkt-advance/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Business Standard"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Tchaj-wan zvyšuje předpověď ekonomického růstu na rok 2026 na 7,7 % díky poptávce po AI",
+      "description": "Statistický úřad Tchaj-wanu zvýšil odhad růstu HDP na rok 2026 na 7,71 % z předchozích 3,54 %, což připisuje rostoucí poptávce po technologiích umělé inteligence. Země hraje klíčovou roli v globálním dodavatelském řetězci AI díky firmě TSMC.",
+      "slug": "taiwan-hikes-2026-economic-growth-forecast-to-77-o",
+      "publishedAt": "2026-02-13T08:10:01+00:00",
+      "date": "2026-02-13 08:10:01",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s",
+      "url": "/tech-news/2026-02-13/taiwan-hikes-2026-economic-growth-forecast-to-77-o/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNA"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Vývoj poháněný AI: Když GitHub Copilot píše lepší kód než juniorskí vývojáři",
+      "description": "AI asistenti pro programování mění software vývoj z manuálního psaní kódu na formulování specifikací. Vývojáři, kteří je využívají, dokončují funkce o 55 procent rychleji a s vyšší kvalitou kódu.",
+      "slug": "ai-powered-development-when-github-copilot-writes-",
+      "publishedAt": "2026-02-13T06:58:00+00:00",
+      "date": "2026-02-13 06:58:00",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.javacodegeeks.com/wp-content/uploads/2012/10/software-development-2-logo.jpg",
+      "url": "/tech-news/2026-02-13/ai-powered-development-when-github-copilot-writes/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Javacodegeeks.com"
+      },
+      "companies": [
+        "GitHub"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nifty klesl pod hranici 25 550 bodů; realitní akcie v poklesu",
+      "description": "Realitní akcie klesly tři obchodní sezení v řadě. Indický akciový trh reagoval na slabé globální signály spojené s novým modelem umělé inteligence od Anthropic.",
+      "slug": "nifty-drops-below-25550-mark-realty-shares-slump",
+      "publishedAt": "2026-02-13T06:21:08+00:00",
+      "date": "2026-02-13 06:21:08",
+      "importance": 4,
+      "category": "burza",
+      "urlToImage": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+      "url": "/tech-news/2026-02-13/nifty-drops-below-25550-mark-realty-shares-slump/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Business Standard"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Ředitel Anthropicu říká, že jsme v 'centaur fázi' inženýrství softwaru",
+      "description": "Dario Amodei přirovnal spolupráci člověka a umělé inteligence k mytologickému kentaura.",
+      "slug": "anthropics-ceo-says-were-in-the-centaur-phase-of-s",
+      "publishedAt": "2026-02-13T06:05:37+00:00",
+      "date": "2026-02-13 06:05:37",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://i.insider.com/698eaf61e1ba468a96abff9c?width=1024&format=jpeg",
+      "url": "/tech-news/2026-02-13/anthropics-ceo-says-were-in-the-centaur-phase-of-s/",
+      "source": {
+        "emoji": "📰",
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": [
+        "Dario Amodei"
+      ]
+    },
     {
       "title": "Hexaware Technologies oznámila strategické partnerství s CareInsight",
       "description": "Hexaware Technologies uzavřela strategické partnerství s CareInsight, firmou specializující se na AI platformy pro zdravotnictví. Spolupráce spojuje AI-native platformy s expertízou v AI a digitální transformaci pro nasazení škálovatelných AI řešení v zdravotnických organizacích.",
