@@ -1,7 +1,128 @@
 {
-  "generated": "2026-02-13T20:48:48.440074+00:00",
-  "count": 159,
+  "generated": "2026-02-14T01:25:37.884897+00:00",
+  "count": 165,
   "articles": [
+    {
+      "title": "AI video Toma Cruise proti Bradu Pittovi vyvolává varování špičkového scenáristy: „Je po nás pravděpodobně“",
+      "description": "Virální AI video, kde Tom Cruise bojuje s Bradem Pittem, vedlo scenáristu filmu Deadpool & Wolverine k varování, že Hollywood čeká revoluce nebo decimace. Motion Picture Association kritizuje společnost ByteDance za masivní porušení autorských práv.",
+      "slug": "ai-video-of-tom-cruise-vs-brad-pitt-has-top-writer",
+      "publishedAt": "2026-02-13T00:56:44+00:00",
+      "date": "2026-02-13 00:56:44",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/04/GettyImages-1532382202-H-2025.jpg?w=1296&h=730&crop=1",
+      "url": "/tech-news/2026-02-13/ai-video-of-tom-cruise-vs-brad-pitt-has-top-writer/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Hollywood Reporter"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Anthropic dosáhl valuace 380 miliard dolarů a zvyšuje konkurenci s OpenAI",
+      "description": "Společnost Anthropic, tvůrce chatbota Claude, oznámila valuaci 380 miliard dolarů po získání 30 miliard v nové kole financování. Tento krok posiluje její pozici mezi nejcennějšími soukromými technologickými firmami vedle OpenAI a SpaceX.",
+      "slug": "anthropic-hits-a-380b-valuation-as-it-heightens-co",
+      "publishedAt": "2026-02-13T00:16:46+00:00",
+      "date": "2026-02-13 00:16:46",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "url": "/tech-news/2026-02-13/anthropic-hits-a-380b-valuation-as-it-heightens-co/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "companies": [
+        "Anthropic",
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Google varuje: Útočníci připojují AI přímo k probíhajícím kyberútokům",
+      "description": "Nová zpráva Google Threat Intelligence Group upozorňuje, že kyberzločinci překračují fázi experimentálního zneužívání umělé inteligence a začínají ji integrovat přímo do svých operačních postupů při útocích. Zpráva se zaměřuje na zneužití modelů Gemini, včetně dynamického generování kódu malware a pokusů o extrakci modelů.",
+      "slug": "google-warns-attackers-are-wiring-ai-directly-into",
+      "publishedAt": "2026-02-13T00:00:48+00:00",
+      "date": "2026-02-13 00:00:48",
+      "importance": 5,
+      "category": "tech",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/aihacking.png",
+      "url": "/tech-news/2026-02-13/google-warns-attackers-are-wiring-ai-directly-into/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Šéf AI v Microsoftu stanovuje dvouletý horizont pro automatizaci většiny kancelářských prací",
+      "description": "Predikce zesiluje debatu v řídících sborech firem o tom, jak rychle může umělá inteligence převrátit vysoce placené kancelářské pozice a zda jsou společnosti připraveny.",
+      "slug": "microsoft-ai-chief-sets-two-year-timeline-for-ai-t",
+      "publishedAt": "2026-02-12T23:57:39+00:00",
+      "date": "2026-02-12 23:57:39",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/02/microsoft-gID_7.jpg",
+      "url": "/tech-news/2026-02-12/microsoft-ai-chief-sets-two-year-timeline-for-ai-t/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Decrypt"
+      },
+      "companies": [
+        "Microsoft"
+      ],
+      "people": []
+    },
+    {
+      "title": "Rychlý model GPT-5.3-Codex od OpenAI překračuje jednoduché kódovací úkoly",
+      "description": "OpenAI Group PBC vydalo lehčí verzi populárního nástroje pro agentické kódování GPT-5.3-Codex, navrženou pro rychlejší zpracování požadavků. Model GPT-5.3-Codex-Spark běží na čipu Wafer Scale Engine 3 od firmy Cerebras Systems a slouží k rychlé spolupráci a iteracím v programování.",
+      "slug": "openais-rapid-gpt-53-codex-model-moves-beyond-simp",
+      "publishedAt": "2026-02-12T23:39:43+00:00",
+      "date": "2026-02-12 23:39:43",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Screenshot-from-2026-02-13-06-39-19.png",
+      "url": "/tech-news/2026-02-12/openais-rapid-gpt-53-codex-model-moves-beyond-simp/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Současná hranice autonomního kódování AI: 100 000řádkový kompilátor C v Rustu postavený za 2 týdny",
+      "description": "Výzkumník Anthropic Nicholas Carlini nechal 16 instancí modelu Claude Opus 4.6 s minimálním dohledem vyvinout C kompilátor od nuly. Za dva týdny a přes 2000 relací Claude Code za 20 000 USD vznikl funkční kompilátor v Rustu schopný zkompilovat bootovatelný Linux 6.9 kernel na x86, ARM a RISC-V.",
+      "slug": "current-limit-of-ai-automous-coding-is-a-10000-rus",
+      "publishedAt": "2026-02-12T23:34:20+00:00",
+      "date": "2026-02-12 23:34:20",
+      "importance": 4,
+      "category": "ai programování",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/02/Screenshot-2026-02-12-at-3.33.12-PM.jpg",
+      "url": "/tech-news/2026-02-12/current-limit-of-ai-automous-coding-is-a-10000-rus/",
+      "source": {
+        "emoji": "📰",
+        "id": "next-big-future",
+        "name": "Next Big Future"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": [
+        "Nicholas Carlini"
+      ]
+    },
     {
       "title": "Pentagon tlačí AI společnosti na rozšíření do tajných sítí",
       "description": "Bez mnoha standardních bezpečnostních opatření. Armáda USA chce nasadit nástroje umělé inteligence od firem jako OpenAI a Anthropic na sítích s utajenými informacemi.",
