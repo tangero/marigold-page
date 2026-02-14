@@ -1,7 +1,147 @@
 {
-  "generated": "2026-02-14T16:40:08.450910+00:00",
-  "count": 157,
+  "generated": "2026-02-14T20:37:47.701733+00:00",
+  "count": 164,
   "articles": [
+    {
+      "title": "Pentagon připravuje obranný průmysl na příliv investic do AI na konferenci v San Diegu",
+      "description": "Vojenskí lídři informovali zástupce obranného průmyslu, že nové směrnice z vrcholu, vyšší tolerance k riziku a investiční záměry staví Pentagon plně na stranu umělé inteligence.",
+      "slug": "pentagon-primes-defense-industry-for-ai-windfall-a",
+      "publishedAt": "2026-02-13T19:48:25+00:00",
+      "date": "2026-02-13 19:48:25",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://cdn.kpbs.org/dims4/default/8e5a7b5/2147483647/strip/true/crop/4000x2100+0+348/resize/1200x630!/quality/90/?url=http%3A%2F%2Fkpbs-brightspot.s3.us-west-2.amazonaws.com%2Ff2%2F7f%2F0a3c3eac4e94a7fb77526b03733d%2Fpxl-20260212-171110200.jpg",
+      "url": "/tech-news/2026-02-13/pentagon-primes-defense-industry-for-ai-windfall-a/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "KPBS"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Jak Red Hat a ekosystém Nvidia standardizují AI továrny",
+      "description": "Ekosystém Nvidia se stává řídicí rovinou pro AI infrastrukturu, přičemž posun přesahuje pouhé GPU. Podniky přecházejí od experimentů k velkoškálovému nasazení a trh se soustředí na standardizovaný zásobník s Linuxem a Kubernetes, který těsně integruje hardware Nvidia díky partnerství s Red Hat.",
+      "slug": "how-red-hat-and-the-nvidia-ecosystem-are-standardi",
+      "publishedAt": "2026-02-13T19:39:25+00:00",
+      "date": "2026-02-13 19:39:25",
+      "importance": 4,
+      "category": "ai infrastruktura",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Stu-Miniman-senior-director-market-insights-hybrid-platforms-at-Red-Hat-AI-Factories-2026.jpg",
+      "url": "/tech-news/2026-02-13/how-red-hat-and-the-nvidia-ecosystem-are-standardi/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Red Hat",
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Meta zvažuje zavedení rozpoznávání obličejů do chytrých brýlí",
+      "description": "Meta plánuje integrovat rozpoznávání obličejů do chytrých brýlí pro identifikaci kontaktů napříč svými platformami, což vyvolává nové obavy z ochrany soukromí a regulací.",
+      "slug": "meta-weighs-facial-recognition-rollout-for-smart-g",
+      "publishedAt": "2026-02-13T19:11:25+00:00",
+      "date": "2026-02-13 19:11:25",
+      "importance": 4,
+      "category": "rozpoznávání obličej",
+      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/02/13140457/feb8d8ca-97db-456a-b48d-0bfa61aaf745-800x420.jpg",
+      "url": "/tech-news/2026-02-13/meta-weighs-facial-recognition-rollout-for-smart-g/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Crypto Briefing"
+      },
+      "companies": [
+        "Meta"
+      ],
+      "people": []
+    },
+    {
+      "title": "OpenAI vybráno do soutěže Pentagonu na roj dronů za 100 milionů dolarů",
+      "description": "OpenAI spolupracuje s dvěma obrannými firmami v soutěži Pentagonu za 100 milionů dolarů na vývoj software pro řízení roje dronů hlasovými příkazy. Společnost omezuje svou roli na převod hlasu na digitální signály a nezasahuje do ovládání zbraní ani cílení.",
+      "slug": "openai-selected-for-100m-pentagon-drone-swarm-comp",
+      "publishedAt": "2026-02-13T18:55:35+00:00",
+      "date": "2026-02-13 18:55:35",
+      "importance": 4,
+      "category": "roj dronů",
+      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/02/13134817/ba196c54-96fd-4f13-996b-1a94dc7386e1-800x420.jpg",
+      "url": "/tech-news/2026-02-13/openai-selected-for-100m-pentagon-drone-swarm-comp/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Crypto Briefing"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "OpenAI zapojena do technologie hlasového ovládání v soutěži Pentagonu o roje dronů",
+      "description": "OpenAI spolupracuje se dvěma obrannými technologickými společnostmi, které Pentagon vybral do soutěže o vývoj software pro hlasové ovládání rojů dronů pro americkou armádu, uvedli zdroje blízké věci.",
+      "slug": "openai-tapped-for-voice-control-tech-in-us-drone-s",
+      "publishedAt": "2026-02-13T18:31:54+00:00",
+      "date": "2026-02-13 18:31:54",
+      "importance": 4,
+      "category": "vojenské drony",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_1_1733464951182_1733464958176.png",
+      "url": "/tech-news/2026-02-13/openai-tapped-for-voice-control-tech-in-us-drone-s/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Livemint"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Mise Genesis prezidenta Trumpa získává prvních 26 jistě úspěšných cílů",
+      "description": "Ministerstvo energetiky (DoE) stanovilo 26 výzev národního významu pro integraci AI do vědeckého výzkumu v rámci mise Genesis. Projekt má urychlit oblasti jako fúzní energie, analýzu jaderných dat a základní fyziku na úrovni projektu Manhattan.",
+      "slug": "trumps-genesis-mission-gets-its-first-set-of-26-su",
+      "publishedAt": "2026-02-13T18:18:15+00:00",
+      "date": "2026-02-13 18:18:15",
+      "importance": 5,
+      "category": "umělá inteligence",
+      "urlToImage": "https://regmedia.co.uk/2019/04/24/trumpspeechflag.jpg",
+      "url": "/tech-news/2026-02-13/trumps-genesis-mission-gets-its-first-set-of-26-su/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Google, Jio, AWS, Microsoft, Nokia a další zakládají Trusted Tech Alliance",
+      "description": "Patnáct globálních firem včetně Google, Jio Platforms, AWS, Microsoftu, Nokia a dalších zahájilo na Mnichovské bezpečnostní konferenci Trusted Tech Alliance. Cílem je vybudovat bezpečný a transparentní technologický zásobník přes hranice, zahrnující AI, cloud, připojení a polovodiče.",
+      "slug": "google-jio-aws-microsoft-nokia-and-others-form-tru",
+      "publishedAt": "2026-02-13T18:08:17+00:00",
+      "date": "2026-02-13 18:08:17",
+      "importance": 4,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-01/28/thumb/fitandfill/1200X630/1769620541-6348.jpg",
+      "url": "/tech-news/2026-02-13/google-jio-aws-microsoft-nokia-and-others-form-tru/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Business Standard"
+      },
+      "companies": [
+        "Google",
+        "Jio Platforms",
+        "Microsoft",
+        "Nokia"
+      ],
+      "people": []
+    },
     {
       "title": "Anthropic vyhlašuje 20milionovou válku na OpenAI",
       "description": "Anthropic nenechá OpenAI rozhodovat o regulaci umělé inteligence samo a investuje 20 milionů dolarů do politiky. Tento krok eskaluje boj mezi rivaly o budoucnost regulací v odvětví AI.",
