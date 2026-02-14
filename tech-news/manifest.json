@@ -1,7 +1,164 @@
 {
-  "generated": "2026-02-14T08:39:13.709030+00:00",
-  "count": 144,
+  "generated": "2026-02-14T12:44:57.827857+00:00",
+  "count": 152,
   "articles": [
+    {
+      "title": "Anthropic dosahuje 14 miliard dolarů ročního tempa výnosů, stává se nejrychleji rostoucí softwarovou společností",
+      "description": "Anthropic hlásí roční tempo výnosů 14 miliard dolarů díky růstu Claude Code na 2,5 miliardy od ledna a zčtyřnásobení podnikových předplatných. Přes 500 firem platí více než milion dolarů ročně, financování série G přineslo 30 miliard při valuaci 380 miliard dolarů.",
+      "slug": "anthropic-hits-14-billion-revenue-run-rate-becomes",
+      "publishedAt": "2026-02-13T12:24:09+00:00",
+      "date": "2026-02-13 12:24:09",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/msid-128304801,width-1200,height-630,imgsize-11150,overlay-economictimes/articleshow.jpg",
+      "url": "/tech-news/2026-02-13/anthropic-hits-14-billion-revenue-run-rate-becomes/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": []
+    },
+    {
+      "title": "AI magnáti přebírají strategii kryptomarketu pro podporu spojenců v Kongresu",
+      "description": "Vodcové AI boomu, jako Marc Andreessen, Ben Horowitz a Greg Brockman, investovali 50 milionů dolarů do super PAC Leading the Future, aby podpořili kandidáty favorizující mírnější regulace umělé inteligence. Strategie vychází z úspěchu kryptopříznivců v roce 2024 a zaměřuje se na témata jako ekonomická příležitost a imigrace.",
+      "slug": "ai-kingpins-adopt-cryptos-playbook-in-bid-to-get-a",
+      "publishedAt": "2026-02-13T12:23:50+00:00",
+      "date": "2026-02-13 12:23:50",
+      "importance": 4,
+      "category": "ai regulace",
+      "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/02/776407133.jpg",
+      "url": "/tech-news/2026-02-13/ai-kingpins-adopt-cryptos-playbook-in-bid-to-get-a/",
+      "source": {
+        "emoji": "📰",
+        "id": "financial-post",
+        "name": "Financial Post"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Šéf AI divize Microsoftu varuje, že umělá inteligence by mohla vymazat většinu, ne-li všechny bílokošarové práce během příštích 12-18 měsíců",
+      "description": "Šéf AI divize Microsoftu Mustafa Suleyman předpovídá, že většina bílokošarových úkolů bude automatizována do 18 měsíců. To by mohlo zásadně změnit budoucnost práce, jak ji známe.",
+      "slug": "microsofts-ai-ceo-shares-another-warning-that-ai-c",
+      "publishedAt": "2026-02-13T12:21:00+00:00",
+      "date": "2026-02-13 12:21:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/TRj8Lpyyjzq6H8DWN5t2g3-2560-80.jpg",
+      "url": "/tech-news/2026-02-13/microsofts-ai-ceo-shares-another-warning-that-ai-c/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Windows Central"
+      },
+      "companies": [
+        "Microsoft"
+      ],
+      "people": [
+        "Mustafa Suleyman"
+      ]
+    },
+    {
+      "title": "GPTBots.ai od Aurora Mobile integruje GLM-5 a stanovuje nové standardy pro výkon a hodnotu podnikového AI",
+      "description": "Aurora Mobile, poskytovatel služeb pro zapojení zákazníků a marketingovou technologii, oznámil integraci modelu GLM-5 do platformy GPTBots.ai. Tento open-source model přináší vyšší spolehlivost znalostí a automatizaci pro podnikové aplikace.",
+      "slug": "aurora-mobiles-gptbotsai-integrates-glm-5-setting-",
+      "publishedAt": "2026-02-13T12:00:00+00:00",
+      "date": "2026-02-13 12:00:00",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/5e12f74e-0978-4008-a030-4c2b113ad11e",
+      "url": "/tech-news/2026-02-13/aurora-mobiles-gptbotsai-integrates-glm-5-setting/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [
+        "Aurora Mobile"
+      ],
+      "people": []
+    },
+    {
+      "title": "Fox News AI Newsletter: Trump spouští 'technologickou jednotku'",
+      "description": "Fox News AI Newsletter informuje o nejnovějších pokrocích v umělé inteligenci, včetně výzev a příležitostí, které AI přináší nyní i v budoucnosti. Tento vydání se zaměřuje na Trumpovu iniciativu pro modernizaci vlády pomocí AI a další klíčové události v sektoru.",
+      "slug": "fox-news-ai-newsletter-trump-activates-tech-force",
+      "publishedAt": "2026-02-13T11:49:17+00:00",
+      "date": "2026-02-13 11:49:17",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/02/super-bowl-donald-trump-0202626-1.jpg",
+      "url": "/tech-news/2026-02-13/fox-news-ai-newsletter-trump-activates-tech-force/",
+      "source": {
+        "emoji": "📰",
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "companies": [],
+      "people": [
+        "Trump"
+      ]
+    },
+    {
+      "title": "Čína vypustila první satelit na světě s velkým modelem umělé inteligence pro chytré města a posun v inteligentním dálkovém snímkování",
+      "description": "Čína vypustila sedm satelitů jednou raketou z vod u Jangjiang v provincii Guangdong. Mezi nimi je CUHK No.1, první satelit s velkým modelem AI určený pro udržitelné městské rozvoje.",
+      "slug": "china-launches-worlds-first-ai-large-model-satelli",
+      "publishedAt": "2026-02-13T11:42:44+00:00",
+      "date": "2026-02-13 11:42:44",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": null,
+      "url": "/tech-news/2026-02-13/china-launches-worlds-first-ai-large-model-satelli/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Hořká rivalita v AI míří do Washingtonu",
+      "description": "Významný dar Anthropicu politické skupině, která konkuruje organizaci podporované OpenAI, odhalil hluboký rozkol ohledně regulace umělé inteligence. Téma se stává klíčovým před americkými midterm volbami, kde politici čelí tlaku tech lobby a veřejné skepse.",
+      "slug": "ais-bitter-rivalry-heads-to-washington",
+      "publishedAt": "2026-02-13T11:40:11+00:00",
+      "date": "2026-02-13 11:40:11",
+      "importance": 4,
+      "category": "regulace ai",
+      "urlToImage": "https://www.spxdaily.com/images-hg/trump-drop-off-hg.jpg",
+      "url": "/tech-news/2026-02-13/ais-bitter-rivalry-heads-to-washington/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Space Daily"
+      },
+      "companies": [
+        "Anthropic",
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "17miliardový budíček: Bezpečnost kryptoměn v éře podvodů s umělou inteligencí",
+      "description": "Podvody s kryptoměnami poháněné umělou inteligencí explodují, kyberzločin způsobil škodu 17 miliard dolarů; deepfakes, sady na podvody a průmyslové sociální inženýrství mění hrozby i obranu digitálních aktiv.",
+      "slug": "the-17-billion-wake-up-call-securing-crypto-in-the",
+      "publishedAt": "2026-02-13T11:24:37+00:00",
+      "date": "2026-02-13 11:24:37",
+      "importance": 5,
+      "category": "kryptoměny",
+      "urlToImage": "https://hackread.com/wp-content/uploads/2026/02/17-billion-wake-up-call-securing-crypto-ai-scams.jpg",
+      "url": "/tech-news/2026-02-13/the-17-billion-wake-up-call-securing-crypto-in-the/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "HackRead"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Sensex a Nifty klesají; evropské trhy rostou",
       "description": "Hlavní indické indexy Sensex a Nifty ztrácely v poledním obchodování kvůli slabým globálním signálům spojeným s novým AI modelem od Anthropic, což vyvolalo obavy o budoucnost IT sektoru závislého na outsourcování. Kromě mediálního indexu všechny sektorové indexy na NSE obchodovány v mínusu, s kovy, IT a realitami v čele poklesu.",
