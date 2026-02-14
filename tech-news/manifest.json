@@ -1,7 +1,115 @@
 {
-  "generated": "2026-02-14T12:44:57.827857+00:00",
-  "count": 152,
+  "generated": "2026-02-14T16:40:08.450910+00:00",
+  "count": 157,
   "articles": [
+    {
+      "title": "Anthropic vyhlašuje 20milionovou válku na OpenAI",
+      "description": "Anthropic nenechá OpenAI rozhodovat o regulaci umělé inteligence samo a investuje 20 milionů dolarů do politiky. Tento krok eskaluje boj mezi rivaly o budoucnost regulací v odvětví AI.",
+      "slug": "anthropic-declares-20-million-war-on-openai",
+      "publishedAt": "2026-02-13T16:20:10+00:00",
+      "date": "2026-02-13 16:20:10",
+      "importance": 4,
+      "category": "regulace ai",
+      "urlToImage": "https://futurism.com/wp-content/uploads/2026/02/anthropic-war-openai.jpg?w=1200",
+      "url": "/tech-news/2026-02-13/anthropic-declares-20-million-war-on-openai/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Futurism"
+      },
+      "companies": [
+        "Anthropic",
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Proč Anthropic přijalo do své rady Chrisa Liddella? #tech",
+      "description": "Strategické angažmá, jak se Anthropic připravuje na možné uvedení na burzu. Společnost přijala do své rady bývalého manažera Microsoftu a General Motors, který sloužil i v administrativě Donalda Trumpa.",
+      "slug": "why-did-anthropic-add-chris-liddell-to-its-board-t",
+      "publishedAt": "2026-02-13T16:02:49+00:00",
+      "date": "2026-02-13 16:02:49",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://alltoc.com/cdn/1043/og.png",
+      "url": "/tech-news/2026-02-13/why-did-anthropic-add-chris-liddell-to-its-board-t/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Alltoc.com"
+      },
+      "companies": [
+        "Anthropic",
+        "Microsoft"
+      ],
+      "people": [
+        "Chris Liddell"
+      ]
+    },
+    {
+      "title": "9,8 miliardy dolarů na autonomii ovlivní dodavatelský řetězec obrany posílený AI",
+      "description": "Americký kongres schválil obranný rozpočet 839 miliard dolarů pro fiskální rok 2026, z toho 9,8 miliardy směřuje na vývoj autonomních a nepilotovaných systémů napříč všemi složkami armády. Tento krok přichází v době rychlého růstu trhu AI v obraně a letectví, který má dosáhnout 42,8 miliardy dolarů do roku 2036.",
+      "slug": "A-98-billion-in-autonomy-spending-hits-the-ai-boos",
+      "publishedAt": "2026-02-13T15:52:00+00:00",
+      "date": "2026-02-13 15:52:00",
+      "importance": 4,
+      "category": "obranný průmysl",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/fa80d6c4-97b0-465a-b7f0-f79df6f8bc19",
+      "url": "/tech-news/2026-02-13/A-98-billion-in-autonomy-spending-hits-the-ai-boos/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [
+        "VisionWave Holdings",
+        "Inc"
+      ],
+      "people": []
+    },
+    {
+      "title": "Anthropic a Databricks získaly další miliardy. Další zastávka: úvod na burzu?",
+      "description": "Investoři skepticky pohlížejí na softwareové firmy ohrožené AI i na AI společnosti, které utrácejí miliardy, a pochybují o návratnosti investic. Přesto Anthropic získalo 30 miliard dolarů při valuaci 380 miliard a Databricks 7 miliard, obě naznačují přípravu na IPO.",
+      "slug": "anthropic-and-databricks-raise-billions-more-next-",
+      "publishedAt": "2026-02-13T15:45:06+00:00",
+      "date": "2026-02-13 15:45:06",
+      "importance": 4,
+      "category": "ai startupy",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/anth-gemini.png",
+      "url": "/tech-news/2026-02-13/anthropic-and-databricks-raise-billions-more-next/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Anthropic",
+        "Databricks"
+      ],
+      "people": []
+    },
+    {
+      "title": "Start mise Crew-12",
+      "description": "Raketa SpaceX Falcon 9 s kosmickou lodí Dragon odstartovala na misi NASA SpaceX Crew-12 k Mezinárodní vesmírné stanici. Posádku tvoří astronauti NASA Jessica Meir a Jack Hathaway, astronautka ESA Sophie Adenot a kosmonaut Roscosmosu Andrey Fedyaev.",
+      "slug": "crew-12-launches",
+      "publishedAt": "2026-02-13T15:39:10+00:00",
+      "date": "2026-02-13 15:39:10",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://www.nasa.gov/wp-content/uploads/2026/02/55093881630-42e655abce-o.jpg",
+      "url": "/tech-news/2026-02-13/crew-12-launches/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "NASA"
+      },
+      "companies": [
+        "SpaceX",
+        "NASA",
+        "ESA"
+      ],
+      "people": []
+    },
     {
       "title": "Anthropic dosahuje 14 miliard dolarů ročního tempa výnosů, stává se nejrychleji rostoucí softwarovou společností",
       "description": "Anthropic hlásí roční tempo výnosů 14 miliard dolarů díky růstu Claude Code na 2,5 miliardy od ledna a zčtyřnásobení podnikových předplatných. Přes 500 firem platí více než milion dolarů ročně, financování série G přineslo 30 miliard při valuaci 380 miliard dolarů.",
