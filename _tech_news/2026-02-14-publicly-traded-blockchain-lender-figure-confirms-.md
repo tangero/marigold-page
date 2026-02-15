@@ -4,8 +4,9 @@ category: kybernetika
 companies:
 - Figure
 date: '2026-02-14 00:04:45'
-description: Půjčovna na blockchainu Figure oznámila, že hackeři získali přístup k
-  datům zákazníků po úspěšném sociálním inženýrském útoku na zaměstnance.
+description: Blockchainová půjčovna Figure oznámila, že hackeři získali přístup k
+  datům zákazníků po úspěšném sociálním inženýrském útoku na zaměstnance. Incident
+  odhaluje slabiny v lidském faktoru bezpečnosti fintech firem.
 importance: 4
 layout: tech_news_article
 original_title: Publicly Traded Blockchain Lender Figure Confirms Customer Data Breach
@@ -22,26 +23,27 @@ urlToImageBackup: https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploa
 ---
 
 ## Souhrn
-Společnost Figure, veřejně obchodovaná fintech firma specializující se na půjčky zabezpečené blockchainem, potvrdila bezpečnostní incident. Hackeři pronikli do systémů prostřednictvím sociálního inženýrství zaměřeného na zaměstnance a získali přístup k citlivým údajům zákazníků. Incident nastal nedávno a firma již informuje postižené.
+
+Veřejně obchodovaná americká fintech společnost Figure Technologies, specializující se na půjčky zabezpečené nemovitostmi (HELOC) tokenizované na blockchainu Provenance, potvrdila bezpečnostní incident. Hackeři získali přístup k citlivým datům zákazníků prostřednictvím sociálního inženýrství, které cílilo na zaměstnance firmy. Žádné finanční ztráty nebyly hlášeny, ale incident vyvolává otázky ohledně bezpečnosti v blockchainovém sektoru.
 
 ## Klíčové body
-- Útok proběhl prostřednictvím sociálního inženýrství, kdy útočníci oklamali zaměstnance, aby prozradili přístupové údaje.
-- Zasaženy jsou data zákazníků, včetně osobních a finančních informací spojených s půjčkami na blockchainu.
-- Figure je veřejně obchodovaná (ticker FIGR_HELOC), což znamená povinnost okamžitého zveřejnění incidentu.
-- Firma doporučuje zákazníkům měnit hesla a monitorovat účty.
-- Incident souvisí s širším kontextem kryptomarketu, kde ceny aktiv jako BTC ($69 838) a ETH ($2082) kolísají.
+- Útok proběhl pomocí sociálního inženýrství, což je technika, při níž útočníci manipulují lidi k prozrazení přístupových údajů nebo kliknutí na škodlivé odkazy.
+- Hackeři získali přístup k zákaznickým datům, včetně možná osobních a finančních informací spojených s hypotékami.
+- Firma Figure je jednou z prvních, která tokenizuje hypotéky na blockchainu, a spolupracuje s institucionálními investory.
+- Incident byl potvrzen veřejným prohlášením, což je standardní postup pro regulované fintech entity.
+- Žádné důkazy o odcizení kryptoměn nebo přímých finančních útocích na blockchainovou vrstvu.
 
 ## Podrobnosti
-Figure Technologies je americká fintech společnost založená v roce 2018, která se zaměřuje na poskytování hypoték a půjček prostřednictvím vlastní blockchainové platformy Provenance. Tato platforme umožňuje rychlé a průhledné transakce s nemovitostmi, kde se hypotéky tokenizují jako digitální aktiva. Firma je jednou z prvních veřejně obchodovaných entit v tomto sektoru, s tokenem FIGR_HELOC obchodovaným kolem 1,02 USD (pokles o 1,31 % v době incidentu).
 
-Podle oficiálního prohlášení došlo k útoku kolem konce minulého týdne. Útočníci použili sociální inženýrství – techniku, při níž oklamávají lidi, aby dobrovolně poskytli přístup k systémům. Typicky jde o phishing e-maily, falešné telefonáty nebo podvodné webové stránky napodobující interní nástroje. Zaměstnanec byl zjevně naveden k zadání přihlašovacích údajů, což umožnilo neoprávněný vstup do databází zákazníků. Získaná data zahrnují jména, adresy, čísla sociálního zabezpečení, finanční údaje a detaily o půjčkách.
+Figure Technologies, založená v roce 2018 bývalým zakladatelem SoFi Mikem Cagneyem, se zaměřuje na digitalizaci hypoték a půjček zabezpečených nemovitostmi. Jejich klíčovým produktem je HELOC (Home Equity Line of Credit), což je opakovaně čerpatelná půjčka zajištěná hodnotou domova, kterou tokenizují na vlastním blockchainu Provenance. Tento přístup umožňuje rychlejší schvalování půjček, nižší poplatky a přístup investorům k frakcionálním podílům na nemovitostech. Firma je veřejně obchodovaná pod tickerem FIGR_HELOC a její tokeny se obchodují na kryptoměnových platformách, jak ukazují aktuální ceny v článku (např. FIGR_HELOC na úrovni 1,02 USD s poklesem 1,31 %).
 
-Firma okamžitě aktivovala protokoly pro reakci na incident: izolovala postižené systémy, analyzovala rozsah poškození a zapojila externí bezpečnostní experty. Zákazníci jsou informováni e-mailem a dostávají nabídku na bezplatné monitorování kreditu. Žádná data o platebních kartách nebo plných bankovních účtech nebyla ohrožena, ale riziko identity theft (krádeže identity) je vysoké. V kontextu blockchainu je ironické, že i decentralizované technologie nejsou imunní vůči lidskému faktoru – blockchain zajišťuje integritu transakcí, ale centrální servery pro správu dat zůstávají zranitelnými body.
+Útok začal sociálním inženýrstvím, což je metoda, při níž útočníci využívají psychologické triky k získání důvěry zaměstnance. Typicky jde o phishing e-maily, falešné telefonáty nebo impersonaci nadřízených. V tomto případě zaměstnanec neúmyslně poskytl přístup k systémům obsahujícím zákaznická data. Figure okamžitě incident nahlásila a zahájila interní šetření ve spolupráci s externími bezpečnostními firmami. Podle prohlášení došlo k přístupu k datům, ale ne k jejich odcizení na blockchainu samotném – problém byl v tradiční IT infrastruktuře.
 
-Tento incident připomíná podobné útoky, jako byl phishing na zaměstnance u Twitteru v roce 2020 nebo nedávné breache u fintech platforem. Sociální inženýrství tvoří až 74 % všech bezpečnostních incidentů podle zpráv Verizon DBIR, protože obchází technické bariéry jako dvoufázové ověření (2FA).
+Tento incident není ojedinělý v kryptosektoru. Podobné útoky postihly například burzy jako FTX nebo Ronin Network, kde social engineering vedl k miliardovým ztrátom. Figure však díky regulaci (jako veřejně obchodovaná firma pod dohledem SEC) musí dodržovat přísné standardy hlášení, což zahrnuje notifikaci postižených zákazníků do 72 hodin podle zákonů jako GDPR v Evropě nebo CCPA v USA. Zákazníci by měli monitorovat své účty a aktivovat dvoufázové ověřování (2FA), které by podobné útoky ztížilo.
 
 ## Proč je to důležité
-Únik dat u Figure podtrhuje rizika v rychle rostoucím sektoru DeFi (decentralizované finance) a blockchainového lendingu, kde se spravují miliardy dolarů. I když blockchain sám o sobě nabízí kryptografickou bezpečnost, útoky na lidský prvek ohrožují celý ekosystém. Pro zákazníky to znamená nutnost posílení osobní hygieny v kyberprostoru – používání 2FA, ověřování požadavků a pravidelné kontroly účtů. Pro průmysl to signalizuje potřebu lepšího školení zaměstnanců a zero-trust architektur, kde se nikdo nedůvěřuje automaticky. V širším kontextu, s kolísáním kryptotrhu (např. DOGE +16,56 %, PEPE +27,85 %), může takový breach ovlivnit důvěru investorů v tokenizované aktiva jako FIGR_HELOC. Regulační orgány jako SEC pravděpodobně zesílí dohled nad veřejně obchodovanými blockchain firmami.
+
+Tento breach podtrhuje křehkost hybridních systémů, kde blockchain slibuje nezbytnou bezpečnost, ale lidský faktor v backendových systémech zůstává slabinou. Pro blockchainové půjčky to znamená riziko pro důvěru investorů – pokud i tokenizované hypotéky nejsou chráněny před útoky mimo řetězec, může to zpomalit adopci DeFi v tradičním finance. Průmysl reaguje školeními proti phishingu a přechodem na hardwareové klíče jako YubiKey. Pro uživatele to znamená nutnost ověřovat legitimity firem a používat decentralizované identity. V širším kontextu kybernetiky to ilustruje, že i pokročilé technologie jako blockchain neeliminují základní rizika sociálního inženýrství, což ovlivňuje celý fintech sektor s miliardami v aktivech.
 
 ---
 

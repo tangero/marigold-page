@@ -1,10 +1,51 @@
 {
-  "generated": "2026-02-15T01:31:12.463083+00:00",
-  "count": 174,
+  "generated": "2026-02-15T05:36:54.969855+00:00",
+  "count": 162,
   "articles": [
     {
-      "title": "Pentagon použil Claude AI k únosu Madura – média",
-      "description": "Americká armáda aktivně použila model umělé inteligence Claude od Anthropic během operace na zatčení venezuelského prezidenta Nicoláse Madura minulý měsíc, podle zpráv Wall Street Journal a Axios. Technologie firmy hrála přímou roli v zahraniční razii.",
+      "title": "Plně do AI: co udělal ByteDance, tvůrce TikToku, dál",
+      "description": "ByteDance se sídlem v Pekingu, vlastník TikToku, se silně zaměřuje na umělou inteligenci po letech právních a soukromí kontroverzí. Jeho chatbot Doubao, spuštěný v roce 2023, se stal nejoblíbenějším AI asistentem v Číně s více než 100 miliony denních uživatelů a konkuruje službám od OpenAI a Google.",
+      "slug": "all-in-on-ai-what-tiktok-creator-bytedance-did-nex",
+      "publishedAt": "2026-02-14T02:54:38+00:00",
+      "date": "2026-02-14 02:54:38",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-57886,resizemode-75,msid-128332049/tech/artificial-intelligence/all-in-on-ai-what-tiktok-creator-bytedance-did-next.jpg",
+      "url": "/tech-news/2026-02-14/all-in-on-ai-what-tiktok-creator-bytedance-did-nex/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "ByteDance"
+      ],
+      "people": []
+    },
+    {
+      "title": "ByteDance rozšiřuje tým pro čipy na 1000 zaměstnanců a posouvá čtyři hlavní designové linky",
+      "description": "Čínský technologický gigant ByteDance rychle rozšiřuje svůj tým pro výzkum a vývoj čipů na více než 1000 lidí, což signalizuje silný záměr prosadit se v oblasti AI hardware. Podle zprávy 36Kr společnost pokračuje ve vývoji čtyř hlavních linií čipů, aby snížila závislost na zahraničních dodavatelích.",
+      "slug": "bytedance-expands-chip-team-to-1000-advancing-four",
+      "publishedAt": "2026-02-14T02:11:06+00:00",
+      "date": "2026-02-14 02:11:06",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://img.digitimes.com/newsshow/20260213pd239_files/1_b.jpg",
+      "url": "/tech-news/2026-02-14/bytedance-expands-chip-team-to-1000-advancing-four/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [
+        "ByteDance",
+        "36Kr"
+      ],
+      "people": []
+    },
+    {
+      "title": "Pentagon použil Claude AI k zatčení Madura – média",
+      "description": "Americká armáda aktivně využila model umělé inteligence Claude od Anthropic během operace na zatčení venezuelského prezidenta Nicoláse Madura minulý měsíc, podle zpráv serverů Axios a Wall Street Journal. Firma Anthropic veřejně zdůrazňuje bezpečnostní omezení své technologie proti vojenskému nasazení.",
       "slug": "pentagon-used-claude-ai-to-kidnap-maduro-media",
       "publishedAt": "2026-02-14T00:43:14+00:00",
       "date": "2026-02-14 00:43:14",
@@ -24,7 +65,7 @@
     },
     {
       "title": "Veřejně obchodovaná půjčovna na blockchainu Figure potvrdila únik dat zákazníků",
-      "description": "Půjčovna na blockchainu Figure oznámila, že hackeři získali přístup k datům zákazníků po úspěšném sociálním inženýrském útoku na zaměstnance.",
+      "description": "Blockchainová půjčovna Figure oznámila, že hackeři získali přístup k datům zákazníků po úspěšném sociálním inženýrském útoku na zaměstnance. Incident odhaluje slabiny v lidském faktoru bezpečnosti fintech firem.",
       "slug": "publicly-traded-blockchain-lender-figure-confirms-",
       "publishedAt": "2026-02-14T00:04:45+00:00",
       "date": "2026-02-14 00:04:45",
@@ -44,7 +85,7 @@
     },
     {
       "title": "Jak Deep Fission snižuje náklady na jadernou energii o 80 procent",
-      "description": "Společnost Deep Fission vyvíjí technologie pro jaderné štěpení, která dramaticky snižuje náklady na výstavbu reaktorů. Tento pokrok podporuje renesanci jaderné energie v kontextu rostoucí poptávky po nízkouhlíkových zdrojích, zejména díky boomu umělé inteligence.",
+      "description": "Probíhá globální renesance jaderné energie, státy po světě znovu přijímají technologii štěpení jako bezpečnou součást stabilní nízkouhlíkové energetické směsi. Boom umělé inteligence tlačí politiky a soukromý sektor k rostoucímu zájmu o tento zdroj.",
       "slug": "how-deep-fission-is-slashing-nuclear-costs-by-80-p",
       "publishedAt": "2026-02-14T00:00:00+00:00",
       "date": "2026-02-14 00:00:00",
@@ -3216,287 +3257,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Decrypt"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "The guy who coined 'vibe-coding' says the next big thing is 'agentic engineering'",
-      "description": "OpenAI cofounder Andrej Karpathy says 'agentic engineering is the next evolution in AI coding as vibe-coding marks its first anniversary.",
-      "slug": "the-guy-who-coined-vibe-coding-says-the-next-big-t",
-      "publishedAt": "2026-02-08T18:18:26+00:00",
-      "date": "2026-02-08 18:18:26",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://i.insider.com/68f53bf05dbc4fd10dab1f5f?width=1200&format=jpeg",
-      "url": "/tech-news/2026-02-08/the-guy-who-coined-vibe-coding-says-the-next-big-t/",
-      "source": {
-        "emoji": "📰",
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "SpaceX Falcon 9 True Cost to Launch is About $300 per Pound Which is 25% of Selling Price to Customers",
-      "description": "There are many sources like Our World in Data describe the cost to launch with SpaceX Falcon 9 as $2600 per kilogram or $1200 per pound but the cost to SpaceX is $900 per kilogram or $390 per pound. The ~$67–70 million external selling price is for about 30 o…",
-      "slug": "spacex-falcon-9-true-cost-to-launch-is-about-300-p",
-      "publishedAt": "2026-02-08T17:44:57+00:00",
-      "date": "2026-02-08 17:44:57",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/02/Screenshot-2026-02-08-at-9.01.28-AM.jpg",
-      "url": "/tech-news/2026-02-08/spacex-falcon-9-true-cost-to-launch-is-about-300-p/",
-      "source": {
-        "emoji": "📰",
-        "id": "next-big-future",
-        "name": "Next Big Future"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Šéf vlády Andhra Pradesh Naidu položil základní kámen pro Quantum Valley v Amaravati",
-      "description": "Přední společnosti jako IBM, TCS a L&T hrají klíčovou roli při přivádění prvního indického 133-kubitového kvantového počítače do Amaravati.",
-      "slug": "andhra-pradesh-cm-naidu-lays-foundation-stone-for-",
-      "publishedAt": "2026-02-08T11:39:14+00:00",
-      "date": "2026-02-08 11:39:14",
-      "importance": 4,
-      "category": "kvantové počítače",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/5k98uf/article70607297.ece/alternates/LANDSCAPE_1200/PTI02_07_2026_000760B.jpg",
-      "url": "/tech-news/2026-02-08/andhra-pradesh-cm-naidu-lays-foundation-stone-for/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "companies": [
-        "IBM",
-        "TCS",
-        "L&T"
-      ],
-      "people": [
-        "Naidu"
-      ]
-    },
-    {
-      "title": "Co se stane, když roboti naučí cítit fyzickou újmu?",
-      "description": "Výzkumníci vyvinuli elektronickou kůži umožňující humanoidním robotům rozlišovat běžný dotek od škodlivé síly. Tato schopnost, dříve typická pro živé nervové systémy, by mohla ovlivnit interakce robotů s fyzickým světem a lidmi.",
-      "slug": "what-happens-if-robots-learn-to-feel-physical-harm",
-      "publishedAt": "2026-02-08T11:03:00+00:00",
-      "date": "2026-02-08 11:03:00",
-      "importance": 5,
-      "category": "robotika",
-      "urlToImage": "https://assets.newatlas.com/dims4/default/8cd3a92/2147483647/strip/true/crop/6000x3150+0+674/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F87%2F3b%2F8c1584e14cde96499f362d9cb0d7%2Fdepositphotos-548051850-xl.jpg&na.image_optimisation=0",
-      "url": "/tech-news/2026-02-08/what-happens-if-robots-learn-to-feel-physical-harm/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "New Atlas"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Apple iPhone 18 Pro Max a iPhone 18 Pro možná opustí Dynamic Island, získají vylepšení baterie a procesoru",
-      "description": "Připravovaná řada iPhone 18 Pro od Appleu vzbuzuje pozornost díky únikům informací o změnách v displeji, větší baterii a novém čipu. Face ID by mělo přejít pod obrazovku, což by odstranilo Dynamic Island. Čip A20 Pro na 2nm technologii slibuje vyšší výkon a nižší spotřebu energie.",
-      "slug": "apple-iphone-18-pro-max-iphone-18-pro-may-drop-dyn",
-      "publishedAt": "2026-02-08T11:00:18+00:00",
-      "date": "2026-02-08 11:00:18",
-      "importance": 4,
-      "category": "smartphony",
-      "urlToImage": "https://img.etimg.com/thumb/msid-128068465,width-1200,height-630,imgsize-1248165,overlay-economictimes/articleshow.jpg",
-      "url": "/tech-news/2026-02-08/apple-iphone-18-pro-max-iphone-18-pro-may-drop-dyn/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
-      "title": "Goldman Sachs spolupracuje s Anthropic na automatizaci bankovních úkolů pomocí AI agentů: Zpráva",
-      "description": "Investiční banka Goldman Sachs v posledních šesti měsících spolupracuje s inženýry společnosti Anthropic na vývoji autonomních AI agentů pro úkoly jako účetnictví obchodů a transakcí, due diligence klientů a onboarding. Podle šéfa informačních technologií banky Marca Argenttiho technologie založená na modelu Claude by měla výrazně zkrátit čas potřebný na klíčové provozní procesy.",
-      "slug": "goldman-sachs-teams-up-with-anthropic-to-automate-",
-      "publishedAt": "2026-02-08T10:52:28+00:00",
-      "date": "2026-02-08 10:52:28",
-      "importance": 4,
-      "category": "fintech",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-116932,resizemode-75,msid-128068301/tech/technology/goldman-sachs-teams-up-with-anthropic-to-automate-banking-tasks-with-ai-agents-report.jpg",
-      "url": "/tech-news/2026-02-08/goldman-sachs-teams-up-with-anthropic-to-automate/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Anthropic"
-      ],
-      "people": []
-    },
-    {
-      "title": "Trhy brzy otestují Muskovo sloučení slibující internet z vesmíru",
-      "description": "Elon Musk minulý týden sloučil SpaceX a xAI, čímž vznikla jedna z největších a nejcennějších soukromých firem světa. Analytici vidí v tomto kroku kombinaci růstového potenciálu a finančních rizik při přípravě na vstup na burzu.",
-      "slug": "markets-will-soon-test-a-musk-merger-that-promises",
-      "publishedAt": "2026-02-08T10:00:00+00:00",
-      "date": "2026-02-08 10:00:00",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-05/160608-elon-musk-jsw-750p-f4d933.jpg",
-      "url": "/tech-news/2026-02-08/markets-will-soon-test-a-musk-merger-that-promises/",
-      "source": {
-        "emoji": "📰",
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "companies": [
-        "SpaceX",
-        "xAI"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Tesla tvrdí, že její auta by se měla řídit jako lidé. Waymo říká, že latka je vyšší",
-      "description": "Tesla argumentuje, že autonomní řízení je možné pouze s kamerami, podobně jako lidé řídí očima. Manažer Wayma tento přirovnání odmítá a tvrdí, že požadavky na bezpečnost jsou vyšší.",
-      "slug": "tesla-says-its-cars-should-drive-themselves-as-hum",
-      "publishedAt": "2026-02-08T09:44:02+00:00",
-      "date": "2026-02-08 09:44:02",
-      "importance": 4,
-      "category": "autonomní vozy",
-      "urlToImage": "https://i.insider.com/6988034ed3c7faef0ecddbe4?width=1200&format=jpeg",
-      "url": "/tech-news/2026-02-08/tesla-says-its-cars-should-drive-themselves-as-hum/",
-      "source": {
-        "emoji": "📰",
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "companies": [
-        "Tesla",
-        "Waymo"
-      ],
-      "people": []
-    },
-    {
-      "title": "Týdenní přehled: Podrobnosti o útoku na řetězec dodávek Notepad++, cíle a předpověď Patch Tuesday",
-      "description": "Přehled nejdůležitějších kybernetických zpráv minulého týdne zahrnuje útok na aktualizační mechanismus Notepad++, novou open-source mapu globálních hrozeb a exploitaci zranitelností státními hackery.",
-      "slug": "week-in-review-notepad-supply-chain-attack-details",
-      "publishedAt": "2026-02-08T09:00:42+00:00",
-      "date": "2026-02-08 09:00:42",
-      "importance": 5,
-      "category": "kybernetika",
-      "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/25124830/cybersecurity-week-review-1-1500.webp",
-      "url": "/tech-news/2026-02-08/week-in-review-notepad-supply-chain-attack-details/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Help Net Security"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Submer a Anant Raj Cloud společně budují udržitelná AI datová centra v Indii",
-      "description": "Evropská firma Submer a indická Anant Raj Cloud uzavřely partnerství na stavbu datových center připravených na náročné AI úlohy po celé Indii. Tato zařízení využijí vysokohustotní a energeticky úsporné systémy s tekutým chlazením, což umožní podnikům a vládě provozovat velké AI programy při nižší spotřebě energie.",
-      "slug": "submer-and-anant-raj-cloud-team-up-to-build-sustai",
-      "publishedAt": "2026-02-08T07:47:18+00:00",
-      "date": "2026-02-08 07:47:18",
-      "importance": 4,
-      "category": "ai datacentra",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-12020,resizemode-75,msid-128063620/tech/artificial-intelligence/submer-and-anant-raj-cloud-team-up-to-build-sustainable-ai-data-centres-in-india.jpg",
-      "url": "/tech-news/2026-02-08/submer-and-anant-raj-cloud-team-up-to-build-sustai/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Submer",
-        "Anant Raj Cloud"
-      ],
-      "people": []
-    },
-    {
-      "title": "ChatGPT 5.3 Codex vede v programování, zatímco Claude 4.6 AI sází na spolehlivost",
-      "description": "Článek z Better Stack porovnává pokroky v AI modelech pro programování: OpenAI GPT 5.3 Codex proti Anthropic Claude Opus 4.6. Zkoumá jejich rychlost, kontextové okno a další funkce v kontextu vývoje softwaru.",
-      "slug": "chatgpt-53-codex-moves-ahead-on-code-while-claudes",
-      "publishedAt": "2026-02-08T07:00:19+00:00",
-      "date": "2026-02-08 07:00:19",
-      "importance": 4,
-      "category": "programování",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/02/coding-models-comparison-ui-vs-functionality_optimized.jpg",
-      "url": "/tech-news/2026-02-08/chatgpt-53-codex-moves-ahead-on-code-while-claudes/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [
-        "Better Stack",
-        "OpenAI",
-        "Anthropic"
-      ],
-      "people": []
-    },
-    {
-      "title": "PhonePe před IPO cílí na růst v platbách, obchodnících a nových platformách",
-      "description": "Walmartem podporovaná PhonePe se připravuje na IPO pravděpodobně v dubnu s plány na rozšíření v digitálních platbách, finančních službách a spotřebitelských platformách. Veřejná nabídka bude výhradně nabídkou pro prodej 5,06 crore akcií od stávajících akcionářů jako Walmart, Microsoft a Tiger Global.",
-      "slug": "ipo-bound-phonepe-targets-growth-in-payments-merch",
-      "publishedAt": "2026-02-08T06:24:07+00:00",
-      "date": "2026-02-08 06:24:07",
-      "importance": 4,
-      "category": "fintech",
-      "urlToImage": "https://img.etimg.com/thumb/msid-128061493,width-1200,height-630,imgsize-669702,overlay-economictimes/articleshow.jpg",
-      "url": "/tech-news/2026-02-08/ipo-bound-phonepe-targets-growth-in-payments-merch/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "PhonePe"
-      ],
-      "people": []
-    },
-    {
-      "title": "Šéf bezpečnosti Waymo přiznal, že vzdálení operátoři z Filipín pomáhají řídit americká robotaxi",
-      "description": "Hlavní bezpečnostní důstojník Waymo Mauricio Peña prozradil na senátním slyšení, že někteří vzdálení operátoři sídlící na Filipínách asistují jeho samořídícím vozům při navigaci v náročných situacích.",
-      "slug": "waymo-exec-admits-remote-operators-in-philippines-",
-      "publishedAt": "2026-02-08T05:47:02+00:00",
-      "date": "2026-02-08 05:47:02",
-      "importance": 4,
-      "category": "autonomní vozy",
-      "urlToImage": "https://eletric-vehicles.com/wp-content/uploads/2026/02/Waymo_US_01.webp",
-      "url": "/tech-news/2026-02-08/waymo-exec-admits-remote-operators-in-philippines/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Eletric-vehicles.com"
-      },
-      "companies": [
-        "Waymo"
-      ],
-      "people": []
-    },
-    {
-      "title": "Dekódování pohybů fantomové končetiny z intraneurálních nahrávek",
-      "description": "Výzkumníci zaznamenali intraneurální aktivitu sciatického nervu u pacientů s amputací nad kolenem a pomocí spiking neural network dekódovali voliční pohyby fantomové nohy. Tento přístup překonal konvenční metody a ukázal separaci motorických a senzorických signálů v nervu, což otevírá cestu k obousměrným neuronálním rozhraním pro protézy.",
-      "slug": "decoding-phantom-limb-movements-from-intraneural-r",
-      "publishedAt": "2026-02-08T00:00:00+00:00",
-      "date": "2026-02-08 00:00:00",
-      "importance": 4,
-      "category": "neurotechnologie",
-      "urlToImage": null,
-      "url": "/tech-news/2026-02-08/decoding-phantom-limb-movements-from-intraneural-r/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Nature.com"
       },
       "companies": [],
       "people": []
