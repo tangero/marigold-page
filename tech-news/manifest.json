@@ -1,7 +1,47 @@
 {
-  "generated": "2026-02-15T05:36:54.969855+00:00",
-  "count": 162,
+  "generated": "2026-02-15T08:41:41.675886+00:00",
+  "count": 164,
   "articles": [
+    {
+      "title": "Šéf AI divize Microsoftu: Většina kancelářských prací může být automatizována do 12 měsíců",
+      "description": "Šéf AI společnosti Microsoft Mustafa Suleyman varuje, že většina kancelářských prací bude do 12 až 18 měsíců nahrazena umělou inteligencí díky rychlým pokrokům a globálnímu narušení napříč sektory.",
+      "slug": "microsoft-ai-head-says-majority-of-office-jobs-may",
+      "publishedAt": "2026-02-14T07:01:06+00:00",
+      "date": "2026-02-14 07:01:06",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://images.news18.com/ibnlive/uploads/2026/02/mustafa-2026-02-50ca6f920a6cfec4b9179fc9770934e1-16x9.jpg",
+      "url": "/tech-news/2026-02-14/microsoft-ai-head-says-majority-of-office-jobs-may/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "News18"
+      },
+      "companies": [
+        "Microsoft"
+      ],
+      "people": [
+        "Mustafa Suleyman"
+      ]
+    },
+    {
+      "title": "Velký, ale bouřlivý týden pro čínské AI modely. Přehled událostí",
+      "description": "Největší čínské technologické firmy spustily nové AI modely, které ukazují, jak drží krok s americkými konkurenty v oblasti robotiky a generování videa.",
+      "slug": "its-been-a-big-but-rocky-week-for-ai-models-from-c",
+      "publishedAt": "2026-02-14T06:47:34+00:00",
+      "date": "2026-02-14 06:47:34",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108200517-1758184475148-gettyimages-2160020925-tang-notitle240705_npe5f.jpeg?v=1770820625&w=1920&h=1080",
+      "url": "/tech-news/2026-02-14/its-been-a-big-but-rocky-week-for-ai-models-from-c/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Plně do AI: co udělal ByteDance, tvůrce TikToku, dál",
       "description": "ByteDance se sídlem v Pekingu, vlastník TikToku, se silně zaměřuje na umělou inteligenci po letech právních a soukromí kontroverzí. Jeho chatbot Doubao, spuštěný v roce 2023, se stal nejoblíbenějším AI asistentem v Číně s více než 100 miliony denních uživatelů a konkuruje službám od OpenAI a Google.",
