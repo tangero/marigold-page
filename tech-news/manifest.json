@@ -1,7 +1,125 @@
 {
-  "generated": "2026-02-15T12:52:14.465402+00:00",
-  "count": 173,
+  "generated": "2026-02-15T16:40:39.060539+00:00",
+  "count": 178,
   "articles": [
+    {
+      "title": "Jak Čína vybudovala průmysl čipů a proč to stále nestačí",
+      "description": "Čínský sektor umělé inteligence roste díky masivním investicím a startupům, ale vážně trpí nedostatkem pokročilých polovodičů. Americké exportní kontroly brání dovozu klíčových nástrojů pro jejich výrobu.",
+      "slug": "how-china-built-a-chip-industry-and-why-its-still-",
+      "publishedAt": "2026-02-14T15:48:49+00:00",
+      "date": "2026-02-14 15:48:49",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-76400,resizemode-75,msid-128352817/tech/technology/how-china-built-a-chip-industry-and-why-its-still-not-enough.jpg",
+      "url": "/tech-news/2026-02-14/how-china-built-a-chip-industry-and-why-its-still/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Jio, Anthropic, Ericsson a dalších 12 firem založily Alianci důvěryhodných technologií",
+      "description": "Přední globální technologické firmy včetně Jio Platforms, Anthropic a Ericsson založily Trusted Tech Alliance. Cílem aliance je zajistit transparentnost, bezpečnost a ochranu dat napříč celým technologickým stackem od konektivity po AI. Účastní 15 firem z Afriky, Asie, Evropy a Severní Ameriky.",
+      "slug": "jio-anthropic-ericsson-along-with-other-12-firms-l",
+      "publishedAt": "2026-02-14T15:14:36+00:00",
+      "date": "2026-02-14 15:14:36",
+      "importance": 4,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-16882,resizemode-75,msid-128352060/tech/technology/jio-anthropic-ericsson-along-with-other-12-firms-launch-trusted-tech-alliance.jpg",
+      "url": "/tech-news/2026-02-14/jio-anthropic-ericsson-along-with-other-12-firms-l/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Jio",
+        "Anthropic",
+        "Ericsson"
+      ],
+      "people": []
+    },
+    {
+      "title": "Rádiové vlny by mohly pomoci autonomním vozům vidět za rohy",
+      "description": "Systém HoloRadar umožňuje vozidlům detekovat objekty ukryté za zdmi nebo rohy pomocí rádiových vln. To by mohlo zabránit kolizím, jako byl nedávný incident s vozidlem Waymo.",
+      "slug": "radio-waves-could-help-driverless-cars-see-around-",
+      "publishedAt": "2026-02-14T15:13:00+00:00",
+      "date": "2026-02-14 15:13:00",
+      "importance": 4,
+      "category": "autonomní vozy",
+      "urlToImage": "https://www.popsci.com/wp-content/uploads/2026/02/waymo-texas.png?quality=85&w=1200",
+      "url": "/tech-news/2026-02-14/radio-waves-could-help-driverless-cars-see-around/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Popular Science"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Tento týdenní zajímavé technologické příběhy z webu (do 14. února)",
+      "description": "Každý týden prohledáváme web pro důležité, poučné a fascinující příběhy z vědy a technologie. Příspěvek poprvé vyšel na SingularityHub.",
+      "slug": "this-weeks-awesome-tech-stories-from-around-the-we",
+      "publishedAt": "2026-02-14T15:00:00+00:00",
+      "date": "2026-02-14 15:00:00",
+      "importance": 5,
+      "category": "technologické novink",
+      "urlToImage": "https://singularityhub.com/uploads/2026/02/blue-and-clear-glassballs-1.jpeg?auto=webp",
+      "url": "/tech-news/2026-02-14/this-weeks-awesome-tech-stories-from-around-the-we/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Singularity Hub"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Proč Jio, Anthropic, Ericsson a další založili Trusted Tech Alliance – vysvětleno",
+      "description": "Skupina 15 globálních firem včetně Jio Platforms a Anthropic založila Trusted Tech Alliance pro prosazování spolehlivé technologie. Podrobnosti zde.",
+      "slug": "why-jio-anthropic-ericsson-and-others-have-formed-",
+      "publishedAt": "2026-02-14T14:06:20+00:00",
+      "date": "2026-02-14 14:06:20",
+      "importance": 4,
+      "category": "technologická alianc",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2026/02/14/1600x900/logo/deal_1771075822989_1771075823222.jpg",
+      "url": "/tech-news/2026-02-14/why-jio-anthropic-ericsson-and-others-have-formed/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Livemint"
+      },
+      "companies": [
+        "Jio Platforms",
+        "Anthropic",
+        "Ericsson"
+      ],
+      "people": []
+    },
+    {
+      "title": "Meta přidává rozpoznávání obličejů do svých chytrých brýlí, které identifikuje lidi v reálném čase, v naději, že veřejnost bude příliš rozptýlena politickým chaosem",
+      "description": "Tato technologie je náchylná k zneužití. Článek se poprvé objevil na Futurism.",
+      "slug": "meta-adding-facial-recognition-to-its-smart-glasse",
+      "publishedAt": "2026-02-14T14:00:00+00:00",
+      "date": "2026-02-14 14:00:00",
+      "importance": 4,
+      "category": "rozpoznávání obličej",
+      "urlToImage": "https://futurism.com/wp-content/uploads/2026/02/meta-facial-recognition-glasses.jpg?quality=85&w=1200",
+      "url": "/tech-news/2026-02-14/meta-adding-facial-recognition-to-its-smart-glasse/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Futurism"
+      },
+      "companies": [
+        "Meta"
+      ],
+      "people": []
+    },
     {
       "title": "Šestnáct agentů Claude postavilo C kompilátor bez lidského zásahu... téměř",
       "description": "Anthropic nasadil šestnáct AI agentů Claude Opus 4.6 k autonomnímu vývoji C kompilátoru v Rustu od nuly. Agenti pracovali paralelně na sdíleném repozitáři, koordinovali změny a vytvořili kompilátor schopen sestavit Linux 6.9 kernel pro x86, ARM i RISC-V.",
@@ -44,28 +162,6 @@
       "people": [
         "Elon Musk"
       ]
-    },
-    {
-      "title": "Jio, Anthropic, Ericsson a dalších 12 firem spouští Trusted Tech Alliance",
-      "description": "Patnáct globálních firem z oblasti konektivity, cloudu, polovodičů a AI, včetně Jio Platforms, Anthropic a Ericssonu, založilo Trusted Tech Alliance. Aliance má zajistit společné standardy průhlednosti, bezpečnosti a ochrany dat bez ohledu na národnost dodavatele.",
-      "slug": "jio-anthropic-ericsson-along-with-other-12-firms-l",
-      "publishedAt": "2026-02-14T11:09:47+00:00",
-      "date": "2026-02-14 11:09:47",
-      "importance": 4,
-      "category": "technologická alianc",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/acytol/article70631937.ece/alternates/LANDSCAPE_1200/2026-02-14T095009Z_1588100259_RC2KLJA1AT6F_RTRMADP_3_SECURITY-MUNICH.JPG",
-      "url": "/tech-news/2026-02-14/jio-anthropic-ericsson-along-with-other-12-firms-l/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "companies": [
-        "Jio",
-        "Anthropic",
-        "Ericsson"
-      ],
-      "people": []
     },
     {
       "title": "Podezřelí ruští hackeři nasazují malware CANFAIL proti Ukrajině",
