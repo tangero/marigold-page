@@ -1,7 +1,213 @@
 {
-  "generated": "2026-02-14T20:37:47.701733+00:00",
-  "count": 164,
+  "generated": "2026-02-15T01:31:12.463083+00:00",
+  "count": 174,
   "articles": [
+    {
+      "title": "Pentagon použil Claude AI k únosu Madura – média",
+      "description": "Americká armáda aktivně použila model umělé inteligence Claude od Anthropic během operace na zatčení venezuelského prezidenta Nicoláse Madura minulý měsíc, podle zpráv Wall Street Journal a Axios. Technologie firmy hrála přímou roli v zahraniční razii.",
+      "slug": "pentagon-used-claude-ai-to-kidnap-maduro-media",
+      "publishedAt": "2026-02-14T00:43:14+00:00",
+      "date": "2026-02-14 00:43:14",
+      "importance": 5,
+      "category": "ai",
+      "urlToImage": "https://mf.b37mrtl.ru/files/2026.02/article/698fc62a20302767f83d68b3.jpg",
+      "url": "/tech-news/2026-02-14/pentagon-used-claude-ai-to-kidnap-maduro-media/",
+      "source": {
+        "emoji": "📰",
+        "id": "rt",
+        "name": "RT"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": []
+    },
+    {
+      "title": "Veřejně obchodovaná půjčovna na blockchainu Figure potvrdila únik dat zákazníků",
+      "description": "Půjčovna na blockchainu Figure oznámila, že hackeři získali přístup k datům zákazníků po úspěšném sociálním inženýrském útoku na zaměstnance.",
+      "slug": "publicly-traded-blockchain-lender-figure-confirms-",
+      "publishedAt": "2026-02-14T00:04:45+00:00",
+      "date": "2026-02-14 00:04:45",
+      "importance": 4,
+      "category": "kybernetika",
+      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/crime_hacker-gID_7.png",
+      "url": "/tech-news/2026-02-14/publicly-traded-blockchain-lender-figure-confirms/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Decrypt"
+      },
+      "companies": [
+        "Figure"
+      ],
+      "people": []
+    },
+    {
+      "title": "Jak Deep Fission snižuje náklady na jadernou energii o 80 procent",
+      "description": "Společnost Deep Fission vyvíjí technologie pro jaderné štěpení, která dramaticky snižuje náklady na výstavbu reaktorů. Tento pokrok podporuje renesanci jaderné energie v kontextu rostoucí poptávky po nízkouhlíkových zdrojích, zejména díky boomu umělé inteligence.",
+      "slug": "how-deep-fission-is-slashing-nuclear-costs-by-80-p",
+      "publishedAt": "2026-02-14T00:00:00+00:00",
+      "date": "2026-02-14 00:00:00",
+      "importance": 4,
+      "category": "jaderná energie",
+      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2026-02-13_cftabikn5w.jpg",
+      "url": "/tech-news/2026-02-14/how-deep-fission-is-slashing-nuclear-costs-by-80-p/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "OilPrice.com"
+      },
+      "companies": [
+        "Deep Fission"
+      ],
+      "people": []
+    },
+    {
+      "title": "Strategie dvojité reakce pro in situ zlepšení vodivosti umožňující vysoce výkonné vodné zinkové mikro-baterie",
+      "description": "Vědci představili strategii dvojité reakce v mikro-bateriích Zn || Bi2O3@Ag2O, kde první reakce zvyšuje vodivost pro druhou, což vede k výraznému nárůstu kapacity. Tento přístup dosahuje energetické hustoty kolem 19 000 μWh cm⁻² a výkonové hustoty nad 23 000 μW cm⁻², což překonává součet kapacit dvou samostatných baterií.",
+      "slug": "dual-reaction-strategy-for-in-situ-conductivity-en",
+      "publishedAt": "2026-02-14T00:00:00+00:00",
+      "date": "2026-02-14 00:00:00",
+      "importance": 4,
+      "category": "zinkové baterie",
+      "urlToImage": null,
+      "url": "/tech-news/2026-02-14/dual-reaction-strategy-for-in-situ-conductivity-en/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Nature.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Šílené plány xAI: X Money a emulovaní lidé letos, masové katapulty na Měsíci",
+      "description": "Neukojený dopyt po umělé inteligenci pohání výdaje v řádu bilionů dolarů, které podle futuristy Briana Wanga umožní rozvoj Měsíce a celé sluneční soustavy. Článek popisuje ambiciózní plány firmy xAI včetně finanční platformy X Money, simulací lidí a lunárních katapultů.",
+      "slug": "crazy-xai-plans-x-money-and-emulated-humans-this-y",
+      "publishedAt": "2026-02-13T23:34:14+00:00",
+      "date": "2026-02-13 23:34:14",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/02/Screenshot-2026-02-13-at-3.29.07-PM.jpg",
+      "url": "/tech-news/2026-02-13/crazy-xai-plans-x-money-and-emulated-humans-this-y/",
+      "source": {
+        "emoji": "📰",
+        "id": "next-big-future",
+        "name": "Next Big Future"
+      },
+      "companies": [
+        "xAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Meta plánuje rozpoznávání obličejů pro Ray-Ban AI chytré brýle",
+      "description": "Meta podle zpráv z The New York Times připravuje integraci technologie rozpoznávání obličejů do svých chytrých brýlí Ray-Ban AI, které vyvinula ve spolupráci s firmou EssilorLuxottica. Tento krok by umožnil brýlím identifikovat lidi v reálném čase pomocí vestavěné kamery.",
+      "slug": "meta-plans-facial-recognition-for-ray-ban-ai-smart",
+      "publishedAt": "2026-02-13T23:24:03+00:00",
+      "date": "2026-02-13 23:24:03",
+      "importance": 4,
+      "category": "rozpoznávání obličej",
+      "urlToImage": "https://cdn.iphoneincanada.ca/wp-content/uploads/2024/07/Ray-Ban-Meta-6.jpg",
+      "url": "/tech-news/2026-02-13/meta-plans-facial-recognition-for-ray-ban-ai-smart/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "iPhone in Canada"
+      },
+      "companies": [
+        "Meta",
+        "EssilorLuxottica"
+      ],
+      "people": []
+    },
+    {
+      "title": "HENSOLDT a Helsing spojují síly pro autonomní bojové letadlo CA-1 Europa",
+      "description": "Dvě přední evropské obranné technologické společnosti HENSOLDT a Helsing uzavřely strategické partnerství zaměřené na systémy vzdušného boje podporované umělou inteligencí. Spolupráce začne na autonomním bojovém letadle CA-1 Europa, které posílí evropskou obrannou suverenitu.",
+      "slug": "hensoldt-and-helsing-join-forces-for-ca-1-europa-a",
+      "publishedAt": "2026-02-13T23:00:00+00:00",
+      "date": "2026-02-13 23:00:00",
+      "importance": 4,
+      "category": "obranné technologie",
+      "urlToImage": "https://soldiersystems.net/wp-content/uploads/2026/02/img_6991.jpg",
+      "url": "/tech-news/2026-02-13/hensoldt-and-helsing-join-forces-for-ca-1-europa-a/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Soldiersystems.net"
+      },
+      "companies": [
+        "HENSOLDT",
+        "Helsing"
+      ],
+      "people": []
+    },
+    {
+      "title": "Novozélanďan Chris Liddell nastoupil do rady AI giganta Anthropic před očekávaným IPO v hodnotě 630 miliard dolarů",
+      "description": "Chris Liddell působil jako zástupce šéfa štábu v prvním prezidentském mandátu Donalda Trumpa. Anthropic, tvůrce chatbota Claude, se připravuje na velký burzovní debut.",
+      "slug": "kiwi-chris-liddell-recruited-by-ai-giant-anthropic",
+      "publishedAt": "2026-02-13T22:45:06+00:00",
+      "date": "2026-02-13 22:45:06",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/3SW43EPY55CBRPPAOHMJKDS3RE.jpg?auth=9a01beb08763ac4f76d336619de2482e8cbdf0ffc924123c78fc19fc2edde171&width=1200&height=675&quality=70&focal=964%2C289&smart=false",
+      "url": "/tech-news/2026-02-13/kiwi-chris-liddell-recruited-by-ai-giant-anthropic/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "New Zealand Herald"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": [
+        "Chris Liddell",
+        "Donald Trump"
+      ]
+    },
+    {
+      "title": "Navzdory spekulacím o zpožděních Apple potvrzuje vydání vylepšené Siri v roce 2026",
+      "description": "Apple tvrdí, že revidovaná verze Siri s personalizací na bázi Apple Intelligence vyjde v roce 2026, přestože se objevily zvěsti o technických problémech a možných odkladech. Společnost prohlásila, že zůstává na plánu.",
+      "slug": "despite-rumored-delays-apple-says-revamped-siri-is",
+      "publishedAt": "2026-02-13T22:44:01+00:00",
+      "date": "2026-02-13 22:44:01",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.mactrast.com/wp-content/uploads/2024/09/Apple-iPhone-16-Pro-Siri.jpg",
+      "url": "/tech-news/2026-02-13/despite-rumored-delays-apple-says-revamped-siri-is/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Mactrast.com"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Tesla je stále 'ještě daleko' od funkčních humanoidních robotů",
+      "description": "Investoři jako Ross Gerber z Gerber Kawasaki Wealth & Investment Management vyjadřují skeptický postoj k plánům Elona Muska na rychlý vývoj humanoidních robotů Optimus. Přesto Musk trvá na tom, že tyto roboty budou největším produktem společnosti a brzy vstoupí do masové produkce.",
+      "slug": "tesla-is-still-a-long-way-off-from-functional-huma",
+      "publishedAt": "2026-02-13T22:35:00+00:00",
+      "date": "2026-02-13 22:35:00",
+      "importance": 4,
+      "category": "robotika",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/meBBknq3oWvy7VzMTxje9g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/6094ce30-0929-11f1-befe-81aff0611f95",
+      "url": "/tech-news/2026-02-13/tesla-is-still-a-long-way-off-from-functional-huma/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "Tesla"
+      ],
+      "people": [
+        "Elon Musk",
+        "Ross Gerber"
+      ]
+    },
     {
       "title": "Pentagon připravuje obranný průmysl na příliv investic do AI na konferenci v San Diegu",
       "description": "Vojenskí lídři informovali zástupce obranného průmyslu, že nové směrnice z vrcholu, vyšší tolerance k riziku a investiční záměry staví Pentagon plně na stranu umělé inteligence.",
