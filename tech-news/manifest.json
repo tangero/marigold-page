@@ -1,7 +1,127 @@
 {
-  "generated": "2026-02-15T16:40:39.060539+00:00",
-  "count": 178,
+  "generated": "2026-02-15T20:35:47.305874+00:00",
+  "count": 184,
   "articles": [
+    {
+      "title": "Valentýnské zklamání: OpenAI oficiálně ukončuje GPT-4o",
+      "description": "OpenAI oficiálně ukončilo model GPT-4o, což vyvolalo smutek mezi uživateli, kteří v něm viděli přátelského společníka. Společnost to zdůvodňuje potřebou bezpečnějšího a méně lichotivého chování umělé inteligence.",
+      "slug": "the-valentines-day-heartbreak-openai-officially-re",
+      "publishedAt": "2026-02-14T20:01:40+00:00",
+      "date": "2026-02-14 20:01:40",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2026/02/OpenAI-retires-GPT-4o-ChatGPT-AI-model-featured.jpg",
+      "url": "/tech-news/2026-02-14/the-valentines-day-heartbreak-openai-officially-re/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Headlines"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Kanadsko-německá deklarace o umělé inteligenci signalizuje další odklon od USA",
+      "description": "Kanada a Německo podepsaly společnou deklaraci záměru o umělé inteligenci, čímž Ottawa posiluje snahy o diverzifikaci globálních partnerství v době měnících se obchodních priorit kvůli mezinárodním napětím.",
+      "slug": "canada-germany-ai-declaration-signals-further-drif",
+      "publishedAt": "2026-02-14T19:36:05+00:00",
+      "date": "2026-02-14 19:36:05",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://globalnews.ca/wp-content/uploads/2026/01/755523058dc2058a92fd2536112772fda8739e57b0402e5e492c5623d8700e50.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+      "url": "/tech-news/2026-02-14/canada-germany-ai-declaration-signals-further-drif/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Global News"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Japonské přímé zahraniční investice v Indii překročily 2,7 lakh crore rupií, působí zde 1 400 firem",
+      "description": "Japonské přímé zahraniční investice v Indii překročily 2,7 lakh crore rupií, přičemž v zemi operuje kolem 1 400 japonských společností. Japonsko podporuje Indii ve výstavbě infrastruktury a školení pracovníků, s plány na rozšíření spolupráce v oblastech umělé inteligence, polovodičů a obnovitelných zdrojů.",
+      "slug": "japanese-fdi-in-india-crosses-rs-27-lakh-crore-140",
+      "publishedAt": "2026-02-14T18:35:05+00:00",
+      "date": "2026-02-14 18:35:05",
+      "importance": 4,
+      "category": "zahraniční investice",
+      "urlToImage": "https://img.etimg.com/thumb/msid-128358120,width-1200,height-630,imgsize-141110,overlay-economictimes/articleshow.jpg",
+      "url": "/tech-news/2026-02-14/japanese-fdi-in-india-crosses-rs-27-lakh-crore-140/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Musk předkládá plán na lunární 'mass driver' a možnost setkání s mimozemšťany",
+      "description": "Elon Musk během projevu o xAI a SpaceX načrtl ambiciózní vizi budoucnosti včetně fúze těchto firem, lunárních továren s 'mass driverem' pro vypouštění AI satelitů a expanze do hvězdného systému. Zmínil i potenciální setkání s mimozemskými civilizacemi.",
+      "slug": "musk-outlines-plan-for-lunar-mass-driver-and-possi",
+      "publishedAt": "2026-02-14T18:34:55+00:00",
+      "date": "2026-02-14 18:34:55",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://www.unexplained-mysteries.com/images/news_large_retina/news-hq-elon-musk-sitting.jpg",
+      "url": "/tech-news/2026-02-14/musk-outlines-plan-for-lunar-mass-driver-and-possi/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Unexplained-mysteries.com"
+      },
+      "companies": [
+        "xAI",
+        "SpaceX"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Přílet a uvítací projevy posádky NASA SpaceX Crew-12",
+      "description": "Astronauti NASA Jessica Meir a Jack Hathaway, astronautka Evropské vesmírné agentury Sophie Adenot a kosmonaut Roskosmosu Andrey Fedyaev dorazili na Mezinárodní vesmírnou stanici v rámci mise SpaceX Crew-12. Během pobytu provedou vědecké experimenty a technologické testy zaměřené na přínos pro život na Zemi i ve vesmíru.",
+      "slug": "nasas-spacex-crew-12-arrival-welcome-remarks",
+      "publishedAt": "2026-02-14T18:09:03+00:00",
+      "date": "2026-02-14 18:09:03",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": null,
+      "url": "/tech-news/2026-02-14/nasas-spacex-crew-12-arrival-welcome-remarks/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "companies": [
+        "SpaceX",
+        "NASA"
+      ],
+      "people": []
+    },
+    {
+      "title": "Šéf AI divize Microsoftu: Umělá inteligence převezme většinu kancelářské práce do příštího roku",
+      "description": "Vedoucí pracovník Microsoftu uvedl, že „většina těchto úkolů bude plně automatizována umělou inteligencí během příštích 12 až 18 měsíců.“",
+      "slug": "microsoft-ai-chief-says-artificial-intelligence-wi",
+      "publishedAt": "2026-02-14T16:42:01+00:00",
+      "date": "2026-02-14 16:42:01",
+      "importance": 5,
+      "category": "ai",
+      "urlToImage": "https://www.westernjournal.com/wp-content/uploads/2026/02/Ben-Working-Feature-Image-2026-02-13T170826.291.jpg",
+      "url": "/tech-news/2026-02-14/microsoft-ai-chief-says-artificial-intelligence-wi/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Westernjournal.com"
+      },
+      "companies": [
+        "Microsoft"
+      ],
+      "people": []
+    },
     {
       "title": "Jak Čína vybudovala průmysl čipů a proč to stále nestačí",
       "description": "Čínský sektor umělé inteligence roste díky masivním investicím a startupům, ale vážně trpí nedostatkem pokročilých polovodičů. Americké exportní kontroly brání dovozu klíčových nástrojů pro jejich výrobu.",
