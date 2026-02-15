@@ -1,7 +1,190 @@
 {
-  "generated": "2026-02-15T08:41:41.675886+00:00",
-  "count": 164,
+  "generated": "2026-02-15T12:52:14.465402+00:00",
+  "count": 173,
   "articles": [
+    {
+      "title": "Šestnáct agentů Claude postavilo C kompilátor bez lidského zásahu... téměř",
+      "description": "Anthropic nasadil šestnáct AI agentů Claude Opus 4.6 k autonomnímu vývoji C kompilátoru v Rustu od nuly. Agenti pracovali paralelně na sdíleném repozitáři, koordinovali změny a vytvořili kompilátor schopen sestavit Linux 6.9 kernel pro x86, ARM i RISC-V.",
+      "slug": "sixteen-claude-agents-built-a-c-compiler-without-h",
+      "publishedAt": "2026-02-14T12:00:00+00:00",
+      "date": "2026-02-14 12:00:00",
+      "importance": 5,
+      "category": "umělá inteligence",
+      "urlToImage": "https://res.infoq.com/news/2026/02/claude-built-c-compiler/en/headerimage/claude-built-c-compiler-1771067001094.jpeg",
+      "url": "/tech-news/2026-02-14/sixteen-claude-agents-built-a-c-compiler-without-h/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "InfoQ.com"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": []
+    },
+    {
+      "title": "V Muskovi věřit? Šéf Tesly sází, že hmota a energie nahradí americký dolar jako budoucí měnu",
+      "description": "Šéf Tesly a zakladatel SpaceX Elon Musk předpovídá budoucnost, kde hmota a energie nahradí americký dolar jako globální měnu. To souvisí s jeho vizemi orbitálních solárních výpočetních center poháněných AI a expanzí SpaceX.",
+      "slug": "in-musk-we-trust-tesla-ceo-bets-mass-and-energy-wi",
+      "publishedAt": "2026-02-14T11:46:36+00:00",
+      "date": "2026-02-14 11:46:36",
+      "importance": 4,
+      "category": "kryptoměny",
+      "urlToImage": "https://s.yimg.com/os/en/Benzinga/635f4757c462ec468503077b8bd4ae99",
+      "url": "/tech-news/2026-02-14/in-musk-we-trust-tesla-ceo-bets-mass-and-energy-wi/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "Tesla",
+        "SpaceX"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Jio, Anthropic, Ericsson a dalších 12 firem spouští Trusted Tech Alliance",
+      "description": "Patnáct globálních firem z oblasti konektivity, cloudu, polovodičů a AI, včetně Jio Platforms, Anthropic a Ericssonu, založilo Trusted Tech Alliance. Aliance má zajistit společné standardy průhlednosti, bezpečnosti a ochrany dat bez ohledu na národnost dodavatele.",
+      "slug": "jio-anthropic-ericsson-along-with-other-12-firms-l",
+      "publishedAt": "2026-02-14T11:09:47+00:00",
+      "date": "2026-02-14 11:09:47",
+      "importance": 4,
+      "category": "technologická alianc",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/acytol/article70631937.ece/alternates/LANDSCAPE_1200/2026-02-14T095009Z_1588100259_RC2KLJA1AT6F_RTRMADP_3_SECURITY-MUNICH.JPG",
+      "url": "/tech-news/2026-02-14/jio-anthropic-ericsson-along-with-other-12-firms-l/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "companies": [
+        "Jio",
+        "Anthropic",
+        "Ericsson"
+      ],
+      "people": []
+    },
+    {
+      "title": "Podezřelí ruští hackeři nasazují malware CANFAIL proti Ukrajině",
+      "description": "Nová APT skupina údajně spojená s ruskou inteligencí útočí na ukrajinské obranné, vládní a energetické instituce pomocí malware CANFAIL. Skupina využívá phishingové kampaně a velké jazykové modely pro přípravu útoků, což odhalil Google Threat Intelligence Group.",
+      "slug": "suspected-russian-hackers-deploy-canfail-malware-a",
+      "publishedAt": "2026-02-14T11:05:33+00:00",
+      "date": "2026-02-14 11:05:33",
+      "importance": 5,
+      "category": "kybernetika",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2026/02/image-30.png",
+      "url": "/tech-news/2026-02-14/suspected-russian-hackers-deploy-canfail-malware-a/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Jak by se AI mohla sežrat sama: Konkurenti mohou sondovat modely, ukrást jejich tajemství a klonovat je",
+      "description": "Google a OpenAI varují, že konkurenti včetně čínské DeepSeek zkoumají jejich modely AI, aby ukradli základní uvažovací mechanismy a převzali je do svých systémů. Tento proces nazývá Google „distillation attacks“ a detekoval ho v reálném čase na modelu Gemini.",
+      "slug": "how-ai-could-eat-itself-competitors-can-probe-mode",
+      "publishedAt": "2026-02-14T11:02:11+00:00",
+      "date": "2026-02-14 11:02:11",
+      "importance": 5,
+      "category": "umělá inteligence",
+      "urlToImage": "https://regmedia.co.uk/2017/02/21/clone_army_star_wars.jpg",
+      "url": "/tech-news/2026-02-14/how-ai-could-eat-itself-competitors-can-probe-mode/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "companies": [
+        "Google",
+        "OpenAI",
+        "DeepSeek"
+      ],
+      "people": []
+    },
+    {
+      "title": "Senátoři bijí na poplach: Firmy s umělou inteligencí nalévají miliony do voleb v USA",
+      "description": "„Američané nejsou vůbec připraveni na transformační a radikální dopad, který to bude mít na naši společnost,“ řekl senátor Bernie Sanders (nezávislý za Vermont) o umělé inteligenci.",
+      "slug": "senators-sound-alarm-as-ai-companies-pour-millions",
+      "publishedAt": "2026-02-14T11:00:17+00:00",
+      "date": "2026-02-14 11:00:17",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.huffingtonpost.com/asset/698fa6731b000075664cbf2e.jpeg?ops=1200_630",
+      "url": "/tech-news/2026-02-14/senators-sound-alarm-as-ai-companies-pour-millions/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "HuffPost"
+      },
+      "companies": [],
+      "people": [
+        "Bernie Sanders"
+      ]
+    },
+    {
+      "title": "ETtech Deals Digest: Startupy získaly tento týden 219,7 milionu dolarů; nárůst o 29,5 % oproti loňsku",
+      "description": "Počet transakcí tento týden vzrostl na 39 oproti 38 v odpovídajícím týdnu minulého roku. Tento týdenní objem byl o 10,8 % vyšší než 198,2 milionu dolarů získaných v předchozím týdnu letošního roku.",
+      "slug": "ettech-deals-digest-startups-raise-2197-million-th",
+      "publishedAt": "2026-02-14T10:30:42+00:00",
+      "date": "2026-02-14 10:30:42",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1349127,resizemode-75,msid-128343642/tech/funding/ettech-deals-digest-startups-raise-219-7-million-this-week-up-29-5-yoy.jpg",
+      "url": "/tech-news/2026-02-14/ettech-deals-digest-startups-raise-2197-million-th/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Fotónový čip slibuje 100násobně rychlejší a efektivnější výkon než Nvidia A100",
+      "description": "Výzkumníci z Číny vyvinuli plně fotonický procesor LightGen, který zvládá velké AI modely s rychlostmi a efektivitou o řády vyššími než tradiční křemíkový hardware. Čip umožňuje složité generativní úlohy, jako je tvorba videa v vysokém rozlišení nebo 3D modelování.",
+      "slug": "light-based-chip-claims-100-faster-more-efficient-",
+      "publishedAt": "2026-02-14T10:26:00+00:00",
+      "date": "2026-02-14 10:26:00",
+      "importance": 5,
+      "category": "tech",
+      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/A-conceptual-image-of-a-photonic-chip.jpg",
+      "url": "/tech-news/2026-02-14/light-based-chip-claims-100-faster-more-efficient/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Notebookcheck.net"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Čínský nejvyšší soud: Řidiči zodpovědní i přes autonomní technologie",
+      "description": "Čínský nejvyšší soud vydal směrnou judikaturu, podle níž zůstávají řidiči odpovědní za bezpečnost vozidla i po aktivaci asistenčních systémů autonomního řízení. V září byl řidič uvězněn a pokutován za plné spoléhání na systém v opilém stavu.",
+      "slug": "china-top-court-says-drivers-responsible-despite-a",
+      "publishedAt": "2026-02-14T09:39:00+00:00",
+      "date": "2026-02-14 09:39:00",
+      "importance": 4,
+      "category": "autonomní vozy",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--VWmtsKTO--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/02/14/000_33p86xx.jpg?itok=CxeMh2R4",
+      "url": "/tech-news/2026-02-14/china-top-court-says-drivers-responsible-despite-a/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNA"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Šéf AI divize Microsoftu: Většina kancelářských prací může být automatizována do 12 měsíců",
       "description": "Šéf AI společnosti Microsoft Mustafa Suleyman varuje, že většina kancelářských prací bude do 12 až 18 měsíců nahrazena umělou inteligencí díky rychlým pokrokům a globálnímu narušení napříč sektory.",
