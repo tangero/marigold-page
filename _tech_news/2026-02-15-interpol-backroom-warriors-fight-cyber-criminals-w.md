@@ -1,48 +1,46 @@
 ---
 author: Marisa Aigen
-category: kyberkriminalita
-date: '2026-02-15 03:58:51'
-description: Umělá inteligence mění dynamiku boje Interpolu proti kyberkriminalitě
-  v jeho pokročilých operačních centrech v Singapuru, kde kriminálníci vytvářejí dokonalé
-  phishingové e-maily a falešná videa vládních představitelů. Ředitel cybercrime Interpolu
-  Neal Jetton označil zneužití AI za největší současnou hrozbu.
+category: kyberzločin
+date: '2026-02-15 04:33:27'
+description: Umělá inteligence mění dynamiku boje Interpolu proti kyberzločinu v jeho
+  technologicky vyspělých centrech v Singapuru. Zločinecké syndikáty strukturované
+  jako nadnárodní firmy využívají AI k tvorbě sofistikovaných phishingových e-mailů,
+  deepfake videí a hlasových napodobením pro útoky na jednotlivce, státy i firmy za
+  miliardy dolarů.
 importance: 4
 layout: tech_news_article
-original_title: Interpol backroom warriors fight cyber criminals 'weaponising' AI
-publishedAt: '2026-02-15T03:58:51+00:00'
+original_title: Interpol backroom warriors fight cyber criminals 'weaponizing' AI
+publishedAt: '2026-02-15T04:33:27+00:00'
 slug: interpol-backroom-warriors-fight-cyber-criminals-w
 source:
   emoji: 📰
-  id: the-times-of-india
-  name: The Times of India
-title: Neviditelní bojovníci Interpolu bojují proti kyberzločincům zneužívajícím AI
-url: https://economictimes.indiatimes.com/tech/technology/interpol-backroom-warriors-fight-cyber-criminals-weaponising-ai/articleshow/128370406.cms
-urlToImage: https://img.etimg.com/thumb/width-1200,height-900,imgsize-116714,resizemode-75,msid-128370406/tech/technology/interpol-backroom-warriors-fight-cyber-criminals-weaponising-ai.jpg
-urlToImageBackup: https://img.etimg.com/thumb/width-1200,height-900,imgsize-116714,resizemode-75,msid-128370406/tech/technology/interpol-backroom-warriors-fight-cyber-criminals-weaponising-ai.jpg
+  id: null
+  name: Japan Today
+title: Interpolovi bojovníci z kanceláří bojují proti kyberzločincům zneužívajícím
+  AI
+url: https://japantoday.com/category/world/interpol-backroom-warriors-fight-cyber-criminals-%27weaponising%27-ai
 ---
 
 ### Souhrn
-Interpol vede v Singapuru intenzivní boj proti kyberzločincům, kteří využívají umělou inteligenci k vytváření sofistikovaných útoků, jako jsou bezchybné phishingové e-maily nebo deepfake videa verejných osobností. Tato centra, součást Global Complex for Innovation, analyzují obrovské objemy dat k prevenci ransomwarových útoků a podvodů s identitou. Neal Jetton, ředitel oddělení cyberkriminality Interpolu původem z americké Tajné služby, varuje, že zneužití AI představuje největší riziko kvůli rychlému rozvoji technologie.
+V singapurském centru Interpolu Global Complex for Innovation specialisté analyzují masivní objemy dat, aby zabránili ransomwarovým útokům a podvodům s identitou. Kyberzločinci zneužívají AI k vytváření perfektně napsaných phishingových e-mailů bez gramatických chyb, falešných videí vládních představitelů a hlasových klonů pro podvody s investicemi. Ředitel oddělení cybercrime Neal Jetton, původně z americké Secret Service, označil tuto weaponizaci AI za největší aktuální hrozbu.
 
 ### Klíčové body
-- Kriminálníci používají AI k generování dokonalých phishingových e-mailů bez gramatických chyb a deepfake videí pro podvody s investicemi.
-- Syndikáty kyberzločinců fungují jako nadnárodní firmy a prodávají hotové nástroje na dark webu i nízkokvalifikovaným pachatelům.
-- Největší obava je obrovský objem útoků, který se díky AI bude dále zvyšovat.
-- Interpolova centra v Singapuru slouží k analýze dat a koordinaci mezinárodního boje proti ransomwaru a impersonačním podvodům.
-- Cíle útoků jsou jednotlivci, státy i korporace s potenciálními ztrátami v miliardách dolarů.
+- Kyberzločinci používají AI k generování autenticky působících phishingových zpráv, deepfake videí a hlasových napodobením pro schvalování podvodných investic.
+- Nízkokvalifikovaní zločinci kupují hotové nástroje pro hackování a podvody na dark webu, což rozšiřuje okruh pachatelů.
+- Obrovský objem útoků roste díky AI, která umožňuje masovou produkci obsahu.
+- Interpolovo centrum v Singapuru slouží k globální koordinaci a prevenci velkých incidentů.
+- Zločinecké skupiny fungují jako strukturované firmy s profesionální organizací.
 
 ### Podrobnosti
-V Interpolově Global Complex for Innovation v Singapuru, který slouží jako high-tech centrum pro boj proti globální kriminalitě, specialisté neustále monitorují a analyzují petabajty dat z celého světa. Tato zařízení umožňují rychlou detekci vzorů v útocích, jako je ransomware – škodlivý software, který šifruje data obětí a vymáhá výkupné v kryptoměnách. Phishingové e-maily, tradičně prozrazené chybami v pravopise, nyní AI generuje tak dokonale, že oklámou i zběhlé uživatele; slouží k získání přihlašovacích údajů nebo šíření malwaru.
+Singapurské centrum Interpolu Global Complex for Innovation, umístěné nedaleko Botanic Gardens, představuje klíčový uzel v globálním boji proti kyberzločinu. Zde týmy specialistů procházejí terabajty dat z různých zdrojů, aby identifikovaly vzorce útoků a předcházely nim. Neal Jetton, který byl vyslán do Interpolu z americké Secret Service odpovědné za ochranu prezidenta, zdůrazňuje, že AI umožňuje zločincům překonat tradiční bariéry. Například generativní modely jako pokročilé jazykové modely (LLM) dokážou vytvářet phishingové e-maily bez stylistických nebo gramatických chyb, což je dříve typický znak amatérských útoků. Stejně tak nástroje pro deepfake generují video a hlasové klony veřejných osobností, které pak schvalují fiktivní investiční příležitosti, což oklameje oběti do odeslání peněz.
 
-Deepfakes, videa nebo hlasové záznamy vytvořené AI, napodobují známé osobnosti k podpoře podvodných investic. Například falešné video vládního úředníka může přesvědčit oběti k převodu peněz. Neal Jetton, který přišel do Interpolu z US Secret Service odpovědné za ochranu prezidenta, zdůrazňuje, že kriminální syndikáty jsou organizované jako korporace s divizemi na vývoj nástrojů, distribuci a praní špinavých peněz. Na dark webu – uzavřené části internetu dostupné přes speciální prohlížeče jako Tor – se prodávají hotové balíčky: AI modely pro generování textu, hlasu nebo videa, které zvládne i amatér s chytrým telefonem.
-
-Tato centra Interpolu koordinují akce mezi 196 členskými státy, sdílejí inteligenci a testují obranné technologie. Jetton upozorňuje na exponenciální růst útoků: zatímco dříve byly cíle vybírány selektivně, AI umožňuje masové kampaně. Příkladem je nárůst hlasových podvodů, kde AI klonuje hlasy pro telefonické scamování. Kriticky lze poznamenat, že i když Interpol posiluje kapacity, kriminálníci mají výhodu rychlosti inovací – nové AI modely jako ty založené na velkých jazykových modelech (LLM) se objevují týdně a okamžitě se adaptují na obranu.
+Tyto nástroje jsou dostupné na dark webu jako ready-made balíčky – od malware pro ransomware až po AI skripty pro social engineering. Stačí základní znalosti a smartphone, aby kdokoli spustil útok. Jetton upozorňuje na rychlý růst objemu: AI umožňuje automatizaci a škálování, takže jednotlivec může generovat tisíce personalizovaných zpráv denně. Interpol zde koordinuje mezinárodní spolupráci, sdílí intelligence a trénink pro policie. Příkladem je prevence impersonačních scamů, kde AI klonuje hlasy pro telefonické podvody, nebo ransomware útoky na firmy, kde AI pomáhá skrývat stopy. Centru pomáhá i pokročilá analýza dat s využitím strojového učení k detekci anomálií v síťovém provozu.
 
 ### Proč je to důležité
-Zneužití AI v kyberkriminalitě snižuje vstupní bariéry, což znamená, že útoky se stanou běžnějšími a dostupnějšími pro širokou škálu pachatelů. Pro jednotlivce to znamená vyšší riziko finančních ztrát z podvodů, pro firmy narušení operací ransomwarovými útoky a pro státy ohrožení národní bezpečnosti deepfakes. V širším kontextu to urychluje závod ve vývoji detekčních systémů založených na AI, které rozpoznávají anomálie v textech nebo videích. Bez masového vzdělávání uživatelů a legislativy regulující AI nástroje (např. omezení prodeje na dark webu) se kočičí a myšiní hra bude komplikovat. Interpolovo úsilí podtrhuje nutnost globální spolupráce, ale ukazuje i limity státních institucí oproti decentralizované kriminální síti.
+Weaponizace AI demokratizuje kyberzločin a snižuje vstupní bariéry, což vede k explozivnímu růstu útoků na jednotlivce i infrastrukturu. Pro uživatele to znamená vyšší riziko: každý s chytrým telefonem je potenciálním cílem personalizovaných podvodů, kde AI analyzuje sociální sítě pro targeted phishing. V průmyslu to zvyšuje náklady na obranu – firmy musí investovat do AI detekce deepfaků a anomaly detection systémů. V širším kontextu to podtrhuje nutnost regulace AI nástrojů, jako je omezení open-source modelů pro generativní obsah, a mezinárodní spolupráce typu Interpol. Pokud se trend neobrátí, objem útoků překoná kapacity obrany, což ohrozí ekonomiku za miliardy dolarů ročně.
 
 ---
 
-[Číst původní článek](https://economictimes.indiatimes.com/tech/technology/interpol-backroom-warriors-fight-cyber-criminals-weaponising-ai/articleshow/128370406.cms)
+[Číst původní článek](https://japantoday.com/category/world/interpol-backroom-warriors-fight-cyber-criminals-%27weaponising%27-ai)
 
-**Zdroj:** 📰 The Times of India
+**Zdroj:** 📰 Japan Today

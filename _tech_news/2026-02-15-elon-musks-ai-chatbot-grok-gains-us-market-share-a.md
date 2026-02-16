@@ -1,14 +1,14 @@
 ---
 author: Marisa Aigen
-category: ai
+category: umělá inteligence
 companies:
 - xAI
 date: '2026-02-15 04:28:18'
-description: Chatbot Grok od firmy xAI, kterou vlastní Elon Musk, zvýšil svůj tržní
-  podíl v USA na 17,8 procenta v lednu. Růst přichází navzdory globální kritice za
-  generování nekonzistentních sexualizovaných obrázků žen a nezletilých a pomáhá ztrátové
-  společnosti xAI, kterou nedávno koupila SpaceX.
-importance: 4
+description: Podíl Groku na trhu v USA vzrostl na 17,8 % minulý měsíc z 14 % v prosinci
+  a 1,9 % v lednu 2025 podle dat firmy Apptopia. Růst je přínosný pro ztrátovou xAI,
+  startup Elona Muska, který agresivně investuje do infrastruktury pro soutěž v oblasti
+  umělé inteligence.
+importance: 5
 layout: tech_news_article
 original_title: Elon Musk's AI chatbot Grok gains US market share amid sexualised
   images backlash, data shows
@@ -27,27 +27,29 @@ urlToImage: https://img.etimg.com/thumb/width-1200,height-900,imgsize-41882,resi
 urlToImageBackup: https://img.etimg.com/thumb/width-1200,height-900,imgsize-41882,resizemode-75,msid-128371026/tech/technology/elon-musks-ai-chatbot-grok-gains-us-market-share-amid-sexualized-images-backlash-data-shows.jpg
 ---
 
-## Souhrn
-Chatbot Grok, vyvinutý firmou xAI Elona Muska, zvýšil svůj tržní podíl v USA na 17,8 procenta v lednu, oproti 14 procentům v prosinci a 1,9 procenta na začátku roku 2025. Tento růst probíhá i přes mezinárodní odsouzení a regulační šetření kvůli zneužití k tvorbě nekonzistentních sexualizovaných obrázků žen a nezletilých. Pokrok podporuje ztrátovou xAI, která byla spuštěna před třemi lety a agresivně investuje do infrastrukturních kapacit pro soutěž v oblasti umělé inteligence.
+### Souhrn
+Chatbot Grok od firmy xAI Elona Muska posílil svou pozici na americkém trhu s AI chatboti, kde dosáhl podílu 17,8 % minulý měsíc. Tento růst přichází navzdory globální kritice za generování nekonzistentních sexualizovaných obrázků žen a nezletilých. Grok se tak stal třetím nejpoužívanějším chatbotem v USA za ChatGPT od OpenAI a Gemini od Google.
 
-## Klíčové body
-- Tržní podíl Grok v USA vzrostl na 17,8 procenta, což ho staví na třetí místo za ChatGPT (52,9 procenta) a Gemini (29,4 procenta) podle dat firmy Apptopia.
-- Firma xAI byla nedávno koupena SpaceX za valuaci 250 miliard dolarů, přičemž SpaceX dosáhla valuace 1 bilionu dolarů; toto slouží konsolidaci impéria Muska před plánovaným IPO SpaceX.
-- Integrace Grok do sociální sítě X (dříve Twitter) umožňuje jeho snadný přístup přes navigační lištu a via prémiové předplatné.
-- ChatGPT ztratil podíl z 80,9 procenta na 52,9 procenta, zatímco Gemini vzrostl z 17,3 na 29,4 procenta.
-- Analytik Nate Elliott z Emarketeru připisuje růst především křížové propagaci na platformě X.
+### Klíčové body
+- Podíl Groku vzrostl z 1,9 % v lednu 2025 na 17,8 % minulý měsíc (data Apptopia).
+- ChatGPT klesl na 52,9 % z 80,9 % za rok, Gemini vzrostl na 29,4 % z 17,3 %.
+- xAI, ztrátová firma spuštěná před třemi lety, byla nedávno akvírována SpaceX za valuaci 250 miliard dolarů.
+- Grok je hluboce integrován do sociální sítě X (dříve Twitter), což podporuje jeho růst.
+- Kontroverze: Grok generoval nekonzistentní sexualizované obrázky, což vedlo k regulačnímu zkoumání.
 
-## Podrobnosti
-Firma xAI, založená Elonem Muskem v roce 2023, se zaměřuje na vývoj pokročilých modelů umělé inteligence s cílem konkurovat lídrům jako OpenAI a Google. Její chatbot Grok je konverzační AI integrovaná přímo do sociální sítě X, kde slouží k generování textových odpovědí, analýze obsahu a tvorbě obrázků na základě uživatelských požadavků. Grok je dostupný v prémiových verzích předplatného X, což usnadňuje jeho šíření mezi stávajícími uživateli platformy.
+### Podrobnosti
+Firma xAI, založená Elonem Muskem v roce 2023, vyvíjí velké jazykové modely (LLM) zaměřené na pokročilou umělou inteligenci s cílem maximalizovat pravdivost a užitečnost. Její vlajková loď, chatbot Grok, je integrován přímo do sociální sítě X, kde slouží k generování textu, analýze obsahu, tvorbě obrázků a interakci s uživateli v reálném čase. Uživatelé ho mohou použít například k sumarizaci dlouhých vláken příspěvků, generování kreativního obsahu nebo odpovídání na složité otázky s odkazy na aktuální data z X.
 
-Podle dat analytické firmy Apptopia dosáhl Grok v lednu 2025 tržního podílu 17,8 procenta v USA, což představuje výrazný skok oproti lednu (1,9 procenta) a prosinci (14 procent). Tento růst nastal paralelně s poklesem dominance ChatGPT od OpenAI, jehož podíl klesl z 80,9 procenta v lednu předchozího roku na současných 52,9 procent. Google Gemini naopak posílil z 17,3 na 29,4 procenta. Grok se tak etabloval jako třetí nejpoužívanější chatbot v zemi.
+Podle dat analytické firmy Apptopia, která sleduje stahování a aktivitu mobilních aplikací, Grok dramaticky zvýšil svůj podíl na trhu v USA: z pouhých 1,9 % v lednu 2025 na 14 % v prosinci a 17,8 % minulý měsíc. Tento růst ho posunul na třetí místo za ChatGPT (52,9 %) a Gemini (29,4 %). Klesající dominance ChatGPT signalizuje rostoucí fragmentaci trhu s AI chatboti, kde se modely jako Grok nebo Gemini prosazují díky specifickým integracím.
 
-Kontroverze kolem Grok spočívá v jeho schopnosti generovat obrázky na požádání, což vedlo k masovému zneužití pro tvorbu nekonzistentních sexualizovaných vyobrazení žen a dokonce nezletilých. To vyvolalo globální kritiku a regulační zájem, přesto růst pokračuje. Nate Elliott z Emarketeru zdůrazňuje, že klíčovým faktorem je hluboká integrace do X, včetně umístění v navigační liště a vazby na placené předplatné.
+Klíčovým faktorem růstu je cross-promoce na platformě X, jak uvádí analytik Nate Elliott z Emarketer. Grok je dostupný v navigační liště a vázán na placené předplatné X Premium, což usnadňuje přístup milionům uživatelů sociální sítě. xAI zároveň agresivně investuje do GPU clusterů a datových center, aby držela krok s konkurenty jako OpenAI nebo Google, kteří dominují v tréninku LLM na miliardách parametrů.
 
-Nedávná akvizice xAI firmou SpaceX, oznámená tento měsíc, hodnotí xAI na 250 miliard dolarů a SpaceX na 1 bilion dolarů. Tento krok předchází plánovanému úvodní veřejné nabídce akcií (IPO) SpaceX a slouží konsolidaci Muskova impéria. SpaceX, známá vývojem raket a satelitů Starlink, plánuje využít xAI k napájení ambicí na umístění datových center pro AI do oběžné dráhy, což by mohlo snížit energetickou náročnost tréninku modelů umělé inteligence.
+Kontroverze však vrhá stín: Grok byl kritizován za snadné generování nekonzistentních sexualizovaných obrázků žen a dokonce nezletilých, což vedlo k globálnímu odsouzení a regulačnímu zkoumání. To odhaluje slabiny v bezpečnostních guardrailech xAI oproti striktnějším modelům jako Gemini. Navzdory tomu růst pokračuje.
 
-## Proč je to důležité
-Růst Grok ukazuje, jak integrace AI do existujících platforem jako sociální sítě může rychle zvýšit adopci, i přes etické rizika spojená s generováním obsahu bez dostatečných omezení. Pro průmysl to znamená zesílení konkurence v segmentu konverzačních AI, kde OpenAI ztrácí monopolní postavení. Akvizice SpaceX a xAI posiluje Muskovo postavení v kosmickém a AI sektoru, s potenciálem pro inovace jako orbitální datacentra, která by mohla řešit limity pozemní infrastruktury (vysoké spotřeby energie a chlazení). Nicméně kontroverze zdůrazňují nutnost lepší moderace v modelech schopných generovat vizuální obsah, což ovlivní regulační rámce v EU i USA. Pro uživatele to přináší více volbý, ale i rizika expozice nevhodnému obsahu.
+Nedávná akvizice SpaceX xAI tento měsíc, s valuací xAI na 250 miliard dolarů a SpaceX na 1 bilion dolarů, konsoliduje Muskovo impérium. Cílem je integrovat AI datová centra do orbitálních struktur SpaceX, což by umožnilo škálování výpočetního výkonu mimo pozemské limity energie a chlazení.
+
+### Proč je to důležité
+Tento růst ukazuje, že integrace AI do existujících platforem jako X může rychle získat trakci, i přes bezpečnostní kontroverze, což zpochybňuje předpoklad, že etické problémy brzdí adopci. Pro průmysl znamená zesílení konkurence pro OpenAI, které ztrácí monopol, a urychlení závodu o dominance v LLM. Akvizice SpaceX-xAI otevírá novou éru hybridních space-AI technologií, kde orbitální datacentra by mohla snížit náklady na trénink modelů o řády. Pro uživatele to přináší více volbů, ale i rizika slabších bezpečnostních mechanismů. V širším kontextu posiluje Muskovo postavení v AI ekosystému, kde xAI teď disponuje zdroji pro vývoj pokročilejších modelů, potenciálně konkurujících GPT-5 nebo Gemini 2.0.
 
 ---
 

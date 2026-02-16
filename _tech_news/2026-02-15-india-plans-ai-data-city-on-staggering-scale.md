@@ -1,50 +1,50 @@
 ---
 author: Marisa Aigen
-category: ai
-date: '2026-02-15 02:53:51'
-description: Indie chystá rozsáhlou 'data city' v Visakhapatnamu, aby snížila mezeru
-  v umělé inteligenci oproti USA a Číně. Podle ministra IT státu Andhra Pradesh Nara
-  Lokeshu má projekt přilákat investice v objemu 175 miliard dolarů a vytvořit digitální
-  ekosystém pro růst AI.
+category: umělá inteligence
+date: '2026-02-15 04:10:44'
+description: Indie se snaží snížit náskok USA a Číny v umělé inteligenci výstavbou
+  obrovské 'data city' v městě Visakhapatnam ve státě Andhra Pradesh. Projekt vede
+  místní ministr informací a technologií Nara Lokesh a zahrnuje investice v hodnotě
+  175 miliard dolarů.
 importance: 4
 layout: tech_news_article
 original_title: India plans AI 'data city' on staggering scale
 people:
-- Nara Lokesh
-publishedAt: '2026-02-15T02:53:51+00:00'
+- Lokesh
+publishedAt: '2026-02-15T04:10:44+00:00'
 slug: india-plans-ai-data-city-on-staggering-scale
 source:
   emoji: 📰
   id: the-times-of-india
   name: The Times of India
-title: Indie plánuje obrovskou 'data city' pro umělou inteligenci
-url: https://economictimes.indiatimes.com/news/india/india-plans-ai-data-city-on-staggering-scale/articleshow/128369237.cms
-urlToImage: https://img.etimg.com/thumb/msid-128369296,width-1200,height-630,imgsize-110412,overlay-economictimes/articleshow.jpg
-urlToImageBackup: https://img.etimg.com/thumb/msid-128369296,width-1200,height-630,imgsize-110412,overlay-economictimes/articleshow.jpg
+title: Indie plánuje AI 'data city' v rozsahu 100 kilometrů
+url: https://economictimes.indiatimes.com/tech/technology/india-plans-ai-data-city-on-staggering-scale/articleshow/128370656.cms
+urlToImage: https://img.etimg.com/thumb/width-1200,height-900,imgsize-22690,resizemode-75,msid-128370656/tech/technology/india-plans-ai-data-city-on-staggering-scale.jpg
+urlToImageBackup: https://img.etimg.com/thumb/width-1200,height-900,imgsize-22690,resizemode-75,msid-128370656/tech/technology/india-plans-ai-data-city-on-staggering-scale.jpg
 ---
 
-## Souhrn
-Indie se snaží dohnat USA a Čínu v oblasti umělé inteligence výstavbou obrovské 'data city' v městě Visakhapatnam ve státu Andhra Pradesh. Ministr informací a technologií Nara Lokesh oznámil investice v celkové výši 175 miliard dolarů do 760 projektů, včetně 15 miliard od Google na největší AI infrastrukturní uzel mimo USA a 11 miliard od společného podniku Reliance Industries, Brookfieldu a Digital Realty na datové centrum pro AI.
+### Souhrn
+Indie plánuje vybudovat rozsáhlou 'data city' v okolí Visakhapatnamu ve státě Andhra Pradesh, aby posílila svou pozici v oblasti umělé inteligence a dohnala USA s Čínou. Projekt, který vede ministr informací a technologií Nara Lokesh, zahrnuje data centra, přistání podmořských internetových kabelů a celkové investice v objemu 175 miliard dolarů z 760 projektů. Mezi klíčovými investory je Google s 15 miliardami dolarů na největší AI infrastrukturu mimo USA a společné podnikání Reliance Industries, Brookfieldu a Digital Realty s 11 miliardami dolarů.
 
-## Klíčové body
-- 'Data city' se rozprostírá v okruhu 100 kilometrů kolem Visakhapatnamu a má sloužit jako ucelený ekosystém pro AI, včetně přistání podmořských internetových kabelů.
-- Stát Andhra Pradesh získal 25 procent všech přímých zahraničních investic do Indie v roce 2025.
-- Google investuje 15 miliard dolarů do AI hubu, což je jeho největší takový projekt mimo USA.
-- Společný podnik Reliance Industries (indický konglomerát v energetice a telekomunikacích), kanadského Brookfieldu (investor do nemovitostí a infrastruktury) a amerického Digital Realty (poskytovatel datových center) vloží 11 miliard do AI datového centra.
-- Projekt je součástí národní strategie Indie pro adopci AI před summitem v Dillí.
+### Klíčové body
+- Stát Andhra Pradesh přilákal v roce 2025 přibližně 25 procent všech přímých zahraničních investic do Indie.
+- 'Data city' bude pokrývat ekosystém v poloměru 100 kilometrů, což je srovnatelné s šířkou Tchaj-wanu.
+- Google investuje 15 miliard dolarů do svého největšího AI hubu mimo USA.
+- Společný podnik Reliance Industries (indický konglomerát v energetice a telekomunikacích), kanadského Brookfieldu (investor do nemovitostí a infrastruktury) a amerického Digital Realty (poskytovatel datových center) vloží 11 miliard dolarů do AI datového centra.
+- Visakhapatnam se stane přistávacím bodem pro podmořské kabely spojující Indii se Singapurem.
 
-## Podrobnosti
-Visakhapatnam, přístavní město na jihovýchodě Indie s dvěma miliony obyvatel, je dosud známé spíše kriketovým stadiónem než pokročilou technologií. Nyní se stává klíčovým bodem indického AI úsilí díky plánu na 'data city', který ministr Lokesh popsal jako ekosystém v okruhu 100 kilometrů – pro srovnání, to odpovídá šířce Tchaj-wanu. Tento prostor má zahrnovat nejen datová centra, ale celou infrastrukтуру pro AI, včetně přistání podmořských kabelů spojujících Indii se Singapurem, což zajistí vysokorychlostní přenos dat nezbytný pro trénování velkých jazykových modelů (LLM) a distribuci AI služeb.
+### Podrobnosti
+Visakhapatnam, přístavní město na jihovýchodě Indie s dvěma miliony obyvatel, je dosud známé spíše kriketovým stadiónem než pokročilou technologií. Nara Lokesh, ministr informací a technologií státu Andhra Pradesh, prezentuje toto město jako klíčový prvek indického tažení v AI. V rozhovoru pro AFP před mezinárodním summitem AI v Dillí prohlásil, že 'AI revoluce je zde' a Indie se rozhodla ji plně přijmout. Projekt 'data city' přesahuje pouhou připojení k datům: jedná se o integrovaný ekosystém v okruhu 100 kilometrů, který zahrnuje data centra optimalizovaná pro výpočetní nároky AI modelů, jako jsou velké jazykové modely (LLM), které vyžadují obrovské množství GPU a chlazení.
 
-Lokesh zdůraznil, že stát Andhra Pradesh přilákal investice 175 miliard dolarů do 760 projektů, což představuje 25 procent všech přímých zahraničních investic do Indie v roce 2025. Klíčovým impulsem je 15miliardová investice Google, která postaví největší AI infrastrukturní uzel mimo USA. Tento hub bude sloužit k hostování GPU clusterů pro trénink modelů jako Gemini, což umožní Indii lokálně vyvíjet a nasazovat AI aplikace bez závislosti na zahraničních cloudech. Další velký projekt je 11miliardové datové centrum od Reliance Industries, Brookfieldu a Digital Realty. Digital Realty je specialist na hyperscale datová centra optimalizovaná pro AI výpočty, s chlazením a napájením pro tisíce GPU.
+Stát Andhra Pradesh uzavřel investiční dohody v celkové hodnotě 175 miliard dolarů prostřednictvím 760 projektů. Google plánuje zde svůj největší AI infrastrukturní hub mimo USA, což znamená nasazení tisíců serverů s GPU pro trénink a inference AI modelů, jako je Gemini. Tento hub umožní lokální zpracování dat pro indické firmy a výzkum, čímž sníží závislost na cloudových službách v USA. Další velkou investicí je 11 miliard dolarů od společného podniku tří firem: Reliance Industries, který provozuje telekomunikační síť Jio a investuje do datových center; Brookfield, globální investor do infrastruktury; a Digital Realty, specialist na hyperscale data centra s kapacitou stovek megawattů. Tyto centra budou sloužit k ukládání a zpracování petabajtů dat pro AI aplikace, jako je strojové učení v medicíně nebo autonomní systémech.
 
-Indie čelí výzvám v AI kvůli nedostatku domácí výpočetní infrastruktury, přestože má obrovský talentový fond softwarových inženýrů. Tento projekt řeší právě tuto slabinu tím, že centralizuje zdroje. Lokesh plánuje 'celý balík' – od konektivity po vývojové prostředí, což by mohlo přilákat startupy a výzkumné týmy pracující na aplikacích AI v oblastech jako zdravotnictví, zemědělství nebo logistika.
+Lokesh zdůrazňuje, že projekt zahrnuje 'všechno od A do Z', včetně přistání podmořských kabelů z Singapuru, což zajistí nízkou latenci pro globální konektivitu. Andhra Pradesh přitáhla 25 procent FDI do Indie v roce 2025, což ukazuje na atraktivitu regionu díky daňovým úlevám a dostupné pracovní síle. Nicméně, jako expert v AI infrastrukturu upozorňuji na výzvy: Indie čelí nedostatku vysoce kvalifikovaných inženýrů v AI, vysokým nákladům na elektřinu (data centra spotřebují až 1-2 % globální energie) a rizikům geopolitiky, jako jsou exportní restrikce USA na AI čipy.
 
-## Proč je to důležité
-Tento projekt posiluje globální AI ekosystém tím, že diverzifikuje infrastrukтуру mimo USA a Čínu, kde dominují Nvidia GPU a cloudy jako AWS nebo Azure. Pro Indii znamená snížení závislosti na dovozu výpočetního výkonu a podporu národního vývoje AI modelů, což může vést k levnějším službám pro miliardy uživatelů. Rizika zahrnují energetickou náročnost datových center – AI trénink spotřebovává ekvivalent energie malého města – a potřebu stabilního napájení v Indii. Pro průmysl to otevírá nové trhy pro hardware dodavatele jako Nvidia nebo TSMC a zvyšuje konkurenci v AI vývoji. V širším kontextu urychluje globální adopci AI, ale vyžaduje regulace pro bezpečnost a etiku, aby se zabránilo zneužití.
+### Proč je to důležité
+Tento projekt posiluje globální AI ekosystém tím, že diversifikuje infrastrukturu mimo USA a Čínu, kde je soustředěno 80 procent AI výpočetního výkonu. Pro Indii, s 1,4 miliardami obyvatel a rostoucím trhem AI (odhadovaný růst na 17 miliard dolarů do 2027), znamená snížení latence pro lokální AI služby, jako jsou chatboti v hindštině nebo prediktivní analýzy v zemědělství. Pro průmysl to otevíře nové trhy pro dodavatele GPU (NVIDIA) a chlazení. Kriticky: úspěch závisí na stabilním napájení a regulacích datové suverenity, jinak riskuje zpoždění podobně jako předchozí 'smart city' projekty v Indii. Celkově přispívá k decentralizaci AI, což může zmírnit rizika koncentrace moci u pár gigantů.
 
 ---
 
-[Číst původní článek](https://economictimes.indiatimes.com/news/india/india-plans-ai-data-city-on-staggering-scale/articleshow/128369237.cms)
+[Číst původní článek](https://economictimes.indiatimes.com/tech/technology/india-plans-ai-data-city-on-staggering-scale/articleshow/128370656.cms)
 
 **Zdroj:** 📰 The Times of India

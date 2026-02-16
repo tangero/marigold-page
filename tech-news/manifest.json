@@ -1,15 +1,141 @@
 {
-  "generated": "2026-02-16T05:45:16.095651+00:00",
-  "count": 170,
+  "generated": "2026-02-16T09:05:52.681659+00:00",
+  "count": 175,
   "articles": [
     {
+      "title": "Kosická loď SpaceX Dragon se spojila s Mezinárodní vesmírnou stanicí (VIDEO)",
+      "description": "Kosická loď SpaceX Crew Dragon s ruským kosmonautem Andrejem Fediaevem se úspěšně spojila s Mezinárodní vesmírnou stanicí. Přečtěte si celý článek na RT.com",
+      "slug": "spacex-dragon-spacecraft-docks-at-iss-video",
+      "publishedAt": "2026-02-15T08:35:53+00:00",
+      "date": "2026-02-15 08:35:53",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://mf.b37mrtl.ru/files/2026.02/article/6991580a85f540366a5f2754.jpeg",
+      "url": "/tech-news/2026-02-15/spacex-dragon-spacecraft-docks-at-iss-video/",
+      "source": {
+        "emoji": "📰",
+        "id": "rt",
+        "name": "RT"
+      },
+      "companies": [
+        "SpaceX"
+      ],
+      "people": [
+        "Andrey Fedyaev"
+      ]
+    },
+    {
+      "title": "Chytré brýle Meta získají rozpoznávání obličejů v reálném čase",
+      "description": "Meta připravuje pro své chytré brýle funkci Name Tag s real-time rozpoznáváním obličejů, které umožní identifikovat lidi v okolí a zobrazit jejich osobní údaje přes AI asistenta. Funkce vyvolává silnou kritiku kvůli rizikům pro soukromí a anonymitu v veřejných prostorech.",
+      "slug": "metas-smart-glasses-to-get-real-time-facial-recogn",
+      "publishedAt": "2026-02-15T08:34:26+00:00",
+      "date": "2026-02-15 08:34:26",
+      "importance": 4,
+      "category": "chytré brýle",
+      "urlToImage": "https://www.ghacks.net/wp-content/uploads/2026/02/gHacks-articles-60.png",
+      "url": "/tech-news/2026-02-15/metas-smart-glasses-to-get-real-time-facial-recogn/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Ghacks Technology News"
+      },
+      "companies": [
+        "Meta"
+      ],
+      "people": []
+    },
+    {
+      "title": "Šéf OpenAI Sam Altman prosazuje přístup 'Demokratická AI' v Indii, plánuje expanzi a partnerství s vládou",
+      "description": "Šéf OpenAI Sam Altman označil Indii za potenciálního lídra v umělé inteligenci a oznámil plány na rozšíření působení firmy v zemi včetně hlubší spolupráce s indickou vládou. Indie se stala druhým největším trhem OpenAI po USA díky bezplatnému přístupu k nástrojům umělé inteligence.",
+      "slug": "openai-ceo-advocates-democratic-ai-approach-in-ind",
+      "publishedAt": "2026-02-15T07:33:39+00:00",
+      "date": "2026-02-15 07:33:39",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/b4blje/article70634775.ece/alternates/LANDSCAPE_1200/2026-02-03T191522Z_1658583665_RC2WXGAY2L1M_RTRMADP_3_AI-SUMMIT-OPENAI-MOLTBOOK.JPG",
+      "url": "/tech-news/2026-02-15/openai-ceo-advocates-democratic-ai-approach-in-ind/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": [
+        "Sam Altman"
+      ]
+    },
+    {
+      "title": "Šéf OpenAI označil Indii za 'full stack AI lídra' před velkým summitem",
+      "description": "Před summitem AI Impact Summit 2026, který začne zítra, Altman uvedl, že Indie se stala druhým největším uživatelským trhem OpenAI na světě, hned po USA. OpenAI plánuje rozšířit svou přítomnost v zemi a prohloubit partnerství s indickou vládou.",
+      "slug": "openai-ceo-hails-india-as-full-stack-ai-leader-ahe",
+      "publishedAt": "2026-02-15T07:28:08+00:00",
+      "date": "2026-02-15 07:28:08",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-08/08/thumb/fitandfill/1200X630/1754592544-4362.jpg",
+      "url": "/tech-news/2026-02-15/openai-ceo-hails-india-as-full-stack-ai-leader-ahe/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Business Standard"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": [
+        "Sam Altman"
+      ]
+    },
+    {
+      "title": "„Umělá inteligence se stane trvalou vrstvou lidského pokroku,“ říká Sam Altman při vysvětlování dlouhodobé vize OpenAI",
+      "description": "Generální ředitel OpenAI Sam Altman je přesvědčen, že umělá inteligence se stane trvalým základem lidského pokroku, což vyžaduje masivní investice do infrastruktury, energie a nových zařízení k přetvoření každodenního života.",
+      "slug": "ai-will-become-a-permanent-layer-of-human-progress",
+      "publishedAt": "2026-02-15T05:49:50+00:00",
+      "date": "2026-02-15 05:49:50",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2025/04/20250403014329_samaltman.jpeg",
+      "url": "/tech-news/2026-02-15/ai-will-become-a-permanent-layer-of-human-progress/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Moneycontrol"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": [
+        "Sam Altman"
+      ]
+    },
+    {
+      "title": "Interpolovi bojovníci z kanceláří bojují proti kyberzločincům zneužívajícím AI",
+      "description": "Umělá inteligence mění dynamiku boje Interpolu proti kyberzločinu v jeho technologicky vyspělých centrech v Singapuru. Zločinecké syndikáty strukturované jako nadnárodní firmy využívají AI k tvorbě sofistikovaných phishingových e-mailů, deepfake videí a hlasových napodobením pro útoky na jednotlivce, státy i firmy za miliardy dolarů.",
+      "slug": "interpol-backroom-warriors-fight-cyber-criminals-w",
+      "publishedAt": "2026-02-15T04:33:27+00:00",
+      "date": "2026-02-15 04:33:27",
+      "importance": 4,
+      "category": "kyberzločin",
+      "urlToImage": null,
+      "url": "/tech-news/2026-02-15/interpol-backroom-warriors-fight-cyber-criminals-w/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Japan Today"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
       "title": "Chatbot Grok od Elona Muska získává podíl na americkém trhu navzdory kritice za sexualizované obrázky, ukazují data",
-      "description": "Chatbot Grok od firmy xAI, kterou vlastní Elon Musk, zvýšil svůj tržní podíl v USA na 17,8 procenta v lednu. Růst přichází navzdory globální kritice za generování nekonzistentních sexualizovaných obrázků žen a nezletilých a pomáhá ztrátové společnosti xAI, kterou nedávno koupila SpaceX.",
+      "description": "Podíl Groku na trhu v USA vzrostl na 17,8 % minulý měsíc z 14 % v prosinci a 1,9 % v lednu 2025 podle dat firmy Apptopia. Růst je přínosný pro ztrátovou xAI, startup Elona Muska, který agresivně investuje do infrastruktury pro soutěž v oblasti umělé inteligence.",
       "slug": "elon-musks-ai-chatbot-grok-gains-us-market-share-a",
       "publishedAt": "2026-02-15T04:28:18+00:00",
       "date": "2026-02-15 04:28:18",
-      "importance": 4,
-      "category": "ai",
+      "importance": 5,
+      "category": "umělá inteligence",
       "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-41882,resizemode-75,msid-128371026/tech/technology/elon-musks-ai-chatbot-grok-gains-us-market-share-amid-sexualized-images-backlash-data-shows.jpg",
       "url": "/tech-news/2026-02-15/elon-musks-ai-chatbot-grok-gains-us-market-share-a/",
       "source": {
@@ -25,13 +151,13 @@
       ]
     },
     {
-      "title": "Starlink získal povolení k provozu ve Vietnamu po schválení vládou",
-      "description": "Vietnam udělil SpaceX Starlink oficiální licenci pro poskytování pevných a mobilních satelitních internetových služeb včetně schválení rádiových frekvencí. Toto rozhodnutí přichází před očekávanou návštěvou vietnamského lídra To Lama v USA v kontextu probíhajících obchodních jednání mezi Hanojem a Washingtonem.",
+      "title": "Starlink povoleno k provozu ve Vietnamu po vládním schválení",
+      "description": "Vietnam udělil SpaceX licenci pro satelitní služby Starlink, včetně pevných i mobilních internetových připojení a schválení rádiových frekvencí. Toto rozhodnutí předchází návštěvě vietnamského lídra To Lama v USA, kde pokračují obchodní jednání mezi Hanojem a Washingtonem.",
       "slug": "starlink-cleared-to-operate-in-vietnam-after-gover",
       "publishedAt": "2026-02-15T04:26:03+00:00",
       "date": "2026-02-15 04:26:03",
       "importance": 4,
-      "category": "satelitní internet",
+      "category": "kosmonautika",
       "urlToImage": "https://images.firstpost.com/uploads/2026/02/Untitled-design-41-2026-02-25f09cd891e58223c0200fd5ec42d062-1200x675.jpg?im=FitAndFill=(1200,675)",
       "url": "/tech-news/2026-02-15/starlink-cleared-to-operate-in-vietnam-after-gover/",
       "source": {
@@ -47,13 +173,13 @@
       ]
     },
     {
-      "title": "Anthropic dosáhl valuace 380 miliard dolarů po 30miliardovém kole financování",
-      "description": "Společnost Anthropic získala 30 miliard dolarů v novém kole financování, čímž svou valuaci zvýšila na 380 miliard dolarů. Firma se odlišila zaměřením tréninku modelů na programování, přičemž nástroj Claude Code získal silnou trakci mezi vývojáři a pomohl získat výhodu na trhu podnikového AI.",
+      "title": "Anthropic dosáhl valuace 380 miliard dolarů po kole financování za 30 miliard",
+      "description": "Společnost Anthropic získala 30 miliard dolarů v novém kole financování, čímž se její valuace zdvojnásobila na 380 miliard dolarů. Firma se odlišila zaměřením tréninku modelů na programování, přičemž Claude Code získává silnou trakci mezi vývojáři a pomáhá získat náskok na trhu podnikového AI.",
       "slug": "anthropic-clinches-380-billion-valuation-after-30-",
       "publishedAt": "2026-02-15T04:22:55+00:00",
       "date": "2026-02-15 04:22:55",
       "importance": 5,
-      "category": "ai",
+      "category": "startupy",
       "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-62534,resizemode-75,msid-128370903/tech/funding/anthropic-clinches-380-billion-valuation-after-30-billion-funding-round.jpg",
       "url": "/tech-news/2026-02-15/anthropic-clinches-380-billion-valuation-after-30/",
       "source": {
@@ -65,6 +191,26 @@
         "Anthropic"
       ],
       "people": []
+    },
+    {
+      "title": "Indie plánuje AI 'data city' v rozsahu 100 kilometrů",
+      "description": "Indie se snaží snížit náskok USA a Číny v umělé inteligenci výstavbou obrovské 'data city' v městě Visakhapatnam ve státě Andhra Pradesh. Projekt vede místní ministr informací a technologií Nara Lokesh a zahrnuje investice v hodnotě 175 miliard dolarů.",
+      "slug": "india-plans-ai-data-city-on-staggering-scale",
+      "publishedAt": "2026-02-15T04:10:44+00:00",
+      "date": "2026-02-15 04:10:44",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-22690,resizemode-75,msid-128370656/tech/technology/india-plans-ai-data-city-on-staggering-scale.jpg",
+      "url": "/tech-news/2026-02-15/india-plans-ai-data-city-on-staggering-scale/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": [
+        "Lokesh"
+      ]
     },
     {
       "title": "Co způsobilo odpor proti Seedance 2.0 od ByteDance? #tech",
@@ -87,24 +233,6 @@
       "people": []
     },
     {
-      "title": "Neviditelní bojovníci Interpolu bojují proti kyberzločincům zneužívajícím AI",
-      "description": "Umělá inteligence mění dynamiku boje Interpolu proti kyberkriminalitě v jeho pokročilých operačních centrech v Singapuru, kde kriminálníci vytvářejí dokonalé phishingové e-maily a falešná videa vládních představitelů. Ředitel cybercrime Interpolu Neal Jetton označil zneužití AI za největší současnou hrozbu.",
-      "slug": "interpol-backroom-warriors-fight-cyber-criminals-w",
-      "publishedAt": "2026-02-15T03:58:51+00:00",
-      "date": "2026-02-15 03:58:51",
-      "importance": 4,
-      "category": "kyberkriminalita",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-116714,resizemode-75,msid-128370406/tech/technology/interpol-backroom-warriors-fight-cyber-criminals-weaponising-ai.jpg",
-      "url": "/tech-news/2026-02-15/interpol-backroom-warriors-fight-cyber-criminals-w/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Indie plánuje obrovské 'město dat' pro AI v rámci velkého digitálního posunu",
       "description": "\"AI revoluce je zde,\" řekl ministr informatiky státu Andhra Pradesh, který positionuje Višákhapatnam jako základní kámen indických ambicí v oblasti AI.",
       "slug": "india-plans-vast-ai-data-city-in-major-digital-pus",
@@ -121,26 +249,6 @@
       },
       "companies": [],
       "people": []
-    },
-    {
-      "title": "Indie plánuje obrovskou 'data city' pro umělou inteligenci",
-      "description": "Indie chystá rozsáhlou 'data city' v Visakhapatnamu, aby snížila mezeru v umělé inteligenci oproti USA a Číně. Podle ministra IT státu Andhra Pradesh Nara Lokeshu má projekt přilákat investice v objemu 175 miliard dolarů a vytvořit digitální ekosystém pro růst AI.",
-      "slug": "india-plans-ai-data-city-on-staggering-scale",
-      "publishedAt": "2026-02-15T02:53:51+00:00",
-      "date": "2026-02-15 02:53:51",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://img.etimg.com/thumb/msid-128369296,width-1200,height-630,imgsize-110412,overlay-economictimes/articleshow.jpg",
-      "url": "/tech-news/2026-02-15/india-plans-ai-data-city-on-staggering-scale/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [],
-      "people": [
-        "Nara Lokesh"
-      ]
     },
     {
       "title": "Healeyová zavádí nástroj umělé inteligence ChatGPT napříč výkonnou složkou státní správy Massachusetts",
