@@ -1,7 +1,130 @@
 {
-  "generated": "2026-02-16T16:56:54.304925+00:00",
-  "count": 181,
+  "generated": "2026-02-16T20:42:22.021774+00:00",
+  "count": 187,
   "articles": [
+    {
+      "title": "Proč má Indie 100 milionů uživatelů ChatGPT? #tech",
+      "description": "Rychlé přijetí a proč na tom záleží. Generální ředitel OpenAI oznámil, že Indie tvoří zhruba 100 milionů týdenních aktivních uživatelů ChatGPT, čímž se stává druhým největším trhem po USA.",
+      "slug": "why-does-india-have-100m-chatgpt-users-tech",
+      "publishedAt": "2026-02-15T20:02:45+00:00",
+      "date": "2026-02-15 20:02:45",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://alltoc.com/cdn/1045/og.png",
+      "url": "/tech-news/2026-02-15/why-does-india-have-100m-chatgpt-users-tech/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Alltoc.com"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Wesfarmers nasadí agentic AI v maloobchodních operacích",
+      "description": "Maloobchodní konglomerát za značkami Kmart a Officeworks uzavřel víceletou smlouvu s Google Cloud na nasazení AI agentů pro zákaznický servis a interní produktivitu.",
+      "slug": "wesfarmers-to-deploy-agentic-ai-in-retail-operatio",
+      "publishedAt": "2026-02-15T19:00:00+00:00",
+      "date": "2026-02-15 19:00:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/Hero Images/fashion-clothes-retail-shopping-teenagers-adobe.jpeg",
+      "url": "/tech-news/2026-02-15/wesfarmers-to-deploy-agentic-ai-in-retail-operatio/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "ComputerWeekly.com"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Technologie Sony Group dokáže identifikovat originální hudbu v písních generovaných umělou inteligencí",
+      "description": "Společnost Sony Group vyvinula technologii, která odhaluje původní hudbu použitou při tvorbě skladeb generovaných umělou inteligencí. Tento nástroj umožňuje skladatelům a držitelům autorských práv požadovat kompenzace od vývojářů AI.",
+      "slug": "sony-group-tech-can-identify-original-music-in-ai-",
+      "publishedAt": "2026-02-15T18:07:50+00:00",
+      "date": "2026-02-15 18:07:50",
+      "importance": 4,
+      "category": "ai hudba",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F7%2F1%2F6%2F12146178-1-eng-GB%2Fae99a1e29911-photo_SXM2026021400009257.jpg?width=1260&fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=auto&height=630",
+      "url": "/tech-news/2026-02-15/sony-group-tech-can-identify-original-music-in-ai/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Nikkei.com"
+      },
+      "companies": [
+        "Sony Group"
+      ],
+      "people": []
+    },
+    {
+      "title": "Indie má 100 milionů týdně aktivních uživatelů ChatGPT, říká Sam Altman",
+      "description": "Generální ředitel OpenAI Sam Altman uvedl, že Indie je druhým největším trhem ChatGPT po USA a má největší počet studentů používajících tento nástroj na světě.",
+      "slug": "india-has-100m-weekly-active-chatgpt-users-sam-alt",
+      "publishedAt": "2026-02-15T18:03:00+00:00",
+      "date": "2026-02-15 18:03:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/04/chatgpt-india.jpg?resize=1200,800",
+      "url": "/tech-news/2026-02-15/india-has-100m-weekly-active-chatgpt-users-sam-alt/",
+      "source": {
+        "emoji": "🚀",
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": [
+        "Sam Altman"
+      ]
+    },
+    {
+      "title": "GA-ASI dosáhla nového milníku s poloautonomním letem CCA",
+      "description": "Společnost General Atomics Aeronautical Systems (GA-ASI) úspěšně integrovala software pro autonomní mise třetí strany do beopilotního stíhače YFQ-42A Collaborative Combat Aircraft. Letadlo provedlo první poloautonomní misi trvající více než čtyři hodiny.",
+      "slug": "ga-asi-achieves-new-milestone-with-semi-autonomous",
+      "publishedAt": "2026-02-15T18:00:00+00:00",
+      "date": "2026-02-15 18:00:00",
+      "importance": 4,
+      "category": "beopilotní letadla",
+      "urlToImage": "https://soldiersystems.net/wp-content/uploads/2026/02/img_7123.jpg",
+      "url": "/tech-news/2026-02-15/ga-asi-achieves-new-milestone-with-semi-autonomous/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Soldiersystems.net"
+      },
+      "companies": [
+        "General Atomics Aeronautical Systems",
+        "Inc"
+      ],
+      "people": []
+    },
+    {
+      "title": "Pentagon prý zuří na Anthropic kvůli odmítnutí neomezené podpory vojenským projektům",
+      "description": "Autonomní roje dronů a masové sledování jsou podle zpráv hlavními spornými body mezi Pentagonem a AI firmou Anthropic. Firma trvá na limitech pro použití svých modelů v citlivých oblastech.",
+      "slug": "pentagon-reportedly-hopping-mad-at-anthropic-for-n",
+      "publishedAt": "2026-02-15T16:59:24+00:00",
+      "date": "2026-02-15 16:59:24",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/02/drone-swarm-1200x675.jpg",
+      "url": "/tech-news/2026-02-15/pentagon-reportedly-hopping-mad-at-anthropic-for-n/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": []
+    },
     {
       "title": "20VC x SaaStr tento týden s Mike Cannon-Brookes, spoluzakladatelem Atlassian: Proč B2B software není mrtvý, co skutečně znamená projekce Anthropic na 149 miliard dolarů a proč generální ředitelé musí přestat stěžovat si a začít budovat",
       "description": "V podcastu 20VC x SaaStr diskutují Harry Stebbings, Jason Lemkin, Rory O’Driscoll a host Mike Cannon-Brookes z Atlassian dopad umělé inteligence na trh B2B software, reálnost projekcí Anthropic a OpenAI a výzvy pro šéfy firem. Zaměřují se na problémy s akumulací příjmů v AI ekosystému a nutnost aktivního budování.",
