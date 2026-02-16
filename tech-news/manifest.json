@@ -1,17 +1,81 @@
 {
-  "generated": "2026-02-16T01:30:52.768247+00:00",
-  "count": 190,
+  "generated": "2026-02-16T05:45:16.095651+00:00",
+  "count": 170,
   "articles": [
     {
-      "title": "Proč Hollywood žaluje kvůli Seedance 2.0? #tech",
-      "description": "Studiové obviňují nástroj pro generování videa umělou inteligencí z rozsáhlého zneužití autorských práv. ByteDance nedávno vydal Seedance 2.0, který rychle vytvořil virální klip s dvěma hlavními filmovými hvězdami v fingované rvačce, což vyvolalo poplach v průmyslu.",
-      "slug": "why-is-hollywood-suing-over-seedance-20-tech",
-      "publishedAt": "2026-02-15T00:02:27+00:00",
-      "date": "2026-02-15 00:02:27",
+      "title": "Chatbot Grok od Elona Muska získává podíl na americkém trhu navzdory kritice za sexualizované obrázky, ukazují data",
+      "description": "Chatbot Grok od firmy xAI, kterou vlastní Elon Musk, zvýšil svůj tržní podíl v USA na 17,8 procenta v lednu. Růst přichází navzdory globální kritice za generování nekonzistentních sexualizovaných obrázků žen a nezletilých a pomáhá ztrátové společnosti xAI, kterou nedávno koupila SpaceX.",
+      "slug": "elon-musks-ai-chatbot-grok-gains-us-market-share-a",
+      "publishedAt": "2026-02-15T04:28:18+00:00",
+      "date": "2026-02-15 04:28:18",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-41882,resizemode-75,msid-128371026/tech/technology/elon-musks-ai-chatbot-grok-gains-us-market-share-amid-sexualized-images-backlash-data-shows.jpg",
+      "url": "/tech-news/2026-02-15/elon-musks-ai-chatbot-grok-gains-us-market-share-a/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "xAI"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Starlink získal povolení k provozu ve Vietnamu po schválení vládou",
+      "description": "Vietnam udělil SpaceX Starlink oficiální licenci pro poskytování pevných a mobilních satelitních internetových služeb včetně schválení rádiových frekvencí. Toto rozhodnutí přichází před očekávanou návštěvou vietnamského lídra To Lama v USA v kontextu probíhajících obchodních jednání mezi Hanojem a Washingtonem.",
+      "slug": "starlink-cleared-to-operate-in-vietnam-after-gover",
+      "publishedAt": "2026-02-15T04:26:03+00:00",
+      "date": "2026-02-15 04:26:03",
+      "importance": 4,
+      "category": "satelitní internet",
+      "urlToImage": "https://images.firstpost.com/uploads/2026/02/Untitled-design-41-2026-02-25f09cd891e58223c0200fd5ec42d062-1200x675.jpg?im=FitAndFill=(1200,675)",
+      "url": "/tech-news/2026-02-15/starlink-cleared-to-operate-in-vietnam-after-gover/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Firstpost"
+      },
+      "companies": [
+        "SpaceX"
+      ],
+      "people": [
+        "To Lam"
+      ]
+    },
+    {
+      "title": "Anthropic dosáhl valuace 380 miliard dolarů po 30miliardovém kole financování",
+      "description": "Společnost Anthropic získala 30 miliard dolarů v novém kole financování, čímž svou valuaci zvýšila na 380 miliard dolarů. Firma se odlišila zaměřením tréninku modelů na programování, přičemž nástroj Claude Code získal silnou trakci mezi vývojáři a pomohl získat výhodu na trhu podnikového AI.",
+      "slug": "anthropic-clinches-380-billion-valuation-after-30-",
+      "publishedAt": "2026-02-15T04:22:55+00:00",
+      "date": "2026-02-15 04:22:55",
+      "importance": 5,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-62534,resizemode-75,msid-128370903/tech/funding/anthropic-clinches-380-billion-valuation-after-30-billion-funding-round.jpg",
+      "url": "/tech-news/2026-02-15/anthropic-clinches-380-billion-valuation-after-30/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": []
+    },
+    {
+      "title": "Co způsobilo odpor proti Seedance 2.0 od ByteDance? #tech",
+      "description": "Nový model umělé inteligence pro generování videa od ByteDance se stal cílem kritiky z Hollywoodu a držitelů práv. Tvůrci pomocí něj vytvořili virální klip s dvěma hollywoodskými hvězdami v soubojném scénáři, což odhalilo rizika neoprávněného použití chráněných filmových materiálů a podobizn.",
+      "slug": "what-caused-the-pushback-against-bytedances-seedan",
+      "publishedAt": "2026-02-15T04:02:43+00:00",
+      "date": "2026-02-15 04:02:43",
       "importance": 4,
       "category": "umělá inteligence",
       "urlToImage": "https://alltoc.com/cdn/1045/og.png",
-      "url": "/tech-news/2026-02-15/why-is-hollywood-suing-over-seedance-20-tech/",
+      "url": "/tech-news/2026-02-15/what-caused-the-pushback-against-bytedances-seedan/",
       "source": {
         "emoji": "📰",
         "id": null,
@@ -23,13 +87,89 @@
       "people": []
     },
     {
-      "title": "Tokeny biasů v umělé inteligenci",
-      "description": "Tato sekce sbírá názorové články z celého světa, které komentují škody způsobené aktivitami Čínské komunistické strany, a poskytuje pohled na řešení navrhovaná experty a lídry k ochraně našich zájmů.",
+      "title": "Neviditelní bojovníci Interpolu bojují proti kyberzločincům zneužívajícím AI",
+      "description": "Umělá inteligence mění dynamiku boje Interpolu proti kyberkriminalitě v jeho pokročilých operačních centrech v Singapuru, kde kriminálníci vytvářejí dokonalé phishingové e-maily a falešná videa vládních představitelů. Ředitel cybercrime Interpolu Neal Jetton označil zneužití AI za největší současnou hrozbu.",
+      "slug": "interpol-backroom-warriors-fight-cyber-criminals-w",
+      "publishedAt": "2026-02-15T03:58:51+00:00",
+      "date": "2026-02-15 03:58:51",
+      "importance": 4,
+      "category": "kyberkriminalita",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-116714,resizemode-75,msid-128370406/tech/technology/interpol-backroom-warriors-fight-cyber-criminals-weaponising-ai.jpg",
+      "url": "/tech-news/2026-02-15/interpol-backroom-warriors-fight-cyber-criminals-w/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Indie plánuje obrovské 'město dat' pro AI v rámci velkého digitálního posunu",
+      "description": "\"AI revoluce je zde,\" řekl ministr informatiky státu Andhra Pradesh, který positionuje Višákhapatnam jako základní kámen indických ambicí v oblasti AI.",
+      "slug": "india-plans-vast-ai-data-city-in-major-digital-pus",
+      "publishedAt": "2026-02-15T03:50:37+00:00",
+      "date": "2026-02-15 03:50:37",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s",
+      "url": "/tech-news/2026-02-15/india-plans-vast-ai-data-city-in-major-digital-pus/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNA"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Indie plánuje obrovskou 'data city' pro umělou inteligenci",
+      "description": "Indie chystá rozsáhlou 'data city' v Visakhapatnamu, aby snížila mezeru v umělé inteligenci oproti USA a Číně. Podle ministra IT státu Andhra Pradesh Nara Lokeshu má projekt přilákat investice v objemu 175 miliard dolarů a vytvořit digitální ekosystém pro růst AI.",
+      "slug": "india-plans-ai-data-city-on-staggering-scale",
+      "publishedAt": "2026-02-15T02:53:51+00:00",
+      "date": "2026-02-15 02:53:51",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/msid-128369296,width-1200,height-630,imgsize-110412,overlay-economictimes/articleshow.jpg",
+      "url": "/tech-news/2026-02-15/india-plans-ai-data-city-on-staggering-scale/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": [
+        "Nara Lokesh"
+      ]
+    },
+    {
+      "title": "Healeyová zavádí nástroj umělé inteligence ChatGPT napříč výkonnou složkou státní správy Massachusetts",
+      "description": "Guvernérka Massachusetts Maura Healey oznámila zavedení nástroje umělé inteligence ChatGPT do výkonné složky státu s 40 000 zaměstnanci, čímž se Massachusetts stává prvním státem v USA, který takový krok podnikl. Partnerství s OpenAI probíhá ve fázích s důrazem na bezpečnost dat.",
+      "slug": "healey-deploys-artificial-intelligence-tool-chatgp",
+      "publishedAt": "2026-02-15T01:19:55+00:00",
+      "date": "2026-02-15 01:19:55",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2026/02/ChatGPT-Ads_24182.jpg?w=1024&h=682",
+      "url": "/tech-news/2026-02-15/healey-deploys-artificial-intelligence-tool-chatgp/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Boston Herald"
+      },
+      "companies": [],
+      "people": [
+        "Maura Healey"
+      ]
+    },
+    {
+      "title": "Sledování kontrolních tokenů biasu v AI",
+      "description": "Jednoduchý technický test ukázal, že modely AI z rodiny Qwen od Alibaba jsou nastaveny tak, aby odpovídaly pozitivně na otázky o Číně v angličtině. Technika thought token forcing odhaluje interní instrukce modelu, které prosazují pozitivní a konstruktivní tón bez kritiky.",
       "slug": "tokens-of-ai-biases",
       "publishedAt": "2026-02-15T00:00:00+00:00",
       "date": "2026-02-15 00:00:00",
-      "importance": 5,
-      "category": "umělá inteligence",
+      "importance": 4,
+      "category": "ai",
       "urlToImage": "https://chinamediaproject.org/wp-content/uploads/2026/02/Screenshot-2026-02-09-at-14.26.15.png",
       "url": "/tech-news/2026-02-15/tokens-of-ai-biases/",
       "source": {
@@ -42,7 +182,7 @@
     },
     {
       "title": "Články o hackerech, umělé inteligenci, Notepad++, humanoidních robotech a čínských firmách",
-      "description": "Čínská komunistická strana usiluje o ovládání informačních technologií jako prostředek k formování a cenzuře komunikace a názorů svých občanů i komunikace osob mimo hranice Číny.",
+      "description": "Čínská komunistická strana využívá kontrolu nad informačními technologiemi k formování a cenzuře komunikace svých občanů i osob mimo hranice Číny. Tato souhrnná zpráva shrnuje klíčové události týkající se čínských hackerů, pokroků v AI a robotice.",
       "slug": "articles-on-hackers-ai-notepad-humanoid-robots-and",
       "publishedAt": "2026-02-15T00:00:00+00:00",
       "date": "2026-02-15 00:00:00",
@@ -1608,26 +1748,6 @@
       },
       "companies": [
         "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Anthropic dosáhl valuace 380 miliard dolarů po financovním kole za 30 miliard",
-      "description": "Společnost Anthropic získala 30 miliard dolarů v novém financovním kole, což zdvojnásobilo její valuaci na 380 miliard dolarů. Tento krok podtrhuje rostoucí zájem investorů o AI technologie, přičemž firma se odlišuje zaměřením na kódování a enterprise řešení.",
-      "slug": "anthropic-clinches-380-billion-valuation-after-30-",
-      "publishedAt": "2026-02-12T19:03:41+00:00",
-      "date": "2026-02-12 19:03:41",
-      "importance": 5,
-      "category": "ai",
-      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--LgUWkQbx--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-02-12T190605Z_2_LYNXMPEM1B1DQ_RTROPTP_3_ANTHROPIC-AI.JPG?itok=mpx1nRAV",
-      "url": "/tech-news/2026-02-12/anthropic-clinches-380-billion-valuation-after-30/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNA"
-      },
-      "companies": [
-        "Anthropic"
       ],
       "people": []
     },
@@ -3293,526 +3413,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Bikeportland.org"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "AI podnikání SK za 10 miliard USD přivádí předsedu k Nvidia",
-      "description": "SK Group urychluje expanzi v infrastruktuře umělé inteligence investicí 10 miliard USD a vysoké vedení navštívilo Spojené státy, aby jednalo s Nvidia. Korejské média hlásí, že předseda Chey Tae-won a manažeři SK Hynix hledají strategickou spolupráci v oblasti AI čipů a pamětí.",
-      "slug": "sks-us10bn-ai-venture-takes-chairman-to-nvidias-do",
-      "publishedAt": "2026-02-09T23:47:35+00:00",
-      "date": "2026-02-09 23:47:35",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://img.digitimes.com/newsshow/20260209pd232_files/2_b.jpg",
-      "url": "/tech-news/2026-02-09/sks-us10bn-ai-venture-takes-chairman-to-nvidias-do/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
-      },
-      "companies": [
-        "Nvidia",
-        "SK Group",
-        "SK Hynix"
-      ],
-      "people": [
-        "Chey Tae-won"
-      ]
-    },
-    {
-      "title": "Startup Oxide Computer na infrastrukturu soukromého cloudu údajně získal 200 milionů dolarů v novém kole financování",
-      "description": "Startup Oxide Computer Co., který vyvíjí infrastrukturu datových center inspirovanou cloudovými službami, údajně získal 200 milionů dolarů v novém kole financování. Kolem vedl fond U.S. Innovative Technology Fund a následuje po loňském kole ve výši 100 milionů dolarů.",
-      "slug": "private-cloud-infrastructure-startup-oxide-compute",
-      "publishedAt": "2026-02-09T23:41:41+00:00",
-      "date": "2026-02-09 23:41:41",
-      "importance": 4,
-      "category": "startupy",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Oxide.png",
-      "url": "/tech-news/2026-02-09/private-cloud-infrastructure-startup-oxide-compute/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Oxide Computer",
-        "Axios"
-      ],
-      "people": []
-    },
-    {
-      "title": "ChatGPT zavádí reklamy | TechCrunch",
-      "description": "OpenAI začíná testovat reklamy v ChatGPT pro bezplatné uživatele a držitele levného předplatného Go v USA. Placení plány zůstávají bez reklam, přičemž firma zdůrazňuje, že reklamy neovlivňují odpovědi modelu ani neohrožují soukromí konverzací.",
-      "slug": "chatgpt-rolls-out-ads-techcrunch",
-      "publishedAt": "2026-02-09T20:16:28+00:00",
-      "date": "2026-02-09 20:16:28",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/02/chatgpt-ads.webp?resize=1200,675",
-      "url": "/tech-news/2026-02-09/chatgpt-rolls-out-ads-techcrunch/",
-      "source": {
-        "emoji": "🚀",
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Robotaxi Wayma často ovládají lidé z Filipín",
-      "description": "Waymo obhajuje své plány s čínsky propojenými robotaxi a dálkovými operátory z Filipín, zatímco američtí senátoři upozorňují na rizika pro národní bezpečnost a pracovní práva.",
-      "slug": "waymos-robotaxis-are-often-operated-by-some-guy-in",
-      "publishedAt": "2026-02-09T20:16:23+00:00",
-      "date": "2026-02-09 20:16:23",
-      "importance": 4,
-      "category": "robotaxi",
-      "urlToImage": "https://www.carscoops.com/wp-content/uploads/2026/02/Waymo-Zeekr-USA-1024x576.jpg",
-      "url": "/tech-news/2026-02-09/waymos-robotaxis-are-often-operated-by-some-guy-in/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CarScoops"
-      },
-      "companies": [
-        "Waymo"
-      ],
-      "people": []
-    },
-    {
-      "title": "Super Bowl se stal pódiem pro rivalitu v AI průmyslu",
-      "description": "Letošní Super Bowl označil obrat, kdy firmy zaměřené na umělou inteligenci ovládly reklamní prostor. OpenAI a její rival Anthropic využily tuto masivní platformu k veřejné konfrontaci ohledně monetizace, soukromí a důvěry v AI.",
-      "slug": "super-bowl-becomes-stage-for-ai-industry-rivalry",
-      "publishedAt": "2026-02-09T20:15:12+00:00",
-      "date": "2026-02-09 20:15:12",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/02/Anthropic-Super-Bowl-ad.png",
-      "url": "/tech-news/2026-02-09/super-bowl-becomes-stage-for-ai-industry-rivalry/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "pymnts.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Investoři přesouvají zaměření na efektivitu a ekonomiku AI",
-      "description": "Investice rizikového kapitálu do umělé inteligence pokračovaly na počátku února, ale investoři nyní upřednostňují odolnost a ekonomiku technologie před pouhým škálováním. Mezi klíčovými příklady jsou financování Positron AI na energeticky úsporné inference a Goodfire na nástroje pro interpretovatelnost modelů.",
-      "slug": "investors-shift-focus-to-ai-efficiency-and-economi",
-      "publishedAt": "2026-02-09T19:42:44+00:00",
-      "date": "2026-02-09 19:42:44",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2025/07/This-Week-in-AI-funding-investments.jpg",
-      "url": "/tech-news/2026-02-09/investors-shift-focus-to-ai-efficiency-and-economi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "pymnts.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Podnik v datových centrech podporovaný Ericem Schmidtem jedná o velkou dohodu s Googlom",
-      "description": "Bolt Data and Energy, kterou nedávno spoluzaložil Eric Schmidt a získala investici 150 milionů dolarů, vede jednání s Googlom o tom, aby tento gigant byl hlavním partnerem pro jejich kampus v Texasu.",
-      "slug": "eric-schmidt-backed-data-center-venture-is-negotia",
-      "publishedAt": "2026-02-09T19:33:44+00:00",
-      "date": "2026-02-09 19:33:44",
-      "importance": 4,
-      "category": "datová centra",
-      "urlToImage": "https://i.insider.com/698a3241a645d1188188fc28?width=1200&format=jpeg",
-      "url": "/tech-news/2026-02-09/eric-schmidt-backed-data-center-venture-is-negotia/",
-      "source": {
-        "emoji": "📰",
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "companies": [
-        "Bolt Data and Energy",
-        "Google"
-      ],
-      "people": [
-        "Eric Schmidt"
-      ]
-    },
-    {
-      "title": "Elon Musk mění plány SpaceX: Z Marsu na měsíční město pro záchranu civilizace",
-      "description": "Nejbohatší člověk světa oznámil, že jeho společnost SpaceX přesouvá fokus z osídlení Marsu na stavbu „seberozrůstajícího města“ na Měsíci. Tento krok umožní dosáhnout cíle rychleji než plány na Rudou planetu.",
-      "slug": "elon-musk-pivots-from-spacex-mars-plan-to-build-a-",
-      "publishedAt": "2026-02-09T19:23:53+00:00",
-      "date": "2026-02-09 19:23:53",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://static.ffx.io/images/$zoom_0.2468%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_208%2C$y_0/t_crop_custom/q_86%2Cf_auto/5755152059979a120574365679444f672434bcba",
-      "url": "/tech-news/2026-02-09/elon-musk-pivots-from-spacex-mars-plan-to-build-a/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Sydney Morning Herald"
-      },
-      "companies": [
-        "SpaceX"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Rozšíření Fractile ukazuje růstové příležitosti Británie v AI",
-      "description": "Britská startupová firma Fractile na AI čipy investuje 100 milionů liber do rozšíření v Bristolu a Londýně, což vláda prezentuje jako příklad svého plánu na rozvoj AI. Společnost slibuje čipy pro inference AI modelů až 50krát rychlejší a za desetinu nákladů oproti GPU.",
-      "slug": "fractile-expansion-demonstrates-uk-growth-opportun",
-      "publishedAt": "2026-02-09T19:01:00+00:00",
-      "date": "2026-02-09 19:01:00",
-      "importance": 4,
-      "category": "ai čipy",
-      "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/HeroImages/AI-artificial-intelligence-chips-BAIVECTOR-adobe.jpg",
-      "url": "/tech-news/2026-02-09/fractile-expansion-demonstrates-uk-growth-opportun/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "ComputerWeekly.com"
-      },
-      "companies": [
-        "Fractile"
-      ],
-      "people": []
-    },
-    {
-      "title": "Pákistán investuje 1 miliardu USD do umělé inteligence pro posílení digitální ekonomiky",
-      "description": "Premiér Shehbaz Sharif oznámil investici 1 miliardy amerických dolarů do AI do roku 2030. Cílem je vybudovat robustní AI ekosystém, zaměřený na klíčové sektory jako zemědělství a průmysl, a zvýšit produktivitu populace.",
-      "slug": "pakistan-to-invest-1-bln-usd-in-ai-to-boost-digita",
-      "publishedAt": "2026-02-09T16:31:00+00:00",
-      "date": "2026-02-09 16:31:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
-      "url": "/tech-news/2026-02-09/pakistan-to-invest-1-bln-usd-in-ai-to-boost-digita/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Star Online"
-      },
-      "companies": [],
-      "people": [
-        "Shehbaz Sharif"
-      ]
-    },
-    {
-      "title": "Ashwini Vaishnaw diskutoval strategické vazby Indie a USA se Sergiem Gorem",
-      "description": "Indický ministr Ashwini Vaishnaw se v pondělí setkal s americkým velvyslancem v Indii Sergiem Gorem a diskutovali posílení strategických vztahů mezi oběma zeměmi s důrazem na polovodiče a výrobu elektroniky. Vaishnaw očekává silnou účast USA na summitu AI Impact Summit 2026.",
-      "slug": "ashwini-vaishnaw-discusses-india-us-strategic-ties",
-      "publishedAt": "2026-02-09T16:28:08+00:00",
-      "date": "2026-02-09 16:28:08",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-02/09/thumb/fitandfill/1200X630/1770654431-2942.jpg",
-      "url": "/tech-news/2026-02-09/ashwini-vaishnaw-discusses-india-us-strategic-ties/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Business Standard"
-      },
-      "companies": [],
-      "people": [
-        "Ashwini Vaishnaw",
-        "Sergio Gor"
-      ]
-    },
-    {
-      "title": "Paradigmatická změna: Hrozba pro rutinní IT role v sektoru služeb narůstá",
-      "description": "Příchod užitečné nové technologie vždy vede k narušení, protože některé funkce jsou postupně vyřazovány. Například chovatelé koní prožili krizi s příchodem automobilu.",
-      "slug": "a-paradigm-shift-threat-is-increasing-for-routine-",
-      "publishedAt": "2026-02-09T16:03:22+00:00",
-      "date": "2026-02-09 16:03:22",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-02/20/full/1645373400-9814.jpg",
-      "url": "/tech-news/2026-02-09/a-paradigm-shift-threat-is-increasing-for-routine/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Business Standard"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "NASA nechala AI řídit rover Perseverance dva dny",
-      "description": "NASA pokročila směrem k větší autonomii planetárních roverů tím, že v prosinci použila AI k generování trasových bodů pro rover Perseverance během dvou dnů. Rover ujel celkem 456 metrů bez jakéhokoli lidského zásahu.",
-      "slug": "nasa-let-ai-drive-the-perseverance-rover-for-two-d",
-      "publishedAt": "2026-02-09T15:56:57+00:00",
-      "date": "2026-02-09 15:56:57",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://www.universetoday.com/article_images/E2_-_PIA26645_-_Hyperdrive_Overlay.width-1320_20260206_172551.jpg",
-      "url": "/tech-news/2026-02-09/nasa-let-ai-drive-the-perseverance-rover-for-two-d/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Universe Today"
-      },
-      "companies": [
-        "NASA"
-      ],
-      "people": []
-    },
-    {
-      "title": "Imec otevřel pilotní linku NanoIC a urychluje inovace v systémech na čipu pod 2 nm",
-      "description": "Imec, přední výzkumné centrum v pokročilých polovodičových technologiích, otevřelo rozšíření čisté místnosti o 2 000 m² ve svém sídle v Leuvenu. Tento krok představuje klíčový milník pro evropskou pilotní linku NanoIC, která cílí na vývoj technologií pod 2 nm.",
-      "slug": "pr-imec-inaugurates-nanoic-pilot-line-accelerating",
-      "publishedAt": "2026-02-09T12:28:42+00:00",
-      "date": "2026-02-09 12:28:42",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://www.techpowerup.com/img/U2X9GjJcbZ5kf8gA.jpg",
-      "url": "/tech-news/2026-02-09/pr-imec-inaugurates-nanoic-pilot-line-accelerating/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Techpowerup.com"
-      },
-      "companies": [
-        "Imec"
-      ],
-      "people": []
-    },
-    {
-      "title": "GPT-5.3 Codex zvyšuje latku, Opus 4.6 však stále vede v hlubokém uvažování",
-      "description": "OpenAI představilo model GPT-5.3 Codex s kontextovým oknem 400 tisíc tokenů, rychlejší exekucí a vyšší efektivitou pro kódování. Porovnání s modelem Opus 4.6 od Anthropic ukazuje silné stránky v rychlosti, zatímco Opus vyniká v hlubokém uvažování.",
-      "slug": "gpt-53-codex-raises-the-bar-but-opus-46-still-owns",
-      "publishedAt": "2026-02-09T08:41:15+00:00",
-      "date": "2026-02-09 08:41:15",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/02/codex-vs-opus-4-6-comparison-chart_optimized.jpg",
-      "url": "/tech-news/2026-02-09/gpt-53-codex-raises-the-bar-but-opus-46-still-owns/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Role Inda v SaaSpocalypse: AI od Anthropic odebralo indickým tech gigantům 2,5 lakh crore",
-      "description": "Indický technologický lídr Rahul Patil je v centru tržního otřesu. Jeho práce na novém Claude AI od Anthropic, schopném samostatných pracovních postupů, vymazala miliardy z globálních tech firem. Tento 'efekt Patil' zpochybňuje tradiční software a IT služby.",
-      "slug": "an-indians-role-in-the-saaspocalypse-while-anthrop",
-      "publishedAt": "2026-02-09T08:40:09+00:00",
-      "date": "2026-02-09 08:40:09",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://img.etimg.com/thumb/msid-128105863,width-1200,height-630,imgsize-62534,overlay-economictimes/articleshow.jpg",
-      "url": "/tech-news/2026-02-09/an-indians-role-in-the-saaspocalypse-while-anthrop/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Anthropic"
-      ],
-      "people": [
-        "Rahul Patil"
-      ]
-    },
-    {
-      "title": "Domov na Měsíci za 10 let? Plán Elona Muska na samo-růstoucí lunární město zní jako z 'Interstellar'",
-      "description": "SpaceX plánuje samo-růstoucí město na Měsíci do deseti let, což představuje posun od dřívějších ambicí na Mars. Firma míří na bezzałogové přistání na Měsíci do března 2027 a nedávno získala xAI pro integraci umělé inteligence.",
-      "slug": "home-at-moon-in-10-years-elon-musks-plan-for-a-sel",
-      "publishedAt": "2026-02-09T08:32:11+00:00",
-      "date": "2026-02-09 08:32:11",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://img.etimg.com/thumb/msid-128105205,width-1200,height-630,imgsize-1651907,overlay-economictimes/articleshow.jpg",
-      "url": "/tech-news/2026-02-09/home-at-moon-in-10-years-elon-musks-plan-for-a-sel/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "SpaceX",
-        "xAI"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "„AI“ nejhledanější podceněná vertikála v Reliance Industries: Morgan Stanley",
-      "description": "Morgan Stanley považuje umělou inteligenci (AI) za nejdůležitější podhodnocenou oblast Reliance Industries (RIL) a udržuje hodnocení Overweight s cílovou cenou 1 803 Rs, což znamená 24% růst od uzavření 6. února na 1 451 Rs.",
-      "slug": "ai-the-most-underappreciated-vertical-in-reliance-",
-      "publishedAt": "2026-02-09T07:55:04+00:00",
-      "date": "2026-02-09 07:55:04",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://img.etimg.com/thumb/msid-128104303,width-1200,height-630,imgsize-73796,overlay-etmarkets/articleshow.jpg",
-      "url": "/tech-news/2026-02-09/ai-the-most-underappreciated-vertical-in-reliance/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "TII ze SAE vyzývá dominanci velkých technologických firem otevřenými Falcon AI modely",
-      "description": "Prostřednictvím Falcon modelů a otevřené, efektivitou řízené výzkumné strategie se Technology Innovation Institute staví Spojené arabské emiráty jako producenta základních umělých inteligencí, nikoli jen spotřebitele globálních platforem.",
-      "slug": "uaes-tii-challenges-big-tech-dominance-with-open-s",
-      "publishedAt": "2026-02-09T07:35:00+00:00",
-      "date": "2026-02-09 07:35:00",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/HeroImages/Abu-Dhabi-city-water-UAE-tuulijumala-adobe.jpg",
-      "url": "/tech-news/2026-02-09/uaes-tii-challenges-big-tech-dominance-with-open-s/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "ComputerWeekly.com"
-      },
-      "companies": [
-        "Technology Innovation Institute"
-      ],
-      "people": []
-    },
-    {
-      "title": "Hloubkový pohled: Čínští technologickí giganti utrácí obrovské sumy, aby ovládli AI v zdravotnictví",
-      "description": "Firmy jako Ant Group a ByteDance investují stovky milionů juanů do personalizovaných lékařských konzultací prostřednictvím AI, ale ziskový obchodní model zatím zůstává nedosažitelný.",
-      "slug": "in-depth-chinas-tech-giants-burn-cash-to-try-to-do",
-      "publishedAt": "2026-02-09T07:20:26+00:00",
-      "date": "2026-02-09 07:20:26",
-      "importance": 4,
-      "category": "ai zdravotnictví",
-      "urlToImage": "https://img.caixin.com/2026-02-05/177028537954944_560_373.jpg",
-      "url": "/tech-news/2026-02-09/in-depth-chinas-tech-giants-burn-cash-to-try-to-do/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Caixin Global"
-      },
-      "companies": [
-        "Ant Group",
-        "ByteDance"
-      ],
-      "people": []
-    },
-    {
-      "title": "Agent Teams proměňuje Claude Code v rychlý systém s více agenty",
-      "description": "Funkce Agent Teams v Claude Code od Anthropic umožňuje vytvářet týmy specializovaných sub-agentů, kteří autonomně spolupracují na složitých úkolech. Kombinace s modelem Opus 4.6 přináší paralelní zpracování a lepší orchestraci workflowů, i když s vysokými nároky na zdroje.",
-      "slug": "agent-teams-turns-claude-code-into-a-fast-multi-wo",
-      "publishedAt": "2026-02-09T07:13:12+00:00",
-      "date": "2026-02-09 07:13:12",
-      "importance": 4,
-      "category": "ai agenti",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/02/claude-code-agent-teams-split-panes_optimized.jpg",
-      "url": "/tech-news/2026-02-09/agent-teams-turns-claude-code-into-a-fast-multi-wo/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [
-        "Better Stack",
-        "Anthropic"
-      ],
-      "people": []
-    },
-    {
-      "title": "SpaceX Shifts to Rapid Moon Development Instead of Mars for More Scaling of AI in Space",
-      "description": "SpaceX has already shifted focus to building a self-growing city on the Moon, as we can potentially achieve that in less than 10 years, whereas Mars would take 20+ years. Elon Musk is talking about building a city on the Moon at a faster pace. The real reason…",
-      "slug": "spacex-shifts-to-rapid-moon-development-instead-of",
-      "publishedAt": "2026-02-09T04:41:20+00:00",
-      "date": "2026-02-09 04:41:20",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/02/mooncity-1024x571.jpg",
-      "url": "/tech-news/2026-02-09/spacex-shifts-to-rapid-moon-development-instead-of/",
-      "source": {
-        "emoji": "📰",
-        "id": "next-big-future",
-        "name": "Next Big Future"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Rs 2 lakh crore IT rout meets India's first AI IPO: Is Fractal a better bet than TCS, Infosys and HCL Tech?",
-      "description": "Fractal Analytics' IPO launches amid Indian IT sector worries about AI automation. While traditional IT stocks face a sharp sell-off, Fractal offers a pure-play AI investment. Its focus on enterprise AI and analytics solutions differentiates it from legacy fi…",
-      "slug": "rs-2-lakh-crore-it-rout-meets-indias-first-ai-ipo-",
-      "publishedAt": "2026-02-09T02:58:22+00:00",
-      "date": "2026-02-09 02:58:22",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://img.etimg.com/thumb/msid-128094536,width-1200,height-630,imgsize-37116,overlay-etmarkets/articleshow.jpg",
-      "url": "/tech-news/2026-02-09/rs-2-lakh-crore-it-rout-meets-indias-first-ai-ipo/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "10 Best Sci-Fi Shows On Netflix",
-      "description": "Sci-fi is a very versatile genre, with some of the most imaginative and exciting ideas. Netflix is streaming some of the best sci-fi shows ever made.",
-      "slug": "A-10-best-sci-fi-shows-on-netflix",
-      "publishedAt": "2026-02-09T02:45:18+00:00",
-      "date": "2026-02-09 02:45:18",
-      "importance": 5,
-      "category": "tech",
-      "urlToImage": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/01/jibaro-in-love-death-and-robots.jpg?w=1600&h=900&fit=crop",
-      "url": "/tech-news/2026-02-09/A-10-best-sci-fi-shows-on-netflix/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Screen Rant"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Fractal Analytics IPO opens at ₹857-900; issue size ₹2,834 crore",
-      "description": "Fractal Analytics Ltd opens its Rs 2,834 crore IPO at Rs 857-900 per share, backed by strong anchor investor demand, raising funds for AI R&D and loan repayment.",
-      "slug": "fractal-analytics-ipo-opens-at-857-900-issue-size-",
-      "publishedAt": "2026-02-09T02:44:56+00:00",
-      "date": "2026-02-09 02:44:56",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/mksoh5/article70609494.ece/alternates/LANDSCAPE_1200/2025-11-19T054404Z_1041360960_RC25ZHAHJJWB_RTRMADP_3_FRACTAL-ANALYTICS-INTERVIEW-CEO.JPG",
-      "url": "/tech-news/2026-02-09/fractal-analytics-ipo-opens-at-857-900-issue-size/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Why Quantum Computing Isn’t a Serious Risk for Bitcoin Yet: CoinShares",
-      "description": "New research says today’s quantum computers are far too weak to threaten Bitcoin’s cryptography, leaving the network years to prepare.",
-      "slug": "why-quantum-computing-isnt-a-serious-risk-for-bitc",
-      "publishedAt": "2026-02-09T01:01:22+00:00",
-      "date": "2026-02-09 01:01:22",
-      "importance": 5,
-      "category": "tech",
-      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/bitcoin-decrypt-style-specs-gID_7.png",
-      "url": "/tech-news/2026-02-09/why-quantum-computing-isnt-a-serious-risk-for-bitc/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Decrypt"
       },
       "companies": [],
       "people": []

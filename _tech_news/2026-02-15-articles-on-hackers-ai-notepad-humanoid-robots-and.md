@@ -2,9 +2,9 @@
 author: Marisa Aigen
 category: čínská cenzura
 date: '2026-02-15 00:00:00'
-description: Čínská komunistická strana usiluje o ovládání informačních technologií
-  jako prostředek k formování a cenzuře komunikace a názorů svých občanů i komunikace
-  osob mimo hranice Číny.
+description: Čínská komunistická strana využívá kontrolu nad informačními technologiemi
+  k formování a cenzuře komunikace svých občanů i osob mimo hranice Číny. Tato souhrnná
+  zpráva shrnuje klíčové události týkající se čínských hackerů, pokroků v AI a robotice.
 importance: 5
 layout: tech_news_article
 original_title: 'Articles On: Hackers, AI, Notepad++, Humanoid Robots, and Chinese
@@ -23,24 +23,26 @@ urlToImageBackup: https://www.hoover.org/sites/default/files/styles/facebook/pub
 ---
 
 ### Souhrn
-Tento přehled shrnuje nedávné články zaměřené na čínský vliv v oblasti kybernetické bezpečnosti, umělé inteligence, robotiky a investic. Mezi klíčovými tématy patří rozsáhlá špionážní kampaň čínských hackerů zasahující 37 zemí, zneužití aktualizační funkce v editoru Notepad++ státními hackery, mylné představy o čínské AI, ambice Číny v humanoidních robotech proti USA a převahu čínských firem v investicích do Singapuru. Tyto události ukazují na strategické snahy Pekingu o dominanci v klíčových technologických oblastech.
+Tato souhrnná zpráva zveřejněná 15. února 2026 se zaměřuje na aktivity čínských hackerů, jejich vliv na software jako Notepad++, konkurenční postavení Číny v umělé inteligenci a humanoidních robotech vůči USA a ekonomickou expanzi čínských firem. Čínská komunistická strana prostřednictvím těchto technologií posiluje svou globální mocenskou pozici, včetně špionáže a investic.
 
 ### Klíčové body
-- Čínští hackeři provedli špionážní útoky na citlivé cíle v 37 zemích, což představuje jednu z největších kampaní tohoto typu.
-- Aktualizační mechanismus Notepad++, oblíbeného textového editoru pro programátory, byl měsíce hijackován čínskými státními hackery pro distribuce malware.
-- Čína masivně investuje do humanoidních robotů s cílem překonat USA v této oblasti.
-- Čínské firmy překonaly americké v objemu investic do Singapuru, což signalizuje posun ekonomického vlivu.
-- Debata o čínské AI zdůrazňuje potřebu přehodnocení západních představ o jejích schopnostech.
+- Čínští hackeři napadli citlivé cíle v 37 zemích v rámci rozsáhlého špionážního plánu.
+- Funkce aktualizací Notepad++ byla měsíce hijackována čínskými státními hackery.
+- Čína urychluje vývoj humanoidních robotů, aby překonala USA.
+- Čínské firmy překonaly americké v investicích do Singapuru.
+- Debata o chybách v percepci čínského pokroku v AI.
 
 ### Podrobnosti
-Notepad++ je široce používaný open-source textový editor pro vývojáře, který slouží k úpravě kódu, konfiguračních souborů a skriptů v různých programovacích jazycích. Jeho pluginový systém a aktualizační funkce umožňují snadné rozšiřování o nové syntax highlighting nebo nástroje pro debugging. Podle zprávy Bleeping Computer z 5. února 2026 byl tento aktualizační kanál zneužit čínskými státními hackery po dobu několika měsíců, což umožnilo distribuci škodlivého software tisícům uživatelů po celém světě. Tento incident není ojedinělý; Bloomberg hlásí, že hackeři napadli citlivé cíle v 37 zemích v rámci rozsáhlé špionážní operace, zaměřené na vládní sítě, telekomunikační firmy a průmyslové sektory. Tyto akce jsou spojeny s čínskými státními aktéry, kteří využívají supply chain útoky – tedy zneužití důvěryhodných kanálů pro infiltraci.
+Čínští hackeři podle zprávy Bloombergu z 5. února 2026 provedli masivní špionážní operaci zaměřenou na citlivé cíle v 37 zemích. Tyto útoky cílily na vládní sítě, energetické infrastruktury a technologické firmy, což umožnilo získání dat o obranných systémech a průmyslových tajemstvích. Tato kampaň, připisovaná státně sponzorovaným skupinám jako APT41, demonstruje sofistikovanost čínských kybernetických operací, které kombinují phishing, zero-day exploity a supply-chain útoky.
 
-V oblasti umělé inteligence Politico v článku z 7. února 2026 upozorňuje na chyby v západním vnímání čínské AI. Zatímco USA dominují v pokročilých modelech jako GPT nebo Gemini, Čína se soustředí na praktické aplikace v průmyslu, monitoringu a cenzuře, podporované státními dotacemi. Například čínské LLM modely jsou optimalizovány pro masové nasazení v sociálních sítích pro detekci "nepovoleného obsahu". Paralelně Wall Street Journal popisuje, jak Čína alokuje miliardy do humanoidních robotů – autonomních strojů schopných pohybu, manipulace objektů a interakce s lidmi, jako jsou modely od firmy Unitree Robotics nebo Fourier Intelligence, které se zabývají vývojem robotů pro továrny a domácnosti. Cílem je dosáhnout paritu s USA do roku 2030, kde firmy jako Boston Dynamics vedou s modely Atlas.
+Další incident se týká Notepad++, oblíbeného textového editoru pro programátory, který slouží k úpravě kódu, skriptů a konfiguračních souborů v prostředích jako Windows. Podle Bleeping Computera z 5. února 2026 byla jeho funkce automatických aktualizací zneužita čínskými státními hackery po dobu několika měsíců. Hackeři nahradili legitimní aktualizace škodlivým kódem, který instaloval malware umožňující vzdálený přístup k počítačům tisíců uživatelů, především vývojářů. Notepad++ vyvinula společnost Don Ho jako open-source nástroj s podporou syntax highlighting pro více než 80 programovacích jazyků, což ho činí nezbytným v IT průmyslu. Tento útok zdůrazňuje rizika v supply-chain bezpečnosti, kde důvěryhodné aktualizační mechanismy slouží jako vstupní brána.
 
-Ekonomický rozměr doplňuje Financial Times: čínské firmy v roce 2025 překonaly americké v investicích do Singapuru, klíčového tech hubu v Asii, s důrazem na polovodiče a AI infrastrukturu. Tento posun odráží širší strategii "Made in China 2025", kde Peking kombinuje investice s kybernetickými operacemi pro získání technologické nadvlády.
+V oblasti AI upozorňuje Politico z 7. února 2026 na chyby v hodnocení čínského pokroku. Zatímco Západ se zaměřuje na velké jazykové modely (LLM) jako GPT nebo Gemini, Čína investuje do hardwaru, datových center a aplikací v průmyslu, což ji staví do pozice lídra v praktickém nasazení AI pro výrobu a dohled. Čínské firmy jako Baidu nebo Huawei rozvíjejí vlastní LLM, které jsou optimalizovány pro čínský trh s cenzurovanými daty.
+
+Wall Street Journal z 7. února 2026 popisuje čínskou strategii v humanoidní robotice. Čína alokuje miliardy do firem jako Unitree Robotics nebo Fourier Intelligence, které vyvíjejí bipedy s pokročilou autonomií pro továrny a domácnosti. Na rozdíl od amerických firem jako Boston Dynamics, které se zaměřují na vojenské aplikace, čínští výrobci cílí na masovou produkci levných robotů s AI pro manipulaci objektů a navigaci. Financial Times z 8. února hlásí, že čínské firmy překonaly USA v investicích do Singapuru, což posiluje jejich přítomnost v jihovýchodní Asii prostřednictvím akvizic a greenfield projektů v polovodičích a AI.
 
 ### Proč je to důležité
-Tyto události mají dlouhodobé dopady na globální IT ekosystém. Supply chain útoky jako u Notepad++ oslabují důvěru v open-source software, což nutí vývojáře přejít na ověřené kanály jako GitHub releases nebo enterprise řešení s end-to-end šifrováním. Špionáž v 37 zemích zvyšuje rizika pro firmy závislé na cloudových službách, kde čínské komponenty (např. v Huawei zařízeních) mohou sloužit jako backdoory. V robotice čínská alokace zdrojů urychluje komercializaci humanoidů, což ovlivní trh práce v manufakturách – od automobilového průmyslu po logistiku – a donutí Západ zintenzivnit investice, aby se vyhnul závislosti na čínských dodavatelích. Celkově to podtrhuje nutnost diverzifikace supply chainů a posílení kybernetické obrany, protože čínský model spojuje ekonomickou expanzi s informační kontrolou, což ohrožuje otevřený technologický vývoj.
+Tyto události signalizují eskalaci čínsko-americké technologické války. Bezpečnostní krize jako Notepad++ hack ohrožuje miliony vývojářů a zdůrazňuje nutnost robustních podpisů aktualizací a zero-trust architektur. V robotice může čínská dominance vést k levnějším humanoidním systémům, které změní pracovní sílu v továrnách, ale zároveň zesílí závislost na čínském hardwaru. V AI to znamená, že Západ podceňuje čínskou kapacitu v aplikovaném nasazení, což má dopady na globální standardy a bezpečnost. Pro IT profesionály to vyžaduje okamžité kontroly aktualizací a diverzifikaci dodavatelských řetězců, zatímco průmysl čelí riziku ekonomické a technologické závislosti na Číně.
 
 ---
 
