@@ -1,7 +1,73 @@
 {
-  "generated": "2026-02-16T13:00:12.097814+00:00",
-  "count": 178,
+  "generated": "2026-02-16T16:56:54.304925+00:00",
+  "count": 181,
   "articles": [
+    {
+      "title": "20VC x SaaStr tento týden s Mike Cannon-Brookes, spoluzakladatelem Atlassian: Proč B2B software není mrtvý, co skutečně znamená projekce Anthropic na 149 miliard dolarů a proč generální ředitelé musí přestat stěžovat si a začít budovat",
+      "description": "V podcastu 20VC x SaaStr diskutují Harry Stebbings, Jason Lemkin, Rory O’Driscoll a host Mike Cannon-Brookes z Atlassian dopad umělé inteligence na trh B2B software, reálnost projekcí Anthropic a OpenAI a výzvy pro šéfy firem. Zaměřují se na problémy s akumulací příjmů v AI ekosystému a nutnost aktivního budování.",
+      "slug": "A-20vc-x-saastr-this-week-with-atlassian-co-founde",
+      "publishedAt": "2026-02-15T15:10:54+00:00",
+      "date": "2026-02-15 15:10:54",
+      "importance": 4,
+      "category": "saas",
+      "urlToImage": "https://i0.wp.com/www.saastr.com/wp-content/uploads/2026/02/Creature-Feature-scaled.jpg?fit=1000%2C565&quality=70&ssl=1",
+      "url": "/tech-news/2026-02-15/A-20vc-x-saastr-this-week-with-atlassian-co-founde/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Saastr.com"
+      },
+      "companies": [
+        "Atlassian",
+        "Anthropic",
+        "Scale"
+      ],
+      "people": [
+        "Mike Cannon-Brookes",
+        "Harry Stebbings",
+        "Jason Lemkin"
+      ]
+    },
+    {
+      "title": "„Vaše AI nenávidí Bílé a Asijce:“ Elon Musk kritizuje Anthropic po 30miliardovém financování",
+      "description": "Elon Musk veřejně označil modely umělé inteligence společnosti Anthropic za „misanthropní a zlé“, protože podle něj diskriminují Bílé lidi, Asijce, heterosexuály a muže. Kritika přišla krátce po oznámení úspěšného uzavření 30miliardového kola financování s valuací 380 miliard dolarů.",
+      "slug": "your-ai-hates-whites-asians-elon-musk-slams-anthro",
+      "publishedAt": "2026-02-15T14:59:50+00:00",
+      "date": "2026-02-15 14:59:50",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://media.breitbart.com/media/2026/02/Elon-Musk-targets-anthropic-640x335.jpg",
+      "url": "/tech-news/2026-02-15/your-ai-hates-whites-asians-elon-musk-slams-anthro/",
+      "source": {
+        "emoji": "📰",
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Hygiena reality",
+      "description": "Ačkoli propagandu nadšenů z umělé inteligence o schopnostech velkých jazykových modelů považuji za přehnanou, více mě znepokojuje vývoj v oblasti deepfakes. Na základě událostí z uplynulého týdne je otázka, zda vidět stále znamená věřit, stále otevřená.",
+      "slug": "reality-hygiene",
+      "publishedAt": "2026-02-15T14:19:35+00:00",
+      "date": "2026-02-15 14:19:35",
+      "importance": 4,
+      "category": "deepfakes",
+      "urlToImage": null,
+      "url": "/tech-news/2026-02-15/reality-hygiene/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Lawyersgunsmoneyblog.com"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Roj AI botů ohrožuje demokracii",
       "description": "Úroveň koordinace mezi neautentickými online agenty je bezprecedentní. Výzkumníci odhalili síť tisíců botů poháněných AI, které manipulují algoritmy sociálních sítí.",
