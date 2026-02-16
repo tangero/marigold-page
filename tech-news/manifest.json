@@ -1,7 +1,63 @@
 {
-  "generated": "2026-02-16T09:05:52.681659+00:00",
-  "count": 175,
+  "generated": "2026-02-16T13:00:12.097814+00:00",
+  "count": 178,
   "articles": [
+    {
+      "title": "Roj AI botů ohrožuje demokracii",
+      "description": "Úroveň koordinace mezi neautentickými online agenty je bezprecedentní. Výzkumníci odhalili síť tisíců botů poháněných AI, které manipulují algoritmy sociálních sítí.",
+      "slug": "swarms-of-ai-bots-are-threatening-democracy",
+      "publishedAt": "2026-02-15T11:00:56+00:00",
+      "date": "2026-02-15 11:00:56",
+      "importance": 5,
+      "category": "ai boty",
+      "urlToImage": "https://www.salon.com/app/uploads/2021/04/artificial-intelligence-robot-0427211.jpg",
+      "url": "/tech-news/2026-02-15/swarms-of-ai-bots-are-threatening-democracy/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Salon"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "AI agenti mění, jaké je být programátorem: 'Je to na rozdíl od jakéhokoli jiného času.'",
+      "description": "AI agenti proměňují softwarové inženýry v dozorce – a mohou zasáhnout i jiné kancelářské profese. Mnoho firem se stále musí přizpůsobit novým rolím zaměstnanců.",
+      "slug": "ai-agents-are-transforming-what-its-like-to-be-a-c",
+      "publishedAt": "2026-02-15T10:03:01+00:00",
+      "date": "2026-02-15 10:03:01",
+      "importance": 4,
+      "category": "programování",
+      "urlToImage": "https://i.insider.com/698f8473e1ba468a96ac0fae?width=1200&format=jpeg",
+      "url": "/tech-news/2026-02-15/ai-agents-are-transforming-what-its-like-to-be-a-c/",
+      "source": {
+        "emoji": "📰",
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "iPhone 17e od Apple by mohl přijít příští týden: Finální design, cena 599 USD a čip A19",
+      "description": "Apple údajně představil iPhone 17e jako cenově dostupný smartphone pro širší přístup k iOS ekosystému. Tento vstupní model s cenou 599 USD kombinuje čip A19, 6,1palcový displej a moderní design s Dynamic Island pro běžné uživatele.",
+      "slug": "apples-iphone-17e-could-arrive-next-week-final-des",
+      "publishedAt": "2026-02-15T10:00:40+00:00",
+      "date": "2026-02-15 10:00:40",
+      "importance": 4,
+      "category": "mobilní telefony",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/02/iphone-17e-budget-smartphone-design_optimized-1.jpg",
+      "url": "/tech-news/2026-02-15/apples-iphone-17e-could-arrive-next-week-final-des/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
     {
       "title": "Kosická loď SpaceX Dragon se spojila s Mezinárodní vesmírnou stanicí (VIDEO)",
       "description": "Kosická loď SpaceX Crew Dragon s ruským kosmonautem Andrejem Fediaevem se úspěšně spojila s Mezinárodní vesmírnou stanicí. Přečtěte si celý článek na RT.com",
