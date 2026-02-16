@@ -1,7 +1,144 @@
 {
-  "generated": "2026-02-15T20:35:47.305874+00:00",
-  "count": 184,
+  "generated": "2026-02-16T01:30:52.768247+00:00",
+  "count": 190,
   "articles": [
+    {
+      "title": "Proč Hollywood žaluje kvůli Seedance 2.0? #tech",
+      "description": "Studiové obviňují nástroj pro generování videa umělou inteligencí z rozsáhlého zneužití autorských práv. ByteDance nedávno vydal Seedance 2.0, který rychle vytvořil virální klip s dvěma hlavními filmovými hvězdami v fingované rvačce, což vyvolalo poplach v průmyslu.",
+      "slug": "why-is-hollywood-suing-over-seedance-20-tech",
+      "publishedAt": "2026-02-15T00:02:27+00:00",
+      "date": "2026-02-15 00:02:27",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://alltoc.com/cdn/1045/og.png",
+      "url": "/tech-news/2026-02-15/why-is-hollywood-suing-over-seedance-20-tech/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Alltoc.com"
+      },
+      "companies": [
+        "ByteDance"
+      ],
+      "people": []
+    },
+    {
+      "title": "Tokeny biasů v umělé inteligenci",
+      "description": "Tato sekce sbírá názorové články z celého světa, které komentují škody způsobené aktivitami Čínské komunistické strany, a poskytuje pohled na řešení navrhovaná experty a lídry k ochraně našich zájmů.",
+      "slug": "tokens-of-ai-biases",
+      "publishedAt": "2026-02-15T00:00:00+00:00",
+      "date": "2026-02-15 00:00:00",
+      "importance": 5,
+      "category": "umělá inteligence",
+      "urlToImage": "https://chinamediaproject.org/wp-content/uploads/2026/02/Screenshot-2026-02-09-at-14.26.15.png",
+      "url": "/tech-news/2026-02-15/tokens-of-ai-biases/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Chinamediaproject.org"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Články o hackerech, umělé inteligenci, Notepad++, humanoidních robotech a čínských firmách",
+      "description": "Čínská komunistická strana usiluje o ovládání informačních technologií jako prostředek k formování a cenzuře komunikace a názorů svých občanů i komunikace osob mimo hranice Číny.",
+      "slug": "articles-on-hackers-ai-notepad-humanoid-robots-and",
+      "publishedAt": "2026-02-15T00:00:00+00:00",
+      "date": "2026-02-15 00:00:00",
+      "importance": 5,
+      "category": "čínská cenzura",
+      "urlToImage": "https://www.hoover.org/sites/default/files/styles/facebook/public/research/images/csgp_cyber.jpg?h=2d9e26d4&itok=eG4unC9X",
+      "url": "/tech-news/2026-02-15/articles-on-hackers-ai-notepad-humanoid-robots-and/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Hoover.org"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Americké vojenské letectvo integruje otevřenou architekturu pro autonomii misí na CCAs",
+      "description": "Software pro autonomii misí od společností Collins Aerospace a Shield AI bylo úspěšně integrováno na prototypy YFQ-42A a YFQ-44A v rámci programu Collaborative Combat Aircraft pomocí vládní architektury A-GRA. Tento milník demonstruje možnost rychlého přenosu autonomního softwaru mezi různými platformami a podporuje konkurenční ekosystém bez závislosti na jednom dodavateli.",
+      "slug": "us-air-force-integrates-open-architecture-for-miss",
+      "publishedAt": "2026-02-14T22:39:03+00:00",
+      "date": "2026-02-14 22:39:03",
+      "importance": 4,
+      "category": "vojenské letectví",
+      "urlToImage": "https://theaviationist.com/wp-content/uploads/2026/02/260212-F-AF000-1314.jpg",
+      "url": "/tech-news/2026-02-14/us-air-force-integrates-open-architecture-for-miss/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Theaviationist.com"
+      },
+      "companies": [
+        "Collins",
+        "Shield AI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Investice do umělé inteligence mohou překročit 200 miliard dolarů, slibováno již 90 miliard: Ashwini Vaishnaw",
+      "description": "Indický ministr pro informační technologie Ashwini Vaishnaw uvedl, že investice do infrastrukturní vrstvy umělé inteligence mohou dosáhnout 200 miliard dolarů, přičemž už bylo slíbeno 90 miliard. Toto prohlášení předchází konci příštího týdne summitu AI Impact Summit v Indii.",
+      "slug": "ai-investments-may-top-200-billion-90-billion-alre",
+      "publishedAt": "2026-02-14T22:29:41+00:00",
+      "date": "2026-02-14 22:29:41",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-128364464,width-1280,height-720,imgsize-28320,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "url": "/tech-news/2026-02-14/ai-investments-may-top-200-billion-90-billion-alre/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": [
+        "Ashwini Vaishnaw"
+      ]
+    },
+    {
+      "title": "Rizika Digest 34.87: Přehled počítačových rizik z února 2026",
+      "description": "Vydání RISKS digestu shrnuje řadu incidentů souvisejících s počítačovými riziky, včetně uzavření vzdušného prostoru v El Paso kvůli chybné technologii, bezpečnostních děr v AI modelů a hacků na univerzity i Evropskou komisi. Zaměřuje se na selhání systémů, která ohrožují bezpečnost a spolehlivost technologií.",
+      "slug": "no-subject",
+      "publishedAt": "2026-02-14T21:39:37+00:00",
+      "date": "2026-02-14 21:39:37",
+      "importance": 4,
+      "category": "počítačové rizika",
+      "urlToImage": "https://seclists.org/images/risks-img.png",
+      "url": "/tech-news/2026-02-14/no-subject/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Seclists.org"
+      },
+      "companies": [
+        "ACM"
+      ],
+      "people": []
+    },
+    {
+      "title": "Meta přidává rozpoznávání obličejů do svých chytrých brýlí pro identifikaci lidí v reálném čase",
+      "description": "Společnost Meta plánuje integrovat technologii rozpoznávání obličejů do chytrých brýlí Ray-Ban, které budou schopny identifikovat lidi v reálném čase. Podle zdrojů, jako je The New York Times a Futurism, společnost doufá, že veřejnost bude příliš rozptýlená politickými událostmi, aby na to reagovala.",
+      "slug": "meta-adding-facial-recognition-to-its-smart-glasse",
+      "publishedAt": "2026-02-14T21:32:30+00:00",
+      "date": "2026-02-14 21:32:30",
+      "importance": 4,
+      "category": "rozpoznávání obličej",
+      "urlToImage": null,
+      "url": "/tech-news/2026-02-14/meta-adding-facial-recognition-to-its-smart-glasse/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "companies": [
+        "Meta"
+      ],
+      "people": []
+    },
     {
       "title": "Valentýnské zklamání: OpenAI oficiálně ukončuje GPT-4o",
       "description": "OpenAI oficiálně ukončilo model GPT-4o, což vyvolalo smutek mezi uživateli, kteří v něm viděli přátelského společníka. Společnost to zdůvodňuje potřebou bezpečnějšího a méně lichotivého chování umělé inteligence.",
@@ -217,26 +354,6 @@
         "Jio Platforms",
         "Anthropic",
         "Ericsson"
-      ],
-      "people": []
-    },
-    {
-      "title": "Meta přidává rozpoznávání obličejů do svých chytrých brýlí, které identifikuje lidi v reálném čase, v naději, že veřejnost bude příliš rozptýlena politickým chaosem",
-      "description": "Tato technologie je náchylná k zneužití. Článek se poprvé objevil na Futurism.",
-      "slug": "meta-adding-facial-recognition-to-its-smart-glasse",
-      "publishedAt": "2026-02-14T14:00:00+00:00",
-      "date": "2026-02-14 14:00:00",
-      "importance": 4,
-      "category": "rozpoznávání obličej",
-      "urlToImage": "https://futurism.com/wp-content/uploads/2026/02/meta-facial-recognition-glasses.jpg?quality=85&w=1200",
-      "url": "/tech-news/2026-02-14/meta-adding-facial-recognition-to-its-smart-glasse/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Futurism"
-      },
-      "companies": [
-        "Meta"
       ],
       "people": []
     },
