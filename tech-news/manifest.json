@@ -1,7 +1,27 @@
 {
-  "generated": "2026-02-17T05:35:43.626838+00:00",
-  "count": 179,
+  "generated": "2026-02-17T08:55:48.562434+00:00",
+  "count": 180,
   "articles": [
+    {
+      "title": "ByteDance zabrání neoprávěnému použití duševního vlastnictví v AI nástroji pro generování videí",
+      "description": "ByteDance přijme kroky k prevenci neoprávěného použití intelektuálního vlastnictví v generátoru videí Seedance 2.0 po hrozbách právních kroků od amerických filmových studií včetně Disney.",
+      "slug": "bytedance-to-prevent-unauthorised-ip-use-on-ai-vid",
+      "publishedAt": "2026-02-16T08:30:15+00:00",
+      "date": "2026-02-16 08:30:15",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.rte.ie/images/0023e691-1600.jpg",
+      "url": "/tech-news/2026-02-16/bytedance-to-prevent-unauthorised-ip-use-on-ai-vid/",
+      "source": {
+        "emoji": "📰",
+        "id": "rte",
+        "name": "RTE"
+      },
+      "companies": [
+        "ByteDance"
+      ],
+      "people": []
+    },
     {
       "title": "Velmi opatrně: O několik týdnů po odhalení plánů na reklamy se OpenAI snaží ovládnout poselství",
       "description": "Pouhý měsíc po zahájení reklamní strategie a jen týden po spuštění testovacího pilota se OpenAI snaží vyvážit růst a důvěru. Firma pečlivě řídí komunikaci kolem zavádění reklam do ChatGPT, aby neohrozila loajalitu svých 800 milionů uživatelů.",
