@@ -1,7 +1,65 @@
 {
-  "generated": "2026-02-17T01:29:20.462349+00:00",
-  "count": 193,
+  "generated": "2026-02-17T05:35:43.626838+00:00",
+  "count": 179,
   "articles": [
+    {
+      "title": "Velmi opatrně: O několik týdnů po odhalení plánů na reklamy se OpenAI snaží ovládnout poselství",
+      "description": "Pouhý měsíc po zahájení reklamní strategie a jen týden po spuštění testovacího pilota se OpenAI snaží vyvážit růst a důvěru. Firma pečlivě řídí komunikaci kolem zavádění reklam do ChatGPT, aby neohrozila loajalitu svých 800 milionů uživatelů.",
+      "slug": "being-very-careful-weeks-after-unveiling-ad-plans-",
+      "publishedAt": "2026-02-16T05:01:00+00:00",
+      "date": "2026-02-16 05:01:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://digiday.com/wp-content/uploads/sites/3/2025/12/openai-ads-digiday.jpg",
+      "url": "/tech-news/2026-02-16/being-very-careful-weeks-after-unveiling-ad-plans/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digiday"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Silné vazby mezi USA a Indií v oblasti AI mají obrovský potenciál: CEO společnosti Rubrik",
+      "description": "Silné partnerství mezi Indií a USA v oblasti AI nabízí velké příležitosti v sektorech jako zdravotnictví, vzdělávání, školení pracovníků a digitální gramotnost, uvedl předseda a generální ředitel giganta v AI operacích Rubrik.",
+      "slug": "strong-ties-between-us-india-in-ai-has-tremendous-",
+      "publishedAt": "2026-02-16T04:24:43+00:00",
+      "date": "2026-02-16 04:24:43",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-02/12/thumb/fitandfill/1200X630/1770918455-5935.jpg",
+      "url": "/tech-news/2026-02-16/strong-ties-between-us-india-in-ai-has-tremendous/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Business Standard"
+      },
+      "companies": [
+        "Rubrik"
+      ],
+      "people": []
+    },
+    {
+      "title": "Sam Altman: Indie má nyní 100 milionů týdenních uživatelů ChatGPT",
+      "description": "Jedná se o první explicitní údaje o počtu uživatelů specifické pro Indii, které společnost sdílela; ta od spuštění ChatGPT koncem roku 2022 většinou sdílela globální metriky. CEO uvedl, že číslo 100 milionů zachycuje weekly active users ChatGPT v Indii, zahrnující oba f…",
+      "slug": "sam-altman-says-india-now-has-100-million-weekly-c",
+      "publishedAt": "2026-02-16T03:50:28+00:00",
+      "date": "2026-02-16 03:50:28",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-29178,resizemode-75,msid-128405691/tech/artificial-intelligence/sam-altman-says-india-now-has-100-million-weekly-chatgpt-users.jpg",
+      "url": "/tech-news/2026-02-16/sam-altman-says-india-now-has-100-million-weekly-c/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Bušivá poptávka AI po paměti pohání rostoucí krizi čipů",
       "description": "Cena jednoho typu DRAM vzrostla o 75 % od prosince do ledna, což urychluje růst cen během celého svátkového čtvrtletí. Tato krize ohrožuje produkci elektroniky i AI datových center.",
@@ -3542,344 +3600,6 @@
         "emoji": "📰",
         "id": "next-big-future",
         "name": "Next Big Future"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Jony Ive a OpenAI odkládají uvedení AI hardware na rok 2027",
-      "description": "Vysoce očekávané AI zařízení od Jony Ive a OpenAI je odloženo na nejdříve únor 2027. Tým zároveň opustil název „io“ kvůli sporu o ochrannou známku a hledá novou identitu produktu.",
-      "slug": "jony-ive-openai-delay-their-ai-hardware-launch-unt",
-      "publishedAt": "2026-02-10T20:20:32+00:00",
-      "date": "2026-02-10 20:20:32",
-      "importance": 4,
-      "category": "ai hardware",
-      "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2025/07/openai-sam-altman-jony-ive-io-featured.jpg",
-      "url": "/tech-news/2026-02-10/jony-ive-openai-delay-their-ai-hardware-launch-unt/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Headlines"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": [
-        "Jony Ive"
-      ]
-    },
-    {
-      "title": "Chyba v ocenění SaaSpocalypse: Proč trhy špatně chápou otřes AI v SaaS",
-      "description": "Trhy dramaticky reagovaly na nové AI nástroje od Anthropic a OpenAI prodejem akcií SaaS firem v hodnotě 285 miliard dolarů, ale podle analýzy to není kolaps, nýbrž přeskupení rolí v éře agentických systémů. Investoři lumpují všechny firmy dohromady a ignorují rozdíly v ohrožení.",
-      "slug": "the-saaspocalypse-mispricing-why-markets-are-getti",
-      "publishedAt": "2026-02-10T16:50:23+00:00",
-      "date": "2026-02-10 16:50:23",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/saaspocalypse-reve-1.png",
-      "url": "/tech-news/2026-02-10/the-saaspocalypse-mispricing-why-markets-are-getti/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Alphabet vydá vzácný 100letý dluhopis na financování expanze AI",
-      "description": "Alphabet chystá vydání vzácného 100letého dluhopisu v hodnotě 1 miliardy liber v rámci pětidílné emise za 5,5 miliardy liber (7,53 miliardy dolarů), jak ukazuje memo hlavního manažera. Tento krok reaguje na rostoucí výdaje na umělou inteligenci u amerických technologických gigantů.",
-      "slug": "alphabet-to-sell-rare-100-year-bond-to-fund-ai-exp",
-      "publishedAt": "2026-02-10T16:45:07+00:00",
-      "date": "2026-02-10 16:45:07",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-83108,resizemode-75,msid-128168009/tech/technology/alphabet-to-sell-rare-100-year-bond-to-fund-ai-expansion-bookrunner-memo-shows.jpg",
-      "url": "/tech-news/2026-02-10/alphabet-to-sell-rare-100-year-bond-to-fund-ai-exp/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Alphabet"
-      ],
-      "people": []
-    },
-    {
-      "title": "Singapur obviňuje hackery podporované Čínou z útoku na své čtyři největší telekomunikační firmy | TechCrunch",
-      "description": "Singapurská vláda potvrdila, že hackeři UNC3886 získali omezený přístup k kritickým systémům čtyř největších telekomunikačních společností, ale ne narušili služby ani neukradli data zákazníků.",
-      "slug": "singapore-says-china-backed-hackers-targeted-its-f",
-      "publishedAt": "2026-02-10T16:23:59+00:00",
-      "date": "2026-02-10 16:23:59",
-      "importance": 5,
-      "category": "kybernetika",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/02/singapore-2152482714.jpg?resize=1200,800",
-      "url": "/tech-news/2026-02-10/singapore-says-china-backed-hackers-targeted-its-f/",
-      "source": {
-        "emoji": "🚀",
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Vega získává 120 milionů dolarů v kolu Series B na přehodnocení detekce kybernetických hrozeb v podnicích | TechCrunch",
-      "description": "Společnost Vega Security získala 120 milionů dolarů v kolu Series B, čímž se její valuace zvýšila na 700 milionů dolarů. Kolo vedl fond Accel a účastnili se ho Cyberstarts, Redpoint a CRV. Firma se zaměřuje na AI pro detekci hrozeb přímo v místech, kde data existují, bez nutnosti centralizovaného ukládání.",
-      "slug": "vega-raises-120m-series-b-to-rethink-how-enterpris",
-      "publishedAt": "2026-02-10T16:03:14+00:00",
-      "date": "2026-02-10 16:03:14",
-      "importance": 4,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/02/Shay-Sandler-Eli-Rosen.-Credit-Ohad-Kab.jpeg?resize=1200,802",
-      "url": "/tech-news/2026-02-10/vega-raises-120m-series-b-to-rethink-how-enterpris/",
-      "source": {
-        "emoji": "🚀",
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "companies": [
-        "Vega Security",
-        "Accel"
-      ],
-      "people": []
-    },
-    {
-      "title": "Vyznamenaní investoři Mukul Agrawal a Sunil Singhania získávají podíly v YAAP Digital před IPO",
-      "description": "Investoři Mukul Agrawal a fond India Ahead Venture Fund pod vedením Sunila Singhania získali menšinové podíly v YAAP Digital, což potvrzuje důvěru v její platformu marketingové inteligence poháněnou AI. Tato investice přichází v době, kdy se společnost připravuje na uvedení na burzu.",
-      "slug": "star-investors-mukul-agrawal-sunil-singhania-pick-",
-      "publishedAt": "2026-02-10T12:37:30+00:00",
-      "date": "2026-02-10 12:37:30",
-      "importance": 4,
-      "category": "startupy",
-      "urlToImage": "https://img.etimg.com/thumb/msid-128159342,width-1200,height-630,imgsize-52014,overlay-etmarkets/articleshow.jpg",
-      "url": "/tech-news/2026-02-10/star-investors-mukul-agrawal-sunil-singhania-pick/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "YAAP Digital"
-      ],
-      "people": [
-        "Mukul Agrawal",
-        "Sunil Singhania"
-      ]
-    },
-    {
-      "title": "Cisco představuje nový čip pro síťování v AI, konkuruje Broadcom a Nvidia",
-      "description": "Cisco Systems uvedlo nový čip Silicon One G300 a router pro zrychlení komunikace v obřích datových centrech s AI systémy. Tento hardware konkuruje řešením od Broadcom a Nvidia v trhu AI infrastruktury v hodnotě 600 miliard dolarů.",
-      "slug": "cisco-unveils-new-ai-networking-chip-taking-on-bro",
-      "publishedAt": "2026-02-10T08:36:39+00:00",
-      "date": "2026-02-10 08:36:39",
-      "importance": 4,
-      "category": "ai hardware",
-      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--OLVR-zAK--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-02-10T083353Z_1_LYNXMPEM190EB_RTROPTP_3_TECH-CONFERENCE-MWC.JPG?itok=2aaCx1Kg",
-      "url": "/tech-news/2026-02-10/cisco-unveils-new-ai-networking-chip-taking-on-bro/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNA"
-      },
-      "companies": [
-        "Cisco",
-        "Broadcom",
-        "Nvidia"
-      ],
-      "people": []
-    },
-    {
-      "title": "Bezpečnost pro éru agentů: Cisco AI Defense posouvá hranice",
-      "description": "Před rokem Cisco představilo Cisco AI Defense, první komplexní podnikové řešení pro bezpečnost umělé inteligence. Nyní přináší významný pokrok v ochraně AI aplikací a agentů prostřednictvím bezpečnosti celého řetězce dodávek AI, pokročilého algoritmického red teamingu a real-time ochranných mechanismů pro agenty.",
-      "slug": "security-for-the-agentic-era-cisco-ai-defense-brea",
-      "publishedAt": "2026-02-10T08:30:14+00:00",
-      "date": "2026-02-10 08:30:14",
-      "importance": 4,
-      "category": "ai bezpečnost",
-      "urlToImage": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/02/Screenshot-2026-02-05-at-12.08.13 PM.png",
-      "url": "/tech-news/2026-02-10/security-for-the-agentic-era-cisco-ai-defense-brea/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Cisco.com"
-      },
-      "companies": [
-        "Cisco"
-      ],
-      "people": []
-    },
-    {
-      "title": "ChatGPT začíná testovat reklamy pro bezplatné uživatele v USA",
-      "description": "OpenAI zahájilo testování reklam v ChatGPT pro bezplatné účty v USA, krátce po zesměšnění tohoto konceptu reklamou Anthropicu na Super Bowl. Reklamy se objevují pouze u přihlášených dospělých uživatelů bez placeného předplatného a neovlivňují obsah odpovědí.",
-      "slug": "chatgpt-begins-testing-ads-for-free-users-in-the-u",
-      "publishedAt": "2026-02-10T07:53:19+00:00",
-      "date": "2026-02-10 07:53:19",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.ghacks.net/wp-content/uploads/2026/02/gHacks-articles-44.png",
-      "url": "/tech-news/2026-02-10/chatgpt-begins-testing-ads-for-free-users-in-the-u/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Ghacks Technology News"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "G42 rozšiřuje globální ambice v umělé inteligenci partnerstvím na suverénní cloud ve Vietnamu",
-      "description": "Emirátská skupina G42 přenáší svůj model suverénní umělé inteligence do jihovýchodní Asie prostřednictvím partnerství s vietnamským konzorciem. Dohoda s FPT Corporation a Viet Thai Group zahrnuje vývoj hyperskalární cloudové infrastruktury s závazky k spotřebě až 1 miliardy dolarů.",
-      "slug": "g42-expands-global-ai-ambitions-with-sovereign-clo",
-      "publishedAt": "2026-02-10T07:45:00+00:00",
-      "date": "2026-02-10 07:45:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.computerweekly.com/visuals/German/article/artificial-intelligence-brain-adobe.jpg",
-      "url": "/tech-news/2026-02-10/g42-expands-global-ai-ambitions-with-sovereign-clo/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "ComputerWeekly.com"
-      },
-      "companies": [
-        "G42"
-      ],
-      "people": []
-    },
-    {
-      "title": "Nejsilnější evropská raketa Ariane 64 se připravuje na první start",
-      "description": "Raketa Ariane 64, varianta s čtyřmi boostery z rodiny Ariane 6, má v čtvrtek uskutečnit první start z evropského kosmodromu v Kourou ve francouzské Guyaně. Cílem je vysazení 32 satelitů pro širokopásmovou konstelaci Amazon Leo.",
-      "slug": "europes-most-powerful-rocket-ariane-64-scheduled-t",
-      "publishedAt": "2026-02-10T07:31:40+00:00",
-      "date": "2026-02-10 07:31:40",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-10/14/thumb/fitandfill/1200X630/1728879741-7642.jpg",
-      "url": "/tech-news/2026-02-10/europes-most-powerful-rocket-ariane-64-scheduled-t/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Business Standard"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Desítky tisíc tun nákladu na Měsíc s raketou SpaceX Starship od roku 2027",
-      "description": "Tankovací verze rakety SpaceX Starship V4 by měla být připravena v roce 2027, což sníží počet doplňování paliva pro lunární mise na 5 až 6. Při alokaci 1200 až 1400 letů z plánovaných 10 000 ročně by to umožnilo 200 plných misí s dodávkou přes 40 000 tun na povrch Měsíce.",
-      "slug": "tens-of-thousands-of-tons-of-payload-to-the-moon-w",
-      "publishedAt": "2026-02-10T04:17:49+00:00",
-      "date": "2026-02-10 04:17:49",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/02/Screenshot-2026-02-09-at-8.17.11-PM.jpg",
-      "url": "/tech-news/2026-02-10/tens-of-thousands-of-tons-of-payload-to-the-moon-w/",
-      "source": {
-        "emoji": "📰",
-        "id": "next-big-future",
-        "name": "Next Big Future"
-      },
-      "companies": [
-        "SpaceX"
-      ],
-      "people": []
-    },
-    {
-      "title": "Americký akciový trh | Alphabet plánuje získat asi 15 miliard dolarů prodejem amerických dluhopisů: Zpráva",
-      "description": "Alphabet, mateřská společnost Google, se připravuje na vydání dluhopisů v amerických dolarech v hodnotě přibližně 15 miliard dolarů. Tento krok má financovat expanzi infrastruktury v reakci na rostoucí poptávku po výpočetních kapacitách pro AI.",
-      "slug": "us-stock-market-alphabet-looks-to-raise-about-15-b",
-      "publishedAt": "2026-02-10T03:13:14+00:00",
-      "date": "2026-02-10 03:13:14",
-      "importance": 4,
-      "category": "dluhopisy",
-      "urlToImage": "https://img.etimg.com/thumb/msid-128139145,width-1200,height-630,imgsize-18018,overlay-etmarkets/articleshow.jpg",
-      "url": "/tech-news/2026-02-10/us-stock-market-alphabet-looks-to-raise-about-15-b/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Alphabet"
-      ],
-      "people": []
-    },
-    {
-      "title": "Druhy den IPO Fractal Analytics: Trend GMP, stav subskripce a názory expertů",
-      "description": "IPO společnosti Fractal Analytics v hodnotě 2 834 crore rupi vstupuje do druhého dne s celkovou subskripcí kolem 11 %. Akcie se na šedém trhu obchodují s prémiií 1 %, což signalizuje opatrný zájem investorů u prvního IPO AI firmy v Indii.",
-      "slug": "fractal-analytics-ipo-day-2-gmp-trend-subscription",
-      "publishedAt": "2026-02-10T02:31:29+00:00",
-      "date": "2026-02-10 02:31:29",
-      "importance": 4,
-      "category": "ai ipo",
-      "urlToImage": "https://img.etimg.com/thumb/msid-128137968,width-1200,height-630,imgsize-17836,overlay-etmarkets/articleshow.jpg",
-      "url": "/tech-news/2026-02-10/fractal-analytics-ipo-day-2-gmp-trend-subscription/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Fractal Analytics"
-      ],
-      "people": []
-    },
-    {
-      "title": "Nejlepší názory Business Standard: Vlna automatizace a křehký jaderný mír",
-      "description": "Prezentace nejlepších názorových článků Business Standard pro dnešek, které se zaměřují na dopady nového nástroje Claude Cowork od Anthropic na IT sektor a na rostoucí rizika v jaderné bezpečnosti.",
-      "slug": "best-of-bs-opinion-automation-surge-and-the-fragil",
-      "publishedAt": "2026-02-10T00:45:08+00:00",
-      "date": "2026-02-10 00:45:08",
-      "importance": 4,
-      "category": "automatizace",
-      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-02/09/thumb/fitandfill/1200X630/1770653543-4369.jpg",
-      "url": "/tech-news/2026-02-10/best-of-bs-opinion-automation-surge-and-the-fragil/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Business Standard"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "R²D²: Škálování multimodálního učení robotů s NVIDIA Isaac Lab",
-      "description": "Budování robustních a inteligentních robotů vyžaduje testování v komplexních prostředích. Shromažďování dat ve skutečném světě je však nákladné, pomalé a často nebezpečné, což simulace pomáhá překonat.",
-      "slug": "r²d²-scaling-multimodal-robot-learning-with-nvidia",
-      "publishedAt": "2026-02-10T00:41:27+00:00",
-      "date": "2026-02-10 00:41:27",
-      "importance": 4,
-      "category": "robotika",
-      "urlToImage": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/02/multimodal-robotics.gif",
-      "url": "/tech-news/2026-02-10/r²d²-scaling-multimodal-robot-learning-with-nvidia/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Nvidia.com"
-      },
-      "companies": [
-        "NVIDIA"
-      ],
-      "people": []
-    },
-    {
-      "title": "Městská rada v Portlandu chladná k návrhu o robotaxi, zákonodárci naplánovali hlasování na příští týden",
-      "description": "Portland se obává nedostatku regulací pro autonomní vozidla. Zákonodárci chtějí umožnit firmám jako Waymo provozovat robotaxi bez místních omezení.",
-      "slug": "city-council-cold-on-robotaxi-bill-as-lawmakers-se",
-      "publishedAt": "2026-02-10T00:27:03+00:00",
-      "date": "2026-02-10 00:27:03",
-      "importance": 4,
-      "category": "robotaxi",
-      "urlToImage": "https://bikeportland.org/wp-content/uploads/2026/02/tumwaymo.jpg",
-      "url": "/tech-news/2026-02-10/city-council-cold-on-robotaxi-bill-as-lawmakers-se/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Bikeportland.org"
       },
       "companies": [],
       "people": []
