@@ -1,7 +1,47 @@
 {
-  "generated": "2026-02-17T13:00:51.853396+00:00",
-  "count": 183,
+  "generated": "2026-02-17T17:09:44.097683+00:00",
+  "count": 185,
   "articles": [
+    {
+      "title": "Western Digital vyprodalo celou zásobu pevných disků pro rok 2026, AI datacentra pohlcují nabídku",
+      "description": "Western Digital, jeden z největších výrobců pevných disků na světě, vyprodalo svou úložnou kapacitu pro rok 2026 s více než deseti měsíci zbývajícími v roce. Poptávka pochází především od firem provozujících AI datacentra.",
+      "slug": "western-digital-sells-out-entire-2026-hard-drive-i",
+      "publishedAt": "2026-02-16T16:35:36+00:00",
+      "date": "2026-02-16 16:35:36",
+      "importance": 4,
+      "category": "hardware",
+      "urlToImage": "https://media.breitbart.com/media/2026/02/hard-drives-in-a-pile-640x335.jpg",
+      "url": "/tech-news/2026-02-16/western-digital-sells-out-entire-2026-hard-drive-i/",
+      "source": {
+        "emoji": "📰",
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "companies": [
+        "Western Digital"
+      ],
+      "people": []
+    },
+    {
+      "title": "Firmy s AI chatboti čelí přísnějším regulacím v britských zákonech o online bezpečnosti chránících děti",
+      "description": "Akce, kterou jsme podnikli ohledně Grok, poslala jasnou zprávu, že žádná platforma nedostane volnou jízdu,\" řekl v neděli britský premiér Keir Starmer.",
+      "slug": "ai-chatbot-firms-face-stricter-regulation-in-onlin",
+      "publishedAt": "2026-02-16T16:20:31+00:00",
+      "date": "2026-02-16 16:20:31",
+      "importance": 4,
+      "category": "regulace ai",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108266062-1771247331164-gettyimages-2243451929-aichatbot_172.jpeg?v=1771247360&w=1920&h=1080",
+      "url": "/tech-news/2026-02-16/ai-chatbot-firms-face-stricter-regulation-in-onlin/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [],
+      "people": [
+        "Keir Starmer"
+      ]
+    },
     {
       "title": "Technologický šok z Číny ohrožuje monopol USA v AI a teprve začíná",
       "description": "Za pět až deset let by většina světové populace mohla běžet na čínském technologickém zásobníku, varuje analytik Rory Green pro CNBC.",
