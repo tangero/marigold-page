@@ -1,7 +1,65 @@
 {
-  "generated": "2026-02-17T08:55:48.562434+00:00",
-  "count": 180,
+  "generated": "2026-02-17T13:00:51.853396+00:00",
+  "count": 183,
   "articles": [
+    {
+      "title": "Technologický šok z Číny ohrožuje monopol USA v AI a teprve začíná",
+      "description": "Za pět až deset let by většina světové populace mohla běžet na čínském technologickém zásobníku, varuje analytik Rory Green pro CNBC.",
+      "slug": "chinas-tech-shock-threatens-the-us-ai-monopoly-and",
+      "publishedAt": "2026-02-16T12:30:01+00:00",
+      "date": "2026-02-16 12:30:01",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108075021-1734011164475-gettyimages-1456167226-gitech84.jpeg?v=1765976482&w=1920&h=1080",
+      "url": "/tech-news/2026-02-16/chinas-tech-shock-threatens-the-us-ai-monopoly-and/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Izraelská firma se spywarem, která se omylem právě odhalila",
+      "description": "Izraelská společnost vyvíjející špionážní software se nechtěně prozradila díky chybě v konfiguraci infrastruktury. Výzkumník odhalil jejich servery a nástroje používané pro sledování mobilních zařízení.",
+      "slug": "the-israeli-spyware-firm-that-accidentally-just-ex",
+      "publishedAt": "2026-02-16T12:00:42+00:00",
+      "date": "2026-02-16 12:00:42",
+      "importance": 4,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://substackcdn.com/image/fetch/$s_!-Wnv!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHA5T-uhboAAD2xT.jpg",
+      "url": "/tech-news/2026-02-16/the-israeli-spyware-firm-that-accidentally-just-ex/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Substack.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Peníze z AI míří do midterm voleb 2026",
+      "description": "Průmysloví giganti včetně Marca Andreessena a Anthropic již investují miliony dolarů do podpory politiků nakloněných umělé inteligenci v amerických midterm volbách 2026. Tento trend následuje model kryptoměn, které v minulých cyklech ovlivnily složení Senátu.",
+      "slug": "ai-money-is-coming-to-a-midterm-near-you",
+      "publishedAt": "2026-02-16T12:00:19+00:00",
+      "date": "2026-02-16 12:00:19",
+      "importance": 4,
+      "category": "ai politika",
+      "urlToImage": "https://pyxis.nymag.com/v1/imgs/e57/616/3641de18277ca5387d90925f87e1a9926d-AI-ChrisGober.1x.rsocial.w1200.jpg",
+      "url": "/tech-news/2026-02-16/ai-money-is-coming-to-a-midterm-near-you/",
+      "source": {
+        "emoji": "📰",
+        "id": "new-york-magazine",
+        "name": "New York Magazine"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": [
+        "Marc Andreessen"
+      ]
+    },
     {
       "title": "ByteDance zabrání neoprávěnému použití duševního vlastnictví v AI nástroji pro generování videí",
       "description": "ByteDance přijme kroky k prevenci neoprávěného použití intelektuálního vlastnictví v generátoru videí Seedance 2.0 po hrozbách právních kroků od amerických filmových studií včetně Disney.",
