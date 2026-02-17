@@ -1,7 +1,121 @@
 {
-  "generated": "2026-02-16T20:42:22.021774+00:00",
-  "count": 187,
+  "generated": "2026-02-17T01:29:20.462349+00:00",
+  "count": 193,
   "articles": [
+    {
+      "title": "Bušivá poptávka AI po paměti pohání rostoucí krizi čipů",
+      "description": "Cena jednoho typu DRAM vzrostla o 75 % od prosince do ledna, což urychluje růst cen během celého svátkového čtvrtletí. Tato krize ohrožuje produkci elektroniky i AI datových center.",
+      "slug": "rampant-ai-demand-for-memory-is-fueling-a-growing-",
+      "publishedAt": "2026-02-16T00:42:39+00:00",
+      "date": "2026-02-16 00:42:39",
+      "importance": 4,
+      "category": "krize čipů",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2251983263-e1771201699839.jpg?resize=1200,600",
+      "url": "/tech-news/2026-02-16/rampant-ai-demand-for-memory-is-fueling-a-growing/",
+      "source": {
+        "emoji": "📰",
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Indie se snaží demokratizovat zdroje umělé inteligence prostřednictvím rámce globálních společných zdrojů",
+      "description": "Indie staví umělou inteligenci do centra své technologické a geopolitické strategie při přípravách na konání India AI Impact Summit. Cílem je otevřít přístup k AI zdrojům pro širší veřejnost skrz globální rámec společných zdrojů.",
+      "slug": "india-seeks-to-democratize-ai-resources-through-gl",
+      "publishedAt": "2026-02-16T00:33:48+00:00",
+      "date": "2026-02-16 00:33:48",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.digitimes.com/newsshow/20260216vl203_files/1_b.jpg",
+      "url": "/tech-news/2026-02-16/india-seeks-to-democratize-ai-resources-through-gl/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "AI firma Neysa získá 1,2 miliardy dolarů od Blackstone a dalších v mixu dluhu a vlastního kapitálu",
+      "description": "Neysa plánuje získat 1,2 miliardy dolarů v dealu vedeném Blackstone pro rozšíření AI cloud infrastruktury v Indii, s cílem nasadit 20 000 GPU a využít novou 20letou daňovou dovolenou. Tento krok posílí domácí kapacity pro trénink a nasazení AI modelů.",
+      "slug": "ai-firm-neysa-to-raise-12-billion-from-blackstone-",
+      "publishedAt": "2026-02-16T00:31:10+00:00",
+      "date": "2026-02-16 00:31:10",
+      "importance": 5,
+      "category": "ai",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2026/02/15/1600x900/logo/Neysa__1771152585698_1771152585780_1771162292578.jpeg",
+      "url": "/tech-news/2026-02-16/ai-firm-neysa-to-raise-12-billion-from-blackstone/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Livemint"
+      },
+      "companies": [
+        "Neysa"
+      ],
+      "people": []
+    },
+    {
+      "title": "Blackstone vede investici 1,2 miliardy dolarů do AI cloud startupu Neysa s valuací 1,4 miliardy dolarů",
+      "description": "Americký správce aktiv Blackstone vede investici 1,2 miliardy dolarů (přibližně 10 867 miliard rupií) do indického startupu Neysa, což je největší kolo financování v historii indického AI sektoru. Financování je rozděleno rovnoměrně mezi primární akcie a dluh, čímž Blackstone získává většinový podíl v této firmě zaměřené na cloudovou infrastrukturu pro AI.",
+      "slug": "blackstone-leads-600-million-raise-in-ai-cloud-sta",
+      "publishedAt": "2026-02-16T00:31:00+00:00",
+      "date": "2026-02-16 00:31:00",
+      "importance": 4,
+      "category": "ai startupy",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-185014,resizemode-75,msid-128390049/tech/funding/blackstone-leads-600-million-raise-in-ai-cloud-neysa-at-1-4-billion-enterprise-value.jpg",
+      "url": "/tech-news/2026-02-16/blackstone-leads-600-million-raise-in-ai-cloud-sta/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Neysa"
+      ],
+      "people": []
+    },
+    {
+      "title": "Blackstone vede investici 1,2 miliardy dolarů do AI cloudu Neysa s podnikovou hodnotou 1,4 miliardy",
+      "description": "Investiční fond Blackstone vede 1,2miliardovou investici do indického startupu Neysa, což představuje největší kolo financování v oblasti AI v Indii. Investice je rozdělena rovnoměrně mezi primární akcie a dluh, díky čemuž získá Blackstone většinový podíl v této cloudové infrastruktuře pro umělou inteligenci.",
+      "slug": "blackstone-leads-600-million-raise-in-ai-cloud-ney",
+      "publishedAt": "2026-02-16T00:31:00+00:00",
+      "date": "2026-02-16 00:31:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-185014,resizemode-75,msid-128390051/tech/startups/blackstone-leads-600-million-raise-in-ai-cloud-neysa-at-1-4-billion-enterprise-value.jpg",
+      "url": "/tech-news/2026-02-16/blackstone-leads-600-million-raise-in-ai-cloud-ney/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Neysa"
+      ],
+      "people": []
+    },
+    {
+      "title": "Proč vstupy na burzu novodobých firem vykazují menší velikosti emise a snížená ocenění",
+      "description": "Několik novodobých indických firem, které v posledních měsících vstoupily na burzu, snížilo velikost svých emisí akcií a přijalo nižší ocenění kvůli volatilním trhům a přísnějším požadavkům investorů na rentabilitu. Tento trend nastává i přes aktivitu indického trhu s IPO.",
+      "slug": "why-new-age-ipos-are-seeing-shrinking-issue-sizes-",
+      "publishedAt": "2026-02-16T00:30:00+00:00",
+      "date": "2026-02-16 00:30:00",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1214436,resizemode-75,msid-128389950/tech/startups/new-age-ipo-sizes-shrink-as-choppy-markets-reshape-pricing-benchmarks.jpg",
+      "url": "/tech-news/2026-02-16/why-new-age-ipos-are-seeing-shrinking-issue-sizes/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Proč má Indie 100 milionů uživatelů ChatGPT? #tech",
       "description": "Rychlé přijetí a proč na tom záleží. Generální ředitel OpenAI oznámil, že Indie tvoří zhruba 100 milionů týdenních aktivních uživatelů ChatGPT, čímž se stává druhým největším trhem po USA.",
