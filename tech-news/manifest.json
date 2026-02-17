@@ -1,7 +1,130 @@
 {
-  "generated": "2026-02-17T17:09:44.097683+00:00",
-  "count": 185,
+  "generated": "2026-02-17T20:50:40.713097+00:00",
+  "count": 191,
   "articles": [
+    {
+      "title": "SpaceX soutěží v soutěži Pentagonu o autonomní technologii rojů dronů, hlásí Bloomberg News",
+      "description": "Společnost SpaceX Elona Muska a její dcera xAI se účastní tajné soutěže Pentagonu na vývoj hlasem ovládané autonomní technologie rojů dronů. Soutěž s cenou 100 milionů dolarů spustil v lednu obranný inovativní úsek Pentagonu a trvá šest měsíců.",
+      "slug": "spacex-to-compete-in-pentagon-contest-for-autonomo",
+      "publishedAt": "2026-02-16T20:12:05+00:00",
+      "date": "2026-02-16 20:12:05",
+      "importance": 4,
+      "category": "drony",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--6h9OO22x--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-02-16T201205Z_1_LYNXMPEM1F0U9_RTROPTP_3_SPACEX-IPO.JPG?itok=E_QYjUOP",
+      "url": "/tech-news/2026-02-16/spacex-to-compete-in-pentagon-contest-for-autonomo/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNA"
+      },
+      "companies": [
+        "SpaceX",
+        "xAI"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Ztráty Waymo přibližně 5 miliard dolarů",
+      "description": "Segment Google Other Bets vykázal za rok 2025 provozní ztrátu 7,52 miliardy dolarů, což je nárůst o zhruba 3 miliardy oproti 4,4 miliardám v roce 2024. Waymo na tom má podíl 60-75 procent, především kvůli vyšším nákladům na zaměstnance a rozšíření operací.",
+      "slug": "waymo-losses-about-5-billion",
+      "publishedAt": "2026-02-16T19:44:14+00:00",
+      "date": "2026-02-16 19:44:14",
+      "importance": 4,
+      "category": "autonomní vozy",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/02/Screenshot-2026-02-16-at-11.04.44-AM.jpg",
+      "url": "/tech-news/2026-02-16/waymo-losses-about-5-billion/",
+      "source": {
+        "emoji": "📰",
+        "id": "next-big-future",
+        "name": "Next Big Future"
+      },
+      "companies": [
+        "Google",
+        "Waymo"
+      ],
+      "people": []
+    },
+    {
+      "title": "ByteDance slibuje omezit svůj nástroj pro generování AI videí po hrozbě od Disney",
+      "description": "Model umělé inteligence Seedance 2.0 byl přirovnán k DeepSeek a chválen za schopnost vytvářet filmové příběhy z pouhých několika textových pokynů. Firma reaguje na právní varování od amerických studií, včetně Disney.",
+      "slug": "bytedance-pledges-to-restrict-its-ai-video-tool-af",
+      "publishedAt": "2026-02-16T19:38:49+00:00",
+      "date": "2026-02-16 19:38:49",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/02/121484434-1_cdca6d.jpg?quality=75&strip=all&w=1200",
+      "url": "/tech-news/2026-02-16/bytedance-pledges-to-restrict-its-ai-video-tool-af/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "New York Post"
+      },
+      "companies": [
+        "ByteDance",
+        "DeepSeek"
+      ],
+      "people": []
+    },
+    {
+      "title": "„Myslím, že v následujících 12 až 18 měsících dosáhneme lidské úrovně ve většině, ne-li všech, profesionálních úkolech“: Šéf AI Microsoftu věří, že AI nahradí většinu bílých límců prací – je to konec pro lidské pracovníky?",
+      "description": "Šéf AI divize Microsoftu Mustafa Suleyman předpovídá, že umělá inteligence brzy automatizuje většinu kancelářských profesí. Tato výpověď vyvolává otázky o budoucnosti pracovního trhu.",
+      "slug": "i-think-were-going-to-have-a-human-level-performan",
+      "publishedAt": "2026-02-16T19:35:00+00:00",
+      "date": "2026-02-16 19:35:00",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/LbxyeFQdkdCJXqrsunCqDj-1920-80.jpg",
+      "url": "/tech-news/2026-02-16/i-think-were-going-to-have-a-human-level-performan/",
+      "source": {
+        "emoji": "📰",
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "companies": [
+        "Microsoft"
+      ],
+      "people": []
+    },
+    {
+      "title": "Čína využívá predátory k trénování svých nových AI zbraní – proč to dělá",
+      "description": "Čína se snaží vést revoluci v oblasti vojenských dronů a získává pomoc z chování zvířat z říše predátorů.",
+      "slug": "china-is-using-predators-to-train-their-new-ai-wea",
+      "publishedAt": "2026-02-16T19:17:00+00:00",
+      "date": "2026-02-16 19:17:00",
+      "importance": 4,
+      "category": "vojenské drony",
+      "urlToImage": "https://www.bgr.com/img/gallery/china-is-using-predators-to-train-their-new-ai-weapons-heres-why/l-intro-1770795933.jpg",
+      "url": "/tech-news/2026-02-16/china-is-using-predators-to-train-their-new-ai-wea/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BGR"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Pentagon může ukončit vztahy s Anthropic kvůli bezpečnostním omezením AI - Výrobce Claude vyjadřuje obavy z 'tvrdých limitů kolem plně autonomních zbraní a masového domácího sledování'",
+      "description": "Anthropic váhá s povolením Pentagonu pokračovat v používání modelu Claude kvůli obavám z porušení svých zásad používání. Pentagon hrozí zrušením 200milionového kontraktu kvůli nesouhlasu s omezeními na autonomní zbraně a masové sledování.",
+      "slug": "pentagon-may-sever-anthropic-relationship-over-ai-",
+      "publishedAt": "2026-02-16T18:35:00+00:00",
+      "date": "2026-02-16 18:35:00",
+      "importance": 4,
+      "category": "ai etika",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/scxFkyfYSQbrtGvqrmFqgU-2560-80.jpg",
+      "url": "/tech-news/2026-02-16/pentagon-may-sever-anthropic-relationship-over-ai/",
+      "source": {
+        "emoji": "📰",
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": []
+    },
     {
       "title": "Western Digital vyprodalo celou zásobu pevných disků pro rok 2026, AI datacentra pohlcují nabídku",
       "description": "Western Digital, jeden z největších výrobců pevných disků na světě, vyprodalo svou úložnou kapacitu pro rok 2026 s více než deseti měsíci zbývajícími v roce. Poptávka pochází především od firem provozujících AI datacentra.",
