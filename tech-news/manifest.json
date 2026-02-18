@@ -1,7 +1,209 @@
 {
-  "generated": "2026-02-18T17:18:32.867422+00:00",
-  "count": 186,
+  "generated": "2026-02-18T20:56:30.751347+00:00",
+  "count": 196,
   "articles": [
+    {
+      "title": "Co dokážou noví humanoidní roboti pohánění AI v Číně?",
+      "description": "Na galavečeru CCTV Spring Festival se humanoidní roboti od firmy Unitree předvedli v složité kung-fu rutině včetně parkouru a manipulace se zbraněmi. Výkon proběhl bez chyb i v blízkosti dětských vystupujících a představuje výrazný pokrok oproti loňskému roku.",
+      "slug": "have-you-seen-what-chinas-new-humanoid-ai-powered-",
+      "publishedAt": "2026-02-17T20:19:43+00:00",
+      "date": "2026-02-17 20:19:43",
+      "importance": 5,
+      "category": "robotika",
+      "urlToImage": "http://theeconomiccollapseblog.com/wp-content/uploads/2026/02/Snip20260217_76.png",
+      "url": "/tech-news/2026-02-17/have-you-seen-what-chinas-new-humanoid-ai-powered/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Theeconomiccollapseblog.com"
+      },
+      "companies": [
+        "Unitree"
+      ],
+      "people": []
+    },
+    {
+      "title": "Čínští hackeři exploitují zero-day zranitelnost Dellu od poloviny 2024",
+      "description": "Podezřelá skupina hackerů UNC6201 podporovaná čínským státem exploituje kritickou zranitelnost s pevně zakódovanými přihlašovacími údaji v softwaru Dell RecoverPoint for Virtual Machines v zero-day útocích od poloviny 2024. Skupina nasadila nový backdoor Grimbolt a skrývá se pomocí Ghost NICs na serverech VMware ESXi.",
+      "slug": "chinese-hackers-exploiting-dell-zero-day-flaw-sinc",
+      "publishedAt": "2026-02-17T20:15:03+00:00",
+      "date": "2026-02-17 20:15:03",
+      "importance": 5,
+      "category": "kybernetika",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2024/05/09/Dell-headpic.jpg",
+      "url": "/tech-news/2026-02-17/chinese-hackers-exploiting-dell-zero-day-flaw-sinc/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "companies": [
+        "Dell"
+      ],
+      "people": []
+    },
+    {
+      "title": "HII spolupracuje s Path Robotics na integraci fyzické AI do stavby obsazených i bezpilotních lodí",
+      "description": "Společnosti HII a Path Robotics podepsaly memorandum o porozumění k prozkoumání integrace fyzické umělé inteligence pro svařování do lodních stavelnic. Cílem je zrychlit výrobu lodí pro americké námořnictvo, posílit průmyslovou základnu a rozšířit pracovní sílu.",
+      "slug": "hii-teams-with-path-robotics-to-integrate-physical",
+      "publishedAt": "2026-02-17T20:15:00+00:00",
+      "date": "2026-02-17 20:15:00",
+      "importance": 4,
+      "category": "průmyslová robotika",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/50e1f6f6-0b84-4b47-bae8-15bb93c2843a",
+      "url": "/tech-news/2026-02-17/hii-teams-with-path-robotics-to-integrate-physical/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [
+        "Path Robotics"
+      ],
+      "people": []
+    },
+    {
+      "title": "Thrive získává 10 miliard dolarů na nový fond, svůj největší dosud | TechCrunch",
+      "description": "Thrive Capital získal 10 miliard dolarů na nový fond, což je téměř dvojnásobek velikosti předchozího fondu. Z toho 1 miliarda dolarů je vyhrazena pro investice do raných fází, zbytek pro růstové fáze.",
+      "slug": "thrive-raises-10b-for-new-fund-its-largest-yet-tec",
+      "publishedAt": "2026-02-17T20:13:49+00:00",
+      "date": "2026-02-17 20:13:49",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2184416821.jpg?w=1024",
+      "url": "/tech-news/2026-02-17/thrive-raises-10b-for-new-fund-its-largest-yet-tec/",
+      "source": {
+        "emoji": "🚀",
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Grok 4.20 analyzuje emulované digitální lidi Macrohard",
+      "description": "Grok 4.20 zkoumá interní projekt xAI s kódovým názvem MacroHard, který vyvíjí emulátory digitálních lidí či autonomní počítače. Tyto AI agenti napodobují práci kancelářských zaměstnanců na stolních počítačích bez nutnosti změn v API.",
+      "slug": "grok-420-analyzes-macrohard-emulated-digital-human",
+      "publishedAt": "2026-02-17T20:11:30+00:00",
+      "date": "2026-02-17 20:11:30",
+      "importance": 4,
+      "category": "digitální lidé",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/02/xaimacrohrad.jpeg",
+      "url": "/tech-news/2026-02-17/grok-420-analyzes-macrohard-emulated-digital-human/",
+      "source": {
+        "emoji": "📰",
+        "id": "next-big-future",
+        "name": "Next Big Future"
+      },
+      "companies": [
+        "xAI",
+        "Microsoft"
+      ],
+      "people": []
+    },
+    {
+      "title": "Ustupte Meta: Přicházejí chytré brýle od Apple",
+      "description": "Podle zprávy Bloombergu od Marka Gurmana Apple urychluje vývoj tří nositelných zařízení s AI funkcemi: chytrých brýlí, přívěsku a AirPods s IR kamerami. Tato zařízení by měla posílit pozici Apple v oblasti AI hardwaru, ale budou závislá na iPhonu.",
+      "slug": "move-over-meta-apple-smart-glasses-are-coming",
+      "publishedAt": "2026-02-17T19:57:57+00:00",
+      "date": "2026-02-17 19:57:57",
+      "importance": 4,
+      "category": "chytré brýle",
+      "urlToImage": "https://www.macworld.com/wp-content/uploads/2026/02/Ray-Ban-Meta-Gen-2-Hands-On-Skylar-clear-try-on.jpg?quality=50&strip=all&w=1024",
+      "url": "/tech-news/2026-02-17/move-over-meta-apple-smart-glasses-are-coming/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Macworld"
+      },
+      "companies": [
+        "Apple",
+        "Bloomberg",
+        "Meta"
+      ],
+      "people": []
+    },
+    {
+      "title": "Anthropic měl být 'bezpečnou' alternativou k OpenAI, ale CEO Dario Amodei přiznává, že jeho společnost bojuje s vyvažováním bezpečnosti se zisky",
+      "description": "Generální ředitel Anthropicu říká, že intenzivní komerční tlak testuje misi společnosti zaměřenou na bezpečnou AI.",
+      "slug": "anthropic-was-supposed-to-be-a-safe-alternative-to",
+      "publishedAt": "2026-02-17T19:25:08+00:00",
+      "date": "2026-02-17 19:25:08",
+      "importance": 4,
+      "category": "ai bezpečnost",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2261514463-e1771354847602.jpg?resize=1200,600",
+      "url": "/tech-news/2026-02-17/anthropic-was-supposed-to-be-a-safe-alternative-to/",
+      "source": {
+        "emoji": "📰",
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "companies": [
+        "Anthropic",
+        "OpenAI"
+      ],
+      "people": [
+        "Dario Amodei"
+      ]
+    },
+    {
+      "title": "Render získal 100 milionů dolarů na vývoj cloud technologie pro AI agenty",
+      "description": "Cloudová technologická společnost Render získala 100 milionů dolarů v novém financování. Rozšíření série C, oznámené 17. února, oceňuje firmu na 1,5 miliardy dolarů a poslouží k vývoji cloudového prostředí pro AI agenty a aplikace.",
+      "slug": "render-raises-100-million-to-build-cloud-tech-for-",
+      "publishedAt": "2026-02-17T19:22:28+00:00",
+      "date": "2026-02-17 19:22:28",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/02/Render-AI-clound-funding.jpeg",
+      "url": "/tech-news/2026-02-17/render-raises-100-million-to-build-cloud-tech-for/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [
+        "Render"
+      ],
+      "people": []
+    },
+    {
+      "title": "Specializace modelů umělé inteligence a přechod k paralelním a víceagentním systémům",
+      "description": "xAI Grok 4.20 integruje nativní radu čtyř specializovaných agentů, kteří běží paralelně na sdílených vahách a KV cache s interní strukturovanou debatou a optimalizací RL. Tento přístup přináší výrazná zlepšení v hloubce uvažování, kontrole faktů a detekci slepých míst oproti jednoprstupovým modelům.",
+      "slug": "ai-models-specializations-and-moving-to-parallel-a",
+      "publishedAt": "2026-02-17T19:19:54+00:00",
+      "date": "2026-02-17 19:19:54",
+      "importance": 4,
+      "category": "multiagentní systémy",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/02/Screenshot-2026-02-17-at-11.19.17-AM.jpg",
+      "url": "/tech-news/2026-02-17/ai-models-specializations-and-moving-to-parallel-a/",
+      "source": {
+        "emoji": "📰",
+        "id": "next-big-future",
+        "name": "Next Big Future"
+      },
+      "companies": [
+        "xAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "„Dekáda robota“ otevírá cestu k trhu v hodnotě bilionu dolarů, tvrdí Barclays",
+      "description": "Trh s roboty poháněnými umělou inteligencí a autonomními stroji má potenciál narůst na bilion dolarů do roku 2035, což je řádově více než nyní, podle týmu analytiků Barclays.",
+      "slug": "decade-of-the-robot-paves-way-for-trillion-dollar-",
+      "publishedAt": "2026-02-17T19:10:13+00:00",
+      "date": "2026-02-17 19:10:13",
+      "importance": 5,
+      "category": "robotika",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_1_1733464951182_1733464958176.png",
+      "url": "/tech-news/2026-02-17/decade-of-the-robot-paves-way-for-trillion-dollar/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Livemint"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "V Lower Hutt levituje půltunový magnet – klíčový krok k čisté jaderné fúzi",
       "description": "Startup OpenStar v Lower Hutt na Novém Zélandu dosáhl levitace 550kilogramového superprováděcího magnetu v plazmě. Vláda podporuje firmu částkou 35 milionů dolarů na vývoj fúzní energie.",
