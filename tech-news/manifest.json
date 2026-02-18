@@ -1,7 +1,87 @@
 {
-  "generated": "2026-02-18T08:57:12.387766+00:00",
-  "count": 179,
+  "generated": "2026-02-18T13:06:34.986900+00:00",
+  "count": 183,
   "articles": [
+    {
+      "title": "„Indie nebude následovat století umělé inteligence, Indie ho utváří,“ říká Gautam Adani po investici 100 miliard dolarů do datových center připravených na AI do roku 2035",
+      "description": "Skupina Adani oznámila investici 100 miliard dolarů do výstavby hyperskalárních datových center poháněných obnovitelnou energií, připravených na zpracování úloh umělé inteligence. Tento krok má podpořit vznik AI ekosystému v hodnotě 250 miliard dolarů a posílit pozici Indie v globálním vývoji AI.",
+      "slug": "india-will-not-follow-the-ai-century-india-will-sh",
+      "publishedAt": "2026-02-17T12:34:26+00:00",
+      "date": "2026-02-17 12:34:26",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/msid-128465014,width-1200,height-630,imgsize-23498,overlay-economictimes/articleshow.jpg",
+      "url": "/tech-news/2026-02-17/india-will-not-follow-the-ai-century-india-will-sh/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": [
+        "Gautam Adani"
+      ]
+    },
+    {
+      "title": "Hustota energie solid-state baterie 500 Wh/kg dosažena levným hybridním Li-Mn balením v elektromobilu FAW s dojezdem 500 mil",
+      "description": "Rekordní hybridní solid-state baterie s elektrolytem byla vyrobena s manganem místo niklu pro snížení nákladů. Její hustota energie 500 Wh/kg je dvojnásobkem oproti špičkovým LFP bateriím.",
+      "slug": "solid-state-battery-density-of-500-whkg-achieved-b",
+      "publishedAt": "2026-02-17T12:22:00+00:00",
+      "date": "2026-02-17 12:22:00",
+      "importance": 5,
+      "category": "elektromobilita",
+      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/FAW-hybrid-solid-liquid-battery-sedan.jpg",
+      "url": "/tech-news/2026-02-17/solid-state-battery-density-of-500-whkg-achieved-b/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Notebookcheck.net"
+      },
+      "companies": [
+        "FAW"
+      ],
+      "people": []
+    },
+    {
+      "title": "Kvantové algoritmy zvyšují odolnost sítí v experimentu Classiq, Comcast a AMD",
+      "description": "Startup Classiq Technologies oznámil partnerství s telekomunikačním gigantem Comcast a výrobcem čipů AMD, které demonstruje, jak kvantové algoritmy výrazně zlepšují odolnost sítí. Test řeší optimalizaci nezávislých cest pro přesměrování provozu při současném výpadku primárního i záložního uzlu.",
+      "slug": "quantum-algorithms-enhance-network-resilience-in-c",
+      "publishedAt": "2026-02-17T12:00:10+00:00",
+      "date": "2026-02-17 12:00:10",
+      "importance": 5,
+      "category": "kvantové počítače",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Screenshot-from-2026-02-16-09-01-30.png",
+      "url": "/tech-news/2026-02-17/quantum-algorithms-enhance-network-resilience-in-c/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Classiq",
+        "Comcast",
+        "AMD"
+      ],
+      "people": []
+    },
+    {
+      "title": "Oznámení iniciativy „AI Agent Standards Initiative“ pro interoperabilní a bezpečnou inovaci",
+      "description": "Iniciativa zajistí, že další generace umělé inteligence – AI agenti schopní autonomních akcí – bude široce přijímána s důvěrou, bude fungovat bezpečně jménem uživatelů a hladce interoperovat v digitálním ekosystému.",
+      "slug": "announcing-the-ai-agent-standards-initiative-for-i",
+      "publishedAt": "2026-02-17T12:00:00+00:00",
+      "date": "2026-02-17 12:00:00",
+      "importance": 4,
+      "category": "ai standardy",
+      "urlToImage": "https://www.nist.gov/sites/default/files/styles/social/public/images/2024/04/16/shutterstock_695169133.jpg?itok=uC3iYMG_",
+      "url": "/tech-news/2026-02-17/announcing-the-ai-agent-standards-initiative-for-i/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Nist.gov"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "MacBook Air M5: Nejprodávanější notebook Apple získává 45% nárůst grafického výkonu",
       "description": "Apple oznámilo uvedení MacBooku Air M5 na začátek března 2026. Tato verze přináší čip M5 s výrazně lepší grafikou, rychlejší úložiště, přičemž vnější design zůstává beze změny oproti modelu z roku 2022.",
