@@ -1,7 +1,85 @@
 {
-  "generated": "2026-02-18T05:39:52.534635+00:00",
-  "count": 175,
+  "generated": "2026-02-18T08:57:12.387766+00:00",
+  "count": 179,
   "articles": [
+    {
+      "title": "MacBook Air M5: Nejprodávanější notebook Apple získává 45% nárůst grafického výkonu",
+      "description": "Apple oznámilo uvedení MacBooku Air M5 na začátek března 2026. Tato verze přináší čip M5 s výrazně lepší grafikou, rychlejší úložiště, přičemž vnější design zůstává beze změny oproti modelu z roku 2022.",
+      "slug": "macbook-air-m5-apples-most-popular-laptop-gets-a-m",
+      "publishedAt": "2026-02-17T07:55:04+00:00",
+      "date": "2026-02-17 07:55:04",
+      "importance": 4,
+      "category": "hardware",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/02/macbook-air-m5-2026-launch-upgrades_optimized.jpg",
+      "url": "/tech-news/2026-02-17/macbook-air-m5-apples-most-popular-laptop-gets-a-m/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Akce Apple 4. března: iPhone 17e, iPad Air s čipem M4 a nové MacBooky",
+      "description": "Apple oznámilo svou první velkou akci roku, která se uskuteční 4. března v 9:00 ráno v New Yorku, s paralelními událostmi v Londýně a Šanghaji. Očekávají se aktualizace v řadách iPhone, MacBook a iPad, včetně pokroků v bezdrátovém nabíjení, technologiích displejů a procesorech.",
+      "slug": "apple-march-4th-event-iphone-17e-m4-ipad-air-and-n",
+      "publishedAt": "2026-02-17T07:30:26+00:00",
+      "date": "2026-02-17 07:30:26",
+      "importance": 4,
+      "category": "hardware",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/02/apple-march-4th-event-2024-products_optimized.jpg",
+      "url": "/tech-news/2026-02-17/apple-march-4th-event-iphone-17e-m4-ipad-air-and-n/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Kung fu se setkává s jarem – Roboti Unitree na galavečeru Jarního festivalu předvedli „Kybernetické skutečné kung fu“ v roce koně",
+      "description": "Čínská firma Unitree Robotics předvedla na galavečeru Jarního festivalu 2026 své humanoidní roboty G1 a H2 v choreografii kung fu. Dosáhli několika světových prvních v pohybových výkonech a koordinaci skupiny, včetně parkouru a otočných skoků.",
+      "slug": "kung-fu-meets-spring-unitree-spring-festival-gala-",
+      "publishedAt": "2026-02-17T07:11:23+00:00",
+      "date": "2026-02-17 07:11:23",
+      "importance": 5,
+      "category": "robotika",
+      "urlToImage": "https://www.thehindubusinessline.com/theme/images/og-image.png",
+      "url": "/tech-news/2026-02-17/kung-fu-meets-spring-unitree-spring-festival-gala/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "companies": [
+        "Unitree"
+      ],
+      "people": []
+    },
+    {
+      "title": "Indie míří na 200 miliard dolarů investic do datových center při posilování ambicí stát se centrem AI",
+      "description": "Indie se snaží přilákat až 200 miliard dolarů investic do datových center, aby se stala globálním centrem umělé inteligence. Tento krok podtrhuje roli země jako klíčové báze pro technologie a talenty v globálním závodě o AI dominance.",
+      "slug": "india-eyes-200b-in-data-center-investments-as-it-r",
+      "publishedAt": "2026-02-17T07:02:43+00:00",
+      "date": "2026-02-17 07:02:43",
+      "importance": 4,
+      "category": "datová centra",
+      "urlToImage": "https://i.abcnewsfe.com/a/8acb8917-6340-496b-b526-977b3995891e/wirestory_4e170da0a3b883a9659569dd538e9019_16x9.jpg?w=1600",
+      "url": "/tech-news/2026-02-17/india-eyes-200b-in-data-center-investments-as-it-r/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Evropský strážce soukromí vyšetřuje X kvůli sexualizovaným AI obrázkům",
       "description": "Irská datová ochranná komise zahájila vyšetřování platformy X kvůli generování sexualizovaných obrázků osob v EU, včetně nezletilých.",
