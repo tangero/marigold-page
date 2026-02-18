@@ -1,29 +1,127 @@
 {
-  "generated": "2026-02-17T20:50:40.713097+00:00",
-  "count": 191,
+  "generated": "2026-02-18T01:33:13.510446+00:00",
+  "count": 196,
   "articles": [
     {
-      "title": "SpaceX soutěží v soutěži Pentagonu o autonomní technologii rojů dronů, hlásí Bloomberg News",
-      "description": "Společnost SpaceX Elona Muska a její dcera xAI se účastní tajné soutěže Pentagonu na vývoj hlasem ovládané autonomní technologie rojů dronů. Soutěž s cenou 100 milionů dolarů spustil v lednu obranný inovativní úsek Pentagonu a trvá šest měsíců.",
-      "slug": "spacex-to-compete-in-pentagon-contest-for-autonomo",
-      "publishedAt": "2026-02-16T20:12:05+00:00",
-      "date": "2026-02-16 20:12:05",
+      "title": "Francouzský prezident Macron přijel do Indie na summit o dopadu AI, rozhovory s premiérem Modim",
+      "description": "Francouzský prezident Emmanuel Macron zahájil třídenní návštěvu Indie zaměřenou na posílení spolupráce v umělé inteligenci a strategických vztazích. Setká se s premiérem Narendrou Modim, aby probrali bilaterální pokrok a globální otázky včetně spolupráce v Indo-Pacifiku.",
+      "slug": "french-president-macron-arrives-in-india-for-ai-im",
+      "publishedAt": "2026-02-17T00:42:46+00:00",
+      "date": "2026-02-17 00:42:46",
       "importance": 4,
-      "category": "drony",
-      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--6h9OO22x--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-02-16T201205Z_1_LYNXMPEM1F0U9_RTROPTP_3_SPACEX-IPO.JPG?itok=E_QYjUOP",
+      "category": "umělá inteligence",
+      "urlToImage": "https://img.etimg.com/thumb/msid-128443230,width-1200,height-630,imgsize-121542,overlay-economictimes/articleshow.jpg",
+      "url": "/tech-news/2026-02-17/french-president-macron-arrives-in-india-for-ai-im/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": [
+        "Emmanuel Macron",
+        "Narendra Modi"
+      ]
+    },
+    {
+      "title": "Indická aliance Deep Tech připravuje 1 miliardu dolarů na AI, členové plánují 2,5 miliardový balík",
+      "description": "Indická aliance Deep Tech (IDTA) oznámí zvýšené investice do ekosystému umělé inteligence a deeptech. Členové se zavázali k více než 2,5 miliardám dolarů na pět let, z toho 1 miliarda na nasazení AI do tří let.",
+      "slug": "india-deep-tech-alliance-pencils-1-billion-for-ai-",
+      "publishedAt": "2026-02-17T00:41:00+00:00",
+      "date": "2026-02-17 00:41:00",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-140667,resizemode-75,msid-128435515/tech/technology/india-deep-tech-alliance-pencils-1-billion-for-ai-as-members-plan-2-5-billion-play.jpg",
+      "url": "/tech-news/2026-02-17/india-deep-tech-alliance-pencils-1-billion-for-ai/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Indie se stává klíčovým motorem růstu ElevenLabs, jak podniky škálují hlasovou AI: CEO Mati Staniszewski",
+      "description": "Indie je již druhým největším trhem pro ElevenLabs a rychle se stává jedním z jeho největších motorů růstu, protože podniky rozšiřují hlasovou umělou inteligenci v oblasti zákaznického servisu, prodejů a provozu, uvedl spoluzakladatel a generální ředitel společnosti Mati Staniszewski.",
+      "slug": "india-is-becoming-elevenlabs-key-growth-engine-as-",
+      "publishedAt": "2026-02-17T00:31:00+00:00",
+      "date": "2026-02-17 00:31:00",
+      "importance": 4,
+      "category": "hlasová ai",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-148788,resizemode-75,msid-128435783/tech/technology/india-is-becoming-elevenlabs-key-growth-engine-as-enterprises-scale-voice-ai-ceo-mati-staniszewski.jpg",
+      "url": "/tech-news/2026-02-17/india-is-becoming-elevenlabs-key-growth-engine-as/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "ElevenLabs"
+      ],
+      "people": [
+        "Mati Staniszewski"
+      ]
+    },
+    {
+      "title": "Indická Neysa získává 1,2 miliardy dolarů na rozšíření AI-optimalizované cloudové platformy",
+      "description": "Startup Neysa Networks Pvt. Ltd. z Bombaje oznámil získání až 1,2 miliardy dolarů na výstavbu datových center. Konzorcium vedené Blackstone poskytne polovinu částky jako akciový kapitál a získá většinový podíl v firmě.",
+      "slug": "indias-neysa-raises-12b-to-expand-its-ai-optimized",
+      "publishedAt": "2026-02-16T23:38:35+00:00",
+      "date": "2026-02-16 23:38:35",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/unsplash-1-1.png",
+      "url": "/tech-news/2026-02-16/indias-neysa-raises-12b-to-expand-its-ai-optimized/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Neysa"
+      ],
+      "people": []
+    },
+    {
+      "title": "Představitelé Pentagonu hrozí zařazením Anthropic na černou listinu kvůli jeho politikám vojenského chatbota",
+      "description": "Americké ministerstvo obrany zvažuje přerušení všech obchodní vazeb s firmou Anthropic a označení ji za riziko v dodavatelském řetězci kvůli sporům o použití chatbota Claude pro vojenské účely. Tento krok by donutil všechny kontrakty Pentagonu přestat používat technologie Anthropic.",
+      "slug": "pentagon-officials-threaten-to-blacklist-anthropic",
+      "publishedAt": "2026-02-16T23:37:32+00:00",
+      "date": "2026-02-16 23:37:32",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Screenshot-from-2026-02-17-06-36-59.png",
+      "url": "/tech-news/2026-02-16/pentagon-officials-threaten-to-blacklist-anthropic/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": []
+    },
+    {
+      "title": "SpaceX soutěží v soutěži Pentagonu o technologii autonomních rojů dronů: zpráva",
+      "description": "Šestiměsíční soutěž má vytvořit pokročilou technologii rojů dronů, která převádí hlasové příkazy na digitální instrukce a ovládá více dronů najednou, uvedla zpráva.",
+      "slug": "spacex-to-compete-in-pentagon-contest-for-autonomo",
+      "publishedAt": "2026-02-16T23:19:11+00:00",
+      "date": "2026-02-16 23:19:11",
+      "importance": 4,
+      "category": "autonomní drony",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/02/121508743_0602a4.jpg?quality=75&strip=all&w=1200",
       "url": "/tech-news/2026-02-16/spacex-to-compete-in-pentagon-contest-for-autonomo/",
       "source": {
         "emoji": "📰",
         "id": null,
-        "name": "CNA"
+        "name": "New York Post"
       },
       "companies": [
-        "SpaceX",
-        "xAI"
+        "SpaceX"
       ],
-      "people": [
-        "Elon Musk"
-      ]
+      "people": []
     },
     {
       "title": "Ztráty Waymo přibližně 5 miliard dolarů",

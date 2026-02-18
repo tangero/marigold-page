@@ -1,55 +1,52 @@
 ---
 author: Marisa Aigen
-category: drony
+category: autonomní drony
 companies:
 - SpaceX
-- xAI
-date: '2026-02-16 20:12:05'
-description: Společnost SpaceX Elona Muska a její dcera xAI se účastní tajné soutěže
-  Pentagonu na vývoj hlasem ovládané autonomní technologie rojů dronů. Soutěž s cenou
-  100 milionů dolarů spustil v lednu obranný inovativní úsek Pentagonu a trvá šest
-  měsíců.
+date: '2026-02-16 23:19:11'
+description: Šestiměsíční soutěž má vytvořit pokročilou technologii rojů dronů, která
+  převádí hlasové příkazy na digitální instrukce a ovládá více dronů najednou, uvedla
+  zpráva.
 importance: 4
 layout: tech_news_article
-original_title: SpaceX to compete in Pentagon contest for autonomous drone tech, Bloomberg
-  News reports
-people:
-- Elon Musk
-publishedAt: '2026-02-16T20:12:05+00:00'
+original_title: 'SpaceX to compete in Pentagon contest for autonomous drone tech:
+  report'
+publishedAt: '2026-02-16T23:19:11+00:00'
 slug: spacex-to-compete-in-pentagon-contest-for-autonomo
 source:
   emoji: 📰
   id: null
-  name: CNA
-title: SpaceX soutěží v soutěži Pentagonu o autonomní technologii rojů dronů, hlásí
-  Bloomberg News
-url: https://www.channelnewsasia.com/business/spacex-compete-in-pentagon-contest-autonomous-drone-tech-bloomberg-news-reports-5934986
-urlToImage: https://dam.mediacorp.sg/image/upload/s--6h9OO22x--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-02-16T201205Z_1_LYNXMPEM1F0U9_RTROPTP_3_SPACEX-IPO.JPG?itok=E_QYjUOP
-urlToImageBackup: https://dam.mediacorp.sg/image/upload/s--6h9OO22x--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-02-16T201205Z_1_LYNXMPEM1F0U9_RTROPTP_3_SPACEX-IPO.JPG?itok=E_QYjUOP
+  name: New York Post
+title: 'SpaceX soutěží v soutěži Pentagonu o technologii autonomních rojů dronů: zpráva'
+url: https://nypost.com/2026/02/16/business/spacex-to-compete-in-pentagon-contest-for-autonomous-drone-tech-report/
+urlToImage: https://nypost.com/wp-content/uploads/sites/2/2026/02/121508743_0602a4.jpg?quality=75&strip=all&w=1200
+urlToImageBackup: https://nypost.com/wp-content/uploads/sites/2/2026/02/121508743_0602a4.jpg?quality=75&strip=all&w=1200
 ---
 
 ## Souhrn
-Společnost SpaceX a její naposledy akvizovaná dcera xAI soutěží v neveřejné soutěži amerického ministerstva obrany na vývoj technologie autonomních rojů dronů ovládaných hlasovými příkazy. Podle zprávy Bloombergu, citující anonymní zdroje, byla vybrána mezi několika firmami v soutěži s dotací 100 milionů dolarů spuštěné v lednu. Cílem je převod hlasových pokynů na digitální instrukce pro řízení více dronů současně.
+Společnost SpaceX společně s její dceřinou firmou xAI se účastní tajné soutěže Pentagonu o vývoj hlasově ovládané technologie autonomních rojů dronů. Soutěž s cenou 100 milionů dolarů byla zahájena v lednu a trvá šest měsíců. Cílem je vytvořit systém, který dokáže převádět lidské hlasové příkazy na počítačové instrukce pro koordinaci více dronů.
 
 ## Klíčové body
-- SpaceX nedávno získalo plnou kontrolu nad xAI, Muskovo AI studio, před plánovaným úvodem na burzu.
-- Soutěž trvá šest měsíců a zaměřuje se na pokročilou swarmovou technologii pro vojenské drony.
-- Ani SpaceX, xAI ani Pentagon nekomentovaly zprávu; Reuters ji nedokázal ověřit.
-- Vybráno jen několik firem, včetně Muskova impéria.
-- xAI se specializuje na vývoj velkých jazykových modelů pro pokročilé AI aplikace.
+- SpaceX a xAI jsou mezi vybranými účastníky 100miliardolárové soutěže iniciované obrannou inovační jednotkou Pentagonu (DIU).
+- Technologie má umožnit hlasové ovládání rojů autonomních dronů, což zahrnuje převod hlasu na digitální signály pro koordinaci letů.
+- SpaceX nedávno získala xAI, Muskovo AI studio, což posiluje jejich pozici v obranných projektech před plánovaným IPO.
+- Elon Musk v roce 2015 podepsal dopis volající po zákazu ofenzivních autonomních zbraní, nyní jeho firmy soutěží v podobném projektu.
+- Další AI firmy jako OpenAI, Google, Anthropic a xAI získaly minulý rok kontrakty Pentagonu v hodnotě až 200 milionů dolarů na rozšíření AI schopností.
 
 ## Podrobnosti
-Zpráva Bloombergu z 16. února popisuje tajnou soutěž iniciovanou Defense Innovation Unit (DIU), specializovanou jednotkou Pentagonu zaměřenou na rychlé zavádění komerčních technologií do obrany. SpaceX, texaská firma známá raketami Falcon a Starship pro kosmické mise i vojenské zakázky, vstoupila do soutěže po akvizici xAI. Tato společnost, založená Elonem Muskem v roce 2023, vyvíjí velké jazykové modely (LLM) jako Grok, které slouží k zpracování přirozeného jazyka a generování kódu nebo instrukcí. Akvizice proběhla krátce před plánovaným IPO SpaceX v tomto roce, což posiluje integraci AI do obranných projektů.
+Podle zprávy Bloomberg News, citující zdroje blízké věci, se SpaceX a xAI zapojily do utajené soutěže Pentagonu zaměřené na vývoj pokročilé technologie rojů autonomních dronů. Tato technologie by měla umožnit operátorům vydávat hlasové příkazy, které systém automaticky převede na digitální instrukce pro řízení více dronů současně. Roj dronů představuje skupinu autonomních zařízení, která spolupracují bez centrálního ovládání, podobně jako včely v úlu, a slouží k úkolům jako průzkum, monitorování nebo obrana.
 
-Soutěž s rozpočtem 100 milionů dolarů vybrala jen hrstku účastníků. Technologie má umožnit převod hlasových příkazů vojáků na digitální signály, které koordinují roje dronů – skupiny autonomních letadel schopných samostatného rozhodování, navigace a spolupráce bez centrálního řízení. Takové swarmy se používají k průzkumu, útokům nebo logistice v bojových podmínkách, kde tradiční ovládání selhává kvůli rušení signálu. xAI by zde mohlo přispět svými LLM pro interpretaci hlasu v reálném čase, přičemž SpaceX dodá hardware zkušený v autonomních raketách jako Starship.
+SpaceX, texaská firma Elona Muska specializující se na rakety a satelity Starlink, nedávno absorbovala xAI, své AI studio zaměřené na vývoj velkých jazykových modelů a pokročilých AI systémů. Tato akvizice proběhla před plánovaným úvodem SpaceX na burzu, což posiluje jejich kapacity v AI pro obranné aplikace. Pentagonova obranná inovační jednotka (DIU) vybrala jen hrstku firem pro tuto šestiměsíční soutěž zahájenou v lednu, s celkovou cenou 100 milionů dolarů.
 
-Zpráva je však založena na anonymních zdrojích a nebyla ověřena. SpaceX má zkušenosti s obrannými kontrakty, například satelity Starlink pro Ukrajinu, ale vstup do dronové soutěže by rozšířil jeho portfolio o AI-řízenou robotiku. xAI, na rozdíl od OpenAI nebo Anthropic, se zaměřuje na méně restriktivní AI modely, což by mohlo usnadnit vojenské aplikace bez etických omezení.
+Zpráva zdůrazňuje kontrast: Musk byl v roce 2015 mezi 37 výzkumníky AI a robotiky, kteří podepsali otevřený dopis volající po globálním zákazu ofenzivních autonomních zbraní, argumentujících rizikem nových nástrojů pro zabíjení. Nyní jeho firmy přispívají k vývoji podobných technologií. Americký ministr obrany Pete Hegseth loni oznámil strategii urychlení vývoje a nasazení dronů snížením byrokracie a podporou domácí výroby. USA zároveň hledají bezpečné metody neutralizace nepřátelských dronů, zejména u letišť a velkých akcí jako FIFA World Cup nebo oslavy America250 let.
+
+Minulý rok získaly OpenAI, Google (Alphabet), Anthropic a xAI kontrakty Pentagonu v hodnotě až 200 milionů dolarů na škálování AI schopností pro vojenské účely, což ukazuje rostoucí integraci komerční AI do obrany. SpaceX, xAI i DIU na dotazy neodpověděly, Reuters zprávu nezvěřil.
 
 ## Proč je to důležité
-Tato soutěž urychlí vývoj autonomních systémů, kde AI přebírá rozhodování v reálném čase, což změní dynamiku moderní války. Pro průmysl znamená integraci SpaceX a xAI nový impuls pro komerční aplikace swarmů, například v zemědělství nebo logistice. V širším kontextu posiluje Muskovo impérium v obraně, kde AI modely jako Grok umožní hlasové ovládání flotil, snižující závislost na lidech. Rizika zahrnují eskalaci závodů ve zbraních poháněných AI, přičemž neověřené zprávy naznačují, že Pentagon preferuje soukromé giganty před tradičními dodavateli jako Lockheed Martin.
+Tato soutěž urychlí vývoj hlasově řízených rojů dronů, což má klíčové dopady na vojenskou robotiku a AI. Pro průmysl znamená propojení Muskova ekosystému (SpaceX pro hardware, xAI pro AI) s Pentagonem posílení dominance USA v autonomních systémech oproti Číně. Pro uživatele a širší ekosystém to otevírá civilní aplikace jako monitorování katastrof nebo zemědělství, ale zvyšuje etické otázky kolem militarizace AI. V kontextu miliardových kontraktů signalizuje hlubší integraci velkých AI firem do obrany, což může ovlivnit regulace a globální standardy autonomie.
 
 ---
 
-[Číst původní článek](https://www.channelnewsasia.com/business/spacex-compete-in-pentagon-contest-autonomous-drone-tech-bloomberg-news-reports-5934986)
+[Číst původní článek](https://nypost.com/2026/02/16/business/spacex-to-compete-in-pentagon-contest-for-autonomous-drone-tech-report/)
 
-**Zdroj:** 📰 CNA
+**Zdroj:** 📰 New York Post
