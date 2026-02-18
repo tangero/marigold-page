@@ -1,7 +1,174 @@
 {
-  "generated": "2026-02-18T01:33:13.510446+00:00",
-  "count": 196,
+  "generated": "2026-02-18T05:39:52.534635+00:00",
+  "count": 175,
   "articles": [
+    {
+      "title": "Evropský strážce soukromí vyšetřuje X kvůli sexualizovaným AI obrázkům",
+      "description": "Irská datová ochranná komise zahájila vyšetřování platformy X kvůli generování sexualizovaných obrázků osob v EU, včetně nezletilých.",
+      "slug": "the-eus-privacy-watchdog-is-investigating-x-over-s",
+      "publishedAt": "2026-02-17T05:04:54+00:00",
+      "date": "2026-02-17 05:04:54",
+      "importance": 4,
+      "category": "datová ochrana",
+      "urlToImage": "https://i.insider.com/6993e156d3c7faef0ece5c7d?width=1200&format=jpeg",
+      "url": "/tech-news/2026-02-17/the-eus-privacy-watchdog-is-investigating-x-over-s/",
+      "source": {
+        "emoji": "📰",
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Akcie Infosys rostou o 3 % díky partnerství s Anthropic, vedou Nifty IT k růstu o 2 %",
+      "description": "IT akcie: Nomura uvádí, že valuace těchto akcií jsou v 'value' zóně po silné korekci. Obavy z narušení vedeného AI považuje za zjednodušení role IT služeb.",
+      "slug": "infosys-shares-rise-3-on-partnership-with-anthropi",
+      "publishedAt": "2026-02-17T04:47:40+00:00",
+      "date": "2026-02-17 04:47:40",
+      "importance": 4,
+      "category": "it akcie",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2026/02/20260217044018_IT-stocks-rise-infosys.jpg",
+      "url": "/tech-news/2026-02-17/infosys-shares-rise-3-on-partnership-with-anthropi/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Moneycontrol"
+      },
+      "companies": [
+        "Infosys",
+        "Anthropic"
+      ],
+      "people": []
+    },
+    {
+      "title": "Infosys navazuje partnerství s Anthropic na dodávku podnikových řešení umělé inteligence",
+      "description": "Infosys oznámila spolupráci s Anthropic, firmou zaměřenou na bezpečnost a výzkum umělé inteligence, na vývoj pokročilých podnikových AI řešení pro telekomunikace, finanční služby, výrobu a vývoj software. Partnerství integruje modely Claude s platformou Infosys Topaz AI a zaměřuje se na agentické AI systémy.",
+      "slug": "infosys-partners-with-anthropic-to-deliver-enterpr",
+      "publishedAt": "2026-02-17T04:44:17+00:00",
+      "date": "2026-02-17 04:44:17",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-155616,resizemode-75,msid-128448919/tech/information-tech/infosys-partners-with-anthropic-to-deliver-enterprise-ai-solutions.jpg",
+      "url": "/tech-news/2026-02-17/infosys-partners-with-anthropic-to-deliver-enterpr/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Infosys",
+        "Anthropic"
+      ],
+      "people": []
+    },
+    {
+      "title": "Akcie Infosys vzrostly o 3 % díky spolupráci s Anthropic. Co řekl Salil Parekh",
+      "description": "Akcie Infosys vzrostly v útery až o 5 % na 1431 rupií na burze BSE po oznámení strategického partnerství s AI firmou Anthropic. Spolupráce integruje modely Claude do platformy Infosys Topaz pro vývoj podnikových AI řešení zaměřených na telekomunikační sektor a další obory.",
+      "slug": "infosys-shares-rise-3-on-collaboration-with-anthro",
+      "publishedAt": "2026-02-17T04:32:44+00:00",
+      "date": "2026-02-17 04:32:44",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/msid-128448588,width-1200,height-630,imgsize-64612,overlay-etmarkets/articleshow.jpg",
+      "url": "/tech-news/2026-02-17/infosys-shares-rise-3-on-collaboration-with-anthro/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Infosys",
+        "Anthropic"
+      ],
+      "people": [
+        "Salil Parekh"
+      ]
+    },
+    {
+      "title": "Od Rafale k tlači na umělou inteligenci: Co je na pořadu při setkání francouzského prezidenta Emmanuela Macrona s premiérem Modim v Bombaji",
+      "description": "Francouzský prezident Emmanuel Macron je v Bombaji na rozhovory s indickým premiérem Narendrou Modim. Klíčová témata zahrnují obranu, umělou inteligenci a kritické minerály. Vůdci inaugurují Indicko-francouzský rok inovací 2026.",
+      "slug": "from-rafale-to-ai-push-whats-on-agenda-as-french-p",
+      "publishedAt": "2026-02-17T03:39:57+00:00",
+      "date": "2026-02-17 03:39:57",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/msid-128447219,width-1200,height-630,imgsize-260935,overlay-economictimes/articleshow.jpg",
+      "url": "/tech-news/2026-02-17/from-rafale-to-ai-push-whats-on-agenda-as-french-p/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": [
+        "Emmanuel Macron",
+        "Narendra Modi"
+      ]
+    },
+    {
+      "title": "Čína testuje roj satelitů s umělou inteligencí pro výpočty ve vesmíru",
+      "description": "Čína nenápadně posunula výpočty ve vesmíru dál, než si většina představuje. Roj satelitů od Zhejiang Lab již v oběžné dráze provozuje modely s 8 miliardami parametrů a prokazuje schopnost komunikace mezi satelity a sdílení výpočetních úloh.",
+      "slug": "china-tests-ai-satellite-swarm-for-space-based-com",
+      "publishedAt": "2026-02-17T02:50:01+00:00",
+      "date": "2026-02-17 02:50:01",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://www.ponoko.com/blog/wp-content/uploads/2026/02/0-1.jpg",
+      "url": "/tech-news/2026-02-17/china-tests-ai-satellite-swarm-for-space-based-com/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Ponoko.com"
+      },
+      "companies": [
+        "Zhejiang Lab"
+      ],
+      "people": []
+    },
+    {
+      "title": "SpaceX soutěží v soutěži Pentagonu o technologii autonomních dronů: Zpráva",
+      "description": "Společnost SpaceX se sídlem v Texasu nedávno získala xAI v dohodě, která spojila Elona Muska v oblasti vesmíru a obrany s jeho startupem na umělou inteligenci. K tomu došlo před plánovaným úvodem na burzu letos.",
+      "slug": "spacex-to-compete-in-pentagon-contest-for-autonomo",
+      "publishedAt": "2026-02-17T02:39:35+00:00",
+      "date": "2026-02-17 02:39:35",
+      "importance": 4,
+      "category": "autonomní drony",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-41782,resizemode-75,msid-128445569/tech/technology/spacex-to-compete-in-pentagon-contest-for-autonomous-drone-tech-report.jpg",
+      "url": "/tech-news/2026-02-17/spacex-to-compete-in-pentagon-contest-for-autonomo/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "SpaceX",
+        "xAI"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Manus spouští osobní AI agenty v Telegramu, další zprávové aplikace na řadě",
+      "description": "Agentická umělá inteligence Manus od Meta Platforms integruje platformu s populárními zprávovými aplikacemi včetně Telegramu, WhatsAppu, LINE a Slacku. Spouští se Manus Agents v Telegramu, kde uživatelé vytvoří osobního AI agenta pro složité úkoly jako hledání bytu nebo rezervace hotelu.",
+      "slug": "manus-launches-personal-ai-agents-in-telegram-with",
+      "publishedAt": "2026-02-17T02:05:38+00:00",
+      "date": "2026-02-17 02:05:38",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Screenshot-from-2026-02-17-09-04-26.png",
+      "url": "/tech-news/2026-02-17/manus-launches-personal-ai-agents-in-telegram-with/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Meta Platforms Inc"
+      ],
+      "people": []
+    },
     {
       "title": "Francouzský prezident Macron přijel do Indie na summit o dopadu AI, rozhovory s premiérem Modim",
       "description": "Francouzský prezident Emmanuel Macron zahájil třídenní návštěvu Indie zaměřenou na posílení spolupráce v umělé inteligenci a strategických vztazích. Setká se s premiérem Narendrou Modim, aby probrali bilaterální pokrok a globální otázky včetně spolupráce v Indo-Pacifiku.",
@@ -100,26 +267,6 @@
       },
       "companies": [
         "Anthropic"
-      ],
-      "people": []
-    },
-    {
-      "title": "SpaceX soutěží v soutěži Pentagonu o technologii autonomních rojů dronů: zpráva",
-      "description": "Šestiměsíční soutěž má vytvořit pokročilou technologii rojů dronů, která převádí hlasové příkazy na digitální instrukce a ovládá více dronů najednou, uvedla zpráva.",
-      "slug": "spacex-to-compete-in-pentagon-contest-for-autonomo",
-      "publishedAt": "2026-02-16T23:19:11+00:00",
-      "date": "2026-02-16 23:19:11",
-      "importance": 4,
-      "category": "autonomní drony",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/02/121508743_0602a4.jpg?quality=75&strip=all&w=1200",
-      "url": "/tech-news/2026-02-16/spacex-to-compete-in-pentagon-contest-for-autonomo/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "New York Post"
-      },
-      "companies": [
-        "SpaceX"
       ],
       "people": []
     },
@@ -3383,564 +3530,6 @@
       "companies": [
         "SOLOWIN HOLDINGS"
       ],
-      "people": []
-    },
-    {
-      "title": "SpaceX mění směr, chce budovat na Měsíci místo Marsu",
-      "description": "Společnost SpaceX, kterou Elon Musk založil v roce 2002 s cílem vytvořit soběstačné město na Marsu, nyní přesouvá hlavní fokus na Měsíc. Důvodem je kratší vývojový čas, rychlejší cesty a častější startovací okna.",
-      "slug": "spacex-makes-a-huge-pivot-wants-to-build-on-the-mo",
-      "publishedAt": "2026-02-11T23:37:08+00:00",
-      "date": "2026-02-11 23:37:08",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://www.universetoday.com/article_images/191119-spacex-starship-artist-rendering-ew-1204p_20260211_003035.jpg",
-      "url": "/tech-news/2026-02-11/spacex-makes-a-huge-pivot-wants-to-build-on-the-mo/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Universe Today"
-      },
-      "companies": [
-        "SpaceX"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Výzkum sodíkových baterií zaznamenal průlom, který by mohl změnit elektromobily",
-      "description": "Sodíkové baterie jsou alternativou k lithiovým, ale dosud je omezovaly chemické komplikace spojené s nižší hustotou energie a pomalejším nabíjením. Nové průlomy od čínské firmy CATL a výzkumníků tyto problémy řeší.",
-      "slug": "sodium-ion-battery-research-just-had-a-breakthroug",
-      "publishedAt": "2026-02-11T20:17:00+00:00",
-      "date": "2026-02-11 20:17:00",
-      "importance": 5,
-      "category": "sodíkové baterie",
-      "urlToImage": "https://www.bgr.com/img/gallery/sodium-ion-battery-research-just-had-a-breakthrough-that-could-change-everything/l-intro-1770591384.jpg",
-      "url": "/tech-news/2026-02-11/sodium-ion-battery-research-just-had-a-breakthroug/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BGR"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Výrobce Ray-Ban EssilorLuxottica: Prodeje brýlí s Meta AI se v roce 2025 více než ztrojnásobily",
-      "description": "Francouzsko-italský okularový výrobce spolupracuje na chytrých brýlích se společností Meta od roku 2019.",
-      "slug": "ray-ban-maker-essilorluxottica-says-it-more-than-t",
-      "publishedAt": "2026-02-11T20:09:32+00:00",
-      "date": "2026-02-11 20:09:32",
-      "importance": 4,
-      "category": "chytré brýle",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108201461-1758309556598-gettyimages-2235586867-META_CONNECT.jpeg?v=1770838209&w=1920&h=1080",
-      "url": "/tech-news/2026-02-11/ray-ban-maker-essilorluxottica-says-it-more-than-t/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNBC"
-      },
-      "companies": [
-        "Meta"
-      ],
-      "people": []
-    },
-    {
-      "title": "Google integruje novou nákupní funkci do vyhledávání a Gemini",
-      "description": "Google testuje nové reklamní formáty v AI módu vyhledávání, které umožňují prodejcům nabízet produkty přímo v výsledcích. Uživatelé mohou kupovat z Etsy a Wayfair v rámci Gemini a využívat slevy prostřednictvím funkce Direct Offers.",
-      "slug": "google-weaves-new-shopping-feature-into-search-and",
-      "publishedAt": "2026-02-11T19:51:05+00:00",
-      "date": "2026-02-11 19:51:05",
-      "importance": 4,
-      "category": "e-commerce",
-      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/01/Google-Chrome-Gemini-AI.jpeg",
-      "url": "/tech-news/2026-02-11/google-weaves-new-shopping-feature-into-search-and/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "pymnts.com"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "IPO AI společnosti Fractal předplněno 2,66násobně v závěrečný den nabídkové fáze",
-      "description": "IPO indické AI firmy Fractal Analytics za 2 834 crore Rs bylo na poslední den předplněno 2,66násobně při cenovém pásmu 857–900 Rs na akcii. Valuace společnosti dosahuje 15 473 crore Rs (1,71 miliardy USD), což představuje pokles oproti předchozímu ocenění 20 978 crore Rs z července 2025.",
-      "slug": "ai-company-fractals-ipo-subscribed-266-times-on-fi",
-      "publishedAt": "2026-02-11T16:26:19+00:00",
-      "date": "2026-02-11 16:26:19",
-      "importance": 4,
-      "category": "startupy",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-31814,resizemode-75,msid-128216201/tech/technology/ai-company-fractals-ipo-subscribed-2-66-times-on-final-day-of-bidding.jpg",
-      "url": "/tech-news/2026-02-11/ai-company-fractals-ipo-subscribed-266-times-on-fi/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Fractal"
-      ],
-      "people": []
-    },
-    {
-      "title": "Tesla spolupracuje s Tencentem na integraci WeChat do více než milionu aut v Číně",
-      "description": "Tencent Cloud oznámil partnerství s Teslou na integraci funkcí spojených s WeChat přímo do vozidel Tesla v Číně. Aktualizace přes vzduch se rozjedu na více než milion Model 3 a Model Y vyrobených v továrně Giga Shanghai a přinese sdílení polohy jedním dotykem a návrhy služeb poháněné umělou inteligencí.",
-      "slug": "tesla-partners-with-tencent-to-bring-wechat-inside",
-      "publishedAt": "2026-02-11T16:21:02+00:00",
-      "date": "2026-02-11 16:21:02",
-      "importance": 4,
-      "category": "elektromobilita",
-      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2024/08/Tesla-cheaper-model-3-interior.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "/tech-news/2026-02-11/tesla-partners-with-tencent-to-bring-wechat-inside/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Electrek"
-      },
-      "companies": [
-        "Tesla",
-        "Tencent"
-      ],
-      "people": []
-    },
-    {
-      "title": "Zde jsou značky, které přinášejí reklamy do ChatGPT",
-      "description": "OpenAI spustilo pilotní program reklam v ChatGPT, díky čemuž víme, jaké produkty se budou objevovat pod konverzacemi s AI. Mezi partnery jsou velké firmy jako Target, Adobe nebo Ford, reklamy se zobrazí zdarma uživatelům nebo těm s levnějším předplatným.",
-      "slug": "here-are-the-brands-bringing-ads-to-chatgpt",
-      "publishedAt": "2026-02-11T16:08:03+00:00",
-      "date": "2026-02-11 16:08:03",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462010/STK155_OPEN_AI_CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "url": "/tech-news/2026-02-11/here-are-the-brands-bringing-ads-to-chatgpt/",
-      "source": {
-        "emoji": "⚡",
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "IonQ vytváří první vertikálně integrovanou kvantovou firmu akvizicí za 1,8 miliardy dolarů",
-      "description": "IonQ nedávno získalo několik společností, včetně SkyWater Technology za 1,8 miliardy dolarů. Tento krok vytváří první vertikálně integrovanou kvantovou platformovou firmu a posiluje domácí výrobu v USA v globálním kvantovém ekosystému.",
-      "slug": "ionq-creates-first-of-its-kind-quantum-firm-with-1",
-      "publishedAt": "2026-02-11T12:38:47+00:00",
-      "date": "2026-02-11 12:38:47",
-      "importance": 5,
-      "category": "kvantové technologie",
-      "urlToImage": "https://assets.telecomtv.com/assets/telecomtv/ionq-source-ionq-21765.jpg?w=1200",
-      "url": "/tech-news/2026-02-11/ionq-creates-first-of-its-kind-quantum-firm-with-1/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "TelecomTV"
-      },
-      "companies": [
-        "IonQ",
-        "SkyWater Technology"
-      ],
-      "people": []
-    },
-    {
-      "title": "Startup na fúzní energii získal 450 milionů dolarů na výrobu energie pomocí největších laserů světa",
-      "description": "Společnost Inertia Enterprises získala 450 milionů dolarů na vývoj komerční elektrárny využívající jedinou fúzní technologii, která v laboratoři prokázala generování čistého výkonu. Firma plánuje stavbu nejsilnějších laserů a výrobní linky na palivové pelety.",
-      "slug": "fusion-startup-raises-450-million-in-bid-to-make-p",
-      "publishedAt": "2026-02-11T12:24:58+00:00",
-      "date": "2026-02-11 12:24:58",
-      "importance": 5,
-      "category": "jaderná fúze",
-      "urlToImage": null,
-      "url": "/tech-news/2026-02-11/fusion-startup-raises-450-million-in-bid-to-make-p/",
-      "source": {
-        "emoji": "📰",
-        "id": "financial-post",
-        "name": "Financial Post"
-      },
-      "companies": [
-        "Inertia Enterprises"
-      ],
-      "people": []
-    },
-    {
-      "title": "Francouzská AI společnost Mistral investuje 1,4 miliardy dolarů do datových center ve Švédsku",
-      "description": "Francouzský startup v oblasti umělé inteligence Mistral AI oznámil investici 1,2 miliardy eur do výstavby nových datových center ve Švédsku. Tento krok má posílit evropské nezávislé kapacity pro vývoj AI modelů.",
-      "slug": "france-ai-company-mistral-invests-14-billion-in-da",
-      "publishedAt": "2026-02-11T12:18:35+00:00",
-      "date": "2026-02-11 12:18:35",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--L49U1FhB--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-02-11T121727Z_1_LYNXMPEM1A0P4_RTROPTP_3_MISTRAL-FUNDING-ASML-TECH.JPG?itok=GB3_Gudh",
-      "url": "/tech-news/2026-02-11/france-ai-company-mistral-invests-14-billion-in-da/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNA"
-      },
-      "companies": [
-        "Mistral AI"
-      ],
-      "people": []
-    },
-    {
-      "title": "VAROVÁNÍ AI: DĚJE SE NĚCO VELKÉHO...",
-      "description": "Děje se něco velkého. Osobní poznámka pro netechnické přátele a rodinu o změnách, které AI začíná přinášet.",
-      "slug": "ai-warning-something-big-is-happpening",
-      "publishedAt": "2026-02-11T12:00:20+00:00",
-      "date": "2026-02-11 12:00:20",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://shumer.dev/images/social-preview.jpg",
-      "url": "/tech-news/2026-02-11/ai-warning-something-big-is-happpening/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Shumer.dev"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Mistral prosazuje nezávislost evropské AI při příjmech přes 400 milionů dolarů",
-      "description": "Francouzský startup Mistral oznámil 20násobný růst příjmů za poslední rok, kdy roční příjmová sazba překročila 400 milionů dolarů. Spoluzakladatel a generální ředitel Arthur Mensch zároveň prohlásil plány na investici 1,4 miliardy dolarů do datových center ve Švédsku pro posílení evropské autonomie v AI.",
-      "slug": "mistral-pushes-eu-ai-freedom-as-revenues-top-400-m",
-      "publishedAt": "2026-02-11T11:43:01+00:00",
-      "date": "2026-02-11 11:43:01",
-      "importance": 4,
-      "category": "ai startupy",
-      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2025/12/Mistral-AI1.jpg",
-      "url": "/tech-news/2026-02-11/mistral-pushes-eu-ai-freedom-as-revenues-top-400-m/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "pymnts.com"
-      },
-      "companies": [
-        "Mistral"
-      ],
-      "people": [
-        "Arthur Mensch"
-      ]
-    },
-    {
-      "title": "Americký sbor námořní pěchoty udělil Kodiak AI kontrakt na vývoj autonomního pozemního vozidla",
-      "description": "Kodiak AI integroval svůj systém autonomního řízení Kodiak Driver do nosiče ROGUE-Fires americké námořní pěchoty. Tato spolupráce demonstruje všestrannost technologie pro strategické vojenské operace v náročných prostředích.",
-      "slug": "us-marine-corps-awards-kodiak-ai-autonomous-ground",
-      "publishedAt": "2026-02-11T11:30:00+00:00",
-      "date": "2026-02-11 11:30:00",
-      "importance": 4,
-      "category": "autonomní vozidla",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/7397076e-22eb-4ad8-bf18-7d49f239a306",
-      "url": "/tech-news/2026-02-11/us-marine-corps-awards-kodiak-ai-autonomous-ground/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [
-        "Kodiak"
-      ],
-      "people": []
-    },
-    {
-      "title": "Apple pro rok 2026: Proč stojí za čekání na chytřejší nové zařízení",
-      "description": "Apple plánuje na začátku roku 2026 představit aktualizovanou nabídku produktů s důrazem na chytřejší a efektivnější technologie v iPhonech, iPadech, Macích a umělé inteligenci. Zaměření je na zlepšení výkonu a softwarové inteligence bez výrazných designových změn.",
-      "slug": "inside-apples-2026-lineup-why-this-years-smarter-n",
-      "publishedAt": "2026-02-11T08:30:17+00:00",
-      "date": "2026-02-11 08:30:17",
-      "importance": 4,
-      "category": "hardware",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/02/apple-2026-product-lineup-devices_optimized.jpg",
-      "url": "/tech-news/2026-02-11/inside-apples-2026-lineup-why-this-years-smarter-n/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
-      "title": "IPO indické Fractal Analytics za 314 milionů dolarů plně obsazeno na poslední den nabídkové lhůty",
-      "description": "Pořadní nabídka mumbaií firmy Fractal Analytics, první pro čistě indickou společnost zaměřenou na umělou inteligenci, byla plně obsazena na závěrečný den nabídkové lhůty. Společnost získala nabídky na 27,23 milionu akcií oproti 18,58 milionu nabízeným.",
-      "slug": "indias-fractal-analytics-314-million-ipo-fully-sub",
-      "publishedAt": "2026-02-11T07:53:53+00:00",
-      "date": "2026-02-11 07:53:53",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--K64kMzpp--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-02-11T075353Z_2_LYNXMPEM1A0BQ_RTROPTP_3_FRACTAL-ANALYTICS-RESULTS.JPG?itok=2X9wdjq0",
-      "url": "/tech-news/2026-02-11/indias-fractal-analytics-314-million-ipo-fully-sub/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNA"
-      },
-      "companies": [
-        "Fractal Analytics"
-      ],
-      "people": []
-    },
-    {
-      "title": "Alphabet vydává vzácný 100letý dluhopis na financování expanze AI",
-      "description": "Alphabet vydal vzácný 100letý dluhopis v rámci globální emise dluhopisů v hodnotě 31,51 miliardy dolarů. Tento krok reaguje na rostoucí výdaje na umělou inteligenci u amerických technologických gigantů a představuje první takovou emisi v tech sektoru od roku 1997.",
-      "slug": "alphabet-sells-rare-100-year-bond-to-fund-ai-expan",
-      "publishedAt": "2026-02-11T07:49:09+00:00",
-      "date": "2026-02-11 07:49:09",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.rte.ie/images/00124c94-1600.jpg",
-      "url": "/tech-news/2026-02-11/alphabet-sells-rare-100-year-bond-to-fund-ai-expan/",
-      "source": {
-        "emoji": "📰",
-        "id": "rte",
-        "name": "RTE"
-      },
-      "companies": [
-        "Alphabet"
-      ],
-      "people": []
-    },
-    {
-      "title": "ChatGPT Deep Research nyní běží na GPT-5.2",
-      "description": "OpenAI zavádí model GPT-5.2 do funkce ChatGPT Deep Research, která umožňuje procházet velké objemy dat a poskytovat přesné poznatky s citacemi v reálném čase. Tento upgrade zlepšuje přesnost výzkumu pro profesionály a integruje ověřené zdroje přímo do pracovního postupu.",
-      "slug": "chatgpt-deep-research-now-runs-on-gpt-52",
-      "publishedAt": "2026-02-11T07:41:30+00:00",
-      "date": "2026-02-11 07:41:30",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/02/real-time-research-plan-editor-chatgpt_optimized.jpg",
-      "url": "/tech-news/2026-02-11/chatgpt-deep-research-now-runs-on-gpt-52/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Konsorcium Brandwatch a Blackbird.AI vybráno NATO pro dodání schopnosti hodnocení informačního prostředí",
-      "description": "Konsorcium firem Brandwatch a Blackbird.AI získalo zakázku od NATO na vývoj AI nástrojů pro monitorování a analýzu informačního prostředí. Řešení umožní detekci dezinformací a škodlivých narativů z veřejných a komerčních datových zdrojů.",
-      "slug": "brandwatch-and-blackbirdai-consortium-selected-by-",
-      "publishedAt": "2026-02-11T07:09:55+00:00",
-      "date": "2026-02-11 07:09:55",
-      "importance": 4,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/u0z4ci/article70618440.ece/alternates/LANDSCAPE_1200/Screenshot%202026-02-11%20111028.png",
-      "url": "/tech-news/2026-02-11/brandwatch-and-blackbirdai-consortium-selected-by/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "companies": [
-        "Brandwatch",
-        "Blackbird.AI"
-      ],
-      "people": []
-    },
-    {
-      "title": "TSMC schválilo rekordních 45 miliard dolarů na kapitálové výdaje pro rozšíření polovodičové kapacity",
-      "description": "TSMC zveřejnilo tržby za leden 2026 v hodnotě 401,26 miliardy NT$ (přibližně 12,763 miliardy USD), což je nárůst o 19,8 % oproti prosinci 2025 a 36,8 % oproti lednu 2025. Správní rada současně schválila kapitálové výdaje ve výši 44,962 miliardy USD na rok 2026, což představuje dosud nejvyšší částku v historii společnosti.",
-      "slug": "tsmc-greenlights-record-45-billion-capex-to-boost-",
-      "publishedAt": "2026-02-11T06:57:34+00:00",
-      "date": "2026-02-11 06:57:34",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://www.techpowerup.com/img/UjWHpghamnwUD5ln.jpg",
-      "url": "/tech-news/2026-02-11/tsmc-greenlights-record-45-billion-capex-to-boost/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Techpowerup.com"
-      },
-      "companies": [
-        "TSMC"
-      ],
-      "people": []
-    },
-    {
-      "title": "Energetická firma Solv Energy získala v IPO 512,5 milionu dolarů",
-      "description": "Společnost Solv Energy Inc. získala v americkém úvodním veřejném nabídce akcií 512,5 milionu dolarů, přičemž akcie byly oceny na horní hranici nabízeného rozsahu 22 až 25 dolarů za akcii.",
-      "slug": "power-engineering-firm-solv-energy-raises-5125-mil",
-      "publishedAt": "2026-02-11T06:27:11+00:00",
-      "date": "2026-02-11 06:27:11",
-      "importance": 4,
-      "category": "energetika",
-      "urlToImage": null,
-      "url": "/tech-news/2026-02-11/power-engineering-firm-solv-energy-raises-5125-mil/",
-      "source": {
-        "emoji": "📰",
-        "id": "financial-post",
-        "name": "Financial Post"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "ByteDance vyvíjí AI čip, rokuje o výrobě se Samsungem, tvrdí zdroje",
-      "description": "ByteDance chce obdržet vzorové čipy do konce března. Firma plánuje vyprodukovat nejméně 100 000 kusů čipu určeného pro úlohy inference v umělé inteligenci letos, podle zdrojů.",
-      "slug": "bytedance-developing-ai-chip-in-manufacturing-talk",
-      "publishedAt": "2026-02-11T04:49:01+00:00",
-      "date": "2026-02-11 04:49:01",
-      "importance": 4,
-      "category": "ai čipy",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-56822,resizemode-75,msid-128188760/tech/artificial-intelligence/bytedance-developing-ai-chip-in-manufacturing-talks-with-samsung-sources-say.jpg",
-      "url": "/tech-news/2026-02-11/bytedance-developing-ai-chip-in-manufacturing-talk/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "ByteDance",
-        "Samsung"
-      ],
-      "people": []
-    },
-    {
-      "title": "OpenAI integruje vlastní verzi ChatGPT do platformy Pentagonu, experti varují před riziky",
-      "description": "Americké ministerstvo obrany začne používat upravenou verzi ChatGPT pro práci s neklasifikovanými informacemi, přestože odborníci upozorňují na rizika spojená s lidskými chybami v AI systémech.",
-      "slug": "openai-adds-custom-chatgpt-to-pentagon-platform-as",
-      "publishedAt": "2026-02-11T03:48:33+00:00",
-      "date": "2026-02-11 03:48:33",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/Open-AI-decrypt-style-01-gID_7.png",
-      "url": "/tech-news/2026-02-11/openai-adds-custom-chatgpt-to-pentagon-platform-as/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Decrypt"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Cena Bitcoinu: Trumpův sen o kryptoměnách se mění v noční můru",
-      "description": "Článek popisuje prudký pokles ceny Bitcoinu, který vyvrací myšlenku o něm jako o digitálním zlatě, a spojuje ho s dopady nových nástrojů umělé inteligence od Anthropic na finanční trhy. Na rozdíl od zlata, které funguje jako ochrana proti rizikům, Bitcoin prohrává v nestabilním prostředí.",
-      "slug": "bitcoin-price-trumps-crypto-dream-is-turning-into-",
-      "publishedAt": "2026-02-11T01:05:09+00:00",
-      "date": "2026-02-11 01:05:09",
-      "importance": 4,
-      "category": "kryptoměny",
-      "urlToImage": "https://static.ffx.io/images/$zoom_0.467901720563304%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_17/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_no_age_social_wm/c4eb87af3fbb07c4d0b7b183339154778499f11fb2383e03819d115b681054f1",
-      "url": "/tech-news/2026-02-11/bitcoin-price-trumps-crypto-dream-is-turning-into/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Sydney Morning Herald"
-      },
-      "companies": [],
-      "people": [
-        "Trump"
-      ]
-    },
-    {
-      "title": "Zpráva: Startup na kompresi AI modelů Multiverse hledá kolo financování za 500 milionů eur",
-      "description": "Španělský startup Multiverse Computing SL, který vyvíjí technologii snižující hardware nároky umělých inteligencí, prý shání nový kapitál ve výši 500 milionů eur, což je přibližně 594 milionů dolarů. Toto kolo by mělo firmu ocenit na 1,5 miliardy eur.",
-      "slug": "report-ai-model-compression-startup-multiverse-see",
-      "publishedAt": "2026-02-11T01:02:30+00:00",
-      "date": "2026-02-11 01:02:30",
-      "importance": 4,
-      "category": "ai startupy",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/AI-1.png",
-      "url": "/tech-news/2026-02-11/report-ai-model-compression-startup-multiverse-see/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Multiverse Computing SL"
-      ],
-      "people": []
-    },
-    {
-      "title": "Co Nvidia, Google a Meta vyvíjejí mimo čipy a výpočetní infrastrukturu",
-      "description": "Zatímco debata o velkých technologických firmách se zaměřuje na čipy a výpočetní kapacity, firmy jako Nvidia, Google a Meta posouvají umělou inteligenci hlouběji do reálných pracovních procesů. Mezi klíčové kroky patří průmyslové AI platformy, experimenty se sociálními sítěmi založenými na AI a autonomní agenti pro vědecký výzkum.",
-      "slug": "what-nvidia-google-and-meta-are-building-beyond-ch",
-      "publishedAt": "2026-02-11T00:34:52+00:00",
-      "date": "2026-02-11 00:34:52",
-      "importance": 4,
-      "category": "průmyslová ai",
-      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/02/DassaultSystemesandNVIDIA1.png",
-      "url": "/tech-news/2026-02-11/what-nvidia-google-and-meta-are-building-beyond-ch/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "pymnts.com"
-      },
-      "companies": [
-        "Nvidia",
-        "Google",
-        "Meta"
-      ],
-      "people": []
-    },
-    {
-      "title": "Agentní AI narušuje model fakturace IT služeb",
-      "description": "Smíšené sazby fakturace v globálních IT službách klesají posledních 24 měsíců v USA a Indii pro role jako weboví a mobilní vývojáři, full-stack inženýři, podpora vzdálené plochy a kybernetičtí obránci.",
-      "slug": "agentic-ai-breaking-its-billing-model",
-      "publishedAt": "2026-02-11T00:30:00+00:00",
-      "date": "2026-02-11 00:30:00",
-      "importance": 4,
-      "category": "agentní ai",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1286369,resizemode-75,msid-128170101/tech/information-tech/agentic-ai-breaking-its-billing-model.jpg",
-      "url": "/tech-news/2026-02-11/agentic-ai-breaking-its-billing-model/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Umělá inteligence by mohla transformovat ekonomiku do konce roku",
-      "description": "Analýza přirovnává současný pokrok v umělé inteligenci k situaci před pandemií COVID-19 v únoru 2020. Podle expertů v oboru AI dosáhla technologie inflexního bodu, který ohrozí bílokošarové zaměstnání, urychlí vědecký vývoj a destabilizuje politiku.",
-      "slug": "ai-could-transform-the-economy-by-years-end",
-      "publishedAt": "2026-02-11T00:04:51+00:00",
-      "date": "2026-02-11 00:04:51",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2026/02/gettyimages-2250233378.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "url": "/tech-news/2026-02-11/ai-could-transform-the-economy-by-years-end/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Vox"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Vesmírná AI obchází problémy s výstavbou sítě a povoleními pro pozemní datová centra",
-      "description": "Počáteční pozemní datová centra AI využívají existující infrastrukturu a elektrárny s volnou kapacitou. Při škálování čelí operátoři složitějším lokalitám, environmentálním posudkům a stavbě nové sítě, což trvá desetiletí. Vesmírná AI by mohla tyto komplikace obejít díky snížení nákladů na starty raket Starship od SpaceX.",
-      "slug": "space-ai-avoids-grid-buildout-and-permit-problems-",
-      "publishedAt": "2026-02-11T00:03:10+00:00",
-      "date": "2026-02-11 00:03:10",
-      "importance": 4,
-      "category": "vesmírná ai",
-      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/02/Screenshot-2026-02-10-at-4.02.28-PM.jpg",
-      "url": "/tech-news/2026-02-11/space-ai-avoids-grid-buildout-and-permit-problems/",
-      "source": {
-        "emoji": "📰",
-        "id": "next-big-future",
-        "name": "Next Big Future"
-      },
-      "companies": [],
       "people": []
     }
   ]
