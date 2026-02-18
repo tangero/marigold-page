@@ -1,7 +1,67 @@
 {
-  "generated": "2026-02-18T13:06:34.986900+00:00",
-  "count": 183,
+  "generated": "2026-02-18T17:18:32.867422+00:00",
+  "count": 186,
   "articles": [
+    {
+      "title": "V Lower Hutt levituje půltunový magnet – klíčový krok k čisté jaderné fúzi",
+      "description": "Startup OpenStar v Lower Hutt na Novém Zélandu dosáhl levitace 550kilogramového superprováděcího magnetu v plazmě. Vláda podporuje firmu částkou 35 milionů dolarů na vývoj fúzní energie.",
+      "slug": "in-lower-hutt-a-half-tonne-magnet-levitates-a-key-",
+      "publishedAt": "2026-02-17T16:16:51+00:00",
+      "date": "2026-02-17 16:16:51",
+      "importance": 5,
+      "category": "jaderná fúze",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/HUWILABE5VCCXF2V5EA4A5ZHFQ.jpg?auth=1d8bf628315e8ac9d4215a1633c532ac776a449ede76a38e207d8f66e4352959&width=1200&height=675&quality=70&smart=true",
+      "url": "/tech-news/2026-02-17/in-lower-hutt-a-half-tonne-magnet-levitates-a-key/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "New Zealand Herald"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Comcast, Classiq a AMD demonstrovaly kvantový algoritmus pro odolnější a spolehlivější internet",
+      "description": "Classiq, Comcast a AMD dokončily společnou zkoušku, která využívá kvantové algoritmy k zlepšení odolnosti směrování sítě. Cílem je zajistit plynulé přesměrování provozu i při současném výpadku více uzlů během údržby.",
+      "slug": "pr-comcast-classiq-and-amd-demonstrate-quantum-alg",
+      "publishedAt": "2026-02-17T16:14:47+00:00",
+      "date": "2026-02-17 16:14:47",
+      "importance": 5,
+      "category": "kvantové výpočty",
+      "urlToImage": "https://www.techpowerup.com/img/lIkpsw4iUGd51P1p.jpg",
+      "url": "/tech-news/2026-02-17/pr-comcast-classiq-and-amd-demonstrate-quantum-alg/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Techpowerup.com"
+      },
+      "companies": [
+        "Comcast",
+        "Classiq",
+        "AMD"
+      ],
+      "people": []
+    },
+    {
+      "title": "Co odhaluje zpráva OpenAI o podnikovém AI – a co to znamená pro vaši podnikovou síť",
+      "description": "Nejnovější data OpenAI o podnikovém nasazení ukazují, jak AI rychle přechází z pilotních projektů k klíčovým pracovním postupům. Tento posun mění požadavky na podnikovou síť a nutí IT týmy k modernizaci infrastruktury.",
+      "slug": "what-openais-enterprise-ai-report-revealsand-what-",
+      "publishedAt": "2026-02-17T16:00:28+00:00",
+      "date": "2026-02-17 16:00:28",
+      "importance": 4,
+      "category": "podnikový ai",
+      "urlToImage": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/02/openai-enterprise-blog-feature.png",
+      "url": "/tech-news/2026-02-17/what-openais-enterprise-ai-report-revealsand-what/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Cisco.com"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
     {
       "title": "„Indie nebude následovat století umělé inteligence, Indie ho utváří,“ říká Gautam Adani po investici 100 miliard dolarů do datových center připravených na AI do roku 2035",
       "description": "Skupina Adani oznámila investici 100 miliard dolarů do výstavby hyperskalárních datových center poháněných obnovitelnou energií, připravených na zpracování úloh umělé inteligence. Tento krok má podpořit vznik AI ekosystému v hodnotě 250 miliard dolarů a posílit pozici Indie v globálním vývoji AI.",
