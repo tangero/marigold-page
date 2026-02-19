@@ -1,7 +1,132 @@
 {
-  "generated": "2026-02-18T20:56:30.751347+00:00",
-  "count": 196,
+  "generated": "2026-02-19T01:31:58.032411+00:00",
+  "count": 200,
   "articles": [
+    {
+      "title": "Render získal dalších 100 milionů dolarů pro svou cloudovou platformu optimalizovanou pro AI",
+      "description": "Cloudový startup Render Services Inc. získal 100 milionů dolarů od investorů při valuaci 1,5 miliardy dolarů. Jedná se o rozšíření kola Series C z ledna, které vedl fond Georgian, zapojili se i Addition, Bessemer Venture Partners, General Catalyst a 01 Advisors.",
+      "slug": "render-raises-100m-more-for-its-ai-optimized-cloud",
+      "publishedAt": "2026-02-18T01:01:28+00:00",
+      "date": "2026-02-18 01:01:28",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/cloud.jpg",
+      "url": "/tech-news/2026-02-18/render-raises-100m-more-for-its-ai-optimized-cloud/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Render Services Inc",
+        "Georgian"
+      ],
+      "people": []
+    },
+    {
+      "title": "Indie posiluje svou misi v umělé inteligenci s NVIDIA",
+      "description": "Od lídrů infrastruktury pro umělou inteligenci po vývojáře hraničních modelů Indie spolupracuje s NVIDIA na prosazení transformace umělou inteligencí v celé zemi.",
+      "slug": "india-fuels-its-ai-mission-with-nvidia",
+      "publishedAt": "2026-02-18T00:30:49+00:00",
+      "date": "2026-02-18 00:30:49",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://blogs.nvidia.com/wp-content/uploads/2026/02/ai-infra-corp-blog-india-impact-summit-2026-1280x680-1.png",
+      "url": "/tech-news/2026-02-18/india-fuels-its-ai-mission-with-nvidia/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Nvidia.com"
+      },
+      "companies": [
+        "NVIDIA"
+      ],
+      "people": []
+    },
+    {
+      "title": "NVIDIA spolupracuje s globálními lídry v průmyslovém softwaru a největšími indickými výrobci na rozvoji AI v průmyslu",
+      "description": "Indie investuje 134 miliard dolarů do nové výrobní kapacity v oblastech stavebnictví, automobilového průmyslu, obnovitelných zdrojů energie a robotiky. Největší domácí výrobci spolupracují s NVIDIA, Siemens, Cadence a Synopsys na zavádění AI nástrojů pro software definované továrny od prvního dne.",
+      "slug": "nvidia-and-global-industrial-software-leaders-part",
+      "publishedAt": "2026-02-18T00:30:32+00:00",
+      "date": "2026-02-18 00:30:32",
+      "importance": 4,
+      "category": "průmyslové ai",
+      "urlToImage": "https://blogs.nvidia.com/wp-content/uploads/2026/02/NVIDIA-India-AI-Impact-Summit-Indias-Manufacturers-Drive-AI-Boom-scaled.jpg",
+      "url": "/tech-news/2026-02-18/nvidia-and-global-industrial-software-leaders-part/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Nvidia.com"
+      },
+      "companies": [
+        "NVIDIA"
+      ],
+      "people": []
+    },
+    {
+      "title": "Google chce spolupracovat s Indií na její cestě k umělé inteligenci: CEO Sundar Pichai",
+      "description": "Generální ředitel Google Sundar Pichai prohlásil, že společnost chce být partnerem Indie v celém spektru umělé inteligence během éry rychlého pokroku této technologie. Představil plán kapitálových výdajů 185 miliard dolarů na výpočetní kapacity, modely, infrastrukturu, energii a výzkum, přičemž Google již spolupracuje s místními firmami na budování AI infrastruktury.",
+      "slug": "google-wants-to-partner-india-in-its-ai-trajectory",
+      "publishedAt": "2026-02-18T00:30:00+00:00",
+      "date": "2026-02-18 00:30:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-38280,resizemode-75,msid-128478089/tech/artificial-intelligence/google-wants-to-partner-india-in-its-ai-trajectory-google-ceo-sundar-pichai.jpg",
+      "url": "/tech-news/2026-02-18/google-wants-to-partner-india-in-its-ai-trajectory/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": [
+        "Sundar Pichai"
+      ]
+    },
+    {
+      "title": "Meta a Nvidia uzavírají rozsáhlou víceletou dohodu na nové generace GPU, samostatné CPU a AI infrastrukturu",
+      "description": "Meta a Nvidia oznámily víceleté partnerství na rozšíření AI infrastruktury, včetně rozsáhlého nasazení procesorů Nvidia Grace CPU, Blackwell GPU a systémů Vera Rubin další generace. Dohoda zahrnuje nasazení miliónů procesorů v datových centrech Meta.",
+      "slug": "meta-nvidia-ink-massive-multiyear-deal-for-next-ge",
+      "publishedAt": "2026-02-18T00:02:57+00:00",
+      "date": "2026-02-18 00:02:57",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2026/02/17/1600x900/logo/China-Meta-Manus-0_1767874553055_1767874568831_1771372367661.jpg",
+      "url": "/tech-news/2026-02-18/meta-nvidia-ink-massive-multiyear-deal-for-next-ge/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Livemint"
+      },
+      "companies": [
+        "Meta",
+        "NVIDIA"
+      ],
+      "people": []
+    },
+    {
+      "title": "Anthropic a Infosys oznámily strategické partnerství k rozšíření adopce AI v podnicích",
+      "description": "Anthropic a Infosys uzavírají partnerství k urychlení adopce AI v podnicích pomocí modelů Claude. Očekávají se škálovatelné a zodpovědné AI řešení napříč průmyslovými odvětvími po celém světě.",
+      "slug": "anthropic-and-infosys-announce-strategic-partnersh",
+      "publishedAt": "2026-02-18T00:00:00+00:00",
+      "date": "2026-02-18 00:00:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.c-sharpcorner.com/images/csharp-corner-new.png",
+      "url": "/tech-news/2026-02-18/anthropic-and-infosys-announce-strategic-partnersh/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "C-sharpcorner.com"
+      },
+      "companies": [
+        "Anthropic",
+        "Infosys"
+      ],
+      "people": []
+    },
     {
       "title": "Co dokážou noví humanoidní roboti pohánění AI v Číně?",
       "description": "Na galavečeru CCTV Spring Festival se humanoidní roboti od firmy Unitree předvedli v složité kung-fu rutině včetně parkouru a manipulace se zbraněmi. Výkon proběhl bez chyb i v blízkosti dětských vystupujících a představuje výrazný pokrok oproti loňskému roku.",
@@ -3283,28 +3408,6 @@
       "people": []
     },
     {
-      "title": "SpaceX poskytuje v Íránu bezplatný internet přes satelitní službu Starlink během protestů proti režimu",
-      "description": "Společnost SpaceX Elona Muska aktivovala bezplatný přístup k internetu přes satelitní síť Starlink pro uživatele v Íránu. Tento krok probíhá uprostřed tvrdé represe íránského režimu vůči protivládním protestům, jak potvrdil technologický expert v kontaktu s íránskými uživateli Starlinku.",
-      "slug": "A-2月13日看軍聞學英語",
-      "publishedAt": "2026-02-12T16:00:00+00:00",
-      "date": "2026-02-12 16:00:00",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": null,
-      "url": "/tech-news/2026-02-12/A-2月13日看軍聞學英語/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [
-        "SpaceX"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
       "title": "Technická cesta a obchodní model kancelářské práce bez lidí",
       "description": "Firma xAI vyvíjí AI na hardwaru Tesla AI4, které plně napodobuje lidskou práci na počítači, podobně jako Tesla FSD v automobilech, ale pro stolní počítače a notebooky. Systém využívá kamery nebo zachytávání obrazovky ke sledování uživatele, stisků kláves a pohybů myší.",
       "slug": "technical-path-and-business-model-of-office-work-w",
@@ -3619,26 +3722,6 @@
       },
       "companies": [
         "Samsung"
-      ],
-      "people": []
-    },
-    {
-      "title": "Rok po šoku z DeepSeek se připravte na vlnu levných čínských modelů umělé inteligence",
-      "description": "Rok po tom, co čínský startup DeepSeek otřásl globálním technologickým průmyslem vydáním levného modelu umělé inteligence, jsou jeho domácí konkurenti lépe připraveni a soutěží v uvedení nových modelů s větším důrazem na spotřebitele.",
-      "slug": "a-year-on-from-deepseek-shock-get-set-for-flurry-o",
-      "publishedAt": "2026-02-12T07:03:05+00:00",
-      "date": "2026-02-12 07:03:05",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-39562,resizemode-75,msid-128243272/tech/artificial-intelligence/a-year-on-from-deepseek-shock-get-set-for-flurry-of-low-cost-chinese-ai-models.jpg",
-      "url": "/tech-news/2026-02-12/a-year-on-from-deepseek-shock-get-set-for-flurry-o/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "DeepSeek"
       ],
       "people": []
     },
