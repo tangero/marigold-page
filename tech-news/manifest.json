@@ -1,7 +1,128 @@
 {
-  "generated": "2026-02-19T13:05:10.763008+00:00",
-  "count": 178,
+  "generated": "2026-02-19T17:05:34.432038+00:00",
+  "count": 184,
   "articles": [
+    {
+      "title": "Podsekretář Kimmitt vede delegaci ITA do Bengaluru a jedná s technologickými firmami",
+      "description": "Podsekretář Kimmitt vede delegaci Mezinárodní obchodní správy (ITA) do Bengaluru, kde propaguje strategie pro export umělé inteligence a posiluje technologická partnerství mezi USA a Indií před summitem India AI Impact Summit 2026.",
+      "slug": "under-secretary-kimmitt-leads-ita-delegation-to-be",
+      "publishedAt": "2026-02-18T16:38:59+00:00",
+      "date": "2026-02-18 16:38:59",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://bl-i.thgim.com/public/newsletter/nl-opinion/93xh60/article70648948.ece/alternates/LANDSCAPE_1200/William%20Kimmitt_4.jpg",
+      "url": "/tech-news/2026-02-18/under-secretary-kimmitt-leads-ita-delegation-to-be/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "companies": [],
+      "people": [
+        "Kimmitt"
+      ]
+    },
+    {
+      "title": "Za hranicemi dohody o volném obchodu: Umělá inteligence se stává novým pilířem vztahů Indie a Evropy",
+      "description": "Premiér Narendra Modi a španělský prezident Pedro Sánchez označili umělou inteligenci za transformační sílu. Indie posiluje spolupráci se Španělskem a dalšími evropskými zeměmi v oblastech AI, obrany, obchodu a energetiky. Dohoda o volném obchodu s EU by měla podpořit ekonomické vazby.",
+      "slug": "beyond-the-fta-ai-emerging-as-new-pillar-of-india-",
+      "publishedAt": "2026-02-18T16:35:06+00:00",
+      "date": "2026-02-18 16:35:06",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/msid-128516527,width-1200,height-630,imgsize-32806,overlay-economictimes/articleshow.jpg",
+      "url": "/tech-news/2026-02-18/beyond-the-fta-ai-emerging-as-new-pillar-of-india/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": [
+        "Narendra Modi",
+        "Pedro Sanchez"
+      ]
+    },
+    {
+      "title": "Generativní umělá inteligence nyní dokáže hodnotit zkoušky na právnických fakultách; co přijde dál?",
+      "description": "Generativní AI dosáhla nového milníku: dokáže hodnotit zkoušky na právnických fakultách s přesností blízkou lidské. Podcast Legal Rebels diskutuje výzkum Daniela Schwarze a implikace pro právní vzdělávání.",
+      "slug": "generative-ai-is-now-capable-of-grading-law-school",
+      "publishedAt": "2026-02-18T16:27:00+00:00",
+      "date": "2026-02-18 16:27:00",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.abajournal.com/images/main_images/exam_options_computer_Shutterstock.png",
+      "url": "/tech-news/2026-02-18/generative-ai-is-now-capable-of-grading-law-school/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Abajournal.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Chyba v Copilot umožňuje AI číst důvěrné e-maily v Outlooku",
+      "description": "Asistent Microsoft Copilot v Microsoft 365 má kritickou chybu, která umožňuje umělé inteligenci skenovat a shrnovat e-maily označené jako důvěrné v Outlooku, včetně složek Odeslané a Koncepty. Microsoft zavádí opravu, ale není jasný časový rámec, což zvyšuje obavy z ochrany soukromí a spolehlivosti AI.",
+      "slug": "copilot-bug-allows-ai-to-read-confidential-outlook",
+      "publishedAt": "2026-02-18T16:22:12+00:00",
+      "date": "2026-02-18 16:22:12",
+      "importance": 5,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://www.pcworld.com/wp-content/uploads/2026/02/image_930daa.png?w=1024",
+      "url": "/tech-news/2026-02-18/copilot-bug-allows-ai-to-read-confidential-outlook/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "PCWorld"
+      },
+      "companies": [
+        "Microsoft"
+      ],
+      "people": []
+    },
+    {
+      "title": "Hyperscalers pro AI zajišťují dlouhodobé dodávky uranu od těžebních firem – palivo pro jaderné elektrárny napájící budoucí datová centra",
+      "description": "Kanadská firma NexGen Energy jedná s provozovateli datových center o financování uranového projektu Rook 1, aby zajistila dlouhodobé dodávky paliva pro malé modulární reaktory (SMR) nutné k napájení AI infrastruktur.",
+      "slug": "ai-hyperscalers-move-to-secure-long-term-uranium-s",
+      "publishedAt": "2026-02-18T16:20:29+00:00",
+      "date": "2026-02-18 16:20:29",
+      "importance": 4,
+      "category": "jaderná energie",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/gSo4x48BthjtTTrujQT8aa-1920-80.jpg",
+      "url": "/tech-news/2026-02-18/ai-hyperscalers-move-to-secure-long-term-uranium-s/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Uber investuje 100 milionů dolarů do nabíjecí infrastruktury pro robotaxi",
+      "description": "Uber plánuje vložit 100 milionů dolarů do výstavby nabíjecích stanic pro elektromobily určené robotaxi. Investice začíná v Los Angeles, San Francisco Bay Area a Dallasu a má podporovat partneřství s firmami jako Waymo, WeRide nebo Nuro.",
+      "slug": "uber-putting-100-million-into-ev-charging-for-robo",
+      "publishedAt": "2026-02-18T16:06:49+00:00",
+      "date": "2026-02-18 16:06:49",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://cleantechnica.com/wp-content/uploads/2025/05/Uber-WeRide-robotaxi-in-Abu-Dhabi-UAE.jpg",
+      "url": "/tech-news/2026-02-18/uber-putting-100-million-into-ev-charging-for-robo/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CleanTechnica"
+      },
+      "companies": [
+        "Uber",
+        "Tesla"
+      ],
+      "people": [
+        "Travis Kalanick",
+        "Elon Musk"
+      ]
+    },
     {
       "title": "Claude Sonnet 4.6 se blíží schopnostem Opus 4.6 a Anthropic zavádí vyšší bezpečnostní kontroly",
       "description": "Claude Sonnet 4.6, nejnovější středně pokročilý model umělé inteligence od Anthropic, zužuje rozdíl se svým vlajkovým modelem Opus 4.6 v klíčových oblastech, jako je programování, matematické uvažování a autonomní prohlížení webu. Firma zároveň aplikuje přísnější rizikové opatření kvůli rostoucím schopnostem modelu.",
