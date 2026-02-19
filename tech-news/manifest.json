@@ -1,7 +1,89 @@
 {
-  "generated": "2026-02-19T17:05:34.432038+00:00",
-  "count": 184,
+  "generated": "2026-02-19T20:45:37.910763+00:00",
+  "count": 188,
   "articles": [
+    {
+      "title": "Připoutejte se: Nový fond umožní běžným investorům koupit akcie SpaceX",
+      "description": "Fond Powerlaw Corp otevře běžným investorům přístup k akciím soukromých firem jako SpaceX dříve než očekávané IPO. Prostřednictvím přímého listování nabídne podíly v portfoliu zahrnujícím AI společnosti OpenAI nebo Anthropic.",
+      "slug": "buckle-up-new-fund-will-let-regular-investors-buy-",
+      "publishedAt": "2026-02-18T20:04:56+00:00",
+      "date": "2026-02-18 20:04:56",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://futurism.com/wp-content/uploads/2026/02/regular-investors-buy-spacex-stock.jpg?w=1200",
+      "url": "/tech-news/2026-02-18/buckle-up-new-fund-will-let-regular-investors-buy/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Futurism"
+      },
+      "companies": [
+        "SpaceX"
+      ],
+      "people": []
+    },
+    {
+      "title": "Cisco a Qunnect vybudovali kvantovou síť",
+      "description": "Pomocí existujících optických kabelů v New Yorku mezi Brooklyn a Manhattan.",
+      "slug": "cisco-and-qunnect-build-quantum-network",
+      "publishedAt": "2026-02-18T19:50:11+00:00",
+      "date": "2026-02-18 19:50:11",
+      "importance": 5,
+      "category": "kvantové sítě",
+      "urlToImage": "https://i.nextmedia.com.au/News/2026-02-18T133144Z_1_LYNXMPEM1H0QJ_RTROPTP_4_CISCO-QUNNECT.JPG",
+      "url": "/tech-news/2026-02-18/cisco-and-qunnect-build-quantum-network/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "iTnews"
+      },
+      "companies": [
+        "Cisco",
+        "Qunnect"
+      ],
+      "people": []
+    },
+    {
+      "title": "Co očekávat od Apple události v březnu: Nové MacBooky, iPhony a iPady",
+      "description": "Z nápověd v pozvánce na akci a online spekulací máme představu, co by Apple mohl představit 4. března v New Yorku, Londýně a Šanghaji.",
+      "slug": "what-to-expect-from-apples-march-event-new-macbook",
+      "publishedAt": "2026-02-18T19:25:00+00:00",
+      "date": "2026-02-18 19:25:00",
+      "importance": 4,
+      "category": "hardware",
+      "urlToImage": "https://www.cnet.com/a/img/resize/ccc74e498b72eac37e3f73b8517ee77ad1c782ba/hub/2025/10/15/329b1803-3cd6-4a3b-8745-e169a8eb2ac7/m5-macbook-pro.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "url": "/tech-news/2026-02-18/what-to-expect-from-apples-march-event-new-macbook/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNET"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Dohoda Nvidie s Metou signalizuje novou éru výpočetního výkonu",
+      "description": "Dny, kdy technologickí giganti hromadně nakupovali samostatné čipy, končí. Firmy zaměřené na AI nyní potřebují GPU, CPU a všechno mezi tím.",
+      "slug": "nvidias-deal-with-meta-signals-a-new-era-in-comput",
+      "publishedAt": "2026-02-18T19:24:55+00:00",
+      "date": "2026-02-18 19:24:55",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://media.wired.com/photos/6995c9dbe2d77b4473bee16f/191:100/w_1280,c_limit/GettyImages-2261773850.jpg",
+      "url": "/tech-news/2026-02-18/nvidias-deal-with-meta-signals-a-new-era-in-comput/",
+      "source": {
+        "emoji": "🔧",
+        "id": "wired",
+        "name": "Wired"
+      },
+      "companies": [
+        "Nvidia",
+        "Meta"
+      ],
+      "people": []
+    },
     {
       "title": "Podsekretář Kimmitt vede delegaci ITA do Bengaluru a jedná s technologickými firmami",
       "description": "Podsekretář Kimmitt vede delegaci Mezinárodní obchodní správy (ITA) do Bengaluru, kde propaguje strategie pro export umělé inteligence a posiluje technologická partnerství mezi USA a Indií před summitem India AI Impact Summit 2026.",
