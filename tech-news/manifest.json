@@ -1,7 +1,110 @@
 {
-  "generated": "2026-02-19T09:04:00.510557+00:00",
-  "count": 173,
+  "generated": "2026-02-19T13:05:10.763008+00:00",
+  "count": 178,
   "articles": [
+    {
+      "title": "Claude Sonnet 4.6 se blíží schopnostem Opus 4.6 a Anthropic zavádí vyšší bezpečnostní kontroly",
+      "description": "Claude Sonnet 4.6, nejnovější středně pokročilý model umělé inteligence od Anthropic, zužuje rozdíl se svým vlajkovým modelem Opus 4.6 v klíčových oblastech, jako je programování, matematické uvažování a autonomní prohlížení webu. Firma zároveň aplikuje přísnější rizikové opatření kvůli rostoucím schopnostem modelu.",
+      "slug": "claude-sonnet-46-nears-opus-46-abilities-anthropic",
+      "publishedAt": "2026-02-18T12:22:51+00:00",
+      "date": "2026-02-18 12:22:51",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/02/claude-sonnet-46-benchmark-comparison_optimized.jpg",
+      "url": "/tech-news/2026-02-18/claude-sonnet-46-nears-opus-46-abilities-anthropic/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": []
+    },
+    {
+      "title": "Sensex a Nifty uzavřely třetí den v řadě výš, rout v IT sektoru však omezil zisky",
+      "description": "Sensex vzrostl o 283,29 bodu, tj. 0,34 %, na uzavírací hodnotu 83 734,25, zatímco Nifty získal 93,95 bodu, tj. 0,37 %, na 25 819,35.",
+      "slug": "sensex-nifty-end-higher-for-third-straight-day-but",
+      "publishedAt": "2026-02-18T12:09:49+00:00",
+      "date": "2026-02-18 12:09:49",
+      "importance": 4,
+      "category": "burza",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/g7cojj/article70647439.ece/alternates/LANDSCAPE_1200/PO11_Chart.jpg",
+      "url": "/tech-news/2026-02-18/sensex-nifty-end-higher-for-third-straight-day-but/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Čínští tančící roboti: jak moc bychom se měli obávat?",
+      "description": "Humanoidní roboti vystupovali v pondělí na ročním Spring Festival Gala Čínské mediální skupiny, největší oficiální televizní show v Číně. Prováděli výpady, backflipy s přistáním na kolenou, otočky a skoky bez jediného pádu.",
+      "slug": "chinas-dancing-robots-how-worried-should-we-be",
+      "publishedAt": "2026-02-18T11:59:49+00:00",
+      "date": "2026-02-18 11:59:49",
+      "importance": 4,
+      "category": "tech",
+      "urlToImage": null,
+      "url": "/tech-news/2026-02-18/chinas-dancing-robots-how-worried-should-we-be/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Proč dnes rostou akcie Nvidia, Amazonu, Mety a Microsoftu? Co očekávat od indexů S&P 500, Nasdaq a Dow?",
+      "description": "Americký akciový trh: Širší AI-spojené a megacap technologické akcie ztrácely půdu pod nohama, protože investoři hledali silnější důkazy, že masivní investice do technologie hmatatelně zvyšují příjmy a zisky.",
+      "slug": "why-are-nvidia-amazon-meta-microsoft-stocks-share-",
+      "publishedAt": "2026-02-18T11:57:44+00:00",
+      "date": "2026-02-18 11:57:44",
+      "importance": 4,
+      "category": "burza",
+      "urlToImage": "https://img.etimg.com/thumb/msid-128506339,width-1200,height-630,imgsize-248936,overlay-economictimes/articleshow.jpg",
+      "url": "/tech-news/2026-02-18/why-are-nvidia-amazon-meta-microsoft-stocks-share/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Nvidia",
+        "Amazon",
+        "Meta",
+        "Microsoft"
+      ],
+      "people": []
+    },
+    {
+      "title": "Eric Schmidt: 'Nechybí nám elektřina,' navrhuje datová centra ve vesmíru — šéf SpaceX Elon Musk vtipkuje: 'Kdyby jen existovala firma'",
+      "description": "Bývalý šéf Google Eric Schmidt varoval, že USA potřebují dalších 92 gigawattů energie kvůli růstu umělé inteligence. Šéf SpaceX Elon Musk na to reagoval narážkou na svou firmu, která by mohla stavět datová centra ve vesmíru.",
+      "slug": "eric-schmidt-says-were-running-out-of-electricity-",
+      "publishedAt": "2026-02-18T11:45:25+00:00",
+      "date": "2026-02-18 11:45:25",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://s.yimg.com/os/en/Benzinga/dfad7235c9f4b3f7f33596ee551a60e7",
+      "url": "/tech-news/2026-02-18/eric-schmidt-says-were-running-out-of-electricity/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "Google",
+        "SpaceX"
+      ],
+      "people": [
+        "Eric Schmidt",
+        "Elon Musk"
+      ]
+    },
     {
       "title": "NPCI spolupracuje s Nvidia na rozvoji suverénní AI infrastruktury pro digitální platby v Indii",
       "description": "Národní korporace pro platební systémy Indie (NPCI) oznámila spolupráci s Nvidia na škálování suverénního AI modelu pro indický platební ekosystém. Iniciativa se zaměřuje na podporu velkých real-time platebních systémů s důrazem na důvěru, odolnost, bezpečnost a rozvoj ekosystému.",
