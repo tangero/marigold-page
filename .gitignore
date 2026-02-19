@@ -42,3 +42,7 @@ _audio/2025-05-25-microsoft-build-2025.mp3
 *-shm
 *-wal
 .DS_Store
+
+# OpenMemory - IDE/Assistant specific rules
+.cursor/rules/openmemory.mdc
+CLAUDE.md
