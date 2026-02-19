@@ -1,7 +1,171 @@
 {
-  "generated": "2026-02-19T01:31:58.032411+00:00",
-  "count": 200,
+  "generated": "2026-02-19T05:42:49.652229+00:00",
+  "count": 167,
   "articles": [
+    {
+      "title": "Asijské akcie rostou, zatímco většina trhů zůstává zavřená kvůli Novému roku podle lunárního kalendáře",
+      "description": "Akcie v Asii mírně rostou, přičemž japonský benchmark index vzrostl o více než 1 procento po klidném závěru amerických trhů. Většina asijských burz zůstala zavřená kvůli svátkům Nového roku, americké futures stagnují a ceny ropy lehce stoupají.",
+      "slug": "asian-shares-rise-while-most-markets-stay-closed-f",
+      "publishedAt": "2026-02-18T04:57:25+00:00",
+      "date": "2026-02-18 04:57:25",
+      "importance": 4,
+      "category": "finanční trhy",
+      "urlToImage": "https://dims.apnews.com/dims4/default/a15cd71/2147483647/strip/true/crop/9080x6050+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa6%2Fd7%2F808aaa9df083337c69f25a53d86c%2F8cb67b0d47044f69b6fe177a5c749d4b",
+      "url": "/tech-news/2026-02-18/asian-shares-rise-while-most-markets-stay-closed-f/",
+      "source": {
+        "emoji": "📰",
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Samsung se snaží zvýšit produkci čipů HBM4 pro Nvidia",
+      "description": "Samsung zahájil hromadnou výrobu čipů vysokopásmové paměti šesté generace HBM4 jako první společnost na světě. Nyní se snaží výrobu urychlit zavedením pokročilého balení polovodičů, aby uspokojila poptávku od Nvidia.",
+      "slug": "samsung-is-trying-to-boost-hbm4-chip-production-fo",
+      "publishedAt": "2026-02-18T04:54:05+00:00",
+      "date": "2026-02-18 04:54:05",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2025/12/Nvidia-Vera-Rubin-NVL144-Tray-AI-Platform-1200x675.jpg",
+      "url": "/tech-news/2026-02-18/samsung-is-trying-to-boost-hbm4-chip-production-fo/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SamMobile"
+      },
+      "companies": [
+        "Samsung",
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Tesla se vyhnula zákazu prodeje v Kalifornii kvůli zavádějícímu marketingu",
+      "description": "Texasový výrobce automobilů Tesla ukončil svůj systém Autopilot a přidal do marketingu systému Full Self-Driving označení 'Supervised'. Díky těmto změnám regulační orgány v Kalifornii stornovaly hrozbu 30denního zákazu prodeje vozidel.",
+      "slug": "tesla-dodges-sales-halt-in-california-over-decepti",
+      "publishedAt": "2026-02-18T04:44:51+00:00",
+      "date": "2026-02-18 04:44:51",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://s.hdnux.com/photos/01/63/21/02/30216334/3/rawImage.jpg",
+      "url": "/tech-news/2026-02-18/tesla-dodges-sales-halt-in-california-over-decepti/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Austin American-Statesman"
+      },
+      "companies": [
+        "Tesla"
+      ],
+      "people": []
+    },
+    {
+      "title": "Akcie Eternal stabilní po spolupráci s OpenAI",
+      "description": "Společnosti uzavírají partnerství zaměřené na rozvoj schopností umělé inteligence napříč podniky Eternal, včetně platforem Zomato a Blinkit.",
+      "slug": "eternal-shares-steady-on-openai-collaboration",
+      "publishedAt": "2026-02-18T04:41:51+00:00",
+      "date": "2026-02-18 04:41:51",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/14uzjk/article70536937.ece/alternates/LANDSCAPE_1200/2025-07-22T042644Z_2102399517_RC2E0V9OZL8A_RTRMADP_3_ETERNAL-STOCKS.JPG",
+      "url": "/tech-news/2026-02-18/eternal-shares-steady-on-openai-collaboration/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "companies": [
+        "Eternal",
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Závod o nejlepší AI infrastrukturu nabírá na obrátkách: AMD popírá zpoždění Instinct MI455X, přetrvávají obavy z nasazení ve velkém měřítku",
+      "description": "Nová řada Instinct MI400 od AMD se dostala pod kritiku po zprávách o posunu termínu, vedení společnosti to však popřelo. Instinct MI455X čelí problémům s integrací N2, přesto AMD očekává nasazení v druhé polovině roku 2026.",
+      "slug": "the-race-for-who-has-the-best-ai-infrastructure-he",
+      "publishedAt": "2026-02-18T04:39:00+00:00",
+      "date": "2026-02-18 04:39:00",
+      "importance": 4,
+      "category": "ai infrastruktura",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/02/CES-2026-Helios-Rack-Close-up.jpg",
+      "url": "/tech-news/2026-02-18/the-race-for-who-has-the-best-ai-infrastructure-he/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Wccftech"
+      },
+      "companies": [
+        "AMD"
+      ],
+      "people": []
+    },
+    {
+      "title": "Indie patří mezi klíčová centra AI inovací, NVIDIA posiluje partnerství v zemi",
+      "description": "NVIDIA spolupracuje s poskytovateli cloudových služeb Yotta, L&T a E2E Networks na výstavbě pokročilých AI továren, které mají uspokojit rostoucí poptávku po výpočetním výkonu pro umělou inteligenci v Indii. Podle ředitele NVIDIA pro jižní Asii je Indie důležitým centrem AI díky své bázi vývojářů a startupů.",
+      "slug": "india-among-key-hubs-for-ai-innovation-company-dee",
+      "publishedAt": "2026-02-18T04:17:13+00:00",
+      "date": "2026-02-18 04:17:13",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/uct23w/article70573156.ece/alternates/LANDSCAPE_1200/2026-01-26T163407Z_1911647941_RC2KEGAJJWFR_RTRMADP_3_VIDIA-COREWEAVE-INVESTMENT.JPG",
+      "url": "/tech-news/2026-02-18/india-among-key-hubs-for-ai-innovation-company-dee/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "companies": [
+        "NVIDIA",
+        "Yotta",
+        "L&T",
+        "E2E Networks"
+      ],
+      "people": []
+    },
+    {
+      "title": "Denní shrnutí: Premiér Modi oceňuje partnerství při posílení strategických vazeb Indie a Francie",
+      "description": "Premiér Narendra Modi navštívil stánky na veletrhu India AI Impact Summit Expo 2026 a Indie s Francií povýšily své bilaterální vztahy na úroveň speciální globální strategické partnerství po jednáních v Bombaji.",
+      "slug": "daily-briefing-pm-modi-hails-partnership-as-india-",
+      "publishedAt": "2026-02-18T04:15:18+00:00",
+      "date": "2026-02-18 04:15:18",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://images.indianexpress.com/2026/02/Newsletter-morning-expresso-Final-1600x900-6.jpg",
+      "url": "/tech-news/2026-02-18/daily-briefing-pm-modi-hails-partnership-as-india/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "companies": [],
+      "people": [
+        "Narendra Modi",
+        "Abhishek Sharma"
+      ]
+    },
+    {
+      "title": "Nvidia spolupracuje s významnými indickými venture capital firmami při hledání dalších AI startupů",
+      "description": "Nvidia rozšiřuje partnerství v Indii, včetně s venture capital firmami, protože vsází na tamní ekosystém umělé inteligence, který přitahuje masivní investice velkých technologických společností.",
+      "slug": "nvidia-is-partnering-with-major-indian-vc-firms-in",
+      "publishedAt": "2026-02-18T03:51:46+00:00",
+      "date": "2026-02-18 03:51:46",
+      "importance": 4,
+      "category": "ai startupy",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108238981-1765286153900-gettyimages-2153607836-INDIA_YOTTA_NVIDIA.jpeg?v=1771381315&w=1920&h=1080",
+      "url": "/tech-news/2026-02-18/nvidia-is-partnering-with-major-indian-vc-firms-in/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": []
+    },
     {
       "title": "Render získal dalších 100 milionů dolarů pro svou cloudovou platformu optimalizovanou pro AI",
       "description": "Cloudový startup Render Services Inc. získal 100 milionů dolarů od investorů při valuaci 1,5 miliardy dolarů. Jedná se o rozšíření kola Series C z ledna, které vedl fond Georgian, zapojili se i Addition, Bessemer Venture Partners, General Catalyst a 01 Advisors.",
@@ -3204,834 +3368,6 @@
       },
       "companies": [
         "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Šéf AI v Microsoftu stanovuje dvouletý horizont pro automatizaci většiny kancelářských prací",
-      "description": "Predikce zesiluje debatu v řídících sborech firem o tom, jak rychle může umělá inteligence převrátit vysoce placené kancelářské pozice a zda jsou společnosti připraveny.",
-      "slug": "microsoft-ai-chief-sets-two-year-timeline-for-ai-t",
-      "publishedAt": "2026-02-12T23:57:39+00:00",
-      "date": "2026-02-12 23:57:39",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/02/microsoft-gID_7.jpg",
-      "url": "/tech-news/2026-02-12/microsoft-ai-chief-sets-two-year-timeline-for-ai-t/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Decrypt"
-      },
-      "companies": [
-        "Microsoft"
-      ],
-      "people": []
-    },
-    {
-      "title": "Rychlý model GPT-5.3-Codex od OpenAI překračuje jednoduché kódovací úkoly",
-      "description": "OpenAI Group PBC vydalo lehčí verzi populárního nástroje pro agentické kódování GPT-5.3-Codex, navrženou pro rychlejší zpracování požadavků. Model GPT-5.3-Codex-Spark běží na čipu Wafer Scale Engine 3 od firmy Cerebras Systems a slouží k rychlé spolupráci a iteracím v programování.",
-      "slug": "openais-rapid-gpt-53-codex-model-moves-beyond-simp",
-      "publishedAt": "2026-02-12T23:39:43+00:00",
-      "date": "2026-02-12 23:39:43",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Screenshot-from-2026-02-13-06-39-19.png",
-      "url": "/tech-news/2026-02-12/openais-rapid-gpt-53-codex-model-moves-beyond-simp/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Současná hranice autonomního kódování AI: 100 000řádkový kompilátor C v Rustu postavený za 2 týdny",
-      "description": "Výzkumník Anthropic Nicholas Carlini nechal 16 instancí modelu Claude Opus 4.6 s minimálním dohledem vyvinout C kompilátor od nuly. Za dva týdny a přes 2000 relací Claude Code za 20 000 USD vznikl funkční kompilátor v Rustu schopný zkompilovat bootovatelný Linux 6.9 kernel na x86, ARM a RISC-V.",
-      "slug": "current-limit-of-ai-automous-coding-is-a-10000-rus",
-      "publishedAt": "2026-02-12T23:34:20+00:00",
-      "date": "2026-02-12 23:34:20",
-      "importance": 4,
-      "category": "ai programování",
-      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/02/Screenshot-2026-02-12-at-3.33.12-PM.jpg",
-      "url": "/tech-news/2026-02-12/current-limit-of-ai-automous-coding-is-a-10000-rus/",
-      "source": {
-        "emoji": "📰",
-        "id": "next-big-future",
-        "name": "Next Big Future"
-      },
-      "companies": [
-        "Anthropic"
-      ],
-      "people": [
-        "Nicholas Carlini"
-      ]
-    },
-    {
-      "title": "Pentagon tlačí AI společnosti na rozšíření do tajných sítí",
-      "description": "Bez mnoha standardních bezpečnostních opatření. Armáda USA chce nasadit nástroje umělé inteligence od firem jako OpenAI a Anthropic na sítích s utajenými informacemi.",
-      "slug": "pentagon-pushing-ai-companies-to-expand-on-classif",
-      "publishedAt": "2026-02-12T19:51:53+00:00",
-      "date": "2026-02-12 19:51:53",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://i.nextmedia.com.au/News/2026-02-12T004540Z_1_LYNXMPEM1B01I_RTROPTP_4_USA-PENTAGON-AI.JPG",
-      "url": "/tech-news/2026-02-12/pentagon-pushing-ai-companies-to-expand-on-classif/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "iTnews"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Google varuje před zloději, kteří klonují AI modely pomocí API",
-      "description": "Google Threat Intelligence Group upozorňuje na rostoucí hrozbu model extraction attacks, při kterých útočníci využívají legitimní přístup k API velkých jazykových modelů (LLM) k získání dat pro trénování vlastních kopií. Tato technika umožňuje rychlé a levné replikování proprietárních modelů bez nutnosti tradičního prolomení systémů.",
-      "slug": "google-warns-against-thieves-using-apis-to-clone-a",
-      "publishedAt": "2026-02-12T19:13:57+00:00",
-      "date": "2026-02-12 19:13:57",
-      "importance": 4,
-      "category": "kybernetika",
-      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/02/Google-AI-theft.jpeg",
-      "url": "/tech-news/2026-02-12/google-warns-against-thieves-using-apis-to-clone-a/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "pymnts.com"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "PayPal spolupracuje se Sabre a Mindtrip na agentic AI pro cestování",
-      "description": "PayPal zahajuje partnerství zaměřené na umělou inteligenci se společnostmi Sabre a Mindtrip. Spolupráce spojuje schopnosti agentic commerce od PayPalu, podnikovou technologii pro cestování od Sabre a spotřebitelskou platformu od Mindtrip.",
-      "slug": "paypal-teams-with-sabre-and-mindtrip-on-agentic-ai",
-      "publishedAt": "2026-02-12T18:33:00+00:00",
-      "date": "2026-02-12 18:33:00",
-      "importance": 4,
-      "category": "cestovní ai",
-      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/02/agentic-artificial-intelligents-travel.jpeg",
-      "url": "/tech-news/2026-02-12/paypal-teams-with-sabre-and-mindtrip-on-agentic-ai/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "pymnts.com"
-      },
-      "companies": [
-        "PayPal",
-        "Sabre",
-        "Mindtrip"
-      ],
-      "people": []
-    },
-    {
-      "title": "Tyto 4 kritické zranitelnosti AI jsou zneužívány rychleji, než obránci stihnou reagovat",
-      "description": "Od útoků typu prompt injection po podvody s deepfakes bezpečnostní výzkumníci uvádějí, že několik chyb nemá známou opravu. Zde je přehled těchto problémů.",
-      "slug": "these-4-critical-ai-vulnerabilities-are-being-expl",
-      "publishedAt": "2026-02-12T16:26:56+00:00",
-      "date": "2026-02-12 16:26:56",
-      "importance": 5,
-      "category": "ai bezpečnost",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/32db0bda826046b0d2703b9713fd04f9739cf838/2026/02/10/bfe5dd37-f08f-4991-8009-84b7c6022267/gettyimages-1346242220.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "url": "/tech-news/2026-02-12/these-4-critical-ai-vulnerabilities-are-being-expl/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "ZDNet"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Spouštění autonomního provozu s 6. generací Waymo Driver",
-      "description": "Waymo zahájí plně autonomní provoz se svou 6. generací řidiče, což představuje klíčový krok k rozšíření technologie do více měst a pro více pasažérů. Tento systém pohání další fázi expanze s optimalizovanou konfigurací, která snižuje náklady při zachování bezpečnostních standardů.",
-      "slug": "beginning-autonomous-operations-with-the-6th-gener",
-      "publishedAt": "2026-02-12T16:10:29+00:00",
-      "date": "2026-02-12 16:10:29",
-      "importance": 4,
-      "category": "autonomní vozy",
-      "urlToImage": "https://images.ctfassets.net/7ijaobx36mtm/2vy2r8uqvrtF80vIo4aDQK/49a4410ba259e0dfb248870e6c30ea78/Waymo_6th_Gen_Hero.png",
-      "url": "/tech-news/2026-02-12/beginning-autonomous-operations-with-the-6th-gener/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Waymo.com"
-      },
-      "companies": [
-        "Waymo"
-      ],
-      "people": []
-    },
-    {
-      "title": "Šestá generace robotaxi od Waymo je připravena pro pasažéry i sériovou výrobu",
-      "description": "Po letech testování Waymo oznámilo, že šestá generace technologie autonomního řízení je připravena pro přepravu pasažérů, nejprve pro zaměstnance v San Franciscu a Los Angeles. Firma plánuje velkovýrobu vozidel pro posílení své pozice v soutěži o robotaxi.",
-      "slug": "waymos-next-gen-robotaxi-is-ready-for-passengers-a",
-      "publishedAt": "2026-02-12T16:05:01+00:00",
-      "date": "2026-02-12 16:05:01",
-      "importance": 4,
-      "category": "autonomní vozidla",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/unnamed-1.jpg?quality=90&strip=all&crop=0%2C10.75214828329%2C100%2C78.49570343342&w=1200",
-      "url": "/tech-news/2026-02-12/waymos-next-gen-robotaxi-is-ready-for-passengers-a/",
-      "source": {
-        "emoji": "⚡",
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "companies": [
-        "Waymo"
-      ],
-      "people": []
-    },
-    {
-      "title": "Waymo začíná nasazovat šestou generaci robotaxi Ojai pro posílení své převahy v USA",
-      "description": "Společnost se připravuje na rozšíření do několika nových měst v roce 2026. Nová vozidla používají levnější komponenty a zlepšenou navigaci v nepříznivém počasí.",
-      "slug": "waymo-begins-deploying-next-gen-ojai-robotaxis-to-",
-      "publishedAt": "2026-02-12T16:00:02+00:00",
-      "date": "2026-02-12 16:00:02",
-      "importance": 4,
-      "category": "autonomní vozy",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108261073-1770161242648-gettyimages-2259268678-ALPHABET_EARNS.jpeg?v=1770161334&w=1920&h=1080",
-      "url": "/tech-news/2026-02-12/waymo-begins-deploying-next-gen-ojai-robotaxis-to/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNBC"
-      },
-      "companies": [
-        "Waymo"
-      ],
-      "people": []
-    },
-    {
-      "title": "Technická cesta a obchodní model kancelářské práce bez lidí",
-      "description": "Firma xAI vyvíjí AI na hardwaru Tesla AI4, které plně napodobuje lidskou práci na počítači, podobně jako Tesla FSD v automobilech, ale pro stolní počítače a notebooky. Systém využívá kamery nebo zachytávání obrazovky ke sledování uživatele, stisků kláves a pohybů myší.",
-      "slug": "technical-path-and-business-model-of-office-work-w",
-      "publishedAt": "2026-02-12T15:53:47+00:00",
-      "date": "2026-02-12 15:53:47",
-      "importance": 4,
-      "category": "automatizace práce",
-      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/02/Screenshot-2026-02-12-at-7.47.08-AM.jpg",
-      "url": "/tech-news/2026-02-12/technical-path-and-business-model-of-office-work-w/",
-      "source": {
-        "emoji": "📰",
-        "id": "next-big-future",
-        "name": "Next Big Future"
-      },
-      "companies": [
-        "xAI",
-        "Tesla"
-      ],
-      "people": []
-    },
-    {
-      "title": "Obrovský únik dat OneFly: Unikly identifikační údaje cestujících a platební detaily",
-      "description": "Plné platební údaje v čistém textu unikly z nechráněné instance Elasticsearch, postihuje nejméně 6000 zákazníků OneFly. Mezi uniklými daty jsou jména, data narození, detaily identifikačních dokladů, údaje o letech a JWT tokeny.",
-      "slug": "huge-onefly-data-breach-sees-traveler-ids-and-paym",
-      "publishedAt": "2026-02-12T15:42:16+00:00",
-      "date": "2026-02-12 15:42:16",
-      "importance": 5,
-      "category": "únik dat",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/jt92kXfBXVXUWwnKBmDJLn-2560-80.jpg",
-      "url": "/tech-news/2026-02-12/huge-onefly-data-breach-sees-traveler-ids-and-paym/",
-      "source": {
-        "emoji": "📰",
-        "id": "techradar",
-        "name": "TechRadar"
-      },
-      "companies": [
-        "OneFly"
-      ],
-      "people": []
-    },
-    {
-      "title": "Dynamika AWS podporuje rozšiřující se strategii Amazonu v AI a cloudu",
-      "description": "Amazon (NASDAQ:AMZN) patří podle analytiků k nejlepším akciím firem s machine learningem. Po výsledcích za Q4 2025 snížil UBS cenový cíl akcie na 301 USD z 311 USD kvůli vyšším výdajům na kapitálové investice.",
-      "slug": "aws-momentum-supports-amazoncoms-amzn-expanding-ai",
-      "publishedAt": "2026-02-12T15:39:23+00:00",
-      "date": "2026-02-12 15:39:23",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/r4yH5U7Ng2Vmm_N2sdim2A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/insidermonkey.com/bf5db36a1da6774e5e796de67b414473",
-      "url": "/tech-news/2026-02-12/aws-momentum-supports-amazoncoms-amzn-expanding-ai/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [
-        "Amazon"
-      ],
-      "people": []
-    },
-    {
-      "title": "Aktualizujte nyní! iOS 26.3 obsahuje desítky kritických bezpečnostních oprav",
-      "description": "Apple vydal iOS 26.3 a iPadOS 26.3 s přes 35 bezpečnostními záplatami, včetně opravy zero-day zranitelnosti v Dynamic Link Editor (dyld), která byla již využita v cílených útocích. Aktualizace chrání před neoprávněným přístupem k datům i na uzamčených zařízeních.",
-      "slug": "update-now-ios-263-contains-dozens-of-critical-sec",
-      "publishedAt": "2026-02-12T12:15:00+00:00",
-      "date": "2026-02-12 12:15:00",
-      "importance": 5,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://www.macworld.com/wp-content/uploads/2026/02/iphone-ios-update.jpg?quality=50&strip=all&w=1024",
-      "url": "/tech-news/2026-02-12/update-now-ios-263-contains-dozens-of-critical-sec/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Macworld"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Administrativa Trumpa připravuje jednotnou a centralizovanou národní kvantovou strategii USA",
-      "description": "Federální iniciativa má oživit kvantový sektor a čelit čínské kvantové expanzi. Plán slibuje příchod 'další hranice kvantové inovace' a nahradí současný roztříštěný přístup centralizovanou správou.",
-      "slug": "trump-administration-preps-unified-and-centralised",
-      "publishedAt": "2026-02-12T11:35:45+00:00",
-      "date": "2026-02-12 11:35:45",
-      "importance": 4,
-      "category": "kvantové technologie",
-      "urlToImage": "https://assets.telecomtv.com/assets/telecomtv/north-america-map-15060.jpeg?w=1200",
-      "url": "/tech-news/2026-02-12/trump-administration-preps-unified-and-centralised/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "TelecomTV"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Přestaňte mluvit s AI, nechte je mluvit mezi sebou: Protokol A2A",
-      "description": "Ptal jste se někdy Alexy, aby vám připomněla odeslat zprávu na WhatsApp v určenou hodinu, a pak se divili, proč to nemůže udělat sama? Protokol A2A od Google řeší tuto mezeru tím, že umožňuje AI agentům přímo komunikovat a spolupracovat napříč aplikacemi.",
-      "slug": "stop-talking-to-ai-let-them-talk-to-each-other-the",
-      "publishedAt": "2026-02-12T11:35:31+00:00",
-      "date": "2026-02-12 11:35:31",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F02%2FA2A-protocol-1.png&signature=415b42611bebabe1a15ef00560369923",
-      "url": "/tech-news/2026-02-12/stop-talking-to-ai-let-them-talk-to-each-other-the/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-next-web",
-        "name": "The Next Web"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "AI robot s teplou kůží a kamerovými očima působí znepokojivě lidsky",
-      "description": "Šanghajský startup DroidUp představil humanoidního robota Moya s kůží teploty 32–36 °C, která evokuje lidskou. Biometrický AI robot vyjde v roce 2026 za 173 000 dolarů a je určen pro zdravotnictví, vzdělávání či jako společník.",
-      "slug": "warm-skinned-ai-robot-with-camera-eyes-is-seriousl",
-      "publishedAt": "2026-02-12T11:28:17+00:00",
-      "date": "2026-02-12 11:28:17",
-      "importance": 5,
-      "category": "robotika",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/02/1-warm-skinned-ai-robot-crowd.jpg",
-      "url": "/tech-news/2026-02-12/warm-skinned-ai-robot-with-camera-eyes-is-seriousl/",
-      "source": {
-        "emoji": "📰",
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Samsung zahájil dodávky první komerční HBM4 s vysokým výkonem pro AI výpočty",
-      "description": "Samsung Electronics zahájil hmotnou výrobu a dodávky své HBM4 paměti zákazníkům, což je první případ v oboru. Tato paměť překonává standardy rychlostí a kapacity, což pomáhá řešit datové úzká místa v AI tréninku.",
-      "slug": "pr-samsung-ships-industry-first-commercial-hbm4-wi",
-      "publishedAt": "2026-02-12T11:26:17+00:00",
-      "date": "2026-02-12 11:26:17",
-      "importance": 4,
-      "category": "hardware",
-      "urlToImage": "https://www.techpowerup.com/img/PM1zBixqEJB2XYPX.jpg",
-      "url": "/tech-news/2026-02-12/pr-samsung-ships-industry-first-commercial-hbm4-wi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Techpowerup.com"
-      },
-      "companies": [
-        "Samsung Electronics Co",
-        "Ltd"
-      ],
-      "people": []
-    },
-    {
-      "title": "Umělá inteligence už usnadňuje online podvody. Může to být ještě horší.",
-      "description": "Anton Cherepanov objevil na VirusTotal soubor s ransomware PromptLock, který využívá velké jazykové modely (LLM) k plné automatizaci útoku. Ačkoli se ukázalo, že jde o výzkumný projekt, demonstruje to potenciál AI pro flexibilní malware.",
-      "slug": "ai-is-already-making-online-swindles-easier-it-cou",
-      "publishedAt": "2026-02-12T11:00:00+00:00",
-      "date": "2026-02-12 11:00:00",
-      "importance": 5,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2026/02/opener-final1_social.jpg?resize=1200,600",
-      "url": "/tech-news/2026-02-12/ai-is-already-making-online-swindles-easier-it-cou/",
-      "source": {
-        "emoji": "🎓",
-        "id": null,
-        "name": "MIT Technology Review"
-      },
-      "companies": [],
-      "people": [
-        "Anton Cherepanov"
-      ]
-    },
-    {
-      "title": "Palo Alto Networks dokončila akvizici CyberArk za 25 miliard dolarů",
-      "description": "Palo Alto Networks finalizovala akvizici společnosti CyberArk za 25 miliard dolarů, čímž začleňuje bezpečnost identit do své hlavní strategické platformy. Tento krok reaguje na rostoucí potřebu ochrany identit uživatelů, strojů i AI entit v podnicích.",
-      "slug": "palo-alto-networks-closes-25bn-acquisition-of-cybe",
-      "publishedAt": "2026-02-12T10:49:33+00:00",
-      "date": "2026-02-12 10:49:33",
-      "importance": 5,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://www.techmonitor.ai/wp-content/uploads/sites/29/2026/02/pao-alto-ae8f52c7cfe4d2516d51792cc5d33303.jpg",
-      "url": "/tech-news/2026-02-12/palo-alto-networks-closes-25bn-acquisition-of-cybe/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Verdict"
-      },
-      "companies": [
-        "Palo Alto Networks",
-        "CyberArk"
-      ],
-      "people": []
-    },
-    {
-      "title": "Claude Opus 4.6: Rozšiřuje kontext na 1 milion tokenů",
-      "description": "Claude Opus 4.6 od Anthropic přináší kontextové okno o velikosti 1 milionu tokenů, což umožňuje současnou analýzu až 50 000 řádků kódu. Tento model podporuje autonomní kódování a koordinaci týmů AI agentů pro vývoj složitých projektů.",
-      "slug": "claude-opus-46-expands-context-to-1-million-tokens",
-      "publishedAt": "2026-02-12T10:45:07+00:00",
-      "date": "2026-02-12 10:45:07",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/02/one-million-token-context-code-review_optimized.jpg",
-      "url": "/tech-news/2026-02-12/claude-opus-46-expands-context-to-1-million-tokens/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [
-        "Anthropic"
-      ],
-      "people": []
-    },
-    {
-      "title": "Americké akcie dnes | SoftBank vykázal čtvrtý po sobě jdoucí čtvrtletní zisk 1,6 miliardy dolarů díky ziskům z OpenAI",
-      "description": "Japonská skupina SoftBank Group v čtvrtletí říjen-prosinec vykázala čistý zisk 248,6 miliardy jenů (1,62 miliardy dolarů), což je čtvrtý kvartál v řadě s kladným výsledkem. Zisk byl podpořen rostoucí valuací investice do OpenAI, tvůrce ChatGPT.",
-      "slug": "us-stocks-today-softbank-posts-fourth-straight-qua",
-      "publishedAt": "2026-02-12T07:55:37+00:00",
-      "date": "2026-02-12 07:55:37",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://img.etimg.com/thumb/msid-128245154,width-1200,height-630,imgsize-29506,overlay-etmarkets/articleshow.jpg",
-      "url": "/tech-news/2026-02-12/us-stocks-today-softbank-posts-fourth-straight-qua/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "SoftBank Group",
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Agnikul Cosmos bude spolupracovat s NeevCloud na datovém centru ve vesmíru",
-      "description": "Indická vesmírná startupová firma Agnikul Cosmos naváže partnerství s cloudovou společností NeevCloud, aby umožnila provoz datového centra ve vesmíru pro AI SuperCloud platformu. Tento krok cílí na rostoucí poptávku po výpočetních kapacitách pro AI úlohy a zvyšuje udržitelnost oproti pozemním datovým centrům.",
-      "slug": "agnikul-cosmos-to-partner-with-neevcloud-to-host-d",
-      "publishedAt": "2026-02-12T07:48:15+00:00",
-      "date": "2026-02-12 07:48:15",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/81hay0/article70623128.ece/alternates/LANDSCAPE_1200/Agnikul%20Founders%20left%20to%20right%20-%20Srinath%20Ravichandran%20Co-founder%20%20CEO%20Moin%20SPM%20Co-founder%20%20COO%201%201.JPG",
-      "url": "/tech-news/2026-02-12/agnikul-cosmos-to-partner-with-neevcloud-to-host-d/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "companies": [
-        "Agnikul Cosmos",
-        "NeevCloud"
-      ],
-      "people": []
-    },
-    {
-      "title": "SoftBank dosáhl čtvrtletního zisku 2,05 miliardy dolarů díky investicím do OpenAI",
-      "description": "SoftBank investoval do OpenAI více než 30 miliard amerických dolarů a díky růstu valuace této společnosti vykázal významný zisk. Více informací na straitstimes.com.",
-      "slug": "softbank-posts-205-billion-quarterly-profit-on-ope",
-      "publishedAt": "2026-02-12T07:41:24+00:00",
-      "date": "2026-02-12 07:41:24",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/d4c76b040cedc9f32aa428f4de1a35cab986307f2483a283704dee072de3cc7f",
-      "url": "/tech-news/2026-02-12/softbank-posts-205-billion-quarterly-profit-on-ope/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Straits Times"
-      },
-      "companies": [
-        "SoftBank",
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Samsung zahájil hromadnou výrobu svých nejdůležitějších čipů v historii",
-      "description": "Samsung je první společností na světě, která zahájila hromadnou výrobu pamětí HBM4 šesté generace s vysokou propustností dat. Tyto čipy budou použity v nejpokročilejších AI akcelerátorech.",
-      "slug": "samsung-announces-mass-production-its-most-importa",
-      "publishedAt": "2026-02-12T07:16:03+00:00",
-      "date": "2026-02-12 07:16:03",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2026/02/Samsung-HBM4-Memory-Chips-1200x675.jpg",
-      "url": "/tech-news/2026-02-12/samsung-announces-mass-production-its-most-importa/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SamMobile"
-      },
-      "companies": [
-        "Samsung"
-      ],
-      "people": []
-    },
-    {
-      "title": "Samsung zahájil hromadnou výrobu pamětí HBM4 s rychlostmi až 13 Gbps a kapacitou 48 GB",
-      "description": "Samsung spustil hromadnou výrobu a dodávky pamětí HBM4 s rychlostmi 11,7 až 13 Gbps, propustností 3,3 TB/s na stack a kapacitou až 48 GB ve 16-vrstvových konfiguracích. Tyto paměti budou sloužit datacentrovým čipům jako NVIDIA Vera Rubin a AMD Instinct MI450.",
-      "slug": "samsung-begins-hbm4-memory-mass-production-with-up",
-      "publishedAt": "2026-02-12T07:10:39+00:00",
-      "date": "2026-02-12 07:10:39",
-      "importance": 4,
-      "category": "hardware",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/02/Samsung-Semiconductors-Industry-First-Commercial-HBM4_main2.jpg",
-      "url": "/tech-news/2026-02-12/samsung-begins-hbm4-memory-mass-production-with-up/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Wccftech"
-      },
-      "companies": [
-        "Samsung"
-      ],
-      "people": []
-    },
-    {
-      "title": "Google: Čínská APT31 použila Gemini k plánování kyberútoků na americké organizace",
-      "description": "Čínská hackerská skupina APT31, sankcionovaná USA za útoky na kritickou infrastrukturu, využila AI chatbot Gemini k automatické analýze zranitelností a plánování kyberútoků. Mezitím rostou útoky typu 'distilace' na krádež duševního vlastnictví.",
-      "slug": "google-chinas-apt31-used-gemini-to-plan-cyberattac",
-      "publishedAt": "2026-02-12T07:00:08+00:00",
-      "date": "2026-02-12 07:00:08",
-      "importance": 5,
-      "category": "kybernetika",
-      "urlToImage": "https://regmedia.co.uk/2024/09/16/shutterstock_china_digital_eyeball.jpg",
-      "url": "/tech-news/2026-02-12/google-chinas-apt31-used-gemini-to-plan-cyberattac/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "SoftBank hlásí čtvrtý po sobě čtvrtletní zisk 1,6 miliardy dolarů díky ziskům z OpenAI",
-      "description": "Japonská skupina SoftBank Group dosáhla v čtvrtletí říjen-prosinec čistého zisku 248,6 miliardy jenů (1,62 miliardy dolarů), především díky růstu valuace její investice do OpenAI. Jedná se o čtvrtý kvartér v řadě s ziskem.",
-      "slug": "softbank-posts-fourth-straight-quarterly-profit-of",
-      "publishedAt": "2026-02-12T06:35:52+00:00",
-      "date": "2026-02-12 06:35:52",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--WWh90njJ--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-02-12T065859Z_2_LYNXMPEM1B0C3_RTROPTP_3_SOFTBANK-OPENAI-INVESTMENT.JPG?itok=tpccQagy",
-      "url": "/tech-news/2026-02-12/softbank-posts-fourth-straight-quarterly-profit-of/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNA"
-      },
-      "companies": [
-        "SoftBank Group",
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "SoftBank vykázal čtvrtletní zisk 1,6 miliardy dolarů díky ziskům z OpenAI",
-      "description": "Japonská investiční skupina SoftBank Group oznámila čistý zisk 248,6 miliardy jenů (1,62 miliardy USD) za říjen až prosinec, poháněný růstem valuace její investice do OpenAI. Výsledky představují čtvrtý po sobě jdoucí ziskový kvartál.",
-      "slug": "softbank-posts-16-billion-quarterly-profit-on-open",
-      "publishedAt": "2026-02-12T06:35:52+00:00",
-      "date": "2026-02-12 06:35:52",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--WWh90njJ--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-02-12T065859Z_2_LYNXMPEM1B0C3_RTROPTP_3_SOFTBANK-OPENAI-INVESTMENT.JPG?itok=tpccQagy",
-      "url": "/tech-news/2026-02-12/softbank-posts-16-billion-quarterly-profit-on-open/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNA"
-      },
-      "companies": [
-        "SoftBank Group",
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Anthropic uhradí 100 % nákladů na modernizaci elektrické sítě pro svá datacentra AI",
-      "description": "Společnost Anthropic se zavázala hradit všechny náklady na posílení elektrické sítě spojené s jejími daty centry pro umělou inteligenci, aby tyto výdaje nešly na účet domácností.",
-      "slug": "anthropic-says-it-will-pay-100-of-the-grid-upgrade",
-      "publishedAt": "2026-02-12T05:03:31+00:00",
-      "date": "2026-02-12 05:03:31",
-      "importance": 4,
-      "category": "datacentra",
-      "urlToImage": "https://i.insider.com/698d4edca645d11881893150?width=1200&format=jpeg",
-      "url": "/tech-news/2026-02-12/anthropic-says-it-will-pay-100-of-the-grid-upgrade/",
-      "source": {
-        "emoji": "📰",
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "companies": [
-        "Anthropic"
-      ],
-      "people": []
-    },
-    {
-      "title": "Šok 1,3 bilionu rupií! Proč akcie TCS, Infosys a dalších IT firem klesly až o 5 %",
-      "description": "Indický IT sektor zaznamenal prudký pokles, kdy index Nifty IT klesl o více než 4 %, což vedlo ke ztrátě 1,3 bilionu rupií na tržní kapitalizaci. Důvodem jsou obavy z narušení umělou inteligencí, zejména po uvedení nového nástroje Claude Cowork od Anthropic, který automatizuje rutinní úkoly v IT službách.",
-      "slug": "rs-13-lakh-crore-shock-why-tcs-infosys-other-it-st",
-      "publishedAt": "2026-02-12T04:49:41+00:00",
-      "date": "2026-02-12 04:49:41",
-      "importance": 4,
-      "category": "it akcie",
-      "urlToImage": "https://img.etimg.com/thumb/msid-128238476,width-1200,height-630,imgsize-2247844,overlay-etmarkets/articleshow.jpg",
-      "url": "/tech-news/2026-02-12/rs-13-lakh-crore-shock-why-tcs-infosys-other-it-st/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "TCS",
-        "Infosys",
-        "Wipro",
-        "Anthropic"
-      ],
-      "people": []
-    },
-    {
-      "title": "Umělá inteligence ohrožuje podnikové software – může změnit způsob práce",
-      "description": "I když jste tyto software nástroje nikdy nepoužívali, váš zaměstnavatel je pravděpodobně využívá. Nové agentní nástroje umělé inteligence nyní hrozí převrátit systémy, na které se firmy spoléhají roky.",
-      "slug": "ai-threatens-to-eat-business-software-and-it-could",
-      "publishedAt": "2026-02-12T04:23:02+00:00",
-      "date": "2026-02-12 04:23:02",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://images.theconversation.com/files/717562/original/file-20260211-56-jl872x.jpg?ixlib=rb-4.1.0&rect=0%2C396%2C4744%2C2372&q=45&auto=format&w=1356&h=668&fit=crop",
-      "url": "/tech-news/2026-02-12/ai-threatens-to-eat-business-software-and-it-could/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Conversation Africa"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Zhipu vede rally čínských AI akcií, růst o 30 %, vlna nových vydání zasáhla trh",
-      "description": "Index Shanghai STAR AI Industry Index vzrostl o 1,7 % před částečným útlumem zisků. Čínské akcie v oblasti umělé inteligence posílily díky vydáním upgradovaných modelů od několika firem.",
-      "slug": "zhipu-leads-rally-in-chinese-ai-stocks-surging-30-",
-      "publishedAt": "2026-02-12T03:50:38+00:00",
-      "date": "2026-02-12 03:50:38",
-      "importance": 4,
-      "category": "ai akcie",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108257110-1769448456827-gettyimages-2254532744-CHINA_ZHIPU.jpeg?v=1770861763&w=1920&h=1080",
-      "url": "/tech-news/2026-02-12/zhipu-leads-rally-in-chinese-ai-stocks-surging-30/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNBC"
-      },
-      "companies": [
-        "Zhipu"
-      ],
-      "people": []
-    },
-    {
-      "title": "Alokace akcií Fractal Analytics IPO dnes: Jak zkontrolovat stav na MUFG Intime India, GMP a výhled na listování",
-      "description": "Alokace akcií Fractal Analytics IPO proběhne 12. února, akcie budou připsány do 13. února a listování na burzách BSE a NSE je plánováno na 16. února. Grey market premium naznačuje skromné zisky z listování, investoři mohou stav zkontrolovat na webu registrátora MUFG Intime India.",
-      "slug": "fractal-analytics-ipo-allotment-today-how-to-check",
-      "publishedAt": "2026-02-12T02:23:32+00:00",
-      "date": "2026-02-12 02:23:32",
-      "importance": 4,
-      "category": "ipo",
-      "urlToImage": "https://img.etimg.com/thumb/msid-128233994,width-1200,height-630,imgsize-17836,overlay-etmarkets/articleshow.jpg",
-      "url": "/tech-news/2026-02-12/fractal-analytics-ipo-allotment-today-how-to-check/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Fractal Analytics"
-      ],
-      "people": []
-    },
-    {
-      "title": "Taiwanský prezident chce větší obrannou a AI spolupráci s Evropou: rozhovor pro AFP",
-      "description": "Prezident Lai Ching-te v exkluzivním rozhovoru pro AFP volá po posílení spolupráce mezi Tchaj-wanem a Evropou v oblasti obranného průmyslu, obranných technologií a umělé inteligence. Tchaj-wan zároveň podporuje investice svých polovodičových firem do Evropy, aby posílil ekonomické vazby na třetí největší exportní trh.",
-      "slug": "taiwan-leader-wants-greater-defence-cooperation-wi",
-      "publishedAt": "2026-02-12T02:05:18+00:00",
-      "date": "2026-02-12 02:05:18",
-      "importance": 4,
-      "category": "obraná spolupráce",
-      "urlToImage": "https://s.france24.com/media/display/46c14bf0-07b7-11f1-8de5-005056bf30b7/w:1280/p:16x9/060092d9dccec70dd56d32493377ce772a17a1b5.jpg",
-      "url": "/tech-news/2026-02-12/taiwan-leader-wants-greater-defence-cooperation-wi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "FRANCE 24 English"
-      },
-      "companies": [],
-      "people": [
-        "Lai"
-      ]
-    },
-    {
-      "title": "Google posiluje partnerství s Kakao pro vylepšení aplikací pomocí AI technologií na Androidu",
-      "description": "Google oznámil spolupráci s korejskou firmou Kakao na inovacích uživatelského zážitku na zařízeních Android s využitím pokročilé AI technologie. V rámci partnerství bude Kakao vyvíjet uživatelské rozhraní pro AI brýle na platformě Android XR a optimalizovat on-device AI služby jako Kanana v aplikaci KakaoTalk.",
-      "slug": "google-strengthens-partnership-with-kakao-to-enhan",
-      "publishedAt": "2026-02-12T01:53:40+00:00",
-      "date": "2026-02-12 01:53:40",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://cdn.platum.kr/wp-content/uploads/2025/05/Google.org_-1024x320.jpg",
-      "url": "/tech-news/2026-02-12/google-strengthens-partnership-with-kakao-to-enhan/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Platum.kr"
-      },
-      "companies": [
-        "Google",
-        "Kakao"
-      ],
-      "people": []
-    },
-    {
-      "title": "Startup Meridian s agentickou AI pro finanční modelování získal 17 milionů dolarů",
-      "description": "Startup Meridian, zaměřený na agentickou umělou inteligenci pro složité finanční modelování, získal 17 milionů dolarů v seed financování vedeném Andreessen Horowitz a The General Partners. Valuace společnosti po kolu dosáhla 100 milionů dolarů.",
-      "slug": "agentic-financial-modeling-startup-meridian-gets-1",
-      "publishedAt": "2026-02-12T01:31:36+00:00",
-      "date": "2026-02-12 01:31:36",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Screenshot-from-2026-02-12-08-29-46.png",
-      "url": "/tech-news/2026-02-12/agentic-financial-modeling-startup-meridian-gets-1/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Meridian",
-        "Andreessen Horowitz",
-        "The General Partners"
-      ],
-      "people": []
-    },
-    {
-      "title": "Microsoft varuje, že otrávená tlačítka a odkazy AI mohou zradit vaši důvěru",
-      "description": "Firmy vkládají do tlačítek a odkazů skryté prompty, které nutí AI generovat obsah podle jejich představ místo objektivního výstupu. Microsoft odhalil přes 50 unikátních případů od 31 společností v 14 odvětvích.",
-      "slug": "microsoft-warns-that-poisoned-ai-buttons-and-links",
-      "publishedAt": "2026-02-12T01:07:06+00:00",
-      "date": "2026-02-12 01:07:06",
-      "importance": 4,
-      "category": "ai bezpečnost",
-      "urlToImage": "https://regmedia.co.uk/2020/02/21/shutterstock_poison_pills.jpg",
-      "url": "/tech-news/2026-02-12/microsoft-warns-that-poisoned-ai-buttons-and-links/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "companies": [
-        "Microsoft"
-      ],
-      "people": []
-    },
-    {
-      "title": "Anthropic slibuje, že jeho datacentra vůbec nezvýší vaše účty za energie",
-      "description": "Společnost Anthropic se zavázala kompenzovat spotřebitelům jakékoli zvýšení cen energie způsobené provozem jejích vlastních datacenter. Pronajaté kapacity od Amazonu, Microsoftu a Google však pod tuto záruku nespadají.",
-      "slug": "anthropic-promises-its-datacenters-totally-wont-dr",
-      "publishedAt": "2026-02-12T00:47:13+00:00",
-      "date": "2026-02-12 00:47:13",
-      "importance": 4,
-      "category": "datacentra",
-      "urlToImage": "https://regmedia.co.uk/2026/02/12/electric_meter.jpg",
-      "url": "/tech-news/2026-02-12/anthropic-promises-its-datacenters-totally-wont-dr/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "companies": [
-        "Anthropic",
-        "Amazon",
-        "Microsoft",
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Pentagon tlačí na přední AI společnosti, aby rozšířily nástroje na tajné sítě, říkají zdroje",
-      "description": "Pentagon žádá společnosti jako OpenAI a Anthropic, aby učinily své modely umělé inteligence dostupnými na sítích s utajenými informacemi bez běžných omezení. Cílem je nasadit pokročilé AI schopnosti na všech úrovních utajení v kontextu budoucích vojenských operací.",
-      "slug": "exclusive-pentagon-pushing-ai-companies-to-expand-",
-      "publishedAt": "2026-02-12T00:45:40+00:00",
-      "date": "2026-02-12 00:45:40",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--AcdZX71Z--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-02-12T004540Z_1_LYNXMPEM1B01I_RTROPTP_3_USA-PENTAGON-AI.JPG?itok=s0QDQ_jS",
-      "url": "/tech-news/2026-02-12/exclusive-pentagon-pushing-ai-companies-to-expand/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNA"
-      },
-      "companies": [
-        "OpenAI",
-        "Anthropic"
-      ],
-      "people": []
-    },
-    {
-      "title": "Solowin Holdings oznámila dohodu o financování až 100 milionů USD se Streeterville Capital na podporu globální strategie digitálních aktiv",
-      "description": "Fintech společnost Solowin Holdings (Nasdaq: AXG) uzavřela smlouvu o koupi cenných papírů se Streeterville Capital na částku až 100 milionů USD. První tranche ve výši 5,415 milionů USD byla již dokončena a prostředky půjdou na expanzi stablecoinů, tokenizaci aktiv a výzkum v AI a blockchainu.",
-      "slug": "solowin-holdings-announces-up-to-us100m-financing-",
-      "publishedAt": "2026-02-12T00:40:00+00:00",
-      "date": "2026-02-12 00:40:00",
-      "importance": 4,
-      "category": "kryptoměny",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/e299ef47-c0b3-4803-95ed-09bbb16c1ece",
-      "url": "/tech-news/2026-02-12/solowin-holdings-announces-up-to-us100m-financing/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [
-        "SOLOWIN HOLDINGS"
       ],
       "people": []
     }
