@@ -24,6 +24,8 @@ Zamyslete se nad tím, jak zrovna váš obor promění snížení klíčového e
 
 A teď ta hlavní otázka: **jak je zrovna vaše odvětví náchylné na “disrupci” prostřednictvím AI?**
 
+> Pokud vaše firma vyvíjí software a chcete vědět, **jak na vývoj s AI**, mám pro vás [firemní workshop vývoje s Claude Code](https://www.aivefirmach.cz/claude-code-workshop/). 
+
 #### Triáda AI adaptace
 
 Definoval jsem si **matici tří hlavní aspektů**, které je potřeba zvážit:
