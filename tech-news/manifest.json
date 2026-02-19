@@ -1,7 +1,127 @@
 {
-  "generated": "2026-02-19T05:42:49.652229+00:00",
-  "count": 167,
+  "generated": "2026-02-19T09:04:00.510557+00:00",
+  "count": 173,
   "articles": [
+    {
+      "title": "NPCI spolupracuje s Nvidia na rozvoji suverénní AI infrastruktury pro digitální platby v Indii",
+      "description": "Národní korporace pro platební systémy Indie (NPCI) oznámila spolupráci s Nvidia na škálování suverénního AI modelu pro indický platební ekosystém. Iniciativa se zaměřuje na podporu velkých real-time platebních systémů s důrazem na důvěru, odolnost, bezpečnost a rozvoj ekosystému.",
+      "slug": "npci-collaborates-with-nvidia-to-advance-indias-so",
+      "publishedAt": "2026-02-18T08:14:00+00:00",
+      "date": "2026-02-18 08:14:00",
+      "importance": 4,
+      "category": "digitální platby",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-16950,resizemode-75,msid-128498830/tech/technology/npci-collaborates-with-nvidia-to-advance-indias-sovereign-ai-infrastructure-for-digital-payments.jpg",
+      "url": "/tech-news/2026-02-18/npci-collaborates-with-nvidia-to-advance-indias-so/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Skupina Adani investuje 100 miliard dolarů do datových center pro AI poháněných obnovitelnou energií do roku 2035",
+      "description": "Indická skupina Adani plánuje do roku 2035 investovat 100 miliard dolarů do datových center určených pro výpočty umělé inteligence, která budou napájena obnovitelnými zdroji energie. Tento krok má rozšířit kapacitu jejich platformy AdaniConnex z 2 GW na 5 GW a přilákat další investice v celkové výši 250 miliard dolarů.",
+      "slug": "adani-group-to-invest-100-billion-in-renewable-pow",
+      "publishedAt": "2026-02-18T07:58:58+00:00",
+      "date": "2026-02-18 07:58:58",
+      "importance": 4,
+      "category": "ai datacentra",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/mkncxv/article70646274.ece/alternates/LANDSCAPE_1200/Adani_Group_Logo.jpg",
+      "url": "/tech-news/2026-02-18/adani-group-to-invest-100-billion-in-renewable-pow/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Qualcomm slibuje až 150 milionů dolarů na podporu AI startupů v Indii",
+      "description": "Americká společnost Qualcomm plánuje investovat až 150 milionů dolarů do indických startupů prostřednictvím nového fondu zaměřeného na umělou inteligenci. Tento krok podtrhuje strategii rozšíření AI na zařízeních a sektorově specifických řešení v jednom z nejrychleji rostoucích technologických trhů světa.",
+      "slug": "qualcomm-commits-up-to-us150-million-to-back-ai-st",
+      "publishedAt": "2026-02-18T07:02:43+00:00",
+      "date": "2026-02-18 07:02:43",
+      "importance": 4,
+      "category": "ai startupy",
+      "urlToImage": "https://img.digitimes.com/newsshow/20260218vl209_files/1_2b.jpg",
+      "url": "/tech-news/2026-02-18/qualcomm-commits-up-to-us150-million-to-back-ai-st/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [
+        "Qualcomm"
+      ],
+      "people": []
+    },
+    {
+      "title": "Kvantové počítání pro vývojáře: Už ne vědecká fantastika",
+      "description": "Článek popisuje přechod kvantového počítání z akademického výzkumu do produkčních nasazení díky nástrojům Qiskit a Q#. V roce 2025 IBM, Microsoft a Google předvedly pokročilé procesory s praktickými aplikacemi v farmacii a financích.",
+      "slug": "quantum-computing-for-developers-not-science-ficti",
+      "publishedAt": "2026-02-18T06:48:00+00:00",
+      "date": "2026-02-18 06:48:00",
+      "importance": 5,
+      "category": "kvantové počítání",
+      "urlToImage": "https://www.javacodegeeks.com/wp-content/uploads/2012/10/software-development-2-logo.jpg",
+      "url": "/tech-news/2026-02-18/quantum-computing-for-developers-not-science-ficti/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Javacodegeeks.com"
+      },
+      "companies": [
+        "IBM"
+      ],
+      "people": []
+    },
+    {
+      "title": "Qualcomm slibuje až 150 milionů dolarů na strategický fond pro umělou inteligenci v Indii",
+      "description": "Oznámení přichází souběžně s účastí generálního ředitele Qualcomma Cristiana Amona na summitu India AI Impact v New Delhi.",
+      "slug": "qualcomm-commits-up-to-150-mn-for-strategic-ai-ven",
+      "publishedAt": "2026-02-18T06:45:14+00:00",
+      "date": "2026-02-18 06:45:14",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/et504e/article70643181.ece/alternates/LANDSCAPE_1200/2026-02-04T232650Z_1815185476_RC2KEGAGOWC4_RTRMADP_3_QUALCOMM-RESULTS.JPG",
+      "url": "/tech-news/2026-02-18/qualcomm-commits-up-to-150-mn-for-strategic-ai-ven/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "companies": [
+        "Qualcomm"
+      ],
+      "people": [
+        "Cristiano Amon"
+      ]
+    },
+    {
+      "title": "Událost Apple 4. března: Co potřebujete vědět",
+      "description": "Apple oficiálně potvrdilo událost 4. března v New Yorku, Šanghaji a Londýně, zaměřenou na aktualizace budgetové a střední řady produktů. Mezi hlavními tématy budou iPhone 17e, iPad 12. generace a nový MacBook za 599 dolarů.",
+      "slug": "march-4th-apple-event-what-you-need-to-know",
+      "publishedAt": "2026-02-18T06:30:10+00:00",
+      "date": "2026-02-18 06:30:10",
+      "importance": 4,
+      "category": "hardware",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/02/iphone-17e-dynamic-island-purple-color_optimized.jpg",
+      "url": "/tech-news/2026-02-18/march-4th-apple-event-what-you-need-to-know/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
     {
       "title": "Asijské akcie rostou, zatímco většina trhů zůstává zavřená kvůli Novému roku podle lunárního kalendáře",
       "description": "Akcie v Asii mírně rostou, přičemž japonský benchmark index vzrostl o více než 1 procento po klidném závěru amerických trhů. Většina asijských burz zůstala zavřená kvůli svátkům Nového roku, americké futures stagnují a ceny ropy lehce stoupají.",
