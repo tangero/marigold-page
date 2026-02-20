@@ -1,7 +1,84 @@
 {
-  "generated": "2026-02-20T08:57:30.572862+00:00",
-  "count": 164,
+  "generated": "2026-02-20T12:59:48.271859+00:00",
+  "count": 168,
   "articles": [
+    {
+      "title": "Merck a Mayo Clinic spouštějí partnerství pro objevování léků poháněné umělou inteligencí",
+      "description": "Merck a Mayo Clinic spolupracují na objevování léků s využitím umělé inteligence, kde kombinují nástroje AI a strojového učení Mercka s platformou Mayo Clinic a jejími klinickými daty pro lepší rozhodování v raných fázích vývoje.",
+      "slug": "merck-mayo-clinic-launch-ai-driven-drug-discovery-",
+      "publishedAt": "2026-02-19T12:15:00+00:00",
+      "date": "2026-02-19 12:15:00",
+      "importance": 4,
+      "category": "objevování léků",
+      "urlToImage": "https://www.techtarget.com/rms/onlineimages/pharma_g1317416781.jpg",
+      "url": "/tech-news/2026-02-19/merck-mayo-clinic-launch-ai-driven-drug-discovery/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Techtarget.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Apple C2 modem: Proč iPhone 18 Pro definitivně opouští Qualcomm",
+      "description": "Očekávané uvedení iPhonu 18 Pro v roce 2026 může představovat důležitý milník v mobilní konektivitě díky vlastnímu modemu C2 od Apple. Tato technologie přinese satelitní 5G schopnosti pomocí neterestrické sítě (NTN), které zajistí připojení v oblastech bez tradičního mobilního pokrytí.",
+      "slug": "apples-c2-modem-why-the-iphone-18-pro-is-ditching-",
+      "publishedAt": "2026-02-19T12:00:17+00:00",
+      "date": "2026-02-19 12:00:17",
+      "importance": 4,
+      "category": "mobilní hardware",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/02/iphone-18-pro-c2-modem-satellite-5g_optimized.jpg",
+      "url": "/tech-news/2026-02-19/apples-c2-modem-why-the-iphone-18-pro-is-ditching/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [
+        "Apple",
+        "Qualcomm"
+      ],
+      "people": []
+    },
+    {
+      "title": "Karnataka uzavírá partnerství s Francií a Polskem v oblasti startupů a inovací na AI summitu",
+      "description": "Stát Karnataka podepsal dva dopisy o záměru s francouzským VivaTech a polskými partnery z regionu Katowice na India AI Impact Summit v Dillí. Spolupráce se zaměřuje na vytvoření koridoru pro startupy a inovace v oblastech jako AI, deeptech a gaming.",
+      "slug": "karnataka-ties-up-with-france-and-poland-on-startu",
+      "publishedAt": "2026-02-19T11:59:23+00:00",
+      "date": "2026-02-19 11:59:23",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-96318,resizemode-75,msid-128556706/tech/technology/karnataka-ties-up-with-france-and-poland-on-startup-and-innovation-at-ai-summit.jpg",
+      "url": "/tech-news/2026-02-19/karnataka-ties-up-with-france-and-poland-on-startu/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Nové kolo financování OpenAI by mohlo překročit 100 miliard dolarů",
+      "description": "Nejnovější kolo financování OpenAI by podle zpráv Bloomberg mohlo ocenit společnost na více než 850 miliard dolarů. První fáze by měla přinést přes 100 miliard dolarů od investorů včetně Amazonu, SoftBanku, Nvidia a Microsoftu.",
+      "slug": "openais-new-funding-round-could-exceed-100-billion",
+      "publishedAt": "2026-02-19T11:52:36+00:00",
+      "date": "2026-02-19 11:52:36",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/01/OpenAI-ARR1.jpg",
+      "url": "/tech-news/2026-02-19/openais-new-funding-round-could-exceed-100-billion/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
     {
       "title": "Altman z OpenAI: Svět 'naléhavě' potřebuje regulaci umělé inteligence",
       "description": "Šéf OpenAI Sam Altman na globální konferenci o umělé inteligenci v New Delhi prohlásil, že svět urgentně potřebuje regulovat rychle se vyvíjející technologii AI. Navrhl založení mezinárodní organizace podobné Mezinárodní agentuře pro atomovou energie (IAEA) pro koordinaci snah.",
