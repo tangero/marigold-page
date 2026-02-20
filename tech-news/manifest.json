@@ -1,7 +1,150 @@
 {
-  "generated": "2026-02-20T05:36:33.051567+00:00",
-  "count": 157,
+  "generated": "2026-02-20T08:57:30.572862+00:00",
+  "count": 164,
   "articles": [
+    {
+      "title": "Altman z OpenAI: Svět 'naléhavě' potřebuje regulaci umělé inteligence",
+      "description": "Šéf OpenAI Sam Altman na globální konferenci o umělé inteligenci v New Delhi prohlásil, že svět urgentně potřebuje regulovat rychle se vyvíjející technologii AI. Navrhl založení mezinárodní organizace podobné Mezinárodní agentuře pro atomovou energie (IAEA) pro koordinaci snah.",
+      "slug": "openais-altman-says-world-urgently-needs-ai-regula",
+      "publishedAt": "2026-02-19T08:09:11+00:00",
+      "date": "2026-02-19 08:09:11",
+      "importance": 4,
+      "category": "regulace ai",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-5234,resizemode-75,msid-128546812/tech/artificial-intelligence/openais-altman-says-world-urgently-needs-ai-regulation.jpg",
+      "url": "/tech-news/2026-02-19/openais-altman-says-world-urgently-needs-ai-regula/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": [
+        "Sam Altman"
+      ]
+    },
+    {
+      "title": "AGI by mohlo být transformující více než Průmyslová revoluce: CEO Google DeepMind Demis Hassabis",
+      "description": "Demis Hassabis označil současnou chvíli za jednu z nejdůležitějších v lidské historii a prohlásil, že AGI je na obzoru s dopadem desetkrát větším než Průmyslová revoluce a desetkrát rychlejším. Zdůraznil však, že je nutné zajistit, aby toto vývoj prospěl celému světu.",
+      "slug": "agi-could-be-more-transformative-than-the-industri",
+      "publishedAt": "2026-02-19T08:06:12+00:00",
+      "date": "2026-02-19 08:06:12",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-869129,resizemode-75,msid-128546740/tech/technology/agi-could-be-more-transformative-than-the-industrial-revolution-google-deepmind-ceo-demis-hassabis.jpg",
+      "url": "/tech-news/2026-02-19/agi-could-be-more-transformative-than-the-industri/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Google DeepMind"
+      ],
+      "people": [
+        "Demis Hassabis"
+      ]
+    },
+    {
+      "title": "Newsletter CNBC Inside India: Indie se vrhá do AI – ale stojí za tituly látka?",
+      "description": "Mezi překážkami patří nedostatek regulace dostatečně jasné k přilákání špičkových AI firem do Indie a potřeba infuze kapitálu.",
+      "slug": "cnbcs-inside-india-newsletter-india-is-throwing-it",
+      "publishedAt": "2026-02-19T07:44:44+00:00",
+      "date": "2026-02-19 07:44:44",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108267159-1771485255410-gettyimages-2261852646-AFP_984Y6XU.jpeg?v=1771485264&w=1920&h=1080",
+      "url": "/tech-news/2026-02-19/cnbcs-inside-india-newsletter-india-is-throwing-it/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "CNBC Daily Open: Pozitivní den pro americké a evropské trhy uprostřed minut Fedu a vývoje ECB",
+      "description": "Obchodníci odhadují přibližně 50% šanci na snížení úrokových sazeb Fedem v červnu. Měli by také zvážit možnost vyšších úrokových sazeb.",
+      "slug": "cnbc-daily-open-positive-day-for-us-and-european-m",
+      "publishedAt": "2026-02-19T07:30:01+00:00",
+      "date": "2026-02-19 07:30:01",
+      "importance": 4,
+      "category": "finanční trhy",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108173449-1752769806696-gettyimages-2225616563-mms17401_gnkcujwo.jpeg?v=1752769847&w=1920&h=1080",
+      "url": "/tech-news/2026-02-19/cnbc-daily-open-positive-day-for-us-and-european-m/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "OpenAI a JioHotstar společně uvádějí objevování obsahu poháněné ChatGPT v Indii",
+      "description": "JioHotstar spolupracuje s OpenAI na integraci technologie ChatGPT do nejpoužívanější streamovací služby v Indii, což umožní téměř půl miliardě měsíčních uživatelů hledat obsah přirozeným jazykem mluveným nebo psaným místo konvenčního procházení menu.",
+      "slug": "openai-jiohotstar-partner-to-launch-chatgpt-powere",
+      "publishedAt": "2026-02-19T07:24:50+00:00",
+      "date": "2026-02-19 07:24:50",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://variety.com/wp-content/uploads/2026/02/OpenAI-JioHotstar.jpg?w=1000&h=563&crop=1",
+      "url": "/tech-news/2026-02-19/openai-jiohotstar-partner-to-launch-chatgpt-powere/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Variety"
+      },
+      "companies": [
+        "OpenAI",
+        "JioHotstar"
+      ],
+      "people": []
+    },
+    {
+      "title": "Cisco a Qunnect hlásí kvantové prvenství při propojení datového centra",
+      "description": "Síťový gigant Cisco spolupracuje s firmou Qunnect na škálovatelných kvantových sítích na demonstraci kvantového networkingu spojující datové centrum se dvěma výzkumnými zařízeními v New Yorku. Jde o údajně první úspěšný entanglement-swapping na nasazené městské optické síti.",
+      "slug": "cisco-qunnect-claim-quantum-first-with-datacentre-",
+      "publishedAt": "2026-02-19T07:15:00+00:00",
+      "date": "2026-02-19 07:15:00",
+      "importance": 5,
+      "category": "kvantové sítě",
+      "urlToImage": "https://www.computerweekly.com/visuals/German/article/Hero-quantum-computing-abangaboy-adobe.jpg",
+      "url": "/tech-news/2026-02-19/cisco-qunnect-claim-quantum-first-with-datacentre/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "ComputerWeekly.com"
+      },
+      "companies": [
+        "Cisco",
+        "Qunnect"
+      ],
+      "people": []
+    },
+    {
+      "title": "Telefónica a Mavenir uzavírají strategické partnerství pro urychlení inovací v AI v telekomunikacích",
+      "description": "Telefónica a Mavenir podepsaly memorandum o porozumění pro vytvoření společného centra AI Innovation Hub, které urychlí integraci umělé inteligence do jádra telekomunikačních sítí. Na Mobile World Congress (#MWC26) představí živé demonstrace pokročilých použití.",
+      "slug": "telefónica-and-mavenir-forge-strategic-partnership",
+      "publishedAt": "2026-02-19T07:01:04+00:00",
+      "date": "2026-02-19 07:01:04",
+      "importance": 4,
+      "category": "telekomunikace",
+      "urlToImage": null,
+      "url": "/tech-news/2026-02-19/telefónica-and-mavenir-forge-strategic-partnership/",
+      "source": {
+        "emoji": "📰",
+        "id": "financial-post",
+        "name": "Financial Post"
+      },
+      "companies": [
+        "Telefónica",
+        "Mavenir"
+      ],
+      "people": []
+    },
     {
       "title": "Google zakládá komplexní centrum pro umělou inteligenci, součást naší investice 15 miliard USD do Indie: Sundar Pichai",
       "description": "Tato významná oznámení podtrhuje rozšíření přítomnosti Google v Indii a proměnu Visakhapatnamu v globální uzel pro umělou inteligenci.",
