@@ -1,7 +1,138 @@
 {
-  "generated": "2026-02-20T16:48:18.331619+00:00",
-  "count": 171,
+  "generated": "2026-02-20T21:13:40.792307+00:00",
+  "count": 177,
   "articles": [
+    {
+      "title": "Valar Atomics dosáhla jako první soukromá firma v USA „zero power criticality“ v reaktoru NOVA Core",
+      "description": "Kalifornská společnost Valar Atomics oznámila klíčový milník v jaderné energii. Dosáhla studené criticality v reaktoru NOVA Core, což otevírá cestu k nové generaci jaderných technologií v USA.",
+      "slug": "nova-core-becomes-the-first-private-company-in-the",
+      "publishedAt": "2026-02-19T20:48:48+00:00",
+      "date": "2026-02-19 20:48:48",
+      "importance": 5,
+      "category": "jaderná energie",
+      "urlToImage": "https://twistedsifter.com/wp-content/uploads/2026/01/Nuclear-reactor-1.jpg",
+      "url": "/tech-news/2026-02-19/nova-core-becomes-the-first-private-company-in-the/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Twistedsifter.com"
+      },
+      "companies": [
+        "NOVA Core"
+      ],
+      "people": []
+    },
+    {
+      "title": "Paměťový supercyklus nadešel – financování AI na něj nalévá palivo",
+      "description": "Financování umělé inteligence pokračuje bez únavy, když World Labs a Ineffable Intelligence získaly po jedné miliardě dolarů, ta druhá dokonce bez hotového produktu. OpenAI prý sbírá 100 miliard dolarů při valuaci 850 miliard, což pohání strukturální růst paměťového trhu polovodičů.",
+      "slug": "the-memory-supercycle-is-here-and-the-ai-funding-f",
+      "publishedAt": "2026-02-19T20:46:41+00:00",
+      "date": "2026-02-19 20:46:41",
+      "importance": 4,
+      "category": "ai financování",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/502designs-ram-pixabay.jpg",
+      "url": "/tech-news/2026-02-19/the-memory-supercycle-is-here-and-the-ai-funding-f/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "World Labs Inc",
+        "Ineffable Intelligence Inc",
+        "OpenAI Group PBC"
+      ],
+      "people": []
+    },
+    {
+      "title": "Sea spolupracuje s Googlem na AI pro Garenu, Shopee a Monee",
+      "description": "Globální technologická společnost Sea navázala rozšířené partnerství s Googlem na vývoj AI inovací pro své klíčové divize: herní Garenu, e-commerce platformu Shopee a poskytovatele finančních služeb Monee. Spolupráce zahrnuje agentické prototypy pro nákupy i platby a vylepšení herních zážitků.",
+      "slug": "sea-arms-shopee-and-monee-with-google-ai-tools",
+      "publishedAt": "2026-02-19T20:32:47+00:00",
+      "date": "2026-02-19 20:32:47",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/02/Sea-Google1.jpg",
+      "url": "/tech-news/2026-02-19/sea-arms-shopee-and-monee-with-google-ai-tools/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [
+        "Sea",
+        "Google",
+        "Garena"
+      ],
+      "people": []
+    },
+    {
+      "title": "Pozoruhodné: Šéf OpenAI Sam Altman chválí čínský průmysl umělé inteligence",
+      "description": "Generální ředitel OpenAI Sam Altman označil pokrok čínských technologických firem za „pozoruhodný“ v rozhovoru pro CNBC a pochválil rychlost jejich vývoje AI. Toto vyjádření podtrhuje rostoucí konkurenci v globálním AI sektoru.",
+      "slug": "remarkable-openai-boss-sam-altman-lavishes-praise-",
+      "publishedAt": "2026-02-19T20:19:57+00:00",
+      "date": "2026-02-19 20:19:57",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://media.breitbart.com/media/2026/02/GettyImages-2236544323-3-640x335.jpg",
+      "url": "/tech-news/2026-02-19/remarkable-openai-boss-sam-altman-lavishes-praise/",
+      "source": {
+        "emoji": "📰",
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": [
+        "Sam Altman"
+      ]
+    },
+    {
+      "title": "Město Starbase společnosti SpaceX získává vlastní soud",
+      "description": "Firemní město Elona Muska v Texasu již má dobrovolnický hasičský sbor a vytváří policejní oddělení Starbase. Nyní navrhuje zřízení vlastního municipálního soudu.",
+      "slug": "spacexs-starbase-city-is-getting-its-own-court-tec",
+      "publishedAt": "2026-02-19T19:55:30+00:00",
+      "date": "2026-02-19 19:55:30",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/04/51972205671_3569af21bb_k.jpg?resize=1200,899",
+      "url": "/tech-news/2026-02-19/spacexs-starbase-city-is-getting-its-own-court-tec/",
+      "source": {
+        "emoji": "🚀",
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "companies": [
+        "SpaceX",
+        "TechCrunch"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Kontroverzní šéf AI Meta Alexandr Wang představuje svůj plán na superinteligenci",
+      "description": "Alexandr Wang tvrdí, že obrovský globální dosah Meta jí dává rozhodující výhodu při poskytování „osobní superinteligence“, která bude přizpůsobená cílům a zájmům každého uživatele.",
+      "slug": "metas-controversial-ai-chief-alexandr-wang-outline",
+      "publishedAt": "2026-02-19T19:12:22+00:00",
+      "date": "2026-02-19 19:12:22",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://observer.com/wp-content/uploads/sites/2/2026/02/GettyImages-2261860333.jpg?quality=80",
+      "url": "/tech-news/2026-02-19/metas-controversial-ai-chief-alexandr-wang-outline/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Observer"
+      },
+      "companies": [
+        "Meta"
+      ],
+      "people": [
+        "Alexandr Wang"
+      ]
+    },
     {
       "title": "Qualtrics spolupracuje s CrowdStrike na ochraně AI-řízených zkušeností zákazníků a zaměstnanců",
       "description": "V době, kdy zneužití dat představuje největší obavu v souvislosti s AI, integrace přináší automatizované bezpečnostní kontroly a lepší viditelnost přímo v platformě Qualtrics.",
