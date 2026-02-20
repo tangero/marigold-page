@@ -1,7 +1,117 @@
 {
-  "generated": "2026-02-19T20:45:37.910763+00:00",
-  "count": 188,
+  "generated": "2026-02-20T01:30:57.576382+00:00",
+  "count": 193,
   "articles": [
+    {
+      "title": "Google spouští model Lyria 3 pro generování hudby",
+      "description": "Společnost Google LLC představila model umělé inteligence Lyria 3, který umožňuje uživatelům generovat krátké skladby. Model se zavádí do aplikace Gemini a funkce Dream Track v YouTube pro tvůrce obsahu.",
+      "slug": "google-launches-lyria-3-music-generation-model",
+      "publishedAt": "2026-02-19T01:05:15+00:00",
+      "date": "2026-02-19 01:05:15",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Google.png",
+      "url": "/tech-news/2026-02-19/google-launches-lyria-3-music-generation-model/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nvidia podporuje indickou snahu o suverénní AI gigawattovou infrastrukturou",
+      "description": "Společnost Nvidia oznámila partnerství s indickými firmami L&T, Yotta a E2E Networks na summitu AI Impact v Dillí, kde plánuje nasadit desítky tisíc Blackwell GPU pro podporu národní mise IndiaAI. Tato iniciativa má zajistit domácí výpočetní kapacity pro trénink modelů a aplikace AI, včetně projektu BharatGen.",
+      "slug": "nvidia-backs-indias-sovereign-ai-push-with-gigawat",
+      "publishedAt": "2026-02-19T00:30:00+00:00",
+      "date": "2026-02-19 00:30:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/Hero Images/India-trade-networking-outsourcing-adobe.jpeg",
+      "url": "/tech-news/2026-02-19/nvidia-backs-indias-sovereign-ai-push-with-gigawat/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "ComputerWeekly.com"
+      },
+      "companies": [
+        "Nvidia",
+        "L&T",
+        "Yotta",
+        "E2E Networks"
+      ],
+      "people": []
+    },
+    {
+      "title": "Strategie Indie v mobilním internetu jí může pomoci překočit i v AI",
+      "description": "Generální ředitel Qualcommu Cristiano Amon tvrdí, že Indie má potenciál stát se lídrem v umělé inteligenci podobně jako v mobilním internetu díky své velikosti, mladé populaci a rozvinutému mobilnímu ekosystému. Zdůraznil roli suverénní AI a hybridních architektur pro kontextově citlivé agenty a oznámil fond 150 milionů dolarů na investice do indických AI startupů.",
+      "slug": "indias-mobile-net-playbook-can-help-it-leapfrog-in",
+      "publishedAt": "2026-02-19T00:30:00+00:00",
+      "date": "2026-02-19 00:30:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-415392,resizemode-75,msid-128524520/tech/artificial-intelligence/indias-mobile-net-playbook-can-help-it-leapfrog-in-ai-too.jpg",
+      "url": "/tech-news/2026-02-19/indias-mobile-net-playbook-can-help-it-leapfrog-in/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Qualcomm"
+      ],
+      "people": [
+        "Cristiano Amon"
+      ]
+    },
+    {
+      "title": "Saúdská Humain podpořila ambice Elona Muska v AI investicí 3 miliard dolarů do xAI",
+      "description": "Společnost Humain ze saudského Veřejného investičního fondu (PIF), zaměřená na umělou inteligenci, investovala 3 miliardy dolarů do kola Series E financování xAI těsně před akvizicí této firmy společností SpaceX. Její podíl se převedl na akcie SpaceX, čímž se Humain stala významným menšinovým akcionářem.",
+      "slug": "saudi-arabias-humain-backs-elon-musks-ai-ambitions",
+      "publishedAt": "2026-02-19T00:06:38+00:00",
+      "date": "2026-02-19 00:06:38",
+      "importance": 5,
+      "category": "ai",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/02/xAI-Humain-investments.jpeg",
+      "url": "/tech-news/2026-02-19/saudi-arabias-humain-backs-elon-musks-ai-ambitions/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [
+        "Humain",
+        "xAI",
+        "SpaceX"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "„Jako AlphaFold 4“ – vědci obdivují exkluzivní novou umělou inteligenci od spin-offu DeepMind pro objev léků",
+      "description": "Proprietární model Isomorphic Labs pro objev léků IsoDDE představuje velký pokrok v predikci interakcí proteinů s molekulami, vědci ho přirovnávají k AlphaFold 4. Vyvíječi open-source nástrojů však nemají přístup k detailům, jak tyto výsledky dosáhnout.",
+      "slug": "an-alphafold-4-scientists-marvel-at-deepmind-drug-",
+      "publishedAt": "2026-02-19T00:00:00+00:00",
+      "date": "2026-02-19 00:00:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-00365-7/d41586-026-00365-7_52074752.jpg",
+      "url": "/tech-news/2026-02-19/an-alphafold-4-scientists-marvel-at-deepmind-drug/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Nature.com"
+      },
+      "companies": [
+        "DeepMind",
+        "Isomorphic Labs"
+      ],
+      "people": []
+    },
     {
       "title": "Připoutejte se: Nový fond umožní běžným investorům koupit akcie SpaceX",
       "description": "Fond Powerlaw Corp otevře běžným investorům přístup k akciím soukromých firem jako SpaceX dříve než očekávané IPO. Prostřednictvím přímého listování nabídne podíly v portfoliu zahrnujícím AI společnosti OpenAI nebo Anthropic.",
