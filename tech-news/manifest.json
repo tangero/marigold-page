@@ -1,7 +1,72 @@
 {
-  "generated": "2026-02-20T12:59:48.271859+00:00",
-  "count": 168,
+  "generated": "2026-02-20T16:48:18.331619+00:00",
+  "count": 171,
   "articles": [
+    {
+      "title": "Qualtrics spolupracuje s CrowdStrike na ochraně AI-řízených zkušeností zákazníků a zaměstnanců",
+      "description": "V době, kdy zneužití dat představuje největší obavu v souvislosti s AI, integrace přináší automatizované bezpečnostní kontroly a lepší viditelnost přímo v platformě Qualtrics.",
+      "slug": "qualtrics-taps-crowdstrike-to-safeguard-ai-driven-",
+      "publishedAt": "2026-02-19T16:24:04+00:00",
+      "date": "2026-02-19 16:24:04",
+      "importance": 4,
+      "category": "kybernetika",
+      "urlToImage": "https://www.cmswire.com/-/media/18114d6d7b1a4a35aaba659522752922.ashx",
+      "url": "/tech-news/2026-02-19/qualtrics-taps-crowdstrike-to-safeguard-ai-driven/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CMSWire"
+      },
+      "companies": [
+        "Qualtrics",
+        "CrowdStrike"
+      ],
+      "people": []
+    },
+    {
+      "title": "Sam Altman: Ani práce generálního ředitele není bezpečná před AI, brzy ji bude zvládat lépe než já",
+      "description": "Generální ředitel OpenAI Sam Altman na summitu v New Delhi varoval, že superinteligence AI brzy nahradí i role vrcholových manažerů včetně jeho vlastní. Odhaduje, že rané verze superinteligence jsou jen pár let daleko a více intelektuální kapacity světa by mohlo sídlit v datových centrech než mimo ně.",
+      "slug": "sam-altman-says-not-even-the-ceos-job-is-safe-from",
+      "publishedAt": "2026-02-19T16:15:42+00:00",
+      "date": "2026-02-19 16:15:42",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2261852386-e1771516761517.jpg?resize=1200,600",
+      "url": "/tech-news/2026-02-19/sam-altman-says-not-even-the-ceos-job-is-safe-from/",
+      "source": {
+        "emoji": "📰",
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": [
+        "Sam Altman"
+      ]
+    },
+    {
+      "title": "Důvod, proč Elon Musk zastavuje výrobu dvou modelů Tesla: Zaměření na roboty",
+      "description": "Elon Musk oznámil, že Tesla ukončí výrobu svých vlajkových modelů, aby přesunula zdroje do vývoje robotů. Tento krok představuje rizikovou strategii s potenciálem změnit směr společnosti.",
+      "slug": "the-shocking-futuristic-reason-why-elon-musk-is-st",
+      "publishedAt": "2026-02-19T15:37:40+00:00",
+      "date": "2026-02-19 15:37:40",
+      "importance": 4,
+      "category": "robotika",
+      "urlToImage": "https://s.yimg.com/os/en/barchart_com_477/393ce00a7c473fbc123fc0a1aff59c80",
+      "url": "/tech-news/2026-02-19/the-shocking-futuristic-reason-why-elon-musk-is-st/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Barchart.com"
+      },
+      "companies": [
+        "Tesla"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
     {
       "title": "Merck a Mayo Clinic spouštějí partnerství pro objevování léků poháněné umělou inteligencí",
       "description": "Merck a Mayo Clinic spolupracují na objevování léků s využitím umělé inteligence, kde kombinují nástroje AI a strojového učení Mercka s platformou Mayo Clinic a jejími klinickými daty pro lepší rozhodování v raných fázích vývoje.",
