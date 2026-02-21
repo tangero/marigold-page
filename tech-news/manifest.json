@@ -1,7 +1,125 @@
 {
-  "generated": "2026-02-21T08:45:30.331184+00:00",
-  "count": 170,
+  "generated": "2026-02-21T12:54:09.697680+00:00",
+  "count": 176,
   "articles": [
+    {
+      "title": "Softwareová průmyslová revoluce",
+      "description": "Stejně jako první průmyslová revoluce toto změní svět hlubokým a neočekávaným způsobem. Koncem roku 2025 došlo k průlomu v AI, kdy coding agenti na bázi umělé inteligence začali fungovat spolehlivě.",
+      "slug": "the-software-industrial-revolution",
+      "publishedAt": "2026-02-20T12:26:24+00:00",
+      "date": "2026-02-20 12:26:24",
+      "importance": 5,
+      "category": "software",
+      "urlToImage": null,
+      "url": "/tech-news/2026-02-20/the-software-industrial-revolution/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Cannoneyed.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "G42 ze SAE spolupracuje s Cerebras na nasazení 8 exaflops výpočetního výkonu v Indii",
+      "description": "Technologická společnost G42 z Abu Dhabi se spojila s americkým výrobcem čipů Cerebras na výstavbě superpočítačového systému s osmi exaflopsy v Indii. Systém bude hostovat lokální AI aplikace s dodržením indických pravidel pro data a bezpečnost.",
+      "slug": "uaes-g42-teams-up-with-cerebras-to-deploy-8-exaflo",
+      "publishedAt": "2026-02-20T12:00:56+00:00",
+      "date": "2026-02-20 12:00:56",
+      "importance": 4,
+      "category": "superpočítače",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/02/Super-computer-G42.jpg?resize=1200,676",
+      "url": "/tech-news/2026-02-20/uaes-g42-teams-up-with-cerebras-to-deploy-8-exaflo/",
+      "source": {
+        "emoji": "🚀",
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "companies": [
+        "G42",
+        "Cerebras"
+      ],
+      "people": []
+    },
+    {
+      "title": "Oddaluje se OpenAI záměrně od bezpečnosti?",
+      "description": "OpenAI odstranila slovo 'safely' ze své mise v daňovém přiznání za rok 2024 a nedávno rozpustila tým pro sladění mise. Tyto změny vyvolávají otázky o priority společnosti v oblasti bezpečnosti AI.",
+      "slug": "is-openai-intentionally-distancing-itself-from-saf",
+      "publishedAt": "2026-02-20T12:00:00+00:00",
+      "date": "2026-02-20 12:00:00",
+      "importance": 4,
+      "category": "ai bezpečnost",
+      "urlToImage": "https://www.annielytics.com/wp-content/uploads/2026/02/openai-safety-feature-1024x647.png",
+      "url": "/tech-news/2026-02-20/is-openai-intentionally-distancing-itself-from-saf/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Annielytics.com"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Bitdeer oznámil cenu navýšené emise konvertibilních senior notes v hodnotě 325 milionů USD",
+      "description": "Společnost Bitdeer Technologies Group, která se zaměřuje na těžbu Bitcoinu a infrastrukturu pro umělou inteligenci, oznámila cenu emise konvertibilních senior notes v celkové výši 325 milionů USD. Emise byla navýšena z původních 300 milionů USD a zahrnuje opci na dalších 50 milionů USD.",
+      "slug": "bitdeer-announces-pricing-of-upsized-us3250-millio",
+      "publishedAt": "2026-02-20T12:00:00+00:00",
+      "date": "2026-02-20 12:00:00",
+      "importance": 4,
+      "category": "kryptoměny",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/8dcb3262-930d-4572-9bf7-a5d312e46bdf",
+      "url": "/tech-news/2026-02-20/bitdeer-announces-pricing-of-upsized-us3250-millio/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [
+        "Bitdeer Technologies Group"
+      ],
+      "people": []
+    },
+    {
+      "title": "Tech Download: Vyhraje Čína závod v AI?",
+      "description": "Technologičtí lídři stále více věnují pozornost vývoji umělé inteligence v Číně. Analytik předpovídá, že většina světové populace by mohla za 5 až 10 let běžet na čínském technologickém zásobníku.",
+      "slug": "the-tech-download-will-china-win-the-ai-race",
+      "publishedAt": "2026-02-20T11:58:55+00:00",
+      "date": "2026-02-20 11:58:55",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108095040-1738260179980-gettyimages-2196090843-19DeepSeekLogoIllustration2025.jpeg?v=1771584808&w=1920&h=1080",
+      "url": "/tech-news/2026-02-20/the-tech-download-will-china-win-the-ai-race/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Androidový malware unáší Google Gemini k udržení skrytosti",
+      "description": "Výzkumníci ESETu objevili nový Android malware PromptSpy, který využívá generativní AI Google Gemini k zajištění persistence na zařízení. Tento implant umožňuje vzdálené ovládání obrazovky a byl distribuován maskován jako aplikace JPMorgan Argentina.",
+      "slug": "android-malware-hijacks-google-gemini-to-stay-hidd",
+      "publishedAt": "2026-02-20T11:35:00+00:00",
+      "date": "2026-02-20 11:35:00",
+      "importance": 5,
+      "category": "kybernetika",
+      "urlToImage": "https://assets.infosecurity-magazine.com/webpage/og/6ee31d88-27c2-425a-924f-bfcb90db0a6e.jpg",
+      "url": "/tech-news/2026-02-20/android-malware-hijacks-google-gemini-to-stay-hidd/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Infosecurity Magazine"
+      },
+      "companies": [
+        "Google",
+        "ESET"
+      ],
+      "people": []
+    },
     {
       "title": "Anthropic zakazuje OpenClaw a OAuth tokeny v aplikacích třetích stran",
       "description": "Anthropic oznámil zákaz používání svých OAuth tokenů s aplikacemi třetích stran, což ovlivňuje nedávno OpenAI koupený OpenClaw, jak je uvedeno v aktualizovaných podmínkách služby. Podle Alexa Finna se tato politika vztahuje i na integrace s Agent SDK, což výrazně omezuje externí propojení v ekosystému Anthropic.",
