@@ -1,7 +1,146 @@
 {
-  "generated": "2026-02-21T05:25:23.929770+00:00",
-  "count": 163,
+  "generated": "2026-02-21T08:45:30.331184+00:00",
+  "count": 170,
   "articles": [
+    {
+      "title": "Anthropic zakazuje OpenClaw a OAuth tokeny v aplikacích třetích stran",
+      "description": "Anthropic oznámil zákaz používání svých OAuth tokenů s aplikacemi třetích stran, což ovlivňuje nedávno OpenAI koupený OpenClaw, jak je uvedeno v aktualizovaných podmínkách služby. Podle Alexa Finna se tato politika vztahuje i na integrace s Agent SDK, což výrazně omezuje externí propojení v ekosystému Anthropic.",
+      "slug": "anthropic-bans-openclaw-and-oauth-tokens-in-simila",
+      "publishedAt": "2026-02-20T08:11:00+00:00",
+      "date": "2026-02-20 08:11:00",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/02/anthropic-oauth-token-ban-overview_optimized.jpg",
+      "url": "/tech-news/2026-02-20/anthropic-bans-openclaw-and-oauth-tokens-in-simila/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [
+        "Anthropic",
+        "OpenClaw",
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Indie se připojuje k iniciativě vedené USA pro budování bezpečných dodavatelských řetězců technologií",
+      "description": "Indie vstoupila do iniciativy Pax Silica vedené USA, která má posílit spolupráci v oblasti polovodičů a kritických technologií mezi spojenci. Tento krok podtrhuje zlepšující se vztahy po napětí spojeném s nákupy levné ruské ropy.",
+      "slug": "india-joins-us-led-initiative-to-build-secure-tech",
+      "publishedAt": "2026-02-20T07:18:43+00:00",
+      "date": "2026-02-20 07:18:43",
+      "importance": 4,
+      "category": "dodavatelské řetězce",
+      "urlToImage": "https://i.abcnewsfe.com/a/2dba7301-090d-454c-a954-4b6087fa9b71/wirestory_994d1cea76275cae7649fb8dcec13125_16x9.jpg?w=1600",
+      "url": "/tech-news/2026-02-20/india-joins-us-led-initiative-to-build-secure-tech/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "General Catalyst investuje 5 miliard dolarů do Indie během pěti let",
+      "description": "Tento závazek představuje prudký nárůst oproti dřívějšímu plánu General Catalyst na 500 milionů až 1 miliardu dolarů pro Indii. Investice cílí na startupy v AI, zdravotnictví, obranných technologiích, fintechu a spotřební technologiích.",
+      "slug": "general-catalyst-commits-5b-to-india-over-five-yea",
+      "publishedAt": "2026-02-20T06:44:02+00:00",
+      "date": "2026-02-20 06:44:02",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-605683074-e1729770670902.jpg?resize=1200,800",
+      "url": "/tech-news/2026-02-20/general-catalyst-commits-5b-to-india-over-five-yea/",
+      "source": {
+        "emoji": "🚀",
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "AI přináší hyperprogres a pomůže rozvojovým ekonomikám přeskakovat, tvrdí šéf Google Pichai",
+      "description": "Google staví full-stack AI hub v indickém Visakhapatnamu v Andhra Pradesh jako součást 15miliardové investice do infrastruktury. Zařízení nabídne gigawattovou výpočetní kapacitu a novou bránu pro podmořské kabely, což má rozšířit přístup k AI a vytvořit pracovní místa.",
+      "slug": "ai-ushers-in-hyper-progress-can-help-emerging-econ",
+      "publishedAt": "2026-02-20T06:32:05+00:00",
+      "date": "2026-02-20 06:32:05",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-41724,resizemode-75,msid-128595460/tech/artificial-intelligence/ai-ushers-in-hyper-progress-can-help-emerging-economies-leapfrog-google-ceo-pichai.jpg",
+      "url": "/tech-news/2026-02-20/ai-ushers-in-hyper-progress-can-help-emerging-econ/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": [
+        "Sundar Pichai"
+      ]
+    },
+    {
+      "title": "'Zůstaňte naladěni': Americký envoy Sergio Gor naznačuje setkání Modího s Trumpem",
+      "description": "Americký velvyslanec v Indii Sergio Gor na okraji India AI Impact Summit naznačil, že setkání indického premiéra Narendry Modího s prezidentem USA Donaldem Trumpem proběhne ve správný čas. 'Zůstaňte naladěni, jsem si jistý, že se to stane v pravém okamžiku,' uvedl.",
+      "slug": "stay-tuned-us-envoy-sergio-gor-hints-at-pm-modi-tr",
+      "publishedAt": "2026-02-20T06:25:04+00:00",
+      "date": "2026-02-20 06:25:04",
+      "importance": 4,
+      "category": "diplomacie",
+      "urlToImage": "https://img.etimg.com/thumb/msid-128595200,width-1200,height-630,imgsize-36278,overlay-economictimes/articleshow.jpg",
+      "url": "/tech-news/2026-02-20/stay-tuned-us-envoy-sergio-gor-hints-at-pm-modi-tr/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Proč AI od Google poskytuje nebezpečné rady k duševnímu zdraví?",
+      "description": "Britská charita pro duševní zdraví zahájila vyšetřování po odhalení AI-generovaných přehledů na velkém vyhledávači, které prezentovaly škodlivé a nepřesné rady k duševnímu zdraví jako ustálené fakta. Experti upozorňují na chybějící varování a autoritativní tón, který zvyšuje riziko, že zranitelní uživatelé berou obsah jako spolehlivou lékařskou radu.",
+      "slug": "why-is-google-ai-giving-dangerous-mental-health-ad",
+      "publishedAt": "2026-02-20T06:11:09+00:00",
+      "date": "2026-02-20 06:11:09",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://alltoc.com/cdn/1045/og.png",
+      "url": "/tech-news/2026-02-20/why-is-google-ai-giving-dangerous-mental-health-ad/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Alltoc.com"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Indie a Brazílie plánují alianci v kritických minerálech a umělé inteligenci uprostřed křehkého světového řádu",
+      "description": "Indie a Brazílie posilují spolupráci v oblasti kritických minerálů a umělé inteligence. Prezident Luiz Inácio Lula da Silva se setká s premiérem Narendrou Modím, aby prodiskutovali rámcovou dohodu. Obě země chtějí zpracovávat minerály a prosazovat inkluzivní debatu o AI.",
+      "slug": "india-and-brazil-plot-a-critical-minerals-and-ai-a",
+      "publishedAt": "2026-02-20T06:10:07+00:00",
+      "date": "2026-02-20 06:10:07",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://img.etimg.com/thumb/msid-128594540,width-1200,height-630,imgsize-127232,overlay-economictimes/articleshow.jpg",
+      "url": "/tech-news/2026-02-20/india-and-brazil-plot-a-critical-minerals-and-ai-a/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": [
+        "Lula da Silva",
+        "Modi"
+      ]
+    },
     {
       "title": "Války agentických protokolů dorazily do elektronického obchodu; Perplexity: Reklamy oslabují důvěru v umělou inteligenci",
       "description": "Velcí maloobchodníci jako Walmart a Amazon hlásí vyšší prodeje díky agentickým AI asistentům. Konkurují si standardy pro nákupy přes AI, jako Universal Commerce Protocol od Google a Shopify proti Agentic Commerce Protocol od OpenAI. Perplexity končí s reklamami, protože podle ní narušují důvěru uživatelů.",
