@@ -1,7 +1,106 @@
 {
-  "generated": "2026-02-21T16:41:22.645215+00:00",
-  "count": 178,
+  "generated": "2026-02-21T20:35:39.907724+00:00",
+  "count": 183,
   "articles": [
+    {
+      "title": "Bitcoin může příští rok klesnout k 30 000 dolarům, pokud nedokáže ukázat reálný pokrok v kvantově odolných upgradecích",
+      "description": "Medvědí trh Bitcoinu se může v příštím roce zhoršit, pokud neřeší obavy z kvantového počítání. Podle zprávy Charlese Edwardse z Capriole by měla být tržní hodnota Bitcoinu již diskontována kvůli kvantovému riziku a bez pokroku by mohla cena klesnout na polovinu.",
+      "slug": "bitcoin-may-tumble-toward-30000-next-year-unless-i",
+      "publishedAt": "2026-02-20T20:05:11+00:00",
+      "date": "2026-02-20 20:05:11",
+      "importance": 5,
+      "category": "kryptoměny",
+      "urlToImage": "https://cryptoslate.com/wp-content/uploads/2026/02/bitcoin-edge.jpg",
+      "url": "/tech-news/2026-02-20/bitcoin-may-tumble-toward-30000-next-year-unless-i/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CryptoSlate"
+      },
+      "companies": [
+        "Capriole"
+      ],
+      "people": [
+        "Charles Edwards"
+      ]
+    },
+    {
+      "title": "Cerebras plánuje obrovský superpočítač pro AI v Indii podporovaný SAE",
+      "description": "Společnost Cerebras Systems nasadí své akcelerátory WSE-3 do nového superpočítačového klastru v Indii s kapacitou až 8 exaFLOPS pro AI výpočty. Projekt vede firma G42 ze SAE ve spolupráci s indickým Centrem pro rozvoj pokročilého počítání (C-DAC) a univerzitou MBZUAI.",
+      "slug": "cerebras-plans-humongous-ai-supercomputer-in-india",
+      "publishedAt": "2026-02-20T19:32:16+00:00",
+      "date": "2026-02-20 19:32:16",
+      "importance": 4,
+      "category": "superpočítače",
+      "urlToImage": "https://regmedia.co.uk/2024/10/29/cerebras.jpg",
+      "url": "/tech-news/2026-02-20/cerebras-plans-humongous-ai-supercomputer-in-india/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "companies": [
+        "Cerebras",
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Indie se připojuje k americké polovodičové alianci ‚Pax Silica‘, což uvolňuje napětí v tarifech a energetice",
+      "description": "„Vstup Indie do Pax Silica není jen symbolický. Je strategický a nezbytný,“ řekl americký velvyslanec Sergio Gor.",
+      "slug": "india-joins-us-pax-silica-semiconductor-alliance-e",
+      "publishedAt": "2026-02-20T18:59:54+00:00",
+      "date": "2026-02-20 18:59:54",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2252028024-e1771613101789.jpg?resize=1200,600",
+      "url": "/tech-news/2026-02-20/india-joins-us-pax-silica-semiconductor-alliance-e/",
+      "source": {
+        "emoji": "📰",
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "companies": [],
+      "people": [
+        "Sergio Gor"
+      ]
+    },
+    {
+      "title": "Armády směřují k autonomii – povede umělá inteligence k novým válkám?",
+      "description": "Invaze na Ukrajinu v únoru 2022 způsobila stovky tisíc obětí a poskytla temnou laboratoř pro vývoj válečných technologií. Od té doby došlo k významným pokrokům v bezelčových dronech a smrtících autonomních zbraňových systémech (LAWS), které dokážou vyhledávat a napadat cíle bez zásahu člověka.",
+      "slug": "militaries-are-going-autonomousbut-will-ai-lead-to",
+      "publishedAt": "2026-02-20T18:58:05+00:00",
+      "date": "2026-02-20 18:58:05",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": null,
+      "url": "/tech-news/2026-02-20/militaries-are-going-autonomousbut-will-ai-lead-to/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Čínští humanoidní roboti zazářili na galavečeru Jarního festivalu",
+      "description": "Čína předvedla na galavečeru Jarního festivalu pokročilé humanoidní roboty, které zvládly kung fu, synchronizovaný tanec a akrobatické prvky. Tento výkon ukazuje rychlý pokrok oproti loňskému ročníku, kdy roboty měly problémy s rovnováhou.",
+      "slug": "chinas-humanoid-robots-steal-the-show-at-the-sprin",
+      "publishedAt": "2026-02-20T18:47:58+00:00",
+      "date": "2026-02-20 18:47:58",
+      "importance": 5,
+      "category": "robotika",
+      "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2026/02/China-humanoid-robot-gala.jpg",
+      "url": "/tech-news/2026-02-20/chinas-humanoid-robots-steal-the-show-at-the-sprin/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Android Headlines"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Tesla prohrává významný soud: Soudce potvrzuje pokutu 243 milionů dolarů za smrtelnou nehodu",
       "description": "Federální soudkyně Beth Bloom v Miami odmítla pokus Tesly zrušit verdikt poroty ve výši 243 milionů dolarů za smrtelnou nehodu způsobenou systémem Autopilot. Verdikt z srpna 2025 shledal společnost Elona Muska zodpovědnou za nehodu, při níž zemřelo dvě osoby.",
