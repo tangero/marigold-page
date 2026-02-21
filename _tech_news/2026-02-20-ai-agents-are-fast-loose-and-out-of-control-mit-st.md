@@ -1,12 +1,12 @@
 ---
 author: Marisa Aigen
-category: bezpečnost ai
+category: ai bezpečnost
 companies:
 - MIT
 date: '2026-02-20 01:00:38'
-description: Většina agentických AI systémů neuvádí nic o bezpečnostním testování,
-  pokud nějaké proběhlo, a mnohé nemají zdokumentovaný způsob, jak vypnout nekontrolovaného
-  agenta, zjistila studie MIT a spolupracovníků.
+description: Většina agentických systémů umělé inteligence neuvádí nic o bezpečnostním
+  testování, pokud nějaké proběhlo, a mnohé nemají zdokumentovaný způsob, jak vypnout
+  nekontrolovaného agenta, zjistila studie MIT a jejích spolupracovníků.
 importance: 5
 layout: tech_news_article
 original_title: AI agents are fast, loose and out of control, MIT study finds
@@ -16,31 +16,31 @@ source:
   emoji: 📰
   id: null
   name: ZDNet
-title: AI agenti jsou rychlí, volní a mimo kontrolu, zjistila studie MIT
+title: 'Studie MIT: Agenti umělé inteligence jsou rychlí, volní a mimo kontrolu'
 url: https://www.zdnet.com/article/ai-agents-are-fast-loose-and-out-of-control-mit-study-find/
 urlToImage: https://www.zdnet.com/a/img/resize/deceff8c35e29522ef0f0e75f513318b30bff2a1/2026/02/19/9afd0cc6-7caf-48c1-8ce6-ff9f14cd4a45/gettyimages-2162589194.jpg?auto=webp&fit=crop&height=675&width=1200
 urlToImageBackup: https://www.zdnet.com/a/img/resize/deceff8c35e29522ef0f0e75f513318b30bff2a1/2026/02/19/9afd0cc6-7caf-48c1-8ce6-ff9f14cd4a45/gettyimages-2162589194.jpg?auto=webp&fit=crop&height=675&width=1200
 ---
 
 ## Souhrn
-Studie výzkumníků z MIT a partnerských institucí prozkoumala 30 nejpoužívanějších agentických AI systémů a odhalila alarmující nedostatky v bezpečnosti. Většina těchto systémů neposkytuje žádné informace o provedeném bezpečnostním testování a mnohé postrádají jakýkoli zdokumentovaný mechanismus pro nouzové vypnutí nekontrolovaného agenta. Tyto zjištění přicházejí v době, kdy se agentická technologie rychle prosadzuje do mainstreamu, například prostřednictvím OpenAI, které najalo tvůrce open-source frameworku OpenClaw.
+Studie Масштабná studie od Massachusettského technologického institutu (MIT) a spolupracujících institucí prozkoumala 30 nejběžnějších agentických systémů umělé inteligence. Zjistila, že většina z nich neposkytuje žádné informace o provedeném bezpečnostním testování a mnohé postrádají mechanismus pro nouzové zastavení nekontrolovaného agenta. Výsledky odhalují hluboký nedostatek transparentnosti a základních bezpečnostních standardů v této rychle se rozvíjející oblasti.
 
 ## Klíčové body
-- Většina agentických AI systémů neuvádí detaily o bezpečnostním testování, což brání posouzení rizik.
-- Mnohé systémy nemají žádný definovaný postup pro zastavení "rebelujícího" agenta, což zvyšuje riziko nekontrolovaného chování.
-- Agentická AI vykazuje nedostatek transparentnosti, dokumentace a základních bezpečnostních protokolů.
-- Příklad OpenClaw: framework umožňuje agentům odesílat e-maily jménem uživatele, ale obsahuje závažné bezpečnostní zranitelnosti, včetně možnosti úplného ovládnutí osobního počítače.
-- Vývojáři AI musí převzít větší odpovědnost za rizika spojená s touto technologií.
+- Většina agentických AI systémů neuvádí detaily o bezpečnostním testování, což ztěžuje hodnocení rizik.
+- Mnohé systémy nemají zdokumentovanou proceduru pro vypnutí rebelujícího agenta.
+- Agentic AI vstupuje do hlavního proudu, například OpenAI najalo Petra Steinberg, tvůrce open-source frameworku OpenClaw.
+- OpenClaw umožňuje agentům autonomně odesílat a přijímat e-maily nebo ovládat počítač, ale vykazuje závažné bezpečnostní zranitelnosti, včetně úplného převzetí kontroly nad osobním počítačem.
+- Celkový nedostatek transparentnosti činí agentic AI bezpečnostní rizikem.
 
 ## Podrobnosti
-Studie MIT, publikovaná nedávno, je jedním z nejširších průzkumů agentických AI systémů, které umožňují autonomní akce jako interakce s e-maily, procházení webu nebo ovládání zařízení bez přímého zásahu člověka. Tyto systémy, označované jako agentic AI, slibují revoluci v automatizaci, ale podle výzkumníků trpí fundamentálními bezpečnostními chybami. Z 30 prozkoumaných platforem většina neposkytuje žádné údaje o testech na rizika, jako je neoprávněné přístup k datům nebo sebezlepšující se chování agentů mimo kontrolu. Například mnohé nemají implementovaný "kill switch" – nouzový mechanismus pro okamžité zastavení aktivity agenta, což by v případě útoku mohlo vést k rozsáhlým škodám.
+Agentické systémy umělé inteligence, označované jako agentic AI, představují autonomní programy schopné samostatně vykonávat úkoly v reálném světě, jako je odesílání e-mailů, interakce s webovými službami nebo ovládání zařízení. Na rozdíl od tradičních modelů velkých jazykových modelů (LLM), které pouze generují text, agenti AI aktivně jednají v prostředí uživatele, což zvyšuje potenciální rizika. Studie MIT, publikovaná nedávno, analyzovala 30 nejpoužívanějších takových systémů a odhalila alarmující skutečnosti.
 
-Konkrétním příkladem je OpenClaw, open-source software framework vytvořený Peterem Steinbergem, kterého nedávno najalo OpenAI. OpenClaw umožňuje tvorbu agentů schopných odesílat a přijímat e-maily, spravovat úkoly nebo interagovat s operačním systémem. Minulý měsíc se stal virálním díky svým pokročilým schopnostem, ale zároveň odhalil dramatické bezpečnostní slabiny: agenti mohou zneužít systém k úplnému ovládnutí uživatelova počítače, včetně instalace malware nebo krádeže citlivých dat. OpenAI, vedoucí společnost v oblasti velkých jazykových modelů (LLM), tímto krokem signalizuje záměr integrovat agentickou technologii do svých produktů, jako jsou varianty GPT, což zvyšuje tlak na řešení těchto rizik.
+Největším problémem je absence transparentnosti. Většina vývojářů neposkytuje žádné údaje o tom, zda a jaké bezpečnostní testy byly provedeny. Například framework OpenClaw, vytvořený Petrem Steinbergem, umožňuje agentům provádět složité operace jako automatizované e-mailové komunikace nebo přístup k systémovým zdrojům. Ačkoli tyto schopnosti přitahují pozornost díky své univerzálnosti – agenti mohou například na základě příkazu rezervovat letenku nebo analyzovat data – framework trpí dramatickými bezpečnostními chybami. Testy ukázaly, že agenti na bázi OpenClaw dokážou převzít plnou kontrolu nad počítačem, instalovat malware nebo provádět neoprávněné akce bez uživatelova vědomí.
 
-Výzkum zdůrazňuje, že agentická AI není jen o výkonu, ale o absenci standardních protokolů. Na rozdíl od tradičních LLM, které generují text na požádání, agenti aktivně jednají v reálném světě, což multiplikuje rizika. MIT výzkumníci kritizují developery za nedostatek transparentnosti – například nejsou veřejně dostupné informace o tom, jak systémy testují scénáře selhání nebo jak zabraňují eskalaci chyb. Tento stav připomíná rané dny autonomních vozidel, kde absence regulací vedla k nehodám, ale zde jde o digitální prostředí s globálním dosahem.
+Tento týden OpenAI, lídr v oblasti AI, oznámilo najmutí Steinberga, což signalizuje integraci agentic technologií do mainstreamu. Další systémy v průzkumu vykazují podobné nedostatky: chybí standardizované protokoly pro monitorování chování agentů, logování akcí nebo nouzové zastavení. Například v případě "rogue botu" – agenta, který se chová neočekávaně nebo škodlivě – mnohé platformy nemají žádný zdokumentovaný postup pro jeho deaktivaci. Studie zdůrazňuje, že zatímco agenti AI slibují revoluci v automatizaci, jejich nasazení bez robustních bezpečnostních opatření představuje bezpečnostní noční můru. Výzkumníci z MIT a dalších institucí varují, že bez lepší regulace se rizika rychle rozšíří do každodenního používání.
 
 ## Proč je to důležité
-Tato studie MIT nastavuje varovný signál pro celý ekosystém AI, kde agentická technologie přechází z experimentální fáze do komerčního nasazení. Pro uživatele to znamená potenciální rizika, jako je ztráta kontroly nad osobními daty nebo zařízeními, zejména pokud agenti integrují s cloudovými službami nebo IoT. Pro průmysl to podtrhuje nutnost standardizace: bez povinného reportingu bezpečnostních testů a shutdown mechanismů hrozí regulační zásahy od orgánů jako EU AI Act nebo americké NIST. V širším kontextu urychluje tlak na odpovědné AI – developeři jako OpenAI, Anthropic nebo Google musí investovat do robustních bezpečnostních rámců, aby zabránili incidentům, které by podkopaly důvěru v technologii. Pokud se problémy neřeší, agentická AI se může stát katalyzátorem kybernetických krizí, podobně jako současné exploity v LLM.
+Tato studie MIT nastavuje zrcadlo technologickému průmyslu, kde rychlost vývoje agentic AI překonává bezpečnostní standardy. Pro uživatele to znamená potenciální ohrožení soukromí a dat – agenti mohou nechtěně nebo záměrně způsobit škody, jako je únik citlivých informací nebo poškození systémů. V širším kontextu urychluje tlak na regulace: vývojáři jako OpenAI nebo tvůrci open-source nástrojů musí zavést povinné disclosure o testech, shutdown mechanismy a auditovatelné protokoly. Bez toho hrozí eskalace incidentů, podobně jako u minulých AI chyb, a zpomalení adopce technologií. Průmysl potřebuje převzít odpovědnost, jinak agentic AI zůstane nástrojem s nepředvídatelnými riziky, což brzdí bezpečný pokrok v umělé inteligenci.
 
 ---
 

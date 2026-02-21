@@ -1,15 +1,223 @@
 {
-  "generated": "2026-02-21T01:31:31.663673+00:00",
-  "count": 184,
+  "generated": "2026-02-21T05:25:23.929770+00:00",
+  "count": 163,
   "articles": [
     {
-      "title": "AI agenti jsou rychlí, volní a mimo kontrolu, zjistila studie MIT",
-      "description": "Většina agentických AI systémů neuvádí nic o bezpečnostním testování, pokud nějaké proběhlo, a mnohé nemají zdokumentovaný způsob, jak vypnout nekontrolovaného agenta, zjistila studie MIT a spolupracovníků.",
+      "title": "Války agentických protokolů dorazily do elektronického obchodu; Perplexity: Reklamy oslabují důvěru v umělou inteligenci",
+      "description": "Velcí maloobchodníci jako Walmart a Amazon hlásí vyšší prodeje díky agentickým AI asistentům. Konkurují si standardy pro nákupy přes AI, jako Universal Commerce Protocol od Google a Shopify proti Agentic Commerce Protocol od OpenAI. Perplexity končí s reklamami, protože podle ní narušují důvěru uživatelů.",
+      "slug": "the-agentic-protocol-wars-come-to-ecommerce-perple",
+      "publishedAt": "2026-02-20T05:03:06+00:00",
+      "date": "2026-02-20 05:03:06",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.adexchanger.com/wp-content/uploads/2026/01/coffee-context-protocol-AI-comic-featured.jpg",
+      "url": "/tech-news/2026-02-20/the-agentic-protocol-wars-come-to-ecommerce-perple/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "AdExchanger"
+      },
+      "companies": [
+        "Perplexity",
+        "AppLovin"
+      ],
+      "people": []
+    },
+    {
+      "title": "Reliance vkládá na stůl 110 miliard dolarů, připojuje se k Adani a Tata v masivní výstavbě AI infrastruktury",
+      "description": "Indické firmy Reliance Industries, Tata Group a Adani Enterprises oznamují obří investice do AI. Reliance plánuje 110 miliard dolarů za sedm let na AI infrastrukturu, Tata spolupracuje s OpenAI na datech centrech a Adani investuje 100 miliard do roku 2035.",
+      "slug": "reliance-puts-110-billion-on-table-joins-adani-tat",
+      "publishedAt": "2026-02-20T04:36:20+00:00",
+      "date": "2026-02-20 04:36:20",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-88744,resizemode-75,msid-128589413/tech/artificial-intelligence/reliance-puts-110-billion-on-table-joins-adani-tata-in-big-ticket-ai-buildout.jpg",
+      "url": "/tech-news/2026-02-20/reliance-puts-110-billion-on-table-joins-adani-tat/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Hemant Taneja z General Catalyst o investici 5 miliard dolarů do Indie a posunu za rizikový kapitál k vytváření firem v éře AI",
+      "description": "Rizikový kapitál sám o sobě nestačí. General Catalyst buduje platformu pro spojování stakeholderů – velkých firem, portfoliových společností a vlády – aby transformoval průmysly v době touhy po odolnosti a šíření AI do odvětví.",
+      "slug": "general-catalysts-hemant-taneja-on-5-billion-india",
+      "publishedAt": "2026-02-20T03:53:15+00:00",
+      "date": "2026-02-20 03:53:15",
+      "importance": 4,
+      "category": "rizikový kapitál",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-67048,resizemode-75,msid-128589856/tech/technology/general-catalysts-hemant-taneja-on-5-billion-india-bet-and-its-shift-beyond-venture-capital-to-company-creation-in-the-ai-age.jpg",
+      "url": "/tech-news/2026-02-20/general-catalysts-hemant-taneja-on-5-billion-india/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": [
+        "Hemant Taneja"
+      ]
+    },
+    {
+      "title": "Západní Virginie žaluje Apple: iCloud distribuoval 'dětskou pornografii'",
+      "description": "Generální prokurátor Západní Virginie žaluje Apple za to, že služba iCloud umožnila distribuci materiálu s sexuálním zneužíváním dětí, jak uvádějí interní komunikace společnosti. Apple reaguje svými bezpečnostními funkcemi a plánuje rozšíření nástroje pro hlášení nevhodného obsahu.",
+      "slug": "west-virginia-sues-apple-saying-icloud-distributed",
+      "publishedAt": "2026-02-20T03:27:21+00:00",
+      "date": "2026-02-20 03:27:21",
+      "importance": 4,
+      "category": "kyberkriminalita",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-70000,resizemode-75,msid-128589039/tech/technology/west-virginia-sues-apple-saying-icloud-distributed-child-porn.jpg",
+      "url": "/tech-news/2026-02-20/west-virginia-sues-apple-saying-icloud-distributed/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Největší indický telekom řeší AI plánem na 110 miliard dolarů do datových center a osvědčenou strategií dominance na trhu",
+      "description": "Reliance Jio, dominantní indický telekomunikační operátor, oznámil investici 110 miliard dolarů do datových center pro AI úlohy. Společnost chce poskytovat AI služby s extrémní dostupností, podobně jako při ovládnutí mobilního trhu levnými tarify a vlastními telefony.",
+      "slug": "indias-top-telco-tackles-ai-with-110-billion-build",
+      "publishedAt": "2026-02-20T03:11:08+00:00",
+      "date": "2026-02-20 03:11:08",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://regmedia.co.uk/2021/03/25/indian_flag_button_shutterstock.jpg",
+      "url": "/tech-news/2026-02-20/indias-top-telco-tackles-ai-with-110-billion-build/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "companies": [
+        "Reliance Jio"
+      ],
+      "people": []
+    },
+    {
+      "title": "Co je potřeba k zabezpečení agentického obchodu",
+      "description": "S AI agenty stále více působícími jako digitální concierge pro nakupující bude ověřování identit botů, zabezpečení API, na která spoléhají, a detekce anomálního chování klíčová pro ochranu automatizovaných transakcí, tvrdí Akamai.",
+      "slug": "what-it-takes-to-secure-agentic-commerce",
+      "publishedAt": "2026-02-20T03:05:00+00:00",
+      "date": "2026-02-20 03:05:00",
+      "importance": 4,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/Hero Images/e-commerce-2-istock.jpg",
+      "url": "/tech-news/2026-02-20/what-it-takes-to-secure-agentic-commerce/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "ComputerWeekly.com"
+      },
+      "companies": [
+        "Akamai"
+      ],
+      "people": []
+    },
+    {
+      "title": "New York stahuje plány na povolení robottaxi, velká rána pro Waymo",
+      "description": "Governořka New Yorku Kathy Hochul stáhla návrh na povolení bezřidičových taxíků v městech mimo New York City kvůli nedostatku podpory od státních zákonodárců. Rozhodnutí významně postihuje Waymo, dceru společnosti Alphabet, která do lobbyingu investovala přes 1,8 milionu dolarů od roku 2019.",
+      "slug": "new-york-reverses-on-plans-to-allow-robottaxis-in-",
+      "publishedAt": "2026-02-20T01:49:47+00:00",
+      "date": "2026-02-20 01:49:47",
+      "importance": 4,
+      "category": "autonomní vozy",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/gibblesmash-asdf-Qr67ewAPBvY-unsplash.jpg",
+      "url": "/tech-news/2026-02-20/new-york-reverses-on-plans-to-allow-robottaxis-in/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Waymo"
+      ],
+      "people": [
+        "Kathy Hochul"
+      ]
+    },
+    {
+      "title": "New York stahuje plány na povolení robotaxi, velká rána pro Waymo",
+      "description": "Guvernéřka New Yorku Kathy Hochul stáhla návrh na povolení bezřidičových taxíků v městech mimo New York City kvůli nedostatku podpory v zákonodárném sboru. Rozhodnutí postihuje zejména Waymo, autonomní divizi Alphabetu, která investovala miliony do lobbyingu.",
+      "slug": "new-york-reverses-on-plans-to-allow-robotaxis-in-m",
+      "publishedAt": "2026-02-20T01:49:47+00:00",
+      "date": "2026-02-20 01:49:47",
+      "importance": 4,
+      "category": "robotaxi",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/gibblesmash-asdf-Qr67ewAPBvY-unsplash.jpg",
+      "url": "/tech-news/2026-02-20/new-york-reverses-on-plans-to-allow-robotaxis-in-m/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Waymo"
+      ],
+      "people": [
+        "Kathy Hochul"
+      ]
+    },
+    {
+      "title": "Taalas získal 169 milionů dolarů na vývoj AI čipů specifických pro jednotlivé modely",
+      "description": "Startup Taalas Inc., který vyvíjí čipy optimalizované pro provoz specifických modelů umělé inteligence, získal 169 milionů dolarů financování. Mezi investory jsou Quiet Capital, Fidelity a polovodičový investor Pierre Lamond, celková podpora přesahuje 200 milionů dolarů.",
+      "slug": "taalas-raises-169m-in-funding-to-develop-model-spe",
+      "publishedAt": "2026-02-20T01:22:59+00:00",
+      "date": "2026-02-20 01:22:59",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Taalas.png",
+      "url": "/tech-news/2026-02-20/taalas-raises-169m-in-funding-to-develop-model-spe/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Taalas Inc"
+      ],
+      "people": []
+    },
+    {
+      "title": "Šéf NASA kritizuje Boeing a vesmírnou agenturu za selhání mise astronautů Starliner",
+      "description": "Jared Isaacman z NASA ostře kritizoval Boeing za problémy s kosmickou lodí Starliner, která byla označena za nebezpečnou k návratu dvou astronautů z Mezinárodní vesmírné stanice.",
+      "slug": "nasa-chief-blasts-boeing-space-agency-for-failed-s",
+      "publishedAt": "2026-02-20T01:17:42+00:00",
+      "date": "2026-02-20 01:17:42",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1125+0+104/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbb%2F67%2Ffa150173429aa60141caed496d1c%2Fnasa-starliner.jpg",
+      "url": "/tech-news/2026-02-20/nasa-chief-blasts-boeing-space-agency-for-failed-s/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "NPR"
+      },
+      "companies": [
+        "NASA",
+        "Boeing"
+      ],
+      "people": [
+        "Jared Isaacman"
+      ]
+    },
+    {
+      "title": "Studie MIT: Agenti umělé inteligence jsou rychlí, volní a mimo kontrolu",
+      "description": "Většina agentických systémů umělé inteligence neuvádí nic o bezpečnostním testování, pokud nějaké proběhlo, a mnohé nemají zdokumentovaný způsob, jak vypnout nekontrolovaného agenta, zjistila studie MIT a jejích spolupracovníků.",
       "slug": "ai-agents-are-fast-loose-and-out-of-control-mit-st",
       "publishedAt": "2026-02-20T01:00:38+00:00",
       "date": "2026-02-20 01:00:38",
       "importance": 5,
-      "category": "bezpečnost ai",
+      "category": "ai bezpečnost",
       "urlToImage": "https://www.zdnet.com/a/img/resize/deceff8c35e29522ef0f0e75f513318b30bff2a1/2026/02/19/9afd0cc6-7caf-48c1-8ce6-ff9f14cd4a45/gettyimages-2162589194.jpg?auto=webp&fit=crop&height=675&width=1200",
       "url": "/tech-news/2026-02-20/ai-agents-are-fast-loose-and-out-of-control-mit-st/",
       "source": {
@@ -3115,625 +3323,6 @@
         "emoji": "📰",
         "id": null,
         "name": "Hoover.org"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Americké vojenské letectvo integruje otevřenou architekturu pro autonomii misí na CCAs",
-      "description": "Software pro autonomii misí od společností Collins Aerospace a Shield AI bylo úspěšně integrováno na prototypy YFQ-42A a YFQ-44A v rámci programu Collaborative Combat Aircraft pomocí vládní architektury A-GRA. Tento milník demonstruje možnost rychlého přenosu autonomního softwaru mezi různými platformami a podporuje konkurenční ekosystém bez závislosti na jednom dodavateli.",
-      "slug": "us-air-force-integrates-open-architecture-for-miss",
-      "publishedAt": "2026-02-14T22:39:03+00:00",
-      "date": "2026-02-14 22:39:03",
-      "importance": 4,
-      "category": "vojenské letectví",
-      "urlToImage": "https://theaviationist.com/wp-content/uploads/2026/02/260212-F-AF000-1314.jpg",
-      "url": "/tech-news/2026-02-14/us-air-force-integrates-open-architecture-for-miss/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Theaviationist.com"
-      },
-      "companies": [
-        "Collins",
-        "Shield AI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Investice do umělé inteligence mohou překročit 200 miliard dolarů, slibováno již 90 miliard: Ashwini Vaishnaw",
-      "description": "Indický ministr pro informační technologie Ashwini Vaishnaw uvedl, že investice do infrastrukturní vrstvy umělé inteligence mohou dosáhnout 200 miliard dolarů, přičemž už bylo slíbeno 90 miliard. Toto prohlášení předchází konci příštího týdne summitu AI Impact Summit v Indii.",
-      "slug": "ai-investments-may-top-200-billion-90-billion-alre",
-      "publishedAt": "2026-02-14T22:29:41+00:00",
-      "date": "2026-02-14 22:29:41",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-128364464,width-1280,height-720,imgsize-28320,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "url": "/tech-news/2026-02-14/ai-investments-may-top-200-billion-90-billion-alre/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [],
-      "people": [
-        "Ashwini Vaishnaw"
-      ]
-    },
-    {
-      "title": "Rizika Digest 34.87: Přehled počítačových rizik z února 2026",
-      "description": "Vydání RISKS digestu shrnuje řadu incidentů souvisejících s počítačovými riziky, včetně uzavření vzdušného prostoru v El Paso kvůli chybné technologii, bezpečnostních děr v AI modelů a hacků na univerzity i Evropskou komisi. Zaměřuje se na selhání systémů, která ohrožují bezpečnost a spolehlivost technologií.",
-      "slug": "no-subject",
-      "publishedAt": "2026-02-14T21:39:37+00:00",
-      "date": "2026-02-14 21:39:37",
-      "importance": 4,
-      "category": "počítačové rizika",
-      "urlToImage": "https://seclists.org/images/risks-img.png",
-      "url": "/tech-news/2026-02-14/no-subject/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Seclists.org"
-      },
-      "companies": [
-        "ACM"
-      ],
-      "people": []
-    },
-    {
-      "title": "Meta přidává rozpoznávání obličejů do svých chytrých brýlí pro identifikaci lidí v reálném čase",
-      "description": "Společnost Meta plánuje integrovat technologii rozpoznávání obličejů do chytrých brýlí Ray-Ban, které budou schopny identifikovat lidi v reálném čase. Podle zdrojů, jako je The New York Times a Futurism, společnost doufá, že veřejnost bude příliš rozptýlená politickými událostmi, aby na to reagovala.",
-      "slug": "meta-adding-facial-recognition-to-its-smart-glasse",
-      "publishedAt": "2026-02-14T21:32:30+00:00",
-      "date": "2026-02-14 21:32:30",
-      "importance": 4,
-      "category": "rozpoznávání obličej",
-      "urlToImage": null,
-      "url": "/tech-news/2026-02-14/meta-adding-facial-recognition-to-its-smart-glasse/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "companies": [
-        "Meta"
-      ],
-      "people": []
-    },
-    {
-      "title": "Valentýnské zklamání: OpenAI oficiálně ukončuje GPT-4o",
-      "description": "OpenAI oficiálně ukončilo model GPT-4o, což vyvolalo smutek mezi uživateli, kteří v něm viděli přátelského společníka. Společnost to zdůvodňuje potřebou bezpečnějšího a méně lichotivého chování umělé inteligence.",
-      "slug": "the-valentines-day-heartbreak-openai-officially-re",
-      "publishedAt": "2026-02-14T20:01:40+00:00",
-      "date": "2026-02-14 20:01:40",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2026/02/OpenAI-retires-GPT-4o-ChatGPT-AI-model-featured.jpg",
-      "url": "/tech-news/2026-02-14/the-valentines-day-heartbreak-openai-officially-re/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Android Headlines"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Kanadsko-německá deklarace o umělé inteligenci signalizuje další odklon od USA",
-      "description": "Kanada a Německo podepsaly společnou deklaraci záměru o umělé inteligenci, čímž Ottawa posiluje snahy o diverzifikaci globálních partnerství v době měnících se obchodních priorit kvůli mezinárodním napětím.",
-      "slug": "canada-germany-ai-declaration-signals-further-drif",
-      "publishedAt": "2026-02-14T19:36:05+00:00",
-      "date": "2026-02-14 19:36:05",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://globalnews.ca/wp-content/uploads/2026/01/755523058dc2058a92fd2536112772fda8739e57b0402e5e492c5623d8700e50.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-      "url": "/tech-news/2026-02-14/canada-germany-ai-declaration-signals-further-drif/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Global News"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Japonské přímé zahraniční investice v Indii překročily 2,7 lakh crore rupií, působí zde 1 400 firem",
-      "description": "Japonské přímé zahraniční investice v Indii překročily 2,7 lakh crore rupií, přičemž v zemi operuje kolem 1 400 japonských společností. Japonsko podporuje Indii ve výstavbě infrastruktury a školení pracovníků, s plány na rozšíření spolupráce v oblastech umělé inteligence, polovodičů a obnovitelných zdrojů.",
-      "slug": "japanese-fdi-in-india-crosses-rs-27-lakh-crore-140",
-      "publishedAt": "2026-02-14T18:35:05+00:00",
-      "date": "2026-02-14 18:35:05",
-      "importance": 4,
-      "category": "zahraniční investice",
-      "urlToImage": "https://img.etimg.com/thumb/msid-128358120,width-1200,height-630,imgsize-141110,overlay-economictimes/articleshow.jpg",
-      "url": "/tech-news/2026-02-14/japanese-fdi-in-india-crosses-rs-27-lakh-crore-140/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Musk předkládá plán na lunární 'mass driver' a možnost setkání s mimozemšťany",
-      "description": "Elon Musk během projevu o xAI a SpaceX načrtl ambiciózní vizi budoucnosti včetně fúze těchto firem, lunárních továren s 'mass driverem' pro vypouštění AI satelitů a expanze do hvězdného systému. Zmínil i potenciální setkání s mimozemskými civilizacemi.",
-      "slug": "musk-outlines-plan-for-lunar-mass-driver-and-possi",
-      "publishedAt": "2026-02-14T18:34:55+00:00",
-      "date": "2026-02-14 18:34:55",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://www.unexplained-mysteries.com/images/news_large_retina/news-hq-elon-musk-sitting.jpg",
-      "url": "/tech-news/2026-02-14/musk-outlines-plan-for-lunar-mass-driver-and-possi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Unexplained-mysteries.com"
-      },
-      "companies": [
-        "xAI",
-        "SpaceX"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Přílet a uvítací projevy posádky NASA SpaceX Crew-12",
-      "description": "Astronauti NASA Jessica Meir a Jack Hathaway, astronautka Evropské vesmírné agentury Sophie Adenot a kosmonaut Roskosmosu Andrey Fedyaev dorazili na Mezinárodní vesmírnou stanici v rámci mise SpaceX Crew-12. Během pobytu provedou vědecké experimenty a technologické testy zaměřené na přínos pro život na Zemi i ve vesmíru.",
-      "slug": "nasas-spacex-crew-12-arrival-welcome-remarks",
-      "publishedAt": "2026-02-14T18:09:03+00:00",
-      "date": "2026-02-14 18:09:03",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": null,
-      "url": "/tech-news/2026-02-14/nasas-spacex-crew-12-arrival-welcome-remarks/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Freerepublic.com"
-      },
-      "companies": [
-        "SpaceX",
-        "NASA"
-      ],
-      "people": []
-    },
-    {
-      "title": "Šéf AI divize Microsoftu: Umělá inteligence převezme většinu kancelářské práce do příštího roku",
-      "description": "Vedoucí pracovník Microsoftu uvedl, že „většina těchto úkolů bude plně automatizována umělou inteligencí během příštích 12 až 18 měsíců.“",
-      "slug": "microsoft-ai-chief-says-artificial-intelligence-wi",
-      "publishedAt": "2026-02-14T16:42:01+00:00",
-      "date": "2026-02-14 16:42:01",
-      "importance": 5,
-      "category": "ai",
-      "urlToImage": "https://www.westernjournal.com/wp-content/uploads/2026/02/Ben-Working-Feature-Image-2026-02-13T170826.291.jpg",
-      "url": "/tech-news/2026-02-14/microsoft-ai-chief-says-artificial-intelligence-wi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Westernjournal.com"
-      },
-      "companies": [
-        "Microsoft"
-      ],
-      "people": []
-    },
-    {
-      "title": "Jak Čína vybudovala průmysl čipů a proč to stále nestačí",
-      "description": "Čínský sektor umělé inteligence roste díky masivním investicím a startupům, ale vážně trpí nedostatkem pokročilých polovodičů. Americké exportní kontroly brání dovozu klíčových nástrojů pro jejich výrobu.",
-      "slug": "how-china-built-a-chip-industry-and-why-its-still-",
-      "publishedAt": "2026-02-14T15:48:49+00:00",
-      "date": "2026-02-14 15:48:49",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-76400,resizemode-75,msid-128352817/tech/technology/how-china-built-a-chip-industry-and-why-its-still-not-enough.jpg",
-      "url": "/tech-news/2026-02-14/how-china-built-a-chip-industry-and-why-its-still/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Jio, Anthropic, Ericsson a dalších 12 firem založily Alianci důvěryhodných technologií",
-      "description": "Přední globální technologické firmy včetně Jio Platforms, Anthropic a Ericsson založily Trusted Tech Alliance. Cílem aliance je zajistit transparentnost, bezpečnost a ochranu dat napříč celým technologickým stackem od konektivity po AI. Účastní 15 firem z Afriky, Asie, Evropy a Severní Ameriky.",
-      "slug": "jio-anthropic-ericsson-along-with-other-12-firms-l",
-      "publishedAt": "2026-02-14T15:14:36+00:00",
-      "date": "2026-02-14 15:14:36",
-      "importance": 4,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-16882,resizemode-75,msid-128352060/tech/technology/jio-anthropic-ericsson-along-with-other-12-firms-launch-trusted-tech-alliance.jpg",
-      "url": "/tech-news/2026-02-14/jio-anthropic-ericsson-along-with-other-12-firms-l/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Jio",
-        "Anthropic",
-        "Ericsson"
-      ],
-      "people": []
-    },
-    {
-      "title": "Rádiové vlny by mohly pomoci autonomním vozům vidět za rohy",
-      "description": "Systém HoloRadar umožňuje vozidlům detekovat objekty ukryté za zdmi nebo rohy pomocí rádiových vln. To by mohlo zabránit kolizím, jako byl nedávný incident s vozidlem Waymo.",
-      "slug": "radio-waves-could-help-driverless-cars-see-around-",
-      "publishedAt": "2026-02-14T15:13:00+00:00",
-      "date": "2026-02-14 15:13:00",
-      "importance": 4,
-      "category": "autonomní vozy",
-      "urlToImage": "https://www.popsci.com/wp-content/uploads/2026/02/waymo-texas.png?quality=85&w=1200",
-      "url": "/tech-news/2026-02-14/radio-waves-could-help-driverless-cars-see-around/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Popular Science"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Tento týdenní zajímavé technologické příběhy z webu (do 14. února)",
-      "description": "Každý týden prohledáváme web pro důležité, poučné a fascinující příběhy z vědy a technologie. Příspěvek poprvé vyšel na SingularityHub.",
-      "slug": "this-weeks-awesome-tech-stories-from-around-the-we",
-      "publishedAt": "2026-02-14T15:00:00+00:00",
-      "date": "2026-02-14 15:00:00",
-      "importance": 5,
-      "category": "technologické novink",
-      "urlToImage": "https://singularityhub.com/uploads/2026/02/blue-and-clear-glassballs-1.jpeg?auto=webp",
-      "url": "/tech-news/2026-02-14/this-weeks-awesome-tech-stories-from-around-the-we/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Singularity Hub"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Proč Jio, Anthropic, Ericsson a další založili Trusted Tech Alliance – vysvětleno",
-      "description": "Skupina 15 globálních firem včetně Jio Platforms a Anthropic založila Trusted Tech Alliance pro prosazování spolehlivé technologie. Podrobnosti zde.",
-      "slug": "why-jio-anthropic-ericsson-and-others-have-formed-",
-      "publishedAt": "2026-02-14T14:06:20+00:00",
-      "date": "2026-02-14 14:06:20",
-      "importance": 4,
-      "category": "technologická alianc",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2026/02/14/1600x900/logo/deal_1771075822989_1771075823222.jpg",
-      "url": "/tech-news/2026-02-14/why-jio-anthropic-ericsson-and-others-have-formed/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Livemint"
-      },
-      "companies": [
-        "Jio Platforms",
-        "Anthropic",
-        "Ericsson"
-      ],
-      "people": []
-    },
-    {
-      "title": "Šestnáct agentů Claude postavilo C kompilátor bez lidského zásahu... téměř",
-      "description": "Anthropic nasadil šestnáct AI agentů Claude Opus 4.6 k autonomnímu vývoji C kompilátoru v Rustu od nuly. Agenti pracovali paralelně na sdíleném repozitáři, koordinovali změny a vytvořili kompilátor schopen sestavit Linux 6.9 kernel pro x86, ARM i RISC-V.",
-      "slug": "sixteen-claude-agents-built-a-c-compiler-without-h",
-      "publishedAt": "2026-02-14T12:00:00+00:00",
-      "date": "2026-02-14 12:00:00",
-      "importance": 5,
-      "category": "umělá inteligence",
-      "urlToImage": "https://res.infoq.com/news/2026/02/claude-built-c-compiler/en/headerimage/claude-built-c-compiler-1771067001094.jpeg",
-      "url": "/tech-news/2026-02-14/sixteen-claude-agents-built-a-c-compiler-without-h/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "InfoQ.com"
-      },
-      "companies": [
-        "Anthropic"
-      ],
-      "people": []
-    },
-    {
-      "title": "V Muskovi věřit? Šéf Tesly sází, že hmota a energie nahradí americký dolar jako budoucí měnu",
-      "description": "Šéf Tesly a zakladatel SpaceX Elon Musk předpovídá budoucnost, kde hmota a energie nahradí americký dolar jako globální měnu. To souvisí s jeho vizemi orbitálních solárních výpočetních center poháněných AI a expanzí SpaceX.",
-      "slug": "in-musk-we-trust-tesla-ceo-bets-mass-and-energy-wi",
-      "publishedAt": "2026-02-14T11:46:36+00:00",
-      "date": "2026-02-14 11:46:36",
-      "importance": 4,
-      "category": "kryptoměny",
-      "urlToImage": "https://s.yimg.com/os/en/Benzinga/635f4757c462ec468503077b8bd4ae99",
-      "url": "/tech-news/2026-02-14/in-musk-we-trust-tesla-ceo-bets-mass-and-energy-wi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [
-        "Tesla",
-        "SpaceX"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Podezřelí ruští hackeři nasazují malware CANFAIL proti Ukrajině",
-      "description": "Nová APT skupina údajně spojená s ruskou inteligencí útočí na ukrajinské obranné, vládní a energetické instituce pomocí malware CANFAIL. Skupina využívá phishingové kampaně a velké jazykové modely pro přípravu útoků, což odhalil Google Threat Intelligence Group.",
-      "slug": "suspected-russian-hackers-deploy-canfail-malware-a",
-      "publishedAt": "2026-02-14T11:05:33+00:00",
-      "date": "2026-02-14 11:05:33",
-      "importance": 5,
-      "category": "kybernetika",
-      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2026/02/image-30.png",
-      "url": "/tech-news/2026-02-14/suspected-russian-hackers-deploy-canfail-malware-a/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Securityaffairs.com"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Jak by se AI mohla sežrat sama: Konkurenti mohou sondovat modely, ukrást jejich tajemství a klonovat je",
-      "description": "Google a OpenAI varují, že konkurenti včetně čínské DeepSeek zkoumají jejich modely AI, aby ukradli základní uvažovací mechanismy a převzali je do svých systémů. Tento proces nazývá Google „distillation attacks“ a detekoval ho v reálném čase na modelu Gemini.",
-      "slug": "how-ai-could-eat-itself-competitors-can-probe-mode",
-      "publishedAt": "2026-02-14T11:02:11+00:00",
-      "date": "2026-02-14 11:02:11",
-      "importance": 5,
-      "category": "umělá inteligence",
-      "urlToImage": "https://regmedia.co.uk/2017/02/21/clone_army_star_wars.jpg",
-      "url": "/tech-news/2026-02-14/how-ai-could-eat-itself-competitors-can-probe-mode/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "companies": [
-        "Google",
-        "OpenAI",
-        "DeepSeek"
-      ],
-      "people": []
-    },
-    {
-      "title": "Senátoři bijí na poplach: Firmy s umělou inteligencí nalévají miliony do voleb v USA",
-      "description": "„Američané nejsou vůbec připraveni na transformační a radikální dopad, který to bude mít na naši společnost,“ řekl senátor Bernie Sanders (nezávislý za Vermont) o umělé inteligenci.",
-      "slug": "senators-sound-alarm-as-ai-companies-pour-millions",
-      "publishedAt": "2026-02-14T11:00:17+00:00",
-      "date": "2026-02-14 11:00:17",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://img.huffingtonpost.com/asset/698fa6731b000075664cbf2e.jpeg?ops=1200_630",
-      "url": "/tech-news/2026-02-14/senators-sound-alarm-as-ai-companies-pour-millions/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "HuffPost"
-      },
-      "companies": [],
-      "people": [
-        "Bernie Sanders"
-      ]
-    },
-    {
-      "title": "ETtech Deals Digest: Startupy získaly tento týden 219,7 milionu dolarů; nárůst o 29,5 % oproti loňsku",
-      "description": "Počet transakcí tento týden vzrostl na 39 oproti 38 v odpovídajícím týdnu minulého roku. Tento týdenní objem byl o 10,8 % vyšší než 198,2 milionu dolarů získaných v předchozím týdnu letošního roku.",
-      "slug": "ettech-deals-digest-startups-raise-2197-million-th",
-      "publishedAt": "2026-02-14T10:30:42+00:00",
-      "date": "2026-02-14 10:30:42",
-      "importance": 4,
-      "category": "startupy",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1349127,resizemode-75,msid-128343642/tech/funding/ettech-deals-digest-startups-raise-219-7-million-this-week-up-29-5-yoy.jpg",
-      "url": "/tech-news/2026-02-14/ettech-deals-digest-startups-raise-2197-million-th/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Fotónový čip slibuje 100násobně rychlejší a efektivnější výkon než Nvidia A100",
-      "description": "Výzkumníci z Číny vyvinuli plně fotonický procesor LightGen, který zvládá velké AI modely s rychlostmi a efektivitou o řády vyššími než tradiční křemíkový hardware. Čip umožňuje složité generativní úlohy, jako je tvorba videa v vysokém rozlišení nebo 3D modelování.",
-      "slug": "light-based-chip-claims-100-faster-more-efficient-",
-      "publishedAt": "2026-02-14T10:26:00+00:00",
-      "date": "2026-02-14 10:26:00",
-      "importance": 5,
-      "category": "tech",
-      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/A-conceptual-image-of-a-photonic-chip.jpg",
-      "url": "/tech-news/2026-02-14/light-based-chip-claims-100-faster-more-efficient/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Notebookcheck.net"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": []
-    },
-    {
-      "title": "Čínský nejvyšší soud: Řidiči zodpovědní i přes autonomní technologie",
-      "description": "Čínský nejvyšší soud vydal směrnou judikaturu, podle níž zůstávají řidiči odpovědní za bezpečnost vozidla i po aktivaci asistenčních systémů autonomního řízení. V září byl řidič uvězněn a pokutován za plné spoléhání na systém v opilém stavu.",
-      "slug": "china-top-court-says-drivers-responsible-despite-a",
-      "publishedAt": "2026-02-14T09:39:00+00:00",
-      "date": "2026-02-14 09:39:00",
-      "importance": 4,
-      "category": "autonomní vozy",
-      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--VWmtsKTO--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/02/14/000_33p86xx.jpg?itok=CxeMh2R4",
-      "url": "/tech-news/2026-02-14/china-top-court-says-drivers-responsible-despite-a/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNA"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Šéf AI divize Microsoftu: Většina kancelářských prací může být automatizována do 12 měsíců",
-      "description": "Šéf AI společnosti Microsoft Mustafa Suleyman varuje, že většina kancelářských prací bude do 12 až 18 měsíců nahrazena umělou inteligencí díky rychlým pokrokům a globálnímu narušení napříč sektory.",
-      "slug": "microsoft-ai-head-says-majority-of-office-jobs-may",
-      "publishedAt": "2026-02-14T07:01:06+00:00",
-      "date": "2026-02-14 07:01:06",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://images.news18.com/ibnlive/uploads/2026/02/mustafa-2026-02-50ca6f920a6cfec4b9179fc9770934e1-16x9.jpg",
-      "url": "/tech-news/2026-02-14/microsoft-ai-head-says-majority-of-office-jobs-may/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "News18"
-      },
-      "companies": [
-        "Microsoft"
-      ],
-      "people": [
-        "Mustafa Suleyman"
-      ]
-    },
-    {
-      "title": "Velký, ale bouřlivý týden pro čínské AI modely. Přehled událostí",
-      "description": "Největší čínské technologické firmy spustily nové AI modely, které ukazují, jak drží krok s americkými konkurenty v oblasti robotiky a generování videa.",
-      "slug": "its-been-a-big-but-rocky-week-for-ai-models-from-c",
-      "publishedAt": "2026-02-14T06:47:34+00:00",
-      "date": "2026-02-14 06:47:34",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108200517-1758184475148-gettyimages-2160020925-tang-notitle240705_npe5f.jpeg?v=1770820625&w=1920&h=1080",
-      "url": "/tech-news/2026-02-14/its-been-a-big-but-rocky-week-for-ai-models-from-c/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNBC"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Plně do AI: co udělal ByteDance, tvůrce TikToku, dál",
-      "description": "ByteDance se sídlem v Pekingu, vlastník TikToku, se silně zaměřuje na umělou inteligenci po letech právních a soukromí kontroverzí. Jeho chatbot Doubao, spuštěný v roce 2023, se stal nejoblíbenějším AI asistentem v Číně s více než 100 miliony denních uživatelů a konkuruje službám od OpenAI a Google.",
-      "slug": "all-in-on-ai-what-tiktok-creator-bytedance-did-nex",
-      "publishedAt": "2026-02-14T02:54:38+00:00",
-      "date": "2026-02-14 02:54:38",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-57886,resizemode-75,msid-128332049/tech/artificial-intelligence/all-in-on-ai-what-tiktok-creator-bytedance-did-next.jpg",
-      "url": "/tech-news/2026-02-14/all-in-on-ai-what-tiktok-creator-bytedance-did-nex/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "ByteDance"
-      ],
-      "people": []
-    },
-    {
-      "title": "ByteDance rozšiřuje tým pro čipy na 1000 zaměstnanců a posouvá čtyři hlavní designové linky",
-      "description": "Čínský technologický gigant ByteDance rychle rozšiřuje svůj tým pro výzkum a vývoj čipů na více než 1000 lidí, což signalizuje silný záměr prosadit se v oblasti AI hardware. Podle zprávy 36Kr společnost pokračuje ve vývoji čtyř hlavních linií čipů, aby snížila závislost na zahraničních dodavatelích.",
-      "slug": "bytedance-expands-chip-team-to-1000-advancing-four",
-      "publishedAt": "2026-02-14T02:11:06+00:00",
-      "date": "2026-02-14 02:11:06",
-      "importance": 4,
-      "category": "ai čipy",
-      "urlToImage": "https://img.digitimes.com/newsshow/20260213pd239_files/1_b.jpg",
-      "url": "/tech-news/2026-02-14/bytedance-expands-chip-team-to-1000-advancing-four/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
-      },
-      "companies": [
-        "ByteDance",
-        "36Kr"
-      ],
-      "people": []
-    },
-    {
-      "title": "Pentagon použil Claude AI k zatčení Madura – média",
-      "description": "Americká armáda aktivně využila model umělé inteligence Claude od Anthropic během operace na zatčení venezuelského prezidenta Nicoláse Madura minulý měsíc, podle zpráv serverů Axios a Wall Street Journal. Firma Anthropic veřejně zdůrazňuje bezpečnostní omezení své technologie proti vojenskému nasazení.",
-      "slug": "pentagon-used-claude-ai-to-kidnap-maduro-media",
-      "publishedAt": "2026-02-14T00:43:14+00:00",
-      "date": "2026-02-14 00:43:14",
-      "importance": 5,
-      "category": "ai",
-      "urlToImage": "https://mf.b37mrtl.ru/files/2026.02/article/698fc62a20302767f83d68b3.jpg",
-      "url": "/tech-news/2026-02-14/pentagon-used-claude-ai-to-kidnap-maduro-media/",
-      "source": {
-        "emoji": "📰",
-        "id": "rt",
-        "name": "RT"
-      },
-      "companies": [
-        "Anthropic"
-      ],
-      "people": []
-    },
-    {
-      "title": "Veřejně obchodovaná půjčovna na blockchainu Figure potvrdila únik dat zákazníků",
-      "description": "Blockchainová půjčovna Figure oznámila, že hackeři získali přístup k datům zákazníků po úspěšném sociálním inženýrském útoku na zaměstnance. Incident odhaluje slabiny v lidském faktoru bezpečnosti fintech firem.",
-      "slug": "publicly-traded-blockchain-lender-figure-confirms-",
-      "publishedAt": "2026-02-14T00:04:45+00:00",
-      "date": "2026-02-14 00:04:45",
-      "importance": 4,
-      "category": "kybernetika",
-      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/crime_hacker-gID_7.png",
-      "url": "/tech-news/2026-02-14/publicly-traded-blockchain-lender-figure-confirms/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Decrypt"
-      },
-      "companies": [
-        "Figure"
-      ],
-      "people": []
-    },
-    {
-      "title": "Jak Deep Fission snižuje náklady na jadernou energii o 80 procent",
-      "description": "Probíhá globální renesance jaderné energie, státy po světě znovu přijímají technologii štěpení jako bezpečnou součást stabilní nízkouhlíkové energetické směsi. Boom umělé inteligence tlačí politiky a soukromý sektor k rostoucímu zájmu o tento zdroj.",
-      "slug": "how-deep-fission-is-slashing-nuclear-costs-by-80-p",
-      "publishedAt": "2026-02-14T00:00:00+00:00",
-      "date": "2026-02-14 00:00:00",
-      "importance": 4,
-      "category": "jaderná energie",
-      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2026-02-13_cftabikn5w.jpg",
-      "url": "/tech-news/2026-02-14/how-deep-fission-is-slashing-nuclear-costs-by-80-p/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "OilPrice.com"
-      },
-      "companies": [
-        "Deep Fission"
-      ],
-      "people": []
-    },
-    {
-      "title": "Strategie dvojité reakce pro in situ zlepšení vodivosti umožňující vysoce výkonné vodné zinkové mikro-baterie",
-      "description": "Vědci představili strategii dvojité reakce v mikro-bateriích Zn || Bi2O3@Ag2O, kde první reakce zvyšuje vodivost pro druhou, což vede k výraznému nárůstu kapacity. Tento přístup dosahuje energetické hustoty kolem 19 000 μWh cm⁻² a výkonové hustoty nad 23 000 μW cm⁻², což překonává součet kapacit dvou samostatných baterií.",
-      "slug": "dual-reaction-strategy-for-in-situ-conductivity-en",
-      "publishedAt": "2026-02-14T00:00:00+00:00",
-      "date": "2026-02-14 00:00:00",
-      "importance": 4,
-      "category": "zinkové baterie",
-      "urlToImage": null,
-      "url": "/tech-news/2026-02-14/dual-reaction-strategy-for-in-situ-conductivity-en/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Nature.com"
       },
       "companies": [],
       "people": []
