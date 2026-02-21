@@ -1,7 +1,148 @@
 {
-  "generated": "2026-02-20T21:13:40.792307+00:00",
-  "count": 177,
+  "generated": "2026-02-21T01:31:31.663673+00:00",
+  "count": 184,
   "articles": [
+    {
+      "title": "AI agenti jsou rychlí, volní a mimo kontrolu, zjistila studie MIT",
+      "description": "Většina agentických AI systémů neuvádí nic o bezpečnostním testování, pokud nějaké proběhlo, a mnohé nemají zdokumentovaný způsob, jak vypnout nekontrolovaného agenta, zjistila studie MIT a spolupracovníků.",
+      "slug": "ai-agents-are-fast-loose-and-out-of-control-mit-st",
+      "publishedAt": "2026-02-20T01:00:38+00:00",
+      "date": "2026-02-20 01:00:38",
+      "importance": 5,
+      "category": "bezpečnost ai",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/deceff8c35e29522ef0f0e75f513318b30bff2a1/2026/02/19/9afd0cc6-7caf-48c1-8ce6-ff9f14cd4a45/gettyimages-2162589194.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "url": "/tech-news/2026-02-20/ai-agents-are-fast-loose-and-out-of-control-mit-st/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "ZDNet"
+      },
+      "companies": [
+        "MIT"
+      ],
+      "people": []
+    },
+    {
+      "title": "Indie a Evropa společně budují AI ekosystém k omezení závislosti na USA a Číně",
+      "description": "Evropa a Indie se spojují v tvorbě suverénního a udržitelného AI stacku, který snižuje závislost na technologiích z USA a Číny. Spolupráce se zaměřuje na infrastrukturu, čipy, software a výrobu, uvedl Emmanuel Le Roux, šéf francouzské firmy Bull specializující se na výpočetní systémy.",
+      "slug": "indiaeurope-push-joint-ai-ecosystem-to-cut-us-chin",
+      "publishedAt": "2026-02-20T00:30:00+00:00",
+      "date": "2026-02-20 00:30:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-658068,resizemode-75,msid-128567610/tech/artificial-intelligence/indiaeurope-push-joint-ai-ecosystem-to-cut-us-china-dependence.jpg",
+      "url": "/tech-news/2026-02-20/indiaeurope-push-joint-ai-ecosystem-to-cut-us-chin/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": [
+        "Emmanuel Le Roux"
+      ]
+    },
+    {
+      "title": "Nvidia blízko investice 30 miliard dolarů do obřího kola financování OpenAI, tvrdí zdroj",
+      "description": "Nvidia je blízko dokončení investice 30 miliard dolarů do OpenAI, čímž získá podíl v jednom ze svých největších odběratelů čipů. Tato investice je součástí fundraisingového kola, ve kterém OpenAI hledá více než 100 miliard dolarů a které by firmu valuovalo na přibližně 830 miliard dolarů.",
+      "slug": "nvidia-close-to-investing-30-billion-in-openais-me",
+      "publishedAt": "2026-02-20T00:25:53+00:00",
+      "date": "2026-02-20 00:25:53",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--l_ECBb_c--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-02-20T002456Z_1_LYNXMPEM1J00P_RTROPTP_3_NVIDIA-OPENAI-FUNDING.JPG?itok=x41h65nE",
+      "url": "/tech-news/2026-02-20/nvidia-close-to-investing-30-billion-in-openais-me/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNA"
+      },
+      "companies": [
+        "Nvidia",
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Velký únik dat z CarGurus: Údajně ukradeno 1,7 milionu korporátních záznamů",
+      "description": "Online tržiště automobilů CarGurus se stalo údajnou obětí hackingové skupiny ShinyHunters. Hackeři tvrdí, že prostřednictvím vishing útoků získali 1,7 milionu záznamů s osobními údaji a interními korporátními daty.",
+      "slug": "major-cargurus-data-breach-reportedly-sees-17-mill",
+      "publishedAt": "2026-02-20T00:20:00+00:00",
+      "date": "2026-02-20 00:20:00",
+      "importance": 5,
+      "category": "kybernetika",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ThNyuwnA55tfcixfqWcEcA-970-80.jpg",
+      "url": "/tech-news/2026-02-20/major-cargurus-data-breach-reportedly-sees-17-mill/",
+      "source": {
+        "emoji": "📰",
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "companies": [
+        "CarGurus"
+      ],
+      "people": []
+    },
+    {
+      "title": "Jak dluh soukromého kapitálu nechal přední VPN otevřenou čínským hackerům",
+      "description": "Finanční tlak na Pulse Secure urychlil propuštění zaměstnanců a oslabil bezpečnost softwaru Connect Secure. Čínští špióni tak infiltrovali systém používaný americkou vládou a tisíci firem.",
+      "slug": "how-private-equity-debt-left-a-leading-vpn-open-to",
+      "publishedAt": "2026-02-19T23:22:21+00:00",
+      "date": "2026-02-19 23:22:21",
+      "importance": 5,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/02/wolf-image-4.jpg",
+      "url": "/tech-news/2026-02-19/how-private-equity-debt-left-a-leading-vpn-open-to/",
+      "source": {
+        "emoji": "📰",
+        "id": "financial-post",
+        "name": "Financial Post"
+      },
+      "companies": [
+        "Pulse Secure"
+      ],
+      "people": []
+    },
+    {
+      "title": "Google představuje model Gemini 3.1 Pro pro pokročilé úlohy uvažování",
+      "description": "Google LLC dnes představil Gemini 3.1 Pro, nový model zaměřený na uvažování, který překonává Claude 4.6 Opus a GPT-5.2 v řadě benchmarků. Model je dostupný v více než půl tuctu produktů vyhledávacího giganta a podporuje multimodální vstupy až o 1 milion tokenů.",
+      "slug": "google-introduces-gemini-31-pro-model-for-advanced",
+      "publishedAt": "2026-02-19T23:21:34+00:00",
+      "date": "2026-02-19 23:21:34",
+      "importance": 5,
+      "category": "umělá inteligence",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Gemini.png",
+      "url": "/tech-news/2026-02-19/google-introduces-gemini-31-pro-model-for-advanced/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Je australská investice 100 milionů dolarů do Palantiru překročením hranice?",
+      "description": "Šéf firmy popisuje účel společnosti jako udržení Západu jako kulturní síly. Článek zkoumá, proč australský Future Fund drží podíl 100 milionů dolarů v kontroverzní firmě Palantir a jak získala vládní kontrakty.",
+      "slug": "is-australias-100-million-investment-in-palantir-b",
+      "publishedAt": "2026-02-19T23:20:05+00:00",
+      "date": "2026-02-19 23:20:05",
+      "importance": 4,
+      "category": "velká data",
+      "urlToImage": "https://assets.crikey.com.au/wp-content/uploads/sites/3/2026/02/13.jpg?quality=70&w=1024",
+      "url": "/tech-news/2026-02-19/is-australias-100-million-investment-in-palantir-b/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Crikey"
+      },
+      "companies": [
+        "Palantir"
+      ],
+      "people": []
+    },
     {
       "title": "Valar Atomics dosáhla jako první soukromá firma v USA „zero power criticality“ v reaktoru NOVA Core",
       "description": "Kalifornská společnost Valar Atomics oznámila klíčový milník v jaderné energii. Dosáhla studené criticality v reaktoru NOVA Core, což otevírá cestu k nové generaci jaderných technologií v USA.",
