@@ -1,7 +1,55 @@
 {
-  "generated": "2026-02-21T12:54:09.697680+00:00",
-  "count": 176,
+  "generated": "2026-02-21T16:41:22.645215+00:00",
+  "count": 178,
   "articles": [
+    {
+      "title": "Tesla prohrává významný soud: Soudce potvrzuje pokutu 243 milionů dolarů za smrtelnou nehodu",
+      "description": "Federální soudkyně Beth Bloom v Miami odmítla pokus Tesly zrušit verdikt poroty ve výši 243 milionů dolarů za smrtelnou nehodu způsobenou systémem Autopilot. Verdikt z srpna 2025 shledal společnost Elona Muska zodpovědnou za nehodu, při níž zemřelo dvě osoby.",
+      "slug": "tesla-suffers-major-court-loss-as-judge-upholds-24",
+      "publishedAt": "2026-02-20T16:19:56+00:00",
+      "date": "2026-02-20 16:19:56",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://www.rawstory.com/media-library/u-s-president-donald-trump-talks-to-the-media-next-to-tesla-ceo-elon-musk-with-his-son-x-ae-a-12-at-the-white-house-in-washing.jpg?id=58276463&width=1200&height=600&coordinates=0%2C377%2C0%2C377",
+      "url": "/tech-news/2026-02-20/tesla-suffers-major-court-loss-as-judge-upholds-24/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Raw Story"
+      },
+      "companies": [
+        "Tesla"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "AI sektor je stále přehřátý, paměťové čipy se stávají úzkým hrdlem",
+      "description": "Firma Ineffable Intelligence získala miliardu dolarů od investorů jako Sequoia, případně Nvidia, Alphabet a Microsoft, přestože nemá žádný produkt ani veřejně oznámené plány. Stejně tak Fei-Fei Li získala miliardu pro svou World Labs, která pracuje na fyzických AI modelech pro roboty.",
+      "slug": "its-still-frothy-in-ai-but-memory-chips-are-now-th",
+      "publishedAt": "2026-02-20T15:30:31+00:00",
+      "date": "2026-02-20 15:30:31",
+      "importance": 5,
+      "category": "paměťové čipy",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/AI-Funding-Frenzy-4.png",
+      "url": "/tech-news/2026-02-20/its-still-frothy-in-ai-but-memory-chips-are-now-th/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Sequoia",
+        "Nvidia",
+        "Alphabet",
+        "Microsoft",
+        "Ineffable Intelligence"
+      ],
+      "people": [
+        "Fei-Fei Li"
+      ]
+    },
     {
       "title": "Softwareová průmyslová revoluce",
       "description": "Stejně jako první průmyslová revoluce toto změní svět hlubokým a neočekávaným způsobem. Koncem roku 2025 došlo k průlomu v AI, kdy coding agenti na bázi umělé inteligence začali fungovat spolehlivě.",
