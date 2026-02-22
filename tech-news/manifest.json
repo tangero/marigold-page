@@ -1,10 +1,131 @@
 {
-  "generated": "2026-02-22T05:36:28.029053+00:00",
-  "count": 166,
+  "generated": "2026-02-22T08:43:31.191199+00:00",
+  "count": 172,
   "articles": [
     {
-      "title": "\"Miluji vizi premiéra Modiho na AI\": CEO OpenAI Sam Altman",
-      "description": "Sam Altman pochválil vizi indického premiéra Narendry Modiho na umělou inteligenci a rychlý růst Indie v této oblasti na India AI Impact Summit 2026.",
+      "title": "Technologickí giganti investují miliardy do indické umělé inteligence, New Delhi usiluje o postavení supervelmoci",
+      "description": "Technologičtí lídři a světoví představitelé se shromáždili v New Delhi na summitu India AI Impact Summit.",
+      "slug": "tech-giants-commit-billions-to-indian-ai-as-new-de",
+      "publishedAt": "2026-02-21T07:30:35+00:00",
+      "date": "2026-02-21 07:30:35",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108267430-17715196612026-02-19t073405z_1299559104_rc2soja17hj1_rtrmadp_0_india-ai.jpeg?v=1771519686&w=1920&h=1080",
+      "url": "/tech-news/2026-02-21/tech-giants-commit-billions-to-indian-ai-as-new-de/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "OpenAI očekává příjmy 280 miliard USD do roku 2030, plánuje výdaje 600 miliard USD",
+      "description": "OpenAI předpovídá explozivní růst příjmů na více než 280 miliard USD do roku 2030, přičemž plánuje utratit 600 miliard USD, uvedl zdroj obeznámený se situací pro Bloomberg. Tato ambiciózní projekce podtrhuje rychlý posun generativní AI v průmyslu.",
+      "slug": "openai-projects-us280b-revenue-by-2030-plans-us600",
+      "publishedAt": "2026-02-21T06:39:14+00:00",
+      "date": "2026-02-21 06:39:14",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.digitimes.com/newsshow/20260221vl203_files/2_2b.jpg",
+      "url": "/tech-news/2026-02-21/openai-projects-us280b-revenue-by-2030-plans-us600/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Digitimes"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "India AI Summit: Francouzský prezident Macron vyzdvihl partnerství AI startupu se St. John’s Research Institute",
+      "description": "St. John’s Research Institute v Bengaluru navázal spolupráci s francouzským startupem H Company na využití agentické umělé inteligence pro zefektivnění administrativy v zdravotnictví. Partnerství prezentoval francouzský prezident Emmanuel Macron na India AI Impact Summit 2026 jako příklad zodpovědné mezinárodní spolupráce.",
+      "slug": "india-ai-summit-french-president-macron-spotlights",
+      "publishedAt": "2026-02-21T06:37:23+00:00",
+      "date": "2026-02-21 06:37:23",
+      "importance": 4,
+      "category": "ai startupy",
+      "urlToImage": "https://www.indiancatholicmatters.org/wp-content/uploads/2026/02/Macron.jpg",
+      "url": "/tech-news/2026-02-21/india-ai-summit-french-president-macron-spotlights/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Indiancatholicmatters.org"
+      },
+      "companies": [],
+      "people": [
+        "Macron"
+      ]
+    },
+    {
+      "title": "Proč se Google spojil se Sea? #tech",
+      "description": "Google a Sea uzavřely strategické partnerství na vývoj generativních AI nástrojů pro e-commerce platformu Shopee a herní divizi Garena. Tímto krokem Sea získává přístup k pokročilým AI schopnostem Google a ten posiluje svou pozici v rychle rostoucích trzích jihovýchodní Asie.",
+      "slug": "why-did-google-partner-with-sea-tech",
+      "publishedAt": "2026-02-21T06:04:04+00:00",
+      "date": "2026-02-21 06:04:04",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://alltoc.com/cdn/1045/og.png",
+      "url": "/tech-news/2026-02-21/why-did-google-partner-with-sea-tech/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Alltoc.com"
+      },
+      "companies": [
+        "Google",
+        "Sea"
+      ],
+      "people": []
+    },
+    {
+      "title": "Co je Claude Code Security od Anthropic? #tech",
+      "description": "Nový nástroj umělé inteligence pro bezpečnostní kontroly kódu. Anthropic představil Claude Code Security, který prohledává kódbáze, identifikuje zranitelnosti a navrhuje cílené opravy softwaru.",
+      "slug": "what-is-anthropics-claude-code-security-tech",
+      "publishedAt": "2026-02-21T06:04:04+00:00",
+      "date": "2026-02-21 06:04:04",
+      "importance": 4,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://alltoc.com/cdn/1045/og.png",
+      "url": "/tech-news/2026-02-21/what-is-anthropics-claude-code-security-tech/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Alltoc.com"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": []
+    },
+    {
+      "title": "Baterie Donut Lab: Moment Wrightových bratrů pro energetickou nezávislost?",
+      "description": "Finský startup Donut Lab oznámil vývoj solid-state baterie s hustotou energie 400 Wh/kg, 100 000 cykly nabíjení a dobou nabíjení pět minut. Tyto parametry, pokud se potvrdí, by překonaly současné limity technologie úložišť energie.",
+      "slug": "the-donut-lab-battery-a-wright-brothers-moment-for",
+      "publishedAt": "2026-02-21T06:00:00+00:00",
+      "date": "2026-02-21 06:00:00",
+      "importance": 5,
+      "category": "úložiště energie",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/02/solid-state-battery-energy-density-charge-cycles-311-original.jpg",
+      "url": "/tech-news/2026-02-21/the-donut-lab-battery-a-wright-brothers-moment-for/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "companies": [
+        "Donut Lab"
+      ],
+      "people": [
+        "Marco Letimäki"
+      ]
+    },
+    {
+      "title": "„Miluji vizu premiéra Modiho na AI“: CEO OpenAI Sam Altman",
+      "description": "CEO OpenAI Sam Altman pochválil vizi indického premiéra Narendra Modiho na umělou inteligenci a rychlý růst Indie v této technologii na India AI Impact Summit 2026. Zdůraznil vzrušení indických vývojářů a snahu demokratizovat AI pro širokou společnost.",
       "slug": "love-pm-modis-vision-on-ai-openai-ceo-sam-altman",
       "publishedAt": "2026-02-21T04:41:25+00:00",
       "date": "2026-02-21 04:41:25",
