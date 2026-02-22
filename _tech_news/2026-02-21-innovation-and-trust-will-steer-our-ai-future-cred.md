@@ -1,15 +1,14 @@
 ---
 author: Marisa Aigen
-category: umělá inteligence
+category: ai
 companies:
 - Credo AI
 - G42
 date: '2026-02-21 00:31:00'
-description: Navrina Singh na okrajích India AI Impact Summit uvedla, že Credo AI
-  uzavřelo strategické partnerství s G42 z Abu Dhabi k operacionalizaci zodpovědné
-  umělé inteligence v zemích globálního jihu. Spolupráce má vestřelit rámce správy
-  do AI systémů nasazených na národní a podnikové úrovni s důrazem na agentic AI,
-  gramotnost a nástroje.
+description: Navrina Singh na okraj Indie AI Impact Summit oznámila strategické partnerství
+  Credo AI s firmou G42 z Abu Dhabi pro operacionalizaci zodpovědné umělé inteligence
+  v globálním jihu. Spolupráce cílí na vestavění rámců governance do AI systémů v
+  národním a podnikovém měřítku s důrazem na agentic AI, gramotnost a nástroje.
 importance: 4
 layout: tech_news_article
 original_title: 'Innovation and trust will steer our AI future: Credo AI CEO'
@@ -21,31 +20,34 @@ source:
   emoji: 📰
   id: the-times-of-india
   name: The Times of India
-title: 'Inovace a důvěra budou určovat budoucnost umělé inteligence: CEO Credo AI'
+title: 'Inovace a důvěra budou určovat budoucnost umělé inteligence: generální ředitelka
+  Credo AI'
 url: https://economictimes.indiatimes.com/tech/technology/innovation-and-trust-will-steer-our-ai-future-credo-ai-ceo/articleshow/128617876.cms
 urlToImage: https://img.etimg.com/thumb/width-1200,height-900,imgsize-48680,resizemode-75,msid-128617876/tech/technology/innovation-and-trust-will-steer-our-ai-future-credo-ai-ceo.jpg
 urlToImageBackup: https://img.etimg.com/thumb/width-1200,height-900,imgsize-48680,resizemode-75,msid-128617876/tech/technology/innovation-and-trust-will-steer-our-ai-future-credo-ai-ceo.jpg
 ---
 
 ## Souhrn
-Credo AI, americká firma specializující se na správu umělé inteligence, uzavřela strategické partnerství s G42, přední AI společností z Abu Dhabi. Cílem je zavést zodpovědnou umělou inteligenci v regionech globálního jihu prostřednictvím governance rámců pro systémy nasazené ve velkém měřítku. Partnerství se zaměřuje na agentic AI, vzdělávání uživatelů a vývoj nástrojů pro efektivní správu rizik.
+Credo AI, americká firma specializující se na governance umělé inteligence, uzavřela strategické partnerství s G42, předním poskytovatelem AI technologií z Abu Dhabi. Cílem je zavést rámce pro zodpovědné nasazení AI v zemích globálního jihu, kde se rychle rozšiřuje adopce těchto technologií. Partnerství se zaměřuje na agentic AI, vzdělávání uživatelů a vývoj nástrojů pro správu rizik.
 
 ## Klíčové body
-- Strategické partnerství mezi Credo AI a G42 pro operacionalizaci zodpovědné AI v globálním jihu.
-- Zaměření na governance rámce pro agentic AI (autonomní AI agenti schopní samostatných akcí), gramotnost v AI a specializované nástroje.
-- AI governance zahrnuje identifikaci rizik, doporučení kontrol, dokumentaci shody a soulad s interními politikami i globálními standardy.
-- Zodpovědná AI podle Singhové nebrání inovacím, ale umožňuje udržitelný růst a minimalizaci legálních, reputačních a provozních rizik.
-- Iniciativa reaguje na rostoucí prioritu AI governance v řídících orgánech firem.
+- Strategické partnerství Credo AI a G42 pro operacionalizaci zodpovědného AI v globálním jihu.
+- Zaměření na vestavění governance do AI systémů v národním a podnikovém měřítku.
+- Důraz na agentic AI (autonomní AI agenti), gramotnost v AI a specializované nástroje.
+- Governance zahrnuje identifikaci rizik, doporučení kontrol, dokumentaci souladu a sladění s politikami a standardy.
+- Zodpovědná AI podle Singhové nebrzdí inovace, ale umožňuje udržitelný růst.
 
 ## Podrobnosti
-Navrina Singh, zakladatelka a generální ředitelka Credo AI se sídlem v USA, prezentovala partnerství na okrajích India AI Impact Summit. Credo AI vyvinula platformu pro správu AI systémů, která automaticky odhaluje rizika jako bias v datech nebo bezpečnostní zranitelnosti, navrhuje kontrolní mechanismy a zajišťuje dokumentaci pro audity. Tato platforma slouží k nasazení AI v souladu s předpisy jako EU AI Act nebo NIST frameworky a umožňuje firmám škálovat AI bez neočekávaných problémů.
+Navrina Singh, zakladatelka a generální ředitelka Credo AI, prezentovala partnerství na okraj summitu India AI Impact Summit. Credo AI vyvinulo platformu pro správu AI rizik, která pomáhá firmám identifikovat potenciální problémy jako bias v modelech, bezpečnostní zranitelnosti nebo nesoulad s regulacemi. Tato platforma automaticky analyzuje AI systémy, navrhuje mitigace a generuje reporty pro compliance. G42, saúdskoarabská firma s miliardovými investicemi od Microsoftu a OpenAI, se specializuje na velké jazykové modely a cloudové AI služby, které nasazuje v infrastruktuře Blízkého východu.
 
-G42, emirátstní AI gigant s projekty v oblasti zdravotnictví, energie a veřejné správy, přináší do spolupráce zkušenosti s národními AI infrastrukturami v Blízkém východě. Společně chtějí integrovat governance do AI nasazených na národní úrovni (např. státní AI platformy pro veřejné služby) i v podnicích. Zaměřují se na agentic AI, což jsou pokročilé modely schopné autonomních rozhodnutí a sekvencí akcí, jako jsou AI agenti pro automatizaci úkolů v podnikových workflow. Dále plánují programy na zvyšování gramotnosti – vzdělávání pracovníků a rozhodovatelů o rizicích a etice AI – a vývoj nástrojů pro monitorování a úpravu modelů v reálném čase.
+Spolupráce se soustředí na regiony globálního jihu, kde země jako Indie, Brazílie nebo africké státy rychle zavádějí AI do veřejné správy, zdravotnictví a financí, ale často bez dostatečných bezpečnostních mechanismů. Například agentic AI označuje autonomní agenty, kteří na základě velkých jazykových modelů (LLM) jako GPT nebo Llama provádějí složité úkoly – od plánování logistiky po automatizované rozhodování v podnicích. Bez governance mohou tito agenti způsobit chyby, jako šíření dezinformací nebo diskriminaci.
 
-Singh zdůraznila, že governance není jen formální povinnost, ale praktický systém procesů: od mapování, kde AI rozhoduje a kdo s ním interaguje, přes testování na rizika až po kontinuální sledování. Podle ní firmy, které to implementují brzy, získají konkurenční výhodu, protože minimalizují rizika spojená s rychlým nasazením velkých jazykových modelů nebo autonomních systémů. Partnerství přichází v době, kdy AI adoption v Asii, Africe a Latinské Americe roste, ale chybí lokální rámce pro bezpečné nasazení.
+Singh zdůraznila, že governance není jen formálnost, ale praktický nástroj: systémy pro sledování rizik, procesy pro testování modelů a rámce pro dokumentaci. Firmy tak mohou sladit své AI s vnitřními politikami i globálními standardy, jako EU AI Act nebo NIST framework. Podle ní to snižuje právní, reputační a provozní rizika. Například v podnikovém nasazení agentic AI governance zajišťuje, že agenti respektují datovou soukromí a etické limity, což umožňuje škálování bez obav z pokut.
+
+V kontextu akcelerující adopce AI, kde se governance stává prioritou správních rad, toto partnerství přináší konkrétní řešení. Credo AI již spolupracuje s firmami jako Intel a NASA, zatímco G42 buduje národní AI infrastrukturu v SAE. Společně chtějí přenést tyto zkušenosti do rozvojových trhů, kde chybí lokální regulace.
 
 ## Proč je to důležité
-S urychleným rozvojem umělé inteligence se governance stává klíčovou prioritou v řídících orgánech, místo jen dodatečné compliance. Toto partnerství může ovlivnit nasazení AI v rozvojových regionech, kde absence standardů vede k rizikům jako diskriminace v AI systémech pro veřejné služby nebo bezpečnostní propady v enterprise aplikacích. Pro průmysl znamená lepší škálovatelnost agentic AI bez soudních sporů, pro uživatele v globálním jihu vyšší důvěru v technologie. V širším kontextu posiluje tlak na globální standardy, kde firmy jako Credo AI a G42 nastavují precedens pro udržitelnou inovaci oproti rychlému, nekontrolovanému růstu.
+Toto partnerství posiluje trend, kdy se zodpovědná AI stává klíčovým faktorem konkurenceschopnosti. V době, kdy AI systémy ovlivňují kritické oblasti jako zdravotnictví nebo veřejné finance v globálním jihu, absence governance vede k rizikům jako masivní bias nebo kybernetické útoky. Pro průmysl znamená snížení rizik a rychlejší adopci; pro uživatele v rozvojových zemích bezpečnější AI nástroje. V širším ekosystému to podporuje standardizaci, což může ovlivnit globální normy a konkurovat iniciativám jako od Google nebo Microsoft. Kriticky řečeno, zatímco partnerství slibuje udržitelnost, úspěch závisí na praktické implementaci v reálných nasazeních, kde mnoho governance nástrojů selhává kvůli složitosti agentic AI.
 
 ---
 

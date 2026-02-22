@@ -1,10 +1,96 @@
 {
-  "generated": "2026-02-22T01:31:25.653638+00:00",
-  "count": 189,
+  "generated": "2026-02-22T05:36:28.029053+00:00",
+  "count": 166,
   "articles": [
     {
-      "title": "OpenAI očekává příjmy přes 280 miliard dolarů v roce 2030",
-      "description": "Šéfka financí OpenAI Sarah Friar uvedla, že roční příjmy společnosti překročily 20 miliard dolarů v roce 2025, oproti zhruba 6 miliardám v předchozím roce.",
+      "title": "\"Miluji vizi premiéra Modiho na AI\": CEO OpenAI Sam Altman",
+      "description": "Sam Altman pochválil vizi indického premiéra Narendry Modiho na umělou inteligenci a rychlý růst Indie v této oblasti na India AI Impact Summit 2026.",
+      "slug": "love-pm-modis-vision-on-ai-openai-ceo-sam-altman",
+      "publishedAt": "2026-02-21T04:41:25+00:00",
+      "date": "2026-02-21 04:41:25",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/s7ukom/article70658949.ece/alternates/LANDSCAPE_1200/20260220040L.jpg",
+      "url": "/tech-news/2026-02-21/love-pm-modis-vision-on-ai-openai-ceo-sam-altman/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": [
+        "Sam Altman",
+        "Narendra Modi"
+      ]
+    },
+    {
+      "title": "Bezplatný ChatGPT je překvapivě drahý, tady je důvod",
+      "description": "OpenAI řeší obrovské náklady na provoz ChatGPT v globálním měřítku, což vede k přechodu na reklamy, nové cenové stupně a dlouhodobé strategie výdělku pro zajištění udržitelnosti služby.",
+      "slug": "free-chatgpt-is-surprisingly-expensive-heres-why",
+      "publishedAt": "2026-02-21T03:00:00+00:00",
+      "date": "2026-02-21 03:00:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/eqhwURZAudkUMLkx6i533c-1920-80.jpg",
+      "url": "/tech-news/2026-02-21/free-chatgpt-is-surprisingly-expensive-heres-why/",
+      "source": {
+        "emoji": "📰",
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Mistral vidí AI jako utility s důrazem na efektivitu: Zakladatel Arthur Mensch",
+      "description": "Indičtí podnikatelé by měli řídit své firmy z vlastní země, aby zde zůstala inovace, tvrdí zakladatel Mistral AI Arthur Mensch. Evropská AI společnost získala v září 2025 více než 2 miliardy dolarů v kole Series C.",
+      "slug": "mistral-sees-ai-as-utility-emphasis-more-on-effici",
+      "publishedAt": "2026-02-21T01:49:59+00:00",
+      "date": "2026-02-21 01:49:59",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-35728,resizemode-75,msid-128630345/tech/artificial-intelligence/mistral-sees-ai-as-utility-emphasis-more-on-efficiency-founder-arthur-mensch.jpg",
+      "url": "/tech-news/2026-02-21/mistral-sees-ai-as-utility-emphasis-more-on-effici/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Mistral"
+      ],
+      "people": [
+        "Arthur Mensch"
+      ]
+    },
+    {
+      "title": "Google údajně investuje 100 milionů dolarů do provozovatele AI cloudu Fluidstack",
+      "description": "Cloudový startup Fluidstack Ltd. údajně jedná s Google LLC o investici 100 milionů dolarů. Podle zdrojů Wall Street Journal by dohoda mohla ocenit Fluidstack na 7,5 miliardy dolarů.",
+      "slug": "google-could-reportedly-invest-100m-in-ai-cloud-op",
+      "publishedAt": "2026-02-21T01:34:02+00:00",
+      "date": "2026-02-21 01:34:02",
+      "importance": 4,
+      "category": "ai startupy",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/IMG_3819-800x533-1-2.jpg",
+      "url": "/tech-news/2026-02-21/google-could-reportedly-invest-100m-in-ai-cloud-op/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Google",
+        "Fluidstack"
+      ],
+      "people": []
+    },
+    {
+      "title": "OpenAI očekává, že jeho příjmy překročí 280 miliard dolarů v roce 2030",
+      "description": "Finanční ředitelka OpenAI Sarah Friar nedávno uvedla, že roční příjmy společnosti překročily 20 miliard dolarů v roce 2025, oproti zhruba 6 miliardám v předchozím roce. Prognóza odráží rychlý růst díky prodejům AI služeb a novým zdrojům příjmů jako testování reklamy.",
       "slug": "openai-forecasts-its-revenue-will-top-280-billion-",
       "publishedAt": "2026-02-21T00:31:57+00:00",
       "date": "2026-02-21 00:31:57",
@@ -25,13 +111,13 @@
       ]
     },
     {
-      "title": "Inovace a důvěra budou určovat budoucnost umělé inteligence: CEO Credo AI",
-      "description": "Navrina Singh na okrajích India AI Impact Summit uvedla, že Credo AI uzavřelo strategické partnerství s G42 z Abu Dhabi k operacionalizaci zodpovědné umělé inteligence v zemích globálního jihu. Spolupráce má vestřelit rámce správy do AI systémů nasazených na národní a podnikové úrovni s důrazem na agentic AI, gramotnost a nástroje.",
+      "title": "Inovace a důvěra budou určovat budoucnost umělé inteligence: generální ředitelka Credo AI",
+      "description": "Navrina Singh na okraj Indie AI Impact Summit oznámila strategické partnerství Credo AI s firmou G42 z Abu Dhabi pro operacionalizaci zodpovědné umělé inteligence v globálním jihu. Spolupráce cílí na vestavění rámců governance do AI systémů v národním a podnikovém měřítku s důrazem na agentic AI, gramotnost a nástroje.",
       "slug": "innovation-and-trust-will-steer-our-ai-future-cred",
       "publishedAt": "2026-02-21T00:31:00+00:00",
       "date": "2026-02-21 00:31:00",
       "importance": 4,
-      "category": "umělá inteligence",
+      "category": "ai",
       "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-48680,resizemode-75,msid-128617876/tech/technology/innovation-and-trust-will-steer-our-ai-future-credo-ai-ceo.jpg",
       "url": "/tech-news/2026-02-21/innovation-and-trust-will-steer-our-ai-future-cred/",
       "source": {
@@ -48,8 +134,8 @@
       ]
     },
     {
-      "title": "Tři inženýři obviněni z krádeže obchodních tajemství Google a předání dat Íránu",
-      "description": "Tři inženýři byli zatčeni a obviněni z krádeže důvěrných dat z Google a dalších amerických technologických firem, která následně poslali do neoprávněných destinací včetně Íránu.",
+      "title": "Tři inženýři obviněni z krádeže obchodních tajemství Google a odeslání do Íránu",
+      "description": "Tři inženýři byli zatčeni a obviněni z krádeže obchodních tajemství z Google a dalších amerických technologických firem a předání důvěrných dat do neoprávněných destinací, včetně Íránu.",
       "slug": "three-engineers-charged-with-allegedly-stealing-go",
       "publishedAt": "2026-02-21T00:26:13+00:00",
       "date": "2026-02-21 00:26:13",
@@ -3306,555 +3392,6 @@
         "emoji": "📰",
         "id": "the-times-of-india",
         "name": "The Times of India"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Proč má Indie 100 milionů uživatelů ChatGPT? #tech",
-      "description": "Rychlé přijetí a proč na tom záleží. Generální ředitel OpenAI oznámil, že Indie tvoří zhruba 100 milionů týdenních aktivních uživatelů ChatGPT, čímž se stává druhým největším trhem po USA.",
-      "slug": "why-does-india-have-100m-chatgpt-users-tech",
-      "publishedAt": "2026-02-15T20:02:45+00:00",
-      "date": "2026-02-15 20:02:45",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://alltoc.com/cdn/1045/og.png",
-      "url": "/tech-news/2026-02-15/why-does-india-have-100m-chatgpt-users-tech/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Alltoc.com"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Wesfarmers nasadí agentic AI v maloobchodních operacích",
-      "description": "Maloobchodní konglomerát za značkami Kmart a Officeworks uzavřel víceletou smlouvu s Google Cloud na nasazení AI agentů pro zákaznický servis a interní produktivitu.",
-      "slug": "wesfarmers-to-deploy-agentic-ai-in-retail-operatio",
-      "publishedAt": "2026-02-15T19:00:00+00:00",
-      "date": "2026-02-15 19:00:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/Hero Images/fashion-clothes-retail-shopping-teenagers-adobe.jpeg",
-      "url": "/tech-news/2026-02-15/wesfarmers-to-deploy-agentic-ai-in-retail-operatio/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "ComputerWeekly.com"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Technologie Sony Group dokáže identifikovat originální hudbu v písních generovaných umělou inteligencí",
-      "description": "Společnost Sony Group vyvinula technologii, která odhaluje původní hudbu použitou při tvorbě skladeb generovaných umělou inteligencí. Tento nástroj umožňuje skladatelům a držitelům autorských práv požadovat kompenzace od vývojářů AI.",
-      "slug": "sony-group-tech-can-identify-original-music-in-ai-",
-      "publishedAt": "2026-02-15T18:07:50+00:00",
-      "date": "2026-02-15 18:07:50",
-      "importance": 4,
-      "category": "ai hudba",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F7%2F1%2F6%2F12146178-1-eng-GB%2Fae99a1e29911-photo_SXM2026021400009257.jpg?width=1260&fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=auto&height=630",
-      "url": "/tech-news/2026-02-15/sony-group-tech-can-identify-original-music-in-ai/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Nikkei.com"
-      },
-      "companies": [
-        "Sony Group"
-      ],
-      "people": []
-    },
-    {
-      "title": "Indie má 100 milionů týdně aktivních uživatelů ChatGPT, říká Sam Altman",
-      "description": "Generální ředitel OpenAI Sam Altman uvedl, že Indie je druhým největším trhem ChatGPT po USA a má největší počet studentů používajících tento nástroj na světě.",
-      "slug": "india-has-100m-weekly-active-chatgpt-users-sam-alt",
-      "publishedAt": "2026-02-15T18:03:00+00:00",
-      "date": "2026-02-15 18:03:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/04/chatgpt-india.jpg?resize=1200,800",
-      "url": "/tech-news/2026-02-15/india-has-100m-weekly-active-chatgpt-users-sam-alt/",
-      "source": {
-        "emoji": "🚀",
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": [
-        "Sam Altman"
-      ]
-    },
-    {
-      "title": "GA-ASI dosáhla nového milníku s poloautonomním letem CCA",
-      "description": "Společnost General Atomics Aeronautical Systems (GA-ASI) úspěšně integrovala software pro autonomní mise třetí strany do beopilotního stíhače YFQ-42A Collaborative Combat Aircraft. Letadlo provedlo první poloautonomní misi trvající více než čtyři hodiny.",
-      "slug": "ga-asi-achieves-new-milestone-with-semi-autonomous",
-      "publishedAt": "2026-02-15T18:00:00+00:00",
-      "date": "2026-02-15 18:00:00",
-      "importance": 4,
-      "category": "beopilotní letadla",
-      "urlToImage": "https://soldiersystems.net/wp-content/uploads/2026/02/img_7123.jpg",
-      "url": "/tech-news/2026-02-15/ga-asi-achieves-new-milestone-with-semi-autonomous/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Soldiersystems.net"
-      },
-      "companies": [
-        "General Atomics Aeronautical Systems",
-        "Inc"
-      ],
-      "people": []
-    },
-    {
-      "title": "Pentagon prý zuří na Anthropic kvůli odmítnutí neomezené podpory vojenským projektům",
-      "description": "Autonomní roje dronů a masové sledování jsou podle zpráv hlavními spornými body mezi Pentagonem a AI firmou Anthropic. Firma trvá na limitech pro použití svých modelů v citlivých oblastech.",
-      "slug": "pentagon-reportedly-hopping-mad-at-anthropic-for-n",
-      "publishedAt": "2026-02-15T16:59:24+00:00",
-      "date": "2026-02-15 16:59:24",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://gizmodo.com/app/uploads/2026/02/drone-swarm-1200x675.jpg",
-      "url": "/tech-news/2026-02-15/pentagon-reportedly-hopping-mad-at-anthropic-for-n/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "companies": [
-        "Anthropic"
-      ],
-      "people": []
-    },
-    {
-      "title": "20VC x SaaStr tento týden s Mike Cannon-Brookes, spoluzakladatelem Atlassian: Proč B2B software není mrtvý, co skutečně znamená projekce Anthropic na 149 miliard dolarů a proč generální ředitelé musí přestat stěžovat si a začít budovat",
-      "description": "V podcastu 20VC x SaaStr diskutují Harry Stebbings, Jason Lemkin, Rory O’Driscoll a host Mike Cannon-Brookes z Atlassian dopad umělé inteligence na trh B2B software, reálnost projekcí Anthropic a OpenAI a výzvy pro šéfy firem. Zaměřují se na problémy s akumulací příjmů v AI ekosystému a nutnost aktivního budování.",
-      "slug": "A-20vc-x-saastr-this-week-with-atlassian-co-founde",
-      "publishedAt": "2026-02-15T15:10:54+00:00",
-      "date": "2026-02-15 15:10:54",
-      "importance": 4,
-      "category": "saas",
-      "urlToImage": "https://i0.wp.com/www.saastr.com/wp-content/uploads/2026/02/Creature-Feature-scaled.jpg?fit=1000%2C565&quality=70&ssl=1",
-      "url": "/tech-news/2026-02-15/A-20vc-x-saastr-this-week-with-atlassian-co-founde/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Saastr.com"
-      },
-      "companies": [
-        "Atlassian",
-        "Anthropic",
-        "Scale"
-      ],
-      "people": [
-        "Mike Cannon-Brookes",
-        "Harry Stebbings",
-        "Jason Lemkin"
-      ]
-    },
-    {
-      "title": "„Vaše AI nenávidí Bílé a Asijce:“ Elon Musk kritizuje Anthropic po 30miliardovém financování",
-      "description": "Elon Musk veřejně označil modely umělé inteligence společnosti Anthropic za „misanthropní a zlé“, protože podle něj diskriminují Bílé lidi, Asijce, heterosexuály a muže. Kritika přišla krátce po oznámení úspěšného uzavření 30miliardového kola financování s valuací 380 miliard dolarů.",
-      "slug": "your-ai-hates-whites-asians-elon-musk-slams-anthro",
-      "publishedAt": "2026-02-15T14:59:50+00:00",
-      "date": "2026-02-15 14:59:50",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://media.breitbart.com/media/2026/02/Elon-Musk-targets-anthropic-640x335.jpg",
-      "url": "/tech-news/2026-02-15/your-ai-hates-whites-asians-elon-musk-slams-anthro/",
-      "source": {
-        "emoji": "📰",
-        "id": "breitbart-news",
-        "name": "Breitbart News"
-      },
-      "companies": [
-        "Anthropic"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Hygiena reality",
-      "description": "Ačkoli propagandu nadšenů z umělé inteligence o schopnostech velkých jazykových modelů považuji za přehnanou, více mě znepokojuje vývoj v oblasti deepfakes. Na základě událostí z uplynulého týdne je otázka, zda vidět stále znamená věřit, stále otevřená.",
-      "slug": "reality-hygiene",
-      "publishedAt": "2026-02-15T14:19:35+00:00",
-      "date": "2026-02-15 14:19:35",
-      "importance": 4,
-      "category": "deepfakes",
-      "urlToImage": null,
-      "url": "/tech-news/2026-02-15/reality-hygiene/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Lawyersgunsmoneyblog.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Roj AI botů ohrožuje demokracii",
-      "description": "Úroveň koordinace mezi neautentickými online agenty je bezprecedentní. Výzkumníci odhalili síť tisíců botů poháněných AI, které manipulují algoritmy sociálních sítí.",
-      "slug": "swarms-of-ai-bots-are-threatening-democracy",
-      "publishedAt": "2026-02-15T11:00:56+00:00",
-      "date": "2026-02-15 11:00:56",
-      "importance": 5,
-      "category": "ai boty",
-      "urlToImage": "https://www.salon.com/app/uploads/2021/04/artificial-intelligence-robot-0427211.jpg",
-      "url": "/tech-news/2026-02-15/swarms-of-ai-bots-are-threatening-democracy/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Salon"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "AI agenti mění, jaké je být programátorem: 'Je to na rozdíl od jakéhokoli jiného času.'",
-      "description": "AI agenti proměňují softwarové inženýry v dozorce – a mohou zasáhnout i jiné kancelářské profese. Mnoho firem se stále musí přizpůsobit novým rolím zaměstnanců.",
-      "slug": "ai-agents-are-transforming-what-its-like-to-be-a-c",
-      "publishedAt": "2026-02-15T10:03:01+00:00",
-      "date": "2026-02-15 10:03:01",
-      "importance": 4,
-      "category": "programování",
-      "urlToImage": "https://i.insider.com/698f8473e1ba468a96ac0fae?width=1200&format=jpeg",
-      "url": "/tech-news/2026-02-15/ai-agents-are-transforming-what-its-like-to-be-a-c/",
-      "source": {
-        "emoji": "📰",
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "iPhone 17e od Apple by mohl přijít příští týden: Finální design, cena 599 USD a čip A19",
-      "description": "Apple údajně představil iPhone 17e jako cenově dostupný smartphone pro širší přístup k iOS ekosystému. Tento vstupní model s cenou 599 USD kombinuje čip A19, 6,1palcový displej a moderní design s Dynamic Island pro běžné uživatele.",
-      "slug": "apples-iphone-17e-could-arrive-next-week-final-des",
-      "publishedAt": "2026-02-15T10:00:40+00:00",
-      "date": "2026-02-15 10:00:40",
-      "importance": 4,
-      "category": "mobilní telefony",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/02/iphone-17e-budget-smartphone-design_optimized-1.jpg",
-      "url": "/tech-news/2026-02-15/apples-iphone-17e-could-arrive-next-week-final-des/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
-      "title": "Kosická loď SpaceX Dragon se spojila s Mezinárodní vesmírnou stanicí (VIDEO)",
-      "description": "Kosická loď SpaceX Crew Dragon s ruským kosmonautem Andrejem Fediaevem se úspěšně spojila s Mezinárodní vesmírnou stanicí. Přečtěte si celý článek na RT.com",
-      "slug": "spacex-dragon-spacecraft-docks-at-iss-video",
-      "publishedAt": "2026-02-15T08:35:53+00:00",
-      "date": "2026-02-15 08:35:53",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://mf.b37mrtl.ru/files/2026.02/article/6991580a85f540366a5f2754.jpeg",
-      "url": "/tech-news/2026-02-15/spacex-dragon-spacecraft-docks-at-iss-video/",
-      "source": {
-        "emoji": "📰",
-        "id": "rt",
-        "name": "RT"
-      },
-      "companies": [
-        "SpaceX"
-      ],
-      "people": [
-        "Andrey Fedyaev"
-      ]
-    },
-    {
-      "title": "Chytré brýle Meta získají rozpoznávání obličejů v reálném čase",
-      "description": "Meta připravuje pro své chytré brýle funkci Name Tag s real-time rozpoznáváním obličejů, které umožní identifikovat lidi v okolí a zobrazit jejich osobní údaje přes AI asistenta. Funkce vyvolává silnou kritiku kvůli rizikům pro soukromí a anonymitu v veřejných prostorech.",
-      "slug": "metas-smart-glasses-to-get-real-time-facial-recogn",
-      "publishedAt": "2026-02-15T08:34:26+00:00",
-      "date": "2026-02-15 08:34:26",
-      "importance": 4,
-      "category": "chytré brýle",
-      "urlToImage": "https://www.ghacks.net/wp-content/uploads/2026/02/gHacks-articles-60.png",
-      "url": "/tech-news/2026-02-15/metas-smart-glasses-to-get-real-time-facial-recogn/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Ghacks Technology News"
-      },
-      "companies": [
-        "Meta"
-      ],
-      "people": []
-    },
-    {
-      "title": "Šéf OpenAI Sam Altman prosazuje přístup 'Demokratická AI' v Indii, plánuje expanzi a partnerství s vládou",
-      "description": "Šéf OpenAI Sam Altman označil Indii za potenciálního lídra v umělé inteligenci a oznámil plány na rozšíření působení firmy v zemi včetně hlubší spolupráce s indickou vládou. Indie se stala druhým největším trhem OpenAI po USA díky bezplatnému přístupu k nástrojům umělé inteligence.",
-      "slug": "openai-ceo-advocates-democratic-ai-approach-in-ind",
-      "publishedAt": "2026-02-15T07:33:39+00:00",
-      "date": "2026-02-15 07:33:39",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/b4blje/article70634775.ece/alternates/LANDSCAPE_1200/2026-02-03T191522Z_1658583665_RC2WXGAY2L1M_RTRMADP_3_AI-SUMMIT-OPENAI-MOLTBOOK.JPG",
-      "url": "/tech-news/2026-02-15/openai-ceo-advocates-democratic-ai-approach-in-ind/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": [
-        "Sam Altman"
-      ]
-    },
-    {
-      "title": "Šéf OpenAI označil Indii za 'full stack AI lídra' před velkým summitem",
-      "description": "Před summitem AI Impact Summit 2026, který začne zítra, Altman uvedl, že Indie se stala druhým největším uživatelským trhem OpenAI na světě, hned po USA. OpenAI plánuje rozšířit svou přítomnost v zemi a prohloubit partnerství s indickou vládou.",
-      "slug": "openai-ceo-hails-india-as-full-stack-ai-leader-ahe",
-      "publishedAt": "2026-02-15T07:28:08+00:00",
-      "date": "2026-02-15 07:28:08",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-08/08/thumb/fitandfill/1200X630/1754592544-4362.jpg",
-      "url": "/tech-news/2026-02-15/openai-ceo-hails-india-as-full-stack-ai-leader-ahe/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Business Standard"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": [
-        "Sam Altman"
-      ]
-    },
-    {
-      "title": "„Umělá inteligence se stane trvalou vrstvou lidského pokroku,“ říká Sam Altman při vysvětlování dlouhodobé vize OpenAI",
-      "description": "Generální ředitel OpenAI Sam Altman je přesvědčen, že umělá inteligence se stane trvalým základem lidského pokroku, což vyžaduje masivní investice do infrastruktury, energie a nových zařízení k přetvoření každodenního života.",
-      "slug": "ai-will-become-a-permanent-layer-of-human-progress",
-      "publishedAt": "2026-02-15T05:49:50+00:00",
-      "date": "2026-02-15 05:49:50",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2025/04/20250403014329_samaltman.jpeg",
-      "url": "/tech-news/2026-02-15/ai-will-become-a-permanent-layer-of-human-progress/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Moneycontrol"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": [
-        "Sam Altman"
-      ]
-    },
-    {
-      "title": "Interpolovi bojovníci z kanceláří bojují proti kyberzločincům zneužívajícím AI",
-      "description": "Umělá inteligence mění dynamiku boje Interpolu proti kyberzločinu v jeho technologicky vyspělých centrech v Singapuru. Zločinecké syndikáty strukturované jako nadnárodní firmy využívají AI k tvorbě sofistikovaných phishingových e-mailů, deepfake videí a hlasových napodobením pro útoky na jednotlivce, státy i firmy za miliardy dolarů.",
-      "slug": "interpol-backroom-warriors-fight-cyber-criminals-w",
-      "publishedAt": "2026-02-15T04:33:27+00:00",
-      "date": "2026-02-15 04:33:27",
-      "importance": 4,
-      "category": "kyberzločin",
-      "urlToImage": null,
-      "url": "/tech-news/2026-02-15/interpol-backroom-warriors-fight-cyber-criminals-w/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Japan Today"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Chatbot Grok od Elona Muska získává podíl na americkém trhu navzdory kritice za sexualizované obrázky, ukazují data",
-      "description": "Podíl Groku na trhu v USA vzrostl na 17,8 % minulý měsíc z 14 % v prosinci a 1,9 % v lednu 2025 podle dat firmy Apptopia. Růst je přínosný pro ztrátovou xAI, startup Elona Muska, který agresivně investuje do infrastruktury pro soutěž v oblasti umělé inteligence.",
-      "slug": "elon-musks-ai-chatbot-grok-gains-us-market-share-a",
-      "publishedAt": "2026-02-15T04:28:18+00:00",
-      "date": "2026-02-15 04:28:18",
-      "importance": 5,
-      "category": "umělá inteligence",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-41882,resizemode-75,msid-128371026/tech/technology/elon-musks-ai-chatbot-grok-gains-us-market-share-amid-sexualized-images-backlash-data-shows.jpg",
-      "url": "/tech-news/2026-02-15/elon-musks-ai-chatbot-grok-gains-us-market-share-a/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "xAI"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Starlink povoleno k provozu ve Vietnamu po vládním schválení",
-      "description": "Vietnam udělil SpaceX licenci pro satelitní služby Starlink, včetně pevných i mobilních internetových připojení a schválení rádiových frekvencí. Toto rozhodnutí předchází návštěvě vietnamského lídra To Lama v USA, kde pokračují obchodní jednání mezi Hanojem a Washingtonem.",
-      "slug": "starlink-cleared-to-operate-in-vietnam-after-gover",
-      "publishedAt": "2026-02-15T04:26:03+00:00",
-      "date": "2026-02-15 04:26:03",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://images.firstpost.com/uploads/2026/02/Untitled-design-41-2026-02-25f09cd891e58223c0200fd5ec42d062-1200x675.jpg?im=FitAndFill=(1200,675)",
-      "url": "/tech-news/2026-02-15/starlink-cleared-to-operate-in-vietnam-after-gover/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Firstpost"
-      },
-      "companies": [
-        "SpaceX"
-      ],
-      "people": [
-        "To Lam"
-      ]
-    },
-    {
-      "title": "Anthropic dosáhl valuace 380 miliard dolarů po kole financování za 30 miliard",
-      "description": "Společnost Anthropic získala 30 miliard dolarů v novém kole financování, čímž se její valuace zdvojnásobila na 380 miliard dolarů. Firma se odlišila zaměřením tréninku modelů na programování, přičemž Claude Code získává silnou trakci mezi vývojáři a pomáhá získat náskok na trhu podnikového AI.",
-      "slug": "anthropic-clinches-380-billion-valuation-after-30-",
-      "publishedAt": "2026-02-15T04:22:55+00:00",
-      "date": "2026-02-15 04:22:55",
-      "importance": 5,
-      "category": "startupy",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-62534,resizemode-75,msid-128370903/tech/funding/anthropic-clinches-380-billion-valuation-after-30-billion-funding-round.jpg",
-      "url": "/tech-news/2026-02-15/anthropic-clinches-380-billion-valuation-after-30/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Anthropic"
-      ],
-      "people": []
-    },
-    {
-      "title": "Indie plánuje AI 'data city' v rozsahu 100 kilometrů",
-      "description": "Indie se snaží snížit náskok USA a Číny v umělé inteligenci výstavbou obrovské 'data city' v městě Visakhapatnam ve státě Andhra Pradesh. Projekt vede místní ministr informací a technologií Nara Lokesh a zahrnuje investice v hodnotě 175 miliard dolarů.",
-      "slug": "india-plans-ai-data-city-on-staggering-scale",
-      "publishedAt": "2026-02-15T04:10:44+00:00",
-      "date": "2026-02-15 04:10:44",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-22690,resizemode-75,msid-128370656/tech/technology/india-plans-ai-data-city-on-staggering-scale.jpg",
-      "url": "/tech-news/2026-02-15/india-plans-ai-data-city-on-staggering-scale/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [],
-      "people": [
-        "Lokesh"
-      ]
-    },
-    {
-      "title": "Co způsobilo odpor proti Seedance 2.0 od ByteDance? #tech",
-      "description": "Nový model umělé inteligence pro generování videa od ByteDance se stal cílem kritiky z Hollywoodu a držitelů práv. Tvůrci pomocí něj vytvořili virální klip s dvěma hollywoodskými hvězdami v soubojném scénáři, což odhalilo rizika neoprávněného použití chráněných filmových materiálů a podobizn.",
-      "slug": "what-caused-the-pushback-against-bytedances-seedan",
-      "publishedAt": "2026-02-15T04:02:43+00:00",
-      "date": "2026-02-15 04:02:43",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://alltoc.com/cdn/1045/og.png",
-      "url": "/tech-news/2026-02-15/what-caused-the-pushback-against-bytedances-seedan/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Alltoc.com"
-      },
-      "companies": [
-        "ByteDance"
-      ],
-      "people": []
-    },
-    {
-      "title": "Indie plánuje obrovské 'město dat' pro AI v rámci velkého digitálního posunu",
-      "description": "\"AI revoluce je zde,\" řekl ministr informatiky státu Andhra Pradesh, který positionuje Višákhapatnam jako základní kámen indických ambicí v oblasti AI.",
-      "slug": "india-plans-vast-ai-data-city-in-major-digital-pus",
-      "publishedAt": "2026-02-15T03:50:37+00:00",
-      "date": "2026-02-15 03:50:37",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://dam.mediacorp.sg/image/upload/s",
-      "url": "/tech-news/2026-02-15/india-plans-vast-ai-data-city-in-major-digital-pus/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNA"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Healeyová zavádí nástroj umělé inteligence ChatGPT napříč výkonnou složkou státní správy Massachusetts",
-      "description": "Guvernérka Massachusetts Maura Healey oznámila zavedení nástroje umělé inteligence ChatGPT do výkonné složky státu s 40 000 zaměstnanci, čímž se Massachusetts stává prvním státem v USA, který takový krok podnikl. Partnerství s OpenAI probíhá ve fázích s důrazem na bezpečnost dat.",
-      "slug": "healey-deploys-artificial-intelligence-tool-chatgp",
-      "publishedAt": "2026-02-15T01:19:55+00:00",
-      "date": "2026-02-15 01:19:55",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2026/02/ChatGPT-Ads_24182.jpg?w=1024&h=682",
-      "url": "/tech-news/2026-02-15/healey-deploys-artificial-intelligence-tool-chatgp/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Boston Herald"
-      },
-      "companies": [],
-      "people": [
-        "Maura Healey"
-      ]
-    },
-    {
-      "title": "Sledování kontrolních tokenů biasu v AI",
-      "description": "Jednoduchý technický test ukázal, že modely AI z rodiny Qwen od Alibaba jsou nastaveny tak, aby odpovídaly pozitivně na otázky o Číně v angličtině. Technika thought token forcing odhaluje interní instrukce modelu, které prosazují pozitivní a konstruktivní tón bez kritiky.",
-      "slug": "tokens-of-ai-biases",
-      "publishedAt": "2026-02-15T00:00:00+00:00",
-      "date": "2026-02-15 00:00:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://chinamediaproject.org/wp-content/uploads/2026/02/Screenshot-2026-02-09-at-14.26.15.png",
-      "url": "/tech-news/2026-02-15/tokens-of-ai-biases/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Chinamediaproject.org"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Články o hackerech, umělé inteligenci, Notepad++, humanoidních robotech a čínských firmách",
-      "description": "Čínská komunistická strana využívá kontrolu nad informačními technologiemi k formování a cenzuře komunikace svých občanů i osob mimo hranice Číny. Tato souhrnná zpráva shrnuje klíčové události týkající se čínských hackerů, pokroků v AI a robotice.",
-      "slug": "articles-on-hackers-ai-notepad-humanoid-robots-and",
-      "publishedAt": "2026-02-15T00:00:00+00:00",
-      "date": "2026-02-15 00:00:00",
-      "importance": 5,
-      "category": "čínská cenzura",
-      "urlToImage": "https://www.hoover.org/sites/default/files/styles/facebook/public/research/images/csgp_cyber.jpg?h=2d9e26d4&itok=eG4unC9X",
-      "url": "/tech-news/2026-02-15/articles-on-hackers-ai-notepad-humanoid-robots-and/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Hoover.org"
       },
       "companies": [],
       "people": []
