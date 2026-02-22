@@ -1,7 +1,135 @@
 {
-  "generated": "2026-02-21T20:35:39.907724+00:00",
-  "count": 183,
+  "generated": "2026-02-22T01:31:25.653638+00:00",
+  "count": 189,
   "articles": [
+    {
+      "title": "OpenAI očekává příjmy přes 280 miliard dolarů v roce 2030",
+      "description": "Šéfka financí OpenAI Sarah Friar uvedla, že roční příjmy společnosti překročily 20 miliard dolarů v roce 2025, oproti zhruba 6 miliardám v předchozím roce.",
+      "slug": "openai-forecasts-its-revenue-will-top-280-billion-",
+      "publishedAt": "2026-02-21T00:31:57+00:00",
+      "date": "2026-02-21 00:31:57",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2261852455_577e17-e1771633744798.jpg?resize=1200,600",
+      "url": "/tech-news/2026-02-21/openai-forecasts-its-revenue-will-top-280-billion/",
+      "source": {
+        "emoji": "📰",
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": [
+        "Sarah Friar"
+      ]
+    },
+    {
+      "title": "Inovace a důvěra budou určovat budoucnost umělé inteligence: CEO Credo AI",
+      "description": "Navrina Singh na okrajích India AI Impact Summit uvedla, že Credo AI uzavřelo strategické partnerství s G42 z Abu Dhabi k operacionalizaci zodpovědné umělé inteligence v zemích globálního jihu. Spolupráce má vestřelit rámce správy do AI systémů nasazených na národní a podnikové úrovni s důrazem na agentic AI, gramotnost a nástroje.",
+      "slug": "innovation-and-trust-will-steer-our-ai-future-cred",
+      "publishedAt": "2026-02-21T00:31:00+00:00",
+      "date": "2026-02-21 00:31:00",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-48680,resizemode-75,msid-128617876/tech/technology/innovation-and-trust-will-steer-our-ai-future-credo-ai-ceo.jpg",
+      "url": "/tech-news/2026-02-21/innovation-and-trust-will-steer-our-ai-future-cred/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Credo AI",
+        "G42"
+      ],
+      "people": [
+        "Navrina Singh"
+      ]
+    },
+    {
+      "title": "Tři inženýři obviněni z krádeže obchodních tajemství Google a předání dat Íránu",
+      "description": "Tři inženýři byli zatčeni a obviněni z krádeže důvěrných dat z Google a dalších amerických technologických firem, která následně poslali do neoprávněných destinací včetně Íránu.",
+      "slug": "three-engineers-charged-with-allegedly-stealing-go",
+      "publishedAt": "2026-02-21T00:26:13+00:00",
+      "date": "2026-02-21 00:26:13",
+      "importance": 4,
+      "category": "průmyslová špionáž",
+      "urlToImage": null,
+      "url": "/tech-news/2026-02-21/three-engineers-charged-with-allegedly-stealing-go/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Risks Digest 34.88: Přehled rizik v počítačových a souvisejících systémech",
+      "description": "Vydání Risks Digest 34.88 z února 2026 shrnuje řadu aktuálních incidentů v kyberbezpečnosti, umělé inteligenci a IT rizicích, včetně velkých útoků, zranitelností a varování před AI nebezpečími. Obsahuje odkazy na klíčové články o selháních softwaru v autech, kyberútocích na nemocnice a rychlých hackech AI modelů.",
+      "slug": "no-subject",
+      "publishedAt": "2026-02-21T00:20:03+00:00",
+      "date": "2026-02-21 00:20:03",
+      "importance": 5,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://seclists.org/images/risks-img.png",
+      "url": "/tech-news/2026-02-21/no-subject/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Seclists.org"
+      },
+      "companies": [
+        "ACM"
+      ],
+      "people": []
+    },
+    {
+      "title": "Akcie kyberbezpečnostních firem klesly po představení Claude Code Security od Anthropic",
+      "description": "Akcie několika velkých poskytovatelů kyberbezpečnosti dnes poklesly poté, co společnost Anthropic PBC představila nástroj Claude Code Security pro odhalování zranitelností v softwaru. Tento nástroj je dostupný jako limitovaná výzkumná verze v edicích Enterprise a Teams umělé inteligence Claude.",
+      "slug": "cybersecurity-stocks-drop-after-anthropic-debuts-c",
+      "publishedAt": "2026-02-20T23:45:14+00:00",
+      "date": "2026-02-20 23:45:14",
+      "importance": 4,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Anthropic.png",
+      "url": "/tech-news/2026-02-20/cybersecurity-stocks-drop-after-anthropic-debuts-c/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": []
+    },
+    {
+      "title": "První zařízení OpenAI od Jonyho Iveho vyjde v roce 2027 a nebude to nositelné zařízení",
+      "description": "OpenAI vyvíjí několik nových zařízení s umělou inteligencí ve spolupráci s bývalým designérem Apple Jonym Ivem a první z nich bude chytrý reproduktor. Čtěte více...",
+      "slug": "jony-ives-first-openai-device-to-launch-in-2027-an",
+      "publishedAt": "2026-02-20T23:07:39+00:00",
+      "date": "2026-02-20 23:07:39",
+      "importance": 4,
+      "category": "chytrý reproduktor",
+      "urlToImage": "https://www.mactrast.com/wp-content/uploads/2025/05/Sam_Jony_introduce_io.jpg",
+      "url": "/tech-news/2026-02-20/jony-ives-first-openai-device-to-launch-in-2027-an/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Mactrast.com"
+      },
+      "companies": [
+        "OpenAI",
+        "Apple"
+      ],
+      "people": [
+        "Jony Ive"
+      ]
+    },
     {
       "title": "Bitcoin může příští rok klesnout k 30 000 dolarům, pokud nedokáže ukázat reálný pokrok v kvantově odolných upgradecích",
       "description": "Medvědí trh Bitcoinu se může v příštím roce zhoršit, pokud neřeší obavy z kvantového počítání. Podle zprávy Charlese Edwardse z Capriole by měla být tržní hodnota Bitcoinu již diskontována kvůli kvantovému riziku a bez pokroku by mohla cena klesnout na polovinu.",
