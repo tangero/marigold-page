@@ -1,7 +1,88 @@
 {
-  "generated": "2026-02-22T16:47:03.221585+00:00",
-  "count": 189,
+  "generated": "2026-02-22T20:42:29.116511+00:00",
+  "count": 193,
   "articles": [
+    {
+      "title": "88 zemí a organizací přijalo Novědelhijskou deklaraci o dopadu AI",
+      "description": "Osmdesát osm zemí a mezinárodních organizací přijalo na závěru AI Impact Summit 2026 deklaraci, která volá po rovnoměrném sdílení výhod umělé inteligence napříč lidstvem. Dokument zdůrazňuje spolupráci, důvěryhodnost a efektivitu AI systémů pod vedením Indie.",
+      "slug": "A-88-countries-organisations-adopt-new-delhi-decla",
+      "publishedAt": "2026-02-21T19:46:28+00:00",
+      "date": "2026-02-21 19:46:28",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://statetimes.in/wp-content/uploads/2026/02/AI-Impact-Summit-2026-at-Bharat-Mandapam-New-Delhi-1024x576.jpg",
+      "url": "/tech-news/2026-02-21/A-88-countries-organisations-adopt-new-delhi-decla/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Statetimes.in"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "'Nikdo nerozšiřuje AI v měřítku Meta': Meta angažuje Nvidia pro pohánění svých dalších velkých AI projektů – co přesně plánují Mark Zuckerberg a Jensen Huang?",
+      "description": "Meta uzavírá víceleté partnerství s Nvidia na výstavbu hyperskalabilní AI infrastruktury. Společnosti nasadí miliony GPU a CPU na bázi Arm pro zpracování extrémních výpočetních zátěží v datech centrech i cloudu.",
+      "slug": "no-one-deploys-ai-at-metas-scale-meta-signs-up-nvi",
+      "publishedAt": "2026-02-21T19:35:00+00:00",
+      "date": "2026-02-21 19:35:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/THrQgcJizbtksGzNr9f3qb-1920-80.jpg",
+      "url": "/tech-news/2026-02-21/no-one-deploys-ai-at-metas-scale-meta-signs-up-nvi/",
+      "source": {
+        "emoji": "📰",
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "companies": [
+        "Meta",
+        "Nvidia"
+      ],
+      "people": [
+        "Mark Zuckerberg",
+        "Jensen Huang"
+      ]
+    },
+    {
+      "title": "Clean Max IPO: Stojí za to se přihlásit?",
+      "description": "Clean Max roste v oblasti obnovitelných zdrojů energie díky nákladově efektivním řešením a rostoucí poptávce z AI a datových center.",
+      "slug": "clean-max-ipo-should-you-subscribe",
+      "publishedAt": "2026-02-21T16:39:07+00:00",
+      "date": "2026-02-21 16:39:07",
+      "importance": 4,
+      "category": "obnovitelná energie",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/cty0cb/article70659796.ece/alternates/LANDSCAPE_1200/PO22_Cleanmax_2.jpg",
+      "url": "/tech-news/2026-02-21/clean-max-ipo-should-you-subscribe/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Nositelná AI zařízení od Apple a OpenAI zní jako noční můra",
+      "description": "Apple a OpenAI vyvíjejí nositelná AI zařízení bez displejů. Autor článku pochybuje, že by mohla ohrozit smartphony.",
+      "slug": "apple-and-openais-wearable-ai-devices-sound-like-a",
+      "publishedAt": "2026-02-21T16:38:24+00:00",
+      "date": "2026-02-21 16:38:24",
+      "importance": 4,
+      "category": "nositelná ai",
+      "urlToImage": "https://m-cdn.phonearena.com/images/article/178395-wide-two_1200/Apple-and-OpenAIs-wearable-AI-devices-sound-like-a-nightmare.jpg",
+      "url": "/tech-news/2026-02-21/apple-and-openais-wearable-ai-devices-sound-like-a/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "PhoneArena"
+      },
+      "companies": [
+        "Apple",
+        "OpenAI"
+      ],
+      "people": []
+    },
     {
       "title": "Jsou autonomní vozy konečně připraveny pro masové nasazení?",
       "description": "Výrobci automobilů postupně vylepšují technologii autonomního řízení ve vozidlech ve spolupráci s technologickými firmami, aby ji připravili pro běžné silnice. Několik měst nedávno spustilo pilotní programy autonomních taxíků a autobusů.",
