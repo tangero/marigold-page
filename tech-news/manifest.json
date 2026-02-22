@@ -1,7 +1,160 @@
 {
-  "generated": "2026-02-22T08:43:31.191199+00:00",
-  "count": 172,
+  "generated": "2026-02-22T12:51:08.405748+00:00",
+  "count": 180,
   "articles": [
+    {
+      "title": "Vědci možná nalezli svatý grál kvantového počítačství",
+      "description": "Vědci možná objevili dlouho hledaný tripletový supravodič – materiál, který přenáší jak elektřinu, tak spin elektronů bez odporu. Tato vlastnost by mohla výrazně stabilizovat kvantové počítače a snížit jejich spotřebu energie.",
+      "slug": "scientists-may-have-found-the-holy-grail-of-quantu",
+      "publishedAt": "2026-02-21T12:10:00+00:00",
+      "date": "2026-02-21 12:10:00",
+      "importance": 5,
+      "category": "kvantové počítače",
+      "urlToImage": "https://www.sciencedaily.com/images/1920/golden-quantum-computer-machine.webp",
+      "url": "/tech-news/2026-02-21/scientists-may-have-found-the-holy-grail-of-quantu/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Science Daily"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Peak XV oznámil 1,3 miliardy dolarů v třech nových fondech pro Indie, APAC a dál",
+      "description": "Peak XV získal 1,3 miliardy dolarů napříč třemi fondy, což představuje jeho první sběr kapitálu od oddělení od Sequoia Capital v roce 2023.",
+      "slug": "peak-xv-announces-13-billion-across-three-new-fund",
+      "publishedAt": "2026-02-21T12:04:05+00:00",
+      "date": "2026-02-21 12:04:05",
+      "importance": 4,
+      "category": "startupy",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/2tvrj3/article70659869.ece/alternates/LANDSCAPE_1200/Peak%20XV%20Partners.png",
+      "url": "/tech-news/2026-02-21/peak-xv-announces-13-billion-across-three-new-fund/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Anthropicův AI s prioritou bezpečnosti se střetává s Pentagonem při rozšíření Claude do autonomních agentů",
+      "description": "Jak Anthropic vydává své nejautonomnější agenty, rostoucí konflikt s armádou odhaluje nemožnou volbu mezi globálním škálováním a principem „bezpečnost na prvním místě“",
+      "slug": "anthropics-safety-first-ai-collides-with-the-penta",
+      "publishedAt": "2026-02-21T12:00:00+00:00",
+      "date": "2026-02-21 12:00:00",
+      "importance": 5,
+      "category": "autonomní agenti",
+      "urlToImage": "https://static.scientificamerican.com/dam/m/26c0e466ea5342b5/original/GettyImages-2260944681.jpg?m=1771624497.843&w=1200",
+      "url": "/tech-news/2026-02-21/anthropics-safety-first-ai-collides-with-the-penta/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Scientific American"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": []
+    },
+    {
+      "title": "Správci hesel sdílejí skrytou slabinu",
+      "description": "Kyberbezpečnostní komunita se vypořádává s odhaleními z Epsteinových souborů, americké ministerstvo zahraničí chystá online portál proti cenzuře pro svět a další události v oblasti bezpečnosti dat a dohledu.",
+      "slug": "password-managers-share-a-hidden-weakness",
+      "publishedAt": "2026-02-21T11:30:00+00:00",
+      "date": "2026-02-21 11:30:00",
+      "importance": 4,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://media.wired.com/photos/6998d03f68f921f5e6a08ece/191:100/w_1280,c_limit/sec-pw-managers-2187086214.jpg",
+      "url": "/tech-news/2026-02-21/password-managers-share-a-hidden-weakness/",
+      "source": {
+        "emoji": "🔧",
+        "id": "wired",
+        "name": "Wired"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Pokud vás nedávné šoky v AI a kryptoměnách rozčílily, sledujete špatný cyklus",
+      "description": "Claude a DeepSeek, oddělení při narození?",
+      "slug": "if-the-recent-ai-and-crypto-shocks-upset-you-youre",
+      "publishedAt": "2026-02-21T11:30:00+00:00",
+      "date": "2026-02-21 11:30:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/igor-pejic.jpg?resize=1200,600",
+      "url": "/tech-news/2026-02-21/if-the-recent-ai-and-crypto-shocks-upset-you-youre/",
+      "source": {
+        "emoji": "📰",
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Skutečná data o AI agentech: Co odhaluje 1 bilion tokenů denně podle COO OpenRouteru",
+      "description": "Chris Clark, spoluzakladatel a COO OpenRouteru, sdílí data z největší AI brány na světě, která zpracovává přes bilion tokenů denně přes více než 70 poskytovatelů. Tool call rates u modelů jako Anthropic vzrostly z méně než 5 % na přes 25 % za rok, což signalizuje přechod AI agentů do produkčního nasazení.",
+      "slug": "the-real-data-on-ai-agents-what-1-trillion-tokens-",
+      "publishedAt": "2026-02-21T11:23:02+00:00",
+      "date": "2026-02-21 11:23:02",
+      "importance": 4,
+      "category": "ai agenti",
+      "urlToImage": "https://i0.wp.com/www.saastr.com/wp-content/uploads/2026/02/AI-Agents-Thumbnail-3-scaled.jpg?fit=1000%2C565&quality=70&ssl=1",
+      "url": "/tech-news/2026-02-21/the-real-data-on-ai-agents-what-1-trillion-tokens/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Saastr.com"
+      },
+      "companies": [
+        "OpenRouter"
+      ],
+      "people": [
+        "Chris Clark"
+      ]
+    },
+    {
+      "title": "Bionický profesionál: Rozhraní mozek-počítač a budoucnost produktivity",
+      "description": "V polovině roku 2026 se stírá hranice mezi lidskou a strojovou inteligencí díky masovému přijetí neinvazivních rozhraní mozek-počítač (BCI), integrovaných do sluchátek nebo brýlí. Tyto zařízení umožňují ovládání digitálních systémů myšlenkou a poskytují zpětnou vazbu o kognitivním stavu pro optimalizaci práce.",
+      "slug": "the-bionic-professional-brain-computer-interfaces-",
+      "publishedAt": "2026-02-21T11:18:38+00:00",
+      "date": "2026-02-21 11:18:38",
+      "importance": 4,
+      "category": "neurotechnologie",
+      "urlToImage": "https://techbullion.com/wp-content/uploads/2026/02/TECHNOLOGY-12-1000x600.jpeg",
+      "url": "/tech-news/2026-02-21/the-bionic-professional-brain-computer-interfaces/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Techbullion.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Archer Aviation Inc. (ACHR) vyvine novou generaci leteckých technologií umělé inteligence s NVIDIA IGX Thor",
+      "description": "Společnost Archer Aviation Inc. (NYSE:ACHR) oznámila na CES 2026 spolupráci s NVIDIA na nasazení platformy IGX Thor pro vývoj pokročilých umělých inteligencí v letectví. Technologie se integruje do budoucích eVTOL letadel pro real-time výpočty v bezpečnostních aplikacích.",
+      "slug": "archer-aviation-inc-achr-to-develop-the-next-wave-",
+      "publishedAt": "2026-02-21T11:03:10+00:00",
+      "date": "2026-02-21 11:03:10",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/WqFsgXcFe_SyQWUjJS3mTA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTY-/https://media.zenfs.com/en/insidermonkey.com/2ba8135ac801071f050e6ccf40ca7226",
+      "url": "/tech-news/2026-02-21/archer-aviation-inc-achr-to-develop-the-next-wave/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "Archer Aviation Inc",
+        "NVIDIA"
+      ],
+      "people": []
+    },
     {
       "title": "Technologickí giganti investují miliardy do indické umělé inteligence, New Delhi usiluje o postavení supervelmoci",
       "description": "Technologičtí lídři a světoví představitelé se shromáždili v New Delhi na summitu India AI Impact Summit.",
