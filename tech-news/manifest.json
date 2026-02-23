@@ -1,33 +1,113 @@
 {
-  "generated": "2026-02-22T20:42:29.116511+00:00",
-  "count": 193,
+  "generated": "2026-02-23T01:36:51.766552+00:00",
+  "count": 197,
   "articles": [
     {
-      "title": "88 zemí a organizací přijalo Novědelhijskou deklaraci o dopadu AI",
-      "description": "Osmdesát osm zemí a mezinárodních organizací přijalo na závěru AI Impact Summit 2026 deklaraci, která volá po rovnoměrném sdílení výhod umělé inteligence napříč lidstvem. Dokument zdůrazňuje spolupráci, důvěryhodnost a efektivitu AI systémů pod vedením Indie.",
-      "slug": "A-88-countries-organisations-adopt-new-delhi-decla",
-      "publishedAt": "2026-02-21T19:46:28+00:00",
-      "date": "2026-02-21 19:46:28",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://statetimes.in/wp-content/uploads/2026/02/AI-Impact-Summit-2026-at-Bharat-Mandapam-New-Delhi-1024x576.jpg",
-      "url": "/tech-news/2026-02-21/A-88-countries-organisations-adopt-new-delhi-decla/",
+      "title": "5 humanoidních robotů spouštěných v roce 2026: První z nich létá",
+      "description": "Vstupte do reality, kde se vědecká fantastika prolíná s každodenním životem. Humanoidní roboti už nejsou vzdálenou fantazií, navrhují se pro přirozenou integraci do našich rutin a řeší praktické výzvy v péči a domácnostech.",
+      "slug": "A-5-humanoid-robots-being-launched-in-2026-the-fir",
+      "publishedAt": "2026-02-22T00:30:44+00:00",
+      "date": "2026-02-22 00:30:44",
+      "importance": 5,
+      "category": "robotika",
+      "urlToImage": "https://www.yankodesign.com/images/design_news/2026/02/why-human-like-robots-are-shaping-our-daily-lives-bringing-the-future-home/Human-Inspired-Robots_Automation_17.jpg",
+      "url": "/tech-news/2026-02-22/A-5-humanoid-robots-being-launched-in-2026-the-fir/",
       "source": {
         "emoji": "📰",
         "id": null,
-        "name": "Statetimes.in"
+        "name": "Yanko Design"
       },
       "companies": [],
       "people": []
     },
     {
-      "title": "'Nikdo nerozšiřuje AI v měřítku Meta': Meta angažuje Nvidia pro pohánění svých dalších velkých AI projektů – co přesně plánují Mark Zuckerberg a Jensen Huang?",
-      "description": "Meta uzavírá víceleté partnerství s Nvidia na výstavbu hyperskalabilní AI infrastruktury. Společnosti nasadí miliony GPU a CPU na bázi Arm pro zpracování extrémních výpočetních zátěží v datech centrech i cloudu.",
+      "title": "Kanadský ministr pro umělou inteligenci upozorňuje na nedostatky bezpečnostních protokolů OpenAI po masové střelbě v Tumbler Ridge",
+      "description": "Kanadský federální ministr pro umělou inteligenci Iryna Stefanyshyn vyjadřuje obavy společnosti OpenAI a dalším platformám ohledně jejich bezpečnostních opatření. Důvodem je potvrzení, že teenager odpovědný za masovou střelbu v Tumbler Ridge v Britské Kolumbii měl účet u OpenAI.",
+      "slug": "federal-ai-minister-raises-concerns-over-openai-sa",
+      "publishedAt": "2026-02-21T23:06:12+00:00",
+      "date": "2026-02-21 23:06:12",
+      "importance": 5,
+      "category": "ai bezpečnost",
+      "urlToImage": "https://i.cbc.ca/ais/06625b6e-4f06-4066-a12f-d152a6f71b67,1771713106276/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C68%2C1280%2C720%29%3BResize%3D620",
+      "url": "/tech-news/2026-02-21/federal-ai-minister-raises-concerns-over-openai-sa/",
+      "source": {
+        "emoji": "📰",
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "OpenAI slaví 10 let existence — ale splnilo svůj slib AGI, které 'prospívá celému lidstvu'?",
+      "description": "Technologická společnost je nyní v popředí závodu o generativní AI — ale jak se tam dostala?",
+      "slug": "openai-celebrates-10-years-of-existence-but-how-ha",
+      "publishedAt": "2026-02-21T22:05:00+00:00",
+      "date": "2026-02-21 22:05:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/xpFHDLqvb9JBmLZJNUqfdH-2321-80.jpg",
+      "url": "/tech-news/2026-02-21/openai-celebrates-10-years-of-existence-but-how-ha/",
+      "source": {
+        "emoji": "📰",
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Starlink Elona Muska: Aerolinky jako Southwest a United přecházejí na satelitního poskytovatele internetu",
+      "description": "S příchodem éry vysokorychlostního internetu na palubě komerčních letadel se americké aerolinky zapojují do soutěže, kdo nabídne zákazníkům nejplynulejší zážitek. Southwest a United volí technologii Starlink od SpaceX.",
+      "slug": "elon-musks-starlink-airlines-like-southwest-united",
+      "publishedAt": "2026-02-21T21:25:02+00:00",
+      "date": "2026-02-21 21:25:02",
+      "importance": 4,
+      "category": "satelitní internet",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2026/02/BIZ-STARLINK-AIRLINES-EXPLAINER-FILEPIC-OS.jpg?w=1024&h=910",
+      "url": "/tech-news/2026-02-21/elon-musks-starlink-airlines-like-southwest-united/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Boston Herald"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Google Gemini, Google Chrome, datacentra v Indianě a další: Sobotní odpolední ResearchBuzz, 21. února 2026",
+      "description": "Tento souhrn novinek informuje o novém generátoru hudby v Google Gemini, aktualizacích prohlížeče Chrome, výzkumu Meta o vlivu rodičovského dohledu na používání sociálních sítí teenagery a plánech Google na umožnění opt-out z AI Overviews. Dále se zmiňuje distancování místních orgánů od webu Google o datacentrech v Indianě.",
+      "slug": "google-gemini-google-chrome-indiana-datacenters-mo",
+      "publishedAt": "2026-02-21T20:22:39+00:00",
+      "date": "2026-02-21 20:22:39",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvczAud3AuY29tXC9pXC9ibGFuay5qcGciLCJ0eHQiOiJSZXNlYXJjaEJ1enoiLCJ0ZW1wbGF0ZSI6ImhpZ2h3YXkiLCJmb250IjoiIiwiYmxvZ19pZCI6NDMyODc1Nn0.BjdcPIDlw4ZG0Ki13B-quwxnrzAxn9iB5rJXagRMNlcMQ",
+      "url": "/tech-news/2026-02-21/google-gemini-google-chrome-indiana-datacenters-mo/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Researchbuzz.me"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "'Nikdo nenasazuje AI v měřítku Meta': Meta uzavírá partnerství s Nvidia pro napájení svých dalších velkých AI projektů – co přesně plánují Mark Zuckerberg a Jensen Huang?",
+      "description": "Meta uzavírá víceleté partnerství s Nvidia na výstavbu hyperskalovní AI infrastruktury schopné zpracovávat největší zátěže v technologickém sektoru. Partnerství zahrnuje nasazení milionů GPU a Arm-based CPU, rozšíření síťové kapacity a integraci technik pro ochranu soukromí napříč platformami společnosti.",
       "slug": "no-one-deploys-ai-at-metas-scale-meta-signs-up-nvi",
       "publishedAt": "2026-02-21T19:35:00+00:00",
       "date": "2026-02-21 19:35:00",
       "importance": 4,
-      "category": "ai",
+      "category": "umělá inteligence",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/THrQgcJizbtksGzNr9f3qb-1920-80.jpg",
       "url": "/tech-news/2026-02-21/no-one-deploys-ai-at-metas-scale-meta-signs-up-nvi/",
       "source": {
