@@ -1,10 +1,10 @@
 {
   "status": "WARNING",
-  "timestamp": "2026-02-23T09:02:16.773375+00:00",
+  "timestamp": "2026-02-23T13:20:33.984307+00:00",
   "checks": {
     "freshness": {
       "status": "WARNING",
-      "newest_age_hours": 25.59,
+      "newest_age_hours": 25.78,
       "articles_24h": 0,
       "articles_1h": 0
     },
@@ -33,10 +33,10 @@
     }
   },
   "metrics": {
-    "total_articles": 180,
+    "total_articles": 181,
     "articles_24h": 0,
     "articles_1h": 0,
-    "newest_article_age_hours": 25.59,
+    "newest_article_age_hours": 25.78,
     "czech_articles": 100,
     "english_articles": 0,
     "czech_ratio": 1.0,
@@ -49,7 +49,7 @@
   "alerts": [
     {
       "level": "WARNING",
-      "message": "Nejnovější článek je starý 25.6h (threshold: 6h)"
+      "message": "Nejnovější článek je starý 25.8h (threshold: 6h)"
     },
     {
       "level": "WARNING",
