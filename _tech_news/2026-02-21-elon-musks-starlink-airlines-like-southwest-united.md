@@ -2,9 +2,9 @@
 author: Marisa Aigen
 category: satelitní internet
 date: '2026-02-21 21:25:02'
-description: S příchodem éry vysokorychlostního internetu na palubě komerčních letadel
-  se americké aerolinky zapojují do soutěže, kdo nabídne zákazníkům nejplynulejší
-  zážitek. Southwest a United volí technologii Starlink od SpaceX.
+description: Americké aerolinky soutěží v poskytování vysokorychlostního internetu
+  na palubě letadel a přecházejí na službu Starlink od SpaceX. Tato technologie umožňuje
+  streamování, online hraní her a videohovory díky satelitům v nízké oběžné dráze.
 importance: 4
 layout: tech_news_article
 original_title: 'Elon Musk’s Starlink: Airlines like Southwest, United make the switch
@@ -25,28 +25,24 @@ urlToImageBackup: https://www.bostonherald.com/wp-content/uploads/2026/02/BIZ-ST
 ---
 
 ## Souhrn
-Americké aerolinky Southwest Airlines a United Airlines nasazují satelitní internet Starlink od SpaceX pro vysokorychlostní připojení na palubě letadel. Tato technologie umožňuje streamování videa, online hraní her a videohovory díky síti satelitů v nízké oběžné dráze. Soutěž mezi dopravci jako Delta a American Airlines urychluje přechod k lepším službám.
+Americké aerolinky jako Southwest Airlines a United Airlines zavádějí satelitní internet Starlink od SpaceX na svých letadlech, aby poskytly pasažérům vysokorychlostní připojení. Delta Air Lines a American Airlines již nabízejí bezplatné Wi-Fi pro členy svých loajalitních programů, což spouští soutěž o nejlepší in-flight konektivitu. Starlink vyniká nízkou latencí díky satelitům v nízké oběžné dráze kolem 550 km.
 
 ## Klíčové body
-- Southwest Airlines plánuje instalaci Starlinku na svých letadlech, čímž následuje United Airlines, která službu již testuje na vybraných strojích.
-- Delta Air Lines nabízí zdarma Wi-Fi pro členy SkyMiles na 75 % flotily ve spolupráci s T-Mobile.
-- American Airlines zahajuje postupné zavádění zdarma internetu pro členy AAdvantage.
-- Starlink disponuje více než 6000 satelity v nízké oběžné dráze kolem 550 km, což snižuje latenci oproti tradičním geostacionárním satelitům.
-- SpaceX, soukromá společnost Elona Muska zabývající se raketovou technikou a kosmickými misemi, provozuje celou síť.
+- Southwest Airlines oznámila instalaci Starlinku na svých letadlech, United již službu používá na vybraných typech.
+- Starlink je konstelace více než 6000 satelitů (podle SpaceX) nebo 9000 (podle Southwest), operovaná společností SpaceX, kterou založil Elon Musk.
+- Na rozdíl od tradičních geostacionárních satelitů nabízí Starlink nižší latenci (20–40 ms) a rychlosti až 220 Mbps, vhodné pro streamování a videohovory.
+- Delta spolupracuje s T-Mobile na bezplatném Wi-Fi pro členy SkyMiles na 75 % flotily, American Airlines spouští rollout pro AAdvantage.
+- SpaceX je soukromá firma zaměřená na raketovou techniku a satelitní komunikace.
 
 ## Podrobnosti
-Americké aerolinky čelí tlaku na zlepšení digitálních služeb pro cestující, kteří očekávají nepřerušené připojení během letů. Delta Air Lines z Atlanty oznámila v prosinci, že zdarma Wi-Fi pro členy programu SkyMiles, poskytované ve spolupráci s mobilním operátorem T-Mobile, je dostupné na přibližně 75 procentech své flotily. Tento systém slouží k základnímu prohlížení webu, e-mailům a sociálním sítím, ale nemusí zvládat náročné aplikace jako 4K streamování.
+Americký letecký průmysl prochází transformací v oblasti palubní konektivity, kde se aerolinky snaží přilákat pasažéry lepším přístupem k internetu. Delta Air Lines z Atlanty v prosinci oznámila, že bezplatné Wi-Fi pro členy SkyMiles v partnerství s T-Mobile je dostupné na přibližně 75 procentech své flotily. American Airlines se sídlem ve Fort Worth zahájila v lednu fázi zavádění bezplatného internetu pro členy programu AAdvantage. United Airlines již Starlink nasadila na vybraná letadla a Southwest Airlines z Dallas nedávno prohlásila záměr instalovat tuto službu na svých strojích.
 
-American Airlines se sídlem ve Fort Worth zahájila minulý měsíc postupné zavádění zdarma internetu pro členy loajálního programu AAdvantage. Tato iniciativa cílí na časté letce a má být dokončena v následujících letech. Oba přístupy spoléhají na tradiční satelitní technologie, které trpí vyšší latencí kvůli vzdálenosti geostacionárních satelitů (asi 36 000 km nad Zemí).
+Starlink představuje konstelaci satelitů v nízké oběžné dráze (LEO), která Zemi obíhá ve výšce asi 550 km. Tato technologie umožňuje vysokorychlostní broadband s podporou streamování videa, online hraní her, videohovorů a dalších aplikací vyžadujících nízkou latenci. SpaceX, soukromá aerospace společnost založená Elonem Muskem v roce 2002, provozuje síť. Počet satelitů se liší podle zdrojů: web Starlink uvádí přes 6000 kusů v orbitě, zatímco Southwest hovoří o více než 9000. Každý satelit je vybaven laserovými spojnicemi pro meziplanetární komunikaci a anténami phased array pro přenos dat k pozemním terminálům.
 
-United Airlines jde dál a již nabízí Starlink na vybraných letadlech. Nejnověji Dallaská Southwest Airlines oznámila záměr instalovat tuto službu na svých strojích. Starlink představuje konstelaci tisíců malých satelitů v nízké oběžné dráze (LEO), která obklopuje Zemi. Podle oficiálních údajů SpaceX je v orbitě přes 6000 satelitů, přičemž Southwest mluví o více než 9000. Každý satelit je vybaven laserovými spojnicemi pro přenos dat mezi sebou, což minimalizuje závislost na pozemních stanicích.
-
-Tato architektura umožňuje rychlosti stahování až 220 Mbps a odesílání kolem 20 Mbps s latencí pod 20 ms, což je srovnatelné s pozemním broadbandem. Na rozdíl od starších systémů jako Viasat nebo Intelsat, které operují v geostacionární dráze a vykazují latenci 600 ms+, Starlink podporuje náročné úlohy. SpaceX, založená Elonem Muskem v roce 2002, se specializuje na opakovaně použitelné rakety Falcon a vývoj kosmických lodí Starship pro mise na Mars. Starlink je její komerční produkt pro globální přístup k internetu, původně zaměřený na odlehlé oblasti, nyní se rozšiřuje do letectví a námořnictví.
-
-Instalace anten na letadlech vyžaduje antény s fázovaným polem (phased array), které automaticky sledují satelity během letu. Southwest očekává dokončení v příštích letech, což ovlivní tisíce letů denně.
+Oproti starším systémům jako geostacionární satelity ve výšce 35 786 km (např. od Viasat nebo Intelsat) má Starlink výhodu kratší vzdálenosti signálu, což snižuje latenci z stovek milisekund na desítky. Terminály Starlink, nazývané "flat high-performance", se instalují na střechu letadel a váží méně než 30 kg, což usnadňuje retrofit existujících flotil. SpaceX již testovala službu na komerčních letech a rozšiřuje ji i na lodě a vojenské aplikace.
 
 ## Proč je to důležité
-Přechod na Starlink urychluje standardizaci vysokorychlostního internetu v letectví, což zvyšuje produktivitu cestujících a konkurenční výhodu aerolinek. Pro průmysl znamená masivní poptávku po LEO satelitech, což posiluje dominanci SpaceX na trhu (vydalo přes 70 procent aktivních internetových satelitů). To může vést k poklesu cen služeb a rozšíření do dalších sektorů jako autonomní drony nebo IoT sítě. Z technologického hlediska demonstruje úspěch nízké oběžné dráhy v překonávání limitů tradičního satelitního internetu, s potenciálem pro integraci s 5G/6G. Pro uživatele to znamená spolehlivý přístup k cloudovým službám, vzdálené práci a zábavě bez kompromisů, což mění leteckou dopravu na prodloužení kanceláře nebo domova.
+Adopce Starlinku americkými aerolinkami urychluje přechod k globálně dostupnému vysokorychlostnímu internetu v oblasti mobility. Pro pasažéry to znamená spolehlivější připojení během letů, kde tradiční Wi-Fi selhává nad oceány nebo v odlehlých oblastech. V širším kontextu posiluje Starlink dominanci SpaceX v satelitní infrastruktuře, kde konkuruje projektům jako OneWeb nebo Amazon Kuiper. Tento vývoj může snížit náklady na palubní Wi-Fi (nyní 5–30 USD za let) a zvýšit jeho kvalitu, což ovlivní loajalitu zákazníků. Pro IT sektor to demonstruje škálovatelnost LEO konstelací pro edge computing a real-time aplikace, s potenciálem pro drony a autonomní vozidla v budoucnosti. Celkově přispívá k uzavírání digitální propasti v letecké dopravě.
 
 ---
 

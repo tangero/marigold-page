@@ -2,9 +2,9 @@
 author: Marisa Aigen
 category: robotika
 date: '2026-02-22 00:30:44'
-description: Vstupte do reality, kde se vědecká fantastika prolíná s každodenním životem.
-  Humanoidní roboti už nejsou vzdálenou fantazií, navrhují se pro přirozenou integraci
-  do našich rutin a řeší praktické výzvy v péči a domácnostech.
+description: V roce 2026 budou představeny pět humanoidních robotů, z nichž jeden
+  disponuje schopností letu. Tyto stroje mají propojit sci-fi s každodenním životem
+  a řešit praktické problémy v péči a domácnosti.
 importance: 5
 layout: tech_news_article
 original_title: '5 Humanoid Robots Being Launched in 2026: The First One Flies'
@@ -14,31 +14,33 @@ source:
   emoji: 📰
   id: null
   name: Yanko Design
-title: '5 humanoidních robotů spouštěných v roce 2026: První z nich létá'
+title: '5 humanoidních robotů spuštěných v roce 2026: První z nich létá'
 url: https://www.yankodesign.com/2026/02/21/5-humanoid-robots-being-launched-in-2026-the-first-one-flies/
 urlToImage: https://www.yankodesign.com/images/design_news/2026/02/why-human-like-robots-are-shaping-our-daily-lives-bringing-the-future-home/Human-Inspired-Robots_Automation_17.jpg
 urlToImageBackup: https://www.yankodesign.com/images/design_news/2026/02/why-human-like-robots-are-shaping-our-daily-lives-bringing-the-future-home/Human-Inspired-Robots_Automation_17.jpg
 ---
 
-### Souhrn
-V roce 2026 budou spuštěny pět humanoidních robotů, z nichž první disponuje schopností letu. Tito roboti cílí na domácnosti, nemocnice a komunity, kde mají pomáhat s úkoly vyžadujícími přesnost a lidský dotek, jako je péče o seniory. Příkladem je model Gantry od Toyoty, který provádí domácí práce pro lidi nad 65 let.
+## Souhrn
+V roce 2026 plánují výrobci spustit pět humanoidních robotů, z nichž první dokáže létat. Tyto roboti jsou navrženi pro integraci do každodenních rutin, zejména v péči o starší lidi a domácích pracích. Příkladem je robot Gantry od Toyoty, který cílí na rostoucí potřeby populace nad 65 let.
 
-### Klíčové body
-- První humanoidní robot schopný letu, což rozšiřuje možnosti mobility v reálných prostředích.
-- Toyota Gantry: určen k domácím pracím, jako je uklízení nebo přenášení předmětů, v běžných bytech.
-- Design přizpůsobený lidskému prostředí pro otevírání dveří, ovládání výtahů a interakci s nástroji.
-- Doplňování lidské péče místo nahrazování, s fokusem na repetitivní a fyzicky náročné úkoly.
-- Řešení globálního nedostatku pečovatelů pro rostoucí populaci seniorů.
+## Klíčové body
+- Spuštění pěti humanoidních robotů v roce 2026, včetně prvního s letovou schopností.
+- Zaměření na péči o starší: vykonávání domácích prací, monitorování zdraví a podpora caregiverů.
+- Humanoidní design umožňuje interakci s prostředím určeným pro lidi, jako jsou dveře nebo výtahy.
+- Toyota Gantry: specializace na domácí úkoly pro seniory, na rozdíl od průmyslových robotů.
+- Cíl: optimalizace lidské práce tím, že roboti přebírají repetitivní a fyzicky náročné úkoly.
 
-### Podrobnosti
-Humanoidní roboti, tedy stroje s podobnou stavbou jako člověk, se blíží k praktickému nasazení. Jejich lidský vzhled a pohyb umožňují práci v prostředích navržených pro lidi, na rozdíl od průmyslových robotů omezených na tovární haly s pevnými kolejnicemi. Například Toyota Gantry, vyvíjený japonskou automobilkou Toyota, která se dlouhodobě zabývá robotikou pro mobilitu a péči, zvládá úkoly jako přenášení nákladu, uklízení nebo monitorování zdraví. Tento robot používá senzory pro detekci vitálních znaků a poskytuje připomínky, což uvolňuje pečovatele pro emocionální podporu. 
+## Podrobnosti
+Humanoidní roboti představují pokračování vývoje v robotice, kde se klade důraz na antropomorfický design, který usnadňuje interakci s lidmi a prostředím. Na rozdíl od průmyslových robotů, které fungují v kontrolovaných továrních provozech, jsou tito roboti koncipováni pro reálné prostředí jako domy, nemocnice nebo komunity. Jejich lidská forma umožňuje manipulaci s nástroji a objekty navrženými pro člověka – otevírání dveří, ovládání výtahů nebo nošení předmětů.
 
-Mezi pěti roboty v roce 2026 vyniká první létající model, pravděpodobně integrováním dronových technologií s bipedální lokomocí, což umožňuje překonávání překážek jako schody nebo nedostupná místa v nemocnicích. Další modely, jako varianty od firem typu Boston Dynamics nebo Figure AI, se zaměřují na autonomní navigaci pomocí AI modelů pro zpracování vidění a plánování pohybu. Tyto systémy využívají velké jazykové modely (LLM) pro porozumění příkazům v přirozeném jazyce a machine learning pro učení z interakcí. 
+Jedním z klíčových příkladů je robot Gantry od Toyoty, který je určený pro asistenci seniorů. Toyota, známá svými pokroky v autonomních vozidlech a robotice, řeší zde globální problém stárnutí populace. Podle statistik OSN překročí počet lidí nad 65 let v mnoha zemích 20 % populace do roku 2030, což vytváří tlak na systémy péče. Gantry zvládá domácí práce jako úklid, přinášení předmětů nebo monitorování vitálních signálů prostřednictvím senzorů. Používá pokročilé algoritmy strojového učení pro rozpoznávání prostředí a predikci potřeb, podobně jako modely jako GPT v jazyce, ale aplikované na pohyb a interakci.
 
-Přesto čelí výzvám: bateriová výdrž sotva překračuje 4 hodiny intenzivní práce, bezpečnostní protokoly proti kolizím vyžadují složité senzory LiDAR a kamer, a cena se pohybuje v řádech stovek tisíc eur za kus. V testech v japonských domovech pro seniory Gantry snížil zátěž pečovatelů o 30 %, ale plná autonomie v nepředvídatelných prostředích zůstává v beta fázi. Toyota plánuje nasazení v Asii, kde populace nad 65 let roste rychleji než pracovní síla.
+Další čtyři roboti, které mají být spuštěny v roce 2026, zahrnují inovace jako letová schopnost prvního modelu. Tato funkce, pravděpodobně realizovaná pomocí vestavěných rotorů nebo hybridního pohonu, umožňuje překonávání překážek a rychlou navigaci v prostoru, což je průlom oproti současným humanoidům jako Optimus od Tesly nebo Atlas od Boston Dynamics. Tyto starší modely dosáhly pokroků v dynamickém pohybu, ale chybí jim plná autonomie v nekontrolovaném prostředí. Nové modely integrují senzory LiDAR, kamery s AI zpracováním obrazu a aktuačníky s vysokou hustotou výkonu, což snižuje spotřebu energie na úroveň srovnatelnou s lidským tělem.
 
-### Proč je to důležité
-Tento vývoj posouvá robotiku k masovému nasazení v péči, kde globální nedostatek pečovatelů dosahuje milionů míst. V širším kontextu urychluje pokrok v AI pro fyzickou interakci, což ovlivní trh práce – repetitivní úkoly se automatizují, zatímco lidé se soustředí na kreativitu. Pro průmysl znamená snížení nákladů na logistiku v nemocnicích o desítky procent, ale vyžaduje regulace pro etiku a bezpečnost. V porovnání s současnými modely jako Atlas od Boston Dynamics, kteří excelují v akrobacii, ale ne v každodenní praktičnosti, představují 2026 modely skutečný shift k komerčnímu využití. Dlouhodobě to může změnit demografii společností s vysokou stáří populace, jako Japonsko nebo Evropa.
+V praxi to znamená, že roboti nejsou náhradou za lidi, ale doplňkem. Například v pečovatelských domech přebírají repetitivní úkoly, jako připomínání léků nebo kontrolu pohybu, čímž uvolňují personál pro emocionální podporu. Kriticky lze říci, že i přes sliby zůstávají výzvy v bezpečnosti – algoritmy musí zvládat neočekávané situace bez rizika úrazu – a v ceně, která musí klesnout pod 50 000 USD pro masové nasazení.
+
+## Proč je to důležité
+Toto spuštění označuje průlom v humanoidní robotice směrem k praktické autonomii, což urychlí adopci v sektorech péče a domácnosti. V širším kontextu posiluje soutěž mezi firmami jako Toyota, Tesla a Boston Dynamics, kde klíčem je integrace AI pro AGI-blízké chování. Pro průmysl to znamená snížení nákladů na práci o 20–30 % v péči, pro uživatele zlepšení kvality života seniorů. Nicméně úspěch závisí na řešení etických otázek, jako soukromí dat z monitoringu, a na škálovatelnosti výroby.
 
 ---
 

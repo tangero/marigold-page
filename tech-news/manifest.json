@@ -1,10 +1,10 @@
 {
-  "generated": "2026-02-23T01:36:51.766552+00:00",
-  "count": 197,
+  "generated": "2026-02-23T05:46:44.409748+00:00",
+  "count": 176,
   "articles": [
     {
-      "title": "5 humanoidních robotů spouštěných v roce 2026: První z nich létá",
-      "description": "Vstupte do reality, kde se vědecká fantastika prolíná s každodenním životem. Humanoidní roboti už nejsou vzdálenou fantazií, navrhují se pro přirozenou integraci do našich rutin a řeší praktické výzvy v péči a domácnostech.",
+      "title": "5 humanoidních robotů spuštěných v roce 2026: První z nich létá",
+      "description": "V roce 2026 budou představeny pět humanoidních robotů, z nichž jeden disponuje schopností letu. Tyto stroje mají propojit sci-fi s každodenním životem a řešit praktické problémy v péči a domácnosti.",
       "slug": "A-5-humanoid-robots-being-launched-in-2026-the-fir",
       "publishedAt": "2026-02-22T00:30:44+00:00",
       "date": "2026-02-22 00:30:44",
@@ -21,13 +21,35 @@
       "people": []
     },
     {
-      "title": "Kanadský ministr pro umělou inteligenci upozorňuje na nedostatky bezpečnostních protokolů OpenAI po masové střelbě v Tumbler Ridge",
-      "description": "Kanadský federální ministr pro umělou inteligenci Iryna Stefanyshyn vyjadřuje obavy společnosti OpenAI a dalším platformám ohledně jejich bezpečnostních opatření. Důvodem je potvrzení, že teenager odpovědný za masovou střelbu v Tumbler Ridge v Britské Kolumbii měl účet u OpenAI.",
+      "title": "Články o čipech, obchodu, OpenAI, webu, TikToku, Apple a sociálních sítích",
+      "description": "Čínská komunistická strana se snaží ovládnout informační technologie jako prostředek k formování a cenzuře komunikace a názorů svých občanů i komunikace osob mimo hranice Číny.",
+      "slug": "articles-on-chips-trade-openai-web-tiktok-apple-an",
+      "publishedAt": "2026-02-22T00:00:00+00:00",
+      "date": "2026-02-22 00:00:00",
+      "importance": 4,
+      "category": "čínská cenzura",
+      "urlToImage": "https://www.hoover.org/sites/default/files/styles/facebook/public/research/images/csgp_cyber.jpg?h=2d9e26d4&itok=eG4unC9X",
+      "url": "/tech-news/2026-02-22/articles-on-chips-trade-openai-web-tiktok-apple-an/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Hoover.org"
+      },
+      "companies": [
+        "OpenAI",
+        "TikTok",
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Kanadský ministr pro umělou inteligenci upozorňuje na bezpečnostní protokoly OpenAI po masové střelbě v Tumbler Ridge",
+      "description": "Kanadský ministr pro umělou inteligenci zvyšuje obavy u OpenAI a dalších platforem ohledně bezpečnostních protokolů poté, co společnost potvrdila účet teenagera odpovědného za masovou střelbu v Tumbler Ridge v Britské Kolumbii.",
       "slug": "federal-ai-minister-raises-concerns-over-openai-sa",
       "publishedAt": "2026-02-21T23:06:12+00:00",
       "date": "2026-02-21 23:06:12",
-      "importance": 5,
-      "category": "ai bezpečnost",
+      "importance": 4,
+      "category": "bezpečnost ai",
       "urlToImage": "https://i.cbc.ca/ais/06625b6e-4f06-4066-a12f-d152a6f71b67,1771713106276/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C68%2C1280%2C720%29%3BResize%3D620",
       "url": "/tech-news/2026-02-21/federal-ai-minister-raises-concerns-over-openai-sa/",
       "source": {
@@ -41,13 +63,13 @@
       "people": []
     },
     {
-      "title": "OpenAI slaví 10 let existence — ale splnilo svůj slib AGI, které 'prospívá celému lidstvu'?",
-      "description": "Technologická společnost je nyní v popředí závodu o generativní AI — ale jak se tam dostala?",
+      "title": "OpenAI slaví 10 let existence — ale jak splnilo svůj slib AGI, které 'prospívá celému lidstvu'?",
+      "description": "Technologická společnost je nyní v popředí závodu o generativní AI – ale jak se tam dostala?",
       "slug": "openai-celebrates-10-years-of-existence-but-how-ha",
       "publishedAt": "2026-02-21T22:05:00+00:00",
       "date": "2026-02-21 22:05:00",
       "importance": 4,
-      "category": "ai",
+      "category": "umělá inteligence",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/xpFHDLqvb9JBmLZJNUqfdH-2321-80.jpg",
       "url": "/tech-news/2026-02-21/openai-celebrates-10-years-of-existence-but-how-ha/",
       "source": {
@@ -62,7 +84,7 @@
     },
     {
       "title": "Starlink Elona Muska: Aerolinky jako Southwest a United přecházejí na satelitního poskytovatele internetu",
-      "description": "S příchodem éry vysokorychlostního internetu na palubě komerčních letadel se americké aerolinky zapojují do soutěže, kdo nabídne zákazníkům nejplynulejší zážitek. Southwest a United volí technologii Starlink od SpaceX.",
+      "description": "Americké aerolinky soutěží v poskytování vysokorychlostního internetu na palubě letadel a přecházejí na službu Starlink od SpaceX. Tato technologie umožňuje streamování, online hraní her a videohovory díky satelitům v nízké oběžné dráze.",
       "slug": "elon-musks-starlink-airlines-like-southwest-united",
       "publishedAt": "2026-02-21T21:25:02+00:00",
       "date": "2026-02-21 21:25:02",
@@ -3580,436 +3602,6 @@
       "people": [
         "Mati Staniszewski"
       ]
-    },
-    {
-      "title": "Indická Neysa získává 1,2 miliardy dolarů na rozšíření AI-optimalizované cloudové platformy",
-      "description": "Startup Neysa Networks Pvt. Ltd. z Bombaje oznámil získání až 1,2 miliardy dolarů na výstavbu datových center. Konzorcium vedené Blackstone poskytne polovinu částky jako akciový kapitál a získá většinový podíl v firmě.",
-      "slug": "indias-neysa-raises-12b-to-expand-its-ai-optimized",
-      "publishedAt": "2026-02-16T23:38:35+00:00",
-      "date": "2026-02-16 23:38:35",
-      "importance": 4,
-      "category": "startupy",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/unsplash-1-1.png",
-      "url": "/tech-news/2026-02-16/indias-neysa-raises-12b-to-expand-its-ai-optimized/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Neysa"
-      ],
-      "people": []
-    },
-    {
-      "title": "Představitelé Pentagonu hrozí zařazením Anthropic na černou listinu kvůli jeho politikám vojenského chatbota",
-      "description": "Americké ministerstvo obrany zvažuje přerušení všech obchodní vazeb s firmou Anthropic a označení ji za riziko v dodavatelském řetězci kvůli sporům o použití chatbota Claude pro vojenské účely. Tento krok by donutil všechny kontrakty Pentagonu přestat používat technologie Anthropic.",
-      "slug": "pentagon-officials-threaten-to-blacklist-anthropic",
-      "publishedAt": "2026-02-16T23:37:32+00:00",
-      "date": "2026-02-16 23:37:32",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Screenshot-from-2026-02-17-06-36-59.png",
-      "url": "/tech-news/2026-02-16/pentagon-officials-threaten-to-blacklist-anthropic/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Anthropic"
-      ],
-      "people": []
-    },
-    {
-      "title": "Ztráty Waymo přibližně 5 miliard dolarů",
-      "description": "Segment Google Other Bets vykázal za rok 2025 provozní ztrátu 7,52 miliardy dolarů, což je nárůst o zhruba 3 miliardy oproti 4,4 miliardám v roce 2024. Waymo na tom má podíl 60-75 procent, především kvůli vyšším nákladům na zaměstnance a rozšíření operací.",
-      "slug": "waymo-losses-about-5-billion",
-      "publishedAt": "2026-02-16T19:44:14+00:00",
-      "date": "2026-02-16 19:44:14",
-      "importance": 4,
-      "category": "autonomní vozy",
-      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/02/Screenshot-2026-02-16-at-11.04.44-AM.jpg",
-      "url": "/tech-news/2026-02-16/waymo-losses-about-5-billion/",
-      "source": {
-        "emoji": "📰",
-        "id": "next-big-future",
-        "name": "Next Big Future"
-      },
-      "companies": [
-        "Google",
-        "Waymo"
-      ],
-      "people": []
-    },
-    {
-      "title": "ByteDance slibuje omezit svůj nástroj pro generování AI videí po hrozbě od Disney",
-      "description": "Model umělé inteligence Seedance 2.0 byl přirovnán k DeepSeek a chválen za schopnost vytvářet filmové příběhy z pouhých několika textových pokynů. Firma reaguje na právní varování od amerických studií, včetně Disney.",
-      "slug": "bytedance-pledges-to-restrict-its-ai-video-tool-af",
-      "publishedAt": "2026-02-16T19:38:49+00:00",
-      "date": "2026-02-16 19:38:49",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/02/121484434-1_cdca6d.jpg?quality=75&strip=all&w=1200",
-      "url": "/tech-news/2026-02-16/bytedance-pledges-to-restrict-its-ai-video-tool-af/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "New York Post"
-      },
-      "companies": [
-        "ByteDance",
-        "DeepSeek"
-      ],
-      "people": []
-    },
-    {
-      "title": "„Myslím, že v následujících 12 až 18 měsících dosáhneme lidské úrovně ve většině, ne-li všech, profesionálních úkolech“: Šéf AI Microsoftu věří, že AI nahradí většinu bílých límců prací – je to konec pro lidské pracovníky?",
-      "description": "Šéf AI divize Microsoftu Mustafa Suleyman předpovídá, že umělá inteligence brzy automatizuje většinu kancelářských profesí. Tato výpověď vyvolává otázky o budoucnosti pracovního trhu.",
-      "slug": "i-think-were-going-to-have-a-human-level-performan",
-      "publishedAt": "2026-02-16T19:35:00+00:00",
-      "date": "2026-02-16 19:35:00",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/LbxyeFQdkdCJXqrsunCqDj-1920-80.jpg",
-      "url": "/tech-news/2026-02-16/i-think-were-going-to-have-a-human-level-performan/",
-      "source": {
-        "emoji": "📰",
-        "id": "techradar",
-        "name": "TechRadar"
-      },
-      "companies": [
-        "Microsoft"
-      ],
-      "people": []
-    },
-    {
-      "title": "Čína využívá predátory k trénování svých nových AI zbraní – proč to dělá",
-      "description": "Čína se snaží vést revoluci v oblasti vojenských dronů a získává pomoc z chování zvířat z říše predátorů.",
-      "slug": "china-is-using-predators-to-train-their-new-ai-wea",
-      "publishedAt": "2026-02-16T19:17:00+00:00",
-      "date": "2026-02-16 19:17:00",
-      "importance": 4,
-      "category": "vojenské drony",
-      "urlToImage": "https://www.bgr.com/img/gallery/china-is-using-predators-to-train-their-new-ai-weapons-heres-why/l-intro-1770795933.jpg",
-      "url": "/tech-news/2026-02-16/china-is-using-predators-to-train-their-new-ai-wea/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BGR"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Pentagon může ukončit vztahy s Anthropic kvůli bezpečnostním omezením AI - Výrobce Claude vyjadřuje obavy z 'tvrdých limitů kolem plně autonomních zbraní a masového domácího sledování'",
-      "description": "Anthropic váhá s povolením Pentagonu pokračovat v používání modelu Claude kvůli obavám z porušení svých zásad používání. Pentagon hrozí zrušením 200milionového kontraktu kvůli nesouhlasu s omezeními na autonomní zbraně a masové sledování.",
-      "slug": "pentagon-may-sever-anthropic-relationship-over-ai-",
-      "publishedAt": "2026-02-16T18:35:00+00:00",
-      "date": "2026-02-16 18:35:00",
-      "importance": 4,
-      "category": "ai etika",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/scxFkyfYSQbrtGvqrmFqgU-2560-80.jpg",
-      "url": "/tech-news/2026-02-16/pentagon-may-sever-anthropic-relationship-over-ai/",
-      "source": {
-        "emoji": "📰",
-        "id": "techradar",
-        "name": "TechRadar"
-      },
-      "companies": [
-        "Anthropic"
-      ],
-      "people": []
-    },
-    {
-      "title": "Western Digital vyprodalo celou zásobu pevných disků pro rok 2026, AI datacentra pohlcují nabídku",
-      "description": "Western Digital, jeden z největších výrobců pevných disků na světě, vyprodalo svou úložnou kapacitu pro rok 2026 s více než deseti měsíci zbývajícími v roce. Poptávka pochází především od firem provozujících AI datacentra.",
-      "slug": "western-digital-sells-out-entire-2026-hard-drive-i",
-      "publishedAt": "2026-02-16T16:35:36+00:00",
-      "date": "2026-02-16 16:35:36",
-      "importance": 4,
-      "category": "hardware",
-      "urlToImage": "https://media.breitbart.com/media/2026/02/hard-drives-in-a-pile-640x335.jpg",
-      "url": "/tech-news/2026-02-16/western-digital-sells-out-entire-2026-hard-drive-i/",
-      "source": {
-        "emoji": "📰",
-        "id": "breitbart-news",
-        "name": "Breitbart News"
-      },
-      "companies": [
-        "Western Digital"
-      ],
-      "people": []
-    },
-    {
-      "title": "Firmy s AI chatboti čelí přísnějším regulacím v britských zákonech o online bezpečnosti chránících děti",
-      "description": "Akce, kterou jsme podnikli ohledně Grok, poslala jasnou zprávu, že žádná platforma nedostane volnou jízdu,\" řekl v neděli britský premiér Keir Starmer.",
-      "slug": "ai-chatbot-firms-face-stricter-regulation-in-onlin",
-      "publishedAt": "2026-02-16T16:20:31+00:00",
-      "date": "2026-02-16 16:20:31",
-      "importance": 4,
-      "category": "regulace ai",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108266062-1771247331164-gettyimages-2243451929-aichatbot_172.jpeg?v=1771247360&w=1920&h=1080",
-      "url": "/tech-news/2026-02-16/ai-chatbot-firms-face-stricter-regulation-in-onlin/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNBC"
-      },
-      "companies": [],
-      "people": [
-        "Keir Starmer"
-      ]
-    },
-    {
-      "title": "Technologický šok z Číny ohrožuje monopol USA v AI a teprve začíná",
-      "description": "Za pět až deset let by většina světové populace mohla běžet na čínském technologickém zásobníku, varuje analytik Rory Green pro CNBC.",
-      "slug": "chinas-tech-shock-threatens-the-us-ai-monopoly-and",
-      "publishedAt": "2026-02-16T12:30:01+00:00",
-      "date": "2026-02-16 12:30:01",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108075021-1734011164475-gettyimages-1456167226-gitech84.jpeg?v=1765976482&w=1920&h=1080",
-      "url": "/tech-news/2026-02-16/chinas-tech-shock-threatens-the-us-ai-monopoly-and/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNBC"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Izraelská firma se spywarem, která se omylem právě odhalila",
-      "description": "Izraelská společnost vyvíjející špionážní software se nechtěně prozradila díky chybě v konfiguraci infrastruktury. Výzkumník odhalil jejich servery a nástroje používané pro sledování mobilních zařízení.",
-      "slug": "the-israeli-spyware-firm-that-accidentally-just-ex",
-      "publishedAt": "2026-02-16T12:00:42+00:00",
-      "date": "2026-02-16 12:00:42",
-      "importance": 4,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://substackcdn.com/image/fetch/$s_!-Wnv!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHA5T-uhboAAD2xT.jpg",
-      "url": "/tech-news/2026-02-16/the-israeli-spyware-firm-that-accidentally-just-ex/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Substack.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Peníze z AI míří do midterm voleb 2026",
-      "description": "Průmysloví giganti včetně Marca Andreessena a Anthropic již investují miliony dolarů do podpory politiků nakloněných umělé inteligenci v amerických midterm volbách 2026. Tento trend následuje model kryptoměn, které v minulých cyklech ovlivnily složení Senátu.",
-      "slug": "ai-money-is-coming-to-a-midterm-near-you",
-      "publishedAt": "2026-02-16T12:00:19+00:00",
-      "date": "2026-02-16 12:00:19",
-      "importance": 4,
-      "category": "ai politika",
-      "urlToImage": "https://pyxis.nymag.com/v1/imgs/e57/616/3641de18277ca5387d90925f87e1a9926d-AI-ChrisGober.1x.rsocial.w1200.jpg",
-      "url": "/tech-news/2026-02-16/ai-money-is-coming-to-a-midterm-near-you/",
-      "source": {
-        "emoji": "📰",
-        "id": "new-york-magazine",
-        "name": "New York Magazine"
-      },
-      "companies": [
-        "Anthropic"
-      ],
-      "people": [
-        "Marc Andreessen"
-      ]
-    },
-    {
-      "title": "ByteDance zabrání neoprávěnému použití duševního vlastnictví v AI nástroji pro generování videí",
-      "description": "ByteDance přijme kroky k prevenci neoprávěného použití intelektuálního vlastnictví v generátoru videí Seedance 2.0 po hrozbách právních kroků od amerických filmových studií včetně Disney.",
-      "slug": "bytedance-to-prevent-unauthorised-ip-use-on-ai-vid",
-      "publishedAt": "2026-02-16T08:30:15+00:00",
-      "date": "2026-02-16 08:30:15",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.rte.ie/images/0023e691-1600.jpg",
-      "url": "/tech-news/2026-02-16/bytedance-to-prevent-unauthorised-ip-use-on-ai-vid/",
-      "source": {
-        "emoji": "📰",
-        "id": "rte",
-        "name": "RTE"
-      },
-      "companies": [
-        "ByteDance"
-      ],
-      "people": []
-    },
-    {
-      "title": "Velmi opatrně: O několik týdnů po odhalení plánů na reklamy se OpenAI snaží ovládnout poselství",
-      "description": "Pouhý měsíc po zahájení reklamní strategie a jen týden po spuštění testovacího pilota se OpenAI snaží vyvážit růst a důvěru. Firma pečlivě řídí komunikaci kolem zavádění reklam do ChatGPT, aby neohrozila loajalitu svých 800 milionů uživatelů.",
-      "slug": "being-very-careful-weeks-after-unveiling-ad-plans-",
-      "publishedAt": "2026-02-16T05:01:00+00:00",
-      "date": "2026-02-16 05:01:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://digiday.com/wp-content/uploads/sites/3/2025/12/openai-ads-digiday.jpg",
-      "url": "/tech-news/2026-02-16/being-very-careful-weeks-after-unveiling-ad-plans/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digiday"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Silné vazby mezi USA a Indií v oblasti AI mají obrovský potenciál: CEO společnosti Rubrik",
-      "description": "Silné partnerství mezi Indií a USA v oblasti AI nabízí velké příležitosti v sektorech jako zdravotnictví, vzdělávání, školení pracovníků a digitální gramotnost, uvedl předseda a generální ředitel giganta v AI operacích Rubrik.",
-      "slug": "strong-ties-between-us-india-in-ai-has-tremendous-",
-      "publishedAt": "2026-02-16T04:24:43+00:00",
-      "date": "2026-02-16 04:24:43",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-02/12/thumb/fitandfill/1200X630/1770918455-5935.jpg",
-      "url": "/tech-news/2026-02-16/strong-ties-between-us-india-in-ai-has-tremendous/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Business Standard"
-      },
-      "companies": [
-        "Rubrik"
-      ],
-      "people": []
-    },
-    {
-      "title": "Sam Altman: Indie má nyní 100 milionů týdenních uživatelů ChatGPT",
-      "description": "Jedná se o první explicitní údaje o počtu uživatelů specifické pro Indii, které společnost sdílela; ta od spuštění ChatGPT koncem roku 2022 většinou sdílela globální metriky. CEO uvedl, že číslo 100 milionů zachycuje weekly active users ChatGPT v Indii, zahrnující oba f…",
-      "slug": "sam-altman-says-india-now-has-100-million-weekly-c",
-      "publishedAt": "2026-02-16T03:50:28+00:00",
-      "date": "2026-02-16 03:50:28",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-29178,resizemode-75,msid-128405691/tech/artificial-intelligence/sam-altman-says-india-now-has-100-million-weekly-chatgpt-users.jpg",
-      "url": "/tech-news/2026-02-16/sam-altman-says-india-now-has-100-million-weekly-c/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Bušivá poptávka AI po paměti pohání rostoucí krizi čipů",
-      "description": "Cena jednoho typu DRAM vzrostla o 75 % od prosince do ledna, což urychluje růst cen během celého svátkového čtvrtletí. Tato krize ohrožuje produkci elektroniky i AI datových center.",
-      "slug": "rampant-ai-demand-for-memory-is-fueling-a-growing-",
-      "publishedAt": "2026-02-16T00:42:39+00:00",
-      "date": "2026-02-16 00:42:39",
-      "importance": 4,
-      "category": "krize čipů",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2251983263-e1771201699839.jpg?resize=1200,600",
-      "url": "/tech-news/2026-02-16/rampant-ai-demand-for-memory-is-fueling-a-growing/",
-      "source": {
-        "emoji": "📰",
-        "id": "fortune",
-        "name": "Fortune"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Indie se snaží demokratizovat zdroje umělé inteligence prostřednictvím rámce globálních společných zdrojů",
-      "description": "Indie staví umělou inteligenci do centra své technologické a geopolitické strategie při přípravách na konání India AI Impact Summit. Cílem je otevřít přístup k AI zdrojům pro širší veřejnost skrz globální rámec společných zdrojů.",
-      "slug": "india-seeks-to-democratize-ai-resources-through-gl",
-      "publishedAt": "2026-02-16T00:33:48+00:00",
-      "date": "2026-02-16 00:33:48",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://img.digitimes.com/newsshow/20260216vl203_files/1_b.jpg",
-      "url": "/tech-news/2026-02-16/india-seeks-to-democratize-ai-resources-through-gl/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "AI firma Neysa získá 1,2 miliardy dolarů od Blackstone a dalších v mixu dluhu a vlastního kapitálu",
-      "description": "Neysa plánuje získat 1,2 miliardy dolarů v dealu vedeném Blackstone pro rozšíření AI cloud infrastruktury v Indii, s cílem nasadit 20 000 GPU a využít novou 20letou daňovou dovolenou. Tento krok posílí domácí kapacity pro trénink a nasazení AI modelů.",
-      "slug": "ai-firm-neysa-to-raise-12-billion-from-blackstone-",
-      "publishedAt": "2026-02-16T00:31:10+00:00",
-      "date": "2026-02-16 00:31:10",
-      "importance": 5,
-      "category": "ai",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2026/02/15/1600x900/logo/Neysa__1771152585698_1771152585780_1771162292578.jpeg",
-      "url": "/tech-news/2026-02-16/ai-firm-neysa-to-raise-12-billion-from-blackstone/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Livemint"
-      },
-      "companies": [
-        "Neysa"
-      ],
-      "people": []
-    },
-    {
-      "title": "Blackstone vede investici 1,2 miliardy dolarů do AI cloud startupu Neysa s valuací 1,4 miliardy dolarů",
-      "description": "Americký správce aktiv Blackstone vede investici 1,2 miliardy dolarů (přibližně 10 867 miliard rupií) do indického startupu Neysa, což je největší kolo financování v historii indického AI sektoru. Financování je rozděleno rovnoměrně mezi primární akcie a dluh, čímž Blackstone získává většinový podíl v této firmě zaměřené na cloudovou infrastrukturu pro AI.",
-      "slug": "blackstone-leads-600-million-raise-in-ai-cloud-sta",
-      "publishedAt": "2026-02-16T00:31:00+00:00",
-      "date": "2026-02-16 00:31:00",
-      "importance": 4,
-      "category": "ai startupy",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-185014,resizemode-75,msid-128390049/tech/funding/blackstone-leads-600-million-raise-in-ai-cloud-neysa-at-1-4-billion-enterprise-value.jpg",
-      "url": "/tech-news/2026-02-16/blackstone-leads-600-million-raise-in-ai-cloud-sta/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Neysa"
-      ],
-      "people": []
-    },
-    {
-      "title": "Blackstone vede investici 1,2 miliardy dolarů do AI cloudu Neysa s podnikovou hodnotou 1,4 miliardy",
-      "description": "Investiční fond Blackstone vede 1,2miliardovou investici do indického startupu Neysa, což představuje největší kolo financování v oblasti AI v Indii. Investice je rozdělena rovnoměrně mezi primární akcie a dluh, díky čemuž získá Blackstone většinový podíl v této cloudové infrastruktuře pro umělou inteligenci.",
-      "slug": "blackstone-leads-600-million-raise-in-ai-cloud-ney",
-      "publishedAt": "2026-02-16T00:31:00+00:00",
-      "date": "2026-02-16 00:31:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-185014,resizemode-75,msid-128390051/tech/startups/blackstone-leads-600-million-raise-in-ai-cloud-neysa-at-1-4-billion-enterprise-value.jpg",
-      "url": "/tech-news/2026-02-16/blackstone-leads-600-million-raise-in-ai-cloud-ney/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Neysa"
-      ],
-      "people": []
-    },
-    {
-      "title": "Proč vstupy na burzu novodobých firem vykazují menší velikosti emise a snížená ocenění",
-      "description": "Několik novodobých indických firem, které v posledních měsících vstoupily na burzu, snížilo velikost svých emisí akcií a přijalo nižší ocenění kvůli volatilním trhům a přísnějším požadavkům investorů na rentabilitu. Tento trend nastává i přes aktivitu indického trhu s IPO.",
-      "slug": "why-new-age-ipos-are-seeing-shrinking-issue-sizes-",
-      "publishedAt": "2026-02-16T00:30:00+00:00",
-      "date": "2026-02-16 00:30:00",
-      "importance": 4,
-      "category": "startupy",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1214436,resizemode-75,msid-128389950/tech/startups/new-age-ipo-sizes-shrink-as-choppy-markets-reshape-pricing-benchmarks.jpg",
-      "url": "/tech-news/2026-02-16/why-new-age-ipos-are-seeing-shrinking-issue-sizes/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [],
-      "people": []
     }
   ]
 }
