@@ -1,7 +1,46 @@
 {
-  "generated": "2026-02-23T17:12:32.372448+00:00",
-  "count": 183,
+  "generated": "2026-02-23T21:00:50.141470+00:00",
+  "count": 185,
   "articles": [
+    {
+      "title": "Druhý fond Quantonation dvakrát větší ukazuje, že kvantové technologie mají stále zastánce | TechCrunch",
+      "description": "Venture kapitálová firma Quantonation Ventures uzavřela svůj přeobjednaný druhý fond na 220 milionů eur, tedy přibližně 260 milionů dolarů. Jedná se o více než dvojnásobek velikosti jejich prvního fondu z roku 2018.",
+      "slug": "quantonations-double-sized-second-fund-shows-quant",
+      "publishedAt": "2026-02-22T18:01:39+00:00",
+      "date": "2026-02-22 18:01:39",
+      "importance": 4,
+      "category": "kvantové technologie",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1393513219.jpg?resize=1200,568",
+      "url": "/tech-news/2026-02-22/quantonations-double-sized-second-fund-shows-quant/",
+      "source": {
+        "emoji": "🚀",
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Autodesk (ADSK) investuje 200 milionů dolarů do World Labs",
+      "description": "Společnost Autodesk investovala 200 milionů dolarů do startupu World Labs založeného Fei-Fei Li, který získal celkem jednu miliardu dolarů od investorů včetně AMD a Nvidia. Autodesk bude také poradcem při integraci svých 3D designových nástrojů s AI modely pro oblasti jako zábava, robotika a 3D workflow.",
+      "slug": "autodesk-adsk-invests-200-million-in-world-labs",
+      "publishedAt": "2026-02-22T17:09:36+00:00",
+      "date": "2026-02-22 17:09:36",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://s.yimg.com/os/en/insidermonkey.com/fb83ad896c7255678f1f9740ee83aff1",
+      "url": "/tech-news/2026-02-22/autodesk-adsk-invests-200-million-in-world-labs/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "Autodesk",
+        "World Labs"
+      ],
+      "people": []
+    },
     {
       "title": "Apple pravděpodobně uvede pět produktů v březnu: iPhone 17e, MacBook Air s M5, MacBook Pro s M5 Pro a M5 Max, současné modely se vyprodávají v obchodech",
       "description": "Apple plánuje událost 4. března, kde může oznámit nejméně pět novinek včetně levného MacBooku. Současné modely jako iPhone 16e, MacBooky s čipy M4 a iPad Air s M3 se vyprodávají v prodejnách, což signalizuje příchod nástupců.",
