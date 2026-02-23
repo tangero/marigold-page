@@ -1,7 +1,47 @@
 {
-  "generated": "2026-02-23T13:20:33.889249+00:00",
-  "count": 181,
+  "generated": "2026-02-23T17:12:32.372448+00:00",
+  "count": 183,
   "articles": [
+    {
+      "title": "Apple pravděpodobně uvede pět produktů v březnu: iPhone 17e, MacBook Air s M5, MacBook Pro s M5 Pro a M5 Max, současné modely se vyprodávají v obchodech",
+      "description": "Apple plánuje událost 4. března, kde může oznámit nejméně pět novinek včetně levného MacBooku. Současné modely jako iPhone 16e, MacBooky s čipy M4 a iPad Air s M3 se vyprodávají v prodejnách, což signalizuje příchod nástupců.",
+      "slug": "apple-potentially-launching-five-products-in-march",
+      "publishedAt": "2026-02-22T14:12:28+00:00",
+      "date": "2026-02-22 14:12:28",
+      "importance": 4,
+      "category": "hardware",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/02/Apple-3.jpg",
+      "url": "/tech-news/2026-02-22/apple-potentially-launching-five-products-in-march/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Wccftech"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Čtyři polovodičové jednotky zahájí výrobu brzy, oznámil premiér Modi",
+      "description": "Premiér Modi prohlásil, že Indie usiluje připojit se k předním národům v poskytování výpočetního výkonu světu. Čtyři z deseti projektů schválených v rámci Indické semicon misie spustí produkci v blízké době.",
+      "slug": "four-semicon-units-to-begin-production-very-soon-s",
+      "publishedAt": "2026-02-22T13:52:38+00:00",
+      "date": "2026-02-22 13:52:38",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-359266,resizemode-75,msid-128678577/tech/technology/four-semicon-units-to-begin-production-very-soon-says-pm-modi.jpg",
+      "url": "/tech-news/2026-02-22/four-semicon-units-to-begin-production-very-soon-s/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [],
+      "people": [
+        "Narendra Modi"
+      ]
+    },
     {
       "title": "Přišlo narušení díky AI – a udělá to software jen levnější a přístupnější?",
       "description": "Programátor a podnikatel Paul Ford, spoluzakladatel platformy Aboard pro business software poháněné AI, napsal hostující esej pro New York Times, kde argumentuje, že díky zlepšení Anthropic Claude Code v listopadu přišlo skutečné narušení v AI, které umožňuje rychle vyvíjet složité projekty za zlomek nákladů.",
