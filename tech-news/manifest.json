@@ -1,7 +1,92 @@
 {
-  "generated": "2026-02-23T05:46:44.409748+00:00",
-  "count": 176,
+  "generated": "2026-02-23T09:02:16.614834+00:00",
+  "count": 180,
   "articles": [
+    {
+      "title": "Ego Sama Altmana je odrazující: Proč by Aswath Damodaran investoval do Anthropic spíše než do OpenAI",
+      "description": "Expert na oceňování firem Aswath Damodaran preferuje Anthropic před OpenAI pro investice kvůli dynamice vedení, nikoli fundamentům. Obě AI společnosti dosahují rekordních soukromých valuací – OpenAI blízko 730 miliard dolarů a Anthropic 380 miliard dolarů. Navzdory rozdílu...",
+      "slug": "sam-altmans-ego-is-a-turn-off-why-aswath-damodaran",
+      "publishedAt": "2026-02-22T07:26:47+00:00",
+      "date": "2026-02-22 07:26:47",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://img.etimg.com/thumb/msid-128669204,width-1200,height-630,imgsize-37054,overlay-etmarkets/articleshow.jpg",
+      "url": "/tech-news/2026-02-22/sam-altmans-ego-is-a-turn-off-why-aswath-damodaran/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Anthropic",
+        "OpenAI"
+      ],
+      "people": [
+        "Sam Altman",
+        "Aswath Damodaran"
+      ]
+    },
+    {
+      "title": "Modular: Kompilátor C od Claude: Co odhaluje o budoucnosti softwaru",
+      "description": "Kompilátory mají v informatice zvláštní postavení. Jsou standardní součástí výuky informatiky a jejich vývoj je klíčovým krokem pro pochopení fungování softwaru na úrovni jazyků, abstrakcí a hardwaru.",
+      "slug": "modular-the-claude-c-compiler-what-it-reveals-abou",
+      "publishedAt": "2026-02-22T05:47:01+00:00",
+      "date": "2026-02-22 05:47:01",
+      "importance": 4,
+      "category": "kompilátory",
+      "urlToImage": "https://cdn.prod.website-files.com/68c9c3107effc2ea46e1a82c/6996624ca950e0f8926d6f86_Option05.png",
+      "url": "/tech-news/2026-02-22/modular-the-claude-c-compiler-what-it-reveals-abou/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Modular.com"
+      },
+      "companies": [
+        "Modular"
+      ],
+      "people": []
+    },
+    {
+      "title": "Hackeři odhalili software pro ověřování věku pohánějící síť sledování",
+      "description": "Tři hacktivisti hledali obcházku ověřování věku na Discordu. Místo toho objevili jeho frontend vystavený na otevřeném internetu na serveru autorizovaném americkou vládou.",
+      "slug": "hackers-expose-age-verification-software-powering-",
+      "publishedAt": "2026-02-22T05:47:01+00:00",
+      "date": "2026-02-22 05:47:01",
+      "importance": 5,
+      "category": "kybernetika",
+      "urlToImage": "https://www.therage.co/content/images/2026/02/the-rage-persona-age-verification.png",
+      "url": "/tech-news/2026-02-22/hackers-expose-age-verification-software-powering/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Therage.co"
+      },
+      "companies": [
+        "Discord"
+      ],
+      "people": []
+    },
+    {
+      "title": "Jefferies povýšil BETA Technologies (BETA) na Doporučeno k nákupu",
+      "description": "Společnost BETA Technologies, Inc. (NYSE:BETA) patří mezi 11 nově uvedených akcií na burze NYSE doporučených k nákupu. Analytik Jefferies Sheila Kahyaoglu 11. února 2026 povýšila hodnocení z Držet na Doporučeno k nákupu s cenovým cílem 30 USD.",
+      "slug": "jefferies-upgrades-beta-technologies-inc-beta-to-b",
+      "publishedAt": "2026-02-22T02:41:10+00:00",
+      "date": "2026-02-22 02:41:10",
+      "importance": 4,
+      "category": "akcie",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ZMzYPsmTTp68HeTNxFxSAg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/2b3c5ad2080f54f0562d58f0e21638ff",
+      "url": "/tech-news/2026-02-22/jefferies-upgrades-beta-technologies-inc-beta-to-b/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "BETA Technologies",
+        "Inc"
+      ],
+      "people": []
+    },
     {
       "title": "5 humanoidních robotů spuštěných v roce 2026: První z nich létá",
       "description": "V roce 2026 budou představeny pět humanoidních robotů, z nichž jeden disponuje schopností letu. Tyto stroje mají propojit sci-fi s každodenním životem a řešit praktické problémy v péči a domácnosti.",
