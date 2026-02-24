@@ -1,7 +1,175 @@
 {
-  "generated": "2026-02-24T01:34:41.046783+00:00",
-  "count": 189,
+  "generated": "2026-02-24T05:44:28.356444+00:00",
+  "count": 165,
   "articles": [
+    {
+      "title": "Robotaxi přicházejí do Londýna. Slavní řidiči černých taxíků jsou skeptičtí",
+      "description": "Londýn se stává hlavním testovacím polem pro robotaxi, zatímco firmy se připravují na vládní zkoušky na jaře. Britská startup Wayve Technologies testuje autonomní vozidlo na složitých ulicích města.",
+      "slug": "robotaxis-are-coming-to-london-the-citys-famed-bla",
+      "publishedAt": "2026-02-23T05:10:21+00:00",
+      "date": "2026-02-23 05:10:21",
+      "importance": 4,
+      "category": "robotaxi",
+      "urlToImage": "https://i.abcnewsfe.com/a/2aef90e8-abce-4ab3-8fbd-a5fa358d2c23/wirestory_d697e141132f0a33d0c5bec95199e504_16x9.jpg?w=1600",
+      "url": "/tech-news/2026-02-23/robotaxis-are-coming-to-london-the-citys-famed-bla/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Sharon AI a Cisco spouštějí první australskou Cisco Secure AI Factory s NVIDIA",
+      "description": "Cisco a Sharon AI spustily v Austrálii první Cisco Secure AI Factory ve spolupráci s NVIDIA. Tato infrastruktura zajišťuje bezpečné zpracování AI dat výhradně v zemi s využitím 1024 NVIDIA Blackwell Ultra GPU.",
+      "slug": "sharon-ai-cisco-launch-australias-first-cisco-secu",
+      "publishedAt": "2026-02-23T05:06:00+00:00",
+      "date": "2026-02-23 05:06:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://newsroom.cisco.com/c/dam/r/newsroom/en/us/assets/a/y2026/m02/JamesChuckStef4.jpeg",
+      "url": "/tech-news/2026-02-23/sharon-ai-cisco-launch-australias-first-cisco-secu/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Cisco.com"
+      },
+      "companies": [
+        "Sharon AI",
+        "Cisco",
+        "NVIDIA"
+      ],
+      "people": []
+    },
+    {
+      "title": "Teaser podcastu Nikhila Kamatha: Šéf Anthropic Dario Amodei varuje před tsunami umělé inteligence",
+      "description": "V rozhovoru na podcastu 'People by WTF' sponzorovaném Nikhilem Kamathem, spoluzakladatelem brokera Zerodha, CEO Anthropic Dario Amodei přirovnal nadcházející vlnu AI k tsunami. Zdůraznil obrovské ekonomické a geopolitické důsledky technologie a kritizoval popírání jejího disruptivního potenciálu.",
+      "slug": "teaser-for-nikhil-kamaths-podcast-has-anthropic-ce",
+      "publishedAt": "2026-02-23T05:02:26+00:00",
+      "date": "2026-02-23 05:02:26",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1059823,resizemode-75,msid-128699730/tech/technology/teaser-for-nikhil-kamaths-podcast-has-anthropic-ceo-dario-amodei-warning-of-ai-tsunami.jpg",
+      "url": "/tech-news/2026-02-23/teaser-for-nikhil-kamaths-podcast-has-anthropic-ce/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": [
+        "Nikhil Kamath",
+        "Dario Amodei"
+      ]
+    },
+    {
+      "title": "Šéf SK Hynix slibuje zvýšit výrobu paměťových čipů pro AI",
+      "description": "Předseda Chey Tae-won mateřské společnosti SK Group slíbil rozšířit produkci paměťových čipů pro AI, aby uspokojil rostoucí poptávku z globálního budování datových center. SK Hynix reaguje na nedostatek HBM čipů způsobený investicemi technologických firem do AI infrastruktury.",
+      "slug": "sk-hynix-boss-pledges-to-boost-output-of-ai-memory",
+      "publishedAt": "2026-02-23T04:02:47+00:00",
+      "date": "2026-02-23 04:02:47",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/02/776410201.jpg",
+      "url": "/tech-news/2026-02-23/sk-hynix-boss-pledges-to-boost-output-of-ai-memory/",
+      "source": {
+        "emoji": "📰",
+        "id": "financial-post",
+        "name": "Financial Post"
+      },
+      "companies": [
+        "SK Hynix",
+        "SK Group"
+      ],
+      "people": [
+        "Chey Tae-won"
+      ]
+    },
+    {
+      "title": "AI podniky v Asii získají větší podporu díky partnerství DBS s Granite Asia",
+      "description": "Partnerství singapurské banky DBS a investiční platformy Granite Asia přináší podporu pro růst AI firem v Asii, včetně fondu 110 milionů USD pro jejich úvody na burzu. Tato spolupráce probíhá v době oživení asijských akciových trhů.",
+      "slug": "ai-driven-businesses-in-asia-to-get-more-support-a",
+      "publishedAt": "2026-02-23T03:06:03+00:00",
+      "date": "2026-02-23 03:06:03",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/7c3e48bca305924e3b8d48249c4d39f22415dc3ee5c657a86973f9e72c28d9cd",
+      "url": "/tech-news/2026-02-23/ai-driven-businesses-in-asia-to-get-more-support-a/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Straits Times"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Texas Instruments (TXN) míří na růst v bezdrátových technologiích akvizicí Silicon Laboratories",
+      "description": "Texas Instruments (NASDAQ:TXN) oznámila akvizici společnosti Silicon Laboratories za 7,5 miliardy dolarů. Tato největší akvizice od roku 2011 posílí pozici firmy v oblasti čipů pro bezdrátovou konektivitu používaných v průmyslovém vybavení a spotřebičích.",
+      "slug": "texas-instruments-txn-targets-wireless-growth-with",
+      "publishedAt": "2026-02-23T02:30:31+00:00",
+      "date": "2026-02-23 02:30:31",
+      "importance": 5,
+      "category": "polovodiče",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/vMawLUp4.Bdzu7ujB7_QmA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/2e6f98febf736a0165d6979be11b537d",
+      "url": "/tech-news/2026-02-23/texas-instruments-txn-targets-wireless-growth-with/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "Texas Instruments",
+        "Silicon Laboratories"
+      ],
+      "people": []
+    },
+    {
+      "title": "Apple pořádá „Speciální zážitkové“ události v březnu",
+      "description": "Apple mění způsob uvedení nových produktů třídenní sérií oznámení od 2. března, která vyvrcholí fyzickými akcemi v New Yorku, Londýně a Šanghaji. Očekávají se novinky jako levný MacBook, iPhone 17e a iPady s čipy M4 a podporou AI funkcí.",
+      "slug": "apple-to-host-special-experience-events-in-march",
+      "publishedAt": "2026-02-23T01:51:01+00:00",
+      "date": "2026-02-23 01:51:01",
+      "importance": 4,
+      "category": "apple",
+      "urlToImage": "https://www.yugatech.com/wp-content/uploads/2026/02/pune-india-february-19-2024-600nw-2427127545.webp",
+      "url": "/tech-news/2026-02-23/apple-to-host-special-experience-events-in-march/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yugatech.com"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Sam Altman brání spotřebu zdrojů AI a zesměšňuje Muskův plán datových center ve vesmíru",
+      "description": "Sam Altman z OpenAI byl tento týden v Indii, kde na akci pořádané The Indian Express odpovídal na otázky o environmentálním dopadu umělé inteligence. Připustil oprávněnost obav z celkové spotřeby energie, ale tvrdí, že ChatGPT spotřebuje za svou životnost stejně jako průměrný člověk a vyvrátil senzacechtivá tvrzení o vodní spotřebě.",
+      "slug": "sam-altman-defends-ais-resource-consumption-and-ri",
+      "publishedAt": "2026-02-23T01:24:47+00:00",
+      "date": "2026-02-23 01:24:47",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/21470472099_8e78d53ecf_k-1.jpg",
+      "url": "/tech-news/2026-02-23/sam-altman-defends-ais-resource-consumption-and-ri/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": [
+        "Sam Altman",
+        "Elon Musk"
+      ]
+    },
     {
       "title": "Lightspeed sází velko na AI, skutečná výhoda Indie spočívá v aplikované inovaci: Ravi Mhatre a Bejul Somaia",
       "description": "Venturační fond ze Silicon Valley, který podpořil Anthropic, se vyhne investicím do spotřebitelských značek a zaměří se na startupy zaměřené na technologii. V Indii směřuje 60 % jeho investic do AI-native firem.",
@@ -27,8 +195,8 @@
       ]
     },
     {
-      "title": "AMD silně vsází na AI ambice Indie s platformou Helios; prosazování otevřeného ekosystému",
-      "description": "Starší viceprezident Thomas Zacharia představuje roadmapu zahrnující exaskalární výpočty, veřejně-soukromá partnerství a hlubší zapojení do Indie. Společnost AMD staví Indii do centra své globální AI strategie s novou vysoce výkonnou infrastrukturou.",
+      "title": "AMD vsází na indické ambice v AI s Helios; prosazování otevřeného ekosystému",
+      "description": "Starší viceprezident Thomas Zacharia načrtává roadmapu zahrnující exaskalární výpočty, veřejně soukromá partnerství a hlubší zapojení v Indii.",
       "slug": "amd-bets-big-on-indias-ai-ambitions-with-helios-op",
       "publishedAt": "2026-02-23T00:30:00+00:00",
       "date": "2026-02-23 00:30:00",
@@ -44,9 +212,7 @@
       "companies": [
         "AMD"
       ],
-      "people": [
-        "Thomas Zacharia"
-      ]
+      "people": []
     },
     {
       "title": "Invaze AI agentů nutí vybírat vítěze",
@@ -3228,654 +3394,6 @@
         "Infosys"
       ],
       "people": []
-    },
-    {
-      "title": "Co dokážou noví humanoidní roboti pohánění AI v Číně?",
-      "description": "Na galavečeru CCTV Spring Festival se humanoidní roboti od firmy Unitree předvedli v složité kung-fu rutině včetně parkouru a manipulace se zbraněmi. Výkon proběhl bez chyb i v blízkosti dětských vystupujících a představuje výrazný pokrok oproti loňskému roku.",
-      "slug": "have-you-seen-what-chinas-new-humanoid-ai-powered-",
-      "publishedAt": "2026-02-17T20:19:43+00:00",
-      "date": "2026-02-17 20:19:43",
-      "importance": 5,
-      "category": "robotika",
-      "urlToImage": "http://theeconomiccollapseblog.com/wp-content/uploads/2026/02/Snip20260217_76.png",
-      "url": "/tech-news/2026-02-17/have-you-seen-what-chinas-new-humanoid-ai-powered/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Theeconomiccollapseblog.com"
-      },
-      "companies": [
-        "Unitree"
-      ],
-      "people": []
-    },
-    {
-      "title": "Čínští hackeři exploitují zero-day zranitelnost Dellu od poloviny 2024",
-      "description": "Podezřelá skupina hackerů UNC6201 podporovaná čínským státem exploituje kritickou zranitelnost s pevně zakódovanými přihlašovacími údaji v softwaru Dell RecoverPoint for Virtual Machines v zero-day útocích od poloviny 2024. Skupina nasadila nový backdoor Grimbolt a skrývá se pomocí Ghost NICs na serverech VMware ESXi.",
-      "slug": "chinese-hackers-exploiting-dell-zero-day-flaw-sinc",
-      "publishedAt": "2026-02-17T20:15:03+00:00",
-      "date": "2026-02-17 20:15:03",
-      "importance": 5,
-      "category": "kybernetika",
-      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2024/05/09/Dell-headpic.jpg",
-      "url": "/tech-news/2026-02-17/chinese-hackers-exploiting-dell-zero-day-flaw-sinc/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BleepingComputer"
-      },
-      "companies": [
-        "Dell"
-      ],
-      "people": []
-    },
-    {
-      "title": "HII spolupracuje s Path Robotics na integraci fyzické AI do stavby obsazených i bezpilotních lodí",
-      "description": "Společnosti HII a Path Robotics podepsaly memorandum o porozumění k prozkoumání integrace fyzické umělé inteligence pro svařování do lodních stavelnic. Cílem je zrychlit výrobu lodí pro americké námořnictvo, posílit průmyslovou základnu a rozšířit pracovní sílu.",
-      "slug": "hii-teams-with-path-robotics-to-integrate-physical",
-      "publishedAt": "2026-02-17T20:15:00+00:00",
-      "date": "2026-02-17 20:15:00",
-      "importance": 4,
-      "category": "průmyslová robotika",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/50e1f6f6-0b84-4b47-bae8-15bb93c2843a",
-      "url": "/tech-news/2026-02-17/hii-teams-with-path-robotics-to-integrate-physical/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "companies": [
-        "Path Robotics"
-      ],
-      "people": []
-    },
-    {
-      "title": "Thrive získává 10 miliard dolarů na nový fond, svůj největší dosud | TechCrunch",
-      "description": "Thrive Capital získal 10 miliard dolarů na nový fond, což je téměř dvojnásobek velikosti předchozího fondu. Z toho 1 miliarda dolarů je vyhrazena pro investice do raných fází, zbytek pro růstové fáze.",
-      "slug": "thrive-raises-10b-for-new-fund-its-largest-yet-tec",
-      "publishedAt": "2026-02-17T20:13:49+00:00",
-      "date": "2026-02-17 20:13:49",
-      "importance": 4,
-      "category": "startupy",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2184416821.jpg?w=1024",
-      "url": "/tech-news/2026-02-17/thrive-raises-10b-for-new-fund-its-largest-yet-tec/",
-      "source": {
-        "emoji": "🚀",
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Grok 4.20 analyzuje emulované digitální lidi Macrohard",
-      "description": "Grok 4.20 zkoumá interní projekt xAI s kódovým názvem MacroHard, který vyvíjí emulátory digitálních lidí či autonomní počítače. Tyto AI agenti napodobují práci kancelářských zaměstnanců na stolních počítačích bez nutnosti změn v API.",
-      "slug": "grok-420-analyzes-macrohard-emulated-digital-human",
-      "publishedAt": "2026-02-17T20:11:30+00:00",
-      "date": "2026-02-17 20:11:30",
-      "importance": 4,
-      "category": "digitální lidé",
-      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/02/xaimacrohrad.jpeg",
-      "url": "/tech-news/2026-02-17/grok-420-analyzes-macrohard-emulated-digital-human/",
-      "source": {
-        "emoji": "📰",
-        "id": "next-big-future",
-        "name": "Next Big Future"
-      },
-      "companies": [
-        "xAI",
-        "Microsoft"
-      ],
-      "people": []
-    },
-    {
-      "title": "Ustupte Meta: Přicházejí chytré brýle od Apple",
-      "description": "Podle zprávy Bloombergu od Marka Gurmana Apple urychluje vývoj tří nositelných zařízení s AI funkcemi: chytrých brýlí, přívěsku a AirPods s IR kamerami. Tato zařízení by měla posílit pozici Apple v oblasti AI hardwaru, ale budou závislá na iPhonu.",
-      "slug": "move-over-meta-apple-smart-glasses-are-coming",
-      "publishedAt": "2026-02-17T19:57:57+00:00",
-      "date": "2026-02-17 19:57:57",
-      "importance": 4,
-      "category": "chytré brýle",
-      "urlToImage": "https://www.macworld.com/wp-content/uploads/2026/02/Ray-Ban-Meta-Gen-2-Hands-On-Skylar-clear-try-on.jpg?quality=50&strip=all&w=1024",
-      "url": "/tech-news/2026-02-17/move-over-meta-apple-smart-glasses-are-coming/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Macworld"
-      },
-      "companies": [
-        "Apple",
-        "Bloomberg",
-        "Meta"
-      ],
-      "people": []
-    },
-    {
-      "title": "Anthropic měl být 'bezpečnou' alternativou k OpenAI, ale CEO Dario Amodei přiznává, že jeho společnost bojuje s vyvažováním bezpečnosti se zisky",
-      "description": "Generální ředitel Anthropicu říká, že intenzivní komerční tlak testuje misi společnosti zaměřenou na bezpečnou AI.",
-      "slug": "anthropic-was-supposed-to-be-a-safe-alternative-to",
-      "publishedAt": "2026-02-17T19:25:08+00:00",
-      "date": "2026-02-17 19:25:08",
-      "importance": 4,
-      "category": "ai bezpečnost",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2261514463-e1771354847602.jpg?resize=1200,600",
-      "url": "/tech-news/2026-02-17/anthropic-was-supposed-to-be-a-safe-alternative-to/",
-      "source": {
-        "emoji": "📰",
-        "id": "fortune",
-        "name": "Fortune"
-      },
-      "companies": [
-        "Anthropic",
-        "OpenAI"
-      ],
-      "people": [
-        "Dario Amodei"
-      ]
-    },
-    {
-      "title": "Render získal 100 milionů dolarů na vývoj cloud technologie pro AI agenty",
-      "description": "Cloudová technologická společnost Render získala 100 milionů dolarů v novém financování. Rozšíření série C, oznámené 17. února, oceňuje firmu na 1,5 miliardy dolarů a poslouží k vývoji cloudového prostředí pro AI agenty a aplikace.",
-      "slug": "render-raises-100-million-to-build-cloud-tech-for-",
-      "publishedAt": "2026-02-17T19:22:28+00:00",
-      "date": "2026-02-17 19:22:28",
-      "importance": 4,
-      "category": "startupy",
-      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/02/Render-AI-clound-funding.jpeg",
-      "url": "/tech-news/2026-02-17/render-raises-100-million-to-build-cloud-tech-for/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "pymnts.com"
-      },
-      "companies": [
-        "Render"
-      ],
-      "people": []
-    },
-    {
-      "title": "Specializace modelů umělé inteligence a přechod k paralelním a víceagentním systémům",
-      "description": "xAI Grok 4.20 integruje nativní radu čtyř specializovaných agentů, kteří běží paralelně na sdílených vahách a KV cache s interní strukturovanou debatou a optimalizací RL. Tento přístup přináší výrazná zlepšení v hloubce uvažování, kontrole faktů a detekci slepých míst oproti jednoprstupovým modelům.",
-      "slug": "ai-models-specializations-and-moving-to-parallel-a",
-      "publishedAt": "2026-02-17T19:19:54+00:00",
-      "date": "2026-02-17 19:19:54",
-      "importance": 4,
-      "category": "multiagentní systémy",
-      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/02/Screenshot-2026-02-17-at-11.19.17-AM.jpg",
-      "url": "/tech-news/2026-02-17/ai-models-specializations-and-moving-to-parallel-a/",
-      "source": {
-        "emoji": "📰",
-        "id": "next-big-future",
-        "name": "Next Big Future"
-      },
-      "companies": [
-        "xAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "„Dekáda robota“ otevírá cestu k trhu v hodnotě bilionu dolarů, tvrdí Barclays",
-      "description": "Trh s roboty poháněnými umělou inteligencí a autonomními stroji má potenciál narůst na bilion dolarů do roku 2035, což je řádově více než nyní, podle týmu analytiků Barclays.",
-      "slug": "decade-of-the-robot-paves-way-for-trillion-dollar-",
-      "publishedAt": "2026-02-17T19:10:13+00:00",
-      "date": "2026-02-17 19:10:13",
-      "importance": 5,
-      "category": "robotika",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_1_1733464951182_1733464958176.png",
-      "url": "/tech-news/2026-02-17/decade-of-the-robot-paves-way-for-trillion-dollar/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Livemint"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "V Lower Hutt levituje půltunový magnet – klíčový krok k čisté jaderné fúzi",
-      "description": "Startup OpenStar v Lower Hutt na Novém Zélandu dosáhl levitace 550kilogramového superprováděcího magnetu v plazmě. Vláda podporuje firmu částkou 35 milionů dolarů na vývoj fúzní energie.",
-      "slug": "in-lower-hutt-a-half-tonne-magnet-levitates-a-key-",
-      "publishedAt": "2026-02-17T16:16:51+00:00",
-      "date": "2026-02-17 16:16:51",
-      "importance": 5,
-      "category": "jaderná fúze",
-      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/HUWILABE5VCCXF2V5EA4A5ZHFQ.jpg?auth=1d8bf628315e8ac9d4215a1633c532ac776a449ede76a38e207d8f66e4352959&width=1200&height=675&quality=70&smart=true",
-      "url": "/tech-news/2026-02-17/in-lower-hutt-a-half-tonne-magnet-levitates-a-key/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "New Zealand Herald"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Comcast, Classiq a AMD demonstrovaly kvantový algoritmus pro odolnější a spolehlivější internet",
-      "description": "Classiq, Comcast a AMD dokončily společnou zkoušku, která využívá kvantové algoritmy k zlepšení odolnosti směrování sítě. Cílem je zajistit plynulé přesměrování provozu i při současném výpadku více uzlů během údržby.",
-      "slug": "pr-comcast-classiq-and-amd-demonstrate-quantum-alg",
-      "publishedAt": "2026-02-17T16:14:47+00:00",
-      "date": "2026-02-17 16:14:47",
-      "importance": 5,
-      "category": "kvantové výpočty",
-      "urlToImage": "https://www.techpowerup.com/img/lIkpsw4iUGd51P1p.jpg",
-      "url": "/tech-news/2026-02-17/pr-comcast-classiq-and-amd-demonstrate-quantum-alg/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Techpowerup.com"
-      },
-      "companies": [
-        "Comcast",
-        "Classiq",
-        "AMD"
-      ],
-      "people": []
-    },
-    {
-      "title": "Co odhaluje zpráva OpenAI o podnikovém AI – a co to znamená pro vaši podnikovou síť",
-      "description": "Nejnovější data OpenAI o podnikovém nasazení ukazují, jak AI rychle přechází z pilotních projektů k klíčovým pracovním postupům. Tento posun mění požadavky na podnikovou síť a nutí IT týmy k modernizaci infrastruktury.",
-      "slug": "what-openais-enterprise-ai-report-revealsand-what-",
-      "publishedAt": "2026-02-17T16:00:28+00:00",
-      "date": "2026-02-17 16:00:28",
-      "importance": 4,
-      "category": "podnikový ai",
-      "urlToImage": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/02/openai-enterprise-blog-feature.png",
-      "url": "/tech-news/2026-02-17/what-openais-enterprise-ai-report-revealsand-what/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Cisco.com"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "„Indie nebude následovat století umělé inteligence, Indie ho utváří,“ říká Gautam Adani po investici 100 miliard dolarů do datových center připravených na AI do roku 2035",
-      "description": "Skupina Adani oznámila investici 100 miliard dolarů do výstavby hyperskalárních datových center poháněných obnovitelnou energií, připravených na zpracování úloh umělé inteligence. Tento krok má podpořit vznik AI ekosystému v hodnotě 250 miliard dolarů a posílit pozici Indie v globálním vývoji AI.",
-      "slug": "india-will-not-follow-the-ai-century-india-will-sh",
-      "publishedAt": "2026-02-17T12:34:26+00:00",
-      "date": "2026-02-17 12:34:26",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://img.etimg.com/thumb/msid-128465014,width-1200,height-630,imgsize-23498,overlay-economictimes/articleshow.jpg",
-      "url": "/tech-news/2026-02-17/india-will-not-follow-the-ai-century-india-will-sh/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [],
-      "people": [
-        "Gautam Adani"
-      ]
-    },
-    {
-      "title": "Hustota energie solid-state baterie 500 Wh/kg dosažena levným hybridním Li-Mn balením v elektromobilu FAW s dojezdem 500 mil",
-      "description": "Rekordní hybridní solid-state baterie s elektrolytem byla vyrobena s manganem místo niklu pro snížení nákladů. Její hustota energie 500 Wh/kg je dvojnásobkem oproti špičkovým LFP bateriím.",
-      "slug": "solid-state-battery-density-of-500-whkg-achieved-b",
-      "publishedAt": "2026-02-17T12:22:00+00:00",
-      "date": "2026-02-17 12:22:00",
-      "importance": 5,
-      "category": "elektromobilita",
-      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/FAW-hybrid-solid-liquid-battery-sedan.jpg",
-      "url": "/tech-news/2026-02-17/solid-state-battery-density-of-500-whkg-achieved-b/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Notebookcheck.net"
-      },
-      "companies": [
-        "FAW"
-      ],
-      "people": []
-    },
-    {
-      "title": "Kvantové algoritmy zvyšují odolnost sítí v experimentu Classiq, Comcast a AMD",
-      "description": "Startup Classiq Technologies oznámil partnerství s telekomunikačním gigantem Comcast a výrobcem čipů AMD, které demonstruje, jak kvantové algoritmy výrazně zlepšují odolnost sítí. Test řeší optimalizaci nezávislých cest pro přesměrování provozu při současném výpadku primárního i záložního uzlu.",
-      "slug": "quantum-algorithms-enhance-network-resilience-in-c",
-      "publishedAt": "2026-02-17T12:00:10+00:00",
-      "date": "2026-02-17 12:00:10",
-      "importance": 5,
-      "category": "kvantové počítače",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Screenshot-from-2026-02-16-09-01-30.png",
-      "url": "/tech-news/2026-02-17/quantum-algorithms-enhance-network-resilience-in-c/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Classiq",
-        "Comcast",
-        "AMD"
-      ],
-      "people": []
-    },
-    {
-      "title": "Oznámení iniciativy „AI Agent Standards Initiative“ pro interoperabilní a bezpečnou inovaci",
-      "description": "Iniciativa zajistí, že další generace umělé inteligence – AI agenti schopní autonomních akcí – bude široce přijímána s důvěrou, bude fungovat bezpečně jménem uživatelů a hladce interoperovat v digitálním ekosystému.",
-      "slug": "announcing-the-ai-agent-standards-initiative-for-i",
-      "publishedAt": "2026-02-17T12:00:00+00:00",
-      "date": "2026-02-17 12:00:00",
-      "importance": 4,
-      "category": "ai standardy",
-      "urlToImage": "https://www.nist.gov/sites/default/files/styles/social/public/images/2024/04/16/shutterstock_695169133.jpg?itok=uC3iYMG_",
-      "url": "/tech-news/2026-02-17/announcing-the-ai-agent-standards-initiative-for-i/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Nist.gov"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "MacBook Air M5: Nejprodávanější notebook Apple získává 45% nárůst grafického výkonu",
-      "description": "Apple oznámilo uvedení MacBooku Air M5 na začátek března 2026. Tato verze přináší čip M5 s výrazně lepší grafikou, rychlejší úložiště, přičemž vnější design zůstává beze změny oproti modelu z roku 2022.",
-      "slug": "macbook-air-m5-apples-most-popular-laptop-gets-a-m",
-      "publishedAt": "2026-02-17T07:55:04+00:00",
-      "date": "2026-02-17 07:55:04",
-      "importance": 4,
-      "category": "hardware",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/02/macbook-air-m5-2026-launch-upgrades_optimized.jpg",
-      "url": "/tech-news/2026-02-17/macbook-air-m5-apples-most-popular-laptop-gets-a-m/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
-      "title": "Akce Apple 4. března: iPhone 17e, iPad Air s čipem M4 a nové MacBooky",
-      "description": "Apple oznámilo svou první velkou akci roku, která se uskuteční 4. března v 9:00 ráno v New Yorku, s paralelními událostmi v Londýně a Šanghaji. Očekávají se aktualizace v řadách iPhone, MacBook a iPad, včetně pokroků v bezdrátovém nabíjení, technologiích displejů a procesorech.",
-      "slug": "apple-march-4th-event-iphone-17e-m4-ipad-air-and-n",
-      "publishedAt": "2026-02-17T07:30:26+00:00",
-      "date": "2026-02-17 07:30:26",
-      "importance": 4,
-      "category": "hardware",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/02/apple-march-4th-event-2024-products_optimized.jpg",
-      "url": "/tech-news/2026-02-17/apple-march-4th-event-iphone-17e-m4-ipad-air-and-n/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
-      "title": "Kung fu se setkává s jarem – Roboti Unitree na galavečeru Jarního festivalu předvedli „Kybernetické skutečné kung fu“ v roce koně",
-      "description": "Čínská firma Unitree Robotics předvedla na galavečeru Jarního festivalu 2026 své humanoidní roboty G1 a H2 v choreografii kung fu. Dosáhli několika světových prvních v pohybových výkonech a koordinaci skupiny, včetně parkouru a otočných skoků.",
-      "slug": "kung-fu-meets-spring-unitree-spring-festival-gala-",
-      "publishedAt": "2026-02-17T07:11:23+00:00",
-      "date": "2026-02-17 07:11:23",
-      "importance": 5,
-      "category": "robotika",
-      "urlToImage": "https://www.thehindubusinessline.com/theme/images/og-image.png",
-      "url": "/tech-news/2026-02-17/kung-fu-meets-spring-unitree-spring-festival-gala/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "companies": [
-        "Unitree"
-      ],
-      "people": []
-    },
-    {
-      "title": "Indie míří na 200 miliard dolarů investic do datových center při posilování ambicí stát se centrem AI",
-      "description": "Indie se snaží přilákat až 200 miliard dolarů investic do datových center, aby se stala globálním centrem umělé inteligence. Tento krok podtrhuje roli země jako klíčové báze pro technologie a talenty v globálním závodě o AI dominance.",
-      "slug": "india-eyes-200b-in-data-center-investments-as-it-r",
-      "publishedAt": "2026-02-17T07:02:43+00:00",
-      "date": "2026-02-17 07:02:43",
-      "importance": 4,
-      "category": "datová centra",
-      "urlToImage": "https://i.abcnewsfe.com/a/8acb8917-6340-496b-b526-977b3995891e/wirestory_4e170da0a3b883a9659569dd538e9019_16x9.jpg?w=1600",
-      "url": "/tech-news/2026-02-17/india-eyes-200b-in-data-center-investments-as-it-r/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Abcnews.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Evropský strážce soukromí vyšetřuje X kvůli sexualizovaným AI obrázkům",
-      "description": "Irská datová ochranná komise zahájila vyšetřování platformy X kvůli generování sexualizovaných obrázků osob v EU, včetně nezletilých.",
-      "slug": "the-eus-privacy-watchdog-is-investigating-x-over-s",
-      "publishedAt": "2026-02-17T05:04:54+00:00",
-      "date": "2026-02-17 05:04:54",
-      "importance": 4,
-      "category": "datová ochrana",
-      "urlToImage": "https://i.insider.com/6993e156d3c7faef0ece5c7d?width=1200&format=jpeg",
-      "url": "/tech-news/2026-02-17/the-eus-privacy-watchdog-is-investigating-x-over-s/",
-      "source": {
-        "emoji": "📰",
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Akcie Infosys rostou o 3 % díky partnerství s Anthropic, vedou Nifty IT k růstu o 2 %",
-      "description": "IT akcie: Nomura uvádí, že valuace těchto akcií jsou v 'value' zóně po silné korekci. Obavy z narušení vedeného AI považuje za zjednodušení role IT služeb.",
-      "slug": "infosys-shares-rise-3-on-partnership-with-anthropi",
-      "publishedAt": "2026-02-17T04:47:40+00:00",
-      "date": "2026-02-17 04:47:40",
-      "importance": 4,
-      "category": "it akcie",
-      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2026/02/20260217044018_IT-stocks-rise-infosys.jpg",
-      "url": "/tech-news/2026-02-17/infosys-shares-rise-3-on-partnership-with-anthropi/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Moneycontrol"
-      },
-      "companies": [
-        "Infosys",
-        "Anthropic"
-      ],
-      "people": []
-    },
-    {
-      "title": "Infosys navazuje partnerství s Anthropic na dodávku podnikových řešení umělé inteligence",
-      "description": "Infosys oznámila spolupráci s Anthropic, firmou zaměřenou na bezpečnost a výzkum umělé inteligence, na vývoj pokročilých podnikových AI řešení pro telekomunikace, finanční služby, výrobu a vývoj software. Partnerství integruje modely Claude s platformou Infosys Topaz AI a zaměřuje se na agentické AI systémy.",
-      "slug": "infosys-partners-with-anthropic-to-deliver-enterpr",
-      "publishedAt": "2026-02-17T04:44:17+00:00",
-      "date": "2026-02-17 04:44:17",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-155616,resizemode-75,msid-128448919/tech/information-tech/infosys-partners-with-anthropic-to-deliver-enterprise-ai-solutions.jpg",
-      "url": "/tech-news/2026-02-17/infosys-partners-with-anthropic-to-deliver-enterpr/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Infosys",
-        "Anthropic"
-      ],
-      "people": []
-    },
-    {
-      "title": "Akcie Infosys vzrostly o 3 % díky spolupráci s Anthropic. Co řekl Salil Parekh",
-      "description": "Akcie Infosys vzrostly v útery až o 5 % na 1431 rupií na burze BSE po oznámení strategického partnerství s AI firmou Anthropic. Spolupráce integruje modely Claude do platformy Infosys Topaz pro vývoj podnikových AI řešení zaměřených na telekomunikační sektor a další obory.",
-      "slug": "infosys-shares-rise-3-on-collaboration-with-anthro",
-      "publishedAt": "2026-02-17T04:32:44+00:00",
-      "date": "2026-02-17 04:32:44",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://img.etimg.com/thumb/msid-128448588,width-1200,height-630,imgsize-64612,overlay-etmarkets/articleshow.jpg",
-      "url": "/tech-news/2026-02-17/infosys-shares-rise-3-on-collaboration-with-anthro/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Infosys",
-        "Anthropic"
-      ],
-      "people": [
-        "Salil Parekh"
-      ]
-    },
-    {
-      "title": "Od Rafale k tlači na umělou inteligenci: Co je na pořadu při setkání francouzského prezidenta Emmanuela Macrona s premiérem Modim v Bombaji",
-      "description": "Francouzský prezident Emmanuel Macron je v Bombaji na rozhovory s indickým premiérem Narendrou Modim. Klíčová témata zahrnují obranu, umělou inteligenci a kritické minerály. Vůdci inaugurují Indicko-francouzský rok inovací 2026.",
-      "slug": "from-rafale-to-ai-push-whats-on-agenda-as-french-p",
-      "publishedAt": "2026-02-17T03:39:57+00:00",
-      "date": "2026-02-17 03:39:57",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://img.etimg.com/thumb/msid-128447219,width-1200,height-630,imgsize-260935,overlay-economictimes/articleshow.jpg",
-      "url": "/tech-news/2026-02-17/from-rafale-to-ai-push-whats-on-agenda-as-french-p/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [],
-      "people": [
-        "Emmanuel Macron",
-        "Narendra Modi"
-      ]
-    },
-    {
-      "title": "Čína testuje roj satelitů s umělou inteligencí pro výpočty ve vesmíru",
-      "description": "Čína nenápadně posunula výpočty ve vesmíru dál, než si většina představuje. Roj satelitů od Zhejiang Lab již v oběžné dráze provozuje modely s 8 miliardami parametrů a prokazuje schopnost komunikace mezi satelity a sdílení výpočetních úloh.",
-      "slug": "china-tests-ai-satellite-swarm-for-space-based-com",
-      "publishedAt": "2026-02-17T02:50:01+00:00",
-      "date": "2026-02-17 02:50:01",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://www.ponoko.com/blog/wp-content/uploads/2026/02/0-1.jpg",
-      "url": "/tech-news/2026-02-17/china-tests-ai-satellite-swarm-for-space-based-com/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Ponoko.com"
-      },
-      "companies": [
-        "Zhejiang Lab"
-      ],
-      "people": []
-    },
-    {
-      "title": "SpaceX soutěží v soutěži Pentagonu o technologii autonomních dronů: Zpráva",
-      "description": "Společnost SpaceX se sídlem v Texasu nedávno získala xAI v dohodě, která spojila Elona Muska v oblasti vesmíru a obrany s jeho startupem na umělou inteligenci. K tomu došlo před plánovaným úvodem na burzu letos.",
-      "slug": "spacex-to-compete-in-pentagon-contest-for-autonomo",
-      "publishedAt": "2026-02-17T02:39:35+00:00",
-      "date": "2026-02-17 02:39:35",
-      "importance": 4,
-      "category": "autonomní drony",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-41782,resizemode-75,msid-128445569/tech/technology/spacex-to-compete-in-pentagon-contest-for-autonomous-drone-tech-report.jpg",
-      "url": "/tech-news/2026-02-17/spacex-to-compete-in-pentagon-contest-for-autonomo/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "SpaceX",
-        "xAI"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Manus spouští osobní AI agenty v Telegramu, další zprávové aplikace na řadě",
-      "description": "Agentická umělá inteligence Manus od Meta Platforms integruje platformu s populárními zprávovými aplikacemi včetně Telegramu, WhatsAppu, LINE a Slacku. Spouští se Manus Agents v Telegramu, kde uživatelé vytvoří osobního AI agenta pro složité úkoly jako hledání bytu nebo rezervace hotelu.",
-      "slug": "manus-launches-personal-ai-agents-in-telegram-with",
-      "publishedAt": "2026-02-17T02:05:38+00:00",
-      "date": "2026-02-17 02:05:38",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Screenshot-from-2026-02-17-09-04-26.png",
-      "url": "/tech-news/2026-02-17/manus-launches-personal-ai-agents-in-telegram-with/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Meta Platforms Inc"
-      ],
-      "people": []
-    },
-    {
-      "title": "Francouzský prezident Macron přijel do Indie na summit o dopadu AI, rozhovory s premiérem Modim",
-      "description": "Francouzský prezident Emmanuel Macron zahájil třídenní návštěvu Indie zaměřenou na posílení spolupráce v umělé inteligenci a strategických vztazích. Setká se s premiérem Narendrou Modim, aby probrali bilaterální pokrok a globální otázky včetně spolupráce v Indo-Pacifiku.",
-      "slug": "french-president-macron-arrives-in-india-for-ai-im",
-      "publishedAt": "2026-02-17T00:42:46+00:00",
-      "date": "2026-02-17 00:42:46",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://img.etimg.com/thumb/msid-128443230,width-1200,height-630,imgsize-121542,overlay-economictimes/articleshow.jpg",
-      "url": "/tech-news/2026-02-17/french-president-macron-arrives-in-india-for-ai-im/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [],
-      "people": [
-        "Emmanuel Macron",
-        "Narendra Modi"
-      ]
-    },
-    {
-      "title": "Indická aliance Deep Tech připravuje 1 miliardu dolarů na AI, členové plánují 2,5 miliardový balík",
-      "description": "Indická aliance Deep Tech (IDTA) oznámí zvýšené investice do ekosystému umělé inteligence a deeptech. Členové se zavázali k více než 2,5 miliardám dolarů na pět let, z toho 1 miliarda na nasazení AI do tří let.",
-      "slug": "india-deep-tech-alliance-pencils-1-billion-for-ai-",
-      "publishedAt": "2026-02-17T00:41:00+00:00",
-      "date": "2026-02-17 00:41:00",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-140667,resizemode-75,msid-128435515/tech/technology/india-deep-tech-alliance-pencils-1-billion-for-ai-as-members-plan-2-5-billion-play.jpg",
-      "url": "/tech-news/2026-02-17/india-deep-tech-alliance-pencils-1-billion-for-ai/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Indie se stává klíčovým motorem růstu ElevenLabs, jak podniky škálují hlasovou AI: CEO Mati Staniszewski",
-      "description": "Indie je již druhým největším trhem pro ElevenLabs a rychle se stává jedním z jeho největších motorů růstu, protože podniky rozšiřují hlasovou umělou inteligenci v oblasti zákaznického servisu, prodejů a provozu, uvedl spoluzakladatel a generální ředitel společnosti Mati Staniszewski.",
-      "slug": "india-is-becoming-elevenlabs-key-growth-engine-as-",
-      "publishedAt": "2026-02-17T00:31:00+00:00",
-      "date": "2026-02-17 00:31:00",
-      "importance": 4,
-      "category": "hlasová ai",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-148788,resizemode-75,msid-128435783/tech/technology/india-is-becoming-elevenlabs-key-growth-engine-as-enterprises-scale-voice-ai-ceo-mati-staniszewski.jpg",
-      "url": "/tech-news/2026-02-17/india-is-becoming-elevenlabs-key-growth-engine-as/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "ElevenLabs"
-      ],
-      "people": [
-        "Mati Staniszewski"
-      ]
     }
   ]
 }
