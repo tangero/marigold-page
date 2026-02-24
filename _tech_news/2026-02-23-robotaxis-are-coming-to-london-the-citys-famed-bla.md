@@ -1,48 +1,47 @@
 ---
 author: Marisa Aigen
 category: robotaxi
-date: '2026-02-23 05:10:21'
-description: Londýn se stává hlavním testovacím polem pro robotaxi, zatímco firmy
-  se připravují na vládní zkoušky na jaře. Britská startup Wayve Technologies testuje
-  autonomní vozidlo na složitých ulicích města.
+date: '2026-02-23 07:01:47'
+description: Londýn se stává hlavním testovacím polem pro robotaxi, protože firmy
+  se připravují na vládní testy na jaře.
 importance: 4
 layout: tech_news_article
 original_title: Robotaxis are coming to London. The city's famed black cab drivers
   are skeptical
-publishedAt: '2026-02-23T05:10:21+00:00'
+publishedAt: '2026-02-23T07:01:47+00:00'
 slug: robotaxis-are-coming-to-london-the-citys-famed-bla
 source:
   emoji: 📰
   id: null
   name: Abcnews.com
 title: Robotaxi přicházejí do Londýna. Slavní řidiči černých taxíků jsou skeptičtí
-url: https://abcnews.com/Technology/wireStory/robotaxis-coming-london-citys-famed-black-cab-drivers-130400081
+url: https://abcnews.com/International/wireStory/robotaxis-coming-london-citys-famed-black-cab-drivers-130400039
 urlToImage: https://i.abcnewsfe.com/a/2aef90e8-abce-4ab3-8fbd-a5fa358d2c23/wirestory_d697e141132f0a33d0c5bec95199e504_16x9.jpg?w=1600
 urlToImageBackup: https://i.abcnewsfe.com/a/2aef90e8-abce-4ab3-8fbd-a5fa358d2c23/wirestory_d697e141132f0a33d0c5bec95199e504_16x9.jpg?w=1600
 ---
 
-## Souhrn
-Londýn se stává klíčovým testovacím prostředím pro autonomní taxíky, kde britská firma Wayve Technologies provádí zkoušky s vozidlem Ford Mustang Mach-E vybaveným systémem umělé inteligence pro navigaci v zácpách, mezi chodci a cyklisty. Do vládních pilotních programů na jaře 2026 se zapojí i americká Waymo a čínská Baidu, což Londýn staví do centra globální soutěže o robotaxi. Tradiční londýnští taxikáři, kteří absolvují náročný kurz „The Knowledge“, vyjadřují skeptický postoj kvůli složitosti městských ulic.
+### Souhrn
+Londýn otevírá dveře testům autonomních taxíků, známých jako robotaxi, v rámci vládního pilotního programu plánovaného na jaro. Britská firma Wayve Technologies již testuje své vozidlo Ford Mustang Mach-E s pokročilým systémem AI na ulicích města. Do programu se zapojí i americká Waymo a čínská Baidu, přestože místní taxikáři, kteří absolvují náročný výcvik „The Knowledge“, projeví skepsi kvůli složitosti londýnských ulic.
 
-## Klíčové body
-- Wayve Technologies testuje autonomní jízdu v reálných podmínkách Londýna s AI systémem, který zvládá zácpy, stavební práce a chodce.
-- Účast velkých hráčů: Waymo (divize Alphabetu pro autonomní vozidla v USA) a Baidu (čínská platforma Apollo pro self-driving technologie).
-- Londýnské ulice představují výzvu díky organickému rozložení z římských dob, na rozdíl od mřížkových měst jako San Francisco.
-- Skepticismus taxikářů z Licensed Taxi Drivers' Association, kteří považují robotaxi za „řešení hledající problém".
-- Historie protestů proti Uberu ukazuje na odpor vůči disruptivním technologiím.
+### Klíčové body
+- Vláda Spojeného království spustí na jaře pilotní testy robotaxi v Londýně za účasti Wayve, Waymo a Baidu.
+- Wayve Technologies testuje autonomní Ford Mustang Mach-E, který naviguje provoz, cyklisty a chodce pomocí AI.
+- Londýnské ulice s římským půdorysem a vysokou hustotou provozu představují výzvu oproti americkým gridovým městům.
+- Taxikáři z Licensed Taxi Drivers' Association považují robotaxi za „řešení hledající problém“ kvůli nedostatku výhod.
+- Město trpí těžkou zácpou způsobenou auty, autobusy, skútry, koly a elektrickými půjčovnami.
 
-## Podrobnosti
-Britská startup Wayve Technologies, specializující se na end-to-end modely umělé inteligence pro autonomní jízdu bez závislosti na detailních mapách, demonstrovala své schopnosti na londýnských ulicích. Vozidlo Ford Mustang Mach-E s onboard AI navigovalo provozem, vyhýbalo se neopatrným chodcům, cyklistům a překážkám způsobeným stavebními pracemi. Tento test probíhá před spuštěním britských vládních zkoušek robotaxi na jaře 2026, které otevřou dveře mezinárodním firmám. Waymo, provozující komerční robotaxi v San Franciscu a Phoenixu, plánuje vstoupit do Evropy, kde její LiDAR a senzorové systémy čelí novým podmínkám. Baidu s platformou Apollo, která pohání autonomní flotily v Číně, vidí v Londýně příležitost k expanzi.
+### Podrobnosti
+Londýn se stává dalším bojištěm v globální soutěži o robotaxi díky vládním testům, které odstartují na jaře 2026. Britský startup Wayve Technologies, specializující se na end-to-end AI pro autonomní jízdu bez závislosti na detailních mapách, demonstroval svůj systém v reálném provozu. Jejich Ford Mustang Mach-E prochází zácpami, vyhýbá se neopatrným chodcům, cyklistům a stavebním pracím na silnicích. Tento přístup AI umožňuje vozidlu adaptovat se na nepředvídatelné situace v reálném čase, což je klíčové pro chaotické prostředí jako Londýn.
 
-Londýn představuje extrémní testovací prostředí: ulice tvoří spletitou síť z doby římských osad, bez pravidelného mřížkového uspořádání typického pro americká města. Město patří mezi nejvíc zácpové na světě, s hustotou soukromých aut, autobusů, motorek, kol a elektrických sdílených kol. Chodci často kráčejí přes ulice mimo přechody, což zvyšuje riziko pro autonomní systémy. Steven McNamara, generální tajemník Licensed Taxi Drivers' Association, zdůrazňuje, že tradiční taxikáři absolvují „The Knowledge“ – čtyřletý kurz memorování tisíců tras, což jim dává výhodu v chaotickém prostředí. Robotaxi podle něj nemají výhodu a mohou zhoršit zácpy, pokud se stanou dalším prvkem dopravy. Asociace dříve protestovala proti Uberu, který narušil jejich monopol.
+Do testů nastoupí i Waymo, divize Alphabetu, která provozuje komerční robotaxi ve San Franciscu a Phoenixu na pravidelných gridových ulicích. Waymo spoléhá na kombinaci lidarů, radarů a kamer s vysokými definicemi map, což funguje v kontrolovaných podmínkách, ale v historickém Londýně s úzkými uličkami z římských dob může selhat. Čínská Baidu přinese zkušenosti ze své platformy Apollo, kterou testuje v Pekingu a Wu-chanu, kde se potýká s podobně hustým provozem. Baidu se zaměřuje na cloudovou integraci AI pro predikci chování ostatních účastníků provozu.
 
-Autonomní systémy jako ty od Wayve spoléhají na kamerové senzory a neuronové sítě trénované na miliardách kilometrů dat, ale v nepředvídatelných scénářích Londýna – jako náhlé změny provozu nebo počasí – stále selhávají. Waymo hlásí bezpečnostní míru vyšší než lidští řidiči v kontrolovaných zónách, ale evropské regulace (jako britské zákony o bezpečnosti vozidel) vyžadují další validaci.
+Skepticismus taxikářů je opodstatněný. Černí taxikáři musí ovládnout „The Knowledge“ – pamatovat si tisíce tras, což trvá léta. Podle Stevena McNamary z Licensed Taxi Drivers' Association robotaxi nemají výhodu v konvolutním londýnském síti, kde se mísí soukromá auta, autobusy, skútry, kola a elektrické půjčovny. Chodci navíc často kráčejí přímo přes silnici, což zvyšuje riziko kolizí. Historicky taxikáři protestovali proti Uberu, který narušil jejich monopol, a nyní se obávají dalšího narušení. Navíc Londýn patří k nejhustěji zatíženým městům světa, kde robotaxi mohou paradoxně zhoršit zácpy, pokud se stanou dalším typem vozidel.
 
-## Proč je to důležité
-Tento vývoj urychluje expanzi robotaxi do Evropy, kde složité městské prostředí poslouží jako benchmark pro robustnost AI systémů. Úspěch v Londýně by mohl otevřít trh pro Waymo a Baidu mimo USA a Čínu, stimulovat konkurenci a snižovat náklady na dopravu díky absenci řidičů. Pro průmysl znamená testy pokrok v generalizaci autonomních modelů, které musí zvládat různorodá data bez lokálních map. Pro uživatele to přináší potenciálně levnější a bezpečnější taxíky, ale zároveň rizika zácp a ztráty pracovních míst pro řidiče. V širším kontextu posiluje globální závod o autonomní mobilitu, kde firmy jako Tesla s Full Self-Driving (FSD) čelí podobným výzvám, a regulace budou klíčové pro komercializaci.
+### Proč je to důležité
+Tento pilotní program v Londýně představuje klíčový krok pro evropské rozšíření robotaxi mimo USA a Čínu. Pokud Wayve uspěje s mapově nezávislým AI, ukáže univerzálnost technologie pro složité městské prostředí, což by urychlilo nasazení v Evropě. Waymo a Baidu testují své systémy v novém kontextu, kde americké nebo čínské zkušenosti nestačí – londýnské ulice vyžadují lepší generalizaci AI modelů. Pro průmysl to znamená konkurenční tlak: Tesla s FSD nebo Cruise musí reagovat. Pro uživatele to přináší potenciál levnějších jízd bez řidiče, ale s riziky bezpečnosti v hustém provozu. Dlouhodobě by úspěch snížil emise a zácpy, pokud regulace omezí flotily. Kriticky však zůstává otázka spolehlivosti AI v extrémních scénářích, kde lidský řidič stále vede.
 
 ---
 
-[Číst původní článek](https://abcnews.com/Technology/wireStory/robotaxis-coming-london-citys-famed-black-cab-drivers-130400081)
+[Číst původní článek](https://abcnews.com/International/wireStory/robotaxis-coming-london-citys-famed-black-cab-drivers-130400039)
 
 **Zdroj:** 📰 Abcnews.com

@@ -1,13 +1,31 @@
 {
-  "generated": "2026-02-24T05:44:28.356444+00:00",
-  "count": 165,
+  "generated": "2026-02-24T09:06:00.975784+00:00",
+  "count": 168,
   "articles": [
     {
+      "title": "Investice do AI v Indii prudce rostou; podíl AI ve venture capital financování stoupl na 12 % z 5 % v roce 2020: Zpráva",
+      "description": "V roce 2025 přilákaly AI společnosti v Indii 188 investic v celkové hodnotě 1,2 miliardy dolarů, což znamená 58procentní meziroční nárůst hodnoty financování. Podíl AI v celkovém venture capital financování vzrostl na přibližně 12 procent z méně než 5 procent v roce 2020.",
+      "slug": "ai-investments-surging-in-india-ai-share-in-ventur",
+      "publishedAt": "2026-02-23T08:24:24+00:00",
+      "date": "2026-02-23 08:24:24",
+      "importance": 4,
+      "category": "ai investice",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/9xzd5i/article70666205.ece/alternates/LANDSCAPE_1200/IMG_BL2301_Brand_SS_6_1_24APDQAC.jpg",
+      "url": "/tech-news/2026-02-23/ai-investments-surging-in-india-ai-share-in-ventur/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
       "title": "Robotaxi přicházejí do Londýna. Slavní řidiči černých taxíků jsou skeptičtí",
-      "description": "Londýn se stává hlavním testovacím polem pro robotaxi, zatímco firmy se připravují na vládní zkoušky na jaře. Britská startup Wayve Technologies testuje autonomní vozidlo na složitých ulicích města.",
+      "description": "Londýn se stává hlavním testovacím polem pro robotaxi, protože firmy se připravují na vládní testy na jaře.",
       "slug": "robotaxis-are-coming-to-london-the-citys-famed-bla",
-      "publishedAt": "2026-02-23T05:10:21+00:00",
-      "date": "2026-02-23 05:10:21",
+      "publishedAt": "2026-02-23T07:01:47+00:00",
+      "date": "2026-02-23 07:01:47",
       "importance": 4,
       "category": "robotaxi",
       "urlToImage": "https://i.abcnewsfe.com/a/2aef90e8-abce-4ab3-8fbd-a5fa358d2c23/wirestory_d697e141132f0a33d0c5bec95199e504_16x9.jpg?w=1600",
@@ -18,6 +36,46 @@
         "name": "Abcnews.com"
       },
       "companies": [],
+      "people": []
+    },
+    {
+      "title": "Inženýři Google obviněni z úniku tajných informací o procesorech do Íránu",
+      "description": "Federální velká porota obvinila tři inženýry v San Jose z krádeže citlivých údajů o bezpečnosti procesorů z Google a pokusu o zatajení jejich přenosu do Íránu.",
+      "slug": "google-engineers-leak-secret-information-to-iran",
+      "publishedAt": "2026-02-23T06:07:51+00:00",
+      "date": "2026-02-23 06:07:51",
+      "importance": 4,
+      "category": "průmyslová špionáž",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1151178.jpg",
+      "url": "/tech-news/2026-02-23/google-engineers-leak-secret-information-to-iran/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Israelnationalnews.com"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Apple Event 2026: Potvrzené nové produkty pro březnovou globální akci",
+      "description": "Apple oficiálně oznámilo vysoce očekávanou osobní akci na 4. března 2026, která se bude konat současně v New Yorku, Londýně a Šanghaji. Představí se zde aktualizace MacBooků, iPhone 17e, pokroky v iOS a další inovace v hardwaru.",
+      "slug": "apple-event-2026-new-products-confirmed-for-the-ma",
+      "publishedAt": "2026-02-23T06:00:18+00:00",
+      "date": "2026-02-23 06:00:18",
+      "importance": 4,
+      "category": "hardware",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/02/apple-event-march-2026-product-reveals_optimized-1.jpg",
+      "url": "/tech-news/2026-02-23/apple-event-2026-new-products-confirmed-for-the-ma/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [
+        "Apple"
+      ],
       "people": []
     },
     {
