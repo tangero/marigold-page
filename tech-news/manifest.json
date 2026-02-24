@@ -1,7 +1,232 @@
 {
-  "generated": "2026-02-24T17:33:20.796539+00:00",
-  "count": 183,
+  "generated": "2026-02-24T20:57:03.586959+00:00",
+  "count": 194,
   "articles": [
+    {
+      "title": "Čínské domácí roboty jsou mnohem víc než jen vysavače",
+      "description": "Čínské roboty zvládají více než domácí práce a jejich vývoj se zrychluje. Přehled současných schopností a důvody, proč si o nich dělají poznámky jiné firmy.",
+      "slug": "chinas-household-robots-are-way-more-than-just-vac",
+      "publishedAt": "2026-02-23T20:17:00+00:00",
+      "date": "2026-02-23 20:17:00",
+      "importance": 5,
+      "category": "robotika",
+      "urlToImage": "https://www.bgr.com/img/gallery/chinas-household-robots-are-way-more-than-just-vacuum-cleaners/l-intro-1771604707.jpg",
+      "url": "/tech-news/2026-02-23/chinas-household-robots-are-way-more-than-just-vac/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BGR"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Dario Amodei z Anthropic se setká s ministrem obrany USA Petem Hegsethem, Pentagon zvažuje zařazení firmy na černou listinu",
+      "description": "Minister obrany Pete Hegseth se v úterý setká s šéfem Anthropic Daria Amodeiem, aby řešili rostoucí napětí ohledně vojenského použití chatbota Claude AI. Setkání přichází krátce po zprávách, že Hegseth je blízko označení Anthropic za hrozbu dodavatelského řetězce.",
+      "slug": "anthropics-dario-amodei-defense-sec-pete-hegseth-t",
+      "publishedAt": "2026-02-23T20:05:32+00:00",
+      "date": "2026-02-23 20:05:32",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/02/122066626.jpg?quality=75&strip=all&w=1200",
+      "url": "/tech-news/2026-02-23/anthropics-dario-amodei-defense-sec-pete-hegseth-t/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "New York Post"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": [
+        "Dario Amodei",
+        "Pete Hegseth"
+      ]
+    },
+    {
+      "title": "Sam Altman obhajuje spotřebu energie AI porovnáním s lidskou inteligencí, vyvolává debatu",
+      "description": "Sam Altman obhajuje AI proti obviněním z nadměrné spotřeby vody, označuje je za nepravdivé, připouští však reálnou spotřebu energie a volá po přechodu na jadernou energii, vítr a solární zdroje.",
+      "slug": "sam-altman-defends-ai-energy-use-with-human-compar",
+      "publishedAt": "2026-02-23T20:02:18+00:00",
+      "date": "2026-02-23 20:02:18",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://observer.com/wp-content/uploads/sites/2/2026/02/GettyImages-2197502410.jpg?quality=80",
+      "url": "/tech-news/2026-02-23/sam-altman-defends-ai-energy-use-with-human-compar/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Observer"
+      },
+      "companies": [],
+      "people": [
+        "Sam Altman"
+      ]
+    },
+    {
+      "title": "Anthropic obviňuje čínské AI firmy z kopírování dat pomocí falešných účtů a destilace AI",
+      "description": "Americká AI společnost Anthropic obviňuje tři čínské firmy z tajného sběru dat z jejich modelu Claude pro trénování vlastních systémů. Jde o vytvoření přes 24 tisíc falešných účtů a odeslání 16 milionů dotazů, což sloužilo k metodě destilace znalostí.",
+      "slug": "anthropic-accuses-chinese-ai-firms-of-data-copying",
+      "publishedAt": "2026-02-23T20:02:17+00:00",
+      "date": "2026-02-23 20:02:17",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/msid-128728450,width-1200,height-630,imgsize-28710,overlay-economictimes/articleshow.jpg",
+      "url": "/tech-news/2026-02-23/anthropic-accuses-chinese-ai-firms-of-data-copying/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": []
+    },
+    {
+      "title": "Nová divize autonomních vozidel Uberu je o přežití a příležitostech | TechCrunch",
+      "description": "Divize Uber Autonomous Solutions převezme všechny úkoly spojené s provozem robotaxi, autonomních nákladních vozů nebo doručovacích robotů na chodnících, včetně softwaru a podpůrných služeb.",
+      "slug": "ubers-new-autonomous-vehicle-division-is-about-sur",
+      "publishedAt": "2026-02-23T19:55:28+00:00",
+      "date": "2026-02-23 19:55:28",
+      "importance": 4,
+      "category": "autonomní vozidla",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/uber-lucid.jpg?resize=1200,801",
+      "url": "/tech-news/2026-02-23/ubers-new-autonomous-vehicle-division-is-about-sur/",
+      "source": {
+        "emoji": "🚀",
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "companies": [
+        "Uber"
+      ],
+      "people": []
+    },
+    {
+      "title": "IBM je nejnovější obětí AI: Akcie klesají o 11 % kvůli hrozbě z nástroje Anthropic pro COBOL",
+      "description": "COBOL je programovací jazyk pro zpracování obchodních dat a IBM v této oblasti vede. Akcie společnosti klesly po oznámení Anthropic o nástroji Claude Code pro modernizaci legacy systémů.",
+      "slug": "ibm-is-the-latest-ai-casualty-shares-are-tanking-1",
+      "publishedAt": "2026-02-23T19:36:58+00:00",
+      "date": "2026-02-23 19:36:58",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108257481-1769516811771-gettyimages-2250111740-US_STOCKS.jpeg?v=1771874166&w=1920&h=1080",
+      "url": "/tech-news/2026-02-23/ibm-is-the-latest-ai-casualty-shares-are-tanking-1/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [
+        "IBM",
+        "Anthropic"
+      ],
+      "people": []
+    },
+    {
+      "title": "Apple v roce 2025: Kompletní komentář",
+      "description": "Každoroční hodnocení výkonu Apple za uplynulý rok shromáždilo názory desítek expertů z řad autorů, redaktorů, vývojářů a podcasterů. Článek přináší průměrné známky i podrobné komentáře k hardware i softwaru, včetně diskuzí o čipech M3 až M5 a problematickém rozhraní Liquid Glass.",
+      "slug": "apple-in-2025-the-complete-commentary",
+      "publishedAt": "2026-02-23T19:22:13+00:00",
+      "date": "2026-02-23 19:22:13",
+      "importance": 4,
+      "category": "apple",
+      "urlToImage": "https://sixcolors.com/wp-content/themes/sixcolors/images/6colors_og_image.png",
+      "url": "/tech-news/2026-02-23/apple-in-2025-the-complete-commentary/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "sixcolors.com"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "Spyware dokáže převzít váš telefon během sekund",
+      "description": "Spyware ZeroDayRAT ohrožuje zařízení iPhone i Android tím, že umožňuje útočníkům přístup ke zprávám, notifikacím, údajům o poloze a živým záběrům z kamery prostřednictvím pokročilých sledovacích technik.",
+      "slug": "spyware-can-hijack-your-phone-in-seconds",
+      "publishedAt": "2026-02-23T19:00:55+00:00",
+      "date": "2026-02-23 19:00:55",
+      "importance": 5,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/02/man-with-airpods-on-phone.jpg",
+      "url": "/tech-news/2026-02-23/spyware-can-hijack-your-phone-in-seconds/",
+      "source": {
+        "emoji": "📰",
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Jump získal 80 milionů dolarů na využití AI k automatizaci pracovních postupů finančních poradců",
+      "description": "Poskytovatel AI řešení pro finanční poradce Jump získal 80 milionů dolarů v Series B kole vedeném Insight Partners. Investice umožní rozšířit platformu z AI asistenta pro schůzky na komplexní vrstvu umělé inteligence pro moderní poradenské firmy.",
+      "slug": "jump-raises-80-million-to-leverage-ai-to-automate-",
+      "publishedAt": "2026-02-23T19:00:25+00:00",
+      "date": "2026-02-23 19:00:25",
+      "importance": 4,
+      "category": "fintech",
+      "urlToImage": "https://finovate.com/wp-content/uploads/2026/02/pexels-lazarevkirill-8532484.jpg",
+      "url": "/tech-news/2026-02-23/jump-raises-80-million-to-leverage-ai-to-automate/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Finovate.com"
+      },
+      "companies": [
+        "Jump"
+      ],
+      "people": []
+    },
+    {
+      "title": "Lidská existence je stejně plýtvavá jako datová centra AI, naznačuje Sam Altman",
+      "description": "Šéf OpenAI Sam Altman navštívil Indii a přednesl odvážnou obhajobu spotřeby energie AI: Lidé jsou méně efektivní než datová centra, když se na to podíváme z hlediska efektivity.",
+      "slug": "human-existence-is-just-as-wasteful-as-ai-data-cen",
+      "publishedAt": "2026-02-23T18:59:12+00:00",
+      "date": "2026-02-23 18:59:12",
+      "importance": 4,
+      "category": "ai energie",
+      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/openai-sam-altman-decrypt-style-gID_7.png",
+      "url": "/tech-news/2026-02-23/human-existence-is-just-as-wasteful-as-ai-data-cen/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Decrypt"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": [
+        "Sam Altman"
+      ]
+    },
+    {
+      "title": "Hegseth svolává šéfa Anthropicu kvůli sporu o použití AI v armádě",
+      "description": "Ministr obrany Pete Hegseth svolává generálního ředitele Anthropicu Dario Amodei do Pentagonu, aby ho přiměl zrušit omezení na použití modelu Claude pro masové sledování a bezpilotní zbraňové systémy. Partnerství mezi Anthropicem a ministerstvem obrany je v ohrožení kvůli hrozbě zrušení smlouvy.",
+      "slug": "hegseth-summons-anthropic-ceo-amid-dispute-over-us",
+      "publishedAt": "2026-02-23T18:59:08+00:00",
+      "date": "2026-02-23 18:59:08",
+      "importance": 4,
+      "category": "vojenská ai",
+      "urlToImage": "https://images.newrepublic.com/61ad2be55e872353054df1f2319eea159c07fa25.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+      "url": "/tech-news/2026-02-23/hegseth-summons-anthropic-ceo-amid-dispute-over-us/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The New Republic"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": [
+        "Pete Hegseth",
+        "Dario Amodei"
+      ]
+    },
     {
       "title": "Pro státy Perského zálivu jsou investice do umělé inteligence částečně o ochraně před USA",
       "description": "Saúdská Arábie, Katar a Spojené arabské emiráty chtějí stát se centry umělé inteligence.",
