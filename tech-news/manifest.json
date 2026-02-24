@@ -1,7 +1,94 @@
 {
-  "generated": "2026-02-23T21:00:50.141470+00:00",
-  "count": 185,
+  "generated": "2026-02-24T01:34:41.046783+00:00",
+  "count": 189,
   "articles": [
+    {
+      "title": "Lightspeed sází velko na AI, skutečná výhoda Indie spočívá v aplikované inovaci: Ravi Mhatre a Bejul Somaia",
+      "description": "Venturační fond ze Silicon Valley, který podpořil Anthropic, se vyhne investicím do spotřebitelských značek a zaměří se na startupy zaměřené na technologii. V Indii směřuje 60 % jeho investic do AI-native firem.",
+      "slug": "lightspeed-bets-big-on-ai-indias-real-edge-is-in-a",
+      "publishedAt": "2026-02-23T00:30:00+00:00",
+      "date": "2026-02-23 00:30:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-34588,resizemode-75,msid-128684040/tech/technology/indias-real-edge-is-in-applied-tech-innovation-lightspeeds-top-brass.jpg",
+      "url": "/tech-news/2026-02-23/lightspeed-bets-big-on-ai-indias-real-edge-is-in-a/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Lightspeed",
+        "Anthropic"
+      ],
+      "people": [
+        "Ravi Mhatre",
+        "Bejul Somaia"
+      ]
+    },
+    {
+      "title": "AMD silně vsází na AI ambice Indie s platformou Helios; prosazování otevřeného ekosystému",
+      "description": "Starší viceprezident Thomas Zacharia představuje roadmapu zahrnující exaskalární výpočty, veřejně-soukromá partnerství a hlubší zapojení do Indie. Společnost AMD staví Indii do centra své globální AI strategie s novou vysoce výkonnou infrastrukturou.",
+      "slug": "amd-bets-big-on-indias-ai-ambitions-with-helios-op",
+      "publishedAt": "2026-02-23T00:30:00+00:00",
+      "date": "2026-02-23 00:30:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-72764,resizemode-75,msid-128680783/tech/technology/amd-bets-big-on-indias-ai-ambitions-with-helios-open-ecosystem-push.jpg",
+      "url": "/tech-news/2026-02-23/amd-bets-big-on-indias-ai-ambitions-with-helios-op/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "AMD"
+      ],
+      "people": [
+        "Thomas Zacharia"
+      ]
+    },
+    {
+      "title": "Invaze AI agentů nutí vybírat vítěze",
+      "description": "Masivní příliv umělých inteligencí agentů, kteří zvládají úkoly od psaní kódu po daňové poradenství, má technologický svět a finanční trhy v zhone vybrat vítěze a zbavit se poražených. Doby, kdy stačil pouze ChatGPT od OpenAI, jsou pryč.",
+      "slug": "ai-agent-invasion-has-people-trying-to-pick-winner",
+      "publishedAt": "2026-02-22T21:36:34+00:00",
+      "date": "2026-02-22 21:36:34",
+      "importance": 4,
+      "category": "ai agenti",
+      "urlToImage": null,
+      "url": "/tech-news/2026-02-22/ai-agent-invasion-has-people-trying-to-pick-winner/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Japan Today"
+      },
+      "companies": [
+        "OpenAI"
+      ],
+      "people": []
+    },
+    {
+      "title": "Apple plánuje třídenní produktovou ofenzívu od 2. března: Co očekávat",
+      "description": "Apple se připravuje na masivní týden oznámení počínaje pondělím 2. března. Podle Marka Gurmana z Bloombergu nahradí tradiční jednodenní prezentaci třídenní sérii odhalení nových produktů.",
+      "slug": "apple-plans-three-day-product-blitz-starting-march",
+      "publishedAt": "2026-02-22T20:47:02+00:00",
+      "date": "2026-02-22 20:47:02",
+      "importance": 4,
+      "category": "apple",
+      "urlToImage": "https://cdn.iphoneincanada.ca/wp-content/uploads/2025/02/macos-ventura-macbook-pro-16in-ios-16-ipad-pro-11in-iphone-14-pro-weather-precipitation-aqi-overview-hero.png",
+      "url": "/tech-news/2026-02-22/apple-plans-three-day-product-blitz-starting-march/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "iPhone in Canada"
+      },
+      "companies": [
+        "Apple",
+        "Bloomberg"
+      ],
+      "people": []
+    },
     {
       "title": "Druhý fond Quantonation dvakrát větší ukazuje, že kvantové technologie mají stále zastánce | TechCrunch",
       "description": "Venture kapitálová firma Quantonation Ventures uzavřela svůj přeobjednaný druhý fond na 220 milionů eur, tedy přibližně 260 milionů dolarů. Jedná se o více než dvojnásobek velikosti jejich prvního fondu z roku 2018.",
