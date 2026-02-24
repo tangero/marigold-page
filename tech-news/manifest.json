@@ -1,7 +1,148 @@
 {
-  "generated": "2026-02-24T09:06:00.975784+00:00",
-  "count": 168,
+  "generated": "2026-02-24T13:09:52.585293+00:00",
+  "count": 175,
   "articles": [
+    {
+      "title": "Exkluziva: Hegseth se setká s šéfem Anthropicu, Pentagon hrozí zákazem",
+      "description": "Nominovaný ministr obrany Pete Hegseth se má setkat s generálním ředitelem Anthropicu Dario Amodeiem uprostřed eskalujícího konfliktu s Pentagonem. Ministerstvo obrany USA vyhrožuje zákazem technologií firmy po smrtelné razii spojené s AI, což odhaluje mocenský boj o kontrolu nad umělou inteligencí v obraně.",
+      "slug": "scoop-hegseth-to-meet-anthropic-ceo-as-pentagon-th",
+      "publishedAt": "2026-02-23T12:32:32+00:00",
+      "date": "2026-02-23 12:32:32",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": null,
+      "url": "/tech-news/2026-02-23/scoop-hegseth-to-meet-anthropic-ceo-as-pentagon-th/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": [
+        "Hegseth"
+      ]
+    },
+    {
+      "title": "Finská IQM se stane jednou z prvních evropských veřejně obchodovaných kvantových firem s valuací 1,8 miliardy dolarů",
+      "description": "Transakce přinese firmě valuaci 1,8 miliardy dolarů a umožní primární listing v New Yorku.",
+      "slug": "finlands-iqm-to-become-one-of-europes-first-listed",
+      "publishedAt": "2026-02-23T12:07:23+00:00",
+      "date": "2026-02-23 12:07:23",
+      "importance": 4,
+      "category": "kvantové počítače",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108183656-1754669527774-gettyimages-2218892091-AFP_49Q43G8.jpeg?v=1764750717&w=1920&h=1080",
+      "url": "/tech-news/2026-02-23/finlands-iqm-to-become-one-of-europes-first-listed/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNBC"
+      },
+      "companies": [
+        "IQM"
+      ],
+      "people": []
+    },
+    {
+      "title": "Závazek Google zpřístupnit školení na AI všem 6 milionům amerických pedagogů",
+      "description": "Google uzavírá partnerství s ISTE a ASCD, aby poskytl bezplatný výcvik na AI nástroje všem učitelům základních a středních škol i vysokoškolským pedagogům v USA. Program pomůže integrovat AI do výuky a personalizovat lekce.",
+      "slug": "our-commitment-to-make-ai-training-available-to-al",
+      "publishedAt": "2026-02-23T12:00:00+00:00",
+      "date": "2026-02-23 12:00:00",
+      "importance": 4,
+      "category": "ai vzdělávání",
+      "urlToImage": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/educators_learn_AI_literacy_Social.width-1300.png",
+      "url": "/tech-news/2026-02-23/our-commitment-to-make-ai-training-available-to-al/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Blog.google"
+      },
+      "companies": [
+        "Google"
+      ],
+      "people": []
+    },
+    {
+      "title": "Když Írán vzal internet jako rukojmí, Elon Musk držel klíče",
+      "description": "Protestující v Íránu se obrátili na Starlink, aby udrželi spojení se světem, když vláda omezila přístup k internetu. Bharath Gopalaswamy tvrdí, že to staví soukromé firmy do rolí tvorby politik, které tradičně držely vlády.",
+      "slug": "when-iran-took-the-internet-hostage-elon-musk-held",
+      "publishedAt": "2026-02-23T11:57:00+00:00",
+      "date": "2026-02-23 11:57:00",
+      "importance": 4,
+      "category": "satelitní internet",
+      "urlToImage": null,
+      "url": "/tech-news/2026-02-23/when-iran-took-the-internet-hostage-elon-musk-held/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Space Review"
+      },
+      "companies": [],
+      "people": [
+        "Elon Musk",
+        "Bharath Gopalaswamy"
+      ]
+    },
+    {
+      "title": "NVIDIA přesouvá zdroje od herních uživatelů k AI datovým centrům",
+      "description": "NVIDIA se zaměřuje na umělou inteligenci a technologie datových center na úkor herního segmentu, což vyvolává diskuse mezi uživateli. Tento posun způsobil nedostatek grafických karet GPU pro spotřebitele a růst cen, přičemž společnost investuje do AI projektů jako OpenAI.",
+      "slug": "nvidia-shifts-resources-from-gamers-to-ai-data-cen",
+      "publishedAt": "2026-02-23T11:45:00+00:00",
+      "date": "2026-02-23 11:45:00",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/02/pc-gaming-subscription-billing-page_optimized.jpg",
+      "url": "/tech-news/2026-02-23/nvidia-shifts-resources-from-gamers-to-ai-data-cen/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [
+        "NVIDIA"
+      ],
+      "people": []
+    },
+    {
+      "title": "Automobilky směřují k ‚řízení bez pohledu na silnici‘, což vyvolává otázky bezpečnosti a odpovědnosti",
+      "description": "Automobilky spěchají k klíčovému milníku na cestě k plně autonomním autům: systémům, které umožňují řidičům odvrátit oči od silnice – například na psaní zpráv nebo práci na notebooku – pokud je auto neupozorní k převzetí kontroly.",
+      "slug": "carmakers-push-toward-eyes-off-driving-raising-que",
+      "publishedAt": "2026-02-23T11:38:21+00:00",
+      "date": "2026-02-23 11:38:21",
+      "importance": 4,
+      "category": "autonomní vozy",
+      "urlToImage": "https://www.insurancejournal.com/app/uploads/2026/02/auto-pilot-mode-in-self-driving-car-396374668-AdobeStock-scaled.jpeg",
+      "url": "/tech-news/2026-02-23/carmakers-push-toward-eyes-off-driving-raising-que/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Insurance Journal"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Vedoucí dodavatel polovodičů Advantest zasáhnut ransomwarovým útokem",
+      "description": "Advantest, japonský specialista na testování počítačových čipů pro velké výrobce polovodičů, nasadil protokoly pro reakci na incident po kybernetickém incidentu zahrnujícím ransomware.",
+      "slug": "leading-semiconductor-supplier-advantest-hit-by-ra",
+      "publishedAt": "2026-02-23T11:30:00+00:00",
+      "date": "2026-02-23 11:30:00",
+      "importance": 4,
+      "category": "kybernetika",
+      "urlToImage": "https://assets.infosecurity-magazine.com/webpage/og/be44f91e-7e65-4c0a-8abc-cb871158eb87.jpg",
+      "url": "/tech-news/2026-02-23/leading-semiconductor-supplier-advantest-hit-by-ra/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Infosecurity Magazine"
+      },
+      "companies": [
+        "Advantest"
+      ],
+      "people": []
+    },
     {
       "title": "Investice do AI v Indii prudce rostou; podíl AI ve venture capital financování stoupl na 12 % z 5 % v roce 2020: Zpráva",
       "description": "V roce 2025 přilákaly AI společnosti v Indii 188 investic v celkové hodnotě 1,2 miliardy dolarů, což znamená 58procentní meziroční nárůst hodnoty financování. Podíl AI v celkovém venture capital financování vzrostl na přibližně 12 procent z méně než 5 procent v roce 2020.",
