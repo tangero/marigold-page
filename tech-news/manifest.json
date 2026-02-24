@@ -1,7 +1,175 @@
 {
-  "generated": "2026-02-24T13:09:52.585293+00:00",
-  "count": 175,
+  "generated": "2026-02-24T17:33:20.796539+00:00",
+  "count": 183,
   "articles": [
+    {
+      "title": "Pro státy Perského zálivu jsou investice do umělé inteligence částečně o ochraně před USA",
+      "description": "Saúdská Arábie, Katar a Spojené arabské emiráty chtějí stát se centry umělé inteligence.",
+      "slug": "for-the-gulf-states-investment-in-ai-is-partly-abo",
+      "publishedAt": "2026-02-23T16:51:49+00:00",
+      "date": "2026-02-23 16:51:49",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://foreignpolicy.com/wp-content/uploads/2026/02/GettyImages-2244358004.jpg?w=1000",
+      "url": "/tech-news/2026-02-23/for-the-gulf-states-investment-in-ai-is-partly-abo/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Foreign Policy"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "EXL a AWS spolupracují na iniciativě s agentic AI pro přetvoření IT správy služeb Sonos",
+      "description": "Zabydlování AI do pracovních postupů Sonos vytváří nový standard pro efektivitu, operační inteligenci a snižování rizik. Spolupráce EXL, AWS a Sonos zavádí agentic AI do IT správy služeb (ITSM), což automatizuje rozhodování a zlepšuje podporu.",
+      "slug": "exl-and-aws-collaborate-on-agentic-ai-initiative-t",
+      "publishedAt": "2026-02-23T16:47:00+00:00",
+      "date": "2026-02-23 16:47:00",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/e97f61d3-2aeb-461f-8bf5-d683ac2b82db",
+      "url": "/tech-news/2026-02-23/exl-and-aws-collaborate-on-agentic-ai-initiative-t/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "companies": [
+        "EXL",
+        "AWS",
+        "Sonos"
+      ],
+      "people": []
+    },
+    {
+      "title": "Anthropic v konfliktu s americkou armádou kvůli použití AI",
+      "description": "Společnost Anthropic riskuje ztrátu kontraktu v hodnotě 200 milionů dolarů s Pentagonem kvůli své politice, která zakazuje použití jejích AI modelů pro masové sledování amerických občanů nebo plně autonomní zbraňové systémy. Firma se setká s představiteli armády, aby konflikt vyřešila.",
+      "slug": "anthropic-at-loggerheads-with-us-military-over-ai-",
+      "publishedAt": "2026-02-23T16:46:10+00:00",
+      "date": "2026-02-23 16:46:10",
+      "importance": 4,
+      "category": "vojenské ai",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-48302,resizemode-75,msid-128722590/tech/artificial-intelligence/anthropic-at-loggerheads-with-us-military-over-ai-use.jpg",
+      "url": "/tech-news/2026-02-23/anthropic-at-loggerheads-with-us-military-over-ai/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Anthropic",
+        "xAI"
+      ],
+      "people": [
+        "Elon Musk"
+      ]
+    },
+    {
+      "title": "Varování před Android malwarem: Falešné IPTV aplikace kradou bankovní údaje",
+      "description": "Nový malware pro Android nazvaný Massiv se šíří jako zdánlivě neškodné IPTV streamovací aplikace. Po instalaci zachycuje bankovní přihlašovací údaje pomocí keylogginku a překrytí obrazovky, obchází ochranu bankovních aplikací a umožňuje dálkové ovládání zařízení.",
+      "slug": "android-malware-alert-fake-iptv-apps-will-steal-yo",
+      "publishedAt": "2026-02-23T16:22:09+00:00",
+      "date": "2026-02-23 16:22:09",
+      "importance": 4,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://www.pcworld.com/wp-content/uploads/2026/02/shutterstock_2476561975.jpg?quality=50&strip=all&w=1024",
+      "url": "/tech-news/2026-02-23/android-malware-alert-fake-iptv-apps-will-steal-yo/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "PCWorld"
+      },
+      "companies": [
+        "ThreatFabric"
+      ],
+      "people": []
+    },
+    {
+      "title": "Vizální inteligence by měla definovat Appleův postup do AI nositelných zařízení",
+      "description": "Generální ředitel Apple Tim Cook naznačuje možnou třetí hlavní kategorii produktů: nositelná zařízení poháněná umělou inteligencí zaměřená na Vizální inteligenci. Tato technologie analyzuje okolí přes kamery a umožňuje kontextové akce, jako je identifikace objektů nebo poskytování instrukcí.",
+      "slug": "visual-intelligence-expected-to-define-apples-push",
+      "publishedAt": "2026-02-23T16:19:55+00:00",
+      "date": "2026-02-23 16:19:55",
+      "importance": 4,
+      "category": "nositelná zařízení",
+      "urlToImage": "https://macdailynews.com/wp-content/uploads/2018/02/180215_apple_glass.jpg",
+      "url": "/tech-news/2026-02-23/visual-intelligence-expected-to-define-apples-push/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Macdailynews.com"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": [
+        "Tim Cook"
+      ]
+    },
+    {
+      "title": "Můžete věřit Wikipedii?",
+      "description": "Wikipedia formuje náš pohled na realitu více než kdy dřív, protože poskytuje data pro velké jazykové modely (LLM) jako ChatGPT. Lze jí však skutečně důvěřovat?",
+      "slug": "can-you-trust-wikipedia",
+      "publishedAt": "2026-02-23T16:17:19+00:00",
+      "date": "2026-02-23 16:17:19",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/02/v6.jpg",
+      "url": "/tech-news/2026-02-23/can-you-trust-wikipedia/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Reason"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Velké technologické firmy investují v roce 2026 asi 650 miliard dolarů do AI, tvrdí Bridgewater",
+      "description": "Američtí technologičtí giganti Alphabet, Amazon, Meta a Microsoft by měli dohromady investovat asi 650 miliard dolarů do rozšíření infrastruktury související s AI v roce 2026, podle analýzy Bridgewater Associates. Jedná se o prudký nárůst oproti 410 miliardám v roce 2025.",
+      "slug": "big-tech-to-invest-about-650-billion-in-ai-in-2026",
+      "publishedAt": "2026-02-23T16:16:13+00:00",
+      "date": "2026-02-23 16:16:13",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-47264,resizemode-75,msid-128721675/tech/artificial-intelligence/big-tech-to-invest-about-650-billion-in-ai-in-2026-bridgewater-says.jpg",
+      "url": "/tech-news/2026-02-23/big-tech-to-invest-about-650-billion-in-ai-in-2026/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Alphabet",
+        "Amazon",
+        "Meta",
+        "Microsoft"
+      ],
+      "people": []
+    },
+    {
+      "title": "Jak Apple Visual Intelligence může změnit všechno",
+      "description": "S narážkami Tima Cooka, které postupně naznačuje směr vývoje, se Apple Visual Intelligence jeví jako technologie, která by mohla ovlivnit i lidské vnímání okolí. (via Cult of Mac – zdroj nejnovějších zpráv, spekulací, analýz, recenzí, návodů a nabídek pro Apple.)",
+      "slug": "how-apple-visual-intelligence-could-change-everyth",
+      "publishedAt": "2026-02-23T16:10:15+00:00",
+      "date": "2026-02-23 16:10:15",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.cultofmac.com/wp-content/uploads/2024/09/iphone-16-visual-lookup.jpg",
+      "url": "/tech-news/2026-02-23/how-apple-visual-intelligence-could-change-everyth/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Cult of Mac"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": [
+        "Tim Cook"
+      ]
+    },
     {
       "title": "Exkluziva: Hegseth se setká s šéfem Anthropicu, Pentagon hrozí zákazem",
       "description": "Nominovaný ministr obrany Pete Hegseth se má setkat s generálním ředitelem Anthropicu Dario Amodeiem uprostřed eskalujícího konfliktu s Pentagonem. Ministerstvo obrany USA vyhrožuje zákazem technologií firmy po smrtelné razii spojené s AI, což odhaluje mocenský boj o kontrolu nad umělou inteligencí v obraně.",
