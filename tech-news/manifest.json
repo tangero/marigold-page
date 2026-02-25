@@ -1,7 +1,51 @@
 {
-  "generated": "2026-02-25T05:41:26.470506+00:00",
-  "count": 173,
+  "generated": "2026-02-25T09:03:02.674065+00:00",
+  "count": 175,
   "articles": [
+    {
+      "title": "Vysvětleno: Jak pokles IBM o 13 % kvůli obavám z narušení COBOL od Anthropic spustil pokles akcií TCS, Infosys, Wipro a dalších IT firem",
+      "description": "Akcie IT firem klesly 24. února až o 8 %, po pádu IBM o 13 % na Wall Street – největší ztráta za 25 let. Důvodem jsou obavy, že nástroj Claude od Anthropic zjednoduší kód COBOL a ohrozí tradiční příjmy IBM z mainframů, což se projevilo i na indických IT titulech.",
+      "slug": "explained-how-ibms-13-plunge-on-anthropics-cobol-d",
+      "publishedAt": "2026-02-24T07:48:51+00:00",
+      "date": "2026-02-24 07:48:51",
+      "importance": 4,
+      "category": "it akcie",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-57726,resizemode-75,msid-128773665/tech/information-tech/explained-how-ibms-13-plunge-on-anthropics-cobol-disruption-fears-sparked-bloodbath-in-tcs-infosys-wipro-other-it-stocks.jpg",
+      "url": "/tech-news/2026-02-24/explained-how-ibms-13-plunge-on-anthropics-cobol-d/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "IBM",
+        "Anthropic",
+        "TCS",
+        "Infosys",
+        "Wipro"
+      ],
+      "people": []
+    },
+    {
+      "title": "Sam Altman se brání vysoké spotřebě elektřiny AI: „K vycvičení člověka je také potřeba hodně energie“",
+      "description": "Altman uvedl, že datová centra přešla od vodně náročného chlazení, ale 56 % globálně stále používá evaporativní systémy.",
+      "slug": "sam-altman-gets-defensive-about-ais-massive-electr",
+      "publishedAt": "2026-02-24T07:02:00+00:00",
+      "date": "2026-02-24 07:02:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2261852386_feedad-e1771885224525.jpg?resize=1200,600",
+      "url": "/tech-news/2026-02-24/sam-altman-gets-defensive-about-ais-massive-electr/",
+      "source": {
+        "emoji": "📰",
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "companies": [],
+      "people": [
+        "Sam Altman"
+      ]
+    },
     {
       "title": "Hegseth a šéf Anthropic se setkají, zatímco debata o využití AI v armádě nabírá na obrátkách",
       "description": "Ministr obrany USA Pete Hegseth plánuje setkání s generálním ředitelem Anthropic. Diskuse se soustředí na etické aspekty nasazení AI v národní bezpečnosti.",
