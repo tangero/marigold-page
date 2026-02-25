@@ -1,7 +1,191 @@
 {
-  "generated": "2026-02-25T13:11:55.151695+00:00",
-  "count": 189,
+  "generated": "2026-02-25T17:29:34.112177+00:00",
+  "count": 198,
   "articles": [
+    {
+      "title": "Boom umělé inteligence pohání renesanci jaderné energie",
+      "description": "Rostoucí poptávka po elektřině pro provoz velkých jazykových modelů a AI systémů nutí technologické firmy vrátit se k jaderné energii. Silicon Valley, které dříve elektřinu podceňovalo, nyní hledá stabilní zdroje pro svá data centra.",
+      "slug": "the-ai-boom-is-powering-a-nuclear-renaissance",
+      "publishedAt": "2026-02-24T17:00:00+00:00",
+      "date": "2026-02-24 17:00:00",
+      "importance": 4,
+      "category": "jaderná energie",
+      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2026-02-24_zml06xtwog.jpg",
+      "url": "/tech-news/2026-02-24/the-ai-boom-is-powering-a-nuclear-renaissance/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "OilPrice.com"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Intuit a Anthropic spustí přizpůsobitelné AI agenty",
+      "description": "Intuit a Anthropic oznámily partnerství, které přinese přizpůsobitelné umělé inteligence agenty na platformu Intuit a finanční nástroje do AI produktů Anthropic. Nasazení těchto funkcí začne na jaře.",
+      "slug": "intuit-and-anthropic-to-launch-customizable-ai-age",
+      "publishedAt": "2026-02-24T16:58:16+00:00",
+      "date": "2026-02-24 16:58:16",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/02/Intuit-Anthropic-partnership.jpg",
+      "url": "/tech-news/2026-02-24/intuit-and-anthropic-to-launch-customizable-ai-age/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [
+        "Intuit",
+        "Anthropic"
+      ],
+      "people": []
+    },
+    {
+      "title": "AMD uzavírá rekordní dohodu na 100 miliard dolarů na AI čipy s Metou Marka Zuckerberga",
+      "description": "\"Žádná pochybnost, Mark je velmi, velmi ambiciózní v tom, co chce dosáhnout,\" řekla Suová.",
+      "slug": "amd-strikes-blockbuster-100b-ai-chip-deal-with-mar",
+      "publishedAt": "2026-02-24T16:57:15+00:00",
+      "date": "2026-02-24 16:57:15",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/02/amd-lisa-su-mark-zuckerberg.jpg?quality=75&strip=all&1771932601&w=1200",
+      "url": "/tech-news/2026-02-24/amd-strikes-blockbuster-100b-ai-chip-deal-with-mar/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "New York Post"
+      },
+      "companies": [
+        "AMD",
+        "Meta"
+      ],
+      "people": [
+        "Mark Zuckerberg",
+        "Lisa Su"
+      ]
+    },
+    {
+      "title": "Robo armáda: Muž náhodně ovládl přes 6700 robotických vysavačů po celém světě při úpravě svého vlastního",
+      "description": "Strateg na umělou inteligenci náhodně získal přístup k více než 6700 internetově propojeným robotickým vysavačům DJI Romo při pokusu o propojení svého zařízení s ovladačem PlayStation. Tento incident odhalil závažnou bezpečnostní zranitelnost, která umožnila přístup k půdorysům domů, živým kamerovým záběrům a mikrofonům.",
+      "slug": "robo-army-man-accidentally-takes-control-of-6700-r",
+      "publishedAt": "2026-02-24T16:56:57+00:00",
+      "date": "2026-02-24 16:56:57",
+      "importance": 5,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://media.breitbart.com/media/2026/02/DJI-Romo-robot-vacuum-640x335.jpg",
+      "url": "/tech-news/2026-02-24/robo-army-man-accidentally-takes-control-of-6700-r/",
+      "source": {
+        "emoji": "📰",
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Tesla přidala na mapu 64 lokalit Megachargerů, odhaluje trasy nabíjení pro nákladní vozy Semi",
+      "description": "Tesla aktualizovala mapu „Najděte nás“ o 64 nových lokalit Megachargerů v 15 státech USA, což poskytuje nejpřesnější přehled sítě nabíječek pro podporu nákladních vozů Tesla Semi. Spolu s dvěma již provozními místy tak mapy nyní ukazují celkem 66 lokalit podél hlavních nákladních koridorů od západního pobřeží po východní.",
+      "slug": "tesla-adds-64-megacharger-locations-to-map-reveali",
+      "publishedAt": "2026-02-24T16:47:43+00:00",
+      "date": "2026-02-24 16:47:43",
+      "importance": 4,
+      "category": "elektromobilita",
+      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/02/Screenshot-2026-02-24-at-11.39.27-AM.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "/tech-news/2026-02-24/tesla-adds-64-megacharger-locations-to-map-reveali/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Electrek"
+      },
+      "companies": [
+        "Tesla"
+      ],
+      "people": []
+    },
+    {
+      "title": "Meta uzavřela dohodu na AI čipy v hodnotě 100 miliard dolarů s AMD",
+      "description": "Meta objednala u AMD dostatek nových AI čipů MI450 pro datová centra s kapacitou až 6 gigawattů po dobu pěti let. Výměnou získá práva na nákup až 160 milionů akcií AMD, což představuje přibližně 10 procent firmy.",
+      "slug": "meta-strikes-100b-ai-chip-deal-with-amd",
+      "publishedAt": "2026-02-24T16:45:00+00:00",
+      "date": "2026-02-24 16:45:00",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://img1-azrcdn.newser.com/image/1667012-12-20260224104502.jpeg",
+      "url": "/tech-news/2026-02-24/meta-strikes-100b-ai-chip-deal-with-amd/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Newser"
+      },
+      "companies": [
+        "Meta",
+        "AMD"
+      ],
+      "people": []
+    },
+    {
+      "title": "Akcie se zotavily uprostřed investorových obav z umělé inteligence a cel",
+      "description": "Globální akcie vzrostly poté, co startup Anthropic představil deset nových způsobů využití svých AI pluginů pro firmy v oblastech jako investiční bankovnictví, lidské zdroje a inženýrství. Tento krok oživil zájem investorů o potenciál umělé inteligence, přestože předchozí den akcie klesly kvůli obavám z vysokých investic do AI a celové politiky prezidenta Trumpa.",
+      "slug": "stocks-bounce-back-amid-investor-unease-about-ai-t",
+      "publishedAt": "2026-02-24T16:42:02+00:00",
+      "date": "2026-02-24 16:42:02",
+      "importance": 4,
+      "category": "burza",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--i1MaflNT--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-02-24T164332Z_1_LYNXMPEM1N0ZQ_RTROPTP_3_USA-STOCKS.JPG?itok=H4xmMTGj",
+      "url": "/tech-news/2026-02-24/stocks-bounce-back-amid-investor-unease-about-ai-t/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNA"
+      },
+      "companies": [],
+      "people": [
+        "Donald Trump"
+      ]
+    },
+    {
+      "title": "Basis získal 100 milionů dolarů na rozvoj umělé inteligence v účetnictví",
+      "description": "Startup zaměřený na umělou inteligenci v účetnictví Basis získal 100 milionů dolarů v novém kole financování. Série B kolo, oznámené 24. února 2026, vedly firmy Accel a Google Ventures a hodnotí společnost na 1,15 miliardy dolarů.",
+      "slug": "basis-raises-100-million-to-build-up-ai-in-account",
+      "publishedAt": "2026-02-24T16:28:14+00:00",
+      "date": "2026-02-24 16:28:14",
+      "importance": 4,
+      "category": "ai startupy",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/02/Basis-funding-AI-accounting.jpeg",
+      "url": "/tech-news/2026-02-24/basis-raises-100-million-to-build-up-ai-in-account/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "companies": [
+        "Basis",
+        "Accel",
+        "Google Ventures"
+      ],
+      "people": []
+    },
+    {
+      "title": "Akcie Samsung Electronics dosáhly rekordních výšin díky boomu AI pamětí, zásilky HBM4 pohánějí růst",
+      "description": "Akcie Samsung Electronics výrazně vzrostly na počátku roku 2026 a dosáhly historických maxim při 200 000 wonech díky explozivní poptávce po paměťových čipech pro AI. Společnost zahájila masovou produkci HBM4 čipů, což ji staví do pozice klíčového dodavatele pro AI akcelerátory.",
+      "slug": "samsung-electronics-stock-surges-to-record-highs-o",
+      "publishedAt": "2026-02-24T16:12:28+00:00",
+      "date": "2026-02-24 16:12:28",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://d.ibtimes.com.au/en/full/1870485/samsung-electronics-said-it-expected-fourth-quarter-profits-sharply-down-previous-quarter.jpg",
+      "url": "/tech-news/2026-02-24/samsung-electronics-stock-surges-to-record-highs-o/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Ibtimes.com.au"
+      },
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "people": []
+    },
     {
       "title": "Akcie AMD vzrostly o více než 10 % po dohodě o dodávkách AI čipů pro Meta v hodnotě 60 miliard dolarů",
       "description": "Společnost Advanced Micro Devices uzavřela dohodu na prodej AI čipů v hodnotě až 60 miliard dolarů společnosti Meta Platforms během pěti let, což umožňuje vlastníkovi Facebooku zakoupit až 10 procent akcií čipové firmy. Partnerství zahrnuje nasazení až 6 gigawattů GPU Instinct od AMD pro rozšíření AI infrastruktury.",
