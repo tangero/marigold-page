@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chyba v Copilot umožňuje AI číst důvěrné e-maily v Outlooku | Marigold.cz Tech News</title>
+    <meta name="description" content="Asistent Microsoft Copilot v Microsoft 365 má kritickou chybu, která umožňuje umělé inteligenci skenovat a shrnovat e-maily označené jako důvěrné v Outlooku, vč">
+    <link rel="canonical" href="https://www.marigold.cz/tech-news/2026-02-18/copilot-bug-allows-ai-to-read-confidential-outlook/">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #374151; background: #f3f4f6; }
+        .container { max-width: 800px; margin: 0 auto; padding: 2rem; }
+        .tech-news-article { background: white; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); padding: 2rem; margin: 2rem 0; }
+        .source-info { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem; flex-wrap: wrap; }
+        .source-emoji { font-size: 1.5rem; }
+        .source-name { font-weight: 600; color: #374151; }
+        .importance-indicator { display: flex; gap: 2px; margin-left: auto; }
+        .star { color: #fbbf24; font-size: 1.2rem; }
+        .star.empty { color: #d1d5db; }
+        .article-title { font-size: 2rem; font-weight: 700; line-height: 1.2; margin-bottom: 1rem; color: #111827; }
+        .article-meta { display: flex; align-items: center; gap: 1rem; font-size: 0.875rem; color: #6b7280; margin-bottom: 1.5rem; }
+        .category { padding: 0.25rem 0.75rem; border-radius: 1rem; font-weight: 500; font-size: 0.75rem; text-transform: uppercase; background: #e5e7eb; color: #374151; }
+        .article-image { margin: 1.5rem 0; border-radius: 8px; overflow: hidden; }
+        .article-image img { width: 100%; height: auto; display: block; }
+        .article-content { font-size: 1.125rem; line-height: 1.7; margin-bottom: 2rem; }
+        .article-content h2 { font-size: 1.5rem; margin: 1.5rem 0 1rem; color: #111827; }
+        .article-content p { margin-bottom: 1rem; }
+        .article-footer { border-top: 1px solid #e5e7eb; padding-top: 1.5rem; }
+        .read-more-btn { display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: #3b82f6; color: white; text-decoration: none; border-radius: 8px; font-weight: 500; }
+        .read-more-btn:hover { background: #2563eb; }
+        .original-title { margin-top: 1rem; color: #6b7280; font-size: 0.875rem; }
+        .back-link { display: inline-block; margin-bottom: 1rem; color: #3b82f6; text-decoration: none; }
+        .back-link:hover { text-decoration: underline; }
+        .archive-notice { background: #fef3c7; border: 1px solid #f59e0b; border-radius: 8px; padding: 1rem; margin-bottom: 1rem; font-size: 0.875rem; color: #92400e; }
+        @media (max-width: 640px) {
+            .container { padding: 1rem; }
+            .tech-news-article { padding: 1.5rem; margin: 1rem 0; }
+            .article-title { font-size: 1.5rem; }
+            .source-info { flex-direction: column; align-items: flex-start; }
+            .importance-indicator { margin-left: 0; margin-top: 0.5rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="/tech-news/" class="back-link">&larr; Zpět na Tech News</a>
+
+        <div class="archive-notice">
+            Tento článek je z archivu. Byl publikován 18.02.2026.
+        </div>
+
+        <article class="tech-news-article">
+            <header>
+                <div class="source-info">
+                    <span class="source-emoji">📰</span>
+                    <span class="source-name">PCWorld</span>
+                    <div class="importance-indicator">
+                        <span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star">★</span>
+                    </div>
+                </div>
+
+                <h1 class="article-title">Chyba v Copilot umožňuje AI číst důvěrné e-maily v Outlooku</h1>
+
+                <div class="article-meta">
+                    <time datetime="2026-02-18T16:22:12+00:00">18.02.2026</time>
+                    <span class="category">kyberbezpečnost</span>
+                </div>
+            </header>
+
+            
+            <div class="article-image">
+                <img src="https://www.pcworld.com/wp-content/uploads/2026/02/image_930daa.png?w=1024" alt="Chyba v Copilot umožňuje AI číst důvěrné e-maily v Outlooku" loading="lazy">
+            </div>
+        
+
+            <div class="article-content">
+                <h2>Souhrn</h2>
+<p>Microsoft Copilot, AI asistent integrovaný do Microsoft 365, trpí chybou označenou jako CW1226324, která umožňuje skenovat a shrnovat e-maily označené jako důvěrné v aplikaci Outlook. Tato chyba obchází ochranné mechanismy určené k blokování automatizovaných nástrojů a postihuje složky Odeslané a Koncepty. Microsoft potvrzuje problém a zavádí opravu pro postižené účty, avšak bez specifikace, kdy bude dostupná pro všechny uživatele.</p>
+<h2>Klíčové body</h2>
+<ul>
+<li><strong>Chyba CW1226324</strong>: Copilot Chat v Microsoft 365 čte důvěrné e-maily v Outlooku navzdory označení, které má bránit automatizovanému zpracování.</li>
+<li><strong>Postižené složky</strong>: Primárně Odeslané (Sent) a Koncepty (Drafts), kde se často ukládají citlivá data jako smlouvy nebo lékařské informace.</li>
+<li><strong>Oprava v procesu</strong>: Microsoft ji postupně nasazuje, ale rozsah dopadu se může měnit a plný report je viditelný jen pro administrátory Microsoft 365.</li>
+<li><strong>Žádné údaje o počtu uživatelů</strong>: Firma neuvádí, kolik účtů je ovlivněno, což zvyšuje nejistotu.</li>
+<li><strong>Zdroj</strong>: Zpráva pochází přímo od Microsoftu, shrnuto na PCWorld a BleepingComputer.</li>
+</ul>
+<h2>Podrobnosti</h2>
+<p>Chyba CW1226324 odhaluje fundamentální slabinu v integraci AI do produktivních nástrojů jako je Microsoft 365. Copilot, což je AI asistent založený na velkých jazykových modelech (LLM), slouží k automatizaci úkolů jako shrnutí e-mailů, generování odpovědí nebo analýza obsahu. V tomto případě však ignoruje označení „důvěrné“ (confidential), které je v Outlooku navrženo specificky pro blokování skenování automatizovanými systémy, včetně AI. To znamená, že Copilot může načíst obsah e-mailů obsahujících obchodní smlouvy, právní korespondenci, údaje z policejních vyšetřování nebo osobní zdravotní informace.</p>
+<p>Problém se projevuje v Copilot Chat, což je rozhraní pro konverzaci s AI přímo v Microsoft 365 aplikacích. Uživatelé, kteří aktivují funkci shrnutí e-mailů, riskují nechtěné zpracování citlivých dat. Tyto data mohou být následně zpracována modelem, potenciálně uložena v logách nebo – v nejhorším případě – použita pro trénink modelů, jak je běžné u cloudových AI služeb. Microsoft sice tvrdí, že data nejsou automaticky posílána do tréninkových sad, ale absence transparentnosti v bug reportu (dostupném jen pro adminy) brání plnému posouzení rizik.</p>
+<p>Oprava je nasazována postupně, ale bez časového rámce. To je typické pro enterprise prostředí, kde aktualizace probíhají v waves podle tenantů. Zatímco běžní uživatelé nemohou report prohlédnout, zdroje jako BleepingComputer a PCWorld potvrzují detaily na základě uniklých informací. Tento incident navazuje na předchozí kontroverze kolem Copilotu, jako je nechtěné sdílení dat mezi uživateli nebo nesprávné shrnutí, což ukazuje na nezralost AI v citlivých prostředích.</p>
+<h2>Proč je to důležité</h2>
+<p>Tato chyba podtrhuje systémové rizika integrace AI do firemních systémů, kde důvěrnost dat je klíčová. V širším kontextu posiluje skepsi vůči spolehlivosti LLM v produktech gigantů jako Microsoft, kde AI slibuje produktivitu, ale často selhává v bezpečnostních základů. Pro uživatele Microsoft 365 to znamená nutnost okamžitého omezení přístupu Copilotu k důvěrným složkám, zatímco firmy čekají na fix. V kyberbezpečnostním ekosystému to zvyšuje tlak na regulace jako EU AI Act, který vyžaduje transparentnost u vysokorizikových AI systémů. Pokud se rozsah dopadu rozšíří, může to vést k žalobám nebo ztrátě důvěry, což brzdí adopci AI v podnicích. Celkově to ilustruje, proč bezpečnostní objevy v AI patří mezi průlomové – odhalují chyby, které mohou mít reálné dopady na miliardy uživatelů.</p>
+<hr />
+<p><a href="https://www.pcworld.com/article/3064782/copilot-bug-allows-ai-to-read-confidential-outlook-emails.html">Číst původní článek</a></p>
+<p><strong>Zdroj:</strong> 📰 PCWorld</p>
+            </div>
+
+            <footer class="article-footer">
+                <a href="https://www.pcworld.com/article/3064782/copilot-bug-allows-ai-to-read-confidential-outlook-emails.html" target="_blank" rel="noopener" class="read-more-btn">
+                    Číst původní článek &rarr;
+                </a>
+
+                <div class="original-title"><small>Původní název: Copilot bug allows ‘AI’ to read confidential Outlook emails</small></div>
+            </footer>
+        </article>
+
+        <p style="text-align: center; color: #6b7280; font-size: 0.875rem; margin-top: 2rem;">
+            &copy; 2026 <a href="https://www.marigold.cz" style="color: #3b82f6;">Marigold.cz</a>
+        </p>
+    </div>
+</body>
+</html>

@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kvantové počítání pro vývojáře: Už ne vědecká fantastika | Marigold.cz Tech News</title>
+    <meta name="description" content="Článek popisuje přechod kvantového počítání z akademického výzkumu do produkčních nasazení díky nástrojům Qiskit a Q#. V roce 2025 IBM, Microsoft a Google předv">
+    <link rel="canonical" href="https://www.marigold.cz/tech-news/2026-02-18/quantum-computing-for-developers-not-science-ficti/">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #374151; background: #f3f4f6; }
+        .container { max-width: 800px; margin: 0 auto; padding: 2rem; }
+        .tech-news-article { background: white; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); padding: 2rem; margin: 2rem 0; }
+        .source-info { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem; flex-wrap: wrap; }
+        .source-emoji { font-size: 1.5rem; }
+        .source-name { font-weight: 600; color: #374151; }
+        .importance-indicator { display: flex; gap: 2px; margin-left: auto; }
+        .star { color: #fbbf24; font-size: 1.2rem; }
+        .star.empty { color: #d1d5db; }
+        .article-title { font-size: 2rem; font-weight: 700; line-height: 1.2; margin-bottom: 1rem; color: #111827; }
+        .article-meta { display: flex; align-items: center; gap: 1rem; font-size: 0.875rem; color: #6b7280; margin-bottom: 1.5rem; }
+        .category { padding: 0.25rem 0.75rem; border-radius: 1rem; font-weight: 500; font-size: 0.75rem; text-transform: uppercase; background: #e5e7eb; color: #374151; }
+        .article-image { margin: 1.5rem 0; border-radius: 8px; overflow: hidden; }
+        .article-image img { width: 100%; height: auto; display: block; }
+        .article-content { font-size: 1.125rem; line-height: 1.7; margin-bottom: 2rem; }
+        .article-content h2 { font-size: 1.5rem; margin: 1.5rem 0 1rem; color: #111827; }
+        .article-content p { margin-bottom: 1rem; }
+        .article-footer { border-top: 1px solid #e5e7eb; padding-top: 1.5rem; }
+        .read-more-btn { display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: #3b82f6; color: white; text-decoration: none; border-radius: 8px; font-weight: 500; }
+        .read-more-btn:hover { background: #2563eb; }
+        .original-title { margin-top: 1rem; color: #6b7280; font-size: 0.875rem; }
+        .back-link { display: inline-block; margin-bottom: 1rem; color: #3b82f6; text-decoration: none; }
+        .back-link:hover { text-decoration: underline; }
+        .archive-notice { background: #fef3c7; border: 1px solid #f59e0b; border-radius: 8px; padding: 1rem; margin-bottom: 1rem; font-size: 0.875rem; color: #92400e; }
+        @media (max-width: 640px) {
+            .container { padding: 1rem; }
+            .tech-news-article { padding: 1.5rem; margin: 1rem 0; }
+            .article-title { font-size: 1.5rem; }
+            .source-info { flex-direction: column; align-items: flex-start; }
+            .importance-indicator { margin-left: 0; margin-top: 0.5rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="/tech-news/" class="back-link">&larr; Zpět na Tech News</a>
+
+        <div class="archive-notice">
+            Tento článek je z archivu. Byl publikován 18.02.2026.
+        </div>
+
+        <article class="tech-news-article">
+            <header>
+                <div class="source-info">
+                    <span class="source-emoji">📰</span>
+                    <span class="source-name">Javacodegeeks.com</span>
+                    <div class="importance-indicator">
+                        <span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star">★</span>
+                    </div>
+                </div>
+
+                <h1 class="article-title">Kvantové počítání pro vývojáře: Už ne vědecká fantastika</h1>
+
+                <div class="article-meta">
+                    <time datetime="2026-02-18T06:48:00+00:00">18.02.2026</time>
+                    <span class="category">kvantové počítání</span>
+                </div>
+            </header>
+
+            
+            <div class="article-image">
+                <img src="https://www.javacodegeeks.com/wp-content/uploads/2012/10/software-development-2-logo.jpg" alt="Kvantové počítání pro vývojáře: Už ne vědecká fantastika" loading="lazy">
+            </div>
+        
+
+            <div class="article-content">
+                <h2>Souhrn</h2>
+<p>Kvantové počítání přešlo z fyzikálních laboratoří do reálných produkčních systémů, kde ho vývojáři mohou využívat prostřednictvím knihoven Qiskit od IBM a Q# od Microsoftu. V roce 2025 IBM představilo procesor Quantum Nighthawk s 120 qubity, Microsoft topologický čip Majorana 1 a Google prokázal quantum advantage oproti klasickým superpočítačům. Tyto pokroky umožňují vývoj aplikací v oblasti lékového vývoje a finančního modelování.</p>
+<h2>Klíčové body</h2>
+<ul>
+<li>IBM Quantum Nighthawk (listopad 2025): 120 qubitů, schopnost provádět obvody s 5000 two-qubit gates.</li>
+<li>Microsoft Majorana 1 (únor 2025): První topologický kvantový čip na bázi topokonduktorových materiálů.</li>
+<li>Google: Systém 13 000krát rychlejší než nejpřevratnější klasický superpočítač na ověřitelných testech.</li>
+<li>Trh: Hodnota 1,8–3,5 miliardy dolarů v roce 2025, projekce 20,2 miliardy do roku 2030.</li>
+<li>Investice: 3,77 miliardy dolarů do kvantových firem v prvních devíti měsících 2025.</li>
+</ul>
+<h2>Podrobnosti</h2>
+<p>Článek zdůrazňuje, že kvantové počítání není již pouze teoretickou zvědavostí, ale nasazeným v produkci. Klasické počítače zpracovávají informace pomocí bitů, které mají stav 0 nebo 1. Kvantové počítače pracují s qubity, jež využívají kvantové jevy jako superpozice, prokládání a kvantová interference. Superpozice umožňuje qubitu existovat současně v kombinaci stavů 0 a 1, což dramaticky zvyšuje výpočetní prostor – n qubitů reprezentuje 2^n stavů najednou. Pro vývojáře to znamená přechod od klasického programování k modelům, kde se navrhují kvantové obvody.</p>
+<p>Qiskit, nejoblíbenější kvantový software development kit (SDK) od IBM, slouží k simulaci kvantových systémů na klasických počítačích, tvorbě obvodů a spuštění na reálném hardwaru přes cloud IBM Quantum. Podporuje jazyky jako Python a umožňuje experimenty s algoritmy jako Shorův pro faktorizaci nebo Groverův pro vyhledávání. Q#, jazyk od Microsoftu integrovaný s Azure Quantum, je určen pro vývoj kvantových algoritmů v .NET prostředí; slouží k psaní operací na qubitech, testování na simulátorech a nasazení na hybridních kvantovo-klasických platformách.</p>
+<p>Praktické aplikace již existují: Farmaceutické firmy jako AstraZeneca, Bayer, Merck, Novartis, Pfizer, Roche a Sanofi investují do kvantových metod pro objev léků, kde simulace molekulárních interakcí překonávají limity klasických počítačů. JPMorgan Chase spolupracuje s IBM na kvantových algoritmech pro oceňování opcí, což zrychluje rizikové analýzy. Přesto zůstávají výzvy: Kvantové procesory trpí decoherencí a chybami, což vyžaduje error correction. IBM Quantum Nighthawk zvyšuje stabilitu díky vylepšenému řízení chyb, zatímco topologické qubity Microsoftu slibují inherentní odolnost vůči chybám díky anyonům.</p>
+<h2>Proč je to důležité</h2>
+<p>Tyto pokroky mění technologický ekosystém tím, že kvantové výpočty doplňují klasické a AI systémy v oblastech, kde exponenciální růst složitosti brání škálování. Pro vývojáře to znamená nutnost naučit se nové paradigma, protože Qiskit a Q# jsou production-ready a dostupné zdarma. Trh s investicemi téměř trojnásobnými oproti roku 2024 signalizuje komercializaci, což ovlivní finance, farmacii a optimalizaci logistiky. V širším kontextu urychlí to vývoj AGI, kde kvantové simulace posílí trénink modelů, ale zároveň vyvolává otázky bezpečnosti šifrování (např. ohrožení RSA algoritmů Shorovým algoritmem). Vývojáři by měli začít s Qiskit tutorials na IBM Quantum platformě, aby připravili aplikace na hybridní éru.</p>
+<hr />
+<p><a href="https://www.javacodegeeks.com/2026/02/quantum-computing-for-developers-not-science-fiction-anymore.html">Číst původní článek</a></p>
+<p><strong>Zdroj:</strong> 📰 Javacodegeeks.com</p>
+            </div>
+
+            <footer class="article-footer">
+                <a href="https://www.javacodegeeks.com/2026/02/quantum-computing-for-developers-not-science-fiction-anymore.html" target="_blank" rel="noopener" class="read-more-btn">
+                    Číst původní článek &rarr;
+                </a>
+
+                <div class="original-title"><small>Původní název: Quantum Computing for Developers: Not Science Fiction Anymore</small></div>
+            </footer>
+        </article>
+
+        <p style="text-align: center; color: #6b7280; font-size: 0.875rem; margin-top: 2rem;">
+            &copy; 2026 <a href="https://www.marigold.cz" style="color: #3b82f6;">Marigold.cz</a>
+        </p>
+    </div>
+</body>
+</html>
