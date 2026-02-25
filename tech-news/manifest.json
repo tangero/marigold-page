@@ -1,7 +1,137 @@
 {
-  "generated": "2026-02-25T01:39:13.271044+00:00",
-  "count": 200,
+  "generated": "2026-02-25T05:41:26.470506+00:00",
+  "count": 173,
   "articles": [
+    {
+      "title": "Hegseth a šéf Anthropic se setkají, zatímco debata o využití AI v armádě nabírá na obrátkách",
+      "description": "Ministr obrany USA Pete Hegseth plánuje setkání s generálním ředitelem Anthropic. Diskuse se soustředí na etické aspekty nasazení AI v národní bezpečnosti.",
+      "slug": "hegseth-and-anthropic-ceo-set-to-meet-as-debate-in",
+      "publishedAt": "2026-02-24T05:17:45+00:00",
+      "date": "2026-02-24 05:17:45",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://i.abcnewsfe.com/a/52bc7626-71c0-48a6-bedc-5161e86a8890/wirestory_3d86c9296fe953ec0591fcde6a613aba_16x9.jpg?w=1600",
+      "url": "/tech-news/2026-02-24/hegseth-and-anthropic-ceo-set-to-meet-as-debate-in/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": [
+        "Pete Hegseth"
+      ]
+    },
+    {
+      "title": "Hegseth tlačí na Anthropic, aby armádě umožnil širší přístup k AI technologiím, tvrdí zdroj AP",
+      "description": "Obranný ministr Pete Hegseth dal CEO Anthropicu lhůtu do pátku na poskytnutí neomezeného přístupu k AI technologiím americké armádě, jinak firma riskuje ztrátu kontraktu s Pentagonem. Anthropic, tvůrce chatbota Claude, je poslední velká AI společnost, která takový přístup odmítá kvůli etickým obavám.",
+      "slug": "hegseth-pressures-anthropic-to-give-military-broad",
+      "publishedAt": "2026-02-24T05:01:52+00:00",
+      "date": "2026-02-24 05:01:52",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://dims.apnews.com/dims4/default/b6b956b/2147483647/strip/true/crop/7140x4758+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F47%2F5a%2F349dbe7a1af4cbd637bfc3d3d413%2F1e82b5de757e411abcdb85a499d8170a",
+      "url": "/tech-news/2026-02-24/hegseth-pressures-anthropic-to-give-military-broad/",
+      "source": {
+        "emoji": "📰",
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": [
+        "Pete Hegseth"
+      ]
+    },
+    {
+      "title": "IBM plánuje investice do kvantového počítání a cloudové infrastruktury v Indii: Ashwini Vaishnaw",
+      "description": "Kvantové počítání se uplatňuje v objevování léků, financích, kyberbezpečnosti a umělé inteligenci. Investice by měly vytvořit nové příležitosti pro rostoucí počet technologických talentů v Indii.",
+      "slug": "ibm-plans-investments-in-quantum-computing-cloud-i",
+      "publishedAt": "2026-02-24T04:26:45+00:00",
+      "date": "2026-02-24 04:26:45",
+      "importance": 4,
+      "category": "kvantové počítání",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/lmybpv/article70669770.ece/alternates/LANDSCAPE_1200/PTI02_22_2026_000265B.jpg",
+      "url": "/tech-news/2026-02-24/ibm-plans-investments-in-quantum-computing-cloud-i/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "companies": [
+        "IBM"
+      ],
+      "people": [
+        "Ashwini Vaishnaw"
+      ]
+    },
+    {
+      "title": "Používá ChatGPT 17 galonů vody na každý dotaz? Sam Altman toto virální tvrzení označil za „úplně šílené“",
+      "description": "Sam Altman dodal, že srovnávání spotřeby energie umělé inteligence s lidskou je nespravedlivé, protože výchova člověka vyžaduje 20 let života a energie.",
+      "slug": "is-chatgpt-using-17-gallons-of-water-for-every-que",
+      "publishedAt": "2026-02-24T03:58:58+00:00",
+      "date": "2026-02-24 03:58:58",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2026/02/24/1600x900/logo/ANI-20260220045-0_1771905385403_1771905393945.jpg",
+      "url": "/tech-news/2026-02-24/is-chatgpt-using-17-gallons-of-water-for-every-que/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Livemint"
+      },
+      "companies": [],
+      "people": [
+        "Sam Altman"
+      ]
+    },
+    {
+      "title": "Umělá inteligence – „Svět je v nebezpečí“: Šéf bezpečnosti Anthropic rezignuje",
+      "description": "Mrinank Sharma, vedoucí týmu pro bezpečnostní opatření v Anthropic, jedné z předních firem v oblasti umělé inteligence, rezignoval po dvou letech v čele Safeguards Research Team. Ve svém virálním dopise varoval před globálním nebezpečím spojeným s vývojem AI a odchází studovat poezii.",
+      "slug": "artificial-intelligence-the-world-is-in-peril-anth",
+      "publishedAt": "2026-02-24T03:34:54+00:00",
+      "date": "2026-02-24 03:34:54",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": null,
+      "url": "/tech-news/2026-02-24/artificial-intelligence-the-world-is-in-peril-anth/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": [
+        "Mrinank Sharma"
+      ]
+    },
+    {
+      "title": "Infosys, Wipro a další IT akcie v centru pozornosti po šoku od Anthropic; ADRy klesly až o 5 %",
+      "description": "Indické IT akcie včetně Infosys a Wipro čelí prodejním tlakům poté, co Anthropic oznámil nástroj Claude Code pro modernizaci COBOLových legacy systémů. Oznámení vedlo k poklesu US-listovaných ADŘ až o 5 %, což zesiluje obavy z narušení AI v oblasti legacy IT služeb.",
+      "slug": "infosys-wipro-other-it-stocks-in-focus-as-anthropi",
+      "publishedAt": "2026-02-24T03:23:12+00:00",
+      "date": "2026-02-24 03:23:12",
+      "importance": 4,
+      "category": "it akcie",
+      "urlToImage": "https://img.etimg.com/thumb/msid-128738435,width-1200,height-630,imgsize-83602,overlay-etmarkets/articleshow.jpg",
+      "url": "/tech-news/2026-02-24/infosys-wipro-other-it-stocks-in-focus-as-anthropi/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Infosys",
+        "Wipro",
+        "Anthropic"
+      ],
+      "people": []
+    },
     {
       "title": "Nejnovější aktualizace Claude Code od Anthropic vyvolala masivní prodej akcií IBM, pokles o 13,2 % za den",
       "description": "Akcie IBM klesly o 13,2 % na 223,35 USD za akcii a zažily nejhorší den od roku 2000 po aktualizaci nástroje Claude Code od Anthropic. Tento AI nástroj, který způsobil poklesy v IT sektorech v posledních týdnech, nyní umožňuje automatizaci modernizace COBOLu.",
@@ -3433,685 +3563,6 @@
       "companies": [
         "DeepMind",
         "Isomorphic Labs"
-      ],
-      "people": []
-    },
-    {
-      "title": "Připoutejte se: Nový fond umožní běžným investorům koupit akcie SpaceX",
-      "description": "Fond Powerlaw Corp otevře běžným investorům přístup k akciím soukromých firem jako SpaceX dříve než očekávané IPO. Prostřednictvím přímého listování nabídne podíly v portfoliu zahrnujícím AI společnosti OpenAI nebo Anthropic.",
-      "slug": "buckle-up-new-fund-will-let-regular-investors-buy-",
-      "publishedAt": "2026-02-18T20:04:56+00:00",
-      "date": "2026-02-18 20:04:56",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://futurism.com/wp-content/uploads/2026/02/regular-investors-buy-spacex-stock.jpg?w=1200",
-      "url": "/tech-news/2026-02-18/buckle-up-new-fund-will-let-regular-investors-buy/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Futurism"
-      },
-      "companies": [
-        "SpaceX"
-      ],
-      "people": []
-    },
-    {
-      "title": "Cisco a Qunnect vybudovali kvantovou síť",
-      "description": "Pomocí existujících optických kabelů v New Yorku mezi Brooklyn a Manhattan.",
-      "slug": "cisco-and-qunnect-build-quantum-network",
-      "publishedAt": "2026-02-18T19:50:11+00:00",
-      "date": "2026-02-18 19:50:11",
-      "importance": 5,
-      "category": "kvantové sítě",
-      "urlToImage": "https://i.nextmedia.com.au/News/2026-02-18T133144Z_1_LYNXMPEM1H0QJ_RTROPTP_4_CISCO-QUNNECT.JPG",
-      "url": "/tech-news/2026-02-18/cisco-and-qunnect-build-quantum-network/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "iTnews"
-      },
-      "companies": [
-        "Cisco",
-        "Qunnect"
-      ],
-      "people": []
-    },
-    {
-      "title": "Co očekávat od Apple události v březnu: Nové MacBooky, iPhony a iPady",
-      "description": "Z nápověd v pozvánce na akci a online spekulací máme představu, co by Apple mohl představit 4. března v New Yorku, Londýně a Šanghaji.",
-      "slug": "what-to-expect-from-apples-march-event-new-macbook",
-      "publishedAt": "2026-02-18T19:25:00+00:00",
-      "date": "2026-02-18 19:25:00",
-      "importance": 4,
-      "category": "hardware",
-      "urlToImage": "https://www.cnet.com/a/img/resize/ccc74e498b72eac37e3f73b8517ee77ad1c782ba/hub/2025/10/15/329b1803-3cd6-4a3b-8745-e169a8eb2ac7/m5-macbook-pro.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "url": "/tech-news/2026-02-18/what-to-expect-from-apples-march-event-new-macbook/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNET"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
-      "title": "Dohoda Nvidie s Metou signalizuje novou éru výpočetního výkonu",
-      "description": "Dny, kdy technologickí giganti hromadně nakupovali samostatné čipy, končí. Firmy zaměřené na AI nyní potřebují GPU, CPU a všechno mezi tím.",
-      "slug": "nvidias-deal-with-meta-signals-a-new-era-in-comput",
-      "publishedAt": "2026-02-18T19:24:55+00:00",
-      "date": "2026-02-18 19:24:55",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://media.wired.com/photos/6995c9dbe2d77b4473bee16f/191:100/w_1280,c_limit/GettyImages-2261773850.jpg",
-      "url": "/tech-news/2026-02-18/nvidias-deal-with-meta-signals-a-new-era-in-comput/",
-      "source": {
-        "emoji": "🔧",
-        "id": "wired",
-        "name": "Wired"
-      },
-      "companies": [
-        "Nvidia",
-        "Meta"
-      ],
-      "people": []
-    },
-    {
-      "title": "Podsekretář Kimmitt vede delegaci ITA do Bengaluru a jedná s technologickými firmami",
-      "description": "Podsekretář Kimmitt vede delegaci Mezinárodní obchodní správy (ITA) do Bengaluru, kde propaguje strategie pro export umělé inteligence a posiluje technologická partnerství mezi USA a Indií před summitem India AI Impact Summit 2026.",
-      "slug": "under-secretary-kimmitt-leads-ita-delegation-to-be",
-      "publishedAt": "2026-02-18T16:38:59+00:00",
-      "date": "2026-02-18 16:38:59",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://bl-i.thgim.com/public/newsletter/nl-opinion/93xh60/article70648948.ece/alternates/LANDSCAPE_1200/William%20Kimmitt_4.jpg",
-      "url": "/tech-news/2026-02-18/under-secretary-kimmitt-leads-ita-delegation-to-be/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "companies": [],
-      "people": [
-        "Kimmitt"
-      ]
-    },
-    {
-      "title": "Za hranicemi dohody o volném obchodu: Umělá inteligence se stává novým pilířem vztahů Indie a Evropy",
-      "description": "Premiér Narendra Modi a španělský prezident Pedro Sánchez označili umělou inteligenci za transformační sílu. Indie posiluje spolupráci se Španělskem a dalšími evropskými zeměmi v oblastech AI, obrany, obchodu a energetiky. Dohoda o volném obchodu s EU by měla podpořit ekonomické vazby.",
-      "slug": "beyond-the-fta-ai-emerging-as-new-pillar-of-india-",
-      "publishedAt": "2026-02-18T16:35:06+00:00",
-      "date": "2026-02-18 16:35:06",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://img.etimg.com/thumb/msid-128516527,width-1200,height-630,imgsize-32806,overlay-economictimes/articleshow.jpg",
-      "url": "/tech-news/2026-02-18/beyond-the-fta-ai-emerging-as-new-pillar-of-india/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [],
-      "people": [
-        "Narendra Modi",
-        "Pedro Sanchez"
-      ]
-    },
-    {
-      "title": "Generativní umělá inteligence nyní dokáže hodnotit zkoušky na právnických fakultách; co přijde dál?",
-      "description": "Generativní AI dosáhla nového milníku: dokáže hodnotit zkoušky na právnických fakultách s přesností blízkou lidské. Podcast Legal Rebels diskutuje výzkum Daniela Schwarze a implikace pro právní vzdělávání.",
-      "slug": "generative-ai-is-now-capable-of-grading-law-school",
-      "publishedAt": "2026-02-18T16:27:00+00:00",
-      "date": "2026-02-18 16:27:00",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.abajournal.com/images/main_images/exam_options_computer_Shutterstock.png",
-      "url": "/tech-news/2026-02-18/generative-ai-is-now-capable-of-grading-law-school/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Abajournal.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Chyba v Copilot umožňuje AI číst důvěrné e-maily v Outlooku",
-      "description": "Asistent Microsoft Copilot v Microsoft 365 má kritickou chybu, která umožňuje umělé inteligenci skenovat a shrnovat e-maily označené jako důvěrné v Outlooku, včetně složek Odeslané a Koncepty. Microsoft zavádí opravu, ale není jasný časový rámec, což zvyšuje obavy z ochrany soukromí a spolehlivosti AI.",
-      "slug": "copilot-bug-allows-ai-to-read-confidential-outlook",
-      "publishedAt": "2026-02-18T16:22:12+00:00",
-      "date": "2026-02-18 16:22:12",
-      "importance": 5,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://www.pcworld.com/wp-content/uploads/2026/02/image_930daa.png?w=1024",
-      "url": "/tech-news/2026-02-18/copilot-bug-allows-ai-to-read-confidential-outlook/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "PCWorld"
-      },
-      "companies": [
-        "Microsoft"
-      ],
-      "people": []
-    },
-    {
-      "title": "Uber investuje 100 milionů dolarů do nabíjecí infrastruktury pro robotaxi",
-      "description": "Uber plánuje vložit 100 milionů dolarů do výstavby nabíjecích stanic pro elektromobily určené robotaxi. Investice začíná v Los Angeles, San Francisco Bay Area a Dallasu a má podporovat partneřství s firmami jako Waymo, WeRide nebo Nuro.",
-      "slug": "uber-putting-100-million-into-ev-charging-for-robo",
-      "publishedAt": "2026-02-18T16:06:49+00:00",
-      "date": "2026-02-18 16:06:49",
-      "importance": 4,
-      "category": "elektromobilita",
-      "urlToImage": "https://cleantechnica.com/wp-content/uploads/2025/05/Uber-WeRide-robotaxi-in-Abu-Dhabi-UAE.jpg",
-      "url": "/tech-news/2026-02-18/uber-putting-100-million-into-ev-charging-for-robo/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CleanTechnica"
-      },
-      "companies": [
-        "Uber",
-        "Tesla"
-      ],
-      "people": [
-        "Travis Kalanick",
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Claude Sonnet 4.6 se blíží schopnostem Opus 4.6 a Anthropic zavádí vyšší bezpečnostní kontroly",
-      "description": "Claude Sonnet 4.6, nejnovější středně pokročilý model umělé inteligence od Anthropic, zužuje rozdíl se svým vlajkovým modelem Opus 4.6 v klíčových oblastech, jako je programování, matematické uvažování a autonomní prohlížení webu. Firma zároveň aplikuje přísnější rizikové opatření kvůli rostoucím schopnostem modelu.",
-      "slug": "claude-sonnet-46-nears-opus-46-abilities-anthropic",
-      "publishedAt": "2026-02-18T12:22:51+00:00",
-      "date": "2026-02-18 12:22:51",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/02/claude-sonnet-46-benchmark-comparison_optimized.jpg",
-      "url": "/tech-news/2026-02-18/claude-sonnet-46-nears-opus-46-abilities-anthropic/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [
-        "Anthropic"
-      ],
-      "people": []
-    },
-    {
-      "title": "Sensex a Nifty uzavřely třetí den v řadě výš, rout v IT sektoru však omezil zisky",
-      "description": "Sensex vzrostl o 283,29 bodu, tj. 0,34 %, na uzavírací hodnotu 83 734,25, zatímco Nifty získal 93,95 bodu, tj. 0,37 %, na 25 819,35.",
-      "slug": "sensex-nifty-end-higher-for-third-straight-day-but",
-      "publishedAt": "2026-02-18T12:09:49+00:00",
-      "date": "2026-02-18 12:09:49",
-      "importance": 4,
-      "category": "burza",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/g7cojj/article70647439.ece/alternates/LANDSCAPE_1200/PO11_Chart.jpg",
-      "url": "/tech-news/2026-02-18/sensex-nifty-end-higher-for-third-straight-day-but/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Čínští tančící roboti: jak moc bychom se měli obávat?",
-      "description": "Humanoidní roboti vystupovali v pondělí na ročním Spring Festival Gala Čínské mediální skupiny, největší oficiální televizní show v Číně. Prováděli výpady, backflipy s přistáním na kolenou, otočky a skoky bez jediného pádu.",
-      "slug": "chinas-dancing-robots-how-worried-should-we-be",
-      "publishedAt": "2026-02-18T11:59:49+00:00",
-      "date": "2026-02-18 11:59:49",
-      "importance": 4,
-      "category": "tech",
-      "urlToImage": null,
-      "url": "/tech-news/2026-02-18/chinas-dancing-robots-how-worried-should-we-be/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Proč dnes rostou akcie Nvidia, Amazonu, Mety a Microsoftu? Co očekávat od indexů S&P 500, Nasdaq a Dow?",
-      "description": "Americký akciový trh: Širší AI-spojené a megacap technologické akcie ztrácely půdu pod nohama, protože investoři hledali silnější důkazy, že masivní investice do technologie hmatatelně zvyšují příjmy a zisky.",
-      "slug": "why-are-nvidia-amazon-meta-microsoft-stocks-share-",
-      "publishedAt": "2026-02-18T11:57:44+00:00",
-      "date": "2026-02-18 11:57:44",
-      "importance": 4,
-      "category": "burza",
-      "urlToImage": "https://img.etimg.com/thumb/msid-128506339,width-1200,height-630,imgsize-248936,overlay-economictimes/articleshow.jpg",
-      "url": "/tech-news/2026-02-18/why-are-nvidia-amazon-meta-microsoft-stocks-share/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Nvidia",
-        "Amazon",
-        "Meta",
-        "Microsoft"
-      ],
-      "people": []
-    },
-    {
-      "title": "Eric Schmidt: 'Nechybí nám elektřina,' navrhuje datová centra ve vesmíru — šéf SpaceX Elon Musk vtipkuje: 'Kdyby jen existovala firma'",
-      "description": "Bývalý šéf Google Eric Schmidt varoval, že USA potřebují dalších 92 gigawattů energie kvůli růstu umělé inteligence. Šéf SpaceX Elon Musk na to reagoval narážkou na svou firmu, která by mohla stavět datová centra ve vesmíru.",
-      "slug": "eric-schmidt-says-were-running-out-of-electricity-",
-      "publishedAt": "2026-02-18T11:45:25+00:00",
-      "date": "2026-02-18 11:45:25",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://s.yimg.com/os/en/Benzinga/dfad7235c9f4b3f7f33596ee551a60e7",
-      "url": "/tech-news/2026-02-18/eric-schmidt-says-were-running-out-of-electricity/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "companies": [
-        "Google",
-        "SpaceX"
-      ],
-      "people": [
-        "Eric Schmidt",
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "NPCI spolupracuje s Nvidia na rozvoji suverénní AI infrastruktury pro digitální platby v Indii",
-      "description": "Národní korporace pro platební systémy Indie (NPCI) oznámila spolupráci s Nvidia na škálování suverénního AI modelu pro indický platební ekosystém. Iniciativa se zaměřuje na podporu velkých real-time platebních systémů s důrazem na důvěru, odolnost, bezpečnost a rozvoj ekosystému.",
-      "slug": "npci-collaborates-with-nvidia-to-advance-indias-so",
-      "publishedAt": "2026-02-18T08:14:00+00:00",
-      "date": "2026-02-18 08:14:00",
-      "importance": 4,
-      "category": "digitální platby",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-16950,resizemode-75,msid-128498830/tech/technology/npci-collaborates-with-nvidia-to-advance-indias-sovereign-ai-infrastructure-for-digital-payments.jpg",
-      "url": "/tech-news/2026-02-18/npci-collaborates-with-nvidia-to-advance-indias-so/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": []
-    },
-    {
-      "title": "Qualcomm slibuje až 150 milionů dolarů na podporu AI startupů v Indii",
-      "description": "Americká společnost Qualcomm plánuje investovat až 150 milionů dolarů do indických startupů prostřednictvím nového fondu zaměřeného na umělou inteligenci. Tento krok podtrhuje strategii rozšíření AI na zařízeních a sektorově specifických řešení v jednom z nejrychleji rostoucích technologických trhů světa.",
-      "slug": "qualcomm-commits-up-to-us150-million-to-back-ai-st",
-      "publishedAt": "2026-02-18T07:02:43+00:00",
-      "date": "2026-02-18 07:02:43",
-      "importance": 4,
-      "category": "ai startupy",
-      "urlToImage": "https://img.digitimes.com/newsshow/20260218vl209_files/1_2b.jpg",
-      "url": "/tech-news/2026-02-18/qualcomm-commits-up-to-us150-million-to-back-ai-st/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Digitimes"
-      },
-      "companies": [
-        "Qualcomm"
-      ],
-      "people": []
-    },
-    {
-      "title": "Kvantové počítání pro vývojáře: Už ne vědecká fantastika",
-      "description": "Článek popisuje přechod kvantového počítání z akademického výzkumu do produkčních nasazení díky nástrojům Qiskit a Q#. V roce 2025 IBM, Microsoft a Google předvedly pokročilé procesory s praktickými aplikacemi v farmacii a financích.",
-      "slug": "quantum-computing-for-developers-not-science-ficti",
-      "publishedAt": "2026-02-18T06:48:00+00:00",
-      "date": "2026-02-18 06:48:00",
-      "importance": 5,
-      "category": "kvantové počítání",
-      "urlToImage": "https://www.javacodegeeks.com/wp-content/uploads/2012/10/software-development-2-logo.jpg",
-      "url": "/tech-news/2026-02-18/quantum-computing-for-developers-not-science-ficti/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Javacodegeeks.com"
-      },
-      "companies": [
-        "IBM"
-      ],
-      "people": []
-    },
-    {
-      "title": "Qualcomm slibuje až 150 milionů dolarů na strategický fond pro umělou inteligenci v Indii",
-      "description": "Oznámení přichází souběžně s účastí generálního ředitele Qualcomma Cristiana Amona na summitu India AI Impact v New Delhi.",
-      "slug": "qualcomm-commits-up-to-150-mn-for-strategic-ai-ven",
-      "publishedAt": "2026-02-18T06:45:14+00:00",
-      "date": "2026-02-18 06:45:14",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/et504e/article70643181.ece/alternates/LANDSCAPE_1200/2026-02-04T232650Z_1815185476_RC2KEGAGOWC4_RTRMADP_3_QUALCOMM-RESULTS.JPG",
-      "url": "/tech-news/2026-02-18/qualcomm-commits-up-to-150-mn-for-strategic-ai-ven/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "companies": [
-        "Qualcomm"
-      ],
-      "people": [
-        "Cristiano Amon"
-      ]
-    },
-    {
-      "title": "Událost Apple 4. března: Co potřebujete vědět",
-      "description": "Apple oficiálně potvrdilo událost 4. března v New Yorku, Šanghaji a Londýně, zaměřenou na aktualizace budgetové a střední řady produktů. Mezi hlavními tématy budou iPhone 17e, iPad 12. generace a nový MacBook za 599 dolarů.",
-      "slug": "march-4th-apple-event-what-you-need-to-know",
-      "publishedAt": "2026-02-18T06:30:10+00:00",
-      "date": "2026-02-18 06:30:10",
-      "importance": 4,
-      "category": "hardware",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/02/iphone-17e-dynamic-island-purple-color_optimized.jpg",
-      "url": "/tech-news/2026-02-18/march-4th-apple-event-what-you-need-to-know/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": []
-    },
-    {
-      "title": "Asijské akcie rostou, zatímco většina trhů zůstává zavřená kvůli Novému roku podle lunárního kalendáře",
-      "description": "Akcie v Asii mírně rostou, přičemž japonský benchmark index vzrostl o více než 1 procento po klidném závěru amerických trhů. Většina asijských burz zůstala zavřená kvůli svátkům Nového roku, americké futures stagnují a ceny ropy lehce stoupají.",
-      "slug": "asian-shares-rise-while-most-markets-stay-closed-f",
-      "publishedAt": "2026-02-18T04:57:25+00:00",
-      "date": "2026-02-18 04:57:25",
-      "importance": 4,
-      "category": "finanční trhy",
-      "urlToImage": "https://dims.apnews.com/dims4/default/a15cd71/2147483647/strip/true/crop/9080x6050+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa6%2Fd7%2F808aaa9df083337c69f25a53d86c%2F8cb67b0d47044f69b6fe177a5c749d4b",
-      "url": "/tech-news/2026-02-18/asian-shares-rise-while-most-markets-stay-closed-f/",
-      "source": {
-        "emoji": "📰",
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Samsung se snaží zvýšit produkci čipů HBM4 pro Nvidia",
-      "description": "Samsung zahájil hromadnou výrobu čipů vysokopásmové paměti šesté generace HBM4 jako první společnost na světě. Nyní se snaží výrobu urychlit zavedením pokročilého balení polovodičů, aby uspokojila poptávku od Nvidia.",
-      "slug": "samsung-is-trying-to-boost-hbm4-chip-production-fo",
-      "publishedAt": "2026-02-18T04:54:05+00:00",
-      "date": "2026-02-18 04:54:05",
-      "importance": 4,
-      "category": "polovodiče",
-      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2025/12/Nvidia-Vera-Rubin-NVL144-Tray-AI-Platform-1200x675.jpg",
-      "url": "/tech-news/2026-02-18/samsung-is-trying-to-boost-hbm4-chip-production-fo/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SamMobile"
-      },
-      "companies": [
-        "Samsung",
-        "Nvidia"
-      ],
-      "people": []
-    },
-    {
-      "title": "Tesla se vyhnula zákazu prodeje v Kalifornii kvůli zavádějícímu marketingu",
-      "description": "Texasový výrobce automobilů Tesla ukončil svůj systém Autopilot a přidal do marketingu systému Full Self-Driving označení 'Supervised'. Díky těmto změnám regulační orgány v Kalifornii stornovaly hrozbu 30denního zákazu prodeje vozidel.",
-      "slug": "tesla-dodges-sales-halt-in-california-over-decepti",
-      "publishedAt": "2026-02-18T04:44:51+00:00",
-      "date": "2026-02-18 04:44:51",
-      "importance": 4,
-      "category": "elektromobilita",
-      "urlToImage": "https://s.hdnux.com/photos/01/63/21/02/30216334/3/rawImage.jpg",
-      "url": "/tech-news/2026-02-18/tesla-dodges-sales-halt-in-california-over-decepti/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Austin American-Statesman"
-      },
-      "companies": [
-        "Tesla"
-      ],
-      "people": []
-    },
-    {
-      "title": "Akcie Eternal stabilní po spolupráci s OpenAI",
-      "description": "Společnosti uzavírají partnerství zaměřené na rozvoj schopností umělé inteligence napříč podniky Eternal, včetně platforem Zomato a Blinkit.",
-      "slug": "eternal-shares-steady-on-openai-collaboration",
-      "publishedAt": "2026-02-18T04:41:51+00:00",
-      "date": "2026-02-18 04:41:51",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/14uzjk/article70536937.ece/alternates/LANDSCAPE_1200/2025-07-22T042644Z_2102399517_RC2E0V9OZL8A_RTRMADP_3_ETERNAL-STOCKS.JPG",
-      "url": "/tech-news/2026-02-18/eternal-shares-steady-on-openai-collaboration/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "companies": [
-        "Eternal",
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Závod o nejlepší AI infrastrukturu nabírá na obrátkách: AMD popírá zpoždění Instinct MI455X, přetrvávají obavy z nasazení ve velkém měřítku",
-      "description": "Nová řada Instinct MI400 od AMD se dostala pod kritiku po zprávách o posunu termínu, vedení společnosti to však popřelo. Instinct MI455X čelí problémům s integrací N2, přesto AMD očekává nasazení v druhé polovině roku 2026.",
-      "slug": "the-race-for-who-has-the-best-ai-infrastructure-he",
-      "publishedAt": "2026-02-18T04:39:00+00:00",
-      "date": "2026-02-18 04:39:00",
-      "importance": 4,
-      "category": "ai infrastruktura",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/02/CES-2026-Helios-Rack-Close-up.jpg",
-      "url": "/tech-news/2026-02-18/the-race-for-who-has-the-best-ai-infrastructure-he/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Wccftech"
-      },
-      "companies": [
-        "AMD"
-      ],
-      "people": []
-    },
-    {
-      "title": "Indie patří mezi klíčová centra AI inovací, NVIDIA posiluje partnerství v zemi",
-      "description": "NVIDIA spolupracuje s poskytovateli cloudových služeb Yotta, L&T a E2E Networks na výstavbě pokročilých AI továren, které mají uspokojit rostoucí poptávku po výpočetním výkonu pro umělou inteligenci v Indii. Podle ředitele NVIDIA pro jižní Asii je Indie důležitým centrem AI díky své bázi vývojářů a startupů.",
-      "slug": "india-among-key-hubs-for-ai-innovation-company-dee",
-      "publishedAt": "2026-02-18T04:17:13+00:00",
-      "date": "2026-02-18 04:17:13",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/uct23w/article70573156.ece/alternates/LANDSCAPE_1200/2026-01-26T163407Z_1911647941_RC2KEGAJJWFR_RTRMADP_3_VIDIA-COREWEAVE-INVESTMENT.JPG",
-      "url": "/tech-news/2026-02-18/india-among-key-hubs-for-ai-innovation-company-dee/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "companies": [
-        "NVIDIA",
-        "Yotta",
-        "L&T",
-        "E2E Networks"
-      ],
-      "people": []
-    },
-    {
-      "title": "Denní shrnutí: Premiér Modi oceňuje partnerství při posílení strategických vazeb Indie a Francie",
-      "description": "Premiér Narendra Modi navštívil stánky na veletrhu India AI Impact Summit Expo 2026 a Indie s Francií povýšily své bilaterální vztahy na úroveň speciální globální strategické partnerství po jednáních v Bombaji.",
-      "slug": "daily-briefing-pm-modi-hails-partnership-as-india-",
-      "publishedAt": "2026-02-18T04:15:18+00:00",
-      "date": "2026-02-18 04:15:18",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://images.indianexpress.com/2026/02/Newsletter-morning-expresso-Final-1600x900-6.jpg",
-      "url": "/tech-news/2026-02-18/daily-briefing-pm-modi-hails-partnership-as-india/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "The Indian Express"
-      },
-      "companies": [],
-      "people": [
-        "Narendra Modi",
-        "Abhishek Sharma"
-      ]
-    },
-    {
-      "title": "Nvidia spolupracuje s významnými indickými venture capital firmami při hledání dalších AI startupů",
-      "description": "Nvidia rozšiřuje partnerství v Indii, včetně s venture capital firmami, protože vsází na tamní ekosystém umělé inteligence, který přitahuje masivní investice velkých technologických společností.",
-      "slug": "nvidia-is-partnering-with-major-indian-vc-firms-in",
-      "publishedAt": "2026-02-18T03:51:46+00:00",
-      "date": "2026-02-18 03:51:46",
-      "importance": 4,
-      "category": "ai startupy",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108238981-1765286153900-gettyimages-2153607836-INDIA_YOTTA_NVIDIA.jpeg?v=1771381315&w=1920&h=1080",
-      "url": "/tech-news/2026-02-18/nvidia-is-partnering-with-major-indian-vc-firms-in/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNBC"
-      },
-      "companies": [
-        "Nvidia"
-      ],
-      "people": []
-    },
-    {
-      "title": "Render získal dalších 100 milionů dolarů pro svou cloudovou platformu optimalizovanou pro AI",
-      "description": "Cloudový startup Render Services Inc. získal 100 milionů dolarů od investorů při valuaci 1,5 miliardy dolarů. Jedná se o rozšíření kola Series C z ledna, které vedl fond Georgian, zapojili se i Addition, Bessemer Venture Partners, General Catalyst a 01 Advisors.",
-      "slug": "render-raises-100m-more-for-its-ai-optimized-cloud",
-      "publishedAt": "2026-02-18T01:01:28+00:00",
-      "date": "2026-02-18 01:01:28",
-      "importance": 4,
-      "category": "startupy",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/cloud.jpg",
-      "url": "/tech-news/2026-02-18/render-raises-100m-more-for-its-ai-optimized-cloud/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Render Services Inc",
-        "Georgian"
-      ],
-      "people": []
-    },
-    {
-      "title": "Indie posiluje svou misi v umělé inteligenci s NVIDIA",
-      "description": "Od lídrů infrastruktury pro umělou inteligenci po vývojáře hraničních modelů Indie spolupracuje s NVIDIA na prosazení transformace umělou inteligencí v celé zemi.",
-      "slug": "india-fuels-its-ai-mission-with-nvidia",
-      "publishedAt": "2026-02-18T00:30:49+00:00",
-      "date": "2026-02-18 00:30:49",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://blogs.nvidia.com/wp-content/uploads/2026/02/ai-infra-corp-blog-india-impact-summit-2026-1280x680-1.png",
-      "url": "/tech-news/2026-02-18/india-fuels-its-ai-mission-with-nvidia/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Nvidia.com"
-      },
-      "companies": [
-        "NVIDIA"
-      ],
-      "people": []
-    },
-    {
-      "title": "NVIDIA spolupracuje s globálními lídry v průmyslovém softwaru a největšími indickými výrobci na rozvoji AI v průmyslu",
-      "description": "Indie investuje 134 miliard dolarů do nové výrobní kapacity v oblastech stavebnictví, automobilového průmyslu, obnovitelných zdrojů energie a robotiky. Největší domácí výrobci spolupracují s NVIDIA, Siemens, Cadence a Synopsys na zavádění AI nástrojů pro software definované továrny od prvního dne.",
-      "slug": "nvidia-and-global-industrial-software-leaders-part",
-      "publishedAt": "2026-02-18T00:30:32+00:00",
-      "date": "2026-02-18 00:30:32",
-      "importance": 4,
-      "category": "průmyslové ai",
-      "urlToImage": "https://blogs.nvidia.com/wp-content/uploads/2026/02/NVIDIA-India-AI-Impact-Summit-Indias-Manufacturers-Drive-AI-Boom-scaled.jpg",
-      "url": "/tech-news/2026-02-18/nvidia-and-global-industrial-software-leaders-part/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Nvidia.com"
-      },
-      "companies": [
-        "NVIDIA"
-      ],
-      "people": []
-    },
-    {
-      "title": "Google chce spolupracovat s Indií na její cestě k umělé inteligenci: CEO Sundar Pichai",
-      "description": "Generální ředitel Google Sundar Pichai prohlásil, že společnost chce být partnerem Indie v celém spektru umělé inteligence během éry rychlého pokroku této technologie. Představil plán kapitálových výdajů 185 miliard dolarů na výpočetní kapacity, modely, infrastrukturu, energii a výzkum, přičemž Google již spolupracuje s místními firmami na budování AI infrastruktury.",
-      "slug": "google-wants-to-partner-india-in-its-ai-trajectory",
-      "publishedAt": "2026-02-18T00:30:00+00:00",
-      "date": "2026-02-18 00:30:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-38280,resizemode-75,msid-128478089/tech/artificial-intelligence/google-wants-to-partner-india-in-its-ai-trajectory-google-ceo-sundar-pichai.jpg",
-      "url": "/tech-news/2026-02-18/google-wants-to-partner-india-in-its-ai-trajectory/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": [
-        "Sundar Pichai"
-      ]
-    },
-    {
-      "title": "Meta a Nvidia uzavírají rozsáhlou víceletou dohodu na nové generace GPU, samostatné CPU a AI infrastrukturu",
-      "description": "Meta a Nvidia oznámily víceleté partnerství na rozšíření AI infrastruktury, včetně rozsáhlého nasazení procesorů Nvidia Grace CPU, Blackwell GPU a systémů Vera Rubin další generace. Dohoda zahrnuje nasazení miliónů procesorů v datových centrech Meta.",
-      "slug": "meta-nvidia-ink-massive-multiyear-deal-for-next-ge",
-      "publishedAt": "2026-02-18T00:02:57+00:00",
-      "date": "2026-02-18 00:02:57",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2026/02/17/1600x900/logo/China-Meta-Manus-0_1767874553055_1767874568831_1771372367661.jpg",
-      "url": "/tech-news/2026-02-18/meta-nvidia-ink-massive-multiyear-deal-for-next-ge/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Livemint"
-      },
-      "companies": [
-        "Meta",
-        "NVIDIA"
-      ],
-      "people": []
-    },
-    {
-      "title": "Anthropic a Infosys oznámily strategické partnerství k rozšíření adopce AI v podnicích",
-      "description": "Anthropic a Infosys uzavírají partnerství k urychlení adopce AI v podnicích pomocí modelů Claude. Očekávají se škálovatelné a zodpovědné AI řešení napříč průmyslovými odvětvími po celém světě.",
-      "slug": "anthropic-and-infosys-announce-strategic-partnersh",
-      "publishedAt": "2026-02-18T00:00:00+00:00",
-      "date": "2026-02-18 00:00:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.c-sharpcorner.com/images/csharp-corner-new.png",
-      "url": "/tech-news/2026-02-18/anthropic-and-infosys-announce-strategic-partnersh/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "C-sharpcorner.com"
-      },
-      "companies": [
-        "Anthropic",
-        "Infosys"
       ],
       "people": []
     }
