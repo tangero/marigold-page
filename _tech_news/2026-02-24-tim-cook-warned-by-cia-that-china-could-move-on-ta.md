@@ -1,53 +1,52 @@
 ---
 author: Marisa Aigen
-category: geopolitika
+category: polovodiče
 companies:
 - Apple
-date: '2026-02-24 12:03:52'
-description: Generální ředitel Apple Tim Cook se zúčastnil tajného brífinku CIA, kde
-  byl varován před možným útokem Číny na Tchaj-wan do roku 2027. Setkání uspořádané
-  ministryní obchodu mělo přesvědčit špičky technologických firem k přesunu výroby
-  čipů mimo Tchaj-wan.
+- TSMC
+date: '2026-02-24 19:52:14'
+description: Šéf Applu Tim Cook obdržel utajené varování od CIA, že Čína by mohla
+  do roku 2027 zahájit vojenskou akci proti Tchaj-wanu, což by ohrozilo globální dodávky
+  pokročilých polovodičů z TSMC. Schůzky se zúčastnili i šéfové Nvidia, AMD a Qualcomm.
 importance: 4
 layout: tech_news_article
-original_title: Tim Cook Warned by CIA That China Could Move on Taiwan by 2027
+original_title: Tim Cook warned by CIA that China could move on Taiwan by 2027, report
+  says
 people:
 - Tim Cook
-publishedAt: '2026-02-24T12:03:52+00:00'
+publishedAt: '2026-02-24T19:52:14+00:00'
 slug: tim-cook-warned-by-cia-that-china-could-move-on-ta
 source:
   emoji: 📰
-  id: null
-  name: MacRumors
-title: Generální ředitel Apple Tim Cook varován CIA před možným útokem Číny na Tchaj-wan
-  do roku 2027
-url: https://www.macrumors.com/2026/02/24/tim-cook-warned-by-cia-china-taiwan-2027/
-urlToImage: https://images.macrumors.com/t/B6yv8bGbn_OH4c89uRHGLVJU18M=/1600x/article-new/2021/01/tim-cook-data-privacy-day.jpg
-urlToImageBackup: https://images.macrumors.com/t/B6yv8bGbn_OH4c89uRHGLVJU18M=/1600x/article-new/2021/01/tim-cook-data-privacy-day.jpg
+  id: the-times-of-india
+  name: The Times of India
+title: Tim Cook varován CIA před možným útokem Číny na Tchaj-wan do roku 2027, uvádí
+  zpráva
+url: https://economictimes.indiatimes.com/news/international/us/tim-cook-warned-by-cia-that-china-could-move-on-taiwan-by-2027-report-says/articleshow/128761224.cms
+urlToImage: https://img.etimg.com/thumb/msid-128761248,width-1200,height-630,imgsize-31906,overlay-economictimes/articleshow.jpg
+urlToImageBackup: https://img.etimg.com/thumb/msid-128761248,width-1200,height-630,imgsize-31906,overlay-economictimes/articleshow.jpg
 ---
 
-### Souhrn
-Generální ředitel Apple Tim Cook byl v červenci 2023 mezi špičkami technologického průmyslu, které se zúčastnily utajeného brífinku CIA v Silicon Valley. Americká rozvědka varovala před možným vojenským tažením Číny proti Tchaj-wanu do roku 2027, což ohrožuje globální dodavatelský řetězec polovodičů. Setkání iniciovala tehdejší ministryně obchodu Gina Raimondo kvůli neochotě firem diverzifikovat výrobu mimo tchajwanskou společnost TSMC.
+## Souhrn
+Šéf Applu Tim Cook a další vrcholoví manažeři technologických firem dostali v červenci 2023 utajené varování od CIA ohledně možného vojenského postupu Číny na Tchaj-wan do roku 2027. Toto riziko přímo ohrožuje dodávky polovodičů od taiwanské společnosti TSMC, která vyrábí přibližně 90 procent světově nejpokročilejších čipů včetně těch pro Apple, Nvidia a AMD. Schůzka byla uspořádána na žádost ministryně obchodu Giny Raimondo kvůli neochotě tech průmyslu přesouvat výrobu mimo Tchaj-wan.
 
-### Klíčové body
-- Účastníci: Tim Cook (Apple), Jensen Huang (Nvidia), Lisa Su (AMD), Cristiano Amon (Qualcomm).
-- Prezentace: Ředitel CIA William Burns a ředitelka národní inteligence Avril Haines sdělili nejnovější zprávy o čínských vojenských plánech.
-- Reakce Cooka: Po setkání uvedl, že od té doby spí „s jedním okem otevřeným".
-- Kontext: Podobný brífink proběhl v Bílém domě v roce 2021, tehdy však manažeři zůstali skeptičtí.
-- Cíl USA: Podpora výstavby domácích továren na čipy prostřednictvím CHIPS and Science Act s dotacemi 50 miliard dolarů.
+## Klíčové body
+- Účastníci schůzky: Tim Cook (Apple), Jensen Huang (Nvidia), Lisa Su (AMD), Cristiano Amon (Qualcomm).
+- Prezentace provedli ředitel CIA William Burns a řeřiše národní inteligence Avril Haines v zabezpečené místnosti v Silicon Valley.
+- Cook po schůzce uvedl, že od té doby spí „s jedním okem otevřeným", což podtrhuje vážnost situace.
+- TSMC dominuje výrobou čipů pro iPhony, Macy, GPU pro AI od Nvidia a procesory AMD.
+- Varování souvisí s frustrací USA z přílišné závislosti na tchajwanských polovodičích.
 
-### Podrobnosti
-Brífink proběhl v zabezpečené místnosti v Silicon Valley a byl součástí širší snahy Bidenovy administrativy omezit závislost na tchajwanských polovodičích. Tchajwanská společnost TSMC, největší světový výrobce pokročilých čipů, dominuje trhu s technologiemi pod 5 nanometrů, které pohánějí grafické procesory (GPU) pro trénink modelů umělé inteligence, jako jsou Nvidia H100 nebo AMD Instinct. Podle investigativního reportu The New York Times z 24. února 2026, který odhaluje dosud neznámé detaily, bylo setkání výsledkem frustrace ministryně Raimondo z nečinnosti technologického sektoru.
+## Podrobnosti
+Schůzka proběhla v červenci 2023 v Silicon Valley a byla iniciována ministryní obchodu Ginou Raimondo, která byla podrážděná neochotou technologického průmyslu diverzifikovat výrobu polovodičů mimo Tchaj-wan. Podle zprávy New York Times, citované Macrumors, představili ředitel CIA William Burns a řeřiše národní inteligence Avril Haines manažerům podrobné zpravodajské informace o čínských vojenských plánech. Tyto plány zahrnují potenciální invazi na Tchaj-wan, který je klíčovým výrobním centrem pro TSMC – největší světovou slitinu na zakázku (foundry), specializující se na výrobu čipů v nejpokročilejších technologiích jako 3nm nebo 2nm procesy.
 
-Národní bezpečnostní poradce Jake Sullivan označil závislost na tchajwanských čipech za jednu z největších zranitelností USA. V rozhovoru pro NYT řekl: „Říkali jsme: Tohle je šílenství. Musíme s tím něco udělat.“ Prezident Bidenova administrativa prosadila v roce 2022 zákon CHIPS and Science Act, který přiděluje 50 miliard dolarů na výstavbu polovodičových továren v USA. TSMC již reagovala plány na továrny v Arizoně, ale plná diverzifikace potrvá roky kvůli složitosti výroby.
+TSMC vyrábí například Apple Silicon (série A a M pro iPhony, iPady a Macy), GPU pro trénink AI modelů od Nvidia (jako H100 pro velké jazykové modely typu GPT), procesory AMD pro servery a PC i čipy Qualcomm pro mobilní zařízení. Závislost USA a Západu na TSMC je extrémní: firma pokrývá 90 procent globální poptávky po čipech s finální geometrií pod 7 nm, nezbytných pro AI, vysokovýkonná výpočetní technika a autonomní systémy. Raimondo a další úředníci tlačili na execy, aby urychlili přesun výroby do USA nebo spojenců, což podporuje zákon CHIPS Act z roku 2022 s investicemi 52 miliard dolarů do domácí polovodičové infrastruktury. Apple již investovalo 5 miliard dolarů do závodu TSMC v Arizoně, ale plná diverzifikace potrvá roky. Cookova reakce naznačuje, že varování změnilo vnímání rizik v kalifornských firmách, kde se Tchaj-wan dříve považoval spíše za stabilního partnera.
 
-Dříve, v roce 2021, senior americký vojenský představitel informoval Kongres, že čínský prezident Si Ťin-pching chce mít armádu připravenou na invazi do roku 2027. Předchozí brífink v Bílém domě byl méně úspěšný, protože mnoho informací již bylo veřejných. Nyní, s přímou konfrontací špiček jako Nvidia – jejíž GPU tvoří jádro AI tréninku – a AMD, se tlak zesílil. Cookova reakce naznačuje rostoucí obavy i v kalifornském Silicon Valley, kde se Tchaj-wan považuje za stabilního partnera.
-
-### Proč je to důležité
-Tato událost odhaluje křehkost globálního dodavatelského řetězce polovodičů, který je páteří AI, cloudu a výpočetní techniky. Pokud by Čína obsadila Tchaj-wan, výroba čipů by se mohla zastavit na měsíce či roky, což by způsobilo krizi v tréninku velkých jazykových modelů (LLM), autonomních vozidel a datových center. Firmy jako Nvidia, závislé na TSMC pro 80 % pokročilých GPU, čelí riziku nedostatku hardware. Pro průmysl to znamená urychlení investic do USA, Evropy a Japonska, ale i růst cen čipů. Jako expert na AI vidím zde klíčové riziko pro pokračování růstu AGI: bez stabilních GPU nebude možné škálovat modely jako GPT nebo Llama. Dlouhodobě to posiluje geopolitickou fragmentaci tech sektoru.
+## Proč je to důležité
+Toto varování odhaluje křehkost globálního řetězce dodávek polovodičů, který je základem moderního IT, AI a robotiky. Pokud by Čína obsadila Tchaj-wan, došlo by k okamžitému výpadku 90 procent pokročilých čipů, což by zastavilo výrobu iPhonů, serverů pro cloud AI (jako ty od OpenAI nebo Google), GPU pro trénink modelů jako GPT-5 nebo Llama a procesorů pro autonomní vozy Tesla. Pro AI průmysl by to znamenalo nedostatek výpočetního výkonu nutného pro školení velkých modelů, což by zpomalilo pokrok v AGI a generativní AI o roky. Robotika, závislá na čipech pro senzoriku a řízení (např. NVIDIA Jetson), by utrpěla podobně. Ekonomicky by to vyvolalo recesi v tech sektoru s miliardovými ztrátami – například Apple ztratilo by přístup k jádru svého Siliconu. USA reagují CHIPS Actem a exportními restrikcemi na čínské firmy jako Huawei, ale plná nezávislost na Asii potrvá dekádu. Tato událost nutí firmy jako Nvidia a AMD urychlit investice do alternativ (Intel, Samsung), což zvyšuje ceny čipů a ovlivňuje ceny koncových zařízení pro spotřebitele.
 
 ---
 
-[Číst původní článek](https://www.macrumors.com/2026/02/24/tim-cook-warned-by-cia-china-taiwan-2027/)
+[Číst původní článek](https://economictimes.indiatimes.com/news/international/us/tim-cook-warned-by-cia-that-china-could-move-on-taiwan-by-2027-report-says/articleshow/128761224.cms)
 
-**Zdroj:** 📰 MacRumors
+**Zdroj:** 📰 The Times of India

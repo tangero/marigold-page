@@ -1,7 +1,214 @@
 {
-  "generated": "2026-02-25T17:29:34.112177+00:00",
-  "count": 198,
+  "generated": "2026-02-25T20:56:26.395457+00:00",
+  "count": 200,
   "articles": [
+    {
+      "title": "Anthropic se nehodlá smířit v sporu s Pentagonem, tvrdí zdroj",
+      "description": "Laboratoř umělé inteligence Anthropic nemá v úmyslu uvolnit omezení pro vojenské použití svých technologií, uvedl zdroj po setkání s Pentagonem. Jednání pokračují po sporech o bezpečnostní prvky bránící autonomním zbraním a domácímu sledování.",
+      "slug": "anthropic-digs-in-heels-in-dispute-with-pentagon-s",
+      "publishedAt": "2026-02-24T20:23:20+00:00",
+      "date": "2026-02-24 20:23:20",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--LaUjptFU--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-02-24T202320Z_1_LYNXMPEM1N17D_RTROPTP_3_UKRAINE-CRISIS-USA.JPG?itok=ZMHRrbOR",
+      "url": "/tech-news/2026-02-24/anthropic-digs-in-heels-in-dispute-with-pentagon-s/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNA"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": []
+    },
+    {
+      "title": "Pentagon hrozí ukončením spolupráce s Anthropic kvůli sporu o podmínky použití AI",
+      "description": "Pentagon varoval společnost Anthropic PBC, že ukončí její vojenské kontrakty v pátek, pokud startup v oblasti umělé inteligence nesplní vládní podmínky pro použití své technologie, uvedli lidé obeznámení se situací.",
+      "slug": "pentagon-threatens-to-end-anthropic-work-in-feud-o",
+      "publishedAt": "2026-02-24T20:09:02+00:00",
+      "date": "2026-02-24 20:09:02",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_3_1733465099406_1733465108677.png",
+      "url": "/tech-news/2026-02-24/pentagon-threatens-to-end-anthropic-work-in-feud-o/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Livemint"
+      },
+      "companies": [
+        "Anthropic PBC"
+      ],
+      "people": []
+    },
+    {
+      "title": "Dohoda Meta a AMD v hodnotě miliard dolarů se týká AI čipů",
+      "description": "Meta získá podíl v výrobci čipů AMD výmenou za závazek koupit AI čipy v hodnotě miliard dolarů. Dohoda poskytne Metě až 6 gigawattů výpočetního výkonu pro vývoj umělé inteligence na platformách jako Instagram, Facebook a WhatsApp.",
+      "slug": "meta-and-amds-multibillion-dollar-deal-is-all-abou",
+      "publishedAt": "2026-02-24T20:09:00+00:00",
+      "date": "2026-02-24 20:09:00",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://www.cnet.com/a/img/resize/94a9a3d12edf871013e1ba0f311e84b04eba29b5/hub/2026/02/24/e82c5a2e-09db-4ced-afd0-12265b977455/21953350-2x-amd-instinct-mi200-face-updated.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "url": "/tech-news/2026-02-24/meta-and-amds-multibillion-dollar-deal-is-all-abou/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "CNET"
+      },
+      "companies": [
+        "Meta",
+        "AMD"
+      ],
+      "people": []
+    },
+    {
+      "title": "Podle AP: Hegseth varuje Anthropic, aby umožnil armádě neomezené použití firemní AI technologie",
+      "description": "Ministr obrany USA Pete Hegseth dal generálnímu řediteli Anthropicu lhůtu do pátku na otevření umělé inteligence pro volné vojenské využití, jinak hrozí ztráta vládní smlouvy, uvedl zdroj z jejich setkání.",
+      "slug": "ap-report-hegseth-warns-anthropic-to-let-the-milit",
+      "publishedAt": "2026-02-24T20:06:21+00:00",
+      "date": "2026-02-24 20:06:21",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2026/02/2026-02-06T165423Z_1780749485_RC2EGJAM64XM_RTRMADP_3_USA-DEFENSE-1-1024x693.jpg",
+      "url": "/tech-news/2026-02-24/ap-report-hegseth-warns-anthropic-to-let-the-milit/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "PBS"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": [
+        "Pete Hegseth"
+      ]
+    },
+    {
+      "title": "Tim Cook varován CIA před možným útokem Číny na Tchaj-wan do roku 2027, uvádí zpráva",
+      "description": "Šéf Applu Tim Cook obdržel utajené varování od CIA, že Čína by mohla do roku 2027 zahájit vojenskou akci proti Tchaj-wanu, což by ohrozilo globální dodávky pokročilých polovodičů z TSMC. Schůzky se zúčastnili i šéfové Nvidia, AMD a Qualcomm.",
+      "slug": "tim-cook-warned-by-cia-that-china-could-move-on-ta",
+      "publishedAt": "2026-02-24T19:52:14+00:00",
+      "date": "2026-02-24 19:52:14",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://img.etimg.com/thumb/msid-128761248,width-1200,height-630,imgsize-31906,overlay-economictimes/articleshow.jpg",
+      "url": "/tech-news/2026-02-24/tim-cook-warned-by-cia-that-china-could-move-on-ta/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Apple",
+        "TSMC"
+      ],
+      "people": [
+        "Tim Cook"
+      ]
+    },
+    {
+      "title": "Z laboratoře k výnosům: Strategie kvantového senzingu Infleqtion setkává ekosystém GPU od Nvidia",
+      "description": "Kvantové senzory opouštějí laboratoře a vstupují do reálných systémů, přičemž Nvidia je úzce integrovaná do jejich strategie. Společnost Infleqtion generuje výnosy z nasazených systémů a využívá současné produkty k financování dlouhodobějších cílů v kvantovém výpočtu.",
+      "slug": "rom-lab-to-revenue-infleqtions-quantum-sensing-str",
+      "publishedAt": "2026-02-24T19:49:34+00:00",
+      "date": "2026-02-24 19:49:34",
+      "importance": 4,
+      "category": "kvantové senzory",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Matthew-Kinsella-CEO-of-Infleqtion-AI-Factories-2026.png",
+      "url": "/tech-news/2026-02-24/rom-lab-to-revenue-infleqtions-quantum-sensing-str/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Infleqtion",
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Chvála od Anthropic posunula akcie Thomson Reuters mezi vítěze v AI",
+      "description": "Investoři se zaměřili na Thomson Reuters poté, co jejich právní AI nástroj CoCounsel získal uznání od Anthropic. Akcie firmy vyskočily až o 14 procent, což je největší denní nárůst za 26 let.",
+      "slug": "anthropic-shout-out-makes-thomson-reuters-stock-la",
+      "publishedAt": "2026-02-24T19:47:56+00:00",
+      "date": "2026-02-24 19:47:56",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/02/0225-mg-reuters.jpg",
+      "url": "/tech-news/2026-02-24/anthropic-shout-out-makes-thomson-reuters-stock-la/",
+      "source": {
+        "emoji": "📰",
+        "id": "financial-post",
+        "name": "Financial Post"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": []
+    },
+    {
+      "title": "Jak jedna AI společnost pomáhá firmám zvládat chaos nových cel Trumpa po rozhodnutí Nejvyššího soudu",
+      "description": "Navíc chaotický AI Impact Summit končí v Indii a Anthropic obviňuje čínské konkurenty z použití odpovědí Claude k tréninku svých modelů.",
+      "slug": "how-one-ai-company-is-helping-businesses-navigate-",
+      "publishedAt": "2026-02-24T19:39:56+00:00",
+      "date": "2026-02-24 19:39:56",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2261712801-e1771958612630.jpg?resize=1200,600",
+      "url": "/tech-news/2026-02-24/how-one-ai-company-is-helping-businesses-navigate/",
+      "source": {
+        "emoji": "📰",
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": [
+        "Donald Trump"
+      ]
+    },
+    {
+      "title": "Umělá inteligence by mohla ohrozit práci řidičů marsovských roverů NASA po prvním testu",
+      "description": "Obavy z pokročilé umělé inteligence, která by převzala vaši práci, jsou oprávněné i tehdy, když řídíte jeden z nejpokročilejších roverů. NASA úspěšně otestovala AI pro autonomní navigaci Perseverance na Marsu.",
+      "slug": "ai-might-be-coming-for-nasa-mars-rover-drivers-job",
+      "publishedAt": "2026-02-24T19:17:00+00:00",
+      "date": "2026-02-24 19:17:00",
+      "importance": 4,
+      "category": "kosmonautika",
+      "urlToImage": "https://www.bgr.com/img/gallery/ai-might-be-coming-for-nasa-mars-rover-drivers-job-after-its-first-test-run/l-intro-1771861903.jpg",
+      "url": "/tech-news/2026-02-24/ai-might-be-coming-for-nasa-mars-rover-drivers-job/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BGR"
+      },
+      "companies": [
+        "NASA"
+      ],
+      "people": []
+    },
+    {
+      "title": "Čínští tančící roboti jsou budíčkem pro Austrálii v otázkách politiky a produktivity",
+      "description": "V australských politických nastaveních existují významné mezery, pokud máme dohnat novou robotiku poháněnou umělou inteligencí.",
+      "slug": "chinas-dancing-robots-are-a-wake-up-call-for-austr",
+      "publishedAt": "2026-02-24T19:11:01+00:00",
+      "date": "2026-02-24 19:11:01",
+      "importance": 5,
+      "category": "robotika",
+      "urlToImage": "https://images.theconversation.com/files/719826/original/file-20260223-56-s9iits.jpg?ixlib=rb-4.1.0&rect=0%2C424%2C8226%2C4113&q=45&auto=format&w=1356&h=668&fit=crop",
+      "url": "/tech-news/2026-02-24/chinas-dancing-robots-are-a-wake-up-call-for-austr/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "companies": [],
+      "people": []
+    },
     {
       "title": "Boom umělé inteligence pohání renesanci jaderné energie",
       "description": "Rostoucí poptávka po elektřině pro provoz velkých jazykových modelů a AI systémů nutí technologické firmy vrátit se k jaderné energii. Silicon Valley, které dříve elektřinu podceňovalo, nyní hledá stabilní zdroje pro svá data centra.",
@@ -394,28 +601,6 @@
         "Meta"
       ],
       "people": []
-    },
-    {
-      "title": "Generální ředitel Apple Tim Cook varován CIA před možným útokem Číny na Tchaj-wan do roku 2027",
-      "description": "Generální ředitel Apple Tim Cook se zúčastnil tajného brífinku CIA, kde byl varován před možným útokem Číny na Tchaj-wan do roku 2027. Setkání uspořádané ministryní obchodu mělo přesvědčit špičky technologických firem k přesunu výroby čipů mimo Tchaj-wan.",
-      "slug": "tim-cook-warned-by-cia-that-china-could-move-on-ta",
-      "publishedAt": "2026-02-24T12:03:52+00:00",
-      "date": "2026-02-24 12:03:52",
-      "importance": 4,
-      "category": "geopolitika",
-      "urlToImage": "https://images.macrumors.com/t/B6yv8bGbn_OH4c89uRHGLVJU18M=/1600x/article-new/2021/01/tim-cook-data-privacy-day.jpg",
-      "url": "/tech-news/2026-02-24/tim-cook-warned-by-cia-that-china-could-move-on-ta/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "MacRumors"
-      },
-      "companies": [
-        "Apple"
-      ],
-      "people": [
-        "Tim Cook"
-      ]
     },
     {
       "title": "ASML dosáhla průlomu v EUV technologii výroby čipů, plánuje zvýšit rychlost o 50 % do roku 2030 – nový zdroj světla o výkonu 1000 wattů střílí tři lasery na 100 000 kapek cínu za sekundu",
@@ -3668,27 +3853,6 @@
       "people": []
     },
     {
-      "title": "Apple C2 modem: Proč iPhone 18 Pro definitivně opouští Qualcomm",
-      "description": "Očekávané uvedení iPhonu 18 Pro v roce 2026 může představovat důležitý milník v mobilní konektivitě díky vlastnímu modemu C2 od Apple. Tato technologie přinese satelitní 5G schopnosti pomocí neterestrické sítě (NTN), které zajistí připojení v oblastech bez tradičního mobilního pokrytí.",
-      "slug": "apples-c2-modem-why-the-iphone-18-pro-is-ditching-",
-      "publishedAt": "2026-02-19T12:00:17+00:00",
-      "date": "2026-02-19 12:00:17",
-      "importance": 4,
-      "category": "mobilní hardware",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/02/iphone-18-pro-c2-modem-satellite-5g_optimized.jpg",
-      "url": "/tech-news/2026-02-19/apples-c2-modem-why-the-iphone-18-pro-is-ditching/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "companies": [
-        "Apple",
-        "Qualcomm"
-      ],
-      "people": []
-    },
-    {
       "title": "Karnataka uzavírá partnerství s Francií a Polskem v oblasti startupů a inovací na AI summitu",
       "description": "Stát Karnataka podepsal dva dopisy o záměru s francouzským VivaTech a polskými partnery z regionu Katowice na India AI Impact Summit v Dillí. Spolupráce se zaměřuje na vytvoření koridoru pro startupy a inovace v oblastech jako AI, deeptech a gaming.",
       "slug": "karnataka-ties-up-with-france-and-poland-on-startu",
@@ -3749,64 +3913,6 @@
       ]
     },
     {
-      "title": "AGI by mohlo být transformující více než Průmyslová revoluce: CEO Google DeepMind Demis Hassabis",
-      "description": "Demis Hassabis označil současnou chvíli za jednu z nejdůležitějších v lidské historii a prohlásil, že AGI je na obzoru s dopadem desetkrát větším než Průmyslová revoluce a desetkrát rychlejším. Zdůraznil však, že je nutné zajistit, aby toto vývoj prospěl celému světu.",
-      "slug": "agi-could-be-more-transformative-than-the-industri",
-      "publishedAt": "2026-02-19T08:06:12+00:00",
-      "date": "2026-02-19 08:06:12",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-869129,resizemode-75,msid-128546740/tech/technology/agi-could-be-more-transformative-than-the-industrial-revolution-google-deepmind-ceo-demis-hassabis.jpg",
-      "url": "/tech-news/2026-02-19/agi-could-be-more-transformative-than-the-industri/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Google DeepMind"
-      ],
-      "people": [
-        "Demis Hassabis"
-      ]
-    },
-    {
-      "title": "Newsletter CNBC Inside India: Indie se vrhá do AI – ale stojí za tituly látka?",
-      "description": "Mezi překážkami patří nedostatek regulace dostatečně jasné k přilákání špičkových AI firem do Indie a potřeba infuze kapitálu.",
-      "slug": "cnbcs-inside-india-newsletter-india-is-throwing-it",
-      "publishedAt": "2026-02-19T07:44:44+00:00",
-      "date": "2026-02-19 07:44:44",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108267159-1771485255410-gettyimages-2261852646-AFP_984Y6XU.jpeg?v=1771485264&w=1920&h=1080",
-      "url": "/tech-news/2026-02-19/cnbcs-inside-india-newsletter-india-is-throwing-it/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNBC"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "CNBC Daily Open: Pozitivní den pro americké a evropské trhy uprostřed minut Fedu a vývoje ECB",
-      "description": "Obchodníci odhadují přibližně 50% šanci na snížení úrokových sazeb Fedem v červnu. Měli by také zvážit možnost vyšších úrokových sazeb.",
-      "slug": "cnbc-daily-open-positive-day-for-us-and-european-m",
-      "publishedAt": "2026-02-19T07:30:01+00:00",
-      "date": "2026-02-19 07:30:01",
-      "importance": 4,
-      "category": "finanční trhy",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108173449-1752769806696-gettyimages-2225616563-mms17401_gnkcujwo.jpeg?v=1752769847&w=1920&h=1080",
-      "url": "/tech-news/2026-02-19/cnbc-daily-open-positive-day-for-us-and-european-m/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CNBC"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "OpenAI a JioHotstar společně uvádějí objevování obsahu poháněné ChatGPT v Indii",
       "description": "JioHotstar spolupracuje s OpenAI na integraci technologie ChatGPT do nejpoužívanější streamovací služby v Indii, což umožní téměř půl miliardě měsíčních uživatelů hledat obsah přirozeným jazykem mluveným nebo psaným místo konvenčního procházení menu.",
       "slug": "openai-jiohotstar-partner-to-launch-chatgpt-powere",
@@ -3824,27 +3930,6 @@
       "companies": [
         "OpenAI",
         "JioHotstar"
-      ],
-      "people": []
-    },
-    {
-      "title": "Cisco a Qunnect hlásí kvantové prvenství při propojení datového centra",
-      "description": "Síťový gigant Cisco spolupracuje s firmou Qunnect na škálovatelných kvantových sítích na demonstraci kvantového networkingu spojující datové centrum se dvěma výzkumnými zařízeními v New Yorku. Jde o údajně první úspěšný entanglement-swapping na nasazené městské optické síti.",
-      "slug": "cisco-qunnect-claim-quantum-first-with-datacentre-",
-      "publishedAt": "2026-02-19T07:15:00+00:00",
-      "date": "2026-02-19 07:15:00",
-      "importance": 5,
-      "category": "kvantové sítě",
-      "urlToImage": "https://www.computerweekly.com/visuals/German/article/Hero-quantum-computing-abangaboy-adobe.jpg",
-      "url": "/tech-news/2026-02-19/cisco-qunnect-claim-quantum-first-with-datacentre/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "ComputerWeekly.com"
-      },
-      "companies": [
-        "Cisco",
-        "Qunnect"
       ],
       "people": []
     },
@@ -3955,29 +4040,6 @@
       "people": []
     },
     {
-      "title": "Zaměřená na kryptoměny společnost Erebor získala první novou bankovní chartu v USA během druhého mandátu Trumpa: WSJ",
-      "description": "Erebor zdvojnásobil svou valuaci na 4 miliardy dolarů po kole investic v hodnotě 350 milionů dolarů vedeném fondem Lux Capital koncem loňského roku. Spojené státy poprvé během druhého mandátu prezidenta Donalda Trumpa schválily nově vytvořenou národní banku a udělily chartu kryptoměnové firmě.",
-      "slug": "crypto-focused-erebor-wins-first-new-us-bank-chart",
-      "publishedAt": "2026-02-19T03:17:00+00:00",
-      "date": "2026-02-19 03:17:00",
-      "importance": 4,
-      "category": "kryptoměny",
-      "urlToImage": null,
-      "url": "/tech-news/2026-02-19/crypto-focused-erebor-wins-first-new-us-bank-chart/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Activistpost.com"
-      },
-      "companies": [
-        "Erebor",
-        "Lux Capital"
-      ],
-      "people": [
-        "Donald Trump"
-      ]
-    },
-    {
       "title": "Google spouští model Lyria 3 pro generování hudby",
       "description": "Společnost Google LLC představila model umělé inteligence Lyria 3, který umožňuje uživatelům generovat krátké skladby. Model se zavádí do aplikace Gemini a funkce Dream Track v YouTube pro tvůrce obsahu.",
       "slug": "google-launches-lyria-3-music-generation-model",
@@ -4065,27 +4127,6 @@
       "people": [
         "Elon Musk"
       ]
-    },
-    {
-      "title": "„Jako AlphaFold 4“ – vědci obdivují exkluzivní novou umělou inteligenci od spin-offu DeepMind pro objev léků",
-      "description": "Proprietární model Isomorphic Labs pro objev léků IsoDDE představuje velký pokrok v predikci interakcí proteinů s molekulami, vědci ho přirovnávají k AlphaFold 4. Vyvíječi open-source nástrojů však nemají přístup k detailům, jak tyto výsledky dosáhnout.",
-      "slug": "an-alphafold-4-scientists-marvel-at-deepmind-drug-",
-      "publishedAt": "2026-02-19T00:00:00+00:00",
-      "date": "2026-02-19 00:00:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-00365-7/d41586-026-00365-7_52074752.jpg",
-      "url": "/tech-news/2026-02-19/an-alphafold-4-scientists-marvel-at-deepmind-drug/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Nature.com"
-      },
-      "companies": [
-        "DeepMind",
-        "Isomorphic Labs"
-      ],
-      "people": []
     }
   ]
 }
