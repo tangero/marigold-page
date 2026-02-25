@@ -1,7 +1,300 @@
 {
-  "generated": "2026-02-25T09:03:02.674065+00:00",
-  "count": 175,
+  "generated": "2026-02-25T13:11:55.151695+00:00",
+  "count": 189,
   "articles": [
+    {
+      "title": "Akcie AMD vzrostly o více než 10 % po dohodě o dodávkách AI čipů pro Meta v hodnotě 60 miliard dolarů",
+      "description": "Společnost Advanced Micro Devices uzavřela dohodu na prodej AI čipů v hodnotě až 60 miliard dolarů společnosti Meta Platforms během pěti let, což umožňuje vlastníkovi Facebooku zakoupit až 10 procent akcií čipové firmy. Partnerství zahrnuje nasazení až 6 gigawattů GPU Instinct od AMD pro rozšíření AI infrastruktury.",
+      "slug": "amd-shares-rise-over-10-after-mega-chip-supply-dea",
+      "publishedAt": "2026-02-24T12:39:15+00:00",
+      "date": "2026-02-24 12:39:15",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://img.etimg.com/thumb/msid-128751898,width-1200,height-630,imgsize-53916,overlay-etmarkets/articleshow.jpg",
+      "url": "/tech-news/2026-02-24/amd-shares-rise-over-10-after-mega-chip-supply-dea/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "AMD",
+        "Meta Platforms"
+      ],
+      "people": []
+    },
+    {
+      "title": "Další šok od DeepSeek: Vyvolá nový model AI DeepSeek krach technologických akcií na Nasdaq v době zrychující se čínské závody v AI?",
+      "description": "Nasdaq vzrostl o více než 30 % za uplynulý rok díky rally AI akcií. Spuštění modelu DeepSeek AI nyní vyvolává obavy o rizika na trhu, investoři se bojí tlaku na akcie Nvidia, polovodičů a valuací Big Tech v kontextu rostoucí US-čínské konkurence v umělé inteligenci.",
+      "slug": "another-deepseek-shock-loading-will-the-new-deepse",
+      "publishedAt": "2026-02-24T12:37:57+00:00",
+      "date": "2026-02-24 12:37:57",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://img.etimg.com/thumb/msid-128751007,width-1200,height-630,imgsize-32382,overlay-economictimes/articleshow.jpg",
+      "url": "/tech-news/2026-02-24/another-deepseek-shock-loading-will-the-new-deepse/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "DeepSeek",
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Světové akcie smíšené po masivním prodeji potenciálních poražených v AI na Wall Street",
+      "description": "Přesto úterý přineslo zisky pro výrobce počítačových čipů, kteří profitují z vývoje AI.",
+      "slug": "world-shares-are-mixed-after-heavy-selling-of-pote",
+      "publishedAt": "2026-02-24T12:31:47+00:00",
+      "date": "2026-02-24 12:31:47",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2026/02/South_Korea_Financial_Markets_39488-1.jpg?w=1024&h=682",
+      "url": "/tech-news/2026-02-24/world-shares-are-mixed-after-heavy-selling-of-pote/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Boston Herald"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "SambaNova představila AI čip SN50 a uzavírá spolupráci s Intelem",
+      "description": "SambaNova dnes představila AI čip SN50, který nabízí až pětinásobnou rychlost oproti konkurenčním řešením. Společnost oznámila spolupráci s Intelem na výkonných a cenově efektivních systémech pro AI inference a získala 350 milionů dolarů v novém kole financování.",
+      "slug": "pr-sambanova-unveils-sn50-ai-chip-collaborates-wit",
+      "publishedAt": "2026-02-24T12:30:10+00:00",
+      "date": "2026-02-24 12:30:10",
+      "importance": 4,
+      "category": "ai hardware",
+      "urlToImage": "https://www.techpowerup.com/img/4VSlfgB8jfzRMw6u.jpg",
+      "url": "/tech-news/2026-02-24/pr-sambanova-unveils-sn50-ai-chip-collaborates-wit/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Techpowerup.com"
+      },
+      "companies": [
+        "SambaNova",
+        "Intel"
+      ],
+      "people": []
+    },
+    {
+      "title": "Výsledky Nvidia za 4. čtvrtletí mohou posílit nebo podkopat důvěru v trh s hardwarem pro AI",
+      "description": "Nvidia se stala synonymem pro trh s umělou inteligenci, jejíž grafické procesory pohánějí trénink velkých modelů i inference v reálném čase. S blížícími se výsledky za čtvrté čtvrtletí investoři nejen sledují růst tržeb, ale ptájí se, zda AI expanze má ještě prostor pro další růst.",
+      "slug": "nvidias-q4-results-could-make-or-break-confidence-",
+      "publishedAt": "2026-02-24T12:27:38+00:00",
+      "date": "2026-02-24 12:27:38",
+      "importance": 4,
+      "category": "ai hardware",
+      "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F02%2FNvidias-Q4-results-could-make-or-break-confidence-in-the-AI-hardware-market.png&signature=51054548f3f63e498d52e0151879d27d",
+      "url": "/tech-news/2026-02-24/nvidias-q4-results-could-make-or-break-confidence/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-next-web",
+        "name": "The Next Web"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Factbox: Od OpenAI po Nvidia firmy nalévají miliardy do infrastruktury umělé inteligence v době boomu poptávky",
+      "description": "Advanced Micro Devices se dohodlo na prodeji umělých inteligencí čipů v hodnotě až 60 miliard dolarů společnosti Meta Platforms během pěti let. Jedná se o součást širší vlny miliardových dohod v oblasti AI čipů, cloudu a investic.",
+      "slug": "factbox-from-openai-to-nvidia-firms-channel-billio",
+      "publishedAt": "2026-02-24T12:24:00+00:00",
+      "date": "2026-02-24 12:24:00",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://s.yimg.com/os/en/reuters.com/90871c11c4dd6acd34ca9e648ecb61e5",
+      "url": "/tech-news/2026-02-24/factbox-from-openai-to-nvidia-firms-channel-billio/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "OpenAI",
+        "Nvidia",
+        "Advanced Micro Devices",
+        "Meta Platforms"
+      ],
+      "people": []
+    },
+    {
+      "title": "OpenAI musí konkurovat Amazonu a Applu při vstupu do AI hardwaru v roce 2027",
+      "description": "OpenAI oznámila vstup na trh s hardwarem sérií zařízení poháněných umělou inteligencí, která mají integrovat AI do každodenních rutin. Řada zahrnuje chytrý reproduktor v roce 2027, chytré brýle v roce 2028 a možná chytrou lampu s funkcemi jako rozpoznávání obličejů a kontextové povědomí.",
+      "slug": "openais-must-compete-with-amazon-apple-as-it-moves",
+      "publishedAt": "2026-02-24T12:19:00+00:00",
+      "date": "2026-02-24 12:19:00",
+      "importance": 4,
+      "category": "ai hardware",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/02/smart-speaker-price-range-200-300.jpg",
+      "url": "/tech-news/2026-02-24/openais-must-compete-with-amazon-apple-as-it-moves/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Geeky Gadgets"
+      },
+      "companies": [
+        "OpenAI",
+        "Amazon",
+        "Apple"
+      ],
+      "people": []
+    },
+    {
+      "title": "AMD uzavřela obří dohodu na dodávky AI čipů pro Meta",
+      "description": "Společnost Advanced Micro Devices oznámila dohodu na prodej AI čipů v hodnotě až 60 miliard dolarů společnosti Meta Platforms během pěti let. Dohoda umožňuje Meta získat až 10procentní podíl v AMD.",
+      "slug": "amd-clinches-mega-chip-supply-deal-with-meta",
+      "publishedAt": "2026-02-24T12:17:46+00:00",
+      "date": "2026-02-24 12:17:46",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://www.rte.ie/images/0023b381-1600.jpg",
+      "url": "/tech-news/2026-02-24/amd-clinches-mega-chip-supply-deal-with-meta/",
+      "source": {
+        "emoji": "📰",
+        "id": "rte",
+        "name": "RTE"
+      },
+      "companies": [
+        "AMD",
+        "Meta Platforms"
+      ],
+      "people": []
+    },
+    {
+      "title": "SambaNova představila SN50, čip pro agentic AI rychlejší pětkrát než konkurence, spolupracuje s Intelem a získala přes 350 milionů dolarů",
+      "description": "Společnost SambaNova Systems uvedla na trh čip SN50, který podle výrobce nabízí pětkrát vyšší maximální rychlost než konkurenční řešení a třikrát nižší náklady na provoz agentic AI oproti GPU. Firma zároveň oznámila spolupráci s Intelem na efektivních řešeních pro AI inference a získala více než 350 milionů dolarů v nové investiční kole.",
+      "slug": "sambanova-unveils-fastest-chip-for-agentic-ai-coll",
+      "publishedAt": "2026-02-24T12:08:52+00:00",
+      "date": "2026-02-24 12:08:52",
+      "importance": 4,
+      "category": "ai hardware",
+      "urlToImage": "https://dims.apnews.com/dims4/default/a1e47fd/2147483647/strip/true/crop/940x626+0+81/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F61%2Fd7%2F6b3aa849fdbcfe9d35c956cdcd16%2F76c92f9043cf60fc85b96c11e36ef624",
+      "url": "/tech-news/2026-02-24/sambanova-unveils-fastest-chip-for-agentic-ai-coll/",
+      "source": {
+        "emoji": "📰",
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "companies": [
+        "SambaNova",
+        "Intel"
+      ],
+      "people": []
+    },
+    {
+      "title": "AMD a Meta oznámily rozšířené strategické partnerství pro nasazení 6 gigawattů GPU",
+      "description": "Meta spolupracuje s AMD na rychlém škálování AI infrastruktury a urychlení vývoje špičkových AI modelů. Dohoda zahrnuje nasazení až 6 gigawattů AMD Instinct GPU přes více generací.",
+      "slug": "amd-and-meta-announce-expanded-strategic-partnersh",
+      "publishedAt": "2026-02-24T12:07:46+00:00",
+      "date": "2026-02-24 12:07:46",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/02/amd-and-meta-announce-expanded-strategic-partnership-to-depl.jpeg",
+      "url": "/tech-news/2026-02-24/amd-and-meta-announce-expanded-strategic-partnersh/",
+      "source": {
+        "emoji": "📰",
+        "id": "financial-post",
+        "name": "Financial Post"
+      },
+      "companies": [
+        "AMD",
+        "Meta"
+      ],
+      "people": []
+    },
+    {
+      "title": "Generální ředitel Apple Tim Cook varován CIA před možným útokem Číny na Tchaj-wan do roku 2027",
+      "description": "Generální ředitel Apple Tim Cook se zúčastnil tajného brífinku CIA, kde byl varován před možným útokem Číny na Tchaj-wan do roku 2027. Setkání uspořádané ministryní obchodu mělo přesvědčit špičky technologických firem k přesunu výroby čipů mimo Tchaj-wan.",
+      "slug": "tim-cook-warned-by-cia-that-china-could-move-on-ta",
+      "publishedAt": "2026-02-24T12:03:52+00:00",
+      "date": "2026-02-24 12:03:52",
+      "importance": 4,
+      "category": "geopolitika",
+      "urlToImage": "https://images.macrumors.com/t/B6yv8bGbn_OH4c89uRHGLVJU18M=/1600x/article-new/2021/01/tim-cook-data-privacy-day.jpg",
+      "url": "/tech-news/2026-02-24/tim-cook-warned-by-cia-that-china-could-move-on-ta/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "MacRumors"
+      },
+      "companies": [
+        "Apple"
+      ],
+      "people": [
+        "Tim Cook"
+      ]
+    },
+    {
+      "title": "ASML dosáhla průlomu v EUV technologii výroby čipů, plánuje zvýšit rychlost o 50 % do roku 2030 – nový zdroj světla o výkonu 1000 wattů střílí tři lasery na 100 000 kapek cínu za sekundu",
+      "description": "ASML použije nový systém CO2 laseru a generátor kapek cínu k zvýšení výkonu EUV zdroje světla na 1000 W a produktivity litografického stroje na 330 waferů za hodinu v roce 2030 a dále.",
+      "slug": "asml-makes-breakthrough-in-euv-chipmaking-tech-pla",
+      "publishedAt": "2026-02-24T12:01:57+00:00",
+      "date": "2026-02-24 12:01:57",
+      "importance": 5,
+      "category": "polovodiče",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/MqQcLuXtcS9FPhQiZeDavC-2560-80.jpg",
+      "url": "/tech-news/2026-02-24/asml-makes-breakthrough-in-euv-chipmaking-tech-pla/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "companies": [
+        "ASML"
+      ],
+      "people": []
+    },
+    {
+      "title": "AMD uzavřelo druhou megadohodu na dodávky čipů pro umělou inteligenci, tentokrát s Meta",
+      "description": "Společnost Advanced Micro Devices oznámila dohodu na prodej AI čipů v hodnotě až 60 miliard dolarů společnosti Meta Platforms na pět let. Tato smlouva umožňuje Meta nákup až 10 procent akcií AMD a zahrnuje dodávky šesti gigawattů čipů.",
+      "slug": "amd-clinches-second-mega-chip-supply-deal-this-tim",
+      "publishedAt": "2026-02-24T12:01:22+00:00",
+      "date": "2026-02-24 12:01:22",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://s.yimg.com/os/en/reuters-finance.com/a8858671771b2b1ca4acd4abb8d43bf0",
+      "url": "/tech-news/2026-02-24/amd-clinches-second-mega-chip-supply-deal-this-tim/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "companies": [
+        "AMD",
+        "Meta Platforms"
+      ],
+      "people": []
+    },
+    {
+      "title": "Meta a AMD uzavírají dlouhodobou dohodu na AI infrastrukturu",
+      "description": "Meta oznámila víceletou dohodu s AMD na napájení své AI infrastruktury až 6 GW výpočetního výkonu založeného na AMD Instinct GPU. Tato spolupráce rozšiřuje stávající partnerství a zaměřuje se na hardware, software i systémy pro efektivní zpracování AI úloh.",
+      "slug": "meta-and-amd-partner-for-longterm-ai-infrastructur",
+      "publishedAt": "2026-02-24T12:00:33+00:00",
+      "date": "2026-02-24 12:00:33",
+      "importance": 4,
+      "category": "ai infrastruktura",
+      "urlToImage": "https://about.fb.com/wp-content/uploads/2026/02/Helios-Partnership_Header.jpg?w=1200",
+      "url": "/tech-news/2026-02-24/meta-and-amd-partner-for-longterm-ai-infrastructur/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Fb.com"
+      },
+      "companies": [
+        "Meta",
+        "AMD"
+      ],
+      "people": []
+    },
     {
       "title": "Vysvětleno: Jak pokles IBM o 13 % kvůli obavám z narušení COBOL od Anthropic spustil pokles akcií TCS, Infosys, Wipro a dalších IT firem",
       "description": "Akcie IT firem klesly 24. února až o 8 %, po pádu IBM o 13 % na Wall Street – největší ztráta za 25 let. Důvodem jsou obavy, že nástroj Claude od Anthropic zjednoduší kód COBOL a ohrozí tradiční příjmy IBM z mainframů, což se projevilo i na indických IT titulech.",
