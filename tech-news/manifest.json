@@ -1,7 +1,171 @@
 {
-  "generated": "2026-02-24T20:57:03.586959+00:00",
-  "count": 194,
+  "generated": "2026-02-25T01:39:13.271044+00:00",
+  "count": 200,
   "articles": [
+    {
+      "title": "Nejnovější aktualizace Claude Code od Anthropic vyvolala masivní prodej akcií IBM, pokles o 13,2 % za den",
+      "description": "Akcie IBM klesly o 13,2 % na 223,35 USD za akcii a zažily nejhorší den od roku 2000 po aktualizaci nástroje Claude Code od Anthropic. Tento AI nástroj, který způsobil poklesy v IT sektorech v posledních týdnech, nyní umožňuje automatizaci modernizace COBOLu.",
+      "slug": "anthropics-latest-claude-code-update-triggers-mass",
+      "publishedAt": "2026-02-24T01:08:30+00:00",
+      "date": "2026-02-24 01:08:30",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2026/02/24/1600x900/logo/RETAIL-NRF-CONFERENCE-29_1771895142548_1771895151588.JPG",
+      "url": "/tech-news/2026-02-24/anthropics-latest-claude-code-update-triggers-mass/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Livemint"
+      },
+      "companies": [
+        "Anthropic",
+        "IBM"
+      ],
+      "people": []
+    },
+    {
+      "title": "Pentagon dal Anthropic ultimátum: Odstraňte bezpečnostní mechanismy AI nebo ztratíte vojenské zakázky",
+      "description": "Americký ministr obrany Pete Hegseth svolal generálního ředitele Anthropic Dario Amodei do Pentagonu na setkání, které vyšší představitelé označili za nezdvořilostní. Jde o prasklinu mezi armádou a firmou za modelem Claude, jediným AI v klasifikovaných systémech, ohledně pravidel použití v bojových operacích.",
+      "slug": "pentagon-delivers-ultimatum-to-anthropic-remove-ai",
+      "publishedAt": "2026-02-24T00:51:11+00:00",
+      "date": "2026-02-24 00:51:11",
+      "importance": 5,
+      "category": "umělá inteligence",
+      "urlToImage": null,
+      "url": "/tech-news/2026-02-24/pentagon-delivers-ultimatum-to-anthropic-remove-ai/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": [
+        "Pete Hegseth",
+        "Dario Amodei"
+      ]
+    },
+    {
+      "title": "Proč přídavky AI nepomohou IT a kyberbezpečnosti přežít tuto bouři",
+      "description": "Anthropic v méně než deseti dnech způsobil dva poklesy akcií v podnikových technologiích: nejprve agentem Cowork, který otřásl IT službami, a poté nástrojem Claude Code Security pro skenování softwaru na slabiny a návrhy oprav.",
+      "slug": "why-ai-bolt-ons-wont-help-it-cybersecurity-weather",
+      "publishedAt": "2026-02-24T00:30:00+00:00",
+      "date": "2026-02-24 00:30:00",
+      "importance": 4,
+      "category": "kyberbezpečnost",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-108366,resizemode-75,msid-128718494/tech/technology/why-ai-bolt-ons-wont-help-it-cybersecurity-weather-this-storm.jpg",
+      "url": "/tech-news/2026-02-24/why-ai-bolt-ons-wont-help-it-cybersecurity-weather/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": []
+    },
+    {
+      "title": "Brazílie uzavřela dohody o kritických minerálech s Indií a Jižní Koreou",
+      "description": "Brazílie a Indie uzavřely dohodu o kritických minerálech a vzácných zeminách v sobotu, následně Brazílie podepsala smlouvu s Jižní Koreou o rozšíření spolupráce v minerálech, technologiích, kulturní výměně a obchodu.",
+      "slug": "brazil-cuts-mineral-deals-with-india-and-south-kor",
+      "publishedAt": "2026-02-24T00:21:53+00:00",
+      "date": "2026-02-24 00:21:53",
+      "importance": 4,
+      "category": "kritické minerály",
+      "urlToImage": "https://media.breitbart.com/media/2026/02/AP26052230290683-640x335.jpg",
+      "url": "/tech-news/2026-02-24/brazil-cuts-mineral-deals-with-india-and-south-kor/",
+      "source": {
+        "emoji": "📰",
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "JPMorgan tento rok utratí za technologie téměř 20 miliard dolarů",
+      "description": "JPMorgan zvyšuje svůj technologický rozpočet o 2 miliardy dolarů v roce 2026, s hlavním důrazem na projekty umělé inteligence.",
+      "slug": "jpmorgan-will-spend-almost-20-billion-on-technolog",
+      "publishedAt": "2026-02-24T00:04:03+00:00",
+      "date": "2026-02-24 00:04:03",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://i.insider.com/699ce38d156648bc16a8c346?width=800&format=jpeg",
+      "url": "/tech-news/2026-02-24/jpmorgan-will-spend-almost-20-billion-on-technolog/",
+      "source": {
+        "emoji": "📰",
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Anthropic varuje před „průmyslově velkými“ útoky na destilaci AI ohrožujícími bezpečnost modelů",
+      "description": "Anthropic obviňuje DeepSeek, Moonshot AI a MiniMax z průmyslově velkých útoků na destilaci AI, které měly ukrást schopnosti modelu Claude. Rostou obavy z krádeže duševního vlastnictví a národní bezpečnosti.",
+      "slug": "anthropic-sounds-alarm-on-industrial-scale-ai-dist",
+      "publishedAt": "2026-02-24T00:00:00+00:00",
+      "date": "2026-02-24 00:00:00",
+      "importance": 5,
+      "category": "bezpečnost ai",
+      "urlToImage": "https://www.c-sharpcorner.com/images/csharp-corner-new.png",
+      "url": "/tech-news/2026-02-24/anthropic-sounds-alarm-on-industrial-scale-ai-dist/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "C-sharpcorner.com"
+      },
+      "companies": [
+        "Anthropic",
+        "DeepSeek",
+        "Moonshot AI",
+        "MiniMax"
+      ],
+      "people": []
+    },
+    {
+      "title": "Anthropic obviňuje čínské AI firmy z krádeže dat z chatbota Claude",
+      "description": "Společnost Anthropic obviňuje tři čínské firmy v oblasti umělé inteligence z nelegálního sbírání velkého množství dat z jejich chatbota Claude za účelem urychlení vývoje vlastních platforem. V blogovém příspěvku dnes upozornila na DeepSeek, Moonshot a MiniMax, které údajně vytvořily tisíce falešných účtů pro generování milionů konverzací.",
+      "slug": "anthropic-slams-chinese-ai-firms-for-harvesting-da",
+      "publishedAt": "2026-02-23T23:45:50+00:00",
+      "date": "2026-02-23 23:45:50",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Screenshot-from-2026-02-24-06-45-03.png",
+      "url": "/tech-news/2026-02-23/anthropic-slams-chinese-ai-firms-for-harvesting-da/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": []
+    },
+    {
+      "title": "AI platforma pro tvorbu hudby ProducerAI, schválená Chainsmokers, se připojuje k Google",
+      "description": "Platforma ProducerAI poháněná umělou inteligencí pro tvorbu hudby se stává součástí Google. V rámci dohody ji Google zařadí pod svůj program Labs a napojí na preview verzi nového modelu Lyria 3 pro generování hudby.",
+      "slug": "this-chainsmokers-approved-ai-music-producer-is-jo",
+      "publishedAt": "2026-02-23T23:36:06+00:00",
+      "date": "2026-02-23 23:36:06",
+      "importance": 4,
+      "category": "hudební ai",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK467_AI_MUSIC_CVirginia_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "url": "/tech-news/2026-02-23/this-chainsmokers-approved-ai-music-producer-is-jo/",
+      "source": {
+        "emoji": "⚡",
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "companies": [
+        "Google",
+        "ProducerAI"
+      ],
+      "people": []
+    },
     {
       "title": "Čínské domácí roboty jsou mnohem víc než jen vysavače",
       "description": "Čínské roboty zvládají více než domácí práce a jejich vývoj se zrychluje. Přehled současných schopností a důvody, proč si o nich dělají poznámky jiné firmy.",
@@ -3434,24 +3598,6 @@
       "people": []
     },
     {
-      "title": "Hyperscalers pro AI zajišťují dlouhodobé dodávky uranu od těžebních firem – palivo pro jaderné elektrárny napájící budoucí datová centra",
-      "description": "Kanadská firma NexGen Energy jedná s provozovateli datových center o financování uranového projektu Rook 1, aby zajistila dlouhodobé dodávky paliva pro malé modulární reaktory (SMR) nutné k napájení AI infrastruktur.",
-      "slug": "ai-hyperscalers-move-to-secure-long-term-uranium-s",
-      "publishedAt": "2026-02-18T16:20:29+00:00",
-      "date": "2026-02-18 16:20:29",
-      "importance": 4,
-      "category": "jaderná energie",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/gSo4x48BthjtTTrujQT8aa-1920-80.jpg",
-      "url": "/tech-news/2026-02-18/ai-hyperscalers-move-to-secure-long-term-uranium-s/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
       "title": "Uber investuje 100 milionů dolarů do nabíjecí infrastruktury pro robotaxi",
       "description": "Uber plánuje vložit 100 milionů dolarů do výstavby nabíjecích stanic pro elektromobily určené robotaxi. Investice začíná v Los Angeles, San Francisco Bay Area a Dallasu a má podporovat partneřství s firmami jako Waymo, WeRide nebo Nuro.",
       "slug": "uber-putting-100-million-into-ev-charging-for-robo",
@@ -3596,24 +3742,6 @@
       "companies": [
         "Nvidia"
       ],
-      "people": []
-    },
-    {
-      "title": "Skupina Adani investuje 100 miliard dolarů do datových center pro AI poháněných obnovitelnou energií do roku 2035",
-      "description": "Indická skupina Adani plánuje do roku 2035 investovat 100 miliard dolarů do datových center určených pro výpočty umělé inteligence, která budou napájena obnovitelnými zdroji energie. Tento krok má rozšířit kapacitu jejich platformy AdaniConnex z 2 GW na 5 GW a přilákat další investice v celkové výši 250 miliard dolarů.",
-      "slug": "adani-group-to-invest-100-billion-in-renewable-pow",
-      "publishedAt": "2026-02-18T07:58:58+00:00",
-      "date": "2026-02-18 07:58:58",
-      "importance": 4,
-      "category": "ai datacentra",
-      "urlToImage": "https://th-i.thgim.com/public/incoming/mkncxv/article70646274.ece/alternates/LANDSCAPE_1200/Adani_Group_Logo.jpg",
-      "url": "/tech-news/2026-02-18/adani-group-to-invest-100-billion-in-renewable-pow/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "companies": [],
       "people": []
     },
     {
