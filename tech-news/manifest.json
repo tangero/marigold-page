@@ -1,25 +1,260 @@
 {
-  "generated": "2026-02-25T20:56:26.395457+00:00",
+  "generated": "2026-02-26T01:31:33.135679+00:00",
   "count": 200,
   "articles": [
     {
-      "title": "Anthropic se nehodlá smířit v sporu s Pentagonem, tvrdí zdroj",
-      "description": "Laboratoř umělé inteligence Anthropic nemá v úmyslu uvolnit omezení pro vojenské použití svých technologií, uvedl zdroj po setkání s Pentagonem. Jednání pokračují po sporech o bezpečnostní prvky bránící autonomním zbraním a domácímu sledování.",
-      "slug": "anthropic-digs-in-heels-in-dispute-with-pentagon-s",
-      "publishedAt": "2026-02-24T20:23:20+00:00",
-      "date": "2026-02-24 20:23:20",
+      "title": "Anthropic opouští svůj hlavní bezpečnostní závazek",
+      "description": "Společnost Anthropic, která se profilovala jako nejběžnější v oblasti AI bezpečnosti, ruší centrální pilíř své politiky Responsible Scaling Policy. Firma nyní nebude trénovat pokročilé AI modely pouze na základě předchozího zaručení bezpečnostních opatření, kvůli tlaku konkurence.",
+      "slug": "anthropic-drops-flagship-safety-pledge",
+      "publishedAt": "2026-02-25T01:08:46+00:00",
+      "date": "2026-02-25 01:08:46",
       "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--LaUjptFU--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-02-24T202320Z_1_LYNXMPEM1N17D_RTROPTP_3_UKRAINE-CRISIS-USA.JPG?itok=ZMHRrbOR",
-      "url": "/tech-news/2026-02-24/anthropic-digs-in-heels-in-dispute-with-pentagon-s/",
+      "category": "ai",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2026/02/Anthropic.jpg?quality=85&w=1200&h=628&crop=1",
+      "url": "/tech-news/2026-02-25/anthropic-drops-flagship-safety-pledge/",
       "source": {
         "emoji": "📰",
-        "id": null,
-        "name": "CNA"
+        "id": "time",
+        "name": "Time"
       },
       "companies": [
         "Anthropic"
       ],
+      "people": []
+    },
+    {
+      "title": "Startup MatX, konkurent Nvidia v AI čipech, získal 500 milionů dolarů | TechCrunch",
+      "description": "Startup MatX, založený dvěma bývalými inženýry Google, získal 500 milionů dolarů v kolu Series B vedeném Jane Street a fondem Situational Awareness. Cílem firmy je vyvinout procesory desetkrát efektivnější pro trénink velkých jazykových modelů (LLM) než GPU od Nvidia.",
+      "slug": "nvidia-challenger-ai-chip-startup-matx-raised-500m",
+      "publishedAt": "2026-02-25T00:45:47+00:00",
+      "date": "2026-02-25 00:45:47",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/09/chip-manufacturing-getty.jpg?w=1200",
+      "url": "/tech-news/2026-02-25/nvidia-challenger-ai-chip-startup-matx-raised-500m/",
+      "source": {
+        "emoji": "🚀",
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "companies": [
+        "Nvidia",
+        "MatX"
+      ],
+      "people": []
+    },
+    {
+      "title": "Startup na autonomní řízení Wayve získal 1,8 miliardy dolarů od Nvidia, Uber a tří automobilových firem | TechCrunch",
+      "description": "Britský startup Wayve, specializující se na technologie autonomního řízení založené na end-to-end hlubokém učení, získal v nové kole financování 1,8 miliardy dolarů od investorů včetně Nvidia, Uber, Microsoft a tří automobilových výrobců. Společnost dosáhla valuace 8,6 miliardy dolarů a plánuje nasazení robotaxi v Londýně.",
+      "slug": "self-driving-tech-startup-wayve-raises-18b-from-nv",
+      "publishedAt": "2026-02-25T00:41:59+00:00",
+      "date": "2026-02-25 00:41:59",
+      "importance": 4,
+      "category": "autonomní vozy",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/02/Wayve-Germany-02.jpg?resize=1200,675",
+      "url": "/tech-news/2026-02-25/self-driving-tech-startup-wayve-raises-18b-from-nv/",
+      "source": {
+        "emoji": "🚀",
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "companies": [
+        "Wayve",
+        "Nvidia",
+        "Uber"
+      ],
+      "people": []
+    },
+    {
+      "title": "Anthropic se brání v sporu s Pentagonem, tvrdí zdroj",
+      "description": "Společnost Anthropic odmítá uvolnit bezpečnostní omezení svých AI modelů pro vojenské účely. Pentagon vydal ultimátum s hrozbou radikálních kroků, pokud firma neustoupí. Spor může ovlivnit budoucí nasazení umělé inteligence v obraně.",
+      "slug": "anthropic-digs-in-heels-in-dispute-with-pentagon-s",
+      "publishedAt": "2026-02-25T00:36:35+00:00",
+      "date": "2026-02-25 00:36:35",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img.etimg.com/thumb/msid-128766700,width-1200,height-630,imgsize-52544,overlay-economictimes/articleshow.jpg",
+      "url": "/tech-news/2026-02-25/anthropic-digs-in-heels-in-dispute-with-pentagon-s/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": []
+    },
+    {
+      "title": "Pokroky Anthropic v AI pro COBOL otevírají nové příležitosti IT firmám",
+      "description": "Průmysloví lídři uvádějí, že pokroky Anthropic v automatizaci COBOL kódu mohou snížit náklady na migraci mainframů a vytvořit příležitosti pro IT servisní společnosti. CEO HCLTech C Vijayakumar zdůraznil složitost modernizace mainframů kvůli nástrojům, integracím a obchodní logice.",
+      "slug": "anthropic-ais-cobol-code-advances-unlock-new-doors",
+      "publishedAt": "2026-02-25T00:30:00+00:00",
+      "date": "2026-02-25 00:30:00",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-62534,resizemode-75,msid-128762313/tech/information-tech/anthropic-ais-cobol-code-advances-unlock-new-doors-for-it-companies.jpg",
+      "url": "/tech-news/2026-02-25/anthropic-ais-cobol-code-advances-unlock-new-doors/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Anthropic",
+        "HCLTech"
+      ],
+      "people": [
+        "C Vijayakumar"
+      ]
+    },
+    {
+      "title": "Anthropic se prosazuje hlouběji do podnikového sektoru, ale u ministerstva obrany narazil na zdi",
+      "description": "Americký ministr obrany Pete Hegseth se setkal s šéfem Anthropic Dario Amodeiem a varoval ho, aby odstranil omezení na použití chatbotu Claude v armádě, jinak hrozí blacklistování firmy nebo nucení prostřednictvím zákona o obranné produkci.",
+      "slug": "even-as-anthropic-moves-deeper-into-enterprise-it-",
+      "publishedAt": "2026-02-25T00:16:21+00:00",
+      "date": "2026-02-25 00:16:21",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Screenshot-from-2026-01-21-06-32-23.png",
+      "url": "/tech-news/2026-02-25/even-as-anthropic-moves-deeper-into-enterprise-it/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": [
+        "Pete Hegseth",
+        "Dario Amodei"
+      ]
+    },
+    {
+      "title": "Proč Pentagon požaduje od Anthropic otevření svého AI modelu?",
+      "description": "Napětí mezi přístupem a bezpečnostními opatřeními. Mezi představiteli amerického ministerstva obrany a společností Anthropic, tvůrcem modelu Claude, došlo k patové situaci ohledně použití technologie v armádních provozech.",
+      "slug": "why-is-the-pentagon-demanding-anthropic-open-its-a",
+      "publishedAt": "2026-02-25T00:14:51+00:00",
+      "date": "2026-02-25 00:14:51",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "url": "/tech-news/2026-02-25/why-is-the-pentagon-demanding-anthropic-open-its-a/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Alltoc.com"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": []
+    },
+    {
+      "title": "Co požaduje Pentagon od Anthropic? #tech",
+      "description": "Americké ministerstvo obrany tlačí na Anthropic, aby poskytl širší vojenský přístup k modelu Claude AI, což eskaluje několikatýdenní veřejný spor. Zapojeni jsou vrcholoví představitelé včetně ministra obrany Pete Hegsetha.",
+      "slug": "what-is-the-pentagon-demanding-from-anthropic-tech",
+      "publishedAt": "2026-02-25T00:04:52+00:00",
+      "date": "2026-02-25 00:04:52",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "url": "/tech-news/2026-02-25/what-is-the-pentagon-demanding-from-anthropic-tech/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Alltoc.com"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": [
+        "Pete Hegseth"
+      ]
+    },
+    {
+      "title": "Podporovaná Microsoftem společnost Wayve získala 1,5 miliardy dolarů na globální expanzi robotaxi",
+      "description": "Britská startupová firma zaměřená na software pro autonomní vozidla oznámila získání 1,5 miliardy dolarů od gigantů Big Tech a globálních automobilových výrobců. Peníze poslou k rozšíření technologie robotaxi mimo Velkou Británii.",
+      "slug": "microsoft-backed-wayve-raises-15-billion-to-take-i",
+      "publishedAt": "2026-02-25T00:02:01+00:00",
+      "date": "2026-02-25 00:02:01",
+      "importance": 4,
+      "category": "autonomní vozidla",
+      "urlToImage": "https://i.insider.com/699dc9b6efb52c8bd0dec104?width=1200&format=jpeg",
+      "url": "/tech-news/2026-02-25/microsoft-backed-wayve-raises-15-billion-to-take-i/",
+      "source": {
+        "emoji": "📰",
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "companies": [
+        "Microsoft",
+        "Wayve"
+      ],
+      "people": []
+    },
+    {
+      "title": "Wayve založený Novozélanďanem Alexem Kendallem získává 2,5 miliardy, Uber použije jeho technologii pro první robotaxi",
+      "description": "Microsoft, Nvidia a řada velkých výrobců automobilů se připojují k používání technologie. Londýnský startup Wayve získal 1,5 miliardy amerických dolarů na vývoj autonomních vozidel.",
+      "slug": "wayve-founded-by-kiwi-alex-kendall-raises-25b-reve",
+      "publishedAt": "2026-02-25T00:01:00+00:00",
+      "date": "2026-02-25 00:01:00",
+      "importance": 4,
+      "category": "autonomní vozy",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/HTHISMANYRFEJLXUFBJD2QPVKQ.jpg?auth=b1f69a84433cbe433722534bc27c3adc494e677980bcf63f9286412ef367dd0d&width=1200&height=675&quality=70&focal=1259%2C420&smart=false",
+      "url": "/tech-news/2026-02-25/wayve-founded-by-kiwi-alex-kendall-raises-25b-reve/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "New Zealand Herald"
+      },
+      "companies": [
+        "Wayve",
+        "Uber",
+        "Microsoft",
+        "Nvidia"
+      ],
+      "people": [
+        "Alex Kendall"
+      ]
+    },
+    {
+      "title": "Britská firma na autonomní vozy získala investici 1,1 miliardy liber před velkým spuštěním ve Velké Británii",
+      "description": "Společnost Wayve, zabývající se vývojem autonomních vozidel, získala 1,5 miliardy dolarů od investorů včetně Uberu, Microsoftu a Nvidia. Připravuje komerční testy robotaxi v Londýně letos a plánuje plný launch do roku 2026.",
+      "slug": "driverless-car-firm-bags-11bn-investment-ahead-of-",
+      "publishedAt": "2026-02-25T00:01:00+00:00",
+      "date": "2026-02-25 00:01:00",
+      "importance": 4,
+      "category": "autonomní vozy",
+      "urlToImage": "https://static.the-independent.com/2023/04/18/18/MrdLbC2H-720.jpg?width=1200&height=800&crop=1200:800",
+      "url": "/tech-news/2026-02-25/driverless-car-firm-bags-11bn-investment-ahead-of/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The-independent.com"
+      },
+      "companies": [
+        "Wayve"
+      ],
+      "people": []
+    },
+    {
+      "title": "Průlom v stagnaci bezpečnostního výkonu autonomních vozidel díky hustému učení",
+      "description": "Autonomní vozidla čelí efektu houpačky, kdy zlepšení bezpečnosti v některých situacích zhoršuje výkon v jiných. Tato studie představuje husté učení, které se zaměřuje na informativní data z jízdy a dosahuje konzistentnějšího a bezpečnějšího chování vozidel.",
+      "slug": "breaking-through-safety-performance-stagnation-in-",
+      "publishedAt": "2026-02-25T00:00:00+00:00",
+      "date": "2026-02-25 00:00:00",
+      "importance": 4,
+      "category": "autonomní vozidla",
+      "urlToImage": null,
+      "url": "/tech-news/2026-02-25/breaking-through-safety-performance-stagnation-in/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Nature.com"
+      },
+      "companies": [],
       "people": []
     },
     {
@@ -3579,66 +3814,6 @@
       "people": []
     },
     {
-      "title": "Jak dluh soukromého kapitálu nechal přední VPN otevřenou čínským hackerům",
-      "description": "Finanční tlak na Pulse Secure urychlil propuštění zaměstnanců a oslabil bezpečnost softwaru Connect Secure. Čínští špióni tak infiltrovali systém používaný americkou vládou a tisíci firem.",
-      "slug": "how-private-equity-debt-left-a-leading-vpn-open-to",
-      "publishedAt": "2026-02-19T23:22:21+00:00",
-      "date": "2026-02-19 23:22:21",
-      "importance": 5,
-      "category": "kyberbezpečnost",
-      "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/02/wolf-image-4.jpg",
-      "url": "/tech-news/2026-02-19/how-private-equity-debt-left-a-leading-vpn-open-to/",
-      "source": {
-        "emoji": "📰",
-        "id": "financial-post",
-        "name": "Financial Post"
-      },
-      "companies": [
-        "Pulse Secure"
-      ],
-      "people": []
-    },
-    {
-      "title": "Google představuje model Gemini 3.1 Pro pro pokročilé úlohy uvažování",
-      "description": "Google LLC dnes představil Gemini 3.1 Pro, nový model zaměřený na uvažování, který překonává Claude 4.6 Opus a GPT-5.2 v řadě benchmarků. Model je dostupný v více než půl tuctu produktů vyhledávacího giganta a podporuje multimodální vstupy až o 1 milion tokenů.",
-      "slug": "google-introduces-gemini-31-pro-model-for-advanced",
-      "publishedAt": "2026-02-19T23:21:34+00:00",
-      "date": "2026-02-19 23:21:34",
-      "importance": 5,
-      "category": "umělá inteligence",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Gemini.png",
-      "url": "/tech-news/2026-02-19/google-introduces-gemini-31-pro-model-for-advanced/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": []
-    },
-    {
-      "title": "Je australská investice 100 milionů dolarů do Palantiru překročením hranice?",
-      "description": "Šéf firmy popisuje účel společnosti jako udržení Západu jako kulturní síly. Článek zkoumá, proč australský Future Fund drží podíl 100 milionů dolarů v kontroverzní firmě Palantir a jak získala vládní kontrakty.",
-      "slug": "is-australias-100-million-investment-in-palantir-b",
-      "publishedAt": "2026-02-19T23:20:05+00:00",
-      "date": "2026-02-19 23:20:05",
-      "importance": 4,
-      "category": "velká data",
-      "urlToImage": "https://assets.crikey.com.au/wp-content/uploads/sites/3/2026/02/13.jpg?quality=70&w=1024",
-      "url": "/tech-news/2026-02-19/is-australias-100-million-investment-in-palantir-b/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Crikey"
-      },
-      "companies": [
-        "Palantir"
-      ],
-      "people": []
-    },
-    {
       "title": "Valar Atomics dosáhla jako první soukromá firma v USA „zero power criticality“ v reaktoru NOVA Core",
       "description": "Kalifornská společnost Valar Atomics oznámila klíčový milník v jaderné energii. Dosáhla studené criticality v reaktoru NOVA Core, což otevírá cestu k nové generaci jaderných technologií v USA.",
       "slug": "nova-core-becomes-the-first-private-company-in-the",
@@ -3748,28 +3923,6 @@
       ]
     },
     {
-      "title": "Kontroverzní šéf AI Meta Alexandr Wang představuje svůj plán na superinteligenci",
-      "description": "Alexandr Wang tvrdí, že obrovský globální dosah Meta jí dává rozhodující výhodu při poskytování „osobní superinteligence“, která bude přizpůsobená cílům a zájmům každého uživatele.",
-      "slug": "metas-controversial-ai-chief-alexandr-wang-outline",
-      "publishedAt": "2026-02-19T19:12:22+00:00",
-      "date": "2026-02-19 19:12:22",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://observer.com/wp-content/uploads/sites/2/2026/02/GettyImages-2261860333.jpg?quality=80",
-      "url": "/tech-news/2026-02-19/metas-controversial-ai-chief-alexandr-wang-outline/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Observer"
-      },
-      "companies": [
-        "Meta"
-      ],
-      "people": [
-        "Alexandr Wang"
-      ]
-    },
-    {
       "title": "Qualtrics spolupracuje s CrowdStrike na ochraně AI-řízených zkušeností zákazníků a zaměstnanců",
       "description": "V době, kdy zneužití dat představuje největší obavu v souvislosti s AI, integrace přináší automatizované bezpečnostní kontroly a lepší viditelnost přímo v platformě Qualtrics.",
       "slug": "qualtrics-taps-crowdstrike-to-safeguard-ai-driven-",
@@ -3833,42 +3986,6 @@
       "people": [
         "Elon Musk"
       ]
-    },
-    {
-      "title": "Merck a Mayo Clinic spouštějí partnerství pro objevování léků poháněné umělou inteligencí",
-      "description": "Merck a Mayo Clinic spolupracují na objevování léků s využitím umělé inteligence, kde kombinují nástroje AI a strojového učení Mercka s platformou Mayo Clinic a jejími klinickými daty pro lepší rozhodování v raných fázích vývoje.",
-      "slug": "merck-mayo-clinic-launch-ai-driven-drug-discovery-",
-      "publishedAt": "2026-02-19T12:15:00+00:00",
-      "date": "2026-02-19 12:15:00",
-      "importance": 4,
-      "category": "objevování léků",
-      "urlToImage": "https://www.techtarget.com/rms/onlineimages/pharma_g1317416781.jpg",
-      "url": "/tech-news/2026-02-19/merck-mayo-clinic-launch-ai-driven-drug-discovery/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Techtarget.com"
-      },
-      "companies": [],
-      "people": []
-    },
-    {
-      "title": "Karnataka uzavírá partnerství s Francií a Polskem v oblasti startupů a inovací na AI summitu",
-      "description": "Stát Karnataka podepsal dva dopisy o záměru s francouzským VivaTech a polskými partnery z regionu Katowice na India AI Impact Summit v Dillí. Spolupráce se zaměřuje na vytvoření koridoru pro startupy a inovace v oblastech jako AI, deeptech a gaming.",
-      "slug": "karnataka-ties-up-with-france-and-poland-on-startu",
-      "publishedAt": "2026-02-19T11:59:23+00:00",
-      "date": "2026-02-19 11:59:23",
-      "importance": 4,
-      "category": "startupy",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-96318,resizemode-75,msid-128556706/tech/technology/karnataka-ties-up-with-france-and-poland-on-startup-and-innovation-at-ai-summit.jpg",
-      "url": "/tech-news/2026-02-19/karnataka-ties-up-with-france-and-poland-on-startu/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [],
-      "people": []
     },
     {
       "title": "Nové kolo financování OpenAI by mohlo překročit 100 miliard dolarů",
@@ -3955,70 +4072,6 @@
       "people": []
     },
     {
-      "title": "Google zakládá komplexní centrum pro umělou inteligenci, součást naší investice 15 miliard USD do Indie: Sundar Pichai",
-      "description": "Tato významná oznámení podtrhuje rozšíření přítomnosti Google v Indii a proměnu Visakhapatnamu v globální uzel pro umělou inteligenci.",
-      "slug": "google-is-establishing-a-full-stack-ai-hub-part-of",
-      "publishedAt": "2026-02-19T05:12:52+00:00",
-      "date": "2026-02-19 05:12:52",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/vgzmdk/article70650439.ece/alternates/LANDSCAPE_1200/PTI02_19_2026_000021B.jpg",
-      "url": "/tech-news/2026-02-19/google-is-establishing-a-full-stack-ai-hub-part-of/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "companies": [
-        "Google"
-      ],
-      "people": [
-        "Sundar Pichai"
-      ]
-    },
-    {
-      "title": "Infosys, TCS, HCLTech: Proč dnes rostou hlavní IT akcie?",
-      "description": "Rebound po těžkých týdnech pro sektor následuje díky oznámením z India AI Impact Summit 2026. IT akcie byly pod tlakem kvůli obavám, že rychlý pokrok v umělé inteligenci naruší tradiční modely outsourcingu a softwarových služeb.",
-      "slug": "infosys-tcs-hcltech-why-are-major-it-stocks-rising",
-      "publishedAt": "2026-02-19T04:09:41+00:00",
-      "date": "2026-02-19 04:09:41",
-      "importance": 4,
-      "category": "it akcie",
-      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202602/it-shares-rise-in-early-trade-173158181-16x9_1.jpg?VersionId=0KXl1V0Y.FSMDr9Hbkc71AghdPYaPBkJ",
-      "url": "/tech-news/2026-02-19/infosys-tcs-hcltech-why-are-major-it-stocks-rising/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "India Today"
-      },
-      "companies": [
-        "Infosys",
-        "TCS",
-        "HCLTech"
-      ],
-      "people": []
-    },
-    {
-      "title": "Miranda Devine: Je čas postavit se proti ‚probuzené AI‘, než ohrozí naši realitu",
-      "description": "Tweet Elona Muska tento týden upozornil na existenční nebezpečí morálně zkompromitovaných modelů umělé inteligence, které stále více ovlivňují náš pohled na realitu.",
-      "slug": "miranda-devine-its-time-to-take-a-stand-against-wo",
-      "publishedAt": "2026-02-19T03:42:40+00:00",
-      "date": "2026-02-19 03:42:40",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/02/newspress-collage-27syjk856-1771471354847.jpg?quality=75&strip=all&1771453383&w=1200",
-      "url": "/tech-news/2026-02-19/miranda-devine-its-time-to-take-a-stand-against-wo/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "New York Post"
-      },
-      "companies": [],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
       "title": "OpenAI posiluje expanzi v Indii partnerstvím s fintech firmou Pine Labs",
       "description": "OpenAI uzavírá dohodu s Pine Labs, která integruje API OpenAI do platební infrastruktury pro automatizaci vyrovnání a fakturace. Tento krok směřuje k podnikovým platbám a obchodu poháněnému umělou inteligencí v Indii.",
       "slug": "openai-deepens-india-push-with-pine-labs-fintech-p",
@@ -4036,26 +4089,6 @@
       "companies": [
         "OpenAI",
         "Pine Labs"
-      ],
-      "people": []
-    },
-    {
-      "title": "Google spouští model Lyria 3 pro generování hudby",
-      "description": "Společnost Google LLC představila model umělé inteligence Lyria 3, který umožňuje uživatelům generovat krátké skladby. Model se zavádí do aplikace Gemini a funkce Dream Track v YouTube pro tvůrce obsahu.",
-      "slug": "google-launches-lyria-3-music-generation-model",
-      "publishedAt": "2026-02-19T01:05:15+00:00",
-      "date": "2026-02-19 01:05:15",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Google.png",
-      "url": "/tech-news/2026-02-19/google-launches-lyria-3-music-generation-model/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "Google"
       ],
       "people": []
     },
@@ -4081,28 +4114,6 @@
         "E2E Networks"
       ],
       "people": []
-    },
-    {
-      "title": "Strategie Indie v mobilním internetu jí může pomoci překočit i v AI",
-      "description": "Generální ředitel Qualcommu Cristiano Amon tvrdí, že Indie má potenciál stát se lídrem v umělé inteligenci podobně jako v mobilním internetu díky své velikosti, mladé populaci a rozvinutému mobilnímu ekosystému. Zdůraznil roli suverénní AI a hybridních architektur pro kontextově citlivé agenty a oznámil fond 150 milionů dolarů na investice do indických AI startupů.",
-      "slug": "indias-mobile-net-playbook-can-help-it-leapfrog-in",
-      "publishedAt": "2026-02-19T00:30:00+00:00",
-      "date": "2026-02-19 00:30:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-415392,resizemode-75,msid-128524520/tech/artificial-intelligence/indias-mobile-net-playbook-can-help-it-leapfrog-in-ai-too.jpg",
-      "url": "/tech-news/2026-02-19/indias-mobile-net-playbook-can-help-it-leapfrog-in/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "Qualcomm"
-      ],
-      "people": [
-        "Cristiano Amon"
-      ]
     },
     {
       "title": "Saúdská Humain podpořila ambice Elona Muska v AI investicí 3 miliard dolarů do xAI",

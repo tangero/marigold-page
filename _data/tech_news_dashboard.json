@@ -1,14 +1,29 @@
 {
-  "generated_at": "2026-02-25T20:56:26.852676+00:00",
+  "generated_at": "2026-02-26T01:31:33.692572+00:00",
   "period_days": 30,
   "current_status": {
     "health": "OK",
-    "last_run": "2026-02-25T20:29:00.344493+00:00",
+    "last_run": "2026-02-26T01:09:08.145501+00:00",
     "last_run_status": "success",
-    "articles_today": 50,
+    "articles_today": 12,
     "active_alerts": []
   },
   "daily_series": [
+    {
+      "date": "2026-02-26",
+      "sessions_count": 1,
+      "articles_fetched": 47,
+      "articles_processed": 38,
+      "articles_saved": 12,
+      "articles_skipped": 35,
+      "skip_reasons": {
+        "low_importance": 26,
+        "content_filter": 9
+      },
+      "llm_cost": 1.5777,
+      "avg_duration": 1330.75,
+      "success_rate": 1.0
+    },
     {
       "date": "2026-02-25",
       "sessions_count": 6,
@@ -458,39 +473,24 @@
       "llm_cost": 8.3696,
       "avg_duration": 948.52,
       "success_rate": 1.0
-    },
-    {
-      "date": "2026-01-26",
-      "sessions_count": 5,
-      "articles_fetched": 245,
-      "articles_processed": 180,
-      "articles_saved": 13,
-      "articles_skipped": 232,
-      "skip_reasons": {
-        "low_importance": 167,
-        "content_filter": 65
-      },
-      "llm_cost": 7.7306,
-      "avg_duration": 1294.07,
-      "success_rate": 1.0
     }
   ],
   "aggregates": {
-    "total_articles": 1011,
-    "total_cost": 281.88,
+    "total_articles": 1010,
+    "total_cost": 275.73,
     "avg_daily_articles": 32.6,
     "most_common_skip_reason": {
       "reason": "low_importance",
-      "count": 5730
+      "count": 5589
     },
-    "total_sessions": 182,
-    "total_fetched": 8916,
-    "total_skipped": 7905
+    "total_sessions": 178,
+    "total_fetched": 8718,
+    "total_skipped": 7708
   },
   "performance_metrics": {
-    "avg_session_duration": 1356.29,
-    "avg_api_response_time": 310.0,
-    "avg_tokens_per_article": 4162.0,
+    "avg_session_duration": 1357.9,
+    "avg_api_response_time": 330.0,
+    "avg_tokens_per_article": 4160.0,
     "error_rate": 0.0
   }
 }
