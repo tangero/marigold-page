@@ -1,7 +1,49 @@
 {
-  "generated": "2026-02-26T05:39:48.415725+00:00",
-  "count": 192,
+  "generated": "2026-02-26T09:00:54.010723+00:00",
+  "count": 194,
   "articles": [
+    {
+      "title": "Akcie Micron Technology (MU) stoupají blízko 420 USD uprostřed boomu pamětí pro AI",
+      "description": "Akcie společnosti Micron Technology Inc. výrazně vzrostly na počátku roku 2026 díky silné poptávce po vysokopásmové paměti (HBM) v datových centrech umělé inteligence. Firma hlásí rekordní výsledky fiskálního prvního čtvrtletí a plně obsazenou výrobní kapacitu HBM pro rok 2026 na základě víceletých smluv.",
+      "slug": "micron-technology-mu-stock-climbs-near-420-amid-ai",
+      "publishedAt": "2026-02-25T07:58:00+00:00",
+      "date": "2026-02-25 07:58:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://d.ibtimes.com.au/en/full/1839199/earnings-news-micron-technology-inc-nasdaq-mu.jpg",
+      "url": "/tech-news/2026-02-25/micron-technology-mu-stock-climbs-near-420-amid-ai/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Ibtimes.com.au"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Anthropicův 'misanthropický' moment pro indické IT! Valuace mateřské firmy Claude překonává celý průmysl",
+      "description": "Firma Anthropic s valuací 380 miliard dolarů překonala součtu tržních kapitalizací největších indických IT společností jako TCS, Infosys, Wipro, HCL Technologies a Tech Mahindra. Tento vývoj podtrhuje rychlý vzestup AI a jeho dopad na tradiční IT služby.",
+      "slug": "anthropics-misanthropic-moment-for-indian-it-claud",
+      "publishedAt": "2026-02-25T06:52:59+00:00",
+      "date": "2026-02-25 06:52:59",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://img.etimg.com/thumb/msid-128772975,width-1200,height-630,imgsize-66556,overlay-etmarkets/articleshow.jpg",
+      "url": "/tech-news/2026-02-25/anthropics-misanthropic-moment-for-indian-it-claud/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Anthropic",
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "HCL Technologies"
+      ],
+      "people": []
+    },
     {
       "title": "Nvidia se připravuje zveřejnit čtvrtletní výsledky, zatímco obavy z AI tíží akciový trh",
       "description": "Výrobce čipů pro umělou inteligenci Nvidia ve středu představí čtvrtletní zprávu, která pravděpodobně ovlivní nervózní akciový trh, protože investoři zvažují, zda se obrovské sázky na nejnovější technologickou mánii vyplatí.",
