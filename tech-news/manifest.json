@@ -1,7 +1,155 @@
 {
-  "generated": "2026-02-26T01:31:33.135679+00:00",
-  "count": 200,
+  "generated": "2026-02-26T05:39:48.415725+00:00",
+  "count": 192,
   "articles": [
+    {
+      "title": "Nvidia se připravuje zveřejnit čtvrtletní výsledky, zatímco obavy z AI tíží akciový trh",
+      "description": "Výrobce čipů pro umělou inteligenci Nvidia ve středu představí čtvrtletní zprávu, která pravděpodobně ovlivní nervózní akciový trh, protože investoři zvažují, zda se obrovské sázky na nejnovější technologickou mánii vyplatí.",
+      "slug": "nvidia-prepares-to-release-its-quarterly-results-a",
+      "publishedAt": "2026-02-25T05:09:30+00:00",
+      "date": "2026-02-25 05:09:30",
+      "importance": 4,
+      "category": "umělá inteligence",
+      "urlToImage": "https://i.abcnewsfe.com/a/2fd32307-3744-4b95-9c90-11db20778b2d/wirestory_855e9baff355da11f3a0420cca915ac7_16x9.jpg?w=1600",
+      "url": "/tech-news/2026-02-25/nvidia-prepares-to-release-its-quarterly-results-a/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "companies": [
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "USA: Pentagon dal Anthropic ultimátum kvůli omezením AI — zpráva",
+      "description": "Americký ministr obrany Pete Hegseth údajně stanovil společnosti Anthropic lhůtu do pátku na souhlas s neomezeným vojenským použitím jejich AI technologií. Jinak hrozí označení za riziko v dodavatelském řetězci nebo nucení podle zákona o obranné produkci.",
+      "slug": "us-pentagon-gives-ultimatum-to-anthropic-over-ai-c",
+      "publishedAt": "2026-02-25T04:57:00+00:00",
+      "date": "2026-02-25 04:57:00",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://static.dw.com/image/76110827_6.jpg",
+      "url": "/tech-news/2026-02-25/us-pentagon-gives-ultimatum-to-anthropic-over-ai-c/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "DW (English)"
+      },
+      "companies": [
+        "Anthropic"
+      ],
+      "people": [
+        "Pete Hegseth"
+      ]
+    },
+    {
+      "title": "AMD uzavřelo další velkou dohodu na dodávky AI čipů pro Meta v hodnotě až 60 miliard dolarů",
+      "description": "AMD uzavřelo druhou velkou dohodu na dodávky AI čipů, Meta si objedná procesory v hodnotě miliard dolarů na příštích pět let. Dohoda podtrhuje snahu Mety diverzifikovat dodavatele mimo Nvidia v době rostoucí poptávky po AI výpočetních kapacitách.",
+      "slug": "amd-seals-another-mega-ai-chip-supply-deal-with-me",
+      "publishedAt": "2026-02-25T03:59:18+00:00",
+      "date": "2026-02-25 03:59:18",
+      "importance": 4,
+      "category": "ai čipy",
+      "urlToImage": "https://images.indianexpress.com/2025/10/Tech-feature-images93.jpg",
+      "url": "/tech-news/2026-02-25/amd-seals-another-mega-ai-chip-supply-deal-with-me/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "companies": [
+        "AMD",
+        "Meta",
+        "Nvidia"
+      ],
+      "people": []
+    },
+    {
+      "title": "Indické IT akcie ztratily 68,6 miliardy dolarů v únoru kvůli obavám z narušení způsobeného AI",
+      "description": "Index Nifty IT klesl o 21 %, což je největší měsíční pokles za téměř 23 let, v důsledku obav z rychlé automatizace AI, která by mohla narušit indický model IT služeb v hodnotě 300 miliard dolarů.",
+      "slug": "indian-it-stocks-lose-686-billion-in-february-amid",
+      "publishedAt": "2026-02-25T03:35:53+00:00",
+      "date": "2026-02-25 03:35:53",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/au12mm/article70673965.ece/alternates/LANDSCAPE_1200/IT%20stocks%20steep%20fall.jpg",
+      "url": "/tech-news/2026-02-25/indian-it-stocks-lose-686-billion-in-february-amid/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "companies": [],
+      "people": []
+    },
+    {
+      "title": "Indonésie a Arm uzavírají partnerství pro rychlejší ovládnutí technologie čipů",
+      "description": "Indonésie chce urychlit osvojení strategických technologií díky spolupráci státní investiční agentury a správce suverénního bohatství Danantara s britským designérem čipů Arm. Dohoda zahrnuje školení 15 000 inženýrů a rozvoj čipů pro automobilový průmysl, datová centra a umělou inteligenci.",
+      "slug": "indonesia-arm-partnership-targets-faster-mastery-o",
+      "publishedAt": "2026-02-25T03:29:51+00:00",
+      "date": "2026-02-25 03:29:51",
+      "importance": 4,
+      "category": "polovodiče",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2026/02/25/1000020750_1.jpg",
+      "url": "/tech-news/2026-02-25/indonesia-arm-partnership-targets-faster-mastery-o/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Antaranews.com"
+      },
+      "companies": [
+        "Arm"
+      ],
+      "people": []
+    },
+    {
+      "title": "Akcie Infosys, TCS a dalších IT firem v centru pozornosti díky partnerstvím Anthropic, která zmírňují obavy z narušení",
+      "description": "Indické IT akcie jako Infosys, Wipro a Tata Consultancy Services vzrostly až o 5 % po oznámení partnerství Anthropic s SaaS firmami, což uklidnilo obavy z dopadů umělé inteligence na softwarový sektor. Po intenzivním prodeji se index Nifty IT dostal do přeprodané zóny a naznačuje možný obrat.",
+      "slug": "infosys-tcs-and-other-it-stocks-in-focus-as-multip",
+      "publishedAt": "2026-02-25T03:19:28+00:00",
+      "date": "2026-02-25 03:19:28",
+      "importance": 4,
+      "category": "it akcie",
+      "urlToImage": "https://img.etimg.com/thumb/msid-128768779,width-1200,height-630,imgsize-29692,overlay-etmarkets/articleshow.jpg",
+      "url": "/tech-news/2026-02-25/infosys-tcs-and-other-it-stocks-in-focus-as-multip/",
+      "source": {
+        "emoji": "📰",
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "companies": [
+        "Infosys",
+        "TCS",
+        "Anthropic"
+      ],
+      "people": []
+    },
+    {
+      "title": "Vycházející Anthropic a zapadající Palantir",
+      "description": "Anthropic obviňuje čínské firmy DeepSeek, Moonshot AI a MiniMax z vytvoření přes 24 tisíc falešných účtů k extrakci dat z modelu Claude. Tyto společnosti provedly více než 16 milionů dotazů k natrénování vlastních systémů umělé inteligence.",
+      "slug": "뜨는-앤트로픽에-저무는-팔란티어",
+      "publishedAt": "2026-02-25T02:55:31+00:00",
+      "date": "2026-02-25 02:55:31",
+      "importance": 4,
+      "category": "ai",
+      "urlToImage": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fc2rxo3%2FdJMcadgMkUP%2FAAAAAAAAAAAAAAAAAAAAANe38qbL2SmyNWm5uFTYzVVKd9kYPW5VH1hHL631CgMK%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1772290799%26allow_ip%3D%26allow_referer%3D%26signature%3Dhf48QDNhEpK5VAXZFmy8kCNr9Dw%253D",
+      "url": "/tech-news/2026-02-25/뜨는-앤트로픽에-저무는-팔란티어/",
+      "source": {
+        "emoji": "📰",
+        "id": null,
+        "name": "Tistory.com"
+      },
+      "companies": [
+        "Anthropic",
+        "Palantir",
+        "DeepSeek",
+        "Moonshot AI",
+        "MiniMax"
+      ],
+      "people": []
+    },
     {
       "title": "Anthropic opouští svůj hlavní bezpečnostní závazek",
       "description": "Společnost Anthropic, která se profilovala jako nejběžnější v oblasti AI bezpečnosti, ruší centrální pilíř své politiky Responsible Scaling Policy. Firma nyní nebude trénovat pokročilé AI modely pouze na základě předchozího zaručení bezpečnostních opatření, kvůli tlaku konkurence.",
@@ -3812,332 +3960,6 @@
         "CarGurus"
       ],
       "people": []
-    },
-    {
-      "title": "Valar Atomics dosáhla jako první soukromá firma v USA „zero power criticality“ v reaktoru NOVA Core",
-      "description": "Kalifornská společnost Valar Atomics oznámila klíčový milník v jaderné energii. Dosáhla studené criticality v reaktoru NOVA Core, což otevírá cestu k nové generaci jaderných technologií v USA.",
-      "slug": "nova-core-becomes-the-first-private-company-in-the",
-      "publishedAt": "2026-02-19T20:48:48+00:00",
-      "date": "2026-02-19 20:48:48",
-      "importance": 5,
-      "category": "jaderná energie",
-      "urlToImage": "https://twistedsifter.com/wp-content/uploads/2026/01/Nuclear-reactor-1.jpg",
-      "url": "/tech-news/2026-02-19/nova-core-becomes-the-first-private-company-in-the/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Twistedsifter.com"
-      },
-      "companies": [
-        "NOVA Core"
-      ],
-      "people": []
-    },
-    {
-      "title": "Paměťový supercyklus nadešel – financování AI na něj nalévá palivo",
-      "description": "Financování umělé inteligence pokračuje bez únavy, když World Labs a Ineffable Intelligence získaly po jedné miliardě dolarů, ta druhá dokonce bez hotového produktu. OpenAI prý sbírá 100 miliard dolarů při valuaci 850 miliard, což pohání strukturální růst paměťového trhu polovodičů.",
-      "slug": "the-memory-supercycle-is-here-and-the-ai-funding-f",
-      "publishedAt": "2026-02-19T20:46:41+00:00",
-      "date": "2026-02-19 20:46:41",
-      "importance": 4,
-      "category": "ai financování",
-      "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/502designs-ram-pixabay.jpg",
-      "url": "/tech-news/2026-02-19/the-memory-supercycle-is-here-and-the-ai-funding-f/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "SiliconANGLE News"
-      },
-      "companies": [
-        "World Labs Inc",
-        "Ineffable Intelligence Inc",
-        "OpenAI Group PBC"
-      ],
-      "people": []
-    },
-    {
-      "title": "Sea spolupracuje s Googlem na AI pro Garenu, Shopee a Monee",
-      "description": "Globální technologická společnost Sea navázala rozšířené partnerství s Googlem na vývoj AI inovací pro své klíčové divize: herní Garenu, e-commerce platformu Shopee a poskytovatele finančních služeb Monee. Spolupráce zahrnuje agentické prototypy pro nákupy i platby a vylepšení herních zážitků.",
-      "slug": "sea-arms-shopee-and-monee-with-google-ai-tools",
-      "publishedAt": "2026-02-19T20:32:47+00:00",
-      "date": "2026-02-19 20:32:47",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/02/Sea-Google1.jpg",
-      "url": "/tech-news/2026-02-19/sea-arms-shopee-and-monee-with-google-ai-tools/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "pymnts.com"
-      },
-      "companies": [
-        "Sea",
-        "Google",
-        "Garena"
-      ],
-      "people": []
-    },
-    {
-      "title": "Pozoruhodné: Šéf OpenAI Sam Altman chválí čínský průmysl umělé inteligence",
-      "description": "Generální ředitel OpenAI Sam Altman označil pokrok čínských technologických firem za „pozoruhodný“ v rozhovoru pro CNBC a pochválil rychlost jejich vývoje AI. Toto vyjádření podtrhuje rostoucí konkurenci v globálním AI sektoru.",
-      "slug": "remarkable-openai-boss-sam-altman-lavishes-praise-",
-      "publishedAt": "2026-02-19T20:19:57+00:00",
-      "date": "2026-02-19 20:19:57",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://media.breitbart.com/media/2026/02/GettyImages-2236544323-3-640x335.jpg",
-      "url": "/tech-news/2026-02-19/remarkable-openai-boss-sam-altman-lavishes-praise/",
-      "source": {
-        "emoji": "📰",
-        "id": "breitbart-news",
-        "name": "Breitbart News"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": [
-        "Sam Altman"
-      ]
-    },
-    {
-      "title": "Město Starbase společnosti SpaceX získává vlastní soud",
-      "description": "Firemní město Elona Muska v Texasu již má dobrovolnický hasičský sbor a vytváří policejní oddělení Starbase. Nyní navrhuje zřízení vlastního municipálního soudu.",
-      "slug": "spacexs-starbase-city-is-getting-its-own-court-tec",
-      "publishedAt": "2026-02-19T19:55:30+00:00",
-      "date": "2026-02-19 19:55:30",
-      "importance": 4,
-      "category": "kosmonautika",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/04/51972205671_3569af21bb_k.jpg?resize=1200,899",
-      "url": "/tech-news/2026-02-19/spacexs-starbase-city-is-getting-its-own-court-tec/",
-      "source": {
-        "emoji": "🚀",
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "companies": [
-        "SpaceX",
-        "TechCrunch"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Qualtrics spolupracuje s CrowdStrike na ochraně AI-řízených zkušeností zákazníků a zaměstnanců",
-      "description": "V době, kdy zneužití dat představuje největší obavu v souvislosti s AI, integrace přináší automatizované bezpečnostní kontroly a lepší viditelnost přímo v platformě Qualtrics.",
-      "slug": "qualtrics-taps-crowdstrike-to-safeguard-ai-driven-",
-      "publishedAt": "2026-02-19T16:24:04+00:00",
-      "date": "2026-02-19 16:24:04",
-      "importance": 4,
-      "category": "kybernetika",
-      "urlToImage": "https://www.cmswire.com/-/media/18114d6d7b1a4a35aaba659522752922.ashx",
-      "url": "/tech-news/2026-02-19/qualtrics-taps-crowdstrike-to-safeguard-ai-driven/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "CMSWire"
-      },
-      "companies": [
-        "Qualtrics",
-        "CrowdStrike"
-      ],
-      "people": []
-    },
-    {
-      "title": "Sam Altman: Ani práce generálního ředitele není bezpečná před AI, brzy ji bude zvládat lépe než já",
-      "description": "Generální ředitel OpenAI Sam Altman na summitu v New Delhi varoval, že superinteligence AI brzy nahradí i role vrcholových manažerů včetně jeho vlastní. Odhaduje, že rané verze superinteligence jsou jen pár let daleko a více intelektuální kapacity světa by mohlo sídlit v datových centrech než mimo ně.",
-      "slug": "sam-altman-says-not-even-the-ceos-job-is-safe-from",
-      "publishedAt": "2026-02-19T16:15:42+00:00",
-      "date": "2026-02-19 16:15:42",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2261852386-e1771516761517.jpg?resize=1200,600",
-      "url": "/tech-news/2026-02-19/sam-altman-says-not-even-the-ceos-job-is-safe-from/",
-      "source": {
-        "emoji": "📰",
-        "id": "fortune",
-        "name": "Fortune"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": [
-        "Sam Altman"
-      ]
-    },
-    {
-      "title": "Důvod, proč Elon Musk zastavuje výrobu dvou modelů Tesla: Zaměření na roboty",
-      "description": "Elon Musk oznámil, že Tesla ukončí výrobu svých vlajkových modelů, aby přesunula zdroje do vývoje robotů. Tento krok představuje rizikovou strategii s potenciálem změnit směr společnosti.",
-      "slug": "the-shocking-futuristic-reason-why-elon-musk-is-st",
-      "publishedAt": "2026-02-19T15:37:40+00:00",
-      "date": "2026-02-19 15:37:40",
-      "importance": 4,
-      "category": "robotika",
-      "urlToImage": "https://s.yimg.com/os/en/barchart_com_477/393ce00a7c473fbc123fc0a1aff59c80",
-      "url": "/tech-news/2026-02-19/the-shocking-futuristic-reason-why-elon-musk-is-st/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Barchart.com"
-      },
-      "companies": [
-        "Tesla"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
-    },
-    {
-      "title": "Nové kolo financování OpenAI by mohlo překročit 100 miliard dolarů",
-      "description": "Nejnovější kolo financování OpenAI by podle zpráv Bloomberg mohlo ocenit společnost na více než 850 miliard dolarů. První fáze by měla přinést přes 100 miliard dolarů od investorů včetně Amazonu, SoftBanku, Nvidia a Microsoftu.",
-      "slug": "openais-new-funding-round-could-exceed-100-billion",
-      "publishedAt": "2026-02-19T11:52:36+00:00",
-      "date": "2026-02-19 11:52:36",
-      "importance": 4,
-      "category": "startupy",
-      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/01/OpenAI-ARR1.jpg",
-      "url": "/tech-news/2026-02-19/openais-new-funding-round-could-exceed-100-billion/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "pymnts.com"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": []
-    },
-    {
-      "title": "Altman z OpenAI: Svět 'naléhavě' potřebuje regulaci umělé inteligence",
-      "description": "Šéf OpenAI Sam Altman na globální konferenci o umělé inteligenci v New Delhi prohlásil, že svět urgentně potřebuje regulovat rychle se vyvíjející technologii AI. Navrhl založení mezinárodní organizace podobné Mezinárodní agentuře pro atomovou energie (IAEA) pro koordinaci snah.",
-      "slug": "openais-altman-says-world-urgently-needs-ai-regula",
-      "publishedAt": "2026-02-19T08:09:11+00:00",
-      "date": "2026-02-19 08:09:11",
-      "importance": 4,
-      "category": "regulace ai",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-5234,resizemode-75,msid-128546812/tech/artificial-intelligence/openais-altman-says-world-urgently-needs-ai-regulation.jpg",
-      "url": "/tech-news/2026-02-19/openais-altman-says-world-urgently-needs-ai-regula/",
-      "source": {
-        "emoji": "📰",
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "companies": [
-        "OpenAI"
-      ],
-      "people": [
-        "Sam Altman"
-      ]
-    },
-    {
-      "title": "OpenAI a JioHotstar společně uvádějí objevování obsahu poháněné ChatGPT v Indii",
-      "description": "JioHotstar spolupracuje s OpenAI na integraci technologie ChatGPT do nejpoužívanější streamovací služby v Indii, což umožní téměř půl miliardě měsíčních uživatelů hledat obsah přirozeným jazykem mluveným nebo psaným místo konvenčního procházení menu.",
-      "slug": "openai-jiohotstar-partner-to-launch-chatgpt-powere",
-      "publishedAt": "2026-02-19T07:24:50+00:00",
-      "date": "2026-02-19 07:24:50",
-      "importance": 4,
-      "category": "umělá inteligence",
-      "urlToImage": "https://variety.com/wp-content/uploads/2026/02/OpenAI-JioHotstar.jpg?w=1000&h=563&crop=1",
-      "url": "/tech-news/2026-02-19/openai-jiohotstar-partner-to-launch-chatgpt-powere/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "Variety"
-      },
-      "companies": [
-        "OpenAI",
-        "JioHotstar"
-      ],
-      "people": []
-    },
-    {
-      "title": "Telefónica a Mavenir uzavírají strategické partnerství pro urychlení inovací v AI v telekomunikacích",
-      "description": "Telefónica a Mavenir podepsaly memorandum o porozumění pro vytvoření společného centra AI Innovation Hub, které urychlí integraci umělé inteligence do jádra telekomunikačních sítí. Na Mobile World Congress (#MWC26) představí živé demonstrace pokročilých použití.",
-      "slug": "telefónica-and-mavenir-forge-strategic-partnership",
-      "publishedAt": "2026-02-19T07:01:04+00:00",
-      "date": "2026-02-19 07:01:04",
-      "importance": 4,
-      "category": "telekomunikace",
-      "urlToImage": null,
-      "url": "/tech-news/2026-02-19/telefónica-and-mavenir-forge-strategic-partnership/",
-      "source": {
-        "emoji": "📰",
-        "id": "financial-post",
-        "name": "Financial Post"
-      },
-      "companies": [
-        "Telefónica",
-        "Mavenir"
-      ],
-      "people": []
-    },
-    {
-      "title": "OpenAI posiluje expanzi v Indii partnerstvím s fintech firmou Pine Labs",
-      "description": "OpenAI uzavírá dohodu s Pine Labs, která integruje API OpenAI do platební infrastruktury pro automatizaci vyrovnání a fakturace. Tento krok směřuje k podnikovým platbám a obchodu poháněnému umělou inteligencí v Indii.",
-      "slug": "openai-deepens-india-push-with-pine-labs-fintech-p",
-      "publishedAt": "2026-02-19T03:31:01+00:00",
-      "date": "2026-02-19 03:31:01",
-      "importance": 4,
-      "category": "fintech",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2170386424.jpg?w=1024",
-      "url": "/tech-news/2026-02-19/openai-deepens-india-push-with-pine-labs-fintech-p/",
-      "source": {
-        "emoji": "🚀",
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "companies": [
-        "OpenAI",
-        "Pine Labs"
-      ],
-      "people": []
-    },
-    {
-      "title": "Nvidia podporuje indickou snahu o suverénní AI gigawattovou infrastrukturou",
-      "description": "Společnost Nvidia oznámila partnerství s indickými firmami L&T, Yotta a E2E Networks na summitu AI Impact v Dillí, kde plánuje nasadit desítky tisíc Blackwell GPU pro podporu národní mise IndiaAI. Tato iniciativa má zajistit domácí výpočetní kapacity pro trénink modelů a aplikace AI, včetně projektu BharatGen.",
-      "slug": "nvidia-backs-indias-sovereign-ai-push-with-gigawat",
-      "publishedAt": "2026-02-19T00:30:00+00:00",
-      "date": "2026-02-19 00:30:00",
-      "importance": 4,
-      "category": "ai",
-      "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/Hero Images/India-trade-networking-outsourcing-adobe.jpeg",
-      "url": "/tech-news/2026-02-19/nvidia-backs-indias-sovereign-ai-push-with-gigawat/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "ComputerWeekly.com"
-      },
-      "companies": [
-        "Nvidia",
-        "L&T",
-        "Yotta",
-        "E2E Networks"
-      ],
-      "people": []
-    },
-    {
-      "title": "Saúdská Humain podpořila ambice Elona Muska v AI investicí 3 miliard dolarů do xAI",
-      "description": "Společnost Humain ze saudského Veřejného investičního fondu (PIF), zaměřená na umělou inteligenci, investovala 3 miliardy dolarů do kola Series E financování xAI těsně před akvizicí této firmy společností SpaceX. Její podíl se převedl na akcie SpaceX, čímž se Humain stala významným menšinovým akcionářem.",
-      "slug": "saudi-arabias-humain-backs-elon-musks-ai-ambitions",
-      "publishedAt": "2026-02-19T00:06:38+00:00",
-      "date": "2026-02-19 00:06:38",
-      "importance": 5,
-      "category": "ai",
-      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/02/xAI-Humain-investments.jpeg",
-      "url": "/tech-news/2026-02-19/saudi-arabias-humain-backs-elon-musks-ai-ambitions/",
-      "source": {
-        "emoji": "📰",
-        "id": null,
-        "name": "pymnts.com"
-      },
-      "companies": [
-        "Humain",
-        "xAI",
-        "SpaceX"
-      ],
-      "people": [
-        "Elon Musk"
-      ]
     }
   ]
 }
