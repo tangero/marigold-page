@@ -1,12 +1,9 @@
 name: Tech News Fetcher
 
 on:
-  schedule:
-    - cron: '0 */4 * * *'  # Každé 4 hodiny
-  workflow_dispatch:  # Manuální spuštění
-  push:
-    branches: [main]
-    paths: ['.github/workflows/tech-news.yml']
+  # schedule:
+  #   - cron: '0 */4 * * *'  # Každé 4 hodiny - VYPNUTO 2026-02-26
+  workflow_dispatch:  # Pouze manuální spuštění
 
 env:
   TZ: Europe/Prague
