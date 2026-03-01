@@ -105,6 +105,15 @@ Přehled klíčových událostí odhaluje znepokojivé juxtapozice:
 
 - 28. února v 1:15 ráno: CENTCOM zahajuje Operaci Epic Fury proti Íránu. Claude stále běží na klasifikovaných sítích. Podle WSJ je využíván k analytickým úkolům během operace.
 
+## Cena omylu: kdo odpovídá, když AI selže?
+
+Jen několik hodin po zahájení Operace Epic Fury zasáhl úder dívčí základní školu Shajareh Tayyebeh ve městě Minab na jihu Íránu. Podle íránských úřadů zahynulo 148 dětí ve věku 7 až 12 let. Washington Post ověřil záběry zničené školy, byť nezávislé potvrzení počtu obětí dosud neexistuje. Škola stála poblíž námořní základny Íránských revolučních gard, která byla cílem dalšího úderu ve stejný den — což naznačuje spíše chybu v cílení konvenčního typu než záměr. CENTCOM uvedl, že „bere zprávy o civilních obětech vážně a prověřuje je". Nevíme — a pravděpodobně se nikdy nedozvíme — zda AI hrála jakoukoli roli při výběru tohoto cíle. Ale právě to je jádro problému: v prostředí, kde AI běží na klasifikovaných vojenských sítích bez transparentních mechanismů vyhodnocování jejího dopadu, nemáme šanci zjistit, zda pomáhá minimalizovat civilní oběti, nebo je násobí.
+
+Debata o vojenské AI se příliš soustředí na technickou spolehlivost modelů a málo na otázku, kdo nese odpovědnost za výsledky. Kognitivní vědec [Gary Marcus nabídl přesnou analogii](https://garymarcus.substack.com/p/is-ai-already-killing-people-by-accident): pokud háži kostkou, abych vybral cíle, neobviňuji kostku z úmrtí — obviňuji toho, kdo se rozhodl nechat o životě a smrti rozhodovat náhodu. AI může následovat sadu kritérií s větší či menší přesností, ale lidé tato kritéria stanovují. Kolik civilních obětí je přijatelných, jaká míra chyb je povolená, jak blízko civilní infrastruktuře smí dopadnout střela. Jak Marcus upozorňuje, největším rizikem není jen to, že AI udělá chybu — ale že se stane nástrojem, kterým se odpovědnost za tyto volby rozplyne. Rozhodnutí přesunout na stroj, které doposud patřilo člověku, je samo o sobě lidským rozhodnutím — a mělo by nést odpovídající odpovědnost.
+
+Toto se váže zpět k Payneově studii i ke sporu o smluvní jazyk. Modely nemají jaderné tabu, ale nemají ani bytostný odpor k civilním obětem. Operují s čísly, ne s morálním úsudkem. Pokud vojenský plánovač používá AI k hodnocení rizik a modelování scénářů, doporučení, která dostává, mohou být systematicky vychýlena — ne proto, že by AI „chtěla" zabíjet civilisty, ale proto, že optimalizuje pro cíle, které jí byly zadány, bez lidské intuice o tom, co je příliš. A smlouva, která toto použití reguluje formulací „pro všechny zákonné účely", nedává odpověď na otázku, kdo ponese odpovědnost, když výsledek bude 148 mrtvých dětí vedle vojenské základny.
+
+
 ## Co to všechno znamená
 
 Tato kauza není jen o jedné firmě a jednom kontraktu. Odhaluje strukturální problém na průsečíku tří linií:
