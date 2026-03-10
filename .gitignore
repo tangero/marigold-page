@@ -46,3 +46,4 @@ _audio/2025-05-25-microsoft-build-2025.mp3
 # OpenMemory - IDE/Assistant specific rules
 .cursor/rules/openmemory.mdc
 CLAUDE.md
+/.claude
