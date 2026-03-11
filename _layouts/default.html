@@ -5,15 +5,13 @@
     {% seo title=false %}
     {% include meta.html %}
 
-    {% if page.layout == 'post' or page.layout == 'tech_news_article' %}
+    {% if page.layout == 'post' or page.layout == 'tech_news_article' or page.layout == 'tech_news' %}
       {% include szn-discussion-meta.html %}
       {% include szn-discussion-jsonld.html %}
     {% endif %}
 
     <link rel="stylesheet" type="text/css" href="/assets/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="/feed.xml" />
-    <link rel="canonical" href="https://www.marigold.cz{{ page.url }}" />
-
     <meta name="theme-color" content="#000000">
 
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
@@ -30,12 +28,14 @@
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <meta name="apple-mobile-web-app-title" content="Marigold">
-    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 
-    {% include fcm-marigold.html %}
+    <!-- Preconnect to key external domains -->
+    <link rel="preconnect" href="https://res.cloudinary.com">
+    <link rel="dns-prefetch" href="https://d21-a.sdn.cz">
+    <link rel="dns-prefetch" href="https://cdn.us.heap-api.com">
 
     <!-- Seznam.cz Discussion System -->
-    <script type="text/javascript" src="https://d21-a.sdn.cz/d_21/sl/3/loader.js"></script>
+    <script type="text/javascript" src="https://d21-a.sdn.cz/d_21/sl/3/loader.js" async></script>
 
     <script type="text/javascript">
       window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
@@ -91,6 +91,7 @@
     </div>
 
     {% include analytics.html %}
+    {% include fcm-marigold.html %}
 
     <script>
     function toggleDetails(button) {

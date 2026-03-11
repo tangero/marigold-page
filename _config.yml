@@ -18,6 +18,7 @@ avatar: /images/patrick-avatar.jpg
 
 languages: ["en", "cs"]
 default_lang: "cs"
+locale: "cs_CZ"
 
 # Includes an icon in the footer for each username you enter
 footer-links:
@@ -121,7 +122,7 @@ kramdown:
 
 # Set the Sass partials directory, as we're using @imports
 sass:
-  style: :expanded # You might prefer to minify using :compressed
+  style: :compressed
 
 # Use the following plug-ins
 plugins:
@@ -184,6 +185,26 @@ exclude:
   - _includes/vibecoding-*.html
   - _data/llm_costs.db
   - _data/llm_costs_report.md
+  # Internal/technical pages - exclude from sitemap
+  - CLAUDE.md
+  - CHANGELOG.md
+  - TECH_NEWS_SETUP.md
+  - TECH_NEWS_PROBLEM_ANALYSIS.md
+  - TECH_NEWS_JSON_SOLUTION.md
+  - TECH_NEWS_ANALYTICS.md
+  - ONESIGNAL_UPDATE_SUMMARY.md
+  - ONESIGNAL_ANALYSIS.md
+  - OG_IMAGE_IMPLEMENTATION.md
+  - NOTIFICATION_FAILURE_ANALYSIS.md
+  - BRIDGY_FED_SETUP.md
+  - chat_README.md
+  - openmemory.md
+  - test_title.md
+  - test_yaml_complex.md
+  - 404.md
+  - 404.html
+  - docs/
+  - scripts/templates/
 
 
 # Tipue search settings

@@ -1,7 +1,7 @@
 <script type="application/ld+json">
 {
-  "@context": "http://schema.org",
-  "@type": "{% if page.layout == 'tech_news_article' %}NewsArticle{% else %}Article{% endif %}",
+  "@context": "https://schema.org",
+  "@type": "{% if page.layout == 'tech_news_article' or page.layout == 'tech_news' %}NewsArticle{% else %}BlogPosting{% endif %}",
   "headline": "{{ page.title | escape }}",
   "datePublished": "{{ page.date | date_to_xmlschema }}",
   {% if page.last_modified_at %}
@@ -9,22 +9,41 @@
   {% else %}
   "dateModified": "{{ page.date | date_to_xmlschema }}",
   {% endif %}
+  {% if page.description %}
+  "description": "{{ page.description | escape }}",
+  {% elsif page.post_excerpt %}
+  "description": "{{ page.post_excerpt | strip_html | truncatewords: 50 | escape }}",
+  {% else %}
+  "description": "{{ page.excerpt | strip_html | truncatewords: 50 | escape }}",
+  {% endif %}
+  {% if page.thumbnail %}
+  "image": "{{ page.thumbnail | replace: 'http://', 'https://' }}",
+  {% elsif page.urlToImage %}
+  "image": "{{ page.urlToImage | replace: 'http://', 'https://' }}",
+  {% else %}
+  "image": "{{ site.url }}{{ site.avatar }}",
+  {% endif %}
   "author": {
     "@type": "Person",
-    "name": "{{ site.author }}"
+    "name": "{% if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif %}",
+    "url": "https://www.marigold.cz/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "{{ site.name }}",
+    "url": "{{ site.url }}",
     "logo": {
       "@type": "ImageObject",
-      "url": "{{ site.url }}{{ site.avatar }}"
+      "url": "{{ site.url }}{{ site.avatar }}",
+      "width": 180,
+      "height": 180
     }
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "{{ site.url }}{{ page.url }}"
   },
-  "discussionUrl": "{{ site.url }}{{ page.url }}#discussion"
+  "discussionUrl": "{{ site.url }}{{ page.url }}#discussion",
+  "inLanguage": "{% if page.lang %}{{ page.lang }}{% else %}cs{% endif %}"
 }
 </script>
