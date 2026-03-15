@@ -1,26 +1,15 @@
-/* Scoped AI Prace styles - embedded in marigold.cz blog */
+/* Scoped AI Prace styles */
 #aiprace-app {
   background: var(--bg-primary);
   color: var(--text-primary);
   font-family: var(--font);
   line-height: 1.6;
-  margin: 0 -10px; /* break out of .container padding */
+  margin: 0 -10px;
   transition: background-color 0.3s ease, color 0.3s ease;
 }
-
-#aiprace-app *,
-#aiprace-app *::before,
-#aiprace-app *::after {
-  box-sizing: border-box;
-}
-
-#aiprace-app a {
-  color: var(--accent);
-  text-decoration: none;
-}
-#aiprace-app a:hover {
-  text-decoration: underline;
-}
+#aiprace-app *, #aiprace-app *::before, #aiprace-app *::after { box-sizing: border-box; }
+#aiprace-app a { color: var(--accent); text-decoration: none; }
+#aiprace-app a:hover { text-decoration: underline; }
 
 /* AI Expozice české ekonomiky — Dual theme with CSS custom properties */
 
@@ -966,8 +955,9 @@
 }
 
 [data-theme="light"] .promo-inner {
-  background: linear-gradient(135deg, #1a2332 0%, #1e3044 100%);
-  border-color: #2a4060;
+  background: linear-gradient(135deg, #0f1923 0%, #162538 100%);
+  border: 2px solid #1a3050;
+  box-shadow: 0 6px 32px rgba(0, 0, 0, 0.25);
 }
 
 .promo-content {
@@ -976,7 +966,7 @@
 
 .promo-badge {
   display: inline-block;
-  background: #4a7cb5;
+  background: #3d8bfd;
   color: #fff;
   font-size: 0.7rem;
   font-weight: 700;
@@ -990,25 +980,25 @@
 .promo-title {
   font-size: 1.3rem;
   font-weight: 700;
-  color: #e8ecf0;
+  color: #f0f4f8;
   margin-bottom: 0.4rem;
 }
 
 .promo-meta {
   font-size: 0.85rem;
-  color: #9ab0c8;
+  color: #a8c0d8;
   margin-bottom: 0.3rem;
 }
 
 .promo-desc {
   font-size: 0.9rem;
-  color: #c0cdd8;
+  color: #d0dce8;
   margin-bottom: 0.4rem;
 }
 
 .promo-early {
   font-size: 0.82rem;
-  color: #4a7cb5;
+  color: #5a9fd4;
   font-style: italic;
 }
 
@@ -1024,27 +1014,29 @@
   font-family: var(--font-mono);
   font-size: 2rem;
   font-weight: 800;
-  color: #e8ecf0;
+  color: #f0f4f8;
   letter-spacing: -0.02em;
 }
 
 .promo-btn {
   display: inline-block;
-  background: #4a7cb5;
+  background: #3d8bfd;
   color: #fff;
   font-size: 0.95rem;
   font-weight: 600;
   padding: 0.7rem 1.8rem;
   border-radius: 8px;
   text-decoration: none;
-  transition: background 0.2s, transform 0.15s;
+  transition: background 0.2s, transform 0.15s, box-shadow 0.2s;
   white-space: nowrap;
+  box-shadow: 0 2px 8px rgba(61, 139, 253, 0.3);
 }
 
 .promo-btn:hover {
-  background: #5a8cc5;
+  background: #5a9fff;
   transform: translateY(-1px);
   text-decoration: none;
+  box-shadow: 0 4px 16px rgba(61, 139, 253, 0.4);
 }
 
 @media (max-width: 768px) {
