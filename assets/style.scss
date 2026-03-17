@@ -418,7 +418,14 @@ nav {
   margin-right: 15px;
   margin-bottom: 15px;
   max-width: 200px;
-  height: auto;
+
+  img {
+    width: 300px;
+    height: 200px;
+    max-width: 100%;
+    object-fit: cover;
+    display: block;
+  }
 }
 
 .excerpt {
