@@ -73,16 +73,30 @@
     }
   }
 
+  // ── Mobile detection ───────────────────────────────────────────────
+  const mobileQuery = window.matchMedia("(max-width: 768px)");
+  function isMobile() { return mobileQuery.matches; }
+
   // ── Initialize ─────────────────────────────────────────────────────
   function init() {
     updateStats();
     setupSliders();
-    renderTreemap();
+    if (isMobile()) {
+      renderMobileAccordion();
+    } else {
+      renderTreemap();
+    }
     renderCohorts();
     renderSectors();
     setupSearch();
     setupDetailPanel();
-    window.addEventListener("resize", debounce(renderTreemap, 250));
+    window.addEventListener("resize", debounce(() => {
+      if (isMobile()) {
+        renderMobileAccordion();
+      } else {
+        renderTreemap();
+      }
+    }, 250));
   }
 
   // ── Stats bar ──────────────────────────────────────────────────────
@@ -130,7 +144,11 @@
       document.getElementById("w-tes-val").textContent = Math.round(weights.tes * 100) + "%";
       document.getElementById("w-tol-val").textContent = Math.round(weights.tol * 100) + "%";
 
-      updateColors();
+      if (isMobile()) {
+        renderMobileAccordion();
+      } else {
+        updateColors();
+      }
       updateStats();
       renderCohorts();
       renderSectors();
@@ -322,21 +340,44 @@
   }
 
   // ── Detail panel ───────────────────────────────────────────────────
+  function hideDetail() {
+    document.getElementById("detail-panel").style.display = "none";
+    document.getElementById("detail-overlay").style.display = "none";
+    document.body.style.overflow = "";
+  }
+
   function setupDetailPanel() {
-    document.getElementById("detail-close").addEventListener("click", () => {
-      document.getElementById("detail-panel").style.display = "none";
-    });
+    document.getElementById("detail-close").addEventListener("click", hideDetail);
+    document.getElementById("detail-overlay").addEventListener("click", hideDetail);
 
     document.addEventListener("keydown", (e) => {
-      if (e.key === "Escape") {
-        document.getElementById("detail-panel").style.display = "none";
-      }
+      if (e.key === "Escape") hideDetail();
     });
+
+    // Swipe-down to close on mobile
+    let touchStartY = 0;
+    const panel = document.getElementById("detail-panel");
+    panel.addEventListener("touchstart", (e) => {
+      if (panel.scrollTop <= 0) {
+        touchStartY = e.touches[0].clientY;
+      }
+    }, { passive: true });
+    panel.addEventListener("touchmove", (e) => {
+      if (panel.scrollTop <= 0) {
+        const dy = e.touches[0].clientY - touchStartY;
+        if (dy > 80) hideDetail();
+      }
+    }, { passive: true });
   }
 
   function showDetail(d, nspItem) {
     const panel = document.getElementById("detail-panel");
     panel.style.display = "block";
+    if (isMobile()) {
+      document.getElementById("detail-overlay").style.display = "block";
+      document.body.style.overflow = "hidden";
+      panel.scrollTop = 0;
+    }
 
     // Show NSP context if searching from NSP
     let nspNote = document.getElementById("detail-nsp-note");
@@ -1057,6 +1098,128 @@ Na závěr:
           </tr>
         </tbody>
       </table>`;
+  }
+
+  // ── Mobile accordion ───────────────────────────────────────────────
+  const MOB_INITIAL_COUNT = 5;
+
+  function renderMobileAccordion() {
+    const container = document.getElementById("mobile-accordion");
+    if (!container) return;
+
+    // Remember which groups are open
+    const openGroups = new Set();
+    container.querySelectorAll(".mob-group.is-open").forEach(g => {
+      openGroups.add(g.dataset.major);
+    });
+    // Remember which groups show all
+    const expandedGroups = new Set();
+    container.querySelectorAll(".mob-group[data-expanded='true']").forEach(g => {
+      expandedGroups.add(g.dataset.major);
+    });
+
+    // Group occupations by ISCO major class
+    const groups = {};
+    for (const occ of data.occupations) {
+      const major = occ.isco_major || "9";
+      if (!groups[major]) {
+        groups[major] = {
+          code: major,
+          name: ISCO_MAJOR_NAMES[major] || "Skupina " + major,
+          occs: [],
+          totalEmployees: 0,
+          totalWage: 0,
+        };
+      }
+      groups[major].occs.push(occ);
+      groups[major].totalEmployees += occ.employees || 0;
+      groups[major].totalWage += (occ.employees || 0) * (occ.median_salary || 0);
+    }
+
+    const groupList = Object.values(groups).sort((a, b) => a.code.localeCompare(b.code));
+
+    // Compute exposures and sort within each group
+    for (const g of groupList) {
+      g.occs = g.occs.map(occ => ({ ...occ, _exp: computeExposure(occ) }));
+      g.occs.sort((a, b) => (b._exp || 0) - (a._exp || 0));
+
+      const withExp = g.occs.filter(o => o._exp != null);
+      if (withExp.length > 0) {
+        const totalFte = withExp.reduce((s, o) => s + (o.fte_thous || 0), 0);
+        g.avgExp = totalFte > 0
+          ? withExp.reduce((s, o) => s + o._exp * (o.fte_thous || 0), 0) / totalFte
+          : withExp.reduce((s, o) => s + o._exp, 0) / withExp.length;
+      } else {
+        g.avgExp = null;
+      }
+    }
+
+    container.innerHTML = groupList.map(g => {
+      const expColor = g.avgExp != null ? exposureColor(g.avgExp) : "#555";
+      const empLabel = g.totalEmployees >= 1000
+        ? Math.round(g.totalEmployees / 1000) + "k"
+        : fmtNum(g.totalEmployees);
+      const isOpen = openGroups.has(g.code);
+      const isExpanded = expandedGroups.has(g.code);
+      const showAll = isExpanded;
+      const visibleOccs = showAll ? g.occs : g.occs.slice(0, MOB_INITIAL_COUNT);
+      const hasMore = g.occs.length > MOB_INITIAL_COUNT;
+
+      return `<div class="mob-group${isOpen ? " is-open" : ""}" data-major="${g.code}"${isExpanded ? ' data-expanded="true"' : ""}>
+        <div class="mob-group-header">
+          <span class="mob-group-chevron">&#9654;</span>
+          <div class="mob-group-info">
+            <div class="mob-group-name">${g.code} ${g.name}</div>
+            <div class="mob-group-meta">${g.occs.length} profesí &middot; ${empLabel} zaměstnanců</div>
+          </div>
+          <span class="mob-group-exposure" style="color:${expColor}">${g.avgExp != null ? g.avgExp.toFixed(1) : "—"}</span>
+        </div>
+        <div class="mob-group-bar" style="background:${expColor};width:${g.avgExp != null ? (g.avgExp * 10) + "%" : "0"}"></div>
+        <div class="mob-group-body">
+          ${visibleOccs.map(occ => {
+            const ec = occ._exp != null ? exposureColor(occ._exp) : "#555";
+            const sal = occ.median_salary ? Math.round(occ.median_salary / 1000) + "k Kč" : "—";
+            const emp = occ.employees >= 1000
+              ? Math.round(occ.employees / 1000) + "k"
+              : fmtNum(occ.employees);
+            return `<div class="mob-occ-item" data-code="${occ.code}">
+              <div class="mob-occ-bar" style="background:${ec}"></div>
+              <div class="mob-occ-info">
+                <div class="mob-occ-name">${occ.name}</div>
+                <div class="mob-occ-meta">${emp} zam. &middot; ${sal}</div>
+              </div>
+              <span class="mob-occ-score" style="color:${ec}">${occ._exp != null ? occ._exp.toFixed(1) : "—"}</span>
+            </div>`;
+          }).join("")}
+          ${hasMore && !showAll ? `<button class="mob-show-more" data-major="${g.code}">Zobrazit všech ${g.occs.length} profesí</button>` : ""}
+        </div>
+      </div>`;
+    }).join("");
+
+    // Event: toggle group open/close
+    container.querySelectorAll(".mob-group-header").forEach(header => {
+      header.addEventListener("click", () => {
+        header.closest(".mob-group").classList.toggle("is-open");
+      });
+    });
+
+    // Event: show more
+    container.querySelectorAll(".mob-show-more").forEach(btn => {
+      btn.addEventListener("click", (e) => {
+        e.stopPropagation();
+        const group = btn.closest(".mob-group");
+        group.dataset.expanded = "true";
+        renderMobileAccordion();
+      });
+    });
+
+    // Event: click on occupation → show detail
+    container.querySelectorAll(".mob-occ-item").forEach(item => {
+      item.addEventListener("click", () => {
+        const occ = data.occupations.find(o => o.code === item.dataset.code);
+        if (occ) showDetail(occ);
+      });
+    });
   }
 
   // ── Utilities ──────────────────────────────────────────────────────
