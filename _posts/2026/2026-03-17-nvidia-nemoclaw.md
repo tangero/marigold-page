@@ -8,7 +8,7 @@ categories:
 - bezpečnost
 - agentní AI 
 layout: post 
-post_excerpt: "NVIDIA na GTC 2026 představila NemoClaw — bezpečnostní vrstvu pro OpenClaw agenty. Nový runtime OpenShell slibuje sandboxování, síťovou izolaci a kontrolu přístupu. Je to ale zatím alfa." 
+post_excerpt: "NVIDIA na GTC 2026 představila NemoClaw — bezpečnostní vrstvu pro OpenClaw agenty. Nový runtime OpenShell slibuje sandboxování, síťovou izolaci a kontrolu přístupu." 
 summary_points:
 - NVIDIA na konferenci GTC 2026 oznámila NemoClaw, open-source stack pro bezpečné nasazení autonomních agentů OpenClaw
 - Jádrem je nový runtime OpenShell, který agenty izoluje v sandboxu s řízeným přístupem k souborům, síti a systémovým voláním
