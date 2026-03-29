@@ -47,3 +47,8 @@ _audio/2025-05-25-microsoft-build-2025.mp3
 .cursor/rules/openmemory.mdc
 CLAUDE.md
 /.claude
+
+# Hugo
+public/
+resources/
+.hugo_build.lock
