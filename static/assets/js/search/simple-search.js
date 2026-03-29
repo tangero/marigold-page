@@ -1,6 +1,3 @@
----
-layout: null
----
 
 // Připraven počkat na načtení dokumentu
 document.addEventListener('DOMContentLoaded', function() {

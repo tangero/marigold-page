@@ -15,6 +15,160 @@
 {{ $allPages = sort $allPages ".Date" "desc" }}
 {{ $paginator := .Paginate $allPages 15 }}
 
+{{- /* Audio player - collect posts with audio_url */ -}}
+{{ $audioPosts := where $allPages ".Params.audio_url" "!=" nil }}
+
+{{ if $audioPosts }}
+<div id="audio-player">
+  <div class="audio-controls">
+    <button id="play-pause" title="Prehrat/Pozastavit">▶️</button>
+    <button id="prev-track" title="Predchozi">⏮️</button>
+    <button id="next-track" title="Dalsi">⏭️</button>
+    <span id="track-title">Nacitam playlist...</span>
+    <div class="progress-container">
+      <div class="progress-bar" id="progress"></div>
+    </div>
+    <span id="track-time">0:00 / 0:00</span>
+  </div>
+  <audio id="audio-element" preload="none"></audio>
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const playlist = [
+    {{ range first 20 $audioPosts }}
+    {
+      title: {{ .Title | jsonify }},
+      url: {{ .Params.audio_url | jsonify }},
+      date: "{{ .Date.Format "02.01.2006" }}"
+    },
+    {{ end }}
+  ];
+
+  if (playlist.length === 0) return;
+
+  const audio = document.getElementById('audio-element');
+  const playPauseBtn = document.getElementById('play-pause');
+  const prevBtn = document.getElementById('prev-track');
+  const nextBtn = document.getElementById('next-track');
+  const trackTitle = document.getElementById('track-title');
+  const progress = document.getElementById('progress');
+  const trackTime = document.getElementById('track-time');
+
+  let currentTrack = 0;
+  let isPlaying = false;
+
+  function loadTrack(index) {
+    if (index >= playlist.length || index < 0) return;
+    currentTrack = index;
+    const track = playlist[currentTrack];
+    audio.src = track.url;
+    trackTitle.textContent = track.title + ' (' + track.date + ')';
+    progress.style.width = '0%';
+    trackTime.textContent = '0:00 / 0:00';
+  }
+
+  function formatTime(seconds) {
+    const mins = Math.floor(seconds / 60);
+    const secs = Math.floor(seconds % 60);
+    return mins + ':' + secs.toString().padStart(2, '0');
+  }
+
+  function updateProgress() {
+    if (audio.duration) {
+      progress.style.width = (audio.currentTime / audio.duration * 100) + '%';
+      trackTime.textContent = formatTime(audio.currentTime) + ' / ' + formatTime(audio.duration);
+    }
+  }
+
+  playPauseBtn.addEventListener('click', function() {
+    if (isPlaying) {
+      audio.pause();
+      playPauseBtn.textContent = '▶️';
+      isPlaying = false;
+    } else {
+      audio.play();
+      playPauseBtn.textContent = '⏸️';
+      isPlaying = true;
+    }
+  });
+
+  prevBtn.addEventListener('click', function() {
+    currentTrack = currentTrack > 0 ? currentTrack - 1 : playlist.length - 1;
+    loadTrack(currentTrack);
+    if (isPlaying) audio.play();
+  });
+
+  nextBtn.addEventListener('click', function() {
+    currentTrack = currentTrack < playlist.length - 1 ? currentTrack + 1 : 0;
+    loadTrack(currentTrack);
+    if (isPlaying) audio.play();
+  });
+
+  audio.addEventListener('timeupdate', updateProgress);
+  audio.addEventListener('ended', function() { nextBtn.click(); });
+  audio.addEventListener('loadedmetadata', updateProgress);
+
+  loadTrack(0);
+});
+</script>
+
+<style>
+#audio-player {
+  background: #f5f5f5;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 10px;
+  margin-bottom: 20px;
+  position: sticky;
+  top: 10px;
+  z-index: 100;
+}
+.audio-controls {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.audio-controls button {
+  background: none;
+  border: none;
+  font-size: 16px;
+  cursor: pointer;
+  padding: 5px;
+  border-radius: 3px;
+}
+.audio-controls button:hover {
+  background-color: rgba(0,0,0,0.1);
+}
+#track-title {
+  flex: 1;
+  font-weight: 500;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  min-width: 0;
+}
+.progress-container {
+  width: 100px;
+  height: 4px;
+  background: #ddd;
+  border-radius: 2px;
+  overflow: hidden;
+}
+.progress-bar {
+  height: 100%;
+  background: #007cba;
+  width: 0%;
+  transition: width 0.1s;
+}
+#track-time {
+  font-size: 12px;
+  color: #666;
+  white-space: nowrap;
+}
+</style>
+{{ end }}
+
 <div class="posts">
   {{ range $paginator.Pages }}
   {{ $postURL := .RelPermalink }}
