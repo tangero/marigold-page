@@ -1,5 +1,8 @@
 <!DOCTYPE html>
 <html lang="cs">
+  <script>
+    (function(){var t=localStorage.getItem('marigold-theme');if(t==='dark'||(!t&&window.matchMedia('(prefers-color-scheme:dark)').matches)){document.documentElement.setAttribute('data-theme','dark')}})();
+  </script>
   <head>
     <title>{{ if .Title }}{{ .Title }} | {{ end }}Marigold.cz - Site a Technologie</title>
     {{ partial "meta.html" . }}

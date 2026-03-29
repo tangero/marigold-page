@@ -278,6 +278,62 @@ nav {
   }
 }
 
+// Theme toggle
+.theme-toggle {
+  background: none;
+  border: 1px solid darken($lightGray, 10%);
+  border-radius: 50%;
+  width: 34px;
+  height: 34px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  padding: 0;
+  transition: border-color 0.2s ease, background-color 0.2s ease;
+
+  &:hover {
+    border-color: $blue;
+    background-color: rgba($blue, 0.05);
+  }
+
+  &:focus-visible {
+    outline: 2px solid $blue;
+    outline-offset: 2px;
+  }
+
+  svg {
+    color: $gray;
+    transition: color 0.2s ease;
+  }
+
+  .icon-moon {
+    display: none;
+  }
+}
+
+// In dark mode, show moon, hide sun
+[data-theme="dark"] .theme-toggle {
+  border-color: #3a3a5c;
+
+  &:hover {
+    border-color: #6db3f2;
+    background-color: rgba(#6db3f2, 0.1);
+  }
+
+  svg {
+    color: #a0a0b8;
+  }
+
+  .icon-sun {
+    display: none;
+  }
+
+  .icon-moon {
+    display: block;
+  }
+}
+
 // Dropdown navigace
 .nav-dropdown {
   position: relative;
@@ -2018,7 +2074,7 @@ pre:has(code.language-mermaid), code.language-mermaid {
 /* DARK MODE         */
 /*********************/
 
-@media (prefers-color-scheme: dark) {
+[data-theme="dark"] {
   body {
     background: #1a1a2e;
     color: #e0e0e0;
