@@ -73,9 +73,14 @@
   <div class="entry">
     {{ if .TableOfContents }}
     {{ if gt (len .TableOfContents) 100 }}
-    <nav class="toc">
-      <h4>Obsah</h4>
-      {{ .TableOfContents }}
+    <nav class="toc" id="toc">
+      <button class="toc-toggle" onclick="document.getElementById('toc').classList.toggle('collapsed')" aria-label="Zobrazit/skryt obsah">
+        <span class="toc-label">OBSAH</span>
+        <span class="toc-icon">&#9660;</span>
+      </button>
+      <div class="toc-body">
+        {{ .TableOfContents }}
+      </div>
     </nav>
     {{ end }}
     {{ end }}
