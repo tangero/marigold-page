@@ -14,6 +14,10 @@ disablePathToLower = true
   pagerSize = 15
   path = "page"
 
+# Extract date from filename (Jekyll-compatible: YYYY-MM-DD-slug.md)
+[frontmatter]
+  date = [":filename", ":default"]
+
 [permalinks]
   [permalinks.page]
     posts = "/item/:slug/"

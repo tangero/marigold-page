@@ -263,6 +263,7 @@ nav {
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
+    white-space: nowrap;
 
     &:focus-visible {
       outline: 2px solid $blue;
