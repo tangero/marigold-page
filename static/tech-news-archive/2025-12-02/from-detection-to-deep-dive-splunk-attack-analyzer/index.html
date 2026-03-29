@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Od detekce k hloubkové analýze: Splunk Attack Analyzer a Endace pro bezpečnost na GovWare 2025 | Marigold.cz Tech News</title>
+    <meta name="description" content="Na konferenci GovWare 2025 tým propojil Splunk Attack Analyzer prostřednictvím API s nástrojem Endace pro efektivní lov hrozeb. Tato integrace umožnila rychlý p">
+    <link rel="canonical" href="https://www.marigold.cz/tech-news/2025-12-02/from-detection-to-deep-dive-splunk-attack-analyzer/">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #374151; background: #f3f4f6; }
+        .container { max-width: 800px; margin: 0 auto; padding: 2rem; }
+        .tech-news-article { background: white; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); padding: 2rem; margin: 2rem 0; }
+        .source-info { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem; flex-wrap: wrap; }
+        .source-emoji { font-size: 1.5rem; }
+        .source-name { font-weight: 600; color: #374151; }
+        .importance-indicator { display: flex; gap: 2px; margin-left: auto; }
+        .star { color: #fbbf24; font-size: 1.2rem; }
+        .star.empty { color: #d1d5db; }
+        .article-title { font-size: 2rem; font-weight: 700; line-height: 1.2; margin-bottom: 1rem; color: #111827; }
+        .article-meta { display: flex; align-items: center; gap: 1rem; font-size: 0.875rem; color: #6b7280; margin-bottom: 1.5rem; }
+        .category { padding: 0.25rem 0.75rem; border-radius: 1rem; font-weight: 500; font-size: 0.75rem; text-transform: uppercase; background: #e5e7eb; color: #374151; }
+        .article-image { margin: 1.5rem 0; border-radius: 8px; overflow: hidden; }
+        .article-image img { width: 100%; height: auto; display: block; }
+        .article-content { font-size: 1.125rem; line-height: 1.7; margin-bottom: 2rem; }
+        .article-content h2 { font-size: 1.5rem; margin: 1.5rem 0 1rem; color: #111827; }
+        .article-content p { margin-bottom: 1rem; }
+        .article-footer { border-top: 1px solid #e5e7eb; padding-top: 1.5rem; }
+        .read-more-btn { display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: #3b82f6; color: white; text-decoration: none; border-radius: 8px; font-weight: 500; }
+        .read-more-btn:hover { background: #2563eb; }
+        .original-title { margin-top: 1rem; color: #6b7280; font-size: 0.875rem; }
+        .back-link { display: inline-block; margin-bottom: 1rem; color: #3b82f6; text-decoration: none; }
+        .back-link:hover { text-decoration: underline; }
+        .archive-notice { background: #fef3c7; border: 1px solid #f59e0b; border-radius: 8px; padding: 1rem; margin-bottom: 1rem; font-size: 0.875rem; color: #92400e; }
+        @media (max-width: 640px) {
+            .container { padding: 1rem; }
+            .tech-news-article { padding: 1.5rem; margin: 1rem 0; }
+            .article-title { font-size: 1.5rem; }
+            .source-info { flex-direction: column; align-items: flex-start; }
+            .importance-indicator { margin-left: 0; margin-top: 0.5rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="/tech-news/" class="back-link">&larr; Zpět na Tech News</a>
+
+        <div class="archive-notice">
+            Tento článek je z archivu. Byl publikován 02.12.2025.
+        </div>
+
+        <article class="tech-news-article">
+            <header>
+                <div class="source-info">
+                    <span class="source-emoji">📰</span>
+                    <span class="source-name">Cisco.com</span>
+                    <div class="importance-indicator">
+                        <span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star empty">☆</span><span class="star empty">☆</span>
+                    </div>
+                </div>
+
+                <h1 class="article-title">Od detekce k hloubkové analýze: Splunk Attack Analyzer a Endace pro bezpečnost na GovWare 2025</h1>
+
+                <div class="article-meta">
+                    <time datetime="2025-12-02T08:00:58+00:00">02.12.2025</time>
+                    <span class="category">kyberbezpečnost</span>
+                </div>
+            </header>
+
+            
+            <div class="article-image">
+                <img src="https://blogs.cisco.com/gcs/ciscoblogs/1/2025/12/FY26_Q2_from-detection-to-deep-dive-splunk-attack-analyzer-and-endace-for-govware-2025-security_blog_social_card.jpeg" alt="Od detekce k hloubkové analýze: Splunk Attack Analyzer a Endace pro bezpečnost na GovWare 2025" loading="lazy">
+            </div>
+        
+
+            <div class="article-content">
+                <h2>Souhrn</h2>
+<p>Na konferenci GovWare 2025 tým zabezpečení využil integraci Splunk Enterprise a Splunk Attack Analyzer s nástrojem Endace k ochraně živé události s tisíci účastníků. Tato kombinace propojila detekci anomálií v síti s hloubkovou analýzou podezřelých souborů a URL, což umožnilo rychlou validaci hrozeb. Klíčovým prvkem bylo automatické odesílání zdrojů z Endace do Splunk Attack Analyzer pro sandboxovou analýzu.</p>
+<h2>Klíčové body</h2>
+<ul>
+<li>Propojení API Splunk Attack Analyzer s Endace pro automatické odesílání podezřelých souborů a URL z síťového provozu.</li>
+<li>Detekce zip archivu obsahujícího malwarový soubor .exe s hodnocením 100 bodů v Splunk Attack Analyzer.</li>
+<li>Integrace s Cisco Secure Malware Analytics (dříve Threat Grid) pro sandboxovou analýzu, kde 22 z 28 detekcí pocházelo z tohoto nástroje.</li>
+<li>Použití Zeek v Endace pro identifikaci podezřelých zdrojů v reálném čase.</li>
+<li>Aplikace v prostředí s dočasnými sítěmi a mnoha zařízeními na konferenci.</li>
+</ul>
+<h2>Podrobnosti</h2>
+<p>Zabezpečení živé konference jako GovWare 2025 představuje výzvu kvůli rozmanitosti zařízení, dočasným sítím, dočasným přihlašovacím údajům a tisícům uživatelů. Hrozby musí být identifikovány a řešeny v reálném čase, což vyžaduje nejen detekci anomálií, ale i rychlý přechod k forenzní analýze na úrovni síťových paketů. Tým tedy integroval Splunk Enterprise a Splunk Attack Analyzer (SAA), což je nástroj pro sandboxovou analýzu podezřelých objektů, s platformou Endace. Endace je specializovaný nástroj pro pokročilé záznam síťového provozu, který poskytuje viditelnost na úrovni jednotlivých paketů a slouží k dlouhodobému ukládání a reprodukci provozu pro forenzní vyšetřování.</p>
+<p>Propojení probíhalo přes robustní API Splunk Attack Analyzer. Endace, využívající open-source framework Zeek pro analýzu síťového provozu, automaticky identifikoval a odeslal podezřelé soubory a URL (nazývané „resources“) do SAA. Z 28 odeslaných souborů byla většina neškodná, ale jeden zip archiv získal skóre 100, což signalizovalo vysokou pravděpodobnost malwaru. Uvnitř archivu byl nalezen spustitelný soubor .exe. Tým tento soubor analyzoval v sandboxu Cisco Secure Malware Analytics (SMA), který je integrován se SAA a dříve fungoval pod názvem Threat Grid. Tento sandbox simuluje reálné prostředí pro bezpečné spuštění a pozorování chování malwaru, přičemž 22 z 28 detekcí pocházelo právě odtud. V záložce „Normalized Forensics“ v SAA byly vidět normalizované forenzní údaje, které pomohly pochopit chování souboru, včetně aplikované detekční logiky.</p>
+<p>Tato workflow umožnila týmům rychle pivotovat od alertů v Splunk k packet-level forenzice v Endace, což je klíčové pro validaci hrozeb důkazy z paketů. Splunk Enterprise slouží k agregaci a analýze logů z různých zdrojů, zatímco SAA rozšiřuje schopnosti o dynamickou analýzu v izolovaném prostředí.</p>
+<h2>Proč je to důležité</h2>
+<p>Tato integrace demonstruje praktické využití propojení bezpečnostních nástrojů v prostředích s vysokou zátěží, jako jsou konference nebo velké akce, kde tradiční detekce nestačí. V širším kontextu kyberbezpečnosti posiluje přechod od reaktivního monitoringu k proaktivnímu lovu hrozeb, což snižuje čas na reakci. Pro průmysl znamená, že firmy jako Splunk a Endace nabízejí škálovatelné řešení pro sítě s vysokou diverzitou, kde je packet capture nezbytný pro soudní důkazy. Kriticky lze říci, že i když je integrace efektivní, závislost na sandboxech jako SMA vyžaduje pravidelné aktualizace detekčních podpisů, aby odolala obcházením malwaru. Celkově přispívá k lepší viditelnosti v hybridních sítích, což je aktuální trend v éře rostoucích útoků na veřejné události.</p>
+<hr />
+<p><a href="https://blogs.cisco.com/security/from-detection-to-deep-dive-splunk-attack-analyzer-and-endace-for-govware-2025-security">Číst původní článek</a></p>
+<p><strong>Zdroj:</strong> 📰 Cisco.com</p>
+            </div>
+
+            <footer class="article-footer">
+                <a href="https://blogs.cisco.com/security/from-detection-to-deep-dive-splunk-attack-analyzer-and-endace-for-govware-2025-security" target="_blank" rel="noopener" class="read-more-btn">
+                    Číst původní článek &rarr;
+                </a>
+
+                <div class="original-title"><small>Původní název: From Detection to Deep Dive: Splunk Attack Analyzer and Endace for GovWare 2025 Security</small></div>
+            </footer>
+        </article>
+
+        <p style="text-align: center; color: #6b7280; font-size: 0.875rem; margin-top: 2rem;">
+            &copy; 2025 <a href="https://www.marigold.cz" style="color: #3b82f6;">Marigold.cz</a>
+        </p>
+    </div>
+</body>
+</html>

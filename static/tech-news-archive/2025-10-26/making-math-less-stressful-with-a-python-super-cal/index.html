@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Matematika bez stresu: Vytvoření superkalkultoru v Pythonu | Marigold.cz Tech News</title>
+    <meta name="description" content="David Delony vytvořil v Pythonu nástroj podobný Wolfram Mathematica pro symbolickou matematiku a statistickou analýzu. Systém kombinuje knihovny SymPy, NumPy, p">
+    <link rel="canonical" href="https://www.marigold.cz/tech-news/2025-10-26/making-math-less-stressful-with-a-python-super-cal/">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #374151; background: #f3f4f6; }
+        .container { max-width: 800px; margin: 0 auto; padding: 2rem; }
+        .tech-news-article { background: white; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); padding: 2rem; margin: 2rem 0; }
+        .source-info { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem; flex-wrap: wrap; }
+        .source-emoji { font-size: 1.5rem; }
+        .source-name { font-weight: 600; color: #374151; }
+        .importance-indicator { display: flex; gap: 2px; margin-left: auto; }
+        .star { color: #fbbf24; font-size: 1.2rem; }
+        .star.empty { color: #d1d5db; }
+        .article-title { font-size: 2rem; font-weight: 700; line-height: 1.2; margin-bottom: 1rem; color: #111827; }
+        .article-meta { display: flex; align-items: center; gap: 1rem; font-size: 0.875rem; color: #6b7280; margin-bottom: 1.5rem; }
+        .category { padding: 0.25rem 0.75rem; border-radius: 1rem; font-weight: 500; font-size: 0.75rem; text-transform: uppercase; background: #e5e7eb; color: #374151; }
+        .article-image { margin: 1.5rem 0; border-radius: 8px; overflow: hidden; }
+        .article-image img { width: 100%; height: auto; display: block; }
+        .article-content { font-size: 1.125rem; line-height: 1.7; margin-bottom: 2rem; }
+        .article-content h2 { font-size: 1.5rem; margin: 1.5rem 0 1rem; color: #111827; }
+        .article-content p { margin-bottom: 1rem; }
+        .article-footer { border-top: 1px solid #e5e7eb; padding-top: 1.5rem; }
+        .read-more-btn { display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: #3b82f6; color: white; text-decoration: none; border-radius: 8px; font-weight: 500; }
+        .read-more-btn:hover { background: #2563eb; }
+        .original-title { margin-top: 1rem; color: #6b7280; font-size: 0.875rem; }
+        .back-link { display: inline-block; margin-bottom: 1rem; color: #3b82f6; text-decoration: none; }
+        .back-link:hover { text-decoration: underline; }
+        .archive-notice { background: #fef3c7; border: 1px solid #f59e0b; border-radius: 8px; padding: 1rem; margin-bottom: 1rem; font-size: 0.875rem; color: #92400e; }
+        @media (max-width: 640px) {
+            .container { padding: 1rem; }
+            .tech-news-article { padding: 1.5rem; margin: 1rem 0; }
+            .article-title { font-size: 1.5rem; }
+            .source-info { flex-direction: column; align-items: flex-start; }
+            .importance-indicator { margin-left: 0; margin-top: 0.5rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="/tech-news/" class="back-link">&larr; Zpět na Tech News</a>
+
+        <div class="archive-notice">
+            Tento článek je z archivu. Byl publikován 26.10.2025.
+        </div>
+
+        <article class="tech-news-article">
+            <header>
+                <div class="source-info">
+                    <span class="source-emoji">📰</span>
+                    <span class="source-name">Hackaday</span>
+                    <div class="importance-indicator">
+                        <span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star empty">☆</span><span class="star empty">☆</span>
+                    </div>
+                </div>
+
+                <h1 class="article-title">Matematika bez stresu: Vytvoření superkalkultoru v Pythonu</h1>
+
+                <div class="article-meta">
+                    <time datetime="2025-10-26T17:00:00+00:00">26.10.2025</time>
+                    <span class="category">programování</span>
+                </div>
+            </header>
+
+            
+            <div class="article-image">
+                <img src="https://hackaday.com/wp-content/uploads/2025/10/tips_vs_bill_regression-banner.jpg" alt="Matematika bez stresu: Vytvoření superkalkultoru v Pythonu" loading="lazy">
+            </div>
+        
+
+            <div class="article-content">
+                <h2>Souhrn</h2>
+<p>Vývojář David Delony vytvořil v Pythonu nástroj pro matematické výpočty, který se svými funkcemi blíží komerčnímu systému Wolfram Mathematica. Jádrem řešení je knihovna SymPy pro symbolickou matematiku, kterou doplňuje řada specializovaných knihoven pro statistiku a analýzu dat. Delony uvádí, že práce se symbolickou matematikou mu výrazně pomohla v pochopení kalkulu a lineární algebry.</p>
+<h2>Klíčové body</h2>
+<ul>
+<li>Základ tvoří knihovna SymPy pro symbolickou matematiku, která umožňuje pracovat s matematickými výrazy algebraicky bez nutnosti numerického vyhodnocení</li>
+<li>Pro statistickou analýzu využívá kombinaci NumPy, pandas a SciPy</li>
+<li>Regresní analýzu a pokročilé statistické metody zajišťují knihovny statsmodels a Pingouin</li>
+<li>Systém dokáže pracovat s tabulkovými daty z Excelu i relačních databází</li>
+<li>Podporuje běžné pravděpodobnostní rozdělení včetně binomického, normálního a Studentova t-rozdělení</li>
+</ul>
+<h2>Podrobnosti</h2>
+<p>Delonyho řešení kombinuje několik specializovaných Python knihoven do funkčního celku. NumPy slouží k vytváření vícerozměrných polí a poskytuje základní deskriptivní statistiku jako průměr, medián a směrodatnou odchylku. Knihovna pandas umožňuje práci s tabulkovými daty organizovanými do struktur zvaných DataFrames a dokáže načítat data přímo z tabulkových procesorů včetně Excelu nebo z relačních databází.</p>
+<p>SciPy představuje rozsáhlou sbírku operací určených pro vědecké výpočty. Zahrnuje užitečné statistické funkce a implementace běžných pravděpodobnostních rozdělení, což je zásadní pro statistickou analýzu dat.</p>
+<p>Pro regresní analýzu, tedy proces hledání křivky nejlépe odpovídající datům, Delony využívá knihovny statsmodels a Pingouin. Jednoduchá lineární regrese dokáže pro dvourozměrná data vygenerovat funkci ve tvaru y = mx + b včetně směrnice a průsečíku s osou y. Tento přístup lze rozšířit na vícerozměrná data a další typy regrese.</p>
+<p>Celý systém tak vytváří alternativu ke komerčním nástrojům jako Wolfram Mathematica, přičemž využívá výhradně open-source knihovny dostupné v ekosystému Pythonu.</p>
+<h2>Proč je to důležité</h2>
+<p>Projekt demonstruje, jak lze pomocí open-source nástrojů vytvořit plnohodnotnou alternativu k drahým komerčním matematickým systémům. Pro studenty a výzkumníky to znamená přístup k pokročilým matematickým nástrojům bez nutnosti investovat do licencí. Symbolická matematika navíc umožňuje hlubší pochopení matematických konceptů, protože uživatel pracuje přímo s algebraickými výrazy, nikoli pouze s jejich numerickými hodnotami. Řešení také ukazuje sílu Python ekosystému pro vědecké výpočty a datovou analýzu.</p>
+<hr />
+<p><a href="https://hackaday.com/2025/10/26/making-math-less-stressful-with-a-python-super-calculator/">Číst původní článek</a></p>
+<p><strong>Zdroj:</strong> 📰 Hackaday</p>
+            </div>
+
+            <footer class="article-footer">
+                <a href="https://hackaday.com/2025/10/26/making-math-less-stressful-with-a-python-super-calculator/" target="_blank" rel="noopener" class="read-more-btn">
+                    Číst původní článek &rarr;
+                </a>
+
+                <div class="original-title"><small>Původní název: Making Math Less Stressful With A Python Super-Calculator - Hackaday</small></div>
+            </footer>
+        </article>
+
+        <p style="text-align: center; color: #6b7280; font-size: 0.875rem; margin-top: 2rem;">
+            &copy; 2025 <a href="https://www.marigold.cz" style="color: #3b82f6;">Marigold.cz</a>
+        </p>
+    </div>
+</body>
+</html>

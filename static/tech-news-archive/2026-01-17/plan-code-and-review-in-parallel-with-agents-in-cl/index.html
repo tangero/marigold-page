@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plánování, kódování a kontrola souběžně s agenty v Claude Code | Marigold.cz Tech News</title>
+    <meta name="description" content="Leon van Zyl popisuje, jak sub-agenti v Claude Code mění pracovní postupy tím, že rozkládají složité úkoly na specializované části. Tyto agenty umožňují delegov">
+    <link rel="canonical" href="https://www.marigold.cz/tech-news/2026-01-17/plan-code-and-review-in-parallel-with-agents-in-cl/">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #374151; background: #f3f4f6; }
+        .container { max-width: 800px; margin: 0 auto; padding: 2rem; }
+        .tech-news-article { background: white; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); padding: 2rem; margin: 2rem 0; }
+        .source-info { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem; flex-wrap: wrap; }
+        .source-emoji { font-size: 1.5rem; }
+        .source-name { font-weight: 600; color: #374151; }
+        .importance-indicator { display: flex; gap: 2px; margin-left: auto; }
+        .star { color: #fbbf24; font-size: 1.2rem; }
+        .star.empty { color: #d1d5db; }
+        .article-title { font-size: 2rem; font-weight: 700; line-height: 1.2; margin-bottom: 1rem; color: #111827; }
+        .article-meta { display: flex; align-items: center; gap: 1rem; font-size: 0.875rem; color: #6b7280; margin-bottom: 1.5rem; }
+        .category { padding: 0.25rem 0.75rem; border-radius: 1rem; font-weight: 500; font-size: 0.75rem; text-transform: uppercase; background: #e5e7eb; color: #374151; }
+        .article-image { margin: 1.5rem 0; border-radius: 8px; overflow: hidden; }
+        .article-image img { width: 100%; height: auto; display: block; }
+        .article-content { font-size: 1.125rem; line-height: 1.7; margin-bottom: 2rem; }
+        .article-content h2 { font-size: 1.5rem; margin: 1.5rem 0 1rem; color: #111827; }
+        .article-content p { margin-bottom: 1rem; }
+        .article-footer { border-top: 1px solid #e5e7eb; padding-top: 1.5rem; }
+        .read-more-btn { display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: #3b82f6; color: white; text-decoration: none; border-radius: 8px; font-weight: 500; }
+        .read-more-btn:hover { background: #2563eb; }
+        .original-title { margin-top: 1rem; color: #6b7280; font-size: 0.875rem; }
+        .back-link { display: inline-block; margin-bottom: 1rem; color: #3b82f6; text-decoration: none; }
+        .back-link:hover { text-decoration: underline; }
+        .archive-notice { background: #fef3c7; border: 1px solid #f59e0b; border-radius: 8px; padding: 1rem; margin-bottom: 1rem; font-size: 0.875rem; color: #92400e; }
+        @media (max-width: 640px) {
+            .container { padding: 1rem; }
+            .tech-news-article { padding: 1.5rem; margin: 1rem 0; }
+            .article-title { font-size: 1.5rem; }
+            .source-info { flex-direction: column; align-items: flex-start; }
+            .importance-indicator { margin-left: 0; margin-top: 0.5rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="/tech-news/" class="back-link">&larr; Zpět na Tech News</a>
+
+        <div class="archive-notice">
+            Tento článek je z archivu. Byl publikován 17.01.2026.
+        </div>
+
+        <article class="tech-news-article">
+            <header>
+                <div class="source-info">
+                    <span class="source-emoji">📰</span>
+                    <span class="source-name">Geeky Gadgets</span>
+                    <div class="importance-indicator">
+                        <span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star empty">☆</span>
+                    </div>
+                </div>
+
+                <h1 class="article-title">Plánování, kódování a kontrola souběžně s agenty v Claude Code</h1>
+
+                <div class="article-meta">
+                    <time datetime="2026-01-17T09:00:21+00:00">17.01.2026</time>
+                    <span class="category">ai</span>
+                </div>
+            </header>
+
+            
+            <div class="article-image">
+                <img src="https://www.geeky-gadgets.com/wp-content/uploads/2026/01/context-bounds-claude-code_optimized.jpg" alt="Plánování, kódování a kontrola souběžně s agenty v Claude Code" loading="lazy">
+            </div>
+        
+
+            <div class="article-content">
+                <h2>Souhrn</h2>
+<p>Sub-agenti v Claude Code, nástroji od Anthropic pro asistovanou tvorbu kódu založenou na modelu Claude, umožňují paralelní zpracování úkolů jako plánování, kódování a kontrola kódu. Tento přístup deleguje specifické role specializovaným agentům, jako je Coder Agent pro psaní kódu, Code Reviewer Agent pro revizi a UI Expert Agent pro uživatelské rozhraní, což zjednodušuje řízení velkých projektů. Výsledkem je efektivnější workflow bez ztráty kontextu.</p>
+<h2>Klíčové body</h2>
+<ul>
+<li>Sub-agenti rozkládají složité úkoly na specializované komponenty, což umožňuje paralelní provádění a šetří tokeny v hlavním vlákně.</li>
+<li>Možnost přizpůsobení rolí a nástrojů, například Coder Agent pro generování kódu, Code Reviewer Agent pro detekci chyb a UI Expert Agent pro návrh rozhraní.</li>
+<li>Zachování kontextu mezi agenty zajišťuje konzistenci projektu bez nutnosti opakovat informace.</li>
+<li>Aplikovatelné na vývoj responzivních webových aplikací nebo komplexních softwarových projektů.</li>
+<li>Zkrácené shrnutí (TL;DR): Sub-agenti zefektivňují delegaci, snižují spotřebu tokenů a urychlují vývoj.</li>
+</ul>
+<h2>Podrobnosti</h2>
+<p>Claude Code je rozšířením modelu Claude od Anthropic, který slouží k asistované tvorbě a úpravě kódu přímo v rozhraní chatu. Novinka spočívá v sub-agentech, které fungují jako autonomní moduly v rámci hlavního projektu. Například Coder Agent přebírá psaní kódu na základě specifikací, zatímco Code Reviewer Agent analyzuje výstup, hledá bezpečnostní zranitelnosti, stylistické chyby nebo neefektivity a navrhuje opravy. UI Expert Agent se zaměřuje na návrh uživatelských rozhraní, generuje CSS, React komponenty nebo optimalizuje responzivitu.</p>
+<p>Tyto agenty pracují paralelně: delegujete úkol jednomu, on spustí podřízený proces a vrátí výsledky do hlavního vlákna. To je klíčové pro velké projekty, kde tradiční lineární workflow v AI nástrojích jako GitHub Copilot nebo Cursor vede k přetížení kontextu a vysoké spotřebě tokenů. V Claude Code se kontext sdílí efektivně – agenti mají přístup k celému projektu, ale zpracovávají jen svůj díl, což snižuje náklady a zrychluje iterace.</p>
+<p>Leon van Zyl, vývojář specializovaný na AI workflowy, demonstruje použití na příkladech jako tvorba webové aplikace: plánovací agent navrhne architekturu, kódovací agent implementuje backend v Node.js, revizní agent ověří kvalitu a UI agent doladí frontend. Tento modulární přístup minimalizuje chyby tím, že specializace zvyšuje přesnost – například Code Reviewer Agent detekuje potenciální SQL injection nebo memory leaky, které obecný model přehlíží. Oproti konkurenci, jako je Devin od Cognition Labs, Claude Code zdůrazňuje otevřenost a integraci s existujícími IDE jako VS Code.</p>
+<h2>Proč je to důležité</h2>
+<p>Tento update posiluje pozici Claude v soutěži o nejlepší AI pro vývojáře, kde GPT-4o a Gemini 1.5 vedou díky podobným agentickým funkcím. Pro průmysl znamená zkrácení vývojového cyklu o desítky procent, zejména v týmech, kde AI nahrazuje junior developery. Uživatelé získají nástroj pro skalovatelné projekty bez ztráty kontroly, což otevírá dveře k rychlejšímu prototypování. Kriticky: zatím chybí pokročilá podpora pro multi-language projekty nebo hlubokou integraci s CI/CD pipeline, ale paralelní agenty jsou krok k AGI-like workflowům v kódování. V širším kontextu urychluje adopci AI v softwarovém inženýrství, kde efektivita tokenů rozhoduje o ekonomice.</p>
+<hr />
+<p><a href="https://www.geeky-gadgets.com/claude-code-task-delegation/">Číst původní článek</a></p>
+<p><strong>Zdroj:</strong> 📰 Geeky Gadgets</p>
+            </div>
+
+            <footer class="article-footer">
+                <a href="https://www.geeky-gadgets.com/claude-code-task-delegation/" target="_blank" rel="noopener" class="read-more-btn">
+                    Číst původní článek &rarr;
+                </a>
+
+                <div class="original-title"><small>Původní název: Plan, Code, and Review in Parallel with Agents in Claude Code</small></div>
+            </footer>
+        </article>
+
+        <p style="text-align: center; color: #6b7280; font-size: 0.875rem; margin-top: 2rem;">
+            &copy; 2026 <a href="https://www.marigold.cz" style="color: #3b82f6;">Marigold.cz</a>
+        </p>
+    </div>
+</body>
+</html>

@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Důvěrný výpočet na AWS Nitro Enclave s Red Hat Enterprise Linux | Marigold.cz Tech News</title>
+    <meta name="description" content="Důvěrný výpočet chrání citlivá data nejen při ukládání nebo přenosu, ale i během zpracování v paměti, což je tradičně nejslabší fáze. Článek ukazuje implementac">
+    <link rel="canonical" href="https://www.marigold.cz/tech-news/2025-12-01/confidential-computing-on-aws-nitro-enclave-with-r/">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #374151; background: #f3f4f6; }
+        .container { max-width: 800px; margin: 0 auto; padding: 2rem; }
+        .tech-news-article { background: white; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); padding: 2rem; margin: 2rem 0; }
+        .source-info { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem; flex-wrap: wrap; }
+        .source-emoji { font-size: 1.5rem; }
+        .source-name { font-weight: 600; color: #374151; }
+        .importance-indicator { display: flex; gap: 2px; margin-left: auto; }
+        .star { color: #fbbf24; font-size: 1.2rem; }
+        .star.empty { color: #d1d5db; }
+        .article-title { font-size: 2rem; font-weight: 700; line-height: 1.2; margin-bottom: 1rem; color: #111827; }
+        .article-meta { display: flex; align-items: center; gap: 1rem; font-size: 0.875rem; color: #6b7280; margin-bottom: 1.5rem; }
+        .category { padding: 0.25rem 0.75rem; border-radius: 1rem; font-weight: 500; font-size: 0.75rem; text-transform: uppercase; background: #e5e7eb; color: #374151; }
+        .article-image { margin: 1.5rem 0; border-radius: 8px; overflow: hidden; }
+        .article-image img { width: 100%; height: auto; display: block; }
+        .article-content { font-size: 1.125rem; line-height: 1.7; margin-bottom: 2rem; }
+        .article-content h2 { font-size: 1.5rem; margin: 1.5rem 0 1rem; color: #111827; }
+        .article-content p { margin-bottom: 1rem; }
+        .article-footer { border-top: 1px solid #e5e7eb; padding-top: 1.5rem; }
+        .read-more-btn { display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: #3b82f6; color: white; text-decoration: none; border-radius: 8px; font-weight: 500; }
+        .read-more-btn:hover { background: #2563eb; }
+        .original-title { margin-top: 1rem; color: #6b7280; font-size: 0.875rem; }
+        .back-link { display: inline-block; margin-bottom: 1rem; color: #3b82f6; text-decoration: none; }
+        .back-link:hover { text-decoration: underline; }
+        .archive-notice { background: #fef3c7; border: 1px solid #f59e0b; border-radius: 8px; padding: 1rem; margin-bottom: 1rem; font-size: 0.875rem; color: #92400e; }
+        @media (max-width: 640px) {
+            .container { padding: 1rem; }
+            .tech-news-article { padding: 1.5rem; margin: 1rem 0; }
+            .article-title { font-size: 1.5rem; }
+            .source-info { flex-direction: column; align-items: flex-start; }
+            .importance-indicator { margin-left: 0; margin-top: 0.5rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="/tech-news/" class="back-link">&larr; Zpět na Tech News</a>
+
+        <div class="archive-notice">
+            Tento článek je z archivu. Byl publikován 01.12.2025.
+        </div>
+
+        <article class="tech-news-article">
+            <header>
+                <div class="source-info">
+                    <span class="source-emoji">📰</span>
+                    <span class="source-name">Redhat.com</span>
+                    <div class="importance-indicator">
+                        <span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star empty">☆</span><span class="star empty">☆</span>
+                    </div>
+                </div>
+
+                <h1 class="article-title">Důvěrný výpočet na AWS Nitro Enclave s Red Hat Enterprise Linux</h1>
+
+                <div class="article-meta">
+                    <time datetime="2025-12-01T00:00:00+00:00">01.12.2025</time>
+                    <span class="category">důvěrný výpočet</span>
+                </div>
+            </header>
+
+            
+            <div class="article-image">
+                <img src="https://www.redhat.com/themes/custom/rhdc/img/red-hat-social-share.jpg" alt="Důvěrný výpočet na AWS Nitro Enclave s Red Hat Enterprise Linux" loading="lazy">
+            </div>
+        
+
+            <div class="article-content">
+                <h2>Souhrn</h2>
+<p>Článek popisuje, jak nasadit důvěrný výpočet na platformě AWS pomocí Nitro Enclaves v kombinaci s Red Hat Enterprise Linux (RHEL) 9.6 a novějšími verzemi. Tato technologie chrání data během jejich aktivního zpracování v paměti před hrozbami jako jsou privilegovaní uživatelé, kompromitovaní hypervizory nebo pokročilý malware. Autor poskytuje praktický návod pro nasazení na EC2 instancích nebo ROSA clusterech.</p>
+<h2>Klíčové body</h2>
+<ul>
+<li>AWS Nitro Enclaves vytváří Trusted Execution Environment (TEE) s šifrovanou pamětí a přísnou kontrolou přístupu.</li>
+<li>RHEL 9.6+ podporuje hardwareové funkce jako AMD SEV-SNP, Intel TDX a IBM Secure Execution pro šifrované virtuální stroje.</li>
+<li>Systém zjednodušuje konfiguraci pomocí bezpečnostních profilů, nástrojů pro attestation a správy životního cyklu.</li>
+<li>Vyžaduje přístup k AWS Console a nasazený RHEL 9.6+ nebo ROSA.</li>
+<li>Zaměřeno na ochranu dat v cloudu před poskytovatelem, administrátory i systémovým softwarem.</li>
+</ul>
+<h2>Podrobnosti</h2>
+<p>Důvěrný výpočet řeší zranitelnost dat během jejich zpracování v paměti, kde v konvenčních prostředích hrozí útoky od privilegovaných insiderů, kompromitovaných hypervizorů nebo malwaru schopného čtení paměti serveru. AWS Nitro Enclaves, postavené na Nitro architektuře, poskytují hardwarově chráněné TEE, které šifruje paměť a blokuje nepovolený přístup. Tím zajišťují, že ani cloudový poskytovatel, systémoví administrátoři ani software na úrovni systému nemohou data prohlížet nebo měnit.</p>
+<p>Red Hat Enterprise Linux hraje klíčovou roli jako vyzrálý operační systém kompatibilní s těmito technologiemi. RHEL integruje podporu pro CPU-level funkce: AMD SEV-SNP pro bezpečné šifrování virtuálních strojů, Intel TDX pro podobnou ochranu na Intel platformách a IBM Secure Execution pro Power architektury. Tyto funkce umožňují vytvářet šifrované virtuální stroje a bezpečné enklávy. RHEL abstrahuje složitost konfigurace – nabízí bezpečnostní profily pro snadné nastavení, nástroje pro attestation (ověření integrity prostředí) a nástroje pro správu životního cyklu enkláv, což usnadňuje nasazení v produkčním prostředí.</p>
+<p>Pro praktickou implementaci je nutný přístup k AWS Console, nasazený RHEL 9.6+ na EC2 nebo ROSA (Red Hat OpenShift Service on AWS). Článek předpokládá znalost předchozích materiálů o konceptech, použitích a zdůvodnění důvěrného výpočtu. Hardware Nitro zajišťuje bezpečné spojení a certifikaci. Workloady běžící v TEE zůstávají izolované, což je ideální pro aplikace zpracovávající citlivá data jako zdravotnické záznamy, finanční transakce nebo AI modely trénované na proprietárních datech.</p>
+<h2>Proč je to důležité</h2>
+<p>V éře cloud computingu, kde firmy outsourcovat výpočty na veřejné cloudy, roste potřeba ochrany před riziky na straně poskytovatele. Důvěrný výpočet posiluje důvěru v AWS pro regulované odvětví jako finance, zdravotnictví nebo vláda, kde je attestation klíčová pro compliance (např. GDPR, HIPAA). Integrace s RHEL rozšiřuje použitelnost na enterprise prostředí, kde je stabilita a podpora rozhodující. Pro průmysl to znamená snížení rizik datových úniků během zpracování, což je kritické pro AI aplikace s citlivými daty, kde tradiční šifrování nestačí. Tento přístup nenahrazuje jiné bezpečnostní vrstvy, ale doplňuje je, čímž zvyšuje celkovou odolnost proti pokročilým hrozbám.</p>
+<hr />
+<p><a href="https://www.redhat.com/en/blog/deploy-confidential-computing-aws-nitro-enclaves-red-hat-enterprise-linux">Číst původní článek</a></p>
+<p><strong>Zdroj:</strong> 📰 Redhat.com</p>
+            </div>
+
+            <footer class="article-footer">
+                <a href="https://www.redhat.com/en/blog/deploy-confidential-computing-aws-nitro-enclaves-red-hat-enterprise-linux" target="_blank" rel="noopener" class="read-more-btn">
+                    Číst původní článek &rarr;
+                </a>
+
+                <div class="original-title"><small>Původní název: Confidential computing on AWS Nitro Enclave with Red Hat Enterprise Linux</small></div>
+            </footer>
+        </article>
+
+        <p style="text-align: center; color: #6b7280; font-size: 0.875rem; margin-top: 2rem;">
+            &copy; 2025 <a href="https://www.marigold.cz" style="color: #3b82f6;">Marigold.cz</a>
+        </p>
+    </div>
+</body>
+</html>

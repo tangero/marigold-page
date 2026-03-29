@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NVIDIA podle čipového architekta Jima Kellera možná ukončí svůj 'CUDA příkop' novou aktualizací – portování jader bude snazší | Marigold.cz Tech News</title>
+    <meta name="description" content="NVIDIA představila významný upgrade svého softwaru CUDA nazvaný CUDA Tile, který mění programování grafických procesorů z modelu SIMT na tile-based přístup. Čip">
+    <link rel="canonical" href="https://www.marigold.cz/tech-news/2025-12-08/nvidia-might-end-the-cuda-moat-with-its-latest-upd/">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #374151; background: #f3f4f6; }
+        .container { max-width: 800px; margin: 0 auto; padding: 2rem; }
+        .tech-news-article { background: white; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); padding: 2rem; margin: 2rem 0; }
+        .source-info { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem; flex-wrap: wrap; }
+        .source-emoji { font-size: 1.5rem; }
+        .source-name { font-weight: 600; color: #374151; }
+        .importance-indicator { display: flex; gap: 2px; margin-left: auto; }
+        .star { color: #fbbf24; font-size: 1.2rem; }
+        .star.empty { color: #d1d5db; }
+        .article-title { font-size: 2rem; font-weight: 700; line-height: 1.2; margin-bottom: 1rem; color: #111827; }
+        .article-meta { display: flex; align-items: center; gap: 1rem; font-size: 0.875rem; color: #6b7280; margin-bottom: 1.5rem; }
+        .category { padding: 0.25rem 0.75rem; border-radius: 1rem; font-weight: 500; font-size: 0.75rem; text-transform: uppercase; background: #e5e7eb; color: #374151; }
+        .article-image { margin: 1.5rem 0; border-radius: 8px; overflow: hidden; }
+        .article-image img { width: 100%; height: auto; display: block; }
+        .article-content { font-size: 1.125rem; line-height: 1.7; margin-bottom: 2rem; }
+        .article-content h2 { font-size: 1.5rem; margin: 1.5rem 0 1rem; color: #111827; }
+        .article-content p { margin-bottom: 1rem; }
+        .article-footer { border-top: 1px solid #e5e7eb; padding-top: 1.5rem; }
+        .read-more-btn { display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: #3b82f6; color: white; text-decoration: none; border-radius: 8px; font-weight: 500; }
+        .read-more-btn:hover { background: #2563eb; }
+        .original-title { margin-top: 1rem; color: #6b7280; font-size: 0.875rem; }
+        .back-link { display: inline-block; margin-bottom: 1rem; color: #3b82f6; text-decoration: none; }
+        .back-link:hover { text-decoration: underline; }
+        .archive-notice { background: #fef3c7; border: 1px solid #f59e0b; border-radius: 8px; padding: 1rem; margin-bottom: 1rem; font-size: 0.875rem; color: #92400e; }
+        @media (max-width: 640px) {
+            .container { padding: 1rem; }
+            .tech-news-article { padding: 1.5rem; margin: 1rem 0; }
+            .article-title { font-size: 1.5rem; }
+            .source-info { flex-direction: column; align-items: flex-start; }
+            .importance-indicator { margin-left: 0; margin-top: 0.5rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="/tech-news/" class="back-link">&larr; Zpět na Tech News</a>
+
+        <div class="archive-notice">
+            Tento článek je z archivu. Byl publikován 08.12.2025.
+        </div>
+
+        <article class="tech-news-article">
+            <header>
+                <div class="source-info">
+                    <span class="source-emoji">📰</span>
+                    <span class="source-name">Wccftech</span>
+                    <div class="importance-indicator">
+                        <span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star empty">☆</span>
+                    </div>
+                </div>
+
+                <h1 class="article-title">NVIDIA podle čipového architekta Jima Kellera možná ukončí svůj 'CUDA příkop' novou aktualizací – portování jader bude snazší</h1>
+
+                <div class="article-meta">
+                    <time datetime="2025-12-08T18:55:28+00:00">08.12.2025</time>
+                    <span class="category">gpu programování</span>
+                </div>
+            </header>
+
+            
+            <div class="article-image">
+                <img src="https://cdn.wccftech.com/wp-content/uploads/2023/06/Tenstorrent-RISC-V-AI-CPUs-Chiplets-Jim-Keller-_5-g-low_res-scale-2_00x.jpg" alt="NVIDIA podle čipového architekta Jima Kellera možná ukončí svůj 'CUDA příkop' novou aktualizací – portování jader bude snazší" loading="lazy">
+            </div>
+        
+
+            <div class="article-content">
+                <h3>Souhrn</h3>
+<p>NVIDIA vydala jednu z nejvýznamnějších aktualizací svého softwarového balíku CUDA, nazvaného CUDA Tile, který nahrazuje tradiční model SIMT tile-based přístupem. Tento změna podle čipového architekta Jima Kellera znamená konec tzv. &lsquo;CUDA příkopu&rsquo;, tedy softwarové výhody, která bránila developerům v jednoduchém přenosu kódu na GPU od konkurentů. Výsledek je jednodušší programování GPU pro AI aplikace.</p>
+<h3>Klíčové body</h3>
+<ul>
+<li>Přechod z modelu SIMT (Single Instruction Multiple Threads) na tile-based programování, kde se GPU chová jako procesor zpracovávající dlaždice dat.</li>
+<li>Úvod nové nízkoúrovňové virtuální mašiny Tile IR, která abstrahuje složitosti GPU.</li>
+<li>Snížení potřeby manuálních optimalizací, jako je nastavování velikosti dlaždic, sdílené paměti nebo výpočetních zdrojů.</li>
+<li>Komentář Jima Kellera na sociálních sítích: přechod na dlaždice usnadní portování AI jader na hardware jako AMD nebo Intel.</li>
+<li>CUDA zůstává klíčovou platformou pro AI workflow, kterou dosud nikdo plně nenapodobil.</li>
+</ul>
+<h3>Podrobnosti</h3>
+<p>CUDA je proprietární platforma NVIDIA pro paralelní výpočty na grafických procesorech (GPU), která umožňuje developerům psát kernele – malé programy spouštěné na tisících jader GPU současně. Tradičně vychází z modelu SIMT, kde jeden příkaz zpracovává více vláken dat paralelně, ale vyžaduje pečlivé ladění parametrů: velikost bloků vláken, množství dat v sdílené paměti nebo alokaci registra. Tyto optimalizace jsou časově náročné a specifické pro architekturu NVIDIA, což vytvářelo &lsquo;příkop&rsquo; – bariéru pro migraci kódu na konkurenční platformy jako ROCm od AMD nebo oneAPI od Intelu.</p>
+<p>Nový CUDA Tile mění tento paradigmat. Místo ručního řízení vláken zavádí tile-based model, inspirovaný moderními GPU architekturami, kde data a výpočty jsou organizovány do &lsquo;dlaždic&rsquo; (tiles) – pevných bloků paměti a výkonu. GPU je nyní prezentováno jako tile procesor, kde programátor se soustředí na logiku algoritmu, zatímco kompilátor a Tile IR (nová intermediální reprezentace pro kompilaci) se starají o optimalizace. Tile IR funguje jako nízkoúrovňový virtuální stroj, který generuje efektivní kód pro různé NVIDIA GPU, včetně novějších jako Hopper nebo Blackwell.</p>
+<p>Tento přístup snižuje složitost programování: developer nemusí experimentovat s velikostmi bloků nebo pamětí, což urychluje vývoj AI modelů, jako je trénink velkých jazykových modelů (LLM) nebo inferencia. Příkladem použití je přepsání konvolučních vrstev v neuronových sítích, kde CUDA Tile automaticky rozdělí data do dlaždic a zajistí koherenci mezi pamětí. NVIDIA tak reaguje na rostoucí tlak od konkurentů, kteří již tile-based modely používají (např. AMD CDNA architektury). Jim Keller, známý architekt čipů z AMD, Intelu a NVIDIA, to shrnul v tweetu z 7. prosince 2025: &lsquo;Pokud přejdou na dlaždice jako většina hardware, AI kernele budou snadněji portovatelné.&rsquo;</p>
+<h3>Proč je to důležité</h3>
+<p>Tato aktualizace oslabuje monopol NVIDIA v AI ekosystému, kde CUDA dominuje díky knihovnám jako cuDNN nebo TensorRT pro hluboké učení. Dosud developeři investovali měsíce do přepisování kódu pro ROCm nebo SYCL, což brzdilo adopci levnějších GPU od AMD (např. MI300X) nebo Intelu (Gaudi3). Snadnější portování umožní rychlejší diverzifikaci hardware v datových centrech, což sníží ceny AI výpočtů a donutí NVIDIA k větší inovaci.</p>
+<p>Pro uživatele a firmy znamená to kratší dobu vývoje: malé týmy mohou nyní psát univerzálnější kód, kompilovatelný přes nástroje jako OpenAI Triton nebo tvůrci vlastních backendů. V širším kontextu to urychlí růst AI aplikací mimo NVIDIA ekosystém, ale zároveň zvyšuje riziko fragmentace – ne každý vendor bude mít ekvivalent Tile IR. NVIDIA si tak udržuje náskok, ale otevírá dveře konkurenci, což by mohlo zmírnit její 80% podíl na AI GPU trhu. Dlouhodobě to prospěje inovacím v AGI výzkumu, kde cena výpočtů je klíčová.</p>
+<hr />
+<p><a href="https://wccftech.com/nvidia-might-end-the-cuda-moat-with-its-latest-update-says-jim-keller/">Číst původní článek</a></p>
+<p><strong>Zdroj:</strong> 📰 Wccftech</p>
+            </div>
+
+            <footer class="article-footer">
+                <a href="https://wccftech.com/nvidia-might-end-the-cuda-moat-with-its-latest-update-says-jim-keller/" target="_blank" rel="noopener" class="read-more-btn">
+                    Číst původní článek &rarr;
+                </a>
+
+                <div class="original-title"><small>Původní název: NVIDIA Might End the ‘CUDA Moat’ With Its Latest Update, Says Chip Architect Jim Keller, Who Claims It Will Now Be Easier to Port Kernels</small></div>
+            </footer>
+        </article>
+
+        <p style="text-align: center; color: #6b7280; font-size: 0.875rem; margin-top: 2rem;">
+            &copy; 2025 <a href="https://www.marigold.cz" style="color: #3b82f6;">Marigold.cz</a>
+        </p>
+    </div>
+</body>
+</html>

@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jak vytvořit AI data pipelines odolné vůči ransomware: Praktický průvodce pro moderní podniky | Marigold.cz Tech News</title>
+    <meta name="description" content="Moderní podniky závisí na AI data pipelines pro analýzu dat a automatizované rozhodování. Tento průvodce nabízí praktické kroky k ochraně těchto systémů před ra">
+    <link rel="canonical" href="https://www.marigold.cz/tech-news/2026-01-05/how-to-build-ransomware-resilient-ai-data-pipeline/">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #374151; background: #f3f4f6; }
+        .container { max-width: 800px; margin: 0 auto; padding: 2rem; }
+        .tech-news-article { background: white; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); padding: 2rem; margin: 2rem 0; }
+        .source-info { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem; flex-wrap: wrap; }
+        .source-emoji { font-size: 1.5rem; }
+        .source-name { font-weight: 600; color: #374151; }
+        .importance-indicator { display: flex; gap: 2px; margin-left: auto; }
+        .star { color: #fbbf24; font-size: 1.2rem; }
+        .star.empty { color: #d1d5db; }
+        .article-title { font-size: 2rem; font-weight: 700; line-height: 1.2; margin-bottom: 1rem; color: #111827; }
+        .article-meta { display: flex; align-items: center; gap: 1rem; font-size: 0.875rem; color: #6b7280; margin-bottom: 1.5rem; }
+        .category { padding: 0.25rem 0.75rem; border-radius: 1rem; font-weight: 500; font-size: 0.75rem; text-transform: uppercase; background: #e5e7eb; color: #374151; }
+        .article-image { margin: 1.5rem 0; border-radius: 8px; overflow: hidden; }
+        .article-image img { width: 100%; height: auto; display: block; }
+        .article-content { font-size: 1.125rem; line-height: 1.7; margin-bottom: 2rem; }
+        .article-content h2 { font-size: 1.5rem; margin: 1.5rem 0 1rem; color: #111827; }
+        .article-content p { margin-bottom: 1rem; }
+        .article-footer { border-top: 1px solid #e5e7eb; padding-top: 1.5rem; }
+        .read-more-btn { display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: #3b82f6; color: white; text-decoration: none; border-radius: 8px; font-weight: 500; }
+        .read-more-btn:hover { background: #2563eb; }
+        .original-title { margin-top: 1rem; color: #6b7280; font-size: 0.875rem; }
+        .back-link { display: inline-block; margin-bottom: 1rem; color: #3b82f6; text-decoration: none; }
+        .back-link:hover { text-decoration: underline; }
+        .archive-notice { background: #fef3c7; border: 1px solid #f59e0b; border-radius: 8px; padding: 1rem; margin-bottom: 1rem; font-size: 0.875rem; color: #92400e; }
+        @media (max-width: 640px) {
+            .container { padding: 1rem; }
+            .tech-news-article { padding: 1.5rem; margin: 1rem 0; }
+            .article-title { font-size: 1.5rem; }
+            .source-info { flex-direction: column; align-items: flex-start; }
+            .importance-indicator { margin-left: 0; margin-top: 0.5rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="/tech-news/" class="back-link">&larr; Zpět na Tech News</a>
+
+        <div class="archive-notice">
+            Tento článek je z archivu. Byl publikován 05.01.2026.
+        </div>
+
+        <article class="tech-news-article">
+            <header>
+                <div class="source-info">
+                    <span class="source-emoji">📰</span>
+                    <span class="source-name">HackRead</span>
+                    <div class="importance-indicator">
+                        <span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star empty">☆</span>
+                    </div>
+                </div>
+
+                <h1 class="article-title">Jak vytvořit AI data pipelines odolné vůči ransomware: Praktický průvodce pro moderní podniky</h1>
+
+                <div class="article-meta">
+                    <time datetime="2026-01-05T12:25:58+00:00">05.01.2026</time>
+                    <span class="category">kyberbezpečnost</span>
+                </div>
+            </header>
+
+            
+
+            <div class="article-content">
+                <h2>Souhrn</h2>
+<p>Moderní podniky intenzivně využívají AI data pipelines k zpracování velkých objemů dat pro strojové učení, prediktivní analýzy a automatizovaná rozhodnutí. Tyto potrubí, sestávající z nástrojů jako Apache Kafka pro streamování dat, Apache Airflow pro orchestraci workflow nebo cloudové úložiště jako AWS S3, se stávají atraktivním cílem pro ransomware útoky. Průvodce popisuje konkrétní opatření pro zajištění odolnosti, včetně záloh, neměnných úložišť a monitoringu.</p>
+<h2>Klíčové body</h2>
+<ul>
+<li>Implementace 3-2-1 pravidla pro zálohy: tři kopie dat na dvou různých nosiči, z toho jedna mimo síť.</li>
+<li>Použití immutable storage řešení, jako S3 Object Lock nebo Azure Blob Storage s časovým zámkem.</li>
+<li>Zero-trust architektura s principem nejmenších práv a mikrosegmentací sítě.</li>
+<li>Nasazení nástrojů pro detekci anomálií na bázi machine learning, například Splunk nebo Elastic Security.</li>
+<li>Pravidelné testování odolnosti prostřednictvím simulovaných útoků (red teaming).</li>
+</ul>
+<h2>Podrobnosti</h2>
+<p>AI data pipelines představují sekvenci procesů od sběru dat přes čištění, feature engineering až po trénink a nasazení modelů strojového učení. Typicky zahrnují nástroje pro ingest dat jako Apache NiFi, distribuované úložiště Hadoop nebo cloudové služby Google Cloud Dataflow. Ransomware útoky, jako varianty LockBit nebo Conti, cílí na tyto systémy šifrováním souborů v úložištích, což znemožňuje přístup k tréninkovým datům a modelům. Útoky se šíří přes phishing, zranitelné API nebo supply chain kompromisy, jako byl případ SolarWinds.</p>
+<p>Pro odolnost je klíčové 3-2-1 pravidlo záloh: udržujte tři kopie dat – primární, sekundární lokální a třetí off-line na magnetických páskách nebo air-gapped serverech. Immutable storage zabraňuje změnám: v AWS S3 nastavte Object Lock s retention period 90 dnů, což znemožní ransomware přepsat data i s administrátorskými právy. V Azure použijte Blob immutable policies proti DELETE a OVERWRITE operacím.</p>
+<p>Dále aplikujte zero-trust model: každá komponenta pipeline – od kontejnerů Kubernetes po databáze – musí ověřovat identitu přes mTLS a RBAC (role-based access control). Mikrosegmentace s nástroji jako Istio nebo Calico omezí laterální pohyb útočníka. Pro detekci nasaďte SIEM systémy s ML modely pro anomálie, například neočekávaný nárůst I/O operací na úložišti. Pipeline by měl běžet v izolovaných prostředích: development, staging a production s oddělenými kredenciemi.</p>
+<p>Důležité je i šifrování dat v klidu (AES-256) a v pohybu (TLS 1.3), plus pravidelné patchování komponent jako Log4j zranitelnosti. Pro AI specificky zálohujte nejen data, ale i natrénované modely v TensorFlow SavedModel formátu nebo ONNX. Testujte recovery time objective (RTO) pod 4 hodiny simulacemi pomocí nástrojů jako Chaos Monkey. Tyto kroky minimalizují rizika v hybridních cloudových prostředích, kde se pipelines často protáhnou multi-cloudem.</p>
+<h2>Proč je to důležité</h2>
+<p>Ransomware útoky na data centra stály v roce 2023 průměrně 4,5 milionu dolarů na incident, s průměrným výpadkem 24 dnů. Pro AI pipelines to znamená ztrátu konkurenční výhody: bez dat nelze retrénovat modely, což ovlivní predikce v finance, healthcare nebo autonomních systémech. V širším ekosystému roste závislost na AI, zatímco útočníci cílí na vysokohodnotové cíle – podle Verizon DBIR 2024 je 80 % breachů způsobeno kompromisem identity. Odolné pipelines zajišťují kontinuitu, chrání duševní vlastnictví a snižují regulační rizika jako GDPR pokuty za ztrátu dat. Bez těchto opatření se podniky stávají snadnými oběťmi v éře rostoucích ransom požadavků přes 1 milion dolarů.</p>
+<hr />
+<p><a href="https://hackread.com/building-ransomware-resilient-ai-data-pipelines/">Číst původní článek</a></p>
+<p><strong>Zdroj:</strong> 📰 HackRead</p>
+            </div>
+
+            <footer class="article-footer">
+                <a href="https://hackread.com/building-ransomware-resilient-ai-data-pipelines/" target="_blank" rel="noopener" class="read-more-btn">
+                    Číst původní článek &rarr;
+                </a>
+
+                <div class="original-title"><small>Původní název: How To Build Ransomware-Resilient AI Data Pipelines: A Practical Guide for Modern Enterprises</small></div>
+            </footer>
+        </article>
+
+        <p style="text-align: center; color: #6b7280; font-size: 0.875rem; margin-top: 2rem;">
+            &copy; 2026 <a href="https://www.marigold.cz" style="color: #3b82f6;">Marigold.cz</a>
+        </p>
+    </div>
+</body>
+</html>

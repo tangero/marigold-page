@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Umělá inteligence už usnadňuje online podvody. Může to být ještě horší. | Marigold.cz Tech News</title>
+    <meta name="description" content="Anton Cherepanov objevil na VirusTotal soubor s ransomware PromptLock, který využívá velké jazykové modely (LLM) k plné automatizaci útoku. Ačkoli se ukázalo, ž">
+    <link rel="canonical" href="https://www.marigold.cz/tech-news/2026-02-12/ai-is-already-making-online-swindles-easier-it-cou/">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #374151; background: #f3f4f6; }
+        .container { max-width: 800px; margin: 0 auto; padding: 2rem; }
+        .tech-news-article { background: white; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); padding: 2rem; margin: 2rem 0; }
+        .source-info { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem; flex-wrap: wrap; }
+        .source-emoji { font-size: 1.5rem; }
+        .source-name { font-weight: 600; color: #374151; }
+        .importance-indicator { display: flex; gap: 2px; margin-left: auto; }
+        .star { color: #fbbf24; font-size: 1.2rem; }
+        .star.empty { color: #d1d5db; }
+        .article-title { font-size: 2rem; font-weight: 700; line-height: 1.2; margin-bottom: 1rem; color: #111827; }
+        .article-meta { display: flex; align-items: center; gap: 1rem; font-size: 0.875rem; color: #6b7280; margin-bottom: 1.5rem; }
+        .category { padding: 0.25rem 0.75rem; border-radius: 1rem; font-weight: 500; font-size: 0.75rem; text-transform: uppercase; background: #e5e7eb; color: #374151; }
+        .article-image { margin: 1.5rem 0; border-radius: 8px; overflow: hidden; }
+        .article-image img { width: 100%; height: auto; display: block; }
+        .article-content { font-size: 1.125rem; line-height: 1.7; margin-bottom: 2rem; }
+        .article-content h2 { font-size: 1.5rem; margin: 1.5rem 0 1rem; color: #111827; }
+        .article-content p { margin-bottom: 1rem; }
+        .article-footer { border-top: 1px solid #e5e7eb; padding-top: 1.5rem; }
+        .read-more-btn { display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: #3b82f6; color: white; text-decoration: none; border-radius: 8px; font-weight: 500; }
+        .read-more-btn:hover { background: #2563eb; }
+        .original-title { margin-top: 1rem; color: #6b7280; font-size: 0.875rem; }
+        .back-link { display: inline-block; margin-bottom: 1rem; color: #3b82f6; text-decoration: none; }
+        .back-link:hover { text-decoration: underline; }
+        .archive-notice { background: #fef3c7; border: 1px solid #f59e0b; border-radius: 8px; padding: 1rem; margin-bottom: 1rem; font-size: 0.875rem; color: #92400e; }
+        @media (max-width: 640px) {
+            .container { padding: 1rem; }
+            .tech-news-article { padding: 1.5rem; margin: 1rem 0; }
+            .article-title { font-size: 1.5rem; }
+            .source-info { flex-direction: column; align-items: flex-start; }
+            .importance-indicator { margin-left: 0; margin-top: 0.5rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="/tech-news/" class="back-link">&larr; Zpět na Tech News</a>
+
+        <div class="archive-notice">
+            Tento článek je z archivu. Byl publikován 12.02.2026.
+        </div>
+
+        <article class="tech-news-article">
+            <header>
+                <div class="source-info">
+                    <span class="source-emoji">🎓</span>
+                    <span class="source-name">MIT Technology Review</span>
+                    <div class="importance-indicator">
+                        <span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star">★</span>
+                    </div>
+                </div>
+
+                <h1 class="article-title">Umělá inteligence už usnadňuje online podvody. Může to být ještě horší.</h1>
+
+                <div class="article-meta">
+                    <time datetime="2026-02-12T11:00:00+00:00">12.02.2026</time>
+                    <span class="category">kyberbezpečnost</span>
+                </div>
+            </header>
+
+            
+            <div class="article-image">
+                <img src="https://wp.technologyreview.com/wp-content/uploads/2026/02/opener-final1_social.jpg?resize=1200,600" alt="Umělá inteligence už usnadňuje online podvody. Může to být ještě horší." loading="lazy">
+            </div>
+        
+
+            <div class="article-content">
+                <h2>Souhrn</h2>
+<p>Výzkumníci Anton Cherepanov a Peter Strýček objevili na platformě VirusTotal vzorek ransomware nazvaný PromptLock, který integruje velké jazykové modely (LLM) do všech fází útoku. Tento malware autonomně generuje kód, mapuje systém, šifruje data a píše personalizované výkupné poznámky. Později se ukázalo, že jde o experiment z New York University, nikoli skutečný útok ve volné přírodě.</p>
+<h2>Klíčové body</h2>
+<ul>
+<li>PromptLock využívá LLM k real-time generování kódu, mapování počítače a tvorbě personalizovaných ransom notes.</li>
+<li>Malware funguje plně autonomně bez lidského zásahu a mění chování při každém spuštění, což ztěžuje detekci.</li>
+<li>Objev vedl k globální mediální pozornosti, ale byl vyvrácen jako výzkumný projekt NYU.</li>
+<li>Ukazuje rizika zneužití generativní AI v kybernetických útocích.</li>
+</ul>
+<h2>Podrobnosti</h2>
+<p>Anton Cherepanov, výzkumník v kyberbezpečnosti, průběžně monitoruje nahrané soubory na VirusTotal, platformě sloužící k analýze potenciálně škodlivého software, jako jsou viry a malware. Koncem srpna minulého roku narazil na nevinně vypadající soubor, který spustil jeho vlastní detekční nástroje. Společně s kolegem Petrem Strýčkem soubor prozkoumali a zjistili, že obsahuje ransomware – typ malware, který šifruje soubory na obětním systému a blokuje je, dokud útočník nedostane výkupné, obvykle v kryptoměnách.</p>
+<p>Co tento případ odlišovalo, bylo použití velkých jazykových modelů (LLM), jako jsou ty založené na architektuře podobné GPT. Po instalaci se PromptLock připojil k LLM, aby v reálném čase generoval přizpůsobený kód pro specifické úkoly. Například autonomně prohledal systém, identifikoval citlivá data k enkódování nebo krádeži a na základě obsahu souborů vytvořil personalizované výkupné zprávy – například zmínil konkrétní názvy dokumentů nebo typy dat. Každé spuštění probíhalo jinak díky dynamické generaci, což zvyšuje odolnost vůči antivirovým systémům založeným na signaturách.</p>
+<p>Cherepanov a Strýček, kteří pracují pro firmu specializovanou na analýzu malware, tento objev označili za průlomový a publikovali blogový příspěvek, kde ho prezentovali jako první příklad ransomware poháněného AI. Zpráva rychle získala mezinárodní pozornost v médiích jako Wired nebo cybersecurity blogy. Dne následující tým z New York University (NYU) přiznal autorství: šlo o proof-of-concept výzkum, který měl prokázat možnost plné automatizace útoků pomocí LLM. Studenti a výzkumníci z NYU tak simulovali scénář, kde AI nahrazuje manuální práci hackerů, což umožňuje rychlejší a adaptivnější útoky.</p>
+<p>Tento případ ilustruje, jak dostupné LLM – jako ty od OpenAI nebo open-source alternativy – lze integrovat do malware přes API volání. Útočník nemusí psát složitý kód; stačí zadat příkaz typu „vygeneruj skript pro šifrování souborů v složce X&rdquo;. To snižuje bariéru pro amatérské hackery a zvyšuje riziko sofistikovaných kampaní.</p>
+<h2>Proč je to důležité</h2>
+<p>Objev PromptLock nastoluje novou éru v kyberbezpečnosti, kde generativní AI umožňuje malware stát se dynamickým a obtížně detekovatelným. I když tento případ byl výzkumný, ukazuje reálný potenciál pro budoucí hrozby: autonomní ransomware by mohl obcházet tradiční obranu, jako jsou heuristické analyzátory, a přizpůsobovat se specifickým cílům firem nebo jednotlivců. Pro průmysl to znamená nutnost rozšířit detekci o analýzu LLM volání v síti a chování v reálném čase. V širším kontextu AI ekosystému to podtrhuje rizika otevřených modelů – bez lepšího guardrailingu (bezpečnostních mechanismů) se stanou nástrojem pro zločin. Firmy jako ESET nebo Kaspersky, kde Cherepanov a Strýček působí, nyní testují obranu proti takovým hybridním hrozbám. Pokud se technologie rozšíří, může vést k eskalaci online podvodů, kde AI generuje nejen kód, ale i phishing e-maily nebo deepfake hlasy pro sociální inženýrství. (512 slov)</p>
+<hr />
+<p><a href="https://www.technologyreview.com/2026/02/12/1132386/ai-already-making-online-swindles-easier/">Číst původní článek</a></p>
+<p><strong>Zdroj:</strong> 🎓 MIT Technology Review</p>
+            </div>
+
+            <footer class="article-footer">
+                <a href="https://www.technologyreview.com/2026/02/12/1132386/ai-already-making-online-swindles-easier/" target="_blank" rel="noopener" class="read-more-btn">
+                    Číst původní článek &rarr;
+                </a>
+
+                <div class="original-title"><small>Původní název: AI is already making online swindles easier. It could get much worse.</small></div>
+            </footer>
+        </article>
+
+        <p style="text-align: center; color: #6b7280; font-size: 0.875rem; margin-top: 2rem;">
+            &copy; 2026 <a href="https://www.marigold.cz" style="color: #3b82f6;">Marigold.cz</a>
+        </p>
+    </div>
+</body>
+</html>

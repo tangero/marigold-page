@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fair Human-Centric Image Benchmark: nový etický dataset pro hodnocení fairness v AI | Marigold.cz Tech News</title>
+    <meta name="description" content="Výzkumníci představili dataset FHIBE (Fair Human-Centric Image Benchmark), který je navržen tak, aby umožnil etické, transparentní a detailní testování předsudk">
+    <link rel="canonical" href="https://www.marigold.cz/tech-news/2025-11-05/fair-human-centric-image-dataset-for-ethical-ai-be/">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #374151; background: #f3f4f6; }
+        .container { max-width: 800px; margin: 0 auto; padding: 2rem; }
+        .tech-news-article { background: white; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); padding: 2rem; margin: 2rem 0; }
+        .source-info { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem; flex-wrap: wrap; }
+        .source-emoji { font-size: 1.5rem; }
+        .source-name { font-weight: 600; color: #374151; }
+        .importance-indicator { display: flex; gap: 2px; margin-left: auto; }
+        .star { color: #fbbf24; font-size: 1.2rem; }
+        .star.empty { color: #d1d5db; }
+        .article-title { font-size: 2rem; font-weight: 700; line-height: 1.2; margin-bottom: 1rem; color: #111827; }
+        .article-meta { display: flex; align-items: center; gap: 1rem; font-size: 0.875rem; color: #6b7280; margin-bottom: 1.5rem; }
+        .category { padding: 0.25rem 0.75rem; border-radius: 1rem; font-weight: 500; font-size: 0.75rem; text-transform: uppercase; background: #e5e7eb; color: #374151; }
+        .article-image { margin: 1.5rem 0; border-radius: 8px; overflow: hidden; }
+        .article-image img { width: 100%; height: auto; display: block; }
+        .article-content { font-size: 1.125rem; line-height: 1.7; margin-bottom: 2rem; }
+        .article-content h2 { font-size: 1.5rem; margin: 1.5rem 0 1rem; color: #111827; }
+        .article-content p { margin-bottom: 1rem; }
+        .article-footer { border-top: 1px solid #e5e7eb; padding-top: 1.5rem; }
+        .read-more-btn { display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: #3b82f6; color: white; text-decoration: none; border-radius: 8px; font-weight: 500; }
+        .read-more-btn:hover { background: #2563eb; }
+        .original-title { margin-top: 1rem; color: #6b7280; font-size: 0.875rem; }
+        .back-link { display: inline-block; margin-bottom: 1rem; color: #3b82f6; text-decoration: none; }
+        .back-link:hover { text-decoration: underline; }
+        .archive-notice { background: #fef3c7; border: 1px solid #f59e0b; border-radius: 8px; padding: 1rem; margin-bottom: 1rem; font-size: 0.875rem; color: #92400e; }
+        @media (max-width: 640px) {
+            .container { padding: 1rem; }
+            .tech-news-article { padding: 1.5rem; margin: 1rem 0; }
+            .article-title { font-size: 1.5rem; }
+            .source-info { flex-direction: column; align-items: flex-start; }
+            .importance-indicator { margin-left: 0; margin-top: 0.5rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="/tech-news/" class="back-link">&larr; Zpět na Tech News</a>
+
+        <div class="archive-notice">
+            Tento článek je z archivu. Byl publikován 05.11.2025.
+        </div>
+
+        <article class="tech-news-article">
+            <header>
+                <div class="source-info">
+                    <span class="source-emoji">📰</span>
+                    <span class="source-name">Nature.com</span>
+                    <div class="importance-indicator">
+                        <span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star empty">☆</span><span class="star empty">☆</span>
+                    </div>
+                </div>
+
+                <h1 class="article-title">Fair Human-Centric Image Benchmark: nový etický dataset pro hodnocení fairness v AI</h1>
+
+                <div class="article-meta">
+                    <time datetime="2025-11-05T16:22:08+00:00">05.11.2025</time>
+                    <span class="category">ai etika</span>
+                </div>
+            </header>
+
+            
+            <div class="article-image">
+                <img src="https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-025-09716-2/MediaObjects/41586_2025_9716_Fig1_HTML.png" alt="Fair Human-Centric Image Benchmark: nový etický dataset pro hodnocení fairness v AI" loading="lazy">
+            </div>
+        
+
+            <div class="article-content">
+                <h2>Souhrn</h2>
+<p>Nový dataset Fair Human-Centric Image Benchmark (FHIBE) nabízí systematicky navrženou, veřejně dostupnou sadu snímků lidí, která respektuje souhlas, soukromí, férovou kompenzaci a bezpečnost účastníků. Cílem je poskytnout robustní nástroj pro hodnocení fairness modelů počítačového vidění a vytvořit realistický standard pro odpovědnou správu dat v AI.</p>
+<h2>Klíčové body</h2>
+<ul>
+<li>FHIBE je lidsky centričný obrazový dataset vytvořený s důrazem na souhlas, soukromí, bezpečnost a férovou odměnu zúčastněných osob.</li>
+<li>Obsahuje široké spektrum demografických, fyzických, environmentálních a technických anotací pro detailní analýzu předsudků v modelech.</li>
+<li>Je určen jako benchmark pro hodnocení fairness u úloh jako pose estimation, person segmentation, face detection/verification a visual question answering.</li>
+<li>Dataset je navržen tak, aby minimalizoval právní i etická rizika spojená s dřívějšími problematickými datasety využívanými bez souhlasu.</li>
+<li>Autoři se snaží nastavit nový standard pro kurátorství dat a ukázat praktický návod, jak budovat důvěryhodné AI systémy.</li>
+</ul>
+<h2>Podrobnosti</h2>
+<p>Datasety pro počítačové vidění patří k zásadní infrastruktuře moderní AI, ale historicky byly často sestavovány z otevřených nebo seškrábaných zdrojů bez informovaného souhlasu osob, bez adekvátního zohlednění citlivých atributů a bez kontroly nad tím, jak jsou snímky dále použity. To vedlo k modelům, které trpí systematickými předsudky vůči určitým demografickým skupinám a zároveň představují reputační, právní i bezpečnostní riziko pro firmy, které je nasazují.</p>
+<p>FHIBE reaguje na tuto situaci jako účelově navržený „fairness benchmark“ pro lidsky orientované počítačové vidění. Obrazová data byla sbírána s důrazem na informovaný souhlas, transparentní podmínky využití a férovou kompenzaci účastníků. To řeší častý problém dosavadních datasetů, kde lidé nebyli informováni o použití svých fotografií pro trénink a testování AI.</p>
+<p>Dataset obsahuje detailní anotace: demografické charakteristiky (např. věk, genderová identita, odstín pleti), fyzické rysy, oblečení, různé prostředí a světelné podmínky, technické parametry snímku, a v některých případech anotace na úrovni pozice, segmentace a konkrétních pixelů. Díky tomu umožňuje nejen měřit agregovanou přesnost, ale také odhalovat jemnější formy biasu – například rozdílný výkon modelu pro různé kombinace atributů, situací a prostředí.</p>
+<p>FHIBE je koncipován jako hodnoticí dataset, nikoliv jako nekontrolovaný zdroj pro masivní trénování. Pro vývojáře AI to znamená možnost oddělit trénink na interních nebo komerčních datech od transparentního, eticky kurátorovaného testování fairness. Pro instituce a regulované sektory (banky, pojišťovny, zdravotnictví, veřejná správa) pak dataset nabízí konkrétní nástroj, jak dokládat, že jejich systémy prošly testy spravedlnosti na datech získaných v souladu s moderními etickými standardy.</p>
+<h2>Proč je to důležité</h2>
+<p>FHIBE posouvá diskusi o etice a fairness v AI od obecných prohlášení k praktickému, technicky použitelnému nástroji. Z pohledu průmyslu poskytuje realistickou cestu, jak sladit vývoj počítačového vidění s požadavky na ochranu soukromí, souhlas a nediskriminaci, což je klíčové v kontextu přicházejících regulací typu EU AI Act. Zároveň vytváří tlak na opuštění historicky problematických datasetů, které vznikly bez souhlasu a reprezentují riziko pro firmy i akademické instituce.</p>
+<p>Pro výzkumníky a vývojáře FHIBE ukazuje, že technicky kvalitní dataset lze navrhnout spolu s etickými principy od začátku, nikoli jako dodatečnou opravu. Pro uživatele a dotčené komunity to znamená vyšší šanci, že systémy pro rozpoznávání obličejů, sledování pohybu, verifikaci identity nebo analýzu scén budou vyhodnocovány na souborech, které lépe odrážejí reálnou rozmanitost a minimalizují systematické selhávání vůči zranitelným skupinám.</p>
+<hr />
+<p><a href="https://www.nature.com/articles/s41586-025-09716-2">Číst původní článek</a></p>
+<p><strong>Zdroj:</strong> 📰 Nature.com</p>
+            </div>
+
+            <footer class="article-footer">
+                <a href="https://www.nature.com/articles/s41586-025-09716-2" target="_blank" rel="noopener" class="read-more-btn">
+                    Číst původní článek &rarr;
+                </a>
+
+                <div class="original-title"><small>Původní název: Fair human-centric image dataset for ethical AI benchmarking - Nature</small></div>
+            </footer>
+        </article>
+
+        <p style="text-align: center; color: #6b7280; font-size: 0.875rem; margin-top: 2rem;">
+            &copy; 2025 <a href="https://www.marigold.cz" style="color: #3b82f6;">Marigold.cz</a>
+        </p>
+    </div>
+</body>
+</html>

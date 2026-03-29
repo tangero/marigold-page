@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zrcadlový trénink: Jak se humanoidní robot naučil synchronizovat rty se řečí pomocí AI a odrazu | Marigold.cz Tech News</title>
+    <meta name="description" content="Silikonové rty se přesně pohybovaly s každou slabikou, tvořily kulatý tvar pro „hello“ a uzavřenou polohu pro „world“. Poprvé se robot naučil synchronizovat řeč">
+    <link rel="canonical" href="https://www.marigold.cz/tech-news/2026-01-19/mirror-training-how-a-humanoid-robot-learned-to-li/">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #374151; background: #f3f4f6; }
+        .container { max-width: 800px; margin: 0 auto; padding: 2rem; }
+        .tech-news-article { background: white; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); padding: 2rem; margin: 2rem 0; }
+        .source-info { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem; flex-wrap: wrap; }
+        .source-emoji { font-size: 1.5rem; }
+        .source-name { font-weight: 600; color: #374151; }
+        .importance-indicator { display: flex; gap: 2px; margin-left: auto; }
+        .star { color: #fbbf24; font-size: 1.2rem; }
+        .star.empty { color: #d1d5db; }
+        .article-title { font-size: 2rem; font-weight: 700; line-height: 1.2; margin-bottom: 1rem; color: #111827; }
+        .article-meta { display: flex; align-items: center; gap: 1rem; font-size: 0.875rem; color: #6b7280; margin-bottom: 1.5rem; }
+        .category { padding: 0.25rem 0.75rem; border-radius: 1rem; font-weight: 500; font-size: 0.75rem; text-transform: uppercase; background: #e5e7eb; color: #374151; }
+        .article-image { margin: 1.5rem 0; border-radius: 8px; overflow: hidden; }
+        .article-image img { width: 100%; height: auto; display: block; }
+        .article-content { font-size: 1.125rem; line-height: 1.7; margin-bottom: 2rem; }
+        .article-content h2 { font-size: 1.5rem; margin: 1.5rem 0 1rem; color: #111827; }
+        .article-content p { margin-bottom: 1rem; }
+        .article-footer { border-top: 1px solid #e5e7eb; padding-top: 1.5rem; }
+        .read-more-btn { display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: #3b82f6; color: white; text-decoration: none; border-radius: 8px; font-weight: 500; }
+        .read-more-btn:hover { background: #2563eb; }
+        .original-title { margin-top: 1rem; color: #6b7280; font-size: 0.875rem; }
+        .back-link { display: inline-block; margin-bottom: 1rem; color: #3b82f6; text-decoration: none; }
+        .back-link:hover { text-decoration: underline; }
+        .archive-notice { background: #fef3c7; border: 1px solid #f59e0b; border-radius: 8px; padding: 1rem; margin-bottom: 1rem; font-size: 0.875rem; color: #92400e; }
+        @media (max-width: 640px) {
+            .container { padding: 1rem; }
+            .tech-news-article { padding: 1.5rem; margin: 1rem 0; }
+            .article-title { font-size: 1.5rem; }
+            .source-info { flex-direction: column; align-items: flex-start; }
+            .importance-indicator { margin-left: 0; margin-top: 0.5rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="/tech-news/" class="back-link">&larr; Zpět na Tech News</a>
+
+        <div class="archive-notice">
+            Tento článek je z archivu. Byl publikován 19.01.2026.
+        </div>
+
+        <article class="tech-news-article">
+            <header>
+                <div class="source-info">
+                    <span class="source-emoji">📰</span>
+                    <span class="source-name">ScienceBlog.com</span>
+                    <div class="importance-indicator">
+                        <span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star">★</span>
+                    </div>
+                </div>
+
+                <h1 class="article-title">Zrcadlový trénink: Jak se humanoidní robot naučil synchronizovat rty se řečí pomocí AI a odrazu</h1>
+
+                <div class="article-meta">
+                    <time datetime="2026-01-19T16:03:30+00:00">19.01.2026</time>
+                    <span class="category">robotika</span>
+                </div>
+            </header>
+
+            
+            <div class="article-image">
+                <img src="https://scienceblog.com/wp-content/uploads/2026/01/face.jpeg" alt="Zrcadlový trénink: Jak se humanoidní robot naučil synchronizovat rty se řečí pomocí AI a odrazu" loading="lazy">
+            </div>
+        
+
+            <div class="article-content">
+                <h2>Souhrn</h2>
+<p>Výzkumníci z laboratoře Hod Lipsona na Columbia University vyvinuli humanoidního robota, který se naučil synchronizovat pohyb rtů se slovy pomocí umělé inteligence a zrcadla. Robot pozoroval svůj vlastní odraz, analyzoval ho AI modelem a postupně upravoval mechanické pohyby pro přesnou shodu s výslovností. Tento přístup nahrazuje tradiční manuální programování a přispívá k překonání tzv. uncanny valley v robotické mimice.</p>
+<h2>Klíčové body</h2>
+<ul>
+<li>Robot s 10 stupni svobody v oblasti rtů: dva motory pro každý roh, tři pro horní ret, jeden pro čelist a dva pro dolní ret.</li>
+<li>Trénink založený na zrcadle: robot sleduje svůj odraz a AI porovnává vizuální data s audio signálem.</li>
+<li>Překonání tradičních limitů: žádné pevně nastavené pravidla pro fonémy, místo toho učení podobné lidskému napodobování.</li>
+<li>Zaměření na obličej: lidé věnují během konverzace téměř polovinu vizuální pozornosti pohybu rtů.</li>
+<li>Hardware s magnetickými konektory pro snadnou výměnu a úpravu obličeje.</li>
+</ul>
+<h2>Podrobnosti</h2>
+<p>Laboratoř Creative Machines Lab na Columbia University, vedená Hod Lipsonem, se dlouhodobě zabývá vývojem humanoidních robotů schopných přirozeně interagovat s lidmi. Klíčovým problémem byl obličej, zejména ústa, kde i pokročilé roboty pohybují rty pouze hrubě – otevíráním a zavíráním podobně jako loutky. Lidé jsou na chyby v mimice extrémně citliví: během tváří v tvář konverzace směřuje přibližně polovina vizuální pozornosti na rty a nesoulad i o zlomek sekundy okamžitě odhalíme.</p>
+<p>Tým Lipsona navrhl hardware s vysokou flexibilitou: oblast rtů má 10 stupňů svobody. Dva motory ovládají každý roh rtů, umožňují stažení nebo vysunutí pro těsné uzavření nutné u zvuků jako „b“ nebo „p“. Horní ret má tři motory pro jemné zakřivení, čelist jeden pro vertikální pohyb a dolní ret dva pro boční a vertikální úpravy. Silikonová kůže je připojena magnetickými konektory, což usnadňuje demontáž a úpravy. Tento design umožňuje tvořit subtilní tvary odpovídající fonémům, jako kulatý tvar pro „o“ nebo zašpičatělý pro „u“.</p>
+<p>Tradiční metody spočívaly v manuálním mapování pohybů na jednotlivé zvuky (fonémy), což bylo pracné a vedlo k nepřirozeným výsledkům – podobně jako programování chůze krok za krokem místo učení zkušeností. Nový přístup, nazvaný mirror training, funguje tak, že robot vyslovuje slova (audio signál) a současně sleduje svůj odraz v zrcadle. AI model, pravděpodobně založený na neuronových sítích pro počítačové vidění a reinforcement learning, analyzuje video a porovnává pohyb rtů s očekávaným tvarem z tréninkových dat. Robot pak upravuje motory, aby minimalizoval chybu. Tento sebe-supervizovaný trénink umožňuje generalizaci na nová slova bez explicitního programování.</p>
+<p>Text zmiňuje pokračování systému s magnetickými konektory, což naznačuje modulární design pro další iterace. Laboratoř se zaměřuje na kreativní stroje, které se učí autonomně, podobně jako v předchozích pracích na samoorganizujících se robotech.</p>
+<h2>Proč je to důležité</h2>
+<p>Tento vývoj představuje zásadní posun v robotice směrem k autonomnímu učení obličeje, což je klíčové pro humanoidní roboty v sociálních rolích – péče o seniory, vzdělávání nebo zákaznický servis. Překonání uncanny valley zlepší důvěru a přirozenost interakce, kde současné roboty jako ti od Boston Dynamics excelují v pohybu těla, ale selhávají v mimice. V širším kontextu posiluje integraci AI do robotiky: podobné techniky lze aplikovat na emoce, gesta nebo dokonce celkovou antropomorfii. Pro průmysl znamená méně závislosti na expertním programování, rychlejší nasazení a škálovatelnost. Nicméně zůstává výzvou real-time výpočetní náročnost a robustnost v reálném světě mimo kontrolované prostředí laboratoře. Tento pokrok může urychlit komercializaci humanoidů od firem jako Figure nebo Tesla Optimus.</p>
+<hr />
+<p><a href="https://scienceblog.com/mirror-training-how-a-humanoid-robot-learned-to-lip-sync-lip-using-ai-and-a-reflection/">Číst původní článek</a></p>
+<p><strong>Zdroj:</strong> 📰 ScienceBlog.com</p>
+            </div>
+
+            <footer class="article-footer">
+                <a href="https://scienceblog.com/mirror-training-how-a-humanoid-robot-learned-to-lip-sync-lip-using-ai-and-a-reflection/" target="_blank" rel="noopener" class="read-more-btn">
+                    Číst původní článek &rarr;
+                </a>
+
+                <div class="original-title"><small>Původní název: Mirror Training: How a Humanoid Robot Learned to Lip Sync Using AI and a Reflection</small></div>
+            </footer>
+        </article>
+
+        <p style="text-align: center; color: #6b7280; font-size: 0.875rem; margin-top: 2rem;">
+            &copy; 2026 <a href="https://www.marigold.cz" style="color: #3b82f6;">Marigold.cz</a>
+        </p>
+    </div>
+</body>
+</html>

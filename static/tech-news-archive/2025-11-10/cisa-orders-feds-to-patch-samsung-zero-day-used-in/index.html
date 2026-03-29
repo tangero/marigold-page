@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CISA nařizuje urgentní záplatu kritické zranitelnosti Samsungu zneužívané spywarem LandFall | Marigold.cz Tech News</title>
+    <meta name="description" content="Americká CISA nařídila federálním úřadům okamžitě opravit kritickou zranitelnost v zařízeních Samsung, která byla zneužívána jako zero-day k instalaci spyware L">
+    <link rel="canonical" href="https://www.marigold.cz/tech-news/2025-11-10/cisa-orders-feds-to-patch-samsung-zero-day-used-in/">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #374151; background: #f3f4f6; }
+        .container { max-width: 800px; margin: 0 auto; padding: 2rem; }
+        .tech-news-article { background: white; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); padding: 2rem; margin: 2rem 0; }
+        .source-info { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem; flex-wrap: wrap; }
+        .source-emoji { font-size: 1.5rem; }
+        .source-name { font-weight: 600; color: #374151; }
+        .importance-indicator { display: flex; gap: 2px; margin-left: auto; }
+        .star { color: #fbbf24; font-size: 1.2rem; }
+        .star.empty { color: #d1d5db; }
+        .article-title { font-size: 2rem; font-weight: 700; line-height: 1.2; margin-bottom: 1rem; color: #111827; }
+        .article-meta { display: flex; align-items: center; gap: 1rem; font-size: 0.875rem; color: #6b7280; margin-bottom: 1.5rem; }
+        .category { padding: 0.25rem 0.75rem; border-radius: 1rem; font-weight: 500; font-size: 0.75rem; text-transform: uppercase; background: #e5e7eb; color: #374151; }
+        .article-image { margin: 1.5rem 0; border-radius: 8px; overflow: hidden; }
+        .article-image img { width: 100%; height: auto; display: block; }
+        .article-content { font-size: 1.125rem; line-height: 1.7; margin-bottom: 2rem; }
+        .article-content h2 { font-size: 1.5rem; margin: 1.5rem 0 1rem; color: #111827; }
+        .article-content p { margin-bottom: 1rem; }
+        .article-footer { border-top: 1px solid #e5e7eb; padding-top: 1.5rem; }
+        .read-more-btn { display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: #3b82f6; color: white; text-decoration: none; border-radius: 8px; font-weight: 500; }
+        .read-more-btn:hover { background: #2563eb; }
+        .original-title { margin-top: 1rem; color: #6b7280; font-size: 0.875rem; }
+        .back-link { display: inline-block; margin-bottom: 1rem; color: #3b82f6; text-decoration: none; }
+        .back-link:hover { text-decoration: underline; }
+        .archive-notice { background: #fef3c7; border: 1px solid #f59e0b; border-radius: 8px; padding: 1rem; margin-bottom: 1rem; font-size: 0.875rem; color: #92400e; }
+        @media (max-width: 640px) {
+            .container { padding: 1rem; }
+            .tech-news-article { padding: 1.5rem; margin: 1rem 0; }
+            .article-title { font-size: 1.5rem; }
+            .source-info { flex-direction: column; align-items: flex-start; }
+            .importance-indicator { margin-left: 0; margin-top: 0.5rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="/tech-news/" class="back-link">&larr; Zpět na Tech News</a>
+
+        <div class="archive-notice">
+            Tento článek je z archivu. Byl publikován 10.11.2025.
+        </div>
+
+        <article class="tech-news-article">
+            <header>
+                <div class="source-info">
+                    <span class="source-emoji">📰</span>
+                    <span class="source-name">BleepingComputer</span>
+                    <div class="importance-indicator">
+                        <span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star empty">☆</span>
+                    </div>
+                </div>
+
+                <h1 class="article-title">CISA nařizuje urgentní záplatu kritické zranitelnosti Samsungu zneužívané spywarem LandFall</h1>
+
+                <div class="article-meta">
+                    <time datetime="2025-11-10T20:00:34+00:00">10.11.2025</time>
+                    <span class="category">kybernetika</span>
+                </div>
+            </header>
+
+            
+            <div class="article-image">
+                <img src="https://www.bleepstatic.com/content/hl-images/2025/01/13/CISA--headpic.jpg" alt="CISA nařizuje urgentní záplatu kritické zranitelnosti Samsungu zneužívané spywarem LandFall" loading="lazy">
+            </div>
+        
+
+            <div class="article-content">
+                <h2>Souhrn</h2>
+<p>Americká agentura CISA zařadila zranitelnost CVE-2025-21042 v zařízeních Samsung mezi známé aktivně zneužívané chyby a nařídila federálním institucím její okamžité odstranění. Chyba byla využívána jako zero-day k doručení spyware LandFall přes škodlivé DNG obrázky posílané přes WhatsApp na novější modely telefonů Samsung.</p>
+<h2>Klíčové body</h2>
+<ul>
+<li>Kritická zranitelnost CVE-2025-21042 v knihovně libimagecodec.quram.so umožňuje vzdálené spuštění kódu na zařízeních Samsung (Android 13 a vyšší).</li>
+<li>Zneužívána minimálně od července 2024 k nasazení spyware LandFall, a to přes škodlivé obrázky ve formátu DNG posílané přes WhatsApp.</li>
+<li>LandFall umožňuje přístup k historii prohlížení, hovorům, mikrofonu, poloze, fotografiím, kontaktům, SMS, logům hovorů a souborům.</li>
+<li>Cílí na vlajkové modely Samsung (Galaxy S22/S23/S24, Z Fold 4, Z Flip 4) a pravděpodobně na uživatele v Iráku, Iránu, Turecku a Maroku.</li>
+<li>Infrastruktura útoku nese podobnosti s operacemi komerčních špionážních platforem, ale bez jednoznačného přiřazení ke konkrétnímu výrobci nebo státnímu aktérovi.</li>
+</ul>
+<h2>Podrobnosti</h2>
+<p>Zranitelnost CVE-2025-21042 je chyba typu out-of-bounds write v knihovně libimagecodec.quram.so používané v telefonech Samsung. Tento typ chyby umožňuje útočníkovi zapisovat data mimo vyhrazenou paměť, což lze zneužít k obejití ochranných mechanismů systému a spuštění libovolného kódu. V praxi to znamená, že stačí doručit speciálně upravený obsah, který zpracuje zranitelná knihovna – v tomto případě obrázky ve formátu DNG.</p>
+<p>Podle analýzy bezpečnostního týmu Unit 42 společnosti Palo Alto Networks (firma zaměřená na síťovou a cloudovou kybernetickou bezpečnost) byla zranitelnost využívána nejméně od července 2024. Útočníci posílali obětem škodlivé DNG soubory přes WhatsApp. Jakmile systém tento soubor zpracoval, došlo ke spuštění kódu vedoucího k instalaci spyware LandFall bez nutnosti zásahu uživatele. Meta a bezpečnostní tým WhatsApp zranitelnost nahlásili Samsungu, který vydal záplatu v dubnu 2025, ale aktivní zneužívání ukazuje, že řada zařízení zůstává neaktualizovaná.</p>
+<p>Spyware LandFall je koncipován jako komplexní sledovací nástroj. Po úspěšné instalaci umožňuje dlouhodobé skryté monitorování: přístup k historii prohlížení, záznamu hovorů, odposlechu mikrofonu, geolokačním datům, fotografiím, kontaktům, SMS, logům hovorů a souborům. Tím se funkčně řadí k profesionálním komerčním špionážním řešením typu Pegasus a dalším nástrojům používaným zejména v cílených útocích proti novinářům, aktivistům nebo politickým oponentům.</p>
+<p>Unit 42 identifikovala potenciální cíle v Iráku, Iránu, Turecku a Maroku na základě vzorků ve službě VirusTotal. Analýza infrastruktury C2 serverů a pojmenování komponent (například loader označený jako „Bridge Head“) vykazuje podobnosti s postupy známých komerčních spyware výrobců (NSO Group, Variston, Cytrox, Quadream) a operací Stealth Falcon spojených s oblastí Spojených arabských emirátů. Přesto nebylo možné LandFall přesvědčivě přiřadit konkrétní firmě nebo státnímu aktérovi.</p>
+<p>Zařazení CVE-2025-21042 do katalogu Known Exploited Vulnerabilities znamená pro americké federální úřady povinné a časově vázané nasazení záplat. Prakticky to potvrzuje, že nejde o hypotetickou zranitelnost, ale o reálně probíhající a cíleně vedené útoky na vysoce hodnotné cíle.</p>
+<h2>Proč je to důležité</h2>
+<p>Tato událost potvrzuje několik trendů, které jsou relevantní pro státní instituce, podniky i jednotlivé uživatele:</p>
+<p>Za prvé, mobilní zařízení – zejména vlajkové modely hlavních výrobců – jsou prioritním cílem sofistikovaných aktérů. Vektor přes multimediální knihovny a zprávové aplikace ukazuje, že uživatel nemusí „udělat chybu“, aby byl kompromitován. Stačí pasivní příjem a automatické zpracování obsahu.</p>
+<p>Za druhé, komerční spyware se dále profesionalizuje a přibližuje schopnostem státních zpravodajských služeb. LandFall funkčně zapadá do ekosystému nástrojů umožňujících dlouhodobé skryté sledování, bez jasné transparentnosti kdo je provozuje, s potenciálem zneužití proti civilním cílům.</p>
+<p>Za třetí, reakce CISA podtrhuje, že rychlá aplikace bezpečnostních aktualizací není formální doporučení, ale kritická bezpečnostní povinnost. Organizace, které provozují zařízení Samsung na Androidu 13 a vyšším, musí ověřit aplikaci dubnových a novějších záplat, provést revizi mobilní bezpečnostní politiky, omezit rizikové kanály příjmu souborů a sledovat indikátory kompromitace spojené s LandFall a související infrastrukturou.</p>
+<p>Pro koncové uživatele je hlavní závěr jednoduchý: aktualizace systému a aplikací nejsou kosmetika, ale jediná účinná obrana proti profesionálním zero-day útokům, které dokážou obejít běžné návyky bezpečného chování.</p>
+<hr />
+<p><a href="https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-samsung-zero-day-used-in-spyware-attacks/">Číst původní článek</a></p>
+<p><strong>Zdroj:</strong> 📰 BleepingComputer</p>
+            </div>
+
+            <footer class="article-footer">
+                <a href="https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-samsung-zero-day-used-in-spyware-attacks/" target="_blank" rel="noopener" class="read-more-btn">
+                    Číst původní článek &rarr;
+                </a>
+
+                <div class="original-title"><small>Původní název: CISA orders feds to patch Samsung zero-day used in spyware attacks - BleepingComputer</small></div>
+            </footer>
+        </article>
+
+        <p style="text-align: center; color: #6b7280; font-size: 0.875rem; margin-top: 2rem;">
+            &copy; 2025 <a href="https://www.marigold.cz" style="color: #3b82f6;">Marigold.cz</a>
+        </p>
+    </div>
+</body>
+</html>
