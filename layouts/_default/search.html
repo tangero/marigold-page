@@ -81,14 +81,14 @@
   // Postupne pridavani polozek z postu
   {{ range where .Site.RegularPages "Section" "posts" }}
     addToStore(
-      {{ .RelPermalink | urlize | jsonify }},
+      {{ .RelPermalink | jsonify | safeJS }},
       {
-        title: {{ .Title | jsonify }},
-        content: {{ .Plain | truncate 200 | jsonify }},
-        url: {{ .RelPermalink | jsonify }},
-        category: {{ if .Params.categories }}{{ delimit .Params.categories ", " | jsonify }}{{ else }}""{{ end }},
-        tags: {{ if .Params.tags }}{{ delimit .Params.tags ", " | jsonify }}{{ else }}""{{ end }},
-        date: {{ .Date.Format "2.1.2006" | jsonify }}
+        title: {{ .Title | jsonify | safeJS }},
+        content: {{ .Plain | truncate 200 | jsonify | safeJS }},
+        url: {{ .RelPermalink | jsonify | safeJS }},
+        category: {{ if .Params.categories }}{{ delimit .Params.categories ", " | jsonify | safeJS }}{{ else }}""{{ end }},
+        tags: {{ if .Params.tags }}{{ delimit .Params.tags ", " | jsonify | safeJS }}{{ else }}""{{ end }},
+        date: {{ .Date.Format "2.1.2006" | jsonify | safeJS }}
       }
     );
   {{ end }}
@@ -96,13 +96,13 @@
   // Pridani AI kolekce
   {{ range where .Site.RegularPages "Section" "ai" }}
     addToStore(
-      {{ .RelPermalink | urlize | jsonify }},
+      {{ .RelPermalink | jsonify | safeJS }},
       {
-        title: {{ .Title | jsonify }},
-        content: {{ .Plain | truncate 200 | jsonify }},
-        url: {{ .RelPermalink | jsonify }},
+        title: {{ .Title | jsonify | safeJS }},
+        content: {{ .Plain | truncate 200 | jsonify | safeJS }},
+        url: {{ .RelPermalink | jsonify | safeJS }},
         category: "ai",
-        date: {{ .Date.Format "2.1.2006" | jsonify }}
+        date: {{ .Date.Format "2.1.2006" | jsonify | safeJS }}
       }
     );
   {{ end }}
@@ -110,13 +110,13 @@
   // Pridani tech-news kolekce
   {{ range where .Site.RegularPages "Section" "tech-news" }}
     addToStore(
-      {{ .RelPermalink | urlize | jsonify }},
+      {{ .RelPermalink | jsonify | safeJS }},
       {
-        title: {{ .Title | jsonify }},
-        content: {{ .Plain | truncate 200 | jsonify }},
-        url: {{ .RelPermalink | jsonify }},
+        title: {{ .Title | jsonify | safeJS }},
+        content: {{ .Plain | truncate 200 | jsonify | safeJS }},
+        url: {{ .RelPermalink | jsonify | safeJS }},
         category: "tech-news",
-        date: {{ .Date.Format "2.1.2006" | jsonify }}
+        date: {{ .Date.Format "2.1.2006" | jsonify | safeJS }}
       }
     );
   {{ end }}

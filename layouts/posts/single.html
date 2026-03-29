@@ -71,6 +71,14 @@
   {{ end }}
 
   <div class="entry">
+    {{ if .TableOfContents }}
+    {{ if gt (len .TableOfContents) 100 }}
+    <nav class="toc">
+      <h4>Obsah</h4>
+      {{ .TableOfContents }}
+    </nav>
+    {{ end }}
+    {{ end }}
     {{ .Content }}
   </div>
 

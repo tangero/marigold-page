@@ -24,7 +24,7 @@ thumbnail: https://www.marigold.cz/assets/mark-zuckerberg.jpg
 
 **O čem bude řeč?**
 * TOC
-{:toc}
+<!-- toc -->
 
 
 Podle Zuckerberga je vývoj superinteligence je na dohled a Meta chce přinést _"osobní superinteligenci"_ každému člověku. Každý by měl mít svého osobního AI asistenta, který mu pomůže dosáhnout individuálních cílů a aspirací. A naštěstí je tu Meta, která to chápe a místo centralizované superinteligence automatizující veškerou práci, jakou chtějí nabídnout OpenAI nebo Google _(tfujtfuj)_ přinese superinteligenci posilující individuální možnosti lidí. Závěr bych odcitoval doslova: _“Zdá se, že zbytek tohoto desetiletí bude rozhodujícím obdobím, které určí, jakou cestou se tato technologie vydá a zda se superinteligence stane nástrojem pro posílení osobnosti, nebo silou zaměřenou na nahrazení velkých částí společnosti.”_

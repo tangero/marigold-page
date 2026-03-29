@@ -26,7 +26,7 @@ Svůj nástroj [[Claude Code](/ai/claude-code/)](https://docs.anthropic.com/en/d
 
 A co je nového?
 * Obsah
-{:toc}
+<!-- toc -->
 
 
 ## 1. Rozšířené myšlení (Extended thinking)

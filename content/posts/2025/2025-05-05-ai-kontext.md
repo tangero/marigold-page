@@ -18,7 +18,7 @@ A především, proč je tak drahé a zdlouhavé zvyšovat velikost kontextu? Te
 
 __Co konkrétně se v tomto článku dozvíte?__ 
 * Obsah
-{:toc} 
+<!-- toc --> 
 
 Velké jazykové modely (LLM) jako GPT-4, Claude 3 nebo Gemini 2.5 se staly výkonnými nástroji pro zpracování přirozeného jazyka. Jejich schopnost generovat text, překládat, odpovídat na otázky a psát kód je využívána v mnoha oblastech. Navzdory jejich pokročilým schopnostem však narážejí na významné omezení: efektivní zpracování velmi dlouhých sekvencí dat, známé jako "problém dlouhého kontextu". 
 

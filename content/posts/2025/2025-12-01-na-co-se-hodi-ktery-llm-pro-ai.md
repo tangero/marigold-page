@@ -27,7 +27,7 @@ Dobrým vodítkem jsou nám testy, já budu nyní vycházet z [V2 WeirdML](https
 
 **A o čem bude řeč?**
 
-{:toc}
+<!-- toc -->
 
 
 ## Stav trhu LLM (Prosinec 2025) 
