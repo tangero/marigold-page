@@ -446,10 +446,11 @@ nav {
 
   img {
     width: 300px;
-    height: 200px;
+    height: 225px;
     max-width: 100%;
     object-fit: cover;
     display: block;
+    aspect-ratio: 4 / 3;
   }
 }
 

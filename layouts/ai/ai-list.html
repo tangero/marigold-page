@@ -29,19 +29,23 @@
   <h2>Články a aktuality z oblasti Umělé inteligence</h2>
   {{ $aiPosts := where (where .Site.RegularPages "Section" "posts") ".Params.categories" "intersect" (slice "AI" "Umělá inteligence") }}
   {{ range $aiPosts.ByDate.Reverse }}
-  <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-  {{ with .Params.thumbnail }}
-  {{ $thumb := replace . "http://" "https://" }}
-  <div class="post-content clearfix">
-    <div class="thumbnail">
-      <a href="{{ $.RelPermalink }}">
-        <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_300,h_200,c_fill,g_auto,f_auto,q_auto/{{ $thumb }}" alt="{{ $.Title }}" loading="lazy">
-      </a>
+  {{ $postURL := .RelPermalink }}
+  {{ $postTitle := .Title }}
+  <div class="post">
+    <h3><a href="{{ $postURL }}">{{ $postTitle }}</a></h3>
+    <div class="post-content">
+      {{ with .Params.thumbnail }}
+      {{ $thumb := replace . "http://" "https://" }}
+      <div class="thumbnail">
+        <a href="{{ $postURL }}">
+          <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_300,h_225,c_fill,g_auto,f_auto,q_auto/{{ $thumb }}" alt="{{ $postTitle }}" loading="lazy">
+        </a>
+      </div>
+      {{ end }}
+      <div class="excerpt">
+        {{ .Summary | plainify | truncate 200 }} - {{ .Date.Format "02. 01. 2006" }}
+      </div>
     </div>
-  </div>
-  {{ end }}
-  <div class="excerpt">
-    {{ .Summary | plainify | truncate 200 }} - {{ .Date.Format "02. 01. 2006" }}
   </div>
   {{ end }}
 
