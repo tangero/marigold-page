@@ -21,40 +21,32 @@
   var toggle = document.getElementById('theme-toggle');
   var root = document.documentElement;
 
-  function isDark() {
+  function shouldBeDark() {
     var stored = localStorage.getItem(KEY);
-    if (stored === 'dark' || stored === 'light') return stored === 'dark';
-    // Auto: dark after sunset (18:00-06:00 local time)
+    if (stored === 'dark') return true;
+    if (stored === 'light') return false;
+    // Auto: dark after sunset (18:00-06:00) or system preference
     var h = new Date().getHours();
     if (h >= 18 || h < 6) return true;
     return window.matchMedia('(prefers-color-scheme: dark)').matches;
   }
 
   function apply(dark) {
-    if (dark) {
-      root.setAttribute('data-theme', 'dark');
-    } else {
-      root.removeAttribute('data-theme');
-    }
+    root.setAttribute('data-theme', dark ? 'dark' : 'light');
   }
 
-  // Apply on load (supplement the inline head script)
-  apply(isDark());
+  apply(shouldBeDark());
 
   if (toggle) {
     toggle.addEventListener('click', function() {
       var nowDark = root.getAttribute('data-theme') === 'dark';
-      var next = !nowDark;
-      apply(next);
-      localStorage.setItem(KEY, next ? 'dark' : 'light');
+      apply(!nowDark);
+      localStorage.setItem(KEY, !nowDark ? 'dark' : 'light');
     });
   }
 
-  // System preference change
   window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', function(e) {
-    if (!localStorage.getItem(KEY)) {
-      apply(e.matches);
-    }
+    if (!localStorage.getItem(KEY)) apply(e.matches);
   });
 })();
 </script>
