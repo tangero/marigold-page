@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ochrante svou WAN síť před hrozbami kvantových počítačů | Marigold.cz Tech News</title>
+    <meta name="description" content="Kvantové počítače prolomí současné šifrování veřejným klíčem, což činí provoz WAN sítí zvláště zranitelným vůči útokům harvest now, decrypt later (HNDL). Nové b">
+    <link rel="canonical" href="https://www.marigold.cz/tech-news/2026-01-13/safeguard-your-wan-from-quantum-computing-threats/">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #374151; background: #f3f4f6; }
+        .container { max-width: 800px; margin: 0 auto; padding: 2rem; }
+        .tech-news-article { background: white; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); padding: 2rem; margin: 2rem 0; }
+        .source-info { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem; flex-wrap: wrap; }
+        .source-emoji { font-size: 1.5rem; }
+        .source-name { font-weight: 600; color: #374151; }
+        .importance-indicator { display: flex; gap: 2px; margin-left: auto; }
+        .star { color: #fbbf24; font-size: 1.2rem; }
+        .star.empty { color: #d1d5db; }
+        .article-title { font-size: 2rem; font-weight: 700; line-height: 1.2; margin-bottom: 1rem; color: #111827; }
+        .article-meta { display: flex; align-items: center; gap: 1rem; font-size: 0.875rem; color: #6b7280; margin-bottom: 1.5rem; }
+        .category { padding: 0.25rem 0.75rem; border-radius: 1rem; font-weight: 500; font-size: 0.75rem; text-transform: uppercase; background: #e5e7eb; color: #374151; }
+        .article-image { margin: 1.5rem 0; border-radius: 8px; overflow: hidden; }
+        .article-image img { width: 100%; height: auto; display: block; }
+        .article-content { font-size: 1.125rem; line-height: 1.7; margin-bottom: 2rem; }
+        .article-content h2 { font-size: 1.5rem; margin: 1.5rem 0 1rem; color: #111827; }
+        .article-content p { margin-bottom: 1rem; }
+        .article-footer { border-top: 1px solid #e5e7eb; padding-top: 1.5rem; }
+        .read-more-btn { display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: #3b82f6; color: white; text-decoration: none; border-radius: 8px; font-weight: 500; }
+        .read-more-btn:hover { background: #2563eb; }
+        .original-title { margin-top: 1rem; color: #6b7280; font-size: 0.875rem; }
+        .back-link { display: inline-block; margin-bottom: 1rem; color: #3b82f6; text-decoration: none; }
+        .back-link:hover { text-decoration: underline; }
+        .archive-notice { background: #fef3c7; border: 1px solid #f59e0b; border-radius: 8px; padding: 1rem; margin-bottom: 1rem; font-size: 0.875rem; color: #92400e; }
+        @media (max-width: 640px) {
+            .container { padding: 1rem; }
+            .tech-news-article { padding: 1.5rem; margin: 1rem 0; }
+            .article-title { font-size: 1.5rem; }
+            .source-info { flex-direction: column; align-items: flex-start; }
+            .importance-indicator { margin-left: 0; margin-top: 0.5rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="/tech-news/" class="back-link">&larr; Zpět na Tech News</a>
+
+        <div class="archive-notice">
+            Tento článek je z archivu. Byl publikován 13.01.2026.
+        </div>
+
+        <article class="tech-news-article">
+            <header>
+                <div class="source-info">
+                    <span class="source-emoji">📰</span>
+                    <span class="source-name">Cisco.com</span>
+                    <div class="importance-indicator">
+                        <span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star">★</span>
+                    </div>
+                </div>
+
+                <h1 class="article-title">Ochrante svou WAN síť před hrozbami kvantových počítačů</h1>
+
+                <div class="article-meta">
+                    <time datetime="2026-01-13T16:00:31+00:00">13.01.2026</time>
+                    <span class="category">kyberbezpečnost</span>
+                </div>
+            </header>
+
+            
+            <div class="article-image">
+                <img src="https://blogs.cisco.com/gcs/ciscoblogs/1/2026/01/PQC-blog-feature.png" alt="Ochrante svou WAN síť před hrozbami kvantových počítačů" loading="lazy">
+            </div>
+        
+
+            <div class="article-content">
+                <h2>Souhrn</h2>
+<p>Kvantové počítače představují reálnou hrozbu pro současné šifrovací metody založené na veřejném klíči, které chrání data přenášená WAN sítěmi. Útoky typu harvest now, decrypt later (HNDL) umožňují útočníkům sbírat šifrovaný provoz nyní a dešifrovat ho později pomocí kryptograficky relevantního kvantového počítače (CRQC). Cisco řada 8000 Series Secure Routers zavádí post-quantum cryptography (PQC) prostřednictvím post-quantum předem sdílených klíčů, což poskytuje okamžitou ochranu pro kritické sítě.</p>
+<h2>Klíčové body</h2>
+<ul>
+<li>Současné asymetrické šifrování (RSA, ECC) je zranitelné vůči kvantovým algoritmům jako Shor&rsquo;s algorithm.</li>
+<li>HNDL útoky cílí na dlouhodobě citlivá data v WAN, kde útočníci zachytí šifrovaný provoz a veřejné klíče pro budoucí dešifrování.</li>
+<li>WAN sítě spojují datová centra, pobočky a cloud a nesou data s dlouhou životností, což je činí prioritou pro PQC.</li>
+<li>Cisco 8000 Series podporuje IPsec tunely s post-quantum pre-shared keys, kompatibilní s NIST PQC standardy.</li>
+<li>Doporučení: Okamžitý přechod na quantum-safe řešení kvůli blížícímu se vývoji CRQC.</li>
+</ul>
+<h2>Podrobnosti</h2>
+<p>Kvantové počítače mění základy kybernetické bezpečnosti tím, že dokážou efektivně prolomit asymetrické šifrovací algoritmy, na nichž stojí protokoly jako TLS nebo IPsec. Tyto metody spoléhají na obtížnost faktorizace velkých čísel (RSA) nebo diskrétního logaritmu na eliptických křivkách (ECC). Kvantový algoritmus Shor&rsquo;s umožní CRQC – počítači s tisíci stabilních qubitů – odvodit soukromé klíče z veřejných během minut, což je v klasických počítačích nemožné.</p>
+<p>HNDL útoky fungují takto: Útočník zachytí šifrovaný WAN provoz, včetně veřejných klíčů z key exchange fází (např. Diffie-Hellman). Data zůstávají šifrovaná symetrickým session key, který je odvozen z asymetrického handshake. Až CRQC získá soukromý klíč, dešifruje session key a přistoupí k obsahu. Pro podniky to znamená, že dnešní přenosy citlivých dat – jako zdravotnické záznamy, finanční transakce nebo průmyslové tajemství – mohou být kompromitovány za 5–10 let, kdy CRQC stanou dostupnými státům nebo velkým aktérům.</p>
+<p>WAN sítě jsou klíčové, protože spojují vzdálené lokace a přenášejí data s délkou životnosti desítek let. Cisco, dominantní hráč v síťovém vybavení, řadu 8000 Series Secure Routers navrhuje pro high-end WAN nasazení. Tyto routry podporují modulární architekturu s vysokou propustností (až 400 Gbps na slot) a integrovat PQC do existujících IPsec VPN. Klíčovou funkcí jsou post-quantum pre-shared keys (PQ-PSK), kde se symetrické klíče generují pomocí PQC algoritmů jako Kyber (NIST standardizovaný KEM pro key encapsulation). To obchází potřebu plně post-quantum PKI, která ještě není nasazená, a umožňuje bezpečné tunelování bez změny infrastruktury. Cisco také integruje detekci kvantových hrozeb a podporu hybridních schémat (klasické + PQC). Kriticky: PQC algoritmy prošly NIST výběrem v roce 2022 (Kyber, Dilithium, Falcon), ale plná standardizace probíhá, takže PQ-PSK je praktickým meziřešením.</p>
+<h2>Proč je to důležité</h2>
+<p>Tento vývoj urychluje přechod na quantum-safe kryptografii v podnikových sítích, kde zpoždění může vést k masivním únikům dat a neregulerním pokutám (GDPR, HIPAA). WAN-first strategie je logická, protože tvoří vstupní bránu do celého ekosystému – datových center, cloudu (AWS, Azure) a IoT. V širším kontextu posiluje to globální snahu o migraci PQC, jak doporučuje NSA v CNSA 2.0. Pro uživatele znamená snížení rizika HNDL, zvláště v odvětvích jako finance nebo obrana. Nicméně, plná ochrana vyžaduje end-to-end PQC, včetně klientů a serverů, což Cisco řeší jen částečně – firmy musí auditovat celý stack.</p>
+<hr />
+<p><a href="https://blogs.cisco.com/networking/safeguard-your-wan-from-quantum-computing-threats">Číst původní článek</a></p>
+<p><strong>Zdroj:</strong> 📰 Cisco.com</p>
+            </div>
+
+            <footer class="article-footer">
+                <a href="https://blogs.cisco.com/networking/safeguard-your-wan-from-quantum-computing-threats" target="_blank" rel="noopener" class="read-more-btn">
+                    Číst původní článek &rarr;
+                </a>
+
+                <div class="original-title"><small>Původní název: Safeguard Your WAN from Quantum Computing Threats</small></div>
+            </footer>
+        </article>
+
+        <p style="text-align: center; color: #6b7280; font-size: 0.875rem; margin-top: 2rem;">
+            &copy; 2026 <a href="https://www.marigold.cz" style="color: #3b82f6;">Marigold.cz</a>
+        </p>
+    </div>
+</body>
+</html>

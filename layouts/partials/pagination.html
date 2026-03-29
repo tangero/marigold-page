@@ -1,0 +1,68 @@
+{{ $paginator := .Paginator }}
+{{ if gt $paginator.TotalPages 1 }}
+<nav class="pagination" role="navigation" aria-label="Stránkování">
+  <ul class="pagination-list">
+    {{- /* Previous page */ -}}
+    {{ if $paginator.HasPrev }}
+    <li class="pagination-item">
+      <a href="{{ $paginator.Prev.URL }}" class="pagination-link" aria-label="Předchozí stránka">&laquo; Novější</a>
+    </li>
+    {{ else }}
+    <li class="pagination-item disabled">
+      <span class="pagination-link">&laquo; Novější</span>
+    </li>
+    {{ end }}
+
+    {{- /* First page */ -}}
+    {{ if gt $paginator.PageNumber 3 }}
+    <li class="pagination-item">
+      <a href="{{ (index $paginator.Pagers 0).URL }}" class="pagination-link">1</a>
+    </li>
+    {{ if gt $paginator.PageNumber 4 }}
+    <li class="pagination-item disabled">
+      <span class="pagination-link">&hellip;</span>
+    </li>
+    {{ end }}
+    {{ end }}
+
+    {{- /* Page numbers */ -}}
+    {{ range $paginator.Pagers }}
+      {{ $distance := sub .PageNumber $paginator.PageNumber }}
+      {{ if lt $distance 0 }}{{ $distance = sub 0 $distance }}{{ end }}
+      {{ if le $distance 2 }}
+      <li class="pagination-item{{ if eq .PageNumber $paginator.PageNumber }} active{{ end }}">
+        {{ if eq .PageNumber $paginator.PageNumber }}
+        <span class="pagination-link current">{{ .PageNumber }}</span>
+        {{ else }}
+        <a href="{{ .URL }}" class="pagination-link">{{ .PageNumber }}</a>
+        {{ end }}
+      </li>
+      {{ end }}
+    {{ end }}
+
+    {{- /* Last page */ -}}
+    {{ $lastDistance := sub $paginator.TotalPages $paginator.PageNumber }}
+    {{ if gt $lastDistance 2 }}
+    {{ if gt $lastDistance 3 }}
+    <li class="pagination-item disabled">
+      <span class="pagination-link">&hellip;</span>
+    </li>
+    {{ end }}
+    <li class="pagination-item">
+      <a href="{{ (index $paginator.Pagers (sub $paginator.TotalPages 1)).URL }}" class="pagination-link">{{ $paginator.TotalPages }}</a>
+    </li>
+    {{ end }}
+
+    {{- /* Next page */ -}}
+    {{ if $paginator.HasNext }}
+    <li class="pagination-item">
+      <a href="{{ $paginator.Next.URL }}" class="pagination-link" aria-label="Další stránka">Starší &raquo;</a>
+    </li>
+    {{ else }}
+    <li class="pagination-item disabled">
+      <span class="pagination-link">Starší &raquo;</span>
+    </li>
+    {{ end }}
+  </ul>
+</nav>
+{{ end }}

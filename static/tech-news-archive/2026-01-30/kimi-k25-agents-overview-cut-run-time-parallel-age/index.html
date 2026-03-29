@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Přehled agentů Kimi K2.5: Zkrácení doby běhu, paralelní agenti a volání nástrojů | Marigold.cz Tech News</title>
+    <meta name="description" content="Kimi K2.5 je nový open source multimodalní AI model, který slibuje až čtyřnásobně rychlejší dokončování úkolů oproti vedoucím modelům díky technologii Agent Swa">
+    <link rel="canonical" href="https://www.marigold.cz/tech-news/2026-01-30/kimi-k25-agents-overview-cut-run-time-parallel-age/">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #374151; background: #f3f4f6; }
+        .container { max-width: 800px; margin: 0 auto; padding: 2rem; }
+        .tech-news-article { background: white; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); padding: 2rem; margin: 2rem 0; }
+        .source-info { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem; flex-wrap: wrap; }
+        .source-emoji { font-size: 1.5rem; }
+        .source-name { font-weight: 600; color: #374151; }
+        .importance-indicator { display: flex; gap: 2px; margin-left: auto; }
+        .star { color: #fbbf24; font-size: 1.2rem; }
+        .star.empty { color: #d1d5db; }
+        .article-title { font-size: 2rem; font-weight: 700; line-height: 1.2; margin-bottom: 1rem; color: #111827; }
+        .article-meta { display: flex; align-items: center; gap: 1rem; font-size: 0.875rem; color: #6b7280; margin-bottom: 1.5rem; }
+        .category { padding: 0.25rem 0.75rem; border-radius: 1rem; font-weight: 500; font-size: 0.75rem; text-transform: uppercase; background: #e5e7eb; color: #374151; }
+        .article-image { margin: 1.5rem 0; border-radius: 8px; overflow: hidden; }
+        .article-image img { width: 100%; height: auto; display: block; }
+        .article-content { font-size: 1.125rem; line-height: 1.7; margin-bottom: 2rem; }
+        .article-content h2 { font-size: 1.5rem; margin: 1.5rem 0 1rem; color: #111827; }
+        .article-content p { margin-bottom: 1rem; }
+        .article-footer { border-top: 1px solid #e5e7eb; padding-top: 1.5rem; }
+        .read-more-btn { display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: #3b82f6; color: white; text-decoration: none; border-radius: 8px; font-weight: 500; }
+        .read-more-btn:hover { background: #2563eb; }
+        .original-title { margin-top: 1rem; color: #6b7280; font-size: 0.875rem; }
+        .back-link { display: inline-block; margin-bottom: 1rem; color: #3b82f6; text-decoration: none; }
+        .back-link:hover { text-decoration: underline; }
+        .archive-notice { background: #fef3c7; border: 1px solid #f59e0b; border-radius: 8px; padding: 1rem; margin-bottom: 1rem; font-size: 0.875rem; color: #92400e; }
+        @media (max-width: 640px) {
+            .container { padding: 1rem; }
+            .tech-news-article { padding: 1.5rem; margin: 1rem 0; }
+            .article-title { font-size: 1.5rem; }
+            .source-info { flex-direction: column; align-items: flex-start; }
+            .importance-indicator { margin-left: 0; margin-top: 0.5rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="/tech-news/" class="back-link">&larr; Zpět na Tech News</a>
+
+        <div class="archive-notice">
+            Tento článek je z archivu. Byl publikován 30.01.2026.
+        </div>
+
+        <article class="tech-news-article">
+            <header>
+                <div class="source-info">
+                    <span class="source-emoji">📰</span>
+                    <span class="source-name">Geeky Gadgets</span>
+                    <div class="importance-indicator">
+                        <span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star empty">☆</span>
+                    </div>
+                </div>
+
+                <h1 class="article-title">Přehled agentů Kimi K2.5: Zkrácení doby běhu, paralelní agenti a volání nástrojů</h1>
+
+                <div class="article-meta">
+                    <time datetime="2026-01-30T11:42:33+00:00">30.01.2026</time>
+                    <span class="category">umělá inteligence</span>
+                </div>
+            </header>
+
+            
+            <div class="article-image">
+                <img src="https://www.geeky-gadgets.com/wp-content/uploads/2026/01/kimi-k2-5-speed-vs-claude-opus_optimized.jpg" alt="Přehled agentů Kimi K2.5: Zkrácení doby běhu, paralelní agenti a volání nástrojů" loading="lazy">
+            </div>
+        
+
+            <div class="article-content">
+                <h2>Souhrn</h2>
+<p>Kimi K2.5 představuje nový open source multimodalní AI model vyvinutý firmou Moonshot AI, čínským poskytovatelem pokročilých jazykových modelů. Zaměřuje se na paralelní zpracování úkolů prostřednictvím swarmu agentů, což umožňuje snížit dobu běhu až o 4,5násobek oproti stávajícím modelům. Model integruje vizuální a textové zpracování, což je užitečné pro kódování, ladění a analýzu dat.</p>
+<h2>Klíčové body</h2>
+<ul>
+<li>Trénován na datasetu o objemu 15 bilionů tokenů, což zajišťuje širokou znalostní bázi pro multimodální úlohy.</li>
+<li>Čtyři varianty: Instant pro rychlé odpovědi, Thinking pro hlubší uvažování, Agent pro jednotlivé úkoly a Agent Swarm pro paralelní multi-agent operace.</li>
+<li>Agent Swarm technologie umožňuje souběžné spuštění až 100 sub-agentů a 15 000 operací, což výrazně zvyšuje efektivitu.</li>
+<li>Překonává modely jako Claude v benchmarkách Browser Comp (prohlížečové úlohy) a HLE (high-level evaluation).</li>
+<li>Podpora volání nástrojů a vizuálně-textové integrace pro praktické aplikace v kódování a debugování.</li>
+</ul>
+<h2>Podrobnosti</h2>
+<p>Kimi K2.5 staví na architektuře, která kombinuje velký jazykový model s multi-agentním systémem. Agent Swarm funguje tak, že rozděluje složité úkoly na podúkoly řešené paralelně nezávislými sub-agenty. Každý sub-agent může volat externí nástroje, například pro přístup k webu, databázím nebo výpočetním modulům, což umožňuje řešit reálné problémy jako automatizované kódování nebo analýza velkých datových sad. Například při debugování UI může model současně analyzovat vizuální prvky obrázku a odpovídající kód, což urychluje vývoj softwaru.</p>
+<p>Model byl trénován na obrovském korpusu 15 bilionů tokenů, včetně textových i vizuálních dat, což mu dává schopnost zpracovávat multimodální vstupy. Varianty jsou optimalizovány pro specifické scénáře: Instant slouží k okamžitým odpovědům bez zbytečného zpoždění, Thinking umožňuje krok za krokem uvažování pro složité logické úlohy, Agent zvládá jednoduché autonomní akce a Agent Swarm exceluje v koordinovaných operacích, kde jeden hlavní agent orchestruje desítky sub-agentů. V benchmarkách jako Browser Comp, který testuje interakci s prohlížeči, nebo HLE zaměřeném na vysokou úroveň evaluace, Kimi K2.5 dosahuje lepších výsledků než modely jako Claude Opus, přestože srovnání s neexistujícími verzemi jako GPT 5.2 vyžaduje opatrnost.</p>
+<p>Jako open source model je dostupný pro vývojáře přes platformy jako Hugging Face, což usnadňuje integraci do vlastních aplikací. Moonshot AI, firma specializující se na velké jazykové modely v Číně, tak democratizuje přístup k pokročilým AI schopnostem, které dříve dominovaly uzavřeným systémům.</p>
+<h2>Proč je to důležité</h2>
+<p>Tento model posouvá hranice efektivity v AI, zejména v oblastech vyžadujících paralelní zpracování, což je klíčové pro skalovatelné aplikace v průmyslu. Pro developery znamená rychlejší iterace v kódování a debugování, pro výzkumníky efektivnější analýzu dat. V širším kontextu open source přístup snižuje závislost na proprietárních modelech od OpenAI nebo Anthropic a urychluje inovace v multi-agentních systémech. Nicméně tvrzení o překonání hypotetických verzí konkurentů by měla být ověřena nezávislými testy, aby se potvrdila skutečná nadřazenost v reálných scénářích.</p>
+<hr />
+<p><a href="https://www.geeky-gadgets.com/kimi-agent-swarm/">Číst původní článek</a></p>
+<p><strong>Zdroj:</strong> 📰 Geeky Gadgets</p>
+            </div>
+
+            <footer class="article-footer">
+                <a href="https://www.geeky-gadgets.com/kimi-agent-swarm/" target="_blank" rel="noopener" class="read-more-btn">
+                    Číst původní článek &rarr;
+                </a>
+
+                <div class="original-title"><small>Původní název: Kimi K2.5 Agents Overview : Cut Run Time, Parallel Agents & Tool Calls</small></div>
+            </footer>
+        </article>
+
+        <p style="text-align: center; color: #6b7280; font-size: 0.875rem; margin-top: 2rem;">
+            &copy; 2026 <a href="https://www.marigold.cz" style="color: #3b82f6;">Marigold.cz</a>
+        </p>
+    </div>
+</body>
+</html>

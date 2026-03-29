@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nový AI framework automaticky odhaluje fyzikální rovnice z kosmických dat | Marigold.cz Tech News</title>
+    <meta name="description" content="Výzkumníci z Tsinghua University a Peking University představili framework PhyE2E, který kombinuje generativní modely, symbolickou regresi a fyzikální omezení k">
+    <link rel="canonical" href="https://www.marigold.cz/tech-news/2025-11-10/new-ai-framework-can-uncover-space-physics-equatio/">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #374151; background: #f3f4f6; }
+        .container { max-width: 800px; margin: 0 auto; padding: 2rem; }
+        .tech-news-article { background: white; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); padding: 2rem; margin: 2rem 0; }
+        .source-info { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem; flex-wrap: wrap; }
+        .source-emoji { font-size: 1.5rem; }
+        .source-name { font-weight: 600; color: #374151; }
+        .importance-indicator { display: flex; gap: 2px; margin-left: auto; }
+        .star { color: #fbbf24; font-size: 1.2rem; }
+        .star.empty { color: #d1d5db; }
+        .article-title { font-size: 2rem; font-weight: 700; line-height: 1.2; margin-bottom: 1rem; color: #111827; }
+        .article-meta { display: flex; align-items: center; gap: 1rem; font-size: 0.875rem; color: #6b7280; margin-bottom: 1.5rem; }
+        .category { padding: 0.25rem 0.75rem; border-radius: 1rem; font-weight: 500; font-size: 0.75rem; text-transform: uppercase; background: #e5e7eb; color: #374151; }
+        .article-image { margin: 1.5rem 0; border-radius: 8px; overflow: hidden; }
+        .article-image img { width: 100%; height: auto; display: block; }
+        .article-content { font-size: 1.125rem; line-height: 1.7; margin-bottom: 2rem; }
+        .article-content h2 { font-size: 1.5rem; margin: 1.5rem 0 1rem; color: #111827; }
+        .article-content p { margin-bottom: 1rem; }
+        .article-footer { border-top: 1px solid #e5e7eb; padding-top: 1.5rem; }
+        .read-more-btn { display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: #3b82f6; color: white; text-decoration: none; border-radius: 8px; font-weight: 500; }
+        .read-more-btn:hover { background: #2563eb; }
+        .original-title { margin-top: 1rem; color: #6b7280; font-size: 0.875rem; }
+        .back-link { display: inline-block; margin-bottom: 1rem; color: #3b82f6; text-decoration: none; }
+        .back-link:hover { text-decoration: underline; }
+        .archive-notice { background: #fef3c7; border: 1px solid #f59e0b; border-radius: 8px; padding: 1rem; margin-bottom: 1rem; font-size: 0.875rem; color: #92400e; }
+        @media (max-width: 640px) {
+            .container { padding: 1rem; }
+            .tech-news-article { padding: 1.5rem; margin: 1rem 0; }
+            .article-title { font-size: 1.5rem; }
+            .source-info { flex-direction: column; align-items: flex-start; }
+            .importance-indicator { margin-left: 0; margin-top: 0.5rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="/tech-news/" class="back-link">&larr; Zpět na Tech News</a>
+
+        <div class="archive-notice">
+            Tento článek je z archivu. Byl publikován 10.11.2025.
+        </div>
+
+        <article class="tech-news-article">
+            <header>
+                <div class="source-info">
+                    <span class="source-emoji">📰</span>
+                    <span class="source-name">Phys.Org</span>
+                    <div class="importance-indicator">
+                        <span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star empty">☆</span><span class="star empty">☆</span>
+                    </div>
+                </div>
+
+                <h1 class="article-title">Nový AI framework automaticky odhaluje fyzikální rovnice z kosmických dat</h1>
+
+                <div class="article-meta">
+                    <time datetime="2025-11-10T12:00:01+00:00">10.11.2025</time>
+                    <span class="category">ai</span>
+                </div>
+            </header>
+
+            
+            <div class="article-image">
+                <img src="https://scx2.b-cdn.net/gfx/news/hires/2025/new-ai-framework-can-u.jpg" alt="Nový AI framework automaticky odhaluje fyzikální rovnice z kosmických dat" loading="lazy">
+            </div>
+        
+
+            <div class="article-content">
+                <h2>Souhrn</h2>
+<p>Nový AI framework PhyE2E umožňuje automaticky odvozovat fyzikální rovnice z neuspořádaných měření kosmických jevů bez nutnosti ručního modelování. Systém kombinuje generovaná syntetická data, symbolickou regresi a fyzikální omezení a míří na oblast, kde běžné neuronové sítě fungují jako „černé skříňky“ bez srozumitelné matematiky.</p>
+<h2>Klíčové body</h2>
+<ul>
+<li>PhyE2E převádí syrová měření (např. z družic) na symbolické rovnice, které jsou lidsky čitelné a fyzikálně konzistentní.</li>
+<li>Framework využívá velký jazykový model (LLM) pro generování syntetických tréninkových dat, čímž rozšiřuje pokrytí možných fyzikálních vztahů.</li>
+<li>Používá techniku dekompozice problému na menší subproblémy (D&amp;C) a end-to-end model pro návrh kandidátních rovnic.</li>
+<li>Nasazuje modul Monte Carlo Tree Search (MCTS) s bezkontextovou gramatikou k dolaďování rovnic na základě přesnosti (RMSE) a fyzikálních omezení.</li>
+<li>Cílí na oblast prostorové fyziky, ale koncept lze přenést i do plazmové fyziky, astrofyziky a dalších datově bohatých oborů.</li>
+</ul>
+<h2>Podrobnosti</h2>
+<p>Framework PhyE2E vyvinutý týmem z Tsinghua University, Peking University a spolupracujících čínských institucí řeší dlouhodobý problém fyziky a inženýrství: jak přejít od velkých objemů experimentálních dat k explicitním rovnicím, které lze ověřit, sdílet a použít v simulačních modelech. Na rozdíl od klasických neuronových sítí, které pouze aproximují vztahy mezi vstupem a výstupem, se PhyE2E snaží rekonstruovat symbolické matematické výrazy.</p>
+<p>Architektura stojí na několika krocích. Nejprve je tréninková množina rozšířena syntetickými daty generovanými pomocí LLM, který navrhuje možné fyzikální vztahy a z nich odvozené datové body. Tím se řeší problém omezeného množství reálných měření v některých oblastech kosmické fyziky a zároveň se systém učí rozmanější prostor rovnic. Následně je úloha symbolické regrese rozdělena technikou &ldquo;divide and conquer&rdquo; (D&amp;C) na jednodušší dílčí vztahy mezi proměnnými. End-to-end model, typicky založený na MLP (multilayer perceptron), pak z pozorovaných dat a fyzikálních priorů (například zákonů zachování, známých konstant, struktur rovnic) generuje kandidátní formuli.</p>
+<p>Poslední krok využívá Monte Carlo Tree Search (MCTS) a bezkontextovou gramatiku, v níž jsou definovány „atomické“ výrazy a operace. MCTS prohledává prostor možných rovnic, porovnává je s daty pomocí metrik, jako je RMSE, a průběžně respektuje fyzikální omezení, aby se minimalizovaly nesmyslné výsledky. Výsledkem jsou rovnice, které nejen dobře sedí na data, ale zároveň odpovídají známým fyzikálním principům nebo navrhují jejich rozšíření.</p>
+<p>Pro vědeckou komunitu jde o praktický nástroj: lze jej nasadit na data z družic studujících magnetosféru, sluneční vítr, plazmové interakce či kosmické záření a systematicky hledat nové vztahy bez ručně vedeného „lovu“ v datech. Pro průmysl (aerospace, energetika, materiálové inženýrství) to otevírá cestu k rychlejšímu návrhu fyzikálních modelů, které jsou transparentní a přímo použitelné v simulačním softwaru.</p>
+<h2>Proč je to důležité</h2>
+<p>PhyE2E představuje posun od černoskrínkových AI modelů k nástrojům, které generují srozumitelnou a ověřitelnou matematiku. To je klíčové ve vědě, kde nestačí predikce, ale je nutná interpretace a fyzikální konzistence. Zapojení LLM do generování tréninkových dat zároveň ukazuje trend: spojování generativních modelů, symbolické regrese a fyzikálních priorů pro automatizovaný vědecký objev. Pokud se framework osvědčí mimo kosmickou fyziku, může zrychlit vývoj modelů v plazmové energetice, fúzních reaktorech, klimatických simulacích i materiálovém výzkumu. Zároveň je nutné kriticky sledovat rizika: syntetická data i návrhy rovnic mohou vnášet systematické chyby, proto bude klíčová nezávislá validace a otevřené porovnání s klasickými metodami a experimenty.</p>
+<hr />
+<p><a href="https://phys.org/news/2025-11-ai-framework-uncover-space-physics.html">Číst původní článek</a></p>
+<p><strong>Zdroj:</strong> 📰 Phys.Org</p>
+            </div>
+
+            <footer class="article-footer">
+                <a href="https://phys.org/news/2025-11-ai-framework-uncover-space-physics.html" target="_blank" rel="noopener" class="read-more-btn">
+                    Číst původní článek &rarr;
+                </a>
+
+                <div class="original-title"><small>Původní název: New AI framework can uncover space physics equations in raw data - Phys.org</small></div>
+            </footer>
+        </article>
+
+        <p style="text-align: center; color: #6b7280; font-size: 0.875rem; margin-top: 2rem;">
+            &copy; 2025 <a href="https://www.marigold.cz" style="color: #3b82f6;">Marigold.cz</a>
+        </p>
+    </div>
+</body>
+</html>

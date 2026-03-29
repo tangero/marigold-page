@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vysvětlitelný rámec strojového učení pro vícecílovou optimalizaci snížení uhlíkových emisí materiálů, provozu a sezónní bilance při rekonstrukcích budov | Marigold.cz Tech News</title>
+    <meta name="description" content="Vědecký článek v Scientific Reports představuje rámec, který integruje vysvětlitelné strojové učení s vícecílovou optimalizací pro snížení emisí CO2 při renovac">
+    <link rel="canonical" href="https://www.marigold.cz/tech-news/2025-12-02/an-explainable-machine-learning-framework-for-mult/">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #374151; background: #f3f4f6; }
+        .container { max-width: 800px; margin: 0 auto; padding: 2rem; }
+        .tech-news-article { background: white; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); padding: 2rem; margin: 2rem 0; }
+        .source-info { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem; flex-wrap: wrap; }
+        .source-emoji { font-size: 1.5rem; }
+        .source-name { font-weight: 600; color: #374151; }
+        .importance-indicator { display: flex; gap: 2px; margin-left: auto; }
+        .star { color: #fbbf24; font-size: 1.2rem; }
+        .star.empty { color: #d1d5db; }
+        .article-title { font-size: 2rem; font-weight: 700; line-height: 1.2; margin-bottom: 1rem; color: #111827; }
+        .article-meta { display: flex; align-items: center; gap: 1rem; font-size: 0.875rem; color: #6b7280; margin-bottom: 1.5rem; }
+        .category { padding: 0.25rem 0.75rem; border-radius: 1rem; font-weight: 500; font-size: 0.75rem; text-transform: uppercase; background: #e5e7eb; color: #374151; }
+        .article-image { margin: 1.5rem 0; border-radius: 8px; overflow: hidden; }
+        .article-image img { width: 100%; height: auto; display: block; }
+        .article-content { font-size: 1.125rem; line-height: 1.7; margin-bottom: 2rem; }
+        .article-content h2 { font-size: 1.5rem; margin: 1.5rem 0 1rem; color: #111827; }
+        .article-content p { margin-bottom: 1rem; }
+        .article-footer { border-top: 1px solid #e5e7eb; padding-top: 1.5rem; }
+        .read-more-btn { display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: #3b82f6; color: white; text-decoration: none; border-radius: 8px; font-weight: 500; }
+        .read-more-btn:hover { background: #2563eb; }
+        .original-title { margin-top: 1rem; color: #6b7280; font-size: 0.875rem; }
+        .back-link { display: inline-block; margin-bottom: 1rem; color: #3b82f6; text-decoration: none; }
+        .back-link:hover { text-decoration: underline; }
+        .archive-notice { background: #fef3c7; border: 1px solid #f59e0b; border-radius: 8px; padding: 1rem; margin-bottom: 1rem; font-size: 0.875rem; color: #92400e; }
+        @media (max-width: 640px) {
+            .container { padding: 1rem; }
+            .tech-news-article { padding: 1.5rem; margin: 1rem 0; }
+            .article-title { font-size: 1.5rem; }
+            .source-info { flex-direction: column; align-items: flex-start; }
+            .importance-indicator { margin-left: 0; margin-top: 0.5rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="/tech-news/" class="back-link">&larr; Zpět na Tech News</a>
+
+        <div class="archive-notice">
+            Tento článek je z archivu. Byl publikován 02.12.2025.
+        </div>
+
+        <article class="tech-news-article">
+            <header>
+                <div class="source-info">
+                    <span class="source-emoji">📰</span>
+                    <span class="source-name">Nature.com</span>
+                    <div class="importance-indicator">
+                        <span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star empty">☆</span><span class="star empty">☆</span>
+                    </div>
+                </div>
+
+                <h1 class="article-title">Vysvětlitelný rámec strojového učení pro vícecílovou optimalizaci snížení uhlíkových emisí materiálů, provozu a sezónní bilance při rekonstrukcích budov</h1>
+
+                <div class="article-meta">
+                    <time datetime="2025-12-02T00:00:00+00:00">02.12.2025</time>
+                    <span class="category">strojové učení</span>
+                </div>
+            </header>
+
+            
+
+            <div class="article-content">
+                <h2>Souhrn</h2>
+<p>Výzkum publikovaný v Scientific Reports navrhuje systematický rámec, který spojuje vysvětlitelné strojové učení s vícecílovou optimalizací pro minimalizaci uhlíkových emisí při rekonstrukcích budov. Rámec se soustředí na tři klíčové metriky: materiálovou intenzitu emisí (MCEI), provozní intenzitu emisí (OCEI) a sezónní bilanci emisí (SCEB). V případové studii dosáhl nejlepší kompromisní řešení snížení MCEI o 71,06 %, OCEI o 37,20 % a zlepšení SCEB o 24,75 % oproti referenčnímu stavu.</p>
+<h2>Klíčové body</h2>
+<ul>
+<li>Nejlepší prediktivní model: CatBoost, který překonal pět dalších algoritmů (např. XGBoost, Random Forest) díky vysoké přesnosti na datech simulací emisí.</li>
+<li>Vysvětlitelnost zajišťuje SHAP, které identifikovalo klíčové proměnné: FLH (full load hours), WWR1 a WWR2 (window-to-wall ratio), NOF (number of floors).</li>
+<li>Optimalizace pomocí NSGA-II algoritmu, který generoval čtyři sady Pareto-optimálních řešení.</li>
+<li>Doporučené strategie: opětovné použití materiálů, nízkouhlíkové materiály, optimalizace příček, zlepšení tepelné izolace obalu budovy a designu atria.</li>
+<li>Data: Vysokouhlíkové simulace emisí, dostupná pro další analýzy.</li>
+</ul>
+<h2>Podrobnosti</h2>
+<p>Článek reaguje na globální tlak k uhlíkové neutralitě v stavebnictví, kde rekonstrukce stávajících budov představuje efektivní cestu k omezení emisí, protože nové stavby tvoří menší podíl emisí než provoz stávajících objektů. Rámec je postaven na třech jádrových metrikách: MCEI měří emise spojené s výrobou a transportem materiálů během rekonstrukce, OCEI hodnotí emise z provozu budovy (vytápění, chlazení, osvětlení) a SCEB porovnává sezónní výkyvy emisí mezi léty, což umožňuje zohlednit dynamiku počasí a užívání.</p>
+<p>Pro predikci emisí byly použity data z vysokouhledných simulací, trénovány šest algoritmy strojového učení: CatBoost, LightGBM, XGBoost, Random Forest, Gradient Boosting a AdaBoost. CatBoost dosáhl nejvyšší přesnosti díky své schopnosti zpracovávat kategorické data a odolnosti vůči přeučení, což je klíčové pro heterogenní data z budovních simulací. SHAP (SHapley Additive exPlanations) pak poskytl globální i lokální vysvětlitelnost, ukazujíc, jak proměnné jako FLH (počet plných provozních hodin za rok), WWR1 (poměr oken k stěnám na prvním patře) a WWR2 (na vyšších patrech) nebo NOF (počet pater) ovlivňují emise. Například vyšší WWR zvyšuje tepelné ztráty, což zvyšuje OCEI.</p>
+<p>V validaci na třípodlažní průmyslové budově byl NSGA-II (Non-dominated Sorting Genetic Algorithm II) použit pro multi-objective optimalizaci těchto tří metrik. Algoritmus generuje Pareto-frontu, kde neexistuje jedno optimální řešení, ale sady kompromisů. Získány čtyři varianty: od extrémního snížení materiálových emisí po vyvážené řešení. Nejvyváženější dosáhlo zmíněných redukcí, což demonstruje praktickou použitelnost. Doporučení zahrnují recyklaci materiálů (snižuje MCEI), volbu cementu s nižšími emisemi, minimalizaci příček pro lepší průtok vzduchu, zesílení izolace střechy a fasády (ovlivňuje OCEI) a optimalizaci atria pro lepší denní svitlo a ventilaci (zlepšuje SCEB).</p>
+<p>Rámec je škálovatelný, protože závisí na simulacích dostupných v softwaru jako EnergyPlus nebo DesignBuilder, a lze ho aplikovat na různé typy budov.</p>
+<h2>Proč je to důležité</h2>
+<p>Tento přístup přispívá k udržitelnému stavebnictví tím, že poskytuje datově podložené rozhodnutí pro architekty a investory, kteří často čelí konfliktům mezi náklady, estetikou a emisemi. V kontextu EU směrnic o energetické náročnosti budov (EPBD) a cílů net-zero do 2050 umožňuje replikovatelný nástroj pro tisíce rekonstrukcí. Pro AI oblast zdůrazňuje hodnotu vysvětlitelných modelů v inženýrských aplikacích, kde black-box modely (jako některé hluboké sítě) selhávají kvůli potřebě auditu. Omezením je závislost na kvalitních simulačních datech, což vyžaduje kalibraci na reálných měřeních. Celkově posiluje integraci ML do zelených technologií bez přehánění očekávání okamžitých průlomů.</p>
+<hr />
+<p><a href="https://www.nature.com/articles/s41598-025-29418-z">Číst původní článek</a></p>
+<p><strong>Zdroj:</strong> 📰 Nature.com</p>
+            </div>
+
+            <footer class="article-footer">
+                <a href="https://www.nature.com/articles/s41598-025-29418-z" target="_blank" rel="noopener" class="read-more-btn">
+                    Číst původní článek &rarr;
+                </a>
+
+                <div class="original-title"><small>Původní název: An explainable machine learning framework for multi-objective carbon reduction targeting material operational seasonal emissions in building retrofits</small></div>
+            </footer>
+        </article>
+
+        <p style="text-align: center; color: #6b7280; font-size: 0.875rem; margin-top: 2rem;">
+            &copy; 2025 <a href="https://www.marigold.cz" style="color: #3b82f6;">Marigold.cz</a>
+        </p>
+    </div>
+</body>
+</html>

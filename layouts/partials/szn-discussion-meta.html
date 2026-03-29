@@ -1,0 +1,52 @@
+<!-- Seznam.cz Discussion Meta Tags -->
+<meta name="szn:permalink" content="{{ .Permalink }}" />
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "{{ if or (eq .Layout "tech_news_article") (eq .Layout "tech_news") }}NewsArticle{{ else }}BlogPosting{{ end }}",
+  "headline": "{{ .Title }}",
+  "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+  {{ if .Lastmod }}
+  "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
+  {{ else }}
+  "dateModified": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+  {{ end }}
+  {{ if .Description }}
+  "description": "{{ .Description }}",
+  {{ else if .Params.post_excerpt }}
+  "description": "{{ .Params.post_excerpt | plainify | truncate 200 }}",
+  {{ else }}
+  "description": "{{ .Summary | plainify | truncate 200 }}",
+  {{ end }}
+  {{ if .Params.thumbnail }}
+  "image": "{{ replace .Params.thumbnail "http://" "https://" }}",
+  {{ else if .Params.urlToImage }}
+  "image": "{{ replace .Params.urlToImage "http://" "https://" }}",
+  {{ else }}
+  "image": "{{ .Site.Params.avatar | absURL }}",
+  {{ end }}
+  "author": {
+    "@type": "Person",
+    "name": "{{ if .Params.author }}{{ .Params.author }}{{ else }}{{ .Site.Params.author }}{{ end }}",
+    "url": "https://www.marigold.cz/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ .Site.Title }}",
+    "url": "{{ .Site.BaseURL }}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ .Site.Params.avatar | absURL }}",
+      "width": 180,
+      "height": 180
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ .Permalink }}"
+  },
+  "discussionUrl": "{{ .Permalink }}#discussion",
+  "inLanguage": "{{ if .Params.lang }}{{ .Params.lang }}{{ else }}cs{{ end }}"
+}
+</script>

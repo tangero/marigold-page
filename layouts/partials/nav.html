@@ -1,0 +1,36 @@
+<header class="masthead">
+  <a href="/" class="site-avatar"><img src="{{ .Site.Params.avatar }}" alt="{{ .Site.Title }}" /></a>
+
+  <div class="site-info">
+    <h1 class="site-name"><a href="/">{{ .Site.Title }}</a></h1>
+    <p class="site-description">{{ .Site.Params.description }}</p>
+  </div>
+
+  <nav aria-label="Hlavni navigace">
+    <ul>
+      <li><a href="/search">🔍</a></li>
+      <li class="nav-separator" aria-hidden="true">|</li>
+      <li><a href="https://www.prolnuto.cz/">🧑‍💻&nbsp;Kurzy AI</a></li>
+      <li class="nav-separator" aria-hidden="true">|</li>
+      <li><a href="https://www.vibecoding.cz/">🖥️&nbsp;Vibecoding</a></li>
+      <li class="nav-separator" aria-hidden="true">|</li>
+      <li><a href="/mobilnisite">🗼&nbsp;4G/5G</a></li>
+      <li class="nav-separator" aria-hidden="true">|</li>
+      <li><a href="/ai">🤖&nbsp;AI</a></li>
+      <li class="nav-separator" aria-hidden="true">|</li>
+      <li>
+        <span class="nav-dropdown">
+          <button class="nav-dropdown-toggle" aria-expanded="false" aria-label="Další menu">
+            Další&nbsp;☰
+          </button>
+          <div class="nav-dropdown-menu" role="menu">
+            <a href="/tech-news/" role="menuitem">💻&nbsp;Zprávy</a>
+            <a href="/aiprace/" role="menuitem">📊&nbsp;AI práce</a>
+            <a href="/obrazy" role="menuitem">🖼️&nbsp;Obrazy</a>
+          </div>
+        </span>
+      </li>
+      <li>{{ partial "theme-toggle.html" . }}</li>
+    </ul>
+  </nav>
+</header>

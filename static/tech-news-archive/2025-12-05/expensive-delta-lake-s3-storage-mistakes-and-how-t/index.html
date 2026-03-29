@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Drahé chyby v úložišti S3 pro Delta Lake (a jak je opravit) | Marigold.cz Tech News</title>
+    <meta name="description" content="Článek rozebírá běžné chyby při konfiguraci S3 bucketů pro tabulky Delta Lake a nabízí řešení pro snížení nákladů a zlepšení výkonu. Zaměřuje se na konflikty ve">
+    <link rel="canonical" href="https://www.marigold.cz/tech-news/2025-12-05/expensive-delta-lake-s3-storage-mistakes-and-how-t/">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #374151; background: #f3f4f6; }
+        .container { max-width: 800px; margin: 0 auto; padding: 2rem; }
+        .tech-news-article { background: white; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); padding: 2rem; margin: 2rem 0; }
+        .source-info { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem; flex-wrap: wrap; }
+        .source-emoji { font-size: 1.5rem; }
+        .source-name { font-weight: 600; color: #374151; }
+        .importance-indicator { display: flex; gap: 2px; margin-left: auto; }
+        .star { color: #fbbf24; font-size: 1.2rem; }
+        .star.empty { color: #d1d5db; }
+        .article-title { font-size: 2rem; font-weight: 700; line-height: 1.2; margin-bottom: 1rem; color: #111827; }
+        .article-meta { display: flex; align-items: center; gap: 1rem; font-size: 0.875rem; color: #6b7280; margin-bottom: 1.5rem; }
+        .category { padding: 0.25rem 0.75rem; border-radius: 1rem; font-weight: 500; font-size: 0.75rem; text-transform: uppercase; background: #e5e7eb; color: #374151; }
+        .article-image { margin: 1.5rem 0; border-radius: 8px; overflow: hidden; }
+        .article-image img { width: 100%; height: auto; display: block; }
+        .article-content { font-size: 1.125rem; line-height: 1.7; margin-bottom: 2rem; }
+        .article-content h2 { font-size: 1.5rem; margin: 1.5rem 0 1rem; color: #111827; }
+        .article-content p { margin-bottom: 1rem; }
+        .article-footer { border-top: 1px solid #e5e7eb; padding-top: 1.5rem; }
+        .read-more-btn { display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: #3b82f6; color: white; text-decoration: none; border-radius: 8px; font-weight: 500; }
+        .read-more-btn:hover { background: #2563eb; }
+        .original-title { margin-top: 1rem; color: #6b7280; font-size: 0.875rem; }
+        .back-link { display: inline-block; margin-bottom: 1rem; color: #3b82f6; text-decoration: none; }
+        .back-link:hover { text-decoration: underline; }
+        .archive-notice { background: #fef3c7; border: 1px solid #f59e0b; border-radius: 8px; padding: 1rem; margin-bottom: 1rem; font-size: 0.875rem; color: #92400e; }
+        @media (max-width: 640px) {
+            .container { padding: 1rem; }
+            .tech-news-article { padding: 1.5rem; margin: 1rem 0; }
+            .article-title { font-size: 1.5rem; }
+            .source-info { flex-direction: column; align-items: flex-start; }
+            .importance-indicator { margin-left: 0; margin-top: 0.5rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="/tech-news/" class="back-link">&larr; Zpět na Tech News</a>
+
+        <div class="archive-notice">
+            Tento článek je z archivu. Byl publikován 05.12.2025.
+        </div>
+
+        <article class="tech-news-article">
+            <header>
+                <div class="source-info">
+                    <span class="source-emoji">📰</span>
+                    <span class="source-name">Databricks.com</span>
+                    <div class="importance-indicator">
+                        <span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star empty">☆</span><span class="star empty">☆</span>
+                    </div>
+                </div>
+
+                <h1 class="article-title">Drahé chyby v úložišti S3 pro Delta Lake (a jak je opravit)</h1>
+
+                <div class="article-meta">
+                    <time datetime="2025-12-05T20:40:00+00:00">05.12.2025</time>
+                    <span class="category">cloudové úložiště</span>
+                </div>
+            </header>
+
+            
+            <div class="article-image">
+                <img src="https://www.databricks.com/sites/default/files/2025-12/expensive-delta-lake-s3-storage-mistakes-og-image.png" alt="Drahé chyby v úložišti S3 pro Delta Lake (a jak je opravit)" loading="lazy">
+            </div>
+        
+
+            <div class="article-content">
+                <h2>Souhrn</h2>
+<p>Článek identifikuje časté chyby v nastavování S3 bucketů pro Delta Lake tabulky v Lakehouse architektuře, které vedou k zbytečným nákladům na úložiště a síťový provoz. Popisuje tři klíčové oblasti: verzování objektů oproti verzování tabulek, třídy úložišť a náklady na přenos dat. Nabízí praktické kroky k detekci a opravě pomocí nástrojů Databricks a AWS služeb.</p>
+<h2>Klíčové body</h2>
+<ul>
+<li>Konflikt mezi nativním S3 object versioning a verzováním Delta Lake tabulek vede k duplicitnímu ukládání dat a vyšším nákladům.</li>
+<li>Nesprávné použití storage classes (hot, cool, cold, archive) brání automatickému přesunu starších dat do levnějších tříd.</li>
+<li>Lifecycle policies umožňují automatizaci přesunů dat bez zásahu do Delta Lake logů.</li>
+<li>Optimalizace přenosu dat mezi S3 a výpočetními clustery snižuje síťové poplatky.</li>
+<li>Doporučené nasazení bucketů zahrnuje oddělené buckety pro data a logy.</li>
+</ul>
+<h2>Podrobnosti</h2>
+<p>Cloudové úložiště jako S3 tvoří základ Lakehouse architektury, kde Delta Lake slouží k správě tabulek s podporou transakcí, verzování a časového cestování. Delta Lake ukládá každou transakci jako manifest soubor v JSON nebo Parquet formátu v adresáři _delta_log/, který odkazuje na podkladové Parquet soubory s daty. Při přidání, úpravě nebo smazání dat se vytvářejí nové soubory, což zajišťuje ACID vlastnosti bez nutnosti externího verzování.</p>
+<p>Problém nastává, když se zapne nativní S3 object versioning, které verziuje každý objekt samostatně. To je v rozporu s Delta Lake, protože obě mechanismy řeší retenci dat jinak: Delta Lake verzuje na úrovni tabulky, S3 na úrovni objektu. Výsledek je duplicitní úložiště verzí, což zvyšuje objem dat a náklady. Řešení spočívá v vypnutí S3 versioning pro Delta Lake buckety a spoléhání se výhradně na Delta Lake time travel, které umožňuje vrátit tabulku do minulého stavu pomocí příkazů jako RESTORE TABLE.</p>
+<p>Další oblastí jsou storage classes. S3 nabízí třídy jako Standard (hot pro častý přístup), Intelligent-Tiering (automatický přesun), Glacier (cold pro vzácný přístup) nebo Deep Archive (pro dlouhodobé archivace). Pro Delta Lake tabulky s rostoucím objemem dat z ETL pipelineů nebo dotazů je ideální nastavit lifecycle policies, které po určité době (např. 30 dnů) přesunou starší Parquet soubory do levnějších tříd. Databricks Unity Catalog pomáhá monitorovat velikost tabulek a identifikovat kandidáty na optimalizaci. Například příkaz DESCRIBE HISTORY tabulka ukáže verze a jejich velikosti.</p>
+<p>Náklady na přenos dat (data transfer) mezi S3 a Databricks clustery lze minimalizovat výběrem clusterů ve stejné AWS region a zóně. Použití S3 Select nebo Databricks Delta Cache zrychluje čtení bez plného stahování. Pro detekci problémů slouží AWS Cost Explorer a Databricks System Tables pro analýzu úložišť.</p>
+<h2>Proč je to důležité</h2>
+<p>S rostoucím objemem dat v Lakehouse architektuře mohou náklady na S3 rychle překročit rozpočet, zejména pokud ETL procesy generují tisíce verzí denně. Optimalizace versioning a storage classes může snížit náklady o desítky procent bez ztráty funkčnosti Delta Lake, jako je časové cestování nebo schema enforcement. V širším kontextu big data ekosystému to umožňuje škálovat datové jezera udržitelně, což je klíčové pro firmy závislé na Databricks a AWS. Bez těchto opatření hrozí neefektivita, která brzdí inovace v analýze dat.</p>
+<hr />
+<p><a href="https://www.databricks.com/blog/expensive-delta-lake-s3-storage-mistakes-and-how-fix-them">Číst původní článek</a></p>
+<p><strong>Zdroj:</strong> 📰 Databricks.com</p>
+            </div>
+
+            <footer class="article-footer">
+                <a href="https://www.databricks.com/blog/expensive-delta-lake-s3-storage-mistakes-and-how-fix-them" target="_blank" rel="noopener" class="read-more-btn">
+                    Číst původní článek &rarr;
+                </a>
+
+                <div class="original-title"><small>Původní název: Expensive Delta Lake S3 Storage Mistakes (And How to Fix Them)</small></div>
+            </footer>
+        </article>
+
+        <p style="text-align: center; color: #6b7280; font-size: 0.875rem; margin-top: 2rem;">
+            &copy; 2025 <a href="https://www.marigold.cz" style="color: #3b82f6;">Marigold.cz</a>
+        </p>
+    </div>
+</body>
+</html>

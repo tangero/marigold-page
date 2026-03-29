@@ -1,0 +1,67 @@
+{{ define "main" }}
+<article class="page">
+  <h2>Zajimave obrazy - strucny pruvodce</h2>
+
+  <p>Obcas me zaujme nejaky obraz a udelam si poznamku. Tady. Postupne se z poznamek stal prijemny prehled zajimavych obrazu z nejruznejsich vystav. Treba potesi i vas.</p>
+
+  <table id="obrazy-table" style="border-collapse: separate; border-spacing: 10px; width: 100%;">
+    <thead>
+      <tr>
+        <th onclick="sortTable(0)">Autor &#x25B2;&#x25BC;</th>
+        <th onclick="sortTable(1)">Obraz &#x25B2;&#x25BC;</th>
+        <th onclick="sortTable(3)">Rok &#x25B2;&#x25BC;</th>
+        <th onclick="sortTable(2)">Styl &#x25B2;&#x25BC;</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{ range where .Site.RegularPages "Section" "obrazy" }}
+      <tr>
+        <td><a href="{{ .RelPermalink }}">{{ .Params.autor }}</a></td>
+        <td><a href="{{ .RelPermalink }}">{{ .Params.obraz }}</a></td>
+        <td>{{ .Params.namalovano }}</td>
+        <td>{{ .Params.styl }}</td>
+      </tr>
+      {{ end }}
+    </tbody>
+  </table>
+
+  <script>
+  function sortTable(n) {
+    var table, rows, switching, i, x, y, shouldSwitch, dir, switchcount = 0;
+    table = document.getElementById("obrazy-table");
+    switching = true;
+    dir = "asc";
+    while (switching) {
+      switching = false;
+      rows = table.rows;
+      for (i = 1; i < (rows.length - 1); i++) {
+        shouldSwitch = false;
+        x = rows[i].getElementsByTagName("TD")[n];
+        y = rows[i + 1].getElementsByTagName("TD")[n];
+        if (dir == "asc") {
+          if (x.innerHTML.toLowerCase() > y.innerHTML.toLowerCase()) {
+            shouldSwitch = true;
+            break;
+          }
+        } else if (dir == "desc") {
+          if (x.innerHTML.toLowerCase() < y.innerHTML.toLowerCase()) {
+            shouldSwitch = true;
+            break;
+          }
+        }
+      }
+      if (shouldSwitch) {
+        rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
+        switching = true;
+        switchcount ++;
+      } else {
+        if (switchcount == 0 && dir == "asc") {
+          dir = "desc";
+          switching = true;
+        }
+      }
+    }
+  }
+  </script>
+</article>
+{{ end }}

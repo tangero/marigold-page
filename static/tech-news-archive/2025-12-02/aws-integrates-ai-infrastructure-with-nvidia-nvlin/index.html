@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AWS integruje AI infrastrukturu s NVIDIA NVLink Fusion pro nasazení Trainium4 | Marigold.cz Tech News</title>
+    <meta name="description" content="S rostoucí poptávkou po AI hledají hyperscalers způsoby, jak urychlit nasazení specializované AI infrastruktury s vysokým výkonem. AWS spolupracuje s NVIDIA na ">
+    <link rel="canonical" href="https://www.marigold.cz/tech-news/2025-12-02/aws-integrates-ai-infrastructure-with-nvidia-nvlin/">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #374151; background: #f3f4f6; }
+        .container { max-width: 800px; margin: 0 auto; padding: 2rem; }
+        .tech-news-article { background: white; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); padding: 2rem; margin: 2rem 0; }
+        .source-info { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem; flex-wrap: wrap; }
+        .source-emoji { font-size: 1.5rem; }
+        .source-name { font-weight: 600; color: #374151; }
+        .importance-indicator { display: flex; gap: 2px; margin-left: auto; }
+        .star { color: #fbbf24; font-size: 1.2rem; }
+        .star.empty { color: #d1d5db; }
+        .article-title { font-size: 2rem; font-weight: 700; line-height: 1.2; margin-bottom: 1rem; color: #111827; }
+        .article-meta { display: flex; align-items: center; gap: 1rem; font-size: 0.875rem; color: #6b7280; margin-bottom: 1.5rem; }
+        .category { padding: 0.25rem 0.75rem; border-radius: 1rem; font-weight: 500; font-size: 0.75rem; text-transform: uppercase; background: #e5e7eb; color: #374151; }
+        .article-image { margin: 1.5rem 0; border-radius: 8px; overflow: hidden; }
+        .article-image img { width: 100%; height: auto; display: block; }
+        .article-content { font-size: 1.125rem; line-height: 1.7; margin-bottom: 2rem; }
+        .article-content h2 { font-size: 1.5rem; margin: 1.5rem 0 1rem; color: #111827; }
+        .article-content p { margin-bottom: 1rem; }
+        .article-footer { border-top: 1px solid #e5e7eb; padding-top: 1.5rem; }
+        .read-more-btn { display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: #3b82f6; color: white; text-decoration: none; border-radius: 8px; font-weight: 500; }
+        .read-more-btn:hover { background: #2563eb; }
+        .original-title { margin-top: 1rem; color: #6b7280; font-size: 0.875rem; }
+        .back-link { display: inline-block; margin-bottom: 1rem; color: #3b82f6; text-decoration: none; }
+        .back-link:hover { text-decoration: underline; }
+        .archive-notice { background: #fef3c7; border: 1px solid #f59e0b; border-radius: 8px; padding: 1rem; margin-bottom: 1rem; font-size: 0.875rem; color: #92400e; }
+        @media (max-width: 640px) {
+            .container { padding: 1rem; }
+            .tech-news-article { padding: 1.5rem; margin: 1rem 0; }
+            .article-title { font-size: 1.5rem; }
+            .source-info { flex-direction: column; align-items: flex-start; }
+            .importance-indicator { margin-left: 0; margin-top: 0.5rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="/tech-news/" class="back-link">&larr; Zpět na Tech News</a>
+
+        <div class="archive-notice">
+            Tento článek je z archivu. Byl publikován 02.12.2025.
+        </div>
+
+        <article class="tech-news-article">
+            <header>
+                <div class="source-info">
+                    <span class="source-emoji">📰</span>
+                    <span class="source-name">Nvidia.com</span>
+                    <div class="importance-indicator">
+                        <span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star empty">☆</span>
+                    </div>
+                </div>
+
+                <h1 class="article-title">AWS integruje AI infrastrukturu s NVIDIA NVLink Fusion pro nasazení Trainium4</h1>
+
+                <div class="article-meta">
+                    <time datetime="2025-12-02T06:16:06+00:00">02.12.2025</time>
+                    <span class="category">ai hardware</span>
+                </div>
+            </header>
+
+            
+            <div class="article-image">
+                <img src="https://developer-blogs.nvidia.com/wp-content/uploads/2025/12/grace-corp-blog-gb300-nvl72-1280x680-r1-2.png" alt="AWS integruje AI infrastrukturu s NVIDIA NVLink Fusion pro nasazení Trainium4" loading="lazy">
+            </div>
+        
+
+            <div class="article-content">
+                <h2>Souhrn</h2>
+<p>Amazon Web Services oznámil na konferenci AWS re:Invent spolupráci s NVIDIA na integraci platformy NVLink Fusion. Tato racková řešení umožní rychlejší nasazení Trainium4 AI čipů, Graviton CPU, Elastic Fabric Adapters (EFA) a virtualizační infrastruktury Nitro System. Cílem je zefektivnit výstavbu custom AI racků s vysokou propustností a nízkou latencí.</p>
+<h2>Klíčové body</h2>
+<ul>
+<li>AWS navrhuje Trainium4 pro kompatibilitu s NVLink 6 a rackovou architekturou NVIDIA MGX, což je první krok v dlouhodobé spolupráci.</li>
+<li>NVLink Fusion poskytuje scale-up síťování pro propojení celých racků akcelerátorů v jediné fabric.</li>
+<li>Řešení snižuje vývojové cykly pro custom AI křemíky, zvyšuje návratnost investic a minimalizuje rizika nasazení.</li>
+<li>Podporuje rostoucí AI úlohy jako plánování, uvažování a agentickou AI na modelech s stovkami miliard až biliony parametrů.</li>
+<li>Ekosystém partnerů NVIDIA usnadňuje vývoj a nasazení.</li>
+</ul>
+<h2>Podrobnosti</h2>
+<p>Trainium4 představuje čtvrtou generaci AI akcelerátorů od AWS, určených primárně pro trénink velkých jazykových modelů a jiných náročných AI úloh. Na rozdíl od NVIDIA GPU, které dominují trhu, Trainium čipy optimalizují náklady na trénink v cloudu AWS, kde slouží k výpočtům v paralelních clusterech. Nová integrace s NVLink Fusion, což je racková platforma NVIDIA, umožňuje propojit tyto čipy s vysokorychlostní interconnect technologiemi NVLink. NVLink 6 nabízí vyšší propustnost než předchozí verze a slouží k scale-up propojení akcelerátorů v rámci jednoho racku, což je klíčové pro modely typu mixture-of-experts (MoE) nebo agentické systémy.</p>
+<p>AWS kombinuje Trainium4 s vlastními Graviton CPU (ARM-based procesory pro obecné výpočty), EFA (síťové adaptéry pro scale-out komunikaci mezi uzly) a Nitro System (virtualizační vrstva pro bezpečné izolované instance). NVIDIA MGX je modulární racková architektura, která umožňuje hyperscalerům jako AWS sestavovat custom řešení z komponent NVIDIA a partnerů. Tato spolupráce řeší hlavní výzvy: dlouhé vývojové cykly pro rackovou architekturu, nutnost vyvíjet vlastní scale-up a scale-out sítě i úložiště. Bez takového propojení by nasazení stovek akcelerátorů v paralelním fabric trvalo měsíce nebo roky.</p>
+<p>Hyperscalers čelí tlaku od rostoucích AI workloadů – modely s biliony parametrů vyžadují tisíce akcelerátorů propojených nízkou latencí. NVLink Fusion toto umožňuje přímo v racku, což zkracuje čas na trh a snižuje náklady oproti plně proprietárním řešením. AWS tak posiluje svou pozici v AI cloudu, kde konkuruje NVIDIA H100 nebo Blackwell GPU, ale nabízí levnější alternativu pro zákazníky.</p>
+<h2>Proč je to důležité</h2>
+<p>Tato integrace urychlí nasazení custom AI infrastruktury pro hyperscalery a enterprise zákazníky, což ovlivní cenu tréninku velkých modelů. AWS snižuje závislost na NVIDIA GPU tím, že Trainium4 kombinuje s NVLink, což zvyšuje efektivitu oproti čistě NVIDIA stackům. V širším kontextu posiluje to soutěž v AI hardware, kde hyperscalers jako AWS, Google (TPU) nebo Microsoft (Azure Cobalt) budují vlastní křemíky. Pro průmysl znamená rychlejší vývoj agentických AI a MoE modelů, menší rizika výpadků a vyšší ROI. Dlouhodobě to může democratizovat přístup k výkonné AI infrastruktuře, ale závisí na reálných benchmarkách Trainium4 oproti konkurenci.</p>
+<hr />
+<p><a href="https://developer.nvidia.com/blog/aws-integrates-ai-infrastructure-with-nvidia-nvlink-fusion-for-trainium4-deployment/">Číst původní článek</a></p>
+<p><strong>Zdroj:</strong> 📰 Nvidia.com</p>
+            </div>
+
+            <footer class="article-footer">
+                <a href="https://developer.nvidia.com/blog/aws-integrates-ai-infrastructure-with-nvidia-nvlink-fusion-for-trainium4-deployment/" target="_blank" rel="noopener" class="read-more-btn">
+                    Číst původní článek &rarr;
+                </a>
+
+                <div class="original-title"><small>Původní název: AWS Integrates AI Infrastructure with NVIDIA NVLink Fusion for Trainium4 Deployment</small></div>
+            </footer>
+        </article>
+
+        <p style="text-align: center; color: #6b7280; font-size: 0.875rem; margin-top: 2rem;">
+            &copy; 2025 <a href="https://www.marigold.cz" style="color: #3b82f6;">Marigold.cz</a>
+        </p>
+    </div>
+</body>
+</html>

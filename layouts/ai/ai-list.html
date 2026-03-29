@@ -1,0 +1,53 @@
+{{ define "main" }}
+<article class="page">
+  <h1>{{ .Title }}</h1>
+
+  <div class="entry">
+    {{ .Content }}
+  </div>
+
+  <h2>🧭 Základy fungování AI</h2>
+  {{ $emojis := slice "⌚️" "⌨️" "📱" "📲" "💻" "🖥️" "🖨️" "🖱️" "🖲️" "🕹️" "🗜️" "💽" "💾" "💿" "📀" "📼" "📷" "📸" "📹" "🎥" "📽️" }}
+  {{ $aiPages := where .Site.RegularPages "Section" "ai" }}
+  {{ $ordered := where $aiPages ".Params.order" "!=" nil }}
+  {{ $ordered = sort $ordered ".Params.order" }}
+  <ul>
+  {{ range $i, $page := $ordered }}
+    {{ $idx := mod (add $i (len $page.Title)) (len $emojis) }}
+    <li>{{ index $emojis $idx }} <a href="{{ $page.RelPermalink }}">{{ $page.Title }}</a></li>
+  {{ end }}
+  </ul>
+
+  <h2>💡 Rady, tipy a triky</h2>
+  {{ $unordered := where $aiPages ".Params.order" nil }}
+  <ul>
+  {{ range $unordered.ByDate.Reverse }}
+    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+  {{ end }}
+  </ul>
+
+  <h2>Články a aktuality z oblasti Umělé inteligence</h2>
+  {{ $aiPosts := where (where .Site.RegularPages "Section" "posts") ".Params.categories" "intersect" (slice "AI" "Umělá inteligence") }}
+  {{ range $aiPosts.ByDate.Reverse }}
+  {{ $postURL := .RelPermalink }}
+  {{ $postTitle := .Title }}
+  <div class="post">
+    <h3><a href="{{ $postURL }}">{{ $postTitle }}</a></h3>
+    <div class="post-content">
+      {{ with .Params.thumbnail }}
+      {{ $thumb := replace . "http://" "https://" }}
+      <div class="thumbnail">
+        <a href="{{ $postURL }}">
+          <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_200,h_150,c_fill,g_auto,f_auto,q_auto/{{ $thumb }}" alt="{{ $postTitle }}" loading="lazy">
+        </a>
+      </div>
+      {{ end }}
+      <div class="excerpt">
+        {{ .Summary | plainify | truncate 200 }} - {{ .Date.Format "02. 01. 2006" }}
+      </div>
+    </div>
+  </div>
+  {{ end }}
+
+</article>
+{{ end }}

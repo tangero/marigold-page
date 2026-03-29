@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Process Explorer: zdarma dostupný nástroj, který přesně ukáže, proč je váš Windows pomalý | Marigold.cz Tech News</title>
+    <meta name="description" content="Process Explorer z balíku Sysinternals od Microsoftu poskytuje výrazně podrobnější pohled na běžící procesy než Správce úloh a pomáhá odhalit skutečné příčiny z">
+    <link rel="canonical" href="https://www.marigold.cz/tech-news/2025-11-09/i-set-up-a-free-system-monitor-that-actually-tells/">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #374151; background: #f3f4f6; }
+        .container { max-width: 800px; margin: 0 auto; padding: 2rem; }
+        .tech-news-article { background: white; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); padding: 2rem; margin: 2rem 0; }
+        .source-info { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem; flex-wrap: wrap; }
+        .source-emoji { font-size: 1.5rem; }
+        .source-name { font-weight: 600; color: #374151; }
+        .importance-indicator { display: flex; gap: 2px; margin-left: auto; }
+        .star { color: #fbbf24; font-size: 1.2rem; }
+        .star.empty { color: #d1d5db; }
+        .article-title { font-size: 2rem; font-weight: 700; line-height: 1.2; margin-bottom: 1rem; color: #111827; }
+        .article-meta { display: flex; align-items: center; gap: 1rem; font-size: 0.875rem; color: #6b7280; margin-bottom: 1.5rem; }
+        .category { padding: 0.25rem 0.75rem; border-radius: 1rem; font-weight: 500; font-size: 0.75rem; text-transform: uppercase; background: #e5e7eb; color: #374151; }
+        .article-image { margin: 1.5rem 0; border-radius: 8px; overflow: hidden; }
+        .article-image img { width: 100%; height: auto; display: block; }
+        .article-content { font-size: 1.125rem; line-height: 1.7; margin-bottom: 2rem; }
+        .article-content h2 { font-size: 1.5rem; margin: 1.5rem 0 1rem; color: #111827; }
+        .article-content p { margin-bottom: 1rem; }
+        .article-footer { border-top: 1px solid #e5e7eb; padding-top: 1.5rem; }
+        .read-more-btn { display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: #3b82f6; color: white; text-decoration: none; border-radius: 8px; font-weight: 500; }
+        .read-more-btn:hover { background: #2563eb; }
+        .original-title { margin-top: 1rem; color: #6b7280; font-size: 0.875rem; }
+        .back-link { display: inline-block; margin-bottom: 1rem; color: #3b82f6; text-decoration: none; }
+        .back-link:hover { text-decoration: underline; }
+        .archive-notice { background: #fef3c7; border: 1px solid #f59e0b; border-radius: 8px; padding: 1rem; margin-bottom: 1rem; font-size: 0.875rem; color: #92400e; }
+        @media (max-width: 640px) {
+            .container { padding: 1rem; }
+            .tech-news-article { padding: 1.5rem; margin: 1rem 0; }
+            .article-title { font-size: 1.5rem; }
+            .source-info { flex-direction: column; align-items: flex-start; }
+            .importance-indicator { margin-left: 0; margin-top: 0.5rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="/tech-news/" class="back-link">&larr; Zpět na Tech News</a>
+
+        <div class="archive-notice">
+            Tento článek je z archivu. Byl publikován 09.11.2025.
+        </div>
+
+        <article class="tech-news-article">
+            <header>
+                <div class="source-info">
+                    <span class="source-emoji">📰</span>
+                    <span class="source-name">MakeUseOf</span>
+                    <div class="importance-indicator">
+                        <span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star empty">☆</span><span class="star empty">☆</span>
+                    </div>
+                </div>
+
+                <h1 class="article-title">Process Explorer: zdarma dostupný nástroj, který přesně ukáže, proč je váš Windows pomalý</h1>
+
+                <div class="article-meta">
+                    <time datetime="2025-11-09T14:00:00+00:00">09.11.2025</time>
+                    <span class="category">software</span>
+                </div>
+            </header>
+
+            
+            <div class="article-image">
+                <img src="https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/11/monitoring-system-processes-with-process-explorer.jpg?w=1600&h=900&fit=crop" alt="Process Explorer: zdarma dostupný nástroj, který přesně ukáže, proč je váš Windows pomalý" loading="lazy">
+            </div>
+        
+
+            <div class="article-content">
+                <h2>Souhrn</h2>
+<p>Process Explorer, bezplatný nástroj od Microsoft Sysinternals, nabízí pokročený pohled na běžící procesy ve Windows a řeší limity vestavěného Správce úloh. Umožňuje přesně identifikovat procesy, které způsobují zpomalení systému, mikro-lagy nebo blokace souborů, i když běžné metriky jako CPU či paměť vypadají na první pohled v pořádku.</p>
+<h2>Klíčové body</h2>
+<ul>
+<li>Bezplatný nástroj Process Explorer poskytuje detailní, stromové a barevně odlišené zobrazení procesů a jejich původu.</li>
+<li>Zobrazuje klíčové parametry jako vlákna, handle, vstupně-výstupní operace (I/O) a uzamčení souborů, které ve Správci úloh většinou chybí.</li>
+<li>Nevyžaduje instalaci, stačí jej stáhnout z oficiální Sysinternals stránky a spustit.</li>
+<li>Umožňuje rychleji a přesněji diagnostikovat problémy se zpomalením systému, zamrzáním aplikací nebo podezřelým chováním procesů.</li>
+<li>Vhodný pro běžné uživatele, správce IT i techniky, kteří potřebují transparentní kontrolu nad chováním Windows.</li>
+</ul>
+<h2>Podrobnosti</h2>
+<p>Process Explorer je součástí sady Sysinternals, kterou Microsoft dlouhodobě vyvíjí jako kolekci odborných nástrojů pro analýzu, diagnostiku a správu Windows. Oproti standardnímu Správci úloh poskytuje Process Explorer hierarchické (stromové) zobrazení procesů, z něhož je zřejmé, který proces spouští další procesy, jak spolu souvisejí a jaký je jejich původ. Barevné rozlišení navíc okamžitě ukáže nově spuštěné procesy, ukončené úlohy, služby na pozadí či podezřelé prvky.</p>
+<p>Klíčovou přidanou hodnotou jsou metriky, které běžný uživatel ve Správci úloh vůbec nevidí nebo je nečte: počty aktivních vláken, handle (úchopy k souborům, registrům a dalším objektům), I/O Read/Write Bytes a aktivita na disku i síti v delším časovém kontextu. Díky tomu lze identifikovat situace, kdy systém „laguje“, i když CPU není vytížený – problém může způsobovat proces, který agresivně pracuje s diskem, vytváří velké množství handle, blokuje soubory nebo komunikuje po síti.</p>
+<p>Process Explorer také umožňuje zjistit, který proces drží konkrétní soubor nebo knihovnu, což je praktické při chybách typu „soubor je používán jiným procesem“. Užitečné je i napojení na online reputační databáze a digitální podpisy, což pomáhá odhalit potenciálně nežádoucí nebo neznámý software. Samotné zprovoznění je jednoduché: nástroj se stáhne jako archiv ZIP z oficiální stránky Sysinternals, rozbalí a spustí. Není nutná instalace, což z něj dělá vhodný nástroj i pro přenosné použití na více strojích.</p>
+<h2>Proč je to důležité</h2>
+<p>Process Explorer posiluje transparentnost a kontrolu nad systémem Windows v době, kdy většina uživatelů spoléhá na zjednodušené grafy a automatické optimalizace. Pro správce IT a techniky jde o praktický diagnostický nástroj, který urychluje řešení incidentů, ladění výkonu a odhalování nestandardního chování aplikací. Pro pokročilejší domácí uživatele umožňuje přejít od hádání k datově podložené analýze – přesně zjistit, co brzdí počítač, co běží na pozadí a zda konkrétní proces patří legitimnímu softwaru nebo potenciálnímu riziku.</p>
+<p>V širším kontextu jde o připomenutí, že i v ekosystému velkých firem, jako je Microsoft, existují profesionální nástroje zdarma, které dokážou kvalitou i užitečností překročit standardní systémové komponenty. Process Explorer tak snižuje závislost na povrchních ukazatelích a podporuje kulturu informovaného a přesného přístupu k diagnostice výkonu a bezpečnosti systému.</p>
+<hr />
+<p><a href="https://www.makeuseof.com/set-up-free-system-monitor-that-tells-me-why-pc-slow/">Číst původní článek</a></p>
+<p><strong>Zdroj:</strong> 📰 MakeUseOf</p>
+            </div>
+
+            <footer class="article-footer">
+                <a href="https://www.makeuseof.com/set-up-free-system-monitor-that-tells-me-why-pc-slow/" target="_blank" rel="noopener" class="read-more-btn">
+                    Číst původní článek &rarr;
+                </a>
+
+                <div class="original-title"><small>Původní název: I set up a free system monitor that actually tells me why my PC is slow - MakeUseOf</small></div>
+            </footer>
+        </article>
+
+        <p style="text-align: center; color: #6b7280; font-size: 0.875rem; margin-top: 2rem;">
+            &copy; 2025 <a href="https://www.marigold.cz" style="color: #3b82f6;">Marigold.cz</a>
+        </p>
+    </div>
+</body>
+</html>

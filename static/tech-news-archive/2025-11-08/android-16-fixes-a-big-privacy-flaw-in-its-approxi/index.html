@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Android 16 zlepšuje ochranu soukromí díky přesnějšímu řízení "přibližné" polohy | Marigold.cz Tech News</title>
+    <meta name="description" content="Android 16 zavádí funkci density-based coarse location, která výrazně snižuje riziko identifikace uživatelů z přibližné polohy, zejména v řídce osídlených oblas">
+    <link rel="canonical" href="https://www.marigold.cz/tech-news/2025-11-08/android-16-fixes-a-big-privacy-flaw-in-its-approxi/">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #374151; background: #f3f4f6; }
+        .container { max-width: 800px; margin: 0 auto; padding: 2rem; }
+        .tech-news-article { background: white; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); padding: 2rem; margin: 2rem 0; }
+        .source-info { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem; flex-wrap: wrap; }
+        .source-emoji { font-size: 1.5rem; }
+        .source-name { font-weight: 600; color: #374151; }
+        .importance-indicator { display: flex; gap: 2px; margin-left: auto; }
+        .star { color: #fbbf24; font-size: 1.2rem; }
+        .star.empty { color: #d1d5db; }
+        .article-title { font-size: 2rem; font-weight: 700; line-height: 1.2; margin-bottom: 1rem; color: #111827; }
+        .article-meta { display: flex; align-items: center; gap: 1rem; font-size: 0.875rem; color: #6b7280; margin-bottom: 1.5rem; }
+        .category { padding: 0.25rem 0.75rem; border-radius: 1rem; font-weight: 500; font-size: 0.75rem; text-transform: uppercase; background: #e5e7eb; color: #374151; }
+        .article-image { margin: 1.5rem 0; border-radius: 8px; overflow: hidden; }
+        .article-image img { width: 100%; height: auto; display: block; }
+        .article-content { font-size: 1.125rem; line-height: 1.7; margin-bottom: 2rem; }
+        .article-content h2 { font-size: 1.5rem; margin: 1.5rem 0 1rem; color: #111827; }
+        .article-content p { margin-bottom: 1rem; }
+        .article-footer { border-top: 1px solid #e5e7eb; padding-top: 1.5rem; }
+        .read-more-btn { display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: #3b82f6; color: white; text-decoration: none; border-radius: 8px; font-weight: 500; }
+        .read-more-btn:hover { background: #2563eb; }
+        .original-title { margin-top: 1rem; color: #6b7280; font-size: 0.875rem; }
+        .back-link { display: inline-block; margin-bottom: 1rem; color: #3b82f6; text-decoration: none; }
+        .back-link:hover { text-decoration: underline; }
+        .archive-notice { background: #fef3c7; border: 1px solid #f59e0b; border-radius: 8px; padding: 1rem; margin-bottom: 1rem; font-size: 0.875rem; color: #92400e; }
+        @media (max-width: 640px) {
+            .container { padding: 1rem; }
+            .tech-news-article { padding: 1.5rem; margin: 1rem 0; }
+            .article-title { font-size: 1.5rem; }
+            .source-info { flex-direction: column; align-items: flex-start; }
+            .importance-indicator { margin-left: 0; margin-top: 0.5rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="/tech-news/" class="back-link">&larr; Zpět na Tech News</a>
+
+        <div class="archive-notice">
+            Tento článek je z archivu. Byl publikován 08.11.2025.
+        </div>
+
+        <article class="tech-news-article">
+            <header>
+                <div class="source-info">
+                    <span class="source-emoji">📰</span>
+                    <span class="source-name">Android Authority</span>
+                    <div class="importance-indicator">
+                        <span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star empty">☆</span><span class="star empty">☆</span>
+                    </div>
+                </div>
+
+                <h1 class="article-title">Android 16 zlepšuje ochranu soukromí díky přesnějšímu řízení "přibližné" polohy</h1>
+
+                <div class="article-meta">
+                    <time datetime="2025-11-08T13:05:27+00:00">08.11.2025</time>
+                    <span class="category">mobilní zařízení</span>
+                </div>
+            </header>
+
+            
+            <div class="article-image">
+                <img src="https://www.androidauthority.com/wp-content/uploads/2025/09/google-maps-my-maps-custom-map-example-2.jpg" alt="Android 16 zlepšuje ochranu soukromí díky přesnějšímu řízení "přibližné" polohy" loading="lazy">
+            </div>
+        
+
+            <div class="article-content">
+                <h2>Souhrn</h2>
+<p>Android 16 řeší dlouhodobý problém ochrany soukromí spojený s funkcí přibližné polohy (Approximate location). Nově zavádí mechanismus density-based coarse location, který dynamicky upravuje granularitu polohy podle hustoty osídlení, aby bylo složitější přesně identifikovat uživatele v menších a venkovských lokalitách.</p>
+<h2>Klíčové body</h2>
+<ul>
+<li>Android 16 rozšiřuje systém přibližné polohy o density-based coarse location.</li>
+<li>V řídce osídlených oblastech bude poloha záměrně méně přesná, aby nebylo možné snadno určit konkrétní dům či uživatele.</li>
+<li>Změna cílí na aplikace, které pracují s přibližnou polohou, ale mohou ji zneužít k odvození přesného umístění.</li>
+<li>Cílem je snížit reidentifikaci uživatelů bez omezení funkčnosti běžných služeb závislých na poloze.</li>
+<li>Přístup reaguje na reálné slabiny ochrany soukromí v současném modelu oprávnění v Androidu.</li>
+</ul>
+<h2>Podrobnosti</h2>
+<p>Android již několik verzí umožňuje uživatelům rozhodnout, zda aplikaci poskytne přesnou (Precise) nebo přibližnou (Approximate) polohu. Přesná poloha obvykle určuje pozici v řádu jednotek až desítek metrů a je klíčová pro navigaci nebo služby typu sdílení jízdy. Přibližná poloha má být naopak dostatečně hrubá (například v řádu několika kilometrů), aby zůstala zachována užitečnost pro počasí, místní zprávy nebo základní doporučení, ale současně neumožnila jasnou identifikaci uživatele.</p>
+<p>V praxi se však ukázalo, že v málo zalidněných a venkovských oblastech může i relativně hrubá poloha stačit k přesnému odvození toho, kde uživatel bydlí nebo pracuje. Pokud je v oblasti jen několik domů, podniků nebo příjezdových cest, „přibližná“ oblast je natolik malá, že vývojář nebo inzerent může uživatele efektivně deanonymizovat, zvláště pokud polohu kombinuje s dalšími daty (identifikátory zařízení, síťové informace, telemetrie aplikace).</p>
+<p>Android 16 proto zavádí density-based coarse location: systém dynamicky mění velikost a tvar oblasti, která je aplikaci reportována jako přibližná poloha, podle hustoty osídlení a infrastruktury. V hustých městských oblastech může zůstat hrubost menší, protože mnoho uživatelů sdílí stejný prostor a riziko reidentifikace je nižší. Naopak na venkově se oblast uměle zvětší tak, aby nešla snadno přiřadit ke konkrétním nemovitostem. Tato úprava je implementována na úrovni systému a nevyžaduje zásadní změny API ze strany vývojářů; aplikace nadále žádají o Approximate, ale dostávají adaptivně zkreslená data.</p>
+<p>Z pohledu provozovatelů aplikací zůstává model jednoduchý, ale výrazně se omezuje prostor pro pasivní sledování uživatelů a budování detailních profilů bez jejich vědomí. Zároveň tato změna podtrhuje, že spoléhání se pouze na binární volbu „přesná vs. přibližná poloha“ je v moderním datovém ekosystému nedostatečné.</p>
+<h2>Proč je to důležité</h2>
+<p>Tato úprava je významná z hlediska praktické ochrany soukromí, nikoli jen deklarativních nastavení. Ukazuje, že Google začíná řešit skutečné slabiny modelu oprávnění, kde formálně „anonymizovaná“ data lze s relativní lehkostí přivést zpět ke konkrétní osobě. Pro uživatele mimo velká města to znamená reálné snížení rizika sledování přes aplikace, které využívají pouze přibližnou polohu, ale technicky z ní dokázaly odvodit přesné bydliště.</p>
+<p>Pro vývojáře to vytváří tlak lépe zdůvodňovat požadavky na přesnou polohu a minimalizovat sběr dat, protože systém jim automaticky bere možnost skrytě těžit z vysoké přesnosti přibližné polohy ve venkovských regionech. V širším kontextu to zapadá do trendu postupného omezování sledovacích technik v mobilních ekosystémech (omezení přístupu k identifikátorům, změny v reklamních ID, zpřísnění API pro přístup k senzorům). Z pohledu bezpečnosti i regulace dat jde o krok správným směrem, i když část průmyslu bude tento model vnímat jako omezení možností cílení reklamy a analytiky.</p>
+<hr />
+<p><a href="https://www.androidauthority.com/android-16-density-based-coarse-locations-3614048/">Číst původní článek</a></p>
+<p><strong>Zdroj:</strong> 📰 Android Authority</p>
+            </div>
+
+            <footer class="article-footer">
+                <a href="https://www.androidauthority.com/android-16-density-based-coarse-locations-3614048/" target="_blank" rel="noopener" class="read-more-btn">
+                    Číst původní článek &rarr;
+                </a>
+
+                <div class="original-title"><small>Původní název: Android 16 fixes a big privacy flaw in its 'approximate' location setting - Android Authority</small></div>
+            </footer>
+        </article>
+
+        <p style="text-align: center; color: #6b7280; font-size: 0.875rem; margin-top: 2rem;">
+            &copy; 2025 <a href="https://www.marigold.cz" style="color: #3b82f6;">Marigold.cz</a>
+        </p>
+    </div>
+</body>
+</html>

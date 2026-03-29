@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>R²D²: Škálování multimodálního učení robotů s NVIDIA Isaac Lab | Marigold.cz Tech News</title>
+    <meta name="description" content="Budování robustních a inteligentních robotů vyžaduje testování v komplexních prostředích. Shromažďování dat ve skutečném světě je však nákladné, pomalé a často ">
+    <link rel="canonical" href="https://www.marigold.cz/tech-news/2026-02-10/r²d²-scaling-multimodal-robot-learning-with-nvidia/">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #374151; background: #f3f4f6; }
+        .container { max-width: 800px; margin: 0 auto; padding: 2rem; }
+        .tech-news-article { background: white; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); padding: 2rem; margin: 2rem 0; }
+        .source-info { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem; flex-wrap: wrap; }
+        .source-emoji { font-size: 1.5rem; }
+        .source-name { font-weight: 600; color: #374151; }
+        .importance-indicator { display: flex; gap: 2px; margin-left: auto; }
+        .star { color: #fbbf24; font-size: 1.2rem; }
+        .star.empty { color: #d1d5db; }
+        .article-title { font-size: 2rem; font-weight: 700; line-height: 1.2; margin-bottom: 1rem; color: #111827; }
+        .article-meta { display: flex; align-items: center; gap: 1rem; font-size: 0.875rem; color: #6b7280; margin-bottom: 1.5rem; }
+        .category { padding: 0.25rem 0.75rem; border-radius: 1rem; font-weight: 500; font-size: 0.75rem; text-transform: uppercase; background: #e5e7eb; color: #374151; }
+        .article-image { margin: 1.5rem 0; border-radius: 8px; overflow: hidden; }
+        .article-image img { width: 100%; height: auto; display: block; }
+        .article-content { font-size: 1.125rem; line-height: 1.7; margin-bottom: 2rem; }
+        .article-content h2 { font-size: 1.5rem; margin: 1.5rem 0 1rem; color: #111827; }
+        .article-content p { margin-bottom: 1rem; }
+        .article-footer { border-top: 1px solid #e5e7eb; padding-top: 1.5rem; }
+        .read-more-btn { display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: #3b82f6; color: white; text-decoration: none; border-radius: 8px; font-weight: 500; }
+        .read-more-btn:hover { background: #2563eb; }
+        .original-title { margin-top: 1rem; color: #6b7280; font-size: 0.875rem; }
+        .back-link { display: inline-block; margin-bottom: 1rem; color: #3b82f6; text-decoration: none; }
+        .back-link:hover { text-decoration: underline; }
+        .archive-notice { background: #fef3c7; border: 1px solid #f59e0b; border-radius: 8px; padding: 1rem; margin-bottom: 1rem; font-size: 0.875rem; color: #92400e; }
+        @media (max-width: 640px) {
+            .container { padding: 1rem; }
+            .tech-news-article { padding: 1.5rem; margin: 1rem 0; }
+            .article-title { font-size: 1.5rem; }
+            .source-info { flex-direction: column; align-items: flex-start; }
+            .importance-indicator { margin-left: 0; margin-top: 0.5rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="/tech-news/" class="back-link">&larr; Zpět na Tech News</a>
+
+        <div class="archive-notice">
+            Tento článek je z archivu. Byl publikován 10.02.2026.
+        </div>
+
+        <article class="tech-news-article">
+            <header>
+                <div class="source-info">
+                    <span class="source-emoji">📰</span>
+                    <span class="source-name">Nvidia.com</span>
+                    <div class="importance-indicator">
+                        <span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star empty">☆</span>
+                    </div>
+                </div>
+
+                <h1 class="article-title">R²D²: Škálování multimodálního učení robotů s NVIDIA Isaac Lab</h1>
+
+                <div class="article-meta">
+                    <time datetime="2026-02-10T00:41:27+00:00">10.02.2026</time>
+                    <span class="category">robotika</span>
+                </div>
+            </header>
+
+            
+            <div class="article-image">
+                <img src="https://developer-blogs.nvidia.com/wp-content/uploads/2026/02/multimodal-robotics.gif" alt="R²D²: Škálování multimodálního učení robotů s NVIDIA Isaac Lab" loading="lazy">
+            </div>
+        
+
+            <div class="article-content">
+                <h3>Souhrn</h3>
+<p>NVIDIA Isaac Lab představuje open source framework pro GPU-zrychlenou simulaci určený k velkoměřítkovému multimodálnímu učení robotů. Tento nástroj řeší limity tradičních CPU-založených simulátorů tím, že umožňuje paralelní provoz tisíců prostředí s vysokou mírou realismu a integrací senzorů jako vidění, dotyk a propriocepce. Článek R²D² z NVIDIA Robotics Research and Development Digest popisuje, jak tento framework zjednodušuje vývoj politik pro generalistické roboty schopné pracovat v nestrukturovaných prostředích.</p>
+<h3>Klíčové body</h3>
+<ul>
+<li>Škálování simulace na tisíce paralelních prostředí pro urychlení tréninku robotických politik.</li>
+<li>Synchronizovaná integrace multimodálních senzorů (vision, force-torque, proprioception) do realistických datových proudů.</li>
+<li>Modelování reálných aktuátorů a frekvencí řízení pro lepší shodu s fyzickým hardwarem.</li>
+<li>Doménová randomizace a přesná fyzika pro snížení mezery mezi simulací a reálným nasazením.</li>
+<li>Plně open source, GPU-native architektura od NVIDIA Research.</li>
+</ul>
+<h3>Podrobnosti</h3>
+<p>Vývoj robustních robotů naráží na zásadní překážky při sběru dat ve skutečném světě: vysoké náklady, pomalý proces a rizika jako vysokorychlostní kolize nebo selhání hardware. Reálná data navíc bývají zkreslená směrem k běžným podmínkám, což nechává roboty ne připravené na neočekávané situace. Simulace tak představuje nezbytný most, ale tradiční pipeline na CPU selhávají při potřebě škálovat na velké objemy dat pro multimodální učení, kde roboty musí spojovat vstupy z kamer, dotykových senzorů a proprioceptivních dat pro navigaci v chaotických prostorech.</p>
+<p>NVIDIA Isaac Lab tento problém řeší unified stackem postaveným na GPU, který zpracovává simulace v reálném čase s vysokou věrností. Framework podporuje paralelizaci až do tisíců instancí prostředí, což dramaticky zkracuje dobu tréninku oproti CPU simulátorům. Senzory jsou synchronizovány do jediného datového proudu: RGB kamery pro vidění, force-torque senzory pro hmat a proprioceptivní data pro polohu kloubů. Aktuátory jsou modelovány s realistickými limity rychlosti a dynamiky, včetně PD řízení (proporcionálně-derivační), aby simulace co nejpřesněji odrážela hardware jako robotické paže nebo mobilní platformy.</p>
+<p>Klíčovou funkcí je doménová randomizace, která náhodně mění parametry jako textury povrchů, osvětlení nebo fyzikální vlastnosti, což zvyšuje robustnost politik při přenosu do reality (sim-to-real transfer). Isaac Lab je navržen pro reinforcement learning frameworky jako RL Games nebo Skrl, kde slouží k tréninku politik schopných generalizovat na různé úkoly – od manipulace objektů po lokomoci. Jako open source projekt na GitHubu umožňuje výzkumníkům a firmám přizpůsobit ho vlastním potřebám, s podporou Omniverse pro rozšířené rendering. Nicméně, i přes tyto pokroky, mezera sim-to-real zůstává výzvou; realistická fyzika na GPU stále nedokáže plně replikovat chaotické interakce jako deformace materiálů nebo nepředvídatelné tření.</p>
+<h3>Proč je to důležité</h3>
+<p>Isaac Lab posiluje ekosystém robotiky tím, že democratizuje přístup k výkonné simulaci, což urychluje vývoj autonomních systémů v průmyslu, logistice a domácnostech. Pro NVIDIA to znamená posílení dominance v GPU pro AI workloads, s potenciálem integrovat se do Omniverse pro cloudové školení. V širším kontextu urychluje pokrok k generalistickým robotům, podobně jako velké jazykové modely v NLP, ale zde s fyzickou interakcí. Firmy jako Boston Dynamics nebo Tesla Optimus mohou tuto technologii adaptovat pro rychlejší iterace, což by mohlo zkrátit vývojové cykly z měsíců na dny. Dlouhodobě přispívá k bezpečnějšímu nasazení robotů v reálném světě, i když vyžaduje další validaci v edge cases.</p>
+<hr />
+<p><a href="https://developer.nvidia.com/blog/r2d2-scaling-multimodal-robot-learning-with-nvidia-isaac-lab/">Číst původní článek</a></p>
+<p><strong>Zdroj:</strong> 📰 Nvidia.com</p>
+            </div>
+
+            <footer class="article-footer">
+                <a href="https://developer.nvidia.com/blog/r2d2-scaling-multimodal-robot-learning-with-nvidia-isaac-lab/" target="_blank" rel="noopener" class="read-more-btn">
+                    Číst původní článek &rarr;
+                </a>
+
+                <div class="original-title"><small>Původní název: R²D²: Scaling Multimodal Robot Learning with NVIDIA Isaac Lab</small></div>
+            </footer>
+        </article>
+
+        <p style="text-align: center; color: #6b7280; font-size: 0.875rem; margin-top: 2rem;">
+            &copy; 2026 <a href="https://www.marigold.cz" style="color: #3b82f6;">Marigold.cz</a>
+        </p>
+    </div>
+</body>
+</html>
