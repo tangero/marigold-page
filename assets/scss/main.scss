@@ -1931,77 +1931,73 @@ pre:has(code.language-mermaid), code.language-mermaid {
 .toc-body {
   padding: 0 16px 14px;
 
-  #TableOfContents {
-    > ol, > ul {
-      margin: 0;
-      padding: 0;
-      counter-reset: toc-counter;
-      list-style: none;
+  nav#TableOfContents ul {
+    margin: 0;
+    padding: 0;
+    counter-reset: toc-counter;
+    list-style: none !important;
+  }
 
-      > li {
-        display: block;
-        counter-increment: toc-counter;
-        padding: 5px 0;
-        border-bottom: 1px solid #eef0f2;
-        line-height: 1.4;
+  nav#TableOfContents > ul > li {
+    display: block !important;
+    counter-increment: toc-counter;
+    padding: 5px 0;
+    border-bottom: 1px solid #eef0f2;
+    line-height: 1.4;
 
-        &:last-child {
-          border-bottom: none;
-        }
+    &:last-child {
+      border-bottom: none;
+    }
 
-        &::before {
-          content: counter(toc-counter) ".";
-          font-weight: 600;
-          color: $blue;
-          margin-right: 8px;
-          font-size: 0.9em;
-        }
+    &::before {
+      content: counter(toc-counter) ".";
+      font-weight: 600;
+      color: $blue;
+      margin-right: 8px;
+      font-size: 0.9em;
+    }
 
-        > a {
-          color: $darkerGray;
-          text-decoration: none;
-          font-size: 0.95em;
-          font-weight: 500;
-          transition: color 0.15s ease;
+    > a {
+      color: $darkerGray;
+      text-decoration: none;
+      font-size: 0.95em;
+      font-weight: 500;
 
-          &:hover {
-            color: $blue;
-          }
-        }
+      &:hover {
+        color: $blue;
+      }
+    }
+  }
 
-        // H3 sub-items
-        > ol, > ul {
-          margin: 4px 0 2px 0;
-          padding: 0 0 0 24px;
-          list-style: none;
-          counter-reset: toc-sub-counter;
+  // H3 sub-items
+  nav#TableOfContents > ul > li > ul {
+    margin: 4px 0 2px 0;
+    padding: 0 0 0 24px;
+    counter-reset: toc-sub-counter;
+  }
 
-          > li {
-            display: block;
-            counter-increment: toc-sub-counter;
-            padding: 3px 0;
-            border-bottom: none;
-            line-height: 1.4;
+  nav#TableOfContents > ul > li > ul > li {
+    display: block !important;
+    counter-increment: toc-sub-counter;
+    padding: 3px 0;
+    border-bottom: none;
+    line-height: 1.4;
 
-            &::before {
-              content: counter(toc-counter) "." counter(toc-sub-counter);
-              font-weight: 500;
-              color: $gray;
-              margin-right: 6px;
-              font-size: 0.85em;
-            }
+    &::before {
+      content: counter(toc-counter) "." counter(toc-sub-counter);
+      font-weight: 500;
+      color: $gray;
+      margin-right: 6px;
+      font-size: 0.85em;
+    }
 
-            > a {
-              color: $gray;
-              font-size: 0.9em;
-              font-weight: 400;
+    > a {
+      color: $gray;
+      font-size: 0.9em;
+      font-weight: 400;
 
-              &:hover {
-                color: $blue;
-              }
-            }
-          }
-        }
+      &:hover {
+        color: $blue;
       }
     }
   }
@@ -2396,6 +2392,33 @@ pre:has(code.language-mermaid), code.language-mermaid {
   // Audio
   .audio-container {
     background: #252542;
+  }
+
+  // Homepage audio player
+  #audio-player {
+    background: #252542;
+    border-color: #3a3a5c;
+  }
+
+  #track-title {
+    color: #e0e0e0;
+  }
+
+  #track-time {
+    color: #a0a0b8;
+  }
+
+  .audio-controls button {
+    color: #e0e0e0;
+  }
+
+  .progress-container {
+    background: #3a3a5c;
+  }
+
+  // TOC dark borders
+  nav#TableOfContents > ul > li {
+    border-bottom-color: #2d2d4a;
   }
 
   // Tech news

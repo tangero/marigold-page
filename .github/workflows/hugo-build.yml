@@ -31,6 +31,13 @@ jobs:
           hugo-version: ${{ env.HUGO_VERSION }}
           extended: true
 
+      - name: Extract tech-news archive
+        run: |
+          if [ -f static/tech-news-archive.tar.gz ]; then
+            cd static && tar xzf tech-news-archive.tar.gz && rm tech-news-archive.tar.gz
+            echo "Extracted $(find tech-news-archive -name 'index.html' | wc -l) archive pages"
+          fi
+
       - name: Build site
         run: hugo --minify
 
