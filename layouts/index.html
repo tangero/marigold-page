@@ -1,0 +1,48 @@
+{{ define "main" }}
+
+{{- /* Combine posts from multiple sections */ -}}
+{{ $posts := where .Site.RegularPages "Section" "posts" }}
+{{ $ai := where .Site.RegularPages "Section" "ai" }}
+{{ $mobilnisite := where .Site.RegularPages "Section" "mobilnisite" }}
+
+{{ $allPages := union $posts $ai }}
+{{ $allPages = union $allPages $mobilnisite }}
+
+{{- /* Filter out hidden posts */ -}}
+{{ $allPages = where $allPages ".Params.hide" "!=" true }}
+
+{{- /* Sort by date descending and paginate */ -}}
+{{ $allPages = sort $allPages ".Date" "desc" }}
+{{ $paginator := .Paginate $allPages 15 }}
+
+<div class="posts">
+  {{ range $paginator.Pages }}
+  <article class="post-teaser">
+    <div class="post-teaser-inner">
+      {{ with .Params.thumbnail }}
+      {{ $thumbnail_url := replace . "http://" "https://" }}
+      <div class="post-thumbnail">
+        <a href="{{ $.RelPermalink }}">
+          <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_400,h_250,c_fill,g_auto,f_auto,q_auto/{{ $thumbnail_url }}" alt="{{ $.Title }}" loading="lazy">
+        </a>
+      </div>
+      {{ end }}
+
+      <div class="post-content">
+        {{- $months := dict "1" "leden" "2" "únor" "3" "březen" "4" "duben" "5" "květen" "6" "červen" "7" "červenec" "8" "srpen" "9" "září" "10" "říjen" "11" "listopad" "12" "prosinec" -}}
+        <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+        <p class="post-date">
+          {{ .Date.Day }}.
+          {{ index $months (printf "%d" .Date.Month) }}
+          {{ .Date.Year }}
+        </p>
+        <p class="excerpt">{{ .Summary | plainify | truncate 200 }}</p>
+      </div>
+    </div>
+  </article>
+  {{ end }}
+</div>
+
+{{ partial "pagination.html" . }}
+
+{{ end }}
