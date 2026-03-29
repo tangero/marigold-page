@@ -129,26 +129,23 @@
     <iframe src="https://zandl.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no" title="Odber newsletteru"></iframe>
   </div>
 
-  <div>
-    <p><span class="share-box">Sdílejte článek:</span>
-      <a href="https://twitter.com/share?text={{ .Title }}&url={{ .Permalink }}" target="_blank">Twitter</a>,
-      <a href="https://www.facebook.com/sharer.php?u={{ .Permalink }}" target="_blank">Facebook</a>,
-      {{ with .File }}
-      <a href="{{ $.Site.Params.github_repo }}/blob/main/{{ .Path }}" target="_blank">
-        Opravit
-      </a>
-      {{ end }}
-    </p>
-    <p>
+  <div class="post-navigation">
     <div class="PageNavigation">
       {{ with .PrevInSection }}
-        <a class="prev" href="{{ .RelPermalink }}">&laquo; {{ .Title }}</a> |
+        <a class="prev" href="{{ .RelPermalink }}">&laquo; {{ .Title }}</a>
       {{ end }}
       {{ with .NextInSection }}
         <a class="next" href="{{ .RelPermalink }}">{{ .Title }} &raquo;</a>
       {{ end }}
     </div>
-    </p>
+    {{ with .File }}
+    <div class="post-edit">
+      <a href="{{ $.Site.Params.github_repo }}/edit/main/{{ .Path }}" target="_blank" title="Upravit tento clanek na GitHubu">
+        <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2"><path d="M17 3a2.85 2.83 0 1 1 4 4L7.5 20.5 2 22l1.5-5.5Z"/></svg>
+        Upravit
+      </a>
+    </div>
+    {{ end }}
   </div>
 </article>
 

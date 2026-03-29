@@ -1712,13 +1712,70 @@ pre:has(code.language-mermaid), code.language-mermaid {
 }
 
 /*********************/
+/* POST NAVIGATION   */
+/*********************/
+
+.post-navigation {
+  border-top: 1px solid $lightGray;
+  padding-top: 1rem;
+  margin-top: 2rem;
+}
+
+.PageNavigation {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 0.5rem;
+
+  a {
+    flex: 1;
+    font-size: 0.9em;
+    line-height: 1.4;
+  }
+
+  .next {
+    text-align: right;
+  }
+
+  @include mobile {
+    flex-direction: column;
+    gap: 0.5rem;
+
+    .next {
+      text-align: left;
+    }
+  }
+}
+
+.post-edit {
+  margin-top: 0.5rem;
+
+  a {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    font-size: 12px;
+    color: $gray;
+    text-decoration: none;
+    transition: color 0.15s ease;
+
+    &:hover {
+      color: $blue;
+    }
+
+    svg {
+      color: inherit;
+    }
+  }
+}
+
+/*********************/
 /* TABLE OF CONTENTS */
 /*********************/
 
 .toc {
-  background: #f8f9fa;
+  background: transparent;
   border-left: 3px solid $blue;
-  border-radius: 0 8px 8px 0;
   margin: 1.5rem 0 2rem;
   max-width: 80%;
 
@@ -1767,9 +1824,11 @@ pre:has(code.language-mermaid), code.language-mermaid {
       list-style: none;
 
       > li {
+        display: block;
         counter-increment: toc-counter;
-        padding: 4px 0;
+        padding: 5px 0;
         border-bottom: 1px solid #eef0f2;
+        line-height: 1.4;
 
         &:last-child {
           border-bottom: none;
@@ -1803,9 +1862,11 @@ pre:has(code.language-mermaid), code.language-mermaid {
           counter-reset: toc-sub-counter;
 
           > li {
+            display: block;
             counter-increment: toc-sub-counter;
-            padding: 2px 0;
+            padding: 3px 0;
             border-bottom: none;
+            line-height: 1.4;
 
             &::before {
               content: counter(toc-counter) "." counter(toc-sub-counter);
@@ -2415,7 +2476,7 @@ pre:has(code.language-mermaid), code.language-mermaid {
 
   // TOC dark mode
   .toc {
-    background: #252542;
+    background: transparent;
     border-left-color: #6db3f2;
   }
 
