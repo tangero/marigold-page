@@ -1,0 +1,125 @@
+{{ define "main" }}
+<div class="search-container">
+  <h3>Vyhledavani na Marigoldovi</h3>
+
+  <form action="/search/" method="get">
+    <div class="search-box">
+      <input type="text" id="search-box" name="query" placeholder="Hledat..." />
+      <button type="submit">Hledat</button>
+    </div>
+  </form>
+
+  <div id="search-results"></div>
+</div>
+
+<style>
+  .search-container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  .search-box {
+    display: flex;
+    margin-bottom: 2rem;
+  }
+  .search-box input {
+    flex: 1;
+    padding: 0.7rem;
+    font-size: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 3px 0 0 3px;
+  }
+  .search-box button {
+    padding: 0.7rem 1.5rem;
+    background: #4183C4;
+    color: white;
+    border: none;
+    border-radius: 0 3px 3px 0;
+    cursor: pointer;
+  }
+  .search-result-item {
+    margin-bottom: 1.5rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid #eee;
+  }
+  .search-result-item h3 {
+    margin-bottom: 0.5rem;
+  }
+  .search-result-meta {
+    display: flex;
+    margin-top: 0.5rem;
+    font-size: 0.85rem;
+    color: #777;
+  }
+  .search-result-category {
+    background: #f0f0f0;
+    padding: 0.2rem 0.5rem;
+    border-radius: 3px;
+    margin-right: 0.5rem;
+  }
+</style>
+
+<script>
+  // Inicializace prazdneho store objektu
+  window.store = {};
+
+  // Funkce pro bezpecne pridani polozky do store objektu
+  function addToStore(key, data) {
+    try {
+      window.store[key] = {
+        title: data.title || "",
+        content: data.content || "",
+        url: data.url || "",
+        category: data.category || "",
+        tags: data.tags || "",
+        date: data.date || ""
+      };
+    } catch(e) {
+      console.error("Error adding item to store:", key, e);
+    }
+  }
+
+  // Postupne pridavani polozek z postu
+  {{ range where .Site.RegularPages "Section" "posts" }}
+    addToStore(
+      {{ .RelPermalink | urlize | jsonify }},
+      {
+        title: {{ .Title | jsonify }},
+        content: {{ .Plain | truncate 200 | jsonify }},
+        url: {{ .RelPermalink | jsonify }},
+        category: {{ if .Params.categories }}{{ delimit .Params.categories ", " | jsonify }}{{ else }}""{{ end }},
+        tags: {{ if .Params.tags }}{{ delimit .Params.tags ", " | jsonify }}{{ else }}""{{ end }},
+        date: {{ .Date.Format "2.1.2006" | jsonify }}
+      }
+    );
+  {{ end }}
+
+  // Pridani AI kolekce
+  {{ range where .Site.RegularPages "Section" "ai" }}
+    addToStore(
+      {{ .RelPermalink | urlize | jsonify }},
+      {
+        title: {{ .Title | jsonify }},
+        content: {{ .Plain | truncate 200 | jsonify }},
+        url: {{ .RelPermalink | jsonify }},
+        category: "ai",
+        date: {{ .Date.Format "2.1.2006" | jsonify }}
+      }
+    );
+  {{ end }}
+
+  // Pridani tech-news kolekce
+  {{ range where .Site.RegularPages "Section" "tech-news" }}
+    addToStore(
+      {{ .RelPermalink | urlize | jsonify }},
+      {
+        title: {{ .Title | jsonify }},
+        content: {{ .Plain | truncate 200 | jsonify }},
+        url: {{ .RelPermalink | jsonify }},
+        category: "tech-news",
+        date: {{ .Date.Format "2.1.2006" | jsonify }}
+      }
+    );
+  {{ end }}
+</script>
+<script src="/assets/js/search/simple-search.js"></script>
+{{ end }}
