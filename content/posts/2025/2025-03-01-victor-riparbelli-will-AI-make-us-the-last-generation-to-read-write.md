@@ -1,4 +1,5 @@
 ---
+url: "/item/victor-riparbelli-will-AI-make-us-the-last-generation-to-read-write/"
 slug: 'victor-riparbelli-will-AI-make-us-the-last-generation-to-read-write'
 
 audio_url: null

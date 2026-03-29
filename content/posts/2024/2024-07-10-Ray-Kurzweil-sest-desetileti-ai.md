@@ -1,4 +1,5 @@
 ---
+url: "/item/Ray-Kurzweil-sest-desetileti-ai/"
 slug: 'Ray-Kurzweil-sest-desetileti-ai'
 
 audio_url: null

@@ -1,4 +1,5 @@
 ---
+url: "/item/chytre-anteny-5G-6G/"
 slug: 'chytre-anteny-5G-6G'
 
 categories:

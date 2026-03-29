@@ -1,4 +1,5 @@
 ---
+url: "/item/Google-Gemini-Deep-Research/"
 slug: 'Google-Gemini-Deep-Research'
 
 author: Patrick Zandl

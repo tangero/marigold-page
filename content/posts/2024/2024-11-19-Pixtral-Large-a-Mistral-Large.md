@@ -1,4 +1,5 @@
 ---
+url: "/item/Pixtral-Large-a-Mistral-Large/"
 slug: 'Pixtral-Large-a-Mistral-Large'
 
 author: Patrick Zandl

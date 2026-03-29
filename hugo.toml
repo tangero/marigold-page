@@ -1,6 +1,7 @@
 baseURL = "https://www.marigold.cz"
 languageCode = "cs"
 title = "Marigold.cz"
+disablePathToLower = true
 
 [outputs]
   home = ["HTML", "RSS"]

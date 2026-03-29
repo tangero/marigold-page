@@ -1,4 +1,5 @@
 ---
+url: "/item/5G_NR_New_Radio/"
 slug: '5G_NR_New_Radio'
 
 categories:

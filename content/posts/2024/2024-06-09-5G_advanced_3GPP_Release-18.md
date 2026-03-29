@@ -1,4 +1,5 @@
 ---
+url: "/item/5G_advanced_3GPP_Release-18/"
 slug: '5G_advanced_3GPP_Release-18'
 
 categories:

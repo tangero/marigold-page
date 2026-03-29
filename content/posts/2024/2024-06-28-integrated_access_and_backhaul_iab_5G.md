@@ -1,4 +1,5 @@
 ---
+url: "/item/integrated_access_and_backhaul_iab_5G/"
 slug: 'integrated_access_and_backhaul_iab_5G'
 
 author: Patrick Zandl

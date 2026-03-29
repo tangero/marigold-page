@@ -1,4 +1,5 @@
 ---
+url: "/item/Apple_a_jeho_satelitni_iPhone_13/"
 slug: 'Apple_a_jeho_satelitni_iPhone_13'
 
 categories:
