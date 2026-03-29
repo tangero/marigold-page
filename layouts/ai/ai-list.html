@@ -2,30 +2,23 @@
 <article class="page">
   <h1>{{ .Title }}</h1>
 
-  <p>Zde najdete clanky zamerene na umelou inteligenci a jeji vyuziti v ruznych oblastech. Moji knihu <a href="https://www.kosmas.cz/knihy/517526/myty-a-nadeje-digitalniho-sveta/">Myty a nadeje digitalniho sveta</a> muzete vyuzit jako skveleho pruvodce modernimi technologiemi, pokud si chcete pocist vse vcelku.</p>
+  <div class="entry">
+    {{ .Content }}
+  </div>
 
-  <h2>Osvedcene postupy a navody na praci s AI</h2>
-  <p>
-    <a href="https://www.pii.cz/clanky/ai-pro-rodice-skolaku/">AI pro rodice skolaku</a> - navody a postupy pro vzdelavani s detmi<br>
-    <a href="/item/ai-psani-povidek/">Vyuziti AI pro psani beletrie, knih</a><br>
-    <a href="/item/jak-programovat-s-ai/">Programovani s pomoci AI</a><br>
-    <a href="/item/jak-psat-clanky-s-pomoci-umele-inteligence-ai/">Jak pomoci umele inteligence napsat lepsi clanek</a><br>
-    <a href="/item/zapisy_z_porad_pomoci_ai/">Zapis z porady ci jednani pomoci umele inteligence</a><br>
-    <a href="/item/podcasty-z-textu-automaticky/">Jak vytvorit audio podcast z vasich textu automaticky pomoci AI</a><br>
-    <a href="/item/Google-Gemini-Deep-Research/">Hluboky vyzkum tematu s Google Gemini Deep Research</a>
-  </p>
-
-  <h2>Zaklady fungovani AI</h2>
+  <h2>🧭 Základy fungování AI</h2>
+  {{ $emojis := slice "⌚️" "⌨️" "📱" "📲" "💻" "🖥️" "🖨️" "🖱️" "🖲️" "🕹️" "🗜️" "💽" "💾" "💿" "📀" "📼" "📷" "📸" "📹" "🎥" "📽️" }}
   {{ $aiPages := where .Site.RegularPages "Section" "ai" }}
   {{ $ordered := where $aiPages ".Params.order" "!=" nil }}
   {{ $ordered = sort $ordered ".Params.order" }}
   <ul>
-  {{ range $ordered }}
-    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+  {{ range $i, $page := $ordered }}
+    {{ $idx := mod (add $i (len $page.Title)) (len $emojis) }}
+    <li>{{ index $emojis $idx }} <a href="{{ $page.RelPermalink }}">{{ $page.Title }}</a></li>
   {{ end }}
   </ul>
 
-  <h2>Rady, tipy a triky</h2>
+  <h2>💡 Rady, tipy a triky</h2>
   {{ $unordered := where $aiPages ".Params.order" nil }}
   <ul>
   {{ range $unordered.ByDate.Reverse }}
@@ -33,36 +26,24 @@
   {{ end }}
   </ul>
 
-  <h2>Prirucky spravneho promptovani</h2>
-  <p>V posledni dobe vyslo nekolik dobrych materialu k tomu, jak sestavit dobry prompt pro AI:</p>
-  <ul>
-    <li>Google vydal pro sve <a href="https://services.google.com/fh/files/misc/gemini-for-google-workspace-prompting-guide-101.pdf">Gemini Prompting Guide 101</a></li>
-    <li>Anthropic vydal <a href="https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview">Prompt engineering overview</a></li>
-    <li>A <a href="https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive_tutorial/Anthropic%201P">Interaktivni tutorial na Githubu</a></li>
-    <li><a href="https://platform.openai.com/docs/guides/reasoning-best-practices">Best reasoning practices</a> od OpenAI</li>
-    <li><a href="https://cookbook.openai.com/examples/gpt4-1_prompting_guide">GPT-4.1 Prompting Guide</a> od OpenAI</li>
-  </ul>
-
-  <h2>Clanky a aktuality z oblasti Umele inteligence</h2>
-  {{ $aiPosts := where (where .Site.RegularPages "Section" "posts") ".Params.categories" "intersect" (slice "AI" "Umela inteligence") }}
+  <h2>Články a aktuality z oblasti Umělé inteligence</h2>
+  {{ $aiPosts := where (where .Site.RegularPages "Section" "posts") ".Params.categories" "intersect" (slice "AI" "Umělá inteligence") }}
   {{ range $aiPosts.ByDate.Reverse }}
   <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+  {{ with .Params.thumbnail }}
+  {{ $thumb := replace . "http://" "https://" }}
   <div class="post-content clearfix">
-    {{ with .Params.thumbnail }}
-    {{ $thumb := replace . "http://" "https://" }}
     <div class="thumbnail">
       <a href="{{ $.RelPermalink }}">
         <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_300,h_200,c_fill,g_auto,f_auto,q_auto/{{ $thumb }}" alt="{{ $.Title }}" loading="lazy">
       </a>
     </div>
-    {{ end }}
   </div>
+  {{ end }}
   <div class="excerpt">
     {{ .Summary | plainify | truncate 200 }} - {{ .Date.Format "02. 01. 2006" }}
   </div>
   {{ end }}
 
-  <h2>O teto rubrice</h2>
-  <p>Tato rubrika se zameruje na nejnovejsi trendy a vyvoj v oblasti umele inteligence. Diskutujeme zde o ruznych aspektech AI, od strojoveho uceni az po eticke otazky spojene s vyuzivanim AI v kazdodennim zivote.</p>
 </article>
 {{ end }}
