@@ -17,35 +17,43 @@
 
 <script>
 (function() {
-  var STORAGE_KEY = 'marigold-theme';
+  var KEY = 'marigold-theme';
   var toggle = document.getElementById('theme-toggle');
   var root = document.documentElement;
 
-  function getSystemTheme() {
-    return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+  function isDark() {
+    var stored = localStorage.getItem(KEY);
+    if (stored === 'dark' || stored === 'light') return stored === 'dark';
+    // Auto: dark after sunset (18:00-06:00 local time)
+    var h = new Date().getHours();
+    if (h >= 18 || h < 6) return true;
+    return window.matchMedia('(prefers-color-scheme: dark)').matches;
   }
 
-  function applyTheme(theme) {
-    root.setAttribute('data-theme', theme);
+  function apply(dark) {
+    if (dark) {
+      root.setAttribute('data-theme', 'dark');
+    } else {
+      root.removeAttribute('data-theme');
+    }
   }
 
-  // Apply saved or system theme immediately
-  var stored = localStorage.getItem(STORAGE_KEY);
-  applyTheme((stored === 'light' || stored === 'dark') ? stored : getSystemTheme());
+  // Apply on load (supplement the inline head script)
+  apply(isDark());
 
   if (toggle) {
     toggle.addEventListener('click', function() {
-      var current = root.getAttribute('data-theme') || 'light';
-      var next = current === 'dark' ? 'light' : 'dark';
-      applyTheme(next);
-      localStorage.setItem(STORAGE_KEY, next);
+      var nowDark = root.getAttribute('data-theme') === 'dark';
+      var next = !nowDark;
+      apply(next);
+      localStorage.setItem(KEY, next ? 'dark' : 'light');
     });
   }
 
-  // Listen for system theme changes (only if no manual override)
-  window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', function() {
-    if (!localStorage.getItem(STORAGE_KEY)) {
-      applyTheme(getSystemTheme());
+  // System preference change
+  window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', function(e) {
+    if (!localStorage.getItem(KEY)) {
+      apply(e.matches);
     }
   });
 })();
