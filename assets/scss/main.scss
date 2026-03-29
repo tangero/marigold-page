@@ -1017,15 +1017,15 @@ audio::-webkit-media-controls-time-remaining-display {
       transform: translateY(-2px);
     }
 
-    &:hover .svg-icon {
-      fill: white;
+    &:hover svg {
+      color: white;
     }
 
-    .svg-icon {
-      width: 16px;
-      height: 16px;
-      fill: $darkGray;
-      transition: fill 0.2s ease;
+    svg {
+      width: 18px;
+      height: 18px;
+      color: $darkGray;
+      transition: color 0.2s ease;
     }
   }
 }
@@ -2089,8 +2089,8 @@ pre:has(code.language-mermaid), code.language-mermaid {
       background-color: #6db3f2;
     }
 
-    .svg-icon {
-      fill: #c0c0d8;
+    svg {
+      color: #c0c0d8;
     }
   }
 
