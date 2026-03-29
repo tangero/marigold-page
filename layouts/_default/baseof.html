@@ -64,5 +64,16 @@
     </script>
 
     {{ partial "nav-dropdown.html" . }}
+
+    <script>
+    window.addEventListener('scroll', function() {
+      var bar = document.getElementById('bar');
+      var scrollTop = window.scrollY || document.documentElement.scrollTop;
+      var docHeight = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+      if (docHeight > 0) {
+        bar.style.width = (scrollTop / docHeight * 100) + '%';
+      }
+    });
+    </script>
   </body>
 </html>

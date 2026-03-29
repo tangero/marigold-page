@@ -26,7 +26,7 @@
       {{ $thumbnail_url := replace . "http://" "https://" }}
       <div class="thumbnail">
         <a href="{{ $postURL }}">
-          <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_300,h_225,c_fill,g_auto,f_auto,q_auto/{{ $thumbnail_url }}" alt="{{ $postTitle }}" loading="lazy">
+          <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_200,h_150,c_fill,g_auto,f_auto,q_auto/{{ $thumbnail_url }}" alt="{{ $postTitle }}" loading="lazy">
         </a>
       </div>
       {{ end }}
