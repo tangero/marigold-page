@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="cs">
+  <head>
+    <title>{{ .Title }} | Marigold.cz</title>
+    {{ partial "meta.html" . }}
+
+    {{ $style := resources.Get "scss/main.scss" | toCSS (dict "outputStyle" "compressed") }}
+    <link rel="stylesheet" href="{{ $style.RelPermalink }}" />
+
+    <link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }} - {{ .Site.Params.description }}" href="/feed.xml" />
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+
+    <meta name="theme-color" content="#1a1a2e">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+    <!-- Ahrefs Analytics -->
+    <script src="https://analytics.ahrefs.com/analytics.js" data-key="8DK1Fml+9uQuIb76lJoKXA" async></script>
+  </head>
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          {{ partial "nav.html" . }}
+        </div>
+      </div>
+
+      <!-- Full-width content area for aiprace app -->
+      <div class="wrapper-main" style="max-width:100%">
+        <div id="main" role="main" style="max-width:1600px;margin:0 auto;padding:0">
+          <div id="aiprace-app">
+            {{ .Content }}
+          </div>
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          {{ partial "footer.html" . }}
+        </div>
+      </div>
+    </div>
+
+    {{ partial "analytics.html" . }}
+    {{ partial "nav-dropdown.html" . }}
+
+    <script>
+    window.addEventListener('scroll', function() {
+      var bar = document.getElementById('bar');
+      var scrollTop = window.scrollY || document.documentElement.scrollTop;
+      var docHeight = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+      if (docHeight > 0) {
+        bar.style.width = (scrollTop / docHeight * 100) + '%';
+      }
+    });
+    </script>
+  </body>
+</html>
