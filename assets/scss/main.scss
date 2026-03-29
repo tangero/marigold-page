@@ -1712,6 +1712,65 @@ pre:has(code.language-mermaid), code.language-mermaid {
 }
 
 /*********************/
+/* NEWSLETTER CTA    */
+/*********************/
+
+.newsletter-cta {
+  margin: 2rem 0;
+  padding: 20px 24px;
+  border: 1px solid darken($lightGray, 5%);
+  border-radius: 8px;
+  background: $bg-subtle;
+}
+
+.newsletter-cta-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+
+  @include mobile {
+    flex-direction: column;
+    text-align: center;
+  }
+}
+
+.newsletter-cta-text {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+
+  strong {
+    font-size: 1rem;
+    color: $darkerGray;
+  }
+
+  span {
+    font-size: 0.9rem;
+    color: $gray;
+  }
+}
+
+.newsletter-cta-btn {
+  display: inline-block;
+  padding: 10px 24px;
+  background: $blue;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: 600;
+  font-size: 0.9rem;
+  white-space: nowrap;
+  transition: background-color 0.2s ease;
+  flex-shrink: 0;
+
+  &:hover {
+    background: darken($blue, 10%);
+    color: white;
+  }
+}
+
+/*********************/
 /* POST NAVIGATION   */
 /*********************/
 
@@ -2472,6 +2531,31 @@ pre:has(code.language-mermaid), code.language-mermaid {
 
   .edgeLabel {
     color: #e0e0e0;
+  }
+
+  // Newsletter CTA dark mode
+  .newsletter-cta {
+    background: #252542;
+    border-color: #2d2d4a;
+  }
+
+  .newsletter-cta-text {
+    strong {
+      color: #f0f0f0;
+    }
+    span {
+      color: #a0a0b8;
+    }
+  }
+
+  .newsletter-cta-btn {
+    background: #6db3f2;
+    color: #1a1a2e;
+
+    &:hover {
+      background: #8ec5f6;
+      color: #1a1a2e;
+    }
   }
 
   // TOC dark mode
