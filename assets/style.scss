@@ -19,8 +19,8 @@ html {
 }
 
 body {
-  background: #fff;
-  font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  background: $white;
+  font-family: $system-font;
   color: #404040;
   line-height: 1.7;
   font-weight: 400;
@@ -36,7 +36,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: $system-font;
   color: $darkerGray;
   font-weight: bold;
   line-height: 1.7;
@@ -168,23 +168,20 @@ p > img {
 .masthead {
   padding: 20px 0;
   border-bottom: 1px solid $lightGray;
+  display: flex;
+  align-items: center;
+  gap: 15px;
 
   @include mobile {
+    flex-direction: column;
     text-align: center;
   }
 }
 
 .site-avatar {
-  float: left;
   width: 70px;
   height: 70px;
-  margin-right: 15px;
-
-  @include mobile {
-    float: none;
-    display: block;
-    margin: 0 auto;
-  }
+  flex-shrink: 0;
 
   img {
     border-radius: 5px;
@@ -192,12 +189,10 @@ p > img {
 }
 
 .site-info {
-  float: left;
+  flex: 1;
 
   @include mobile {
-    float: none;
-    display: block;
-    margin: 0 auto;
+    text-align: center;
   }
 }
 
@@ -227,27 +222,58 @@ p > img {
 }
 
 nav {
-  float: right;
-  margin-top: 23px;
+  margin-left: auto;
   font-family: $helveticaNeue;
   font-size: 18px;
 
   @include mobile {
-    float: none;
+    margin-left: 0;
     margin-top: 9px;
-    display: block;
     font-size: 16px;
   }
 
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+
+    @include mobile {
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+  }
+
+  li {
+    display: inline-flex;
+    align-items: center;
+  }
+
+  .nav-separator {
+    color: $gray;
+    user-select: none;
+
+    @include mobile {
+      display: none;
+    }
+  }
+
   a {
-    margin-left: 20px;
     color: $darkGray;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
 
+    &:focus-visible {
+      outline: 2px solid $blue;
+      outline-offset: 2px;
+      border-radius: 2px;
+    }
+
     @include mobile {
-      margin: 0 10px;
+      margin: 0 6px;
       color: $blue;
     }
   }
@@ -276,7 +302,7 @@ nav {
     color: $blue;
   }
 
-  &:focus {
+  &:focus-visible {
     outline: 2px solid $blue;
     outline-offset: 2px;
   }
@@ -319,7 +345,7 @@ nav {
       color: $blue;
     }
 
-    &:focus {
+    &:focus-visible {
       outline: 2px solid $blue;
       outline-offset: -2px;
     }
@@ -462,19 +488,17 @@ nav {
 }
 
 .wrapper-container {
-  min-height: 100%;
-  position: relative;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 
 .wrapper-main {
-  padding-bottom: 134px;
+  flex: 1;
 }
 
 .wrapper-footer {
-  position: absolute;
-  bottom: 0;
   width: 100%;
-  min-height: 89px;
   background-color: $lightGray;
 }
 
@@ -483,21 +507,9 @@ footer {
   text-align: center;
 }
 
-body:after {
-    background: linear-gradient(to right, #ffffff   0, #2196F3   33%, #E91E63   66%, #000 100%);
-    width: 100%;
-    height: 5px;
-    top: 0;
-    position: absolute;
-    left: 0;
-    content: '';
-}
-
 #bar {
-    background: #000;
-    height: 7px;
-    background-size: cover;
-    background-position: left 60%;
+    background: linear-gradient(to right, $white 0, #2196F3 33%, #E91E63 66%, $black 100%);
+    height: 5px;
     position: fixed;
     top: 0;
     width: 100%;
@@ -506,7 +518,7 @@ body:after {
 }
 
 .post h1{
-  font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: $system-font;
   text-align: left;
   font-weight: bold;
   font-kerning: auto;
@@ -515,7 +527,7 @@ body:after {
 }
 
 .page h1{
-  font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: $system-font;
   text-align: center;
   font-weight: bold;
   font-kerning: auto;
@@ -611,7 +623,7 @@ table {
   border-spacing: 0;
   margin: 25px 0;
   font-size: 0.9em;
-  font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-family: $system-font;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
   border-radius: 8px;
   overflow: hidden;
@@ -807,7 +819,7 @@ audio::-webkit-media-controls-time-remaining-display {
 }
 
 .article-title a:hover {
-  color: #007bff;
+  color: $blue;
 }
 
 .article-date {
@@ -835,7 +847,7 @@ audio::-webkit-media-controls-time-remaining-display {
   margin: 15px 0;
   padding: 15px;
   background: #f8f9fa;
-  border-left: 4px solid #007bff;
+  border-left: 4px solid $blue;
   border-radius: 0 4px 4px 0;
 }
 
@@ -847,7 +859,7 @@ audio::-webkit-media-controls-time-remaining-display {
 .article-read-more {
   display: inline-block;
   padding: 8px 16px;
-  background: #007bff;
+  background: $blue;
   color: white;
   text-decoration: none;
   border-radius: 4px;
@@ -857,7 +869,7 @@ audio::-webkit-media-controls-time-remaining-display {
 }
 
 .article-read-more:hover {
-  background: #0056b3;
+  background: darken($blue, 15%);
   text-decoration: none;
   color: white;
 }
@@ -1015,11 +1027,16 @@ audio::-webkit-media-controls-time-remaining-display {
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    width: 28px;
-    height: 28px;
+    width: 44px;
+    height: 44px;
     border-radius: 50%;
     background-color: #f5f5f5;
     transition: all 0.2s ease;
+
+    &:focus-visible {
+      outline: 2px solid $blue;
+      outline-offset: 2px;
+    }
 
     &:hover {
       background-color: $blue;
@@ -1031,8 +1048,8 @@ audio::-webkit-media-controls-time-remaining-display {
     }
 
     .svg-icon {
-      width: 14px;
-      height: 14px;
+      width: 18px;
+      height: 18px;
       fill: $darkGray;
       transition: fill 0.2s ease;
     }
@@ -1078,6 +1095,1198 @@ audio::-webkit-media-controls-time-remaining-display {
   @include mobile {
     font-size: 10px;
     line-height: 1.8;
+  }
+}
+
+/*********************/
+/* TECH NEWS STYLES  */
+/*********************/
+
+// Tech news article (used by tech_news_article.html)
+.article-discussion {
+  max-width: 800px;
+  margin: 3rem auto 2rem;
+  padding: 2rem;
+  border-top: 2px solid #e5e7eb;
+  background: white;
+  border-radius: 12px;
+
+  @media (max-width: 640px) {
+    margin: 2rem 1rem 1rem;
+    padding: 1.5rem;
+  }
+}
+
+.tech-news-article {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+// When used as card (tech_news_article layout)
+.container .tech-news-article {
+  margin: 2rem auto;
+  padding: 2rem;
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+
+  @media (max-width: 640px) {
+    margin: 1rem;
+    padding: 1.5rem;
+  }
+}
+
+.article-header {
+  margin-bottom: 2rem;
+}
+
+.source-info {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+
+  @media (max-width: 640px) {
+    flex-wrap: wrap;
+  }
+}
+
+.source-emoji {
+  font-size: 1.5rem;
+}
+
+.source-name {
+  font-weight: 600;
+  color: $darkGray;
+}
+
+.importance-indicator {
+  display: flex;
+  gap: 2px;
+  margin-left: auto;
+
+  .star {
+    color: #fbbf24;
+    font-size: 1.2rem;
+
+    &:not(.filled) {
+      color: #d1d5db;
+    }
+  }
+
+  @media (max-width: 640px) {
+    margin-left: 0;
+    margin-top: 0.5rem;
+  }
+}
+
+.tech-news-article .article-title {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2;
+  margin-bottom: 1rem;
+  color: $darkerGray;
+
+  @media (max-width: 640px) {
+    font-size: 1.5rem;
+  }
+}
+
+.article-image {
+  margin: 2rem 0;
+  border-radius: 8px;
+  overflow: hidden;
+
+  img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+}
+
+.article-footer {
+  border-top: 1px solid #e5e7eb;
+  padding-top: 1.5rem;
+}
+
+.read-more-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.75rem 1.5rem;
+  background: $blue;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: 500;
+  transition: background-color 0.2s ease, transform 0.2s ease;
+
+  &:hover {
+    background: darken($blue, 10%);
+    transform: translateY(-1px);
+    color: white;
+  }
+}
+
+.original-title {
+  margin-top: 1rem;
+  color: $gray;
+}
+
+// Category badges
+.category {
+  padding: 0.25rem 0.75rem;
+  border-radius: 1rem;
+  font-weight: 500;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.category-ai { background: #dbeafe; color: #1e40af; }
+.category-startups { background: #ecfdf5; color: #059669; }
+.category-hardware { background: #fef3c7; color: #d97706; }
+.category-mobile { background: #e5e7eb; color: $darkGray; }
+.category-security { background: #fef2f2; color: #dc2626; }
+.category-science { background: #f3e8ff; color: #7c3aed; }
+.category-programming { background: #f0f9ff; color: #0284c7; }
+.category-gaming { background: #fdf4ff; color: #c026d3; }
+.category-social { background: #f0fdf4; color: #16a34a; }
+.category-business { background: #fff7ed; color: #ea580c; }
+
+// Tech news layout (used by tech_news.html)
+.tech-news-breadcrumb {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+  font-size: 0.9rem;
+  color: #718096;
+
+  a {
+    color: $blue;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  .separator {
+    color: #cbd5e0;
+  }
+
+  @media (max-width: 768px) {
+    font-size: 0.8rem;
+  }
+}
+
+.tech-news-article-header {
+  margin-bottom: 2rem;
+}
+
+.tech-news-article-meta {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.tech-news-article-emoji {
+  font-size: 1.5rem;
+}
+
+.tech-news-article-info {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.tech-news-article-source {
+  font-weight: 600;
+  color: $blue;
+}
+
+.tech-news-article-date {
+  color: #718096;
+  font-size: 0.9rem;
+}
+
+.tech-news-article-title {
+  font-size: 2rem;
+  line-height: 1.3;
+  color: $darkerGray;
+  margin-bottom: 1rem;
+
+  @media (max-width: 768px) {
+    font-size: 1.5rem;
+  }
+}
+
+.tech-news-article-lead {
+  font-size: 1.1rem;
+  color: #4a5568;
+  line-height: 1.6;
+  margin-bottom: 2rem;
+  padding: 1rem;
+  background: #f7fafc;
+  border-left: 4px solid $blue;
+  border-radius: 0 8px 8px 0;
+}
+
+.tech-news-article-image {
+  margin-bottom: 2rem;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+
+  img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+}
+
+.tech-news-article-content {
+  font-size: 1.1rem;
+  line-height: 1.7;
+  color: $darkerGray;
+  margin-bottom: 3rem;
+
+  p {
+    margin-bottom: 1.5rem;
+  }
+}
+
+.tech-news-article-footer {
+  border-top: 1px solid #e2e8f0;
+  padding-top: 2rem;
+  margin-bottom: 3rem;
+}
+
+.tech-news-article-tags {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.tag-label {
+  font-weight: 600;
+  color: #4a5568;
+}
+
+.tech-news-article-tags .tag {
+  background: #ebf8ff;
+  color: $blue;
+  padding: 0.25rem 0.75rem;
+  border-radius: 15px;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+.tech-news-article-source-link {
+  background: #f7fafc;
+  padding: 1rem;
+  border-radius: 8px;
+  border: 1px solid #e2e8f0;
+  margin-bottom: 1rem;
+}
+
+.source-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: $blue;
+  text-decoration: none;
+  font-weight: 500;
+  margin-left: 0.5rem;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.external-icon {
+  flex-shrink: 0;
+}
+
+.tech-news-article-disclaimer {
+  color: #718096;
+  font-style: italic;
+}
+
+// Tech news navigation
+.tech-news-navigation {
+  border-top: 1px solid #e2e8f0;
+  border-bottom: 1px solid #e2e8f0;
+  padding: 2rem 0;
+  margin-bottom: 3rem;
+}
+
+.nav-links {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+
+  @media (max-width: 768px) {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+}
+
+.nav-link {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  text-decoration: none;
+  padding: 1rem;
+  border-radius: 8px;
+  border: 1px solid #e2e8f0;
+  transition: border-color 0.2s ease, background-color 0.2s ease;
+
+  &:hover {
+    border-color: $blue;
+    background: #f7fafc;
+  }
+
+  &.next {
+    text-align: right;
+
+    @media (max-width: 768px) {
+      text-align: left;
+    }
+  }
+}
+
+.nav-direction {
+  font-size: 0.9rem;
+  color: $blue;
+  font-weight: 600;
+}
+
+.nav-title {
+  color: $darkerGray;
+  font-weight: 500;
+}
+
+// Related articles
+.related-articles {
+  background: #f7fafc;
+  padding: 2rem;
+  border-radius: 12px;
+  border: 1px solid #e2e8f0;
+
+  h3 {
+    color: $darkerGray;
+    margin-bottom: 1.5rem;
+    font-size: 1.25rem;
+  }
+}
+
+.related-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.related-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  padding: 1rem;
+  background: white;
+  border-radius: 8px;
+  border: 1px solid #e2e8f0;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+
+  &:hover {
+    border-color: $blue;
+    box-shadow: 0 2px 8px rgba(65, 131, 196, 0.1);
+  }
+}
+
+.related-emoji {
+  font-size: 1.25rem;
+  flex-shrink: 0;
+}
+
+.related-content {
+  flex: 1;
+
+  h4 {
+    margin: 0 0 0.5rem;
+    font-size: 1rem;
+  }
+
+  a {
+    color: $darkerGray;
+    text-decoration: none;
+
+    &:hover {
+      color: $blue;
+    }
+  }
+}
+
+.related-source {
+  color: #718096;
+  font-size: 0.9rem;
+  margin: 0;
+}
+
+/*********************/
+/* MERMAID & CODE    */
+/*********************/
+
+code.language-mermaid {
+  display: flex;
+  justify-content: center;
+}
+
+pre:has(code.language-mermaid), code.language-mermaid {
+  background-color: transparent;
+}
+
+.edgeLabel {
+  font-size: 92%;
+  opacity: .95;
+  color: #111;
+  padding: 0 3px;
+}
+
+.node rect {
+  stroke: #214f78 !important;
+}
+
+.nodeLabel {
+  color: #214f78 !important;
+}
+
+// Post detail reset
+.post.detailed {
+  padding: 0;
+  margin: 0;
+  border: none;
+  box-shadow: none;
+
+  .entry {
+    padding: 0;
+    margin: 0;
+    border: none;
+    box-shadow: none;
+  }
+}
+
+// Code copy button
+.code-block-container {
+  position: relative;
+  margin: 20px 0;
+
+  pre {
+    position: relative;
+    padding-top: 40px;
+  }
+}
+
+.copy-button {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  padding: 8px 15px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 14px;
+  z-index: 1;
+
+  &:hover {
+    background-color: #45a049;
+  }
+
+  &:active {
+    background-color: #3e8e41;
+  }
+
+  &.copied {
+    background-color: $gray;
+  }
+}
+
+.toast {
+  position: fixed;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: $darkGray;
+  color: white;
+  padding: 12px 24px;
+  border-radius: 5px;
+  display: none;
+  z-index: 1000;
+}
+
+// Workshop banner
+.workshop-banner-link {
+  text-decoration: none;
+  display: block;
+}
+
+.workshop-banner {
+  background: linear-gradient(135deg, #1a2332 0%, #1e3a4f 100%);
+  border-radius: 12px;
+  padding: 24px 28px;
+  margin: 0 0 24px 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.workshop-banner-content {
+  flex: 1;
+  min-width: 240px;
+}
+
+.workshop-banner-badge {
+  background: $blue;
+  color: #fff;
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  padding: 4px 10px;
+  border-radius: 4px;
+  display: inline-block;
+  margin-bottom: 12px;
+}
+
+.workshop-banner-title {
+  color: #fff;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 1.3;
+  margin-bottom: 8px;
+}
+
+.workshop-banner-detail {
+  color: #9cb3c9;
+  font-size: 14px;
+  margin-bottom: 6px;
+}
+
+.workshop-banner-early {
+  color: $blue;
+  font-size: 14px;
+  font-style: italic;
+  margin-top: 6px;
+}
+
+.workshop-banner-cta {
+  text-align: center;
+  flex-shrink: 0;
+}
+
+.workshop-banner-price {
+  color: #fff;
+  font-size: 26px;
+  font-weight: 700;
+  margin-bottom: 12px;
+}
+
+.workshop-banner-btn {
+  background: $blue;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 600;
+  padding: 10px 22px;
+  border-radius: 8px;
+  display: inline-block;
+}
+
+/*********************/
+/* QUICK SUMMARY     */
+/*********************/
+
+.quick-summary {
+  background: linear-gradient(145deg, $white, #f5f5f5);
+  border-radius: 12px;
+  padding: 1.5rem;
+  margin: 2rem 0;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1),
+              0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+.quick-summary-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+  color: $darkerGray;
+  font-weight: 600;
+  font-size: 1.1rem;
+}
+
+.summary-icon {
+  margin-right: 0.5rem;
+  color: $text-secondary;
+}
+
+.summary-points {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+
+  li {
+    position: relative;
+    padding-left: 1.5rem;
+    margin-bottom: 0.5rem;
+    color: $text-secondary;
+    line-height: 1.5;
+
+    &::before {
+      content: "\2022";
+      position: absolute;
+      left: 0;
+      color: #667eea;
+      font-weight: bold;
+    }
+  }
+}
+
+/*********************/
+/* DARK MODE         */
+/*********************/
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background: #1a1a2e;
+    color: #e0e0e0;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: #f0f0f0;
+  }
+
+  h4 {
+    color: #e0e0e0;
+  }
+
+  a {
+    color: #6db3f2;
+
+    &:hover, &:active {
+      color: #8ec5f6;
+    }
+  }
+
+  // Selection
+  ::-moz-selection {
+    color: #fff;
+    background: #3a3a5c;
+  }
+  ::selection {
+    color: #fff;
+    background: #3a3a5c;
+  }
+
+  // Top bar
+  #bar {
+    background: linear-gradient(to right, #1a1a2e 0, #2196F3 33%, #E91E63 66%, #f0f0f0 100%);
+  }
+
+  // Masthead
+  .masthead {
+    border-bottom-color: #2d2d4a;
+  }
+
+  .site-name {
+    color: #f0f0f0;
+
+    a {
+      color: #f0f0f0;
+    }
+  }
+
+  .site-description {
+    color: #a0a0b8;
+  }
+
+  nav {
+    a {
+      color: #e0e0e0;
+    }
+
+    .nav-separator {
+      color: #4a4a6a;
+    }
+
+    @include mobile {
+      a {
+        color: #6db3f2;
+      }
+    }
+  }
+
+  .nav-dropdown-toggle {
+    color: #e0e0e0;
+
+    &:hover {
+      color: #6db3f2;
+    }
+
+    &:focus-visible {
+      outline-color: #6db3f2;
+    }
+
+    @include mobile {
+      color: #6db3f2;
+    }
+  }
+
+  .nav-dropdown-menu {
+    background: #252542;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+
+    a {
+      color: #e0e0e0;
+
+      &:hover {
+        background-color: #2d2d4a;
+        color: #6db3f2;
+      }
+    }
+  }
+
+  // Posts
+  .posts > .post {
+    border-bottom-color: #2d2d4a;
+  }
+
+  .post {
+    blockquote {
+      border-left-color: #4a4a6a;
+      color: #a0a0b8;
+    }
+  }
+
+  .post h1, .page h1 {
+    color: #f0f0f0;
+  }
+
+  .author_title, .post_date {
+    color: #8888a8;
+  }
+
+  .date {
+    color: #a0a0b8;
+  }
+
+  // Thumbnail strip
+  .thumbnail-strip img {
+    opacity: 0.9;
+  }
+
+  // Tables
+  table {
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+  }
+
+  thead tr {
+    background-color: #252542;
+    color: #e0e0e0;
+    border-bottom-color: #3a3a5c;
+  }
+
+  th {
+    border-bottom-color: #3a3a5c;
+  }
+
+  td {
+    border-bottom-color: #2d2d4a;
+  }
+
+  tbody tr:nth-of-type(even) {
+    background-color: #20203a;
+  }
+
+  tbody tr:hover {
+    background-color: #2a2a48;
+  }
+
+  // Quick summary
+  .quick-summary {
+    background: linear-gradient(145deg, #252542, #1e1e38);
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.3);
+  }
+
+  .quick-summary-header {
+    color: #e0e0e0;
+  }
+
+  .summary-icon,
+  .summary-points li {
+    color: #c0c0d8;
+  }
+
+  .summary-points li::before {
+    color: #7f9cf5;
+  }
+
+  // Footer
+  .wrapper-footer {
+    background-color: #151528;
+  }
+
+  .footer-row a {
+    color: #c0c0d8;
+
+    &:hover {
+      color: #6db3f2;
+    }
+  }
+
+  .copyright {
+    color: #8888a8;
+  }
+
+  .social-icons a {
+    background-color: #252542;
+
+    &:hover {
+      background-color: #6db3f2;
+    }
+
+    .svg-icon {
+      fill: #c0c0d8;
+    }
+  }
+
+  .footer-partners-row {
+    color: #6a6a88;
+  }
+
+  // Pagination
+  .pagination {
+    a {
+      background-color: #252542;
+      color: #c0c0d8;
+
+      &:hover {
+        background-color: #6db3f2;
+        color: white;
+      }
+    }
+
+    span {
+      color: #6a6a88;
+
+      &.webjeda {
+        background-color: #6db3f2;
+      }
+    }
+  }
+
+  // Featured posts
+  .featured-posts {
+    border-top-color: #2d2d4a;
+  }
+
+  .featured-posts small,
+  .featured-posts .excerpt {
+    color: #a0a0b8;
+  }
+
+  // Vibecoding sections
+  .vibecoding-details {
+    border-color: #2d2d4a;
+  }
+
+  .vibecoding-toggle {
+    background: #252542;
+    color: #e0e0e0;
+
+    &:hover {
+      background: #2d2d4a;
+    }
+  }
+
+  .vibecoding-content {
+    background: #1e1e38;
+    border-top-color: #2d2d4a;
+  }
+
+  .vibecoding-article.excerpt-article {
+    border-color: #2d2d4a;
+    background: #20203a;
+  }
+
+  .vibecoding-article.full-article {
+    border-bottom-color: #2d2d4a;
+  }
+
+  .article-title a {
+    color: #e0e0e0;
+
+    &:hover {
+      color: #6db3f2;
+    }
+  }
+
+  .article-date {
+    color: #8888a8;
+  }
+
+  .article-content {
+    color: #c0c0d8;
+  }
+
+  .article-excerpt {
+    color: #a0a0b8;
+    background: #252542;
+    border-left-color: #6db3f2;
+  }
+
+  .article-read-more {
+    background: #6db3f2;
+    color: #1a1a2e;
+
+    &:hover {
+      background: #8ec5f6;
+      color: #1a1a2e;
+    }
+  }
+
+  .article-meta {
+    color: #8888a8;
+    border-top-color: #2d2d4a;
+  }
+
+  .tag {
+    background: #2d2d4a;
+    color: #c0c0d8;
+  }
+
+  .no-articles {
+    color: #8888a8;
+    background: #252542;
+  }
+
+  // Audio
+  .audio-container {
+    background: #252542;
+  }
+
+  // Tech news
+  .container .tech-news-article {
+    background: #20203a;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+  }
+
+  .source-name {
+    color: #c0c0d8;
+  }
+
+  .tech-news-article .article-title {
+    color: #f0f0f0;
+  }
+
+  .article-footer {
+    border-top-color: #2d2d4a;
+  }
+
+  .read-more-btn {
+    background: #6db3f2;
+    color: #1a1a2e;
+
+    &:hover {
+      background: #8ec5f6;
+      color: #1a1a2e;
+    }
+  }
+
+  .original-title {
+    color: #8888a8;
+  }
+
+  // Tech news layout
+  .tech-news-breadcrumb {
+    color: #8888a8;
+
+    a {
+      color: #6db3f2;
+    }
+
+    .separator {
+      color: #4a4a6a;
+    }
+  }
+
+  .tech-news-article-source {
+    color: #6db3f2;
+  }
+
+  .tech-news-article-date {
+    color: #8888a8;
+  }
+
+  .tech-news-article-title {
+    color: #f0f0f0;
+  }
+
+  .tech-news-article-lead {
+    color: #c0c0d8;
+    background: #252542;
+    border-left-color: #6db3f2;
+  }
+
+  .tech-news-article-image {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  }
+
+  .tech-news-article-content {
+    color: #e0e0e0;
+  }
+
+  .tech-news-article-footer {
+    border-top-color: #2d2d4a;
+  }
+
+  .tech-news-article-tags .tag {
+    background: #252542;
+    color: #6db3f2;
+  }
+
+  .tag-label {
+    color: #c0c0d8;
+  }
+
+  .tech-news-article-source-link {
+    background: #252542;
+    border-color: #2d2d4a;
+  }
+
+  .source-link {
+    color: #6db3f2;
+  }
+
+  .tech-news-article-disclaimer {
+    color: #8888a8;
+  }
+
+  .tech-news-navigation {
+    border-color: #2d2d4a;
+  }
+
+  .nav-link {
+    border-color: #2d2d4a;
+
+    &:hover {
+      border-color: #6db3f2;
+      background: #252542;
+    }
+  }
+
+  .nav-direction {
+    color: #6db3f2;
+  }
+
+  .nav-title {
+    color: #e0e0e0;
+  }
+
+  .related-articles {
+    background: #20203a;
+    border-color: #2d2d4a;
+
+    h3 {
+      color: #f0f0f0;
+    }
+  }
+
+  .related-item {
+    background: #252542;
+    border-color: #2d2d4a;
+
+    &:hover {
+      border-color: #6db3f2;
+      box-shadow: 0 2px 8px rgba(109, 179, 242, 0.1);
+    }
+  }
+
+  .related-content a {
+    color: #e0e0e0;
+
+    &:hover {
+      color: #6db3f2;
+    }
+  }
+
+  .related-source {
+    color: #8888a8;
+  }
+
+  // Workshop banner (already dark)
+  .workshop-banner-early {
+    color: #6db3f2;
+  }
+
+  .workshop-banner-badge,
+  .workshop-banner-btn {
+    background: #6db3f2;
+    color: #1a1a2e;
+  }
+
+  // Code blocks
+  .copy-button {
+    background-color: #3a8c3e;
+
+    &:hover {
+      background-color: #45a049;
+    }
+
+    &.copied {
+      background-color: #4a4a6a;
+    }
+  }
+
+  .toast {
+    background-color: #252542;
+    color: #e0e0e0;
+  }
+
+  // Mermaid dark adjustments
+  .nodeLabel {
+    color: #6db3f2 !important;
+  }
+
+  .node rect {
+    stroke: #6db3f2 !important;
+  }
+
+  .edgeLabel {
+    color: #e0e0e0;
+  }
+
+  // You-may-like
+  .post .you-may-like {
+    background-color: #2a3a1e;
+    color: #c0c0d8;
+  }
+
+  // Category badges (keep as-is -- colored badges work in dark)
+
+  // CD container
+  .cd-container a {
+    color: #c0c0d8;
+  }
+
+  .cd-container h1, .cd-container h2 {
+    color: #f0f0f0;
   }
 }
 
