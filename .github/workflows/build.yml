@@ -1,18 +1,10 @@
-name: Build and Deploy (GitHub Pages)
+name: Build and Deploy (GitHub Pages) - DISABLED
 on:
-  push:
-    branches:
-      - main
   workflow_dispatch:
-
-permissions:
-  contents: read
-  pages: write
-  id-token: write
-
-concurrency:
-  group: pages
-  cancel-in-progress: true
+    inputs:
+      confirm:
+        description: 'This workflow is disabled. Use hugo-build.yml instead.'
+        required: true
 
 jobs:
   build:
