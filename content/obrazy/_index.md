@@ -1,0 +1,4 @@
+---
+title: "Obrazy"
+url: /obrazy/
+---
