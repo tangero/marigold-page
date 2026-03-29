@@ -4,7 +4,6 @@ slug: 'volne-it-telco-pozice'
 author: Noname
 
   '
-published: true
 summary_points:
 - Irsko efektivně využívá dotace EU díky propracovaným vzdělávacím programům.
 - České firmy nehýčkají zaměstnance, což vede k nízké ochotě ke změně práce.

@@ -4,7 +4,6 @@ slug: 'verizon-tipnul-aukci-cisla-212-867-5309'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Aukce telefonního čísla 212-867-5309 dosáhla na eBay až 200 000 USD.
 - Verizon zrušil aukci čísla, protože John neměl právo ho prodávat.

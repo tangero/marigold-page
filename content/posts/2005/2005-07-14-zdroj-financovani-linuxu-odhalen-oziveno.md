@@ -4,7 +4,6 @@ slug: 'zdroj-financovani-linuxu-odhalen-oziveno'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - Open source software financují americké aerolinie Southwest.
 - Fotografie od tajného agenta odhalila zdroj financování.

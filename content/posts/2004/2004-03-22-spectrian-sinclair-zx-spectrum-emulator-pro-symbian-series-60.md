@@ -4,7 +4,6 @@ slug: 'spectrian-sinclair-zx-spectrum-emulator-pro-symbian-series-60'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Spectrian je emulátor ZX Spectra pro telefony Symbian Series 60 od White Cloud Software.
 - Emulátor Spectrian podporuje formáty Z80, SNA a TAP pro nahrávání programů.

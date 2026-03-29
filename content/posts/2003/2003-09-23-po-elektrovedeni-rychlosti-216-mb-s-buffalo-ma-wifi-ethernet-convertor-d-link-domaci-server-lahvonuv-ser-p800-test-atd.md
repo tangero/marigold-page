@@ -4,7 +4,6 @@ slug: 'po-elektrovedeni-rychlosti-216-mb-s-buffalo-ma-wifi-ethernet-convertor-d-
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Corridor Systems PowerCorridor dosahuje rychlosti 216 Mb/s pro koncové zákazníky.
 - Buffalo uvádí ethernetový bezdrátový konvertor WLI-TX1-G54 AirStation za 129 USD.

@@ -4,7 +4,6 @@ slug: 'drobky-morphos-mne-zaujal-vzducholodi-maji-zase-nabidnout-broadband-pripo
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Dvorak chválí operační systém MorphOS, který zaujal autora článku.
 - Capanina projekt vyhodil 5.6 milionů eur na vzducholodi pro broadband.

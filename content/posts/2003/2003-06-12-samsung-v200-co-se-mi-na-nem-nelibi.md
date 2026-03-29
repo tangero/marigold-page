@@ -4,7 +4,6 @@ slug: 'samsung-v200-co-se-mi-na-nem-nelibi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Samsung V200 má problémy se SIM toolkitem pro bankovnictví, PIN je viditelný.
 - T9 u Samsungu V200 neumožňuje přidávat nová slova do slovníku.

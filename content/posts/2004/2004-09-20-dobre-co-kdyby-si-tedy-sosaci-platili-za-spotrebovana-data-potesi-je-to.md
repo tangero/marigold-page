@@ -4,7 +4,6 @@ slug: 'dobre-co-kdyby-si-tedy-sosaci-platili-za-spotrebovana-data-potesi-je-to'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor ironicky reaguje na obvinění z placeného agentství Eurotelu.
 - IKEA zavedla "bezedné" nápoje, legalizující dřívější nelegální dolévání.

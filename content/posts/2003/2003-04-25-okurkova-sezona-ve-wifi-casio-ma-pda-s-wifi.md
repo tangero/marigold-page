@@ -4,7 +4,6 @@ slug: 'okurkova-sezona-ve-wifi-casio-ma-pda-s-wifi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WiFi inovace stagnují, nové produkty nepřinášejí zásadní změny.
 - Casio představilo PDA DT-X10 a IT-500 s WiFi a Windows CE.

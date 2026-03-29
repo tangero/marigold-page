@@ -17,7 +17,7 @@ source:
   id: null
   name: ComputerWeekly.com
 title: Co je potřeba k zabezpečení agentického obchodu
-url: https://www.computerweekly.com/news/366639228/What-it-takes-to-secure-agentic-commerce
+source_url: https://www.computerweekly.com/news/366639228/What-it-takes-to-secure-agentic-commerce
 urlToImage: https://www.computerweekly.com/visuals/ComputerWeekly/Hero Images/e-commerce-2-istock.jpg
 urlToImageBackup: https://www.computerweekly.com/visuals/ComputerWeekly/Hero Images/e-commerce-2-istock.jpg
 ---

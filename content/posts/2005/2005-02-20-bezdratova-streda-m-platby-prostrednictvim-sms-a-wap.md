@@ -4,7 +4,6 @@ slug: 'bezdratova-streda-m-platby-prostrednictvim-sms-a-wap'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - M-platby SMS a WAP jsou tématem Wireless Wednesday.
 - Pipeline poskytuje M-platby, zejména přes T-Mobile T-Zones.

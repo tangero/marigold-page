@@ -8,7 +8,6 @@ categories:
 - O2
 
   '
-published: true
 summary_points:
 - Vodafone nabízí volání a SMS zdarma za změnu jména na Vodafone.
 - Střední jméno Vodafone znamená volání a SMS zdarma ve Vodafone síti.

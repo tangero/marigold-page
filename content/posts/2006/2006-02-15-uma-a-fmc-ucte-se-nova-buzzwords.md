@@ -4,7 +4,6 @@ slug: 'uma-a-fmc-ucte-se-nova-buzzwords'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - UMA (Unlicenced Mobile Access) umožňuje přístup k mobilním službám přes Wi-Fi nebo
   Bluetooth.

@@ -4,7 +4,6 @@ slug: 'telefonni-seznam-je-nejvetsi-zadrhel-pri-upgrade-lepsich-telefonu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Upgrade telefonů brzdí problém s přenosem kontaktů, jak ukázala studie.
 - Autor upgradoval na Motorola V3 a narazil na potíže s konverzí 800 kontaktů.

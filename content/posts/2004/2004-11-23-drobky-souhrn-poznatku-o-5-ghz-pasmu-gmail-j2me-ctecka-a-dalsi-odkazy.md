@@ -4,7 +4,6 @@ slug: 'drobky-souhrn-poznatku-o-5-ghz-pasmu-gmail-j2me-ctecka-a-dalsi-odkazy'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Jan Sedlák napsal obsáhlý článek o 5GHz pásmu na i4shop.net.
 - Maratonský deník aerobního tragéda je blog pro zájemce o fyzkulturu.

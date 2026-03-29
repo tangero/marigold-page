@@ -4,7 +4,6 @@ slug: 'jellingspot-se-na-novem-smichove-rozsiruje'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Jellingspot distribuuje marketingové materiály přes bluetooth, pilotně v Pietro
   Filipi.

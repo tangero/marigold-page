@@ -4,7 +4,6 @@ slug: 'i-jako-truhlar-bych-se-uzivil-a-jine-povzdechy'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Kancelář vymalovali svépomocí s přáteli žluto-oranžovou barvou, což bylo drahé.
 - Místo lina si autor nechal položit kancelářský koberec specialistou.

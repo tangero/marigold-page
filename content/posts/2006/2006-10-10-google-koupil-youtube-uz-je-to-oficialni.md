@@ -4,7 +4,6 @@ slug: 'google-koupil-youtube-uz-je-to-oficialni'
 author: Noname
 
   '
-published: true
 summary_points:
 - Google kupuje YouTube za 1.65 miliardy dolarů výměnou akcií.
 - YouTube založen v únoru 2005, měsíčně prodělává 1 milion dolarů.

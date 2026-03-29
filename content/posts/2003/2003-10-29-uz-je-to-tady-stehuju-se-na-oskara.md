@@ -4,7 +4,6 @@ slug: 'uz-je-to-tady-stehuju-se-na-oskara'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Oskar aktivován kvůli otravným hovorům a změně telefonního čísla.
 - SIM karta Oskara aktivována, vložena do staré Nokie bez GPRS.

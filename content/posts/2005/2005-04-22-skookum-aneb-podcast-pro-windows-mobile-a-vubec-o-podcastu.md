@@ -4,7 +4,6 @@ slug: 'skookum-aneb-podcast-pro-windows-mobile-a-vubec-o-podcastu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Skookum je podcastový klient pro Windows Mobile, stojí 10 USD.
 - Podcasty umožňují automatické stahování MP3 do smartphonů.

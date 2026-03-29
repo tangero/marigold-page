@@ -4,7 +4,6 @@ slug: 'cannes-podvedeni-novinari-rozmrzeli-vystavovatele'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - GSM kongres zklamal novináře kvůli nesplněným slibům telekomunikačních firem v minulosti.
 - Firmy chtějí opět chválu pro nové technologie, ale novináři jsou skeptičtí.

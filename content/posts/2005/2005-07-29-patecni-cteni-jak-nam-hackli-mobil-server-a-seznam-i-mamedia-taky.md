@@ -4,7 +4,6 @@ slug: 'patecni-cteni-jak-nam-hackli-mobil-server-a-seznam-i-mamedia-taky'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Vzpomínkové příběhy o začátcích podnikání na internetu budou zveřejněny v pátek.
 - Texty byly původně psány pro interní účely a pobavení v roce 2001.

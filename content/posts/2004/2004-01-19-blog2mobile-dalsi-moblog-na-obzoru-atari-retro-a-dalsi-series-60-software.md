@@ -4,7 +4,6 @@ slug: 'blog2mobile-dalsi-moblog-na-obzoru-atari-retro-a-dalsi-series-60-software
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Blog2mobile umožňuje publikování weblogu z mobilu pomocí WAP a i-mode, nikoliv MMS.
 - Atari Retro nabízí balíček her z Atari 2600 pro Series60, Palm a PocketPC za 30

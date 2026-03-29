@@ -4,7 +4,6 @@ slug: 'pandora-cz-odchazi-trocha-vzpominek'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Pandora.cz, emailový diskusní server, končí v listopadu 2013 po dlouhém provozu
   beze změn.

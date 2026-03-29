@@ -4,7 +4,6 @@ slug: 'pridavani-mms-zprav-na-marigolda'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - MMS zprávy přidány na Marigold pomocí Bloguje.cz jako obezličky pro Genesis.
 - Cannes postřehy budou zaznamenávány pomocí MMS zpráv pro okamžité zachycení.

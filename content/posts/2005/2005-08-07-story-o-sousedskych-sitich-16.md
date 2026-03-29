@@ -4,7 +4,6 @@ slug: 'story-o-sousedskych-sitich-16'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - Lokalita dvě má kruhovou topologii sítě, což zvýšilo spolehlivost.
 - Internetová konektivita je nyní od lokálního přeprodejce net4net.

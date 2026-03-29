@@ -4,7 +4,6 @@ slug: 'zprava-z-tisku-11-8-04-doplneno'
 author: Noname
 
   '
-published: true
 summary_points:
 - Mobil server podruhé ukázal CDMA EV/DO technologii.
 - Ženy dokáží vyrobit Wi-Fi detektor s citem pro módu.

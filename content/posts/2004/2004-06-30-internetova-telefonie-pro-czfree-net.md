@@ -4,7 +4,6 @@ slug: 'internetova-telefonie-pro-czfree-net'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - i4 Portfolio zavedla internetovou telefonii do sítě CzFree.Net.
 - VoIP brána CzFree.Net je dostupná na telefonním čísle 222 56 02 10.

@@ -4,7 +4,6 @@ slug: 'elektrina-pres-web-pre'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - PRE zpřístupňuje zákaznická data přes webovou aplikaci Phoenix na adrese phoenix.pre.cz.
 - Aplikace Phoenix nabízí faktury, dluhy a graf spotřeby elektřiny za odběrové období.

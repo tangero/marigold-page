@@ -4,7 +4,6 @@ slug: 'qualcomm-nacpal-hsdpa-do-gsm-pasma'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Qualcomm představil HSDPA řešení pro 900 MHz pásmo jako náhradu 2G.
 - Nortel demonstroval HSDPA techniku s downlinkem 3,6 Mbps.

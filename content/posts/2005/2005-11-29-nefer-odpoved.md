@@ -4,7 +4,6 @@ slug: 'nefer-odpoved'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Zubař doporučuje pacientovi nevěnovat se emailům během vrtání zubů.
 - Pacient se ptá na zlepšení zubů pomocí past, kartáčků a jiných prostředků.

@@ -4,7 +4,6 @@ slug: 'czfree-net-rok-pote-na-hranicich-rise-1087'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - CzFree.Net se rozdělilo na tvrdé jádro, uživatele a komercionalizátory.
 - Pravidla CzFree.Net jsou definována, ale jejich vynucování je problematické.

@@ -6,7 +6,6 @@ categories:
 - Příběhy
 
   '
-published: true
 summary_points:
 - Dovolená autora znamená nedostupnost emailů, telefonátů a omezené aktualizace Marigold.
 - Autor opustil pozici ředitele produktu a stal se řadovým zaměstnancem ve Streamu.

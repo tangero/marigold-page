@@ -4,7 +4,6 @@ slug: 'dvakrate-sharp-pro-obliznuti-kosti'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Sharp PW-A8100 je japonský elektronický slovník za cca 11 000 Kč.
 - Sharp V801SH je dualmode GSM/3G telefon s megapixelovým fotoaparátem pro Vodafone.

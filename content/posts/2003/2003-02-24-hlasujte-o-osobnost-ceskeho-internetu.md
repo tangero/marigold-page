@@ -4,7 +4,6 @@ slug: 'hlasujte-o-osobnost-ceskeho-internetu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Akademik nedostal žádné tipy na nominace do ceny Zavináče.
 - Hlasování bude zveřejněno, preferovány jsou nové projekty a lidé.

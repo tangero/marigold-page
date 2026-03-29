@@ -4,7 +4,6 @@ slug: 'pasmo-10-ghz-prodlouzeno-bez-omezeni'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - GHz spoje zachrání nové Všeobecné oprávnění VO-R/14/08.2005-26 od ČTÚ.
 - VO-R/14/08.2005-26 se vydává bez časového omezení, což je výhodné.

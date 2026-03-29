@@ -4,7 +4,6 @@ slug: 'ceske-radiokomunikace-spousteji-vlastni-wifi-sit'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - České Radiokomunikace spustily WiFi síť v 55 lokalitách pro rezidenční zákazníky.
 - Předplatné WiFi stojí 450-499 Kč měsíčně dle délky, bez datového omezení.

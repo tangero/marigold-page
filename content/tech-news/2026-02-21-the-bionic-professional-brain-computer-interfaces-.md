@@ -17,7 +17,7 @@ source:
   id: null
   name: Techbullion.com
 title: 'Bionický profesionál: Rozhraní mozek-počítač a budoucnost produktivity'
-url: https://techbullion.com/the-bionic-professional-brain-computer-interfaces-and-the-future-of-productivity/
+source_url: https://techbullion.com/the-bionic-professional-brain-computer-interfaces-and-the-future-of-productivity/
 urlToImage: https://techbullion.com/wp-content/uploads/2026/02/TECHNOLOGY-12-1000x600.jpeg
 urlToImageBackup: https://techbullion.com/wp-content/uploads/2026/02/TECHNOLOGY-12-1000x600.jpeg
 ---

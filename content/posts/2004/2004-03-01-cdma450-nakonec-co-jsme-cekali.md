@@ -4,7 +4,6 @@ slug: 'cdma450-nakonec-co-jsme-cekali'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Eurotel CDMA450 by bylo nadbytečné, protože konkuruje ADSL a je technologicky náročné.
 - Telecom pravděpodobně nechce CDMA450, aby nekonkurovalo jeho ADSL.

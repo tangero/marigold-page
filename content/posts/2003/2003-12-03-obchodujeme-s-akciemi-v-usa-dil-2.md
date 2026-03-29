@@ -4,7 +4,6 @@ slug: 'obchodujeme-s-akciemi-v-usa-dil-2'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Peníze.cz zveřejnily druhý díl seriálu o obchodování s americkými akciemi.
 - Článek se zabývá kapitálem pro daytrading a dlouhodobé investice.

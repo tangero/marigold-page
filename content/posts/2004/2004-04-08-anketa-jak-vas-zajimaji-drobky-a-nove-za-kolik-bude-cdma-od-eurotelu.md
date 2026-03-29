@@ -4,7 +4,6 @@ slug: 'anketa-jak-vas-zajimaji-drobky-a-nove-za-kolik-bude-cdma-od-eurotelu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Drobky, shrnující zprávy, zajímají 53% čtenářů hodně a 31% jak kdy.
 - Nová anketa zjišťuje odhad ceny nonstop CDMA připojení od Eurotelu.

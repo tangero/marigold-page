@@ -4,7 +4,6 @@ slug: 'teledrobky-mediaalbum-musite-pouzivat-upc-informuje-dopisem-a-rusi-diskus
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - T-Mobile zruší MediaAlbum po 30 dnech neaktivity v T-Zones.
 - UPC informovalo dopisem o zvýšení rychlosti internetu Chella.

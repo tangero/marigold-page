@@ -4,7 +4,6 @@ slug: 'pondeli-uz-na-invexu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Invex navštívím v pondělí a zaměřím se na telekomunikační a WiFi novinky.
 - Náměty na zajímavosti z Invexu lze zasílat SMS nebo volat na 603428971.

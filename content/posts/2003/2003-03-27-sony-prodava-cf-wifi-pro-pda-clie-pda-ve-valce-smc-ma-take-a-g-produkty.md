@@ -4,7 +4,6 @@ slug: 'sony-prodava-cf-wifi-pro-pda-clie-pda-ve-valce-smc-ma-take-a-g-produkty'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Sony WL110 je nová WiFi Compact Flash karta pro PDA Clié NX a NZ.
 - Americká armáda v Iráku používá iPaq, jak uvádí Government Computer News.

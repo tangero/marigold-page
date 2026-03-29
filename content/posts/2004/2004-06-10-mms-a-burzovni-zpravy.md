@@ -4,7 +4,6 @@ slug: 'mms-a-burzovni-zpravy'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - T-Mobile kurzy akcií jsou nepoužitelné, nabízejí jen RM-Systém, nikoliv hlavní burzy.
 - Kódy akcií RM-Systému (ISIN, BIC) jsou obtížně zapamatovatelné oproti americkým

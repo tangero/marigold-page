@@ -4,7 +4,6 @@ slug: 'giga-za-kilo'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Giga za kilo nabízí 1 GB prostoru a 10 GB dat za 100 Kč měsíčně.
 - Služba je placený FTP server ideální pro menší výměnu souborů.

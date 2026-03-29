@@ -4,7 +4,6 @@ slug: 'kterak-vyrobci-vycucali-z-operatoru-miliardy-diky-fr-hr'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Amazon doručil knihy dříve než české e-shopy, autor čte o GSM kodecích.
 - Operátoři GSM sítí v 90. letech řešili kapacitu sítě kvůli nárůstu zákazníků.

@@ -4,7 +4,6 @@ slug: 'budete-videotelefonovat-jako-byste-pouzivali-nesynchronni-dabing'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Nesynchronní dabing je pro autora problematický, preferuje titulky nebo kvalitní
   dabing.

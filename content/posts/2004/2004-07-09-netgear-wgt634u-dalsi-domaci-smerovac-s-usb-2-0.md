@@ -4,7 +4,6 @@ slug: 'netgear-wgt634u-dalsi-domaci-smerovac-s-usb-2-0'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Netgear WGT634U podporuje rychlé USB rozhraní na domácích WiFi směrovačích.
 - USB 2.0 rozhraní a Samba server umožňují mapování USB disku jako síťového.

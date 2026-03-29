@@ -4,7 +4,6 @@ slug: 'ach-jo-zase-o-rok-starsi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor dosáhl 29 let a vnímá paralelu s tragickými historickými daty.
 - Oběd s Mobil Media připomněl autorovi vděčnost za malou firmu.

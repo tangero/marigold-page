@@ -4,7 +4,6 @@ slug: 'dalsi-promakany-voip-klient-jajah-pet-minut-hovoru-zdarma'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Jajah nabízí volání zdarma mezi uživateli a levné hovory do telefonní sítě.
 - Jajah podporuje videokonference, telekonference a překlad textových zpráv.

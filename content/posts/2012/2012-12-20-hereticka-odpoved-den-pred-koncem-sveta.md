@@ -7,7 +7,6 @@ categories:
 - Společnost
 
   '
-published: true
 summary_points:
 - Joachim z Fiore řešil dilema blaženosti v ráji bez blízkých.
 - Zatracení si ponesou vlastní "peklo" v ráji, tvrdil Joachim.

@@ -4,7 +4,6 @@ slug: 'integrace-skype-do-outlooku'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Outlook Skype integruje Skype do Outlooku pro volání kontaktů.
 - Program Outlook Skype je ke stažení za 25 dolarů.

@@ -4,7 +4,6 @@ slug: 'adsl-ztraci-na-internet-pres-kabel'
 author: Noname
 
   '
-published: true
 summary_points:
 - ADSL má 38 tisíc zákazníků, kabelový internet 42 tisíc.
 - Kabelovky mají 6% penetraci, Telecom jen 1,5%.

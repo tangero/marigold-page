@@ -4,7 +4,6 @@ slug: 'prvni-uzivatelske-zkusenosti-s-bezdratovym-pripojenim-bluetone-angel'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Bluetone Angel je bezdrátová technologie Českých Radiokomunikací v pásmu 3.5GHz.
 - Technologie Angel nevyžaduje přímou viditelnost vysílače a má dosah až 30 km.

@@ -4,7 +4,6 @@ slug: 'blogy-i-mobilne-pres-sms-a-mms-zpravy'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Blokovací software zaujal autora na kongresu 3GSM v Cannes.
 - Blogy lze aktualizovat pomocí SMS a MMS zpráv, což je chytré.

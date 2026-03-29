@@ -4,7 +4,6 @@ slug: 'dos-utok-na-wifi-site-nemila-dira'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WiFi díra umožňuje vyřadit 802.11b zařízení z činnosti zneužitím protokolu.
 - DSSS technologie je zranitelná, útok spočívá ve vysílání falešných CCA signálů.

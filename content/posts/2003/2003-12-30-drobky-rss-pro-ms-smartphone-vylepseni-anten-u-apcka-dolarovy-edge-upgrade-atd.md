@@ -4,7 +4,6 @@ slug: 'drobky-rss-pro-ms-smartphone-vylepseni-anten-u-apcka-dolarovy-edge-upgrad
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Smartphone RSS je čtečka RSS zdarma pro MS Smartphone 2003 telefony.
 - Parabolický štít vylepšuje antény access pointu a zvyšuje jejich sektorovost.

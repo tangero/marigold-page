@@ -4,7 +4,6 @@ slug: 'je-libo-terabajty-na-internetu'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - Gigabajtová e-mailová schránka není jediná možnost pro ukládání dat.
 - Stránka loci.cs.utk.edu nabízí systém pro ukládání stovek gigabajtů dat zdarma.

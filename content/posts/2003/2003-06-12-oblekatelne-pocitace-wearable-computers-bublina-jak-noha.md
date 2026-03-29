@@ -4,7 +4,6 @@ slug: 'oblekatelne-pocitace-wearable-computers-bublina-jak-noha'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Pioneer vyvinul oblékatelný počítač s organickým displejem integrovaným v rukávu
   oblečení.

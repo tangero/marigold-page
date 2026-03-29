@@ -4,7 +4,6 @@ slug: 'google-nepodlehl-paroubkovi-ma-je-vina'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Google smazal inzerát automaticky, nikoliv na žádost Paroubka.
 - Autor se omlouvá za mylnou informaci o zásahu Paroubka.

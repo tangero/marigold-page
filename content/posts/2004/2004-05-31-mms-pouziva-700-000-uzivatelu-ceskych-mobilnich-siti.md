@@ -4,7 +4,6 @@ slug: 'mms-pouziva-700-000-uzivatelu-ceskych-mobilnich-siti'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Eurotel a T-Mobile mají shodně 300 000 klientů s aktivovanou službou MMS.
 - Oskar eviduje přes 130 000 uživatelů s aktivovanou službou MMS.

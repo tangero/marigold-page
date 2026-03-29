@@ -4,7 +4,6 @@ slug: 'wifi-cukrovi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Dita šla do práce, což autorovi připomnělo pracovní den a aktualizaci Marigolda.
 - Autor nakoupil ingredience na cukroví v prázdných obchodech, kromě přeplněného Makra.

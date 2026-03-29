@@ -4,7 +4,6 @@ slug: 'stovka-wifi-knih-prodana'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Stovka WiFi knih prodána přes Marigolda za necelý měsíc.
 - Prodej knihy překonal očekávání autora i vydavatele.

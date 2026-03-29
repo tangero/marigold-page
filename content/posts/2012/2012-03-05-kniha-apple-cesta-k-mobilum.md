@@ -6,7 +6,6 @@ categories:
 - Apple
 
   '
-published: true
 summary_points:
 - Apple historie se zaměřuje na éru iPodu, iPhonu a iPadu.
 - Autor se rozhodl sepsat knihu o novodobé historii Apple.

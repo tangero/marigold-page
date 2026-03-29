@@ -7,7 +7,7 @@ categories:
 - Společnost
 - Sociální sítě
 - Média
-date: 13.1.2021
+date: 2021-01-13
 excerpt: Tento článek byl původně můj čtrnáctý newsletter a podcast, ale je to tak
   závažné téma, že jej dávám ven veřejně. Newsletter si můžete objednat zde – zdá
   se, že letos jej budu mít věnovaný spíše regulaci a Číně, než vysloveně technologiím.

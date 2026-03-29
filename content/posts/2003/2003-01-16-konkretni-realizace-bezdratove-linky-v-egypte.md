@@ -4,7 +4,6 @@ slug: 'konkretni-realizace-bezdratove-linky-v-egypte'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - 'Hurghada: Hassan Adly postavil WiFi linku 1 km/2 Mbps za pár dolarů.'
 - Apple představil AP a notebooky s podporou 802.11g (WiFiG?).

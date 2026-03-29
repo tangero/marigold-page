@@ -4,7 +4,6 @@ slug: 'take-intel-se-chlubi-mesh-siti-proxim-dal-na-trh-nova-outdoor-apcka'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Mesh sítě získávají popularitu, což potvrzuje i zájem a prototyp Intelu.
 - Proxim rozšířil řadu Tsunami o model MP-11 pro venkovní WiFi propojení.

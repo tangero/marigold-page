@@ -4,7 +4,6 @@ slug: 'mobilni-domena-mp-uz-je-k-registraci'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - MP doména registrace byla spuštěna, ale autor ji nemohl zpočátku nalézt.
 - MP doména stojí 180 dolarů a zahrnuje dotMP software.

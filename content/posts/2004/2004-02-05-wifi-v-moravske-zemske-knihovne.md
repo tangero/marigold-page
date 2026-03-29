@@ -4,7 +4,6 @@ slug: 'wifi-v-moravske-zemske-knihovne'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Moravská zemská knihovna v Brně nabízí WiFi připojení k internetu.
 - WiFi je dostupné v technické studovně (6. patro) a biologické studovně (4. patro).

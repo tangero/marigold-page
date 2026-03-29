@@ -4,7 +4,6 @@ slug: 'dalsi-zajimavy-isp-blog-freebone'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Freebone je nový blog zaměřený na téma ISP.
 - Blog Freebone byl objeven díky Hynku Medovi.

@@ -4,7 +4,6 @@ slug: 'cebit-zajimavosti-z-dne-prvniho'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - CeBIT má letos slabé press centrum s rigidní síťovou politikou a drahým WiFi.
 - Topcom nabízí 802.11b technologii s rychlostí 44 Mbps, ale budoucnost je nejistá.

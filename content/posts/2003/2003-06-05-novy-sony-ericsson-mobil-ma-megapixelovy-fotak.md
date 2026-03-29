@@ -4,7 +4,6 @@ slug: 'novy-sony-ericsson-mobil-ma-megapixelovy-fotak'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Sony Ericsson SO505i má 1,3 megapixelový fotoaparát a váží 145 gramů.
 - Displej SO505i zobrazuje 262144 barev a má úhlopříčku 2,2 palce.

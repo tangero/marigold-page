@@ -4,7 +4,6 @@ slug: 'wifi-neni-mrtve'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - ADSL vnímáno negativně kvůli dřívější špatné marketingové a cenové politice.
 - WiFi se profesionalizuje a slouží jako poslední článek připojení.

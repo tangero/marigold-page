@@ -4,7 +4,6 @@ slug: 'dph-na-telekomunikacni-sluzby-pujde-na-22'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - DPH u vybraných služeb stoupne z 5 % na 22 % socialistickou koalicí.
 - Zvýšení DPH se týká internetu, právníků, účetních, nájmu nemovitostí a automobilů.

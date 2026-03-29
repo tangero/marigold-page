@@ -4,7 +4,6 @@ slug: 'chello-easy-bude-misto-light-varianty'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Chello Easy od UPC nabízí 256/64 Kb/s za 555 Kč s DPH a 5GB dat.
 - Po překročení 5GB limitu klesne rychlost Chello Easy na symetrických 64 Kb/s.

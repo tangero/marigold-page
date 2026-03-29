@@ -4,7 +4,6 @@ slug: 'unlicensed-mobile-access-uma-ma-nabizet-prechod-z-mobilnich-dat-do-wlan'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - UMA sjednocuje technologie pro plynulý přechod mezi mobilními daty a WLAN sítěmi.
 - Iniciativa UMA sdružuje velké americké mobilní a WiFi operátory a technologické

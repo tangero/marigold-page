@@ -4,7 +4,6 @@ slug: 'v-cannes-je-rusno'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Obermann (T-Mobile) a šéf Vodafonu vystoupí na keynotes.
 - MMS přenos funguje, ale se subjectem zobrazuje nesmyslné znaky.

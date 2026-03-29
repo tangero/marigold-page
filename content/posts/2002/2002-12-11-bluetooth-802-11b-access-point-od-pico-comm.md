@@ -4,7 +4,6 @@ slug: 'bluetooth-802-11b-access-point-od-pico-comm'
 audio_url: http://www.marigold.cz/audio/2002-12-11-bluetooth-802-11b-access-point-od-pico-comm.mp3
 audiooff: false
 author: Patrick Zandl
-published: true
 summary_points:
 - "Pico Communications p\u0159edstavila PicoBlue II, AP s podporou Bluetooth a WiFi."
 - "PicoBlue II umo\u017E\u0148uje surfov\xE1n\xED p\u0159es PDA bez nutnosti WiFi\

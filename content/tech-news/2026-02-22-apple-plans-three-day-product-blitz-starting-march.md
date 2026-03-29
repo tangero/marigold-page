@@ -18,7 +18,7 @@ source:
   id: null
   name: iPhone in Canada
 title: 'Apple plánuje třídenní produktovou ofenzívu od 2. března: Co očekávat'
-url: https://www.iphoneincanada.ca/2026/02/22/apple-plans-three-day-product-blitz-starting-march-2-what-to-expect/
+source_url: https://www.iphoneincanada.ca/2026/02/22/apple-plans-three-day-product-blitz-starting-march-2-what-to-expect/
 urlToImage: https://cdn.iphoneincanada.ca/wp-content/uploads/2025/02/macos-ventura-macbook-pro-16in-ios-16-ipad-pro-11in-iphone-14-pro-weather-precipitation-aqi-overview-hero.png
 urlToImageBackup: https://cdn.iphoneincanada.ca/wp-content/uploads/2025/02/macos-ventura-macbook-pro-16in-ios-16-ipad-pro-11in-iphone-14-pro-weather-precipitation-aqi-overview-hero.png
 ---

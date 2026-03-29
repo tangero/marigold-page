@@ -2,7 +2,6 @@
 slug: 'cuba-libre'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - Párty je v plném proudu a je hodnocena jako úspěšná.
 - Trikolóra (red, white, blue) je zmíněna v souvislosti s párty.

@@ -4,7 +4,6 @@ slug: 'gallina-udela-z-gmail-schranky-weblog'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Gallina software transformuje GMail poštu na weblog.
 - Hvězdičkou označené GMail zprávy se zobrazí na weblogu.

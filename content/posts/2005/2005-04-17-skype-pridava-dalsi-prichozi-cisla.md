@@ -4,7 +4,6 @@ slug: 'skype-pridava-dalsi-prichozi-cisla'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - SkypeIn nabízí nově čísla v Dánsku, Norsku a Švédsku.
 - USA rozšířilo dostupnost SkypeIn čísel na 95 regionů.

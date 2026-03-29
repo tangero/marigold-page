@@ -4,7 +4,6 @@ slug: 'wayfinder-navigace-tak-trochu-otestovano'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Wayfinder používá Nokia GPS modul s kompatibilní nabíječkou pro Series 60.
 - Wayfinder stahuje vektorové mapy za jízdy přes GPRS, což šetří paměť.

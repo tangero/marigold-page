@@ -4,7 +4,6 @@ slug: 's-contactelem-je-to-zajimave-cra-pohrbi-hodne-penez'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Contactel vznikl roku 1999 vyčleněním z Českých Radiokomunikací a Tele Danmark.
 - Firma Contactel je od vzniku ztrátová, ztráta přesáhla miliardu korun.

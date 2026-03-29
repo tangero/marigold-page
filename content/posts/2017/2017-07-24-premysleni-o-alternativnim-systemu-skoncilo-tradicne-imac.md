@@ -2,7 +2,6 @@
 slug: 'premysleni-o-alternativnim-systemu-skoncilo-tradicne-imac'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - Autor si po dlouhé době koupil nový iMac model 2008 kvůli zastaralosti a nedostatku
   podpory.

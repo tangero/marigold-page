@@ -4,7 +4,6 @@ slug: 'libacka-prave-bezi-online-na-streamcz'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Stream.cz vysílal přenos "Líbačka" s odkazem na větší okno přenosu.
 - Přenos sledovalo v průměru 200 lidí v první čtvrthodině, což překonalo očekávání.

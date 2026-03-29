@@ -4,7 +4,6 @@ slug: 'gtsl-aneb-adsl-po-geteesovsku'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - GTS představila na Invexu vlastní ADSL vizi pro Prahu 1 a 2.
 - Domácnosti mohou získat 256/64 Kb/s bez agregace za 1499 Kč.

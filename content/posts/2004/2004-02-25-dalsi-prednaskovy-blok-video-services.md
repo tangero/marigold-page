@@ -4,7 +4,6 @@ slug: 'dalsi-prednaskovy-blok-video-services'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - 'Laura Rovizzi (Wind): Video na mobilech je spíše doplňková aktivita, nikoliv primární.'
 - 'O2: Obsah je klíčový, operátoři by měli respektovat náklady poskytovatelů obsahu.'

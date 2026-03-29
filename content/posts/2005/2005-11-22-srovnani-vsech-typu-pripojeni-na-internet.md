@@ -4,7 +4,6 @@ slug: 'srovnani-vsech-typu-pripojeni-na-internet'
 author: Noname
 
   '
-published: true
 summary_points:
 - Click! magazín zveřejnil srovnání typů internetového připojení od Noname.
 - Srovnání ADSL nabídek v ČR bylo nejnáročnější částí práce.

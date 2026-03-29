@@ -4,7 +4,6 @@ slug: 'oprava-clanku-o-telecomu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Heřmanův odchod z Eurotelu neprovázely neshody, měl dohodnutý odchod.
 - Oprava článku na Mobil.cz se týká působení Michala Heřmana v Eurotelu.

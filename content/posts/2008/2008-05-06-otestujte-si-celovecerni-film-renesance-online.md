@@ -6,7 +6,6 @@ categories:
 - Média
 
   '
-published: true
 summary_points:
 - Konfigurace balanceru způsobila chyby testerů, nyní je opravena.
 - Stream.cz testuje inteligentní distribuci celovečerního filmu online.

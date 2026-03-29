@@ -6,7 +6,6 @@ categories:
 - Digitální domácnost
 
   '
-published: true
 summary_points:
 - Digitalizace domácnosti autora zásadně nepokročila za posledních osm let.
 - Autor touží po centrálním úložišti hudby/filmů s jednoduchým přehráváním.

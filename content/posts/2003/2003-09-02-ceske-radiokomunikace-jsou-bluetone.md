@@ -4,7 +4,6 @@ slug: 'ceske-radiokomunikace-jsou-bluetone'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Bluetone je nová obchodní značka Českých Radiokomunikací pro internetové připojení.
 - Bluetone nabízí různé varianty připojení, včetně ADSL, bezdrátu a pevných linek.

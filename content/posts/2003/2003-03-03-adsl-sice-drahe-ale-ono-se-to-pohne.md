@@ -4,7 +4,6 @@ slug: 'adsl-sice-drahe-ale-ono-se-to-pohne'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Nejlevnější ADSL přípojka 192/64 kbps stojí 1600 Kč včetně modemu.
 - Telecom nabízí agregaci 1:50 pro nejlevnější ADSL, což je nevýhodné.

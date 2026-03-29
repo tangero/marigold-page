@@ -4,7 +4,6 @@ slug: 'kdysi-jsem-myslel-ze-blogovani-bude-lehci'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WiFi články v češtině jsou vzácné, proto odkazování na ně nefunguje.
 - Marigold blog je navštěvovaný, ačkoliv jeho téma není všem jasné.

@@ -4,7 +4,6 @@ slug: 'zyair-g-2000-plus-802-11b-g-s-podporou-peap'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Zyxel uvádí ZyAIR G-2000 Plus, bezdrátový router pro menší firmy.
 - Router podporuje autorizaci 32 uživatelů pomocí PEAP Radius serveru.

@@ -4,7 +4,6 @@ slug: 'pozor-na-upravy-v-generalnim-povoleni-pro-spektrum-2-4-ghz'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Změny generálního povolení ČTÚ 12/R/2000 pro WiFi platí od 1. března.
 - Maximální EIRP pro WiFi zařízení je nově stanoveno na 100 mW.

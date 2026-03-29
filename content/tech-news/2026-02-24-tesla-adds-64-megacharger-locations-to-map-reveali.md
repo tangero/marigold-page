@@ -20,7 +20,7 @@ source:
   name: Electrek
 title: Tesla přidala na mapu 64 lokalit Megachargerů, odhaluje trasy nabíjení pro
   nákladní vozy Semi
-url: http://electrek.co/2026/02/24/tesla-megacharger-64-locations-semi-truck-charging-network-map/
+source_url: https://electrek.co/2026/02/24/tesla-megacharger-64-locations-semi-truck-charging-network-map/
 urlToImage: https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/02/Screenshot-2026-02-24-at-11.39.27-AM.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 urlToImageBackup: https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/02/Screenshot-2026-02-24-at-11.39.27-AM.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 ---

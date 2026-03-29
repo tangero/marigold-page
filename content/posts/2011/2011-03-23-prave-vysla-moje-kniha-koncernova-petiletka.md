@@ -6,7 +6,6 @@ categories:
 - Knihy
 
   '
-published: true
 summary_points:
 - Koncernová pětiletka vyšla jako e-kniha na Palmknihách za 79 Kč.
 - E-kniha je dostupná ve formátech epub, mobi, pdf a bez DRM ochrany.

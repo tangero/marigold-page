@@ -4,7 +4,6 @@ slug: 'pro-nemoc-zavreno'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Chřipka autora postihla, očkování za tři sta korun zřejmě nefungovalo.
 - Autor se silně potí a cítí se špatně, omezuje kontakt se světem.

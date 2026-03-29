@@ -7,7 +7,6 @@ categories:
 - T-Mobile
 
   '
-published: true
 summary_points:
 - T-Mobile čeká na 3G iPhone, jehož uvedení brzdí Apple a nové trhy.
 - O2 zpřístupnilo WiFi hotspoty zdarma, ale jen pro státní weby během konference.

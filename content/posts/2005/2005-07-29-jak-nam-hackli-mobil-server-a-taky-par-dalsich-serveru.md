@@ -4,7 +4,6 @@ slug: 'jak-nam-hackli-mobil-server-a-taky-par-dalsich-serveru'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Rok 1997 zasáhl hack na server, MaMedia, Seznam a další.
 - Hackování je průnik do systému bez souhlasu uživatele.

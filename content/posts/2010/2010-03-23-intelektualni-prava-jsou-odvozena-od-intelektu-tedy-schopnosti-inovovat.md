@@ -6,7 +6,6 @@ categories:
 - Autorská práva
 
   '
-published: true
 summary_points:
 - Intelektuální práva jsou moderní právní konstrukt, uměle vytvořený a z dlouhodobé
   perspektivy nefunkční.

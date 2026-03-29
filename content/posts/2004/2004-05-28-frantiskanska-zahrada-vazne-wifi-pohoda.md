@@ -4,7 +4,6 @@ slug: 'frantiskanska-zahrada-vazne-wifi-pohoda'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Františkánská zahrada nabízí WiFi připojení od WideNetu, aktivované SMS platbou.
 - SMS platba umožňuje pouze krátkodobé připojení k WiFi síti.

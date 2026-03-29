@@ -4,7 +4,6 @@ slug: 'e-volby-v-praxi'
 author: Noname
 
   '
-published: true
 summary_points:
 - Vašek Rada píše úžasné, čtivé a unikátní články pro Internet pro všechny.
 - První článek analyzuje telekomunikační regulátory, druhý popisuje e-volby v Estonsku.

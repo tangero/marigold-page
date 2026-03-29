@@ -6,7 +6,6 @@ categories:
 - Média
 
   '
-published: true
 summary_points:
 - Autor preferuje papírové časopisy před placeným internetovým obsahem.
 - Týden po odchodu Balšínka ztratil kvalitu a nabízí povrchní témata.

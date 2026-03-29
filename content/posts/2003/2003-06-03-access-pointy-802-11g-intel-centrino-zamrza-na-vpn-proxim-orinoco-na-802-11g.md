@@ -4,7 +4,6 @@ slug: 'access-pointy-802-11g-intel-centrino-zamrza-na-vpn-proxim-orinoco-na-802-
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - NewsFactory testovala 54Mbps access pointy od Apple, Belkin, Buffalo, D-Link, Linksys,
   Netgear a SMC.

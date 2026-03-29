@@ -4,7 +4,6 @@ slug: 'jak-asi-zmenim-mobilniho-operatora'
 author: Noname
 
   '
-published: true
 summary_points:
 - Autor optimalizuje účet za mobil, preferuje internetové volání.
 - Internetové volání je levnější díky sekundové tarifikaci a cenám.

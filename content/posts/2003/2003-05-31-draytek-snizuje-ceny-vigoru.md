@@ -4,7 +4,6 @@ slug: 'draytek-snizuje-ceny-vigoru'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - T-Mobile GPRS v Mněticích funguje dobře, ale po hodině se rychlost sníží.
 - AtTel snižuje ceny broadband routerů Vigor, například Vigor2200We stojí 6.050,-

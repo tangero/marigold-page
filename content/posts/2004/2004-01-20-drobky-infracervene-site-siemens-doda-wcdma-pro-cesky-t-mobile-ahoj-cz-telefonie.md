@@ -4,7 +4,6 @@ slug: 'drobky-infracervene-site-siemens-doda-wcdma-pro-cesky-t-mobile-ahoj-cz-te
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Infračervené sítě jsou popsány v článku Rity Pužmanové na Lupě.
 - Článek Mobil.cz pesimisticky hodnotí Wi-Fi v pásmu 5 GHz.

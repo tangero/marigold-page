@@ -4,7 +4,6 @@ slug: 'sms-na-pevne-lince-aneb-zavedli-do-jeskyne-elektrinu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - SMS z pevné linky služba existuje od roku 2002, původně od Fincomu.
 - Telecom začal službu SMS z pevné linky oficiálně podporovat s Telepointem.

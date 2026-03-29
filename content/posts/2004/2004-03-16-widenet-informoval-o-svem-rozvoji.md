@@ -4,7 +4,6 @@ slug: 'widenet-informoval-o-svem-rozvoji'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WideNet se roamingově propojil s WeRoamem, což je výhodné pro zahraniční zákazníky.
 - WideNet plánuje roamingové smlouvy s českými provozovateli hotspotů, například Eurotelem.

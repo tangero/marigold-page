@@ -4,7 +4,6 @@ slug: 'wifi-v-kavarnach-ma-byt-zdarma'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WiFi v kavárnách by měla být zdarma, podobně jako sůl a pepř.
 - Kavárník v USA vypíná WiFi jen v době oběda a večeře pro zvýšení obratu.

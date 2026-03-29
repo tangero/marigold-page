@@ -4,7 +4,6 @@ slug: 'novy-layout-isdn-serveru'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - ISDN server získal nový vizuálně líbivý layout.
 - Validitu nového layoutu ISDN serveru posoudí Lupa.cz.

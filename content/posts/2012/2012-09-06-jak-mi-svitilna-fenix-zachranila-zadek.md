@@ -6,7 +6,6 @@ categories:
 - Svítilny Fénix
 
   '
-published: true
 summary_points:
 - Prodejce svítilen Fenix zažil nečekanou situaci v Alpách.
 - Během cesty do Itálie upadl autorovi stěrač v silném dešti.

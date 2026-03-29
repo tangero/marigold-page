@@ -6,7 +6,6 @@ categories:
 - Digitální detox
 
   '
-published: true
 summary_points:
 - Autor vyřadil iPhone, mobilní internet a synchronizaci kalendáře v boji se závislostí.
 - První dva týdny abstinence od internetu provázely absťáky a nutnost papírových novin.

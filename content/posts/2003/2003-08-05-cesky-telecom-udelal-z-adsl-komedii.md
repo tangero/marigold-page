@@ -4,7 +4,6 @@ slug: 'cesky-telecom-udelal-z-adsl-komedii'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - ADSL Českého Telecomu brzdí a agregace 1:50 snižuje reálnou rychlost.
 - Datový limit ADSL (10-20 GB) nutí zákazníky dokupovat další data za 400 Kč/10GB.

@@ -4,7 +4,6 @@ slug: 'nove-buzzword-pro-rychla-data-je-hsopa'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Nortel představil HSOPA, nový směr vývoje rychlých dat pro 3G sítě.
 - HSOPA kombinuje OFDM a MIMO antény pro zvýšení rychlosti.

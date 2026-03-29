@@ -17,7 +17,7 @@ source:
   name: Insurance Journal
 title: Automobilky směřují k ‚řízení bez pohledu na silnici‘, což vyvolává otázky
   bezpečnosti a odpovědnosti
-url: https://www.insurancejournal.com/news/international/2026/02/23/859198.htm
+source_url: https://www.insurancejournal.com/news/international/2026/02/23/859198.htm
 urlToImage: https://www.insurancejournal.com/app/uploads/2026/02/auto-pilot-mode-in-self-driving-car-396374668-AdobeStock-scaled.jpeg
 urlToImageBackup: https://www.insurancejournal.com/app/uploads/2026/02/auto-pilot-mode-in-self-driving-car-396374668-AdobeStock-scaled.jpeg
 ---

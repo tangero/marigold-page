@@ -4,7 +4,6 @@ slug: 'patent-na-online-pujcovani-dvd'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Netflix získal patent na online půjčování DVD za paušální poplatek v USA.
 - Cinetik, česká půjčovna, se patent Netflixu netýká, platí jen v USA.

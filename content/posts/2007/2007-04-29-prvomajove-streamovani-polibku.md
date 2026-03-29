@@ -4,7 +4,6 @@ slug: 'prvomajove-streamovani-polibku'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Stream.cz bude 1. máje streamovat polibky zamilovaných u sochy K. H. Máchy na Petříně.
 - Streamování z Petřína bude náročné kvůli chybějící elektřině a internetu.

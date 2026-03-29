@@ -4,7 +4,6 @@ slug: 'vazne-rozkosny-ipod-mini'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor podlehl MP3 přehrávačům a koupil si iPod mini modré barvy.
 - iPod mini vyniká intuitivním ovládáním pomocí Click Wheel a iTunes aplikací.

@@ -4,7 +4,6 @@ slug: 'recenze-linksys-wireless-g-broadband-router-ibm-ma-adapter-s-wifi-pro-tis
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Linksys 802.11g router má podle recenze slabší firewall a problémy s logováním.
 - IBM vyvinulo "plug-and-print" WiFi modul pro výkonné tiskárny a větší sítě.

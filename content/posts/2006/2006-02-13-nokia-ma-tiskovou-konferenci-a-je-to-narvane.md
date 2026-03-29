@@ -4,7 +4,6 @@ slug: 'nokia-ma-tiskovou-konferenci-a-je-to-narvane'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Nokia představila telefon 6136 s UMA, což je telco překlad wifi.
 - LiveBOX od Nokie umožňuje připojení do mobilní sítě přes wifi a DSL.

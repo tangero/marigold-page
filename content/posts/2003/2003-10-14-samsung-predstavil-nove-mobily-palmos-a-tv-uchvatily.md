@@ -4,7 +4,6 @@ slug: 'samsung-predstavil-nove-mobily-palmos-a-tv-uchvatily'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Samsung představil SGH-i500 a 505 s PalmOS 5.2.1 a dotykovým displejem.
 - SGH-D700 podporuje Series 60, má MMC slot, email, MMS a kameru.

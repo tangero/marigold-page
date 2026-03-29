@@ -4,7 +4,6 @@ slug: 'lupa-fusuje-do-zeleznic'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - Pendolino má problém s mobilním signálem kvůli celokovové konstrukci.
 - Řešením problému s mobilním signálem v Pendolinu má být "odstátnění".

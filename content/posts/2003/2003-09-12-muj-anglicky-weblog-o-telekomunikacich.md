@@ -4,7 +4,6 @@ slug: 'muj-anglicky-weblog-o-telekomunikacich'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - AdSense neumožnil autorovi umístit reklamy na anglický blog Telekonom.
 - Telekonom vznikl kvůli AdSense, zaměřuje se na telekomunikace a WiFi.

@@ -4,7 +4,6 @@ slug: 'je-czfree-verejna-telekomunikacni-sit-a-tedy-musi-mit-licenci'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WiFi sítě v pásmu 2,4 GHz mohou vyžadovat licenci pro veřejné telekomunikační sítě.
 - CzFree síť pravděpodobně splňuje definici veřejné telekomunikační sítě a podléhá

@@ -6,7 +6,6 @@ categories:
 - Přednášky
 
   '
-published: true
 summary_points:
 - Communication Wednesday akce Tuesday Business Network hostila prezentaci o Barceloně.
 - Prezentace z Barcelony je dostupná online na Scribd.com.

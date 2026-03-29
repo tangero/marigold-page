@@ -4,7 +4,6 @@ slug: 'total-brutal-wlan-sit-s-gprs'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Komunitní síť ve vesnici v horách řeší nedostupnost pevného internetu WiFi sítí.
 - GPRS připojení pomocí dvou mobilů naráží na omezení BTS stanice.

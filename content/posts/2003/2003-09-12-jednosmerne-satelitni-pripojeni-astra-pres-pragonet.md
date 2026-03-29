@@ -4,7 +4,6 @@ slug: 'jednosmerne-satelitni-pripojeni-astra-pres-pragonet'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Astra SES podepsala smlouvu s PragoNetem na distribuci jednosměrného satelitního
   DSL internetu.

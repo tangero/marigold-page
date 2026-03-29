@@ -6,7 +6,6 @@ categories:
 - Příběhy
 
   '
-published: true
 summary_points:
 - Staré kabely nelze použít kvůli jedovatému dýmu při hoření, stanovuje norma.
 - Nové kabely při hoření jedovatý dým nedělají, jak udává norma.

@@ -7,7 +7,6 @@ categories:
 - Historie
 
   '
-published: true
 summary_points:
 - Vrtěšice lokalizovány na rozhraní čáslavska a havlíčkobrodska, možná souvislost
   s Libickou stezkou.

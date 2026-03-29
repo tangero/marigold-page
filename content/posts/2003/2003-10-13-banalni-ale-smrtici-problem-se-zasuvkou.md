@@ -4,7 +4,6 @@ slug: 'banalni-ale-smrtici-problem-se-zasuvkou'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Adaptér do zásuvky není v prescentru k dispozici pro nabití notebooku.
 - Baterie notebooku brzy dojdou, což ohrožuje dokončení práce.

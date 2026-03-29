@@ -4,7 +4,6 @@ slug: 'intel-nazval-svoje-reseni-centrino-a-dalsi-blabla'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Centrino je nové notebookové řešení Intelu s novou architekturou procesoru a WiFi.
 - Intel Centrino nepřináší zásadní inovace, podobné funkce jsou dostupné i jinde.

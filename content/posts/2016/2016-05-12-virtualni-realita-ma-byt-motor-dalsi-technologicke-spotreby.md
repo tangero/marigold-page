@@ -4,7 +4,6 @@ slug: 'virtualni-realita-ma-byt-motor-dalsi-technologicke-spotreby'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Virtuální realita zatím nenabízí dostatečný uživatelský komfort pro masové přijetí.
 - Technologické limity jako 8K rozlišení a přenos dat brzdí rozvoj VR.

@@ -4,7 +4,6 @@ slug: 'linksys-wrt54gx-s-mimo-technologii'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Linksys WRT54GX je WiFi router s MIMO technologií, kterou firma nazývá SRX.
 - MIMO využívá dvě 802.11g rádia pro trojnásobnou propustnost a dosah.

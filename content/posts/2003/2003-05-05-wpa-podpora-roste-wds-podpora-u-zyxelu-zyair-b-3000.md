@@ -4,7 +4,6 @@ slug: 'wpa-podpora-roste-wds-podpora-u-zyxelu-zyair-b-3000'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WPA upgrade bude dostupný pro D-Link, NetGear a Linksys produkty.
 - WDS (Wireless Distribution System) propojuje access pointy bezdrátově.

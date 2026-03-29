@@ -20,7 +20,7 @@ source:
   id: null
   name: Macdailynews.com
 title: Vizální inteligence by měla definovat Appleův postup do AI nositelných zařízení
-url: https://macdailynews.com/2026/02/23/visual-intelligence-expected-to-define-apples-push-into-ai-wearables/
+source_url: https://macdailynews.com/2026/02/23/visual-intelligence-expected-to-define-apples-push-into-ai-wearables/
 urlToImage: https://macdailynews.com/wp-content/uploads/2018/02/180215_apple_glass.jpg
 urlToImageBackup: https://macdailynews.com/wp-content/uploads/2018/02/180215_apple_glass.jpg
 ---

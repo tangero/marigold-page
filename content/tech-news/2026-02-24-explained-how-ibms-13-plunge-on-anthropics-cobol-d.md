@@ -24,7 +24,7 @@ source:
   name: The Times of India
 title: 'Vysvětleno: Jak pokles IBM o 13 % kvůli obavám z narušení COBOL od Anthropic
   spustil pokles akcií TCS, Infosys, Wipro a dalších IT firem'
-url: https://economictimes.indiatimes.com/tech/information-tech/explained-how-ibms-13-plunge-on-anthropics-cobol-disruption-fears-sparked-bloodbath-in-tcs-infosys-wipro-other-it-stocks/articleshow/128773665.cms
+source_url: https://economictimes.indiatimes.com/tech/information-tech/explained-how-ibms-13-plunge-on-anthropics-cobol-disruption-fears-sparked-bloodbath-in-tcs-infosys-wipro-other-it-stocks/articleshow/128773665.cms
 urlToImage: https://img.etimg.com/thumb/width-1200,height-900,imgsize-57726,resizemode-75,msid-128773665/tech/information-tech/explained-how-ibms-13-plunge-on-anthropics-cobol-disruption-fears-sparked-bloodbath-in-tcs-infosys-wipro-other-it-stocks.jpg
 urlToImageBackup: https://img.etimg.com/thumb/width-1200,height-900,imgsize-57726,resizemode-75,msid-128773665/tech/information-tech/explained-how-ibms-13-plunge-on-anthropics-cobol-disruption-fears-sparked-bloodbath-in-tcs-infosys-wipro-other-it-stocks.jpg
 ---

@@ -4,7 +4,6 @@ slug: 'kazdorocni-pokuseni-odejit-od-iphone'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor zvažuje přechod z iPhonu na Android kvůli nižší ceně.
 - Potřebuje telefon pro práci, synchronizaci a základní funkce.

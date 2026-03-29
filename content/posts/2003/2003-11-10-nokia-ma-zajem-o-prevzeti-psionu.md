@@ -4,7 +4,6 @@ slug: 'nokia-ma-zajem-o-prevzeti-psionu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Nokia má zájem o převzetí společnosti Psion.
 - Nokia by získala 63 procent vlivu na Symbian.

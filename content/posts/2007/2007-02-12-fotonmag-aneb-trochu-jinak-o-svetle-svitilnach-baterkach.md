@@ -4,7 +4,6 @@ slug: 'fotonmag-aneb-trochu-jinak-o-svetle-svitilnach-baterkach'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Ariga zpomalila tlak na tržní niky internetu v posledních měsících.
 - Péťa navrhl nový projekt, magazín FotonMag o světle a svítilnách.

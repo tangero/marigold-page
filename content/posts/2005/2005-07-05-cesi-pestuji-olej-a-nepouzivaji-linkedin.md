@@ -4,7 +4,6 @@ slug: 'cesi-pestuji-olej-a-nepouzivaji-linkedin'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Če
 title: Češi pěstují olej a nepoužívají LinkedIn

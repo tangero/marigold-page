@@ -4,7 +4,6 @@ slug: 'zakaznici-chteji-zkusit-konkurenci-ct'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - 'Zákazníci Českého Telecomu: 60 procent jich zvažuje přechod k alternativním operátorům.'
 - Dlouhodobé chování Telecomu jako monopolu negativně ovlivňuje současnou situaci.

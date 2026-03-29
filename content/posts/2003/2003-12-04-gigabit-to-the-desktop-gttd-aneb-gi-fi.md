@@ -4,7 +4,6 @@ slug: 'gigabit-to-the-desktop-gttd-aneb-gi-fi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - GTTD technologie od NewLANS nabízí 2 Gb/s v 56 GHz pásmu.
 - FCC zvažuje uvolnění 56 GHz pásma jako bezlicenčního.

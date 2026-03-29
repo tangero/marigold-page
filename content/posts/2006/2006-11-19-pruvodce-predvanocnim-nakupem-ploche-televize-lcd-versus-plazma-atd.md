@@ -4,7 +4,6 @@ slug: 'pruvodce-predvanocnim-nakupem-ploche-televize-lcd-versus-plazma-atd'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - LCD televize do 40 palců dominují trhu díky ceně, spotřebě a nenáročnosti uživatelů.
 - Doporučená vzdálenost od obrazovky je troj až pětinásobek úhlopříčky pro optimální

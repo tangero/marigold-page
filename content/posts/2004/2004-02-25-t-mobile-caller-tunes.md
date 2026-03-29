@@ -4,7 +4,6 @@ slug: 't-mobile-caller-tunes'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Caller Tunes od T-Mobile brzy dorazí do České republiky.
 - Oficiální oznámení Caller Tunes proběhne na večírku T-Mobile.

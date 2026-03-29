@@ -4,7 +4,6 @@ slug: 'drobky-spaceshipone-uspel-ctu-se-nelibi-podivne-anteny-pro-tv-a-zazvonite
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - SpaceShipOne překonal 100 km, což je první soukromý suborbitální let.
 - Eurotel CDMA rušilo TV antény kvůli špatným anténám, potvrdilo šetření.

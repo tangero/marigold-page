@@ -4,7 +4,6 @@ slug: 'cisco-odkoupilo-linksys-za-500-mil-usd-mate-v-iraku-satelitni-telefon-muz
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Cisco koupilo Linksys za půl miliardy dolarů v akciích.
 - Americká armáda v Iráku může zaměnit satelitní signál za cíl.

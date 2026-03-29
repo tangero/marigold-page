@@ -21,7 +21,7 @@ source:
   name: Yahoo Entertainment
 title: Texas Instruments (TXN) míří na růst v bezdrátových technologiích akvizicí
   Silicon Laboratories
-url: https://finance.yahoo.com/news/texas-instruments-txn-targets-wireless-023031631.html
+source_url: https://finance.yahoo.com/news/texas-instruments-txn-targets-wireless-023031631.html
 urlToImage: https://s.yimg.com/ny/api/res/1.2/vMawLUp4.Bdzu7ujB7_QmA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/2e6f98febf736a0165d6979be11b537d
 urlToImageBackup: https://s.yimg.com/ny/api/res/1.2/vMawLUp4.Bdzu7ujB7_QmA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/2e6f98febf736a0165d6979be11b537d
 ---

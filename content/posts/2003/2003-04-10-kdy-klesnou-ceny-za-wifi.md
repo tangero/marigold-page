@@ -4,7 +4,6 @@ slug: 'kdy-klesnou-ceny-za-wifi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WiFi není vždy levné, příkladem je londýnské letiště za 6 liber/hod.
 - Komerční WiFi sítě často nevydělávají, navzdory ceně.

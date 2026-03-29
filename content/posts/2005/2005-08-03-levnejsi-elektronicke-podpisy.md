@@ -4,7 +4,6 @@ slug: 'levnejsi-elektronicke-podpisy'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - Česká pošta je nově akreditovaná certifikační agentura.
 - PostSignum, certifikační agentura pošty, nabízí certifikáty za 190 Kč ročně.

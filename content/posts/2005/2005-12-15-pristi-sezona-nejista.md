@@ -4,7 +4,6 @@ slug: 'pristi-sezona-nejista'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Marigoldova budoucnost je nejistá kvůli několika problémům.
 - Autor naráží na problémy kvůli kritice firem online.

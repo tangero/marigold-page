@@ -4,7 +4,6 @@ slug: 'tiskova-zprava-t-mobile-k-mda-ii-mne-naplnila-optimismem'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - T-Mobile MDA II je kritizován za marketingové nesmysly v tiskové zprávě.
 - Třípásmové PDA a VGA fotoaparát jsou příklady nesmyslných marketingových formulací.

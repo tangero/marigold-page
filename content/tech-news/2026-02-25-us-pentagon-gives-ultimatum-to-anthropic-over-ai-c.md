@@ -20,7 +20,7 @@ source:
   id: null
   name: DW (English)
 title: 'USA: Pentagon dal Anthropic ultimátum kvůli omezením AI — zpráva'
-url: https://www.dw.com/en/us-pentagon-gives-ultimatum-to-anthropic-over-ai-curbs-report/a-76111915
+source_url: https://www.dw.com/en/us-pentagon-gives-ultimatum-to-anthropic-over-ai-curbs-report/a-76111915
 urlToImage: https://static.dw.com/image/76110827_6.jpg
 urlToImageBackup: https://static.dw.com/image/76110827_6.jpg
 ---

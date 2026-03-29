@@ -4,7 +4,6 @@ slug: 'eurotel-dostal-oceneni-best-contribution-to-mobile-music-2004'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Eurotel a Chaoticom získali cenu Best Contribution to Mobile Music 2004.
 - Eurotel Jukebox vyhrál Best Show na Mobile Entertainment Forum.

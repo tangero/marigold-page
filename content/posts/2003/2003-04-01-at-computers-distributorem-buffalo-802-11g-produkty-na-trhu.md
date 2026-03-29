@@ -4,7 +4,6 @@ slug: 'at-computers-distributorem-buffalo-802-11g-produkty-na-trhu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - AT Computers exkluzivně distribuuje Buffalo produkty v ČR a SR.
 - Buffalo produkty konkurují Linksys, upgrade řeší nový firmware.

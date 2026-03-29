@@ -4,7 +4,6 @@ slug: 'nove-funkce-lide-nepouzivaji-kraluje-hlas-a-sms'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Strand Consult analyzoval vliv MVNO a diskontních operátorů na cenovou strategii.
 - Telmore v Dánsku zvítězil díky levnějším SMS a hlasovým službám.

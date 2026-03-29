@@ -4,7 +4,6 @@ slug: 'nove-weblogy-o-lucent-cellpipe-adsl-modemu-a-sobotecka-o-mediich-a-rozpra
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - ADSL routery často nejsou zabezpečené, blog CellPipe radí, jak je chránit.
 - Sobotecká bloguje o reportáži TV Nova, zpochybňuje její objektivitu.

@@ -4,7 +4,6 @@ slug: 'sony-nabizi-domaci-wifi-servericek'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Sony představilo FSV-PGX1, malý domácí server s Linuxem a WiFi.
 - Server FSV-PGX1 má 20 GB disk, podporuje FTP, NFS, CIFS protokoly.

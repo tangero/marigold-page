@@ -4,7 +4,6 @@ slug: 'n-gage-party'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Nokia uspořádala celosvětovou párty v Praze k uvedení herního telefonu N-Gage.
 - Vstup na párty v Celnici střežili vojáci s M16, což byl vtípek.

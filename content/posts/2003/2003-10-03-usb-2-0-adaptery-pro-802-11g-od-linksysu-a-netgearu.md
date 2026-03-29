@@ -4,7 +4,6 @@ slug: 'usb-2-0-adaptery-pro-802-11g-od-linksysu-a-netgearu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - USB 2.0 adaptéry 802.11g představili NetGear (WG121) a Linksys (WUSB54G).
 - NetGear WG121 má čipset Intersil Prism, ovladače pro Windows, stojí 65 USD.

@@ -4,7 +4,6 @@ slug: 'wifi-nezavisle-na-napajeni-akumulatory-a-solarni-panely-1129'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Solární panely a akumulátory umožňují napájení WiFi bez elektřiny.
 - Repeatery bez napájení lze zřídit pomocí solárního napájení.

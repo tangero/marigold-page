@@ -17,7 +17,7 @@ source:
   id: the-times-of-india
   name: The Times of India
 title: Proč přídavky AI nepomohou IT a kyberbezpečnosti přežít tuto bouři
-url: https://economictimes.indiatimes.com/tech/technology/why-ai-bolt-ons-wont-help-it-cybersecurity-weather-this-storm/articleshow/128718494.cms
+source_url: https://economictimes.indiatimes.com/tech/technology/why-ai-bolt-ons-wont-help-it-cybersecurity-weather-this-storm/articleshow/128718494.cms
 urlToImage: https://img.etimg.com/thumb/width-1200,height-900,imgsize-108366,resizemode-75,msid-128718494/tech/technology/why-ai-bolt-ons-wont-help-it-cybersecurity-weather-this-storm.jpg
 urlToImageBackup: https://img.etimg.com/thumb/width-1200,height-900,imgsize-108366,resizemode-75,msid-128718494/tech/technology/why-ai-bolt-ons-wont-help-it-cybersecurity-weather-this-storm.jpg
 ---

@@ -4,7 +4,6 @@ slug: 'lupa-s-nadhledem'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - Hodboď z Lupy.cz napsal zprávu o růstu českého internetového trhu.
 - Zpráva se ve skutečnosti týká obratu zboží prodaného online.

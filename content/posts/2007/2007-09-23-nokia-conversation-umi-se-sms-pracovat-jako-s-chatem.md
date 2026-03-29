@@ -4,7 +4,6 @@ slug: 'nokia-conversation-umi-se-sms-pracovat-jako-s-chatem'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - SMS klienty standardně řadí zprávy dle data doručení.
 - Konverzační řazení SMS shlukuje zprávy podle adresáta, pak data.

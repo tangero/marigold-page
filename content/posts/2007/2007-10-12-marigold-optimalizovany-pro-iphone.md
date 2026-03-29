@@ -4,7 +4,6 @@ slug: 'marigold-optimalizovany-pro-iphone'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Plugin pro WordPress optimalizuje vzhled webu Marigold pro iPhone.
 - Marigold je jeden z prvních českých serverů optimalizovaných pro iPhone.

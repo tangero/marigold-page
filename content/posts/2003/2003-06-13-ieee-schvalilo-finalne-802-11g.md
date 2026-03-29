@@ -4,7 +4,6 @@ slug: 'ieee-schvalilo-finalne-802-11g'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - g standard byl definitivně schválen IEEE.
 - NetGear vydal update firmware pro produkty splňující standard.

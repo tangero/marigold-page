@@ -4,7 +4,6 @@ slug: 'co-jeste-do-mobilu-co-takhle-fm-vysilac'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - MobilMania anketa upřednostňuje MP3 přehrávač před fotoaparátem v mobilních telefonech.
 - Sandeep navrhuje FM vysílač v mobilu pro vysílání hudby nebo hovorů.

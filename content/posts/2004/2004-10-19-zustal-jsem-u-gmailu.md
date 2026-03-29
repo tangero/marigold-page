@@ -4,7 +4,6 @@ slug: 'zustal-jsem-u-gmailu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Runbox předplatné nebylo obnoveno, autor přešel na Gmail a je spokojen.
 - Offline přístup k poště autor nepostrádá, počítač používá jako psací stroj.

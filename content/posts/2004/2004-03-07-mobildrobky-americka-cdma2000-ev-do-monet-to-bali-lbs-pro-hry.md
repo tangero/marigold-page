@@ -4,7 +4,6 @@ slug: 'mobildrobky-americka-cdma2000-ev-do-monet-to-bali-lbs-pro-hry'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Monet Mobile Network, první americká CDMA2000 1x EV-DO síť, končí provoz 2. dubna
   2004.

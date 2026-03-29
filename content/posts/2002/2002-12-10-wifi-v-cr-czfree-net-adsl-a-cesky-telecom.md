@@ -4,7 +4,6 @@ slug: 'wifi-v-cr-czfree-net-adsl-a-cesky-telecom'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - CZFree.Net je experimentální platforma s užitkem pro technicky erudované jedince
   v lokalitách.

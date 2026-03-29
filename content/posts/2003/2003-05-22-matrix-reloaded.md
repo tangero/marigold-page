@@ -4,7 +4,6 @@ slug: 'matrix-reloaded'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Lopo zajistil hromadu lístků na předpremiéru Matrixu v kině.
 - Autor lituje nezachycení vlivu fantasy filmů na mytologii v dřívější práci.

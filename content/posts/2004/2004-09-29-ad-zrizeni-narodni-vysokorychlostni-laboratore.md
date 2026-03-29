@@ -4,7 +4,6 @@ slug: 'ad-zrizeni-narodni-vysokorychlostni-laboratore'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Peterka se věnuje Národní broadband strategii na Lupa.cz a DigiWeb.cz.
 - Národní vysokorychlostní laboratoř z Národní broadband strategie byla zrušena.

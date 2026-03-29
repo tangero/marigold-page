@@ -4,7 +4,6 @@ slug: 'tak-wifi-kniha-se-jiz-expeduje'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Balík knih Bezdrátové sítě WiFi dorazil a expeduje se objednavatelům.
 - Kniha se nevešla do původních obálek, musely se pořídit nové.

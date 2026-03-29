@@ -7,7 +7,6 @@ categories:
 - Příběhy
 
   '
-published: true
 summary_points:
 - Autor preferuje osobní přání před hromadnými a PFkami.
 - Autor odešel ze Streamu kvůli častým změnám vedení.

@@ -4,7 +4,6 @@ slug: 'nokia-770-internet-tablet'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Nokia vyvinula tablet 770 s Linuxem a prostředím Maemo.
 - Tablet Nokia 770 se připojuje přes WiFi nebo Bluetooth, ne GSM.

@@ -4,7 +4,6 @@ slug: 'cra-nabidly-bluetone-wireless-internet-za-par-babek'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - České Radiokomunikace nabízí WiFi internet BlueTone Wireless za necelou tisícikorunu.
 - ČRa konkuruje Contactelu, své dceřiné společnosti, což je dle autora nesmyslné.

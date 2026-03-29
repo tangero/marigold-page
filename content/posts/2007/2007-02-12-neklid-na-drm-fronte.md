@@ -4,7 +4,6 @@ slug: 'neklid-na-drm-fronte'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - DRM komplikuje život legálním majitelům hudby více než pirátům.
 - Steve Jobs kritizoval nutnost DRM u digitální hudby oproti CD.

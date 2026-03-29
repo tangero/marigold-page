@@ -4,7 +4,6 @@ slug: 'male-interni-sdeleni'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Marigold titulní stránka zprovozněna kvůli akreditaci autora na 3GSM kongresu.
 - Autor přiznává pracovní přetížení, ale vyřizuje staré e-maily a SMS.

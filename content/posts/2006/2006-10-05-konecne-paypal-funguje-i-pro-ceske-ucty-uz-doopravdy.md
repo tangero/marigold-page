@@ -4,7 +4,6 @@ slug: 'konecne-paypal-funguje-i-pro-ceske-ucty-uz-doopravdy'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - PayPal konečně umožňuje českým uživatelům přijímat platby v cizích měnách.
 - PayPal usnadňuje mikroplatby s nižšími poplatky než SMS platby.

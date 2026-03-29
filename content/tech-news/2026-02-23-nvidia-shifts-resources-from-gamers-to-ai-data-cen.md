@@ -18,7 +18,7 @@ source:
   id: null
   name: Geeky Gadgets
 title: NVIDIA přesouvá zdroje od herních uživatelů k AI datovým centrům
-url: https://www.geeky-gadgets.com/nvidia-ai-over-gamers/
+source_url: https://www.geeky-gadgets.com/nvidia-ai-over-gamers/
 urlToImage: https://www.geeky-gadgets.com/wp-content/uploads/2026/02/pc-gaming-subscription-billing-page_optimized.jpg
 urlToImageBackup: https://www.geeky-gadgets.com/wp-content/uploads/2026/02/pc-gaming-subscription-billing-page_optimized.jpg
 ---

@@ -4,7 +4,6 @@ slug: 'lupa-o-telco-licenci-a-czfree-cz'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Článek na Lupě řeší nutnost telekomunikační licence pro veřejné sítě.
 - ČTÚ vyžaduje, aby síť nebyla přístupná komukoliv za úplatu.

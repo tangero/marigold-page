@@ -4,7 +4,6 @@ slug: 'sef-china-mobile-trh-s-mobilni-hudbou-predstihl-tradicni-prodej'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - China Mobile zaznamenal 15 milionů stažení hitu oproti milionu prodaných CD.
 - Arun Sarin předpovídá malý význam technologie WiMax oproti HSDPA.

@@ -4,7 +4,6 @@ slug: 'cesko-vyhralo-arbitraz-o-tricet-milionu-dolaru-za-mobilni-licence'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Česká republika vyhrála arbitráž s Williamem Nagelem ohledně mobilních licencí.
 - Nagel žaloval stát kvůli Českým radiokomunikacím a požadoval 30 milionů dolarů.

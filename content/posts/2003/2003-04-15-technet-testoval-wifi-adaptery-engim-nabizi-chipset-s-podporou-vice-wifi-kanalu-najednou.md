@@ -4,7 +4,6 @@ slug: 'technet-testoval-wifi-adaptery-engim-nabizi-chipset-s-podporou-vice-wifi-
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Technet recenzuje USB a PCMCIA WiFi adaptéry HP, Bluetake a OvisLink.
 - Engim představil čipovou sadu pro WiFi s podporou tří až devíti kanálů.

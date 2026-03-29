@@ -4,7 +4,6 @@ slug: 'virtualwifi-virtualizace-wifi-karet-ano-od-microsoftu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - VirtualWiFi virtualizuje WiFi karty pro připojení do více sítí současně.
 - Microsoft vyvinul VirtualWiFi pro připojení do více ad-hoc nebo internetových sítí.

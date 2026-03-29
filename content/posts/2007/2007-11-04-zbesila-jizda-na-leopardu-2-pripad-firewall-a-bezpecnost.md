@@ -4,7 +4,6 @@ slug: 'zbesila-jizda-na-leopardu-2-pripad-firewall-a-bezpecnost'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Heise Security kritizoval firewall Leopardu, Apple nereagoval.
 - Leopard firewall není automaticky aktivní, což je diskutabilní.

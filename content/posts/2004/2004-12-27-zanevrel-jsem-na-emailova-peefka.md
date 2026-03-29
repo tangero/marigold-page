@@ -4,7 +4,6 @@ slug: 'zanevrel-jsem-na-emailova-peefka'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - PF maily o svátcích jsou často neosobní, hromadné a s velkými přílohami.
 - Autor preferuje osobní zprávy (email, SMS, ICQ) před hromadnými PF maily.

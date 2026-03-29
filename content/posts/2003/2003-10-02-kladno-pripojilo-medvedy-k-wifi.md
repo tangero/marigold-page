@@ -4,7 +4,6 @@ slug: 'kladno-pripojilo-medvedy-k-wifi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Kladno nabízí bezplatné WiFi připojení v zámecké zahradě.
 - Primátor Volf plánuje další rozšíření bezplatné WiFi sítě.

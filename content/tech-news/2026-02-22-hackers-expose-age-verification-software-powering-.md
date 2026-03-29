@@ -17,7 +17,7 @@ source:
   id: null
   name: Therage.co
 title: Hackeři odhalili software pro ověřování věku pohánějící síť sledování
-url: https://www.therage.co/persona-age-verification/
+source_url: https://www.therage.co/persona-age-verification/
 urlToImage: https://www.therage.co/content/images/2026/02/the-rage-persona-age-verification.png
 urlToImageBackup: https://www.therage.co/content/images/2026/02/the-rage-persona-age-verification.png
 ---

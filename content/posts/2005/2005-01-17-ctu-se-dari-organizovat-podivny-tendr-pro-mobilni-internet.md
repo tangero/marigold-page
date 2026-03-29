@@ -4,7 +4,6 @@ slug: 'ctu-se-dari-organizovat-podivny-tendr-pro-mobilni-internet'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - ČTÚ tendr na mobilní internet v pásmu 872 MHz má našponované termíny.
 - Složení peněz pro vstup do tendru mělo šibeniční termín.

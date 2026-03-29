@@ -4,7 +4,6 @@ slug: 'ntt-docomo-4g-zapomente-na-to'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - NTT DoCoMo prezentovala výhled mobilních sítí, zejména 3G, na tiskové konferenci.
 - Keiji Tachikawa, president NTT DoCoMo, zlepšil dojem po nudné prezentaci v dotazech.

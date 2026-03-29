@@ -4,7 +4,6 @@ slug: 'fotografie-z-keni-aneb-mombasa-v-obrazech'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Fotky z Keni ukazují hlavně zvířata, protože historických památek je málo.
 - Mombasa je zastoupena čtyřiceti fotografiemi z výletu na východoafrické pobřeží.

@@ -4,7 +4,6 @@ slug: 'veru-nevim-jak-bude-cesky-telecom-celit-lavine-komunitnich-siti'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Komunitní sítě pronikají i do malých vesnic, kde nabízejí levnější internet.
 - Místní nadšenci budují komunitní sítě, čímž konkurují velkým poskytovatelům.

@@ -4,7 +4,6 @@ slug: 'lomitko-takovy-pokus-o-video-podcast'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Lomítko je nový video podcast, inspirovaný Diggnation a Digit.
 - První díl Lomítka má 37 minut a pojednává o IT Crowd, iPodech, Flashi a Twitteru.

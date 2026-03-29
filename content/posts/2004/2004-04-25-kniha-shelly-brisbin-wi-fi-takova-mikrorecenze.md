@@ -4,7 +4,6 @@ slug: 'kniha-shelly-brisbin-wi-fi-takova-mikrorecenze'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Kniha Wi-fi od Shelly Brisbin je určena pro absolutní začátečníky.
 - Kniha je dva roky stará, což je znát na zastaralé technice.

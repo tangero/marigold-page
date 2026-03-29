@@ -20,7 +20,7 @@ source:
   name: CNBC
 title: 'IBM je nejnovější obětí AI: Akcie klesají o 11 % kvůli hrozbě z nástroje Anthropic
   pro COBOL'
-url: https://www.cnbc.com/2026/02/23/ibm-is-the-latest-ai-casualty-shares-are-tanking-on-anthropic-cobol-threat.html
+source_url: https://www.cnbc.com/2026/02/23/ibm-is-the-latest-ai-casualty-shares-are-tanking-on-anthropic-cobol-threat.html
 urlToImage: https://image.cnbcfm.com/api/v1/image/108257481-1769516811771-gettyimages-2250111740-US_STOCKS.jpeg?v=1771874166&w=1920&h=1080
 urlToImageBackup: https://image.cnbcfm.com/api/v1/image/108257481-1769516811771-gettyimages-2250111740-US_STOCKS.jpeg?v=1771874166&w=1920&h=1080
 ---

@@ -17,7 +17,7 @@ source:
   name: Ibtimes.com.au
 title: Akcie Micron Technology (MU) stoupají blízko 420 USD uprostřed boomu pamětí
   pro AI
-url: https://www.ibtimes.com.au/micron-technology-mu-stock-climbs-near-420-amid-ai-memory-boom-1862043
+source_url: https://www.ibtimes.com.au/micron-technology-mu-stock-climbs-near-420-amid-ai-memory-boom-1862043
 urlToImage: https://d.ibtimes.com.au/en/full/1839199/earnings-news-micron-technology-inc-nasdaq-mu.jpg
 urlToImageBackup: https://d.ibtimes.com.au/en/full/1839199/earnings-news-micron-technology-inc-nasdaq-mu.jpg
 ---

@@ -4,7 +4,6 @@ slug: 'nejvice-czechtek-poskodil-policii-ukazal-ji-jako-neduveryhodnou'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Policista David a Eva z CzechTeku by neměli mít trvalé následky.
 - CzechTek znevěrohodnil policii a rozdělil společnost zhruba půl na půl.

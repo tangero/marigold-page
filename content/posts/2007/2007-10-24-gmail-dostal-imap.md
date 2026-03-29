@@ -4,7 +4,6 @@ slug: 'gmail-dostal-imap'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Gmail nově podporuje IMAP protokol pro přístup k emailům.
 - Aktivace IMAP se provádí v nastavení Gmailu v sekci Forwarding and POP/IMAP.

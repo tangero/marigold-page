@@ -4,7 +4,6 @@ slug: 'soukrome-astrologician-a-me-zacatky-na-internetu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Mobil server vznikal v době nástupu GSM v ČR, roku 1996.
 - Autor získal internetové připojení od INECu pro komunikaci a získávání podkladů.

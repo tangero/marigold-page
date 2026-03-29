@@ -4,7 +4,6 @@ slug: 'tak-jsme-dorazili-do-cannes-1524'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - 'Cannes: Čtyřčlenná výprava dorazila do Cannes s přestupy přes Paříž a Marsei.'
 - 'Monako: Před registrací v Cannes plánují navštívit Monako.'

@@ -4,7 +4,6 @@ slug: 'nejvyhodnejsi-reklama-google-adwords'
 author: Noname
 
   '
-published: true
 summary_points:
 - Google dominuje vyhledávání mezi IT profesionály, dosahuje i 70% návštěvnosti.
 - AdWords dokáže zvýšit návštěvnost webů, i netechnologických, desetinásobně.

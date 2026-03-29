@@ -19,7 +19,7 @@ source:
   name: Boston Herald
 title: 'Starlink Elona Muska: Aerolinky jako Southwest a United přecházejí na satelitního
   poskytovatele internetu'
-url: https://www.bostonherald.com/2026/02/21/elon-musks-starlink-airlines-like-southwest-united-make-the-switch-to-satellite-internet-provider/
+source_url: https://www.bostonherald.com/2026/02/21/elon-musks-starlink-airlines-like-southwest-united-make-the-switch-to-satellite-internet-provider/
 urlToImage: https://www.bostonherald.com/wp-content/uploads/2026/02/BIZ-STARLINK-AIRLINES-EXPLAINER-FILEPIC-OS.jpg?w=1024&h=910
 urlToImageBackup: https://www.bostonherald.com/wp-content/uploads/2026/02/BIZ-STARLINK-AIRLINES-EXPLAINER-FILEPIC-OS.jpg?w=1024&h=910
 ---

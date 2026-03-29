@@ -4,7 +4,6 @@ slug: 'jak-pripojit-konektor-na-kabel'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - VF kabel vyžaduje kvalitní a důkladné propájení konektoru.
 - Důkladnost a detaily zajistí dlouhou životnost kabelu a kvalitu signálu.

@@ -4,7 +4,6 @@ slug: 'google-gulp-napoj-ktery-zlepsi-vase-schopnosti-organizovat-informace'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Google Gulp je aprílový žert, nápoj údajně zlepšující organizaci informací v mozku.
 - Autor by si Google Gulp sám objednal, což naznačuje úspěch žertu.

@@ -4,7 +4,6 @@ slug: 't-mobile-kupuje-rakousky-metronet-a-tak-vubec-o-profesionalizaci-weblogu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - T-Mobile Rakousko koupil Metronet, největšího rakouského provozovatele WiFi hotspotů.
 - Wifinetnews sleduje autor od počátku a oceňuje jeho vývoj od blogu k webu.

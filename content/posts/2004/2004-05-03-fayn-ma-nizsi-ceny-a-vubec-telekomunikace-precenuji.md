@@ -4,7 +4,6 @@ slug: 'fayn-ma-nizsi-ceny-a-vubec-telekomunikace-precenuji'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - DPH sjednoceno na 19%, telekomunikační služby zdánlivě zlevnily o 3%.
 - Fayn snížil cenu meziměstského volání na 1,50 Kč za minutu.

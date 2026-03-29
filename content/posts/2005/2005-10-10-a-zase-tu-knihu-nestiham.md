@@ -4,7 +4,6 @@ slug: 'a-zase-tu-knihu-nestiham'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor nestíhá dopsat praktického průvodce o WiFi s termínem za pět dní.
 - Do konce listopadu autor musí zredigovat a učesat knihu Flotila.

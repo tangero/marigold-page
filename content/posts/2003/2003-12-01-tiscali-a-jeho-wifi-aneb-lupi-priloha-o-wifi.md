@@ -4,7 +4,6 @@ slug: 'tiscali-a-jeho-wifi-aneb-lupi-priloha-o-wifi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Lupa vydala komerční přílohu o WiFi, sponzorovanou firmou Tiscali.
 - Tiscali aktuálně provozuje čtyři WiFi hotspoty v Praze, Brně, Ostravě a Olomouci.

@@ -4,7 +4,6 @@ slug: 'dalsi-vyhledavacka-wifi-signalu-od-kensingtonu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Kensington WiFi Finder detekuje WiFi signál 802.11b/g pomocí tří diod.
 - Dosah WiFi Finderu je 70-100 metrů, určený primárně pro správce sítí.

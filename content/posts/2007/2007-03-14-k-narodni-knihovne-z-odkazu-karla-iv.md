@@ -4,7 +4,6 @@ slug: 'k-narodni-knihovne-z-odkazu-karla-iv'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Národní knihovna vyvolává diskuze podobně jako přestavba chrámu sv. Víta.
 - Čeští páni roku 1356 protestovali proti plánům Parléře na dostavbu chrámu.

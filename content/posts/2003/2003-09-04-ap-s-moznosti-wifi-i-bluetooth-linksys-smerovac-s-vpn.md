@@ -4,7 +4,6 @@ slug: 'ap-s-moznosti-wifi-i-bluetooth-linksys-smerovac-s-vpn'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Possio a IPWireless kombinují bluetooth a WiFi přístup v novém bodu.
 - WRV54G od Linksys je širokopásmový směrovač s VPN podporou.

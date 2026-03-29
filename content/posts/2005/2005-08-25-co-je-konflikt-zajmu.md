@@ -4,7 +4,6 @@ slug: 'co-je-konflikt-zajmu'
 author: Noname
 
   '
-published: true
 summary_points:
 - Konfliktu zájmů nelze zabránit, proto je klíčové jej hlásit a zvážit jeho vliv na
   hlasování.

@@ -4,7 +4,6 @@ slug: 'sympaticky-stary-pan'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Smrt papeže Jana Pavla II připomíná význam církve jako protiváhy státu.
 - Církev nabízí vznešené ideály na rozdíl od přízemních skutků státních zástupců.

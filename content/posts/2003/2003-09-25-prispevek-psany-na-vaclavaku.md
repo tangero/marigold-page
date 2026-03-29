@@ -4,7 +4,6 @@ slug: 'prispevek-psany-na-vaclavaku'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor píše příspěvek z Václavského náměstí v Praze, využívaje hotspot.
 - KFC na Václavském náměstí má nefunkční WiFi připojení.

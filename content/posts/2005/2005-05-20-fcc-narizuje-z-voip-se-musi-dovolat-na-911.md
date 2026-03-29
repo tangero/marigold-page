@@ -4,7 +4,6 @@ slug: 'fcc-narizuje-z-voip-se-musi-dovolat-na-911'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - FCC nařídila VoIP službám zpřístupnit volání na lokální centrum 911 do listopadu.
 - VoIP operátoři budou muset platit příspěvek na provoz 911 linky a poskytovat polohu

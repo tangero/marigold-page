@@ -4,7 +4,6 @@ slug: 'tak-jsme-si-dali-mensi-havarku-a-uz-to-zase-snad-chvili-pojede'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Blog CMS nová verze způsobila zahlcení MySQL a pád serveru.
 - Přesun na Xhost.cz vyřešil problémy s funkčností BlogCMS a fotogalerie.

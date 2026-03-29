@@ -4,7 +4,6 @@ slug: 'valka-v-iraku-zastavila-i-wifi-novinky'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Invaze do Iráku zaměstnává americké zpravodajství více než telekomunikační novinky.
 - Americká burza reagovala poklesem kurzu akcií na průběh invaze do Iráku.

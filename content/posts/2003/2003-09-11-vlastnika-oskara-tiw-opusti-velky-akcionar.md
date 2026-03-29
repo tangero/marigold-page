@@ -4,7 +4,6 @@ slug: 'vlastnika-oskara-tiw-opusti-velky-akcionar'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - TIW, vlastník Oskara v Česku, má významného akcionáře, který prodává svůj podíl.
 - Caisse de depot et placement du Québec prodává 14% podíl v TIW kvůli ztrátové investici.

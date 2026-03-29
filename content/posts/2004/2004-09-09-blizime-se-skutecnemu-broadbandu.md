@@ -4,7 +4,6 @@ slug: 'blizime-se-skutecnemu-broadbandu'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - UPC plánuje zvýšení rychlosti internetových přípojek na 1,5 a 2 Mb/s.
 - Autor nečekal tak rychlý nástup broadbandu v domácnostech.

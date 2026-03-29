@@ -4,7 +4,6 @@ slug: 'dneska-to-bude-slabsi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Psaní článků vyžadovalo vypnutí rušivých aplikací pro soustředění na souvislý text.
 - Teleinform, encyklopedie komunikačních technologií od VUT Brno, nabízí rychlou orientaci

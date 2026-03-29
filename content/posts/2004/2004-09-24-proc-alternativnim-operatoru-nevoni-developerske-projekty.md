@@ -4,7 +4,6 @@ slug: 'proc-alternativnim-operatoru-nevoni-developerske-projekty'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor očekával konkurenci alternativních operátorů v novém bydlišti, ale marně.
 - Developeři jako IPB Real preferují spolupráci s Českým Telecomem a UPC.

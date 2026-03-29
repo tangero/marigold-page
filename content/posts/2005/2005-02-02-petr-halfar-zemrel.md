@@ -4,7 +4,6 @@ slug: 'petr-halfar-zemrel'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Petr Halfar, zakladatel ha-vel a.s., zemřel tragicky před 30. narozeninami.
 - Firma ha-vel a.s. expandovala z lokálního provajdera na významného operátora.

@@ -4,7 +4,6 @@ slug: 'metro-se-blizi-k-letisti'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - Metro M1 vykolejilo na Zličíně, prorazilo zarážedlo a plot.
 - Souprava metra projela návěst Stůj před vykolejením.

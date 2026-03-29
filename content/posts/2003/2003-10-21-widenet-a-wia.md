@@ -4,7 +4,6 @@ slug: 'widenet-a-wia'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WideNet převzal pilotní síť hotspotů od společnosti WIA.
 - WIA získala podíl ve WideNetu výměnou za předanou síť.

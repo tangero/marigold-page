@@ -4,7 +4,6 @@ slug: 'wifi-ve-vlaku-zabezpeceni-wifi-siti-tedy-nic-moc'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WiFi ve vlacích propojuje Kodaň a Göteborg díky satelitu a GSM síti.
 - Otevřené WiFi sítě jsou často nezabezpečené, 72% nepoužívá WEP.

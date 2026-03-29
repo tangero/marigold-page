@@ -4,7 +4,6 @@ slug: 'mms-multimedialni-sms-mohou-dopadnout-spatne'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Dan Dočekal shrnul na Pooh.cz zprávu varující před přehnaným očekáváním od MMS.
 - MMS zprávy jsou drahé a složité, což brání jejich masovému rozšíření.

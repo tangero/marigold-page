@@ -15,7 +15,7 @@ source:
   id: null
   name: OilPrice.com
 title: Jsou autonomní vozy konečně připraveny pro masové nasazení?
-url: https://oilprice.com/Energy/Energy-General/Are-Self-Driving-Cars-Finally-Ready-for-Prime-Time.html
+source_url: https://oilprice.com/Energy/Energy-General/Are-Self-Driving-Cars-Finally-Ready-for-Prime-Time.html
 urlToImage: https://d32r1sh890xpii.cloudfront.net/article/718x300/2026-02-19_r3mwh1iyqw.jpg
 urlToImageBackup: https://d32r1sh890xpii.cloudfront.net/article/718x300/2026-02-19_r3mwh1iyqw.jpg
 ---

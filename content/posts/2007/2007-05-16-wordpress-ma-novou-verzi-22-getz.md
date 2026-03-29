@@ -4,7 +4,6 @@ slug: 'wordpress-ma-novou-verzi-22-getz'
 author: Noname
 
   '
-published: true
 summary_points:
 - Marigold běží 6 měsíců na redakčním systému Wordpress.
 - Wordpress na Marigoldu zablokoval přes 100 000 spamů.

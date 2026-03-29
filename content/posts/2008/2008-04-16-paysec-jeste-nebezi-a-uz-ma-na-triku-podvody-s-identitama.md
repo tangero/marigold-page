@@ -7,7 +7,6 @@ categories:
 - Startupy
 
   '
-published: true
 summary_points:
 - PaySec propagovala PR agentura Bison & Rose falešnými blogy.
 - Autor kritizuje PaySec pro primitivnost a oddělení účtů.

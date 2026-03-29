@@ -4,7 +4,6 @@ slug: 'wia-pridala-dalsi-hotspoty'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - VancoNet spustil dva nové WIA hotspoty ve Vodičkově ulici v Praze.
 - Do konce týdne přibudou tři další WIA hotspoty na Václavském náměstí.

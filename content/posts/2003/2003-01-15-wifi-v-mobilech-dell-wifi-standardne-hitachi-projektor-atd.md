@@ -4,7 +4,6 @@ slug: 'wifi-v-mobilech-dell-wifi-standardne-hitachi-projektor-atd'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Hitachi LCD projektor lze rozšířit o WiFi za 1500 USD.
 - Lufthansa testuje WiFi internet na palubě letadel za 35 dolarů.

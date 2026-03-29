@@ -4,7 +4,6 @@ slug: 'moje-narodni-broadband-strategie'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Broadband strategie, vládní dokument, podněcuje diskusi o dostupnosti broadband
   konektivity v ČR.

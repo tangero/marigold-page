@@ -8,7 +8,6 @@ categories:
 - CDMA
 
   '
-published: true
 summary_points:
 - U:fon nabízí mobilní telefon s voláním a SMS, ale bez internetu, MMS a roamingu.
 - Ceny U:fona jsou nízké, blížící se nákladům, s voláním zdarma v síti.

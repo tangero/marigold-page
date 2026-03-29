@@ -4,7 +4,6 @@ slug: 'pomala-smrt-emailu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Přesunul jsem email z Gmailu na ProtonMail kvůli šifrování a nechuti k Google.
 - Většina emailů jsou automatické zprávy, nabídky a newslettery, ne osobní komunikace.

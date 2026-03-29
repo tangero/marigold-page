@@ -4,7 +4,6 @@ slug: 'panika-na-blogerske-kurze'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Blogovací platformy zpřístupnily blogování širšímu okruhu uživatelů, včetně náctiletých.
 - Nové blogy vyvolaly obavy starších blogerů o kvalitu a budoucnost blogů.

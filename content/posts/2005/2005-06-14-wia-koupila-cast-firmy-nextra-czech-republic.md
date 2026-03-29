@@ -4,7 +4,6 @@ slug: 'wia-koupila-cast-firmy-nextra-czech-republic'
 author: Noname
 
   '
-published: true
 summary_points:
 - WIA kupuje bezdrátovou síť Nextry v pásmech 2,4 GHz a 5 GHz.
 - WIA WiFi nabízí flexibilní připojení s možností změny bodu a platby.

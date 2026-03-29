@@ -4,7 +4,6 @@ slug: 'jeste-jednou-k-foceni-a-k-ochrankam'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Focení v zakázaných prostorech je pro autora důležité, děje se běžně.
 - Incident DarkMastera a Kostěje rozdělil názory na provokaci a práva ochranky.

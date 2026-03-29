@@ -4,7 +4,6 @@ slug: 'nakoupit-internetovou-reklamu-neni-takova-sranda'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Stream spouští nový projekt s marketingovou podporou a rozpočtem.
 - PPC systémy jako Sklik a AdWords jsou pro masový zásah drahé.

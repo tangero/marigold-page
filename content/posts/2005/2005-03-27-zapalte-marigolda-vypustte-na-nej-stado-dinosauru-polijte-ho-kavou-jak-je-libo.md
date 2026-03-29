@@ -4,7 +4,6 @@ slug: 'zapalte-marigolda-vypustte-na-nej-stado-dinosauru-polijte-ho-kavou-jak-je
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Netdisaster.com umožňuje online devastaci webu Marigold různými způsoby.
 - Bombardéry, dinosauři a UFO jsou možnosti pro zničení webu Marigold.

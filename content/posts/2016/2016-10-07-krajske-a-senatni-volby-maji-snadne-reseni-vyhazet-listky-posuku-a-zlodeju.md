@@ -4,7 +4,6 @@ slug: 'krajske-a-senatni-volby-maji-snadne-reseni-vyhazet-listky-posuku-a-zlodej
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Senátní a krajské volby vyžadovaly studium programů třiceti subjektů.
 - Autor eliminoval kandidáty s negativními postoji, jako zloděje a panikáře.

@@ -4,7 +4,6 @@ slug: 'proc-dialery-nezrusit'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Operátoři chtějí bojovat proti podvodným dialerům, ale řešení nemusí být stoprocentní.
 - Dialery (připojení přes modem a 976) nemají obchodní smysl a lze je nahradit linkou

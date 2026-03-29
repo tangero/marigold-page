@@ -4,7 +4,6 @@ slug: 'joost-i-pro-mac-jen-intelovskeho'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Joost vydal betaverzi P2P programu pro Mac OS X, ale pouze pro Intel Macy.
 - Joost i bez přehrávání videa trvale stahuje data rychlostí přes 150 KB/s.

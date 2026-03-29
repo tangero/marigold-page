@@ -4,7 +4,6 @@ slug: 'starzone-cz-filmy-na-internetu-podle-telecomu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Český Telecom poskytuje obsah na webu StarZone.cz, který nabízí filmy.
 - StarZone nabízí filmy za 40 Kč za shlédnutí, celodenní licence stojí 50 Kč.

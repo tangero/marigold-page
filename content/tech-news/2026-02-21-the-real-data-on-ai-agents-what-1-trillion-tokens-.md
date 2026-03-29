@@ -21,7 +21,7 @@ source:
   id: null
   name: Saastr.com
 title: 'Skutečná data o AI agentech: Co odhaluje 1 bilion tokenů denně podle COO OpenRouteru'
-url: https://www.saastr.com/the-real-data-on-ai-agents-what-1-trillion-tokens-a-day-reveals-with-openrouters-coo/
+source_url: https://www.saastr.com/the-real-data-on-ai-agents-what-1-trillion-tokens-a-day-reveals-with-openrouters-coo/
 urlToImage: https://i0.wp.com/www.saastr.com/wp-content/uploads/2026/02/AI-Agents-Thumbnail-3-scaled.jpg?fit=1000%2C565&quality=70&ssl=1
 urlToImageBackup: https://i0.wp.com/www.saastr.com/wp-content/uploads/2026/02/AI-Agents-Thumbnail-3-scaled.jpg?fit=1000%2C565&quality=70&ssl=1
 ---

@@ -24,7 +24,7 @@ source:
   name: SiliconANGLE News
 title: Sam Altman brání spotřebu zdrojů AI a zesměšňuje Muskův plán datových center
   ve vesmíru
-url: https://siliconangle.com/2026/02/22/sam-altman-defends-ais-resource-consumption-ridicules-musks-plan-put-data-centers-space/
+source_url: https://siliconangle.com/2026/02/22/sam-altman-defends-ais-resource-consumption-ridicules-musks-plan-put-data-centers-space/
 urlToImage: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/21470472099_8e78d53ecf_k-1.jpg
 urlToImageBackup: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/21470472099_8e78d53ecf_k-1.jpg
 ---

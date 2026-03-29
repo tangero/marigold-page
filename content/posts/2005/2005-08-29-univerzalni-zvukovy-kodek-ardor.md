@@ -4,7 +4,6 @@ slug: 'univerzalni-zvukovy-kodek-ardor'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - ARDOR je adaptibilní zvukový kodek, který mění bitrate a šířku pásma dle zvuku.
 - Univerzální kodeky, jako ARDOR, zlepšují kvalitu VoIP a hlasové komunikace.

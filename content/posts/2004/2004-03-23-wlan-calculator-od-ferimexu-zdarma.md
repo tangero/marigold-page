@@ -4,7 +4,6 @@ slug: 'wlan-calculator-od-ferimexu-zdarma'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WLAN Calculator od Ferimexu zdarma počítá SOM pro ověření funkčnosti WiFi trasy.
 - SOM hodnota nad 20 dB indikuje provozuschopnou WiFi trasu dle kalkulátoru.

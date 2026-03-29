@@ -4,7 +4,6 @@ slug: 'maly-upc-chello-update-k-diskusim-a-limitum'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - UPC Chello diskusní fórum funguje na adrese home.ces.chello.cz, přístupné přes odkaz
   "Diskuse".

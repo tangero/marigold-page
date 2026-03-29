@@ -4,7 +4,6 @@ slug: 'prevod-domeny-aneb-nic-za-opicemi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Doména grimoar.cz byla převedena z autora na původního kamaráda.
 - Překvapením byl proces generování formuláře pro ověření převodu domény.

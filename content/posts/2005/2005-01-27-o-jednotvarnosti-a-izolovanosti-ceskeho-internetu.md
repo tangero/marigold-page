@@ -4,7 +4,6 @@ slug: 'o-jednotvarnosti-a-izolovanosti-ceskeho-internetu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Český internet je izolovaný a jednotvárný, opakuje stejná témata.
 - Technické servery píší o stejném, chybí jim originalita a různorodost.

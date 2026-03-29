@@ -7,7 +7,6 @@ categories:
 - eKnihy
 
   '
-published: true
 summary_points:
 - Koncernová pětiletka prodala 228 ebooků, nejvíce přes Palmknihy (172) a Smashwords
   (54).

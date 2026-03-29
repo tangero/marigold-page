@@ -4,7 +4,6 @@ slug: 'vodafone-zrusil-3g-a-prisel-o-zakaznika'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor strávil pět let u Oskara/Vodafone s průměrnou měsíční útratou 2000 Kč.
 - Vodafone zaostával v progresivních datových službách, což autora štvalo.

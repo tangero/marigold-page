@@ -4,7 +4,6 @@ slug: 'story-o-sousedskych-sitich-11'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - Směrovač Duron 700 Mhz nahrazen Celeronem 450 Mhz za méně než 4000 Kč.
 - Nízká rychlost internetu bude řešena navýšením kapacity ze strany skorotchána.

@@ -2,7 +2,6 @@
 slug: 'na-metoo-je-zajimave-kolik-lidi-se-tvari-jak-problematicke-je-poznat-obtezovani'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - Sexuální obtěžování je v Česku rozšířené a tolerované.
 - Inteligentní lidé často nerozpoznají hranici mezi seznamováním a obtěžováním.

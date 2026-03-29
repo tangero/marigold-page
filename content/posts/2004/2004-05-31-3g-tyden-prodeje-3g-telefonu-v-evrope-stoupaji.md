@@ -4,7 +4,6 @@ slug: '3g-tyden-prodeje-3g-telefonu-v-evrope-stoupaji'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - G telefony v Evropě prodaly v dubnu 2004 přes 225 000 kusů.
 - Nokia a LG zvýšily prodeje 3G telefonů uvedením zajímavých modelů.

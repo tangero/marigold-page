@@ -4,7 +4,6 @@ slug: 'trocha-mariekonomiky-1705'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Marigold v roce 2004 utržil za reklamu 68 000 Kč, do června 2005 pak 92 000 Kč.
 - Příjmy z PPC reklamy na Marigold pokrývají náklady na odborné konference a materiály.

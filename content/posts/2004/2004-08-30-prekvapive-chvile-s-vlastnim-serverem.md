@@ -4,7 +4,6 @@ slug: 'prekvapive-chvile-s-vlastnim-serverem'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Radek Hulán upgradoval redakční systém Marigold na novější verzi.
 - Administrace Marigoldu se po upgradu přepnula do ruštiny.

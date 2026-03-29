@@ -4,7 +4,6 @@ slug: 'pozvanky-na-gmail-5-ks-k-dispozici'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Gmail pozvánky byly zdarma k dispozici na základě rychlé reakce v diskusi.
 - Pět Gmail pozvánek Google bylo rozděleno zájemcům prostřednictvím emailu.

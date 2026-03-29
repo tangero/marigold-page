@@ -4,7 +4,6 @@ slug: 'objektivni-a-konzistentni-zkuste-myslenkovy-experiment'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Kritické myšlení je často nahrazováno intuitivními preferencemi a racionalizacemi.
 - Myšlenkový experiment pomáhá ověřit názorovou konzistenci a nestrannost.

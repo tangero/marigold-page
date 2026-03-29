@@ -4,7 +4,6 @@ slug: 'teplotni-chladivosti-ku-potese-mysli'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Vedro v kanceláři znemožňuje autorovi soustředit se na práci pro Marigold.
 - Šachmatky, aplikace Ministerstva financí pro sestavování rozpočtu, zaujala autora.

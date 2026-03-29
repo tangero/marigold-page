@@ -4,7 +4,6 @@ slug: 'haps-high-altitude-platform-stations-aneb-internet-ze-vzduchu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - HASP systémy jsou základnové stanice ve výšce 3-22 km.
 - HAPS systémy využívají balóny a letadla pro distribuci internetového signálu.

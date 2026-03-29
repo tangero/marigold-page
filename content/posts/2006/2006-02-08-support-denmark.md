@@ -4,7 +4,6 @@ slug: 'support-denmark'
 author: Noname
 
   '
-published: true
 summary_points:
 - Patrick umístil na web odkaz na Support Denmark.
 - Autor upřednostňuje české produkty a nyní odmítá muslimské.

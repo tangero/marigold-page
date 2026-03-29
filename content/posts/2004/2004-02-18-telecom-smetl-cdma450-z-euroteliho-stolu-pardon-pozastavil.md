@@ -4,7 +4,6 @@ slug: 'telecom-smetl-cdma450-z-euroteliho-stolu-pardon-pozastavil'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Český Telecom zakázal Eurotelu pokračovat v přípravě sítě CDMA450, plánované na
   duben.

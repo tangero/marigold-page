@@ -18,7 +18,7 @@ source:
   name: CNBC
 title: Finská IQM se stane jednou z prvních evropských veřejně obchodovaných kvantových
   firem s valuací 1,8 miliardy dolarů
-url: https://www.cnbc.com/2026/02/23/finlands-iqm-listing-quantum-computing.html
+source_url: https://www.cnbc.com/2026/02/23/finlands-iqm-listing-quantum-computing.html
 urlToImage: https://image.cnbcfm.com/api/v1/image/108183656-1754669527774-gettyimages-2218892091-AFP_49Q43G8.jpeg?v=1764750717&w=1920&h=1080
 urlToImageBackup: https://image.cnbcfm.com/api/v1/image/108183656-1754669527774-gettyimages-2218892091-AFP_49Q43G8.jpeg?v=1764750717&w=1920&h=1080
 ---

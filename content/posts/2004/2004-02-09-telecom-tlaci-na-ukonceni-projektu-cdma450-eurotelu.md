@@ -4,7 +4,6 @@ slug: 'telecom-tlaci-na-ukonceni-projektu-cdma450-eurotelu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Eurotel zřejmě ukončí projekt CDMA450 kvůli tlaku Telecomu.
 - T-Mobile projevuje zájem o technologii CDMA450.

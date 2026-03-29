@@ -4,7 +4,6 @@ slug: 'sobotenka-goggles-flight-sim-a-ceske-ruby-on-rails'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor je nachlazený, ale musel prezentovat Imago na celofiremní akci.
 - Autor objevil webovou hru Goggles Flight Sim využívající Google Maps.

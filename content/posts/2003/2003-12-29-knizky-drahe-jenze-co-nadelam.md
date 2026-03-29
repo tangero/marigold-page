@@ -4,7 +4,6 @@ slug: 'knizky-drahe-jenze-co-nadelam'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor nakoupil na Amazonu knihu Introduction to 3G Mobile Communications od Juha
   Korhonena.

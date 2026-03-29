@@ -4,7 +4,6 @@ slug: 'adsl-stale-na-levacku'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Telecom plánoval ADSL pro klienty v únoru, ale operátoři protestují kvůli velkoobchodní
   nabídce.

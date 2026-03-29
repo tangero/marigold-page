@@ -4,7 +4,6 @@ slug: 'chci-bezdratovou-sit-2'
 author: Noname
 
   '
-published: true
 summary_points:
 - Bezdrátová síť využívá radiové vlny, Wi-Fi pracuje v bezlicenčním pásmu 2,4 GHz.
 - Wi-Fi produkty dle 802.11b by měly být interoperabilní, kupujte výrobky s Wi-Fi

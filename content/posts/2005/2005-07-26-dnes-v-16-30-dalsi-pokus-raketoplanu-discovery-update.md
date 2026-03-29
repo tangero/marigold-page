@@ -4,7 +4,6 @@ slug: 'dnes-v-16-30-dalsi-pokus-raketoplanu-discovery-update'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - NASA dnes v 16:39 plánuje druhý pokus o start mise STS-114 raketoplánu Discovery.
 - Přímý přenos startu Discovery bude vysílat NASA TV a portál přenosy.

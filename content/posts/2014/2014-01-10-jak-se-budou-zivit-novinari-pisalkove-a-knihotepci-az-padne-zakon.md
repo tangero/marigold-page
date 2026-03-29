@@ -6,7 +6,6 @@ audiooff: false
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - "Autorsk\xE1 ochrana proch\xE1z\xED zm\u011Bnami, co\u017E sni\u017Euje p\u0159\xED\
   jmy kreativc\u016F."

@@ -4,7 +4,6 @@ slug: 'tak-jsem-oslavil-svuj-prvni-akciovy-dvojnasobek'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Investice autora na americké burze dosáhly zisku 117 procent za rok.
 - Autor nedodržuje investiční poučky, investuje hlavně do telekomunikací a biotechnologií.

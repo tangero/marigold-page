@@ -4,7 +4,6 @@ slug: 'stream-tyden'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Stream implementoval přihlašování přes Seznam, uživatelé získali login @stream.cz.
 - Stream.cz změnilo logo na neutrální, opustilo slogan "Nejsme rybáři, jsme piráti".

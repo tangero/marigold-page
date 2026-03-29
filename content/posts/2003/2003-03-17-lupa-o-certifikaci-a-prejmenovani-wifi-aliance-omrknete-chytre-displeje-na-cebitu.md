@@ -4,7 +4,6 @@ slug: 'lupa-o-certifikaci-a-prejmenovani-wifi-aliance-omrknete-chytre-displeje-n
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Lupa článek Jiřího Peterky pojednává o WiFi certifikacích a změnách v názvosloví.
 - WECA se přejmenovala na WiFi Alianci, označení Wi-FI5 se ruší.

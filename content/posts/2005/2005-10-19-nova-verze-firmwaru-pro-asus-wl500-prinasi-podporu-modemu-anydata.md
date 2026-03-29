@@ -4,7 +4,6 @@ slug: 'nova-verze-firmwaru-pro-asus-wl500-prinasi-podporu-modemu-anydata'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Adam Koppel vydal nový firmware pro Asus WL-500 s podporou CDMA modemu AnyData E100h.
 - Firmware umožňuje sdílení připojení přes GTRAN nebo AnyData bez složitého nastavování.

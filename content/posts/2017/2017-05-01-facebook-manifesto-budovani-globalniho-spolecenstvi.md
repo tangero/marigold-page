@@ -7,7 +7,6 @@ categories:
 - Facebook
 - Mark Zuckerberg
 - Meta
-published: true
 summary_points:
 - Mark Zuckerberg vydal manifest globalizace na Facebooku 16.2.2017.
 - Zuckerberg klade otázku, zda stavíme svět, který všichni chceme.

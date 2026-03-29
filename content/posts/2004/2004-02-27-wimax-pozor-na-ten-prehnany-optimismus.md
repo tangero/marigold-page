@@ -4,7 +4,6 @@ slug: 'wimax-pozor-na-ten-prehnany-optimismus'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WiMax deklaruje rychlost 70 Mb/s a dosah 40 km, ale sdíleně.
 - Přímá viditelnost je pro WiMax žádoucí, navzdory deklarované absenci nutnosti.

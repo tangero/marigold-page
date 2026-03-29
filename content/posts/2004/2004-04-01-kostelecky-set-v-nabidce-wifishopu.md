@@ -4,7 +4,6 @@ slug: 'kostelecky-set-v-nabidce-wifishopu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Kostelecký set WiFishopu nabízí kompletní balíček pro výrobu WiFi antény.
 - 'Set se prodává ve dvou variantách: Plné (s párky) a Prázdné (bez párků).'

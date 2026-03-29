@@ -4,7 +4,6 @@ slug: 'mysterium-jmenem-xmax-aneb-na-tenhle-zazrak-ma-umrit-wimax-i-3g'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - xMax je technologie konkurující WiMaxu, využívající subgigová pásma pro přenos dat.
 - Technologie xMax využívá úzkopásmový kanál pro synchronizaci a širokopásmový signál

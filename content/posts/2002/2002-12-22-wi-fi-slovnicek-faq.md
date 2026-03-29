@@ -4,7 +4,6 @@ slug: 'wi-fi-slovnicek-faq'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Článek je překladem materiálu o Wi-Fi certifikaci od organizace WECA.
 - Wi-Fi certifikace zaručuje interoperabilitu bezdrátových zařízení splňujících standardy

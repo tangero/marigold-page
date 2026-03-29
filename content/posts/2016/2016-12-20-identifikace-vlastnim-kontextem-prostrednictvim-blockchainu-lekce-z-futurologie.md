@@ -4,7 +4,6 @@ slug: 'identifikace-vlastnim-kontextem-prostrednictvim-blockchainu-lekce-z-futur
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor potřeboval bezobslužný autorizační mechanismus pro knihu Flotila.
 - Eklog zaznamenává veškeré chování uživatele do blockchainových transakcí.

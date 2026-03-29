@@ -4,7 +4,6 @@ slug: 'mobildrobky-bluetooth-browser-prvni-obrazek-motorola-mpx220-sony-ericsson
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Bluetooth Browser je midlet pro prohlížení okolních Bluetooth zařízení a jejich
   specifikací.

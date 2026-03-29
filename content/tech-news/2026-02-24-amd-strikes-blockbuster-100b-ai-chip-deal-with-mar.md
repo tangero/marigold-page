@@ -22,7 +22,7 @@ source:
   name: New York Post
 title: AMD uzavírá rekordní dohodu na 100 miliard dolarů na AI čipy s Metou Marka
   Zuckerberga
-url: https://nypost.com/2026/02/24/business/amd-strikes-blockbuster-100b-ai-chip-deal-with-mark-zuckerbergs-meta/
+source_url: https://nypost.com/2026/02/24/business/amd-strikes-blockbuster-100b-ai-chip-deal-with-mark-zuckerbergs-meta/
 urlToImage: https://nypost.com/wp-content/uploads/sites/2/2026/02/amd-lisa-su-mark-zuckerberg.jpg?quality=75&strip=all&1771932601&w=1200
 urlToImageBackup: https://nypost.com/wp-content/uploads/sites/2/2026/02/amd-lisa-su-mark-zuckerberg.jpg?quality=75&strip=all&1771932601&w=1200
 ---

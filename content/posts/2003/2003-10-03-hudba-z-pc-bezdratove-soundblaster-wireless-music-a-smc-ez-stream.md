@@ -4,7 +4,6 @@ slug: 'hudba-z-pc-bezdratove-soundblaster-wireless-music-a-smc-ez-stream'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Creative Labs uvádí SoundBlaster Wireless Music pro přenos hudby přes WiFi za 250
   USD.

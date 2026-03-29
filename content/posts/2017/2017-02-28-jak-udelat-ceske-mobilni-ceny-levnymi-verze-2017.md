@@ -2,7 +2,6 @@
 slug: 'jak-udelat-ceske-mobilni-ceny-levnymi-verze-2017'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - Vysoké ceny telekomunikačních poplatků v Česku jsou způsobeny omezeným oligopolním
   trhem.

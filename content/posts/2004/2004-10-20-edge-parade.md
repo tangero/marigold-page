@@ -2,7 +2,6 @@
 slug: 'edge-parade'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - Eurotel dvakrát podnítil rychlá data, zavedením datového paušálu a investicí do
   CDMA.

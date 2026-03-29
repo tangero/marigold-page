@@ -4,7 +4,6 @@ slug: 'zive-na-tema-blogy-a-mrtve-ja-na-tema-blogy'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Bednářův článek na Živě prezentuje blogy jako okrajovou záležitost.
 - Blogy nejsou jen deníčky, ale různorodé zdroje informací.

@@ -4,7 +4,6 @@ slug: 'vsechny-cesty-k-internetu'
 author: Noname
 
   '
-published: true
 summary_points:
 - Konference Všechny cesty k internetu pořádaná ČVTSS byla dle autora přínosná.
 - Český Telecom vylepšoval technickou strategii DSL ve dvou generacích.

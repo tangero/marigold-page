@@ -4,7 +4,6 @@ slug: 'nestihacka-vrcholi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Cinetik spuštěn, ale detaily vyžadují nečekané úpravy a předělávky.
 - Obálky pro Cinetik problematické, razítko se rozmazává, štítky překračují váhový

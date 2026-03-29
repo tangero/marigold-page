@@ -4,7 +4,6 @@ slug: 'digitalni-televize-pro-bfu'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - Popularis se v posledním díle věnoval tématu digitální televize.
 - Záznam pořadu o digitální televizi je dostupný online ve formátu Real Video.

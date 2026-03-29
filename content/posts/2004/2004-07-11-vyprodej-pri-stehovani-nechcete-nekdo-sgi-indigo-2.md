@@ -4,7 +4,6 @@ slug: 'vyprodej-pri-stehovani-nechcete-nekdo-sgi-indigo-2'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - SGI Indigo 2, kdysi za 300 000 Kč, je nyní k prodeji.
 - Stroj má IRIX 6.2, R4400, 128 MB RAM a 2GB disk.

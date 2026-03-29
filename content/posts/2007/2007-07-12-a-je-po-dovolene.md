@@ -4,7 +4,6 @@ slug: 'a-je-po-dovolene'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Dovolená u moře se líbila, ale lety Travel Service (QS) byly noční a zpožděné.
 - Cestování letadlem s dětmi bylo překvapivě v pohodě, kočárek až k letadlu.

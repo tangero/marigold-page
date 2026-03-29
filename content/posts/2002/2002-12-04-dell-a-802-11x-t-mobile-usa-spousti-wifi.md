@@ -6,7 +6,6 @@ audiooff: false
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Dell vybaví do konce roku 2003 notebooky Latitude standardy 802.11b a 802.11a.
 - Cena Dell Access Pointu má klesnout až na 50 USD, termín není znám.

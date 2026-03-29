@@ -2,7 +2,6 @@
 slug: 'zamestnan'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - Nová práce v nové firmě s tajným mobilním projektem.
 - Kancelář je v Opletalce, dopoledne práce na starých dokumentech.

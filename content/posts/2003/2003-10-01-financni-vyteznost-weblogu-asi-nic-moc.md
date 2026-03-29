@@ -4,7 +4,6 @@ slug: 'financni-vyteznost-weblogu-asi-nic-moc'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Weblogy zpeněžují obsah inzerováním práce, prodejem zboží, přímou inzercí nebo textovou
   inzercí.

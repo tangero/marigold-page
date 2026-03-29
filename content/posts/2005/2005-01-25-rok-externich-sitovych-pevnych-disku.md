@@ -4,7 +4,6 @@ slug: 'rok-externich-sitovych-pevnych-disku'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Externí disky s ethernetem a USB 2.0 rozhraním jsou trendem roku.
 - Maxtor Shared Storage nabízí 200-300 GB kapacity a automatické třídění souborů.

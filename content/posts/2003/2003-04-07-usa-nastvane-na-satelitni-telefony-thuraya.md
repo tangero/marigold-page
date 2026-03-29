@@ -4,7 +4,6 @@ slug: 'usa-nastvane-na-satelitni-telefony-thuraya'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Americká armáda přestala používat telefony Thuraya v Iráku.
 - Telefony Thuraya mají GPS, Američané se bojí vyzrazení polohy.

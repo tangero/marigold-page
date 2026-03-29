@@ -4,7 +4,6 @@ slug: 'prehlidka-promen-designu-mobil-cz'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Změna designu zpravodajského serveru je náročná a nevděčná práce.
 - Mobil server prošel několika změnami designu od roku 1997.

@@ -4,7 +4,6 @@ slug: 'gmail-propadl-spamu-nebo-jsem-neco-rozbil'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Gmail uživateli nezachytává spam, který se hromadí v Inboxu.
 - Uživatel nenašel v administraci Gmailu možnost opětovného zapnutí filtrování spamu.

@@ -4,7 +4,6 @@ slug: 'mame-sveho-bezpecnostniho-specialistu-a-neprijali-jsme-torvaldse'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Hackerský útok firmu přiměl k opuštění nadšeneckého přístupu a investicím.
 - Firma získala bezpečnostního specialistu FUFa po hackerském útoku.

@@ -4,7 +4,6 @@ slug: 't-mobile-v-britanii-nabizi-pausal-za-3g-a-wifi-pristup'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - T-Mobile UK zavádí paušální poplatek 70 liber za mobilní data.
 - G síť T-Mobile UK nabízí rychlost pouze 128 Kb/s.

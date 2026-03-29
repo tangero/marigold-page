@@ -4,7 +4,6 @@ slug: 'tohle-je-ta-prava-killer-app-o-tom-neni-pochyb'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Symella je P2P software pro telefony Nokia Series 60 s Gnutella protokolem.
 - Program má jednoduché rozhraní a umožňuje snadné stahování MP3 souborů.

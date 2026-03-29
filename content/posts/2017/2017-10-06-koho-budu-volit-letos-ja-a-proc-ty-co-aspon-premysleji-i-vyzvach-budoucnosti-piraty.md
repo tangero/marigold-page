@@ -2,7 +2,6 @@
 slug: 'koho-budu-volit-letos-ja-a-proc-ty-co-aspon-premysleji-i-vyzvach-budoucnosti-piraty'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - Internet plný útočných vzkazů o volbách je frustrující.
 - České volby jsou pro autora utrpením kvůli nedostatku ideálních kandidátů.

@@ -4,7 +4,6 @@ slug: 'dalsi-vip-blog-tentokrate-iva-lukacovice'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Ivo Lukačovič, zakladatel Seznamu, spustil nový blog na adrese blog.lide.cz/ilblog.
 - Autor článku sleduje méně zpravodajské servery a více weblogy.

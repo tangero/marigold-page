@@ -4,7 +4,6 @@ slug: 'wifi-site-kolem-nas'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Seque SoftAP dorazil Fedexem s klíčenkou WiFinder pro detekci WiFi.
 - WiFinder diodami indikuje sílu okolních WiFi sítí bez nutnosti návodu.

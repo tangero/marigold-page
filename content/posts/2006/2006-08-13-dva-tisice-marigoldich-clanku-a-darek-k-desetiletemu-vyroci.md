@@ -4,7 +4,6 @@ slug: 'dva-tisice-marigoldich-clanku-a-darek-k-desetiletemu-vyroci'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Marigold dosáhl dvoutisícího článku, po třech letech existence a proměn.
 - Autor se blíží k desetiletému výročí působení na internetu od roku 1996.

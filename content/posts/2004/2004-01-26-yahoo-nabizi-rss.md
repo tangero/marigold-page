@@ -4,7 +4,6 @@ slug: 'yahoo-nabizi-rss'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Yahoo nabízí od pátku možnost sbírat a zobrazovat RSS zdroje na My Yahoo.
 - Česká mainstream média se zatím RSS portálování příliš nevěnují.

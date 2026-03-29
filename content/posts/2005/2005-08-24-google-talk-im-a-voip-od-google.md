@@ -4,7 +4,6 @@ slug: 'google-talk-im-a-voip-od-google'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Google Talk je Jabber IM protokol s VoIP nadstavbou, aktuálně dostupný pouze pro
   Windows.

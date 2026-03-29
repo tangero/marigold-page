@@ -4,7 +4,6 @@ slug: 'jak-se-gps-spam-dotyka-mest'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - GPS navigace jako Waze mění trasy, vedoucí auta do rezidenčních zón.
 - Masové používání navigací způsobuje problémy v městech s nedostatečnou infrastrukturou.

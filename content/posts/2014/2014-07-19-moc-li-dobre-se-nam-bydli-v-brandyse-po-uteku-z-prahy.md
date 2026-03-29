@@ -4,7 +4,6 @@ slug: 'moc-li-dobre-se-nam-bydli-v-brandyse-po-uteku-z-prahy'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Stěhování do Brandýsa přineslo spokojenost, zejména pro děti a zahradu.
 - Silnice a chodníky v Brandýse jsou ve špatném stavu, což komplikuje život.

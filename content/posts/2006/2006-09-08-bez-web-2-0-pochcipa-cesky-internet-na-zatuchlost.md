@@ -4,7 +4,6 @@ slug: 'bez-web-2-0-pochcipa-cesky-internet-na-zatuchlost'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Absence Web 2.0 aplikací poškodí český internet i společnost.
 - Web 2.0 klade důraz na uživatele a jejich zapojení.

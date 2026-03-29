@@ -18,7 +18,7 @@ source:
   name: Techpinions.com
 title: Kam ve skutečnosti směřují 40 miliard dolarů rizikového kapitálu v klimatických
   technologiích
-url: https://techpinions.com/where-the-40-billion-in-climate-tech-venture-capital-is-actually-going/
+source_url: https://techpinions.com/where-the-40-billion-in-climate-tech-venture-capital-is-actually-going/
 urlToImage: https://techpinions.com/wp-content/uploads/2026/02/unsplash-gFud7-XmQvk.jpg
 urlToImageBackup: https://techpinions.com/wp-content/uploads/2026/02/unsplash-gFud7-XmQvk.jpg
 ---

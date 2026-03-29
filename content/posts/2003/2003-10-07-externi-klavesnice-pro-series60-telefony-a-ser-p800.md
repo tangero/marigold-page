@@ -4,7 +4,6 @@ slug: 'externi-klavesnice-pro-series60-telefony-a-ser-p800'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Pocketop je externí klávesnice připojitelná přes infraport k zařízením jako Palm,
   PocketPC a Series60 telefony.

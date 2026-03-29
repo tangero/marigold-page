@@ -6,7 +6,6 @@ categories:
 - Energomonitor
 
   '
-published: true
 summary_points:
 - Energomonitor měří online spotřebu energie a radí, jak ušetřit.
 - Stovka instalací Energomonitoru ukázala úspory energií, o kterých lidé jen přemýšlejí.

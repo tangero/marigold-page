@@ -4,7 +4,6 @@ slug: 'babelgum-babelska-zvykacka-je-dalsi-zajimavy-tv-platform-projekt'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Babelgum konkuruje Joostu v P2PTV, nabízí použitelné betaverze softwaru.
 - Silvio Scaglia, zakladatel Fastwebu, založil Babelgum jako P2P platformu.

@@ -4,7 +4,6 @@ slug: 'tlustosite-opet-v-kursu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - GTS provozuje tlustooptostředoevropskou síť, ačkoliv předchozí dvě sítě zkrachovaly.
 - GTS kopíruje Telecom výstavbou "středoevropské sítě" bez zbytečného humbuku.

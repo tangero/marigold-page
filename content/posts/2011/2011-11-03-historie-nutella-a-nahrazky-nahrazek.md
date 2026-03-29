@@ -6,7 +6,6 @@ categories:
 - Příběhy
 
   '
-published: true
 summary_points:
 - Nutella vznikla jako poválečná náhražka drahé čokolády, využívající levnější ořechy.
 - Umělý mramor v baroku byl luxusní náhražka, nabízející nové barvy a tvarovatelnost.

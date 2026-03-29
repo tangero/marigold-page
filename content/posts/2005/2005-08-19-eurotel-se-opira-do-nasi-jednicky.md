@@ -4,7 +4,6 @@ slug: 'eurotel-se-opira-do-nasi-jednicky'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Eurotel zveřejnil tři celostránkové inzeráty, které cílí na T-Mobile.
 - Eurotel uvádí rostoucí zájem zákazníků a deset důvodů volby.

@@ -4,7 +4,6 @@ slug: '8-znaku-co-znici-novou-operu'
 author: Noname
 
   '
-published: true
 summary_points:
 - Opera technology preview má chybu v renderování kvůli elementu &lt;canvas&gt;.
 - Canvas je nový HTML element pro kreslení grafiky pomocí skriptů.

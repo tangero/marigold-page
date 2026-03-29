@@ -4,7 +4,6 @@ slug: 'smartcities-o-chytrosti-v-technice-a-hlouposti-v-nas'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Smart Cities jsou strategie zahrnující zlepšení života ve městech
 - Chytrost a strategie jsou důležitější než technologie pro Smart Cities

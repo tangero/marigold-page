@@ -4,7 +4,6 @@ slug: 'berdar-novym-sefem-ceskeho-telecomu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Gabriel Berdár, bývalý šéf Dell Computer, byl jmenován novým generálním ředitelem
   Českého Telecomu.

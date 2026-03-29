@@ -4,7 +4,6 @@ slug: 'specialni-im-zarizeni-zipit-wireless-instant-messenger'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Zipit, instant messagingové zařízení za 99 USD, míří na americký trh.
 - Podporuje MSN, AOL, Yahoo a ICQ přes WiFi a má QWERTY klávesnici.

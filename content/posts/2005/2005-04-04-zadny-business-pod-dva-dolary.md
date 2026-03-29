@@ -4,7 +4,6 @@ slug: 'zadny-business-pod-dva-dolary'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - GSM Asociace plánuje superlevný mobil za 1000 Kč pro rozvojové trhy.
 - Operátoři pochybují o ziskovosti ARPU 2-4 dolary měsíčně.

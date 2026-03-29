@@ -4,7 +4,6 @@ slug: 'spamujici-europoslanec'
 author: Noname
 
   '
-published: true
 summary_points:
 - JUDr. Stanislav Polčák odeslal hromadný e-mail redaktorům z freemailové adresy polcak@email.cz.
 - E-mail obsahoval návrh poslance ohledně patentovatelnosti software ve formátu PDF.

@@ -4,7 +4,6 @@ slug: 'notebook-na-kliku-pokracovani'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - Notebook na kliku pro rozvojový svět má stát 100 USD při velkém odběru.
 - Root.cz rozvinul téma levného notebooku, ale chybí cenová kalkulace.

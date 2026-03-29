@@ -6,7 +6,6 @@ categories:
 - Nokia
 
   '
-published: true
 summary_points:
 - Nokia snížila výhled prodeje telefonů a služeb za první čtvrtletí 2012.
 - Prodeje chytrých telefonů Nokia dosáhly 12 milionů, z toho 2 miliony Lumia.

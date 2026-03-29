@@ -4,7 +4,6 @@ slug: 'prvni-softwarove-radio-schvaleno-fcc'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - FCC schválila první SDR zařízení, základnovou stanici firmy Vanu.
 - Vanu stanice pracuje v pásmu 20 MHz - 3 GHz a podporuje více technologií.

@@ -4,7 +4,6 @@ slug: 'na-mobilu-se-drazi-samsung-matrix-phone'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Mobil.cz draží na iDnes telefon Samsung z Matrixu (Matrix Phone).
 - Dražba Matrix Phone probíhá na iDnes, cena stoupá.

@@ -4,7 +4,6 @@ slug: 'komercni-wifi-site-v-ceske-republice'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WIA od VancoNetu pokrývá Václavské náměstí, Štěpánskou a Vodičkovu ulici v Praze.
 - Eurotel WiFiJet se zaměřuje na hotely a business klienty, účtování je časové.

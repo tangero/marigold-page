@@ -4,7 +4,6 @@ slug: 'support-denmark-neni-svoboda-slova'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Karikatury Mohammeda byly zbytečná provokace, nemající nic společného se svobodou
   slova.

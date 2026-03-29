@@ -4,7 +4,6 @@ slug: 'klavesnice-kterou-vykresluje-laser'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Laser promítá klávesnici na stůl pro psaní všemi deseti.
 - Technologie funguje a je vhodná pro mobily a PDA zařízení.

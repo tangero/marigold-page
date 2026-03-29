@@ -4,7 +4,6 @@ slug: 'ministerstvo-informatiky-prave-zaclo-rozdavat-dotace-na-broadband-interne
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Dotace 200 milionů korun na širokopásmový internet v ČR je připravena pro rok 2006.
 - 'Projekty lze přihlásit do tří dotačních programů: infrastruktura, aplikace, osvěta.'

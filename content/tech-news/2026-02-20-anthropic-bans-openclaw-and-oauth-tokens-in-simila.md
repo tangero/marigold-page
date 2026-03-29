@@ -20,7 +20,7 @@ source:
   id: null
   name: Geeky Gadgets
 title: Anthropic zakazuje OpenClaw a OAuth tokeny v aplikacích třetích stran
-url: https://www.geeky-gadgets.com/anthropic-openclaw-oauth-token-ban/
+source_url: https://www.geeky-gadgets.com/anthropic-openclaw-oauth-token-ban/
 urlToImage: https://www.geeky-gadgets.com/wp-content/uploads/2026/02/anthropic-oauth-token-ban-overview_optimized.jpg
 urlToImageBackup: https://www.geeky-gadgets.com/wp-content/uploads/2026/02/anthropic-oauth-token-ban-overview_optimized.jpg
 ---

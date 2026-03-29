@@ -17,7 +17,7 @@ source:
   id: null
   name: Infosecurity Magazine
 title: Vedoucí dodavatel polovodičů Advantest zasáhnut ransomwarovým útokem
-url: https://www.infosecurity-magazine.com/news/advantest-ransomware-attack/
+source_url: https://www.infosecurity-magazine.com/news/advantest-ransomware-attack/
 urlToImage: https://assets.infosecurity-magazine.com/webpage/og/be44f91e-7e65-4c0a-8abc-cb871158eb87.jpg
 urlToImageBackup: https://assets.infosecurity-magazine.com/webpage/og/be44f91e-7e65-4c0a-8abc-cb871158eb87.jpg
 ---

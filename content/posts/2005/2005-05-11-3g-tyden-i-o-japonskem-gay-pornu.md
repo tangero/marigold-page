@@ -4,7 +4,6 @@ slug: '3g-tyden-i-o-japonskem-gay-pornu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Mobil iDnes publikoval článek "3G Týden" o událostech ve světě 3G.
 - Japonsko se zabývá studentským 3G pornem, Vodafone Maďarsko hledá dodavatele 3G.

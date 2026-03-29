@@ -4,7 +4,6 @@ slug: 'eurotel-a-wap-aneb-bohove-musi-byt-sileni'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Eurotel zdražil WAP u Data Nonstop, oznámil to SMS s pochybnou propagandou.
 - Eurotel mohl mít problém s vyplácením provizí partnerům za WAP provoz.

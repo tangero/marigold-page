@@ -14,7 +14,6 @@ categories:
   adresnější, než poukázání pár anonymních korun na konta nejrůznějších nadací.
 
   '
-published: true
 summary_points:
 - Mikroinvestice a mikroúvěry řeší finanční problémy lidí v rozvojových zemích malými
   půjčkami.

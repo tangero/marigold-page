@@ -4,7 +4,6 @@ slug: 'kniha-stavime-si-bezdratovou-sit-wi-fi-thomas-kohre'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Computer Press vydává knihu Stavíme si bezdrátovou síť Wi-fi od Thomase Köhre.
 - Kniha obsahuje CD se softwarem pro tvorbu a zabezpečení Wi-Fi sítí.

@@ -4,7 +4,6 @@ slug: 'zajimate-se-o-bbf'
 author: Noname
 
   '
-published: true
 summary_points:
 - 'BBF dotace: Hodnocení žádostí probíhá, polovina projektů vyřazena pro závažné nedostatky.'
 - Autor plánuje psát o vítězných projektech BBF, analyzovat důvody jejich úspěchu.

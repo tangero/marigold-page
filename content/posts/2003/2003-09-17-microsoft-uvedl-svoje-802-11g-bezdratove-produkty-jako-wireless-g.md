@@ -4,7 +4,6 @@ slug: 'microsoft-uvedl-svoje-802-11g-bezdratove-produkty-jako-wireless-g'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Microsoft představil WiFi produkty 802.11g standardu s čipy Broadcom a Atheros.
 - MN-700 směrovač běží na Windows CE .NET 4.2 s automatickými aktualizacemi.

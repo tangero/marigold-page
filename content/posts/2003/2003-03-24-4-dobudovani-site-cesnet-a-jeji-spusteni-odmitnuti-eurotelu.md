@@ -4,7 +4,6 @@ slug: '4-dobudovani-site-cesnet-a-jeji-spusteni-odmitnuti-eurotelu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - EuroTelu pronájem VDS se nevyplatil, vlastní síť byla levnější pro akademické uživatele.
 - FESNET se přejmenoval na CESNET po rozdělení Československa a vzniku SANET.

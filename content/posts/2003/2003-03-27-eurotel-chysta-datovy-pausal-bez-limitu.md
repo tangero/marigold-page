@@ -4,7 +4,6 @@ slug: 'eurotel-chysta-datovy-pausal-bez-limitu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Eurotel nabídne GPRS surfování bez limitu za 1000 Kč měsíčně k hlasovému paušálu.
 - Paušál se nevztahuje na vytáčená data CSD a HSCSD, kde se platí za čas.

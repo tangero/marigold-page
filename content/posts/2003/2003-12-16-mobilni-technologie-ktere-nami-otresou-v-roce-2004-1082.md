@@ -4,7 +4,6 @@ slug: 'mobilni-technologie-ktere-nami-otresou-v-roce-2004-1082'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Mobilní instant messaging zlevní a zpohodlní komunikaci oproti SMS díky chytrým
   telefonům.

@@ -4,7 +4,6 @@ slug: 'story-o-sousedskych-sitich-14'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - MetaCLOUD se osamostatňuje získáním vlastního adresního prostoru a autonomního systému.
 - Velkopodnikatel Cendra (Supernetwork/Superhosing) skončil, nahradila ho firma connection.cz.

@@ -4,7 +4,6 @@ slug: 'jdete-uz-s-tim-rebrandingem-k-sipku'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Rebranding zákazníky nezajímá, pokud se nezlepší služby.
 - Zaměstnanci firem se ztrácejí v rebrandingu společností.

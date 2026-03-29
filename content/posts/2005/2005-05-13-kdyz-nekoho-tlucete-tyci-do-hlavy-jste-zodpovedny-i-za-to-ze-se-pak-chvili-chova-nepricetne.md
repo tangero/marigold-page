@@ -4,7 +4,6 @@ slug: 'kdyz-nekoho-tlucete-tyci-do-hlavy-jste-zodpovedny-i-za-to-ze-se-pak-chvil
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Článek se nezaměřuje na zmlácení Berdára, ale na vztah Telecomu k médiím.
 - Násilí železnou tyčí je nepřípustné; řešení sporů má být právní cestou.

@@ -4,7 +4,6 @@ slug: 'wifidrobky-standardizace-mesh-siti-rozmach-bezdratu-ma-zajistit-hlas-wifi
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - IEEE standardizuje mesh protokoly pro WiFi sítě, včetně WDS propojení přístupových
   bodů.

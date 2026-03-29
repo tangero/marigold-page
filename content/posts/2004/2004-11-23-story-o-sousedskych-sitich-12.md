@@ -4,7 +4,6 @@ slug: 'story-o-sousedskych-sitich-12'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - Anténa 14 dBi se v centru Prahy neosvědčila pro měření signálu.
 - Autor bude muset použít větší anténu, což ztíží malý vikýř.

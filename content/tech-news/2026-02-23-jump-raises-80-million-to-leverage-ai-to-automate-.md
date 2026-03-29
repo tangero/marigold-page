@@ -20,7 +20,7 @@ source:
   name: Finovate.com
 title: Jump získal 80 milionů dolarů na využití AI k automatizaci pracovních postupů
   finančních poradců
-url: https://finovate.com/jump-raises-80-million-to-leverage-ai-to-automate-financial-advisory-workflows/
+source_url: https://finovate.com/jump-raises-80-million-to-leverage-ai-to-automate-financial-advisory-workflows/
 urlToImage: https://finovate.com/wp-content/uploads/2026/02/pexels-lazarevkirill-8532484.jpg
 urlToImageBackup: https://finovate.com/wp-content/uploads/2026/02/pexels-lazarevkirill-8532484.jpg
 ---

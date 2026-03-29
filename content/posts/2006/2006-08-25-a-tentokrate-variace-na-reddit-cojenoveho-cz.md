@@ -4,7 +4,6 @@ slug: 'a-tentokrate-variace-na-reddit-cojenoveho-cz'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Co je nového je česká variace na Reddit, model Web 2.0.
 - Redigg umožňuje ubírat body článkům, což Digg neumožňuje.

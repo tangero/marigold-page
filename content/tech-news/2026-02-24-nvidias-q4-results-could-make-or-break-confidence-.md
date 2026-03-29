@@ -20,7 +20,7 @@ source:
   name: The Next Web
 title: Výsledky Nvidia za 4. čtvrtletí mohou posílit nebo podkopat důvěru v trh s
   hardwarem pro AI
-url: https://thenextweb.com/news/nvidias-q4-results-could-make-or-break-confidence-in-the-ai-hardware-market
+source_url: https://thenextweb.com/news/nvidias-q4-results-could-make-or-break-confidence-in-the-ai-hardware-market
 urlToImage: https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F02%2FNvidias-Q4-results-could-make-or-break-confidence-in-the-AI-hardware-market.png&signature=51054548f3f63e498d52e0151879d27d
 urlToImageBackup: https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F02%2FNvidias-Q4-results-could-make-or-break-confidence-in-the-AI-hardware-market.png&signature=51054548f3f63e498d52e0151879d27d
 ---

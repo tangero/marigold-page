@@ -4,7 +4,6 @@ slug: 'jedete-na-invex-nezapomente-na-pavilon-f-aktualizovano'
 author: Noname
 
   '
-published: true
 summary_points:
 - Invex čelí krizi, pravděpodobně kvůli chybám pořadatelů, ale stále stojí za návštěvu.
 - Tuesday Business Network pořádá akci o videu přes internet a rozvoji broadbandu

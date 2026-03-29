@@ -4,7 +4,6 @@ slug: 'story-o-sousedskych-sitich-13'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - Pražský CLOUD, autonomní systém, trpí útoky komerční firmy rušící WiFi spoje.
 - Gubernátor CLOUDu nedokázal donutit firmu posílat agregované prefixy pro směrování.

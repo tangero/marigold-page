@@ -4,7 +4,6 @@ slug: 'wifi-telefon-senao-si-7800h-z-cebitu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WiFi telefony využívají SIP technologii a WiFi signál pro volání přes internet.
 - CeBIT prezentoval mnoho WiFi telefonů, často s pochybnou kvalitou od tchajwanských

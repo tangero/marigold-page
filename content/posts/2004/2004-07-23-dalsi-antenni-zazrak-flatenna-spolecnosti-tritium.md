@@ -4,7 +4,6 @@ slug: 'dalsi-antenni-zazrak-flatenna-spolecnosti-tritium'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Flatenna od Tritia je papírová anténa pro router, skládací jako vystřihovánka.
 - Anténa Flatenna zvyšuje zisk 2 dBI antény na 9 dBI se sektorem 90 stupňů.

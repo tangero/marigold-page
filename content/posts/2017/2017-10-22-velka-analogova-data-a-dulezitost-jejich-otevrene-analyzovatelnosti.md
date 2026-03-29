@@ -2,7 +2,6 @@
 slug: 'velka-analogova-data-a-dulezitost-jejich-otevrene-analyzovatelnosti'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - Big Analog Data vzniklo jako marketingový koncept firmy National Instruments.
 - Senzory poskytují přesná data, ale bez kontextu a emocí.

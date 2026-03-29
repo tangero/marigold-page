@@ -4,7 +4,6 @@ slug: 'clanek-blaznuv-turbouvod-do-umts-jak-vypada-sit'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - UMTS je téma, které autor pojímá s lehkostí a humorem.
 - Bláznův turboúvod do UMTS je volnější úvod do problematiky UMTS.

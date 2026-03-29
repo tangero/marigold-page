@@ -4,7 +4,6 @@ slug: 'zoot-uspel-se-znackami-jen-bylo-potreba-vykaslat-se-na-ty-odpadkove'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Zoot původně cílil na spolupráci se známými "junk-brands", což autor kritizoval.
 - Zoot pivotoval a začal nabízet kvalitnější zboží, které je v ČR obtížně dostupné.

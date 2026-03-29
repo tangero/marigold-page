@@ -20,7 +20,7 @@ source:
   name: The Times of India
 title: Anthropic obviňuje čínské AI firmy z kopírování dat pomocí falešných účtů a
   destilace AI
-url: https://economictimes.indiatimes.com/news/international/us/anthropic-accuses-chinese-ai-firms-of-data-copying-using-fake-accounts-and-ai-distillation-methods/articleshow/128728450.cms
+source_url: https://economictimes.indiatimes.com/news/international/us/anthropic-accuses-chinese-ai-firms-of-data-copying-using-fake-accounts-and-ai-distillation-methods/articleshow/128728450.cms
 urlToImage: https://img.etimg.com/thumb/msid-128728450,width-1200,height-630,imgsize-28710,overlay-economictimes/articleshow.jpg
 urlToImageBackup: https://img.etimg.com/thumb/msid-128728450,width-1200,height-630,imgsize-28710,overlay-economictimes/articleshow.jpg
 ---

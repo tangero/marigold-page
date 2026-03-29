@@ -4,7 +4,6 @@ slug: 'prvni-marigoldi-restaurant'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Marigoldí restaurant byl poprvé otevřen, fotografie pochází z Austrálie.
 - Péťa z Austrálie poslal fotografii nově otevřeného Marigold restaurantu.

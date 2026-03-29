@@ -4,7 +4,6 @@ slug: 'jak-pokracuje-kauza-berdarova-prepadeni-a-strelby'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Virág tvrdí, že útok na Berdára pokračuje psychickým nátlakem v médiích.
 - Tisková zpráva Virága upozorňuje na pokračující útok, který vystřídal fyzické napadení.

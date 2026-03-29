@@ -4,7 +4,6 @@ slug: 'o-krmivosti-operatorove-a-slastnych-ocekavani-nejrychlejsiho-umts'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - T-Mobile uvádí Fast UMTS s průměrnou rychlostí 512 Kb/s a maximální 4,75 Mbps.
 - Fast UMTS je TD-CDMA, tedy ne standardní UMTS, s omezeným výběrem terminálů.

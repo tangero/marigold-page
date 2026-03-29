@@ -4,7 +4,6 @@ slug: 'hazeni-granatu-v-centru-prahy-sledovaly-minimalne-dve-kamery'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Atentát na majitele kasina Na Příkopech vyvolává otázky ohledně kamerového systému.
 - Na Příkopech jsou desítky kamer, pachatel se pravděpodobně několikrát dostal do

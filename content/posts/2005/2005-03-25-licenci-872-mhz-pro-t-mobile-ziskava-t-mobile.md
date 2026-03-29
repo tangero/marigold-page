@@ -4,7 +4,6 @@ slug: 'licenci-872-mhz-pro-t-mobile-ziskava-t-mobile'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - T-Mobile získává licenci pro pásmo 872 MHz od ČTÚ.
 - První komerční Flarion síť na světě pravděpodobně spustí T-Mobile.

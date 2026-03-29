@@ -4,7 +4,6 @@ slug: 'marigoldcz-prehozeno-posledni-chvile'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Wordpress je nově nasazen, ale zatím bez designu.
 - RSS/ATOM zdroje pro články a komentáře vyžadují opravu.

@@ -4,7 +4,6 @@ slug: 'vyhody-optickych-siti-v-praxi'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - Hurikán Katrina poškodil síť Abilene projektu Internet2 v oblasti New Orleans.
 - Abilene vytvořila úzké místo mezi Indianapolis a Kansas City kvůli topologii.

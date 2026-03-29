@@ -18,7 +18,7 @@ source:
   id: null
   name: Newser
 title: Meta uzavřela dohodu na AI čipy v hodnotě 100 miliard dolarů s AMD
-url: https://www.newser.com/story/384282/meta-strikes-100b-ai-chip-deal-with-amd.html
+source_url: https://www.newser.com/story/384282/meta-strikes-100b-ai-chip-deal-with-amd.html
 urlToImage: https://img1-azrcdn.newser.com/image/1667012-12-20260224104502.jpeg
 urlToImageBackup: https://img1-azrcdn.newser.com/image/1667012-12-20260224104502.jpeg
 ---

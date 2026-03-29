@@ -2,7 +2,6 @@
 slug: 'neznami-lide-a-sul-zeme'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - Noviny ukazují zemi jako beznadějnou, ale realita je jiná.
 - Lidé v Česku tvoří a realizují nápady navzdory byrokracii.

@@ -4,7 +4,6 @@ slug: 'drobky-wifi-seminar-nove-logo-pro-certifikaci-atd'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Vanet pořádá dvoudenní seminář o WiFi technologiích.
 - Wi-Fi Alliance zavádí nový grafický symbol pro certifikaci WiFi technologií.

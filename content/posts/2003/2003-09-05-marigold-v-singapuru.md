@@ -4,7 +4,6 @@ slug: 'marigold-v-singapuru'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Péťa odletěl do Austrálie a poslal MMS ze Singapuru.
 - Marigold má v Singapuru reklamu na taxiku.

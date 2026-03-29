@@ -19,7 +19,7 @@ source:
   id: null
   name: Yahoo Entertainment
 title: Autodesk (ADSK) investuje 200 milionů dolarů do World Labs
-url: https://finance.yahoo.com/news/autodesk-adsk-invests-200-million-170936692.html
+source_url: https://finance.yahoo.com/news/autodesk-adsk-invests-200-million-170936692.html
 urlToImage: https://s.yimg.com/os/en/insidermonkey.com/fb83ad896c7255678f1f9740ee83aff1
 urlToImageBackup: https://s.yimg.com/os/en/insidermonkey.com/fb83ad896c7255678f1f9740ee83aff1
 ---

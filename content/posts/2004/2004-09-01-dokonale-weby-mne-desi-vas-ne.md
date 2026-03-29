@@ -4,7 +4,6 @@ slug: 'dokonale-weby-mne-desi-vas-ne'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Marigoldovy úpravy od Radka Hulána autor vnímá pozitivně, ale s obavami.
 - Autor nedůvěřuje JavaScriptu a složitým webovým prvkům, snižují prý klikanost.

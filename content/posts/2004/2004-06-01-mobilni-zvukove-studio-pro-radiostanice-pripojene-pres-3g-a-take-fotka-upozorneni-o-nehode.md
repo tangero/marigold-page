@@ -4,7 +4,6 @@ slug: 'mobilni-zvukove-studio-pro-radiostanice-pripojene-pres-3g-a-take-fotka-up
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Obrázek dopravní zácpy souvisí s obsahem weblogu.
 - NEC MobileStudio streamuje zvuk pro rozhlasové stanice pomocí ISDN a 3G.

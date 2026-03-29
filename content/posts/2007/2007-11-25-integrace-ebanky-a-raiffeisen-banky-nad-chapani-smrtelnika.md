@@ -4,7 +4,6 @@ slug: 'integrace-ebanky-a-raiffeisen-banky-nad-chapani-smrtelnika'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Převod 900 000 Kč mezi RB a eBankou trvá jeden pracovní den.
 - Výběr hotovosti z eBanky stál kamaráda 1000 Kč.

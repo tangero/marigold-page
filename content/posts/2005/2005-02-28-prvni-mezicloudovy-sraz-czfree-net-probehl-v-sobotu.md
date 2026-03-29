@@ -4,7 +4,6 @@ slug: 'prvni-mezicloudovy-sraz-czfree-net-probehl-v-sobotu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Sobotní mezicloudový sraz CzFree.Net v kině Aero byl úspěšně zorganizován Edorasem.
 - Přednášky zahrnovaly témata WiMax, BWA a optické spoje, Láďova přednáška byla nejlépe

@@ -21,7 +21,7 @@ source:
   id: null
   name: Slashdot.org
 title: 'Exkluziva: Hegseth se setká s šéfem Anthropicu, Pentagon hrozí zákazem'
-url: https://slashdot.org/firehose.pl?op=view&amp;id=180845936
+source_url: https://slashdot.org/firehose.pl?op=view&amp;id=180845936
 ---
 
 ## Souhrn

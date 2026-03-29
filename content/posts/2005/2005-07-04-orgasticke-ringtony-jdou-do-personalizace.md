@@ -4,7 +4,6 @@ slug: 'orgasticke-ringtony-jdou-do-personalizace'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Orgasmatones nabízí personalizované vyzváněcí tóny s dívkou křičící zvolené jméno.
 - V databázi Orgasmatones je 500 jmen, nejoblíbenější Zach, Wu a Sebastian.

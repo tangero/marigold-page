@@ -4,7 +4,6 @@ slug: 'dvoji-rozdavani-mouder'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Česká televize natáčela pořad o počítačové bezpečnosti s autorem a dalšími experty.
 - Dokument BBC byl srozumitelný a vyvážený, zahrnoval různé pohledy na hacking.

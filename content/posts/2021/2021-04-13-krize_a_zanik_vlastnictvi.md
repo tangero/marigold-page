@@ -4,7 +4,7 @@ slug: 'krize_a_zanik_vlastnictvi'
 categories:
 - Vlastnictví
 - Politika
-date: 13.4.2021
+date: 2021-04-13
 excerpt: Následující delší článek rozebírá současnou krizi soukromého vlastnictví,
   která hrozí přerůst v jeho zánik. Je možné, že se něco takového stane? Jaké by to
   mělo důsledky?

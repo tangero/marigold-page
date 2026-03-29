@@ -4,7 +4,6 @@ slug: 'skype-nabizi-konferencni-hovory-a-ziskava-investice'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Skype od března umožňuje telekonference až pro pět účastníků zdarma.
 - Skype zaznamenává průměrně 1,2 milionu stažení měsíčně a má 8,5 milionu celkem.

@@ -4,7 +4,6 @@ slug: 'update-prehledu-wifi-techniky-a-historie-internetu-pokracuje'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Ceny WiFi techniky byly aktualizovány, zobrazuje se datum poslední aktualizace.
 - WiFi technika zlevnila za dva měsíce průměrně o 10 procent.

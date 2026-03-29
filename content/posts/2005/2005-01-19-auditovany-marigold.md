@@ -4,7 +4,6 @@ slug: 'auditovany-marigold'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Marigold.cz je zřejmě jediný auditovaný weblog na českém internetu.
 - Návštěvnost Marigolda lze porovnat s klasickými zpravodajskými servery v iAuditu.

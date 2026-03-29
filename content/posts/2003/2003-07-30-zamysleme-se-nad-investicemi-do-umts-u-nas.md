@@ -4,7 +4,6 @@ slug: 'zamysleme-se-nad-investicemi-do-umts-u-nas'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Stát potřebuje peníze a rychlý start UMTS není jeho prioritou.
 - Eurotel zvažuje levnější technologie jako EDGE a CDMA místo UMTS.

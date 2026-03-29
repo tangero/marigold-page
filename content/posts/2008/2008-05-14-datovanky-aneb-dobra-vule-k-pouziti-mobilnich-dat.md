@@ -7,7 +7,6 @@ categories:
 - Mobilní data
 
   '
-published: true
 summary_points:
 - České mobilní datové tarify jsou drahé a pomalé, zaostávají za Rakouskem.
 - O2 nabízí HSDPA s rychlostí 512 Kb/s za příplatek, ale jen regionálně.

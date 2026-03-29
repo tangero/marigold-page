@@ -4,7 +4,6 @@ slug: 'weblogova-doba-cili-novinar-versus-webloger'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Weblogy vznikly v USA roku 1997, Dave Winer a Jorn Barger byli průkopníci.
 - Jorn Barger je autorem termínu "weblog", který použil koncem roku 1997.

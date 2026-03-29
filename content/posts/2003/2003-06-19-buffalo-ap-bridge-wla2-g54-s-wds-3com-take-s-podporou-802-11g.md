@@ -4,7 +4,6 @@ slug: 'buffalo-ap-bridge-wla2-g54-s-wds-3com-take-s-podporou-802-11g'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Buffalo WLA2-G54 je přístupový bod/most podporující 802.11g a WDS pro propojení
   AP.

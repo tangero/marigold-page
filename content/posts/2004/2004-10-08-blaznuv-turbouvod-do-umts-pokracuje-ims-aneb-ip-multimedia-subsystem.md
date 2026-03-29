@@ -8,7 +8,6 @@ categories:
 - Turboúvod do mobilních sítí
 
   '
-published: true
 summary_points:
 - IMS (IP Multimedia Subsystem) je důležitá součást přechodu na All-IP v UMTS.
 - Autor plánuje zveřejnit detailnější článek o IMS a struktuře UMTS sítě.

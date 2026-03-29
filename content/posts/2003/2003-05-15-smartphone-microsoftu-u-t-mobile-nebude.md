@@ -4,7 +4,6 @@ slug: 'smartphone-microsoftu-u-t-mobile-nebude'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - T-Mobile ruší uvedení smartphonu s Microsoft Smartphone kvůli vysoké poruchovosti.
 - Microsoft Smartphone 2002 vyrábí HTC, prodává Orange, T-Mobile měl být další.

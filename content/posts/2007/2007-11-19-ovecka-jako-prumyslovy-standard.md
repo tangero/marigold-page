@@ -4,7 +4,6 @@ slug: 'ovecka-jako-prumyslovy-standard'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Vodafone ovečky vzhledově připomínají postavy z animovaného seriálu Wallace a Gromit.
 - Wallace a Gromit je animovaná dvojka z modelíny, která je velmi oblíbená.

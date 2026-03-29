@@ -4,7 +4,6 @@ slug: 'zakon-o-obsahu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Lupa.cz publikovala první díl článku o historii broadbandu v Koreji.
 - Korejský "Zákon o obsahu" vyžaduje zpřístupnění obsahu financovaného státem online.

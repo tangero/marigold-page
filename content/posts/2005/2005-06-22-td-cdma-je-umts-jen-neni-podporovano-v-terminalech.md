@@ -4,7 +4,6 @@ slug: 'td-cdma-je-umts-jen-neni-podporovano-v-terminalech'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - TD-CDMA je standardizačními orgány od roku 1998 považováno za integrální součást
   UMTS.

@@ -4,7 +4,6 @@ slug: 'valka-v-iraku-se-vede-i-mezi-gsm-a-cdma'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Irák zřejmě vybuduje mobilní síť CDMA firmy Qualcomm na nátlak USA.
 - CDMA celosvětově prohrává s GSM, ale USA jej prosazují z obchodních důvodů.

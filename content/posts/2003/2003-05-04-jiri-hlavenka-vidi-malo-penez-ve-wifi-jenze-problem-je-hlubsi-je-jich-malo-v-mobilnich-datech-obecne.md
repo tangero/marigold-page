@@ -4,7 +4,6 @@ slug: 'jiri-hlavenka-vidi-malo-penez-ve-wifi-jenze-problem-je-hlubsi-je-jich-mal
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Článek Hlavenky na Živě konstatuje nízké finanční výnosy z WiFi sítí.
 - Mobilní data se dělí na "true mobility" a "nomadic", přičemž true mobility nevyužívá

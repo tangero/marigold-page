@@ -4,7 +4,6 @@ slug: 'vyvoleni-versus-velky-bratr-trosku-jinak'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - Reality show jsou ideální pro 24/7 streamování na internetu.
 - Big Brother nabízí video stream, Vyvolení ho teprve plánují.

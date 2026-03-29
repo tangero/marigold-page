@@ -4,7 +4,6 @@ slug: '3g-site-v-problemech-wlan-je-mobilnim-operatorum-doporucovano'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Presscentrum vyhodilo flákače s notebookem připojeného k internetu.
 - Autor píše deset článků, jeden o WiFi řešeních HP.

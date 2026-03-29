@@ -4,7 +4,6 @@ slug: 'drobky-internetova-telefonie-a-wimax-na-lupe-netfayn-na-mobilu-a-dalsi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Lupa publikovala článek o internetové telefonii a regulaci SIP versus Skype.
 - Rita Pužmanová na Lupě se věnuje WiMAX a bezdrátovým metropolitním sítím.

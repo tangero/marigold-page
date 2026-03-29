@@ -7,7 +7,6 @@ categories:
 - iPhone
 
   '
-published: true
 summary_points:
 - 'iPhone zaujal tři skupiny lidí: nadšené, lhostejné a kritické.'
 - Apple arogantně vnutil operátorům své podmínky prodeje iPhonu.

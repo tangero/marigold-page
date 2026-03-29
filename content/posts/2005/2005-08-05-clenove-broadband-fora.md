@@ -4,7 +4,6 @@ slug: 'clenove-broadband-fora'
 author: Noname
 
   '
-published: true
 summary_points:
 - Broadband fórum má 14 členů, nikoliv původně avizovaných 11.
 - Marcela Gürlichová z Úřadu Vlády ČR a Přemysl Klíma z APKT jsou jmenováni.

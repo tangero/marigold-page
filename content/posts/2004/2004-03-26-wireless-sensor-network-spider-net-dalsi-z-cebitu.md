@@ -4,7 +4,6 @@ slug: 'wireless-sensor-network-spider-net-dalsi-z-cebitu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WSN jsou bezdrátové sítě pro sběr dat ze senzorů.
 - Spider-Net je WSN vyvíjená Drážďanskou technickou univerzitou.

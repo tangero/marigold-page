@@ -4,7 +4,6 @@ slug: 'divni-lide-s-anarchizujicimi-sklony'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - Truck trial zaujal autora minimálním dopadem na okolní pískovnu.
 - Řidiči trucků projevovali anarchizující sklony kritikou politiky a daní.

@@ -4,7 +4,6 @@ slug: 'widenet-nabizi-platbu-wifi-hotspotu-pres-pr-sms'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WideNet rozšířil platby SMS za WiFi hotspoty o operátory Oskar a Eurotel.
 - Platby SMS umožňují okamžitou aktivaci WiFi bez nutnosti skládat zálohy.

@@ -2,7 +2,6 @@
 slug: 'k-cemu-technologicke-firmy-potrebuji-antropology'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - Zaměstnanost antropologů v technologických firmách roste posledních 15 let.
 - Potřeba porozumění chování lidí při návrhu produktu pro různé kultury.

@@ -4,7 +4,6 @@ slug: 'jak-se-nekteri-chovaji-v-eteru-klfree-net'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Soukromníci provozující WiFi často nedodržují limity vyzařování, na rozdíl od firem.
 - KlFree.Net v Kladně překračuje povolený vyzářený výkon antény, ignoruje nálezy ČTÚ.

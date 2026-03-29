@@ -23,7 +23,7 @@ source:
   name: The Times of India
 title: 'Lightspeed sází velko na AI, skutečná výhoda Indie spočívá v aplikované inovaci:
   Ravi Mhatre a Bejul Somaia'
-url: https://economictimes.indiatimes.com/tech/technology/indias-real-edge-is-in-applied-tech-innovation-lightspeeds-top-brass/articleshow/128684040.cms
+source_url: https://economictimes.indiatimes.com/tech/technology/indias-real-edge-is-in-applied-tech-innovation-lightspeeds-top-brass/articleshow/128684040.cms
 urlToImage: https://img.etimg.com/thumb/width-1200,height-900,imgsize-34588,resizemode-75,msid-128684040/tech/technology/indias-real-edge-is-in-applied-tech-innovation-lightspeeds-top-brass.jpg
 urlToImageBackup: https://img.etimg.com/thumb/width-1200,height-900,imgsize-34588,resizemode-75,msid-128684040/tech/technology/indias-real-edge-is-in-applied-tech-innovation-lightspeeds-top-brass.jpg
 ---

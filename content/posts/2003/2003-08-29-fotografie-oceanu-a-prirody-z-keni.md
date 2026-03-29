@@ -4,7 +4,6 @@ slug: 'fotografie-oceanu-a-prirody-z-keni'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Fotoarchiv rozšířen o nové detailní fotografie přírody a oceánu z Keni.
 - Autor je hrdý na noční fotografie pořízené Sony 717 za svitu měsíce.

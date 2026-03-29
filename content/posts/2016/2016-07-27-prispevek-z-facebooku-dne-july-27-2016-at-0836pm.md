@@ -4,7 +4,6 @@ slug: 'prispevek-z-facebooku-dne-july-27-2016-at-0836pm'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Hra s přezůvkami na základce byla nevyhratelná kvůli fyzikálním zákonům.
 - Pasivní přístup zastavil šikanu efektivněji než konfrontace.

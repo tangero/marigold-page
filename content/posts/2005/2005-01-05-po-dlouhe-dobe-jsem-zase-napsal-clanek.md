@@ -4,7 +4,6 @@ slug: 'po-dlouhe-dobe-jsem-zase-napsal-clanek'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Článek Orkut, pozvánky a budoucnost SocioWare byl slíben v listopadu, ale dopsán
   až nyní.

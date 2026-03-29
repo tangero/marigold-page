@@ -4,7 +4,6 @@ slug: 's-novou-protiterorostickou-upravou-trestniho-zakoniku-bude-zrejme-psina'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Trestní zákoník má trestat znalost postupů pro přístup k systémům.
 - Telnet ve Windows by mohl být dle novely trestný.

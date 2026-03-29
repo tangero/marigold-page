@@ -4,7 +4,6 @@ slug: 'kde-se-vzalo-vice-mobilu-nez-obyvatel'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - SIM karty v ČR přesáhly počet obyvatel, penetrace mobilů dosáhla 104 %.
 - Operátor v Cannes se divil vysoké penetraci, vysvětleno SIM v automatech.

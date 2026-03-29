@@ -4,7 +4,6 @@ slug: 'ajaj-budeme-regulovat-ip-telefonii-jen-co-regulatori-vymysli-jak'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Evropská komise projednává regulaci přístupu ke službám využívajícím internetový
   protokol.

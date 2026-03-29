@@ -4,7 +4,6 @@ slug: 'kdo-tu-provozuje-broadband'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Projekt hledá české broadband poskytovatele (nad 512 Kb/s) pro rezidenční trh.
 - Požadavek kvalitní páteřní sítě a benevolentní FUP diskvalifikuje 4G Internet od

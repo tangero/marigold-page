@@ -2,7 +2,6 @@
 slug: 'digitalni-nevolnictvi-bylo-soukrome-vlastnictvi-jen-chvilkovy-prelud'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - Software EULA a DRM omezují soukromé vlastnictví digitálních produktů.
 - Hudba přešla z fyzického vlastnictví na pronájem přes streamovací služby.

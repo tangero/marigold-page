@@ -4,7 +4,6 @@ slug: 'wifi-pripojeni-v-prodejnach-autocontu-zdarma'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - AutoCont nabízí bezplatné WiFi připojení ve svých prodejnách.
 - Ověření této informace mimo leták je obtížné.

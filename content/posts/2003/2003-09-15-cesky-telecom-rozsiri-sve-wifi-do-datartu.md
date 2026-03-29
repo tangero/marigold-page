@@ -4,7 +4,6 @@ slug: 'cesky-telecom-rozsiri-sve-wifi-do-datartu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Datart rozšíří WiFi Českého Telecomu do pěti nákupních center.
 - Brno bude první lokalitou s WiFi od 20. září.

@@ -4,7 +4,6 @@ slug: 'poeticke-seznamovani-s-mecikem'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Mac Mini je pro autora vhodný pracovní nástroj, nikoliv objekt chlubení.
 - Ergonomie Mac OS X je přirozenější než Windows, i pro konvertity.

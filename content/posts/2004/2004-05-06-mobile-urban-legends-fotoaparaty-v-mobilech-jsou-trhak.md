@@ -4,7 +4,6 @@ slug: 'mobile-urban-legends-fotoaparaty-v-mobilech-jsou-trhak'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Japonské průzkumy ukazují intenzivní používání fotoaparátů v mobilech krátce po
   zakoupení.

@@ -4,7 +4,6 @@ slug: 'gprs-roaming-bezi-diky-bohove-a-t-mobile'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - GPRS roaming T-Mobile a Orange F levnější než SFR WiFi.
 - Datový roaming a MMS udržely autora u T-Mobile.

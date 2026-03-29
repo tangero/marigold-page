@@ -4,7 +4,6 @@ slug: 'mobilkom-sit-bude-mozna-u-fon'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - 'MobilKom si 12.2.2007 přihlásil tři značky: U-fon, U : fon a Ufon.'
 - Značka zeleného mužíka s anténkama nebyla firmou MobilKom přihlášena.

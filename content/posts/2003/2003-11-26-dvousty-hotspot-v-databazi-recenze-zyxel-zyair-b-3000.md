@@ -4,7 +4,6 @@ slug: 'dvousty-hotspot-v-databazi-recenze-zyxel-zyair-b-3000'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Dvoustý hotspot v databázi patří síti CzFree.Net a je v Praze 4.
 - ZyXEL ZyAIR B-3000 recenzován na WiFiNetNews.

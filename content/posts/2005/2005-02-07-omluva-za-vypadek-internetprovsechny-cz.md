@@ -4,7 +4,6 @@ slug: 'omluva-za-vypadek-internetprovsechny-cz'
 author: Noname
 
   '
-published: true
 summary_points:
 - Internet Pro Všechny se omlouvá za výpadek serveru www.internetprovsechny.cz.
 - Disk serveru u poskytovatele PinkNET selhal a záloha neexistuje.

@@ -4,7 +4,6 @@ slug: 'cesky-telecom-hlasi-50-000-uzivatelu-adsl'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - září ADSL od Českého Telecomu využívalo přes 50 000 uživatelů.
 - Český Telecom zdvojnásobil počet ADSL klientů za poslední čtyři měsíce.

@@ -4,7 +4,6 @@ slug: 'patecni-cteni-proc-jsme-neverili-na-novinarinu-a-jak-jsme-branili-telecom
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Páteční čtení nabízí odlehčený pohled na nedávnou minulost.
 - Článek se zabývá nedůvěrou autorů v novinařinu a etické kodexy.

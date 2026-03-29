@@ -6,7 +6,6 @@ categories:
 - Politika
 
   '
-published: true
 summary_points:
 - Volby 2013 odhalily hluboké rozdělení české společnosti na dva nesmiřitelné tábory.
 - Zeman oslovuje manuálně pracující, kterým vadí "bílé límečky" a nejistá budoucnost.

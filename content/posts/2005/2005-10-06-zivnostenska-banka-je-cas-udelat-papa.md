@@ -4,7 +4,6 @@ slug: 'zivnostenska-banka-je-cas-udelat-papa'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Živnostenská banka se stala nepochopitelnou po převzetí italským majitelem.
 - Instalace e-bankingu Živnobanky je komplikovaná a vede k frustraci.

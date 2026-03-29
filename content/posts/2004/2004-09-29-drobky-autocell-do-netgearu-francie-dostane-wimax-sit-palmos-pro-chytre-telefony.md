@@ -4,7 +4,6 @@ slug: 'drobky-autocell-do-netgearu-francie-dostane-wimax-sit-palmos-pro-chytre-t
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - NetGear aktualizuje WiFi produkty WG302 a WAG511s o funkci AutoCell.
 - Altitude Telecom plánuje pokrýt celou Francii WiMax sítí pro malé firmy.

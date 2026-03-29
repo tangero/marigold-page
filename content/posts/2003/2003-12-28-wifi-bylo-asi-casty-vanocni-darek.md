@@ -4,7 +4,6 @@ slug: 'wifi-bylo-asi-casty-vanocni-darek'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Vánoce trávili v Chotěboři, kde řešili problém s mrazem v lednici.
 - Dita pracovala s notebookem, autor ripoval hudbu do WMA kvůli placenému MP3.

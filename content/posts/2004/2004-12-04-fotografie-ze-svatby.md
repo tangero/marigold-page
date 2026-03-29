@@ -4,7 +4,6 @@ slug: 'fotografie-ze-svatby'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Svatba proběhla bez problémů, autor s Ditou děkují za účast a přání.
 - Fotografie ze svatby pořídil otec Helmut digitálním fotoaparátem poprvé.

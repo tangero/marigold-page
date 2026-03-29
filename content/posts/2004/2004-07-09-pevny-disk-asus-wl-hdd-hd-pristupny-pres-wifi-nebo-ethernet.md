@@ -4,7 +4,6 @@ slug: 'pevny-disk-asus-wl-hdd-hd-pristupny-pres-wifi-nebo-ethernet'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Asus WL-HDD(HD) je 2,5palcový disk s ethernetem a WiFi 802.11g.
 - Samba server umožňuje disku fungovat jako síťová jednotka.

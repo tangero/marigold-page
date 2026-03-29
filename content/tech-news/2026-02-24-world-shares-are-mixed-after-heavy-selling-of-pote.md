@@ -16,7 +16,7 @@ source:
   name: Boston Herald
 title: Světové akcie smíšené po masivním prodeji potenciálních poražených v AI na
   Wall Street
-url: https://www.bostonherald.com/2026/02/24/world-shares-stocks-wall-street/
+source_url: https://www.bostonherald.com/2026/02/24/world-shares-stocks-wall-street/
 urlToImage: https://www.bostonherald.com/wp-content/uploads/2026/02/South_Korea_Financial_Markets_39488-1.jpg?w=1024&h=682
 urlToImageBackup: https://www.bostonherald.com/wp-content/uploads/2026/02/South_Korea_Financial_Markets_39488-1.jpg?w=1024&h=682
 ---

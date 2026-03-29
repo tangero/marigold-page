@@ -4,7 +4,6 @@ slug: 'cesky-telecom-wifi-pripojeni-delame-trochu-nelogicky'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Český Telecom používá pro WiFi pouze vnitřní přístupové body bez externí antény.
 - Pokrytí WiFi je téměř výhradně uvnitř budov Telepointů a pump Shell.

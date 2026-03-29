@@ -4,7 +4,6 @@ slug: 'web-pipeline'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Převis práce a nevyspání autora po včerejší moderaci panelové diskuse.
 - Společnost Pipeline spustila nabídku služeb koncovým zákazníkům a nový web.

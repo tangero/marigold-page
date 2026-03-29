@@ -4,7 +4,6 @@ slug: 'svycarsko-se-ubranilo-dani-ze-sms'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Švýcarský parlament zamítl návrh na zdanění SMS zpráv 5 centimy za zprávu.
 - Návrh daně ze SMS měl ve Švýcarsku přinést 150 milionů franků na národní bezpečnost.

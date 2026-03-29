@@ -4,7 +4,6 @@ slug: 'idnes-poskytuje-internet-zdarma'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - iDNES bude poskytovat Internet zdarma, na rozdíl od Seznamu a Centra.
 - iDNES zvolil Contactel jako poskytovatele, Seznam a Centrum Aliatel.

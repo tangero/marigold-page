@@ -4,7 +4,6 @@ slug: 'cdma-saga-v-technoreflexi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Unstrug reportuje o Eurotelu a jeho CDMA450, vnímaném jako "kacířství".
 - Eurotel zjistil, že Nokia nenabízí řešení pro pásmo 450 MHz.

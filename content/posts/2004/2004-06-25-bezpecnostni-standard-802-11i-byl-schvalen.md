@@ -4,7 +4,6 @@ slug: 'bezpecnostni-standard-802-11i-byl-schvalen'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - i standard schválen, přináší silnější zabezpečení než WEP a WPA.
 - AES šifrování s 802.1X/EAP-TLS nebo PEAP je klíčovou novinkou standardu 802.11i.

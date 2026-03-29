@@ -6,7 +6,6 @@ categories:
 - Mobilní sítě
 
   '
-published: true
 summary_points:
 - Britský tarif 3 nabízí 750 minut a SMS za 1100 Kč s úpisem.
 - České tarify srovnatelné služby stojí 1400 Kč až 1782 Kč.

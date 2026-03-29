@@ -4,7 +4,6 @@ slug: 'klfree-net-jako-eserocko-nebo-obcanske-sdruzeni'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - KlFree.Net řeší převod sítě do soukromé firmy Datinel s.r.o. za pořizovací cenu.
 - Milan Krčmář a Jaromír Šulc navrhují převod, Roman Štec je proti.

@@ -4,7 +4,6 @@ slug: 'drobky-robot-aibo-dela-vlastni-weblog-srazky-via-mms-a-dalsi-drobnosti'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Eurotel ruší CDMA450 kvůli obavám o ADSL, tvrdí Jiří Peterka.
 - Rita Pužmanová na Lupě píše o technologii 802.11g.

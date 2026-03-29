@@ -4,7 +4,6 @@ slug: 'stream-umozni-vlozit-video-do-vasich-stranek-a-priklad-u-fona'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Stream umožňuje vkládat uživatelská videa do stránek pomocí vygenerovaného HTML
   kódu.

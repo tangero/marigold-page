@@ -4,7 +4,6 @@ slug: 'hracicky-bez-dratu-mp3-z-pc-do-veze'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor bude psát o zajímavých technických řešeních s rádiovým přenosem.
 - Free Music Transplayer přenáší hudbu z PC do věže bezdrátově přes FM.

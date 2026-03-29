@@ -4,7 +4,6 @@ slug: 'inetdrobky-proc-pouzivam-komercni-email-napad-vydat-bloggerskou-knihu-cyk
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Článek na Lupě pojednává o výhodách placeného emailu, konkrétně Runbox.com.
 - Kostěj plánuje vydat knihu svých blognutí formou předobjednávek s cílem 1000 zájemců.

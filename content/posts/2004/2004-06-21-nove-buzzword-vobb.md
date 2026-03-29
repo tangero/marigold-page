@@ -4,7 +4,6 @@ slug: 'nove-buzzword-vobb'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - VoBB znamená Voice over BroadBand, což je internetová telefonie s kvalitativními
   parametry.

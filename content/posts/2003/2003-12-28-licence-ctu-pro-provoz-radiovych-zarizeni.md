@@ -4,7 +4,6 @@ slug: 'licence-ctu-pro-provoz-radiovych-zarizeni'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - ČTÚ vydává generální licence pro běžné používání radiových zařízení, například mobilních
   telefonů.

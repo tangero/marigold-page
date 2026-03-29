@@ -4,7 +4,6 @@ slug: 'problem-dosla-baterie-adapter-neni-budeme-bez-cestiny'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Notebooku došla baterie, české znaky nelze psát kvůli absenci klávesnice a fontů.
 - Samsung pořádá tiskovou konferenci "The Future of the Mobile Phone and Networking

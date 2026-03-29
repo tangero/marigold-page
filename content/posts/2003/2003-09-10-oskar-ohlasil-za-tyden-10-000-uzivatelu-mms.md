@@ -4,7 +4,6 @@ slug: 'oskar-ohlasil-za-tyden-10-000-uzivatelu-mms'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Oskar aktivoval 10 000 MMS uživatelů během týdne po spuštění služby.
 - Balíčky MMS zdarma a načasování spuštění služby přispěly k úspěchu Oskara.

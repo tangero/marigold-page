@@ -4,7 +4,6 @@ slug: 'czfree-net-rok-pote-na-hranicich-rise'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - CzFree.Net je přirovnáván k Asimově Říši z cyklu Nadace kvůli podobným problémům.
 - Autor publikoval názor na CzFree.Net s ročním odstupem.

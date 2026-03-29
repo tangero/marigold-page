@@ -4,7 +4,6 @@ slug: 'uz-jste-dneska-zvraceli-a-za-chvili-mate-sednout-do-auta'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Motobanda nabízí fotogalerie z bouraček k zamyšlení nad riziky.
 - Konkrétní fotka na Motobandě je silně nevhodná pro citlivé jedince.

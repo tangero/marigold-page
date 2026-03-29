@@ -4,7 +4,6 @@ slug: 'mafra-koupila-classic-fm'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Mafra a.s., vydavatel MF DNES, koupila rádio Classic FM.
 - Oznámení o koupi rádia Mafra rozeslala SMS zprávou.

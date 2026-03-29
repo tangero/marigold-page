@@ -4,7 +4,6 @@ slug: 'tak-nejak-mi-vytekly-nervy-a-koupil-jsem-si-mac-mini'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Notebook uživatele selhal, což vedlo ke ztrátě neuložené knihy (150 000 znaků).
 - Ztráta dat vedla k rozhodnutí reorganizovat uživatelův "strojový park".

@@ -4,7 +4,6 @@ slug: 'nec-bude-3g-telefony-outsourcovat-freecz-net-prestehovan-vodafone-live-ma
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - NEC outsourcuje výrobu 3G telefonů firmě Solectron v Číně, pro Japonsko vyrábí doma.
 - FreeCz.Net diskusní fórum se přesunulo na inWiFi kvůli nákladům a nízké návštěvnosti.

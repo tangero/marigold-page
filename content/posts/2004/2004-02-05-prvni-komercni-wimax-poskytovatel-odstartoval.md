@@ -4,7 +4,6 @@ slug: 'prvni-komercni-wimax-poskytovatel-odstartoval'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WiMAX základnová stanice od VeriLANu funguje v Oregonu na televizní věži.
 - Rychlosti WiMAXu dosahují 256 Kb/s až 24 Mb/s v dané lokalitě.

@@ -4,7 +4,6 @@ slug: 'michal-cupa-bude-sefovat-ruskemu-golden-telecomu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Michal Čupa jmenován provozním ředitelem (COO) ruského Golden Telecom.
 - Golden Telecom je významný ruský operátor srovnatelný s Contactelem.

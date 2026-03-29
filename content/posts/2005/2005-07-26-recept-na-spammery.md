@@ -4,7 +4,6 @@ slug: 'recept-na-spammery'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - Ook obdržel odkaz na diskusi o spamu na Slashdotu.
 - Objem spamu, který zaznamenává antispamové řešení, se nezměnil.

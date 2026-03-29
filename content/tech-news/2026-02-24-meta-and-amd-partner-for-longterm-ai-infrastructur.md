@@ -19,7 +19,7 @@ source:
   id: null
   name: Fb.com
 title: Meta a AMD uzavírají dlouhodobou dohodu na AI infrastrukturu
-url: https://about.fb.com/news/2026/02/meta-amd-partner-longterm-ai-infrastructure-agreement/
+source_url: https://about.fb.com/news/2026/02/meta-amd-partner-longterm-ai-infrastructure-agreement/
 urlToImage: https://about.fb.com/wp-content/uploads/2026/02/Helios-Partnership_Header.jpg?w=1200
 urlToImageBackup: https://about.fb.com/wp-content/uploads/2026/02/Helios-Partnership_Header.jpg?w=1200
 ---

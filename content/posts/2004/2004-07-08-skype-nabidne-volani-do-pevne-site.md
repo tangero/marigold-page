@@ -4,7 +4,6 @@ slug: 'skype-nabidne-volani-do-pevne-site'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Skype nabídne koncem roku placené volání do telefonní sítě bez příchozího čísla.
 - Fayn umožňuje volání do USA za 2,50 Kč za minutu.

@@ -4,7 +4,6 @@ slug: 'dalsi-operator-zradil-a-paktuje-se-skype'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Skype doporučuje a používá síť 3 Hutchisonu, největší evropská UMTS síť.
 - Hutchison vidí Skype jako důvod pro pořízení 3G služeb.

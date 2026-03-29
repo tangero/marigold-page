@@ -4,7 +4,6 @@ slug: 'drobky-wifi-televize-recenze-ethernet-wifi-adapteru-sms-z-pevne-linky'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Microsoft ukončil prodej WiFi produktů kvůli komoditnímu trhu a nezájmu o home segment.
 - Sony vyvíjí WiFi televizi, základnovou stanici s WiFi a odnímatelným LCD displejem.

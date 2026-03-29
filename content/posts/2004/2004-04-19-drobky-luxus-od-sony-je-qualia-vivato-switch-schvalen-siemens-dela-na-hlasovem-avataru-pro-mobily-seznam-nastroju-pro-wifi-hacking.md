@@ -4,7 +4,6 @@ slug: 'drobky-luxus-od-sony-je-qualia-vivato-switch-schvalen-siemens-dela-na-hla
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Sony uvede luxusní značku Qualia se spotřební elektronikou, obchody budou v USA.
 - T-Mobile nabízí balíček s GPS navigací pro PocketPC zařízení.

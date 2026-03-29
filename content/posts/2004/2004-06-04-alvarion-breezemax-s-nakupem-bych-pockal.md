@@ -4,7 +4,6 @@ slug: 'alvarion-breezemax-s-nakupem-bych-pockal'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Alvarion BreezeMax je první WiMax kompatibilní produktová řada dle draftů specifikací.
 - Finální WiMax standardy budou dostupné koncem léta (IEEE) a na podzim (WiMAX).

@@ -4,7 +4,6 @@ slug: 'lidove-noviny-dnes-o-weblogu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Lidové noviny vydaly článek o weblozích v příloze Pátek.
 - Článek zmiňuje Řetězčin blog, Žertvův deníček a Gentlemanův weblog.

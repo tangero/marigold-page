@@ -6,7 +6,6 @@ categories:
 - Média
 
   '
-published: true
 summary_points:
 - Lidové noviny nepochybily neprolinkováním Scuku, šlo o vyjádření, ne citaci.
 - Linkování citací informací je pochopitelné, linkování vyjádření zaslaných emailem

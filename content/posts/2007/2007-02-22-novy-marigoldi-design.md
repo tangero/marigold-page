@@ -4,7 +4,6 @@ slug: 'novy-marigoldi-design'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Marigoldův dočasný design byl vylepšen autorem s pomocí Japana a CSS expertů.
 - Po čtyřech měsících od přechodu na nový systém byl upravený design nasazen.

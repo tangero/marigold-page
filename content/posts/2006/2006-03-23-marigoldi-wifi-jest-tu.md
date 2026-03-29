@@ -4,7 +4,6 @@ slug: 'marigoldi-wifi-jest-tu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Marigoldí WiFi tutorial je dostupný na www.marigold.cz/wifi.
 - Tutorial je přehled informací pro začátečníky o WiFi sítích.

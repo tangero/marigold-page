@@ -4,7 +4,6 @@ slug: 'czechtek-2005-policie-zmlatila-nase-deti-nas-necha-tvrdnout-na-ucpane-dal
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Policie lhala o důvodech zásahu proti CzechTeku a ucpání dálnice.
 - Zásah proti CzechTeku byl nepřiměřený hluku a dalším drobným přestupkům.

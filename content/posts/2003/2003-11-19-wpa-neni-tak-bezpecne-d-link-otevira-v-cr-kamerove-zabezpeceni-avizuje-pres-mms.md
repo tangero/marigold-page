@@ -4,7 +4,6 @@ slug: 'wpa-neni-tak-bezpecne-d-link-otevira-v-cr-kamerove-zabezpeceni-avizuje-pr
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WPA má potenciální bezpečnostní problémy pro malé uživatele, nikoliv pro 802.1x.
 - D-Link otevřel 1. listopadu 2003 regionální zastoupení v Praze.

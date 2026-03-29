@@ -4,7 +4,6 @@ slug: 'netmag-vyhrava-cenu-za-nejdelsi-vypadek-serveru'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - NetMag, server existující od roku 1996, měl dvouletý výpadek (2001-2003).
 - Zbyněk Pospíchal server NetMag po dlouhé době nerestartování u ISP obnovil.

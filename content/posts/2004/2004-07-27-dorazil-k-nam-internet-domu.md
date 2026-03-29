@@ -4,7 +4,6 @@ slug: 'dorazil-k-nam-internet-domu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Internetové připojení do bytu nakonec zařídil kontakt na technika UPC.
 - Router nefungoval, protože MAC adresa byla registrována na staré adrese.

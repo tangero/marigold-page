@@ -2,7 +2,6 @@
 slug: 'dneska-apple-potvrdi-ze-jsme-na-konci-intenzifikacniho-cyklu'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - Apple představuje nové počítačové novinky a verze operačních systémů.
 - Očekávání jsou nižší, novinky se zdají být neinspirativní.

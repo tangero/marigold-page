@@ -4,7 +4,6 @@ slug: 'patria-direct-umi-obchodovat-s-akciemi-na-zahranicnich-burzach'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Patria Direct umožňuje nově obchodování na zahraničních trzích online.
 - Poplatky Patria Direct za obchodování v USA jsou dražší než u Ameritrade.

@@ -4,7 +4,6 @@ slug: 'wireless-distribution-system-wds-aneb-bezdratovy-system-propojeni-1074'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WDS propojuje access pointy skrze WiFi, vyhrazuje pásmo pro jejich komunikaci.
 - Intersil vyvinul WDS pro čipové sady Prism, maximálně osm přístupových bodů.

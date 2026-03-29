@@ -4,7 +4,6 @@ slug: 'komunitni-site-aneb-podelte-se-o-internet-se-sousedem'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Komunitní sítě sdílejí internet, data, hry mezi sousedy za úhradu nákladů.
 - WiFi je oblíbené pro jednoduchost, ale kabel je levnější na kratší vzdálenosti.

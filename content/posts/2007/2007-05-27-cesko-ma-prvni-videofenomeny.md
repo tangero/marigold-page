@@ -4,7 +4,6 @@ slug: 'cesko-ma-prvni-videofenomeny'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Noisebrothers jsou český videofenomén, který Stream zviditelnil a popostrčil.
 - Facka Miroslava Macka Davidu Rathovi nebyla řízená videoprodukce, tedy nebyla fenomén.

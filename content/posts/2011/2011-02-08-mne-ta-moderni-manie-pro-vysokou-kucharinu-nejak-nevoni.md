@@ -7,7 +7,6 @@ categories:
 - Příběhy
 
   '
-published: true
 summary_points:
 - Kuchařští experti se vyrojili, i ti, co dříve vařili špagety s landšmítem.
 - Pohlreich údajně způsobil zrušení zeleninové oblohy v hospodách.

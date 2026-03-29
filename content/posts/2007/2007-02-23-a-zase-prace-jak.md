@@ -4,7 +4,6 @@ slug: 'a-zase-prace-jak'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - NIX zákazníkem od 12.1., Vreco zajistil peering s klienty potřebnými pro Stream.
 - Stream TV se blíží ostrému startu, což znamená hodně práce.

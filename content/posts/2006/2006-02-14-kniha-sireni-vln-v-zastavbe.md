@@ -4,7 +4,6 @@ slug: 'kniha-sireni-vln-v-zastavbe'
 author: Noname
 
   '
-published: true
 summary_points:
 - Kniha Šíření vln v zástavbě je novinka z nakladatelství BEN.
 - Kniha je určena pro bezdrátové ISP a techniky mobilních operátorů.

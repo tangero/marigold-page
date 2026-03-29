@@ -4,7 +4,6 @@ slug: 'sony-ericsson-potvrdil-prvni-termin-dodavek-3g-modelu-z1010'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Sony Ericsson Z1010 bude dodáván v lednu 2004.
 - Videokonference jsou hlavní zbraní tohoto 3G telefonu.

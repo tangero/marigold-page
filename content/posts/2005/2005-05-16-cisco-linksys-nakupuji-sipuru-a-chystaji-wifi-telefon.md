@@ -4,7 +4,6 @@ slug: 'cisco-linksys-nakupuji-sipuru-a-chystaji-wifi-telefon'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Linksys kupuje Sipuru za 68 milionů dolarů v hotovosti a opcích.
 - Sipura je získána kvůli výzkumu a zákaznické základně v oblasti VoIP.

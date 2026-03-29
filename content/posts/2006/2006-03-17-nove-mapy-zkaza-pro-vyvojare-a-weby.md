@@ -4,7 +4,6 @@ slug: 'nove-mapy-zkaza-pro-vyvojare-a-weby'
 author: Noname
 
   '
-published: true
 summary_points:
 - Mapy.cz mají novou verzi, která je celkově vylepšená.
 - Nová verze Mapy.cz způsobila nefunkčnost původního Mapy API.

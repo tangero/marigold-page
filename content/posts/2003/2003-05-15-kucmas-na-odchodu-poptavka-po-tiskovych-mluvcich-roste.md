@@ -4,7 +4,6 @@ slug: 'kucmas-na-odchodu-poptavka-po-tiskovych-mluvcich-roste'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Jan Kučmáš odchází z Eurotelu kvůli nespokojenosti se zaměstnavatelem.
 - Diana Dobalová má nastoupit do Eurotelu na pozici tiskové mluvčí.

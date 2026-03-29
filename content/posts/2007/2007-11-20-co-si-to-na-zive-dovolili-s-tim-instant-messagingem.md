@@ -4,7 +4,6 @@ slug: 'co-si-to-na-zive-dovolili-s-tim-instant-messagingem'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Živě.cz redakce opustila ICQ kvůli problémům a přešla na MSN Messenger.
 - Instant messengery trpí uzavřeností, což je paradoxně i jejich výhoda.

@@ -4,7 +4,6 @@ slug: 'frantiskanska-zahrada-hlasi-pokryto'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Františkánská zahrada v Praze nově nabízí WiFi připojení WideNetu.
 - WideNet hotspot pokrývá Františkánskou zahradu z hotelu Adria.

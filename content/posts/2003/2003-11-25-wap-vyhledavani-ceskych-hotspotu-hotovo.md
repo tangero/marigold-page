@@ -4,7 +4,6 @@ slug: 'wap-vyhledavani-ceskych-hotspotu-hotovo'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Marigold a.s. spustila WiFi Hotspot Finder pro vyhledávání WiFi sítí v ČR.
 - Služba je dostupná přes web marigold.cz/hotspoty a WAP na marigold.cz/wap.

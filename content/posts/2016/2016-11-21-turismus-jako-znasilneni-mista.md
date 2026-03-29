@@ -4,7 +4,6 @@ slug: 'turismus-jako-znasilneni-mista'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Čínským partnerům ukázán Karlštejn s privátními místnostmi císaře
 - Průvodkyně odhalila transformaci soukromých prostor v turistické atrakce

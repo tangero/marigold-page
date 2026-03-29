@@ -4,7 +4,6 @@ slug: 'prinasime-vam-exkluzivni-preklad-myslenek-aruna-sarina'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Arun Sarinova prohlášení o VoIP naznačují, že mobilní operátoři se poučí z chyb
   pevných sítí.

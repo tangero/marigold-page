@@ -18,7 +18,7 @@ source:
   id: techradar
   name: TechRadar
 title: 'Velký únik dat z CarGurus: Údajně ukradeno 1,7 milionu korporátních záznamů'
-url: https://www.techradar.com/pro/security/major-cargurus-data-breach-reportedly-sees-1-7-million-corporate-records-stolen
+source_url: https://www.techradar.com/pro/security/major-cargurus-data-breach-reportedly-sees-1-7-million-corporate-records-stolen
 urlToImage: https://cdn.mos.cms.futurecdn.net/ThNyuwnA55tfcixfqWcEcA-970-80.jpg
 urlToImageBackup: https://cdn.mos.cms.futurecdn.net/ThNyuwnA55tfcixfqWcEcA-970-80.jpg
 ---

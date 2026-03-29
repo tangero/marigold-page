@@ -4,7 +4,6 @@ slug: 'zbesila-jizda-na-leopardu-1-zaciname-s-novinkami-mac-os-x-105'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Leopard upgrade způsobil autorovi problémy kvůli nečekanému tvrdému restartu.
 - Finder v Leopardu lépe pracuje se síťovými disky díky oddělenému vláknu.

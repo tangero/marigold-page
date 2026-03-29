@@ -4,7 +4,6 @@ slug: 'wireless-unleashed-lobby-za-uvolneni-dalsich-frekvenci-pro-bezlicencni-po
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Wireless Unleashed propaguje uvolnění frekvencí pro bezlicenční použití v USA.
 - Kevin Werbach, Andrew Odlyzko, David Isenberg a Clay Shirky stojí za Wireless Unleashed.

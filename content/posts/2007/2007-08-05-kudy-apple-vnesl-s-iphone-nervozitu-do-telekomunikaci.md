@@ -4,7 +4,6 @@ slug: 'kudy-apple-vnesl-s-iphone-nervozitu-do-telekomunikaci'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - iPhone mění telekomunikace, protože Apple je IT firma vstupující na trh.
 - Apple upřednostňuje standardy IT světa (H.264, AAC) před telekomunikačními (Flash,

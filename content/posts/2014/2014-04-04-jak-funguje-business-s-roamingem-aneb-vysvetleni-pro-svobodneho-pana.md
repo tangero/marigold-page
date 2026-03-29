@@ -4,7 +4,6 @@ slug: 'jak-funguje-business-s-roamingem-aneb-vysvetleni-pro-svobodneho-pana'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - EU zakázala roamingové poplatky, což snížilo ceny pro spotřebitele.
 - Roamingové poplatky slouží velkým operátorům k blokování konkurence.

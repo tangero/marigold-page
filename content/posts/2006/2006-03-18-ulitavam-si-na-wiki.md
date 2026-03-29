@@ -4,7 +4,6 @@ slug: 'ulitavam-si-na-wiki'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Ta-Da list widget je jednoduchý úkolovník s RSS podporou pro sledování úkolů.
 - Wiki aplikace, například WikiNotes a WikiPad, usnadňují tvorbu textů bez pevné struktury.

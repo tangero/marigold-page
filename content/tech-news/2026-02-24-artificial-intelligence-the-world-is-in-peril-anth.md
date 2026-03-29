@@ -21,7 +21,7 @@ source:
   id: null
   name: Freerepublic.com
 title: 'Umělá inteligence – „Svět je v nebezpečí“: Šéf bezpečnosti Anthropic rezignuje'
-url: https://freerepublic.com/focus/f-chat/4368066/posts
+source_url: https://freerepublic.com/focus/f-chat/4368066/posts
 ---
 
 ## Souhrn

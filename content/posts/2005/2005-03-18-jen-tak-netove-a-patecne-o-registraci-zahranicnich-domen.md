@@ -4,7 +4,6 @@ slug: 'jen-tak-netove-a-patecne-o-registraci-zahranicnich-domen'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Ceny domén a registrační podmínky se u evropských TLD výrazně liší.
 - Slovenskou doménu nelze registrovat bez slovenské firmy/osoby, obchází se mandátní

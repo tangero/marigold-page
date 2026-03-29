@@ -4,7 +4,6 @@ slug: 'dva-pekne-mobily-samsung-sgh-d410-a-nec-fotoaparat-s-gsm'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Samsung SGH-D410 má VGA kameru, 260k barevný displej a 10 MB RAM.
 - NEC kombinuje fotoaparát s GSM modulem a klávesnicí pro čínský trh.

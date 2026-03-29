@@ -4,7 +4,6 @@ slug: 'voipove-rusny-tyden'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Softphone má problémy kvůli neshodám s administrátorem Petrem Styxem.
 - Fayn nabízí slevy pro zákazníky Softphone, Viphone a Wirphone.

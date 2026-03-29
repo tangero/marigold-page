@@ -7,7 +7,6 @@ categories:
 - Apple
 
   '
-published: true
 summary_points:
 - iPhone 2007 způsobil revoluci komfortním internetem a rozšiřitelností aplikací.
 - NFC platby nejsou průlom, protože nenabízí zásadní výhody oproti stávajícím metodám.

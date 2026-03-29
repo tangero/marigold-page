@@ -4,7 +4,6 @@ slug: 'fcc-prideli-vice-prostoru-na-5ghz-telecom-italia-do-wifi-propustnost-wifi
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - FCC zřejmě přidělí 255 MHz pro nelicencované 5GHz spektrum.
 - USA budou moci používat 20 WiFi kanálů místo dvanácti.

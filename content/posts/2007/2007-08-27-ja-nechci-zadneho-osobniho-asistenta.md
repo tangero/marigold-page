@@ -4,7 +4,6 @@ slug: 'ja-nechci-zadneho-osobniho-asistenta'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Osobní asistenti firem jsou neefektivní, autor preferuje vlastní asistenty.
 - VIP status u banky a operátora nepřináší výhody, spíše komplikace.

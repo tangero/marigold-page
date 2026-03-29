@@ -4,7 +4,6 @@ slug: 'pul-tuny-serveru-muzu-to-tak-nechat'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Firma obdržela velké množství serverů, což způsobilo logistické komplikace s doručením.
 - Servery IBM byly převezeny do TTC Malešice, kde je Vreco a Franci vyfotili.

@@ -4,7 +4,6 @@ slug: 't-mobile-vylepsuje-sim-a-t-zones-prvni-pozde-druhe-malo'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Nové SIM karty T-Mobile podporují dvě bankovní aplikace současně, jako Eurotel.
 - JavaCard podpora je nová u SIM karet T-Mobile, ale zatím bez využití.

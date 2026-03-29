@@ -6,7 +6,6 @@ categories:
 - Google
 
   '
-published: true
 summary_points:
 - Google Knol, encyklopedie/platforma, byla uvolněna po stížnostech na její nedostupnost.
 - Knol se zaměřuje na praktické problémy, na rozdíl od encyklopedických hesel Wikipedie.

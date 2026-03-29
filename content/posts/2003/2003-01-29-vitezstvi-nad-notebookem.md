@@ -4,7 +4,6 @@ slug: 'vitezstvi-nad-notebookem'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Notebook zpřístupněn přeinstalací Windows XP, data zachráněna, programy ztraceny.
 - Data zazálohována ihned po zpřístupnění notebooku, hlavní cíl dosažen.

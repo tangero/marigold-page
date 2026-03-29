@@ -4,7 +4,6 @@ slug: 'sony-streamman-do-evropskych-siti-coze-aha-radio-bez-radia'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Sony StreamMan streamuje hudbu do mobilů se Symbianem (UIQ, Series60).
 - StreamMan ukládá hudbu do vyrovnávací paměti pro přehrávání offline.

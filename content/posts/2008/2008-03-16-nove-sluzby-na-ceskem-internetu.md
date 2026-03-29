@@ -6,7 +6,6 @@ categories:
 - Startupy
 
   '
-published: true
 summary_points:
 - eUcty.cz doplňuje systémy pro správu financí, podporuje mobilní přístup a import
   dat z ČSOB.

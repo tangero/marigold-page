@@ -4,7 +4,6 @@ slug: 'gprs-roaming-ucet-za-3500-usd'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Joi Ito zaplatil 3500 USD za GPRS roaming s T-Mobile během cestování.
 - Eurotel účtuje v Německu až 1000 Kč za 1 MB dat v GPRS roamingu.

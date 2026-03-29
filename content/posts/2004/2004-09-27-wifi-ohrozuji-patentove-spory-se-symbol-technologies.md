@@ -4,7 +4,6 @@ slug: 'wifi-ohrozuji-patentove-spory-se-symbol-technologies'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Symbol Technologies bude požadovat poplatky za patenty WiFi, první platí Proxim
   23 milionů USD.

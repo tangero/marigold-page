@@ -4,7 +4,6 @@ slug: 'bleskovka-chcete-se-na-neco-zeptat-ctc'
 author: Noname
 
   '
-published: true
 summary_points:
 - Tisková konference Telecomu se koná za 15 minut.
 - Tématem tiskové konference jsou nové tarify.

@@ -4,7 +4,6 @@ slug: 'neco-malo-fotek-folkova-ohre'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Folkovou Ohři na Hauenštejně navštívily kapely Nezmaři, Assonance a Hop Trop.
 - Na Hauenštejně proběhne 12.9. dražba řezbářských prací, seznam je online.

@@ -4,7 +4,6 @@ slug: 'vodablog-mobilni-weblogy-pro-vodafone-na-microsoft-net'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Vodablog.com je nová služba pro mobilní weblogy, možná testovací provoz Vodafonu.
 - Vodablog umožňuje vytváření jednoduchých weblogů a zasílání příspěvků pomocí MMS.

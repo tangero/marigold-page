@@ -6,7 +6,6 @@ categories:
 - Společnost
 
   '
-published: true
 summary_points:
 - Muž četl bulvární článek o konci světa v Hospodářských novinách.
 - Vzpomínky na dětství a četbu Májovek ho na chvíli potěšily.

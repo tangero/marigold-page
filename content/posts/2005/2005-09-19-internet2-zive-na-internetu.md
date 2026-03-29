@@ -4,7 +4,6 @@ slug: 'internet2-zive-na-internetu'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - Internet2 meeting začíná dnes ve Filadelfii, zaměřený na akademické aplikace.
 - Optické sítě, super kvalitní video, middleware, bezpečnost a Gridy jsou hlavní témata.

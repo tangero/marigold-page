@@ -4,7 +4,6 @@ slug: 'wia-pousti-dalsi-hotspoty-v-praze'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WIA síť přidá hotspoty, vhodné pro pevné připojení, kolem Vánoc.
 - Pankrác, Lhotka, Kobylisy, Bohnice a Košík získají nové WIA hotspoty.

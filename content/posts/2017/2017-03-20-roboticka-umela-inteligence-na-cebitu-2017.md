@@ -2,7 +2,6 @@
 slug: 'roboticka-umela-inteligence-na-cebitu-2017'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - Vystavujeme na CeBITu vedle japonského robotického pavilonu, což působí deprimujícím
   dojmem.

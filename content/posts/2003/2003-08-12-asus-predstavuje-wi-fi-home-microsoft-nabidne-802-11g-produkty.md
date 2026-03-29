@@ -4,7 +4,6 @@ slug: 'asus-predstavuje-wi-fi-home-microsoft-nabidne-802-11g-produkty'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - ASUS představil Wi-Fi@HOME, platformu pro domácí WLAN s deskou, kartou a Software
   AP.

@@ -4,7 +4,6 @@ slug: 'jsme-fakt-vychod'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - Pražský taxikář s logem VISA sprostě nadával cizincům kvůli opřenému kufru.
 - Žádná škoda na autě nevznikla, ale poškozena byla pověst taxislužby.

@@ -4,7 +4,6 @@ slug: 'odpoved-k-odpovedi-panu-rybarovi-aneb-pro-zajemce-o-jizdu-na-mrtvem-koni'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Pan Rybář neuznal chybu s publikací článku bez jeho vědomí.
 - Předražený roaming blokuje vstup alternativních operátorů na trh.

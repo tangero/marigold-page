@@ -4,7 +4,6 @@ slug: 'netgear-wgr101-prvni-kapesni-router'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Netgear WGR101 je kapesní WiFi router s podporou 802.11g.
 - Router WGR101 nabízí WPA, NAT, SPI firewall a IPSec zabezpečení.

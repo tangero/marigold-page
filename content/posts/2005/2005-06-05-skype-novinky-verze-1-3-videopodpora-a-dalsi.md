@@ -4,7 +4,6 @@ slug: 'skype-novinky-verze-1-3-videopodpora-a-dalsi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Skype vydal betaverzi 1.3 2. června 2005 s mnoha známými problémy.
 - Nová verze Skype umožňuje zanechat vzkaz i uživatelům bez záznamníku.

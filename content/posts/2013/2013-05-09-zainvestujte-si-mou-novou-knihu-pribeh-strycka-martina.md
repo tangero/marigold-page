@@ -7,7 +7,6 @@ categories:
 - Knihy
 
   '
-published: true
 summary_points:
 - Kniha Strýčka Martina vyjde papírově jen přes Startovač, autor chce osobní zkušenost.
 - Autor odmítl vydavatele, kniha je žánrově nezařaditelná, proto crowdfunding.

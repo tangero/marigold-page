@@ -18,7 +18,7 @@ source:
   name: BusinessLine
 title: 'Investice do AI v Indii prudce rostou; podíl AI ve venture capital financování
   stoupl na 12 % z 5 % v roce 2020: Zpráva'
-url: https://www.thehindubusinessline.com/info-tech/ai-investments-surging-in-india-ai-share-in-venture-capital-funding-rises-to-12-from-5-in-2020-report/article70666155.ece
+source_url: https://www.thehindubusinessline.com/info-tech/ai-investments-surging-in-india-ai-share-in-venture-capital-funding-rises-to-12-from-5-in-2020-report/article70666155.ece
 urlToImage: https://bl-i.thgim.com/public/incoming/9xzd5i/article70666205.ece/alternates/LANDSCAPE_1200/IMG_BL2301_Brand_SS_6_1_24APDQAC.jpg
 urlToImageBackup: https://bl-i.thgim.com/public/incoming/9xzd5i/article70666205.ece/alternates/LANDSCAPE_1200/IMG_BL2301_Brand_SS_6_1_24APDQAC.jpg
 ---

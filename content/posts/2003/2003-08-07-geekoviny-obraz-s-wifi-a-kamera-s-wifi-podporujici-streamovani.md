@@ -4,7 +4,6 @@ slug: 'geekoviny-obraz-s-wifi-a-kamera-s-wifi-podporujici-streamovani'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Wallflower je LCD obraz s WiFi, zobrazující fotky nahrané z počítače, za cenu 700
   dolarů.

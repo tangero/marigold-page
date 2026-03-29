@@ -4,7 +4,6 @@ slug: 'drobky-sit-s-variabilnim-ssid-voip-novinky-a-odkazy-na-zajimave-clanky'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Broadreach Networks nabízí ISP sdílenou WiFi síť s vlastním SSID pro snížení nákladů.
 - BroadVoice je poskytovatel internetové telefonie s voláním do ČR od 1,35 Kč/min.

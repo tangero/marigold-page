@@ -4,7 +4,6 @@ slug: 'podcast-blog'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Podcast blog na adrese podcasting.rogner.cz je kvalitní český zdroj o podcastech.
 - Wordpress se díky lokalizaci šíří na českém internetu a autor je s ním spokojen.

@@ -4,7 +4,6 @@ slug: 'mezera-na-trhu-dynamicke-cms-pro-staticke-stranky'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Firma řeší přípravu statického anglického webu bez dynamických prvků.
 - Statické stránky budou uloženy na Amazon S3 pro snadné zvládnutí zátěže.

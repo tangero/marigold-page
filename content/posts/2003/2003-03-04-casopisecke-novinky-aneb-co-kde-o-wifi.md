@@ -4,7 +4,6 @@ slug: 'casopisecke-novinky-aneb-co-kde-o-wifi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - PC Magazín nabízí deset stránek o WiFi a bezdrátových produktech za 105 Kč.
 - Chip minulý měsíc publikoval podobný přehled o WiFi technologiích.

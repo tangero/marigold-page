@@ -5,7 +5,6 @@ author: Patrick Zandl
 featured: true
 
   '
-published: true
 summary_points:
 - Banány se dovážejí hlavně v odrůdě Cavendish kvůli snadné přepravě a dozrávání.
 - Pět velkých firem ovládá globální obchod s banány, největší je Chiquita.

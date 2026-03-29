@@ -7,7 +7,6 @@ categories:
 - Tabu
 
   '
-published: true
 summary_points:
 - Yoani Sanches, kubánská blogerka, křtila film Zakázané hlasy na festivalu Jeden
   svět.

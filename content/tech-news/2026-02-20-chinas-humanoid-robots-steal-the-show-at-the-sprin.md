@@ -15,7 +15,7 @@ source:
   id: null
   name: Android Headlines
 title: Čínští humanoidní roboti zazářili na galavečeru Jarního festivalu
-url: https://www.androidheadlines.com/2026/02/china-humanoid-robots-steal-show-spring-festival-gala.html
+source_url: https://www.androidheadlines.com/2026/02/china-humanoid-robots-steal-show-spring-festival-gala.html
 urlToImage: https://www.androidheadlines.com/wp-content/uploads/2026/02/China-humanoid-robot-gala.jpg
 urlToImageBackup: https://www.androidheadlines.com/wp-content/uploads/2026/02/China-humanoid-robot-gala.jpg
 ---

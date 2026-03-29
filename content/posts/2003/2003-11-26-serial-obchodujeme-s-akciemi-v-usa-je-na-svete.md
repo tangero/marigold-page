@@ -4,7 +4,6 @@ slug: 'serial-obchodujeme-s-akciemi-v-usa-je-na-svete'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Peníze.cz publikují seriál o obchodování s akciemi na amerických trzích.
 - První díl seriálu představuje brokery pro obchodování na burze v New Yorku.

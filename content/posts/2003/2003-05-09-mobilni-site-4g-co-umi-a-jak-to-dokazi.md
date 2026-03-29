@@ -4,7 +4,6 @@ slug: 'mobilni-site-4g-co-umi-a-jak-to-dokazi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - G sítě mají problémy a ziskovost je nejistá, ale vývoj 4G a 5G pokračuje.
 - G označuje nové technické řešení, zatímco 5G je teoretická konvergence sítí.

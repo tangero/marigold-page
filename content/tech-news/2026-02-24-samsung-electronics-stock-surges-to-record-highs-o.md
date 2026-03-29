@@ -20,7 +20,7 @@ source:
   name: Ibtimes.com.au
 title: Akcie Samsung Electronics dosáhly rekordních výšin díky boomu AI pamětí, zásilky
   HBM4 pohánějí růst
-url: https://www.ibtimes.com.au/samsung-electronics-stock-surges-record-highs-ai-memory-boom-hbm4-shipments-drive-gains-1862011
+source_url: https://www.ibtimes.com.au/samsung-electronics-stock-surges-record-highs-ai-memory-boom-hbm4-shipments-drive-gains-1862011
 urlToImage: https://d.ibtimes.com.au/en/full/1870485/samsung-electronics-said-it-expected-fourth-quarter-profits-sharply-down-previous-quarter.jpg
 urlToImageBackup: https://d.ibtimes.com.au/en/full/1870485/samsung-electronics-said-it-expected-fourth-quarter-profits-sharply-down-previous-quarter.jpg
 ---

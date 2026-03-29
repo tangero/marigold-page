@@ -4,7 +4,6 @@ slug: 'jak-eet-dopadne-na-eshopy-bude-se-zdrazovat-komfort-poklesne'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - EET pro eshopy je nejasné a komplikované, s mnoha nejasnými pravidly.
 - Každá platební metoda vyžaduje jiný postup v EET, což zvyšuje složitost.

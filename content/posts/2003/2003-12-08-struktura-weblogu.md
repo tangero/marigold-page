@@ -4,7 +4,6 @@ slug: 'struktura-weblogu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - PC Magazine článek analyzuje strukturu blogů, ale nezohledňuje české nástroje.
 - Struktura blogu dle PC Magazine obsahuje prvky jako kalendář, RSS, profil autora.

@@ -4,7 +4,6 @@ slug: 'nokia-prispeje-1000-za-cesky-series-60-portal'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Nokia nabízí 1000 euro čtvrtletně na český portál o Symbianu a Series 60.
 - Portál by měl obsahovat recenze, adresář a diskusní fórum pro tvůrce aplikací.

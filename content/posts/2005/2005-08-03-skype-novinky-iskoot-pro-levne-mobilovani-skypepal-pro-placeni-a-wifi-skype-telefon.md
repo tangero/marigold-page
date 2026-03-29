@@ -4,7 +4,6 @@ slug: 'skype-novinky-iskoot-pro-levne-mobilovani-skypepal-pro-placeni-a-wifi-sky
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - iSkoot přesměrovává Skype hovory na mobil přes SkypeOut za nízké poplatky, stojí
   10 USD ročně.

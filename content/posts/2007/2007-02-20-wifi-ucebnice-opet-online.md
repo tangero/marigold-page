@@ -4,7 +4,6 @@ slug: 'wifi-ucebnice-opet-online'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WiFi učebnice je opět online na www.marigold.cz/wifi a v pravém menu.
 - Fero Valenta přidá WiMax materiál ve slovenštině do WiFi učebnice.

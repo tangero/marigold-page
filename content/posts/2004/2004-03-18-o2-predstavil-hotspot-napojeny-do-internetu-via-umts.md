@@ -4,7 +4,6 @@ slug: 'o2-predstavil-hotspot-napojeny-do-internetu-via-umts'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - surf@home je hotspot od O2 pro domácí sítě 802.11b.
 - Hotspot surf@home se připojuje k internetu přes UMTS síť O2 rychlostí 384 Kbps.

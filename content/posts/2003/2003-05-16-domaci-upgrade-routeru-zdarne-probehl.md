@@ -4,7 +4,6 @@ slug: 'domaci-upgrade-routeru-zdarne-probehl'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor preferuje hardware routery kvůli zkušenosti s hlučným linuxovým routerem.
 - SMC Barricade router přestal spolehlivě fungovat kvůli zvýšeným útokům a DHCP problémům.

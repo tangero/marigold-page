@@ -4,7 +4,6 @@ slug: 'takovy-pojeb-z-eurotelu-jsem-uz-dlouho-neschytal'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Eurotel manažer zuřivě volal kvůli zprávě na Mobilmanii o rušení GPRS paušálu.
 - Autor zprávu o GPRS paušálu získal z neveřejné konference a e-mailu.

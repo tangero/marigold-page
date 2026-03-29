@@ -4,7 +4,6 @@ slug: 'datovy-tranzit-v-czfree-zdarma-je-udrzitelny'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - CzFree.Net nabízí zdarma datový tranzit, což umožňuje obcházet platby za internet.
 - Páteřní spoje CzFree s rychlostí 10 Mbps jsou náchylné k zahlcení datově náročnými

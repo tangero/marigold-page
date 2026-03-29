@@ -4,7 +4,6 @@ slug: 'velikani-se-spojuji-pro-broadbadn-metropolitni-site-na-802-16a'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Výrobci bezdrátové techniky spolupracují s WiMAX fórem na certifikaci 802.16a sítí.
 - WiMAX standard 802.16a má dosah 50 km a rychlost až 70 Mbps.

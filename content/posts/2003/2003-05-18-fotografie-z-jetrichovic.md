@@ -4,7 +4,6 @@ slug: 'fotografie-z-jetrichovic'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Jetřichovice hostily víkendový sraz lidí z Mobil Media na chatě Jakuba Matějů.
 - Sobotní výlet do Českosaského Š

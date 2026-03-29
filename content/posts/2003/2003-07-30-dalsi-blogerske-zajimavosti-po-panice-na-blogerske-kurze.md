@@ -4,7 +4,6 @@ slug: 'dalsi-blogerske-zajimavosti-po-panice-na-blogerske-kurze'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Gadgets blog s podtitulem Hi-tech hračky autora inspiroval článek o oborových webozích.
 - Žertvův deníček je anonymní blog s humorným obsahem, jehož identita je předmětem

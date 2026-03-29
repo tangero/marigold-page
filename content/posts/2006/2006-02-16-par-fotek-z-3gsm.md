@@ -4,7 +4,6 @@ slug: 'par-fotek-z-3gsm'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Obrázky jsou umístěny v adresáři /wp-content/uploads/1/.
 - Čtyři náhledy obrázků (thumb) jsou zobrazeny s rozměry 350x262 pixelů.

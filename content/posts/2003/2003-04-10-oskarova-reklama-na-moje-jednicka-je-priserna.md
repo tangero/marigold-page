@@ -4,7 +4,6 @@ slug: 'oskarova-reklama-na-moje-jednicka-je-priserna'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Reklamní bloky na Nově rušily sledování filmu Divoká řeka.
 - Oskarova reklama Moje jednička je oproti dřívějším reklamám krok zpět.

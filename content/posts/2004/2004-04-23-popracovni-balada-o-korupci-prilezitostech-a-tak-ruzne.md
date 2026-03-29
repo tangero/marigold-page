@@ -4,7 +4,6 @@ slug: 'popracovni-balada-o-korupci-prilezitostech-a-tak-ruzne'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Smlouva z anglických textů připomíná nesmyslnou ústavu EU kvůli složitosti právních
   systémů.

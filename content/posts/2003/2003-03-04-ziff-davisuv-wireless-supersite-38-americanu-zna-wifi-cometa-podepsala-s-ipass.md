@@ -4,7 +4,6 @@ slug: 'ziff-davisuv-wireless-supersite-38-americanu-zna-wifi-cometa-podepsala-s-
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Ziff Davis spustil Wireless supersite pro články o bezdrátových technologiích.
 - procent dospělých Američanů ví, co je WiFi, 5 procent ji používá.

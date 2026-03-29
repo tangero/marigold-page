@@ -6,7 +6,6 @@ categories:
 - Příběhy
 
   '
-published: true
 summary_points:
 - Tři kamarádi vyrazili vlakem a autobusem do Terchové na túru Malou Fatrou.
 - Dierami stoupali za deště, opevňovali přístřešek na Mezirozsudckém sedle.

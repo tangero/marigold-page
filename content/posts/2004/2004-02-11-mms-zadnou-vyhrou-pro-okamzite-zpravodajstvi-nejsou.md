@@ -4,7 +4,6 @@ slug: 'mms-zadnou-vyhrou-pro-okamzite-zpravodajstvi-nejsou'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Okamžité zpravodajství naráží na kompromisy kvůli omezenému rozpočtu a technice.
 - MMS zprávy z mobilů mají mizernou kvalitu, zvláště za variabilních světelných podmínek.

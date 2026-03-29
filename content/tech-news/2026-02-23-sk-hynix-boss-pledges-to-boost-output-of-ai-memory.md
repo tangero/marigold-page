@@ -21,7 +21,7 @@ source:
   id: financial-post
   name: Financial Post
 title: Šéf SK Hynix slibuje zvýšit výrobu paměťových čipů pro AI
-url: https://financialpost.com/pmn/business-pmn/sk-hynix-boss-pledges-to-boost-output-of-ai-memory-chips
+source_url: https://financialpost.com/pmn/business-pmn/sk-hynix-boss-pledges-to-boost-output-of-ai-memory-chips
 urlToImage: https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/02/776410201.jpg
 urlToImageBackup: https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/02/776410201.jpg
 ---

@@ -4,7 +4,6 @@ slug: 'otevrene-versus-uzavrene-operacni-prostredi-a-mytus-killer-app'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Mobil.cz publikoval článek o sporu otevřenosti operačních systémů v 2,5G/3G telefonech.
 - Microsoft a Symbian aliance projevovali nevraživost ohledně otevřenosti systémů

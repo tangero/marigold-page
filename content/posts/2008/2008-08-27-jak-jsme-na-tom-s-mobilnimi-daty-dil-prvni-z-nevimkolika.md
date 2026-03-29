@@ -6,7 +6,6 @@ categories:
 - Mobilní sítě
 
   '
-published: true
 summary_points:
 - Česko zaostává v mobilních datech, i s 3G, oproti rozvinutým zemím.
 - Evolved EDGE (EEDGE) nabízí rychlost do 600 Kb/s, hlavně pro rozvojové trhy.

@@ -4,7 +4,6 @@ slug: 'ctu-zverejnilo-navrh-vseobecneho-opravneni-pro-pasmo-5-ghz'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - ČTÚ zveřejnil návrh všeobecného oprávnění pro rádiové kmitočty 2,4 GHz a 5 GHz.
 - Návrh uvolňuje pásmo 5 GHz pro datové přenosy do 1 W vyzářeného výkonu.

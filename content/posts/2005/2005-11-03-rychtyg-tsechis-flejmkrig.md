@@ -4,7 +4,6 @@ slug: 'rychtyg-tsechis-flejmkrig'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Blog CMS odstranil copyrighty původního redakčního systému Nucleus, což vyvolalo
   ostrou diskusi.

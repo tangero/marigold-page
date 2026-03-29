@@ -4,7 +4,6 @@ slug: 'na-forky-v-ebance-jsem-trochu-vic-haklivy-nebo-to-nebyl-vtipek'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - eBanka ráno 1.4.2005 neumožnila autorovi přihlášení do internetového bankovnictví.
 - Chybové hlášení eBanky zobrazovalo datum 27.3.2005, což autora znepokojilo.

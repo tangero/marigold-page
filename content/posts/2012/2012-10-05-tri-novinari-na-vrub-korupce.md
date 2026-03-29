@@ -6,7 +6,6 @@ categories:
 - Média
 
   '
-published: true
 summary_points:
 - Turek článek "Úplatek od Nikonu" kritizuje novináře za přijetí darů.
 - Přijetí darů, i malých, je začátek korupce a morálních ústupků.

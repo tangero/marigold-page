@@ -6,7 +6,6 @@ categories:
 - Příběhy
 
   '
-published: true
 summary_points:
 - Schůzka s šéfem společnosti nepřinesla konkrétní informace o projektech.
 - Obchodník s projekt manažerem halasně zdraví autora na recepci.

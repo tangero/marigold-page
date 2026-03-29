@@ -4,7 +4,6 @@ slug: 'jake-zabezpeceni-pouzivaji-nase-wifi-site'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Filtrace MAC adres je velmi populární způsob zabezpečení WiFi sítí.
 - WEP a MAC zabezpečení je stejně populární jako filtrace MAC adres.

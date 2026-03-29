@@ -4,7 +4,6 @@ slug: 'koren-wifi-siti'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - ROOT publikoval dva články o WiFi a CZFREE.Net od Johanky a Zdeňka Štěpánka.
 - Články jsou aktivistické a zábavné, typické pro komunitu píšící pro ROOT.

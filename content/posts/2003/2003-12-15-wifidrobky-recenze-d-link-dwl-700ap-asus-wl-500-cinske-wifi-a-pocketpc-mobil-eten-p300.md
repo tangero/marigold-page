@@ -4,7 +4,6 @@ slug: 'wifidrobky-recenze-d-link-dwl-700ap-asus-wl-500-cinske-wifi-a-pocketpc-mo
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - D-Link DWL700AP recenzován na InWiFi, recenze dostupná v PDF formátu.
 - Asus WL-500 recenzován na i4shopu, má USB port a stojí 3650 Kč s DPH.

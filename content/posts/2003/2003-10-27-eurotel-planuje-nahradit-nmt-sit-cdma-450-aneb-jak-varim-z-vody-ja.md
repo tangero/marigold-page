@@ -4,7 +4,6 @@ slug: 'eurotel-planuje-nahradit-nmt-sit-cdma-450-aneb-jak-varim-z-vody-ja'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Eurotel testuje technologii CDMA-450 EV-DO jako náhradu za NMT síť.
 - Článek o CDMA-450 doplněn o technické detaily, dodavatele a dostupné terminály.

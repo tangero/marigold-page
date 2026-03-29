@@ -22,7 +22,7 @@ source:
   name: Mactrast.com
 title: První zařízení OpenAI od Jonyho Iveho vyjde v roce 2027 a nebude to nositelné
   zařízení
-url: https://www.mactrast.com/2026/02/jony-ives-first-openai-device-to-launch-in-2027-and-it-wont-be-a-wearable/
+source_url: https://www.mactrast.com/2026/02/jony-ives-first-openai-device-to-launch-in-2027-and-it-wont-be-a-wearable/
 urlToImage: https://www.mactrast.com/wp-content/uploads/2025/05/Sam_Jony_introduce_io.jpg
 urlToImageBackup: https://www.mactrast.com/wp-content/uploads/2025/05/Sam_Jony_introduce_io.jpg
 ---

@@ -4,7 +4,6 @@ slug: 'eurotel-nabidne-intellisync-mobile-suite'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Eurotel nabídne Intellisync Mobile Suite pro lepší dostupnost emailových služeb.
 - Intellisync Mobile Suite zpřístupňuje email přes POP/IMAP a synchronizuje data.

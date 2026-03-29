@@ -4,7 +4,6 @@ slug: 'teledrobky-mms-na-pevnou-linku-ser-odlozil-prodej-3g-telefonu-motorola-bu
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - LogicaCMG implementuje řešení pro přenos MMS na pevné linky v Německu.
 - Milan Sameš, dříve Nokia, se stává obchodním šéfem Logica v Česku.

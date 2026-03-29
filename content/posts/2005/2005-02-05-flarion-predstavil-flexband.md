@@ -4,7 +4,6 @@ slug: 'flarion-predstavil-flexband'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Flarion představil Flexband, nový Flash OFDM systém s technologií BeaconTone.
 - BeaconTone monitoruje interference a vybírá nejlepší přenašeč pro kvalitní připojení.

@@ -4,7 +4,6 @@ slug: 'telecom-a-seznam-nic-lepsiho-neznam'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - Telefónica, majitel Terra Lycos, kupuje Telecom, který je konkurentem Seznamu.
 - Seznam má silnou značku a strategii, Telecom infrastrukturu a peníze.

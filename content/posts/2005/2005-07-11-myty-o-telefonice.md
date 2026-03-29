@@ -4,7 +4,6 @@ slug: 'myty-o-telefonice'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Článek kritizuje idealizovaný obraz Telefonicy prezentovaný Jiřím Hlavenkou.
 - Telefonica neúspěšně investovala do 3G licencí v mnoha zemích včetně Itálie.

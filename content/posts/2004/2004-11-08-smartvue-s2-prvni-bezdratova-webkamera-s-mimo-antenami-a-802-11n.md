@@ -4,7 +4,6 @@ slug: 'smartvue-s2-prvni-bezdratova-webkamera-s-mimo-antenami-a-802-11n'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Smartvue S2 je první webkamera s MIMO anténami a 802.11N standardem.
 - Kamera Smartvue S2 má Pixim DPS technologii, 720x480 rozlišení a 30fps.

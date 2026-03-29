@@ -21,7 +21,7 @@ source:
   name: Livemint
 title: Nejnovější aktualizace Claude Code od Anthropic vyvolala masivní prodej akcií
   IBM, pokles o 13,2 % za den
-url: https://www.livemint.com/companies/news/anthropic-latest-claude-code-update-triggers-massive-ibm-stock-selloff-shares-down-13-2-per-cent-in-a-day-11771892133869.html
+source_url: https://www.livemint.com/companies/news/anthropic-latest-claude-code-update-triggers-massive-ibm-stock-selloff-shares-down-13-2-per-cent-in-a-day-11771892133869.html
 urlToImage: https://www.livemint.com/lm-img/img/2026/02/24/1600x900/logo/RETAIL-NRF-CONFERENCE-29_1771895142548_1771895151588.JPG
 urlToImageBackup: https://www.livemint.com/lm-img/img/2026/02/24/1600x900/logo/RETAIL-NRF-CONFERENCE-29_1771895142548_1771895151588.JPG
 ---

@@ -7,7 +7,7 @@ categories:
 - Energie
 - Energetika
 - Green Deal
-date: 13.5.2025
+date: 2025-05-13
 summary_points:
 - ENTSO-E vydalo předběžnou zprávu o blackoutu.
 - Kmitání v síti začalo před polednem a přetrvávalo.

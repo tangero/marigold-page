@@ -4,7 +4,6 @@ slug: 'hackujeme-linksys-wrt54g'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Linksys WRT54G router běží na Linuxu s kernelem 2.4.5.
 - Úpravy WRT54G vyžadují zálohu flash paměti pro případ selhání.

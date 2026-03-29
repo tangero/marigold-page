@@ -4,7 +4,6 @@ slug: 'vroce-2005-nelze-zavest-adsl-pripojku-v-praze-uf'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - ADSL na Praze 4 nelze zřídit, i když tazatel telefon má.
 - Autor nechápe nedostupnost DSL v centru Prahy v roce 2005.

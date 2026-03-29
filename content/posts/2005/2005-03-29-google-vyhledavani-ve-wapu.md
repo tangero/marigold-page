@@ -4,7 +4,6 @@ slug: 'google-vyhledavani-ve-wapu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Google automaticky přepíná na WAP verzi pro mobilní zařízení, adresa je www.google.com/wml.
 - I starší telefony s WAP prohlížečem jsou přesměrovány na WAP verzi Google.

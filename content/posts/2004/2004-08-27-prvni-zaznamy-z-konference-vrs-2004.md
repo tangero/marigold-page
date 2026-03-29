@@ -4,7 +4,6 @@ slug: 'prvni-zaznamy-z-konference-vrs-2004'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - Videozáznamy z konference Vysokorychlostní počítačové sítě zveřejnil PASNET.
 - Digital divide po česku a Vývoj optických sítí jsou dostupné online.

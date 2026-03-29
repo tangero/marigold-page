@@ -4,7 +4,6 @@ slug: 'tip-na-vikend-folkova-ohre-na-hornim-hrade'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Folková Ohře, folkový festival, se koná tento víkend na Horním hradě.
 - Program Folkové Ohře zahrnuje hudbu, šerm, pohádky a křest Hrochovy knihy.

@@ -4,7 +4,6 @@ slug: 'enum-se-blizi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - CZ.NIC žádá o delegaci reverzní domény 0.2.4.e164.arpa pro eNUM.
 - SANET, slovenská akademická síť, požádala o delegaci domény dříve.

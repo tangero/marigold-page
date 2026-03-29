@@ -4,7 +4,6 @@ slug: 'voip-workshop-na-czech-internet-foru'
 author: Noname
 
   '
-published: true
 summary_points:
 - Czech Internet Fórum pořádá Internet Info konferenci Křišťálová Lupa.
 - Workshop "VoIP doma i v kanceláři" ukáže, jak levně telefonovat.

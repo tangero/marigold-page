@@ -4,7 +4,6 @@ slug: 'proc-si-myslim-ze-ministr-mlynar-prospiva'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor obdržel kritiku za chválu ministra Mlynáře v Lidovkách.
 - Mlynář má omezené pravomoci ohledně cen telekomunikací.

@@ -4,7 +4,6 @@ slug: 'megapracovni-hypertyden'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Zaměstnanec Pipeline a.s. dokončil náročný týden úspěšným spuštěním produkční záležitosti.
 - Tisk smlouvy se zkomplikoval nedostatkem barvy v tiskárně, kterou musel autor shánět.

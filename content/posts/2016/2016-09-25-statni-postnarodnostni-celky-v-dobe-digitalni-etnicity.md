@@ -5,7 +5,6 @@ author: Patrick Zandl
 featured: true
 
   '
-published: true
 summary_points:
 - Virtuální realita viru dominuje světu, offlajn je opomíjen.
 - Michal Hollan pracuje jako datektiv, analyzuje data z viru i offlajnu.

@@ -4,7 +4,6 @@ slug: 'typicke-problemy-analyzy-energetickych-dat-a-ukol-pro-machry'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Velká data nejsou jen o výpočetním výkonu, ale o chytré analýze.
 - Analýza spotřeby elektřiny vyžaduje pokročilé znalosti statistiky a dat.

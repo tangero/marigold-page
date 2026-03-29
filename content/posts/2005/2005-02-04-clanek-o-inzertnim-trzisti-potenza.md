@@ -4,7 +4,6 @@ slug: 'clanek-o-inzertnim-trzisti-potenza'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Lupa publikovala článek o inzertním tržišti Potenza a bbKontext (dříve Edwards).
 - Potenza je zajímavá pro menší weby, textová reklama se rozšiřuje.

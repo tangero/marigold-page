@@ -4,7 +4,6 @@ slug: 'recenze-na-zyxel-b-1000-compex-wp11b-a-d-link-dwl900ap'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - ZyXEL B-1000 recenzi nalezl autor na slovenském serveru SKFREE.
 - Compex WP11B+ recenzi zveřejnil WiFiOnline, převzatou z inwifi.cz.

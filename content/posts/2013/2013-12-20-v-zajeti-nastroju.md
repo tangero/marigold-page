@@ -4,7 +4,6 @@ slug: 'v-zajeti-nastroju'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor tráví příliš času hledáním ideálních nástrojů, namísto samotné práce.
 - Pro psaní autor zkouší různé editory, ale není zcela spokojen s žádným.

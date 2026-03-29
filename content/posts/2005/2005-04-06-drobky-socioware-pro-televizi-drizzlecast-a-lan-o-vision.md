@@ -4,7 +4,6 @@ slug: 'drobky-socioware-pro-televizi-drizzlecast-a-lan-o-vision'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - NuParadigm nabízí zdarma podcastingový software DrizzleCast s technologií Microsoft
   BITS.

@@ -4,7 +4,6 @@ slug: 'mobilni-generace'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - GSM je 2G, UMTS je 3G, v budoucnu se mluví o 4G a 5G.
 - EDGE je označováno jako 2.75G, HSDPA je 3.5G a HSUPA je 3.75G.

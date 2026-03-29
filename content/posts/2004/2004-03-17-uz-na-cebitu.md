@@ -4,7 +4,6 @@ slug: 'uz-na-cebitu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - CeBIT začíná zítra, autor s Honzou dorazili o den dříve.
 - Autor si nevzal fotoaparát, pouze 3G telefon Siemens U15.

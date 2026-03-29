@@ -4,7 +4,6 @@ slug: 'flejmkrig-pokracoval-omluvami-a-objevem-alternativnich-redaktoru'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Flamewar Blog:CMS a Texy se týkala dodržování licencí a autorských práv.
 - Radek Hulán obvinil Davida Grudla ze zkopírování Textile do Texy.

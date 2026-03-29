@@ -4,7 +4,6 @@ slug: 'specifikace-802-11g-wlan-siti-se-blizi-standardizaci'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - IEEE oznámilo shodu na specifikaci 802.11g verze 6.1 pro WiFi.
 - Standard 802.11g bude přijat zhruba v červenci tohoto roku.

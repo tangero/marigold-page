@@ -4,7 +4,6 @@ slug: 'weblogy-nemaji-dno-ani-pozlacene'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Blogováním se zbohatnout nedá, jak konstatuje článek na Lupě.
 - Mobilní operátoři rozšíří blogy, ale finanční efekt to nepřinese.

@@ -4,7 +4,6 @@ slug: 'linksys-produkty-tlaci-s-cenou-dolu-nova-produktova-rada'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Linksys snižuje ceny 802.11b produktů kvůli novým 802.11g zařízením.
 - WAP11 zlevnil o 1200 Kč na 7.100 Kč bez DPH.

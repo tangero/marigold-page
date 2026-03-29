@@ -4,7 +4,6 @@ slug: 'eurotel-splachnul-z-cdma-sosace-p2p-siti'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Eurotel omezil P2P sítě přes CDMA snížením rychlosti stahování na 1,5 Kb/s.
 - Eurotel selektivně omezil P2P sítě kvůli sdílené kapacitě a nadměrnému stahování.

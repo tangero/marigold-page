@@ -4,7 +4,6 @@ slug: 'jak-ma-komunikovat-obecni-zastupitelstvo-a-mistni-samosprava-na-prikladu-
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - V Brandýse se změnilo zastupitelstvo a starosta, nová radnice zdůrazňuje transparentnost
   a komunikaci s občany.

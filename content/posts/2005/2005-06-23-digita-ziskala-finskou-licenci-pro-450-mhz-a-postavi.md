@@ -4,7 +4,6 @@ slug: 'digita-ziskala-finskou-licenci-pro-450-mhz-a-postavi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Digita zvažuje síť Flarion FlashOFDM, licence je technologicky neutrální.
 - Flarion získal životně důležitý kontrakt na první komerční síť.

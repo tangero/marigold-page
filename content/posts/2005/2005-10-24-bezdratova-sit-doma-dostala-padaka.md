@@ -4,7 +4,6 @@ slug: 'bezdratova-sit-doma-dostala-padaka'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WiFi nedosahovalo do pracovny, proto se používal PowerEthernet.
 - PowerEthernet adaptéry se opakovaně porouchaly, což vedlo k jejich opuštění.

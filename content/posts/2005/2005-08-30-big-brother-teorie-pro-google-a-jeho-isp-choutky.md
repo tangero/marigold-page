@@ -4,7 +4,6 @@ slug: 'big-brother-teorie-pro-google-a-jeho-isp-choutky'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Google zvažuje nákup optických sítí v USA a sponzoruje WiFi startup Feeva.
 - Google sponzoruje Feeva kvůli snaze o zdarma dostupné WiFi v San Franciscu.

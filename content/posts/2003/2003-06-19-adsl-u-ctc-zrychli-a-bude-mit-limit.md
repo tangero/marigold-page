@@ -4,7 +4,6 @@ slug: 'adsl-u-ctc-zrychli-a-bude-mit-limit'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - ADSL u Českého Telecomu zrychlí od července pro domácí uživatele.
 - Základní linka navýší na 512/128 Kb/s s limitem 10 GB dat.

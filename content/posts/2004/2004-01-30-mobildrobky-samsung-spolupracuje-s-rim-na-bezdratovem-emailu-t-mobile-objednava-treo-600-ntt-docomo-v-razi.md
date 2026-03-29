@@ -4,7 +4,6 @@ slug: 'mobildrobky-samsung-spolupracuje-s-rim-na-bezdratovem-emailu-t-mobile-obj
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - RIM a Samsung spolupracují na vývoji emailového prostředí pro mobilní telefony.
 - NTT DoCoMo má přes 2 miliony uživatelů 3G sítě a sponzoruje tým F1 Renault.

@@ -4,7 +4,6 @@ slug: 'aircq-wifi-instant-messenger'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - AirCQ je WiFi Instant Messenger propojující počítače bez internetu.
 - Program AirCQ umožňuje sdílení hlasu, videa, souborů a chatu přes WiFi.

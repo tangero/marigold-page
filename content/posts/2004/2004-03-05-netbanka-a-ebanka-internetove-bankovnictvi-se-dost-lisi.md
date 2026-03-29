@@ -4,7 +4,6 @@ slug: 'netbanka-a-ebanka-internetove-bankovnictvi-se-dost-lisi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor byl jedním z prvních klientů eBanky s osobními i firemními účty.
 - NetBanka má horší uživatelský komfort a funkčnost než eBanka.

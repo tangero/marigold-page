@@ -4,7 +4,6 @@ slug: 'kdyz-se-konferencne-doji-internet-veci'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - IoT Forum je pořádáno IDC s podporou velkého průmyslu, ale bez jasného přínosu.
 - Program konference dominuje Vodafone s opakovanými tématy a reklamou na EET.

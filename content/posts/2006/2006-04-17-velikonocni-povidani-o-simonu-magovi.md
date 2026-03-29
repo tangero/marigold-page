@@ -4,7 +4,6 @@ slug: 'velikonocni-povidani-o-simonu-magovi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Článek pojednává o Šimonu Mágovi, významné postavě duchovního světa.
 - Šimon Mág byl současníky považován za Velikého, konal divy a zázraky.

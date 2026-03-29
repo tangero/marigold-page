@@ -4,7 +4,6 @@ slug: 'moje-zajeci-umysly-aneb-cena-versus-sluzby-mobilu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Účet T-Mobile činil tři tisíce korun, což autora přimělo k zamyšlení nad úsporami.
 - SMS zprávy a proměnlivý objem datových přenosů jsou největšími problémy s T-Mobile.

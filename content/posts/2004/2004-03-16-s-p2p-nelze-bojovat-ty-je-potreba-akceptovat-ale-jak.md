@@ -4,7 +4,6 @@ slug: 's-p2p-nelze-bojovat-ty-je-potreba-akceptovat-ale-jak'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Článek Lupy řeší zátěž P2P sítí a definici "fair user policy".
 - Kabeloví operátoři nabízejí vyšší rychlost v rámci sítě než do internetu.

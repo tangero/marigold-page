@@ -4,7 +4,6 @@ slug: 't-mobile-bonus-chtelo-by-to-ozivit'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Bonus body T-Mobile mají nízkou hodnotu, 1000 bodů je zhruba 300 Kč.
 - Nabídka telefonů v Bonus katalogu T-Mobile je mizerná, chybí atraktivní modely.

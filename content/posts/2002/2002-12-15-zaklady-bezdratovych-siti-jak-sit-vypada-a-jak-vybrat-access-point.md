@@ -4,7 +4,6 @@ slug: 'zaklady-bezdratovych-siti-jak-sit-vypada-a-jak-vybrat-access-point'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Ad-hoc sítě jsou jednoduché peer-to-peer propojení, vhodné pro rychlé, dočasné použití.
 - Infrastrukturní sítě využívají access point pro komunikaci mezi zařízeními.

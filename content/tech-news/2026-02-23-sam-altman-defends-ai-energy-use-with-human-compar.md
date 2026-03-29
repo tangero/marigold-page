@@ -19,7 +19,7 @@ source:
   name: Observer
 title: Sam Altman obhajuje spotřebu energie AI porovnáním s lidskou inteligencí, vyvolává
   debatu
-url: https://observer.com/2026/02/openai-ceo-sam-altman-ai-energy-criticisms-overblown/
+source_url: https://observer.com/2026/02/openai-ceo-sam-altman-ai-energy-criticisms-overblown/
 urlToImage: https://observer.com/wp-content/uploads/sites/2/2026/02/GettyImages-2197502410.jpg?quality=80
 urlToImageBackup: https://observer.com/wp-content/uploads/sites/2/2026/02/GettyImages-2197502410.jpg?quality=80
 ---

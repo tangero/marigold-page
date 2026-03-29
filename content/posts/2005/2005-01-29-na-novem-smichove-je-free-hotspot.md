@@ -4,7 +4,6 @@ slug: 'na-novem-smichove-je-free-hotspot'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Nový Smíchov nabízí telekomáckou WiFi s nezapamatovatelným heslem, nedostupnou na
   Nokia 9500.

@@ -4,7 +4,6 @@ slug: 'telecomu-dnes-hapruje-adsl'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - ADSL Českého Telecomu má celorepublikové výpadky od ranních hodin.
 - Technici Telecomu pracují na výměně vadného hardware, oprava potrvá hodiny.

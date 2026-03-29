@@ -4,7 +4,6 @@ slug: 'airgo-a-jeho-mimo-anteny'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - MIMO antény jsou chytré antény, dříve v drahých Vivato WiFi switchích, nyní pro
   běžné uživatele.

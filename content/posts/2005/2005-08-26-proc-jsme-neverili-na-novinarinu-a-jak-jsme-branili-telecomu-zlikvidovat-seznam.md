@@ -4,7 +4,6 @@ slug: 'proc-jsme-neverili-na-novinarinu-a-jak-jsme-branili-telecomu-zlikvidovat-
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor nevěřil na novinářská pravidla kvůli jejich vznešenosti a nenaplnitelnosti.
 - Novinářství není veřejná služba, ale vztah zaměstnanec-zaměstnavatel s konfliktem

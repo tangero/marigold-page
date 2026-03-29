@@ -4,7 +4,6 @@ slug: 'rozprava-o-vlivu-nakladu-na-pred-a-po-prodejni-podporu-na-konkurenceschop
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Cena a servis jsou úměrné, klíčové je nastavení ku prospěchu všech.
 - Telefonáty a schůzky zvyšují náklady na akvizici klienta.

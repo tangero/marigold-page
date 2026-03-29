@@ -4,7 +4,6 @@ slug: 'jsem-hnusny-uplatny-hrdobec'
 author: Noname
 
   '
-published: true
 summary_points:
 - Autor vrací smazané články po pozitivní reakci čtenářů.
 - Během záskoku autor napsal 10 menších a 4 rozsáhlejší články.

@@ -4,7 +4,6 @@ slug: 'corinex-nabizi-200-mb-s-po-elektrickem-vedeni'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Corinex adaptéry přenášejí ethernet po elektrickém vedení rychlostí až 14 Mb/s.
 - Nové Corinex adaptéry podporují UPA standard a dosahují rychlosti až 200 Mb/s.

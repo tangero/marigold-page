@@ -4,7 +4,6 @@ slug: 'jak-kontaktovat-nekoho-jehoz-sit-pouzivate'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WiFi sítě umožňují připojení k cizím UPC linkám, což autor využil.
 - Autor se dostal do administrace nezabezpečeného Linksys routeru souseda.

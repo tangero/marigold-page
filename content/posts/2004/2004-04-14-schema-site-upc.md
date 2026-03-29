@@ -4,7 +4,6 @@ slug: 'schema-site-upc'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - UPC aktualizovalo schéma sítě dostupné na chello.cable.cz.
 - Kvalita signálu v lokalitách je indikována barvou čtverečku na mapě.

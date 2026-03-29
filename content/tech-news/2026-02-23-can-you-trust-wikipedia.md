@@ -14,7 +14,7 @@ source:
   id: null
   name: Reason
 title: Můžete věřit Wikipedii?
-url: https://reason.com/video/2026/02/23/can-you-trust-wikipedia/
+source_url: https://reason.com/video/2026/02/23/can-you-trust-wikipedia/
 urlToImage: https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/02/v6.jpg
 urlToImageBackup: https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/02/v6.jpg
 ---

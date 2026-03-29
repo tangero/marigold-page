@@ -4,7 +4,6 @@ slug: 'jaky-zpusob-komentovani-vam-vyhovuje'
 author: Noname
 
   '
-published: true
 summary_points:
 - Noname testuje plugin pro vláknové komentáře s odsazením odpovědí.
 - Plugin pro anketu je dalším testovaným nástrojem pro zpětnou vazbu.

@@ -4,7 +4,6 @@ slug: 'omnifi-hudba-do-auta-via-wifi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Omnifi od Rockford Corporation přehrává MP3 z 20GB disku v autě.
 - WiFi připojení Omnifi umožňuje bezdrátový přenos MP3 z domácí základny.

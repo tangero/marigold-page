@@ -4,7 +4,6 @@ slug: 'gprs-u-t-mobile-cs3-a-cs4-nepovazuji-za-velkou-vyhodu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - T-Mobile propaguje GPRS kódování CS3 a CS4 pro vyšší rychlost.
 - CS3 a CS4 vyžadují vysokou kvalitu signálu a jsou málo robustní.

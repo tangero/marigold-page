@@ -4,7 +4,6 @@ slug: 'cra-zakrocily-proti-sdileni-bluetone-angel'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - ČRa zakročily proti sdílení Bluetone Angel kapacity, často přes WiFi.
 - Sdíleče ČRa sloučily do agregační skupiny, aby neomezovali ostatní zákazníky.

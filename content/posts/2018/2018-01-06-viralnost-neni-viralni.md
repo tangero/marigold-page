@@ -2,7 +2,6 @@
 slug: 'viralnost-neni-viralni'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - Virální šíření na sociálních sítích nefunguje tak, jak se obecně předpokládá.
 - Rozhodující roli hrají vlivní uživatelé s vysokým sociálním kapitálem.

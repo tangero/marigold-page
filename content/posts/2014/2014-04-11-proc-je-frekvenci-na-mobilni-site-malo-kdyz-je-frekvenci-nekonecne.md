@@ -4,7 +4,6 @@ slug: 'proc-je-frekvenci-na-mobilni-site-malo-kdyz-je-frekvenci-nekonecne'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Mobilní sítě využívají frekvence 400-1000 MHz kvůli šíření a anténám.
 - Pásmo 900 MHz je určeno pro GSM, ale interference omezují počet operátorů.

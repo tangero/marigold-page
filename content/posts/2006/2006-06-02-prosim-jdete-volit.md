@@ -4,7 +4,6 @@ slug: 'prosim-jdete-volit'
 author: Noname
 
   '
-published: true
 summary_points:
 - Factum prognózy naznačují možnou většinu KSČM a ČSSD ve sněmovně.
 - ČSSD prosazuje nedemokratické zákony a podporuje komunisty.

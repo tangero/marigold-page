@@ -2,7 +2,6 @@
 slug: 'blockchain-v-telekomunikacich-konec-vlady-mobilnich-operatoru'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - Blockchain v telekomunikacích snižuje náklady, ale nezpůsobuje revoluci trhu.
 - Otevřený hardware a frekvence jsou klíčem pro blockchainovou mobilní síť.

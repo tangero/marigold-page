@@ -4,7 +4,6 @@ slug: 'nokia-3220-a-light-messaging-kdepak-k-nemu-nokia-prisla'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Nokia 3220 nabízí funkci Light Messaging, světelné zprávy diodami.
 - WildSeed vyvinul AirText, technologii světelných zpráv před Nokií.

@@ -8,7 +8,6 @@ categories:
 - Podcast
 
   '
-published: true
 summary_points:
 - Lomítko třetí díl se zabývá mobilním marketingem na MWC.
 - Tomáš je spoluúčastníkem diskuze v tomto díle Lomítka.

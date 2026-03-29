@@ -4,7 +4,6 @@ slug: 'gprs-roaming-t-mobilu-ve-francii-nefunguje-regional-bgan-pres-satelit-jed
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - GPRS roaming mezi T-Mobile a Orange F v Cannes nefunguje, což ztěžuje přístup k
   internetu.

@@ -2,7 +2,6 @@
 slug: 'porad-je-tu-prostor-pro-dalsi-operacni-system'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - Oddělení pracovního a osobního počítače zlepšuje psychickou pohodu a produktivitu.
 - Starý iMac z roku 2008 je stále funkční, ale bez podpory nových aktualizací.

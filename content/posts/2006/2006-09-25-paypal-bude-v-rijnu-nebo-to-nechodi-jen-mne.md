@@ -4,7 +4,6 @@ slug: 'paypal-bude-v-rijnu-nebo-to-nechodi-jen-mne'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - PayPal v Česku stále neumožňuje příjem všech plateb na business účty.
 - Korunové platby na PayPalu by měly být spuštěny 12. října.

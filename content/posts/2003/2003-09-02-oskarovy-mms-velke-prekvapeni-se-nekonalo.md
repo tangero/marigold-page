@@ -4,7 +4,6 @@ slug: 'oskarovy-mms-velke-prekvapeni-se-nekonalo'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Oskar účtuje 9,50 Kč za MMS zprávu, podobně jako konkurence.
 - FotoPošta MMS umožňuje posílat MMS zprávy mezi telefony nebo na email.

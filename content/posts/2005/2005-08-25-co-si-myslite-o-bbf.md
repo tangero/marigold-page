@@ -4,7 +4,6 @@ slug: 'co-si-myslite-o-bbf'
 author: Noname
 
   '
-published: true
 summary_points:
 - Noname článek na Lupě o broadband fóru vyvolal překvapivé reakce.
 - Diskutéři na Lupě kritizují dotace BBF a označují autory za příživníky.

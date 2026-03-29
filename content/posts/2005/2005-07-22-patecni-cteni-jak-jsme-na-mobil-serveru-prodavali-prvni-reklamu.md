@@ -4,7 +4,6 @@ slug: 'patecni-cteni-jak-jsme-na-mobil-serveru-prodavali-prvni-reklamu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Páteční čtení se věnuje historii internetu již potřetí.
 - Jiří Peterka píše na Živě seriál o historii internetu.

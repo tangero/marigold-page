@@ -4,7 +4,6 @@ slug: 'strilet-na-verejnosti-je-v-poradku-kdyz-jste-dost-vysoko'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Berdár nebude obviněn za střelbu, policie neshledala trestný čin ani přestupek.
 - Autor ironicky srovnává Berdárovu beztrestnost s možnou reakcí policie na jeho chování.

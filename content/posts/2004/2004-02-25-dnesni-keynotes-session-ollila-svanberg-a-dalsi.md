@@ -4,7 +4,6 @@ slug: 'dnesni-keynotes-session-ollila-svanberg-a-dalsi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Ollila zmínil ČR s Itálií a Portugalskem jako země s vyrovnaným poměrem volání.
 - Ollila vidí otevřenost, obchodní model a sílu zákazníka jako nutnosti pro mobilní

@@ -4,7 +4,6 @@ slug: 'wifidrobky-wpa2-ieee802-11e-download-knihy-o-wifi-ve-slovenstine-tip-na-r
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WPA2 bezpečnostní standard od Wi-Fi Alliance má vyřešit problémy původního WPA.
 - IEEE 802.11e standard doplní QoS do WiFi sítí pro aplikace náročné na spolupráci.

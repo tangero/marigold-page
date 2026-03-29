@@ -6,7 +6,6 @@ categories:
 - Příběhy
 
   '
-published: true
 summary_points:
 - Hodinky na ruce staršího muže v tramvaji prozradily jeho vojenskou minulost.
 - Dotaz na službu odhalil, že muž byl navigátor, ne pilot.

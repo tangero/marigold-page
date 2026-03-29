@@ -4,7 +4,6 @@ slug: 'oskar-uz-miri-na-hrbitov'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - 'Vinohradská ulice: autor míří do servisu s notebookem.'
 - 'Pohřební služba: autor si všiml neobvyklé nabídky.'

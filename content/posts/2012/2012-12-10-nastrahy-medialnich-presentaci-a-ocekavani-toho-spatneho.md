@@ -7,7 +7,6 @@ categories:
 - Média
 
   '
-published: true
 summary_points:
 - Rozhovor o technických trendech a osobních dojmech vyvolal bouřlivou diskusi.
 - Autor vzpomínal na dědu, člena KSČ, což vyvolalo kritiku.

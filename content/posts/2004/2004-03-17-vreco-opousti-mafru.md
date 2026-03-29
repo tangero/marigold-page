@@ -4,7 +4,6 @@ slug: 'vreco-opousti-mafru'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Zdeněk Polách (Vreco) končí jako šéfredaktor technických redakcí iDNESu a odchází
   z Mafry.

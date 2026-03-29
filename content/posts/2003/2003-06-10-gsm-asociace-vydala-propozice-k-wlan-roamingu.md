@@ -4,7 +4,6 @@ slug: 'gsm-asociace-vydala-propozice-k-wlan-roamingu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - IR.61 (WLAN Roaming Guidelines) od GSM Asociace řeší roaming mezi mobilními sítěmi
   a WLAN.

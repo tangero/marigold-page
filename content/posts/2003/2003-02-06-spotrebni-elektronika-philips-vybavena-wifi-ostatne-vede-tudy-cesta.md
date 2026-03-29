@@ -4,7 +4,6 @@ slug: 'spotrebni-elektronika-philips-vybavena-wifi-ostatne-vede-tudy-cesta'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Philips představuje Streamium MCi-250, Wireless Digital Multimedia Reciever a iPronto
   s WiFi.

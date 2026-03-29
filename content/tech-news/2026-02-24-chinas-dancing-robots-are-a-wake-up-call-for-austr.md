@@ -15,7 +15,7 @@ source:
   id: null
   name: The Conversation Africa
 title: Čínští tančící roboti jsou budíčkem pro Austrálii v otázkách politiky a produktivity
-url: https://theconversation.com/chinas-dancing-robots-are-a-wake-up-call-for-australia-on-policy-and-productivity-276529
+source_url: https://theconversation.com/chinas-dancing-robots-are-a-wake-up-call-for-australia-on-policy-and-productivity-276529
 urlToImage: https://images.theconversation.com/files/719826/original/file-20260223-56-s9iits.jpg?ixlib=rb-4.1.0&rect=0%2C424%2C8226%2C4113&q=45&auto=format&w=1356&h=668&fit=crop
 urlToImageBackup: https://images.theconversation.com/files/719826/original/file-20260223-56-s9iits.jpg?ixlib=rb-4.1.0&rect=0%2C424%2C8226%2C4113&q=45&auto=format&w=1356&h=668&fit=crop
 ---

@@ -17,7 +17,7 @@ source:
   id: null
   name: Geeky Gadgets
 title: 'Apple Event 2026: Potvrzené nové produkty pro březnovou globální akci'
-url: https://www.geeky-gadgets.com/apple-event-2026-new-products/
+source_url: https://www.geeky-gadgets.com/apple-event-2026-new-products/
 urlToImage: https://www.geeky-gadgets.com/wp-content/uploads/2026/02/apple-event-march-2026-product-reveals_optimized-1.jpg
 urlToImageBackup: https://www.geeky-gadgets.com/wp-content/uploads/2026/02/apple-event-march-2026-product-reveals_optimized-1.jpg
 ---

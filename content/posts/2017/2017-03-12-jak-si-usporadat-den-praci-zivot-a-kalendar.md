@@ -2,7 +2,6 @@
 slug: 'jak-si-usporadat-den-praci-zivot-a-kalendar'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - Sebeorganizace je klíčová pro dosažení velkých cílů, ne genialita.
 - Papírový diář umožňuje efektivní plánování a přehled o úkolech.

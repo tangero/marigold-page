@@ -4,7 +4,6 @@ slug: 'oskarovy-datove-tarify-zmena-je-potreba'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Oskar chystá změny datových tarifů, detaily nejsou známy.
 - Lidé chtějí levné datové tarify, ale Oskar se bojí zátěže sítě.

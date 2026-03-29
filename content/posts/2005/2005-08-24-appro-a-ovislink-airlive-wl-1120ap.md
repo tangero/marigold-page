@@ -4,7 +4,6 @@ slug: 'appro-a-ovislink-airlive-wl-1120ap'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - APPro je česká modifikace Ovislink AirLive WL-1120AP s rozšířenými funkcemi.
 - Cena APPro je 2500 Kč s DPH, což je mírně více než původní AP.

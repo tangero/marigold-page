@@ -4,7 +4,6 @@ slug: 'blokovac-porna-na-mobily-to-musite-mit'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Telcotec představil Content Guardian pro blokování nevhodného obsahu v mobilních
   sítích.

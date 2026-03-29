@@ -8,7 +8,6 @@ categories:
 - 4G
 
   '
-published: true
 summary_points:
 - LTE a WiMax používají OFDM pro downlink, ale pro uplink LTE používá SC-FDMA.
 - OFDMA přenáší data pomocí více úzkopásmových pod-nosných současně.

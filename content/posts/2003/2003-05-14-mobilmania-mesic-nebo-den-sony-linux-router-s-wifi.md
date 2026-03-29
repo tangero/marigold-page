@@ -4,7 +4,6 @@ slug: 'mobilmania-mesic-nebo-den-sony-linux-router-s-wifi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - SMS prvenství ztrácíme, jsme o 20 SMS měsíčně horší než Irové.
 - MobilMania opravila chybu v článku o počtu SMS zpráv u Irů.

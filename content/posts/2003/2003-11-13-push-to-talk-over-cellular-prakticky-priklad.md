@@ -4,7 +4,6 @@ slug: 'push-to-talk-over-cellular-prakticky-priklad'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Článek na MobilManii popisuje technologii Push to Talk over Cellular (PoC).
 - Čtenář v diskusi humorně poukazuje na možné problémy s PoC v praxi.

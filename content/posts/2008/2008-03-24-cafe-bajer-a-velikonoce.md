@@ -6,7 +6,6 @@ categories:
 - Příběhy
 
   '
-published: true
 summary_points:
 - Pardubice jsou pro autora srdeční záležitostí, městem dětství a patriotství.
 - Café Bajer je doporučovaná kavárna vídeňského stylu s příjemnou atmosférou.

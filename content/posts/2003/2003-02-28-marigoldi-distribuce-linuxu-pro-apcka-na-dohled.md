@@ -4,7 +4,6 @@ slug: 'marigoldi-distribuce-linuxu-pro-apcka-na-dohled'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Linux distribuce pro APčka je blízko, testy začnou brzy.
 - Marigold distribuce je CD s Linuxem pro hotspoty a management.

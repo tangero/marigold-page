@@ -4,7 +4,6 @@ slug: 'drobky-nova-sit-woznet-prvni-megapixelove-gsm-sharp-gx30-eurotel-jukebox'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - wOzNet je nová bezdrátová síť s GPS čipy pro sledování objektů.
 - Sharp GX30 je první GSM telefon s megapixelovým fotoaparátem od Vodafonu.

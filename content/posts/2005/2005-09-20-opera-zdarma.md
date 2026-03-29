@@ -4,7 +4,6 @@ slug: 'opera-zdarma'
 author: Noname
 
   '
-published: true
 summary_points:
 - Opera prohlížeč je nyní zcela zdarma, dříve byl placený.
 - Mobilní Opera je hlavní zdroj příjmů společnosti, desktopová verze zdarma má zvýšit

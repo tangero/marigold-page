@@ -4,7 +4,6 @@ slug: 'mqtt-a-docker-jako-korist-pro-internet-veci-z-konference-thingmonk'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Michal, Vlasta a Vojta navštívili londýnský ThingMonk, hackerskou akci zaměřenou
   na Internet věcí.

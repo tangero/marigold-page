@@ -7,7 +7,6 @@ categories:
 - Streaming
 
   '
-published: true
 summary_points:
 - Praha 6 má online zpravodajský kanál TV6.cz, který informuje 3x týdně.
 - Mobilní verze TV6.cz umožňuje sledování zpráv na různých typech mobilů.

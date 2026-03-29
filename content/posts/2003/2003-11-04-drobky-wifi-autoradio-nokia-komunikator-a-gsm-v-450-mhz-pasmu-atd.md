@@ -4,7 +4,6 @@ slug: 'drobky-wifi-autoradio-nokia-komunikator-a-gsm-v-450-mhz-pasmu-atd'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Oskar GPRS funguje podle dohody autora.
 - Živě píše o autorádiu s WiFi, autor preferuje USB docking station.

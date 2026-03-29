@@ -4,7 +4,6 @@ slug: 'nomadix-ma-patentovanou-technologii-presmerovani-na-titulni-stranku-ve-wl
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Nomadix získal patent USA na přesměrování zákazníka v bezdrátové síti na přihlašovací
   stránku.

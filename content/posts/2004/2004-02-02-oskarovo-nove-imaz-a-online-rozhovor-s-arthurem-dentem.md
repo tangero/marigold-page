@@ -4,7 +4,6 @@ slug: 'oskarovo-nove-imaz-a-online-rozhovor-s-arthurem-dentem'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Oskar spouští 2. února novou, "rebelštější" kampaň s mottem "Stačí říct".
 - DigiWeb nabízí online rozhovor s Martinem Malým, tvůrcem Bloguje.cz.

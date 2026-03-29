@@ -1,0 +1,60 @@
+<footer class="site-footer">
+    <div class="footer-compact">
+        <div class="footer-row footer-social-row">
+            <div class="social-icons">
+                {{ with .Site.Params.footer.email }}
+                <a href="mailto:{{ . }}" title="Email" aria-label="Email">
+                    <i class="svg-icon email"></i>
+                </a>
+                {{ end }}
+                {{ with .Site.Params.footer.facebook }}
+                <a href="https://www.facebook.com/{{ . }}" title="Facebook" aria-label="Facebook">
+                    <i class="svg-icon facebook"></i>
+                </a>
+                {{ end }}
+                {{ with .Site.Params.footer.twitter }}
+                <a href="https://www.twitter.com/{{ . }}" title="Twitter" aria-label="Twitter">
+                    <i class="svg-icon twitter"></i>
+                </a>
+                {{ end }}
+                {{ with .Site.Params.footer.linkedin }}
+                <a href="https://www.linkedin.com/in/{{ . }}" title="LinkedIn" aria-label="LinkedIn">
+                    <i class="svg-icon linkedin"></i>
+                </a>
+                {{ end }}
+                {{ if .Site.Params.footer.rss }}
+                <a href="/feed.xml" title="RSS Feed" aria-label="RSS Feed">
+                    <i class="svg-icon rss"></i>
+                </a>
+                {{ end }}
+            </div>
+            <div class="copyright">
+                &copy; {{ now.Format "2006" }} {{ .Site.Params.author }}
+            </div>
+        </div>
+
+        <div class="footer-row footer-projects-row">
+            <a href="https://www.marigold.cz">Marigold.cz</a> |
+            <a href="https://www.zitraslavni.cz">Spisovatelsky klub Zitraslavni.cz</a> |
+            <a href="https://www.vibecoding.cz">VibeCoding.cz</a> |
+            <a href="https://www.topflix.cz">Co sledovat na Netflixu? TopFlix.cz</a> |
+            <a href="https://zandl.substack.com">Patrickuv Newsletter</a> |
+            <a href="https://www.kronium.eu">LED svitilny do outdooru</a> |
+            <a href="https://www.vybavenidoprirody.com/">Vybaveni do prirody</a> |
+            <a href="https://www.brandysboleslav.cz/">Pirati Brandys nad Labem-Stara Boleslav</a> |
+            <a href="https://www.3gpp-explorer.com/">3GPP 4G/5G specifikace</a> |
+            <a href="https://www.mailpromo.cz/">Reklama v newsletteru</a> |
+            <a href="https://www.topflix.cz/">Co davaji na Netflixu</a> |
+            <a href="/changelog/">Changelog Marigold.cz</a>
+        </div>
+
+        <div class="footer-row footer-partners-row">
+            <a title="GDPR-compliant Web Analytics" href="https://clicky.com/101451859">
+                <img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" />
+            </a>
+            <a href="https://github.com/tangero/marigold-page">
+                <img src="https://img.shields.io/github/last-commit/tangero/marigold-page" alt="GitHub Last Commit" />
+            </a>
+        </div>
+    </div>
+</footer>

@@ -4,7 +4,6 @@ slug: 'jak-vytvorit-navstevovany-weblog-1088'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Design weblogu není klíčový, důležitější je kvalitní a odborný obsah.
 - Provokace zavedených blogerů novými názory zvyšuje čtenost weblogu.

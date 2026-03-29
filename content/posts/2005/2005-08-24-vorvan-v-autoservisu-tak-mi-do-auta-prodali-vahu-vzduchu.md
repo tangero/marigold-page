@@ -4,7 +4,6 @@ slug: 'vorvan-v-autoservisu-tak-mi-do-auta-prodali-vahu-vzduchu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Motor z Oktávky nevypadával, jen uvolněný plast pod autem opraven za 2000 Kč.
 - Faktura obsahovala položku "váha vzduchu" za deset tisíc bez DPH, zařízení od Bosche.

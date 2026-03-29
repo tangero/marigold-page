@@ -4,7 +4,6 @@ slug: 'sdileni-cdma-asus-wl500g-a-cdma-networking-router-a-cdma-anteny'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Asus WL500g router lze upravit pro sdílení Eurotel CDMA připojení.
 - I4 nabízí CDMA Networking Router s ethernetem, WiFi pro sdílení CDMA připojení.

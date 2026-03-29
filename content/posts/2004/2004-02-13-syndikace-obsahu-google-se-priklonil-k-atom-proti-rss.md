@@ -4,7 +4,6 @@ slug: 'syndikace-obsahu-google-se-priklonil-k-atom-proti-rss'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - RSS je oblíbené pro existenci knihoven a základní funkční prvky.
 - Google Blogger přestal nabízet RSS syndikaci obsahu zdarma a přešel na Atom.

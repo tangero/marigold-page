@@ -4,7 +4,6 @@ slug: 'broadcom-nadava-na-atheros-za-jeho-superg-technologii'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Atheros SuperG zdvojnásobuje rychlost WiFi, ale vyžaduje stejný čipset v síti.
 - Broadcom testy ukazují, že SuperG ruší jiná bezdrátová zařízení v pásmu 2.4 GHz.

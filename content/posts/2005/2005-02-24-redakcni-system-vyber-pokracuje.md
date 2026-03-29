@@ -4,7 +4,6 @@ slug: 'redakcni-system-vyber-pokracuje'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor vybírá redakční systém pro zpravodajské servery Marigold.
 - Drupal původně preferovaný, nyní Xaraya favorit kvůli funkcím a podpoře.

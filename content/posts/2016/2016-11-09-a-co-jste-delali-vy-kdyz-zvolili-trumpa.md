@@ -4,7 +4,6 @@ slug: 'a-co-jste-delali-vy-kdyz-zvolili-trumpa'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Voliči trestali "elity země" hlasem pro Trumpa, vyjádřili rozčarování a poslali
   zpětnou vazbu.

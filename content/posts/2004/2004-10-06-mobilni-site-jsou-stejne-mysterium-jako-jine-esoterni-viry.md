@@ -4,7 +4,6 @@ slug: 'mobilni-site-jsou-stejne-mysterium-jako-jine-esoterni-viry'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autorovy spoty o UMTS jsou sice zajímavé, ale pro laiky nesrozumitelné.
 - Psaní článků pro laiky je nevděčné, protože mnozí chtějí složitý jazyk.

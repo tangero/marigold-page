@@ -21,7 +21,7 @@ source:
   name: BusinessLine
 title: 'IBM plánuje investice do kvantového počítání a cloudové infrastruktury v Indii:
   Ashwini Vaishnaw'
-url: https://www.thehindubusinessline.com/info-tech/ibm-plans-investments-in-quantum-computing-cloud-infrastructure-in-india-ashwini-vaishnaw/article70669761.ece
+source_url: https://www.thehindubusinessline.com/info-tech/ibm-plans-investments-in-quantum-computing-cloud-infrastructure-in-india-ashwini-vaishnaw/article70669761.ece
 urlToImage: https://bl-i.thgim.com/public/incoming/lmybpv/article70669770.ece/alternates/LANDSCAPE_1200/PTI02_22_2026_000265B.jpg
 urlToImageBackup: https://bl-i.thgim.com/public/incoming/lmybpv/article70669770.ece/alternates/LANDSCAPE_1200/PTI02_22_2026_000265B.jpg
 ---

@@ -4,7 +4,6 @@ slug: 'its-cebit-time-aneb-vecer-jiz-na-cebitu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - CeBIT v Hannoveru zítra začíná, účastní se dva z Marigoldů.
 - Marigoldi jezdí na CeBIT tradičně sedm let.

@@ -20,7 +20,7 @@ source:
   name: Fortune
 title: Jak jedna AI společnost pomáhá firmám zvládat chaos nových cel Trumpa po rozhodnutí
   Nejvyššího soudu
-url: https://fortune.com/2026/02/24/how-one-ai-company-is-helping-businesses-navigate-trumps-new-tariff-chaos-following-the-supreme-court-ruling/
+source_url: https://fortune.com/2026/02/24/how-one-ai-company-is-helping-businesses-navigate-trumps-new-tariff-chaos-following-the-supreme-court-ruling/
 urlToImage: https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2261712801-e1771958612630.jpg?resize=1200,600
 urlToImageBackup: https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2261712801-e1771958612630.jpg?resize=1200,600
 ---

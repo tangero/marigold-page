@@ -19,7 +19,7 @@ source:
   id: null
   name: Techpowerup.com
 title: SambaNova představila AI čip SN50 a uzavírá spolupráci s Intelem
-url: https://www.techpowerup.com/346695/sambanova-unveils-sn50-ai-chip-collaborates-with-intel
+source_url: https://www.techpowerup.com/346695/sambanova-unveils-sn50-ai-chip-collaborates-with-intel
 urlToImage: https://www.techpowerup.com/img/4VSlfgB8jfzRMw6u.jpg
 urlToImageBackup: https://www.techpowerup.com/img/4VSlfgB8jfzRMw6u.jpg
 ---

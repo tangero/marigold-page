@@ -4,7 +4,6 @@ slug: 'linksys-wrtsl54gs-wireless-g-media-storage-link-router'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Linksys WRTSL54GS je první router značky s USB portem.
 - USB 2.0 port routeru podporuje sdílení disků přes SMB/CIFS.

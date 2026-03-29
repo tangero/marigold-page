@@ -4,7 +4,6 @@ slug: 'americka-fcc-uvolni-frekvence-k-volnemu-pouziti'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Bushův plán cílil na širokopásmový internet pro každého občana USA v roce 2007.
 - FCC zvažuje uvolnění frekvencí 900 MHz a 3 GHz pro bezlicenční použití.

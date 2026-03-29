@@ -4,7 +4,6 @@ slug: 'zmeny-v-marigoldi-reklame'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Marisense je nový systém pro zadávání reklamy s úvodním schválením.
 - Minimální cena za kliknutí v Marisense je 5 Kč, časem se sníží.

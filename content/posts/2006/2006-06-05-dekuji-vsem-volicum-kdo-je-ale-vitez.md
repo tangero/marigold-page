@@ -4,7 +4,6 @@ slug: 'dekuji-vsem-volicum-kdo-je-ale-vitez'
 author: Noname
 
   '
-published: true
 summary_points:
 - Volby 2006 byly zajímavé, předvolební odhady agentury SC&C byly statisticky chybné.
 - Paroubek odmítl po volbách vystoupit v televizi a zpochybnil svobodné volby.

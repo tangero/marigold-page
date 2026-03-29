@@ -4,7 +4,6 @@ slug: 'internet-do-bytu-10-mb-s-za-999-kc-a-tv-po-netu-a-neni-to-zprava-ze-zahra
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Mattes AD nabízí 10 Mb/s internet (802.10.MEGA) za 999 Kč ve Frýdku-Místku.
 - VOX je VoIP telefonní služba bez paušálu, volání od 50 haléřů.

@@ -4,7 +4,6 @@ slug: 'novy-vzhled-marigolda-je-tu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Marigold spustil nový vzhled webu, starý byl poškozen a nechtěl čekat.
 - Chyby v novém vzhledu Marigoldu hlaste na marigold@marigold.cz.

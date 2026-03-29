@@ -4,7 +4,6 @@ slug: '3g-tyden-bude-tovarna-na-3g-mobily-v-cr'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - G Týden na Mobil.cz je dostupný přes odkaz, kvůli chybnému zadání do systému.
 - ZTE plánuje továrnu na mobily v ČR a Ericsson vidí super 3G v roce 2007.

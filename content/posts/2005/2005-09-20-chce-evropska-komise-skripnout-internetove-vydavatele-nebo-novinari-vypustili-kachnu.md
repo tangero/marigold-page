@@ -4,7 +4,6 @@ slug: 'chce-evropska-komise-skripnout-internetove-vydavatele-nebo-novinari-vypus
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Novinový článek na iDNESu zkreslil záměry Evropské komise ohledně regulace internetu.
 - Redingová chce rovnocenné podmínky pro online a tištěná média, nikoliv omezování

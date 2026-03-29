@@ -4,7 +4,6 @@ slug: 'operatori-v-roce-2003-zakaznicke-zisky-vede-oskar'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Oskar měl v roce 2003 1 547 000 zákazníků, meziroční růst 31,1 %.
 - Eurotel získal ve 4. čtvrtletí 2003 195 000 nových klientů.

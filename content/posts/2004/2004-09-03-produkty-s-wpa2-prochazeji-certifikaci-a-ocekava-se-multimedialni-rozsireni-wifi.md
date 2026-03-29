@@ -4,7 +4,6 @@ slug: 'produkty-s-wpa2-prochazeji-certifikaci-a-ocekava-se-multimedialni-rozsire
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WPA2 certifikaci získaly první produkty od Atheros, Broadcom, Cisco, Instant802,
   Intel a Realtek.

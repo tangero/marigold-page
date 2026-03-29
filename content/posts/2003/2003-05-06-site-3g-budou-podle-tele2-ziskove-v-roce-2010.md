@@ -4,7 +4,6 @@ slug: 'site-3g-budou-podle-tele2-ziskove-v-roce-2010'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - G sítě dosáhnou zisku až kolem roku 2010, tvrdí šéf Tele2.
 - Tele2 odhad je pesimističtější než odhad operátora "3".

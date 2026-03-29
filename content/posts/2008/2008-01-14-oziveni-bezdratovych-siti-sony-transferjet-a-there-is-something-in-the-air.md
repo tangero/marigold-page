@@ -8,7 +8,6 @@ categories:
 - Sony
 
   '
-published: true
 summary_points:
 - Sony představila TransferJet, NFC technologii pro rychlý bezdrátový přenos dat na
   krátkou vzdálenost.

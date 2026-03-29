@@ -4,7 +4,6 @@ slug: 'cesko-hleda-podcast-star'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Podcasty mají v Česku a na Slovensku mizivé rozšíření a málo dostupných zdrojů.
 - Málo rozšířené MP3 přehrávače a nezvyk na talk-show mohou být příčinou.

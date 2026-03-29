@@ -4,7 +4,6 @@ slug: 'linksys-speedbooster-dalsi-rychlejsi-wifi-tentokrate-od-linksysu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Linksys uvedl 802.11g produkty s Broadcom Afterburner (SpeedBooster) technologií.
 - WRT54GS router, WPC54GS PC Card a WMP54GS PCI Adapter jsou nové produkty.

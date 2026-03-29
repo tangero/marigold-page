@@ -4,7 +4,6 @@ slug: 'cesky-telecom-wifi-zase-drobnosti'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Telecom WiFi má problémy s loginem, konkrétně s index2.php a přihlášením.
 - Tungsten C hlásí chyby při pokusu o přihlášení k Telecom WiFi.

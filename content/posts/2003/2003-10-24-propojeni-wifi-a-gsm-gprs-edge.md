@@ -4,7 +4,6 @@ slug: 'propojeni-wifi-a-gsm-gprs-edge'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - TTPcom navrhuje propojení GSM a WiFi systémů na konferenci CTIA.
 - Nový systém pro propojení GSM a WiFi se jmenuje GSM.11.

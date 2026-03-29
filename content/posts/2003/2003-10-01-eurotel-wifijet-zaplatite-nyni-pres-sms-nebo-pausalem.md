@@ -4,7 +4,6 @@ slug: 'eurotel-wifijet-zaplatite-nyni-pres-sms-nebo-pausalem'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WiFiJet lze nově platit SMS zprávou, hodina stojí 63 Kč, dvě hodiny 105 Kč.
 - Eurotel nabízí datový paušál WiFiJet za 1495 Kč měsíčně se 120 volnými hodinami.

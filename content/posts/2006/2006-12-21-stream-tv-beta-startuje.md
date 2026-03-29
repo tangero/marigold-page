@@ -4,7 +4,6 @@ slug: 'stream-tv-beta-startuje'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Stream TV odstartovalo 21. prosince v 21:12 jako poloveřejný provoz.
 - Stream.cz nabízí ochutnávku zpravodajství, seriálů, pořadů a hudby.

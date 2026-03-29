@@ -4,7 +4,6 @@ slug: 'lupa-nabizi-seznam-hotspotu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Lupa zprovoznila seznam hotspotů na wifi.lupa.cz s 277 lokalitami od 15 poskytovatelů.
 - Seznam hotspotů na Lupa.cz uvádí adresu, cenu a dostupnost signálu, chybí SSID.

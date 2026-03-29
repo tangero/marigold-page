@@ -4,7 +4,6 @@ slug: 'vodaphone-live-ma-milion-klientu-4g-centrum-otevreno-v-mnichove'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Vodafone prodal přes milion kamerových mobilů s podporou Live! za pět měsíců.
 - NewLogic otevřel v Mnichově 4G vývojové centrum zaměřené na sítě čtvrté generace.

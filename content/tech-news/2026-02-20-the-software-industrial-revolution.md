@@ -15,7 +15,7 @@ source:
   id: null
   name: Cannoneyed.com
 title: Softwareová průmyslová revoluce
-url: https://cannoneyed.com/essays/software-industrial-revolution
+source_url: https://cannoneyed.com/essays/software-industrial-revolution
 ---
 
 ## Souhrn

@@ -4,7 +4,6 @@ slug: 'drobky-seznam-mvno-blogy-rostou-cesky-podcast-a-dalsi-drobky'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - MVNO seznam ukazuje, kde virtuální mobilní operátoři nejvíce fungují.
 - Amaztype vyhledává knihy, DVD a CD na Amazonu a zobrazuje je.

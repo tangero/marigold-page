@@ -7,7 +7,6 @@ categories:
 - AI
 - Umělá inteligence
 content_hash: 51faff8aaee2751af2243a24cfd7d936
-lang: en
 original_lang: cs
 permalink: /en/item/ai-psani-povidek/
 thumbnail: https://www.marigold.cz/assets/aipovidky.png

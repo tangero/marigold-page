@@ -4,7 +4,6 @@ slug: 'cdma-je-slepa-ulicka'
 author: Noname
 
   '
-published: true
 summary_points:
 - CDMA je v ČR úspěšné kvůli nedostupnosti levného pevného internetu.
 - Většina CDMA uživatelů (95%) nepoužívá toto připojení mobilně.

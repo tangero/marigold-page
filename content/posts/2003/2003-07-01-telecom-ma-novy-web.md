@@ -4,7 +4,6 @@ slug: 'telecom-ma-novy-web'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Telecom spustil nový web s pochybnou validací HTML.
 - Design nového webu Telecomu je kritizován pro velké písmo a barvy.

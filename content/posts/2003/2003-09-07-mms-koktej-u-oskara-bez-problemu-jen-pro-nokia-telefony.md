@@ -4,7 +4,6 @@ slug: 'mms-koktej-u-oskara-bez-problemu-jen-pro-nokia-telefony'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Sony Ericsson má problémy s MMS od Oskara, zprávy chodí jako přílohy.
 - Odesílání MMS z T-Mobile a Eurotelu na Sony Ericsson u Oskara nefunguje dobře.

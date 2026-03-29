@@ -4,7 +4,6 @@ slug: 'po-vitezstvi-prodam-levne'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Fotka je považována za hodnotnou a zajímavou.
 - Volby1946.cz je webová stránka, na kterou text odkazuje.

@@ -4,7 +4,6 @@ slug: 'qualcomm-predstavil-cipset-3g-edge'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - UMTS telefony s Qualcomm čipsety dříve nepodporovaly EDGE, pouze GPRS.
 - Qualcomm MSM6255 nově podporuje WCDMA, GPRS i EDGE.

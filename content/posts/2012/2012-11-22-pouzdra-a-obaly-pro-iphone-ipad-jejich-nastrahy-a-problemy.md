@@ -7,7 +7,6 @@ categories:
 - Apple
 
   '
-published: true
 summary_points:
 - Kahnemanova kniha o myšlení nebyla v den vydání v knihkupectví dostupná papírově.
 - iPhone 4/4S má design upřednostňující vzhled, což vede k praskání skla.

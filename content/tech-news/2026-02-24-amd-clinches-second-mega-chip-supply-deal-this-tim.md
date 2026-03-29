@@ -19,7 +19,7 @@ source:
   name: Yahoo Entertainment
 title: AMD uzavřelo druhou megadohodu na dodávky čipů pro umělou inteligenci, tentokrát
   s Meta
-url: https://finance.yahoo.com/news/amd-clinches-second-mega-chip-120122612.html
+source_url: https://finance.yahoo.com/news/amd-clinches-second-mega-chip-120122612.html
 urlToImage: https://s.yimg.com/os/en/reuters-finance.com/a8858671771b2b1ca4acd4abb8d43bf0
 urlToImageBackup: https://s.yimg.com/os/en/reuters-finance.com/a8858671771b2b1ca4acd4abb8d43bf0
 ---

@@ -4,7 +4,6 @@ slug: 'broadband-forum-jak-se-hodnotilo-vyrazovalo-a-kdy-budou-penize'
 author: Noname
 
   '
-published: true
 summary_points:
 - RSS kanál InternetProVšechny doporučuje Noname pro zájemce o BBF.
 - Noname zveřejnil článek na webu InternetProVšechny, ID článku 159.

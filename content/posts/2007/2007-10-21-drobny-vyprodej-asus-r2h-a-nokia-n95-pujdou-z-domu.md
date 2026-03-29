@@ -4,7 +4,6 @@ slug: 'drobny-vyprodej-asus-r2h-a-nokia-n95-pujdou-z-domu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Asus R2H a Nokia N95 jdou z domu, nahradily je MacBook a iPhone.
 - Aukro dražba obou zařízení začala na jedné koruně.

@@ -2,7 +2,6 @@
 slug: 'na-detailu-pri-vareni-zalezi'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - Narozeniny Sofie se kvůli internetovému incidentu přesunuly na sobotu.
 - Otec připravil kiš koláč a medovník s pomocí umělé inteligence.

@@ -4,7 +4,6 @@ slug: 'slibeny-web20-zpravodaj-je-zde-a-jmenuje-se-certodej'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Čertoděj je nový zpravodaj o web2.0 trendech spuštěný prvního května.
 - Akciový web Čertoděj odměňuje vlastníky podíly za péči o web.

@@ -4,7 +4,6 @@ slug: 'cznet-wifi-na-praze-8'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - CzNet nabízí WiFi připojení v Praze 8 a 9 s 11, respektive 1 přípojným bodem.
 - Czfree.net ESSID identifikuje některé přípojné body CzNet s hotspoty zdarma (16

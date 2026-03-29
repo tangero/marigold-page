@@ -4,7 +4,6 @@ slug: 'v-t-mobile-proverovali-pozornost-novinaru'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Tisková zpráva T-Mobile obsahovala skryté poznámky pro novináře.
 - Autorka tiskové zprávy zřejmě nebyla poučena o formátech dokumentů.

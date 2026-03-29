@@ -4,7 +4,6 @@ slug: 'darcovska-sms-neni-zadny-cesky-vynalez'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Dárcovské SMS nejsou český vynález, podobné systémy existují v mnoha zemích.
 - Dárcovské SMS jsou transpozicí PR SMS s větším výnosem pro pořadatele.

@@ -4,7 +4,6 @@ slug: 'televize-pres-ipv6-u-nas'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - Óčko spustilo nové internetové vysílání 1.9. 2005 přes proudovací farmu CESNETu.
 - Vysílání Óčka nově dostupné v PAL rozlišení pro linky 1,5 Mb/s a více.

@@ -20,7 +20,7 @@ source:
   name: Wccftech
 title: 'Apple pravděpodobně uvede pět produktů v březnu: iPhone 17e, MacBook Air s
   M5, MacBook Pro s M5 Pro a M5 Max, současné modely se vyprodávají v obchodech'
-url: https://wccftech.com/apple-potentially-launching-five-hardware-products-in-march/
+source_url: https://wccftech.com/apple-potentially-launching-five-hardware-products-in-march/
 urlToImage: https://cdn.wccftech.com/wp-content/uploads/2026/02/Apple-3.jpg
 urlToImageBackup: https://cdn.wccftech.com/wp-content/uploads/2026/02/Apple-3.jpg
 ---

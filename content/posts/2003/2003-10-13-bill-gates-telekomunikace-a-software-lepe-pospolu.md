@@ -4,7 +4,6 @@ slug: 'bill-gates-telekomunikace-a-software-lepe-pospolu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Bill Gates hovořil na ITU Telecom World o spolupráci telekomunikačních a softwarových
   firem.

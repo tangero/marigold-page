@@ -4,7 +4,6 @@ slug: 'proc-ceny-wifi-neklesaji'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - Cena WiFi neklesá kvůli prodeji služeb a správy, ne kapacity samotné.
 - Menší WiFi firmy udržují kontakt se zákazníky, což velké firmy nedokážou.

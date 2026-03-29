@@ -4,7 +4,6 @@ slug: 'neschopnost-ceskych-pocitacovych-e-shopu'
 author: Noname
 
   '
-published: true
 summary_points:
 - Notebook pro kamaráda za 37 tisíc bez DPH se obtížně hledá.
 - České e-shopy postrádají filtry pro váhu, cenu a tablet PC notebooky.

@@ -4,7 +4,6 @@ slug: 'edimax-wifi-u-nas-s-22-mbps'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Edimax uvádí na český trh WiFi produkty s rychlostí 22 Mbps.
 - Distributorem Edimax produktů v Česku je společnost Actebis.

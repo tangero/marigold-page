@@ -4,7 +4,6 @@ slug: 'google-analytics-v-cestine-a-hlavne-novy-kod'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Google Analytics má nové funkce spojené s novým kódem ga.js.
 - Eshopy ocení lepší sledování transakcí v Google Analytics.

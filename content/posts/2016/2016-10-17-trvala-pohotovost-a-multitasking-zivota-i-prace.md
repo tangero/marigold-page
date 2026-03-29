@@ -4,7 +4,6 @@ slug: 'trvala-pohotovost-a-multitasking-zivota-i-prace'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Poslední desetiletí přineslo masivní prolínání práce a osobního života.
 - Trvalá pohotovost znamená, že práce proniká do soukromí bez přestávky.

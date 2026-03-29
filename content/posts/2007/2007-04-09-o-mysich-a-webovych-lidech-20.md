@@ -4,7 +4,6 @@ slug: 'o-mysich-a-webovych-lidech-20'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor přemýšlí o smyslu vlastního přemýšlení a vlivu internetových komentářů.
 - Prodej Jagg.cz odhalil rozdíly v kvalitě a pravdivosti komentářů na webu.

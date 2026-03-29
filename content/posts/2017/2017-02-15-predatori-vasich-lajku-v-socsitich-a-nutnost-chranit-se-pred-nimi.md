@@ -2,7 +2,6 @@
 slug: 'predatori-vasich-lajku-v-socsitich-a-nutnost-chranit-se-pred-nimi'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - Cambridge Analytica využívala destilační algoritmy k ovlivnění voleb ve prospěch
   Trumpa.

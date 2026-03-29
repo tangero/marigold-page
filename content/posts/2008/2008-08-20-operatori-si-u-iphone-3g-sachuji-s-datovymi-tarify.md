@@ -9,7 +9,6 @@ categories:
 - Apple
 
   '
-published: true
 summary_points:
 - Operátoři O2, Vodafone a T-Mobile zveřejnili ceny a tarify pro Apple iPhone 3G.
 - Vodafone zpočátku nabídl dražší datový balíček pro iPhone, než konkurence.

@@ -4,7 +4,6 @@ slug: 'czfree-net-trocha-optiky-trocha-drbu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Deu údajně nezaplatil firmě Anixter fakturu za WiFi techniku dle tvrzení Tomáše
   Kaplera.

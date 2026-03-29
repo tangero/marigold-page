@@ -7,7 +7,6 @@ categories:
 - Knihy
 
   '
-published: true
 summary_points:
 - Vydavatelé hájí zájmy branže, ne autorů, dle autora bestselleru.
 - Autor z prodeje 12 tisíc výtisků knihy obdržel necelých 120 000 Kč.

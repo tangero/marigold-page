@@ -20,7 +20,7 @@ source:
   name: Boston Herald
 title: Grok a další aplikace pro „svlékání“ v obchodech Google a Apple staví Silicon
   Valley do centra globálního pobouření
-url: https://www.bostonherald.com/2026/02/21/grok-nudification-apps-google-apple-silicon-valley-outrage/
+source_url: https://www.bostonherald.com/2026/02/21/grok-nudification-apps-google-apple-silicon-valley-outrage/
 urlToImage: https://www.bostonherald.com/wp-content/uploads/2026/02/Grok-Deepfakes_Lawsuit_61149-1.jpg?w=1024&h=685
 urlToImageBackup: https://www.bostonherald.com/wp-content/uploads/2026/02/Grok-Deepfakes_Lawsuit_61149-1.jpg?w=1024&h=685
 ---

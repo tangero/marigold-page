@@ -7,7 +7,6 @@ categories:
 - iPhone
 
   '
-published: true
 summary_points:
 - Apple neumožňuje dashboardy kvůli optimalizaci výdrže baterie a výkonu.
 - Jailbreaknuté iPhony mají dashboardy, což ukazuje, že omezení je politické, ne technické.

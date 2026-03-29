@@ -4,7 +4,6 @@ slug: 'posledni-pripravy'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Cannes cesta vyžaduje studium UMTS, které se ukázalo jako nepochopitelné.
 - Oskar roaming GPRS/MMS nenabízí, ačkoliv to dříve sliboval.

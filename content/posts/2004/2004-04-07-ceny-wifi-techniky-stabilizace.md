@@ -4,7 +4,6 @@ slug: 'ceny-wifi-techniky-stabilizace'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Aktualizace přehledu cen WiFi techniky zaznamenala mírné zvýšení cen u některých
   produktů.

@@ -18,7 +18,7 @@ source:
   id: the-times-of-india
   name: The Times of India
 title: 'Západní Virginie žaluje Apple: iCloud distribuoval ''dětskou pornografii'''
-url: https://economictimes.indiatimes.com/tech/technology/west-virginia-sues-apple-saying-icloud-distributed-child-porn/articleshow/128589039.cms
+source_url: https://economictimes.indiatimes.com/tech/technology/west-virginia-sues-apple-saying-icloud-distributed-child-porn/articleshow/128589039.cms
 urlToImage: https://img.etimg.com/thumb/width-1200,height-900,imgsize-70000,resizemode-75,msid-128589039/tech/technology/west-virginia-sues-apple-saying-icloud-distributed-child-porn.jpg
 urlToImageBackup: https://img.etimg.com/thumb/width-1200,height-900,imgsize-70000,resizemode-75,msid-128589039/tech/technology/west-virginia-sues-apple-saying-icloud-distributed-child-porn.jpg
 ---

@@ -4,7 +4,6 @@ slug: 'lg-chce-byt-do-roku-2006-top-3-v-mobilech'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - LG chce být do roku 2006 mezi třemi největšími výrobci mobilů.
 - Reorganizace firmy zahrnuje globální výzkumný tým a integraci GSM/CDMA.

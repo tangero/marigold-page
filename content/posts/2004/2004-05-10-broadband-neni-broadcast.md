@@ -4,7 +4,6 @@ slug: 'broadband-neni-broadcast'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Broadband není broadcast, internetová distribuce videa vyžaduje kapacitu pro každého
   uživatele.

@@ -4,7 +4,6 @@ slug: 'zahada-s-oskarim-gprs-skoro-vyresena'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - GPRS aktivace byla posunuta na 4. listopad neznámým pracovníkem Oskara.
 - Změna aktivace by vymazala Oskar Dárky, jejichž obsah autor nezná.

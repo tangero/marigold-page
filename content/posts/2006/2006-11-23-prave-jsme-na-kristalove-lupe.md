@@ -4,7 +4,6 @@ slug: 'prave-jsme-na-kristalove-lupe'
 author: Noname
 
   '
-published: true
 summary_points:
 - Noname s Patrickem jsou na konferenci Křišťálová Lupa.
 - Článek o Marigoldu je 3000. za 4 roky existence webu.

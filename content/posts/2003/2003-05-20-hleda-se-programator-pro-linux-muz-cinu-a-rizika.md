@@ -4,7 +4,6 @@ slug: 'hleda-se-programator-pro-linux-muz-cinu-a-rizika'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Cinetik hledá programátora webových aplikací (Python/PHP) pro Linux.
 - Podíl ve společnosti je hlavní odměna pro programátora s možností platu.

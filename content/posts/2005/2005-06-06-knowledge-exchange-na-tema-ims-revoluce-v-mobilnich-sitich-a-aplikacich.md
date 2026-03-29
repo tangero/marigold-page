@@ -4,7 +4,6 @@ slug: 'knowledge-exchange-na-tema-ims-revoluce-v-mobilnich-sitich-a-aplikacich'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Tuesday pořádá Knowledge Exchange o IMS 15. června 2005.
 - IMS revoluce v mobilních sítích je téma akce Knowledge Exchange.

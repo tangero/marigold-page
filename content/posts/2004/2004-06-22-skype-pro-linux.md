@@ -4,7 +4,6 @@ slug: 'skype-pro-linux'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Skype betaverze je dostupná pro Linux ke stažení na skype.com/download_linux.html.
 - Skype pro Linux vyžaduje minimálně 400 MHz procesor a 128 MB RAM.

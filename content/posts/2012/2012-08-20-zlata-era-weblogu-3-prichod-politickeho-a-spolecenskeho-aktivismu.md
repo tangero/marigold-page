@@ -7,7 +7,6 @@ categories:
 - Weblogy
 
   '
-published: true
 summary_points:
 - Raná česká blogosféra (2002-2003) byla technicky zaměřená, věnovaná webdesignu a
   technologiím.

@@ -4,7 +4,6 @@ slug: 'cisco-planuje-telefon-s-wifi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Cisco vyrobí VoIP telefon 7920 s WiFi, alternativu k ethernetovému modelu 7960.
 - SpectraLink nabízí podobný WiFi telefon pro internetovou telefonii vyžadující VoIP

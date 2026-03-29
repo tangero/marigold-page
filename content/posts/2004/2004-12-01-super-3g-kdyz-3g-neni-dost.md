@@ -4,7 +4,6 @@ slug: 'super-3g-kdyz-3g-neni-dost'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor onemocněl před svatbou a cestou do Egypta, léčí se čajem.
 - NTT DoCoMo vyvíjí Super 3G jako přechod k 4G kolem roku 2010.

@@ -4,7 +4,6 @@ slug: 'telenor-nabidne-vlastni-dsl'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Telenor Networks podepsal s Českým Telecomem smlouvu o LLU 5. prosince.
 - Telenor DSL služby budou spuštěny v prvním čtvrtletí 2004 v Praze.

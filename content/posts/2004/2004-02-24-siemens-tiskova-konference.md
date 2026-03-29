@@ -4,7 +4,6 @@ slug: 'siemens-tiskova-konference'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Siemens odhaduje, že v roce 2010 budou 2/3 uživatelů mobilů zařízení.
 - Siemens je v Evropě číslo 2, v Rusku a Brazílii číslo 1 v GSM.

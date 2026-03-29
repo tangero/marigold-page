@@ -4,7 +4,6 @@ slug: 'teledrobky-3g-zakladnovka-muze-zpusobit-zdravotni-potize-mms-aliance-poro
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - G základnové stanice mohou dle studie způsobovat bolesti hlavy v blízkosti.
 - Evropská MMS aliance propojuje MMS a GPRS služby devíti operátorů.

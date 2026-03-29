@@ -19,7 +19,7 @@ source:
   name: BGR
 title: Umělá inteligence by mohla ohrozit práci řidičů marsovských roverů NASA po
   prvním testu
-url: https://www.bgr.com/2107857/ai-first-drive-on-nasa-perseverance-mars-rover/
+source_url: https://www.bgr.com/2107857/ai-first-drive-on-nasa-perseverance-mars-rover/
 urlToImage: https://www.bgr.com/img/gallery/ai-might-be-coming-for-nasa-mars-rover-drivers-job-after-its-first-test-run/l-intro-1771861903.jpg
 urlToImageBackup: https://www.bgr.com/img/gallery/ai-might-be-coming-for-nasa-mars-rover-drivers-job-after-its-first-test-run/l-intro-1771861903.jpg
 ---

@@ -4,7 +4,6 @@ slug: 'u-ctrnacti-japonskych-firem-mohou-hlasovat-akcionari-mobilem'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Japonské firmy umožňují akcionářům hlasovat mobilem, například NTT DoCoMo (774 hlasů).
 - Matsuzakaya, banky a Sony také umožňují akcionářům hlasovat pomocí mobilního telefonu.

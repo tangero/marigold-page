@@ -4,7 +4,6 @@ slug: 'deutsche-telekom-ma-rusnejsi-obdobi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Deutsche Telekom chce snížit zadluženost na 52,3-49,5 miliard EUR do konce roku.
 - DT žádá o povolení zvýšit měsíční paušály za analogové linky v Německu.

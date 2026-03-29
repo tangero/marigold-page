@@ -22,7 +22,7 @@ source:
   name: The Times of India
 title: Tim Cook varován CIA před možným útokem Číny na Tchaj-wan do roku 2027, uvádí
   zpráva
-url: https://economictimes.indiatimes.com/news/international/us/tim-cook-warned-by-cia-that-china-could-move-on-taiwan-by-2027-report-says/articleshow/128761224.cms
+source_url: https://economictimes.indiatimes.com/news/international/us/tim-cook-warned-by-cia-that-china-could-move-on-taiwan-by-2027-report-says/articleshow/128761224.cms
 urlToImage: https://img.etimg.com/thumb/msid-128761248,width-1200,height-630,imgsize-31906,overlay-economictimes/articleshow.jpg
 urlToImageBackup: https://img.etimg.com/thumb/msid-128761248,width-1200,height-630,imgsize-31906,overlay-economictimes/articleshow.jpg
 ---

@@ -4,7 +4,6 @@ slug: 'mobildrobky-mobs-video-video-pro-mobily-nokia-dokupuje-podily-v-symbianu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Mobs video nabízí zdarma stahování videoklipů pro mobilní telefony.
 - Nokia získala 63,3% podíl v Symbianu odkupem od Psionu za 256 milionů dolarů.

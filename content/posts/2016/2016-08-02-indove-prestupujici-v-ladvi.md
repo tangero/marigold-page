@@ -4,7 +4,6 @@ slug: 'indove-prestupujici-v-ladvi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Pomáhal jsem indickým turistům s orientací v pražském metru.
 - Německý přízvuk způsobil nedorozumění a vtipnou situaci.

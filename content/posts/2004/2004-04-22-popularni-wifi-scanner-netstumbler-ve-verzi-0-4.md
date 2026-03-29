@@ -4,7 +4,6 @@ slug: 'popularni-wifi-scanner-netstumbler-ve-verzi-0-4'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - NetStumbler 0.4, nový WiFi scanner pro Windows, byl včera vydán.
 - Podpora čipsetů Atheros, Atmel, Intersil Prism2 a Cisco byla výrazně vylepšena.

@@ -4,7 +4,6 @@ slug: 'malicky-vyprodej-techniky-prubezny-update-nyni-21-veci'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor likviduje starou techniku přes iKup a Aukro s vyvolávací cenou 1 Kč.
 - Nabízí ostatním, aby se připojili k výprodeji a poslali mu odkazy na aukce.

@@ -4,7 +4,6 @@ slug: 'internetove-obchody-s-wifi-technikou'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Databáze WiFi techniky byla vyplňována průzkumem internetových obchodů.
 - Autor shrnuje poznatky z pohledu kupujícího routery a přístupové body.

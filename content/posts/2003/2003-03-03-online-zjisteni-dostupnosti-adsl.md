@@ -4,7 +4,6 @@ slug: 'online-zjisteni-dostupnosti-adsl'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - ADSL je dostupné pouze v Praze, Brně a Ostravě.
 - Dostupnost ADSL lze ověřit online pro konkrétní telefonní číslo.

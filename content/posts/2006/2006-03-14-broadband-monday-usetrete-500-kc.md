@@ -4,7 +4,6 @@ slug: 'broadband-monday-usetrete-500-kc'
 author: Noname
 
   '
-published: true
 summary_points:
 - Akce o vysokorychlostním internetu se koná v pondělí pod Tuesday Business Network.
 - Vstup zdarma je omezený, zájemci musí napsat e-mail s důvodem účasti.

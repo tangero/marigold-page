@@ -4,7 +4,6 @@ slug: 'foneshare-mi-prijde-jako-pekna-ptakovina-a-ne-prvni-p2p'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - FoneShare je webová aplikace, ne P2P software instalovaný v telefonu.
 - Uživatelé nahrávají obsah na web FoneShare přes formulář, nikoliv přímo z mobilu.

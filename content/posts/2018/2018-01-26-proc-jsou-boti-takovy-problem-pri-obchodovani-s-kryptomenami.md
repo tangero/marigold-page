@@ -2,7 +2,6 @@
 slug: 'proc-jsou-boti-takovy-problem-pri-obchodovani-s-kryptomenami'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - Obchodní boti jsou důležitým prvkem obchodování s kryptoměnami
 - Boti využívají vysokou volatilitu kryptoměn k automatizovanému obchodování

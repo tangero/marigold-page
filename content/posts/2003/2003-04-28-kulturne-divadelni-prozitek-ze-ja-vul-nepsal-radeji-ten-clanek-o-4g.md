@@ -4,7 +4,6 @@ slug: 'kulturne-divadelni-prozitek-ze-ja-vul-nepsal-radeji-ten-clanek-o-4g'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Divadelní představení Bouře ve Švandově divadle bylo pro autora zklamáním.
 - Režisér zřejmě hru zkazil, žánr představení byl nejasný a hudba bizarní.

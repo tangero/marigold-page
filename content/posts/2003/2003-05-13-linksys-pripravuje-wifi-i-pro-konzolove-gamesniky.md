@@ -4,7 +4,6 @@ slug: 'linksys-pripravuje-wifi-i-pro-konzolove-gamesniky'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Linksys WGA54G adaptér připojí herní konzole (Xbox, PS2, GameCube) k 802.11G WiFi.
 - Linksys WGA54G bude dostupný ve třetím čtvrtletí 2003, cena není známa.

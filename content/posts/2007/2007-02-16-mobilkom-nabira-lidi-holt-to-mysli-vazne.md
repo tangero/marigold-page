@@ -4,7 +4,6 @@ slug: 'mobilkom-nabira-lidi-holt-to-mysli-vazne'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - MobilKom nabírá nové zaměstnance, což souvisí s turbulentní situací u konkurence.
 - Vodafone je podle referencí aktuálně top zaměstnavatel mezi velkými českými telco

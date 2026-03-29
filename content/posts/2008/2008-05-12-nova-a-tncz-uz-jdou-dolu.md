@@ -7,7 +7,6 @@ categories:
 - Nova
 
   '
-published: true
 summary_points:
 - Nova.cz po startu Tn.cz zaznamenala prudký pokles návštěvnosti po prvotním nárůstu.
 - Návštěvnost Tn.cz/Nova.cz se stabilizovala na úrovni srovnatelné se Stream.cz a

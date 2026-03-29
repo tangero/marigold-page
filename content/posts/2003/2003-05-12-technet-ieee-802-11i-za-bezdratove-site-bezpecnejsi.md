@@ -4,7 +4,6 @@ slug: 'technet-ieee-802-11i-za-bezdratove-site-bezpecnejsi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WPA a 802.11i jsou stručně popsány v článku Romana Všetečky na Technetu.
 - Autor píše kapitolu o bezpečnosti bezdrátových sítí do WiFi knihy.

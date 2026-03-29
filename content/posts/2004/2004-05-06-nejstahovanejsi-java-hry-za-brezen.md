@@ -4,7 +4,6 @@ slug: 'nejstahovanejsi-java-hry-za-brezen'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - ELSPA publikuje žebříček nejstahovanějších Java her pro mobilní telefony.
 - Data poskytují operátoři T-Mobile, Vodafone, Orange a O2.

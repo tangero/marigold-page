@@ -4,7 +4,6 @@ slug: 'certifikaty-jsem-nejak-nepochopil'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Osobní certifikát pro ověření identity je skvělá myšlenka s problematickou realizací.
 - České certifikační autority účtují za osobní certifikát průměrně 500 Kč.

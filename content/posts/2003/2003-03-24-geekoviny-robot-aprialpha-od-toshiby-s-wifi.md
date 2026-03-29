@@ -4,7 +4,6 @@ slug: 'geekoviny-robot-aprialpha-od-toshiby-s-wifi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Geekoviny na Marigoldu představují technické výstřednosti určené technofandům.
 - Toshiba představila robotka ApriAlpha na RoboDexu, který rozpozná stovku tváří.

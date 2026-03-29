@@ -7,7 +7,6 @@ categories:
 - Dezinformace
 
   '
-published: true
 summary_points:
 - Amazon doporučil knihu Anatolije Fomenka, ruského matematika a revizionisty historie.
 - Fomenko zpochybňuje datování raného středověku a spolehlivost Scaligerovy chronologie.

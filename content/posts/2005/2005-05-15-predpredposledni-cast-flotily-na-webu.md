@@ -4,7 +4,6 @@ slug: 'predpredposledni-cast-flotily-na-webu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Flotila Země povídka má na webu předpředposlední část.
 - Autor původně plánoval předposlední část s epilogem.

@@ -4,7 +4,6 @@ slug: 'prisel-cas-snizit-cenu-za-kabelovy-internet-nebo-nabidnout-sluzby-navic'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - UPC internet autor používá od zavedení na Lužinách, nahradil jím InWay.
 - Autor platí 1550 Kč měsíčně za Chello Klasik s televizí, což považuje za hodně.

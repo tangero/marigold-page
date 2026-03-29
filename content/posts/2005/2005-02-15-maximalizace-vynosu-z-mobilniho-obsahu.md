@@ -4,7 +4,6 @@ slug: 'maximalizace-vynosu-z-mobilniho-obsahu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Ponsot předpovídá nahrazení singlů krátkými mobilními verzemi skladeb.
 - Universal vytváří pro hudebníky kompletní balíčky mobilního obsahu.

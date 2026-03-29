@@ -4,7 +4,6 @@ slug: 'siemens-o-bezproblemovem-roamingu-mezi-wifi-a-gprs-bezdraty-od-radiokomun
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Siemens předváděl bezproblémový roaming mezi WiFi a GPRS, ale výroba je nejistá.
 - Software by mohl řešit přepínání mezi WiFi a GPRS sítěmi automaticky.

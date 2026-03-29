@@ -4,7 +4,6 @@ slug: 'flotila-zeme-po-delsi-odmlce-zase-pokracuje'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Bloger se omlouvá za dlouhé prodlevy v publikování.
 - Flotila Země pokračuje pátou kapitolou s názvem Převlečen za admirála.

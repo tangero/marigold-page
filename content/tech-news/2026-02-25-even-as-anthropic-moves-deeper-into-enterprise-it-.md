@@ -22,7 +22,7 @@ source:
   name: SiliconANGLE News
 title: Anthropic se prosazuje hlouběji do podnikového sektoru, ale u ministerstva
   obrany narazil na zdi
-url: https://siliconangle.com/2026/02/24/even-anthropic-moves-deeper-enterprise-hits-wall-dod/
+source_url: https://siliconangle.com/2026/02/24/even-anthropic-moves-deeper-enterprise-hits-wall-dod/
 urlToImage: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Screenshot-from-2026-01-21-06-32-23.png
 urlToImageBackup: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Screenshot-from-2026-01-21-06-32-23.png
 ---

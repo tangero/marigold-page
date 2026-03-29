@@ -4,7 +4,6 @@ slug: 't-mobile-de-potichoucku-nabizi-3g-sluzby'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - T-Mobile Německo nabízí 3G služby před oficiálním březnovým spuštěním.
 - UMTS telefon a T-Mobile SIM karta umožňují přístup do 3G sítě.

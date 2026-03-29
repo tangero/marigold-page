@@ -4,7 +4,6 @@ slug: 'podekovani-uspesnym-resitelum-matematicke-hadanky'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Matematická hádanka vzbudila zájem, ale i ukázala mezery ve znalostech.
 - Výsledkem hádanky bude rovnice pro výpočet ideálního umístění antény.

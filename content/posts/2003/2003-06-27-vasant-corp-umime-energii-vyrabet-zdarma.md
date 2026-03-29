@@ -4,7 +4,6 @@ slug: 'vasant-corp-umime-energii-vyrabet-zdarma'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Vasant corporation tvrdí, že vyvinula zařízení produkující "energii zdarma".
 - Firma nabízí "SpinWave Technology Book/CD" pro zájemce o technologii.

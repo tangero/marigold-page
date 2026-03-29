@@ -4,7 +4,6 @@ slug: 'dorazila-mi-mbank-visa-karta'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - mBank karta doručena nečekaně brzy obyčejným dopisem, což autorovi vyhovuje.
 - Karta není aktivní ihned, aktivace vyžaduje internetové bankovnictví a SMS autorizaci.

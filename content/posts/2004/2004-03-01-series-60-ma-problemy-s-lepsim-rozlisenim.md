@@ -4,7 +4,6 @@ slug: 'series-60-ma-problemy-s-lepsim-rozlisenim'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Series 60 má maximální rozlišení 176 x 208 obrazových bodů.
 - Windows Mobile podporuje vyšší rozlišení QVGA 320 x 240.

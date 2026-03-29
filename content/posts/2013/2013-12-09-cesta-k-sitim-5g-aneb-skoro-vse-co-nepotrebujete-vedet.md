@@ -4,7 +4,6 @@ slug: 'cesta-k-sitim-5g-aneb-skoro-vse-co-nepotrebujete-vedet'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - G sítě přichází jako řešení rostoucí spotřeby mobilních dat.
 - Tisícinásobné kapacity sítí 5G dosáhneme zvýšením počtu stanic, spektra a efektivity.

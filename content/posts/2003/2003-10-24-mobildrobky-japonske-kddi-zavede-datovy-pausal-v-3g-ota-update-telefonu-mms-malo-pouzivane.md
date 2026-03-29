@@ -4,7 +4,6 @@ slug: 'mobildrobky-japonske-kddi-zavede-datovy-pausal-v-3g-ota-update-telefonu-m
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - KDDI zavede paušál 4200 jenů za neomezená data s rychlostí až 2,4 Mb/s.
 - Bitfone nabízí OTA update pro Symbian, umožňující operátorům posílat záplaty a nové

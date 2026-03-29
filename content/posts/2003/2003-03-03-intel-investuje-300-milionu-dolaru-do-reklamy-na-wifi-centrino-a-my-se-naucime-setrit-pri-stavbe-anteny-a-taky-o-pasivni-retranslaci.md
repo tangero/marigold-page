@@ -4,7 +4,6 @@ slug: 'intel-investuje-300-milionu-dolaru-do-reklamy-na-wifi-centrino-a-my-se-na
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Intel investuje 300 milionů dolarů do reklamní kampaně na Centrino s WiFi.
 - Centrino bude oficiálně představeno 12. března a má změnit způsob práce.

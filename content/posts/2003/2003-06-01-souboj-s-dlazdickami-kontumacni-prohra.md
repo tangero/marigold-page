@@ -4,7 +4,6 @@ slug: 'souboj-s-dlazdickami-kontumacni-prohra'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Dlaždice měly o víkendu nahradit betonovou podlahu balkonu.
 - Teoretická příprava na pokládku dlaždic kontrastovala s nedostatkem zručnosti.

@@ -4,7 +4,6 @@ slug: 'co-jsou-to-zive-fotky'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Živé foto je novotvar MobilManie pro fotografie pořízené redaktory.
 - Dříve se telefony skenovaly, digitální fotoaparáty byly drahé.

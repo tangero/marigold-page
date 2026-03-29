@@ -4,7 +4,6 @@ slug: 'microsoft-kupuje-foldershare-a-probouzi-zajem-o-online-p2p-zalohy'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Microsoft koupil společnost FolderShare, americký start-up zaměřený na P2P zálohovací
   software.

@@ -4,7 +4,6 @@ slug: 'linksys-wre54g-wireless-g-range-expander'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Linksys WRE54G je Range Expander, opakovač WiFi signálu založený na WDS.
 - WRE54G funguje pouze s 54G produkty Linksys, nikoliv se staršími B produkty.

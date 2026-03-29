@@ -4,7 +4,6 @@ slug: 'invex-2003-jedna-fotka-dve-hodinky-chozeni'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Invex autora zklamal, zaznamenal zavřené haly a úpadek oproti minulým ročníkům.
 - Knihy iDNES byly přelepeny Computer Press, což značí prodej a konec působení v Mafře.

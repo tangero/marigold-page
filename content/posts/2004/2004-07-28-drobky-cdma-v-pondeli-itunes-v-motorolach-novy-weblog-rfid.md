@@ -4,7 +4,6 @@ slug: 'drobky-cdma-v-pondeli-itunes-v-motorolach-novy-weblog-rfid'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Eurotel v pondělí představí mobilní internetové připojení přes CDMA EV-DO.
 - Motorola a Apple spolupracují na iTunes pro mobily, detaily spolupráce nejasné.

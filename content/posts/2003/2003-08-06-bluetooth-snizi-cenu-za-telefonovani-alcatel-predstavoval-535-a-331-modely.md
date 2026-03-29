@@ -4,7 +4,6 @@ slug: 'bluetooth-snizi-cenu-za-telefonovani-alcatel-predstavoval-535-a-331-model
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - British Telecom plánuje Bluetooth přístupové body pro volání přes telefony s Bluetooth.
 - Alcatel představil nové modely 535 a 331, srovnávané s konkurenčními telefony.

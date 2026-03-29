@@ -21,7 +21,7 @@ source:
   id: null
   name: Geeky Gadgets
 title: OpenAI musí konkurovat Amazonu a Applu při vstupu do AI hardwaru v roce 2027
-url: https://www.geeky-gadgets.com/openai-smart-speaker-2027/
+source_url: https://www.geeky-gadgets.com/openai-smart-speaker-2027/
 urlToImage: https://www.geeky-gadgets.com/wp-content/uploads/2026/02/smart-speaker-price-range-200-300.jpg
 urlToImageBackup: https://www.geeky-gadgets.com/wp-content/uploads/2026/02/smart-speaker-price-range-200-300.jpg
 ---

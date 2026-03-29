@@ -4,7 +4,6 @@ slug: 'story-o-sousedskych-sitich-5'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - Duron obdržel bezdrátové a drátové karty, překvapivě i SCSI řadič s diskem.
 - Mikrotik OS se zdá být vhodný, verze Level 4 stojí 65 dolarů.

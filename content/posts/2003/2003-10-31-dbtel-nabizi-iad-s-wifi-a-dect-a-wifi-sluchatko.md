@@ -4,7 +4,6 @@ slug: 'dbtel-nabizi-iad-s-wifi-a-dect-a-wifi-sluchatko'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Dbtel Wireless IAD kombinuje WiFi, DSL/kabelové připojení, VoIP a DECT základnu.
 - IAD umožňuje WiFi připojení k internetu a DECT telefonům k telefonní síti.

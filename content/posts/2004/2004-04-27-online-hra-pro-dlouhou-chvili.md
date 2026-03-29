@@ -4,7 +4,6 @@ slug: 'online-hra-pro-dlouhou-chvili'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Escape! je jednoduchá webová hra, kde se myší ovládá červený čtvereček.
 - Hráč uhýbá červeným čtverečkem před modrými objekty a černobílým okrajem hrací plochy.

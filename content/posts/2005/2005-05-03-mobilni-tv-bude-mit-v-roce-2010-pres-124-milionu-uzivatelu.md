@@ -4,7 +4,6 @@ slug: 'mobilni-tv-bude-mit-v-roce-2010-pres-124-milionu-uzivatelu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Informa předpovídá 124 milionů uživatelů mobilní televize v roce 2010.
 - DVB-H formát má dominovat mobilní televizi s 60% uživatelů dle Informy.

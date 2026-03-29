@@ -4,7 +4,6 @@ slug: 'pro-broadband-forum-bylo-prihlaseno-290-projektu'
 author: Noname
 
   '
-published: true
 summary_points:
 - Dotace Broadband fórem přijalo 290 žádostí do pátku 14:00.
 - Hodnotitelé obdrží projekty ve čtvrtek a vyhodnotí je do půlky ledna.

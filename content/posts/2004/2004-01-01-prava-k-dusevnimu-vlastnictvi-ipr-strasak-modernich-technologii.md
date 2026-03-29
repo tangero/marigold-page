@@ -4,7 +4,6 @@ slug: 'prava-k-dusevnimu-vlastnictvi-ipr-strasak-modernich-technologii'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - IPR (práva k duševnímu vlastnictví) ovlivňují moderní technologie.
 - GSM telefony vyžadují stovky patentů, které drží různé firmy.

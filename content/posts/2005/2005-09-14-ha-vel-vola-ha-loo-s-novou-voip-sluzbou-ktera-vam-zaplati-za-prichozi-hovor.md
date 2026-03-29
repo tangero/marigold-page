@@ -4,7 +4,6 @@ slug: 'ha-vel-vola-ha-loo-s-novou-voip-sluzbou-ktera-vam-zaplati-za-prichozi-hov
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Ha-loo nová VoIP služba od Ha-vel zaměřená na drobné uživatele.
 - Registrace ha-loo zdarma, minimální kredit 100 Kč, platnost kreditu jeden rok.

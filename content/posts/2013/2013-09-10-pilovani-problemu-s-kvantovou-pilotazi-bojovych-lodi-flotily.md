@@ -4,7 +4,6 @@ slug: 'pilovani-problemu-s-kvantovou-pilotazi-bojovych-lodi-flotily'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Flotila 2 řeší problém dálkově řízených dronů s kvantovou komunikací a rizikem úmrtí
   operátora.

@@ -4,7 +4,6 @@ slug: 'elektronicke-mytne-jak-vypada-toll-collect-obu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Toll Collect využívá OBU, krabičku s GPS/GSM pro digitální mýtné.
 - OBU se montuje do kamionu a sleduje jeho polohu na dálnici.

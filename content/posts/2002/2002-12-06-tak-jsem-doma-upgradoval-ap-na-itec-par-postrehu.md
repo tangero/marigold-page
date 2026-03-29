@@ -4,7 +4,6 @@ slug: 'tak-jsem-doma-upgradoval-ap-na-itec-par-postrehu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - iTec Access Point měl kusý manuál, neuvádějící nutnost adresy 192.168.0.1.
 - Kabeláž iTec vyžadovala přímý kabel, na rozdíl od staršího Z-Comu s kříženým.

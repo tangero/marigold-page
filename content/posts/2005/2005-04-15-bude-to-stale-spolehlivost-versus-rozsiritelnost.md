@@ -4,7 +4,6 @@ slug: 'bude-to-stale-spolehlivost-versus-rozsiritelnost'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Spolehlivost a rozšiřitelnost chytrých telefonů jsou protichůdné požadavky.
 - Dřívější nestabilitu Windows způsobovaly špatné ovladače třetích stran.

@@ -7,7 +7,6 @@ categories:
 - Apple
 
   '
-published: true
 summary_points:
 - Autor píše knihu "Apple X" o produktech Apple od roku 1996.
 - Kniha se zaměřuje na vliv iPodu, iPhonu a iPadu na digitální svět.

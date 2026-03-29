@@ -4,7 +4,6 @@ slug: 'mobilni-internet-neni-totez-jako-internet-pres-mobil'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Oskarovy tarify jsou levné na hlas a SMS, což tvoří 90% výnosů.
 - GPRS/EDGE nejsou technicky určeny pro trvalé připojení PC kvůli omezené kapacitě

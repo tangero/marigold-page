@@ -4,7 +4,6 @@ slug: 'muzete-komentovat-moje-komentare'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Oranžový odkaz "Nahoru" přesune uživatele na začátek stránky.
 - '"Zalinkovat" nabízí trvalé URL pro sdílení konkrétní zprávy.'

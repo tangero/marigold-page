@@ -4,7 +4,6 @@ slug: 'story-o-sousedskych-sitich-6'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - Koaxiální kabel nakonektorován s kolegy, proces trval nepřijatelně dlouho a spoj
   není dokonalý.

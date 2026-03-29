@@ -4,7 +4,6 @@ slug: 'telecom-se-s-adsl-musel-zblaznit-nebo-bude-kopirovat-model-isdn'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - ADSL od Telecomu bude stát 1300-1500 Kč za linku 192/64 kbps.
 - Cena ADSL je považována za ubohou a atraktivní jen pro fanoušky.

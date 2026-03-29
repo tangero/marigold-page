@@ -4,7 +4,6 @@ slug: 'sandisk-dal-do-prodeje-sd-s-wifi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - SanDisk začal prodávat SD kartu s WiFi v online obchodech.
 - Doporučená cena WiFi SD karty od SanDisku je 130 USD.

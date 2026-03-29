@@ -7,7 +7,6 @@ categories:
 - iPhone
 
   '
-published: true
 summary_points:
 - Autor prodal svůj starý iPhone 2G za 2500 Kč přes Aukro.
 - Důvodem návratu k chytrému telefonu byly hlavně mapy a fotoaparát.

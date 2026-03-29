@@ -21,7 +21,7 @@ source:
   name: The Times of India
 title: Indie a Brazílie plánují alianci v kritických minerálech a umělé inteligenci
   uprostřed křehkého světového řádu
-url: https://economictimes.indiatimes.com/industry/indl-goods/svs/metals-mining/india-and-brazil-plot-a-critical-minerals-and-ai-alliance-amid-a-fragile-world-order/articleshow/128594463.cms
+source_url: https://economictimes.indiatimes.com/industry/indl-goods/svs/metals-mining/india-and-brazil-plot-a-critical-minerals-and-ai-alliance-amid-a-fragile-world-order/articleshow/128594463.cms
 urlToImage: https://img.etimg.com/thumb/msid-128594540,width-1200,height-630,imgsize-127232,overlay-economictimes/articleshow.jpg
 urlToImageBackup: https://img.etimg.com/thumb/msid-128594540,width-1200,height-630,imgsize-127232,overlay-economictimes/articleshow.jpg
 ---

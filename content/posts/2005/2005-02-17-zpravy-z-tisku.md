@@ -4,7 +4,6 @@ slug: 'zpravy-z-tisku'
 author: Noname
 
   '
-published: true
 summary_points:
 - Patrickova nepřítomnost vedla k zveřejnění odkazů na zajímavosti.
 - Iva Lukačovič bloguje o situaci na Ruzynském letišti.

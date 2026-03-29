@@ -7,7 +7,6 @@ categories:
 - Televize
 
   '
-published: true
 summary_points:
 - Komise EU doporučila DVB-H standard pro mobilní televizi v členských státech.
 - Standardizace DVB-H má vytvořit jednotný trh mobilní televize v Evropě.

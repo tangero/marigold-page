@@ -4,7 +4,6 @@ slug: 'weblogerska-umrti'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Blogeři Koubský a Pixy ukončili činnost, což autor chápe kvůli nevýhodám čtenosti.
 - Čtenost blogu vytváří tlak na autora, aby se vyjadřoval ke všemu.

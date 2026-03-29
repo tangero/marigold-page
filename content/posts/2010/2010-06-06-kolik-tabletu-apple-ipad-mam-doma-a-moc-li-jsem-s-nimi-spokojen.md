@@ -7,7 +7,6 @@ categories:
 - iPad
 
   '
-published: true
 summary_points:
 - Autor iPad nevlastní, protože jej považuje spíše za zařízení pro konzumaci obsahu.
 - Pro tvorbu obsahu autor preferuje netbook, který lépe vyhovuje jeho potřebám.

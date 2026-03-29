@@ -4,7 +4,6 @@ slug: 'filipika-proti-gpskam-a-technickym-blbostem-vubec'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - AGPS zrychluje určení polohy pomocí mobilní sítě před GPS.
 - GPS moduly s GPRS stahují mapy, ale jsou drahé.

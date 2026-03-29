@@ -4,7 +4,6 @@ slug: 'berdarovo-temne-mruceni-o-podplacenych-novinarich'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Berdár (Český Telecom) obvinil novináře z lživých komentářů a majetkového zájmu.
 - Autor se ptá, jaký majetkový prospěch mají novináři z psaní o Telecomu.

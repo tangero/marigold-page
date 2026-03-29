@@ -4,7 +4,6 @@ slug: 'pridano-posilani-zprav-emailem'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Emailové zprávy lze nyní posílat z Marigoldu kliknutím na odkaz pod zprávou.
 - Odesílatel musí vyplnit funkční emailovou adresu pro ověření SMTP serverem.

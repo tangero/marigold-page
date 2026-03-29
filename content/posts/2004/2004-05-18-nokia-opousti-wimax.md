@@ -4,7 +4,6 @@ slug: 'nokia-opousti-wimax'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Nokia opustila WiMAX fórum, což je pro WiMAX negativní zpráva z hlediska PR.
 - Nokia chtěla WiMAX pro rozvoj základnových stanic a mobilních terminálů.

@@ -18,7 +18,7 @@ source:
   id: null
   name: Freerepublic.com
 title: Tři inženýři obviněni z krádeže obchodních tajemství Google a odeslání do Íránu
-url: https://freerepublic.com/focus/f-news/4367678/posts
+source_url: https://freerepublic.com/focus/f-news/4367678/posts
 ---
 
 ### Souhrn

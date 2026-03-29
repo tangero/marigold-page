@@ -4,7 +4,6 @@ slug: 'widenet-aneb-wifi-na-praze-6'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WideNet nabízí WiFi připojení v Praze 6, 64 Kb/s za cca 500 Kč.
 - WideNet připojí zdarma atraktivní lokality vhodné pro hotspot.

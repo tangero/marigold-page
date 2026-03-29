@@ -15,7 +15,7 @@ source:
   id: techcrunch
   name: TechCrunch
 title: General Catalyst investuje 5 miliard dolarů do Indie během pěti let
-url: https://techcrunch.com/2026/02/19/general-catalyst-commits-5b-to-india-over-five-years/
+source_url: https://techcrunch.com/2026/02/19/general-catalyst-commits-5b-to-india-over-five-years/
 urlToImage: https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-605683074-e1729770670902.jpg?resize=1200,800
 urlToImageBackup: https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-605683074-e1729770670902.jpg?resize=1200,800
 ---

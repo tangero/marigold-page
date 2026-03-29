@@ -4,7 +4,6 @@ slug: 'wireless-distribution-system-wds'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WDS bezdrátově propojuje přístupové body a sdílí internetové připojení.
 - Apple, Buffalo a Linksys (novější modely) podporují WDS propojení.

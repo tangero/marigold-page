@@ -4,7 +4,6 @@ slug: 'redakce-mobilu-v-plne-praci'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Redaktoři mobil.cz posílají zprávy na server pomocí MMS.
 - Snímek zachycuje redaktory při tvorbě dvou článků.

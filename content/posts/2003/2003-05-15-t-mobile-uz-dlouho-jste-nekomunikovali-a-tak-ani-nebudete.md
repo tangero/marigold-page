@@ -4,7 +4,6 @@ slug: 't-mobile-uz-dlouho-jste-nekomunikovali-a-tak-ani-nebudete'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - T-Zones nefunguje pro SMS odesílání z internetu, hlásí odhlášení z důvodu neaktivity.
 - TyDebajil mi potřetí letos poslal nabídku k úpisu na dva roky.

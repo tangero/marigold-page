@@ -4,7 +4,6 @@ slug: 'bluetooth-versus-zigbee-versus-wirelessusb-je-v-tom-trochu-zmatek'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - ZigBee je robustní protokol pro stavový přenos informací a bezpečný přenos dat.
 - Bluetooth nahrazuje datové kabely a slouží k propojení "vyšší elektroniky" s rychlým

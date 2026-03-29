@@ -4,7 +4,6 @@ slug: 'jak-mi-t-mobile-pomohl-vymenit-pneumatiky'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Navigator od T-Mobile pomohl najít pneuservis po přestěhování.
 - Zimní gumy jsou potřeba pro bezpečnou cestu do Brna a Rakouska.

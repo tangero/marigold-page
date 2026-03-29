@@ -4,7 +4,6 @@ slug: 'novorocni-prehlidka-frazeologie'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Klausův novoroční projev byl shledán jako sbírka frází a vyhýbání se konkrétním
   problémům.

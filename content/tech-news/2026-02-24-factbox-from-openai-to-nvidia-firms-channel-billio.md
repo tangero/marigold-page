@@ -22,7 +22,7 @@ source:
   name: Yahoo Entertainment
 title: 'Factbox: Od OpenAI po Nvidia firmy nalévají miliardy do infrastruktury umělé
   inteligence v době boomu poptávky'
-url: https://finance.yahoo.com/news/factbox-openai-nvidia-firms-channel-122400217.html
+source_url: https://finance.yahoo.com/news/factbox-openai-nvidia-firms-channel-122400217.html
 urlToImage: https://s.yimg.com/os/en/reuters.com/90871c11c4dd6acd34ca9e648ecb61e5
 urlToImageBackup: https://s.yimg.com/os/en/reuters.com/90871c11c4dd6acd34ca9e648ecb61e5
 ---

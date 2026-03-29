@@ -7,7 +7,6 @@ categories:
 - iPhone
 
   '
-published: true
 summary_points:
 - Nokia N8 je nejlepší telefon od Nokie, ale ne revoluční jako Nokia 6110.
 - Symbian prohlížeč zdědil problémy ovládání z dřívějších modelů Nokia.

@@ -4,7 +4,6 @@ slug: 'series-60-drobky-quickoffice-premier-frozen-bubble-a-yetisport-pro-mobily
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Quickoffice Premier umožňuje editaci Microsoft Office souborů na Series 60/UIQ za
   50 USD.

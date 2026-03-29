@@ -16,7 +16,7 @@ source:
   name: CNBC
 title: Technologickí giganti investují miliardy do indické umělé inteligence, New
   Delhi usiluje o postavení supervelmoci
-url: https://www.cnbc.com/2026/02/21/india-ai-summit-tech-giants-billion-dollar-investments.html
+source_url: https://www.cnbc.com/2026/02/21/india-ai-summit-tech-giants-billion-dollar-investments.html
 urlToImage: https://image.cnbcfm.com/api/v1/image/108267430-17715196612026-02-19t073405z_1299559104_rc2soja17hj1_rtrmadp_0_india-ai.jpeg?v=1771519686&w=1920&h=1080
 urlToImageBackup: https://image.cnbcfm.com/api/v1/image/108267430-17715196612026-02-19t073405z_1299559104_rc2soja17hj1_rtrmadp_0_india-ai.jpeg?v=1771519686&w=1920&h=1080
 ---

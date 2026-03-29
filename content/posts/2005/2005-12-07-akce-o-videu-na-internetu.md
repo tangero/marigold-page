@@ -4,7 +4,6 @@ slug: 'akce-o-videu-na-internetu'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - Tuesday Business Network pořádá seminář "Video over IP".
 - Živý přenos semináře je dostupný na oznamovacím portálu CESNETu.

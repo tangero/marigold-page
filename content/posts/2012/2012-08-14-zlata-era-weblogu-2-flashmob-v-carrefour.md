@@ -7,7 +7,6 @@ categories:
 - Weblogy
 
   '
-published: true
 summary_points:
 - Weblogy byly vnímány jako nový projev občanské společnosti a intelektuálního projevu.
 - Flashmob v Carrefour 2003 zahrnoval focení v obchodě, což vedlo ke konfliktu s ochrankou.

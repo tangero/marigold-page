@@ -4,7 +4,6 @@ slug: 'chci-bezdratovou-sit-6-3'
 author: Noname
 
   '
-published: true
 summary_points:
 - Aktivní retranslace využívá aktivní prvky pro zpracování a očištění signálu.
 - Aktivní retranslace s 1 AP je levné řešení pro menší vzdálenosti.

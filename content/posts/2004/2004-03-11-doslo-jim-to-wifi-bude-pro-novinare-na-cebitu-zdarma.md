@@ -4,7 +4,6 @@ slug: 'doslo-jim-to-wifi-bude-pro-novinare-na-cebitu-zdarma'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Firmy inkasující poplatky za internet od novinářů jsou kritizovány.
 - WeRoam nabídne akreditovaným novinářům zdarma WiFi na CeBitu.

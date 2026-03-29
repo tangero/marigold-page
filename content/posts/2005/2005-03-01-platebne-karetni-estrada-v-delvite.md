@@ -4,7 +4,6 @@ slug: 'platebne-karetni-estrada-v-delvite'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor zažívá problémy s platbou kartou v Delvitě na Budějovické.
 - Platby kartou v ČR jsou pomalé a často selhávají.

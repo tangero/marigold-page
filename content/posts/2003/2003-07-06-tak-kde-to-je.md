@@ -4,7 +4,6 @@ slug: 'tak-kde-to-je'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Útoky na internetové servery se podle DHS a médií nekonaly, šlo zřejmě o hoax.
 - Manipulace masmédii v oblasti technologií je snadná, ale mohla vést k záplatování

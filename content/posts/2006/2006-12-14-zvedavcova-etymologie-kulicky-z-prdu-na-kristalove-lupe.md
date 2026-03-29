@@ -4,7 +4,6 @@ slug: 'zvedavcova-etymologie-kulicky-z-prdu-na-kristalove-lupe'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor reaguje na článek Zvědavce kritizující Křišťálovou Lupu.
 - Autor byl porotcem Křišťálové Lupy a vyvrací konspirační teorie.

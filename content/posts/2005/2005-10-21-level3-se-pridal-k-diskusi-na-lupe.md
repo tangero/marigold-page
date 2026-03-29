@@ -4,7 +4,6 @@ slug: 'level3-se-pridal-k-diskusi-na-lupe'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - Level3, páteřní síť Internetu, zaznamenala výpadek směrování kolem osmé hodiny ranní.
 - Dvouhodinový výpadek postihl "nezanedbatelnou" část IP páteřní sítě Level3.

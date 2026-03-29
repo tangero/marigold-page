@@ -4,7 +4,6 @@ slug: 'cra-contactel-a-trestni-oznameni'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - ČRa navýšily základní jmění v Contactelu na 1,6875 mld Kč, což je 40,39% podíl.
 - Prodej podílu ČRa v Contactelu proběhne za 1 Kč společnosti TDC Totallosninger A/S.

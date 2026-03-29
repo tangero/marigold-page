@@ -15,7 +15,7 @@ source:
   id: breitbart-news
   name: Breitbart News
 title: Brazílie uzavřela dohody o kritických minerálech s Indií a Jižní Koreou
-url: https://www.breitbart.com/latin-america/2026/02/23/brazil-cuts-mineral-deals-with-india-and-south-korea/
+source_url: https://www.breitbart.com/latin-america/2026/02/23/brazil-cuts-mineral-deals-with-india-and-south-korea/
 urlToImage: https://media.breitbart.com/media/2026/02/AP26052230290683-640x335.jpg
 urlToImageBackup: https://media.breitbart.com/media/2026/02/AP26052230290683-640x335.jpg
 ---

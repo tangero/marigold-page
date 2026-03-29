@@ -4,7 +4,6 @@ slug: 'jak-se-ctu-pomsti-provozovatelum-malych-siti-megadotaznikem'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Ariga obdržela od ČTÚ obsáhlý dotazník, i když telekomunikační služby neposkytuje.
 - Dotazník vyžaduje vyplnění i při neposkytování služeb, včetně nulových hodnot.

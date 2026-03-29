@@ -4,7 +4,6 @@ slug: 'hledam-crm-software-poradite-nekdo'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Bugzilla je pro tazatele nevhodný CRM software kvůli složitosti a zbytečným políčkům.
 - Tazatel potřebuje CRM pro evidenci firem, akcí s nimi spojených a jejich přiřazení.

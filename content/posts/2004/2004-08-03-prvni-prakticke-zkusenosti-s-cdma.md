@@ -4,7 +4,6 @@ slug: 'prvni-prakticke-zkusenosti-s-cdma'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - CDMA dosahuje průměrné rychlosti 512 kbps, občas klesá pod 300 kbps.
 - Ping se pohybuje mezi 100-300 ms, instalace je rychlá a bezproblémová.

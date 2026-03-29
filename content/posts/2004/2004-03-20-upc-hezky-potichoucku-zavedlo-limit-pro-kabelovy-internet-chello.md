@@ -4,7 +4,6 @@ slug: 'upc-hezky-potichoucku-zavedlo-limit-pro-kabelovy-internet-chello'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - UPC Chello snížilo rychlost po překročení 15 GB u linky 256/96 Kb/s.
 - Limity UPC Chello nejsou uvedeny v podmínkách, informují emailem.

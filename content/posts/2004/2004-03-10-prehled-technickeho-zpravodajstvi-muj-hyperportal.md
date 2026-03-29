@@ -4,7 +4,6 @@ slug: 'prehled-technickeho-zpravodajstvi-muj-hyperportal'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor vytvořil v Genesis agregátor českých technických zpráv.
 - Agregátor řadí články podle důležitosti analyzováním titulků.

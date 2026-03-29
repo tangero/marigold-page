@@ -4,7 +4,6 @@ slug: 'cesky-telecom-a-wifi-jaky-to-ma-smysl'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Telecom WiFi recenze článků odhalily různé nedostatky v informacích a testování.
 - Telecom by mohl využít telefonní budky pro efektivní hotspoty WiFi sítě.

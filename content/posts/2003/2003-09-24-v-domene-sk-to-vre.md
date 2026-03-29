@@ -4,7 +4,6 @@ slug: 'v-domene-sk-to-vre'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Slovensko řeší problémy s novým systémem registrace domén, včetně výpadků.
 - SANET ostře kritizuje problémy s novým slovenským systémem registrace domén.

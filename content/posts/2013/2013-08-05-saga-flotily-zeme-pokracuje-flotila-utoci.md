@@ -4,7 +4,6 @@ slug: 'saga-flotily-zeme-pokracuje-flotila-utoci'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Flotila Země bude mít pokračování s názvem Flotila útočí, ale vyjde později.
 - Druhý díl Flotily bude rozsáhlejší, složitější a bez původního hlavního hrdiny.

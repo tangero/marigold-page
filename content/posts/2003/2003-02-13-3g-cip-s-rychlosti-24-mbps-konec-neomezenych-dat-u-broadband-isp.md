@@ -4,7 +4,6 @@ slug: '3g-cip-s-rychlosti-24-mbps-konec-neomezenych-dat-u-broadband-isp'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - G sítě údajně zvládnou 24 MBps díky australskému turbo dekoderu.
 - Američtí ISP bojují s nárůstem dat v broadband připojeních domácností.

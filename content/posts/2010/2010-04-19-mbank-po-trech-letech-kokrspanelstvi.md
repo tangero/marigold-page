@@ -6,7 +6,6 @@ categories:
 - Banky
 
   '
-published: true
 summary_points:
 - mBank má velmi dlouhé číslo účtu, což komplikuje jeho diktování.
 - Zahraniční platby nejsou v mBank funkční, pouze přes PayPal.

@@ -4,7 +4,6 @@ slug: 'v-celem-svete-se-ma-letos-prodat-37-milionu-telefonu-s-videokamerou'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - milionů mobilů s kamerou se očekává letos, dle analytické skupiny SA.
 - Vodafone loni prodal 36 procent z 18 milionů mobilů s kamerou.

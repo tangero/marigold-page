@@ -4,7 +4,6 @@ slug: 'mobiluck-dalsi-mobilni-socioware-zalozeny-na-bluetooth'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - MobiLuck je bluetooth aplikace pro chytré telefony umožňující komunikaci a výměnu
   dat.

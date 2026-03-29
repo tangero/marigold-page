@@ -6,7 +6,6 @@ categories:
 - Média
 
   '
-published: true
 summary_points:
 - Novinařina informuje čtenáře, na rozdíl od dřívější propagandistické literatury.
 - Novináři, "hlídací psi demokracie", poskytují kritické analýzy pro informované rozhodování

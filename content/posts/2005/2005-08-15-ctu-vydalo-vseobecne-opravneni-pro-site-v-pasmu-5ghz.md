@@ -4,7 +4,6 @@ slug: 'ctu-vydalo-vseobecne-opravneni-pro-site-v-pasmu-5ghz'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - ČTÚ povoluje DS a OFDM sítě v pásmech 5 GHz a 2,4 GHz.
 - Povolení nových pásem v 5 GHz je nejzajímavější změnou.

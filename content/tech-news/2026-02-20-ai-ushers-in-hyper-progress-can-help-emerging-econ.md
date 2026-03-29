@@ -22,7 +22,7 @@ source:
   name: The Times of India
 title: AI přináší hyperprogres a pomůže rozvojovým ekonomikám přeskakovat, tvrdí šéf
   Google Pichai
-url: https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-ushers-in-hyper-progress-can-help-emerging-economies-leapfrog-google-ceo-pichai/articleshow/128595460.cms
+source_url: https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-ushers-in-hyper-progress-can-help-emerging-economies-leapfrog-google-ceo-pichai/articleshow/128595460.cms
 urlToImage: https://img.etimg.com/thumb/width-1200,height-900,imgsize-41724,resizemode-75,msid-128595460/tech/artificial-intelligence/ai-ushers-in-hyper-progress-can-help-emerging-economies-leapfrog-google-ceo-pichai.jpg
 urlToImageBackup: https://img.etimg.com/thumb/width-1200,height-900,imgsize-41724,resizemode-75,msid-128595460/tech/artificial-intelligence/ai-ushers-in-hyper-progress-can-help-emerging-economies-leapfrog-google-ceo-pichai.jpg
 ---

@@ -6,7 +6,6 @@ categories:
 - Nokia
 
   '
-published: true
 summary_points:
 - Nokia uvádí N9 s MeeGo, který ale sama Nokia opouští.
 - N9 tak bude mít jen sběratelskou hodnotu kvůli ukončení podpory MeeGo.

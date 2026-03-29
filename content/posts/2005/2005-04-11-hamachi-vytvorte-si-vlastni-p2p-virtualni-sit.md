@@ -4,7 +4,6 @@ slug: 'hamachi-vytvorte-si-vlastni-p2p-virtualni-sit'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Hamachi vytváří virtuální LAN sítě pro sdílení a online hry.
 - Počítače v Hamachi síti mají interní IP adresy a komunikují jako v LAN.

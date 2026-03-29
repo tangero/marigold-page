@@ -4,7 +4,6 @@ slug: 'novinky-z-ces-motorola'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - CES veletrh představil nové produkty, například Motorola VT1000v pro analogové telefony.
 - Motorola WPS870 Wireless Print Server a WU830G USB adapter jsou 802.11g produkty.

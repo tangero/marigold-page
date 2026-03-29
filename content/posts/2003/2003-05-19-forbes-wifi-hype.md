@@ -4,7 +4,6 @@ slug: 'forbes-wifi-hype'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Forbes článek kritizuje WiFi business model, opíraje se o důkazy a postřehy.
 - Shiphool letiště vykazuje nízké využití WiFi ve srovnání s pevnými linkami.

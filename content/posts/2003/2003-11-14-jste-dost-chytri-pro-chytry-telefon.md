@@ -4,7 +4,6 @@ slug: 'jste-dost-chytri-pro-chytry-telefon'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Smartphony jsou kupovány pro modernost a funkce, ale složité ovládání uživatele
   zklame.

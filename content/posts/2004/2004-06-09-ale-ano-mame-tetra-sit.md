@@ -4,7 +4,6 @@ slug: 'ale-ano-mame-tetra-sit'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Tetra síť v ČR existuje, což překvapuje některé lidi.
 - ČTÚ rozdával Tetra licence od roku 2000 různým firmám.

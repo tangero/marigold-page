@@ -4,7 +4,6 @@ slug: 'ma-vlada-schizu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Ministerstvo informuje o druhém kole rámcového programu EU.
 - Rozpočet pro vědu a výzkum bude pravděpodobně krácen.

@@ -8,7 +8,6 @@ categories:
 - Počítače
 
   '
-published: true
 summary_points:
 - Data v počítači jsou cennější než hardware, krádež zálohy je zbytečná.
 - Záloha musí být bezpečná, dostupná a automatická, což je obtížné kombinovat.

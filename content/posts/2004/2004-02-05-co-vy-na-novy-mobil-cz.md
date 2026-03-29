@@ -4,7 +4,6 @@ slug: 'co-vy-na-novy-mobil-cz'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Nový design Mobil.cz je spuštěn, čtenáři jej většinou hodnotí negativně.
 - Autor preferuje výraznější barvy, které lze snadno změnit pomocí CSS skinů.

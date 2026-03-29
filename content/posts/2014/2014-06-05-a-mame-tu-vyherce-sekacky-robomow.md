@@ -4,7 +4,6 @@ slug: 'a-mame-tu-vyherce-sekacky-robomow'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Robomow RC306 má nového majitele Adama Jasenku. Adam popisuje svou sekačku jako
   funkční, ale obtížně ovladatelnou. Sekačka vyžaduje vysoké holínky kvůli bezpečnosti.

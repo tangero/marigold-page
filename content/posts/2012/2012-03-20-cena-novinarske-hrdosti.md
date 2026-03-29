@@ -6,7 +6,6 @@ categories:
 - Média
 
   '
-published: true
 summary_points:
 - Novináři jsou obviňováni z účasti na tiskových konferencích pouze kvůli jídlu zdarma.
 - Autor si nosí vlastní jídlo na tiskové konference, aby se vyhnul obvinění.

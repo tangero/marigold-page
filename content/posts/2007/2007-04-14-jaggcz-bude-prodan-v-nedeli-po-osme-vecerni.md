@@ -4,7 +4,6 @@ slug: 'jaggcz-bude-prodan-v-nedeli-po-osme-vecerni'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Dražba Jagg.cz končí v neděli ve 20:37, aktuální nabídka dosahuje 17 100 Kč.
 - Jagg.cz není zabanován Googlem, doporučuje se vytvořit sitemap pro indexaci.

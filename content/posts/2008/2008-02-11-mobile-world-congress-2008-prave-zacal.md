@@ -7,7 +7,6 @@ categories:
 - Konference
 
   '
-published: true
 summary_points:
 - Mobilní kongres prezentuje spíše tužby výrobců než reálné požadavky zákazníků.
 - Digitální televize (DVB-H, DAB) má nejasný úspěch a problematické měření návratnosti.

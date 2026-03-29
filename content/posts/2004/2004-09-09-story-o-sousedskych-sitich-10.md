@@ -4,7 +4,6 @@ slug: 'story-o-sousedskych-sitich-10'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - CZFree.Net funguje skorotchánovi díky novému kabelu a anténě na střeše.
 - Duchovní vůdce vedlejší obce povolil směrování mimo CZFree, statické směrování je

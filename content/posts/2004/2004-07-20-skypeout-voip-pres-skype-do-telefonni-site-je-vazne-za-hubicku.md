@@ -4,7 +4,6 @@ slug: 'skypeout-voip-pres-skype-do-telefonni-site-je-vazne-za-hubicku'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Lupa.cz zveřejnila článek srovnávající VoIP služby pro SOHO uživatele.
 - Skype nabízí betatest volání do telefonní sítě (SkypeOut) všem registrovaným uživatelům.

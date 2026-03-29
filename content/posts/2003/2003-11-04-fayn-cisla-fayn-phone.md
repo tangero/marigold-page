@@ -4,7 +4,6 @@ slug: 'fayn-cisla-fayn-phone'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Fayn začne v Praze přidělovat příchozí čísla do týdne.
 - Ostatní regiony budou mít příchozí čísla Fayn do konce listopadu.

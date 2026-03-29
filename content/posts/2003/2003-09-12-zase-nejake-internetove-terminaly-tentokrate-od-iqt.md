@@ -4,7 +4,6 @@ slug: 'zase-nejake-internetove-terminaly-tentokrate-od-iqt'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - IQT terminály nabídnou surfování, e-maily, SMS a obchodování jako konkurenci Telecomu.
 - Terminál IQT obsahuje dotykový monitor, tiskárny, čtečky karet a potenciálně skener

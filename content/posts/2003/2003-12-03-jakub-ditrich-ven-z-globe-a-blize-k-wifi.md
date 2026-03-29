@@ -4,7 +4,6 @@ slug: 'jakub-ditrich-ven-z-globe-a-blize-k-wifi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Jakub Ditrich opustil Globe Internet s okamžitou platností.
 - Ditrich se bude věnovat firmě WideNet a bezdrátovým sítím.

@@ -4,7 +4,6 @@ slug: 'heureka-gprs-t-mobile-mi-slape-jak-hodinky'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - T-Mobile GPRS údajně zlepšilo funkčnost, což autor ověřil při výpadku UPC.
 - Autor testoval GPRS v Praze, ale zajímá ho funkčnost u rodičů u Pardubic.

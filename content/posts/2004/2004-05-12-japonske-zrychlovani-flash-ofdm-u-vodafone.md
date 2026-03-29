@@ -4,7 +4,6 @@ slug: 'japonske-zrychlovani-flash-ofdm-u-vodafone'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - NTT DoCoMo plánuje v Japonsku implementaci HSDPA pro zvýšení rychlosti 3G sítí.
 - Vodafone Japan ohlásil přechod na flash OFDM s rychlostí až 3 Mb/s.

@@ -24,7 +24,7 @@ source:
   id: null
   name: SiliconANGLE News
 title: AI sektor je stále přehřátý, paměťové čipy se stávají úzkým hrdlem
-url: https://siliconangle.com/2026/02/20/still-frothy-ai-memory-chips-now-bottleneck/
+source_url: https://siliconangle.com/2026/02/20/still-frothy-ai-memory-chips-now-bottleneck/
 urlToImage: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/AI-Funding-Frenzy-4.png
 urlToImageBackup: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/AI-Funding-Frenzy-4.png
 ---

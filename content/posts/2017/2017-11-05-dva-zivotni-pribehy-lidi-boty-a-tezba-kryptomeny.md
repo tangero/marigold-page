@@ -2,7 +2,6 @@
 slug: 'dva-zivotni-pribehy-lidi-boty-a-tezba-kryptomeny'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - Na Mobile Internet Foru objeven kvalitní firemní časopis KPMG s rozhovorem ševce
   Radka Zachariáše.

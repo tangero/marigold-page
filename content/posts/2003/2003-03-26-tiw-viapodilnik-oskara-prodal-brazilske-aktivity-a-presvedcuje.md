@@ -4,7 +4,6 @@ slug: 'tiw-viapodilnik-oskara-prodal-brazilske-aktivity-a-presvedcuje'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - TIW prodal 49% podíl v brazilské společnosti Telpart za 70 milionů dolarů.
 - Kupcem brazilského podílu TIW je Highlake International Business Company.

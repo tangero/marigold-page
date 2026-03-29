@@ -4,7 +4,6 @@ slug: 'prednasky-o-wifi-na-invexu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WideNet prezentoval WiFi pavilon na Invexu s přednáškami pro začátečníky.
 - Přednášky seznámí uživatele s WiFi technologiemi, možnostmi a cenami.

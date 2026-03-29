@@ -8,7 +8,6 @@ categories:
 - CDMA
 
   '
-published: true
 summary_points:
 - Ufonův telefon Ubiquam U-400 má výbavu zastaralou o osm let.
 - Internet od Ufona stojí 200 Kč měsíčně s rychlostí 153 Kb/s.

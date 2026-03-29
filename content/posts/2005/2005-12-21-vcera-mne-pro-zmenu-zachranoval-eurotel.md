@@ -4,7 +4,6 @@ slug: 'vcera-mne-pro-zmenu-zachranoval-eurotel'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Internetová přípojka od ha-vla ve firmě se předevčírem večer porouchala.
 - Nefunkční internet znemožnil práci a VoIP telefonii.

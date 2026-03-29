@@ -4,7 +4,6 @@ slug: 'nova-verze-redakcniho-systemu'
 author: Radek Hulán
 
   '
-published: true
 summary_points:
 - BLOG:CMS verze 3.6 nově nasazena na Marigold.cz.
 - Problémy s novou verzí BLOG:CMS 3.6 hlaste autorovi.

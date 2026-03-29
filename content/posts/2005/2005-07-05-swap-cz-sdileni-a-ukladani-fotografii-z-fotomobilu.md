@@ -4,7 +4,6 @@ slug: 'swap-cz-sdileni-a-ukladani-fotografii-z-fotomobilu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Swap.cz je nový WAP komunitní portál pro sdílení fotografií z mobilů.
 - Služba Swap.cz nabízí barevný WAP pro nové telefony a WML pro starší.

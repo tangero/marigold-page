@@ -4,7 +4,6 @@ slug: 'chcete-zmenit-svet-venujte-pozornost-internetu-veci-a-velkym-datum'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Internet věcí a Velká data otevírají nové příležitosti srovnatelné s nástupem internetu.
 - M2M komunikace vytváří samostatnou internetovou subvrstvu, které lidé nerozumí.

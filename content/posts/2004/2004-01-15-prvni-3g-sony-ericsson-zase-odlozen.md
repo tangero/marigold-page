@@ -4,7 +4,6 @@ slug: 'prvni-3g-sony-ericsson-zase-odlozen'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Z1010, první 3G telefon Sony Ericsson, se opět odkládá na první čtvrtletí 2004.
 - Evropští výrobci mají problémy s 3G telefony, což znervózňuje provozovatele UMTS

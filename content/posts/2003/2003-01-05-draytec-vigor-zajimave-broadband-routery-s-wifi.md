@@ -4,7 +4,6 @@ slug: 'draytec-vigor-zajimave-broadband-routery-s-wifi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - DrayTec Vigor routery distribuuje firma AtTel.
 - Rodina DrayTec Vigor má třináct modelů s různými funkcemi.

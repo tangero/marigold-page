@@ -4,7 +4,6 @@ slug: 'posnidal-jsem-s-reditelem-gts-milanem-rusnakem'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - 'Rusnák: Čísla patří státu, který rozhoduje o jejich využití občany.'
 - 'Rusnák: Konvergence sítí je klíčová, rozdělení na pevné a mobilní sítě je umělé.'

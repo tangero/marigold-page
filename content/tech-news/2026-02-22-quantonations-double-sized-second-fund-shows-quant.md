@@ -17,7 +17,7 @@ source:
   name: TechCrunch
 title: Druhý fond Quantonation dvakrát větší ukazuje, že kvantové technologie mají
   stále zastánce | TechCrunch
-url: https://techcrunch.com/2026/02/22/quantonations-double-sized-second-fund-shows-quantum-still-has-believers/
+source_url: https://techcrunch.com/2026/02/22/quantonations-double-sized-second-fund-shows-quantum-still-has-believers/
 urlToImage: https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1393513219.jpg?resize=1200,568
 urlToImageBackup: https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1393513219.jpg?resize=1200,568
 ---

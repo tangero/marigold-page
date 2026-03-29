@@ -4,7 +4,6 @@ slug: 'proc-se-open-source-revoluce-zastavila-pred-mobily'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Open-source revoluce v IT se zastavila před mobilními technologiemi.
 - Důvodem absence open-source v mobilech je složitost hardwaru a frekvencí.

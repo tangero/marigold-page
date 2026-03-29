@@ -4,7 +4,6 @@ slug: 'voip-berte-vazne'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - VoIP virus "blame VoIP" stále existuje v telekomunikační obci.
 - Argumentace o kvalitě VoIP hovoru je nyní méně relevantní.

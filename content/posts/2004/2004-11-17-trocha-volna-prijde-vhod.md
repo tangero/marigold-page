@@ -4,7 +4,6 @@ slug: 'trocha-volna-prijde-vhod'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Volný den autor využil k přestavbě bytu pro nového nájemce.
 - Autor po čase napsal 3G Týden na Mobil.cz.

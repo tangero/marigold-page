@@ -4,7 +4,6 @@ slug: 'vypadek-softphone-rozchod-s-administratorem'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Administrátor Softphone Petr Styx odešel a provozovatel Penelopa ho viní ze škod.
 - Softphone měla výpadek, provozovatel tvrdí, že přebíral kontrolu po Styxovi.

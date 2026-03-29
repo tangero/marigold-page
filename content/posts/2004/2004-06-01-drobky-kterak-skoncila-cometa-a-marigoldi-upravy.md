@@ -4,7 +4,6 @@ slug: 'drobky-kterak-skoncila-cometa-a-marigoldi-upravy'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Lupa publikovala článek o konci Cometa Networks s překlepem Intel Cupital.
 - Marigold má dočasně zvětšené písmo, úpravy designu provádí Radek Hulán.

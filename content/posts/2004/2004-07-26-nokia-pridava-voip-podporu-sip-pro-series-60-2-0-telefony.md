@@ -4,7 +4,6 @@ slug: 'nokia-pridava-voip-podporu-sip-pro-series-60-2-0-telefony'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Series 60 verze 2.0 a vyšší získávají podporu VoIP protokolu SIP.
 - SIP Stack a nastavení profilu jsou zdarma ke stažení pro vývojáře.

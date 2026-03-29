@@ -4,7 +4,6 @@ slug: 'internet2-si-zalozil-dcerinku'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Internet2 založil Fiberco pro nákup nenasvícených vláken pro své členy.
 - Fiberco spolupracuje se společností Level3 v oblasti nákupu vláken.

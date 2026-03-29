@@ -7,7 +7,6 @@ categories:
 - Korupce
 
   '
-published: true
 summary_points:
 - Státní IT projekty jsou komplexní kvůli zátěži, škálování a státní infrastruktuře.
 - Ochrana dat a propojení s registry zvyšují náročnost státních IT systémů.

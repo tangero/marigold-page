@@ -4,7 +4,6 @@ slug: 'proc-t-zones-nemaji-seznam-prijemcu-sms'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - T-Zones SMS brána postrádá adresář kontaktů, což ztěžuje odesílání zpráv.
 - MSIE částečně usnadňuje zadávání čísel automatickým doplňováním.

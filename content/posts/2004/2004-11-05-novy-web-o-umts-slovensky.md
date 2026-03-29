@@ -4,7 +4,6 @@ slug: 'novy-web-o-umts-slovensky'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - UMTS.site.cz je nový slovenský web věnovaný UMTS technologii.
 - Web obsahuje devět kapitol o základech UMTS.

@@ -4,7 +4,6 @@ slug: 't-mobile-zprovoznuje-wifi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - T-Mobile pracuje na nabídce WiFi připojení, funguje pět hotspotů.
 - Hotspoty T-Mobile jsou zdarma po registraci, umístěné v hotelech.

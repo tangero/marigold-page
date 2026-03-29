@@ -4,7 +4,6 @@ slug: 'pocketskype-voip-i-z-pocketpc'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - PocketSkype je Skype verze pro PDA s Microsoft PocketPC 2003.
 - Pro správné fungování PocketSkype je nutný 400 MHz procesor a WiFi připojení.

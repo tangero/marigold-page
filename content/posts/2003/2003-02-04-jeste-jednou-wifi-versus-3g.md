@@ -4,7 +4,6 @@ slug: 'jeste-jednou-wifi-versus-3g'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WiFi od BT stojí 2,5 Kč za 1MB, 3G od BT 25 Kč.
 - WIA WiFi nabízí 1MB za 1 Kč, CzFree zdarma.

@@ -4,7 +4,6 @@ slug: 'widenet-nyni-take-v-siti-cerpacich-stanic-omv-a-s-roamingem-boingo'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WideNet zprovoznil první WiFi přípojné body na čerpacích stanicích ÖMV.
 - WideNet spolupracuje s CommOnline a rozšiřuje WiFi pokrytí na 52 ÖMV pump.

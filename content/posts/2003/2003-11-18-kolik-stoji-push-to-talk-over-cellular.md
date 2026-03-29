@@ -4,7 +4,6 @@ slug: 'kolik-stoji-push-to-talk-over-cellular'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Verizon nabízí PTT zdarma s tarify nad 60 USD, podporuje Motorola V.60.
 - Sprint poskytuje PTT zdarma od 100 USD, Audiovox zařízení.

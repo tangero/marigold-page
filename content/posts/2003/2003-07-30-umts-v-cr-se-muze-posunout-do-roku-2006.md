@@ -4,7 +4,6 @@ slug: 'umts-v-cr-se-muze-posunout-do-roku-2006'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Vláda chce urychlené splacení licenčních poplatků UMTS od Eurotelu a T-Mobile.
 - Mlynář navrhuje posunutí spuštění UMTS o rok výměnou za předčasnou splátku.

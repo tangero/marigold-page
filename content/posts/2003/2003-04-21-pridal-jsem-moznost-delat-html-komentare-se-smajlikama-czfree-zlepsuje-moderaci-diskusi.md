@@ -4,7 +4,6 @@ slug: 'pridal-jsem-moznost-delat-html-komentare-se-smajlikama-czfree-zlepsuje-mo
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Marigold má DHTML editor pro komentáře, funkční v MSIE 5.5 a vyšším.
 - CzFree zavedlo moderování příspěvků s možností zobrazení smazaných.

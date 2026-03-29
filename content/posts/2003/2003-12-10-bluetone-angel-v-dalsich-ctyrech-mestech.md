@@ -4,7 +4,6 @@ slug: 'bluetone-angel-v-dalsich-ctyrech-mestech'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Angel ČRa pokrývá nově Liberec, Pardubice, Olomouc a České Budějovice.
 - Pardubický vysílač Angel pokrývá kromě města i Heřmanův Městec, Přelouč a okolí.

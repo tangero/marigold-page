@@ -4,7 +4,6 @@ slug: 'to-je-zase-den'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Den je špatný i bez zjevných nepříjemností.
 - Autor se obává budoucnosti WiFi sítí.

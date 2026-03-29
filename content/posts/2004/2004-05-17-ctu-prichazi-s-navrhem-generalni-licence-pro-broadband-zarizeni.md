@@ -4,7 +4,6 @@ slug: 'ctu-prichazi-s-navrhem-generalni-licence-pro-broadband-zarizeni'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Frekvenční pásma 410-470 MHz a 870-921 MHz jsou určena pro Eurotel CDMA a broadband
   sítě.

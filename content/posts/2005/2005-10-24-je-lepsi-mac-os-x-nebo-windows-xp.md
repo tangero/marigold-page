@@ -4,7 +4,6 @@ slug: 'je-lepsi-mac-os-x-nebo-windows-xp'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Mac OS X získal 800 bodů v porovnání s Windows XP (665/691).
 - Server xvsxp.com nabízí důkladné porovnání Mac OS X a Windows XP.

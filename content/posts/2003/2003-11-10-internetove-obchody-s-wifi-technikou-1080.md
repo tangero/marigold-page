@@ -4,7 +4,6 @@ slug: 'internetove-obchody-s-wifi-technikou-1080'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - i4Shop má dobré ceny na méně značkovou WiFi techniku (Z-com/Zcomax).
 - Elity nabízí nejširší výběr WiFi techniky, ale ceny jsou různorodé.

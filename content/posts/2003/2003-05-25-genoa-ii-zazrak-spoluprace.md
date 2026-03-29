@@ -4,7 +4,6 @@ slug: 'genoa-ii-zazrak-spoluprace'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Genoa II je projekt americké vlády pro analýzu dat souvisejících s terorismem v
   USA.

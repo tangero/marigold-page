@@ -4,7 +4,6 @@ slug: 'praha-dotaci-z-eu-na-bezdratovy-internet-nedostane-ale'
 author: Noname
 
   '
-published: true
 summary_points:
 - Praha nedostane dotaci EU na projekt Bezdrátová Praha.
 - Praha plánuje financovat projekt Bezdrátová Praha z vlastních daní.

@@ -4,7 +4,6 @@ slug: 'adsl-novinky-u-volneho-bez-limitu-samoinstalace-reklamace'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Volný nabízí nové ADSL tarify bez účtování přenesených dat do konce roku.
 - Samoinstalační balíček Volný ADSL stojí 999 Kč při dvouleté smlouvě.

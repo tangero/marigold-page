@@ -4,7 +4,6 @@ slug: 'nedostatek-nebo-lenost'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - Patrick a Martin Kopta si stěžují na nedostatek obsahu pro broadband.
 - Doména .cz nabízí na 100 tisíc audio a video příspěvků.

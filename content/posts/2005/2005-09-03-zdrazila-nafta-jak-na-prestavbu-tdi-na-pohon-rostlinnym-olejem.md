@@ -4,7 +4,6 @@ slug: 'zdrazila-nafta-jak-na-prestavbu-tdi-na-pohon-rostlinnym-olejem'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Vysoké ceny nafty vedou k úvahám o alternativách, například rostlinném oleji.
 - TDi motory lze upravit pro spalování rostlinného oleje předehřívačem kvůli viskozitě.

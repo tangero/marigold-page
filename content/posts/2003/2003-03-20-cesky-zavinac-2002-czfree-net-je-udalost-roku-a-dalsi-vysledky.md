@@ -4,7 +4,6 @@ slug: 'cesky-zavinac-2002-czfree-net-je-udalost-roku-a-dalsi-vysledky'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - CzFree Net vyhrál cenu Českého Zavináče za Událost roku 2002.
 - České noviny získaly ocenění pro nejlepší zpravodajský server.

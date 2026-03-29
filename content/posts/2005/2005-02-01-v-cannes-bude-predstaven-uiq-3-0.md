@@ -4,7 +4,6 @@ slug: 'v-cannes-bude-predstaven-uiq-3-0'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - UIQ Technology představí UIQ 3.0 na 3GSM kongresu v Cannes 14.2. na jachtě.
 - UIQ 3.0 přidává podporu 3G a Operator Configuration Package (OCP).

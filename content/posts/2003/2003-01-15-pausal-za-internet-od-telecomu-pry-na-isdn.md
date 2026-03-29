@@ -4,7 +4,6 @@ slug: 'pausal-za-internet-od-telecomu-pry-na-isdn'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Telecom zvažuje paušál za ISDN internet s kreditem 100 Kč za hovory.
 - ISDN internet by stál necelou tisícovku měsíčně, s rychlostí 64 kbps.

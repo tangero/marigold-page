@@ -4,7 +4,6 @@ slug: 'eurotel-cdma-dalsi-podrobnosti'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Eurotel CDMA EVDO služba popsána v článku na Mobil.cz.
 - Cena služby Eurotel CDMA EVDO odhadována na 1200 Kč bez DPH.

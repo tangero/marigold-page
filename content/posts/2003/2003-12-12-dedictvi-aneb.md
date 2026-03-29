@@ -4,7 +4,6 @@ slug: 'dedictvi-aneb'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Prababička odkázala autorovi zrestituovaný pozemek v Holotíně, strejda Radim zdědil
   movitý majetek.

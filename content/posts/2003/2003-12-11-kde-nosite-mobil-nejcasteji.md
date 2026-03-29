@@ -4,7 +4,6 @@ slug: 'kde-nosite-mobil-nejcasteji'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Kapse u kalhot je nejoblíbenější místo pro nošení mobilu (48% hlasů).
 - Pouzdro na opasku je druhá nejčastější volba, preferuje ho 25% respondentů.

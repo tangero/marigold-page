@@ -4,7 +4,6 @@ slug: 'do-prehledu-wifi-techniky-pridany-wifi-trendnet'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - TrendWare TrendNet nabízí nový čtyřportový WiFi router a access point.
 - Produkty TrendNet podporují "turbo" režim WiFi 802.11b.

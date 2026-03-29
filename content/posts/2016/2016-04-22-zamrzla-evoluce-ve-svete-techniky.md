@@ -5,7 +5,6 @@ author: Patrick Zandl
 featured: true
 
   '
-published: true
 summary_points:
 - Přednáška v Olomouci se zaměřila na vizi internetu v roce 2025.
 - Teorie zamrzlé evoluce vysvětluje nelineární vývoj komplexních systémů.

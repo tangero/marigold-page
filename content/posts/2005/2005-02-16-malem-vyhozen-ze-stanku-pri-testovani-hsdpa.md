@@ -4,7 +4,6 @@ slug: 'malem-vyhozen-ze-stanku-pri-testovani-hsdpa'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Siemens vystavoval PowerPoint prezentaci o HSDPA, neměl vlastní základnovku.
 - Qualcomm potvrdil latenci HSDPA 150-200 ms, EV-DO Rev A má mít nižší.

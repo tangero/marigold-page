@@ -4,7 +4,6 @@ slug: 'muj-prvni-3g-hovor'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor uskutečnil první 3G hovor s Twist kartou v síti T-Mobile D.
 - T-Mobile překvapilo funkční 3G volání, 3G služby budou povoleny později.

@@ -4,7 +4,6 @@ slug: 'siemens-gigaset-sl75-wlan'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Siemens Gigaset SL75 WLAN je nový VoIP telefon s WiFi 802.11b/g.
 - Telefon podporuje SIP protokol, má fotoaparát a barevný displej 128x128.

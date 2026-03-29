@@ -4,7 +4,6 @@ slug: 'marigoldi-rozsah'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Marigold obsahuje 1053 zpráv o rozsahu téměř 1,9 MB textu.
 - Texty zpráv na Marigoldu dosahují téměř dvou milionů znaků.

@@ -4,7 +4,6 @@ slug: 'netphone-dalsi-ceske-voip-kde-se-vzalo-tu-se-vzalo'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - NetPhone bude nový český VoIP poskytovatel.
 - Petr Styx, dříve ze Softphone.cz, stojí za NetPhone.

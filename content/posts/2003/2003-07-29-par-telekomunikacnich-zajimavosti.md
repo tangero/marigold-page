@@ -4,7 +4,6 @@ slug: 'par-telekomunikacnich-zajimavosti'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Michal Lojek odchází z LG, kde měl vést divizi mobilních telefonů.
 - Mobil.cz zveřejnil novou srovnávací databázi mobilních telefonů s 223 záznamy.

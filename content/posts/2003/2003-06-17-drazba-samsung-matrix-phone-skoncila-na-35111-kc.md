@@ -4,7 +4,6 @@ slug: 'drazba-samsung-matrix-phone-skoncila-na-35111-kc'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Matrix Phone Samsung vydražen za 35111 Kč Petru Syrovátkovi.
 - Dražba byla dramatická, cena rychle rostla přes 10000 Kč a 16000 Kč.

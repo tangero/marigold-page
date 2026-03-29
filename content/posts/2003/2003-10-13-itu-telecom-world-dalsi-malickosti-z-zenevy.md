@@ -4,7 +4,6 @@ slug: 'itu-telecom-world-dalsi-malickosti-z-zenevy'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - ITU Telecom World očekává 110 tisíc odborných návštěvníků, vystavuje téměř každý.
 - Asijské firmy Samsung, NEC, LG prezentují 3G telefony a zajímavá řešení.

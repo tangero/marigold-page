@@ -4,7 +4,6 @@ slug: 'fayn-uz-pry-ma-prichozi-telefonni-cislo'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - NetPhone 210 od Faynu stojí 4800 Kč bez DPH.
 - Fayn údajně nabízí příchozí telefonní čísla.

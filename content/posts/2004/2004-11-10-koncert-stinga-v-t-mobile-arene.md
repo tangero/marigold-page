@@ -4,7 +4,6 @@ slug: 'koncert-stinga-v-t-mobile-arene'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Fotografie se chystá ke zpracování před začátkem akce.
 - Marigold.cz hostuje obrázek s názvem app-960032880.octet-stream.

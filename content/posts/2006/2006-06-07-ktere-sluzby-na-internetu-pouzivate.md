@@ -4,7 +4,6 @@ slug: 'ktere-sluzby-na-internetu-pouzivate'
 author: Noname
 
   '
-published: true
 summary_points:
 - Noname hledá tipy na online aplikace pro začátečníky s důrazem na jednoduchost a
   češtinu.

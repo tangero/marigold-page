@@ -4,7 +4,6 @@ slug: 'btska-na-argentinske'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - BTS zaujala autora umístěním na argentinské ulici v Praze.
 - Kabel od antény BTS vede do oken bytu v budově.

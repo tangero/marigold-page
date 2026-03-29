@@ -4,7 +4,6 @@ slug: 'viphone-konecne-poradna-ip-telefonie'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Viphone nabízí jako první IP telefonie v ČR i příchozí telefonní číslo.
 - Instalační poplatky Viphone začínají na 1600 Kč, měsíční paušál na 399 Kč.

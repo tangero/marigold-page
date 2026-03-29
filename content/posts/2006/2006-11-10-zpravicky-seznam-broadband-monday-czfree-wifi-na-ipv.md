@@ -4,7 +4,6 @@ slug: 'zpravicky-seznam-broadband-monday-czfree-wifi-na-ipv'
 author: Noname
 
   '
-published: true
 summary_points:
 - Seznam opravil chybu v RSS, Marigold feedy jsou funkční, opraven mod rewrite.
 - Stream.cz má nový vzhled, záznam Patrickovy přednášky je dostupný na Monday.cz.

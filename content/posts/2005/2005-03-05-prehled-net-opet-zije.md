@@ -4,7 +4,6 @@ slug: 'prehled-net-opet-zije'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Přehled.net, agregátor technického zpravodajství, byl obnoven díky dvěma Petrům.
 - Čeká se krátký výpadek Přehled.netu kvůli stěhování do serverovny.

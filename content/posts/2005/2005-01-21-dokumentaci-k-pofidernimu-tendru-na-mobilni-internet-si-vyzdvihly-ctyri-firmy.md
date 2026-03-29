@@ -4,7 +4,6 @@ slug: 'dokumentaci-k-pofidernimu-tendru-na-mobilni-internet-si-vyzdvihly-ctyri-f
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Čtyři společnosti T-Mobile, Eurotel, Czech On Line a České radiokomunikace projevily
   zájem o pásmo 872 MHz.

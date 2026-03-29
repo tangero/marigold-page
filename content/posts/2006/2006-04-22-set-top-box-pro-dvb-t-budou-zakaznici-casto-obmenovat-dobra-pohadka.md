@@ -4,7 +4,6 @@ slug: 'set-top-box-pro-dvb-t-budou-zakaznici-casto-obmenovat-dobra-pohadka'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Set-top boxy lidé nebudou obměňovat tak často jako mobilní telefony.
 - Televize se v domácnostech obměňují zřídka, typicky méně než jednou za deset let.

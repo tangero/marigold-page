@@ -4,7 +4,6 @@ slug: 'co-si-mam-myslet-o-telezalobach-a-telezalujicich'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Tele2 žaluje Český Telecom kvůli tarifům Home Standard a Home Mini.
 - eTel podporuje žalobu Tele2 a má s Telecomem dřívější spory.

@@ -6,7 +6,6 @@ categories:
 - Příběhy
 
   '
-published: true
 summary_points:
 - Autor uvažoval o koupi nového MacBooku Air za 25 tisíc Kč.
 - Starý MacBook z roku 2006 má poškozený kryt a nízkou výdrž baterie.

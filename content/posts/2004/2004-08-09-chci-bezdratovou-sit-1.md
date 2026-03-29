@@ -4,7 +4,6 @@ slug: 'chci-bezdratovou-sit-1'
 author: Noname
 
   '
-published: true
 summary_points:
 - Wi-Fi sítě zažívají boom, článek je příručka pro laiky.
 - NCR WaveLAN v roce 1993 byla první komerční Wi-Fi technologie.

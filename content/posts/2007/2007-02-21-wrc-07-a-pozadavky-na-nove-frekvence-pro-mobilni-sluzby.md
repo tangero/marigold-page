@@ -4,7 +4,6 @@ slug: 'wrc-07-a-pozadavky-na-nove-frekvence-pro-mobilni-sluzby'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WRC 07 plánuje radiové frekvence, harmonizace frekvencí vyžaduje přihlášení na tomto
   zasedání.

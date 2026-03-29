@@ -4,7 +4,6 @@ slug: 'drobky-praha-ze-vzducholodi-fotky-ne-moje-bohuzel-a-wifi-drobnosti'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Prahou létala vzducholoď BMW, dostupné jsou fotografie z ní online.
 - WiFiOnline.Net publikoval recenzi Linksys WAP54G, oblíbeného přístupového bodu.

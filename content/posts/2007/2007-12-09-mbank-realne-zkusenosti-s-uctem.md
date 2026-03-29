@@ -4,7 +4,6 @@ slug: 'mbank-realne-zkusenosti-s-uctem'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - mBank založení účtu trvalo deset dní, systém je rozpracovaný a spoléhá na zaměstnance.
 - Číslo účtu mBank je dlouhé, komplikované a celoevropsky jednotné, což autorovi vadí.

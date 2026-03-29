@@ -4,7 +4,6 @@ slug: 'ceske-drahy-a-gsm-r'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - České dráhy investují 1,7 miliardy Kč do GSM-R infrastruktury.
 - Prvních 700 km tratí I. a II. koridoru bude pokryto signálem GSM-R.

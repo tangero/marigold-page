@@ -4,7 +4,6 @@ slug: 'dynamicka-ip-adresa-u-upc-mistral-je-uz-fakt-dynamicka'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - UPC Mistral dříve přiděloval IP adresy dynamicky, ale s chováním blízkým statickému.
 - Konflikty IP adres vedly UPC k dynamickému přidělování IP adres na několik dní.

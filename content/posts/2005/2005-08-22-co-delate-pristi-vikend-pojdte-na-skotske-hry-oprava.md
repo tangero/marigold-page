@@ -4,7 +4,6 @@ slug: 'co-delate-pristi-vikend-pojdte-na-skotske-hry-oprava'
 author: Noname
 
   '
-published: true
 summary_points:
 - Sychrov zámek hostí Skotské hry tuto sobotu s těžkoatletickými soutěžemi.
 - Skotské hry nabízejí irskou hudbu, tance, ochutnávku whisky a šermířské souboje.

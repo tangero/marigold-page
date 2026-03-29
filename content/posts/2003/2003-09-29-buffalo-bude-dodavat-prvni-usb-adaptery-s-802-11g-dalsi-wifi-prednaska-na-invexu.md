@@ -4,7 +4,6 @@ slug: 'buffalo-bude-dodavat-prvni-usb-adaptery-s-802-11g-dalsi-wifi-prednaska-na
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Buffalo Technology představilo první USB adaptéry podporující standard 802.11g za
   99 dolarů.

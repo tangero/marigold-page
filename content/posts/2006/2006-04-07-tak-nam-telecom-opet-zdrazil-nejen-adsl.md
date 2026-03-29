@@ -4,7 +4,6 @@ slug: 'tak-nam-telecom-opet-zdrazil-nejen-adsl'
 author: Noname
 
   '
-published: true
 summary_points:
 - Telefon Standard zdražuje o 18,5 % na 403 Kč, Telefon Mini o 16 % na 237 Kč.
 - K tarifu Telefon Mini se připočítává 5,95 Kč za každý hovor s tarifikací 120+60.

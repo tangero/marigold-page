@@ -4,7 +4,6 @@ slug: 'umts-deprese'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - G sítě, konkrétně Trojka, nezměnily způsob, jakým lidé používají mobilní telefony.
 - UMTS sítě nejsou ekonomické, operátoři slibují rychlý internet, ale je drahý.

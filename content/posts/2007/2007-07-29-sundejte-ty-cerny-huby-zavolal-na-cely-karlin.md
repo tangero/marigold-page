@@ -4,7 +4,6 @@ slug: 'sundejte-ty-cerny-huby-zavolal-na-cely-karlin'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Administrátor sítě byl omylem označen za rasistu kvůli křiku slova "huby".
 - Čeští politici se uchylují k rasistickým výrokům, které obhajují různými způsoby.

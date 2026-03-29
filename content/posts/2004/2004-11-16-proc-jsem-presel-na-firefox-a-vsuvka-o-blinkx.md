@@ -4,7 +4,6 @@ slug: 'proc-jsem-presel-na-firefox-a-vsuvka-o-blinkx'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Firefox získal uživatele díky podobnosti s MSIE a drobným vylepšením.
 - Autor přešel na Firefox kvůli panelům, správci stahování a AdBlocku.

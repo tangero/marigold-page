@@ -4,7 +4,6 @@ slug: 'pekna-panika-eu-pry-chysta-zdaneni-sms-a-emailu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Alain Lamassoure navrhl zdanění SMS a emailů pro financování EU.
 - Návrh daně argumentuje pomocí EU členským státům v komunikaci.

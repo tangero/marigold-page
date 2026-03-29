@@ -4,7 +4,6 @@ slug: 'seznam-takovy-ho-neznam'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Seznam mapy se zlepšily, nabízejí ortofotomapu a fungují na Safari.
 - Seznam email je dobře provedená aplikace, autor preferuje kvůli paranoii jiný.

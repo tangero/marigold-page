@@ -4,7 +4,6 @@ slug: 't-mobile-odpoved-na-mms-zpravu-odeslanou-emailem-nedorucime'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Riegrovy sady hostily včerejší sešlost, kde autor fotil Samsungem SGH-V200.
 - MMS zprávy odeslané na email mají adresu ve tvaru 603xxxyyy@mms.t-mobile.cz.

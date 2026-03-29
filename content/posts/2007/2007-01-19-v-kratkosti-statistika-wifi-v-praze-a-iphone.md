@@ -4,7 +4,6 @@ slug: 'v-kratkosti-statistika-wifi-v-praze-a-iphone'
 author: Noname
 
   '
-published: true
 summary_points:
 - Článek Míly Sovy na Internet Pro Všechny analyzuje rozšiřování broadbandu v ČR.
 - Pražský WiFi projekt má zastavenou dotaci z EU a je financován z daní.

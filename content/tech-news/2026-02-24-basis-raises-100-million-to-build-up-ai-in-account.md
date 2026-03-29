@@ -19,7 +19,7 @@ source:
   id: null
   name: pymnts.com
 title: Basis získal 100 milionů dolarů na rozvoj umělé inteligence v účetnictví
-url: https://www.pymnts.com/news/investment-tracker/2026/basis-raises-100-million-to-build-up-ai-in-accounting/
+source_url: https://www.pymnts.com/news/investment-tracker/2026/basis-raises-100-million-to-build-up-ai-in-accounting/
 urlToImage: https://www.pymnts.com/wp-content/uploads/2026/02/Basis-funding-AI-accounting.jpeg
 urlToImageBackup: https://www.pymnts.com/wp-content/uploads/2026/02/Basis-funding-AI-accounting.jpeg
 ---

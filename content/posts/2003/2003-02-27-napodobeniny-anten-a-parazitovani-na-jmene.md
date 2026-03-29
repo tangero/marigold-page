@@ -4,7 +4,6 @@ slug: 'napodobeniny-anten-a-parazitovani-na-jmene'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - CSAT nabízí kvalitní a cenově dostupné antény pro Wireless LAN (ISM pásmo).
 - WLAN antény CSAT splňují evropskou normu EN 300 631 V1.2.1.

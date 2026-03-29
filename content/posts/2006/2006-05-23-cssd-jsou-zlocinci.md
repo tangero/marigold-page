@@ -4,7 +4,6 @@ slug: 'cssd-jsou-zlocinci'
 author: Noname
 
   '
-published: true
 summary_points:
 - ČSSD stránka nabízí doložitelná, ale neuvěřitelná fakta.
 - Neúčast ve volbách dává 50% hlasu KSČM nebo ČSSD.

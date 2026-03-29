@@ -4,7 +4,6 @@ slug: 'simtoolkitova-parba-turbo-sim-toolkit-adapter'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Bladox nabízí Turbo SIM Toolkit Adaptér, hardware s 2MB pamětí pro SIM karty.
 - Adaptér umožňuje ukládání SMS, šifrování a další toolkitové aplikace.

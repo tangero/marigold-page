@@ -4,7 +4,6 @@ slug: 'mobildrobky-reklama-z-plakatu-do-mobilu-foma-pro-umts-gsm-wifi-je-v-polsk
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Japan Ubiquitous Systems vyvinula multimediální rozšíření pro reklamní plakáty s
   infraportem.

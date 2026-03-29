@@ -4,7 +4,6 @@ slug: 'prehled-cen-wifi-techniky-na-pocatek-roku-2004'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Ceny značkových WiFi produktů klesly kvůli poklesu ceny dolaru.
 - Trh WiFi techniky se zahušťuje, obchody se soustředí na pár značek.

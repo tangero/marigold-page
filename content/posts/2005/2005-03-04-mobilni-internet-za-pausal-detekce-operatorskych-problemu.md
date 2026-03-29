@@ -4,7 +4,6 @@ slug: 'mobilni-internet-za-pausal-detekce-operatorskych-problemu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Paušální mobilní internet v Evropě a USA měl datová omezení.
 - České nelimitované připojení bylo v zahraničí překvapivé a nepochopitelné.

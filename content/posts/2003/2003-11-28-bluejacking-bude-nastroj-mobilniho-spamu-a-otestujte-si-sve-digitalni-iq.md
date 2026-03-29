@@ -4,7 +4,6 @@ slug: 'bluejacking-bude-nastroj-mobilniho-spamu-a-otestujte-si-sve-digitalni-iq'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Rainier PR vidí bluejacking jako budoucí marketingový kanál pro komerční sdělení.
 - Bluetooth umožňuje posílat velké množství vizitek bez spárování, což usnadňuje bluejacking.

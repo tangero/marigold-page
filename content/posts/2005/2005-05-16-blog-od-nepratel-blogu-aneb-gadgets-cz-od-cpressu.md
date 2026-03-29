@@ -4,7 +4,6 @@ slug: 'blog-od-nepratel-blogu-aneb-gadgets-cz-od-cpressu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Živě spustilo blog Gadgets.cz o hračičkách a zajímavostech, postavený na Drupalu.
 - Gadgets.cz komerční význam je nejasný, inzerce na gadgety je v ČR minimální.

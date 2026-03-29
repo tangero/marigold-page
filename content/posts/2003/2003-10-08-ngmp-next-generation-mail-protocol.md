@@ -4,7 +4,6 @@ slug: 'ngmp-next-generation-mail-protocol'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - NGMP kombinuje prvky SMTP a Jabberu, implementuje design Internet Mail 2000.
 - Internet Mail 2000 obsahuje odvážné myšlenky, například ukládání pošty u ISP odesílatele.

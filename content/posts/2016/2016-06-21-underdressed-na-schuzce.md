@@ -5,7 +5,6 @@ author: Patrick Zandl
 featured: true
 
   '
-published: true
 summary_points:
 - Dorazil na schůzku underdressed, připomnělo mu nedávnou příhodu.
 - Slečna v kostýmku slíbila přinést kávu, což splnila během jednání.

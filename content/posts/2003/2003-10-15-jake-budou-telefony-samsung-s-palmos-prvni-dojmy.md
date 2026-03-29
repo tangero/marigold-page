@@ -4,7 +4,6 @@ slug: 'jake-budou-telefony-samsung-s-palmos-prvni-dojmy'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Samsung představil v Ženevě pokročilé a finální verze telefonů s PalmOS.
 - Telefony s PalmOS byly dříve prezentovány na veletrhu CeBit.

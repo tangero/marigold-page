@@ -4,7 +4,6 @@ slug: 'wifi-na-novem-smichove-a-v-siti-nescafe'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Nový Smíchov nabízí WiFi připojení od Českého Telecomu v Nescafé kavárně.
 - WiFi funguje zdarma, ačkoli pokladní o spuštění služby nevěděla.

@@ -4,7 +4,6 @@ slug: 'kdyz-jsme-u-hodinek-zkuste-wristlinx-communicator-hodinky-s-vysilackou'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Firma Xact Communication vyrábí hodinky WristLinx Communicator s vestavěnou vysílačkou.
 - Hodinky využívají 22 kanálů v pásmu FRS/GMRS s dosahem 2-3 km.

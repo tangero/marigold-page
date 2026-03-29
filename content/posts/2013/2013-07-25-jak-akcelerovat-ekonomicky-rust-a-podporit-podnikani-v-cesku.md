@@ -4,7 +4,6 @@ slug: 'jak-akcelerovat-ekonomicky-rust-a-podporit-podnikani-v-cesku'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Vláda proklamuje podporu podnikání, ale reálné kroky často připomínají spíše byrokracii.
 - Podnikatelské prostředí se zhoršuje kvůli nadměrnému a nesmyslnému papírování.

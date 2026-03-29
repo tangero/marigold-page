@@ -4,7 +4,6 @@ slug: 'arnie-guvernatorem-to-uz-je-solidni-politicka-deziluze-1078'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Schwarzeneggerovo zvolení guvernérem Kalifornie ukazuje trend volby nepolitiků.
 - Autor varuje, že politická deziluze vede k volbě populistů.

@@ -19,7 +19,7 @@ source:
   id: null
   name: Alltoc.com
 title: Proč AI od Google poskytuje nebezpečné rady k duševnímu zdraví?
-url: https://alltoc.com/health/why-is-google-ai-giving-dangerous-mental-health-advice
+source_url: https://alltoc.com/health/why-is-google-ai-giving-dangerous-mental-health-advice
 urlToImage: https://alltoc.com/cdn/1045/og.png
 urlToImageBackup: https://alltoc.com/cdn/1045/og.png
 ---

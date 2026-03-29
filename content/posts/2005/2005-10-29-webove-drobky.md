@@ -4,7 +4,6 @@ slug: 'webove-drobky'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Ptačí chřipka je tématem článku "Dost blábolů o ptačí chřipce" na MWM.cz.
 - SlovoDne.cz je nový server, který denně vysvětluje jedno slovo.

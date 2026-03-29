@@ -4,7 +4,6 @@ slug: 'blogerske-novinky-nts-govera-antibonusweb-businessweek-koncici-akabe'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - NTS Govera je fiktivní telekomunikační společnost, jejíž blog sleduje Pooh.cz.
 - AntiBW blog kritizuje BonusWeb, autor zůstává anonymní a poukazuje na překlepy.

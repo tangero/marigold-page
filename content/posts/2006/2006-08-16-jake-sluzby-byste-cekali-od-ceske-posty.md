@@ -4,7 +4,6 @@ slug: 'jake-sluzby-byste-cekali-od-ceske-posty'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Česká pošta se snaží elektronizovat, ale neví přesně jak.
 - Autor navrhuje skenování dopisů a přeposílání emailem.

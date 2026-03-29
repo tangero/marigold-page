@@ -4,7 +4,6 @@ slug: 'historie-ceskeho-internetu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Historie českého internetu, kniha autora, nebyla vydána nakladatelem.
 - Autor publikuje rozepsanou knihu o českém internetu online.

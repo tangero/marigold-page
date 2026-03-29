@@ -2,7 +2,6 @@
 slug: 'podekovani'
 
 author: Noname
-published: true
 summary_points:
 - Nethost zajistil rychlý a bezproblémový přechod na nové servery včetně překódování
   databáze.

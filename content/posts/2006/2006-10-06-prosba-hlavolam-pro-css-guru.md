@@ -4,7 +4,6 @@ slug: 'prosba-hlavolam-pro-css-guru'
 author: Noname
 
   '
-published: true
 summary_points:
 - Noname potřebuje pomoc s CSS pro web IP telefonu kvůli prezentaci na Invexu.
 - Internet Explorer 7 skrývá přihlašovací pole, IE 6 web zobrazuje chybně.

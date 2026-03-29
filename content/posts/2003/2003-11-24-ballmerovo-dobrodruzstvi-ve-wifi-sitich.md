@@ -4,7 +4,6 @@ slug: 'ballmerovo-dobrodruzstvi-ve-wifi-sitich'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Steve Ballmer popisuje připojení k nezabezpečené WiFi síti "Mountaineer" v hotelu.
 - Ballmerova historka vedla k článkům o něm jako o "wardriverovi".

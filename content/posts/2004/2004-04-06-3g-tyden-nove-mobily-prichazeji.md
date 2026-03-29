@@ -4,7 +4,6 @@ slug: '3g-tyden-nove-mobily-prichazeji'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Vodafone Italia spouští 3G roaming v Británii, Portugalsku a Španělsku od 1. dubna.
 - Švédský operátor 3 nabízí zdarma hovory a videohovory ve vlastní síti.

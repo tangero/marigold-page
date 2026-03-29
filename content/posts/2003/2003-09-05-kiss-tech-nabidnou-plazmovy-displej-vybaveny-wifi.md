@@ -4,7 +4,6 @@ slug: 'kiss-tech-nabidnou-plazmovy-displej-vybaveny-wifi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - KiSS představila 42palcový plazmový displej PD342 s WiFi pro příjem multimédií.
 - Displej PD342 podporuje internetové video, DivX, vestavěné DVD a HDTV kvalitu.

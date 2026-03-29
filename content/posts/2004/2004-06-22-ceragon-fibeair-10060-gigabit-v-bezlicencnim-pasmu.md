@@ -4,7 +4,6 @@ slug: 'ceragon-fibeair-10060-gigabit-v-bezlicencnim-pasmu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Ceragon FibeAir 10060 nabízí 1,25 Gb/s v bezlicenčním 60 GHz pásmu.
 - GHz pásmo trpí absorpcí vln vodou a kyslíkem, dosah je omezený.

@@ -4,7 +4,6 @@ slug: 'jak-je-to-s-tim-hd'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - Patrikova nesrovnalost ovlivňuje článek "Na síti nebo na disku".
 - Marigold si uvědomuje datové toky moderních kodeků (5-8 Mb/s pro HD).

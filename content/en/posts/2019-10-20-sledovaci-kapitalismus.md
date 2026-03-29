@@ -9,7 +9,6 @@ categories:
 content_hash: 81e5a3a0f9371290caa906040b913650
 excerpt: null
 featured: true
-lang: en
 original_lang: cs
 permalink: /en/item/sledovaci-kapitalismus/
 thumbnail: https://www.duurzaamnieuws.nl/wp-content/uploads/2019/10/tegenlicht-dataroof.jpg

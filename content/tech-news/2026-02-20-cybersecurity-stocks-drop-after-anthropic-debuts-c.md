@@ -19,7 +19,7 @@ source:
   name: SiliconANGLE News
 title: Akcie kyberbezpečnostních firem klesly po představení Claude Code Security
   od Anthropic
-url: https://siliconangle.com/2026/02/20/cybersecurity-stocks-drop-anthropic-debuts-claude-code-security/
+source_url: https://siliconangle.com/2026/02/20/cybersecurity-stocks-drop-anthropic-debuts-claude-code-security/
 urlToImage: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Anthropic.png
 urlToImageBackup: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Anthropic.png
 ---

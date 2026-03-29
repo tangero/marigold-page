@@ -7,7 +7,6 @@ categories:
 - Internet
 
   '
-published: true
 summary_points:
 - Internetová revoluce přináší frustrace podobné průmyslové revoluci, vykořisťování
   se přesunulo do open space kanceláří.

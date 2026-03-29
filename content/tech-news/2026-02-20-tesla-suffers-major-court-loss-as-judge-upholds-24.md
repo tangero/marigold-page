@@ -22,7 +22,7 @@ source:
   name: Raw Story
 title: 'Tesla prohrává významný soud: Soudce potvrzuje pokutu 243 milionů dolarů za
   smrtelnou nehodu'
-url: https://www.rawstory.com/tesla-2675288731/
+source_url: https://www.rawstory.com/tesla-2675288731/
 urlToImage: https://www.rawstory.com/media-library/u-s-president-donald-trump-talks-to-the-media-next-to-tesla-ceo-elon-musk-with-his-son-x-ae-a-12-at-the-white-house-in-washing.jpg?id=58276463&width=1200&height=600&coordinates=0%2C377%2C0%2C377
 urlToImageBackup: https://www.rawstory.com/media-library/u-s-president-donald-trump-talks-to-the-media-next-to-tesla-ceo-elon-musk-with-his-son-x-ae-a-12-at-the-white-house-in-washing.jpg?id=58276463&width=1200&height=600&coordinates=0%2C377%2C0%2C377
 ---

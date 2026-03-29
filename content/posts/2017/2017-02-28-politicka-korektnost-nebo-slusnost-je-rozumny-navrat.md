@@ -2,7 +2,6 @@
 slug: 'politicka-korektnost-nebo-slusnost-je-rozumny-navrat'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - Autor se zavazuje k politické korektnosti a úctě v komunikaci. Kritizuje úbytek
   úcty a nárůst agresivity ve společnosti. Rozhodl se změnit po incidentu s agresivním

@@ -4,7 +4,6 @@ slug: 'mobildrobky-dalsi-ptt-aplikace-za-10-usd-moblogy-od-microsoftu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Visual Communicator od Sapio nabízí Push to talk a textové zprávy pro Series 60
   telefony.

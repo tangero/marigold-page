@@ -4,7 +4,6 @@ slug: 'prenositelnost-mobilnich-cisel-co-jsme-si-po-cesku-podelali'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Přenositelnost mobilních čísel EU požaduje od konce 90. let.
 - Zavedení přenositelnosti mobilních čísel v ČR se stále odkládá.

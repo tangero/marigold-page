@@ -4,7 +4,6 @@ slug: '3g-tyden-vodafone-roamuje-a-hleda-mobily'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Vodafone nabízí roaming dat v 3G sítích v Evropě bez příplatků od května.
 - Samsung dodá 3G telefony pro Vodafone v Německu a Portugalsku.

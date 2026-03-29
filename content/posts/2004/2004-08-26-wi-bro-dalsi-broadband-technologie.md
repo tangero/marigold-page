@@ -4,7 +4,6 @@ slug: 'wi-bro-dalsi-broadband-technologie'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Wi-Bro je nová širokopásmová bezdrátová technologie vyvíjená Japonskem, Čínou a
   Koreou.

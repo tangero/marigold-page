@@ -3,7 +3,6 @@ slug: 'technologicka-revoluce-ve-volnobehu'
 
 author: Patrick Zandl
 featured: true
-published: true
 summary_points:
 - Primární vynálezy skončily v 60. letech, od té doby převažují drobná vylepšení.
 - Moorův zákon narazil na limity, inkrementální vývoj přestává stačit.

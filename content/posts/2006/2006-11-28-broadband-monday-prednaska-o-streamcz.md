@@ -4,7 +4,6 @@ slug: 'broadband-monday-prednaska-o-streamcz'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Video z Broadband Monday obsahuje přednášku o videu na internetu a Stream.cz.
 - Video má velikost přibližně 86MB a nahrává se postupně.

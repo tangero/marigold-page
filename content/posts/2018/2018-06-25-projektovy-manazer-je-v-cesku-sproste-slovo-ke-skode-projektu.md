@@ -6,7 +6,6 @@ excerpt: Projektový manažer je v Česku sprosté slovo. Většinou je to týpe
   funkci dostane formálně, například u software projektů je to jeden z vývojářů nebo
   majitel firmy.
 featured: true
-published: true
 summary_points:
 - Projektový manažer zajišťuje přechod od prototypu k prodejnímu produktu.
 - Projektový manažer musí zvládat napětí mezi vlastníkem projektu a týmem.

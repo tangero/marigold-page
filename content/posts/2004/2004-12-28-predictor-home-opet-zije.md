@@ -4,7 +4,6 @@ slug: 'predictor-home-opet-zije'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - Predictor@Home projekt obnovil distribuované výpočty pro předpovídání struktury
   proteinů.

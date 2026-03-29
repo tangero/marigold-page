@@ -14,7 +14,7 @@ source:
   id: null
   name: BGR
 title: Čínské domácí roboty jsou mnohem víc než jen vysavače
-url: https://www.bgr.com/2106001/china-household-robots-more-than-vacuums/
+source_url: https://www.bgr.com/2106001/china-household-robots-more-than-vacuums/
 urlToImage: https://www.bgr.com/img/gallery/chinas-household-robots-are-way-more-than-just-vacuum-cleaners/l-intro-1771604707.jpg
 urlToImageBackup: https://www.bgr.com/img/gallery/chinas-household-robots-are-way-more-than-just-vacuum-cleaners/l-intro-1771604707.jpg
 ---

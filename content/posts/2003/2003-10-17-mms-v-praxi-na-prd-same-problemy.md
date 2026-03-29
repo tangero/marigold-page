@@ -4,7 +4,6 @@ slug: 'mms-v-praxi-na-prd-same-problemy'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Nokia plánuje rozšířit telefony s fotoaparátem pro podporu MMS služeb a zvýšení
   prodeje.

@@ -4,7 +4,6 @@ slug: 'pedro-pick-znovu-u-telekomackeho-lizu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Pedro Pick vybrán Českým Telecomem jako poradce bez výběrového řízení za miliony
   dolarů.

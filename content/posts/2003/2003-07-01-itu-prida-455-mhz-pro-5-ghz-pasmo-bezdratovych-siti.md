@@ -4,7 +4,6 @@ slug: 'itu-prida-455-mhz-pro-5-ghz-pasmo-bezdratovych-siti'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WRC-03 zasedání ITU dosáhlo dohody o harmonizaci 5 GHz frekvencí.
 - ITU přidělí 455 MHz v 5 GHz pásmu pro bezdrátové sítě.

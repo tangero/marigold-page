@@ -4,7 +4,6 @@ slug: 'mesoidni-kostka-meshcube-je-open-source'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Meshcube je open source (GPL) mešoidní kostka s novým webem meshcube.org.
 - Zdrojové kódy Meshcube jsou dostupné v CVS repository pro vlastní výrobu.

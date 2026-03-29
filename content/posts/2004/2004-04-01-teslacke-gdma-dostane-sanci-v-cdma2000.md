@@ -4,7 +4,6 @@ slug: 'teslacke-gdma-dostane-sanci-v-cdma2000'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - GDMA, česká technologie Tesly Pardubice, je uvažována pro vysokorychlostní CDMA2000.
 - GDMA využívá hraniční kódy (guarding codes) pro oddělení a autorizaci stanic.

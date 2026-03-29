@@ -4,7 +4,6 @@ slug: 'jaroslav-dusek-do-dvou-let-bude-mozno-mobilem-telefonovat-pouze-z-budky'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Duškova hra Čtyři dohody je spíše kázání v kontaktu s publikem.
 - Mobily mohou být regulovány jako drogy kvůli rušení a zneužívání.

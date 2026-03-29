@@ -2,7 +2,6 @@
 slug: 's-turrisem-na-cebit'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - Autor se chystá na CeBIT, kde bude poprvé vystavovat. Jeho routery Turris budou
   umístěny v hale 12. Cestuje vlakem z Prahy do Hannoveru za 6,5 hodiny. Musí se připravit

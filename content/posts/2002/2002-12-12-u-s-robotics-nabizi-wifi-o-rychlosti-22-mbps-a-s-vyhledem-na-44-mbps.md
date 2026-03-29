@@ -4,7 +4,6 @@ slug: 'u-s-robotics-nabizi-wifi-o-rychlosti-22-mbps-a-s-vyhledem-na-44-mbps'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - U.S. Robotics nabízí WiFi produkty s rychlostí 22 Mbps, srovnatelné s D-Link.
 - USR plánuje softwarový update pro proprietární rychlost 44 Mbps počátkem příštího

@@ -4,7 +4,6 @@ slug: 'peterka-opet-na-stope-indose'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Jirka Peterka obnovil Indiánský projekt, jehož kompletní diskografie je dostupná
   v archívu JP.

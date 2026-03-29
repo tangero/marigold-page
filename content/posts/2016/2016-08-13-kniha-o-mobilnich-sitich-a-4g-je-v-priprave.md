@@ -4,7 +4,6 @@ slug: 'kniha-o-mobilnich-sitich-a-4g-je-v-priprave'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor se vrátil k psaní knihy o mobilních sítích po ztrátě váhy pod 87 kg.
 - Kniha byla příliš technická a autor ji zkrátil o polovinu kvůli zastaralým informacím.

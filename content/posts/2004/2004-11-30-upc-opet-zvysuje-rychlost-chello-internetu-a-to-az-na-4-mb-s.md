@@ -4,7 +4,6 @@ slug: 'upc-opet-zvysuje-rychlost-chello-internetu-a-to-az-na-4-mb-s'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - UPC od 1. prosince zdvojnásobuje odchozí rychlost Chello Classic a Plus.
 - Chello Classic nově nabídne 2048/256 kbit/s, Chello Plus 4096/512 kbit/s.

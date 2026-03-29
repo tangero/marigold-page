@@ -4,7 +4,6 @@ slug: 'ebay-koupi-skype-za-4-1-mld-usd'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - eBay kupuje Skype za 4,1 miliardy USD, což autor považuje za vysokou cenu.
 - OpenWengo je doporučen jako open-source VoIP program s podporou SIP a videa.

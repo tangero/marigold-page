@@ -4,7 +4,6 @@ slug: 'nokia-party-prodavali-jsme-eurotel'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Nokia Party je vždy vrchol mezi firemními akcemi, bývá narvaná a plná známých tváří.
 - Světla nad stanem Nokia Party připomínala protiletadlovou baterii střežící před

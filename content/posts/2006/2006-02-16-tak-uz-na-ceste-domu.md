@@ -4,7 +4,6 @@ slug: 'tak-uz-na-ceste-domu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Petr clí hodinky, jejichž proclení komplikuje neznámý materiál řemínku.
 - GSM kongres v Barceloně byl větší než loni, ale s drahým ubytováním.

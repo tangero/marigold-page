@@ -6,7 +6,6 @@ categories:
 - Česko
 - Město
 content_hash: 7a430e04016c59da2c6a119d7c29c19e
-lang: en
 original_lang: cs
 permalink: /en/item/stavba-vlaku-do-brandysa/
 thumbnail: https://www.marigold.cz/assets/taky-mame-mobil-na-hriba.jpg

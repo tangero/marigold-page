@@ -4,7 +4,6 @@ slug: 'autotrackback-dalsi-vychytavka'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - TrackBack je málo používaná funkce na českých webech.
 - Autor vytvořil AutoTrackBack, jednodušší automatický systém logování odkazů.

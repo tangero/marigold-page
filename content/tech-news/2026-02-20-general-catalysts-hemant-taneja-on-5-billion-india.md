@@ -19,7 +19,7 @@ source:
   name: The Times of India
 title: Hemant Taneja z General Catalyst o investici 5 miliard dolarů do Indie a posunu
   za rizikový kapitál k vytváření firem v éře AI
-url: https://economictimes.indiatimes.com/tech/technology/general-catalysts-hemant-taneja-on-5-billion-india-bet-and-its-shift-beyond-venture-capital-to-company-creation-in-the-ai-age/articleshow/128589856.cms
+source_url: https://economictimes.indiatimes.com/tech/technology/general-catalysts-hemant-taneja-on-5-billion-india-bet-and-its-shift-beyond-venture-capital-to-company-creation-in-the-ai-age/articleshow/128589856.cms
 urlToImage: https://img.etimg.com/thumb/width-1200,height-900,imgsize-67048,resizemode-75,msid-128589856/tech/technology/general-catalysts-hemant-taneja-on-5-billion-india-bet-and-its-shift-beyond-venture-capital-to-company-creation-in-the-ai-age.jpg
 urlToImageBackup: https://img.etimg.com/thumb/width-1200,height-900,imgsize-67048,resizemode-75,msid-128589856/tech/technology/general-catalysts-hemant-taneja-on-5-billion-india-bet-and-its-shift-beyond-venture-capital-to-company-creation-in-the-ai-age.jpg
 ---

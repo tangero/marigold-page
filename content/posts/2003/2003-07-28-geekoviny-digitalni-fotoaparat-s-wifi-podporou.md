@@ -4,7 +4,6 @@ slug: 'geekoviny-digitalni-fotoaparat-s-wifi-podporou'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - FujiFilm vyvinul digitální fotoaparát s WiFi podporou standardu 802.11b.
 - Fotoaparát má rozlišení 3 megapixely a byl představen na Wireless Japan 2003.

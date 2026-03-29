@@ -4,7 +4,6 @@ slug: 'zprovoznil-jsem-marigoldi-fotogalerii'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Coppermine Photo Gallery spuštěna na Marigold.cz na adrese www.marigold.cz/foto.
 - Mobil párty 1998 fotografie jsou v galerii, kvalita odpovídá tehdejší technice.

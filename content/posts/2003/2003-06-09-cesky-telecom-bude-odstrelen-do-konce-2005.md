@@ -4,7 +4,6 @@ slug: 'cesky-telecom-bude-odstrelen-do-konce-2005'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Český Telecom by měl být prodán do konce roku 2005 dle Mlynáře.
 - Gabriel Berdár se stane generálním ředitelem Českého Telecomu 13. června 2003.

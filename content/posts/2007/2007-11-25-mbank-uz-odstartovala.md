@@ -4,7 +4,6 @@ slug: 'mbank-uz-odstartovala'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - mBank spustila nabídku bankovních služeb pro fyzické osoby v České republice.
 - Účet u mBank je veden zdarma a ovládaný přes internet.

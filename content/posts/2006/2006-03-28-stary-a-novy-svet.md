@@ -4,7 +4,6 @@ slug: 'stary-a-novy-svet'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Telekomunikace se dělí na "Starý" a "Nový" svět s odlišnými obchodními pravidly.
 - Starý svět preferuje úplatky a známosti, Nový svět americký obchodní přístup.

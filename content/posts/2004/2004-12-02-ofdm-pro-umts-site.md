@@ -4,7 +4,6 @@ slug: 'ofdm-pro-umts-site'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - OFDM získává popularitu v telekomunikacích a proniká i do UMTS sítí.
 - OFDM bylo hlavním tématem workshopu 3GPP TSG RAN v Torontu.

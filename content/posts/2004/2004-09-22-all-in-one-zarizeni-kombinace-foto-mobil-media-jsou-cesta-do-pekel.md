@@ -4,7 +4,6 @@ slug: 'all-in-one-zarizeni-kombinace-foto-mobil-media-jsou-cesta-do-pekel'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - All-in-one zařízení jsou obchodně úspěšná jen při rozšíření stávající funkčnosti.
 - Ovládání all-in-one zařízení je kompromisní a složité pro běžné uživatele.

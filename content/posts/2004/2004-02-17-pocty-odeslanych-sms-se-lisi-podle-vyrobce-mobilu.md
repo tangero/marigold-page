@@ -4,7 +4,6 @@ slug: 'pocty-odeslanych-sms-se-lisi-podle-vyrobce-mobilu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Samsung uživatelé SMS posílají nejvíce, 60% z nich denně alespoň jednu.
 - Nokia uživatelé posílají SMS méně, 55% z nich denně alespoň jednu.

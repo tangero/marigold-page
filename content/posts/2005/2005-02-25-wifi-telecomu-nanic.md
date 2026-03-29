@@ -4,7 +4,6 @@ slug: 'wifi-telecomu-nanic'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - KFC Kulaťák nabízí WiFi hotspot, ale neprodává potřebné kupóny.
 - Telecom hotspot vyžaduje kupón, který v KFC nelze zakoupit.

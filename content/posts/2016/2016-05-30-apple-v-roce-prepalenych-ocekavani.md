@@ -4,7 +4,6 @@ slug: 'apple-v-roce-prepalenych-ocekavani'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Apple je úspěšná firma, ale čelí tlaku kvůli obrovským finančním rezervám.
 - Očekávání od nových produktů se zvyšuje, ale technologické inovace jsou obtížné.

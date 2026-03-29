@@ -4,7 +4,6 @@ slug: 'strednedoba-strategie-cz-nic'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - CZ.NIC zveřejnil střednědobou strategii pro roky 2005-2009 na svém webu.
 - Strategie CZ.NIC informuje veřejnost o plánech správce domény .cz.

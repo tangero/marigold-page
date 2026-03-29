@@ -23,7 +23,7 @@ source:
   name: Freerepublic.com
 title: 'Pentagon dal Anthropic ultimátum: Odstraňte bezpečnostní mechanismy AI nebo
   ztratíte vojenské zakázky'
-url: https://freerepublic.com/focus/f-news/4368049/posts
+source_url: https://freerepublic.com/focus/f-news/4368049/posts
 ---
 
 ### Souhrn

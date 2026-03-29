@@ -4,7 +4,6 @@ slug: 'par-poznamek-k-tendru-o-ctvrtou-mobilni-licenci'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - PPF odstoupila z tendru kvůli podmínce zákazu fúze na 15 let.
 - Tomáš Budník koupil PPF Mobile, přejmenoval na Revolution Mobile a pokračuje v tendru.

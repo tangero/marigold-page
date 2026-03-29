@@ -4,7 +4,6 @@ slug: 'fascinace-blogovanim'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - Donald Trump bloguje, což oznámila Lupa.cz krátkou zprávou.
 - Lupa.cz označila sebe sama za největší český meta-blog.

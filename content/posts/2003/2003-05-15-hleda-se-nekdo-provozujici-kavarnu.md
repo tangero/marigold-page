@@ -4,7 +4,6 @@ slug: 'hleda-se-nekdo-provozujici-kavarnu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Kavárník hledá referenci pro pronajímatele kvůli otevření nové kavárny.
 - Pronajímatel, zahraniční firma, vyžaduje prokázání zkušeností s provozem kavárny.

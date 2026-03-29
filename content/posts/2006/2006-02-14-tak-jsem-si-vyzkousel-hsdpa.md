@@ -4,7 +4,6 @@ slug: 'tak-jsem-si-vyzkousel-hsdpa'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Notebook IBM s HSDPA kartou Globe Trotter byl použit na výstavišti.
 - Download HSDPA dosáhl 1107 kb/s, upload 113 kb/s přes speedtest.cz.

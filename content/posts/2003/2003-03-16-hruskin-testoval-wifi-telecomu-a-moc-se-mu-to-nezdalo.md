@@ -4,7 +4,6 @@ slug: 'hruskin-testoval-wifi-telecomu-a-moc-se-mu-to-nezdalo'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Hruškin testoval WiFi hotspoty Telecomu u Shellu v Praze 9 bez úspěchu.
 - Obsluha Shell pumpy o WiFi hotspotu nic nevěděla.

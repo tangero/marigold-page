@@ -4,7 +4,6 @@ slug: 'ntt-docomo-testuje-sit-4g'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - NTT DoCoMo testuje mobilní síť 4G, a to od roku 1998.
 - G od DoCoMo dosahuje rychlosti 100 Mbps download a 20 Mbps upload.

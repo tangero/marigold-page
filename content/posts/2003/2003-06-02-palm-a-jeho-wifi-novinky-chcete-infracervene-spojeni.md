@@ -4,7 +4,6 @@ slug: 'palm-a-jeho-wifi-novinky-chcete-infracervene-spojeni'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Tungsten C bude podporovat VoIP telefonování skrze WiFi připojení.
 - WiFi SD karta pro Palm Tungsten T bude dostupná až na podzim.

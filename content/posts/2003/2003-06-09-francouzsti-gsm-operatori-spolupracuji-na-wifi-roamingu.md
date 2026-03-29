@@ -4,7 +4,6 @@ slug: 'francouzsti-gsm-operatori-spolupracuji-na-wifi-roamingu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Francouzští operátoři Orange, SFR a Bouygues Telecom umožní roaming mezi svými WiFi
   hotspoty.

@@ -7,7 +7,6 @@ categories:
 - Příběhy
 
   '
-published: true
 summary_points:
 - Petr Koubský žádal vrátného PVT o reset serveru Mobil server.
 - Vrátný omylem resetoval řídící server RadioMobilu místo serveru Mobil server.

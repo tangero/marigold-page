@@ -4,7 +4,6 @@ slug: 'maly-test-jak-znate-tarify-jaky-kredit-ma-home-mini'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Tele2 zažalovalo Český Telecom kvůli srovnávacím letákům tarifů.
 - Telecom v letácích srovnával svůj tarif s voláním přes Tele2.

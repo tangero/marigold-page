@@ -4,7 +4,6 @@ slug: 'upc-zaclo-odstrihovat-zakazniky-kteri-nepodepsali-novou-smlouvu-dost-bylo
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - UPC začalo 1.4. odpojovat Chello zákazníky bez nové smlouvy podepsané v loňském
   roce.

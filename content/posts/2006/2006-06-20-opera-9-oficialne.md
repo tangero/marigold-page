@@ -4,7 +4,6 @@ slug: 'opera-9-oficialne'
 author: Noname
 
   '
-published: true
 summary_points:
 - Opera 9 ostrá verze je venku s mnoha novinkami.
 - CSS podpora je v Opeře 9 nejlepší mezi prohlížeči.

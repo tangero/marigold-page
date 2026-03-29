@@ -4,7 +4,6 @@ slug: 'kniha-na-dlouhe-chvile-hadanky-nasi-minulosti'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Kniha Hádanky naší minulosti je mylně řazena k záhadologické literatuře.
 - Jiří Bílek v Hádankách metodicky probírá sporné body české historie.

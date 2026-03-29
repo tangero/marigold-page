@@ -4,7 +4,6 @@ slug: 'gts-pokryje-brnenske-vystaviste-wifi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Veletrhy Brno podepsaly smlouvu s GTS o propojení výstaviště.
 - WiFi 2,4 GHz pokryje otevřené plochy brněnského výstaviště.

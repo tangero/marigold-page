@@ -4,7 +4,6 @@ slug: 'pr-zmeny-v-telecomu-a-oskaru'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Vladan Crha, bývalý mluvčí Českého Telecomu, nastoupil do PR týmu Oskara.
 - Karel Taschner v Českém Telecomu nově řídí komunikační projekty.

@@ -4,7 +4,6 @@ slug: 'softphone-dalsi-ceska-voip-telefonie'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - SoftPHONE je český VoIP poskytovatel s aktivačním poplatkem 630 Kč.
 - Měsíční poplatek SoftPHONE je 105 Kč a zahrnuje 10 minut zdarma.

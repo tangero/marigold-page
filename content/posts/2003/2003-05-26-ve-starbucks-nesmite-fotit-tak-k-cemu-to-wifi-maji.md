@@ -4,7 +4,6 @@ slug: 've-starbucks-nesmite-fotit-tak-k-cemu-to-wifi-maji'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Starbucks zakazuje focení v kavárnách, odůvodňují to "Starbucks copyright prostředí".
 - Zákaz focení v kavárnách s WiFi sítí je podle autora článku stupidní.

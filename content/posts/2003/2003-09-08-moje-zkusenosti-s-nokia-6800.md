@@ -4,7 +4,6 @@ slug: 'moje-zkusenosti-s-nokia-6800'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Nokia 6800 má dobře použitelnou rozkládací klávesnici pro psaní SMS a MMS.
 - Emailový klient v Nokia 6800 je velmi nespolehlivý a často padá.

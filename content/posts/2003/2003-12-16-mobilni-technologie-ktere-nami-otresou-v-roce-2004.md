@@ -4,7 +4,6 @@ slug: 'mobilni-technologie-ktere-nami-otresou-v-roce-2004'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor se zamýšlel nad technologiemi, které budou hýbat českým trhem.
 - Seznam technologií vychází z autorova osobního pohledu a preferencí.

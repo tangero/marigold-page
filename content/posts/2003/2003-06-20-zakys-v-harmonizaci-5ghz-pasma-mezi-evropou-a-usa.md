@@ -4,7 +4,6 @@ slug: 'zakys-v-harmonizaci-5ghz-pasma-mezi-evropou-a-usa'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WRC03 konference řeší harmonizaci kmitočtového spektra, zejména spor USA a Evropy.
 - Evropa chce omezit pásmo 5,25-5,35 GHz pro 802.11a pouze pro vnitřní použití.

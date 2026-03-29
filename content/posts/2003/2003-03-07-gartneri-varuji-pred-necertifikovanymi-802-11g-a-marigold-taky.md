@@ -4,7 +4,6 @@ slug: 'gartneri-varuji-pred-necertifikovanymi-802-11g-a-marigold-taky'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - g produkty nekupovat, dokud výrobce nezaručuje upgrade na standardizovaný firmware.
 - Gartner varuje, že 802.11g výrobky nemusí být vzájemně kompatibilní.

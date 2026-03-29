@@ -4,7 +4,6 @@ slug: 'teoreticke-zaklady-standardu-ieee802-11-pro-vasi-orientaci'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WiFi standard IEEE802.11 definuje bezdrátové sítě v nelicencovaném pásmu 2,4 GHz.
 - WLAN (Wireless Local Area Network) je obecné označení pro jakoukoliv bezdrátovou

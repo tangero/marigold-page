@@ -4,7 +4,6 @@ slug: 'mesh-site-p2p-architektura-v-bezdratovych-sitich'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Mesh sítě jsou P2P sítě aplikované do bezdrátového světa, kde si zařízení jsou rovna.
 - Mobilní síť je příklad, kde mesh adaptéry předávají signál mezi sebou.

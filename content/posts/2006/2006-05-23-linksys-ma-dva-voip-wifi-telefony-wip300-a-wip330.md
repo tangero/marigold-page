@@ -4,7 +4,6 @@ slug: 'linksys-ma-dva-voip-wifi-telefony-wip300-a-wip330'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Linksys uvádí WiFi VoIP telefony WIP300 a WIP330, podporující SIP a VoWLAN.
 - WIP330 nabízí 2,2" LCD, webový prohlížeč pro hotspoty a 802.1x autentizaci.

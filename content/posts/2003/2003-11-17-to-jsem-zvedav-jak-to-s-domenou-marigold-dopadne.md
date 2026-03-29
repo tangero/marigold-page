@@ -4,7 +4,6 @@ slug: 'to-jsem-zvedav-jak-to-s-domenou-marigold-dopadne'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Marigold.cz doména existuje od roku 1999, původně pro básničky, později pro weblog.
 - Autorovi hrozí ztráta domény Marigold.cz kvůli LRR a nejasným platbám.

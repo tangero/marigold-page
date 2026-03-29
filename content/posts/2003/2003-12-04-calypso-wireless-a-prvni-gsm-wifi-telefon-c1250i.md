@@ -4,7 +4,6 @@ slug: 'calypso-wireless-a-prvni-gsm-wifi-telefon-c1250i'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Calypso Wireless představil telefon kombinující triband GSM a WiFi 802.11b.
 - ASNAP technologie Calypso umožňuje plynulé přepínání mezi GSM/GPRS a WiFi sítěmi.

@@ -6,7 +6,6 @@ categories:
 - Příběhy
 
   '
-published: true
 summary_points:
 - Magazíny dříve opomíjely moudrost předků, nyní se o ni lidé zajímají.
 - Autor vzpomíná na dědovo umění ručního kosení trávy a soběstačnost.

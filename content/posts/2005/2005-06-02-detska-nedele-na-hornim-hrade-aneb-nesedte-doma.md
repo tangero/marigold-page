@@ -4,7 +4,6 @@ slug: 'detska-nedele-na-hornim-hrade-aneb-nesedte-doma'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Horní hrad pořádá dětský den 5. června od deseti do sedmnácti hodin.
 - Středověký program pro děti připravilo šermířské sdružení Savioli.

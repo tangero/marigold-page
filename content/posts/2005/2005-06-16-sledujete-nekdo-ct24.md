@@ -4,7 +4,6 @@ slug: 'sledujete-nekdo-ct24'
 author: Noname
 
   '
-published: true
 summary_points:
 - ČT24 neodvysílala na webu Ekonomika diskuzi Noname o číslech 976.
 - Noname diskutoval s moderátorkou ČT24 o volání na čísla 976.

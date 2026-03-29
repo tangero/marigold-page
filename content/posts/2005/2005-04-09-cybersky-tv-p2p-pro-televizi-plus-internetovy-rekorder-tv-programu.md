@@ -4,7 +4,6 @@ slug: 'cybersky-tv-p2p-pro-televizi-plus-internetovy-rekorder-tv-programu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Cybersky-TV je P2P program pro šíření televizního vysílání s tunerem.
 - OnlineTVrecorder.com nabízí online nahrávání TV pořadů s úložným prostorem.

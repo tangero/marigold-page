@@ -8,7 +8,6 @@ categories:
 - Čína
 
   '
-published: true
 summary_points:
 - Práce se stěhuje za levnější výrobou, včetně specializovaných a intelektuálních
   činností.

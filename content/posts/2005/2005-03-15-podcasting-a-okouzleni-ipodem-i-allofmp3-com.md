@@ -4,7 +4,6 @@ slug: 'podcasting-a-okouzleni-ipodem-i-allofmp3-com'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Lupa článek pojednává o podcastingu a jeho výhodách s iPodem.
 - iPod s velkou kapacitou umožňuje mít oblíbenou hudbu neustále s sebou.

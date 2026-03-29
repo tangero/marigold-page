@@ -4,7 +4,6 @@ slug: 'setreni-pokracuje-prechazim-na-bionaftu-a-co-z-toho-poslo'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Úspory se autor zaměřil na provoz vozidla, i když jezdit bez něj by bylo levnější.
 - Bionafta byla zvažována pro úsporu, ale ukázalo se, že je dražší kvůli DPH.

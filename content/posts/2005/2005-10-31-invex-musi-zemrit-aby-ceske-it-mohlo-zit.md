@@ -4,7 +4,6 @@ slug: 'invex-musi-zemrit-aby-ceske-it-mohlo-zit'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Invex 2005 byl pro autora zklamáním, srovnatelným s pohromou.
 - VoIP Expo a IDF byly jediné světlé momenty veletrhu Invex.

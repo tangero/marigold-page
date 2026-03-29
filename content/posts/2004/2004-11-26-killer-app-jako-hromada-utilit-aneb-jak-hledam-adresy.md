@@ -4,7 +4,6 @@ slug: 'killer-app-jako-hromada-utilit-aneb-jak-hledam-adresy'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor nahrazuje programy a utility internetem, což zvažuje při reinstalaci systému.
 - Adresy pro svatební pozvánky autor zjišťoval online, hlavně přes Justice.cz.

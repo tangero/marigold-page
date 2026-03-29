@@ -4,7 +4,6 @@ slug: 'adresa-nedostatecna'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Dopis se vrátil odesílateli s poznámkou "Adresa nedostatečná".
 - Adresa na dopise se odesílateli zdála v pořádku.

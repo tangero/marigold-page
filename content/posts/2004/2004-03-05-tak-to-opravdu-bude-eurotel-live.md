@@ -4,7 +4,6 @@ slug: 'tak-to-opravdu-bude-eurotel-live'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Eurotel buduje portál pro mobilní služby s názvem Eurotel Live!.
 - Eurotel si registroval doménu eurotellive.cz a ochrannou známku Live!.

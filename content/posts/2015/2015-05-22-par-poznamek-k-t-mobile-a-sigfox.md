@@ -4,7 +4,6 @@ slug: 'par-poznamek-k-t-mobile-a-sigfox'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - T-Mobile a ČRa spouští sítě pro Internet věcí na technologiích SigFox a LoRa.
 - Obě technologie využívají bezlicenční ISM pásmo 868 MHz s nízkou spotřebou energie.

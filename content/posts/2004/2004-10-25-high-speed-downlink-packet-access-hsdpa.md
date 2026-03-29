@@ -8,7 +8,6 @@ categories:
 - Turboúvod do mobilních sítí
 
   '
-published: true
 summary_points:
 - HSDPA (Release 5) zavádí rychlejší datové přenosy v UMTS sítích, očekávané kolem
   roku 2006.

@@ -4,7 +4,6 @@ slug: 'instant-messaging-pro-wifi-site-zyxel-jde-do-wifi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Trepia je instant messagingový program s lokalizací ve WiFi síti.
 - ZyXEL uvádí řadu ZyAIR WiFi produktů, včetně access pointu a routeru.

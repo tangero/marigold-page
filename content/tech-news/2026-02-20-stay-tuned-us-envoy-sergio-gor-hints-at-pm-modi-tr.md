@@ -17,7 +17,7 @@ source:
   name: The Times of India
 title: '''Zůstaňte naladěni'': Americký envoy Sergio Gor naznačuje setkání Modího
   s Trumpem'
-url: https://economictimes.indiatimes.com/news/india/stay-tuned-us-envoy-sergio-gor-hints-at-pm-modi-trump-meeting/articleshow/128594993.cms
+source_url: https://economictimes.indiatimes.com/news/india/stay-tuned-us-envoy-sergio-gor-hints-at-pm-modi-trump-meeting/articleshow/128594993.cms
 urlToImage: https://img.etimg.com/thumb/msid-128595200,width-1200,height-630,imgsize-36278,overlay-economictimes/articleshow.jpg
 urlToImageBackup: https://img.etimg.com/thumb/msid-128595200,width-1200,height-630,imgsize-36278,overlay-economictimes/articleshow.jpg
 ---

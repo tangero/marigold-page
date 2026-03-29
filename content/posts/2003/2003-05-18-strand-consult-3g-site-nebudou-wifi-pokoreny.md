@@ -4,7 +4,6 @@ slug: 'strand-consult-3g-site-nebudou-wifi-pokoreny'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Strand Consulting obhajuje 3G sítě oproti Wi-Fi, vidí v nich dlouhodobého vítěze.
 - WiFi roaming je minimální, ale vyvíjí se software pro roaming mezi WiFi provozovateli.

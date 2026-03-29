@@ -4,7 +4,6 @@ slug: 'telecom-znovu-prodluzuje-provoz-wifi-zdarma'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Telecom posunul ukončení testovacího WiFi provozu na 31.3.2004, ale termín je nejistý.
 - Telecom provozuje velkou síť hotspotů na lukrativních místech, ale registrace má

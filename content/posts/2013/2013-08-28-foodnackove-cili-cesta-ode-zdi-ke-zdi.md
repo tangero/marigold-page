@@ -4,7 +4,6 @@ slug: 'foodnackove-cili-cesta-ode-zdi-ke-zdi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Foodnáckovství je intelektuální forma rasismu projevující se v netoleranci stravovacích
   návyků.

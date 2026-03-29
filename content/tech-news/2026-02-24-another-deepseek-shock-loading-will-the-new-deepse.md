@@ -21,7 +21,7 @@ source:
   name: The Times of India
 title: 'Další šok od DeepSeek: Vyvolá nový model AI DeepSeek krach technologických
   akcií na Nasdaq v době zrychující se čínské závody v AI?'
-url: https://economictimes.indiatimes.com/news/international/us/another-deepseek-shock-loading-will-the-new-deepseek-ai-model-trigger-a-nasdaq-tech-stock-crash-as-chinas-ai-race-heats-up/articleshow/128751020.cms
+source_url: https://economictimes.indiatimes.com/news/international/us/another-deepseek-shock-loading-will-the-new-deepseek-ai-model-trigger-a-nasdaq-tech-stock-crash-as-chinas-ai-race-heats-up/articleshow/128751020.cms
 urlToImage: https://img.etimg.com/thumb/msid-128751007,width-1200,height-630,imgsize-32382,overlay-economictimes/articleshow.jpg
 urlToImageBackup: https://img.etimg.com/thumb/msid-128751007,width-1200,height-630,imgsize-32382,overlay-economictimes/articleshow.jpg
 ---

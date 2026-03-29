@@ -6,7 +6,6 @@ categories:
 - Roboti
 
   '
-published: true
 summary_points:
 - CleanMate naráží do překážek v plné rychlosti, Roomba zpomaluje.
 - Roomba kopíruje zdi a lépe vysává prach podél nich.

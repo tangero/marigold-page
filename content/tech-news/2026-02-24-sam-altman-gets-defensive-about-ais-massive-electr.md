@@ -18,7 +18,7 @@ source:
   name: Fortune
 title: 'Sam Altman se brání vysoké spotřebě elektřiny AI: „K vycvičení člověka je
   také potřeba hodně energie“'
-url: https://fortune.com/2026/02/24/sam-altman-open-ai-electricity-usage-water-usage-data-centers-ceo-tech/
+source_url: https://fortune.com/2026/02/24/sam-altman-open-ai-electricity-usage-water-usage-data-centers-ceo-tech/
 urlToImage: https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2261852386_feedad-e1771885224525.jpg?resize=1200,600
 urlToImageBackup: https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2261852386_feedad-e1771885224525.jpg?resize=1200,600
 ---

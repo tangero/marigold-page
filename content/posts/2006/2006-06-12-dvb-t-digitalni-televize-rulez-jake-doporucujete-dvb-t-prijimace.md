@@ -4,7 +4,6 @@ slug: 'dvb-t-digitalni-televize-rulez-jake-doporucujete-dvb-t-prijimace'
 author: Noname
 
   '
-published: true
 summary_points:
 - DVB-T signál přináší křišťálově čistý obraz a více programů i v oblastech se slabším
   analogovým signálem.

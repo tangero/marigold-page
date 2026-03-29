@@ -4,7 +4,6 @@ slug: 't-mobile-predehnal-eurotel-v-poctu-zakazniku'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Eurotel přepočítal aktivní zákazníky prepaid služeb dle doporučení GSM Asociace.
 - Eurotelu ubylo 244 tisíc zákazníků, celkem jich má přes 4,4 milionu.

@@ -4,7 +4,6 @@ slug: 'harry-potter-u-nas-slovensky'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Harry Potter pátý díl je dostupný v slovenském vydání od Ikara.
 - Albatros nezvládl české vydání na Vánoce, slovenské je alternativa.

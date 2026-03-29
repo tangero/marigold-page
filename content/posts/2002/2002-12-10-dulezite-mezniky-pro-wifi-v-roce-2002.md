@@ -4,7 +4,6 @@ slug: 'dulezite-mezniky-pro-wifi-v-roce-2002'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - přinesl první vážné bezpečnostní problémy WiFi sítí, například zákaz v laboratoři.
 - WiFi aliance standardizovala WiFi Protected Access v říjnu 2002 jako reakci na prolomení

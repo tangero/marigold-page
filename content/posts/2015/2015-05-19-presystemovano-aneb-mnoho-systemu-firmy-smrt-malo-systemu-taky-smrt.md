@@ -4,7 +4,6 @@ slug: 'presystemovano-aneb-mnoho-systemu-firmy-smrt-malo-systemu-taky-smrt'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Energomonitor řeší integraci vnitrofiremních systémů, dříve sdíleli soubory přes
   Dropbox a Google Apps.

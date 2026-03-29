@@ -4,7 +4,6 @@ slug: 'mobildrobky-nove-mobily-odkazy-na-recenze-atd'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Sony Ericsson T630 návod na data a první zkušenosti na PowerPage.
 - TechWorthy porovnává Motorola MPx200 a Samsung SCH-i600 mobily.

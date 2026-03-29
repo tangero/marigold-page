@@ -4,7 +4,6 @@ slug: 'turbouvod-do-umts-pokracuje-kapacitnim-kouzlenim-s-cdma'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - 'UMTS a CDMA sítě: Článek se zabývá teoretickou kapacitou těchto sítí.'
 - 'CDMA sítě: Text vysvětluje důvody upřednostnění CDMA oproti TDMA a FDMA.'

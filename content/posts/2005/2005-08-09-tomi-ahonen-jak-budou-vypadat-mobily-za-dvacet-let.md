@@ -4,7 +4,6 @@ slug: 'tomi-ahonen-jak-budou-vypadat-mobily-za-dvacet-let'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - ': Mainstreamové mobily 3,5G, 5MP fotoaparáty, TV tuner, mobilní platby běžné.'
 - ': 4G telefony s 50x zoomem, překladačem jazyků, nahráváním okolí, mKey.'

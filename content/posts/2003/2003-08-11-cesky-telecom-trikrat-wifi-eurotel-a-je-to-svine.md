@@ -4,7 +4,6 @@ slug: 'cesky-telecom-trikrat-wifi-eurotel-a-je-to-svine'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WiFi uživatelé Českého Telecomu vzrostli o polovinu na 1400 v červenci.
 - Antimonopolní úřad povolil Českému Telecomu vlastnit Eurotel.

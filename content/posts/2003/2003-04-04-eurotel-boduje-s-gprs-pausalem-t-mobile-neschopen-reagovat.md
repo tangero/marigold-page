@@ -4,7 +4,6 @@ slug: 'eurotel-boduje-s-gprs-pausalem-t-mobile-neschopen-reagovat'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Eurotel dohnal T-Mobile v GPRS roamingu a dokonce jej i předčil.
 - Eurotel zavedl datový paušál pro GPRS, což bylo unikátní.

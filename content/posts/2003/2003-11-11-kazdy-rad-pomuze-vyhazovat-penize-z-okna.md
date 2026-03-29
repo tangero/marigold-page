@@ -4,7 +4,6 @@ slug: 'kazdy-rad-pomuze-vyhazovat-penize-z-okna'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - T-Mobile autorovi opakovaně nabízel prodloužení smlouvy a levnější telefon.
 - Autor se rozhodl zrušit smlouvu s T-Mobile a převést SIM kartu na Twist.

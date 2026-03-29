@@ -4,7 +4,6 @@ slug: 'je-wifi-hype-over'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor o WiFi v poslední době nepíše, protože se v ní nic nového neděje.
 - Uvolnění 5 GHz pásma brzdí ČTÚ, což autora unavuje neustále opakovat.

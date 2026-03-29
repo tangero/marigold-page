@@ -4,7 +4,6 @@ slug: 'reklama-na-titulce-seznamu-a-anketni-otazka-o-zapnuty-zvuk-na-homepage'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Reklama projektu běží offline (metro) i online (Seznam, Lidé).
 - Seznam a Lidé.cz využívají titulní stránky pro online reklamu projektu.

@@ -4,7 +4,6 @@ slug: 'anketka-mobil-cz-nebo-mobilmania'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - MobilMania vyhrála anketu o nejlepší mobilní server s 37 % hlasů.
 - Mobil.cz dotahoval MobilManii, ale hlasy přicházely z IP adresy Mafry.

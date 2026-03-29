@@ -4,7 +4,6 @@ slug: 'spor-o-letaky-ceskeho-telecomu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Telecom srovnává své služby s Tele2, vychází levněji díky modelovanému chování uživatele.
 - Telefon 120 nabízí hodinu volání zdarma ve špičce i mimo špičku za 400 Kč.

@@ -4,7 +4,6 @@ slug: 'u-s-robotics-na-nasem-trhu-nejaka-ta-novinka'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - U.S. Robotics aktivněji prodává WiFi produkty v ČR skrze AutoCont.
 - USR produkty podporují 22 Mbps s možností upgradu na 54 Mbps.

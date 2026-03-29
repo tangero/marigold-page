@@ -4,7 +4,6 @@ slug: 'bbc-a-jeji-internetove-mobilni-televize-imp'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - BBC představila iMP v Cannes, službu pro přehrávání pořadů z mobilu a internetu.
 - iMP umožňuje sledovat pořady BBC až sedm dní zpětně.

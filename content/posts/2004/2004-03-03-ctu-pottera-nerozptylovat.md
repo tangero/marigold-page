@@ -4,7 +4,6 @@ slug: 'ctu-pottera-nerozptylovat'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Harry Potter pátý díl zakoupen v Carrefouru Stodůlky, i přes vyšší cenu.
 - Čtenář preferuje český překlad, ignoruje pirátské verze, angličtinu a slovenštinu.

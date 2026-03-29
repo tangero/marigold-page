@@ -6,7 +6,6 @@ categories:
 - Příběhy
 
   '
-published: true
 summary_points:
 - Výlet na Malou Fatru po 20 letech vyvolává vzpomínky na staré časy.
 - Autor si uvědomuje, že s dětmi se cestování změnilo a zkomplikovalo.

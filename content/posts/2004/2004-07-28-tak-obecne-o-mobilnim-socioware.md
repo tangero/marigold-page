@@ -4,7 +4,6 @@ slug: 'tak-obecne-o-mobilnim-socioware'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Socioware propojuje lidi, mobilní socioware to dělá mobilně s proměnlivým úspěchem.
 - Orkut ovládli Brazilci, Friendster Američané, regionální specifika platí i u globálních

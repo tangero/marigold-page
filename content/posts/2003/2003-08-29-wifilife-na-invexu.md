@@ -4,7 +4,6 @@ slug: 'wifilife-na-invexu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Invex bude mít specializovaný WiFi pavilon s přednáškami a expozicemi.
 - Intel sponzoruje WiFi pavilon pod vlajkou Centrino, k dispozici budou IBM notebooky.

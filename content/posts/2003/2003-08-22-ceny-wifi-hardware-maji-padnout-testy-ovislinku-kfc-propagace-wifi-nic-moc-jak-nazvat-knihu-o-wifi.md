@@ -4,7 +4,6 @@ slug: 'ceny-wifi-hardware-maji-padnout-testy-ovislinku-kfc-propagace-wifi-nic-mo
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WiFi hardware ceny mají padnout na polovinu, reálně spíše o deset-patnáct procent.
 - Mobil.cz testoval WiFi router a USB adaptér značky OvisLink, levné a dobré.

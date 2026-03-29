@@ -4,7 +4,6 @@ slug: 'google-docs-maji-i-mobilni-verzi-read-only'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Google Docs má mobilní verzi na docs.google.com/m pro prohlížení dokumentů.
 - Mobilní Google Docs neumožňují editaci ani přidávání nových dokumentů.

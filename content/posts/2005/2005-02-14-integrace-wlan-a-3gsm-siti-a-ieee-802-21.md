@@ -4,7 +4,6 @@ slug: 'integrace-wlan-a-3gsm-siti-a-ieee-802-21'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - IEEE 802.21 standardizuje handover mezi WLAN, WiMax a 3GSM technologiemi.
 - WLAN vyniká rychlostí a cenou, ale postrádá pokrytí a rychlý handover.

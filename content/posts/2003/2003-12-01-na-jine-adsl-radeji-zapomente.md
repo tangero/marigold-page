@@ -4,7 +4,6 @@ slug: 'na-jine-adsl-radeji-zapomente'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - ČTÚ studie o cenách ADSL budí rozpaky kvůli metodologickým chybám.
 - Sova kritizuje studii ČTÚ za míchání limitovaných a nelimitovaných variant ADSL.

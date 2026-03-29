@@ -4,7 +4,6 @@ slug: 'na-mff-v-karlovych-varech-lze-vyuzit-zdarma-wifi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WiFi zdarma KVIFFOPEN funguje u Thermalu v Karlových Varech během filmového festivalu.
 - Připojení KVIFFOPEN nabízí rychlost 256 Kb/s.

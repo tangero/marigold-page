@@ -21,7 +21,7 @@ source:
   id: the-times-of-india
   name: The Times of India
 title: Pokroky Anthropic v AI pro COBOL otevírají nové příležitosti IT firmám
-url: https://economictimes.indiatimes.com/tech/information-tech/anthropic-ais-cobol-code-advances-unlock-new-doors-for-it-companies/articleshow/128762313.cms
+source_url: https://economictimes.indiatimes.com/tech/information-tech/anthropic-ais-cobol-code-advances-unlock-new-doors-for-it-companies/articleshow/128762313.cms
 urlToImage: https://img.etimg.com/thumb/width-1200,height-900,imgsize-62534,resizemode-75,msid-128762313/tech/information-tech/anthropic-ais-cobol-code-advances-unlock-new-doors-for-it-companies.jpg
 urlToImageBackup: https://img.etimg.com/thumb/width-1200,height-900,imgsize-62534,resizemode-75,msid-128762313/tech/information-tech/anthropic-ais-cobol-code-advances-unlock-new-doors-for-it-companies.jpg
 ---

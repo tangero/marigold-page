@@ -6,7 +6,6 @@ categories:
 - Mobilní sítě
 
   '
-published: true
 summary_points:
 - Autor přešel zpět na Go kartu O2 po odchodu ze Streamu.
 - O2 neumí převést tarif na Go kartu bez výměny SIM.

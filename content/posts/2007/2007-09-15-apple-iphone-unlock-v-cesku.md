@@ -4,7 +4,6 @@ slug: 'apple-iphone-unlock-v-cesku'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - iPhone odblokování nabízí aplikace Iphonesimfree za 900 Kč.
 - Pražské odblokování iPhonu na klíč stojí 1500 Kč.

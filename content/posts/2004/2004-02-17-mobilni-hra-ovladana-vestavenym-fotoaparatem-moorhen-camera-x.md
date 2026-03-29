@@ -4,7 +4,6 @@ slug: 'mobilni-hra-ovladana-vestavenym-fotoaparatem-moorhen-camera-x'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Moorhen Camera X hra ovládá se pohybem telefonu snímajícího pozadí.
 - Mobile Scope uvádí mobilní verzi hry Slepičky ovládanou čočkou fotoaparátu.

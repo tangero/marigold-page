@@ -4,7 +4,6 @@ slug: 'cipsetove-novinky-atheros-a-broadcom-upgraduji-intel-centrino-zpozduje'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Atheros čipová sada 802.11a/g zvyšuje dosah WiFi na kilometr a snižuje spotřebu.
 - Intel posunul uvedení dualbandového Centrina 802.11a/b na konec roku 2003.

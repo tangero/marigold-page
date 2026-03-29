@@ -9,7 +9,6 @@ categories:
 - 4G
 
   '
-published: true
 summary_points:
 - Sigfox dominuje v Česku díky podpoře T-Mobile a charismatickým lidem.
 - České Radiokomunikace provozují síť LoRa, O2 se zaměřuje na LTE Category 0.

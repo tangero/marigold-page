@@ -4,7 +4,6 @@ slug: 'top-level-domena-pro-mobilni-obsah'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Nová iniciativa požaduje doménu prvního řádu pro mobilní obsah.
 - Nokia, Vodafone a Microsoft patří mezi hlavní členy iniciativy.

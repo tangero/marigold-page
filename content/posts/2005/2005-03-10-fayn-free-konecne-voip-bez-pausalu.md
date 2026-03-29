@@ -4,7 +4,6 @@ slug: 'fayn-free-konecne-voip-bez-pausalu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Fayn Free zrušil měsíční paušál, ale má aktivační poplatek 400 Kč.
 - Fayn Free hovorné není nejvýhodnější, spíše pro příchozí hovory na pevnou linku.

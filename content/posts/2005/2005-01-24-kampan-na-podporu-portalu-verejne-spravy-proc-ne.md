@@ -4,7 +4,6 @@ slug: 'kampan-na-podporu-portalu-verejne-spravy-proc-ne'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Ministerstvo informatiky vypisuje výběrové řízení na kampaň za deset milionů na
   podporu veřejné správy.

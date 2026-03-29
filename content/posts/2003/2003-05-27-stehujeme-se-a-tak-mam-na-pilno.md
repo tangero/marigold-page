@@ -4,7 +4,6 @@ slug: 'stehujeme-se-a-tak-mam-na-pilno'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Cinetik se stěhuje, protože původní prostory nevyhovují kanceláři a expedici DVD.
 - Bořík hledal levné prostory, například šatny za 3000 Kč měsíčně.

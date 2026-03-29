@@ -4,7 +4,6 @@ slug: 'story-o-sousedskych-sitich-15'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - Lokalita jedna je pro freenet mrtvá kvůli konkurenci UPC Chello.
 - Lokalita dvě úspěšně vytvořila vlastní CLOUD s "zabranými" IP adresami.

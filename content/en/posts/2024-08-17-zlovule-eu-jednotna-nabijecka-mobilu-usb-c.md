@@ -6,7 +6,6 @@ categories:
 - EU
 - Česko
 content_hash: dbd328acfa1f43d6f0608f97e73fcc96
-lang: en
 original_lang: cs
 permalink: /en/item/zlovule-eu-jednotna-nabijecka-mobilu-usb-c/
 thumbnail: https://www.marigold.cz/assets/nabijecky-eu.png

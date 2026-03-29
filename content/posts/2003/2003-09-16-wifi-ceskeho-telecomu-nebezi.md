@@ -4,7 +4,6 @@ slug: 'wifi-ceskeho-telecomu-nebezi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WiFi Českého Telecomu pravděpodobně nefunguje od včerejška v Praze 1 a Flóře.
 - Web Telecomu nehlásí žádný výpadek WiFi sítě.

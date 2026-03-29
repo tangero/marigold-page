@@ -7,7 +7,6 @@ categories:
 - Nova
 
   '
-published: true
 summary_points:
 - Tn.cz je zpravodajský server s bulvárními prvky, videa jsou doplňková.
 - Tn.cz má neoriginální strukturu webu, přehlížečkováno a přerámečkováno.

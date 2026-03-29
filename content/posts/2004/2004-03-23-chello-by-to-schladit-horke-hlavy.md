@@ -4,7 +4,6 @@ slug: 'chello-by-to-schladit-horke-hlavy'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - UPC Chello zavedlo datové limity, což vyvolalo vlnu nevole u některých uživatelů.
 - Autor chápe zavedení limitů, protože někteří uživatelé stahují nadměrná množství

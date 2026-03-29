@@ -4,7 +4,6 @@ slug: 'videli-jste-nekdy-pojizdnou-vanu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autoři viděli vedle zaparkovaného auta vozidlo s volantem a plachtou.
 - Vozidlo zřejmě slouží k plavání nebo jízdě na sněhu.

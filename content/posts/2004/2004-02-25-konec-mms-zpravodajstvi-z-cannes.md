@@ -4,7 +4,6 @@ slug: 'konec-mms-zpravodajstvi-z-cannes'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - 'Cannes: Mobilní sítě jsou přetížené, operátoři odpojili GPRS a MMS nefungují.'
 - T-Mobile postavil stánek s internetem pro novináře, protože kongresová infrastruktura

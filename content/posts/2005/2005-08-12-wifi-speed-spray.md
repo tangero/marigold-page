@@ -4,7 +4,6 @@ slug: 'wifi-speed-spray'
 author: Noname
 
   '
-published: true
 summary_points:
 - WiFi Speed Spray za necelých 10$ je nabízen na fóru Marigold.cz.
 - Produkt slibuje "čištění" WiFi signálu neviditelnými molekulami.

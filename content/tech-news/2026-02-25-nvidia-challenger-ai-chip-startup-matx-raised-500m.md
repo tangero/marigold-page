@@ -19,7 +19,7 @@ source:
   id: techcrunch
   name: TechCrunch
 title: Startup MatX, konkurent Nvidia v AI čipech, získal 500 milionů dolarů | TechCrunch
-url: https://techcrunch.com/2026/02/24/nvidia-challenger-ai-chip-startup-matx-raised-500m/
+source_url: https://techcrunch.com/2026/02/24/nvidia-challenger-ai-chip-startup-matx-raised-500m/
 urlToImage: https://techcrunch.com/wp-content/uploads/2024/09/chip-manufacturing-getty.jpg?w=1200
 urlToImageBackup: https://techcrunch.com/wp-content/uploads/2024/09/chip-manufacturing-getty.jpg?w=1200
 ---

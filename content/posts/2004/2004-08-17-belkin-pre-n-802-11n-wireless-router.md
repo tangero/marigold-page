@@ -4,7 +4,6 @@ slug: 'belkin-pre-n-802-11n-wireless-router'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Belkin chystá router s WiFi 802.11n o rychlosti 100-150 Mb/s.
 - Router Belkin Pre-N využívá MIMO technologii pro rozdělení a složení signálu.

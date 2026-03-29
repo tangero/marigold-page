@@ -17,7 +17,7 @@ source:
   name: BusinessLine
 title: Indické IT akcie ztratily 68,6 miliardy dolarů v únoru kvůli obavám z narušení
   způsobeného AI
-url: https://www.thehindubusinessline.com/markets/stock-markets/indian-it-stocks-lose-686-billion-in-february-amid-ai-disruption-fears/article70673960.ece
+source_url: https://www.thehindubusinessline.com/markets/stock-markets/indian-it-stocks-lose-686-billion-in-february-amid-ai-disruption-fears/article70673960.ece
 urlToImage: https://bl-i.thgim.com/public/incoming/au12mm/article70673965.ece/alternates/LANDSCAPE_1200/IT%20stocks%20steep%20fall.jpg
 urlToImageBackup: https://bl-i.thgim.com/public/incoming/au12mm/article70673965.ece/alternates/LANDSCAPE_1200/IT%20stocks%20steep%20fall.jpg
 ---

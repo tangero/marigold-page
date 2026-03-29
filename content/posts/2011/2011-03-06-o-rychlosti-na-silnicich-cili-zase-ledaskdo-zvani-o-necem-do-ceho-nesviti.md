@@ -6,7 +6,6 @@ categories:
 - Společnost
 
   '
-published: true
 summary_points:
 - Internet umožňuje každému vyjádřit názor, často bez odbornosti a s vtipem místo
   faktů.

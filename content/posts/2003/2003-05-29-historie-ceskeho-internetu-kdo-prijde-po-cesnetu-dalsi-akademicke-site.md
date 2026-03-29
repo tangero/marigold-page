@@ -4,7 +4,6 @@ slug: 'historie-ceskeho-internetu-kdo-prijde-po-cesnetu-dalsi-akademicke-site'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Historie českého internetu seriál pokračuje dílem o projektech navazujících na Cesnet.
 - Akademická léta českého internetu se blíží ke konci, nastoupí léta učednická.

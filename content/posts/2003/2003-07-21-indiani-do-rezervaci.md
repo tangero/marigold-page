@@ -4,7 +4,6 @@ slug: 'indiani-do-rezervaci'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - NKÚ ukončil šetření Internetu do škol s výsledkem 884 milionů škody.
 - Česká škola a LUPA informují o průšvihu Internet do škol.

@@ -4,7 +4,6 @@ slug: 'technicky-reditel-nokie-p-korhonen-mluvil-na-etechu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Nokia potvrdila Python jako scriptovací jazyk pro zařízení Series 60.
 - Mobloging je pro Nokii zajímavý trend, vyvíjí aplikaci PhotoBlog.

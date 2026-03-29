@@ -4,7 +4,6 @@ slug: 'knihy-ke-stazeni'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor digitalizoval a nabízí ke stažení své knihy.
 - Koncernová pětiletka, manažerská lovestory, je dostupná elektronicky za poplatek.

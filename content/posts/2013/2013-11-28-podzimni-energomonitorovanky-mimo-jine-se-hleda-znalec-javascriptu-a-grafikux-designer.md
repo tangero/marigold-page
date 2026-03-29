@@ -4,7 +4,6 @@ slug: 'podzimni-energomonitorovanky-mimo-jine-se-hleda-znalec-javascriptu-a-graf
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Energomonitor není cool startup, ale spíše firma s tvrdou prací a reálným businessem.
 - Valašské Meziříčí má vývojové centrum bez startupových vychytávek, ale s dětským

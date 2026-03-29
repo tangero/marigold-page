@@ -4,7 +4,6 @@ slug: 'jen-tak-predvanocne'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Marigold nestihl vytvořit doporučovátko dárků pro návštěvnost webu.
 - Autor inspiroval kontextovou nápovědou z Yuhůova weblogu a CSS formátováním tabulek.

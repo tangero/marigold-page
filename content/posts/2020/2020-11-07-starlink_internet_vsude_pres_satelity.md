@@ -5,7 +5,7 @@ categories:
 - Startlink
 - Internet
 - Elon Musk
-date: 7.11.2020
+date: 2020-11-07
 excerpt: Starlink Elona Muska rozeslal tisíce dalších pozvánek do betaprovozu internetu
   distribuovaného ze satelitů na nízké oběžné dráze (LEO). V betaprovozu stojí *better
   than nothing* linka 99$, další pětistovku ovšem musí uživatelé vytlačit za terminál

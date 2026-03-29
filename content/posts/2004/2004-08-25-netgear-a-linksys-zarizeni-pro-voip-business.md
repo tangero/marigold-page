@@ -4,7 +4,6 @@ slug: 'netgear-a-linksys-zarizeni-pro-voip-business'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - NetGear vyvíjí VoIP zařízení s Vonage, router s RJ-11 porty bude v říjnu.
 - Linksys prodává PAP2 Phone Adapter (59 USD) a RT31P2 Router (89 USD).

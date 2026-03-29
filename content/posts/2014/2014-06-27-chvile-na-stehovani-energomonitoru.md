@@ -4,7 +4,6 @@ slug: 'chvile-na-stehovani-energomonitoru'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Energomonitor se stěhuje z Valašského Meziříčí do Krásna nad Bečvou kvůli nedostatku
   místa.

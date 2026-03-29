@@ -15,7 +15,7 @@ source:
   id: null
   name: Science Daily
 title: Vědci možná nalezli svatý grál kvantového počítačství
-url: https://www.sciencedaily.com/releases/2026/02/260221000252.htm
+source_url: https://www.sciencedaily.com/releases/2026/02/260221000252.htm
 urlToImage: https://www.sciencedaily.com/images/1920/golden-quantum-computer-machine.webp
 urlToImageBackup: https://www.sciencedaily.com/images/1920/golden-quantum-computer-machine.webp
 ---

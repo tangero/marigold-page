@@ -4,7 +4,6 @@ slug: 'ctia-wireless-2003-hotspotzz-nabizi-hotspoty-a-motorola-mobil-s-linuxem'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - CTIA WIRELESS 2003 konference v březnu se zaměří na WiFi bezpečnost.
 - Hotspotzz nabízí hotové hotspoty s autorizačním systémem za 500 USD.

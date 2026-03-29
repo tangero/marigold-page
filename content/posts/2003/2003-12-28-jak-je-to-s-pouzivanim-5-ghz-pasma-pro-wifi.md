@@ -4,7 +4,6 @@ slug: 'jak-je-to-s-pouzivanim-5-ghz-pasma-pro-wifi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - GHz pásmo pro datové sítě (WiFi) je tématem nového článku.
 - Autor utřídil údaje o používání 5 GHz pásma v ČR.

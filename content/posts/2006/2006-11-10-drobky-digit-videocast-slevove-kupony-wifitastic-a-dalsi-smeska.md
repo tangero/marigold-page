@@ -4,7 +4,6 @@ slug: 'drobky-digit-videocast-slevove-kupony-wifitastic-a-dalsi-smeska'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Digit komentuje IT události formou videocastu, což je soukromý projekt.
 - WiFiTastic nabízí provozování placených hotspotů pomocí upraveného routeru.

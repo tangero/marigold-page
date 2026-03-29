@@ -4,7 +4,6 @@ slug: 'hledame-do-energomonitoru-frontend-javascriptistu-aby-nam-pomohl-zmenit-e
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Energomonitor hledá javascriptaře pro vývoj frontendů smartgrid aplikací.
 - Požadována je zkušenost s Javascript SPA, HTML5, HTML/CSS a GIT.

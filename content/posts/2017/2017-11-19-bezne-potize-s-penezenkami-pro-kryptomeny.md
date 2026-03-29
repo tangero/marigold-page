@@ -2,7 +2,6 @@
 slug: 'bezne-potize-s-penezenkami-pro-kryptomeny'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - Přechod z Androidu na iOS způsobuje problémy s krypto peněženkami, např. Mycelium.
 - Mobilní peněženky na iOS mají nedostatky v transakčních poplatcích a funkcích.

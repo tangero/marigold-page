@@ -4,7 +4,6 @@ slug: 'skfree-aneb-take-slovensko-chce-svoji-neziskovou-broadband-sit'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - SKFREE je slovenský projekt neziskové broadband telekomunikační sítě.
 - Inspirací pro SKFREE je český projekt CzFree.

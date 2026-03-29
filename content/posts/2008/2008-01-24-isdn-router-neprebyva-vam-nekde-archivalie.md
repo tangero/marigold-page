@@ -8,7 +8,6 @@ categories:
 - ISDN
 
   '
-published: true
 summary_points:
 - Autor řeší problém sdílení ISDN internetu pro více počítačů.
 - ISDN router, nutný pro sdílení, je obtížné sehnat, obchody ho nenabízí.

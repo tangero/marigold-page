@@ -4,7 +4,6 @@ slug: 'letiste-heathrow-ma-wifi-kpn-a-mm02-miri-ke-slouceni'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Heathrow nabízí WiFi na Terminálu 1 za 6 liber/hodinu nebo 85 liber/měsíc.
 - KPN a mmO2 zvažují fúzi, čímž vznikne velká nadnárodní mobilní skupina.

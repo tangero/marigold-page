@@ -4,7 +4,6 @@ slug: 'potreboval-bych-malou-radu-s-vyberem-tiskarny'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Tiskárna inkoustová je preferovaná kvůli potisku obálek formátu A5.
 - Podavač obálek musí být spolehlivý a s co největší kapacitou.

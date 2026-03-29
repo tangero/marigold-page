@@ -4,7 +4,6 @@ slug: 'czfree-net-uz-je-milionarska-sit'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - CzFree.Net infrastruktura přesáhla hodnotu 1 milion Kč dle Ondřeje Chvaly.
 - Hodnota zahrnuje jen "hardcore" členy, ne komerční uživatele sítě.

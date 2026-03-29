@@ -4,7 +4,6 @@ slug: 'aplikovana-bezpecnost'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - 'IETF meeting: Ind prozradil jméno, heslo a IP adresu Level3 routeru.'
 - Router ukončuje VPN zákazníků, což zvyšuje bezpečnostní riziko.

@@ -7,7 +7,6 @@ categories:
 - Mobilní sítě
 
   '
-published: true
 summary_points:
 - Autor preferuje véčkové "hloupé" telefony jako záložní, kvůli výdrži baterie.
 - Véčkové telefony kvalitního provedení jsou v současnosti na trhu nedostatkové zboží.

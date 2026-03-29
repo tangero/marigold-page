@@ -4,7 +4,6 @@ slug: 'sen-o-evropske-technologicke-dominaci-je-vlastne-fuc'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Evropa chtěla sjednotit radiové telekomunikační technologie a dominovat světu.
 - GSM bylo velmi úspěšné, UMTS má zpoždění a není přesvědčivé.

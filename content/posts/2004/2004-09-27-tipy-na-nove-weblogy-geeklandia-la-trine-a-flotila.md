@@ -4,7 +4,6 @@ slug: 'tipy-na-nove-weblogy-geeklandia-la-trine-a-flotila'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Geeklandia Romana Staňka nabízí netradiční pohled na technologie ze zahraničí.
 - La Trine Davida Grudla je programátorský weblog s obsahem i pro neprogramátory.

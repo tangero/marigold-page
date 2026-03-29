@@ -4,7 +4,6 @@ slug: 'o-valce-v-iraku-se-nejdrive-dozvedi-ridici'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - USA pravděpodobně zvýší odchylku GPS během války v Iráku.
 - Navigace v autech mohou vykazovat nepřesnosti až 200 metrů.

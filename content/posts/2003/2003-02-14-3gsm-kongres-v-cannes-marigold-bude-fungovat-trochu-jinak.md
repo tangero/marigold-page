@@ -4,7 +4,6 @@ slug: '3gsm-kongres-v-cannes-marigold-bude-fungovat-trochu-jinak'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Marigoldi jedou autem na 3GSM kongres do Cannes už v sobotu.
 - Příští týden se budou věnovat novinkám z Cannes.

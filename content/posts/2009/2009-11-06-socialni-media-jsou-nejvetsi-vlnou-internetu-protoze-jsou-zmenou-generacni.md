@@ -8,7 +8,6 @@ categories:
 - Facebook
 
   '
-published: true
 summary_points:
 - Blogy měly změnit novinařinu, ale ovládli je zkušení autoři.
 - Blogeři se profesionalizovali, zakládali firmy a sítě pro prodej inzerce.

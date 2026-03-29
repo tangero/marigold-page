@@ -4,7 +4,6 @@ slug: 'ministr-vladimir-mlynar-se-pripojil-k-czfree'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Mlynářova domácnost se připojila k internetu přes komunitní síť CZFree.Net.
 - CzFree.Net získal PR úspěch díky připojení ministra informatiky.

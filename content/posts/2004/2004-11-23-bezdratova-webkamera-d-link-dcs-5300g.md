@@ -4,7 +4,6 @@ slug: 'bezdratova-webkamera-d-link-dcs-5300g'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - D-Link DCS-5300G kamera nahrává video a zvuk přes internet do počítače.
 - DCS-5300G má Ethernet port, digitální zoom a dálkové ovládání otáčení/náklonu.

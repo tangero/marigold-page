@@ -7,7 +7,6 @@ categories:
 - Nova
 
   '
-published: true
 summary_points:
 - Návštěvnost Tn.cz 6.5.2008 dosáhla 248 681 reálných uživatelů a 3,99 milionů zobrazených
   stránek.

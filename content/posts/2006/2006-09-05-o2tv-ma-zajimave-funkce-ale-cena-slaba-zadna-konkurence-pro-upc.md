@@ -4,7 +4,6 @@ slug: 'o2tv-ma-zajimave-funkce-ale-cena-slaba-zadna-konkurence-pro-upc'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - O2TV nabízí týdenní archiv pořadů a videopůjčovnu, což autora zaujalo.
 - Archiv pořadů O2TV by vyřešil zapomenuté nahrávání, ale obsah archivu je nejasný.

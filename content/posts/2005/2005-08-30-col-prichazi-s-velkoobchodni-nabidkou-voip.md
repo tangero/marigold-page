@@ -4,7 +4,6 @@ slug: 'col-prichazi-s-velkoobchodni-nabidkou-voip'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Czech On Line nabízí velkoobchodní VoIP propojení přes SIP, ISDN PRI a SS7.
 - Vteřinová tarifikace a volání do pevných sítí od 31 haléřů jsou součástí nabídky.

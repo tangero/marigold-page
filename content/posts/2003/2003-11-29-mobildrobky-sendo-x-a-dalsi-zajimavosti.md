@@ -4,7 +4,6 @@ slug: 'mobildrobky-sendo-x-a-dalsi-zajimavosti'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - ISDN článek pojednává o rozmáhajícím se bezlicenčním bezdrátovém připojení (Unlicensed
   Broadband Wireless).

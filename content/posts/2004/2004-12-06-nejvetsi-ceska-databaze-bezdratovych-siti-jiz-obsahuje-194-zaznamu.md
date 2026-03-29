@@ -4,7 +4,6 @@ slug: 'nejvetsi-ceska-databaze-bezdratovych-siti-jiz-obsahuje-194-zaznamu'
 author: Noname
 
   '
-published: true
 summary_points:
 - Patrick odcestoval do Egypta na líbánky, autor bude dva týdny přidávat články.
 - Internet pro všechny má databázi Wi-Fi sítí, nyní obsahuje 194 záznamů.

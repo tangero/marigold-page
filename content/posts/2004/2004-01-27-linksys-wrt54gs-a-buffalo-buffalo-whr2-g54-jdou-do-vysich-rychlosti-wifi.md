@@ -4,7 +4,6 @@ slug: 'linksys-wrt54gs-a-buffalo-buffalo-whr2-g54-jdou-do-vysich-rychlosti-wifi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Linksys WRT54GS nabízí vyšší rychlost SpeedBooster, 802.11 kompatibilní, až o 30%
   vyšší.

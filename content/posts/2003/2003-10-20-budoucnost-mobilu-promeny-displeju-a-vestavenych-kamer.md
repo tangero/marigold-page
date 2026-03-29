@@ -4,7 +4,6 @@ slug: 'budoucnost-mobilu-promeny-displeju-a-vestavenych-kamer'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - ITU Telecom World v Ženevě řešil budoucnost mobilních telefonů.
 - Krátkodobě se očekává zlepšení displejů, baterií a dalších komponent.

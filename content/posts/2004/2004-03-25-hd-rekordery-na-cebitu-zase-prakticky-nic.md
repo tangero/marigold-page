@@ -4,7 +4,6 @@ slug: 'hd-rekordery-na-cebitu-zase-prakticky-nic'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor hledá HD rekordér (set-top box) pro nahrávání videa na pevný disk.
 - Zařízení by mělo podporovat časování nahrávání a ideálně ethernetové připojení.

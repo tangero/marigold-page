@@ -4,7 +4,6 @@ slug: '10-giga-kam-se-podivas'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - Desetigigabitové spoje se v ČR množí, po CESNETu a NIXu přibyly další dva CESNET
   spoje.

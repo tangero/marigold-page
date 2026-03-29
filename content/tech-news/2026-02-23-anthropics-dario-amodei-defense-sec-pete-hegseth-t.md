@@ -23,7 +23,7 @@ source:
   name: New York Post
 title: Dario Amodei z Anthropic se setká s ministrem obrany USA Petem Hegsethem, Pentagon
   zvažuje zařazení firmy na černou listinu
-url: https://nypost.com/2026/02/23/business/anthropics-dario-amodei-defense-sec-pete-hegseth-to-meet-as-pentagon-considers-placing-firm-on-blacklist/
+source_url: https://nypost.com/2026/02/23/business/anthropics-dario-amodei-defense-sec-pete-hegseth-to-meet-as-pentagon-considers-placing-firm-on-blacklist/
 urlToImage: https://nypost.com/wp-content/uploads/sites/2/2026/02/122066626.jpg?quality=75&strip=all&w=1200
 urlToImageBackup: https://nypost.com/wp-content/uploads/sites/2/2026/02/122066626.jpg?quality=75&strip=all&w=1200
 ---

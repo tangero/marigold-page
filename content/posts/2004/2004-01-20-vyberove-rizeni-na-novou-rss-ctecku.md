@@ -4,7 +4,6 @@ slug: 'vyberove-rizeni-na-novou-rss-ctecku'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Výběrové řízení vyhlášeno na novou RSS čtečku kvůli problémům s rychlým procházením
   nadpisů.

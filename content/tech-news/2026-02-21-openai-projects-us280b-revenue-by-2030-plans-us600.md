@@ -19,7 +19,7 @@ source:
   name: Digitimes
 title: OpenAI očekává příjmy 280 miliard USD do roku 2030, plánuje výdaje 600 miliard
   USD
-url: https://www.digitimes.com/news/a20260221VL203/openai-revenue-2030-growth-bloomberg.html
+source_url: https://www.digitimes.com/news/a20260221VL203/openai-revenue-2030-growth-bloomberg.html
 urlToImage: https://img.digitimes.com/newsshow/20260221vl203_files/2_2b.jpg
 urlToImageBackup: https://img.digitimes.com/newsshow/20260221vl203_files/2_2b.jpg
 ---

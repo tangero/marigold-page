@@ -4,7 +4,6 @@ slug: 'nix-cz-v-brne'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - NIX.CZ zkoumá zájem brněnských poskytovatelů Internetu o členství.
 - NIX.CZ sbírá indikativní nabídky na umístění technologií v Brně.

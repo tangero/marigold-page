@@ -7,7 +7,6 @@ categories:
 - SMS
 
   '
-published: true
 summary_points:
 - SMS jízdenky zdražily z 20 na 26 Kč.
 - Číslo pro objednání SMS jízdenky je nově 9020626.

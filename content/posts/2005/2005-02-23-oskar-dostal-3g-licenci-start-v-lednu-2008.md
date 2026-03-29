@@ -4,7 +4,6 @@ slug: 'oskar-dostal-3g-licenci-start-v-lednu-2008'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Oskar Mobil zaplatí 2 miliardy korun za licenci na provoz.
 - Licence je splatná ve splátkách během pěti let.

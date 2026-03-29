@@ -4,7 +4,6 @@ slug: 'jagg-cz-zalozky-uloz-sdilej-najdi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Jagg.cz je český klon služby del.icio.us pro sdílení záložek.
 - Privátní záložky a sdílení pouze s přáteli jsou novinky oproti del.icio.us.

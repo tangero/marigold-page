@@ -4,7 +4,6 @@ slug: 'wireless-distribution-system-wds-aneb-bezdratovy-system-propojeni'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WDS umožňuje bezdrátové propojení přístupových bodů WiFi.
 - Intersil vytvořil WDS pro čipové sady Prism.

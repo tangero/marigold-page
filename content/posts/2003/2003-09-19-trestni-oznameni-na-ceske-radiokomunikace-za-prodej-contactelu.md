@@ -4,7 +4,6 @@ slug: 'trestni-oznameni-na-ceske-radiokomunikace-za-prodej-contactelu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Petr Rada podal trestní oznámení na management Českých radiokomunikací.
 - ČRa prodaly Contactel za korunu po investici 1,69 miliardy korun.

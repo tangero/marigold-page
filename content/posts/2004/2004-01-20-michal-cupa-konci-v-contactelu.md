@@ -4,7 +4,6 @@ slug: 'michal-cupa-konci-v-contactelu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Michal Čupa, šéf Contactelu, končí a nastupuje na dovolenou.
 - Peter Rubeck, dosavadní COO, dočasně povede firmu Contactel.

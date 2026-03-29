@@ -2,7 +2,6 @@
 slug: 'zapis-do-soukrome-skoly-a-navod-jak-vypadnout-v-prvnim-kole'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - Vojta se hlásil do soukromé školy s kapacitou 15 míst a 120 uchazečů.
 - Při zápisu diskutoval o Plutu a počtu sourozenců.

@@ -4,7 +4,6 @@ slug: 'modleme-se-modleme-se-upgradujeme-cinetik'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Cinetik odpojil původní stránky a spouští upgrade systému na Fázi2.
 - Fáze2 je kompletně nový systém, který nahrazuje původní Fázi1.

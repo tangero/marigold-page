@@ -18,7 +18,7 @@ source:
   id: null
   name: The Space Review
 title: Když Írán vzal internet jako rukojmí, Elon Musk držel klíče
-url: https://www.thespacereview.com/article/5163/1
+source_url: https://www.thespacereview.com/article/5163/1
 ---
 
 ## Souhrn

@@ -6,7 +6,6 @@ categories:
 - EU
 - Česko
 content_hash: bf01d0badafe54ce81b4e0be2a924029
-lang: en
 original_lang: cs
 permalink: /en/item/jak-to-bylo-s-pomazankovym-maslem/
 thumbnail: https://www.marigold.cz/assets/pomazankove-maslo.png

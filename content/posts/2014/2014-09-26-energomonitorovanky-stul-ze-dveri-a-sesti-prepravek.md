@@ -4,7 +4,6 @@ slug: 'energomonitorovanky-stul-ze-dveri-a-sesti-prepravek'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Energomonitor se přestěhoval do vily bývalého majitele skláren Salomona Reicha ve
   Valašském Meziříčí.

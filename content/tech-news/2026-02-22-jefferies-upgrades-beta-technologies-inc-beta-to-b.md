@@ -19,7 +19,7 @@ source:
   id: null
   name: Yahoo Entertainment
 title: Jefferies povýšil BETA Technologies (BETA) na Doporučeno k nákupu
-url: https://finance.yahoo.com/news/jefferies-upgrades-beta-technologies-inc-024110333.html
+source_url: https://finance.yahoo.com/news/jefferies-upgrades-beta-technologies-inc-024110333.html
 urlToImage: https://s.yimg.com/ny/api/res/1.2/ZMzYPsmTTp68HeTNxFxSAg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/2b3c5ad2080f54f0562d58f0e21638ff
 urlToImageBackup: https://s.yimg.com/ny/api/res/1.2/ZMzYPsmTTp68HeTNxFxSAg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/2b3c5ad2080f54f0562d58f0e21638ff
 ---

@@ -4,7 +4,6 @@ slug: 'bude-linkuj-cz-ceskym-diggem'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Digg.com je server pro doporučování zajímavých článků ostatními uživateli.
 - Linkuj.cz je česká obdoba Digg.com, umožňující záložkování a objevování novinek.

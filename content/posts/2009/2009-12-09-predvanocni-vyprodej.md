@@ -6,7 +6,6 @@ audiooff: false
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - "Laks hodinky s 32 MB USB pam\u011Bt\xED jsou na Aukru od korunky."
 - USB Token SafeNet iKey 1000 je na Aukru, na Macu nefunguje.

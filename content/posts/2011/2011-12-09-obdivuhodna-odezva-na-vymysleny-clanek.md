@@ -6,7 +6,6 @@ categories:
 - Média
 
   '
-published: true
 summary_points:
 - Článek bez jmen firem a produktů byl napsán jako reakce na kritiku PR článků.
 - Čtenáři článek bez jmen brali vážně, i přes disclaimer o jeho absurdnosti.

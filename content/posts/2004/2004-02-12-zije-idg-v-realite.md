@@ -4,7 +4,6 @@ slug: 'zije-idg-v-realite'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - ComputerWorld publikoval článek Romana Smělého o digitální propasti v ČR.
 - ČR je podle autora shrnutí v digitální propasti hluboko.

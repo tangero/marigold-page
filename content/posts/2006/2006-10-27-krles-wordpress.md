@@ -4,7 +4,6 @@ slug: 'krles-wordpress'
 author: Noname
 
   '
-published: true
 summary_points:
 - Patrick schválil přechod na WordPress kvůli problémům se zastaralým systémem a spamem.
 - Noname plánuje převod na WordPress nebo WordPress MU příští týden.

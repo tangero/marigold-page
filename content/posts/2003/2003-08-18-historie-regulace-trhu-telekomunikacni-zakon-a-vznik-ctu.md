@@ -4,7 +4,6 @@ slug: 'historie-regulace-trhu-telekomunikacni-zakon-a-vznik-ctu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - ČTÚ vznikl 1993 oddělením od SPT Telecom, aby objektivně rozhodoval o telekomunikačních
   službách.

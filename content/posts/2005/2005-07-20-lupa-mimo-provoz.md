@@ -4,7 +4,6 @@ slug: 'lupa-mimo-provoz'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - Lupa server hlásil kolem půlnoci "právě pracujeme" a ruku v rukavici.
 - Hardwarová havárie způsobila dočasný výpadek serveru Lupa.

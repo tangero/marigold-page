@@ -22,7 +22,7 @@ source:
   name: The Indian Express
 title: AMD uzavřelo další velkou dohodu na dodávky AI čipů pro Meta v hodnotě až 60
   miliard dolarů
-url: https://indianexpress.com/article/technology/tech-news-technology/amd-seals-another-mega-ai-chip-supply-deal-with-meta-worth-up-to-60-billion-10550791/
+source_url: https://indianexpress.com/article/technology/tech-news-technology/amd-seals-another-mega-ai-chip-supply-deal-with-meta-worth-up-to-60-billion-10550791/
 urlToImage: https://images.indianexpress.com/2025/10/Tech-feature-images93.jpg
 urlToImageBackup: https://images.indianexpress.com/2025/10/Tech-feature-images93.jpg
 ---

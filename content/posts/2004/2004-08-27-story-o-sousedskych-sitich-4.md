@@ -4,7 +4,6 @@ slug: 'story-o-sousedskych-sitich-4'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - Balíček obsahuje kabel, anténu a bezdrátové karty XI-626 pro připojení.
 - Autor doveze kabel do lokality jedna pro natažení a upevnění antény.

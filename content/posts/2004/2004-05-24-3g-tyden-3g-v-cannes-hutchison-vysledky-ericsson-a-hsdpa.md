@@ -4,7 +4,6 @@ slug: '3g-tyden-3g-v-cannes-hutchison-vysledky-ericsson-a-hsdpa'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - UMTS videohovory jsou častější v roamingu než v národních sítích.
 - Hutchison Whampoa má 1.73 milionu 3G uživatelů s vysokými akvizičními náklady.

@@ -4,7 +4,6 @@ slug: 'cisco-se-pokousi-privatizovat-wi-fi-standard-a-to-je-neprijemne'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Cisco nabízí firmám rozšíření WiFi komponent o své nestandardizované technologie.
 - Cisco sleduje vlastním programem posílení vlivu a tržního podílu v oblasti WiFi.

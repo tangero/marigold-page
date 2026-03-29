@@ -4,7 +4,6 @@ slug: 'prvni-zarizeni-standardu-802-11g-v-testu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Buffalo WBR-G54 je access point podporující 802.11b i neschválené 802.11g.
 - Simultánní práce v obou WiFi standardech je velkou výhodou Buffalo WBR-G54.

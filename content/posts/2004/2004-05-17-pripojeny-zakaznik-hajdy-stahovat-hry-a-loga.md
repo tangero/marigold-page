@@ -4,7 +4,6 @@ slug: 'pripojeny-zakaznik-hajdy-stahovat-hry-a-loga'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Pipeline připojil firmu MediaPlazza, významného dodavatele obsahu pro mobilní telefony.
 - MediaPlazza nabízí java hry, pozadí, vyzváněcí tóny a další obsah.

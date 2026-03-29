@@ -4,7 +4,6 @@ slug: 'jak-pouzivate-data-z-mobilu-uzavreni-marigoldi-anketky'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Nespavost vedla k úpravám šablon Marigolda a tvorbě statistik v Genesis.
 - Marigold byl odstraněn ze statistik Navrcholu kvůli překročení limitu zdarma.

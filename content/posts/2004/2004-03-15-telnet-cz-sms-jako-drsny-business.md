@@ -4,7 +4,6 @@ slug: 'telnet-cz-sms-jako-drsny-business'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Telnet.cz publikoval článek "SMS jako drsný business" o SMS aplikacích.
 - Eurotel SMS Server je dle článku kvůli úsporám nedostatečně zabezpečený.

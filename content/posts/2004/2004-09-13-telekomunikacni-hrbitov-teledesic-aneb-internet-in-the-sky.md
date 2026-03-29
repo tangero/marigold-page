@@ -4,7 +4,6 @@ slug: 'telekomunikacni-hrbitov-teledesic-aneb-internet-in-the-sky'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Teledesic byl ambiciózní projekt satelitní sítě zaměřený na data s investory Gatesem
   a McCawem.

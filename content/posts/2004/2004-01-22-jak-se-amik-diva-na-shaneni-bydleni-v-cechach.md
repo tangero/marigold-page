@@ -4,7 +4,6 @@ slug: 'jak-se-amik-diva-na-shaneni-bydleni-v-cechach'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Expats.cz je komunitní server pro anglicky mluvící cizince žijící v různých zemích.
 - Autor plánuje přeložit svůj seznam WiFi hotspotů do angličtiny pro Expats.cz.

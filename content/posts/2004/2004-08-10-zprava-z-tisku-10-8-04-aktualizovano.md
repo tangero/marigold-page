@@ -4,7 +4,6 @@ slug: 'zprava-z-tisku-10-8-04-aktualizovano'
 author: Noname
 
   '
-published: true
 summary_points:
 - Skype má češtinu pro aktuální verzi, což posouvá otázku IP telefonie na "kdy".
 - CDMA je v porovnání s ADSL a kabelovkou nejhorší volbou internetového připojení.

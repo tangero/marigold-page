@@ -4,7 +4,6 @@ slug: 'microsoft-vyhodil-zamestnance-za-blogovani-ech-bylo-to-malicko-jinak'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Hanscom z Microsoftu propuštěn po zveřejnění fotky Apple G5 na blogu.
 - Propuštění Hanscoma nebylo za blogování, ale porušení zákazu focení.

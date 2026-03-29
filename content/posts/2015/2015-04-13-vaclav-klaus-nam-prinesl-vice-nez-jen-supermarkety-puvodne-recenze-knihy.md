@@ -4,7 +4,6 @@ slug: 'vaclav-klaus-nam-prinesl-vice-nez-jen-supermarkety-puvodne-recenze-knihy'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Kniha Václava Klause kritizuje přeregulaci Česka a viní za ni EU.
 - Klaus obhajuje privatizaci jako úspěšnou, ignoruje její negativní dopady.

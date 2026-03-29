@@ -4,7 +4,6 @@ slug: 'na-cem-se-pracuje-aneb-p2p-zurnalistika-nastupuje-je-to-na-vas'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - NetPhone nově zavedena pevná linka přes RJ-45 konektor, recenze bude v týdnu.
 - GIOM zařízení testováno s úspěchem, recenze s omezením rychlosti bude brzy.

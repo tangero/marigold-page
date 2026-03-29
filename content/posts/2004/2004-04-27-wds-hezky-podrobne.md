@@ -4,7 +4,6 @@ slug: 'wds-hezky-podrobne'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WDS propojuje přístupové body na stejném kanálu a připojuje klienty.
 - WDS optimalizuje náklady při budování rozsáhlé WiFi sítě.

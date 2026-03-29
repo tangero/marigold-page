@@ -4,7 +4,6 @@ slug: 'proxim-a-jeho-802-11g-plan'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Orinoco AP-600 access point lze rozšířit mini-PCI kartou na 802.11g nebo budoucí
   standardy.

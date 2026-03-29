@@ -18,7 +18,7 @@ source:
   id: the-times-of-india
   name: The Times of India
 title: Indie a Evropa společně budují AI ekosystém k omezení závislosti na USA a Číně
-url: https://economictimes.indiatimes.com/tech/artificial-intelligence/indiaeurope-push-joint-ai-ecosystem-to-cut-us-china-dependence/articleshow/128567610.cms
+source_url: https://economictimes.indiatimes.com/tech/artificial-intelligence/indiaeurope-push-joint-ai-ecosystem-to-cut-us-china-dependence/articleshow/128567610.cms
 urlToImage: https://img.etimg.com/thumb/width-1200,height-900,imgsize-658068,resizemode-75,msid-128567610/tech/artificial-intelligence/indiaeurope-push-joint-ai-ecosystem-to-cut-us-china-dependence.jpg
 urlToImageBackup: https://img.etimg.com/thumb/width-1200,height-900,imgsize-658068,resizemode-75,msid-128567610/tech/artificial-intelligence/indiaeurope-push-joint-ai-ecosystem-to-cut-us-china-dependence.jpg
 ---

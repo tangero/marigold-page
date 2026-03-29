@@ -4,7 +4,6 @@ slug: 'jiri-hlavenka-na-zive-o-adsl'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Hlavenka v článku o ADSL doporučuje levnější, pomalejší internetové připojení.
 - Většině uživatelů by stačila linka 64 Kbps za nízkou cenu.

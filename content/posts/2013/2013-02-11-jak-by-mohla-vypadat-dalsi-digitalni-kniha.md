@@ -6,7 +6,6 @@ categories:
 - Knihy
 
   '
-published: true
 summary_points:
 - Kniha zůstává mimo multimediální zázraky kvůli nákladnosti a problémům sdílení vize.
 - Elektronická kniha by mohla být aplikace s týdenními kapitolami za 5 Kč.

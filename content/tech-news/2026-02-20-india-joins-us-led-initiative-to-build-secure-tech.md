@@ -16,7 +16,7 @@ source:
   name: Abcnews.com
 title: Indie se připojuje k iniciativě vedené USA pro budování bezpečných dodavatelských
   řetězců technologií
-url: https://abcnews.com/Technology/wireStory/india-joins-us-led-initiative-build-secure-technology-130327961
+source_url: https://abcnews.com/Technology/wireStory/india-joins-us-led-initiative-build-secure-technology-130327961
 urlToImage: https://i.abcnewsfe.com/a/2dba7301-090d-454c-a954-4b6087fa9b71/wirestory_994d1cea76275cae7649fb8dcec13125_16x9.jpg?w=1600
 urlToImageBackup: https://i.abcnewsfe.com/a/2dba7301-090d-454c-a954-4b6087fa9b71/wirestory_994d1cea76275cae7649fb8dcec13125_16x9.jpg?w=1600
 ---

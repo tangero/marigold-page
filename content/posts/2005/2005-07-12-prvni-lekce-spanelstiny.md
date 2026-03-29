@@ -4,7 +4,6 @@ slug: 'prvni-lekce-spanelstiny'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Slovníček španělštiny od telekomunikační společnosti ironicky definuje běžné výrazy.
 - Siesta znamená pracovní porada, fiesta je oběd hrazený firmou.

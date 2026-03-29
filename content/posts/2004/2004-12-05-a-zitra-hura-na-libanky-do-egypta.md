@@ -4,7 +4,6 @@ slug: 'a-zitra-hura-na-libanky-do-egypta'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Dita a autor odlétají zítra do Hurgady v Egyptě na dovolenou a líbánky.
 - V Hurgadě hlásí teploty přes 25 stupňů Celsia, takže balí plavky a krém.

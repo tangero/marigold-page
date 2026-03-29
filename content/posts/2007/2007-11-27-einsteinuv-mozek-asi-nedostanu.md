@@ -4,7 +4,6 @@ slug: 'einsteinuv-mozek-asi-nedostanu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Flotila Země skončila osmá v ceně Einsteinův mozek 2006.
 - Autor obdržel překvapivé reakce na čtivost své prvotiny.

@@ -4,7 +4,6 @@ slug: 'broza-uz-ma-doma-taky-wifi-a-ja-zatim-pisu-wifi-knihu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Petr Broža (Cpress) si nainstaloval bezdrátový router UPC a používá WiFi.
 - Autor píše knihu o WiFi, podepsal smlouvu s nakladatelem.

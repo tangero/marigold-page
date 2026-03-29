@@ -4,7 +4,6 @@ slug: 'tiscali-cz-na-prodej'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - Tiscali Česká republika je podle Digiwebu na prodej.
 - eTel a Aliatel (GTS) projevují o Tiscali zájem.

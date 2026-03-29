@@ -4,7 +4,6 @@ slug: 'je-cas-na-stream-trailer'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Gynekologie 2, pilotní řada seriálu, je téměř hotová a brzy bude dostupná.
 - Trailer seriálu Gynekologie 2 je k vidění na webu Stream.cz.

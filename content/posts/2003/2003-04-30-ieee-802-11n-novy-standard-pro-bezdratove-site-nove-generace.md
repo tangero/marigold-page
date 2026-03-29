@@ -4,7 +4,6 @@ slug: 'ieee-802-11n-novy-standard-pro-bezdratove-site-nove-generace'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Technet publikoval článek Luboše Němce o standardu 802.11n.
 - n draft sliboval reálné rychlosti 72 Mb/s a 108 Mb/s.

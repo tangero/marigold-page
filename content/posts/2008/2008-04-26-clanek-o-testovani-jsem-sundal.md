@@ -7,7 +7,6 @@ categories:
 - Média
 
   '
-published: true
 summary_points:
 - Článek o testování celovečerního filmu byl stažen kvůli chybě v nastavení.
 - Oprava článku není možná do konce víkendu z technických důvodů.

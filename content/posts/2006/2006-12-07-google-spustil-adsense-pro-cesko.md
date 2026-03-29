@@ -4,7 +4,6 @@ slug: 'google-spustil-adsense-pro-cesko'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - AdSense umožňuje českým webům vydělávat peníze pomocí reklamy.
 - AdSense funguje na principu platby za kliknutí a platby za zobrazení.

@@ -2,7 +2,6 @@
 slug: 'letosni-silvestr-v-koline-nad-rynem-mikropoznamka'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - Němci kritizovali kolínskou policii za nezvládnutí silvestra. Policie použila kontroverzní
   termín "nafris" pro severoafričany. Preventivní kontroly tisíců lidí zabránily problémům.

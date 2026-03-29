@@ -4,7 +4,6 @@ slug: 'telekomunikace-jsou-tesne-pred-dalsi-bublinou'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Telco trh rostl do 2005 díky hlasu, SMS, roamingu a paketovým datům.
 - Nové mobilní služby jako obsah, hudba a videohovory zatím selhávají.

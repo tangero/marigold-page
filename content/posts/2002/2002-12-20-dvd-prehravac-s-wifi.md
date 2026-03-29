@@ -4,7 +4,6 @@ slug: 'dvd-prehravac-s-wifi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Go-Video D2730 od SONICblue má ethernet a volitelný WiFi modul.
 - Přes WiFi lze stahovat obrázky, MP3 a videa z PC do TV.

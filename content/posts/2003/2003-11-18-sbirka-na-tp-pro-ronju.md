@@ -4,7 +4,6 @@ slug: 'sbirka-na-tp-pro-ronju'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - CzFree.Net sbírá peníze na TP rozhraní pro světelná pojítka Ronja.
 - Vývoj TP rozhraní pro Ronja je odhadován na 20 000 Kč.

@@ -4,7 +4,6 @@ slug: 'broadband-forum-rozhodujeme'
 author: Noname
 
   '
-published: true
 summary_points:
 - Noname hodnotil projekty na Internet Pro Všechny pozitivně, s nadějí na úspěch.
 - Cílem je dvojnásobný nárůst rychlosti, uživatelů a dat broadbandu do roku 2006.

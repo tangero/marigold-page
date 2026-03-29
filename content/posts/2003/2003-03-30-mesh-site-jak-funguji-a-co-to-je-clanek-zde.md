@@ -4,7 +4,6 @@ slug: 'mesh-site-jak-funguji-a-co-to-je-clanek-zde'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - 'Mesh sítě: Autor sliboval článek o mesh sítích.'
 - 'Článek sepsán: Článek o mesh sítích je nyní napsán.'

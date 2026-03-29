@@ -4,7 +4,6 @@ slug: 'mobilni-telefon-znacky-tesco-to-je-upadek'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Tesco uvede na britský trh mobilní telefony a služby pod vlastní značkou.
 - Tesco Mobile je společný podnik s mmO2, využívající jejich síť a technologie.

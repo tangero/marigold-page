@@ -4,7 +4,6 @@ slug: 'kterak-americka-armada-oblbovala-s-dezinformaci-o-satelitnich-telefonech'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Satelitní telefony nepřitahují americké chytré bomby, původní zpráva byla nevážná
   spekulace.

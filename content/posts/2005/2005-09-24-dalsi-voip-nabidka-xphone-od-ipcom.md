@@ -4,7 +4,6 @@ slug: 'dalsi-voip-nabidka-xphone-od-ipcom'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - IPCom Chrudim nabízí VoIP službu XPhone, která využívá SIP protokol.
 - XPhone nabízí tarify od 0 Kč do 589 Kč měsíčně s volnými minutami.

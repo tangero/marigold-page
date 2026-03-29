@@ -4,7 +4,6 @@ slug: 'videl-jsem-moderni-umeni'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor navštívil Fresh Film Fest v Karlových Varech kvůli diskusnímu panelu.
 - Autor přiznává omezené znalosti moderního umění, preferuje starší epochy.

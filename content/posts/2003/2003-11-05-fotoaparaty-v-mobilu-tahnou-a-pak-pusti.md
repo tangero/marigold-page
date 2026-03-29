@@ -4,7 +4,6 @@ slug: 'fotoaparaty-v-mobilu-tahnou-a-pak-pusti'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Používání fotoaparátu v mobilu klesá po dvou měsících o 80 procent kvůli nízké kvalitě
   fotek.

@@ -4,7 +4,6 @@ slug: 'hp-neda-centrino-do-svych-profi-notebooku-wpa-v-kvetnu-sd-s-wifi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - HP nebude používat Centrino v noteboocích pro business kvůli obavám z WiFi.
 - WPA certifikace Wi-Fi Aliancí proběhne pravděpodobně v květnu.

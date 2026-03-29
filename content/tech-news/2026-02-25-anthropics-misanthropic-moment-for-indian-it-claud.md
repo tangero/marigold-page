@@ -24,7 +24,7 @@ source:
   name: The Times of India
 title: Anthropicův 'misanthropický' moment pro indické IT! Valuace mateřské firmy
   Claude překonává celý průmysl
-url: https://economictimes.indiatimes.com/markets/stocks/news/anthropics-misanthropic-moment-for-indian-it-claude-parents-valuation-tops-the-whole-industry/articleshow/128773004.cms
+source_url: https://economictimes.indiatimes.com/markets/stocks/news/anthropics-misanthropic-moment-for-indian-it-claude-parents-valuation-tops-the-whole-industry/articleshow/128773004.cms
 urlToImage: https://img.etimg.com/thumb/msid-128772975,width-1200,height-630,imgsize-66556,overlay-etmarkets/articleshow.jpg
 urlToImageBackup: https://img.etimg.com/thumb/msid-128772975,width-1200,height-630,imgsize-66556,overlay-etmarkets/articleshow.jpg
 ---

@@ -4,7 +4,6 @@ slug: 'ipod-ma-porazit-sila-open-source'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - iPod je dominantní, ale open source firmware pro MP3 přehrávače je nová aktivita.
 - Neuros 442 je MP3 přehrávač s hardwarem vhodným pro open source firmware.

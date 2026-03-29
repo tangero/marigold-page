@@ -4,7 +4,6 @@ slug: 'antibojkot-t-mobile-organizuje-jak-jinak-t-mobile'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - RadioMobil organizuje antibojkotní akci jako protiakci na plánovaný bojkot.
 - T-Mobile se snaží žehlit špatnou komunikaci touto antibojkotní akcí.

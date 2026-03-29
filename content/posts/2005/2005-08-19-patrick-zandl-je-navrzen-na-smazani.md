@@ -4,7 +4,6 @@ slug: 'patrick-zandl-je-navrzen-na-smazani'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Wikipedie navrhla smazání hesla autora, označeného jako "ješitný článek".
 - Autor nesouhlasí s argumentem o nedostatečné reprezentativnosti v kategoriích.

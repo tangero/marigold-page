@@ -4,7 +4,6 @@ slug: 'domena-oskar-cz-prisla-cesky-mobil-na-1-milion-kc'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Český Mobil zaplatil 100 tisíc za doménu oskar.cz a 600 tisíc za známky.
 - Oskar získal doménu oskar.cz po dvou letech tahanic a soudním zablokování.

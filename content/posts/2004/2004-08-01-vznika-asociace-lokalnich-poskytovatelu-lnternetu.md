@@ -4,7 +4,6 @@ slug: 'vznika-asociace-lokalnich-poskytovatelu-lnternetu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Asociace lokálních ISP (ALPI) sdružuje malé poskytovatele a komunitní sítě.
 - ALPI hájí zájmy členů, sdílí zkušenosti a zvyšuje prestiž kodexem.

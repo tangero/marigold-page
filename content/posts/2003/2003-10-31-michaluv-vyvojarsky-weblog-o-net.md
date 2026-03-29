@@ -4,7 +4,6 @@ slug: 'michaluv-vyvojarsky-weblog-o-net'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Michal založil vývojářský weblog na adrese blog.vyvojar.cz/michal/.
 - Weblog Michala se zaměřuje na témata .NET a databáze.

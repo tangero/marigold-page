@@ -4,7 +4,6 @@ slug: 'safra-co-vubec-delam'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor prožívá tvůrčí krizi a pocity vyhoření z náročné práce v IT.
 - Autor obtížně vysvětluje rodině svou práci v oblasti mobilních technologií.

@@ -4,7 +4,6 @@ slug: 'jak-jsem-malem-marigolda-prohral-v-kartach'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Bridžová partička se Špuntem, Lopem a Zdenálem byla domluvena.
 - Autor překročil datový limit u Xhostu, jehož adminem je Špunt.

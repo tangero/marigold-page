@@ -4,7 +4,6 @@ slug: 'cznorth-net-bezdratova-sit-pro-moravu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Zábřeh na Moravě buduje novou WiFi komunitní síť nezávislou na CzFree.Net.
 - Cznorth.net je název nové sítě v Zábřehu, která má vlastní doménu.

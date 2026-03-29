@@ -2,7 +2,6 @@
 slug: 'co-to-zase-ta-nana-placla-o-detech-a-matkach-cili-lekce-z-kontextu'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - Sociální média zkreslují kontext a vyvolávají zbytečné kontroverze.
 - Dítě bez otce má poloviční šanci dožití produktivního věku.

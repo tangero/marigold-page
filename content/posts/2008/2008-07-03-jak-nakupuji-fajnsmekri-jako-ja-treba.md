@@ -6,7 +6,6 @@ categories:
 - Příběhy
 
   '
-published: true
 summary_points:
 - IKEA nákupy autor nerad, preferuje kavárnu, vyhýbá se vybírání košíčků.
 - Dotazník značek oblečení autora zaskočil, preferuje maskáče, značky neřeší.

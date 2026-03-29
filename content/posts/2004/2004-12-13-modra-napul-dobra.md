@@ -4,7 +4,6 @@ slug: 'modra-napul-dobra'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - Restaurace Modrá Lavička má reklamu v rádiu a nabízí thajské jídlo.
 - Přítelkyně si objednala kuřecí medailonky v bramboráku, které byly zřejmě ohřáté.

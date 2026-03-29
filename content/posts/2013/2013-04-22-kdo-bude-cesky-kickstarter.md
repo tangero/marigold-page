@@ -7,7 +7,6 @@ categories:
 - Kickstarter
 
   '
-published: true
 summary_points:
 - Kickstarter umožňuje financování kreativních projektů skrze podporu veřejnosti.
 - České platformy fungují podobně jako Kickstarter, nabízejí balíčky pro podporovatele.

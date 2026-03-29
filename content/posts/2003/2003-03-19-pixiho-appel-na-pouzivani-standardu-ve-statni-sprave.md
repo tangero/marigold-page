@@ -4,7 +4,6 @@ slug: 'pixiho-appel-na-pouzivani-standardu-ve-statni-sprave'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Pixy vyzývá Mlynáře k používání standardů ve státním softwaru.
 - Proprietární formáty omezují komunikaci občanů se státní správou.

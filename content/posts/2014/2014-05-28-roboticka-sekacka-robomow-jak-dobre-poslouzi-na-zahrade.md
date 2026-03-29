@@ -4,7 +4,6 @@ slug: 'roboticka-sekacka-robomow-jak-dobre-poslouzi-na-zahrade'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Robomow RC306 je efektivní robotická sekačka pro zahrady do 600 m2.
 - Sekačka využívá mulčování, čímž trávník hnojí a udržuje jej stále posekaný.

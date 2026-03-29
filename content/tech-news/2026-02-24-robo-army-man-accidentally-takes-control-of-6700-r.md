@@ -18,7 +18,7 @@ source:
   name: Breitbart News
 title: 'Robo armáda: Muž náhodně ovládl přes 6700 robotických vysavačů po celém světě
   při úpravě svého vlastního'
-url: https://www.breitbart.com/tech/2026/02/24/robo-army-man-accidentally-takes-control-of-6700-robot-vacuums-worldwide-while-hacking-his-own/
+source_url: https://www.breitbart.com/tech/2026/02/24/robo-army-man-accidentally-takes-control-of-6700-robot-vacuums-worldwide-while-hacking-his-own/
 urlToImage: https://media.breitbart.com/media/2026/02/DJI-Romo-robot-vacuum-640x335.jpg
 urlToImageBackup: https://media.breitbart.com/media/2026/02/DJI-Romo-robot-vacuum-640x335.jpg
 ---

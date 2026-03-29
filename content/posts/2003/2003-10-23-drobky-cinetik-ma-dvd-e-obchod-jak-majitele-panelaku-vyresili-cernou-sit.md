@@ -4,7 +4,6 @@ slug: 'drobky-cinetik-ma-dvd-e-obchod-jak-majitele-panelaku-vyresili-cernou-sit'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Krušné hory navštíveny, autor v polobotkách prošel tři hrady.
 - Cinetik testuje internetový obchod s DVD, například Matrix Reloaded.

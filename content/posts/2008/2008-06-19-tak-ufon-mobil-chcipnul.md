@@ -8,7 +8,6 @@ categories:
 - CDMA
 
   '
-published: true
 summary_points:
 - Ufon mobil má nefunkční klávesu Menu po 24 hodinách používání.
 - Telefon se v metru nepodařilo odblokovat kvůli nefunkční klávese.

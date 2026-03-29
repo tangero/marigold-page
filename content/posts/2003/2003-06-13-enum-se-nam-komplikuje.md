@@ -4,7 +4,6 @@ slug: 'enum-se-nam-komplikuje'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - ČTÚ nechce delegovat doménu 0.2.4.e164.arpa pro eNUM v ČR.
 - Delegace domény je blokována ČTÚ, což brání implementaci eNUM.

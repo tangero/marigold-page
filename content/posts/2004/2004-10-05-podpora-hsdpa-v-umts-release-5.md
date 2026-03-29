@@ -8,7 +8,6 @@ categories:
 - Turboúvod do mobilních sítí
 
   '
-published: true
 summary_points:
 - HSDPA upgrade UMTS sítí je teoreticky jednoduchý, sdílí zdroje a vyžaduje úpravy
   NodeB.

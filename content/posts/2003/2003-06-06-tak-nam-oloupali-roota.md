@@ -4,7 +4,6 @@ slug: 'tak-nam-oloupali-roota'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Root.cz byl ráno napaden a hlavní stránka byla změněna.
 - Webová stránka Root.cz je momentálně nedostupná.

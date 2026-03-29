@@ -4,7 +4,6 @@ slug: 'spam-prorazil-az-na-titulku'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Spam pronikl na titulní stránku Marigolda, autor nechápe jeho současnou podobu.
 - WordPress je odzkoušený, ale autor se zdráhá k němu přejít z Blog:CMS.

@@ -4,7 +4,6 @@ slug: 'betaverze-noveho-marigolda'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Web Marigold po migraci na Wordpress čeká nový design, autor jej sám vytvořil.
 - Autor plánuje přesun serverů Marigold na vlastní hardware, konkrétně na Mac Mini.

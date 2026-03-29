@@ -4,7 +4,6 @@ slug: 'treti-dil-serialu-rychle-na-internet'
 author: Noname
 
   '
-published: true
 summary_points:
 - ADSL je téma třetího dílu seriálu Rychle na Internet.
 - Mapy dostupnosti ADSL operátorů a cenové srovnání jsou součástí článku.

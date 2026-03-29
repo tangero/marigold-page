@@ -4,7 +4,6 @@ slug: 'tarif-kde-jsou-sms-zdarma-v-dansku-telia-xpress'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Telia Xpress je dánský mobilní tarif od Telia zaměřený na mladé.
 - SMS zprávy jsou v tarifu Telia Xpress neomezeně a zdarma.

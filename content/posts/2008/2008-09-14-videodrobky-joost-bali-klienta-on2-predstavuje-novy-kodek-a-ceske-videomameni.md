@@ -6,7 +6,6 @@ categories:
 - Video
 
   '
-published: true
 summary_points:
 - Joost ruší specializovaného klienta pro P2P televizi, bude fungovat jen plugin.
 - VP8 kodek od On2 slibuje lepší kompresi než VC-1 a H.264.

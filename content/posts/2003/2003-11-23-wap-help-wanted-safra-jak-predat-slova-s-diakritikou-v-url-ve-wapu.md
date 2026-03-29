@@ -4,7 +4,6 @@ slug: 'wap-help-wanted-safra-jak-predat-slova-s-diakritikou-v-url-ve-wapu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WAP vyhledávání hotspotů se ukázalo složitější, než autor čekal.
 - Diakritika v URL parametru "mesto" způsobuje chybu formátování URL.

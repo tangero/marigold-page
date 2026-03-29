@@ -4,7 +4,6 @@ slug: 'energeticky-horke-leto-a-tablet-pro-dum'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Energomonitor hledá investora, což vyžaduje kategorizaci a finanční ohodnocení dosavadní
   práce.

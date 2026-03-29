@@ -4,7 +4,6 @@ slug: 'umts-starty-odlisne-je-chape-t-mobile-i-vodafone'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - T-Mobile UMTS telefony prakticky neprodává, nabízí jen UMTS/GPRS kartu s rychlostí
   384 Kb/s.

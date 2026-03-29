@@ -6,7 +6,6 @@ categories:
 - Startupy
 
   '
-published: true
 summary_points:
 - FriendFeed spustili v roce 2007 bývalí zaměstnanci Googlu a získali investici 5
   milionů dolarů.

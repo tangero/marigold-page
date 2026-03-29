@@ -4,7 +4,6 @@ slug: 'fring-voip-pro-3g-mobily-via-skype-a-google-talk'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Fring je VoIP klient pro mobilní telefony se Symbianem a S60 Release 2.
 - Fring využívá existující služby Skype a Google Talk pro VoIP hovory.

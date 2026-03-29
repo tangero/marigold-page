@@ -4,7 +4,6 @@ slug: '3g-tyden-pry-jsou-pred-rozmachem'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - GSM kongres a souboj šéfů Vodafone a T-Mobile dominovaly 3G událostem týdne.
 - Vodafone spustil UMTS sítě v sedmi zemích, ale pouze jako datovou službu.

@@ -4,7 +4,6 @@ slug: 'drobky-wireless-broadband-access-task-force-server-o-techno-hodinkach-rec
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - FCC hledá volné frekvence pro licencované i nelicencované spektrum.
 - Wifionline.net publikoval českou recenzi na DLink DWL 900+.

@@ -17,7 +17,7 @@ source:
   id: null
   name: Annielytics.com
 title: Oddaluje se OpenAI záměrně od bezpečnosti?
-url: https://www.annielytics.com/blog/ai/is-openai-intentionally-distancing-itself-from-safety/
+source_url: https://www.annielytics.com/blog/ai/is-openai-intentionally-distancing-itself-from-safety/
 urlToImage: https://www.annielytics.com/wp-content/uploads/2026/02/openai-safety-feature-1024x647.png
 urlToImageBackup: https://www.annielytics.com/wp-content/uploads/2026/02/openai-safety-feature-1024x647.png
 ---

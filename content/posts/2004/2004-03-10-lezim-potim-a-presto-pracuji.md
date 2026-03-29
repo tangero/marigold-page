@@ -4,7 +4,6 @@ slug: 'lezim-potim-a-presto-pracuji'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Horečka ustupuje, autor doma léčí čajem a acylpirinem, pracuje z postele.
 - Autor dokončil dvě zakyslé smlouvy, i přes "vykašlaný" hlas při jednání.

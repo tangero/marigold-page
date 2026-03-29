@@ -4,7 +4,6 @@ slug: 'docasne-jsem-zrusil-trackback'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Trackback na Marigoldovi dočasně zrušen kvůli spamu.
 - Spam převýšil běžné používání trackback funkce.

@@ -4,7 +4,6 @@ slug: 'inway-prodan-dial-telecomu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - InWay, pražský telekomunikační operátor, byl prodán společnosti Dial Telecom.
 - PPF byla majoritním vlastníkem společnosti InWay.

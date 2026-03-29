@@ -4,7 +4,6 @@ slug: 'znalost-je-na-nic-skola-ma-naucit-obsluhu-wikipedie-ne'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Karlův most měří přibližně 516 metrů, přesná délka není klíčová.
 - Test psychologického profilu hodnotí schopnost odhadu, ne přesné znalosti.

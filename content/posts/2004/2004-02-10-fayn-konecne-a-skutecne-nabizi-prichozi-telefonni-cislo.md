@@ -4,7 +4,6 @@ slug: 'fayn-konecne-a-skutecne-nabizi-prichozi-telefonni-cislo'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Fayn nabízí příchozí telefonní čísla do své VoIP sítě, zpoplatněná jako volání v
   ČR.

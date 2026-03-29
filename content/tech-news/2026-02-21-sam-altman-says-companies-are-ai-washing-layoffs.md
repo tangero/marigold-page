@@ -18,7 +18,7 @@ source:
   id: null
   name: Gizmodo.com
 title: 'Sam Altman: Firmy používají AI jako záminku pro propouštění zaměstnanců'
-url: https://gizmodo.com/sam-altman-says-companies-are-ai-washing-layoffs-2000724759
+source_url: https://gizmodo.com/sam-altman-says-companies-are-ai-washing-layoffs-2000724759
 urlToImage: https://gizmodo.com/app/uploads/2026/02/sam-altman-openAI-1200x675.jpg
 urlToImageBackup: https://gizmodo.com/app/uploads/2026/02/sam-altman-openAI-1200x675.jpg
 ---

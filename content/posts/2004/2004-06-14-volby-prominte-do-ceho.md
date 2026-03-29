@@ -4,7 +4,6 @@ slug: 'volby-prominte-do-ceho'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Volby nebyly navštíveny kvůli nedostatku kvalitních kandidátů.
 - Předvolební spoty stran byly nekvalitní a bez konkrétního programu.

@@ -4,7 +4,6 @@ slug: 'samsung-predstavuje-dva-nove-mobily'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Samsung představí v Cannes dva nové mobily, D410 a Z105.
 - D410 je vysunovací telefon pro GSM sítě.

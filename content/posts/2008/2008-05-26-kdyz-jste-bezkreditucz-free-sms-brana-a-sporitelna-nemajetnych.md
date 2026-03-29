@@ -7,7 +7,6 @@ categories:
 - SMS
 
   '
-published: true
 summary_points:
 - Bezkreditu.cz je esemesková brána zdarma s originálním designem a morseovkou.
 - O2 web Bezkreditu.cz využívá k propagaci výhod tarifů oproti předplaceným kartám.

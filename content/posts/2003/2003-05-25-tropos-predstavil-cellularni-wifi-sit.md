@@ -4,7 +4,6 @@ slug: 'tropos-predstavil-cellularni-wifi-sit'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Tropos Networks představila cellulární WiFi síť s třívrstvou architekturou.
 - Systém Tropos Sphere NOS automaticky optimalizuje trasy a snadno se spravuje.

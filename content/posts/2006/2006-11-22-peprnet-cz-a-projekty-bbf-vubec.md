@@ -4,7 +4,6 @@ slug: 'peprnet-cz-a-projekty-bbf-vubec'
 author: Noname
 
   '
-published: true
 summary_points:
 - Noname, člen BBF, reaguje na kritiku Peprnet.cz a porušování autorského zákona.
 - MIČR nerespektovalo doporučení BBF a schválilo projekty umístěné "pod čarou".

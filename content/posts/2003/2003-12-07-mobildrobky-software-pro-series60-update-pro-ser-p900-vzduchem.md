@@ -4,7 +4,6 @@ slug: 'mobildrobky-software-pro-series60-update-pro-ser-p900-vzduchem'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Visual Communicator, Push To Talk aplikace pro Series 60, je dostupná na Handango
   za 10 USD.

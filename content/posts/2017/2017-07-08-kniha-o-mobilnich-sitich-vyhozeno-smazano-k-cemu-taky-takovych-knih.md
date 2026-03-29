@@ -2,7 +2,6 @@
 slug: 'kniha-o-mobilnich-sitich-vyhozeno-smazano-k-cemu-taky-takovych-knih'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - Kniha o mobilních sítích byla téměř dokončena, ale chyběly některé kapitoly.
 - Autor ji smazal, protože cíloví čtenáři už nejsou technologií nadšeni.

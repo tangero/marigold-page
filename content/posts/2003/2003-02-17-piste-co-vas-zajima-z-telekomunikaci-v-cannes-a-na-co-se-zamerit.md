@@ -4,7 +4,6 @@ slug: 'piste-co-vas-zajima-z-telekomunikaci-v-cannes-a-na-co-se-zamerit'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Cannes hostí 3GSM kongres, který určuje směr mobilních sítí.
 - Jan Marigold žádá o zaslání témat k prozkoumání na kongresu.

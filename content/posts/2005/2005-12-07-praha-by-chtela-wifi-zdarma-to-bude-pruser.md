@@ -4,7 +4,6 @@ slug: 'praha-by-chtela-wifi-zdarma-to-bude-pruser'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Praha plánuje celoplošnou WiFi zdarma za 150 milionů Kč.
 - Projekt ohrožuje existující poskytovatele internetu a vyžaduje odškodnění.

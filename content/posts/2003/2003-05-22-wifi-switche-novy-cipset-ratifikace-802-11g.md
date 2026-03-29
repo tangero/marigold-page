@@ -4,7 +4,6 @@ slug: 'wifi-switche-novy-cipset-ratifikace-802-11g'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WiFi switche nabízejí zabezpečení, řízení zatížení a roaming pro firemní WiFi.
 - Ratifikace 802.11g specifikace je plánována na 12. června firmou Broadcom.

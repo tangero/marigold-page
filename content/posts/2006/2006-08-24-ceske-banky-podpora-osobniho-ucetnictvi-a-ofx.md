@@ -4,7 +4,6 @@ slug: 'ceske-banky-podpora-osobniho-ucetnictvi-a-ofx'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor analyzuje domácí výdaje pomocí home-accounting softwaru.
 - eBanka nepodporuje export dat do textového souboru, ani OFX.

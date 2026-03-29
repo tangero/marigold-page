@@ -4,7 +4,6 @@ slug: 'oskar-se-snad-konecne-dokope-ke-snizeni-cen-gprs'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Oskar sníží ceny GPRS Basic na úroveň GPRS Standard, ale bez paušálu.
 - GPRS Standard u Oskara nově nabídne 5 MB dat místo dosavadního 1 MB.

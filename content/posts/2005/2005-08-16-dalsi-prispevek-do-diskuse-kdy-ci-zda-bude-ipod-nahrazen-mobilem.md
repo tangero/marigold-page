@@ -4,7 +4,6 @@ slug: 'dalsi-prispevek-do-diskuse-kdy-ci-zda-bude-ipod-nahrazen-mobilem'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - iPod má výrazně lepší uživatelské ovládání než MP3 telefony dle Strategy Analytics.
 - MP3 telefony často nemají vyhrazené klávesy a neumí přehrávat hudbu a pracovat současně.

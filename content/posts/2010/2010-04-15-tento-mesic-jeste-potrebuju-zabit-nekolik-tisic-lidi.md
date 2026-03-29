@@ -6,7 +6,6 @@ categories:
 - Knihy
 
   '
-published: true
 summary_points:
 - Autor psal "Příběh strýčka Martina" inspirován raným přemyslovským státem.
 - Příběh kombinuje hledání ztraceného strýčka s historickými událostmi.

@@ -4,7 +4,6 @@ slug: 'telsource-chce-prodat-podil-v-telecomu-na-burze'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - TelSource hledá kupce na svůj 27% podíl v Českém Telecomu.
 - Podíl TelSource má tržní hodnotu téměř miliardy eur.

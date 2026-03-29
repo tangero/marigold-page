@@ -4,7 +4,6 @@ slug: 'vlastni-web-s-publikacnim-systemem-za-10-minut-a-zdarma'
 author: Noname
 
   '
-published: true
 summary_points:
 - Webové stránky lze tvořit jednoduše pomocí publikačního systému s administračním
   rozhraním.

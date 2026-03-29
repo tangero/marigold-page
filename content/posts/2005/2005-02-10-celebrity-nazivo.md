@@ -4,7 +4,6 @@ slug: 'celebrity-nazivo'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - Denisa Kera přednáší 11.2.2005 na konferenci o nových technologiích a humanitních
   vědách.

@@ -4,7 +4,6 @@ slug: 'zigbee-dalsi-technologie-v-pasmu-2-4-ghz'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - ZigBee je radiová technologie pro dálkové ovládání s vysokou odolností a bezpečností.
 - ZigBee se používá pro propojení zabezpečovacích prvků a dálkové ovladače elektroniky.

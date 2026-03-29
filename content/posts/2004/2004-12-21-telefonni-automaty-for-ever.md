@@ -4,7 +4,6 @@ slug: 'telefonni-automaty-for-ever'
 author: Noname
 
   '
-published: true
 summary_points:
 - Autor očekával, že Patrick bude psát místo něj od včerejška.
 - Zpráva ČTK uvádí povinné úpravy telefonních automatů pro handicapované.

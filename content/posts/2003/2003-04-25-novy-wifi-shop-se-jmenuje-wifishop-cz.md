@@ -4,7 +4,6 @@ slug: 'novy-wifi-shop-se-jmenuje-wifishop-cz'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Vanco.Net spustil WiFi shop wifi-shop.cz s potřebami pro síťaře.
 - Vanco.Net má výhodu skladové dostupnosti díky vlastní výstavbě sítí.

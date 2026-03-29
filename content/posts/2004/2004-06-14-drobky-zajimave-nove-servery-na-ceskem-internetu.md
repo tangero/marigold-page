@@ -4,7 +4,6 @@ slug: 'drobky-zajimave-nove-servery-na-ceskem-internetu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Bluejacking.cz je české diskusní fórum o bluejackingu.
 - Blog:CMS je nový blogovací systém Radka Hulána s webem blogcms.com.

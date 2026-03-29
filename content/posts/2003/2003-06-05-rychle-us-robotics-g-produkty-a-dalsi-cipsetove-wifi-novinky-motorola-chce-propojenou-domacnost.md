@@ -4,7 +4,6 @@ slug: 'rychle-us-robotics-g-produkty-a-dalsi-cipsetove-wifi-novinky-motorola-chc
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - US Robotics dosahuje reálné rychlosti 22-25 Mbps s 802.11g a chystá Accelerator
   Technology.

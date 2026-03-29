@@ -4,7 +4,6 @@ slug: 'privatfilm-je-konecne-na-svete'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Cinetik spustil PrivatFilm, online půjčovnu erotických filmů, kvůli nespokojenosti
   zákazníků.

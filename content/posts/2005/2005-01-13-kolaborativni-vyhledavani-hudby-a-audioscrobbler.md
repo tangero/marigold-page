@@ -4,7 +4,6 @@ slug: 'kolaborativni-vyhledavani-hudby-a-audioscrobbler'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Lupa publikovala článek o kolaborativním vyhledávání hudby a AudioScrobbleru.
 - AudioScrobbler doporučuje hudbu na základě sledování uživatelových poslechových

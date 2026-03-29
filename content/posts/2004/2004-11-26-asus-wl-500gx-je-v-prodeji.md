@@ -4,7 +4,6 @@ slug: 'asus-wl-500gx-je-v-prodeji'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Asus WL-500GX má dva USB 2.0 porty pro připojení pevných disků.
 - WiFi router Asus WL-500GX je běžně vybavený pro domácí použití.

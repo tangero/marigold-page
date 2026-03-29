@@ -4,7 +4,6 @@ slug: 'pruzkum-vyuzivani-bezdratovych-siti'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Průzkum zkoumá využití bezdrátových sítí, datových přenosů a jejich klientelu.
 - Průzkum se zaměřuje na potenciál rozvoje služeb založených na bezdrátových sítích.

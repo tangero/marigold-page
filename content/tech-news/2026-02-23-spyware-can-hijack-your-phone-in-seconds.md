@@ -15,7 +15,7 @@ source:
   id: fox-news
   name: Fox News
 title: Spyware dokáže převzít váš telefon během sekund
-url: https://www.foxnews.com/tech/spyware-can-hijack-your-phone-seconds
+source_url: https://www.foxnews.com/tech/spyware-can-hijack-your-phone-seconds
 urlToImage: https://static.foxnews.com/foxnews.com/content/uploads/2026/02/man-with-airpods-on-phone.jpg
 urlToImageBackup: https://static.foxnews.com/foxnews.com/content/uploads/2026/02/man-with-airpods-on-phone.jpg
 ---

@@ -4,7 +4,6 @@ slug: '3g-standardy-neni-jen-umts'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - UMTS je pouze jeden z několika existujících 3G mobilních systémů.
 - ITU standard IMT-2000 zahrnuje technicky odlišné 3G standardy.

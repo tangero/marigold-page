@@ -4,7 +4,6 @@ slug: 'za-update-systemu-apple-se-neplati-nenechte-se-balamutit'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Mac OS X generace značí zásadní změny, verze mají kódová jména (např. Leopard).
 - Apple vydává zdarma aktualizace (update) systému, nové verze (např. Leopard) jsou

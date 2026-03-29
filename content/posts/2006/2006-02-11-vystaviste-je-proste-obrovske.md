@@ -4,7 +4,6 @@ slug: 'vystaviste-je-proste-obrovske'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Barcelona nabízí turistickou autobusovou linku s denním lístkem pro pohodlné cestování.
 - Fira di Barcelona je obrovské výstaviště, odhadem dvojnásobek oproti Cannes.

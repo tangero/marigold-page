@@ -4,7 +4,6 @@ slug: 'satelitni-wifi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Hughes nabízí DirecWay satelitní internet pro WiFi hotspoty v kempech a parcích.
 - DirecWay má pokrytí v USA a Evropě, ale v Evropě je drahá instalace a latence.

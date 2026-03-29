@@ -4,7 +4,6 @@ slug: 'bezdratovepripojeni-cz-wifi-site-k-vyberu-po-cele-cr'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - BezdratovePripojeni.cz cílí na nejaktuálnější katalog bezdrátového připojení v ČR.
 - Služba chce individuálně komunikovat se zákazníky a finančně podporovat rozvoj sítí.

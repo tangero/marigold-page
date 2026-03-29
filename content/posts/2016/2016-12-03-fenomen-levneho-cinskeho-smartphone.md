@@ -4,7 +4,6 @@ slug: 'fenomen-levneho-cinskeho-smartphone'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Čínské smartphony dobyly trh, překonávají předsudky o kvalitě.
 - Čína má obrovský trh s 800 miliony uživatelů smartphonů.

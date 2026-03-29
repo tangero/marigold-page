@@ -4,7 +4,6 @@ slug: 'prvni-cesky-podcast-cesky-rozhlas'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Český Rozhlas má první podcast díky Danielu Pedérovi, nikoliv samotnému ČRo.
 - Pořady Českého Rozhlasu lze stahovat jako podcast pomocí specifického RSS.

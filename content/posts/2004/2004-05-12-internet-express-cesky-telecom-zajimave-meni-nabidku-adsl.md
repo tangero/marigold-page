@@ -4,7 +4,6 @@ slug: 'internet-express-cesky-telecom-zajimave-meni-nabidku-adsl'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - ADSL 512/128 Kbps s hlasovou službou stojí 999 Kč bez DPH dva měsíce.
 - Eurotel nabízí služby Telecomu ve svých 84 prodejnách a naopak.

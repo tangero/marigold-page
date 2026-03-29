@@ -4,7 +4,6 @@ slug: 'kterak-uzasne-usetriti-na-pocitacich-a-operacnim-systemu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Linux nešel nabootovat na starých Compaq počítačích kvůli problémům s řadičem.
 - BeOS 4.5 se podařilo nainstalovat, ale nepodporoval vestavěnou síťovou kartu.

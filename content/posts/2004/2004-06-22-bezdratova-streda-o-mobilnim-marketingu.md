@@ -4,7 +4,6 @@ slug: 'bezdratova-streda-o-mobilnim-marketingu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Bezdrátová středa zítra se zaměří na mobilní marketing.
 - Moderátorem akce bude pravděpodobně stejná osoba jako minule.

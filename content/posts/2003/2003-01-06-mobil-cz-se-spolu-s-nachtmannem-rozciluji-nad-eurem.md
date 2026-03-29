@@ -4,7 +4,6 @@ slug: 'mobil-cz-se-spolu-s-nachtmannem-rozciluji-nad-eurem'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Euro časopis článek o CzFree.Netu dosud nevyšel.
 - Petr Nachtmann kritizuje připravovaný článek v Euro časopise.

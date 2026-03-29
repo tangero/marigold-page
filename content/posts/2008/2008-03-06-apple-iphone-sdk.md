@@ -7,7 +7,6 @@ categories:
 - iPhone
 
   '
-published: true
 summary_points:
 - iPhone SDK bude dnes uvolněn, zpřístupní vývojářům Cocoa Touch framework.
 - Firemní fičury přinesou podporu Microsoft Exchange, ActiveSync a Cisco IPsec VPN.

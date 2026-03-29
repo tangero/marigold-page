@@ -4,7 +4,6 @@ slug: 'dnesni-momentky-s-clanky-a-vinotekou'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Lupa dnes zveřejnila článek o Pipay.cz a autorův článek o výdělečnosti serverů.
 - Chronomag slaví první výročí a dokazuje, že nové weby mohou být ziskové.

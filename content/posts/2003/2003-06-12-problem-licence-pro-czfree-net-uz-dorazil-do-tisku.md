@@ -4,7 +4,6 @@ slug: 'problem-licence-pro-czfree-net-uz-dorazil-do-tisku'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - CZFree.Net možná potřebuje licenci ČTÚ pro poskytování telekomunikačních služeb.
 - Licence ČTÚ je spojena s vysokým poplatkem, což vyvolalo online diskusi.

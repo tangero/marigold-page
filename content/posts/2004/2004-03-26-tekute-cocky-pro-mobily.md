@@ -4,7 +4,6 @@ slug: 'tekute-cocky-pro-mobily'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Philips představil na CeBITu tekuté čočky pro mobilní fotoaparáty s automatickým
   zaostřováním.

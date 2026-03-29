@@ -7,7 +7,6 @@ categories:
 - eBook
 
   '
-published: true
 summary_points:
 - Marigoldí léta, pětiletý souhrn blogu, byla původně zamýšlena jako samopublikace.
 - PDF Marigoldích let nebylo vhodné ke čtení, proto autor oslovil Palmknihy.

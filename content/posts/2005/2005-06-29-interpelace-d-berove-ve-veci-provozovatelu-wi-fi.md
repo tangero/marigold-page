@@ -4,7 +4,6 @@ slug: 'interpelace-d-berove-ve-veci-provozovatelu-wi-fi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Novotný (ODS) interpeloval Bérovou ohledně návrhu úprav WiFi pásem od ČTÚ.
 - Bérová odkazuje s připomínkami k WiFi pásmům přímo na ČTÚ.

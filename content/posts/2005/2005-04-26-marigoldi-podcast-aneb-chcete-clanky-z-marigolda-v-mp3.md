@@ -4,7 +4,6 @@ slug: 'marigoldi-podcast-aneb-chcete-clanky-z-marigolda-v-mp3'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Marigold spouští podcast s články načítanými počítačem, konkrétně open-source programem
   Epos.

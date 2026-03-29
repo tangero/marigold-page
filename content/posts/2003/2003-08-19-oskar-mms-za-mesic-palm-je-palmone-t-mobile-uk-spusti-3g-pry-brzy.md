@@ -4,7 +4,6 @@ slug: 'oskar-mms-za-mesic-palm-je-palmone-t-mobile-uk-spusti-3g-pry-brzy'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Oskar spustí MMS službu 15. září, cena pravděpodobně pět korun.
 - Palm přejmenoval hardware divizi na PalmOne, softwarová divize PalmSource.

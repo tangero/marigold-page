@@ -4,7 +4,6 @@ slug: 'steve-ballmer-ma-svoji-show'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Steve Ballmer zahájil projev na kongresu zmínkou o svém videu a lásce k Microsoftu.
 - Sál byl přeplněný diváky, kteří seděli i na schodech.

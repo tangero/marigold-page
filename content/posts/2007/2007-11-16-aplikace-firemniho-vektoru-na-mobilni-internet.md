@@ -4,7 +4,6 @@ slug: 'aplikace-firemniho-vektoru-na-mobilni-internet'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - O2 nabízí zdarma přístup na mobilní portál O2 Active, s výjimkou stahování a erotiky.
 - Mobilní operátoři nejsou jednotlivci, ale komplexní síly ovlivňující firemní strategie

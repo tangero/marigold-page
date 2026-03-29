@@ -4,7 +4,6 @@ slug: 'bbc-slizava-pochvalu-za-nasazeni-foto-mobilu-do-zpravodajstvi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - BBC vybavila reportéry telefony pro posílání fotek a videí přímo z terénu.
 - Forbes chválil BBC za rychlé pokrytí nehody autobusu díky mobilnímu reportérovi.

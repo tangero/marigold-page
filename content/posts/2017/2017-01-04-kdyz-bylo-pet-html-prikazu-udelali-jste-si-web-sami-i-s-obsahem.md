@@ -2,7 +2,6 @@
 slug: 'kdyz-bylo-pet-html-prikazu-udelali-jste-si-web-sami-i-s-obsahem'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - Před 20 lety stačilo znát pět HTML příkazů pro tvorbu webu.
 - Dnes je tvorba webů složitější, vyžaduje šablony a nástroje.

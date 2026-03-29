@@ -18,7 +18,7 @@ source:
   name: Livemint
 title: Používá ChatGPT 17 galonů vody na každý dotaz? Sam Altman toto virální tvrzení
   označil za „úplně šílené“
-url: https://www.livemint.com/companies/news/is-chatgpt-using-17-gallons-of-water-for-every-query-sam-altman-calls-viral-claim-totally-insane-11771900303976.html
+source_url: https://www.livemint.com/companies/news/is-chatgpt-using-17-gallons-of-water-for-every-query-sam-altman-calls-viral-claim-totally-insane-11771900303976.html
 urlToImage: https://www.livemint.com/lm-img/img/2026/02/24/1600x900/logo/ANI-20260220045-0_1771905385403_1771905393945.jpg
 urlToImageBackup: https://www.livemint.com/lm-img/img/2026/02/24/1600x900/logo/ANI-20260220045-0_1771905385403_1771905393945.jpg
 ---

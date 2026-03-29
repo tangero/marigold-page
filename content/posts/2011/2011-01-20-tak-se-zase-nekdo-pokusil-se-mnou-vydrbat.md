@@ -6,7 +6,6 @@ categories:
 - Příběhy
 
   '
-published: true
 summary_points:
 - Pozemky majitele obhospodařují zemědělci bez jeho aktivního dohledu a nároku na
   výnos.

@@ -4,7 +4,6 @@ slug: 'jeden-z-nejvetsich-pribehu-lidstva-se-prave-uzavrel-2'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Harry Potter 7, Deathly Hallows, se začal prodávat o půlnoci.
 - Autor koupil knihu v sobotu a bude ji číst dcerám.

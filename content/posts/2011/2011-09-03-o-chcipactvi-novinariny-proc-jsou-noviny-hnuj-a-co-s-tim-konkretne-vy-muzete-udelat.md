@@ -6,7 +6,6 @@ categories:
 - Média
 
   '
-published: true
 summary_points:
 - Kritika novinářů je běžná, ale stejné nedostatky má celá společnost.
 - Média šetří kvůli krizi, což vede k povrchnosti a bulvarizaci obsahu.

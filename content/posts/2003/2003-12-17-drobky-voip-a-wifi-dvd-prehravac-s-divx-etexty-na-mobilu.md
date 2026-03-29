@@ -4,7 +4,6 @@ slug: 'drobky-voip-a-wifi-dvd-prehravac-s-divx-etexty-na-mobilu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WiFi VoIP čeká na specifikaci 802.11e s QoS pro spolehlivý přenos.
 - Yamada DVX 6000 je DVD přehrávač, který údajně dobře přehrává DivX.

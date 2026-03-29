@@ -4,7 +4,6 @@ slug: 'sms-kamkoliv-zdarma-s-jdemenapivo'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Budějovický Budvar spustil SMS bránu zdarma pro všechny sítě.
 - SMS zprávy mají limit 144 znaků a obsahují reklamu Budvaru.

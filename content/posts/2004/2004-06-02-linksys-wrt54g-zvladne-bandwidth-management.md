@@ -4,7 +4,6 @@ slug: 'linksys-wrt54g-zvladne-bandwidth-management'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Sveasoft vydal firmware pro Linksys WRT54G s řízením rychlosti uživatelů.
 - Firmware se instaluje přes web administraci a přidává nové funkce.

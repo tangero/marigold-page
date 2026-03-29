@@ -4,7 +4,6 @@ slug: 'hodina-pysnych-otcu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Vanda, nejstarší dcera, se pochlubila samými jedničkami na prvním celoročním vysvědčení.
 - Otec vzpomíná na starší fotografie Vandy a uvědomuje si, jak rychle čas letí.

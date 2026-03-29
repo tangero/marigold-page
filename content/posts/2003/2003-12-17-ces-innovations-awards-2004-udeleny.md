@@ -4,7 +4,6 @@ slug: 'ces-innovations-awards-2004-udeleny'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - CES Innovations Awards 2004 vyhlásila nejinovativnější spotřební elektroniku.
 - ArrowVision Fingerprint Doorlock je zámek ovládaný otiskem prstu.

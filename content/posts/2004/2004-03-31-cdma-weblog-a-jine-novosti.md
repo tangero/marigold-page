@@ -4,7 +4,6 @@ slug: 'cdma-weblog-a-jine-novosti'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - IT Security konference bude obsahovat přednášku o bezpečnosti bezdrátových sítí.
 - Mobilní hry budou tématem panelu moderovaného na Bezdrátové středě za dva týdny.

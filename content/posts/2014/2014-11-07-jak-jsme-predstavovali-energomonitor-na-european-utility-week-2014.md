@@ -4,7 +4,6 @@ slug: 'jak-jsme-predstavovali-energomonitor-na-european-utility-week-2014'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Energomonitor úspěšně vystavoval na veletrhu European Utility Week 2014.
 - Roční odklad účasti se vyplatil, prezentace byla poprvé komplexní.

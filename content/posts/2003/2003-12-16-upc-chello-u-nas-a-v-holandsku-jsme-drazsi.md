@@ -4,7 +4,6 @@ slug: 'upc-chello-u-nas-a-v-holandsku-jsme-drazsi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - UPC Chello v Holandsku nabízí levnější internetové připojení než v ČR.
 - Holandské tarify Chello mají datové limity, české tarify je nemají.

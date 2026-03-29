@@ -6,7 +6,6 @@ categories:
 - Média
 
   '
-published: true
 summary_points:
 - Redakční žurnalistika neupadá kvůli nárokům čtenářů, ale kvůli opomíjení ověřování
   a kontextu informací.

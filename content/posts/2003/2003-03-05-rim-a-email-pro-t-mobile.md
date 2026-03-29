@@ -4,7 +4,6 @@ slug: 'rim-a-email-pro-t-mobile'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - RIM a T-Mobile spolupracují na mobilním emailu, zařízení BlackBerry pro GSM/GPRS
   síť.

@@ -4,7 +4,6 @@ slug: 'bezdratove-site-v-pasmu-120-ghz'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - NTT DoCoMo zkoumala volné frekvence nad 100 GHz pro nové sítě.
 - Pásmo 116-130 GHz o šířce 14 GHz bylo nalezeno jako potenciálně vhodné.

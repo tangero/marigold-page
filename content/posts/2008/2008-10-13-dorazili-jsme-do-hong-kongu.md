@@ -7,7 +7,6 @@ categories:
 - Příběhy
 
   '
-published: true
 summary_points:
 - Hong Kong internet je drahý, denní připojení stojí 40 Kč.
 - Smog v Hong Kongu snižuje viditelnost mrakodrapů.

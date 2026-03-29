@@ -4,7 +4,6 @@ slug: 'jak-na-zahranicni-svatby'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Svatba známého bude v exotické destinaci a hledají agenturu.
 - Larmouria je jediná agentura pro svatby v zahraničí, kterou našli.

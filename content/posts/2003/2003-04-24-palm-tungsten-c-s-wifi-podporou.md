@@ -4,7 +4,6 @@ slug: 'palm-tungsten-c-s-wifi-podporou'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Tungsten C od Palmu má WiFi 802.11b, 64 MB RAM a 400 MHz procesor.
 - Cena Tungsten C je 500 USD a má hires podporu.

@@ -4,7 +4,6 @@ slug: 'rss-komentaru'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Komentáře na Marigold.cz byly vylepšeny a je na nich pracováno.
 - RSS zdroj komentářů Marigold je dostupný na http://www.marigold.cz/win/komentare_rss.html.

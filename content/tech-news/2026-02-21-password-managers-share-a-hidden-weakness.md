@@ -15,7 +15,7 @@ source:
   id: wired
   name: Wired
 title: Správci hesel sdílejí skrytou slabinu
-url: https://www.wired.com/story/security-news-this-week-password-managers-share-a-hidden-weakness/
+source_url: https://www.wired.com/story/security-news-this-week-password-managers-share-a-hidden-weakness/
 urlToImage: https://media.wired.com/photos/6998d03f68f921f5e6a08ece/191:100/w_1280,c_limit/sec-pw-managers-2187086214.jpg
 urlToImageBackup: https://media.wired.com/photos/6998d03f68f921f5e6a08ece/191:100/w_1280,c_limit/sec-pw-managers-2187086214.jpg
 ---

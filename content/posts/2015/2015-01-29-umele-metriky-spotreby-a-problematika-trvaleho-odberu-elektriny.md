@@ -4,7 +4,6 @@ slug: 'umele-metriky-spotreby-a-problematika-trvaleho-odberu-elektriny'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Energomonitor řeší problém identifikace a vysvětlení zbytečných výdajů za energie.
 - Trvalá spotřeba definována jako nejnižší průběžná spotřeba elektřiny, často zbytečná.

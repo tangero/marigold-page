@@ -4,7 +4,6 @@ slug: 'flotila-zeme-vyjde-v-dubnu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Kniha Flotila vyjde v dubnu 2006 jako příloha časopisu Pevnost.
 - Prodej Flotily s Pevností bude cenově srovnatelný s pozdějším volným prodejem.

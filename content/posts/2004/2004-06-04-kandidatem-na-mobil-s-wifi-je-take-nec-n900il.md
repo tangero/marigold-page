@@ -4,7 +4,6 @@ slug: 'kandidatem-na-mobil-s-wifi-je-take-nec-n900il'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Motorola vyvíjí mobil s WiFi pro telefonování, nejen pro přístup k internetu.
 - NEC N900iL, WiFi telefon pro FOMA, se v Japonsku objeví v červenci/srpnu.

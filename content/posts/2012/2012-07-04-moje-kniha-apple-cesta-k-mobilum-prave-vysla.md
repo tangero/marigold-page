@@ -7,7 +7,6 @@ categories:
 - Apple
 
   '
-published: true
 summary_points:
 - Kniha o Apple vznikla jako reakce na nedostatečný oficiální životopis Steva Jobse.
 - Kniha se zaměřuje na novodobou historii Apple od roku 1997 a dále.

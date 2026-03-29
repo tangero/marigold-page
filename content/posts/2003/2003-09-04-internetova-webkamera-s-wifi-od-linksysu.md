@@ -4,7 +4,6 @@ slug: 'internetova-webkamera-s-wifi-od-linksysu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Linksys WVC11B je WiFi webová kamera s vlastním webovým serverem pro 4 uživatele.
 - Kamera podporuje WiFi 802.11b i RJ-45 ethernet připojení k internetu.

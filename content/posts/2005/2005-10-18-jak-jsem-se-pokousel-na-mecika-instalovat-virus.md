@@ -4,7 +4,6 @@ slug: 'jak-jsem-se-pokousel-na-mecika-instalovat-virus'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Mečík (Mac OS) uživateli ukázal frontu virů ve firemní schránce.
 - Antivir na Mečíku není nutný, albánské viry vyžadují formátování disku.

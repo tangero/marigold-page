@@ -20,7 +20,7 @@ source:
   id: null
   name: BusinessLine
 title: 'Indie usiluje o soběstačnost ve výrobě čipů: premiér Modi'
-url: https://www.thehindubusinessline.com/news/national/india-aims-for-self-reliance-in-chip-manufacturing-pm-modi/article70660783.ece
+source_url: https://www.thehindubusinessline.com/news/national/india-aims-for-self-reliance-in-chip-manufacturing-pm-modi/article70660783.ece
 urlToImage: https://bl-i.thgim.com/public/incoming/mu4y5l/article70660789.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-02-21%20at%208.50.08%20PM.jpeg
 urlToImageBackup: https://bl-i.thgim.com/public/incoming/mu4y5l/article70660789.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-02-21%20at%208.50.08%20PM.jpeg
 ---

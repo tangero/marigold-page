@@ -6,7 +6,6 @@ categories:
 - Česká pošta
 
   '
-published: true
 summary_points:
 - Česká pošta změnila systém doručování balíků, které putují do dep.
 - Depo Čertousy nedoručuje balíky, rovnou je předává brandýské pobočce.

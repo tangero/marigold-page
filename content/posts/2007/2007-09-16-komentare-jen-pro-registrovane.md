@@ -4,7 +4,6 @@ slug: 'komentare-jen-pro-registrovane'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Marigold dříve navštěvovalo málo lidí, kteří promýšleli své komentáře.
 - Autor zvažoval Marigold pouze pro registrované a pozvané čtenáře kvůli anonymitě.

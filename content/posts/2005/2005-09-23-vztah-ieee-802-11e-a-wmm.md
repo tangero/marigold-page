@@ -4,7 +4,6 @@ slug: 'vztah-ieee-802-11e-a-wmm'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - e standard pro WiFi QoS se připravoval od roku 2001.
 - WMM je podmnožina QoS funkcí 802.11e pro domácí uživatele.

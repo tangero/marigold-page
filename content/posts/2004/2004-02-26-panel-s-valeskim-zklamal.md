@@ -4,7 +4,6 @@ slug: 'panel-s-valeskim-zklamal'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Valeskiho panelová diskuze v Cannes byla zklamáním, nedostal se ke slovu.
 - Balsillie z BlackBerry tvrdil, že vyřešili středoevropské znaky.

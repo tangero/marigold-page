@@ -2,7 +2,6 @@
 slug: 'velka-ponauceni-z-maleho-babisova-plakatu'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - Babišova akce s plakátem vyvolala reakci, která inspirovala vytvoření odpovědné
   grafiky.

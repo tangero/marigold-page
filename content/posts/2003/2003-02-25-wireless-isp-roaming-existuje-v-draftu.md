@@ -4,7 +4,6 @@ slug: 'wireless-isp-roaming-existuje-v-draftu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Wi-Fi Alliance standardizuje roaming mezi WiFi sítěmi pro snazší používání.
 - Wireless ISP roaming má standardizovat přechod mezi různými WiFi sítěmi.

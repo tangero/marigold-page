@@ -4,7 +4,6 @@ slug: 'open-mobile-terminal-platform-za-zajmy-operatoru-nebo-uzivatelu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Operátoři a výrobci mobilů mají spor o služby s přidanou hodnotou.
 - OMTP iniciativa má sjednotit ovládání mobilních telefonů napříč značkami.

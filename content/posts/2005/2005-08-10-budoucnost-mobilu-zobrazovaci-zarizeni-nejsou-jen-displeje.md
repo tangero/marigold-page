@@ -4,7 +4,6 @@ slug: 'budoucnost-mobilu-zobrazovaci-zarizeni-nejsou-jen-displeje'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Ahonen abstrahuje od technických detailů budoucího vývoje mobilních zařízení.
 - Displeje v brýlích (HMD) a virtuální retinální displeje (VRT) jsou potenciální řešení.

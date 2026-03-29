@@ -2,7 +2,6 @@
 slug: 'k-zakazu-koureni-kde-selhala-samoregulace-uderil-stat'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - Zákaz kouření je selháním samoregulace odvětví a nedostatkem dohody mezi stranami.
 - Kuřáci se cítí pronásledováni, ale ne vždy respektují nekuřáky.

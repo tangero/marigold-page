@@ -6,7 +6,6 @@ categories:
 - Knihy
 
   '
-published: true
 summary_points:
 - Marigold slaví pět let, autor se rozhodl vytisknout výběr článků jako knihu.
 - Autor vybral 80 článků z Marigolda a sázet knihu se učil v Pages.

@@ -4,7 +4,6 @@ slug: 'beng-usb-wifi-adapter-britove-s-wifi-v-hospodach-pooh-vyhlasuje-anketu-ce
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Benq USB adaptér pro WiFi se líbí recenzentovi, ale nemá WiFi certifikaci.
 - Britské puby budou vybaveny WiFi, což autor očekává i v pražských hospodách.

@@ -4,7 +4,6 @@ slug: 'energomonitor-na-euw-2016'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Energomonitor vystavuje na European Utility Week, letos s vlastním stánkem
 - Použití ekologického a skládacího demopanelu z kartonu

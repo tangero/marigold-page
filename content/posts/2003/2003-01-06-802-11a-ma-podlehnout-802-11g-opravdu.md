@@ -4,7 +4,6 @@ slug: '802-11a-ma-podlehnout-802-11g-opravdu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WiFi5 není nahrazováno WiFi-G, ale spíše doplňováno jako generační posun.
 - WiFi-G standardizace probíhá, produkty se očekávají koncem roku 2003.

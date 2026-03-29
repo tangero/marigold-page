@@ -4,7 +4,6 @@ slug: 'stav-projektu-knihy-mobilni-site-umts-lte-a-5g'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor plánuje dokončit knihu o mobilních sítích pro laiky.
 - Knihy se vyhýbá technickým detailům, které nejsou obecně zajímavé.

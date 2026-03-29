@@ -4,7 +4,6 @@ slug: 'tak-jsme-si-dali-upgrade'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Ježibaba server byl po třech letech přeinstalován Linux guru Fufou.
 - Marigold server občas shazoval, proto byla nutná reinstalace.

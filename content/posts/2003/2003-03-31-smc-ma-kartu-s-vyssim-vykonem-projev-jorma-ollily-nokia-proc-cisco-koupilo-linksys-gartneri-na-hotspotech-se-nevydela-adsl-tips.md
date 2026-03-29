@@ -4,7 +4,6 @@ slug: 'smc-ma-kartu-s-vyssim-vykonem-projev-jorma-ollily-nokia-proc-cisco-koupil
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - SMC2532W karta od SMC má dvojnásobný výkon (200mW) oproti jiným kartám.
 - Jorma Ollila (Nokia) je skeptický k 3G a vidí telekomunikace jako motor ekonomiky.

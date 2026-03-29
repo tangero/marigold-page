@@ -4,7 +4,6 @@ slug: 'wifi-pujde-s-cenou-dolu-deutsche-telekom-se-desi-ze-wifi-pobije-3g'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WiFi komponenty zlevní, což je pozitivní zpráva pro spotřebitele.
 - San Francisco má WiFi síť od T-Mobile, podobné sítě se rozšiřují.

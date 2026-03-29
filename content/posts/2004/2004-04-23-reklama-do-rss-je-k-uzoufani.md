@@ -4,7 +4,6 @@ slug: 'reklama-do-rss-je-k-uzoufani'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Moreover agreguje telekomunikační zprávy z mnoha zahraničních serverů.
 - Do RSS Moreover nově přidává reklamu na prodejce telefonů z USA.

@@ -4,7 +4,6 @@ slug: 'kamion-neni-tvuj-nepritel-je-to-smrtonosna-past'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Česmad kampaň obhajuje kamiony, čelí kritice ohledně ekologie a logistiky.
 - Logistická centra bez vleček a drahá železnice komplikují ekologickou dopravu.

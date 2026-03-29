@@ -4,7 +4,6 @@ slug: 'moje-soukrome-spam-reseni-ktere-mozna-pomuze-i-ostatnim'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Spam je problém, autor opustil adresu mobil.cz kvůli zahlcení spamem.
 - Řešení spočívá v používání "obětní" domény pro registrace na webech.

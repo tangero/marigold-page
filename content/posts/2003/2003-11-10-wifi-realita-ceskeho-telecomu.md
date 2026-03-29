@@ -4,7 +4,6 @@ slug: 'wifi-realita-ceskeho-telecomu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Telecom WiFi mělo v říjnu 2800 registrovaných účastníků, z nichž 14 % službu používalo
   pravidelně.

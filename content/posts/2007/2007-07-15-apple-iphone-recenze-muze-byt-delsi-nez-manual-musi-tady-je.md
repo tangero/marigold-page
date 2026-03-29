@@ -4,7 +4,6 @@ slug: 'apple-iphone-recenze-muze-byt-delsi-nez-manual-musi-tady-je'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - iPhone se v Česku pravděpodobně prodávat nebude, existuje jiná evropská verze.
 - iPhone zlidšťuje mobilní telefony, které jsou s rostoucím počtem funkcí obtížnější.

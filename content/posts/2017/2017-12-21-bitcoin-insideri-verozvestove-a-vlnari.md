@@ -2,7 +2,6 @@
 slug: 'bitcoin-insideri-verozvestove-a-vlnari'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - Revoluce ve finančnictví v Česku se objevila "přes noc" kolem bitcoinu.
 - 'Existují tři skupiny lidí v kryptoměnách: věrozvěstové, insideři a vlnaři.'

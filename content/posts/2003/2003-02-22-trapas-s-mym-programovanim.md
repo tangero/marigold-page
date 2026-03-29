@@ -4,7 +4,6 @@ slug: 'trapas-s-mym-programovanim'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Cinetik, nová firmička autora, včera spustila první část.
 - Software navržený a naprogramovaný autorem nefunguje správně.

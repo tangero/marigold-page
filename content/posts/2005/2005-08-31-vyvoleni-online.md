@@ -4,7 +4,6 @@ slug: 'vyvoleni-online'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Reality-show sledovány zpočátku kvůli kontrole Premium SMS služeb.
 - Panáček v reality show nejlepší weblog o VyVolených.

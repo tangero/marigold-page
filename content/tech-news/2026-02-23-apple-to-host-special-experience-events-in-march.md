@@ -17,7 +17,7 @@ source:
   id: null
   name: Yugatech.com
 title: Apple pořádá „Speciální zážitkové“ události v březnu
-url: https://www.yugatech.com/news/apple-to-host-special-experience-events-in-march/
+source_url: https://www.yugatech.com/news/apple-to-host-special-experience-events-in-march/
 urlToImage: https://www.yugatech.com/wp-content/uploads/2026/02/pune-india-february-19-2024-600nw-2427127545.webp
 urlToImageBackup: https://www.yugatech.com/wp-content/uploads/2026/02/pune-india-february-19-2024-600nw-2427127545.webp
 ---

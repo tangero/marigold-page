@@ -4,7 +4,6 @@ slug: 'kterak-jsem-stehoval-dite-pracovnu-a-sitoval-ji'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Vestavěná skříň od truhláře umožnila vybalení věcí a přesun pracovny.
 - WiFi signál mezi patry nefungoval po přesunu Ditiny pracovny.

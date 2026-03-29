@@ -4,7 +4,6 @@ slug: 'panika-na-voip-fronte-kvuli-zajmu-fcc-a-novinky-u-nas'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - FCC projednávala VoIP regulaci, což vyvolalo obavy zbytečné regulace internetové
   telefonie.

@@ -4,7 +4,6 @@ slug: 'akciove-drobky-nokia-a-tiw'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Nokia delistuje akcie z londýnské burzy kvůli nízké likviditě.
 - Nokia zaznamenala nárůst ceny akcií po ohlášení nových mobilů.

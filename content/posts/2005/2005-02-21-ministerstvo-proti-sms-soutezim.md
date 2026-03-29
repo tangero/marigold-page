@@ -4,7 +4,6 @@ slug: 'ministerstvo-proti-sms-soutezim'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Ministerstvo financí je proti SMS soutěžím dle článku na Mobil.cz.
 - Článek doporučuje k přečtení podnikatelům v SMS businessu.

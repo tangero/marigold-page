@@ -4,7 +4,6 @@ slug: 'poridil-jsem-si-low-end'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor byl nespokojen s Motorolou RAZR kvůli problémům s SMS.
 - Požadoval malý telefon véčkové konstrukce s dobrým psaním SMS.

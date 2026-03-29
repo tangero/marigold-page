@@ -16,7 +16,7 @@ source:
   id: null
   name: Slashdot.org
 title: Armády směřují k autonomii – povede umělá inteligence k novým válkám?
-url: https://slashdot.org/submission/17344970/militaries-are-going-autonomousbut-will-ai-lead-to-new-wars
+source_url: https://slashdot.org/submission/17344970/militaries-are-going-autonomousbut-will-ai-lead-to-new-wars
 ---
 
 ## Souhrn

@@ -4,7 +4,6 @@ slug: 'kterak-eurotel-k-licenci-prisel-a-lidova-kreativita-na-motivy-oskara-je-p
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Článek o licenci Eurotelu vyšel na Mobil.cz, téma bylo zpracováno dříve.
 - Databáze spadla, tazatelova otázka o Eurotelu byla ztracena.

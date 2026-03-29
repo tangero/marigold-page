@@ -4,7 +4,6 @@ slug: 'kompaktni-router-linksys-wrt54gc'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Linksys WRT54GC je kompaktní router s ethernetem, WiFi 802.11g a firewallem.
 - Rozměry WRT54GC jsou 98 mm x 98 mm x 25 mm a váží 141 gramů.

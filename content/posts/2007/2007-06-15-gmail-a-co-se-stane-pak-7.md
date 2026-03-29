@@ -4,7 +4,6 @@ slug: 'gmail-a-co-se-stane-pak-7'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Gmail uživateli dochází kapacita 3GB schránky, kterou používá od roku 2004.
 - Uživatel ukládá přílohy mimo Gmail, přesto schránku zaplnil.

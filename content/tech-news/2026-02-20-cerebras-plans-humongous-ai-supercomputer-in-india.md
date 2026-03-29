@@ -19,7 +19,7 @@ source:
   id: null
   name: Theregister.com
 title: Cerebras plánuje obrovský superpočítač pro AI v Indii podporovaný SAE
-url: https://www.theregister.com/2026/02/20/india_ai_supercomputer_cerebras_uae/
+source_url: https://www.theregister.com/2026/02/20/india_ai_supercomputer_cerebras_uae/
 urlToImage: https://regmedia.co.uk/2024/10/29/cerebras.jpg
 urlToImageBackup: https://regmedia.co.uk/2024/10/29/cerebras.jpg
 ---

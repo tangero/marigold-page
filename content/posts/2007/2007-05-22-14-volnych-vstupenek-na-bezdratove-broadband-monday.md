@@ -4,7 +4,6 @@ slug: '14-volnych-vstupenek-na-bezdratove-broadband-monday'
 author: Noname
 
   '
-published: true
 summary_points:
 - TUESDAY Business Network pořádá akci "Broadband jde i bez drátů" příští pondělí.
 - Akce zahrnuje přednášky o bezdrátovém broadbandu a novinkách, včetně U:fon.

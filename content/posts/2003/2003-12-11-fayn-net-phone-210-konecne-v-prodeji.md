@@ -4,7 +4,6 @@ slug: 'fayn-net-phone-210-konecne-v-prodeji'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Fayn Net Phone 210 se prodává za 4490 Kč s DPH.
 - Telefon používá ethernetový konektor RJ-45 místo RJ-11.

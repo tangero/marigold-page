@@ -4,7 +4,6 @@ slug: 'jak-hodne-je-n-va-zoufala-aneb-jeste-jednou-vyvoleni-a-bigbrother'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - BigBrother se přesouvá z prime time na podvečer.
 - Nova neumožnila divákům ztotožnit se se soutěžícími.

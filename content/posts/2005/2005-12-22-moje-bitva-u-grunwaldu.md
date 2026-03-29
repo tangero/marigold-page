@@ -4,7 +4,6 @@ slug: 'moje-bitva-u-grunwaldu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor popisuje nečekané ohlasy na článek o Janu Sokolovi z Lamberka.
 - Autor se zúčastnil rekonstrukce bitvy u Grunwaldu a popisuje přípravy.

@@ -4,7 +4,6 @@ slug: 'finalni-presun-zapocal-takze-to-chvilku-bude-blbnout'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Marigold.cz adresa pro novou verzi nemusí fungovat ihned, používejte new.marigold.cz.
 - Staré RSS zdroje přestanou fungovat, nové odkazy jsou v pravém menu.

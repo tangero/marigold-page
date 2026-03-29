@@ -4,7 +4,6 @@ slug: 'nokia-series-90'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Series 90 je grafická nadstavba pro komunikátory Nokia, postavená na Symbianu 7.
 - Nokia 9310, nástupce 9210, bude mít Series 90, MMS, fotoaparát a GPRS.

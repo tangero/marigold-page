@@ -7,7 +7,6 @@ categories:
 - Facebook
 
   '
-published: true
 summary_points:
 - Facebook Connect zaveden na Morigold pro přihlašování a diskuse.
 - Příspěvky z Morigolda volitelně sdíleny na Facebook profilu uživatele.

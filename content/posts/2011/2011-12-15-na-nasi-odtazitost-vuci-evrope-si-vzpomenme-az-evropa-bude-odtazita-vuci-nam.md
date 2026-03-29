@@ -8,7 +8,6 @@ categories:
 - Politika
 
   '
-published: true
 summary_points:
 - Československo vzniklo slepením nesourodých území bez národnostní jednoty.
 - Sudety, obývané Němci, byly trvalým problémem kvůli neochotě se integrovat.

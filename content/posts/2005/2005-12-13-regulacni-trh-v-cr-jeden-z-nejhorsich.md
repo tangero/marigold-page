@@ -4,7 +4,6 @@ slug: 'regulacni-trh-v-cr-jeden-z-nejhorsich'
 author: Noname
 
   '
-published: true
 summary_points:
 - Studie Jones Day a SPC Network hodnotí regulaci telekomunikací v ČR jako jednu z
   nejhorších.

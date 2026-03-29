@@ -4,7 +4,6 @@ slug: 'eurotel-oficialne-potvrdil-cdma450-startuje-v-kvetnu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - CDMA450 projekt Eurotelu odstartuje v květnu 2004, nezanikne.
 - Eurotel usiluje o exkluzivitu licence pro 450 MHz spektrum.

@@ -4,7 +4,6 @@ slug: 'cesky-mobil-vykazal-zisk-vysledky-za-druhe-ctvrtleti-2003'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Oskar získal 66 900 zákazníků, celkem jich má 1 337 500, nárůst 25 procent.
 - Výnosy ze služeb Oskara vzrostly meziročně o 76 procent na 94 milionů USD.

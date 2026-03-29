@@ -4,7 +4,6 @@ slug: 'zase-doma-a-reakce-na-wifi-knihu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor se vrátil z Ženevy a chystá se pracovat a publikovat články.
 - WiFi kniha získala ohlas na Pavlově zápisníku, autor reaguje na recenzi.

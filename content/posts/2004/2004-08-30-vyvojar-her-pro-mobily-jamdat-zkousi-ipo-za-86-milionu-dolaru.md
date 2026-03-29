@@ -4,7 +4,6 @@ slug: 'vyvojar-her-pro-mobily-jamdat-zkousi-ipo-za-86-milionu-dolaru'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Jamdat Mobile, vývojář her pro mobily, plánuje IPO s cílem získat 86 milionů dolarů.
 - Příjmy Jamdat Mobile v roce 2003 dosáhly 13,5 milionu USD, ztráta činila 7,1 milionu

@@ -4,7 +4,6 @@ slug: 'hrad-jako-open-source'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Hrad Hauenštejn ztratil vojenský význam, ale je opravován.
 - Hrad Haunštejn je po konfiskaci využíván jako open source projekt.

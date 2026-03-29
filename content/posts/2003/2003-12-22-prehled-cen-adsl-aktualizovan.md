@@ -4,7 +4,6 @@ slug: 'prehled-cen-adsl-aktualizovan'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Přehled cen ADSL operátorů byl aktualizován a je dostupný na www.marigold.cz/adsl.
 - Data pro přehled ADSL se nyní získávají primárně z databáze DSL.cz.

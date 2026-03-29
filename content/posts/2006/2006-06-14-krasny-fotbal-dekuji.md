@@ -4,7 +4,6 @@ slug: 'krasny-fotbal-dekuji'
 author: Noname
 
   '
-published: true
 summary_points:
 - Noname dříve nebyl fotbalový fanoušek, české ligy ho nudily.
 - Zápas Česko × USA na Staromáku byl pro Noname neuvěřitelný zážitek.

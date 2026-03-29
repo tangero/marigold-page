@@ -4,7 +4,6 @@ slug: 'bt-nabidne-adsl-o-rychlost-1mbps-telewest-zkousi-2-mbps'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - British Telecom testuje ADSL 1 Mbps pro domácnosti s komerční dostupností do konce
   roku.

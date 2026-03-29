@@ -4,7 +4,6 @@ slug: 'google-nabizi-prohledavani-videa'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - Root.cz vyhrál soutěž o kachnu dne za zprávu o Google video.
 - Google video prohledává televizní programy, ne internet

@@ -4,7 +4,6 @@ slug: 'mala-oceneni-velkych-muzu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Invex udílí ceny, které často slouží spíše k PR než k reálnému ocenění.
 - Nominace na "Osobnost roku" jsou ovlivněny papírovou formou a opakujícími se jmény.

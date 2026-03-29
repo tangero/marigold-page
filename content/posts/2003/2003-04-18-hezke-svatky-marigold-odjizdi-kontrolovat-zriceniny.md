@@ -4,7 +4,6 @@ slug: 'hezke-svatky-marigold-odjizdi-kontrolovat-zriceniny'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Velikonoční svátky Marigold stráví kontrolou zřícenin na Českolipsku.
 - Přidávání příspěvků přes MMS zprávy stále nefunguje správně.

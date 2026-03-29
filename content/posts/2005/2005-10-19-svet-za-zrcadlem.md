@@ -4,7 +4,6 @@ slug: 'svet-za-zrcadlem'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Mac je "Světem za zrcadlem", jiný a lepší než PC svět.
 - Uživatel Macu čte jiné servery, stahuje jiné programy a řeší jiné problémy.

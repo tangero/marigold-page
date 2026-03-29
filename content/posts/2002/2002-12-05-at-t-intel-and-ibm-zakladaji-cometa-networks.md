@@ -4,7 +4,6 @@ slug: 'at-t-intel-and-ibm-zakladaji-cometa-networks'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Cometa Networks založena AT&T, Intel a IBM pro celonárodní WiFi pokrytí USA.
 - WiFi síť Comety má v roce 2003 pokrýt 50 největších měst USA.

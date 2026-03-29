@@ -4,7 +4,6 @@ slug: 'indos-neplni'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Teplýšovická škola stále nemá internet v rámci projektu Indoš, ačkoliv je místnost
   připravena.

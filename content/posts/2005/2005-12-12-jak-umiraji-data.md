@@ -4,7 +4,6 @@ slug: 'jak-umiraji-data'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Data snadno umírají změnou nosiče, formátu, nebo ztrátou smyslu převodu.
 - Digitalizace dat představuje riziko ztráty informací kvůli zastarávání formátů.

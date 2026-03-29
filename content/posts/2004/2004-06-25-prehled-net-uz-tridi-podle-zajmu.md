@@ -4,7 +4,6 @@ slug: 'prehled-net-uz-tridi-podle-zajmu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Přehled.net nově určuje důležitost zpráv podle počtu kliknutí uživatelů.
 - Funkce interně funguje dlouho, aktivována byla až s dostatečnou návštěvností.

@@ -4,7 +4,6 @@ slug: 'infracervene-wifi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - standard definuje rádiové i infračervené spektrum pro fyzickou vrstvu.
 - Infračervené WiFi dle 802.11 dosahuje rychlostí pouze 1 a 2 Mbps.

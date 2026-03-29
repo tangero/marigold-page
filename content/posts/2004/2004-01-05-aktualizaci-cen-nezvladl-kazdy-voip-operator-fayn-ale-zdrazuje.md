@@ -4,7 +4,6 @@ slug: 'aktualizaci-cen-nezvladl-kazdy-voip-operator-fayn-ale-zdrazuje'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Viphone neaktualizoval DPH a uvádí ceny bez DPH, takže je nutné dopočítat.
 - Wirphone aktualizaci ceníku odkládá a zkrácený ceník je neaktuální, informace o

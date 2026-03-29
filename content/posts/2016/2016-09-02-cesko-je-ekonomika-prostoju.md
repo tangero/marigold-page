@@ -5,7 +5,6 @@ author: Patrick Zandl
 featured: true
 
   '
-published: true
 summary_points:
 - Produktivita práce v Česku je poloviční oproti Německu.
 - Česko trpí ekonomickými prostoji ve zdravotnictví, úřadech a dopravě.

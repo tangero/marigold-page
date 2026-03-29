@@ -4,7 +4,6 @@ slug: 'dalsi-zajimavy-nazor-na-3g-site-od-claye-shirkyho'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Shirky přirovnává 3G sítě k palubním telefonům, které se neujaly.
 - Lidé nechtějí platit vysoké ceny za data v 3G sítích.

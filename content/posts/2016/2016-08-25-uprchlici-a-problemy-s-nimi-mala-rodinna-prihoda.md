@@ -4,7 +4,6 @@ slug: 'uprchlici-a-problemy-s-nimi-mala-rodinna-prihoda'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Vorarlberg hostí 40 uprchlíků ve vesnici s 1400 obyvateli. Uprchlíci pracují ve
   stavební firmě, ale často se střídají. Střídání způsobuje problémy s neustálým zaučováním

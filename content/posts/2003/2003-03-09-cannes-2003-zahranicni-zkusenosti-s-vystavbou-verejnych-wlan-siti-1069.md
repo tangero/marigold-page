@@ -4,7 +4,6 @@ slug: 'cannes-2003-zahranicni-zkusenosti-s-vystavbou-verejnych-wlan-siti-1069'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - TDC se soustředilo na pokrývání hotelů WiFi, hotely chtějí pokrýt všechny pokoje.
 - Zákazníci chtějí platit za WiFi připojením ke svému telefonnímu účtu.

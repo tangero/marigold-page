@@ -4,7 +4,6 @@ slug: 'blogeri-zase-vymysleli-kravinu-hon-na-cernovlasku'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Blogeři pořádají "hon" na Černovlásku kvůli mazání kritiky a publikování neověřených
   textů.

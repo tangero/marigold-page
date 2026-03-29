@@ -7,7 +7,6 @@ categories:
 - iPhone
 
   '
-published: true
 summary_points:
 - Apple představil SDK pro iPhone, zdarma pro vývoj, placené pro distribuci přes iTunes.
 - iPhone má unikátní vertikální integraci, získává příjmy z prodeje zařízení, obsahu

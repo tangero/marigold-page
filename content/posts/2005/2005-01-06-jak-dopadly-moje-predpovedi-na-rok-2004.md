@@ -4,7 +4,6 @@ slug: 'jak-dopadly-moje-predpovedi-na-rok-2004'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Instant messaging Wireless Village v ČR neuspěl kvůli složitosti a nízkým ziskům.
 - WiFi broadband se stal králem levných internetových přípojek v roce 2004.

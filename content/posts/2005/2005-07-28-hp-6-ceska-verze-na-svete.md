@@ -4,7 +4,6 @@ slug: 'hp-6-ceska-verze-na-svete'
 author: Noname
 
   '
-published: true
 summary_points:
 - Neoficiální český překlad Harryho Pottera je dostupný, i v PDF verzi.
 - Překlad obsahuje chyby, ale autoři očekávají a vítají opravy od čtenářů.

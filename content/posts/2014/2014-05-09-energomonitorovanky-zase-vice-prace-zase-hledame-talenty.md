@@ -4,7 +4,6 @@ slug: 'energomonitorovanky-zase-vice-prace-zase-hledame-talenty'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Firma hledá nové zaměstnance na severní Moravě, hlavně pro vývojové centrum ve Valašském
   Meziříčí.

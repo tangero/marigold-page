@@ -4,7 +4,6 @@ slug: 'oskarovy-zalohy-2'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Oskarův mluvčí Přerovský popírá zahrnování víkendových hovorů zdarma do záloh.
 - Infolinka Oskara potvrdila účtování plné ceny hovorů s následnou slevou.

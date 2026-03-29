@@ -4,7 +4,6 @@ slug: 'ebanka-ztraceni-zprav-o-ni-mne-zneklidnuje-vice-nez-klevety'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - eBanka fáma o problémech se šířila, autor ověřoval informace u známých a na fórech.
 - Technet zprávu o eBance smazal, později ji šéfredaktor Vreco obnovil.

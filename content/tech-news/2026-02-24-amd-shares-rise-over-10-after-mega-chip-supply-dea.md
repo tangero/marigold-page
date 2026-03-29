@@ -20,7 +20,7 @@ source:
   name: The Times of India
 title: Akcie AMD vzrostly o více než 10 % po dohodě o dodávkách AI čipů pro Meta v
   hodnotě 60 miliard dolarů
-url: https://economictimes.indiatimes.com/markets/us-stocks/news/amd-shares-rise-over-10-after-mega-chip-supply-deal-with-meta/articleshow/128751898.cms
+source_url: https://economictimes.indiatimes.com/markets/us-stocks/news/amd-shares-rise-over-10-after-mega-chip-supply-deal-with-meta/articleshow/128751898.cms
 urlToImage: https://img.etimg.com/thumb/msid-128751898,width-1200,height-630,imgsize-53916,overlay-etmarkets/articleshow.jpg
 urlToImageBackup: https://img.etimg.com/thumb/msid-128751898,width-1200,height-630,imgsize-53916,overlay-etmarkets/articleshow.jpg
 ---

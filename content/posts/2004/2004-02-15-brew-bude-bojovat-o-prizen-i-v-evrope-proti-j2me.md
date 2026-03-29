@@ -4,7 +4,6 @@ slug: 'brew-bude-bojovat-o-prizen-i-v-evrope-proti-j2me'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - J2ME aplikace dominují mobilním aplikacím v Evropě, kromě nativních aplikací.
 - BREW je programovací jazyk od Qualcommu, zdarma pro výrobce, programátory i uživatele.

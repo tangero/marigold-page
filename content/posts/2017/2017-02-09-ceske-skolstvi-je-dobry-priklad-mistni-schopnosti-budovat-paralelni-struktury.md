@@ -3,7 +3,6 @@ slug: 'ceske-skolstvi-je-dobry-priklad-mistni-schopnosti-budovat-paralelni-struk
 
 author: Patrick Zandl
 featured: true
-published: true
 summary_points:
 - Minulý příspěvek o českém školství vyvolal silné reakce a diskuse.
 - České školství řeší problémy budováním paralelních vzdělávacích struktur.

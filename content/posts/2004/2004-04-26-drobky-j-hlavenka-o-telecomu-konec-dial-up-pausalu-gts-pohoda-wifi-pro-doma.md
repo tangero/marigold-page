@@ -4,7 +4,6 @@ slug: 'drobky-j-hlavenka-o-telecomu-konec-dial-up-pausalu-gts-pohoda-wifi-pro-do
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Hlavenkův komentář k odvolání Valeskiho vidí situaci spíše neutrálně.
 - Telecom by se měl privatizovat a osud Eurotelu rozhodne nový majitel.

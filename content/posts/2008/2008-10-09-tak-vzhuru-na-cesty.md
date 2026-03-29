@@ -7,7 +7,6 @@ categories:
 - Příběhy
 
   '
-published: true
 summary_points:
 - Vízum do Číny dorazilo den před neodložitelným odletem s Petrem.
 - Cesta do Číny zahrnuje veletrh elektroniky v Hong Kongu a Šenzen.

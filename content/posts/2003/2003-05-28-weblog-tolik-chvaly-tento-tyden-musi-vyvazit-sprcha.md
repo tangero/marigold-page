@@ -4,7 +4,6 @@ slug: 'weblog-tolik-chvaly-tento-tyden-musi-vyvazit-sprcha'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Lupa.cz publikovala články o weblozích od Martina Kopty a Mirka Zemana.
 - BlogTalk v Rakousku čeští blogeři dle autora neúspěšně reflektovali.

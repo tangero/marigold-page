@@ -4,7 +4,6 @@ slug: 'elektronicke-mytne-v-nemecku-ma-dalsi-problemy'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Německé mýtné pro kamiony se od 2. listopadu platit nebude kvůli softwarovým chybám.
 - Německá vláda očekávala od mýta 160 milionů eur měsíčně.

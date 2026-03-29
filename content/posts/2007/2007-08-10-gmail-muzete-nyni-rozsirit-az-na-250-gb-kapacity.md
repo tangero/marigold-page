@@ -4,7 +4,6 @@ slug: 'gmail-muzete-nyni-rozsirit-az-na-250-gb-kapacity'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Gmail po zaplnění schránky vrací chybovou hlášku, jak je obvyklé.
 - Kapacita Gmailu se po promazání spamu snížila z 98% na 30%.

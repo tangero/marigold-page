@@ -20,7 +20,7 @@ source:
   id: fortune
   name: Fortune
 title: OpenAI očekává, že jeho příjmy překročí 280 miliard dolarů v roce 2030
-url: https://fortune.com/2026/02/20/openai-revenue-forecast-280-billion-2030-capex-sam-altman/
+source_url: https://fortune.com/2026/02/20/openai-revenue-forecast-280-billion-2030-capex-sam-altman/
 urlToImage: https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2261852455_577e17-e1771633744798.jpg?resize=1200,600
 urlToImageBackup: https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2261852455_577e17-e1771633744798.jpg?resize=1200,600
 ---

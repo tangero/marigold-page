@@ -4,7 +4,6 @@ slug: 'jen-tak-pred-odjezdem'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - 'GSM kongres v Cannes: sbaleno, malá taška osobní věci, velký batoh technika.'
 - Fotoaparát Sony DSC-V1 nahradil větší 717, ideální pro focení v Cannes.

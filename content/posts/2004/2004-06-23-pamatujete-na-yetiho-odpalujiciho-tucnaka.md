@@ -4,7 +4,6 @@ slug: 'pamatujete-na-yetiho-odpalujiciho-tucnaka'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Yeti Sports hra s tučňákem se stala internetovou mánií počátkem roku.
 - Rakouští programátoři úspěchu hry založili server Yetisports s pěti flash hrami.

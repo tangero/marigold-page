@@ -4,7 +4,6 @@ slug: 'svaty-vaclave-vevodo-ceske-zeme-v-dobe-predvolebni'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Václav je vzýván jako vévoda a dědic České země v těžké hodině.
 - Hříchy zbabělosti, lenosti a nerozhodnosti jsou přiznány jako příčina trestu.

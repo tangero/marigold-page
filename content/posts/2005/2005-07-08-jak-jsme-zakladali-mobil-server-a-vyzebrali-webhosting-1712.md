@@ -4,7 +4,6 @@ slug: 'jak-jsme-zakladali-mobil-server-a-vyzebrali-webhosting-1712'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor nenapíše moudra kvůli nevlídnému pátku a práci.
 - Historie českého internetu vycházela na Marigoldovi a Lupě.

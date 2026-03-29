@@ -4,7 +4,6 @@ slug: 'eurotel-bude-prodan-ceskemu-telecomu-co-z-toho-pojde-a-kdo-z-toho-pojde'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Český Telecom dokoupí zbytek podílu Eurotelu za 1,05 miliardy USD.
 - Vladimír Mlynář prosazuje spojení vlastnictví mobilního a pevného operátora.

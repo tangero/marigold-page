@@ -4,7 +4,6 @@ slug: 'uber-a-airbnb-jde-o-rovne-podminky-v-odvetvi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Jirka Hlavenka kritizuje Uber a Airbnb za obcházení stávajících regulací.
 - Problémem je nerovnost podmínek mezi tradičními službami a novými platformami.

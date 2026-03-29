@@ -4,7 +4,6 @@ slug: 'drobky-mobil-nec-n900-intel-s-podporou-802-11g-do-centrina-nokia-6620-jap
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Nokia 6620, první EDGE chytrý telefon pro USA, má více paměti a rychlejší procesor.
 - Japonská mašinka na sny a displej na hlavu jsou dostupné v Japonsku.

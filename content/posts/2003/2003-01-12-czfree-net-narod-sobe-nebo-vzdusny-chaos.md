@@ -4,7 +4,6 @@ slug: 'czfree-net-narod-sobe-nebo-vzdusny-chaos'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - CzFree.Net je nezisková broadband síť založená na principu "přispěj a použij".
 - Síť CzFree.Net je spíše komunikační platforma s aktivními příznivci i odpůrci.

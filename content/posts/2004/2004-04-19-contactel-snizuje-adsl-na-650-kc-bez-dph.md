@@ -4,7 +4,6 @@ slug: 'contactel-snizuje-adsl-na-650-kc-bez-dph'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Contactel zlevnil ADSL Contact na 650 Kč měsíčně bez DPH.
 - ČTÚ neřešilo kvalitativní a technické parametry ADSL služby.

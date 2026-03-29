@@ -4,7 +4,6 @@ slug: 'pojdme-udelat-nejakou-silenost-co-takhle-akciovy-marigold'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor uvažuje o "šílenosti" s Marigoldem, podobně jako kdysi s Mobil serverem.
 - Pro Mobil server navrhoval prodej akcií malým akcionářům, což se nerealizovalo.

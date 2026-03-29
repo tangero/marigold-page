@@ -4,7 +4,6 @@ slug: 'bill-gates-v-zeneve-fotky-zenevske-setkani-ceskych-blogeru'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WiLAN přednáška byla nudná a WiFi nefungovalo, autor proto odešel do press centra.
 - Bill Gates ohlašoval alianci s anonymním šéfem Vodafone Services.

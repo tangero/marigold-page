@@ -4,7 +4,6 @@ slug: 'dalsi-autorsko-publikacni-pokus-se-chysta'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Studie se věnuje širokopásmovému bezdrátovému internetu, konkrétně technologiím
   WiMAX a Mobile-Fi.

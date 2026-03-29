@@ -4,7 +4,6 @@ slug: 'energomonitorovanky-s-navodem-jak-pro-nas-nehlasovat-v-kristalove-lupe'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Robert Vlach nominoval Energomonitor na Křišťálovou Lupu 2015.
 - Energomonitor má stabilní pozice v evropských trzích a vlastní hardware.

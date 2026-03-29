@@ -4,7 +4,6 @@ slug: 'narodni-politika-pro-vysokorychlostni-pristup-predlozena-k-verejne-diskus
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Ministerstvo informatiky navrhlo Národní politiku pro vysokorychlostní přístup s
   cílem dohnat Evropu do 2010.

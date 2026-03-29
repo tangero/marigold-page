@@ -18,7 +18,7 @@ source:
   id: null
   name: sixcolors.com
 title: 'Apple v roce 2025: Kompletní komentář'
-url: https://sixcolors.com/post/2026/02/2025reportcardcommentary/
+source_url: https://sixcolors.com/post/2026/02/2025reportcardcommentary/
 urlToImage: https://sixcolors.com/wp-content/themes/sixcolors/images/6colors_og_image.png
 urlToImageBackup: https://sixcolors.com/wp-content/themes/sixcolors/images/6colors_og_image.png
 ---

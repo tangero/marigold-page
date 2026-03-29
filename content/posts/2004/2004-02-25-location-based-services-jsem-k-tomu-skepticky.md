@@ -4,7 +4,6 @@ slug: 'location-based-services-jsem-k-tomu-skepticky'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Lokalizace polohy využívá Cell ID (nepřesné) nebo GPS (nutný modul v mobilu).
 - Webraska nabízí externí GPS pro smartphony s měsíčním paušálem 300-500 Kč.

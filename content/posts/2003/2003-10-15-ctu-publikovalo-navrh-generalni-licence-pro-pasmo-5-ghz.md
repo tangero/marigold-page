@@ -4,7 +4,6 @@ slug: 'ctu-publikovalo-navrh-generalni-licence-pro-pasmo-5-ghz'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - ČTÚ publikoval návrh licence pro rádiová zařízení v 5 GHz pásmu.
 - Výhrady k návrhu licence lze zasílat do 30 dnů od 14. října.

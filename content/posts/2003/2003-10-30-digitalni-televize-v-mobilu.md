@@ -4,7 +4,6 @@ slug: 'digitalni-televize-v-mobilu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - DVB-X je televizní digitální standard, který má doplnit DVB-T.
 - Digital Broadcast Group usiluje o propojení digitální televize s mobilními standardy.

@@ -2,7 +2,6 @@
 slug: 'ico-cili-initial-coin-offering-kryptoinvestice-bez-regulace'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - ICO je neregulovaný způsob financování pomocí kryptoměn.
 - ICO umožňuje firmám získat peníze bez formálních akcií a papírování.

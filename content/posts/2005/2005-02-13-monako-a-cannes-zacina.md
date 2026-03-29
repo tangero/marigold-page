@@ -4,7 +4,6 @@ slug: 'monako-a-cannes-zacina'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Monako je drahý daňový ráj s drahými byty a přístavem jachet.
 - GSM kongres v Cannes se stěhuje do Barcelony kvůli vysokým cenám.

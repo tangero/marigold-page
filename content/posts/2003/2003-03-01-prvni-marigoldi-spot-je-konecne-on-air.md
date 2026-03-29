@@ -4,7 +4,6 @@ slug: 'prvni-marigoldi-spot-je-konecne-on-air'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Anténa s hotspotem Marigold nainstalována na paneláku u metra Luka.
 - Špatně nakrimpovaný ethernet kabel zkomplikoval prvotní konfiguraci hotspotu.

@@ -4,7 +4,6 @@ slug: 'mekac-po-manazersku-rizika-jablecne-tasticky'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor se sešel s ředitelem Martinem v Mekáči u OMV na Jižní spojce.
 - Martin si objednal jablečnou taštičku, autor donut, ačkoliv je ředitel v obleku.

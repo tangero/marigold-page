@@ -2,7 +2,6 @@
 slug: 'zed-a-krava'
 
 author: Noname
-published: true
 summary_points:
 - Tele2 protestuje proti zdržování přechodu 50 tisíc zákazníků Českým Telecomem.
 - Český Telecom reagoval transparentem a dvěma telety s číslicí 2.

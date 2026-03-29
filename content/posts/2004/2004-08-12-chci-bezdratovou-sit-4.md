@@ -4,7 +4,6 @@ slug: 'chci-bezdratovou-sit-4'
 author: Noname
 
   '
-published: true
 summary_points:
 - Venkovní sítě propojují počítače/sítě vzdálené stovky metrů až kilometry s venkovní
   anténou.

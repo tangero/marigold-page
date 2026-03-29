@@ -15,7 +15,7 @@ source:
   id: null
   name: Yanko Design
 title: '5 humanoidních robotů spuštěných v roce 2026: První z nich létá'
-url: https://www.yankodesign.com/2026/02/21/5-humanoid-robots-being-launched-in-2026-the-first-one-flies/
+source_url: https://www.yankodesign.com/2026/02/21/5-humanoid-robots-being-launched-in-2026-the-first-one-flies/
 urlToImage: https://www.yankodesign.com/images/design_news/2026/02/why-human-like-robots-are-shaping-our-daily-lives-bringing-the-future-home/Human-Inspired-Robots_Automation_17.jpg
 urlToImageBackup: https://www.yankodesign.com/images/design_news/2026/02/why-human-like-robots-are-shaping-our-daily-lives-bringing-the-future-home/Human-Inspired-Robots_Automation_17.jpg
 ---

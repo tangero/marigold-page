@@ -4,7 +4,6 @@ slug: 'jak-jsme-registrovali-domenu-mobil-cz-a-zacali-podnikat'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - NetForce umožnil trojici založit GSM server, ale vyžadoval vlastní doménu.
 - Registrace domény v roce 1996 byla složitá, doména musela odpovídat jménu firmy.

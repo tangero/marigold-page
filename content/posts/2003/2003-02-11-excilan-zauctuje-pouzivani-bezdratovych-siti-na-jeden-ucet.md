@@ -4,7 +4,6 @@ slug: 'excilan-zauctuje-pouzivani-bezdratovych-siti-na-jeden-ucet'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Excilan nabízí účetní propojení různých bezdrátových sítí do jednoho telefonního
   účtu.

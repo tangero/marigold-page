@@ -22,7 +22,7 @@ source:
   name: C-sharpcorner.com
 title: Anthropic varuje před „průmyslově velkými“ útoky na destilaci AI ohrožujícími
   bezpečnost modelů
-url: https://www.c-sharpcorner.com/news/anthropic-sounds-alarm-on-industrialscale-ai-distillation-attacks-threatening-model-security
+source_url: https://www.c-sharpcorner.com/news/anthropic-sounds-alarm-on-industrialscale-ai-distillation-attacks-threatening-model-security
 urlToImage: https://www.c-sharpcorner.com/images/csharp-corner-new.png
 urlToImageBackup: https://www.c-sharpcorner.com/images/csharp-corner-new.png
 ---

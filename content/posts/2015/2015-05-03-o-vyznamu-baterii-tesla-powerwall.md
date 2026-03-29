@@ -4,7 +4,6 @@ slug: 'o-vyznamu-baterii-tesla-powerwall'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Elon Musk představil Tesla Energy, novou divizi zaměřenou na baterie.
 - Tesla Powerwall nabízí kapacitu 7 kWh za 3000 USD a 10 kWh za 3500 USD.

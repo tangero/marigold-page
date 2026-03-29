@@ -4,7 +4,6 @@ slug: 'misto-odposlechu-byl-tlusty-to-co-sam-prohlasil'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Odposlech Tlustého pravděpodobně způsobil sám nahráním hovoru do hlasové schránky.
 - Eurotel potvrdil, že Tlustý měl v době "odposlechu" spojený hovor na "důvěryhodnou

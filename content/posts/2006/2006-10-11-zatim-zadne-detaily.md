@@ -4,7 +4,6 @@ slug: 'zatim-zadne-detaily'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Stream projekt oznámil zásadní informace na Broadband Monday prezentaci.
 - Informace z prezentace Streamu nebudou opakovaně zveřejňovány.

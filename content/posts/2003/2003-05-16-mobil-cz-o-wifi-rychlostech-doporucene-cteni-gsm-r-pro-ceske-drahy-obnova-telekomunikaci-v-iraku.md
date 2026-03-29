@@ -4,7 +4,6 @@ slug: 'mobil-cz-o-wifi-rychlostech-doporucene-cteni-gsm-r-pro-ceske-drahy-obnova
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Nachtmannův článek na Mobil.cz kompaktně probírá WiFi modulace OFDM, PBCC a DSSS.
 - České dráhy do 25. května vyberou dodavatele GSM-R řešení pro komunikaci vlak-dispečink.

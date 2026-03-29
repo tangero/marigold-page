@@ -4,7 +4,6 @@ slug: '3gsm-world-congress-2004-akreditace-dorazila'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor dříve míval problémy s akreditací na veletrhy.
 - Akreditace na 3GSM World Congress v Cannes pro autora schválena.

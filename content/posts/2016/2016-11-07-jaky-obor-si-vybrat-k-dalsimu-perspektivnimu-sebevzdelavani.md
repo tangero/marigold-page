@@ -4,7 +4,6 @@ slug: 'jaky-obor-si-vybrat-k-dalsimu-perspektivnimu-sebevzdelavani'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Každý rok se detailně věnuji jednomu tématu, např. hodinařině nebo daytradingu.
 - Tento zvyk mi pomáhá proniknout do tématu na expertní úroveň.

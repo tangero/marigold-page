@@ -4,7 +4,6 @@ slug: 'nebojte-marigold-na-moji-kandidaturu-na-sefa-telecomu-nedoplati'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Mobil.cz publikoval zprávu o kandidatuře autora na šéfa Českého Telecomu.
 - Teuro tvrdí, že autor má pozici jistou díky úzkým vztahům, což autor popírá.

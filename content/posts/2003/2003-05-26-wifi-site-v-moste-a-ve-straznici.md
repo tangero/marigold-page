@@ -4,7 +4,6 @@ slug: 'wifi-site-v-moste-a-ve-straznici'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Free Net Most prezentuje metropolitní komunitní síť s mapkou.
 - Strážnice provozuje další metropolitní komunitní síť, dostupnou online.

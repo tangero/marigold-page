@@ -4,7 +4,6 @@ slug: 'wifi-vazne-bude-ohrozovat-3g-site-uz-se-boji-i-bt'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WiFi sítě představují pro UMTS sítě vážný problém kvůli ceně a rychlosti dat.
 - UMTS je dražší než WiFi a v počátcích nabídne podobnou rychlost jako GSM.

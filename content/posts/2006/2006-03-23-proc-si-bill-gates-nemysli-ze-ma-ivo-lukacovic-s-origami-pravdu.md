@@ -4,7 +4,6 @@ slug: 'proc-si-bill-gates-nemysli-ze-ma-ivo-lukacovic-s-origami-pravdu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Origami je Microsoftem vnímáno jako perspektivní, nikoliv mrtvá zóna trhu.
 - Kufříkáři, podobně jako u Smartu, představují cílovou skupinu pro Origami.

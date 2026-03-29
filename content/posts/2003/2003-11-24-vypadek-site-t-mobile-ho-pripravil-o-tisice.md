@@ -4,7 +4,6 @@ slug: 'vypadek-site-t-mobile-ho-pripravil-o-tisice'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - T-Mobile měl výpadek sítě minulý týden v pěti pražských částech.
 - Jiří Michovský z Prahy kvůli výpadku sítě T-Mobile ztratil klienty a 18 tisíc korun.

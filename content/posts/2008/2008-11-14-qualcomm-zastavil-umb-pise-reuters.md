@@ -7,7 +7,6 @@ categories:
 - LTE
 
   '
-published: true
 summary_points:
 - Qualcomm zastavuje vývoj UMB, konkurenta LTE, kvůli snížení nákladů a krizi.
 - Verizon Wireless, významný klient Qualcommu, se přiklání k technologii LTE.

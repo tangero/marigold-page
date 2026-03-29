@@ -4,7 +4,6 @@ slug: 'belkin-miri-do-cr-pod-kridla-autocontu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - AutoCont se stává autorizovaným distributorem Belkinu v ČR.
 - AutoCont rozšiřuje své portfolio WiFi produktů po Bufalu o Belkin.

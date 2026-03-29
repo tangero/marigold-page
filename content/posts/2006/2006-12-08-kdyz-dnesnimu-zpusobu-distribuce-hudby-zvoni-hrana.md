@@ -4,7 +4,6 @@ slug: 'kdyz-dnesnimu-zpusobu-distribuce-hudby-zvoni-hrana'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Poplatky z médií a tiskáren platí i ti, co autorská díla nespravují.
 - Stát podlehl lobbingu a zavedl presumpci viny v autorském právu.

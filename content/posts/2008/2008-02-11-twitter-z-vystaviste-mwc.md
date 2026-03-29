@@ -8,7 +8,6 @@ categories:
 - Konference
 
   '
-published: true
 summary_points:
 - Twitter tangero nabízí drobné postřehy z výstaviště přes SMS, email, RSS.
 - iPhone verze Twitteru je pro autora komfortnější a rychlejší než Drbz.

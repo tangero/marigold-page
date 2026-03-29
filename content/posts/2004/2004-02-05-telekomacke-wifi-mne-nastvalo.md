@@ -4,7 +4,6 @@ slug: 'telekomacke-wifi-mne-nastvalo'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Metro dopravilo autora brzy na Karlovo náměstí, kde chtěl využít WiFi Telecomu.
 - WiFi Telecomu na Karlově náměstí fungovala extrémně pomalu, téměř nepoužitelně.

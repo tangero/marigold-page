@@ -4,7 +4,6 @@ slug: 'jak-jsme-na-mobil-serveru-prodavali-prvni-reklamu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - První reklamu za peníze prodal Mobil server v květnu 1997 firmě Denker za 9000 Kč.
 - Nokia jako první velká firma inzerovala, prolomila tak bariéru pro další výrobce.

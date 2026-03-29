@@ -4,7 +4,6 @@ slug: 'obchodujeme-s-akciemi-na-americke-burze-4-grafy'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Článek na Peníze.cz je čtvrtý díl seriálu o obchodování s akciemi.
 - Autor článku není spokojen s dílem o chartování a grafech.

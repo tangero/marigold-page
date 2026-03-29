@@ -6,7 +6,6 @@ categories:
 - Příběhy
 
   '
-published: true
 summary_points:
 - Radovan Kaluža z Ostravy ztělesňuje autorovy výhrady k mladé "podnikatelské elitě".
 - Turecká párty odhalila šarmantního pána s kolosálním přehledem o Africe.

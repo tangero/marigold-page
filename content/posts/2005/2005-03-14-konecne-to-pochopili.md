@@ -4,7 +4,6 @@ slug: 'konecne-to-pochopili'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Opletalova ulice nabízí menu v neznámé hospůdce.
 - Autor textu vyjadřuje radost nad obsahem menu.

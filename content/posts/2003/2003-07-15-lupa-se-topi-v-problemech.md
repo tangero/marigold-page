@@ -4,7 +4,6 @@ slug: 'lupa-se-topi-v-problemech'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Server Lupa má opakované technické problémy, které vyžadují restarty.
 - Linux je použit pro databáze a server Lupy, přestože mu nerozumí.

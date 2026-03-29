@@ -2,7 +2,6 @@
 slug: 'po-cistce-zase-v-praci'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - Rozhodl jsem se radikálně změnit uspořádání života a práce.
 - Ukončil jsem aktivity bez smyslu a zaměřil se na přínosné projekty.

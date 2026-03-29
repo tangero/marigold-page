@@ -8,7 +8,6 @@ categories:
 - Turboúvod do mobilních sítí
 
   '
-published: true
 summary_points:
 - Kapacita sítě definuje počet simultánních uživatelů a souvisí s rychlostí.
 - Shannonova teorie určuje maximální kapacitu kanálu dle šumu, signálu a šířky pásma.

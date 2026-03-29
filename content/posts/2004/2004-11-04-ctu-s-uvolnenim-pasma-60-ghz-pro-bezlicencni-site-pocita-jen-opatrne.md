@@ -4,7 +4,6 @@ slug: 'ctu-s-uvolnenim-pasma-60-ghz-pro-bezlicencni-site-pocita-jen-opatrne'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - ČTÚ navrhuje využití frekvencí nad 59 GHz po roce 2008.
 - ČTÚ vyhradí pro bezlicenční použití pásmo 61-62 GHz, užší než v USA.

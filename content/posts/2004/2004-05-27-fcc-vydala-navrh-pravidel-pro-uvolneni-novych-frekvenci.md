@@ -4,7 +4,6 @@ slug: 'fcc-vydala-navrh-pravidel-pro-uvolneni-novych-frekvenci'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - FCC navrhuje uvolnění nových frekvencí pod 900 MHz a v 3 GHz pásmu.
 - Návrh FCC projde připomínkovacím řízením s možným platností za 100 dní.

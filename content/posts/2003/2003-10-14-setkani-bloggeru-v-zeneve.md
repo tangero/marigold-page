@@ -4,7 +4,6 @@ slug: 'setkani-bloggeru-v-zeneve'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Petr Olmer uspořádal setkání českých blogerů v Ženevě.
 - Honza a autor byli jediní blogeři, kteří na setkání dorazili.

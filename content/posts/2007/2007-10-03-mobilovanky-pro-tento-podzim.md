@@ -4,7 +4,6 @@ slug: 'mobilovanky-pro-tento-podzim'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - iPhone ovlivňuje výrobce, kteří se vymezují pozitivně i negativně.
 - Nokia srovnávala N95 s iPhone, inspirovala se rozhraním a útočila na uzavřenost.

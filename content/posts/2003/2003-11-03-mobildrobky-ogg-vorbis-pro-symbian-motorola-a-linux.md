@@ -4,7 +4,6 @@ slug: 'mobildrobky-ogg-vorbis-pro-symbian-motorola-a-linux'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Leif Wilden vytvořil Ogg Vorbis přehrávač pro Symbian UIQ a Series 60.
 - Motorola A760 bude používat prostředí Qt od Trolltechu, populární pro Linux.

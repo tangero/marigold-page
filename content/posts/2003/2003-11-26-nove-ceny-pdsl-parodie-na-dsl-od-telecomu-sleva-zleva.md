@@ -4,7 +4,6 @@ slug: 'nove-ceny-pdsl-parodie-na-dsl-od-telecomu-sleva-zleva'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Telecom snižuje ceny DSL od 5. ledna 2004, viz tabulka s datovými limity.
 - Nejlevnější varianta 512/128 s 3 GB dat stojí 1097 Kč s DPH.

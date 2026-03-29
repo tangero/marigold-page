@@ -4,7 +4,6 @@ slug: 'nove-ceny-telecomu-ceka-nas-drazsi-adsl'
 author: Noname
 
   '
-published: true
 summary_points:
 - Telecom zdražuje, ale nové tarify jsou přehlednější a podrobný účet je zdarma.
 - DSL+Home Mini uživatelé mohou pocítit až 40% nárůst, ale Telecom chystá nové ceny.

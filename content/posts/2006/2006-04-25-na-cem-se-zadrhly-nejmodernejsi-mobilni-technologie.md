@@ -4,7 +4,6 @@ slug: 'na-cem-se-zadrhly-nejmodernejsi-mobilni-technologie'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Ekosystém telekomunikací tvoří dodavatel, poskytovatel služby a zákazník, jejichž
   prosperita je vzájemně propojená.

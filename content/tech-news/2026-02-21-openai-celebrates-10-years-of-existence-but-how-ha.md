@@ -18,7 +18,7 @@ source:
   name: TechRadar
 title: OpenAI slaví 10 let existence — ale jak splnilo svůj slib AGI, které 'prospívá
   celému lidstvu'?
-url: https://www.techradar.com/pro/10-years-of-openai
+source_url: https://www.techradar.com/pro/10-years-of-openai
 urlToImage: https://cdn.mos.cms.futurecdn.net/xpFHDLqvb9JBmLZJNUqfdH-2321-80.jpg
 urlToImageBackup: https://cdn.mos.cms.futurecdn.net/xpFHDLqvb9JBmLZJNUqfdH-2321-80.jpg
 ---

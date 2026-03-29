@@ -4,7 +4,6 @@ slug: 'postrehy-z-invexu-i-z-broadband-monday'
 author: Noname
 
   '
-published: true
 summary_points:
 - Invex komorní, příjemná atmosféra, dostatek času pro zákazníky.
 - SIPY získaly zajímavé firemní zákazníky díky unikátnímu řešení.

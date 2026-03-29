@@ -4,7 +4,6 @@ slug: 'wimax-ma-v-cesku-pres-3000-uzivatelu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Intelek prodal 300 WiMax základnových stanic a 3000 koncových zařízení.
 - Intelek má téměř stoprocentní podíl na českém WiMax trhu.

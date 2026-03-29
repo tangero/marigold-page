@@ -4,7 +4,6 @@ slug: 'proc-telecom-o2-nemuze-nikdy-nabidnout-konkurenceschopnou-sluzbu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Telecom nemůže nabídnout konkurenceschopné služby kvůli politice "nekanibalizace"
   stávajících služeb.

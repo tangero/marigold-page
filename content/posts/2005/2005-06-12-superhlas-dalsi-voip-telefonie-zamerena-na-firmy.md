@@ -4,7 +4,6 @@ slug: 'superhlas-dalsi-voip-telefonie-zamerena-na-firmy'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - SuperHlas VoIP služba Zdeňka Cendry cílí na firemní uživatele od roku 2004.
 - SuperHlas umožňuje vytvoření callcentra a funguje jako vzdálená softwarová ústředna.

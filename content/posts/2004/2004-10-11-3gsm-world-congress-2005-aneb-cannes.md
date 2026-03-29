@@ -4,7 +4,6 @@ slug: '3gsm-world-congress-2005-aneb-cannes'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - GSM kongres v Cannes 2005 se koná 14.-17. února a má tři sekce.
 - Venture Funded Technologies nabízí Elevator Pitch pro začínající firmy.

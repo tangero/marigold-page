@@ -2,7 +2,6 @@
 slug: 'bezdratovy-prazsky-internet-e28093-nekdo-upadl-na-hlavicku-a-hrebicek-to-nebyl'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - Pražský magistrát plánuje vybudovat bezdrátovou síť za 300 milionů z dotací.
 - Autor kritizuje plán jako technologicky a ekonomicky labilní, možná zmanipulovaný.

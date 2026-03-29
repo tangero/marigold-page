@@ -20,7 +20,7 @@ source:
   name: Researchbuzz.me
 title: 'Google Gemini, Google Chrome, datacentra v Indianě a další: Sobotní odpolední
   ResearchBuzz, 21. února 2026'
-url: https://researchbuzz.me/2026/02/21/google-gemini-google-chrome-indiana-datacenters-more-saturday-afternoon-researchbuzz-february-21-2026/
+source_url: https://researchbuzz.me/2026/02/21/google-gemini-google-chrome-indiana-datacenters-more-saturday-afternoon-researchbuzz-february-21-2026/
 urlToImage: https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvczAud3AuY29tXC9pXC9ibGFuay5qcGciLCJ0eHQiOiJSZXNlYXJjaEJ1enoiLCJ0ZW1wbGF0ZSI6ImhpZ2h3YXkiLCJmb250IjoiIiwiYmxvZ19pZCI6NDMyODc1Nn0.BjdcPIDlw4ZG0Ki13B-quwxnrzAxn9iB5rJXagRMNlcMQ
 urlToImageBackup: https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvczAud3AuY29tXC9pXC9ibGFuay5qcGciLCJ0eHQiOiJSZXNlYXJjaEJ1enoiLCJ0ZW1wbGF0ZSI6ImhpZ2h3YXkiLCJmb250IjoiIiwiYmxvZ19pZCI6NDMyODc1Nn0.BjdcPIDlw4ZG0Ki13B-quwxnrzAxn9iB5rJXagRMNlcMQ
 ---

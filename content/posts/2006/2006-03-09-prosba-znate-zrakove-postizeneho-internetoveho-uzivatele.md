@@ -4,7 +4,6 @@ slug: 'prosba-znate-zrakove-postizeneho-internetoveho-uzivatele'
 author: Noname
 
   '
-published: true
 summary_points:
 - 'Zrakově postižený uživatel internetu: Noname se ptá na způsoby čtení webu.'
 - 'Hlasová podpora Windows a Opera Voice: Noname se ptá na jejich dostatečnost.'

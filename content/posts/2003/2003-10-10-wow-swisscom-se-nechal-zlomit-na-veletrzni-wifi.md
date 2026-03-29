@@ -4,7 +4,6 @@ slug: 'wow-swisscom-se-nechal-zlomit-na-veletrzni-wifi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Swisscom poskytl autorovi zdarma přístup k WiFi na ženevském Palexpu.
 - Palexpo zasíťované umožní autorovi klidnou práci mimo press centrum.

@@ -7,7 +7,6 @@ categories:
 - Korupce
 
   '
-published: true
 summary_points:
 - Magistrátní investiční průvodce je nová aplikace pro orientaci v úplatnosti úředníků.
 - Zdarma verze pro občany a placená verze MIP pro firmy existují.

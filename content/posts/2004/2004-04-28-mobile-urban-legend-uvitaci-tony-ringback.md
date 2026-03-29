@@ -4,7 +4,6 @@ slug: 'mobile-urban-legend-uvitaci-tony-ringback'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Uvítací tóny spustil SK Telecom v Koreji v srpnu 2002 pod názvem Coloring.
 - SK Telecom aktivoval službu Coloring zdarma pro velké množství klientů.

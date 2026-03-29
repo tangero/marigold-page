@@ -4,7 +4,6 @@ slug: 'starzone-cz-uskali-distribuce-filmu-po-netu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - StarZone.cz je technologicky drahá služba, vázaná na ADSL Českého Telecomu.
 - Nabídka StarZone málo známých filmů, chybí snímky od velkých distributorů.

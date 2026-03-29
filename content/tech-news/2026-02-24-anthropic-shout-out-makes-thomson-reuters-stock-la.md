@@ -17,7 +17,7 @@ source:
   id: financial-post
   name: Financial Post
 title: Chvála od Anthropic posunula akcie Thomson Reuters mezi vítěze v AI
-url: https://financialpost.com/technology/tech-news/anthropic-thomson-reuters-ai-winner
+source_url: https://financialpost.com/technology/tech-news/anthropic-thomson-reuters-ai-winner
 urlToImage: https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/02/0225-mg-reuters.jpg
 urlToImageBackup: https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/02/0225-mg-reuters.jpg
 ---

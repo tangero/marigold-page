@@ -4,7 +4,6 @@ slug: 'linksys-upgraduje-svoje-produkty'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Linksys aktualizuje WiFi produkty WRT54G, WRT54GS, WAP54G a WTR54GS na čipovou sadu
   Broadcom BCM5350/BCM5352.

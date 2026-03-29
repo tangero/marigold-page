@@ -4,7 +4,6 @@ slug: 'akcie-5-technicka-analyza-nakupnich-prilezitosti'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Seriál na Peníze.cz pokračuje pátým dílem o technické analýze akcií.
 - Autor používá dvě základní metody technické analýzy pro zajištění obchodů.

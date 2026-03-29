@@ -4,7 +4,6 @@ slug: 'jak-registracni-znacka-vozu-muze-zlepsit-narodni-zajmy'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Otec byl omylem považován za nacistu kvůli registrační značce auta.
 - Registrační značka obsahovala iniciály, sportovní klub a čísla.

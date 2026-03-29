@@ -4,7 +4,6 @@ slug: 'vysi-kreditu-home-mini-u-ceskeho-telecomu-znalo-spravne-31-respondentu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Home Mini tarifu kredit 102 Kč znalo pouze 31% hlasujících v anketě.
 - Běžní uživatelé Telecomu pravděpodobně neznají výši svého telefonního kreditu.

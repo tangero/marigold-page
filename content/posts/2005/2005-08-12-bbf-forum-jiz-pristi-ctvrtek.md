@@ -4,7 +4,6 @@ slug: 'bbf-forum-jiz-pristi-ctvrtek'
 author: Noname
 
   '
-published: true
 summary_points:
 - Broadband fórum bude jednat příští čtvrtek (viz odkaz na IPV web).
 - Autor hledá místo pro reklamu cílenou na české SAP developery.

@@ -6,7 +6,6 @@ categories:
 - Energomonitor
 
   '
-published: true
 summary_points:
 - Energomonitor.cz monitoruje online spotřebu energie a navrhuje její snížení.
 - Krabička u elektroměru sleduje spotřebu a data odesílá do webové aplikace.

@@ -4,7 +4,6 @@ slug: 'sars-ohrozuje-vyrobu-wifi-linksys-prisahal-na-802-11g-upgrade-cinetik-na-
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WiFi produkce je omezena kvůli epidemii SARS v Asii, zejména v Číně a na Tchajwanu.
 - WiFi může mírně podražit nebo být omezeně dostupná kvůli produkčním omezením.

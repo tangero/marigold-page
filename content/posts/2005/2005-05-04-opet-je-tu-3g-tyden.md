@@ -4,7 +4,6 @@ slug: 'opet-je-tu-3g-tyden'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - G Týden články byly autorem přerušeny koncem minulého roku z neznámého důvodu.
 - G novinky ze zahraničí jsou v ČR zastaralé v době jejich potenciálního uvedení.

@@ -4,7 +4,6 @@ slug: 'ani-ja-v-principu-neverim-na-mobilni-internet'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Mobilní internet není ideální náhrada kabelového, kvůli existující infrastruktuře
   skla a mědi.

@@ -6,7 +6,6 @@ categories:
 - Média
 
   '
-published: true
 summary_points:
 - Outbreak agentura se chlubí mediální manipulací s ledovou koulí pro Jägermeister.
 - Značky lží a mystifikací vnucují produkty, reagují na reklamní slepotu.

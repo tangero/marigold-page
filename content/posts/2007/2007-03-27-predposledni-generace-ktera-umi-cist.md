@@ -4,7 +4,6 @@ slug: 'predposledni-generace-ktera-umi-cist'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor plánuje vydat knihu "Informace jako výrobní prostředek" jako vánoční dárek.
 - Mládež v zemích s dabingem filmů méně čte, než v zemích bez dabingu.

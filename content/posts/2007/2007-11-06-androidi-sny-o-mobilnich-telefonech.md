@@ -4,7 +4,6 @@ slug: 'androidi-sny-o-mobilnich-telefonech'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Android je software platforma pro mobilní telefony, nikoliv telefon od Google.
 - Android vyvíjený od roku 2003, má být otevřený systém s SDK dostupným 12. listopadu

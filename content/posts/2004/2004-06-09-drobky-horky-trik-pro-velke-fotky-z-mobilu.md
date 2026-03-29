@@ -4,7 +4,6 @@ slug: 'drobky-horky-trik-pro-velke-fotky-z-mobilu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Digital photography hacks kniha učí dělat velké fotky i mizerným mobilem.
 - WiMAX článek Rity Pužmanové na Lupě popisuje poslední vývoj technologie.

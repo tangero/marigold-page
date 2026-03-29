@@ -4,7 +4,6 @@ slug: 'peripetie-zakladatelu-czfree-net'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - CZFree.Net řeší komerční aktivity zakladatele sítě.
 - Financování sítí vyžaduje komerční činnost nebo sponzory.

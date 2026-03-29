@@ -4,7 +4,6 @@ slug: 'dodatek-k-zarovkovym-protiargumentum'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Úsporky jsou ekonomicky výhodné i pro sklepy, ceny klesají.
 - Topení žárovkami je drahé, svícení a topení je lepší oddělit.

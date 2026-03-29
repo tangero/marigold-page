@@ -4,7 +4,6 @@ slug: 'jak-rychle-jsou-ve-skutecnosti-kombinovane-802-11-b-g-site'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Matthew Gast změřil datový tok 802.11 sítí v laboratorních podmínkách.
 - b dosahovala reálné rychlosti 5,6 Mb/s, 802.11a pak 27,3 Mb/s.

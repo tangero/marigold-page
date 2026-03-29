@@ -4,7 +4,6 @@ slug: 'arnie-guvernatorem-to-uz-je-solidni-politicka-deziluze'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Schwarzenegger zvolen guvernérem Kalifornie, sedmého nejbohatšího státu světa.
 - Vodička v MF Dnes přezdívá Schwarzeneggera Guvernátor.

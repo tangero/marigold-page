@@ -7,7 +7,6 @@ categories:
 - Startupy
 
   '
-published: true
 summary_points:
 - Twitter a Jaiku inspirovaly české reklamní mikroblogy ŽiješJenJednou.cz a CoDělám.cz.
 - Drbz.cz umožňuje přidávání příspěvků přes web, SMS a integraci do Wordpressu.

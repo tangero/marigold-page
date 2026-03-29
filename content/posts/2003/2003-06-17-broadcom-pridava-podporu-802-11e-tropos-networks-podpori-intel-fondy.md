@@ -4,7 +4,6 @@ slug: 'broadcom-pridava-podporu-802-11e-tropos-networks-podpori-intel-fondy'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Broadcom přidá do WiFi produktů podporu draftu 802.11e (QoS).
 - WiFi sítě by měly dosáhnout propustnosti až 30 Mb/s díky QoS.

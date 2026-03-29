@@ -4,7 +4,6 @@ slug: 'jambo-habari'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor se vrátil z Keni přes Vídeň do Prahy po náročné noční cestě.
 - Pevný disk autora obsahuje 500 fotografií z Keni k roztřídění a popsání.

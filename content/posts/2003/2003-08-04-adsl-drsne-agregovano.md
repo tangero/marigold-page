@@ -4,7 +4,6 @@ slug: 'adsl-drsne-agregovano'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Český Telecom snížil rychlost ADSL agregací datového provozu, až o tři čtvrtiny.
 - Lupa.cz informuje o návrzích Telecomu na ADSL s rychlostmi 512/128 a 1024/256 kb/s.

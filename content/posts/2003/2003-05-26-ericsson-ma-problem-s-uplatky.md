@@ -4,7 +4,6 @@ slug: 'ericsson-ma-problem-s-uplatky'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Ericsson čelí právním problémům kvůli korupci maskované falešnými směnkami v 90.
   letech.

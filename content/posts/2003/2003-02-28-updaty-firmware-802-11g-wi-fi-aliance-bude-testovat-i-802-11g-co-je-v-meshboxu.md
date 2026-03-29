@@ -4,7 +4,6 @@ slug: 'updaty-firmware-802-11g-wi-fi-aliance-bude-testovat-i-802-11g-co-je-v-mes
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Broadcom vydal aktualizaci firmwaru pro čipsety 802.11g.
 - Wi-Fi aliance zahájí testy interoperability 802.11g zařízení v červnu.

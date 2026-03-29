@@ -4,7 +4,6 @@ slug: 'ceska-rozsirila-on-line-vysilani'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - Česká televize rozšířila internetové vysílání o publicistické pořady.
 - Zpravodajství, Popularis a Diagnóza doplnily Černé ovce, Reportéři ČT a Objektiv.

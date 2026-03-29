@@ -4,7 +4,6 @@ slug: 'zmenit-rozvrzeni-titulni-stranky'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Titulní stránka kritizována pro rozvržení a umístění důležitých, ale neaktuálních
   článků.

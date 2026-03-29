@@ -8,7 +8,6 @@ categories:
 - CDMA
 
   '
-published: true
 summary_points:
 - U:fon nabízí Fofr internet Za nula za 5 Kč/15 minut v CDMA síti.
 - Autor potřebuje mobilní internet pro notebook, O2 je drahé.

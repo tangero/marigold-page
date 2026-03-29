@@ -6,7 +6,6 @@ audiooff: false
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - "Optim\xE1ln\xED d\xE9lka paketu je probl\xE9m real-time aplikac\xED v bezdr\xE1\
   tov\xFDch s\xEDt\xEDch."

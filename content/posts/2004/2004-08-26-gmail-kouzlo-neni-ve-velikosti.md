@@ -4,7 +4,6 @@ slug: 'gmail-kouzlo-neni-ve-velikosti'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - GMail nabízí automatické shlukování emailů podle odesilatele a tématu pro přehlednější
   konverzace.

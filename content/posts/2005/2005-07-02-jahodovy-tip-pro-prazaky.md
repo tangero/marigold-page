@@ -4,7 +4,6 @@ slug: 'jahodovy-tip-pro-prazaky'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Kunratice nabízejí samosběr jahod za poplatek, cena byla naposledy 19 Kč.
 - Doprava do Kunratic je možná autem sjezdem z dálnice na Brno směrem na Jesenici.

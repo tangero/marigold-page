@@ -4,7 +4,6 @@ slug: 'za-tu-fotku-se-omlovam-aneb-haptik'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Fotka prototypu UI unikla omylem, není finální a nemusí se dostat na trh.
 - Haptik je nový systém kombinující klávesnici s dotykovou vrstvou pro ovládání telefonu.

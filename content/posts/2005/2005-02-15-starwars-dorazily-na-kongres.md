@@ -4,7 +4,6 @@ slug: 'starwars-dorazily-na-kongres'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Vojáci imperátora ze Star Wars byli vyfoceni na schodech v Cannes.
 - Orange má exkluzivní práva na streamování traileru Star Wars III pro mobilní telefony.

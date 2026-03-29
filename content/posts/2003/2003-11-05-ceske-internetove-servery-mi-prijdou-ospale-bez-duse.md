@@ -4,7 +4,6 @@ slug: 'ceske-internetove-servery-mi-prijdou-ospale-bez-duse'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Technické servery v Česku se omezují na tiskové zprávy, chybí vlastní aktivita.
 - Lupa ztratila zajímavé autory a koncepci serveru o internetu.

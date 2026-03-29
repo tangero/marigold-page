@@ -4,7 +4,6 @@ slug: 'ceska-nokia-prisla-o-dva-vysoke-manazery'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Milan Sameš opouští Nokia Networks, míří do vedení IT firmy.
 - Karel Holub odchází z Nokia Mobile Phone, zakládá vlastní firmu.

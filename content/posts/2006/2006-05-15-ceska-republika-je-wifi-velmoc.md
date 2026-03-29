@@ -4,7 +4,6 @@ slug: 'ceska-republika-je-wifi-velmoc'
 author: Noname
 
   '
-published: true
 summary_points:
 - Google Trends srovnává četnost vyhledávání frází a ukazuje regionální podíl.
 - Nástroj Google Trends umožňuje zjistit, kde lidé hledají práci nebo politické preference.

@@ -21,7 +21,7 @@ source:
   id: null
   name: The New Republic
 title: Hegseth svolává šéfa Anthropicu kvůli sporu o použití AI v armádě
-url: https://newrepublic.com/post/206925/hegseth-anthropic-ai-military
+source_url: https://newrepublic.com/post/206925/hegseth-anthropic-ai-military
 urlToImage: https://images.newrepublic.com/61ad2be55e872353054df1f2319eea159c07fa25.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg
 urlToImageBackup: https://images.newrepublic.com/61ad2be55e872353054df1f2319eea159c07fa25.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg
 ---

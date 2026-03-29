@@ -4,7 +4,6 @@ slug: 'jak-si-t-mobile-predstavuje-erotickou-mms-zpravu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - T-Mobile spustil obsahové MMS zprávy se zpožděním za Eurotelem.
 - Erotická MMS zpráva T-Mobile stála 22 Kč.

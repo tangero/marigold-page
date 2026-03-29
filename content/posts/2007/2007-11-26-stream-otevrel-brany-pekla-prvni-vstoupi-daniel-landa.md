@@ -4,7 +4,6 @@ slug: 'stream-otevrel-brany-pekla-prvni-vstoupi-daniel-landa'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Stream spouští pořad Peklo s Landou, life show/reality show s životními osudy.
 - Pětice lidí s problémy se v Pekle fyzicky připravuje na zápas v thajském boxu.

@@ -4,7 +4,6 @@ slug: 'bezdratova-sit-tipem-na-vykradacku'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Zloději v zahraničí proskenováním WiFi sítí vytipovávají byty k vykradení.
 - Oběti krádeží hlásí případy, kdy zloději lokalizovali byt pomocí WiFi.

@@ -4,7 +4,6 @@ slug: 'nocni-zapoleni-s-recenzi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Recenze Nokia 9500 byla dokončena po víkendovém psaní a úpravách.
 - Formátování recenze se zdrželo kvůli pomalému nahrávání fotek a problémům se softwarem.

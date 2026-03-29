@@ -4,7 +4,6 @@ slug: 'internet-pro-vsechny-hlasi-kampan-na-bezdraty-pokracuje'
 author: Noname
 
   '
-published: true
 summary_points:
 - Internet pro všechny databáze bezdrátových sítí obsahuje 194 sítí a roste.
 - Uživatelé často chybně vyplňují registrační formulář, zejména ceník a popis sítě.

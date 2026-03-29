@@ -4,7 +4,6 @@ slug: 'recall-fulltext-minulosti'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Recall umožňuje fulltextové vyhledávání v archivovaných verzích webů WayBack Machine.
 - WayBack Machine archivuje dřívější podoby webů a Recall v nich vyhledává.

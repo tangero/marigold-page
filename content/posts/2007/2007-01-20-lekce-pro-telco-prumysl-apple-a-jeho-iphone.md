@@ -4,7 +4,6 @@ slug: 'lekce-pro-telco-prumysl-apple-a-jeho-iphone'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Apple představil iPhone, což způsobilo nárůst akcií a rozruch v telekomunikačním
   průmyslu.

@@ -4,7 +4,6 @@ slug: 'linksys-nebude-vyrabet-jen-802-11a-produkty-a-nejake-recenze'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Linksys ruší vývoj produktů pouze s 802.11a standardem.
 - BuffaloTech router 802.11g snižuje rychlost s 802.11b klientem.

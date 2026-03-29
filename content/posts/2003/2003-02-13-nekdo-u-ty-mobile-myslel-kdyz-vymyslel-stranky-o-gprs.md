@@ -4,7 +4,6 @@ slug: 'nekdo-u-ty-mobile-myslel-kdyz-vymyslel-stranky-o-gprs'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - GPRS pro T-Mobile nefungovalo s PCMCIA kartou před cestou do Cannes.
 - T-Mobile web neobsahuje potřebné DNS adresy pro manuální nastavení GPRS.

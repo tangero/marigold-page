@@ -21,7 +21,7 @@ source:
   id: the-times-of-india
   name: The Times of India
 title: Anthropic v konfliktu s americkou armádou kvůli použití AI
-url: https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-at-loggerheads-with-us-military-over-ai-use/articleshow/128722590.cms
+source_url: https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-at-loggerheads-with-us-military-over-ai-use/articleshow/128722590.cms
 urlToImage: https://img.etimg.com/thumb/width-1200,height-900,imgsize-48302,resizemode-75,msid-128722590/tech/artificial-intelligence/anthropic-at-loggerheads-with-us-military-over-ai-use.jpg
 urlToImageBackup: https://img.etimg.com/thumb/width-1200,height-900,imgsize-48302,resizemode-75,msid-128722590/tech/artificial-intelligence/anthropic-at-loggerheads-with-us-military-over-ai-use.jpg
 ---

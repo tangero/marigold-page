@@ -4,7 +4,6 @@ slug: 'skype-vstupuje-na-mobilni-telefony'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - i-Mate bude přidávat Skype do svých produktů.
 - Motorola podepsala dohodu se Skype pro integraci do mobilů.

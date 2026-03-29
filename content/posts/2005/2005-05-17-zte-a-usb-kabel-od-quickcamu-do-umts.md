@@ -4,7 +4,6 @@ slug: 'zte-a-usb-kabel-od-quickcamu-do-umts'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - ZTE demonstrovalo 3G síť u hotelu Panorama v Praze.
 - Kamera Logitech QuickCam sloužila pro streaming videa v 3G síti.

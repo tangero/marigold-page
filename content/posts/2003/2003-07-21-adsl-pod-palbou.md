@@ -4,7 +4,6 @@ slug: 'adsl-pod-palbou'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Czech On-Line kritizuje nestabilitu, výkon a spolehlivost systému service selection
   dashboard.

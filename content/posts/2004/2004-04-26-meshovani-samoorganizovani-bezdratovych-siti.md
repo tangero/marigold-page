@@ -4,7 +4,6 @@ slug: 'meshovani-samoorganizovani-bezdratovych-siti'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Samoorganizující sítě jsou skvělý překlad pro mesh sítě.
 - Holandská komunitní síť FolDerEn používá hardware Soekris.

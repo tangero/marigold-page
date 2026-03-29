@@ -4,7 +4,6 @@ slug: 'anketka-pokusil-jsem-se-vas-nachytat-a-nedali-jste-se'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Stádní chování nefunguje online bez vizuálního kontaktu, potvrdil experiment s anketou.
 - GSM je druhá generace mobilních sítí, ale někteří v anketě chybovali.

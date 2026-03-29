@@ -4,7 +4,6 @@ slug: 'teledrobky-irak-vykopal-americany-zatim-jen-s-cdma-iol-secure-n-gage-send
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Irák udělil licence na GSM mobilní sítě firmám AsiaCell, Orascom a AtherTel.
 - Telecom nabízí IOL Secure, ochranu emailů před viry za 79 Kč měsíčně.

@@ -4,7 +4,6 @@ slug: 'to-je-ficak-uvaha-pred-pizzou'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Venezia nabízí pizzu za poloviční cenu po třetí hodině odpoledne.
 - Čínská restaurace u Otakarovy zve na prohlídku kuchyně kvůli konkurenci.

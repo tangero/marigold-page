@@ -4,7 +4,6 @@ slug: 'prehled-pristupovych-bodu-v-pc-magazine-a-zajimavy-asus-s-usb-portem'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - PC Magazine obsahuje přehled WiFi techniky, konkrétně téměř čtyřicet přístupových
   bodů.

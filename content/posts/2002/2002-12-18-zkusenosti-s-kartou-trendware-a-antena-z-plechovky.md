@@ -4,7 +4,6 @@ slug: 'zkusenosti-s-kartou-trendware-a-antena-z-plechovky'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Trendware TEW-303PI karta má negativní recenzi na Chvalšiny.Net.
 - Chvalšiny.Net je komunitní síť bez uvedené adresy.

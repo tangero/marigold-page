@@ -4,7 +4,6 @@ slug: 'nokia-7650-slavi-druhe-narozeniny'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Nokia 7650 oslavila druhé narozeniny, což ukazuje vývoj chytrých telefonů.
 - Chytré telefony se vyvinuly, ale kvalita fotografií se výrazně nezlepšila.

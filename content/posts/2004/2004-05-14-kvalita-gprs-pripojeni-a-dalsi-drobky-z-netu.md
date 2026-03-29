@@ -4,7 +4,6 @@ slug: 'kvalita-gprs-pripojeni-a-dalsi-drobky-z-netu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Článek na Mobil.cz pojednává o faktorech ovlivňujících kvalitu GPRS připojení.
 - Vodafone testuje flash OFDM v Japonsku, o čemž psal Petr Nachtmann na Mobil.cz.

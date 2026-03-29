@@ -4,7 +4,6 @@ slug: 'caller-name-identification-identifikace-jmena-volajiciho'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - CNI identifikuje volajícího jménem a dalšími daty, nejen číslem.
 - Mobilní telefony dnes zobrazují jen čísla, i když lze přenášet jména.

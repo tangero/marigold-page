@@ -4,7 +4,6 @@ slug: 'zazracna-technologie-wifi-od-5g-wireles-communcations'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - G Wireless údajně posílá WiFi signál na 12 km skrze budovy.
 - USA povolují vyšší vysílací výkony, což může omezit využití v EU.

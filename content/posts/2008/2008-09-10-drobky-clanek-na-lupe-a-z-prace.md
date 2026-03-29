@@ -7,7 +7,6 @@ categories:
 - MObilní sítě
 
   '
-published: true
 summary_points:
 - Lupa článek pojednává o vývoji 4G technologií LTE, UMB a WiMax.
 - Stream nasadil novou CDN pro odbavování videí a seeking funkcionalitu.

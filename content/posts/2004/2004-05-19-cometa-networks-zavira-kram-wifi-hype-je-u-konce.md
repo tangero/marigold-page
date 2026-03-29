@@ -4,7 +4,6 @@ slug: 'cometa-networks-zavira-kram-wifi-hype-je-u-konce'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Cometa Networks, WiFi projekt Intel Capital, AT&T a IBM, končí.
 - Důvodem ukončení projektu Cometa Networks je nenalezení finančního partnera.

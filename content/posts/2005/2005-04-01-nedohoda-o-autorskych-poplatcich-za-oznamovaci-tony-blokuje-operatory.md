@@ -4,7 +4,6 @@ slug: 'nedohoda-o-autorskych-poplatcich-za-oznamovaci-tony-blokuje-operatory'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Mobil.iDNES.cz publikoval článek o autorských právech na oznamovací tóny.
 - Autor nesouhlasí s tím, že by operátoři za tyto tóny neměli platit.

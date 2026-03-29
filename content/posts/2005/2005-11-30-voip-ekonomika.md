@@ -4,7 +4,6 @@ slug: 'voip-ekonomika'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Mobilring publikoval článek o zkušenostech s dealerským systémem VoIP Ha-loo.
 - Článek spekuluje o průměrné útratě uživatele a návratnosti VoIP služby.

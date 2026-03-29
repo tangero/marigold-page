@@ -4,7 +4,6 @@ slug: 'pozice-vodafone-v-evrope'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Vodafone není jedničkou v počtu zákazníků ani v obratu na klíčových trzích.
 - V Německu Vodafone po převzetí D2-Manesmann ztratil vedoucí pozici.

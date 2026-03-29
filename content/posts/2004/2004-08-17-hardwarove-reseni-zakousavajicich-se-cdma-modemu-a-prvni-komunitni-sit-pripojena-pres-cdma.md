@@ -4,7 +4,6 @@ slug: 'hardwarove-reseni-zakousavajicich-se-cdma-modemu-a-prvni-komunitni-sit-pr
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - GTran modemy Eurotelu se občas kousnou a přestanou přenášet data.
 - Quattro vytvořil zapojení, které "kousnutý" modem automaticky restartuje.

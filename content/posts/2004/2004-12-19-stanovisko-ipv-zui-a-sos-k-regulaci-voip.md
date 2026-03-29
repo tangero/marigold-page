@@ -4,7 +4,6 @@ slug: 'stanovisko-ipv-zui-a-sos-k-regulaci-voip'
 author: Noname
 
   '
-published: true
 summary_points:
 - Stanovisko k regulaci VoIP vydaly IPV, ZUI a SOS dne 26.11.2004.
 - ČTÚ neupřesnil, co považuje za IP telefonii, což je zásadní nedostatek.

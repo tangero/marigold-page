@@ -4,7 +4,6 @@ slug: 'gprs-za-pausal-kdo-ho-ma'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Paušální GPRS data jsou výjimečná, operátoři nabízejí paušály hlavně pro WAP s limitem.
 - Vodafone Maďarsko nabízí datový paušál za 400 Kč, USA má dražší možnosti.

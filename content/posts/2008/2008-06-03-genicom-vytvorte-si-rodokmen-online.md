@@ -6,7 +6,6 @@ categories:
 - Rodokmeny
 
   '
-published: true
 summary_points:
 - Rodokmeny v Česku po komunismu ožívají, autor tvoří rodokmen Zandlů.
 - Geni.com je vybrán pro jednoduchost, online spolupráci a grafický editor.

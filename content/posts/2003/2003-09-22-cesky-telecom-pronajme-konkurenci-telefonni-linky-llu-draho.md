@@ -4,7 +4,6 @@ slug: 'cesky-telecom-pronajme-konkurenci-telefonni-linky-llu-draho'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Český Telecom nabízí pronájem linek konkurenci, což umožní kompletní účet od alternativního
   operátora.

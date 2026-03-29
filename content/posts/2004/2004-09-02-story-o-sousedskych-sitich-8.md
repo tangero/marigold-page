@@ -4,7 +4,6 @@ slug: 'story-o-sousedskych-sitich-8'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - AP ORINOCO AP1000 autor zavrhl kvůli neúspěšnému boji a nulové odezvě.
 - Linksys BEFW11S4 a WRT54G nebyly dostupné u oslovených dodavatelů.

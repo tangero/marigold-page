@@ -4,7 +4,6 @@ slug: 'teplou-drzkovou-na-novem-smichove-servirovala-ochranka-carrefoure'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Flash Mob na Novém Smíchově skončil napadením dvou blogerů ochrankou Carrefouru.
 - Ochranka Nového Smíchova zadržovala aktéry a držela je v cele.

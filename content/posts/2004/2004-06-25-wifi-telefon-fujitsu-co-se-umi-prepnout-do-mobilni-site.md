@@ -4,7 +4,6 @@ slug: 'wifi-telefon-fujitsu-co-se-umi-prepnout-do-mobilni-site'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Fujitsu a Net-2Com představily WiFi telefon s přepojováním do japonské PHS sítě.
 - Prototyp telefonu je vystaven na China Telecom 2004 v Šanghaji.

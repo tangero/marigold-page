@@ -4,7 +4,6 @@ slug: 'jak-je-to-s-temi-rychlymi-daty-od-toshiby'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Toshiba prezentovala rychlé bezdrátové sítě s rychlostí přes 100 Mb/s, výhledově
   1 Gb/s.

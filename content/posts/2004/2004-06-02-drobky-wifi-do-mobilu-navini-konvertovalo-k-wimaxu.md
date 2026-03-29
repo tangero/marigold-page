@@ -4,7 +4,6 @@ slug: 'drobky-wifi-do-mobilu-navini-konvertovalo-k-wimaxu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Avaya, Motorola a Proxim vyvíjejí telefon pro přepínání VoIP hovorů mezi WiFi a
   mobilní sítí.

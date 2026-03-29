@@ -4,7 +4,6 @@ slug: 'bluetooth-verze-1-2-schvalena'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Bluetooth 1.2 schválen 17.6. přináší adaptive frequency hopping pro snížení interferencí.
 - Zvýšená kvalita zvuku v Bluetooth 1.2 je založena na error detection methodologies.

@@ -4,7 +4,6 @@ slug: 'ceeoxx-dekovny-dopis-aneb-recenze-prasku-proti-bolesti'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Samurajské heslo o bolesti platilo autorovi do návštěvy zubaře.
 - Zubařovo "reagovat" značí bolestivou reakci na zásah do zubního nervu.

@@ -4,7 +4,6 @@ slug: 'oskarovy-zariove-mms-zpravy'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Oskar pravděpodobně v září spustí MMS zprávy, včetně mezisíťové komunikace.
 - Oskar FotoPošta MMS nabídne posílání MMS zpráv formou pohlednic.

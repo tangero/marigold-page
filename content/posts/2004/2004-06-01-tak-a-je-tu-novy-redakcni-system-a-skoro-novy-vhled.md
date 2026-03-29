@@ -4,7 +4,6 @@ slug: 'tak-a-je-tu-novy-redakcni-system-a-skoro-novy-vhled'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Nucleus přechod úspěšný díky Radku Hulánovi, který upravil template Marigold.
 - Italica způsobovala dvoumilimetrový proužek v MSIE, vyřešeno pomocí hacku.

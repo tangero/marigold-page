@@ -4,7 +4,6 @@ slug: 'nokia-komunikator-se-series-90-spekulace-pokracuji'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Nokia Hildon komunikátor by mohl být představen příští týden nebo v polovině listopadu.
 - Dotykový displej s grafity znaky může nahradit klávesnicové ovládání.

@@ -4,7 +4,6 @@ slug: 'blokovani-reklamy-telekomunikacnimi-operatory-je-jizda-na-mrtvem-koni'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - O2 plánuje blokovat reklamy v mobilní a fixní síti.
 - Blokování reklam cílí na příjmy reklamních a mediálních agentur.

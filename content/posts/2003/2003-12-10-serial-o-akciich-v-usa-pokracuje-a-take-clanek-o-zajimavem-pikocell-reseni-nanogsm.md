@@ -4,7 +4,6 @@ slug: 'serial-o-akciich-v-usa-pokracuje-a-take-clanek-o-zajimavem-pikocell-resen
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Penize.cz zveřejnily třetí díl seriálu o obchodování s akciemi na amerických trzích.
 - Mobil.cz publikoval článek o nanoGSM, kompaktní pikocelle pro vnitřní pokrytí.

@@ -2,7 +2,6 @@
 slug: 'z-jak-dlouho-se-clovek-nauci-z-voleje-programovat-kdyz-to-pred-tim-nikdy-nedelal'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - Přespolování horníků na programátory v Česku vyvolává otázky o proveditelnosti.
 - Naučit se programovat od nuly vyžaduje čas a zvládnutí moderních frameworků.

@@ -6,7 +6,6 @@ categories:
 - Příběhy
 
   '
-published: true
 summary_points:
 - Autor prožil v Praze osmnáct let, bydlel na kolejích i v různých typech bytů.
 - Pražský život s hlukem, špínou a korupcí autora omrzel, chce klidnější prostředí.

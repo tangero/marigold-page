@@ -4,7 +4,6 @@ slug: 'hughes-ma-novy-satelitni-modem-s-eternetem-direcway-dw6000'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - DirecWay DW6000 má ethernetové rozhraní, na rozdíl od starších USB modemů.
 - DW6000 nepotřebuje pro první nastavení jiné internetové připojení.

@@ -4,7 +4,6 @@ slug: 'jak-se-prodava-adsl-vorvanum'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Kamarádova firma měla čtyři ADSL přípojky, každou pro jeden počítač.
 - Prohození konektorů RJ-11 a RJ-45 způsobilo nefunkčnost ADSL modemu.

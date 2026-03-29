@@ -4,7 +4,6 @@ slug: 'tiscali-zprovoznilo-hotspot-zdarma-v-metropoli'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Metropole Zličín má nový Wi-Fi hotspot od Tiscali.
 - Tiscali hotspot se nachází nad Food Courtem v Metropoli Zličín.

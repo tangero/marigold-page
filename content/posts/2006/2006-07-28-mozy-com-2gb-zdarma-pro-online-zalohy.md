@@ -4,7 +4,6 @@ slug: 'mozy-com-2gb-zdarma-pro-online-zalohy'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Mozy nabízí online zálohování pro Windows XP s 2GB zdarma.
 - GB prostoru na Mozy stojí 2 dolary měsíčně, což je levné.

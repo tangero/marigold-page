@@ -6,7 +6,6 @@ categories:
 - Politika
 
   '
-published: true
 summary_points:
 - Kašpárkův článek o zdanění OSVČ je označen za snůšku nesmyslů a logických faulů.
 - OSVČ mají nižší daně kompenzované menším sociálním zabezpečením a právní ochranou.

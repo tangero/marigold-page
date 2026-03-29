@@ -4,7 +4,6 @@ slug: 'chci-bezdratovou-sit-3'
 author: Noname
 
   '
-published: true
 summary_points:
 - Hot-spoty umožňují připojení k internetu na veřejných místech jako hotely a letiště.
 - Nomadix firma stála u zrodu hot-spotů v roce 1998.

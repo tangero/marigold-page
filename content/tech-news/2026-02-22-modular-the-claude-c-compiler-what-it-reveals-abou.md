@@ -18,7 +18,7 @@ source:
   id: null
   name: Modular.com
 title: 'Modular: Kompilátor C od Claude: Co odhaluje o budoucnosti softwaru'
-url: https://www.modular.com/blog/the-claude-c-compiler-what-it-reveals-about-the-future-of-software
+source_url: https://www.modular.com/blog/the-claude-c-compiler-what-it-reveals-about-the-future-of-software
 urlToImage: https://cdn.prod.website-files.com/68c9c3107effc2ea46e1a82c/6996624ca950e0f8926d6f86_Option05.png
 urlToImageBackup: https://cdn.prod.website-files.com/68c9c3107effc2ea46e1a82c/6996624ca950e0f8926d6f86_Option05.png
 ---

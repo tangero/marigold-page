@@ -4,7 +4,6 @@ slug: 'wi-fi-snipper'
 author: Noname
 
   '
-published: true
 summary_points:
 - DefCon prezentoval "pušku" s Yagi anténou pro zaměřování Wi-Fi signálů.
 - Anténa má dosah až 10 km, ale použití 500mW zesilovače je nelegální.

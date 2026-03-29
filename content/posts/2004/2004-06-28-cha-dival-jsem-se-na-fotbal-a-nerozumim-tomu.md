@@ -4,7 +4,6 @@ slug: 'cha-dival-jsem-se-na-fotbal-a-nerozumim-tomu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Dita považuje vypravěče za nenormálního, protože nekonzumuje fotbal a pivo.
 - Fotbalový poločas trvá 45 minut plus nastavený čas, což vypravěče překvapilo.

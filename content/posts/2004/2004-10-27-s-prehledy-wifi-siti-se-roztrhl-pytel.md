@@ -4,7 +4,6 @@ slug: 's-prehledy-wifi-siti-se-roztrhl-pytel'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Marigoldova databáze WiFi hotspotů se smísila s body pro trvalé připojení.
 - Internet pro všechny vytvořil seznam přípojných bodů pro trvalé připojení.

@@ -4,7 +4,6 @@ slug: 'wifijet-pry-za-pausal-data-nonstop-na-puvodni-ceny'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WiFiJet od Eurotelu bude od dubna stát 1463 Kč s DPH.
 - Eurotel Data Nonstop se vrací na původní ceny od dubna.

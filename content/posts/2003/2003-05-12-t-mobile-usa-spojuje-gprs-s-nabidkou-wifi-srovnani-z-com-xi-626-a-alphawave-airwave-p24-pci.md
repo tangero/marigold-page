@@ -4,7 +4,6 @@ slug: 't-mobile-usa-spojuje-gprs-s-nabidkou-wifi-srovnani-z-com-xi-626-a-alphawa
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - T-Mobile nabízí WiFi paušál za 20 USD měsíčně pro své GPRS zákazníky.
 - T-Mobile WiFi síť má 2300 hotspotů a očekává se 5000 do konce roku.

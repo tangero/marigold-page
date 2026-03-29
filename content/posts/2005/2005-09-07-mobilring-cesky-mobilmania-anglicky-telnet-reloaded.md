@@ -4,7 +4,6 @@ slug: 'mobilring-cesky-mobilmania-anglicky-telnet-reloaded'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Mobilring je nový telekomunikační zpravodajský server s analýzou mobilních peněženek.
 - Eurotel zavede mobilní platby systémem MobiPay, zjištěno na Mobilringu.

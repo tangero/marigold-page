@@ -4,7 +4,6 @@ slug: 'vodafone-slapl-do-udg-a-usmevu-konkurentu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - UGC je User Generated Content, tedy obsah tvořený samotnými uživateli.
 - Vodafone nabízí tarif SMS Grátis s limitem 300 SMS denně.

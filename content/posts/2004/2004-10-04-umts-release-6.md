@@ -8,7 +8,6 @@ categories:
 - Turboúvod do mobilních sítí
 
   '
-published: true
 summary_points:
 - UMTS Release 6 zahrnuje MBMS pro jednosměrnou distribuci obsahu point-to-multipoint.
 - EUDCH v Release 6 zlepší pokrytí, průchodnost a zpoždění při odesílání dat.

@@ -22,7 +22,7 @@ source:
   name: The Times of India
 title: Akcie Infosys, TCS a dalších IT firem v centru pozornosti díky partnerstvím
   Anthropic, která zmírňují obavy z narušení
-url: https://economictimes.indiatimes.com/markets/stocks/news/infosys-tcs-and-other-it-stocks-in-focus-as-multiple-anthropic-partnerships-ease-disruption-fears/articleshow/128768793.cms
+source_url: https://economictimes.indiatimes.com/markets/stocks/news/infosys-tcs-and-other-it-stocks-in-focus-as-multiple-anthropic-partnerships-ease-disruption-fears/articleshow/128768793.cms
 urlToImage: https://img.etimg.com/thumb/msid-128768779,width-1200,height-630,imgsize-29692,overlay-etmarkets/articleshow.jpg
 urlToImageBackup: https://img.etimg.com/thumb/msid-128768779,width-1200,height-630,imgsize-29692,overlay-etmarkets/articleshow.jpg
 ---

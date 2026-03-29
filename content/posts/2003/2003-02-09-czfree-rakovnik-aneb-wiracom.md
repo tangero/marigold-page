@@ -4,7 +4,6 @@ slug: 'czfree-rakovnik-aneb-wiracom'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Wiracom, nové občanské sdružení, buduje CzFree Net v Rakovníku.
 - Měsíční poplatek za internet přes Wiracom činí 500 Kč.

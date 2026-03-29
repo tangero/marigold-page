@@ -4,7 +4,6 @@ slug: 'kniha-sirokopasmovy-internet-pristupove-a-domaci-site-rita-puzmanova'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Kniha Širokopásmový Internet od Rity Puzmanové (Cpress) má 380 stran.
 - Popisuje technologie přístupových sítí, včetně DSL, optiky, WiFi, mobilních sítí

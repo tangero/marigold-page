@@ -6,7 +6,6 @@ categories:
 - Digitální detox
 
   '
-published: true
 summary_points:
 - Abstinenční příznaky absence internetu způsobují očekávání okamžitých reakcí na
   e-maily.

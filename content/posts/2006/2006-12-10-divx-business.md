@@ -4,7 +4,6 @@ slug: 'divx-business'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - DivX se transformuje z pirátského kodeku do seriózního video obchodu.
 - DivX nabízí levné licence pro DVD přehrávače s garantovanou kompatibilitou.

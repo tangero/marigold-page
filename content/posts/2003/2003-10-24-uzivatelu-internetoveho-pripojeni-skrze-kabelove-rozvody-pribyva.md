@@ -4,7 +4,6 @@ slug: 'uzivatelu-internetoveho-pripojeni-skrze-kabelove-rozvody-pribyva'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - tisíc domácností a firem v ČR předplácí vysokorychlostní internet po kabelu.
 - ČAKK sdružuje hlavní kabelové společnosti UPC, Karneval a SELF servis.

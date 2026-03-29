@@ -7,7 +7,6 @@ categories:
 - Ekonomika
 
   '
-published: true
 summary_points:
 - Kosmické lodi budoucnosti vyžadují programátory pro údržbu a opravy systémů.
 - Programování se stane běžnou dovedností, nahradí některé profese díky 3D tisku.

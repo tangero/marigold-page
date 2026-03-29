@@ -4,7 +4,6 @@ slug: 'siemens-gigaset-m34-usb-adapter-pro-skype'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Skype 10.11.2004 oznámil podporu Siemens Gigaset telefonů pomocí Gigaset M34 USB
   adaptéru.

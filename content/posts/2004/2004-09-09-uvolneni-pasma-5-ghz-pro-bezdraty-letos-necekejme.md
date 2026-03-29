@@ -4,7 +4,6 @@ slug: 'uvolneni-pasma-5-ghz-pro-bezdraty-letos-necekejme'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - GHz pásmo zpřístupněno pro RLAN nejdříve v prvním čtvrtletí 2005.
 - CEPT/ECC přijalo aktualizované rozhodnutí ECC/DEC/(04)08 s účinností 12. 11. 2004.

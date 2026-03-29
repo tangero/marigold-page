@@ -4,7 +4,6 @@ slug: 'eurotel-spousti-prvni-3g-sit-u-nas-cdma2000-ev-do'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Eurotel spustil první českou komerční 3G síť pro rychlá data.
 - EDGE je minimálně čtyřikrát pomalejší než CDMA Data Expres od Eurotelu.

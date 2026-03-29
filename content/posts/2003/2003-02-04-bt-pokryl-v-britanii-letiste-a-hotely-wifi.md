@@ -4,7 +4,6 @@ slug: 'bt-pokryl-v-britanii-letiste-a-hotely-wifi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - BT upřednostňuje WiFi před 3G sítěmi pro datové služby ve Velké Británii.
 - WiFi síť BT Openzone nabízí trojnásobnou rychlost 3G za poloviční cenu.

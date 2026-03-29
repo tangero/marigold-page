@@ -4,7 +4,6 @@ slug: 'garfield-proti-limitum-na-chello'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - UPC zvažuje omezení rychlosti pro uživatele s nadměrnou spotřebou dat.
 - Omezení rychlosti nebude automatické, UPC bude posuzovat případy individuálně.

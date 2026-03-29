@@ -2,7 +2,6 @@
 slug: 'a-zase-doma'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - Cesta autem z Cannes do Česka měří 1260 km a trvá 12-13 hodin.
 - Švýcarsko vyžaduje celoroční dálniční známku, Rakousko desetidenní.

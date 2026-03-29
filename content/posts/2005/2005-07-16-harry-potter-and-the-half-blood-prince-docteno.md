@@ -4,7 +4,6 @@ slug: 'harry-potter-and-the-half-blood-prince-docteno'
 author: Noname
 
   '
-published: true
 summary_points:
 - Harry Potter 6. díl je napínavý od začátku do konce, nejlepší ze série.
 - Kniha objasňuje nejasnosti, Harry se učí nová kouzla a je nejlepší v lektvarech.

@@ -19,7 +19,7 @@ source:
   name: CBC News
 title: Kanadský ministr pro umělou inteligenci upozorňuje na bezpečnostní protokoly
   OpenAI po masové střelbě v Tumbler Ridge
-url: https://www.cbc.ca/news/canada/british-columbia/federal-ai-minister-raises-concerns-over-openai-tumbler-ridge-shooting-9.7101279
+source_url: https://www.cbc.ca/news/canada/british-columbia/federal-ai-minister-raises-concerns-over-openai-tumbler-ridge-shooting-9.7101279
 urlToImage: https://i.cbc.ca/ais/06625b6e-4f06-4066-a12f-d152a6f71b67,1771713106276/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C68%2C1280%2C720%29%3BResize%3D620
 urlToImageBackup: https://i.cbc.ca/ais/06625b6e-4f06-4066-a12f-d152a6f71b67,1771713106276/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C68%2C1280%2C720%29%3BResize%3D620
 ---

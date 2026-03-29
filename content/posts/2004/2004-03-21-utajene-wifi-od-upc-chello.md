@@ -4,7 +4,6 @@ slug: 'utajene-wifi-od-upc-chello'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - UPC nabízí WiFi připojení Chello v místech bez kabelového internetu.
 - Lokality s WiFi Chello zahrnují Nusle, Krč, Horní Počernice a další.

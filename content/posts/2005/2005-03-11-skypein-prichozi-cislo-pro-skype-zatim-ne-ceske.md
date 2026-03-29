@@ -4,7 +4,6 @@ slug: 'skypein-prichozi-cislo-pro-skype-zatim-ne-ceske'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Skype zprovoznil SkypeIn, příchozí čísla z USA, Británie, Francie a Hong Kongu.
 - Skype Voicemail, hlasová schránka ke Skype účtu, stojí 5/15 Euro za 3 měsíce/rok.

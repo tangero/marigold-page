@@ -4,7 +4,6 @@ slug: 'podminky-pro-nove-registratory-v-domene-cz'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - CZ.NIC zveřejnil podmínky pro registrátory v decentralizovaném systému.
 - Koncoví uživatelé by neměli pocítit cenový šok z nového systému.

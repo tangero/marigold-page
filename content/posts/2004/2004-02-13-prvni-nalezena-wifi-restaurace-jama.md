@@ -4,7 +4,6 @@ slug: 'prvni-nalezena-wifi-restaurace-jama'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Restaurace Jáma v ulici V Jámě nabízí WiFi zdarma pro své zákazníky.
 - WiFi funguje v nekuřáckém salonku restaurace Jáma, kde je i internetová kavárna.

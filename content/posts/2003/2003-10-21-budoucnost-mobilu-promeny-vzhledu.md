@@ -4,7 +4,6 @@ slug: 'budoucnost-mobilu-promeny-vzhledu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Vzhled mobilu je klíčový faktor při výběru a koupi.
 - Neatraktivní mobil nemá šanci v konkurenci.

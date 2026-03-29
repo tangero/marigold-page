@@ -4,7 +4,6 @@ slug: 'redakcni-system-pro-marigolda-ten-novy-a-stary'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Marigold opouští Blog:CMS kvůli neshodám s Radkem Hulánem ohledně jeho příspěvků.
 - Autor přesune Marigold do dvou měsíců a Hulánovi daroval routery jako kompenzaci.

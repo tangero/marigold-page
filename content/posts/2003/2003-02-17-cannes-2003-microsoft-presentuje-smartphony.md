@@ -4,7 +4,6 @@ slug: 'cannes-2003-microsoft-presentuje-smartphony'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - 'Cannes: Juha Christensen představil tři nové smartphone terminály od Samsungu,
   Mitacu a T-Mobile.'

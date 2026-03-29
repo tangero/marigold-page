@@ -4,7 +4,6 @@ slug: 'apple-macbook-pro-2016-a-vzpoura-proti-demonum-pochybnosti'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Apple představil nové MacBooky s Touch Barem a USB-C porty.
 - Touch Bar nabízí programovatelný OLED displej a Touch ID.

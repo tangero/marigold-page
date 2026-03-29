@@ -4,7 +4,6 @@ slug: 'mobildrobky-jbag-dokumenty-domobilu-pic4mms-com-a-big-brother-via-3g-site
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Jbag umožňuje nahrávat rozsáhlé dokumenty do javových mobilů, ale nerozumí si s
   diakritikou.

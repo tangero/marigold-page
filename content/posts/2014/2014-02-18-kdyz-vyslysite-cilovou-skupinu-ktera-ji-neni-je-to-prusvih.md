@@ -4,7 +4,6 @@ slug: 'kdyz-vyslysite-cilovou-skupinu-ktera-ji-neni-je-to-prusvih'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Kritika je účinnější, když vychází z vlastních chyb.
 - Energomonitor se zaměřuje na šetření energie pomocí online služby.

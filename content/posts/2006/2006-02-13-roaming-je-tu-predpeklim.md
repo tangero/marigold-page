@@ -4,7 +4,6 @@ slug: 'roaming-je-tu-predpeklim'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Roaming Ameno neumožňuje odesílat MMS a data začala fungovat až později.
 - Vodafone informoval o cenách, ale volající občas neslyší.

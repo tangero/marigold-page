@@ -8,7 +8,6 @@ categories:
 - Restituce
 
   '
-published: true
 summary_points:
 - Církevní restituce vrací majetek z roku 1949, který byl církvi nezaplaceně odebrán.
 - Stát vrací pouze majetek, který aktuálně vlastní, jinak poskytne finanční náhradu.

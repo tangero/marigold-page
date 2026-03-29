@@ -8,7 +8,7 @@ categories:
 - kryptoměny
 - Jiříkovský
 - Pavel Blažek
-date: 18.6.2025 7:30:00
+date: 2025-06-18 07:30:00
 thumbnail: https://www.marigold.cz/assets/babis-bitcoin.png
 title: "Víme, co se stalo s 9 miliardami korun Tomáše Jiříkovského z tržiště Nucleus"
 ---

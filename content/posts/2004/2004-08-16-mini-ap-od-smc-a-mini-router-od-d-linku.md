@@ -4,7 +4,6 @@ slug: 'mini-ap-od-smc-a-mini-router-od-d-linku'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Asus mini přístupový bod byl úspěšný, což inspirovalo konkurenci k podobným produktům.
 - SMCWTK-G je cestovní sada pro bezdrátové sítě s pěti režimy a cenou 100 USD.

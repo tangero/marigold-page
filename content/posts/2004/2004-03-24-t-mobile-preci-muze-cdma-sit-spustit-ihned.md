@@ -4,7 +4,6 @@ slug: 't-mobile-preci-muze-cdma-sit-spustit-ihned'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Stádník vidí zásah do licence 450 MHz jako "znárodnění".
 - Mlynář obdržel dopis od T-Mobile s požadavkem na frekvenci 450 MHz.

@@ -4,7 +4,6 @@ slug: 'd-link-di-614-ma-problemy-s-upc-internetem'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - D-Link DI-614+ router má problémy s DHCP přidělováním adresy u UPC.
 - Pevná IP adresa nebo statické nastavení DHCP adresy řeší problém s D-Linkem u UPC.

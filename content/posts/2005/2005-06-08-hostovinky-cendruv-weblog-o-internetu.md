@@ -4,7 +4,6 @@ slug: 'hostovinky-cendruv-weblog-o-internetu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Hostovinky.cz je blog Zdeňka Cendry o webhostingu a zajímavostech kolem něj.
 - Zdeněk Cendra začal podnikat mladý, což autor textu vnímá jako výhodu.

@@ -4,7 +4,7 @@ slug: 'covid_novy_normal'
 categories:
 - COVID
 - Společnost
-date: 24.1.2021
+date: 2021-01-24
 excerpt: Spoléháme se až příliš v poslední době na to, že karanténní opatření vytěsní
   COVID a vakcinace jej dorazí, načež zmizí ze scény a už se nevrátí. Jenže tohle
   není vůbec samozřejmé. Z COVIDu mnohem spíše bude *nový normál*. Svět se změnil

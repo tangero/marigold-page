@@ -4,7 +4,6 @@ slug: 'spolecny-boj-proti-islamistickym-teroristum-navod'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - Sp
 title: Společný boj proti islamistickým teroristům – návod

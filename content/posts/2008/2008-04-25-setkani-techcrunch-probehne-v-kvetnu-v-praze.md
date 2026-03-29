@@ -7,7 +7,6 @@ categories:
 - Startupy
 
   '
-published: true
 summary_points:
 - TechCrunch pořádá 23. května v Praze neformální setkání pro lidi z internetu.
 - Setkání TechCrunch nabízí možnost potkat lidi z mezinárodního internetového prostředí.

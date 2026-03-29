@@ -4,7 +4,6 @@ slug: 'jak-rozumet-akvizice-firmy-nest-googlem'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Google kupuje Nest za 3 miliardy dolarů kvůli synergiím v energetice.
 - Nest vyvíjí chytré termostaty automaticky regulující teplotu a šetřící energii.

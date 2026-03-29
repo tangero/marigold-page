@@ -4,7 +4,6 @@ slug: 'zitra-uz-v-barcelone-a-od-pondeli-3gsm'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Blog autorovi po měsíci abstinence nechybí, ale zaznamená 3GSM kongres.
 - Barcelona je lokace 3GSM kongresu, autor ji miluje a zítra odlétá.

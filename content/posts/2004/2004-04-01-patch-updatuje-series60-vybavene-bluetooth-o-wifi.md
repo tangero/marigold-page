@@ -4,7 +4,6 @@ slug: 'patch-updatuje-series60-vybavene-bluetooth-o-wifi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Series60 telefony s bluetooth lze patchem doplnit o WiFi.
 - Patch využívá stávající hardware a mění modulační schéma.

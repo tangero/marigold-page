@@ -4,7 +4,6 @@ slug: 'neocekavana-recenze-micelialni-pentalogie-vilmy-kadleckove'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Kadlečková vyniká v české sci-fi/fantasy, její díla jsou myšlenkově obsažnější.
 - Česká sci-fi/fantasy zaostává myšlenkově i kvalitou za zahraniční konkurencí.

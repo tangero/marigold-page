@@ -4,7 +4,6 @@ slug: 'electroworld-kdo-pipa-bude-zastrelen'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - ElectroWorld v Průhonicích neměl ethernetový hub, pouze USB hub.
 - Zákazník pípal u vchodu a ochranka ho donutila k prohlídce.

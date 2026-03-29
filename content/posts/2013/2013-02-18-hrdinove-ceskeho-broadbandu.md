@@ -9,7 +9,6 @@ categories:
 featured: true
 
   '
-published: true
 summary_points:
 - CzFree.Net Zdeňka Jandy a Davida Čermáka položila základy pro komerční sítě a rozvoj
   broadbandu.

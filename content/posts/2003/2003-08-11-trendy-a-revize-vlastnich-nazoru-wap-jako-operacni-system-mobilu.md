@@ -4,7 +4,6 @@ slug: 'trendy-a-revize-vlastnich-nazoru-wap-jako-operacni-system-mobilu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Prezentace z roku 1999 předpovídala budoucí trendy mobilních telefonů a komunikace.
 - WAPu základní problém byla neschopnost operátorů spolupracovat s poskytovateli obsahu.

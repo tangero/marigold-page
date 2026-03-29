@@ -4,7 +4,6 @@ slug: 'wifidrobky-ovislink-wireless-router-laciny-d-link'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Mobil.cz recenzoval Ovislink Wireless Router, levnější širokopásmový WiFi směrovač.
 - Wifishop.cz nabízí D-Link produkty, například APčko za necelé dva tisíce.

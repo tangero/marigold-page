@@ -4,7 +4,6 @@ slug: 'moje-nova-povidka-se-jmenuje-garangova-limita'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Garangova limita je povídka psaná formou diplomové práce ze sociohistorie.
 - Autor zasadil povídku do roku 2092, reflektuje v ní vliv umělé inteligence.

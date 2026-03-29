@@ -4,7 +4,6 @@ slug: 'anketka-titulka-marigolda-se-menit-nebude'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Ankety na Marigoldovi nyní zobrazují výsledky až po hlasování.
 - '% hlasujících si přeje ponechat stávající podobu titulky Marigolda.'

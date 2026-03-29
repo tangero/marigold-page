@@ -4,7 +4,6 @@ slug: 'kterak-jsem-pro-telekonom-vybiral-webhosting'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor chtěl publikovat blog Telekonom na vlastním FTP serveru.
 - Pipni.cz nabízelo webhosting zdarma při registraci domény, ale mělo výpadky.

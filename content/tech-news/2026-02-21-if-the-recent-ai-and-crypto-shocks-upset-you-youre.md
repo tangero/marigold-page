@@ -14,7 +14,7 @@ source:
   id: fortune
   name: Fortune
 title: Pokud vás nedávné šoky v AI a kryptoměnách rozčílily, sledujete špatný cyklus
-url: https://fortune.com/2026/02/21/claude-upus-openclaw-market-shock-saaspocalypse-like-deepseek-moment/
+source_url: https://fortune.com/2026/02/21/claude-upus-openclaw-market-shock-saaspocalypse-like-deepseek-moment/
 urlToImage: https://fortune.com/img-assets/wp-content/uploads/2026/02/igor-pejic.jpg?resize=1200,600
 urlToImageBackup: https://fortune.com/img-assets/wp-content/uploads/2026/02/igor-pejic.jpg?resize=1200,600
 ---

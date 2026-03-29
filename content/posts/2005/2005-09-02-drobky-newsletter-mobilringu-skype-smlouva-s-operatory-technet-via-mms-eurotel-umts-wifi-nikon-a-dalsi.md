@@ -4,7 +4,6 @@ slug: 'drobky-newsletter-mobilringu-skype-smlouva-s-operatory-technet-via-mms-eu
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Mobilring.com rozesílá newsletter o telekomunikacích, shrnující novinky z telco
   businessu.

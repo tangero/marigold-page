@@ -6,7 +6,6 @@ audiooff: false
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - "Patenty zat\u011B\u017Euj\xED tvorbu standard\u016F finan\u010Dn\u011B i \u010D\
   asov\u011B, t\xFDk\xE1 se to v\u011Bt\u0161iny modern\xEDch technologi\xED."

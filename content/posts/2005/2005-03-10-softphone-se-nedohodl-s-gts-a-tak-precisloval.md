@@ -4,7 +4,6 @@ slug: 'softphone-se-nedohodl-s-gts-a-tak-precisloval'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - SoftPhone přečísloval pevné linky klientů kvůli rozvázání smlouvy s GTS.
 - GTS ukončilo spolupráci se SoftPhone, i když SoftPhone platil.

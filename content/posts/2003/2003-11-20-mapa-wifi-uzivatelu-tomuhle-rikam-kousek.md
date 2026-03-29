@@ -4,7 +4,6 @@ slug: 'mapa-wifi-uzivatelu-tomuhle-rikam-kousek'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Carnegie Mellon University zveřejňuje statistiky WiFi sítě včetně mapy uživatelů.
 - Knihovna Carnegie Mellon má 18 WiFi uživatelů připojených přes sedm access pointů.

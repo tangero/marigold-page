@@ -20,7 +20,7 @@ source:
   name: Financial Post
 title: AMD a Meta oznámily rozšířené strategické partnerství pro nasazení 6 gigawattů
   GPU
-url: https://financialpost.com/globe-newswire/amd-and-meta-announce-expanded-strategic-partnership-to-deploy-6-gigawatts-of-amd-gpus
+source_url: https://financialpost.com/globe-newswire/amd-and-meta-announce-expanded-strategic-partnership-to-deploy-6-gigawatts-of-amd-gpus
 urlToImage: https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/02/amd-and-meta-announce-expanded-strategic-partnership-to-depl.jpeg
 urlToImageBackup: https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/02/amd-and-meta-announce-expanded-strategic-partnership-to-depl.jpeg
 ---

@@ -4,7 +4,6 @@ slug: 'kauza-olsanskeho-strelce-ma-pokracovat-obratem-vzad'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Hospodářské noviny zveřejnily policejní protokoly o střelbě Gabriela Berdára.
 - Výpovědi mladíků Račka a Stěhule se rozcházejí, alibi je neprůkazné.

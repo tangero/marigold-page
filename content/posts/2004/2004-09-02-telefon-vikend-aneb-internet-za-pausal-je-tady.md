@@ -4,7 +4,6 @@ slug: 'telefon-vikend-aneb-internet-za-pausal-je-tady'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Telefon Víkend od Českého Telecomu za 99 Kč umožňoval víkendové hovory zdarma.
 - Půlhodinové limity hovorů u Telefonu Víkend mohly být využity pro internetové připojení.

@@ -4,7 +4,6 @@ slug: '3-dalsi-sireni-site-earn-u-nas-a-vznik-cesnetu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Československo se připojilo do EARNu, ale pouze pražská akademická pracoviště.
 - EARN nebyl perspektivní kvůli specifickým protokolům a nemožnosti propojení s jinými

@@ -4,7 +4,6 @@ slug: 'kolik-zakazniku-maji-mobilni-operatori-doopravdy'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Operátoři uvádějí počty SIM karet, které neodpovídají počtu reálných uživatelů.
 - Metody počítání aktivních SIM karet se liší a operátoři je tají.

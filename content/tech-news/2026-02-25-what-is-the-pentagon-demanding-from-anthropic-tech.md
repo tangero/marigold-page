@@ -19,7 +19,7 @@ source:
   id: null
   name: Alltoc.com
 title: 'Co požaduje Pentagon od Anthropic? #tech'
-url: https://alltoc.com/tech/what-is-the-pentagon-demanding-from-anthropic
+source_url: https://alltoc.com/tech/what-is-the-pentagon-demanding-from-anthropic
 urlToImage: https://alltoc.com/cdn/1046/og.png
 urlToImageBackup: https://alltoc.com/cdn/1046/og.png
 ---

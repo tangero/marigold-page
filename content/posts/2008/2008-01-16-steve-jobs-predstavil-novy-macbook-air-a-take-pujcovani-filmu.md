@@ -6,7 +6,6 @@ categories:
 - Apple
 
   '
-published: true
 summary_points:
 - iTunes Movie Rental nabízí půjčování filmů od všech hlavních studií 30 dní po DVD.
 - MacBook Air je nejtenčí notebook světa s 13,3 palcovým displejem a váhou 1,3 kg.

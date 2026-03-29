@@ -4,7 +4,6 @@ slug: 'sony-ericsson-predstavil-gsm-gprs-wifi-pcmcia-kartu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Sony Ericsson GC79 kombinuje GSM/GPRS s WiFi 802.11b v PCMCIA kartě.
 - GPRS Class 10, HSCSD a 11 Mbps WiFi jsou podporovány kartou GC79.

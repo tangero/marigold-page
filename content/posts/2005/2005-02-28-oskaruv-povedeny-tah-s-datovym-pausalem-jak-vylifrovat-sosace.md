@@ -4,7 +4,6 @@ slug: 'oskaruv-povedeny-tah-s-datovym-pausalem-jak-vylifrovat-sosace'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Oskar představí datový paušál "Připojení NaDlouho" s cenou 952 Kč.
 - Paušál Oskara je dražší než neomezená data konkurence, eliminuje "sosače".

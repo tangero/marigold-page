@@ -16,7 +16,7 @@ source:
   id: null
   name: The Straits Times
 title: AI podniky v Asii získají větší podporu díky partnerství DBS s Granite Asia
-url: https://www.straitstimes.com/business/ai-driven-businesses-in-asia-to-get-more-support-as-dbs-partners-granite-asia
+source_url: https://www.straitstimes.com/business/ai-driven-businesses-in-asia-to-get-more-support-as-dbs-partners-granite-asia
 urlToImage: https://cassette.sphdigital.com.sg/image/straitstimes/7c3e48bca305924e3b8d48249c4d39f22415dc3ee5c657a86973f9e72c28d9cd
 urlToImageBackup: https://cassette.sphdigital.com.sg/image/straitstimes/7c3e48bca305924e3b8d48249c4d39f22415dc3ee5c657a86973f9e72c28d9cd
 ---

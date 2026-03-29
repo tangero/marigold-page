@@ -4,7 +4,6 @@ slug: 'a-je-tu-novy-redakcni-system'
 author: Radek Hulán
 
   '
-published: true
 summary_points:
 - BLOG:CMS byl upgradován na verzi 3.4.5 s UTF-8 konverzí a upravenými šablonami.
 - Statistiky, WAP verze (http://www.marigold.cz/wap.php) a nové komentáře jsou dostupné.

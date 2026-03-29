@@ -4,7 +4,6 @@ slug: 'iaudit-to-myslel-se-zdarma-auditem-weblogu-vazne'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - iAudit nabízí audit weblogů zdarma, iniciováno Tomášem Urbánkem.
 - iAudit umožňuje srovnání webů podle stejných kritérií.

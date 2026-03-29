@@ -21,7 +21,7 @@ source:
   name: CNA
 title: Nvidia blízko investice 30 miliard dolarů do obřího kola financování OpenAI,
   tvrdí zdroj
-url: https://www.channelnewsasia.com/business/nvidia-close-investing-30-billion-in-openais-mega-funding-round-source-says-5941796
+source_url: https://www.channelnewsasia.com/business/nvidia-close-investing-30-billion-in-openais-mega-funding-round-source-says-5941796
 urlToImage: https://dam.mediacorp.sg/image/upload/s--l_ECBb_c--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-02-20T002456Z_1_LYNXMPEM1J00P_RTROPTP_3_NVIDIA-OPENAI-FUNDING.JPG?itok=x41h65nE
 urlToImageBackup: https://dam.mediacorp.sg/image/upload/s--l_ECBb_c--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-02-20T002456Z_1_LYNXMPEM1J00P_RTROPTP_3_NVIDIA-OPENAI-FUNDING.JPG?itok=x41h65nE
 ---

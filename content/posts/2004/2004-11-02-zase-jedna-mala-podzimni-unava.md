@@ -4,7 +4,6 @@ slug: 'zase-jedna-mala-podzimni-unava'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor pociťuje tvůrčí krizi a nechuť k psaní článků.
 - Mobilní telefon autorovi spíše škodí a narušuje soustředění.

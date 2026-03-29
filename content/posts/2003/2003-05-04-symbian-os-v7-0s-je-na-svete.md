@@ -4,7 +4,6 @@ slug: 'symbian-os-v7-0s-je-na-svete'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Symbian OS V 7.0s přináší podporu Java MIDP 2.0, multimédií a nových jazyků.
 - W-CDMA podpora v Symbian OS V 7.0s umožňuje využití 3G sítí.

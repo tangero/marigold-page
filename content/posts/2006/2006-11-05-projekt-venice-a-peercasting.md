@@ -4,7 +4,6 @@ slug: 'projekt-venice-a-peercasting'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Projekt Venice Niklase Zennstroma a Januse Friise se zaměřuje na P2P distribuci
   televizního vysílání.

@@ -4,7 +4,6 @@ slug: 'drobky-ztraci-nokia-dech'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Nokia čelí konkurenci, nikoliv úpadku, a predikce vývoje mobilů je složitá.
 - UWB technologie pro rychlá data trpí rozkolem, doporučeno pro zájemce.

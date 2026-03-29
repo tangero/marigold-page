@@ -4,7 +4,6 @@ slug: 'novy-navigacni-software'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - TomTom Navigator 5 přináší 3D pohled a lepší hlasovou navigaci.
 - Radotínská mapa TomTom obsahuje chybu v ulici Ke Zdeří.

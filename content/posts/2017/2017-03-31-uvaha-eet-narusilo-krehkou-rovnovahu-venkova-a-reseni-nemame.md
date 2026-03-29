@@ -2,7 +2,6 @@
 slug: 'uvaha-eet-narusilo-krehkou-rovnovahu-venkova-a-reseni-nemame'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - EET zvýšilo náklady restaurací, což vedlo k zdražení poledních menu.
 - Venkovské hospody čelí vyšším cenám kvůli menším možnostem daňových optimalizací.

@@ -4,7 +4,6 @@ slug: 'dnesni-zkusebni-provoz-na-novem-redakcnim-systemu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Články a zprávy z Genesis/Marigolda byly exportovány a nahrány do Nucleusu.
 - Titulní stránka Nucleusu je v testovacím provozu s designem Marigolda.

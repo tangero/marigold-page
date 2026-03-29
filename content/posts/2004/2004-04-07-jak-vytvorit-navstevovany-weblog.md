@@ -4,7 +4,6 @@ slug: 'jak-vytvorit-navstevovany-weblog'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Článek pojednává o vytvoření navštěvovaného weblogu.
 - Autor původně článek psal, ale nedokončil ho kvůli pracovnímu vytížení.

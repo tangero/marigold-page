@@ -4,7 +4,6 @@ slug: 'apple-mac-mini-mnami-mnami'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Mac Mini, novinka od Apple, má malé rozměry a základní specifikace.
 - Cena Mac Mini 500 USD je lákavá alternativa k Windows PC.

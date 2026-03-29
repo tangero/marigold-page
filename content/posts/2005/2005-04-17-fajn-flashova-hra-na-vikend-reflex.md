@@ -4,7 +4,6 @@ slug: 'fajn-flashova-hra-na-vikend-reflex'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Reflex je hra, kde se otáčením plácaček odráží kulička.
 - Cílem hry Reflex je zasahovat kuličkou kameny a získávat body.

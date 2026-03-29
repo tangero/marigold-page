@@ -4,7 +4,6 @@ slug: 'craig-mathias-bluetooth-is-dead'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Craig Mathias tvrdí, že bluetooth je mrtvá technologie kvůli ceně a rychlosti.
 - Autor oponuje, že WiFi je pro sluchátka příliš robustní a náročná.

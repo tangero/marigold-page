@@ -4,7 +4,6 @@ slug: 'z-czfree-net-je-akciova-spolecnost'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - CzFree se mění na akciovou společnost s názvem CZFree.COM a.s.
 - Zdeněk Janda děkuje uživatelům za jejich přínos k rozvoji sítě.

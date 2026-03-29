@@ -4,7 +4,6 @@ slug: 'zkusenosti-z-mobilnich-aplikaci-3-generace'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Tuesday pořádá akci o mobilních aplikacích 3. generace.
 - Registrace zdarma přes Marigold s kódem MARIGOLD.

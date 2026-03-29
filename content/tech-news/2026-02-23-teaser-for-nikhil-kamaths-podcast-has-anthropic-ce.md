@@ -23,7 +23,7 @@ source:
   name: The Times of India
 title: 'Teaser podcastu Nikhila Kamatha: Šéf Anthropic Dario Amodei varuje před tsunami
   umělé inteligence'
-url: https://economictimes.indiatimes.com/tech/technology/teaser-for-nikhil-kamaths-podcast-has-anthropic-ceo-dario-amodei-warning-of-ai-tsunami/articleshow/128699730.cms
+source_url: https://economictimes.indiatimes.com/tech/technology/teaser-for-nikhil-kamaths-podcast-has-anthropic-ceo-dario-amodei-warning-of-ai-tsunami/articleshow/128699730.cms
 urlToImage: https://img.etimg.com/thumb/width-1200,height-900,imgsize-1059823,resizemode-75,msid-128699730/tech/technology/teaser-for-nikhil-kamaths-podcast-has-anthropic-ceo-dario-amodei-warning-of-ai-tsunami.jpg
 urlToImageBackup: https://img.etimg.com/thumb/width-1200,height-900,imgsize-1059823,resizemode-75,msid-128699730/tech/technology/teaser-for-nikhil-kamaths-podcast-has-anthropic-ceo-dario-amodei-warning-of-ai-tsunami.jpg
 ---

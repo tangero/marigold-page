@@ -4,7 +4,6 @@ slug: 'bezdratova-streda-o-mobilni-zabave-aneb-druha-miliarda-z-mobilniho-obsahu
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Bezdrátová středa, zaměřená na mobilní zábavu, se koná zítra v Anděls hotelu od
   17:00.

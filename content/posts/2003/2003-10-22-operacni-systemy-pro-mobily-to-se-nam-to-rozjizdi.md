@@ -4,7 +4,6 @@ slug: 'operacni-systemy-pro-mobily-to-se-nam-to-rozjizdi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Sony Ericsson zůstává u Symbianu/UIQ, ale monitoruje situaci operačních systémů.
 - Sendo přešlo k Symbianu a představilo smartphone X s prostředím Now!.

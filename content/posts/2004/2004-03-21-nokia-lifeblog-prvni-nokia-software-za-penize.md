@@ -4,7 +4,6 @@ slug: 'nokia-lifeblog-prvni-nokia-software-za-penize'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Nokia Lifeblog extrahuje data (SMS, MMS, fotky, videa) z mobilu do PC.
 - Data se řadí chronologicky a lze je prohlížet i upravovat.

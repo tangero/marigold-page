@@ -4,7 +4,6 @@ slug: 'proc-jsem-si-zamiloval-apple-mac'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor přešel na Mac OS X a nadchl pro něj mnoho dalších uživatelů.
 - Windows XP se postupem času staly nepředvídatelnými a zahlcenými viry.

@@ -4,7 +4,6 @@ slug: 'v-poradi-tendru-o-pasmo-872-mhz-vede-t-mobile'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - T-Mobile pravděpodobně vyhraje soutěž o licenci 872 MHz dle ČTÚ.
 - Eurotel a České Radiokomunikace jsou v soutěži na dalších místech.

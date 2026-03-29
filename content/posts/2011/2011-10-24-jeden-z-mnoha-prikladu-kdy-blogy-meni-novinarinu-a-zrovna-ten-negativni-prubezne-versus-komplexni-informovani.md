@@ -7,7 +7,6 @@ categories:
 - Weblogy
 
   '
-published: true
 summary_points:
 - Blogy nezměnily novinařinu zásadně, ale urychlily publikování informací.
 - Firmy kritizují média za rychlé publikování bez žádosti o vyjádření.

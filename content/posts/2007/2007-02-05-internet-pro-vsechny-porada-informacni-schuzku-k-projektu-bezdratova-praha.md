@@ -4,7 +4,6 @@ slug: 'internet-pro-vsechny-porada-informacni-schuzku-k-projektu-bezdratova-prah
 author: Noname
 
   '
-published: true
 summary_points:
 - Internet Pro Všechny pořádá informační schůzku k projektu Bezdrátová Praha.
 - Schůzka se týká projektu Bezdrátová Praha, zaměřeného na bezplatné Wi-Fi.

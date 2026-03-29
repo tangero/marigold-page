@@ -4,7 +4,6 @@ slug: 'drobky-mapa-pokryti-eurotel-cdma-t-mobile-nemecko-ztratil'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Eurotel CDMA mapa pokrytí byla zveřejněna na Mobil.cz.
 - T-Mobile Německo získal v prvním čtvrtletí pouze 190 000 nových zákazníků.

@@ -4,7 +4,6 @@ slug: 'mobilni-zabava-v-roce-2005'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - 'Eurotel: Hráči Live! portálu utratili v lednu 2005 průměrně 120 Kč.'
 - 'T-Mobile: Uvítací tóny využívalo koncem roku 2004 250 000 zákazníků.'

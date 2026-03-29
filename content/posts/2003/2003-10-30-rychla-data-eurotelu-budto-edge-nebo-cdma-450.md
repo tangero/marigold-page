@@ -4,7 +4,6 @@ slug: 'rychla-data-eurotelu-budto-edge-nebo-cdma-450'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - CDMA-450 implementace namísto NMT se autorovi zdá stále smysluplnější.
 - Článek o CDMA-450 byl publikován na Mobil.cz s pozitivními ohlasy.

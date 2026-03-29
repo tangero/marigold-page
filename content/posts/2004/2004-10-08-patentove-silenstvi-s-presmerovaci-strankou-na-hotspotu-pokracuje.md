@@ -4,7 +4,6 @@ slug: 'patentove-silenstvi-s-presmerovaci-strankou-na-hotspotu-pokracuje'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Acacia Technologies vlastní patent 6,226,677 na přesměrování hotspotů na vstupní
   stránku.

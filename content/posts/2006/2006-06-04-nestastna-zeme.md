@@ -4,7 +4,6 @@ slug: 'nestastna-zeme'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Výlet směřoval na Zbraslav, místo posledního odpočinku přemyslovských králů.
 - Autor slíbil položit rudé růže svatému Václavovi po vítězství svobodných stran.

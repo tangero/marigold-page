@@ -4,7 +4,6 @@ slug: 'ma-mesto-stavet-vlastni-telekomunikacni-infrastrukturu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Praha 5 zpřístupní zdarma WiFi síť na svém území, což vyvolává otázky o roli města.
 - Město může budovat telekomunikační infrastrukturu, podobně jako lavičky či osvětlení.

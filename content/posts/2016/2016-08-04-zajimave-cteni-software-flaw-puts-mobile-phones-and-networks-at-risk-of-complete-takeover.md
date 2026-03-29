@@ -4,7 +4,6 @@ slug: 'zajimave-cteni-software-flaw-puts-mobile-phones-and-networks-at-risk-of-c
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Nově odhalená zranitelnost umožňuje útočníkům ovládnout mobilní telefony. Útočníci
   mohou převzít kontrolu nad telekomunikační infrastrukturou. Zranitelnost umožňuje

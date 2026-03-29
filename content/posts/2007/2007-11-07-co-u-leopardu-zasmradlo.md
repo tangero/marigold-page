@@ -4,7 +4,6 @@ slug: 'co-u-leopardu-zasmradlo'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Skype přestává fungovat v Leopardu s aktivovaným firewallem kvůli modifikaci aplikace.
 - System.log v Leopardu může narůst přes 250MB a způsobit zahlcení procesorem.

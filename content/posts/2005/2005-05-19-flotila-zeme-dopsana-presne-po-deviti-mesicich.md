@@ -4,7 +4,6 @@ slug: 'flotila-zeme-dopsana-presne-po-deviti-mesicich'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Flotila Země je scifi povídka o bitvě mezi lidstvem a mimozemšťany.
 - Autor odmítl hlavního hrdinu a zaměřil se na kolektivní úsilí.

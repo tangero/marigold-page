@@ -4,7 +4,6 @@ slug: 'nokia-znovu-vstupuje-do-wimax-fora'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Nokia nejdříve opustila WiMAX fórum, ale po měsíci se do něj vrátila.
 - IP divize Nokia Networks zřejmě nenabízí konkurenceschopné produkty.

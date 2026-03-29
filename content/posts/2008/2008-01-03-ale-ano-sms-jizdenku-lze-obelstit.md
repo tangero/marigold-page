@@ -7,7 +7,6 @@ categories:
 - MHD
 
   '
-published: true
 summary_points:
 - SMS jízdenky lze obejít sdílením jedné jízdenky mezi skupinou lidí.
 - Centrální telefon automaticky kupuje SMS jízdenky a cestující sdílí jeho číslo.

@@ -4,7 +4,6 @@ slug: 'koncert-pro-asii-zive-na-internetu'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - Óčko odvysílá benefiční koncert pro Asii z Lucerny 9. ledna 2005.
 - Vstupné z koncertu poputuje indonéskému velvyslanectví.

@@ -4,7 +4,6 @@ slug: 'fotografie-oznacene-polohou-gps-s-tim-bude-jeste-sranda'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - GPS tagging označuje fotografie souřadnicemi pořízení, ukládanými do EXIF formátu.
 - Vyhledávání fotografií dle polohy usnadňuje identifikaci míst a objektů.

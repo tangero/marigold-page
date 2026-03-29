@@ -4,7 +4,6 @@ slug: 'jaggcz-je-na-prodej-formou-drazby'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Jagg.cz, služba pro sdílení záložek, je rok stará a autor se jí nevěnuje.
 - Služba Jagg.cz má zhruba 1000 uživatelů, ale potřebuje aktivní rozvoj.

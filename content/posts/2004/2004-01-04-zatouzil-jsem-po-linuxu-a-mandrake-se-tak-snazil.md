@@ -4,7 +4,6 @@ slug: 'zatouzil-jsem-po-linuxu-a-mandrake-se-tak-snazil'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor se jednou ročně pokouší seznámit s Linuxem, ale neúspěšně.
 - V roce 1998 autor vyzkoušel RedHat, ale GIMP ho odradil.

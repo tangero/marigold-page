@@ -4,7 +4,6 @@ slug: 'herecast-lokalizace-polohy-pomoci-wifi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Herecast je open source projekt lokalizace polohy pomocí WiFi hotspotů.
 - Lokalizace Herecast funguje porovnáváním nalezených hotspotů s databází.

@@ -4,7 +4,6 @@ slug: 'bluetooth-rizika-snarfing-a-bluejacking'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Bluetooth chyba snarfing umožňuje neautorizovaný přístup k datům telefonů Ericsson
   a Nokia.

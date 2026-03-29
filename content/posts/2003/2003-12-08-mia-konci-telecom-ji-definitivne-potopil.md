@@ -4,7 +4,6 @@ slug: 'mia-konci-telecom-ji-definitivne-potopil'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Český Telecom agenturu MIA, koupenou pro internetové podnikání, ke konci roku zavírá.
 - Autor nastoupil do MIA v roce 1996, kde pracoval na projektu Media serveru.

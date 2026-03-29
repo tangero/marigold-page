@@ -4,7 +4,6 @@ slug: 'opravnik-fantasmagorickeho-glosovani'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Cendra pomstil odchod Streamu od Superhostingu lživým obviněním z porna.
 - Antošova kritika Streamu na Lupě je založena na nezkušenosti a osobních preferencích.

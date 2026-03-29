@@ -4,7 +4,6 @@ slug: 'ntt-docomo-pokryje-svou-siti-foma-olympijske-atheny'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - NTT DoCoMo vybuduje v Athénách tři základnové stanice pro 3G síť Foma.
 - Uživatelé Foma budou v Athénách telefonovat za japonské sazby.

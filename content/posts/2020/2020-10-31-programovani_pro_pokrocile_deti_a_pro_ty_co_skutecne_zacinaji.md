@@ -7,7 +7,7 @@ categories:
 - "Programov\xE1n\xED"
 - "Vzd\u011Bl\xE1v\xE1n\xED"
 - "\u0160kolstv\xED"
-date: 31.10.2020
+date: 2020-10-31
 excerpt: "M\xEDrn\u011B osobn\xED a sp\xED\u0161e brainstormovac\xED \u010Dl\xE1nek.\
   \ \u0158e\u0161\xEDm te\u010F pro syna Vojtu (10 let) programov\xE1n\xED. Chod\xED\
   \ (chodil, bo COVID) ve \u0161kole na  [Javorkovic krou\u017Eek programov\xE1n\xED\

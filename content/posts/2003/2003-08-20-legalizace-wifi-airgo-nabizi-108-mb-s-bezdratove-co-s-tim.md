@@ -4,7 +4,6 @@ slug: 'legalizace-wifi-airgo-nabizi-108-mb-s-bezdratove-co-s-tim'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Filipíny legalizovaly WiFi, venkovní použití vyžaduje licenci, vnitřní registrační
   poplatek.

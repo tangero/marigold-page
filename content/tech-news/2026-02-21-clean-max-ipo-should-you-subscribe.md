@@ -14,7 +14,7 @@ source:
   id: null
   name: BusinessLine
 title: 'Clean Max IPO: Stojí za to se přihlásit?'
-url: https://www.thehindubusinessline.com/portfolio/stock-fundamental-analysis-india/clean-max-ipo-should-you-subscribe/article70657364.ece
+source_url: https://www.thehindubusinessline.com/portfolio/stock-fundamental-analysis-india/clean-max-ipo-should-you-subscribe/article70657364.ece
 urlToImage: https://bl-i.thgim.com/public/incoming/cty0cb/article70659796.ece/alternates/LANDSCAPE_1200/PO22_Cleanmax_2.jpg
 urlToImageBackup: https://bl-i.thgim.com/public/incoming/cty0cb/article70659796.ece/alternates/LANDSCAPE_1200/PO22_Cleanmax_2.jpg
 ---

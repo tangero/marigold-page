@@ -4,7 +4,6 @@ slug: 'mnichovske-letiste-vam-da-vybrat-ci-wifi-sit-chcete-pouzit-singapur-wifi-
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Mnichovské letiště používá Cisco technologii pro výběr ISP uživatelem.
 - MobileOne v Singapuru omezuje investice do WiFi a zaměřuje se na 3G.

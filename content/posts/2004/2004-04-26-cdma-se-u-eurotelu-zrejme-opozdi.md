@@ -4,7 +4,6 @@ slug: 'cdma-se-u-eurotelu-zrejme-opozdi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Eurotel odloží spuštění CDMA kvůli chybějícímu souhlasu ČTÚ.
 - Šéf ČTÚ Stádník uvedl, že další vyjádření k povolení CDMA není nutné.

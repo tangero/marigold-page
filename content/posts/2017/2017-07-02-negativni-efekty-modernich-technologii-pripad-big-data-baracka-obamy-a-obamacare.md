@@ -3,7 +3,6 @@ slug: 'negativni-efekty-modernich-technologii-pripad-big-data-baracka-obamy-a-ob
 
 author: Patrick Zandl
 featured: true
-published: true
 summary_points:
 - Moderní technologie přinášejí negativní efekty, které společnost těžko zvládá.
 - Obamacare reaguje na snížení dostupnosti soukromého zdravotního pojištění v USA.

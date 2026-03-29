@@ -4,7 +4,6 @@ slug: 'karneval-hlasi-zajem-o-broadband-internet'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Karneval hlásí rostoucí zájem o broadband internet díky lepší kvalitě než PDSL.
 - Karneval od září zprovoznil 55 tisíc zásuvek vysokorychlostního internetu v Brně,

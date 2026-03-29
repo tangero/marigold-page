@@ -4,7 +4,6 @@ slug: 'giesecke-devrient-podepisuje-s-t-mobile'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Giesecke & Devrient spolupracuje s T-Mobile na vývoji chytrých SIM karet.
 - GD přebírá servisní centrum SIM karet T-Mobile v Münsteru.

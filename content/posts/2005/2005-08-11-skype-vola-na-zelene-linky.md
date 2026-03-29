@@ -4,7 +4,6 @@ slug: 'skype-vola-na-zelene-linky'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Skype umožňuje zdarma volat na zelené linky a osmistovky.
 - Podporovaná čísla zahrnují Francii, Polsko, Velkou Británii a USA.

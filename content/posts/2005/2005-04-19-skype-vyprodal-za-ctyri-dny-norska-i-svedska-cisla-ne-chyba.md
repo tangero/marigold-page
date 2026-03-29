@@ -4,7 +4,6 @@ slug: 'skype-vyprodal-za-ctyri-dny-norska-i-svedska-cisla-ne-chyba'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Skype zastavil prodej SkypeIn čísel v Norsku a Švédsku.
 - Důvod zastavení prodeje norských a švédských čísel není znám.

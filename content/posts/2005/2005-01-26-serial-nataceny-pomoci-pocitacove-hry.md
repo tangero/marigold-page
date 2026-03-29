@@ -4,7 +4,6 @@ slug: 'serial-nataceny-pomoci-pocitacove-hry'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Strangerhood seriál tvořený pomocí hry The Sims 2, šetří náklady tvůrců.
 - Roster Teeth simulují scénky ve hře, stříhají, dabují a přidávají hudbu.

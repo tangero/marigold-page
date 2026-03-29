@@ -6,7 +6,6 @@ categories:
 - Apple
 
   '
-published: true
 summary_points:
 - MacForum.cz je nové diskusní fórum o Apple s pluginem pro TapaTalk.
 - Peter Druska vytvořil slovenskou knihu "Návrh iOS aplikácie" pro iPad za 20 euro.

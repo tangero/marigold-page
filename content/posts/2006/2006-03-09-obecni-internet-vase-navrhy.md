@@ -4,7 +4,6 @@ slug: 'obecni-internet-vase-navrhy'
 author: Noname
 
   '
-published: true
 summary_points:
 - Diskuse se rozjela pod článkem o obecním internetu zdarma.
 - Autor shrnuje návrhy z diskuse a přidává k nim otázky.

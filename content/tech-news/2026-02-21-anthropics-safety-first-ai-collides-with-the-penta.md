@@ -19,7 +19,7 @@ source:
   name: Scientific American
 title: Anthropicův AI s prioritou bezpečnosti se střetává s Pentagonem při rozšíření
   Claude do autonomních agentů
-url: https://www.scientificamerican.com/article/anthropics-safety-first-ai-collides-with-the-pentagon-as-claude-expands-into/
+source_url: https://www.scientificamerican.com/article/anthropics-safety-first-ai-collides-with-the-pentagon-as-claude-expands-into/
 urlToImage: https://static.scientificamerican.com/dam/m/26c0e466ea5342b5/original/GettyImages-2260944681.jpg?m=1771624497.843&w=1200
 urlToImageBackup: https://static.scientificamerican.com/dam/m/26c0e466ea5342b5/original/GettyImages-2260944681.jpg?m=1771624497.843&w=1200
 ---

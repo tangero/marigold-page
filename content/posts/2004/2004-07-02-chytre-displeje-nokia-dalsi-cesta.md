@@ -4,7 +4,6 @@ slug: 'chytre-displeje-nokia-dalsi-cesta'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Nokia uvažuje o produkci netbooků/PDA kvůli rozdělení uživatelů a konkurenci.
 - Trh nabízí mobily, mikrokomunikátory, komunikátory, smartphony, PDA a notebooky.

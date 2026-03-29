@@ -4,7 +4,6 @@ slug: 'malicky-spor-o-cislovaci-plan'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor polemizuje s Jiřím Peterkou ohledně výkladu Číslovacího plánu ČTÚ.
 - Číslovací plán má zajistit soudržnost a cenovou jednoznačnost telefonních čísel.

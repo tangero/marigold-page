@@ -4,7 +4,6 @@ slug: 'oficialni-cenik-pripojeni-do-internetu-pres-czfree-neboli-freegate'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - CzFree Net zajišťuje zdarma přenos dat mezi uživateli, internetový přístup je placený.
 - FreeGate nabízí free konektivitu 32 Kbps nodům, studentům a vývojářům CzFree.

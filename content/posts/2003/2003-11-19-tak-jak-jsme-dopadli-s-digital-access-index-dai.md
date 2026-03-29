@@ -4,7 +4,6 @@ slug: 'tak-jak-jsme-dopadli-s-digital-access-index-dai'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - ITU publikovalo Digital Access Index (DAI) hodnotící dostupnost moderních technologií.
 - Jižní Korea se umístila čtvrtá v DAI indexu, za Švédskem, Dánskem a Islandem.

@@ -4,7 +4,6 @@ slug: 'dalsi-voip-komunita-gizmo-je-open-source'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Wavigo nově nabízí bránu pro volání a instant messaging do Skype.
 - Autor článku udělal chybu v interpretaci statistik Skype volání.

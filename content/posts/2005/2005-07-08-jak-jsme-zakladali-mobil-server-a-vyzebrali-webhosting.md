@@ -4,7 +4,6 @@ slug: 'jak-jsme-zakladali-mobil-server-a-vyzebrali-webhosting'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor radil s výběrem mobilů známým, což vedlo k vytvoření webu o telefonech.
 - Web Telefony na Codalanu z roku 1996 nabízel přehled mobilů a rady pro nákup.

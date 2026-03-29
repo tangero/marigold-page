@@ -4,7 +4,6 @@ slug: 'halooo-to-si-delaji-legraci-ono-snezi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Zaspal jsem a probudil se asi před deseti minutami.
 - Budík jsem zamáčkl a spal jsem o hodinu a půl déle.

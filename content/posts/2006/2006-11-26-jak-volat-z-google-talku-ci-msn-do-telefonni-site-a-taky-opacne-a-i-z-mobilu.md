@@ -4,7 +4,6 @@ slug: 'jak-volat-z-google-talku-ci-msn-do-telefonni-site-a-taky-opacne-a-i-z-mob
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - GTalk2VoIP umožňuje neoficiální volání z Google Talku do telefonní sítě.
 - Talkonaut je Java aplikace pro mobilní volání přes GTalk, MSN a VoIP sítě.

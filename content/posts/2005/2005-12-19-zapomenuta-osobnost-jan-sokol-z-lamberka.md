@@ -5,7 +5,6 @@ author: Patrick Zandl
 featured: true
 
   '
-published: true
 summary_points:
 - Jan Sokol z Lamberka, opomíjený hrdina, se narodil kolem roku 1355.
 - Sokol vojensky pomáhal králi Václavu IV proti Rožumberkům a Janu Žižkovi.

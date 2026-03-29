@@ -4,7 +4,6 @@ slug: 'telefonika-nula-dva-ci-jak-se-to'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Český Telecom byl firmou, na kterou si lidé často stěžovali.
 - Telefonica přejmenovala Český Telecom a Eurotel na Telefonica O2 Czech Republic.

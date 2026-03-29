@@ -18,7 +18,7 @@ source:
   id: rte
   name: RTE
 title: AMD uzavřela obří dohodu na dodávky AI čipů pro Meta
-url: https://www.rte.ie/news/business/2026/0224/1560149-amd-clinches-mega-chip-supply-deal-with-meta/
+source_url: https://www.rte.ie/news/business/2026/0224/1560149-amd-clinches-mega-chip-supply-deal-with-meta/
 urlToImage: https://www.rte.ie/images/0023b381-1600.jpg
 urlToImageBackup: https://www.rte.ie/images/0023b381-1600.jpg
 ---

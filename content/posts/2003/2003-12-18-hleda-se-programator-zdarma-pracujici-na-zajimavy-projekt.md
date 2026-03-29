@@ -4,7 +4,6 @@ slug: 'hleda-se-programator-zdarma-pracujici-na-zajimavy-projekt'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor chce vytvořit P2P knihovnu pro půjčování papírových knih mezi neznámými lidmi.
 - Programátora hledá autor pro realizaci P2P knihovny, systém složitostí jednoduchého

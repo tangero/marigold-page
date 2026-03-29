@@ -4,7 +4,6 @@ slug: 'zamestnava-mi-darmozrouty'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Mlynář čelí kritice od odboráře Ministerstva informatiky na Neviditelném psu.
 - Ministerstvo informatiky zaměstnává neloajální darmožrouty dle kritiky.

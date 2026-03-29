@@ -4,7 +4,6 @@ slug: 'prehled-ceskych-i-zahranicnich-wifi-clanku-pozor-na-vanoce'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Články o WiFi z Živě, Svět namodro a Root se automaticky doplňují do přehledu.
 - Přidán monitoring stovek zahraničních serverů pro detekci bezdrátových technologií.

@@ -4,7 +4,6 @@ slug: 'freemail-co-nabizi-30-giga-a-kouzla-s-gmapami'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Gmail nabízí 2,5 GB prostoru, což některým uživatelům nestačí.
 - gigs je nový freemail s 30 GB prostoru, dostupný pouze na pozvánky.

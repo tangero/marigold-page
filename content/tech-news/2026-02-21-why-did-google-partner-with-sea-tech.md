@@ -19,7 +19,7 @@ source:
   id: null
   name: Alltoc.com
 title: 'Proč se Google spojil se Sea? #tech'
-url: https://alltoc.com/tech/why-did-google-partner-with-sea
+source_url: https://alltoc.com/tech/why-did-google-partner-with-sea
 urlToImage: https://alltoc.com/cdn/1045/og.png
 urlToImageBackup: https://alltoc.com/cdn/1045/og.png
 ---

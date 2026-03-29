@@ -21,7 +21,7 @@ source:
   name: PBS
 title: 'Podle AP: Hegseth varuje Anthropic, aby umožnil armádě neomezené použití firemní
   AI technologie'
-url: https://www.pbs.org/newshour/world/ap-report-hegseth-warns-anthropic-to-let-the-military-use-companys-ai-tech-as-it-sees-fit
+source_url: https://www.pbs.org/newshour/world/ap-report-hegseth-warns-anthropic-to-let-the-military-use-companys-ai-tech-as-it-sees-fit
 urlToImage: https://d3i6fh83elv35t.cloudfront.net/static/2026/02/2026-02-06T165423Z_1780749485_RC2EGJAM64XM_RTRMADP_3_USA-DEFENSE-1-1024x693.jpg
 urlToImageBackup: https://d3i6fh83elv35t.cloudfront.net/static/2026/02/2026-02-06T165423Z_1780749485_RC2EGJAM64XM_RTRMADP_3_USA-DEFENSE-1-1024x693.jpg
 ---

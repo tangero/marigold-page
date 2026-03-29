@@ -8,7 +8,6 @@ categories:
 - Turboúvod do mobilních sítí
 
   '
-published: true
 summary_points:
 - LTE Release 8 navazuje na Release 7 rozšířením modulačního schématu a DC HSPA.
 - LTE sítě využívají výhradně IP provoz, což je odlišuje od 3G sítí.

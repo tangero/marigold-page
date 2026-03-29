@@ -4,7 +4,6 @@ slug: 'uzivatele-wifi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Kavárny WiFi využití je minimální, placené hotspoty jsou prakticky bez zájmu.
 - Hoteloví hosté preferují jednoduché WiFi připojení bez složitého zadávání údajů.

@@ -4,7 +4,6 @@ slug: 'cinetik-je-na-prodej'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Cinetik, internetová DVD půjčovna, je na prodej z důvodu nedostatku času majitelů.
 - Cinetik doručuje DVD poštou za měsíční paušál, s možností budoucího kurýrního doručení.

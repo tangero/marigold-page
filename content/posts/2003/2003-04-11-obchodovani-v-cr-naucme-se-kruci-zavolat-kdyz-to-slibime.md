@@ -4,7 +4,6 @@ slug: 'obchodovani-v-cr-naucme-se-kruci-zavolat-kdyz-to-slibime'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Obchodníci často nesplní slib zavolat zpět zákazníkovi, což autora frustruje.
 - Autor zjistil, že problém není v nedovolatelnosti, ale v neochotě volat.

@@ -4,7 +4,6 @@ slug: 'nokia-prida-wifi-do-svych-mobilu-pedagogicka-fakulta-uk-ma-pry-wifi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Pedagogická fakulta UK v Praze má mít WiFi síť pro studenty.
 - Rozesílání souhrnu zpráv z Marigolda emailem se rozbilo.

@@ -4,7 +4,6 @@ slug: 'qualcomm-veri-ze-3g-pobije-wifi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Marigold měl včera výpadky kvůli poruše síťové karty serveru.
 - Qualcomm tvrdí, že 3G sítě díky pokrytí porazí WiFi.

@@ -4,7 +4,6 @@ slug: 'dneska-bude-marigold-asi-dost-padaci-tak-se-omlouvam'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Genesis 2 redakční systém má poruchu serverů u Mobil Media.
 - Autor zvažuje přesun na weblogový systém, ale Genesis mu vyhovuje.

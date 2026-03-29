@@ -7,7 +7,6 @@ categories:
 - Flash
 
   '
-published: true
 summary_points:
 - H.264 video ve Flashi testováno, vyžaduje Flash 9.0.115 a vyšší.
 - Procesorová zátěž je vysoká, nutný přepis do AS3 pro optimalizaci.

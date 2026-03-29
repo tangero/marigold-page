@@ -4,7 +4,6 @@ slug: 'problem-neni-kolik-ale-jak'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WiFi problém spočívá v obtížné platbě, nikoliv ve výši poplatku.
 - WideNet nabízí nepraktické možnosti platby, jako SMS nebo hodinové intervaly.

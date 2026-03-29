@@ -18,7 +18,7 @@ source:
   id: null
   name: Antaranews.com
 title: Indonésie a Arm uzavírají partnerství pro rychlejší ovládnutí technologie čipů
-url: https://en.antaranews.com/news/405938/indonesia-arm-partnership-targets-faster-mastery-of-chip-technology
+source_url: https://en.antaranews.com/news/405938/indonesia-arm-partnership-targets-faster-mastery-of-chip-technology
 urlToImage: https://cdn.antaranews.com/cache/1200x800/2026/02/25/1000020750_1.jpg
 urlToImageBackup: https://cdn.antaranews.com/cache/1200x800/2026/02/25/1000020750_1.jpg
 ---

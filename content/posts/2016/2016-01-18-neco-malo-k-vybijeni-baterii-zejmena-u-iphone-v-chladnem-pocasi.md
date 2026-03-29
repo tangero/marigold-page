@@ -4,7 +4,6 @@ slug: 'neco-malo-k-vybijeni-baterii-zejmena-u-iphone-v-chladnem-pocasi'
 audio_url: http://www.marigold.cz/audio/2016-01-18-neco-malo-k-vybijeni-baterii-zejmena-u-iphone-v-chladnem-pocasi.mp3
 audiooff: false
 author: Patrick Zandl
-published: true
 summary_points:
 - "Baterie preferují pokojovou teplotu, moderní Li-Ion baterie mají problémy při nízkých teplotách"
 - "Tenké telefony s moderními bateriemi mají problémy s ochranou před promrznutím"

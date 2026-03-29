@@ -4,7 +4,6 @@ slug: 'kavarenska-minulost-a-budoucnost'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Otec s přáteli navštívil Café Slávia, známou díky domnělému působení Kafky.
 - Autor vzal návštěvu do Café Imperial, proslulé saturninovskými koblihami.

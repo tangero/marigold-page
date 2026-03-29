@@ -4,7 +4,6 @@ slug: 'jaky-je-vas-nazor-na-obecni-internet-zdarma'
 author: Noname
 
   '
-published: true
 summary_points:
 - Internet zdarma projekty obcí často motivovány popularitou starostů před volbami.
 - Zodpovědní představitelé obcí konzultují problematiku internetu zdarma s odborníky.

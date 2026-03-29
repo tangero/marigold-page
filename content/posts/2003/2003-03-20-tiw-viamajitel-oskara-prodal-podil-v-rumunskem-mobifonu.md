@@ -4,7 +4,6 @@ slug: 'tiw-viamajitel-oskara-prodal-podil-v-rumunskem-mobifonu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - TIW prodalo 5,7-5,9% podíl v rumunském MobiFone za 42,5 mil. USD.
 - Český Mobil/Oskar nebyl prodán, TIW zvolilo odprodej minoritního podílu.

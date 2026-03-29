@@ -22,7 +22,7 @@ source:
   name: The Times of India
 title: 'Inovace a důvěra budou určovat budoucnost umělé inteligence: generální ředitelka
   Credo AI'
-url: https://economictimes.indiatimes.com/tech/technology/innovation-and-trust-will-steer-our-ai-future-credo-ai-ceo/articleshow/128617876.cms
+source_url: https://economictimes.indiatimes.com/tech/technology/innovation-and-trust-will-steer-our-ai-future-credo-ai-ceo/articleshow/128617876.cms
 urlToImage: https://img.etimg.com/thumb/width-1200,height-900,imgsize-48680,resizemode-75,msid-128617876/tech/technology/innovation-and-trust-will-steer-our-ai-future-credo-ai-ceo.jpg
 urlToImageBackup: https://img.etimg.com/thumb/width-1200,height-900,imgsize-48680,resizemode-75,msid-128617876/tech/technology/innovation-and-trust-will-steer-our-ai-future-credo-ai-ceo.jpg
 ---

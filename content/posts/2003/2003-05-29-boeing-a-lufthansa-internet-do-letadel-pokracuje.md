@@ -4,7 +4,6 @@ slug: 'boeing-a-lufthansa-internet-do-letadel-pokracuje'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Lufthansa plánuje do konce roku 2004 vybavit 80 letadel internetem.
 - Cena internetu v letadlech Lufthansy by měla být 25-35 USD za let.

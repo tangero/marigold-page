@@ -4,7 +4,6 @@ slug: 'embedded-world-2005-tucnaci-a-hracky'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Embedded World v Norimberku 2006 nabídl perfektní organizaci a bezplatný vstup po
   registraci.

@@ -4,7 +4,6 @@ slug: 'prehled-hotspotu-aktualizovan-jak-si-stojime-s-wifi-hotspoty'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Databáze hotspotů nyní umožňuje vyhledávání podle města a provozovatele.
 - Celkem databáze obsahuje 178 hotspotů, nejvíce jich má Eurotel (62).

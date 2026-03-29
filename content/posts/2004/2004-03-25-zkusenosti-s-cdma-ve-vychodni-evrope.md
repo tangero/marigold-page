@@ -4,7 +4,6 @@ slug: 'zkusenosti-s-cdma-ve-vychodni-evrope'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - CDMA se plete s CDMA2000, což jsou rozdílné mobilní sítě.
 - Interdnestrcom v Moldavsku provozuje pirátskou CDMA síť bez licence.

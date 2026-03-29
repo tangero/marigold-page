@@ -4,7 +4,6 @@ slug: 'muj-sexisticko-sovinisticky-utok-na-zeny-v-bezdratovych-sitich'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Prezentace o bezpečnosti sítí byla odmítnuta kvůli sexistickému výrazu "man in the
   middle".

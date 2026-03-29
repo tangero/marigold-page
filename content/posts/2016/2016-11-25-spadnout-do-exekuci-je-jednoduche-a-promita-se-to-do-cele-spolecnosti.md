@@ -4,7 +4,6 @@ slug: 'spadnout-do-exekuci-je-jednoduche-a-promita-se-to-do-cele-spolecnosti'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Sociální sítě diskutují o chudobě a exekucích v Česku.
 - Exekuce v Česku jsou snadno dosažitelné i pro zodpovědné lidi.

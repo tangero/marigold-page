@@ -4,7 +4,6 @@ slug: 'a-karneval-take-zrychluje-na-dvojnasobek-ale-upload-a-ne-light'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Karneval zdvojnásobuje upload rychlost u Premium TURBO a TURBO tarifů.
 - Zvýšení upload rychlosti se týká pouze odchozího směru dat.

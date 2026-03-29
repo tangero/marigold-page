@@ -21,7 +21,7 @@ source:
   name: AdExchanger
 title: 'Války agentických protokolů dorazily do elektronického obchodu; Perplexity:
   Reklamy oslabují důvěru v umělou inteligenci'
-url: http://www.adexchanger.com/daily-news-roundup/friday-20022026/
+source_url: https://www.adexchanger.com/daily-news-roundup/friday-20022026/
 urlToImage: https://www.adexchanger.com/wp-content/uploads/2026/01/coffee-context-protocol-AI-comic-featured.jpg
 urlToImageBackup: https://www.adexchanger.com/wp-content/uploads/2026/01/coffee-context-protocol-AI-comic-featured.jpg
 ---

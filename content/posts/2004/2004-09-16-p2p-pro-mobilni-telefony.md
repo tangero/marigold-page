@@ -4,7 +4,6 @@ slug: 'p2p-pro-mobilni-telefony'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Nokia vyvíjí P2P síť pro Symbian telefony umožňující sdílení dat.
 - Sdílení v P2P síti je zatím omezeno na obrázky a videa.

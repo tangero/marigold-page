@@ -4,7 +4,6 @@ slug: 'na-ebay-se-drazi-cislo-a-uz-za-milion-korun'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - eBay draží telefonní číslo 212-867-5309, cena přesáhla 40 000 USD.
 - Číslo je spojeno s megahitem Tommy TuTone, důvodem vysoké ceny.

@@ -5,7 +5,6 @@ author: Patrick Zandl
 categories:
 - Čína
 - Příběhy
-published: true
 summary_points:
 - Cesta zpět zpožděna ČSA, zavazadla ztracena mezi Paříží a Prahou.
 - České noviny řeší hoteliéra, Čína korupci s trestem smrti.

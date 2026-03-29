@@ -18,7 +18,7 @@ source:
   id: null
   name: pymnts.com
 title: Intuit a Anthropic spustí přizpůsobitelné AI agenty
-url: https://www.pymnts.com/partnerships/2026/intuit-and-anthropic-to-launch-customizable-ai-agents/
+source_url: https://www.pymnts.com/partnerships/2026/intuit-and-anthropic-to-launch-customizable-ai-agents/
 urlToImage: https://www.pymnts.com/wp-content/uploads/2026/02/Intuit-Anthropic-partnership.jpg
 urlToImageBackup: https://www.pymnts.com/wp-content/uploads/2026/02/Intuit-Anthropic-partnership.jpg
 ---

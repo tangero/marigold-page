@@ -4,7 +4,6 @@ slug: 'vanocni-prani-at-se-pravda-a-laska-navrati-do-teto-krajiny'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Pravda a láska se staly v Česku nadávkou během čtvrtstoletí po revoluci.
 - Autor překvapen, že inteligentní lidé používají "pravdoláskař" jako urážku.

@@ -6,7 +6,6 @@ categories:
 - iPhone
 
   '
-published: true
 summary_points:
 - Pwnage utilita umožnila upgrade a odemčení iPhonu na nový firmware 2.0.
 - Exchange a MobileMe synchronizace kalendáře a emailu funguje v iPhonu 2.0 skvěle.

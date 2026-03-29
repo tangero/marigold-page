@@ -4,7 +4,6 @@ slug: 'novy-sony-ericsson-a1402-ma-i-ovladani-tv'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Sony Ericsson A1402s je nový mobil pro japonskou CDMA síť KDDI.
 - A1402s má GPS modul, čtečku QR kódů a infra ovladač televize.

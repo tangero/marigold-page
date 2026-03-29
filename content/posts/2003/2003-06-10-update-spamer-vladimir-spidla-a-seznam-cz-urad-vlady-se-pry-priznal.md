@@ -4,7 +4,6 @@ slug: 'update-spamer-vladimir-spidla-a-seznam-cz-urad-vlady-se-pry-priznal'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Seznam a T.T.V. se omluvily Špidlovi za použití jeho jména v hromadném e-mailu.
 - Úřad vlády si objednal kampaň rozesílání e-mailů přes agenturu.

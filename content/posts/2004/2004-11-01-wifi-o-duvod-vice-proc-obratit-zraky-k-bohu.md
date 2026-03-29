@@ -4,7 +4,6 @@ slug: 'wifi-o-duvod-vice-proc-obratit-zraky-k-bohu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Pražský kostel adventistů sedmého dne na Malvazinkách má WiFi hotspot smichov.
 - Kostel ve Stodůlkách a sv. Ludmily v Praze také mají WiFi antény.

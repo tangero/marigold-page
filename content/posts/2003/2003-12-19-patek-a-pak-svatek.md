@@ -4,7 +4,6 @@ slug: 'patek-a-pak-svatek'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Notebooku zbývá 50 minut života, adaptér zůstal v práci.
 - Hotspot na Lužinách opraven, cín koupen v Baumaxu.

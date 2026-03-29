@@ -4,7 +4,6 @@ slug: 'o2-v-prazskych-obrazech'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Vreco fotil z auta během cesty do práce, kterou řídil autor.
 - Fotografie bubliny připomíná výron bahenního plynu, focení kyslíku je obtížné.

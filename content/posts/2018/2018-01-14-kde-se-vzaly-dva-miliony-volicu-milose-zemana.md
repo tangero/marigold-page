@@ -3,7 +3,6 @@ slug: 'kde-se-vzaly-dva-miliony-volicu-milose-zemana'
 
 author: Patrick Zandl
 featured: true
-published: true
 summary_points:
 - Zemanovi voliči hledají alternativu kvůli životnímu diskomfortu a exekucím.
 - Exekuce v Česku jsou businessem, který ničí životy statisícům lidí.

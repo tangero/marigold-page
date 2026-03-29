@@ -4,7 +4,6 @@ slug: 'zpatky-z-egypta'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor se vrátil z Egypta, kde bylo 25 stupňů, do chladné Prahy.
 - Na pražském letišti trvalo vyložení zavazadel hodinu.

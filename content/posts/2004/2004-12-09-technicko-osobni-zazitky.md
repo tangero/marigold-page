@@ -4,7 +4,6 @@ slug: 'technicko-osobni-zazitky'
 author: Noname
 
   '
-published: true
 summary_points:
 - Autor plánuje článek o wi-fi, který by měl vyjít v pondělí ráno.
 - Skot žádal autora o kontrolu počítače a serveru po podezřelé zaměstnankyni.

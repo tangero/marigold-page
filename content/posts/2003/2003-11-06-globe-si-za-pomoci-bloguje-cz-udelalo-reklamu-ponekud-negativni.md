@@ -4,7 +4,6 @@ slug: 'globe-si-za-pomoci-bloguje-cz-udelalo-reklamu-ponekud-negativni'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Bloguje.cz přesun na Globe hosting provázely víkendové problémy s dostupností.
 - Doména Bloguje.cz nyní dočasně funguje na adrese bloguje.cz.gds5.globe.cz.

@@ -4,7 +4,6 @@ slug: 'konec-zotavovani-a-zase-doma'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor ukončil dovolenou a po celonoční jízdě autem se vrací k práci.
 - Noname dostal přístup na Marigold a publikoval novinky a seriály.

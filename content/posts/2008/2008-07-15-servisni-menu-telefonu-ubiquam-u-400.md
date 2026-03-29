@@ -8,7 +8,6 @@ categories:
 - CDMA
 
   '
-published: true
 summary_points:
 - U:fon má občas mizerný zvuk, pravděpodobně kvůli primitivnímu audiokodeku.
 - Servisní menu Ubiquam U-400 se aktivuje kódem 8247826 (UBIQUAM).

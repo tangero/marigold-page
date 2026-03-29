@@ -4,7 +4,6 @@ slug: 'roadshow-zte-3g-dnes-dorazi-do-prahy'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - ZTE roadshow s 3G technikou dorazila do Prahy, hotel Corintia Panorama.
 - Prezentace ZTE UMTS technologií probíhá od dneška do středy.

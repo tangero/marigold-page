@@ -4,7 +4,6 @@ slug: 'valna-hromada-ceskeho-telecomu-rozhodne-o-kurzu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Valná hromada Českého Telecomu odrazí rozhodnutí majoritních akcionářů.
 - Marigold, minoritní akcionář, se valné hromady nezúčastní osobně.

@@ -4,7 +4,6 @@ slug: 'broadband-ze-stratosferickych-balonu-sanswire-a-jeho-stratellite'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - SansWire vyvíjí Stratellite, vzducholoď pro bezdrátové broadbandové pokrytí z výšky
   20 km.

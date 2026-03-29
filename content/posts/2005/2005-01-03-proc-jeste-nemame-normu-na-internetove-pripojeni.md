@@ -4,7 +4,6 @@ slug: 'proc-jeste-nemame-normu-na-internetove-pripojeni'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - EU sjednocuje národní normy (např. ČSN) pro "eurounijní platnost", což média často
   neinformovaně kritizují.

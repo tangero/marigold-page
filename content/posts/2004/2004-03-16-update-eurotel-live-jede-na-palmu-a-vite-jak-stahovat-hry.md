@@ -4,7 +4,6 @@ slug: 'update-eurotel-live-jede-na-palmu-a-vite-jak-stahovat-hry'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Live! na Palmu Tungsten C nyní funguje lépe, ale s chybnou češtinou.
 - Web Live! má beztabulkový design, ale navigace je stále špatná.

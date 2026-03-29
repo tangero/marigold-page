@@ -4,7 +4,6 @@ slug: 'nemecky-mobilcom-vraci-umts-licenci'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Mobilcom vrací UMTS licenci v Německu a žádá zpět 7,14 miliardy eur.
 - Německý regulátor nesouhlasí s vracením licence, podobný případ byl Quam.

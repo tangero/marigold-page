@@ -4,7 +4,6 @@ slug: 'tele2-telecom-a-zdi-mezi-spolecnostmi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Telecom uspořádal happening s telaty a transparenty reagující na zeď Tele2.
 - Telecomu prozradil novinář akci Tele2, což umožnilo Telecomu se připravit.

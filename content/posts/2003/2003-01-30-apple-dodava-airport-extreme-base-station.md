@@ -4,7 +4,6 @@ slug: 'apple-dodava-airport-extreme-base-station'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Apple dodává AirPort Extreme Base Station s podporou 802.11g.
 - PowerMacy budou mít volitelnou mini-PCI kartu s 802.11g.

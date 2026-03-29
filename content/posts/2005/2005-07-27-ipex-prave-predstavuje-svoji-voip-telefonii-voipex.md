@@ -4,7 +4,6 @@ slug: 'ipex-prave-predstavuje-svoji-voip-telefonii-voipex'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Voipex, internetová telefonie od Ipexu, umožňuje volání zdarma v rámci SIP sítí.
 - Volání v ČR stojí 1 Kč/min, na mobil 4,5 Kč/min s tarifikací po 30s.

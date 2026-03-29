@@ -16,7 +16,7 @@ source:
   id: the-times-of-india
   name: The Times of India
 title: AMD vsází na indické ambice v AI s Helios; prosazování otevřeného ekosystému
-url: https://economictimes.indiatimes.com/tech/technology/amd-bets-big-on-indias-ai-ambitions-with-helios-open-ecosystem-push/articleshow/128680783.cms
+source_url: https://economictimes.indiatimes.com/tech/technology/amd-bets-big-on-indias-ai-ambitions-with-helios-open-ecosystem-push/articleshow/128680783.cms
 urlToImage: https://img.etimg.com/thumb/width-1200,height-900,imgsize-72764,resizemode-75,msid-128680783/tech/technology/amd-bets-big-on-indias-ai-ambitions-with-helios-open-ecosystem-push.jpg
 urlToImageBackup: https://img.etimg.com/thumb/width-1200,height-900,imgsize-72764,resizemode-75,msid-128680783/tech/technology/amd-bets-big-on-indias-ai-ambitions-with-helios-open-ecosystem-push.jpg
 ---

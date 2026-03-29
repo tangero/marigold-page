@@ -4,7 +4,6 @@ slug: 'nakupuje-se-byt-a-nakupni-horecka-stoupa-a-bude-i-wifi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Dita, Vreco a vypravěč kupují byty v lokalitě s poetickým názvem.
 - Cihlová zástavba vyžaduje hlubokou kapsu, zjistili kupující.

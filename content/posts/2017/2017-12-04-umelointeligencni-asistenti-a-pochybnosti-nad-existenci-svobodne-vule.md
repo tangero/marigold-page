@@ -3,7 +3,6 @@ slug: 'umelointeligencni-asistenti-a-pochybnosti-nad-existenci-svobodne-vule'
 
 author: Patrick Zandl
 featured: true
-published: true
 summary_points:
 - Elektronický asistent analyzuje kalendář a emaily, navrhuje schůzky a připomínky.
 - Takové programy již existují a postupně se zlepšují.

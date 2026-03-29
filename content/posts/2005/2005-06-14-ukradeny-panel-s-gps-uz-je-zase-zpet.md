@@ -4,7 +4,6 @@ slug: 'ukradeny-panel-s-gps-uz-je-zase-zpet'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Solární panel s GSM a GPS byl ukraden.
 - Policie nebyla kontaktována ohledně krádeže.

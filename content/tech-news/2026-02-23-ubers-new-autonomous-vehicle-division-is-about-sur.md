@@ -18,7 +18,7 @@ source:
   id: techcrunch
   name: TechCrunch
 title: Nová divize autonomních vozidel Uberu je o přežití a příležitostech | TechCrunch
-url: https://techcrunch.com/2026/02/23/uber-autonomous-solutions-av-robotaxi/
+source_url: https://techcrunch.com/2026/02/23/uber-autonomous-solutions-av-robotaxi/
 urlToImage: https://techcrunch.com/wp-content/uploads/2025/10/uber-lucid.jpg?resize=1200,801
 urlToImageBackup: https://techcrunch.com/wp-content/uploads/2025/10/uber-lucid.jpg?resize=1200,801
 ---

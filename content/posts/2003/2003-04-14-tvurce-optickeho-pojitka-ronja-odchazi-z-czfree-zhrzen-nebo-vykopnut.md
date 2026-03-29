@@ -4,7 +4,6 @@ slug: 'tvurce-optickeho-pojitka-ronja-odchazi-z-czfree-zhrzen-nebo-vykopnut'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Clock, tvůrce Ronji, odešel z CzFree kvůli prohlášení o negativním přínosu.
 - Petice vznikla na CzFree za navrácení Clocka, ale Carlos a Deu mlčí.

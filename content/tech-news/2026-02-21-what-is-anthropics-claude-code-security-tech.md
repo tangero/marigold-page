@@ -17,7 +17,7 @@ source:
   id: null
   name: Alltoc.com
 title: 'Co je Claude Code Security od Anthropic? #tech'
-url: https://alltoc.com/tech/what-is-anthropic-s-claude-code-security
+source_url: https://alltoc.com/tech/what-is-anthropic-s-claude-code-security
 urlToImage: https://alltoc.com/cdn/1045/og.png
 urlToImageBackup: https://alltoc.com/cdn/1045/og.png
 ---

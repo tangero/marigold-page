@@ -4,7 +4,6 @@ slug: 'takovy-maly-pametnicky-koutek-nasel-jsem-sve-prvni-reklamni-bannery'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Zipka s kapacitou 100 MB sloužila k záloze obrázků pro překlad Necronomiconu z roku
   2000.

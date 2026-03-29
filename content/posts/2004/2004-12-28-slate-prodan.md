@@ -4,7 +4,6 @@ slug: 'slate-prodan'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - Slate, webzin vlastněný Microsoftem, byl prodán společnosti Washington Post.
 - Microsoft projevil zájem o prodej Slate v polovině roku.

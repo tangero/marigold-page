@@ -4,7 +4,6 @@ slug: 'paypal-uz-rozumi-ceske-mene'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - PayPal nově plně podporuje českou korunu pro platby a převody.
 - Přijímání CZK vyžaduje aktivaci měny v nastavení PayPal účtu.

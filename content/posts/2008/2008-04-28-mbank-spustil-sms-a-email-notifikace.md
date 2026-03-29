@@ -7,7 +7,6 @@ categories:
 - SMS
 
   '
-published: true
 summary_points:
 - mBanka je populární pro online platby her Nintendo Wii v bazarech.
 - mBanka spustila SMS a emailové notifikace o zůstatku na účtu.

@@ -21,7 +21,7 @@ source:
   id: null
   name: BusinessLine
 title: '„Miluji vizu premiéra Modiho na AI“: CEO OpenAI Sam Altman'
-url: https://www.thehindubusinessline.com/info-tech/love-pm-modis-vision-on-ai-openai-ceo-sam-altman/article70658900.ece
+source_url: https://www.thehindubusinessline.com/info-tech/love-pm-modis-vision-on-ai-openai-ceo-sam-altman/article70658900.ece
 urlToImage: https://bl-i.thgim.com/public/incoming/s7ukom/article70658949.ece/alternates/LANDSCAPE_1200/20260220040L.jpg
 urlToImageBackup: https://bl-i.thgim.com/public/incoming/s7ukom/article70658949.ece/alternates/LANDSCAPE_1200/20260220040L.jpg
 ---

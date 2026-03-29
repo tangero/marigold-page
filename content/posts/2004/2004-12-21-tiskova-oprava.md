@@ -4,7 +4,6 @@ slug: 'tiskova-oprava'
 author: Noname
 
   '
-published: true
 summary_points:
 - Autor byl kritizován za PR článek o Wifi shopu a uznal chyby.
 - InWifi má zobrazený stav zásob, ale méně zřetelný než Wifi shop.

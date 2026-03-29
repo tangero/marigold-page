@@ -4,7 +4,6 @@ slug: 'polkomtel-postavi-prvni-komercni-wifi-sit-v-polsku'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Polkomtel postaví první komerční WiFi síť v Polsku.
 - První hotspoty Polkomtel spustí ve Waršavě v polovině roku.

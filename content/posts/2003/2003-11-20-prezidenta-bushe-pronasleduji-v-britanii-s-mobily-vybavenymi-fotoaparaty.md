@@ -4,7 +4,6 @@ slug: 'prezidenta-bushe-pronasleduji-v-britanii-s-mobily-vybavenymi-fotoaparaty'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Británie zažívá "druhou generaci smart mobů" v souvislosti s návštěvou George W.
   Bushe.

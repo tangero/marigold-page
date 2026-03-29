@@ -4,7 +4,6 @@ slug: 'navrat-mezi-t-mobile-a-go-nepochopeni'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Zaměstnanec získal firemní tarif T-Mobile díky podpisu dvou statutárních orgánů.
 - Aktivace tarifu T-Mobile je nyní rychlá a stojí 121 Kč plus záloha.

@@ -4,7 +4,6 @@ slug: 'takove-osobni-oskarte-hapruje-gprs-a-gsm-alarm-do-auta'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor vyřešil peskování za počítač pomocí mobilního přístupu k práci.
 - Oskarta GPRS se ukázala jako nespolehlivá alternativa k tarifnímu GPRS.

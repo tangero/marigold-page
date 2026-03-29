@@ -7,7 +7,6 @@ categories:
 - Knihy
 
   '
-published: true
 summary_points:
 - E-knihy čelí cenové debatě, zákazníci chtějí nízké ceny, vydavatelé argumentují
   vyššími náklady.

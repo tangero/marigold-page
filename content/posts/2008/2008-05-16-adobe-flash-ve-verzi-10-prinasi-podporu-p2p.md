@@ -7,7 +7,6 @@ categories:
 - Flash
 
   '
-published: true
 summary_points:
 - Flash 10 beta představuje P2P technologii, což je zásadní novinka.
 - Flash 10 umožňuje ukládat soubory na disk a dynamický streaming videa.

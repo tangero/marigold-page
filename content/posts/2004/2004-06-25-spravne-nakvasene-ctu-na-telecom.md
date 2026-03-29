@@ -4,7 +4,6 @@ slug: 'spravne-nakvasene-ctu-na-telecom'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Český Telecom obvinil ČTÚ z ignorování podvodů s devítistovkovými linkami.
 - ČTÚ vydalo prohlášení, v němž odmítá ignorování podvodů a kritizuje Telecom.

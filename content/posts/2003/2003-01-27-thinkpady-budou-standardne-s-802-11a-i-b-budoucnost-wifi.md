@@ -4,7 +4,6 @@ slug: 'thinkpady-budou-standardne-s-802-11a-i-b-budoucnost-wifi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - ThinkPady R40 budou standardně vybaveny čipem pro WiFi 802.11 a/b.
 - ZD News publikoval článek o budoucnosti WiFi, zejména standardu 802.11g.

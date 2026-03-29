@@ -4,7 +4,6 @@ slug: 'tak-jsem-na-itu-nasel-jen-tri-ceske-vystavovatele'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Ženevského výstaviště se účastnily české firmy Strom Telecom, FDH a 2N.
 - Česká účast na výstavě byla malá oproti jiným státům s národními stánky.

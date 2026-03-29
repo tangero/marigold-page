@@ -4,7 +4,6 @@ slug: 'cesky-telecom-prodlouzil-pouzivani-wifi-site-zdarma-do-konce-roku'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Český Telecom prodloužil bezplatné WiFi do konce roku.
 - Třetí odklad zpoplatnění WiFi sítě Českého Telecomu.

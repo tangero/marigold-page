@@ -7,7 +7,6 @@ categories:
 - Weblogy
 
   '
-published: true
 summary_points:
 - Zpravodajské portály zpočátku nevěděly, jak s blogy pracovat, novináři je využívali
   spíše jako zdroj.

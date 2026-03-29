@@ -4,7 +4,6 @@ slug: 'postovni-vyziranky'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor založil s Petrem e-shop Kronium s hodinkami po úspěchu webu Chronomag.
 - Prodej hodinek online v Česku je obtížný, lidé kupují spíše mainstreamové značky.

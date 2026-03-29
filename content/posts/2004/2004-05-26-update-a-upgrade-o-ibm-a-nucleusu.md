@@ -4,7 +4,6 @@ slug: 'update-a-upgrade-o-ibm-a-nucleusu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor si pořídil nový notebook IBM R50 s lepším displejem a WiFi.
 - Starý redakční systém Genesis nahrazuje novým Nucleus kvůli robustnosti a administraci.

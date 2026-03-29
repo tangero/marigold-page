@@ -6,7 +6,6 @@ categories:
 - Příběhy
 
   '
-published: true
 summary_points:
 - Autor odjíždí na služební cestu do Barcelony na Mobile World Congress.
 - Stream se zavázal k obnovení pořadu Lomítko přímo z barcelonského výstaviště.

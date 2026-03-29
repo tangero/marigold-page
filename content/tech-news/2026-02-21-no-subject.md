@@ -18,7 +18,7 @@ source:
   id: null
   name: Seclists.org
 title: 'Risks Digest 34.88: Přehled rizik v počítačových a souvisejících systémech'
-url: https://seclists.org/risks/2026/q1/7
+source_url: https://seclists.org/risks/2026/q1/7
 urlToImage: https://seclists.org/images/risks-img.png
 urlToImageBackup: https://seclists.org/images/risks-img.png
 ---

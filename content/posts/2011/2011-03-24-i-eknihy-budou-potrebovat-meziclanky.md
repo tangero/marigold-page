@@ -6,7 +6,6 @@ categories:
 - eKnihy
 
   '
-published: true
 summary_points:
 - Autor experimentálně prodává e-knihu, aby zjistil, zda funguje trh s e-knihami.
 - Palmknihy byly vybrány pro distribuci kvůli sociálnímu DRM a nepoužívání běžného

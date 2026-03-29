@@ -4,7 +4,6 @@ slug: 'ctecky-elektronickych-knih-ebook-readery-v-roce-2007'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - E-knihy průlom nemají, trh je považován za mrtvý, ačkoliv autor je sleduje.
 - Autor má tisíce knih doma a paralelně buduje elektronickou knihovnu v PDF.

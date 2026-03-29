@@ -4,7 +4,6 @@ slug: 'na-siti-nebo-na-disku-otazka-skoro-hamletovska'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Souboj Blue-Ray a HD DVD může prohrát s rozvojem síťových technologií.
 - Rychlé mobilní sítě umožní streamování a ukládání dat online namísto lokálních disků.

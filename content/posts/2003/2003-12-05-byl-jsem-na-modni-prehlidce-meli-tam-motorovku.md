@@ -4,7 +4,6 @@ slug: 'byl-jsem-na-modni-prehlidce-meli-tam-motorovku'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Dita pozvala autora na módní přehlídku, což zpočátku podceňoval.
 - Autorův dřívější zážitek z módní přehlídky Kenzo byl pozitivní díky neformálnímu

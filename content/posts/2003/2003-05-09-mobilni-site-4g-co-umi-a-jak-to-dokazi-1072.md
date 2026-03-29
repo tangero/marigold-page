@@ -4,7 +4,6 @@ slug: 'mobilni-site-4g-co-umi-a-jak-to-dokazi-1072'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - G sítě cílí na vysokorychlostní datové přenosy, až 100 Mbps na uživatele.
 - Radiové spektrum 4G sítí kombinuje nelicencovaná pásma 5/60 GHz a licencované 17

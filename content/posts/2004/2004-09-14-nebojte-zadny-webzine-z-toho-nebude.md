@@ -4,7 +4,6 @@ slug: 'nebojte-zadny-webzine-z-toho-nebude'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor vysvětluje občasné příspěvky jiných autorů na svém blogu Marigold.
 - Marigold zůstane osobním blogem, ne webzinem s více autory a tématy.

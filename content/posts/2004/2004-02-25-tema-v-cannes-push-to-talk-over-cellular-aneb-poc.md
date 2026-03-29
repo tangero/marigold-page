@@ -4,7 +4,6 @@ slug: 'tema-v-cannes-push-to-talk-over-cellular-aneb-poc'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - PoC je v Cannes vnímáno jako záchrana upadajících příjmů z hlasových služeb.
 - Nejlepší zkušenosti s PoC jsou při účtování měsíčním paušálem bez dalšího účtování.

@@ -4,7 +4,6 @@ slug: 'upc-se-rozhodlo-dat-telekomackemu-adsl-sanci'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - UPC Mistral zaznamenal třídenní výpadek internetu v různých lokalitách.
 - Zákazníci UPC nebyli o výpadku a jeho příčinách informováni.

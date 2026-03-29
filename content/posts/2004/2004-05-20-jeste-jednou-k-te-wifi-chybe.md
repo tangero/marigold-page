@@ -4,7 +4,6 @@ slug: 'jeste-jednou-k-te-wifi-chybe'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WiFi zranitelnost spočívá v chybě logiky, umožňující rušení pásma nekooperujícími
   klienty.

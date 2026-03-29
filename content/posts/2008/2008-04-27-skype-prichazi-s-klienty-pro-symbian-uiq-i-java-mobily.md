@@ -8,7 +8,6 @@ categories:
 - Symbian
 
   '
-published: true
 summary_points:
 - Skype vydal nativní klienty pro 50 mobilních telefonů s Javou, Symbianem a UIQ.
 - Odchozí hovory na Skype Out v Česku nejsou z mobilní aplikace podporovány.

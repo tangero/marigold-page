@@ -4,7 +4,6 @@ slug: 'cdma450-na-prelomu-roku'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Německo získá CDMA450 díky Inquam Deutschland, T-Mobile zvažuje FlashOFDM.
 - Švédsko a Finsko budou rozhodovat o licencích, CDMA450 má šanci.

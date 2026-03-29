@@ -6,7 +6,6 @@ categories:
 - Energomonitor
 
   '
-published: true
 summary_points:
 - Energomonitor ukládá data do cloudu kvůli ceně, technické vhodnosti a budoucím funkcím.
 - Cloud umožňuje levný hardware, dálkové aktualizace a centrální správu zařízení.

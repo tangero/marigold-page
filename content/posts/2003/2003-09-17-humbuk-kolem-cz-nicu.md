@@ -4,7 +4,6 @@ slug: 'humbuk-kolem-cz-nicu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - CZ.NIC spustil nový systém s nedodělky, což vyvolává otázky ohledně kvality.
 - Valná hromada CZ.NIC nezlevnila ceny domén pro registrátory.

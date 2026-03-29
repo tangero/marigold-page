@@ -4,7 +4,6 @@ slug: 'nicetelske-elegie'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autorovi se neobvykle často kazí elektronika a další zařízení.
 - Nokia 9500 se rozpadla, přestože s ní bylo zacházeno opatrně.

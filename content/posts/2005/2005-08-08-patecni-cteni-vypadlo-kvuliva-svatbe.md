@@ -4,7 +4,6 @@ slug: 'patecni-cteni-vypadlo-kvuliva-svatbe'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Páteční čtení o internetovém pravěku se nekonalo kvůli lenosti a svatbě.
 - Autor obdržel dvacet emailů s výčitkami za zrušené čtení.

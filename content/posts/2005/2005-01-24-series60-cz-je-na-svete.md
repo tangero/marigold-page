@@ -4,7 +4,6 @@ slug: 'series60-cz-je-na-svete'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Nokia hledala lidi pro web o platformě Series 60.
 - Web Series60.cz byl spuštěn a je dostupný online.

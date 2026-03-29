@@ -4,7 +4,6 @@ slug: 'skype-pridava-funkci-obrazku-my-picture'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Skype přidal funkci My Picture pro přenos obrázků během hovorů.
 - Verze 0.98.0.04 Skype pro PC obsahuje novou funkci My Picture.

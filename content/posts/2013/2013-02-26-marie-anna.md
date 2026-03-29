@@ -4,7 +4,6 @@ slug: 'marie-anna'
 author: Patrick Zandl
 categories:
 - Rodina
-published: true
 summary_points:
 - Marie Anna narozena 25.2.2013, autor jí přeje život bez strachu a hladu.
 - Rodiče a dcera samotná ovlivní její štěstí v budoucnu.

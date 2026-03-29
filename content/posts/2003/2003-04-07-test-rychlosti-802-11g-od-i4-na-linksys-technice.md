@@ -4,7 +4,6 @@ slug: 'test-rychlosti-802-11g-od-i4-na-linksys-technice'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - I4 testoval rychlost 802.11g a 802.11b v závislosti na vzdálenosti.
 - g dle grafu na I4 výrazně ztrácí rychlost s rostoucí vzdáleností.

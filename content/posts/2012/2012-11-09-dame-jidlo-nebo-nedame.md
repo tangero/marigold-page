@@ -6,7 +6,6 @@ categories:
 - Startupy
 
   '
-published: true
 summary_points:
 - DámeJídlo.cz je další pokus o donášku jídla v Česku, podpořený Slevomatem.
 - Český trh s donáškou jídla naráží na nízkou zvyklost objednávání a ceny.

@@ -4,7 +4,6 @@ slug: 'valeski-na-ceskych-chlivek-moc-dobry'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Valeskiho odvolání z Eurotelu iniciovalo představenstvo Telecomu.
 - Dozorčí rada Telecomu jednala o odvolání Valeskiho na popud představenstva.

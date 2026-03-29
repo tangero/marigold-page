@@ -4,7 +4,6 @@ slug: 'ctu-odpovida-na-moje-brblani-nad-megadotaznikem'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - ČTÚ reagoval na autorův článek o rozsáhlém dotazníku pro telekomunikační firmy.
 - Statistické výkazy ČTÚ schvaluje Český statistický úřad a jsou součástí zákona.

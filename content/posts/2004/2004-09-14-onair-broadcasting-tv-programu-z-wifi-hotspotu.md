@@ -4,7 +4,6 @@ slug: 'onair-broadcasting-tv-programu-z-wifi-hotspotu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - OnAir Entertainment nabízí broadcasting TV programu z WiFi hotspotu do zařízení
   uživatele.

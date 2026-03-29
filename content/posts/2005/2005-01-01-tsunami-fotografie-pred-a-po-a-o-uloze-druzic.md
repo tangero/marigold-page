@@ -4,7 +4,6 @@ slug: 'tsunami-fotografie-pred-a-po-a-o-uloze-druzic'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - DigitalGlobe poskytuje QuickBird snímky zasažených oblastí tsunami.
 - QuickBird je družicový systém pořizující snímky s vysokým rozlišením.

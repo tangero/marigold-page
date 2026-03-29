@@ -6,7 +6,6 @@ categories:
 - iPhone
 
   '
-published: true
 summary_points:
 - iPhone 3G má 3G, GPS a 8GB verze stojí 199$ s úpisem.
 - Rozměry iPhone 3G se mírně zvětšily, hmotnost naopak klesla o 2 gramy.

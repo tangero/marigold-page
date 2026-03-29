@@ -4,7 +4,6 @@ slug: 'inzeratek-u-turn-hleda-it-administratora'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - U-Turn hledá IT administrátora pro správu Linux serveru a MS Windows.
 - Požadují se znalosti Linuxu, Microsoft produktů, síťových technologií a SŠ/VŠ vzdělání.

@@ -4,7 +4,6 @@ slug: 'oskar-a-vodafone-dokonano-jest'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Vodafone jedná s TIW o koupi Oskara, nikoliv Eurotelu.
 - TIW potvrdilo jednání s Vodafonem o prodeji Oskara a MobiFonu.

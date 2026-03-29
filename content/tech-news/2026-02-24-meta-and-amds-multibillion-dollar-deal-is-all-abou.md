@@ -18,7 +18,7 @@ source:
   id: null
   name: CNET
 title: Dohoda Meta a AMD v hodnotě miliard dolarů se týká AI čipů
-url: https://www.cnet.com/tech/services-and-software/meta-and-amds-multibillion-deal-is-all-about-the-ai-chips/
+source_url: https://www.cnet.com/tech/services-and-software/meta-and-amds-multibillion-deal-is-all-about-the-ai-chips/
 urlToImage: https://www.cnet.com/a/img/resize/94a9a3d12edf871013e1ba0f311e84b04eba29b5/hub/2026/02/24/e82c5a2e-09db-4ced-afd0-12265b977455/21953350-2x-amd-instinct-mi200-face-updated.jpg?auto=webp&fit=crop&height=675&width=1200
 urlToImageBackup: https://www.cnet.com/a/img/resize/94a9a3d12edf871013e1ba0f311e84b04eba29b5/hub/2026/02/24/e82c5a2e-09db-4ced-afd0-12265b977455/21953350-2x-amd-instinct-mi200-face-updated.jpg?auto=webp&fit=crop&height=675&width=1200
 ---

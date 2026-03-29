@@ -4,7 +4,6 @@ slug: 'prehled-wifi-ap-a-home-routeru-uz-bezi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Přehled WiFi techniky v Čechách byl vytvořen autorem.
 - Access Pointy a Home Routery se liší více než PCMCIA/PCI karty.

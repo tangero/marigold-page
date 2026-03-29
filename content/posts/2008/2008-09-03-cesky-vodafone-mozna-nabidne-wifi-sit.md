@@ -8,7 +8,6 @@ categories:
 - Mobilní sítě
 
   '
-published: true
 summary_points:
 - Vodafone odkoupil BroadNet pro firemní FWA síť v pásmech 26 a 28 GHz.
 - Vodafone buduje WiFi síť s pomocí firmy Cuculus a uživatelů (Hotspot Host).

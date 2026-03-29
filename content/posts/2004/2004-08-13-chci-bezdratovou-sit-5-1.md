@@ -4,7 +4,6 @@ slug: 'chci-bezdratovou-sit-5-1'
 author: Noname
 
   '
-published: true
 summary_points:
 - Článek radí, jak získat bezdrátový internet.
 - Dostupnost ADSL lze ověřit online formulářem.

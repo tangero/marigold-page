@@ -4,7 +4,6 @@ slug: 'protestakce-uzivatelu-eurotel-cdma'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Uživatelé CDMA plánovali 1.3. masivní stahování dat na protest proti Eurotelu.
 - Akce pravděpodobně neovlivní celkový objem dat Eurotelu, ale sdílené médium.

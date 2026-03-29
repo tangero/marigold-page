@@ -17,7 +17,7 @@ source:
   id: techradar
   name: TechRadar
 title: Bezplatný ChatGPT je překvapivě drahý, tady je důvod
-url: https://www.techradar.com/ai-platforms-assistants/chatgpt/free-chatgpt-is-surprisingly-expensive-heres-why
+source_url: https://www.techradar.com/ai-platforms-assistants/chatgpt/free-chatgpt-is-surprisingly-expensive-heres-why
 urlToImage: https://cdn.mos.cms.futurecdn.net/eqhwURZAudkUMLkx6i533c-1920-80.jpg
 urlToImageBackup: https://cdn.mos.cms.futurecdn.net/eqhwURZAudkUMLkx6i533c-1920-80.jpg
 ---

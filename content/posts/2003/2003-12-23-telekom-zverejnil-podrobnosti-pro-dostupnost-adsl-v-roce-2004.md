@@ -4,7 +4,6 @@ slug: 'telekom-zverejnil-podrobnosti-pro-dostupnost-adsl-v-roce-2004'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Český Telecom zveřejnil plán rozšíření PDSL do poloviny roku 2004.
 - PDSL bude dostupné ve větších městech a okolí Velké Prahy.

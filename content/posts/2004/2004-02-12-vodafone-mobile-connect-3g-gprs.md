@@ -4,7 +4,6 @@ slug: 'vodafone-mobile-connect-3g-gprs'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Vodafone spustil komerční 3G síť, zatím pouze pro datové služby.
 - Datová PCMCIA karta Vodafone Mobile Connect 3G/GPRS podporuje rychlost 384 Kb/s.

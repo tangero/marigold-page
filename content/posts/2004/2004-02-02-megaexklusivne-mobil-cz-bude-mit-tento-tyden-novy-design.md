@@ -4,7 +4,6 @@ slug: 'megaexklusivne-mobil-cz-bude-mit-tento-tyden-novy-design'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Mobil.cz chystá nový design titulní stránky, který by měl být spuštěn tento týden.
 - Nový design Mobil.cz se zbavil některých reklam a přeskupil zbývající.

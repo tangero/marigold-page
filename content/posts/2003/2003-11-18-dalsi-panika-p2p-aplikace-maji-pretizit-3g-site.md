@@ -4,7 +4,6 @@ slug: 'dalsi-panika-p2p-aplikace-maji-pretizit-3g-site'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - P2P aplikace údajně zatíží 3G sítě, což je dle autora spíše PR firmy Beep Science.
 - Beep Science nabízí P2P distribuci obsahu pro mobily s DRM ochranou, zaměřenou na

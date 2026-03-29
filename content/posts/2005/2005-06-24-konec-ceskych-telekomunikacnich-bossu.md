@@ -4,7 +4,6 @@ slug: 'konec-ceskych-telekomunikacnich-bossu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Telefonica odvolala generální ředitele Českého Telecomu Berdára a Eurotelu Heřmana.
 - Odchodem Berdára a Heřmana končí éra českých šéfů velkých telekomunikačních firem.

@@ -4,7 +4,6 @@ slug: 'seznamcz-a-rss-jak-to-zpracovat'
 author: Noname
 
   '
-published: true
 summary_points:
 - Seznam.cz po migraci odmítá akceptovat nové RSS zdroje, včetně Marigold.cz.
 - Marigold.cz RSS zdroje (různé formáty) jsou funkční, ale Seznam je nepřijímá.

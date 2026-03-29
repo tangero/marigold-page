@@ -4,7 +4,6 @@ slug: 'medialni-terorismus-ceskeho-telecomu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Berdárův nástup změnil chování Telecomu k médiím na "
 title: Mediální terorismus Českého Telecomu

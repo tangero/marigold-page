@@ -4,7 +4,6 @@ slug: 'turbouvod-do-umts-hsdpa-aneby-jeste-rychlejsi-data'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - HSDPA je tématem bláznova turobúvodu do UMTS.
 - Článek o HSDPA je dostupný na uvedeném odkazu.

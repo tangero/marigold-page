@@ -4,7 +4,6 @@ slug: 'online-rozhovor-s-jakubem-ditrichem-na-digiwebu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - DigiWeb dnes 10:30 hostí online rozhovor s Jakubem Ditrichem.
 - Jakub Ditrich dříve působil v Globe Internetu, nyní provozuje WiFi síť WideNet.

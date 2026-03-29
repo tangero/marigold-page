@@ -4,7 +4,6 @@ slug: 'skype-predstavil-pocket-pc-2-0'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Skype má novou verzi pro Pocket PC 2.0.
 - Verze pro Symbian se vyvíjí, ale nemá prioritu.

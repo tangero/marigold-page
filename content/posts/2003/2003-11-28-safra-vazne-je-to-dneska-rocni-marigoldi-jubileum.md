@@ -4,7 +4,6 @@ slug: 'safra-vazne-je-to-dneska-rocni-marigoldi-jubileum'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Marigold vznikl 28. listopadu jako server o WiFi technice.
 - Původně měl Marigold dělat kamarád, ale nakonec ho převzal autor.

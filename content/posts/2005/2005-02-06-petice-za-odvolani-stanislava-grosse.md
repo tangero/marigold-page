@@ -4,7 +4,6 @@ slug: 'petice-za-odvolani-stanislava-grosse'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Petici za odvolání premiéra Grosse sestavili Filip Rožánek a Martin Malý (Artur
   Dent).

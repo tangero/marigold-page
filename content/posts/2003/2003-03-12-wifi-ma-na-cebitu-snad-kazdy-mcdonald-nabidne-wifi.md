@@ -4,7 +4,6 @@ slug: 'wifi-ma-na-cebitu-snad-kazdy-mcdonald-nabidne-wifi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Telekomunikační haly CeBITu dominují WiFi a ADSL technologie v různých kombinacích.
 - McDonald nabídne WiFi připojení ve svých restauracích, začíná s Manhattanem.

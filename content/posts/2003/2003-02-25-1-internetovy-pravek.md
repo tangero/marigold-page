@@ -4,7 +4,6 @@ slug: '1-internetovy-pravek'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - ARPANET v roce 1963, decentralizovaná síť, vznikla z iniciativy ministerstva obrany
   USA.

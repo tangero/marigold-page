@@ -4,7 +4,6 @@ slug: 'novy-marigoldi-design-2'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Marigold má nový minimalistický design založený na šabloně Hinimal.
 - '% návštěvnosti Marigoldu pochází z mobilních zařízení.'

@@ -18,7 +18,7 @@ source:
   id: null
   name: Geeky Gadgets
 title: Google Gemini 3.1 Pro téměř zdvojnásobil skóre v testu Apex Agents na 33,5
-url: https://www.geeky-gadgets.com/gemini-3-1-pro-benchmarks/
+source_url: https://www.geeky-gadgets.com/gemini-3-1-pro-benchmarks/
 urlToImage: https://www.geeky-gadgets.com/wp-content/uploads/2026/02/gemini-3-1-pro-benchmark-scoreboard_optimized.jpg
 urlToImageBackup: https://www.geeky-gadgets.com/wp-content/uploads/2026/02/gemini-3-1-pro-benchmark-scoreboard_optimized.jpg
 ---

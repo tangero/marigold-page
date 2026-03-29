@@ -2,7 +2,6 @@
 slug: 'oficialne-jsem-clenem-ceske-piratske-strany'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - Autor se stal členem Pirátské strany a zaznamenal různé reakce od lidí.
 - Piráti staví komunální kandidátku v Brandýse-Boleslavi, ne do senátních voleb.

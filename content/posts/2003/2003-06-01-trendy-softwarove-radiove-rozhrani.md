@@ -4,7 +4,6 @@ slug: 'trendy-softwarove-radiove-rozhrani'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Článek pojednává o posunu od specializovaných k víceúčelovým čipům pro radiové rozhraní.
 - Specializované čipy dnes kódují radiové rozhraní natvrdo, což brzdí vývoj.

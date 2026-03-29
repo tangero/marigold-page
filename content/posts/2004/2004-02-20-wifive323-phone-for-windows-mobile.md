@@ -4,7 +4,6 @@ slug: 'wifive323-phone-for-windows-mobile'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WiFive323 Phone je VoIP telefonie pro Windows Mobile PDA.
 - Podporuje SIP i H.323 protokoly pro kompatibilitu s různými službami.

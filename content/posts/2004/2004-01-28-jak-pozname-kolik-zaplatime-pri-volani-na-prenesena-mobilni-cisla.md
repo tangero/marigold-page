@@ -4,7 +4,6 @@ slug: 'jak-pozname-kolik-zaplatime-pri-volani-na-prenesena-mobilni-cisla'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Maler se ptal, jak poznat cenu volání na číslo přenesené k jinému operátorovi.
 - ČTÚ zvažuje "návěstní" informace pro volajícího, například hlasovou zprávu nebo

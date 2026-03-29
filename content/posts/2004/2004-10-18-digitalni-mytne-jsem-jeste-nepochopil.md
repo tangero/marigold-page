@@ -4,7 +4,6 @@ slug: 'digitalni-mytne-jsem-jeste-nepochopil'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Digitální mýto v ČR pravděpodobně získá Český Telecom.
 - Autor nechápe výhodu složitého systému oproti jednoduchému zápisu kilometrů.

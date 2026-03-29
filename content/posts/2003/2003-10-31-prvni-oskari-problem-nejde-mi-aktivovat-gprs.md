@@ -4,7 +4,6 @@ slug: 'prvni-oskari-problem-nejde-mi-aktivovat-gprs'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - GPRS Standard u Oskara nebylo po doručení karty aktivní.
 - Samoobsluha ani infolinka GPRS aktivaci u Oskara nezajistily.

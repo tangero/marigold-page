@@ -4,7 +4,6 @@ slug: 'kritika-k-czfree-a-poznatek-nevite-jak-se-pise-wifi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Petr Ludera kritizuje CzFree Net konstruktivními připomínkami v diskusním příspěvku.
 - Článek o CzFree bude na Marigoldu, hlasování o názorech již probíhá.

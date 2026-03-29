@@ -15,7 +15,7 @@ source:
   name: Foreign Policy
 title: Pro státy Perského zálivu jsou investice do umělé inteligence částečně o ochraně
   před USA
-url: http://foreignpolicy.com/2026/02/23/gulf-states-investment-ai-american-protection-qatar-uae-saudi/
+source_url: https://foreignpolicy.com/2026/02/23/gulf-states-investment-ai-american-protection-qatar-uae-saudi/
 urlToImage: https://foreignpolicy.com/wp-content/uploads/2026/02/GettyImages-2244358004.jpg?w=1000
 urlToImageBackup: https://foreignpolicy.com/wp-content/uploads/2026/02/GettyImages-2244358004.jpg?w=1000
 ---

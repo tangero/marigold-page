@@ -7,7 +7,6 @@ categories:
 - Techcrunch
 
   '
-published: true
 summary_points:
 - TechCrunch Praha se konal na Zvonařce, autor bloudil, potkal Davida Grudla.
 - Prezentace sponzorů (GoodData, Geeva, Wirenode, Ataxo, Newstin, Nelso, TechCrunch)

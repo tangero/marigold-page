@@ -4,7 +4,6 @@ slug: 'lov-na-lcd-televizor-po-roce'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor zvažuje nákup 32palcové LCD televize kvůli problémům se starou.
 - Požaduje HD ready, HDMI/DVI vstup a minimální parametry displeje (jas, odezva, kontrast).

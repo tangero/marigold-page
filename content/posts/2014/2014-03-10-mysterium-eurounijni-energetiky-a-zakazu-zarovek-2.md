@@ -4,7 +4,6 @@ slug: 'mysterium-eurounijni-energetiky-a-zakazu-zarovek-2'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Eurounijní zákaz žárovek vyvolal v Česku vášnivé diskuse kvůli dezinformacím.
 - Česká média často negativně prezentují EU bez hlubšího porozumění jejím funkcím.

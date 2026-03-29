@@ -7,7 +7,6 @@ categories:
 - Stream.cz
 
   '
-published: true
 summary_points:
 - Obchodní ředitel kritizuje technického ředitele za zavedení "activity listů".
 - IT rozpočet je podle obchodního ředitele klíčový problém firmy.

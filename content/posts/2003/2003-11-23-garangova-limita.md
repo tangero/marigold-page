@@ -8,7 +8,6 @@ categories:
 - AI
 
   '
-published: true
 summary_points:
 - Garangova limita definuje nedosažitelnost umělé inteligence bez mimosmyslové komunikace.
 - CeBIT 2005 se stal místem sporu Ballmera (Microsoft) a Garanga o UI.

@@ -7,7 +7,6 @@ categories:
 - Knihy
 
   '
-published: true
 summary_points:
 - Papírová kniha by autorovi vynesla 15 Kč, elektronická verze 59 Kč.
 - Prodej 70 e-knih pokryje autorovy náklady na korekturu.

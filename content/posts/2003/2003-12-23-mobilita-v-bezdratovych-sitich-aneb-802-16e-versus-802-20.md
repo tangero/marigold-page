@@ -4,7 +4,6 @@ slug: 'mobilita-v-bezdratovych-sitich-aneb-802-16e-versus-802-20'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Článek na Lupě řeší mobilitu v bezdrátových sítích (802.16e vs. 802.20).
 - Autor pochybuje o využití mobilní WLAN kvůli nedostatečnému pokrytí a integraci.

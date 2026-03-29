@@ -6,7 +6,6 @@ categories:
 - Politika
 
   '
-published: true
 summary_points:
 - Autor kritizuje nedostatečnou analýzu státního rozpočtu v českých médiích.
 - Státní rozpočet je nepřehledný a těžko se v něm hledají konkrétní informace.

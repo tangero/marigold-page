@@ -4,7 +4,6 @@ slug: 'chci-bezdratovou-sit-5-2'
 author: Noname
 
   '
-published: true
 summary_points:
 - Venkovní síť sdílí internet, pokud není jiný poskytovatel, nebo vrací peníze.
 - Cena internetu musí odpovídat počtu zákazníků a jejich platbám.

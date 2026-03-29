@@ -4,7 +4,6 @@ slug: 'zase-nejaka-policejni-akce-a-tri-kila-v-trapu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Pardubická trasa se z roku 1997 do 2003 prodloužila z 1:10 na 2:30.
 - Chlumec nad Cidlinou je kritický bod trasy kvůli semaforům a absenci obchvatu.

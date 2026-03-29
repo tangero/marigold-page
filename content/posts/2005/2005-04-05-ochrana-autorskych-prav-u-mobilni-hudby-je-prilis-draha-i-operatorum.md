@@ -4,7 +4,6 @@ slug: 'ochrana-autorskych-prav-u-mobilni-hudby-je-prilis-draha-i-operatorum'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - DRM ochrana mobilní hudby je dle GSM Asociace příliš drahá.
 - OMA DRM 2.0 se nelíbí výrobcům telefonů ani mobilním operátorům.

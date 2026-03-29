@@ -4,7 +4,6 @@ slug: 'evropska-unie-pridala-mou-knihu-na-index-zakazanych-autogramiada-presto-b
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Kniha Příběh strýčka Martina byla zakázána Evropskou komisí jako škodlivá.
 - Kniha vyšla elektronicky díky příspěvkům na Startovači a v limitované papírové edici.

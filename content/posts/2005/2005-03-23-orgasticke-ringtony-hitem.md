@@ -4,7 +4,6 @@ slug: 'orgasticke-ringtony-hitem'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Realtone vyzvánění přešly od hudby přes zvířecí zvuky k sexuálním projevům.
 - Zvuk orgasmu se stal hitem mezi realtone vyzváněními pro mobilní telefony.

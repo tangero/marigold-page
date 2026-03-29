@@ -7,7 +7,6 @@ categories:
 - Digitalizace
 
   '
-published: true
 summary_points:
 - Autor řeší problém zahlceného stolu a skříně papíry.
 - Digitalizace dokumentů (skenování, OCR) se jeví jako lákavé řešení.

@@ -4,7 +4,6 @@ slug: 'router-s-rizenim-sirky-pasma'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Routery umožňují řídit šířku pásma a limitovat data pro sdílené linky.
 - Levné routery nabízejí limitování dat a šířky pásma přes webové rozhraní.

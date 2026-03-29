@@ -4,7 +4,6 @@ slug: 'belkin-nedistribuuje-autocont-ani-at-computers-oprava'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - AutoCont bude prodávat KVM přepínače Belkin, nikoliv WiFi produkty.
 - WiFi techniku Belkin bude v Česku distribuovat společnost ED Systems.

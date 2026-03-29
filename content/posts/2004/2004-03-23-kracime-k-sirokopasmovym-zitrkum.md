@@ -4,7 +4,6 @@ slug: 'kracime-k-sirokopasmovym-zitrkum'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Diskuze KRÁČÍME K ŠIROKOPÁSMOVÝM ZÍTŘKŮM? se koná dnes v 15 hodin.
 - Studentská Unie ČVUT pořádá diskusi o širokopásmovém internetu v ČR.

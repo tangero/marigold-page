@@ -4,7 +4,6 @@ slug: 'panika-na-blogerske-burze-2-zertvuv-nekrolog'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Žertvův deníček, populární blog, vyvolal diskusi o identitě autora.
 - Žertva ukončil blog kvůli ochraně anonymity osob, o kterých psal.

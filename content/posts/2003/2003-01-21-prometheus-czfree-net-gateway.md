@@ -4,7 +4,6 @@ slug: 'prometheus-czfree-net-gateway'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Prometheus WiFi spot obsluhuje 40 uživatelů, brzy až 100 po upgradu.
 - CZFree.Net na Prometheu nabízí 32 kbps zdarma a street DHCP.

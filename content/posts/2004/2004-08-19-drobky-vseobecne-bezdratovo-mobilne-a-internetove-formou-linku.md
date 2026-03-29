@@ -4,7 +4,6 @@ slug: 'drobky-vseobecne-bezdratovo-mobilne-a-internetove-formou-linku'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Linksys WRT54G router lze modifikovat přidáním sériového portu dle návodu.
 - Skype vyvolává diskuse o dopadu na telekomunikační společnosti a jejich budoucnost.

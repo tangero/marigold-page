@@ -4,7 +4,6 @@ slug: 'cannes-2003-zahranicni-zkusenosti-s-vystavbou-verejnych-wlan-siti'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Cannes kongres shrnul přednášky o WiFi sítích budovaných mobilními operátory.
 - Operátoři zdražující SMS zprávy budou analyzováni na základě praktických příkladů.

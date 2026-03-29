@@ -4,7 +4,6 @@ slug: 'vitam-vas-spoluobcane-rise'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Občané druhé kategorie budou zítra nově přijati do Říše.
 - Říše římská rozlišovala občany na civis romanum a civis novus.

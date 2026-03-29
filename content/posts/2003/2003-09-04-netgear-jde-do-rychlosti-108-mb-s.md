@@ -4,7 +4,6 @@ slug: 'netgear-jde-do-rychlosti-108-mb-s'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Netgear ohlásil WiFi produkty s rychlostí až 108 Mb/s pomocí technologie Super G.
 - Netgear WGT624 směrovač a WG511T PCMCIA karta budou v USA dostupné příští měsíc.

@@ -3,7 +3,6 @@ slug: 'vase-deti-a-nase-skolstvi-oboji-bez-budoucnosti'
 
 author: Patrick Zandl
 featured: true
-published: true
 summary_points:
 - České školství nabízí zastaralé vzdělání bez systémové reformy.
 - Nadstandardní vzdělání vyžaduje měsíční náklady 5-10 tisíc korun.

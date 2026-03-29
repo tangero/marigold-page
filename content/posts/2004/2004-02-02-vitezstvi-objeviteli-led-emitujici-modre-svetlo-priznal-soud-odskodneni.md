@@ -4,7 +4,6 @@ slug: 'vitezstvi-objeviteli-led-emitujici-modre-svetlo-priznal-soud-odskodneni'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Nakamura objevil postup pro efektivní modré LED diody, klíčové pro DVD a LCD panely.
 - Nichia Corporation vydělala na Nakamurově patentu, ale vyplatila mu jen 189 dolarů.

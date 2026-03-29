@@ -4,7 +4,6 @@ slug: 'prehled-firemnich-voip-poskytovatelu-v-cr'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - VoIP přehled firemních řešení v ČR je připravován autorem.
 - Autor hledá tipy na VoIP poskytovatele pro firmy v ČR.

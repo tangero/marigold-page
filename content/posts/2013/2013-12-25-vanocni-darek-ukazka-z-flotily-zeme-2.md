@@ -4,7 +4,6 @@ slug: 'vanocni-darek-ukazka-z-flotily-zeme-2'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor nabízí dvě ukázky z připravovaného pokračování Flotily Země jako vánoční dárek.
 - Prolog knihy popisuje situaci dvacet let po bitvě u Barzy a nástup císařství.

@@ -4,7 +4,6 @@ slug: 'stehovaci-odvezli-knihy'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Stěhováci přijeli s malým Tranzitem, což nestačilo na množství knih.
 - Zákazníci prý často zveličují množství knih, aby vypadali inteligentně.

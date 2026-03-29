@@ -4,7 +4,6 @@ slug: 'au-to-muselo-bolet'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Nehoda se stala na Argentinské ulici, příčina je neznámá.
 - Obrázek nehody je dostupný ke zvětšení.

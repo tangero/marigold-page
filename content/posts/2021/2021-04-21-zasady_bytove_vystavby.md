@@ -4,7 +4,7 @@ slug: 'zasady_bytove_vystavby'
 categories:
 - Město
 - Bydlení
-date: 18.4.2021
+date: 2021-04-18
 excerpt: Na zastupitelstvu Brandýsa-Boleslavi jsme schválili Zásady pro výstavbu ve
   městě, které stanoví rámec spolupráce s developery. Zásady se nevztahují na individiální
   výstavbu. Na přípravě zásad spolupracovali občanská sdružení Naše Dvojměstí a Podpora

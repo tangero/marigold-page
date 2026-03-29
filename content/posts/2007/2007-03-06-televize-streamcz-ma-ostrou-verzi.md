@@ -4,7 +4,6 @@ slug: 'televize-streamcz-ma-ostrou-verzi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Stream.cz spustil ostrou verzi s vylepšeným uploadem videí a RSS.
 - Hudební sekce Stream.cz nabízí 24 žánrových hudebních streamů ve Flash.

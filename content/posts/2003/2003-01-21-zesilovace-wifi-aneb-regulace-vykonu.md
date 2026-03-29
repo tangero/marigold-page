@@ -4,7 +4,6 @@ slug: 'zesilovace-wifi-aneb-regulace-vykonu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - ČTÚ povolení omezuje WiFi výkon na 100 mW na anténě.
 - USA definuje WiFi výkon na konektoru zařízení, ne na anténě.

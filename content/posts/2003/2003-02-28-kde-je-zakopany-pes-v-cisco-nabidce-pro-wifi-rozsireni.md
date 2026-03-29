@@ -4,7 +4,6 @@ slug: 'kde-je-zakopany-pes-v-cisco-nabidce-pro-wifi-rozsireni'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Cisco nabízí firmám své WiFi technologie, což vyvolává obavy.
 - Wired News varuje před snahou Cisco ovládnout trh WLAN.

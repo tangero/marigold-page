@@ -4,7 +4,6 @@ slug: 'wifidrobky-atheros-jde-do-ipo-bloguje-cz-pres-sms'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Atheros vstoupí na burzu IPO s cílem získat 100 milionů USD.
 - Atheros dosáhl příjmů 50 milionů USD za tři čtvrtletí.

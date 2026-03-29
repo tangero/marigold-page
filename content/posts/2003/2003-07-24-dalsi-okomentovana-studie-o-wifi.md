@@ -4,7 +4,6 @@ slug: 'dalsi-okomentovana-studie-o-wifi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - ISDN server publikoval článek o optimistické studii Pyramid Research o WiFi.
 - Budoucnost WiFi je podle studií buď velmi dobrá, nebo velmi špatná.

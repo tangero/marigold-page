@@ -6,7 +6,6 @@ categories:
 - Spam
 
   '
-published: true
 summary_points:
 - Autor kvůli pracovnímu vytížení a nemoci objevil nový český spam.
 - Spam na Chronomagu propagoval eshop s hodinkami Guess a Wenger.

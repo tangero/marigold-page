@@ -2,7 +2,6 @@
 slug: '5g-jobs-offloading-cili-mizeni-prace-kvuli-sitim-5g'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - Infrastruktura ovlivňuje pracovní příležitosti pozitivně i negativně.
 - Dálnice přináší prekariátní i kvalitní pracovní místa.

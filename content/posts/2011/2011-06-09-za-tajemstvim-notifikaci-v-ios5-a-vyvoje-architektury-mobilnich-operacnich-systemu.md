@@ -7,7 +7,6 @@ categories:
 - iPhone
 
   '
-published: true
 summary_points:
 - Apple řeší absentující dashboard notifikacemi v iOS5, které jsou trvale přítomné
   na lock screenu.

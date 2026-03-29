@@ -4,7 +4,6 @@ slug: 'eurotel-live-tedy-to-je-prasecinka'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Eurotel Live registrace probíhá v pohodě, ale přihlášení není na portálu vidět.
 - Výběr Java her je malý a objednání her je nejasné a komplikované.

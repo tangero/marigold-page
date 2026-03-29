@@ -4,7 +4,6 @@ slug: 'tiskovka-telecomu-online'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Telecom tisková konference živě na live.atlas.cz dnes v 11:30.
 - M. Zeman z Lupy kritizuje zpoplatnění WiFi od Telecomu.

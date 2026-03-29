@@ -4,7 +4,6 @@ slug: 'nokia-nabizi-push-to-talk-v-gsm-sitich-poc'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Nokia dodává první PoC produkty pro GSM sítě, komerční dostupnost počátkem roku
   2004.

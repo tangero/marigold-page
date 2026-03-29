@@ -4,7 +4,6 @@ slug: 'novinky-u-netgearu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - NetGear WiFi produkty jsou funkcemi nadupané, ale v ČR hůře dostupné.
 - FWAG114 je WiFi router pro firmy s podporou dvou VPN za 460 USD.

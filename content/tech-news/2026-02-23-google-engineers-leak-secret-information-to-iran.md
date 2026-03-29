@@ -16,7 +16,7 @@ source:
   id: null
   name: Israelnationalnews.com
 title: Inženýři Google obviněni z úniku tajných informací o procesorech do Íránu
-url: https://www.israelnationalnews.com/news/422832
+source_url: https://www.israelnationalnews.com/news/422832
 urlToImage: https://2.a7.org/files/pictures/000/1151178.jpg
 urlToImageBackup: https://2.a7.org/files/pictures/000/1151178.jpg
 ---

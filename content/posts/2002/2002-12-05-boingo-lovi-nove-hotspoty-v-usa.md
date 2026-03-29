@@ -4,7 +4,6 @@ slug: 'boingo-lovi-nove-hotspoty-v-usa'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Boingo rozšiřuje WiFi síť v USA provizním modelem pro majitele hotspotů.
 - Provizní model Boinga spočívá v účtování a vyplácení provizí majitelům hotspotů.

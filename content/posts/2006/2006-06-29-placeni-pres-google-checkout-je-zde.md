@@ -4,7 +4,6 @@ slug: 'placeni-pres-google-checkout-je-zde'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Google Checkout je nová elektronická peněženka, která zprostředkovává platby.
 - Obchodníci platí Googlu poplatek, zhruba 2%, za transakce přes Checkout.

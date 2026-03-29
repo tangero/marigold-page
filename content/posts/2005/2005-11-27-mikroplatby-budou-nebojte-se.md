@@ -4,7 +4,6 @@ slug: 'mikroplatby-budou-nebojte-se'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Pipay provize budí rozporuplné reakce kvůli vysokému podílu operátorů.
 - Operátoři preferují vysoké provize z menšího objemu plateb mobilních služeb.

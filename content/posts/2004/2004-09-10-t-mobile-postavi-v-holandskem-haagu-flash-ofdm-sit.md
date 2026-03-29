@@ -4,7 +4,6 @@ slug: 't-mobile-postavi-v-holandskem-haagu-flash-ofdm-sit'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - T-Mobile postaví Flash-OFDM síť v Haagu s dodavatelem Flarion.
 - Haag bude první lokalitou s internetem od T-Mobile rychlostí 1 Mb/s.

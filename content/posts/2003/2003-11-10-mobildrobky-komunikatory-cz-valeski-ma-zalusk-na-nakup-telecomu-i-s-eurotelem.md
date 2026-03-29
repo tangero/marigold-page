@@ -4,7 +4,6 @@ slug: 'mobildrobky-komunikatory-cz-valeski-ma-zalusk-na-nakup-telecomu-i-s-eurot
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Komunikatory.cz je nový český server se zprávami o chytrých telefonech.
 - Terence Valeski, šéf Eurotelu, usiluje o koupi Telecomu i s Eurotelem.

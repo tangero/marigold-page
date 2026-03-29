@@ -8,7 +8,6 @@ categories:
 - Copyright
 
   '
-published: true
 summary_points:
 - Článek pojednává o překvapivé podpoře textu o intelektuálních právech.
 - Pixy článek o autorských právech bez výhrad publikoval a podepsal.

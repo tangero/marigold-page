@@ -4,7 +4,6 @@ slug: 'slovensko-definitivne-uvolnilo-5ghz-pasmo-pro-wlan'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Slovenský Teleoff uvolnil 5GHz pásmo pro bezdrátové sítě s omezením výkonu.
 - Frekvence 5470–5725 MHz mají maximální EIRP 1W na 20MHz kanálu.

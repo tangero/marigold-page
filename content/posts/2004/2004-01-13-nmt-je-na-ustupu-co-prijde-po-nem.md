@@ -4,7 +4,6 @@ slug: 'nmt-je-na-ustupu-co-prijde-po-nem'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Analogové sítě první generace v Evropě ustupují nástupu GSM a 3G.
 - Německý regulátor hledá využití pro frekvenci 450 MHz po síti C Netz.

@@ -4,7 +4,6 @@ slug: 'nominace-na-gsm-association-awards-2004'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Ceny GSM Asociace 2004 nemají českého zástupce v užších nominacích.
 - Best Mobile Terminal nominovány Treo 600, Motorola A835, Sharp GX20 a Sony Ericsson

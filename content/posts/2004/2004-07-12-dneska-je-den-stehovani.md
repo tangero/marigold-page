@@ -4,7 +4,6 @@ slug: 'dneska-je-den-stehovani'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Dovolená využita pro stěhování, hlavní část nábytku a knih se stěhuje dnes.
 - Bydlení v Zeleném údolí začíná dnes po dokončení stěhování.

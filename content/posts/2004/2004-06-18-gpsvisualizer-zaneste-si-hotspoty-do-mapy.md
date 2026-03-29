@@ -4,7 +4,6 @@ slug: 'gpsvisualizer-zaneste-si-hotspoty-do-mapy'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - RS-232/USB kabel zakoupen pro propojení Garmin eMap s notebookem bez sériového portu.
 - NetStumbler ukládá polohu GPS s informacemi o WiFi hotspotu do mapy.

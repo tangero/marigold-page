@@ -4,7 +4,6 @@ slug: 'story-o-sousedskych-sitich-1'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - Lidé se často ptají, jak se nejlevněji připojit k internetu.
 - Autor doporučuje komunitní sítě, konkrétně CZFree.Net.

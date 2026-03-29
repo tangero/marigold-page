@@ -4,7 +4,6 @@ slug: 'opera-je-sice-hezka-ale-blokovani-reklam-mi-nejak-nesedlo-ci-spise-chybi-
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Opera je rychlá a stabilní, ale postrádá kvalitní blokování reklam.
 - AdBlock Plus ve Firefoxu blokuje reklamy efektivněji než Opera Ad Filter.

@@ -6,7 +6,6 @@ audiooff: false
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - "Qualcomm kupuje Flarion za 600 milion\u016F dolar\u016F, s mo\u017En\xFDm bonusem\
   \ 205 milion\u016F."

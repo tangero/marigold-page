@@ -8,7 +8,6 @@ categories:
 - Weblogy
 
   '
-published: true
 summary_points:
 - David Grudl zpochybňuje čísla Blog.cz kvůli podezření na robotické generování obsahu.
 - CME koupila Jyxo (včetně Blog.cz) pro TV Nova za 163-200 milionů Kč.

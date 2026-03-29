@@ -22,7 +22,7 @@ source:
   name: The Times of India
 title: Infosys, Wipro a další IT akcie v centru pozornosti po šoku od Anthropic; ADRy
   klesly až o 5 %
-url: https://economictimes.indiatimes.com/markets/stocks/news/infosys-wipro-other-it-stocks-in-focus-as-anthropic-delivers-new-shock-adrs-tumble-up-to-5/articleshow/128738406.cms
+source_url: https://economictimes.indiatimes.com/markets/stocks/news/infosys-wipro-other-it-stocks-in-focus-as-anthropic-delivers-new-shock-adrs-tumble-up-to-5/articleshow/128738406.cms
 urlToImage: https://img.etimg.com/thumb/msid-128738435,width-1200,height-630,imgsize-83602,overlay-etmarkets/articleshow.jpg
 urlToImageBackup: https://img.etimg.com/thumb/msid-128738435,width-1200,height-630,imgsize-83602,overlay-etmarkets/articleshow.jpg
 ---

@@ -4,7 +4,6 @@ slug: 'nokia-zvysila-zisk-i-kurs-akcii-motorola-v-zisku-a-tiw-se-dostava-z-probl
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Nokia akcie vzrostly nad 16 USD po dobrých kvartálních výsledcích.
 - Motorola oznámila zisk sedm centů na akcii po loňské ztrátě.

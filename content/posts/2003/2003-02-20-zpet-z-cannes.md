@@ -4,7 +4,6 @@ slug: 'zpet-z-cannes'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Cesta autem trvala třináct hodin a řidič neusnul.
 - Po příjezdu domů se oba ubytovali ve svých postelích.

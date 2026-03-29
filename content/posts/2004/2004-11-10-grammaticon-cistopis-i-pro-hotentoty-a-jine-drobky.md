@@ -4,7 +4,6 @@ slug: 'grammaticon-cistopis-i-pro-hotentoty-a-jine-drobky'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Grammaticon je doporučen jako výborný software pro kontrolu pravopisu ve Wordu.
 - Firefox má ostrou českou verzi, autor ji používá a přispěl na reklamu.

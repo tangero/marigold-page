@@ -4,7 +4,6 @@ slug: 'ministerstvo-informatiky-jmenovalo-zastupce-broadband-fora'
 author: Noname
 
   '
-published: true
 summary_points:
 - Ministerstvo Informatiky jmenovalo zástupce do Broadband Fóra (BBF).
 - Noname z IPV byl jmenován zástupcem do BBF Ministerstvem Informatiky.

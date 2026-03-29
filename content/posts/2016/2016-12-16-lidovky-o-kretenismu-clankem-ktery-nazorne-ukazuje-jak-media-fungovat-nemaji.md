@@ -4,7 +4,6 @@ slug: 'lidovky-o-kretenismu-clankem-ktery-nazorne-ukazuje-jak-media-fungovat-nem
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Leoš Kyša kritizuje rozhlasový pořad za propagaci neprůkazných alternativních léčebných
   metod.

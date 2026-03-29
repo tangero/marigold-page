@@ -4,7 +4,6 @@ slug: 'snatek-wifi-a-wimax-recenze-802-11g-routeru-od-smc'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Deans vidí potenciál propojení WiFi a WiMAX pro konkurenci ISP bez licencí.
 - SMC router 802.11g je recenzován na HardwareZone a stojí 180 USD.

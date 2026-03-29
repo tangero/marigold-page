@@ -4,7 +4,6 @@ slug: 'drobky-zatah-na-upc-chello-piraty-wifi-gateway-signull-upgrade-na-vysoke-
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - 'Slovensko: UPC zasáhlo proti nelegálním připojením k internetu Chello.'
 - Signull G2 Access Gateway nabízí zpoplatnění a řízení WiFi hotspotů.

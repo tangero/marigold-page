@@ -4,7 +4,6 @@ slug: 'story-o-sousedskych-sitich-2'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - Obec v Ústeckém kraji s osadami a 1500 obyvateli má slabou kupní sílu.
 - Autor plánuje v osadách vybudovat WiFi síť s páteřními směrovými spoji.

@@ -4,7 +4,6 @@ slug: 'asus-wl-500gx-novy-domaci-smerovac-s-usb-2-0'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Asus WL-500GX je inovovaný čtyřportový směrovač s podporou rychlosti až 125 Mb/s.
 - Technologie Broadcom Afterburner umožňuje rychlost 125 Mb/s i s jinými Broadcom

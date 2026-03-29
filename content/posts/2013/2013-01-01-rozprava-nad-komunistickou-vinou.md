@@ -4,7 +4,6 @@ slug: 'rozprava-nad-komunistickou-vinou'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Komunistická vina zůstává v české společnosti nedostatečně prodiskutovaná.
 - Havel nabídl odpuštění, ale společnost k němu zřejmě nedorostla.

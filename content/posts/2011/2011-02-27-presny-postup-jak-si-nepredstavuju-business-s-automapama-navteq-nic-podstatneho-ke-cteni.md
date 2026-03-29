@@ -8,7 +8,6 @@ categories:
 - Podnikání
 
   '
-published: true
 summary_points:
 - RT4 navigace v autě má zastaralé mapy, chybí nové silnice.
 - Aktualizace map pro RT4 stojí 279 euro a je na 11 CD.

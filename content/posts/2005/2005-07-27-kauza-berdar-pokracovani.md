@@ -4,7 +4,6 @@ slug: 'kauza-berdar-pokracovani'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - Berdárovi údajní útočníci nebyli pachateli přepadení šéfa Telecomu.
 - Policie vyšetřuje Berdárovu střelbu na škodovku jako možný přestupek/trestný čin.

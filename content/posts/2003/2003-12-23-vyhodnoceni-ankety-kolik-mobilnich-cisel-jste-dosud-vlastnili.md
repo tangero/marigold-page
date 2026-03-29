@@ -4,7 +4,6 @@ slug: 'vyhodnoceni-ankety-kolik-mobilnich-cisel-jste-dosud-vlastnili'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Třetina respondentů ankety stále používá své první mobilní číslo.
 - Skoro polovina hlasujících v anketě vystřídala minimálně tři mobilní čísla.

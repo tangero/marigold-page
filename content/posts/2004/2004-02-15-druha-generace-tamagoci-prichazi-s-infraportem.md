@@ -4,7 +4,6 @@ slug: 'druha-generace-tamagoci-prichazi-s-infraportem'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Tamagoči prodalo přes 40 milionů kusů od roku 1996 firmou Bandai.
 - Druhá generace Tamagoči má infraport pro vzájemné seznamování.

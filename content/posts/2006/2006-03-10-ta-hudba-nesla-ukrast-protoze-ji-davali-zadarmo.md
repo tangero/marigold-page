@@ -4,7 +4,6 @@ slug: 'ta-hudba-nesla-ukrast-protoze-ji-davali-zadarmo'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Ukolébavka od Znouzectnosti uspává Sofii, ale autor si pletl slova.
 - Autor zjistil název Ukolébavka a našel text na webu Znouzectnosti.

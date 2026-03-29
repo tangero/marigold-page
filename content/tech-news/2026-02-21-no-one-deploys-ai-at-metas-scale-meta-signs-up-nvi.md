@@ -26,7 +26,7 @@ source:
 title: '''Nikdo nenasazuje AI v měřítku Meta'': Meta uzavírá partnerství s Nvidia
   pro napájení svých dalších velkých AI projektů – co přesně plánují Mark Zuckerberg
   a Jensen Huang?'
-url: https://www.techradar.com/pro/no-one-deploys-ai-at-metas-scale-meta-signs-up-nvidia-to-power-its-next-big-ai-projects-so-what-exactly-do-mark-zuckerberg-and-jensen-huang-have-planned
+source_url: https://www.techradar.com/pro/no-one-deploys-ai-at-metas-scale-meta-signs-up-nvidia-to-power-its-next-big-ai-projects-so-what-exactly-do-mark-zuckerberg-and-jensen-huang-have-planned
 urlToImage: https://cdn.mos.cms.futurecdn.net/THrQgcJizbtksGzNr9f3qb-1920-80.jpg
 urlToImageBackup: https://cdn.mos.cms.futurecdn.net/THrQgcJizbtksGzNr9f3qb-1920-80.jpg
 ---

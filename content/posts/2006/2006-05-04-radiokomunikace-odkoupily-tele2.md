@@ -4,7 +4,6 @@ slug: 'radiokomunikace-odkoupily-tele2'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Článek Radiokomunikace odkoupily Tele2 vyšel na serveru Lupa.
 - Autor článku hodnotí literární kvalitu jako nevalnou.

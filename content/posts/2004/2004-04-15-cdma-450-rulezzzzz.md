@@ -4,7 +4,6 @@ slug: 'cdma-450-rulezzzzz'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - CDMA450 téma článků, Mr. B. z GSMWebu fotil a popsal antény.
 - MaLér zveřejnil článek s fotkami modemu CDMA, ale zřejmě ne od Eurotelu.

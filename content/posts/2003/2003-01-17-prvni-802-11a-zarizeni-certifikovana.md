@@ -4,7 +4,6 @@ slug: 'prvni-802-11a-zarizeni-certifikovana'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WiFi5 certifikaci získalo prvních sedm zařízení standardu 802.11a.
 - Certifikace 802.11g produktů měla začít v létě po schválení standardu.

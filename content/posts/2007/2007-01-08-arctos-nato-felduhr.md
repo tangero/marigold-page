@@ -4,7 +4,6 @@ slug: 'arctos-nato-felduhr'
 author: Kamil
 
   '
-published: true
 summary_points:
 - Arctos Uhrenfabrik založili Weber a Aeschbach v Pforzheimu roku 1923.
 - Původní název firmy Weber & Aeschbach byl později změněn na Arctos.

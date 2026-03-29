@@ -4,7 +4,6 @@ slug: 'velikonoce-v-kasperkach'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Velikonoce strávili v Kašperských Horách s cílem prozkoumat přírodu a hrady.
 - Výlet na Javorník zkomplikoval nečekaný sníh a chůze v jarních botách.

@@ -4,7 +4,6 @@ slug: 'je-tu-nekdo-kdo-rozumi-wordpressu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WordPress uživatel potřebuje zobrazit nejnovější články z celého serveru pod články.
 - Úprava WordPress dokumentace pro zobrazení nejnovějších článků se uživateli nedaří.

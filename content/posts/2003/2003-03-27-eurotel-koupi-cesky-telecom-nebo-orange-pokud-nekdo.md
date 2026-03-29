@@ -4,7 +4,6 @@ slug: 'eurotel-koupi-cesky-telecom-nebo-orange-pokud-nekdo'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Ředitel Českého Telecomu je neatraktivní pozice s malým vlivem před privatizací.
 - Český Telecom usiluje o podíl v Eurotelu, dříve neúspěšně, nyní s novou nabídkou.

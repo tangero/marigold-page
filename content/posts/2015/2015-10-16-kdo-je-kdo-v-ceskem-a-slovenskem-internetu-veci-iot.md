@@ -4,7 +4,6 @@ slug: 'kdo-je-kdo-v-ceskem-a-slovenskem-internetu-veci-iot'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Internet věcí vyžaduje propojení a inteligenci, ne jen připojení zařízení.
 - Firmy v IoT musí zpracovávat data, ne jen je zobrazovat nebo přenášet.

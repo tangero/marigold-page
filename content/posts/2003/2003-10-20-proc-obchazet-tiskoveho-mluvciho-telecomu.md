@@ -4,7 +4,6 @@ slug: 'proc-obchazet-tiskoveho-mluvciho-telecomu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - MaM kritizuje Český Telecom za zveřejnění informací všem novinářům, čímž ztratili
   exkluzivitu.

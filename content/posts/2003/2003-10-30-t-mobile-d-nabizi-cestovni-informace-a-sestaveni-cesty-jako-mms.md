@@ -4,7 +4,6 @@ slug: 't-mobile-d-nabizi-cestovni-informace-a-sestaveni-cesty-jako-mms'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - T-Mobile nabízí cestovní a dopravní informace po telefonu.
 - Informace lze získat také jako MMS zprávu s mapou trasy.

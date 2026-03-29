@@ -4,7 +4,6 @@ slug: 'contactel-prodan-gts-ce'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - Contactel byl prodán skupině GTS CE dle webu TDC.
 - GTS CE koupí Contactel, což vyvolává otázku o velikosti GTS.

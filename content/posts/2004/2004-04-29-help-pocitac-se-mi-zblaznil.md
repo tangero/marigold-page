@@ -4,7 +4,6 @@ slug: 'help-pocitac-se-mi-zblaznil'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Trojan pronikl do systému přes e-mail, i přes antivirovou ochranu.
 - Virus modifikoval registry, takže se programy nespouštěly správně.

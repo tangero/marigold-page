@@ -4,7 +4,6 @@ slug: 'mobilni-operatori-prozrali-penize-na-rychly-mobilni-internet'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Operátoři projedli peníze na upgrade sítí na LTE v minulosti.
 - LTE je přirozený upgrade, operátoři na něj migrovat zkrátka musí.

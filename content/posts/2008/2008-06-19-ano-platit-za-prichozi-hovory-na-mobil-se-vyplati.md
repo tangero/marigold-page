@@ -6,7 +6,6 @@ categories:
 - Mobilní sítě
 
   '
-published: true
 summary_points:
 - Redingové návrh platit příchozí hovory by snížil cenu volání o 45%.
 - Propojovací poplatky jsou administrativně stanovené a neúměrně vysoké.

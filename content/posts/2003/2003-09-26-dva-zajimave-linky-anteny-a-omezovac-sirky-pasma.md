@@ -4,7 +4,6 @@ slug: 'dva-zajimave-linky-anteny-a-omezovac-sirky-pasma'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Antény pro 2,4 GHz (WiFi) a 900 MHz (GSM) nabízí web FreeAntenas.
 - BandWidth Controller je software pro omezení šířky pásma ve Windows.

@@ -4,7 +4,6 @@ slug: 'zajimave-cteni-new-lithium-oxygen-battery-greatly-improves-energy-efficie
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Lithium-air batteries are promising for electric cars and electronics due to high
   energy output.

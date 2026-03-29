@@ -4,7 +4,6 @@ slug: 'slogany-oskar-je-to-ve-vas'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Oskar registroval nový slogan "Oskar. Je to ve vás." pro svou mobilní síť.
 - Paegas používal slogan "Paegas. Snadné spojení pro každého" jako odpověď Eurotelu.

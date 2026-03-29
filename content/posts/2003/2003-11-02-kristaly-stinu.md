@@ -4,7 +4,6 @@ slug: 'kristaly-stinu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Křišťály stínů je nedokončený epos z roku 1990 odehrávající se ve světě bohů.
 - Hráč, trpaslík, se stává bohem her a sázek po dohodě s Argaronem.

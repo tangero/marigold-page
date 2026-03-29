@@ -4,7 +4,6 @@ slug: 'jak-amazon-echo-zpopelnuje-sance-apple-na-domaci-revoluci'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Hlasové vyhledávání mění způsob, jakým hledáme informace na internetu
 - Amazon a Apple se zaměřují na hlasové asistenty jako Siri a Alexa

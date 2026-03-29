@@ -4,7 +4,6 @@ slug: 'platby-za-obsah-vehlas-versus-bohatstvi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Mikroplatby za obsah na internetu nemají úspěch.
 - Szabo popisuje mentální transakční náklady jako problém mikroplateb.

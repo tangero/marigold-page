@@ -4,7 +4,6 @@ slug: 'je-libo-etc-heslo'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - Článek na Mobil serveru popisuje zabezpečení WiFi sítí.
 - Překlad článku obsahuje nepřesnosti ohledně Unix systémů.

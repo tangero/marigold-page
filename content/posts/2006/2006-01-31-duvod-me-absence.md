@@ -4,7 +4,6 @@ slug: 'duvod-me-absence'
 author: Noname
 
   '
-published: true
 summary_points:
 - Noname se omlouvá za dvoutýdenní nepřítomnost kvůli narození dcery Sofie.
 - BBF projekt finišoval, výstupy postoupily ministerstvu k finálnímu schválení.

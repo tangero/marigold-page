@@ -4,7 +4,6 @@ slug: 'proc-domaci-centrala-kombinovana-s-tabletem-dava-smysl'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Quel kombinuje tablet s domácí centrálou pro automatizaci a ovládání.
 - Domácí centrála řeší ovládání spotřebičů i bez internetového připojení.

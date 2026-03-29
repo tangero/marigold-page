@@ -4,7 +4,6 @@ slug: 'sny-a-svatba-plus-svatebni-oznameni-na-mobil'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Svatba se blíží, autor trpí nespavostí a sny o problémech s parkováním.
 - Parkovací místa pro svatebčany u radnice jsou vyhrazená, což autor osobně ověřil.

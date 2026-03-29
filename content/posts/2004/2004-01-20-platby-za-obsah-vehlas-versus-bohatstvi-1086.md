@@ -4,7 +4,6 @@ slug: 'platby-za-obsah-vehlas-versus-bohatstvi-1086'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Mikroplatby selhávají kvůli mentálním transakčním nákladům spojeným s rozhodováním
   o koupi.

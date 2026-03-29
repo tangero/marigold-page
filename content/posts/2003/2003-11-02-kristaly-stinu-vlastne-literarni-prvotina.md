@@ -4,7 +4,6 @@ slug: 'kristaly-stinu-vlastne-literarni-prvotina'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor našel na ZIPce svou první, nedokončenou knihu Křišťály stínů z roku 1990.
 - Křišťály stínů měly být eposem podobným Zaklínači, včetně autorského manuálu a slovníku.

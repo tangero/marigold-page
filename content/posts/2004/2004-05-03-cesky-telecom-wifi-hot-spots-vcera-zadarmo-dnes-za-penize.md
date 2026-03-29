@@ -4,7 +4,6 @@ slug: 'cesky-telecom-wifi-hot-spots-vcera-zadarmo-dnes-za-penize'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Český Telecom zpoplatnil WiFi hotspoty od května, uživatelé byli informováni krátce
   před zpoplatněním.

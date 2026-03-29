@@ -4,7 +4,6 @@ slug: 'pr-t-mobile-jsou-pekne-trubky'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Britský T-Mobile zakázal VoIP a IM, hrozil ukončením smlouvy při používání.
 - T-Mobile zdůvodnil zákaz nedostatečnou kvalitou VoIP a IM služeb.

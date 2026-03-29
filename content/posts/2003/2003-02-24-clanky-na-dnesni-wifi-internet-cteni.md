@@ -4,7 +4,6 @@ slug: 'clanky-na-dnesni-wifi-internet-cteni'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Článek o 3G systémech na Mobil.cz byl odložen pro doplnění.
 - Video on demand článek autora vyšel na serveru Lupa.cz.

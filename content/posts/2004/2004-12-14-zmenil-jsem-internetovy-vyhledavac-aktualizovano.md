@@ -4,7 +4,6 @@ slug: 'zmenil-jsem-internetovy-vyhledavac-aktualizovano'
 author: Noname
 
   '
-published: true
 summary_points:
 - Google suggest automaticky navrhuje hledané výrazy a zobrazuje počet výsledků.
 - Požadavek na Google suggest odesílá XML dotaz po každém napsaném písmenu.

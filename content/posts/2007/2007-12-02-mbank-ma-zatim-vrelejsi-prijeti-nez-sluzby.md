@@ -4,7 +4,6 @@ slug: 'mbank-ma-zatim-vrelejsi-prijeti-nez-sluzby'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - mBank získala popularitu díky nabídce bankovních služeb zdarma.
 - Levnější banka je management, zadarmo je vize internetové komunity.

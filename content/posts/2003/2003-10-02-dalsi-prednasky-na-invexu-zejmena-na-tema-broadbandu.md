@@ -4,7 +4,6 @@ slug: 'dalsi-prednasky-na-invexu-zejmena-na-tema-broadbandu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - ATTel pořádá 8. října 2003 v G2 invexové přednášky.
 - Dundy Yeh a Jozef Derner přednáší o Broadband Access od TAINET v 11:00.

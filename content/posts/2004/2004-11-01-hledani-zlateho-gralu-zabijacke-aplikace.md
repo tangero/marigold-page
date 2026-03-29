@@ -4,7 +4,6 @@ slug: 'hledani-zlateho-gralu-zabijacke-aplikace'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Killer app pro 3G sítě neexistuje, podobně jako neexistuje Ježíšek.
 - Připojení k internetu za rozumnou cenu je žádaná aplikace, ale operátoři chtějí

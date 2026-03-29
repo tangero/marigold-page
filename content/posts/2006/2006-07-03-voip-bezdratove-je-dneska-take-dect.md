@@ -4,7 +4,6 @@ slug: 'voip-bezdratove-je-dneska-take-dect'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor zvažuje bezdrátový VoIP telefon pro domácí pohodlí.
 - WiFi VoIP telefony mají problémy se spolehlivostí při zatížení sítě.

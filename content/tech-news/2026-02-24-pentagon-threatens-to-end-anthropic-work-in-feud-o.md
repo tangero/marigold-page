@@ -18,7 +18,7 @@ source:
   name: Livemint
 title: Pentagon hrozí ukončením spolupráce s Anthropic kvůli sporu o podmínky použití
   AI
-url: https://www.livemint.com/companies/pentagon-threatens-to-end-anthropic-work-in-feud-over-ai-terms-11771963743003.html
+source_url: https://www.livemint.com/companies/pentagon-threatens-to-end-anthropic-work-in-feud-over-ai-terms-11771963743003.html
 urlToImage: https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_3_1733465099406_1733465108677.png
 urlToImageBackup: https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_3_1733465099406_1733465108677.png
 ---

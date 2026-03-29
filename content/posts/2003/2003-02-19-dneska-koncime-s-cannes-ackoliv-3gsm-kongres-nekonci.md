@@ -4,7 +4,6 @@ slug: 'dneska-koncime-s-cannes-ackoliv-3gsm-kongres-nekonci'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Kongres 3GSM skončil, autor odjíždí spokojený s posunem k výstavám.
 - Autor veze domů prospekty a CDčka, utratil stovky euro.

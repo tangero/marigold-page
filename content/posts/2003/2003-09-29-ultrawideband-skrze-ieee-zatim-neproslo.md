@@ -4,7 +4,6 @@ slug: 'ultrawideband-skrze-ieee-zatim-neproslo'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - IEEE 802.15.3a neschválila standardizaci Ultrawideband technologie kvůli nedostatečnému
   počtu hlasů.

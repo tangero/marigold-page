@@ -4,7 +4,6 @@ slug: 'digitalizace-domacnosti-neni-jednoducha-pevnodiskove-rekordery'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor nahradil video pevnodiskovým rekordérem Panasonic DMR-EH60EG-S.
 - Rekordér umožňuje nahrávání, snadné vyhledávání a funkci Time Slip.

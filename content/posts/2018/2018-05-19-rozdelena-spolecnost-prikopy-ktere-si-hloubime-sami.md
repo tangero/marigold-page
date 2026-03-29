@@ -3,7 +3,6 @@ slug: 'rozdelena-spolecnost-prikopy-ktere-si-hloubime-sami'
 
 author: Patrick Zandl
 featured: true
-published: true
 summary_points:
 - Ruské dezinformace šíří naši vlastní lidé, ne cizí agenti.
 - Boj proti dezinformacím je obtížný kvůli hlubokému přesvědčení jejich nositelů.

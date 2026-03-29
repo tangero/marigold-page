@@ -9,7 +9,6 @@ categories:
   '
 
   '
-published: true
 summary_points:
 - Digitální televize a situace na trhu mohou podpořit nové formy distribuce videa.
 - MPEG-4 zavádění může způsobit zastarání stávajících DVB-T tunerů a DVD rekordérů.

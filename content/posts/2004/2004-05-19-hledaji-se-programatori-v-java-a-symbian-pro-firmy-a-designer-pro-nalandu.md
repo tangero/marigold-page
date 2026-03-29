@@ -4,7 +4,6 @@ slug: 'hledaji-se-programatori-v-java-a-symbian-pro-firmy-a-designer-pro-nalandu
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Googgi hledá programátory Java pro mobily a grafiky pro mobilní obsah.
 - Programátor pro Symbian je hledán, kontakt získáte emailem na job zavinac marigold.cz.

@@ -4,7 +4,6 @@ slug: 'kniha-historie-ceskeho-internetu-se-presunula-do-ucednickych-let'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Historie českého internetu kniha existuje pouze v autorově představě.
 - Dokončena kapitola Proč akademické sítě o podpoře akademických sítí.

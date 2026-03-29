@@ -4,7 +4,6 @@ slug: 'wds-pro-pohodlnou-stavbu-vetsi-wifi-site'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WDS propojuje bezdrátově přístupové body, eliminujíc ethernetové kabely.
 - WDS snižuje rychlost WiFi sítě zhruba na polovinu.

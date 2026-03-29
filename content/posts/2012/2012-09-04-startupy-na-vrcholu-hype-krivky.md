@@ -6,7 +6,6 @@ categories:
 - Startupy
 
   '
-published: true
 summary_points:
 - Startup se stal produktem, zhodnocení startupu tak vynechává investory.
 - Životaschopné startupy je obtížné najít, naivní představy jsou houževnatě hájeny.

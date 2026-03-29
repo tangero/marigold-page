@@ -20,7 +20,7 @@ source:
   id: null
   name: Decrypt
 title: Lidská existence je stejně plýtvavá jako datová centra AI, naznačuje Sam Altman
-url: https://decrypt.co/358849/human-existence-wasteful-ai-data-centers-sam-altman
+source_url: https://decrypt.co/358849/human-existence-wasteful-ai-data-centers-sam-altman
 urlToImage: https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/openai-sam-altman-decrypt-style-gID_7.png
 urlToImageBackup: https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/openai-sam-altman-decrypt-style-gID_7.png
 ---

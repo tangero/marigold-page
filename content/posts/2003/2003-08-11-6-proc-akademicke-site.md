@@ -4,7 +4,6 @@ slug: '6-proc-akademicke-site'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Akademické sítě testují nové technologie, například IP6, které komerční sítě nemohou.
 - Akademické prostředí vytváří inovativní projekty, které komerční sféra zpočátku

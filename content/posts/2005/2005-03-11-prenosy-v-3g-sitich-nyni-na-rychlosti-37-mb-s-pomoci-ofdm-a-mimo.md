@@ -4,7 +4,6 @@ slug: 'prenosy-v-3g-sitich-nyni-na-rychlosti-37-mb-s-pomoci-ofdm-a-mimo'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Nortel dosáhl 37 Mb/s v 3G spektru s OFDM a MIMO.
 - Nortel předváděl podobnou technologii s 20 Mb/s už v roce 2003.

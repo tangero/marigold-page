@@ -4,7 +4,6 @@ slug: 'tak-si-ty-hodinky-navrhnete-sami-kdyz-jste-tak-chytri'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Seznam začal prodejem reklamy díky iniciativě Marka Zekiče v roce 1996.
 - Prim Chronomag vznikly návrhy nadšenců na Fóru Chronomagu v roce 2005.

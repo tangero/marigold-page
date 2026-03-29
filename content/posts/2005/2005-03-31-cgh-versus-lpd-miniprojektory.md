@@ -4,7 +4,6 @@ slug: 'cgh-versus-lpd-miniprojektory'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Článek na Mobil.cz pojednává o miniprojektorech pro mobilní telefony.
 - Miniprojektory promítají obraz z mobilu na zeď nebo stůl.

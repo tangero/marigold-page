@@ -6,7 +6,6 @@ categories:
 - Média
 
   '
-published: true
 summary_points:
 - Klasická média ztrácejí čtenáře i příjmy, balancují mezi předplatným a inzercí.
 - Internet prohloubil krizi médií, nabídl nulovou cenu, rychlost a variabilitu.

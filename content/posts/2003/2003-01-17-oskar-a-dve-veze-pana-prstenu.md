@@ -4,7 +4,6 @@ slug: 'oskar-a-dve-veze-pana-prstenu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Marigold zhlédl film Pán prstenů - Dvě věže na firemním promítání Oskara.
 - Oskar uspořádal tematickou akci v Joshua baru s elfkou Jarošiel a soutěžemi.

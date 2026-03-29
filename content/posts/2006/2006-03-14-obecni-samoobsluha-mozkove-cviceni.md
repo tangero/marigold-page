@@ -4,7 +4,6 @@ slug: 'obecni-samoobsluha-mozkove-cviceni'
 author: Noname
 
   '
-published: true
 summary_points:
 - Marigold, obec se 700 obyvateli, postrádá prodejnu potravin po krachu původní.
 - Starší obyvatelé Marigoldu mají potíže s nákupy kvůli vzdálenosti a dopravě.

@@ -4,7 +4,6 @@ slug: '3g-novinky-telecom-publikoval-mapu-adsl-a-jine-adsl-legracky'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - IndiaMobile spustil 3G síť v 92 městech v Indii.
 - VIPnet v Chorvatsku spustil 3G síť pouze v testovacím provozu.

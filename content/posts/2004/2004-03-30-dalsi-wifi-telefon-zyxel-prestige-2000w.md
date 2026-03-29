@@ -4,7 +4,6 @@ slug: 'dalsi-wifi-telefon-zyxel-prestige-2000w'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Zyxel vyrábí WiFi telefon Prestige 2000W, což je známá firma.
 - Prestige 2000W podporuje 802.11b, SIP v2, G.711, G.729 a QoS (DiffServ, ToS).

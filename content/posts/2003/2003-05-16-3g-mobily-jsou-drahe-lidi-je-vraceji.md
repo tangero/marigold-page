@@ -4,7 +4,6 @@ slug: '3g-mobily-jsou-drahe-lidi-je-vraceji'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - G mobily jsou drahé, což potvrzuje snižování cen operátorem 3.
 - Operátor 3 nabízí dvoutýdenní záruku vrácení peněz bez udání důvodu.

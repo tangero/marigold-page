@@ -4,7 +4,6 @@ slug: 'mobilni-obsah-je-uz-druha-revoluce-v-rade-ktera-huntuje-ceska-media'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Média čelí digitální konkurenci, podobně jako hodinářství quartzové revoluci.
 - Tradiční mediální domy vyčerpala krize a akvizice internetových médií.

@@ -4,7 +4,6 @@ slug: 'proc-rict-ne-babisovskemu-ano-a-pripravit-se-na-hubene-ctvrtstoleti'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Babiš v testu autora propadl, nepředvedl nic nového, co by fungovalo.
 - Politická scéna je nemocná, protože lidé tolerují kšefty a zlodějiny.

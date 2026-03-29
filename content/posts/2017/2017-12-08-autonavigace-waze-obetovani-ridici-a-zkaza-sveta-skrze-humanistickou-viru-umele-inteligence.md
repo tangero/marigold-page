@@ -2,7 +2,6 @@
 slug: 'autonavigace-waze-obetovani-ridici-a-zkaza-sveta-skrze-humanistickou-viru-umele-inteligence'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - Waze využívá umělou inteligenci k optimalizaci dopravy a obětuje některé řidiče
   pro průzkum situace.

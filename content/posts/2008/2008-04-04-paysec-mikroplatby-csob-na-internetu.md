@@ -7,7 +7,6 @@ categories:
 - Banky
 
   '
-published: true
 summary_points:
 - Oříšek publikoval informace o novém českém platebním systému PaySec od ČSOB.
 - PaySec bude určen pro klienty všech bank, nejen ČSOB.

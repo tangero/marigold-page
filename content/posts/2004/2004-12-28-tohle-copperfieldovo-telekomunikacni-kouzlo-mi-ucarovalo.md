@@ -4,7 +4,6 @@ slug: 'tohle-copperfieldovo-telekomunikacni-kouzlo-mi-ucarovalo'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Copperfieldovo vystoupení v T-Mobile Aréně bylo drahé, ale zážitek stál za to.
 - Kouzlo s přesunem chlapce na Jamajku bylo nejvíce učarující.

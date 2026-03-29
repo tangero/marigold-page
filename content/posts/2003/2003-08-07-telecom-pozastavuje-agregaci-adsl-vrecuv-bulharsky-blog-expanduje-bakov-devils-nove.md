@@ -4,7 +4,6 @@ slug: 'telecom-pozastavuje-agregaci-adsl-vrecuv-bulharsky-blog-expanduje-bakov-d
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Český Telecom pozastavuje agregaci na ADSL do 15. října kvůli přechodu na nové linky.
 - Nokia 6600 má výrazně lepší displej a kameru než předchozí modely Series 60.

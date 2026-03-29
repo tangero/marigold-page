@@ -4,7 +4,6 @@ slug: 'rozkol-v-czfree-netu-predmetem-komentaru'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Rozkol CzFree a FreeNet.cz zaznamenaly Technet, Živě a Lupa bez hlubšího komentáře.
 - Administrace vBulletin na CzFree není tak jednoduchá, aby se dalo omylem mazat.

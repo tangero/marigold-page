@@ -4,7 +4,6 @@ slug: 'cesky-telecom-spustil-wifi-v-kfc-prodlouzil-bezplatny-provoz'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WiFi spuštěno v pěti pražských KFC provozovnách Českým Telecomem.
 - Provoz WiFi zdarma prodloužen do konce září, poté možná platba přes telefonní účet.

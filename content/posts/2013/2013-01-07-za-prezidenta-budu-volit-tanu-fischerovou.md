@@ -8,7 +8,6 @@ categories:
 - Volby
 
   '
-published: true
 summary_points:
 - Prezidentský post v ČR má spíše korekční a representativní roli.
 - Autor škrtal Zemana, Fischera a Schwarzenberga kvůli morálním pochybnostem.

@@ -4,7 +4,6 @@ slug: 'softphone-se-vybarvuje'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - SoftPhone nabízí IP telefony od 3650 Kč, včetně softwaru X-lite.
 - SoftPhone dotuje vyřazení IP telefonu NP210, používaného firmou Fayn.

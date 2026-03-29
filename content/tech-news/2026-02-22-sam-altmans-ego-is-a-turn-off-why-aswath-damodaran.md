@@ -24,7 +24,7 @@ source:
   name: The Times of India
 title: 'Ego Sama Altmana je odrazující: Proč by Aswath Damodaran investoval do Anthropic
   spíše než do OpenAI'
-url: https://economictimes.indiatimes.com/markets/us-stocks/news/sam-altmans-ego-is-a-turn-off-why-aswath-damodaran-would-invest-in-anthropic-over-openai/articleshow/128669249.cms
+source_url: https://economictimes.indiatimes.com/markets/us-stocks/news/sam-altmans-ego-is-a-turn-off-why-aswath-damodaran-would-invest-in-anthropic-over-openai/articleshow/128669249.cms
 urlToImage: https://img.etimg.com/thumb/msid-128669204,width-1200,height-630,imgsize-37054,overlay-etmarkets/articleshow.jpg
 urlToImageBackup: https://img.etimg.com/thumb/msid-128669204,width-1200,height-630,imgsize-37054,overlay-etmarkets/articleshow.jpg
 ---

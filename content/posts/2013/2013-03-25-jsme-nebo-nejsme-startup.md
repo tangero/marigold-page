@@ -6,7 +6,6 @@ categories:
 - Energomonitor
 
   '
-published: true
 summary_points:
 - Energomonitor má znaky startupu, ale soustředí se na produkt, prodej a logistiku.
 - Startup nechce nahánět investory ani uchvacovat lidi, kteří nejsou zákazníci.

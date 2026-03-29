@@ -4,7 +4,6 @@ slug: 'linksys-wet54g-schvalen-v-eu-na-trhu-od-rijna-a-take-z-com-nove'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Linksys WET54G, klientský adaptér, bude od října dostupný na českém trhu.
 - Z-COM zařízení v normě 802.11g se začnou prodávat v ČR od 1. října.

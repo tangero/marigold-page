@@ -4,7 +4,6 @@ slug: 'trest-korejsti-operatori-nesmi-po-prechodnou-dobu-prijimat-nove-zakazniky
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Korejští operátoři nabízeli dotace za přechod ke konkurenci.
 - Ministerstvo zakázalo aktivaci nových klientů operátorům SK Telecom, KTF, LG Telecom

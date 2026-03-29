@@ -4,7 +4,6 @@ slug: 'z-com-zx-5800-outdoor-bridge'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Z-COM ZX-5800 je venkovní most pracující v pásmu 5GHz dle standardu 802.11a.
 - Cena Z-COM ZX-5800 je kolem 20 000 Kč za kus bez DPH u i4shop.

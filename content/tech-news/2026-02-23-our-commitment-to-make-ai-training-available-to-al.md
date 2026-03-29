@@ -18,7 +18,7 @@ source:
   id: null
   name: Blog.google
 title: Závazek Google zpřístupnit školení na AI všem 6 milionům amerických pedagogů
-url: https://blog.google/products-and-platforms/products/education/teacher-ai-literacy-training/
+source_url: https://blog.google/products-and-platforms/products/education/teacher-ai-literacy-training/
 urlToImage: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/educators_learn_AI_literacy_Social.width-1300.png
 urlToImageBackup: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/educators_learn_AI_literacy_Social.width-1300.png
 ---

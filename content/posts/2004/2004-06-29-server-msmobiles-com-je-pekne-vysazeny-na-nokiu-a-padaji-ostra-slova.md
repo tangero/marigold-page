@@ -4,7 +4,6 @@ slug: 'server-msmobiles-com-je-pekne-vysazeny-na-nokiu-a-padaji-ostra-slova'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - MsMobiles.com je server zaměřený na Microsoftí smartphony, kritický k Nokii.
 - Andrew Orlowski z The Register byl označen za lháře kvůli názorům na Symbian.

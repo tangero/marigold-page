@@ -4,7 +4,6 @@ slug: 'vsechny-cesty-k-internetu-2'
 author: Noname
 
   '
-published: true
 summary_points:
 - CDMA pokrytí od Prahy na jih je omezeno kvůli armádě ČR.
 - Eurotel CDMA omezuje rychlost po stažení většího objemu dat.

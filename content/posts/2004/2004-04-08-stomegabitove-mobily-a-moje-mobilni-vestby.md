@@ -4,7 +4,6 @@ slug: 'stomegabitove-mobily-a-moje-mobilni-vestby'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - DoCoMo plánuje 4G sítě do konce desetiletí s rychlostí 100 megabitů.
 - Centralizace telekomunikací je neudržitelná, inovace přichází od decentralizovaných

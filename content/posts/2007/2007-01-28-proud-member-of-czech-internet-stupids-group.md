@@ -4,7 +4,6 @@ slug: 'proud-member-of-czech-internet-stupids-group'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor se pyšní zařazením do Dvorany slávy hlupáků českého internetu.
 - Dědova moudrost říká, že důležití jsou lidé ve skupině, ne její název.

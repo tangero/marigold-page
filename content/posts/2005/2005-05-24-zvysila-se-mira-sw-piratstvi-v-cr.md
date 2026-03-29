@@ -4,7 +4,6 @@ slug: 'zvysila-se-mira-sw-piratstvi-v-cr'
 author: Noname
 
   '
-published: true
 summary_points:
 - ČT1 odvysílala rozhovor o výzkumu BSA, který ukázal nárůst SW pirátství v ČR.
 - Podle výzkumu BSA stoupl podíl pirátského SW na 41 % a hodnota na 130 mld Kč.

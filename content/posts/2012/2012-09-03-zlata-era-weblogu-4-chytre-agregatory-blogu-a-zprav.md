@@ -7,7 +7,6 @@ categories:
 - Weblogy
 
   '
-published: true
 summary_points:
 - Blogy v roce 2004 hledaly pozici vůči mainstreamovým médiím.
 - Google News od roku 2002 agreguje renomované zpravodajské zdroje.

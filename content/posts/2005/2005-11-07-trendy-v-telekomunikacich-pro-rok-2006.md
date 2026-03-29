@@ -4,7 +4,6 @@ slug: 'trendy-v-telekomunikacich-pro-rok-2006'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Mobilring zveřejnil přehled pěti trendů telekomunikačního sektoru pro rok 2006.
 - Autor má v práci nadbytek úkolů kvůli souběžnému dokončování dvou projektů.

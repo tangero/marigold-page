@@ -4,7 +4,6 @@ slug: 'testujeme-pro-vas-broadband-routery-s-wifi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Broadband routery jsou populární pro budování komunitních sítí.
 - DrayTek Vigor2200We a Linksys BEFW11S4 budou recenzovány.

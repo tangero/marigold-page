@@ -6,7 +6,6 @@ categories:
 - Vzdělávání
 
   '
-published: true
 summary_points:
 - Autor reaguje na ohlasy k úvahám o programátorech a vesmírném křižníku.
 - Autor vyjadřuje zklamání nad současným stavem vzdělávání v IT.

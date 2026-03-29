@@ -7,7 +7,6 @@ categories:
 - Média
 
   '
-published: true
 summary_points:
 - Babiš usiluje o koupi Centrum Holdings, zejména kvůli zpravodajskému serveru Aktuálně.
 - Týdeník 5+2, vydávaný Babišem, obsahuje reklamu na jeho firmy a politické uskupení

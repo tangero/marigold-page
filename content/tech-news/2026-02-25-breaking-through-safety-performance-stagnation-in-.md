@@ -17,7 +17,7 @@ source:
   id: null
   name: Nature.com
 title: Průlom v stagnaci bezpečnostního výkonu autonomních vozidel díky hustému učení
-url: https://www.nature.com/articles/s41467-026-69761-x
+source_url: https://www.nature.com/articles/s41467-026-69761-x
 ---
 
 ## Souhrn

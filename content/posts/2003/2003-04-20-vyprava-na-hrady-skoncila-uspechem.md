@@ -4,7 +4,6 @@ slug: 'vyprava-na-hrady-skoncila-uspechem'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor navštívil hrad Ronov a zhodnotil stav vegetace po svém zásahu.
 - Doporučuje dvoudenní výlet vlakem z Prahy do Blíževedel s návštěvou Ronova a Hřídelíku.

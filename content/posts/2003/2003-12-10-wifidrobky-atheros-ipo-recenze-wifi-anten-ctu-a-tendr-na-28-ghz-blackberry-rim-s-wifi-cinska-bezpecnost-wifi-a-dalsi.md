@@ -4,7 +4,6 @@ slug: 'wifidrobky-atheros-ipo-recenze-wifi-anten-ctu-a-tendr-na-28-ghz-blackberr
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Atheros IPO je podle Om Malika zajímavá investice, autor zkusí akcie ukořistit.
 - ČTÚ vypisuje licenční tendr na pásmo 28 GHz, ale levné připojení nebude.

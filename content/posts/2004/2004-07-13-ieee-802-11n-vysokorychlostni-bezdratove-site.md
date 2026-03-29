@@ -4,7 +4,6 @@ slug: 'ieee-802-11n-vysokorychlostni-bezdratove-site'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - n standard má rozšířit WiFi sítě o rychlosti nad 100 Mb/s.
 - Agere Systems navrhuje 500 Mb/s s MIMO anténami a 40 MHz kanálem.

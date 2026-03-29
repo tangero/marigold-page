@@ -4,7 +4,6 @@ slug: 'test-d-link-pcmcia-s-802-11g-navod-na-wifi-sektorovku'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - D-Link AirPlus Xtreme G recenze PCMCIA karty je dostupná na 802.11 Planet.
 - WiFiOnline nabízí český návod na stavbu 10 dBi sektorové antény.

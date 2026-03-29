@@ -4,7 +4,6 @@ slug: 'mohu-take-chvili-hystercit-na-tema-email-seznamu-versus-centra'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Seznam email klade důraz na ergonomii a funkčnost pro uživatele.
 - Centrum email se zaměřuje na zdobnost a rozmařilost aplikace.

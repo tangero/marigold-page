@@ -4,7 +4,6 @@ slug: 'antena-z-diskety-o-zisku-9-dbi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Disketa 3,5 palce slouží jako základ pro DIY WiFi anténu se ziskem 9 dBi.
 - Výroba antény vyžaduje odstranění magnetického kotouče a použití kancelářských svorek.

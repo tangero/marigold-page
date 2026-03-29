@@ -4,7 +4,6 @@ slug: 'mesh-hopper-mesh-architektura-pro-windows'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - BPO Solutions představila Mesh hopper, mesh architekturu pro Windows na WLAN Eventu.
 - Mesh hopper podporuje 802.11 deriváty a umožňuje Windows počítačům tvořit P2P sítě.

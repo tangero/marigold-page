@@ -4,7 +4,6 @@ slug: '802-11g-dnes-smc-nabizi-ethernet-wifi-adapter-3g-bude-s-wifi-koexistovat'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - g standard s rychlostí 54 Mb/s v pásmu 2,4 GHz má být schválen IEEE.
 - SMC představilo bezdrátový ethernet adaptér SMC2671W pro připojení zařízení do WiFi.

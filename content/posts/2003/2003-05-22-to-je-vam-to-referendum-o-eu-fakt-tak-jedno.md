@@ -4,7 +4,6 @@ slug: 'to-je-vam-to-referendum-o-eu-fakt-tak-jedno'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autorovi vadí nezájem Čechů o referendum o EU.
 - Autor podporuje vstup do EU, protože se ho osobně nedotknou omezení.

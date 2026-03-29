@@ -7,7 +7,6 @@ categories:
 - Apple
 
   '
-published: true
 summary_points:
 - SmartCover od Apple magneticky chrání displej iPadu, čistí jej a umožňuje polohování.
 - Čínská verze SmartCoveru za 200 Kč se páře a má nekvalitní materiály.

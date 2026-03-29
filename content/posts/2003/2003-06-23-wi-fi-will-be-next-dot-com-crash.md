@@ -4,7 +4,6 @@ slug: 'wi-fi-will-be-next-dot-com-crash'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WiFi bublina tématem mnoha článků kvůli CeBit Amerika a analytickým předpovědím.
 - WiFi hotspoty málo vydělávají a stěží splácí provoz a investice.

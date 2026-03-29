@@ -4,7 +4,6 @@ slug: 'podzimni-voip-smrst-v-zemich-koruny-ceske'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - VoIP trh v Česku zažívá rozmach, související s Invexem a úspěchem Skype.
 - MůjTelefon.cz nabízí VoIP s paušálem 50 Kč za příchozí číslo a hlasovou schránku.

@@ -4,7 +4,6 @@ slug: 'patecni-cteni-jak-jsme-sli-do-zpravodajskeho-designu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Zpravodajský server měl složitý designový vývoj.
 - Rok 1996/7 přinesl nejasnosti ohledně vzhledu serveru.

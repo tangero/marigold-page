@@ -4,7 +4,6 @@ slug: 'jak-tlaci-lobby-natlakove-akce-na-internetu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Lobby využívá online prostředí pro levné a rychlé nátlakové akce.
 - 'Nátlakové akce mají jasné kroky: nastolení tématu, agenda, zpracování oponentů.'

@@ -7,7 +7,6 @@ categories:
 - Mobily
 
   '
-published: true
 summary_points:
 - Převodní SMS O2 musí být odeslána v pracovní době (9-16 hodin).
 - Potvrzovací SMS "Váš požadavek byl přijat" neznamená zahájení převodu čísla.

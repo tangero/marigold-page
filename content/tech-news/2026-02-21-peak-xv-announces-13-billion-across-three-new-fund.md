@@ -16,7 +16,7 @@ source:
   name: BusinessLine
 title: Peak XV oznámil 1,3 miliardy dolarů v třech nových fondech pro Indie, APAC
   a dál
-url: https://www.thehindubusinessline.com/markets/peak-xv-announces-13-billion-across-three-new-funds-in-india-apac-and-beyond/article70659867.ece
+source_url: https://www.thehindubusinessline.com/markets/peak-xv-announces-13-billion-across-three-new-funds-in-india-apac-and-beyond/article70659867.ece
 urlToImage: https://bl-i.thgim.com/public/incoming/2tvrj3/article70659869.ece/alternates/LANDSCAPE_1200/Peak%20XV%20Partners.png
 urlToImageBackup: https://bl-i.thgim.com/public/incoming/2tvrj3/article70659869.ece/alternates/LANDSCAPE_1200/Peak%20XV%20Partners.png
 ---

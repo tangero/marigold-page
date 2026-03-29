@@ -4,7 +4,6 @@ slug: 'navod-jak-padelat-sms-jizdenku-snadno-a-rychle'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - SMS jízdenky lze podvrhnout, úspěch závisí na revizorově kontrole.
 - Revizoři často neověřují SMS jízdenky detailně, spoléhají na doručení zprávy.

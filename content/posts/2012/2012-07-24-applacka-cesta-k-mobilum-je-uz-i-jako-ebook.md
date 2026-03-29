@@ -6,7 +6,6 @@ categories:
 - Knihy
 
   '
-published: true
 summary_points:
 - 'Apple: cesta k mobilům je dostupná jako ebook (ePub, Mobi, PDF) bez DRM.'
 - Ebook Apple je dostupný na Palmknihách, Kosmasu a eReading.

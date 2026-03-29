@@ -4,7 +4,6 @@ slug: 'misto-cyklistiky-jsem-ochorel-do-eu-jsme-beztak-dorazili'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor onemocněl a zůstal doma místo cyklistického závodu.
 - Autor volil pro přistoupení do EU, ačkoli výsledek byl jasný.

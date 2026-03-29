@@ -4,7 +4,6 @@ slug: 'tak-si-to-tu-uzijte-a-3-ledna-nashledanou'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Aktualizace Marigolda proběhne nejdříve 3. ledna 2003 po návratu autorů.
 - Autoři odjíždějí do Perského zálivu a slibují fotky nesouvisející s WiFi.

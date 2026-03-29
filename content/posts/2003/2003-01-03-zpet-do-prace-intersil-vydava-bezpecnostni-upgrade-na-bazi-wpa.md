@@ -4,7 +4,6 @@ slug: 'zpet-do-prace-intersil-vydava-bezpecnostni-upgrade-na-bazi-wpa'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Marigold se vrátil z dovolené a brzy zveřejní fotografie.
 - Intersil vydal nový Prism firmware s bezpečnostním standardem WPA pro WiFi.

@@ -4,7 +4,6 @@ slug: 'mobildrobky-mobloging-motorola-na-nakupu-xtremespectrum-hojdaruv-odposlec
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Moblogging je tématem článku na The Feature, který poskytuje odkazy a úvod.
 - Motorola koupila firmu XtremeSpectrum, která se zabývala UWB technologiemi.

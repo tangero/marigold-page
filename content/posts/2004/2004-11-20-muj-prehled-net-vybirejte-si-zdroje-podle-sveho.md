@@ -4,7 +4,6 @@ slug: 'muj-prehled-net-vybirejte-si-zdroje-podle-sveho'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Můj Přehled.net umožňuje uživatelům definovat a sledovat vybrané zdroje přes RSS.
 - Klíčová slova umožňují sledovat články podle témat v nadpisech a perexu.

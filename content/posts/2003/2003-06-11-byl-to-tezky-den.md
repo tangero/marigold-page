@@ -4,7 +4,6 @@ slug: 'byl-to-tezky-den'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Den byl těžký kvůli absencím zaměstnanců a nákupu nevhodného filmu.
 - Distributor odmítl vystavit fakturu za film kvůli vedru.

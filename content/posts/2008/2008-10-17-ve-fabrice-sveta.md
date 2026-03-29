@@ -7,7 +7,6 @@ categories:
 - Příběhy
 
   '
-published: true
 summary_points:
 - Shenzhen je "Fabrika Světa", dříve rybářská osada, nyní dvanáctimilionová aglomerace.
 - Město Shenzhen trpí smogem a hektičností, ceny nemovitostí jsou astronomické.

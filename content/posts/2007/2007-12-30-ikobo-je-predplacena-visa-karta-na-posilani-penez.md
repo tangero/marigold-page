@@ -6,7 +6,6 @@ author: Patrick Zandl
   '
 
   '
-published: true
 summary_points:
 - iKobo posílá předplacené VISA karty namísto peněz, funguje i pro český trh.
 - Předplacená VISA karta se posílá adresátovi s PINem, lze ji dobíjet.

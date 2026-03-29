@@ -4,7 +4,6 @@ slug: 'na-co-by-nam-byl-broadband-router-a-jak-ho-vybrat'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Broadband routery propojují vnitřní síť s internetem, ideální pro domácnosti a malé
   firmy.

@@ -9,7 +9,6 @@ categories:
 - Apple
 
   '
-published: true
 summary_points:
 - Java pointa "write once, run many" na mobilech nefungovala, vyžadovala úpravy pro
   každý model.

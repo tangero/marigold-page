@@ -4,7 +4,6 @@ slug: 'bankovni-momentky-byl-tvurce-netbanky-pricetny'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Fio banka neotevřela autorovi eBroker účet kvůli občanskému průkazu.
 - Patria poskytla certifikát XETRA nejdříve na disketě, poté na CD.

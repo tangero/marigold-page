@@ -6,7 +6,6 @@ categories:
 - Společnost
 
   '
-published: true
 summary_points:
 - Čapek byl současníky vnímán spíše kriticky, než jak ho vnímáme dnes.
 - Budoucí generace budou soudit naši dobu podle skutků a činů, které zanecháme.

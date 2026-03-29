@@ -4,7 +4,6 @@ slug: 'adsl-a-cesky-telecom-podruhe'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - ADSL nabídka Českého Telecomu bude pravděpodobně platná od 1.2.2003 pro celou ČR.
 - Kbps ADSL linka od Telecomu by měla stát do 1300 Kč bez DPH.

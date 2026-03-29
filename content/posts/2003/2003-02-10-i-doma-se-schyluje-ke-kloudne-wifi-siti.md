@@ -4,7 +4,6 @@ slug: 'i-doma-se-schyluje-ke-kloudne-wifi-siti'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WiFi rozšíření do okolí brání nutnost montáže antény na správnou stranu domu.
 - Ethernet kabeláž přes byt komplikuje instalaci venkovní antény a zprovoznění WiFi.

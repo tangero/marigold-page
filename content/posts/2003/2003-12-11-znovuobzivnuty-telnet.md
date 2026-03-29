@@ -4,7 +4,6 @@ slug: 'znovuobzivnuty-telnet'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - TelNet byl dříve nekvalitní telekomunikační magazín s nadbytkem placených PR článků.
 - Telnet.cz nyní ožívá pod DCD Publishing s podtitulem "informace pro ICT profesionály".

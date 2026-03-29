@@ -4,7 +4,6 @@ slug: 'itu-telecom-world-2003'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - ITU Telecom World 2003 se koná 12.-18. října v Ženevě.
 - Evropské firmy považují účast na ITU za povinnost.

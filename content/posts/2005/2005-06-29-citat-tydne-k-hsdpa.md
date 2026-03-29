@@ -4,7 +4,6 @@ slug: 'citat-tydne-k-hsdpa'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - HSDPA upgrade je z 90% softwarová záležitost, zbytek hardware.
 - GPRS a EDGE aktualizace trvaly operátorům roky.

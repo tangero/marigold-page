@@ -4,7 +4,6 @@ slug: 'pixi-updatoval-zjisteni-o-ruseni-ism-pasma-na-kladne'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Pixyho příspěvek o rušení ISM pásma na Kladně vyvolal reakci KLFreeNetu.
 - KLFreeNet občanské sdružení se distancuje od rušení a obcházení zákonů.

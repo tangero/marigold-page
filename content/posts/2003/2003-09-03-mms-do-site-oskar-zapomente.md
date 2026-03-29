@@ -4,7 +4,6 @@ slug: 'mms-do-site-oskar-zapomente'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Oskar spustil MMS, ale odesílání zpráv z Eurotelu a T-Mobile do Oskara nefunguje.
 - T-Mobile a Eurotel infolinky potvrdily, že MMS do Oskara nelze odesílat.

@@ -4,7 +4,6 @@ slug: 'telecom-predstavuje-expres-klik'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Expres Klik od Telecomu krátkodobě zvyšuje rychlost ADSL za 49 Kč/24 hodin.
 - Rychlost ADSL lze navýšit o více stupňů za násobek poplatku, datové limity rostou.

@@ -4,7 +4,6 @@ slug: '3g-tyden-portugalske-3g-sdileni-infrastruktury-ve-finsku-a-dalsi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - TMN spustil 3G síť v Portugalsku, nabízí Siemens U15 a služby v Lisabonu/Oportu.
 - prodává Nokia 7600 v Británii, s cenou od zdarma do 140 liber.

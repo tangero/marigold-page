@@ -6,7 +6,7 @@ categories:
 - ARM
 - PostPC
 - Počítače
-date: 10.11.2020
+date: 2020-11-10
 excerpt: Na úterní presentaci představil Apple dlouho očekávanou řadu počítačů vybavených
   vlastním procesorem Apple M1 namísto dosavadně používaných procesorů Intel. O tomto
   kroku se ví již nějakou dobu, byl i oficiálně oznámen Timem Cookem, jenže na konkrétní

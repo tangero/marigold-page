@@ -21,7 +21,7 @@ source:
   id: null
   name: NPR
 title: Šéf NASA kritizuje Boeing a vesmírnou agenturu za selhání mise astronautů Starliner
-url: https://www.npr.org/2026/02/19/nx-s1-5719870/nasa-starliner-boeing-mishap-isaacman
+source_url: https://www.npr.org/2026/02/19/nx-s1-5719870/nasa-starliner-boeing-mishap-isaacman
 urlToImage: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1125+0+104/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbb%2F67%2Ffa150173429aa60141caed496d1c%2Fnasa-starliner.jpg
 urlToImageBackup: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1125+0+104/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbb%2F67%2Ffa150173429aa60141caed496d1c%2Fnasa-starliner.jpg
 ---

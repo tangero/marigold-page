@@ -4,7 +4,6 @@ slug: 'marigoldovi-jsem-vylepsil-kabatek-a-pridal-nabidku-wia-do-prehledu-adsl'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Upír vytvořil logo pro Marigold, i když autor původně chtěl vlastní obličej.
 - Maler korigoval barvy webu na svém Apple LCD monitoru.

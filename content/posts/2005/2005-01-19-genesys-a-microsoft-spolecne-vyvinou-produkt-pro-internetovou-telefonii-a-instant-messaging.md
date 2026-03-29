@@ -4,7 +4,6 @@ slug: 'genesys-a-microsoft-spolecne-vyvinou-produkt-pro-internetovou-telefonii-a
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Genesys a Microsoft uzavřely strategickou dohodu o vývoji integrovaného řešení.
 - Genesys umožní uživatelům Istanbulu telefonovat přes počítač a zpřístupnit kontaktní

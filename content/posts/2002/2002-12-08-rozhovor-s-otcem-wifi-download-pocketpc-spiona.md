@@ -4,7 +4,6 @@ slug: 'rozhovor-s-otcem-wifi-download-pocketpc-spiona'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Vic Hayes, předseda IEEE, je nazýván otcem WiFi standardu 802.11.
 - WLAN standard s rychlostí přes 100 Mbps se očekával v roce 2005.

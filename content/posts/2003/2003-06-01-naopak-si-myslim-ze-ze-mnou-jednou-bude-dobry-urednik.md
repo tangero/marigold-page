@@ -4,7 +4,6 @@ slug: 'naopak-si-myslim-ze-ze-mnou-jednou-bude-dobry-urednik'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - DigiWeb zveřejnil rozhovor s autorem textu, který vedla Markéta Kaclová pro ČRO.
 - Autor popírá fámy o jeho práci ve státní správě, i když ji nevylučuje.

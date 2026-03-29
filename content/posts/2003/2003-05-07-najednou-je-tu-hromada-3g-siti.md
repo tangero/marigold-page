@@ -4,7 +4,6 @@ slug: 'najednou-je-tu-hromada-3g-siti'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Švédský operátor 3 spouští 3G síť ve Švédsku s videopřenosy za 0,71 €/min.
 - Vodafone Irsko testuje 3G síť s telefonem Nokia 6650.

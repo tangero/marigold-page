@@ -4,7 +4,6 @@ slug: 'mms-weblog-na-bloguje-cz-pomozte-testovat'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Artur Dent na bloguje.cz testuje publikování pomocí MMS zpráv.
 - Veřejnost je žádána o testování MMS publikování na pokus.bloguje.cz.

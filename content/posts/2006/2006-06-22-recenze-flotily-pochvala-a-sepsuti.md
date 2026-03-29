@@ -4,7 +4,6 @@ slug: 'recenze-flotily-pochvala-a-sepsuti'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Flotila Země dostupná ve volném prodeji po vydání v Pevnosti za 89 Kč.
 - Neviditelný pes publikoval dvě recenze Flotily Země od Henryho a Pagiho.

@@ -4,7 +4,6 @@ slug: 'drobky-brew-a-java-weblogy-zainvestovane-a-konspiracni-ipod-teorie'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Mobil.cz článek o BREW a Javě se zaměřuje spíše na obchodní stránku.
 - Lupa.cz píše o investicích do Technorati a NewsGatoru, firem spojených s weblogy.

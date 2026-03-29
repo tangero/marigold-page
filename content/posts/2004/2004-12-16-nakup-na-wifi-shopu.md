@@ -4,7 +4,6 @@ slug: 'nakup-na-wifi-shopu'
 author: Noname
 
   '
-published: true
 summary_points:
 - Wline W 4000 AP umí omezovat šířku pásma pro jednotlivé klienty.
 - SuperG noname routery budou testovány a případně publikovány příští týden.

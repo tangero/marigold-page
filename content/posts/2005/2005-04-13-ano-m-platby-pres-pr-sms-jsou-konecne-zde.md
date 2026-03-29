@@ -4,7 +4,6 @@ slug: 'ano-m-platby-pres-pr-sms-jsou-konecne-zde'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Lupa.cz zveřejnila články o mikroplatbách, zmiňující i systém Pipeline.
 - M-platby přes PR SMS umožňují platit mobilem za různé služby.

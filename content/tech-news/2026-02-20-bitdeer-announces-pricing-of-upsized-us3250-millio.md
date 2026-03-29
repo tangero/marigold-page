@@ -20,7 +20,7 @@ source:
   name: GlobeNewswire
 title: Bitdeer oznámil cenu navýšené emise konvertibilních senior notes v hodnotě
   325 milionů USD
-url: https://www.globenewswire.com/news-release/2026/02/20/3241841/0/en/Bitdeer-Announces-Pricing-of-Upsized-US-325-0-Million-Convertible-Senior-Notes-Offering.html
+source_url: https://www.globenewswire.com/news-release/2026/02/20/3241841/0/en/Bitdeer-Announces-Pricing-of-Upsized-US-325-0-Million-Convertible-Senior-Notes-Offering.html
 urlToImage: https://ml.globenewswire.com/Resource/Download/8dcb3262-930d-4572-9bf7-a5d312e46bdf
 urlToImageBackup: https://ml.globenewswire.com/Resource/Download/8dcb3262-930d-4572-9bf7-a5d312e46bdf
 ---

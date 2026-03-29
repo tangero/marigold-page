@@ -6,7 +6,6 @@ categories:
 - Vzdělávání
 
   '
-published: true
 summary_points:
 - Školství nedostatečně vzdělává v oblasti výpočetní techniky, což je pro děti nevýhodné.
 - Výuka počítačů je často povrchní, zaměřená na základní úkony, nikoliv principy.

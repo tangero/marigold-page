@@ -4,7 +4,6 @@ slug: 'specifikace-homeplug-av-pro-prenosy-elektrickou-siti-schvalena'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - HomePlug AV standard schválen, nabízí sdílenou rychlost až 200 Mb/s.
 - Původní HomePlug 1.0 dosahoval rychlosti pouze 14 Mb/s.

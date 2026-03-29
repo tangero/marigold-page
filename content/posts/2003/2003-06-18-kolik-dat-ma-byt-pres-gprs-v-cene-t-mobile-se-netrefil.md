@@ -4,7 +4,6 @@ slug: 'kolik-dat-ma-byt-pres-gprs-v-cene-t-mobile-se-netrefil'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - T-Mobile tvrdil, že 50 MB GPRS dat stačí, autor to testoval.
 - Autor přenesl 57 MB dat při běžné práci, limit 50 MB je nedostatečný.

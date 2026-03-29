@@ -4,7 +4,6 @@ slug: 'zrusit-mobil-neni-to-nerealne'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor uvažuje o zrušení mobilního telefonu kvůli stresu, nákladům a ztrátě času.
 - Mobil fragmentuje den častými, zbytečnými hovory, které přerušují soustředěnou práci.

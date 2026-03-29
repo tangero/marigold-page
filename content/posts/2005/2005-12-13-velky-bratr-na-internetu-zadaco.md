@@ -4,7 +4,6 @@ slug: 'velky-bratr-na-internetu-zadaco'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - Velký Bratr spustil bezplatné internetové vysílání v lepší kvalitě než VyVolení.
 - Vysílání Velkého Bratra začalo v pondělí a zatěžuje NIX 300 Mb/s.

@@ -4,7 +4,6 @@ slug: 'politicky-nekorektni-e-gov-digitalni-agenda-prumysl-4-0-inovativni-firmy-
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Česká vláda neplní digitální agendu, změny vznikají samospádem technologického pokroku.
 - Ekonomický růst vyžaduje inovace a odlišné strategie než konkurence.

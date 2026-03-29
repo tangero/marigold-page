@@ -4,7 +4,6 @@ slug: '5-kdo-prijde-po-cesnetu-dalsi-akademicke-site'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - TEN-34 CZ byl schválen 1996, řešitelem se stal CESNET, využívající ATM technologii.
 - QUANTUM navázal na TEN-34, cílem byla celoevropská síť TEN-155 s rychlostí 155 Mb/s.

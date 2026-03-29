@@ -4,7 +4,6 @@ slug: 'jean-michel-jarre-zive-na-internetu'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - Koncert Jeana Michela Jarre se koná 26.8.2005 v Gdaňské loděnici.
 - Koncert Jeana Michela Jarre bude živě přenášen do Internetu.

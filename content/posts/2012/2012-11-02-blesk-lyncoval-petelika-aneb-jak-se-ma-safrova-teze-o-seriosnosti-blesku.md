@@ -6,7 +6,6 @@ categories:
 - Média
 
   '
-published: true
 summary_points:
 - Blesk publikoval nepravdivý článek o výroku Jaromíra Petelíka o věšení pravičáků.
 - Redakce Blesku si neověřila autenticitu výroku a Petelíka veřejně dehonestovala.

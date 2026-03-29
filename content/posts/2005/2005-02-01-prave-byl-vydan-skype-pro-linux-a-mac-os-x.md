@@ -4,7 +4,6 @@ slug: 'prave-byl-vydan-skype-pro-linux-a-mac-os-x'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Skype pro Linux finální verze je nyní dostupná ke stažení.
 - Skype verze pro Mac OS X byla také uvolněna.

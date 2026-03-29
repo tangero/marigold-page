@@ -7,7 +7,6 @@ categories:
 - Copyright
 
   '
-published: true
 summary_points:
 - Audiovizuální díla by měla mít ochranu jen půl roku od zveřejnění.
 - Po této lhůtě by se mělo autorství přiznávat a zvážit odměnu.

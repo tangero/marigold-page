@@ -4,7 +4,6 @@ slug: 'trocha-mariekonomiky'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Marigold používá automatický systém textové reklamy s platbou za kliknutí, ne za
   zobrazení.

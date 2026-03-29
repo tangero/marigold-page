@@ -4,7 +4,6 @@ slug: 'sms-u-ceskeho-telecomu-neni-spatny-napad'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Malérův článek o SMS z pevných linek Telecomu obsahuje ekonomické nepřesnosti.
 - Telecom službu SMS z pevných linek provozuje přes Fincom, který ji nabízel dříve.

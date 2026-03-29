@@ -4,7 +4,6 @@ slug: 'ceska-republika-ma-nejvice-isp-ze-zemi-eu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Česká republika měla v roce 2003 nejvíce ISP v EU, celkem 1815.
 - Eurostat uvádí, že číslo ISP v ČR zahrnuje držitele licence pro připojování.

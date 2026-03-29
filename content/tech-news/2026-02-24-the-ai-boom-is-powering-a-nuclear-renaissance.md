@@ -15,7 +15,7 @@ source:
   id: null
   name: OilPrice.com
 title: Boom umělé inteligence pohání renesanci jaderné energie
-url: https://oilprice.com/Alternative-Energy/Nuclear-Power/The-AI-Boom-Is-Powering-a-Nuclear-Renaissance.html
+source_url: https://oilprice.com/Alternative-Energy/Nuclear-Power/The-AI-Boom-Is-Powering-a-Nuclear-Renaissance.html
 urlToImage: https://d32r1sh890xpii.cloudfront.net/article/718x300/2026-02-24_zml06xtwog.jpg
 urlToImageBackup: https://d32r1sh890xpii.cloudfront.net/article/718x300/2026-02-24_zml06xtwog.jpg
 ---

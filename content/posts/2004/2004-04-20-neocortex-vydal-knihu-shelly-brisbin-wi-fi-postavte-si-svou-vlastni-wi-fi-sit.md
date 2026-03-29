@@ -4,7 +4,6 @@ slug: 'neocortex-vydal-knihu-shelly-brisbin-wi-fi-postavte-si-svou-vlastni-wi-fi
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Neocortex vydal překlad knihy Shelly Brisbin o stavbě WiFi sítí.
 - Kniha má 248 stran a stojí 249 Kč, podobně jako autorova kniha.

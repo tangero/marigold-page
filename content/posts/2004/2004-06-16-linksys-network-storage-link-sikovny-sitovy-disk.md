@@ -4,7 +4,6 @@ slug: 'linksys-network-storage-link-sikovny-sitovy-disk'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Síťový disk pro sdílení dat mezi dvěma počítači je řešením.
 - Linksys NSL propojuje USB disky (až dva) s ethernetem pro síťový přístup.

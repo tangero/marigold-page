@@ -4,7 +4,6 @@ slug: 'notebook-a-datove-prenosy-v-metru'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Metro pokryté GSM signálem autor původně vítal, ale osobní zkušenost jej odradila.
 - Mladík v metru psal na notebooku, ale efektivita práce byla velmi nízká.

@@ -6,7 +6,6 @@ categories:
 - Energomonitor
 
   '
-published: true
 summary_points:
 - Energomonitor kombinuje fyzickou výrobu, vývoj aplikací a prodej, což je specifické.
 - Prodej Energomonitoru vyžaduje edukaci trhu, podobně jako internetová reklama v

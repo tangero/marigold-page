@@ -4,7 +4,6 @@ slug: 'story-o-sousedskych-sitich-3'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - Autor zkoumal dostupné CZFree.Net AP v okolí obce pomocí antén.
 - Autor navrhl rozsáhlý plán se třemi anténami pro zakruhování a tranzit.

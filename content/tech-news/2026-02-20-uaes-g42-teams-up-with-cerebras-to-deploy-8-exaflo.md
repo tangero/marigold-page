@@ -20,7 +20,7 @@ source:
   name: TechCrunch
 title: G42 ze SAE spolupracuje s Cerebras na nasazení 8 exaflops výpočetního výkonu
   v Indii
-url: https://techcrunch.com/2026/02/20/uaes-g42-teams-up-with-cerebras-to-deploy-8-exaflops-of-compute-in-india/
+source_url: https://techcrunch.com/2026/02/20/uaes-g42-teams-up-with-cerebras-to-deploy-8-exaflops-of-compute-in-india/
 urlToImage: https://techcrunch.com/wp-content/uploads/2026/02/Super-computer-G42.jpg?resize=1200,676
 urlToImageBackup: https://techcrunch.com/wp-content/uploads/2026/02/Super-computer-G42.jpg?resize=1200,676
 ---

@@ -2,7 +2,6 @@
 slug: 'tyden-konci'
 
 author: Noname
-published: true
 summary_points:
 - Autorův týden na Marigoldu končí, příští týden píše Patrik.
 - Dnes autor dopíše poslední díl seriálu "Chci bezdrátovou síť" o bezdrátovém internetu.

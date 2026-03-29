@@ -4,7 +4,6 @@ slug: 'bezdratova-okurka-flamewary-o-gpl-a-vrtani-diry-do-styroporu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Okurková sezóna zpomaluje bezdrátový svět, zprávy jsou málo zajímavé.
 - Sveasoft zpoplatnil fórum, což vyvolalo spor ohledně GPL licence.

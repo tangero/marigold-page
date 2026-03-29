@@ -4,7 +4,6 @@ slug: 'ctu-zkontrolovalo-telefonni-automaty-telecomu-a-je-nespokojeno'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Kontrola VTA odhalila neaktualizované informační panely o délce impulsu.
 - Displeje VTA v Praze a krajích informují o zjištění cen na čísle 800123456.

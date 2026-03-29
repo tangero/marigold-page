@@ -20,7 +20,7 @@ source:
   name: Abcnews.com
 title: Hegseth a šéf Anthropic se setkají, zatímco debata o využití AI v armádě nabírá
   na obrátkách
-url: https://abcnews.com/Business/wireStory/hegseth-anthropic-ceo-set-meet-debate-intensifies-militarys-130435085
+source_url: https://abcnews.com/Business/wireStory/hegseth-anthropic-ceo-set-meet-debate-intensifies-militarys-130435085
 urlToImage: https://i.abcnewsfe.com/a/52bc7626-71c0-48a6-bedc-5161e86a8890/wirestory_3d86c9296fe953ec0591fcde6a613aba_16x9.jpg?w=1600
 urlToImageBackup: https://i.abcnewsfe.com/a/52bc7626-71c0-48a6-bedc-5161e86a8890/wirestory_3d86c9296fe953ec0591fcde6a613aba_16x9.jpg?w=1600
 ---

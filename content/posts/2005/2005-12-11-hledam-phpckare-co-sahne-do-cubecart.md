@@ -4,7 +4,6 @@ slug: 'hledam-phpckare-co-sahne-do-cubecart'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - CubeCart potřebuje úpravu pro správné počítání DPH na fakturách.
 - Práce je placená, fakturace možná, ideální pro jednotlivce s časem.

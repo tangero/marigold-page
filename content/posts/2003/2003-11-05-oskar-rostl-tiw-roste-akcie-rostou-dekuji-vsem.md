@@ -4,7 +4,6 @@ slug: 'oskar-rostl-tiw-roste-akcie-rostou-dekuji-vsem'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - TIW akcie po reportu kvartálních výsledků vzrostly z 6,4 USD na 7,6 USD.
 - Autor gratuluje těm, kteří na jeho radu akcie TIW nakoupili včas.

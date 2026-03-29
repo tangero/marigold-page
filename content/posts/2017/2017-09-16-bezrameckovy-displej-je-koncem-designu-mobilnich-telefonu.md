@@ -2,7 +2,6 @@
 slug: 'bezrameckovy-displej-je-koncem-designu-mobilnich-telefonu'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - Bezrámečkový displej je považován za konec designu mobilních telefonů.
 - Všechny moderní mobily vypadají podobně, inspirovány iPhonem.

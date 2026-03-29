@@ -4,7 +4,6 @@ slug: 'desitka-nejzhavejsich-mobilnich-aplikaci-pro-rok-2004'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Telephony Magazine vyhlásil desítku nejžhavějších mobilních aplikací pro příští
   rok.

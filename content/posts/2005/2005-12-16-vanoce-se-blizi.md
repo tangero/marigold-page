@@ -4,7 +4,6 @@ slug: 'vanoce-se-blizi'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - Vltava a InternetShops rozesílají vánoční spam.
 - Autor si stěžuje na otravné spamování od zmíněných firem.

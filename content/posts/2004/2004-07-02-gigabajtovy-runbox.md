@@ -4,7 +4,6 @@ slug: 'gigabajtovy-runbox'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Runbox.com nabízí placený email s 100 MB prostoru za 30 dolarů ročně.
 - Služba Runbox zahrnuje spolehlivý provoz, spam filtr, antivirus a různé přístupy.

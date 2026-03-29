@@ -4,7 +4,6 @@ slug: 'martan-zleva-u-fon-zprava-a-dramata-regulatorova'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - U-fon startoval s nedostatečným pokrytím a nejasnou nabídkou fixních bezdrátových
   telefonů.

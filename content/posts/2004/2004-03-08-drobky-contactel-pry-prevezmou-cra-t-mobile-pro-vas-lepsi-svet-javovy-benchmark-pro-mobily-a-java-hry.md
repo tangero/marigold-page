@@ -4,7 +4,6 @@ slug: 'drobky-contactel-pry-prevezmou-cra-t-mobile-pro-vas-lepsi-svet-javovy-ben
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Contactel by měly převzít České Radiokomunikace, které ovládá Deutsche Bank.
 - T-Mobile zavádí nový slogan "Pro Váš lepší svět" a vizuální podobu reklam.

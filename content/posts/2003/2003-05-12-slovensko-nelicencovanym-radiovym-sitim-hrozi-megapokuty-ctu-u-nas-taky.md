@@ -4,7 +4,6 @@ slug: 'slovensko-nelicencovanym-radiovym-sitim-hrozi-megapokuty-ctu-u-nas-taky'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Slovenský TÚ vyžaduje licenci pro veřejné radiové sítě i v bezlicenčních pásmech.
 - ČTÚ v ČR také vyžaduje licenci pro provozování veřejné telekomunikační sítě.

@@ -4,7 +4,6 @@ slug: 'sel-jsem-se-podivat-na-flarion-a-libilo-se-mi-to'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Flexband od Flarionu se líbil autorovi v Cannes.
 - T-Mobile ČR by mohl Flexband koupit pro síť 872 MHz.

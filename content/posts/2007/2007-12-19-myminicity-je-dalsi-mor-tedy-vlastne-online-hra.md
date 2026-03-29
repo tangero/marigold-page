@@ -4,7 +4,6 @@ slug: 'myminicity-je-dalsi-mor-tedy-vlastne-online-hra'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - MyMiniCity je webový simulátor města, kde návštěvy zvyšují počet obyvatel.
 - Další linky zvyšují průmysl, dopravu, bezpečnost a další aspekty města.

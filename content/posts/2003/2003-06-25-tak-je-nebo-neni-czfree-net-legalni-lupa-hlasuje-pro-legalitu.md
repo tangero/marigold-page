@@ -4,7 +4,6 @@ slug: 'tak-je-nebo-neni-czfree-net-legalni-lupa-hlasuje-pro-legalitu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - CzFree.Net provoz je dle Jána Matejky legální, protože síť nerozhoduje o připojení.
 - FAQ CzFree.Net uvádí, že kdokoliv se může připojit a síť rozšířit.

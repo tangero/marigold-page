@@ -4,7 +4,6 @@ slug: 'ctu-se-nakrklo-na-neustaly-tlak-contactelu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - ČTÚ se ohradil proti tlaku Contactelu ohledně rozhodnutí o propojení sítí ADSL.
 - Contactel očekával pozitivní rozhodnutí ČTÚ do 19. září ve prospěch ADSL.

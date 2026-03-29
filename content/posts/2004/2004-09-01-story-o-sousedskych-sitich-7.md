@@ -4,7 +4,6 @@ slug: 'story-o-sousedskych-sitich-7'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - CF s Mikrotikem dorazila s licencí svázanou se sériovým číslem CF.
 - Síťová karta se povysunula, což způsobilo desetiminutové hledání problému.

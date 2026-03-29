@@ -4,7 +4,6 @@ slug: 'a-pak-ze-jsou-kese-mrtve'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - Akamai farma s deseti servery Verari systems instalována v CESNETu.
 - Po aktivaci farma dosahuje špičkové propustnosti 800 Mb/s.

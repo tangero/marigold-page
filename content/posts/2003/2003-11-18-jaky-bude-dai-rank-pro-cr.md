@@ -4,7 +4,6 @@ slug: 'jaky-bude-dai-rank-pro-cr'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - ITU zveřejnilo první informace o Digital Access Index (DAI rank).
 - DAI rank hodnotí dostupnost informačních a komunikačních technologií v zemích.

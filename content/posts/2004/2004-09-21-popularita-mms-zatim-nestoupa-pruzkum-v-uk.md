@@ -4,7 +4,6 @@ slug: 'popularita-mms-zatim-nestoupa-pruzkum-v-uk'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Continental Research zjistil pokles používání MMS ve Velké Británii.
 - Počet odeslaných MMS zpráv klesl, i přes nárůst fotomobilů.

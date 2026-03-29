@@ -4,7 +4,6 @@ slug: 'studie-internetove-redakcni-a-publikacni-systemy'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Studie se věnuje internetovým redakčním a publikačním systémům.
 - Práce je návodem pro výběr redakčního systému, nikoliv jeho porovnáním.

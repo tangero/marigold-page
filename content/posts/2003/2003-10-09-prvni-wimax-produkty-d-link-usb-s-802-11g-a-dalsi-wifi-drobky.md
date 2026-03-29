@@ -4,7 +4,6 @@ slug: 'prvni-wimax-produkty-d-link-usb-s-802-11g-a-dalsi-wifi-drobky'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Linksys WRT54G má nový firmware 1.41.7 s Cisco designem a blokováním obsahu.
 - D-Link představil USB 2.0 adaptér DWL-G120 s WiFi 802.11g za 89 USD.

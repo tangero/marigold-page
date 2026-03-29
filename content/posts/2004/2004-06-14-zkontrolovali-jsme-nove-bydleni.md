@@ -4,7 +4,6 @@ slug: 'zkontrolovali-jsme-nove-bydleni'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Návštěva nového bytu od IPB Real proběhla vcelku v pořádku a byl čistý.
 - V ložnici bytu nepochopitelně namontovali vodovodní trubky a odpad pro kuchyň.

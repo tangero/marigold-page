@@ -4,7 +4,6 @@ slug: 'kdyz-muzu-behat-ja-muzes-taky'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Běhání začněte pomalu, abyste předešli zraněním a demotivaci.
 - Měření uběhnuté vzdálenosti motivuje a ukazuje pokrok v běhání.

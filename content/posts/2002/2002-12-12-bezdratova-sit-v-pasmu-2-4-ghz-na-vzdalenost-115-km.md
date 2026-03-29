@@ -4,7 +4,6 @@ slug: 'bezdratova-sit-v-pasmu-2-4-ghz-na-vzdalenost-115-km'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Seismologická stanice v USA byla bezdrátově připojena na 115 km.
 - Použita byla 2,4 GHz technologie se směrovou anténou.

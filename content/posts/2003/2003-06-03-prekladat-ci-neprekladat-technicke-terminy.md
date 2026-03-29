@@ -4,7 +4,6 @@ slug: 'prekladat-ci-neprekladat-technicke-terminy'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Kniha o WiFi řeší problém používání anglických technických termínů.
 - Autor preferuje anglické termíny, editor trvá na českých ekvivalentech.

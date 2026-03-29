@@ -4,7 +4,6 @@ slug: 'marigold-mezi-akademiky-ceskeho-internetu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Český zavináč hledá nejlepší internetové projekty v nové soutěži.
 - Marigold vybírá nejlepší weby jako akademik v soutěži Český zavináč.

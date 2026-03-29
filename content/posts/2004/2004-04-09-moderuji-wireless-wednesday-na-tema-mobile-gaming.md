@@ -4,7 +4,6 @@ slug: 'moderuji-wireless-wednesday-na-tema-mobile-gaming'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Mobile gaming je téma setkání Wireless Wednesday 14. dubna od 17 hodin.
 - Podrobnosti o akci Mobile gaming jsou dostupné na webu tuesday.cz.

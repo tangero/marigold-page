@@ -4,7 +4,6 @@ slug: 'clanek-weblogova-doba-cili-novinar-versus-webloger'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Weblogová doba čili novinář versus webloger je nový článek v Historii internetu.
 - Novinář se autora před čtyřmi lety ptal na obdobu Neviditelného světa.

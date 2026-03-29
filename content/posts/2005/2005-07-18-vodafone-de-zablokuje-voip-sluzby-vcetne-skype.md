@@ -4,7 +4,6 @@ slug: 'vodafone-de-zablokuje-voip-sluzby-vcetne-skype'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Vodafone Německo plánuje do dvou let blokovat VoIP služby ve své 3G síti.
 - SFR, s 44% podílem Vodafonu, potvrdil blokování P2P a VoIP již v roce 2005.

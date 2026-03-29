@@ -4,7 +4,6 @@ slug: 'cisco-predstavilo-aironet-1100-s-802-11g-sputnik-novy-hotspot-software'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Cisco představilo Aironet 1200 a Aironet 1100 s podporou 802.11g.
 - Aironety od Cisca podporují WPA, ale AES bude deaktivován do standardizace 802.11i.

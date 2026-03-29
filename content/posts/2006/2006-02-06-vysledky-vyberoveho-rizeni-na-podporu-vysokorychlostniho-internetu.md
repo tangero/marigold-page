@@ -4,7 +4,6 @@ slug: 'vysledky-vyberoveho-rizeni-na-podporu-vysokorychlostniho-internetu'
 author: Noname
 
   '
-published: true
 summary_points:
 - Výběrové řízení na podporu vysokorychlostního internetu má výsledky.
 - Ministerstvo průmyslu a obchodu zveřejnilo výsledky na webu micr.cz.

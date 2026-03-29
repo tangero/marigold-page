@@ -22,7 +22,7 @@ source:
   name: Associated Press
 title: SambaNova představila SN50, čip pro agentic AI rychlejší pětkrát než konkurence,
   spolupracuje s Intelem a získala přes 350 milionů dolarů
-url: https://apnews.com/press-release/business-wire/sambanova-unveils-fastest-chip-for-agentic-ai-collaborates-with-intel-and-raises-350m-fe38bdb097d342fc803925cdba369a34
+source_url: https://apnews.com/press-release/business-wire/sambanova-unveils-fastest-chip-for-agentic-ai-collaborates-with-intel-and-raises-350m-fe38bdb097d342fc803925cdba369a34
 urlToImage: https://dims.apnews.com/dims4/default/a1e47fd/2147483647/strip/true/crop/940x626+0+81/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F61%2Fd7%2F6b3aa849fdbcfe9d35c956cdcd16%2F76c92f9043cf60fc85b96c11e36ef624
 urlToImageBackup: https://dims.apnews.com/dims4/default/a1e47fd/2147483647/strip/true/crop/940x626+0+81/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F61%2Fd7%2F6b3aa849fdbcfe9d35c956cdcd16%2F76c92f9043cf60fc85b96c11e36ef624
 ---

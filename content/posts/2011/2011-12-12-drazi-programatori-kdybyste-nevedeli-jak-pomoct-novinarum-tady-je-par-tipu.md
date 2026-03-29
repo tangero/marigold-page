@@ -7,7 +7,6 @@ categories:
 - Média
 
   '
-published: true
 summary_points:
 - Justice.cz data jsou pro novináře obtížně zpracovatelná bez skriptování.
 - Programátoři mohou vytvořit službu pro sledování změn firem v Obchodním rejstříku.

@@ -6,7 +6,6 @@ categories:
 - Knihy
 
   '
-published: true
 summary_points:
 - Autor porušil slib recenze anglofonní literatury kvůli nákupu českých knih.
 - Řada Galileo nakladatelství Academia nabízí knihy s širokým záběrem problematiky.

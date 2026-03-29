@@ -6,7 +6,6 @@ categories:
 - Digitální detox
 
   '
-published: true
 summary_points:
 - Chytrý telefon způsobuje autorovi ztrátu času synchronizací, čtením zbytečností
   a přehlížením důležitých emailů.

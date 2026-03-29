@@ -4,7 +4,6 @@ slug: 'drobky-moblogy-vpn-dalsi-utek-k-oskarovi-blogerske-dogma-a-dalsi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Goodbye Lenin je podle autora spíše smutný film, než komedie, nesouhlasí s recenzenty.
 - Autor obdržel faktury od Oskara a T-Mobile, přičemž přechodem k Oskaru ušetřil.

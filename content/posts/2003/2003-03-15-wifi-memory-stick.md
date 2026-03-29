@@ -4,7 +4,6 @@ slug: 'wifi-memory-stick'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Memory Stick s WiFi představila společnost Sony na veletrhu CeBIT.
 - Sony Clie je primární zařízení, pro které je WiFi Memory Stick určen.

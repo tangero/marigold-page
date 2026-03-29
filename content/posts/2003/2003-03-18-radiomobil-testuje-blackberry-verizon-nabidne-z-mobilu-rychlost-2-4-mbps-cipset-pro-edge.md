@@ -4,7 +4,6 @@ slug: 'radiomobil-testuje-blackberry-verizon-nabidne-z-mobilu-rychlost-2-4-mbps-
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Verizon Wireless testuje 2,4 Mbps rychlost pomocí technologie 1xEV-DO v oblasti
   Washington DC.

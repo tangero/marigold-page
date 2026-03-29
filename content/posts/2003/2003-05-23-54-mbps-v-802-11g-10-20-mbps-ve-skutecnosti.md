@@ -4,7 +4,6 @@ slug: '54-mbps-v-802-11g-10-20-mbps-ve-skutecnosti'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WiFi 802.11g dosahuje reálnou propustnost jen 10-20 Mbps z deklarovaných 54 Mbps.
 - Reálná propustnost WiFi 802.11g je horší než u staršího standardu 802.11b.

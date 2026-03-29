@@ -4,7 +4,6 @@ slug: 'udoli-stinu-a-o-vyznamu-dudlikovych-barev'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor neměl inspiraci pro psaní, fotbal ho nezajímá a MS nesleduje.
 - Dcera Sofie se učí chodit a vyžaduje neustálou asistenci dospělých.

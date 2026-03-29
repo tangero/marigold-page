@@ -20,7 +20,7 @@ source:
   id: null
   name: Cisco.com
 title: Sharon AI a Cisco spouštějí první australskou Cisco Secure AI Factory s NVIDIA
-url: https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m02/sharon-ai-cisco-launch-australia-first-cisco-secure-ai-factory-with-nvidia.html
+source_url: https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m02/sharon-ai-cisco-launch-australia-first-cisco-secure-ai-factory-with-nvidia.html
 urlToImage: https://newsroom.cisco.com/c/dam/r/newsroom/en/us/assets/a/y2026/m02/JamesChuckStef4.jpeg
 urlToImageBackup: https://newsroom.cisco.com/c/dam/r/newsroom/en/us/assets/a/y2026/m02/JamesChuckStef4.jpeg
 ---

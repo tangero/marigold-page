@@ -4,7 +4,6 @@ slug: 'cdma-prakticky-zdvojnasobilo-datovy-provoz-eurotelu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - NIX statistiky ukazují provoz ISP partnerů, zejména do českých zdrojů.
 - Eurotel spustil CDMA v srpnu, což zvýšilo příchozí provoz přes NIX.

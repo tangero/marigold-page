@@ -4,7 +4,6 @@ slug: 'wow-oskar-inzeruje-v-icq'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Bannery Oskara se šíří přes ICQ, konkrétně v plné verzi programu.
 - Nokia Game 2003 je další česká reklama, která se na ICQ objevila.

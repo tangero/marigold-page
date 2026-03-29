@@ -4,7 +4,6 @@ slug: 'internetove-terminaly-v-mekaci'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - McDonald's na Václavském náměstí nabízí internetové stanice s počítači a kamerami.
 - Cafe Louvre instaluje internetový kiosek, jehož poskytovatel a služby jsou neznámé.

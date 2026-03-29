@@ -2,7 +2,6 @@
 slug: 'zaverecna-zprava-z-boje-o-umisteni-syna-do-skoly'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - Report z boje o synovo umístění na základní školu
 - Brutální rozdíly mezi přístupem soukromých škol

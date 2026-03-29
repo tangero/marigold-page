@@ -4,7 +4,6 @@ slug: 'asi-jsem-fakt-anarchofasistickoklerikalni-podivin'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Schůzka tel.con 2004 řešila přenositelnost čísel s operátory a ČTÚ.
 - Autor zaslal ČTÚ podnět ke změně číslovacího plánu pro internet.

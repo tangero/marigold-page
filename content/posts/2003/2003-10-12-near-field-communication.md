@@ -4,7 +4,6 @@ slug: 'near-field-communication'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - NFC je bezdrátová technologie pro komunikaci na krátkou vzdálenost (do 10 cm).
 - NFC nevyžaduje párování zařízení, což usnadňuje komunikaci mezi nimi.

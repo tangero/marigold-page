@@ -4,7 +4,6 @@ slug: 'kterak-jsem-si-vychutnaval-poctenicko-live-portalu-pres-3g'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Eurotel 3G testování selhalo kvůli problémům se Siemens U15 a Real Playerem.
 - Videotelefonie s Honzou Řežábem zaujala, ale minuta stála korunu.

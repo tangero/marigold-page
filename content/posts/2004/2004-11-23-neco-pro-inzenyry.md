@@ -4,7 +4,6 @@ slug: 'neco-pro-inzenyry'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - AVC Sillicon Hill zpracovalo záznam diskuse "Kam kráčíš, česká techniko?" z 17.11.2004.
 - Diskuse se účastnili prezident, ministryně školství a čtyři rektoři.

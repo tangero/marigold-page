@@ -4,7 +4,6 @@ slug: 'obtize-rozhodovani-a-extralegalni-procesy-na-internetu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Rozhodování je obtížná disciplína, zvláště v online sporech o domény.
 - Rozhodčí komise řešily spory o domény .cz podle ochranných známek.

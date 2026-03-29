@@ -4,7 +4,6 @@ slug: 'ctu-k-pasmu-5ghz'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - ČTÚ vydá generální licenci pro 5 GHz pásmo až po aktualizaci CEPT rozhodnutí.
 - Generální licence pro RLAN v pásmu 5 GHz bude vydána nejdříve koncem prvního čtvrtletí

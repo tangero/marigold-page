@@ -4,7 +4,6 @@ slug: 'universal-software-radio-a-gnuradio-softwarove-definovatelne-radio'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - UniversalSoftwareRadioPeripheral je hardware pro SDR s USB 2.0 připojením k PC.
 - GnuRadio je softwarová část projektu UniversalSoftwareRadioPeripheral.

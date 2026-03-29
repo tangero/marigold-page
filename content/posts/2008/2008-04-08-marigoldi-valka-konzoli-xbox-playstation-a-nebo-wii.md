@@ -7,7 +7,6 @@ categories:
 - Hry
 
   '
-published: true
 summary_points:
 - Autor má málo času na hraní a preferuje nenáročné hry.
 - Herní konzole je pro autora lepší než hraní na počítači.

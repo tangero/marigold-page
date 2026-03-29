@@ -4,7 +4,6 @@ slug: 'email-centra-se-nam-v-horku-odlehcil'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Centrum Email měl v sobotu ráno problém se zobrazením stylů a přístupem.
 - Autor opakovaně zaznamenal podobné chyby v emailu Centra.

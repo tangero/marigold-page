@@ -4,7 +4,6 @@ slug: 'bezdratovy-prenos-videa-ve-vyrobcich-daewoo'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Daewoo představilo na IFA LCD televizor s bezdrátovým přenosem videa pomocí WiFi
   ViXS.

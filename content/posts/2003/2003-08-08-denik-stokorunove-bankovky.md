@@ -4,7 +4,6 @@ slug: 'denik-stokorunove-bankovky'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Deník stokorunové bankovky je nový weblog s postřehy bankovky.
 - Globální náhled na Hlavě řadí příspěvky českých weblogů chronologicky.

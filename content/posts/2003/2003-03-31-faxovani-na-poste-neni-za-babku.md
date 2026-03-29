@@ -4,7 +4,6 @@ slug: 'faxovani-na-poste-neni-za-babku'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Fax byl nutný pro zaslání formuláře brokerovi do USA, email nebyl akceptován.
 - Pošta nabízí faxové služby, které autor využil pro odeslání tří stránek.

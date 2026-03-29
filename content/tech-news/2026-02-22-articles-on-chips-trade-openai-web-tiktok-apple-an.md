@@ -20,7 +20,7 @@ source:
   id: null
   name: Hoover.org
 title: Články o čipech, obchodu, OpenAI, webu, TikToku, Apple a sociálních sítích
-url: https://www.hoover.org/research/articles-chips-trade-openai-web-tiktok-apple-and-social-media
+source_url: https://www.hoover.org/research/articles-chips-trade-openai-web-tiktok-apple-and-social-media
 urlToImage: https://www.hoover.org/sites/default/files/styles/facebook/public/research/images/csgp_cyber.jpg?h=2d9e26d4&itok=eG4unC9X
 urlToImageBackup: https://www.hoover.org/sites/default/files/styles/facebook/public/research/images/csgp_cyber.jpg?h=2d9e26d4&itok=eG4unC9X
 ---

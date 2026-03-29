@@ -4,7 +4,6 @@ slug: 'kdyz-im-klient-tak-se-podivejte-na-qip'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Miranda vyžaduje rozsáhlé "vytunění" pomocí pluginů pro plnohodnotné používání.
 - Autor přešel na Qip, protože nabízí funkce Mirandy s pluginy již v základu.

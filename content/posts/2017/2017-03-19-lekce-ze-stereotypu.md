@@ -2,7 +2,6 @@
 slug: 'lekce-ze-stereotypu'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - Nedostatek slušného oblečení vyvolává obavy před prezentací na CeBITu.
 - Vágus hrající na piáno překvapí svým talentem a rozbije stereotypy.

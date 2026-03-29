@@ -4,7 +4,6 @@ slug: 'koupil-jsem-si-novy-access-point-i-tec'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Z-Com WiFi access point byl nahrazen kvůli jeho stáří a nefunkčnosti.
 - Orinoco AP-2500, s funkcemi pro hot-spoty, je zvažován jako budoucí upgrade.

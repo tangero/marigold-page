@@ -4,7 +4,6 @@ slug: 'linksys-dodava-802-11a-g-zarizeni-ruseni-wifi-z-bezdratovych-telefonu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Linksys dodává dualbandové WiFi produkty (G i A), ale do ČR se nedováží.
 - Planet pojednává o rušení WiFi bezdrátovými telefony.

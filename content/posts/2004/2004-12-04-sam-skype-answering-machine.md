@@ -4,7 +4,6 @@ slug: 'sam-skype-answering-machine'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - SAM je nový software pro záznam hovorů uživatelů Skypu.
 - Software SAM, zkratka Skype Answering Machine, je zdarma.

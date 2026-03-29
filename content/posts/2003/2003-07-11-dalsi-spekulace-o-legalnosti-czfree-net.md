@@ -4,7 +4,6 @@ slug: 'dalsi-spekulace-o-legalnosti-czfree-net'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - CZFree.NET řeší legálnost provozu a nutnost licence dle článku na Lupě.
 - ČTÚ se vyhnul přímé odpovědi ohledně posouzení sítě CZFree.NET.

@@ -4,7 +4,6 @@ slug: 'oskar-pujde-take-do-wifi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Oskar zvažuje WiFi síť jako alternativu k nezískané 3G licenci.
 - Oskar plánuje WiFi řešit roamingem nebo sdílením sítí, ne výstavbou.

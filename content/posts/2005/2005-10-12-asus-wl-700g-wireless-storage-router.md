@@ -4,7 +4,6 @@ slug: 'asus-wl-700g-wireless-storage-router'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Asus WL-700g je router s pozicí pro IDE disk a USB porty.
 - Afterburner technologie Broadcomu umožňuje teoretickou rychlost až 125 Mb/s.

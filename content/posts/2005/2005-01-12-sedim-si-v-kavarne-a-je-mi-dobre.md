@@ -4,7 +4,6 @@ slug: 'sedim-si-v-kavarne-a-je-mi-dobre'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Léky a krevní testy absolvovány, autor snídá v kavárně Piccadily.
 - Televize do bytu sháněna v Datartu a Carrefouru, s obtížemi.

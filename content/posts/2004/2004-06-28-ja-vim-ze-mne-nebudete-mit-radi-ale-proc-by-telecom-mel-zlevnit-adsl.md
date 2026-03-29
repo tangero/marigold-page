@@ -4,7 +4,6 @@ slug: 'ja-vim-ze-mne-nebudete-mit-radi-ale-proc-by-telecom-mel-zlevnit-adsl'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Instalace ADSL nestíhají poptávku, čekací doby dosahují měsíců.
 - Telecom raději prodává méně ADSL linek dráže kvůli omezené kapacitě instalací.

@@ -4,7 +4,6 @@ slug: 'hodinarsky-veletrh-a-vlastni-videostrih'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Práce autora zaznamenala změny po návratu z cest.
 - Autor stříhal video z hodinářského veletrhu Basel World 2007.

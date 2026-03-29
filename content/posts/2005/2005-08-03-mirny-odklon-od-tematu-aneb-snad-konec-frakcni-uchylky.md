@@ -4,7 +4,6 @@ slug: 'mirny-odklon-od-tematu-aneb-snad-konec-frakcni-uchylky'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Komentáře k CzechTeku byly uzavřeny kvůli návratu k telekomunikačním tématům.
 - Web Marigold spadl v pondělí kvůli náhlému nárůstu návštěvnosti.

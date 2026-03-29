@@ -4,7 +4,6 @@ slug: '802-11g-od-intelu-az-v-roce-2004-motorola-pouzije-do-svych-mobilu-cipovou
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Intel odkládá aktualizaci Centrino s podporou 802.11g na rok 2004, pravděpodobně
   až na duben.

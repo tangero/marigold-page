@@ -4,7 +4,6 @@ slug: 'valeski-opravnik-mych-omylu-a-dalsi-drobnosti'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Valeskiho odvolání řeší článek na Mobil.cz, zítra vyjde pokračování.
 - Zákazníci si SMS brány představují jednodušeji než XML a IPSec.

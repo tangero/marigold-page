@@ -4,7 +4,6 @@ slug: 'hromada-diveni-se-nad-nasimi-umts-licencemi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - UMTS licence další pokus o plnění státních a stranických pokladen.
 - Oskar dříve odmítl 3G licenci za 2 miliardy korun.

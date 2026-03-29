@@ -4,7 +4,6 @@ slug: 't-mobile-hotspoty-od-ledna-naostro-a-za-penize'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - T-Mobile zpoplatní WiFi hotspoty za čas, s platbou přes účet nebo platební kartu.
 - Cena jedné hodiny WiFi od T-Mobile CZ je 150 Kč, což je dražší než konkurence.

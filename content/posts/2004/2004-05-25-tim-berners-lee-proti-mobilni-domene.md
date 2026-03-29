@@ -4,7 +4,6 @@ slug: 'tim-berners-lee-proti-mobilni-domene'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Tim Berners-Lee odmítá doménu .mobi, považuje ji za odporující účelu internetu.
 - Internet by měl fungovat nezávisle na zařízení, softwaru a síti podle Berners-Leeho.

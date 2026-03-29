@@ -16,7 +16,7 @@ source:
   id: null
   name: Internet
 title: Útočník s podporou AI kompromitoval přes 600 zařízení FortiGate v 55 zemích
-url: https://thehackernews.com/2026/02/ai-assisted-threat-actor-compromises.html
+source_url: https://thehackernews.com/2026/02/ai-assisted-threat-actor-compromises.html
 urlToImage: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJJ0OGjlNTnrjpx23D3iKXHFeEEDiGO2GRCI-o4SmtGRuXcl5S4rAcjOqOBrfuI1g8E_pj6UQjQP-R2qfAsV08Oukshw6Inq8fUK83I9sLd3LwnPyWazzaQ3yUghSA3UL0j-BNz0tn2dCEQsG3MpACZKSXoKnM6nhyphenhyphenf727_4S_f3L8EU3fxDc332_6Swkm/s1700-e365/FortiGate.jpg
 urlToImageBackup: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJJ0OGjlNTnrjpx23D3iKXHFeEEDiGO2GRCI-o4SmtGRuXcl5S4rAcjOqOBrfuI1g8E_pj6UQjQP-R2qfAsV08Oukshw6Inq8fUK83I9sLd3LwnPyWazzaQ3yUghSA3UL0j-BNz0tn2dCEQsG3MpACZKSXoKnM6nhyphenhyphenf727_4S_f3L8EU3fxDc332_6Swkm/s1700-e365/FortiGate.jpg
 ---

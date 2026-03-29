@@ -4,7 +4,6 @@ slug: 'internet-z-elektricke-zasuvky-v-praze'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - ElectraStar nabízí v Praze komerční internet po elektrických rozvodech (Powerline).
 - Pražská energetika (PRE) zpřístupnila síť ElectraStar pro internetové přenosy.

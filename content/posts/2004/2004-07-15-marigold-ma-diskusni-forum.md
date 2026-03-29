@@ -4,7 +4,6 @@ slug: 'marigold-ma-diskusni-forum'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Marigold má nové diskusní fórum na adrese http://www.marigold.cz/forum.
 - PunBB Forum počeštil autor textu a Radek Hulán jej napasoval do BlogCMS.

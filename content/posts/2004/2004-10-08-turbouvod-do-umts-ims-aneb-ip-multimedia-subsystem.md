@@ -8,7 +8,6 @@ categories:
 - Turboúvod do mobilních sítí
 
   '
-published: true
 summary_points:
 - UMTS Release 5 integruje All-IP koncept IMS pro paketový přenos dat, hlasu a obrazu.
 - IMS v UMTS posouvá síť k bezdrátovému modelu s protokoly SIP a IPV6.

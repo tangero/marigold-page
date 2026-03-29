@@ -4,7 +4,6 @@ slug: 'pro-operu-opraveno'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Marigold měl chybu v HTML značkách, která způsobovala problémy v Opeře.
 - Radek Hulán poskytl cenné rady pro opravu zobrazení Marigoldu v Opeře.

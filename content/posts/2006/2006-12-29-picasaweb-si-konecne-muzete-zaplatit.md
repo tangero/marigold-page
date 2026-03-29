@@ -4,7 +4,6 @@ slug: 'picasaweb-si-konecne-muzete-zaplatit'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Picasaweb autora zaujal více než Flicker pro ukládání fotografií.
 - Google Picasaweb umožnil upload z iPhoto, což autor ocenil.

@@ -4,7 +4,6 @@ slug: 'u-novych-google-analytics-se-nemuzu-dohledat-par-funkci'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Nové Google Analytics postrádají detailní report Entrance Paths, zobrazují jen deset
   nejčastějších cest.

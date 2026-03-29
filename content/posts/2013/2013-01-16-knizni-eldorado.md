@@ -7,7 +7,6 @@ categories:
 - Příběh strýčka Martina
 
   '
-published: true
 summary_points:
 - Autor popisuje vnitřní motivaci jako klíčový problém při psaní knih.
 - Rozpracované knihy často "kysnou", protože autor dosáhl uspokojivého stavu v hlavě.

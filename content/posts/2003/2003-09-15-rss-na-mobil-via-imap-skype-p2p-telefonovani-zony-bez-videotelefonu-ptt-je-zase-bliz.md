@@ -4,7 +4,6 @@ slug: 'rss-na-mobil-via-imap-skype-p2p-telefonovani-zony-bez-videotelefonu-ptt-j
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Info Agregator umožňuje odebírat RSS zprávy na mobilu přes IMAP emailovou schránku.
 - Skype, P2P telefonní program od tvůrců Kazaa, funguje dobře i přes firewally.

@@ -7,7 +7,6 @@ categories:
 - Běh
 
   '
-published: true
 summary_points:
 - Autor začal běhat pro zdraví, ale Markéta pochybovala o jeho kondici.
 - SportTracker od Nokie sledoval autorovu trasu, ale brzy selhal.

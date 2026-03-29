@@ -17,7 +17,7 @@ source:
   id: null
   name: Alltoc.com
 title: Proč Pentagon požaduje od Anthropic otevření svého AI modelu?
-url: https://alltoc.com/world/why-is-the-pentagon-demanding-anthropic-open-its-ai-model
+source_url: https://alltoc.com/world/why-is-the-pentagon-demanding-anthropic-open-its-ai-model
 urlToImage: https://alltoc.com/cdn/1046/og.png
 urlToImageBackup: https://alltoc.com/cdn/1046/og.png
 ---

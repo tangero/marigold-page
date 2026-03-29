@@ -4,7 +4,6 @@ slug: 'druhy-dil-serialu-rychle-na-internet'
 author: Noname
 
   '
-published: true
 summary_points:
 - Rychle na Internet 2 se zabývá dial-upem a DSL připojením.
 - ČTÚ snížil propojovací poplatky, ale koncové ceny dial-upu se nezměnily.

@@ -4,7 +4,6 @@ slug: 'eurotel-nabral-za-mesic-7000-uzivatelu-cdma'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Eurotel získal 7000 uživatelů CDMA služby za první měsíc provozu.
 - Podmínky a ceny CDMA Eurotelu byly rozumnější než u ADSL Telecomu.

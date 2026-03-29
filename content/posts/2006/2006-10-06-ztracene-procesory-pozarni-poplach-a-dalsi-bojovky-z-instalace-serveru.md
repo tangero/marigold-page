@@ -4,7 +4,6 @@ slug: 'ztracene-procesory-pozarni-poplach-a-dalsi-bojovky-z-instalace-serveru'
 author: Vreco
 
   '
-published: true
 summary_points:
 - IBM servery dorazily do Opatovické, ale nevešly se do dveří.
 - Řidič náklaďáku servery převezl do TTC, kde je ručně vyložili.

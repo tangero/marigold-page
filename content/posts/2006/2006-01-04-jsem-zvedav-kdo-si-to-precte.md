@@ -4,7 +4,6 @@ slug: 'jsem-zvedav-kdo-si-to-precte'
 author: Noname
 
   '
-published: true
 summary_points:
 - Marigold byl Patrickem uzavřen, důvod a trvalost nejsou známy.
 - Autor nabídl Patrickovi pomoc s vedením Marigoldu, čeká na odpověď.

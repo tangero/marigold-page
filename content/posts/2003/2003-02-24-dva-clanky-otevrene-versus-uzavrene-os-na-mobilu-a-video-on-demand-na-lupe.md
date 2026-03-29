@@ -4,7 +4,6 @@ slug: 'dva-clanky-otevrene-versus-uzavrene-os-na-mobilu-a-video-on-demand-na-lup
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Článek na Mobil.cz shrnuje dilema otevřených vs. uzavřených OS v 3G telefonech.
 - Lupa.cz dnes zveřejní článek o problematice Video on Demand.

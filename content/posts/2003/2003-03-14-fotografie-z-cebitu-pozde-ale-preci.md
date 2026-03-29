@@ -4,7 +4,6 @@ slug: 'fotografie-z-cebitu-pozde-ale-preci'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Fotky z CeBITU nebyly odeslány včas kvůli technickým problémům.
 - Fotografie ukazují stav před oficiálním otevřením veletrhu.

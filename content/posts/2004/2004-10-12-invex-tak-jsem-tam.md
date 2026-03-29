@@ -4,7 +4,6 @@ slug: 'invex-tak-jsem-tam'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Invex 2008 byl slabý veletrh, autor jej prošel důkladně za dvě hodiny.
 - Pavilony Invexu 2008 jsou poloprázdné, výjimkou je Zetko s hrami.

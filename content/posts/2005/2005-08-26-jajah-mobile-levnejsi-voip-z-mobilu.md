@@ -4,7 +4,6 @@ slug: 'jajah-mobile-levnejsi-voip-z-mobilu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Jajah mobile je webová aplikace pro volání přes prohlížeč bez instalace.
 - Volání funguje na principu callback, což zvyšuje celkovou cenu hovoru.

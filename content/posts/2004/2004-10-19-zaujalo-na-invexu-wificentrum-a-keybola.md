@@ -4,7 +4,6 @@ slug: 'zaujalo-na-invexu-wificentrum-a-keybola'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Invex nabízel málo zajímavostí, ale WiFiCentrum, slovensko-český shop, upoutal pozornost.
 - WiFiCentrum nabízí levnější WiFi techniku a ceny zobrazuje až po přihlášení.

@@ -4,7 +4,6 @@ slug: 'prehledovy-cenik-adsl-a-dalsi-novinky'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Marigold má novou rubriku Přehled cen ADSL s informacemi o ADSL.
 - Komentáře si pamatují email a jméno i bez registrace.

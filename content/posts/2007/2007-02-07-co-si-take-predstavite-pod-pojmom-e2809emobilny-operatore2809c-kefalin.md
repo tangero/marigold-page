@@ -2,7 +2,6 @@
 slug: 'co-si-take-predstavite-pod-pojmom-e2809emobilny-operatore2809c-kefalin'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - MVNE dodává služby virtuálním operátorům (MVNO), kromě radiové sítě.
 - MobilKom získal od ČTÚ kód operátora 230 04 a předčíslí 790.

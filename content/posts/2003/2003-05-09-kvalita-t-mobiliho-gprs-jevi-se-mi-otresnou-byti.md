@@ -4,7 +4,6 @@ slug: 'kvalita-t-mobiliho-gprs-jevi-se-mi-otresnou-byti'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Svátky tráví autor u rodičů v Pardubicích a chce pracovat na knize.
 - T-Mobile GPRS Business s neomezenými daty má otřesnou rychlost a vypadává.

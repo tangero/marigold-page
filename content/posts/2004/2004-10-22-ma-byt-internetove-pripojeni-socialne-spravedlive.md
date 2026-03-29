@@ -4,7 +4,6 @@ slug: 'ma-byt-internetove-pripojeni-socialne-spravedlive'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - ODS považuje 1 Mb/s za vysokorychlostní internet, MI čtvrtinu.
 - Návrh zákona o elektronických komunikacích neřeší vymezení univerzální služby.

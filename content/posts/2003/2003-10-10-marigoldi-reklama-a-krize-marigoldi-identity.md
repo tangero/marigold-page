@@ -4,7 +4,6 @@ slug: 'marigoldi-reklama-a-krize-marigoldi-identity'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Marigold není weblog ani zpravodajský server, je subjektivní.
 - Marigold zavedl reklamní systém s platbou za proklik, bez bannerů.

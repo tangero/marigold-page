@@ -4,7 +4,6 @@ slug: 'linksys-predstavil-wifi-media-adaptor-pro-spotrebni-elektroniku'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Linksys představil WiFi adaptér 802.11b pro spotřební elektroniku s S-Video a audio
   vstupy.

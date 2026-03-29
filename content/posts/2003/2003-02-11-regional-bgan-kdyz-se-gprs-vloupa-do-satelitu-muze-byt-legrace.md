@@ -4,7 +4,6 @@ slug: 'regional-bgan-kdyz-se-gprs-vloupa-do-satelitu-muze-byt-legrace'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Regional Bgan nabízí rychlá satelitní data, o kterých se v Čechách nemluví.
 - Satelitní modem pro Bgan váží 1,6 kg a má USB, ethernet i bluetooth.

@@ -6,7 +6,6 @@ categories:
 - Knihy
 
   '
-published: true
 summary_points:
 - Kniha Marigoldí léta je dostupná na Kronium.cz za 350 Kč včetně poštovného a DPH.
 - Objednávky knihy budou expedovány od 4.11.2008, ideálně bez dobírky kvůli administrativě.

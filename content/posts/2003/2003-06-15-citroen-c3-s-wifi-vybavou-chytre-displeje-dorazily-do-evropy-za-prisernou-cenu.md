@@ -4,7 +4,6 @@ slug: 'citroen-c3-s-wifi-vybavou-chytre-displeje-dorazily-do-evropy-za-prisernou
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Citroen C3 Pluriel nově nabízí WiFi připojení, posun od GSM modemu.
 - Chytré displeje Smart Displays se začaly prodávat v Evropě.

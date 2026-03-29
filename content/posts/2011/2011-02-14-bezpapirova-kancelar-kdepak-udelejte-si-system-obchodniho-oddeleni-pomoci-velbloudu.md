@@ -6,7 +6,6 @@ categories:
 - Digitalizace
 
   '
-published: true
 summary_points:
 - Článek popisuje metodu "Ropná věž" pro organizaci obchodního oddělení pomocí papírových
   krabic.

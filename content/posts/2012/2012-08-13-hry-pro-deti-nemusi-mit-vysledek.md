@@ -7,7 +7,6 @@ categories:
 - Děti
 
   '
-published: true
 summary_points:
 - iPad se v rodině běžně používá pro zábavu dětí různého věku.
 - Aplikace pro nejmenší děti (1-4 roky) jsou málo intuitivní a složité.

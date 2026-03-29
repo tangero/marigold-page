@@ -8,7 +8,6 @@ categories:
 - Turboúvod do mobilních sítí
 
   '
-published: true
 summary_points:
 - UMTS není technický zázrak, vychází z GSM a nepřineslo revoluci.
 - Jádro sítě UMTS tvoří počítače řídící síť, například routery a ústředny.

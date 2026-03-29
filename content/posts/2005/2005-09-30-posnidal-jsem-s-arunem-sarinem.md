@@ -4,7 +4,6 @@ slug: 'posnidal-jsem-s-arunem-sarinem'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Oskar pořádal snídani s Arunem Sarinem, šéfem Vodafone.
 - Setkání se zúčastnili převážně netechnologičtí novináři.

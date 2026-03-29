@@ -4,7 +4,6 @@ slug: 'jak-je-to-s-pasmem-5-ghz'
 author: Noname
 
   '
-published: true
 summary_points:
 - GHz pásmo má různá subpásma s odlišnou regulací v Americe a Evropě.
 - MHz je jediné pásmo v ČR pro 5 GHz sítě s 25 mW maximem.

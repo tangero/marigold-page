@@ -4,7 +4,6 @@ slug: '10-ge-praha-brno-zive'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - CESNET zprovoznil 30. prosince 2004 10 Gb/s ethernet trasu Praha-Brno.
 - Trasa využívá nenasvícené vlákno s DWDM technologií CISCO Systems ONS 154xx.

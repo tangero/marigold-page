@@ -4,7 +4,6 @@ slug: 'wia-by-rada-pokryla-karlak'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WIA od VancoNet chce kvalitně pokrýt Karlovo náměstí WiFi signálem.
 - Karlovo náměstí je největší náměstí ve střední Evropě.

@@ -4,7 +4,6 @@ slug: 'databaze-hotspotu-aby-si-lide-nasli-wifi-je-tady'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Databáze WiFi hotspotů má poskytovat přehled funkčních WiFi sítí.
 - Provozovatelé hotspotů mohou zadávat data o svých sítích do databáze.

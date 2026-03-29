@@ -4,7 +4,6 @@ slug: 'kde-se-da-volit-ods-minus'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Volební letáčky prezentují "bídu a utrpení", kandidáti mají zajímavé lokální aktivity.
 - Televizní debata ČT1 byla nejasná, Kalousek překvapil, Němec mile překvapil.

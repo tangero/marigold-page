@@ -4,7 +4,6 @@ slug: '3g-tyden-situace-v-japonsku-email-a-emoji'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Email je v Japonsku "killer app" díky cenové výhodnosti oproti SMS.
 - Emoji jsou pro japonské operátory pilířem loajality uživatelů.

@@ -4,7 +4,6 @@ slug: 'mobilni-hry-na-bezdratove-strede'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Mobilní herní trh 2010 měl dosáhnout trojnásobku obratu PC her.
 - Eurotel vyžaduje u her češtinu, T-Mobile s tím nesouhlasí.

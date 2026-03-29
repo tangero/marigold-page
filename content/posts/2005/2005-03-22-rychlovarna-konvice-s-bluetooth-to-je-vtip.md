@@ -4,7 +4,6 @@ slug: 'rychlovarna-konvice-s-bluetooth-to-je-vtip'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - ETA Digita je první rychlovarná konvice s Bluetooth dle nalezeného článku.
 - Autor textu se ptá, zda konvice ETA Digita s Bluetooth skutečně existuje.

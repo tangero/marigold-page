@@ -4,7 +4,6 @@ slug: 'oskar-bude-reklamy-tocit-s-danem-ruzickou-berdar-nema-pevnou-linku'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Oskar bude točit reklamy s Danem Růžičkou, autorem prvních reklam Oskara.
 - Reklamy od McCann-Erickson

@@ -4,7 +4,6 @@ slug: 'za-tajemstvim-chytrych-hodinek-silnou-strankou-je-komunikace'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Chytré hodinky jsou užitečné pro rychlé notifikace bez nutnosti vytahovat mobil.
 - Fitbit Charge HR má problémy s přesností měření kroků a nepohodlným utahováním.

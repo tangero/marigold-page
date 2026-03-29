@@ -4,7 +4,6 @@ slug: 'ericsson-a-hsdpa'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Ericsson předpovídá 300 milionů WCDMA uživatelů do roku 2007.
 - Mobile Triple Play cílí na využití mobilů doma, v kanceláři i na cestách.

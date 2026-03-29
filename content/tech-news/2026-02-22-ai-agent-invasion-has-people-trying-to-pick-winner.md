@@ -17,7 +17,7 @@ source:
   id: null
   name: Japan Today
 title: Invaze AI agentů nutí vybírat vítěze
-url: https://japantoday.com/category/tech/ai-agent-invasion-has-people-trying-to-pick-winners
+source_url: https://japantoday.com/category/tech/ai-agent-invasion-has-people-trying-to-pick-winners
 ---
 
 ## Souhrn

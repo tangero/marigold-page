@@ -4,7 +4,6 @@ slug: 'baseballova-palka-se-rychle-ujala-jako-prostredek-project-managementu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Franciho příchod vedl k "de-digitalizaci" projektového plánování z OmniGraffle do
   papírové podoby.

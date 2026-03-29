@@ -4,7 +4,6 @@ slug: 'jak-nakreslit-zpravodajsky-server'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Root.cz redesign vyvolal kritiku, ale chybí konstruktivní návrhy na moderní design.
 - Zpravodajské servery řeší dilema mezi články, reklamou a uživatelskou přehledností.

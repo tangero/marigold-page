@@ -4,7 +4,6 @@ slug: 'flotila-zeme-je-v-prodeji'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Flotila Země, původně na Bloguje.cz, je nyní přílohou dubnové Pevnosti za 119 Kč.
 - Kniha Flotila Země obsahuje málo chyb, například chybné jméno "Adrien" místo "Adrian".

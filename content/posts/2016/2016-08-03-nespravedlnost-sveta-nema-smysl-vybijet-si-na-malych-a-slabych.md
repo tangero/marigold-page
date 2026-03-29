@@ -4,7 +4,6 @@ slug: 'nespravedlnost-sveta-nema-smysl-vybijet-si-na-malych-a-slabych'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Nespravedlnost světa se nevyřeší útoky na slabé, jen zvyšuje frustraci.
 - Pomoc cizincům vyvolává nesouhlas, ale odpor k nim nic neřeší.

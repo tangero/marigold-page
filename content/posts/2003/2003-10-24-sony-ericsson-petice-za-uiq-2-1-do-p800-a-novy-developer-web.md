@@ -4,7 +4,6 @@ slug: 'sony-ericsson-petice-za-uiq-2-1-do-p800-a-novy-developer-web'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Uživatelé SE P800 protestují kvůli chybějící aktualizaci UIQ2.1 od Ericssonu.
 - Ericsson spustil nový vývojářský web s placenými i bezplatnými registracemi.

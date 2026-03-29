@@ -7,7 +7,6 @@ categories:
 - Příběhy
 
   '
-published: true
 summary_points:
 - Autor instaloval Windows XP na iMac pro aktualizaci GPS map.
 - VMWare a Parallels vyžadují Windows XP SP2, které autor nemá.

@@ -4,7 +4,6 @@ slug: 'geekoviny-prismiq-media-player'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Prismiq Media Player sdílí video a hudbu z PC do domácího kina přes síť.
 - Podporované formáty zahrnují DivX, MPEG 1,2,4 a MP3, přehrávané na televizi.

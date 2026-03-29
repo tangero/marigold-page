@@ -4,7 +4,6 @@ slug: 'budoucnost-veletrhu'
 author: Noname
 
   '
-published: true
 summary_points:
 - IT/Telco firmy dotazovány na účast na novém, levnějším veletrhu v Praze.
 - Invexu účast firem zjišťována, včetně historie a důvodů účasti/neúčasti.

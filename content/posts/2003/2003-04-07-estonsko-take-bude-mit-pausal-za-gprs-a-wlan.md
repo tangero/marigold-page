@@ -4,7 +4,6 @@ slug: 'estonsko-take-bude-mit-pausal-za-gprs-a-wlan'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Radiolinja Eesti zavádí datový paušál pro GPRS a WiFi za 600 Kč měsíčně.
 - V Estonsku je v této službě registrováno 94 WiFi hotspotů.

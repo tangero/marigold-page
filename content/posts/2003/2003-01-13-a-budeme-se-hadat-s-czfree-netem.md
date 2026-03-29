@@ -4,7 +4,6 @@ slug: 'a-budeme-se-hadat-s-czfree-netem'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Článek o CzFree.netu vyvolal rozsáhlé diskuse na různých platformách.
 - Deu tvrdí, že pravidla CzFree jsou dostupná pouze členům sítě.

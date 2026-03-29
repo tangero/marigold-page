@@ -4,7 +4,6 @@ slug: 'drobne-novinky-v-ramci-moznosti'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Marigold má upravený vzhled, blok přesunutý doleva a dvousloupcový design.
 - Seznam majetkově vstoupil do Stream.cz, obchod a marketing Streamu přechází na Seznam.

@@ -4,7 +4,6 @@ slug: 'karneval-mych-dcer-a-rozdavani-odposlechovych-mouder'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Karneval v Liboci pořádali nadšenci bez sponzorů pro děti v maskách.
 - Vanda byla za Ferdu Mravence, Lída za žábu a obě plnily úkoly.

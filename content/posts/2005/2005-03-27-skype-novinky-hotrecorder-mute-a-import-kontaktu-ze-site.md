@@ -4,7 +4,6 @@ slug: 'skype-novinky-hotrecorder-mute-a-import-kontaktu-ze-site'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Hotrecorder nahrává Skype, AIM, Net2Phone a další VoIP přenosy, nabízí i zvukové
   efekty.

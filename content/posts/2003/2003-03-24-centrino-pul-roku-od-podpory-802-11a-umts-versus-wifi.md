@@ -4,7 +4,6 @@ slug: 'centrino-pul-roku-od-podpory-802-11a-umts-versus-wifi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Intel Centrino nebude prvních šest měsíců podporovat 802.11a standard.
 - MobilMania zveřejnila článek Martina Zikmunda o souboji UMTS a WiFi.

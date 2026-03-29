@@ -2,7 +2,6 @@
 slug: 'tajne-ingredience-ritualu-pro-deti'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - Společné smažení palačinek je rodinný rituál s přesným postupem a tradicí.
 - Vojta pomáhá od tří let, přidává se i Mařenka s rolí Míchače.

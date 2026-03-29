@@ -4,7 +4,6 @@ slug: 'rms-rapid-message-service'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - RMS je nová služba firmy HeyAnita podobná Push-to-Talk.
 - RMS funguje na 2G a vyšších sítích bez nutnosti nového telefonu.

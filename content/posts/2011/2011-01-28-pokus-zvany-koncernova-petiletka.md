@@ -6,7 +6,6 @@ categories:
 - eKnihy
 
   '
-published: true
 summary_points:
 - Elektronické knihy budou zkoušeny prakticky, včetně vydávání a hodnocení nákladů.
 - Kniha "Koncernová pětiletka" se dokončuje, zdržení způsobilo dopsání ztraceného

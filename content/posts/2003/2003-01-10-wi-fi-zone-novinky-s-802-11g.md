@@ -4,7 +4,6 @@ slug: 'wi-fi-zone-novinky-s-802-11g'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Wi-Fi Zone je certifikační služba pro hotspoty s poplatkem za registraci.
 - g router Linksys WRT54G se prodává na Amazonu za 133 USD.

@@ -4,7 +4,6 @@ slug: 'sean-gorman-disertacku-malem-neobhajil-chteli-ji-utajit'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Sean Gorman vytvořil digitální mapu USA s údaji o optických kabelech.
 - Mapa optických kabelů se ukázala jako potenciálně užitečná pro teroristy.

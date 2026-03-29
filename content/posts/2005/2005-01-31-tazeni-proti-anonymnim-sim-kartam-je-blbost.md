@@ -4,7 +4,6 @@ slug: 'tazeni-proti-anonymnim-sim-kartam-je-blbost'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Poslanec Turek (ČSSD) prosazuje povinnou registraci předplacených SIM karet.
 - Důvodem registrace SIM karet má být údajný boj proti kriminalitě.

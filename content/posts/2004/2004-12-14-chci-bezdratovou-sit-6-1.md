@@ -4,7 +4,6 @@ slug: 'chci-bezdratovou-sit-6-1'
 author: Noname
 
   '
-published: true
 summary_points:
 - Článek navazuje na seriál "Chci bezdrátovou síť" a vysvětluje retranslace.
 - Retranslace spojuje místa bez přímé viditelnosti pomocí retranslačního bodu.

@@ -4,7 +4,6 @@ slug: 'drobky-mytne-google-koupil-mobilni-socioware-wia-rlan-voip-u-unientu-za-p
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Mýtné elektronické mýtné prosazuje EU a velké koncerny, existují i jednodušší řešení.
 - Google koupil Dodgeball, americkou aplikaci pro vyhledávání přátel a komunikaci.

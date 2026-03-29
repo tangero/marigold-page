@@ -4,7 +4,6 @@ slug: 'intel-demonstroval-220-mbps-bezdratovy-prenos'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Intel demonstroval UWB přenos dat rychlostí až 220 Mbps na krátkou vzdálenost.
 - UWB technologie se využívá i v armádě pro sledování pohybu jednotek.

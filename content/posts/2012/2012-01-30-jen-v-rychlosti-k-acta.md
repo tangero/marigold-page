@@ -7,7 +7,6 @@ categories:
 - ACTA
 
   '
-published: true
 summary_points:
 - ACTA zasáhne internet a digitální zařízení, což ovlivní celou společnost.
 - Státní moc bude moci zabavovat digitální zařízení a kontrolovat nelegální kopie

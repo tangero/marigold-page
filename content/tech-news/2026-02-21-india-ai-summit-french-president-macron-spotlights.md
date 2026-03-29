@@ -20,7 +20,7 @@ source:
   name: Indiancatholicmatters.org
 title: 'India AI Summit: Francouzský prezident Macron vyzdvihl partnerství AI startupu
   se St. John’s Research Institute'
-url: https://www.indiancatholicmatters.org/india-ai-summit-french-president-macron-spotlights-ai-startup-partnership-with-st-johns-research-institute/
+source_url: https://www.indiancatholicmatters.org/india-ai-summit-french-president-macron-spotlights-ai-startup-partnership-with-st-johns-research-institute/
 urlToImage: https://www.indiancatholicmatters.org/wp-content/uploads/2026/02/Macron.jpg
 urlToImageBackup: https://www.indiancatholicmatters.org/wp-content/uploads/2026/02/Macron.jpg
 ---

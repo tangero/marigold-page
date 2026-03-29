@@ -4,7 +4,6 @@ slug: 'a-jede-se-na-cebit'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - CeBIT aktualizace webu bude až odpoledne nebo SMS z důvodu odjezdu.
 - Pracovní schůzky a telekomunikační seznam tvoří program CeBIT návštěvy.

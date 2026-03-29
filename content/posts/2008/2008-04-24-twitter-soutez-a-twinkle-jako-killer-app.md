@@ -7,7 +7,6 @@ categories:
 - Twitter
 
   '
-published: true
 summary_points:
 - Autor dříve Twitter nepoužíval, nyní ho používá díky aplikaci Twinkle.
 - Nelso a Twinkle pořádají první českou Twitter soutěž o iPod Touch.

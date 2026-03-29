@@ -4,7 +4,6 @@ slug: 'vlada-nechce-pritlacit-na-rychlejsi-internet'
 author: Noname
 
   '
-published: true
 summary_points:
 - Autor reaguje na článek iDnes o vládní podpoře rychlého internetu.
 - Vláda chce do roku 2006 dosáhnout 80% pokrytí vysokorychlostním internetem (256

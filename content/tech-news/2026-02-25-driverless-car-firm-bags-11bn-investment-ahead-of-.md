@@ -18,7 +18,7 @@ source:
   name: The-independent.com
 title: Britská firma na autonomní vozy získala investici 1,1 miliardy liber před velkým
   spuštěním ve Velké Británii
-url: https://www.the-independent.com/news/uk/home-news/wayve-britain-launch-self-driving-cars-b2926627.html
+source_url: https://www.the-independent.com/news/uk/home-news/wayve-britain-launch-self-driving-cars-b2926627.html
 urlToImage: https://static.the-independent.com/2023/04/18/18/MrdLbC2H-720.jpg?width=1200&height=800&crop=1200:800
 urlToImageBackup: https://static.the-independent.com/2023/04/18/18/MrdLbC2H-720.jpg?width=1200&height=800&crop=1200:800
 ---

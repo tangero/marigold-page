@@ -4,7 +4,6 @@ slug: 'petice-za-odstraneni-pozadavku-na-vyrobcem-stanovene-anteny-pro-2-4-a-5-g
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - ALPI peticí usiluje o zrušení šestého bodu návrhu všeobecného oprávnění.
 - ČTÚ chce v pásmech 2,4/5 GHz povolit jen antény doporučené výrobcem.

@@ -4,7 +4,6 @@ slug: 'eurotel-bude-schopen-ruzne-uctovat-prenesena-data-pro-mobilni-aplikace'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Eurotel implementuje ECS od NetSpiry pro diferencované účtování datových přenosů
   dle aplikace.

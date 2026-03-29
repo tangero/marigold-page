@@ -4,7 +4,6 @@ slug: 'referendum-a-byyyyyyyyyyyyyyyyyyyttttttttt'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Smlouva na byt v Zeleném údolí u Krčské nemocnice podepsána, stěhování plánováno
   na březen.

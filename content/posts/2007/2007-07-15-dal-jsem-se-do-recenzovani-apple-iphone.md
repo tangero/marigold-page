@@ -4,7 +4,6 @@ slug: 'dal-jsem-se-do-recenzovani-apple-iphone'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Recenze iPhonu na českých serverech jsou dle autora nedostatečné.
 - Autor se rozhodl napsat vlastní recenzi iPhonu kvůli nedostatku kvalitních recenzí.

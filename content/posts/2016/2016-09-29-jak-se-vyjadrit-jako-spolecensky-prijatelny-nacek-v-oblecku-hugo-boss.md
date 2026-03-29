@@ -4,7 +4,6 @@ slug: 'jak-se-vyjadrit-jako-spolecensky-prijatelny-nacek-v-oblecku-hugo-boss'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Ondřej Neff kritizuje přijímání migrantů jako dlouhodobý sociální problém.
 - Sociologové předpokládají, že migrace nezpůsobí zásadní společenské změny.

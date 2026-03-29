@@ -20,7 +20,7 @@ source:
   id: the-times-of-india
   name: The Times of India
 title: 'Mistral vidí AI jako utility s důrazem na efektivitu: Zakladatel Arthur Mensch'
-url: https://economictimes.indiatimes.com/tech/artificial-intelligence/mistral-sees-ai-as-utility-emphasis-more-on-efficiency-founder-arthur-mensch/articleshow/128630345.cms
+source_url: https://economictimes.indiatimes.com/tech/artificial-intelligence/mistral-sees-ai-as-utility-emphasis-more-on-efficiency-founder-arthur-mensch/articleshow/128630345.cms
 urlToImage: https://img.etimg.com/thumb/width-1200,height-900,imgsize-35728,resizemode-75,msid-128630345/tech/artificial-intelligence/mistral-sees-ai-as-utility-emphasis-more-on-efficiency-founder-arthur-mensch.jpg
 urlToImageBackup: https://img.etimg.com/thumb/width-1200,height-900,imgsize-35728,resizemode-75,msid-128630345/tech/artificial-intelligence/mistral-sees-ai-as-utility-emphasis-more-on-efficiency-founder-arthur-mensch.jpg
 ---

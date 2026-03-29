@@ -4,7 +4,6 @@ slug: 'wifi-antenu-telecomu-jsem-nedohledal'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WiFi Telecom v Praze nemá venkovní antény na Telepointech Jindřišská a Politických
   vězňů.

@@ -4,7 +4,6 @@ slug: 'dva-takove-ze-zivota'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Lída bude od září chodit do pohádkové školy s věžičkou.
 - Lída nechává maminku psát nečitelné zadání matematických příkladů.

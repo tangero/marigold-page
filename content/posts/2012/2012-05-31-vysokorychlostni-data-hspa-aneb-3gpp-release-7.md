@@ -8,7 +8,6 @@ categories:
 - Mobilní sítě
 
   '
-published: true
 summary_points:
 - HSPA+ rozšiřuje vysokorychlostní datové přenosy v Release 7 a 8.
 - MIMO (vícecestný vstup/výstup) zlepšuje kvalitu signálu pomocí více antén.

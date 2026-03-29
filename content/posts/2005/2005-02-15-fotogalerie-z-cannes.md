@@ -4,7 +4,6 @@ slug: 'fotogalerie-z-cannes'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Fotky z Cannes jsou dostupné ve fotogalerii na webu marigold.cz.
 - Články s fotkami z Cannes nebudou, kvůli časové tísni autora.

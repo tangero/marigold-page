@@ -21,7 +21,7 @@ source:
   name: Yahoo Entertainment
 title: Archer Aviation Inc. (ACHR) vyvine novou generaci leteckých technologií umělé
   inteligence s NVIDIA IGX Thor
-url: https://finance.yahoo.com/news/archer-aviation-inc-achr-develop-110310633.html
+source_url: https://finance.yahoo.com/news/archer-aviation-inc-achr-develop-110310633.html
 urlToImage: https://s.yimg.com/ny/api/res/1.2/WqFsgXcFe_SyQWUjJS3mTA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTY-/https://media.zenfs.com/en/insidermonkey.com/2ba8135ac801071f050e6ccf40ca7226
 urlToImageBackup: https://s.yimg.com/ny/api/res/1.2/WqFsgXcFe_SyQWUjJS3mTA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTY-/https://media.zenfs.com/en/insidermonkey.com/2ba8135ac801071f050e6ccf40ca7226
 ---

@@ -4,7 +4,6 @@ slug: 'soukromi-bude-za-priplatek-pokud-vubec'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Reklama invazivně proniká do všech oblastí života, včetně mobilních telefonů.
 - Mobilní operátoři a firmy využívají SMS spam a telefonáty k propagaci služeb.

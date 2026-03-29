@@ -6,7 +6,6 @@ audiooff: false
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - "iDNES vydal flashovou prezentaci o druh\xE9 sv\u011Btov\xE9 v\xE1lce s videoz\xE1\
   znamy."

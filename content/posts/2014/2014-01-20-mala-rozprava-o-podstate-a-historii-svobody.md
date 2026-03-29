@@ -4,7 +4,6 @@ slug: 'mala-rozprava-o-podstate-a-historii-svobody'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Svoboda byla po většinu lidské existence strašákem a vyhnanství bylo nejtvrdším
   trestem.

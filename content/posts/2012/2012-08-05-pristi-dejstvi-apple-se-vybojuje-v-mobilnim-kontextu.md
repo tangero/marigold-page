@@ -6,7 +6,6 @@ categories:
 - Apple
 
   '
-published: true
 summary_points:
 - Apple vnímán tápavě kvůli neprezentování budoucích plánů, na rozdíl od Microsoftu
   a Googlu.

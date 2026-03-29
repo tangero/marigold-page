@@ -4,7 +4,6 @@ slug: 'segue-softap-softwarovy-access-point-pro-windows'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Segue SoftAP vytváří z WiFi karty přístupový bod pro sdílení internetu.
 - Program podporuje WEP, WPA, dynamický routing a VPN pass-through.

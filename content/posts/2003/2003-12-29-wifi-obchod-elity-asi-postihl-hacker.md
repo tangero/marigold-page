@@ -4,7 +4,6 @@ slug: 'wifi-obchod-elity-asi-postihl-hacker'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Elity.cz obchod hlásí ztrátu dat a vyzrazení osobních údajů zákazníků.
 - Obchod Elity.cz má nefunkční nabídku zboží a pravděpodobně i objednávkový systém.

@@ -4,7 +4,6 @@ slug: 'vysledky-oskara-a-tiw-za-prvni-ctvrtleti-2003'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Oskar získal 90 800 zákazníků v 1Q/2003, celkem jich má 1 270 600.
 - procent nových Oskar zákazníků v 1Q/2003 si vybralo tarif.

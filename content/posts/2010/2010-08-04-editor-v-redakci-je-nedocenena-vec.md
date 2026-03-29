@@ -6,7 +6,6 @@ categories:
 - Média
 
   '
-published: true
 summary_points:
 - Online média šetří na editorech, což snižuje kvalitu článků.
 - Editor upravuje text pro cílové publikum a ověřuje fakta.

@@ -4,7 +4,6 @@ slug: 'adbrite-a-experimenty-s-videoreklamou'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - AdBrite je nadnárodní systém pro zprostředkování inzerce, který funguje automaticky.
 - AdBrite nově podporuje InVideo reklamu ve Flash videích (.flv soubory).

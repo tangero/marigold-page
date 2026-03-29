@@ -7,7 +7,6 @@ categories:
 - iPad
 
   '
-published: true
 summary_points:
 - iPadu chybí HDMI, USB, telefonování, multitasking, Flash a webkamera.
 - Autor se obává omezení aplikací třetích stran, zejména e-knih.

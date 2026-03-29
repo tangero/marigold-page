@@ -4,7 +4,6 @@ slug: 'kam-kraci-ceske-bezdratove-site-prave-zive'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Rábí hostí dvoudenní konferenci o budoucnosti českých bezdrátových sítí.
 - Konference Kam kráčí české bezdrátové sítě se koná na Šumavě.

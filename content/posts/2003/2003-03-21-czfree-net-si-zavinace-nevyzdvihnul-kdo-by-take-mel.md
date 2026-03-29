@@ -4,7 +4,6 @@ slug: 'czfree-net-si-zavinace-nevyzdvihnul-kdo-by-take-mel'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - 'Zavináč 2002: CzFree Net nevyzdvihnul cenu za Událost roku.'
 - 'CzFree Net: Ocenění hnutí rovnosti je problematické kvůli předání ceny.'

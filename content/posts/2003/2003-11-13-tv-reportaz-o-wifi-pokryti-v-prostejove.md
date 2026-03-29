@@ -4,7 +4,6 @@ slug: 'tv-reportaz-o-wifi-pokryti-v-prostejove'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Prostějov WiFi antény jsou umístěny vysoko na radnici, což může omezit dosah signálu.
 - Registrace k WiFi vyžaduje osobní návštěvu radnice s občanským průkazem, což je

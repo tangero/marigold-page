@@ -4,7 +4,6 @@ slug: 'webexponovan'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Webexpo autor navštívil poprvé, přednášel o Internet of Things v energetice.
 - Angličtina konference byla problematická pro řečníky i posluchače, snižovala živost.

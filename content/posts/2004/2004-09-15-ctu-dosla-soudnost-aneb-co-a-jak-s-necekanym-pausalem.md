@@ -4,7 +4,6 @@ slug: 'ctu-dosla-soudnost-aneb-co-a-jak-s-necekanym-pausalem'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - ČTÚ hodlá pokutovat firmy za internetové připojení mimo předvolbu 971.
 - ČTÚ dříve tolerovalo používání geografických čísel pro internet.

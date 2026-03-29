@@ -4,7 +4,6 @@ slug: 'linksys-produkty-802-11g-dorazi-do-cr'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Linksys vyhrává neoficiální soutěž o první 802.11g produkty v ČR.
 - První Linksys 802.11g produkty dorazí v polovině března s dostatečnou zásobou.

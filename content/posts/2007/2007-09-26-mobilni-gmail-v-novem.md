@@ -4,7 +4,6 @@ slug: 'mobilni-gmail-v-novem'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Gmail mobilní verze umožňuje skupinové operace (spam, archivace).
 - Nové rozhraní Gmailu je příjemnější a operace lépe dostupné.

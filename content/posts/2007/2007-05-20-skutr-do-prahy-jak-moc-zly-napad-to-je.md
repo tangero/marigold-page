@@ -4,7 +4,6 @@ slug: 'skutr-do-prahy-jak-moc-zly-napad-to-je'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Doprava do práce osm kilometrů trvá v Praze přes 40 minut, parkování je kilometr
   daleko.

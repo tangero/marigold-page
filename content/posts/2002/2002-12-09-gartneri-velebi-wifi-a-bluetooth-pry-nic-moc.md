@@ -4,7 +4,6 @@ slug: 'gartneri-velebi-wifi-a-bluetooth-pry-nic-moc'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Gartner předpovídá nárůst popularity WiFi a pokles Bluetooth v příštím roce.
 - Živě.cz publikoval zprávu o předpovědi Gartneru ohledně WiFi a Bluetooth.

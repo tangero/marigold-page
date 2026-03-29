@@ -4,7 +4,6 @@ slug: 'smutna-notebookova-smrt'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Internet a firemní síť byly v nové kanceláři zprovozněny, ale s drobnými komplikacemi.
 - Zrušení přihlašování do firemní sítě způsobilo nedostupnost vlastního notebooku.

@@ -4,7 +4,6 @@ slug: 'obcanska-kreativita-na-ucet-oskar-reklamy'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Oskar reklama parodována v posilovně nápisem "Jdete soupeři po ptáku? Oskar vám
   drží palce."

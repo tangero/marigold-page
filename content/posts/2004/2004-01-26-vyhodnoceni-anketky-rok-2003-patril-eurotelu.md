@@ -4,7 +4,6 @@ slug: 'vyhodnoceni-anketky-rok-2003-patril-eurotelu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Eurotel vyhrál anketu o operátora roku 2003 s 45 % hlasů.
 - Oskar získal v anketě o operátora roku 2003 38 % hlasů.

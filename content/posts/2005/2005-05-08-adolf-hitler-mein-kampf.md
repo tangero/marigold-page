@@ -4,7 +4,6 @@ slug: 'adolf-hitler-mein-kampf'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Vydání Mein Kampf v Česku vyvolalo spory o morálnosti, nikoliv o obsahu.
 - Kniha Mein Kampf je rozdělena do dvou částí, popisuje Hitlerův světonázor a NSDAP.

@@ -7,7 +7,6 @@ categories:
 - Příběhy
 
   '
-published: true
 summary_points:
 - Čínská výroba závisí na tandemu výrobce a majitele značky pro návrh a prodej.
 - Kvalita čínských výrobků je definována výrobním postupem a kontrolami kvality.

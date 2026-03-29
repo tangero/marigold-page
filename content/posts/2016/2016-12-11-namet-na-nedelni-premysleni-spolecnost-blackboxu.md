@@ -4,7 +4,6 @@ slug: 'namet-na-nedelni-premysleni-spolecnost-blackboxu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Blockchain je považován za inspirativní a průhlednou technologii.
 - Frank Pasquale popisuje společnost ovládanou utajenými algoritmy.

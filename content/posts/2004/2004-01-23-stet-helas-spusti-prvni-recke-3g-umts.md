@@ -4,7 +4,6 @@ slug: 'stet-helas-spusti-prvni-recke-3g-umts'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Řecký operátor STET Hellas spouští 27. ledna první 3G síť v Athénách a Thessalonikách.
 - Telefony Nokia 6650, Nokia 7600, Motorola A835 a Siemens U15 budou pro 3G dostupné.

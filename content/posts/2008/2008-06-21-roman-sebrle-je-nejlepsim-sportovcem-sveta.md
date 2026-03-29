@@ -6,7 +6,6 @@ categories:
 - Příběhy
 
   '
-published: true
 summary_points:
 - Roman Šebrle byl dle Wall Street Journal vyhlášen nejlepším sportovcem světa.
 - Šebrleho jméno se stalo nejhledanějším klíčovým slovem na Google.

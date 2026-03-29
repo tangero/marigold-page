@@ -4,7 +4,6 @@ slug: 'prodeje-wifi-zarizeni-rostou-je-tu-nekdo-koho-to-prekvapuje'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Prodej WiFi techniky vzrostl z 76 milionů USD v roce 2001 na 280 milionů v 2002.
 - Průměrná cena access pointu klesla z 136 USD na 87 USD v roce 2002.

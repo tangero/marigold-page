@@ -4,7 +4,6 @@ slug: 'proc-je-policie-tak-neoblibena'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Policie je nepopulární, protože více buzeruje než pomáhá občanům.
 - Autorovi policie udělila pokutu za propadlou STK krátce po servisu.

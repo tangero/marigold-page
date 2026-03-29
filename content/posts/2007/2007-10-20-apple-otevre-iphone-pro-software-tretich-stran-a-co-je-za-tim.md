@@ -4,7 +4,6 @@ slug: 'apple-otevre-iphone-pro-software-tretich-stran-a-co-je-za-tim'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Apple oznámil vývojářský kit pro iPhone, umožňující instalaci aplikací třetích stran.
 - Uživatelé a vývojáři hrozili vzpourou kvůli uzavřenosti iPhone, což Apple přimělo

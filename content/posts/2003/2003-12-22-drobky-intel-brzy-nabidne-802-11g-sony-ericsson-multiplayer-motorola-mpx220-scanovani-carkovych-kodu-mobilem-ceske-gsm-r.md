@@ -4,7 +4,6 @@ slug: 'drobky-intel-brzy-nabidne-802-11g-sony-ericsson-multiplayer-motorola-mpx2
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Intel nabídne podporu 802.11g v Centrino, očekáváno v prvním čtvrtletí 2004.
 - Sony Ericsson propaguje multiplayer hry Terraplay Move, konkurence pro Nokia N-Gage.

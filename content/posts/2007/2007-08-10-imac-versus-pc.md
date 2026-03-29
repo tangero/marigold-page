@@ -4,7 +4,6 @@ slug: 'imac-versus-pc'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Obrázek porovnává iMac od Apple s počítačem Dell.
 - Grafika zobrazuje srovnání vzhledu iMacu a PC Dell.

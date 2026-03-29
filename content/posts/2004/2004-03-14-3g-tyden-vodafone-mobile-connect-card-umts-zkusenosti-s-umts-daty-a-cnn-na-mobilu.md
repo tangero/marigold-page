@@ -4,7 +4,6 @@ slug: '3g-tyden-vodafone-mobile-connect-card-umts-zkusenosti-s-umts-daty-a-cnn-n
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Vodafone UMTS karta od Optionu stojí 861 euro bez závazku.
 - Datové tarify Vodafone Volume začínají na 10 eurech za 10 MB.

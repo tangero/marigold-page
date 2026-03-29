@@ -4,7 +4,6 @@ slug: 'dalsi-wifi-prednaska-na-invexu-bude-o-produktech-buffalo-a-reseni-pomoci-
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Přednáška BVV a DCD Publishing představí produkty Buffalo pro bezdrátové sítě.
 - Standard 802.11g a trendy v 2,4 GHz bezdrátových sítích budou popsány.

@@ -4,7 +4,6 @@ slug: 'd-link-predstavuje-a-b-g-router'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - D-Link DI-864 router podporuje WiFi standardy A, B, G a má 4 LAN porty.
 - Router D-Link DI-864 obsahuje DHCP server, web konfiguraci a NAT firewall.

@@ -4,7 +4,6 @@ slug: 't-mobile-predstavil-komercni-sluzbu-hotspot'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - T-Mobile spustil komerční provoz hotspotů celosvětově, včetně 30 v ČR.
 - Platba mobilem stojí 20 Kč za 15 minut po registraci SMS.

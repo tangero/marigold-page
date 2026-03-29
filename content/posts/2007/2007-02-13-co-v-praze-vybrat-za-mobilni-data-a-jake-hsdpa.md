@@ -4,7 +4,6 @@ slug: 'co-v-praze-vybrat-za-mobilni-data-a-jake-hsdpa'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Uživatel hledá HSDPA mobil pro mobilní připojení k notebooku přes Eurotel/O2.
 - Firma preferuje HSDPA kvůli smlouvě s Eurotelem, CDMA je méně výhodné.

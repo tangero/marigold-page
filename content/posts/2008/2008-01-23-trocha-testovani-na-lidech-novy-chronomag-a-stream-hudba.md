@@ -7,7 +7,6 @@ categories:
 - Příběhy
 
   '
-published: true
 summary_points:
 - Ariga konsoliduje portfolio webů s úhrnem dvou milionů zobrazení měsíčně.
 - Chronomag je vlajková loď, které se autor hodlá letos více věnovat.

@@ -4,7 +4,6 @@ slug: 'ctu-vydalo-licenci-povolujici-mimo-jine-koncova-zarizeni-cdma2000'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - ČTÚ vydalo generální licenci GL-45/R/2004 pro širokopásmová rádiová zařízení.
 - Eurotelu licence schvaluje provoz mobilních terminálů CDMA2000 v NMT pásmu.

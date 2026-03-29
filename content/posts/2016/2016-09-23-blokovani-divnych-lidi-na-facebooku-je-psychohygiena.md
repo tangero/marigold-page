@@ -4,7 +4,6 @@ slug: 'blokovani-divnych-lidi-na-facebooku-je-psychohygiena'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Blokování lidí na Facebooku kvůli nepříjemnosti není uzavírání se do bubliny.
 - Verifikace informací pomocí novin a statistik, nikoliv nekontrolovaného přijímání

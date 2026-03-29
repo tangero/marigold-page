@@ -4,7 +4,6 @@ slug: 'bill-gates-veri-v-mesh-site'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Gates předpovídá mesh sítím mainstream do pěti let, věří v jejich budoucnost.
 - Microsoft vyvíjí software pro mesh sítě, chce být lídrem trhu.

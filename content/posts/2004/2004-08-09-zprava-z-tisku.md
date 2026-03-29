@@ -4,7 +4,6 @@ slug: 'zprava-z-tisku'
 author: Noname
 
   '
-published: true
 summary_points:
 - CDMA rychlost klesá, extrapolace předpovídá 70-160 kbit/s koncem srpna.
 - CDMA má výhody v dostupnosti a novinářské podpoře, navzdory ceně.

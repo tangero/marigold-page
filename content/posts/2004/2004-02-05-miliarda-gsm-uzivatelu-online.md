@@ -4,7 +4,6 @@ slug: 'miliarda-gsm-uzivatelu-online'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - GSM asociace online počítá počet GSM klientů, blížících se jedné miliardě.
 - Autor se pokusil vložit kód pro online počítání na svou stránku.

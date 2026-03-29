@@ -4,7 +4,6 @@ slug: 'corinex-powernet-ethernet-pres-zasuvky-na-prvni-pokus'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WiFi router Linksys WRT54G má slabý signál v nejzazším pokoji bytu.
 - PAN-10 anténa nezlepšila signál přes železobetonové zdi.

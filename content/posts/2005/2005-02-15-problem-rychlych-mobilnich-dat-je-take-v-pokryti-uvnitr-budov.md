@@ -4,7 +4,6 @@ slug: 'problem-rychlych-mobilnich-dat-je-take-v-pokryti-uvnitr-budov'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - '% mobilních hovorů probíhá celosvětově uvnitř budov.'
 - Uživatelé očekávají rychlá data uvnitř budov, například v kavárnách.

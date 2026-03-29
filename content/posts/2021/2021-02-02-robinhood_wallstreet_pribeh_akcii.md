@@ -4,7 +4,7 @@ slug: 'robinhood_wallstreet_pribeh_akcii'
 categories:
 - Akcie
 - Vlastnictví
-date: 2.2.2021
+date: 2021-02-02
 excerpt: Tenhle příběh se stane epickou ságou o mnoha rozměrech. Že někdo prostřednictvím
   mobilní aplikace zbohatne, to se stává. Výjimečně i v miliardových částkách. Jenže
   příběh aplikace Robinhood pro hru s akciemi (správa portfolia bych tomu neříkal)

@@ -4,7 +4,6 @@ slug: 'sveasoft-uvolnil-alternativni-firmware-pro-wifi-routery-talisman-basic'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Sveasoft uvolnil zdarma firmware Talisman Basic pro WiFi routery.
 - Talisman Basic nabízí užitečné funkce pro domácí routery, ale ne hotspot.

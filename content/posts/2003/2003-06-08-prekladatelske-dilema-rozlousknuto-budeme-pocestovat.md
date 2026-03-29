@@ -4,7 +4,6 @@ slug: 'prekladatelske-dilema-rozlousknuto-budeme-pocestovat'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - České ekvivalenty budou upřednostňovány v knize pro laiky, kde existují zažité výrazy.
 - Vlastní překlady autor nezavádí, vyhýbá se takovým excesům jako "jaderná síť".

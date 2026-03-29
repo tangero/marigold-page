@@ -4,7 +4,6 @@ slug: 'boingo-chysta-roaming-s-widenetem'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Boingo chystá roaming s českou WiFi sítí WideNet, spuštění do dvou týdnů.
 - Uživatelé WideNetu mohou využívat Skype Zones pro připojení přes Boingo.

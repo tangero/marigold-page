@@ -4,7 +4,6 @@ slug: 'tlak-na-patenty-souvisi-s-uspechem-open-source'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - Softwarové patenty souvisí s tlakem na zveřejňování zdrojových kódů.
 - Velké firmy chtějí patenty jako pojistku proti konkurenci z Open Source.

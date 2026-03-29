@@ -4,7 +4,6 @@ slug: 'chci-bezdratovou-sit-6-2'
 author: Noname
 
   '
-published: true
 summary_points:
 - Pasivní retranslace využívá přesměrování nebo odraz signálu mezi body A a C.
 - Přesměrování signálu vyžaduje směrové antény a koaxiální kabel pro spojení.

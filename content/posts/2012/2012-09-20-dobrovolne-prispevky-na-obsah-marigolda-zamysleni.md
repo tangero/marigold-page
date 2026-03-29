@@ -6,7 +6,6 @@ categories:
 - Média
 
   '
-published: true
 summary_points:
 - Marigold má 4000 pravidelných čtenářů a náklady na provoz jsou 60 000 Kč měsíčně.
 - Každý čtenář Marigoldu by musel přispět 15 Kč měsíčně, aby se náklady pokryly.

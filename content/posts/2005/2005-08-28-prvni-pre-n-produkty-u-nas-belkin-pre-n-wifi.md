@@ -4,7 +4,6 @@ slug: 'prvni-pre-n-produkty-u-nas-belkin-pre-n-wifi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Belkin Pre-N produkty slibují až 800% větší pokrytí a 600% vyšší rychlost.
 - Technologie Pre-N využívá MIMO a chytré antény pro spolehlivý přenos multimédií.

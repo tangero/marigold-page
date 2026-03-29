@@ -7,7 +7,6 @@ categories:
 - iPhone
 
   '
-published: true
 summary_points:
 - iOS nemá dashboard kvůli zaměření na uživatele, pro které byl dashboard komplikovaný.
 - Dashboard představuje pro běžné uživatele shluk událostí bez třídění, což způsobuje

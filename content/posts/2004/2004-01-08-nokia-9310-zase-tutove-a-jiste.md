@@ -4,7 +4,6 @@ slug: 'nokia-9310-zase-tutove-a-jiste'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Nokia zvažuje nástupce komunikátoru 9210, spekulace se množí před 3GSM a CeBIT.
 - Nokia 9310 by se mohla objevit na 3GSM kongresu, zaměřeném na business zařízení.

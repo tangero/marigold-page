@@ -4,7 +4,6 @@ slug: '7-leta-ucednicka-stav-telekomunikaci-v-devadesatych-letech'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - České telekomunikace v 90. letech zaostávaly za světem kvůli státní politice.
 - SPT Telecom měl monopol na telefonní a datové sítě garantovaný státem.

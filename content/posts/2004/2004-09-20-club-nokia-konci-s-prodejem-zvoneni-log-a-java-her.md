@@ -4,7 +4,6 @@ slug: 'club-nokia-konci-s-prodejem-zvoneni-log-a-java-her'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Nokia končí s prodejem vyzváněcích tónů, log a java her na Club Nokia.
 - Club Nokia nikdy nekonkuroval portálům operátorů, byl spíše technologickým demoprojektem.

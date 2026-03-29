@@ -4,7 +4,6 @@ slug: 'recenze-na-nokia-9300'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Recenze Nokia 9300 od autora je publikována anonymně na Mobil.cz.
 - Autor nemůže publikovat sám kvůli omezenému přístupu do redakčního systému.

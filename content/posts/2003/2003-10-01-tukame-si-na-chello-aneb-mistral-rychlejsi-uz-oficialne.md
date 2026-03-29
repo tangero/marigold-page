@@ -4,7 +4,6 @@ slug: 'tukame-si-na-chello-aneb-mistral-rychlejsi-uz-oficialne'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - UPC mění značku Mistral na Chello kvůli holandské společnosti Chello.
 - Chello Classic nabízí 256/96 Kb/s, Chello Plus 512/128 Kb/s, ceny zůstávají.

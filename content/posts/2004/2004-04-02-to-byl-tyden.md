@@ -4,7 +4,6 @@ slug: 'to-byl-tyden'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor prožil frustrující týden plný pracovních neúspěchů a zmeškaných termínů.
 - MHD průkazka přinesla úlevu, ale i paranoidní obavy z jízdy načerno.

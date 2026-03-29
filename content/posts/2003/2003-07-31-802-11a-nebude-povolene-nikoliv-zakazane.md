@@ -4,7 +4,6 @@ slug: '802-11a-nebude-povolene-nikoliv-zakazane'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - ČTÚ nezakazuje, ale ani nepovoluje provoz zařízení 802.11a.
 - Provoz zařízení 802.11a je povolen pouze ve vnitřních prostorách.

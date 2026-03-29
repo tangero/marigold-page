@@ -4,7 +4,6 @@ slug: 'tyden-to-tu-osiri'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Ženeva bude cílem cesty autora příští týden za účelem odpočinku.
 - Přístupová hesla byla rozdána, server může být aktualizován nebo smazán.

@@ -4,7 +4,6 @@ slug: 'tryzna-na-vytekly-displej-notebooku-a-dalsi-delikatesy'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Týden začal nepříjemností a zpackaným výletem na Petřín s úrazem notebooku.
 - Notebook se po pádu poškodil, což komplikuje plánovanou práci v Cannes.

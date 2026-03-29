@@ -4,7 +4,6 @@ slug: 'kupte-si-plechovou-penezenku-a-dekujte-za-mytne-kapsch'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - České dráhy plánují sledovat pohyb cestujících pomocí RFID čipů ve slevových kartách.
 - Policie by mohla mít zájem o data z RFID čipů, pokud systém ČD spustí.

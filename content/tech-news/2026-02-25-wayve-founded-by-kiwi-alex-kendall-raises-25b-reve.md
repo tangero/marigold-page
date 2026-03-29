@@ -24,7 +24,7 @@ source:
   name: New Zealand Herald
 title: Wayve založený Novozélanďanem Alexem Kendallem získává 2,5 miliardy, Uber použije
   jeho technologii pro první robotaxi
-url: https://www.nzherald.co.nz/business/wayve-founded-by-kiwi-alex-kendall-raises-25b-reveals-uber-will-use-its-tech-for-its-first-robotaxis/premium/HJHKW5N4DZFOBA4IPMSPB7XFCE/
+source_url: https://www.nzherald.co.nz/business/wayve-founded-by-kiwi-alex-kendall-raises-25b-reveals-uber-will-use-its-tech-for-its-first-robotaxis/premium/HJHKW5N4DZFOBA4IPMSPB7XFCE/
 urlToImage: https://www.nzherald.co.nz/resizer/v2/HTHISMANYRFEJLXUFBJD2QPVKQ.jpg?auth=b1f69a84433cbe433722534bc27c3adc494e677980bcf63f9286412ef367dd0d&width=1200&height=675&quality=70&focal=1259%2C420&smart=false
 urlToImageBackup: https://www.nzherald.co.nz/resizer/v2/HTHISMANYRFEJLXUFBJD2QPVKQ.jpg?auth=b1f69a84433cbe433722534bc27c3adc494e677980bcf63f9286412ef367dd0d&width=1200&height=675&quality=70&focal=1259%2C420&smart=false
 ---

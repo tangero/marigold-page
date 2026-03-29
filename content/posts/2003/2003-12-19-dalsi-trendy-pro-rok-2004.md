@@ -4,7 +4,6 @@ slug: 'dalsi-trendy-pro-rok-2004'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor shrnuje zajímavé komentáře z diskusí o trendech roku 2004.
 - Noname předpovídá paušály dial-upu, levnější ADSL a EU vstup jako IT bod.

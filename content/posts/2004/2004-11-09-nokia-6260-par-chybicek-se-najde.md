@@ -4,7 +4,6 @@ slug: 'nokia-6260-par-chybicek-se-najde'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Nokia 6260 neumožňuje odeslat pořízenou fotografii fasády TopHOTELU.
 - Fotka je označena jako chráněný obsah, nelze ji kopírovat ani odeslat.

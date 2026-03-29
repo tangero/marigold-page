@@ -4,7 +4,6 @@ slug: 'motorola-mpx200-tak-ma-vypadat-propadak'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Motorola MPx200 je propadák kvůli chybějícímu fotoaparátu a bluetooth.
 - Chytré telefony se odlišují od běžných podporou složitějších aplikací a rozhraní.

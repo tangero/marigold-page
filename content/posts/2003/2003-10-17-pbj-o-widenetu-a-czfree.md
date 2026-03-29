@@ -4,7 +4,6 @@ slug: 'pbj-o-widenetu-a-czfree'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Prague Business Journal publikoval článek o pražských Wi-Fi sítích.
 - Článek se zaměřuje na WideNet a jeho provizní politiku.

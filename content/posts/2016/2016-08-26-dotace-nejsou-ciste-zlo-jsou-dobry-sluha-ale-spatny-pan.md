@@ -5,7 +5,6 @@ author: Patrick Zandl
 featured: true
 
   '
-published: true
 summary_points:
 - Dotace ničí podnikatelské prostředí, lze je zneužít a rozkrást.
 - Dotace v EU jsou projevem solidarity bohatších regionů s chudšími.

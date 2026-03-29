@@ -4,7 +4,6 @@ slug: 'series-60-tiskova-konference'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Smartphony v roce 2005 dosáhnou prodeje 50 milionů kusů, Series 60 z toho 20 milionů.
 - Series 60 třetí edice nabízí vylepšené hudební funkce, DRM a USB Mass storage.

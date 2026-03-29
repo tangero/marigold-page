@@ -7,7 +7,6 @@ categories:
 - LTE
 
   '
-published: true
 summary_points:
 - České mobilní datové tarify jsou drahé a nedostatečné, operátoři neinovují.
 - T-Mobile neplánuje inovace datové nabídky v nejbližších třech letech.

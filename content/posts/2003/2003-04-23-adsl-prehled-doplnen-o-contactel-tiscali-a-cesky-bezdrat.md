@@ -4,7 +4,6 @@ slug: 'adsl-prehled-doplnen-o-contactel-tiscali-a-cesky-bezdrat'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Přehled ADSL připojení byl doplněn o Contactel, Tiscali a Český Bezdrát.
 - Český Bezdrát nabízí levnější ADSL připojení, stojí za zvážení.

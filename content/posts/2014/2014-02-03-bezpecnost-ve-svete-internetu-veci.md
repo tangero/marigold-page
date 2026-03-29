@@ -4,7 +4,6 @@ slug: 'bezpecnost-ve-svete-internetu-veci'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Internet věcí zvýší efektivitu spotřeby zdrojů při zachování životní úrovně.
 - Bezpečnostní hrozby zahrnují kompromitaci dat, útoky na infrastrukturu a prvky sítě.

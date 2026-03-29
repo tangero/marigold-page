@@ -4,7 +4,6 @@ slug: 'rozdavam-moudra-na-lupe-ach-jo-to-zase-dopada'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Článek pro Lupu o vzniku úspěšných serverů slíbil autor Martinu Koptovi.
 - Marigold se autorovi zdál pro článek o úspěšných serverech nevhodný.

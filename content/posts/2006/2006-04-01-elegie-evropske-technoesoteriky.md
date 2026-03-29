@@ -4,7 +4,6 @@ slug: 'elegie-evropske-technoesoteriky'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Dědeček doporučil učit se dějiny z učebnic sousedů pro ponaučení.
 - Konstantinův edikt zavedl demagogickou víru v jedinou pravdu a nesnášenlivost.

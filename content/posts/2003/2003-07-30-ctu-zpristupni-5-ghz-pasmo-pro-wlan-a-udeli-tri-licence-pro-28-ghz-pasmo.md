@@ -4,7 +4,6 @@ slug: 'ctu-zpristupni-5-ghz-pasmo-pro-wlan-a-udeli-tri-licence-pro-28-ghz-pasmo'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - ČTÚ zpřístupní pásmo 5 GHz pro volné radiové sítě, ale 802.11a nebude povoleno.
 - Standardy 802.11h a HIPERLAN2 budou přípustné v pásmu 5 GHz.

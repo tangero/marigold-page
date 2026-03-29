@@ -4,7 +4,6 @@ slug: 'asijska-lekce-globalizace'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Globalizace definována jako tornádo v Tokiu způsobené mávnutím motýla v New Yorku.
 - Katastrofy v Arménii, Gruzii nebo Azerbajdžánu byly pro autora příliš abstraktní.

@@ -4,7 +4,6 @@ slug: 'dita-v-tanku'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Dovolená v červenci je plánovaná, Dita chce zlepšit imunitu hyperbarickou oxygenoterapií.
 - Hyperbarická oxygenoterapie znamená ležení v nádrži s kyslíkem, ne řízení tanku.

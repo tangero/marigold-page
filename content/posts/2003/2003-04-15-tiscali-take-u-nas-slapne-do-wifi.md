@@ -4,7 +4,6 @@ slug: 'tiscali-take-u-nas-slapne-do-wifi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Tiscali nabízí ADSL, satelitní připojení a partnerský program pro WiFi.
 - Partnerský WiFi program Tiscali vyžaduje individuální kontakt a není cenově jasný.

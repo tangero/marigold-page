@@ -4,7 +4,6 @@ slug: 'pripad-dolphin-telecom-konec-civilni-pamr-tetra'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Dolphin Telecom, PAMR síť, se potýkal s finančními problémy a nízkým zájmem.
 - TIW, Chase Manhattan a Motorola stáli za Dolphinem, který v roce 2001 zastavil vývoj.

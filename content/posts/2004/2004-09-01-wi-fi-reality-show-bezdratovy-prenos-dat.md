@@ -4,7 +4,6 @@ slug: 'wi-fi-reality-show-bezdratovy-prenos-dat'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Wi-Fi Reality Show se koná 7. září od 19:00 v konferenčním centru PWC.
 - Patrick Zandl zahájí přednáškou o bezdrátovém přenosu dat.

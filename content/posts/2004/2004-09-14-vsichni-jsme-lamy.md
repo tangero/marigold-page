@@ -4,7 +4,6 @@ slug: 'vsichni-jsme-lamy'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - Lamer.cz je česká databáze hlášek z IRC.
 - CZFree.Net hesla ke směrovačům jsou na Lamer.cz.

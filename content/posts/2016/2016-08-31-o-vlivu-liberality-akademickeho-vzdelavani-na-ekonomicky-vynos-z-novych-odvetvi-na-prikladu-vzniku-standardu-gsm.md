@@ -5,7 +5,6 @@ author: Patrick Zandl
 featured: true
 
   '
-published: true
 summary_points:
 - Švédsko v 70. letech investovalo do univerzit a propojilo je s průmyslem, což pomohlo
   Ericssonu.

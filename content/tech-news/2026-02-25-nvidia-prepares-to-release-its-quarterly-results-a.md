@@ -19,7 +19,7 @@ source:
   name: Abcnews.com
 title: Nvidia se připravuje zveřejnit čtvrtletní výsledky, zatímco obavy z AI tíží
   akciový trh
-url: https://abcnews.com/Technology/wireStory/nvidia-prepares-release-quarterly-results-ai-fears-weigh-130482137
+source_url: https://abcnews.com/Technology/wireStory/nvidia-prepares-release-quarterly-results-ai-fears-weigh-130482137
 urlToImage: https://i.abcnewsfe.com/a/2fd32307-3744-4b95-9c90-11db20778b2d/wirestory_855e9baff355da11f3a0420cca915ac7_16x9.jpg?w=1600
 urlToImageBackup: https://i.abcnewsfe.com/a/2fd32307-3744-4b95-9c90-11db20778b2d/wirestory_855e9baff355da11f3a0420cca915ac7_16x9.jpg?w=1600
 ---

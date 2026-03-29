@@ -22,7 +22,7 @@ source:
   name: The Times of India
 title: Velké technologické firmy investují v roce 2026 asi 650 miliard dolarů do AI,
   tvrdí Bridgewater
-url: https://economictimes.indiatimes.com/tech/artificial-intelligence/big-tech-to-invest-about-650-billion-in-ai-in-2026-bridgewater-says/articleshow/128721675.cms
+source_url: https://economictimes.indiatimes.com/tech/artificial-intelligence/big-tech-to-invest-about-650-billion-in-ai-in-2026-bridgewater-says/articleshow/128721675.cms
 urlToImage: https://img.etimg.com/thumb/width-1200,height-900,imgsize-47264,resizemode-75,msid-128721675/tech/artificial-intelligence/big-tech-to-invest-about-650-billion-in-ai-in-2026-bridgewater-says.jpg
 urlToImageBackup: https://img.etimg.com/thumb/width-1200,height-900,imgsize-47264,resizemode-75,msid-128721675/tech/artificial-intelligence/big-tech-to-invest-about-650-billion-in-ai-in-2026-bridgewater-says.jpg
 ---

@@ -4,7 +4,6 @@ slug: 'ufonova-tv-reklama'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - U:fon nabízí služby v Novodvorské plaze, ale autor je nepotřebuje.
 - Autor má rychlý internet doma, v práci i v mobilu (Nokia N95).

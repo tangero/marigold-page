@@ -7,7 +7,6 @@ categories:
 - Politika
 
   '
-published: true
 summary_points:
 - Největší problém je víra v řešení jedním krokem.
 - Odstranění korupčníků neznamená konec korupce, problémů je více.

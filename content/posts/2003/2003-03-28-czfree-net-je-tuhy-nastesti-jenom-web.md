@@ -4,7 +4,6 @@ slug: 'czfree-net-je-tuhy-nastesti-jenom-web'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - CzFree.Net web je neobvykle pomalý kvůli přesunu serveru na Anděl.
 - Timeout traceroute ukazuje na deusystems.com, což zhoršuje prohlížení webu.

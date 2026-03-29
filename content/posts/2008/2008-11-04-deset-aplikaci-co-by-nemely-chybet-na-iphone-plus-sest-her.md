@@ -8,7 +8,6 @@ categories:
 - Apple
 
   '
-published: true
 summary_points:
 - Fring kombinuje Skype, ICQ a SIP rozhraní pro volání a chat přes WiFi.
 - WiFinder vyhledává otevřené WiFi sítě a testuje připojení.

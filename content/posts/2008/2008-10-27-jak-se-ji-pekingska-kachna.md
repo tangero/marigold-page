@@ -6,7 +6,6 @@ categories:
 - Čína
 
   '
-published: true
 summary_points:
 - Pekingská kachna se nejí s knedlíkem a zelím jako česká.
 - Instruktážní video o správném jezení kachny natočili v Pekingu.

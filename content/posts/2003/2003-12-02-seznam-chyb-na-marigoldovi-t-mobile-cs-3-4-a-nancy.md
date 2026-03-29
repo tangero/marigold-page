@@ -4,7 +4,6 @@ slug: 'seznam-chyb-na-marigoldovi-t-mobile-cs-3-4-a-nancy'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - CS-3 a CS-4 kódování T-Mobile mění za provozu dle normy.
 - Výkonnost radiových sítí je obtížné porovnávat kvůli přetížení.

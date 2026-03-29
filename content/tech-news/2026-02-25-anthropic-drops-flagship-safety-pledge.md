@@ -18,7 +18,7 @@ source:
   id: time
   name: Time
 title: Anthropic opouští svůj hlavní bezpečnostní závazek
-url: https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/
+source_url: https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/
 urlToImage: https://api.time.com/wp-content/uploads/2026/02/Anthropic.jpg?quality=85&w=1200&h=628&crop=1
 urlToImageBackup: https://api.time.com/wp-content/uploads/2026/02/Anthropic.jpg?quality=85&w=1200&h=628&crop=1
 ---

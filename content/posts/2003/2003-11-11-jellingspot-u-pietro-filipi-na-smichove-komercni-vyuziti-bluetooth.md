@@ -4,7 +4,6 @@ slug: 'jellingspot-u-pietro-filipi-na-smichove-komercni-vyuziti-bluetooth'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Midletsoft spustil Jellingspot Data Server v butiku pietro filipi v Novém Smíchově.
 - Jellingspot Data Server zasílá zákazníkům elektronické kupóny a další data přes

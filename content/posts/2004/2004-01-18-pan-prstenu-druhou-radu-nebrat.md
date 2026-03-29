@@ -4,7 +4,6 @@ slug: 'pan-prstenu-druhou-radu-nebrat'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - 'Film Pán prstenů: Návrat krále viděli v Cinema City Zličín z druhé řady.'
 - Diváci měli kvůli blízkosti plátna z filmu špatný zážitek a křeč v krku.

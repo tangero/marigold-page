@@ -17,7 +17,7 @@ source:
   id: the-times-of-india
   name: The Times of India
 title: Čtyři polovodičové jednotky zahájí výrobu brzy, oznámil premiér Modi
-url: https://economictimes.indiatimes.com/tech/technology/four-semicon-units-to-begin-production-very-soon-says-pm-modi/articleshow/128678577.cms
+source_url: https://economictimes.indiatimes.com/tech/technology/four-semicon-units-to-begin-production-very-soon-says-pm-modi/articleshow/128678577.cms
 urlToImage: https://img.etimg.com/thumb/width-1200,height-900,imgsize-359266,resizemode-75,msid-128678577/tech/technology/four-semicon-units-to-begin-production-very-soon-says-pm-modi.jpg
 urlToImageBackup: https://img.etimg.com/thumb/width-1200,height-900,imgsize-359266,resizemode-75,msid-128678577/tech/technology/four-semicon-units-to-begin-production-very-soon-says-pm-modi.jpg
 ---

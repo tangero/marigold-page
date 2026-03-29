@@ -4,7 +4,6 @@ slug: 'reakce-na-jobsuv-drm-dopis-drm-bude-lepe-nechat-padnout'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Steve Jobs prosazuje odstranění DRM z hudby, což vyvolává odpor vydavatelů a tvůrců
   DRM.

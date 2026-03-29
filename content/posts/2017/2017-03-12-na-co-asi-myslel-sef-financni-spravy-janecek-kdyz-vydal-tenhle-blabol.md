@@ -2,7 +2,6 @@
 slug: 'na-co-asi-myslel-sef-financni-spravy-janecek-kdyz-vydal-tenhle-blabol'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - Finanční správa kritizovala Michala Bláhu za jeho názory na EET. Michal Bláha je
   známý podnikatel s dlouholetou transparentní historií. EET je považováno za neefektivní

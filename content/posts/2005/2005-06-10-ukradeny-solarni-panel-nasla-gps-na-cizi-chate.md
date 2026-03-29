@@ -4,7 +4,6 @@ slug: 'ukradeny-solarni-panel-nasla-gps-na-cizi-chate'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Solární panel napájel WiFi retranslaci pro kamaráda s problematickým připojením
   k internetu.

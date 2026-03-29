@@ -4,7 +4,6 @@ slug: 'edge-gprs-nebo-cdma'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - EDGE/GPRS je vhodné pro občasné uživatele s datovou spotřebou do desítek MB.
 - CDMA Eurotelu se hodí pro trvalé připojení s vyššími rychlostmi a objemy dat.

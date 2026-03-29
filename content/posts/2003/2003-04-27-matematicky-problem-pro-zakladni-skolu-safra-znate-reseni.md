@@ -4,7 +4,6 @@ slug: 'matematicky-problem-pro-zakladni-skolu-safra-znate-reseni'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WiFi kniha autora narazila na problém s výpočtem odvěsny pravoúhlého trojúhelníku.
 - Autor potřebuje vzorec pro výpočet náklonu antény ve vertikální rovině.

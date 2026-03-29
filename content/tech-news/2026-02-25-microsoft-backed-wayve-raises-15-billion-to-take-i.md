@@ -19,7 +19,7 @@ source:
   name: Business Insider
 title: Podporovaná Microsoftem společnost Wayve získala 1,5 miliardy dolarů na globální
   expanzi robotaxi
-url: https://www.businessinsider.com/wayve-funding-waymo-tesla-robotaxis-2026-2
+source_url: https://www.businessinsider.com/wayve-funding-waymo-tesla-robotaxis-2026-2
 urlToImage: https://i.insider.com/699dc9b6efb52c8bd0dec104?width=1200&format=jpeg
 urlToImageBackup: https://i.insider.com/699dc9b6efb52c8bd0dec104?width=1200&format=jpeg
 ---

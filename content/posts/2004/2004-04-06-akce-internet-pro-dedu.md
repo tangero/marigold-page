@@ -4,7 +4,6 @@ slug: 'akce-internet-pro-dedu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Děda projevil zájem o internet v 84 letech.
 - Připojení k internetu vyřešil GPRS modem Speeder od Tencomu.

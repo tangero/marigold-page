@@ -4,7 +4,6 @@ slug: 'valka-proti-terorismu-zapsana-v-shellu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Válka proti terorismu je demonstrována příkazovou řádkou Linuxu.
 - Blog ThinGuy na Sun.com ukazuje tuto linuxovou interpretaci.

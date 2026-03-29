@@ -4,7 +4,6 @@ slug: 'vitezem-tendru-na-rss-ctecku-se-stava-sharpreader'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - SharpReader vyhrál výběrové řízení na RSS čtečku kvůli chronologickému řazení příspěvků.
 - FeedDemon byl druhý finalista, ale byl placený a náročnější na paměť.

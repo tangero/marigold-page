@@ -4,7 +4,6 @@ slug: 'porusuje-o2-prava-k-ochranne-znamce'
 author: Noname
 
   '
-published: true
 summary_points:
 - O2 zavedlo službu Roam4Free, což upoutalo pozornost autora příspěvku.
 - Majitel irské firmy Roam4free má na název registrovanou ochrannou známku.

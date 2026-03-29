@@ -4,7 +4,6 @@ slug: 'uvolneni-pasma-5ghz-se-opet-odklada'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - RSC odložila uvolnění 5GHz pásma, finální schválení proběhne 2. června 2005.
 - ČTÚ čeká na EU regulace 5GHz, aby předešel problémům s lokálními předpisy.

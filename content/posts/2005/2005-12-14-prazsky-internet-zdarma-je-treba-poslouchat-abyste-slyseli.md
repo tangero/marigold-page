@@ -4,7 +4,6 @@ slug: 'prazsky-internet-zdarma-je-treba-poslouchat-abyste-slyseli'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - ALPI vydala prohlášení kritizující pražský magistrátní internet zdarma jako nepřijatelný.
 - Firmy zvažují žaloby proti magistrátu kvůli plánovanému internetu zdarma.

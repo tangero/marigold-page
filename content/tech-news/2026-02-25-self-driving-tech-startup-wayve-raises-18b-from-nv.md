@@ -22,7 +22,7 @@ source:
   name: TechCrunch
 title: Startup na autonomní řízení Wayve získal 1,8 miliardy dolarů od Nvidia, Uber
   a tří automobilových firem | TechCrunch
-url: https://techcrunch.com/2026/02/24/self-driving-tech-startup-wayve-raises-1-2b-from-nvidia-uber-and-three-automakers/
+source_url: https://techcrunch.com/2026/02/24/self-driving-tech-startup-wayve-raises-1-2b-from-nvidia-uber-and-three-automakers/
 urlToImage: https://techcrunch.com/wp-content/uploads/2026/02/Wayve-Germany-02.jpg?resize=1200,675
 urlToImageBackup: https://techcrunch.com/wp-content/uploads/2026/02/Wayve-Germany-02.jpg?resize=1200,675
 ---

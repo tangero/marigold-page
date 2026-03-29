@@ -4,7 +4,6 @@ slug: 'sms-jizdenka-malickosti-ktere-zabiji-fajn-sluzbu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - SMS jízdenka DP Praha funguje s velkým zpožděním, testovací jízdenka dorazila po
   14 minutách.

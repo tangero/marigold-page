@@ -4,7 +4,6 @@ slug: 'zenevo-sladka-zenevo-dorazili-jsme-na-itu-telecom-world'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Cesta do Ženevy proběhla přes noc, řidiči vypadají unaveně kvůli mlze.
 - Policie ve Švýcarsku kontrolovala auta na dálnici, auto reportérů jen odmávli.

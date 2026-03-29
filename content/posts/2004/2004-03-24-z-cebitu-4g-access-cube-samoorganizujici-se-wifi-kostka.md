@@ -4,7 +4,6 @@ slug: 'z-cebitu-4g-access-cube-samoorganizujici-se-wifi-kostka'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - G Access Cube od 4G Systeme GmbH je WiFi kostka s mesh sítí.
 - Access Cube samoorganizovaně routuje internetové připojení mezi propojenými kostkami.

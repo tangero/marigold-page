@@ -4,7 +4,6 @@ slug: 'jak-by-fungoval-mobilni-trh-kdyby-byl-svobodny'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Svoboda na trhu je omezena potřebou respektovat práva ostatních.
 - Mobilní trh bez regulace vede k chaosu a technologické nekompatibilitě.

@@ -4,7 +4,6 @@ slug: 'hypermarket-je-misto-predvolebnich-pribehu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Předvolební atmosféra v Brandýském Tescu vyvolává konflikty mezi zákazníky.
 - Zákazník je vulgárně napaden za přehlédnutí seniora při nákupu.

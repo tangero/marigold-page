@@ -4,7 +4,6 @@ slug: 'motorola-a-jeji-hsdpa-uplne-jina-kava'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Motorola předvedla HSDPA s reálnou rychlostí 9,6 Mb/s na jeden sektor.
 - Deset klientů streamovalo video, MP3 a prohlíželo web s latencí 50-70 ms.

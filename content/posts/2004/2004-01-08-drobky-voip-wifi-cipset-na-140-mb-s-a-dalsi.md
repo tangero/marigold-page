@@ -4,7 +4,6 @@ slug: 'drobky-voip-wifi-cipset-na-140-mb-s-a-dalsi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Mobil.cz pojednává o trendech internetové telefonie pro daný rok.
 - Světu sítí informuje o rozšíření Cisco Aironet o standard 802.11g.

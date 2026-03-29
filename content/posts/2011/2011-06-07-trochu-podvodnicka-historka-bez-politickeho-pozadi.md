@@ -6,7 +6,6 @@ categories:
 - Příběhy
 
   '
-published: true
 summary_points:
 - Schůzka na benzince Globus u IKEA se změnila v boj s bouřkou.
 - Autor promočený čekal na benzince, než se uklidní prudký déšť.

@@ -4,7 +4,6 @@ slug: 'tele2-oznacilo-adsl-za-nekvalitni-a-vraci-penize-gts-nebude-uctovat-data-
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Tele2 ukončuje nabízení ADSL, vrací peníze 300 zákazníkům a přechází na bezdrátové
   připojení.

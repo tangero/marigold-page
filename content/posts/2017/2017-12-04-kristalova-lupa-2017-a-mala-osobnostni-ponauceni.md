@@ -2,7 +2,6 @@
 slug: 'kristalova-lupa-2017-a-mala-osobnostni-ponauceni'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - Michal Bláha opět vyhrál Křišťálovou Lupu s projektem Hlídač Státu.
 - Ivo Lukačovič úspěšně rozjel globálně využívanou službu Windy.

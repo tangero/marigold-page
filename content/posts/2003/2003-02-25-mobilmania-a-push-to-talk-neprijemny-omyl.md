@@ -4,7 +4,6 @@ slug: 'mobilmania-a-push-to-talk-neprijemny-omyl'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - MobilMania článek o Push to talk chybně zaměňuje "push" s "tlačením".
 - Push to talk (PTT) je "Stiskni a mluv", simplexní komunikace pro vysílačky/telefony.

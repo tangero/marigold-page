@@ -4,7 +4,6 @@ slug: 'gts-bude-mit-vlastni-adsl-to-jsem-zvedav'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - GTS dříve kritizována za neposkytování ADSL na své síti v Praze.
 - GTS na Invexu představí vlastní verzi ADSL jako alternativu k Telecomu.

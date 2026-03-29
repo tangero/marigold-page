@@ -22,7 +22,7 @@ source:
   name: TechNode
 title: 'Generální ředitel Unitree: Schopnosti robotů odpovídají 10letému dítěti, masové
   nasazení za 3–5 let'
-url: http://technode.com/2026/02/21/unitree-ceo-says-robot-capability-comparable-to-10-year-old-large-scale-use-3-5-years-away/
+source_url: https://technode.com/2026/02/21/unitree-ceo-says-robot-capability-comparable-to-10-year-old-large-scale-use-3-5-years-away/
 urlToImage: https://technode.com/wp-content/uploads/2025/12/G1-1.png
 urlToImageBackup: https://technode.com/wp-content/uploads/2025/12/G1-1.png
 ---

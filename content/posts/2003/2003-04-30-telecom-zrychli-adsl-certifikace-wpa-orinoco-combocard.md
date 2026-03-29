@@ -4,7 +4,6 @@ slug: 'telecom-zrychli-adsl-certifikace-wpa-orinoco-combocard'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Český Telecom slíbil zrychlit ADSL na 512 Kbps download a 128 Kbps upload do prázdnin.
 - WiFi aliance certifikovala WPA zabezpečení pro firmy Atheros, Broadcom, Cisco, Intel,

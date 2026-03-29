@@ -4,7 +4,6 @@ slug: 'o-tom-kterak-se-neco-na-ceske-poste-zadrhlo'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Cinetik posílá DVD poštou, denně expeduje a přijímá stovky zásilek.
 - PO BOX je malý, větší zásilky se ukládají do koše na prádlo.

@@ -4,7 +4,6 @@ slug: 'drobky-sexymobil-zachytte-prdelky-fotomobilem-a-weblog-j-schwartze-prezid
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Sexymobil.com je český web pro lechtivé fotky z mobilních telefonů.
 - Nahrávání fotek na Sexymobil.com z mobilu přímo není možné.

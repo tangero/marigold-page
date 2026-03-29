@@ -2,7 +2,6 @@
 slug: 'proc-nejsem-politik-takova-mikrouvaha-o-tom-proc-lide-nejdou-do-politiky'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - Politika vyžaduje osobní nasazení, nečekání na zázračné řešení.
 - Politická kariéra znamená ztrátu soukromí a vysoké náklady.

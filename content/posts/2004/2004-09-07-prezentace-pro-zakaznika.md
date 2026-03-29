@@ -4,7 +4,6 @@ slug: 'prezentace-pro-zakaznika'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Práce se nahromadila a pracovní sinusoida se ustálila na horním extrému.
 - Firma prezentuje zákazníkům proces účtování XML dokumentů v mobilní síti.

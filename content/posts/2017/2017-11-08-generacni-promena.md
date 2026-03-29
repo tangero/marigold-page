@@ -2,7 +2,6 @@
 slug: 'generacni-promena'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - Autor, IT veterán, zažívá generační nepochopení kvůli svému věku.
 - Obchodníci a vývojáři často podceňují jeho znalosti a vnucují mu svá řešení.

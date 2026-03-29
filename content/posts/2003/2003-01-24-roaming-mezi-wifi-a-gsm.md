@@ -4,7 +4,6 @@ slug: 'roaming-mezi-wifi-a-gsm'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - RadioMobil organizuje Antibojkot, což vyvolalo živou diskusi na Mobil.cz.
 - Roaming mezi WiFi a GSM bude účtován operátorem, nikoliv technicky.

@@ -4,7 +4,6 @@ slug: 'boji-se-vas-administrator-skype-prirucka-sitoveho-admina-pro-skype-je-zde
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Skype vydal zdarma příručku pro správce sítí o dopadech na firemní sítě.
 - Příručka radí, jak nastavit firewall pro optimální soužití Skype a sítě.

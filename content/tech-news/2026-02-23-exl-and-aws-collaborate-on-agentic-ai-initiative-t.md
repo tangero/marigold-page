@@ -22,7 +22,7 @@ source:
   name: GlobeNewswire
 title: EXL a AWS spolupracují na iniciativě s agentic AI pro přetvoření IT správy
   služeb Sonos
-url: https://www.globenewswire.com/news-release/2026/02/23/3242841/9060/en/EXL-and-AWS-collaborate-on-agentic-AI-initiative-to-reshape-Sonos-IT-service-management.html
+source_url: https://www.globenewswire.com/news-release/2026/02/23/3242841/9060/en/EXL-and-AWS-collaborate-on-agentic-AI-initiative-to-reshape-Sonos-IT-service-management.html
 urlToImage: https://ml.globenewswire.com/Resource/Download/e97f61d3-2aeb-461f-8bf5-d683ac2b82db
 urlToImageBackup: https://ml.globenewswire.com/Resource/Download/e97f61d3-2aeb-461f-8bf5-d683ac2b82db
 ---

@@ -7,7 +7,6 @@ categories:
 - eKnihy
 
   '
-published: true
 summary_points:
 - E-ink displeje nabízejí vysoký kontrast a čitelnost na slunci, šetří energii.
 - Vizplex e-ink displeje druhé generace zrychlují zobrazení, zvyšují kontrast.

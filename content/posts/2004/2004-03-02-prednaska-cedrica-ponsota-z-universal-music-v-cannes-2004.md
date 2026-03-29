@@ -4,7 +4,6 @@ slug: 'prednaska-cedrica-ponsota-z-universal-music-v-cannes-2004'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Mobil nenahradí fotoaparáty, kamery ani MP3 přehrávače kvůli mizerné kvalitě.
 - Mobilní telefony zůstávají primárně hlasovými zařízeními, i vyzvánění je hlasová

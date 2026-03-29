@@ -4,7 +4,6 @@ slug: 'nokia-9500-a-dalsi-novinky-z-cannes'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Samsung SGH-D410 recenzentovi připadal velký a nepraktický, s nedostatečným využitím
   displeje.

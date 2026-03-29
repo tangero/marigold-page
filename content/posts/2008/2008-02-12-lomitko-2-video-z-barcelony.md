@@ -8,7 +8,6 @@ categories:
 - Podcast
 
   '
-published: true
 summary_points:
 - MWC 2008 video má technické problémy a provizorní úvod.
 - Video bylo stříháno v náročných podmínkách a s nespolehlivým iMovie 08.

@@ -8,7 +8,6 @@ categories:
 - Nintendo
 
   '
-published: true
 summary_points:
 - Wii nabízí hratelnost a přirozenější ovládání, ideální pro občasné hráče.
 - Grafika Wii je pohádková, záměrně se vyhýbá fotorealismu Xboxu.

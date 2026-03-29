@@ -4,7 +4,6 @@ slug: 'siemens-predstavi-v-cannes-nove-mobily-s-ptt-over-cellular'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Siemens představí v Cannes nové mobily s funkcí Push to talk over Cellular.
 - Dva nové mobily Siemens s PTT budou manažerský a terénní model.

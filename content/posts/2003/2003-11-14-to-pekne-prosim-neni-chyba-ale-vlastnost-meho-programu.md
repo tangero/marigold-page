@@ -4,7 +4,6 @@ slug: 'to-pekne-prosim-neni-chyba-ale-vlastnost-meho-programu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Marigold zobrazuje odkazy na nové články od poslední návštěvy uživatele.
 - Některé odkazy na nové články nemusí fungovat kvůli předgenerování titulní stránky.

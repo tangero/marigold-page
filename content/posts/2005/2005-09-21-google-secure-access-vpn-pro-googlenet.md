@@ -4,7 +4,6 @@ slug: 'google-secure-access-vpn-pro-googlenet'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Google popírá spekulace o GoogleNet, tvrdí, že jde jen o hotspoty v SF.
 - Google Secure Access je VPN pro zabezpečení nezabezpečeného internetu.

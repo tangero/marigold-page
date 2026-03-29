@@ -4,7 +4,6 @@ slug: 'windows-vista-je-spatny-system'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Článek o Windows Vista je parodie, autor se omlouvá za případné uražení uživatelů.
 - Autor kritizuje GUI Visty pro zastaralost a nepraktičnost ve srovnání s jinými systémy.

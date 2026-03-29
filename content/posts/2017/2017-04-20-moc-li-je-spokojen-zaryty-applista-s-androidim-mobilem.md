@@ -2,7 +2,6 @@
 slug: 'moc-li-je-spokojen-zaryty-applista-s-androidim-mobilem'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - Huawei P9 Lite s Androidem je užitný, ale vyžaduje zvykání.
 - Android nabízí méně konzistentní UX než iOS, s nekonzistentními ovládacími prvky.

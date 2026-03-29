@@ -4,7 +4,6 @@ slug: 'sladoucka-a-roztomila'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Sofie je jeden den stará.
 - Autor děkuje za četná přání.

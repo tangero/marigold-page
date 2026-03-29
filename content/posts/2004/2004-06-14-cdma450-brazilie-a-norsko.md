@@ -4,7 +4,6 @@ slug: 'cdma450-brazilie-a-norsko'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Norsko pronajímá frekvence 450 MHz firmě Nordisk Mobiltelefon na 15 let.
 - Nordisk plánuje stavět CDMA450 síť a pokrýt 80-90% Norska.

@@ -4,7 +4,6 @@ slug: 'na-co-je-pan-koubsky-expert'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor preferuje tištěné noviny před online obsahem pro retro atmosféru.
 - Online diskuze k rozhovoru s Koubským vyvolala u autora nevoli anonymními komentáři.

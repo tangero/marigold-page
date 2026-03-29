@@ -4,7 +4,6 @@ slug: 'linksys-ma-problemy-s-bezpecnosti-wrt54g-a-prinasi-update'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Linksys routery WRT54G umožňovaly dálkovou administraci i po vypnutí této funkce.
 - Nová beta verze firmware 2.02.8 od Linksysu tento problém s administrací řeší.

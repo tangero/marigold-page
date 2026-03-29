@@ -4,7 +4,6 @@ slug: 'intel-investuje-do-vivato-wifi-switch-je-na-svete'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Vivato uvádí WiFi switch s anténou na bázi fázového pole pro zvýšení dosahu.
 - Intel Communications Fund investuje 29 milionů dolarů do společnosti Vivato.

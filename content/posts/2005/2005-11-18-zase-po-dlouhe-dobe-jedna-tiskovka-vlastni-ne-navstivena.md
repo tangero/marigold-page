@@ -4,7 +4,6 @@ slug: 'zase-po-dlouhe-dobe-jedna-tiskovka-vlastni-ne-navstivena'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Wirenode pořádá tiskovou konferenci ve středu o internetových mikroplatbách a SMS.
 - Autor bude na tiskové konferenci na straně organizátorů, nikoliv novinářů.

@@ -4,7 +4,6 @@ slug: 'hurrraaaa-tri-dny-dovolene'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor slíbil Mobilringu článek, který včera napsal po návštěvě tiskové konference
   Eurotelu.

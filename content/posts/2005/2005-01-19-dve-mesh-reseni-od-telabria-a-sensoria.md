@@ -4,7 +4,6 @@ slug: 'dve-mesh-reseni-od-telabria-a-sensoria'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - CES veletrh ukázal mesh řešení, například Telabria CampusMesh pro kampusové sítě.
 - Telabria CampusMesh dosahuje 54 Mb/s a kombinuje vnitřní i venkovní prvky.

@@ -4,7 +4,6 @@ slug: 'skupina-lidi-shledala-stav-czfree-netu-kritickym-a-zaklada-freecz-net'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Clockovo odstranění z CzFree Netu vyvolalo nesouhlas aktivních členů.
 - Moderátoři CzFree reagovali smazáním diskusních příspěvků k tématu.

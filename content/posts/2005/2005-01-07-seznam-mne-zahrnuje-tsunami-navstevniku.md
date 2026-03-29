@@ -4,7 +4,6 @@ slug: 'seznam-mne-zahrnuje-tsunami-navstevniku'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Článek o tsunami fotografiích přivedl přes Seznam 5. ledna přes 1000 lidí.
 - Atlas přivedl ve stejný den zhruba 70 lidí, Centrum jednotky odkazů.

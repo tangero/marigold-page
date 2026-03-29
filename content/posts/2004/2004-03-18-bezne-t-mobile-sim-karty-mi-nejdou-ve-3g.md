@@ -4,7 +4,6 @@ slug: 'bezne-t-mobile-sim-karty-mi-nejdou-ve-3g'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Siemens U15 telefon v Hannoveru neumožnil konfiguraci MMS zpráv.
 - T-Mobile SIM karty často nejsou USIM kompatibilní pro 3G sítě.

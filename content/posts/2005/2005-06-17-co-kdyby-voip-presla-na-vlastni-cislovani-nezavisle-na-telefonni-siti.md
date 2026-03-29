@@ -4,7 +4,6 @@ slug: 'co-kdyby-voip-presla-na-vlastni-cislovani-nezavisle-na-telefonni-siti'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - FCC regulace VoIP zvyšuje náklady, omezuje svobodu a zavádí potenciální dohled.
 - Oddělení VoIP od telefonní sítě pomocí nového adresování by obešlo regulace.

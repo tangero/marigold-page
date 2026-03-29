@@ -4,7 +4,6 @@ slug: 'sluha-dvou-panu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor navštívil s Ditou představení Sluha dvou pánů v Národním divadle.
 - Donutil v roli Truffaldina autora nadchl, zejména improvizované monology.

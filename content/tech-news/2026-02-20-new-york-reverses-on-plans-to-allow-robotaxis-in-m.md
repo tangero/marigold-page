@@ -20,7 +20,7 @@ source:
   id: null
   name: SiliconANGLE News
 title: New York stahuje plány na povolení robotaxi, velká rána pro Waymo
-url: https://siliconangle.com/2026/02/19/new-york-reverses-plans-allow-robotaxis-major-blow-waymo/
+source_url: https://siliconangle.com/2026/02/19/new-york-reverses-plans-allow-robotaxis-major-blow-waymo/
 urlToImage: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/gibblesmash-asdf-Qr67ewAPBvY-unsplash.jpg
 urlToImageBackup: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/gibblesmash-asdf-Qr67ewAPBvY-unsplash.jpg
 ---

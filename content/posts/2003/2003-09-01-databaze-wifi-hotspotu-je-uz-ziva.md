@@ -4,7 +4,6 @@ slug: 'databaze-wifi-hotspotu-je-uz-ziva'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Databáze WiFi hotspotů obsahuje data T-Mobile, WIA, Českého Telecomu a nezávislých
   sítí.

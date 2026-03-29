@@ -4,7 +4,6 @@ slug: 'prehled-net-zazumpil-omlouvame-se'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Přehled.Net nefunguje od poloviny minulého týdne kvůli selhání disku.
 - Reinstalace proběhla, Chinin hledá zálohy dat Přehled.Net.

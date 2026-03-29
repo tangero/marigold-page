@@ -4,7 +4,6 @@ slug: 'the-simpsons-movie-2007-czech-cam-xvid-kde-stahovat'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Simpsonovi film s českým dabingem unikl na internet v nekvalitní kino verzi.
 - BontonFilm a ČPU likvidují odkazy na film a chystají trestní oznámení.

@@ -4,7 +4,6 @@ slug: 'oskarovu-reklamu-jiz-nebude-delat-mccann-erickson'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - McCann-Erickson končí po necelých dvou letech spolupráci s Českým Mobilem/Oskarem.
 - Oskar v roce 2002 utratil za reklamu 614 milionů korun.

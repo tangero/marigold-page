@@ -4,7 +4,6 @@ slug: 'tiskova-zprava-internetovy-mikroplatebni-system-pipay-cz-a-mt-sms'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Pipay.cz spuštěn společnostmi Pipeline a Wirenode jako mikroplatební systém pro
   digitální obsah.

@@ -4,7 +4,6 @@ slug: 'ktere-bile-zbozi-je-nejbelejsi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor porovnával ceny praček Bosch WFO 2442 BY a WFX 2440 v různých e-shopech.
 - Bílý svět.cz a A-A Elektro.cz nabízely nejnižší ceny praček Bosch.

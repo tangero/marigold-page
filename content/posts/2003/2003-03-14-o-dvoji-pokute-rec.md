@@ -4,7 +4,6 @@ slug: 'o-dvoji-pokute-rec'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Zákaz vjezdu ignorován, dcera Vanda uchránila autora od pokuty díky své nevinnosti.
 - Na dálnici z Teplic do Prahy autor překročil rychlost na 157 km/h.

@@ -4,7 +4,6 @@ slug: 'samer-a-lg-party'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - LG párty se konala, o čemž svědčí přiložená fotografie.
 - Samer byl přítomen na LG párty.

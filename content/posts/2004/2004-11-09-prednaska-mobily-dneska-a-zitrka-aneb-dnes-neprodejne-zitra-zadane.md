@@ -4,7 +4,6 @@ slug: 'prednaska-mobily-dneska-a-zitrka-aneb-dnes-neprodejne-zitra-zadane'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Přednáška "Mobily dneška a zítřka" je nahrána na server.
 - Prezentace ve formátu PowerPoint má velikost přes 3 MB.

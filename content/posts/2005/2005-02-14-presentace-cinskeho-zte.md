@@ -4,7 +4,6 @@ slug: 'presentace-cinskeho-zte'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - ZTE představilo tři nové 3G telefony (F868, F858, F808) a datovou kartu MF320.
 - Mobilní divize ZTE sídlí v Šanghaji, má 3500 zaměstnanců a 6% podíl na čínském trhu.

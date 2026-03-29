@@ -4,7 +4,6 @@ slug: 'era-nabidne-digitalni-podpis-mobilem-adsl-u-telecomu-zacalo-s-prazdninami
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Polský operátor Era nabízí digitální podpis pomocí mobilního telefonu a SIM karty.
 - Uživatelé ADSL od Telecomu hlásí problémy s logováním na dashboard.

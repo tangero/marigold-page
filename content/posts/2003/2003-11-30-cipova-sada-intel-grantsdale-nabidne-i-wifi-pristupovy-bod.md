@@ -4,7 +4,6 @@ slug: 'cipova-sada-intel-grantsdale-nabidne-i-wifi-pristupovy-bod'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Grantsdale čipové sady Intelu pro rok 2004 nabídnou funkci WiFi přístupového bodu.
 - Čipová sada Grantsdale bude určena pro domácí a středně výkonné osobní počítače.

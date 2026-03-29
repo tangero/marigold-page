@@ -4,7 +4,6 @@ slug: 'ja-uz-jsem-stara-generace-a-to-mi-je-tricet'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Redaktor Týdne zařadil autora do "staré" podnikatelské generace.
 - Autor bránil třicátníky, kteří neměli internet a mobily zadarmo.

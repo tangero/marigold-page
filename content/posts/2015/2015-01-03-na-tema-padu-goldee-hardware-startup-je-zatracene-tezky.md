@@ -5,7 +5,6 @@ author: Patrick Zandl
 featured: true
 
   '
-published: true
 summary_points:
 - Goldee skončilo kvůli selhání v přípravě gateway do výrobní série.
 - Hardwarové startupy jsou náročné na technické a procesní zajištění.

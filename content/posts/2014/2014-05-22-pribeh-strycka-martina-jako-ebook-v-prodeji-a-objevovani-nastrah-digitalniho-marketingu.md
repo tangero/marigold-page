@@ -4,7 +4,6 @@ slug: 'pribeh-strycka-martina-jako-ebook-v-prodeji-a-objevovani-nastrah-digitaln
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Ebook Příběh strýčka Martina je k dispozici na Palmknihách za 199 Kč.
 - Cena knihy ovlivňuje prodejnost, příliš nízká nebo vysoká cena škodí.

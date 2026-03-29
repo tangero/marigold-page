@@ -4,7 +4,6 @@ slug: 'tak-a-jsme-tady-a-hned-samsung-a-jeho-hsdpa'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Barcelona hostí kongres s reklamami na nové technologie, například Samsung s HSDPA.
 - Elektronický ticket nebyl problém, vytištěná verze byla ale preventivně užitečná.

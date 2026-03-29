@@ -4,7 +4,6 @@ slug: 'kongresova-prihoda-o-honzovych-teplych-koulich'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Účastníci kongresu kvůli spánkové deprivaci odešli dříve.
 - Honza koupil zmrzlé karbanátkové koule v hypermarketu.

@@ -4,7 +4,6 @@ slug: 'drobky-oskar-chce-umts-retusovana-fotka-reditele-siemensu-skype-a-hlasova
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Oskar Mobil podal žádost o UMTS licenci za 2 miliardy Kč.
 - ČTÚ zasedal ohledně tendru 872 MHz po výběru.

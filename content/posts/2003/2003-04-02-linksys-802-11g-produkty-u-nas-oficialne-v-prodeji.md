@@ -4,7 +4,6 @@ slug: 'linksys-802-11g-produkty-u-nas-oficialne-v-prodeji'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Linksys uvolnil produkty s 802.11g, dostupné u Levi a BlueCom.
 - WAP54G stojí 8700 Kč, WMP54G 3600 Kč, WRT54G 9300 Kč a WPC54G 3400 Kč.

@@ -4,7 +4,6 @@ slug: 'mobilni-noviny-jako-java-aplikace'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Mobilní noviny je Java aplikace iHned pro stahování zpráv a TV programu do telefonu.
 - Telefon uchovává minimálně 6 titulků zpráv v šesti informačních kanálech.

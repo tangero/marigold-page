@@ -4,7 +4,6 @@ slug: 'blockchain-jak-uvazovat-o-konceptu-s-nadeji-revoluce'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Blockchain je veřejná databáze transakcí s decentralizovanou a neměnnou strukturou.
 - Blockchain umožňuje chytré smlouvy, které automatizují podmíněné transakce.

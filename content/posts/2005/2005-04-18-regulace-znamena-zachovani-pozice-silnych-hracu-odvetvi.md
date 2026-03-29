@@ -4,7 +4,6 @@ slug: 'regulace-znamena-zachovani-pozice-silnych-hracu-odvetvi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Stádníkova nominace do Rady ČTÚ neprošla, což otevírá diskusi o regulaci telekomunikací.
 - Regulace telekomunikací zpravidla chrání silné, již zavedené hráče na trhu.

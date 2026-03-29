@@ -4,7 +4,6 @@ slug: 'access-point-s-podporou-wifi-a-bluetooth-aneb-apcka-s-bluetooth-nejsou-le
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Bluetooth připojení Palm Tungstena k internetu přes PC přestalo fungovat.
 - Autor zvažoval koupi bluetooth access pointu pro pohodlnější používání Palmu.

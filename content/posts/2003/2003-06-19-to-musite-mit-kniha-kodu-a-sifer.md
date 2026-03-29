@@ -4,7 +4,6 @@ slug: 'to-musite-mit-kniha-kodu-a-sifer'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Kniha kódů a šifer je úvod do šifrování a kryptografie.
 - Dita a Petr Koubský přeložili knihu Kódů a šifer.

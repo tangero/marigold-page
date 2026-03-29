@@ -4,7 +4,6 @@ slug: 'widenet-prevzat-nemeckym-airnyxem'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WideNet, WiFi poskytovatel, byl převzat společností AIRNYX CZ a.s. s německými partnery.
 - AIRNYX CZ a.s. získala značku WideNet a provozuje síť "W" s 45 hotspoty.

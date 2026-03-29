@@ -4,7 +4,6 @@ slug: 'cebit-je-pro-mne-temer-u-konce'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Mobilní telefony ukazují, jak asijští výrobci dohánějí velké značky.
 - Nokia těží z mnohaletého budování značky, Samsung se jí snaží následovat.

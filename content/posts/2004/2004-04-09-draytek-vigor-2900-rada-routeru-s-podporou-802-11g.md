@@ -4,7 +4,6 @@ slug: 'draytek-vigor-2900-rada-routeru-s-podporou-802-11g'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Draytek uvádí na trh novou řadu routerů Vigor 2900 s podporou 802.11g.
 - Vigor 2900 nabízí čtyři LAN porty, USB pro tiskárnu, NAT, firewall a VPN tunely.

@@ -4,7 +4,6 @@ slug: 'hotspoty-ceskeho-telecomu-pry-zadarmo-pritom-za-penize'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Hotspoty Českého Telecomu jsou nyní placené, ačkoliv provozovny to nevědí.
 - Propagační materiály v KFC, Pannerie a Nescafe Café stále uvádějí WiFi zdarma.

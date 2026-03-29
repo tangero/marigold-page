@@ -4,7 +4,6 @@ slug: 'obecni-internet-proc'
 author: Noname
 
   '
-published: true
 summary_points:
 - Obecní internet vyžaduje jasné "PROČ", jinak projekty selhávají.
 - Politici často nemají dostatečné IT znalosti pro efektivní obecní internet.

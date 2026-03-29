@@ -4,7 +4,6 @@ slug: 't-mobile-oficialne-potvrdil-spusteni-sve-umts-site'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Německý T-Mobile spustil 3G síť s funkčním handoverem mezi UMTS a GSM.
 - G síť T-Mobile využijí majitelé GSM/UMTS telefonů, například Nokia 7600 a 6650.

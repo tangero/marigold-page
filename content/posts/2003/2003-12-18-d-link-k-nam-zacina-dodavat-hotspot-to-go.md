@@ -4,7 +4,6 @@ slug: 'd-link-k-nam-zacina-dodavat-hotspot-to-go'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - D-Link HotSpot to go řešení umožňuje menším firmám zpoplatněné WiFi připojení.
 - DSA-3100 brána zajišťuje přihlašovací stránku, řízení šířky pásma a účtování času.

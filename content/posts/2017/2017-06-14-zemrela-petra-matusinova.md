@@ -2,7 +2,6 @@
 slug: 'zemrela-petra-matusinova'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - Petra Matušínová zemřela na rakovinu lymfatických uzlin.
 - Stála u zrodu prvních mobilních sítí v ČR i ve světě.

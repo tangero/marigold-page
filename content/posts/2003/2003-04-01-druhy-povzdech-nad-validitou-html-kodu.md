@@ -4,7 +4,6 @@ slug: 'druhy-povzdech-nad-validitou-html-kodu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Faxování z počítače nepomohlo, protože autor potřeboval odeslat ručně vyplněný formulář
   a kopii pasu.

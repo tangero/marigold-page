@@ -4,7 +4,6 @@ slug: 'idnes-narozeninova-party'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor se zúčastnil narozeninové párty iDNESu jako doprovod.
 - Na baru probíhala akce "Nálet na Saigon" s drinky B-52.

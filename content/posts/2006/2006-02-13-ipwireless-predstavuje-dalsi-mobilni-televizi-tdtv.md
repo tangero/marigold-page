@@ -6,7 +6,6 @@ audiooff: false
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - "IpWireless p\u0159edstavilo TDtv, vlastn\xED variantu mobiln\xED televize na 3GSM."
 - "TDtv vyu\u017E\xEDv\xE1 \u010Dasov\xFD duplex Internet4g a standard MBMS z UMTS\

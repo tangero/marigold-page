@@ -4,7 +4,6 @@ slug: 'marigoldi-vanocni-darek-pro-webshopy-s-wifi-technikou-reklamni-petistovka
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Marigold nabízí 500 Kč kredit na inzerci WiFi shopům za slevu pro zákazníky.
 - Sleva pro zákazníky z Marigoldu musí být minimálně jedno procento.

@@ -4,7 +4,6 @@ slug: 'cisco-metropolitan-mobile-network'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Cisco Metropolitan Mobile Network je metropolitní bezdrátová síť pro veřejný sektor.
 - Síť využívá Cisco Aironet hotspoty a routery Cisco 3200 s WiFi B/G.

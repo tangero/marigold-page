@@ -4,7 +4,6 @@ slug: 'navigace-v-bobtnajici-a-nesrozumitelne-webove-aplikaci'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Energomonitor řeší zjednodušení složitých energetických dat pro zákazníky.
 - Většina zákazníků chce šetřit peníze, ne rozumět energetickým pojmům.

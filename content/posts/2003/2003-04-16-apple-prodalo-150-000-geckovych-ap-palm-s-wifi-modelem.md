@@ -4,7 +4,6 @@ slug: 'apple-prodalo-150-000-geckovych-ap-palm-s-wifi-modelem'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Apple prodal přes 150 000 AirPort Extreme access pointů s 802.11g.
 - Tungsten C s WiFi a Intel procesorem má stát 500 USD.

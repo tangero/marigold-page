@@ -6,7 +6,6 @@ categories:
 - Sociální sítě
 
   '
-published: true
 summary_points:
 - Plaxo integruje sociální sítě a umožňuje automatickou aktualizaci kontaktů.
 - Autor omylem označil kontakty za obchodní, což způsobilo rozhořčení.

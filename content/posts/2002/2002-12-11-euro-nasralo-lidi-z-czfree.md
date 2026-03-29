@@ -4,7 +4,6 @@ slug: 'euro-nasralo-lidi-z-czfree'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Euro článek mylně spojil CzFree s warchalkingem, což vyvolalo reakci.
 - Autor článku Euro opakovaně zaměňuje komunitní WiFi sítě a warchalkery.

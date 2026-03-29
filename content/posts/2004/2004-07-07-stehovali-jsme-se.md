@@ -4,7 +4,6 @@ slug: 'stehovali-jsme-se'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Stěhování zahrnuje tisíce knih, které dočasně umístí do sklepa.
 - Nový nábytek nakupují postupně, začali ledničkou z Datartu.

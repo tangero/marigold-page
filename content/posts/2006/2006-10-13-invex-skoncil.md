@@ -4,7 +4,6 @@ slug: 'invex-skoncil'
 author: Noname
 
   '
-published: true
 summary_points:
 - SIPY dojednalo obchody na Invexu, které překročily plány, takže akce nebyla prodělečná.
 - BVV dělalo špatné kroky, například středa a čtvrtek byly ve znamení dětí-sběračů.

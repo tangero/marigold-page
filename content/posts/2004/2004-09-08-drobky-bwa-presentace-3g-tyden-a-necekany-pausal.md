@@ -4,7 +4,6 @@ slug: 'drobky-bwa-presentace-3g-tyden-a-necekany-pausal'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Přednáška o bezdrátových sítích na First Tuesday byla časově přetažena.
 - G Týden byl definitivně přesunut na server Mobil.cz.

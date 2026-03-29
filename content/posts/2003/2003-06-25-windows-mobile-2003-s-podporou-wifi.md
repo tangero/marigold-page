@@ -4,7 +4,6 @@ slug: 'windows-mobile-2003-s-podporou-wifi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Windows Mobile 2003 nativně podporuje WiFi a GSM/GPRS data.
 - Microsoft sjednocuje kódy PDA a SmartPhone pro konkurenci se Symbianem.

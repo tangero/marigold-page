@@ -4,7 +4,6 @@ slug: 'klfree-net-je-krok-pred-kolapsem'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - KlFree.Net valná hromada potvrdila setrvání sdružení a zvolila nové vedení.
 - Staré vedení KlFree.Net odneslo přístupové body a nabízí komerční WiFi.

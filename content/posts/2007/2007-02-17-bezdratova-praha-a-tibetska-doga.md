@@ -4,7 +4,6 @@ slug: 'bezdratova-praha-a-tibetska-doga'
 author: Noname
 
   '
-published: true
 summary_points:
 - Noname řešil problémy jiných, což mu zabralo 30 hodin práce.
 - Narodilo se sedm štěňat tibetské dogy rodičů autora, vítězů soutěží.

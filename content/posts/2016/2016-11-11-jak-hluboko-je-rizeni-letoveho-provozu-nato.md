@@ -4,7 +4,6 @@ slug: 'jak-hluboko-je-rizeni-letoveho-provozu-nato'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Aktualizoval jsem Průvodce Brandýsem a Boleslají s novými informacemi.
 - Podzemní řízení letového provozu NATO je hluboko pod úrovní ruských střel.

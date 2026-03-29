@@ -4,7 +4,6 @@ slug: '3g-tyden-situace-v-japonsku-operatori-a-penetrace'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Japonsko mělo v březnu 2004 přes 81 milionů mobilních uživatelů.
 - Mobilní internet dosahoval v Japonsku 84% penetrace mezi uživateli.

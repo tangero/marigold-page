@@ -2,7 +2,6 @@
 slug: 'sip-at-home'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - SIP at Home rozšiřuje OpenWRT pro routery, umožňující internetovou telefonii.
 - Router se SIP at Home funguje jako VoIP ústředna pro více telefonů.

@@ -4,7 +4,6 @@ slug: 'iphone-cisla-z-vikendu'
 author: Noname
 
   '
-published: true
 summary_points:
 - iPhone prodal 500 tisíc kusů za první víkend v USA, 2,5 násobek očekávání.
 - Dražší 8GB model iPhonu koupilo 95 % zákazníků, generoval tržby 297 milionů dolarů.

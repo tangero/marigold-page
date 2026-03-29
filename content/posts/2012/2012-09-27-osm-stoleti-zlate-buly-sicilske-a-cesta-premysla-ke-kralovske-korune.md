@@ -6,7 +6,6 @@ categories:
 - Historie
 
   '
-published: true
 summary_points:
 - Zlatá bula sicilská z roku 1212 potvrdila Přemyslu I. královský titul.
 - Fridrich II. listinou stvrzoval něco, co Přemysl již dříve získal.

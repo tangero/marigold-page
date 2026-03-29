@@ -4,7 +4,6 @@ slug: 'sef-t-mobile-rene-obermann-proti-dotacim-telefonu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Obermann chce ukončit dotování mobilních telefonů kvůli vysoké penetraci trhu.
 - T-Mobile mění systém dotací, protože nepodporují věrnost zákazníků.

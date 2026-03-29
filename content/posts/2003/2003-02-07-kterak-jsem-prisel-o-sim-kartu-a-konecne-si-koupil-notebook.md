@@ -4,7 +4,6 @@ slug: 'kterak-jsem-prisel-o-sim-kartu-a-konecne-si-koupil-notebook'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Testovací SIM karta Eurotelu zrušena kvůli klonování, autor zůstává s Paegasem a
   Oskarem.

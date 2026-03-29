@@ -6,7 +6,6 @@ categories:
 - Marigold
 
   '
-published: true
 summary_points:
 - Autor opustil Lupu po měsíci a Marigold během jeho působení trpěl.
 - Marigold se zaměří na důležitá témata mimo mainstreamová média.

@@ -4,7 +4,6 @@ slug: 'telecom-ma-pry-wifi-sit-na-wia-se-ale-zapomnelo'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Europemedia článek o WiFi sítích opomíjí největší síť, WIA VancoNet.
 - Český Telecom buduje hotspoty bez zabezpečení a s mizerným pokrytím.

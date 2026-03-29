@@ -4,7 +4,6 @@ slug: 'opravdu-ma-marigold-cz-tak-hnusny-design'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Marigold design kritizován jako "vysloveně hnusný" v emailech.
 - Autor získal design od Míry Kučery, původně pro Mobil.cz.

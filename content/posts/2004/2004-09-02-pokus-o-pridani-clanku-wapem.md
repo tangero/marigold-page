@@ -4,7 +4,6 @@ slug: 'pokus-o-pridani-clanku-wapem'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WAP přidávání článků bylo autorovou dlouhodobou touhou.
 - Autor nepotřebuje WAP přidávání článků, ale chce ho mít.

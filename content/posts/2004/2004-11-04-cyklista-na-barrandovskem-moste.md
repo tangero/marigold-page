@@ -4,7 +4,6 @@ slug: 'cyklista-na-barrandovskem-moste'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Cyklista jel ve středním pruhu Barrandovského mostu.
 - Autor dříve zvažoval jízdu na kole do práce.

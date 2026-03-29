@@ -4,7 +4,6 @@ slug: 'registroval-jsem-k-dph-ano-opravdu-mne-pustili-k-uradovani'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Mobil Media zakazovala autorovi styk s úřady kvůli zmatkům a kontrolám.
 - Nový zaměstnavatel autora pověřil stykem s úřady a registrací k DPH.

@@ -6,7 +6,6 @@ categories:
 - iPhone
 
   '
-published: true
 summary_points:
 - iPhone 3G 8GB stojí bez tarifu 11 995 Kč, 16GB verze pak 14 095 Kč.
 - Tarif iPhone M nabízí 8GB za 5995 Kč, 16GB za 7995 Kč plus 600 Kč měsíčně.

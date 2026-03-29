@@ -2,7 +2,6 @@
 slug: 'jak-moc-vymknuta-je-doba-z-normality-kdyz-je-pozvanka-na-snidani-problem'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - Ministr Babiš pozval autora na snídani, což vyvolalo veřejný rozruch.
 - Autor věří v jednání a kompromisy, odmítá revoluční myšlení a rozdělenou společnost.

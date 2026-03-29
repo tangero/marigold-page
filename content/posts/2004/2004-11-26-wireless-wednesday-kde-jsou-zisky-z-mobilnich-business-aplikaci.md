@@ -4,7 +4,6 @@ slug: 'wireless-wednesday-kde-jsou-zisky-z-mobilnich-business-aplikaci'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Bezdrátová středa 1.12. v Anděls hotelu se zaměří na zisky z mobilních aplikací.
 - Marigold čtenáři mají vstup zdarma s kódem "marigold" při registraci.

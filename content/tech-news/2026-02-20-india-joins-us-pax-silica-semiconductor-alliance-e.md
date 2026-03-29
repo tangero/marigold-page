@@ -18,7 +18,7 @@ source:
   name: Fortune
 title: Indie se připojuje k americké polovodičové alianci ‚Pax Silica‘, což uvolňuje
   napětí v tarifech a energetice
-url: https://fortune.com/2026/02/20/india-us-pax-silica-semiconductor-alliance-ai-summit/
+source_url: https://fortune.com/2026/02/20/india-us-pax-silica-semiconductor-alliance-ai-summit/
 urlToImage: https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2252028024-e1771613101789.jpg?resize=1200,600
 urlToImageBackup: https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2252028024-e1771613101789.jpg?resize=1200,600
 ---

@@ -4,7 +4,6 @@ slug: 'pripominka-k-navrhu-ctu-by-zui-ipv'
 author: Noname
 
   '
-published: true
 summary_points:
 - Internet Pro Všechny zveřejnil připomínku k návrhu všeobecného oprávnění.
 - Připomínka se týká provozování bezdrátových sítí v pásmu 5 a 2,4 GHz.

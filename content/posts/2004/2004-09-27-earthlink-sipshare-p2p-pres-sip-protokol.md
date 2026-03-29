@@ -4,7 +4,6 @@ slug: 'earthlink-sipshare-p2p-pres-sip-protokol'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - SIPshare demonstruje sílu SIP protokolu P2P sdílením dat.
 - SIPshare je P2P program napsaný v Javě s fulltextovým vyhledáváním.

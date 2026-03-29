@@ -4,7 +4,6 @@ slug: 'bezdratovy-ethernet-adapter-bez-mereni-sily-signalu-to-je-lahudka'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Bezdrátové ethernet adaptéry mají nezvládnutý Site Survey pro měření okolních sítí.
 - Site Survey adaptérů zobrazuje jen jméno sítě a MAC adresu, což je nedostatečné.

@@ -21,7 +21,7 @@ source:
 title: ASML dosáhla průlomu v EUV technologii výroby čipů, plánuje zvýšit rychlost
   o 50 % do roku 2030 – nový zdroj světla o výkonu 1000 wattů střílí tři lasery na
   100 000 kapek cínu za sekundu
-url: https://www.tomshardware.com/tech-industry/semiconductors/asml-makes-breakthrough-in-euv-chipmaking-tech-plans-to-increase-speed-by-50-percent-by-2030-new-1-000-watt-light-source-fires-three-lasers-at-100-000-tin-droplets-every-second
+source_url: https://www.tomshardware.com/tech-industry/semiconductors/asml-makes-breakthrough-in-euv-chipmaking-tech-plans-to-increase-speed-by-50-percent-by-2030-new-1-000-watt-light-source-fires-three-lasers-at-100-000-tin-droplets-every-second
 urlToImage: https://cdn.mos.cms.futurecdn.net/MqQcLuXtcS9FPhQiZeDavC-2560-80.jpg
 urlToImageBackup: https://cdn.mos.cms.futurecdn.net/MqQcLuXtcS9FPhQiZeDavC-2560-80.jpg
 ---

@@ -4,7 +4,6 @@ slug: 'nokia-series-60-python'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Python pro Nokia Series 60 umožňuje plný přístup k GUI.
 - Aplikace pro Nokie bude možné vyvíjet přímo v mobilu.

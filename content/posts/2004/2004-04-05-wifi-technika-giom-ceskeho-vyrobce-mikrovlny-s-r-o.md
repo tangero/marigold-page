@@ -4,7 +4,6 @@ slug: 'wifi-technika-giom-ceskeho-vyrobce-mikrovlny-s-r-o'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Mikrovlny s.r.o. vyrábí vlastní WiFi ethernet konvertory Giom s řízením rychlosti.
 - Giom 1-3 nabízí webovou administraci, SNMP správu, firewall, Giom 3 i NAT.

@@ -2,7 +2,6 @@
 slug: 'tak-poruznu'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - Marigold má nečekanou návštěvnost z dotazů na "Sluha dvou pánů" a SuperStar.
 - Autor nechápe popularitu SuperStar a preferuje hudbu Vivaldiho, Vangelise a Čechomoru.

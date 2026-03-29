@@ -4,7 +4,6 @@ slug: 'plan-prideleni-kmitoctovych-pasem-narodni-kmitoctova-tabulka'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - ČTÚ vydalo CD s národní kmitočtovou tabulkou v Telekomunikačním věstníku.
 - Tabulka je dostupná ke stažení ve formátu PDF na webu ČTÚ.

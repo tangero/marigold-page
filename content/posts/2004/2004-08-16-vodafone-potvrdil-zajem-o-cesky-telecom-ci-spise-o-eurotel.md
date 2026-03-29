@@ -4,7 +4,6 @@ slug: 'vodafone-potvrdil-zajem-o-cesky-telecom-ci-spise-o-eurotel'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Vodafone projevil zájem o nákup 51 % akcií Českého Telecomu.
 - Vláda požaduje minimálně 2,3 miliardy USD za 51 % akcií Telecomu.

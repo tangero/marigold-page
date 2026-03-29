@@ -2,7 +2,6 @@
 slug: 'role-knowhow-pri-fakturaci-behu'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - Knowhow má hodnotu, i když řešení trvá krátkou dobu.
 - Cena služby zahrnuje zkušenosti, nejen čas strávený prací.

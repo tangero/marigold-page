@@ -6,7 +6,6 @@ categories:
 - Umění
 
   '
-published: true
 summary_points:
 - Moderní umění má nutit k přemýšlení, což platí od starověku.
 - Entropa Davida Černého je moderní umění, protože nutí k zamyšlení.

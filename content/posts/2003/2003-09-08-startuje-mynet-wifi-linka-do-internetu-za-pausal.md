@@ -4,7 +4,6 @@ slug: 'startuje-mynet-wifi-linka-do-internetu-za-pausal'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - MyNet nabízí 64 Kb/s internet za 500 Kč měsíčně nebo 1 Kč/MB.
 - MyNet umožňuje telefonování s paušálem 88 Kč a různými sazbami.

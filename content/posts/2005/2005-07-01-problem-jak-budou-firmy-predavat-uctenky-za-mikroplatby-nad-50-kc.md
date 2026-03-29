@@ -4,7 +4,6 @@ slug: 'problem-jak-budou-firmy-predavat-uctenky-za-mikroplatby-nad-50-kc'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Podnikatelé musí vydávat účtenky pro nákupy nad 50 Kč dle nového zákona.
 - Mikroplatby na dálku představují problém s vystavováním účtenek.

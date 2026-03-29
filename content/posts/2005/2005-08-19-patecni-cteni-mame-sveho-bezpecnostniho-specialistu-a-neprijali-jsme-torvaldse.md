@@ -4,7 +4,6 @@ slug: 'patecni-cteni-mame-sveho-bezpecnostniho-specialistu-a-neprijali-jsme-torv
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Fuf je legendární osobnost Mobil serveru.
 - Článek je páteční čtení z historie Mobil serveru.

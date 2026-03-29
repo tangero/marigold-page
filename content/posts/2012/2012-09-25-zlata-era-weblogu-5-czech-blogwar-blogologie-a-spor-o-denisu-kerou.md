@@ -8,7 +8,6 @@ categories:
 - Weblogy
 
   '
-published: true
 summary_points:
 - Blogwars v Česku vyvrcholily sporem o Denisu Kerou v červenci 2004.
 - Filip Rožánek kritizoval výzkum blogů Denisy Kery jako bezpředmětný.

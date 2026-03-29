@@ -4,7 +4,6 @@ slug: 'japonske-mobilni-trendy-wifi-a-linux-v-3g-mobilech-nokia-imagewear'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - NTT DoCoMo a NEC vyvíjejí dualmod mobil s 3G a WiFi pro prodej v dubnu 2004.
 - NTT pracuje na vlastní Linuxové implementaci pro mobilní telefony, aby ušetřila

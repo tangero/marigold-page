@@ -4,7 +4,6 @@ slug: 'pocketsurfer-do-kapsy-jen-na-surfovani'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - PocketSurfer je zařízení s barevným displejem a klávesnicí pro surfování na internetu.
 - Připojení k internetu PocketSurferu je možné pouze přes bluetooth.

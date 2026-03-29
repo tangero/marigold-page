@@ -4,7 +4,6 @@ slug: 'wifi-v-chorvatsku-na-jachte'
 author: Noname
 
   '
-published: true
 summary_points:
 - Autor jachtil v Chorvatsku s IT specialisty na lodi Teuta Bavaria 49.
 - Během plavby se zlomil spinakrový peň a posádka "krmila ryby".

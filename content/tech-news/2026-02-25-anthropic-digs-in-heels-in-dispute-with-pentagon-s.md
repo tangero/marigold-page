@@ -17,7 +17,7 @@ source:
   id: the-times-of-india
   name: The Times of India
 title: Anthropic se brání v sporu s Pentagonem, tvrdí zdroj
-url: https://economictimes.indiatimes.com/news/international/global-trends/anthropic-digs-in-heels-in-dispute-with-pentagon-source-says/articleshow/128766700.cms
+source_url: https://economictimes.indiatimes.com/news/international/global-trends/anthropic-digs-in-heels-in-dispute-with-pentagon-source-says/articleshow/128766700.cms
 urlToImage: https://img.etimg.com/thumb/msid-128766700,width-1200,height-630,imgsize-52544,overlay-economictimes/articleshow.jpg
 urlToImageBackup: https://img.etimg.com/thumb/msid-128766700,width-1200,height-630,imgsize-52544,overlay-economictimes/articleshow.jpg
 ---

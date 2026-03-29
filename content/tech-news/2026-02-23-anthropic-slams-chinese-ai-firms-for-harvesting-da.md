@@ -19,7 +19,7 @@ source:
   id: null
   name: SiliconANGLE News
 title: Anthropic obviňuje čínské AI firmy z krádeže dat z chatbota Claude
-url: https://siliconangle.com/2026/02/23/anthropic-slams-chinese-ai-firms-harvesting-data-claude-chatbot/
+source_url: https://siliconangle.com/2026/02/23/anthropic-slams-chinese-ai-firms-harvesting-data-claude-chatbot/
 urlToImage: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Screenshot-from-2026-02-24-06-45-03.png
 urlToImageBackup: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Screenshot-from-2026-02-24-06-45-03.png
 ---

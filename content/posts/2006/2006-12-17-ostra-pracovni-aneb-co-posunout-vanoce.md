@@ -4,7 +4,6 @@ slug: 'ostra-pracovni-aneb-co-posunout-vanoce'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Firma zažívá náročnou pracovní atmosféru i v neděli večer.
 - Autor raději píše na Marigold než aby pracoval.

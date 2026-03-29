@@ -4,7 +4,6 @@ slug: 'jaky-je-prechod-z-apple-iphone-na-vcelku-levny-telefon-s-android-6'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - iOS nabízí lepší uživatelský zážitek než Android navzdory slabšímu hardwaru.
 - Přenos dat mezi iOS a Android je komplikovaný a časově náročný.

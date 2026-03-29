@@ -4,7 +4,6 @@ slug: 'cesky-telecom-ma-udajne-odkoupit-eurotel-do-konce-dubna-tdc-zase-contacte
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Eurotel má být do konce dubna odkoupen Českým Telecomem od Atlantic West.
 - TDC se do dvou týdnů rozhodne o odkoupení Contactelu.

@@ -4,7 +4,6 @@ slug: 'potize-se-spamem'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Marigold má dlouhodobé potíže se spamem v komentářích, který se nedaří efektivně
   filtrovat.

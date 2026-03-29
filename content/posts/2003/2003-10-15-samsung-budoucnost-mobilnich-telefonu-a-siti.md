@@ -4,7 +4,6 @@ slug: 'samsung-budoucnost-mobilnich-telefonu-a-siti'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Samsung tiskovka začala přesně na minutu, což je neobvyklé.
 - Prototypy předváděné před konferencí byly staženy z oběhu.

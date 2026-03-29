@@ -4,7 +4,6 @@ slug: 'mahleruv-rozhovor-v-tydnu-semo-tamo-mlha-ve-jmenu-vitezstvi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Mahler v Týdnu zkreslil situaci vracení analogových frekvencí operátory.
 - Operátoři vraceli analogové frekvence dobrovolně nebo po vypršení licence.

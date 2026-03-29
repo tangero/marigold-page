@@ -4,7 +4,6 @@ slug: 'eurotel-wifijet-hotelum-mnoho-penez-nenese'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WiFi hotely nevydělává, pražský pětihvězdičkový hotel inkasuje jen pár tisíc korun.
 - Eurotel nedodal hotely dostatek propagačních materiálů o WiFi službě.

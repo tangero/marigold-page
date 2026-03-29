@@ -4,7 +4,6 @@ slug: 'adsl-telecomu-komedie-pokracuje'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Telecom nezvládl agregaci ADSL, což snížilo rychlost připojení mnoha uživatelům.
 - ADSL se rychlostně vyrovnalo analogovému modemu, ale s paušální platbou.

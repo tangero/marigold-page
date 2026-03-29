@@ -4,7 +4,6 @@ slug: 'ip-telephony-workshop-bude-v-listopadu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - IP Telephony Workshop se koná 23.-24. listopadu 2004 v hotelu Olympik Praha.
 - Akce prezentuje produkty a služby IP telefonie, SW, řešení a hardware.

@@ -4,7 +4,6 @@ slug: '4g-v-roce-2007-usr-nabizi-54-mbps-wifi-jako-proprietarni-reseni'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Korea plánuje spuštění 4G sítí v roce 2007 ve spolupráci se Samsungem a Nokií.
 - USR WiFi zařízení nabízí upgrade firmware na 54 Mbps s názvem XLerator Technology.

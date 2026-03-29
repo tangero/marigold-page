@@ -4,7 +4,6 @@ slug: 'turbocell-technologie-detailne-satelit-e-bird-postup-standardizace-802-11
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - TurboCell od Proxim/Orinoco zlepšuje venkovní WiFi, řeší skryté uzly a propustnost.
 - Satelit e-Bird je určený výhradně pro připojení k internetu a je na oběžné dráze.

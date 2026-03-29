@@ -4,7 +4,6 @@ slug: 'auta-dalsi-odbytiste-sitovych-technologii-automotivni-site'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Automobily integrují WiFi sítě pro MP3 přehrávače a bezdrátové snímače tlaku.
 - Automotivní sítě propojují auta peer to peer pro výměnu informací o silnici.

@@ -4,7 +4,6 @@ slug: 'upc-poctvrte-limity-dat-na-chello-oficialne'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - UPC vyhodnotila objemy dat u Chello Classic a Plus.
 - '% uživatelů Chello Classic nepřesáhne 5 GB dat měsíčně.'

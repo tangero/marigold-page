@@ -4,7 +4,6 @@ slug: 'zpusob-pouzivani-pocitacu-ohrozuje-koncepty-jako-je-desktop-nebo-pda'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Notebooky nahradily desktopy kvůli mobilitě a ceně, ale ergonomie trpí.
 - Životnost notebooků je kratší než desktopů, upgrade je omezený.

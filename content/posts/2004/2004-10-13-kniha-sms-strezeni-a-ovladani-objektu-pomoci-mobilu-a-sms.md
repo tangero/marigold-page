@@ -4,7 +4,6 @@ slug: 'kniha-sms-strezeni-a-ovladani-objektu-pomoci-mobilu-a-sms'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Kniha SMS od Alexandra Krajčiříka popisuje zabezpečovací zařízení využívající GSM
   síť.

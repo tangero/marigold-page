@@ -4,7 +4,6 @@ slug: 'sts-114-zitra-vecer'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - STS-114, první mise raketoplánu Discovery po katastrofě Columbie, startuje zítra.
 - Discovery odstartuje, pokud počasí dovolí, před devátou hodinou večerní našeho času.

@@ -4,7 +4,6 @@ slug: 'story-o-sousedskych-sitich-9'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - Půdabackbone trasa v lokalitě dvě nebyla oživena, příčina neznámá, možný vliv silnoproudu.
 - Řešením pro trasu v lokalitě dvě je výroba kabelu na zakázku a jeho výměna.

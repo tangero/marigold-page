@@ -17,7 +17,7 @@ source:
   id: null
   name: PhoneArena
 title: Nositelná AI zařízení od Apple a OpenAI zní jako noční můra
-url: https://www.phonearena.com/news/apple-and-openai-wearable-ai-devices-sound-like-a-nightmare_id178395
+source_url: https://www.phonearena.com/news/apple-and-openai-wearable-ai-devices-sound-like-a-nightmare_id178395
 urlToImage: https://m-cdn.phonearena.com/images/article/178395-wide-two_1200/Apple-and-OpenAIs-wearable-AI-devices-sound-like-a-nightmare.jpg
 urlToImageBackup: https://m-cdn.phonearena.com/images/article/178395-wide-two_1200/Apple-and-OpenAIs-wearable-AI-devices-sound-like-a-nightmare.jpg
 ---

@@ -4,7 +4,6 @@ slug: 't-mobile-a-zaznamnik-v-roamingu-ale-fuj'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Keni dovolená mobil sloužil symbolicky, kvůli mizernému pokrytí a omezení rušení.
 - Přesměrování hovorů do hlasové schránky se v Keni nepodařilo kvůli zapomenutému

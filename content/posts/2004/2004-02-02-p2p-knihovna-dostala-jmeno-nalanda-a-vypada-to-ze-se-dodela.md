@@ -4,7 +4,6 @@ slug: 'p2p-knihovna-dostala-jmeno-nalanda-a-vypada-to-ze-se-dodela'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - P2P knihovna je projekt pro sdílení knih a jiných statků mezi lidmi.
 - Michal Kára programuje software pro P2P knihovnu a projekt se blíží dokončení.

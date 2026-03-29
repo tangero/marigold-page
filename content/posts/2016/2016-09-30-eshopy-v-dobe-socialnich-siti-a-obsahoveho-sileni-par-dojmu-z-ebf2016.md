@@ -4,7 +4,6 @@ slug: 'eshopy-v-dobe-socialnich-siti-a-obsahoveho-sileni-par-dojmu-z-ebf2016'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - E-commerce vyžaduje unikátní obsah pro získání zákazníků bez drahé reklamy.
 - Limitované edice zboží mohou generovat vysoké zisky na trzích jako eBay.

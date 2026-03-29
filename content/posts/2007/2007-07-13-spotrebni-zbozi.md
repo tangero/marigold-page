@@ -4,7 +4,6 @@ slug: 'spotrebni-zbozi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Spotřební elektronika se definuje nezájmem o parametry, důležitý je vzhled.
 - Mobilní telefony dnes nabízejí dostatek funkcí pro běžné i neběžné uživatele.

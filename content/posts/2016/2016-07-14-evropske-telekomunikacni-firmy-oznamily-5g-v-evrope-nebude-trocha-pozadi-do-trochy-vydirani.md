@@ -4,7 +4,6 @@ slug: 'evropske-telekomunikacni-firmy-oznamily-5g-v-evrope-nebude-trocha-pozadi-
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Evropské telekomunikační firmy vydaly 5G Manifest požadující ústup od síťové neutrality
   do roku 2020.

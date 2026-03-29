@@ -4,7 +4,6 @@ slug: 'umpc-jasne-ukazuje-proc-jsou-windows-spatnou-volbou-tabletoveho-sveta'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Asus R2H je UMPC s dotykovým displejem, lákavý koncept, ale s omezeními.
 - Windows XP Tablet je pro UMPC Asus R2H nevhodný operační systém.

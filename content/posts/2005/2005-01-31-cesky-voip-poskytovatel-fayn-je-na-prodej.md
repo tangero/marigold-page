@@ -4,7 +4,6 @@ slug: 'cesky-voip-poskytovatel-fayn-je-na-prodej'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Fayn.cz s.r.o., poskytovatel internetové telefonie, je aktuálně na prodej.
 - Důvodem prodeje je změna struktury a snaha o zvýšení podnikatelské úspěšnosti.

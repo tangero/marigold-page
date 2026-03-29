@@ -4,7 +4,6 @@ slug: 'avatary-pro-mobilni-telefony'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Avatary jsou vizualizované reprezentace virtuální osobnosti, potenciálně animované
   postavičky v mobilu.

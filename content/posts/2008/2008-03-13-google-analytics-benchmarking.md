@@ -6,7 +6,6 @@ categories:
 - Google
 
   '
-published: true
 summary_points:
 - Benchmarking v Google Analytics porovnává web s ostatními v daném odvětví.
 - Aktivace benchmarkingu trvá dva týdny, než se zobrazí výsledky.

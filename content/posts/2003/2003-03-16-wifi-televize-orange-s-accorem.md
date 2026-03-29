@@ -4,7 +4,6 @@ slug: 'wifi-televize-orange-s-accorem'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Manhattan Neighborhood Network streamovala video přes WiFi, ne broadcast.
 - Orange instaluje WiFi v 300 hotelech sítě Accor.

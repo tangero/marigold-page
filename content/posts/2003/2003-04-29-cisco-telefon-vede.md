@@ -4,7 +4,6 @@ slug: 'cisco-telefon-vede'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Cisco telefon s WiFi modulem upoutal pozornost médií více než Spectralink.
 - WiFi v Cisco telefonu je pouze přidělávka k ethernetovému zařízení.

@@ -2,7 +2,6 @@
 slug: 'proc-je-mobilni-internet-v-cesku-drahy-a-proc-je-to-prusvih'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - Mobilní internet v Česku je drahý kvůli možnosti držet ceny vysoko.
 - Vlastník Telefonica O2 CZ byl změněn na PPF, což vedlo k restrukturalizaci.

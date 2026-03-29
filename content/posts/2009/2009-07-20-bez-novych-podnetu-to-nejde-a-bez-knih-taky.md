@@ -6,7 +6,6 @@ categories:
 - Knihy
 
   '
-published: true
 summary_points:
 - Nové podněty jsou zásadní, jinak hrozí pouhé kopírování a omezenost.
 - Gladwellovy knihy Outliers, Mžik a Bod zlomu doporučeny pro pochopení procesů.

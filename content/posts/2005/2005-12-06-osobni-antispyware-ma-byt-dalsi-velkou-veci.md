@@ -4,7 +4,6 @@ slug: 'osobni-antispyware-ma-byt-dalsi-velkou-veci'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Osobní antispyware má být "Příští velká věc" kvůli rostoucímu monitoringu.
 - Dostupnost satelitních map zdarma ukazuje na rostoucí možnosti sledování.

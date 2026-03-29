@@ -4,7 +4,6 @@ slug: 'copak-to-eurotel-postihlo-s-temi-gprs-daty-za-pausal'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Eurotel nabízí datový tarif Data Nonstop za 1000 Kč bez DPH.
 - GPRS je pomalejší než ADSL, reálné rychlosti jsou nízké.

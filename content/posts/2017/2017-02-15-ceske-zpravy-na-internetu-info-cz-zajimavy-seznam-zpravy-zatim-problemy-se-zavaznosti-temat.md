@@ -2,7 +2,6 @@
 slug: 'ceske-zpravy-na-internetu-info-cz-zajimavy-seznam-zpravy-zatim-problemy-se-zavaznosti-temat'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - České zpravodajství online je placené, většina médií má sklon k majiteli.
 - Info.cz a Echo nabízejí zajímavé informace, ale Reflex je příšerný.

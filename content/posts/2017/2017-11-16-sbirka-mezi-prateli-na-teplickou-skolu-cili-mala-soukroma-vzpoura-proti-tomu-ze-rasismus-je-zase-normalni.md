@@ -2,7 +2,6 @@
 slug: 'sbirka-mezi-prateli-na-teplickou-skolu-cili-mala-soukroma-vzpoura-proti-tomu-ze-rasismus-je-zase-normalni'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - Škola v Teplicích čelí nenávisti a výhrůžkám vůči dětem.
 - Autor vyzývá k veřejnému odsouzení násilí a podpoře školy.

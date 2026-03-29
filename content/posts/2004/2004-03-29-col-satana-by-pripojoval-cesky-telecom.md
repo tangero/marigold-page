@@ -4,7 +4,6 @@ slug: 'col-satana-by-pripojoval-cesky-telecom'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Český Telecom je v telekomunikacích často obviňován z problémů a vysokých cen.
 - COL kritizuje Telecom za nedostatečnou podporu ADSL a monopol v CDMA.

@@ -4,7 +4,6 @@ slug: 'buffalo-technology-revolution-a-kuro-box'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Buffalo Technology uvádí Revolution, řadu pro pokročilé síťové uživatele.
 - Kuro Box je PowerPC počítač s Linuxem pro různé serverové funkce.

@@ -4,7 +4,6 @@ slug: 'linksys-vydal-sve-dualbandove-wifi-karty-a-bezdratovy-prehravac-presentac
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Linksys uvolnil dualband WiFi techniku podporující 802.11a/g/b.
 - PCMCIA karta Linksys bude stát 99 USD.

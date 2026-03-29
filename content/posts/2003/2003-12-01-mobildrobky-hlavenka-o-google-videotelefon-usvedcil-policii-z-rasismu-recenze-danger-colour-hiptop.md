@@ -4,7 +4,6 @@ slug: 'mobildrobky-hlavenka-o-google-videotelefon-usvedcil-policii-z-rasismu-rec
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Hlavenkův článek "Google na rozcestí" analyzuje Google před IPO.
 - Google obvykle překvapí a promění výtky ve své přednosti.

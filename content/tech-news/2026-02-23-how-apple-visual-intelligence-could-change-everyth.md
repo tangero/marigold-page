@@ -20,7 +20,7 @@ source:
   id: null
   name: Cult of Mac
 title: Jak Apple Visual Intelligence může změnit všechno
-url: https://www.cultofmac.com/news/how-apple-visual-intelligence-could-change-everything
+source_url: https://www.cultofmac.com/news/how-apple-visual-intelligence-could-change-everything
 urlToImage: https://www.cultofmac.com/wp-content/uploads/2024/09/iphone-16-visual-lookup.jpg
 urlToImageBackup: https://www.cultofmac.com/wp-content/uploads/2024/09/iphone-16-visual-lookup.jpg
 ---

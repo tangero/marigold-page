@@ -4,7 +4,6 @@ slug: 'v-kazde-kabelce-je-neco-co-stoji-za-pozornost'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Sofie je na obrázku v akci, bez bližšího popisu aktivity.
 - Obrázek Sofie má rozměry 350x466 pixelů a název P1010826.jpg.

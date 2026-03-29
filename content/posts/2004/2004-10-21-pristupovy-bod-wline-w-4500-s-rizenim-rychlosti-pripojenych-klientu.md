@@ -4,7 +4,6 @@ slug: 'pristupovy-bod-wline-w-4500-s-rizenim-rychlosti-pripojenych-klientu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Wline W4500 AP umožňuje řízení šířky pásma připojených WiFi klientů.
 - Cena Wline W4500 je 2000 Kč bez DPH.

@@ -4,7 +4,6 @@ slug: 'slovenskem-hybe-on-line-skandal-update-2x'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Hackeři ovládali část sítě Slovenských Telekomunikací, informoval časopis Prielom.
 - SME informovalo o kauze hackerského útoku na Slovensku.

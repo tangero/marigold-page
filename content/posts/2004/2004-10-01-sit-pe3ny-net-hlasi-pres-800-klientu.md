@@ -4,7 +4,6 @@ slug: 'sit-pe3ny-net-hlasi-pres-800-klientu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Pe3ny.Net nabízí neomezené připojení 500 kbit/s za 500 Kč měsíčně.
 - V červenci 2004 využívalo Pe3ny.Net přes 800 uživatelů v Praze 5 a okolí.

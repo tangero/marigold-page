@@ -4,7 +4,6 @@ slug: 'volby-pomoci-mobilniho-telefonu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Doležal navrhuje volby přes mobilní telefon pro zvýšení masovosti.
 - SuperStar hlasování ukázalo rozdíl mezi SMS a unikátními hlasujícími.

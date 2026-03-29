@@ -4,7 +4,6 @@ slug: 'tak-jeste-jednou-a-pomalu-czechtek-nebyl-pravne-zcela-v-poradku-ale-zasah
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - CzechTek 2005 nebyl zcela v souladu se zákony, chybělo schválení a řešení pozemků.
 - Policejní zásah na CzechTeku byl neadekvátní společenské nebezpečnosti, šlo o policejní

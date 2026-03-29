@@ -4,7 +4,6 @@ slug: 'co-je-za-zpoplatnenim-wifi-frekvenci-v-cesku'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - České Ministerstvo obchodu a průmyslu plánuje zpoplatnit nelicencované frekvence
   jako WiFi. Zpoplatnění iniciovalo vedení O2 kvůli finančním tlakům. Pavel Dvořák

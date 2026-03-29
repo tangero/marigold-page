@@ -4,7 +4,6 @@ slug: 'eurotel-wifijet-se-dostal-na-dvacet-hotspotu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WiFiJet síť se rozšířila na dvacet lokalit v Čechách a na Moravě.
 - Většina WiFiJet lokalit jsou hotely, například Grandhotel Pupp Karlovy Vary.

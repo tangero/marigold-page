@@ -4,7 +4,6 @@ slug: 'wifi-kniha-uz-je-skoro-tady-toz-prvni-oficialni-informace'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Kniha Bezdrátové sítě WiFi vyjde u Cpressu a bude stát 249 Kč.
 - Autor knihu prodává i přes Marigold, protože psaní je náročnější než prodej.

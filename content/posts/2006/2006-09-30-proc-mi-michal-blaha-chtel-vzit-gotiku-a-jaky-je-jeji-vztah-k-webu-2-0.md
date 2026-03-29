@@ -4,7 +4,6 @@ slug: 'proc-mi-michal-blaha-chtel-vzit-gotiku-a-jaky-je-jeji-vztah-k-webu-2-0'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Web 2.0 je přirozený vývoj internetu, i když se používá jako buzzword.
 - Gotika je pro románský sloh zlepšením, podobně jako Web 2.0 pro Web 1.0.

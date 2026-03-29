@@ -4,7 +4,6 @@ slug: 'lcd-crt-plazma-co-koupit-jako-tv'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - LCD televize nemusí být nejlepší volbou pro sledování TV signálu.
 - LCD televize často interpolují obraz kvůli vyššímu rozlišení než PAL.

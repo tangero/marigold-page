@@ -4,7 +4,6 @@ slug: 'marigoldi-prehled-technickeho-zpravodajstvi-rozsiren'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Marigold rozšířil přehled technického zpravodajství o řazení článků podle času.
 - Výpis podle témat a sledování odklikovosti článků se chystá doplnit.

@@ -4,7 +4,6 @@ slug: 'gruff-jde-do-sveta-ci-spise-do-mobilu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Googgi propaguje vlastní postavičku Gruff a hudbu v televizní reklamě na Primě.
 - Gruff je motorizované zvířátko, jehož melodii lze objednat SMS zprávou.

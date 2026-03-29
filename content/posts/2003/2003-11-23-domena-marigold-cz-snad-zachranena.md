@@ -4,7 +4,6 @@ slug: 'domena-marigold-cz-snad-zachranena'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Doména byla úspěšně přesunuta k registrátorovi Ingum za 723 Kč.
 - Kontaktní email nelze změnit formulářem, nutné je notářské ověření.

@@ -4,7 +4,6 @@ slug: 'radiosit-pegas-konecne-dostavena'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Pegas je digitální radiokomunikační síť pro integrovaný záchranný systém v Česku.
 - EADS Telecom dokončil výstavbu sítě Pegas, která pokrývá celé Česko.

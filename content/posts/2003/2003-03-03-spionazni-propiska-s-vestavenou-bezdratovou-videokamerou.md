@@ -4,7 +4,6 @@ slug: 'spionazni-propiska-s-vestavenou-bezdratovou-videokamerou'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Swann vyrábí propisku s vestavěnou barevnou videokamerou s dosahem 100 metrů.
 - Propiska s kamerou od Swann stojí přibližně 400 amerických dolarů.

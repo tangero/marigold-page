@@ -4,7 +4,6 @@ slug: 'vypadek-proudu-na-v-oblasti-velkych-jezer'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Výpadek elektřiny postihl včera oblast Velkých jezer a Východní pobřeží USA.
 - Upstreamy ujišťují o dostatku nafty v dýzlech a cisternách pro případné problémy.

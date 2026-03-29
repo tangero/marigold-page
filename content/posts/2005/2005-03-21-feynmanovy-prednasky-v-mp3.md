@@ -4,7 +4,6 @@ slug: 'feynmanovy-prednasky-v-mp3'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Richard Feynman přednášky v MP3 formátu jsou dostupné online.
 - MP3 Feynmanových přednášek nabízejí zážitek "skoro na živo".

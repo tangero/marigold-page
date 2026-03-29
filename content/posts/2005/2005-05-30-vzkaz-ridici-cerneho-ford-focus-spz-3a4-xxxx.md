@@ -4,7 +4,6 @@ slug: 'vzkaz-ridici-cerneho-ford-focus-spz-3a4-xxxx'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - Řidič odbočující z vedlejší neočekával rychlou jízdu autora textu ve městě.
 - Autor textu kritizuje slovník nadávek druhého řidiče jako jednotvárný a frustrovaný.

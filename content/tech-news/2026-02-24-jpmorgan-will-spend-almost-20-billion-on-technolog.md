@@ -14,7 +14,7 @@ source:
   id: business-insider
   name: Business Insider
 title: JPMorgan tento rok utratí za technologie téměř 20 miliard dolarů
-url: https://www.businessinsider.com/jpmorgan-tech-budget-ai-20-billion-jamie-dimon-2026-2
+source_url: https://www.businessinsider.com/jpmorgan-tech-budget-ai-20-billion-jamie-dimon-2026-2
 urlToImage: https://i.insider.com/699ce38d156648bc16a8c346?width=800&format=jpeg
 urlToImageBackup: https://i.insider.com/699ce38d156648bc16a8c346?width=800&format=jpeg
 ---

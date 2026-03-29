@@ -6,7 +6,6 @@ categories:
 - Energomonitor
 
   '
-published: true
 summary_points:
 - Energomonitor řeší problém vysokých účtů za elektřinu, ne pouhé měření spotřeby.
 - PPC model prodeje je omezený, proto firma sází na vzdělávání a partnery.

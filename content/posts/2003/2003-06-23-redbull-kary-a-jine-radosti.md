@@ -4,7 +4,6 @@ slug: 'redbull-kary-a-jine-radosti'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Dita se nakazila, takže se s autorem vystřídají v marodění.
 - Autor s Ditou navštívili RedBull Káry na Petříně, kde bylo 50 000 lidí.

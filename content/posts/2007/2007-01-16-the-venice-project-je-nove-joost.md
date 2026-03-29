@@ -4,7 +4,6 @@ slug: 'the-venice-project-je-nove-joost'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - The Venice Project se oficiálně přejmenoval na Joost.
 - Joost je P2P infrastruktura pro šíření videa po internetu.

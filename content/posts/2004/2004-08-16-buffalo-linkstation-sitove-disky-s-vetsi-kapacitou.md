@@ -4,7 +4,6 @@ slug: 'buffalo-linkstation-sitove-disky-s-vetsi-kapacitou'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Síťové disky jsou dostupné pro malé firmy a domácnosti jako alternativa serverů.
 - Buffalo rozšiřuje řadu LinkStation o 160GB a 250GB modely s FTP serverem.

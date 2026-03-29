@@ -4,7 +4,6 @@ slug: 'obecni-samoobsluha-potraviny-zdarma'
 author: Noname
 
   '
-published: true
 summary_points:
 - Obce s horší dostupností služeb, jako obchodů a internetu, mají horší demografické
   ukazatele.

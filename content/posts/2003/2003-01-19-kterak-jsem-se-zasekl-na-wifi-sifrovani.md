@@ -4,7 +4,6 @@ slug: 'kterak-jsem-se-zasekl-na-wifi-sifrovani'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor píše o odložení článku o bezpečnosti WiFi kvůli jeho složitosti.
 - Článek o WiFi bezpečnosti bude přepracován a vydán později.

@@ -20,7 +20,7 @@ source:
   name: The Times of India
 title: Reliance vkládá na stůl 110 miliard dolarů, připojuje se k Adani a Tata v masivní
   výstavbě AI infrastruktury
-url: https://economictimes.indiatimes.com/tech/artificial-intelligence/reliance-puts-110-billion-on-table-joins-adani-tata-in-big-ticket-ai-buildout/articleshow/128589413.cms
+source_url: https://economictimes.indiatimes.com/tech/artificial-intelligence/reliance-puts-110-billion-on-table-joins-adani-tata-in-big-ticket-ai-buildout/articleshow/128589413.cms
 urlToImage: https://img.etimg.com/thumb/width-1200,height-900,imgsize-88744,resizemode-75,msid-128589413/tech/artificial-intelligence/reliance-puts-110-billion-on-table-joins-adani-tata-in-big-ticket-ai-buildout.jpg
 urlToImageBackup: https://img.etimg.com/thumb/width-1200,height-900,imgsize-88744,resizemode-75,msid-128589413/tech/artificial-intelligence/reliance-puts-110-billion-on-table-joins-adani-tata-in-big-ticket-ai-buildout.jpg
 ---

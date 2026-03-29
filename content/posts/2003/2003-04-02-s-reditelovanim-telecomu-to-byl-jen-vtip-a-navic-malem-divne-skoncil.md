@@ -4,7 +4,6 @@ slug: 's-reditelovanim-telecomu-to-byl-jen-vtip-a-navic-malem-divne-skoncil'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Kandidatura na šéfa Telecomu vznikla aprílovým žertem na Mobil.cz od Vreca.
 - Novinář volal autorovi textu ohledně kandidatury, autor mu poskytl "komplexní výklad".

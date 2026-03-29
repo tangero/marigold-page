@@ -4,7 +4,6 @@ slug: 'eurotel-prinasi-edge-v-siti-t-mobile'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - T-Mobile potvrdil spuštění EDGE v ČR jako reakci na CDMA Eurotelu.
 - EDGE v USA stojí T-Mobile půl miliardy dolarů, start 2005.

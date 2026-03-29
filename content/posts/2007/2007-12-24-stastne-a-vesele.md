@@ -4,7 +4,6 @@ slug: 'stastne-a-vesele'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Vánoční přání autora je publikováno na webu Lupa.cz.
 - Autor přeje čtenářům hezké vánoční svátky.

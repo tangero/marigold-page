@@ -4,7 +4,6 @@ slug: '5g-sdn-nebo-nfv-a-dalsi-tendence-osvobodit-mobilni-site'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - G sítě cílí na snížení nákladů a zjednodušení infrastruktury pomocí nových přístupů.
 - WiFi integrace do 5G sítí umožní levnější technologie pro drobné zákazníky a mikrooperátory.

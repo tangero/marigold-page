@@ -4,7 +4,6 @@ slug: 'pro-uzivatele-gps'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - iPAQ 4700 s GPS se v autě přehřívá na slunci a zamrzá.
 - Řidič sleduje GPS navigaci a méně se orientuje podle cedulí.

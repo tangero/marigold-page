@@ -15,7 +15,7 @@ source:
   id: null
   name: Abcnews.com
 title: Robotaxi přicházejí do Londýna. Slavní řidiči černých taxíků jsou skeptičtí
-url: https://abcnews.com/International/wireStory/robotaxis-coming-london-citys-famed-black-cab-drivers-130400039
+source_url: https://abcnews.com/International/wireStory/robotaxis-coming-london-citys-famed-black-cab-drivers-130400039
 urlToImage: https://i.abcnewsfe.com/a/2aef90e8-abce-4ab3-8fbd-a5fa358d2c23/wirestory_d697e141132f0a33d0c5bec95199e504_16x9.jpg?w=1600
 urlToImageBackup: https://i.abcnewsfe.com/a/2aef90e8-abce-4ab3-8fbd-a5fa358d2c23/wirestory_d697e141132f0a33d0c5bec95199e504_16x9.jpg?w=1600
 ---

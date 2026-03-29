@@ -6,7 +6,6 @@ categories:
 - Mobilní sítě
 
   '
-published: true
 summary_points:
 - Účtování příchozích hovorů je stejné bez ohledu na operátora volajícího.
 - Poplatek za příchozí hovor tvoří náklad spojení hovoru operátorem.

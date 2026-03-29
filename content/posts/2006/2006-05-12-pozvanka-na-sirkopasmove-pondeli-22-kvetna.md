@@ -4,7 +4,6 @@ slug: 'pozvanka-na-sirkopasmove-pondeli-22-kvetna'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Broadband Monday 22. května pořádá Tuesday Business Network diskuzi o broadbandu.
 - Registrace na Broadband Monday je zdarma s kódem Marigold, jinak stojí 500 Kč.

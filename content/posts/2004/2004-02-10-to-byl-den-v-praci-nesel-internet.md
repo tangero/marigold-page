@@ -4,7 +4,6 @@ slug: 'to-byl-den-v-praci-nesel-internet'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Práce včera znemožněna pomalou sítí kvůli poruše páteřního připojení Ha-vel.
 - Emailová nedostupnost komplikovala práci, protože většina komunikace probíhá emailem.

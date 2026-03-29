@@ -2,7 +2,6 @@
 slug: 'kdyz-vytvorite-prilezitost-a-nezvladnete-z-ni-udelat-trh-priklad-skype-a-eknih'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - Digitální revoluce přináší nové služby a produkty, ale vytvoření trhu není jednoduché.
 - Elektronické knihy změnily trh vydavatelství a přinesly nové obchodní formáty.

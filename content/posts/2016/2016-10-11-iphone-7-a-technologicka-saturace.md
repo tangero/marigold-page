@@ -4,7 +4,6 @@ slug: 'iphone-7-a-technologicka-saturace'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - iPhone 5s stále splňuje základní potřeby bez zbytečného tlaku na sdílení.
 - Nové iPhony zvyšují produktivitu, ale také neustálou dostupnost a stres.

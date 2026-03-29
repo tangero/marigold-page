@@ -7,7 +7,6 @@ categories:
 - Mobilní sítě
 
   '
-published: true
 summary_points:
 - Qualcomm vyvíjí LTE Direct pro přímou komunikaci mobilů bez operátora.
 - LTE Direct umožní aplikacím získat geosociální kontext o okolí uživatele.

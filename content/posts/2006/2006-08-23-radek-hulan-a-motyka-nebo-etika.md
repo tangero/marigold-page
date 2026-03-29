@@ -4,7 +4,6 @@ slug: 'radek-hulan-a-motyka-nebo-etika'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Hulán kritizuje Jagg.cz pro údajnou neetičnost kvůli nezmínění Scuttle.
 - Autor Jagg.cz uvádí, že licence Scuttle umožňuje jeho použití.

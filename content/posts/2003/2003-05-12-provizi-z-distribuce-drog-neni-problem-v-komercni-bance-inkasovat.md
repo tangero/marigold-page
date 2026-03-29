@@ -4,7 +4,6 @@ slug: 'provizi-z-distribuce-drog-neni-problem-v-komercni-bance-inkasovat'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Dividenda Philip Moris činila 1400 Kč na akcii před zdaněním.
 - Autor si v Komerční bance vtipně požádal o "provizi z distribuce drog".

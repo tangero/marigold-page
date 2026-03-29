@@ -4,7 +4,6 @@ slug: 'draytek-vigor2900g-s-omezenim-sirky-pasma'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - DrayTek Vigor 2900G je nový WiFi směrovač pro menší sítě s fastethernet porty.
 - USB port podporuje sdílení tiskáren, nahrazuje paralelní porty a podporuje 802.11G.

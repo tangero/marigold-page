@@ -4,7 +4,6 @@ slug: 'automaticka-pokuta-za-prekroceni-rychlosti-co-vy-na-to'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - GPS se protlačí do aplikací jako špiclování aut a kol.
 - Policie by mohla automaticky rozesílat vyúčtování za rychlou jízdu.

@@ -4,7 +4,6 @@ slug: 'wifi-kniha-a-zapletka-v-tescu-ohledne-plechovek-od-parku'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor lituje úprav v knize o WiFi, která je již v tisku.
 - Autor chtěl ověřit vhodnost plechovky od párků pro WiFi anténu.

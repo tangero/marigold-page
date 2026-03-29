@@ -4,7 +4,6 @@ slug: 'wifi-ci-5-ghz-bezdratove-pripojeni-prehledne-na-mape-pokryti'
 author: Noname
 
   '
-published: true
 summary_points:
 - WIA WiFi nabízí denní připojení přes SMS a telefonování bez paušálu.
 - Internet WIA 5G poskytuje spolehlivé připojení v pásmu 5 GHz s rychlostí 3 Mb/s.

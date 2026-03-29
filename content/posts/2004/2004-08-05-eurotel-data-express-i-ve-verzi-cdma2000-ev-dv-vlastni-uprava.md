@@ -4,7 +4,6 @@ slug: 'eurotel-data-express-i-ve-verzi-cdma2000-ev-dv-vlastni-uprava'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - GTran modem s Eurotel Data Express aktivován a funkční s průměrnou rychlostí 3-400
   Kb/s.

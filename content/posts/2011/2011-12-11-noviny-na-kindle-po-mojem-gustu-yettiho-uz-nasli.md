@@ -7,7 +7,6 @@ categories:
 - Kindle
 
   '
-published: true
 summary_points:
 - Respekt na Kindle zklamal nepřehledností oproti tištěné verzi, ale autor si zvykl.
 - Deník Insider posílá články nelegálně přes Personal dokumenty, což je riskantní.

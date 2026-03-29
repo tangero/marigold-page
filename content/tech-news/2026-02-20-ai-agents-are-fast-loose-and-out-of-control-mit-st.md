@@ -17,7 +17,7 @@ source:
   id: null
   name: ZDNet
 title: 'Studie MIT: Agenti umělé inteligence jsou rychlí, volní a mimo kontrolu'
-url: https://www.zdnet.com/article/ai-agents-are-fast-loose-and-out-of-control-mit-study-find/
+source_url: https://www.zdnet.com/article/ai-agents-are-fast-loose-and-out-of-control-mit-study-find/
 urlToImage: https://www.zdnet.com/a/img/resize/deceff8c35e29522ef0f0e75f513318b30bff2a1/2026/02/19/9afd0cc6-7caf-48c1-8ce6-ff9f14cd4a45/gettyimages-2162589194.jpg?auto=webp&fit=crop&height=675&width=1200
 urlToImageBackup: https://www.zdnet.com/a/img/resize/deceff8c35e29522ef0f0e75f513318b30bff2a1/2026/02/19/9afd0cc6-7caf-48c1-8ce6-ff9f14cd4a45/gettyimages-2162589194.jpg?auto=webp&fit=crop&height=675&width=1200
 ---

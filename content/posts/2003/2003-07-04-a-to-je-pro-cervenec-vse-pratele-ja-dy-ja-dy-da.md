@@ -4,7 +4,6 @@ slug: 'a-to-je-pro-cervenec-vse-pratele-ja-dy-ja-dy-da'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Červenec autor tráví na Marigoldovi, v neděli odjíždí do Keni na tři týdny.
 - Autor nikoho nežádal o příspěvky na Marigolda, ale pochybuje, že někdo přispěje.

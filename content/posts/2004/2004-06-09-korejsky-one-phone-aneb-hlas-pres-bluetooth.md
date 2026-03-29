@@ -4,7 +4,6 @@ slug: 'korejsky-one-phone-aneb-hlas-pres-bluetooth'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - KT spustil One-phone, službu pro volání mobilem přes pevnou linku pomocí bluetooth.
 - One-phone vyžaduje bluetooth mobil a základnovou stanici pro propojení s pevnou

@@ -4,7 +4,6 @@ slug: 'logitech-io-pocitacove-pero-co-rozpozna-psane-poznamky'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Logitech io je digitální psací pero používající inkoustové bombičky a speciální
   papír.

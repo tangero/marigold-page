@@ -4,7 +4,6 @@ slug: 'bezdratove-site-802-16-doplnek-k-wifi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - je připravovaný standard pro metropolitní sítě (MAN).
 - Standard 802.16 má doplňovat WiFi, ne s ní konkurovat.

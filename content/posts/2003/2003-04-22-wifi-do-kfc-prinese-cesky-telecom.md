@@ -4,7 +4,6 @@ slug: 'wifi-do-kfc-prinese-cesky-telecom'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Český Telecom vyhrál tendr na zavedení WiFi v provozovnách KFC.
 - WiFi hotspoty budou připojeny na ADSL linku, což je jednoduché řešení.

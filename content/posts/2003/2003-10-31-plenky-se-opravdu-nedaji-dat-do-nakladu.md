@@ -4,7 +4,6 @@ slug: 'plenky-se-opravdu-nedaji-dat-do-nakladu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Bloger plánuje s Lopem nákup plenek jako dar pro novorozené dítě nejmenovaného blogera.
 - Lopo vybral peníze od známých na nákup velkého množství plenek v Makru.

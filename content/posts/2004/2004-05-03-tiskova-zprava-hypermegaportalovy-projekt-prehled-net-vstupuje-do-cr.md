@@ -4,7 +4,6 @@ slug: 'tiskova-zprava-hypermegaportalovy-projekt-prehled-net-vstupuje-do-cr'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Přehled.net je nový česko-švýcarský projekt Olmer Media a Marigold Networks.
 - Investice do Přehled.net přesáhly 400 Kč, nejvíce za doménu.

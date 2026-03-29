@@ -4,7 +4,6 @@ slug: 'jak-si-u-panasonicu-lze-pohrat-s-3g-bagrem'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Panasonic představil ulítlé myšlenky, které přitahovaly nejvíce pozornosti.
 - Bagr je ovládán sériovým 3G telefonem Panasonic pomocí videotelefonátu.

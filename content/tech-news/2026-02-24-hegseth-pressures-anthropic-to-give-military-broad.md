@@ -22,7 +22,7 @@ source:
   name: Associated Press
 title: Hegseth tlačí na Anthropic, aby armádě umožnil širší přístup k AI technologiím,
   tvrdí zdroj AP
-url: https://apnews.com/article/anthropic-hegseth-ai-pentagon-military-3d86c9296fe953ec0591fcde6a613aba
+source_url: https://apnews.com/article/anthropic-hegseth-ai-pentagon-military-3d86c9296fe953ec0591fcde6a613aba
 urlToImage: https://dims.apnews.com/dims4/default/b6b956b/2147483647/strip/true/crop/7140x4758+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F47%2F5a%2F349dbe7a1af4cbd637bfc3d3d413%2F1e82b5de757e411abcdb85a499d8170a
 urlToImageBackup: https://dims.apnews.com/dims4/default/b6b956b/2147483647/strip/true/crop/7140x4758+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F47%2F5a%2F349dbe7a1af4cbd637bfc3d3d413%2F1e82b5de757e411abcdb85a499d8170a
 ---

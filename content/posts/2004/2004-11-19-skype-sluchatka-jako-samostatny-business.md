@@ -4,7 +4,6 @@ slug: 'skype-sluchatka-jako-samostatny-business'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Logitech dodává vouchery na SkypeOut hovory ke svým USB sluchátkům.
 - DualPhone je DECT telefon s USB pro volání přes Skype z počítače.

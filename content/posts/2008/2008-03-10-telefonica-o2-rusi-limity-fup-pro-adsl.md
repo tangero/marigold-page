@@ -7,7 +7,6 @@ categories:
 - Mobilní sítě
 
   '
-published: true
 summary_points:
 - Telefonica ruší FUP limity pro ADSL zákazníky od 1. dubna.
 - Zrušení FUP umožňuje implementace nových technologií v síti.

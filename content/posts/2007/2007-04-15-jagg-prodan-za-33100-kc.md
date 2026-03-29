@@ -4,7 +4,6 @@ slug: 'jagg-prodan-za-33100-kc'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Jagg.cz byl prodán za 33 100 Kč společnosti Internet Info s.r.o.
 - Internet Info s.r.o. je provozovatel Lupy a dalších služeb.

@@ -4,7 +4,6 @@ slug: 'alvarion-oficialne-predstavil-svoji-wimax-radu-breezemax'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Alvarion představil BreezeMax, produktovou řadu založenou na WiMax standardu 802.16/HiperMAN.
 - BreezeMax 3500 pracuje v licencovaném spektru 3,5 GHz, spuštění služeb se očekává

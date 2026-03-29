@@ -4,7 +4,6 @@ slug: 'centrino-v-cechach-a-blouznici-intel-vivato-wifi-switch-mobil-s-wifi-od-m
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Centrino od Intelu je dle Notebooky.cz marketingově přeceňované řešení s integrovanou
   WLAN.

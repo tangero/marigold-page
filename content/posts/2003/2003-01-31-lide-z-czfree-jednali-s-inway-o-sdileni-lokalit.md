@@ -4,7 +4,6 @@ slug: 'lide-z-czfree-jednali-s-inway-o-sdileni-lokalit'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - CzFree jednal s Inway o montáži techniky Inway na místech CzFree.
 - Inway provozuje komerční sítě v pásmech 2.4 GHz, 10 GHz a 3.5 GHz.

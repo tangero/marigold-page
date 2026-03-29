@@ -4,7 +4,6 @@ slug: 'pausal-za-gprs-ve-finsku-konci-co-my'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - DNA ruší neomezený GPRS paušál v červnu, zavádí 100 MB limit a poplatky za data
   navíc.

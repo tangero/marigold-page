@@ -4,7 +4,6 @@ slug: 'cesky-telecom-spustil-wifi-neni-to-vtip'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Český Telecom spustil pilotní projekt WiFi hotspotů zdarma na prodejnách Telepoint.
 - Rychlost připojení u WiFi hotspotů je 256 Kbps a registrace probíhá až po připojení.

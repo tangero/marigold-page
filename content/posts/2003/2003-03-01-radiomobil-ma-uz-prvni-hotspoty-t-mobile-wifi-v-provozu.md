@@ -4,7 +4,6 @@ slug: 'radiomobil-ma-uz-prvni-hotspoty-t-mobile-wifi-v-provozu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - RadioMobil testuje komerční WiFi síť, hotspoty nalezeny v BB centru a Londýnské.
 - Hotspoty nevysílají ESSID, detekce vyžaduje specializovaný WiFi analyzer.

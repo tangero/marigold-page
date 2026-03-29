@@ -2,7 +2,6 @@
 slug: 'budoucnost-siti-5g-zalezi-na-olympiade-a-na-par-dalsich-drobnostech'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - Sítě páté generace (5G) budou ovlivněny implementací na olympijských hrách v Koreji,
   Číně a Japonsku.

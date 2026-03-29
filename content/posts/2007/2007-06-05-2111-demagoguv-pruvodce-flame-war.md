@@ -4,7 +4,6 @@ slug: '2111-demagoguv-pruvodce-flame-war'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Článek o Windows Vista byl parodií, převzatou z Hulánova článku o Apple.
 - Autor chtěl demonstrovat demagogii a lži v článcích o operačních systémech.

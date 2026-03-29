@@ -4,7 +4,6 @@ slug: 'videotelefon-zyxel-p-5000w'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - ZyXEL P-5000W videotelefon by se mohl začít dodávat příští týden.
 - Telefon disponuje pětipalcovým dotykovým LCD displejem a vestavěnou CMOS kamerou.

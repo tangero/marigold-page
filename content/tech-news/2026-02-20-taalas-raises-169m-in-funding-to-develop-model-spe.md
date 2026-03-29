@@ -19,7 +19,7 @@ source:
   name: SiliconANGLE News
 title: Taalas získal 169 milionů dolarů na vývoj AI čipů specifických pro jednotlivé
   modely
-url: https://siliconangle.com/2026/02/19/taalas-raises-169m-funding-develop-model-specific-ai-chips/
+source_url: https://siliconangle.com/2026/02/19/taalas-raises-169m-funding-develop-model-specific-ai-chips/
 urlToImage: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Taalas.png
 urlToImageBackup: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Taalas.png
 ---

@@ -4,7 +4,6 @@ slug: 'lean-startup-aneb-jak-se-propivotovat-do-pekla'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Lean startup zpřístupňuje iterativní metodiku vývoje produktu modernímu čtenáři.
 - Lean startup opomíjí fázi výzkumu a vývoje produktu, což je zásadní nedostatek.

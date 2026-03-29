@@ -7,7 +7,6 @@ categories:
 - Weblogy
 
   '
-published: true
 summary_points:
 - Bloguje.cz, vlivný český blogovací systém, ukončil provoz po letech stagnace.
 - Neviditelný pes Ondřeje Neffa byl patrně prvním českým blogem (před rokem 2003).

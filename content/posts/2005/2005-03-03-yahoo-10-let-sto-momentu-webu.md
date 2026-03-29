@@ -4,7 +4,6 @@ slug: 'yahoo-10-let-sto-momentu-webu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Yahoo slaví deset let existence a připravilo speciální web.
 - Web Yahoo zachycuje 100 momentů z historie internetu.

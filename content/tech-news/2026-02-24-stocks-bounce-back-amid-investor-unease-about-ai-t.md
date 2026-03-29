@@ -19,7 +19,7 @@ source:
   id: null
   name: CNA
 title: Akcie se zotavily uprostřed investorových obav z umělé inteligence a cel
-url: https://www.channelnewsasia.com/business/stocks-bounce-back-amid-investor-unease-about-ai-tariffs-5948371
+source_url: https://www.channelnewsasia.com/business/stocks-bounce-back-amid-investor-unease-about-ai-tariffs-5948371
 urlToImage: https://dam.mediacorp.sg/image/upload/s--i1MaflNT--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-02-24T164332Z_1_LYNXMPEM1N0ZQ_RTROPTP_3_USA-STOCKS.JPG?itok=H4xmMTGj
 urlToImageBackup: https://dam.mediacorp.sg/image/upload/s--i1MaflNT--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-02-24T164332Z_1_LYNXMPEM1N0ZQ_RTROPTP_3_USA-STOCKS.JPG?itok=H4xmMTGj
 ---

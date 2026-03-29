@@ -4,7 +4,6 @@ slug: 'rozpaky-z-validniho-obsahu-a-z-css'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor má rád nové technologie, ale CSS design Marigolda mu činí potíže.
 - CSS principům autor rozumí, ale chybí mu praktické zkušenosti s validním kódem.

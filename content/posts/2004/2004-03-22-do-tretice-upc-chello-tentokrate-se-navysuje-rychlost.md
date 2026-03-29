@@ -4,7 +4,6 @@ slug: 'do-tretice-upc-chello-tentokrate-se-navysuje-rychlost'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - UPC navyšuje rychlosti Chello Classic, Plus a Profi od 24. března.
 - Chello Classic nově nabídne rychlost 768/128 Kb/s.

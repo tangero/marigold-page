@@ -22,7 +22,7 @@ source:
   name: CryptoSlate
 title: Bitcoin může příští rok klesnout k 30 000 dolarům, pokud nedokáže ukázat reálný
   pokrok v kvantově odolných upgradecích
-url: https://cryptoslate.com/bitcoin-may-tumble-toward-30000-next-year-unless-it-shows-real-progress-toward-quantum-proof-upgrades/
+source_url: https://cryptoslate.com/bitcoin-may-tumble-toward-30000-next-year-unless-it-shows-real-progress-toward-quantum-proof-upgrades/
 urlToImage: https://cryptoslate.com/wp-content/uploads/2026/02/bitcoin-edge.jpg
 urlToImageBackup: https://cryptoslate.com/wp-content/uploads/2026/02/bitcoin-edge.jpg
 ---

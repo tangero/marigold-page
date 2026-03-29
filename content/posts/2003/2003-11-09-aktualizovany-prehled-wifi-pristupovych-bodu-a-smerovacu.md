@@ -4,7 +4,6 @@ slug: 'aktualizovany-prehled-wifi-pristupovych-bodu-a-smerovacu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Přehled AP a routerů na Marigoldovi aktualizován o ceny, Radius, WPA, 802.1x.
 - Neaktualizovaná zařízení (4+ měsíce) přesunuta do samostatné tabulky, celkem cca

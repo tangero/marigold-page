@@ -19,7 +19,7 @@ source:
   id: null
   name: Singularity Hub
 title: Tento týden skvělé technologické příběhy z celého webu (do 21. února)
-url: https://singularityhub.com/2026/02/21/this-weeks-awesome-tech-stories-from-around-the-web-through-february-21/#article
+source_url: https://singularityhub.com/2026/02/21/this-weeks-awesome-tech-stories-from-around-the-web-through-february-21/#article
 urlToImage: https://singularityhub.com/uploads/2026/02/colorful-architecture-high-rise-buildings.jpeg?auto=webp
 urlToImageBackup: https://singularityhub.com/uploads/2026/02/colorful-architecture-high-rise-buildings.jpeg?auto=webp
 ---

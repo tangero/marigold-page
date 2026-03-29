@@ -21,7 +21,7 @@ source:
   name: SiliconANGLE News
 title: 'Z laboratoře k výnosům: Strategie kvantového senzingu Infleqtion setkává ekosystém
   GPU od Nvidia'
-url: https://siliconangle.com/2026/02/24/infleqtions-quantum-sensing-nvidia-aifactoriesdatacenters/
+source_url: https://siliconangle.com/2026/02/24/infleqtions-quantum-sensing-nvidia-aifactoriesdatacenters/
 urlToImage: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Matthew-Kinsella-CEO-of-Infleqtion-AI-Factories-2026.png
 urlToImageBackup: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/Matthew-Kinsella-CEO-of-Infleqtion-AI-Factories-2026.png
 ---

@@ -8,7 +8,6 @@ categories:
 - CDMA
 
   '
-published: true
 summary_points:
 - Ufonův mobil Ubiquam U-400 má upravenou frekvenci pro síť Ufon.
 - Cena U-400 je 3000-5000 Kč s tarifem Za Nula a pětikilem jistiny.

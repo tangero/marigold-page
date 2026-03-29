@@ -20,7 +20,7 @@ source:
   name: Theregister.com
 title: Největší indický telekom řeší AI plánem na 110 miliard dolarů do datových center
   a osvědčenou strategií dominance na trhu
-url: https://www.theregister.com/2026/02/20/jio_ai_plans_india_summit/
+source_url: https://www.theregister.com/2026/02/20/jio_ai_plans_india_summit/
 urlToImage: https://regmedia.co.uk/2021/03/25/indian_flag_button_shutterstock.jpg
 urlToImageBackup: https://regmedia.co.uk/2021/03/25/indian_flag_button_shutterstock.jpg
 ---

@@ -2,7 +2,6 @@
 slug: 'nejvice-verime-rusku-tedy-to-uplne-ne-ale-proc-tolik-alternativnich-pohledu'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - Průzkum interpretovaný jako důvěra v Rusko signalizuje spíše pochybnosti o západní
   společnosti.

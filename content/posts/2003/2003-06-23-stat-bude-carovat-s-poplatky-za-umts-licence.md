@@ -4,7 +4,6 @@ slug: 'stat-bude-carovat-s-poplatky-za-umts-licence'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Ministerstvo financí usiluje o pět miliard z licencí UMTS do rozpočtu.
 - Příjem z licencí UMTS plánuje ministerstvo odprodat bance za hotovost.

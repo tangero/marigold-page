@@ -18,7 +18,7 @@ source:
   id: null
   name: SiliconANGLE News
 title: Google údajně investuje 100 milionů dolarů do provozovatele AI cloudu Fluidstack
-url: https://siliconangle.com/2026/02/20/google-reportedly-invest-100m-ai-cloud-operator-fluidstack/
+source_url: https://siliconangle.com/2026/02/20/google-reportedly-invest-100m-ai-cloud-operator-fluidstack/
 urlToImage: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/IMG_3819-800x533-1-2.jpg
 urlToImageBackup: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/02/IMG_3819-800x533-1-2.jpg
 ---

@@ -4,7 +4,6 @@ slug: 'otakarova-focena-pres-mms'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Heslo zabezpečuje tento další pokus, jehož povaha není specifikována.
 - Obrázek Obraz035.jpg je vložen vpravo s rozměry 352x288 pixelů.

@@ -4,7 +4,6 @@ slug: 'lte-unlicenced-o-co-jde-v-pripade-lte-v-nelicencovanem-pasmu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Vize provozu LTE v nelicencovaném pásmu představena Qualcommem a Ericssonem v roce
   2013.

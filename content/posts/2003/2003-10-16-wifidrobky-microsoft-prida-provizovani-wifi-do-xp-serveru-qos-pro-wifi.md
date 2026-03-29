@@ -4,7 +4,6 @@ slug: 'wifidrobky-microsoft-prida-provizovani-wifi-do-xp-serveru-qos-pro-wifi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Microsoft představil WPS pro Windows XP, účtování provizí a bezpečné WiFi přihlašování.
 - Meru nabízí hardware s QoS pro WiFi sítě, bez čekání na 802.11e standard.

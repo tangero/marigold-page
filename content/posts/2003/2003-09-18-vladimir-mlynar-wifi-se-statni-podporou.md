@@ -4,7 +4,6 @@ slug: 'vladimir-mlynar-wifi-se-statni-podporou'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Mlynář plánuje podporu nových technologií, včetně WiFi, formou daňových úlev.
 - Daňová úleva u WiFi techniky by mohla snížit DPH z 22 na 5 procent.

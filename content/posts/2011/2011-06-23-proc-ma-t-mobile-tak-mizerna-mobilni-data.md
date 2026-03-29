@@ -8,7 +8,6 @@ categories:
 - Operátoři
 
   '
-published: true
 summary_points:
 - T-Mobile má v Praze mizerná 3G mobilní data, zvláště při pohybu.
 - Při slábnoucím 3G signálu T-Mobile shazuje do EDGE, data zamrznou.

@@ -4,7 +4,6 @@ slug: 'nektere-drobne-zmeny-u-operatoru-mi-unikaji'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - T-Mobile zrušil MMS editor v T-Zones, nenabízí náhradu a zpoplatňoval odeslané MMS.
 - T-Mobile zrušil konfiguraci služeb přes SMS, nutí uživatele k webovému konfigurátoru.

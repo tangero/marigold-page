@@ -6,7 +6,6 @@ categories:
 - Startupy
 
   '
-published: true
 summary_points:
 - Piictu končí, data uživatelů lze získat emailem.
 - Piictu spoluzakládal Čech Robin Raszka.

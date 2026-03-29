@@ -4,7 +4,6 @@ slug: 'plaz-v-praze-u-vltavy'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Vltava má písečnou pláž na levém břehu, kde probíhá zábava.
 - Pláž nabízí i plážový volejbal a nachází se vedle botelu Admirál.

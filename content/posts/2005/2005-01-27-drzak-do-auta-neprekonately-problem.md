@@ -4,7 +4,6 @@ slug: 'drzak-do-auta-neprekonately-problem'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - iPAQ hx4700 PDA byl zakoupen na podzim 2004 spolu s GPS.
 - Držák do auta pro iPAQ hx4700 nebyl v ČR dostupný.

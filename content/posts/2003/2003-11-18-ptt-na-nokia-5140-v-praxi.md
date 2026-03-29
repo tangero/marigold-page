@@ -4,7 +4,6 @@ slug: 'ptt-na-nokia-5140-v-praxi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Nokia 5140 má PTT (PoC) funkci testovanou v síti AT&T Wireless.
 - Sestavení PTT hovoru trvá zhruba jednu vteřinu, zpoždění 1-2 vteřiny.

@@ -4,7 +4,6 @@ slug: 'poucne-hornorakouske-setkani-venovane-nalezeni-vyznamu-tradice'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Rodinné setkání Zandlů v Rakousku ukazuje rozdíly v životě a tradicích.
 - Komunismus v Česku zničil tradice, což je nejhorší důsledek vlády.

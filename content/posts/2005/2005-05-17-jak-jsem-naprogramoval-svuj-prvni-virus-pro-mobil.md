@@ -4,7 +4,6 @@ slug: 'jak-jsem-naprogramoval-svuj-prvni-virus-pro-mobil'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Konference AEC autora přivedla k vzpomínce na "první virus".
 - Autorův "virus" z roku 1998 aktivoval ikonu hlasové schránky na Nokiích.

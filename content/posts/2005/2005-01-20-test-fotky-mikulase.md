@@ -4,7 +4,6 @@ slug: 'test-fotky-mikulase'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - MMS zpráva s fotkou Mikuláše byla odeslána do redakčního systému.
 - Test ověřuje funkčnost posílání MMS zpráv včetně obrázků.

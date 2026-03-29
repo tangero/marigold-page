@@ -4,7 +4,6 @@ slug: 'na-technologicke-scene-klid-tv-v-mobilu-podily-vyrobcu-telefonu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Mobile TV článek na The Feature zkoumá výsledky v Koreji, Japonsku a plány Nokie.
 - Nokia vede trh mobilů s 33,8% podílem, mírně klesla.

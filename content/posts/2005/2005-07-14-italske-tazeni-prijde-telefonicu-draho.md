@@ -4,7 +4,6 @@ slug: 'italske-tazeni-prijde-telefonicu-draho'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Alierta čelí problémům s insider tradingem, jehož prokázání je obtížné.
 - Telefonica zaplatí 39 milionů Euro za porušení smlouvy o 3G síti v Itálii.

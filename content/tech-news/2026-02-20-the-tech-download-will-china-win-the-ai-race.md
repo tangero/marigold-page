@@ -15,7 +15,7 @@ source:
   id: null
   name: CNBC
 title: 'Tech Download: Vyhraje Čína závod v AI?'
-url: https://www.cnbc.com/2026/02/20/tech-download-newsletter-china-ai-race.html
+source_url: https://www.cnbc.com/2026/02/20/tech-download-newsletter-china-ai-race.html
 urlToImage: https://image.cnbcfm.com/api/v1/image/108095040-1738260179980-gettyimages-2196090843-19DeepSeekLogoIllustration2025.jpeg?v=1771584808&w=1920&h=1080
 urlToImageBackup: https://image.cnbcfm.com/api/v1/image/108095040-1738260179980-gettyimages-2196090843-19DeepSeekLogoIllustration2025.jpeg?v=1771584808&w=1920&h=1080
 ---

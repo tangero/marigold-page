@@ -4,7 +4,6 @@ slug: 't-mobile-bude-pouzivat-software-od-boingo'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - T-Mobile a Boingo uzavřeli dohodu o autorizaci a klientském softwaru pro 2,5G síť.
 - T-Mobile zjednoduší autorizaci WiFi sítě pomocí řešení od Boingo.

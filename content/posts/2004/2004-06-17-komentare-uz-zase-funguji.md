@@ -4,7 +4,6 @@ slug: 'komentare-uz-zase-funguji'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Komentáře nyní fungují, chyba byla úspěšně odstraněna.
 - Komentování je opět možné po vyřešení dřívějšího problému.

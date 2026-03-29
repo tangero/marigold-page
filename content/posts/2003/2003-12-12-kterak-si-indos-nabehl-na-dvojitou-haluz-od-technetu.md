@@ -4,7 +4,6 @@ slug: 'kterak-si-indos-nabehl-na-dvojitou-haluz-od-technetu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Technet publikoval článek o spamu rozesílaném přes servery Indoš.
 - Indoš reagoval popřením a zpochybněním faktů v prvním článku.

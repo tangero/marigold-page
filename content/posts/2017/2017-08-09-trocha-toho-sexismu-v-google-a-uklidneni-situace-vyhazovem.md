@@ -2,7 +2,6 @@
 slug: 'trocha-toho-sexismu-v-google-a-uklidneni-situace-vyhazovem'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - Zaměstnanec Google kritizoval nedostatečné zastoupení žen v IT. Google zaměstnance
   vyhodil za porušení firemního řádu. Kritika se zaměřuje na vzdělávání žen v technických

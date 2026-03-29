@@ -4,7 +4,6 @@ slug: 'wirphone-dalsi-voip-sluzba-u-nas'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Wirphone nabízí internetovou telefonii s voláním do zahraničí a ČR.
 - Vteřinová tarifikace Wirphone začíná od první vteřiny hovoru.

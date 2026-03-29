@@ -4,7 +4,6 @@ slug: 'epyxmobile-telefonovani-pres-skype-mobilem-slozite'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - EpyxMobile umožňuje volat ze sítě GSM do Skype pomocí dvou mobilů a PC.
 - Volání mezi prvním a druhým mobilem je zpoplatněno dle tarifu uživatele.

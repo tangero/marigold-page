@@ -4,7 +4,6 @@ slug: 'koho-jsem-tedy-nominoval-na-ceske-zavinace-2002-v-prvnim-kole'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor zveřejnil své nominace na Českého Zavináče 2002.
 - Technet, CD-R a Pravednes jsou autorovy oblíbené zpravodajské stránky.

@@ -4,7 +4,6 @@ slug: 'nejenom-skoly-nemaji-na-internet'
 author: Noname
 
   '
-published: true
 summary_points:
 - SIPVZ dotace byly zrušeny, což školám omezí finance na internetové připojení.
 - Školy budou muset volit mezi provozem a internetem, což autor považuje za správné.

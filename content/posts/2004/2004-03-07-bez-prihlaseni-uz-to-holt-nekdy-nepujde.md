@@ -4,7 +4,6 @@ slug: 'bez-prihlaseni-uz-to-holt-nekdy-nepujde'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Horečka autora má neobvyklé projevy s nízkou teplotou, léčí se Paralenem a odpočinkem.
 - Autor o víkendu programoval inteligentnější řízení přístupu k informacím na Marigoldovi.

@@ -6,7 +6,6 @@ categories:
 - Autorská práva
 
   '
-published: true
 summary_points:
 - Přednáška na MU v Brně, "Hermeneutika smrti intelektuálních práv", byla součástí
   akce Blog expertů.

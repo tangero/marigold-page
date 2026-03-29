@@ -4,7 +4,6 @@ slug: 'hleda-se-kolega-programator-pro-vyvoj-streaming-videozazraku'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Javista hledán pro unikátní, slušně proinvestovaný projekt online videa.
 - Společnost hledá JAVA programátora pro vývoj webového projektu streamingu videa.

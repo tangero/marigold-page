@@ -4,7 +4,6 @@ slug: 'invex-a-systems'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Invex autor zvažuje vynechat kvůli nezajímavému programu a varováním před nedostatkem
   novinek.

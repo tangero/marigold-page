@@ -4,7 +4,6 @@ slug: 'oficialni-stanovisko-ctu-k-necekanemu-pausalu-a-internetu-na-geografickyc
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - ČTÚ potvrdil nelegálnost internetu na geografických číslech dle Číslovacího plánu.
 - Přístup k internetu přes veřejnou telefonní síť smí být jen na číslech 971/976.

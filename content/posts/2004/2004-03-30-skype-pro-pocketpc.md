@@ -4,7 +4,6 @@ slug: 'skype-pro-pocketpc'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Skype testuje beta verzi VoIP softwaru pro PocketPC 2003 s WiFi.
 - PocketPC zařízení mají výpočetní výkon, WiFi a mikrofon pro VoIP telefonování.

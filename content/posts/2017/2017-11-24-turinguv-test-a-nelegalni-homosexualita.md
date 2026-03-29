@@ -4,7 +4,6 @@ slug: 'turinguv-test-a-nelegalni-homosexualita'
 author: Patrick Zandl
 categories: AI
 featured: true
-published: true
 summary_points:
 - Turingův test vymyslel Alan Turing v roce 1950.
 - Test zjišťuje, zda stroje budeme považovat za inteligentní.

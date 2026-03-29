@@ -7,7 +7,6 @@ categories:
 - Mobilní sítě
 
   '
-published: true
 summary_points:
 - CoMP zvyšuje rychlost a efektivitu mobilních datových přenosů v bezdrátových sítích.
 - CoMP umožňuje mobilnímu zařízení využívat zdroje z více rádiových zdrojů současně.

@@ -19,7 +19,7 @@ source:
   name: The Verge
 title: AI platforma pro tvorbu hudby ProducerAI, schválená Chainsmokers, se připojuje
   k Google
-url: https://www.theverge.com/tech/883307/google-producerai-deal-music
+source_url: https://www.theverge.com/tech/883307/google-producerai-deal-music
 urlToImage: https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK467_AI_MUSIC_CVirginia_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200
 urlToImageBackup: https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK467_AI_MUSIC_CVirginia_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200
 ---

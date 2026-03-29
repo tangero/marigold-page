@@ -4,7 +4,6 @@ slug: 'cesky-telecom-spoutsi-wifi-hotspoty-u-benzinek-shell'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Shell benzínky hostí 15 nových WiFi hotspotů Českého Telecomu.
 - Telecom rozšiřuje WiFi síť mimo prodejny Telepoint, celkem jich má 35.

@@ -4,7 +4,6 @@ slug: 'standa-gross-billboard-creator'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - SG Creator umožňuje tvorbu billboardových sloganů pro nejmladšího premiéra.
 - Web nabízí i pokusný slogan pro premiérovy billboardy.

@@ -4,7 +4,6 @@ slug: 'vozidlove-radary-short-range-radar'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - eSafety EU chtěla do roku 2010 snížit úmrtí chodců při srážkách s auty na polovinu.
 - Short-range radary (SRR) měly pomoci snížit nehodovost, montáž do vozů měla být

@@ -19,7 +19,7 @@ source:
   id: null
   name: Naturalnews.com
 title: 'Baterie Donut Lab: Moment Wrightových bratrů pro energetickou nezávislost?'
-url: https://www.naturalnews.com/2026-02-21-the-donut-lab-battery-energy-independence.html
+source_url: https://www.naturalnews.com/2026-02-21-the-donut-lab-battery-energy-independence.html
 urlToImage: https://www.naturalnews.com/wp-content/uploads/sites/91/2026/02/solid-state-battery-energy-density-charge-cycles-311-original.jpg
 urlToImageBackup: https://www.naturalnews.com/wp-content/uploads/sites/91/2026/02/solid-state-battery-energy-density-charge-cycles-311-original.jpg
 ---

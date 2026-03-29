@@ -4,7 +4,6 @@ slug: 'budouci-vyvoj-bluetooth'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Bluetooth 2.0 EDR nabízí trojnásobnou rychlost a sníženou spotřebu energie.
 - Bluetooth SIG letos publikuje novou verzi specifikace s vylepšenou bezpečností.

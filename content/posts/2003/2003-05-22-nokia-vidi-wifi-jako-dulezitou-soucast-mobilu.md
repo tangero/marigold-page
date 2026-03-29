@@ -4,7 +4,6 @@ slug: 'nokia-vidi-wifi-jako-dulezitou-soucast-mobilu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WiFi bude klíčové pro budoucí hi-end mobilní telefony Nokia.
 - Budoucí telefony Nokia nabídnou gigabity paměti a dvoumegapixelové kamery.

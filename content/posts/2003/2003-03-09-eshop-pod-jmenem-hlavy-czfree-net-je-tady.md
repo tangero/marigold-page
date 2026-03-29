@@ -4,7 +4,6 @@ slug: 'eshop-pod-jmenem-hlavy-czfree-net-je-tady'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - CzFree Net propaguje eshop AlphaWave Zdeňka Jandy na titulní stránce.
 - AlphaWave prodává produkty kompatibilní s CzFree, například Ronja 10 Mbps za 15

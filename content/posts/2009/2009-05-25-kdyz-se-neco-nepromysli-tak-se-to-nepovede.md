@@ -7,7 +7,6 @@ categories:
 - Redesign
 
   '
-published: true
 summary_points:
 - Žena-in po redesignu zaznamenala výrazný pokles návštěvnosti dle dat NetMonitoru.
 - Pokles návštěvnosti Žena-in kontrastuje se stagnací či mírným poklesem u konkurenčních

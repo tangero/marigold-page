@@ -4,7 +4,6 @@ slug: 'jak-uvarit-exklusivni-clanek-z-vody-priklad-z-mobilmanie'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Eurotel vybírá dodavatele EDGE technologie, rozhodnutí padne příští týden.
 - Článek MobilManie o EDGE od Eurotelu obsahuje minimum nových informací.

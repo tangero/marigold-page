@@ -4,7 +4,6 @@ slug: 'invex-2003-wifi-life-pavilon'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Invex nabízí zdarma WiFi v pavilonu WiFi Life s ochotným personálem.
 - WiFi Life pavilon představuje firmy IDG, VanCoNet, WideNet a Globe Internet.

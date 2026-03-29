@@ -4,7 +4,6 @@ slug: 'wrt-311-ap-router-client'
 author: Noname
 
   '
-published: true
 summary_points:
 - WRT-311 AP/Router/Client má český manuál a webové rozhraní.
 - Zařízení podporuje režimy AP, klient, router, NAT router a WDS.

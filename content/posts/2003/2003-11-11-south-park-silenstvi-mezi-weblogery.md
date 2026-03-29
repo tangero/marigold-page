@@ -4,7 +4,6 @@ slug: 'south-park-silenstvi-mezi-weblogery'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - South Park generátor portrétů spustil vlnu blogerských obrázků.
 - Blogeři si hromadně vytvářeli portréty ve stylu South Parku.

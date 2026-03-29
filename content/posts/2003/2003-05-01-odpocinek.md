@@ -2,7 +2,6 @@
 slug: 'odpocinek'
 
 author: Patrick Zandl
-published: true
 summary_points:
 - Zdravotní klid autora povede k dalším informacím až po víkendu.
 - Autor přeje příjemný víkend čtenářům.

@@ -7,7 +7,6 @@ categories:
 - Google
 
   '
-published: true
 summary_points:
 - Česká Wikipedie dosáhla 100 000 záznamů, ale autor má s ní osobní problémy.
 - Autorovi vadí řevnivost, osobní spory a zbrklý přístup k novým heslům.

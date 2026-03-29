@@ -4,7 +4,6 @@ slug: 'podvody-mobilmania-cz-s-navstevnosti-praskly'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - MobilMania manipulovala s auditem návštěvnosti pomocí kódu na serveru GSMarena.com.
 - GSMarena.com zobrazoval obrázky z MobilManie s jejím auditorským kódem.

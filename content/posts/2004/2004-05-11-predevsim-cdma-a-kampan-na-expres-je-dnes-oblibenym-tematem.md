@@ -4,7 +4,6 @@ slug: 'predevsim-cdma-a-kampan-na-expres-je-dnes-oblibenym-tematem'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Článek na Mobil.cz pojednává o prohlášení Ericssonu ohledně sítí 4G v roce 2012.
 - Mobil.cz publikoval pokračování seriálu o budování komunitních Wi-Fi sítí.

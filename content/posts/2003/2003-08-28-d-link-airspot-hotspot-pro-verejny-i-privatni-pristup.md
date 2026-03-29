@@ -4,7 +4,6 @@ slug: 'd-link-airspot-hotspot-pro-verejny-i-privatni-pristup'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - D-Link Airspot DSA-3100 je kompletní řešení pro výstavbu WiFi hotspotu.
 - Restaurace mohou Airspot využít pro veřejný internet a firemní intranet.

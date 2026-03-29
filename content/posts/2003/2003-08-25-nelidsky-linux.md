@@ -4,7 +4,6 @@ slug: 'nelidsky-linux'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - ČTK hlásí polidšťování Linuxu vývojáři v Nových Hradech.
 - Linux se prý bude podobat Madonně nebo bude mít deset prstů.

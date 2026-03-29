@@ -4,7 +4,6 @@ slug: 'hluboke-podekovani-za-spasu-notebooku'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Notebook byl zachráněn díky cenným radám, ušetřena reinstalace a nervy.
 - Softwarová čistka notebooku proběhla, nepotřebné programy byly odstraněny a nahrazeny.

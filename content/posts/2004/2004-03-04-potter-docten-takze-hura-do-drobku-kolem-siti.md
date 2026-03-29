@@ -4,7 +4,6 @@ slug: 'potter-docten-takze-hura-do-drobku-kolem-siti'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Harry Potter pátý díl je komplikovanější a úměrně roste s věkem čtenářů.
 - Marigold roztřídil zprávy do kategorií, včetně nové kategorie 3G a shrnutí 3G Týden.

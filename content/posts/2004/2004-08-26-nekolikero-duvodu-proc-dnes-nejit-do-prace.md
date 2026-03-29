@@ -4,7 +4,6 @@ slug: 'nekolikero-duvodu-proc-dnes-nejit-do-prace'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Dovolená byla vzata na narozeniny, které autor nechce trávit prací.
 - Problémy byly vyřešeny nebo přesunuty, kontakt by je mohl vrátit.

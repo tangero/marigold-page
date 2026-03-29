@@ -4,7 +4,6 @@ slug: 'wapovy-marigold'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WAP Marigold nabízí přehled zpráviček a komentářů.
 - Databáze hotspotů a mobilní praktičnosti budou přidány.

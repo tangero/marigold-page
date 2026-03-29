@@ -4,7 +4,6 @@ slug: 'cinetik-migroval-jabadabadu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor odešel dříve z Cinetiku kvůli migraci systému Michalem.
 - Film Čtyři psi hrají poker byl po dlouhé době kvalitní.

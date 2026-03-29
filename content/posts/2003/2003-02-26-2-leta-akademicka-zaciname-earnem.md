@@ -4,7 +4,6 @@ slug: '2-leta-akademicka-zaciname-earnem'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - FidoNET byla první počítačová síť v Československu, amatérská a nekomerční.
 - EUNet dorazila do Prahy v květnu 1990, propojovala Unixové počítače.

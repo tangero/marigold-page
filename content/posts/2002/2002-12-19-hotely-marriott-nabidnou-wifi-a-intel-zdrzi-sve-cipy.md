@@ -4,7 +4,6 @@ slug: 'hotely-marriott-nabidnou-wifi-a-intel-zdrzi-sve-cipy'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Marriott zavede WiFi/WiFi5 ve všech hotelech do jara 2003, zajišťuje STSN.
 - Intel odložil čipovou sadu Calexio s WiFi/WiFi5 pro notebooky.

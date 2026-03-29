@@ -4,7 +4,6 @@ slug: 'airblock-802-11-zabezpeceni-wifi-site'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - AirBlock 802.11 je software pro zabezpečení WiFi sítí ve dvou verzích.
 - Automatická změna a distribuce WEP klíče je hlavní funkcí AirBlocku.

@@ -6,7 +6,6 @@ categories:
 - Příběhy
 
   '
-published: true
 summary_points:
 - Miliardář se autora ptá, zda o něm bude psát na Twitteru.
 - Sekretářka volá kvůli příhodě, jak autor vlezl miliardáři na stůl.

@@ -4,7 +4,6 @@ slug: 'yahoo-ve-videosouborech-skutecne-vyhledava'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - Yahoo! nabízí vyhledávání videosouborů na internetu dle Tomáše Hloboďa.
 - Vyhledávání probíhá i v metadatech multimediálních souborů.

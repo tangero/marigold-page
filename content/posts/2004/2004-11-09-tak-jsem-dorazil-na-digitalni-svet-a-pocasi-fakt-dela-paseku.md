@@ -4,7 +4,6 @@ slug: 'tak-jsem-dorazil-na-digitalni-svet-a-pocasi-fakt-dela-paseku'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Konference Digitální svět od Setosu se konala v TopHotelu, snadno nalezitelném díky
   značení.

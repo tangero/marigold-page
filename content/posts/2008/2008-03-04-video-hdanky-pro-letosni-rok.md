@@ -7,7 +7,6 @@ categories:
 - Média
 
   '
-published: true
 summary_points:
 - Video provoz poroste, Youtube generuje až 40% celosvětového internetového provozu.
 - Flash dominuje internetovému videu, kodeky Sorenson Spark a VP6 jsou nejrozšířenější.

@@ -4,7 +4,6 @@ slug: 'fujitsu-predstavilo-pda-pocket-loox-flx3aw-s-wifi-a-bluetooth'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Fujitsu uvádí na japonský trh PDA Pocket LOOX FLX3AW.
 - Pocket LOOX FLX3AW disponuje WiFi 802.11b a Bluetooth rozhraním.

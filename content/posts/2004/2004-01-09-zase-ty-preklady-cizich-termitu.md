@@ -4,7 +4,6 @@ slug: 'zase-ty-preklady-cizich-termitu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Časový Duplex (ČD) byl v prezentaci mylně zaměněn za České Dráhy.
 - Zkratky v mobilních sítích je lepší nepřekládat, i když USRAN zní divně.

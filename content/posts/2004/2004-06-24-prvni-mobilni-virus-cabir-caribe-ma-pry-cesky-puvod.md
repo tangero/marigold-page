@@ -4,7 +4,6 @@ slug: 'prvni-mobilni-virus-cabir-caribe-ma-pry-cesky-puvod'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - A, česká skupina autorů virů, si nárokuje autorství prvního mobilního viru Cabir.
 - Cabir se šířil přes bluetooth u telefonů se Symbianem, což je v ČR vzácné.

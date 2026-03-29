@@ -4,7 +4,6 @@ slug: 'voipbuster-nabizi-volani-na-pevne-linky-zdarma-a-teleo-a-xphone'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - VoipBuster nabízí bezplatné volání na pevné linky, omezené na jednu minutu.
 - VoipBuster může bezplatné volání zrušit, omezení se již zpřísnila.

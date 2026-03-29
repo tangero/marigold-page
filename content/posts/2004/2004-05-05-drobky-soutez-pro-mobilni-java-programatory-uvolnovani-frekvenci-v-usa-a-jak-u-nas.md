@@ -4,7 +4,6 @@ slug: 'drobky-soutez-pro-mobilni-java-programatory-uvolnovani-frekvenci-v-usa-a-
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Eurotel, Nokia a UPMobile pořádají soutěž Start 2004 pro Java programátory.
 - FCC uvolňuje 50 MHz pásma pro WiMax na objednávku G. Bushe.

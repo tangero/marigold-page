@@ -4,7 +4,6 @@ slug: 'apple-lightning-a-sluchatka'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Apple odstranil analogový konektor pro sluchátka u iPhone 7.
 - Vodotěsnost a úspora místa jsou hlavní důvody odstranění jacku.

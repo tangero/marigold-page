@@ -4,7 +4,6 @@ slug: 'silnicarska-logika'
 author: Michal Krsek
 
   '
-published: true
 summary_points:
 - Cesta z Dejvic do Přezletic byla komplikovaná kvůli neprotaženým silnicím až do
   Čakovic.

@@ -4,7 +4,6 @@ slug: 'komodizace-mobilnich-sluzeb-a-ozveny-operatorske-smrti'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Komodizace služeb operátorů vede k úpadku emocí a poklesu cen.
 - Mobilní služby se staly přežitkem, operátory odlišuje pokrytí a podpora.

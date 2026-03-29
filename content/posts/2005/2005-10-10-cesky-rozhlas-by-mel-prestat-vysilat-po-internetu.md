@@ -4,7 +4,6 @@ slug: 'cesky-rozhlas-by-mel-prestat-vysilat-po-internetu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - ČRo tvrdí, že počítače s internetem a zvukem umožňují příjem rozhlasu.
 - Navrhované řešení je zakázat ČRo vysílat po internetu.

@@ -4,7 +4,6 @@ slug: 'weblogy-jsou-vlastne-takova-p2p-zurnalistika'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Weblogy fungují jako peer-to-peer novinařina, kde čtenáři doplňují a ověřují informace.
 - Důležité je filtrovat smysluplné dodatky čtenářů, což je problém u novinářské zodpovědnosti.

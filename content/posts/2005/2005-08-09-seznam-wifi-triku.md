@@ -4,7 +4,6 @@ slug: 'seznam-wifi-triku'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Autor plánuje sepsat sbírku praktických tipů a triků pro práci s WiFi.
 - Autor se obává, že jeho zkušenosti s WiFi se liší od běžných uživatelů.

@@ -4,7 +4,6 @@ slug: 'proc-to-bude-mit-nova-s-tazenim-na-internet-tezke'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Firemní výjezd sloužil k seznámení s novými kolegy a strategii Streamu.
 - Definovat internetové postupy je obtížné, i když jsou intuitivně zřejmé.

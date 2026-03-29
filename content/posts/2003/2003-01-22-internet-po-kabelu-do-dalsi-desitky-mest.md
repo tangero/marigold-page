@@ -4,7 +4,6 @@ slug: 'internet-po-kabelu-do-dalsi-desitky-mest'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - TESmedia a Intercable fúzují, rozšíří internetové připojení do dalších měst.
 - Kabelový internet je levný a podporuje rozvoj sousedských sítí.

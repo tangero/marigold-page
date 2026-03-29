@@ -4,7 +4,6 @@ slug: 'geekoviny-samsung-nexio-s160'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Samsung Nexio S160 PDA zaujalo autora díky svému provedení.
 - Nexio S160 má 400MHz procesor, WinCE .NET 4.1 a vyklápěcí klávesnici.

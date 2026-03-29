@@ -4,7 +4,6 @@ slug: 'a-uz-na-cebitu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - CeBIT provází déšť a nefunkční FTP znemožňuje odesílání fotografií.
 - WiFi síť by měla být zprovozněna zítra, což zlepší situaci.

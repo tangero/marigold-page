@@ -7,7 +7,6 @@ categories:
 - eBooky
 
   '
-published: true
 summary_points:
 - Elektronická kniha má nejistou budoucnost, přestože se zdá, že čtečky řeší mnoho
   problémů.

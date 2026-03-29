@@ -4,7 +4,6 @@ slug: 'france-telecom-jde-take-do-wifi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - France Telecom plánuje rozšíření GSM/UMTS sítí o WiFi hotspoty.
 - WiFi businessu se France Telecom věnuje po vzoru T-Mobile a British Telecom.

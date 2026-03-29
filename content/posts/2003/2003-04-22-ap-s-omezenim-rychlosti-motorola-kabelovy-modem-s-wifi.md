@@ -4,7 +4,6 @@ slug: 'ap-s-omezenim-rychlosti-motorola-kabelovy-modem-s-wifi'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - XI-1500P access point umožňuje omezit rychlost WiFi uživatelů za 15 000 Kč.
 - XI-1500P podporuje RADIUS autorizaci a napájení po ethernetu.

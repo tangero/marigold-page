@@ -4,7 +4,6 @@ slug: 'netphone-210-od-faynu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - NetPhone 210 je IP telefon od Fayn, který nepotřebuje zapnutý počítač.
 - NetPhone 210 nabízí poštovního klienta, Jabber, NetMeeting, kalkulačku a telefonní

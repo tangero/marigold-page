@@ -4,7 +4,6 @@ slug: 'zlodej-ukradl-na-cebitu-u-siemensu-mobil-bohuzel-pro-nej-byl-vybaveny-gps
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Siemens SX1 prototyp s A-GPS byl ukraden na CeBITu.
 - A-GPS umožnilo Siemensu lokalizovat zloděje pomocí skrytých SMS.

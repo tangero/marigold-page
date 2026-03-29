@@ -4,7 +4,6 @@ slug: 'jdeme-do-zpravodajskeho-designu'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Mobil server začínal jako odkazovník na nezávislé sekce, nikoliv jako zpravodajský
   web.

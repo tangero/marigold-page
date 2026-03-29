@@ -4,7 +4,6 @@ slug: 'prohravam-boj-s-routery-a-s-upc-mistralem'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Routery Linksys a Vigor nepřijímají DHCP konfiguraci od UPC Mistralu.
 - Starý router SMC Barricade funguje s Mistralem bez problémů.

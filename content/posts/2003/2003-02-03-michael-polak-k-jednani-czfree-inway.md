@@ -4,7 +4,6 @@ slug: 'michael-polak-k-jednani-czfree-inway'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Jednání CzFree a InWay zatím nedospěla k závěru, řeší se technické možnosti.
 - CzFree má smlouvy s různými subjekty, například TransgasNet, PragoNet a dalšími.

@@ -4,7 +4,6 @@ slug: 'eurotel-live-napotreti-to-snad-klapne-ale-ja-jsem-skeptik'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Eurotel v roce 2000 investoval do WAP portálu Juice, utratil 80 milionů Kč.
 - JuicePay služba s Citybank měla malý počet uživatelů a byla zrušena.

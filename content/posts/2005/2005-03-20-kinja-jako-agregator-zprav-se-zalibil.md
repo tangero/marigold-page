@@ -4,7 +4,6 @@ slug: 'kinja-jako-agregator-zprav-se-zalibil'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Kinja je agregátor zpráv, který extrahuje zprávy z vybraných serverů.
 - Kinja umožňuje sledovat souhrny zpráv ostatních uživatelů a import/export OPML.

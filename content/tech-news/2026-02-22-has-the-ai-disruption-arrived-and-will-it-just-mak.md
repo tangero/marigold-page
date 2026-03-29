@@ -22,7 +22,7 @@ source:
   id: null
   name: Slashdot.org
 title: Přišlo narušení díky AI – a udělá to software jen levnější a přístupnější?
-url: https://developers.slashdot.org/story/26/02/22/0620244/has-the-ai-disruption-arrived---and-will-it-just-make-software-cheaper-and-more-accessible
+source_url: https://developers.slashdot.org/story/26/02/22/0620244/has-the-ai-disruption-arrived---and-will-it-just-make-software-cheaper-and-more-accessible
 urlToImage: https://a.fsdn.com/sd/topics/programming_64.png
 urlToImageBackup: https://a.fsdn.com/sd/topics/programming_64.png
 ---

@@ -4,7 +4,6 @@ slug: 'wifi-nezavisle-na-napajeni-akumulatory-a-solarni-panely'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - WiFi repeater lze napájet akumulátorem, například 6V/10Ah, pro dočasný provoz.
 - Solární panely vyžadují akumulátor a regulátor pro stálé napájení WiFi repeateru.

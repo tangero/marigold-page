@@ -4,7 +4,6 @@ slug: 'czfree-net-nominovan-na-nejlepsi-novy-projekt-a-udalost-roku-2002'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - CzFree Net nominován na Českého zavináče v kategoriích Nejlepší nový projekt a Událost
   roku.

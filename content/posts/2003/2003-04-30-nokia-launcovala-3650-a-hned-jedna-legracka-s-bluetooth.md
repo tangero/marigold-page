@@ -4,7 +4,6 @@ slug: 'nokia-launcovala-3650-a-hned-jedna-legracka-s-bluetooth'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Nokia uvedla na trh telefon Nokia 3650 s kulatým číselníkem.
 - JellySpot je klientský program pro telefony Nokia Series 60.

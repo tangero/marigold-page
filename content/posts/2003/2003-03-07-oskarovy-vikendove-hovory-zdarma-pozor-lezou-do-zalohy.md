@@ -4,7 +4,6 @@ slug: 'oskarovy-vikendove-hovory-zdarma-pozor-lezou-do-zalohy'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Oskar tarify nabízí víkendové hovory zdarma po síti Oskar po dobu několika měsíců.
 - Český Mobil účtuje víkendové hovory v síti Oskar do výše zálohy.

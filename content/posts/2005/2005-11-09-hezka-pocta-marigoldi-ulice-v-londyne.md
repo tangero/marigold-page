@@ -4,7 +4,6 @@ slug: 'hezka-pocta-marigoldi-ulice-v-londyne'
 author: Patrick Zandl
 
   '
-published: true
 summary_points:
 - Marigold byl oceněn pojmenováním ulice v Londýně, zdokumentované M. Matysem.
 - Pražští radní vyžadují pro pojmenování ulic mrtvé velikány.

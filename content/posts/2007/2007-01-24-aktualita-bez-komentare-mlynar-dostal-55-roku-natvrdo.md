@@ -4,7 +4,6 @@ slug: 'aktualita-bez-komentare-mlynar-dostal-55-roku-natvrdo'
 author: Noname
 
   '
-published: true
 summary_points:
 - Mlynář odsouzen na pět a půl roku vězení.
 - iDNES zveřejnil zprávu o Mlynářově odsouzení.
