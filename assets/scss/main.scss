@@ -1926,7 +1926,7 @@ pre:has(code.language-mermaid), code.language-mermaid {
 }
 
 .toc-body {
-  padding: 0 16px 14px;
+  padding: 0 16px 8px;
 
   nav#TableOfContents ul {
     margin: 0;
@@ -1935,17 +1935,18 @@ pre:has(code.language-mermaid), code.language-mermaid {
     list-style: none !important;
     display: flex !important;
     flex-direction: column !important;
+    align-items: flex-start !important;
+    text-align: left;
   }
 
   nav#TableOfContents > ul > li {
     display: list-item !important;
     list-style: none !important;
     counter-increment: toc-counter;
-    padding: 5px 0;
+    padding: 2px 0;
     border-bottom: 1px solid #eef0f2;
-    line-height: 1.4;
-    word-wrap: break-word;
-    overflow-wrap: break-word;
+    line-height: 1.3;
+    width: 100%;
 
     &:last-child {
       border-bottom: none;
@@ -1981,9 +1982,9 @@ pre:has(code.language-mermaid), code.language-mermaid {
   nav#TableOfContents > ul > li > ul > li {
     display: block !important;
     counter-increment: toc-sub-counter;
-    padding: 3px 0;
+    padding: 1px 0;
     border-bottom: none;
-    line-height: 1.4;
+    line-height: 1.3;
 
     &::before {
       content: counter(toc-counter) "." counter(toc-sub-counter);
