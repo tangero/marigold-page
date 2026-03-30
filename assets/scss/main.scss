@@ -1892,11 +1892,8 @@ pre:has(code.language-mermaid), code.language-mermaid {
   background: transparent;
   border-left: 3px solid $blue;
   margin: 1.5rem 0 2rem;
-  max-width: 80%;
-
-  @include mobile {
-    max-width: 100%;
-  }
+  max-width: 100%;
+  overflow: hidden;
 }
 
 .toc-toggle {
@@ -1936,14 +1933,19 @@ pre:has(code.language-mermaid), code.language-mermaid {
     padding: 0;
     counter-reset: toc-counter;
     list-style: none !important;
+    display: flex !important;
+    flex-direction: column !important;
   }
 
   nav#TableOfContents > ul > li {
-    display: block !important;
+    display: list-item !important;
+    list-style: none !important;
     counter-increment: toc-counter;
     padding: 5px 0;
     border-bottom: 1px solid #eef0f2;
     line-height: 1.4;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
 
     &:last-child {
       border-bottom: none;
