@@ -16,8 +16,10 @@
 {{- /* Hero section - only on first page, only if newest post has thumbnail */ -}}
 {{ $paginator := .Paginate $allPages 15 }}
 {{ $firstPost := index $allPages 0 }}
+{{ $heroURL := "" }}
 
 {{ if and (eq $paginator.PageNumber 1) $firstPost.Params.thumbnail }}
+{{ $heroURL = $firstPost.RelPermalink }}
 <section class="hero-section">
   <article class="hero-article">
     <div class="hero-image">
@@ -108,7 +110,9 @@ document.addEventListener('DOMContentLoaded', function() {
 
 {{- /* Main content - article list */ -}}
 <div class="posts">
-  {{ range $index, $page := $paginator.Pages }}
+  {{ $nlIndex := 0 }}
+  {{ range $paginator.Pages }}
+  {{ if eq .RelPermalink $heroURL }}{{ continue }}{{ end }}
   {{ $postURL := .RelPermalink }}
   {{ $postTitle := .Title }}
   <div class="post">
@@ -132,8 +136,9 @@ document.addEventListener('DOMContentLoaded', function() {
     </div>
   </div>
 
+  {{ $nlIndex = add $nlIndex 1 }}
   {{- /* Newsletter CTA after 5th article, only on first page */ -}}
-  {{ if and (eq $index 4) (eq $paginator.PageNumber 1) }}
+  {{ if and (eq $nlIndex 5) (eq $paginator.PageNumber 1) }}
   <div class="newsletter-cta">
     <div class="newsletter-cta-inner">
       <div class="newsletter-cta-text">
