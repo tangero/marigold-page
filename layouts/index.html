@@ -7,23 +7,47 @@
 
 {{ $allPages := union $posts $ai }}
 {{ $allPages = union $allPages $mobilnisite }}
-
-{{- /* Filter out hidden posts */ -}}
 {{ $allPages = where $allPages ".Params.hide" "!=" true }}
-
-{{- /* Sort by date descending and paginate */ -}}
 {{ $allPages = sort $allPages ".Date" "desc" }}
-{{ $paginator := .Paginate $allPages 15 }}
 
-{{- /* Audio player - collect posts with audio_url */ -}}
+{{- /* Czech month names */ -}}
+{{- $months := dict "1" "leden" "2" "unor" "3" "brezen" "4" "duben" "5" "kveten" "6" "cerven" "7" "cervenec" "8" "srpen" "9" "zari" "10" "rijen" "11" "listopad" "12" "prosinec" -}}
+
+{{- /* Hero section - only on first page, only if newest post has thumbnail */ -}}
+{{ $paginator := .Paginate $allPages 15 }}
+{{ $firstPost := index $allPages 0 }}
+
+{{ if and (eq $paginator.PageNumber 1) $firstPost.Params.thumbnail }}
+<section class="hero-section">
+  <article class="hero-article">
+    <div class="hero-image">
+      {{ $thumb := replace $firstPost.Params.thumbnail "http://" "https://" }}
+      <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_800,h_400,c_fill,g_auto,f_auto,q_auto/{{ $thumb }}" alt="{{ $firstPost.Title }}">
+    </div>
+    <div class="hero-content">
+      <div class="hero-meta">
+        {{ partial "badge.html" $firstPost }}
+        <time datetime="{{ $firstPost.Date.Format "2006-01-02" }}">{{ $firstPost.Date.Day }}. {{ index $months (printf "%d" $firstPost.Date.Month) }} {{ $firstPost.Date.Year }}</time>
+      </div>
+      <h1 class="hero-title">
+        <a href="{{ $firstPost.RelPermalink }}">{{ $firstPost.Title }}</a>
+      </h1>
+      <p class="hero-excerpt">{{ $firstPost.Summary | plainify | truncate 200 }}</p>
+      <a href="{{ $firstPost.RelPermalink }}" class="hero-cta">Cist dal &rarr;</a>
+    </div>
+  </article>
+</section>
+{{ end }}
+
+{{- /* Audio player */ -}}
 {{ $audioPosts := where $allPages ".Params.audio_url" "!=" nil }}
 
 {{ if $audioPosts }}
 <div id="audio-player">
   <div class="audio-controls">
-    <button id="play-pause" title="Prehrat/Pozastavit">▶️</button>
-    <button id="prev-track" title="Predchozi">⏮️</button>
-    <button id="next-track" title="Dalsi">⏭️</button>
+    <button id="play-pause" title="Prehrat/Pozastavit">&#x25B6;&#xFE0F;</button>
+    <button id="prev-track" title="Predchozi">&#x23EE;&#xFE0F;</button>
+    <button id="next-track" title="Dalsi">&#x23ED;&#xFE0F;</button>
     <span id="track-title">Nacitam playlist...</span>
     <div class="progress-container">
       <div class="progress-bar" id="progress"></div>
@@ -35,145 +59,63 @@
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
-  const playlist = [
+  var playlist = [
     {{ range first 20 $audioPosts }}
-    {
-      title: {{ .Title | jsonify }},
-      url: {{ .Params.audio_url | jsonify }},
-      date: "{{ .Date.Format "02.01.2006" }}"
-    },
+    { title: {{ .Title | jsonify | safeJS }}, url: {{ .Params.audio_url | jsonify | safeJS }}, date: "{{ .Date.Format "02.01.2006" }}" },
     {{ end }}
   ];
-
   if (playlist.length === 0) return;
+  var audio = document.getElementById('audio-element');
+  var playPauseBtn = document.getElementById('play-pause');
+  var prevBtn = document.getElementById('prev-track');
+  var nextBtn = document.getElementById('next-track');
+  var trackTitle = document.getElementById('track-title');
+  var progress = document.getElementById('progress');
+  var trackTime = document.getElementById('track-time');
+  var currentTrack = 0, isPlaying = false;
 
-  const audio = document.getElementById('audio-element');
-  const playPauseBtn = document.getElementById('play-pause');
-  const prevBtn = document.getElementById('prev-track');
-  const nextBtn = document.getElementById('next-track');
-  const trackTitle = document.getElementById('track-title');
-  const progress = document.getElementById('progress');
-  const trackTime = document.getElementById('track-time');
-
-  let currentTrack = 0;
-  let isPlaying = false;
-
-  function loadTrack(index) {
-    if (index >= playlist.length || index < 0) return;
-    currentTrack = index;
-    const track = playlist[currentTrack];
-    audio.src = track.url;
-    trackTitle.textContent = track.title + ' (' + track.date + ')';
+  function loadTrack(i) {
+    if (i >= playlist.length || i < 0) return;
+    currentTrack = i;
+    audio.src = playlist[i].url;
+    trackTitle.textContent = playlist[i].title + ' (' + playlist[i].date + ')';
     progress.style.width = '0%';
     trackTime.textContent = '0:00 / 0:00';
   }
-
-  function formatTime(seconds) {
-    const mins = Math.floor(seconds / 60);
-    const secs = Math.floor(seconds % 60);
-    return mins + ':' + secs.toString().padStart(2, '0');
-  }
-
-  function updateProgress() {
-    if (audio.duration) {
-      progress.style.width = (audio.currentTime / audio.duration * 100) + '%';
-      trackTime.textContent = formatTime(audio.currentTime) + ' / ' + formatTime(audio.duration);
-    }
-  }
-
+  function fmt(s) { var m=Math.floor(s/60),ss=Math.floor(s%60); return m+':'+ss.toString().padStart(2,'0'); }
   playPauseBtn.addEventListener('click', function() {
-    if (isPlaying) {
-      audio.pause();
-      playPauseBtn.textContent = '▶️';
-      isPlaying = false;
-    } else {
-      audio.play();
-      playPauseBtn.textContent = '⏸️';
-      isPlaying = true;
-    }
+    if (isPlaying) { audio.pause(); playPauseBtn.textContent='\u25B6\uFE0F'; isPlaying=false; }
+    else { audio.play(); playPauseBtn.textContent='\u23F8\uFE0F'; isPlaying=true; }
   });
-
-  prevBtn.addEventListener('click', function() {
-    currentTrack = currentTrack > 0 ? currentTrack - 1 : playlist.length - 1;
-    loadTrack(currentTrack);
-    if (isPlaying) audio.play();
-  });
-
-  nextBtn.addEventListener('click', function() {
-    currentTrack = currentTrack < playlist.length - 1 ? currentTrack + 1 : 0;
-    loadTrack(currentTrack);
-    if (isPlaying) audio.play();
-  });
-
-  audio.addEventListener('timeupdate', updateProgress);
+  prevBtn.addEventListener('click', function() { currentTrack=currentTrack>0?currentTrack-1:playlist.length-1; loadTrack(currentTrack); if(isPlaying) audio.play(); });
+  nextBtn.addEventListener('click', function() { currentTrack=currentTrack<playlist.length-1?currentTrack+1:0; loadTrack(currentTrack); if(isPlaying) audio.play(); });
+  audio.addEventListener('timeupdate', function() { if(audio.duration) { progress.style.width=(audio.currentTime/audio.duration*100)+'%'; trackTime.textContent=fmt(audio.currentTime)+' / '+fmt(audio.duration); } });
   audio.addEventListener('ended', function() { nextBtn.click(); });
-  audio.addEventListener('loadedmetadata', updateProgress);
-
   loadTrack(0);
 });
 </script>
 
 <style>
-#audio-player {
-  background: #f5f5f5;
-  border: 1px solid #ddd;
-  border-radius: 6px;
-  padding: 10px;
-  margin-bottom: 20px;
-  position: sticky;
-  top: 10px;
-  z-index: 100;
-}
-.audio-controls {
-  display: flex;
-  align-items: center;
-  gap: 10px;
-}
-.audio-controls button {
-  background: none;
-  border: none;
-  font-size: 16px;
-  cursor: pointer;
-  padding: 5px;
-  border-radius: 3px;
-}
-.audio-controls button:hover {
-  background-color: rgba(0,0,0,0.1);
-}
-#track-title {
-  flex: 1;
-  font-weight: 500;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  min-width: 0;
-}
-.progress-container {
-  width: 100px;
-  height: 4px;
-  background: #ddd;
-  border-radius: 2px;
-  overflow: hidden;
-}
-.progress-bar {
-  height: 100%;
-  background: #007cba;
-  width: 0%;
-  transition: width 0.1s;
-}
-#track-time {
-  font-size: 12px;
-  color: #666;
-  white-space: nowrap;
-}
+#audio-player { background: #f5f5f5; border: 1px solid #ddd; border-radius: 6px; padding: 10px; margin-bottom: 20px; }
+.audio-controls { display: flex; align-items: center; gap: 10px; }
+.audio-controls button { background: none; border: none; font-size: 16px; cursor: pointer; padding: 5px; }
+#track-title { flex: 1; font-weight: 500; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; min-width: 0; }
+.progress-container { width: 100px; height: 4px; background: #ddd; border-radius: 2px; overflow: hidden; }
+.progress-bar { height: 100%; background: #007cba; width: 0%; transition: width 0.1s; }
+#track-time { font-size: 12px; color: #666; white-space: nowrap; }
 </style>
 {{ end }}
 
+{{- /* Main content - article list */ -}}
 <div class="posts">
-  {{ range $paginator.Pages }}
+  {{ range $index, $page := $paginator.Pages }}
   {{ $postURL := .RelPermalink }}
   {{ $postTitle := .Title }}
   <div class="post">
+    <div class="article-meta">
+      {{ partial "badge.html" . }}
+      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Day }}. {{ index $months (printf "%d" .Date.Month) }} {{ .Date.Year }}</time>
+    </div>
     <h2><a href="{{ $postURL }}">{{ $postTitle }}</a></h2>
     <div class="post-content">
       {{ with .Params.thumbnail }}
@@ -188,18 +130,28 @@ document.addEventListener('DOMContentLoaded', function() {
         {{ .Summary | plainify | truncate 300 }}
       </div>
     </div>
-    <div class="post-meta">
-      {{- $months := dict "1" "leden" "2" "únor" "3" "březen" "4" "duben" "5" "květen" "6" "červen" "7" "červenec" "8" "srpen" "9" "září" "10" "říjen" "11" "listopad" "12" "prosinec" -}}
-      <p class="date">
-        {{ .Date.Day }}.
-        {{ index $months (printf "%d" .Date.Month) }}
-        {{ .Date.Year }}
-        - <a href="{{ $postURL }}">POKRAČUJ VE ČTENÍ 👉</a>
-      </p>
+  </div>
+
+  {{- /* Newsletter CTA after 5th article, only on first page */ -}}
+  {{ if and (eq $index 4) (eq $paginator.PageNumber 1) }}
+  <div class="newsletter-cta">
+    <div class="newsletter-cta-inner">
+      <div class="newsletter-cta-text">
+        <strong>Patrickuv newsletter</strong>
+        <span>Novinky z AI a technologii primo do schranky, zdarma.</span>
+      </div>
+      <a href="https://zandl.substack.com" class="newsletter-cta-btn" target="_blank" rel="noopener">Odebrat</a>
     </div>
   </div>
   {{ end }}
+
+  {{ end }}
 </div>
+
+{{- /* Featured articles - only on first page */ -}}
+{{ if eq $paginator.PageNumber 1 }}
+  {{ partial "featured-articles.html" . }}
+{{ end }}
 
 {{ partial "pagination.html" . }}
 

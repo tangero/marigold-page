@@ -1,0 +1,6 @@
+{{/* Badge pro kategorie - zobrazí se jen pro AI a 5G články */}}
+{{ if eq .Section "ai" }}
+  <span class="badge badge-ai">AI</span>
+{{ else if eq .Section "mobilnisite" }}
+  <span class="badge badge-5g">5G</span>
+{{ end }}
