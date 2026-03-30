@@ -11,7 +11,7 @@
 {{ $allPages = sort $allPages ".Date" "desc" }}
 
 {{- /* Czech month names */ -}}
-{{- $months := dict "1" "leden" "2" "unor" "3" "brezen" "4" "duben" "5" "kveten" "6" "cerven" "7" "cervenec" "8" "srpen" "9" "zari" "10" "rijen" "11" "listopad" "12" "prosinec" -}}
+{{- $months := dict "1" "leden" "2" "únor" "3" "březen" "4" "duben" "5" "květen" "6" "červen" "7" "červenec" "8" "srpen" "9" "září" "10" "říjen" "11" "listopad" "12" "prosinec" -}}
 
 {{- /* Hero section - only on first page, only if newest post has thumbnail */ -}}
 {{ $paginator := .Paginate $allPages 15 }}
@@ -33,7 +33,7 @@
         <a href="{{ $firstPost.RelPermalink }}">{{ $firstPost.Title }}</a>
       </h1>
       <p class="hero-excerpt">{{ $firstPost.Summary | plainify | truncate 200 }}</p>
-      <a href="{{ $firstPost.RelPermalink }}" class="hero-cta">Cist dal &rarr;</a>
+      <a href="{{ $firstPost.RelPermalink }}" class="hero-cta">Číst dál &rarr;</a>
     </div>
   </article>
 </section>
@@ -47,7 +47,7 @@
   <div class="audio-controls">
     <button id="play-pause" title="Prehrat/Pozastavit">&#x25B6;&#xFE0F;</button>
     <button id="prev-track" title="Predchozi">&#x23EE;&#xFE0F;</button>
-    <button id="next-track" title="Dalsi">&#x23ED;&#xFE0F;</button>
+    <button id="next-track" title="Další">&#x23ED;&#xFE0F;</button>
     <span id="track-title">Nacitam playlist...</span>
     <div class="progress-container">
       <div class="progress-bar" id="progress"></div>
@@ -137,8 +137,8 @@ document.addEventListener('DOMContentLoaded', function() {
   <div class="newsletter-cta">
     <div class="newsletter-cta-inner">
       <div class="newsletter-cta-text">
-        <strong>Patrickuv newsletter</strong>
-        <span>Novinky z AI a technologii primo do schranky, zdarma.</span>
+        <strong>Patrickův newsletter</strong>
+        <span>Novinky z AI a technologií přímo do schránky, zdarma.</span>
       </div>
       <a href="https://zandl.substack.com" class="newsletter-cta-btn" target="_blank" rel="noopener">Odebrat</a>
     </div>

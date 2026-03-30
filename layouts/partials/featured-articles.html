@@ -5,10 +5,10 @@
 
 {{ if gt (len $featured) 0 }}
 <section class="featured-section">
-  <h2 class="section-title">Doporucujeme</h2>
+  <h2 class="section-title">Doporučujeme</h2>
   <div class="featured-grid">
     {{ range $featured }}
-    {{- $months := dict "1" "leden" "2" "unor" "3" "brezen" "4" "duben" "5" "kveten" "6" "cerven" "7" "cervenec" "8" "srpen" "9" "zari" "10" "rijen" "11" "listopad" "12" "prosinec" -}}
+    {{- $months := dict "1" "leden" "2" "únor" "3" "březen" "4" "duben" "5" "květen" "6" "červen" "7" "červenec" "8" "srpen" "9" "září" "10" "říjen" "11" "listopad" "12" "prosinec" -}}
       <article class="featured-card">
         <div class="featured-meta">
           {{ partial "badge.html" . }}

@@ -638,10 +638,11 @@ footer {
 
 .featured-posts table {
   width: 100%;
+  box-shadow: none;
 }
 
 .featured-posts td {
-  padding: 10px 0;
+  padding: 16px 20px;
 }
 
 .featured-posts small {
@@ -2923,6 +2924,13 @@ pre:has(code.language-mermaid), code.language-mermaid {
     &:hover {
       background: #8ec5f6;
     }
+  }
+
+  // Inline code
+  :not(.highlight) > code,
+  :not(pre) > code {
+    color: #e06c75;
+    background-color: #2d2d4a;
   }
 
   // Badge

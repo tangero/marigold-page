@@ -28,7 +28,7 @@ disablePathToLower = true
 
 [params]
   author = "Patrick Zandl"
-  description = "Technologie a Svet"
+  description = "Technologie a Svět"
   avatar = "/images/patrick-avatar.jpg"
   github_repo = "https://github.com/tangero/marigold-page"
 
