@@ -64,30 +64,18 @@ layout: default
 
   <!-- Navigace na další/předchozí -->
   <nav class="tech-news-navigation">
-    {% assign sorted_news = site.tech_news | sort: 'date' | reverse %}
-    {% assign current_index = 0 %}
-    {% for article in sorted_news %}
-      {% if article.url == page.url %}
-        {% assign current_index = forloop.index0 %}
-        {% break %}
-      {% endif %}
-    {% endfor %}
-
     <div class="nav-links">
-      {% if current_index > 0 %}
-        {% assign prev_article = sorted_news[current_index-1] %}
-        <a href="{{ prev_article.url }}" class="nav-link prev">
-          <span class="nav-direction">← Předchozí</span>
-          <span class="nav-title">{{ prev_article.title | truncate: 60 }}</span>
+      {% if page.next %}
+        <a href="{{ page.next.url }}" class="nav-link prev">
+          <span class="nav-direction">← Novější</span>
+          <span class="nav-title">{{ page.next.title | truncate: 60 }}</span>
         </a>
       {% endif %}
 
-      {% assign next_index = current_index | plus: 1 %}
-      {% if next_index < sorted_news.size %}
-        {% assign next_article = sorted_news[next_index] %}
-        <a href="{{ next_article.url }}" class="nav-link next">
-          <span class="nav-direction">Další →</span>
-          <span class="nav-title">{{ next_article.title | truncate: 60 }}</span>
+      {% if page.previous %}
+        <a href="{{ page.previous.url }}" class="nav-link next">
+          <span class="nav-direction">Starší →</span>
+          <span class="nav-title">{{ page.previous.title | truncate: 60 }}</span>
         </a>
       {% endif %}
     </div>

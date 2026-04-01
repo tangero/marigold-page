@@ -7,6 +7,22 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
 
 ## [Unreleased]
 
+### Fixed
+- Accessibility: přidán skip-to-content link do default.html a aiprace.html layoutů
+- Accessibility: emoji search link doplněn o `aria-label="Hledat"` (WCAG 2.4.6)
+- Accessibility: `<p datetime>` opraven na validní `<time datetime>` v post.html
+- Accessibility: toast notifikace doplněna o `role="status" aria-live="polite"` (WCAG 4.1.3)
+- Accessibility: přidána podpora `prefers-reduced-motion` pro všechny animace
+- Performance: Mermaid JS podmíněn přítomností `.language-mermaid` — nenahrává se na každém postu
+- Performance: Liquid navigační loop v tech_news.html nahrazen Jekyll built-in `page.previous/next` (O(n²)→O(1))
+- Responsive: Substack iframe opraven — `width="480"` odstraněn, přidán `max-width:480px;width:100%`
+- Responsive: Audio player tlačítka rozšířena na min 44×44px touch target
+- Theming: dark mode paleta nahrazena — odstraněny AI purple-navy barvy (#1a1a2e→#16181c rodina)
+- Theming: `#667eea` bullet barva v quick-summary nahrazena proměnnou `$blue`
+- Theming: Open Sans legacy font reference nahrazen `$system-font` v `.cd-container`
+- Code: inline CSS audio playeru přesunut z index.html do assets/style.scss a assets/scss/main.scss
+- Content: Workshop banner aktualizován (prošlá early bird deadline 31.3.2026 nahrazena)
+
 ## [3.0.0] - 2026-03-29
 
 ### Changed

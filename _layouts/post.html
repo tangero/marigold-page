@@ -2,12 +2,14 @@
 layout: default
 ---
 <!-- start Mermaid run code -->
+{% if content contains 'language-mermaid' %}
 <script type="module">
   import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/+esm'
   mermaid.initialize({startOnLoad:true,theme:'neutral'})
   await mermaid.run({querySelector:'code.language-mermaid'})
 </script>
-<!-- end fMermaid run code -->
+{% endif %}
+<!-- end Mermaid run code -->
 
 
 <!-- místo původního feedwind code -->
@@ -26,7 +28,7 @@ layout: default
           <div class="workshop-banner-title">Workshop Claude Code pro vývojáře s Patrickem</div>
           <div class="workshop-banner-detail">21.4.2026 · 14:00 · V Olšinách 2300/75, Praha 10</div>
           <div class="workshop-banner-detail">Za 4 hodiny zvládneš CLAUDE.md, MCP servery a subagenty.</div>
-          <div class="workshop-banner-early">Early bird — pouze do 31.3.2026.</div>
+          <div class="workshop-banner-early">Zbývají poslední místa.</div>
         </div>
         <div class="workshop-banner-cta">
           <div class="workshop-banner-price">3 000 Kč</div>
@@ -63,7 +65,7 @@ layout: default
     </p>
 
     {% if page.last_modified_at %}
-    <p class="author_title" datetime="{{ page.last_modified_at | date_to_xmlschema }}">(Aktualizováno: {{ page.last_modified_at | date: "%-d.%-m.%Y" }})</p>
+    <p class="author_title"><time datetime="{{ page.last_modified_at | date_to_xmlschema }}">(Aktualizováno: {{ page.last_modified_at | date: "%-d.%-m.%Y" }})</time></p>
 
     {% endif %}
     <div class="post-tags">
@@ -213,7 +215,7 @@ layout: default
 
   <div class="posts">
     <h3>Chcete tyto články emailem?</h3>
-    <iframe src="https://zandl.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no" title="Odber newsletteru"></iframe>
+    <iframe src="https://zandl.substack.com/embed" style="width:100%;max-width:480px;height:150px;border:1px solid #EEE;background:white;display:block;" frameborder="0" scrolling="no" title="Odběr newsletteru"></iframe>
   </div>
 
   <div>
@@ -240,7 +242,7 @@ layout: default
 </article>
 
 <!-- Toast notifikace -->
-<div class="toast" id="toast">Zkopírováno do schránky!</div>
+<div class="toast" id="toast" role="status" aria-live="polite">Zkopírováno do schránky!</div>
 
 <!-- JavaScript pro funkcionalitu kopírování -->
 <script>
