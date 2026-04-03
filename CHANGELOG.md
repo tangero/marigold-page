@@ -8,6 +8,7 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
 ## [Unreleased]
 
 ### Fixed
+- Post `prirucka-ai-ve-firmach-zdarma` přesunut z `_posts/` do `content/posts/` pro kompatibilitu s Hugo buildem
 - Accessibility: přidán skip-to-content link do default.html a aiprace.html layoutů
 - Accessibility: emoji search link doplněn o `aria-label="Hledat"` (WCAG 2.4.6)
 - Accessibility: `<p datetime>` opraven na validní `<time datetime>` v post.html
