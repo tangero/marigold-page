@@ -158,7 +158,6 @@ exclude:
   - _site
   - Gemfile
   - Gemfile.lock
-  - assets/tech-news/
   - LICENSE
   - CNAME
   - node_modules

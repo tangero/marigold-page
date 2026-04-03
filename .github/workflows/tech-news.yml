@@ -10,7 +10,6 @@ env:
 
 jobs:
   fetch-tech-news:
-    if: false  # Workflow disabled 2026-03-29
     runs-on: ubuntu-latest
 
     steps:
