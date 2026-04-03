@@ -1,21 +1,14 @@
-name: Build and Deploy (GitHub Pages)
+name: Build and Deploy (GitHub Pages) - DISABLED
 on:
-  push:
-    branches:
-      - main
   workflow_dispatch:
-
-permissions:
-  contents: read
-  pages: write
-  id-token: write
-
-concurrency:
-  group: pages
-  cancel-in-progress: true
+    inputs:
+      confirm:
+        description: 'This workflow is disabled. Use hugo-build.yml instead.'
+        required: true
 
 jobs:
   build:
+    if: false  # Disabled 2026-03-29 - replaced by hugo-build.yml
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -29,6 +22,14 @@ jobs:
         with:
           ruby-version: '3.2'
           bundler-cache: true
+
+      - name: Cache Jekyll
+        uses: actions/cache@v4
+        with:
+          path: .jekyll-cache
+          key: jekyll-${{ hashFiles('Gemfile.lock') }}-${{ github.run_id }}
+          restore-keys: |
+            jekyll-${{ hashFiles('Gemfile.lock') }}-
 
       - name: Build Jekyll site
         run: JEKYLL_ENV=production bundle exec jekyll build

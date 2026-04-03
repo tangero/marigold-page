@@ -1,0 +1,22 @@
+{{ $ogImage := "" }}
+
+{{ if .Params.thumbnail }}
+  {{ $ogImage = replace .Params.thumbnail "http://" "https://" }}
+{{ else if .Params.urlToImage }}
+  {{ $ogImage = .Params.urlToImage }}
+{{ else if .Params.image }}
+  {{ $ogImage = .Params.image }}
+{{ else }}
+  {{ $ogImage = .Site.Params.avatar }}
+{{ end }}
+
+{{ if $ogImage }}
+  {{ if hasPrefix $ogImage "http" }}
+    <meta property="og:image" content="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_1200,h_630,c_fill,g_auto,f_auto,q_auto/{{ $ogImage }}" />
+    <meta name="twitter:image" content="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_1024,h_512,c_fill,g_auto,f_auto,q_auto/{{ $ogImage }}" />
+  {{ else }}
+    <meta property="og:image" content="{{ $ogImage | absURL }}" />
+    <meta name="twitter:image" content="{{ $ogImage | absURL }}" />
+  {{ end }}
+  <meta name="twitter:card" content="summary_large_image" />
+{{ end }}

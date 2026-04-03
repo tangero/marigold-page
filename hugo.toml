@@ -1,0 +1,55 @@
+baseURL = "https://www.marigold.cz"
+languageCode = "cs"
+title = "Marigold.cz"
+disablePathToLower = true
+
+[outputs]
+  home = ["HTML", "RSS"]
+
+[outputFormats]
+  [outputFormats.RSS]
+    baseName = "feed"
+
+[pagination]
+  pagerSize = 15
+  path = "page"
+
+# Extract date from filename (Jekyll-compatible: YYYY-MM-DD-slug.md)
+[frontmatter]
+  date = [":filename", ":default"]
+
+[permalinks]
+  [permalinks.page]
+    posts = "/item/:slug/"
+    ai = "/ai/:slug/"
+    mobilnisite = "/mobilnisite/:slug/"
+    obrazy = "/obrazy/:slug/"
+    tech-news = "/tech-news/:year-:month-:day/:slug/"
+
+[params]
+  author = "Patrick Zandl"
+  description = "Technologie a Svět"
+  avatar = "/images/patrick-avatar.jpg"
+  github_repo = "https://github.com/tangero/marigold-page"
+
+  [params.footer]
+    email = "patrick.zandl@marigold.cz"
+    facebook = "patrick.zandl"
+    twitter = "tangero"
+    linkedin = "patrickzandl"
+    rss = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    style = "darcula"
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 3
+    ordered = false
+
+[build]
+  [build.sass]
+    outputStyle = "compressed"

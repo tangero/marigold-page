@@ -7,6 +7,64 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
 
 ## [Unreleased]
 
+### Fixed
+- Accessibility: přidán skip-to-content link do default.html a aiprace.html layoutů
+- Accessibility: emoji search link doplněn o `aria-label="Hledat"` (WCAG 2.4.6)
+- Accessibility: `<p datetime>` opraven na validní `<time datetime>` v post.html
+- Accessibility: toast notifikace doplněna o `role="status" aria-live="polite"` (WCAG 4.1.3)
+- Accessibility: přidána podpora `prefers-reduced-motion` pro všechny animace
+- Performance: Mermaid JS podmíněn přítomností `.language-mermaid` — nenahrává se na každém postu
+- Performance: Liquid navigační loop v tech_news.html nahrazen Jekyll built-in `page.previous/next` (O(n²)→O(1))
+- Responsive: Substack iframe opraven — `width="480"` odstraněn, přidán `max-width:480px;width:100%`
+- Responsive: Audio player tlačítka rozšířena na min 44×44px touch target
+- Theming: dark mode paleta nahrazena — odstraněny AI purple-navy barvy (#1a1a2e→#16181c rodina)
+- Theming: `#667eea` bullet barva v quick-summary nahrazena proměnnou `$blue`
+- Theming: Open Sans legacy font reference nahrazen `$system-font` v `.cd-container`
+- Code: inline CSS audio playeru přesunut z index.html do assets/style.scss a assets/scss/main.scss
+- Content: Workshop banner aktualizován (prošlá early bird deadline 31.3.2026 nahrazena)
+
+## [3.0.0] - 2026-03-29
+
+### Changed
+- **Migrace z Jekyll na Hugo** - build cas z ~500s na ~8s (60x zrychleni)
+  - Vsechny layouty prevedeny z Liquid na Go templates
+  - Obsah prestan do `content/` struktury (posts, ai, mobilnisite, obrazy, tech-news)
+  - SCSS zpracovani pres Hugo Pipes misto Jekyll Sass
+  - GitHub Actions workflow `hugo-build.yml` nahradi `build.yml`
+  - Vsechny URL zachovany (2957 postu, 10873 archivnich stranek)
+- **Dark/Light mode s manualnim prepinacem** - tlacitko slunce/mesic v navigaci
+  - Automaticke prepnuti po zapadu slunce (18:00-06:00)
+  - Persistence volby v localStorage
+  - Kompatibilni s aiprace vlastnim dark mode CSS
+- **Redesign paticka** - dva sloupce (Projekty / Dalsi) misto jednoradkoveho seznamu
+  - Nove inline SVG socialni ikony (email, Facebook, X, LinkedIn, RSS)
+  - Nove odkazy: AI ve firmach, Workshopy Claude Code, Kurz AI zdarma, Vliv AI na pracovni mista
+- **Newsletter CTA** - nahrazuje Substack iframe kompaktnim CTA boxem
+- **Navigace** - semanticka `<ul>` s `aria-label`, `white-space: nowrap`
+  - Aiprace pridano do dropdown menu jako "AI prace"
+
+### Added
+- **Ahrefs Analytics** - mereni navstevnosti v `<head>`
+- **Table of Contents** - automaticky generovany obsah z h2/h3 nadpisu
+  - Cislovane polozky, rozbalitelny, transparentni pozadi
+  - Nahrazuje Jekyll `{:toc}` syntaxi
+- **Scroll progress bar** - gradientni linka ukazuje pozici cteni v clanku
+- **Audio prehravac** - playlist poslednich 20 clanku s audio na homepage
+- **Aiprace layout** - plna sirka (1600px) s D3.js vizualizaci
+- **Post edit link** - diskretni odkaz "Upravit" na GitHub edit
+
+### Fixed
+- **Accessibility** - `lang="cs"`, focus-visible styly, iframe title, touch targety 44px
+- **Flexbox layout** - masthead a footer misto float/absolute
+- **Thumbnaily** - landscape 4:3 (200x150), nadpis nad thumbnailem
+- **Vyhledavani** - opraveny dvojite uvozovky v search indexu (safeJS)
+- **Case-sensitive URL** - 10 postu s velkymi pismeny opraveno explicitnim `url:` front matter
+
+### Removed
+- **Smazano assets/tech-news/** - 11073 nepouzivanch obrazku (852 MB)
+- **Vypnuty workflows** - podcast, OneSignal notifications, tech-news, translate (if: false)
+- **Sdilejte clanek** sekce - nahrazena kompaktni navigaci + edit linkem
+
 ### Removed
 - **LLM rubrika deaktivována** - služba přesunuta na jiný server
   - Smazán GitHub Actions workflow `llm-tracker.yml` (denní generování zastaveno)

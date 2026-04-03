@@ -1,0 +1,192 @@
+# Tech News Category to Emoji Mapping
+# Used as fallback when image fails to load
+
+categories:
+  ai:
+    emoji: "🤖"
+    name: "AI & Machine Learning"
+
+  machine-learning:
+    emoji: "🧠"
+    name: "Machine Learning"
+
+  cybersecurity:
+    emoji: "🔐"
+    name: "Cybersecurity"
+
+  privacy:
+    emoji: "🛡️"
+    name: "Privacy"
+
+  security:
+    emoji: "🔒"
+    name: "Security"
+
+  space:
+    emoji: "🚀"
+    name: "Space & Astronomy"
+
+  astronomy:
+    emoji: "🌌"
+    name: "Astronomy"
+
+  mobile:
+    emoji: "📱"
+    name: "Mobile"
+
+  apps:
+    emoji: "📲"
+    name: "Apps"
+
+  software:
+    emoji: "💻"
+    name: "Software"
+
+  web:
+    emoji: "🌐"
+    name: "Web Development"
+
+  development:
+    emoji: "⚙️"
+    name: "Development"
+
+  gaming:
+    emoji: "🎮"
+    name: "Gaming"
+
+  graphics:
+    emoji: "🎨"
+    name: "Graphics"
+
+  health:
+    emoji: "🏥"
+    name: "Health & Medicine"
+
+  medicine:
+    emoji: "💊"
+    name: "Medicine"
+
+  energy:
+    emoji: "⚡"
+    name: "Energy"
+
+  climate:
+    emoji: "🌍"
+    name: "Climate"
+
+  automotive:
+    emoji: "🚗"
+    name: "Automotive"
+
+  transport:
+    emoji: "🚆"
+    name: "Transport"
+
+  infrastructure:
+    emoji: "🏗️"
+    name: "Infrastructure"
+
+  internet:
+    emoji: "📡"
+    name: "Internet"
+
+  media:
+    emoji: "🎬"
+    name: "Media"
+
+  entertainment:
+    emoji: "🎭"
+    name: "Entertainment"
+
+  science:
+    emoji: "🔬"
+    name: "Science"
+
+  research:
+    emoji: "📊"
+    name: "Research"
+
+  technology:
+    emoji: "🔧"
+    name: "Technology"
+
+  hardware:
+    emoji: "⚙️"
+    name: "Hardware"
+
+  cloud:
+    emoji: "☁️"
+    name: "Cloud"
+
+  data:
+    emoji: "📈"
+    name: "Data"
+
+  blockchain:
+    emoji: "⛓️"
+    name: "Blockchain"
+
+  crypto:
+    emoji: "₿"
+    name: "Cryptocurrency"
+
+  network:
+    emoji: "🌐"
+    name: "Network"
+
+  5g:
+    emoji: "📶"
+    name: "5G"
+
+  ar:
+    emoji: "👓"
+    name: "Augmented Reality"
+
+  vr:
+    emoji: "🥽"
+    name: "Virtual Reality"
+
+  robotics:
+    emoji: "🤖"
+    name: "Robotics"
+
+  automotive-tech:
+    emoji: "🚗"
+    name: "Automotive Tech"
+
+  iot:
+    emoji: "📡"
+    name: "IoT"
+
+  wearables:
+    emoji: "⌚"
+    name: "Wearables"
+
+  quantum:
+    emoji: "⚛️"
+    name: "Quantum Computing"
+
+  biotech:
+    emoji: "🧬"
+    name: "Biotechnology"
+
+  nanotechnology:
+    emoji: "🔬"
+    name: "Nanotechnology"
+
+  herní-průmysl:
+    emoji: "🎮"
+    name: "Gaming Industry"
+
+  programování:
+    emoji: "💻"
+    name: "Programming"
+
+  umělá-inteligence:
+    emoji: "🤖"
+    name: "Artificial Intelligence"
+
+  # Default fallback
+  default:
+    emoji: "📰"
+    name: "Technology"

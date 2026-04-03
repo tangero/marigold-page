@@ -1,0 +1,13 @@
+{{ define "main" }}
+<article class="page">
+  <h1>Seznam kategorii a jejich pocet clanku</h1>
+
+  <p>Seznam kategorii:</p>
+
+  <ul>
+  {{ range $key, $value := .Site.Taxonomies.categories }}
+    <li><strong>{{ $key }}</strong>: {{ len $value.Pages }}</li>
+  {{ end }}
+  </ul>
+</article>
+{{ end }}

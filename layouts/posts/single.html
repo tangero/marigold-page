@@ -1,0 +1,161 @@
+{{ define "main" }}
+<!-- Mermaid diagram support -->
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/+esm'
+  mermaid.initialize({startOnLoad:true,theme:'neutral'})
+  await mermaid.run({querySelector:'code.language-mermaid'})
+</script>
+
+<article class="post detailed">
+  <h1>{{ .Title }}</h1>
+
+  {{ partial "workshop-banner.html" . }}
+
+  {{- $months := dict "1" "leden" "2" "únor" "3" "březen" "4" "duben" "5" "květen" "6" "červen" "7" "červenec" "8" "srpen" "9" "září" "10" "říjen" "11" "listopad" "12" "prosinec" -}}
+
+  <div>
+    <p class="author_title">{{ .Site.Params.author }}  &middot;
+      {{ .Date.Day }}.
+      {{ index $months (printf "%d" .Date.Month) }}
+      {{ .Date.Year }}
+    </p>
+
+    {{ with .Params.last_modified_at }}
+    <p class="author_title">(Aktualizováno: {{ . }})</p>
+    {{ end }}
+
+    <div class="post-tags">
+      {{ with .Params.categories }}
+        {{ if reflect.IsSlice . }}
+          {{ range . }}
+            <a href="{{ $.Site.BaseURL }}rubrika/#{{ . | urlize }}">{{ . }}</a>&nbsp;
+          {{ end }}
+        {{ else }}
+          <a href="{{ $.Site.BaseURL }}rubrika/#{{ . | urlize }}">{{ . }}</a>
+        {{ end }}
+      {{ end }}
+    </div>
+  </div>
+
+  {{ with .Params.thumbnail }}
+  {{ $thumbnail_url := replace . "http://" "https://" }}
+  <div class="thumbnail-strip">
+    <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_1200,h_300,c_fill,g_auto,f_auto,q_auto/{{ $thumbnail_url }}" alt="{{ $.Title }}">
+  </div>
+  {{ end }}
+
+  {{ with .Params.summary_points }}
+  <div class="quick-summary">
+    <div class="quick-summary-header">
+      <svg class="summary-icon" viewBox="0 0 24 24" width="24" height="24">
+        <path fill="currentColor" d="M14,17H7V15H14M17,13H7V11H17M17,9H7V7H17M19,3H5C3.89,3 3,3.89 3,5V19A2,2 0 0,0 5,21H19A2,2 0 0,0 21,19V5C21,3.89 20.1,3 19,3Z" />
+      </svg>
+      <span>Rychlé shrnutí článku</span>
+    </div>
+    <ul class="summary-points">
+      {{ range . }}
+        <li>{{ . }}</li>
+      {{ end }}
+    </ul>
+  </div>
+  {{ end }}
+
+  {{ with .Params.audio_url }}
+  <div class="audio-container">
+    <p class="audio-title">Přehrát článek:</p>
+    <audio class="custom-audio" controls>
+      <source src="{{ . }}" type="audio/mpeg">
+      <p><a href="{{ . }}" target="_blank">🎧 Poslechnout audio verzi článku</a></p>
+    </audio>
+  </div>
+  {{ end }}
+
+  <div class="entry">
+    {{ if .TableOfContents }}
+    {{ if gt (len .TableOfContents) 100 }}
+    <nav class="toc" id="toc">
+      <button class="toc-toggle" onclick="document.getElementById('toc').classList.toggle('collapsed')" aria-label="Zobrazit/skryt obsah">
+        <span class="toc-label">OBSAH</span>
+        <span class="toc-icon">&#9660;</span>
+      </button>
+      <div class="toc-body">
+        {{ .TableOfContents }}
+      </div>
+    </nav>
+    {{ end }}
+    {{ end }}
+    {{ .Content }}
+  </div>
+
+  <div class="ai-rubric-link"></div>
+
+  {{ partial "szn-discussion.html" . }}
+
+  <div class="posts">
+    <h3>Jak se vám líbí tento článek?</h3>
+    <div id="feedback-widget"></div>
+    <script
+        src="https://top.marigold.cz/mg-feedback.js"
+        data-slug="{{ .RelPermalink | urlize }}"
+        data-title="{{ .Title }}"
+        data-url="{{ .Permalink }}"
+        data-target="#feedback-widget"
+    ></script>
+  </div>
+
+  <!-- Featured posts -->
+  {{ $featured := where (where .Site.RegularPages "Section" "posts") ".Params.featured" true }}
+  {{ $featured = where $featured ".RelPermalink" "!=" .RelPermalink }}
+  {{ if gt (len $featured) 0 }}
+  <div class="featured-posts">
+    <h3>Co je tu dalšího zajímavého ke čtení?</h3>
+    <table>
+      <tbody>
+        {{ range first 2 (shuffle $featured) }}
+          <tr>
+            <td>
+              <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+              <p class="excerpt">{{ .Summary | plainify | truncate 160 }}</p>
+            </td>
+          </tr>
+        {{ end }}
+      </tbody>
+    </table>
+  </div>
+  {{ end }}
+
+  <div class="newsletter-cta">
+    <div class="newsletter-cta-inner">
+      <div class="newsletter-cta-text">
+        <strong>Patrickův newsletter</strong>
+        <span>Novinky z AI a technologií přímo do schránky, zdarma.</span>
+      </div>
+      <a href="https://zandl.substack.com" class="newsletter-cta-btn" target="_blank" rel="noopener">Odebrat</a>
+    </div>
+  </div>
+
+  <div class="post-navigation">
+    <div class="PageNavigation">
+      {{ with .PrevInSection }}
+        <a class="prev" href="{{ .RelPermalink }}">&laquo; {{ .Title }}</a>
+      {{ end }}
+      {{ with .NextInSection }}
+        <a class="next" href="{{ .RelPermalink }}">{{ .Title }} &raquo;</a>
+      {{ end }}
+    </div>
+    {{ with .File }}
+    <div class="post-edit">
+      <a href="{{ $.Site.Params.github_repo }}/edit/main/{{ .Path }}" target="_blank" title="Upravit tento clanek na GitHubu">
+        <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2"><path d="M17 3a2.85 2.83 0 1 1 4 4L7.5 20.5 2 22l1.5-5.5Z"/></svg>
+        Upravit
+      </a>
+    </div>
+    {{ end }}
+  </div>
+</article>
+
+<!-- Toast notifikace -->
+<div class="toast" id="toast">Zkopírováno do schránky!</div>
+
+{{ partial "code-copy.html" . }}
+{{ end }}
