@@ -10,6 +10,8 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
 ### Fixed
 - Post `prirucka-ai-ve-firmach-zdarma` přesunut z `_posts/` do `content/posts/` pro kompatibilitu s Hugo buildem
 - Thumbnail `ebook-ai-ve-firmach.png` zkopírován do `static/assets/` aby byl dostupný v Hugo buildu
+- Opraven rozbitý front matter v článku `karpathy-llm-knowledgebase` (špatné odsazení, `-----` místo `---`)
+- Přejmenován `karpaty-llm-knowledgebase.md` na `karpathy-llm-knowledgebase.md` (oprava příjmení)
 
 ### Changed
 - Přidány UTM tagy na všechny odkazy v článku `prirucka-ai-ve-firmach-zdarma` (kampań `ai-prirucka`)

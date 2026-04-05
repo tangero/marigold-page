@@ -1,15 +1,14 @@
------
-
+---
+slug: “karpathy-llm-knowledgebase”
 author: Patrick Zandl
 categories:
-
 - AI
 - LLM
 - produktivita
 - znalostní management
-  layout: post
-  post_excerpt: “Andrej Karpathy zveřejnil návod jak používat AI jinak – ne na psaní kódu, ale na budování osobní znalostní báze. 82 000 záložek za čtyři dny říká, že lidi tohle chtějí. Tady je překlad, kritický rozbor a praktický návod jak začít.”
-  summary_points:
+layout: post
+post_excerpt: “Andrej Karpathy zveřejnil návod jak používat AI jinak – ne na psaní kódu, ale na budování osobní znalostní báze. 82 000 záložek za čtyři dny říká, že lidi tohle chtějí. Tady je překlad, kritický rozbor a praktický návod jak začít.”
+summary_points:
 - “Karpathy přestal používat AI hlavně na kód a místo toho ho používá na kompilaci osobní wiki z markdown souborů”
 - “LLM průběžně indexuje zdroje, píše články, propojuje koncepty a odpovídá na dotazy – člověk jen přináší zdroje a otázky”
 - “Systém běží na třech vrstvách: raw (zdroje), wiki (LLM-generovaná), schema (CLAUDE.md s pravidly chování)”
@@ -17,9 +16,7 @@ categories:
 - “Karpathy následně zveřejnil idea file — nový formát sdílení, kde nesdílíte kód, ale myšlenku, a agent si implementaci postaví sám”
 - “Komunita už za den vytvořila desítky implementací — od Go binárky přes Claude Code skill po voice-first verzi přes Telegram”
 title: “Karpathy přišel na to, jak používat AI jinak. A má pravdu.”
-
-
------
+---
 
 Andrej Karpathy — člověk, který stál u zrodu GPT — zveřejnil minulý týden Twitter příspěvek, který si za čtyři dny záložkovalo přes 82 000 lidí. Třináct milionů zobrazení. To není virální hype. To je něco, co lidi zasáhlo, protože to pojmenovává něco, co sami cítí, ale neuměli to říct. Pointa? Jak používat LLM k budování znalostní databáze?
 
