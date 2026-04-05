@@ -1,28 +1,31 @@
----
+-----
+
 slug: “karpathy-llm-knowledgebase”
 author: Patrick Zandl
 categories:
+
 - AI
 - LLM
 - produktivita
 - znalostní management
-layout: post
-post_excerpt: “Andrej Karpathy zveřejnil návod jak používat AI jinak – ne na psaní kódu, ale na budování osobní znalostní báze. 82 000 záložek za čtyři dny říká, že lidi tohle chtějí. Tady je překlad, kritický rozbor a praktický návod jak začít.”
-summary_points:
+  layout: post
+  post_excerpt: “Andrej Karpathy zveřejnil návod jak používat AI jinak – ne na psaní kódu, ale na budování osobní znalostní báze. 82 000 záložek za čtyři dny říká, že lidi tohle chtějí. Tady je překlad, kritický rozbor a praktický návod jak začít.”
+  summary_points:
 - Karpathy přestal používat AI hlavně na kód a místo toho ho používá na kompilaci osobní wiki z markdown souborů
 - LLM průběžně indexuje zdroje, píše články, propojuje koncepty a odpovídá na dotazy – člověk jen přináší zdroje a otázky
 - “Systém běží na třech vrstvách: raw (zdroje), wiki (LLM-generovaná), schema (CLAUDE.md s pravidly chování)”
 - 82 000 záložek za čtyři dny ukazuje, že lidi tuhle myšlenku chtějí – ale zatím nevědí jak začít
 - Karpathy následně zveřejnil idea file — nový formát sdílení, kde nesdílíte kód, ale myšlenku, a agent si implementaci postaví sám
 - Komunita už za den vytvořila desítky implementací — od Go binárky přes Claude Code skill po voice-first verzi přes Telegram
-title: Karpathy přišel na to, jak používat AI jinak. A má pravdu.
----
+  title: Karpathy přišel na to, jak používat AI jinak. A má pravdu.
+
+-----
 
 Andrej Karpathy — člověk, který stál u zrodu GPT — zveřejnil minulý týden Twitter příspěvek, který si za čtyři dny záložkovalo přes 82 000 lidí. Třináct milionů zobrazení. To není virální hype. To je něco, co lidi zasáhlo, protože to pojmenovává něco, co sami cítí, ale neuměli to říct. Pointa? Jak používat LLM k budování znalostní databáze?
 
 ## Co Karpathy říká
 
-Stručně: přestal používat AI hlavně na kód. Místo toho ho používá na budování osobní znalostní báze. Pojdme to okopirovat, protože je to dobré. a rozvest, protože je kam...
+Stručně: přestal používat AI hlavně na kód. Místo toho ho používá na budování osobní znalostní báze. Pojdme to okopirovat, protože je to dobré. a rozvest, protože je kam…
 
 Konkrétní postup:
 
@@ -86,11 +89,11 @@ Gist má přes 60 komentářů a řada z nich přidává reálnou hodnotu.
 
 **Kumulace rozporů.** Japonský komentátor varuje, že hlavní příčinou degradace kvality wiki není objem dat, ale kumulace rozporů — a navrhuje architekturu, která je řeší autonomně. To potvrzuje, že Karpathyho „linting” není volitelný doplněk, ale nutná součást systému.
 
-##  Kde to drhne
+## Kde to drhne
 
 Systém je elegantní, ale má reálná omezení, o kterých se méně mluví.
 
-**Ruční přidávání zdrojů** — Karpathy přiznává, že každý zdroj přidává ručně, jeden po druhém. Při 100 článcích to zvládnete. Při 1 000 začínáte mít problém. Voice-first varianta přes Telegram je zatím nejpřesvědčivější řešení capture bottlenecku, ale i ta vyžaduje disciplínu. špatné je , když máte historii poznámek jako já ...
+**Ruční přidávání zdrojů** — Karpathy přiznává, že každý zdroj přidává ručně, jeden po druhém. Při 100 článcích to zvládnete. Při 1 000 začínáte mít problém. Voice-first varianta přes Telegram je zatím nejpřesvědčivější řešení capture bottlenecku, ale i ta vyžaduje disciplínu. špatné je , když máte historii poznámek jako já …
 
 **Škálování** — 400 000 slov bez RAG zatím funguje. Sám říká „při této malé škále”. Při milionech slov context window nestačí a budete potřebovat přesně tu fancy infrastrukturu, které jste se chtěli vyhnout. Karpathy v gist doporučuje [qmd](https://github.com/tobi/qmd) — lokální search engine pro markdown s hybridním BM25/vektorovým vyhledáváním — jako řešení pro větší wiki.
 
