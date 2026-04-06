@@ -16,6 +16,7 @@ summary_points:
 - Karpathy následně zveřejnil idea file — nový formát sdílení, kde nesdílíte kód, ale myšlenku, a agent si implementaci postaví sám
 - Komunita už za den vytvořila desítky implementací — od Go binárky přes Claude Code skill po voice-first verzi přes Telegram
 title: Karpathy přišel na to, jak používat AI jinak. A má pravdu.
+thumbnail: https://www.marigold.cz/assets/karpathy-llm.jpeg
 ---
 
 Andrej Karpathy — člověk, který stál u zrodu GPT — zveřejnil minulý týden Twitter příspěvek, který si za čtyři dny záložkovalo přes 82 000 lidí. Třináct milionů zobrazení. To není virální hype. To je něco, co lidi zasáhlo, protože to pojmenovává něco, co sami cítí, ale neuměli to říct. Pointa? Jak používat LLM k budování znalostní databáze?
