@@ -11,7 +11,7 @@ post_excerpt: Andrej Karpathy zveřejnil návod jak používat AI jinak – ne n
 summary_points:
 - Karpathy přestal používat AI hlavně na kód a místo toho ho používá na kompilaci osobní wiki z markdown souborů
 - LLM průběžně indexuje zdroje, píše články, propojuje koncepty a odpovídá na dotazy – člověk jen přináší zdroje a otázky
-- “Systém běží na třech vrstvách: raw (zdroje), wiki (LLM-generovaná), schema (CLAUDE.md s pravidly chování)”
+- Systém běží na třech vrstvách - raw (zdroje), wiki (LLM-generovaná), schema (CLAUDE.md s pravidly chování)
 - 82 000 záložek za čtyři dny ukazuje, že lidi tuhle myšlenku chtějí – ale zatím nevědí jak začít
 - Karpathy následně zveřejnil idea file — nový formát sdílení, kde nesdílíte kód, ale myšlenku, a agent si implementaci postaví sám
 - Komunita už za den vytvořila desítky implementací — od Go binárky přes Claude Code skill po voice-first verzi přes Telegram
