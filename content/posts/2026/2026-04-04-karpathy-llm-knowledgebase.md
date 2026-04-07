@@ -35,6 +35,8 @@ Konkrétní postup:
 
 Jeho wiki na jedno téma má teď ~100 článků a ~400 000 slov. Bez RAG, bez vektorové databáze. Jen flat adresář `.md` souborů v Obsidianu. Tady se zadrhavam já, mám článku cca 50000, zejména k 3GPP normám.
 
+> Příručka [Jak na AI ve firmách zdarma ke stažení](http://www.vibecoding.cz/prirucka/?utm_source=post&utm_medium=marigold&utm_campaign=karpathy)...
+
 ## Proč to rezonuje
 
 Karpathy pojmenoval problém, který má každý, kdo se seriózně zabývá nějakým tématem:

@@ -1,19 +1,19 @@
 # CLAUDE.md - Agent Guide for Marigold.cz
 
-> **Komplexní průvodce pro práci s projektem Marigold.cz**
-> Verze: 2.0 | Poslední aktualizace: 2025-11-15
+> **Komplexni pruvodce pro praci s projektem Marigold.cz**
+> Verze: 3.0 | Posledni aktualizace: 2026-04-06
 
 ---
 
-## 📋 Obsah
+## Obsah
 
 1. [Projekt Overview](#projekt-overview)
 2. [Struktura Projektu](#struktura-projektu)
-3. [Rozdíl: _posts vs _tech_news](#rozdíl-_posts-vs-_tech_news)
+3. [Rozdil: posts vs tech-news](#rozdil-posts-vs-tech-news)
 4. [Build Commands](#build-commands)
-5. [Tech-News Systém](#tech-news-systém)
+5. [Tech-News System](#tech-news-system)
 6. [Audio Content](#audio-content)
-7. [CHANGELOG.md - POVINNÉ](#changelogmd---povinné)
+7. [CHANGELOG.md - POVINNE](#changelogmd---povinne)
 8. [Coding Conventions](#coding-conventions)
 9. [Deployment](#deployment)
 10. [Vibecoding.cz](#vibecoding-web)
@@ -22,9 +22,9 @@
 
 ## Vibecoding Web
 
-**Vibecoding.cz** je separátní web hostovaný na Cloudflare Pages, který sdílí tento repozitář.
+**Vibecoding.cz** je separatni web hostovany na Cloudflare Pages, ktery sdili tento repozitar.
 
-**Pro práci s vibecoding.cz viz kompletní dokumentaci: [`docs/VIBECODING_GUIDE.md`](docs/VIBECODING_GUIDE.md)**
+**Pro praci s vibecoding.cz viz kompletni dokumentaci: [`docs/VIBECODING_GUIDE.md`](docs/VIBECODING_GUIDE.md)**
 
 ### Quick Reference
 
@@ -32,36 +32,37 @@
 |--------|---------|
 | URL | https://www.vibecoding.cz |
 | Hosting | Cloudflare Pages |
-| Config | `_config_vibecoding.yml` |
+| Config | `_config_vibecoding.yml` (Jekyll build pro Cloudflare) |
 | Kolekce | `_vibecoding/` |
 | Build | `bundle exec jekyll build --config _config_vibecoding.yml` |
 
-### Klíčové body
+### Klicove body
 
-- Články jsou v `_vibecoding/[kategorie]/YYYY-MM-DD-slug.md`
-- Články **nemají `date:` ve front matter** - datum se bere z názvu souboru
-- Při přidávání nových stránek do `_pages/` zkontrolovat, zda nepoužívají kolekce nedefinované pro vibecoding
-- Build selhává s "Cannot sort a null object" pokud stránka používá neexistující kolekci
+- Clanky jsou v `_vibecoding/[kategorie]/YYYY-MM-DD-slug.md`
+- Clanky **nemaji `date:` ve front matter** - datum se bere z nazvu souboru
+- Pri pridavani novych stranek do `_pages/` zkontrolovat, zda nepouzivaji kolekce nedefinovane pro vibecoding
+- Build selhava s "Cannot sort a null object" pokud stranka pouziva neexistujici kolekci
+- Vibecoding pouziva stale Jekyll (na Cloudflare Pages), NE Hugo
 
 ---
 
 ## Projekt Overview
 
-**Marigold.cz** je Jekyll-based web zaměřený na technologie, AI a mobilní sítě. Kombinuje:
-- 📝 **Ruční blog posty** - dlouhodobé, editované články (_posts)
-- 📰 **Automatické tech-news** - denně generované zprávy z NewsAPI (_tech_news)
-- 🤖 **AI kolekce** - specializovaný obsah o umělé inteligenci (_ai)
-- 📱 **Mobilní sítě** - články o telekomunikacích (_mobilnisite)
-- 🖼️ **Obrazy** - vizuální galerie (_obrazy)
+**Marigold.cz** je **Hugo-based** web zamereny na technologie, AI a mobilni site. Kombinuje:
+- Rucni blog posty - dlouhodobe, editovane clanky (content/posts)
+- Automaticke tech-news - denne generovane zpravy z NewsAPI (content/tech-news) - **POZASTAVENO od 2026-03-29**
+- AI kolekce - specializovany obsah o umele inteligenci (content/ai)
+- Mobilni site - clanky o telekomunikacich (content/mobilnisite)
+- Obrazy - vizualni galerie (content/obrazy)
 
-### Klíčové Technologie
+### Klicove Technologie
 
-- **Jekyll 3.10.0** - Static site generator
+- **Hugo 0.159.1 (extended)** - Static site generator
 - **Python 3.11+** - Skripty pro automatizaci
-- **OpenRouter API** - LLM překlady (qwen/qwen3-max)
-- **NewsAPI** - Zdroj tech-news
+- **OpenRouter API** - LLM preklady (qwen/qwen3-max)
+- **NewsAPI** - Zdroj tech-news (pozastaveno)
 - **GitHub Actions** - CI/CD automatizace
-- **GitHub Pages** - Hosting
+- **GitHub Pages** - Hosting (hugo-build.yml workflow)
 
 ---
 
@@ -69,172 +70,171 @@
 
 ```
 marigold-page/
-├── _posts/              # 📝 Ruční blog posty (hlavní obsah)
-├── _tech_news/          # 📰 Automatické tech-news články (3000+ souborů)
-├── _ai/                 # 🤖 AI kolekce
-├── _mobilnisite/        # 📱 Mobilní sítě kolekce
-├── _obrazy/             # 🖼️ Obrazy kolekce
-├── _pages/              # 📄 Statické stránky
-├── _layouts/            # 🎨 Jekyll layouts
-├── _includes/           # 🧩 Reusable components
-├── _data/               # 💾 Data files (YAML, JSON)
-├── _sass/               # 🎨 SCSS styles
-├── scripts/             # 🐍 Python automatizační skripty
-│   ├── generate_tech_news_newsapi.py      # Hlavní tech-news generátor
-│   ├── llm_cost_tracker.py                # LLM cost monitoring
-│   ├── tech_news_health_check.py          # Health check systém
+├── content/                 # Hugo content directory
+│   ├── posts/               # Rucni blog posty (podle roku: 2002/-2026/)
+│   ├── tech-news/           # Automaticke tech-news clanky
+│   ├── ai/                  # AI kolekce
+│   ├── mobilnisite/         # Mobilni site kolekce
+│   ├── obrazy/              # Obrazy kolekce
+│   ├── _index.md            # Hlavni stranka
+│   ├── about.md, search.md  # Staticke stranky
+│   └── vibecoding*.md       # Vibecoding stranky (pro Hugo verzi)
+├── layouts/                 # Hugo layouts
+│   ├── _default/            # Zakladni layouty (baseof, single, list)
+│   ├── partials/            # Reusable komponenty (nav, footer, meta...)
+│   ├── posts/               # Layout pro blog posty
+│   ├── tech-news/           # Layout pro tech-news
+│   ├── ai/                  # Layout pro AI kolekci
+│   ├── mobilnisite/         # Layout pro mobilni site
+│   └── obrazy/              # Layout pro obrazy
+├── static/                  # Staticke soubory (kopiruji se 1:1 do output)
+│   ├── images/              # Favicony, loga, avatar
+│   └── assets/              # Obrazky k clankum (assets/ -> /assets/)
+├── assets/                  # Hugo assets (obrazky v clancich, historicke)
+├── data/                    # Hugo data files (YAML, JSON)
+├── hugo.toml                # HLAVNI Hugo konfigurace
+├── scripts/                 # Python automatizacni skripty
+│   ├── generate_tech_news_newsapi.py   # Tech-news generator
+│   ├── llm_cost_tracker.py             # LLM cost monitoring
+│   ├── tech_news_health_check.py       # Health check system
 │   └── ...
-├── tests/               # 🧪 Test suite
-├── docs/                # 📚 Dokumentace
-├── .github/workflows/   # ⚙️ GitHub Actions
-├── CHANGELOG.md         # 📋 Change log (POVINNÝ!)
-└── CLAUDE.md            # 📖 Tento soubor
+├── tests/                   # Test suite
+├── docs/                    # Dokumentace
+├── .github/workflows/       # GitHub Actions
+│   ├── hugo-build.yml       # HLAVNI build & deploy workflow
+│   ├── tech-news.yml        # Tech-news fetcher (POZASTAVENO)
+│   └── ...
+├── CHANGELOG.md             # Change log (POVINNY!)
+└── CLAUDE.md                # Tento soubor
 ```
+
+### Legacy Jekyll soubory (stale v repu)
+
+Repozitar stale obsahuje puvodne Jekyll soubory, ktere se pouzivaji pro vibecoding.cz build na Cloudflare:
+- `_config.yml`, `_config_vibecoding.yml` - Jekyll konfigurace
+- `_posts/`, `_tech_news/`, `_ai/`, `_mobilnisite/`, `_obrazy/` - puvodne Jekyll kolekce
+- `_layouts/`, `_includes/`, `_sass/`, `_pages/` - Jekyll layouty a komponenty
+- `Gemfile`, `Gemfile.lock` - Ruby dependencies
+
+**Pro marigold.cz se pouziva Hugo** (`hugo.toml`, `content/`, `layouts/`).
 
 ---
 
-## Rozdíl: _posts vs _tech_news
+## Rozdil: posts vs tech-news
 
-### 📝 `_posts/` - Ruční Blog Posty
+### `content/posts/` - Rucni Blog Posty
 
-**Účel**: Dlouhodobý, pečlivě editovaný obsah, který vytvářejí lidé.
+**Ucel**: Dlouhodoby, peclive editovany obsah.
 
 **Charakteristika**:
-- ✍️ Ručně psané nebo AI-asistované
-- 📅 Nižší frekvence (týdny/měsíce)
-- 🎯 Hloubková analýza, tutoriály, názory
-- 🔧 Vyžaduje manuální edit a schválení
-- 📝 Markdown formát s bohatým front matter
+- Rucne psane nebo AI-asistovane
+- Nizsi frekvence (tydny/mesice)
+- Hloubkova analyza, tutorialy, nazory
+- Markdown format s bohatym front matter
 
-**Formát souboru**:
+**Format souboru**:
 ```
-_posts/YYYY-MM-DD-title.md
+content/posts/YYYY/YYYY-MM-DD-slug.md
 ```
+Posty jsou organizovane podle roku ve slozce (2002/, 2003/, ... 2026/).
 
-**Front Matter Příklad**:
+**Front Matter Priklad** (aktualni format):
 ```yaml
 ---
-layout: post
-title: "Jak funguje 5G standalone"
-date: 2025-11-15 14:30:00
-categories: [mobilnisite, technologie]
-tags: [5G, telekomunikace]
+slug: karpathy-llm-knowledgebase
 author: Patrick Zandl
+categories:
+- AI
+- LLM
+layout: post
+post_excerpt: Strucny popis clanku...
 summary_points:
-  - Standalone 5G nepotřebuje 4G infrastrukturu
-  - Nižší latence než NSA varianta
-  - Vyšší náklady na deployment
-image: /images/5g-standalone.jpg
+  - Prvni bod
+  - Druhy bod
+title: Nazev clanku
+thumbnail: https://www.marigold.cz/assets/obrazek.jpg
 ---
 ```
 
-**Permalink**: `/item/:title/`
+**Poznamky k front matter**:
+- `date` se **nebere z front matter** ale z nazvu souboru (nastaveno v hugo.toml: `date = [":filename", ":default"]`)
+- `layout: post` je volitelne, Hugo pouzije `layouts/posts/single.html`
+- `thumbnail` muze byt plna URL nebo lokalni cesta `/assets/obrazek.jpg`
+- Lokalni obrazky pro thumbnaily ukladejte do `static/assets/` nebo `assets/`
 
-**Kdy použít**:
-- Tutoriály a návody
-- Hloubkové analýzy
-- Názorové články
-- Recenze produktů
-- Dlouhodobě relevantní obsah
+**Permalink**: `/item/:slug/`
 
 ---
 
-### 📰 `_tech_news/` - Automatické Tech-News
+### `content/tech-news/` - Automaticke Tech-News
 
-**Účel**: Aktuální technologické zprávy, automaticky stahované, překládané a publikované.
+**STAV: POZASTAVENO od 2026-03-29** (workflow disabled)
+
+**Ucel**: Aktualni technologicke zpravy, automaticky stahovane, prekladane a publikovane.
 
 **Charakteristika**:
-- 🤖 Plně automatizované (NewsAPI → LLM překlad → Jekyll)
-- ⚡ Vysoká frekvence (každé 4 hodiny via GitHub Actions)
-- 🌍 Přeloženo z angličtiny do češtiny
-- 📊 Hodnocení důležitosti (1-5 hvězdiček)
-- 🔄 Krátkodobě relevantní (dny/týdny)
+- Plne automatizovane (NewsAPI -> LLM preklad -> Hugo)
+- Prelozeno z anglictiny do cestiny
+- Hodnoceni dulezitosti (1-5 hvezdicek)
+- Kratkodobe relevantni (dny/tydny)
 
-**Formát souboru**:
+**Format souboru**:
 ```
-_tech_news/YYYY-MM-DD-slug.md
+content/tech-news/YYYY-MM-DD-slug.md
 ```
 
-**Front Matter Příklad**:
+**Front Matter Priklad**:
 ```yaml
 ---
-layout: tech_news_article
-title: "Apple představil iPhone 17 Pro"
-original_title: "Apple Announces iPhone 17 Pro"
-slug: apple-predstavil-iphone-17-pro
-description: "Apple dnes oficiálně odhalil iPhone 17 Pro..."
-publishedAt: '2025-11-15T14:30:00+00:00'
-date: '2025-11-15 14:30:00'
-url: https://techcrunch.com/...
-category: hardware
-importance: 4
-source:
-  emoji: 🚀
-  name: TechCrunch
+author: Jmeno autora
+category: ai bezpecnost
 companies:
-  - Apple
+- MIT
+date: '2026-02-20 01:00:38'
+description: Popis clanku...
+importance: 5
+original_title: English Title
+publishedAt: '2026-02-20T01:00:38+00:00'
+slug: slug-clanku
+source:
+  emoji: ikona
+  name: ZDNet
+title: Cesky nazev
+source_url: https://...
 urlToImage: https://...
 ---
 ```
 
 **Permalink**: `/tech-news/:year-:month-:day/:slug/`
 
-**Generování**:
-```bash
-# Automaticky (GitHub Actions každé 4h)
-python scripts/generate_tech_news_newsapi.py
-
-# Manuálně
-python scripts/generate_tech_news_newsapi.py
-```
-
-**Kdy použít**:
-- NIKDY ručně - je to automatický systém!
-- Nedotýkejte se souborů v `_tech_news/` ručně
-- Pro manuální tech články použijte `_posts/`
-
----
-
-### 🎯 Rozhodovací Strom
-
-```
-Chci přidat článek
-    │
-    ├─> Je to časově citlivá zpráva o technologiích?
-    │       │
-    │       ├─> ANO → Nechte to na automatizaci (_tech_news)
-    │       └─> NE  → Pokračuj níže
-    │
-    └─> Je to hloubková analýza/tutoriál/názor?
-            │
-            ├─> ANO → _posts/ (ruční článek)
-            └─> NE  → Zvažte, zda je to vůbec potřeba
-```
+**Kdy pouzit**:
+- NIKDY rucne - je to automaticky system!
+- Pro manualni tech clanky pouzijte `content/posts/`
 
 ---
 
 ## Build Commands
 
-### Vývoj
+### Vyvoj
 
 ```bash
-# Spustit lokální server s live reload
-bundle exec jekyll serve --livereload
+# Spustit lokalni server s live reload
+hugo server
 
 # Spustit s draft posty
-bundle exec jekyll serve --drafts
+hugo server -D
 
 # Build bez serveru
-bundle exec jekyll build
+hugo --minify
 
 # Build s drafty
-bundle exec jekyll build --drafts
+hugo -D
 ```
 
-### Tech-News Generování
+### Tech-News Generovani (POZASTAVENO)
 
 ```bash
-# Vygenerovat tech-news (vyžaduje NEWS_API_KEY a OPENROUTER_API_KEY)
+# Vygenerovat tech-news (vyzaduje NEWS_API_KEY a OPENROUTER_API_KEY)
 python3 scripts/generate_tech_news_newsapi.py
 
 # Health check
@@ -244,13 +244,13 @@ python3 scripts/tech_news_health_check.py --output _data/tech_news_health.json
 python3 scripts/generate_llm_cost_report.py --summary-only
 ```
 
-### Testování
+### Testovani
 
 ```bash
-# Všechny testy
+# Vsechny testy
 pytest
 
-# Konkrétní test soubor
+# Konkretni test soubor
 pytest tests/test_health_check.py
 
 # S coverage
@@ -259,181 +259,83 @@ pytest --cov=scripts tests/
 
 ---
 
-## Tech-News Systém
+## Tech-News System
+
+**STAV: POZASTAVENO od 2026-03-29** - workflow `tech-news.yml` ma `if: false`
 
 ### Architektura
 
 ```
-NewsAPI → Python Script → LLM Translation (qwen/qwen3-max) → Jekyll Collection → GitHub Pages
+NewsAPI -> Python Script -> LLM Translation (qwen/qwen3-max) -> Hugo Collection -> GitHub Pages
 ```
 
 ### Komponenty
 
 1. **Generator**: `scripts/generate_tech_news_newsapi.py`
-   - Stahuje články z NewsAPI
-   - Překládá do češtiny pomocí OpenRouter/qwen3-max
-   - Detekuje důležitost (1-5)
-   - Vytváří markdown soubory v `_tech_news/`
+   - Stahuje clanky z NewsAPI
+   - Preklada do cestiny pomoci OpenRouter/qwen3-max
+   - Detekuje dulezitost (1-5)
+   - Vytvari markdown soubory v `content/tech-news/`
 
 2. **Health Check**: `scripts/tech_news_health_check.py`
-   - Kontroluje čerstvost článků
-   - Detekuje % článků v češtině
+   - Kontroluje cerstvost clanku
+   - Detekuje % clanku v cestine
    - Validuje kvalitu obsahu
    - Generuje `_data/tech_news_health.json`
 
 3. **Cost Tracker**: `scripts/llm_cost_tracker.py`
-   - Sleduje LLM API volání
-   - Ukládá do `_data/llm_costs.db`
+   - Sleduje LLM API volani
+   - Uklada do `_data/llm_costs.db`
    - Generuje reporty
 
-### Layouts
+### Layouts (Hugo)
 
-- **tech_news_article.html** - Jednotlivé články (`/tech-news/YYYY-MM-DD/slug/`)
-- **tech_news_day.html** - Denní přehledy (`/tech-news/YYYY-MM-DD/`)
-- **tech-news.html** - Hlavní stránka (`/tech-news/`)
-- **tech-news-archiv.html** - Archiv (`/tech-news/archiv/`)
-
-### Monitoring
-
-**Uptimerobot Setup**:
-```
-Type: HTTP(s) - Keyword
-URL: https://marigold.cz/health-check/
-Keyword: "status": "OK"
-Interval: 5 minutes
-Alert: Keyword NOT found for 2 consecutive checks
-```
-
-**Dokumentace**: `docs/UPTIMEROBOT_SETUP.md`
+- `layouts/tech-news/single.html` - Jednotlive clanky
+- `layouts/tech-news/list.html` - Seznam/archiv
 
 ---
 
 ## Audio Content
 
-### Generování Audio
+Audio soubory existuji v `audio/` a `static/audio/` (historicke MP3 z podcastu).
 
-**POZNÁMKA**: Audio generování není aktuálně implementováno.
-
-**Plánovaná funkcionalita**:
-- TTS (Text-to-Speech) pro články v `_posts/`
-- Použití: OpenAI TTS API nebo ElevenLabs
-- Formát: MP3, uložené v `assets/audio/`
-- Front matter: `audio_url: /assets/audio/2025-11-15-article.mp3`
-
-**Implementace (TODO)**:
-```bash
-# Budoucí skript
-python scripts/generate_audio.py --post _posts/2025-11-15-article.md
-```
+Podcast generovani bylo **pozastaveno** (workflow `generate_podcast.yml` ma `if: false` od 2026-03-29).
 
 ---
 
-## CHANGELOG.md - POVINNÉ
+## CHANGELOG.md - POVINNE
 
-### 🚨 KRITICKÉ PRAVIDLO
+### KRITICKE PRAVIDLO
 
-**PO KAŽDÉM COMMITU DO GITHUBU MUSÍTE AKTUALIZOVAT `CHANGELOG.md`!**
+**PO KAZDEM COMMITU DO GITHUBU MUSITE AKTUALIZOVAT `CHANGELOG.md`!**
 
-### Formát
+### Format
 
 ```markdown
 # Changelog
 
-Všechny významné změny v projektu jsou dokumentovány v tomto souboru.
+Vsechny vyznamne zmeny v projektu jsou dokumentovany v tomto souboru.
 
-Formát vychází z [Keep a Changelog](https://keepachangelog.com/cs/1.0.0/),
-a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
+Format vychazi z [Keep a Changelog](https://keepachangelog.com/cs/1.0.0/),
+a projekt dodrzuje [Semantic Versioning](https://semver.org/lang/cs/).
 
 ## [Unreleased]
 
 ### Added
-- (čekající změny před příštím release)
-
-## [X.Y.Z] - YYYY-MM-DD
-
-### Added
-- Nové funkce a vlastnosti
+- Nove funkce a vlastnosti
 
 ### Changed
-- Změny v existující funkcionalitě
-
-### Deprecated
-- Brzy odstraněné funkce
-
-### Removed
-- Nyní odstraněné funkce
+- Zmeny v existujici funkcionalite
 
 ### Fixed
-- Opravy bugů
-
-### Security
-- Bezpečnostní záplaty
+- Opravy bugu
 ```
 
-### Verzování (Semantic Versioning)
+### Verzovani (Semantic Versioning)
 
-```
-MAJOR.MINOR.PATCH  (např. 2.1.3)
-```
-
-- **MAJOR** (X.0.0): Breaking changes, zásadní přepisy
-  - Změna struktury projektu
-  - Odstranění starých features
-  - Nekompatibilní API změny
-
-- **MINOR** (x.Y.0): Nové funkce, zpětně kompatibilní
-  - Nový tech-news health check systém
-  - Nový layout nebo kolekce
-  - Nové skripty
-
-- **PATCH** (x.y.Z): Bugfixy, drobné změny
-  - Oprava permalinků
-  - CSS tweaky
-  - Dokumentace update
-
-### Příklad Workflow
-
-```bash
-# 1. Provedení změn
-git add _layouts/tech_news_day.html
-git add _pages/tech-news-archiv.html
-
-# 2. PŘED COMMITEM - Aktualizovat CHANGELOG.md
-# Přidat pod ## [Unreleased] sekci:
-
-### Fixed
-- Opraveny permalinky v tech_news_day layoutu - články nyní vedou na interní stránky
-- Vytvořena archivní stránka /tech-news/archiv/ s přehledem po měsících
-
-# 3. Commit s odkazem na CHANGELOG
-git commit -m "Fix: Tech-news permalinky a archiv
-
-- Opraveny odkazy v tech_news_day.html na interní permalinky
-- Vytvořena archivní stránka /tech-news/archiv/
-- Detaily v CHANGELOG.md"
-
-# 4. Push
-git push
-
-# 5. Při vytváření release - přesunout [Unreleased] do [X.Y.Z]
-```
-
-### Ukázkový CHANGELOG.md Entry
-
-```markdown
-## [Unreleased]
-
-### Added
-- Archivní stránka `/tech-news/archiv/` s přehledem článků po měsících a dnech
-- Health check systém pro monitoring tech-news generování
-
-### Fixed
-- Permalinky v `tech_news_day.html` - články nyní vedou na `/tech-news/YYYY-MM-DD/slug/` místo externích URL
-- Model pro tech-news aktualizován z `openrouter/polaris-alpha` na `qwen/qwen3-max`
-
-### Changed
-- GitHub Actions workflow - health check je nyní non-blocking (|| true)
-```
+- **MAJOR** (X.0.0): Breaking changes, zasadni prepisy
+- **MINOR** (x.Y.0): Nove funkce, zpetne kompatibilni
+- **PATCH** (x.y.Z): Bugfixy, drobne zmeny
 
 ---
 
@@ -441,87 +343,39 @@ git push
 
 ### Python (PEP 8 + Black)
 
-```python
-# ✅ SPRÁVNĚ
-def generate_tech_news(api_key: str, output_dir: Path) -> bool:
-    """
-    Generuje tech-news články z NewsAPI.
-
-    Args:
-        api_key: NewsAPI klíč
-        output_dir: Výstupní adresář pro markdown soubory
-
-    Returns:
-        True pokud úspěšné, jinak False
-    """
-    logger.info(f"🚀 Spouštím generování do {output_dir}")
-
-    try:
-        articles = fetch_articles(api_key)
-        return process_articles(articles, output_dir)
-    except Exception as e:
-        logger.error(f"❌ Chyba: {e}")
-        return False
-
-# ❌ ŠPATNĚ
-def gen(k,o):
-    print("Starting...")
-    try:
-        a=fetch(k)
-        return proc(a,o)
-    except:
-        print("Error")
-        return False
-```
-
-**Pravidla**:
-- Type hints pro všechny funkce
+- Type hints pro vsechny funkce
 - Docstrings (Google style)
-- Logging místo print()
-- Specifické exception handling
-- Black formátování (`black .`)
+- Logging misto print()
+- Specificke exception handling
+- Black formatovani (`black .`)
 - Meaningful variable names
 
-### Jekyll/Liquid
+### Hugo Templates (Go Templates)
 
-```liquid
-{%- comment -%}
-✅ SPRÁVNĚ - mezery kolem proměnných
-{%- endcomment -%}
-{{ article.title }}
-{{ article.date | date: '%Y-%m-%d' }}
+```go-html-template
+{{/* SPRAVNE - mezery kolem promennych */}}
+{{ .Title }}
+{{ .Date.Format "2006-01-02" }}
 
-{%- comment -%}
-❌ ŠPATNĚ - bez mezer
-{%- endcomment -%}
-{{article.title}}
-{{article.date|date:'%Y-%m-%d'}}
+{{/* SPATNE - bez mezer */}}
+{{.Title}}
+{{.Date.Format "2006-01-02"}}
 ```
 
 ### YAML Front Matter
 
 ```yaml
-# ✅ SPRÁVNĚ
+# SPRAVNE
 ---
-layout: post
-title: "Článek s uvozovkami"
-date: 2025-11-15 14:30:00
+title: "Clanek s uvozovkami"
+slug: clanek-slug
 categories:
   - technologie
   - ai
-tags: [5g, mobilní sítě]
 summary_points:
-  - První bod se všemi detaily
-  - Druhý bod také podrobný
----
-
-# ❌ ŠPATNĚ
----
-layout:post
-title:Článek bez uvozovek
-date:2025-11-15
-categories:[technologie,ai]
-tags:5g,mobilní sítě
+  - Prvni bod
+  - Druhy bod
+thumbnail: https://www.marigold.cz/assets/obrazek.jpg
 ---
 ```
 
@@ -529,34 +383,22 @@ tags:5g,mobilní sítě
 
 ## Deployment
 
-### GitHub Pages
+### GitHub Pages (Hugo)
 
-**Automatický deployment**:
-1. Push do `main` větve
-2. GitHub Actions build Jekyll
-3. Deploy do GitHub Pages
-4. Dostupné na `https://www.marigold.cz`
+**Automaticky deployment**:
+1. Push do `main` vetve
+2. GitHub Actions (`hugo-build.yml`) build Hugo s `--minify`
+3. Deploy do GitHub Pages pres `actions/deploy-pages@v4`
+4. Dostupne na `https://www.marigold.cz`
 
-### GitHub Actions Workflows
-
-**`.github/workflows/tech-news.yml`**:
-- Trigger: Každé 4 hodiny + manual
-- Kroky:
-  1. Checkout repo
-  2. Install Python dependencies
-  3. Generate tech-news (`generate_tech_news_newsapi.py`)
-  4. Optimize images
-  5. Generate manifest
-  6. Health check (non-blocking)
-  7. Commit změny
-  8. Push do `main`
+**Hugo verze v CI**: 0.159.1 (extended)
 
 ### Environment Variables (Secrets)
 
-Nastavené v GitHub repo settings:
+Nastavene v GitHub repo settings:
 
 ```
-NEWS_API_KEY=sk-...           # NewsAPI klíč
+NEWS_API_KEY=sk-...           # NewsAPI klic (pro tech-news)
 OPENROUTER_API_KEY=sk-...     # OpenRouter API pro LLM
 ```
 
@@ -564,100 +406,82 @@ OPENROUTER_API_KEY=sk-...     # OpenRouter API pro LLM
 
 ## Quick Reference
 
-### Časté úkoly
+### Caste ukoly
 
 ```bash
-# Nový blog post
-touch _posts/$(date +%Y-%m-%d)-title.md
+# Novy blog post
+mkdir -p content/posts/$(date +%Y)
+touch content/posts/$(date +%Y)/$(date +%Y-%m-%d)-title.md
 
-# Lokální development
-bundle exec jekyll serve --livereload
+# Lokalni development
+hugo server
 
-# Vygenerovat tech-news
-python3 scripts/generate_tech_news_newsapi.py
+# Build
+hugo --minify
 
-# Health check
-python3 scripts/tech_news_health_check.py --output _data/tech_news_health.json
+# Kde ukladat obrazky pro thumbnail
+# -> static/assets/nazev.jpg  (dostupne jako /assets/nazev.jpg)
 
-# LLM cost report
-python3 scripts/generate_llm_cost_report.py --summary-only
-
-# Před commitem
+# Pred commitem
 # 1. Aktualizovat CHANGELOG.md
 # 2. git add, commit, push
 ```
 
-### Důležité soubory
+### Dulezite soubory
 
 ```
-_config.yml                              # Jekyll konfigurace
-CHANGELOG.md                             # Change log (POVINNÝ!)
+hugo.toml                                # Hugo konfigurace
+CHANGELOG.md                             # Change log (POVINNY!)
 CLAUDE.md                                # Tento soubor
-_data/tech_news_sources.yaml            # Tech-news zdroje
-_data/tech_news_health.json              # Health status
-scripts/generate_tech_news_newsapi.py    # Tech-news generátor
-scripts/tech_news_health_check.py        # Health monitoring
+data/tech_news_sources.yaml              # Tech-news zdroje
+scripts/generate_tech_news_newsapi.py    # Tech-news generator
+.github/workflows/hugo-build.yml         # Hlavni build workflow
 ```
 
-### Užitečné odkazy
+### Uzitecne odkazy
 
-- **Živý web**: https://www.marigold.cz
-- **Health status**: https://www.marigold.cz/health-status/
-- **Health JSON**: https://www.marigold.cz/health-check/
+- **Zivy web**: https://www.marigold.cz
 - **Tech-news**: https://www.marigold.cz/tech-news/
-- **Archiv**: https://www.marigold.cz/tech-news/archiv/
+- **Vibecoding**: https://www.vibecoding.cz
 
 ---
 
 ## Troubleshooting
 
-### Tech-News negeneruje články
+### Hugo build fails
 
 ```bash
-# 1. Zkontrolovat API klíče
-echo $NEWS_API_KEY
-echo $OPENROUTER_API_KEY
-
-# 2. Zkontrolovat health status
-python3 scripts/tech_news_health_check.py --output _data/tech_news_health.json
-
-# 3. Zkontrolovat logy
-tail -f _data/llm_costs.db
-```
-
-### Jekyll build fails
-
-```bash
-# Vyčistit cache
-rm -rf _site .jekyll-cache
-
-# Reinstall dependencies
-bundle install
+# Vycistit cache
+rm -rf public/ resources/
 
 # Build s verbose
-bundle exec jekyll build --verbose --trace
+hugo --minify --verbose
+
+# Zkontrolovat verzi
+hugo version
 ```
 
-### Permalinky nefungují
+### Permalinky nefunguji
 
 ```bash
-# Zkontrolovat _config.yml collections
-grep -A10 "collections:" _config.yml
+# Zkontrolovat hugo.toml permalinks sekci
+grep -A10 "permalinks" hugo.toml
 
 # Rebuild site
-bundle exec jekyll build
+hugo --minify
 
-# Zkontrolovat _site adresář
-ls -la _site/tech-news/2025-11-15/
+# Zkontrolovat public/ adresar
+ls -la public/item/
 ```
 
 ---
 
-## Historie Verzí
+## Historie Verzi
 
-- **2.0** (2025-11-15): Přidán CHANGELOG requirement, audio info, rozšířená dokumentace
+- **3.0** (2026-04-06): Aktualizace na Hugo, pozastaveni tech-news a podcastu, oprava struktury
+- **2.0** (2025-11-15): Pridan CHANGELOG requirement, audio info, rozsirena dokumentace
 - **1.0** (2025-08-25): Initial verze
 
 ---
 
-**Konec dokumentace** | Pro dotazy: Aktualizujte CHANGELOG.md! 📋
+**Konec dokumentace** | Pro dotazy: Aktualizujte CHANGELOG.md!
