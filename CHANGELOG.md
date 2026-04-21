@@ -7,6 +7,9 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
 
 ## [Unreleased]
 
+### Added
+- Nový článek: „Jsou AI agenti superinteligence dneška?" (Patrick Zandl, 2026-04-21) — o kooperaci AI agentů, World Models a agentní vrstvě
+
 ### Fixed
 - Post `prirucka-ai-ve-firmach-zdarma` přesunut z `_posts/` do `content/posts/` pro kompatibilitu s Hugo buildem
 - Thumbnail `ebook-ai-ve-firmach.png` zkopírován do `static/assets/` aby byl dostupný v Hugo buildu
