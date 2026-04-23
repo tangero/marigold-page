@@ -44,3 +44,5 @@ Dalším velkým doporučením bylo využít lépe možnosti networkingu, ke kte
 ### A příště? 
 
 S ohledem na to, že koncem května mě čeká přechod Skotské Vysočiny, je termín dalšího Vibecoding Talks ještě v jednání. Dáme vědět - ale pokud byste měli nějaké téma, které byste chtěli představit, neváhejte mi napsat na patrick@zandl.cz...
+
+**Vyhodnocený dotazník účastníků** [najdete zde na webu](https://www.vibecoding.cz/akce/vibecoding-talks/).
