@@ -14,7 +14,7 @@ Vlastně mě nenapadlo, že děláme větší AI akci. Nakonec na dubnové Vibec
 
 Setkání Vibecoding Talks zatím probíhala v menších prostorech, kam se vešlo tak 50-60 lidí a po zavedení čekací listiny se ukázalo, že další dvě stovky lidí jsou prostě mimo hru. A tak jsme hledali, jak to zlepšit, přičemž najít vhodné prostory, aby to nebyla nobl záležitost, ale milé a spíše "klubové" prostředí, není jednoduché. 
 
-Nakonec musím říci, že akci prospěl přesun do Kina Dlabačov. Výrazně větší a variabilnější prostory, které navíc mají svůj dobře zásobený bar umožnily popovídat si jak o přestávce, tak po akci (třetina lidí zůstala po akci).
+Nakonec musím říci, že akci prospěl přesun do Kina Dlabačov a za ten nápad se patří [OREA Hotels & Resorts](https://www.orea.cz) poděkovat.  Výrazně větší a variabilnější prostory, které navíc mají svůj dobře zásobený bar umožnily popovídat si jak o přestávce, tak po akci (třetina lidí zůstala po akci).
 
 A akce? Začínali jsme mým měsíčním shrnutím - které bylo spíše 6 týdnů, protože předchozí Vibecoding Talks byly 9.3. - do toho přišly Velikonoce a vše se nám posunulo. A nutno říct, že Anthropic nezahálel, novinek byla vydána celá řada, některé (jako Claude Design) jsem už stihl jen zmínit, ani se k nim nedalo nic říci. Oprávněně lidé psali do dotazníku, že tuhle sekci by bylo hezké posílit, protože právě přehled novinek jim pomáhá se držet v obrace. 
 
