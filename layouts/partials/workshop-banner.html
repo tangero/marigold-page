@@ -1,22 +1,5 @@
 <div class="posts">
-  <div id="vibecoding-promo" style="display:none;">
-    <a id="vibecoding-promo-link" href="https://www.vibecoding.cz/akce/" class="workshop-banner-link">
-      <div class="workshop-banner">
-        <div class="workshop-banner-content">
-          <div class="workshop-banner-header-row">
-            <span class="workshop-banner-badge" id="vibecoding-promo-badge">Workshop</span>
-            <span class="workshop-banner-date" id="vibecoding-promo-date"></span>
-          </div>
-          <div class="workshop-banner-title" id="vibecoding-promo-title"></div>
-          <div class="workshop-banner-desc" id="vibecoding-promo-desc" style="display:none;"></div>
-          <div class="workshop-banner-early" id="vibecoding-promo-early" style="display:none;"></div>
-        </div>
-        <div class="workshop-banner-cta">
-          <span class="workshop-banner-btn">Detaily &rarr;</span>
-        </div>
-      </div>
-    </a>
-  </div>
+  <div id="vibecoding-promo" style="display:none;"></div>
   <script>
   (function(){
     var months=['ledna','února','března','dubna','května','června','července','srpna','září','října','listopadu','prosince'];
@@ -29,29 +12,53 @@
         var city=e.city||(e.location?e.location.split(',').slice(-1)[0].trim():'');
         var dateText=df+(city?' · '+city:'')+(e.dateVariants&&e.dateVariants.length>1?' · a další termíny':'');
         var url='https://www.vibecoding.cz/akce/'+e.slug+'/?utm_source=marigold&utm_medium=web&utm_campaign=event-promo';
+        var container=document.getElementById('vibecoding-promo');
 
-        document.getElementById('vibecoding-promo-link').href=url;
-        document.getElementById('vibecoding-promo-badge').textContent=e.isPaid?'Workshop':'Akce';
-        document.getElementById('vibecoding-promo-title').textContent=e.title;
-        document.getElementById('vibecoding-promo-date').textContent=dateText;
-
-        if(e.bannerDescription){
-          var descEl=document.getElementById('vibecoding-promo-desc');
-          descEl.textContent=e.bannerDescription;
-          descEl.style.display='';
-        }
-        if(e.isPaid&&e.earlyBirdPrice&&e.earlyBirdDeadline){
-          var now=new Date();
-          var deadline=new Date(e.earlyBirdDeadline+'T23:59:59');
-          if(now<=deadline){
-            var earlyEl=document.getElementById('vibecoding-promo-early');
-            var ed=e.earlyBirdDeadline.split('-');
-            earlyEl.textContent='Early bird — do '+parseInt(ed[2])+'. '+months[parseInt(ed[1])-1]+'.';
-            earlyEl.style.display='';
+        if(e.isPaid){
+          // Tmavý workshop banner
+          var earlyHtml='';
+          if(e.earlyBirdPrice&&e.earlyBirdDeadline){
+            var now=new Date();var deadline=new Date(e.earlyBirdDeadline+'T23:59:59');
+            if(now<=deadline){
+              var ed=e.earlyBirdDeadline.split('-');
+              earlyHtml='<div class="workshop-banner-early">Early bird — do '+parseInt(ed[2])+'. '+months[parseInt(ed[1])-1]+'.</div>';
+            }
           }
+          container.innerHTML=
+            '<a href="'+url+'" class="workshop-banner-link">'+
+              '<div class="workshop-banner">'+
+                '<div class="workshop-banner-content">'+
+                  '<div class="workshop-banner-header-row">'+
+                    '<span class="workshop-banner-badge">'+(e.isPaid?'Workshop':'Akce')+'</span>'+
+                    '<span class="workshop-banner-date">'+dateText+'</span>'+
+                  '</div>'+
+                  '<div class="workshop-banner-title">'+e.title+'</div>'+
+                  (e.bannerDescription?'<div class="workshop-banner-desc">'+e.bannerDescription+'</div>':'')+
+                  earlyHtml+
+                '</div>'+
+                '<div class="workshop-banner-cta">'+
+                  '<span class="workshop-banner-btn">Detaily &rarr;</span>'+
+                '</div>'+
+              '</div>'+
+            '</a>';
+        } else {
+          // Kompaktní "Naše akce" banner
+          container.innerHTML=
+            '<a href="'+url+'" class="promo-card-compact-link">'+
+              '<div class="promo-card-compact">'+
+                '<div class="promo-left">'+
+                  '<span class="promo-badge-sm">Naše akce</span>'+
+                  '<span class="promo-title-sm">'+e.title+'</span>'+
+                  '<span class="promo-meta">'+dateText+'</span>'+
+                  (e.bannerDescription?'<span class="promo-meta">'+e.bannerDescription+'</span>':'')+
+                '</div>'+
+                '<div class="promo-right">'+
+                  '<span class="promo-cta-btn">Detaily &rarr;</span>'+
+                '</div>'+
+              '</div>'+
+            '</a>';
         }
-
-        document.getElementById('vibecoding-promo').style.display='';
+        container.style.display='';
       })
       .catch(function(){});
   })();
