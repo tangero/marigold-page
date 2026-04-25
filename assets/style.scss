@@ -1693,6 +1693,15 @@ pre:has(code.language-mermaid), code.language-mermaid {
   min-width: 240px;
 }
 
+.workshop-banner-header-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-bottom: 10px;
+}
+
 .workshop-banner-badge {
   background: $blue;
   color: #fff;
@@ -1703,7 +1712,12 @@ pre:has(code.language-mermaid), code.language-mermaid {
   padding: 4px 10px;
   border-radius: 4px;
   display: inline-block;
-  margin-bottom: 12px;
+  flex-shrink: 0;
+}
+
+.workshop-banner-date {
+  color: #9cb3c9;
+  font-size: 13px;
 }
 
 .workshop-banner-title {
@@ -1711,32 +1725,25 @@ pre:has(code.language-mermaid), code.language-mermaid {
   font-size: 20px;
   font-weight: 700;
   line-height: 1.3;
-  margin-bottom: 8px;
+  margin-bottom: 6px;
 }
 
-.workshop-banner-detail {
+.workshop-banner-desc {
   color: #9cb3c9;
   font-size: 14px;
-  margin-bottom: 6px;
+  margin-bottom: 4px;
 }
 
 .workshop-banner-early {
   color: $blue;
-  font-size: 14px;
+  font-size: 13px;
   font-style: italic;
-  margin-top: 6px;
+  margin-top: 4px;
 }
 
 .workshop-banner-cta {
   text-align: center;
   flex-shrink: 0;
-}
-
-.workshop-banner-price {
-  color: #fff;
-  font-size: 26px;
-  font-weight: 700;
-  margin-bottom: 12px;
 }
 
 .workshop-banner-btn {

@@ -3,14 +3,16 @@
     <a id="vibecoding-promo-link" href="https://www.vibecoding.cz/akce/" class="workshop-banner-link">
       <div class="workshop-banner">
         <div class="workshop-banner-content">
-          <span class="workshop-banner-badge" id="vibecoding-promo-badge">Workshop</span>
+          <div class="workshop-banner-header-row">
+            <span class="workshop-banner-badge" id="vibecoding-promo-badge">Workshop</span>
+            <span class="workshop-banner-date" id="vibecoding-promo-date"></span>
+          </div>
           <div class="workshop-banner-title" id="vibecoding-promo-title"></div>
-          <div class="workshop-banner-detail" id="vibecoding-promo-date"></div>
+          <div class="workshop-banner-desc" id="vibecoding-promo-desc" style="display:none;"></div>
           <div class="workshop-banner-early" id="vibecoding-promo-early" style="display:none;"></div>
         </div>
         <div class="workshop-banner-cta">
-          <div class="workshop-banner-price" id="vibecoding-promo-price" style="display:none;"></div>
-          <span class="workshop-banner-btn">Více info &rarr;</span>
+          <span class="workshop-banner-btn">Detaily &rarr;</span>
         </div>
       </div>
     </a>
@@ -24,17 +26,19 @@
         if(!e||!e.slug)return;
         var d=e.date.split('-');
         var df=parseInt(d[2])+'. '+months[parseInt(d[1])-1]+' '+d[0];
+        var city=e.city||(e.location?e.location.split(',').slice(-1)[0].trim():'');
+        var dateText=df+(city?' · '+city:'')+(e.dateVariants&&e.dateVariants.length>1?' · a další termíny':'');
         var url='https://www.vibecoding.cz/akce/'+e.slug+'/?utm_source=marigold&utm_medium=web&utm_campaign=event-promo';
 
         document.getElementById('vibecoding-promo-link').href=url;
         document.getElementById('vibecoding-promo-badge').textContent=e.isPaid?'Workshop':'Akce';
         document.getElementById('vibecoding-promo-title').textContent=e.title;
-        document.getElementById('vibecoding-promo-date').textContent=df+(e.time?' v '+e.time:'')+(e.location?', '+e.location:'');
+        document.getElementById('vibecoding-promo-date').textContent=dateText;
 
-        if(e.isPaid&&e.price){
-          var priceEl=document.getElementById('vibecoding-promo-price');
-          priceEl.textContent=e.price.toLocaleString('cs-CZ')+' Kč';
-          priceEl.style.display='';
+        if(e.bannerDescription){
+          var descEl=document.getElementById('vibecoding-promo-desc');
+          descEl.textContent=e.bannerDescription;
+          descEl.style.display='';
         }
         if(e.isPaid&&e.earlyBirdPrice&&e.earlyBirdDeadline){
           var now=new Date();
@@ -42,7 +46,7 @@
           if(now<=deadline){
             var earlyEl=document.getElementById('vibecoding-promo-early');
             var ed=e.earlyBirdDeadline.split('-');
-            earlyEl.textContent='Early bird '+e.earlyBirdPrice.toLocaleString('cs-CZ')+' Kč — do '+parseInt(ed[2])+'. '+months[parseInt(ed[1])-1]+'.';
+            earlyEl.textContent='Early bird — do '+parseInt(ed[2])+'. '+months[parseInt(ed[1])-1]+'.';
             earlyEl.style.display='';
           }
         }
