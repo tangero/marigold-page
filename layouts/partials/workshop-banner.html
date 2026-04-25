@@ -1,16 +1,55 @@
 <div class="posts">
-  <a href="https://www.vibecoding.cz/akce/claude-code-pro-vyvojare" class="workshop-banner-link">
-    <div class="workshop-banner">
-      <div class="workshop-banner-content">
-        <span class="workshop-banner-badge">Workshop</span>
-        <div class="workshop-banner-title">Workshop Claude Code pro vývojáře s Patrickem</div>
-        <div class="workshop-banner-detail">Za 4 hodiny zvládneš CLAUDE.md, MCP servery a subagenty.</div>
-        <div class="workshop-banner-early">Termíny květen a červen ještě volné.</div>
+  <div id="vibecoding-promo" style="display:none;">
+    <a id="vibecoding-promo-link" href="https://www.vibecoding.cz/akce/" class="workshop-banner-link">
+      <div class="workshop-banner">
+        <div class="workshop-banner-content">
+          <span class="workshop-banner-badge" id="vibecoding-promo-badge">Workshop</span>
+          <div class="workshop-banner-title" id="vibecoding-promo-title"></div>
+          <div class="workshop-banner-detail" id="vibecoding-promo-date"></div>
+          <div class="workshop-banner-early" id="vibecoding-promo-early" style="display:none;"></div>
+        </div>
+        <div class="workshop-banner-cta">
+          <div class="workshop-banner-price" id="vibecoding-promo-price" style="display:none;"></div>
+          <span class="workshop-banner-btn">Více info &rarr;</span>
+        </div>
       </div>
-      <div class="workshop-banner-cta">
-        <div class="workshop-banner-price">4 000 Kč</div>
-        <span class="workshop-banner-btn">Registrovat se &rarr;</span>
-      </div>
-    </div>
-  </a>
+    </a>
+  </div>
+  <script>
+  (function(){
+    var months=['ledna','února','března','dubna','května','června','července','srpna','září','října','listopadu','prosince'];
+    fetch('https://www.vibecoding.cz/api/active-promotion')
+      .then(function(r){return r.json();})
+      .then(function(e){
+        if(!e||!e.slug)return;
+        var d=e.date.split('-');
+        var df=parseInt(d[2])+'. '+months[parseInt(d[1])-1]+' '+d[0];
+        var url='https://www.vibecoding.cz/akce/'+e.slug+'/?utm_source=marigold&utm_medium=web&utm_campaign=event-promo';
+
+        document.getElementById('vibecoding-promo-link').href=url;
+        document.getElementById('vibecoding-promo-badge').textContent=e.isPaid?'Workshop':'Akce';
+        document.getElementById('vibecoding-promo-title').textContent=e.title;
+        document.getElementById('vibecoding-promo-date').textContent=df+(e.time?' v '+e.time:'')+(e.location?', '+e.location:'');
+
+        if(e.isPaid&&e.price){
+          var priceEl=document.getElementById('vibecoding-promo-price');
+          priceEl.textContent=e.price.toLocaleString('cs-CZ')+' Kč';
+          priceEl.style.display='';
+        }
+        if(e.isPaid&&e.earlyBirdPrice&&e.earlyBirdDeadline){
+          var now=new Date();
+          var deadline=new Date(e.earlyBirdDeadline+'T23:59:59');
+          if(now<=deadline){
+            var earlyEl=document.getElementById('vibecoding-promo-early');
+            var ed=e.earlyBirdDeadline.split('-');
+            earlyEl.textContent='Early bird '+e.earlyBirdPrice.toLocaleString('cs-CZ')+' Kč — do '+parseInt(ed[2])+'. '+months[parseInt(ed[1])-1]+'.';
+            earlyEl.style.display='';
+          }
+        }
+
+        document.getElementById('vibecoding-promo').style.display='';
+      })
+      .catch(function(){});
+  })();
+  </script>
 </div>
