@@ -1,0 +1,39 @@
+backend:
+  name: github
+  repo: tangero/marigold-page
+  branch: main
+
+media_folder: static/assets
+public_folder: /assets
+
+locale: cs
+
+collections:
+  - name: posts
+    label: Články
+    label_singular: Článek
+    folder: content/posts
+    create: true
+    path: "{{year}}/{{year}}-{{month}}-{{day}}-{{fields.slug}}"
+    slug: "{{fields.slug}}"
+    fields:
+      - { name: title, label: Nadpis, widget: string }
+      - { name: slug, label: Slug (URL), widget: string }
+      - { name: author, label: Autor, widget: string, default: Patrick Zandl }
+      - name: categories
+        label: Kategorie
+        widget: list
+        required: false
+      - name: summary_points
+        label: Shrnutí (odrážky)
+        widget: list
+        required: false
+      - name: thumbnail
+        label: Náhledový obrázek
+        widget: image
+        required: false
+        media_folder: /static/assets
+        public_folder: /assets
+      - { name: audio_url, label: Audio URL, widget: string, required: false }
+      - { name: hide, label: Skrýt článek, widget: boolean, default: false, required: false }
+      - { name: body, label: Text článku, widget: markdown }
