@@ -8,6 +8,7 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
 ## [Unreleased]
 
 ### Added
+- Sveltia CMS: přidán webový editor článků dostupný na `/admin/` — přihlášení přes GitHub, bez OAuth proxy serveru
 - Nový článek: „Jsou AI agenti superinteligence dneška?" (Patrick Zandl, 2026-04-21) — o kooperaci AI agentů, World Models a agentní vrstvě
 
 ### Fixed
