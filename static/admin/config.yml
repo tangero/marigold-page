@@ -2,6 +2,7 @@ backend:
   name: github
   repo: tangero/marigold-page
   branch: main
+  base_url: https://sveltia-cms-auth.zandl.workers.dev
 
 media_folder: static/assets
 public_folder: /assets
