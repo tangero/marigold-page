@@ -39,6 +39,7 @@
 
   {{ with .Params.thumbnail }}
   {{ $thumbnail_url := replace . "http://" "https://" }}
+  {{ if not (hasPrefix $thumbnail_url "http") }}{{ $thumbnail_url = print "https://www.marigold.cz" $thumbnail_url }}{{ end }}
   <div class="thumbnail-strip">
     <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_1200,h_300,c_fill,g_auto,f_auto,q_auto/{{ $thumbnail_url }}" alt="{{ $.Title }}">
   </div>
