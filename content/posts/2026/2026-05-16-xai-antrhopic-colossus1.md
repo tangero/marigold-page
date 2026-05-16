@@ -5,7 +5,7 @@ author: Patrick Zandl
 categories:
   - AI
 summary_points: []
-thumbnail: colossusSite.webp
+thumbnail: /assets/colossusSite.webp
 audio_url: ''
 hide: false
 ---

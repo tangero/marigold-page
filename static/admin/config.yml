@@ -17,6 +17,8 @@ collections:
     create: true
     path: "{{year}}/{{year}}-{{month}}-{{day}}-{{fields.slug}}"
     slug: "{{fields.slug}}"
+    media_folder: /static/assets
+    public_folder: /assets
     fields:
       - { name: title, label: Nadpis, widget: string }
       - { name: slug, label: Slug (URL), widget: string }
