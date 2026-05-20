@@ -2513,20 +2513,10 @@ pre:has(code.language-mermaid), code.language-mermaid {
     transform: translateY(-2px);
     box-shadow: 0 6px 20px rgba(0, 0, 0, 0.12);
   }
-}
-.vt-banner-grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 8px;
   img {
     display: block;
     width: 100%;
     height: auto;
     border-radius: 6px;
-  }
-}
-@media (max-width: 600px) {
-  .vt-banner-grid {
-    grid-template-columns: 1fr;
   }
 }

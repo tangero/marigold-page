@@ -104,16 +104,14 @@
     ></script>
   </div>
 
+  {{ $vtImages := slice "/assets/vt/VT_LukasKonarovsky.jpg" "/assets/vt/VT_MichalBlaha.jpg" "/assets/vt/VT_PavelUngr.jpg" }}
+  {{ $vtPick := index (shuffle $vtImages) 0 }}
   <aside class="vt-banner" aria-label="Vibecoding Talks 15. 6. 2026">
     <a href="https://www.vibecoding.cz/akce/vibecoding-talks/?utm_source=web&amp;utm_medium=marigold&amp;utm_campaign=vt-06-2026"
        target="_blank" rel="noopener sponsored"
        class="vt-banner-link"
        title="Vibecoding Talks 15.6.2026 je komunitní setkání vibe coderů a vývojářů">
-      <div class="vt-banner-grid">
-        <img src="/assets/vt/VT_LukasKonarovsky.jpg" alt="Vibecoding Talks 15.6.2026 je komunitní setkání vibe coderů a vývojářů" loading="lazy">
-        <img src="/assets/vt/VT_MichalBlaha.jpg" alt="Vibecoding Talks 15.6.2026 je komunitní setkání vibe coderů a vývojářů" loading="lazy">
-        <img src="/assets/vt/VT_PavelUngr.jpg" alt="Vibecoding Talks 15.6.2026 je komunitní setkání vibe coderů a vývojářů" loading="lazy">
-      </div>
+      <img src="{{ $vtPick }}" alt="Vibecoding Talks 15.6.2026 je komunitní setkání vibe coderů a vývojářů" loading="lazy">
     </a>
   </aside>
 
