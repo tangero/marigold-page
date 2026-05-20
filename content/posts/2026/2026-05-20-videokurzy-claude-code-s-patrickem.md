@@ -18,7 +18,7 @@ Byl to můj sen: natočit je pořádně, hezky, ve studiu, aby to obrazově i zv
 
 [**kurzy.vibecoding.cz**](https://kurzy.vibecoding.cz/?utm_source=article&utm_medium=Marigold&utm_campaign=sale)
 
-Zatím máme na webu šest lekcí, které vás provedou začátky Claude Code, postupně budeme přidávat další podklady, v červnu natáčíme další a plán je stíhat všechno podstatné v Claude Code technologii jak z pohledu vibe codingu, tak agentního vývoje. Má to ovšem svoji cenu - za soukromou licenci zaplatíte 3000 Kč ročně, firemní licence pro max 20 zaměstnanců přijde na 30 000 Kč ročně. První nejdelší díl je zdarma.  
+Zatím máme na webu šest lekcí, které vás provedou začátky Claude Code, postupně budeme přidávat další podklady, v červnu natáčíme další a plán je stíhat všechno podstatné v Claude Code technologii jak z pohledu vibe codingu, tak agentního vývoje. Má to ovšem svoji cenu - za soukromou licenci zaplatíte 3000 Kč ročně, firemní licence pro max 20 zaměstnanců přijde na 30 000 Kč ročně. **_Pro prvních 50 objednávek je sleva 50 %_**, abychom to nějak důstojně oslavili. První nejdelší díl je zdarma pro všechny, s ním se naučíte hodně**!**
 
 **Za to máte kompletní vzdělávání:**
 
