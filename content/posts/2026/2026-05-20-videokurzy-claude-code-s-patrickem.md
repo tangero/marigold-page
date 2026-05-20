@@ -18,16 +18,17 @@ Byl to můj sen: natočit je pořádně, hezky, ve studiu, aby to obrazově i zv
 
 [**kurzy.vibecoding.cz**](https://kurzy.vibecoding.cz/?utm_source=article&utm_medium=Marigold&utm_campaign=sale)
 
-Zatím máme na webu šest lekcí, které vás provedou začátky Claude Code, postupně budeme přidávat další podklady, v červnu natáčíme další a plán je stíhat všechno podstatné v Claude Code technologii jak z pohledu vibe codingu, tak agentního vývoje. Má to ovšem svoji cenu - za soukromou licenci zaplatíte 3000 Kč ročně, firemní licence pro max 20 zaměstnanců přijde na 30 000 Kč ročně. **_Pro prvních 50 objednávek je sleva 50 %_**, abychom to nějak důstojně oslavili. První nejdelší díl je zdarma pro všechny, s ním se naučíte hodně**!**
+Zatím máme na webu šest lekcí, které vás provedou začátky Claude Code, postupně budeme přidávat další podklady, v červnu natáčíme další a plán je stíhat všechno podstatné v Claude Code technologii jak z pohledu vibe codingu, tak agentního vývoje. Má to ovšem svoji cenu - za soukromou licenci zaplatíte 3000 Kč ročně, firemní licence pro max 20 zaměstnanců přijde na 30 000 Kč ročně. **_Pro prvních 50 objednávek je sleva 50 %_**, abychom to nějak důstojně oslavili. První nejdelší díl je zdarma pro všechny, s ním se naučíte hodně\*\*!\*\*
 
 **Za to máte kompletní vzdělávání:**
 
 - pravidelně vydávám souhrny novinek
-- vytvářím „taháky“ a „workflow“ postupy pro jejich využívání
+- vytvářím „[taháky](https://www.vibecoding.cz/cheat-sheet/claude-code?lang=cs)“ a „workflow“ postupy pro jejich využívání
 - a tato videa jsou právě komplexnější strategií, jak AI nástroje nasazovat a využívat
 - videa budeme pravidelně aktualizovat, aby nezastarávala a abyste byli up-to-date, jak nejlépe v agentním vývoji pracovat
-- samozřejmě, komu to nestačí, se může vždy vydat na osobní nebo online workshop
-- a pro diskusi v komunitě nadále pokračujeme s Vibecoding Talks jako prostředím pro výměnu zkušeností
+- samozřejmě, komu to nestačí, se může vždy vydat na [osobní nebo online workshop](https://www.vibecoding.cz/akce/)
+- nebo si objednat do firmy [workshop agentního vývoje na míru](https://www.vibecoding.cz/workshopy/)
+- a pro diskusi v komunitě nadále **pokračujeme s Vibecoding Talks** jako prostředím pro výměnu zkušeností - [**už jste se přihlásili na 15.6.2026**](https://www.vibecoding.cz/akce/vibecoding-talks?utm_source=marigold&utm_medium=web&utm_campaign=article)? 
 
 Proč? Protože AI je velká změna a my v Česku nebudeme stát stranou!
 
