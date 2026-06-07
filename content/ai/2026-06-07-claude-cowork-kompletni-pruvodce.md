@@ -8,6 +8,7 @@ categories:
 - AI
 - Claude
 - Claude Cowork
+post_excerpt: 'Claude Cowork přenáší agentní schopnosti Claude Code do desktopového prostředí Claude.ai, které zvládne každý. Dostanete agenta, který pracuje přímo s vašimi soubory — místo asistenta, kterému v každé konverzaci opakujete totéž.'
 summary_points:
   - Cowork přenáší agentní schopnosti Claude Code do desktopového prostředí pro všechny uživatele
   - Klíčový rozdíl oproti Chatu je autonomní práce se soubory ve vaší složce bez opakování kontextu
