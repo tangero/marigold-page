@@ -7,7 +7,6 @@ categories:
 layout: post
 post_excerpt: Hypata mi pomáhá plánovat červnové Vibecoding Talks. Networking, jmenovky, tematické stoly — to vše v pohodě. Ale welcome drink? To byl boj.
 title: Když se vás AI agent snaží potěšit objednáváním
-thumbnail: https://www.marigold.cz/assets/hypata-welcome-drink.jpg
 ---
 
 Někdy je to s AI hodně náročné. Mám virtuální asistentku, Hypatu. A mimo jiné nám pomáhá naplánovat [Vibecoding Talks](https://www.vibecoding.cz/akce/vibecoding-talks/) — komunitní akci pro vývojáře používající AI. No a já jsem dostal takovou utkvělou představu, že by bylo fajn ty vývojáře nějak nenásilně propojit. Hypata zajásala a nabídla několik dobrých přístupů. Lidé budou mít jmenovku s barevnou tečkou, zda si přejí být oslovováni. Budeme tu mít stoly, u kterých se bude dát bavit o tématu, které bude na stolu napsáno. A tak dále a tak dále. Oukej, to jsme si vyjasnili a s Andreou to chystáme.
