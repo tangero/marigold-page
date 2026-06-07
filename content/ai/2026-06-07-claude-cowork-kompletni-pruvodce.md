@@ -7,6 +7,7 @@ sw: claude
 categories:
 - AI
 - Claude
+- Claude Cowork
 summary_points:
   - Cowork přenáší agentní schopnosti Claude Code do desktopového prostředí pro všechny uživatele
   - Klíčový rozdíl oproti Chatu je autonomní práce se soubory ve vaší složce bez opakování kontextu
@@ -14,9 +15,7 @@ summary_points:
   - Cowork je stále research preview s omezeními pro regulované provozy a bez cloudové synchronizace
 ---
 
-# Jak využívat Claude Cowork pro vaše podnikání a práci
-
-*Claude Cowork přenáší schopnosti agentního Claude Code do desktopového prostředí Claude.ai, které zvládne každý. Za těch několik měsíců, co jsou dostupné, jsem prošel všemi stádii: od netečnosti "k čemu by to asi tak bylo", přes čisté nadšení "to je boží", až po nynější rutinní používání "že jsem to předloni nepoužíval? blbost". 
+Claude Cowork přenáší schopnosti agentního Claude Code do desktopového prostředí Claude.ai, které zvládne každý. Za těch několik měsíců, co jsou dostupné, jsem prošel všemi stádii: od netečnosti "k čemu by to asi tak bylo", přes čisté nadšení "to je boží", až po nynější rutinní používání "že jsem to předloni nepoužíval? blbost". 
 
 Rozdíl mezi Claude Chat a Cowork? Místo abyste Coworku pokaždé znovu vysvětlovali kontext, dostanete agenta, který pracuje přímo s vašimi soubory. Ve vaší složce. Pojďme si vysvětlit, jak funguje a jak může pomoci i vaší práci!
 
@@ -63,6 +62,8 @@ V Chatu přiložíte soubor ručně do každé konverzace. V Coworku ukážete n
 Typický první experiment, na kterém uvidíte, jak Cowork přemýšlí: úklid složky se staženými soubory. Cowork umí najít duplicity podle obsahu, hromadně přejmenovat soubory podle konvence, archivovat staré soubory s logem o tom, co kam přesunul, sloučit roztroušené CSV do jednoho Excelu se správnými hlavičkami nebo vyčistit rozbitý datový export.
 
 **Příklad z marketingu.** Složka `projekty/klient-ABC/` obsahuje briefy, výstupy z kampaní a zápisy ze schůzek. Řeknete „připrav měsíční report pro klienta ABC". Cowork si sám najde relevantní soubory, propojí data a vytvoří draft reportu, aniž byste mu cokoli přikládali.
+
+![Jak zadávat úkol Claude Coworku?](https://www.marigold.cz/assets/claude-cowork-schema.png)
 
 ### Pamatuje si, jak chcete pracovat
 
