@@ -8,6 +8,7 @@ Zde najdete články zaměřené na umělou inteligenci a její využití v růz
 
 ## 💎 Osvědčené postupy a návody na práci s AI
 
+⚡ [Claude Cowork: Kompletní příručka](/ai/claude-cowork-kompletni-pruvodce/) - jak delegovat práci na AI agenta, který pracuje přímo s vašimi soubory \
 🎓 [AI pro rodiče školáků](https://www.pii.cz/clanky/ai-pro-rodice-skolaku/) - návody a postupy pro vzdělávání s dětmi \
 📕 [Využití AI pro psaní beletrie, knih](/item/ai-psani-povidek/) \
 👾 [Programování s pomocí AI](/item/jak-programovat-s-ai/) \

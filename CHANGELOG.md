@@ -8,6 +8,7 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
 ## [Unreleased]
 
 ### Added
+- Nový článek do rubiky AI: „Claude Cowork: Kompletní příručka" (Patrick Zandl, 2026-06-07) — průvodce agentním Cowork pro nontechnické uživatele, s thumbnailem `claude-cowork-kompletni-pruvodce.png`
 - Nový článek: „Když se vás AI agent snaží potěšit objednáváním" (Patrick Zandl, 2026-06-06) — o Hypatě a boji o welcome drink na Vibecoding Talks
 - Reklamní banner Vibecoding Talks 15. 6. 2026 na konci článků (`layouts/posts/single.html`) — jeden náhodně vybraný obrázek řečníka (`static/assets/vt/`, Hugo `shuffle` při buildu), proklik s UTM (`vt-06-2026`)
 - Sveltia CMS: přidán webový editor článků dostupný na `/admin/` — přihlášení přes GitHub, bez OAuth proxy serveru
