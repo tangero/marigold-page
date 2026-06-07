@@ -23,30 +23,6 @@
     </div>
   </div>
 
-  {{ with .Params.thumbnail }}
-  {{ $thumbnail_url := replace . "http://" "https://" }}
-  {{ if not (hasPrefix $thumbnail_url "http") }}{{ $thumbnail_url = print "https://www.marigold.cz" $thumbnail_url }}{{ end }}
-  <div class="thumbnail-strip">
-    <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_1200,h_300,c_fill,g_auto,f_auto,q_auto/{{ $thumbnail_url }}" alt="{{ $.Title }}">
-  </div>
-  {{ end }}
-
-  {{ with .Params.summary_points }}
-  <div class="quick-summary">
-    <div class="quick-summary-header">
-      <svg class="summary-icon" viewBox="0 0 24 24" width="24" height="24">
-        <path fill="currentColor" d="M14,17H7V15H14M17,13H7V11H17M17,9H7V7H17M19,3H5C3.89,3 3,3.89 3,5V19A2,2 0 0,0 5,21H19A2,2 0 0,0 21,19V5C21,3.89 20.1,3 19,3Z" />
-      </svg>
-      <span>Rychlé shrnutí článku</span>
-    </div>
-    <ul class="summary-points">
-      {{ range . }}
-        <li>{{ . }}</li>
-      {{ end }}
-    </ul>
-  </div>
-  {{ end }}
-
   {{ with .Params.post_excerpt }}
   <p class="article-perex">{{ . }}</p>
   {{ end }}
