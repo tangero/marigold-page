@@ -25,7 +25,7 @@
     <div class="hero-image">
       {{ $thumb := replace $firstPost.Params.thumbnail "http://" "https://" }}
       {{ if not (hasPrefix $thumb "http") }}{{ $thumb = print "https://www.marigold.cz" $thumb }}{{ end }}
-      <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_800,h_400,c_fill,g_auto,f_auto,q_auto/{{ $thumb }}" alt="{{ $firstPost.Title }}">
+      <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_800,h_600,c_fill,g_auto,f_auto,q_auto/{{ $thumb }}" alt="{{ $firstPost.Title }}">
     </div>
     <div class="hero-content">
       <div class="hero-meta">
