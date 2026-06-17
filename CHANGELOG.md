@@ -8,6 +8,8 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
 ## [Unreleased]
 
 ### Added
+- Slovník 3GPP: dvouvrstvá „nořící se" navigace přehledu (`layouts/slovnik/list.html`) — místo jednoho dlouhého seznamu všech 2756 pojmů jsou pojmy sbalené do accordionu **vrstva sítě (segment) → kategorie → pojmy**. Výchozí stav sbalený (krátká stránka), klik rozbalí. Vyhledávání filtruje napříč vším a automaticky rozbaluje sekce s výsledkem. Zařazení jen z dokladovatelných dat (`segment` 99 %, `category` 100 %); generační osa zamítnuta, protože ji zdrojová data neunesou spolehlivě
+- Slovník 3GPP: počeštění dalších kategorií (Rozhraní, Mobilita, Internet věcí) v `layouts/partials/slovnik-kategorie.html`
 - Slovník 3GPP: křížové prolinkování pojmů mezi sebou — generátor v 3gpp-explorer2 (`markdown-linking.ts`) vkládá inline odkazy do sekcí Popis a K čemu slouží a přidává sekci „## Související pojmy"; case-sensitive akronymy, hranice respektující pomlčku (S-NSSAI nerozbije NSSAI), self-link guard, blocklist obecných termů (3GPP, 5G, UE, RAN…), max 8 inline odkazů/stránka. Slovník rozšířen ze 148 na 2756 pojmů (2703 s inline odkazy, 1883 se sekcí Související pojmy), vše interně na `/mobilnisite/slovnik/`
 - Centrální skript dynamické inzerce `static/js/promo-banner.js` — jeden zdroj pravdy čtoucí živá data z `vibecoding.cz/api/active-promotion`; UTM kampaň konfigurovatelná přes `data-utm-campaign`
 - Slovník 3GPP (`/mobilnisite/slovnik/`): live vyhledávání/filtr nad pojmy, navigace kategorií a počty pojmů (`layouts/slovnik/list.html`)

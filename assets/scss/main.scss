@@ -3455,9 +3455,104 @@ pre:has(code.language-mermaid), code.language-mermaid {
 // HTML atribut `hidden` musí přebít display z layoutu (filtr seznamu)
 .slovnik-item[hidden],
 .slovnik-group[hidden],
+.slovnik-seg[hidden],
+.slovnik-cat[hidden],
 .slovnik-empty[hidden] {
   display: none;
 }
+
+// --- Accordion navigace: segment → kategorie → pojmy ---
+
+.slovnik-hint {
+  margin: 0 0 18px;
+  font-size: 14px;
+  color: $text-muted;
+}
+
+.slovnik-seg {
+  margin: 0 0 10px;
+  border: 1px solid $border-color;
+  border-radius: 10px;
+  background: $bg-subtle;
+  overflow: hidden;
+
+  > summary {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 14px 18px;
+    cursor: pointer;
+    list-style: none;
+    font-size: 18px;
+    font-weight: 700;
+    scroll-margin-top: 80px;
+    user-select: none;
+
+    &::-webkit-details-marker { display: none; }
+
+    // vlastní šipka
+    &::before {
+      content: "›";
+      flex: none;
+      font-size: 20px;
+      line-height: 1;
+      color: $text-muted;
+      transition: transform 0.15s ease;
+    }
+
+    &:hover { color: $blue; }
+  }
+
+  &[open] > summary::before { transform: rotate(90deg); }
+}
+
+.slovnik-seg-count,
+.slovnik-cat-count {
+  margin-left: auto;
+  font-size: 13px;
+  font-weight: 700;
+  color: $text-muted;
+}
+
+.slovnik-cat {
+  margin: 0 12px 8px;
+  border-top: 1px solid $border-color;
+
+  &:first-of-type { border-top: none; }
+
+  > summary {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 10px 6px;
+    cursor: pointer;
+    list-style: none;
+    font-size: 15px;
+    font-weight: 600;
+    color: $text-secondary;
+    user-select: none;
+
+    &::-webkit-details-marker { display: none; }
+
+    &::before {
+      content: "›";
+      flex: none;
+      font-size: 16px;
+      line-height: 1;
+      color: $text-muted;
+      transition: transform 0.15s ease;
+    }
+
+    &:hover { color: $blue; }
+  }
+
+  &[open] > summary::before { transform: rotate(90deg); }
+
+  .slovnik-list { padding: 4px 6px 12px; }
+}
+
+// Pojmy přímo pod segmentem (sekce "Ostatní" bez kategorií)
+.slovnik-seg > .slovnik-list { padding: 4px 18px 16px; }
 
 .slovnik-item {
   display: flex;
@@ -3601,8 +3696,31 @@ pre:has(code.language-mermaid), code.language-mermaid {
   }
 
   .slovnik-count,
-  .slovnik-cat-count {
+  .slovnik-cat-count,
+  .slovnik-seg-count,
+  .slovnik-hint {
     color: #8888a8;
+  }
+
+  .slovnik-seg {
+    background: #1e2126;
+    border-color: #2a2d35;
+
+    > summary {
+      color: #e4e4ee;
+      &::before { color: #8888a8; }
+      &:hover { color: #6db3f2; }
+    }
+  }
+
+  .slovnik-cat {
+    border-top-color: #2a2d35;
+
+    > summary {
+      color: #b0b0c0;
+      &::before { color: #8888a8; }
+      &:hover { color: #6db3f2; }
+    }
   }
 
   .slovnik-nav a {

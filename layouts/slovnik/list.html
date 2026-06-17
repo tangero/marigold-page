@@ -9,11 +9,17 @@
   {{/* Termy slovníku poznáme podle Params.abbr (články mobilnisite ho nemají) */}}
   {{ $terms := where .Site.RegularPages "Params.abbr" "!=" nil }}
 
-  {{/* Logické pořadí kategorií od přístupu k jádru a službám */}}
-  {{ $order := slice
-    "Radio Access Network" "Physical Layer" "Protocol"
-    "Core Network" "Network Slicing" "Identifier" "QoS"
-    "Security" "Management" "Services" "Other" }}
+  {{/* Pořadí segmentů (vrstvy sítě) od přístupu k jádru a službám.
+       Termy bez segmentu spadnou do "Ostatní". */}}
+  {{ $segOrder := slice
+    "Radio Access Network" "Core Network" "User Equipment"
+    "Services" "Management" "Security" "Testing" }}
+
+  {{/* Pořadí kategorií uvnitř segmentu (jemnější vrstva). */}}
+  {{ $catOrder := slice
+    "Radio Access Network" "Physical Layer" "Protocol" "Interface"
+    "Core Network" "Network Slicing" "Mobility" "Identifier" "QoS"
+    "IoT" "Security" "Management" "Services" "Other" }}
 
   {{/* Filtr + počet */}}
   <div class="slovnik-tools">
@@ -29,38 +35,73 @@
     <p class="slovnik-count">Celkem <strong>{{ len $terms }}</strong> pojmů</p>
   </div>
 
-  {{/* Rychlá navigace na kategorie */}}
-  <nav class="slovnik-nav" aria-label="Kategorie slovníku">
-    {{ range $order }}
-      {{ $cat := . }}
-      {{ $pages := where $terms "Params.category" $cat }}
+  {{/* Rychlá navigace na segmenty */}}
+  <nav class="slovnik-nav" aria-label="Vrstvy sítě">
+    {{ range $segOrder }}
+      {{ $seg := . }}
+      {{ $pages := where $terms "Params.segment" $seg }}
       {{ if $pages }}
-        <a href="#{{ $cat | urlize }}">{{ partial "slovnik-kategorie.html" $cat }} <span>{{ len $pages }}</span></a>
+        <a href="#seg-{{ $seg | urlize }}">{{ partial "slovnik-kategorie.html" $seg }} <span>{{ len $pages }}</span></a>
       {{ end }}
     {{ end }}
   </nav>
 
+  <p class="slovnik-hint">Klikni na vrstvu sítě a poté na kategorii, nebo rovnou hledej.</p>
   <div class="slovnik-empty" hidden>Žádný pojem neodpovídá hledání.</div>
 
-  {{ range $order }}
-    {{ $cat := . }}
-    {{ $pages := where $terms "Params.category" $cat }}
-    {{ if $pages }}
-    <section class="slovnik-group">
-      <h2 id="{{ $cat | urlize }}">
-        {{ partial "slovnik-kategorie.html" $cat }}
-        <span class="slovnik-cat-count">{{ len $pages }}</span>
-      </h2>
-      <dl class="slovnik-list">
-        {{ range $pages.ByParam "abbr" }}
-        <div class="slovnik-item" data-term="{{ lower (printf "%s %s" .Params.abbr .Params.fullName) }}">
-          <dt><a href="{{ .RelPermalink }}">{{ .Params.abbr }}</a></dt>
-          <dd>{{ .Params.fullName }}</dd>
-        </div>
+  {{/* Segmenty bez explicitního pořadí (fallback) na konec jako "Ostatní" */}}
+  {{ $segListed := $segOrder }}
+  {{ range $segOrder }}
+    {{ $seg := . }}
+    {{ $segPages := where $terms "Params.segment" $seg }}
+    {{ if $segPages }}
+    <details class="slovnik-seg" id="seg-{{ $seg | urlize }}" data-seg="{{ lower $seg }}">
+      <summary>
+        <span class="slovnik-seg-name">{{ partial "slovnik-kategorie.html" $seg }}</span>
+        <span class="slovnik-seg-count">{{ len $segPages }}</span>
+      </summary>
+
+      {{ range $catOrder }}
+        {{ $cat := . }}
+        {{ $pages := where $segPages "Params.category" $cat }}
+        {{ if $pages }}
+        <details class="slovnik-cat" data-cat="{{ lower $cat }}">
+          <summary>
+            <span class="slovnik-cat-name">{{ partial "slovnik-kategorie.html" $cat }}</span>
+            <span class="slovnik-cat-count">{{ len $pages }}</span>
+          </summary>
+          <dl class="slovnik-list">
+            {{ range $pages.ByParam "abbr" }}
+            <div class="slovnik-item" data-term="{{ lower (printf "%s %s" .Params.abbr .Params.fullName) }}">
+              <dt><a href="{{ .RelPermalink }}">{{ .Params.abbr }}</a></dt>
+              <dd>{{ .Params.fullName }}</dd>
+            </div>
+            {{ end }}
+          </dl>
+        </details>
         {{ end }}
-      </dl>
-    </section>
+      {{ end }}
+    </details>
     {{ end }}
+  {{ end }}
+
+  {{/* Termy bez zařazeného segmentu (nemají Params.segment) */}}
+  {{ $unseg := where $terms "Params.segment" nil }}
+  {{ if $unseg }}
+  <details class="slovnik-seg" id="seg-ostatni" data-seg="ostatní">
+    <summary>
+      <span class="slovnik-seg-name">Ostatní</span>
+      <span class="slovnik-seg-count">{{ len $unseg }}</span>
+    </summary>
+    <dl class="slovnik-list">
+      {{ range $unseg.ByParam "abbr" }}
+      <div class="slovnik-item" data-term="{{ lower (printf "%s %s" .Params.abbr .Params.fullName) }}">
+        <dt><a href="{{ .RelPermalink }}">{{ .Params.abbr }}</a></dt>
+        <dd>{{ .Params.fullName }}</dd>
+      </div>
+      {{ end }}
+    </dl>
+  </details>
   {{ end }}
 </article>
 
@@ -69,23 +110,38 @@
   var input = document.getElementById('slovnik-filter');
   if (!input) return;
   var items = Array.prototype.slice.call(document.querySelectorAll('.slovnik-item'));
-  var groups = Array.prototype.slice.call(document.querySelectorAll('.slovnik-group'));
+  var cats  = Array.prototype.slice.call(document.querySelectorAll('.slovnik-cat'));
+  var segs  = Array.prototype.slice.call(document.querySelectorAll('.slovnik-seg'));
   var empty = document.querySelector('.slovnik-empty');
+
+  function visibleCount(container, sel) {
+    return container.querySelectorAll(sel + ':not([hidden])').length;
+  }
 
   function apply() {
     var q = input.value.trim().toLowerCase();
-    var anyVisible = false;
+
     items.forEach(function (el) {
-      var match = !q || el.getAttribute('data-term').indexOf(q) !== -1;
-      el.hidden = !match;
-      if (match) anyVisible = true;
+      el.hidden = q && el.getAttribute('data-term').indexOf(q) === -1;
     });
-    // Skryj prázdné kategorie
-    groups.forEach(function (g) {
-      var visible = g.querySelectorAll('.slovnik-item:not([hidden])').length;
-      g.hidden = visible === 0;
+
+    // Kategorie: skryj prázdné, při hledání rozbal ty s výsledkem
+    cats.forEach(function (c) {
+      var n = visibleCount(c, '.slovnik-item');
+      c.hidden = n === 0;
+      if (q) c.open = n > 0;
     });
-    if (empty) empty.hidden = anyVisible;
+
+    // Segmenty: skryj prázdné, při hledání rozbal ty s výsledkem
+    var any = false;
+    segs.forEach(function (s) {
+      var n = visibleCount(s, '.slovnik-item');
+      s.hidden = n === 0;
+      if (q) s.open = n > 0;
+      if (n > 0) any = true;
+    });
+
+    if (empty) empty.hidden = any || !q;
   }
 
   input.addEventListener('input', apply);
