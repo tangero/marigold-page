@@ -8,6 +8,10 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
 ## [Unreleased]
 
 ### Added
+- Slovník 3GPP (`/mobilnisite/slovnik/`): live vyhledávání/filtr nad ~148 pojmy, navigace kategorií a počty pojmů (`layouts/slovnik/list.html`)
+- Slovník 3GPP: vlastní layout detailu termínu se zkratkou, plným názvem, badge kategorie/segmentu a breadcrumbem (`layouts/slovnik/single.html`)
+- Slovník 3GPP: počeštění kategorií a segmentů přes nový partial `layouts/partials/slovnik-kategorie.html`
+- Slovník 3GPP: styly seznamu i detailu vč. dark mode variant (`assets/scss/main.scss`)
 - Nový článek do rubiky AI: „Claude Cowork: Kompletní příručka" (Patrick Zandl, 2026-06-07) — průvodce agentním Cowork pro nontechnické uživatele, s thumbnailem `claude-cowork-kompletni-pruvodce.png`
 - Nový článek: „Když se vás AI agent snaží potěšit objednáváním" (Patrick Zandl, 2026-06-06) — o Hypatě a boji o welcome drink na Vibecoding Talks
 - Reklamní banner Vibecoding Talks 15. 6. 2026 na konci článků (`layouts/posts/single.html`) — jeden náhodně vybraný obrázek řečníka (`static/assets/vt/`, Hugo `shuffle` při buildu), proklik s UTM (`vt-06-2026`)

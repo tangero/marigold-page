@@ -3233,6 +3233,343 @@ pre:has(code.language-mermaid), code.language-mermaid {
   }
 }
 
+/*****************/
+/* SLOVNIK 3GPP  */
+/*****************/
+
+// --- Seznam / list ---
+
+.slovnik-intro {
+  margin-bottom: 1.5em;
+}
+
+.slovnik-tools {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  flex-wrap: wrap;
+  margin: 0 0 12px;
+
+  @include mobile {
+    gap: 10px;
+  }
+}
+
+.slovnik-search {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex: 1 1 280px;
+  padding: 9px 14px;
+  border: 1px solid $border-color;
+  border-radius: 10px;
+  background: $white;
+  color: $gray;
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+
+  &:focus-within {
+    border-color: $blue;
+    box-shadow: 0 0 0 3px rgba($blue, 0.15);
+    color: $blue;
+  }
+
+  svg {
+    flex: none;
+  }
+
+  input {
+    flex: 1;
+    border: 0;
+    outline: 0;
+    background: transparent;
+    font-size: 16px;
+    color: $darkerGray;
+    font-family: inherit;
+
+    &::placeholder {
+      color: $text-muted;
+    }
+  }
+}
+
+.slovnik-count {
+  margin: 0;
+  font-size: 15px;
+  color: $text-muted;
+  white-space: nowrap;
+}
+
+.slovnik-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 0 0 28px;
+
+  a {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 5px 12px;
+    border-radius: 999px;
+    background: $bg-subtle;
+    border: 1px solid $border-color;
+    color: $text-secondary;
+    font-size: 14px;
+    font-weight: 600;
+    text-decoration: none;
+    transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+
+    span {
+      font-size: 12px;
+      font-weight: 700;
+      color: $text-muted;
+    }
+
+    &:hover {
+      background: $blue;
+      border-color: $blue;
+      color: $white;
+
+      span {
+        color: rgba($white, 0.8);
+      }
+    }
+  }
+}
+
+.slovnik-group {
+  margin: 0 0 32px;
+
+  h2 {
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+    margin: 0 0 14px;
+    padding-bottom: 8px;
+    border-bottom: 2px solid $border-color;
+    scroll-margin-top: 80px;
+  }
+}
+
+.slovnik-cat-count {
+  font-size: 14px;
+  font-weight: 600;
+  color: $text-muted;
+}
+
+.slovnik-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 2px 24px;
+  margin: 0;
+}
+
+.slovnik-item {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  padding: 7px 0;
+  border-bottom: 1px solid $bg-subtle;
+  line-height: 1.4;
+
+  dt {
+    flex: none;
+    margin: 0;
+    font-weight: 700;
+
+    a {
+      color: $blue;
+      text-decoration: none;
+      border-bottom: 1px solid transparent;
+
+      &:hover {
+        border-bottom-color: currentColor;
+      }
+    }
+  }
+
+  dd {
+    margin: 0;
+    font-size: 15px;
+    color: $text-secondary;
+  }
+}
+
+.slovnik-empty {
+  margin: 8px 0 24px;
+  padding: 16px;
+  border-radius: 10px;
+  background: $bg-subtle;
+  color: $text-muted;
+  text-align: center;
+}
+
+// --- Detail termínu / single ---
+
+.slovnik-breadcrumb {
+  margin: 4px 0 18px;
+  font-size: 15px;
+
+  a {
+    color: $text-muted;
+    text-decoration: none;
+
+    &:hover {
+      color: $blue;
+    }
+  }
+}
+
+.slovnik-term-head {
+  margin: 0 0 28px;
+  padding-bottom: 20px;
+  border-bottom: 2px solid $border-color;
+
+  h1 {
+    margin: 4px 0 14px;
+    font-size: 28px;
+    line-height: 1.3;
+  }
+}
+
+.slovnik-abbr {
+  display: inline-block;
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: $blue;
+}
+
+.slovnik-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.slovnik-badge {
+  display: inline-block;
+  padding: 4px 12px;
+  border-radius: 999px;
+  font-size: 13px;
+  font-weight: 600;
+  text-decoration: none;
+  background: rgba($blue, 0.1);
+  color: darken($blue, 8%);
+  border: 1px solid rgba($blue, 0.2);
+  transition: background 0.15s ease;
+
+  &:hover {
+    background: rgba($blue, 0.18);
+  }
+
+  &--muted {
+    background: $bg-subtle;
+    color: $text-secondary;
+    border-color: $border-color;
+    cursor: default;
+
+    &:hover {
+      background: $bg-subtle;
+    }
+  }
+}
+
+.slovnik-term-body {
+  h2 {
+    font-size: 21px;
+    margin-top: 1.4em;
+  }
+}
+
+// --- Dark mode ---
+
+[data-theme="dark"] {
+  .slovnik-search {
+    background: #1e2126;
+    border-color: #2a2d35;
+    color: #8888a8;
+
+    input {
+      color: #f0f0f0;
+
+      &::placeholder {
+        color: #6a6a82;
+      }
+    }
+
+    &:focus-within {
+      border-color: #6db3f2;
+      box-shadow: 0 0 0 3px rgba(109, 179, 242, 0.18);
+      color: #6db3f2;
+    }
+  }
+
+  .slovnik-count,
+  .slovnik-cat-count {
+    color: #8888a8;
+  }
+
+  .slovnik-nav a {
+    background: #1e2126;
+    border-color: #2a2d35;
+    color: #c0c0d0;
+
+    span {
+      color: #8888a8;
+    }
+
+    &:hover {
+      background: #6db3f2;
+      border-color: #6db3f2;
+      color: #16181c;
+
+      span {
+        color: rgba(22, 24, 28, 0.7);
+      }
+    }
+  }
+
+  .slovnik-group h2,
+  .slovnik-term-head {
+    border-bottom-color: #2a2d35;
+  }
+
+  .slovnik-item {
+    border-bottom-color: #22252b;
+
+    dt a {
+      color: #6db3f2;
+    }
+
+    dd {
+      color: #b0b0c0;
+    }
+  }
+
+  .slovnik-empty {
+    background: #1e2126;
+    color: #8888a8;
+  }
+
+  .slovnik-breadcrumb a:hover,
+  .slovnik-abbr {
+    color: #6db3f2;
+  }
+
+  .slovnik-badge {
+    background: rgba(109, 179, 242, 0.14);
+    color: #8ec5f6;
+    border-color: rgba(109, 179, 242, 0.28);
+
+    &--muted {
+      background: #1e2126;
+      color: #b0b0c0;
+      border-color: #2a2d35;
+    }
+  }
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "darcula";

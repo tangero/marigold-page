@@ -1,0 +1,94 @@
+{{ define "main" }}
+<article class="page slovnik-page">
+  <h1>{{ .Title }}</h1>
+
+  <div class="entry slovnik-intro">
+    {{ .Content }}
+  </div>
+
+  {{/* Termy slovníku poznáme podle Params.abbr (články mobilnisite ho nemají) */}}
+  {{ $terms := where .Site.RegularPages "Params.abbr" "!=" nil }}
+
+  {{/* Logické pořadí kategorií od přístupu k jádru a službám */}}
+  {{ $order := slice
+    "Radio Access Network" "Physical Layer" "Protocol"
+    "Core Network" "Network Slicing" "Identifier" "QoS"
+    "Security" "Management" "Services" "Other" }}
+
+  {{/* Filtr + počet */}}
+  <div class="slovnik-tools">
+    <label class="slovnik-search" for="slovnik-filter">
+      <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" focusable="false">
+        <path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+          d="M11 4a7 7 0 1 0 0 14 7 7 0 0 0 0-14zm5 12 4 4"/>
+      </svg>
+      <input type="search" id="slovnik-filter" autocomplete="off"
+        placeholder="Hledat zkratku nebo pojem…"
+        aria-label="Filtrovat pojmy slovníku">
+    </label>
+    <p class="slovnik-count">Celkem <strong>{{ len $terms }}</strong> pojmů</p>
+  </div>
+
+  {{/* Rychlá navigace na kategorie */}}
+  <nav class="slovnik-nav" aria-label="Kategorie slovníku">
+    {{ range $order }}
+      {{ $cat := . }}
+      {{ $pages := where $terms "Params.category" $cat }}
+      {{ if $pages }}
+        <a href="#{{ $cat | urlize }}">{{ partial "slovnik-kategorie.html" $cat }} <span>{{ len $pages }}</span></a>
+      {{ end }}
+    {{ end }}
+  </nav>
+
+  <div class="slovnik-empty" hidden>Žádný pojem neodpovídá hledání.</div>
+
+  {{ range $order }}
+    {{ $cat := . }}
+    {{ $pages := where $terms "Params.category" $cat }}
+    {{ if $pages }}
+    <section class="slovnik-group">
+      <h2 id="{{ $cat | urlize }}">
+        {{ partial "slovnik-kategorie.html" $cat }}
+        <span class="slovnik-cat-count">{{ len $pages }}</span>
+      </h2>
+      <dl class="slovnik-list">
+        {{ range $pages.ByParam "abbr" }}
+        <div class="slovnik-item" data-term="{{ lower (printf "%s %s" .Params.abbr .Params.fullName) }}">
+          <dt><a href="{{ .RelPermalink }}">{{ .Params.abbr }}</a></dt>
+          <dd>{{ .Params.fullName }}</dd>
+        </div>
+        {{ end }}
+      </dl>
+    </section>
+    {{ end }}
+  {{ end }}
+</article>
+
+<script>
+(function () {
+  var input = document.getElementById('slovnik-filter');
+  if (!input) return;
+  var items = Array.prototype.slice.call(document.querySelectorAll('.slovnik-item'));
+  var groups = Array.prototype.slice.call(document.querySelectorAll('.slovnik-group'));
+  var empty = document.querySelector('.slovnik-empty');
+
+  function apply() {
+    var q = input.value.trim().toLowerCase();
+    var anyVisible = false;
+    items.forEach(function (el) {
+      var match = !q || el.getAttribute('data-term').indexOf(q) !== -1;
+      el.hidden = !match;
+      if (match) anyVisible = true;
+    });
+    // Skryj prázdné kategorie
+    groups.forEach(function (g) {
+      var visible = g.querySelectorAll('.slovnik-item:not([hidden])').length;
+      g.hidden = visible === 0;
+    });
+    if (empty) empty.hidden = anyVisible;
+  }
+
+  input.addEventListener('input', apply);
+})();
+</script>
+{{ end }}

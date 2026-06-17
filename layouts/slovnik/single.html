@@ -1,0 +1,26 @@
+{{ define "main" }}
+<article class="page slovnik-term">
+  <nav class="slovnik-breadcrumb" aria-label="Drobečková navigace">
+    <a href="/mobilnisite/slovnik/">‹ Slovník 3GPP</a>
+  </nav>
+
+  <header class="slovnik-term-head">
+    <span class="slovnik-abbr">{{ .Params.abbr }}</span>
+    <h1>{{ with .Params.fullName }}{{ . }}{{ else }}{{ .Title }}{{ end }}</h1>
+    <div class="slovnik-badges">
+      {{ with .Params.category }}
+      <a class="slovnik-badge" href="/mobilnisite/slovnik/#{{ . | urlize }}" title="Zobrazit vše v kategorii">
+        {{ partial "slovnik-kategorie.html" . }}
+      </a>
+      {{ end }}
+      {{ with .Params.segment }}
+      <span class="slovnik-badge slovnik-badge--muted">{{ partial "slovnik-kategorie.html" . }}</span>
+      {{ end }}
+    </div>
+  </header>
+
+  <div class="entry slovnik-term-body">
+    {{ .Content }}
+  </div>
+</article>
+{{ end }}

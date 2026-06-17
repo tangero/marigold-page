@@ -1,0 +1,21 @@
+{{/*
+  Vrátí český název kategorie/segmentu slovníku.
+  Použití: {{ partial "slovnik-kategorie.html" "Radio Access Network" }}
+  Neznámou hodnotu vrátí beze změny (fallback).
+*/}}
+{{- $map := dict
+  "Services" "Služby a architektura"
+  "Security" "Bezpečnost"
+  "Physical Layer" "Fyzická vrstva"
+  "Radio Access Network" "Rádiová přístupová síť (RAN)"
+  "Management" "Správa sítě"
+  "Protocol" "Protokoly"
+  "Core Network" "Jádrová síť"
+  "Other" "Ostatní"
+  "Identifier" "Identifikátory"
+  "QoS" "Kvalita služby (QoS)"
+  "Network Slicing" "Síťové řezy"
+  "User Equipment" "Uživatelské zařízení (UE)"
+  "Testing" "Testování"
+-}}
+{{- index $map . | default . -}}
