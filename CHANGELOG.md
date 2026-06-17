@@ -8,6 +8,7 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
 ## [Unreleased]
 
 ### Added
+- Centrální skript dynamické inzerce `static/js/promo-banner.js` — jeden zdroj pravdy čtoucí živá data z `vibecoding.cz/api/active-promotion`; UTM kampaň konfigurovatelná přes `data-utm-campaign`
 - Slovník 3GPP (`/mobilnisite/slovnik/`): live vyhledávání/filtr nad ~148 pojmy, navigace kategorií a počty pojmů (`layouts/slovnik/list.html`)
 - Slovník 3GPP: vlastní layout detailu termínu se zkratkou, plným názvem, badge kategorie/segmentu a breadcrumbem (`layouts/slovnik/single.html`)
 - Slovník 3GPP: počeštění kategorií a segmentů přes nový partial `layouts/partials/slovnik-kategorie.html`
@@ -27,7 +28,12 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
 - Opraven rozbitý front matter v článku `karpathy-llm-knowledgebase` (špatné odsazení, `-----` místo `---`)
 - Přejmenován `karpaty-llm-knowledgebase.md` na `karpathy-llm-knowledgebase.md` (oprava příjmení)
 
+### Removed
+- Statický reklamní banner Vibecoding Talks (`vt-06-2026`) pod hodnocením článku v `layouts/posts/single.html` — duplicitní s dynamickým bannerem nahoře v článku
+
 ### Changed
+- `/aiprace`: statický banner workshopu (Claude Code, 13. 4. 2026) nahrazen dynamickým bannerem aktuální akce z `vibecoding.cz` API
+- `workshop-banner.html` partial refaktorován — inline skript vytažen do sdíleného `static/js/promo-banner.js`
 - Přidány UTM tagy na všechny odkazy v článku `prirucka-ai-ve-firmach-zdarma` (kampań `ai-prirucka`)
 - Accessibility: přidán skip-to-content link do default.html a aiprace.html layoutů
 - Accessibility: emoji search link doplněn o `aria-label="Hledat"` (WCAG 2.4.6)
