@@ -16,7 +16,7 @@ A-MSISDN je dodatečné MSISDN přiřazené uživateli pro účely zákonného o
 
 ## Popis
 
-Dodatečné MSISDN (A-MSISDN) je specializovaný identifikátor definovaný v bezpečnostních specifikacích 3GPP, především v TS 33.108, která detailně popisuje architekturu a požadavky zákonného odposlechu (LI). Funguje jako sekundární, administrativně přiřazené číslo mobilního účastníka v síti ISDN, které je spojeno s předplatným uživatele vedle jeho primárního MSISDN. Z pohledu síťové architektury je A-MSISDN zřízeno v domácím serveru účastníka (HSS) nebo podobném úložišti dat o účastnících. Je propojeno s mezinárodním identifikátorem mobilního účastníka (IMSI) a primárním MSISDN uživatele, čímž vytváří mapování klíčové pro funkci zákonného odposlechu. Prvky jádra sítě, jako je mobilní ústředna (MSC), podpůrný uzel GPRS (SGSN) a entita správy mobility (MME), jsou nakonfigurovány tak, aby tento identifikátor rozpoznaly a zpracovávaly při provádění činností souvisejících s odposlechem.
+Dodatečné [MSISDN](/mobilnisite/slovnik/msisdn/) (A-MSISDN) je specializovaný identifikátor definovaný v bezpečnostních specifikacích 3GPP, především v TS 33.108, která detailně popisuje architekturu a požadavky zákonného odposlechu ([LI](/mobilnisite/slovnik/li/)). Funguje jako sekundární, administrativně přiřazené číslo mobilního účastníka v síti [ISDN](/mobilnisite/slovnik/isdn/), které je spojeno s předplatným uživatele vedle jeho primárního MSISDN. Z pohledu síťové architektury je A-MSISDN zřízeno v domácím serveru účastníka ([HSS](/mobilnisite/slovnik/hss/)) nebo podobném úložišti dat o účastnících. Je propojeno s mezinárodním identifikátorem mobilního účastníka ([IMSI](/mobilnisite/slovnik/imsi/)) a primárním MSISDN uživatele, čímž vytváří mapování klíčové pro funkci zákonného odposlechu. Prvky jádra sítě, jako je mobilní ústředna ([MSC](/mobilnisite/slovnik/msc/)), podpůrný uzel [GPRS](/mobilnisite/slovnik/gprs/) (SGSN) a entita správy mobility ([MME](/mobilnisite/slovnik/mme/)), jsou nakonfigurovány tak, aby tento identifikátor rozpoznaly a zpracovávaly při provádění činností souvisejících s odposlechem.
 
 Provozně, když je pro cíl aktivován příkaz k zákonnému odposlechu, může být síť instruována, aby používala A-MSISDN jako referenční identifikátor pro veškerou komunikaci související s odposlechem a pro hlášení dat odesílaná zařízenímu pro monitorování orgánů činných v trestním řízení (LEMF). Řídicí prvek odposlechu (ICE) v síti, jako je bránový podpůrný uzel GPRS (GGSN) nebo brána paketové datové sítě (PGW), bude používat A-MSISDN při generování hlášení informací souvisejících s odposlechem (IRI) a obsahu komunikace (CC). Tento mechanismus zajišťuje, že skutečné, veřejné MSISDN cíle není odhaleno v datových tocích odposlechu, které jsou doručovány externím orgánům. Zpracování A-MSISDN je pro koncového uživatele transparentní a neovlivňuje běžné poskytování služeb; uživatel nadále používá své primární MSISDN pro všechny běžné hovory a datové relace.
 
@@ -38,6 +38,11 @@ Historicky, jak se požadavky na zákonný odposlech vyvíjely se systémy 3G, 4
 - Zřízeno a spravováno v databázi účastníků jádra sítě (např. HSS)
 - Používá se specificky na předávacích rozhraních zákonného odposlechu (HI1, HI2)
 - Zvyšuje provozní bezpečnost a integritu vyšetřování
+
+## Související pojmy
+
+- [MSISDN – Mobile Station International Subscriber Directory Number](/mobilnisite/slovnik/msisdn/)
+- [IMSI – International Mobile Subscriber Identity](/mobilnisite/slovnik/imsi/)
 
 ## Definující specifikace
 

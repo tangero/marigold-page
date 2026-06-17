@@ -16,7 +16,7 @@ ACM je celosvětová vědecká a vzdělávací organizace, jejíž základní pu
 
 ## Popis
 
-Association for Computing Machinery (ACM) je největší světová vzdělávací a vědecká společnost v oblasti výpočetní techniky. Poskytuje zdroje pro rozvoj výpočetní techniky jako vědy a profese. ACM provozuje přední Digitální knihovnu oboru a slouží svým členům i profesionálům špičkovými publikacemi, konferencemi a kariérními zdroji. V kontextu specifikací 3GPP je na ACM odkazováno nikoli jako na síťovou funkci nebo protokol, ale jako na autoritativní zdroj ustálených výpočetních principů, algoritmů a klasifikačních systémů. Například technické zprávy a specifikace 3GPP mohou citovat ACM Computing Classification System (CCS) pro kategorizaci výzkumných oblastí nebo odkazovat na zásadní práce publikované v časopisech či sbornících ACM, které jsou základem algoritmů používaných v oblastech jako komprese dat, kryptografie zabezpečení nebo optimalizace sítí. Odkazy na ACM v dokumentech 3GPP (např. TR 21.905, TR 38.811) se typicky objevují v bibliografiích nebo normativních odkazech a slouží k uznání základní práce, na níž jsou určité technické implementace vybudovány. To zdůrazňuje interdisciplinární povahu telekomunikačního inženýrství, které se opírá o solidní základy informatiky. ACM Digital Library, rozsáhlý archiv plnotextových článků z časopisů, magazínů, konferenčních sborníků a zpravodajů ACM, slouží jako klíčový zdroj pro výzkumníky a inženýry vyvíjející algoritmy, které se následně standardizují. Přestože tedy ACM nedefinuje protokoly 3GPP, představuje širší akademický a profesní ekosystém, který dodává teoretické a praktické pokroky využívané standardizačními orgány. Porozumění její roli je klíčové pro pochopení původu a intelektuálních základů některých technických řešení zabudovaných v standardech mobilní komunikace.
+Association for Computing Machinery (ACM) je největší světová vzdělávací a vědecká společnost v oblasti výpočetní techniky. Poskytuje zdroje pro rozvoj výpočetní techniky jako vědy a profese. ACM provozuje přední Digitální knihovnu oboru a slouží svým členům i profesionálům špičkovými publikacemi, konferencemi a kariérními zdroji. V kontextu specifikací 3GPP je na ACM odkazováno nikoli jako na síťovou funkci nebo protokol, ale jako na autoritativní zdroj ustálených výpočetních principů, algoritmů a klasifikačních systémů. Například technické zprávy a specifikace 3GPP mohou citovat ACM Computing Classification System ([CCS](/mobilnisite/slovnik/ccs/)) pro kategorizaci výzkumných oblastí nebo odkazovat na zásadní práce publikované v časopisech či sbornících ACM, které jsou základem algoritmů používaných v oblastech jako komprese dat, kryptografie zabezpečení nebo optimalizace sítí. Odkazy na ACM v dokumentech 3GPP (např. TR 21.905, TR 38.811) se typicky objevují v bibliografiích nebo normativních odkazech a slouží k uznání základní práce, na níž jsou určité technické implementace vybudovány. To zdůrazňuje interdisciplinární povahu telekomunikačního inženýrství, které se opírá o solidní základy informatiky. ACM Digital Library, rozsáhlý archiv plnotextových článků z časopisů, magazínů, konferenčních sborníků a zpravodajů ACM, slouží jako klíčový zdroj pro výzkumníky a inženýry vyvíjející algoritmy, které se následně standardizují. Přestože tedy ACM nedefinuje protokoly 3GPP, představuje širší akademický a profesní ekosystém, který dodává teoretické a praktické pokroky využívané standardizačními orgány. Porozumění její roli je klíčové pro pochopení původu a intelektuálních základů některých technických řešení zabudovaných v standardech mobilní komunikace.
 
 ## K čemu slouží
 
@@ -30,6 +30,12 @@ Association for Computing Machinery (ACM) je největší světová vzdělávací
 - Vyvíjí a spravuje ACM Computing Classification System (CCS)
 - Pořádá významné mezinárodní konference napříč obory výpočetní techniky
 - Stanovuje a propaguje etické kodexy pro profesionály v oboru výpočetní techniky
+
+## Související pojmy
+
+- [IETF – Internet Engineering Task Force Standard](/mobilnisite/slovnik/ietf/)
+- [ITU-T – International Telecommunication Union Telecommunication Standardization Sector](/mobilnisite/slovnik/itu-t/)
+- [IEEE – Institute of Electrical and Electronics Engineers](/mobilnisite/slovnik/ieee/)
 
 ## Definující specifikace
 

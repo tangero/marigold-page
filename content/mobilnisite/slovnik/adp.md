@@ -16,9 +16,9 @@ ADP je soubor standardizovaných mechanismů 3GPP pro spolehlivé a řízené do
 
 ## Popis
 
-Associated Delivery Procedures (ADP) tvoří rámec v rámci architektury služeb 3GPP, primárně definovaný v Technických specifikacích pro službu Multimedia Messaging Service (MMS) a souvisejících služebních prvcích. Tyto procedury řídí, jak je multimediální obsah, především multimediální zprávy, doručován ze služební platformy (jako je MMSC – Multimedia Messaging Service Centre) k uživatelskému zařízení (UE) a v některých případech mezi síťovými elementy. ADP není jediným protokolem, ale souborem logických procedur a interakcí, které zajišťují, že doručování je spolehlivě a efektivně z hlediska sítě pokusováno, řízeno a hlášeno.
+Associated Delivery Procedures (ADP) tvoří rámec v rámci architektury služeb 3GPP, primárně definovaný v Technických specifikacích pro službu Multimedia Messaging Service ([MMS](/mobilnisite/slovnik/mms/)) a souvisejících služebních prvcích. Tyto procedury řídí, jak je multimediální obsah, především multimediální zprávy, doručován ze služební platformy (jako je MMSC – Multimedia Messaging Service Centre) k uživatelskému zařízení (UE) a v některých případech mezi síťovými elementy. ADP není jediným protokolem, ale souborem logických procedur a interakcí, které zajišťují, že doručování je spolehlivě a efektivně z hlediska sítě pokusováno, řízeno a hlášeno.
 
-Architektonicky ADP funguje ve vrstvě služeb, rozhraní se základními síťovými elementy, jako je MSC (Mobile Switching Centre) nebo SGSN/MME (Serving GPRS Support Node / Mobility Management Entity) pro správu mobility a relací, a HSS (Home Subscriber Server) pro data účastníka. Klíčovou komponentou iniciující ADP je typicky MMSC nebo jiný aplikační server. Procedury definují sekvenci signalizačních zpráv, zpracování hlášení o doručení, hlášení o přečtení a správu vypršení platnosti zprávy a pokusů o opakované doručení. Specifikují, jak se má síť chovat, když je UE nedostupné (např. mimo pokrytí), včetně mechanismů uložení a následného odeslání.
+Architektonicky ADP funguje ve vrstvě služeb, rozhraní se základními síťovými elementy, jako je [MSC](/mobilnisite/slovnik/msc/) (Mobile Switching Centre) nebo SGSN/[MME](/mobilnisite/slovnik/mme/) (Serving [GPRS](/mobilnisite/slovnik/gprs/) Support Node / Mobility Management Entity) pro správu mobility a relací, a [HSS](/mobilnisite/slovnik/hss/) (Home Subscriber Server) pro data účastníka. Klíčovou komponentou iniciující ADP je typicky MMSC nebo jiný aplikační server. Procedury definují sekvenci signalizačních zpráv, zpracování hlášení o doručení, hlášení o přečtení a správu vypršení platnosti zprávy a pokusů o opakované doručení. Specifikují, jak se má síť chovat, když je UE nedostupné (např. mimo pokrytí), včetně mechanismů uložení a následného odeslání.
 
 Z funkční perspektivy ADP funguje tak, že vytváří kontext pro pokus o doručení. Když je zpráva předána k doručení, procedury určují, jak je určena obsluhující síť, jak je vyhodnocena dosažitelnost UE (např. připojené, nečinné, zaneprázdněné) a jak je obsah pushován nebo je k UE odeslána notifikace pro stažení zprávy. Kritickým aspektem je přidružení doručení k jiným procedurám; například doručení může být odloženo, dokud není signalizační spojení navázáno pro jiný účel, nebo může být spuštěno konkrétní síťovou událostí. Procedury také definují zpracování chyb, zajišťující, že selhání jsou zaznamenána a případně hlášena zpět odesílateli.
 
@@ -26,7 +26,7 @@ Její role v síti spočívá v poskytování standardizovaného, provozovatelsk
 
 ## K čemu slouží
 
-ADP bylo vytvořeno k řešení problému nespolehlivého a neinteroperabilního doručování multimediálního obsahu v raných mobilních datových službách. Před jeho standardizací v 3GPP Release 5 vedly proprietární mechanismy pro doručování obrázkových zpráv a dalšího bohatého obsahu k fragmentovanému uživatelskému zážitku a omezenému přijetí služeb mezi různými operátory a výrobci zařízení. Nedostatek společných postupů ztěžoval spolehlivou implementaci služeb MMS a dalších přidaných služeb mezi operátory.
+ADP bylo vytvořeno k řešení problému nespolehlivého a neinteroperabilního doručování multimediálního obsahu v raných mobilních datových službách. Před jeho standardizací v 3GPP Release 5 vedly proprietární mechanismy pro doručování obrázkových zpráv a dalšího bohatého obsahu k fragmentovanému uživatelskému zážitku a omezenému přijetí služeb mezi různými operátory a výrobci zařízení. Nedostatek společných postupů ztěžoval spolehlivou implementaci služeb [MMS](/mobilnisite/slovnik/mms/) a dalších přidaných služeb mezi operátory.
 
 Primární motivací bylo umožnit službu Multimedia Messaging Service (MMS) jako úspěšnou, všudypřítomnou službu. MMS vyžadovala složitější mechanismus doručování než SMS kvůli větší velikosti zpráv, potřebě navázání datového přenosu a zpracování různých možností zařízení. ADP poskytlo potřebný procedurální rámec pro správu této složitosti, zajišťující, že zprávy mohou být doručeny i přes mobilitu uživatele, dočasnou nedostupnost sítě a různé stavy terminálu. Řešilo omezení, jako jsou nekoordinované pokusy o doručení plýtvající síťovými prostředky, a absenci standardizovaných hlášení o doručení/přečtení pro multimediální obsah.
 
@@ -40,6 +40,11 @@ Historicky bylo zavedení ADP v Release 5 součástí širšího úsilí o paket
 - Definice hlášení o doručení a hlášení o přečtení
 - Přidružení doručování obsahu k jiným síťovým signalizačním událostem
 - Zpracování chyb a logika opakování pro neúspěšné pokusy o doručení
+
+## Související pojmy
+
+- [MMS – Multimedia Messaging Service](/mobilnisite/slovnik/mms/)
+- [IMS – IP Multimedia Subsystem](/mobilnisite/slovnik/ims/)
 
 ## Definující specifikace
 

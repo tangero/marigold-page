@@ -18,11 +18,11 @@ ADN je funkce telekomunikační služby, která uživatelům umožňuje ukládat
 
 Abbreviated Dialling Numbers (zkrácená čísla, ADN) je základní funkce telefonní služby standardizovaná 3GPP, která mobilním účastníkům umožňuje přiřazovat často používaná telefonní čísla krátkým číselným kódům. Systém funguje prostřednictvím strukturovaného úložného mechanismu v modulu Universal Subscriber Identity Module (USIM) nebo SIM kartě, kde každá položka ADN sestává z krátkého kódu (obvykle 1–2 číslice) namapovaného na úplné telefonní číslo. Když uživatel vytočí zkrácený kód, telefonní aplikace mobilního zařízení zachytí krátkou sekvenci, provede vyhledání v databázi ADN uložené na USIM, získá odpovídající plné telefonní číslo a zahájí proceduru sestavení hovoru pomocí kompletního čísla.
 
-Z architektonického hlediska je funkce ADN implementována napříč více síťovými elementy, přičemž USIM slouží jako primární úložiště. Struktura databáze ADN je definována specifikacemi 3GPP s konkrétní organizací souborů (EF_ADN) obsahující záznamy, které zahrnují zkrácený kód, plné telefonní číslo a přidružené parametry, jako jsou jmenné štítky pro identifikaci volajícího. Mobile Equipment (ME) komunikuje s USIM prostřednictvím standardizovaných příkazů definovaných v TS 31.111 za účelem čtení, zápisu a správy položek ADN. Toto oddělení mezi ukládáním (USIM) a zpracováním (ME) umožňuje přenositelnost funkce ADN mezi různými mobilními zařízeními při zachování uživatelského komfortu.
+Z architektonického hlediska je funkce ADN implementována napříč více síťovými elementy, přičemž USIM slouží jako primární úložiště. Struktura databáze ADN je definována specifikacemi 3GPP s konkrétní organizací souborů ([EF](/mobilnisite/slovnik/ef/)_ADN) obsahující záznamy, které zahrnují zkrácený kód, plné telefonní číslo a přidružené parametry, jako jsou jmenné štítky pro identifikaci volajícího. Mobile Equipment ([ME](/mobilnisite/slovnik/me/)) komunikuje s USIM prostřednictvím standardizovaných příkazů definovaných v TS 31.111 za účelem čtení, zápisu a správy položek ADN. Toto oddělení mezi ukládáním (USIM) a zpracováním (ME) umožňuje přenositelnost funkce ADN mezi různými mobilními zařízeními při zachování uživatelského komfortu.
 
-Z pohledu sítě probíhá zpracování ADN zcela uvnitř User Equipment (UE) před sestavením hovoru. Když uživatel zahájí hovor pomocí zkráceného kódu, UE provede lokální překlad bez zapojení síťových elementů, což činí z ADN funkci na straně klienta, která nevyžaduje podporu nebo úpravy sítě. Sestavení hovoru následně probíhá normálně, jakmile je plné číslo přeloženo, přičemž MSC (Mobile Switching Center) přijímá kompletní vytočené číslice, jako kdyby je uživatel zadal ručně. Tato architektura zajišťuje zpětnou kompatibilitu s existující síťovou infrastrukturou a zároveň poskytuje vyšší uživatelský komfort.
+Z pohledu sítě probíhá zpracování ADN zcela uvnitř User Equipment (UE) před sestavením hovoru. Když uživatel zahájí hovor pomocí zkráceného kódu, UE provede lokální překlad bez zapojení síťových elementů, což činí z ADN funkci na straně klienta, která nevyžaduje podporu nebo úpravy sítě. Sestavení hovoru následně probíhá normálně, jakmile je plné číslo přeloženo, přičemž [MSC](/mobilnisite/slovnik/msc/) (Mobile Switching Center) přijímá kompletní vytočené číslice, jako kdyby je uživatel zadal ručně. Tato architektura zajišťuje zpětnou kompatibilitu s existující síťovou infrastrukturou a zároveň poskytuje vyšší uživatelský komfort.
 
-Technická implementace zahrnuje ošetření chyb pro neplatné kódy, správu kapacity pro omezené úložiště USIM a synchronizační mechanismy při změně položek ADN. Specifikace 3GPP definují maximální kapacity pro úložiště ADN (obvykle 50–100 položek v závislosti na implementaci USIM), kódování znaků pro přidružená jména (obvykle UCS2 pro mezinárodní podporu) a bezpečnostní mechanismy pro zabránění neautorizovaným změnám. Služba je integrována s dalšími funkcemi založenými na SIM, jako jsou Fixed Dialing Numbers (FDN) a Last Number Dialed (LND), čímž vytváří komplexní ekosystém správy telefonie na USIM.
+Technická implementace zahrnuje ošetření chyb pro neplatné kódy, správu kapacity pro omezené úložiště USIM a synchronizační mechanismy při změně položek ADN. Specifikace 3GPP definují maximální kapacity pro úložiště ADN (obvykle 50–100 položek v závislosti na implementaci USIM), kódování znaků pro přidružená jména (obvykle UCS2 pro mezinárodní podporu) a bezpečnostní mechanismy pro zabránění neautorizovaným změnám. Služba je integrována s dalšími funkcemi založenými na SIM, jako jsou Fixed Dialing Numbers ([FDN](/mobilnisite/slovnik/fdn/)) a Last Number Dialed ([LND](/mobilnisite/slovnik/lnd/)), čímž vytváří komplexní ekosystém správy telefonie na USIM.
 
 ## K čemu slouží
 
@@ -40,6 +40,11 @@ Historicky ADN představovalo důležitý krok v designu rozhraní mezi člověk
 - Lokální zpracování v UE bez zapojení sítě
 - Zpětná kompatibilita s existujícími postupy sestavení hovoru
 - Standardizovaná kapacita a kódování znaků dle specifikací 3GPP
+
+## Související pojmy
+
+- [FDN – Fixed Dialling Number](/mobilnisite/slovnik/fdn/)
+- [MSISDN – Mobile Station International Subscriber Directory Number](/mobilnisite/slovnik/msisdn/)
 
 ## Definující specifikace
 

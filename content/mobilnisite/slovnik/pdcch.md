@@ -16,9 +16,9 @@ PDCCH je základní fyzický kanál pro přenos směrem dolů v LTE a NR, který
 
 ## Popis
 
-Fyzický řídicí kanál pro přenos směrem dolů (PDCCH) je klíčový fyzický kanál v LTE (E-UTRA) i NR (New Radio), který přenáší řídicí informace pro přenos směrem dolů (DCI) ze sítě (gNB v NR, eNB v LTE) k uživatelským zařízením (UE). Funguje v řídicí oblasti podrámce (LTE) nebo slotu (NR). PDCCH nepřenáší data vyšších vrstev; místo toho přenáší zásadní plánovací přiřazení a řídicí příkazy. Uživatelské zařízení musí nepřetržitě monitorovat sadu kandidátních PDCCH pro potenciální DCI adresované jemu, přičemž používá jedinečný identifikátor (C-RNTI, SI-RNTI atd.) zakódovaný do cyklického redundantního součtu (CRC) DCI.
+Fyzický řídicí kanál pro přenos směrem dolů (PDCCH) je klíčový fyzický kanál v LTE ([E-UTRA](/mobilnisite/slovnik/e-utra/)) i NR (New Radio), který přenáší řídicí informace pro přenos směrem dolů ([DCI](/mobilnisite/slovnik/dci/)) ze sítě (gNB v NR, [eNB](/mobilnisite/slovnik/enb/) v LTE) k uživatelským zařízením (UE). Funguje v řídicí oblasti podrámce (LTE) nebo slotu (NR). PDCCH nepřenáší data vyšších vrstev; místo toho přenáší zásadní plánovací přiřazení a řídicí příkazy. Uživatelské zařízení musí nepřetržitě monitorovat sadu kandidátních PDCCH pro potenciální DCI adresované jemu, přičemž používá jedinečný identifikátor ([C-RNTI](/mobilnisite/slovnik/c-rnti/), SI-RNTI atd.) zakódovaný do cyklického redundantního součtu ([CRC](/mobilnisite/slovnik/crc/)) DCI.
 
-Z architektonického hlediska zahrnuje přenos PDCCH několik klíčových kroků. Nejprve je vygenerováno datové pole DCI, které obsahuje informace jako přiřazení zdrojových bloků, schéma modulace a kódování (MCS), číslo HARQ procesu a příkazy pro řízení výkonu. K tomuto datovému poli je připojen CRC, který je následně zakódován pomocí RNTI cílového uživatelského zařízení. Bitová sekvence je pak kanálově zakódována (v LTE pomocí konvolučního kódování s uzavřenou smyčkou, v NR ve většině případů pomocí polárního kódování), přizpůsobena přenosové rychlosti a namapována na prvky řídicího kanálu (CCE). V LTE jsou CCE seskupeny (úrovně agregace 1, 2, 4, 8), aby poskytly různé kódovací rychlosti pro adaptaci spojení. Tyto CCE jsou pak namapovány na specifické skupiny zdrojových prvků (REG) v řídicí oblasti mřížky OFDMA, která je definována prvním několika OFDM symboly podrámce, jak je indikováno PCFICH.
+Z architektonického hlediska zahrnuje přenos PDCCH několik klíčových kroků. Nejprve je vygenerováno datové pole DCI, které obsahuje informace jako přiřazení zdrojových bloků, schéma modulace a kódování ([MCS](/mobilnisite/slovnik/mcs/)), číslo [HARQ](/mobilnisite/slovnik/harq/) procesu a příkazy pro řízení výkonu. K tomuto datovému poli je připojen CRC, který je následně zakódován pomocí RNTI cílového uživatelského zařízení. Bitová sekvence je pak kanálově zakódována (v LTE pomocí konvolučního kódování s uzavřenou smyčkou, v NR ve většině případů pomocí polárního kódování), přizpůsobena přenosové rychlosti a namapována na prvky řídicího kanálu ([CCE](/mobilnisite/slovnik/cce/)). V LTE jsou CCE seskupeny (úrovně agregace 1, 2, 4, 8), aby poskytly různé kódovací rychlosti pro adaptaci spojení. Tyto CCE jsou pak namapovány na specifické skupiny zdrojových prvků (REG) v řídicí oblasti mřížky OFDMA, která je definována prvním několika OFDM symboly podrámce, jak je indikováno PCFICH.
 
 V NR se tento koncept vyvinul do pružnější struktury. NR-PDCCH je organizován v sadách řídicích zdrojů (CORESET) a prohledávacích prostorech. CORESET definuje časově-frekvenční oblast (až 3 OFDM symboly a konfigurovatelnou šířku pásma), kde může být PDCCH vysílán. Uvnitř CORESET uživatelské zařízení monitoruje předdefinované kandidáty PDCCH v jednom nebo více prohledávacích prostorech (společných nebo specifických pro UE). NR používá pro DCI polární kódování a podporuje úrovně agregace od 1 do 16. Role PDCCH je pro provoz sítě naprosto klíčová: doručuje oprávnění pro přenos směrem nahoru (sděluje uživatelskému zařízení, kdy a kde vysílat), přiřazení pro přenos směrem dolů (sděluje uživatelskému zařízení, kde přijímat PDSCH), indikátory formátu slotu, indikace předběžného obsazení a příkazy pro řízení výkonu. Jeho spolehlivý příjem je předpokladem pro jakýkoli datový přenos, což činí jeho návrh kritickým pro kapacitu systému, latenci a výdrž baterie uživatelského zařízení.
 
@@ -38,6 +38,13 @@ Dále, návrh PDCCH řeší výzvu kapacity a spolehlivosti řídicího kanálu.
 - Funguje v rámci definované řídicí oblasti (LTE) nebo pružných sad řídicích zdrojů CORESET (NR)
 - Vyžaduje, aby uživatelské zařízení monitorovalo sadu kandidátních PDCCH v prohledávacích prostorech
 - Používá adresování specifických uživatelských zařízení nebo skupin pomocí zakódování CRC na základě RNTI
+
+## Související pojmy
+
+- [DCI – Downlink Control Information](/mobilnisite/slovnik/dci/)
+- [PDSCH – Physical Downlink Shared Channel](/mobilnisite/slovnik/pdsch/)
+- [CORESET – Control Resource Set](/mobilnisite/slovnik/coreset/)
+- [CCE – Control Channel Element](/mobilnisite/slovnik/cce/)
 
 ## Definující specifikace
 

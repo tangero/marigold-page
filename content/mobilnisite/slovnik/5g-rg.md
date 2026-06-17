@@ -16,13 +16,13 @@ summary: "Zařízení typu CPE (customer premises equipment), které propojuje d
 
 ## Popis
 
-5G Residential Gateway (5G-RG) je standardizované zařízení na straně zákazníka definované 3GPP, které slouží jako koncový bod pro 5G konektivitu v domácím nebo kancelářském prostředí. Z architektonického hlediska funguje jako User Equipment (UE) s rozšířenými schopnostmi, připojuje se k 5G Core Network přes 5G Radio Access Network (gNB) a zároveň poskytuje služby místní sítě koncovým zařízením. 5G-RG obsahuje jak funkci 5G modemu pro bezdrátovou konektivitu, tak tradiční funkce routeru včetně Network Address Translation (NAT), firewallu, DHCP serveru a Wi-Fi přístupového bodu.
+5G Residential Gateway (5G-RG) je standardizované zařízení na straně zákazníka definované 3GPP, které slouží jako koncový bod pro 5G konektivitu v domácím nebo kancelářském prostředí. Z architektonického hlediska funguje jako User Equipment (UE) s rozšířenými schopnostmi, připojuje se k 5G Core Network přes 5G Radio Access Network (gNB) a zároveň poskytuje služby místní sítě koncovým zařízením. 5G-RG obsahuje jak funkci 5G modemu pro bezdrátovou konektivitu, tak tradiční funkce routeru včetně Network Address Translation ([NAT](/mobilnisite/slovnik/nat/)), firewallu, [DHCP](/mobilnisite/slovnik/dhcp/) serveru a Wi-Fi přístupového bodu.
 
-Z protokolového hlediska 5G-RG navazuje PDU Session s 5G Core Network, typicky pomocí IP PDU Session Type, a může podporovat více PDU Sessions pro různé služby nebo síťové řezy. Implementuje kompletní 5G UE protokolový stack včetně NAS signalizace pro správu mobility a správu relací, stejně jako nezbytné bezpečnostní procedury pro autentizaci a šifrování. Zařízení podporuje jak 3GPP, tak non-3GPP přístup, pokud je dostupný, ačkoli jeho primární funkcí je využití 5G NR jako backhaul připojení.
+Z protokolového hlediska 5G-RG navazuje PDU Session s 5G Core Network, typicky pomocí IP PDU Session Type, a může podporovat více PDU Sessions pro různé služby nebo síťové řezy. Implementuje kompletní 5G UE protokolový stack včetně [NAS](/mobilnisite/slovnik/nas/) signalizace pro správu mobility a správu relací, stejně jako nezbytné bezpečnostní procedury pro autentizaci a šifrování. Zařízení podporuje jak 3GPP, tak non-3GPP přístup, pokud je dostupný, ačkoli jeho primární funkcí je využití 5G NR jako backhaul připojení.
 
 Klíčové komponenty v architektuře 5G-RG zahrnují 5G modemový modul s RF front-endem, směrovací engine se schopnostmi zpracování paketů, Wi-Fi subsystém (typicky podporující Wi-Fi 6 nebo novější) a rozhraní pro správu jak pro konfiguraci uživatelem, tak pro dálkovou správu od operátora. Zařízení podporuje TR-069 nebo ekvivalentní management protokoly pro dálkovou provizi, monitoring a aktualizace softwaru od poskytovatele služeb. Z pohledu sítě se 5G-RG jeví jako specializované UE se specifickými charakteristikami, které jej odlišují od mobilních telefonů, včetně odlišných požadavků na mobilitu, energetických profilů a očekávání služeb.
 
-5G-RG hraje klíčovou roli při umožňování služeb Fixed Wireless Access (FWA) tím, že poskytuje most mezi 5G celulárními sítěmi a tradičními lokálními sítěmi. Podporuje mechanismy kvality služeb (QoS) pro zajištění odpovídajícího zacházení s různými typy provozu (hlas, video, data) přes bezdrátový spoj a implementuje schopnosti směrování provozu pro optimalizaci výkonu. Zařízení také podporuje povědomí o síťových řezech, což mu umožňuje navazovat připojení k různým síťovým řezům pro různé služby nebo smlouvy o úrovni služeb, ačkoli výběr řezu je typicky řízen síťovými politikami spíše než konfigurací uživatele.
+5G-RG hraje klíčovou roli při umožňování služeb Fixed Wireless Access ([FWA](/mobilnisite/slovnik/fwa/)) tím, že poskytuje most mezi 5G celulárními sítěmi a tradičními lokálními sítěmi. Podporuje mechanismy kvality služeb (QoS) pro zajištění odpovídajícího zacházení s různými typy provozu (hlas, video, data) přes bezdrátový spoj a implementuje schopnosti směrování provozu pro optimalizaci výkonu. Zařízení také podporuje povědomí o síťových řezech, což mu umožňuje navazovat připojení k různým síťovým řezům pro různé služby nebo smlouvy o úrovni služeb, ačkoli výběr řezu je typicky řízen síťovými politikami spíše než konfigurací uživatele.
 
 ## K čemu slouží
 
@@ -40,6 +40,10 @@ Technologie také řeší potřebu zlepšeného pokrytí širokopásmovým pří
 - Podpora síťových řezů a QoS diferenciace na PDU Session
 - Možnosti vzdálené správy přes TR-069 nebo ekvivalentní protokoly
 - Podpora duálního provozu IPv4 a IPv6
+
+## Související pojmy
+
+- [FWA – Fixed Wireless Access](/mobilnisite/slovnik/fwa/)
 
 ## Definující specifikace
 
