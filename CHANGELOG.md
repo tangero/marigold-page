@@ -12,6 +12,7 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
 - Slovník 3GPP: vlastní layout detailu termínu se zkratkou, plným názvem, badge kategorie/segmentu a breadcrumbem (`layouts/slovnik/single.html`)
 - Slovník 3GPP: počeštění kategorií a segmentů přes nový partial `layouts/partials/slovnik-kategorie.html`
 - Slovník 3GPP: styly seznamu i detailu vč. dark mode variant (`assets/scss/main.scss`)
+- Odkaz na slovník 3GPP na stránce `/mobilnisite/` jako banner pod titulkem (shortcode `slovnik-banner`, styly vč. dark mode)
 - Nový článek do rubiky AI: „Claude Cowork: Kompletní příručka" (Patrick Zandl, 2026-06-07) — průvodce agentním Cowork pro nontechnické uživatele, s thumbnailem `claude-cowork-kompletni-pruvodce.png`
 - Nový článek: „Když se vás AI agent snaží potěšit objednáváním" (Patrick Zandl, 2026-06-06) — o Hypatě a boji o welcome drink na Vibecoding Talks
 - Reklamní banner Vibecoding Talks 15. 6. 2026 na konci článků (`layouts/posts/single.html`) — jeden náhodně vybraný obrázek řečníka (`static/assets/vt/`, Hugo `shuffle` při buildu), proklik s UTM (`vt-06-2026`)
@@ -19,6 +20,7 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
 - Nový článek: „Jsou AI agenti superinteligence dneška?" (Patrick Zandl, 2026-04-21) — o kooperaci AI agentů, World Models a agentní vrstvě
 
 ### Fixed
+- Oprava diakritiky v titulku stránky `/mobilnisite/`: „Mobilni site" → „Mobilní sítě"
 - Slovník 3GPP: opraveno vyhledávání — `display: flex/block` na položkách přebíjel HTML atribut `hidden`, takže filtr vizuálně nic neskrýval; přidáno pravidlo `[hidden] { display: none }` pro slovníkové prvky
 - Post `prirucka-ai-ve-firmach-zdarma` přesunut z `_posts/` do `content/posts/` pro kompatibilitu s Hugo buildem
 - Thumbnail `ebook-ai-ve-firmach.png` zkopírován do `static/assets/` aby byl dostupný v Hugo buildu

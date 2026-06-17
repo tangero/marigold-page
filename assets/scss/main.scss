@@ -3364,6 +3364,94 @@ pre:has(code.language-mermaid), code.language-mermaid {
   margin: 0;
 }
 
+// --- Banner odkazu na slovník (na /mobilnisite/) ---
+
+.slovnik-banner {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin: 0 0 28px;
+  padding: 16px 20px;
+  border: 1px solid rgba($blue, 0.25);
+  border-left: 4px solid $blue;
+  border-radius: 10px;
+  background: rgba($blue, 0.06);
+  text-decoration: none;
+  color: inherit;
+  transition: background 0.15s ease, transform 0.15s ease;
+
+  &:hover {
+    background: rgba($blue, 0.12);
+    transform: translateX(2px);
+
+    .slovnik-banner__arrow {
+      transform: translateX(4px);
+    }
+  }
+
+  &__icon {
+    flex: none;
+    font-size: 28px;
+    line-height: 1;
+  }
+
+  &__text {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+
+    strong {
+      font-size: 18px;
+      color: darken($blue, 10%);
+    }
+
+    span {
+      font-size: 15px;
+      color: $text-secondary;
+      line-height: 1.4;
+    }
+  }
+
+  &__arrow {
+    flex: none;
+    margin-left: auto;
+    font-size: 22px;
+    color: $blue;
+    transition: transform 0.15s ease;
+  }
+
+  @include mobile {
+    gap: 12px;
+    padding: 14px 16px;
+
+    &__arrow {
+      display: none;
+    }
+  }
+}
+
+[data-theme="dark"] .slovnik-banner {
+  border-color: rgba(109, 179, 242, 0.3);
+  border-left-color: #6db3f2;
+  background: rgba(109, 179, 242, 0.1);
+
+  &:hover {
+    background: rgba(109, 179, 242, 0.16);
+  }
+
+  &__text strong {
+    color: #8ec5f6;
+  }
+
+  &__text span {
+    color: #b0b0c0;
+  }
+
+  &__arrow {
+    color: #6db3f2;
+  }
+}
+
 // HTML atribut `hidden` musí přebít display z layoutu (filtr seznamu)
 .slovnik-item[hidden],
 .slovnik-group[hidden],

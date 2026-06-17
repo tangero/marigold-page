@@ -1,7 +1,9 @@
 ---
-title: "Mobilni site UMTS, 3G, 4G, LTE, 5G a 6G"
+title: "Mobilní sítě UMTS, 3G, 4G, LTE, 5G a 6G"
 url: /mobilnisite/
 ---
+
+{{< slovnik-banner >}}
 
 ## Jak fungují mobilní sítě? 
 
