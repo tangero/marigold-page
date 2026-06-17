@@ -3364,6 +3364,13 @@ pre:has(code.language-mermaid), code.language-mermaid {
   margin: 0;
 }
 
+// HTML atribut `hidden` musí přebít display z layoutu (filtr seznamu)
+.slovnik-item[hidden],
+.slovnik-group[hidden],
+.slovnik-empty[hidden] {
+  display: none;
+}
+
 .slovnik-item {
   display: flex;
   align-items: baseline;
