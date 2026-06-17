@@ -20,9 +20,9 @@ Adjacent Channel Leakage Power Ratio (ACLR, poměr výkonu úniku do sousedního
 
 Měření ACLR zahrnuje sofistikované techniky zpracování signálu, kdy je vysílaný signál nejprve převeden na nižší frekvenci a filtrován pomocí specifických měřicích šířek pásma definovaných standardem. Pro systémy WCDMA je měřicí šířka pásma typicky 3,84 MHz, zatímco pro LTE se liší v závislosti na šířce kanálu (1,4 MHz až 20 MHz). Výkon se měří jak v hlavním kanálu, tak v sousedních kanálech, přičemž poměr je vyjádřen v decibelech (dB). Vyšší hodnoty ACLR znamenají lepší výkon vysílače, tedy menší rušení sousedních kanálů.
 
-Tento parametr je klíčový, protože reálné vysílače nemohou dosáhnout dokonalého spektrálního omezení kvůli nelinearitám ve výkonových zesilovačích, nedokonalostem modulátoru a omezením převodníků z digitálního na analogový signál. Tyto nedokonalosti způsobují spektrální obnovu, která přesahuje přidělenou šířku pásma. Specifikace ACLR se liší v závislosti na technologii radiového přístupu (UTRA, E-UTRA, NR), frekvenčním pásmu a výkonové třídě zařízení. Základnové stanice mají zpravidla přísnější požadavky na ACLR než uživatelská zařízení kvůli jejich vyššímu vysílacímu výkonu a většímu potenciálu způsobit rušení.
+Tento parametr je klíčový, protože reálné vysílače nemohou dosáhnout dokonalého spektrálního omezení kvůli nelinearitám ve výkonových zesilovačích, nedokonalostem modulátoru a omezením převodníků z digitálního na analogový signál. Tyto nedokonalosti způsobují spektrální obnovu, která přesahuje přidělenou šířku pásma. Specifikace ACLR se liší v závislosti na technologii radiového přístupu (UTRA, [E-UTRA](/mobilnisite/slovnik/e-utra/), NR), frekvenčním pásmu a výkonové třídě zařízení. Základnové stanice mají zpravidla přísnější požadavky na ACLR než uživatelská zařízení kvůli jejich vyššímu vysílacímu výkonu a většímu potenciálu způsobit rušení.
 
-Při nasazení sítě ACLR přímo ovlivňuje kapacitu systému a kvalitu služeb. Špatný výkon ACLR vede k rušení sousedního kanálu, což snižuje poměr signálu k šumu a rušení (SINR) pro uživatele v sousedních kanálech. Toto rušení je obzvláště problematické v systémech s frekvenčním duplexem (FDD), kde se vysílání v uplinku a downlinku uskutečňuje současně v sousedních frekvenčních blocích. Specifikace 3GPP definují požadavky na ACLR jak pro vedené, tak pro zářené měření, s testovacími metodikami specifikovanými v dokumentech pro testování shody, aby byla zajištěna interoperabilita mezi zařízeními různých výrobců.
+Při nasazení sítě ACLR přímo ovlivňuje kapacitu systému a kvalitu služeb. Špatný výkon ACLR vede k rušení sousedního kanálu, což snižuje poměr signálu k šumu a rušení (SINR) pro uživatele v sousedních kanálech. Toto rušení je obzvláště problematické v systémech s frekvenčním duplexem ([FDD](/mobilnisite/slovnik/fdd/)), kde se vysílání v uplinku a downlinku uskutečňuje současně v sousedních frekvenčních blocích. Specifikace 3GPP definují požadavky na ACLR jak pro vedené, tak pro zářené měření, s testovacími metodikami specifikovanými v dokumentech pro testování shody, aby byla zajištěna interoperabilita mezi zařízeními různých výrobců.
 
 Moderní systémy implementují různé techniky pro zlepšení výkonu ACLR, včetně digitálního předkompenzačního zkreslení, redukce činitele špičkovosti a pokročilé linearizace výkonového zesilovače. Tyto techniky pomáhají splnit stále přísnější požadavky na ACLR v novějších vydáních standardů při zachování účinnosti výkonového zesilovače. Vývoj od 3G k 5G přinesl složitější požadavky na ACLR se zavedením agregace nosných, doplňkového uplinku a dynamického sdílení spektra, což vyžaduje sofistikovanější metodiky měření a ověřování shody.
 
@@ -42,6 +42,11 @@ ACLR řeší technickou výzvu nelineárního chování vysílače, zejména ve 
 - Liší se podle technologie radiového přístupu a frekvenčního pásma
 - Klíčové pro správu rušení v systémech FDD
 - Ovlivňuje kapacitu sítě a spektrální účinnost
+
+## Související pojmy
+
+- [ACP – Accelerated H.245 Procedures](/mobilnisite/slovnik/acp/)
+- [EVM – Error Vector Magnitude](/mobilnisite/slovnik/evm/)
 
 ## Definující specifikace
 

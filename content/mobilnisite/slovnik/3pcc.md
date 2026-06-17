@@ -16,7 +16,7 @@ summary: "Servisní schopnost, která umožňuje aplikačnímu serveru třetí s
 
 ## Popis
 
-Third Party Call Control (3PCC) je standardizovaná servisní architektura definovaná v 3GPP, která umožňuje aplikačnímu serveru (AS) fungovat jako řídicí entita pro navazování a správu multimediálních relací mezi koncovými body uživatelů. AS funguje jako back-to-back uživatelský agent (B2BUA) neboli řídicí jednotka hovoru třetí strany, která iniciuje samostatná SIP dialogová spojení s každým účastnícím se koncovým bodem a koordinuje parametry relace a toky médií mezi nimi. Tato architektura umožňuje AS udržovat plnou kontrolu nad životním cyklem relace, včetně jejího navázání, změny a ukončení, aniž by koncové body potřebovaly přímou signalizační konektivitu mezi sebou.
+Third Party Call Control (3PCC) je standardizovaná servisní architektura definovaná v 3GPP, která umožňuje aplikačnímu serveru ([AS](/mobilnisite/slovnik/as/)) fungovat jako řídicí entita pro navazování a správu multimediálních relací mezi koncovými body uživatelů. AS funguje jako back-to-back uživatelský agent ([B2BUA](/mobilnisite/slovnik/b2bua/)) neboli řídicí jednotka hovoru třetí strany, která iniciuje samostatná SIP dialogová spojení s každým účastnícím se koncovým bodem a koordinuje parametry relace a toky médií mezi nimi. Tato architektura umožňuje AS udržovat plnou kontrolu nad životním cyklem relace, včetně jejího navázání, změny a ukončení, aniž by koncové body potřebovaly přímou signalizační konektivitu mezi sebou.
 
 Architektura 3PCC využívá jako primární signalizační protokol SIP (Session Initiation Protocol), přičemž aplikační server implementuje funkci 3PCC kontroléru. Při navazování relace AS nejprve iniciuje SIP INVITE k jednomu koncovému bodu (volající strana) s nabídkou SDP popisující požadované charakteristiky média. Po přijetí odpovědi od tohoto koncového bodu pak AS iniciuje samostatné SIP INVITE k druhému koncovému bodu (volaná strana), přičemž jako nabídku pro druhý koncový bod použije SDP odpověď od prvního koncového bodu. Tím vzniknou dvě nezávislá SIP dialogová spojení, která AS na signalizační úrovni propojí, což mu umožňuje řídit vyjednávání médií a parametry relace pro obě strany.
 
@@ -40,6 +40,11 @@ Historicky se 3PCC objevil jako součást architektury IMS (IP Multimedia Subsys
 - Nezávislá SIP dialogová spojení s každým koncovým bodem
 - Centralizované účtování a vynucování politik
 - Integrace s prvky jádra sítě IMS
+
+## Související pojmy
+
+- [IMS – IP Multimedia Subsystem](/mobilnisite/slovnik/ims/)
+- [B2BUA – Back-to-Back User Agent](/mobilnisite/slovnik/b2bua/)
 
 ## Definující specifikace
 
