@@ -25,13 +25,27 @@
     .then(function (e) {
       if (!e || !e.slug) return;
 
-      var d = e.date.split('-');
-      var df = parseInt(d[2]) + '. ' + months[parseInt(d[1]) - 1] + ' ' + d[0];
-      var city = e.city || (e.location ? e.location.split(',').slice(-1)[0].trim() : '');
-      var dateText = df + (city ? ' · ' + city : '') +
-        (e.dateVariants && e.dateVariants.length > 1 ? ' · a další termíny' : '');
-      var url = 'https://www.vibecoding.cz/akce/' + e.slug +
-        '/?utm_source=marigold&utm_medium=web&utm_campaign=' + campaign;
+      // Data z API se vkládají do innerHTML — escapuj vše interpolované.
+      function esc(s) {
+        return String(s == null ? '' : s).replace(/[&<>"']/g, function (c) {
+          return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
+        });
+      }
+
+      // Reklama / externí promo slot (isAd): nemá reálný termín ani město,
+      // místo „Naše akce" má vlastní štítek a CTA „Více". Datum se nezobrazuje.
+      var isAd = !!e.isAd;
+
+      var dateText = '';
+      if (!isAd && e.date) {
+        var d = e.date.split('-');
+        var df = parseInt(d[2]) + '. ' + months[parseInt(d[1]) - 1] + ' ' + d[0];
+        var city = e.city || (e.location ? e.location.split(',').slice(-1)[0].trim() : '');
+        dateText = df + (city ? ' · ' + city : '') +
+          (e.dateVariants && e.dateVariants.length > 1 ? ' · a další termíny' : '');
+      }
+      var url = 'https://www.vibecoding.cz/akce/' + encodeURIComponent(e.slug).replace(/%2F/gi, '/') +
+        '/?utm_source=marigold&utm_medium=web&utm_campaign=' + encodeURIComponent(campaign);
 
       if (e.isPaid) {
         // Tmavý workshop banner
@@ -51,10 +65,10 @@
               '<div class="workshop-banner-content">' +
                 '<div class="workshop-banner-header-row">' +
                   '<span class="workshop-banner-badge">' + (e.isPaid ? 'Workshop' : 'Akce') + '</span>' +
-                  '<span class="workshop-banner-date">' + dateText + '</span>' +
+                  '<span class="workshop-banner-date">' + esc(dateText) + '</span>' +
                 '</div>' +
-                '<div class="workshop-banner-title">' + e.title + '</div>' +
-                (e.bannerDescription ? '<div class="workshop-banner-desc">' + e.bannerDescription + '</div>' : '') +
+                '<div class="workshop-banner-title">' + esc(e.title) + '</div>' +
+                (e.bannerDescription ? '<div class="workshop-banner-desc">' + esc(e.bannerDescription) + '</div>' : '') +
                 earlyHtml +
               '</div>' +
               '<div class="workshop-banner-cta">' +
@@ -68,13 +82,13 @@
           '<a href="' + url + '" class="promo-card-compact-link">' +
             '<div class="promo-card-compact">' +
               '<div class="promo-left">' +
-                '<span class="promo-badge-sm">Naše akce</span>' +
-                '<span class="promo-title-sm">' + e.title + '</span>' +
-                '<span class="promo-meta">' + dateText + '</span>' +
-                (e.bannerDescription ? '<span class="promo-meta">' + e.bannerDescription + '</span>' : '') +
+                '<span class="promo-badge-sm">' + (isAd ? esc(e.badgeLabel || 'Tip') : 'Naše akce') + '</span>' +
+                '<span class="promo-title-sm">' + esc(e.title) + '</span>' +
+                (dateText ? '<span class="promo-meta">' + esc(dateText) + '</span>' : '') +
+                (e.bannerDescription ? '<span class="promo-meta">' + esc(e.bannerDescription) + '</span>' : '') +
               '</div>' +
               '<div class="promo-right">' +
-                '<span class="promo-cta-btn">Detaily &rarr;</span>' +
+                '<span class="promo-cta-btn">' + (isAd ? 'Více' : 'Detaily') + ' &rarr;</span>' +
               '</div>' +
             '</div>' +
           '</a>';
