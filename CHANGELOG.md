@@ -24,6 +24,7 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
 - Nový článek: „Jsou AI agenti superinteligence dneška?" (Patrick Zandl, 2026-04-21) — o kooperaci AI agentů, World Models a agentní vrstvě
 
 ### Fixed
+- Banner slovníku na `/mobilnisite/` (`slovnik-banner.html`): počet hesel se nyní počítá dynamicky z obsahu (zaokrouhleno dolů na stovky) místo natvrdo zapsaného „přes 140 hesel" — aktuálně „přes 2700 hesel"
 - Oprava diakritiky v titulku stránky `/mobilnisite/`: „Mobilni site" → „Mobilní sítě"
 - Slovník 3GPP: opraveno vyhledávání — `display: flex/block` na položkách přebíjel HTML atribut `hidden`, takže filtr vizuálně nic neskrýval; přidáno pravidlo `[hidden] { display: none }` pro slovníkové prvky
 - Post `prirucka-ai-ve-firmach-zdarma` přesunut z `_posts/` do `content/posts/` pro kompatibilitu s Hugo buildem

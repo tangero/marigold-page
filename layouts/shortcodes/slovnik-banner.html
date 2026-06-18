@@ -2,7 +2,8 @@
   <span class="slovnik-banner__icon" aria-hidden="true">📖</span>
   <span class="slovnik-banner__text">
     <strong>Slovník 3GPP</strong>
-    <span>Výkladový slovník pojmů a zkratek z mobilních sítí 4G a 5G — přes 140 hesel.</span>
+    {{- $terms := where .Site.RegularPages "Params.abbr" "!=" nil -}}
+    <span>Výkladový slovník pojmů a zkratek z mobilních sítí 4G a 5G — přes {{ mul (div (len $terms) 100) 100 }} hesel.</span>
   </span>
   <span class="slovnik-banner__arrow" aria-hidden="true">→</span>
 </a>
