@@ -25,11 +25,18 @@
     .then(function (e) {
       if (!e || !e.slug) return;
 
-      var d = e.date.split('-');
-      var df = parseInt(d[2]) + '. ' + months[parseInt(d[1]) - 1] + ' ' + d[0];
-      var city = e.city || (e.location ? e.location.split(',').slice(-1)[0].trim() : '');
-      var dateText = df + (city ? ' · ' + city : '') +
-        (e.dateVariants && e.dateVariants.length > 1 ? ' · a další termíny' : '');
+      // Reklama / externí promo slot (isAd): nemá reálný termín ani město,
+      // místo „Naše akce" má vlastní štítek a CTA „Více". Datum se nezobrazuje.
+      var isAd = !!e.isAd;
+
+      var dateText = '';
+      if (!isAd && e.date) {
+        var d = e.date.split('-');
+        var df = parseInt(d[2]) + '. ' + months[parseInt(d[1]) - 1] + ' ' + d[0];
+        var city = e.city || (e.location ? e.location.split(',').slice(-1)[0].trim() : '');
+        dateText = df + (city ? ' · ' + city : '') +
+          (e.dateVariants && e.dateVariants.length > 1 ? ' · a další termíny' : '');
+      }
       var url = 'https://www.vibecoding.cz/akce/' + e.slug +
         '/?utm_source=marigold&utm_medium=web&utm_campaign=' + campaign;
 
@@ -68,13 +75,13 @@
           '<a href="' + url + '" class="promo-card-compact-link">' +
             '<div class="promo-card-compact">' +
               '<div class="promo-left">' +
-                '<span class="promo-badge-sm">Naše akce</span>' +
+                '<span class="promo-badge-sm">' + (isAd ? (e.badgeLabel || 'Tip') : 'Naše akce') + '</span>' +
                 '<span class="promo-title-sm">' + e.title + '</span>' +
-                '<span class="promo-meta">' + dateText + '</span>' +
+                (dateText ? '<span class="promo-meta">' + dateText + '</span>' : '') +
                 (e.bannerDescription ? '<span class="promo-meta">' + e.bannerDescription + '</span>' : '') +
               '</div>' +
               '<div class="promo-right">' +
-                '<span class="promo-cta-btn">Detaily &rarr;</span>' +
+                '<span class="promo-cta-btn">' + (isAd ? 'Více' : 'Detaily') + ' &rarr;</span>' +
               '</div>' +
             '</div>' +
           '</a>';
