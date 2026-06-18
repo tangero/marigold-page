@@ -9,6 +9,7 @@ fullName: "Algebraic Code-Excited Linear Prediction"
 category: "Services"
 segment: "Services"
 canonical: "https://3gpp-explorer.com/glossary/acelp/"
+infografika: "/assets/slovnik/acelp.jpg"
 summary: "ACELP je řečový kódovací algoritmus používaný ve standardech 3GPP pro efektivní kompresi hlasu. Poskytuje vysoce kvalitní řeč při nízkých přenosových rychlostech modelováním hlasového traktu a použití"
 ---
 

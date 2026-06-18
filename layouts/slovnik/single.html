@@ -19,6 +19,12 @@
     </div>
   </header>
 
+  {{ with .Params.infografika }}
+  <figure class="slovnik-infografika">
+    <img src="{{ . }}" alt="Schéma: {{ $.Params.abbr }} – {{ $.Params.fullName }}" width="1536" height="1024" loading="eager">
+  </figure>
+  {{ end }}
+
   <div class="entry slovnik-term-body">
     {{ .Content }}
   </div>
