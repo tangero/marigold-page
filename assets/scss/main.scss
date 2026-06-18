@@ -3672,6 +3672,20 @@ pre:has(code.language-mermaid), code.language-mermaid {
   }
 }
 
+// Infografika / schéma pojmu (světlé pozadí — neutrální rámeček i v dark mode)
+.slovnik-infografika {
+  margin: 0 0 28px;
+
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border: 1px solid $border-color;
+    border-radius: 10px;
+    background: #fff;
+  }
+}
+
 // --- Dark mode ---
 
 [data-theme="dark"] {
@@ -3746,6 +3760,10 @@ pre:has(code.language-mermaid), code.language-mermaid {
   .slovnik-group h2,
   .slovnik-term-head {
     border-bottom-color: #2a2d35;
+  }
+
+  .slovnik-infografika img {
+    border-color: #2a2d35;
   }
 
   .slovnik-item {
