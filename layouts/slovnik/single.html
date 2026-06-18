@@ -20,8 +20,20 @@
   </header>
 
   <div class="entry slovnik-term-body">
-    {{ with .Params.infografika }}
-      {{ $figure := printf `<figure class="slovnik-infografika"><img src="%s" alt="Schéma: %s – %s" width="1536" height="1024" loading="eager"></figure>` . $.Params.abbr $.Params.fullName }}
+    {{/* Infografika se odvozuje z názvu souboru ve static/assets/slovnik/<slug>.{svg,jpg,png}
+         — žádné front-matter pole, takže se nemůže ztratit při přegenerování slovníku.
+         Volitelné explicitní přepsání cesty přes .Params.infografika. */}}
+    {{ $img := .Params.infografika }}
+    {{ if not $img }}
+      {{ range slice "svg" "jpg" "png" }}
+        {{ $p := printf "assets/slovnik/%s.%s" $.File.ContentBaseName . }}
+        {{ if and (not $img) (fileExists (printf "static/%s" $p)) }}
+          {{ $img = printf "/%s" $p }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+    {{ if $img }}
+      {{ $figure := printf `<figure class="slovnik-infografika"><img src="%s" alt="Schéma: %s – %s" width="1536" height="1024" loading="eager"></figure>` $img $.Params.abbr $.Params.fullName }}
       {{/* Vloží infografiku za úvodní definici, před první nadpis (## Popis). */}}
       {{ if findRE `<h2` $.Content }}
         {{ replaceRE `(<h2)` (printf "%s$1" $figure) $.Content 1 | safeHTML }}

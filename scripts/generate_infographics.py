@@ -75,16 +75,25 @@ STYL (jednotný napříč všemi pojmy):
   - modrá #2563EB = funkční bloky/komponenty (výplň, bílý text uvnitř)
   - oranžová #EA580C = šipky a datové/signálové toky (čáry i jejich popisky)
   - zelená #16A34A = výstupy/parametry
-- Font: font-family="Inter, Arial, sans-serif". Bloky ~22px, popisky šipek ~17px, titulek ~36px.
+- Font: font-family="Inter, Arial, sans-serif". DŮLEŽITÉ — písmo musí být velké, protože
+  diagram se na webu zobrazuje zmenšený: text v blocích MIN. 30px, popisky šipek MIN. 26px,
+  titulek ~46px, podtitulek ~26px, legenda ~24px. NIKDY písmo menší než 24px.
+- Drž méně textu, ať se velké písmo vejde: krátké popisky (1–4 slova), zkratky místo dlouhých názvů.
 - Šipky jako <line>/<path> s marker-end (definuj <marker> s oranžovou hlavičkou).
 
 PRAVIDLA PROTI PŘEKRÝVÁNÍ (klíčové — diagram musí být čitelný):
-- Bloky rozmísti s dostatečnými mezerami: vodorovně min. 120px mezi sloupci, svisle min. 70px mezi řadami.
-- Popisek šipky umísti DOPROSTŘED nad/pod čáru, mimo bloky; nikdy přes blok ani přes jinou čáru.
-- Text popisku šipky drž krátký; pokud je dlouhý, rozděl na 2 řádky (<tspan>).
-- Bloky musí být dost velké, aby se text vešel dovnitř bez přetečení (šířka ≥ 150px).
-- Číslovaný postup vykresli jako prostý levý sloupec textu ve vyhrazeném pásu, ne vedle diagramu.
+- Bloky rozmísti ŠTĚDŘE: vodorovně min. 180px volného místa mezi sloupci bloků
+  (popisek šipky se musí vejít DO mezery, ne na blok), svisle min. 80px mezi řadami.
+- Popisek šipky NESMÍ překrývat žádný blok ani jinou čáru. Umísti ho do prázdné
+  mezery mezi bloky, vycentrovaný na čáru, s odstupem min. 40px od kraje obou bloků.
+- Pokud je popisek delší a do mezery se nevejde, ZKRAŤ ho (použij jen číslo rozhraní,
+  např. "N12") nebo rozděl na 2 řádky (<tspan>) — nikdy ho netlač přes blok.
+- U svislých/šikmých šipek dej popisek vedle čáry do volného prostoru, ne přes cílový blok.
+- Bloky dost velké, aby se text vešel dovnitř bez přetečení (šířka ≥ 160px).
+- Číslovaný postup vykresli jako prostý levý sloupec textu ve vyhrazeném pásu (y=720–900),
+  ne vedle diagramu; nesmí zasahovat do legendy (y=940+).
 - NEVYTVÁŘEJ prázdné boxy — každý box musí mít text. Pokud osnova nemá parametry, zelený panel vynech.
+- Než vrátíš SVG, mentálně zkontroluj: leží nějaký <text> popisku přes obdélník bloku? Pokud ano, posuň ho do volné mezery.
 
 OBSAH: VŠECHNY popisky česky včetně diakritiky, přesně podle osnovy. Buď fakticky věrný osnově.
 
@@ -166,7 +175,11 @@ def render_svg(client, model: str, abbr: str, full_name: str, content: str) -> s
     )
     out = (resp.choices[0].message.content or "").strip()
     m = re.search(r"<svg.*?</svg>", out, re.S)
-    return m.group(0) if m else out
+    svg = m.group(0) if m else out
+    # Sanitizace: odstraň XML komentáře (model do nich občas dá '--', což je
+    # nevalidní XML a rozbije render). V produkčním SVG nejsou potřeba.
+    svg = re.sub(r"<!--.*?-->", "", svg, flags=re.S)
+    return svg.strip()
 
 
 def set_front_matter_image(slug: str) -> bool:
