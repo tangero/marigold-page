@@ -16,7 +16,7 @@ DLD je parametr používaný v signalizaci 3GPP core sítě, například v BSSAP
 
 ## Popis
 
-Data Link Discriminator (DLD) je specifický identifikátor používaný v rámci signalizační architektury 3GPP core sítě, zejména ve spojení se sadou protokolů Base Station System Application Part ([BSSAP](/mobilnisite/slovnik/bssap/)). BSSAP usnadňuje komunikaci mezi Mobile Switching Center ([MSC](/mobilnisite/slovnik/msc/)) a Base Station System ([BSS](/mobilnisite/slovnik/bss/)) v sítích GSM. Úlohou DLD je rozlišovat mezi různými signalizačními spojeními nebo datovými spoji, které mohou existovat mezi stejnými dvěma síťovými entitami (např. MSC a [BSC](/mobilnisite/slovnik/bsc/)). Funguje jako lokální identifikátor na úrovni uživatele SCCP (Signaling Connection Control Part) pro asociaci příchozích BSSAP zpráv s konkrétním dialogem nebo transakčním kontextem.
+Data Link Discriminator (DLD) je specifický identifikátor používaný v rámci signalizační architektury 3GPP core sítě, zejména ve spojení se sadou protokolů Base Station System Application Part ([BSSAP](/mobilnisite/slovnik/bssap/)). BSSAP usnadňuje komunikaci mezi Mobile Switching Center ([MSC](/mobilnisite/slovnik/msc/)) a Base Station System ([BSS](/mobilnisite/slovnik/bss/)) v sítích GSM. Úlohou DLD je rozlišovat mezi různými signalizačními spojeními nebo datovými spoji, které mohou existovat mezi stejnými dvěma síťovými entitami (např. MSC a [BSC](/mobilnisite/slovnik/bsc/)). Funguje jako lokální identifikátor na úrovni uživatele [SCCP](/mobilnisite/slovnik/sccp/) (Signaling Connection Control Part) pro asociaci příchozích BSSAP zpráv s konkrétním dialogem nebo transakčním kontextem.
 
 V praktickém provozu, když je mezi MSC a BSS navázáno SCCP spojení pro specifický účel (jako je nastavení hovoru ukončeného mobilním účastníkem), začíná BSSAP dialog. Tomuto dialogu je přiřazena hodnota DLD. Všechny BSSAP zprávy patřící k tomuto konkrétnímu dialogu nebo procedurální instanci budou nést stejnou hodnotu DLD ve svém poli rozlišovače protokolu nebo v rámci struktury zprávy. Když MSC nebo BSS přijme BSSAP zprávu, použije DLD ve spojení s dalšími identifikátory, jako je Circuit Identity Code ([CIC](/mobilnisite/slovnik/cic/)) pro hovory vázané na okruh, k nalezení správného interního stavového automatu nebo instance hovoru, ke kterému se zpráva vztahuje.
 
@@ -42,6 +42,7 @@ Jeho vznik byl motivován potřebou robustní stavové signalizace v GSM. Protok
 ## Související pojmy
 
 - [BSSAP – Base Station Subsystem Application Part](/mobilnisite/slovnik/bssap/)
+- [SCCP – Signalling Connection Control Part](/mobilnisite/slovnik/sccp/)
 - [CIC – Call Identifier Code / Circuit Identifier Code](/mobilnisite/slovnik/cic/)
 - [MSC – Mobile Services Switching Centre](/mobilnisite/slovnik/msc/)
 - [BSS – Base Station Subsystem](/mobilnisite/slovnik/bss/)

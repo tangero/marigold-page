@@ -16,7 +16,7 @@ CFN je 12bitový čítač používaný v UMTS pro číslování rádiových rám
 
 ## Popis
 
-Connection Frame Number (CFN) je základní synchronizační mechanismus v rádiové přístupové síti UMTS (UTRAN), konkrétně pro vyhrazené kanály ([DCH](/mobilnisite/slovnik/dch/)). Jde o 12bitový čítač s cyklem od 0 do 4095, který jednoznačně čísluje každý 10ms rádiový rámec asociovaný s konkrétním transportním kanálovým spojením. CFN přiřadí řadič rádiové sítě (RNC) při zřízení rádiového spoje a sdělí jej uživatelskému zařízení (UE) a Node B. Jeho hlavní rolí je vytvořit sdílenou, jednoznačnou časovou referenci po dobu trvání spojení, což je nezbytné, protože RNC a Node B mohou mít nezávislé časové osy systémového čísla rámce (SFN).
+Connection Frame Number (CFN) je základní synchronizační mechanismus v rádiové přístupové síti UMTS ([UTRAN](/mobilnisite/slovnik/utran/)), konkrétně pro vyhrazené kanály ([DCH](/mobilnisite/slovnik/dch/)). Jde o 12bitový čítač s cyklem od 0 do 4095, který jednoznačně čísluje každý 10ms rádiový rámec asociovaný s konkrétním transportním kanálovým spojením. CFN přiřadí řadič rádiové sítě ([RNC](/mobilnisite/slovnik/rnc/)) při zřízení rádiového spoje a sdělí jej uživatelskému zařízení (UE) a Node B. Jeho hlavní rolí je vytvořit sdílenou, jednoznačnou časovou referenci po dobu trvání spojení, což je nezbytné, protože RNC a Node B mohou mít nezávislé časové osy systémového čísla rámce ([SFN](/mobilnisite/slovnik/sfn/)).
 
 Z architektonického hlediska CFN funguje na úrovni Transportního kanálu, mezi vrstvou [MAC](/mobilnisite/slovnik/mac/) a fyzickou vrstvou. RNC namapuje CFN na SFN Node B v okamžiku vysílání, což je proces definovaný parametry Frame Offset a Chip Offset. Toto mapování zajišťuje, že datové bloky naplánované k vysílání RNC jsou správně zarovnány s fyzickou strukturou rádiových rámců Node B. CFN je přenášen v klíčových signalizačních zprávách přes rozhraní Iub a Iur, například v proceduře Radio Link Setup a v rámci datových rámců Frame Protocol ([FP](/mobilnisite/slovnik/fp/)), aby byla zachována synchronizace mezi těmito síťovými prvky.
 
@@ -24,7 +24,7 @@ Během provozu CFN řídí několik kritických procedur. Používá se pro čas
 
 ## K čemu slouží
 
-CFN byl zaveden, aby vyřešil základní problém časové koordinace mezi řídicím RNC a bodem rádiového přenosu, Node B, v asynchronní architektuře UTRAN. V GSM bylo časování centralizovanější přes Base Station Controller ([BSC](/mobilnisite/slovnik/bsc/)). UMTS však zavedlo distribuovanější, paketově orientovanou RAN, kde RNC a Node B mohly mít nezávislé zdroje hodin. To vytvořilo potřebu spojení-specifické časové reference, která byla oddělena od absolutního časování buňky (SFN).
+CFN byl zaveden, aby vyřešil základní problém časové koordinace mezi řídicím [RNC](/mobilnisite/slovnik/rnc/) a bodem rádiového přenosu, Node B, v asynchronní architektuře [UTRAN](/mobilnisite/slovnik/utran/). V GSM bylo časování centralizovanější přes Base Station Controller (BSC). UMTS však zavedlo distribuovanější, paketově orientovanou RAN, kde RNC a Node B mohly mít nezávislé zdroje hodin. To vytvořilo potřebu spojení-specifické časové reference, která byla oddělena od absolutního časování buňky (SFN).
 
 Před zavedením CFN neexistovala standardizovaná metoda, jak zajistit, aby datové bloky odeslané z RNC byly vysílány Node B ve správný okamžik vzhledem k časování rádiového rozhraní. CFN tuto abstraktní vrstvu poskytuje. Umožňuje RNC plánovat a řídit přenos dat (včetně příkazů pro handover a řízení výkonu) pomocí jednoduchého, předvídatelného čítače, který je následně lokálně namapován každým Node B na jeho vlastní časovou osu SFN. Tím se řeší problémy časového driftu a nesouladu mezi síťovými prvky.
 
@@ -41,6 +41,7 @@ Jeho vytvoření bylo motivováno požadavky pokročilých funkcí UMTS, jako je
 
 ## Související pojmy
 
+- [SFN – System Frame Number](/mobilnisite/slovnik/sfn/)
 - [DCH – Dedicated Channel](/mobilnisite/slovnik/dch/)
 
 ## Definující specifikace

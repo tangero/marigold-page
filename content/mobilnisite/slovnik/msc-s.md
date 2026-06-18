@@ -16,11 +16,11 @@ MSC-S je řídicí rovinný prvek v síti 3GPP All-IP, který zpracovává signa
 
 ## Popis
 
-Mobile Switching Centre Server (MSC-S) je prvek jádra sítě zavedený jako součást architektury 3GPP All-IP a IP Multimedia Subsystem (IMS). Představuje vývoj tradičního monolitického [MSC](/mobilnisite/slovnik/msc/) oddělením funkcí řízení hovoru (signalizace) od funkcí přepojování médií (přenosových kanálů). MSC-S je zodpovědný za veškerou signalizaci řízení hovoru a správy mobility pro služby s přepojováním okruhů, jako jsou hlasové hovory a data s přepojováním okruhů. Komunikuje s uživatelským zařízením (UE) a dalšími síťovými uzly pomocí signalizačních protokolů, jako je [BSSAP](/mobilnisite/slovnik/bssap/) přes rozhraní A pro přístup 2G, RANAP přes rozhraní Iu-CS pro přístup 3G a [ISUP](/mobilnisite/slovnik/isup/)/BICC pro propojení s jinými sítěmi.
+Mobile Switching Centre Server (MSC-S) je prvek jádra sítě zavedený jako součást architektury 3GPP All-IP a IP Multimedia Subsystem (IMS). Představuje vývoj tradičního monolitického [MSC](/mobilnisite/slovnik/msc/) oddělením funkcí řízení hovoru (signalizace) od funkcí přepojování médií (přenosových kanálů). MSC-S je zodpovědný za veškerou signalizaci řízení hovoru a správy mobility pro služby s přepojováním okruhů, jako jsou hlasové hovory a data s přepojováním okruhů. Komunikuje s uživatelským zařízením (UE) a dalšími síťovými uzly pomocí signalizačních protokolů, jako je [BSSAP](/mobilnisite/slovnik/bssap/) přes rozhraní A pro přístup 2G, [RANAP](/mobilnisite/slovnik/ranap/) přes rozhraní Iu-CS pro přístup 3G a [ISUP](/mobilnisite/slovnik/isup/)/BICC pro propojení s jinými sítěmi.
 
-Architektonicky MSC-S spolupracuje s Media Gateway ([MGW](/mobilnisite/slovnik/mgw/)) pod kontrolou funkce Media Gateway Control Function ([MGCF](/mobilnisite/slovnik/mgcf/)) nebo přímo přes rozhraní Mc pomocí protokolů jako H.248 (Megaco). MSC-S dává pokyny MGW k vytváření, úpravám a uvolňování mediálních spojení (přenosových kanálů) pro uživatelský provoz, který je přenášen přes IP nebo [ATM](/mobilnisite/slovnik/atm/) sítě namísto tradičních TDM okruhů. Toto oddělení umožňuje nasazení MSC-S jako softwarové entity na standardních serverech, což zvyšuje škálovatelnost a flexibilitu. MSC-S také obsahuje funkci VLR pro správu dat navštěvujících účastníků, provádění autentizace a zpracování aktualizací polohy.
+Architektonicky MSC-S spolupracuje s Media Gateway ([MGW](/mobilnisite/slovnik/mgw/)) pod kontrolou funkce Media Gateway Control Function ([MGCF](/mobilnisite/slovnik/mgcf/)) nebo přímo přes rozhraní Mc pomocí protokolů jako H.248 (Megaco). MSC-S dává pokyny MGW k vytváření, úpravám a uvolňování mediálních spojení (přenosových kanálů) pro uživatelský provoz, který je přenášen přes IP nebo [ATM](/mobilnisite/slovnik/atm/) sítě namísto tradičních [TDM](/mobilnisite/slovnik/tdm/) okruhů. Toto oddělení umožňuje nasazení MSC-S jako softwarové entity na standardních serverech, což zvyšuje škálovatelnost a flexibilitu. MSC-S také obsahuje funkci VLR pro správu dat navštěvujících účastníků, provádění autentizace a zpracování aktualizací polohy.
 
-Při provozu MSC-S zpracovává požadavky na sestavení hovoru, provádí analýzu čísel a směrování, spravuje předávání hovoru (včetně přesunu SRNS v UMTS) a realizuje doplňkové služby. Rozhraní s Home Subscriber Server ([HSS](/mobilnisite/slovnik/hss/)) nebo [HLR](/mobilnisite/slovnik/hlr/) pro data účastníka. Pro tísňová volání může obsahovat specifické směrovací funkce. MSC-S podporuje jak starší služby s přepojováním okruhů, tak umožňuje konvergenci směrem k IP sítím, čímž slouží jako most během přechodu z TDM na jádrové sítě typu all-IP.
+Při provozu MSC-S zpracovává požadavky na sestavení hovoru, provádí analýzu čísel a směrování, spravuje předávání hovoru (včetně přesunu SRNS v UMTS) a realizuje doplňkové služby. Rozhraní s Home Subscriber Server (HSS) nebo HLR pro data účastníka. Pro tísňová volání může obsahovat specifické směrovací funkce. MSC-S podporuje jak starší služby s přepojováním okruhů, tak umožňuje konvergenci směrem k IP sítím, čímž slouží jako most během přechodu z TDM na jádrové sítě typu all-IP.
 
 ## K čemu slouží
 
@@ -40,6 +40,7 @@ Jeho vývoj byl motivován potřebou modernizace sítě, snížení provozních 
 ## Související pojmy
 
 - [MGW – Media Gateway](/mobilnisite/slovnik/mgw/)
+- [VLR – Visitor Location Register](/mobilnisite/slovnik/vlr/)
 
 ## Definující specifikace
 

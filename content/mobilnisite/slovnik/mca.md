@@ -28,7 +28,7 @@ Jeho role v síti je klíčová pro umožnění inteligentního, softwarově def
 
 MCA bylo vytvořeno pro řešení rostoucí složitosti a dynamické povahy streamování médií v mobilních sítích. Před jeho standardizací konfigurace a správa Media Streaming Engines často zahrnovala proprietární rozhraní specifická pro dodavatele nebo manuální zásahy prostřednictvím příkazového řádku. Tento nedostatek jednotnosti ztěžoval operátorům automatizaci pracovních postupů doručování médií, integraci [MSE](/mobilnisite/slovnik/mse/) s širšími systémy správy sítě a rychlé nasazování nových optimalizací streamování napříč nasazeními s více dodavateli.
 
-Motivace vycházela z explozivního růstu video provozu, který vyžaduje inteligentní, na síť citlivou adaptaci pro zajištění kvality uživatelského prožitku (QoE). Statické konfigurace nedostačovaly pro zvládání proměnlivých síťových podmínek a různých možností uživatelských zařízení. MCA poskytuje standardizovaný 'regulační prvek' pro externí inteligenci (jako je síťová analýza nebo [AI](/mobilnisite/slovnik/ai/)), aby dynamicky ladila chování MSE. To řeší problém rigidního, univerzálního doručování médií a umožňuje optimalizaci v reálném čase pro efektivitu šířky pásma, snížení latence a zlepšení kvality videa.
+Motivace vycházela z explozivního růstu video provozu, který vyžaduje inteligentní, na síť citlivou adaptaci pro zajištění kvality uživatelského prožitku ([QoE](/mobilnisite/slovnik/qoe/)). Statické konfigurace nedostačovaly pro zvládání proměnlivých síťových podmínek a různých možností uživatelských zařízení. MCA poskytuje standardizovaný 'regulační prvek' pro externí inteligenci (jako je síťová analýza nebo [AI](/mobilnisite/slovnik/ai/)), aby dynamicky ladila chování MSE. To řeší problém rigidního, univerzálního doručování médií a umožňuje optimalizaci v reálném čase pro efektivitu šířky pásma, snížení latence a zlepšení kvality videa.
 
 Historicky, jak se 3GPP vyvíjelo pro podporu rozšířených multimediálních služeb ve verzích 15 a 16, vznikla jasná potřeba formalizovat správu mediálních funkcí v rámci služební architektury 5G. MCA je v souladu s tímto trendem, neboť nabízí cloud-nativní, API-řízený přístup ke konfiguraci, podporuje síťové řezy (network slicing) pro mediální služby a umožňuje agilnější nasazování služeb a správu životního cyklu pro streamovací aplikace.
 
@@ -45,6 +45,7 @@ Historicky, jak se 3GPP vyvíjelo pro podporu rozšířených multimediálních 
 
 - [MSE – Mobility Speed Estimation](/mobilnisite/slovnik/mse/)
 - [ABR – Adaptive Bit Rate](/mobilnisite/slovnik/abr/)
+- [QoE – Quality of Experience](/mobilnisite/slovnik/qoe/)
 
 ## Definující specifikace
 

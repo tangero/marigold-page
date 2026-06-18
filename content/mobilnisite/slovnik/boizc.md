@@ -16,7 +16,7 @@ BOIZC je doplňková služba, která umožňuje operátorům mobilních sítí z
 
 ## Popis
 
-BOIZC (Barring of Outgoing InterZonal Calls) je standardizovaná doplňková služba definovaná ve specifikacích 3GPP, která poskytuje operátorům sítí detailní kontrolu nad schopností účastníků uskutečňovat odchozí hovory mezi různými geografickými zónami. Služba funguje na úrovni core sítě, konkrétně v rámci architektury Home Location Register ([HLR](/mobilnisite/slovnik/hlr/)) a Visitor Location Register (VLR), kde jsou udržovány a vynucovány profily služeb účastníků. Když se účastník pokusí uskutečnit hovor, síť ověří destinaci vůči předdefinovaným geografickým zónám a aplikuje logiku blokování na základě profilu předplatného služeb účastníka uloženého v HLR.
+BOIZC (Barring of Outgoing InterZonal Calls) je standardizovaná doplňková služba definovaná ve specifikacích 3GPP, která poskytuje operátorům sítí detailní kontrolu nad schopností účastníků uskutečňovat odchozí hovory mezi různými geografickými zónami. Služba funguje na úrovni core sítě, konkrétně v rámci architektury Home Location Register ([HLR](/mobilnisite/slovnik/hlr/)) a Visitor Location Register ([VLR](/mobilnisite/slovnik/vlr/)), kde jsou udržovány a vynucovány profily služeb účastníků. Když se účastník pokusí uskutečnit hovor, síť ověří destinaci vůči předdefinovaným geografickým zónám a aplikuje logiku blokování na základě profilu předplatného služeb účastníka uloženého v HLR.
 
 Technická implementace zahrnuje koordinaci několika síťových prvků. HLR ukládá předplatitelská data BOIZC jako součást profilu služeb účastníka, včetně konkrétních zón, ze kterých je účastníkovi zakázáno uskutečňovat odchozí hovory. Když účastník zahájí proceduru sestavení hovoru, Mobile Switching Center ([MSC](/mobilnisite/slovnik/msc/)) dotazuje VLR (který obsahuje kopii profilu služeb účastníka z HLR), aby zjistilo, zda cíl hovoru spadá do kategorie zakázaných mezizónových hovorů. MSC provádí geografickou analýzu volaného čísla vůči předdefinovaným definicím zón, které mohou být založeny na číslovacích plánech, kódech zemí nebo na specifických zónách definovaných operátorem sítě.
 
@@ -28,7 +28,7 @@ Služba hraje klíčovou roli v řízení síťových zdrojů a diferenciaci slu
 
 ## K čemu slouží
 
-BOIZC byl vyvinut, aby řešil rostoucí potřebu geografického řízení hovorů v stále složitějších mobilních sítích, které pokrývají více zemí a regionů. Jak se mobilní sítě rozšiřovaly přes národní hranice prostřednictvím roamingových dohod a partnerství nadnárodních operátorů, vznikla potřeba detailnější kontroly vzniku hovorů na základě geografických zón. Tradiční blokovací služby jako [BAOC](/mobilnisite/slovnik/baoc/) (Barring of All Outgoing Calls) a BOIC (Barring of Outgoing International Calls) poskytovaly pouze binární nebo příliš širokou kontrolu, která neodpovídala jemněji odlišeným geografickým servisním oblastem, které operátoři potřebovali spravovat.
+BOIZC byl vyvinut, aby řešil rostoucí potřebu geografického řízení hovorů v stále složitějších mobilních sítích, které pokrývají více zemí a regionů. Jak se mobilní sítě rozšiřovaly přes národní hranice prostřednictvím roamingových dohod a partnerství nadnárodních operátorů, vznikla potřeba detailnější kontroly vzniku hovorů na základě geografických zón. Tradiční blokovací služby jako BAOC (Barring of All Outgoing Calls) a BOIC (Barring of Outgoing International Calls) poskytovaly pouze binární nebo příliš širokou kontrolu, která neodpovídala jemněji odlišeným geografickým servisním oblastem, které operátoři potřebovali spravovat.
 
 Před implementací BOIZC čelili operátoři výzvám při zavádění tarifních plánů založených na zónách a při plnění regulatorních požadavků, které se lišily podle geografického regionu. Například některé regulatorní rámce vyžadovaly omezení hovorů do konkrétních sousedních zemí nebo regionů, zatímco hovory do jiných povolovaly. Operátoři také potřebovali vytvářet servisní balíčky, které umožňovaly hovory v rámci určitých zón, zatímco hovory do jiných blokovaly, což umožňovalo sofistikovanější tarifní struktury a nabídky služeb. Omezení stávajících blokovacích služeb nutila operátory implementovat proprietární řešení, kterým chyběla interoperabilita a standardizace napříč různými dodavateli síťového vybavení.
 
@@ -48,6 +48,7 @@ Vytvoření BOIZC v 3GPP Release 4 poskytlo standardizovaný přístup k geograf
 - [BAOC – Barring of All Outgoing Calls](/mobilnisite/slovnik/baoc/)
 - [BOIC – Barring of Outgoing International Calls](/mobilnisite/slovnik/boic/)
 - [HLR – Home Location Register](/mobilnisite/slovnik/hlr/)
+- [VLR – Visitor Location Register](/mobilnisite/slovnik/vlr/)
 
 ## Definující specifikace
 

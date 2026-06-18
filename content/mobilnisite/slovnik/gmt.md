@@ -16,9 +16,9 @@ GMT je globální časový standard používaný jako referenční bod pro synch
 
 ## Popis
 
-Greenwichský střední čas (GMT) je časový standard založený na středním slunečním čase v Královské observatoři v Greenwichi v Londýně. Ve specifikacích 3GPP slouží GMT jako základní časová reference pro synchronizaci sítě a časové značkování. Nejde o časové pásmo, ale o časovou stupnici, historicky definovanou rotací Země. V moderní telekomunikaci se GMT často prakticky používá zaměnitelně s koordinovaným světovým časem (UTC), přičemž UTC je přesnější atomový časový standard, který zahrnuje přestupné sekundy pro vyrovnání nepravidelností v rotaci Země. Použití GMT ve standardech 3GPP zajišťuje globálně uznávanou a jednoznačnou časovou referenci.
+Greenwichský střední čas (GMT) je časový standard založený na středním slunečním čase v Královské observatoři v Greenwichi v Londýně. Ve specifikacích 3GPP slouží GMT jako základní časová reference pro synchronizaci sítě a časové značkování. Nejde o časové pásmo, ale o časovou stupnici, historicky definovanou rotací Země. V moderní telekomunikaci se GMT často prakticky používá zaměnitelně s koordinovaným světovým časem ([UTC](/mobilnisite/slovnik/utc/)), přičemž UTC je přesnější atomový časový standard, který zahrnuje přestupné sekundy pro vyrovnání nepravidelností v rotaci Země. Použití GMT ve standardech 3GPP zajišťuje globálně uznávanou a jednoznačnou časovou referenci.
 
-Z architektonického hlediska je GMT integrováno do systémů 3GPP jako reference pro časové značkování událostí a synchronizaci síťových operací. Síťové prvky, jako jsou systémy účtování, funkce zákonného odposlechu a systémy správy sítě, spoléhají na časová razítka GMT pro zaznamenávání událostí, jako jsou časy zahájení/ukončení hovoru, zahájení datové relace a bezpečnostní incidenty. Tato časová reference je klíčová pro korelaci událostí napříč různými síťovými doménami a geografickými lokalitami. Implementace zahrnuje přístup síťových prvků ke spolehlivému časovému zdroji, často prostřednictvím protokolu NTP (Network Time Protocol) nebo PTP (Precision Time Protocol), které jsou synchronizovány s UTC/GMT.
+Z architektonického hlediska je GMT integrováno do systémů 3GPP jako reference pro časové značkování událostí a synchronizaci síťových operací. Síťové prvky, jako jsou systémy účtování, funkce zákonného odposlechu a systémy správy sítě, spoléhají na časová razítka GMT pro zaznamenávání událostí, jako jsou časy zahájení/ukončení hovoru, zahájení datové relace a bezpečnostní incidenty. Tato časová reference je klíčová pro korelaci událostí napříč různými síťovými doménami a geografickými lokalitami. Implementace zahrnuje přístup síťových prvků ke spolehlivému časovému zdroji, často prostřednictvím protokolu [NTP](/mobilnisite/slovnik/ntp/) (Network Time Protocol) nebo [PTP](/mobilnisite/slovnik/ptp/) (Precision Time Protocol), které jsou synchronizovány s UTC/GMT.
 
 Role GMT se rozšiřuje o zajištění chronologické přesnosti v záznamech pro účtování, kde jsou přesná časová razítka nezbytná pro generování přesných záznamů účtovatelných událostí. V zákonném odposlechu jsou časová razítka GMT povinná pro informace související s odposlechem, aby byla zachována právní přípustnost důkazů a umožněny vyšetřování přesahující jurisdikce. Dále systémy správy sítě používají GMT pro zaznamenávání alarmů, měření výkonu a změn konfigurace, což usnadňuje řešení problémů a auditní trasování. Specifikace GMT v dokumentech, jako je 3GPP TS 29.458 (pro Service Capability Exposure Function) a TS 29.658 (pro interakci s aplikačním serverem), podtrhuje její význam v časových razítcích [API](/mobilnisite/slovnik/api/) a frameworkech pro vystavování služeb.
 
@@ -40,6 +40,12 @@ GMT dále řeší omezení předchozích ad-hoc přístupů, kdy byla časová s
 - Umožňuje korelaci událostí napříč různými síťovými doménami a geografickými oblastmi
 - Používá se v síťovém managementu pro zaznamenávání alarmů a dat o výkonu
 - Je integrováno do API 3GPP (např. SCEF, AS) pro konzistentní časové značkování při vystavování služeb
+
+## Související pojmy
+
+- [UTC – Coordinated Universal Time](/mobilnisite/slovnik/utc/)
+- [NTP – Network Time Protocol](/mobilnisite/slovnik/ntp/)
+- [PTP – Physical Termination Point](/mobilnisite/slovnik/ptp/)
 
 ## Definující specifikace
 

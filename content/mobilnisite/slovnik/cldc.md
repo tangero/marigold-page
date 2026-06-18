@@ -16,9 +16,9 @@ CLDC je standardizovaný 3GPP rámec pro zařízení IoT s omezenými prostředk
 
 ## Popis
 
-Connected Limited Device Configuration (CLDC) je komplexní rámec v rámci specifikací 3GPP, který stanovuje standardizované konfigurace pro zařízení IoT s omezenými prostředky. Na rozdíl od tradičních mobilních zařízení pracují zařízení CLDC pod přísnými omezeními v paměti (RAM i ROM), výpočetní kapacitě a dostupnosti energie. Rámec definuje povinné a volitelné schopnosti napříč více vrstvami protokolového zásobníku, což zajišťuje, že tato zařízení se mohou připojit k celulárním sítím při zachování minimální složitosti a nákladů.
+Connected Limited Device Configuration (CLDC) je komplexní rámec v rámci specifikací 3GPP, který stanovuje standardizované konfigurace pro zařízení IoT s omezenými prostředky. Na rozdíl od tradičních mobilních zařízení pracují zařízení CLDC pod přísnými omezeními v paměti ([RAM](/mobilnisite/slovnik/ram/) i [ROM](/mobilnisite/slovnik/rom/)), výpočetní kapacitě a dostupnosti energie. Rámec definuje povinné a volitelné schopnosti napříč více vrstvami protokolového zásobníku, což zajišťuje, že tato zařízení se mohou připojit k celulárním sítím při zachování minimální složitosti a nákladů.
 
-Z architektonického hlediska CLDC zahrnuje specifikace pro adaptace fyzické vrstvy, zjednodušené procedury řízení rádiových prostředků a optimalizované signalizační protokoly. Definuje, jak tato zařízení komunikují se sítí během fází připojení, mobility a přenosu dat. Mezi klíčové komponenty patří mechanismy úspory energie, jako je rozšířené nespojité příjímání (eDRX) a režim úspory energie (PSM), zjednodušené autentizační procedury a podpora optimalizací pro přenos malých objemů dat. Konfigurace také řeší požadavky na správu paměti, specifikuje minimální velikosti vyrovnávacích pamětí a výpočetní schopnosti potřebné pro základní celulární operace.
+Z architektonického hlediska CLDC zahrnuje specifikace pro adaptace fyzické vrstvy, zjednodušené procedury řízení rádiových prostředků a optimalizované signalizační protokoly. Definuje, jak tato zařízení komunikují se sítí během fází připojení, mobility a přenosu dat. Mezi klíčové komponenty patří mechanismy úspory energie, jako je rozšířené nespojité příjímání (eDRX) a režim úspory energie ([PSM](/mobilnisite/slovnik/psm/)), zjednodušené autentizační procedury a podpora optimalizací pro přenos malých objemů dat. Konfigurace také řeší požadavky na správu paměti, specifikuje minimální velikosti vyrovnávacích pamětí a výpočetní schopnosti potřebné pro základní celulární operace.
 
 V síťovém provozu zařízení CLDC implementují zjednodušené verze standardních protokolů za účelem snížení signalizační režie a výpočetních požadavků. To zahrnuje zjednodušené stavy [RRC](/mobilnisite/slovnik/rrc/), redukované procedury správy mobility a optimalizované mechanismy pagingu. Rámec zajišťuje, že tato zařízení mohou udržovat síťovou konektivitu při spotřebě minimální energie, což často umožňuje životnost baterie v řádu několika let. Konfigurace CLDC jsou navrženy tak, aby fungovaly s rádiovými technologiemi LTE-M i NB-IoT, což poskytuje flexibilitu pro různé případy užití IoT s různými požadavky na přenosovou rychlost, latenci a pokrytí.
 
@@ -40,6 +40,10 @@ Definováním jasných konfiguračních profilů CLDC řešil omezení předchoz
 - Podpora pro rádiové technologie LTE-M i NB-IoT
 - Zpětná kompatibilita se stávajícími celulárními sítěmi
 - Vylepšené pokrytí pro hluboké vnitřní a venkovské nasazení
+
+## Související pojmy
+
+- [PSM – Protocol State Machine](/mobilnisite/slovnik/psm/)
 
 ## Definující specifikace
 

@@ -16,9 +16,9 @@ JBM (správa jitterového bufferu) je řízení jitterových bufferů pomocí te
 
 ## Popis
 
-Správa jitterového bufferu (JBM) označuje soubor mechanismů a politik používaných k řízení jitterového bufferu v paketových mediálních tocích v reálném čase. Jitterový buffer je fronta na přijímací straně, která krátce ukládá příchozí pakety, aby kompenzovala síťový jitter (variace v časech příchodu paketů). JBM zahrnuje dynamické přizpůsobování parametrů bufferu, jako je velikost, zpoždění přehrávání a strategie zpracování paketů, na základě pozorovaných síťových podmínek. Jejím cílem je minimalizovat jak latenci přehrávání, tak ztrátu paketů způsobenou pozdním příchodem, a tím optimalizovat kvalitu uživatelského zážitku (QoE).
+Správa jitterového bufferu (JBM) označuje soubor mechanismů a politik používaných k řízení jitterového bufferu v paketových mediálních tocích v reálném čase. Jitterový buffer je fronta na přijímací straně, která krátce ukládá příchozí pakety, aby kompenzovala síťový jitter (variace v časech příchodu paketů). JBM zahrnuje dynamické přizpůsobování parametrů bufferu, jako je velikost, zpoždění přehrávání a strategie zpracování paketů, na základě pozorovaných síťových podmínek. Jejím cílem je minimalizovat jak latenci přehrávání, tak ztrátu paketů způsobenou pozdním příchodem, a tím optimalizovat kvalitu uživatelského zážitku ([QoE](/mobilnisite/slovnik/qoe/)).
 
-Z architektonického hlediska je JBM implementována v rámci komponent pro zpracování médií v UE nebo v mediální bráně, často jako součást zásobníku Real-Time Transport Protocol (RTP) nebo specializovaného mediálního procesoru. Funguje tak, že monitoruje časy mezi příchody paketů, odhaduje aktuální jitter a podle toho přizpůsobuje hloubku bufferu. Mezi klíčové algoritmy patří statické buffering, adaptivní buffering (kde se velikost bufferu dynamicky mění) a prediktivní algoritmy, které předvídají vzorce jitteru. Správa také zahrnuje rozhodování o zahazování paketů (u nadměrně opožděných paketů) a úpravy rychlosti přehrávání. Její role v síti je klíčová pro udržení přijatelné kvality zvuku/videa ve službách, jako je VoIP, videokonference a streamování přes IP sítě, které jsou nedílnou součástí IP Multimedia Subsystem (IMS) specifikace 3GPP a pozdějších hlasových/videokomunikačních služeb.
+Z architektonického hlediska je JBM implementována v rámci komponent pro zpracování médií v UE nebo v mediální bráně, často jako součást zásobníku Real-Time Transport Protocol ([RTP](/mobilnisite/slovnik/rtp/)) nebo specializovaného mediálního procesoru. Funguje tak, že monitoruje časy mezi příchody paketů, odhaduje aktuální jitter a podle toho přizpůsobuje hloubku bufferu. Mezi klíčové algoritmy patří statické buffering, adaptivní buffering (kde se velikost bufferu dynamicky mění) a prediktivní algoritmy, které předvídají vzorce jitteru. Správa také zahrnuje rozhodování o zahazování paketů (u nadměrně opožděných paketů) a úpravy rychlosti přehrávání. Její role v síti je klíčová pro udržení přijatelné kvality zvuku/videa ve službách, jako je VoIP, videokonference a streamování přes IP sítě, které jsou nedílnou součástí IP Multimedia Subsystem (IMS) specifikace 3GPP a pozdějších hlasových/videokomunikačních služeb.
 
 Specifikace pokrývá různé metody JBM, jejich výkon za různých síťových podmínek a jejich dopad na end-to-end zpoždění a ztrátu paketů. Podrobně popisuje, jak interagují úpravy bufferu s dalšími mechanismy QoS, jako je priorizace paketů a řízení zahlcení. JBM je klíčovou součástí zajištění toho, aby služby v reálném čase splňovaly očekávání uživatelů navzdory inherentní nepředvídatelnosti paketových sítí.
 
@@ -36,6 +36,11 @@ JBM byla zavedena, aby řešila problém variace zpoždění paketů (jitteru) v
 - Podporuje různé algoritmy (statické, adaptivní, prediktivní) pro různé scénáře
 - Integruje se s RTP/RTCP pro monitorování statistik příchodu paketů
 - Klíčová pro kvalitu uživatelského zážitku (QoE) u VoIP, videohovorů a streamování
+
+## Související pojmy
+
+- [RTP – Real-time Transport Protocol](/mobilnisite/slovnik/rtp/)
+- [QoE – Quality of Experience](/mobilnisite/slovnik/qoe/)
 
 ## Definující specifikace
 

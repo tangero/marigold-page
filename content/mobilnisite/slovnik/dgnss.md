@@ -22,11 +22,11 @@ Architektura zahrnuje referenční stanice na přesně zaměřených lokalitách
 
 V mobilním zařízení se korekce DGNSS aplikují na surová měření GNSS před výpočtem polohy. UE přijímá asistenční data včetně souřadnic referenčních stanic, korekčních parametrů a informací o platnosti. Zařízení tyto údaje kombinuje s vlastními měřeními GNSS, aby vypočítalo korigovanou polohu s výrazně lepší přesností než při použití samostatného GNSS. Systém podporuje jak korekce v reálném čase pro dynamické aplikace, tak následné zpracování pro aplikace vyžadující přesnost na úrovni geodetického měření.
 
-DGNSS je integrován do polohovací architektury 3GPP prostřednictvím platformy Secure User Plane Location (SUPL) a protokolů pro polohování přes řídicí rovinu. Funguje spolu s dalšími metodami polohování, jako je Assisted GNSS ([A-GNSS](/mobilnisite/slovnik/a-gnss/)), Observed Time Difference of Arrival ([OTDOA](/mobilnisite/slovnik/otdoa/)) a Enhanced Cell ID ([E-CID](/mobilnisite/slovnik/e-cid/)), aby poskytoval komplexní polohové služby. Služba je zvláště cenná pro aplikace vyžadující vysokou přesnost, včetně tísňových služeb (E911/E112), vozidlové navigace, geodetického měření a služeb založených na poloze, které potřebují přesnost přesahující možnosti standardního GNSS.
+DGNSS je integrován do polohovací architektury 3GPP prostřednictvím platformy Secure User Plane Location ([SUPL](/mobilnisite/slovnik/supl/)) a protokolů pro polohování přes řídicí rovinu. Funguje spolu s dalšími metodami polohování, jako je Assisted GNSS ([A-GNSS](/mobilnisite/slovnik/a-gnss/)), Observed Time Difference of Arrival ([OTDOA](/mobilnisite/slovnik/otdoa/)) a Enhanced Cell ID ([E-CID](/mobilnisite/slovnik/e-cid/)), aby poskytoval komplexní polohové služby. Služba je zvláště cenná pro aplikace vyžadující vysokou přesnost, včetně tísňových služeb (E911/E112), vozidlové navigace, geodetického měření a služeb založených na poloze, které potřebují přesnost přesahující možnosti standardního GNSS.
 
 ## K čemu slouží
 
-DGNSS byl zaveden, aby řešil omezení přesnosti standardního polohování [GNSS](/mobilnisite/slovnik/gnss/) v mobilních sítích. Zatímco Assisted GNSS ([A-GNSS](/mobilnisite/slovnik/a-gnss/)) zlepšilo čas do prvního fixu a citlivost v indoor/urbánním prostředí, významně nezlepšilo přesnost polohování, která za ideálních podmínek zůstávala na úrovni 5-10 metrů. Mnoho aplikací, zejména tísňové služby, vozidlová navigace a komerční služby založené na poloze, vyžadovalo vyšší přesnost, kterou standardní GNSS nemohl spolehlivě poskytnout kvůli atmosférickým chybám, nepřesnostem satelitních hodin a nejistotám orbitálních efemerid.
+DGNSS byl zaveden, aby řešil omezení přesnosti standardního polohování [GNSS](/mobilnisite/slovnik/gnss/) v mobilních sítích. Zatímco Assisted GNSS (A-GNSS) zlepšilo čas do prvního fixu a citlivost v indoor/urbánním prostředí, významně nezlepšilo přesnost polohování, která za ideálních podmínek zůstávala na úrovni 5-10 metrů. Mnoho aplikací, zejména tísňové služby, vozidlová navigace a komerční služby založené na poloze, vyžadovalo vyšší přesnost, kterou standardní GNSS nemohl spolehlivě poskytnout kvůli atmosférickým chybám, nepřesnostem satelitních hodin a nejistotám orbitálních efemerid.
 
 Technologie řeší problém společných chyb v měřeních GNSS využitím principu, že přijímače v těsné blízkosti zaznamenávají podobné atmosférické a satelitní chyby. Zřízením referenčních stanic s přesně známými polohami lze tyto společné chyby změřit a vysílat jako korekce do mobilních zařízení. Tento přístup umožňuje přesnost na úrovni centimetrů až metrů bez nutnosti drahých dvoufrekvenčních přijímačů v spotřebitelských zařízeních, čímž činí vysokopřesné polohování ekonomicky proveditelným pro masové aplikace.
 
@@ -44,6 +44,7 @@ Technologie řeší problém společných chyb v měřeních GNSS využitím pri
 ## Související pojmy
 
 - [A-GNSS – Assisted Global Navigation Satellite Systems](/mobilnisite/slovnik/a-gnss/)
+- [SUPL – Secure User Plane for Location](/mobilnisite/slovnik/supl/)
 - [OTDOA – Observed Time Difference Of Arrival](/mobilnisite/slovnik/otdoa/)
 - [E-CID – Enhanced Cell-ID](/mobilnisite/slovnik/e-cid/)
 - [LPP – LTE Positioning Protocol](/mobilnisite/slovnik/lpp/)

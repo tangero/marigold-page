@@ -43,6 +43,8 @@ Historicky zavedení BLER ve 3GPP Release 99 představovalo významný pokrok op
 
 ## Související pojmy
 
+- [SINR – Signal to Interference plus Noise Ratio](/mobilnisite/slovnik/sinr/)
+- [RSRP – Reference Signal Received Power](/mobilnisite/slovnik/rsrp/)
 - [HARQ – Hybrid Automatic Repeat Request](/mobilnisite/slovnik/harq/)
 - [MCS – Modulation and Coding Schemes](/mobilnisite/slovnik/mcs/)
 - [CQI – Channel Quality Indicator](/mobilnisite/slovnik/cqi/)

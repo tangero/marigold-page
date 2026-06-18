@@ -16,7 +16,7 @@ EPLMN je seznam veřejných pozemních mobilních sítí (PLMN) považovaných z
 
 ## Popis
 
-Ekvivalentní PLMN (EPLMN) je koncept identifikátoru sítě klíčový pro správu mobility v systémech 3GPP. Když se uživatelské zařízení (UE) zaregistruje v síti (své registrované PLMN neboli RPLMN), může mu síť v rámci zprávy Attach Accept nebo Tracking Area Update Accept poskytnout seznam dalších identifikátorů PLMN (PLMN ID), které má UE považovat za ekvivalentní RPLMN pro účely výběru buňky, převýběru buňky a předání spojení. UE ukládá tento seznam EPLMN do své nevolatilní paměti spolu s RPLMN. Primární technickou funkcí je rozšířit koncept 'domovského' území UE za rámec jediného identifikátoru PLMN.
+Ekvivalentní [PLMN](/mobilnisite/slovnik/plmn/) (EPLMN) je koncept identifikátoru sítě klíčový pro správu mobility v systémech 3GPP. Když se uživatelské zařízení (UE) zaregistruje v síti (své registrované PLMN neboli [RPLMN](/mobilnisite/slovnik/rplmn/)), může mu síť v rámci zprávy Attach Accept nebo Tracking Area Update Accept poskytnout seznam dalších identifikátorů PLMN (PLMN ID), které má UE považovat za ekvivalentní RPLMN pro účely výběru buňky, převýběru buňky a předání spojení. UE ukládá tento seznam EPLMN do své nevolatilní paměti spolu s RPLMN. Primární technickou funkcí je rozšířit koncept 'domovského' území UE za rámec jediného identifikátoru PLMN.
 
 Provozně, během procedur v režimu nečinnosti, jako je výběr a převýběr buňky, UE vyhodnocuje dostupné buňky. Pokud buňka patří k PLMN, která je v seznamu EPLMN (nebo se shoduje s RPLMN), je upřednostněna jako kandidát s nejvyšší prioritou. To znamená, že se UE pokusí připojit k EPLMN a zaregistrovat se v ní stejně snadno jako ve své RPLMN, aniž by ji považovala za 'cizí' síť vyžadující manuální výběr nebo roamingové dohody pro základní přístup. Seznam EPLMN je řízen sítí a může být dynamicky aktualizován signalizací, což operátorům umožňuje spravovat partnerství a dohody o sdílení sítě v reálném čase.
 
@@ -24,9 +24,9 @@ Jeho role je klíčová v moderních nasazeních sítí, zejména ve scénáří
 
 ## K čemu slouží
 
-Koncept EPLMN byl zaveden, aby řešil rostoucí složitost scénářů sdílení sítí, národního roamingu a fúzí v mobilním průmyslu. Před jeho formalizací by UE bralo v úvahu pouze svou registrovanou [HPLMN](/mobilnisite/slovnik/hplmn/) (Home PLMN) nebo, v případech roamingu, VPLMN (Visited PLMN) z předem nakonfigurovaného seznamu. Tento rigidní model vytvářel neefektivitu a problémy s uživatelským zážitkem v prostředích se sdílenými sítěmi. Například v zemi s dohodou o sdílení sítě se mohlo UE připojit k slabému signálu z exkluzivní buňky svého vlastního operátora, zatímco mnohem silnější signál z buňky sdíleného partnera (vysílající jiný identifikátor PLMN) byl dostupný, ale považován za nižší prioritu.
+Koncept EPLMN byl zaveden, aby řešil rostoucí složitost scénářů sdílení sítí, národního roamingu a fúzí v mobilním průmyslu. Před jeho formalizací by UE bralo v úvahu pouze svou registrovanou [HPLMN](/mobilnisite/slovnik/hplmn/) (Home [PLMN](/mobilnisite/slovnik/plmn/)) nebo, v případech roamingu, [VPLMN](/mobilnisite/slovnik/vplmn/) (Visited PLMN) z předem nakonfigurovaného seznamu. Tento rigidní model vytvářel neefektivitu a problémy s uživatelským zážitkem v prostředích se sdílenými sítěmi. Například v zemi s dohodou o sdílení sítě se mohlo UE připojit k slabému signálu z exkluzivní buňky svého vlastního operátora, zatímco mnohem silnější signál z buňky sdíleného partnera (vysílající jiný identifikátor PLMN) byl dostupný, ale považován za nižší prioritu.
 
-Zavedení EPLMN ve verzi 11 (Release 11) poskytlo standardizovaný, dynamický mechanismus, který operátorům umožňuje deklarovat partnerské a ekvivalentní vztahy. Řeší problém statických, na SIM kartě založených roamingových seznamů tím, že síti umožňuje informovat UE v reálném čase o tom, které další sítě mají být považovány za 'ekvivalentní domovské'. To umožňuje plynulé rozdělení provozu napříč sdílenou infrastrukturou RAN, zlepšuje celkovou kapacitu sítě a uživatelský zážitek tím, že umožňuje UE připojit se k nejlepšímu dostupnému signálu bez ohledu na konkrétní vysílaný identifikátor PLMN, a zjednodušuje provozní správu pro operátory zapojené do sdílení sítí nebo pro ty, kteří procházejí fúzemi, kde je třeba pro účastníky sloučit více starších identifikátorů PLMN.
+Zavedení EPLMN ve verzi 11 (Release 11) poskytlo standardizovaný, dynamický mechanismus, který operátorům umožňuje deklarovat partnerské a ekvivalentní vztahy. Řeší problém statických, na [SIM](/mobilnisite/slovnik/sim/) kartě založených roamingových seznamů tím, že síti umožňuje informovat UE v reálném čase o tom, které další sítě mají být považovány za 'ekvivalentní domovské'. To umožňuje plynulé rozdělení provozu napříč sdílenou infrastrukturou RAN, zlepšuje celkovou kapacitu sítě a uživatelský zážitek tím, že umožňuje UE připojit se k nejlepšímu dostupnému signálu bez ohledu na konkrétní vysílaný identifikátor PLMN, a zjednodušuje provozní správu pro operátory zapojené do sdílení sítí nebo pro ty, kteří procházejí fúzemi, kde je třeba pro účastníky sloučit více starších identifikátorů PLMN.
 
 ## Klíčové vlastnosti
 
@@ -39,7 +39,10 @@ Zavedení EPLMN ve verzi 11 (Release 11) poskytlo standardizovaný, dynamický m
 
 ## Související pojmy
 
+- [PLMN – Public Land Mobile Network](/mobilnisite/slovnik/plmn/)
+- [RPLMN – Registered Public Land Mobile Network](/mobilnisite/slovnik/rplmn/)
 - [HPLMN – Home Public Land Mobile Network](/mobilnisite/slovnik/hplmn/)
+- [VPLMN – Visited Public Land Mobile Network](/mobilnisite/slovnik/vplmn/)
 - [MOCN – Multiple Operator Core Network](/mobilnisite/slovnik/mocn/)
 
 ## Definující specifikace

@@ -28,7 +28,7 @@ Funkce LND byla vytvořena jako odpověď na potřebu uživatelského pohodlí a
 
 Její zavedení v Rel-5, jako součást širší sady doplňkových služeb GSM/UMTS, odráželo snahu průmyslu zlepšit uživatelský zážitek ze základní hlasové služby. Řešila jasné omezení předchozích ručních způsobů vytáčení. I když se zdála triviální, byly takové funkce klíčové pro přijetí a spokojenost uživatelů na konkurenčních telekomunikačních trzích. Motivací bylo udělat telefon 'chytřejším' a uživatelsky přívětivějším, tedy snížit počet kroků potřebných pro běžné úkony.
 
-I když se sítě vyvíjely směrem k VoIP a volání založenému na IMS, funkce převolání zůstala základním prvkem uživatelského rozhraní telefonu, ačkoli její implementace se stala zcela závislou na koncovém zařízení. V kontextu IMS provádí klient SIP UA na zařízení podobnou funkci zaznamenávání a převolání pro SIP URI nebo tel URI. Funkce LND tak představuje raný a trvalý příklad služby zaměřené na uživatele, navržené k minimalizaci úsilí a maximalizaci užitečnosti hlasové komunikační služby.
+I když se sítě vyvíjely směrem k VoIP a volání založenému na IMS, funkce převolání zůstala základním prvkem uživatelského rozhraní telefonu, ačkoli její implementace se stala zcela závislou na koncovém zařízení. V kontextu IMS provádí klient [SIP](/mobilnisite/slovnik/sip/) [UA](/mobilnisite/slovnik/ua/) na zařízení podobnou funkci zaznamenávání a převolání pro SIP [URI](/mobilnisite/slovnik/uri/) nebo tel URI. Funkce LND tak představuje raný a trvalý příklad služby zaměřené na uživatele, navržené k minimalizaci úsilí a maximalizaci užitečnosti hlasové komunikační služby.
 
 ## Klíčové vlastnosti
 
@@ -41,6 +41,7 @@ I když se sítě vyvíjely směrem k VoIP a volání založenému na IMS, funkc
 
 ## Související pojmy
 
+- [USSD – Unstructured Supplementary Services Data](/mobilnisite/slovnik/ussd/)
 - [eNB – Evolved Node B](/mobilnisite/slovnik/enb/)
 
 ## Definující specifikace

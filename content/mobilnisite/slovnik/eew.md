@@ -18,7 +18,7 @@ EEW je služba standardizovaná 3GPP, která doručuje rychlá varování před 
 
 Earthquake Early Warning (EEW) je systém varování veřejnosti standardizovaný 3GPP, navržený k okamžitému doručení varování masovému publiku prostřednictvím mobilních sítí po detekci zemětřesení. Systém je architekturován tak, aby minimalizoval latenci od detekce seizmické události k oznámení veřejnosti. Funguje integrací sítí seizmických senzorů, které detekují primární (P) vlny, s infrastrukturou celulární sítě. Po detekci je vygenerována varovná zpráva a vložena do Cell Broadcast Centre ([CBC](/mobilnisite/slovnik/cbc/)) sítě. CBC následně distribuuje varování prostřednictvím Cell Broadcast Service ([CBS](/mobilnisite/slovnik/cbs/)) přes LTE nebo 5G rádiovou přístupovou síť pomocí System Information Blocks (SIBs) nebo vyhrazených varovných zpráv. Tyto zprávy jsou vysílány na všechna User Equipment (UE) v postižené geografické oblasti, nezávisle na jakémkoli předplatném nebo probíhajícím hovoru, což zajišťuje komplexní pokrytí.
 
-Technická implementace se opírá o existující rámce pro varovné zprávy definované v 3GPP, jako je Public Warning System (PWS), který zahrnuje Earthquake and Tsunami Warning System (ETWS) v LTE a vylepšení Commercial Mobile Alert System ([CMAS](/mobilnisite/slovnik/cmas/)). Zpráva EEW obsahuje kritické informace, jako je odhadovaný čas příchodu destruktivnějších sekundárních (S) vln, odhadovaná intenzita a poloha epicentra. UE po přijetí vysílání zprávu zpracuje a může spustit zvukový alarm, vibrace a varování na obrazovce, i když je zařízení v tichém režimu, čímž je zajištěno upozornění uživatele.
+Technická implementace se opírá o existující rámce pro varovné zprávy definované v 3GPP, jako je Public Warning System ([PWS](/mobilnisite/slovnik/pws/)), který zahrnuje Earthquake and Tsunami Warning System (ETWS) v LTE a vylepšení Commercial Mobile Alert System ([CMAS](/mobilnisite/slovnik/cmas/)). Zpráva EEW obsahuje kritické informace, jako je odhadovaný čas příchodu destruktivnějších sekundárních (S) vln, odhadovaná intenzita a poloha epicentra. UE po přijetí vysílání zprávu zpracuje a může spustit zvukový alarm, vibrace a varování na obrazovce, i když je zařízení v tichém režimu, čímž je zajištěno upozornění uživatele.
 
 Role EEW v síti spočívá v poskytování služby vysílání (broadcast) s kriticky nízkou latencí a vysokou prioritou. Nevyžaduje žádné nastavení ani potvrzení od UE, což umožňuje okamžité doručení. Síť musí zajistit, aby bylo varování šířeno s minimálním zpožděním přes Core Network do Radio Access Network (RAN) a vysíláno přes správné sledovací oblasti (tracking areas). To zahrnuje koordinaci mezi subjektem generujícím varování (často národní geologickou agenturou), prvky core sítě mobilního operátora (jako je [MME](/mobilnisite/slovnik/mme/) v LTE nebo [AMF](/mobilnisite/slovnik/amf/) v 5GC) a uzly RAN (eNBs/gNBs). Služba je příkladem využití celulárních sítí pro bezpečnost společnosti nad rámec tradiční komunikace.
 
@@ -39,7 +39,9 @@ Historicky se systémy včasného varování spoléhaly na vyhrazené sirény, r
 
 ## Související pojmy
 
+- [PWS – Plane Wave Synthesizer](/mobilnisite/slovnik/pws/)
 - [CBS – Cell Broadcast Service](/mobilnisite/slovnik/cbs/)
+- [SIB – System Information Block](/mobilnisite/slovnik/sib/)
 
 ## Definující specifikace
 

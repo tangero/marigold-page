@@ -16,13 +16,13 @@ BPS je funkce 3GPP, která umožňuje uživatelskému zařízení (UE) detekovat
 
 ## Popis
 
-Body Proximity Sensing (BPS) je standardizovaný mechanismus zavedený ve 3GPP Release 17, který umožňuje uživatelskému zařízení (UE) dynamicky detekovat svou blízkost k lidskému tělu a podle toho upravit své parametry rádiového vysílání. Primárním technickým cílem je zajistit dodržování regulatorních limitů specifické míry absorpce (SAR), která měří rychlost absorpce RF energie tělesnou tkání. BPS funguje integrací senzorů (např. kapacitních, infračervených nebo ultrazvukových) v rámci UE, které sledují vzdálenost nebo kontakt s tělem. Při detekci blízkosti je modem a RF front-end UE upozorněn, aby provedl snížení výkonu nebo jiné strategie zmírnění, jako je úprava konfigurace antén nebo vzorců doby vysílání, aby SAR zůstala v bezpečných mezích.
+Body Proximity Sensing (BPS) je standardizovaný mechanismus zavedený ve 3GPP Release 17, který umožňuje uživatelskému zařízení (UE) dynamicky detekovat svou blízkost k lidskému tělu a podle toho upravit své parametry rádiového vysílání. Primárním technickým cílem je zajistit dodržování regulatorních limitů specifické míry absorpce ([SAR](/mobilnisite/slovnik/sar/)), která měří rychlost absorpce [RF](/mobilnisite/slovnik/rf/) energie tělesnou tkání. BPS funguje integrací senzorů (např. kapacitních, infračervených nebo ultrazvukových) v rámci UE, které sledují vzdálenost nebo kontakt s tělem. Při detekci blízkosti je modem a RF front-end UE upozorněn, aby provedl snížení výkonu nebo jiné strategie zmírnění, jako je úprava konfigurace antén nebo vzorců doby vysílání, aby SAR zůstala v bezpečných mezích.
 
 Architektonicky BPS zahrnuje koordinaci mezi aplikačním procesorem UE, subsystémy senzorů a zásobníkem protokolů 3GPP, zejména vrstvou řízení rádiových prostředků ([RRC](/mobilnisite/slovnik/rrc/)). UE hlásí svou schopnost BPS a stav síti prostřednictvím signalizace RRC, což umožňuje síti být informována o provozních omezeních UE. Toto hlášení je definováno ve specifikaci 3GPP 38.306, která zahrnuje schopnosti přístupu k rádiu UE. Síť může tyto informace využít pro správu rádiových prostředků, jako je úprava přidělení přenosových zdrojů nebo parametrů předávání spojení, aby vyhověla sníženému vysílacímu výkonu UE, a tím minimalizovala dopad na přenosové rychlosti a latenci.
 
 Klíčové součásti BPS zahrnují senzory blízkosti, řadič BPS uvnitř UE, který zpracovává data ze senzorů, a vylepšení protokolu 3GPP pro indikaci schopností a koordinaci se sítí. Řadič BPS vyhodnocuje vstupy ze senzorů, aby určil stavy blízkosti (např. 'blízko' nebo 'daleko' od těla), a spouští předdefinované profily snížení RF výkonu. Tyto profily jsou navrženy tak, aby splňovaly regionální předpisy SAR (např. [FCC](/mobilnisite/slovnik/fcc/) v USA, [CE](/mobilnisite/slovnik/ce/) v Evropě) a zároveň byly optimalizovány pro scénáře jako hlasové hovory, datové relace nebo použití nositelných zařízení. Integrace s existujícími mechanismy řízení výkonu, jako je řízení výkonu v uplinku a maximální snížení výkonu ([MPR](/mobilnisite/slovnik/mpr/)), zajišťuje plynulý provoz bez nutnosti nové síťové infrastruktury.
 
-V síti BPS zvyšuje bezpečnost uživatelů a regulatorní shodu bez obětování kvality služeb. Například když UE detekuje kontakt s tělem během vysílání s vysokým výkonem (např. 5G FR2 mmWave), může snížit výkon nebo přepnout antény pro snížení SAR, a síť to může kompenzovat přidělením více prostředků nebo úpravou modulačních schémat. Tento proaktivní přístup je zvláště důležitý pro zařízení jako chytré hodinky, [AR](/mobilnisite/slovnik/ar/)/VR brýle a chytré telefony používané v ručním režimu, kde jsou rizika RF expozice vyšší. BPS tedy představuje konvergenci hardwarového snímání a standardů 3GPP k řešení zdravotních obav v moderních bezdrátových ekosystémech.
+V síti BPS zvyšuje bezpečnost uživatelů a regulatorní shodu bez obětování kvality služeb. Například když UE detekuje kontakt s tělem během vysílání s vysokým výkonem (např. 5G FR2 mmWave), může snížit výkon nebo přepnout antény pro snížení SAR, a síť to může kompenzovat přidělením více prostředků nebo úpravou modulačních schémat. Tento proaktivní přístup je zvláště důležitý pro zařízení jako chytré hodinky, [AR](/mobilnisite/slovnik/ar/)/[VR](/mobilnisite/slovnik/vr/) brýle a chytré telefony používané v ručním režimu, kde jsou rizika RF expozice vyšší. BPS tedy představuje konvergenci hardwarového snímání a standardů 3GPP k řešení zdravotních obav v moderních bezdrátových ekosystémech.
 
 ## K čemu slouží
 
@@ -40,6 +40,10 @@ BPS navíc podporuje regulatorní sladění v různých regionech tím, že posk
 - Podpora regulatorní shody SAR v různých globálních regionech
 - Koordinace se správou síťových zdrojů pro minimalizaci dopadu na výkon
 - Použitelnost pro různé formáty zařízení včetně nositelných zařízení a chytrých telefonů
+
+## Související pojmy
+
+- [SAR – Security Assurance Requirements](/mobilnisite/slovnik/sar/)
 
 ## Definující specifikace
 

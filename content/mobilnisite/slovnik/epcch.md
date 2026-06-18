@@ -16,7 +16,7 @@ EPCCH je vylepšený kanál GSM/EDGE pro přenos řídicích informací o výkon
 
 ## Popis
 
-Enhanced Power Control Channel (EPCCH) je logický kanál zavedený ve specifikacích GSM/[EDGE](/mobilnisite/slovnik/edge/) Radio Access Network ([GERAN](/mobilnisite/slovnik/geran/)). Funguje v rámci struktury řídicích kanálů rozhraní GSM, konkrétně je navržen pro přenos zpráv řízení výkonu. Tyto zprávy instruují mobilní stanice ([MS](/mobilnisite/slovnik/ms/)), aby upravily své úrovně vysílacího výkonu pro komunikaci jak v uplinku, tak v downlinku. EPCCH je implementován, aby poskytoval spolehlivější a efektivnější signalizaci řízení výkonu ve srovnání se základním kanálem pro řízení výkonu (PCCH), který byl součástí původních specifikací GSM.
+Enhanced Power Control Channel (EPCCH) je logický kanál zavedený ve specifikacích GSM/[EDGE](/mobilnisite/slovnik/edge/) Radio Access Network ([GERAN](/mobilnisite/slovnik/geran/)). Funguje v rámci struktury řídicích kanálů rozhraní GSM, konkrétně je navržen pro přenos zpráv řízení výkonu. Tyto zprávy instruují mobilní stanice ([MS](/mobilnisite/slovnik/ms/)), aby upravily své úrovně vysílacího výkonu pro komunikaci jak v uplinku, tak v downlinku. EPCCH je implementován, aby poskytoval spolehlivější a efektivnější signalizaci řízení výkonu ve srovnání se základním kanálem pro řízení výkonu ([PCCH](/mobilnisite/slovnik/pcch/)), který byl součástí původních specifikací GSM.
 
 Z architektonického hlediska je EPCCH namapován na fyzické kanály ve struktuře rámce GSM, typicky využívá časové sloty vyhrazené pro řídicí signalizaci. Funguje tak, že Base Transceiver Station ([BTS](/mobilnisite/slovnik/bts/)) periodicky vysílá příkazy řízení výkonu k mobilním stanicím na základě měření přijímané síly a kvality signálu. Mobilní stanice tyto příkazy interpretuje a odpovídajícím způsobem upravuje svůj výkonový zesilovač. Tento proces je klíčový pro udržení optimální kvality signálu při minimalizaci rušení a šetření energie baterie.
 
@@ -24,7 +24,7 @@ Mezi klíčové součásti patří BTS, která generuje příkazy řízení výk
 
 ## K čemu slouží
 
-EPCCH byl vytvořen, aby řešil omezení původních mechanismů řízení výkonu v GSM. Rané GSM sítě používaly základní kanál pro řízení výkonu (PCCH), který měl omezenou robustnost a efektivitu signalizace. Jak se sítě vyvíjely s [EDGE](/mobilnisite/slovnik/edge/) a vyššími uživatelskými hustotami, přesné a spolehlivé řízení výkonu se stalo stále důležitějším pro zvládání rušení a optimalizaci kapacity.
+EPCCH byl vytvořen, aby řešil omezení původních mechanismů řízení výkonu v GSM. Rané GSM sítě používaly základní kanál pro řízení výkonu ([PCCH](/mobilnisite/slovnik/pcch/)), který měl omezenou robustnost a efektivitu signalizace. Jak se sítě vyvíjely s [EDGE](/mobilnisite/slovnik/edge/) a vyššími uživatelskými hustotami, přesné a spolehlivé řízení výkonu se stalo stále důležitějším pro zvládání rušení a optimalizaci kapacity.
 
 Historický kontext zahrnuje nasazení GSM sítí, kde bylo řízení výkonu klíčové pro životnost baterie a snížení rušení, ale původní PCCH trpěl vysokou chybovostí v náročných rádiových podmínkách. EPCCH byl zaveden, aby toto vylepšil využitím pokroků v kódování a modulaci ze specifikací EDGE. Řešil problémy jako chybná interpretace příkazů a zpoždění, což umožnilo rychlejší a přesnější úpravy výkonu.
 
@@ -43,6 +43,7 @@ Toto vylepšení přímo podporovalo cíle zvýšení kapacity sítě a zlepšen
 
 - [GERAN – GSM EDGE Radio Access Network](/mobilnisite/slovnik/geran/)
 - [EDGE – Enhanced Data rates for Global Evolution](/mobilnisite/slovnik/edge/)
+- [PCH – Paging Channel](/mobilnisite/slovnik/pch/)
 
 ## Definující specifikace
 

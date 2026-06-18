@@ -16,13 +16,13 @@ ARI je jedinečný identifikátor přiřazený mobilní stanici v sítích GPRS/
 
 ## Popis
 
-Access Request Identifier (ARI) je klíčovou součástí procedury paketového přístupu definované v 3GPP TS 44.060 pro GSM/[EDGE](/mobilnisite/slovnik/edge/) Radio Access Network ([GERAN](/mobilnisite/slovnik/geran/)) v systémech [GPRS](/mobilnisite/slovnik/gprs/) a EDGE. Funguje v rámci vrstvy Medium Access Control ([MAC](/mobilnisite/slovnik/mac/)) a procedur Random Access Channel (RACH). Když mobilní stanice ([MS](/mobilnisite/slovnik/ms/)) potřebuje zahájit přenos dat v uplinku nebo odpovědět na příkaz sítě, musí nejprve požádat o zdroje. To provede odesláním zprávy Packet Channel Request na Packet Random Access Channel (PRACH). Tato žádost obsahuje ARI, který slouží jako dočasná identita pro řešení kolizí pro tento konkrétní pokus o přístup.
+Access Request Identifier (ARI) je klíčovou součástí procedury paketového přístupu definované v 3GPP TS 44.060 pro GSM/[EDGE](/mobilnisite/slovnik/edge/) Radio Access Network ([GERAN](/mobilnisite/slovnik/geran/)) v systémech [GPRS](/mobilnisite/slovnik/gprs/) a EDGE. Funguje v rámci vrstvy Medium Access Control ([MAC](/mobilnisite/slovnik/mac/)) a procedur Random Access Channel ([RACH](/mobilnisite/slovnik/rach/)). Když mobilní stanice ([MS](/mobilnisite/slovnik/ms/)) potřebuje zahájit přenos dat v uplinku nebo odpovědět na příkaz sítě, musí nejprve požádat o zdroje. To provede odesláním zprávy Packet Channel Request na Packet Random Access Channel ([PRACH](/mobilnisite/slovnik/prach/)). Tato žádost obsahuje ARI, který slouží jako dočasná identita pro řešení kolizí pro tento konkrétní pokus o přístup.
 
-Generování a zpracování ARI se řídí specifickým protokolem. MS vybere nebo vypočítá hodnotu ARI na základě parametrů vysílaných sítí a své vlastní Temporary Logical Link Identity (TLLI). [BSS](/mobilnisite/slovnik/bss/) sítě po přijetí více souběžných pokusů o přístup použije ARI k jednoznačné identifikaci každé žádající MS. Po úspěšném přenosu na PRACH síť odpoví zprávou Packet Uplink Assignment na Packet Access Grant Channel (PAGCH). Tato zpráva je adresována pomocí stejné hodnoty ARI, což umožní pouze té MS, která odeslala původní žádost s tímto konkrétním ARI, aby přiřazení rozpoznala a jednala podle něj, čímž se vyřeší kolize.
+Generování a zpracování ARI se řídí specifickým protokolem. MS vybere nebo vypočítá hodnotu ARI na základě parametrů vysílaných sítí a své vlastní Temporary Logical Link Identity ([TLLI](/mobilnisite/slovnik/tlli/)). BSS sítě po přijetí více souběžných pokusů o přístup použije ARI k jednoznačné identifikaci každé žádající MS. Po úspěšném přenosu na PRACH síť odpoví zprávou Packet Uplink Assignment na Packet Access Grant Channel (PAGCH). Tato zpráva je adresována pomocí stejné hodnoty ARI, což umožní pouze té MS, která odeslala původní žádost s tímto konkrétním ARI, aby přiřazení rozpoznala a jednala podle něj, čímž se vyřeší kolize.
 
-Role ARI přesahuje pouhou identifikaci; je nedílnou součástí procesu vytváření Temporary Block Flow (TBF). TBF je fyzické spojení používané pro přenos [LLC](/mobilnisite/slovnik/llc/) PDU v jednom směru mezi MS a sítí. ARI je součástí úvodního handshake, který vede k přidělení uplinkových rádiových zdrojů (timeslotů) a k vytvoření uplinkového TBF. Jeho správná interpretace ze strany MS i BSS zajišťuje, že rádiové zdroje jsou přiděleny zamýšlenému uživatelskému zařízení, čímž se udržuje pořádek a efektivita ve sdíleném rádiovém prostředí.
+Role ARI přesahuje pouhou identifikaci; je nedílnou součástí procesu vytváření Temporary Block Flow (TBF). TBF je fyzické spojení používané pro přenos LLC PDU v jednom směru mezi MS a sítí. ARI je součástí úvodního handshake, který vede k přidělení uplinkových rádiových zdrojů (timeslotů) a k vytvoření uplinkového TBF. Jeho správná interpretace ze strany MS i BSS zajišťuje, že rádiové zdroje jsou přiděleny zamýšlenému uživatelskému zařízení, čímž se udržuje pořádek a efektivita ve sdíleném rádiovém prostředí.
 
-Z architektonického hlediska funguje ARI na rozhraní mezi MS a BSS, konkrétně v rámci Packet Control Unit (PCU). Jedná se o přechodný identifikátor, jehož platnost je omezena na bezprostřední přístupovou proceduru a buňku, kde byla žádost podána. Na rozdíl od trvalejších identifikátorů, jako je TLLI nebo [IMSI](/mobilnisite/slovnik/imsi/), je ARI krátkodobý a je zahozen po dokončení fáze bezprostředního přidělení zdrojů nebo pokud pokus o přístup selže. Tento návrh minimalizuje signalizační režii a vyhýbá se dlouhodobé správě identit pro přechodné stavy.
+Z architektonického hlediska funguje ARI na rozhraní mezi MS a BSS, konkrétně v rámci Packet Control Unit (PCU). Jedná se o přechodný identifikátor, jehož platnost je omezena na bezprostřední přístupovou proceduru a buňku, kde byla žádost podána. Na rozdíl od trvalejších identifikátorů, jako je TLLI nebo IMSI, je ARI krátkodobý a je zahozen po dokončení fáze bezprostředního přidělení zdrojů nebo pokud pokus o přístup selže. Tento návrh minimalizuje signalizační režii a vyhýbá se dlouhodobé správě identit pro přechodné stavy.
 
 ## K čemu slouží
 
@@ -43,6 +43,10 @@ Historicky bylo jeho specifikace v TS 44.060 spolu s protokolem MAC pro GPRS/EDG
 
 ## Související pojmy
 
+- [TLLI – Temporary Logical Link Identifier](/mobilnisite/slovnik/tlli/)
+- [TBF – Temporary Block Flow](/mobilnisite/slovnik/tbf/)
+- [PRACH – Physical Random Access Channel](/mobilnisite/slovnik/prach/)
+- [PAGCH – Packet Access Grant Channel](/mobilnisite/slovnik/pagch/)
 - [GERAN – GSM EDGE Radio Access Network](/mobilnisite/slovnik/geran/)
 - [MAC – Message Authentication Code](/mobilnisite/slovnik/mac/)
 

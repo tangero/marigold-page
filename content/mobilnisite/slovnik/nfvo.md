@@ -16,9 +16,9 @@ NFVO je centrální entita pro řízení a orchestraci, která automatizuje živ
 
 ## Popis
 
-Network Functions Virtualization Orchestrator (NFVO) je mozkem architektury [NFV](/mobilnisite/slovnik/nfv/) Management and Orchestration ([MANO](/mobilnisite/slovnik/mano/)). Jeho primární funkcí je orchestrace síťových služeb (NS) a správa prostředků [NFVI](/mobilnisite/slovnik/nfvi/) napříč více doménami a lokalitami. Síťová služba je kompletní, end-to-end řetězec služeb složený z jedné nebo více Virtualized Network Functions (VNF) a virtuálních spojů, které je propojují. NFVO automatizuje celý životní cyklus těchto služeb – včetně instanciace, škálování, aktualizace, hojení a ukončení – přičemž překládá služební šablony vysoké úrovně na proveditelné příkazy pro nasazení a konfiguraci.
+Network Functions Virtualization Orchestrator (NFVO) je mozkem architektury [NFV](/mobilnisite/slovnik/nfv/) Management and Orchestration ([MANO](/mobilnisite/slovnik/mano/)). Jeho primární funkcí je orchestrace síťových služeb ([NS](/mobilnisite/slovnik/ns/)) a správa prostředků [NFVI](/mobilnisite/slovnik/nfvi/) napříč více doménami a lokalitami. Síťová služba je kompletní, end-to-end řetězec služeb složený z jedné nebo více Virtualized Network Functions ([VNF](/mobilnisite/slovnik/vnf/)) a virtuálních spojů, které je propojují. NFVO automatizuje celý životní cyklus těchto služeb – včetně instanciace, škálování, aktualizace, hojení a ukončení – přičemž překládá služební šablony vysoké úrovně na proveditelné příkazy pro nasazení a konfiguraci.
 
-Architektonicky NFVO pracuje na vyšší úrovni než Virtualized Infrastructure Manager (VIM). Zatímco VIM spravuje virtuální prostředky v rámci jedné domény NFVI, NFVO má globální pohled. Komunikuje s jedním nebo více VIMy, aby rezervoval a alokoval prostředky z podkladových fondů NFVI. Také komunikuje s jedním nebo více VNF Managery (VNFM) pro zvládnutí životního cyklu jednotlivých instancí VNF. NFVO spravuje katalog síťových služeb (ukládá šablony NS) a katalog VNF (ukládá balíčky VNF), které definují šablony pro nasazení. Klíčová rozhraní zahrnují referenční bod Or-Vnfm k VNFM, Or-Vi k VIM a Os-Ma-nfvo pro integraci s [OSS](/mobilnisite/slovnik/oss/)/[BSS](/mobilnisite/slovnik/bss/).
+Architektonicky NFVO pracuje na vyšší úrovni než Virtualized Infrastructure Manager ([VIM](/mobilnisite/slovnik/vim/)). Zatímco VIM spravuje virtuální prostředky v rámci jedné domény NFVI, NFVO má globální pohled. Komunikuje s jedním nebo více VIMy, aby rezervoval a alokoval prostředky z podkladových fondů NFVI. Také komunikuje s jedním nebo více VNF Managery ([VNFM](/mobilnisite/slovnik/vnfm/)) pro zvládnutí životního cyklu jednotlivých instancí VNF. NFVO spravuje katalog síťových služeb (ukládá šablony NS) a katalog VNF (ukládá balíčky VNF), které definují šablony pro nasazení. Klíčová rozhraní zahrnují referenční bod Or-Vnfm k VNFM, Or-Vi k VIM a Os-Ma-nfvo pro integraci s [OSS](/mobilnisite/slovnik/oss/)/BSS.
 
 Pracovní postup NFVO začíná přijetím požadavku na službu, často z Operations Support System (OSS). Ověří žádost vůči katalogu, provede kontrolu proveditelnosti prostředků napříč cílovými body přítomnosti (PoP) NFVI a vytvoří plán nasazení. Poté koordinuje proces: dá pokyn VIMům k přípravě rezervací prostředků, nasměruje VNFM k instanciaci a konfiguraci jednotlivých VNF a nakonec podle služební šablony zřídí virtuální síťové propojení mezi nimi. Nad rámec instanciace NFVO nepřetržitě monitoruje výkon a stav služby. Může spouštět automatizované akce škálování (out/in, up/down) na základě politik, koordinovat softwarové aktualizace napříč VNF a iniciovat procedury hojení (např. re-instanciaci) v případě selhání VNF.
 
@@ -26,7 +26,7 @@ V kontextu 3GPP je NFVO nedílnou součástí správy síťových řezů a služ
 
 ## K čemu slouží
 
-NFVO bylo vytvořeno k řešení provozní složitosti a manuální neefektivity spojené s nasazováním a správou kompozitních síťových služeb postavených z virtualizovaných funkcí. V raných nasazeních [NFV](/mobilnisite/slovnik/nfv/) vyžadovala instanciace a propojování VNF významnou manuální koordinaci mezi týmy spravujícími výpočetní, síťovou a aplikační vrstvu, což vedlo k pomalému zavádění služeb a vysoké chybovosti.
+NFVO bylo vytvořeno k řešení provozní složitosti a manuální neefektivity spojené s nasazováním a správou kompozitních síťových služeb postavených z virtualizovaných funkcí. V raných nasazeních NFV vyžadovala instanciace a propojování VNF významnou manuální koordinaci mezi týmy spravujícími výpočetní, síťovou a aplikační vrstvu, což vedlo k pomalému zavádění služeb a vysoké chybovosti.
 
 Jeho účelem je poskytnout automatizovanou, end-to-end služební orchestráci. Před NFVO mohli operátoři virtualizovat jednotlivé funkce (VNF), ale jejich spojování do fungující služby zůstávalo manuálním, náchylným k chybám procesem. NFVO toto spojování automatizuje a zachází se souborem VNF a jejich konektivitou jako s jedinou spravovatelnou entitou – síťovou službou. Tím řeší kritickou potřebu agility, která operátorům umožňuje rychle zavádět, upravovat nebo ukončovat služby v reakci na požadavky trhu.
 
@@ -45,6 +45,8 @@ Dále NFVO umožňuje efektivní správu prostředků v globálním měřítku. 
 
 - [NFV – Network Functions Virtualization](/mobilnisite/slovnik/nfv/)
 - [NFVI – Network Functions Virtualization Infrastructure](/mobilnisite/slovnik/nfvi/)
+- [VNF – Virtualized Network Function](/mobilnisite/slovnik/vnf/)
+- [VNFM – Virtualized Network Function Manager](/mobilnisite/slovnik/vnfm/)
 - [MANO – Management and Orchestration](/mobilnisite/slovnik/mano/)
 
 ## Definující specifikace

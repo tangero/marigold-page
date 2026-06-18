@@ -20,11 +20,11 @@ Next Generation Mobile Intelligence (NGMI) je komplexní rámec definovaný ve s
 
 NGMI funguje tak, že definuje strukturovaný datový model a sadu služebně orientovaných rozhraní (podobných těm používaným v 5G Core) pro vyžádání, doručení a odběr analytických reportů. Mezi klíčové zdroje dat patří výkonnostní měření, vzorce mobility, rádiové podmínky a statistiky využívání služeb. Analytické funkce na tato data aplikují algoritmy – které mohou být standardizované nebo specifické pro dodavatele – za účelem vytvoření poznatků, jako jsou předpovědi síťového zatížení, detekce anomálií, hodnocení uživatelského zážitku a zajištění kvality služeb. Bezpečnost je základním pilířem s mechanismy pro autentizaci, autorizaci a integritu dat, které zajišťují ochranu citlivých síťových a uživatelských dat v celém procesu sběru a vystavení.
 
-Role rámce spočívá v oddělení generování inteligence od konkrétních síťových funkcí, čímž vytváří centralizovanou, opakovaně použitelnou schopnost pro celou síť. Umožňuje případy užití, jako je prediktivní vyvažování zátěže, automatizované řešení poruch, vylepšená správa kvality zážitku (QoE) a podpora operací síťového řezání. Poskytnutím společné 'inteligenční vrstvy' NGMI snižuje integrační složitost pro nové analytické aplikace a usnadňuje agilnější, softwarově řízený přístup ke správě a optimalizaci sítě, což je zásadní pro dynamické požadavky 5G a budoucích generací.
+Role rámce spočívá v oddělení generování inteligence od konkrétních síťových funkcí, čímž vytváří centralizovanou, opakovaně použitelnou schopnost pro celou síť. Umožňuje případy užití, jako je prediktivní vyvažování zátěže, automatizované řešení poruch, vylepšená správa kvality zážitku ([QoE](/mobilnisite/slovnik/qoe/)) a podpora operací síťového řezání. Poskytnutím společné 'inteligenční vrstvy' NGMI snižuje integrační složitost pro nové analytické aplikace a usnadňuje agilnější, softwarově řízený přístup ke správě a optimalizaci sítě, což je zásadní pro dynamické požadavky 5G a budoucích generací.
 
 ## K čemu slouží
 
-NGMI byl vytvořen, aby řešil rostoucí složitost mobilních sítí a explozi dat, která generují. Před-5G sítě se často spoléhaly na proprietární, izolovaná řešení pro síťovou analytiku, což ztěžovalo získání holistického pohledu, integraci inteligence třetích stran nebo automatizaci složitých operací. Omezení těchto ad-hoc přístupů se stala úzkým hrdlem pro implementaci pokročilých konceptů, jako jsou samoorganizující se sítě (SON) ve velkém měřítku, a pro umožnění nových datově řízených služeb.
+NGMI byl vytvořen, aby řešil rostoucí složitost mobilních sítí a explozi dat, která generují. Před-5G sítě se často spoléhaly na proprietární, izolovaná řešení pro síťovou analytiku, což ztěžovalo získání holistického pohledu, integraci inteligence třetích stran nebo automatizaci složitých operací. Omezení těchto ad-hoc přístupů se stala úzkým hrdlem pro implementaci pokročilých konceptů, jako jsou samoorganizující se sítě ([SON](/mobilnisite/slovnik/son/)) ve velkém měřítku, a pro umožnění nových datově řízených služeb.
 
 Primární motivací byla standardizace rozhraní a datových modelů pro síťovou inteligenci, čímž se podporuje ekosystém analytických aplikací a umožňuje efektivní interoperabilita mezi více dodavateli. Tato standardizace řeší problém závislosti na konkrétním dodavateli v oblasti síťové analytiky a umožňuje operátorům využívat nejlepší dostupná řešení. Dále poskytuje základní datovou infrastrukturu potřebnou k naplnění vize plně automatizované správy sítě a služeb bez lidského zásahu, což je klíčový cíl pro budoucí sítě.
 
@@ -38,6 +38,10 @@ Historicky byla inteligence zabudována do jednotlivých síťových funkcí. Vz
 - Integrované bezpečnostní mechanismy pro autentizaci, autorizaci a ochranu dat
 - Flexibilní analytický model podporující standardizované i dodavatelsky specifické algoritmy
 - Umožňuje vystavení síťové inteligence autorizovaným interním i externím konzumentům
+
+## Související pojmy
+
+- [NWDAF – Network Data Analytics Function](/mobilnisite/slovnik/nwdaf/)
 
 ## Definující specifikace
 

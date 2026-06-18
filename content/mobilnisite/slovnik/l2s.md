@@ -18,7 +18,7 @@ L2S je simulační metodologie, která převádí podmínky kanálu fyzické vrs
 
 Link to System (L2S) mapování je klíčová metodologie definovaná v 3GPP pro systémové simulace mobilních sítí. Slouží jako most mezi podrobnými, výpočetně náročnými simulacemi na úrovni spoje (které modelují přenos a příjem na fyzické vrstvě jednotlivých rádiových rámců v konkrétním kanálu) a simulacemi na vyšší, systémové úrovni (které modelují topologii sítě, mobilitu uživatelů, charakteristiky provozu a správu zdrojů). Hlavní problém, který L2S řeší, je obrovský rozdíl v časových měřítcích a komplexitě simulací; simulace na úrovni spoje pracují v časech symbolů nebo bitů, zatímco systémové simulace pracují v časech hovorů nebo paketů.
 
-Metodologie funguje tak, že abstrahuje chování fyzické vrstvy do sady vyhledávacích tabulek nebo matematických modelů. Tyto modely, často nazývané 'interface tables' nebo techniky 'effective SINR mapping' ([ESM](/mobilnisite/slovnik/esm/)), jsou generovány offline z rozsáhlých simulací na úrovni spoje. Mapují sadu okamžitých ukazatelů kvality kanálu (jako SINR na subnosnou v systémech [OFDM](/mobilnisite/slovnik/ofdm/)) pozorovaných přijímačem na jedinou efektivní metriku kvality. Tato efektivní metrika je pak použita k určení pravděpodobnosti správného dekódování transportního bloku na základě zvoleného schématu modulace a kódování ([MCS](/mobilnisite/slovnik/mcs/)). Tato abstrakce umožňuje systémovým simulátorům předpovídat míru chybovosti bloků ([BLER](/mobilnisite/slovnik/bler/)) a propustnost bez nutnosti spouštět simulace spoje v reálném čase.
+Metodologie funguje tak, že abstrahuje chování fyzické vrstvy do sady vyhledávacích tabulek nebo matematických modelů. Tyto modely, často nazývané 'interface tables' nebo techniky 'effective [SINR](/mobilnisite/slovnik/sinr/) mapping' ([ESM](/mobilnisite/slovnik/esm/)), jsou generovány offline z rozsáhlých simulací na úrovni spoje. Mapují sadu okamžitých ukazatelů kvality kanálu (jako SINR na subnosnou v systémech [OFDM](/mobilnisite/slovnik/ofdm/)) pozorovaných přijímačem na jedinou efektivní metriku kvality. Tato efektivní metrika je pak použita k určení pravděpodobnosti správného dekódování transportního bloku na základě zvoleného schématu modulace a kódování ([MCS](/mobilnisite/slovnik/mcs/)). Tato abstrakce umožňuje systémovým simulátorům předpovídat míru chybovosti bloků ([BLER](/mobilnisite/slovnik/bler/)) a propustnost bez nutnosti spouštět simulace spoje v reálném čase.
 
 Klíčovými součástmi rámce L2S jsou definice modelu kanálu, simulátor na úrovni spoje používaný k vytváření výkonnostních tabulek a konkrétní mapovací algoritmus (např. Exponential ESM, Mutual Information ESM). Jeho role je zásadní v procesu standardizace, protože umožňuje různým společnostem a výzkumníkům porovnávat výkon navrhovaných rádiových technologií (jako jsou nové tabulky MCS, algoritmy plánování nebo konfigurace antén) za konzistentních a srovnatelných předpokladů. Je rozsáhle používán pro hodnocení pokrytí, kapacity a výkonu mobility u technologií od GSM po 5G NR.
 
@@ -38,6 +38,10 @@ Historicky řešilo omezení příliš zjednodušených systémových modelů, k
 - Podporuje více algoritmů Effective SINR Mapping (ESM) pro různé technologie
 - Aplikovatelné napříč více generacemi 3GPP (GSM, UMTS, LTE, NR)
 - Integruje podrobné modely kanálu (např. tapped delay lines, prostorovou korelaci) do analýzy výkonu sítě
+
+## Související pojmy
+
+- [SINR – Signal to Interference plus Noise Ratio](/mobilnisite/slovnik/sinr/)
 
 ## Definující specifikace
 

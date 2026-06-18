@@ -16,7 +16,7 @@ GEA je rodina algoritmů proudové šifry používaných v sítích 2G/3G k šif
 
 ## Popis
 
-[GPRS](/mobilnisite/slovnik/gprs/) Encryption Algorithm (GEA) je soubor algoritmů proudové šifry standardizovaný 3GPP pro zajištění důvěrnosti dat přenášených přes rozhraní Gb mezi mobilní stanicí ([MS](/mobilnisite/slovnik/ms/)) a uzlem SGSN v sítích GSM/GPRS/[EDGE](/mobilnisite/slovnik/edge/). Působí v rámci protokolového zásobníku GPRS, konkrétně na vrstvě Logical Link Control ([LLC](/mobilnisite/slovnik/llc/)). Šifrování a dešifrování se provádí pomocí šifrovacího klíče (Kc), který je odvozen během procedury autentizace a dohody o klíči, a vstupního parametru zvaného číslo rámce LLC, který zajišťuje synchronizaci a zabraňuje útokům opakováním. Algoritmus generuje šifrovací proud (keystream), který je XORován s otevřenými daty za vzniku šifrového textu, nebo naopak při dešifrování.
+[GPRS](/mobilnisite/slovnik/gprs/) Encryption Algorithm (GEA) je soubor algoritmů proudové šifry standardizovaný 3GPP pro zajištění důvěrnosti dat přenášených přes rozhraní Gb mezi mobilní stanicí ([MS](/mobilnisite/slovnik/ms/)) a uzlem [SGSN](/mobilnisite/slovnik/sgsn/) v sítích GSM/GPRS/[EDGE](/mobilnisite/slovnik/edge/). Působí v rámci protokolového zásobníku GPRS, konkrétně na vrstvě Logical Link Control ([LLC](/mobilnisite/slovnik/llc/)). Šifrování a dešifrování se provádí pomocí šifrovacího klíče (Kc), který je odvozen během procedury autentizace a dohody o klíči, a vstupního parametru zvaného číslo rámce LLC, který zajišťuje synchronizaci a zabraňuje útokům opakováním. Algoritmus generuje šifrovací proud (keystream), který je XORován s otevřenými daty za vzniku šifrového textu, nebo naopak při dešifrování.
 
 Existuje několik verzí GEA, především GEA1, GEA2, GEA3 a GEA4, z nichž každá má odlišný kryptografický návrh a sílu. GEA1 a GEA2 byly vyvinuty v 90. letech a jsou založeny na proprietárních návrzích, přičemž u GEA1 byly později zjištěny významné kryptografické slabiny. Později zavedené GEA3 a GEA4 jsou založeny na robustnějším a mezinárodně prověřeném algoritmu Kasumi (používaném v 3G), respektive algoritmu SNOW 3G (používaném v 4G), a nabízejí mnohem silnější zabezpečení. Konkrétní algoritmus použitý v relaci je dohodnut mezi MS a sítí na základě vzájemných možností.
 
@@ -40,6 +40,7 @@ Historicky byly původní algoritmy GEA1 a GEA2 navrženy s ohledem na vývozní
 ## Související pojmy
 
 - [GPRS – CSI GPRS CAMEL Subscription Information](/mobilnisite/slovnik/gprs/)
+- [SGSN – Serving GPRS Support Node](/mobilnisite/slovnik/sgsn/)
 - [LLC – SM Low Layer Source Specific Multicast (address)](/mobilnisite/slovnik/llc/)
 
 ## Definující specifikace

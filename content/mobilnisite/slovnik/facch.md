@@ -16,19 +16,19 @@ FACCH je řídicí kanál v GSM, který přebírá časové sloty z aktivního k
 
 ## Popis
 
-Rychlý přidružený řídicí kanál (Fast Associated Control CHannel, FACCH) je signalizační kanál v GSM (a odvozených technologiích jako [GPRS](/mobilnisite/slovnik/gprs/) a [EDGE](/mobilnisite/slovnik/edge/)) rozhraní, který pracuje v režimu 'přebírání' (stealing mode). Není fyzicky samostatným kanálem, ale je multiplexován ve stejných fyzických zdrojích jako kanál pro přenos uživatelských dat (Traffic Channel, TCH) přenášející hlas nebo data uživatele. FACCH funguje tak, že při potřebě odeslat naléhavou řídicí zprávu dočasně nahradí blok uživatelských dat (burst) signalizační informací. Na to upozorňují 'přebírací příznaky' (stealing flags) v rámci normální struktury burstu – dva bity, které přijímači sdělují, zda aktuální burst obsahuje uživatelská data (TCH) nebo signalizační data (FACCH).
+Rychlý přidružený řídicí kanál (Fast Associated Control CHannel, FACCH) je signalizační kanál v GSM (a odvozených technologiích jako [GPRS](/mobilnisite/slovnik/gprs/) a [EDGE](/mobilnisite/slovnik/edge/)) rozhraní, který pracuje v režimu 'přebírání' (stealing mode). Není fyzicky samostatným kanálem, ale je multiplexován ve stejných fyzických zdrojích jako kanál pro přenos uživatelských dat (Traffic Channel, [TCH](/mobilnisite/slovnik/tch/)) přenášející hlas nebo data uživatele. FACCH funguje tak, že při potřebě odeslat naléhavou řídicí zprávu dočasně nahradí blok uživatelských dat (burst) signalizační informací. Na to upozorňují 'přebírací příznaky' (stealing flags) v rámci normální struktury burstu – dva bity, které přijímači sdělují, zda aktuální burst obsahuje uživatelská data (TCH) nebo signalizační data (FACCH).
 
 Z architektonického hlediska je FACCH přidružen k vyhrazenému spojení (dedicated mode connection) mezi mobilní stanicí ([MS](/mobilnisite/slovnik/ms/)) a základnovou stanicí ([BTS](/mobilnisite/slovnik/bts/)). Nachází se na vrstvě 2 (linkové vrstvě), konkrétně v rámci protokolu LAPDm. Když vznikne potřeba naléhavé signalizace (např. síť rozhodne, že je nutné předání hovoru), systém 'přebírá' 20ms rámec (nebo více rámců) z TCH. Převzatý rámec je zakódován daty FACCH, která zahrnují 184bitové informační pole, k němuž se před konvolučním kódováním pro opravu chyb přidá 40 bitů Fire kódu pro detekci chyb a 4 koncové bity, což vede ke vzniku 456bitového bloku rozprostřeného (interleaved) přes 8 po sobě jdoucích burstů.
 
-Jeho role v síti je klíčová pro funkce řízení v reálném čase, které nesnesou zpoždění při použití pomalejšího, samostatného vyhrazeného řídicího kanálu (SDCCH). Mezi klíčové procedury zprostředkované FACCH patří příkaz a provedení předání hovoru (handover), okamžité přidělení zdrojů, řízení nespojitého vysílání ([DTX](/mobilnisite/slovnik/dtx/)), hlášení měření a správa šifrovacího režimu. Díky využití stávajícího TCH poskytuje FACCH signalizační cestu s nízkou latencí přímo v přenosovém pásmu, což je nezbytné pro udržení kvality hovoru, efektivní správu rádiových zdrojů a zajištění plynulého přenosu spojení při pohybu uživatele.
+Jeho role v síti je klíčová pro funkce řízení v reálném čase, které nesnesou zpoždění při použití pomalejšího, samostatného vyhrazeného řídicího kanálu ([SDCCH](/mobilnisite/slovnik/sdcch/)). Mezi klíčové procedury zprostředkované FACCH patří příkaz a provedení předání hovoru (handover), okamžité přidělení zdrojů, řízení nespojitého vysílání ([DTX](/mobilnisite/slovnik/dtx/)), hlášení měření a správa šifrovacího režimu. Díky využití stávajícího TCH poskytuje FACCH signalizační cestu s nízkou latencí přímo v přenosovém pásmu, což je nezbytné pro udržení kvality hovoru, efektivní správu rádiových zdrojů a zajištění plynulého přenosu spojení při pohybu uživatele.
 
 ## K čemu slouží
 
-FACCH byl vytvořen, aby řešil omezení latence hlavního vyhrazeného signalizačního kanálu v GSM, samostatného vyhrazeného řídicího kanálu (SDCCH). SDCCH, ač vhodný pro navázání hovoru a nenaléhavou signalizaci, je příliš pomalý pro časově kritické řídicí funkce vyžadované během aktivní hlasové nebo datové relace. Bez rychlého signalizačního mechanismu by byly procedury jako předávání hovoru (handover) – které jsou nezbytné pro udržení spojení při pohybu uživatele mezi buňkami – příliš pomalé, což by vedlo k přerušeným hovorům a špatnému uživatelskému zážitku.
+FACCH byl vytvořen, aby řešil omezení latence hlavního vyhrazeného signalizačního kanálu v GSM, samostatného vyhrazeného řídicího kanálu ([SDCCH](/mobilnisite/slovnik/sdcch/)). SDCCH, ač vhodný pro navázání hovoru a nenaléhavou signalizaci, je příliš pomalý pro časově kritické řídicí funkce vyžadované během aktivní hlasové nebo datové relace. Bez rychlého signalizačního mechanismu by byly procedury jako předávání hovoru (handover) – které jsou nezbytné pro udržení spojení při pohybu uživatele mezi buňkami – příliš pomalé, což by vedlo k přerušeným hovorům a špatnému uživatelskému zážitku.
 
 Historická motivace vychází z konstrukčních cílů GSM jako digitálního celulárního systému, který upřednostňoval kvalitu hlasu a mobilitu. FACCH tento problém vyřešil převzetím samotného kanálu přenášejícího uživatelský hovor pro naléhavé síťové příkazy, což je koncept známý jako 'signalizace v pásmu' (in-band signaling). Šlo o chytré využití zdrojů, protože se tak vyhnulo nutnosti alokovat další vyhrazené rádiové spektrum pro rychlé řízení, což by snížilo kapacitu sítě.
 
-Řešil konkrétní omezení předchozích analogových systémů a raných digitálních návrhů, kterým chyběl takto efektivní přidružený řídicí mechanismus. Tím, že umožnil rychlou signalizaci přímo spojenou s aktivním kanálem pro přenos dat, se FACCH stal klíčovým prvkem pro spolehlivé řízení mobility, adaptivní řízení výkonu a efektivní správu rádiových zdrojů v GSM a jeho evolučních cestách ([GPRS](/mobilnisite/slovnik/gprs/), [EDGE](/mobilnisite/slovnik/edge/)), čímž zajišťoval rychlou odezvu a stabilitu sítě.
+Řešil konkrétní omezení předchozích analogových systémů a raných digitálních návrhů, kterým chyběl takto efektivní přidružený řídicí mechanismus. Tím, že umožnil rychlou signalizaci přímo spojenou s aktivním kanálem pro přenos dat, se FACCH stal klíčovým prvkem pro spolehlivé řízení mobility, adaptivní řízení výkonu a efektivní správu rádiových zdrojů v GSM a jeho evolučních cestách (GPRS, EDGE), čímž zajišťoval rychlou odezvu a stabilitu sítě.
 
 ## Klíčové vlastnosti
 
@@ -38,6 +38,12 @@ Historická motivace vychází z konstrukčních cílů GSM jako digitálního c
 - Přenáší kritické zprávy vrstvy 3 (např. příkazy k předání hovoru, informace o měření)
 - Využívá stejné rozprostření (interleaving) a kódování kanálu jako TCH (plný výkon, full-rate)
 - Nezbytný pro řízení rádiových zdrojů v reálném čase během hovoru
+
+## Související pojmy
+
+- [TCH – Traffic Channel](/mobilnisite/slovnik/tch/)
+- [SDCCH – Stand-Alone Dedicated Control Channel](/mobilnisite/slovnik/sdcch/)
+- [SACCH – Standalone Associated Control CHannel](/mobilnisite/slovnik/sacch/)
 
 ## Definující specifikace
 

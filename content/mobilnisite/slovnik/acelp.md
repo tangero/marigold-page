@@ -9,7 +9,6 @@ fullName: "Algebraic Code-Excited Linear Prediction"
 category: "Services"
 segment: "Services"
 canonical: "https://3gpp-explorer.com/glossary/acelp/"
-infografika: "/assets/slovnik/acelp.jpg"
 summary: "ACELP je řečový kódovací algoritmus používaný ve standardech 3GPP pro efektivní kompresi hlasu. Poskytuje vysoce kvalitní řeč při nízkých přenosových rychlostech modelováním hlasového traktu a použití"
 ---
 
@@ -27,7 +26,7 @@ V sítích 3GPP tvoří ACELP jádro několika řečových kodeků včetně [AMR
 
 ## K čemu slouží
 
-ACELP byl vyvinut, aby vyřešil základní výzvu přenosu vysoce kvalitní řeči přes mobilní sítě s omezenou šířkou pásma. Před kodeky založenými na ACELP nabízely starší techniky řečového kódování, jako je Regular Pulse Excitation (RPE) a Vector Sum Excited Linear Prediction (VSELP), omezenou kvalitu při nízkých přenosových rychlostech nebo vyžadovaly nadměrnou výpočetní složitost. Mobilní průmysl potřeboval řešení, které by dokázalo poskytovat kvalitu řeči na úrovni veřejné telefonní sítě a zároveň efektivně využívat omezené zdroje rádiového spektra.
+ACELP byl vyvinut, aby vyřešil základní výzvu přenosu vysoce kvalitní řeči přes mobilní sítě s omezenou šířkou pásma. Před kodeky založenými na ACELP nabízely starší techniky řečového kódování, jako je Regular Pulse Excitation (RPE) a Vector Sum Excited Linear Prediction ([VSELP](/mobilnisite/slovnik/vselp/)), omezenou kvalitu při nízkých přenosových rychlostech nebo vyžadovaly nadměrnou výpočetní složitost. Mobilní průmysl potřeboval řešení, které by dokázalo poskytovat kvalitu řeči na úrovni veřejné telefonní sítě a zároveň efektivně využívat omezené zdroje rádiového spektra.
 
 Algebraická struktura kodebooků ACELP byla speciálně navržena tak, aby ve srovnání s tradičními stochastickými kodebooky snížila výpočetní složitost, což umožnilo realizaci v reálném čase na mobilních zařízeních s omezeným výpočetním výkonem. Tato inovace umožnila efektivnější prohledávání kodebooků bez snížení kvality řeči, což vedlo k rozšířenému přijetí vysoce kvalitních digitálních hlasových služeb ve 2G, 3G a následujících mobilních generacích. Flexibilita algoritmu pracovat s více přenosovými rychlostmi také podpořila mechanismy adaptivního řízení rychlosti, které mohly reagovat na měnící se síťové podmínky.
 

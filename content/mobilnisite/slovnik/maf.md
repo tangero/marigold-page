@@ -35,6 +35,7 @@ MAF byla vytvořena za účelem standardizace implementace doplňkových telefon
 
 - [IMS – IP Multimedia Subsystem](/mobilnisite/slovnik/ims/)
 - [MSS – Mobile Satellite Services](/mobilnisite/slovnik/mss/)
+- [USSD – Unstructured Supplementary Services Data](/mobilnisite/slovnik/ussd/)
 
 ## Definující specifikace
 

@@ -16,7 +16,7 @@ LTE je funkce systému správy, která emuluje chování terminálu pro testová
 
 ## Popis
 
-Local Terminal Emulator (LTE) je entita správy sítě definovaná v rámci architektury Operations, Administration, and Maintenance (OAM) dle 3GPP. Jedná se o softwarovou funkci, typicky součást systému správy sítě ([NMS](/mobilnisite/slovnik/nms/)) nebo systému správy prvků ([EMS](/mobilnisite/slovnik/ems/)), navrženou k emulaci chování uživatelského zařízení (UE) neboli terminálu. Jejím primárním operačním mechanismem je generování standardizovaných signalizačních zpráv 3GPP a simulace procedur UE – jako je připojení (attachment), servisní požadavky, mobilní události a datové relace – směrem k testovaným síťovým prvkům (např. eNodeB, [MME](/mobilnisite/slovnik/mme/), SGW/PGW v 4G, nebo gNB, [AMF](/mobilnisite/slovnik/amf/), [UPF](/mobilnisite/slovnik/upf/) v 5G). To umožňuje řízené a opakovatelné testování funkčnosti sítě v laboratorním, integračním nebo živém síťovém prostředí.
+Local Terminal Emulator (LTE) je entita správy sítě definovaná v rámci architektury Operations, Administration, and Maintenance ([OAM](/mobilnisite/slovnik/oam/)) dle 3GPP. Jedná se o softwarovou funkci, typicky součást systému správy sítě ([NMS](/mobilnisite/slovnik/nms/)) nebo systému správy prvků ([EMS](/mobilnisite/slovnik/ems/)), navrženou k emulaci chování uživatelského zařízení (UE) neboli terminálu. Jejím primárním operačním mechanismem je generování standardizovaných signalizačních zpráv 3GPP a simulace procedur UE – jako je připojení (attachment), servisní požadavky, mobilní události a datové relace – směrem k testovaným síťovým prvkům (např. eNodeB, [MME](/mobilnisite/slovnik/mme/), [SGW/PGW](/mobilnisite/slovnik/sgw-pgw/) v 4G, nebo gNB, [AMF](/mobilnisite/slovnik/amf/), [UPF](/mobilnisite/slovnik/upf/) v 5G). To umožňuje řízené a opakovatelné testování funkčnosti sítě v laboratorním, integračním nebo živém síťovém prostředí.
 
 Z architektonického hlediska se LTE připojuje k síti prostřednictvím standardních rozhraní pro správu (např. Itf-N) a může využívat protokolové zásobníky pro přímou komunikaci s řídicí rovinou sítě. Mezi klíčové komponenty patří enginy pro skriptování testovacích scénářů, nástroje pro tvorbu/analýzu protokolových zpráv a analyzátory výsledků. LTE dokáže simulovat více virtuálních UE s různými profily, čímž generuje zátěž a různé vzorce chování. Hraje klíčovou roli v řízení životního cyklu sítě tím, že umožňuje testování shody (conformance), regresní testování po softwarových aktualizacích, izolaci chyb a měření výkonu. Emulací terminálů ověřuje, že síťové uzly správně zpracovávají signalizační sekvence a poskytují očekávané služby.
 
@@ -38,6 +38,11 @@ Dále LTE řeší omezení tradičního drive testování a fyzického sondován
 - Spolupracuje se systémy správy sítě pro integrované pracovní postupy OAM
 - Ověřuje shodu síťových funkcí se standardy 3GPP
 - Umožňuje izolaci chyb a diagnostické testování bez fyzických zařízení
+
+## Související pojmy
+
+- [OAM – Operations, Administration, and Maintenance](/mobilnisite/slovnik/oam/)
+- [UE – User Equipment](/mobilnisite/slovnik/ue/)
 
 ## Definující specifikace
 

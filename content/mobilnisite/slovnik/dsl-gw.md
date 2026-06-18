@@ -16,11 +16,11 @@ DSL-GW je síťový prvek, který zprostředkovává rozhraní mezi DSL přístu
 
 ## Popis
 
-[DSL](/mobilnisite/slovnik/dsl/) Gateway funguje jako entita podobná bráně [GPRS](/mobilnisite/slovnik/gprs/) support node (GGSN) pro provoz pocházející z nebo směřující do DSL přístupových sítí. Ukončuje uživatelskou rovinu a řídicí rovinu spojení DSL, typicky využívající relace PPP nebo IP přes DSL linku. DSL-GW se připojuje k mobilní jádrové síti přes referenční bod Gi, díky čemuž se DSL přístup z pohledu GGSN nebo PGW jeví jako další paketová datová síť. Provádí klíčové funkce, jako je přidělování IP adres (často pomocí [DHCP](/mobilnisite/slovnik/dhcp/)), směrování a přeposílání paketů a řízení provozu.
+[DSL](/mobilnisite/slovnik/dsl/) Gateway funguje jako entita podobná bráně [GPRS](/mobilnisite/slovnik/gprs/) support node (GGSN) pro provoz pocházející z nebo směřující do DSL přístupových sítí. Ukončuje uživatelskou rovinu a řídicí rovinu spojení DSL, typicky využívající relace [PPP](/mobilnisite/slovnik/ppp/) nebo IP přes DSL linku. DSL-GW se připojuje k mobilní jádrové síti přes referenční bod Gi, díky čemuž se DSL přístup z pohledu GGSN nebo [PGW](/mobilnisite/slovnik/pgw/) jeví jako další paketová datová síť. Provádí klíčové funkce, jako je přidělování IP adres (často pomocí [DHCP](/mobilnisite/slovnik/dhcp/)), směrování a přeposílání paketů a řízení provozu.
 
 Z architektonického hlediska se DSL-GW nachází na okraji mobilního jádra, na jedné straně se připojuje k DSL přístupovým multiplexorům (DSLAM) a na straně druhé k GGSN/PGW. Obsahuje komponenty pro správu relací, vynucování politik a generování účtovacích dat. V architektuře 3GPP Rel-8 hraje roli při umožnění bezproblémové kontinuity služeb a společné kontroly politik pro uživatele, kteří mohou přepínat mezi 3GPP radiovým přístupem a pevným DSL přístupem.
 
-Specifikace 25.467 podrobně popisuje DSL-GW v kontextu celkového popisu UTRAN. Jeho úlohou je poskytnout standardizovaný mechanismus pro vzájemné propojení mezi mobilními sítěmi UMTS/GPRS a pevnými širokopásmovými sítěmi založenými na DSL. To umožňuje mobilním operátorům, kteří vlastní také pevné sítě, nabízet integrované služby a optimalizovat směrování provozu napříč jejich kombinovanými aktivy.
+Specifikace 25.467 podrobně popisuje DSL-GW v kontextu celkového popisu [UTRAN](/mobilnisite/slovnik/utran/). Jeho úlohou je poskytnout standardizovaný mechanismus pro vzájemné propojení mezi mobilními sítěmi UMTS/GPRS a pevnými širokopásmovými sítěmi založenými na DSL. To umožňuje mobilním operátorům, kteří vlastní také pevné sítě, nabízet integrované služby a optimalizovat směrování provozu napříč jejich kombinovanými aktivy.
 
 ## K čemu slouží
 

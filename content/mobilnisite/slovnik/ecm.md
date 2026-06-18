@@ -26,7 +26,7 @@ Při provozu ECM přidává režii kvůli hlavičkám bloků a opakovaným přen
 
 ECM byl vytvořen, aby řešil výzvu spolehlivého přenosu faksimilních dokumentů přes nespolehlivé mobilní rádiové kanály. V raných mobilních sítích (např. GSM) byl fax kritickou obchodní službou, ale rádiové interference, útlum a předávání spojení mohly poškodit data, což vedlo k nečitelným faxovým stránkám. Bez opravy chyb byly faxové přenosy přes mobilní spoje často nespolehlivé, což omezovalo přijetí mobilních faxových služeb. ECM to řeší implementací robustního schématu detekce chyb a opakovaného přenosu, čímž zajišťuje integritu dokumentu podobně jako fax přes pevnou linku.
 
-Historický kontext vychází ze standardu [ITU-T](/mobilnisite/slovnik/itu-t/) T.30 pro fax přes PSTN/[ISDN](/mobilnisite/slovnik/isdn/), který zahrnoval ECM pro řízení chyb. 3GPP to přijalo a přizpůsobilo pro mobilní sítě, aby zachovalo interoperabilitu s existujícími faxovými přístroji a sítěmi. Předchozí přístupy, jako základní faxové režimy bez ECM, trpěly vysokou mírou chyb v mobilním prostředí, což způsobovalo časté neúspěšné přenosy nebo zkreslené výstupy. ECM poskytlo standardizovanou metodu pro zmírnění těchto problémů, což umožnilo životaschopné mobilní faxové služby jako součást nabídky okruhově přepínaných dat 3GPP.
+Historický kontext vychází ze standardu [ITU-T](/mobilnisite/slovnik/itu-t/) T.30 pro fax přes [PSTN](/mobilnisite/slovnik/pstn/)/[ISDN](/mobilnisite/slovnik/isdn/), který zahrnoval ECM pro řízení chyb. 3GPP to přijalo a přizpůsobilo pro mobilní sítě, aby zachovalo interoperabilitu s existujícími faxovými přístroji a sítěmi. Předchozí přístupy, jako základní faxové režimy bez ECM, trpěly vysokou mírou chyb v mobilním prostředí, což způsobovalo časté neúspěšné přenosy nebo zkreslené výstupy. ECM poskytlo standardizovanou metodu pro zmírnění těchto problémů, což umožnilo životaschopné mobilní faxové služby jako součást nabídky okruhově přepínaných dat 3GPP.
 
 Motivace ECM také spočívá v podpoře starších služeb během přechodu na digitální mobilní systémy a zajištění zpětné kompatibility. Řešila omezení předchozích mobilních datových služeb, kterým chyběla oprava chyb na aplikační vrstvě pro fax v reálném čase. Začleněním ECM 3GPP umožnilo spolehlivý fax přes 2G, 3G a další generace, čímž splnilo regulační a obchodní potřeby přenosu dokumentů v odvětvích, jako je zdravotnictví a právo, kde fax zůstal zakořeněn.
 
@@ -41,6 +41,7 @@ Motivace ECM také spočívá v podpoře starších služeb během přechodu na 
 
 ## Související pojmy
 
+- [UMTS – Universal Mobile Telecommunications System](/mobilnisite/slovnik/umts/)
 - [GSM – Global System for Mobile Communications](/mobilnisite/slovnik/gsm/)
 
 ## Definující specifikace

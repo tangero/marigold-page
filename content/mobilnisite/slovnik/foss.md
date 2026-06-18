@@ -18,7 +18,7 @@ FOSS je typ softwaru, jehož veřejně dostupný zdrojový kód lze volně použ
 
 Free and Open Source Software (FOSS) v kontextu 3GPP není konkrétní protokol nebo síťový prvek, ale kategorie softwaru, jejíž licenční a distribuční model je řešen z bezpečnostní a řídicí perspektivy. Specifikace 3GPP, zejména v řadě 33 (Bezpečnost), poskytují pokyny a požadavky pro používání FOSS v síťových funkcích a produktech. To zahrnuje zavedení procesů bezpečnostního zajištění pro řízení rizik spojených s integrací externě vyvinutého, veřejně dostupného kódu do kritických telekomunikačních systémů.
 
-Architektonické hledisko pro FOSS je integrováno do širšího rámce specifikace bezpečnostního zajištění (SCAS). Když dodavatel síťové funkce zahrne FOSS komponenty, musí celý produkt včetně těchto komponent podrobit bezpečnostnímu hodnocení. Otevřená povaha zdrojového kódu znamená, že potenciální zranitelnosti jsou veřejně dohledatelné, což vyžaduje robustní procesy správy zranitelností a nasazování záplat. Provozovatel sítě nebo dodavatel je odpovědný za vedení soupisu softwarových komponent (SBOM) ke sledování všech závislostí na FOSS.
+Architektonické hledisko pro FOSS je integrováno do širšího rámce specifikace bezpečnostního zajištění ([SCAS](/mobilnisite/slovnik/scas/)). Když dodavatel síťové funkce zahrne FOSS komponenty, musí celý produkt včetně těchto komponent podrobit bezpečnostnímu hodnocení. Otevřená povaha zdrojového kódu znamená, že potenciální zranitelnosti jsou veřejně dohledatelné, což vyžaduje robustní procesy správy zranitelností a nasazování záplat. Provozovatel sítě nebo dodavatel je odpovědný za vedení soupisu softwarových komponent (SBOM) ke sledování všech závislostí na FOSS.
 
 Jeho role v síti je základní, ale nepřímá, protože FOSS komponenty mohou být součástí prakticky jakéhokoli síťového softwaru, od funkcí jádra sítě, jako je [AMF](/mobilnisite/slovnik/amf/) nebo [SMF](/mobilnisite/slovnik/smf/), přes platformy pro správu a orchestraci ([MANO](/mobilnisite/slovnik/mano/)) až po software pro rádiový přístupový síť. Bezpečnostní specifikace 3GPP ukládají, že použití FOSS nesmí ohrozit celkové bezpečnostní cíle důvěrnosti, integrity a dostupnosti. To vyžaduje pečlivou integraci, nepřetržité sledování bezpečnostních oznámení pro používané FOSS knihovny a schopnost rychle nasazovat aktualizace nebo zmírňující opatření k řešení nově objevených chyb.
 
@@ -36,6 +36,10 @@ Předchozí přístupy často postrádaly formální politiky pro open-source so
 - Vyžaduje vedení soupisu softwarových komponent (SBOM)
 - Musí dodržovat příslušné open-source licence
 - Podporuje integraci bezpečnostních záplat bez ohrožení stability sítě
+
+## Související pojmy
+
+- [SCAS – 3GPP Security Assurance Specification](/mobilnisite/slovnik/scas/)
 
 ## Definující specifikace
 

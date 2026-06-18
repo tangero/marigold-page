@@ -16,7 +16,7 @@ EI je primitivní funkce protokolové vrstvy používaná ve stohu protokolů 3G
 
 ## Popis
 
-Error Indication (EI) je primitivní funkce definovaná v architektuře protokolů 3GPP, konkrétně v kontextu bodů přístupu ke službám (SAP) mezi protokolovými vrstvami. Jde o řídicí primitivní funkci, nikoli primitivní funkci pro uživatelská data, používanou k oznámení, že nižší vrstva detekovala neodstranitelný chybový stav týkající se konkrétní instance služby nebo spojení. Když nižší vrstva (např. vrstva řízení rádiového spoje – RLC) narazí na závažnou poruchu, jako je překročení maximálního počtu retransmisí nebo selhání rádiového spoje, vygeneruje primitivní funkci EI a předá ji výše do vyšší vrstvy (např. vrstvě PDCP nebo [RRC](/mobilnisite/slovnik/rrc/)). Tato primitivní funkce obsahuje parametry identifikující zasaženou entitu, například identitu rádiového přenosového kanálu (Radio Bearer) nebo signalizačního rádiového přenosového kanálu (Signaling Radio Bearer).
+Error Indication (EI) je primitivní funkce definovaná v architektuře protokolů 3GPP, konkrétně v kontextu bodů přístupu ke službám ([SAP](/mobilnisite/slovnik/sap/)) mezi protokolovými vrstvami. Jde o řídicí primitivní funkci, nikoli primitivní funkci pro uživatelská data, používanou k oznámení, že nižší vrstva detekovala neodstranitelný chybový stav týkající se konkrétní instance služby nebo spojení. Když nižší vrstva (např. vrstva řízení rádiového spoje – [RLC](/mobilnisite/slovnik/rlc/)) narazí na závažnou poruchu, jako je překročení maximálního počtu retransmisí nebo selhání rádiového spoje, vygeneruje primitivní funkci EI a předá ji výše do vyšší vrstvy (např. vrstvě [PDCP](/mobilnisite/slovnik/pdcp/) nebo [RRC](/mobilnisite/slovnik/rrc/)). Tato primitivní funkce obsahuje parametry identifikující zasaženou entitu, například identitu rádiového přenosového kanálu (Radio Bearer) nebo signalizačního rádiového přenosového kanálu (Signaling Radio Bearer).
 
 Přijetí Error Indication spouští v vyšší vrstvě specifické akce obnovy. Například v LTE a 5G NR, pokud vrstva RLC odešle EI pro datový rádiový přenosový kanál, může vrstva PDCP zahájit proceduru jeho obnovení. Pro signalizační rádiové přenosové kanály může vrstva RRC interpretovat EI jako selhání rádiového spoje a zahájit procedury obnovení spojení. Mechanismus EI je klíčový pro udržení kontinuity služeb a robustnosti, neboť umožňuje síti a uživatelskému zařízení (UE) rychle reagovat na zhoršující se podmínky spoje.
 
@@ -39,6 +39,8 @@ Její vytvoření bylo motivováno potřebou robustního řízení mobility a re
 
 ## Související pojmy
 
+- [RLC – Radio Link Control](/mobilnisite/slovnik/rlc/)
+- [PDCP – Packet Data Convergence Protocol](/mobilnisite/slovnik/pdcp/)
 - [RRC – Radio Resource Control](/mobilnisite/slovnik/rrc/)
 
 ## Definující specifikace

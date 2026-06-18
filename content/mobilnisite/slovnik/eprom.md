@@ -24,7 +24,7 @@ Zmínka o EPROM ve specifikacích 3GPP, jako je 21.905 (slovníček), odráží 
 
 ## K čemu slouží
 
-Technologie EPROM byla začleněna do úvah o zařízeních a infrastruktuře 3GPP, aby řešila potřebu spolehlivého, nevolatilního a aktualizovatelného úložiště firmwaru v éře před rozšířením flexibilnější Flash paměti. Při vývoji systémů 3G (UMTS) vyžadovala síťová zařízení a mobilní terminály trvalé paměťové řešení pro uložení komplexního softwaru, který implementoval protokolové zásobníky 3GPP, rádiové algoritmy a funkce správy zařízení. Paměť ROM (jen pro čtení) byla příliš nepružná a paměť RAM byla volatilní. EPROM poskytovala střední cestu: mohla být naprogramována během výroby a, což bylo klíčové, vymazána a přeprogramována, pokud byly nalezeny chyby nebo se standardy vyvíjely, což bylo nezbytné během vývojových a raných nasazovacích fází nových technologií.
+Technologie EPROM byla začleněna do úvah o zařízeních a infrastruktuře 3GPP, aby řešila potřebu spolehlivého, nevolatilního a aktualizovatelného úložiště firmwaru v éře před rozšířením flexibilnější Flash paměti. Při vývoji systémů 3G (UMTS) vyžadovala síťová zařízení a mobilní terminály trvalé paměťové řešení pro uložení komplexního softwaru, který implementoval protokolové zásobníky 3GPP, rádiové algoritmy a funkce správy zařízení. Paměť [ROM](/mobilnisite/slovnik/rom/) (jen pro čtení) byla příliš nepružná a paměť [RAM](/mobilnisite/slovnik/ram/) byla volatilní. EPROM poskytovala střední cestu: mohla být naprogramována během výroby a, což bylo klíčové, vymazána a přeprogramována, pokud byly nalezeny chyby nebo se standardy vyvíjely, což bylo nezbytné během vývojových a raných nasazovacích fází nových technologií.
 
 Jejím účelem v kontextu specifikace bylo poskytnout známý, hmatatelný referenční bod pro umístění standardizovaného kódu nebo dat. Pro testování shody a schvalování typu bylo důležité zajistit, aby provozní software UE – potenciálně uložený v EPROM – správně implementoval standardy 3GPP. Možnost vymazání a přeprogramování také napomáhala údržbě a upgradu nasazených základnových stanic, ačkoli proces UV vymazání byl pro vzdálené aktualizace nepraktický. Omezení EPROM – konkrétně potřeba fyzického UV vymazání a omezený počet cyklů vymazání/zápisu – motivovala průmysl k přechodu na [EEPROM](/mobilnisite/slovnik/eeprom/) (Electrically Erasable PROM) a později na paměti NAND/NOR Flash, které podporují elektrické vymazání v systému a jsou základem pro moderní aktualizace firmwaru přes vzdušné rozhraní (FOTA).
 
@@ -36,6 +36,11 @@ Jejím účelem v kontextu specifikace bylo poskytnout známý, hmatatelný refe
 - Obsahuje průhledné křemenné okénko na pouzdře čipu pro UV expozici.
 - Používá se pro ukládání firmwaru, spouštěcího kódu nebo pevných konfiguračních dat.
 - Poskytuje větší flexibilitu než masková ROM, ale menší než plně elektrická Flash paměť.
+
+## Související pojmy
+
+- [UE – User Equipment](/mobilnisite/slovnik/ue/)
+- [USIM – Universal Subscriber Identity Module](/mobilnisite/slovnik/usim/)
 
 ## Definující specifikace
 

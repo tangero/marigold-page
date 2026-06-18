@@ -16,9 +16,9 @@ BTR je mechanismus 3GPP, který umožňuje přenosy dat na pozadí pro aplikace 
 
 ## Popis
 
-Background Data Transfer Request (BTR) je standardizovaná servisní funkce 3GPP navržená pro správu neurgentního, na zpoždění tolerantního datového provozu v mobilních sítích. Funguje jako součást architektury Policy and Charging Control (PCC) a je konkrétně definována v 3GPP TS 29.154, která popisuje rozhraní N40 mezi Application Function ([AF](/mobilnisite/slovnik/af/)) a Policy and Charging Rules Function (PCRF). Základní mechanismus spočívá v tom, že aplikační server (vystupující jako AF) signalizuje síťovému PCRF, že má připravena data na pozadí k doručení konkrétnímu uživatelskému zařízení (UE). Tato signalizace nese parametry jako identifikátor cílového UE, odhadovaný objem dat a případně časová okna nebo náznaky priority pro přenos.
+Background Data Transfer Request (BTR) je standardizovaná servisní funkce 3GPP navržená pro správu neurgentního, na zpoždění tolerantního datového provozu v mobilních sítích. Funguje jako součást architektury Policy and Charging Control ([PCC](/mobilnisite/slovnik/pcc/)) a je konkrétně definována v 3GPP TS 29.154, která popisuje rozhraní N40 mezi Application Function ([AF](/mobilnisite/slovnik/af/)) a Policy and Charging Rules Function ([PCRF](/mobilnisite/slovnik/pcrf/)). Základní mechanismus spočívá v tom, že aplikační server (vystupující jako AF) signalizuje síťovému PCRF, že má připravena data na pozadí k doručení konkrétnímu uživatelskému zařízení (UE). Tato signalizace nese parametry jako identifikátor cílového UE, odhadovaný objem dat a případně časová okna nebo náznaky priority pro přenos.
 
-Architektonicky BTR využívá stávající komponenty PCC. Když AF (např. server pro aktualizace softwaru) zjistí, že jsou pro UE k dispozici data na pozadí, odešle přes rozhraní N40 zprávu BTR do PCRF. PCRF, který spravuje profil předplatitele a je informován o stavu sítě, tuto žádost zpracuje. Vyhodnotí ji vůči předplaceným politikám uživatele, aktuálnímu vytížení sítě a dalším pravidlům PCC. Na základě tohoto vyhodnocení se PCRF může rozhodnout přenos na pozadí autorizovat a následně nainstalovat odpovídající pravidla Policy and Charging Control (PCC) v Packet Gateway (PGW) nebo, v 5G, v Session Management Function ([SMF](/mobilnisite/slovnik/smf/)) a User Plane Function ([UPF](/mobilnisite/slovnik/upf/)).
+Architektonicky BTR využívá stávající komponenty PCC. Když AF (např. server pro aktualizace softwaru) zjistí, že jsou pro UE k dispozici data na pozadí, odešle přes rozhraní N40 zprávu BTR do PCRF. PCRF, který spravuje profil předplatitele a je informován o stavu sítě, tuto žádost zpracuje. Vyhodnotí ji vůči předplaceným politikám uživatele, aktuálnímu vytížení sítě a dalším pravidlům PCC. Na základě tohoto vyhodnocení se PCRF může rozhodnout přenos na pozadí autorizovat a následně nainstalovat odpovídající pravidla Policy and Charging Control (PCC) v Packet Gateway ([PGW](/mobilnisite/slovnik/pgw/)) nebo, v 5G, v Session Management Function ([SMF](/mobilnisite/slovnik/smf/)) a User Plane Function ([UPF](/mobilnisite/slovnik/upf/)).
 
 Nainstalovaná pravidla PCC efektivně vytvoří vyhrazený bearer nebo QoS Flow označený pro provoz na pozadí. Tato pravidla instruují uzly uživatelské roviny, aby zacházely s přidruženými IP pakety s nižší prioritou QoS Class Identifier ([QCI](/mobilnisite/slovnik/qci/) nebo [5QI](/mobilnisite/slovnik/5qi/)), typicky s takovou, která je určena pro negarantovanou přenosovou rychlost a na zpoždění tolerantní data. Síť pak může naplánovat přenos těchto dat v obdobích nižšího využití rádiových zdrojů nebo nižšího vytížení sítě, například v mimoprovozních hodinách. Toto plánování je řízeno Radio Access Network (RAN) na základě QoS označení, bez nutnosti explicitní, okamžité interakce od koncového uživatele. Proces je transparentní pro aplikace na popředí v UE, které nadále fungují s přiřazenými vysoce prioritními zdroji.
 
@@ -30,7 +30,7 @@ BTR byl zaveden, aby řešil rostoucí výzvu správy časově nekritického dat
 
 Vytvoření BTR bylo motivováno potřebou chytřejší správy provozu a vzestupem komunikací Machine-to-Machine (M2M) a Internetu věcí (IoT), kde je mnoho datových přenosů inherentně na zpoždění tolerantních. 3GPP uznalo, že ne všechna data jsou stejná; některá mohou být odložena bez dopadu na uživatele. BTR poskytuje potřebný signalizační protokol, který umožňuje důvěryhodným poskytovatelům aplikací informovat síť o takových odložitelných datech, a tím umožnit síťově asistovanou optimalizaci. To je v souladu s širšími snahami 3GPP ve vydáních 13 a novějších o zlepšení efektivity sítě, podpoře různorodých požadavků služeb a implementaci sofistikovanější kontroly politik.
 
-Řešením problému nekoordinovaného provozu na pozadí pomáhá BTR mobilním síťovým operátorům ([MNO](/mobilnisite/slovnik/mno/)) vyrovnávat špičky provozu, zlepšovat spektrální efektivitu a poskytovat konzistentnější kvalitu služeb. Pro poskytovatele aplikací nabízí standardizovaný způsob, jak zajistit, že jejich aktualizace na pozadí se nakonec dokončí, aniž by byly nadměrně omezovány nebo blokovány síťovými politikami. Pro koncové uživatele je výhodou lepší celkový zážitek, protože jejich interaktivní služby čelí menší konkurenci od neviditelných úloh na pozadí a výdrž baterie jejich zařízení může být zachována díky efektivnějšímu plánování dat.
+Řešením problému nekoordinovaného provozu na pozadí pomáhá BTR mobilním síťovým operátorům (MNO) vyrovnávat špičky provozu, zlepšovat spektrální efektivitu a poskytovat konzistentnější kvalitu služeb. Pro poskytovatele aplikací nabízí standardizovaný způsob, jak zajistit, že jejich aktualizace na pozadí se nakonec dokončí, aniž by byly nadměrně omezovány nebo blokovány síťovými politikami. Pro koncové uživatele je výhodou lepší celkový zážitek, protože jejich interaktivní služby čelí menší konkurenci od neviditelných úloh na pozadí a výdrž baterie jejich zařízení může být zachována díky efektivnějšímu plánování dat.
 
 ## Klíčové vlastnosti
 
@@ -40,6 +40,11 @@ Vytvoření BTR bylo motivováno potřebou chytřejší správy provozu a vzestu
 - Podpora parametrů jako odhadovaný objem přenosu a volitelná časová okna pro doručení
 - Bezproblémová integrace se stávající architekturou 3GPP PCC pro vynucování politik
 - Transparentní fungování vůči UE a jeho aplikacím na popředí
+
+## Související pojmy
+
+- [PCC – Performance-oriented Congestion Control](/mobilnisite/slovnik/pcc/)
+- [QoS – Quality of Service](/mobilnisite/slovnik/qos/)
 
 ## Definující specifikace
 

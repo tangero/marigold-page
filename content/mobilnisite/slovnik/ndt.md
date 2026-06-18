@@ -20,7 +20,7 @@ Služba správy digitálního dvojčete sítě (MnS Network Digital Twin Managem
 
 Jádrová funkcionalita NDT se točí kolem životního cyklu digitálního dvojčete. To zahrnuje zřizování a instanciaci dvojčete na základě konfigurace fyzické sítě a dat o stavu v reálném nebo téměř reálném čase. Služba definuje mechanismy pro příjem dat, synchronizaci modelu a aktualizace stavu, aby bylo zajištěno, že dvojče přesně odráží svůj fyzický protějšek. Mezi klíčové spravované komponenty patří topologie sítě, konfigurace zdrojů, metriky výkonu, stavy poruch a modely provozu. Digitální dvojče není statický snímek, ale živý model, který může být napájen živou telemetrií, což mu umožňuje simulovat chování sítě za různých podmínek, předpovídat poruchy nebo testovat změny konfigurace před nasazením.
 
-V provozu služba NDT umožňuje automatizaci se zpětnovazební smyčkou (closed-loop) a pokročilou analytiku. Inženýři mohou na dvojčeti spouštět scénáře typu „co kdyby“, jako je simulace dopadu nové softwarové aktualizace, náhlého nárůstu provozu nebo výpadku buňky, aniž by riskovali živou síť. To podporuje proaktivní údržbu, plánování kapacity a optimalizaci spotřeby energie. Její role je klíčová ve vývoji směrem k samoorganizujícím se sítím (SON) a správě založené na záměru (intent-based management), kde digitální dvojče slouží jako sandbox pro ověřování autonomních síťových rozhodnutí. Standardizací této služby 3GPP zajišťuje interoperabilitu mezi systémy správy a platformami digitálních dvojčat od různých dodavatelů, což usnadňuje automatizaci sítí v multivendorovém prostředí.
+V provozu služba NDT umožňuje automatizaci se zpětnovazební smyčkou (closed-loop) a pokročilou analytiku. Inženýři mohou na dvojčeti spouštět scénáře typu „co kdyby“, jako je simulace dopadu nové softwarové aktualizace, náhlého nárůstu provozu nebo výpadku buňky, aniž by riskovali živou síť. To podporuje proaktivní údržbu, plánování kapacity a optimalizaci spotřeby energie. Její role je klíčová ve vývoji směrem k samoorganizujícím se sítím ([SON](/mobilnisite/slovnik/son/)) a správě založené na záměru (intent-based management), kde digitální dvojče slouží jako sandbox pro ověřování autonomních síťových rozhodnutí. Standardizací této služby 3GPP zajišťuje interoperabilitu mezi systémy správy a platformami digitálních dvojčat od různých dodavatelů, což usnadňuje automatizaci sítí v multivendorovém prostředí.
 
 ## K čemu slouží
 
@@ -40,6 +40,7 @@ Jeho vytvoření bylo motivováno potřebou prediktivní a preskriptivní správ
 ## Související pojmy
 
 - [MNS – Mobile Network Signalling](/mobilnisite/slovnik/mns/)
+- [SON – Self-Organizing Network](/mobilnisite/slovnik/son/)
 - [MANO – Management and Orchestration](/mobilnisite/slovnik/mano/)
 
 ## Definující specifikace

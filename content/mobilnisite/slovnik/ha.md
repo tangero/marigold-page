@@ -18,7 +18,7 @@ HA je služba 3GPP poskytující přesné určování polohy pomocí technik jak
 
 High-Accuracy [GNSS](/mobilnisite/slovnik/gnss/) (HA) je standardizovaná služba v rámci 3GPP, která využívá pokročilá korekční data globálního navigačního satelitního systému (GNSS) k dosažení přesnosti určování polohy na úrovni centimetrů nebo decimetrů. Na rozdíl od konvenčního GNSS, který spoléhá na samostatné satelitní signály náchylné k chybám z atmosférických zpoždění, nepřesností satelitních hodin a odchylek oběžných drah, HA využívá korekční datové toky přenášené přes mobilní sítě. Tyto korekce kompenzují systematické chyby, což umožňuje přijímačům vypočítat vysoce přesné polohy. Služba je definována tak, aby podporovala více GNSS konstelací včetně [GPS](/mobilnisite/slovnik/gps/), Galileo, [GLONASS](/mobilnisite/slovnik/glonass/) a BeiDou, čímž zajišťuje globální interoperabilitu a robustnost prostřednictvím redundance signálu.
 
-Architektura HA zahrnuje několik klíčových komponent: uživatelské zařízení (UE) se schopným GNSS přijímačem, mobilní síť pro přenos dat a externí nebo síťové poskytovatele korekčních služeb. Korekční data, generovaná sítěmi referenčních stanic monitorujících GNSS signály, jsou doručována do UE prostřednictvím point-to-point nebo broadcast mechanismů. Pro doručování se používají protokoly jako Secure User Plane Location (SUPL) nebo metody řídicí roviny, s formáty standardizovanými organizacemi jako Radio Technical Commission for Maritime Services (RTCM) nebo proprietární řešení. UE aplikuje tyto korekce v reálném čase pomocí algoritmů pro RTK nebo PPP, v závislosti na požadované přesnosti, latenci a dostupnosti infrastruktury.
+Architektura HA zahrnuje několik klíčových komponent: uživatelské zařízení (UE) se schopným GNSS přijímačem, mobilní síť pro přenos dat a externí nebo síťové poskytovatele korekčních služeb. Korekční data, generovaná sítěmi referenčních stanic monitorujících GNSS signály, jsou doručována do UE prostřednictvím point-to-point nebo broadcast mechanismů. Pro doručování se používají protokoly jako Secure User Plane Location ([SUPL](/mobilnisite/slovnik/supl/)) nebo metody řídicí roviny, s formáty standardizovanými organizacemi jako Radio Technical Commission for Maritime Services (RTCM) nebo proprietární řešení. UE aplikuje tyto korekce v reálném čase pomocí algoritmů pro [RTK](/mobilnisite/slovnik/rtk/) nebo [PPP](/mobilnisite/slovnik/ppp/), v závislosti na požadované přesnosti, latenci a dostupnosti infrastruktury.
 
 HA funguje prostřednictvím dvou hlavních technik: Real-Time Kinematic (RTK) a Precise Point Positioning (PPP). RTK spoléhá na hustou síť referenčních stanic, které poskytují korekce založené na fázi, což umožňuje centimetrovou přesnost téměř okamžitě, ale vyžaduje blízkost infrastruktury. PPP využívá přesné korekce satelitních oběžných drah a hodin od globálních nebo regionálních služeb, dosahuje přesnosti od decimetrů po centimetry s delšími časy konvergence, ale širším pokrytím. Standardy 3GPP specifikují požadavky na službu, rozhraní a bezpečnostní mechanismy, aby zajistily spolehlivé a nízkolatenční doručování korekčních dat, a integrují HA do širšího rámce Location Services ([LCS](/mobilnisite/slovnik/lcs/)) pro aplikace jako nouzové služby, logistika a rozšířená realita.
 
@@ -42,6 +42,9 @@ Historicky bylo vysoce přesné určování polohy omezeno na specializované se
 ## Související pojmy
 
 - [GNSS – Global Navigation Satellite System](/mobilnisite/slovnik/gnss/)
+- [RTK – Real-Time Kinematic](/mobilnisite/slovnik/rtk/)
+- [PPP – Priority Precedence Preemption](/mobilnisite/slovnik/ppp/)
+- [SUPL – Secure User Plane for Location](/mobilnisite/slovnik/supl/)
 
 ## Definující specifikace
 

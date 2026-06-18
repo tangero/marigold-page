@@ -20,7 +20,7 @@ Highly Managed Alarms (HMA, vysoce řízené alarmy) je standardizovaný rámec 
 
 Z architektonického hlediska je HMA implementováno v rámci síťových prvků ([NE](/mobilnisite/slovnik/ne/)) a systémů pro správu prvků ([EMS](/mobilnisite/slovnik/ems/)). Definuje klíčové komponenty, jako je informační model alarmu (Alarm Information Model), který standardizuje atributy alarmu, jako je ID alarmu, vnímaná závažnost (kritický, závažný, méně závažný, varování), pravděpodobná příčina a konkrétní problém. Ústředním konceptem je model stavu alarmu, který zahrnuje stavy jako 'vyvolán', 'odstraněn' a 'potvrzen'. Rámec vyžaduje podporu korelace alarmů, kdy lze více souvisejících alarmů z různých NE spojit s jedinou hlavní příčinou, a podporu odložení alarmů (alarm shelving), což umožňuje operátorům dočasně potlačit alarmy pro plánované činnosti údržby.
 
-Jak to funguje, zahrnuje strukturovaný tok. Když síťový prvek (NE) detekuje poruchový stav, vytvoří instanci objektu alarmu podle modelu HMA a odešle oznámení do řídicího systému (EMS nebo Network Management System - [NMS](/mobilnisite/slovnik/nms/)). Řídicí systém tento alarm prezentuje a operátoři mohou provádět akce životního cyklu, jako je potvrzení nebo odstranění. Rámec zajišťuje konzistentnost v tom, jak jsou tyto akce komunikovány zpět k NE. Jeho úlohou je poskytovat jednotné, interoperabilní rozhraní pro správu poruch, což je kritická podmnožina OAM. To umožňuje operátorům efektivně sledovat stav sítě, diagnostikovat problémy a udržovat dostupnost služeb napříč heterogenním síťovým vybavením od různých dodavatelů.
+Jak to funguje, zahrnuje strukturovaný tok. Když síťový prvek (NE) detekuje poruchový stav, vytvoří instanci objektu alarmu podle modelu HMA a odešle oznámení do řídicího systému (EMS nebo Network Management System - [NMS](/mobilnisite/slovnik/nms/)). Řídicí systém tento alarm prezentuje a operátoři mohou provádět akce životního cyklu, jako je potvrzení nebo odstranění. Rámec zajišťuje konzistentnost v tom, jak jsou tyto akce komunikovány zpět k NE. Jeho úlohou je poskytovat jednotné, interoperabilní rozhraní pro správu poruch, což je kritická podmnožina [OAM](/mobilnisite/slovnik/oam/). To umožňuje operátorům efektivně sledovat stav sítě, diagnostikovat problémy a udržovat dostupnost služeb napříč heterogenním síťovým vybavením od různých dodavatelů.
 
 ## K čemu slouží
 
@@ -38,6 +38,10 @@ Jeho vytvoření bylo motivováno potřebou snížit provozní výdaje ([OPEX](/
 - Schopnost odložení alarmů (alarm shelving) pro plánovaná okna údržby
 - Standardizovaná rozhraní pro oznamování a hlášení změn stavu
 - Integrace s širším rámcem správy poruch (Fault Management) a OAM podle 3GPP
+
+## Související pojmy
+
+- [OAM – Operations, Administration, and Maintenance](/mobilnisite/slovnik/oam/)
 
 ## Definující specifikace
 

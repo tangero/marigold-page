@@ -18,7 +18,7 @@ COTS (Commercial Off-The-Shelf) označuje využití komerčně dostupných, hoto
 
 Commercial Off-The-Shelf (COTS) ve standardech 3GPP označuje využití standardizovaných, komerčně dostupných hardwarových a softwarových komponent, které lze zakoupit od dodavatelů bez nutnosti vlastního vývoje. Tento přístup zásadně transformuje architekturu telekomunikačních sítí tím, že umožňuje běh síťových funkcí na hardwaru pro všeobecné použití namísto proprietárního specializovaného zařízení. Specifikace 3GPP poskytují rámce a požadavky pro implementaci telekomunikačních funkcí na platformách COTS, zajišťují interoperabilitu, zabezpečení a výkon a zároveň využívají pokroky v komerční výpočetní technice.
 
-Z architektonického hlediska implementace COTS v sítích 3GPP zahrnuje několik klíčových komponent: standardní servery na bázi x86 nebo ARM, komerční hypervizory nebo kontejnerové platformy, komerční operační systémy a standardizovaná rozhraní. Tyto komponenty spolupracují prostřednictvím virtualizačních vrstev, které abstrahují podkladový hardware, což umožňuje nasazení síťových funkcí jako virtualizovaných síťových funkcí (VNF) nebo cloud-nativních síťových funkcí ([CNF](/mobilnisite/slovnik/cnf/)). Specifikace 3GPP definují, jak tyto virtualizované funkce vzájemně interagují a jak komunikují s fyzickou infrastrukturou, aby byly splněny požadavky na výkon, spolehlivost a zabezpečení i při použití nespecializovaného hardwaru.
+Z architektonického hlediska implementace COTS v sítích 3GPP zahrnuje několik klíčových komponent: standardní servery na bázi x86 nebo ARM, komerční hypervizory nebo kontejnerové platformy, komerční operační systémy a standardizovaná rozhraní. Tyto komponenty spolupracují prostřednictvím virtualizačních vrstev, které abstrahují podkladový hardware, což umožňuje nasazení síťových funkcí jako virtualizovaných síťových funkcí ([VNF](/mobilnisite/slovnik/vnf/)) nebo cloud-nativních síťových funkcí ([CNF](/mobilnisite/slovnik/cnf/)). Specifikace 3GPP definují, jak tyto virtualizované funkce vzájemně interagují a jak komunikují s fyzickou infrastrukturou, aby byly splněny požadavky na výkon, spolehlivost a zabezpečení i při použití nespecializovaného hardwaru.
 
 Při provozu fungují síťové funkce založené na COTS prostřednictvím softwarově definovaných architektur, kde jsou řídicí a datové roviny odděleny a implementovány jako softwarové aplikace. Hardware poskytuje výpočetní, úložné a síťové prostředky prostřednictvím standardizovaných rozhraní, zatímco síťové funkce běží jako softwarové instance, které lze dynamicky vytvářet, škálovat a migrovat. To vyžaduje sofistikované systémy orchestrace a správy, které dokážou přidělovat prostředky, monitorovat výkon a zajišťovat kontinuitu služeb. Rámec 3GPP pro správu a orchestraci ([MANO](/mobilnisite/slovnik/mano/)) spolu se specifikacemi jako 28.500 poskytují potřebná rozhraní a postupy pro správu nasazení založených na COTS.
 
@@ -45,6 +45,7 @@ COTS řeší omezení tradičního telekomunikačního zařízení tím, že umo
 
 - [NFV – Network Functions Virtualization](/mobilnisite/slovnik/nfv/)
 - [MANO – Management and Orchestration](/mobilnisite/slovnik/mano/)
+- [VNF – Virtualized Network Function](/mobilnisite/slovnik/vnf/)
 
 ## Definující specifikace
 

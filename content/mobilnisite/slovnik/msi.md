@@ -16,7 +16,7 @@ MSI je řídicí informace v LTE MBMS, která plánuje data na Multicast Channel
 
 ## Popis
 
-[MCH](/mobilnisite/slovnik/mch/) Scheduling Information (MSI) je klíčový řídicí prvek v LTE Radio Access Network (RAN) pro provoz služby Multimedia Broadcast Multicast Service ([MBMS](/mobilnisite/slovnik/mbms/)). Přenáší se jako součást informace [MCCH](/mobilnisite/slovnik/mcch/) (MBMS Control Channel) na MCH (Multicast Channel). MSI poskytuje detailní plánovací mapu pro přidružené přenosy dat na [MTCH](/mobilnisite/slovnik/mtch/) (MBMS Traffic Channel). Konkrétně obsahuje MSI [MAC](/mobilnisite/slovnik/mac/) Control Element, který uvádí podrámce přidělené každé službě MBMS (identifikované pomocí Temporary Mobile Group Identity, TMGI) v rámci konkrétního MCH Scheduling Period ([MSP](/mobilnisite/slovnik/msp/)). To umožňuje UE přesně vědět, kdy má aktivovat svůj přijímač pro dekódování požadovaných dat služby MBMS, aniž by muselo kanál nepřetržitě sledovat, čímž šetří energii baterie.
+[MCH](/mobilnisite/slovnik/mch/) Scheduling Information (MSI) je klíčový řídicí prvek v LTE Radio Access Network (RAN) pro provoz služby Multimedia Broadcast Multicast Service ([MBMS](/mobilnisite/slovnik/mbms/)). Přenáší se jako součást informace [MCCH](/mobilnisite/slovnik/mcch/) (MBMS Control Channel) na MCH (Multicast Channel). MSI poskytuje detailní plánovací mapu pro přidružené přenosy dat na [MTCH](/mobilnisite/slovnik/mtch/) (MBMS Traffic Channel). Konkrétně obsahuje MSI [MAC](/mobilnisite/slovnik/mac/) Control Element, který uvádí podrámce přidělené každé službě MBMS (identifikované pomocí Temporary Mobile Group Identity, [TMGI](/mobilnisite/slovnik/tmgi/)) v rámci konkrétního MCH Scheduling Period ([MSP](/mobilnisite/slovnik/msp/)). To umožňuje UE přesně vědět, kdy má aktivovat svůj přijímač pro dekódování požadovaných dat služby MBMS, aniž by muselo kanál nepřetržitě sledovat, čímž šetří energii baterie.
 
 Architektura MSI je zabudována do vrstvy MAC LTE pro MBMS. eNodeB, který funguje jako MBMS Gateway pro rozhraní rádiového přístupu, určuje plánování pro MTCH na základě požadavků služby a zatížení sítě. Tato plánovací informace je následně zabalena do MSI a periodicky vysílána na MCCH. UE po získání řídicích informací MBMS včetně konfigurace [MBSFN](/mobilnisite/slovnik/mbsfn/) Area a MCCH dekóduje MSI, aby si vytvořilo plán příjmu. Informace zahrnuje stop rámec a stop podrámec pro přenos každé služby, čímž efektivně definuje časové okno pro příjem.
 
@@ -24,7 +24,7 @@ Klíčové součásti mechanismu MSI zahrnují MCH Scheduling Period (MSP), což
 
 ## K čemu slouží
 
-MSI bylo vytvořeno, aby řešilo konkrétní výzvu efektivního doručování plánovaného broadcast a multicast obsahu v LTE sítích. Před [MBMS](/mobilnisite/slovnik/mbms/) byly mobilní sítě optimalizovány pro unicast (point-to-point) komunikaci. Vysílání obsahu, jako je mobilní TV, by bylo vysoce neefektivní, pokud by bylo považováno za více současných unicast streamů. Architektura MBMS zavedla sdílené kanály (MCH, MTCH), ale byl potřebný mechanismus, který by informoval potenciálně obrovské množství nečinných UE o tom, kdy budou přenášena data jejich požadované služby.
+MSI bylo vytvořeno, aby řešilo konkrétní výzvu efektivního doručování plánovaného broadcast a multicast obsahu v LTE sítích. Před MBMS byly mobilní sítě optimalizovány pro unicast (point-to-point) komunikaci. Vysílání obsahu, jako je mobilní TV, by bylo vysoce neefektivní, pokud by bylo považováno za více současných unicast streamů. Architektura MBMS zavedla sdílené kanály (MCH, MTCH), ale byl potřebný mechanismus, který by informoval potenciálně obrovské množství nečinných UE o tom, kdy budou přenášena data jejich požadované služby.
 
 Účelem MSI je vyřešit tento problém oznamování plánování. Umožňuje síti dynamicky přidělovat rádiové zdroje mezi různé služby MBMS a spolehlivě sdělovat toto přidělení všem UE v oblasti MBSFN. To řeší několik klíčových problémů: umožňuje úsporu energie UE prostřednictvím nespojitého příjmu (DRX) pro multicast služby, umožňuje flexibilní a sítí řízené rozdělování zdrojů mezi MBMS a unicast provoz a podporuje multiplexování služeb na jediném rádiovém kanálu. Jeho vytvoření bylo motivováno potřebou učinit broadcast služby ekonomicky životaschopnými na mobilních sítích maximalizací spektrální účinnosti a minimalizací spotřeby energie UE, což je klíčové pro přijetí služeb uživateli, jako je živé video vysílání.
 
@@ -44,6 +44,7 @@ MSI bylo vytvořeno, aby řešilo konkrétní výzvu efektivního doručování 
 - [MCCH – MBMS point-to-multipoint Control Channel](/mobilnisite/slovnik/mcch/)
 - [MBMS – Multimedia Broadcast Multicast Service](/mobilnisite/slovnik/mbms/)
 - [MBSFN – Multimedia Broadcast multicast service Single Frequency Network](/mobilnisite/slovnik/mbsfn/)
+- [TMGI – Temporary Multicast Group Identifier](/mobilnisite/slovnik/tmgi/)
 
 ## Definující specifikace
 

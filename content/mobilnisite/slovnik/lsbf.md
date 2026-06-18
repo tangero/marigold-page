@@ -30,7 +30,7 @@ LSBF byla vytvořena, aby řešila specifické výzvy účtování spojené se s
 
 Historicky vznikly lokalizační služby z regulatorních požadavků na lokalizaci tísňových volajících (E911 v USA, E112 v Evropě). Tato nařízení vyžadovala, aby sítě poskytovaly informace o poloze tísňovým službám, ale související náklady bylo třeba sledovat a potenciálně proplácet. LSBF pro to poskytla standardizovaný mechanismus. Následně, s nástupem komerčních [LCS](/mobilnisite/slovnik/lcs/) pro navigaci, sledování vozového parku a lokalizační reklamu, se flexibilní a robustní účtovací funkce stala nezbytnou pro obchodní modely. Před jejím definováním operátoři postrádali standardizovaný způsob účtování těchto služeb, což vedlo k proprietárním a neinteroperabilním řešením.
 
-Motivace pro LSBF byla hnací silou potřeby jasného oddělení kompetencí v rámci architektury LCS. Funkce řízení určování polohy ([LSCF](/mobilnisite/slovnik/lscf/)) a provádění (např. SAS, SMLC) jsou složité a specifické pro technologii. Přenesením veškeré účtovací logiky na vyhrazenou LSBF se celý systém stává modulárnějším a škálovatelnějším. Toto oddělení umožňuje nezávisle aktualizovat účtovací pravidla a tarify bez ohledu na technologii určování polohy a umožňuje konzistentní účtování napříč různými přístupovými sítěmi ([GERAN](/mobilnisite/slovnik/geran/), UTRAN, E-UTRAN). Řeší tak omezení dřívějších ad-hoc přístupů, kde byla účtovací data vedlejším produktem, což mohlo vést k úniku výnosů nebo neschopnosti splnit regulatorní požadavky na účtování tísňových služeb.
+Motivace pro LSBF byla hnací silou potřeby jasného oddělení kompetencí v rámci architektury LCS. Funkce řízení určování polohy ([LSCF](/mobilnisite/slovnik/lscf/)) a provádění (např. [SAS](/mobilnisite/slovnik/sas/), SMLC) jsou složité a specifické pro technologii. Přenesením veškeré účtovací logiky na vyhrazenou LSBF se celý systém stává modulárnějším a škálovatelnějším. Toto oddělení umožňuje nezávisle aktualizovat účtovací pravidla a tarify bez ohledu na technologii určování polohy a umožňuje konzistentní účtování napříč různými přístupovými sítěmi (GERAN, UTRAN, E-UTRAN). Řeší tak omezení dřívějších ad-hoc přístupů, kde byla účtovací data vedlejším produktem, což mohlo vést k úniku výnosů nebo neschopnosti splnit regulatorní požadavky na účtování tísňových služeb.
 
 ## Klíčové vlastnosti
 
@@ -45,6 +45,7 @@ Motivace pro LSBF byla hnací silou potřeby jasného oddělení kompetencí v r
 
 - [LCS – Location Services](/mobilnisite/slovnik/lcs/)
 - [LSCF – Location System Control Function](/mobilnisite/slovnik/lscf/)
+- [SUPL – Secure User Plane for Location](/mobilnisite/slovnik/supl/)
 
 ## Definující specifikace
 

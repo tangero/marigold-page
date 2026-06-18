@@ -16,7 +16,7 @@ DAT je standardizovaný formát digitální magnetické pásky používaný v te
 
 ## Popis
 
-Digital Audio Tape (DAT) je médium pro záznam a přehrávání signálu vyvinuté v 80. letech 20. století, využívající technologii šikmého záznamu s rotujícími hlavami na kazetách s magnetickou páskou. V kontextu specifikací 3GPP je DAT uváděn jako standardizovaný formát digitálního zvukového úložiště pro telekomunikační zařízení, zejména v oblasti hlasových služeb a doplňkových služeb. Tato technologie kóduje zvukové signály pomocí pulzně kódové modulace (PCM), typicky se vzorkovací frekvencí 48 kHz, 44,1 kHz nebo 32 kHz a s 16bitovou lineární kvantizací, což poskytuje vysokou věrnost zvuku vhodnou pro profesionální a telekomunikační aplikace. Mechanismus šikmého záznamu, při kterém se páska omotává kolem rotujícího bubnu obsahujícího záznamové a čtecí hlavy, umožňuje vysokou hustotu dat a robustní opravu chyb, což jej činí spolehlivým pro dlouhodobé ukládání zvukových zpráv, jako jsou ty v systémech hlasových schránek.
+Digital Audio Tape (DAT) je médium pro záznam a přehrávání signálu vyvinuté v 80. letech 20. století, využívající technologii šikmého záznamu s rotujícími hlavami na kazetách s magnetickou páskou. V kontextu specifikací 3GPP je DAT uváděn jako standardizovaný formát digitálního zvukového úložiště pro telekomunikační zařízení, zejména v oblasti hlasových služeb a doplňkových služeb. Tato technologie kóduje zvukové signály pomocí pulzně kódové modulace ([PCM](/mobilnisite/slovnik/pcm/)), typicky se vzorkovací frekvencí 48 kHz, 44,1 kHz nebo 32 kHz a s 16bitovou lineární kvantizací, což poskytuje vysokou věrnost zvuku vhodnou pro profesionální a telekomunikační aplikace. Mechanismus šikmého záznamu, při kterém se páska omotává kolem rotujícího bubnu obsahujícího záznamové a čtecí hlavy, umožňuje vysokou hustotu dat a robustní opravu chyb, což jej činí spolehlivým pro dlouhodobé ukládání zvukových zpráv, jako jsou ty v systémech hlasových schránek.
 
 V rámci architektury 3GPP jsou rozhraní a schopnosti DAT definovány v technických specifikacích, jako jsou 3GPP TS 26.975 a 3GPP TS 46.008, které detailně popisují zvukové kodeky a akustické charakteristiky terminálů, a 3GPP TS 26.978 a 3GPP TS 46.055, které pokrývají výkon řečových kodeků a síťové zpracování zvuku. Zařízení vybavená DAT, jako jsou síťové záznamové systémy, se integrují s prvky jádra sítě pro zachycení, uložení a načtení zvukových dat. Role tohoto formátu spočívá v zajištění, aby zvukové záznamy – například zprávy v hlasové schránce nebo záznamy hovorů – zachovávaly konzistentní kvalitu a byly přístupné napříč různými síťovými uzly, čímž podporují interoperabilitu mezi zařízeními od různých výrobců.
 
@@ -40,6 +40,10 @@ DAT řešil konkrétní telekomunikační výzvy tím, že nabídl robustní úl
 - Integrovaná oprava chyb pro integritu dat na magnetické pásce
 - Standardizovaný faktor kazety pro interoperabilitu
 - Podpora sekvenčního přístupu a dlouhodobého archivního úložiště
+
+## Související pojmy
+
+- [PCM – Pulse Code Modulation](/mobilnisite/slovnik/pcm/)
 
 ## Definující specifikace
 

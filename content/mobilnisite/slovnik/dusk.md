@@ -16,7 +16,7 @@ DUSK je kryptografický klíč používaný ke skramblování a zabezpečení zj
 
 ## Popis
 
-Discovery User Scrambling Key (DUSK) je základní bezpečnostní komponenta v architektuře služeb blízkosti (ProSe) dle 3GPP, konkrétně pro funkci přímého zjišťování (Direct Discovery). Jedná se o symetrický kryptografický klíč odvozený z kořenového klíče, ProSe Key (PK), který sám je poskytován funkcí ProSe v síti. Primární úlohou DUSK je poskytnout důvěrnost a integritu ProSe Application Code, což je identifikátor vysílaný zařízením, aby oznámilo svou přítomnost a služby jiným blízkým zařízením. Proces skramblování zahrnuje aplikaci DUSK na ProSe Application Code pomocí kryptografického algoritmu před jeho vysíláním přes referenční bod PC5 (přímé rozhraní mezi zařízeními). Tím se kód přemění pro jakéhokoli odposlouchávajícího na skramblovaný, nesrozumitelný řetězec.
+Discovery User Scrambling Key (DUSK) je základní bezpečnostní komponenta v architektuře služeb blízkosti ([ProSe](/mobilnisite/slovnik/prose/)) dle 3GPP, konkrétně pro funkci přímého zjišťování (Direct Discovery). Jedná se o symetrický kryptografický klíč odvozený z kořenového klíče, ProSe Key (PK), který sám je poskytován funkcí ProSe v síti. Primární úlohou DUSK je poskytnout důvěrnost a integritu ProSe Application Code, což je identifikátor vysílaný zařízením, aby oznámilo svou přítomnost a služby jiným blízkým zařízením. Proces skramblování zahrnuje aplikaci DUSK na ProSe Application Code pomocí kryptografického algoritmu před jeho vysíláním přes referenční bod PC5 (přímé rozhraní mezi zařízeními). Tím se kód přemění pro jakéhokoli odposlouchávajícího na skramblovaný, nesrozumitelný řetězec.
 
 Při přijetí skramblované zjišťovací zprávy autorizované zjišťující zařízení, které musí mít také odpovídající DUSK (získaný síťovou provizí pro omezené zjišťování nebo odvozený pro otevřené zjišťování), aplikuje proces deskramblování. Tento proces obrátí skramblování a obnoví původní ProSe Application Code. Držení správného DUSK slouží jako důkaz autorizace pro zjištění dané konkrétní služby. Správu klíče pro DUSK zajišťuje funkce ProSe, která klíč nebo potřebný materiál pro odvození klíče bezpečně doručuje do UE přes rozhraní LTE-Uu nebo NR-Uu, čímž zajišťuje, že se nikdy přímo nepřenáší přes nezabezpečené vzdušné rozhraní PC5.
 
@@ -24,7 +24,7 @@ Z architektonického hlediska DUSK funguje v rámci protokolového zásobníku P
 
 ## K čemu slouží
 
-DUSK byl zaveden, aby řešil kritické bezpečnostní a soukromostní výzvy vlastní zjišťování mezi zařízeními, což je základním kamenem služeb blízkosti (ProSe) standardizovaných od 3GPP Release 12. Bez takového mechanismu by zařízení vysílající zjišťovací kódy v čitelné podobě byla zranitelná vůči narušení soukromí, protože škodliví aktéři by mohli sledovat polohu a vazby uživatele v čase monitorováním těchto trvalých identifikátorů. Dále by byly snadné útoky falšováním identity, což by umožnilo jakémukoli zařízení vydávat se za legitimní službu.
+DUSK byl zaveden, aby řešil kritické bezpečnostní a soukromostní výzvy vlastní zjišťování mezi zařízeními, což je základním kamenem služeb blízkosti ([ProSe](/mobilnisite/slovnik/prose/)) standardizovaných od 3GPP Release 12. Bez takového mechanismu by zařízení vysílající zjišťovací kódy v čitelné podobě byla zranitelná vůči narušení soukromí, protože škodliví aktéři by mohli sledovat polohu a vazby uživatele v čase monitorováním těchto trvalých identifikátorů. Dále by byly snadné útoky falšováním identity, což by umožnilo jakémukoli zařízení vydávat se za legitimní službu.
 
 Vytvoření DUSK bylo motivováno potřebou umožnit důvěryhodné zjišťování v komerčních scénářích a scénářích veřejné bezpečnosti. Předchozí ad-hoc metody zjišťování, jako názvy zařízení Bluetooth, nenabízely standardizovanou bezpečnost. DUSK poskytuje standardizovaný, sítí podporovaný bezpečnostní rámec, který umožňuje jak otevřené, tak omezené modely zjišťování. Řeší problém, jak veřejně oznamovat službu, a zároveň kontrolovat, kdo oznámení může porozumět, čímž umožňuje nové případy užití, jako je sociální síťování, místní reklama nebo komunikace týmů veřejné bezpečnosti, aniž by byla ohrožena soukromí uživatelů nebo bezpečnost sítě.
 
@@ -36,6 +36,10 @@ Vytvoření DUSK bylo motivováno potřebou umožnit důvěryhodné zjišťován
 - Podporuje jak modely otevřeného (Open), tak omezeného (Restricted) zjišťování s různými strategiemi distribuce klíčů.
 - Brání dlouhodobému sledování skramblováním zjistitelného identifikátoru, čímž zvyšuje ochranu soukromí uživatele.
 - Integruje se s funkcí ProSe pro bezpečnou provizi klíčů a správu jejich životního cyklu.
+
+## Související pojmy
+
+- [ProSe – Proximity-based Services](/mobilnisite/slovnik/prose/)
 
 ## Definující specifikace
 

@@ -16,7 +16,7 @@ CTU je základní jednotka kódovacího stromu, která představuje blok pixelů
 
 ## Popis
 
-Kódovací stromová jednotka (CTU) je základním zpracovatelským prvkem v moderních standardech pro kompresi videa, konkrétně ve standardu High Efficiency Video Coding ([HEVC](/mobilnisite/slovnik/hevc/)) a Versatile Video Coding (VVC). Představuje čtvercový blok vzorků jasové složky a odpovídajících vzorků barevných složek, s typickými velikostmi od 64×64 do 128×128 pixelů. CTU slouží jako výchozí bod pro rekurzivní proces dělení pomocí kvadrantového stromu, který definuje kódovací strukturu celého snímku.
+Kódovací stromová jednotka (CTU) je základním zpracovatelským prvkem v moderních standardech pro kompresi videa, konkrétně ve standardu High Efficiency Video Coding ([HEVC](/mobilnisite/slovnik/hevc/)) a Versatile Video Coding ([VVC](/mobilnisite/slovnik/vvc/)). Představuje čtvercový blok vzorků jasové složky a odpovídajících vzorků barevných složek, s typickými velikostmi od 64×64 do 128×128 pixelů. CTU slouží jako výchozí bod pro rekurzivní proces dělení pomocí kvadrantového stromu, který definuje kódovací strukturu celého snímku.
 
 Každá CTU může být rozdělena na menší Kódovací jednotky (CUs) pomocí dekompozice kvadrantovým stromem. Toto dělení je adaptivní a je určeno během procesu kódování na základě optimalizace přenosového toku a zkreslení. CTU obsahuje nejen obrazová data, ale také přidružené syntaktické elementy, které popisují, jak má být jednotka rozdělena, predikována a transformována. Tato hierarchická struktura umožňuje kodeku efektivně zpracovávat různé úrovně detailů v různých oblastech videosnímku.
 

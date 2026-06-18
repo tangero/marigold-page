@@ -26,9 +26,9 @@ Při provozu, když se UE s podporou DSMIP připojí k síti, získá místní I
 
 DSMIP byl vytvořen, aby řešil výzvy IP mobility v prostředích s duálním zásobníkem, kde sítě a zařízení podporují IPv4 i IPv6 současně. S rostoucím nasazením IPv6 vznikla potřeba mobilních řešení, která by dokázala plynule zvládat oba protokoly bez nutnosti samostatných mechanismů pro každou verzi IP. Předchozí přístupy jako MIPv4 a MIPv6 fungovaly nezávisle, což vedlo ke složitosti a neefektivitě pro zařízení s duálním zásobníkem. DSMIP to řeší sjednocením správy mobility, což umožňuje zařízením roamovat mezi sítěmi při zachování relací přes kteroukoli z rodin IP.
 
-Historicky byl DSMIP představen v 3GPP Release 8 jako součást System Architecture Evolution (SAE) a Evolved Packet Core (EPC), motivován blížícím se vyčerpáním adres IPv4 a přechodem na IPv6. Umožnil mobilním operátorům zavádět sítě s podporou IPv6 při zajištění zpětné kompatibility se stávající infrastrukturou a zařízeními IPv4. Protokol zaplnil mezeru tím, že poskytl standardizovaný způsob podpory mobility pro UE s duálním zásobníkem, zejména pro integraci přístupu mimo 3GPP (např. Wi-Fi offload), kde je heterogenita verzí IP běžná.
+Historicky byl DSMIP představen v 3GPP Release 8 jako součást System Architecture Evolution ([SAE](/mobilnisite/slovnik/sae/)) a Evolved Packet Core (EPC), motivován blížícím se vyčerpáním adres IPv4 a přechodem na IPv6. Umožnil mobilním operátorům zavádět sítě s podporou IPv6 při zajištění zpětné kompatibility se stávající infrastrukturou a zařízeními IPv4. Protokol zaplnil mezeru tím, že poskytl standardizovaný způsob podpory mobility pro UE s duálním zásobníkem, zejména pro integraci přístupu mimo 3GPP (např. Wi-Fi offload), kde je heterogenita verzí IP běžná.
 
-Zavedením DSMIP chtělo 3GPP usnadnit hladkou migraci na IPv6, snížit provozní náklady a zlepšit uživatelský zážitek s nepřerušeným připojením. Řeší omezení dřívějších verzí Mobile IP tím, že zjednodušuje správu vazeb a snižuje signalizační režii pro operace s duálním zásobníkem. To umožnilo funkce jako síťově řízená správa mobility (PMIP) ve spojení s DSMIP, což podpořilo škálovatelná nasazení v LTE a dalších technologiích. V konečném důsledku hrál DSMIP klíčovou roli v zajištění, že mobilní služby se mohou vyvíjet spolu s trendy v IP síťování, a podpořil tak dlouhodobý růst mobilních dat.
+Zavedením DSMIP chtělo 3GPP usnadnit hladkou migraci na IPv6, snížit provozní náklady a zlepšit uživatelský zážitek s nepřerušeným připojením. Řeší omezení dřívějších verzí Mobile IP tím, že zjednodušuje správu vazeb a snižuje signalizační režii pro operace s duálním zásobníkem. To umožnilo funkce jako síťově řízená správa mobility ([PMIP](/mobilnisite/slovnik/pmip/)) ve spojení s DSMIP, což podpořilo škálovatelná nasazení v LTE a dalších technologiích. V konečném důsledku hrál DSMIP klíčovou roli v zajištění, že mobilní služby se mohou vyvíjet spolu s trendy v IP síťování, a podpořil tak dlouhodobý růst mobilních dat.
 
 ## Klíčové vlastnosti
 
@@ -38,6 +38,10 @@ Zavedením DSMIP chtělo 3GPP usnadnit hladkou migraci na IPv6, snížit provozn
 - Obsahuje optimalizaci směrování pro snížení latence tím, že umožňuje přímou komunikaci s protistranou
 - Zahrnuje bezpečnostní prvky jako IPsec a autentizaci 3GPP pro aktualizace vazeb (binding updates)
 - Umožňuje zpětnou kompatibilitu a hladký přechod z IPv4 na IPv6 v mobilních sítích
+
+## Související pojmy
+
+- [PMIP – Proxy Mobile Internet Protocol version 6](/mobilnisite/slovnik/pmip/)
 
 ## Definující specifikace
 

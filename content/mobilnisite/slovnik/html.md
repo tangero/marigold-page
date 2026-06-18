@@ -16,11 +16,11 @@ HTML je standardní značkovací jazyk pro vytváření webových stránek a apl
 
 ## Popis
 
-HyperText Markup Language (HTML) je základním jazykem World Wide Webu, standardizovaným konsorciem World Wide Web Consortium (W3C) a často zmiňovaným ve specifikacích 3GPP. V kontextu 3GPP není HTML protokolem definovaným touto skupinou, ale nedílnou součástí ekosystému servisní vrstvy, kterou jsou mobilní sítě navrženy podporovat. Je primárním formátem pro webový obsah, který je přenášen přes přenašeče definované 3GPP a přistupují k němu prohlížeče v uživatelském zařízení (UE). Dokumenty HTML jsou přenášeny pomocí protokolů jako [HTTP](/mobilnisite/slovnik/http/) nebo [HTTPS](/mobilnisite/slovnik/https/), které běží nad službou IP konektivity poskytovanou paketovým jádrem 3GPP (např. [GTP](/mobilnisite/slovnik/gtp/) tunely v PGW/[UPF](/mobilnisite/slovnik/upf/)).
+HyperText Markup Language (HTML) je základním jazykem World Wide Webu, standardizovaným konsorciem World Wide Web Consortium ([W3C](/mobilnisite/slovnik/w3c/)) a často zmiňovaným ve specifikacích 3GPP. V kontextu 3GPP není HTML protokolem definovaným touto skupinou, ale nedílnou součástí ekosystému servisní vrstvy, kterou jsou mobilní sítě navrženy podporovat. Je primárním formátem pro webový obsah, který je přenášen přes přenašeče definované 3GPP a přistupují k němu prohlížeče v uživatelském zařízení (UE). Dokumenty HTML jsou přenášeny pomocí protokolů jako [HTTP](/mobilnisite/slovnik/http/) nebo [HTTPS](/mobilnisite/slovnik/https/), které běží nad službou IP konektivity poskytovanou paketovým jádrem 3GPP (např. [GTP](/mobilnisite/slovnik/gtp/) tunely v [PGW](/mobilnisite/slovnik/pgw/)/[UPF](/mobilnisite/slovnik/upf/)).
 
 Jazyk funguje pomocí systému značek (tagů) a atributů, které strukturují obsah – jako text, obrázky, hypertextové odkazy, formuláře a multimédia – do hierarchického objektového modelu dokumentu ([DOM](/mobilnisite/slovnik/dom/)). Když UE vyžádá webovou stránku, server odešle soubor HTML. Prohlížeč v UE následně HTML analyzuje, interpretuje značky a vykreslí vizuální rozložení stránky. Tento proces často zahrnuje načítání dalších prostředků odkazovaných v HTML, jako jsou kaskádové styly ([CSS](/mobilnisite/slovnik/css/)) pro vzhled a JavaScript pro interaktivitu, což spouští více následných datových relací přes mobilní síť. Z pohledu sítě je efektivní doručování HTML a jeho přidružených prostředků klíčovým hybatelem charakteru provozu, což ovlivňuje plánování rádiových zdrojů, zatížení jádra sítě a metriky kvality uživatelského zážitku (QoE).
 
-Specifikace 3GPP odkazují na HTML v kontextech jako požadavky na služby (např. pro službu multimediálních zpráv - [MMS](/mobilnisite/slovnik/mms/), kde zprávy mohou obsahovat HTML obsah), Open Service Access ([OSA](/mobilnisite/slovnik/osa/)), aplikační programová rozhraní (API) a bezpečnostní specifikace pro webové služby. Například specifikace mohou detailně popisovat, jak je s HTML obsahem v síti nakládáno, zabezpečováno nebo přizpůsobováno (přes transkódování) pro různé možnosti zařízení. Jeho role spočívá v zajištění, že end-to-end architektura, od rádiového přístupu po jádro sítě, může efektivně podporovat doručování a vykreslování moderního webu, což je základní služba pro jakoukoli mobilní širokopásmovou síť.
+Specifikace 3GPP odkazují na HTML v kontextech jako požadavky na služby (např. pro službu multimediálních zpráv - MMS, kde zprávy mohou obsahovat HTML obsah), Open Service Access (OSA), aplikační programová rozhraní (API) a bezpečnostní specifikace pro webové služby. Například specifikace mohou detailně popisovat, jak je s HTML obsahem v síti nakládáno, zabezpečováno nebo přizpůsobováno (přes transkódování) pro různé možnosti zařízení. Jeho role spočívá v zajištění, že end-to-end architektura, od rádiového přístupu po jádro sítě, může efektivně podporovat doručování a vykreslování moderního webu, což je základní služba pro jakoukoli mobilní širokopásmovou síť.
 
 ## K čemu slouží
 
@@ -42,6 +42,7 @@ Historicky používaly rané mobilní datové služby jako WAP zjednodušené zn
 - [HTTP – Hypertext Transfer Protocol](/mobilnisite/slovnik/http/)
 - [HTTPS – Hyper Text Transfer Protocol Secure](/mobilnisite/slovnik/https/)
 - [MMS – Multimedia Messaging Service](/mobilnisite/slovnik/mms/)
+- [QoE – Quality of Experience](/mobilnisite/slovnik/qoe/)
 
 ## Definující specifikace
 

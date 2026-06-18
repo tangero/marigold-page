@@ -16,7 +16,7 @@ ARA je zpráva protokolu PCC z PCRF do TDF, která potvrzuje agregované hláše
 
 ## Popis
 
-Aggregated RUCI Report Answer (ARA) je zpráva protokolu založeného na Diameteru specifikovaná v architektuře 3GPP pro řízení politiky a účtování (PCC), primárně dokumentovaná v TS 29.213 a TS 29.217. Funguje na referenčním bodu Sd, což je rozhraní mezi funkcí pro detekci provozu (TDF) a funkcí pro pravidla politiky a účtování (PCRF). ARA je klíčovou součástí funkce Application Detection and Control ([ADC](/mobilnisite/slovnik/adc/)), která síti umožňuje monitorovat a vynucovat politiky na provoz konkrétních aplikací v uživatelské rovině.
+Aggregated [RUCI](/mobilnisite/slovnik/ruci/) Report Answer (ARA) je zpráva protokolu založeného na Diameteru specifikovaná v architektuře 3GPP pro řízení politiky a účtování ([PCC](/mobilnisite/slovnik/pcc/)), primárně dokumentovaná v TS 29.213 a TS 29.217. Funguje na referenčním bodu Sd, což je rozhraní mezi funkcí pro detekci provozu ([TDF](/mobilnisite/slovnik/tdf/)) a funkcí pro pravidla politiky a účtování ([PCRF](/mobilnisite/slovnik/pcrf/)). ARA je klíčovou součástí funkce Application Detection and Control ([ADC](/mobilnisite/slovnik/adc/)), která síti umožňuje monitorovat a vynucovat politiky na provoz konkrétních aplikací v uživatelské rovině.
 
 Architektonicky je TDF zodpovědné za kontrolu datového provozu uživatele, identifikaci konkrétních aplikací nebo služeb (např. streamování videa, sociální sítě) a hlášení těchto událostí PCRF. PCRF je centrální entita pro rozhodování o politikách, která určuje, jak má být s provozem nakládáno z hlediska QoS, povolování a účtování. Když TDF odešle PCRF požadavek Aggregated RUCI Report Request ([ARR](/mobilnisite/slovnik/arr/)), poskytne konsolidovanou zprávu o více událostech v uživatelské rovině, jako jsou spuštění nebo zastavení aplikace nebo dosažení prahových objemů dat, pro jednu nebo více uživatelských relací. ARA je odpověď PCRF na tento požadavek, která potvrzuje příjem a poskytuje TDF případné potřebné instrukce nebo potvrzení.
 
@@ -26,9 +26,9 @@ Během provozu ARA dokončuje transakci zahájenou periodickým nebo událostmi 
 
 ## K čemu slouží
 
-ARA byla zavedena, aby řešila rostoucí potřebu inteligentního řízení politik založeného na povědomí o aplikacích v mobilních sítích, zejména s nástupem různorodých Over-The-Top ([OTT](/mobilnisite/slovnik/ott/)) aplikací. Před jejím zavedením bylo řízení politik v sítích 3GPP založeno primárně na atributech na úrovni přenosového kanálu (např. [APN](/mobilnisite/slovnik/apn/), QoS) spíše než na hluboké kontrole paketů (DPI) obsahu aplikací. Toto omezení ztěžovalo operátorům implementaci podrobných politik pro konkrétní služby, jako je blokování nebo omezování určitých aplikací, nabídka sponzorovaných dat nebo aplikace diferencovaného účtování.
+ARA byla zavedena, aby řešila rostoucí potřebu inteligentního řízení politik založeného na povědomí o aplikacích v mobilních sítích, zejména s nástupem různorodých Over-The-Top ([OTT](/mobilnisite/slovnik/ott/)) aplikací. Před jejím zavedením bylo řízení politik v sítích 3GPP založeno primárně na atributech na úrovni přenosového kanálu (např. APN, QoS) spíše než na hluboké kontrole paketů (DPI) obsahu aplikací. Toto omezení ztěžovalo operátorům implementaci podrobných politik pro konkrétní služby, jako je blokování nebo omezování určitých aplikací, nabídka sponzorovaných dat nebo aplikace diferencovaného účtování.
 
-Vytvoření funkce Application Detection and Control ([ADC](/mobilnisite/slovnik/adc/)) ve verzi 13, která zahrnuje ARA, bylo motivováno požadavky operátorů na sofistikovanější možnosti správy provozu. TDF fungující jako DPI engine mohlo aplikace detekovat, ale efektivní komunikace s PCRF byla nezbytná. ARA jako součást protokolu rozhraní Sd řeší problém efektivity signalizace tím, že umožňuje agregované hlášení. Namísto odesílání samostatné zprávy pro každou jednotlivou událost aplikace (což by vytvořilo nadměrnou signalizační zátěž) TDF sdruží více událostí do Aggregated RUCI Report Request. ARA poskytuje potřebné potvrzení a případné aktualizace politik od PCRF, což zajišťuje efektivní škálovatelnost systému i při vysokých objemech aplikačního provozu.
+Vytvoření funkce Application Detection and Control (ADC) ve verzi 13, která zahrnuje ARA, bylo motivováno požadavky operátorů na sofistikovanější možnosti správy provozu. TDF fungující jako DPI engine mohlo aplikace detekovat, ale efektivní komunikace s PCRF byla nezbytná. ARA jako součást protokolu rozhraní Sd řeší problém efektivity signalizace tím, že umožňuje agregované hlášení. Namísto odesílání samostatné zprávy pro každou jednotlivou událost aplikace (což by vytvořilo nadměrnou signalizační zátěž) TDF sdruží více událostí do Aggregated RUCI Report Request. ARA poskytuje potřebné potvrzení a případné aktualizace politik od PCRF, což zajišťuje efektivní škálovatelnost systému i při vysokých objemech aplikačního provozu.
 
 Tento mechanismus umožňuje operátorům zavádět pokročilé nabídky služeb, jako je zero-rating pro konkrétní aplikace, rodičovské kontroly nebo podnikové tarify, bez zahlcení jádra sítě signalizací. Také podporuje soulad s regulatorními požadavky na správu provozu. Tím, že poskytuje standardizovaný způsob zpracování agregovaných hlášení o aplikacích, ARA usnadňuje interoperabilitu mezi zařízeními různých výrobců pro TDF a PCRF, podporuje více-dodavatelský ekosystém a umožňuje konzistentní vynucování politik v celé síti.
 
@@ -40,6 +40,11 @@ Tento mechanismus umožňuje operátorům zavádět pokročilé nabídky služeb
 - Podporuje dynamické aktualizace politik od PCRF směrem k TDF
 - Snižuje signalizační režii prostřednictvím agregace událostí
 - Integrální součást funkce 3GPP Application Detection and Control (ADC)
+
+## Související pojmy
+
+- [PCRF – Policy and Charging Rules Function](/mobilnisite/slovnik/pcrf/)
+- [TDF – Traffic Detection Function](/mobilnisite/slovnik/tdf/)
 
 ## Definující specifikace
 

@@ -20,7 +20,7 @@ COP L2R (Character Orientated Protocol) je protokol linkové vrstvy standardizov
 
 Architektonicky se L2R nachází přímo nad fyzickou vrstvou a pod protokoly síťové vrstvy. Často se používá ve scénářích vyžadujících jednoduchý, robustní a deterministický spoj, například v backhaulovém připojení mezi základnovou stanicí ([BTS](/mobilnisite/slovnik/bts/)) a řadičem základnových stanic ([BSC](/mobilnisite/slovnik/bsc/)) v GSM nebo pro některá rozhraní správy v UMTS. Protokol definuje specifické řídicí znaky pro ohraničení rámců a řízení spoje, čímž strukturuje bitový stream do rozpoznatelných rámců. Klíčovým aspektem jeho fungování je jeho synchronní povaha, kdy jsou vysílač a přijímač synchronizovány, často prostřednictvím hodin fyzické vrstvy, což umožňuje efektivní využití šířky pásma bez nutnosti start/stop bitů na každý znak.
 
-Podrobně se rámec L2R skládá z počátečního oddělovače, polí adresy a řízení (pro konfigurace s více účastníky), informačního pole obsahujícího užitečná data, sekvence pro kontrolu rámce ([FCS](/mobilnisite/slovnik/fcs/)) pro detekci chyb a koncového oddělovače. Protokol spravuje spoj pomocí sady příkazů a odpovědí, řeší inicializaci, testování a obnovu po chybách. Jeho znakově orientovaná povaha znamená, že je vhodný pro přenos textově založených protokolů správy nebo binárních dat zpracovávaných jako oktetové streamy. Přestože byl v mnoha moderních aplikacích z velké části nahrazen bitově orientovanými protokoly, jako jsou [HDLC](/mobilnisite/slovnik/hdlc/) a PPP, jeho specifikace ve standardech 3GPP zdůrazňuje jeho historickou roli při poskytování standardizované, spolehlivé přenosové služby vrstvy 2 pro kritické řídicí a správní funkce v raných nasazeních sítí 2G a 3G, což zajišťovalo interoperabilitu mezi zařízeními různých výrobců.
+Podrobně se rámec L2R skládá z počátečního oddělovače, polí adresy a řízení (pro konfigurace s více účastníky), informačního pole obsahujícího užitečná data, sekvence pro kontrolu rámce ([FCS](/mobilnisite/slovnik/fcs/)) pro detekci chyb a koncového oddělovače. Protokol spravuje spoj pomocí sady příkazů a odpovědí, řeší inicializaci, testování a obnovu po chybách. Jeho znakově orientovaná povaha znamená, že je vhodný pro přenos textově založených protokolů správy nebo binárních dat zpracovávaných jako oktetové streamy. Přestože byl v mnoha moderních aplikacích z velké části nahrazen bitově orientovanými protokoly, jako jsou [HDLC](/mobilnisite/slovnik/hdlc/) a [PPP](/mobilnisite/slovnik/ppp/), jeho specifikace ve standardech 3GPP zdůrazňuje jeho historickou roli při poskytování standardizované, spolehlivé přenosové služby vrstvy 2 pro kritické řídicí a správní funkce v raných nasazeních sítí 2G a 3G, což zajišťovalo interoperabilitu mezi zařízeními různých výrobců.
 
 ## K čemu slouží
 
@@ -40,6 +40,7 @@ Protokol řešil problém spolehlivého přenosu signalizačních a správních 
 ## Související pojmy
 
 - [HDLC – High Level Data Link Control](/mobilnisite/slovnik/hdlc/)
+- [PPP – Priority Precedence Preemption](/mobilnisite/slovnik/ppp/)
 
 ## Definující specifikace
 

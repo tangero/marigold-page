@@ -16,7 +16,7 @@ GSMA je průmyslová organizace zastupující celosvětově mobilní síťové o
 
 ## Popis
 
-GSMA je celosvětová obchodní organizace zastupující zájmy mobilních síťových operátorů a příbuzných společností napříč mobilním ekosystémem. Přestože sama není standardem 3GPP, je v 3GPP specifikacích zmiňována kvůli své roli při definování interoperabilních služeb, usnadňování spolupráce v odvětví a poskytování implementačních směrnic. GSMA úzce spolupracuje s normalizačními orgány, jako je 3GPP, aby zajistila, že technické specifikace jsou praktické, komerčně životaschopné a v souladu s potřebami trhu. Mezi její aktivity patří vývoj technických dokumentů, jako jsou Permanent Reference Documents (PRD), které podrobně popisují, jak implementovat standardy 3GPP pro služby jako Rich Communication Services (RCS), roaming a správu identit.
+GSMA je celosvětová obchodní organizace zastupující zájmy mobilních síťových operátorů a příbuzných společností napříč mobilním ekosystémem. Přestože sama není standardem 3GPP, je v 3GPP specifikacích zmiňována kvůli své roli při definování interoperabilních služeb, usnadňování spolupráce v odvětví a poskytování implementačních směrnic. GSMA úzce spolupracuje s normalizačními orgány, jako je 3GPP, aby zajistila, že technické specifikace jsou praktické, komerčně životaschopné a v souladu s potřebami trhu. Mezi její aktivity patří vývoj technických dokumentů, jako jsou Permanent Reference Documents (PRD), které podrobně popisují, jak implementovat standardy 3GPP pro služby jako Rich Communication Services ([RCS](/mobilnisite/slovnik/rcs/)), roaming a správu identit.
 
 Klíčové součásti práce GSMA zahrnují její výbory a pracovní skupiny, které se zaměřují na oblasti jako zabezpečení sítí, prevence podvodů, fakturace a interoperabilita zařízení. GSMA také spravuje klíčové průmyslové programy, jako je GSMA's Network Equipment Security Assurance Scheme ([NESAS](/mobilnisite/slovnik/nesas/)) a rámec pro identitu Mobile Connect. Tyto iniciativy poskytují standardizované přístupy k testování zabezpečení a autentizaci, čímž doplňují technické specifikace 3GPP. GSMA dále organizuje významné průmyslové akce, jako je Mobile World Congress, která slouží jako platforma pro prezentaci inovací a diskusi o regulačních otázkách.
 
@@ -43,6 +43,7 @@ Historicky se GSMA vyvinula z původního zaměření na interoperabilitu GSM ta
 
 - [3GPP – 3rd Generation Partnership Project](/mobilnisite/slovnik/3gpp/)
 - [NESAS – Network Equipment Security Assurance Scheme](/mobilnisite/slovnik/nesas/)
+- [RCS – Return Channel via Satellite](/mobilnisite/slovnik/rcs/)
 
 ## Definující specifikace
 

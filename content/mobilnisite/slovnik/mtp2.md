@@ -16,11 +16,11 @@ MTP2 je vrstva datového spoje signalizačního protokolu SS7, která zajišťuj
 
 ## Popis
 
-Message Transfer Part layer 2 (MTP2) je druhá vrstva zásobníku signalizačního protokolu SS7, odpovídající vrstvě datového spoje (Layer 2) modelu [OSI](/mobilnisite/slovnik/osi/). Funguje nad fyzickým spojením poskytovaným [MTP1](/mobilnisite/slovnik/mtp1/) a pod síťovou vrstvou [MTP3](/mobilnisite/slovnik/mtp3/). Hlavní odpovědností MTP2 je zajistit spolehlivý, v pořadí a bezchybný přenos signalizačních jednotek (SU) přes jeden signalizační datový spoj mezi dvěma sousedními signalizačními body. Transformuje surový bitový proud z MTP1 na strukturovaný, rámcovaný protokol s robustními mechanismy pro řízení chyb.
+Message Transfer Part layer 2 (MTP2) je druhá vrstva zásobníku signalizačního protokolu [SS7](/mobilnisite/slovnik/ss7/), odpovídající vrstvě datového spoje (Layer 2) modelu [OSI](/mobilnisite/slovnik/osi/). Funguje nad fyzickým spojením poskytovaným [MTP1](/mobilnisite/slovnik/mtp1/) a pod síťovou vrstvou [MTP3](/mobilnisite/slovnik/mtp3/). Hlavní odpovědností MTP2 je zajistit spolehlivý, v pořadí a bezchybný přenos signalizačních jednotek ([SU](/mobilnisite/slovnik/su/)) přes jeden signalizační datový spoj mezi dvěma sousedními signalizačními body. Transformuje surový bitový proud z MTP1 na strukturovaný, rámcovaný protokol s robustními mechanismy pro řízení chyb.
 
 MTP2 funguje tak, že zapouzdřuje zprávy vyšších vrstev do rámců proměnné délky nazývaných signalizační jednotky. Existují tři typy: Vyplňovací signalizační jednotky (FISU) pro stav nečinnosti spoje, Jednotky stavu spoje (LSSU) pro sdělení stavu spoje (např. mimo zarovnání, normální) a Zprávové signalizační jednotky ([MSU](/mobilnisite/slovnik/msu/)), které nesou skutečnou datovou část z MTP3 nebo uživatelské části. Každá SU obsahuje sadu polí: Příznak (oddělovač), Zpětné a dopředné pořadová čísla (BSN, [FSN](/mobilnisite/slovnik/fsn/)) pro číslování sekvencí a potvrzení, Ukazatel délky, Kontrolní součet pro detekci chyb (pomocí [CRC](/mobilnisite/slovnik/crc/)) a řídicí pole. Protokol používá pro řízení toku mechanismus posuvného okna a pro opravu chyb využívá kladné potvrzování s opakovaným přenosem. Pokud je chyba detekována pomocí CRC, je rámec zahozen a přenesen znovu.
 
-Klíčové součásti MTP2 zahrnují vysílač, který segmentuje zprávy do SU a spravuje vysílací pořadové číslo a vyrovnávací paměť pro opakovaný přenos, a přijímač, který kontroluje CRC, potvrzuje správně přijaté SU a znovu sestavuje sekvenci. Provádí také inicializační postupy zarovnání pro uvedení spoje do provozu a nepřetržité monitorování pro detekci poruch spoje. V síťové architektuře poskytuje MTP2 MTP3 virtuálně bezchybný spoj. Jeho výkon přímo ovlivňuje signalizační zpoždění a využití spoje. V systémech 3GPP je MTP2 nezbytná pro provoz tradičních SS7 spojů založených na TDM, které propojují uzly jádra sítě jako [MSC](/mobilnisite/slovnik/msc/), SGSN a [HLR](/mobilnisite/slovnik/hlr/) pro správu mobility a signalizaci související s hovory, před migrací na přenos založený na IP s využitím adaptací SIGTRAN jako M2UA nebo M2PA.
+Klíčové součásti MTP2 zahrnují vysílač, který segmentuje zprávy do SU a spravuje vysílací pořadové číslo a vyrovnávací paměť pro opakovaný přenos, a přijímač, který kontroluje CRC, potvrzuje správně přijaté SU a znovu sestavuje sekvenci. Provádí také inicializační postupy zarovnání pro uvedení spoje do provozu a nepřetržité monitorování pro detekci poruch spoje. V síťové architektuře poskytuje MTP2 MTP3 virtuálně bezchybný spoj. Jeho výkon přímo ovlivňuje signalizační zpoždění a využití spoje. V systémech 3GPP je MTP2 nezbytná pro provoz tradičních SS7 spojů založených na TDM, které propojují uzly jádra sítě jako MSC, SGSN a HLR pro správu mobility a signalizaci související s hovory, před migrací na přenos založený na IP s využitím adaptací SIGTRAN jako M2UA nebo M2PA.
 
 ## K čemu slouží
 
@@ -43,6 +43,7 @@ V kontextu mobilních sítí 3GPP byl účelem MTP2 umožnit spolehlivý přenos
 
 - [MTP1 – Message Transfer Part layer 1](/mobilnisite/slovnik/mtp1/)
 - [MTP3 – Message Transfer Part layer 3](/mobilnisite/slovnik/mtp3/)
+- [SCTP – Stream Control Transmission Protocol](/mobilnisite/slovnik/sctp/)
 
 ## Definující specifikace
 

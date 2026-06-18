@@ -18,9 +18,9 @@ NMR je standardizovaná sada výkonnostních a rádiových měření shromažďo
 
 Výsledky síťových měření (NMR) představují komplexní datovou sadu definovanou ve specifikacích 3GPP, která zachycuje výkon a provozní stav rádiové přístupové sítě a uživatelského zařízení. Mechanismus sběru zahrnuje UE, které je schopné provádět různá měření na obsluhující a sousední buňky, a samotnou síťovou infrastrukturu, která může shromažďovat data o rádiových podmínkách, zatížení provozem a míře chyb. Tato měření jsou typicky hlášena systému správy sítě prostřednictvím signalizace řídicí roviny, často spouštěna síťovými požadavky nebo nakonfigurovanými kritérii hlášení, jako jsou prahové hodnoty událostí nebo periodické časovače.
 
-Klíčové složky dat NMR zahrnují úroveň přijímaného referenčního signálu (RSRP), kvalitu přijímaného referenčního signálu (RSRQ), poměr signálu k šumu a interferenci (SINR), časový předstih a identifikační informace buňky pro obsluhující i sousední buňky. Dále mohou zahrnovat výkonnostní metriky, jako jsou míry blokových chyb, úspěšnost předávání hovoru a statistiky přerušení hovorů. Architektura pro zpracování NMR zahrnuje rádiovou přístupovou síť (RAN), která data shromažďuje a může je předzpracovat, a páteřní síť, která je předává do operačních a podpůrných systémů ([OSS](/mobilnisite/slovnik/oss/)) k analýze.
+Klíčové složky dat NMR zahrnují úroveň přijímaného referenčního signálu ([RSRP](/mobilnisite/slovnik/rsrp/)), kvalitu přijímaného referenčního signálu ([RSRQ](/mobilnisite/slovnik/rsrq/)), poměr signálu k šumu a interferenci ([SINR](/mobilnisite/slovnik/sinr/)), časový předstih a identifikační informace buňky pro obsluhující i sousední buňky. Dále mohou zahrnovat výkonnostní metriky, jako jsou míry blokových chyb, úspěšnost předávání hovoru a statistiky přerušení hovorů. Architektura pro zpracování NMR zahrnuje rádiovou přístupovou síť (RAN), která data shromažďuje a může je předzpracovat, a páteřní síť, která je předává do operačních a podpůrných systémů ([OSS](/mobilnisite/slovnik/oss/)) k analýze.
 
-V síťovém ekosystému slouží NMR jako základní nezpracovaná data pro mnoho automatizovaných a manuálních optimalizačních procesů. Síťoví inženýři a algoritmy samoorganizujících se sítí (SON) tato data využívají k provádění úloh, jako je optimalizace robustnosti mobility ([MRO](/mobilnisite/slovnik/mro/)), optimalizace pokrytí a kapacity ([CCO](/mobilnisite/slovnik/cco/)) a vyrovnávání zatížení. Analýzou trendů a anomálií v NMR mohou operátoři identifikovat díry v pokrytí, problémy s interferencí a kapacitní úzká místa, což vede k cíleným úpravám sítě, jako je sklon antény, změny nastavení výkonu nebo plánování nových lokalit buněk.
+V síťovém ekosystému slouží NMR jako základní nezpracovaná data pro mnoho automatizovaných a manuálních optimalizačních procesů. Síťoví inženýři a algoritmy samoorganizujících se sítí ([SON](/mobilnisite/slovnik/son/)) tato data využívají k provádění úloh, jako je optimalizace robustnosti mobility ([MRO](/mobilnisite/slovnik/mro/)), optimalizace pokrytí a kapacity ([CCO](/mobilnisite/slovnik/cco/)) a vyrovnávání zatížení. Analýzou trendů a anomálií v NMR mohou operátoři identifikovat díry v pokrytí, problémy s interferencí a kapacitní úzká místa, což vede k cíleným úpravám sítě, jako je sklon antény, změny nastavení výkonu nebo plánování nových lokalit buněk.
 
 ## K čemu slouží
 
@@ -41,7 +41,9 @@ Historicky formalizace NMR v Release 6 korespondovala s úsilím průmyslu směr
 
 ## Související pojmy
 
+- [SON – Self-Organizing Network](/mobilnisite/slovnik/son/)
 - [MRO – Mobility Robustness Optimisation](/mobilnisite/slovnik/mro/)
+- [RRM – Radio Resource Management](/mobilnisite/slovnik/rrm/)
 
 ## Definující specifikace
 

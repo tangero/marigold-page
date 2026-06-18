@@ -41,6 +41,7 @@ Motivace vychází z potřeby důvěry v prostředí více dodavatelů, jako jso
 
 ## Související pojmy
 
+- [SCAS – 3GPP Security Assurance Specification](/mobilnisite/slovnik/scas/)
 - [NESAS – Network Equipment Security Assurance Scheme](/mobilnisite/slovnik/nesas/)
 
 ## Definující specifikace

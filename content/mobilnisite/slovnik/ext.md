@@ -16,7 +16,7 @@ EXT je protokolová datová jednotka používaná ve specifikacích 3GPP pro př
 
 ## Popis
 
-Rozšiřující datová část (EXT) je základní konstrukce v různých specifikacích protokolů 3GPP, navržená pro přenos doplňujících informací, které nejsou součástí základní povinné struktury zprávy. Slouží jako kontejner nebo přívěsek, který může být připojen k protokolové datové jednotce (PDU). Přítomnost rozšiřující datové části je typicky indikována specifickým příznakem nebo polem délky v hlavičce primární PDU. Vnitřní struktura EXT je definována formátem TLV (Type-Length-Value) nebo podobným, kde pole typu identifikuje povahu rozšíření, pole délky určuje velikost pole hodnoty a pole hodnoty obsahuje vlastní data rozšíření. Tento návrh umožňuje zařadit více různých rozšíření postupně za sebou. Specifikace jako TS 26.260 (Packet-switched Streaming Service) a TS 33.246 (3G Security; Wireless Local Area Network (WLAN) interworking security) definují použití EXT pro přenos dodatečných parametrů popisu relace nebo bezpečnostních informací. Na přijímací straně, pokud je typ rozšíření rozpoznán, jsou data zpracována; pokud ne, mohou být bezpečně ignorována, což je klíčové pro interoperabilitu. Tento mechanismus je nedílnou součástí rozšiřitelnosti protokolů 3GPP, umožňuje přidávat nové funkce v pozdějších vydáních při zachování kompatibility se staršími zařízeními, která mohou rozumět pouze základnímu protokolu.
+Rozšiřující datová část (EXT) je základní konstrukce v různých specifikacích protokolů 3GPP, navržená pro přenos doplňujících informací, které nejsou součástí základní povinné struktury zprávy. Slouží jako kontejner nebo přívěsek, který může být připojen k protokolové datové jednotce ([PDU](/mobilnisite/slovnik/pdu/)). Přítomnost rozšiřující datové části je typicky indikována specifickým příznakem nebo polem délky v hlavičce primární PDU. Vnitřní struktura EXT je definována formátem [TLV](/mobilnisite/slovnik/tlv/) (Type-Length-Value) nebo podobným, kde pole typu identifikuje povahu rozšíření, pole délky určuje velikost pole hodnoty a pole hodnoty obsahuje vlastní data rozšíření. Tento návrh umožňuje zařadit více různých rozšíření postupně za sebou. Specifikace jako TS 26.260 (Packet-switched Streaming Service) a TS 33.246 (3G Security; Wireless Local Area Network ([WLAN](/mobilnisite/slovnik/wlan/)) interworking security) definují použití EXT pro přenos dodatečných parametrů popisu relace nebo bezpečnostních informací. Na přijímací straně, pokud je typ rozšíření rozpoznán, jsou data zpracována; pokud ne, mohou být bezpečně ignorována, což je klíčové pro interoperabilitu. Tento mechanismus je nedílnou součástí rozšiřitelnosti protokolů 3GPP, umožňuje přidávat nové funkce v pozdějších vydáních při zachování kompatibility se staršími zařízeními, která mohou rozumět pouze základnímu protokolu.
 
 ## K čemu slouží
 
@@ -30,6 +30,11 @@ Rozšiřující datová část byla vytvořena k řešení inherentního problé
 - Podporuje více nezávislých rozšíření v rámci jedné datové části
 - Umožňuje rozšíření specifická pro výrobce (proprietární)
 - Definována v základních specifikacích protokolů napříč různými doménami (např. média, bezpečnost)
+
+## Související pojmy
+
+- [PDU – Protocol Data Unit](/mobilnisite/slovnik/pdu/)
+- [TLV – Type, Length, Value](/mobilnisite/slovnik/tlv/)
 
 ## Definující specifikace
 

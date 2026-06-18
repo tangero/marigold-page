@@ -16,7 +16,7 @@ MOS-LQO je objektivní, instrumentální predikce subjektivního skóre kvality 
 
 ## Popis
 
-Mean Opinion Score – Listening Quality Objective (MOS-LQO) je vypočítaná metrika představující odhadované subjektivní skóre kvality poslechu. Na rozdíl od klasického [MOS](/mobilnisite/slovnik/mos/) získaného z lidských panelů je MOS-LQO generován výhradně softwarovými algoritmy definovanými v normách [ITU-T](/mobilnisite/slovnik/itu-t/), jako jsou P.862 (PESQ) a P.863 (POLQA). Tyto algoritmy jsou modely s úplnou referencí (full-reference), což znamená, že porovnávají degradovaný řečový signál (jak byl přijat po průchodu sítí a kodeky) s původním, neporušeným referenčním signálem. Analýzou specifických percepčních rozdílů mezi oběma signály – jako jsou zkreslení, šum, zpoždění a artefakty kodeků – algoritmus vypočítá skóre, které vysoce koreluje s průměrným subjektivním hodnocením lidí (MOS). Výstupem je číslo, typicky na škále podobné MOS (např. 1,0 až 4,5 nebo 1,0 až 5,0 v závislosti na algoritmu).
+Mean Opinion Score – Listening Quality Objective (MOS-LQO) je vypočítaná metrika představující odhadované subjektivní skóre kvality poslechu. Na rozdíl od klasického [MOS](/mobilnisite/slovnik/mos/) získaného z lidských panelů je MOS-LQO generován výhradně softwarovými algoritmy definovanými v normách [ITU-T](/mobilnisite/slovnik/itu-t/), jako jsou P.862 ([PESQ](/mobilnisite/slovnik/pesq/)) a P.863 ([POLQA](/mobilnisite/slovnik/polqa/)). Tyto algoritmy jsou modely s úplnou referencí (full-reference), což znamená, že porovnávají degradovaný řečový signál (jak byl přijat po průchodu sítí a kodeky) s původním, neporušeným referenčním signálem. Analýzou specifických percepčních rozdílů mezi oběma signály – jako jsou zkreslení, šum, zpoždění a artefakty kodeků – algoritmus vypočítá skóre, které vysoce koreluje s průměrným subjektivním hodnocením lidí (MOS). Výstupem je číslo, typicky na škále podobné MOS (např. 1,0 až 4,5 nebo 1,0 až 5,0 v závislosti na algoritmu).
 
 Architektura měřicího systému MOS-LQO zahrnuje testovací uspořádání, ve kterém je známý referenční řečový soubor vložen do testovaného systému (např. cesta hovoru přes IMS síť). Výstupní signál je zachycen a časově synchronizován s referencí. Objektivní model (např. POLQA) poté provede sofistikovanou percepční analýzu. Modeluje lidský sluchový systém a aplikuje koncepty jako vnímání hlasitosti, maskovací efekty a kognitivní modelování k identifikaci vad, které by si posluchač všiml. Model agreguje tyto percepční poruchy do jediného číselného skóre – MOS-LQO. Tento proces je plně automatizovaný, opakovatelný a lze jej provádět v reálném čase nebo na nahraných souborech, což jej činí výrazně škálovatelnějším než subjektivní testování.
 
@@ -26,7 +26,7 @@ V rámci 3GPP je MOS-LQO specifikováno jako primární metoda pro testování s
 
 MOS-LQO bylo vyvinuto za účelem překonání hlavních praktických omezení subjektivního testování [MOS](/mobilnisite/slovnik/mos/): je extrémně časově náročné, drahé a nevhodné pro monitoring živé sítě nebo rychlé vývojové cykly produktů. Zatímco subjektivní MOS poskytuje definitivní kvalitativní benchmark, nelze jej použít pro nepřetržité zajišťování kvality v provozních sítích nebo pro testování všech možných síťových podmínek. Účelem MOS-LQO je poskytnout praktický, automatizovaný a přesný proxy ukazatel pro subjektivní kvalitu poslechu.
 
-Jeho vytvoření bylo motivováno potřebou standardizovaného, instrumentálního hodnocení kvality, které by mohlo být integrováno do testovacích zařízení, síťových sond a certifikačních laboratoří zařízení. Tím, že poskytuje objektivní predikci silně korelující s lidským vnímáním, umožňuje MOS-LQO inženýrům provádět srovnání a hodnocení kvality ve velkém měřítku a v reálném čase. Řeší tak kritický požadavek průmyslu na kvantifikaci Quality of Experience (QoE) způsobem, který je vědecky platný a provozně proveditelný, a tvoří základ pro moderní správu kvality hlasových služeb a benchmarkování v sítích 2G, 3G, 4G, 5G a [OTT](/mobilnisite/slovnik/ott/) komunikačních službách.
+Jeho vytvoření bylo motivováno potřebou standardizovaného, instrumentálního hodnocení kvality, které by mohlo být integrováno do testovacích zařízení, síťových sond a certifikačních laboratoří zařízení. Tím, že poskytuje objektivní predikci silně korelující s lidským vnímáním, umožňuje MOS-LQO inženýrům provádět srovnání a hodnocení kvality ve velkém měřítku a v reálném čase. Řeší tak kritický požadavek průmyslu na kvantifikaci Quality of Experience ([QoE](/mobilnisite/slovnik/qoe/)) způsobem, který je vědecky platný a provozně proveditelný, a tvoří základ pro moderní správu kvality hlasových služeb a benchmarkování v sítích 2G, 3G, 4G, 5G a [OTT](/mobilnisite/slovnik/ott/) komunikačních službách.
 
 ## Klíčové vlastnosti
 
@@ -40,6 +40,8 @@ Jeho vytvoření bylo motivováno potřebou standardizovaného, instrumentální
 ## Související pojmy
 
 - [MOS – Mean Opinion Score](/mobilnisite/slovnik/mos/)
+- [POLQA – Perceptual Objective Listening Quality Assessment](/mobilnisite/slovnik/polqa/)
+- [PESQ – Perceptual Evaluation of Speech Quality](/mobilnisite/slovnik/pesq/)
 - [EVS – Enhanced Voice Services (specifically, the AMR-WB IO mode: AMR-WB Interoperable)](/mobilnisite/slovnik/evs/)
 
 ## Definující specifikace

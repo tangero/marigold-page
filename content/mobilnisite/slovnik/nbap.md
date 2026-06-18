@@ -16,15 +16,15 @@ NBAP je signalizační protokol používaný v rádiové přístupové síti UMT
 
 ## Popis
 
-Node B Application Protocol (NBAP) je klíčový signalizační protokol v pozemní rádiové přístupové síti UMTS (UTRAN), který funguje přes rozhraní Iub mezi řadičem rádiové sítě (RNC) a Node B (základnová stanice). Dělí se na dvě logické části: Common NBAP (C-NBAP) a Dedicated NBAP (D-NBAP). C-NBAP zpracovává společné procedury týkající se celého Node B nebo buňky, jako je nastavení buňky, její zrušení a správa vysílaných informací. D-NBAP se zabývá vyhrazenými procedurami pro jednotlivá uživatelská zařízení (UE), včetně zřizování, rekonfigurace a rušení rádiových spojů. Zprávy NBAP jsou přenášeny přes [ATM](/mobilnisite/slovnik/atm/) nebo IP v závislosti na implementaci sítě, s využitím signalizačních přenašečů pro spolehlivé doručení.
+Node B Application Protocol (NBAP) je klíčový signalizační protokol v pozemní rádiové přístupové síti UMTS ([UTRAN](/mobilnisite/slovnik/utran/)), který funguje přes rozhraní Iub mezi řadičem rádiové sítě ([RNC](/mobilnisite/slovnik/rnc/)) a Node B (základnová stanice). Dělí se na dvě logické části: Common NBAP (C-NBAP) a Dedicated NBAP (D-NBAP). C-NBAP zpracovává společné procedury týkající se celého Node B nebo buňky, jako je nastavení buňky, její zrušení a správa vysílaných informací. D-NBAP se zabývá vyhrazenými procedurami pro jednotlivá uživatelská zařízení (UE), včetně zřizování, rekonfigurace a rušení rádiových spojů. Zprávy NBAP jsou přenášeny přes [ATM](/mobilnisite/slovnik/atm/) nebo IP v závislosti na implementaci sítě, s využitím signalizačních přenašečů pro spolehlivé doručení.
 
 NBAP funguje tak, že umožňuje RNC dynamicky řídit operace Node B. Například při sestavování hovoru RNC použije D-NBAP k vyžádání rádiového spoje s konkrétními parametry, jako je rozprostírací faktor a nastavení řízení výkonu. Node B odpoví potvrzením a poskytne hlášení měření o kvalitě uplinku, interferenci a poloze UE. Tato hlášení umožňují RNC rozhodovat o předávání spojení a optimalizovat přidělování zdrojů. Mezi klíčové komponenty patří typy zpráv pro správu rádiových spojů, rekonfiguraci fyzických kanálů a správu poruch, což zajišťuje přizpůsobení rozhraní vzduch provozním podmínkám a událostem mobility.
 
-V síťové architektuře hraje NBAP ústřední roli v řízení rádiových zdrojů (RRM), podporuje funkce jako řízení přístupu, vyvažování zátěže a řízení zahlcení. Usnadňuje měkká předávání spojení koordinací více Node B pro jedno UE, čímž zlepšuje pokrytí a spolehlivost. Protokol také zajišťuje synchronizaci a časové sladění mezi Node B a RNC, což je klíčové pro systémy WCDMA založené na [CDMA](/mobilnisite/slovnik/cdma/). Napříč releasy byl NBAP rozšířen o podporu funkcí jako [HSDPA](/mobilnisite/slovnik/hsdpa/) a [HSUPA](/mobilnisite/slovnik/hsupa/), integruje nové procedury pro vysokorychlostní datové kanály při zachování zpětné kompatibility s dřívějšími nasazeními UMTS.
+V síťové architektuře hraje NBAP ústřední roli v řízení rádiových zdrojů ([RRM](/mobilnisite/slovnik/rrm/)), podporuje funkce jako řízení přístupu, vyvažování zátěže a řízení zahlcení. Usnadňuje měkká předávání spojení koordinací více Node B pro jedno UE, čímž zlepšuje pokrytí a spolehlivost. Protokol také zajišťuje synchronizaci a časové sladění mezi Node B a RNC, což je klíčové pro systémy [WCDMA](/mobilnisite/slovnik/wcdma/) založené na [CDMA](/mobilnisite/slovnik/cdma/). Napříč releasy byl NBAP rozšířen o podporu funkcí jako [HSDPA](/mobilnisite/slovnik/hsdpa/) a [HSUPA](/mobilnisite/slovnik/hsupa/), integruje nové procedury pro vysokorychlostní datové kanály při zachování zpětné kompatibility s dřívějšími nasazeními UMTS.
 
 ## K čemu slouží
 
-NBAP byl vytvořen, aby poskytl standardizovaný signalizační mechanismus pro UTRAN, který řeší potřebu efektivního řízení a koordinace mezi RNC a Node B v sítích UMTS. Před UMTS používal GSM Base Station System Application Part ([BSSAP](/mobilnisite/slovnik/bssap/)) pro podobné funkce, ale zavedení technologie WCDMA vyžadovalo nový protokol pro zvládnutí operací specifických pro [CDMA](/mobilnisite/slovnik/cdma/), jako je měkké předávání spojení a dynamické přidělování zdrojů. NBAP řeší problém správy složitých rádiových zdrojů v prostředí s rozprostřeným spektrem, umožňuje provádět úpravy rádiových spojů v reálném čase na základě síťových podmínek.
+NBAP byl vytvořen, aby poskytl standardizovaný signalizační mechanismus pro UTRAN, který řeší potřebu efektivního řízení a koordinace mezi RNC a Node B v sítích UMTS. Před UMTS používal GSM Base Station System Application Part (BSSAP) pro podobné funkce, ale zavedení technologie WCDMA vyžadovalo nový protokol pro zvládnutí operací specifických pro CDMA, jako je měkké předávání spojení a dynamické přidělování zdrojů. NBAP řeší problém správy složitých rádiových zdrojů v prostředí s rozprostřeným spektrem, umožňuje provádět úpravy rádiových spojů v reálném čase na základě síťových podmínek.
 
 Vývoj protokolu byl motivován přechodem z TDMA na CDMA ve 3G, který přinesl výzvy v řízení interference a koordinaci více buněk. NBAP umožňuje RNC centralizovat rozhodovací kontrolu a zároveň využívat Node B pro lokální měření, čímž distribuuje inteligenci napříč RAN. Toto oddělení zájmů zlepšuje škálovatelnost a výkon, protože RNC může efektivně spravovat více Node B. Také podporuje zavedení paketově orientovaných služeb usnadněním nastavení datových kanálů a vynucování QoS.
 
@@ -38,6 +38,11 @@ Historicky NBAP zaplnil mezeru ve 3GPP Release 99 a poskytl základ pro provoz U
 - Umožňuje koordinaci měkkého předávání spojení mezi více Node B
 - Usnadňuje řízení rádiových zdrojů včetně řízení přístupu a zátěže
 - Přenos přes ATM nebo IP se spolehlivými signalizačními přenašeči
+
+## Související pojmy
+
+- [RNC – Radio Network Controller](/mobilnisite/slovnik/rnc/)
+- [URAN – UMTS Radio Access Network](/mobilnisite/slovnik/uran/)
 
 ## Definující specifikace
 

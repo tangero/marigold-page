@@ -16,7 +16,7 @@ CPCN je účtovací uzel, který shromažďuje a zpracovává účtovací data p
 
 ## Popis
 
-Control Plane data transfer Charging Node (CPCN) je specializovaná účtovací funkce zavedená ve 3GPP Release 17 pro zpracování účtování za přenosy dat, které probíhají po řídicí rovině namísto tradiční uživatelské roviny. V sítích 3GPP určité služby – zejména IoT aplikace a doručování ne-IP dat ([NIDD](/mobilnisite/slovnik/nidd/)) – využívají řídicí rovinu pro přenos malých, nepravidelných datových přenosů za účelem optimalizace síťové efektivity a životnosti baterie zařízení. CPCN shromažďuje, zpracovává a předává záznamy o účtovacích datech ([CDR](/mobilnisite/slovnik/cdr/)) generované síťovými uzly zapojenými do těchto přenosů dat po řídicí rovině, konkrétně Mobility Management Entity ([MME](/mobilnisite/slovnik/mme/)), Service Capability Exposure Function (SCEF) a Interworking SCEF ([IWK-SCEF](/mobilnisite/slovnik/iwk-scef/)).
+Control Plane data transfer Charging Node (CPCN) je specializovaná účtovací funkce zavedená ve 3GPP Release 17 pro zpracování účtování za přenosy dat, které probíhají po řídicí rovině namísto tradiční uživatelské roviny. V sítích 3GPP určité služby – zejména IoT aplikace a doručování ne-IP dat ([NIDD](/mobilnisite/slovnik/nidd/)) – využívají řídicí rovinu pro přenos malých, nepravidelných datových přenosů za účelem optimalizace síťové efektivity a životnosti baterie zařízení. CPCN shromažďuje, zpracovává a předává záznamy o účtovacích datech ([CDR](/mobilnisite/slovnik/cdr/)) generované síťovými uzly zapojenými do těchto přenosů dat po řídicí rovině, konkrétně Mobility Management Entity ([MME](/mobilnisite/slovnik/mme/)), Service Capability Exposure Function ([SCEF](/mobilnisite/slovnik/scef/)) a Interworking SCEF ([IWK-SCEF](/mobilnisite/slovnik/iwk-scef/)).
 
 Architektonicky CPCN funguje v rámci systému účtování definovaného ve specifikacích 3GPP, rozhraní se síťovými funkcemi přes standardizované referenční body. Přijímá účtovací události a informace o relacích od MME, SCEF a IWK-SCEF prostřednictvím rozhraní Rf (offline účtování) nebo Ro (online účtování) v závislosti na scénáři nasazení. CPCN agreguje tato data, aplikuje účtovací politiky na základě profilů účastníků, typů služeb a využití dat a generuje formátované CDR pro fakturační systémy. Podporuje jak účtování založené na událostech (pro jednotlivé transakce), tak účtování založené na relacích (pro dlouhodobé datové relace po řídicí rovině), čímž zajišťuje flexibilitu pro různé modely IoT služeb.
 
@@ -30,7 +30,7 @@ CPCN byl vytvořen k řešení výzev účtování zaváděných mechanismy pře
 
 Historicky, jak se 3GPP vyvíjelo k podpoře masivních IoT nasazení ve verzích 13-16, funkce jako Control Plane CIoT EPS Optimization a [NIDD](/mobilnisite/slovnik/nidd/) se staly nezbytnými pro efektivní IoT komunikaci. Architektura účtování však zaostávala, což vytvořo mezeru v možnostech zpoplatnění. Operátoři potřebovali způsob, jak tyto služby přesně účtovat, ať už na základě počtu zpráv, objemu dat nebo spouštěčů založených na událostech. CPCN tuto mezeru zaplňuje tím, že poskytuje vyhrazený účtovací uzel, který rozumí specifikům přenosů dat po řídicí rovině, což umožňuje nové zdroje příjmů z IoT služeb a zároveň zajišťuje sledování spravedlivého využití.
 
-CPCN řeší několik omezení předchozích přístupů: odděluje účtování na řídicí rovině od účtování na uživatelské rovině, což umožňuje přizpůsobené tarifní modely; podporuje účtování pro scénáře propojování (přes [IWK-SCEF](/mobilnisite/slovnik/iwk-scef/)), kde IoT zařízení roamují mezi sítěmi 3GPP a ne-3GPP; a umožňuje detailní korelaci účtování napříč uzly MME a SCEF, což je klíčové pro fakturaci služeb end-to-end. Standardizací CPCN ve specifikacích 3GPP průmysl zajišťuje interoperabilitu mezi síťovým vybavením a fakturačními systémy, snižuje integrační náklady a urychluje nasazování IoT služeb.
+CPCN řeší několik omezení předchozích přístupů: odděluje účtování na řídicí rovině od účtování na uživatelské rovině, což umožňuje přizpůsobené tarifní modely; podporuje účtování pro scénáře propojování (přes IWK-SCEF), kde IoT zařízení roamují mezi sítěmi 3GPP a ne-3GPP; a umožňuje detailní korelaci účtování napříč uzly MME a SCEF, což je klíčové pro fakturaci služeb end-to-end. Standardizací CPCN ve specifikacích 3GPP průmysl zajišťuje interoperabilitu mezi síťovým vybavením a fakturačními systémy, snižuje integrační náklady a urychluje nasazování IoT služeb.
 
 ## Klíčové vlastnosti
 
@@ -43,6 +43,7 @@ CPCN řeší několik omezení předchozích přístupů: odděluje účtování
 
 ## Související pojmy
 
+- [SCEF – Service Capability Exposure Function](/mobilnisite/slovnik/scef/)
 - [MME – NPC MME Network Product Class](/mobilnisite/slovnik/mme/)
 - [IWK-SCEF – InterWorking - Service Capability Exposure Function](/mobilnisite/slovnik/iwk-scef/)
 - [NIDD – Non-IP Data Delivery](/mobilnisite/slovnik/nidd/)

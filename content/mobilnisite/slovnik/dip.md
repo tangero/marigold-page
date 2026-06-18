@@ -28,7 +28,7 @@ Z architektonického hlediska je DIP parametr řízený testovacími přístroji
 
 DIP byl zaveden, aby vytvořil realističtější a standardizovanou metodu pro testování odolnosti přijímačů UE vůči specifickým, silným zdrojům rušení. Před jeho formální definicí často používaly testy přijímačů zjednodušené modely rušení, jako je čistý [AWGN](/mobilnisite/slovnik/awgn/) nebo jediný rušič bez šumu na pozadí. Tyto modely neodrážely přesně reálná rádiová prostředí, kde přijímač typicky čelí kombinaci několika dominantních rušičů (např. od blízké buňky) a množství nízké úrovně agregovaného rušení a tepelného šumu.
 
-Klíčový problém, který DIP řeší, je poskytnutí řízeného, opakovatelného způsobu simulace tohoto scénáře 'dominantní rušič plus šumové pozadí'. To je klíčové, protože přijímací algoritmy, jako jsou algoritmy pro odhad kanálu, ekvalizaci a potlačení rušení, se chovají odlišně, když jeden rušič dominuje profilu rušení, oproti situaci, kdy je rušení šumového charakteru. Například pokročilé techniky interference rejection combining ([IRC](/mobilnisite/slovnik/irc/)) nebo successive interference cancellation (SIC) jsou specificky navrženy pro potlačení silných, strukturovaných rušičů. Testování založené na DIP ověřuje účinnost těchto technik za standardizovaných podmínek.
+Klíčový problém, který DIP řeší, je poskytnutí řízeného, opakovatelného způsobu simulace tohoto scénáře 'dominantní rušič plus šumové pozadí'. To je klíčové, protože přijímací algoritmy, jako jsou algoritmy pro odhad kanálu, ekvalizaci a potlačení rušení, se chovají odlišně, když jeden rušič dominuje profilu rušení, oproti situaci, kdy je rušení šumového charakteru. Například pokročilé techniky interference rejection combining ([IRC](/mobilnisite/slovnik/irc/)) nebo successive interference cancellation ([SIC](/mobilnisite/slovnik/sic/)) jsou specificky navrženy pro potlačení silných, strukturovaných rušičů. Testování založené na DIP ověřuje účinnost těchto technik za standardizovaných podmínek.
 
 Historicky, jak se mobilní sítě vyvíjely z homogenních makro nasazení k hustým, heterogenním sítím (HetNets) se small buňkami, dramaticky vzrostla pravděpodobnost, že UE zažije velmi silný signál od blízké small buňky, zatímco se snaží připojit k vzdálenější makro buňce. Podobně v LTE a 5G NR s dynamickým sdílením spektra a komunikací zařízení-zařízení se řízení dominantního mezilinkového rušení stalo hlavní výzvou. Metrika DIP a související testovací případy byly vyvinuty, aby zajistily, že přijímače UE mohou udržet konektivitu a propustnost v těchto náročných, realistických rušivých prostředích. Poskytuje výrobcům zařízení jasný cíl pro návrh přijímače a umožňuje síťovým operátorům mít důvěru ve výkon zařízení, což je základní pro plánování sítě a efektivitu spektra.
 
@@ -40,6 +40,10 @@ Historicky, jak se mobilní sítě vyvíjely z homogenních makro nasazení k hu
 - Podporuje testování funkcí přijímače jako Adjacent Channel Selectivity (ACS) a blokování.
 - Aplikovatelné napříč více technologiemi rádiového přístupu (UTRA, E-UTRA, NR).
 - Definováno s konkrétními hodnotami (např. 0 %, 50 %, 100 %) v testovacích specifikacích pro zajištění konzistentního benchmarkingu.
+
+## Související pojmy
+
+- [SINR – Signal to Interference plus Noise Ratio](/mobilnisite/slovnik/sinr/)
 
 ## Definující specifikace
 

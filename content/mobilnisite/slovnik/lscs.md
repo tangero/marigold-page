@@ -16,9 +16,9 @@ LSCS je seznam hlasových a multimediálních kodeků podporovaných uživatelsk
 
 ## Popis
 
-LSCS (Local Supported Codec Set) je základní koncept při navazování multimediálních relací v IMS a [CS](/mobilnisite/slovnik/cs/) sítích. Představuje úplnou sadu audio, video a dalších mediálních kodeků, které je koncové zařízení (UE) nebo síťový uzel (např. Media Gateway) schopno kódovat a dekódovat. Tato sada je definována lokálně, na základě hardwarových a softwarových schopností zařízení. Při zahájení relace, jako je např. VoLTE hovor nebo videohovor, není LSCS přenášeno přímo. Místo toho slouží jako základ pro sestavení nabídky/odpovědi v protokolu SDP (Session Description Protocol).
+LSCS (Local Supported Codec Set) je základní koncept při navazování multimediálních relací v IMS a [CS](/mobilnisite/slovnik/cs/) sítích. Představuje úplnou sadu audio, video a dalších mediálních kodeků, které je koncové zařízení (UE) nebo síťový uzel (např. Media Gateway) schopno kódovat a dekódovat. Tato sada je definována lokálně, na základě hardwarových a softwarových schopností zařízení. Při zahájení relace, jako je např. VoLTE hovor nebo videohovor, není LSCS přenášeno přímo. Místo toho slouží jako základ pro sestavení nabídky/odpovědi v protokolu [SDP](/mobilnisite/slovnik/sdp/) (Session Description Protocol).
 
-Proces funguje následovně: Když UE zahájí relaci, využije svůj interní LSCS k vytvoření SDP nabídky. Tato SDP nabídka obsahuje prioritizovaný seznam kodeků z LSCS, které preferuje pro danou relaci. Tento seznam obsahuje u každého kodeku podrobnosti, jako je typ RTP payload, vzorkovací frekvence a případné parametry specifické pro daný kodek. Nabídka je odeslána protistraně prostřednictvím signalizace SIP. Přijímající UE porovná nabízený seznam kodeků se svým vlastním LSCS. Následně vygeneruje SDP odpověď, v níž vybere kodek s nejvyšší prioritou, který je zároveň přítomen v jejím lokálně podporovaném souboru.
+Proces funguje následovně: Když UE zahájí relaci, využije svůj interní LSCS k vytvoření SDP nabídky. Tato SDP nabídka obsahuje prioritizovaný seznam kodeků z LSCS, které preferuje pro danou relaci. Tento seznam obsahuje u každého kodeku podrobnosti, jako je typ [RTP](/mobilnisite/slovnik/rtp/) payload, vzorkovací frekvence a případné parametry specifické pro daný kodek. Nabídka je odeslána protistraně prostřednictvím signalizace [SIP](/mobilnisite/slovnik/sip/). Přijímající UE porovná nabízený seznam kodeků se svým vlastním LSCS. Následně vygeneruje SDP odpověď, v níž vybere kodek s nejvyšší prioritou, který je zároveň přítomen v jejím lokálně podporovaném souboru.
 
 Toto vzájemné vyjednávání zajišťuje, že oba konce relace používají kodek, který oba podporují, což je klíčové pro interoperabilitu. LSCS je dynamické; může se měnit na základě faktorů, jako jsou aktuální rádiové podmínky (např. UE může vyloučit kodeky s vysokým datovým tokem při špatném pokrytí), nebo omezení služeb ze sítě. Síťové entity jako [P-CSCF](/mobilnisite/slovnik/p-cscf/) nebo [MRFC](/mobilnisite/slovnik/mrfc/) mohou také ovlivnit konečný výběr kodeku na základě síťové politiky, možností překódování nebo správy šířky pásma, případně modifikovat efektivní sadu použitých kodeků oproti původnímu LSCS terminálů.
 
@@ -26,7 +26,7 @@ Toto vzájemné vyjednávání zajišťuje, že oba konce relace používají ko
 
 Koncept LSCS existuje k řešení základního problému mediální interoperability v heterogenních telekomunikačních sítích. Jak se sítě vyvíjely z okruhově přepínaného hlasu (podporujícího jediný, pevný kodek jako [AMR](/mobilnisite/slovnik/amr/)) na paketově přepínaná multimédia (IMS), množství dostupných audio a video kodeků narostlo. Různí výrobci a poskytovatelé služeb začali používat různé kodeky, což vedlo k potenciálním selháním hovorů, pokud koncové body neměly žádný společný podporovaný formát.
 
-LSCS, používané v rámci frameworku SDP vyjednávání, poskytuje standardizovaný mechanismus, jak zařízení mohou prezentovat své schopnosti a vzájemně se dohodnout na funkční sadě mediálních kodeků. Tím se řeší omezení statických, předem nakonfigurovaných přiřazení kodeků. Umožňuje to bohaté multimediální služby, zavádění nových, účinnějších kodeků (jako [EVS](/mobilnisite/slovnik/evs/) nebo VP9) bez narušení zpětné kompatibility a podporu adaptace kvality tím, že umožňuje výběr kodeku vhodného pro aktuální síťové podmínky a schopnosti zařízení.
+LSCS, používané v rámci frameworku [SDP](/mobilnisite/slovnik/sdp/) vyjednávání, poskytuje standardizovaný mechanismus, jak zařízení mohou prezentovat své schopnosti a vzájemně se dohodnout na funkční sadě mediálních kodeků. Tím se řeší omezení statických, předem nakonfigurovaných přiřazení kodeků. Umožňuje to bohaté multimediální služby, zavádění nových, účinnějších kodeků (jako EVS nebo VP9) bez narušení zpětné kompatibility a podporu adaptace kvality tím, že umožňuje výběr kodeku vhodného pro aktuální síťové podmínky a schopnosti zařízení.
 
 ## Klíčové vlastnosti
 
@@ -39,8 +39,10 @@ LSCS, používané v rámci frameworku SDP vyjednávání, poskytuje standardizo
 
 ## Související pojmy
 
+- [SDP – Service Discovery Protocol](/mobilnisite/slovnik/sdp/)
 - [CODEC – Coder/Decoder](/mobilnisite/slovnik/codec/)
 - [IMS – IP Multimedia Subsystem](/mobilnisite/slovnik/ims/)
+- [SIP – Session Initiation Protocol](/mobilnisite/slovnik/sip/)
 
 ## Definující specifikace
 

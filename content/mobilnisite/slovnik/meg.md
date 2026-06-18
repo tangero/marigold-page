@@ -41,6 +41,7 @@ Primární problém, který MEG řeší, je zpoždění a nejistota při navazov
 
 - [MCPTT – Mission Critical Push to Talk Identity](/mobilnisite/slovnik/mcptt/)
 - [MEGC – MCPTT Emergency Group Call](/mobilnisite/slovnik/megc/)
+- [QoS – Quality of Service](/mobilnisite/slovnik/qos/)
 
 ## Definující specifikace
 

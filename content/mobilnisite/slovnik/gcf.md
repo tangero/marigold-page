@@ -16,7 +16,7 @@ GCF je nezávislý certifikační orgán, který ověřuje interoperabilitu a sh
 
 ## Popis
 
-Global Certification Forum (GCF) je klíčové průmyslové uskupení, které poskytuje rámec pro certifikaci mobilních zařízení a síťové infrastruktury na základě specifikací 3GPP. Funguje jako partnerství mezi mobilními síťovými operátory, výrobci zařízení a dodavateli testovacího vybavení. Certifikační proces zahrnuje důkladné testování proti definované sadě testovacích případů (Certification Criteria) za účelem ověření, že zařízení správně implementuje protokoly 3GPP a může bezproblémově spolupracovat se sítěmi různých operátorů po celém světě. Toto testování pokrývá oblasti jako radiový přístup, signalizace v jádru sítě, služby (např. IMS, VoLTE) a bezpečnostní funkce. GCF nevytváří standardy, ale spoléhá na technické specifikace (TS) 3GPP a testovací specifikace (TS) ze skupin 3GPP TSG RAN5 a TSG [CT](/mobilnisite/slovnik/ct/). Mezi klíčové referenční specifikace pro činnost GCF patří například 3GPP TS 31.901 (pro testovací specifikaci aplikace UICC/USIM), TS 37.901 (pro testování shody správy radiových prostředků LTE) a TS 38.826 (pro testování shody správy radiových prostředků NR). Fórum spravuje certifikační databázi, kde jsou uvedeny certifikované modely, což zajišťuje transparentnost a důvěru na trhu. Proces typicky zahrnuje testování v akreditovaných testovacích laboratořích, po němž následuje validace a konečné schválení GCF. Tento ekosystém zajišťuje, že certifikovaná zařízení poskytují konzistentní uživatelský zážitek, podporují základní služby a splňují regulatorní požadavky v různých regionech.
+Global Certification Forum (GCF) je klíčové průmyslové uskupení, které poskytuje rámec pro certifikaci mobilních zařízení a síťové infrastruktury na základě specifikací 3GPP. Funguje jako partnerství mezi mobilními síťovými operátory, výrobci zařízení a dodavateli testovacího vybavení. Certifikační proces zahrnuje důkladné testování proti definované sadě testovacích případů (Certification Criteria) za účelem ověření, že zařízení správně implementuje protokoly 3GPP a může bezproblémově spolupracovat se sítěmi různých operátorů po celém světě. Toto testování pokrývá oblasti jako radiový přístup, signalizace v jádru sítě, služby (např. IMS, VoLTE) a bezpečnostní funkce. GCF nevytváří standardy, ale spoléhá na technické specifikace (TS) 3GPP a testovací specifikace (TS) ze skupin 3GPP [TSG](/mobilnisite/slovnik/tsg/) RAN5 a TSG [CT](/mobilnisite/slovnik/ct/). Mezi klíčové referenční specifikace pro činnost GCF patří například 3GPP TS 31.901 (pro testovací specifikaci aplikace UICC/[USIM](/mobilnisite/slovnik/usim/)), TS 37.901 (pro testování shody správy radiových prostředků LTE) a TS 38.826 (pro testování shody správy radiových prostředků NR). Fórum spravuje certifikační databázi, kde jsou uvedeny certifikované modely, což zajišťuje transparentnost a důvěru na trhu. Proces typicky zahrnuje testování v akreditovaných testovacích laboratořích, po němž následuje validace a konečné schválení GCF. Tento ekosystém zajišťuje, že certifikovaná zařízení poskytují konzistentní uživatelský zážitek, podporují základní služby a splňují regulatorní požadavky v různých regionech.
 
 ## K čemu slouží
 
@@ -30,6 +30,10 @@ GCF bylo založeno, aby řešilo kritickou potřebu globální interoperability 
 - Spravuje veřejnou databázi certifikovaných modelů zařízení pro transparentnost trhu
 - Spolupracuje s normalizačními orgány, jako je 3GPP, a skupinami pro testovací specifikace
 - Akredituje nezávislé testovací laboratoře pro provádění certifikačního testování
+
+## Související pojmy
+
+- [USIM – Universal Subscriber Identity Module](/mobilnisite/slovnik/usim/)
 
 ## Definující specifikace
 

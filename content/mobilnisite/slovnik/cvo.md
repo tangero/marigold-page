@@ -18,9 +18,9 @@ CVO je služba 3GPP, která synchronizuje orientaci videa mezi zařízeními bě
 
 Coordination of Video Orientation (CVO) je standardizovaný mechanismus v rámci multimediálních telefonních služeb 3GPP, který řeší problém udržení správné orientace videa během relací komunikace v reálném čase. Když se zařízení během videohovoru otáčí, CVO zajišťuje, aby byl přenášený video stream správně orientován na displeji přijímacího zařízení, a předchází tak běžnému problému převráceného nebo bočně orientovaného zobrazení videa, který nastává, když nejsou senzory orientace zařízení mezi koncovými body řádně koordinovány.
 
-Technická implementace CVO funguje prostřednictvím signalizačních protokolů, které si vyměňují informace o orientaci mezi uživatelským zařízením (UE) a síťovými elementy. Když se zařízení otočí, jeho senzory orientace změnu detekují a mechanismus CVO vygeneruje signalizační zprávy obsahující metadata o orientaci. Tyto informace jsou přenášeny přes jádrovou síť IP Multimedia Subsystem (IMS) s využitím rozšíření protokolu Session Initiation Protocol (SIP) a rozšíření hlaviček protokolu Real-time Transport Protocol (RTP). Přijímací zařízení tato data o orientaci zpracuje a aplikuje příslušnou rotaci na video stream před jeho vykreslením na displeji.
+Technická implementace CVO funguje prostřednictvím signalizačních protokolů, které si vyměňují informace o orientaci mezi uživatelským zařízením (UE) a síťovými elementy. Když se zařízení otočí, jeho senzory orientace změnu detekují a mechanismus CVO vygeneruje signalizační zprávy obsahující metadata o orientaci. Tyto informace jsou přenášeny přes jádrovou síť IP Multimedia Subsystem (IMS) s využitím rozšíření protokolu Session Initiation Protocol ([SIP](/mobilnisite/slovnik/sip/)) a rozšíření hlaviček protokolu Real-time Transport Protocol ([RTP](/mobilnisite/slovnik/rtp/)). Přijímací zařízení tato data o orientaci zpracuje a aplikuje příslušnou rotaci na video stream před jeho vykreslením na displeji.
 
-Z architektonického hlediska se na CVO podílí více síťových komponent včetně UE, elementů jádra IMS ([P-CSCF](/mobilnisite/slovnik/p-cscf/), S-CSCF) a funkcí pro zpracování médií. UE implementuje klientskou funkcionalitu CVO, která monitoruje senzory orientace zařízení a generuje odpovídající signalizaci. Síť IMS směruje signalizační zprávy CVO mezi koncovými body při zachování kontinuity relace. Mediální brány a funkce mediálních zdrojů se mohou na zpracování CVO také podílet, když je mezi různými kodeky nebo síťovými podmínkami vyžadován překód nebo adaptace médií.
+Z architektonického hlediska se na CVO podílí více síťových komponent včetně UE, elementů jádra IMS ([P-CSCF](/mobilnisite/slovnik/p-cscf/), [S-CSCF](/mobilnisite/slovnik/s-cscf/)) a funkcí pro zpracování médií. UE implementuje klientskou funkcionalitu CVO, která monitoruje senzory orientace zařízení a generuje odpovídající signalizaci. Síť IMS směruje signalizační zprávy CVO mezi koncovými body při zachování kontinuity relace. Mediální brány a funkce mediálních zdrojů se mohou na zpracování CVO také podílet, když je mezi různými kodeky nebo síťovými podmínkami vyžadován překód nebo adaptace médií.
 
 CVO funguje v součinnosti se stávajícími videokodeky a transportními protokoly, aniž by vyžadovalo úpravy základních procesů kódování/dekódování videa. Informace o orientaci jsou přenášeny jako metadata oddělená od zakódované video datové části, což umožňuje zpětnou kompatibilitu se zařízeními, která CVO nepodporují. Mechanismus podporuje dynamické změny orientace během aktivních relací s minimální latencí, aby zajistil plynulé přechody, když uživatelé otáčejí svá zařízení. Tato koordinace je zvláště důležitá pro mobilní zařízení, která během videohovorů často mění orientaci mezi režimem na výšku a na šířku.
 
@@ -44,6 +44,8 @@ CVO poskytuje standardizované řešení s podporou sítě, které funguje např
 ## Související pojmy
 
 - [IMS – IP Multimedia Subsystem](/mobilnisite/slovnik/ims/)
+- [SIP – Session Initiation Protocol](/mobilnisite/slovnik/sip/)
+- [RTP – Real-time Transport Protocol](/mobilnisite/slovnik/rtp/)
 
 ## Definující specifikace
 

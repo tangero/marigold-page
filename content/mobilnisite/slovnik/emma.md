@@ -16,7 +16,7 @@ EMMA je značkovací jazyk založený na XML, standardizovaný konsorciem W3C a 
 
 ## Popis
 
-Extensible MultiModal Annotation markup language (EMMA) je doporučení konsorcia World Wide Web Consortium (W3C), které poskytuje formát pro výměnu dat pro reprezentaci sémantiky uživatelských vstupů v multimodálních interaktivních systémech. Přestože se nejedná o protokol vynalezený 3GPP, je v rámci specifikací 3GPP (zejména TS 23.333) odkazován jako potenciální komponenta pro standardizaci způsobu, jakým jsou multimodální vstupy anotovány a zpracovávány v architekturách telekomunikačních služeb, zejména pro Multimedia Telephony (MMTel) a další služby založené na IP. Dokumenty EMMA jsou instance XML, které popisují interpretace uživatelských vstupů, jež mohou pocházet z různých modalit, jako je řeč, klávesnice, dotyk nebo gesto.
+Extensible MultiModal Annotation markup language (EMMA) je doporučení konsorcia World Wide Web Consortium ([W3C](/mobilnisite/slovnik/w3c/)), které poskytuje formát pro výměnu dat pro reprezentaci sémantiky uživatelských vstupů v multimodálních interaktivních systémech. Přestože se nejedná o protokol vynalezený 3GPP, je v rámci specifikací 3GPP (zejména TS 23.333) odkazován jako potenciální komponenta pro standardizaci způsobu, jakým jsou multimodální vstupy anotovány a zpracovávány v architekturách telekomunikačních služeb, zejména pro Multimedia Telephony (MMTel) a další služby založené na IP. Dokumenty EMMA jsou instance [XML](/mobilnisite/slovnik/xml/), které popisují interpretace uživatelských vstupů, jež mohou pocházet z různých modalit, jako je řeč, klávesnice, dotyk nebo gesto.
 
 Dokument EMMA strukturovaně uchovává informace o interpretaci, včetně nezpracovaných vstupních dat, odvozeného významu (jako je rozpoznaný záměr nebo extrahované entity), míry spolehlivosti z procesu rozpoznání, časových informací a zdrojové modality. To umožňuje multimodální aplikaci, potenciálně běžící na síťovém serveru nebo zařízení, slučovat vstupy z různých zdrojů. Například uživatel může říct "ukaž mi tohle" a současně klepnout na mapu; rozpoznávač řeči vygeneruje strukturu EMMA pro výrok a rozpoznávač gest vygeneruje strukturu pro souřadnice klepnutí. Dialogový manažer pak může zpracovat tyto kombinované struktury EMMA k provedení příkazu.
 
@@ -24,7 +24,7 @@ V kontextu 3GPP je úlohou EMMA umožnit interoperabilní pokročilé uživatels
 
 ## K čemu slouží
 
-EMMA byl vyvinut pracovní skupinou W3C Multimodal Interaction Working Group k řešení problému interoperability v multimodálních systémech, kde aplikace potřebují kombinovat vstupy z různých rozpoznávacích technologií (řeč, ručně psaný text, vizuální vstupy). Před standardizací používal každý rozpoznávač nebo fúzní engine svůj vlastní proprietární datový formát, což ztěžovalo vytváření modulárních a škálovatelných multimodálních aplikací. EMMA poskytl společnou rozšiřitelnou XML slovní zásobu pro reprezentaci interpretací, což umožnilo snadnou integraci různých rozpoznávacích komponent.
+EMMA byl vyvinut pracovní skupinou [W3C](/mobilnisite/slovnik/w3c/) Multimodal Interaction Working Group k řešení problému interoperability v multimodálních systémech, kde aplikace potřebují kombinovat vstupy z různých rozpoznávacích technologií (řeč, ručně psaný text, vizuální vstupy). Před standardizací používal každý rozpoznávač nebo fúzní engine svůj vlastní proprietární datový formát, což ztěžovalo vytváření modulárních a škálovatelných multimodálních aplikací. EMMA poskytl společnou rozšiřitelnou [XML](/mobilnisite/slovnik/xml/) slovní zásobu pro reprezentaci interpretací, což umožnilo snadnou integraci různých rozpoznávacích komponent.
 
 Motivace 3GPP pro odkazování na EMMA ve svých specifikacích (počínaje Release 7) byla podpora vývoje telefonních služeb za hranice jednoduchých hlasových hovorů směrem k bohaté, interaktivní službě Multimedia Telephony (MMTel) v rámci IMS. Jak se služby stávaly komplexnějšími a umožňovaly uživatelům interagovat prostřednictvím hlasu, dotyku a klávesnice současně, bylo zapotřebí standardizovaného způsobu zpracování těchto kombinovaných vstupů na úrovni servisní vrstvy. Přijetí existujícího standardu W3C, jako je EMMA, umožnilo 3GPP vyhnout se zbytečnému vynalézání a sladit se s webovými standardy, což usnadnilo konvergenci telekomunikačních a webových služeb. Tím bylo řešeno omezení předchozích architektur telekomunikačních služeb, které byly do značné míry rozděleny podle modalit (např. řízení hlasového hovoru oddělené od textových zpráv), a byl položen základ pro jednotné, kontextově-aware řízení interakce.
 
@@ -41,6 +41,8 @@ Motivace 3GPP pro odkazování na EMMA ve svých specifikacích (počínaje Rele
 
 - [MMTEL – Multimedia Telephony Service for IMS](/mobilnisite/slovnik/mmtel/)
 - [IMS – IP Multimedia Subsystem](/mobilnisite/slovnik/ims/)
+- [XML – Extensible Markup Language](/mobilnisite/slovnik/xml/)
+- [W3C – World Wide Web Consortium](/mobilnisite/slovnik/w3c/)
 
 ## Definující specifikace
 

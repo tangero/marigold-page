@@ -20,7 +20,7 @@ Common Management Information Protocol (CMIP) je [OSI](/mobilnisite/slovnik/osi/
 
 Komunikace v CMIP je usnadněna sadou servisních primitiv. Manažer může vyvolat operace jako M-GET pro získání hodnot atributů, M-SET pro jejich změnu, M-ACTION pro vyžádání provedení specifické funkce objektem, M-CREATE pro vytvoření nových spravovaných objektů a M-DELETE pro jejich odstranění. Agent může při detekci významných událostí, jako jsou poruchy nebo překročení prahových hodnot, asynchronně odeslat manažerovi notifikace (M-EVENT-REPORT). Tyto interakce jsou rozsahově a filtračně vymezeny, což umožňuje, aby jediný požadavek cílil na více spravovaných objektů na základě složitých kritérií, což snižuje síťový provoz ve srovnání s jednoduššími protokoly vyžadujícími individuální dotazy na každý atribut.
 
-Architektura CMIP je vysoce strukturovaná a objektově orientovaná, což podporuje interoperabilitu mezi více-dodavatelskými managementovými systémy a síťovými prvky. Její komplexní sada služeb podporuje všechny aspekty modelu managementu FCAPS (Fault, Configuration, Accounting, Performance, Security). Přestože je výkonný, je CMIP také komplexní a vyžaduje značné procesní zdroje a plně implementovaný OSI zásobník. V kontextech 3GPP byl historicky specifikován pro určitá managementová rozhraní, zejména v raných verzích pro správu síťových prvků, před širším průmyslovým přechodem k internetovým managementovým protokolům, jako jsou SNMP a NETCONF/YANG, pro mnohé aplikace.
+Architektura CMIP je vysoce strukturovaná a objektově orientovaná, což podporuje interoperabilitu mezi více-dodavatelskými managementovými systémy a síťovými prvky. Její komplexní sada služeb podporuje všechny aspekty modelu managementu FCAPS (Fault, Configuration, Accounting, Performance, Security). Přestože je výkonný, je CMIP také komplexní a vyžaduje značné procesní zdroje a plně implementovaný OSI zásobník. V kontextech 3GPP byl historicky specifikován pro určitá managementová rozhraní, zejména v raných verzích pro správu síťových prvků, před širším průmyslovým přechodem k internetovým managementovým protokolům, jako jsou [SNMP](/mobilnisite/slovnik/snmp/) a NETCONF/YANG, pro mnohé aplikace.
 
 ## K čemu slouží
 
@@ -28,7 +28,7 @@ CMIP byl vytvořen, aby řešil potřebu standardizovaného, robustního a kompl
 
 Protokol byl navržen tak, aby řešil omezení jednodušších managementových nástrojů, kterým chyběla podrobnost, spolehlivost a sofistikované datové modelování potřebné pro rozsáhlé, kritické telekomunikační sítě. Spojově orientovaná povaha CMIP zajišťovala spolehlivé doručení kritických managementových příkazů a alarmů. Jeho výkonné schopnosti vymezení rozsahu a filtrování umožňovaly efektivní hromadné operace, což snižovalo režii správy v síti. Objektově orientovaný informační model ([GDMO](/mobilnisite/slovnik/gdmo/)) poskytoval formální, rozšiřitelný způsob reprezentace jakéhokoli síťového zdroje, což činilo systém připraveným na budoucnost a schopným spravovat nové technologie při jejich vzniku.
 
-V rámci ekosystému 3GPP byl CMIP přijat pro splnění požadavků na standardizovaná rozhraní pro provoz, správu a údržbu (OAM), zejména v raných verzích pro správu prvků core sítě a rádiové přístupové sítě. Poskytoval potřebnou přísnost a strukturu pro složité úlohy správy v mobilních sítích 2G a 3G, podporoval detailní monitorování výkonu, správu chyb a řízení konfigurace, jak bylo definováno ve specifikacích 3GPP pro správu sítě.
+V rámci ekosystému 3GPP byl CMIP přijat pro splnění požadavků na standardizovaná rozhraní pro provoz, správu a údržbu ([OAM](/mobilnisite/slovnik/oam/)), zejména v raných verzích pro správu prvků core sítě a rádiové přístupové sítě. Poskytoval potřebnou přísnost a strukturu pro složité úlohy správy v mobilních sítích 2G a 3G, podporoval detailní monitorování výkonu, správu chyb a řízení konfigurace, jak bylo definováno ve specifikacích 3GPP pro správu sítě.
 
 ## Klíčové vlastnosti
 
@@ -42,6 +42,7 @@ V rámci ekosystému 3GPP byl CMIP přijat pro splnění požadavků na standard
 ## Související pojmy
 
 - [GDMO – Guidelines for the Definition of Managed Objects](/mobilnisite/slovnik/gdmo/)
+- [SNMP – Simple Network Management Protocol](/mobilnisite/slovnik/snmp/)
 
 ## Definující specifikace
 

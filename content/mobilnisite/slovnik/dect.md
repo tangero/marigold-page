@@ -16,11 +16,11 @@ DECT je standardizovaná digitální rádiová technologie pro bezšňůrovou hl
 
 ## Popis
 
-DECT je rádiová technologie založená na přístupu s časovým dělením (TDMA) a duplexu s časovým dělením (TDD), která primárně pracuje v kmitočtovém pásmu 1880-1900 MHz v Evropě a v podobných pásmech po celém světě. Architektura systému se skládá z pevných částí (Fixed Parts - [FP](/mobilnisite/slovnik/fp/)), což jsou základnové stanice připojené k síti, a přenosných částí (Portable Parts - PP), což jsou mobilní telefony nebo terminály. Rozhraní využívá strukturu multiframe s rámci o délce 10 ms rozdělenými na 24 časových slotů, přičemž 12 slotů je přiděleno pro přenosy ve směru dolní (downlink, FP k PP) a 12 pro přenosy ve směru horní (uplink, PP k FP), což umožňuje plně duplexní komunikaci.
+DECT je rádiová technologie založená na přístupu s časovým dělením ([TDMA](/mobilnisite/slovnik/tdma/)) a duplexu s časovým dělením ([TDD](/mobilnisite/slovnik/tdd/)), která primárně pracuje v kmitočtovém pásmu 1880-1900 MHz v Evropě a v podobných pásmech po celém světě. Architektura systému se skládá z pevných částí (Fixed Parts - [FP](/mobilnisite/slovnik/fp/)), což jsou základnové stanice připojené k síti, a přenosných částí (Portable Parts - [PP](/mobilnisite/slovnik/pp/)), což jsou mobilní telefony nebo terminály. Rozhraní využívá strukturu multiframe s rámci o délce 10 ms rozdělenými na 24 časových slotů, přičemž 12 slotů je přiděleno pro přenosy ve směru dolní (downlink, FP k PP) a 12 pro přenosy ve směru horní (uplink, PP k FP), což umožňuje plně duplexní komunikaci.
 
 Na fyzické vrstvě DECT používá modulaci s Gaussovským frekvenčním klíčováním (GFSK) s roztečí kanálů 1,728 MHz, což v jeho standardním pásmu poskytuje 10 rádiových kmitočtových kanálů. Systém podporuje dynamický výběr a přidělování kanálů, kdy přenosné části průběžně skenují nejlepší dostupný kanál, minimalizují tak rušení a umožňují efektivní opakované využití kmitočtů. Každý časový slot může přenášet 32 kbps hlasových dat pomocí adaptivní diferenciální pulzně kódové modulace ([ADPCM](/mobilnisite/slovnik/adpcm/)) nebo paketová data pro služby jako fax, modemová komunikace a omezený přístup k internetu.
 
-Protokolový zásobník zahrnuje fyzickou vrstvu (PHY), vrstvu řízení přístupu k médiu ([MAC](/mobilnisite/slovnik/mac/)), vrstvu řízení datového spoje ([DLC](/mobilnisite/slovnik/dlc/)) a síťovou vrstvu (NWK). Vrstva MAC se zabývá přidělováním kanálů, multiplexováním a šifrováním, zatímco vrstva DLC řídí opravu chyb a řízení toku. Síťová vrstva poskytuje řízení hovoru, správu mobility a doplňkové služby. DECT podporuje jak okruhově přepínané hlasové služby, tak paketově orientované datové služby prostřednictvím svých profilů pro spolupráci, což umožňuje integraci s různými sítěmi včetně PSTN, [ISDN](/mobilnisite/slovnik/isdn/) a IP sítí.
+Protokolový zásobník zahrnuje fyzickou vrstvu ([PHY](/mobilnisite/slovnik/phy/)), vrstvu řízení přístupu k médiu ([MAC](/mobilnisite/slovnik/mac/)), vrstvu řízení datového spoje ([DLC](/mobilnisite/slovnik/dlc/)) a síťovou vrstvu (NWK). Vrstva MAC se zabývá přidělováním kanálů, multiplexováním a šifrováním, zatímco vrstva DLC řídí opravu chyb a řízení toku. Síťová vrstva poskytuje řízení hovoru, správu mobility a doplňkové služby. DECT podporuje jak okruhově přepínané hlasové služby, tak paketově orientované datové služby prostřednictvím svých profilů pro spolupráci, což umožňuje integraci s různými sítěmi včetně PSTN, ISDN a IP sítí.
 
 V kontextu 3GPP byl DECT standardizován jako alternativní rádiová přístupová technologie, aby umožnil konvergenci pevných a mobilních sítí, což dovoluje systémům DECT propojovat se s mobilními sítěmi. Tato integrace byla specifikována prostřednictvím profilu pro spolupráci DECT/UMTS (DECT/UP) a pozdějších vylepšení pro interoperabilitu se službami založenými na IMS. Technologie poskytuje místní pokrytí s typickými dosahy 50-300 metrů uvnitř budov a až několik kilometrů venku s vhodnými anténními systémy, což ji činí vhodnou pro rezidenční, podnikové a veřejné přístupové aplikace.
 
@@ -43,6 +43,8 @@ Poskytnutím standardizované, interoperabilní bezšňůrové technologie DECT 
 
 ## Související pojmy
 
+- [TDMA – Time Division Multiple Access](/mobilnisite/slovnik/tdma/)
+- [UMTS – Universal Mobile Telecommunications System](/mobilnisite/slovnik/umts/)
 - [IMS – IP Multimedia Subsystem](/mobilnisite/slovnik/ims/)
 
 ## Definující specifikace

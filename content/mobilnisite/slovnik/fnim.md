@@ -16,7 +16,7 @@ FNIM je standardizovaný 3GPP informační rámec, který definuje společný da
 
 ## Popis
 
-Federated Network Information Model (FNIM) je klíčovou součástí rámce Management and Orchestration ([MANO](/mobilnisite/slovnik/mano/)) konsorcia 3GPP, konkrétně v rámci rodiny specifikací Network Resource Model (NRM). Nejde o jedinou databázi, ale o standardizovaný objektově orientovaný informační model, který definuje, jak jsou síťové elementy, jejich schopnosti, konfigurace a vztahy reprezentovány jako spravované objekty. Tento model poskytuje společný jazyk a strukturu pro řídicí data vyměňovaná mezi různými systémy správy, jako jsou Element Managers (EMs), Network Management Systems ([NMS](/mobilnisite/slovnik/nms/)) a systémy vyšší úrovně orchestrace, například Network Function Virtualization Orchestrator ([NFVO](/mobilnisite/slovnik/nfvo/)).
+Federated Network Information Model (FNIM) je klíčovou součástí rámce Management and Orchestration ([MANO](/mobilnisite/slovnik/mano/)) konsorcia 3GPP, konkrétně v rámci rodiny specifikací Network Resource Model ([NRM](/mobilnisite/slovnik/nrm/)). Nejde o jedinou databázi, ale o standardizovaný objektově orientovaný informační model, který definuje, jak jsou síťové elementy, jejich schopnosti, konfigurace a vztahy reprezentovány jako spravované objekty. Tento model poskytuje společný jazyk a strukturu pro řídicí data vyměňovaná mezi různými systémy správy, jako jsou Element Managers (EMs), Network Management Systems ([NMS](/mobilnisite/slovnik/nms/)) a systémy vyšší úrovně orchestrace, například Network Function Virtualization Orchestrator ([NFVO](/mobilnisite/slovnik/nfvo/)).
 
 FNIM funguje tak, že specifikuje hierarchii tříd spravovaných objektů, z nichž každá má definované atributy, operace a notifikace. Tyto třídy modelují vše od fyzického hardwaru (např. stojany, karty, porty) přes virtualizované síťové funkce (VNFs), logická propojení až po měření výkonu. Klíčovým architektonickým principem je federace: FNIM umožňuje integraci informací z více, potenciálně heterogenních řídicích domén (např. doména RAN a doména core sítě, nebo sítě různých operátorů) do koherentního jednotného pohledu pro nadřazený systém správy. Toho je dosaženo pomocí standardizovaných referenčních bodů a rozhraní informačních služeb, které umožňují systémům objevovat, získávat a manipulovat s instancemi spravovaných objektů na základě schématu FNIM.
 
@@ -24,11 +24,11 @@ Mezi klíčové komponenty FNIM patří Generic Network Resource Model (GRNM), k
 
 ## K čemu slouží
 
-FNIM byl vytvořen, aby řešil kritickou výzvu složitosti a fragmentovanosti správy moderních telekomunikačních sítí. Před jeho standardizací se správa sítí výrazně opírala o proprietární Management Information Bases (MIBs) a rozhraní specifická pro zařízení každého dodavatele. To činilo poskytování služeb od konce ke konci, správu chyb a optimalizaci výkonu v síti s více dodavateli nesmírně pracným, náchylným k chybám a pomalým. Posun směrem k Network Functions Virtualization ([NFV](/mobilnisite/slovnik/nfv/)) a Software-Defined Networking (SDN) v letech 2010 tento problém ještě prohloubil, protože sítě se staly více softwarovými, dynamickými a skládaly se z elementů od mnoha dodavatelů.
+FNIM byl vytvořen, aby řešil kritickou výzvu složitosti a fragmentovanosti správy moderních telekomunikačních sítí. Před jeho standardizací se správa sítí výrazně opírala o proprietární Management Information Bases (MIBs) a rozhraní specifická pro zařízení každého dodavatele. To činilo poskytování služeb od konce ke konci, správu chyb a optimalizaci výkonu v síti s více dodavateli nesmírně pracným, náchylným k chybám a pomalým. Posun směrem k Network Functions Virtualization ([NFV](/mobilnisite/slovnik/nfv/)) a Software-Defined Networking ([SDN](/mobilnisite/slovnik/sdn/)) v letech 2010 tento problém ještě prohloubil, protože sítě se staly více softwarovými, dynamickými a skládaly se z elementů od mnoha dodavatelů.
 
 Motivací pro FNIM bylo poskytnout jednotný, standardizovaný informační rámec, který by mohl sloužit jako základ pro vizi 3GPP automatizované, zero-touch správy sítě a služeb. Definováním společného modelu umožňuje systémům správy od různých dodavatelů nebo zodpovědným za různé domény, aby si informace bezproblémově rozuměly a vyměňovaly. Tím řeší problém sémantické interoperability – zajišťuje, že 'virtuální jádro procesoru' nebo 'instance síťového řezu' znamená totéž pro všechny systémy zapojené do jeho životního cyklu.
 
-Historicky se vyvinul z jiných modelovacích snah, jako je model SID (Shared Information/Data) fóra TM Forum a informační modely [ETSI](/mobilnisite/slovnik/etsi/) NFV, a integruje je. Jeho vývoj v rámci 3GPP, začínající ve verzi 11, byl hnán potřebou telekomunikačně specifického modelu, který by dokázal zvládnout jedinečné požadavky síťových technologií 3GPP a zároveň umožňoval federaci s širšími ekosystémy [IT](/mobilnisite/slovnik/it/) správy. FNIM je tedy klíčovým enablerem pro dosažení cílů automatizace 5G, síťového řezání (kde každý řez vyžaduje vlastní spravovaný životní cyklus) a efektivní více-doménové orchestrace služeb.
+Historicky se vyvinul z jiných modelovacích snah, jako je model [SID](/mobilnisite/slovnik/sid/) (Shared Information/Data) fóra [TM](/mobilnisite/slovnik/tm/) Forum a informační modely ETSI NFV, a integruje je. Jeho vývoj v rámci 3GPP, začínající ve verzi 11, byl hnán potřebou telekomunikačně specifického modelu, který by dokázal zvládnout jedinečné požadavky síťových technologií 3GPP a zároveň umožňoval federaci s širšími ekosystémy IT správy. FNIM je tedy klíčovým enablerem pro dosažení cílů automatizace 5G, síťového řezání (kde každý řez vyžaduje vlastní spravovaný životní cyklus) a efektivní více-doménové orchestrace služeb.
 
 ## Klíčové vlastnosti
 
@@ -41,6 +41,7 @@ Historicky se vyvinul z jiných modelovacích snah, jako je model SID (Shared In
 
 ## Související pojmy
 
+- [NRM – Network Resource Model](/mobilnisite/slovnik/nrm/)
 - [MANO – Management and Orchestration](/mobilnisite/slovnik/mano/)
 - [NFV – Network Functions Virtualization](/mobilnisite/slovnik/nfv/)
 

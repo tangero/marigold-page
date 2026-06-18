@@ -16,7 +16,7 @@ H-EES je síťová funkce v domovské síti uživatele, která spravuje služby 
 
 ## Popis
 
-Home Edge Enabler Server (H-EES) je klíčová komponenta architektury 3GPP Edge Computing definované v TS 23.558. Funguje v rámci domovské veřejné pozemní mobilní sítě ([HPLMN](/mobilnisite/slovnik/hplmn/)) účastníka a slouží jako centrální řídicí bod pro zpřístupnění edge aplikací, když uživatel roamuje. H-EES nehostí samotné edge aplikace; místo toho spravuje aspekty registrace služeb, jejich vyhledávání a kontinuity relací. Udržuje registr dostupných edge aplikací a služeb, k nimž je uživatel přihlášen nebo které nabízí domovský operátor. Když roamující uživatel požádá o edge službu, H-EES komunikuje s Visited Edge Enabler Server (V-EES) v navštívené veřejné pozemní mobilní síti (VPLMN), aby usnadnil její zřízení. Tato interakce zahrnuje autorizaci žádosti o službu, vyhledání vhodných instancí edge aplikací v navštívené síti na základě požadavků na latenci a polohy uživatele a zajištění uplatnění uživatelského profilu a politik služeb. H-EES komunikuje s V-EES přes referenční bod Ees-EE (Edge Enabler Server - Edge Enabler). Jeho architektura je navržena odděleně od uživatelské roviny a zaměřuje se na řídicí a správní funkce. Integruje se s Network Exposure Function ([NEF](/mobilnisite/slovnik/nef/)) pro zabezpečené vystavení [API](/mobilnisite/slovnik/api/) a s Unified Data Management ([UDM](/mobilnisite/slovnik/udm/)) pro data účastníků. H-EES hraje klíčovou roli v ekosystému edge computingu tím, že abstrahuje složitost podkladové síťové topologie od poskytovatelů aplikací a umožňuje jim nabízet uživatelům bezproblémové služby s nízkou latencí napříč různými doménami operátorů.
+Home Edge Enabler Server (H-EES) je klíčová komponenta architektury 3GPP Edge Computing definované v TS 23.558. Funguje v rámci domovské veřejné pozemní mobilní sítě ([HPLMN](/mobilnisite/slovnik/hplmn/)) účastníka a slouží jako centrální řídicí bod pro zpřístupnění edge aplikací, když uživatel roamuje. H-EES nehostí samotné edge aplikace; místo toho spravuje aspekty registrace služeb, jejich vyhledávání a kontinuity relací. Udržuje registr dostupných edge aplikací a služeb, k nimž je uživatel přihlášen nebo které nabízí domovský operátor. Když roamující uživatel požádá o edge službu, H-EES komunikuje s Visited Edge Enabler Server ([V-EES](/mobilnisite/slovnik/v-ees/)) v navštívené veřejné pozemní mobilní síti ([VPLMN](/mobilnisite/slovnik/vplmn/)), aby usnadnil její zřízení. Tato interakce zahrnuje autorizaci žádosti o službu, vyhledání vhodných instancí edge aplikací v navštívené síti na základě požadavků na latenci a polohy uživatele a zajištění uplatnění uživatelského profilu a politik služeb. H-EES komunikuje s V-EES přes referenční bod Ees-EE (Edge Enabler Server - Edge Enabler). Jeho architektura je navržena odděleně od uživatelské roviny a zaměřuje se na řídicí a správní funkce. Integruje se s Network Exposure Function ([NEF](/mobilnisite/slovnik/nef/)) pro zabezpečené vystavení [API](/mobilnisite/slovnik/api/) a s Unified Data Management ([UDM](/mobilnisite/slovnik/udm/)) pro data účastníků. H-EES hraje klíčovou roli v ekosystému edge computingu tím, že abstrahuje složitost podkladové síťové topologie od poskytovatelů aplikací a umožňuje jim nabízet uživatelům bezproblémové služby s nízkou latencí napříč různými doménami operátorů.
 
 ## K čemu slouží
 
@@ -33,8 +33,10 @@ H-EES byl vytvořen, aby vyřešil výzvu poskytování konzistentních služeb 
 
 ## Související pojmy
 
+- [V-EES – Visited Edge Enabler Server](/mobilnisite/slovnik/v-ees/)
 - [NEF – Network Exposure Function](/mobilnisite/slovnik/nef/)
 - [UDM – Unified Data Management](/mobilnisite/slovnik/udm/)
+- [PLMN – Public Land Mobile Network](/mobilnisite/slovnik/plmn/)
 
 ## Definující specifikace
 

@@ -16,7 +16,7 @@ AOCRG je mechanismus účtování dle 3GPP, který operátorům umožňuje aplik
 
 ## Popis
 
-Add-On Charging Information (AOCRG, informace o doplňkovém účtování) představuje sofistikovaný rámec účtování v rámci sítí 3GPP, který operátorům umožňuje implementovat doplňková pravidla účtování nad rámec standardních tarifů služeb. Architektura je integrována s rámcem Policy and Charging Control (PCC), konkrétně komunikuje s funkcí Policy and Charging Rules Function (PCRF) a Online Charging System ([OCS](/mobilnisite/slovnik/ocs/)). AOCRG funguje jako rozšíření stávajících mechanismů účtování, umožňuje operátorům definovat podrobná účtovací pravidla, která lze dynamicky aplikovat na základě reálného stavu sítě, profilu účastníka nebo charakteristik služby.
+Add-On Charging Information (AOCRG, informace o doplňkovém účtování) představuje sofistikovaný rámec účtování v rámci sítí 3GPP, který operátorům umožňuje implementovat doplňková pravidla účtování nad rámec standardních tarifů služeb. Architektura je integrována s rámcem Policy and Charging Control ([PCC](/mobilnisite/slovnik/pcc/)), konkrétně komunikuje s funkcí Policy and Charging Rules Function ([PCRF](/mobilnisite/slovnik/pcrf/)) a Online Charging System ([OCS](/mobilnisite/slovnik/ocs/)). AOCRG funguje jako rozšíření stávajících mechanismů účtování, umožňuje operátorům definovat podrobná účtovací pravidla, která lze dynamicky aplikovat na základě reálného stavu sítě, profilu účastníka nebo charakteristik služby.
 
 Z technického hlediska AOCRG funguje definováním doplňkových účtovacích parametrů, které doplňují primární účtovací pravidla. Když účastník zahájí služební relaci, PCRF vyhodnotí jak standardní účtovací politiky, tak případná platná pravidla AOCRG. Tato pravidla mohou být spuštěna na základě různých podnětů, včetně typu služby, denní doby, zatížení sítě, úrovně předplatitele nebo konkrétního přístupovaného obsahu. Účtovací informace jsou následně sděleny OCS nebo Offline Charging System ([OFCS](/mobilnisite/slovnik/ofcs/)) prostřednictvím standardizovaných rozhraní, což zajišťuje správné generování záznamů pro fakturaci.
 
@@ -24,7 +24,7 @@ Klíčové komponenty zapojené do implementace AOCRG zahrnují PCRF, která ukl
 
 V rámci síťového ekosystému hraje AOCRG klíčovou roli při umožňování strategií monetizace přesahujících jednoduché objemové nebo časové účtování. Podporuje vrstvené modely služeb, propagační nabídky a cenotvorbu založenou na kvalitě, kde různé úrovně QoS znamenají různé poplatky. Rámec také usnadňuje dodržování regulatorních požadavků tím, že umožňuje transparentní aplikaci dodatečných poplatků s odpovídajícími mechanismy upozornění pro účastníky.
 
-Z pohledu implementace informace AOCRG proudí existujícími rozhraními založenými na protokolu Diameter, primárně využívají rozhraní Gx mezi PCRF a Packet Data Network Gateway (PGW) a rozhraní Gy mezi PGW a OCS. Účtovací pravidla jsou typicky zřizována prostřednictvím manažerských systémů a mohou být dynamicky aktualizována, aby odrážela měnící se obchodní požadavky nebo tržní podmínky.
+Z pohledu implementace informace AOCRG proudí existujícími rozhraními založenými na protokolu Diameter, primárně využívají rozhraní Gx mezi PCRF a Packet Data Network Gateway ([PGW](/mobilnisite/slovnik/pgw/)) a rozhraní Gy mezi PGW a OCS. Účtovací pravidla jsou typicky zřizována prostřednictvím manažerských systémů a mohou být dynamicky aktualizována, aby odrážela měnící se obchodní požadavky nebo tržní podmínky.
 
 ## K čemu slouží
 

@@ -16,11 +16,11 @@ BOOTP je síťový managementový protokol standardizovaný 3GPP, který automat
 
 ## Popis
 
-Bootstrap Protocol (BOOTP) slouží v sítích 3GPP jako základní managementový protokol pro inicializaci síťových prvků během startu systému a pro provisioningové operace. BOOTP funguje jako klient-server protokol, kde síťové prvky (klienti) žádají o konfigurační informace ze serverů BOOTP během své inicializační fáze. Protokol používá jako transportní mechanismus UDP, typicky na známých portech 67 (server) a 68 (klient), a využívá broadcastové zprávy pro objevování dostupných serverů, když klient nemá předchozí konfiguraci sítě.
+Bootstrap Protocol (BOOTP) slouží v sítích 3GPP jako základní managementový protokol pro inicializaci síťových prvků během startu systému a pro provisioningové operace. BOOTP funguje jako klient-server protokol, kde síťové prvky (klienti) žádají o konfigurační informace ze serverů BOOTP během své inicializační fáze. Protokol používá jako transportní mechanismus [UDP](/mobilnisite/slovnik/udp/), typicky na známých portech 67 (server) a 68 (klient), a využívá broadcastové zprávy pro objevování dostupných serverů, když klient nemá předchozí konfiguraci sítě.
 
 Z architektonického hlediska zahrnuje BOOTP několik klíčových komponent: klienta BOOTP integrovaného v síťových prvcích, jeden nebo více serverů BOOTP, které udržují databáze konfigurací, a volitelně relay agenty, kteří přeposílají zprávy BOOTP přes hranice sítí. Protokolová výměna začíná, když klient vyšle broadcastem paket BOOTP request obsahující jeho hardwarovou adresu ([MAC](/mobilnisite/slovnik/mac/) adresu) a transakční identifikátor. Servery BOOTP přijímající tuto žádost konzultují své konfigurační databáze, aby přiřadily hardwarové adrese klienta předdefinované konfigurační parametry, a poté odpoví paketem BOOTP reply obsahujícím přiřazenou konfiguraci.
 
-Konfigurační data poskytovaná prostřednictvím BOOTP typicky zahrnují IP adresu klienta, masku podsítě, výchozí bránu, název bootovacího souboru (pro získání softwarového obrazu přes TFTP) a různé síťově specifické parametry. V sítích 3GPP je BOOTP zvláště cenný pro provisioning síťových prvků, jako jsou základnové stanice, uzly core sítě a managementové systémy, které vyžadují konzistentní, automatizovanou konfiguraci napříč rozsáhlými nasazeními. Jednoduchost a spolehlivost protokolu jej činí vhodným pro scénáře počátečního zprovoznění sítě, kdy složitější managementové protokoly nemusí být ještě dostupné.
+Konfigurační data poskytovaná prostřednictvím BOOTP typicky zahrnují IP adresu klienta, masku podsítě, výchozí bránu, název bootovacího souboru (pro získání softwarového obrazu přes [TFTP](/mobilnisite/slovnik/tftp/)) a různé síťově specifické parametry. V sítích 3GPP je BOOTP zvláště cenný pro provisioning síťových prvků, jako jsou základnové stanice, uzly core sítě a managementové systémy, které vyžadují konzistentní, automatizovanou konfiguraci napříč rozsáhlými nasazeními. Jednoduchost a spolehlivost protokolu jej činí vhodným pro scénáře počátečního zprovoznění sítě, kdy složitější managementové protokoly nemusí být ještě dostupné.
 
 Role BOOTP přesahuje základní přiřazování IP adres a zahrnuje správu softwarových verzí a vynucování konzistence konfigurace. Síťoví operátoři mohou udržovat centralizované konfigurační databáze na serverech BOOTP, což zajišťuje, že všechny síťové prvky obdrží odpovídající konfiguraci na základě svých hardwarových identifikátorů, umístění nebo funkční role. Tento centralizovaný přístup usnadňuje škálovatelnost sítě, snižuje chyby při ruční konfiguraci a umožňuje rychlé nasazení nových síťových prvků bez nutnosti přítomnosti technického personálu na místě pro počáteční nastavení.
 
@@ -46,6 +46,7 @@ Protokol řeší několik klíčových problémů: odstraňuje nutnost předkonf
 ## Související pojmy
 
 - [DHCP – Dynamic Host Configuration Protocol](/mobilnisite/slovnik/dhcp/)
+- [TFTP – Trivial File Transfer Protocol](/mobilnisite/slovnik/tftp/)
 
 ## Definující specifikace
 

@@ -16,13 +16,13 @@ IP-CAN je konceptuální síť, která poskytuje IP konektivitu mezi uživatelsk
 
 ## Popis
 
-IP-Connectivity Access Network (IP-CAN) není jediný fyzický síťový prvek, ale logický architektonický koncept definovaný v rámci specifikací 3GPP. Představuje celou sadu síťových entit a funkcí, které společně vytvářejí a udržují IP přenosovou konektivitu pro uživatele. Tato konektivita začíná na uživatelském zařízení (UE) a prochází rádiovou přístupovou sítí (např. UTRAN, [E-UTRAN](/mobilnisite/slovnik/e-utran/), NG-RAN) a jádrem sítě (např. [GPRS](/mobilnisite/slovnik/gprs/) jádro, EPC, 5GC) až k bráně paketové datové sítě (PDN Gateway, PGW) v 4G nebo k funkci uživatelské roviny (User Plane Function, [UPF](/mobilnisite/slovnik/upf/)) v 5G, která slouží jako kotvící bod k externím IP sítím.
+IP-Connectivity Access Network (IP-CAN) není jediný fyzický síťový prvek, ale logický architektonický koncept definovaný v rámci specifikací 3GPP. Představuje celou sadu síťových entit a funkcí, které společně vytvářejí a udržují IP přenosovou konektivitu pro uživatele. Tato konektivita začíná na uživatelském zařízení (UE) a prochází rádiovou přístupovou sítí (např. [UTRAN](/mobilnisite/slovnik/utran/), [E-UTRAN](/mobilnisite/slovnik/e-utran/), NG-RAN) a jádrem sítě (např. [GPRS](/mobilnisite/slovnik/gprs/) jádro, EPC, 5GC) až k bráně paketové datové sítě ([PDN](/mobilnisite/slovnik/pdn/) Gateway, [PGW](/mobilnisite/slovnik/pgw/)) v 4G nebo k funkci uživatelské roviny (User Plane Function, [UPF](/mobilnisite/slovnik/upf/)) v 5G, která slouží jako kotvící bod k externím IP sítím.
 
 Z funkční perspektivy IP-CAN zahrnuje všechny vrstvy a protokoly zapojené do IP relace. To zahrnuje zřízení, modifikaci a ukončení přenosů (bearer) nebo QoS toků, které přenášejí IP provoz uživatele. Každá IP-CAN relace je spojena s konkrétní IP adresou UE a je jednoznačně identifikována pro účely řízení politiky a účtování. Architektura je v pozdějších verzích navržena jako nezávislá na typu přístupu, což znamená, že základní logika politiky může být aplikována jednotně, ať je uživatel připojen přes 3G, 4G, 5G nebo ne-3GPP přístup jako Wi-Fi.
 
-Hlavní role IP-CAN je sloužit jako kontext pro architekturu řízení politiky a účtování (PCC). Funkce pravidel politiky a účtování (PCRF) nebo funkce řízení politiky ([PCF](/mobilnisite/slovnik/pcf/)) v 5GC používá IP-CAN relaci jako klíčový kotvící bod pro aplikaci rozhodnutí o politice. PCRF/PCF přijímá informace o IP-CAN relaci (např. IP adresa, typ přístupu, charakteristiky výchozího přenosu) od síťového prvku, který funguje jako funkce vynucení politiky a účtování (PCEF), typicky PGW nebo UPF. Na základě profilů účastníka, požadavků služeb a stavu sítě pak PCRF/PCF instaluje dynamická PCC pravidla do PCEF. Tato pravidla řídí parametry QoS (jako garantovaný přenosový výkon), řízení provozu (povolení/blokování paketů) a metody účtování pro konkrétní toky služebních dat v rámci IP-CAN relace.
+Hlavní role IP-CAN je sloužit jako kontext pro architekturu řízení politiky a účtování ([PCC](/mobilnisite/slovnik/pcc/)). Funkce pravidel politiky a účtování ([PCRF](/mobilnisite/slovnik/pcrf/)) nebo funkce řízení politiky (PCF) v 5GC používá IP-CAN relaci jako klíčový kotvící bod pro aplikaci rozhodnutí o politice. PCRF/PCF přijímá informace o IP-CAN relaci (např. IP adresa, typ přístupu, charakteristiky výchozího přenosu) od síťového prvku, který funguje jako funkce vynucení politiky a účtování (PCEF), typicky PGW nebo UPF. Na základě profilů účastníka, požadavků služeb a stavu sítě pak PCRF/PCF instaluje dynamická PCC pravidla do PCEF. Tato pravidla řídí parametry QoS (jako garantovaný přenosový výkon), řízení provozu (povolení/blokování paketů) a metody účtování pro konkrétní toky služebních dat v rámci IP-CAN relace.
 
-Klíčové komponenty podílející se na realizaci IP-CAN relace zahrnují UE, rádiovou přístupovou síť, obslužnou bránu (SGW) v EPC, PGW/UPF (která funguje jako koncový bod IP-CAN přenosu a jako PCEF) a PCRF/PCF. Rozhraní mezi těmito prvky, jako je rozhraní Gx (mezi PCRF a PGW) nebo rozhraní N7 (mezi PCF a [SMF](/mobilnisite/slovnik/smf/)), se používají ke správě politik IP-CAN relace. Tento koncept je zásadní pro umožnění bezproblémových, kvalitativně zaručených a účtovatelných multimediálních služeb IP napříč vyvíjejícími se generacemi sítí.
+Klíčové komponenty podílející se na realizaci IP-CAN relace zahrnují UE, rádiovou přístupovou síť, obslužnou bránu (SGW) v EPC, PGW/UPF (která funguje jako koncový bod IP-CAN přenosu a jako PCEF) a PCRF/PCF. Rozhraní mezi těmito prvky, jako je rozhraní Gx (mezi PCRF a PGW) nebo rozhraní N7 (mezi PCF a SMF), se používají ke správě politik IP-CAN relace. Tento koncept je zásadní pro umožnění bezproblémových, kvalitativně zaručených a účtovatelných multimediálních služeb IP napříč vyvíjejícími se generacemi sítí.
 
 ## K čemu slouží
 
@@ -40,6 +40,12 @@ Navíc abstrakce IP-CAN zajistila budoucí kompatibilitu architektury politiky. 
 - Navrženo jako nezávislé na přístupové technologii (3GPP i ne-3GPP)
 - Umožňuje dynamické řízení QoS a detekci toků služebních dat
 - Umožňuje bezproblémovou mobilitu a kontinuitu relace pro IP služby
+
+## Související pojmy
+
+- [PCC – Performance-oriented Congestion Control](/mobilnisite/slovnik/pcc/)
+- [PCRF – Policy and Charging Rules Function](/mobilnisite/slovnik/pcrf/)
+- [PCEF – Policy and Charging Enforcement Function](/mobilnisite/slovnik/pcef/)
 
 ## Definující specifikace
 

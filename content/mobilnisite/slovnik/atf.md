@@ -16,7 +16,7 @@ ATF je síťová funkce pro provoz, správu a údržbu (OAM) určená pro automa
 
 ## Popis
 
-Antenna Test Function (ATF) je entita pro provoz, správu a údržbu (OAM) zavedená organizací 3GPP pro sítě New Radio (NR). Je umístěna v rámci systému správy sítě, typicky jako součást systému správy prvků ([EMS](/mobilnisite/slovnik/ems/)) nebo síťového řídicího systému ([NMS](/mobilnisite/slovnik/nms/)), a je zodpovědná za orchestraci a provádění testů anténních systémů základnových stanic 5G (gNB). Na rozdíl od tradičního ručního ověřování antén při instalaci umožňuje ATF automatizované, vzdálené a periodické testování, což je klíčové pro udržení výkonu pokročilých anténních systémů ([AAS](/mobilnisite/slovnik/aas/)), které využívají massive [MIMO](/mobilnisite/slovnik/mimo/) a beamforming.
+Antenna Test Function (ATF) je entita pro provoz, správu a údržbu ([OAM](/mobilnisite/slovnik/oam/)) zavedená organizací 3GPP pro sítě New Radio (NR). Je umístěna v rámci systému správy sítě, typicky jako součást systému správy prvků ([EMS](/mobilnisite/slovnik/ems/)) nebo síťového řídicího systému ([NMS](/mobilnisite/slovnik/nms/)), a je zodpovědná za orchestraci a provádění testů anténních systémů základnových stanic 5G (gNB). Na rozdíl od tradičního ručního ověřování antén při instalaci umožňuje ATF automatizované, vzdálené a periodické testování, což je klíčové pro udržení výkonu pokročilých anténních systémů ([AAS](/mobilnisite/slovnik/aas/)), které využívají massive [MIMO](/mobilnisite/slovnik/mimo/) a beamforming.
 
 Z architektonického hlediska ATF komunikuje s testovaným gNB prostřednictvím rozhraní pro správu, jako jsou například ta definovaná ve specifikacích 3GPP řady 28. Iniciuje testovací postupy zasíláním specifických příkazů pro testovací konfiguraci gNB. Rádiová jednotka a anténní pole gNB následně provedou požadované testy, které mohou zahrnovat vysílání známých testovacích signálů na specifických beamech nebo příjem signálů z testovací sondy. gNB shromažďuje měřená data (např. charakteristiky beam pattern, zisk, směrovost) a výsledky hlásí zpět ATF k analýze. ATF tyto výsledky porovnává s předdefinovanými výkonnostními prahy nebo referenčními hodnotami, aby určil stav vyhověl/nevyhověl.
 
@@ -40,6 +40,7 @@ Primární problém, který ATF řeší, je potřeba efektivního, automatizovan
 ## Související pojmy
 
 - [AAS – Active Antenna System](/mobilnisite/slovnik/aas/)
+- [OAM – Operations, Administration, and Maintenance](/mobilnisite/slovnik/oam/)
 - [NR – New Radio](/mobilnisite/slovnik/nr/)
 
 ## Definující specifikace

@@ -16,9 +16,9 @@ CCCCH je kompaktní logický kanál v sítích GPRS/EDGE, který přenáší sig
 
 ## Popis
 
-Compact Common Control Channel (CCCCH) je logický kanál definovaný v architektuře protokolů rozhraní [GPRS](/mobilnisite/slovnik/gprs/)/[EDGE](/mobilnisite/slovnik/edge/), konkrétně v rámci vrstvy Radio Link Control/Medium Access Control (RLC/[MAC](/mobilnisite/slovnik/mac/)) podle specifikace 3GPP TS 44.060. Jako logický kanál neodpovídá specifickému fyzickému prostředku, ale definuje typ přenášené informace po fyzických kanálech. CCCCH pracuje v uplink směru od mobilních stanic k síti a přenáší signalizaci společného řízení, která nevyžaduje vyhrazené prostředky.
+Compact Common Control Channel (CCCCH) je logický kanál definovaný v architektuře protokolů rozhraní [GPRS](/mobilnisite/slovnik/gprs/)/[EDGE](/mobilnisite/slovnik/edge/), konkrétně v rámci vrstvy Radio Link Control/Medium Access Control ([RLC](/mobilnisite/slovnik/rlc/)/[MAC](/mobilnisite/slovnik/mac/)) podle specifikace 3GPP TS 44.060. Jako logický kanál neodpovídá specifickému fyzickému prostředku, ale definuje typ přenášené informace po fyzických kanálech. CCCCH pracuje v uplink směru od mobilních stanic k síti a přenáší signalizaci společného řízení, která nevyžaduje vyhrazené prostředky.
 
-Z architektonického hlediska se CCCCH nachází ve vrstvách nad fyzickou vrstvou a pod vrstvou RLC/MAC. Je mapován na konkrétní fyzické prostředky známé jako Packet Common Control Channels (PCCCH), pokud jsou dostupné, nebo na stávající kanály společného řízení ([CCCH](/mobilnisite/slovnik/ccch/)) v GSM, pokud PCCCH není zaveden. Kanál využívá proceduru náhodného přístupu založenou na mechanismu slotted Aloha, kdy mobilní stanice vysílají přístupové výbuchy obsahující jejich požadavky. Tyto výbuchy zahrnují klíčové informace, jako je identita mobilního zařízení, typ požadované služby a náhodné referenční číslo pro řešení kolizí.
+Z architektonického hlediska se CCCCH nachází ve vrstvách nad fyzickou vrstvou a pod vrstvou RLC/MAC. Je mapován na konkrétní fyzické prostředky známé jako Packet Common Control Channels ([PCCCH](/mobilnisite/slovnik/pccch/)), pokud jsou dostupné, nebo na stávající kanály společného řízení ([CCCH](/mobilnisite/slovnik/ccch/)) v GSM, pokud PCCCH není zaveden. Kanál využívá proceduru náhodného přístupu založenou na mechanismu slotted Aloha, kdy mobilní stanice vysílají přístupové výbuchy obsahující jejich požadavky. Tyto výbuchy zahrnují klíčové informace, jako je identita mobilního zařízení, typ požadované služby a náhodné referenční číslo pro řešení kolizí.
 
 CCCCH přenáší několik typů řídicích zpráv včetně zpráv Packet Channel Request, Packet Resource Request a Packet Paging Response. Kanál využívá soutěživý mechanismus přístupu, při kterém může více mobilních stanic současně zkoušet získat přístup k síti, což vyžaduje procedury detekce a řešení kolizí. Síť reaguje na přenosy po CCCCH alokací vyhrazených prostředků nebo poskytnutím potřebných řídicích informací prostřednictvím downlink kanálů. Tento kanál je obzvláště důležitý během počáteční fáze navazování paketové datové relace, kdy mobilní zařízení přechází z klidového do aktivního stavu.
 
@@ -26,7 +26,7 @@ Klíčové komponenty fungování CCCCH zahrnují strukturu přístupového výb
 
 ## K čemu slouží
 
-CCCCH byl vytvořen k řešení specifických požadavků paketově orientovaných datových služeb v sítích [GPRS](/mobilnisite/slovnik/gprs/)/[EDGE](/mobilnisite/slovnik/edge/), které se výrazně lišily od tradičních služeb přepojování okruhů pro hlas. Před GPRS používaly sítě GSM pro veškerou signalizaci společného řízení kanál [CCCH](/mobilnisite/slovnik/ccch/), ale tento přístup nebyl optimalizovaný pro přerušovanou, "bursty" povahu paketového datového provozu. Stávající mechanismy CCCH byly navrženy primárně pro zřizování hlasových hovorů a neefektivně zvládaly časté, malé datové přenosy charakteristické pro rané mobilní datové aplikace.
+CCCCH byl vytvořen k řešení specifických požadavků paketově orientovaných datových služeb v sítích [GPRS](/mobilnisite/slovnik/gprs/)/[EDGE](/mobilnisite/slovnik/edge/), které se výrazně lišily od tradičních služeb přepojování okruhů pro hlas. Před GPRS používaly sítě GSM pro veškerou signalizaci společného řízení kanál CCCH, ale tento přístup nebyl optimalizovaný pro přerušovanou, "bursty" povahu paketového datového provozu. Stávající mechanismy CCCH byly navrženy primárně pro zřizování hlasových hovorů a neefektivně zvládaly časté, malé datové přenosy charakteristické pro rané mobilní datové aplikace.
 
 Primárním motivem pro zavedení CCCCH bylo poskytnutí efektivnějšího řídicího kanálu specificky přizpůsobeného pro datové služby. Tradiční procedury CCCH zahrnovaly poměrně dlouhé signalizační výměny, které vytvářely zbytečnou režii pro paketové datové relace. CCCCH zavedl optimalizace, jako jsou kratší formáty zpráv, rychlejší přístupové procedury a lepší zvládání soutěživých scénářů běžných v datových sítích. To bylo obzvláště důležité, když mobilní operátoři začali zavádět služby GPRS vedle stávajících GSM hlasových sítí, což vyžadovalo efektivní souběžné fungování obou typů služeb.
 
@@ -44,6 +44,8 @@ CCCCH vyřešil několik konkrétních problémů: snížil signalizační reži
 ## Související pojmy
 
 - [CCCH – Common Control Channel](/mobilnisite/slovnik/ccch/)
+- [PCCCH – Packet Common Control Channel](/mobilnisite/slovnik/pccch/)
+- [RACH – Random Access Channel](/mobilnisite/slovnik/rach/)
 - [GPRS – CSI GPRS CAMEL Subscription Information](/mobilnisite/slovnik/gprs/)
 
 ## Definující specifikace
