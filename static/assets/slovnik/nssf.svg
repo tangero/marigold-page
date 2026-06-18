@@ -1,149 +1,134 @@
-<svg viewBox="0 0 1536 1024" xmlns="http://www.w3.org/2000/svg" font-family="Inter, Arial, sans-serif">
-  <!-- Background -->
-  <rect width="1536" height="1024" fill="#ffffff"/>
-
-  <!-- Markers -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1536 1024" font-family="Inter, Arial, sans-serif">
+  
+  
+  <rect width="1536" height="1024" fill="white"/>
+  
+  
   <defs>
-    <marker id="arrowOrange" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#EA580C"/>
-    </marker>
-    <marker id="arrowOrangeUp" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+    <marker id="arrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#EA580C"/>
     </marker>
   </defs>
-
-  <!-- TITLE -->
-  <text x="768" y="52" text-anchor="middle" font-size="36" font-weight="700" fill="#1e293b">NSSF – Network Slice Selection Function</text>
-  <text x="768" y="90" text-anchor="middle" font-size="20" fill="#64748b">Výběr síťového řezu v 5G Core (3GPP TS 23.501 / TS 29.520)</text>
-
-  <!-- ===== DIAGRAM ZONE y=130–700 ===== -->
-
-  <!-- Row 1: UE + AMF + NSSF -->
-  <!-- UE block -->
-  <rect x="80" y="150" width="180" height="70" rx="8" fill="#2563EB" stroke="#1d4ed8" stroke-width="2"/>
-  <text x="170" y="181" text-anchor="middle" font-size="20" font-weight="600" fill="#ffffff">UE</text>
-  <text x="170" y="204" text-anchor="middle" font-size="16" fill="#bfdbfe">Požadavek + NSSAI</text>
-
-  <!-- AMF block -->
-  <rect x="380" y="150" width="200" height="70" rx="8" fill="#2563EB" stroke="#1d4ed8" stroke-width="2"/>
-  <text x="480" y="181" text-anchor="middle" font-size="20" font-weight="600" fill="#ffffff">AMF</text>
-  <text x="480" y="204" text-anchor="middle" font-size="16" fill="#bfdbfe">Registrace UE</text>
-
-  <!-- NSSF block -->
-  <rect x="700" y="150" width="220" height="70" rx="8" fill="#2563EB" stroke="#1d4ed8" stroke-width="2"/>
-  <text x="810" y="181" text-anchor="middle" font-size="20" font-weight="600" fill="#ffffff">NSSF</text>
-  <text x="810" y="204" text-anchor="middle" font-size="16" fill="#bfdbfe">Výběr síťového řezu</text>
-
-  <!-- UDM block -->
-  <rect x="1040" y="150" width="200" height="70" rx="8" fill="#2563EB" stroke="#1d4ed8" stroke-width="2"/>
-  <text x="1140" y="181" text-anchor="middle" font-size="20" font-weight="600" fill="#ffffff">UDM</text>
-  <text x="1140" y="204" text-anchor="middle" font-size="16" fill="#bfdbfe">Profil předplatného</text>
-
-  <!-- Arrow UE → AMF: UE požadavek + Požadované NSSAI -->
-  <line x1="260" y1="185" x2="378" y2="185" stroke="#EA580C" stroke-width="2.5" marker-end="url(#arrowOrange)"/>
-  <text x="319" y="175" text-anchor="middle" font-size="15" fill="#EA580C">UE požadavek</text>
-  <text x="319" y="193" text-anchor="middle" font-size="15" fill="#EA580C">+ NSSAI</text>
-
-  <!-- Arrow AMF → NSSF: dotaz na výběr řezu -->
-  <line x1="580" y1="185" x2="698" y2="185" stroke="#EA580C" stroke-width="2.5" marker-end="url(#arrowOrange)"/>
-  <text x="639" y="172" text-anchor="middle" font-size="15" fill="#EA580C">dotaz na</text>
-  <text x="639" y="190" text-anchor="middle" font-size="15" fill="#EA580C">výběr řezu</text>
-
-  <!-- Arrow NSSF → UDM: ověření předplatného -->
-  <line x1="920" y1="185" x2="1038" y2="185" stroke="#EA580C" stroke-width="2.5" marker-end="url(#arrowOrange)"/>
-  <text x="979" y="172" text-anchor="middle" font-size="15" fill="#EA580C">ověření</text>
-  <text x="979" y="190" text-anchor="middle" font-size="15" fill="#EA580C">předplatného</text>
-
-  <!-- Row 2: Operátorské politiky + NSI mapování -->
-  <!-- Operator Policies block -->
-  <rect x="620" y="310" width="220" height="70" rx="8" fill="#2563EB" stroke="#1d4ed8" stroke-width="2"/>
-  <text x="730" y="341" text-anchor="middle" font-size="19" font-weight="600" fill="#ffffff">Operátorské politiky</text>
-  <text x="730" y="364" text-anchor="middle" font-size="15" fill="#bfdbfe">Pravidla výběru řezu</text>
-
-  <!-- NSI Mapping block -->
-  <rect x="900" y="310" width="220" height="70" rx="8" fill="#2563EB" stroke="#1d4ed8" stroke-width="2"/>
-  <text x="1010" y="341" text-anchor="middle" font-size="19" font-weight="600" fill="#ffffff">NSI mapování</text>
-  <text x="1010" y="364" text-anchor="middle" font-size="15" fill="#bfdbfe">S-NSSAI → NSI</text>
-
-  <!-- Arrow NSSF → Operator Policies -->
-  <line x1="810" y1="220" x2="760" y2="308" stroke="#EA580C" stroke-width="2" marker-end="url(#arrowOrange)" stroke-dasharray="6,3"/>
-  <text x="770" y="268" text-anchor="middle" font-size="14" fill="#EA580C">aplikuje</text>
-
-  <!-- Arrow NSSF → NSI Mapping -->
-  <line x1="870" y1="220" x2="980" y2="308" stroke="#EA580C" stroke-width="2" marker-end="url(#arrowOrange)" stroke-dasharray="6,3"/>
-  <text x="950" y="262" text-anchor="middle" font-size="14" fill="#EA580C">mapuje</text>
-
-  <!-- Row 3: Povolené NSSAI + Přiřazená NSI/AMF Set -->
-  <!-- Povolene NSSAI block -->
-  <rect x="380" y="460" width="230" height="70" rx="8" fill="#16A34A" stroke="#15803d" stroke-width="2"/>
-  <text x="495" y="491" text-anchor="middle" font-size="19" font-weight="600" fill="#ffffff">Povolené NSSAI</text>
-  <text x="495" y="514" text-anchor="middle" font-size="15" fill="#bbf7d0">Schválené řezy pro UE</text>
-
-  <!-- Prirazena NSI/AMF Set block -->
-  <rect x="680" y="460" width="250" height="70" rx="8" fill="#16A34A" stroke="#15803d" stroke-width="2"/>
-  <text x="805" y="491" text-anchor="middle" font-size="19" font-weight="600" fill="#ffffff">Přiřazená NSI/AMF Set</text>
-  <text x="805" y="514" text-anchor="middle" font-size="15" fill="#bbf7d0">Konkrétní instance řezu</text>
-
-  <!-- Arrow NSSF → Povolene NSSAI (down-left) -->
-  <line x1="760" y1="380" x2="560" y2="458" stroke="#EA580C" stroke-width="2.5" marker-end="url(#arrowOrange)"/>
-  <text x="630" y="415" text-anchor="middle" font-size="14" fill="#EA580C">povolené NSSAI</text>
-
-  <!-- Arrow NSI Mapping → Prirazena NSI -->
-  <line x1="1010" y1="380" x2="870" y2="458" stroke="#EA580C" stroke-width="2.5" marker-end="url(#arrowOrange)"/>
-  <text x="970" y="415" text-anchor="middle" font-size="14" fill="#EA580C">NSI instance</text>
-
-  <!-- Arrow NSSF → AMF: povolené NSSAI + AMF Set (back to AMF) -->
-  <!-- From Povolene NSSAI back to AMF -->
-  <line x1="480" y1="460" x2="480" y2="222" stroke="#EA580C" stroke-width="2.5" marker-end="url(#arrowOrange)"/>
-  <text x="440" y="345" text-anchor="middle" font-size="14" fill="#EA580C">NSSAI</text>
-  <text x="440" y="363" text-anchor="middle" font-size="14" fill="#EA580C">+ AMF Set</text>
-
-  <!-- Row 4: Obsluha relace + AMF → UE -->
-  <!-- Obsluha relace block -->
-  <rect x="80" y="590" width="220" height="70" rx="8" fill="#16A34A" stroke="#15803d" stroke-width="2"/>
-  <text x="190" y="621" text-anchor="middle" font-size="19" font-weight="600" fill="#ffffff">Obsluha relace</text>
-  <text x="190" y="644" text-anchor="middle" font-size="15" fill="#bbf7d0">PDU Session v NSI</text>
-
-  <!-- Arrow AMF → UE: potvrzení řezu -->
-  <line x1="480" y1="220" x2="260" y2="590" stroke="#EA580C" stroke-width="2.5" marker-end="url(#arrowOrange)"/>
-  <text x="320" y="430" text-anchor="middle" font-size="14" fill="#EA580C">potvrzení</text>
-  <text x="320" y="448" text-anchor="middle" font-size="14" fill="#EA580C">řezu → UE</text>
-
-  <!-- Arrow UE → Obsluha relace -->
-  <line x1="170" y1="220" x2="170" y2="588" stroke="#EA580C" stroke-width="2" marker-end="url(#arrowOrange)" stroke-dasharray="5,4"/>
-  <text x="130" y="415" text-anchor="middle" font-size="14" fill="#EA580C">relace</text>
-
-  <!-- UDM return arrow (dashed) -->
-  <line x1="1140" y1="220" x2="1140" y2="310" stroke="#EA580C" stroke-width="2" stroke-dasharray="5,4"/>
-  <line x1="1140" y1="345" x2="922" y2="345" stroke="#EA580C" stroke-width="2" marker-end="url(#arrowOrange)" stroke-dasharray="5,4"/>
-  <text x="1050" y="335" text-anchor="middle" font-size="14" fill="#EA580C">profil OK</text>
-
-  <!-- ===== NUMBERED PROCEDURE ZONE y=720–900 ===== -->
-  <rect x="80" y="718" width="1376" height="185" rx="8" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1.5"/>
-  <text x="768" y="745" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">Postup výběru síťového řezu</text>
-
-  <text x="110" y="772" font-size="15" fill="#334155">1. UE odešle Registration Request s požadovaným NSSAI (Requested NSSAI).</text>
-  <text x="110" y="795" font-size="15" fill="#334155">2. AMF přijme registraci a odešle dotaz na NSSF přes rozhraní Nnssf_NSSelection_Get.</text>
-  <text x="110" y="818" font-size="15" fill="#334155">3. NSSF ověří předplatné UE v UDM a aplikuje operátorské politiky výběru řezu.</text>
-  <text x="110" y="841" font-size="15" fill="#334155">4. NSSF provede mapování S-NSSAI na konkrétní NSI (Network Slice Instance) a AMF Set.</text>
-  <text x="110" y="864" font-size="15" fill="#334155">5. NSSF vrátí AMF: Povolené NSSAI + identifikátor NSI + cílový AMF Set.</text>
-  <text x="110" y="887" font-size="15" fill="#334155">6. AMF potvrdí UE přiřazený řez; UE zahájí PDU Session pro obsluhu datové relace.</text>
-
-  <!-- ===== LEGEND y=940–1010 ===== -->
-  <rect x="80" y="938" width="1376" height="72" rx="8" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1.5"/>
-
-  <!-- Blue legend -->
-  <rect x="110" y="960" width="28" height="28" rx="4" fill="#2563EB"/>
-  <text x="148" y="979" font-size="16" fill="#1e293b">Funkční bloky (AMF, NSSF, UDM, UE)</text>
-
-  <!-- Orange legend -->
-  <line x1="460" y1="974" x2="500" y2="974" stroke="#EA580C" stroke-width="3" marker-end="url(#arrowOrange)"/>
-  <text x="512" y="979" font-size="16" fill="#1e293b">Datové/signálové toky (Nnssf SBI rozhraní)</text>
-
-  <!-- Green legend -->
-  <rect x="840" y="960" width="28" height="28" rx="4" fill="#16A34A"/>
-  <text x="878" y="979" font-size="16" fill="#1e293b">Výstupy: Povolené NSSAI · NSI/AMF Set · Obsluha relace</text>
-
-  <!-- Parameters strip -->
-  <text x="110" y="1002" font-size="14" fill="#64748b">SBI: Nnssf   |   S-NSSAI typy: eMBB · URLLC · mMTC   |   3GPP TS 23.501, TS 29.520   |   Zavedeno: Release 15</text>
+  
+  
+  <text x="768" y="58" text-anchor="middle" font-size="46" font-weight="bold" fill="#1e293b">NSSF – Network Slice Selection Function</text>
+  <text x="768" y="92" text-anchor="middle" font-size="26" fill="#64748b">Výběr síťového řezu v 5G Core (3GPP TS 23.501)</text>
+  
+  
+  
+  
+  <rect x="80" y="150" width="190" height="65" rx="8" fill="#2563EB" stroke="#1d4ed8" stroke-width="2"/>
+  <text x="175" y="189" text-anchor="middle" font-size="32" font-weight="bold" fill="white">UE</text>
+  
+  
+  <rect x="80" y="320" width="210" height="70" rx="8" fill="#2563EB" stroke="#1d4ed8" stroke-width="2"/>
+  <text x="185" y="361" text-anchor="middle" font-size="30" font-weight="bold" fill="white">AMF</text>
+  
+  
+  <rect x="555" y="300" width="295" height="90" rx="8" fill="#2563EB" stroke="#1d4ed8" stroke-width="2"/>
+  <text x="702" y="337" text-anchor="middle" font-size="34" font-weight="bold" fill="white">NSSF</text>
+  <text x="702" y="372" text-anchor="middle" font-size="22" fill="#bfdbfe">Výběr síťového řezu</text>
+  
+  
+  <rect x="1080" y="320" width="210" height="70" rx="8" fill="#2563EB" stroke="#1d4ed8" stroke-width="2"/>
+  <text x="1185" y="361" text-anchor="middle" font-size="30" font-weight="bold" fill="white">UDM</text>
+  
+  
+  <rect x="555" y="460" width="295" height="65" rx="8" fill="#2563EB" stroke="#1d4ed8" stroke-width="2"/>
+  <text x="702" y="499" text-anchor="middle" font-size="28" font-weight="bold" fill="white">Operátorská politika</text>
+  
+  
+  <rect x="555" y="585" width="295" height="65" rx="8" fill="#2563EB" stroke="#1d4ed8" stroke-width="2"/>
+  <text x="702" y="624" text-anchor="middle" font-size="28" font-weight="bold" fill="white">NSI – Síťový řez</text>
+  
+  
+  <text x="768" y="638" text-anchor="middle" font-size="24" fill="#16A34A" font-weight="bold">Parametry</text>
+  
+  <rect x="80" y="648" width="280" height="50" rx="8" fill="#16A34A" stroke="#15803d" stroke-width="2"/>
+  <text x="220" y="679" text-anchor="middle" font-size="26" font-weight="bold" fill="white">Nnssf (SBI)</text>
+  
+  <rect x="390" y="648" width="280" height="50" rx="8" fill="#16A34A" stroke="#15803d" stroke-width="2"/>
+  <text x="530" y="679" text-anchor="middle" font-size="24" font-weight="bold" fill="white">eMBB · URLLC · mMTC</text>
+  
+  <rect x="700" y="648" width="280" height="50" rx="8" fill="#16A34A" stroke="#15803d" stroke-width="2"/>
+  <text x="840" y="679" text-anchor="middle" font-size="24" font-weight="bold" fill="white">TS 23.501 / 29.520</text>
+  
+  <rect x="1010" y="648" width="280" height="50" rx="8" fill="#16A34A" stroke="#15803d" stroke-width="2"/>
+  <text x="1150" y="679" text-anchor="middle" font-size="26" font-weight="bold" fill="white">Release 15</text>
+  
+  
+  
+  
+  <line x1="155" y1="215" x2="155" y2="320" stroke="#EA580C" stroke-width="2.5" marker-end="url(#arrow)"/>
+  
+  
+  <line x1="215" y1="320" x2="215" y2="215" stroke="#EA580C" stroke-width="2.5" marker-end="url(#arrow)"/>
+  
+  
+  <text x="298" y="252" text-anchor="start" font-size="26" fill="#EA580C">Requested NSSAI</text>
+  <text x="298" y="286" text-anchor="start" font-size="26" fill="#EA580C">Potvrzení registrace</text>
+  
+  
+  <line x1="290" y1="342" x2="555" y2="330" stroke="#EA580C" stroke-width="2.5" marker-end="url(#arrow)"/>
+  
+  
+  <text x="422" y="325" text-anchor="middle" font-size="26" fill="#EA580C">Dotaz výběr řezu</text>
+  
+  
+  <line x1="555" y1="358" x2="290" y2="368" stroke="#EA580C" stroke-width="2.5" marker-end="url(#arrow)"/>
+  
+  
+  <text x="422" y="385" text-anchor="middle" font-size="26" fill="#EA580C">Povolené NSSAI</text>
+  <text x="422" y="411" text-anchor="middle" font-size="26" fill="#EA580C">+ AMF Set</text>
+  
+  
+  <line x1="850" y1="345" x2="1080" y2="345" stroke="#EA580C" stroke-width="2.5" marker-end="url(#arrow)"/>
+  
+  
+  <text x="965" y="333" text-anchor="middle" font-size="26" fill="#EA580C">Ověření S-NSSAI</text>
+  
+  
+  <line x1="702" y1="390" x2="702" y2="460" stroke="#EA580C" stroke-width="2.5" marker-end="url(#arrow)"/>
+  
+  
+  <text x="722" y="428" text-anchor="start" font-size="26" fill="#EA580C">Politika</text>
+  
+  
+  <line x1="702" y1="525" x2="702" y2="585" stroke="#EA580C" stroke-width="2.5" marker-end="url(#arrow)"/>
+  
+  
+  <text x="722" y="558" text-anchor="start" font-size="26" fill="#EA580C">Výběr NSI</text>
+  
+  
+  <text x="768" y="718" text-anchor="middle" font-size="28" font-weight="bold" fill="#1e293b">Postup výběru síťového řezu</text>
+  
+  
+  <text x="80" y="752" font-size="26" fill="#1e293b">1. UE požadavek</text>
+  <text x="80" y="784" font-size="26" fill="#1e293b">2. Requested NSSAI</text>
+  <text x="80" y="816" font-size="26" fill="#1e293b">3. AMF registrace</text>
+  <text x="80" y="848" font-size="26" fill="#1e293b">4. NSSF dotaz</text>
+  <text x="80" y="880" font-size="26" fill="#1e293b">5. UDM profil předplatného</text>
+  
+  
+  <text x="800" y="752" font-size="26" fill="#1e293b">6. Operátorská politika</text>
+  <text x="800" y="784" font-size="26" fill="#1e293b">7. Výběr NSI</text>
+  <text x="800" y="816" font-size="26" fill="#1e293b">8. Povolené NSSAI</text>
+  <text x="800" y="848" font-size="26" fill="#1e293b">9. Přiřazení AMF Set</text>
+  <text x="800" y="880" font-size="26" fill="#1e293b">10. Obsluha řezu</text>
+  
+  
+  <rect x="80" y="940" width="1376" height="70" rx="8" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
+  
+  
+  <rect x="200" y="960" width="30" height="30" rx="4" fill="#2563EB"/>
+  <text x="240" y="981" font-size="24" fill="#1e293b">Funkční bloky</text>
+  
+  
+  <line x1="550" y1="975" x2="590" y2="975" stroke="#EA580C" stroke-width="3" marker-end="url(#arrow)"/>
+  <text x="600" y="981" font-size="24" fill="#1e293b">Datové toky (Nnssf SBI)</text>
+  
+  
+  <rect x="950" y="960" width="30" height="30" rx="4" fill="#16A34A"/>
+  <text x="990" y="981" font-size="24" fill="#1e293b">Parametry / Výstupy</text>
+  
 </svg>
