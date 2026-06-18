@@ -16,7 +16,7 @@ DOM je platformově a jazykově neutrální rozhraní používané v 3GPP pro de
 
 ## Popis
 
-Document Object Model (DOM) je multiplatformní a jazykově nezávislá konvence pro reprezentaci a interakci s objekty v dokumentech [HTML](/mobilnisite/slovnik/html/), XHTML a XML. V kontextu standardizace 3GPP není DOM síťový prvek, ale základní programovací rozhraní používané ve specifikacích týkajících se servisních enablerů, multimediálních zpráv a formátů obsahu. Poskytuje strukturovanou, stromovou reprezentaci dokumentu, kde každý uzel je objekt reprezentující část dokumentu. Tento model umožňuje aplikacím programově procházet strukturu dokumentu, přistupovat k jeho obsahu a měnit jej, což je nezbytné pro dynamické generování a zpracování obsahu.
+Document Object Model (DOM) je multiplatformní a jazykově nezávislá konvence pro reprezentaci a interakci s objekty v dokumentech [HTML](/mobilnisite/slovnik/html/), [XHTML](/mobilnisite/slovnik/xhtml/) a [XML](/mobilnisite/slovnik/xml/). V kontextu standardizace 3GPP není DOM síťový prvek, ale základní programovací rozhraní používané ve specifikacích týkajících se servisních enablerů, multimediálních zpráv a formátů obsahu. Poskytuje strukturovanou, stromovou reprezentaci dokumentu, kde každý uzel je objekt reprezentující část dokumentu. Tento model umožňuje aplikacím programově procházet strukturu dokumentu, přistupovat k jeho obsahu a měnit jej, což je nezbytné pro dynamické generování a zpracování obsahu.
 
 Ve specifikacích 3GPP je DOM odkazováno v technických zprávách a specifikacích, které definují servisní schopnosti a datové formáty. Například se používá v kontextu služby multimediálních zpráv ([MMS](/mobilnisite/slovnik/mms/)) pro manipulaci s obsahem zpráv nebo v architekturách servisních enablerů pro definici způsobu, jakým mohou aplikace interagovat se strukturovanými daty. Rozhraní DOM definuje logickou strukturu dokumentů a způsob přístupu k dokumentu a jeho manipulace. Mezi klíčové komponenty patří základní specifikace DOM, která definuje základní typy objektů a jejich vztahy, a rozšíření pro konkrétní typy dokumentů, jako je HTML DOM nebo XML DOM.
 
@@ -26,7 +26,7 @@ Z architektonického pohledu je DOM [API](/mobilnisite/slovnik/api/), které se 
 
 Document Object Model byl vytvořen, aby poskytl standardizovaný, platformově nezávislý způsob přístupu a manipulace s obsahem a strukturou dokumentů, primárně pro webové technologie. Jeho přijetí ve specifikacích 3GPP řeší potřebu konzistentního zpracování dat v multimediálních službách a aplikačních enablerech napříč heterogenními mobilními sítěmi a zařízeními. Před DOM vedly proprietární [API](/mobilnisite/slovnik/api/) a ad-hoc metody parsování k fragmentaci, což ztěžovalo zajištění interoperability mezi implementacemi služeb různých dodavatelů, jako je [MMS](/mobilnisite/slovnik/mms/) nebo dynamické doručování obsahu.
 
-V historickém kontextu mobilních komunikací, jak se služby vyvíjely od jednoduchého hlasu k bohatým multimédiím, rostl požadavek na společné rozhraní pro zpracování strukturovaných datových formátů, jako jsou XML a [HTML](/mobilnisite/slovnik/html/). DOM to řeší tím, že nabízí dobře definovaný objektový model, který odděluje strukturu dokumentu od aplikační logiky, což vývojářům umožňuje psát přenositelný kód fungující v různých provozních prostředích. Tato standardizace je obzvláště důležitá v ekosystému 3GPP, kde musí více síťových prvků, od aplikačních serverů po uživatelská zařízení (UE), spolehlivě vyměňovat a zpracovávat složitá data bez problémů s kompatibilitou.
+V historickém kontextu mobilních komunikací, jak se služby vyvíjely od jednoduchého hlasu k bohatým multimédiím, rostl požadavek na společné rozhraní pro zpracování strukturovaných datových formátů, jako jsou [XML](/mobilnisite/slovnik/xml/) a HTML. DOM to řeší tím, že nabízí dobře definovaný objektový model, který odděluje strukturu dokumentu od aplikační logiky, což vývojářům umožňuje psát přenositelný kód fungující v různých provozních prostředích. Tato standardizace je obzvláště důležitá v ekosystému 3GPP, kde musí více síťových prvků, od aplikačních serverů po uživatelská zařízení (UE), spolehlivě vyměňovat a zpracovávat složitá data bez problémů s kompatibilitou.
 
 Motivace pro odkazování na DOM ve specifikacích 3GPP vychází z potřeby využití zavedených webových standardů pro urychlení vývoje služeb a zajištění široké kompatibility. Začleněním DOM se 3GPP sladí s širšími průmyslovými postupy, což usnadňuje integraci mobilních sítí s internetovými technologiemi. Tento přístup řeší omezení dřívějších nestandardizovaných metod, které byly náchylné k chybám a omezovaly škálovatelnost a flexibilitu implementací služeb, čímž podporuje vývoj směrem k dynamičtějším a interaktivnějším mobilním službám.
 
@@ -41,6 +41,7 @@ Motivace pro odkazování na DOM ve specifikacích 3GPP vychází z potřeby vyu
 
 ## Související pojmy
 
+- [XML – Extensible Markup Language](/mobilnisite/slovnik/xml/)
 - [MMS – Multimedia Messaging Service](/mobilnisite/slovnik/mms/)
 - [API – Application Programming Interface](/mobilnisite/slovnik/api/)
 

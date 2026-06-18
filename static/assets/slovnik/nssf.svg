@@ -1,0 +1,134 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1536 1024" font-family="Inter, Arial, sans-serif">
+  
+  
+  <rect width="1536" height="1024" fill="white"/>
+  
+  
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#EA580C"/>
+    </marker>
+  </defs>
+  
+  
+  <text x="768" y="58" text-anchor="middle" font-size="46" font-weight="bold" fill="#1e293b">NSSF – Network Slice Selection Function</text>
+  <text x="768" y="92" text-anchor="middle" font-size="26" fill="#64748b">Výběr síťového řezu v 5G Core (3GPP TS 23.501)</text>
+  
+  
+  
+  
+  <rect x="80" y="150" width="190" height="65" rx="8" fill="#2563EB" stroke="#1d4ed8" stroke-width="2"/>
+  <text x="175" y="189" text-anchor="middle" font-size="32" font-weight="bold" fill="white">UE</text>
+  
+  
+  <rect x="80" y="320" width="210" height="70" rx="8" fill="#2563EB" stroke="#1d4ed8" stroke-width="2"/>
+  <text x="185" y="361" text-anchor="middle" font-size="30" font-weight="bold" fill="white">AMF</text>
+  
+  
+  <rect x="555" y="300" width="295" height="90" rx="8" fill="#2563EB" stroke="#1d4ed8" stroke-width="2"/>
+  <text x="702" y="337" text-anchor="middle" font-size="34" font-weight="bold" fill="white">NSSF</text>
+  <text x="702" y="372" text-anchor="middle" font-size="22" fill="#bfdbfe">Výběr síťového řezu</text>
+  
+  
+  <rect x="1080" y="320" width="210" height="70" rx="8" fill="#2563EB" stroke="#1d4ed8" stroke-width="2"/>
+  <text x="1185" y="361" text-anchor="middle" font-size="30" font-weight="bold" fill="white">UDM</text>
+  
+  
+  <rect x="555" y="460" width="295" height="65" rx="8" fill="#2563EB" stroke="#1d4ed8" stroke-width="2"/>
+  <text x="702" y="499" text-anchor="middle" font-size="28" font-weight="bold" fill="white">Operátorská politika</text>
+  
+  
+  <rect x="555" y="585" width="295" height="65" rx="8" fill="#2563EB" stroke="#1d4ed8" stroke-width="2"/>
+  <text x="702" y="624" text-anchor="middle" font-size="28" font-weight="bold" fill="white">NSI – Síťový řez</text>
+  
+  
+  <text x="768" y="638" text-anchor="middle" font-size="24" fill="#16A34A" font-weight="bold">Parametry</text>
+  
+  <rect x="80" y="648" width="280" height="50" rx="8" fill="#16A34A" stroke="#15803d" stroke-width="2"/>
+  <text x="220" y="679" text-anchor="middle" font-size="26" font-weight="bold" fill="white">Nnssf (SBI)</text>
+  
+  <rect x="390" y="648" width="280" height="50" rx="8" fill="#16A34A" stroke="#15803d" stroke-width="2"/>
+  <text x="530" y="679" text-anchor="middle" font-size="24" font-weight="bold" fill="white">eMBB · URLLC · mMTC</text>
+  
+  <rect x="700" y="648" width="280" height="50" rx="8" fill="#16A34A" stroke="#15803d" stroke-width="2"/>
+  <text x="840" y="679" text-anchor="middle" font-size="24" font-weight="bold" fill="white">TS 23.501 / 29.520</text>
+  
+  <rect x="1010" y="648" width="280" height="50" rx="8" fill="#16A34A" stroke="#15803d" stroke-width="2"/>
+  <text x="1150" y="679" text-anchor="middle" font-size="26" font-weight="bold" fill="white">Release 15</text>
+  
+  
+  
+  
+  <line x1="155" y1="215" x2="155" y2="320" stroke="#EA580C" stroke-width="2.5" marker-end="url(#arrow)"/>
+  
+  
+  <line x1="215" y1="320" x2="215" y2="215" stroke="#EA580C" stroke-width="2.5" marker-end="url(#arrow)"/>
+  
+  
+  <text x="298" y="252" text-anchor="start" font-size="26" fill="#EA580C">Requested NSSAI</text>
+  <text x="298" y="286" text-anchor="start" font-size="26" fill="#EA580C">Potvrzení registrace</text>
+  
+  
+  <line x1="290" y1="342" x2="555" y2="330" stroke="#EA580C" stroke-width="2.5" marker-end="url(#arrow)"/>
+  
+  
+  <text x="422" y="325" text-anchor="middle" font-size="26" fill="#EA580C">Dotaz výběr řezu</text>
+  
+  
+  <line x1="555" y1="358" x2="290" y2="368" stroke="#EA580C" stroke-width="2.5" marker-end="url(#arrow)"/>
+  
+  
+  <text x="422" y="385" text-anchor="middle" font-size="26" fill="#EA580C">Povolené NSSAI</text>
+  <text x="422" y="411" text-anchor="middle" font-size="26" fill="#EA580C">+ AMF Set</text>
+  
+  
+  <line x1="850" y1="345" x2="1080" y2="345" stroke="#EA580C" stroke-width="2.5" marker-end="url(#arrow)"/>
+  
+  
+  <text x="965" y="333" text-anchor="middle" font-size="26" fill="#EA580C">Ověření S-NSSAI</text>
+  
+  
+  <line x1="702" y1="390" x2="702" y2="460" stroke="#EA580C" stroke-width="2.5" marker-end="url(#arrow)"/>
+  
+  
+  <text x="722" y="428" text-anchor="start" font-size="26" fill="#EA580C">Politika</text>
+  
+  
+  <line x1="702" y1="525" x2="702" y2="585" stroke="#EA580C" stroke-width="2.5" marker-end="url(#arrow)"/>
+  
+  
+  <text x="722" y="558" text-anchor="start" font-size="26" fill="#EA580C">Výběr NSI</text>
+  
+  
+  <text x="768" y="718" text-anchor="middle" font-size="28" font-weight="bold" fill="#1e293b">Postup výběru síťového řezu</text>
+  
+  
+  <text x="80" y="752" font-size="26" fill="#1e293b">1. UE požadavek</text>
+  <text x="80" y="784" font-size="26" fill="#1e293b">2. Requested NSSAI</text>
+  <text x="80" y="816" font-size="26" fill="#1e293b">3. AMF registrace</text>
+  <text x="80" y="848" font-size="26" fill="#1e293b">4. NSSF dotaz</text>
+  <text x="80" y="880" font-size="26" fill="#1e293b">5. UDM profil předplatného</text>
+  
+  
+  <text x="800" y="752" font-size="26" fill="#1e293b">6. Operátorská politika</text>
+  <text x="800" y="784" font-size="26" fill="#1e293b">7. Výběr NSI</text>
+  <text x="800" y="816" font-size="26" fill="#1e293b">8. Povolené NSSAI</text>
+  <text x="800" y="848" font-size="26" fill="#1e293b">9. Přiřazení AMF Set</text>
+  <text x="800" y="880" font-size="26" fill="#1e293b">10. Obsluha řezu</text>
+  
+  
+  <rect x="80" y="940" width="1376" height="70" rx="8" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
+  
+  
+  <rect x="200" y="960" width="30" height="30" rx="4" fill="#2563EB"/>
+  <text x="240" y="981" font-size="24" fill="#1e293b">Funkční bloky</text>
+  
+  
+  <line x1="550" y1="975" x2="590" y2="975" stroke="#EA580C" stroke-width="3" marker-end="url(#arrow)"/>
+  <text x="600" y="981" font-size="24" fill="#1e293b">Datové toky (Nnssf SBI)</text>
+  
+  
+  <rect x="950" y="960" width="30" height="30" rx="4" fill="#16A34A"/>
+  <text x="990" y="981" font-size="24" fill="#1e293b">Parametry / Výstupy</text>
+  
+</svg>

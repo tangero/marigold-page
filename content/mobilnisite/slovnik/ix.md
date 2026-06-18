@@ -18,9 +18,9 @@ IX je konkrétní párové UTRA FDD kmitočtové pásmo pro 3G/UMTS, kde pro vys
 
 IX, neboli Pásmo IX, je 3GPP definované kmitočtové pásmo pro UMTS (Universal Mobile Telecommunications System) pracující v režimu frekvenčního duplexu ([FDD](/mobilnisite/slovnik/fdd/)). Technicky se jedná o párové pásmo, což znamená, že pro směr vysílání (UE k Node B) a příjmu (Node B k UE) jsou přiděleny oddělené kmitočtové rozsahy s pevným duplexním odstupem. Konkrétní kmitočtový rozsah pro vysílání v Pásmu IX je 1749,9 MHz až 1784,9 MHz, což poskytuje celkem 35 MHz spektra pro uplink. Odpovídající rozsah pro příjem je 1844,9 MHz až 1879,9 MHz, také o šířce 35 MHz. Duplexní odstup, tedy rozdíl mezi středními kmitočty pro vysílání a příjem, je 95 MHz.
 
-Toto pásmo spadá do kmitočtového rozsahu 1,8 GHz, který je historicky přiléhající k pásmu GSM 1800 (Pásmo 3 v 3GPP, 1710-1785 MHz UL / 1805-1880 MHz [DL](/mobilnisite/slovnik/dl/)). Pásmo IX bylo definováno, aby poskytlo dodatečné spektrum pro služby UMTS, často prostřednictvím přeplánování stávajícího GSM spektra nebo nových alokací. V rádiové přístupové síti (RAN) musí Node B (základnová stanice UMTS) konfigurovaná pro provoz v Pásmu IX mít rádiové jednotky a filtry schopné vysílat a přijímat v těchto konkrétních kmitočtových limitech. Uživatelské zařízení (UE) musí také podporovat Pásmo IX, aby se mohlo připojit k buňkám a využívat služby v tomto pásmu.
+Toto pásmo spadá do kmitočtového rozsahu 1,8 GHz, který je historicky přiléhající k pásmu GSM 1800 (Pásmo 3 v 3GPP, 1710-1785 MHz [UL](/mobilnisite/slovnik/ul/) / 1805-1880 MHz [DL](/mobilnisite/slovnik/dl/)). Pásmo IX bylo definováno, aby poskytlo dodatečné spektrum pro služby UMTS, často prostřednictvím přeplánování stávajícího GSM spektra nebo nových alokací. V rádiové přístupové síti (RAN) musí Node B (základnová stanice UMTS) konfigurovaná pro provoz v Pásmu IX mít rádiové jednotky a filtry schopné vysílat a přijímat v těchto konkrétních kmitočtových limitech. Uživatelské zařízení (UE) musí také podporovat Pásmo IX, aby se mohlo připojit k buňkám a využívat služby v tomto pásmu.
 
-Úlohou Pásma IX v síti je poskytnout kapacitu nosných pro WCDMA nosné UMTS. Každá WCDMA nosná má šířku pásma 5 MHz. Proto může šířka pásma 35 MHz v každém směru Pásma IX teoreticky podporovat až 7 nosných UMTS (35 MHz / 5 MHz). Operátoři mohou nasadit jednu nebo více těchto nosných pro zvýšení kapacity sítě a propustnosti pro uživatele. Charakteristiky šíření vlnění na kmitočtu ~1,8 GHz jsou podobné jako u ostatních středních pásem, nabízející rozumnou rovnováhu mezi pokrytím a kapacitou. Specifikace Pásma IX, včetně podrobných RF požadavků jako výkon vysílače, citlivost přijímače a masky nežádoucích emisí, jsou podrobně popsány v 3GPP TS 25.104 (základnová stanice) a TS 25.101 (UE).
+Úlohou Pásma IX v síti je poskytnout kapacitu nosných pro [WCDMA](/mobilnisite/slovnik/wcdma/) nosné UMTS. Každá WCDMA nosná má šířku pásma 5 MHz. Proto může šířka pásma 35 MHz v každém směru Pásma IX teoreticky podporovat až 7 nosných UMTS (35 MHz / 5 MHz). Operátoři mohou nasadit jednu nebo více těchto nosných pro zvýšení kapacity sítě a propustnosti pro uživatele. Charakteristiky šíření vlnění na kmitočtu ~1,8 GHz jsou podobné jako u ostatních středních pásem, nabízející rozumnou rovnováhu mezi pokrytím a kapacitou. Specifikace Pásma IX, včetně podrobných [RF](/mobilnisite/slovnik/rf/) požadavků jako výkon vysílače, citlivost přijímače a masky nežádoucích emisí, jsou podrobně popsány v 3GPP TS 25.104 (základnová stanice) a TS 25.101 (UE).
 
 ## K čemu slouží
 
@@ -36,6 +36,13 @@ K jeho vytvoření vedly snahy o harmonizaci spektra a možnost přeplánování
 - Duplexní odstup 95 MHz mezi vysíláním a příjmem
 - Podporuje standardní 5 MHz WCDMA nosné pro UMTS
 - Definované RF charakteristiky pro základnové stanice (Node B) a uživatelská zařízení (UE)
+
+## Související pojmy
+
+- [UMTS – Universal Mobile Telecommunications System](/mobilnisite/slovnik/umts/)
+- [UTRA – Universal Terrestrial Radio Access](/mobilnisite/slovnik/utra/)
+- [UARFCN – UTRA Absolute Radio Frequency Channel Number](/mobilnisite/slovnik/uarfcn/)
+- [WCDMA – Wideband Code Division Multiple Access](/mobilnisite/slovnik/wcdma/)
 
 ## Definující specifikace
 

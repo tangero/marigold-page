@@ -16,7 +16,7 @@ GUTI je dočasný identifikátor přiřazený síti pro UE, který chrání trva
 
 ## Popis
 
-Globálně unikátní dočasná identita UE (GUTI) je základním mechanismem pro ochranu soukromí a efektivitu v systému Evolved Packet System (EPS) a 5G System (5GS) konsorcia 3GPP. Její primární úlohou je nahradit použití trvalého, předplatitele citlivého Superscript Permanent Identifier (SUPI) – což je v 4G [IMSI](/mobilnisite/slovnik/imsi/) – ve většině rádiových signalizačních zpráv. GUTI je přiřazena Mobility Management Entity ([MME](/mobilnisite/slovnik/mme/)) v jádrové síti v rámci EPS nebo Access and Mobility Management Function ([AMF](/mobilnisite/slovnik/amf/)) v rámci 5GS během počáteční registrace nebo procedur připojení. Po přiřazení UE používá GUTI k identifikaci sebe sama v následných signalizačních interakcích, například během služebních požadavků, aktualizací oblasti sledování nebo při předávání spojení.
+Globálně unikátní dočasná identita UE (GUTI) je základním mechanismem pro ochranu soukromí a efektivitu v systému Evolved Packet System (EPS) a 5G System (5GS) konsorcia 3GPP. Její primární úlohou je nahradit použití trvalého, předplatitele citlivého Superscript Permanent Identifier ([SUPI](/mobilnisite/slovnik/supi/)) – což je v 4G [IMSI](/mobilnisite/slovnik/imsi/) – ve většině rádiových signalizačních zpráv. GUTI je přiřazena Mobility Management Entity ([MME](/mobilnisite/slovnik/mme/)) v jádrové síti v rámci EPS nebo Access and Mobility Management Function ([AMF](/mobilnisite/slovnik/amf/)) v rámci 5GS během počáteční registrace nebo procedur připojení. Po přiřazení UE používá GUTI k identifikaci sebe sama v následných signalizačních interakcích, například během služebních požadavků, aktualizací oblasti sledování nebo při předávání spojení.
 
 Struktura GUTI je hierarchická a obsahuje informace, které síti umožňují efektivně směrovat signalizaci a lokalizovat uzel spravující mobilní kontext UE. V EPS se GUTI skládá z Globally Unique MME Identifier ([GUMMEI](/mobilnisite/slovnik/gummei/)) a MME-Temporary Mobile Subscriber Identity ([M-TMSI](/mobilnisite/slovnik/m-tmsi/)). GUMMEI jednoznačně identifikuje MME, které GUTI přidělilo, a M-TMSI je jedinečný identifikátor pro UE v rámci této MME. V 5GS ekvivalentní struktura zahrnuje Globally Unique AMF Identifier ([GUAMI](/mobilnisite/slovnik/guami/)) a [5G-TMSI](/mobilnisite/slovnik/5g-tmsi/). Tato struktura znamená, že když síťová entita obdrží zprávu s GUTI, může okamžitě určit, která MME/AMF je odpovědná za kontext UE.
 
@@ -24,7 +24,7 @@ Provozní životní cyklus GUTI zahrnuje přiřazení, znovupřiřazení a použ
 
 ## K čemu slouží
 
-GUTI byla zavedena primárně k řešení kritických problémů soukromí uživatelů spojených s trvalým [IMSI](/mobilnisite/slovnik/imsi/). V dřívějších systémech 2G/3G bylo IMSI často odesíláno v nezašifrované podobě přes rádiové rozhraní, což je činilo zranitelným vůči odposlechu a sledování pasivními odposlouchávacími zařízeními. Útočník mohl shromažďovat IMSI za účelem profilace polohy, pohybů a zvyklostí uživatelů – což je závažné narušení soukromí. GUTI to řeší tím, že funguje jako pseudonym; citlivé IMSI/SUPI se přenáší pouze během výjimečných, zabezpečených počátečních procedur a je jinak nahrazeno dočasným GUTI.
+GUTI byla zavedena primárně k řešení kritických problémů soukromí uživatelů spojených s trvalým IMSI. V dřívějších systémech 2G/3G bylo IMSI často odesíláno v nezašifrované podobě přes rádiové rozhraní, což je činilo zranitelným vůči odposlechu a sledování pasivními odposlouchávacími zařízeními. Útočník mohl shromažďovat IMSI za účelem profilace polohy, pohybů a zvyklostí uživatelů – což je závažné narušení soukromí. GUTI to řeší tím, že funguje jako pseudonym; citlivé IMSI/SUPI se přenáší pouze během výjimečných, zabezpečených počátečních procedur a je jinak nahrazeno dočasným GUTI.
 
 Kromě ochrany soukromí slouží GUTI důležitým účelům síťové efektivity a provozu. Hierarchická struktura GUTI (GUMMEI/GUAMI + TMSI) poskytuje vestavěné směrovací informace. To umožňuje ostatním síťovým uzlům, jako jsou eNodeB/gNB nebo jiné MME/AMF, rychle určit 'kotvící' uzel jádrové sítě, který spravuje relaci UE, aniž by potřebovaly složité vyhledávání nebo broadcastové dotazy. Toto urychluje signalizační procedury, jako jsou předávání spojení a volání.
 
@@ -41,9 +41,11 @@ Konstrukce GUTI také podporuje škálovatelnost a vývoj síťové architektury
 
 ## Související pojmy
 
+- [SUPI – Subscription Permanent Identifier](/mobilnisite/slovnik/supi/)
 - [IMSI – International Mobile Subscriber Identity](/mobilnisite/slovnik/imsi/)
 - [MME – NPC MME Network Product Class](/mobilnisite/slovnik/mme/)
 - [AMF – Access and Mobility Management Function](/mobilnisite/slovnik/amf/)
+- [TMSI – Temporary Mobile Subscriber Identifier](/mobilnisite/slovnik/tmsi/)
 
 ## Definující specifikace
 

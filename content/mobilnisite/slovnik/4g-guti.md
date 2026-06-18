@@ -22,11 +22,11 @@ Když se UE poprvé připojí k 5GS přes [E-UTRAN](/mobilnisite/slovnik/e-utran
 
 Primární technickou funkcí 4G-GUTI je umožnit AMF jedinečně identifikovat UE, která provedla mobilitu z EPS do 5GS, aniž by bylo nutné, aby tato UE získala nativní 5G-GUTI. Když takové UE zahájí komunikaci v 5GS, zahrne 4G-GUTI do úvodní [NAS](/mobilnisite/slovnik/nas/) zprávy, což AMF umožní získat kontext UE z její databáze. AMF udržuje mapování mezi 4G-GUTI a úplnými daty předplatného UE, včetně bezpečnostního kontextu a parametrů mobility. Tento mechanismus je obzvláště důležitý při předávání spojení (handover) mezi sítěmi 4G a 5G, protože umožňuje plynulou kontinuitu služeb bez nutnosti opětovného ověřování nebo kompletní nové registrace.
 
-Z bezpečnostního hlediska slouží 4G-GUTI stejnému základnímu účelu jako jiné dočasné identifikátory v mobilních sítích: chrání trvalý identifikátor předplatného uživatele (SUPI) před přenosem přes rádiové rozhraní, čímž zvyšuje soukromí a bezpečnost. 4G-GUTI může být periodicky nebo při specifických událostech (jako jsou handovery mezi AMF) přidělen znovu, aby se zvýšila bezpečnost prostřednictvím aktualizace identifikátoru. AMF spravuje životní cyklus 4G-GUTI, včetně přidělování, opětovného přidělování a zneplatňování, a zajišťuje, aby každý identifikátor zůstal jedinečný ve svém provozním kontextu a časovém okně.
+Z bezpečnostního hlediska slouží 4G-GUTI stejnému základnímu účelu jako jiné dočasné identifikátory v mobilních sítích: chrání trvalý identifikátor předplatného uživatele ([SUPI](/mobilnisite/slovnik/supi/)) před přenosem přes rádiové rozhraní, čímž zvyšuje soukromí a bezpečnost. 4G-GUTI může být periodicky nebo při specifických událostech (jako jsou handovery mezi AMF) přidělen znovu, aby se zvýšila bezpečnost prostřednictvím aktualizace identifikátoru. AMF spravuje životní cyklus 4G-GUTI, včetně přidělování, opětovného přidělování a zneplatňování, a zajišťuje, aby každý identifikátor zůstal jedinečný ve svém provozním kontextu a časovém okně.
 
 ## K čemu slouží
 
-4G-GUTI byl vytvořen pro řešení specifických požadavků mobility mezi rádiovými technologiemi (inter-RAT) mezi systémem 4G EPS a 5GS, zejména během přechodného období, kdy by mnoho UE přistupovalo k sítím 5G pomocí přihlašovacích údajů a procedur ze sítě 4G. S nasazením sítí 5G vznikla potřeba podporovat UE, která se mohou připojit k 5GC přes 4G rádio ([E-UTRAN](/mobilnisite/slovnik/e-utran/)) i 5G rádio (NG-RAN), což vyžadovalo konzistentní identifikační mechanismus fungující napříč oběma typy přístupu. 4G-GUTI to umožňuje tím, že poskytuje dočasný identifikátor, který propojuje systémy identit 4G a 5G.
+4G-GUTI byl vytvořen pro řešení specifických požadavků mobility mezi rádiovými technologiemi (inter-RAT) mezi systémem 4G EPS a 5GS, zejména během přechodného období, kdy by mnoho UE přistupovalo k sítím 5G pomocí přihlašovacích údajů a procedur ze sítě 4G. S nasazením sítí 5G vznikla potřeba podporovat UE, která se mohou připojit k 5GC přes 4G rádio (E-UTRAN) i 5G rádio (NG-RAN), což vyžadovalo konzistentní identifikační mechanismus fungující napříč oběma typy přístupu. 4G-GUTI to umožňuje tím, že poskytuje dočasný identifikátor, který propojuje systémy identit 4G a 5G.
 
 Před érou 5G byly dočasné identifikátory specifické pro každou generaci (např. 4G GUTI pro EPS, 3G P-TMSI pro UMTS). Tento přístup vytvářel výzvy pro mobilitu mezi generacemi, protože UE pohybující se mezi systémy často potřebovala získat nové dočasné identifikátory prostřednictvím kompletních registračních procedur. 4G-GUTI to řeší tím, že umožňuje UE, která se registrovala pomocí procedur 4G, zachovat si konzistentní dočasnou identitu při provozu v 5GS, čímž se snižuje signalizační režie a zlepšuje výkon mobility. To bylo obzvláště důležité pro raná nasazení 5G, kde mnoho UE podporovalo schopnosti jádra sítě 5G, ale přistupovalo přes 4G radiovou infrastrukturu.
 
@@ -45,6 +45,7 @@ Vytvoření 4G-GUTI také řešilo obavy o soukromí a bezpečnost specifické p
 
 - [5G-GUTI – 5G Globally Unique Temporary Identifier](/mobilnisite/slovnik/5g-guti/)
 - [AMF – Access and Mobility Management Function](/mobilnisite/slovnik/amf/)
+- [SUPI – Subscription Permanent Identifier](/mobilnisite/slovnik/supi/)
 - [E-UTRAN – Evolved Universal Terrestrial Radio Access Network](/mobilnisite/slovnik/e-utran/)
 
 ## Definující specifikace

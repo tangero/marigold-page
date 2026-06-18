@@ -16,7 +16,7 @@ ME (Mobilní zařízení) je fyzické zařízení, například telefonní přís
 
 ## Popis
 
-Mobile Equipment (ME) je základní koncept ve standardech 3GPP představující kompletní fyzické zařízení používané koncovým uživatelem pro přístup k mobilním telekomunikačním službám. Formálně je definováno jako kombinace tří funkčních komponent: koncového zařízení (Terminal Equipment – TE), koncového adaptéru (Terminal Adapter – TA) a mobilního ukončení (Mobile Termination – [MT](/mobilnisite/slovnik/mt/)). TE je část obsahující aplikace a uživatelské rozhraní, například notebook nebo PDA. TA zajišťuje potřebnou adaptaci mezi TE a MT, často zahrnující převod protokolů. MT je základní rádiový modem a funkce síťového ukončení zodpovědná za fyzickou vrstvu, správu rádiových zdrojů, správu mobility a řízení hovorů pro připojení k mobilní síti. ME obsahuje univerzální integrovaný obvodovou kartu (UICC), na které je aplikace modulu SIM, ale ME a UICC jsou samostatné entity; ME poskytuje prostředí pro fungování UICC.
+Mobile Equipment (ME) je základní koncept ve standardech 3GPP představující kompletní fyzické zařízení používané koncovým uživatelem pro přístup k mobilním telekomunikačním službám. Formálně je definováno jako kombinace tří funkčních komponent: koncového zařízení (Terminal Equipment – [TE](/mobilnisite/slovnik/te/)), koncového adaptéru (Terminal Adapter – [TA](/mobilnisite/slovnik/ta/)) a mobilního ukončení (Mobile Termination – [MT](/mobilnisite/slovnik/mt/)). TE je část obsahující aplikace a uživatelské rozhraní, například notebook nebo [PDA](/mobilnisite/slovnik/pda/). TA zajišťuje potřebnou adaptaci mezi TE a MT, často zahrnující převod protokolů. MT je základní rádiový modem a funkce síťového ukončení zodpovědná za fyzickou vrstvu, správu rádiových zdrojů, správu mobility a řízení hovorů pro připojení k mobilní síti. ME obsahuje univerzální integrovaný obvodovou kartu (UICC), na které je aplikace modulu [SIM](/mobilnisite/slovnik/sim/), ale ME a UICC jsou samostatné entity; ME poskytuje prostředí pro fungování UICC.
 
 Z architektonického hlediska ME komunikuje s uživatelským zařízením (UE), což je širší termén zahrnující jak ME, tak UICC. ME provádí protokoly definované ve specifikacích 3GPP pro komunikaci přes rádiové rozhraní Uu se základnovou stanicí (např. NodeB, [eNB](/mobilnisite/slovnik/enb/), gNB). Implementuje vrstvy od fyzické vrstvy až po protokoly ne-přístupové vrstvy ([NAS](/mobilnisite/slovnik/nas/)) pro signalizaci v jádru sítě. Schopnosti ME, jako podporovaná kmitočtová pásma, technologie rádiového přístupu (GSM, UMTS, LTE, NR), výkonová třída a sady funkcí, jsou podrobně popsány v jeho technických specifikacích a ověřovány prostřednictvím testů shody.
 
@@ -24,9 +24,9 @@ Jeho úlohou v síti je být koncovým bodem pro veškerou rádiovou komunikaci.
 
 ## K čemu slouží
 
-Koncept Mobile Equipment byl zaveden, aby poskytl jasnou, standardizovanou definici uživatelského zařízení v rámci architektury mobilní sítě. Řeší problém nejednoznačnosti mezi hardwarovým zařízením a identitou účastníka oddělením ME od UICC/SIM. Toto oddělení je zásadní pro umožnění funkcí, jako je výměna SIM karet mezi zařízeními, a pro definování jasných odpovědností při certifikaci zařízení a schvalování typu.
+Koncept Mobile Equipment byl zaveden, aby poskytl jasnou, standardizovanou definici uživatelského zařízení v rámci architektury mobilní sítě. Řeší problém nejednoznačnosti mezi hardwarovým zařízením a identitou účastníka oddělením ME od UICC/[SIM](/mobilnisite/slovnik/sim/). Toto oddělení je zásadní pro umožnění funkcí, jako je výměna SIM karet mezi zařízeními, a pro definování jasných odpovědností při certifikaci zařízení a schvalování typu.
 
-Historicky, jak se mobilní technologie vyvíjela od jednoduchých hlasových telefonů ke složitým multimediálním zařízením, vznikla potřeba modularizovat funkce zařízení. Model TE-MT, převzatý z [ISDN](/mobilnisite/slovnik/isdn/) a adaptovaný pro GSM, umožnil integraci datových aplikací. Koncept ME toto zapouzdřuje a zajišťuje, aby měli síťoví operátoři a normalizační orgány konzistentní referenční bod pro specifikaci požadavků na rádiové rozhraní, testovací protokoly a bezpečnostní mechanismy. Odstraňuje omezení plynoucí z pohledu na telefonní přístroj jako na monolitický blok definováním interoperabilních funkčních bloků, což usnadnilo růst rozmanitého ekosystému zařízení a oddělení výroby zařízení od správy identity účastníka.
+Historicky, jak se mobilní technologie vyvíjela od jednoduchých hlasových telefonů ke složitým multimediálním zařízením, vznikla potřeba modularizovat funkce zařízení. Model TE-MT, převzatý z ISDN a adaptovaný pro GSM, umožnil integraci datových aplikací. Koncept ME toto zapouzdřuje a zajišťuje, aby měli síťoví operátoři a normalizační orgány konzistentní referenční bod pro specifikaci požadavků na rádiové rozhraní, testovací protokoly a bezpečnostní mechanismy. Odstraňuje omezení plynoucí z pohledu na telefonní přístroj jako na monolitický blok definováním interoperabilních funkčních bloků, což usnadnilo růst rozmanitého ekosystému zařízení a oddělení výroby zařízení od správy identity účastníka.
 
 ## Klíčové vlastnosti
 
@@ -39,6 +39,8 @@ Historicky, jak se mobilní technologie vyvíjela od jednoduchých hlasových te
 
 ## Související pojmy
 
+- [UE – User Equipment](/mobilnisite/slovnik/ue/)
+- [SIM – Subscriber Identity Module / Universal Subscriber Identity Module](/mobilnisite/slovnik/sim/)
 - [MT – Mobile Terminated Short Message Service](/mobilnisite/slovnik/mt/)
 
 ## Definující specifikace

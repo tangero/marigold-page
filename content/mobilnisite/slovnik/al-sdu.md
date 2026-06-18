@@ -22,7 +22,7 @@ V protokolovém zásobníku existuje AL-SDU na rozhraní mezi aplikační a tran
 
 Velikost a struktura AL-SDU se liší v závislosti na typu média a charakteristikách kodeku. Například ve Voice over LTE (VoLTE) typicky odpovídá jeden AL-SDU jednomu zakódovanému řečovému rámci (např. 20 ms audia pomocí kodeku [AMR-WB](/mobilnisite/slovnik/amr-wb/)), zatímco ve videotelefonii může představovat video rámec nebo jeho část. Koncept AL-SDU umožňuje aplikační vrstvě udržovat povědomí o logických hranicích dat, což je klíčové pro mechanismy synchronizace, maskování chyb a adaptace kvality. Toto povědomí umožňuje přijímači správně rekonstruovat časovou osu média a efektivně řešit ztrátu paketů nebo kolísání zpoždění.
 
-Z pohledu sítě jsou AL-SDU důležité pro správu kvality služby (QoS) a optimalizaci rádiových zdrojů. Charakteristiky velikosti a časování AL-SDU ovlivňují, jak síť přiděluje zdroje a aplikuje algoritmy plánování paketů. V systémech LTE a 5G znalost hranic AL-SDU pomáhá vrstvě Packet Data Convergence Protocol (PDCP) implementovat vhodné strategie komprese hlaviček a segmentace, zatímco vrstva Radio Link Control (RLC) může optimalizovat svou segmentaci na základě velikostí AL-SDU, aby minimalizovala režii a zlepšila spektrální účinnost.
+Z pohledu sítě jsou AL-SDU důležité pro správu kvality služby (QoS) a optimalizaci rádiových zdrojů. Charakteristiky velikosti a časování AL-SDU ovlivňují, jak síť přiděluje zdroje a aplikuje algoritmy plánování paketů. V systémech LTE a 5G znalost hranic AL-SDU pomáhá vrstvě Packet Data Convergence Protocol ([PDCP](/mobilnisite/slovnik/pdcp/)) implementovat vhodné strategie komprese hlaviček a segmentace, zatímco vrstva Radio Link Control ([RLC](/mobilnisite/slovnik/rlc/)) může optimalizovat svou segmentaci na základě velikostí AL-SDU, aby minimalizovala režii a zlepšila spektrální účinnost.
 
 Koncept AL-SDU také hraje klíčovou roli v monitorování a optimalizaci výkonu end-to-end. Sledováním statistik doručování AL-SDU – jako je poměr doručení, zpoždění a kolísání zpoždění – mohou operátoři a poskytovatelé služeb vyhodnocovat skutečný uživatelský zážitek, nikoli pouze metriky na úrovni sítě. Tento uživatelsky orientovaný pohled umožňuje přesnější řešení problémů a optimalizaci multimediálních služeb napříč heterogenními sítěmi.
 
@@ -47,6 +47,9 @@ Vytvoření konceptu AL-SDU bylo motivováno potřebou optimalizovat využití r
 
 - [IMS – IP Multimedia Subsystem](/mobilnisite/slovnik/ims/)
 - [MTSI – Multimedia Telephony Services for IMS](/mobilnisite/slovnik/mtsi/)
+- [PDCP – Packet Data Convergence Protocol](/mobilnisite/slovnik/pdcp/)
+- [RLC – Radio Link Control](/mobilnisite/slovnik/rlc/)
+- [QoS – Quality of Service](/mobilnisite/slovnik/qos/)
 
 ## Definující specifikace
 

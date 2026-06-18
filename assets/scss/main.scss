@@ -3674,7 +3674,12 @@ pre:has(code.language-mermaid), code.language-mermaid {
 
 // Infografika / schéma pojmu (světlé pozadí — neutrální rámeček i v dark mode)
 .slovnik-infografika {
-  margin: 0 0 28px;
+  // Breakout z úzkého textového sloupce (.container má max-width 800px) na širší
+  // plochu, aby drobné popisky v diagramu byly čitelné. Vycentrováno, ohraničeno
+  // šířkou viewportu, takže nepřeteče na malých displejích.
+  width: #{"min(1100px, 96vw)"};
+  margin: 4px auto 32px;
+  margin-left: #{"calc(-1 * (min(1100px, 96vw) - 100%) / 2)"};
 
   img {
     display: block;
@@ -3683,6 +3688,12 @@ pre:has(code.language-mermaid), code.language-mermaid {
     border: 1px solid $border-color;
     border-radius: 10px;
     background: #fff;
+  }
+
+  @include mobile {
+    // Na mobilu žádný breakout — drž v kontejneru.
+    width: 100%;
+    margin: 4px 0 28px;
   }
 }
 

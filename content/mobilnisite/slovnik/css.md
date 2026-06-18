@@ -20,7 +20,7 @@ Composite Source Signal (CSS) je přesně definovaný umělý testovací signál
 
 Samotný signál je složený průběh generovaný smícháním více zvukových zdrojů podle přesného receptu definovaného v příslušných testovacích specifikacích 3GPP (např. TS 26.132, TS 26.907). Typicky kombinuje prvky jako čisté řečové vzorky, šum pozadí různých typů (např. hladina hovorů, automobilový, uliční) a někdy i tónové rušiče nebo hudbu. Specifické úrovně, spektrální charakteristiky a časové zarovnání těchto složek jsou standardizovány, aby vytvořily testovací podmínku reprezentující 'nejhorší případ' nebo vysoce reprezentativní stav. Tato složená povaha je klíčová, protože přesahuje testování jednoduchými, čistými řečovými signály a hodnotí, jak si kodek poradí se složitým, hlučným zvukem, s nímž se setkáváme v reálném použití.
 
-Během testování je CSS přiváděn jako vstup do testovaného kodeku nebo zařízení. Výstup z řetězce kódování a dekódování kodeku (nebo koncová přenosová cesta v systémovém testu) je následně analyzován. Tato analýza využívá objektivní algoritmy pro měření percepční kvality, jako je POLQA (Perceptual Objective Listening Quality Analysis) nebo PESQ (Perceptual Evaluation of Speech Quality), které porovnávají degradovaný výstupní signál s původní referenční CSS. Výsledné skóre, například střední hodnota známky kvality (Mean Opinion Score, [MOS](/mobilnisite/slovnik/mos/)), kvantifikuje výkon kodeku. Úlohou CSS je poskytovat neměnnou, kvalitní referenci, vůči níž jsou všechna tato měření prováděna, což zajišťuje srovnatelnost výsledků testů napříč různými laboratořemi, výrobci a testovacími kampaněmi.
+Během testování je CSS přiváděn jako vstup do testovaného kodeku nebo zařízení. Výstup z řetězce kódování a dekódování kodeku (nebo koncová přenosová cesta v systémovém testu) je následně analyzován. Tato analýza využívá objektivní algoritmy pro měření percepční kvality, jako je [POLQA](/mobilnisite/slovnik/polqa/) (Perceptual Objective Listening Quality Analysis) nebo [PESQ](/mobilnisite/slovnik/pesq/) (Perceptual Evaluation of Speech Quality), které porovnávají degradovaný výstupní signál s původní referenční CSS. Výsledné skóre, například střední hodnota známky kvality (Mean Opinion Score, [MOS](/mobilnisite/slovnik/mos/)), kvantifikuje výkon kodeku. Úlohou CSS je poskytovat neměnnou, kvalitní referenci, vůči níž jsou všechna tato měření prováděna, což zajišťuje srovnatelnost výsledků testů napříč různými laboratořemi, výrobci a testovacími kampaněmi.
 
 Specifikace upravující CSS (např. TS 26.132 pro řeč, TS 26.907 pro zvuk) podrobně popisují jeho přesné složení, digitální formát a postupy použití. Dodržování těchto testovacích specifikací, včetně správné aplikace CSS, je povinné pro síťová zařízení a uživatelská zařízení usilující o certifikaci 3GPP. Proto je CSS, byť pro koncového uživatele neviditelný, základním prvkem v ekosystému zajištění kvality, který garantuje, že hlasové a zvukové služby v sítích 3GPP splňují minimální standardy výkonu a poskytují konzistentní uživatelský zážitek.
 
@@ -43,6 +43,8 @@ Zavedením této společné referenční signálové základny umožnilo 3GPP ef
 
 ## Související pojmy
 
+- [POLQA – Perceptual Objective Listening Quality Assessment](/mobilnisite/slovnik/polqa/)
+- [PESQ – Perceptual Evaluation of Speech Quality](/mobilnisite/slovnik/pesq/)
 - [AMR – Adaptive Multi-Rate](/mobilnisite/slovnik/amr/)
 - [EVS – Enhanced Voice Services (specifically, the AMR-WB IO mode: AMR-WB Interoperable)](/mobilnisite/slovnik/evs/)
 

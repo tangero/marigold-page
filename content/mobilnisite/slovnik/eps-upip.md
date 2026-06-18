@@ -16,9 +16,9 @@ EPS-UPIP je bezpečnostní funkce EPS z éry 5G, která poskytuje ochranu integr
 
 ## Popis
 
-EPS User-Plane Integrity Protection (EPS-UPIP) je bezpečnostní vylepšení definované ve specifikacích 3GPP TS 24.301 ([NAS](/mobilnisite/slovnik/nas/)) a TS 24.501, zavedené za účelem poskytnutí ochrany integrity pro datové pakety uživatelské roviny (UP) v sítích EPS. Před jeho zavedením se EPS primárně spoléhalo na šifrování pro důvěrnost UP, zatímco ochrana integrity byla typicky aplikována pouze na signalizaci řídicí roviny (NAS a [RRC](/mobilnisite/slovnik/rrc/)). EPS-UPIP rozšiřuje ochranu integrity na samotná uživatelská data přenášená přes rádiový přístup mezi UE a eNodeB, čímž zajišťuje, že data nebyla útočníkem změněna, zopakována nebo vložena.
+EPS User-Plane Integrity Protection (EPS-UPIP) je bezpečnostní vylepšení definované ve specifikacích 3GPP TS 24.301 ([NAS](/mobilnisite/slovnik/nas/)) a TS 24.501, zavedené za účelem poskytnutí ochrany integrity pro datové pakety uživatelské roviny ([UP](/mobilnisite/slovnik/up/)) v sítích EPS. Před jeho zavedením se EPS primárně spoléhalo na šifrování pro důvěrnost UP, zatímco ochrana integrity byla typicky aplikována pouze na signalizaci řídicí roviny (NAS a [RRC](/mobilnisite/slovnik/rrc/)). EPS-UPIP rozšiřuje ochranu integrity na samotná uživatelská data přenášená přes rádiový přístup mezi UE a eNodeB, čímž zajišťuje, že data nebyla útočníkem změněna, zopakována nebo vložena.
 
-Funkce funguje tak, že UE a síť aplikují integritní algoritmus na datové pakety uživatelské roviny, čímž generují integritní značku (neboli [MAC](/mobilnisite/slovnik/mac/)), která je připojena k datům nebo s nimi asociována. Tento proces probíhá na vrstvě Packet Data Convergence Protocol (PDCP) pro rádiové rozhraní. Použitý integritní klíč je odvozen z existující hierarchie bezpečnostních klíčů EPS. Konkrétně využívá klíče odvozené z K_[eNB](/mobilnisite/slovnik/enb/), které samo pochází z K_[ASME](/mobilnisite/slovnik/asme/). Aktivace ochrany integrity UP je vyjednána během procedury příkazu bezpečnostního režimu mezi UE a sítí na základě síťových politik a schopností UE.
+Funkce funguje tak, že UE a síť aplikují integritní algoritmus na datové pakety uživatelské roviny, čímž generují integritní značku (neboli [MAC](/mobilnisite/slovnik/mac/)), která je připojena k datům nebo s nimi asociována. Tento proces probíhá na vrstvě Packet Data Convergence Protocol ([PDCP](/mobilnisite/slovnik/pdcp/)) pro rádiové rozhraní. Použitý integritní klíč je odvozen z existující hierarchie bezpečnostních klíčů EPS. Konkrétně využívá klíče odvozené z K_[eNB](/mobilnisite/slovnik/enb/), které samo pochází z K_[ASME](/mobilnisite/slovnik/asme/). Aktivace ochrany integrity UP je vyjednána během procedury příkazu bezpečnostního režimu mezi UE a sítí na základě síťových politik a schopností UE.
 
 Z architektonického hlediska se na EPS-UPIP podílejí UE, eNodeB a [MME](/mobilnisite/slovnik/mme/). MME rozhoduje o aktivaci funkce na základě předplatitelských dat, lokální politiky a bezpečnostních schopností UE indikovaných při připojení. Skutečnou ochranu a verifikaci integrity provádějí entity PDCP v UE a eNodeB. Zavedení této funkce vyžadovalo aktualizace protokolu PDCP a řídicích procedur bezpečnostního režimu, aby byla podpořena vyjednávání a aktivace integritních algoritmů pro uživatelskou rovinu. Představuje významný posun směrem k přiblížení bezpečnosti EPS komplexnějšímu modelu 'vždy zapnuté' ochrany integrity, který byl představen v systémech 5G (NR).
 
@@ -36,6 +36,10 @@ Jeho vytvoření bylo motivováno poznatky z návrhu 5G, kde je ochrana integrit
 - Aktivace je vyjednána prostřednictvím procedur Security Mode Command na základě síťové politiky
 - Chrání uživatelskou rovinu před manipulací s daty, vkládacími a opakovacími útoky
 - Přibližuje bezpečnost EPS standardům 5G a umožňuje konzistentní zabezpečení pro smíšená nasazení
+
+## Související pojmy
+
+- [PDCP – Packet Data Convergence Protocol](/mobilnisite/slovnik/pdcp/)
 
 ## Definující specifikace
 

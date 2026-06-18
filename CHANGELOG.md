@@ -8,7 +8,9 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
 ## [Unreleased]
 
 ### Added
-- Slovník 3GPP: podpora infografiky/schématu u pojmu — nové front-matter pole `infografika` zobrazí obrázek pod hlavičkou pojmu (`layouts/slovnik/single.html`, styly `.slovnik-infografika` vč. dark mode). Pilot: schéma principu kodeku ACELP (`/assets/slovnik/acelp.jpg`)
+- Slovník 3GPP: generátor SVG infografik `scripts/generate_infographics.py` — dvoukrokově (destilace českého popisu → SVG diagram) přes OpenRouter (Claude Sonnet). SVG má nativní text, takže čeština vč. diakritiky je bezchybná (obrazové modely text komolí), je ostré a malé. Jednotný „house-style" (paleta #2563EB/#EA580C/#16A34A, layout zleva doprava, legenda). Ručně udržovaný allowlist `scripts/infographic-terms.txt`. Pilot: amf, 5gc, nssf (průzkumné — kvalita layoutu kolísá, viz níže)
+- Slovník 3GPP: podpora infografiky/schématu u pojmu — `layouts/slovnik/single.html` zobrazí obrázek za úvodní definicí, před sekcí „Popis". Obrázek se odvozuje z názvu souboru (`static/assets/slovnik/<slug>.{svg,jpg,png}`) přes `fileExists`, takže se napojení nemůže ztratit při přegenerování slovníku (žádné front-matter pole). Širší zobrazení (breakout z textového sloupce na `min(1100px, 96vw)`) + styly `.slovnik-infografika` vč. dark mode. Pilot: ACELP (ruční bitmapa), amf/5gc/nssf (generované SVG)
+- Dokument `docs/SVG-INFOGRAFIKY-VYZKUM.md` — shrnutí zjištění a směrů pro samostatný výzkum automatizovaného generování čitelných SVG schémat přes LLM (co funguje, otevřené problémy s kolizemi layoutu, navrhované přístupy)
 - Slovník 3GPP: dvouvrstvá „nořící se" navigace přehledu (`layouts/slovnik/list.html`) — místo jednoho dlouhého seznamu všech 2756 pojmů jsou pojmy sbalené do accordionu **vrstva sítě (segment) → kategorie → pojmy**. Výchozí stav sbalený (krátká stránka), klik rozbalí. Vyhledávání filtruje napříč vším a automaticky rozbaluje sekce s výsledkem. Zařazení jen z dokladovatelných dat (`segment` 99 %, `category` 100 %); generační osa zamítnuta, protože ji zdrojová data neunesou spolehlivě
 - Slovník 3GPP: počeštění dalších kategorií (Rozhraní, Mobilita, Internet věcí) v `layouts/partials/slovnik-kategorie.html`
 - Slovník 3GPP: křížové prolinkování pojmů mezi sebou — generátor v 3gpp-explorer2 (`markdown-linking.ts`) vkládá inline odkazy do sekcí Popis a K čemu slouží a přidává sekci „## Související pojmy"; case-sensitive akronymy, hranice respektující pomlčku (S-NSSAI nerozbije NSSAI), self-link guard, blocklist obecných termů (3GPP, 5G, UE, RAN…), max 8 inline odkazů/stránka. Slovník rozšířen ze 148 na 2756 pojmů (2703 s inline odkazy, 1883 se sekcí Související pojmy), vše interně na `/mobilnisite/slovnik/`
@@ -37,6 +39,7 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
 - Statický reklamní banner Vibecoding Talks (`vt-06-2026`) pod hodnocením článku v `layouts/posts/single.html` — duplicitní s dynamickým bannerem nahoře v článku
 
 ### Changed
+- Slovník 3GPP: aktualizace křížového prolinkování napříč pojmy (novější běh generátoru z 3gpp-explorer2 — víc termů má český překlad, takže se rozsvítilo víc interních odkazů)
 - `/aiprace`: statický banner workshopu (Claude Code, 13. 4. 2026) nahrazen dynamickým bannerem aktuální akce z `vibecoding.cz` API
 - `workshop-banner.html` partial refaktorován — inline skript vytažen do sdíleného `static/js/promo-banner.js`
 - Přidány UTM tagy na všechny odkazy v článku `prirucka-ai-ve-firmach-zdarma` (kampań `ai-prirucka`)

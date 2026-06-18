@@ -22,7 +22,7 @@ Architektonicky je DWD vložen do protokolů vyšších vrstev nebo konfiguračn
 
 Při provozu síťová entita (např. základnová stanice nebo centrální jednotka) generuje nebo konfiguruje DWD na základě požadavků služby, vytížení sítě a politik kvality služby (QoS). Tento popis je pak předán příslušným přijímajícím entitám, ať už uvnitř sítě, nebo k UE, aby synchronizovaly své přijímací nebo zpracovatelské aktivity. Například může definovat, kdy má UE naslouchat konkrétním aktualizacím systémových informací, nebo kdy má distribuovaná jednotka očekávat dávky dat od centrální jednotky v disaggregační architektuře RAN.
 
-Její role v síti spočívá ve zvýšení předvídatelnosti a efektivity. Explicitním popisem distribučních oken síť snižuje nejednoznačnost a signalizační režii pro dynamické plánování. Umožňuje determinističtější datové toky, což je zvláště důležité pro služby s přísnými požadavky na latenci nebo spolehlivost, jako jsou ty v průmyslovém IoT nebo scénářích ultra-spolehlivé nízkolatenční komunikace (URLLC). DWD funguje jako smlouva mezi distributorem a příjemcem, zajišťující, že obě strany mají společný pohled na přenosový plán.
+Její role v síti spočívá ve zvýšení předvídatelnosti a efektivity. Explicitním popisem distribučních oken síť snižuje nejednoznačnost a signalizační režii pro dynamické plánování. Umožňuje determinističtější datové toky, což je zvláště důležité pro služby s přísnými požadavky na latenci nebo spolehlivost, jako jsou ty v průmyslovém IoT nebo scénářích ultra-spolehlivé nízkolatenční komunikace ([URLLC](/mobilnisite/slovnik/urllc/)). DWD funguje jako smlouva mezi distributorem a příjemcem, zajišťující, že obě strany mají společný pohled na přenosový plán.
 
 ## K čemu slouží
 
@@ -40,6 +40,10 @@ Dále, jak se systémy 3GPP rozšířily o podporu nových kategorií služeb, j
 - Podporuje koordinaci v disagregovaných architekturách RAN
 - Usnadňuje efektivní úsporu energie UE prostřednictvím známých plánů příjmu
 - Standardizovaný formát zajišťující interoperabilitu mezi více výrobci
+
+## Související pojmy
+
+- [QoS – Quality of Service](/mobilnisite/slovnik/qos/)
 
 ## Definující specifikace
 

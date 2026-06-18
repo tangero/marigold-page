@@ -16,7 +16,7 @@ MDAF je funkce jádra sítě 5G, která shromažďuje, koreluje a analyzuje mana
 
 ## Popis
 
-Management Data Analytics Function (MDAF) je standardizovaná síťová funkce 3GPP zavedená ve vydání 16 jako součást frameworku pro správu a orchestraci 5G. Je klíčovou součástí architektury datové analýzy, navrženou k poskytování analýz jako služby dalším manažerským funkcím, síťovým funkcím a externím aplikacím. MDAF funguje tak, že shromažďuje nezpracovaná nebo předzpracovaná data z široké škály zdrojů, včetně síťových funkcí (NFs) prostřednictvím jejich vystavených analytik, funkce Network Data Analytics Function (NWDAF) a různých úložišť manažerských dat. Na tato data následně aplikuje analytickou logiku, která může zahrnovat modely strojového učení, statistickou analýzu a korelační enginy, za účelem vytvoření prakticky využitelných poznatků, predikcí nebo doporučení.
+Management Data Analytics Function (MDAF) je standardizovaná síťová funkce 3GPP zavedená ve vydání 16 jako součást frameworku pro správu a orchestraci 5G. Je klíčovou součástí architektury datové analýzy, navrženou k poskytování analýz jako služby dalším manažerským funkcím, síťovým funkcím a externím aplikacím. MDAF funguje tak, že shromažďuje nezpracovaná nebo předzpracovaná data z široké škály zdrojů, včetně síťových funkcí (NFs) prostřednictvím jejich vystavených analytik, funkce Network Data Analytics Function ([NWDAF](/mobilnisite/slovnik/nwdaf/)) a různých úložišť manažerských dat. Na tato data následně aplikuje analytickou logiku, která může zahrnovat modely strojového učení, statistickou analýzu a korelační enginy, za účelem vytvoření prakticky využitelných poznatků, predikcí nebo doporučení.
 
 Z architektonického hlediska je MDAF definována sadou rozhraní založených na službách, primárně službou Nmdf_ManagementDataAnalytics, což umožňuje konzumentům žádat o konkrétní analýzy. Podporuje jak model doručování analýz na požádání, tak model předplatného (kontinuálního). Mezi klíčové vnitřní komponenty patří moduly pro příjem dat, analytický engine schopný hostovat a provádět analytické úlohy a modul pro distribuci výsledků. Samotné analytické úlohy mohou být poskytnuty operátorem nebo třetími stranami, což nabízí flexibilitu. Úlohou MDAF je centralizovat a standardizovat analytické zpracování pro úlohy řídicí roviny, oddělující analytickou logiku od bodů sběru a spotřeby dat.
 
@@ -24,7 +24,7 @@ Její činnost zahrnuje několik kroků: nejprve se analytický konzument (jako 
 
 ## K čemu slouží
 
-MDAF byla vytvořena, aby řešila rostoucí složitost a rozsah sítí 5G, které vyžadují vysoký stupeň automatizace a inteligence pro efektivní provoz. Tradiční systémy správy sítě byly často reaktivní, izolované a spoléhaly na manuální analýzu, což se stalo neudržitelným s dynamickou povahou služeb 5G, jako jsou síťové řezy a ultra-spolehlivá nízkolatenční komunikace (URLLC). Objevila se jasná potřeba proaktivního, daty řízeného přístupu ke správě.
+MDAF byla vytvořena, aby řešila rostoucí složitost a rozsah sítí 5G, které vyžadují vysoký stupeň automatizace a inteligence pro efektivní provoz. Tradiční systémy správy sítě byly často reaktivní, izolované a spoléhaly na manuální analýzu, což se stalo neudržitelným s dynamickou povahou služeb 5G, jako jsou síťové řezy a ultra-spolehlivá nízkolatenční komunikace ([URLLC](/mobilnisite/slovnik/urllc/)). Objevila se jasná potřeba proaktivního, daty řízeného přístupu ke správě.
 
 Před zavedením MDAF byly analýzy pro účely správy buď vestavěny do jednotlivých manažerských aplikací, nebo prováděny externími, nestandardizovanými systémy. To vedlo k duplikaci snah o sběr dat, nekonzistentním analytickým výsledkům a vázanosti na dodavatele. MDAF standardizuje analytickou funkci v rámci architektury 3GPP a poskytuje společný framework pro vývoj, nasazování a využívání analytických služeb. Řeší problém fragmentované inteligence tím, že nabízí centralizovaný, ale flexibilní analytický uzel pro řídicí rovinu.
 
@@ -38,6 +38,10 @@ K jejímu vzniku motivovala vize automatizace v uzavřené smyčce, kde se síť
 - Integrace s více zdroji dat včetně NWDAF, NFs a úložišť manažerských dat
 - Generování poznatků pro případy užití jako prediktivní údržba, plánování kapacity a zajištění služeb
 - Prvek umožňující automatizaci řídicí roviny v uzavřené smyčce a síťování založené na záměru (intent-based networking)
+
+## Související pojmy
+
+- [NWDAF – Network Data Analytics Function](/mobilnisite/slovnik/nwdaf/)
 
 ## Definující specifikace
 

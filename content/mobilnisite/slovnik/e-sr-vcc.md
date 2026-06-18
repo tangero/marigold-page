@@ -16,11 +16,11 @@ E-SR-VCC je podmnožina SR-VCC, která zajišťuje, že nouzový hlasový hovor 
 
 ## Popis
 
-Emergency Single Radio Voice Call Continuity (E-SR-VCC) je síťový postup mobility definovaný pro udržení aktivního nouzového hlasového hovoru v IP Multimedia Subsystem (IMS) při přesunu uživatelského zařízení (UE) z pokrytí sítě s podporou VoLTE (Voice over LTE) nebo VoNR a přepojováním paketů (PS) do pokrytí starší sítě s přepojováním okruhů ([CS](/mobilnisite/slovnik/cs/)), jako je GSM nebo UMTS. Hlavní výzvou je, že UE s jedním rádiovým transceiverem nemůže vysílat/přijímat na sítích PS a CS současně. E-SR-VCC umožňuje plynulé předání hovoru převedením nouzové IMS relace ukotvené v jádru PS do domény CS.
+Emergency Single Radio Voice Call Continuity (E-SR-VCC) je síťový postup mobility definovaný pro udržení aktivního nouzového hlasového hovoru v IP Multimedia Subsystem (IMS) při přesunu uživatelského zařízení (UE) z pokrytí sítě s podporou VoLTE (Voice over LTE) nebo VoNR a přepojováním paketů ([PS](/mobilnisite/slovnik/ps/)) do pokrytí starší sítě s přepojováním okruhů ([CS](/mobilnisite/slovnik/cs/)), jako je GSM nebo UMTS. Hlavní výzvou je, že UE s jedním rádiovým transceiverem nemůže vysílat/přijímat na sítích PS a CS současně. E-SR-VCC umožňuje plynulé předání hovoru převedením nouzové IMS relace ukotvené v jádru PS do domény CS.
 
-Procedura je spuštěna [E-UTRAN](/mobilnisite/slovnik/e-utran/) (nebo NG-RAN) na základě měřicích zpráv, které indikují zhoršující se sílu signálu LTE/5G a dostatečnou sílu cílové buňky CS. Pro nouzový hovor obslužný [MME](/mobilnisite/slovnik/mme/) (v EPC) nebo [AMF](/mobilnisite/slovnik/amf/) (v 5GC) identifikuje relaci jako nouzovou a vyvolá proceduru E-SR-VCC. Síť zahájí předání z PS do CS přes rozhraní Sv mezi MME/AMF a [MSC](/mobilnisite/slovnik/msc/) Serverem (rozšířeným pro SR-VCC). Klíčovou komponentou je Emergency Access Transfer Control Function (E-ATCF), která slouží jako bod ukotvení kontinuity IMS služeb pro nouzový hovor. E-ATCF usnadňuje přenos relace interakcí s Emergency Call Session Control Function ([E-CSCF](/mobilnisite/slovnik/e-cscf/)).
+Procedura je spuštěna [E-UTRAN](/mobilnisite/slovnik/e-utran/) (nebo NG-RAN) na základě měřicích zpráv, které indikují zhoršující se sílu signálu LTE/5G a dostatečnou sílu cílové buňky CS. Pro nouzový hovor obslužný [MME](/mobilnisite/slovnik/mme/) (v EPC) nebo [AMF](/mobilnisite/slovnik/amf/) (v 5GC) identifikuje relaci jako nouzovou a vyvolá proceduru E-SR-VCC. Síť zahájí předání z PS do CS přes rozhraní Sv mezi MME/AMF a [MSC](/mobilnisite/slovnik/msc/) Serverem (rozšířeným pro [SR-VCC](/mobilnisite/slovnik/sr-vcc/)). Klíčovou komponentou je Emergency Access Transfer Control Function (E-ATCF), která slouží jako bod ukotvení kontinuity IMS služeb pro nouzový hovor. E-ATCF usnadňuje přenos relace interakcí s Emergency Call Session Control Function ([E-CSCF](/mobilnisite/slovnik/e-cscf/)).
 
-Během provádění předání síť poskytne UE potřebné informace o CS kanálu. IMS relace je převedena pomocí mechanismů jako Session Transfer Initiation (STI) a Emergency Session Transfer Number ([E-STN-SR](/mobilnisite/slovnik/e-stn-sr/)), což je specifické číslo směrované na E-ATCF. Médiová cesta je přepnuta z přenašeče PS na přenašeč CS připojený k Media Gateway ([MGW](/mobilnisite/slovnik/mgw/)). Zásadní je, že procedury E-SR-VCC jsou povoleny i pro UE ve stavu omezené služby (např. bez platné SIM karty pro běžnou autentizaci), čímž je zajištěn univerzální přístup k nouzovým službám. Podrobné signalizační toky a požadavky jsou specifikovány v 3GPP TS 24.237.
+Během provádění předání síť poskytne UE potřebné informace o CS kanálu. IMS relace je převedena pomocí mechanismů jako Session Transfer Initiation (STI) a Emergency Session Transfer Number (E-STN-SR), což je specifické číslo směrované na E-ATCF. Médiová cesta je přepnuta z přenašeče PS na přenašeč CS připojený k Media Gateway (MGW). Zásadní je, že procedury E-SR-VCC jsou povoleny i pro UE ve stavu omezené služby (např. bez platné SIM karty pro běžnou autentizaci), čímž je zajištěn univerzální přístup k nouzovým službám. Podrobné signalizační toky a požadavky jsou specifikovány v 3GPP TS 24.237.
 
 ## K čemu slouží
 
@@ -39,6 +39,7 @@ Technologie byla motivována potřebou splnit regulatorní požadavky (např. po
 
 ## Související pojmy
 
+- [SR-VCC – Single Radio Voice Call Continuity](/mobilnisite/slovnik/sr-vcc/)
 - [E-STN-SR – Emergency Call Session Transfer Number – Single Radio](/mobilnisite/slovnik/e-stn-sr/)
 - [IMS – IP Multimedia Subsystem](/mobilnisite/slovnik/ims/)
 

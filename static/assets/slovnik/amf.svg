@@ -1,0 +1,125 @@
+<svg viewBox="0 0 1536 1024" xmlns="http://www.w3.org/2000/svg" font-family="Inter, Arial, sans-serif">
+  
+  <rect width="1536" height="1024" fill="white"/>
+
+  
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#EA580C"/>
+    </marker>
+  </defs>
+
+  
+  <text x="768" y="52" text-anchor="middle" font-size="46" font-weight="700" fill="#1e293b">AMF – Access and Mobility Management Function</text>
+  <text x="768" y="90" text-anchor="middle" font-size="26" fill="#475569">Správa přístupu a mobility v 5G Core (3GPP Release 15+)</text>
+
+  
+
+  
+
+  
+  <rect x="80" y="150" width="200" height="90" rx="8" fill="#2563EB" stroke="#1d4ed8" stroke-width="2"/>
+  <text x="180" y="188" text-anchor="middle" font-size="32" font-weight="700" fill="white">UE</text>
+  <text x="180" y="222" text-anchor="middle" font-size="24" fill="#bfdbfe">Uživatelské zař.</text>
+
+  
+  <rect x="80" y="320" width="200" height="90" rx="8" fill="#2563EB" stroke="#1d4ed8" stroke-width="2"/>
+  <text x="180" y="358" text-anchor="middle" font-size="32" font-weight="700" fill="white">NG-RAN</text>
+  <text x="180" y="392" text-anchor="middle" font-size="24" fill="#bfdbfe">Rádiová síť</text>
+
+  
+  <rect x="580" y="220" width="280" height="120" rx="8" fill="#2563EB" stroke="#1d4ed8" stroke-width="2"/>
+  <text x="720" y="268" text-anchor="middle" font-size="36" font-weight="700" fill="white">AMF</text>
+  <text x="720" y="306" text-anchor="middle" font-size="24" fill="#bfdbfe">Správa přístupu</text>
+  <text x="720" y="330" text-anchor="middle" font-size="24" fill="#bfdbfe">a mobility</text>
+
+  
+  <rect x="1180" y="150" width="220" height="90" rx="8" fill="#2563EB" stroke="#1d4ed8" stroke-width="2"/>
+  <text x="1290" y="188" text-anchor="middle" font-size="32" font-weight="700" fill="white">AUSF</text>
+  <text x="1290" y="222" text-anchor="middle" font-size="24" fill="#bfdbfe">Autentizace</text>
+
+  
+  <rect x="1180" y="320" width="220" height="90" rx="8" fill="#2563EB" stroke="#1d4ed8" stroke-width="2"/>
+  <text x="1290" y="358" text-anchor="middle" font-size="32" font-weight="700" fill="white">UDM</text>
+  <text x="1290" y="392" text-anchor="middle" font-size="24" fill="#bfdbfe">Správa dat</text>
+
+  
+
+  
+  <rect x="480" y="530" width="220" height="90" rx="8" fill="#2563EB" stroke="#1d4ed8" stroke-width="2"/>
+  <text x="590" y="568" text-anchor="middle" font-size="32" font-weight="700" fill="white">SMF</text>
+  <text x="590" y="602" text-anchor="middle" font-size="24" fill="#bfdbfe">Správa relací</text>
+
+  
+  <rect x="780" y="530" width="220" height="90" rx="8" fill="#2563EB" stroke="#1d4ed8" stroke-width="2"/>
+  <text x="890" y="568" text-anchor="middle" font-size="32" font-weight="700" fill="white">NSSF</text>
+  <text x="890" y="602" text-anchor="middle" font-size="24" fill="#bfdbfe">Výběr síť. řezu</text>
+
+  
+  <rect x="1180" y="530" width="220" height="90" rx="8" fill="#16A34A" stroke="#15803d" stroke-width="2"/>
+  <text x="1290" y="568" text-anchor="middle" font-size="30" font-weight="700" fill="white">PDU relace</text>
+  <text x="1290" y="602" text-anchor="middle" font-size="24" fill="#bbf7d0">Datové spojení</text>
+
+  
+
+  
+  
+  <line x1="280" y1="195" x2="578" y2="270" stroke="#EA580C" stroke-width="3" marker-end="url(#arrow)"/>
+  <text x="400" y="210" text-anchor="middle" font-size="26" fill="#EA580C" font-weight="600">NAS signalizace</text>
+  <text x="400" y="238" text-anchor="middle" font-size="26" fill="#EA580C" font-weight="600">(N1)</text>
+
+  
+  
+  <line x1="280" y1="365" x2="578" y2="320" stroke="#EA580C" stroke-width="3" marker-end="url(#arrow)"/>
+  <text x="400" y="370" text-anchor="middle" font-size="26" fill="#EA580C" font-weight="600">Řídicí rovina</text>
+  <text x="400" y="398" text-anchor="middle" font-size="26" fill="#EA580C" font-weight="600">(N2)</text>
+
+  
+  
+  <line x1="860" y1="255" x2="1178" y2="195" stroke="#EA580C" stroke-width="3" marker-end="url(#arrow)"/>
+  <text x="1020" y="210" text-anchor="middle" font-size="26" fill="#EA580C" font-weight="600">Autentizace (N12)</text>
+
+  
+  
+  <line x1="860" y1="315" x2="1178" y2="355" stroke="#EA580C" stroke-width="3" marker-end="url(#arrow)"/>
+  <text x="1020" y="360" text-anchor="middle" font-size="26" fill="#EA580C" font-weight="600">Předplatné (N8)</text>
+
+  
+  
+  <line x1="690" y1="340" x2="610" y2="528" stroke="#EA580C" stroke-width="3" marker-end="url(#arrow)"/>
+  <text x="590" y="460" text-anchor="middle" font-size="26" fill="#EA580C" font-weight="600">Správa relace</text>
+  <text x="590" y="488" text-anchor="middle" font-size="26" fill="#EA580C" font-weight="600">(N11)</text>
+
+  
+  
+  <line x1="760" y1="340" x2="870" y2="528" stroke="#EA580C" stroke-width="3" marker-end="url(#arrow)"/>
+  <text x="860" y="455" text-anchor="middle" font-size="26" fill="#EA580C" font-weight="600">Výběr řezu</text>
+  <text x="860" y="483" text-anchor="middle" font-size="26" fill="#EA580C" font-weight="600">(N22)</text>
+
+  
+  
+  <line x1="700" y1="575" x2="1178" y2="575" stroke="#EA580C" stroke-width="3" marker-end="url(#arrow)"/>
+  <text x="940" y="560" text-anchor="middle" font-size="26" fill="#EA580C" font-weight="600">Datová relace (N29)</text>
+
+  
+  <rect x="80" y="720" width="1376" height="150" rx="8" fill="#f0fdf4" stroke="#16A34A" stroke-width="2"/>
+  <text x="768" y="755" text-anchor="middle" font-size="28" font-weight="700" fill="#16A34A">Klíčové parametry</text>
+  <text x="200" y="795" text-anchor="middle" font-size="26" fill="#15803d">Rozhraní:</text>
+  <text x="200" y="828" text-anchor="middle" font-size="26" fill="#166534">N1, N2, N8, N11, N12, N22, N29</text>
+  <text x="640" y="795" text-anchor="middle" font-size="26" fill="#15803d">Standard:</text>
+  <text x="640" y="828" text-anchor="middle" font-size="26" fill="#166534">3GPP Release 15+</text>
+  <text x="1100" y="795" text-anchor="middle" font-size="26" fill="#15803d">Identifikátory:</text>
+  <text x="1100" y="828" text-anchor="middle" font-size="26" fill="#166534">SUPI / SUCI, 5G-GUTI</text>
+
+  
+  <rect x="80" y="940" width="1376" height="70" rx="8" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
+
+  <rect x="160" y="960" width="36" height="36" rx="4" fill="#2563EB"/>
+  <text x="208" y="984" font-size="24" fill="#1e293b">Funkční bloky (komponenty)</text>
+
+  <rect x="620" y="960" width="36" height="36" rx="4" fill="#EA580C"/>
+  <text x="668" y="984" font-size="24" fill="#1e293b">Datové / signálové toky</text>
+
+  <rect x="1060" y="960" width="36" height="36" rx="4" fill="#16A34A"/>
+  <text x="1108" y="984" font-size="24" fill="#1e293b">Výstupy / parametry</text>
+</svg>

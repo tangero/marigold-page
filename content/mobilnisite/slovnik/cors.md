@@ -16,7 +16,7 @@ CORS je bezpečnostní mechanismus, který umožňuje webovým aplikacím z jedn
 
 ## Popis
 
-Cross-Origin Resource Sharing (CORS) v 3GPP je bezpečnostní mechanismus implementovaný v architekturách Network Exposure Function ([NEF](/mobilnisite/slovnik/nef/)) a Service Capability Exposure Function (SCEF) pro umožnění bezpečných meziodkazových [HTTP](/mobilnisite/slovnik/http/) požadavků. Mechanismus funguje prostřednictvím standardizované sady HTTP hlaviček, které serverům umožňují deklarovat, které zdroje mají povolen přístup k jejich prostředkům. Když se webová aplikace z jednoho zdroje pokusí přistoupit k prostředkům z jiného zdroje, prohlížeč odešle předletový (preflight) požadavek pomocí metody OPTIONS, který obsahuje hlavičky Origin, Access-Control-Request-Method a Access-Control-Request-Headers. Server odpoví hlavičkami Access-Control-Allow-Origin, Access-Control-Allow-Methods, Access-Control-Allow-Headers a Access-Control-Allow-Credentials, aby specifikoval, co je povoleno.
+Cross-Origin Resource Sharing (CORS) v 3GPP je bezpečnostní mechanismus implementovaný v architekturách Network Exposure Function ([NEF](/mobilnisite/slovnik/nef/)) a Service Capability Exposure Function ([SCEF](/mobilnisite/slovnik/scef/)) pro umožnění bezpečných meziodkazových [HTTP](/mobilnisite/slovnik/http/) požadavků. Mechanismus funguje prostřednictvím standardizované sady HTTP hlaviček, které serverům umožňují deklarovat, které zdroje mají povolen přístup k jejich prostředkům. Když se webová aplikace z jednoho zdroje pokusí přistoupit k prostředkům z jiného zdroje, prohlížeč odešle předletový (preflight) požadavek pomocí metody OPTIONS, který obsahuje hlavičky Origin, Access-Control-Request-Method a Access-Control-Request-Headers. Server odpoví hlavičkami Access-Control-Allow-Origin, Access-Control-Allow-Methods, Access-Control-Allow-Headers a Access-Control-Allow-Credentials, aby specifikoval, co je povoleno.
 
 Architektura se integruje s rámcem pro zveřejnění sítě 3GPP, kde NEF/SCEF funguje jako server s podporou CORS, který zveřejňuje síťové schopnosti autorizovaným aplikačním funkcím (AFs). Mechanismus funguje tak, že zachycuje HTTP požadavky od externích aplikací a ověřuje je vůči nakonfigurovaným CORS politikám před povolením přístupu k síťovým [API](/mobilnisite/slovnik/api/). Mezi klíčové komponenty patří databáze konfigurace CORS politik, modul pro validaci zdroje, engine pro vkládání hlaviček a obsluha předletových požadavků. Tyto komponenty spolupracují na ověření požadavků, vložení příslušných CORS hlaviček do odpovědí a vynucení bezpečnostních politik definovaných síťovými operátory.
 
@@ -44,6 +44,7 @@ CORS řeší konkrétní problém umožnění bezpečné komunikace mezi webový
 ## Související pojmy
 
 - [NEF – Network Exposure Function](/mobilnisite/slovnik/nef/)
+- [SCEF – Service Capability Exposure Function](/mobilnisite/slovnik/scef/)
 
 ## Definující specifikace
 

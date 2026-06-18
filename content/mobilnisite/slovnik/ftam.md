@@ -20,15 +20,15 @@ File Transfer, Access and Management (FTAM) je komplexní protokolový rámec de
 
 Protokol funguje prostřednictvím řady fázových aktivit: navázání spojení, výběr souboru, přenos dat a uvolnění. Podporuje širokou škálu služeb včetně vytváření, mazání, čtení, zápisu souborů a správy jejich atributů. Přenos dat může probíhat hromadně nebo orientovaně na záznamy, což poskytuje flexibilitu pro různé typy souborů. FTAM zajišťuje spolehlivost pomocí mechanismů kontrolních bodů a restartu, což umožňuje pokračovat v přerušených přenosech. Zahrnuje také bezpečnostní funkce pro autentizaci a řízení přístupu.
 
-V rámci ekosystému 3GPP se FTAM primárně používá pro úkoly správy, provozu a údržby (OAM). Je základním kamenem pro přenos softwarových balíčků (např. pro aktualizace [eNB](/mobilnisite/slovnik/enb/) nebo uzlů core sítě), konfiguračních souborů a výkonnostních reportů. Jeho standardizovaná povaha zajišťuje interoperabilitu mezi více-dodavatelskými systémy správy a síťovými prvky, což je klíčové pro rozsáhlá, heterogenní nasazení sítí. Podrobné stavové automaty a definice služeb protokolu poskytují robustní základ pro automatizovanou a odolnou správu souborů v telekomunikačních sítích.
+V rámci ekosystému 3GPP se FTAM primárně používá pro úkoly správy, provozu a údržby ([OAM](/mobilnisite/slovnik/oam/)). Je základním kamenem pro přenos softwarových balíčků (např. pro aktualizace [eNB](/mobilnisite/slovnik/enb/) nebo uzlů core sítě), konfiguračních souborů a výkonnostních reportů. Jeho standardizovaná povaha zajišťuje interoperabilitu mezi více-dodavatelskými systémy správy a síťovými prvky, což je klíčové pro rozsáhlá, heterogenní nasazení sítí. Podrobné stavové automaty a definice služeb protokolu poskytují robustní základ pro automatizovanou a odolnou správu souborů v telekomunikačních sítích.
 
 ## K čemu slouží
 
 FTAM byl zaveden, aby vyřešil kritickou potřebu standardizované, spolehlivé a bezpečné metody správy souborů na distribuovaných síťových prvcích. Před jeho přijetím se pro softwarové aktualizace a správu konfigurace používaly proprietární skripty a protokoly, což vedlo k problémům s interoperabilitou, zvýšené provozní složitosti a vyšším nákladům v sítích s více dodavateli. Vytvoření FTAM bylo motivováno rostoucí složitostí sítí 3G a požadavkem na automatizované zřizování a údržbu.
 
-Tato technologie řeší omezení ad-hoc metod přenosu souborů tím, že poskytuje formalizovaný protokol s explicitními definicemi služeb, postupy pro obnovu po chybách a bezpečnostními kontexty. To umožňuje síťovým operátorům automatizovat klíčové pracovní postupy OAM, jako je hromadné nasazování softwaru, centralizovaná správa konfigurace a sběr fakturačních nebo výkonnostních dat ze síťových prvků. Standardizací tohoto rozhraní 3GPP umožnilo oddělení systému správy od dodavatelsky specifické implementace síťového prvku, což podpořilo konkurenceschopnější a flexibilnější ekosystém.
+Tato technologie řeší omezení ad-hoc metod přenosu souborů tím, že poskytuje formalizovaný protokol s explicitními definicemi služeb, postupy pro obnovu po chybách a bezpečnostními kontexty. To umožňuje síťovým operátorům automatizovat klíčové pracovní postupy [OAM](/mobilnisite/slovnik/oam/), jako je hromadné nasazování softwaru, centralizovaná správa konfigurace a sběr fakturačních nebo výkonnostních dat ze síťových prvků. Standardizací tohoto rozhraní 3GPP umožnilo oddělení systému správy od dodavatelsky specifické implementace síťového prvku, což podpořilo konkurenceschopnější a flexibilnější ekosystém.
 
-Historicky integrace FTAM do standardů 3GPP položila základy pro Telecommunications Management Network (TMN) a později pro rozhraní Network Management ([NM](/mobilnisite/slovnik/nm/)). Vyřešila problém, jak spolehlivě doručovat velké soubory (jako jsou celé obrazy operačního systému pro základnové stanice) přes potenciálně nespolehlivé managementové spoje, čímž zajistila integritu sítě a snížila potřebu manuálního zásahu během cyklů aktualizací.
+Historicky integrace FTAM do standardů 3GPP položila základy pro Telecommunications Management Network ([TMN](/mobilnisite/slovnik/tmn/)) a později pro rozhraní Network Management ([NM](/mobilnisite/slovnik/nm/)). Vyřešila problém, jak spolehlivě doručovat velké soubory (jako jsou celé obrazy operačního systému pro základnové stanice) přes potenciálně nespolehlivé managementové spoje, čímž zajistila integritu sítě a snížila potřebu manuálního zásahu během cyklů aktualizací.
 
 ## Klíčové vlastnosti
 
@@ -41,6 +41,7 @@ Historicky integrace FTAM do standardů 3GPP položila základy pro Telecommunic
 
 ## Související pojmy
 
+- [OAM – Operations, Administration, and Maintenance](/mobilnisite/slovnik/oam/)
 - [NM – Network Management](/mobilnisite/slovnik/nm/)
 
 ## Definující specifikace

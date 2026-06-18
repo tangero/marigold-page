@@ -24,7 +24,7 @@ Její role v síti spočívá v poskytování standardizovaného, efektivního m
 
 ## K čemu slouží
 
-DVB bylo vytvořeno za účelem zavedení jednotného, interoperabilního rámce pro přechod od analogového k digitálnímu televiznímu vysílání v Evropě a celosvětově. Vyřešilo problém fragmentovaných proprietárních vysílacích systémů tím, že poskytlo otevřené technické specifikace, které zajišťují kompatibilitu přijímačů a podporují konkurenci na trhu. Motivací bylo zlepšit spektrální účinnost, umožnit vyšší kvalitu videa (SD, [HD](/mobilnisite/slovnik/hd/), UHD) a zavést nové datové služby vedle televize.
+DVB bylo vytvořeno za účelem zavedení jednotného, interoperabilního rámce pro přechod od analogového k digitálnímu televiznímu vysílání v Evropě a celosvětově. Vyřešilo problém fragmentovaných proprietárních vysílacích systémů tím, že poskytlo otevřené technické specifikace, které zajišťují kompatibilitu přijímačů a podporují konkurenci na trhu. Motivací bylo zlepšit spektrální účinnost, umožnit vyšší kvalitu videa ([SD](/mobilnisite/slovnik/sd/), [HD](/mobilnisite/slovnik/hd/), [UHD](/mobilnisite/slovnik/uhd/)) a zavést nové datové služby vedle televize.
 
 V rámci 3GPP je účelem integrace standardů DVB využít zralé vysílací technologie pro multimediální doručování založené na mobilních sítích, konkrétně pro [MBMS](/mobilnisite/slovnik/mbms/). Tím se řeší omezení čistě unicastového doručování pro oblíbené živé události, které mohou přetížit mobilní sítě. Přijetím dobře zavedených standardů DVB pro fyzickou a servisní vrstvu mohou systémy 3GPP efektivně poskytovat vysílací služby, což operátorům umožňuje nabízet lineární televizi a doručování souborů přes sítě LTE a 5G s nižšími náklady na přenesený bit.
 

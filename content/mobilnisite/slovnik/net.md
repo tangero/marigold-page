@@ -44,6 +44,7 @@ Motivace pro jeho vytvoření byla zakořeněna v dědictví evropské telekomun
 ## Související pojmy
 
 - [ETSI – European Telecommunication Standardization Institute](/mobilnisite/slovnik/etsi/)
+- [UMTS – Universal Mobile Telecommunications System](/mobilnisite/slovnik/umts/)
 
 ## Definující specifikace
 

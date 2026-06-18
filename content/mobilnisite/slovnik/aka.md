@@ -16,9 +16,9 @@ AKA je základní bezpečnostní protokol 3GPP pro vzájemné ověření mezi za
 
 ## Popis
 
-Protokol Authentication and Key Agreement (AKA) je mechanismus typu challenge-response, který poskytuje vzájemné ověření a odvození kryptografických klíčů v sítích 3GPP. Funguje mezi uživatelským zařízením (UE) a ověřovacím centrem sítě (AuC), které sídlí v Home Subscriber Server ([HSS](/mobilnisite/slovnik/hss/)) v 4G/5G nebo v Home Location Register ([HLR](/mobilnisite/slovnik/hlr/)) v 3G. Jádrem AKA je sdílený tajný klíč (K), který je bezpečně uložen jak v univerzální SIM kartě (USIM) v UE, tak v AuC. Tento dlouhodobý klíč se nikdy nepřenáší vzduchem.
+Protokol Authentication and Key Agreement (AKA) je mechanismus typu challenge-response, který poskytuje vzájemné ověření a odvození kryptografických klíčů v sítích 3GPP. Funguje mezi uživatelským zařízením (UE) a ověřovacím centrem sítě (AuC), které sídlí v Home Subscriber Server ([HSS](/mobilnisite/slovnik/hss/)) v 4G/5G nebo v Home Location Register ([HLR](/mobilnisite/slovnik/hlr/)) v 3G. Jádrem AKA je sdílený tajný klíč (K), který je bezpečně uložen jak v univerzální [SIM](/mobilnisite/slovnik/sim/) kartě ([USIM](/mobilnisite/slovnik/usim/)) v UE, tak v AuC. Tento dlouhodobý klíč se nikdy nepřenáší vzduchem.
 
-Vykonání protokolu začíná, když obsluhovaná síť požádá o ověřovací vektory od HSS/AuC. AuC vygeneruje jeden nebo více ověřovacích vektorů pomocí klíče účastníka K a čísla sekvence (SQN). Každý vektor obsahuje náhodnou výzvu (RAND), očekávanou odpověď (XRES), šifrovací klíč ([CK](/mobilnisite/slovnik/ck/)), integritní klíč ([IK](/mobilnisite/slovnik/ik/)) a ověřovací token ([AUTN](/mobilnisite/slovnik/autn/)). Samotný AUTN obsahuje SQN a kód pro ověření zprávy ([MAC](/mobilnisite/slovnik/mac/)), což umožňuje UE ověřit pravost sítě. Obsluhovaná síť (např. prostřednictvím [MME](/mobilnisite/slovnik/mme/) v 4G nebo [AMF](/mobilnisite/slovnik/amf/) v 5G) odešle UE RAND a AUTN.
+Vykonání protokolu začíná, když obsluhovaná síť požádá o ověřovací vektory od HSS/AuC. AuC vygeneruje jeden nebo více ověřovacích vektorů pomocí klíče účastníka K a čísla sekvence ([SQN](/mobilnisite/slovnik/sqn/)). Každý vektor obsahuje náhodnou výzvu ([RAND](/mobilnisite/slovnik/rand/)), očekávanou odpověď ([XRES](/mobilnisite/slovnik/xres/)), šifrovací klíč ([CK](/mobilnisite/slovnik/ck/)), integritní klíč (IK) a ověřovací token (AUTN). Samotný AUTN obsahuje SQN a kód pro ověření zprávy (MAC), což umožňuje UE ověřit pravost sítě. Obsluhovaná síť (např. prostřednictvím MME v 4G nebo AMF v 5G) odešle UE RAND a AUTN.
 
 Po přijetí USIM v UE použije svůj uložený klíč K a přijatý RAND k výpočtu vlastní verze očekávané odpovědi (RES), šifrovacího klíče (CK), integritního klíče (IK) a MAC. Nejprve ověří AUTN kontrolou MAC, aby se ujistila, že výzva pochází ze skutečné sítě, a kontrolou SQN, aby zajistila, že je aktuální a nejde o opakování starého ověření. Pokud je úspěšné, UE odešle RES zpět do sítě. Síť porovná přijatý RES s XRES; shoda dokončí vzájemné ověření. Odvozené CK a IK pak používají UE a přístupová vrstva sítě k zajištění důvěrnosti a ochrany integrity veškerého následujícího signalizačního a uživatelského datového provozu.
 
@@ -43,7 +43,9 @@ Historicky byl vývoj AKA motivován potřebou standardizovaného, do budoucna p
 
 ## Související pojmy
 
+- [USIM – Universal Subscriber Identity Module](/mobilnisite/slovnik/usim/)
 - [HSS – Home Subscriber Server](/mobilnisite/slovnik/hss/)
+- [SUPI – Subscription Permanent Identifier](/mobilnisite/slovnik/supi/)
 
 ## Definující specifikace
 

@@ -16,7 +16,7 @@ CCD je funkční entita v IP Multimedia Subsystem (IMS), která spravuje řídic
 
 ## Popis
 
-Conference Call Device (CCD) je základní aplikační server v architektuře IMS, standardizovaný v 3GPP TS 23.153. Funguje jako centrální řadič pro multimediální konferenční relace a zajišťuje jak signalizační, tak mediální aspekty. CCD komunikuje s dalšími základními prvky IMS, jako je Serving-Call Session Control Function (S-CSCF) a Home Subscriber Server ([HSS](/mobilnisite/slovnik/hss/)), přičemž pro řízení relace používá SIP (Session Initiation Protocol). Přijímá SIP INVITE požadavky na vytvoření konference nebo přidání účastníka, autentizuje a autorizuje uživatele na základě předplatitelských dat a řídí navázání mediálních spojení mezi všemi účastníky konference.
+Conference Call Device (CCD) je základní aplikační server v architektuře IMS, standardizovaný v 3GPP TS 23.153. Funguje jako centrální řadič pro multimediální konferenční relace a zajišťuje jak signalizační, tak mediální aspekty. CCD komunikuje s dalšími základními prvky IMS, jako je Serving-Call Session Control Function ([S-CSCF](/mobilnisite/slovnik/s-cscf/)) a Home Subscriber Server ([HSS](/mobilnisite/slovnik/hss/)), přičemž pro řízení relace používá [SIP](/mobilnisite/slovnik/sip/) (Session Initiation Protocol). Přijímá SIP INVITE požadavky na vytvoření konference nebo přidání účastníka, autentizuje a autorizuje uživatele na základě předplatitelských dat a řídí navázání mediálních spojení mezi všemi účastníky konference.
 
 Z architektonického hlediska se CCD skládá z několika logických komponent: funkce řízení konferenční politiky (Conference Policy Control Function), konferenčního centra (Conference Focus) a schopností zpracování médií (Media Processing). Konferenční centrum je centrální SIP uživatelský agent, který udržuje stav dialogu s každým účastníkem a spravuje seznam účastníků konference. Funkce řízení konferenční politiky vynucuje pravidla týkající se toho, kdo se může připojit, zvát další nebo manipulovat s konferencí (např. ztlumení). Pro zpracování médií může CCD buď fungovat jako mediální mixér (Media Mixer), který kombinuje audio/video proudy od všech účastníků do jednoho složeného proudu odesílaného každému z nich, nebo jako mediální přeposílač/řadič (Media Relay/Controller), který instruuje koncové body, aby odesílaly média do vyhrazeného procesoru funkce mediálních zdrojů ([MRFP](/mobilnisite/slovnik/mrfp/)) pro mixování.
 
@@ -43,6 +43,7 @@ Vytvoření CCD bylo hnací silou přechodu odvětví na plně IP sítě a snahy
 
 - [IMS – IP Multimedia Subsystem](/mobilnisite/slovnik/ims/)
 - [MRFP – Multimedia Resource Function Processor](/mobilnisite/slovnik/mrfp/)
+- [SIP – Session Initiation Protocol](/mobilnisite/slovnik/sip/)
 
 ## Definující specifikace
 

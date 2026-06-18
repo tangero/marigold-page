@@ -1,0 +1,155 @@
+<svg viewBox="0 0 1536 1024" xmlns="http://www.w3.org/2000/svg" font-family="Inter, Arial, sans-serif">
+  
+  <rect width="1536" height="1024" fill="#ffffff"/>
+
+  
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#EA580C"/>
+    </marker>
+    <marker id="arrow-gray" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#6B7280"/>
+    </marker>
+  </defs>
+
+  
+  <text x="768" y="52" text-anchor="middle" font-size="46" font-weight="700" fill="#1E293B">5GC – 5G Core Network</text>
+  <text x="768" y="90" text-anchor="middle" font-size="26" fill="#475569">Architektura jádra 5G sítě (Service-Based Architecture)</text>
+
+  
+
+  
+  
+  <rect x="80" y="160" width="160" height="80" rx="8" fill="#2563EB" stroke="#1D4ED8" stroke-width="2"/>
+  <text x="160" y="196" text-anchor="middle" font-size="32" font-weight="700" fill="#ffffff">UE</text>
+  <text x="160" y="228" text-anchor="middle" font-size="24" fill="#BFDBFE">Zařízení</text>
+
+  
+  <rect x="320" y="160" width="180" height="80" rx="8" fill="#2563EB" stroke="#1D4ED8" stroke-width="2"/>
+  <text x="410" y="196" text-anchor="middle" font-size="32" font-weight="700" fill="#ffffff">RAN</text>
+  <text x="410" y="228" text-anchor="middle" font-size="24" fill="#BFDBFE">Rádiová síť</text>
+
+  
+  <rect x="580" y="160" width="220" height="80" rx="8" fill="#2563EB" stroke="#1D4ED8" stroke-width="2"/>
+  <text x="690" y="196" text-anchor="middle" font-size="32" font-weight="700" fill="#ffffff">AMF</text>
+  <text x="690" y="228" text-anchor="middle" font-size="24" fill="#BFDBFE">Přístup/Mobilita</text>
+
+  
+  <rect x="1180" y="160" width="260" height="80" rx="8" fill="#2563EB" stroke="#1D4ED8" stroke-width="2"/>
+  <text x="1310" y="196" text-anchor="middle" font-size="32" font-weight="700" fill="#ffffff">AUSF/UDM</text>
+  <text x="1310" y="228" text-anchor="middle" font-size="24" fill="#BFDBFE">Autentizace/Data</text>
+
+  
+  
+  <rect x="580" y="360" width="220" height="80" rx="8" fill="#2563EB" stroke="#1D4ED8" stroke-width="2"/>
+  <text x="690" y="396" text-anchor="middle" font-size="32" font-weight="700" fill="#ffffff">SMF</text>
+  <text x="690" y="428" text-anchor="middle" font-size="24" fill="#BFDBFE">Správa relací</text>
+
+  
+  <rect x="870" y="360" width="200" height="80" rx="8" fill="#2563EB" stroke="#1D4ED8" stroke-width="2"/>
+  <text x="970" y="396" text-anchor="middle" font-size="32" font-weight="700" fill="#ffffff">PCF</text>
+  <text x="970" y="428" text-anchor="middle" font-size="24" fill="#BFDBFE">Řízení politik</text>
+
+  
+  <rect x="1150" y="360" width="180" height="80" rx="8" fill="#2563EB" stroke="#1D4ED8" stroke-width="2"/>
+  <text x="1240" y="396" text-anchor="middle" font-size="32" font-weight="700" fill="#ffffff">NRF</text>
+  <text x="1240" y="428" text-anchor="middle" font-size="24" fill="#BFDBFE">Úložiště služeb</text>
+
+  
+  <rect x="1360" y="360" width="160" height="80" rx="8" fill="#2563EB" stroke="#1D4ED8" stroke-width="2"/>
+  <text x="1440" y="396" text-anchor="middle" font-size="32" font-weight="700" fill="#ffffff">NEF</text>
+  <text x="1440" y="428" text-anchor="middle" font-size="24" fill="#BFDBFE">Vystavení</text>
+
+  
+  
+  <rect x="580" y="560" width="220" height="80" rx="8" fill="#2563EB" stroke="#1D4ED8" stroke-width="2"/>
+  <text x="690" y="596" text-anchor="middle" font-size="32" font-weight="700" fill="#ffffff">UPF</text>
+  <text x="690" y="628" text-anchor="middle" font-size="24" fill="#BFDBFE">Uživatelská rovina</text>
+
+  
+  <rect x="870" y="560" width="220" height="80" rx="8" fill="#2563EB" stroke="#1D4ED8" stroke-width="2"/>
+  <text x="980" y="596" text-anchor="middle" font-size="32" font-weight="700" fill="#ffffff">DN</text>
+  <text x="980" y="628" text-anchor="middle" font-size="24" fill="#BFDBFE">Datová síť</text>
+
+  
+
+  
+  <line x1="240" y1="200" x2="318" y2="200" stroke="#EA580C" stroke-width="3" marker-end="url(#arrow)"/>
+
+  
+  <line x1="500" y1="200" x2="578" y2="200" stroke="#EA580C" stroke-width="3" marker-end="url(#arrow)"/>
+  
+  <text x="540" y="128" text-anchor="middle" font-size="22" fill="#EA580C">registrace</text>
+  <text x="540" y="150" text-anchor="middle" font-size="22" fill="#EA580C">a mobilita</text>
+
+  
+  <line x1="800" y1="200" x2="1178" y2="200" stroke="#EA580C" stroke-width="3" marker-end="url(#arrow)"/>
+  
+  <text x="989" y="185" text-anchor="middle" font-size="26" fill="#EA580C">autentizace předplatitele</text>
+
+  
+  <line x1="690" y1="240" x2="690" y2="358" stroke="#EA580C" stroke-width="3" marker-end="url(#arrow)"/>
+  
+  <text x="730" y="305" text-anchor="start" font-size="26" fill="#EA580C">N11</text>
+
+  
+  <line x1="690" y1="440" x2="690" y2="558" stroke="#EA580C" stroke-width="3" marker-end="url(#arrow)"/>
+  
+  <text x="730" y="505" text-anchor="start" font-size="26" fill="#EA580C">N4 konfig.</text>
+
+  
+  <line x1="800" y1="600" x2="868" y2="600" stroke="#EA580C" stroke-width="3" marker-end="url(#arrow)"/>
+  
+  <text x="834" y="588" text-anchor="middle" font-size="24" fill="#EA580C">N6</text>
+
+  
+  <line x1="800" y1="400" x2="868" y2="400" stroke="#6B7280" stroke-width="2" stroke-dasharray="6,4" marker-end="url(#arrow-gray)"/>
+  <text x="834" y="388" text-anchor="middle" font-size="22" fill="#6B7280">N7</text>
+
+  
+  <line x1="580" y1="340" x2="1520" y2="340" stroke="#6B7280" stroke-width="2" stroke-dasharray="8,4"/>
+  <text x="1100" y="330" text-anchor="middle" font-size="24" fill="#6B7280">SBA – HTTP/2 + JSON</text>
+  
+  <line x1="690" y1="340" x2="690" y2="360" stroke="#6B7280" stroke-width="2"/>
+  <line x1="970" y1="340" x2="970" y2="360" stroke="#6B7280" stroke-width="2"/>
+  <line x1="1240" y1="340" x2="1240" y2="360" stroke="#6B7280" stroke-width="2"/>
+  <line x1="1440" y1="340" x2="1440" y2="360" stroke="#6B7280" stroke-width="2"/>
+  <line x1="1310" y1="240" x2="1310" y2="340" stroke="#6B7280" stroke-width="2" stroke-dasharray="6,4"/>
+
+  
+  
+  <text x="480" y="505" text-anchor="middle" font-size="24" fill="#475569">CP</text>
+  <text x="480" y="535" text-anchor="middle" font-size="24" fill="#475569">UP</text>
+  <line x1="480" y1="440" x2="480" y2="560" stroke="#475569" stroke-width="2" stroke-dasharray="4,4"/>
+  <text x="480" y="430" text-anchor="middle" font-size="22" fill="#475569">oddělení</text>
+
+  
+  <rect x="80" y="560" width="460" height="120" rx="8" fill="#F0FDF4" stroke="#16A34A" stroke-width="2"/>
+  <text x="310" y="592" text-anchor="middle" font-size="28" font-weight="700" fill="#16A34A">Klíčové parametry</text>
+  <text x="100" y="622" font-size="24" fill="#15803D">• Rozhraní N4 (SMF–UPF)</text>
+  <text x="100" y="650" font-size="24" fill="#15803D">• HTTP/2 + JSON (SBA)</text>
+  <text x="100" y="678" font-size="24" fill="#15803D">• Network slicing, Edge computing (dist. UPF)</text>
+
+  
+  <rect x="80" y="715" width="1376" height="185" rx="8" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1"/>
+  <text x="110" y="748" font-size="28" font-weight="700" fill="#1E293B">Postup registrace a datového toku:</text>
+  <text x="110" y="782" font-size="26" fill="#334155">1. UE vysílá žádost o registraci přes RAN do AMF.</text>
+  <text x="110" y="814" font-size="26" fill="#334155">2. AMF kontaktuje AUSF/UDM pro autentizaci předplatitele.</text>
+  <text x="110" y="846" font-size="26" fill="#334155">3. SMF přijme žádost o relaci od AMF a konfiguruje UPF pravidly přes N4.</text>
+  <text x="110" y="878" font-size="26" fill="#334155">4. UPF směruje uživatelská data přes N6 do datové sítě (DN).</text>
+
+  
+  <rect x="80" y="935" width="1376" height="70" rx="8" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="1"/>
+  
+  <rect x="110" y="958" width="32" height="24" rx="4" fill="#2563EB"/>
+  <text x="152" y="978" font-size="24" fill="#334155">Funkční bloky (NF)</text>
+  
+  <line x1="420" y1="970" x2="460" y2="970" stroke="#EA580C" stroke-width="3" marker-end="url(#arrow)"/>
+  <text x="472" y="978" font-size="24" fill="#334155">Datové/signálové toky</text>
+  
+  <rect x="740" y="958" width="32" height="24" rx="4" fill="#16A34A"/>
+  <text x="782" y="978" font-size="24" fill="#334155">Výstupní parametry</text>
+  
+  <line x1="1040" y1="970" x2="1080" y2="970" stroke="#6B7280" stroke-width="2" stroke-dasharray="6,4"/>
+  <text x="1092" y="978" font-size="24" fill="#334155">SBA sběrnice / pomocné rozhraní</text>
+</svg>

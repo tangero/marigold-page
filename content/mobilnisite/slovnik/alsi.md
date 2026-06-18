@@ -16,7 +16,7 @@ ALSI (Application Level Subscriber Identity) je identifikátor účastníka na a
 
 ## Popis
 
-Application Level Subscriber Identity (ALSI) je klíčový identifikátor v systémech 3GPP, který funguje na aplikační vrstvě a je oddělený od síťových identifikátorů, jako je [IMSI](/mobilnisite/slovnik/imsi/) nebo [MSISDN](/mobilnisite/slovnik/msisdn/). Na rozdíl od síťových identifikátorů vázaných na SIM karty nebo síťová předplatné poskytuje ALSI identitu specifickou pro službu, kterou lze využívat napříč více aplikacemi a službami. Toto oddělení umožňuje poskytovatelům aplikací udržovat vlastní systémy správy identity a zároveň při potřebě pro účely autentizace nebo fakturace korelovat uživatele s jejich síťovými identitami.
+Application Level Subscriber Identity (ALSI) je klíčový identifikátor v systémech 3GPP, který funguje na aplikační vrstvě a je oddělený od síťových identifikátorů, jako je [IMSI](/mobilnisite/slovnik/imsi/) nebo [MSISDN](/mobilnisite/slovnik/msisdn/). Na rozdíl od síťových identifikátorů vázaných na [SIM](/mobilnisite/slovnik/sim/) karty nebo síťová předplatné poskytuje ALSI identitu specifickou pro službu, kterou lze využívat napříč více aplikacemi a službami. Toto oddělení umožňuje poskytovatelům aplikací udržovat vlastní systémy správy identity a zároveň při potřebě pro účely autentizace nebo fakturace korelovat uživatele s jejich síťovými identitami.
 
 Architektura podporující ALSI zahrnuje koordinaci mezi aplikační vrstvou a podkladovou síťovou infrastrukturou. Když uživatel přistupuje ke službě, může aplikační server prostřednictvím standardizovaných rozhraní s jádrem sítě požádat o autentizaci pomocí ALSI. Síť následně namapuje ALSI na odpovídající síťový identifikátor (jako je IMSI), aby ověřila stav předplatného a oprávnění uživatele. Toto mapování typicky spravují autentizační servery a systémy správy identity, které udržují vztahy mezi identitami na aplikační a síťové úrovni.
 
@@ -48,6 +48,7 @@ Historicky zavedení ALSI ve verzi 4 (Release 4) časově souviselo s rozšiřov
 - [IMSI – International Mobile Subscriber Identity](/mobilnisite/slovnik/imsi/)
 - [MSISDN – Mobile Station International Subscriber Directory Number](/mobilnisite/slovnik/msisdn/)
 - [GUTI – Globally Unique Temporary UE Identity](/mobilnisite/slovnik/guti/)
+- [SUPI – Subscription Permanent Identifier](/mobilnisite/slovnik/supi/)
 
 ## Definující specifikace
 

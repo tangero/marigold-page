@@ -16,7 +16,7 @@ DPLMN je veřejná mobilní síť (PLMN), která poskytuje služby a zdroje jád
 
 ## Popis
 
-Donor Public Land Mobile Network (DPLMN) je koncept definovaný ve specifikacích 3GPP, konkrétně v TS 43.052, v kontextu sdílení sítě a lokálních přístupových sítí, jako jsou systémy Home NodeB ([HNB](/mobilnisite/slovnik/hnb/)) nebo femtobuněk. DPLMN označuje PLMN (typicky provozovanou mobilním operátorem), která daruje nebo poskytuje funkce jádra sítě, včetně správy mobility, správy relací a autentizace účastníků, entitě lokální sítě. Tato lokální síť, často malá buňka nebo rezidenční brána, využívá zdroje DPLMN k připojení uživatelských zařízení k širším mobilním službám a funguje jako rozšíření dárcovské síťové infrastruktury.
+Donor Public Land Mobile Network (DPLMN) je koncept definovaný ve specifikacích 3GPP, konkrétně v TS 43.052, v kontextu sdílení sítě a lokálních přístupových sítí, jako jsou systémy Home NodeB ([HNB](/mobilnisite/slovnik/hnb/)) nebo femtobuněk. DPLMN označuje [PLMN](/mobilnisite/slovnik/plmn/) (typicky provozovanou mobilním operátorem), která daruje nebo poskytuje funkce jádra sítě, včetně správy mobility, správy relací a autentizace účastníků, entitě lokální sítě. Tato lokální síť, často malá buňka nebo rezidenční brána, využívá zdroje DPLMN k připojení uživatelských zařízení k širším mobilním službám a funguje jako rozšíření dárcovské síťové infrastruktury.
 
 Z architektonického hlediska DPLMN komunikuje s lokální sítí prostřednictvím standardizovaných referenčních bodů, jako je rozhraní Iuh pro HNBs, aby usnadnila komunikaci řídicí a uživatelské roviny. Prvky jádra sítě DPLMN, jako je Mobility Management Entity ([MME](/mobilnisite/slovnik/mme/)) nebo Access and Mobility Management Function ([AMF](/mobilnisite/slovnik/amf/)) v 5G, zpracovávají procedury pro uživatele lokální sítě, včetně registrace, předávání hovorů a vynucování politik. Lokální síť se naopak spoléhá na DPLMN pro přístup ke službám, jako je hlas, data a IMS, a přitom může fungovat pod jinou identitou PLMN (např. Closed Subscriber Group) pro lokalizovanou správu.
 
@@ -26,7 +26,7 @@ Role DPLMN je klíčová pro umožnění modelů sdílení sítě, jako jsou sí
 
 DPLMN byl zaveden pro podporu sdílení sítě a lokalizovaných přístupových řešení, aby uspokojil potřebu efektivního využití zdrojů a rozšíření pokrytí bez duplikace infrastruktury jádra sítě. Před jeho standardizací nasazení jako femtobuňky často vyžadovala vyhrazená jádra sítí nebo složité integrace, což omezovalo škálovatelnost a interoperabilitu. Koncept, formalizovaný ve vydání 8, umožnil operátorům darovat základní služby malým buňkám, což usnadnilo rezidenční a podniková nasazení využívající stávající sítě operátorů.
 
-Klíčový problém, který DPLMN řeší, je umožnit lokálním sítím (např. HNBs) bezproblémově fungovat prostřednictvím zapůjčení funkcí jádra sítě od dárce PLMN. Tím se snižují náklady na nasazení, zjednodušuje se správa a urychluje se zavádění služeb pro scénáře jako pokrytí v budovách nebo dohody o sdílení sítě. Podporuje také regulační a obchodní modely, kde více zúčastněných stran sdílí infrastrukturu, čímž se zvyšuje efektivita sítě a uživatelský zážitek v různých prostředích.
+Klíčový problém, který DPLMN řeší, je umožnit lokálním sítím (např. HNBs) bezproblémově fungovat prostřednictvím zapůjčení funkcí jádra sítě od dárce [PLMN](/mobilnisite/slovnik/plmn/). Tím se snižují náklady na nasazení, zjednodušuje se správa a urychluje se zavádění služeb pro scénáře jako pokrytí v budovách nebo dohody o sdílení sítě. Podporuje také regulační a obchodní modely, kde více zúčastněných stran sdílí infrastrukturu, čímž se zvyšuje efektivita sítě a uživatelský zážitek v různých prostředích.
 
 ## Klíčové vlastnosti
 
@@ -36,6 +36,10 @@ Klíčový problém, který DPLMN řeší, je umožnit lokálním sítím (např
 - Usnadňuje správu mobility a zpracování relací pro lokální uživatele
 - Umožňuje lokalizovaným sítím fungovat v rámci autentizačních a politických rámců dárce
 - Zlepšuje pokrytí a kapacitu v rezidenčních, podnikových nebo scénářích s neutrálním hostitelem
+
+## Související pojmy
+
+- [PLMN – Public Land Mobile Network](/mobilnisite/slovnik/plmn/)
 
 ## Definující specifikace
 

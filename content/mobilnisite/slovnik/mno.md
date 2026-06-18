@@ -18,9 +18,9 @@ MNO (mobilní síťový operátor) je licencovaná společnost, která poskytuje
 
 Mobile Network Operator (MNO) je primární obchodní a technická entita v ekosystému mobilních telekomunikací. Technicky MNO disponuje vládou udělenou licencí na využívání konkrétního rádiového kmitočtového spektra a provozuje kompletní koncové síťové infrastruktury. Tato infrastruktura je definována architekturami 3GPP a typicky zahrnuje rádiovou přístupovou síť (RAN) s základnovými stanicemi (NodeBs, eNodeBs, gNBs), jádrovou síť (vyvíjející se od jader GSM/UMTS k 5G Core) a přenosovou síť, která je propojuje. MNO je zodpovědné za nasazení, provoz, údržbu a vývoj této celé infrastruktury.
 
-Z architektonické a provozní perspektivy MNO implementuje specifikace 3GPP pro poskytování služeb. To zahrnuje správu identit účastníků (prostřednictvím [HSS](/mobilnisite/slovnik/hss/)/[UDM](/mobilnisite/slovnik/udm/)), vytváření přenosových cest pro uživatelská data, vynucování politik (prostřednictvím PCRF/[PCF](/mobilnisite/slovnik/pcf/)) a zajišťování správy mobility a relací. MNO provozuje Domovskou síť pro své účastníky, která obsahuje hlavní databázi účastníků a je zodpovědná za jejich autentizaci, i když se účastník nachází v roamingu. Když účastník roamuje, navštívená síť MNO komunikuje se sítí domovského MNO, aby službu poskytla. MNO také integruje s externími sítěmi, jako je telefonní síť (PSTN) a internet.
+Z architektonické a provozní perspektivy MNO implementuje specifikace 3GPP pro poskytování služeb. To zahrnuje správu identit účastníků (prostřednictvím [HSS](/mobilnisite/slovnik/hss/)/[UDM](/mobilnisite/slovnik/udm/)), vytváření přenosových cest pro uživatelská data, vynucování politik (prostřednictvím [PCRF](/mobilnisite/slovnik/pcrf/)/[PCF](/mobilnisite/slovnik/pcf/)) a zajišťování správy mobility a relací. MNO provozuje Domovskou síť pro své účastníky, která obsahuje hlavní databázi účastníků a je zodpovědná za jejich autentizaci, i když se účastník nachází v roamingu. Když účastník roamuje, navštívená síť MNO komunikuje se sítí domovského MNO, aby službu poskytla. MNO také integruje s externími sítěmi, jako je telefonní síť ([PSTN](/mobilnisite/slovnik/pstn/)) a internet.
 
-Mimo základní konektivitu role MNO zahrnuje poskytování služeb, včetně hlasových služeb, SMS a datových služeb, stejně jako pokročilejší nabídky, jako je konektivita pro IoT, síťové řezy (network slicing) a edge computing v éře 5G. MNO spravuje kvalitu služeb (QoS), zabezpečení a účtování za tyto služby. V moderních architekturách se koncept MNO rozšířil o role jako poskytovatel Neutral Host nebo facilitátor pro Mobile Virtual Network Operators ([MVNO](/mobilnisite/slovnik/mvno/)), kteří si kapacitu od MNO pronajímají. Referenční technické specifikace (např. týkající se požadavků na služby, managementu a zabezpečení) definují schopnosti a odpovědnosti, které se od MNO v systému 3GPP očekávají.
+Mimo základní konektivitu role MNO zahrnuje poskytování služeb, včetně hlasových služeb, [SMS](/mobilnisite/slovnik/sms/) a datových služeb, stejně jako pokročilejší nabídky, jako je konektivita pro IoT, síťové řezy (network slicing) a edge computing v éře 5G. MNO spravuje kvalitu služeb (QoS), zabezpečení a účtování za tyto služby. V moderních architekturách se koncept MNO rozšířil o role jako poskytovatel Neutral Host nebo facilitátor pro Mobile Virtual Network Operators ([MVNO](/mobilnisite/slovnik/mvno/)), kteří si kapacitu od MNO pronajímají. Referenční technické specifikace (např. týkající se požadavků na služby, managementu a zabezpečení) definují schopnosti a odpovědnosti, které se od MNO v systému 3GPP očekávají.
 
 ## K čemu slouží
 
@@ -40,6 +40,8 @@ Standardy 3GPP poskytují technický rámec, který umožňuje MNO stavět inter
 ## Související pojmy
 
 - [MVNO – Mobile Virtual Network Operator](/mobilnisite/slovnik/mvno/)
+- [PLMN – Public Land Mobile Network](/mobilnisite/slovnik/plmn/)
+- [RAN – Radio Access Network](/mobilnisite/slovnik/ran/)
 - [5GC – 5G Core Network](/mobilnisite/slovnik/5gc/)
 
 ## Definující specifikace

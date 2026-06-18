@@ -16,7 +16,7 @@ AS-OLCM je model řízení služeb v IMS, ve kterém Application Server řídí 
 
 ## Popis
 
-Application Server Outgoing Leg Control Model (AS-OLCM) je základní architektonický model v rámci IP Multimedia Subsystem (IMS) dle 3GPP pro provádění služeb. Definuje interakci mezi Application Server ([AS](/mobilnisite/slovnik/as/)) a Serving-Call Session Control Function (S-CSCF) během navazování relace. V tomto modelu AS funguje jako Back-to-Back User Agent ([B2BUA](/mobilnisite/slovnik/b2bua/)) pro odchozí větev relace, což znamená, že ukončí příchozí SIP dialog od S-CSCF a vytvoří nový, odchozí SIP dialog směrem ke konečnému cíli. To umožňuje AS uplatňovat plnou kontrolu nad parametry relace, směrováním a charakteristikami médií na odchozí větvi.
+Application Server Outgoing Leg Control Model (AS-OLCM) je základní architektonický model v rámci IP Multimedia Subsystem (IMS) dle 3GPP pro provádění služeb. Definuje interakci mezi Application Server ([AS](/mobilnisite/slovnik/as/)) a Serving-Call Session Control Function ([S-CSCF](/mobilnisite/slovnik/s-cscf/)) během navazování relace. V tomto modelu AS funguje jako Back-to-Back User Agent ([B2BUA](/mobilnisite/slovnik/b2bua/)) pro odchozí větev relace, což znamená, že ukončí příchozí [SIP](/mobilnisite/slovnik/sip/) dialog od S-CSCF a vytvoří nový, odchozí SIP dialog směrem ke konečnému cíli. To umožňuje AS uplatňovat plnou kontrolu nad parametry relace, směrováním a charakteristikami médií na odchozí větvi.
 
 Operační tok začíná, když S-CSCF, vykonávající initial Filter Criteria (iFC) z profilu služeb uživatele, přepošle SIP požadavek (např. INVITE) k určenému AS. AS, fungující v režimu [OLCM](/mobilnisite/slovnik/olcm/), tento požadavek přijme a ukončí příchozí větev. Následně požadavek zpracuje na základě své servisní logiky – což může zahrnovat překlad čísla, aplikaci obchodních pravidel nebo interakci s externími databázemi. Po tomto zpracování AS vytvoří nový SIP požadavek směrem k cílové adrese, kterou může být původně zamýšlený cíl nebo jiný cíl určený servisní logikou. Tento nový požadavek tvoří odchozí větev a AS zůstává v signalizační cestě po dobu trvání relace, což umožňuje řízení služeb během hovoru.
 
@@ -24,9 +24,9 @@ Klíčovými komponentami jsou samotný AS, který hostí servisní logiku a fun
 
 ## K čemu slouží
 
-AS-OLCM byl vytvořen, aby poskytl standardizovaný a výkonný mechanismus pro implementaci pokročilých, v síti hostovaných služeb v rámci architektury IMS. Před IMS a jeho definovanými modely řízení služeb byly služby inteligentní sítě ([IN](/mobilnisite/slovnik/in/)) často těsně provázány s jádrem s okruhovým přepojováním, což komplikovalo jejich nasazení a omezovalo inovace. AS-OLCM, představený ve 3GPP Release 99, byl součástí základního IMS rámce navrženého k oddělení servisní logiky od transportního jádra sítě, což umožnilo rychlejší tvorbu a nasazení služeb v prostředí s paketovým přepojováním založeném na SIP.
+AS-OLCM byl vytvořen, aby poskytl standardizovaný a výkonný mechanismus pro implementaci pokročilých, v síti hostovaných služeb v rámci architektury IMS. Před IMS a jeho definovanými modely řízení služeb byly služby inteligentní sítě ([IN](/mobilnisite/slovnik/in/)) často těsně provázány s jádrem s okruhovým přepojováním, což komplikovalo jejich nasazení a omezovalo inovace. AS-OLCM, představený ve 3GPP Release 99, byl součástí základního IMS rámce navrženého k oddělení servisní logiky od transportního jádra sítě, což umožnilo rychlejší tvorbu a nasazení služeb v prostředí s paketovým přepojováním založeném na [SIP](/mobilnisite/slovnik/sip/).
 
-Řeší problém, jak umožnit externímu Application Server aktivně řídit a modifikovat relaci poté, co ji uživatel zahájil. Bez takového modelu by [AS](/mobilnisite/slovnik/as/) mohl relaci pouze sledovat nebo na ni pasivně působit. [OLCM](/mobilnisite/slovnik/olcm/) konkrétně řeší případy užití, kdy servisní logika musí změnit cíl nebo základní parametry relace, jako je například bezpodmínečné přesměrování hovoru, řešení přenositelnosti čísel nebo překlad firemního číselníku. Poskytuje nezbytné architektonické prostředky pro AS k přerušení SIP dialogu a jeho znovuvytvoření, což je schopnost klíčová pro mnoho tradičních telefonních služeb přenesených do IP domény.
+Řeší problém, jak umožnit externímu Application Server aktivně řídit a modifikovat relaci poté, co ji uživatel zahájil. Bez takového modelu by [AS](/mobilnisite/slovnik/as/) mohl relaci pouze sledovat nebo na ni pasivně působit. OLCM konkrétně řeší případy užití, kdy servisní logika musí změnit cíl nebo základní parametry relace, jako je například bezpodmínečné přesměrování hovoru, řešení přenositelnosti čísel nebo překlad firemního číselníku. Poskytuje nezbytné architektonické prostředky pro AS k přerušení SIP dialogu a jeho znovuvytvoření, což je schopnost klíčová pro mnoho tradičních telefonních služeb přenesených do IP domény.
 
 Motivací bylo zajistit, aby IMS dokázalo podporovat bohatý servisní portfolium dědičných sítí a zároveň umožňovalo nové multimediální služby. Definováním jasných modelů, jako je OLCM, zajistilo 3GPP předvídatelné chování služeb a to, že AS od různých výrobců mohou interoperovat s jakýmkoli IMS jádrem odpovídajícím standardům. To podpořilo konkurenční ekosystém pro vývoj aplikací a bylo klíčové pro komerční úspěch IMS jako platformy pro poskytování služeb.
 
@@ -41,6 +41,7 @@ Motivací bylo zajistit, aby IMS dokázalo podporovat bohatý servisní portfoli
 
 ## Související pojmy
 
+- [S-CSCF – Serving Call Session Control Function](/mobilnisite/slovnik/s-cscf/)
 - [B2BUA – Back-to-Back User Agent](/mobilnisite/slovnik/b2bua/)
 
 ## Definující specifikace

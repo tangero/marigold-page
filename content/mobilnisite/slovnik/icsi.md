@@ -16,9 +16,9 @@ ICSI je jedinečný identifikátor používaný v rámci IMS k rozlišení různ
 
 ## Popis
 
-IMS Communication Service Identifier (ICSI) je standardizovaný alfanumerický token (např. 'urn:urn-7:3gpp-service.ims.icsi.mmtel' pro Multimedia Telephony) definovaný organizací 3GPP. Je klíčovým mechanismem pro identifikaci a diferenciaci služeb v rámci IP Multimedia Subsystem. ICSI je asociován s konkrétní IMS komunikační službou (ICS), což je standardizovaná sada schopností a procedur (jako MMTel pro telefonii). Když User Equipment (UE) zahajuje nebo přijímá relaci, zahrne relevantní hodnotu ICSI do signalizace SIP, typicky v hlavičkovém poli Contact nebo P-Asserted-Service.
+IMS Communication Service Identifier (ICSI) je standardizovaný alfanumerický token (např. 'urn:urn-7:3gpp-service.ims.icsi.mmtel' pro Multimedia Telephony) definovaný organizací 3GPP. Je klíčovým mechanismem pro identifikaci a diferenciaci služeb v rámci IP Multimedia Subsystem. ICSI je asociován s konkrétní IMS komunikační službou ([ICS](/mobilnisite/slovnik/ics/)), což je standardizovaná sada schopností a procedur (jako MMTel pro telefonii). Když User Equipment (UE) zahajuje nebo přijímá relaci, zahrne relevantní hodnotu ICSI do signalizace [SIP](/mobilnisite/slovnik/sip/), typicky v hlavičkovém poli Contact nebo P-Asserted-Service.
 
-Při přijetí SIP požadavku obsahujícího ICSI mohou síťové prvky jako [P-CSCF](/mobilnisite/slovnik/p-cscf/), S-CSCF a Application Servers ([AS](/mobilnisite/slovnik/as/)) tento identifikátor zkontrolovat. To jim umožní přesně určit, která služba je požadována. Tato identifikace spouští uplatnění služebně specifických politik, směrovací logiky a účtovacích pravidel. Například VoLTE hovor identifikovaný svým ICSI může být směrován na konkrétní Telephony Application Server (TAS), podléhat jiné prioritizaci QoS (Quality of Service) než běžná datová relace a být účtován podle tarifních plánů pro hlas.
+Při přijetí SIP požadavku obsahujícího ICSI mohou síťové prvky jako [P-CSCF](/mobilnisite/slovnik/p-cscf/), [S-CSCF](/mobilnisite/slovnik/s-cscf/) a Application Servers ([AS](/mobilnisite/slovnik/as/)) tento identifikátor zkontrolovat. To jim umožní přesně určit, která služba je požadována. Tato identifikace spouští uplatnění služebně specifických politik, směrovací logiky a účtovacích pravidel. Například VoLTE hovor identifikovaný svým ICSI může být směrován na konkrétní Telephony Application Server ([TAS](/mobilnisite/slovnik/tas/)), podléhat jiné prioritizaci QoS (Quality of Service) než běžná datová relace a být účtován podle tarifních plánů pro hlas.
 
 ICSI spolupracuje s IMS Application Reference Identifier ([IARI](/mobilnisite/slovnik/iari/)), který identifikuje konkrétní aplikace v rámci služby. ICSI poskytuje širší servisní kontext. S-CSCF používá filtrační kritéria v servisním profilu uživatele, která mohou být porovnána s ICSI, aby rozhodl, zda má relaci předat konkrétnímu Application Serveru. To umožňuje modulární architekturu služeb, kde nové služby lze zavést definováním nového ICSI a odpovídající síťové logiky bez zásadních změn základního směrovacího mechanismu IMS. ICSI je nezbytný pro umožnění více souběžných služeb v rámci jedné registrace IMS a pro zajištění zpětné a dopředné kompatibility mezi UE a síťovými uzly různých verzí.
 
@@ -26,7 +26,7 @@ ICSI spolupracuje s IMS Application Reference Identifier ([IARI](/mobilnisite/sl
 
 Vytvoření ICSI bylo motivováno potřebou překročit monolitický koncept 'IMS služby' a přejít k prostředí, kde může koexistovat více různých komunikačních služeb, které lze nezávisle vyvíjet, nasazovat a spravovat na stejné základní infrastruktuře. Před jeho standardizací byla identifikace služby často implicitní nebo založená na nestandardních rozšířeních, což vedlo k problémům s interoperabilitou a obtížím při zavádění nových služeb.
 
-Řeší problém jednoznačného výběru a vyvolání služby. Ve scénáři, kdy zařízení uživatele podporuje VoLTE, ViLTE a RCS chat, potřebuje síť vědět, která konkrétní služba je pro danou relaci používána, aby mohla uplatnit správné zacházení (např. směrování pro tísňové služby u hlasu, vyjednávání video kodeku pro video, ukládání a přeposílání zpráv u chatu). ICSI poskytuje tento jasný, standardizovaný signál.
+Řeší problém jednoznačného výběru a vyvolání služby. Ve scénáři, kdy zařízení uživatele podporuje VoLTE, ViLTE a [RCS](/mobilnisite/slovnik/rcs/) chat, potřebuje síť vědět, která konkrétní služba je pro danou relaci používána, aby mohla uplatnit správné zacházení (např. směrování pro tísňové služby u hlasu, vyjednávání video kodeku pro video, ukládání a přeposílání zpráv u chatu). ICSI poskytuje tento jasný, standardizovaný signál.
 
 Dále umožňuje efektivní spouštění služeb a vynucování politik. Síťoví operátoři mohou konfigurovat pravidla na základě hodnot ICSI, aby směrovali provoz na příslušné aplikační servery, uplatňovali specifické QoS profily a implementovali přesné účtování. Tato granularita je základní pro komerční nabídky služeb, umožňuje operátorům vytvářet diferencované servisní plány a zajistit konzistentní uživatelský zážitek pro každý typ komunikační služby. ICSI se stal jedním ze základních kamenů komercializace IMS, počínaje MMTel (VoLTE/ViLTE) a rozšiřujíc se na další služby.
 
@@ -44,6 +44,7 @@ Dále umožňuje efektivní spouštění služeb a vynucování politik. Síťov
 - [IMS – IP Multimedia Subsystem](/mobilnisite/slovnik/ims/)
 - [MMTEL – Multimedia Telephony Service for IMS](/mobilnisite/slovnik/mmtel/)
 - [IARI – IMS Application Reference Identifier](/mobilnisite/slovnik/iari/)
+- [S-CSCF – Serving Call Session Control Function](/mobilnisite/slovnik/s-cscf/)
 
 ## Definující specifikace
 

@@ -16,7 +16,7 @@ NLSML je značkovací jazyk založený na XML, definovaný konsorciem 3GPP, pro 
 
 ## Popis
 
-Natural Language Semantics Markup Language (NLSML) je schéma XML definované v 3GPP TS 23.333. Slouží jako standardizovaný datový formát pro předání sémantické interpretace přirozeného jazykového projevu uživatele, typicky pocházejícího ze systému rozpoznávání řeči. Když uživatel vysloví příkaz nebo dotaz směrem k síťové službě (např. "zavolej Janu Novákovi" nebo "jaké je počasí v Praze?"), automatické rozpoznávání řeči ([ASR](/mobilnisite/slovnik/asr/)) převede zvuk na text. Komponenty pro porozumění přirozenému jazyku (NLU) následně tento text analyzují, aby extrahovaly význam a záměr. NLSML poskytuje společnou strukturu pro reprezentaci této extrahované sémantiky ve strojově čitelném formátu.
+Natural Language Semantics Markup Language (NLSML) je schéma [XML](/mobilnisite/slovnik/xml/) definované v 3GPP TS 23.333. Slouží jako standardizovaný datový formát pro předání sémantické interpretace přirozeného jazykového projevu uživatele, typicky pocházejícího ze systému rozpoznávání řeči. Když uživatel vysloví příkaz nebo dotaz směrem k síťové službě (např. "zavolej Janu Novákovi" nebo "jaké je počasí v Praze?"), automatické rozpoznávání řeči ([ASR](/mobilnisite/slovnik/asr/)) převede zvuk na text. Komponenty pro porozumění přirozenému jazyku (NLU) následně tento text analyzují, aby extrahovaly význam a záměr. NLSML poskytuje společnou strukturu pro reprezentaci této extrahované sémantiky ve strojově čitelném formátu.
 
 Struktura dokumentu NLSML zahrnuje elementy pro popis výsledků interpretace. Mezi klíčové komponenty patří element 'interpretation', který obsahuje jednu nebo více možných interpretací promluvy, každou s přidruženým skóre spolehlivosti. V rámci jedné interpretace jsou zakódovány podrobnosti jako identifikovaná 'action' (např. 'dial', 'search'), 'input' módy a 'instance' data (např. jméno kontaktu 'Jan Novák' pro akci volání). Tato strukturovaná reprezentace umožňuje přijímající aplikační server (např. server pro řízení hlasových hovorů nebo informační služba) jednoznačně porozumět uživatelskému požadavku bez nutnosti znovu analyzovat původní text, což umožňuje spolehlivé provedení zamýšlené služby.
 
@@ -42,6 +42,7 @@ Jeho vývoj, počínaje Release 7, byl motivován růstem IMS a snahou nabízet 
 - [IMS – IP Multimedia Subsystem](/mobilnisite/slovnik/ims/)
 - [MRF – Multimedia Resource Function](/mobilnisite/slovnik/mrf/)
 - [ASR – Automatic Speech Recognition](/mobilnisite/slovnik/asr/)
+- [XML – Extensible Markup Language](/mobilnisite/slovnik/xml/)
 
 ## Definující specifikace
 

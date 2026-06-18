@@ -16,9 +16,9 @@ FPACH je TDD-specifický (pouze pro duplex s dělením času) uplinkový kanál 
 
 ## Popis
 
-Fast Physical Access Channel (FPACH) je kanál fyzické vrstvy definovaný v 3GPP UTRA (UMTS Terrestrial Radio Access) v režimu TDD (Time Division Duplex), specifikovaný v TS 25.433 (rozhraní UTRAN Iub) a TS 37.320 (sběr rádiových měření). Funguje výhradně v TDD variantě UMTS (3G) a nepoužívá se v režimu [FDD](/mobilnisite/slovnik/fdd/) (Frequency Division Duplex). FPACH je uplinkový kanál využívaný během procedury náhodného přístupu k usnadnění rychlé synchronizace a udělení přístupu pro uživatelské zařízení (UE), které se pokouší navázat spojení se sítí.
+Fast Physical Access Channel (FPACH) je kanál fyzické vrstvy definovaný v 3GPP [UTRA](/mobilnisite/slovnik/utra/) (UMTS Terrestrial Radio Access) v režimu [TDD](/mobilnisite/slovnik/tdd/) (Time Division Duplex), specifikovaný v TS 25.433 (rozhraní [UTRAN](/mobilnisite/slovnik/utran/) Iub) a TS 37.320 (sběr rádiových měření). Funguje výhradně v TDD variantě UMTS (3G) a nepoužívá se v režimu [FDD](/mobilnisite/slovnik/fdd/) (Frequency Division Duplex). FPACH je uplinkový kanál využívaný během procedury náhodného přístupu k usnadnění rychlé synchronizace a udělení přístupu pro uživatelské zařízení (UE), které se pokouší navázat spojení se sítí.
 
-Z architektonického hlediska je FPACH vysílán Node B (základnovou stanicí) jako odpověď na přístupové preambule odeslané UE na Physical Random Access Channel (PRACH). Když chce UE zahájit komunikaci, odešle náhodně vybranou preambuli. Node B tuto preambuli detekuje a odpoví informací o časovém přizpůsobení a udělením přístupu na FPACH. To umožňuje UE rychle zarovnat časování svého přenosu se sítí, což je v TDD systémech klíčové, protože přesné časování je nezbytné k zabránění interference mezi uplinkovými a downlinkovými časovými sloty.
+Z architektonického hlediska je FPACH vysílán Node B (základnovou stanicí) jako odpověď na přístupové preambule odeslané UE na Physical Random Access Channel ([PRACH](/mobilnisite/slovnik/prach/)). Když chce UE zahájit komunikaci, odešle náhodně vybranou preambuli. Node B tuto preambuli detekuje a odpoví informací o časovém přizpůsobení a udělením přístupu na FPACH. To umožňuje UE rychle zarovnat časování svého přenosu se sítí, což je v TDD systémech klíčové, protože přesné časování je nezbytné k zabránění interference mezi uplinkovými a downlinkovými časovými sloty.
 
 Kanál funguje jako mechanismus zpětné vazby s nízkou latencí. Po přijetí platné preambule Node B vypočítá potřebný timing advance na základě změřeného zpoždění šíření a tuto informaci spolu s detaily alokace prostředků odešle prostřednictvím FPACH. UE následně podle toho upraví časování svého vysílání a pokračuje odesláním vlastní zprávy náhodného přístupu na přidělených prostředcích. Tento dvoukrokový proces (preambule + odpověď přes FPACH) snižuje pravděpodobnost kolizí a urychluje přístup ve srovnání s konkurenčními metodami bez zpětné vazby.
 
@@ -26,7 +26,7 @@ Mezi klíčové součásti zapojené do procesu patří jednotka fyzické vrstvy
 
 ## K čemu slouží
 
-FPACH byl vytvořen k řešení specifických výzev náhodného přístupu v režimu UTRA TDD, kde je přesné časové zarovnání kritičtější než v [FDD](/mobilnisite/slovnik/fdd/) kvůli časově sdílenému uplinkovému/downlinkovému přenosu. V raných návrzích TDD systémů bez rychlé zpětné vazby trpěly procedury náhodného přístupu vysokou latencí a mírou kolizí, zejména v buňkách s velkým zpožděním šíření nebo mnoha simultánními uživateli. FPACH poskytl mechanismus pro okamžitou časovou korekci, což umožnilo rychlejší a spolehlivější navázání spojení.
+FPACH byl vytvořen k řešení specifických výzev náhodného přístupu v režimu [UTRA](/mobilnisite/slovnik/utra/) [TDD](/mobilnisite/slovnik/tdd/), kde je přesné časové zarovnání kritičtější než v [FDD](/mobilnisite/slovnik/fdd/) kvůli časově sdílenému uplinkovému/downlinkovému přenosu. V raných návrzích TDD systémů bez rychlé zpětné vazby trpěly procedury náhodného přístupu vysokou latencí a mírou kolizí, zejména v buňkách s velkým zpožděním šíření nebo mnoha simultánními uživateli. FPACH poskytl mechanismus pro okamžitou časovou korekci, což umožnilo rychlejší a spolehlivější navázání spojení.
 
 Historicky, když 3GPP vyvíjelo UMTS TDD jako alternativu k FDD, potřebovalo optimalizované procedury k využití výhod TDD, jako je flexibilní využití spektra. Proces náhodného přístupu ve FDD spoléhal na jiné mechanismy, které byly méně citlivé na časové chyby. FPACH byl zaveden, aby přizpůsobil přístupovou proceduru charakteristikám TDD a vyřešil problémy jako časová nezarovnanost, která mohla způsobit interference mezi následnými časovými sloty. Umožnil UE rychle synchronizovat své přenosy, což snížilo potřebu prodloužených sekvencí preambulí a zlepšilo celkovou kapacitu systému.
 
@@ -40,6 +40,10 @@ Motivace pro FPACH vycházela z touhy dosáhnout přístupu s nízkou latencí s
 - Snižuje latenci náhodného přístupu a pravděpodobnost kolizí
 - Funguje ve spojení s PRACH (Physical Random Access Channel)
 - Umožňuje rychlé časové zarovnání uplinku v režimu TDD
+
+## Související pojmy
+
+- [PRACH – Physical Random Access Channel](/mobilnisite/slovnik/prach/)
 
 ## Definující specifikace
 

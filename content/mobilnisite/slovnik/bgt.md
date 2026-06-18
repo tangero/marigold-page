@@ -16,7 +16,7 @@ BGT je časový ochranný interval vložený mezi po sobě jdoucí přenosové b
 
 ## Popis
 
-Block Guard Time (BGT) je základní časový parametr v buňkových systémech s časovým dělením (TDMA) standardizovaných 3GPP. Představuje pečlivě vypočítaný časový interval vložený mezi po sobě jdoucí přenosové bloky nebo bursty v rámci struktury rádiového rámce. Tato ochranná perioda slouží jako nárazníková zóna, která kompenzuje časové nepřesnosti, zpoždění šíření a nedokonalosti synchronizace, které se přirozeně vyskytují v mobilních komunikačních prostředích.
+Block Guard Time (BGT) je základní časový parametr v buňkových systémech s časovým dělením ([TDMA](/mobilnisite/slovnik/tdma/)) standardizovaných 3GPP. Představuje pečlivě vypočítaný časový interval vložený mezi po sobě jdoucí přenosové bloky nebo bursty v rámci struktury rádiového rámce. Tato ochranná perioda slouží jako nárazníková zóna, která kompenzuje časové nepřesnosti, zpoždění šíření a nedokonalosti synchronizace, které se přirozeně vyskytují v mobilních komunikačních prostředích.
 
 Technická implementace BGT zahrnuje přesné časové výpočty založené na poloměru buňky, maximálním očekávaném zpoždění šíření a synchronizačních schopnostech terminálu. V systémech GSM/[EDGE](/mobilnisite/slovnik/edge/) je BGT implementován jako součást struktury burstu, přičemž jsou definovány konkrétní délky pro různé typy burstů (normální burst, přístupový burst, burst pro frekvenční korekci, synchronizační burst). Ochranný čas je typicky implementován jako perioda ticha při přenosu nebo se specifickými bitovými vzory, které usnadňují synchronizaci přijímače. Délka se liší v závislosti na konkrétní aplikaci, přičemž přístupové bursty vyžadují delší ochranné časy, aby vyhověly počátečním procedurám náhodného přístupu, kdy ještě nebyl stanoven časový předstih.
 
@@ -26,7 +26,7 @@ Role BGT přesahuje rámec jednoduché časové ochrany. Umožňuje efektivní f
 
 ## K čemu slouží
 
-BGT byl vytvořen, aby řešil základní časové výzvy v TDMA buňkových systémech, zejména v sítích GSM. V systémech s časovým dělením je přesné časování zásadní, protože více uživatelů sdílí stejný frekvenční kanál vysíláním v různých časových slotech. Bez správných ochranných intervalů by se signály ze sousedních časových slotů překrývaly kvůli zpoždění šíření, což by způsobovalo intersymbolovou interferenci, která zhoršuje kvalitu signálu a zvyšuje míru bitových chyb.
+BGT byl vytvořen, aby řešil základní časové výzvy v [TDMA](/mobilnisite/slovnik/tdma/) buňkových systémech, zejména v sítích GSM. V systémech s časovým dělením je přesné časování zásadní, protože více uživatelů sdílí stejný frekvenční kanál vysíláním v různých časových slotech. Bez správných ochranných intervalů by se signály ze sousedních časových slotů překrývaly kvůli zpoždění šíření, což by způsobovalo intersymbolovou interferenci, která zhoršuje kvalitu signálu a zvyšuje míru bitových chyb.
 
 Před standardizovanou implementací ochranného času se rané mobilní systémy potýkaly s problémy časové synchronizace, zejména ve velkých buňkách, kde mohla být zpoždění šíření významná. Různé vzdálenosti mezi mobilními stanicemi a základnovými stanicemi znamenaly, že signály přicházely v různých časech a mohly přetékat do sousedních časových slotů. BGT poskytuje systematické řešení vytvořením ochranného nárazníku, který těmto časovým variacím vyhoví, a zároveň zachovává spektrální účinnost.
 
@@ -40,6 +40,10 @@ Tato technologie řeší problém udržení ortogonality v časové doméně př
 - Podporuje hierarchické struktury buněk s různými velikostmi
 - Usnadňuje předávání hovoru mezi buňkami s časovými rozdíly
 - Poskytuje rezervu pro nepřesnosti synchronizace hodin
+
+## Související pojmy
+
+- [TDMA – Time Division Multiple Access](/mobilnisite/slovnik/tdma/)
 
 ## Definující specifikace
 

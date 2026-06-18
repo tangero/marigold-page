@@ -16,13 +16,13 @@ CMM je protokol 3GPP, který spravuje mobilitu a sledování polohy mobilních z
 
 ## Popis
 
-Circuit Mobility Management (CMM) je základní protokolová vrstva v architektuře 3GPP, speciálně navržená pro správu mobility uživatelského zařízení (UE) v doménách s přepojováním okruhů ([CS](/mobilnisite/slovnik/cs/)) sítí GSM a UMTS. Funguje jako část podsložky Mobility Management ([MM](/mobilnisite/slovnik/mm/)), která se nachází nad vrstvou Radio Resource (RR) a pod vrstvou Connection Management ([CM](/mobilnisite/slovnik/cm/)) v protokolovém zásobníku. Primární funkcí CMM je udržovat přehled o poloze UE na detailní úrovni (Location Area nebo Routing Area), aby umožnilo efektivní doručování hovorů, a spravovat procedury vyžadované při pohybu UE mezi různými pokrytými oblastmi sítě.
+Circuit Mobility Management (CMM) je základní protokolová vrstva v architektuře 3GPP, speciálně navržená pro správu mobility uživatelského zařízení (UE) v doménách s přepojováním okruhů ([CS](/mobilnisite/slovnik/cs/)) sítí GSM a UMTS. Funguje jako část podsložky Mobility Management ([MM](/mobilnisite/slovnik/mm/)), která se nachází nad vrstvou Radio Resource ([RR](/mobilnisite/slovnik/rr/)) a pod vrstvou Connection Management ([CM](/mobilnisite/slovnik/cm/)) v protokolovém zásobníku. Primární funkcí CMM je udržovat přehled o poloze UE na detailní úrovni (Location Area nebo Routing Area), aby umožnilo efektivní doručování hovorů, a spravovat procedury vyžadované při pohybu UE mezi různými pokrytými oblastmi sítě.
 
-Protokol funguje prostřednictvím řady dobře definovaných procedur iniciovaných buď sítí, nebo mobilním zařízením. Klíčové procedury zahrnují Location Updating (normální, periodické a [IMSI](/mobilnisite/slovnik/imsi/) attach/detach), které umožňují Home Location Register ([HLR](/mobilnisite/slovnik/hlr/)) a Visitor Location Register (VLR) sítě sledovat aktuální obsluhovanou oblast UE. Autentizační a šifrovací procedury jsou také iniciovány vrstvou CMM za účelem ověření identity účastníka a zabezpečení rádiového spoje. Dále CMM spravuje přípravu a provedení předání hovoru na síťové úrovni a koordinuje s vrstvou RR ohledně rádiových aspektů, když se UE během aktivního hovoru pohybuje mezi buňkami.
+Protokol funguje prostřednictvím řady dobře definovaných procedur iniciovaných buď sítí, nebo mobilním zařízením. Klíčové procedury zahrnují Location Updating (normální, periodické a [IMSI](/mobilnisite/slovnik/imsi/) attach/detach), které umožňují Home Location Register ([HLR](/mobilnisite/slovnik/hlr/)) a Visitor Location Register ([VLR](/mobilnisite/slovnik/vlr/)) sítě sledovat aktuální obsluhovanou oblast UE. Autentizační a šifrovací procedury jsou také iniciovány vrstvou CMM za účelem ověření identity účastníka a zabezpečení rádiového spoje. Dále CMM spravuje přípravu a provedení předání hovoru na síťové úrovni a koordinuje s vrstvou RR ohledně rádiových aspektů, když se UE během aktivního hovoru pohybuje mezi buňkami.
 
 Z architektonického hlediska je funkčnost CMM distribuována mezi UE a jádrovou síť, konkrétně Mobile Switching Center ([MSC](/mobilnisite/slovnik/msc/)) a s ním asociovaný VLR. Entita CMM v UE komunikuje s entitou CMM sítě pomocí specifických MM zpráv přes rádiové rozhraní. Stavový automat protokolu v UE může být ve stavech jako MM IDLE (žádné MM spojení), MM WAIT-FOR-NETWORK-COMMAND nebo MM CONNECTION-ACTIVE. Síť používá v procedurách CMM jako klíčové identifikátory International Mobile Subscriber Identity (IMSI) nebo Temporary Mobile Subscriber Identity (TMSI).
 
-Role CMM je klíčová pro základní fungování sítí 2G a 3G. Zajišťuje, že jádrová síť s přepojováním okruhů může vždy směrovat příchozí hlasové hovory na správný MSC a základnovou stanici, která účastníka obsluhuje. Spravuje signalizační zátěž související s mobilitou v síti definováním různých typů aktualizací a časovačů. Ačkoli byl z velké části nahrazen [GPRS](/mobilnisite/slovnik/gprs/) Mobility Management ([GMM](/mobilnisite/slovnik/gmm/)) a později Evolved Packet System Mobility Management (EMM) pro paketové služby, CMM zůstal základním kamenem pro správu mobility hlasových služeb v legacy sítích, rozhraním s protokoly řízení hovoru pro navázání a udržení spojení s přepojováním okruhů.
+Role CMM je klíčová pro základní fungování sítí 2G a 3G. Zajišťuje, že jádrová síť s přepojováním okruhů může vždy směrovat příchozí hlasové hovory na správný MSC a základnovou stanici, která účastníka obsluhuje. Spravuje signalizační zátěž související s mobilitou v síti definováním různých typů aktualizací a časovačů. Ačkoli byl z velké části nahrazen GPRS Mobility Management (GMM) a později Evolved Packet System Mobility Management (EMM) pro paketové služby, CMM zůstal základním kamenem pro správu mobility hlasových služeb v legacy sítích, rozhraním s protokoly řízení hovoru pro navázání a udržení spojení s přepojováním okruhů.
 
 ## K čemu slouží
 
@@ -45,8 +45,10 @@ Historicky byl CMM základním kamenem úspěchu systému GSM, poskytujíc spole
 
 - [GMM – Global Multimedia Mobility](/mobilnisite/slovnik/gmm/)
 - [EMM – Evolved Mobility Management](/mobilnisite/slovnik/emm/)
+- [TMSI – Temporary Mobile Subscriber Identifier](/mobilnisite/slovnik/tmsi/)
 - [IMSI – International Mobile Subscriber Identity](/mobilnisite/slovnik/imsi/)
 - [MSC – Mobile Services Switching Centre](/mobilnisite/slovnik/msc/)
+- [VLR – Visitor Location Register](/mobilnisite/slovnik/vlr/)
 
 ## Definující specifikace
 

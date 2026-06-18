@@ -16,11 +16,11 @@ GVNS je servisní rámec, který umožňuje bezproblémové globální roamován
 
 ## Popis
 
-Global Virtual Network Service (GVNS) je komplexní servisní architektura definovaná v dokumentu 3GPP TS 29.163. Funguje jako rámec na servisní vrstvě navržený k usnadnění globálního poskytování služeb vytvořením virtualizovaného, konzistentního síťového prostředí pro účastníky. Architektura je postavena na IP Multimedia Subsystem (IMS) a využívá stávající funkce jádra sítě, ale zavádí smlouvy o úrovni služeb (SLA) a politiky, které jsou centrálně spravovány, aby poskytly jednotný uživatelský zážitek. V podstatě vytváří 'virtuální domovskou síť' pro roamující uživatele, která maskuje specifické konfigurace a možnosti podkladové navštívené sítě.
+Global Virtual Network Service (GVNS) je komplexní servisní architektura definovaná v dokumentu 3GPP TS 29.163. Funguje jako rámec na servisní vrstvě navržený k usnadnění globálního poskytování služeb vytvořením virtualizovaného, konzistentního síťového prostředí pro účastníky. Architektura je postavena na IP Multimedia Subsystem (IMS) a využívá stávající funkce jádra sítě, ale zavádí smlouvy o úrovni služeb ([SLA](/mobilnisite/slovnik/sla/)) a politiky, které jsou centrálně spravovány, aby poskytly jednotný uživatelský zážitek. V podstatě vytváří 'virtuální domovskou síť' pro roamující uživatele, která maskuje specifické konfigurace a možnosti podkladové navštívené sítě.
 
-V jádru GVNS funguje tak, že stanovuje sadu standardizovaných servisních profilů a politik, které jsou rozpoznávány a vynucovány napříč účastnícími se sítěmi operátorů. Když uživatel roamuje, jeho servisní požadavky jsou zachyceny a zpracovány podle jeho profilu GVNS, který je načten z jeho domovské sítě. To zahrnuje koordinaci funkcí Policy and Charging Control (PCC), aplikačních funkcí a potenciálně funkcí pro vystavení servisních schopností. Zdroje navštívené sítě jsou přiděleny a nakonfigurovány tak, aby splňovaly záruky SLA definované v uživatelském předplatném GVNS, jako je minimální šířka pásma, latence nebo přístup ke specifickým službám založeným na IMS, jako je VoLTE.
+V jádru GVNS funguje tak, že stanovuje sadu standardizovaných servisních profilů a politik, které jsou rozpoznávány a vynucovány napříč účastnícími se sítěmi operátorů. Když uživatel roamuje, jeho servisní požadavky jsou zachyceny a zpracovány podle jeho profilu GVNS, který je načten z jeho domovské sítě. To zahrnuje koordinaci funkcí Policy and Charging Control ([PCC](/mobilnisite/slovnik/pcc/)), aplikačních funkcí a potenciálně funkcí pro vystavení servisních schopností. Zdroje navštívené sítě jsou přiděleny a nakonfigurovány tak, aby splňovaly záruky SLA definované v uživatelském předplatném GVNS, jako je minimální šířka pásma, latence nebo přístup ke specifickým službám založeným na IMS, jako je VoLTE.
 
-Klíčové komponenty v architektuře GVNS zahrnují GVNS Application Server, který hostuje servisní logiku a uživatelské profily, a interakci s architekturou PCC (PCRF a PCEF) pro dynamické vynucování politik. Rozhraní má také s účtovacími systémy, aby zajistilo přesné účtování za rozšířené roamové služby. Protokol specifikovaný v TS 29.163 definuje zprávy a procedury mezi entitami obsluhující sítě a platformou GVNS v domovské síti. Jeho rolí je oddělit poskytování služeb od fyzické topologie sítě, což operátorům umožňuje nabízet prémiové, předvídatelné roamové zážitky a podporovat globální interoperabilitu služeb nad rámec základní konektivity.
+Klíčové komponenty v architektuře GVNS zahrnují GVNS Application Server, který hostuje servisní logiku a uživatelské profily, a interakci s architekturou PCC ([PCRF](/mobilnisite/slovnik/pcrf/) a [PCEF](/mobilnisite/slovnik/pcef/)) pro dynamické vynucování politik. Rozhraní má také s účtovacími systémy, aby zajistilo přesné účtování za rozšířené roamové služby. Protokol specifikovaný v TS 29.163 definuje zprávy a procedury mezi entitami obsluhující sítě a platformou GVNS v domovské síti. Jeho rolí je oddělit poskytování služeb od fyzické topologie sítě, což operátorům umožňuje nabízet prémiové, předvídatelné roamové zážitky a podporovat globální interoperabilitu služeb nad rámec základní konektivity.
 
 ## K čemu slouží
 
@@ -40,6 +40,7 @@ Hlavní problém, který GVNS řeší, je nedostatek kontinuity služeb a záruk
 ## Související pojmy
 
 - [IMS – IP Multimedia Subsystem](/mobilnisite/slovnik/ims/)
+- [PCC – Performance-oriented Congestion Control](/mobilnisite/slovnik/pcc/)
 
 ## Definující specifikace
 

@@ -16,13 +16,13 @@ CI-RNTI je identifikátor specifický pro UE používaný v 5G NR k signalizaci 
 
 ## Popis
 
-Cancellation Indication Radio Network Temporary Identifier (CI-RNTI) je specializovaný typ RNTI zavedený v 5G NR pro podporu mechanismů dynamického zrušení uplinkových přenosů. Na rozdíl od konvenčních RNTI, které plánují přenosy, CI-RNTI funguje v opačném směru – poskytuje síti mechanismus k dynamickému zrušení již naplánovaných uplinkových přenosů od UE. Tento identifikátor je konfigurován pro každé UE prostřednictvím signalizace [RRC](/mobilnisite/slovnik/rrc/) jako součást konfigurace Physical Uplink Shared Channel (PUSCH), konkrétně v informačním elementu PUSCH-Config, kde pole ci-RNTI nese 16bitovou hodnotu.
+Cancellation Indication Radio Network Temporary Identifier (CI-RNTI) je specializovaný typ [RNTI](/mobilnisite/slovnik/rnti/) zavedený v 5G NR pro podporu mechanismů dynamického zrušení uplinkových přenosů. Na rozdíl od konvenčních RNTI, které plánují přenosy, CI-RNTI funguje v opačném směru – poskytuje síti mechanismus k dynamickému zrušení již naplánovaných uplinkových přenosů od UE. Tento identifikátor je konfigurován pro každé UE prostřednictvím signalizace [RRC](/mobilnisite/slovnik/rrc/) jako součást konfigurace Physical Uplink Shared Channel ([PUSCH](/mobilnisite/slovnik/pusch/)), konkrétně v informačním elementu PUSCH-Config, kde pole ci-RNTI nese 16bitovou hodnotu.
 
-Pokud je nakonfigurován, CI-RNTI umožňuje gNB vysílat Downlink Control Information ([DCI](/mobilnisite/slovnik/dci/)) formátu 2_4 na Physical Downlink Control Channel ([PDCCH](/mobilnisite/slovnik/pdcch/)). Tento DCI formát obsahuje indikaci zrušení, která se vztahuje na specifické časově-frekvenční zdroje. UE monitoruje PDCCH pro DCI formát 2_4 zakódovaný (scrambled) s jejím přiřazeným CI-RNTI. Po úspěšném dekódování UE extrahuje indikaci zrušení, která specifikuje, které z jejích naplánovaných uplinkových přenosů mají být zrušeny. Indikace zahrnuje parametry jako počáteční symbol, délku ve symbolech a postižené frekvenční zdroje, což umožňuje přesné zrušení částí naplánovaných PUSCH nebo PUCCH přenosů.
+Pokud je nakonfigurován, CI-RNTI umožňuje gNB vysílat Downlink Control Information ([DCI](/mobilnisite/slovnik/dci/)) formátu 2_4 na Physical Downlink Control Channel ([PDCCH](/mobilnisite/slovnik/pdcch/)). Tento DCI formát obsahuje indikaci zrušení, která se vztahuje na specifické časově-frekvenční zdroje. UE monitoruje PDCCH pro DCI formát 2_4 zakódovaný (scrambled) s jejím přiřazeným CI-RNTI. Po úspěšném dekódování UE extrahuje indikaci zrušení, která specifikuje, které z jejích naplánovaných uplinkových přenosů mají být zrušeny. Indikace zahrnuje parametry jako počáteční symbol, délku ve symbolech a postižené frekvenční zdroje, což umožňuje přesné zrušení částí naplánovaných PUSCH nebo [PUCCH](/mobilnisite/slovnik/pucch/) přenosů.
 
 Mechanismus zrušení funguje prostřednictvím bitmapového pole v DCI formátu 2_4, kde každý bit odpovídá specifické sadě časově-frekvenčních zdrojů. Mapování mezi bity a zdroji je konfigurováno prostřednictvím parametrů vyšší vrstvy, což poskytuje flexibilitu pro různé scénáře nasazení. Když UE obdrží platnou indikaci zrušení, musí ukončit přenos v indikovaných zdrojích, čímž je efektivně uvolní pro jiné využití. Tento proces vyžaduje přesné časové zarovnání, přičemž indikace zrušení je typicky vysílána dostatečně před postiženým uplinkovým slotem, aby UE měla čas na zpracování a přerušení přípravy přenosu.
 
-CI-RNTI hraje klíčovou roli v pokročilých funkcích 5G, jako je dynamické Time Division Duplex (TDD) a operace s více Transmission Reception Points (TRP). V dynamickém TDD může síť rychle přizpůsobit měnícím se vzorcům provozu převodem naplánovaných uplinkových zdrojů na downlinkové, když je to potřeba. Pro nasazení s více TRP pomáhá CI-RNTI řídit interferenci mezi různými TRP zrušením uplinkových přenosů, které by způsobily škodlivou interferenci souběžným downlinkovým přenosům z jiných TRP. 16bitová struktura identifikátoru odpovídá standardnímu formátu RNTI, což zajišťuje kompatibilitu se stávajícími postupy monitorování PDCCH a dekódování DCI a zároveň přidává tuto specializovanou funkci zrušení.
+CI-RNTI hraje klíčovou roli v pokročilých funkcích 5G, jako je dynamické Time Division Duplex ([TDD](/mobilnisite/slovnik/tdd/)) a operace s více Transmission Reception Points ([TRP](/mobilnisite/slovnik/trp/)). V dynamickém TDD může síť rychle přizpůsobit měnícím se vzorcům provozu převodem naplánovaných uplinkových zdrojů na downlinkové, když je to potřeba. Pro nasazení s více TRP pomáhá CI-RNTI řídit interferenci mezi různými TRP zrušením uplinkových přenosů, které by způsobily škodlivou interferenci souběžným downlinkovým přenosům z jiných TRP. 16bitová struktura identifikátoru odpovídá standardnímu formátu RNTI, což zajišťuje kompatibilitu se stávajícími postupy monitorování PDCCH a dekódování DCI a zároveň přidává tuto specializovanou funkci zrušení.
 
 ## K čemu slouží
 
@@ -40,6 +40,10 @@ Dalším klíčovým problémem, který CI-RNTI řeší, je řízení interferen
 - Podporuje přesnou specifikaci časově-frekvenčních zdrojů prostřednictvím bitmapových polí
 - Kritické pro provoz dynamického TDD a řízení interference v nasazeních s více TRP
 - Dodržuje standardní 16bitový formát RNTI pro kompatibilitu se stávajícími postupy
+
+## Související pojmy
+
+- [RNTI – Radio Network Temporary Identifier](/mobilnisite/slovnik/rnti/)
 
 ## Definující specifikace
 

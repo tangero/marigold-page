@@ -16,11 +16,11 @@ NO (síťový operátor) je subjekt, který vlastní a provozuje infrastrukturu 
 
 ## Popis
 
-Síťový operátor (NO) je právní a obchodní subjekt zodpovědný za nasazení, správu a provoz veřejné pozemní mobilní sítě (PLMN). To zahrnuje celý životní cyklus sítě, od počátečního získání kmitočtového spektra a výstavby infrastruktury přes každodenní provoz a údržbu až po poskytování zákaznické podpory. Operátor vlastní licenci na využívání konkrétních rádiových kmitočtů v určité geografické oblasti a je odpovědný za to, aby síť splňovala regulatorní požadavky a závazky týkající se kvality služeb vůči svým účastníkům.
+Síťový operátor (NO) je právní a obchodní subjekt zodpovědný za nasazení, správu a provoz veřejné pozemní mobilní sítě ([PLMN](/mobilnisite/slovnik/plmn/)). To zahrnuje celý životní cyklus sítě, od počátečního získání kmitočtového spektra a výstavby infrastruktury přes každodenní provoz a údržbu až po poskytování zákaznické podpory. Operátor vlastní licenci na využívání konkrétních rádiových kmitočtů v určité geografické oblasti a je odpovědný za to, aby síť splňovala regulatorní požadavky a závazky týkající se kvality služeb vůči svým účastníkům.
 
-Z architektonického hlediska síťový operátor vlastní prvky základní sítě (CN) a rádiové přístupové sítě (RAN). To zahrnuje uzly jako Home Subscriber Server ([HSS](/mobilnisite/slovnik/hss/)), Mobility Management Entity ([MME](/mobilnisite/slovnik/mme/)), Serving a Packet Gateways (S/PGW) a v 5G také Access and Mobility Management Function ([AMF](/mobilnisite/slovnik/amf/)), Session Management Function ([SMF](/mobilnisite/slovnik/smf/)) a User Plane Function ([UPF](/mobilnisite/slovnik/upf/)). V RAN to zahrnuje základnové stanice (NodeB, eNodeB, gNB) a jejich řadiče. Operátor tyto prvky konfiguruje, monitoruje a optimalizuje prostřednictvím systémů pro správu sítě, jako je Operations Support System ([OSS](/mobilnisite/slovnik/oss/)).
+Z architektonického hlediska síťový operátor vlastní prvky základní sítě (CN) a rádiové přístupové sítě (RAN). To zahrnuje uzly jako Home Subscriber Server ([HSS](/mobilnisite/slovnik/hss/)), Mobility Management Entity ([MME](/mobilnisite/slovnik/mme/)), Serving a Packet Gateways (S/[PGW](/mobilnisite/slovnik/pgw/)) a v 5G také Access and Mobility Management Function ([AMF](/mobilnisite/slovnik/amf/)), Session Management Function ([SMF](/mobilnisite/slovnik/smf/)) a User Plane Function ([UPF](/mobilnisite/slovnik/upf/)). V RAN to zahrnuje základnové stanice (NodeB, eNodeB, gNB) a jejich řadiče. Operátor tyto prvky konfiguruje, monitoruje a optimalizuje prostřednictvím systémů pro správu sítě, jako je Operations Support System ([OSS](/mobilnisite/slovnik/oss/)).
 
-Role síťového operátora je pro celý ekosystém klíčová. Vyjednává roamingové dohody s dalšími operátory, implementuje systémy účtování a fakturace a definuje portfolio služeb (např. hlas, data, IoT). Také zajišťuje kritické bezpečnostní funkce, jako je autentizace účastníků a správa klíčů. Zásady operátora, nasazené prostřednictvím uzlů jako Policy and Charging Rules Function (PCRF) nebo Policy Control Function ([PCF](/mobilnisite/slovnik/pcf/)), řídí uživatelský zážitek, včetně rychlostí dat a kvality služeb. Ve scénářích s více operátory koncepty jako Mobile Virtual Network Operator ([MVNO](/mobilnisite/slovnik/mvno/)) a roaming závisí na základní infrastruktuře poskytované NO.
+Role síťového operátora je pro celý ekosystém klíčová. Vyjednává roamingové dohody s dalšími operátory, implementuje systémy účtování a fakturace a definuje portfolio služeb (např. hlas, data, IoT). Také zajišťuje kritické bezpečnostní funkce, jako je autentizace účastníků a správa klíčů. Zásady operátora, nasazené prostřednictvím uzlů jako Policy and Charging Rules Function (PCRF) nebo Policy Control Function (PCF), řídí uživatelský zážitek, včetně rychlostí dat a kvality služeb. Ve scénářích s více operátory koncepty jako Mobile Virtual Network Operator (MVNO) a roaming závisí na základní infrastruktuře poskytované NO.
 
 ## K čemu slouží
 
@@ -39,6 +39,7 @@ Historicky telekomunikační služby poskytovaly státní monopoly. Liberalizace
 
 ## Související pojmy
 
+- [PLMN – Public Land Mobile Network](/mobilnisite/slovnik/plmn/)
 - [MVNO – Mobile Virtual Network Operator](/mobilnisite/slovnik/mvno/)
 
 ## Definující specifikace

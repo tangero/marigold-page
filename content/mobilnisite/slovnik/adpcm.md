@@ -16,7 +16,7 @@ ADPCM je řečový kódovací algoritmus používaný v sítích 3GPP, který ko
 
 ## Popis
 
-Adaptive Differential Pulse Coded Modulation (ADPCM, adaptivní diferenciální pulzně kódová modulace) je pokročilá řečová kódovací technika standardizovaná ve specifikacích 3GPP pro hlasové služby. Na rozdíl od tradiční PCM, která kóduje každý vzorek nezávisle, ADPCM používá diferenciální kódování, při kterém se přenáší pouze rozdíl mezi po sobě jdoucími vzorky. Tento základní přístup výrazně snižuje potřebnou přenosovou rychlost při zachování kvality řeči. 'Adaptivní' složka odkazuje na schopnost algoritmu dynamicky upravovat velikost kvantizačního kroku na základě charakteristik vstupního signálu, což umožňuje efektivnější kódování během období rychlých změn signálu a jemnější rozlišení během stabilních období.
+Adaptive Differential Pulse Coded Modulation (ADPCM, adaptivní diferenciální pulzně kódová modulace) je pokročilá řečová kódovací technika standardizovaná ve specifikacích 3GPP pro hlasové služby. Na rozdíl od tradiční [PCM](/mobilnisite/slovnik/pcm/), která kóduje každý vzorek nezávisle, ADPCM používá diferenciální kódování, při kterém se přenáší pouze rozdíl mezi po sobě jdoucími vzorky. Tento základní přístup výrazně snižuje potřebnou přenosovou rychlost při zachování kvality řeči. 'Adaptivní' složka odkazuje na schopnost algoritmu dynamicky upravovat velikost kvantizačního kroku na základě charakteristik vstupního signálu, což umožňuje efektivnější kódování během období rychlých změn signálu a jemnější rozlišení během stabilních období.
 
 V jádru ADPCM funguje prostřednictvím prediktivní kódovací struktury skládající se z adaptivního prediktoru a adaptivního kvantizéru. Prediktor odhaduje hodnotu dalšího vzorku na základě předchozích vzorků a vytváří predikovaný signál. Rozdíl mezi skutečným vstupním signálem a touto predikovanou hodnotou (chyba predikce) je následně kvantován pomocí adaptivního kvantizéru, jehož velikost kroku se přizpůsobuje podle rozptylu signálu. Tento kvantovaný rozdíl je zakódován pro přenos. V dekodéru stejný prediktor a adaptivní kvantizér rekonstruují původní signál z přenesených rozdílů, přičemž je zachována synchronizace mezi adaptačními algoritmy kodéru a dekodéru.
 
@@ -26,7 +26,7 @@ V rámci sítí 3GPP slouží ADPCM jako mezilehlý kodec mezi tradiční PCM s 
 
 ## K čemu slouží
 
-ADPCM byl vyvinut k řešení základní výzvy efektivity využití šířky pásma v hlasové komunikaci. Tradiční pulzně kódová modulace (PCM) s 64 kbit/s poskytovala vynikající kvalitu hlasu, ale spotřebovávala značné síťové zdroje, což bylo obzvláště problematické v raných digitálních mobilních sítích s omezenou kapacitou. Telekomunikační průmysl potřeboval metodu pro snížení přenosové rychlosti hlasových signálů při zachování přijatelné kvality, což by umožnilo více simultánních hovorů ve stejném pásmu a snížilo náklady na přenos.
+ADPCM byl vyvinut k řešení základní výzvy efektivity využití šířky pásma v hlasové komunikaci. Tradiční pulzně kódová modulace ([PCM](/mobilnisite/slovnik/pcm/)) s 64 kbit/s poskytovala vynikající kvalitu hlasu, ale spotřebovávala značné síťové zdroje, což bylo obzvláště problematické v raných digitálních mobilních sítích s omezenou kapacitou. Telekomunikační průmysl potřeboval metodu pro snížení přenosové rychlosti hlasových signálů při zachování přijatelné kvality, což by umožnilo více simultánních hovorů ve stejném pásmu a snížilo náklady na přenos.
 
 Před ADPCM nabízely jednoduché kompresní techniky jako logaritmická kompandace (μ-zákon/A-zákon PCM) pouze skromná zlepšení. Diferenciální PCM (DPCM) poskytovala lepší kompresi, ale trpěla degradací kvality během rychlých změn signálu. ADPCM tyto limity vyřešil zavedením adaptivní kvantizace, která se dynamicky přizpůsobuje charakteristikám signálu. To umožnilo kodeku přesněji sledovat řečové signály během přechodů při použití hrubší kvantizace během stabilních období, čímž dosáhl významného snížení přenosové rychlosti (z 64 kbit/s na 32 kbit/s nebo méně) s minimálním dopadem na kvalitu.
 
@@ -43,6 +43,7 @@ V rámci standardizace 3GPP sloužil ADPCM jako důležitá přechodová technol
 
 ## Související pojmy
 
+- [PCM – Pulse Code Modulation](/mobilnisite/slovnik/pcm/)
 - [AMR – Adaptive Multi-Rate](/mobilnisite/slovnik/amr/)
 
 ## Definující specifikace

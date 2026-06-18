@@ -20,7 +20,7 @@ Over The Air (OTA, česky přenos vzduchem) v kontextu 3GPP označuje mechanismy
 
 Z architektonického hlediska OTA systém zahrnuje několik klíčových komponent. OTA server, provozovaný operátorem mobilní sítě ([MNO](/mobilnisite/slovnik/mno/)), výrobcem zařízení nebo poskytovatelem služeb, hostí balíčky aktualizací a spravuje kampaně jejich doručování. UE obsahuje OTA klientský agent zodpovědný za přijímání oznámení, stahování balíčků, ověřování jejich integrity a autenticity (často pomocí digitálních podpisů) a provádění aktualizačního procesu. Komunikace obvykle probíhá prostřednictvím IP protokolů (např. [HTTPS](/mobilnisite/slovnik/https/)) přenášených přes datové přenosy buněčné sítě. U kritických aktualizací, jako je firmware, je proces pečlivě rozdělen do fází: UE stáhne balíček, uloží jej do zabezpečené části, ověří jej a poté se restartuje do zabezpečeného režimu pro aplikaci aktualizace, čímž se zajišťuje odolnost proti výpadku napájení.
 
-Jak to funguje, zahrnuje push nebo pull model. Server může zahájit relaci odesláním oznamovací zprávy do UE (např. přes SMS nebo vyhrazený [NAS](/mobilnisite/slovnik/nas/) transport). UE poté naváže datové spojení na zadanou URL adresu pro stažení balíčku. Specifikace 3GPP definují bezpečnostní rámce pro ochranu OTA transakcí, které zajišťují, že balíčky nejsou pozměněny a že aktualizace mohou iniciovat pouze autorizované servery. V oblasti testování RF výkonu se termín 'OTA' také vztahuje k radiačnímu testování Over-the-Air, při kterém se v anechoické komoře měří celkový vyzářený výkon (TRP) a celková izotropní citlivost (TIS) zařízení. Uvedená definice 'REFSENS RoAoA' je specifická metrika OTA testování pro určení kontury citlivosti přijímače vzhledem k referenčnímu směru, což je klíčové pro charakterizaci výkonu antény v zařízeních.
+Jak to funguje, zahrnuje push nebo pull model. Server může zahájit relaci odesláním oznamovací zprávy do UE (např. přes [SMS](/mobilnisite/slovnik/sms/) nebo vyhrazený [NAS](/mobilnisite/slovnik/nas/) transport). UE poté naváže datové spojení na zadanou [URL](/mobilnisite/slovnik/url/) adresu pro stažení balíčku. Specifikace 3GPP definují bezpečnostní rámce pro ochranu OTA transakcí, které zajišťují, že balíčky nejsou pozměněny a že aktualizace mohou iniciovat pouze autorizované servery. V oblasti testování [RF](/mobilnisite/slovnik/rf/) výkonu se termín 'OTA' také vztahuje k radiačnímu testování Over-the-Air, při kterém se v anechoické komoře měří celkový vyzářený výkon ([TRP](/mobilnisite/slovnik/trp/)) a celková izotropní citlivost (TIS) zařízení. Uvedená definice '[REFSENS](/mobilnisite/slovnik/refsens/) RoAoA' je specifická metrika OTA testování pro určení kontury citlivosti přijímače vzhledem k referenčnímu směru, což je klíčové pro charakterizaci výkonu antény v zařízeních.
 
 ## K čemu slouží
 
@@ -36,6 +36,10 @@ Technologie OTA byla vytvořena, aby vyřešila masivní logistický a nákladov
 - Protokoly pro správu zařízení pro dálkovou konfiguraci a řízení
 - Zřizování profilů eSIM (Remote SIM Provisioning)
 - Standardizované metriky OTA testování pro RF výkon zařízení (např. TRP, TIS, REFSENS)
+
+## Související pojmy
+
+- [TRP – Transmission and Reception Point](/mobilnisite/slovnik/trp/)
 
 ## Definující specifikace
 

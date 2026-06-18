@@ -16,9 +16,9 @@ E-CSCF je funkce jádra sítě IMS, která zajišťuje zřizování a směrován
 
 ## Popis
 
-Emergency – Call Session Control Function (E-CSCF) je klíčová komponenta v architektuře IP Multimedia Subsystem (IMS), speciálně navržená pro správu nouzových relací. Funguje jako specializovaný SIP proxy server. Když IMS přijme požadavek na zahájení nouzové relace (např. zprávu INVITE s nouzovou služební URN), obvykle přes Proxy-CSCF ([P-CSCF](/mobilnisite/slovnik/p-cscf/)), je tento požadavek předán E-CSCF. Primární úlohou E-CSCF je zjistit polohu volajícího, a to buď z informací vložených do signalizace SIP (např. PANI, [CAI](/mobilnisite/slovnik/cai/) nebo adresa místa), nebo dotazem na jiné síťové entity, jako je funkce pro získání polohy ([LRF](/mobilnisite/slovnik/lrf/)).
+Emergency – Call Session Control Function (E-CSCF) je klíčová komponenta v architektuře IP Multimedia Subsystem (IMS), speciálně navržená pro správu nouzových relací. Funguje jako specializovaný [SIP](/mobilnisite/slovnik/sip/) proxy server. Když IMS přijme požadavek na zahájení nouzové relace (např. zprávu INVITE s nouzovou služební [URN](/mobilnisite/slovnik/urn/)), obvykle přes Proxy-CSCF ([P-CSCF](/mobilnisite/slovnik/p-cscf/)), je tento požadavek předán E-CSCF. Primární úlohou E-CSCF je zjistit polohu volajícího, a to buď z informací vložených do signalizace SIP (např. [PANI](/mobilnisite/slovnik/pani/), [CAI](/mobilnisite/slovnik/cai/) nebo adresa místa), nebo dotazem na jiné síťové entity, jako je funkce pro získání polohy ([LRF](/mobilnisite/slovnik/lrf/)).
 
-Pomocí získaných informací o poloze E-CSCF komunikuje se serverem pro překlad polohy na službu (LoST) nebo podobnou funkční entitou. Tato interakce převede zeměpisné souřadnice nebo adresu místa na uniformní identifikátor prostředku (URI) pro příslušný bod pro přijímání tísňových hovorů (PSAP). PSAP je kontaktním bodem pro tísňové služby, jako jsou policie, hasiči nebo záchranná služba. E-CSCF poté směruje požadavek na nouzovou relaci (SIP INVITE) na tento URI PSAP, čímž zajistí, že hovor dorazí ke správné místní tísňové autoritě.
+Pomocí získaných informací o poloze E-CSCF komunikuje se serverem pro překlad polohy na službu (LoST) nebo podobnou funkční entitou. Tato interakce převede zeměpisné souřadnice nebo adresu místa na uniformní identifikátor prostředku ([URI](/mobilnisite/slovnik/uri/)) pro příslušný bod pro přijímání tísňových hovorů ([PSAP](/mobilnisite/slovnik/psap/)). PSAP je kontaktním bodem pro tísňové služby, jako jsou policie, hasiči nebo záchranná služba. E-CSCF poté směruje požadavek na nouzovou relaci (SIP INVITE) na tento URI PSAP, čímž zajistí, že hovor dorazí ke správné místní tísňové autoritě.
 
 E-CSCF navíc hraje zásadní roli ve scénářích, kdy by běžná registrace v IMS nebo kontroly předplatného mohly selhat. Pro nouzové relace může E-CSCF obejít určité postupy ověřování a autorizace, aby zajistil, že hovor bude zřízen i pro neregistrované uživatele nebo uživatele bez platného předplatného, v souladu s regulačními požadavky na univerzální přístup k tísňovým službám. Také koordinuje s LRF případné následné požadavky na polohu od PSAP, což usnadňuje zpětné dovolání tísňového hovoru a přesné vyslání záchranných složek.
 
@@ -42,6 +42,7 @@ Jeho vytvoření bylo motivováno regulačními a bezpečnostními požadavky, k
 - [IMS – IP Multimedia Subsystem](/mobilnisite/slovnik/ims/)
 - [CSCF – Call Session Control Function](/mobilnisite/slovnik/cscf/)
 - [P-CSCF – Proxy Call Session Control Function](/mobilnisite/slovnik/p-cscf/)
+- [PSAP – Public Safety Answering Point](/mobilnisite/slovnik/psap/)
 - [LRF – Location Retrieval Function](/mobilnisite/slovnik/lrf/)
 
 ## Definující specifikace

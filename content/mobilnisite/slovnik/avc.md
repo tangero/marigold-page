@@ -43,6 +43,7 @@ Motivováno poučením z velkých mimořádných událostí po celém světě za
 
 ## Související pojmy
 
+- [QoS – Quality of Service](/mobilnisite/slovnik/qos/)
 - [IMS – IP Multimedia Subsystem](/mobilnisite/slovnik/ims/)
 
 ## Definující specifikace

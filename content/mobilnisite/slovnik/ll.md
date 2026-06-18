@@ -16,7 +16,7 @@ LL je index posledního OFDM symbolu v rámci podrámce vyhrazeného pro Relay-P
 
 ## Popis
 
-Parametr 'LL' (Last [OFDM](/mobilnisite/slovnik/ofdm/) Symbol index for R-PDCCH) je specifický konfigurační parametr používaný v kontextu pokročilých přenosových uzlů (Relay Nodes, RN) v LTE-Advanced. Definuje časovou hranici oblasti řídicího kanálu na přenosovém spoji (backhaul) směrem dolů (downlink) mezi dárciovským [eNB](/mobilnisite/slovnik/enb/) (DeNB) a přenosovým uzlem (Relay Node). R-PDCCH je specializovaný fyzický kanál zavedený pro přenos řídicích informací (jako jsou například přiřazení plánování) specificky pro přenosový spoj přes přenosový uzel. Na rozdíl od běžného [PDCCH](/mobilnisite/slovnik/pdcch/), který je vysílán v prvních několika symbolech podrámce všem UE, může být R-PDCCH umístěn na různých pozicích symbolů, včetně využití zdrojů tradičně vyhrazených pro Physical Downlink Shared Channel ([PDSCH](/mobilnisite/slovnik/pdsch/)).
+Parametr 'LL' (Last [OFDM](/mobilnisite/slovnik/ofdm/) Symbol index for [R-PDCCH](/mobilnisite/slovnik/r-pdcch/)) je specifický konfigurační parametr používaný v kontextu pokročilých přenosových uzlů (Relay Nodes, [RN](/mobilnisite/slovnik/rn/)) v LTE-Advanced. Definuje časovou hranici oblasti řídicího kanálu na přenosovém spoji (backhaul) směrem dolů (downlink) mezi dárciovským [eNB](/mobilnisite/slovnik/enb/) (DeNB) a přenosovým uzlem (Relay Node). R-PDCCH je specializovaný fyzický kanál zavedený pro přenos řídicích informací (jako jsou například přiřazení plánování) specificky pro přenosový spoj přes přenosový uzel. Na rozdíl od běžného [PDCCH](/mobilnisite/slovnik/pdcch/), který je vysílán v prvních několika symbolech podrámce všem UE, může být R-PDCCH umístěn na různých pozicích symbolů, včetně využití zdrojů tradičně vyhrazených pro Physical Downlink Shared Channel ([PDSCH](/mobilnisite/slovnik/pdsch/)).
 
 Hodnota LL je celočíselný index (např. 0, 1, 2,... až do maximálního počtu symbolů v podrámci, což je typicky 14 pro normální cyklickou předponu), který ukazuje na poslední OFDM symbol obsazený R-PDCCH v rámci jemu přiřazeného páru bloků zdrojů (resource block pair). Tento parametr spolu s indexem počátečního symbolu definuje přesné zdroje v časové doméně, které musí přenosový uzel sledovat a dekódovat, aby přijímal své řídicí informace od DeNB. Konfigurace je signalizována přenosovému uzlu prostřednictvím signalizace vyšší vrstvy [RRC](/mobilnisite/slovnik/rrc/), což umožňuje flexibilní přidělování řídicí oblasti na základě zatížení přenosového spoje a podmínek interference.
 
@@ -26,7 +26,7 @@ Jeho role je klíčová pro správnou funkci přenosových uzlů s vnitropásmov
 
 LL byl zaveden pro podporu funkce pokročilého přenosového uzlu (Relay Node) v LTE-Advanced, která byla standardizována v 3GPP Release 10. Účelem vnitropásmového přenosu je rozšířit pokrytí a zlepšit propustnost na okraji buňky bez vysokých nákladů na nasazení nových makro stanic s vyhrazeným přenosovým spojem. Klíčovou výzvou pro vnitropásmové přenosové uzly je, že nemohou současně vysílat a přijímat na stejné frekvenci kvůli obrovské vlastní interferenci, která by nastala na přijímači přenosového uzlu.
 
-K vyřešení tohoto problému se používá časově dělený přístup, kdy se přenosový uzel střídá mezi nasloucháním dárciovské buňce (přenosový spoj downlink) a obsluhou vlastních uživatelských zařízení (přístupový spoj downlink). R-PDCCH byl vytvořen pro přenos specifických řídicích informací přenosového uzlu a jeho umístění v rámci podrámce muselo být flexibilní, aby se zabránilo pevným konfliktům zdrojů. Parametr LL jako součást konfigurace R-PDCCH poskytuje tuto nezbytnou flexibilitu. Umožňuje síti dynamicky upravovat velikost řídicí oblasti pro přenosový spoj a optimalizovat tak využití zdrojů. Bez takového konfigurovatelného parametru by měl řídicí kanál přenosového uzlu pevné umístění, což by snížilo flexibilitu plánování a efektivitu pro smíšený provoz přenosových uzlů a přímých UE obsluhovaných dárciovským [eNB](/mobilnisite/slovnik/enb/).
+K vyřešení tohoto problému se používá časově dělený přístup, kdy se přenosový uzel střídá mezi nasloucháním dárciovské buňce (přenosový spoj downlink) a obsluhou vlastních uživatelských zařízení (přístupový spoj downlink). R-PDCCH byl vytvořen pro přenos specifických řídicích informací přenosového uzlu a jeho umístění v rámci podrámce muselo být flexibilní, aby se zabránilo pevným konfliktům zdrojů. Parametr LL jako součást konfigurace R-PDCCH poskytuje tuto nezbytnou flexibilitu. Umožňuje síti dynamicky upravovat velikost řídicí oblasti pro přenosový spoj a optimalizovat tak využití zdrojů. Bez takového konfigurovatelného parametru by měl řídicí kanál přenosového uzlu pevné umístění, což by snížilo flexibilitu plánování a efektivitu pro smíšený provoz přenosových uzlů a přímých UE obsluhovaných dárciovským eNB.
 
 ## Klíčové vlastnosti
 
@@ -36,6 +36,10 @@ K vyřešení tohoto problému se používá časově dělený přístup, kdy se
 - Klíčový pro časové duplexování přenosového a přístupového spoje přenosového uzlu
 - Předchází vlastní interferenci na přenosovém uzlu definováním jasných přijímacích oken
 - Podporuje efektivní přidělování zdrojů v buňkách s přenosovými uzly
+
+## Související pojmy
+
+- [R-PDCCH – Relay Physical Downlink Control Channel](/mobilnisite/slovnik/r-pdcch/)
 
 ## Definující specifikace
 

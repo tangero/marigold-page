@@ -46,6 +46,7 @@ Dalším klíčovým problémem, který CTSMSI řeší, je potřeba efektivní s
 - [CTS-MS – Cordless Telephony System - Mobile Station](/mobilnisite/slovnik/cts-ms/)
 - [CTS-FP – Cordless Telephony System - Fixed Part](/mobilnisite/slovnik/cts-fp/)
 - [IMSI – International Mobile Subscriber Identity](/mobilnisite/slovnik/imsi/)
+- [TMSI – Temporary Mobile Subscriber Identifier](/mobilnisite/slovnik/tmsi/)
 
 ## Definující specifikace
 

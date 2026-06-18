@@ -16,9 +16,9 @@ MO-EDT je funkce pro NB-IoT a LTE-M, kdy zařízení odešle malé množství da
 
 ## Popis
 
-Mobile Originated Early Data Transmission (MO-EDT, časný přenos dat iniciovaný mobilním zařízením) je optimalizační mechanismus definovaný pro technologie Cellular IoT (CIoT), konkrétně NB-IoT a LTE-M (eMTC). Umožňuje UE odeslat omezenou uživatelskou datovou náplň v uplinku zabudovanou do Msg3 procedury Random Access Channel (RACH) v LTE nebo do zprávy [RRC](/mobilnisite/slovnik/rrc/) Early Data Request v NR, než se spojení Radio Resource Control (RRC) přepne do stavu RRC_CONNECTED. Tento proces obchází kompletní navázání spojení, které zahrnuje více signalizačních zpráv pro aktivaci zabezpečení a zřízení datového rádiového přenosového kanálu.
+Mobile Originated Early Data Transmission (MO-EDT, časný přenos dat iniciovaný mobilním zařízením) je optimalizační mechanismus definovaný pro technologie Cellular IoT (CIoT), konkrétně NB-IoT a LTE-M (eMTC). Umožňuje UE odeslat omezenou uživatelskou datovou náplň v uplinku zabudovanou do Msg3 procedury Random Access Channel ([RACH](/mobilnisite/slovnik/rach/)) v LTE nebo do zprávy [RRC](/mobilnisite/slovnik/rrc/) Early Data Request v NR, než se spojení Radio Resource Control (RRC) přepne do stavu RRC_CONNECTED. Tento proces obchází kompletní navázání spojení, které zahrnuje více signalizačních zpráv pro aktivaci zabezpečení a zřízení datového rádiového přenosového kanálu.
 
-Procedura je zahájena, když CIoT UE ve stavu RRC_IDLE nebo RRC_INACTIVE má k odeslání malé množství dat (až několik set bajtů, jak definuje síť). UE oznámí svou schopnost a záměr použít [EDT](/mobilnisite/slovnik/edt/) v preambuli náhodného přístupu (Msg1) nebo v RRC Connection Request (Msg3). Síť, pokud EDT podporuje, odpoví zprávou (např. RAR pro Msg2 nebo RRC Connection Setup for EDT), která přiděluje zdroje a parametry pro přenos dat v uplinku. UE poté přenese svá data spolu s RRC zprávou (např. RRC Early Data Request) na přidělených uplinkových zdrojích.
+Procedura je zahájena, když CIoT UE ve stavu RRC_IDLE nebo RRC_INACTIVE má k odeslání malé množství dat (až několik set bajtů, jak definuje síť). UE oznámí svou schopnost a záměr použít [EDT](/mobilnisite/slovnik/edt/) v preambuli náhodného přístupu (Msg1) nebo v RRC Connection Request (Msg3). Síť, pokud EDT podporuje, odpoví zprávou (např. [RAR](/mobilnisite/slovnik/rar/) pro Msg2 nebo RRC Connection Setup for EDT), která přiděluje zdroje a parametry pro přenos dat v uplinku. UE poté přenese svá data spolu s RRC zprávou (např. RRC Early Data Request) na přidělených uplinkových zdrojích.
 
 Mezi klíčové komponenty patří CIoT zásobník UE, eNodeB/gNodeB, který musí podporovat zpracování EDT, a jádro sítě ([MME](/mobilnisite/slovnik/mme/) pro LTE, [AMF](/mobilnisite/slovnik/amf/) pro 5GC). Uzel jádra sítě přijímá data prostřednictvím zprávy S1-AP nebo [NG-AP](/mobilnisite/slovnik/ng-ap/) Initial UE Message, která nese uživatelskou datovou náplň. Po úspěšném přijetí může síť RRC spojení okamžitě uvolnit, aniž by převedla UE do stavu RRC_CONNECTED, a to odesláním uvolňovací zprávy (např. RRC Connection Release), která může v případě potřeby obsahovat malou downlinkovou odpověď. Celá tato výměna je obsažena ve fázích signalizace náhodného přístupu a počátečního spojení.
 
@@ -40,6 +40,10 @@ MO-EDT, zavedený ve vydání 15/16, se tímto problémem zabývá přímo tím,
 - Omezená velikost náplně: Podporuje přenos malých datových paketů (velikost definovaná sítí, typicky až ~1000 bajtů pro LTE-M, méně pro NB-IoT).
 - Podpora downlinkové odpovědi: Umožňuje síti zahrnout malou downlinkovou datovou odpověď do zprávy o uvolnění spojení.
 - Provoz ve stavech IDLE/INACTIVE: Může být zahájen ze stavů RRC_IDLE (LTE) i RRC_INACTIVE (5G NR), což odpovídá stavům pro úsporu energie u IoT.
+
+## Související pojmy
+
+- [RACH – Random Access Channel](/mobilnisite/slovnik/rach/)
 
 ## Definující specifikace
 

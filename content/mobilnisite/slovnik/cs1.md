@@ -16,7 +16,7 @@ CS1 je počáteční standardizovaná sada schopností pro IP Multimedia Subsyst
 
 ## Popis
 
-Capability Set 1 (CS1) představuje komplexní základní specifikaci pro architekturu IP Multimedia Subsystem (IMS) standardizovanou ve 3GPP Release 8. Definuje kompletní sadu funkčních prvků, protokolů, rozhraní a procedur potřebných k navázání, správě a ukončení multimediálních relací přes IP sítě. Architektura je postavena kolem protokolu Session Initiation Protocol (SIP) jako primárního signalizačního protokolu, s detailními specifikacemi pro registraci, navázání relace, spouštění služeb a propojení s existujícími okruhově přepínanými sítěmi.
+Capability Set 1 (CS1) představuje komplexní základní specifikaci pro architekturu IP Multimedia Subsystem (IMS) standardizovanou ve 3GPP Release 8. Definuje kompletní sadu funkčních prvků, protokolů, rozhraní a procedur potřebných k navázání, správě a ukončení multimediálních relací přes IP sítě. Architektura je postavena kolem protokolu Session Initiation Protocol ([SIP](/mobilnisite/slovnik/sip/)) jako primárního signalizačního protokolu, s detailními specifikacemi pro registraci, navázání relace, spouštění služeb a propojení s existujícími okruhově přepínanými sítěmi.
 
 Architektura CS1 se skládá z několika klíčových funkčních komponent včetně Call Session Control Functions (CSCFs), které zajišťují směrování signalizace a řízení relací, Home Subscriber Servers ([HSS](/mobilnisite/slovnik/hss/)) pro správu profilů účastníků a autentizaci, Application Servers ([AS](/mobilnisite/slovnik/as/)) hostující servisní logiku a Media Resource Functions ([MRF](/mobilnisite/slovnik/mrf/)) poskytující schopnosti zpracování médií. Tyto prvky spolupracují prostřednictvím standardizovaných rozhraní (jako Cx, Sh a [ISC](/mobilnisite/slovnik/isc/)) k poskytování end-to-end multimediálních služeb. Architektura podporuje jak mobilní, tak pevné přístupové sítě, což umožňuje konvergenci různých přístupových technologií.
 
@@ -45,6 +45,7 @@ CS1 také sloužil jako základ pro konvergenci sítí, což umožnilo pevným a
 
 - [IMS – IP Multimedia Subsystem](/mobilnisite/slovnik/ims/)
 - [CSCF – Call Session Control Function](/mobilnisite/slovnik/cscf/)
+- [SIP – Session Initiation Protocol](/mobilnisite/slovnik/sip/)
 - [MGCF – Media Gateway Control Function](/mobilnisite/slovnik/mgcf/)
 
 ## Definující specifikace

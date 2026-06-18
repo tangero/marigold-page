@@ -40,6 +40,7 @@ Primární motivací pro OFDM byla jeho vnitřní odolnost vůči frekvenčně s
 ## Související pojmy
 
 - [OFDMA – Orthogonal Frequency Division Multiple Access](/mobilnisite/slovnik/ofdma/)
+- [SC-FDMA – Single Carrier – Frequency Division Multiple Access](/mobilnisite/slovnik/sc-fdma/)
 - [MIMO – Multiple Input Multiple Output](/mobilnisite/slovnik/mimo/)
 
 ## Definující specifikace

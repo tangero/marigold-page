@@ -24,7 +24,7 @@ Technická implementace DARP zahrnuje pokročilé techniky zpracování signálu
 
 Role DARP v síťové architektuře je primárně na fyzické vrstvě rádiového rozhraní GSM/EDGE. Přímo ovlivňuje správu rádiových prostředků tím, že umožňuje efektivnější vzory opakování využití frekvencí a lepší plánování pokrytí. Síťoví operátoři mohou nasazovat buňky s těsnějším faktorem opakování frekvencí s vědomím, že zařízení kompatibilní s DARP zvládnou výsledné úrovně interference. To vede ke zvýšení síťové kapacity bez nutnosti přidělení dalšího spektra. Technologie také zlepšuje pokrytí v oblastech na okraji buňky, kde je kvalita signálu typicky slabá.
 
-Výkonnostní požadavky jsou ověřovány prostřednictvím standardizovaných testovacích postupů definovaných ve specifikacích 3GPP. Tyto testy simulují reálné interferenční scénáře pomocí specifických referenčních měřicích kanálů (RMC) a definovaných rušivých signálů. Výrobci musí prostřednictvím důkladného laboratorního testování před certifikací prokázat, že jejich zařízení splňují nebo překračují požadavky DARP. Tím je zajištěna interoperabilita a konzistentní uživatelský komfort napříč různými sítěmi a typy zařízení.
+Výkonnostní požadavky jsou ověřovány prostřednictvím standardizovaných testovacích postupů definovaných ve specifikacích 3GPP. Tyto testy simulují reálné interferenční scénáře pomocí specifických referenčních měřicích kanálů ([RMC](/mobilnisite/slovnik/rmc/)) a definovaných rušivých signálů. Výrobci musí prostřednictvím důkladného laboratorního testování před certifikací prokázat, že jejich zařízení splňují nebo překračují požadavky DARP. Tím je zajištěna interoperabilita a konzistentní uživatelský komfort napříč různými sítěmi a typy zařízení.
 
 ## K čemu slouží
 

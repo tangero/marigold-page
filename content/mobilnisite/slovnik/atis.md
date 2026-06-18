@@ -18,7 +18,7 @@ ATIS je severoamerická organizace pro vývoj standardů, která vytváří stan
 
 Alliance for Telecommunications Industry Solutions (ATIS) je americká akreditovaná organizace pro vývoj standardů, která působí pod American National Standards Institute ([ANSI](/mobilnisite/slovnik/ansi/)). Slouží jako hlavní fórum pro odvětví informačních a komunikačních technologií ([ICT](/mobilnisite/slovnik/ict/)) k vývoji technických standardů, provozních postupů a řešení. Činnost ATIS zahrnuje širokou škálu technologií, včetně pevných a mobilních sítí, služeb založených na IP, kybernetické bezpečnosti, tísňového volání a propojování sítí. Její výbory a fóra sdružují stovky společností z celého ekosystému ICT, včetně poskytovatelů služeb, výrobců zařízení a vývojářů softwaru, aby společně řešily výzvy odvětví prostřednictvím standardizace založené na konsensu.
 
-V kontextu 3GPP zastává ATIS klíčovou roli jako organizační partner. Toto partnerství je zásadní, protože 3GPP je globální spolupráce regionálních organizací pro vývoj standardů (SDO). ATIS zastupuje severoamerické zájmy a příspěvky do procesu standardizace 3GPP. Je odpovědná za předkládání technických příspěvků, účast v pracovních skupinách a za to, aby specifikace 3GPP zohledňovaly a zahrnovaly požadavky a scénáře nasazení relevantní pro severoamerický trh. To zahrnuje aspekty, jako jsou kmitočtová pásma, regulatorní požadavky a stávající síťové architektury převládající v regionu.
+V kontextu 3GPP zastává ATIS klíčovou roli jako organizační partner. Toto partnerství je zásadní, protože 3GPP je globální spolupráce regionálních organizací pro vývoj standardů ([SDO](/mobilnisite/slovnik/sdo/)). ATIS zastupuje severoamerické zájmy a příspěvky do procesu standardizace 3GPP. Je odpovědná za předkládání technických příspěvků, účast v pracovních skupinách a za to, aby specifikace 3GPP zohledňovaly a zahrnovaly požadavky a scénáře nasazení relevantní pro severoamerický trh. To zahrnuje aspekty, jako jsou kmitočtová pásma, regulatorní požadavky a stávající síťové architektury převládající v regionu.
 
 Vztah mezi ATIS a 3GPP je formalizován prostřednictvím předkládání 'Liaison Statements' a aktivní účasti v Technical Specification Groups (TSGs) a Working Groups (WGs). Interní výbory ATIS, jako je Wireless Technologies and Systems Committee (WTSC), často vypracovávají výchozí stanoviska nebo příspěvky, které jsou následně předávány do procesu 3GPP. To zajišťuje jednotný severoamerický hlas při vývoji globálních standardů pro technologie jako 5G, 4G LTE, IMS a další. Výstupy 3GPP jsou pak často přijímány nebo odkazovány ATIS ve vlastní sadě standardů, čímž vzniká zpětná vazba, která sladí regionální a globální specifikace.
 
@@ -46,6 +46,7 @@ Historicky bylo vytvoření samotného 3GPP odpovědí na potřebu jednotného g
 - [3GPP – 3rd Generation Partnership Project](/mobilnisite/slovnik/3gpp/)
 - [ANSI – American National Standards Institute](/mobilnisite/slovnik/ansi/)
 - [ETSI – European Telecommunication Standardization Institute](/mobilnisite/slovnik/etsi/)
+- [TSG – Technical Specification Group](/mobilnisite/slovnik/tsg/)
 
 ## Definující specifikace
 

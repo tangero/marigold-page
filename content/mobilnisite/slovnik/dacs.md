@@ -18,7 +18,7 @@ DACS je koncept správy podle 3GPP, který umožňuje operátorům sítí vzdál
 
 Distant Active Codec Set (DACS) je mechanismus správy definovaný ve specifikacích 3GPP, který umožňuje operátorům sítí vzdáleně konfigurovat a spravovat schopnosti řečových kodeků síťových prvků. V telekomunikačních sítích jsou řečové kodeky klíčové komponenty, které komprimují a dekomprimují hlasové signály pro přenos; různé kodeky nabízejí různý kompromis mezi kvalitou hovoru, efektivitou šířky pásma a složitostí zpracování. DACS poskytuje standardizovaný přístup pro řízení toho, které kodeky jsou aktivní a dostupné pro použití na konkrétních síťových místech, zejména na vzdálených síťových prvcích, k nimž může být obtížný fyzický přístup.
 
-Z architektonického hlediska DACS funguje v rámci frameworku Operations, Administration, and Maintenance (OAM) sítí 3GPP. Zahrnuje systémy správy, které mohou posílat konfigurační příkazy síťovým prvkům, aby aktivovaly nebo deaktivovaly konkrétní sady řečových kodeků. Síťové prvky udržují sadu podporovaných kodeků a DACS umožňuje operátorům vybrat, která podmnožina z nich má být aktivně dostupná pro navázání hlasového hovoru. To je obzvláště důležité v prostředích s více dodavateli, kde různá zařízení mohou podporovat různé kombinace kodeků a operátoři potřebují zajistit konzistentní kvalitu služeb a interoperabilitu napříč svými sítěmi.
+Z architektonického hlediska DACS funguje v rámci frameworku Operations, Administration, and Maintenance ([OAM](/mobilnisite/slovnik/oam/)) sítí 3GPP. Zahrnuje systémy správy, které mohou posílat konfigurační příkazy síťovým prvkům, aby aktivovaly nebo deaktivovaly konkrétní sady řečových kodeků. Síťové prvky udržují sadu podporovaných kodeků a DACS umožňuje operátorům vybrat, která podmnožina z nich má být aktivně dostupná pro navázání hlasového hovoru. To je obzvláště důležité v prostředích s více dodavateli, kde různá zařízení mohou podporovat různé kombinace kodeků a operátoři potřebují zajistit konzistentní kvalitu služeb a interoperabilitu napříč svými sítěmi.
 
 DACS funguje prostřednictvím rozhraní pro správu, která umožňují konfiguraci sad kodeků na síťových prvcích. Když síťový prvek přijme DACS konfigurační příkaz, aktualizuje své interní tabulky dostupnosti kodeků, čímž určí, které kodeky mohou být nabídnuty během procedur navazování hovoru. To ovlivňuje proces vyjednávání kodeků mezi koncovými body, čímž se zajistí, že pro přenos hovoru jsou použity pouze schválené kodeky. Tento mechanismus je zvláště cenný pro správu přechodů mezi kodeky, jako například při zavádění nových, efektivnějších kodeků při zachování zpětné kompatibility se staršími zařízeními.
 
@@ -46,6 +46,7 @@ DACS řeší několik konkrétních problémů: umožňuje operátorům zajistit
 ## Související pojmy
 
 - [CODEC – Coder/Decoder](/mobilnisite/slovnik/codec/)
+- [OAM – Operations, Administration, and Maintenance](/mobilnisite/slovnik/oam/)
 
 ## Definující specifikace
 

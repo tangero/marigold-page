@@ -16,7 +16,7 @@ BSIC je jedinečný identifikátor základnové stanice v síti GSM, který komb
 
 ## Popis
 
-Base transceiver Station Identity Code (BSIC) je základní identifikátor v GSM (Global System for Mobile Communications) a jeho vývojových standardech, definovaný specifikacemi 3GPP. Jedná se o 6bitový kód, který se skládá z 3bitového Network Colour Code ([NCC](/mobilnisite/slovnik/ncc/)) a 3bitového Base Station Colour Code ([BCC](/mobilnisite/slovnik/bcc/)). BSIC je vysílán základnovou stanicí ([BTS](/mobilnisite/slovnik/bts/)) na synchronizačním kanálu (SCH) jako součást rámcové struktury GSM, což umožňuje mobilním stanicím ([MS](/mobilnisite/slovnik/ms/)) jej dekódovat a identifikovat vysílající buňku. Tento kód je nezbytný pro to, aby mobilní stanice mohla rozlišit více buněk, které mohou vysílat na stejné rádiové frekvenci (buňky na stejném kanálu), což je běžný scénář v celulárních sítích s frekvenčním opakováním.
+Base transceiver Station Identity Code (BSIC) je základní identifikátor v GSM (Global System for Mobile Communications) a jeho vývojových standardech, definovaný specifikacemi 3GPP. Jedná se o 6bitový kód, který se skládá z 3bitového Network Colour Code ([NCC](/mobilnisite/slovnik/ncc/)) a 3bitového Base Station Colour Code ([BCC](/mobilnisite/slovnik/bcc/)). BSIC je vysílán základnovou stanicí ([BTS](/mobilnisite/slovnik/bts/)) na synchronizačním kanálu ([SCH](/mobilnisite/slovnik/sch/)) jako součást rámcové struktury GSM, což umožňuje mobilním stanicím ([MS](/mobilnisite/slovnik/ms/)) jej dekódovat a identifikovat vysílající buňku. Tento kód je nezbytný pro to, aby mobilní stanice mohla rozlišit více buněk, které mohou vysílat na stejné rádiové frekvenci (buňky na stejném kanálu), což je běžný scénář v celulárních sítích s frekvenčním opakováním.
 
 Z architektonického hlediska BSIC funguje v rámci GSM rádiového rozhraní, konkrétně rozhraní Um mezi MS a BTS. Část NCC je přiřazena operátorem sítě a typicky identifikuje skupinu BTS v určité geografické oblasti nebo segmentu sítě, což napomáhá administrativnímu a provoznímu seskupování. BCC je přiřazen každému BTS jednotlivě a v kombinaci s NCC zajišťuje jedinečnost v místním rádiovém prostředí. Mobilní stanice používá BSIC během procedur výběru a převýběru buňky, stejně jako při předávání hovoru (handover). Při měření sousedních buněk MS čte BSIC ze SCH každé buňky, aby potvrdila, že měří správnou buňku a nikoli rušivou buňku na stejném kanálu, což je zásadní pro přesné hlášení měření síti.
 
@@ -44,6 +44,7 @@ Historicky zavedení BSIC v GSM Rel-5 (ačkoli koncepčně přítomný dříve) 
 - [BTS – Base Transceiver Station](/mobilnisite/slovnik/bts/)
 - [NCC – Network (PLMN) Colour Code](/mobilnisite/slovnik/ncc/)
 - [BCC – Base Transceiver Station Colour Code](/mobilnisite/slovnik/bcc/)
+- [SCH – Synchronization Channel](/mobilnisite/slovnik/sch/)
 
 ## Definující specifikace
 

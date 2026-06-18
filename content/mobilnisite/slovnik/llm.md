@@ -16,7 +16,7 @@ LLM je protokolová vrstva 3GPP pro správu vytváření, udržování a uvolňo
 
 ## Popis
 
-Logical Link Management (LLM) funguje jako podvrstva v rámci [GPRS](/mobilnisite/slovnik/gprs/) protokolového zásobníku, konkrétně mezi vrstvou Network Service (NS) a vrstvou Radio Link Control/Medium Access Control (RLC/[MAC](/mobilnisite/slovnik/mac/)). Její primární funkcí je správa Logical Link Control ([LLC](/mobilnisite/slovnik/llc/)) spojení mezi mobilní stanicí ([MS](/mobilnisite/slovnik/ms/)) a Serving GPRS Support Node (SGSN). Protokol LLM je zodpovědný za vytváření, udržování, dohled a uvolňování těchto logických spojů, které jsou nezbytné pro přenos uživatelských dat a signalizačních zpráv. Řídí procedury jako aktivace, deaktivace a reset spojení, zajišťuje správnou synchronizaci a údržbu logických spojení i během událostí mobility, jako je převýběr buňky.
+Logical Link Management (LLM) funguje jako podvrstva v rámci [GPRS](/mobilnisite/slovnik/gprs/) protokolového zásobníku, konkrétně mezi vrstvou Network Service ([NS](/mobilnisite/slovnik/ns/)) a vrstvou Radio Link Control/Medium Access Control ([RLC](/mobilnisite/slovnik/rlc/)/[MAC](/mobilnisite/slovnik/mac/)). Její primární funkcí je správa Logical Link Control ([LLC](/mobilnisite/slovnik/llc/)) spojení mezi mobilní stanicí ([MS](/mobilnisite/slovnik/ms/)) a Serving GPRS Support Node ([SGSN](/mobilnisite/slovnik/sgsn/)). Protokol LLM je zodpovědný za vytváření, udržování, dohled a uvolňování těchto logických spojů, které jsou nezbytné pro přenos uživatelských dat a signalizačních zpráv. Řídí procedury jako aktivace, deaktivace a reset spojení, zajišťuje správnou synchronizaci a údržbu logických spojení i během událostí mobility, jako je převýběr buňky.
 
 Architektonicky LLM úzce spolupracuje s protokoly GPRS Mobility Management ([GMM](/mobilnisite/slovnik/gmm/)) a Session Management (SM). Když se mobilní zařízení připojí k síti, LLM usnadňuje nastavení kontextu logického spoje, který zahrnuje parametry jako Temporary Logical Link Identity (TLLI) a profily kvality služby (QoS). Tento kontext je uložen jak v MS, tak v SGSN, což umožňuje konzistentní správu stavu. LLM také řídí mechanismy řízení toku a obnovy po chybě na úrovni logického spoje, ačkoli detailní opravu chyb typicky zajišťuje podkladová vrstva RLC. Protokol využívá specifické zprávy a procedury definované v 3GPP TS 44.064, včetně LLC rámců pro řízení a přenos dat.
 
@@ -24,7 +24,7 @@ Během provozu LLM zajišťuje, že více logických spojů může být multiple
 
 ## K čemu slouží
 
-Logical Link Management (LLM) byl zaveden, aby řešil potřebu efektivní a spolehlivé správy logických spojení v paketově orientovaných mobilních sítích, konkrétně v systémech [GPRS](/mobilnisite/slovnik/gprs/) a později [EGPRS](/mobilnisite/slovnik/egprs/). Před GPRS sítě s přepojováním okruhů, jako je GSM, řešily spojení prostřednictvím vyhrazených fyzických kanálů, což bylo pro přerušovaný datový provoz neefektivní. LLM umožňuje dynamickou alokaci a správu logických spojů přes sdílené rádiové zdroje, což dovoluje více uživatelům sdílet stejný fyzický kanál a zlepšuje spektrální účinnost. To bylo zásadní pro podporu raných mobilních datových služeb, jako je e-mail a prohlížení webu, které vyžadovaly flexibilní správu spojení bez nutnosti vyhrazených okruhů.
+Logical Link Management (LLM) byl zaveden, aby řešil potřebu efektivní a spolehlivé správy logických spojení v paketově orientovaných mobilních sítích, konkrétně v systémech GPRS a později EGPRS. Před GPRS sítě s přepojováním okruhů, jako je GSM, řešily spojení prostřednictvím vyhrazených fyzických kanálů, což bylo pro přerušovaný datový provoz neefektivní. LLM umožňuje dynamickou alokaci a správu logických spojů přes sdílené rádiové zdroje, což dovoluje více uživatelům sdílet stejný fyzický kanál a zlepšuje spektrální účinnost. To bylo zásadní pro podporu raných mobilních datových služeb, jako je e-mail a prohlížení webu, které vyžadovaly flexibilní správu spojení bez nutnosti vyhrazených okruhů.
 
 Vytvoření LLM bylo motivováno omezeními stávajících přístupů ke správě spojení v sítích s přepojováním okruhů, kterým chyběla pružnost pro paketová data. Poskytnutím protokolové vrstvy věnované řízení logických spojů LLM usnadňuje správu mobility, obnovu po chybě a diferenciaci QoS. Řeší problémy jako zpoždění při vytváření spojení, soupeření o zdroje a synchronizaci stavu během předávání spojení. Historicky vývoj LLM ve vydání 8 a jeho přetrvávání v pozdějších vydáních odráží jeho základní roli ve vývoji architektur paketového jádra, a to i při přechodu sítí na 3G a dále, kde byly podobné funkce adaptovány v různých protokolech.
 
@@ -41,6 +41,8 @@ Vytvoření LLM bylo motivováno omezeními stávajících přístupů ke správ
 
 - [LLC – SM Low Layer Source Specific Multicast (address)](/mobilnisite/slovnik/llc/)
 - [GMM – Global Multimedia Mobility](/mobilnisite/slovnik/gmm/)
+- [SGSN – Serving GPRS Support Node](/mobilnisite/slovnik/sgsn/)
+- [TLLI – Temporary Logical Link Identifier](/mobilnisite/slovnik/tlli/)
 - [GPRS – CSI GPRS CAMEL Subscription Information](/mobilnisite/slovnik/gprs/)
 
 ## Definující specifikace

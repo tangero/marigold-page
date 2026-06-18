@@ -16,13 +16,13 @@ CIR (Carrier to Interference Ratio) je poměr výkonu požadovaného signálu no
 
 ## Popis
 
-Carrier to Interference Ratio (CIR, poměr signálu nosné k rušení) je bezrozměrná veličina vyjádřená v decibelech (dB), která kvantifikuje kvalitu přijímaného rádiového signálu porovnáním výkonu požadovaného signálu nosné s kombinovaným výkonem všech rušivých signálů ve stejném kmitočtovém pásmu. Matematicky CIR = P_nosná / P_rušení, kde P_nosná je přijímaný výkon požadovaného signálu a P_rušení je celkový výkon ze všech zdrojů rušení, včetně ko-kanálového rušení, rušení sousedním kanálem a dalších rádiově frekvenčních zkreslení. Toto měření se provádí na fyzické vrstvě během příjmu a zpracování signálu, typicky v rámci RF předkoncového stupně přijímače a řetězce základního pásma.
+Carrier to Interference Ratio (CIR, poměr signálu nosné k rušení) je bezrozměrná veličina vyjádřená v decibelech (dB), která kvantifikuje kvalitu přijímaného rádiového signálu porovnáním výkonu požadovaného signálu nosné s kombinovaným výkonem všech rušivých signálů ve stejném kmitočtovém pásmu. Matematicky CIR = P_nosná / P_rušení, kde P_nosná je přijímaný výkon požadovaného signálu a P_rušení je celkový výkon ze všech zdrojů rušení, včetně ko-kanálového rušení, rušení sousedním kanálem a dalších rádiově frekvenčních zkreslení. Toto měření se provádí na fyzické vrstvě během příjmu a zpracování signálu, typicky v rámci [RF](/mobilnisite/slovnik/rf/) předkoncového stupně přijímače a řetězce základního pásma.
 
 V systémech 3GPP k měření CIR dochází nepřetržitě během aktivních spojení prostřednictvím vyhrazených referenčních signálů a pilotních symbolů vestavěných do struktury přenosového rámce. Přijímač vypočítává CIR porovnáním známého vzoru vysílaného referenčního signálu s přijímaným signálem a izoluje složky rušení pomocí korelačních technik. Pro systémy LTE a NR slouží jako základ těchto měření buňkově specifické referenční signály ([CRS](/mobilnisite/slovnik/crs/)) v LTE a referenční signály pro demodulaci ([DM-RS](/mobilnisite/slovnik/dm-rs/)) v NR. Měřená šířka pásma pro hodnocení CIR typicky odpovídá alokaci zdrojových bloků nebo systémové šířce pásma, v závislosti na tom, zda jsou požadována měření širokopásmová nebo subpásmová.
 
-Hodnota CIR přímo určuje dosažitelný poměr signálu k šumu plus rušení (SINR), který následně podle tabulek adaptace spoje systému určuje maximálně podporovatelné schéma modulace a kódování ([MCS](/mobilnisite/slovnik/mcs/)). Vyšší hodnoty CIR umožňují modulační schémata vyššího řádu (jako 256-QAM nebo 1024-QAM) a nižší kódovou režii, což vede k vyšší spektrální účinnosti a propustnosti. Naopak nízké hodnoty CIR nutí systém používat robustní, ale méně účinnou modulaci (jako QPSK) s vyšší kódovou ochranou. Síťové algoritmy používají měření CIR pro řadu funkcí včetně rozhodování o předávání spojení, koordinaci rušení, úpravy řízení výkonu a řízení paprsků v systémech massive [MIMO](/mobilnisite/slovnik/mimo/).
+Hodnota CIR přímo určuje dosažitelný poměr signálu k šumu plus rušení ([SINR](/mobilnisite/slovnik/sinr/)), který následně podle tabulek adaptace spoje systému určuje maximálně podporovatelné schéma modulace a kódování ([MCS](/mobilnisite/slovnik/mcs/)). Vyšší hodnoty CIR umožňují modulační schémata vyššího řádu (jako 256-QAM nebo 1024-QAM) a nižší kódovou režii, což vede k vyšší spektrální účinnosti a propustnosti. Naopak nízké hodnoty CIR nutí systém používat robustní, ale méně účinnou modulaci (jako [QPSK](/mobilnisite/slovnik/qpsk/)) s vyšší kódovou ochranou. Síťové algoritmy používají měření CIR pro řadu funkcí včetně rozhodování o předávání spojení, koordinaci rušení, úpravy řízení výkonu a řízení paprsků v systémech massive [MIMO](/mobilnisite/slovnik/mimo/).
 
-CIR se od poměru nosná-šum ([CNR](/mobilnisite/slovnik/cnr/)) liší tím, že ze jmenovatele konkrétně vylučuje tepelný šum a zaměřuje se čistě na umělé zdroje rušení. V praktických nasazeních pomáhají měření CIR operátorům identifikovat ohniska rušení, optimalizovat kmitočtové plánování a implementovat techniky pro zmírnění rušení, jako je Enhanced Inter-Cell Interference Coordination (eICIC) v LTE nebo konfigurace Interference Measurement Resource ([IMR](/mobilnisite/slovnik/imr/)) v NR. Přesnost odhadu CIR přímo ovlivňuje výkon sítě, přičemž pokročilé přijímače používají kombinaci s potlačením rušení ([IRC](/mobilnisite/slovnik/irc/)) a ekvalizaci s minimální střední kvadratickou chybou ([MMSE](/mobilnisite/slovnik/mmse/)), aby zlepšily CIR v náročných podmínkách rušení.
+CIR se od poměru nosná-šum ([CNR](/mobilnisite/slovnik/cnr/)) liší tím, že ze jmenovatele konkrétně vylučuje tepelný šum a zaměřuje se čistě na umělé zdroje rušení. V praktických nasazeních pomáhají měření CIR operátorům identifikovat ohniska rušení, optimalizovat kmitočtové plánování a implementovat techniky pro zmírnění rušení, jako je Enhanced Inter-Cell Interference Coordination (eICIC) v LTE nebo konfigurace Interference Measurement Resource (IMR) v NR. Přesnost odhadu CIR přímo ovlivňuje výkon sítě, přičemž pokročilé přijímače používají kombinaci s potlačením rušení (IRC) a ekvalizaci s minimální střední kvadratickou chybou (MMSE), aby zlepšily CIR v náročných podmínkách rušení.
 
 ## K čemu slouží
 
@@ -40,6 +40,12 @@ Primární účel CIR přesahuje pouhé měření – slouží jako základ pro 
 - Základ pro algoritmy koordinace rušení jako eICIC a FeICIC
 - Umožňuje plánování a přidělování zdrojů s ohledem na rušení
 - Podporuje řízení paprsků a měření rušení v NR
+
+## Související pojmy
+
+- [SINR – Signal to Interference plus Noise Ratio](/mobilnisite/slovnik/sinr/)
+- [RSRP – Reference Signal Received Power](/mobilnisite/slovnik/rsrp/)
+- [RSRQ – Reference Signal Receiving Quality](/mobilnisite/slovnik/rsrq/)
 
 ## Definující specifikace
 

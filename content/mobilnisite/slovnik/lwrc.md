@@ -16,7 +16,7 @@ LWRC je mechanismus řízení přenosové rychlosti pro služby multimediálníh
 
 ## Popis
 
-Long Window Rate Control (LWRC) je síťová funkce a algoritmus definovaný v architektuře služby Multimedia Broadcast Multicast Service ([MBMS](/mobilnisite/slovnik/mbms/)) dle 3GPP, specifikovaný v TS 26.937. Jde o klíčovou komponentu pro správu doručování vysílaného a skupinového obsahu, jako je živé TV nebo distribuce souborů, přes mobilní sítě. Z architektonického hlediska se LWRC typicky nachází v Broadcast Multicast Service Center ([BM-SC](/mobilnisite/slovnik/bm-sc/)) nebo v příbuzném síťovém uzlu odpovědném za správu MBMS relací. Jeho primární rolí je určovat a řídit datovou rychlost, jakou je multimediální obsah přenášen přes vysílací přenosovou cestu (broadcast bearer).
+Long Window Rate Control (LWRC) je síťová funkce a algoritmus definovaný v architektuře služby Multimedia Broadcast Multicast Service ([MBMS](/mobilnisite/slovnik/mbms/)) dle 3GPP, specifikovaný v TS 26.937. Jde o klíčovou komponentu pro správu doručování vysílaného a skupinového obsahu, jako je živé [TV](/mobilnisite/slovnik/tv/) nebo distribuce souborů, přes mobilní sítě. Z architektonického hlediska se LWRC typicky nachází v Broadcast Multicast Service Center ([BM-SC](/mobilnisite/slovnik/bm-sc/)) nebo v příbuzném síťovém uzlu odpovědném za správu MBMS relací. Jeho primární rolí je určovat a řídit datovou rychlost, jakou je multimediální obsah přenášen přes vysílací přenosovou cestu (broadcast bearer).
 
 LWRC funguje na základě analýzy požadavků a omezení v rámci 'dlouhého okna' (long window) – což je výrazně delší časový úsek ve srovnání s krátkodobým řízením rychlosti na úrovni jednotlivých paketů. Bere v úvahu různé vstupy, včetně požadavků na kvalitu služby (QoS) pro službu MBMS (např. garantovaný bitový tok), dostupných rádiových prostředků v buňkách vysílajících tuto službu, geografického rozložení zainteresovaných uživatelů a zpětné vazby o stavu kanálu. Na základě těchto agregovaných informací algoritmus LWRC vypočítá vhodnou přenosovou rychlost, kterou lze udržovat v celé vysílací oblasti, a zároveň splňuje cíle kvality služby a optimalizuje spektrální účinnost.
 
@@ -41,6 +41,7 @@ Omezením dřívějších přístupů bez sofistikovaného řízení rychlosti b
 
 - [MBMS – Multimedia Broadcast Multicast Service](/mobilnisite/slovnik/mbms/)
 - [MBSFN – Multimedia Broadcast multicast service Single Frequency Network](/mobilnisite/slovnik/mbsfn/)
+- [QoS – Quality of Service](/mobilnisite/slovnik/qos/)
 
 ## Definující specifikace
 

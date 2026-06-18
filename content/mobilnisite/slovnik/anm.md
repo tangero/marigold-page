@@ -16,7 +16,7 @@ ANM je signalizační zpráva protokolu ISUP používaná v okruhově přepínan
 
 ## Popis
 
-Zpráva Answer Message (ANM) je specifická zpráva v rámci protokolu Integrated Services Digital Network User Part ([ISUP](/mobilnisite/slovnik/isup/)), který je klíčovou součástí sady Signalizačního systému č. 7 (SS7) používaného v tradičních telefonních sítích veřejné komutované telefonní sítě (PSTN) a v raných mobilních sítích jako GSM. ISUP je zodpovědný za sestavení, správu a ukončení hlasových hovorů přes okruhově přepínané spojení. ANM je odeslána v opačném směru, od cílové ústředny (nebo mobilní ústředny) zpět směrem k ústředně původce, po úspěšném doručení zprávy Initial Address Message ([IAM](/mobilnisite/slovnik/iam/)) a Address Complete Message ([ACM](/mobilnisite/slovnik/acm/)).
+Zpráva Answer Message (ANM) je specifická zpráva v rámci protokolu Integrated Services Digital Network User Part ([ISUP](/mobilnisite/slovnik/isup/)), který je klíčovou součástí sady Signalizačního systému č. 7 ([SS7](/mobilnisite/slovnik/ss7/)) používaného v tradičních telefonních sítích veřejné komutované telefonní sítě ([PSTN](/mobilnisite/slovnik/pstn/)) a v raných mobilních sítích jako GSM. ISUP je zodpovědný za sestavení, správu a ukončení hlasových hovorů přes okruhově přepínané spojení. ANM je odeslána v opačném směru, od cílové ústředny (nebo mobilní ústředny) zpět směrem k ústředně původce, po úspěšném doručení zprávy Initial Address Message ([IAM](/mobilnisite/slovnik/iam/)) a Address Complete Message ([ACM](/mobilnisite/slovnik/acm/)).
 
 Architektonicky je ANM generována ústřednou, která obsluhuje volaného účastníka, jakmile volané zařízení zvedne sluchátko (ve fixní síti) nebo mobilní účastník přijme hovor. Toto generování je spuštěno událostí z přístupové sítě, například zprávou CONNECT v GSM. Zpráva prochází signalizační cestou vytvořenou během sestavování hovoru a informuje každou mezilehlou ústřednu na trase, že hovor byl přijat. To umožňuje těmto ústřednám aktualizovat jejich vnitřní stav hovoru a, což je klíčové, propojit hlasovou přenosovou cestu přes okruhově přepínanou síť, čímž se umožní obousměrný hovor.
 
@@ -24,7 +24,7 @@ Samotná zpráva obsahuje parametry, které identifikují konkrétní hovor pomo
 
 ## K čemu slouží
 
-ANM existuje jako spolehlivý signalizační mechanismus v pásmu k potvrzení, že volaná strana přijala telefonní hovor v okruhově přepínané síti. Před standardizovanými signalizačními systémy jako SS7 se dohled nad hovorem (detekce zvednutí, položení) často prováděl pomocí tónů v přenosovém pásmu nebo [DC](/mobilnisite/slovnik/dc/) smyčkového dohledu na fyzických trasách, což bylo méně spolehlivé a funkčně omezené. Protokol [ISUP](/mobilnisite/slovnik/isup/) a konkrétně zpráva ANM vyřešily problém efektivní signalizace mimo přenosové pásmo pro řízení hovorů napříč složitými telekomunikačními sítěmi více dodavatelů.
+ANM existuje jako spolehlivý signalizační mechanismus v pásmu k potvrzení, že volaná strana přijala telefonní hovor v okruhově přepínané síti. Před standardizovanými signalizačními systémy jako SS7 se dohled nad hovorem (detekce zvednutí, položení) často prováděl pomocí tónů v přenosovém pásmu nebo DC smyčkového dohledu na fyzických trasách, což bylo méně spolehlivé a funkčně omezené. Protokol ISUP a konkrétně zpráva ANM vyřešily problém efektivní signalizace mimo přenosové pásmo pro řízení hovorů napříč složitými telekomunikačními sítěmi více dodavatelů.
 
 Její vznik byl motivován potřebou automatizované fakturace a efektivního využití zdrojů. Bez explicitního signálu o přijetí hovoru nemohly sítě přesně určit, kdy fakturovatelná konverzace začala, což vedlo k potenciálním ztrátám příjmů nebo sporům se zákazníky. Dále ANM umožňuje síťovým ústřednám zavázat přenosové zdroje (časový slot nebo okruh) pro hlasový přenos až poté, co je hovor potvrzen jako přijatý, čímž se zabrání plýtvání rezervací zdrojů pro hovory, které nejsou nikdy přijaty. Je základním stavebním kamenem pro vytvoření předvídatelné, fakturovatelné a spolehlivé telefonní služby v globálním měřítku.
 
@@ -42,6 +42,7 @@ Její vznik byl motivován potřebou automatizované fakturace a efektivního vy
 - [ISUP – MIME ISDN User Part Multi-purpose Internet Mail Extension](/mobilnisite/slovnik/isup/)
 - [ACM – Association for Computing Machinery](/mobilnisite/slovnik/acm/)
 - [IAM – Initial Address Message](/mobilnisite/slovnik/iam/)
+- [SS7 – Signalling System Number 7](/mobilnisite/slovnik/ss7/)
 
 ## Definující specifikace
 

@@ -16,7 +16,7 @@ GP (Guard Period) je ochranný interval, časový úsek v rámcích E-UTRA TDD, 
 
 ## Popis
 
-Ochranný interval (GP) je základní součástí struktury rámce s časovým duplexem (TDD) v [E-UTRA](/mobilnisite/slovnik/e-utra/) (Evolved UMTS Terrestrial Radio Access), jak je definováno ve specifikacích 3GPP. V TDD systémech je stejné frekvenční pásmo použito pro přenosy v uplinku (UL) i downlinku ([DL](/mobilnisite/slovnik/dl/)), které jsou odděleny v čase. GP je vyhrazený časový interval uvnitř TDD rámce, konkrétně umístěný mezi downlinkové a uplinkové podrámce nebo speciální podrámce. Jeho primární technická funkce je poskytnout rezervu pro časové nepřesnosti, zpoždění šíření signálu a konečný přepínací čas potřebný pro přechod transceiverů mezi režimy vysílání a příjmu. Bez tohoto ochranného intervalu by se signály z uplinkových přenosů mohly překrývat s koncem downlinkových příjmů na eNodeB nebo jiných UE, což by způsobilo závažné rušení a degradaci výkonu systému.
+Ochranný interval (GP) je základní součástí struktury rámce s časovým duplexem ([TDD](/mobilnisite/slovnik/tdd/)) v [E-UTRA](/mobilnisite/slovnik/e-utra/) (Evolved UMTS Terrestrial Radio Access), jak je definováno ve specifikacích 3GPP. V TDD systémech je stejné frekvenční pásmo použito pro přenosy v uplinku ([UL](/mobilnisite/slovnik/ul/)) i downlinku ([DL](/mobilnisite/slovnik/dl/)), které jsou odděleny v čase. GP je vyhrazený časový interval uvnitř TDD rámce, konkrétně umístěný mezi downlinkové a uplinkové podrámce nebo speciální podrámce. Jeho primární technická funkce je poskytnout rezervu pro časové nepřesnosti, zpoždění šíření signálu a konečný přepínací čas potřebný pro přechod transceiverů mezi režimy vysílání a příjmu. Bez tohoto ochranného intervalu by se signály z uplinkových přenosů mohly překrývat s koncem downlinkových příjmů na eNodeB nebo jiných UE, což by způsobilo závažné rušení a degradaci výkonu systému.
 
 Z architektonického hlediska je GP integrován do konfigurace TDD rámce definované parametry, jako je konfigurace speciálního podrámce. Speciální podrámec, který existuje v TDD, ale ne ve [FDD](/mobilnisite/slovnik/fdd/), typicky sestává ze tří částí: Downlink Pilot Time Slot (DwPTS), Guard Period (GP) a Uplink Pilot Time Slot (UpPTS). Délka GP je proměnná a je volena na základě velikosti buňky a scénáře nasazení. Pro větší buňky s většími zpožděními šíření je nutný delší GP, aby se vyrovnal čas oběhu signálu mezi eNodeB a vzdálenými UE. eNodeB konfiguruje příslušnou délku GP prostřednictvím vysílaných systémových informací, čímž zajišťuje, že všechna UE v buňce dodržují stejnou časovou strukturu.
 
@@ -24,7 +24,7 @@ Z provozní perspektivy GP funguje tak, že vytváří tiché období, během kt
 
 ## K čemu slouží
 
-Ochranný interval existuje, aby řešil základní výzvu rušení v TDD rádiových systémech. Ve sdíleném frekvenčním pásmu, pokud nejsou uplinkové a downlinkové přenosy dokonale odděleny v čase, dojde ke kolizi, což učiní komunikaci nespolehlivou. Rané TDD systémy trpěly takovým rušením kvůli nedokonalému přepínání zařízení a zpožděním šíření signálu. GP byl zaveden jako strukturované, standardizované řešení pro vložení řízeného, předvídatelného intervalu ticha, který poskytuje potřebnou časovou rezervu pro tyto fyzikální a procedurální omezení.
+Ochranný interval existuje, aby řešil základní výzvu rušení v [TDD](/mobilnisite/slovnik/tdd/) rádiových systémech. Ve sdíleném frekvenčním pásmu, pokud nejsou uplinkové a downlinkové přenosy dokonale odděleny v čase, dojde ke kolizi, což učiní komunikaci nespolehlivou. Rané TDD systémy trpěly takovým rušením kvůli nedokonalému přepínání zařízení a zpožděním šíření signálu. GP byl zaveden jako strukturované, standardizované řešení pro vložení řízeného, předvídatelného intervalu ticha, který poskytuje potřebnou časovou rezervu pro tyto fyzikální a procedurální omezení.
 
 Historicky, jak se mobilní systémy vyvíjely směrem k vyšším datovým rychlostem a efektivnějšímu využití spektra s LTE, získal TDD na významu díky své flexibilitě v alokaci kapacity mezi uplink a downlink. Tato flexibilita však zvýšila složitost časového sladění. GP překonal omezení předchozích, méně formalizovaných přístupů s ochranným pásmem tím, že jej přímo integroval do specifikace rámce. Umožňuje síťovým operátorům nasazovat buňky různé velikosti – od malých indoor femtobuněk po velké venkovské makrobuňky – pouhou úpravou délky GP v konfiguraci speciálního podrámce, čímž zajišťuje spolehlivý provoz ve všech scénářích nasazení.
 
@@ -39,6 +39,7 @@ Historicky, jak se mobilní systémy vyvíjely směrem k vyšším datovým rych
 
 ## Související pojmy
 
+- [TDD – Time Division Duplex(ing)](/mobilnisite/slovnik/tdd/)
 - [E-UTRA – Enhanced Universal Terrestrial Radio Access](/mobilnisite/slovnik/e-utra/)
 
 ## Definující specifikace

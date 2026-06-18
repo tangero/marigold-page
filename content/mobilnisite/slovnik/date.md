@@ -16,7 +16,7 @@ DATE je bezpečnostní identifikátor používaný v aplikacích UICC/USIM podle
 
 ## Popis
 
-Device Application Tag (DATE) je základní součástí bezpečnostní architektury 3GPP, konkrétně definovaná pro aplikace UICC (Universal Integrated Circuit Card) a USIM (Universal Subscriber Identity Module). Slouží jako jedinečný identifikátor instance aplikace umístěné na zabezpečeném prvku. DATE je strukturovaný datový prvek, typicky řetězec oktetů, definovaný ve specifikacích pro správu aplikací USIM a Toolkit (TS 31.111). Jeho primární role spočívá v tom, že je odkazován v zabezpečených příkazech, jako jsou ty používané pro [OTA](/mobilnisite/slovnik/ota/) (Over-The-Air) správu platformy, aby přesně cílily na konkrétní aplikaci pro operace jako instalace, personalizace, aktivace nebo smazání.
+Device Application Tag (DATE) je základní součástí bezpečnostní architektury 3GPP, konkrétně definovaná pro aplikace UICC (Universal Integrated Circuit Card) a [USIM](/mobilnisite/slovnik/usim/) (Universal Subscriber Identity Module). Slouží jako jedinečný identifikátor instance aplikace umístěné na zabezpečeném prvku. DATE je strukturovaný datový prvek, typicky řetězec oktetů, definovaný ve specifikacích pro správu aplikací USIM a Toolkit (TS 31.111). Jeho primární role spočívá v tom, že je odkazován v zabezpečených příkazech, jako jsou ty používané pro [OTA](/mobilnisite/slovnik/ota/) (Over-The-Air) správu platformy, aby přesně cílily na konkrétní aplikaci pro operace jako instalace, personalizace, aktivace nebo smazání.
 
 Architektonicky DATE funguje v zabezpečeném prostředí UICC, které hostuje aplikaci USIM a další volitelné aplikace (jako je [ISIM](/mobilnisite/slovnik/isim/) pro IMS). Když síťový operátor nebo poskytovatel služeb potřebuje spravovat aplikaci na dálku, příkaz pro správu (např. REFRESH, DELETE nebo ACTIVATE) obsahuje DATE cílové aplikace. Operační systém UICC použije tento tag k nalezení správných dat aplikace a provedení požadované operace. Tento mechanismus je nedílnou součástí protokolů Secure Channel používaných v OTA správě, což zajišťuje, že příkazy jsou autentizovány a autorizovány pro konkrétní aplikaci.
 
@@ -26,9 +26,9 @@ Role DATE přesahuje pouhou identifikaci; je základním kamenem pro zabezpečen
 
 ## K čemu slouží
 
-Device Application Tag byl vytvořen, aby řešil rostoucí potřebu bezpečné vzdálené správy více aplikací na UICC. Před jeho standardizací byla správa aplikací méně strukturovaná, často spoléhala na proprietární identifikátory nebo fyzickou výměnu karty. Jak se mobilní sítě vyvíjely, aby nabízely služby s přidanou hodnotou (jako mobilní bankovnictví, autentizační aplikace) přímo na SIM kartě, stala se standardizovaná, bezpečná metoda pro identifikaci a správu těchto jednotlivých softwarových entit na dálku kritickou. DATE řeší problém jednoznačného cílení v [OTA](/mobilnisite/slovnik/ota/) příkazech, což je zásadní pro bezpečnost – zajišťuje, že příkaz DELETE například ovlivní pouze zamýšlenou aplikaci a nikoliv základní USIM.
+Device Application Tag byl vytvořen, aby řešil rostoucí potřebu bezpečné vzdálené správy více aplikací na UICC. Před jeho standardizací byla správa aplikací méně strukturovaná, často spoléhala na proprietární identifikátory nebo fyzickou výměnu karty. Jak se mobilní sítě vyvíjely, aby nabízely služby s přidanou hodnotou (jako mobilní bankovnictví, autentizační aplikace) přímo na [SIM](/mobilnisite/slovnik/sim/) kartě, stala se standardizovaná, bezpečná metoda pro identifikaci a správu těchto jednotlivých softwarových entit na dálku kritickou. DATE řeší problém jednoznačného cílení v [OTA](/mobilnisite/slovnik/ota/) příkazech, což je zásadní pro bezpečnost – zajišťuje, že příkaz DELETE například ovlivní pouze zamýšlenou aplikaci a nikoliv základní [USIM](/mobilnisite/slovnik/usim/).
 
-Historicky první SIM karty primárně hostovaly jedinou aplikaci: modul pro autentizaci účastníka. Se zavedením SIM Application Toolkit (SAT/USAT) se objevila možnost pro síťově provizované aplikace. Správa těchto aplikací však vyžadovala robustní identifikační schéma. DATE, zavedený ve 3GPP Release 99 a upřesněný v pozdějších vydáních, toto poskytl. Řešil omezení předchozích ad-hoc přístupů definováním standardizovaného tagu v rámci sady příkazů 3GPP, což zajišťuje interoperabilitu mezi různými výrobci karet, síťovými operátory a OTA platformami.
+Historicky první SIM karty primárně hostovaly jedinou aplikaci: modul pro autentizaci účastníka. Se zavedením SIM Application Toolkit ([SAT](/mobilnisite/slovnik/sat/)/USAT) se objevila možnost pro síťově provizované aplikace. Správa těchto aplikací však vyžadovala robustní identifikační schéma. DATE, zavedený ve 3GPP Release 99 a upřesněný v pozdějších vydáních, toto poskytl. Řešil omezení předchozích ad-hoc přístupů definováním standardizovaného tagu v rámci sady příkazů 3GPP, což zajišťuje interoperabilitu mezi různými výrobci karet, síťovými operátory a OTA platformami.
 
 Motivace byla hnána komerčními a technickými potřebami: operátoři chtěli nasazovat a aktualizovat služby bez nutnosti, aby uživatelé měnili fyzické SIM karty, a poskytovatelé aplikací potřebovali zabezpečený kanál pro správu životního cyklu. DATE to umožňuje tím, že je klíčovým parametrem ve standardizovaných protokolech Remote Application Management (RAM) a OTA. Jeho vytvoření bylo zásadní pro umožnění moderního ekosystému eSIM a služeb založených na zabezpečeném prvku, čímž vytvořilo základ pro důvěryhodnou správu aplikací v sítích GSM, UMTS, LTE a 5G.
 
@@ -43,6 +43,7 @@ Motivace byla hnána komerčními a technickými potřebami: operátoři chtěli
 
 ## Související pojmy
 
+- [USIM – Universal Subscriber Identity Module](/mobilnisite/slovnik/usim/)
 - [OTA – Over The Air](/mobilnisite/slovnik/ota/)
 
 ## Definující specifikace

@@ -16,11 +16,11 @@ IPDT je funkční prvek v jádrové síti 3GPP, který ukončuje IP datový prov
 
 ## Popis
 
-IP Data Termination (IPDT) je funkce jádrové sítě definovaná v paketové doméně (PS) 3GPP. Působí jako architektonický kotvící bod a bod ukončení služby pro IP datové pakety pocházející od nebo směřující k uživatelskému zařízení (UE). Koncepčně se IPDT nachází v rámci uzlu Gateway [GPRS](/mobilnisite/slovnik/gprs/) Support Node (GGSN) v sítích 3G UMTS a později se vyvinul v Packet Data Network Gateway (PGW) v 4G EPS a v Session Management Function ([SMF](/mobilnisite/slovnik/smf/)) / User Plane Function ([UPF](/mobilnisite/slovnik/upf/)) v 5G. Jeho primární role je rozhraní mezi jádrovou sítí mobilního operátora a externími paketovými datovými sítěmi (PDN), jako je veřejný internet nebo privátní podnikové sítě.
+IP Data Termination (IPDT) je funkce jádrové sítě definovaná v paketové doméně ([PS](/mobilnisite/slovnik/ps/)) 3GPP. Působí jako architektonický kotvící bod a bod ukončení služby pro IP datové pakety pocházející od nebo směřující k uživatelskému zařízení (UE). Koncepčně se IPDT nachází v rámci uzlu Gateway [GPRS](/mobilnisite/slovnik/gprs/) Support Node (GGSN) v sítích 3G UMTS a později se vyvinul v Packet Data Network Gateway ([PGW](/mobilnisite/slovnik/pgw/)) v 4G EPS a v Session Management Function ([SMF](/mobilnisite/slovnik/smf/)) / User Plane Function ([UPF](/mobilnisite/slovnik/upf/)) v 5G. Jeho primární role je rozhraní mezi jádrovou sítí mobilního operátora a externími paketovými datovými sítěmi ([PDN](/mobilnisite/slovnik/pdn/)), jako je veřejný internet nebo privátní podnikové sítě.
 
-Architektonicky je IPDT zodpovědný za vytváření a správu přenosové cesty v uživatelské rovině. Když UE aktivuje kontext Packet Data Protocol (PDP) v 3G nebo naváže připojení PDN v 4G/5G, signalizace zahrnuje nastavení logického tunelu (např. [GTP-U](/mobilnisite/slovnik/gtp-u/) tunelu) mezi bránou rádiové přístupové sítě (SGSN/SGW) a IPDT. IPDT přiděluje UE IP adresu, typicky přes [DHCP](/mobilnisite/slovnik/dhcp/) nebo z lokálního poolu, a stává se výchozím směrovačem pro IP provoz UE. Provádí klíčové funkce jako směrování a přeposílání paketů, kontrolu provozu a často integruje funkce Policy and Charging Control (PCC) pro detekci datových toků služby, jejich povolování/zakazování a vynucování kvality služeb (QoS).
+Architektonicky je IPDT zodpovědný za vytváření a správu přenosové cesty v uživatelské rovině. Když UE aktivuje kontext Packet Data Protocol ([PDP](/mobilnisite/slovnik/pdp/)) v 3G nebo naváže připojení PDN v 4G/5G, signalizace zahrnuje nastavení logického tunelu (např. [GTP-U](/mobilnisite/slovnik/gtp-u/) tunelu) mezi bránou rádiové přístupové sítě (SGSN/SGW) a IPDT. IPDT přiděluje UE IP adresu, typicky přes DHCP nebo z lokálního poolu, a stává se výchozím směrovačem pro IP provoz UE. Provádí klíčové funkce jako směrování a přeposílání paketů, kontrolu provozu a často integruje funkce Policy and Charging Control (PCC) pro detekci datových toků služby, jejich povolování/zakazování a vynucování kvality služeb (QoS).
 
-Z protokolového hlediska IPDT ukončuje GPRS Tunneling Protocol ([GTP](/mobilnisite/slovnik/gtp/)) na rozhraní Gn (3G) nebo S5/S8 (4G) ze strany jádrové sítě. Na svém externím rozhraní (Gi v 3G/4G, N6 v 5G) používá standardní IP směrovací protokoly. Může také implementovat schopnosti Deep Packet Inspection (DPI), aplikovat pravidla firewallu a shromažďovat data pro účtovací záznamy ([CDR](/mobilnisite/slovnik/cdr/)). Výkon a škálovatelnost IPDT jsou klíčové pro celkovou propustnost dat sítě a uživatelský zážitek.
+Z protokolového hlediska IPDT ukončuje GPRS Tunneling Protocol (GTP) na rozhraní Gn (3G) nebo S5/S8 (4G) ze strany jádrové sítě. Na svém externím rozhraní (Gi v 3G/4G, N6 v 5G) používá standardní IP směrovací protokoly. Může také implementovat schopnosti Deep Packet Inspection (DPI), aplikovat pravidla firewallu a shromažďovat data pro účtovací záznamy (CDR). Výkon a škálovatelnost IPDT jsou klíčové pro celkovou propustnost dat sítě a uživatelský zážitek.
 
 V širší síťové architektuře je IPDT centrálním uzlem pro správu mobility. V 3G/4G slouží jako kotvící bod pro předávání mezi SGSN nebo mezi SGW, čímž zajišťuje kontinuitu IP relace. Jeho vývoj v PGW v EPS a SMF/UPF v systému 5G odráží jeho trvalou roli bodu konvergence, kde se setkávají politiky mobilní sítě s IP světem, a spravuje most mezi mobilně specifickými transportními protokoly a univerzální IP vrstvou.
 
@@ -43,7 +43,9 @@ IPDT navíc abstrahoval složitosti rádiové přístupové sítě od externího
 
 ## Související pojmy
 
+- [PGW – PDN Gateway](/mobilnisite/slovnik/pgw/)
 - [GTP – GPRS Tunnelling Protocols](/mobilnisite/slovnik/gtp/)
+- [PCC – Performance-oriented Congestion Control](/mobilnisite/slovnik/pcc/)
 
 ## Definující specifikace
 

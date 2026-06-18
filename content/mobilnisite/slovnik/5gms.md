@@ -41,6 +41,10 @@ Historicky vycházela motivace z touhy vytvořit životaschopnou, standardizovan
 - Architektura podporující edge computing prostřednictvím Edge-enabled Application Server (EAS)
 - Správa mediálních relací pro životní cyklus, mobilitu a koordinaci zdrojů
 
+## Související pojmy
+
+- [QoS – Quality of Service](/mobilnisite/slovnik/qos/)
+
 ## Definující specifikace
 
 - **TS 26.116** (Rel-19) — TV Video Formats for 3GPP Services

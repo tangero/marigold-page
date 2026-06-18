@@ -16,9 +16,9 @@ I-CSCF (Interrogating-Call Session Control Function) je centrální směrovací 
 
 ## Popis
 
-Interrogating-Call Session Control Function ([I-CSCF](/mobilnisite/slovnik/icscf/)) je základní SIP proxy v jádru 3GPP IP Multimedia Subsystem (IMS), definovaná v mnoha specifikacích počínaje 3GPP Release 5. Nachází se na okraji domácí IMS sítě operátora. Když se User Equipment (UE) registruje v IMS síti, registrační požadavek po průchodu přes Proxy-CSCF ([P-CSCF](/mobilnisite/slovnik/p-cscf/)) dorazí k I-CSCF. Klíčovým úkolem I-CSCF je dotázat se Home Subscriber Server ([HSS](/mobilnisite/slovnik/hss/)) přes rozhraní Cx (pomocí protokolu Diameter), aby určil, který Serving-CSCF (S-CSCF) má být uživateli přiřazen, nebo aby zjistil již přiřazený S-CSCF.
+Interrogating-Call Session Control Function ([I-CSCF](/mobilnisite/slovnik/icscf/)) je základní [SIP](/mobilnisite/slovnik/sip/) proxy v jádru 3GPP IP Multimedia Subsystem (IMS), definovaná v mnoha specifikacích počínaje 3GPP Release 5. Nachází se na okraji domácí IMS sítě operátora. Když se User Equipment (UE) registruje v IMS síti, registrační požadavek po průchodu přes Proxy-CSCF ([P-CSCF](/mobilnisite/slovnik/p-cscf/)) dorazí k I-CSCF. Klíčovým úkolem I-CSCF je dotázat se Home Subscriber Server ([HSS](/mobilnisite/slovnik/hss/)) přes rozhraní Cx (pomocí protokolu Diameter), aby určil, který Serving-CSCF ([S-CSCF](/mobilnisite/slovnik/s-cscf/)) má být uživateli přiřazen, nebo aby zjistil již přiřazený S-CSCF.
 
-Během registrace I-CSCF přijme veřejnou nebo privátní identitu účastníka. Odešle HSS žádost o autorizaci uživatele (User Authorization Request, UAR). HSS odpoví s požadovanými schopnostmi pro S-CSCF (S-CSCF capabilities), nebo, pokud je S-CSCF již přiřazen, s jeho adresou. I-CSCF pak tyto informace použije buď k výběru vhodného S-CSCF ze skupiny na základě požadovaných schopností, nebo k přeposlání registračního požadavku přímo již přiřazenému S-CSCF. Tento proces zajišťuje vyrovnávání zátěže a efektivní přiřazování S-CSCF.
+Během registrace I-CSCF přijme veřejnou nebo privátní identitu účastníka. Odešle HSS žádost o autorizaci uživatele (User Authorization Request, [UAR](/mobilnisite/slovnik/uar/)). HSS odpoví s požadovanými schopnostmi pro S-CSCF (S-CSCF capabilities), nebo, pokud je S-CSCF již přiřazen, s jeho adresou. I-CSCF pak tyto informace použije buď k výběru vhodného S-CSCF ze skupiny na základě požadovaných schopností, nebo k přeposlání registračního požadavku přímo již přiřazenému S-CSCF. Tento proces zajišťuje vyrovnávání zátěže a efektivní přiřazování S-CSCF.
 
 Pro příchozí požadavky na relaci (například příchozí VoIP hovor) slouží I-CSCF jako vstupní bod do domácí sítě z externí sítě (například IMS jiného operátora). Požadavek je směrován na I-CSCF na základě [DNS](/mobilnisite/slovnik/dns/) dotazů na doménu domácí sítě. I-CSCF se pak dotáže HSS pomocí žádosti o informace o poloze (Location Information Request, [LIR](/mobilnisite/slovnik/lir/)), aby získal adresu S-CSCF, který aktuálně obsluhuje volanou stranu. Jakmile obdrží adresu S-CSCF, proxyuje SIP INVITE požadavek na tento S-CSCF pro další zpracování a doručení k UE.
 
@@ -26,11 +26,11 @@ Dále může I-CSCF poskytovat funkci skrytí topologie. Tím, že slouží jako
 
 ## K čemu slouží
 
-[I-CSCF](/mobilnisite/slovnik/icscf/) byla vytvořena jako součást původní architektury IMS (3GPP R5) k řešení kritických problémů se směrováním a škálovatelností ve velké, multioperátorské síti služeb založené na SIP. V čisté SIP síti bez takové funkce by bylo obtížné najít server zodpovědný za konkrétního uživatele a mohlo by dojít k odhalení struktury vnitřní sítě.
+I-CSCF byla vytvořena jako součást původní architektury IMS (3GPP R5) k řešení kritických problémů se směrováním a škálovatelností ve velké, multioperátorské síti služeb založené na SIP. V čisté SIP síti bez takové funkce by bylo obtížné najít server zodpovědný za konkrétního uživatele a mohlo by dojít k odhalení struktury vnitřní sítě.
 
 Jejím hlavním účelem je poskytovat zjistitelný, stabilní vstupní bod do IMS sítě domácího operátora. To umožňuje jiným sítím směrovat relace k uživateli bez nutnosti znát konkrétní interní server (S-CSCF), který spravuje registraci tohoto uživatele. Odděluje veřejně směrovatelnou adresu uživatele (doména domácí sítě) od interního, potenciálně proměnlivého přiřazení serveru. To umožňuje vyrovnávání zátěže mezi více S-CSCF a umožňuje obnovu po selhání S-CSCF bez dopadu na externí směrování.
 
-Navíc I-CSCF prostřednictvím své interakce s [HSS](/mobilnisite/slovnik/hss/) centralizuje logiku pro přiřazování S-CSCF na základě profilů služeb uživatele a síťových schopností. To umožňuje optimalizované přidělování zdrojů. Plní také zásadní bezpečnostní a soukromou roli skrytím topologie vnitřní sítě před externími subjekty, čímž brání potenciálním útočníkům v mapování sítě nebo přímém cílení na konkrétní interní servery. Byla to klíčová inovace, která učinila IMS životaschopnou architekturou pro operátorské, interoperabilní multimediální služby.
+Navíc I-CSCF prostřednictvím své interakce s HSS centralizuje logiku pro přiřazování S-CSCF na základě profilů služeb uživatele a síťových schopností. To umožňuje optimalizované přidělování zdrojů. Plní také zásadní bezpečnostní a soukromou roli skrytím topologie vnitřní sítě před externími subjekty, čímž brání potenciálním útočníkům v mapování sítě nebo přímém cílení na konkrétní interní servery. Byla to klíčová inovace, která učinila IMS životaschopnou architekturou pro operátorské, interoperabilní multimediální služby.
 
 ## Klíčové vlastnosti
 
@@ -43,6 +43,7 @@ Navíc I-CSCF prostřednictvím své interakce s [HSS](/mobilnisite/slovnik/hss/
 
 ## Související pojmy
 
+- [S-CSCF – Serving Call Session Control Function](/mobilnisite/slovnik/s-cscf/)
 - [P-CSCF – Proxy Call Session Control Function](/mobilnisite/slovnik/p-cscf/)
 - [HSS – Home Subscriber Server](/mobilnisite/slovnik/hss/)
 - [IMS – IP Multimedia Subsystem](/mobilnisite/slovnik/ims/)

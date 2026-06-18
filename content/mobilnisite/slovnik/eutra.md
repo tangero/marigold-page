@@ -16,11 +16,11 @@ EUTRA je rozhraní pro přenos po rádiovém kanálu (vzdušné rozhraní) a tec
 
 ## Popis
 
-Evolved Universal Terrestrial Radio Access (EUTRA) je oficiální označení 3GPP pro technologii rádiového přístupu tvořící základ Long-Term Evolution (LTE). Definuje kompletní soubor specifikací pro vrstvu 1 (fyzická vrstva) a vrstvu 2 (Medium Access Control, Radio Link Control a Packet Data Convergence Protocol) uživatelské a řídicí roviny přes rozhraní Uu mezi uživatelským zařízením (UE) a vysílačem eNodeB. EUTRA představuje čistý odklon od přístupu založeného na [CDMA](/mobilnisite/slovnik/cdma/) používaného v UMTS a přijímá pro downlink Orthogonal Frequency Division [Multiple Access](/mobilnisite/slovnik/multiple-access/) ([OFDMA](/mobilnisite/slovnik/ofdma/)) a pro uplink Single-Carrier [FDMA](/mobilnisite/slovnik/fdma/) (SC-FDMA).
+Evolved Universal Terrestrial Radio Access (EUTRA) je oficiální označení 3GPP pro technologii rádiového přístupu tvořící základ Long-Term Evolution (LTE). Definuje kompletní soubor specifikací pro vrstvu 1 (fyzická vrstva) a vrstvu 2 (Medium Access Control, Radio Link Control a Packet Data Convergence Protocol) uživatelské a řídicí roviny přes rozhraní Uu mezi uživatelským zařízením (UE) a vysílačem eNodeB. EUTRA představuje čistý odklon od přístupu založeného na [CDMA](/mobilnisite/slovnik/cdma/) používaného v UMTS a přijímá pro downlink Orthogonal Frequency Division [Multiple Access](/mobilnisite/slovnik/multiple-access/) ([OFDMA](/mobilnisite/slovnik/ofdma/)) a pro uplink Single-Carrier [FDMA](/mobilnisite/slovnik/fdma/) ([SC-FDMA](/mobilnisite/slovnik/sc-fdma/)).
 
 Z architektonického hlediska je EUTRA klíčovou součástí Evolved Packet System (EPS). Funguje ve zjednodušené ploché architektuře, kde eNodeB zvládá všechny funkce související s rádiovým přístupem, včetně správy rádiových prostředků, řízení přístupu, plánování a komprese hlaviček. Fyzická vrstva EUTRA je navržena pro extrémní flexibilitu, podporuje šířky kanálů od 1,4 MHz do 20 MHz a je škálovatelná pro širší pásma pomocí agregace nosných. Využívá rámovou strukturu založenou na 1ms podrámcích a jako základní schopnost pro zvýšení datových rychlostí a spektrální účinnosti podporuje víceanténní techniky ([MIMO](/mobilnisite/slovnik/mimo/)).
 
-Princip fungování EUTRA zahrnuje dynamické plánování v časové i frekvenční oblasti. Plánovač eNodeB přiděluje konkrétní zdrojové bloky (skupiny podnosných) různým UE každý 1ms přenosový časový interval (TTI). To umožňuje efektivní diverzitu více uživatelů a adaptivní modulaci a kódování (QPSK, [16QAM](/mobilnisite/slovnik/16qam/), [64QAM](/mobilnisite/slovnik/64qam/), 256QAM). Mezi klíčové kanály patří Physical Downlink Shared Channel ([PDSCH](/mobilnisite/slovnik/pdsch/)), Physical Uplink Shared Channel (PUSCH) a robustní sada řídicích kanálů pro přiřazení plánování, hybridní ARQ potvrzení a zpětnou vazbu informací o stavu kanálu. Koncepce EUTRA minimalizuje latenci s cílem dosáhnout latence uživatelské roviny pod 10 ms a podporuje jak režim provozu Frequency Division Duplex (FDD), tak Time Division Duplex (TDD).
+Princip fungování EUTRA zahrnuje dynamické plánování v časové i frekvenční oblasti. Plánovač eNodeB přiděluje konkrétní zdrojové bloky (skupiny podnosných) různým UE každý 1ms přenosový časový interval ([TTI](/mobilnisite/slovnik/tti/)). To umožňuje efektivní diverzitu více uživatelů a adaptivní modulaci a kódování ([QPSK](/mobilnisite/slovnik/qpsk/), 16QAM, 64QAM, 256QAM). Mezi klíčové kanály patří Physical Downlink Shared Channel (PDSCH), Physical Uplink Shared Channel (PUSCH) a robustní sada řídicích kanálů pro přiřazení plánování, hybridní ARQ potvrzení a zpětnou vazbu informací o stavu kanálu. Koncepce EUTRA minimalizuje latenci s cílem dosáhnout latence uživatelské roviny pod 10 ms a podporuje jak režim provozu Frequency Division Duplex (FDD), tak Time Division Duplex (TDD).
 
 ## K čemu slouží
 
@@ -43,6 +43,7 @@ EUTRA vyřešila problém neefektivního využití spektra pro přerušovaný IP
 
 - [LTE – Local Terminal Emulator](/mobilnisite/slovnik/lte/)
 - [OFDMA – Orthogonal Frequency Division Multiple Access](/mobilnisite/slovnik/ofdma/)
+- [SC-FDMA – Single Carrier – Frequency Division Multiple Access](/mobilnisite/slovnik/sc-fdma/)
 - [EPS – Evolved Packet System](/mobilnisite/slovnik/eps/)
 
 ## Definující specifikace

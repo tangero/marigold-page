@@ -16,7 +16,7 @@ IQF je síťová funkce 5G, která poskytuje ověření identity s ochranou souk
 
 ## Popis
 
-Funkce pro dotaz na identitu (IQF) je bezpečnostní funkce zavedená ve specifikaci 3GPP Release 16 jako součást vylepšené bezpečnostní architektury 5G. Působí v domácí veřejné pozemní mobilní síti ([HPLMN](/mobilnisite/slovnik/hplmn/)) a slouží jako klíčová ochrana soukromí. Jejím hlavním úkolem je zpracovávat dotazy týkající se zakrytých identit uživatelů. V 5G se za účelem ochrany soukromí uživatele nikdy nepřenáší trvalý identifikátor účastníka (SUPI) přes rozhraní v nezašifrované podobě. Namísto toho UE odesílá zakrytý identifikátor účastníka (SUCI), což je zašifrovaná forma SUPI. IQF poskytuje způsob, jak mohou ostatní autorizované síťové funkce tento SUCI ověřit, aniž by se tyto funkce dostaly k SUPI v prostém textu.
+Funkce pro dotaz na identitu (IQF) je bezpečnostní funkce zavedená ve specifikaci 3GPP Release 16 jako součást vylepšené bezpečnostní architektury 5G. Působí v domácí veřejné pozemní mobilní síti ([HPLMN](/mobilnisite/slovnik/hplmn/)) a slouží jako klíčová ochrana soukromí. Jejím hlavním úkolem je zpracovávat dotazy týkající se zakrytých identit uživatelů. V 5G se za účelem ochrany soukromí uživatele nikdy nepřenáší trvalý identifikátor účastníka ([SUPI](/mobilnisite/slovnik/supi/)) přes rozhraní v nezašifrované podobě. Namísto toho UE odesílá zakrytý identifikátor účastníka ([SUCI](/mobilnisite/slovnik/suci/)), což je zašifrovaná forma SUPI. IQF poskytuje způsob, jak mohou ostatní autorizované síťové funkce tento SUCI ověřit, aniž by se tyto funkce dostaly k SUPI v prostém textu.
 
 Architektonicky je IQF samostatná síťová funkce ([NF](/mobilnisite/slovnik/nf/)), která vystavuje rozhraní založené na službách, typicky založené na [HTTP](/mobilnisite/slovnik/http/)/2. Primárně komunikuje s funkcí Unified Data Management ([UDM](/mobilnisite/slovnik/udm/)) a funkcí Authentication Server Function ([AUSF](/mobilnisite/slovnik/ausf/)). Když konzumní NF (jako například Network Exposure Function ([NEF](/mobilnisite/slovnik/nef/)) nebo Service Communication Proxy (SCP)) obdrží žádost o službu obsahující SUCI, může potřebovat před dalším postupem ověřit stav předplatného uživatele. Namísto aby SUCI dešifrovala sama (což by vyžadovalo privátní klíč domácí sítě), odešle konzumní NF dotaz na identitu do IQF. Tento požadavek obsahuje SUCI a kontext dotazu.
 
@@ -24,7 +24,7 @@ IQF tento požadavek zpracuje tak, že nejprve dešifruje SUCI, aby získala SUP
 
 ## K čemu slouží
 
-IQF byla vytvořena za účelem vyřešení napětí mezi autorizací služeb a soukromím uživatele v sítích 5G. 5G zavedlo silnou ochranu soukromí identity účastníka povinným používáním SUCI přes rádiové rozhraní. Mnoho síťových služeb a expozičních [API](/mobilnisite/slovnik/api/) však potřebuje znát stav předplatného uživatele, aby mohlo autorizovat požadavky. Před zavedením IQF musely síťové funkce, které potřebovaly uživatele ověřit, buď SUCI zpracovávat samy (což narušovalo hranici soukromí), nebo se spoléhat na nepřímé metody, které byly neefektivní nebo nezabezpečené. Například aplikační server třetí strany přistupující k síti přes [NEF](/mobilnisite/slovnik/nef/) mohl obdržet SUCI a potřebovat zkontrolovat, zda je uživatel platným zákazníkem.
+IQF byla vytvořena za účelem vyřešení napětí mezi autorizací služeb a soukromím uživatele v sítích 5G. 5G zavedlo silnou ochranu soukromí identity účastníka povinným používáním SUCI přes rádiové rozhraní. Mnoho síťových služeb a expozičních API však potřebuje znát stav předplatného uživatele, aby mohlo autorizovat požadavky. Před zavedením IQF musely síťové funkce, které potřebovaly uživatele ověřit, buď SUCI zpracovávat samy (což narušovalo hranici soukromí), nebo se spoléhat na nepřímé metody, které byly neefektivní nebo nezabezpečené. Například aplikační server třetí strany přistupující k síti přes NEF mohl obdržet SUCI a potřebovat zkontrolovat, zda je uživatel platným zákazníkem.
 
 IQF poskytuje standardizované, bezpečné a soukromí chránící řešení tohoto problému. Stanovuje jasné funkční oddělení: IQF je jedinou entitou (kromě AUSF během primárního ověřování), která v jádru sítě dešifruje SUCI. Tím se centralizuje zpracování citlivého privátního klíče a minimalizuje se prostor pro útok. Umožňuje nové obchodní modely a scénáře síťové expozice, kde externí nebo interní poskytovatelé služeb mohou ověřit legitimitu uživatele, aniž by se dozvěděli jeho trvalou identitu, čímž jsou dodrženy přísné požadavky na soukromí podle GDPR a podobných předpisů. IQF je klíčovým prvkem umožňujícím bezpečné operace architektury založené na službách (SBA) ve scénářích využívajících zakryté identifikátory.
 
@@ -39,6 +39,8 @@ IQF poskytuje standardizované, bezpečné a soukromí chránící řešení toh
 
 ## Související pojmy
 
+- [SUCI – Subscription Concealed Identifier](/mobilnisite/slovnik/suci/)
+- [SUPI – Subscription Permanent Identifier](/mobilnisite/slovnik/supi/)
 - [UDM – Unified Data Management](/mobilnisite/slovnik/udm/)
 - [AUSF – Authentication Server Function](/mobilnisite/slovnik/ausf/)
 - [NEF – Network Exposure Function](/mobilnisite/slovnik/nef/)

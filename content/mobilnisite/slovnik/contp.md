@@ -22,7 +22,7 @@ Architektura CONTP zahrnuje specifické rámovací mechanismy, které identifiku
 
 CONTP funguje tak, že mezi komunikujícími entitami navazuje spojově orientovanou relaci, kde jsou znaky přenášeny jako diskrétní jednotky s odpovídajícím rámováním. Každý přenos znaku zahrnuje hlavičky specifické pro protokol, které identifikují kódování znaků a parametry přenosu. Protokol spravuje opakovaný přenos poškozených znaků a poskytuje potvrzovací mechanismy pro zajištění spolehlivého doručení. Zahrnuje také schopnosti pro vyjednávání a konverzi znakových sad, je-li to nutné.
 
-V architektuře sítě 3GPP CONTP typicky pracuje mezi uživatelským zařízením (UE) a aplikačními servery nebo mezi síťovými prvky vyžadujícími komunikaci založenou na znacích. Rozhraní s transportními protokoly nižších vrstev, jako je TCP/IP nebo specifické bezdrátové linkové protokoly, aby poskytoval služby přenosu znaků od konce ke konci. Návrh protokolu bere v úvahu charakteristiky bezdrátových sítí, včetně proměnlivé latence a možných přenosových chyb, a poskytuje robustnost pro znakově orientované aplikace v mobilním prostředí.
+V architektuře sítě 3GPP CONTP typicky pracuje mezi uživatelským zařízením (UE) a aplikačními servery nebo mezi síťovými prvky vyžadujícími komunikaci založenou na znacích. Rozhraní s transportními protokoly nižších vrstev, jako je [TCP/IP](/mobilnisite/slovnik/tcp-ip/) nebo specifické bezdrátové linkové protokoly, aby poskytoval služby přenosu znaků od konce ke konci. Návrh protokolu bere v úvahu charakteristiky bezdrátových sítí, včetně proměnlivé latence a možných přenosových chyb, a poskytuje robustnost pro znakově orientované aplikace v mobilním prostředí.
 
 ## K čemu slouží
 

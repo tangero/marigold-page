@@ -20,7 +20,7 @@ MEPC je klíčová funkce služby MCPTT, která autorizovanému uživateli umož
 
 Z architektonického hlediska funguje MEPC v aplikační vrstvě MCPTT, která je hostována na uživatelském zařízení (UE) a v síti na MCPTT aplikačních serverech. Klíčovými komponentami jsou MCPTT klient na uživatelském zařízení, MCPTT server (který spravuje řízení hovorů a distribuci médií) a podkladová síť 3GPP jádra (EPC nebo 5GC), která zajišťuje prioritní konektivitu. Když uživatel spustí MEPC, MCPTT klient odešle konkrétní servisní požadavek na MCPTT server. Tento požadavek obsahuje indikátory označující jej jako Emergency Private Call, včetně identity cílového uživatele (zamýšleného příjemce). MCPTT server žádost autentizuje, ověří autorizaci uživatele k provedení takového hovoru a následně jej zpracuje s nejvyšší prioritou.
 
-Pracovní postup zahrnuje několik kroků. Nejprve iniciující klient odešle serveru zprávu žádosti o soukromý nouzový hovor MCPTT (MCPTT EMERGENCY private call request). Server poté odešle oznámení o příchozím hovoru klientovi cílového uživatele. Po přijetí je mezi oběma stranami vytvořena vyhrazená přenosová cesta pro média. Zásadní je, že jsou vyvolány mechanismy Quality of Service (QoS) sítě 3GPP. MCPTT server komunikuje s funkcí Policy and Charging Rules Function (PCRF v EPC) nebo Policy Control Function ([PCF](/mobilnisite/slovnik/pcf/) v 5GC), aby zajistil, že datové toky hovoru získají nejvyšší QoS Class Identifier ([QCI](/mobilnisite/slovnik/qci/) nebo [5QI](/mobilnisite/slovnik/5qi/)), například ty vyhrazené pro mission critical hlas. To zaručuje minimální zpoždění a ztrátu paketů. Hovor je navíc soukromý, což znamená, že žádní jiní uživatelé se k němu bez autorizace nemohou připojit ani jej monitorovat. Hovor zůstává aktivní, dokud jej jedna ze stran výslovně neukončí, a server událost zaznamená pro účely auditu a analýzy incidentu, což je klíčový požadavek pro komunikaci v oblasti veřejné bezpečnosti.
+Pracovní postup zahrnuje několik kroků. Nejprve iniciující klient odešle serveru zprávu žádosti o soukromý nouzový hovor MCPTT (MCPTT EMERGENCY private call request). Server poté odešle oznámení o příchozím hovoru klientovi cílového uživatele. Po přijetí je mezi oběma stranami vytvořena vyhrazená přenosová cesta pro média. Zásadní je, že jsou vyvolány mechanismy Quality of Service (QoS) sítě 3GPP. MCPTT server komunikuje s funkcí Policy and Charging Rules Function ([PCRF](/mobilnisite/slovnik/pcrf/) v EPC) nebo Policy Control Function ([PCF](/mobilnisite/slovnik/pcf/) v 5GC), aby zajistil, že datové toky hovoru získají nejvyšší QoS Class Identifier ([QCI](/mobilnisite/slovnik/qci/) nebo [5QI](/mobilnisite/slovnik/5qi/)), například ty vyhrazené pro mission critical hlas. To zaručuje minimální zpoždění a ztrátu paketů. Hovor je navíc soukromý, což znamená, že žádní jiní uživatelé se k němu bez autorizace nemohou připojit ani jej monitorovat. Hovor zůstává aktivní, dokud jej jedna ze stran výslovně neukončí, a server událost zaznamená pro účely auditu a analýzy incidentu, což je klíčový požadavek pro komunikaci v oblasti veřejné bezpečnosti.
 
 ## K čemu slouží
 
@@ -42,6 +42,8 @@ Vývoj MEPC byl motivován požadavky globální komunity veřejné bezpečnosti
 ## Související pojmy
 
 - [MCPTT – Mission Critical Push to Talk Identity](/mobilnisite/slovnik/mcptt/)
+- [QoS – Quality of Service](/mobilnisite/slovnik/qos/)
+- [PCP – Priority Code Point](/mobilnisite/slovnik/pcp/)
 
 ## Definující specifikace
 

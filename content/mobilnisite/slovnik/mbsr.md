@@ -16,11 +16,11 @@ MBSR je mobilní přenosová stanice typu base station relay integrovaná do poh
 
 ## Popis
 
-Mobile Base Station Relay (MBSR) je specializovaný síťový uzel definovaný v 3GPP, který kombinuje funkce přenosového uzlu (relay node) a základnové stanice (gNB nebo ng-eNB v 5G), ale odlišuje se svou vlastní mobilitou. Na rozdíl od pevných přenosových stanic je MBSR integrován do pohyblivého vozidla, jako je autobus, vlak, letadlo nebo bezpilotní systém (UAS/dron). Jeho primární úlohou je poskytovat bezdrátový přístup uživatelským zařízením (UE) v oblasti svého pokrytí, přičemž sám se připojuje k síti prostřednictvím bezdrátového páteřního spoje (wireless backhaul link) k dárkové základnové stanici (Donor gNB nebo DgNB). Tím vzniká dvouskoková architektura: bezdrátový páteřní spoj (mezi DgNB a MBSR) a přístupový spoj (mezi MBSR a UE).
+Mobile Base Station Relay (MBSR) je specializovaný síťový uzel definovaný v 3GPP, který kombinuje funkce přenosového uzlu (relay node) a základnové stanice (gNB nebo ng-eNB v 5G), ale odlišuje se svou vlastní mobilitou. Na rozdíl od pevných přenosových stanic je MBSR integrován do pohyblivého vozidla, jako je autobus, vlak, letadlo nebo bezpilotní systém ([UAS](/mobilnisite/slovnik/uas/)/dron). Jeho primární úlohou je poskytovat bezdrátový přístup uživatelským zařízením (UE) v oblasti svého pokrytí, přičemž sám se připojuje k síti prostřednictvím bezdrátového páteřního spoje (wireless backhaul link) k dárkové základnové stanici (Donor gNB nebo DgNB). Tím vzniká dvouskoková architektura: bezdrátový páteřní spoj (mezi DgNB a MBSR) a přístupový spoj (mezi MBSR a UE).
 
 Z architektonického hlediska MBSR hostuje plnou distribuovanou jednotku gNB (gNB-DU) a v závislosti na nasazení může hostovat i centralizovanou jednotku gNB (gNB-CU). K 5G jádru sítě (5G Core Network) se připojuje přes Donor gNB využitím rozhraní F1 přes bezdrátový páteřní spoj. MBSR spravuje vlastní buňku/buňky, vysílá vlastní Physical Cell ID a systémové informace. Pro uživatelská zařízení (UE), která obsluhuje, se jeví jako standardní základnová stanice. Klíčovou technickou výzvou je řízení mobility samotného MBSR, které zahrnuje procedury předávání hovoru (handover) pro celý přenosový uzel a s ním asociovaná UE, když se pohybuje mezi buňkami dárkových stanic.
 
-Bezdrátový páteřní spoj může pracovat v pásmu (in-band, využívat stejné spektrum jako přístupový spoj) nebo mimo pásmo (out-of-band) a využívá pokročilé funkce jako principy integrovaného přístupu a páteře (IAB). MBSR musí zvládat dynamické změny topologie, možné zhoršení páteřního spoje v důsledku pohybu a být si vědom síťového řezování (network slicing), aby poskytoval konzistentní službu. Jeho provoz je koordinován sítí, která spravuje přidělování zdrojů pro páteřní i přístupové spoje, mobilitu a případně trajektorii MBSR v případě řízených platforem jako jsou drony.
+Bezdrátový páteřní spoj může pracovat v pásmu (in-band, využívat stejné spektrum jako přístupový spoj) nebo mimo pásmo (out-of-band) a využívá pokročilé funkce jako principy integrovaného přístupu a páteře ([IAB](/mobilnisite/slovnik/iab/)). MBSR musí zvládat dynamické změny topologie, možné zhoršení páteřního spoje v důsledku pohybu a být si vědom síťového řezování (network slicing), aby poskytoval konzistentní službu. Jeho provoz je koordinován sítí, která spravuje přidělování zdrojů pro páteřní i přístupové spoje, mobilitu a případně trajektorii MBSR v případě řízených platforem jako jsou drony.
 
 ## K čemu slouží
 
@@ -38,6 +38,10 @@ Motivace vychází z různých případů užití: poskytování vylepšené kon
 - Schopnost poskytovat spravované síťové pokrytí a kapacitu v dynamických, pohyblivých scénářích
 - Podpora síťového řezování (network slicing), koncové QoS a zabezpečení přes přenosové spojení
 - Integrace do architektury 5G systému pomocí standardizovaných rozhraní (např. F1 přes rádiové rozhraní)
+
+## Související pojmy
+
+- [IAB – Integrated Access and Backhaul](/mobilnisite/slovnik/iab/)
 
 ## Definující specifikace
 

@@ -44,6 +44,7 @@ Motivace byla hluboce zakořeněna v principech úspěchu GSM: standardizace a i
 ## Související pojmy
 
 - [ARFCN – Absolute Radio Frequency Channel Number](/mobilnisite/slovnik/arfcn/)
+- [PLMN – Public Land Mobile Network](/mobilnisite/slovnik/plmn/)
 
 ## Definující specifikace
 

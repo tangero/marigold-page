@@ -16,7 +16,7 @@ DP je dešifrovaný údaj osobního identifikačního čísla (PIN), který je b
 
 ## Popis
 
-DP, z anglického Decrypted PIN, je bezpečnostní termín ve specifikacích 3GPP, který označuje osobní identifikační číslo (PIN) v jeho dešifrovaném stavu po provedení kryptografického zpracování. PIN je tajný číselný kód používaný pro autentizaci uživatele, typicky s USIM (Universal Subscriber Identity Module) nebo SIM kartou pro odemčení služeb nebo ověření identity. V bezpečnostní architektuře je PIN uložen v zašifrované podobě, aby se zabránilo neoprávněnému přístupu, a DP představuje výsledek dešifrování této hodnoty pomocí bezpečného klíče, což umožňuje její porovnání se vstupem od uživatele nebo použití v dalších krocích autentizace. Tento proces je součástí širšího rámce autentizace a dohody o klíči ([AKA](/mobilnisite/slovnik/aka/)) a mechanismů zabezpečeného přístupu ke službám definovaných v 3GPP.
+DP, z anglického Decrypted [PIN](/mobilnisite/slovnik/pin/), je bezpečnostní termín ve specifikacích 3GPP, který označuje osobní identifikační číslo (PIN) v jeho dešifrovaném stavu po provedení kryptografického zpracování. PIN je tajný číselný kód používaný pro autentizaci uživatele, typicky s [USIM](/mobilnisite/slovnik/usim/) (Universal Subscriber Identity Module) nebo [SIM](/mobilnisite/slovnik/sim/) kartou pro odemčení služeb nebo ověření identity. V bezpečnostní architektuře je PIN uložen v zašifrované podobě, aby se zabránilo neoprávněnému přístupu, a DP představuje výsledek dešifrování této hodnoty pomocí bezpečného klíče, což umožňuje její porovnání se vstupem od uživatele nebo použití v dalších krocích autentizace. Tento proces je součástí širšího rámce autentizace a dohody o klíči ([AKA](/mobilnisite/slovnik/aka/)) a mechanismů zabezpečeného přístupu ke službám definovaných v 3GPP.
 
 Fungování DP zahrnuje několik vrstev bezpečnostních protokolů. Nejprve je PIN zašifrován pomocí algoritmů, jako jsou ty založené na autentizačním klíči účastníka (Ki) nebo jiných bezpečných klíčech uložených na USIM. Když je vyžadována autentizace – například při startu mobilního zařízení nebo přístupu k omezené službě – systém načte zašifrovaný PIN, dešifruje jej pomocí příslušného klíče (často v rámci zabezpečeného prostředí, jako je odolný hardware USIM), čímž získá DP. Tato dešifrovaná hodnota je pak interně použita pro ověření bez toho, aby byla vystavena externě. Mezi klíčové komponenty patří aplikace USIM, která spravuje šifrování a dešifrování PIN, a bezpečnostní funkce mobilního zařízení, které komunikují s USIM za účelem bezpečného nakládání s DP, a zajišťují, že nikdy neopustí chráněnou doménu v otevřené podobě.
 
@@ -24,9 +24,9 @@ Fungování DP zahrnuje několik vrstev bezpečnostních protokolů. Nejprve je 
 
 ## K čemu slouží
 
-DP existuje, aby řešil bezpečnostní výzvu nakládání s osobními identifikačními čísly (PIN) v mobilních systémech bez jejich vystavení zranitelnostem. PIN je kritické tajemství pro autentizaci uživatele a jeho ukládání nebo přenos v otevřené podobě by s sebou neslo riziko odposlechu a podvodu. Použitím šifrovaného úložiště PIN a dešifrovaného PIN (DP) pouze v rámci zabezpečeného prostředí specifikace 3GPP zajišťují, že ověření PIN může proběhnout bezpečně, čímž řeší problém bezpečného řízení tajemství v zařízeních a sítích.
+DP existuje, aby řešil bezpečnostní výzvu nakládání s osobními identifikačními čísly ([PIN](/mobilnisite/slovnik/pin/)) v mobilních systémech bez jejich vystavení zranitelnostem. PIN je kritické tajemství pro autentizaci uživatele a jeho ukládání nebo přenos v otevřené podobě by s sebou neslo riziko odposlechu a podvodu. Použitím šifrovaného úložiště PIN a dešifrovaného PIN (DP) pouze v rámci zabezpečeného prostředí specifikace 3GPP zajišťují, že ověření PIN může proběhnout bezpečně, čímž řeší problém bezpečného řízení tajemství v zařízeních a sítích.
 
-Historicky měly rané mobilní systémy jednodušší bezpečnostní mechanismy, které byly náchylné k útokům, jako je klonování nebo odposlech. Zavedení DP v 3GPP od verze R99 odráží vývoj směrem k robustnějším bezpečnostním postupům, které využívají kryptografické techniky k ochraně citlivých dat. To bylo motivováno rostoucí potřebou zabezpečených mobilních služeb, jako je mobilní bankovnictví nebo korporátní přístup, kde se PIN používá pro zajištění identity. Předchozí přístupy, které spoléhaly na méně bezpečné metody ukládání nebo přenosu, byly pro tyto pokročilé případy použití nedostatečné.
+Historicky měly rané mobilní systémy jednodušší bezpečnostní mechanismy, které byly náchylné k útokům, jako je klonování nebo odposlech. Zavedení DP v 3GPP od verze [R99](/mobilnisite/slovnik/r99/) odráží vývoj směrem k robustnějším bezpečnostním postupům, které využívají kryptografické techniky k ochraně citlivých dat. To bylo motivováno rostoucí potřebou zabezpečených mobilních služeb, jako je mobilní bankovnictví nebo korporátní přístup, kde se PIN používá pro zajištění identity. Předchozí přístupy, které spoléhaly na méně bezpečné metody ukládání nebo přenosu, byly pro tyto pokročilé případy použití nedostatečné.
 
 Vytvoření DP je hnací silou požadavku na dodržování bezpečnostních standardů a předpisů, jako jsou ty pro finanční transakce nebo ochranu soukromí dat. Umožňuje bezpečné nakládání s PIN napříč různými rozhraními a procedurami definovanými 3GPP, od správy zařízení po síťovou autentizaci. Definováním DP poskytuje 3GPP standardizovaný způsob správy PIN, který vyvažuje použitelnost a bezpečnost, zajišťuje interoperabilitu mezi různými výrobci USIM a mobilními zařízeními a zároveň zmírňuje omezení dřívějších nekryptografických metod, které mohly ohrozit bezpečnost účastníka.
 
@@ -38,6 +38,11 @@ Vytvoření DP je hnací silou požadavku na dodržování bezpečnostních stan
 - Zajišťuje důvěrnost PIN tím, že omezuje vystavení otevřené podoby na zabezpečená prostředí
 - Nedílná součást procedur pro ověření PIN a řízení přístupu ke službám
 - Odkazováno ve specifikacích 3GPP pro správu zařízení a bezpečnostní protokoly
+
+## Související pojmy
+
+- [PIN – Personal Identification Number](/mobilnisite/slovnik/pin/)
+- [USIM – Universal Subscriber Identity Module](/mobilnisite/slovnik/usim/)
 
 ## Definující specifikace
 

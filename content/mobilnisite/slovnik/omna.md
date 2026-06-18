@@ -16,7 +16,7 @@ OMNA je registr spravovaný 3GPP, který přiděluje jedinečné identifikátory
 
 ## Popis
 
-Open Mobile Naming Authority (OMNA), specifikovaná v 3GPP TS 26.346, funguje jako centrální registrační a přidělovací autorita pro různé názvy, identifikátory a kódové body používané napříč technickými specifikacemi 3GPP. Jejím hlavním úkolem je udržovat registr jedinečných hodnot, aby se předešlo kolizím a zajistila jednoznačná interpretace polí protokolů a parametrů služeb v prostředích s více dodavateli. OMNA spravuje přidělování identifikátorů pro širokou škálu entit, včetně, ale ne pouze, identifikátorů přístupového bodu služby (SAPI) používaných v komunikaci protokolových vrstev, diskriminátorů protokolů, typů zpráv a výčtových hodnot pro funkce v rámci multimediálních a dalších domén služeb.
+Open Mobile Naming Authority (OMNA), specifikovaná v 3GPP TS 26.346, funguje jako centrální registrační a přidělovací autorita pro různé názvy, identifikátory a kódové body používané napříč technickými specifikacemi 3GPP. Jejím hlavním úkolem je udržovat registr jedinečných hodnot, aby se předešlo kolizím a zajistila jednoznačná interpretace polí protokolů a parametrů služeb v prostředích s více dodavateli. OMNA spravuje přidělování identifikátorů pro širokou škálu entit, včetně, ale ne pouze, identifikátorů přístupového bodu služby ([SAPI](/mobilnisite/slovnik/sapi/)) používaných v komunikaci protokolových vrstev, diskriminátorů protokolů, typů zpráv a výčtových hodnot pro funkce v rámci multimediálních a dalších domén služeb.
 
 Z architektonického hlediska OMNA není síťový prvek, ale administrativní funkce provozovaná 3GPP. Poskytuje veřejně přístupný registr (často publikovaný online), kde jsou uvedeny přidělené číselné hodnoty a jejich odpovídající definice. Když je v rámci 3GPP standardizován nový protokol, služba nebo funkce vyžadující jedinečný identifikátor, příslušná pracovní skupina podá žádost OMNA o přidělení hodnoty. Tento proces se řídí postupy 3GPP, aby byla zajištěna řízená a koordinovaná alokace. Záznamy v registru typicky obsahují hodnotu identifikátoru, krátký popis, specifikaci, která definuje jeho použití, a organizaci žadatele.
 
@@ -39,7 +39,9 @@ Její zavedení, zvláště patrné od vydání 12 v kontextu multimediálních 
 
 ## Související pojmy
 
+- [SAPI – Service Access Point Identifier](/mobilnisite/slovnik/sapi/)
 - [MBMS – Multimedia Broadcast Multicast Service](/mobilnisite/slovnik/mbms/)
+- [PSS – Packet Switched Streaming Service](/mobilnisite/slovnik/pss/)
 
 ## Definující specifikace
 

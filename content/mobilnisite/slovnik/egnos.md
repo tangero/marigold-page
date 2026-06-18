@@ -16,11 +16,11 @@ EGNOS je evropský satelitní doplňkový systém, který zlepšuje přesnost, i
 
 ## Popis
 
-European Geostationary Navigation Overlay Service (EGNOS) je satelitní doplňkový systém (SBAS) vyvinutý Evropskou kosmickou agenturou, Evropskou komisí a Eurocontrolem. Ačkoli nejde o technologii vytvořenou 3GPP, jeho podpora a integrace jsou specifikovány ve standardech 3GPP za účelem umožnění služeb založených na poloze v mobilních sítích. EGNOS zlepšuje výkon základních globálních navigačních satelitních systémů ([GNSS](/mobilnisite/slovnik/gnss/)), jako je [GPS](/mobilnisite/slovnik/gps/), tím, že poskytuje korekční data a informace o integritě.
+European Geostationary Navigation Overlay Service (EGNOS) je satelitní doplňkový systém ([SBAS](/mobilnisite/slovnik/sbas/)) vyvinutý Evropskou kosmickou agenturou, Evropskou komisí a Eurocontrolem. Ačkoli nejde o technologii vytvořenou 3GPP, jeho podpora a integrace jsou specifikovány ve standardech 3GPP za účelem umožnění služeb založených na poloze v mobilních sítích. EGNOS zlepšuje výkon základních globálních navigačních satelitních systémů ([GNSS](/mobilnisite/slovnik/gnss/)), jako je [GPS](/mobilnisite/slovnik/gps/), tím, že poskytuje korekční data a informace o integritě.
 
 Architektonicky se EGNOS skládá ze sítě přesně zaměřených pozemních referenčních stanic (RIMS - Ranging and Integrity Monitoring Stations) rozmístěných po celé Evropě. Tyto stanice nepřetržitě monitorují signály ze satelitů GPS. Shromážděná data jsou odesílána do hlavních řídicích center (MCCs), kde se vypočítávají chyby (jako jsou ty způsobené ionosférickým zpožděním, driftem satelitních hodin a nepřesnostmi efemerid). Tyto vypočtené korekční a integritní zprávy jsou následně nahrány na geostacionární satelity ([GEO](/mobilnisite/slovnik/geo/) satelity), které je vysílají přes oblast pokrytí služby EGNOS.
 
-Uživatelské zařízení (UE) s přijímačem GNSS podporujícím EGNOS přijímá jak standardní signály GPS, tak doplňkové signály EGNOS z GEO satelitů. Přijímač aplikuje korekční data na surová měření GPS, čímž výrazně zlepšuje polohovou přesnost z přibližně 10 metrů (samostatný GPS) na lepší než 1-2 metry horizontálně. Klíčové je, že EGNOS také poskytuje informace o integritě, které uživatele během sekund upozorní, pokud je signál GPS nespolehlivý nebo obsahuje chyby přesahující bezpečnostní limity pro aplikace jako je letecká navigace. V kontextu 3GPP mohou tato vylepšená polohová data být použita UE nebo poskytnuta síti prostřednictvím řídicí nebo uživatelské roviny polohových protokolů (např. [LPP](/mobilnisite/slovnik/lpp/), SUPL) pro podporu pokročilých služeb založených na poloze ([LBS](/mobilnisite/slovnik/lbs/)).
+Uživatelské zařízení (UE) s přijímačem GNSS podporujícím EGNOS přijímá jak standardní signály GPS, tak doplňkové signály EGNOS z GEO satelitů. Přijímač aplikuje korekční data na surová měření GPS, čímž výrazně zlepšuje polohovou přesnost z přibližně 10 metrů (samostatný GPS) na lepší než 1-2 metry horizontálně. Klíčové je, že EGNOS také poskytuje informace o integritě, které uživatele během sekund upozorní, pokud je signál GPS nespolehlivý nebo obsahuje chyby přesahující bezpečnostní limity pro aplikace jako je letecká navigace. V kontextu 3GPP mohou tato vylepšená polohová data být použita UE nebo poskytnuta síti prostřednictvím řídicí nebo uživatelské roviny polohových protokolů (např. [LPP](/mobilnisite/slovnik/lpp/), [SUPL](/mobilnisite/slovnik/supl/)) pro podporu pokročilých služeb založených na poloze ([LBS](/mobilnisite/slovnik/lbs/)).
 
 ## K čemu slouží
 
@@ -43,6 +43,7 @@ Specifikací toho, jak mohou UE a sítě využívat data EGNOS, umožnilo 3GPP m
 
 - [GNSS – Global Navigation Satellite System](/mobilnisite/slovnik/gnss/)
 - [LPP – LTE Positioning Protocol](/mobilnisite/slovnik/lpp/)
+- [SUPL – Secure User Plane for Location](/mobilnisite/slovnik/supl/)
 - [LBS – Location Based Services](/mobilnisite/slovnik/lbs/)
 
 ## Definující specifikace

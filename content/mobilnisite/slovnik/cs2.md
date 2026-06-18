@@ -16,7 +16,7 @@ CS2 je standardizovaná sada rozšířených schopností služeb telefonie a mul
 
 ## Popis
 
-Capability Set 2 (CS2) je komplexní rámec definovaný v architektuře IP subsystému multimédií (IMS) organizace 3GPP, primárně specifikovaný v TS 29.078 ([CAMEL](/mobilnisite/slovnik/camel/) fáze 4) a TS 29.278 (CAMEL Application Part ([CAP](/mobilnisite/slovnik/cap/)) pro IMS). Představuje významný vývoj ve schopnostech služeb, který přesahuje základní hlasovou telefonii a podporuje sofistikované multimediální relace a rozšířené funkce řízení hovorů. CS2 funguje rozšířením principů Customised Applications for Mobile networks Enhanced Logic (CAMEL) do domény IMS, což umožňuje síťovým operátorům nasazovat inteligentní, přidané služby nezávislé na podkladové přístupové technologii. Architektura využívá základní prvky IMS – jako je Serving-Call Session Control Function (S-CSCF) a Application Servers ([AS](/mobilnisite/slovnik/as/)) – k provádění servisní logiky spouštěné specifickými podmínkami nebo interakcemi uživatele, což usnadňuje vytvoření servisně-aware síťové vrstvy.
+Capability Set 2 (CS2) je komplexní rámec definovaný v architektuře IP subsystému multimédií (IMS) organizace 3GPP, primárně specifikovaný v TS 29.078 ([CAMEL](/mobilnisite/slovnik/camel/) fáze 4) a TS 29.278 (CAMEL Application Part ([CAP](/mobilnisite/slovnik/cap/)) pro IMS). Představuje významný vývoj ve schopnostech služeb, který přesahuje základní hlasovou telefonii a podporuje sofistikované multimediální relace a rozšířené funkce řízení hovorů. CS2 funguje rozšířením principů Customised Applications for Mobile networks Enhanced Logic (CAMEL) do domény IMS, což umožňuje síťovým operátorům nasazovat inteligentní, přidané služby nezávislé na podkladové přístupové technologii. Architektura využívá základní prvky IMS – jako je Serving-Call Session Control Function ([S-CSCF](/mobilnisite/slovnik/s-cscf/)) a Application Servers ([AS](/mobilnisite/slovnik/as/)) – k provádění servisní logiky spouštěné specifickými podmínkami nebo interakcemi uživatele, což usnadňuje vytvoření servisně-aware síťové vrstvy.
 
 Jádrem CS2 je definice standardizované sady protokolů a procedur pro provádění služeb, která primárně využívá protokol CAMEL Application Part (CAP) upravený pro IMS. To umožňuje bezproblémovou interakci mezi jádrem IMS a aplikačními servery a umožňuje řízení multimediálních relací v reálném čase. Mezi klíčové provozní mechanismy patří detekční body událostí (EDPs) v S-CSCF, které monitorují stavy hovorů a spouštějí provádění servisní logiky na určených aplikačních serverech. Například během sestavování hovoru může S-CSCF vyvolat aplikační server kompatibilní s CS2, aby aplikoval pravidla přesměrování hovoru, implementoval předplacené účtování nebo integroval multimediální komponenty, jako je video nebo instant messaging, na základě profilů účastníků a síťových politik.
 
@@ -43,6 +43,7 @@ Dále byl CS2 motivován rostoucí poptávkou po konvergovaných službách pevn
 
 - [IMS – IP Multimedia Subsystem](/mobilnisite/slovnik/ims/)
 - [CAMEL – Customised Applications for Mobile network Enhanced Logic](/mobilnisite/slovnik/camel/)
+- [S-CSCF – Serving Call Session Control Function](/mobilnisite/slovnik/s-cscf/)
 - [CAP – CAMEL Application Part](/mobilnisite/slovnik/cap/)
 
 ## Definující specifikace

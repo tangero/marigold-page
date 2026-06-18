@@ -18,7 +18,7 @@ EIF je síťová funkce 3GPP Release 19, která shromažďuje, zpracovává a po
 
 Funkce pro energetické informace (EIF) je řídicí funkce definovaná v rámci standardů 3GPP, která je specificky navržena pro řešení rostoucí potřeby energetické účinnosti v mobilních sítích. Funguje jako centralizovaná nebo distribuovaná entita, která komunikuje s různými síťovými funkcemi ([NF](/mobilnisite/slovnik/nf/)) a síťovými prvky ([NE](/mobilnisite/slovnik/ne/)) napříč rádiovým přístupovým sítí (RAN) a jádrem sítě (CN). Jejím hlavním úkolem je shromažďovat nezpracované metriky energetické spotřeby, jako je například využití energie ze základnových stanic (gNB, [eNB](/mobilnisite/slovnik/enb/)), serverů jádra sítě a dalších komponent infrastruktury. EIF tato data zpracovává, což může zahrnovat časové vzorce, korelace se zátěží a faktory prostředí, za účelem generování strukturovaných reportů o energetických informacích.
 
-EIF funguje tak, že zpřístupňuje standardizovaná rozhraní založená na službách (SBI), jak jsou definována ve specifikacích 3GPP jako 29.508 a 29.566, což umožňuje ostatním autorizovaným síťovým funkcím, jako je Funkce pro analýzu síťových dat (NWDAF) nebo systémy pro provoz, správu a údržbu (OAM), vyžádat si energetická data. Může shromažďovat data pomocí push nebo pull mechanismů, často agreguje informace od agentů pro správu energie nižší úrovně vestavěných v síťovém zařízení. Mezi klíčové vnitřní komponenty patří moduly pro sběr dat, zpracovatelské jednotky pro normalizaci a korelaci, úložiště pro historická data a body pro vynucování politik, které zajišťují ochranu soukromí dat a řízení přístupu podle specifikace 33.766.
+EIF funguje tak, že zpřístupňuje standardizovaná rozhraní založená na službách ([SBI](/mobilnisite/slovnik/sbi/)), jak jsou definována ve specifikacích 3GPP jako 29.508 a 29.566, což umožňuje ostatním autorizovaným síťovým funkcím, jako je Funkce pro analýzu síťových dat ([NWDAF](/mobilnisite/slovnik/nwdaf/)) nebo systémy pro provoz, správu a údržbu ([OAM](/mobilnisite/slovnik/oam/)), vyžádat si energetická data. Může shromažďovat data pomocí push nebo pull mechanismů, často agreguje informace od agentů pro správu energie nižší úrovně vestavěných v síťovém zařízení. Mezi klíčové vnitřní komponenty patří moduly pro sběr dat, zpracovatelské jednotky pro normalizaci a korelaci, úložiště pro historická data a body pro vynucování politik, které zajišťují ochranu soukromí dat a řízení přístupu podle specifikace 33.766.
 
 V celkové síťové architektuře hraje EIF klíčovou roli v udržitelnosti a strategiích operátorů pro snižování provozních nákladů ([OPEX](/mobilnisite/slovnik/opex/)). Poskytováním detailních, reálných a historických energetických přehledů podporuje pokročilou analytiku pro predikci energetické poptávky, identifikaci neefektivit a automatizaci úsporných opatření. Například může zásobovat daty modely [AI/ML](/mobilnisite/slovnik/ai-ml/), které optimalizují topologii sítě nebo režimy spánku buněk na základě provozní zátěže. Její integrace s řídicími systémy umožňuje automatizaci v uzavřené smyčce, kde jsou energetické politiky dynamicky upravovány, což přímo přispívá ke snížení uhlíkové stopy sítě a plnění ekologických regulačních požadavků.
 
@@ -36,6 +36,12 @@ Historicky byly funkce energetické účinnosti, jako jsou režimy spánku zákl
 - Řízení přístupu založené na politikách a bezpečnostní mechanismy pro energetické informace podle specifikace 33.766
 - Integrace s analytickými funkcemi (např. NWDAF) pro umožnění optimalizace energie řízené AI/ML
 - Schopnost podporovat klíčové ukazatele výkonnosti (KPI) energetické účinnosti a reportování udržitelnosti
+
+## Související pojmy
+
+- [NWDAF – Network Data Analytics Function](/mobilnisite/slovnik/nwdaf/)
+- [OAM – Operations, Administration, and Maintenance](/mobilnisite/slovnik/oam/)
+- [SBI – Service Based Interfaces](/mobilnisite/slovnik/sbi/)
 
 ## Definující specifikace
 

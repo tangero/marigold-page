@@ -16,7 +16,7 @@ GEO je oběžná dráha družice přibližně 35 786 km nad rovníkem, kde se dr
 
 ## Popis
 
-V kontextu norem 3GPP se termínem Geostationární oběžná dráha Země (GEO) označuje specifická dráha využívaná družicemi, které jsou integrovány jako přístupové uzly v rámci 3GPP definované Neterestriální sítě (NTN). GEO družice je umístěna ve výšce přibližně 35 786 kilometrů přímo nad zemským rovníkem a pohybuje se stejným směrem jako rotace planety. Tato synchronizace vede k oběžné periodě přesně 24 hodin, což způsobuje, že družice zůstává na obloze pevně umístěna vůči pozorovateli na zemi. Tato stacionární charakteristika je její definující operační vlastností.
+V kontextu norem 3GPP se termínem Geostationární oběžná dráha Země (GEO) označuje specifická dráha využívaná družicemi, které jsou integrovány jako přístupové uzly v rámci 3GPP definované Neterestriální sítě ([NTN](/mobilnisite/slovnik/ntn/)). GEO družice je umístěna ve výšce přibližně 35 786 kilometrů přímo nad zemským rovníkem a pohybuje se stejným směrem jako rotace planety. Tato synchronizace vede k oběžné periodě přesně 24 hodin, což způsobuje, že družice zůstává na obloze pevně umístěna vůči pozorovateli na zemi. Tato stacionární charakteristika je její definující operační vlastností.
 
 Z pohledu síťové architektury funguje GEO družice v 3GPP NTN jako rádiová základnová stanice, často označovaná v 5G terminologii jako gNB, nebo jako transparentní přenosová jednotka, která přeposílá signály. Propojuje koncové zařízení (UE) na zemi s pozemní bránovou stanicí, která je následně připojena k 5G Core síti. Komunikační spojení zahrnuje Servisní spoj (mezi UE a družicí) a Přípojné spojení (mezi družicí a bránou). Kvůli obrovské vzdálenosti zavedou GEO spoje velmi vysoké zpoždění šíření přibližně 250 milisekund pro zpáteční cestu, což je kritické konstrukční omezení ovlivňující protokoly a služby. Velká pokryvná plocha jedné GEO družice (pokrývající až třetinu zemského povrchu) je hlavní výhodou pro poskytování všudypřítomného pokrytí nad oceány, pouštěmi a dalšími neobsluhovanými oblastmi.
 
@@ -24,7 +24,7 @@ Specifikace 3GPP byly upraveny pro podporu NTN založených na GEO. To zahrnuje 
 
 ## K čemu slouží
 
-Standardizace provozu GEO družic v rámci 3GPP, počínaje Release 12 a významně rozšířená pro 5G NTN, je hnací silou snahy o poskytnutí plynulého globálního bezdrátového pokrytí. Tradiční terestrické sítě (buňky na stožárech) jsou ekonomicky a fyzicky nepraktické pro pokrytí rozsáhlých venkovských, námořních a leteckých oblastí. GEO družice tento problém řeší tím, že nabízejí jedinou platformu schopnou poskytnout nepřetržité pokrytí celému kontinentu nebo oceánské pánvi, zaplňují kritické mezery v pokrytí a umožňují skutečně všudypřítomnou konektivitu pro 5G.
+Standardizace provozu GEO družic v rámci 3GPP, počínaje Release 12 a významně rozšířená pro 5G [NTN](/mobilnisite/slovnik/ntn/), je hnací silou snahy o poskytnutí plynulého globálního bezdrátového pokrytí. Tradiční terestrické sítě (buňky na stožárech) jsou ekonomicky a fyzicky nepraktické pro pokrytí rozsáhlých venkovských, námořních a leteckých oblastí. GEO družice tento problém řeší tím, že nabízejí jedinou platformu schopnou poskytnout nepřetržité pokrytí celému kontinentu nebo oceánské pánvi, zaplňují kritické mezery v pokrytí a umožňují skutečně všudypřítomnou konektivitu pro 5G.
 
 Historicky existovala satelitní komunikace jako samostatný, neintegrovaný systém. Motivací pro integraci GEO (a dalších oběžných drah, jako jsou [LEO](/mobilnisite/slovnik/leo/) a [MEO](/mobilnisite/slovnik/meo/)) do norem 3GPP je sjednotit terestrické a neterestrické sítě v rámci společného rámce. To umožňuje mobilním zařízením potenciálně se připojit přímo k družicím pomocí upravených 3GPP protokolů, což umožňuje služby jako nouzová komunikace, sledování IoT aktiv ve vzdálených oblastech a přenosové spoje pro venkovské základnové stanice. Řeší to omezení čistě terestrických sítí tím, že zajišťuje všude kontinuitu služeb, což je nezbytné pro komunikaci klíčovou pro činnost, obnovu po katastrofách a propojení nepřipojených, čímž se podporují cíle udržitelného rozvoje OSN pro všeobecný přístup k internetu.
 
@@ -39,6 +39,7 @@ Historicky existovala satelitní komunikace jako samostatný, neintegrovaný sys
 
 ## Související pojmy
 
+- [NTN – Non-Terrestrial Networks](/mobilnisite/slovnik/ntn/)
 - [LEO – Low-Earth Orbiting satellites](/mobilnisite/slovnik/leo/)
 - [MEO – Medium-Earth Orbiting satellites](/mobilnisite/slovnik/meo/)
 

@@ -16,7 +16,7 @@ LCI je protokolový mechanismus, který přenáší informace o konvergenci prot
 
 ## Popis
 
-Layer Convergence Information (LCI, informace o konvergenci vrstev) je informační prvek na úrovni protokolu definovaný ve specifikacích 3GPP, který usnadňuje konvergenci a koordinaci různých protokolových vrstev, primárně v kontextu protokolu konvergence paketových dat (PDCP) a protokolu adaptace servisních dat (SDAP). Funguje tak, že nese metadata popisující, jak jsou protokoly nebo služby vyšších vrstev mapovány na transportní mechanismy nižších vrstev, včetně podrobností o kompresi hlaviček, bezpečnostních kontextech a mapování toků kvality služeb (QoS). Tyto informace jsou vyměňovány mezi uživatelským zařízením (UE) a síťovými uzly, jako je gNB v 5G nebo [eNB](/mobilnisite/slovnik/enb/) v LTE, během zřizování relace, procedur předávání spojení nebo při událostech rekonfigurace.
+Layer Convergence Information (LCI, informace o konvergenci vrstev) je informační prvek na úrovni protokolu definovaný ve specifikacích 3GPP, který usnadňuje konvergenci a koordinaci různých protokolových vrstev, primárně v kontextu protokolu konvergence paketových dat ([PDCP](/mobilnisite/slovnik/pdcp/)) a protokolu adaptace servisních dat ([SDAP](/mobilnisite/slovnik/sdap/)). Funguje tak, že nese metadata popisující, jak jsou protokoly nebo služby vyšších vrstev mapovány na transportní mechanismy nižších vrstev, včetně podrobností o kompresi hlaviček, bezpečnostních kontextech a mapování toků kvality služeb (QoS). Tyto informace jsou vyměňovány mezi uživatelským zařízením (UE) a síťovými uzly, jako je gNB v 5G nebo [eNB](/mobilnisite/slovnik/enb/) v LTE, během zřizování relace, procedur předávání spojení nebo při událostech rekonfigurace.
 
 Architektura LCI zahrnuje jeho zařazení do signalizačních zpráv řídicí roviny, jako jsou ty definované v protokolu [NGAP](/mobilnisite/slovnik/ngap/) (Next Generation Application Protocol) a [RRC](/mobilnisite/slovnik/rrc/) (Radio Resource Control). V praxi jsou parametry LCI zakódovány v informačních prvcích, které specifikují konfigurace konvergenční vrstvy, což umožňuje dynamickou adaptaci na síťové podmínky a požadavky služeb. Například během předání spojení z LTE do 5G NR může LCI sdělit, jak mají být PDCP kontexty zachovány nebo obnoveny, čímž zajišťuje plynulé přesměrování dat a minimální přerušení. Mezi klíčové komponenty patří samotná hodnota LCI, která může indikovat specifické konvergenční protokoly nebo režimy, a přidružené časovače nebo příznaky, které řídí její platnost a použití.
 
@@ -28,7 +28,7 @@ LCI bylo zavedeno, aby vyřešilo problém nevyrovnanosti a neefektivity protoko
 
 Historicky, jak se sítě 3GPP vyvíjely od vydání Rel-6 dále, rozšíření datových služeb a zavedení plně IP architektur zdůraznilo omezení stávajících zásobníků protokolů, které nebyly navrženy pro bezproblémovou vzájemnou spolupráci mezi různými rádiovými přístupovými sítěmi (RAN). LCI tato omezení řeší tím, že poskytuje flexibilní informační prvek, který zapouzdřuje konvergenční parametry, což umožňuje sítím přizpůsobovat chování protokolů bez nutnosti rozsáhlého nového vyjednávání nebo narušení služby. To je zvláště důležité pro scénáře, jako je předávání spojení mezi 4G a 5G, kde je udržení kontinuity relace a QoS prvořadé.
 
-Pokračující relevance LCI spočívá v jeho podpoře pokročilých funkcí, jako je duální konektivita, síťové řezání a ultra-spolehlivá komunikace s nízkou latencí (URLLC). Standardizací způsobu, jakým jsou informace o konvergenci sdělovány, snižuje implementační složitost a podporuje interoperabilitu napříč zařízeními různých dodavatelů, což nakonec přispívá k efektivnějšímu a škálovatelnějšímu ekosystému mobilních sítí.
+Pokračující relevance LCI spočívá v jeho podpoře pokročilých funkcí, jako je duální konektivita, síťové řezání a ultra-spolehlivá komunikace s nízkou latencí ([URLLC](/mobilnisite/slovnik/urllc/)). Standardizací způsobu, jakým jsou informace o konvergenci sdělovány, snižuje implementační složitost a podporuje interoperabilitu napříč zařízeními různých dodavatelů, což nakonec přispívá k efektivnějšímu a škálovatelnějšímu ekosystému mobilních sítí.
 
 ## Klíčové vlastnosti
 
@@ -41,6 +41,8 @@ Pokračující relevance LCI spočívá v jeho podpoře pokročilých funkcí, j
 
 ## Související pojmy
 
+- [PDCP – Packet Data Convergence Protocol](/mobilnisite/slovnik/pdcp/)
+- [SDAP – Service Data Adaptation Protocol](/mobilnisite/slovnik/sdap/)
 - [NGAP – Next Generation Application Protocol](/mobilnisite/slovnik/ngap/)
 
 ## Definující specifikace

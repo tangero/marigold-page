@@ -20,9 +20,9 @@ CTSARCH je uplink kanál v sítích GSM/EDGE, který mobilní stanice používaj
 
 Z architektonického hlediska je CTSARCH implementován jako vyhrazený uplink kanál s náhodným přístupem, který mobilní stanice používají k vysílání zpráv Channel Request. Tyto zprávy obsahují klíčové informace včetně identity mobilní stanice, požadovaného typu služby a důvodu navázání. Kanál funguje pomocí protokolu slotted Aloha se specifickými přístupovými parametry definovanými sítí, včetně maximálního počtu opakovaných pokusů, intervalů backoff a procedur power ramping. Subsystém základnové stanice ([BSS](/mobilnisite/slovnik/bss/)) monitoruje CTSARCH a odpovídá zprávami Immediate Assignment na odpovídajícím downlink řídicím kanálu.
 
-Kanál funguje prostřednictvím dobře definované přístupové procedury: když mobilní stanice potřebuje navázat spojení s přepojováním okruhů, nejprve se synchronizuje s broadcast control channel ([BCCH](/mobilnisite/slovnik/bcch/)), aby získala systémové informace včetně parametrů CTSARCH. MS poté vybere vhodný timeslot a vysílá zprávu Channel Request obsahující náhodné referenční číslo a důvod navázání. BSS tento požadavek přijme, přidělí vyhrazený provozní kanál (TCH) nebo signalizační kanál (SDCCH) a odpoví zprávou Immediate Assignment obsahující stejné náhodné reference pro korelaci. Toto dvoukrokové handshake zajišťuje spolehlivou alokaci kanálu při minimalizaci kolizí.
+Kanál funguje prostřednictvím dobře definované přístupové procedury: když mobilní stanice potřebuje navázat spojení s přepojováním okruhů, nejprve se synchronizuje s broadcast control channel ([BCCH](/mobilnisite/slovnik/bcch/)), aby získala systémové informace včetně parametrů CTSARCH. MS poté vybere vhodný timeslot a vysílá zprávu Channel Request obsahující náhodné referenční číslo a důvod navázání. BSS tento požadavek přijme, přidělí vyhrazený provozní kanál ([TCH](/mobilnisite/slovnik/tch/)) nebo signalizační kanál (SDCCH) a odpoví zprávou Immediate Assignment obsahující stejné náhodné reference pro korelaci. Toto dvoukrokové handshake zajišťuje spolehlivou alokaci kanálu při minimalizaci kolizí.
 
-Klíčové součásti systému CTSARCH zahrnují implementaci protokolu náhodného přístupu v mobilní stanici, konfiguraci přijímače základnové přenosové stanice ([BTS](/mobilnisite/slovnik/bts/)) pro detekci přístupových burstů a algoritmy alokace prostředků v řadiči základnové stanice (BSC). Kanál funguje se specifickými charakteristikami fyzické vrstvy, včetně zkrácené délky burstu (přístupové bursty o 88 bitech oproti běžným burstům o 148 bitech) a prodloužených ochranných period pro kompenzaci časové nejistoty. BSS implementuje sofistikované mechanismy detekce a řešení kolizí, včetně analýzy kvality přijímaného signálu a odhadu časového předstihu pro rozlišení více současných přístupových pokusů.
+Klíčové součásti systému CTSARCH zahrnují implementaci protokolu náhodného přístupu v mobilní stanici, konfiguraci přijímače základnové přenosové stanice (BTS) pro detekci přístupových burstů a algoritmy alokace prostředků v řadiči základnové stanice (BSC). Kanál funguje se specifickými charakteristikami fyzické vrstvy, včetně zkrácené délky burstu (přístupové bursty o 88 bitech oproti běžným burstům o 148 bitech) a prodloužených ochranných period pro kompenzaci časové nejistoty. BSS implementuje sofistikované mechanismy detekce a řešení kolizí, včetně analýzy kvality přijímaného signálu a odhadu časového předstihu pro rozlišení více současných přístupových pokusů.
 
 CTSARCH hraje klíčovou roli v celkovém výkonu sítě GSM optimalizací využití rádiových prostředků pro služby s přepojováním okruhů. Jeho návrh vyvažuje poskytnutí dostatečných přístupových příležitostí pro mobilní stanice a zároveň minimalizaci rušení a kolizí. Parametry kanálu může síťový operátor dynamicky upravovat na základě zatížení provozem, konfigurace buňky a požadavků služeb. Správná konfigurace parametrů CTSARCH přímo ovlivňuje klíčové ukazatele výkonu, včetně úspěšnosti navazování hovorů, přístupového zpoždění a celkové kapacity systému pro hlasové služby.
 
@@ -45,7 +45,10 @@ Historický kontext ukazuje, že vývoj CTSARCH byl motivován omezeními dřív
 
 ## Související pojmy
 
+- [RACH – Random Access Channel](/mobilnisite/slovnik/rach/)
 - [CCCH – Common Control Channel](/mobilnisite/slovnik/ccch/)
+- [TCH – Traffic Channel](/mobilnisite/slovnik/tch/)
+- [SDCCH – Stand-Alone Dedicated Control Channel](/mobilnisite/slovnik/sdcch/)
 - [GERAN – GSM EDGE Radio Access Network](/mobilnisite/slovnik/geran/)
 
 ## Definující specifikace

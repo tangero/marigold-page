@@ -40,6 +40,7 @@ Před formálním zahrnutím poskytovaly specifikace 3GPP pro určování polohy
 ## Související pojmy
 
 - [LPP – LTE Positioning Protocol](/mobilnisite/slovnik/lpp/)
+- [V2X – Vehicle-to-Everything Application Server](/mobilnisite/slovnik/v2x/)
 
 ## Definující specifikace
 

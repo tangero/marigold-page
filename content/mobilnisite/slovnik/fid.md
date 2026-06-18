@@ -16,9 +16,9 @@ FID je jedinečný identifikátor, který rozlišuje jednotlivé IP toky nebo to
 
 ## Popis
 
-Flow Identifier (FID) je základní parametr v architektuře Policy and Charging Control (PCC) dle 3GPP. Slouží jako jedinečná značka pro IP tok nebo tok servisních dat, což je sada toků IP paketů odpovídajících konkrétní šabloně toku servisních dat. FID používají síťové prvky jako Policy and Charging Rules Function (PCRF) a Policy and Charging Enforcement Function (PCEF) k identifikaci a aplikaci správných pravidel politiky a účtování na uživatelský provoz. PCRF tato pravidla definuje v PCC pravidlech, z nichž každé je asociováno s konkrétním FID a určuje parametry jako třídu QoS, datové toky a metody účtování.
+Flow Identifier (FID) je základní parametr v architektuře Policy and Charging Control ([PCC](/mobilnisite/slovnik/pcc/)) dle 3GPP. Slouží jako jedinečná značka pro IP tok nebo tok servisních dat, což je sada toků IP paketů odpovídajících konkrétní šabloně toku servisních dat. FID používají síťové prvky jako Policy and Charging Rules Function ([PCRF](/mobilnisite/slovnik/pcrf/)) a Policy and Charging Enforcement Function ([PCEF](/mobilnisite/slovnik/pcef/)) k identifikaci a aplikaci správných pravidel politiky a účtování na uživatelský provoz. PCRF tato pravidla definuje v PCC pravidlech, z nichž každé je asociováno s konkrétním FID a určuje parametry jako třídu QoS, datové toky a metody účtování.
 
-Při provozu, když uživatel zahájí službu (např. video stream), PCRF autorizuje požadované zdroje a nainstaluje odpovídající PCC pravidla v PCEF (obvykle umístěném v PDN Gateway). Každé PCC pravidlo obsahuje FID, šablonu toku servisních dat (definující IP pakety pomocí 5-tice filtrů) a asociované instrukce pro řízení politiky (QoS) a řízení účtování. PCEF pak používá FID k mapování příchozích paketů uživatelské roviny na správnou sadu pravidel pro vynucení. To síti umožňuje rozlišovat např. mezi tokem VoIP s vysokou prioritou a best-effort tokem prohlížení webu pro stejného uživatele.
+Při provozu, když uživatel zahájí službu (např. video stream), PCRF autorizuje požadované zdroje a nainstaluje odpovídající PCC pravidla v PCEF (obvykle umístěném v [PDN](/mobilnisite/slovnik/pdn/) Gateway). Každé PCC pravidlo obsahuje FID, šablonu toku servisních dat (definující IP pakety pomocí 5-tice filtrů) a asociované instrukce pro řízení politiky (QoS) a řízení účtování. PCEF pak používá FID k mapování příchozích paketů uživatelské roviny na správnou sadu pravidel pro vynucení. To síti umožňuje rozlišovat např. mezi tokem VoIP s vysokou prioritou a best-effort tokem prohlížení webu pro stejného uživatele.
 
 Role FID je klíčová pro pokročilé služebně-aware síťování. Poskytuje propojení mezi autorizací služeb na vysoké úrovni v řídicí rovině a detailním zpracováním na úrovni paketů v uživatelské rovině. Díky jedinečné identifikaci toků mohou operátoři implementovat sofistikovanou správu provozu, zajišťovat QoS pro služby v reálném čase a aplikovat přesné účtování na základě typu služby, obsahu nebo aplikace. FID je klíčovým enablerem pro scénáře síťového řezání (network slicing) a edge computingu, kde různé řezy nebo aplikace vyžadují odlišné politiky zpracování provozu.
 
@@ -26,7 +26,7 @@ Role FID je klíčová pro pokročilé služebně-aware síťování. Poskytuje 
 
 FID byl zaveden, aby řešil potřebu detailní, na toky založené kontroly politiky a účtování v IP mobilních sítích. Před jeho zavedením byla kontrola politiky často hrubozrnná, aplikovaná na uživatele nebo Access Point Name ([APN](/mobilnisite/slovnik/apn/)), což bylo nedostatečné pro širokou škálu služeb s různými požadavky na QoS a účtování, které se objevily s mobilním broadbandem. Rozšíření služeb v reálném čase, jako VoIP a video streamování, si vyžádalo mechanismus pro identifikaci a odlišné zacházení s jednotlivými aplikačními toky v rámci uživatelské relace.
 
-Jeho vznik byl motivován evolucí směrem k all-IP sítím ve 3GPP Release 8 (EPS). Architektura PCC byla standardizována, aby poskytla jednotný rámec pro služebně-aware politiku a účtování. FID je jádrovou součástí tohoto rámce a řeší problém, jak jedinečně referencovat a spravovat množství souběžných datových toků, které může generovat jediný uživatel. Umožňuje operátorům překročit paušální účtování a best-effort doručování, a umožňuje tak diferenciaci služeb, optimalizované využití zdrojů a nové obchodní modely, jako je sponzorovaný přenos dat nebo kvalita na vyžádání.
+Jeho vznik byl motivován evolucí směrem k all-IP sítím ve 3GPP Release 8 (EPS). Architektura [PCC](/mobilnisite/slovnik/pcc/) byla standardizována, aby poskytla jednotný rámec pro služebně-aware politiku a účtování. FID je jádrovou součástí tohoto rámce a řeší problém, jak jedinečně referencovat a spravovat množství souběžných datových toků, které může generovat jediný uživatel. Umožňuje operátorům překročit paušální účtování a best-effort doručování, a umožňuje tak diferenciaci služeb, optimalizované využití zdrojů a nové obchodní modely, jako je sponzorovaný přenos dat nebo kvalita na vyžádání.
 
 Poskytnutím stabilního identifikátoru pro tok po celou dobu jeho životnosti FID zajišťuje konzistentní aplikaci politiky, i když se základní parametry paketových filtrů (jako zdrojová IP) změní v důsledku síťových událostí. Abstrahuje specifické charakteristiky paketů od pravidel politiky, čímž zjednodušuje správu a umožňuje dynamické aktualizace politik bez předefinování celé šablony toku.
 
@@ -38,6 +38,13 @@ Poskytnutím stabilního identifikátoru pro tok po celou dobu jeho životnosti 
 - Podporuje účtování založené na toku, včetně diferencovaného ratingu a reportingu
 - Umožňuje dynamickou instalaci, modifikaci a odstranění politik specifických pro tok ze strany PCRF
 - Usnadňuje detekci provozu a řízení přístupu (gating control) pro konkrétní aplikace nebo služby
+
+## Související pojmy
+
+- [PCC – Performance-oriented Congestion Control](/mobilnisite/slovnik/pcc/)
+- [PCRF – Policy and Charging Rules Function](/mobilnisite/slovnik/pcrf/)
+- [PCEF – Policy and Charging Enforcement Function](/mobilnisite/slovnik/pcef/)
+- [QoS – Quality of Service](/mobilnisite/slovnik/qos/)
 
 ## Definující specifikace
 

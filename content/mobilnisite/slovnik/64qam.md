@@ -16,7 +16,7 @@ summary: "64QAM je digitální modulační schéma, které kóduje 6 bitů na sy
 
 ## Popis
 
-64QAM (64 Quadrature Amplitude Modulation) je sofistikovaná digitální modulační technika, která kombinuje amplitudovou a fázovou modulaci k přenosu více bitů na symbol. V 64QAM se konstelace skládá z 64 diskrétních bodů uspořádaných do mřížky 8×8, přičemž každý bod představuje jedinečnou kombinaci amplitudy a fáze. Toto uspořádání umožňuje každému symbolu nést 6 bitů informace (protože 2^6 = 64), což výrazně zvyšuje rychlost přenosu dat ve srovnání s jednoduššími modulačními schématy, jako je QPSK (2 bity na symbol) nebo [16QAM](/mobilnisite/slovnik/16qam/) (4 bity na symbol).
+64QAM (64 Quadrature Amplitude Modulation) je sofistikovaná digitální modulační technika, která kombinuje amplitudovou a fázovou modulaci k přenosu více bitů na symbol. V 64QAM se konstelace skládá z 64 diskrétních bodů uspořádaných do mřížky 8×8, přičemž každý bod představuje jedinečnou kombinaci amplitudy a fáze. Toto uspořádání umožňuje každému symbolu nést 6 bitů informace (protože 2^6 = 64), což výrazně zvyšuje rychlost přenosu dat ve srovnání s jednoduššími modulačními schématy, jako je [QPSK](/mobilnisite/slovnik/qpsk/) (2 bity na symbol) nebo [16QAM](/mobilnisite/slovnik/16qam/) (4 bity na symbol).
 
 Technická implementace 64QAM spočívá v mapování skupin 6 bitů na konkrétní body konstelace. Fázová (I) a kvadraturní (Q) složka nosného signálu jsou nezávisle modulovány specifickými úrovněmi amplitudy. V typické implementaci jsou amplitudové úrovně rovnoměrně rozmístěny, s hodnotami jako ±1, ±3, ±5, ±7 pro obě složky I i Q. Tím vzniká čtvercový konstelační diagram, kde je každý bod jednoznačně identifikován svými souřadnicemi I a Q. Přijímač musí přesně detekovat amplitudu i fázi přijatého signálu, aby správně demoduloval přenesené bity.
 
@@ -28,7 +28,7 @@ V architektuře 3GPP je 64QAM implementována ve zpracovatelském řetězci fyzi
 
 ## K čemu slouží
 
-64QAM byla zavedena ve vydání 3GPP Release 7 primárně k uspokojení rostoucí poptávky po vyšších přenosových rychlostech v mobilních širokopásmových službách. Jak se očekávání uživatelů vyvíjela od základních hlasových a textových služeb k aplikacím náročným na šířku pásma, jako je streamování videa, prohlížení webu a stahování souborů, stávající modulační schémata jako QPSK a [16QAM](/mobilnisite/slovnik/16qam/) přestala stačit k dosažení požadované propustnosti v omezených spektrálních zdrojích. 64QAM poskytla 50% nárůst spektrální účinnosti oproti 16QAM, což umožnilo operátorům přenášet více dat bez nutnosti přidělení dalšího kmitočtového spektra.
+64QAM byla zavedena ve vydání 3GPP Release 7 primárně k uspokojení rostoucí poptávky po vyšších přenosových rychlostech v mobilních širokopásmových službách. Jak se očekávání uživatelů vyvíjela od základních hlasových a textových služeb k aplikacím náročným na šířku pásma, jako je streamování videa, prohlížení webu a stahování souborů, stávající modulační schémata jako [QPSK](/mobilnisite/slovnik/qpsk/) a [16QAM](/mobilnisite/slovnik/16qam/) přestala stačit k dosažení požadované propustnosti v omezených spektrálních zdrojích. 64QAM poskytla 50% nárůst spektrální účinnosti oproti 16QAM, což umožnilo operátorům přenášet více dat bez nutnosti přidělení dalšího kmitočtového spektra.
 
 Vývoj 64QAM byl motivován potřebou maximalizovat využití dostupných rádiových zdrojů při zachování zpětné kompatibility s existujícími sítěmi. Před zavedením 64QAM byly sítě [HSPA](/mobilnisite/slovnik/hspa/) omezeny na 16QAM v downlinku, což omezovalo špičkové přenosové rychlosti na přibližně 14 Mbps. S 64QAM mohly sítě HSPA+ dosáhnout teoretických špičkových rychlostí 21 Mbps v downlinku, což představovalo významný skok v možnostech přenosu dat v celulárních sítích. Toto vylepšení bylo obzvláště důležité s tím, jak se chytré telefony rozšířily a vzorce spotřeby dat se posunuly směrem k multimediálnímu obsahu.
 
@@ -46,6 +46,7 @@ Z technického hlediska řešila 64QAM základní kompromis mezi spektrální ú
 ## Související pojmy
 
 - [16QAM – 16-Quadrature Amplitude Modulation](/mobilnisite/slovnik/16qam/)
+- [QPSK – Quadrature Phase Shift Keying](/mobilnisite/slovnik/qpsk/)
 
 ## Definující specifikace
 

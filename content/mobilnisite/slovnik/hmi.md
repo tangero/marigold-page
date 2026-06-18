@@ -20,7 +20,7 @@ Hazardously Misleading Information (HMI, nebezpečně zavádějící informace) 
 
 Technické řízení HMI zahrnuje mechanismy pro detekci, prevenci a zmírňování zavádějících informací v telekomunikačních sítích. To zahrnuje validační protokoly pro ověření původu a integrity zpráv, zabezpečené přenosové kanály a autentizaci účastníků. Například v systémech varování veřejnosti prevence HMI zajišťuje, že výstrahy jsou pravé a nezměněné, a to za použití kryptografických podpisů a důvěryhodných autorit. Síťové funkce monitorují anomálie, které by mohly naznačovat HMI, jako jsou neočekávané vzorce zpráv nebo pokusy o neoprávněný přístup.
 
-Úvahy o HMI se rozšiřují na vznikající služby, jako je komunikace V2X (vehicle-to-everything), kde by zavádějící informace o stavu vozovky mohly vést k nehodám. Specifikace 3GPP, jako jsou níže uvedené, definují požadavky a architektury pro řešení rizik HMI, aby zajistily, že sítě poskytují spolehlivé služby. Zavedením robustních strategií pro zmírňování HMI mohou operátoři udržovat kvalitu služeb a chránit uživatele před potenciálními nebezpečími způsobenými klamnými informacemi.
+Úvahy o HMI se rozšiřují na vznikající služby, jako je komunikace [V2X](/mobilnisite/slovnik/v2x/) (vehicle-to-everything), kde by zavádějící informace o stavu vozovky mohly vést k nehodám. Specifikace 3GPP, jako jsou níže uvedené, definují požadavky a architektury pro řešení rizik HMI, aby zajistily, že sítě poskytují spolehlivé služby. Zavedením robustních strategií pro zmírňování HMI mohou operátoři udržovat kvalitu služeb a chránit uživatele před potenciálními nebezpečími způsobenými klamnými informacemi.
 
 ## K čemu slouží
 
@@ -40,6 +40,7 @@ Vytvoření konceptu HMI v 3GPP bylo motivováno případy, kdy by dezinformace 
 ## Související pojmy
 
 - [CMAS – Commercial Mobile Alert Service](/mobilnisite/slovnik/cmas/)
+- [V2X – Vehicle-to-Everything Application Server](/mobilnisite/slovnik/v2x/)
 
 ## Definující specifikace
 

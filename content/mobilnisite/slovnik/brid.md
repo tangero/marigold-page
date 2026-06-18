@@ -16,17 +16,17 @@ BRID je služba dle standardů 3GPP, která umožňuje bezpilotním systémům (
 
 ## Popis
 
-Broadcast Remote Identification (BRID) je standardizovaná služba v sítích 3GPP navržená pro poskytování identifikace a sledování bezpilotních systémů (UAS), běžně známých jako drony, v reálném čase. Služba funguje tak, že UAS vysílá sadu identifikačních a polohových parametrů, které mohou být přijaty oprávněnými pozorovateli, síťovými entitami nebo jinými UAS v dosahu. Tento vysílací mechanismus se liší od síťové identifikace, protože pro příjem informací blízkými stranami se nespoléhá na aktivní připojení k mobilní síti, i když může síť využívat pro další služby UAS.
+Broadcast Remote Identification (BRID) je standardizovaná služba v sítích 3GPP navržená pro poskytování identifikace a sledování bezpilotních systémů ([UAS](/mobilnisite/slovnik/uas/)), běžně známých jako drony, v reálném čase. Služba funguje tak, že UAS vysílá sadu identifikačních a polohových parametrů, které mohou být přijaty oprávněnými pozorovateli, síťovými entitami nebo jinými UAS v dosahu. Tento vysílací mechanismus se liší od síťové identifikace, protože pro příjem informací blízkými stranami se nespoléhá na aktivní připojení k mobilní síti, i když může síť využívat pro další služby UAS.
 
 Z architektonického hlediska BRID využívá stávajících schopností uživatelského zařízení (UE) 3GPP, přičemž samotný UAS funguje jako UE. Mezi klíčové funkční komponenty patří UAS, který generuje a vysílá zprávu BRID, a pozorovatel, který ji přijímá a zpracovává. Aplikační vrstva UAS formátuje zprávu BRID obsahující povinné a volitelné prvky. Tato zpráva je následně předána protokolovým zásobníkem k vysílání. Konkrétní rádiová technologie použitá pro vysílání (např. LTE sidelink, NR sidelink nebo jiné metody přímé komunikace) je definována v příslušných specifikacích rádiového přístupového síťového rozhraní (RAN) (např. 36.331, 38.331). Vysílání obvykle probíhá na vyhrazených frekvencích nebo prostředcích, aby se zabránilo rušení jiné mobilní komunikace.
 
 Samotná zpráva BRID je strukturovaná datová sada definovaná ve specifikacích jádra sítě (např. 24.577, 24.578). Mezi povinné informace patří identifikátor UAS (kterým může být sériové číslo nebo ID relace), poloha/výška UAS a časové razítko. Mezi volitelné informace může patřit poloha operátora UAS (dálkového pilota), rychlost UAS, stav nouze a informace o trase. Bezpečnost je prvořadá a je řešena ve specifikacích jako 33.256, které definují mechanismy pro zajištění pravosti a integrity vysílaných zpráv, aby se zabránilo podvržení.
 
-Úloha BRID v síti spočívá v umožnění správy provozu UAS (UTM) a dodržování regulatorních požadavků. Poskytuje základní vrstvu pro 'elektronické identifikační tabulky' dronů. Přestože funguje prostřednictvím vysílacího mechanismu, je integrována do širšího rámce UAS 3GPP definovaného ve specifikacích jako 23.256 a 23.754. Tento rámec zahrnuje síťovou identifikaci, komunikaci pro řízení a řízení letu ([C2](/mobilnisite/slovnik/c2/)) a autorizaci služeb UAS. BRID konkrétně řeší požadavek na identifikaci v přímé viditelnosti a bezprostřední blízkosti, který vyžadují letecké úřady po celém světě, a doplňuje tak síťové sledování, které se používá pro operace za hranicí přímé viditelnosti ([BVLOS](/mobilnisite/slovnik/bvlos/)) a správu flotily poskytovateli služeb.
+Úloha BRID v síti spočívá v umožnění správy provozu UAS ([UTM](/mobilnisite/slovnik/utm/)) a dodržování regulatorních požadavků. Poskytuje základní vrstvu pro 'elektronické identifikační tabulky' dronů. Přestože funguje prostřednictvím vysílacího mechanismu, je integrována do širšího rámce UAS 3GPP definovaného ve specifikacích jako 23.256 a 23.754. Tento rámec zahrnuje síťovou identifikaci, komunikaci pro řízení a řízení letu ([C2](/mobilnisite/slovnik/c2/)) a autorizaci služeb UAS. BRID konkrétně řeší požadavek na identifikaci v přímé viditelnosti a bezprostřední blízkosti, který vyžadují letecké úřady po celém světě, a doplňuje tak síťové sledování, které se používá pro operace za hranicí přímé viditelnosti ([BVLOS](/mobilnisite/slovnik/bvlos/)) a správu flotily poskytovateli služeb.
 
 ## K čemu slouží
 
-BRID byl vytvořen, aby vyřešil kritickou regulatorní a bezpečnostní mezeru v rychle se rozvíjející oblasti komerčních a rekreačních operací s drony. Letecké úřady, jako je FAA ve Spojených státech a EASA v Evropě, uložily povinnost, aby drony musely být za letu vzdáleně identifikovatelné, aby bylo zajištěno odpovědní zařízení, zvýšena bezpečnost a umožněna bezpečná integrace UAS do národního vzdušného prostoru. Před standardizací v rámci 3GPP existovala proprietární nebo necíťová řešení, ale postrádala globální interoperabilitu, škálovatelnost a integraci s infrastrukturou mobilních operátorů.
+BRID byl vytvořen, aby vyřešil kritickou regulatorní a bezpečnostní mezeru v rychle se rozvíjející oblasti komerčních a rekreačních operací s drony. Letecké úřady, jako je FAA ve Spojených státech a EASA v Evropě, uložily povinnost, aby drony musely být za letu vzdáleně identifikovatelné, aby bylo zajištěno odpovědní zařízení, zvýšena bezpečnost a umožněna bezpečná integrace [UAS](/mobilnisite/slovnik/uas/) do národního vzdušného prostoru. Před standardizací v rámci 3GPP existovala proprietární nebo necíťová řešení, ale postrádala globální interoperabilitu, škálovatelnost a integraci s infrastrukturou mobilních operátorů.
 
 Hlavním problémem, který BRID řeší, je poskytnutí standardizované, zabezpečené a spolehlivé metody, pomocí které drony mohou oznamovat svou identitu a základní telemetrii komukoli v blízkosti s vhodným přijímačem. To umožňuje orgánům činným v trestním řízení, bezpečnostním složkám, dalším uživatelům vzdušného prostoru a znepokojeným občanům identifikovat dron a jeho operátora bez nutnosti navázat síťové spojení. Řeší omezení předchozích přístupů, které byly často izolované, používaly nestandardní protokoly nebo postrádaly robustní bezpečnostní funkce, což je činilo zranitelnými vůči podvržení nebo rušení.
 
@@ -40,6 +40,12 @@ Historicky motivace pro jeho vytvoření ve verzi 3GPP 17 vycházela ze silné p
 - Integrované bezpečnostní mechanismy pro autentizaci zpráv a ochranu integrity
 - Definovaná struktura zpráv a protokolů napříč aplikační, síťovou a rádiovou vrstvou
 - Doplňuje síťové služby identifikace a sledování UAS
+
+## Související pojmy
+
+- [UAS – NF Uncrewed Aerial System Network Function](/mobilnisite/slovnik/uas/)
+- [V2X – Vehicle-to-Everything Application Server](/mobilnisite/slovnik/v2x/)
+- [UTM – Uncrewed Aerial System Traffic Management](/mobilnisite/slovnik/utm/)
 
 ## Definující specifikace
 

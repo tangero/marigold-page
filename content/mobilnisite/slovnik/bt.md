@@ -16,7 +16,7 @@ BT je standardizovaná služba podle 3GPP, která podnikům umožňuje nahradit 
 
 ## Popis
 
-Business Trunking je komplexní servisní architektura definovaná ve specifikacích 3GPP, především v TS 22.519, která poskytuje podnikové komunikační služby přes mobilní sítě. Služba umožňuje mobilním operátorům ([MNO](/mobilnisite/slovnik/mno/)) a poskytovatelům služeb nabízet PBX-podobnou funkcionalitu podnikovým účastníkům, kteří používají svá mobilní zařízení jako primární podnikové koncové body. V jádru BT nahrazuje potřebu fyzických stolních telefonů a lokálních ústředen (Private Branch Exchange, PBX) využitím IP Multimedia Subsystem (IMS) mobilní sítě pro poskytování služeb.
+Business Trunking je komplexní servisní architektura definovaná ve specifikacích 3GPP, především v TS 22.519, která poskytuje podnikové komunikační služby přes mobilní sítě. Služba umožňuje mobilním operátorům ([MNO](/mobilnisite/slovnik/mno/)) a poskytovatelům služeb nabízet PBX-podobnou funkcionalitu podnikovým účastníkům, kteří používají svá mobilní zařízení jako primární podnikové koncové body. V jádru BT nahrazuje potřebu fyzických stolních telefonů a lokálních ústředen (Private Branch Exchange, [PBX](/mobilnisite/slovnik/pbx/)) využitím IP Multimedia Subsystem (IMS) mobilní sítě pro poskytování služeb.
 
 Architektura Business Trunkingu integruje několik síťových komponent pro poskytování podnikových komunikačních služeb. Mezi klíčové prvky patří IMS core pro řízení relací a zpracování médií, Home Subscriber Server ([HSS](/mobilnisite/slovnik/hss/)) pro správu dat účastníků a specializované Application Servers ([AS](/mobilnisite/slovnik/as/)), které hostí logiku business trunkingu. Tyto Application Servers implementují funkce jako směrování hovorů na základě podnikových číslovacích plánů, integraci s firemním adresářem, pravidla přesměrování hovorů a konferenční spojování. Služba komunikuje s podnikovými [IT](/mobilnisite/slovnik/it/) systémy prostřednictvím standardizovaných rozhraní, což umožňuje synchronizaci s firemními adresáři jako [LDAP](/mobilnisite/slovnik/ldap/) nebo Active Directory.
 
@@ -28,7 +28,7 @@ Bezpečnostní a správní aspekty jsou nedílnou součástí implementací Busi
 
 ## K čemu slouží
 
-Business Trunking byl vytvořen, aby řešil rostoucí potřebu podniků modernizovat svou komunikační infrastrukturu a zároveň využít všudypřítomnost a flexibilitu mobilních sítí. Před standardizací BT podniky značně spoléhaly na pevné PBX systémy, které byly nákladné na údržbu, obtížně škálovatelné a omezené v podpoře mobilní pracovní síly. Tradiční přístupy vyžadovaly samostatné systémy pro pevnou a mobilní komunikaci, což vedlo k roztříštěným uživatelským zážitkům, zdvojeným nákladům na infrastrukturu a složité režii správy.
+Business Trunking byl vytvořen, aby řešil rostoucí potřebu podniků modernizovat svou komunikační infrastrukturu a zároveň využít všudypřítomnost a flexibilitu mobilních sítí. Před standardizací BT podniky značně spoléhaly na pevné [PBX](/mobilnisite/slovnik/pbx/) systémy, které byly nákladné na údržbu, obtížně škálovatelné a omezené v podpoře mobilní pracovní síly. Tradiční přístupy vyžadovaly samostatné systémy pro pevnou a mobilní komunikaci, což vedlo k roztříštěným uživatelským zážitkům, zdvojeným nákladům na infrastrukturu a složité režii správy.
 
 Historický kontext vývoje Business Trunkingu zahrnuje rychlé přijetí mobilních zařízení v podnikovém prostředí a posun směrem ke cloudovým službám. Jelikož zaměstnanci stále více používali chytré telefony a tablety pro pracovní komunikaci, vznikla zjevná mezera mezi pokročilými funkcemi dostupnými na podnikových PBX systémech a základní funkcionalitou nabízenou standardními mobilními tarify. Business Trunking vznikl, aby tuto mezeru překlenul tím, že umožnil mobilním operátorům poskytovat služby ekvivalentní PBX přímo na mobilní zařízení, čímž pro mnoho podnikových uživatelů odpadla potřeba samostatné infrastruktury pro pevnou linku.
 
@@ -46,6 +46,7 @@ Business Trunking řeší několik klíčových problémů v podnikové komunika
 ## Související pojmy
 
 - [IMS – IP Multimedia Subsystem](/mobilnisite/slovnik/ims/)
+- [PBX – Private Branch eXchange](/mobilnisite/slovnik/pbx/)
 
 ## Definující specifikace
 

@@ -16,7 +16,7 @@ BBERF (funkce pro vazbu přenosových kanálů a hlášení událostí) je logic
 
 ## Popis
 
-Bearer Binding and Event Reporting Function (BBERF) je klíčovou součástí architektury řízení politik a účtování (PCC) podle 3GPP, konkrétně navrženou pro přístupové sítě mimo 3GPP, jako jsou Wi-Fi, WiMAX a pevné širokopásmové sítě. Jako logická funkce sídlí BBERF v přístupové bráně sítí mimo 3GPP a slouží jako bod pro vynucování politik, který komunikuje s PCRF přes referenční bod Gxx. Jeho primární odpovědností je mapovat služební datové toky identifikované PCRF na odpovídající přenosové kanály nebo tunely v přístupové síti, čímž zajišťuje správnou aplikaci QoS politik na uživatelský provoz.
+Bearer Binding and Event Reporting Function (BBERF) je klíčovou součástí architektury řízení politik a účtování ([PCC](/mobilnisite/slovnik/pcc/)) podle 3GPP, konkrétně navrženou pro přístupové sítě mimo 3GPP, jako jsou Wi-Fi, WiMAX a pevné širokopásmové sítě. Jako logická funkce sídlí BBERF v přístupové bráně sítí mimo 3GPP a slouží jako bod pro vynucování politik, který komunikuje s [PCRF](/mobilnisite/slovnik/pcrf/) přes referenční bod Gxx. Jeho primární odpovědností je mapovat služební datové toky identifikované PCRF na odpovídající přenosové kanály nebo tunely v přístupové síti, čímž zajišťuje správnou aplikaci QoS politik na uživatelský provoz.
 
 Architektonicky BBERF funguje jako zprostředkovatel mezi PCRF a systémem správy přenosových kanálů přístupové sítě. Když uživatel naváže připojení prostřednictvím přístupové sítě mimo 3GPP, poskytne PCRF prostřednictvím rozhraní Gxx BBERF pravidla PCC obsahující parametry QoS a informace o účtování. BBERF pak tato pravidla PCC přeloží na příkazy specifické pro přístupovou síť a podle potřeby vytváří, upravuje nebo ruší přenosové kanály. Tento překlad je klíčový, protože různé přístupové technologie mají odlišné modely přenosových kanálů a možnosti QoS – BBERF tyto rozdíly abstrahuje a poskytuje PCRF jednotné rozhraní.
 
@@ -28,11 +28,11 @@ Z hlediska nasazení sítě je BBERF typicky implementován uvnitř důvěryhodn
 
 ## K čemu slouží
 
-BBERF byl představen v Release 8 3GPP jako součást architektury Evolved Packet System (EPS) k řešení rostoucí potřeby integrovaného řízení politik napříč heterogenními sítěmi. Před jeho zavedením měly sítě 3GPP dobře definované mechanismy PCC pro mobilní přístup prostřednictvím funkce PCEF, ale přístupovým sítím mimo 3GPP chyběly standardizovaná rozhraní pro koordinaci politik se síťovým jádrem. Toto omezení způsobovalo nekonzistence v kvalitě služeb, když se uživatelé připojovali přes Wi-Fi nebo jiné alternativní přístupové technologie, protože QoS politiky nemohly být jednotně aplikovány na různé typy sítí.
+BBERF byl představen v Release 8 3GPP jako součást architektury Evolved Packet System (EPS) k řešení rostoucí potřeby integrovaného řízení politik napříč heterogenními sítěmi. Před jeho zavedením měly sítě 3GPP dobře definované mechanismy [PCC](/mobilnisite/slovnik/pcc/) pro mobilní přístup prostřednictvím funkce [PCEF](/mobilnisite/slovnik/pcef/), ale přístupovým sítím mimo 3GPP chyběly standardizovaná rozhraní pro koordinaci politik se síťovým jádrem. Toto omezení způsobovalo nekonzistence v kvalitě služeb, když se uživatelé připojovali přes Wi-Fi nebo jiné alternativní přístupové technologie, protože QoS politiky nemohly být jednotně aplikovány na různé typy sítí.
 
 Hlavní motivací pro vytvoření BBERF bylo rozšíření rámce PCC 3GPP na přístupové sítě mimo 3GPP, což operátorům umožňuje nabízet konzistentní kvalitu služeb a modely účtování bez ohledu na to, jak se uživatelé k síti připojí. Tato schopnost se stávala stále důležitější, když mobilní operátoři začali integrovat přesměrování provozu na Wi-Fi do své nabídky služeb a uživatelé očekávali plynulé přechody mezi mobilními a Wi-Fi sítěmi. Bez BBERF čelili operátoři výzvám při aplikaci stejných sofistikovaných QoS politik a pravidel účtování na přístup mimo 3GPP, což omezovalo jejich schopnost efektivně zpoplatňovat služby napříč všemi typy přístupu.
 
-BBERF vyřešil několik klíčových problémů: poskytl standardizované rozhraní (Gxx) mezi sítěmi mimo 3GPP a PCRF, umožnil dynamickou správu přenosových kanálů pro služební toky v prostředích mimo 3GPP a usnadnil hlášení událostí z přístupových sítí k řadiči politik. Tyto schopnosti umožnily operátorům implementovat pokročilé služby, jako je streamování videa se zaručenou přenosovou rychlostí, prioritní hlasové služby a diferencované účtování napříč všemi přístupovými technologiemi. Díky abstrakci rozdílů mezi různými přístupovými technologiemi mimo 3GPP BBERF zjednodušil implementaci politik a snížil složitost integrace pro nasazení s více přístupovými sítěmi.
+BBERF vyřešil několik klíčových problémů: poskytl standardizované rozhraní (Gxx) mezi sítěmi mimo 3GPP a [PCRF](/mobilnisite/slovnik/pcrf/), umožnil dynamickou správu přenosových kanálů pro služební toky v prostředích mimo 3GPP a usnadnil hlášení událostí z přístupových sítí k řadiči politik. Tyto schopnosti umožnily operátorům implementovat pokročilé služby, jako je streamování videa se zaručenou přenosovou rychlostí, prioritní hlasové služby a diferencované účtování napříč všemi přístupovými technologiemi. Díky abstrakci rozdílů mezi různými přístupovými technologiemi mimo 3GPP BBERF zjednodušil implementaci politik a snížil složitost integrace pro nasazení s více přístupovými sítěmi.
 
 ## Klíčové vlastnosti
 
@@ -42,6 +42,11 @@ BBERF vyřešil několik klíčových problémů: poskytl standardizované rozhr
 - Podpora mobility mezi sítěmi 3GPP a sítěmi mimo 3GPP
 - Dynamické vytváření/úprava/zrušení přenosových kanálů
 - Integrace s důvěryhodnými a nedůvěryhodnými přístupovými bránami pro sítě mimo 3GPP
+
+## Související pojmy
+
+- [PCRF – Policy and Charging Rules Function](/mobilnisite/slovnik/pcrf/)
+- [PCEF – Policy and Charging Enforcement Function](/mobilnisite/slovnik/pcef/)
 
 ## Definující specifikace
 

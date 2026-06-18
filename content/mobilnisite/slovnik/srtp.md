@@ -16,7 +16,7 @@ SRTP je profil Secure Real-time Transport Protocol (protokol pro zabezpečený p
 
 ## Popis
 
-Secure Real-time Transport Protocol (SRTP) je standardizovaný protokol 3GPP, který poskytuje bezpečnostní služby pro provoz protokolu Real-time Transport Protocol (RTP) a jeho řídicího protějšku RTCP (zabezpečeného prostřednictvím SRTCP). SRTP je definován jako kryptografický profil RTP, což znamená, že přidává bezpečnostní funkce ke standardnímu formátu paketu RTP bez změny základní struktury hlavičky RTP. Funguje na bázi zpracování jednotlivých paketů a poskytuje zabezpečení typu end-to-end mezi koncovými body médií, jako je UE a Media Resource Function Processor ([MRFP](/mobilnisite/slovnik/mrfp/)) nebo jiné UE při přímé komunikaci.
+Secure Real-time Transport Protocol (SRTP) je standardizovaný protokol 3GPP, který poskytuje bezpečnostní služby pro provoz protokolu Real-time Transport Protocol ([RTP](/mobilnisite/slovnik/rtp/)) a jeho řídicího protějšku [RTCP](/mobilnisite/slovnik/rtcp/) (zabezpečeného prostřednictvím [SRTCP](/mobilnisite/slovnik/srtcp/)). SRTP je definován jako kryptografický profil RTP, což znamená, že přidává bezpečnostní funkce ke standardnímu formátu paketu RTP bez změny základní struktury hlavičky RTP. Funguje na bázi zpracování jednotlivých paketů a poskytuje zabezpečení typu end-to-end mezi koncovými body médií, jako je UE a Media Resource Function Processor ([MRFP](/mobilnisite/slovnik/mrfp/)) nebo jiné UE při přímé komunikaci.
 
 SRTP funguje tak, že na užitečná data RTP aplikuje kryptografické transformace. Pro důvěrnost šifruje užitečná data pomocí symetrické šifry, obvykle Advanced Encryption Standard ([AES](/mobilnisite/slovnik/aes/)) v režimu Counter Mode (AES-CM). Tento režim je zvolen proto, že generuje šifrovací proud, který lze aplikovat pomocí bitového XOR, což je efektivní a odolné vůči chybám – jediná chyba v šifrovém textu poškodí pouze odpovídající bit v otevřeném textu. Pro ověřování a integritu připojuje SRTP ke každému paketu kód pro ověření zprávy (Message Authentication Code – [MAC](/mobilnisite/slovnik/mac/)), vypočítaný pomocí klíčované hašovací funkce jako HMAC-SHA1. Tento MAC pokrývá hlavičku RTP, užitečná data a index paketu. Klíčovým mechanismem je použití postupného indexu paketů (odvozeného z pořadového čísla RTP) a hlavního klíče pro generování jedinečných relakových klíčů pro šifrování a ověřování každého paketu, což zabraňuje opakovanému použití klíče.
 
@@ -26,7 +26,7 @@ Z architektonického hlediska se SRTP spoléhá na externí protokol pro správu
 
 SRTP byl vyvinut za účelem řešení závažných bezpečnostních nedostatků standardního protokolu RTP, který přenáší média v otevřené podobě. Když telekomunikace přešly na plně IP sítě s IMS standardu 3GPP, stal se hlas a video zranitelným vůči odposlechu, manipulaci a útokům přehráním přes nedůvěryhodné IP sítě, jako je veřejný internet. Účelem SRTP je poskytnout standardizovanou, efektivní a povinnou bezpečnostní vrstvu speciálně navrženou pro jedinečná omezení médií v reálném čase: nízkou latenci, toleranci ke ztrátě paketů a vysokou frekvenci paketů.
 
-Vytvoření SRTP v rámci ekosystému 3GPP bylo motivováno potřebou řešení, které by mohlo být všudypřítomně nasazeno napříč zařízeními a sítěmi, aniž by narušilo stávající aplikace založené na RTP. Předchozí zabezpečení na síťové úrovni (např. [IPsec](/mobilnisite/slovnik/ipsec/)) bylo často příliš těžkopádné, složité na správu end-to-end a mohlo zavádět nepřijatelnou latenci nebo nekompatibilitu s překladem síťových adres ([NAT](/mobilnisite/slovnik/nat/)). SRTP tyto problémy řeší tím, že funguje na aplikační vrstvě, přidává minimální režii (typicky 4–10 bajtů pro ověřovací štítek a 4 bajty pro index) a používá šifry vhodné pro streamovaná média. Umožňuje zabezpečené komerční služby VoIP a videa, chrání soukromí uživatelů a umožňuje operátorům splnit regulační požadavky na zabezpečení komunikace, čímž tvoří základ pro důvěryhodné doručování multimédií v 4G a 5G.
+Vytvoření SRTP v rámci ekosystému 3GPP bylo motivováno potřebou řešení, které by mohlo být všudypřítomně nasazeno napříč zařízeními a sítěmi, aniž by narušilo stávající aplikace založené na RTP. Předchozí zabezpečení na síťové úrovni (např. IPsec) bylo často příliš těžkopádné, složité na správu end-to-end a mohlo zavádět nepřijatelnou latenci nebo nekompatibilitu s překladem síťových adres (NAT). SRTP tyto problémy řeší tím, že funguje na aplikační vrstvě, přidává minimální režii (typicky 4–10 bajtů pro ověřovací štítek a 4 bajty pro index) a používá šifry vhodné pro streamovaná média. Umožňuje zabezpečené komerční služby VoIP a videa, chrání soukromí uživatelů a umožňuje operátorům splnit regulační požadavky na zabezpečení komunikace, čímž tvoří základ pro důvěryhodné doručování multimédií v 4G a 5G.
 
 ## Klíčové vlastnosti
 
@@ -39,6 +39,8 @@ Vytvoření SRTP v rámci ekosystému 3GPP bylo motivováno potřebou řešení,
 
 ## Související pojmy
 
+- [SRTCP – Secure Real-time Transport Control Protocol](/mobilnisite/slovnik/srtcp/)
+- [RTP – Real-time Transport Protocol](/mobilnisite/slovnik/rtp/)
 - [MIKEY – Multimedia Internet KEYing](/mobilnisite/slovnik/mikey/)
 - [IMS – IP Multimedia Subsystem](/mobilnisite/slovnik/ims/)
 - [DTLS-SRTP – DTLS Extension to Establish Keys for SRTP](/mobilnisite/slovnik/dtls-srtp/)

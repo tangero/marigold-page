@@ -16,9 +16,9 @@ DTR je funkce GERAN, která dynamicky snižuje počet časových slotů přiděl
 
 ## Popis
 
-Dynamic Timeslot Reduction (DTR) je mechanismus definovaný ve specifikacích [GERAN](/mobilnisite/slovnik/geran/), konkrétně v 3GPP TS 44.060, která řídí protokoly Radio Link Control (RLC) a Medium Access Control ([MAC](/mobilnisite/slovnik/mac/)) pro rádiové rozhraní [GPRS](/mobilnisite/slovnik/gprs/). Jeho hlavní funkcí je správa přidělování paketových datových kanálů (PDCH) přiřazených mobilní stanici ([MS](/mobilnisite/slovnik/ms/)) pro služby GPRS/[EDGE](/mobilnisite/slovnik/edge/). DTR funguje tak, že umožňuje síti dynamicky snížit počet časových slotů v přiřazeném dočasném blokovém toku (TBF) MS na základě aktuální datové aktivity a dostupnosti zdrojů.
+Dynamic Timeslot Reduction (DTR) je mechanismus definovaný ve specifikacích [GERAN](/mobilnisite/slovnik/geran/), konkrétně v 3GPP TS 44.060, která řídí protokoly Radio Link Control ([RLC](/mobilnisite/slovnik/rlc/)) a Medium Access Control ([MAC](/mobilnisite/slovnik/mac/)) pro rádiové rozhraní [GPRS](/mobilnisite/slovnik/gprs/). Jeho hlavní funkcí je správa přidělování paketových datových kanálů ([PDCH](/mobilnisite/slovnik/pdch/)) přiřazených mobilní stanici ([MS](/mobilnisite/slovnik/ms/)) pro služby GPRS/[EDGE](/mobilnisite/slovnik/edge/). DTR funguje tak, že umožňuje síti dynamicky snížit počet časových slotů v přiřazeném dočasném blokovém toku ([TBF](/mobilnisite/slovnik/tbf/)) MS na základě aktuální datové aktivity a dostupnosti zdrojů.
 
-Z architektonického hlediska je DTR implementováno v podsystému základnové stanice ([BSS](/mobilnisite/slovnik/bss/)), což zahrnuje [BTS](/mobilnisite/slovnik/bts/) a [BSC](/mobilnisite/slovnik/bsc/). BSC monitoruje datový tok na aktivním TBF. Když objem dat poklesne, BSC může zahájit proceduru DTR, aby překonfigurovalo TBF na použití menšího počtu časových slotů. To je signalizováno MS prostřednictvím specifických řídicích zpráv MAC na kanálu PACCH (Packet Associated Control Channel). MS musí podporovat DTR, aby tyto příkazy správně interpretovala a odpovídajícím způsobem upravila svůj příjem/vysílání, přičemž přejde do stavu, kdy monitoruje pouze redukovanou sadu časových slotů.
+Z architektonického hlediska je DTR implementováno v podsystému základnové stanice (BSS), což zahrnuje BTS a BSC. BSC monitoruje datový tok na aktivním TBF. Když objem dat poklesne, BSC může zahájit proceduru DTR, aby překonfigurovalo TBF na použití menšího počtu časových slotů. To je signalizováno MS prostřednictvím specifických řídicích zpráv MAC na kanálu PACCH (Packet Associated Control Channel). MS musí podporovat DTR, aby tyto příkazy správně interpretovala a odpovídajícím způsobem upravila svůj příjem/vysílání, přičemž přejde do stavu, kdy monitoruje pouze redukovanou sadu časových slotů.
 
 Procedura je úzce integrována s dalšími funkcemi GERAN, jako je Dynamic Allocation a Extended Dynamic Allocation. Funguje ve spojení s plánovacími algoritmy sítě. Snížením aktivní sady časových slotů uvolňuje DTR zdroje PDCH, které mohou být okamžitě přeřazeny jiným uživatelům, čímž se zvyšuje celková kapacita buňky. Také pomáhá snižovat spotřebu energie v MS, protože přijímač může být aktivní po kratší dobu. Dynamická povaha umožňuje rychlé znovu-rozšíření přidělení časových slotů, pokud se datový provoz z MS opět zvýší, což zajišťuje rychlou reakci na požadavky uživatele bez výrazného přerušení služby.
 
@@ -44,6 +44,9 @@ Historický kontext je evoluce sítí GSM směrem k bohatým datovým službám.
 ## Související pojmy
 
 - [GERAN – GSM EDGE Radio Access Network](/mobilnisite/slovnik/geran/)
+- [TBF – Temporary Block Flow](/mobilnisite/slovnik/tbf/)
+- [PDCH – Packet Data Channel](/mobilnisite/slovnik/pdch/)
+- [PACCH – Packet Associated Control Channel](/mobilnisite/slovnik/pacch/)
 - [GPRS – CSI GPRS CAMEL Subscription Information](/mobilnisite/slovnik/gprs/)
 
 ## Definující specifikace

@@ -24,7 +24,7 @@ Klíčové komponenty KPAS zahrnují Warning Provider (korejské vládní agentu
 
 ## K čemu slouží
 
-KPAS byl vytvořen k naplnění národního regulatorního mandátu v Jižní Koreji pro spolehlivý a okamžitý systém veřejného varování prostřednictvím mobilních sítí. Primární problém, který řeší, je potřeba rychle informovat celou populaci nebo geograficky cílenou její část o bezprostředních hrozbách, jako jsou zemětřesení, tsunami, tajfuny, civilní nouzové situace nebo upozornění na únos dětí (AMBER alerty). Tradiční metody varování jako sirény, TV nebo rádio mají omezení v dosahu, okamžitosti a přesnosti cílení. Systémy varování založené na SMS mohou během mimořádných událostí způsobovat zahlcení sítě a zpoždění.
+KPAS byl vytvořen k naplnění národního regulatorního mandátu v Jižní Koreji pro spolehlivý a okamžitý systém veřejného varování prostřednictvím mobilních sítí. Primární problém, který řeší, je potřeba rychle informovat celou populaci nebo geograficky cílenou její část o bezprostředních hrozbách, jako jsou zemětřesení, tsunami, tajfuny, civilní nouzové situace nebo upozornění na únos dětí (AMBER alerty). Tradiční metody varování jako sirény, [TV](/mobilnisite/slovnik/tv/) nebo rádio mají omezení v dosahu, okamžitosti a přesnosti cílení. Systémy varování založené na [SMS](/mobilnisite/slovnik/sms/) mohou během mimořádných událostí způsobovat zahlcení sítě a zpoždění.
 
 Motivací pro standardizaci KPAS v rámci 3GPP bylo zajistit konzistentní a interoperabilní technickou implementaci napříč všemi korejskými mobilními operátory s využitím stávajících mechanismů 3GPP [CBS](/mobilnisite/slovnik/cbs/)/ETWS. Před takovou standardizací mohly proprietární nebo neinteroperabilní systémy vést k fragmentovanému pokrytí a nekonzistentní uživatelské zkušenosti. Přijetím a profilováním standardů 3GPP KPAS zajišťuje, že jakýkoli kompatibilní mobilní telefon, bez ohledu na výrobce nebo operátora, může tyto kritické výstrahy přijímat a zobrazovat. Odstraňuje tak omezení předchozích ad-hoc přístupů tím, že poskytuje standardizovaný, sítí řízený vysílací mechanismus, který není ovlivněn zatížením provozu, a zajišťuje doručení výstrah během sekund na všechna zařízení v cílové zóně, včetně těch, která nejsou právě zapojena do hovoru nebo datové relace.
 
@@ -40,6 +40,7 @@ Motivací pro standardizaci KPAS v rámci 3GPP bylo zajistit konzistentní a int
 ## Související pojmy
 
 - [CBS – Cell Broadcast Service](/mobilnisite/slovnik/cbs/)
+- [PWS – Plane Wave Synthesizer](/mobilnisite/slovnik/pws/)
 
 ## Definující specifikace
 

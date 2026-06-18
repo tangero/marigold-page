@@ -16,15 +16,15 @@ MS (mobilní stanice) je uživatelské zařízení v síti GSM nebo UMTS, které
 
 ## Popis
 
-Mobilní stanice (MS) je základním síťovým prvkem v systémech 2G (GSM) a 3G (UMTS) a představuje kompletní uživatelský terminál. Skládá se ze dvou samostatných subentit: mobilního zařízení ([ME](/mobilnisite/slovnik/me/)) a modulu identifikace účastníka (SIM). ME je fyzické hardwarové zařízení – telefon, modem nebo datová karta – které obsahuje rádiový transceiver, displej, procesor a další hardware potřebný pro komunikaci. SIM je výměnná čipová karta, která bezpečně ukládá identitu účastníka (International Mobile Subscriber Identity – [IMSI](/mobilnisite/slovnik/imsi/)), autentizační klíče a další data a aplikace specifické pro účastníka.
+Mobilní stanice (MS) je základním síťovým prvkem v systémech 2G (GSM) a 3G (UMTS) a představuje kompletní uživatelský terminál. Skládá se ze dvou samostatných subentit: mobilního zařízení ([ME](/mobilnisite/slovnik/me/)) a modulu identifikace účastníka ([SIM](/mobilnisite/slovnik/sim/)). ME je fyzické hardwarové zařízení – telefon, modem nebo datová karta – které obsahuje rádiový transceiver, displej, procesor a další hardware potřebný pro komunikaci. SIM je výměnná čipová karta, která bezpečně ukládá identitu účastníka (International Mobile Subscriber Identity – [IMSI](/mobilnisite/slovnik/imsi/)), autentizační klíče a další data a aplikace specifické pro účastníka.
 
-Z architektonického hlediska je MS koncovým bodem rádiového rozhraní (Um v GSM, Uu v UMTS). Obsahuje všechny potřebné protokolové zásobníky pro komunikaci, včetně fyzické vrstvy (vrstva 1), linkové vrstvy (vrstva 2 s protokoly jako RLC/[MAC](/mobilnisite/slovnik/mac/)) a síťové vrstvy (vrstva 3 s protokoly pro správu mobility, řízení hovorů a správu relací). MS je zodpovědná za kritické funkce, jako je výběr a převýběr buňky, připojení a registrace v síti, zahájení a správa hovorů a datových relací, řízení výkonu, hlášení měření a provádění předávání hovorů na příkaz sítě.
+Z architektonického hlediska je MS koncovým bodem rádiového rozhraní (Um v GSM, Uu v UMTS). Obsahuje všechny potřebné protokolové zásobníky pro komunikaci, včetně fyzické vrstvy (vrstva 1), linkové vrstvy (vrstva 2 s protokoly jako [RLC](/mobilnisite/slovnik/rlc/)/[MAC](/mobilnisite/slovnik/mac/)) a síťové vrstvy (vrstva 3 s protokoly pro správu mobility, řízení hovorů a správu relací). MS je zodpovědná za kritické funkce, jako je výběr a převýběr buňky, připojení a registrace v síti, zahájení a správa hovorů a datových relací, řízení výkonu, hlášení měření a provádění předávání hovorů na příkaz sítě.
 
 Její role se vyvinula z jednoduchého hlasového terminálu v GSM na sofistikované výpočetní zařízení podporující vysokorychlostní data, multimédia a přístup k internetu v UMTS a novějších systémech. Oddělení ME a SIM je klíčovým architektonickým rysem, který umožňuje osobní mobilitu (uživatel může přenést své předplatné na jiný hardware) a bezpečnou autentizaci. MS komunikuje s podsystémem základnových stanic ([BSS](/mobilnisite/slovnik/bss/) v GSM) nebo s rádiovou přístupovou sítí (RAN v UMTS) a přes ně se připojuje k jádru sítě pro komutaci a poskytování služeb. V pozdějších vydáních 3GPP (LTE, 5G) termín uživatelské zařízení (UE) nahradil MS, ale základní koncept zůstává.
 
 ## K čemu slouží
 
-Mobilní stanice byla definována jako koncový bod na straně uživatele v původní architektuře GSM za účelem vytvoření jasného, standardizovaného rozhraní mezi zařízením účastníka a síťovou infrastrukturou. Jejím účelem bylo umožnit hromadný trh a interoperabilní celulární telefonii specifikací funkcí a rozhraní terminálu. Rozdělení na [ME](/mobilnisite/slovnik/me/) a SIM bylo revolučním konceptem, který oddělil hardwarové zařízení od identity účastníka, podpořil konkurenční trh s handsety a zjednodušil logistiku operátorům.
+Mobilní stanice byla definována jako koncový bod na straně uživatele v původní architektuře GSM za účelem vytvoření jasného, standardizovaného rozhraní mezi zařízením účastníka a síťovou infrastrukturou. Jejím účelem bylo umožnit hromadný trh a interoperabilní celulární telefonii specifikací funkcí a rozhraní terminálu. Rozdělení na [ME](/mobilnisite/slovnik/me/) a [SIM](/mobilnisite/slovnik/sim/) bylo revolučním konceptem, který oddělil hardwarové zařízení od identity účastníka, podpořil konkurenční trh s handsety a zjednodušil logistiku operátorům.
 
 Řešila problém uživatelské mobility a bezpečného přístupu k síti. MS prostřednictvím svých protokolů zvládá složitost provozu v celulární síti – hledání buněk, registraci polohy, bezpečnou autentizaci a udržování spojení při pohybu. Před takovou standardizací byly celulární systémy často proprietární. Specifikace MS zajistila, že jakékoli kompatibilní zařízení může pracovat na jakékoli kompatibilní síti, což byl základní kámen globálního úspěchu GSM. Architektura MS také poskytla platformu pro zavádění nových služeb (SMS, data) definováním rozšiřitelných protokolových zásobníků uvnitř terminálu.
 
@@ -39,6 +39,7 @@ Mobilní stanice byla definována jako koncový bod na straně uživatele v pův
 
 ## Související pojmy
 
+- [SIM – Subscriber Identity Module / Universal Subscriber Identity Module](/mobilnisite/slovnik/sim/)
 - [BSS – Base Station Subsystem](/mobilnisite/slovnik/bss/)
 - [IMSI – International Mobile Subscriber Identity](/mobilnisite/slovnik/imsi/)
 

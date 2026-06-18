@@ -20,7 +20,7 @@ Elementární procedura (EP) je atomickou jednotkou signalizace v protokolových
 
 Průběh EP se řídí přísným stavovým automatem. Iniciující entita odešle požadavek, čímž proceduru spustí. Příjemce tuto zprávu zpracuje, provede potřebné akce (které mohou zahrnovat interakci s jinými síťovými funkcemi nebo databázemi) a poté vrátí odpověď – buď kladnou (např. 'Požadavek přijat'), nebo zápornou (např. 'Požadavek zamítnut' s konkrétním kódem příčiny). Některé EP jsou procedury 'třídy 1', které vyžadují explicitní odpověď, zatímco jiné jsou procedury 'třídy 2', což jsou jednosměrná oznámení bez odpovědi. Úspěch EP často závisí na ověření zahrnutých parametrů a aktuálním stavu zúčastněných entit, což zajišťuje konzistentní a předvídatelný provoz sítě.
 
-EP jsou základními stavebními kameny, z nichž jsou konstruovány složitější síťové služby a operace. Například kompletní procedura připojení (attach) UE k síti se skládá z posloupnosti více EP, včetně žádosti/odpovědi o identitu, ověření a příkazu k nastavení zabezpečení. Jsou definovány napříč všemi rozhraními specifikovanými 3GPP (např. N1, [N2](/mobilnisite/slovnik/n2/), X2, Xn, S1, Iu) a jsou nedílnou součástí protokolů, jako je Radio Resource Control ([RRC](/mobilnisite/slovnik/rrc/)), [NG](/mobilnisite/slovnik/ng/) Application Protocol ([NGAP](/mobilnisite/slovnik/ngap/)) a X2 Application Protocol (X2AP). Tento modulární přístup umožňuje přesnou specifikaci, testování a implementaci síťového chování, což je klíčové pro interoperabilitu zařízení od různých výrobců a pro stabilní vývoj systému napříč jednotlivými releasy.
+EP jsou základními stavebními kameny, z nichž jsou konstruovány složitější síťové služby a operace. Například kompletní procedura připojení (attach) UE k síti se skládá z posloupnosti více EP, včetně žádosti/odpovědi o identitu, ověření a příkazu k nastavení zabezpečení. Jsou definovány napříč všemi rozhraními specifikovanými 3GPP (např. N1, [N2](/mobilnisite/slovnik/n2/), [X2](/mobilnisite/slovnik/x2/), Xn, S1, Iu) a jsou nedílnou součástí protokolů, jako je Radio Resource Control ([RRC](/mobilnisite/slovnik/rrc/)), [NG](/mobilnisite/slovnik/ng/) Application Protocol ([NGAP](/mobilnisite/slovnik/ngap/)) a X2 Application Protocol (X2AP). Tento modulární přístup umožňuje přesnou specifikaci, testování a implementaci síťového chování, což je klíčové pro interoperabilitu zařízení od různých výrobců a pro stabilní vývoj systému napříč jednotlivými releasy.
 
 ## K čemu slouží
 
@@ -41,6 +41,7 @@ Historicky je tento koncept ústřední pro systémy 3GPP již od GSM, ale plně
 
 ## Související pojmy
 
+- [RANAP – Radio Access Network Application Protocol](/mobilnisite/slovnik/ranap/)
 - [NGAP – Next Generation Application Protocol](/mobilnisite/slovnik/ngap/)
 
 ## Definující specifikace

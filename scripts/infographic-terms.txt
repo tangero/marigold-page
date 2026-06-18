@@ -1,0 +1,8 @@
+# Allowlist pojmů slovníku pro generování infografik (gpt-image-1).
+# Jeden slug na řádek. Komentáře za #. Prázdné řádky se ignorují.
+# acelp má ruční infografiku (acelp.jpg) — negeneruje se znovu.
+#
+# Pilot — vizuálně vděčné architektonické/procesní pojmy:
+amf
+5gc
+nssf
