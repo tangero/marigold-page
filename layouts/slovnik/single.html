@@ -19,14 +19,18 @@
     </div>
   </header>
 
-  {{ with .Params.infografika }}
-  <figure class="slovnik-infografika">
-    <img src="{{ . }}" alt="Schéma: {{ $.Params.abbr }} – {{ $.Params.fullName }}" width="1536" height="1024" loading="eager">
-  </figure>
-  {{ end }}
-
   <div class="entry slovnik-term-body">
-    {{ .Content }}
+    {{ with .Params.infografika }}
+      {{ $figure := printf `<figure class="slovnik-infografika"><img src="%s" alt="Schéma: %s – %s" width="1536" height="1024" loading="eager"></figure>` . $.Params.abbr $.Params.fullName }}
+      {{/* Vloží infografiku za úvodní definici, před první nadpis (## Popis). */}}
+      {{ if findRE `<h2` $.Content }}
+        {{ replaceRE `(<h2)` (printf "%s$1" $figure) $.Content 1 | safeHTML }}
+      {{ else }}
+        {{ $figure | safeHTML }}{{ $.Content }}
+      {{ end }}
+    {{ else }}
+      {{ .Content }}
+    {{ end }}
   </div>
 </article>
 {{ end }}
