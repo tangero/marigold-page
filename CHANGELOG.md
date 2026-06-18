@@ -39,6 +39,10 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
 - Statický reklamní banner Vibecoding Talks (`vt-06-2026`) pod hodnocením článku v `layouts/posts/single.html` — duplicitní s dynamickým bannerem nahoře v článku
 
 ### Changed
+- Sjednocení dynamické inzerce napříč články — všude se nyní propaguje aktuální akce z `vibecoding.cz/api/active-promotion` (`promo-banner.js` + `#vibecoding-promo`) místo napevno zakódovaných statických bannerů:
+  - Reklamní zóna nad obsahem AI článků (`layouts/partials/ad-zone-top.html`, používá se v `ai/single.html`): statický banner Vibecoding Talks nahrazen dynamickým systémem; popisky „Reklama" a „Obsah článku" zachovány
+  - AI článek (`ai/single.html`): odstraněn druhý statický VT banner na konci článku (duplicitní s dynamickou reklamou nahoře)
+  - Mobilní sítě: nový `layouts/mobilnisite/single.html` (články dosud dědily minimální default bez reklamy) přidává reklamní zónu `ad-zone-top.html` nad obsah — list `/mobilnisite/` i slovník zůstávají bez reklamy
 - Slovník 3GPP: aktualizace křížového prolinkování napříč pojmy (novější běh generátoru z 3gpp-explorer2 — víc termů má český překlad, takže se rozsvítilo víc interních odkazů)
 - `/aiprace`: statický banner workshopu (Claude Code, 13. 4. 2026) nahrazen dynamickým bannerem aktuální akce z `vibecoding.cz` API
 - `workshop-banner.html` partial refaktorován — inline skript vytažen do sdíleného `static/js/promo-banner.js`

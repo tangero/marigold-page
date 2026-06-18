@@ -1,0 +1,11 @@
+{{ define "main" }}
+<article class="page">
+  <h1>{{ .Title }}</h1>
+
+  {{ partial "ad-zone-top.html" . }}
+
+  <div class="entry">
+    {{ .Content }}
+  </div>
+</article>
+{{ end }}
