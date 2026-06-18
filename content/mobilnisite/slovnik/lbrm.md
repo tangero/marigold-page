@@ -16,7 +16,7 @@ LBRM je technika přizpůsobení přenosové rychlosti (rate matching) v 5G NR, 
 
 ## Popis
 
-Limited Buffer Rate Matching (LBRM) je sofistikovaný proces fyzické vrstvy definovaný ve specifikacích 3GPP New Radio (NR) pro downlinkový sdílený kanál ([PDSCH](/mobilnisite/slovnik/pdsch/)) a uplinkový sdílený kanál (PUSCH). Je nedílnou součástí řetězce kanálového kódování, umístěnou mezi kodér Low-Density Parity-Check ([LDPC](/mobilnisite/slovnik/ldpc/)) a modulátor. Hlavní funkcí LBRM je provádět přizpůsobení přenosové rychlosti (rate matching) – proces vytváření kódového slova přesné délky potřebné pro přidělené časově-frekvenční zdroje – za specifického omezení, že přijímající uživatelské zařízení (UE) disponuje konečnou softwarovou vyrovnávací pamětí pro kanálové bity, určenou k ukládání logaritmických poměrů věrohodnosti (LLR) během kombinování v rámci Hybrid Automatic Repeat Request ([HARQ](/mobilnisite/slovnik/harq/)).
+Limited Buffer Rate Matching (LBRM) je sofistikovaný proces fyzické vrstvy definovaný ve specifikacích 3GPP New Radio (NR) pro downlinkový sdílený kanál ([PDSCH](/mobilnisite/slovnik/pdsch/)) a uplinkový sdílený kanál ([PUSCH](/mobilnisite/slovnik/pusch/)). Je nedílnou součástí řetězce kanálového kódování, umístěnou mezi kodér Low-Density Parity-Check ([LDPC](/mobilnisite/slovnik/ldpc/)) a modulátor. Hlavní funkcí LBRM je provádět přizpůsobení přenosové rychlosti (rate matching) – proces vytváření kódového slova přesné délky potřebné pro přidělené časově-frekvenční zdroje – za specifického omezení, že přijímající uživatelské zařízení (UE) disponuje konečnou softwarovou vyrovnávací pamětí pro kanálové bity, určenou k ukládání logaritmických poměrů věrohodnosti (LLR) během kombinování v rámci Hybrid Automatic Repeat Request ([HARQ](/mobilnisite/slovnik/harq/)).
 
 Princip fungování LBRM je zásadně svázán s HARQ operací. Při vysílání transportního bloku vytvoří LDPC kodér mateřské kódové slovo. Konvenční schéma přizpůsobení přenosové rychlosti s cirkulární pamětí by z tohoto mateřského kódového slova vybírala bity. Pokud je však velikost softwarového vyrovnávacího paměti UE menší než velikost celého mateřského kódového slova (což je běžné u UE s nižší složitostí), musí gNB omezit množinu bitů, které může potenciálně vysílat napříč všemi HARQ retransmisemi, pouze na ty, které je UE schopno uložit. LBRM tuto omezenou množinu definuje. Proces přizpůsobení přenosové rychlosti na straně gNB vybírá bity pouze z tohoto předdefinovaného, velikostí paměti omezeného okna uvnitř cirkulární paměti. Tím je zajištěno, že jakýkoli vyslaný bit, ať už v počáteční transmisi nebo retransmisi, může být UE uložen a kombinován.
 
@@ -41,6 +41,7 @@ LBRM bylo zavedeno v 3GPP Release 14 pro studii proveditelnosti NR a ustáleno v
 
 - [LDPC – Low-Density Parity-Check](/mobilnisite/slovnik/ldpc/)
 - [HARQ – Hybrid Automatic Repeat Request](/mobilnisite/slovnik/harq/)
+- [PUSCH – Physical Uplink Shared Channel](/mobilnisite/slovnik/pusch/)
 - [PDSCH – Physical Downlink Shared Channel](/mobilnisite/slovnik/pdsch/)
 
 ## Definující specifikace

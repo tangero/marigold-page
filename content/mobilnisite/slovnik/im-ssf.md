@@ -16,11 +16,11 @@ IM-SSF (IP Multimedia Service Switching Function) je brána jádrové sítě, kt
 
 ## Popis
 
-IP Multimedia Service Switching Function (IM-SSF) je kritický uzel pro interoperabilitu definovaný v rámci 3GPP architektury IMS. Jeho primární role spočívá v propojení řídicího paradigmatu služeb IMS založeného na SIP a řízení služeb založeného na [IN](/mobilnisite/slovnik/in/)/[CAMEL](/mobilnisite/slovnik/camel/) používaném v tradičních sítích GSM, UMTS a [GPRS](/mobilnisite/slovnik/gprs/). V jádru IMS se IM-SSF jeví jako aplikační server (Application Server, [AS](/mobilnisite/slovnik/as/)), který přijímá zprávy SIP prostřednictvím rozhraní IMS Service Control ([ISC](/mobilnisite/slovnik/isc/)) od Serving-Call Session Control Function (S-CSCF).
+IP Multimedia Service Switching Function (IM-SSF) je kritický uzel pro interoperabilitu definovaný v rámci 3GPP architektury IMS. Jeho primární role spočívá v propojení řídicího paradigmatu služeb IMS založeného na [SIP](/mobilnisite/slovnik/sip/) a řízení služeb založeného na [IN](/mobilnisite/slovnik/in/)/[CAMEL](/mobilnisite/slovnik/camel/) používaném v tradičních sítích GSM, UMTS a [GPRS](/mobilnisite/slovnik/gprs/). V jádru IMS se IM-SSF jeví jako aplikační server (Application Server, [AS](/mobilnisite/slovnik/as/)), který přijímá zprávy SIP prostřednictvím rozhraní IMS Service Control ([ISC](/mobilnisite/slovnik/isc/)) od Serving-Call Session Control Function ([S-CSCF](/mobilnisite/slovnik/s-cscf/)).
 
-Interně IM-SSF obsahuje CAMEL Service Switching Function (SSF) a model stavu hovoru. Při aktivaci pro relaci mapuje stav dialogu SIP (např. INVITE, 200 OK, BYE) na ekvivalentní model stavu hovoru CAMEL. Poté formuluje a odesílá odpovídající operace CAMEL Application Part ([CAP](/mobilnisite/slovnik/cap/)) (např. InitialDP, ApplyCharging, RequestReportBCSMEvent) externí CAMEL Service Control Function (gsmSCF nebo SCP). gsmSCF, která hostuje servisní logiku, vrací instrukce CAP (např. Continue, Connect, ApplyChargingReport), které IM-SSF zpětně přeloží na odpovídající manipulace se zprávami SIP nebo na akce vynucení politik v rámci IMS relace.
+Interně IM-SSF obsahuje CAMEL Service Switching Function ([SSF](/mobilnisite/slovnik/ssf/)) a model stavu hovoru. Při aktivaci pro relaci mapuje stav dialogu SIP (např. INVITE, 200 OK, BYE) na ekvivalentní model stavu hovoru CAMEL. Poté formuluje a odesílá odpovídající operace CAMEL Application Part (CAP) (např. InitialDP, ApplyCharging, RequestReportBCSMEvent) externí CAMEL Service Control Function (gsmSCF nebo SCP). gsmSCF, která hostuje servisní logiku, vrací instrukce CAP (např. Continue, Connect, ApplyChargingReport), které IM-SSF zpětně přeloží na odpovídající manipulace se zprávami SIP nebo na akce vynucení politik v rámci IMS relace.
 
-Z architektonického hlediska je IM-SSF propojena se S-CSCF přes ISC (pomocí SIP), s gsmSCF přes rozhraní CAP a s Home Subscriber Server ([HSS](/mobilnisite/slovnik/hss/)) přes rozhraní Sh za účelem získání CAMEL předplatitelských informací. Může také komunikovat s Media Resource Function Controller ([MRFC](/mobilnisite/slovnik/mrfc/)) pro hlasové informace. Provedením tohoto překladu protokolů a mapování stavů umožňuje IM-SSF gsmSCF řídit IMS relace, jako by šlo o tradiční okruhově přepínané hovory, což zajišťuje kontinuitu služeb a ochranu investic pro operátory migrující na IMS.
+Z architektonického hlediska je IM-SSF propojena se S-CSCF přes ISC (pomocí SIP), s gsmSCF přes rozhraní CAP a s Home Subscriber Server (HSS) přes rozhraní Sh za účelem získání CAMEL předplatitelských informací. Může také komunikovat s Media Resource Function Controller (MRFC) pro hlasové informace. Provedením tohoto překladu protokolů a mapování stavů umožňuje IM-SSF gsmSCF řídit IMS relace, jako by šlo o tradiční okruhově přepínané hovory, což zajišťuje kontinuitu služeb a ochranu investic pro operátory migrující na IMS.
 
 ## K čemu slouží
 
@@ -43,6 +43,7 @@ Standardizací IM-SSF umožnilo 3GPP operátorům nasadit IMS a postupně zavád
 
 - [IMS – IP Multimedia Subsystem](/mobilnisite/slovnik/ims/)
 - [CAMEL – Customised Applications for Mobile network Enhanced Logic](/mobilnisite/slovnik/camel/)
+- [SCSCF – Serving Call Session Control Function](/mobilnisite/slovnik/scscf/)
 - [CAP – CAMEL Application Part](/mobilnisite/slovnik/cap/)
 
 ## Definující specifikace

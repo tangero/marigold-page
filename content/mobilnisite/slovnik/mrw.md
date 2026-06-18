@@ -16,11 +16,11 @@ MRW je mechanismus protokolu vrstvy řízení rádiového spoje (RLC), který sp
 
 ## Popis
 
-Move Receiving Window (MRW, přesun přijímacího okna) je klíčový postup v podsystému řízení rádiového spoje (RLC), konkrétně pro přenos dat v potvrzovaném režimu ([AM](/mobilnisite/slovnik/am/)) v systémech 3GPP UMTS a LTE. Funguje jako mechanismus řízení toku a správy pořadových čísel. Protokol RLC AM používá pořadová čísla (SN) k identifikaci protokolových datových jednotek (PDU) pro spolehlivé doručování ve správném pořadí. Přijímač udržuje přijímací okno definované dvěma proměnnými: VR(R) (nejnižší SN, který ještě nebyl přijat) a VR([MR](/mobilnisite/slovnik/mr/)) (nejvyšší SN přijatelný pro příjem). K přesunu tohoto okna je v případě potřeby vyvolána procedura MRW.
+Move Receiving Window (MRW, přesun přijímacího okna) je klíčový postup v podsystému řízení rádiového spoje ([RLC](/mobilnisite/slovnik/rlc/)), konkrétně pro přenos dat v potvrzovaném režimu ([AM](/mobilnisite/slovnik/am/)) v systémech 3GPP UMTS a LTE. Funguje jako mechanismus řízení toku a správy pořadových čísel. Protokol RLC AM používá pořadová čísla ([SN](/mobilnisite/slovnik/sn/)) k identifikaci protokolových datových jednotek ([PDU](/mobilnisite/slovnik/pdu/)) pro spolehlivé doručování ve správném pořadí. Přijímač udržuje přijímací okno definované dvěma proměnnými: [VR](/mobilnisite/slovnik/vr/)(R) (nejnižší SN, který ještě nebyl přijat) a VR([MR](/mobilnisite/slovnik/mr/)) (nejvyšší SN přijatelný pro příjem). K přesunu tohoto okna je v případě potřeby vyvolána procedura MRW.
 
 Její princip je zásadně spojen s procesem potvrzování. Přijímač odesílá STATUS PDU, aby informoval vysílač o správně přijatých PDU, chybějících PDU (prostřednictvím [NACK](/mobilnisite/slovnik/nack/)) a aktuálním stavu okna. Když vysílač obdrží potvrzení pro všechna PDU až do určitého bodu, může je odstranit ze své retransmisní vyrovnávací paměti. Klíčové je, že vysílač odešle příkaz 'Move Receiving Window', často přenášený spolu s datovými PDU nebo odeslaný jako řídicí PDU, aby instruoval přijímač k posunu VR(R). Tato akce efektivně 'posune' spodní hranici přijímacího okna vpřed, uvolní tak prostor v pořadových číslech pro nové přenosy a zabrání obalení konečného prostoru SN, což by způsobilo nejednoznačnost.
 
-Její úloha v síti spočívá v zajištění robustnosti a efektivity vrstvy RLC. Správou okna MRW zabraňuje přetečení vyrovnávací paměti na straně přijímače a udržuje synchronizaci stavů vysílače a přijímače. Je klíčovou součástí pro zvládání scénářů s vysokou přenosovou rychlostí, dlouhými časy odezvy nebo obdobími špatných rádiových podmínek, kdy může docházet k mnoha retransmisím. Bez MRW by se mohla vyčerpat pořadová čísla nebo by se mohla zablokovat vyrovnávací paměť přijímače, což by vedlo k uváznutí protokolu nebo snížení propustnosti. Tento postup je transparentní pro vyšší vrstvy, ale je nezbytný pro spolehlivou datovou službu, kterou RLC AM poskytuje vrstvě PDCP a následně uživatelským aplikacím.
+Její úloha v síti spočívá v zajištění robustnosti a efektivity vrstvy RLC. Správou okna MRW zabraňuje přetečení vyrovnávací paměti na straně přijímače a udržuje synchronizaci stavů vysílače a přijímače. Je klíčovou součástí pro zvládání scénářů s vysokou přenosovou rychlostí, dlouhými časy odezvy nebo obdobími špatných rádiových podmínek, kdy může docházet k mnoha retransmisím. Bez MRW by se mohla vyčerpat pořadová čísla nebo by se mohla zablokovat vyrovnávací paměť přijímače, což by vedlo k uváznutí protokolu nebo snížení propustnosti. Tento postup je transparentní pro vyšší vrstvy, ale je nezbytný pro spolehlivou datovou službu, kterou RLC AM poskytuje vrstvě [PDCP](/mobilnisite/slovnik/pdcp/) a následně uživatelským aplikacím.
 
 ## K čemu slouží
 
@@ -36,6 +36,10 @@ Jeho účelem je poskytnout explicitní kontrolu nad posunem okna přijímače a
 - Umožňuje efektivní správu vyrovnávací paměti na straně vysílače i přijímače.
 - Integrální součást procedur hlášení stavu (STATUS) a potvrzování v RLC.
 - Podporuje datové služby s vysokou propustností tím, že umožňuje nepřetržitý tok dat bez uváznutí protokolu.
+
+## Související pojmy
+
+- [RLC – Radio Link Control](/mobilnisite/slovnik/rlc/)
 
 ## Definující specifikace
 

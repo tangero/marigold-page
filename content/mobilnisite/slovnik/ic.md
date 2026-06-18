@@ -20,7 +20,7 @@ Interference Cancellation (IC, rušení) je základní technologie fyzické vrst
 
 Architektura IC je typicky integrována do jednotky základního pásma (baseband processing unit) jak v uživatelském zařízení (UE), tak v základnových stanicích (např. gNB, [eNB](/mobilnisite/slovnik/enb/)). Mezi klíčové komponenty patří pokročilé odhadovače kanálu, detektory interference a sofistikované ekvalizéry. Algoritmy spoléhají na přesnou znalost referenčních signálů, pilotních sekvencí a potenciálně dekódovaných informací řídicího kanálu pro přesné modelování interference. Ve scénářích víceuživatelského [MIMO](/mobilnisite/slovnik/mimo/) ([MU-MIMO](/mobilnisite/slovnik/mu-mimo/)) jsou techniky IC nezbytné pro oddělení prostorově multiplexovaných datových proudů, kde signály určené pro jiné uživatele působí jako interference.
 
-Role IC v síti je mnohostranná. Přímo zlepšuje poměr signálu k interferenci a šumu (SINR) na přijímači, což se převádí na vyšší dosažitelné datové rychlosti, zvýšenou spektrální účinnost a rozšířené pokrytí buňky, zejména na jejích okrajích, kde je interference nejzávažnější. Efektivní správou interference uvnitř buňky a mezi buňkami umožňuje IC agresivnější faktory opětovného využití frekvence a hustší nasazení sítě. Je klíčovým prvkem technologií, jako je Network-Assisted Interference Cancellation and Suppression ([NAICS](/mobilnisite/slovnik/naics/)) specifikovaná v 3GPP, kde síť může poskytnout UE pomocné informace o potenciálních rušičích pro zlepšení účinnosti potlačení.
+Role IC v síti je mnohostranná. Přímo zlepšuje poměr signálu k interferenci a šumu ([SINR](/mobilnisite/slovnik/sinr/)) na přijímači, což se převádí na vyšší dosažitelné datové rychlosti, zvýšenou spektrální účinnost a rozšířené pokrytí buňky, zejména na jejích okrajích, kde je interference nejzávažnější. Efektivní správou interference uvnitř buňky a mezi buňkami umožňuje IC agresivnější faktory opětovného využití frekvence a hustší nasazení sítě. Je klíčovým prvkem technologií, jako je Network-Assisted Interference Cancellation and Suppression ([NAICS](/mobilnisite/slovnik/naics/)) specifikovaná v 3GPP, kde síť může poskytnout UE pomocné informace o potenciálních rušičích pro zlepšení účinnosti potlačení.
 
 ## K čemu slouží
 
@@ -40,6 +40,7 @@ Motivací pro standardizaci technik IC bylo přesunutí správy interference z p
 ## Související pojmy
 
 - [NAICS – Network-Assisted Interference Cancellation and Suppression](/mobilnisite/slovnik/naics/)
+- [SINR – Signal to Interference plus Noise Ratio](/mobilnisite/slovnik/sinr/)
 - [MIMO – Multiple Input Multiple Output](/mobilnisite/slovnik/mimo/)
 
 ## Definující specifikace

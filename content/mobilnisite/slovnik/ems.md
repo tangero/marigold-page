@@ -16,7 +16,7 @@ EMS je rozšířená, standardizovaná služba zasílání zpráv podle 3GPP, kt
 
 ## Popis
 
-Enhanced Messaging Service (EMS) je standardizovaná služba 3GPP, která definuje možnosti pro odesílání a přijímání zpráv obsahujících multimediální obsah přes mobilní sítě. Funguje jako rozšíření služby Short Message Service (SMS), využívá stejné základní transportní mechanismy, ale rozšiřuje User Data Header (UDH) a datovou část pro podporu bohatších typů médií. Architektura zahrnuje mobilní stanici ([MS](/mobilnisite/slovnik/ms/)) pro vytváření a zobrazování zpráv, prvky jádra sítě (jako [MSC](/mobilnisite/slovnik/msc/), SMSC) pro směrování a případně externí servery ([MMS](/mobilnisite/slovnik/mms/) Relay/Server) pro pokročilejší zpracování MMS. Zprávy EMS jsou strukturovány jako zřetězené SMS zprávy se specifickými hlavičkami označujícími přítomnost formátovaného textu, obrázků, melodií nebo animací.
+Enhanced Messaging Service (EMS) je standardizovaná služba 3GPP, která definuje možnosti pro odesílání a přijímání zpráv obsahujících multimediální obsah přes mobilní sítě. Funguje jako rozšíření služby Short Message Service ([SMS](/mobilnisite/slovnik/sms/)), využívá stejné základní transportní mechanismy, ale rozšiřuje User Data Header ([UDH](/mobilnisite/slovnik/udh/)) a datovou část pro podporu bohatších typů médií. Architektura zahrnuje mobilní stanici ([MS](/mobilnisite/slovnik/ms/)) pro vytváření a zobrazování zpráv, prvky jádra sítě (jako [MSC](/mobilnisite/slovnik/msc/), [SMSC](/mobilnisite/slovnik/smsc/)) pro směrování a případně externí servery ([MMS](/mobilnisite/slovnik/mms/) Relay/Server) pro pokročilejší zpracování MMS. Zprávy EMS jsou strukturovány jako zřetězené SMS zprávy se specifickými hlavičkami označujícími přítomnost formátovaného textu, obrázků, melodií nebo animací.
 
 Technicky EMS funguje tak, že kóduje mediální objekty do definovaného binárního formátu a zabalí je do transportního protokolu SMS. Standard definuje sadu předdefinovaných mediálních objektů (např. černobílé obrázky, vyzváněcí tóny ve formátu iMelody) a jejich kódování. Když uživatel odešle zprávu EMS, software mobilního zařízení sestaví obsah, použije správné kódování EMS a odešle jej jako jedno nebo více SMS podání do sítě. Přijímající zařízení po detekci specifických indikátorů EMS v UDH zprávu znovu sestaví a interpretuje mediální prvky pro zobrazení nebo přehrání.
 
@@ -24,7 +24,7 @@ Její role v síti je jako základní vrstva služby zasílání zpráv. Ačkoli
 
 ## K čemu slouží
 
-EMS byla vytvořena, aby řešila významné omezení SMS, která byla omezena na prostý text velmi omezené délky (160 znaků). Hnací motivací bylo umožnit expresivnější a poutavější komunikaci přímo z mobilních telefonů podporou základních multimédií. Tím byla uspokojena rostoucí uživatelská poptávka po sdílení více než jen textu, jako jsou jednoduchá grafika (např. emotikony, obrázky) a vyzváněcí tóny, což bylo populární na konci 90. let a počátku 21. století.
+EMS byla vytvořena, aby řešila významné omezení [SMS](/mobilnisite/slovnik/sms/), která byla omezena na prostý text velmi omezené délky (160 znaků). Hnací motivací bylo umožnit expresivnější a poutavější komunikaci přímo z mobilních telefonů podporou základních multimédií. Tím byla uspokojena rostoucí uživatelská poptávka po sdílení více než jen textu, jako jsou jednoduchá grafika (např. emotikony, obrázky) a vyzváněcí tóny, což bylo populární na konci 90. let a počátku 21. století.
 
 Historicky existovala proprietární řešení specifická pro výrobce pro odesílání obrázků nebo zvuků, ale postrádala interoperabilitu. EMS poskytla standardizovaný, interoperabilní rámec v rámci ekosystému 3GPP. Vyřešila problém fragmentace definováním společné metody kódování a přenosu, kterou mohly podporovat všechny kompatibilní sítě a zařízení, což zajišťovalo, že uživatel může odeslat obrázkovou zprávu jakémukoli jinému uživateli na jakékoli kompatibilní síti.
 
@@ -41,6 +41,7 @@ Vytvoření EMS bylo strategickým krokem k plnohodnotné multimediální služb
 
 ## Související pojmy
 
+- [SMS – Short Message Service](/mobilnisite/slovnik/sms/)
 - [MMS – Multimedia Messaging Service](/mobilnisite/slovnik/mms/)
 
 ## Definující specifikace

@@ -16,7 +16,7 @@ GAGAN je satelitní augmentační systém, který zlepšuje přesnost, integritu
 
 ## Popis
 
-[GPS](/mobilnisite/slovnik/gps/) Aided Geo Augmented Navigation (GAGAN) je satelitní augmentační systém (SBAS) vyvinutý pro indický region a standardizovaný v rámci 3GPP pro integraci s mobilními sítěmi. Zlepšuje výkon globálního polohového systému (GPS) poskytováním korekčních dat a informací o integritě prostřednictvím geostacionárních satelitů. Systém se skládá ze sítě pozemních referenčních stanic, které monitorují signály GPS, hlavních řídicích center, která data zpracovávají za účelem generování korekčních zpráv, a stanic pro uplink, které tyto zprávy vysílají na geostacionární satelity pro následné vysílání uživatelům.
+[GPS](/mobilnisite/slovnik/gps/) Aided Geo Augmented Navigation (GAGAN) je satelitní augmentační systém ([SBAS](/mobilnisite/slovnik/sbas/)) vyvinutý pro indický region a standardizovaný v rámci 3GPP pro integraci s mobilními sítěmi. Zlepšuje výkon globálního polohového systému (GPS) poskytováním korekčních dat a informací o integritě prostřednictvím geostacionárních satelitů. Systém se skládá ze sítě pozemních referenčních stanic, které monitorují signály GPS, hlavních řídicích center, která data zpracovávají za účelem generování korekčních zpráv, a stanic pro uplink, které tyto zprávy vysílají na geostacionární satelity pro následné vysílání uživatelům.
 
 V rámci architektury 3GPP je GAGAN relevantní pro polohové služby, zejména pro funkce Assisted-GNSS ([A-GNSS](/mobilnisite/slovnik/a-gnss/)). Specifikace definují, jak mohou být augmentační data GAGAN doručena uživatelskému zařízení (UE) prostřednictvím mobilních sítí za účelem zlepšení přesnosti určení polohy a času do prvního fixu. Systém funguje tak, že měří chyby v signálech GPS způsobené ionosférickým zpožděním, nepřesnostmi satelitních hodin a odchylkami oběžné dráhy. Tyto korekce chyb jsou vypočítány v pozemním segmentu a následně vysílány, což umožňuje přijímačům dosáhnout polohové přesnosti v řádu několika metrů, což je klíčové pro aplikace týkající se bezpečnosti života, jako je letecká navigace.
 
@@ -26,7 +26,7 @@ Mezi klíčové komponenty patří GAGAN Signal-in-Space (SIS), který vysílá 
 
 GAGAN byl vyvinut za účelem řešení omezení samostatného [GPS](/mobilnisite/slovnik/gps/), kterému chybí dostatečná přesnost, monitoring integrity a dostupnost pro kritické aplikace, jako je navigace letadel v indickém vzdušném prostoru. Samotný GPS může mít chyby až 10 metrů a více kvůli atmosférickým vlivům a chybám satelitních hodin, což je pro přesné přiblížení v letectví nepřijatelné. Motivací bylo vytvořit regionální augmentační systém, který splňuje přísné požadavky Mezinárodní organizace pro civilní letectví (ICAO) pro služby týkající se bezpečnosti života (SoL).
 
-Historicky vyvinuly jiné regiony podobné SBAS, jako jsou WAAS (USA), [EGNOS](/mobilnisite/slovnik/egnos/) (Evropa) a MSAS (Japonsko). Pro Indii poskytl GAGAN řešení šité na míru pro zlepšení výkonu GPS nad jejím geografickým územím, včetně odlehlých a oceánských oblastí. Jeho integrace do standardů 3GPP, počínaje Release 8, umožnila mobilním sítím využít tuto vylepšenou schopnost určování polohy, což umožnilo nové služby vyžadující vysokou přesnost a spolehlivost. Tím se vyřešilo předchozí omezení, kdy samotné metody polohování v mobilních sítích nedokázaly dosáhnout submetrové přesnosti vyžadované pro aplikace jako autonomní vozidla, precizní zemědělství a pokročilé asistenční systémy řidiče (ADAS).
+Historicky vyvinuly jiné regiony podobné SBAS, jako jsou WAAS (USA), EGNOS (Evropa) a MSAS (Japonsko). Pro Indii poskytl GAGAN řešení šité na míru pro zlepšení výkonu GPS nad jejím geografickým územím, včetně odlehlých a oceánských oblastí. Jeho integrace do standardů 3GPP, počínaje Release 8, umožnila mobilním sítím využít tuto vylepšenou schopnost určování polohy, což umožnilo nové služby vyžadující vysokou přesnost a spolehlivost. Tím se vyřešilo předchozí omezení, kdy samotné metody polohování v mobilních sítích nedokázaly dosáhnout submetrové přesnosti vyžadované pro aplikace jako autonomní vozidla, precizní zemědělství a pokročilé asistenční systémy řidiče (ADAS).
 
 ## Klíčové vlastnosti
 
@@ -40,6 +40,7 @@ Historicky vyvinuly jiné regiony podobné SBAS, jako jsou WAAS (USA), [EGNOS](/
 ## Související pojmy
 
 - [A-GNSS – Assisted Global Navigation Satellite Systems](/mobilnisite/slovnik/a-gnss/)
+- [SBAS – Satellite Based Augmentation Systems](/mobilnisite/slovnik/sbas/)
 - [LPP – LTE Positioning Protocol](/mobilnisite/slovnik/lpp/)
 - [OTDOA – Observed Time Difference Of Arrival](/mobilnisite/slovnik/otdoa/)
 

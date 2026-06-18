@@ -16,7 +16,7 @@ CRN je doplňková služba, která umožňuje uživateli vyžádat si síťově 
 
 ## Popis
 
-Call Request with Number (CRN) je doplňková služba definovaná v 3GPP TS 27.002, která umožňuje uživateli požádat síť o zřízení hovoru na konkrétní cílové číslo bez nutnosti ručního vytáčení kompletního čísla uživatelem. Služba funguje v rámci prostředí Mobile Station Application Execution Environment (MExE) a využívá mechanismus Unstructured Supplementary Service Data (USSD) pro komunikaci mezi mobilní stanicí a sítí. CRN funguje tak, že uživateli umožňuje uložit si často používaná čísla v síti nebo v mobilním zařízení a poté iniciovat hovory výběrem těchto uložených položek namísto zadávání plných telefonních čísel.
+Call Request with Number (CRN) je doplňková služba definovaná v 3GPP TS 27.002, která umožňuje uživateli požádat síť o zřízení hovoru na konkrétní cílové číslo bez nutnosti ručního vytáčení kompletního čísla uživatelem. Služba funguje v rámci prostředí Mobile Station Application Execution Environment (MExE) a využívá mechanismus Unstructured Supplementary Service Data ([USSD](/mobilnisite/slovnik/ussd/)) pro komunikaci mezi mobilní stanicí a sítí. CRN funguje tak, že uživateli umožňuje uložit si často používaná čísla v síti nebo v mobilním zařízení a poté iniciovat hovory výběrem těchto uložených položek namísto zadávání plných telefonních čísel.
 
 Technická implementace CRN zahrnuje několik klíčových komponent spolupracujících dohromady. Mobilní stanice obsahuje klientskou aplikaci CRN, která komunikuje s uživatelem, zatímco na straně sítě je funkce serveru CRN, typicky implementovaná v Home Location Register ([HLR](/mobilnisite/slovnik/hlr/)) nebo v dedikované služební uzlu. Když uživatel aktivuje CRN, mobilní stanice odešle USSD zprávu obsahující požadavek CRN do sítě. Tato zpráva obsahuje parametry jako kód služby, index uloženého čísla (při použití uložených čísel) nebo kompletní cílové číslo, pokud je poskytnuto přímo. Síť tento požadavek zpracuje, ověří uživatelovo předplatné služby CRN a poté zahájí proceduru zřizování hovoru na zadaný cíl.
 
@@ -43,6 +43,7 @@ CRN také řešila konkrétní případy užití, které bylo obtížné impleme
 
 ## Související pojmy
 
+- [USSD – Unstructured Supplementary Services Data](/mobilnisite/slovnik/ussd/)
 - [HLR – Home Location Register](/mobilnisite/slovnik/hlr/)
 
 ## Definující specifikace

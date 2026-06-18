@@ -16,11 +16,11 @@ AAA je bezpečnostní rámec, který řídí přístup uživatelů k síťovým 
 
 ## Popis
 
-Autentizace, autorizace a účtování (AAA) je komplexní bezpečnostní a řídicí rámec definovaný 3GPP pro řízení přístupu k síťovým zdrojům, vynucování politik a zaznamenávání dat o využití. V architektuře 3GPP jsou funkce AAA primárně implementovány v jádru sítě (Core Network) a často komunikují se serverem [HSS](/mobilnisite/slovnik/hss/) (Home Subscriber Server) nebo [UDM](/mobilnisite/slovnik/udm/) (Unified Data Management) pro ověření přihlašovacích údajů a dat uživatelského profilu. Koncept rámce je nezávislý na protokolu, ale jeho realizace běžně využívá protokol Diameter (specifikovaný v 3GPP TS 29.229 a souvisejících specifikacích) pro komunikaci mezi síťovými funkcemi, například mezi PCRF (Policy and Charging Rules Function) a [OCS](/mobilnisite/slovnik/ocs/) (Online Charging System).
+Autentizace, autorizace a účtování (AAA) je komplexní bezpečnostní a řídicí rámec definovaný 3GPP pro řízení přístupu k síťovým zdrojům, vynucování politik a zaznamenávání dat o využití. V architektuře 3GPP jsou funkce AAA primárně implementovány v jádru sítě (Core Network) a často komunikují se serverem [HSS](/mobilnisite/slovnik/hss/) (Home Subscriber Server) nebo [UDM](/mobilnisite/slovnik/udm/) (Unified Data Management) pro ověření přihlašovacích údajů a dat uživatelského profilu. Koncept rámce je nezávislý na protokolu, ale jeho realizace běžně využívá protokol Diameter (specifikovaný v 3GPP TS 29.229 a souvisejících specifikacích) pro komunikaci mezi síťovými funkcemi, například mezi [PCRF](/mobilnisite/slovnik/pcrf/) (Policy and Charging Rules Function) a [OCS](/mobilnisite/slovnik/ocs/) (Online Charging System).
 
 Proces začíná autentizací, při které uživatel nebo zařízení prokáže svou identitu síti, typicky předložením přihlašovacích údajů (jako [IMSI](/mobilnisite/slovnik/imsi/) a sdílený tajný klíč), které jsou ověřeny proti datům uloženým v HSS/UDM. Tento krok zajišťuje, že entita je tím, za koho se vydává. Po úspěšné autentizaci následuje autorizace, která určuje, ke kterým službám, přenosovým rychlostem nebo síťovým zdrojům je uživatel oprávněn přistupovat na základě svého předplatného, aktuálních síťových politik a smluvních podmínek. Toto vynucují síťové prvky, jako je [PCF](/mobilnisite/slovnik/pcf/) (Policy Control Function).
 
-Nakonec účtování zahrnuje sběr dat o spotřebě zdrojů pro účely fakturace, analýzy trendů nebo plánování kapacity. To lze provádět v reálném čase (online charging) nebo jako dávkový proces po skončení relace (offline charging). Rámec AAA je hluboce integrován s architekturou 3GPP PCC (Policy and Charging Control), kde se autorizační a účtovací politiky dynamicky uplatňují a aktualizují během uživatelské relace. Jeho role je klíčová nejen pro základní přístup, ale také pro umožnění sofistikované diferenciace služeb, zabezpečeného síťového řezání (network slicing) a flexibilních obchodních modelů, jako je sponzorovaný přenos dat.
+Nakonec účtování zahrnuje sběr dat o spotřebě zdrojů pro účely fakturace, analýzy trendů nebo plánování kapacity. To lze provádět v reálném čase (online charging) nebo jako dávkový proces po skončení relace (offline charging). Rámec AAA je hluboce integrován s architekturou 3GPP [PCC](/mobilnisite/slovnik/pcc/) (Policy and Charging Control), kde se autorizační a účtovací politiky dynamicky uplatňují a aktualizují během uživatelské relace. Jeho role je klíčová nejen pro základní přístup, ale také pro umožnění sofistikované diferenciace služeb, zabezpečeného síťového řezání (network slicing) a flexibilních obchodních modelů, jako je sponzorovaný přenos dat.
 
 ## K čemu slouží
 
@@ -40,6 +40,7 @@ K jeho vytvoření vedla potřeba jednotné bezpečnostní a řídicí vrstvy, k
 ## Související pojmy
 
 - [HSS – Home Subscriber Server](/mobilnisite/slovnik/hss/)
+- [PCRF – Policy and Charging Rules Function](/mobilnisite/slovnik/pcrf/)
 
 ## Definující specifikace
 

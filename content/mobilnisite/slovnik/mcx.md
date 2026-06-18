@@ -41,6 +41,11 @@ Vývoj MCX byl motivován globálními požadavky veřejné bezpečnosti, zejmé
 - Interoperabilita mezi různými síťovými operátory a poskytovateli služeb MCX
 - Využívá 3GPP 5G System (5GS) a Evolved Packet System (EPS) pro mobilitu a služby jádra sítě
 
+## Související pojmy
+
+- [QoS – Quality of Service](/mobilnisite/slovnik/qos/)
+- [ProSe – Proximity-based Services](/mobilnisite/slovnik/prose/)
+
 ## Definující specifikace
 
 - **TS 22.261** (Rel-20) — 5G System Service Requirements

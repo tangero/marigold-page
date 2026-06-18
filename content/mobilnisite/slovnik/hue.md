@@ -20,7 +20,7 @@ Home NodeB User Equipment (HUE) je termín definovaný ve specifikacích 3GPP, k
 
 Z architektonického hlediska, když se UE přihlásí k HNB, naváže spojení přes HNB do core sítě prostřednictvím vyhrazené brány Home NodeB Gateway ([HNB-GW](/mobilnisite/slovnik/hnb-gw/)) nebo, v pozdějších architekturách, integrovaných bran. Subsystém HNB, včetně HUE, tvoří uzavřenou nebo hybridní přístupovou skupinu, často spojenou s Closed Subscriber Group ([CSG](/mobilnisite/slovnik/csg/)). Síť identifikuje UE jako HUE, aby mohla vynutit řízení přístupu, zajistit legální odposlech, uplatnit specifické tarifní pravidla a spravovat předávání hovorů mezi femtobuňkou a okolní makro sítí. Tato identifikace je součástí kontextu UE, který si síť udržuje.
 
-Z provozní perspektivy stav HUE ovlivňuje několik síťových funkcí. Ovlivňuje mobilní procedury, protože předávání hovorů z makro buňky do buňky HNB (a naopak) vyžaduje specifickou signalizaci a řízení přístupu kvůli možným omezením CSG. Má také dopad na správu rádiových zdrojů (RRM), protože řízení výkonu a koordinace rušení mohou být v hustém, neplánovaném nasazení typickém pro femtobuňky řešeny odlišně. Dále bezpečnostní procedury, včetně autentizace a odvozování klíčů, mohou zahrnovat specifický bezpečnostní kontext HNB. Koncept HUE je nedílnou součástí standardizace technologie femtobuněk v 3GPP a poskytuje jasné vymezení pro síťové entity, aby s těmito UE v rámci širšího ekosystému UMTS (a později LTE/5G) nakládaly odpovídajícím způsobem.
+Z provozní perspektivy stav HUE ovlivňuje několik síťových funkcí. Ovlivňuje mobilní procedury, protože předávání hovorů z makro buňky do buňky HNB (a naopak) vyžaduje specifickou signalizaci a řízení přístupu kvůli možným omezením CSG. Má také dopad na správu rádiových zdrojů ([RRM](/mobilnisite/slovnik/rrm/)), protože řízení výkonu a koordinace rušení mohou být v hustém, neplánovaném nasazení typickém pro femtobuňky řešeny odlišně. Dále bezpečnostní procedury, včetně autentizace a odvozování klíčů, mohou zahrnovat specifický bezpečnostní kontext HNB. Koncept HUE je nedílnou součástí standardizace technologie femtobuněk v 3GPP a poskytuje jasné vymezení pro síťové entity, aby s těmito UE v rámci širšího ekosystému UMTS (a později LTE/5G) nakládaly odpovídajícím způsobem.
 
 ## K čemu slouží
 
@@ -43,6 +43,7 @@ Historickým motivem byla snaha operátorů odlehčit přenosy, zlepšit vnitřn
 
 - [HNB – Home Node B](/mobilnisite/slovnik/hnb/)
 - [CSG – Closed Subscriber Group](/mobilnisite/slovnik/csg/)
+- [UE – User Equipment](/mobilnisite/slovnik/ue/)
 - [HNB-GW – Home Node B Gateway](/mobilnisite/slovnik/hnb-gw/)
 
 ## Definující specifikace

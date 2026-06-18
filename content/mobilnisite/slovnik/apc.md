@@ -18,7 +18,7 @@ APC je teoretický bod, z něhož se zdánlivě šíří elektromagnetické vlny
 
 Antenna Phase Center (APC, fázový střed antény) je základním konceptem v teorii antén a vysokofrekvenční technice, který představuje efektivní bod, z něhož se zdánlivě šíří elektromagnetické záření při vysílání, nebo do něhož se zdánlivě sbíhá při příjmu. Ve specifikacích 3GPP, zejména v kontextu technologií určování polohy, slouží APC jako referenční bod pro fázová měření a časové výpočty. U dané antény není APC nutně pevným fyzickým bodem, ale spíše matematickou konstrukcí, která se mění s frekvencí, polarizací a vyzařovacím diagramem. V praktických implementacích se APC určuje pečlivou charakterizací a kalibračními postupy antény.
 
-V architekturách určování polohy podle 3GPP hraje APC klíčovou roli při měřeních rozdílu času referenčních signálů (RSTD) používaných pro určování polohy metodou [OTDOA](/mobilnisite/slovnik/otdoa/). Když uživatelské zařízení (UE) měří časové rozdíly mezi signály z různých základnových stanic, musí být tato měření vztažena ke konzistentním bodům v prostoru – k APC vysílacích antén. Specifikace 3GPP definují, jak by měly síťové elementy komunikovat informace o APC, aby umožnily přesné výpočty polohy. To zahrnuje souřadnice referenčního bodu antény ([ARP](/mobilnisite/slovnik/arp/)) a vektory posunu k APC pro každý anténní port.
+V architekturách určování polohy podle 3GPP hraje APC klíčovou roli při měřeních rozdílu času referenčních signálů ([RSTD](/mobilnisite/slovnik/rstd/)) používaných pro určování polohy metodou [OTDOA](/mobilnisite/slovnik/otdoa/). Když uživatelské zařízení (UE) měří časové rozdíly mezi signály z různých základnových stanic, musí být tato měření vztažena ke konzistentním bodům v prostoru – k APC vysílacích antén. Specifikace 3GPP definují, jak by měly síťové elementy komunikovat informace o APC, aby umožnily přesné výpočty polohy. To zahrnuje souřadnice referenčního bodu antény ([ARP](/mobilnisite/slovnik/arp/)) a vektory posunu k APC pro každý anténní port.
 
 Technická implementace zahrnuje několik komponent: fyzickou strukturu antény s jejími vyzařovacími prvky, kalibrační systém, který charakterizuje APC za různých podmínek, positioning protokol, který komunikuje parametry APC k positioning serverům, a výpočetní algoritmy, které kompenzují vliv APC v časových měřeních. U víceanténních systémů, jako jsou [MIMO](/mobilnisite/slovnik/mimo/) pole, může mít každý anténní prvek nebo port svůj vlastní APC, což vyžaduje složité kalibrační a kompenzační postupy. Koncept APC se vztahuje jak na antény základnových stanic (gNB v 5G, [eNB](/mobilnisite/slovnik/enb/) v LTE), tak potenciálně i na antény UE, ačkoli primární důraz ve specifikacích 3GPP je na APC na síťové straně pro určování polohy v downlinku.
 
@@ -44,6 +44,7 @@ Motivace pro standardizaci nakládání s APC přišla z více směrů: regulato
 ## Související pojmy
 
 - [OTDOA – Observed Time Difference Of Arrival](/mobilnisite/slovnik/otdoa/)
+- [RSTD – Reference Signal Time Difference](/mobilnisite/slovnik/rstd/)
 
 ## Definující specifikace
 

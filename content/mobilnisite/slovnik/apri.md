@@ -16,7 +16,7 @@ APRI je signalizační parametr IMS, který řídí, zda je volajícího adresa 
 
 ## Popis
 
-Address Presentation Restriction Indicator (APRI) je klíčový parametr v rámci signalizačního rámce Session Initiation Protocol (SIP) v 3GPP IP Multimedia Subsystem (IMS). Funguje jako součást hlavičky P-Asserted-Identity nebo hlavičky From v SIP zprávách, konkrétně v rámci požadavku INVITE, který zahajuje relaci. APRI přenáší preferenci volajícího uživatele týkající se prezentace jeho proklamované identity volanému účastníkovi. Síťové prvky IMS, primárně Serving-Call Session Control Function (S-CSCF), tento indikátor interpretují a vynucují na základě uživatelského předplatného, síťové politiky a regulatorních požadavků.
+Address Presentation Restriction Indicator (APRI) je klíčový parametr v rámci signalizačního rámce Session Initiation Protocol ([SIP](/mobilnisite/slovnik/sip/)) v 3GPP IP Multimedia Subsystem (IMS). Funguje jako součást hlavičky P-Asserted-Identity nebo hlavičky From v SIP zprávách, konkrétně v rámci požadavku INVITE, který zahajuje relaci. APRI přenáší preferenci volajícího uživatele týkající se prezentace jeho proklamované identity volanému účastníkovi. Síťové prvky IMS, primárně Serving-Call Session Control Function ([S-CSCF](/mobilnisite/slovnik/s-cscf/)), tento indikátor interpretují a vynucují na základě uživatelského předplatného, síťové politiky a regulatorních požadavků.
 
 Technicky APRI není samostatná hlavička, ale parametr (často 'privacy') nebo atribut uvnitř identifikačních hlaviček. Jeho hodnoty jsou definovány tak, aby spouštěly konkrétní síťové chování. Pokud je nastaven na 'presentation restricted', síť musí zajistit, že adresa volající strany není volanému uživateli zobrazena. Naopak 'presentation allowed' zobrazení umožňuje. Klíčovou složitost představuje interakce mezi preferencí poskytnutou uživatelem a ověřením a vynucením politiky ze strany sítě. S-CSCF kontroluje proklamovanou identitu vůči profilu uživatele a může přepsat nesprávně uživatelem poskytnutý APRI, aby vyhověl datům předplatného nebo lokální politice, čímž zajišťuje, že ochranu soukromí nelze podvodně vyvolat nebo obejít.
 
@@ -26,7 +26,7 @@ Role APRI přesahuje základní nastavení hovoru. Integruje se s dalšími mech
 
 ## K čemu slouží
 
-APRI byl vytvořen, aby poskytl standardizovaný, na IP založený mechanismus pro ochranu soukromí identity volajícího v rámci architektury 3GPP IMS, a vyřešil tak problém, jak převést tradiční služby ochrany soukromí v telefonii s přepojováním okruhů (jako [CLIR](/mobilnisite/slovnik/clir/)) do světa s přepojováním paketů založeného na SIP. Před IMS byla ochrana soukromí v mobilních sítích řešena specifickou signalizací uvnitř jádra s přepojováním okruhů (např. v [MAP](/mobilnisite/slovnik/map/) nebo [ISUP](/mobilnisite/slovnik/isup/)). Migrace na zcela IP jádro (IMS) pro multimediální služby si vyžádala novou metodu fungující s protokoly SIP. APRI to řeší definicí jasného, interoperabilního způsobu signalizace preferencí ochrany soukromí v rámci SIP, což zajišťuje konzistentní chování napříč síťovým vybavením různých dodavatelů a mezi různými operátorskými sítěmi.
+APRI byl vytvořen, aby poskytl standardizovaný, na IP založený mechanismus pro ochranu soukromí identity volajícího v rámci architektury 3GPP IMS, a vyřešil tak problém, jak převést tradiční služby ochrany soukromí v telefonii s přepojováním okruhů (jako [CLIR](/mobilnisite/slovnik/clir/)) do světa s přepojováním paketů založeného na [SIP](/mobilnisite/slovnik/sip/). Před IMS byla ochrana soukromí v mobilních sítích řešena specifickou signalizací uvnitř jádra s přepojováním okruhů (např. v MAP nebo ISUP). Migrace na zcela IP jádro (IMS) pro multimediální služby si vyžádala novou metodu fungující s protokoly SIP. APRI to řeší definicí jasného, interoperabilního způsobu signalizace preferencí ochrany soukromí v rámci SIP, což zajišťuje konzistentní chování napříč síťovým vybavením různých dodavatelů a mezi různými operátorskými sítěmi.
 
 Hnací motivací byla potřeba kontinuity služeb a dodržování regulatorních požadavků. Když operátoři nasazovali IMS pro Voice over LTE (VoLTE) a další služby, museli uživatelům nabídnout stejné kontroly ochrany soukromí, jaké měli v legacy sítích. Bez standardu jako APRI by proprietární implementace vedly k problémům s interoperabilitou, nefunkčním funkcím ochrany soukromí při přeshraničních hovorech a neschopnosti splnit legální požadavky na blokování identifikace volajícího. APRI poskytuje potřebnou abstrakci, odděluje záměr uživatele ohledně soukromí od složité síťové logiky potřebné k jeho vynucení, a tím umožňuje spolehlivé a předvídatelné služby ochrany soukromí v ekosystému s více dodavateli a operátory.
 
@@ -44,7 +44,9 @@ APRI navíc řeší omezení jednoduché ochrany soukromí řízené koncovým b
 ## Související pojmy
 
 - [IMS – IP Multimedia Subsystem](/mobilnisite/slovnik/ims/)
+- [SIP – Session Initiation Protocol](/mobilnisite/slovnik/sip/)
 - [CLIR – Calling Line Identification Restriction](/mobilnisite/slovnik/clir/)
+- [S-CSCF – Serving Call Session Control Function](/mobilnisite/slovnik/s-cscf/)
 
 ## Definující specifikace
 

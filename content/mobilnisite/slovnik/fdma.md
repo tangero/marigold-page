@@ -22,7 +22,7 @@ Z architektonického pohledu vyžaduje FDMA buňková síť, jako byla síť prv
 
 FDMA funguje na principu udržování striktního oddělení mezi kanály pomocí ochranných pásem – malých nevyužitých frekvenčních intervalů mezi sousedními kanály. Tato ochranná pásma zabraňují mezikanálovému rušení ([ICI](/mobilnisite/slovnik/ici/)) způsobenému nedokonalými vysílacími filtry a Dopplerovými posuvy. Když uživatel zahájí hovor, řídicí systém sítě přiřadí dostupný frekvenční pár. UE a základnová stanice poté naladí své vysílače a přijímače na tyto frekvence. Komunikace je po dobu hovoru nepřetržitá, na rozdíl od systémů s časovým dělením. Tato jednoduchost je zároveň silnou i slabou stránkou; umožňuje přímočarou implementaci, ale postrádá flexibilitu pro trhaný datový provoz.
 
-V systémech 3GPP se čisté FDMA nepoužívá jako primární přístupová metoda pro digitální buňkové standardy jako GSM, UMTS, LTE nebo NR. Jeho principy jsou však hluboce zakotveny. GSM například kombinuje FDMA (dělení 25 MHz na 124 nosných frekvencí po 200 kHz) s TDMA (dělení každé frekvence na 8 časových slotů). Co je důležitější, FDMA je koncepčním předchůdcem pokročilejších technik ve frekvenční oblasti. Moderní Orthogonal Frequency Division Multiple Access ([OFDMA](/mobilnisite/slovnik/ofdma/)), používaný v downlinku LTE a 5G NR, je digitální, efektivní formou FDMA, kde jsou subnosné ortogonální, což eliminuje potřebu ochranných pásem mezi nimi a umožňuje dynamické přidělování skupin subnosných (bloků zdrojů) různým uživatelům.
+V systémech 3GPP se čisté FDMA nepoužívá jako primární přístupová metoda pro digitální buňkové standardy jako GSM, UMTS, LTE nebo NR. Jeho principy jsou však hluboce zakotveny. GSM například kombinuje FDMA (dělení 25 MHz na 124 nosných frekvencí po 200 kHz) s [TDMA](/mobilnisite/slovnik/tdma/) (dělení každé frekvence na 8 časových slotů). Co je důležitější, FDMA je koncepčním předchůdcem pokročilejších technik ve frekvenční oblasti. Moderní Orthogonal Frequency Division Multiple Access ([OFDMA](/mobilnisite/slovnik/ofdma/)), používaný v downlinku LTE a 5G NR, je digitální, efektivní formou FDMA, kde jsou subnosné ortogonální, což eliminuje potřebu ochranných pásem mezi nimi a umožňuje dynamické přidělování skupin subnosných (bloků zdrojů) různým uživatelům.
 
 ## K čemu slouží
 
@@ -30,7 +30,7 @@ FDMA bylo vyvinuto k řešení základního problému umožnění více uživate
 
 Primární problém, který řešilo, byla izolace uživatelů – zabránění interferenci signálu jednoho uživatele se signálem jiného. Přiřazením jedinečných frekvenčních kanálů FDMA poskytlo přirozenou, statickou izolaci. To bylo s analogovou technologií 70. a 80. let snazší implementovat ve srovnání se složitějšími časově synchronizovanými nebo kódovými systémy. Umožnilo nepřetržité vysílání, které bylo ideální pro analogový hlas, a poskytovalo konzistentní kvalitu bez přerušovanosti, která mohla vzniknout při časovém sdílení.
 
-FDMA však mělo významná omezení, která motivovala vývoj hybridních a digitálních technik. Bylo neefektivní pro trhaný datový provoz, protože kanál zůstával přidělen i během období ticha. Potřeba ochranných pásem snižovala spektrální účinnost. Každý kanál navíc vyžadoval vyhrazenou transceiverovou jednotku v základnové stanici, což zvyšovalo náklady a složitost. Tyto nedostatky vedly k vývoji TDMA (jako ve 2G GSM) a [CDMA](/mobilnisite/slovnik/cdma/) (jako v 3G UMTS), které nabídly větší kapacitu a flexibilitu. Nicméně účel FDMA jako jasné, základní metody pro rozdělování zdrojů zůstává historicky klíčový. Jeho koncepty jsou zvěčněny ve strategiích přidělování zdrojů ve frekvenční oblasti všech následujících generací buňkových sítí, kde základní akt přiřazení konkrétního bloku spektra uživateli nebo buňce zůstává v jádru principem FDMA.
+FDMA však mělo významná omezení, která motivovala vývoj hybridních a digitálních technik. Bylo neefektivní pro trhaný datový provoz, protože kanál zůstával přidělen i během období ticha. Potřeba ochranných pásem snižovala spektrální účinnost. Každý kanál navíc vyžadoval vyhrazenou transceiverovou jednotku v základnové stanici, což zvyšovalo náklady a složitost. Tyto nedostatky vedly k vývoji [TDMA](/mobilnisite/slovnik/tdma/) (jako ve 2G GSM) a [CDMA](/mobilnisite/slovnik/cdma/) (jako v 3G UMTS), které nabídly větší kapacitu a flexibilitu. Nicméně účel FDMA jako jasné, základní metody pro rozdělování zdrojů zůstává historicky klíčový. Jeho koncepty jsou zvěčněny ve strategiích přidělování zdrojů ve frekvenční oblasti všech následujících generací buňkových sítí, kde základní akt přiřazení konkrétního bloku spektra uživateli nebo buňce zůstává v jádru principem FDMA.
 
 ## Klíčové vlastnosti
 
@@ -43,6 +43,7 @@ FDMA však mělo významná omezení, která motivovala vývoj hybridních a dig
 
 ## Související pojmy
 
+- [TDMA – Time Division Multiple Access](/mobilnisite/slovnik/tdma/)
 - [CDMA – Code Division Multiple Access](/mobilnisite/slovnik/cdma/)
 - [OFDMA – Orthogonal Frequency Division Multiple Access](/mobilnisite/slovnik/ofdma/)
 

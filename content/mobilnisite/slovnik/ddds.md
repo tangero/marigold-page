@@ -22,7 +22,7 @@ Architektura zahrnuje detekci dat ve směru downlink pro UE, která není v conn
 
 Klíčové komponenty zahrnují bufferingovou schopnost UPF, funkci SMF pro rozhodování o politikách pro spuštění DDDS a roli AMF v řízení mobility a přechodů stavu UE. UPF udržuje bufferingové kontexty pro UE, včetně správy timerů pro dobu, po kterou mají být data bufferována, než jsou zahozena nebo doručena alternativními prostředky. SMF tyto bufferingové parametry konfiguruje a rozhoduje na základě dat o předplatném, síťových politik a podmínek v reálném čase.
 
-DDDS funguje prostřednictvím specifických procedur rozhraní N4 mezi UPF a SMF, definovaných v 3GPP TS 29.244. UPF hlásí události bufferingu a stav doručení prostřednictvím procedur modifikace PFCP (Packet Forwarding Control Protocol) session. Mechanismus podporuje různé režimy oznamování, včetně okamžitého oznámení, odloženého oznámení na základě timerů a podmíněného oznámení na základě charakteristik dat nebo vzorců chování UE.
+DDDS funguje prostřednictvím specifických procedur rozhraní N4 mezi UPF a SMF, definovaných v 3GPP TS 29.244. UPF hlásí události bufferingu a stav doručení prostřednictvím procedur modifikace [PFCP](/mobilnisite/slovnik/pfcp/) (Packet Forwarding Control Protocol) session. Mechanismus podporuje různé režimy oznamování, včetně okamžitého oznámení, odloženého oznámení na základě timerů a podmíněného oznámení na základě charakteristik dat nebo vzorců chování UE.
 
 Tato technologie hraje klíčovou roli v funkcích pro úsporu energie v 5G, zejména pro IoT zařízení a smartphony s přerušovaným datovým provozem. Snížením zbytečného pagingu a procedur navazování spojení minimalizuje DDDS signalizační režii při zachování efektivního doručování dat. Bufferingová schopnost na UPF zajišťuje integritu dat a správné řazení, i když jsou UE v úsporných stavech po delší dobu.
 
@@ -32,7 +32,7 @@ DDDS byl vytvořen, aby řešil základní výzvu vyvážení spotřeby energie 
 
 Technologie řeší problém požadavků na 'vždy zapojené' spojení, které vyčerpávají baterie UE. Zavedením inteligentního bufferingu na síťové hraně ([UPF](/mobilnisite/slovnik/upf/)) a selektivních oznamovacích mechanismů umožňuje DDDS UE zůstat déle v úsporných stavech, a zároveň zajišťuje včasné doručení důležitých dat. To je obzvláště cenné pro nasazení massive IoT, kde zařízení mohou přenášet nebo přijímat data pouze sporadicky, ale potřebují udržet výdrž baterie po celé roky.
 
-Historický kontext ukazuje, že dřívější přístupy jako Power Saving Mode (PSM) v LTE poskytovaly prodloužená období spánku, ale činila zařízení během těchto dob nedosažitelnými. DDDS představuje evoluci, která zachovává dosažitelnost při optimalizaci spotřeby energie. Motivací byly požadavky 5G na podporu různých případů užití s různými potřebami latence a spotřeby energie, od ultra-spolehlivých nízkolatentních komunikací po massive machine-type komunikace s extrémními požadavky na energetickou účinnost.
+Historický kontext ukazuje, že dřívější přístupy jako Power Saving Mode ([PSM](/mobilnisite/slovnik/psm/)) v LTE poskytovaly prodloužená období spánku, ale činila zařízení během těchto dob nedosažitelnými. DDDS představuje evoluci, která zachovává dosažitelnost při optimalizaci spotřeby energie. Motivací byly požadavky 5G na podporu různých případů užití s různými potřebami latence a spotřeby energie, od ultra-spolehlivých nízkolatentních komunikací po massive machine-type komunikace s extrémními požadavky na energetickou účinnost.
 
 ## Klíčové vlastnosti
 

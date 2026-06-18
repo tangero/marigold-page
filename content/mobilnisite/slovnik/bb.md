@@ -18,11 +18,11 @@ BB je logické transportní spojení mezi síťovými prvky, které přenáší 
 
 Backbone Bearer (BB) je základní transportní koncept v sítích 3GPP, který vytváří logická spojení mezi síťovými funkcemi ([NF](/mobilnisite/slovnik/nf/)) a síťovými prvky. Funguje na transportní vrstvě, abstrahuje od podkladové fyzické síťové infrastruktury a poskytuje standardizované komunikační kanály. BB je charakterizován specifickými parametry kvality služeb (QoS), bezpečnostními politikami a konfiguracemi směrování, které zajišťují předvídatelný výkon pro různé typy provozu, včetně dat uživatelské roviny, signalizace řídicí roviny a managementového provozu.
 
-Architektonicky jsou BB implementovány napříč různými rozhraními a referenčními body 3GPP. Jsou zvláště klíčové v architektuře založené na službách (SBA) pro 5G, kde usnadňují komunikaci mezi síťovými funkcemi (NF) prostřednictvím rozhraní založených na službách. Každý BB je spojen se specifickými transportními požadavky definovanými ve specifikacích 3GPP, včetně charakteristik latence, šířky pásma, spolehlivosti a zabezpečení. Koncept BB umožňuje síťovým operátorům implementovat diferencované transportní služby bez nutnosti modifikace protokolů aplikační vrstvy, které přes ně běží.
+Architektonicky jsou BB implementovány napříč různými rozhraními a referenčními body 3GPP. Jsou zvláště klíčové v architektuře založené na službách ([SBA](/mobilnisite/slovnik/sba/)) pro 5G, kde usnadňují komunikaci mezi síťovými funkcemi (NF) prostřednictvím rozhraní založených na službách. Každý BB je spojen se specifickými transportními požadavky definovanými ve specifikacích 3GPP, včetně charakteristik latence, šířky pásma, spolehlivosti a zabezpečení. Koncept BB umožňuje síťovým operátorům implementovat diferencované transportní služby bez nutnosti modifikace protokolů aplikační vrstvy, které přes ně běží.
 
 Při implementaci jsou BB typicky realizovány pomocí IP technologií s vhodnými tunelovacími a zapouzdřovacími mechanismy. Mohou využívat protokoly jako [GTP-U](/mobilnisite/slovnik/gtp-u/) ([GPRS](/mobilnisite/slovnik/gprs/) Tunneling Protocol for User Plane) pro přenos uživatelských dat a různé konfigurace [IPsec](/mobilnisite/slovnik/ipsec/) pro zabezpečenou komunikaci řídicí roviny. Správa BB zahrnuje koordinaci mezi více síťovými doménami, včetně rádiových přístupových sítí, páteřních sítí a externích datových sítí, a zajišťuje kontinuitu služeb a záruky výkonu end-to-end.
 
-Klíčové součásti architektury BB zahrnují funkci vázání přenosu a hlášení událostí ([BBERF](/mobilnisite/slovnik/bberf/)) v určitých architekturách, která mapuje toky servisních dat na příslušné přenosy na základě pravidel politik. BB také spolupracuje se systémy řízení politik a účtování (PCC) k vynucování QoS politik a účtovacích pravidel. V sítích 5G se koncept BB vyvinul tak, aby podporoval síťové segmenty (network slicing), kde různé segmenty mohou využívat vyhrazené nebo sdílené páteřní přenosy se specifickými výkonnostními charakteristikami přizpůsobenými požadavkům segmentu.
+Klíčové součásti architektury BB zahrnují funkci vázání přenosu a hlášení událostí ([BBERF](/mobilnisite/slovnik/bberf/)) v určitých architekturách, která mapuje toky servisních dat na příslušné přenosy na základě pravidel politik. BB také spolupracuje se systémy řízení politik a účtování ([PCC](/mobilnisite/slovnik/pcc/)) k vynucování QoS politik a účtovacích pravidel. V sítích 5G se koncept BB vyvinul tak, aby podporoval síťové segmenty (network slicing), kde různé segmenty mohou využívat vyhrazené nebo sdílené páteřní přenosy se specifickými výkonnostními charakteristikami přizpůsobenými požadavkům segmentu.
 
 ## K čemu slouží
 
@@ -30,7 +30,7 @@ Backbone Bearer byl zaveden, aby řešil rostoucí složitost transportních sí
 
 Koncept BB poskytuje standardizovaný rámec pro transportní konektivitu, který odděluje servisní logiku od transportní implementace. Tato abstrakce umožňuje síťovým operátorům vyvíjet jejich transportní infrastrukturu nezávisle na službách, které přes ni běží. Definováním jasných rozhraní a charakteristik pro páteřní přenosy umožňuje 3GPP konzistentní implementaci napříč různými síťovými doménami a usnadňuje zavádění nových služeb bez nutnosti kompletního přepracování transportní sítě.
 
-V kontextu 5G a dalších generací se BB staly stále důležitějšími pro podporu různorodých požadavků služeb, včetně ultra-spolehlivé komunikace s nízkou latencí (URLLC), rozšířeného mobilního širokopásmového přístupu (eMBB) a komunikace s hromadnými strojovými zařízeními (mMTC). Architektura páteřního přenosu umožňuje síťové segmentování tím, že poskytuje izolované transportní cesty se specifickými výkonnostními charakteristikami pro různé segmenty, což je nezbytné pro podporu aplikací vertikálních průmyslů s přísnými požadavky.
+V kontextu 5G a dalších generací se BB staly stále důležitějšími pro podporu různorodých požadavků služeb, včetně ultra-spolehlivé komunikace s nízkou latencí ([URLLC](/mobilnisite/slovnik/urllc/)), rozšířeného mobilního širokopásmového přístupu (eMBB) a komunikace s hromadnými strojovými zařízeními (mMTC). Architektura páteřního přenosu umožňuje síťové segmentování tím, že poskytuje izolované transportní cesty se specifickými výkonnostními charakteristikami pro různé segmenty, což je nezbytné pro podporu aplikací vertikálních průmyslů s přísnými požadavky.
 
 ## Klíčové vlastnosti
 
@@ -43,6 +43,7 @@ V kontextu 5G a dalších generací se BB staly stále důležitějšími pro po
 
 ## Související pojmy
 
+- [PCC – Performance-oriented Congestion Control](/mobilnisite/slovnik/pcc/)
 - [GTP – GPRS Tunnelling Protocols](/mobilnisite/slovnik/gtp/)
 
 ## Definující specifikace

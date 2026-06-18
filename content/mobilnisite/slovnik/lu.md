@@ -16,11 +16,11 @@ LU je základní procedura správy mobility, při které mobilní zařízení in
 
 ## Popis
 
-Location Update (LU) je klíčová procedura v sítích 2G (GSM), 3G (UMTS) a následných 3GPP mobilních sítích, která umožňuje síti sledovat přibližnou polohu mobilní stanice ([MS](/mobilnisite/slovnik/ms/)) nebo uživatelského zařízení (UE). Je součástí vrstvy správy mobility (Mobility Management, [MM](/mobilnisite/slovnik/mm/)). Procedura je spuštěna, když UE zjistí, že vstoupilo do nové polohové oblasti (Location Area, [LA](/mobilnisite/slovnik/la/)) v okruhově přepínaných doménách nebo do nové sledovací oblasti (Tracking Area, TA) v paketově přepínaných doménách EPS/5GS, nebo periodicky na základě časovače.
+Location Update (LU) je klíčová procedura v sítích 2G (GSM), 3G (UMTS) a následných 3GPP mobilních sítích, která umožňuje síti sledovat přibližnou polohu mobilní stanice ([MS](/mobilnisite/slovnik/ms/)) nebo uživatelského zařízení (UE). Je součástí vrstvy správy mobility (Mobility Management, [MM](/mobilnisite/slovnik/mm/)). Procedura je spuštěna, když UE zjistí, že vstoupilo do nové polohové oblasti (Location Area, [LA](/mobilnisite/slovnik/la/)) v okruhově přepínaných doménách nebo do nové sledovací oblasti (Tracking Area, [TA](/mobilnisite/slovnik/ta/)) v paketově přepínaných doménách EPS/5GS, nebo periodicky na základě časovače.
 
-Z architektonického hlediska zahrnuje procedura LU signalizaci mezi UE a jádrem sítě prostřednictvím rádiové přístupové sítě. Mezi klíčové síťové komponenty patří Visitor Location Register (VLR) v okruhově přepínané doméně a Mobility Management Entity ([MME](/mobilnisite/slovnik/mme/)) v paketově přepínané doméně LTE/EPC. Když se UE zapne, přesune, nebo na základě časovače, odešle do sítě zprávu Location Update Request (nebo Tracking Area Update Request). Tato zpráva obsahuje identitu UE (např. TMSI nebo [IMSI](/mobilnisite/slovnik/imsi/)) a identifikátor její předchozí polohové oblasti.
+Z architektonického hlediska zahrnuje procedura LU signalizaci mezi UE a jádrem sítě prostřednictvím rádiové přístupové sítě. Mezi klíčové síťové komponenty patří Visitor Location Register ([VLR](/mobilnisite/slovnik/vlr/)) v okruhově přepínané doméně a Mobility Management Entity ([MME](/mobilnisite/slovnik/mme/)) v paketově přepínané doméně LTE/EPC. Když se UE zapne, přesune, nebo na základě časovače, odešle do sítě zprávu Location Update Request (nebo Tracking Area Update Request). Tato zpráva obsahuje identitu UE (např. [TMSI](/mobilnisite/slovnik/tmsi/) nebo [IMSI](/mobilnisite/slovnik/imsi/)) a identifikátor její předchozí polohové oblasti.
 
-Obslužný síťový uzel (VLR/MME) následně autentizuje UE a může kontaktovat domovskou síť účastníka ([HLR](/mobilnisite/slovnik/hlr/)/[HSS](/mobilnisite/slovnik/hss/)), aby získal data účastníka a aktualizoval ukazatel na jeho aktuální polohu. HLR/HSS zruší registraci polohy ve starém VLR/MME a vloží data účastníka do nového. Po úspěšném dokončení odešle síť UE zprávu Location Update Accept, která často přidělí novou dočasnou identitu (TMSI nebo [GUTI](/mobilnisite/slovnik/guti/)) pro soukromí budoucí signalizace. Síť nyní ví, že UE se nachází v této konkrétní polohové nebo sledovací oblasti, a může ji tam vyvolat (paging) pro příchozí hovory nebo relace.
+Obslužný síťový uzel (VLR/MME) následně autentizuje UE a může kontaktovat domovskou síť účastníka (HLR/HSS), aby získal data účastníka a aktualizoval ukazatel na jeho aktuální polohu. HLR/HSS zruší registraci polohy ve starém VLR/MME a vloží data účastníka do nového. Po úspěšném dokončení odešle síť UE zprávu Location Update Accept, která často přidělí novou dočasnou identitu (TMSI nebo GUTI) pro soukromí budoucí signalizace. Síť nyní ví, že UE se nachází v této konkrétní polohové nebo sledovací oblasti, a může ji tam vyvolat (paging) pro příchozí hovory nebo relace.
 
 Fungování je založeno na konceptu oblastí. Síť je rozdělena na polohové oblasti (LAs), z nichž každá se skládá z více buněk. UE čte identifikátor LA (LAI) vysílaný na Broadcast Control Channel (BCCH). Když se LAI změní, UE iniciuje LU. Tím se vyvažuje potřeba znalosti polohy se signalizační zátěží; příliš malé oblasti způsobují časté aktualizace, zatímco příliš velké oblasti zvyšují provoz při vyvolávání. Procedura zajišťuje, že síťová databáze poloh je dostatečně přesná pro doručování služeb bez nutnosti neustálého sledování na úrovni buňky.
 
@@ -43,6 +43,8 @@ Historicky, formalizovaná v GSM a přenesená přes 3GPP verze, byla procedura 
 
 ## Související pojmy
 
+- [TMSI – Temporary Mobile Subscriber Identifier](/mobilnisite/slovnik/tmsi/)
+- [VLR – Visitor Location Register](/mobilnisite/slovnik/vlr/)
 - [HLR – Home Location Register](/mobilnisite/slovnik/hlr/)
 
 ## Definující specifikace

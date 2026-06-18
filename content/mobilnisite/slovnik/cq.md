@@ -26,7 +26,7 @@ CQ hraje klíčovou roli v optimalizaci sítě a zajištění služeb tím, že 
 
 ## K čemu slouží
 
-Conversational Quality (CQ) byl vyvinut, aby řešil rostoucí potřebu standardizovaného, objektivního měření kvality v mobilních hlasových a video službách. Před standardizací CQ používali operátoři a výrobci zařízení proprietární přístupy k měření kvality, které ztěžovaly srovnání napříč sítěmi a bránily interoperabilitě. Nedostatek standardizovaných metrik kvality také komplikoval dodržování regulatorních požadavků a ověřování smluvních parametrů služeb (SLA) v síťových prostředích s více dodavateli.
+Conversational Quality (CQ) byl vyvinut, aby řešil rostoucí potřebu standardizovaného, objektivního měření kvality v mobilních hlasových a video službách. Před standardizací CQ používali operátoři a výrobci zařízení proprietární přístupy k měření kvality, které ztěžovaly srovnání napříč sítěmi a bránily interoperabilitě. Nedostatek standardizovaných metrik kvality také komplikoval dodržování regulatorních požadavků a ověřování smluvních parametrů služeb ([SLA](/mobilnisite/slovnik/sla/)) v síťových prostředích s více dodavateli.
 
 Vytvoření CQ bylo motivováno vývojem od okruhově spínaných k paketově spínaným hlasovým službám (VoIP) v sítích 3GPP, které přinesly nové výzvy v kvalitě související se ztrátou paketů, rozkmitem (jitter) a proměnným zpožděním. Tradiční přístupy k měření kvality navržené pro okruhově spínané sítě byly nedostatečné pro paketové služby, což si vyžádalo nové rámce pro měření, které by dokázaly zohlednit charakteristiky IP sítí. CQ poskytl standardizované řešení, které může fungovat napříč různými síťovými architekturami a implementacemi služeb.
 

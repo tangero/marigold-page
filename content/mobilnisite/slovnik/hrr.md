@@ -16,11 +16,11 @@ HRR je mechanismus předávání řízený sítí, při kterém jsou rádiové p
 
 ## Popis
 
-Handover Resource Reservation (HRR, rezervace prostředků pro předání) je proaktivní procedura správy prostředků používaná v celulárních sítích k přípravě na blížící se předání. Základní princip spočívá v tom, že zdrojový síťový uzel (např. základnová stanice nebo RNC) komunikuje s potenciálním cílovým uzlem, aby požádal o rezervaci konkrétních rádiových prostředků – jako jsou časové sloty, kódy nebo přenosové kanály – pro konkrétní uživatelské zařízení (UE) před vydáním skutečného povelu k předání. Tento proces je typicky spuštěn na základě měřicích hlášení od UE, která indikují zhoršující se kvalitu signálu z obsluhující buňky a zlepšující se kvalitu ze sousední buňky.
+Handover Resource Reservation (HRR, rezervace prostředků pro předání) je proaktivní procedura správy prostředků používaná v celulárních sítích k přípravě na blížící se předání. Základní princip spočívá v tom, že zdrojový síťový uzel (např. základnová stanice nebo [RNC](/mobilnisite/slovnik/rnc/)) komunikuje s potenciálním cílovým uzlem, aby požádal o rezervaci konkrétních rádiových prostředků – jako jsou časové sloty, kódy nebo přenosové kanály – pro konkrétní uživatelské zařízení (UE) před vydáním skutečného povelu k předání. Tento proces je typicky spuštěn na základě měřicích hlášení od UE, která indikují zhoršující se kvalitu signálu z obsluhující buňky a zlepšující se kvalitu ze sousední buňky.
 
 Procedura funguje v rámci signalizačních protokolů řízení rádiových prostředků ([RRC](/mobilnisite/slovnik/rrc/)) a rádiové síťové vrstvy. Po rozhodnutí, že je předání nutné, odešle zdrojový uzel cílovému uzlu žádost o rezervaci prostředků (např. zprávu HANDOVER REQUEST). Tato žádost obsahuje kontext UE a požadavky na QoS. Cílový uzel následně provede řízení přístupu; pokud jsou prostředky dostupné, přidělí je a zarezervuje a odešle potvrzení zpět zdrojovému uzlu. Zdrojový uzel poté přikáže UE, aby se předala do cílové buňky, která může okamžitě zahájit komunikaci pomocí předem přidělených prostředků, čímž se vyhne kolizím nebo zpožděním při nastavování.
 
-Role HRR je klíčová pro řízení mobility v přetížených sítích nebo pro služby s přísnými požadavky na QoS, jako je Voice over LTE (VoLTE) nebo video v reálném čase. Tím, že zajišťuje připravenost prostředků, minimalizuje dobu, po kterou je UE v přechodném, nesynchronizovaném stavu mezi buňkami, a snižuje tak ztrátu paketů a latenci při předání. Tento mechanismus je základní součástí předávání řízených sítí v GSM, UMTS a LTE, ačkoli konkrétní detaily implementace a zasílané zprávy se liší mezi různými technologiemi rádiového přístupu (RAT).
+Role HRR je klíčová pro řízení mobility v přetížených sítích nebo pro služby s přísnými požadavky na QoS, jako je Voice over LTE (VoLTE) nebo video v reálném čase. Tím, že zajišťuje připravenost prostředků, minimalizuje dobu, po kterou je UE v přechodném, nesynchronizovaném stavu mezi buňkami, a snižuje tak ztrátu paketů a latenci při předání. Tento mechanismus je základní součástí předávání řízených sítí v GSM, UMTS a LTE, ačkoli konkrétní detaily implementace a zasílané zprávy se liší mezi různými technologiemi rádiového přístupu ([RAT](/mobilnisite/slovnik/rat/)).
 
 ## K čemu slouží
 
@@ -36,6 +36,10 @@ Jeho vznik byl motivován potřebou spolehlivé, síťově řízené mobility pr
 - Procedura řízená sítí založená na měřicích hlášeních od UE
 - Integruje se s řízením přístupu v cílové buňce
 - Základní prvek spolehlivého předávání v GSM, UMTS a LTE
+
+## Související pojmy
+
+- [RANAP – Radio Access Network Application Protocol](/mobilnisite/slovnik/ranap/)
 
 ## Definující specifikace
 

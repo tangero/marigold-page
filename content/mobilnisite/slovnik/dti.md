@@ -16,7 +16,7 @@ DTI je parametr protokolu GTP-C používaný k signalizaci podpory a žádosti o
 
 ## Popis
 
-Direct Tunnel Indication (DTI) je příznak nebo informační prvek v rámci [GPRS](/mobilnisite/slovnik/gprs/) Tunneling Protocol pro řídicí rovinu ([GTP-C](/mobilnisite/slovnik/gtp-c/)), specifikovaný v 3GPP TS 29.060 a TS 23.060. Používá se během procedur aktivace nebo modifikace přenosového kanálu, například ve zprávách Create Session Request, Modify Bearer Request nebo Create PDP Context Request. Primární funkcí DTI je indikovat, zda vysílací uzel (typicky [MME](/mobilnisite/slovnik/mme/) v EPS nebo SGSN v GPRS/UMTS) podporuje a/nebo si přeje zřízení „přímého tunelu“ pro uživatelskou rovinu. Přímý tunel označuje [GTP-U](/mobilnisite/slovnik/gtp-u/) tunel pro uživatelská data, který je zřízen přímo mezi Serving Gateway (SGW) a Packet Data Network Gateway (PGW) v EPC, nebo mezi GGSN a RNC v kontextu UMTS, čímž se efektivně umožní obejít přeposílací funkci SGW pro určitý provoz.
+Direct Tunnel Indication (DTI) je příznak nebo informační prvek v rámci [GPRS](/mobilnisite/slovnik/gprs/) Tunneling Protocol pro řídicí rovinu ([GTP-C](/mobilnisite/slovnik/gtp-c/)), specifikovaný v 3GPP TS 29.060 a TS 23.060. Používá se během procedur aktivace nebo modifikace přenosového kanálu, například ve zprávách Create Session Request, Modify Bearer Request nebo Create [PDP](/mobilnisite/slovnik/pdp/) Context Request. Primární funkcí DTI je indikovat, zda vysílací uzel (typicky [MME](/mobilnisite/slovnik/mme/) v EPS nebo [SGSN](/mobilnisite/slovnik/sgsn/) v GPRS/UMTS) podporuje a/nebo si přeje zřízení „přímého tunelu“ pro uživatelskou rovinu. Přímý tunel označuje [GTP-U](/mobilnisite/slovnik/gtp-u/) tunel pro uživatelská data, který je zřízen přímo mezi Serving Gateway ([SGW](/mobilnisite/slovnik/sgw/)) a Packet Data Network Gateway ([PGW](/mobilnisite/slovnik/pgw/)) v EPC, nebo mezi GGSN a RNC v kontextu UMTS, čímž se efektivně umožní obejít přeposílací funkci SGW pro určitý provoz.
 
 Jak to funguje, zahrnuje vyjednávání během signalizace správy relace. Když MME podporující funkci přímého tunelu iniciuje Create Session Request směrem k SGW, může zahrnout DTI nastavené na hodnotu indikující „Přímý tunel možný“. SGW po přijetí této informace chápe, že může být instruováno k zřízení GTP-U tunelu přímo s PGW, namísto toho, aby tok uživatelských dat vedl z PGW přes SGW k eNodeB. Pokud jsou splněny všechny podmínky (např. SGW a PGW to také podporují a neexistují specifické požadavky na zákonné odposlechy nebo účtování, které by vyžadovaly kotvení v SGW), SGW přistoupí k vytvoření přímého tunelu. SGW pak zahrne své vlastní DTI ve zprávě k PGW. Výsledná architektura snižuje latenci a odstraňuje zbytečnou procesní zátěž na SGW pro datovou cestu.
 
@@ -24,7 +24,7 @@ Její role v síti je optimalizační. Při standardním provozu bez přímého 
 
 ## K čemu slouží
 
-DTI bylo zavedeno, aby řešilo potřebu efektivnější a nižší latence architektury uživatelské roviny v rámci 3GPP paketového jádra, zejména s evolucí směrem k Evolved Packet System (EPS) v Release 8 a optimalizací dřívějších systémů [GPRS](/mobilnisite/slovnik/gprs/). Problém, který řeší, je suboptimální „tromboning“ nebo „hairpinning“ uživatelských dat přes SGW ve všech scénářích. V základní architektuře by každý paket mezi UE a internetem putoval po trase PGW<->SGW<->eNodeB, i když je UE stacionární a funkce SGW, jako je kotvení mobility, nejsou aktivně vyžadovány. To přidává zbytečnou latenci a zátěž.
+DTI bylo zavedeno, aby řešilo potřebu efektivnější a nižší latence architektury uživatelské roviny v rámci 3GPP paketového jádra, zejména s evolucí směrem k Evolved Packet System (EPS) v Release 8 a optimalizací dřívějších systémů GPRS. Problém, který řeší, je suboptimální „tromboning“ nebo „hairpinning“ uživatelských dat přes SGW ve všech scénářích. V základní architektuře by každý paket mezi UE a internetem putoval po trase PGW<->SGW<->eNodeB, i když je UE stacionární a funkce SGW, jako je kotvení mobility, nejsou aktivně vyžadovány. To přidává zbytečnou latenci a zátěž.
 
 Motivace pro její vytvoření, zejména zaznamenaná od jejího zavedení v Rel-7 pro UMTS a vylepšení v EPS, byla optimalizovat datovou cestu pro specifické typy provozu nebo stavy, například když je UE ve stabilním aktivním stavu bez bezprostředních potřeb mobility. Umožnila operátorům navrhovat sítě, kde může být SGW pro určité vysoce výkonné datové relace obejito, čímž se sníží jak kapitálové výdaje (snížením požadavků na zpracování SGW), tak provozní výdaje (nižšími náklady na přenos a zlepšenou kvalitou služeb). DTI poskytlo standardizovaný, vyjednaný mechanismus k umožnění této optimalizace, což přesahuje proprietární řešení a zajišťuje interoperabilitu více dodavatelů pro nasazení přímých tunelů.
 
@@ -41,6 +41,8 @@ Motivace pro její vytvoření, zejména zaznamenaná od jejího zavedení v Rel
 
 - [GTP-C – GPRS Tunnelling Protocol for Control Plane](/mobilnisite/slovnik/gtp-c/)
 - [GTP-U – GPRS Tunnelling Protocol for User Plane](/mobilnisite/slovnik/gtp-u/)
+- [SGW – Signalling Gateway](/mobilnisite/slovnik/sgw/)
+- [PGW – PDN Gateway](/mobilnisite/slovnik/pgw/)
 
 ## Definující specifikace
 

@@ -26,7 +26,7 @@ Role displeje LCD v kontextu systémů 3GPP je čistě prezentační vrstvou pro
 
 Účelem odkazování na displej z tekutých krystalů (LCD) ve specifikacích 3GPP není standardizace displejové technologie, ale zohlednění její přítomnosti v uživatelském zařízení (UE) pro účely testování a definice požadavků. Standardy 3GPP se zaměřují na bezdrátové komunikační protokoly a síťové funkce; kompletní systémové specifikace však musí zvažovat schopnosti koncového zařízení. LCD displeje, jako dominantní displejová technologie během vývoje dřívějších releasů 3GPP, představovaly standardní mechanismus vizuálního výstupu. Proto při definování testovacích postupů, zejména pro služby, které mají komponentu uživatelského rozhraní (jako služby založené na poloze nebo multimediální zprávy), musely specifikace předpokládat typické zobrazovací médium, aby zajistily reprodukovatelné testovací podmínky.
 
-Historicky, jak se mobilní zařízení vyvíjela od jednoduchých hlasových terminálů k sofistikovaným smartphonům, se displej stal nedílnou součástí přístupu k pokročilým službám. Rané releasy 3GPP (jako R99) se časově shodovaly s rozšířením barevných LCD displejů v mobilních telefonech. Zařazení odkazů na LCD do specifikací, jako jsou dokumenty slovníku (TS 21.905), pomohlo poskytnout společnou terminologii pro všechny aspekty popisu UE, dokonce i ty, které přímo nesouvisí s rádiovým přenosem. Toto zajistilo jasnost při diskusích o charakteristikách zařízení v pracovních skupinách. Motivace byla praktická: zabránit nejednoznačnosti v požadavcích, které by mohly zahrnovat vizuální zpětnou vazbu, aniž by se nařizovala konkrétní displejová technologie, což umožnilo budoucí pokroky, jako je OLED, při zachování zpětné kompatibility v popisech testů.
+Historicky, jak se mobilní zařízení vyvíjela od jednoduchých hlasových terminálů k sofistikovaným smartphonům, se displej stal nedílnou součástí přístupu k pokročilým službám. Rané releasy 3GPP (jako [R99](/mobilnisite/slovnik/r99/)) se časově shodovaly s rozšířením barevných LCD displejů v mobilních telefonech. Zařazení odkazů na LCD do specifikací, jako jsou dokumenty slovníku (TS 21.905), pomohlo poskytnout společnou terminologii pro všechny aspekty popisu UE, dokonce i ty, které přímo nesouvisí s rádiovým přenosem. Toto zajistilo jasnost při diskusích o charakteristikách zařízení v pracovních skupinách. Motivace byla praktická: zabránit nejednoznačnosti v požadavcích, které by mohly zahrnovat vizuální zpětnou vazbu, aniž by se nařizovala konkrétní displejová technologie, což umožnilo budoucí pokroky, jako je OLED, při zachování zpětné kompatibility v popisech testů.
 
 ## Klíčové vlastnosti
 
@@ -36,6 +36,10 @@ Historicky, jak se mobilní zařízení vyvíjela od jednoduchých hlasových te
 - Používá se jako komponenta vizuálního výstupu v popisech testovacích zařízení
 - Podporuje zobrazení stavu sítě a rozhraní služeb
 - Běžně se s ní předpokládá v přílohách o požadavcích na zařízení
+
+## Související pojmy
+
+- [UE – User Equipment](/mobilnisite/slovnik/ue/)
 
 ## Definující specifikace
 

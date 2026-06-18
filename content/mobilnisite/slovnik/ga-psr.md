@@ -18,7 +18,7 @@ GA-PSR je komponenta sítě Generic Access Network, která umožňuje mobilním 
 
 Generic Access - Packet Switched Resources (GA-PSR) je protějškem [GA-CSR](/mobilnisite/slovnik/ga-csr/) v rámci architektury 3GPP Generic Access Network ([GAN](/mobilnisite/slovnik/gan/)) a je odpovědný za poskytování paketových datových služeb. Umožňuje uživatelskému zařízení (UE) navázat datovou relaci a přistupovat ke službám, jako je prohlížení internetu, e-mail a IMS, přes zabezpečené IP spojení prostřednictvím nelicencované rádiové technologie (např. Wi-Fi), přičemž je plně spravován jádrovou sítí mobilního operátora.
 
-Funkčně GA-PSR spolupracuje s GA-CSR na straně UE a s Generic Access Network Controllerem ([GANC](/mobilnisite/slovnik/ganc/)). Vrstva [GA](/mobilnisite/slovnik/ga/) v UE zapouzdří veškerou signalizaci [GPRS](/mobilnisite/slovnik/gprs/) ([GMM/SM](/mobilnisite/slovnik/gmm-sm/)) a pakety uživatelských dat do paketů zabezpečených [IPsec](/mobilnisite/slovnik/ipsec/) pro přenos přes širokopásmové IP spojení. Na straně GANC funkce GA-PSR tento zabezpečený tunel ukončuje. Následně předává signalizaci GPRS do Serving GPRS Support Node (SGSN) přes standardní rozhraní Gb nebo Iu-ps. V uživatelské rovině funkce GA-PSR přeposílá datové pakety mezi IPsec tunelem UE a [GTP-U](/mobilnisite/slovnik/gtp-u/) tunelem, který je zřízen mezi GANC (fungujícím jako proxy BSS/NodeB) a SGSN/GGSN.
+Funkčně GA-PSR spolupracuje s GA-CSR na straně UE a s Generic Access Network Controllerem ([GANC](/mobilnisite/slovnik/ganc/)). Vrstva [GA](/mobilnisite/slovnik/ga/) v UE zapouzdří veškerou signalizaci [GPRS](/mobilnisite/slovnik/gprs/) ([GMM/SM](/mobilnisite/slovnik/gmm-sm/)) a pakety uživatelských dat do paketů zabezpečených [IPsec](/mobilnisite/slovnik/ipsec/) pro přenos přes širokopásmové IP spojení. Na straně GANC funkce GA-PSR tento zabezpečený tunel ukončuje. Následně předává signalizaci GPRS do Serving GPRS Support Node ([SGSN](/mobilnisite/slovnik/sgsn/)) přes standardní rozhraní Gb nebo Iu-ps. V uživatelské rovině funkce GA-PSR přeposílá datové pakety mezi IPsec tunelem UE a GTP-U tunelem, který je zřízen mezi GANC (fungujícím jako proxy BSS/NodeB) a SGSN/GGSN.
 
 Tato architektura zajišťuje, že všechny kontexty paketových datových protokolů (PDP) jsou centrálně spravovány SGSN. Operátor si zachovává kontrolu nad autentizací (prostřednictvím SIM přihlašovacích údajů), účtováním a vynucováním politik (např. filtrování APN) i pro provoz procházející přes Wi-Fi. GA-PSR podporuje procedury mobility, umožňuje pozastavení datové relace na Wi-Fi a její obnovení v mobilní síti, nebo v některých implementacích i její hladký přenos. Poskytuje jednotný zážitek z datových služeb, který překlenuje propast mezi mobilními daty a nedůvěryhodným přístupem přes WLAN.
 
@@ -43,6 +43,7 @@ Vytvoření GA-PSR bylo motivováno snahou o skutečnou konvergenci pevných a m
 
 - [GA-CSR – Generic Access - Circuit Switched Resources](/mobilnisite/slovnik/ga-csr/)
 - [GPRS – CSI GPRS CAMEL Subscription Information](/mobilnisite/slovnik/gprs/)
+- [SGSN – Serving GPRS Support Node](/mobilnisite/slovnik/sgsn/)
 - [IPSec – Internet Protocol Security](/mobilnisite/slovnik/ipsec/)
 
 ## Definující specifikace

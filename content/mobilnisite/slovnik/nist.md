@@ -18,7 +18,7 @@ NIST je Národní institut pro standardy a technologie Spojených států americ
 
 Ve standardech 3GPP je Národní institut pro standardy a technologie (NIST) referencován jako zdroj specifických kryptografických standardů a algoritmů používaných pro zajištění zabezpečení sítě. Nejvýznamněji je eliptická křivka P-256 definovaná NIST (známá také jako secp256r1 nebo prime256v1) přijata jako standardní kryptografický primitiv. Tato křivka je využívána v protokolu 5G Authentication and Key Agreement (5G [AKA](/mobilnisite/slovnik/aka/)) a v ověřovacím rámci EAP-AKA' pro generování klíčového materiálu a zajištění vzájemného ověření mezi uživatelským zařízením (UE) a sítí.
 
-Technická integrace zahrnuje použití eliptické křivky P-256 pro operace eliptické křivkové kryptografie ([ECC](/mobilnisite/slovnik/ecc/)). V 5G používají Authentication Server Function ([AUSF](/mobilnisite/slovnik/ausf/)) domovské sítě i UE sdílený dlouhodobý tajný klíč (K) uložený na modulu USIM a v Authentication Credential Repository and Processing Function ([ARPF](/mobilnisite/slovnik/arpf/)) v domovské síti. Během primárního ověřování je tento sdílený tajemství použit ve spojení s ECC založenou na křivce NIST P-256 pro generování relačních klíčů a poskytnutí kryptografického důkazu identity. Použití standardizované a důkladně prověřené křivky, jako je P-256, zajišťuje pevný základ pro utajení a integritu následné komunikace.
+Technická integrace zahrnuje použití eliptické křivky P-256 pro operace eliptické křivkové kryptografie ([ECC](/mobilnisite/slovnik/ecc/)). V 5G používají Authentication Server Function ([AUSF](/mobilnisite/slovnik/ausf/)) domovské sítě i UE sdílený dlouhodobý tajný klíč (K) uložený na modulu [USIM](/mobilnisite/slovnik/usim/) a v Authentication Credential Repository and Processing Function ([ARPF](/mobilnisite/slovnik/arpf/)) v domovské síti. Během primárního ověřování je tento sdílený tajemství použit ve spojení s ECC založenou na křivce NIST P-256 pro generování relačních klíčů a poskytnutí kryptografického důkazu identity. Použití standardizované a důkladně prověřené křivky, jako je P-256, zajišťuje pevný základ pro utajení a integritu následné komunikace.
 
 Role standardů NIST v 3GPP spočívá v poskytování důvěryhodné, veřejně dostupné a rigorózně hodnocené sady kryptografických algoritmů. To je klíčové pro interoperabilitu a globální záruku zabezpečení. Odkazováním na standardy NIST se 3GPP vyhýbá návrhu vlastní proprietární kryptografie, která by mohla zavést zranitelnosti. Místo toho využívá algoritmy, které prošly rozsáhlým veřejným posouzením globální kryptografické komunity. Konkrétní dokument 3GPP TS 35.934 podrobně popisuje implementaci a použití těchto eliptických křivek schválených NIST v rámci bezpečnostní architektury 3GPP.
 
@@ -30,7 +30,7 @@ Zařazení standardů NIST do specifikací 3GPP slouží kritickému účelu pos
 
 Historický kontext je takový, že dřívější mobilní generace (2G, 3G) používaly operátorsky specifické nebo méně transparentní kryptografické algoritmy, které v průběhu času čelily různým kritikám a zranitelnostem. Pro 5G klade 3GPP silný důraz na vylepšené zabezpečení, včetně flexibility algoritmů a transparentnosti. Odkazování na veřejně dostupné standardy NIST je v souladu s tímto cílem. Umožňuje nezávislé ověření implementací, podporuje globální přijetí (protože standardy NIST jsou široce přijímány) a usnadňuje soulad s různými národními a mezinárodními bezpečnostními předpisy.
 
-Konkrétně volba eliptické křivky NIST P-256 řeší potřebu efektivní a silné kryptografie s veřejným klíčem. Eliptická křivková kryptografie nabízí ekvivalentní zabezpečení jako tradiční RSA s mnohem menšími velikostmi klíčů, což je klíčové pro zařízení s omezenými zdroji a pro snížení signalizační režie. Křivka P-256 poskytuje úroveň zabezpečení 128 bitů, která je považována za bezpečnou proti současným výpočetním hrozbám. Její standardizace NIST z ní činí bezpečnou, efektivní a globálně uznávanou volbu pro procedury ověřování a dohody klíčů, které chrání každé 5G připojení.
+Konkrétně volba eliptické křivky NIST P-256 řeší potřebu efektivní a silné kryptografie s veřejným klíčem. Eliptická křivková kryptografie nabízí ekvivalentní zabezpečení jako tradiční [RSA](/mobilnisite/slovnik/rsa/) s mnohem menšími velikostmi klíčů, což je klíčové pro zařízení s omezenými zdroji a pro snížení signalizační režie. Křivka P-256 poskytuje úroveň zabezpečení 128 bitů, která je považována za bezpečnou proti současným výpočetním hrozbám. Její standardizace NIST z ní činí bezpečnou, efektivní a globálně uznávanou volbu pro procedury ověřování a dohody klíčů, které chrání každé 5G připojení.
 
 ## Klíčové vlastnosti
 
@@ -44,6 +44,7 @@ Konkrétně volba eliptické křivky NIST P-256 řeší potřebu efektivní a si
 ## Související pojmy
 
 - [AUSF – Authentication Server Function](/mobilnisite/slovnik/ausf/)
+- [USIM – Universal Subscriber Identity Module](/mobilnisite/slovnik/usim/)
 
 ## Definující specifikace
 

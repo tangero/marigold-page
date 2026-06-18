@@ -43,6 +43,7 @@ Protokol byl motivován potřebou vysoké přesnosti, nízké latence a minimál
 - [LMF – Location Management Function](/mobilnisite/slovnik/lmf/)
 - [OTDOA – Observed Time Difference Of Arrival](/mobilnisite/slovnik/otdoa/)
 - [A-GNSS – Assisted Global Navigation Satellite Systems](/mobilnisite/slovnik/a-gnss/)
+- [PRS – Positioning Reference Signal](/mobilnisite/slovnik/prs/)
 - [NAS – Non-Access Stratum](/mobilnisite/slovnik/nas/)
 
 ## Definující specifikace

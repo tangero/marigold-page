@@ -16,9 +16,9 @@ LAU je procedura, při které mobilní zařízení informuje síť o své aktuá
 
 ## Popis
 
-Procedura aktualizace polohové oblasti (Location Area Update – LAU) je základním procesem správy mobility v GSM, UMTS a LTE (ačkoli v LTE byla nahrazena aktualizací sledované oblasti – Tracking Area Update). Polohová oblast ([LA](/mobilnisite/slovnik/la/)) je skupina buněk definovaná v rámci sítě. Jádrová síť, konkrétně návštěvnický lokální registr (VLR) a ústředna mobilní sítě ([MSC](/mobilnisite/slovnik/msc/)), sleduje LA uživatelského zařízení (UE), aby věděla, kde je má vyvolat pro transakce iniciované sítí. LAU je iniciována uživatelským zařízením, když zjistí (z vysílaných systémových informací), že vstoupilo do buňky patřící do nové LA.
+Procedura aktualizace polohové oblasti (Location Area Update – LAU) je základním procesem správy mobility v GSM, UMTS a LTE (ačkoli v LTE byla nahrazena aktualizací sledované oblasti – Tracking Area Update). Polohová oblast ([LA](/mobilnisite/slovnik/la/)) je skupina buněk definovaná v rámci sítě. Jádrová síť, konkrétně návštěvnický lokální registr ([VLR](/mobilnisite/slovnik/vlr/)) a ústředna mobilní sítě ([MSC](/mobilnisite/slovnik/msc/)), sleduje LA uživatelského zařízení (UE), aby věděla, kde je má vyvolat pro transakce iniciované sítí. LAU je iniciována uživatelským zařízením, když zjistí (z vysílaných systémových informací), že vstoupilo do buňky patřící do nové LA.
 
-Procedura začíná odesláním zprávy LAU Request uživatelským zařízením na náhodný přístupový kanál (RACH), která obsahuje jeho dočasnou identitu mobilního účastníka (TMSI) a starou identitu polohové oblasti ([LAI](/mobilnisite/slovnik/lai/)). Tato zpráva je směrována k novému VLR/MSC obsluhujícímu novou LA. Nový VLR následně kontaktuje starý VLR (pomocí staré LAI) nebo domovský lokální registr ([HLR](/mobilnisite/slovnik/hlr/)) za účelem autentizace účastníka a získání jeho profilu. Po úspěšné autentizaci a ověření nový VLR aktualizuje svou databázi, přidělí nové TMSI z důvodu ochrany soukromí a odešle uživatelskému zařízení zprávu LAU Accept, která obsahuje nové TMSI, pokud došlo k jeho přealokaci.
+Procedura začíná odesláním zprávy LAU Request uživatelským zařízením na náhodný přístupový kanál ([RACH](/mobilnisite/slovnik/rach/)), která obsahuje jeho dočasnou identitu mobilního účastníka ([TMSI](/mobilnisite/slovnik/tmsi/)) a starou identitu polohové oblasti ([LAI](/mobilnisite/slovnik/lai/)). Tato zpráva je směrována k novému VLR/MSC obsluhujícímu novou LA. Nový VLR následně kontaktuje starý VLR (pomocí staré LAI) nebo domovský lokální registr ([HLR](/mobilnisite/slovnik/hlr/)) za účelem autentizace účastníka a získání jeho profilu. Po úspěšné autentizaci a ověření nový VLR aktualizuje svou databázi, přidělí nové TMSI z důvodu ochrany soukromí a odešle uživatelskému zařízení zprávu LAU Accept, která obsahuje nové TMSI, pokud došlo k jeho přealokaci.
 
 Klíčovými komponentami jsou uživatelské zařízení (UE), subsystém základnové stanice ([BSS](/mobilnisite/slovnik/bss/)) nebo subsystém rádiové sítě (RNS), MSC/VLR a HLR. LAU zajišťuje, že jsou informace o poloze uživatelského zařízení v síti přesné, aniž by vyžadovala neustálou signalizaci. Vyvažuje potřebu lokalizovat uživatelské zařízení pro příchozí hovory s ohledem na signalizační zátěž a spotřebu baterie zařízení. Periodické časovače LAU také vynucují aktualizace, i když je uživatelské zařízení nehybné, což zajišťuje, že síť neuchovává zastaralá polohová data.
 
@@ -26,9 +26,9 @@ Klíčovými komponentami jsou uživatelské zařízení (UE), subsystém zákla
 
 Procedura LAU byla vytvořena, aby vyřešila kritický problém lokalizace mobilního účastníka v rozsáhlé síti bez nutnosti nepřetržité, energeticky náročné signalizace. V raných mobilních systémech síť potřebovala metodu pro sledování přibližné polohy uživatele, aby mohla efektivně doručovat hovory. Účelem LAU je poskytnout kompromis mezi přesným sledováním polohy v reálném čase a úsporou zdrojů sítě a zařízení.
 
-Řeší omezení plynoucí z absence jakéhokoli sledování polohy, což by si vyžádalo vyvolávání v celé síti pro každý příchozí hovor – což je vysoce neefektivní využití rádiových zdrojů. Seskupením buněk do polohových oblastí síť potřebuje znát pouze aktuální [LA](/mobilnisite/slovnik/la/) uživatelského zařízení. Uživatelské zařízení aktualizuje síť pouze při překročení hranice LA, což výrazně snižuje signalizační režii ve srovnání s aktualizacemi na úrovni buňky. Tento návrh je zásadní pro škálovatelnost a životnost baterie.
+Řeší omezení plynoucí z absence jakéhokoli sledování polohy, což by si vyžádalo vyvolávání v celé síti pro každý příchozí hovor – což je vysoce neefektivní využití rádiových zdrojů. Seskupením buněk do polohových oblastí síť potřebuje znát pouze aktuální LA uživatelského zařízení. Uživatelské zařízení aktualizuje síť pouze při překročení hranice LA, což výrazně snižuje signalizační režii ve srovnání s aktualizacemi na úrovni buňky. Tento návrh je zásadní pro škálovatelnost a životnost baterie.
 
-Historicky byla LAU základním kamenem správy mobility v GSM a umožnila roaming v rámci celé země i mezinárodně. Její vznik byl motivován potřebou automatizované, pro účastníka transparentní metody, která by udržovala síťová polohová data aktuální. Řeší problémy selhání doručení hovoru a nadměrného vyvolávacího provozu a tvoří základ pro správu mobility, která se vyvinula v aktualizaci směrovací oblasti (Routing Area Update) pro [GPRS](/mobilnisite/slovnik/gprs/) a aktualizaci sledované oblasti (Tracking Area Update) pro LTE/5G.
+Historicky byla LAU základním kamenem správy mobility v GSM a umožnila roaming v rámci celé země i mezinárodně. Její vznik byl motivován potřebou automatizované, pro účastníka transparentní metody, která by udržovala síťová polohová data aktuální. Řeší problémy selhání doručení hovoru a nadměrného vyvolávacího provozu a tvoří základ pro správu mobility, která se vyvinula v aktualizaci směrovací oblasti (Routing Area Update) pro GPRS a aktualizaci sledované oblasti (Tracking Area Update) pro LTE/5G.
 
 ## Klíčové vlastnosti
 
@@ -38,6 +38,13 @@ Historicky byla LAU základním kamenem správy mobility v GSM a umožnila roami
 - Umožňuje efektivní vyvolávání (paging) jeho omezením na buňky v rámci poslední známé LA.
 - Snižuje signalizační režii ve srovnání se sledováním na úrovni buňky.
 - Nezbytná pro správu mobility a úspěšné doručení hovorů iniciovaných sítí.
+
+## Související pojmy
+
+- [RAI – Routing Area Identity](/mobilnisite/slovnik/rai/)
+- [TAI – Tracking Area Identifier](/mobilnisite/slovnik/tai/)
+- [TMSI – Temporary Mobile Subscriber Identifier](/mobilnisite/slovnik/tmsi/)
+- [VLR – Visitor Location Register](/mobilnisite/slovnik/vlr/)
 
 ## Definující specifikace
 

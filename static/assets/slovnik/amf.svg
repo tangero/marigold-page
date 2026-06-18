@@ -1,0 +1,129 @@
+<svg viewBox="0 0 1536 1024" xmlns="http://www.w3.org/2000/svg" font-family="Inter, Arial, sans-serif">
+  <!-- Bílé pozadí -->
+  <rect width="1536" height="1024" fill="#ffffff"/>
+
+  <!-- Definice šipky -->
+  <defs>
+    <marker id="arrowOrange" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#EA580C"/>
+    </marker>
+  </defs>
+
+  <!-- ===== TITULEK ===== -->
+  <text x="768" y="48" text-anchor="middle" font-size="36" font-weight="700" fill="#1e293b">AMF – Access and Mobility Management Function</text>
+  <text x="768" y="88" text-anchor="middle" font-size="20" fill="#475569">Správa přístupu a mobility v síti 5G Core (5GC)</text>
+
+  <!-- ===== DIAGRAM (y=130–700) ===== -->
+
+  <!-- === ŘADA 1: UE + NG-RAN === -->
+  <!-- UE -->
+  <rect x="80" y="145" width="180" height="64" rx="8" fill="#2563EB" stroke="#1d4ed8" stroke-width="2"/>
+  <text x="170" y="172" text-anchor="middle" font-size="20" font-weight="600" fill="#ffffff">UE</text>
+  <text x="170" y="196" text-anchor="middle" font-size="15" fill="#bfdbfe">uživatelské zařízení</text>
+
+  <!-- NG-RAN -->
+  <rect x="340" y="145" width="200" height="64" rx="8" fill="#2563EB" stroke="#1d4ed8" stroke-width="2"/>
+  <text x="440" y="172" text-anchor="middle" font-size="20" font-weight="600" fill="#ffffff">NG-RAN</text>
+  <text x="440" y="196" text-anchor="middle" font-size="15" fill="#bfdbfe">rádiová síť</text>
+
+  <!-- === AMF – centrální blok === -->
+  <rect x="620" y="270" width="260" height="80" rx="8" fill="#2563EB" stroke="#1d4ed8" stroke-width="2"/>
+  <text x="750" y="302" text-anchor="middle" font-size="22" font-weight="700" fill="#ffffff">AMF</text>
+  <text x="750" y="328" text-anchor="middle" font-size="15" fill="#bfdbfe">správa přístupu a mobility</text>
+
+  <!-- === ŘADA 3: AUSF, UDM, SMF, NSSF === -->
+  <!-- AUSF -->
+  <rect x="80" y="470" width="200" height="64" rx="8" fill="#2563EB" stroke="#1d4ed8" stroke-width="2"/>
+  <text x="180" y="497" text-anchor="middle" font-size="20" font-weight="600" fill="#ffffff">AUSF</text>
+  <text x="180" y="521" text-anchor="middle" font-size="15" fill="#bfdbfe">autentizace</text>
+
+  <!-- UDM -->
+  <rect x="340" y="470" width="200" height="64" rx="8" fill="#2563EB" stroke="#1d4ed8" stroke-width="2"/>
+  <text x="440" y="497" text-anchor="middle" font-size="20" font-weight="600" fill="#ffffff">UDM</text>
+  <text x="440" y="521" text-anchor="middle" font-size="15" fill="#bfdbfe">správa dat předplatného</text>
+
+  <!-- SMF -->
+  <rect x="600" y="470" width="200" height="64" rx="8" fill="#2563EB" stroke="#1d4ed8" stroke-width="2"/>
+  <text x="700" y="497" text-anchor="middle" font-size="20" font-weight="600" fill="#ffffff">SMF</text>
+  <text x="700" y="521" text-anchor="middle" font-size="15" fill="#bfdbfe">správa relací</text>
+
+  <!-- NSSF -->
+  <rect x="860" y="470" width="220" height="64" rx="8" fill="#2563EB" stroke="#1d4ed8" stroke-width="2"/>
+  <text x="970" y="497" text-anchor="middle" font-size="20" font-weight="600" fill="#ffffff">NSSF</text>
+  <text x="970" y="521" text-anchor="middle" font-size="15" fill="#bfdbfe">výběr síťového řezu</text>
+
+  <!-- PDU relace -->
+  <rect x="1140" y="470" width="220" height="64" rx="8" fill="#2563EB" stroke="#1d4ed8" stroke-width="2"/>
+  <text x="1250" y="497" text-anchor="middle" font-size="20" font-weight="600" fill="#ffffff">PDU relace</text>
+  <text x="1250" y="521" text-anchor="middle" font-size="15" fill="#bfdbfe">datové spojení</text>
+
+  <!-- ===== ŠIPKY ===== -->
+
+  <!-- UE → NG-RAN (vzduch) -->
+  <line x1="262" y1="177" x2="338" y2="177" stroke="#EA580C" stroke-width="2.5" marker-end="url(#arrowOrange)"/>
+  <text x="300" y="165" text-anchor="middle" font-size="15" fill="#EA580C">rádiové</text>
+  <text x="300" y="181" text-anchor="middle" font-size="15" fill="#EA580C">rozhraní</text>
+
+  <!-- NG-RAN → AMF: NAS N1/N2 -->
+  <!-- NG-RAN pravý okraj x=540, AMF levý okraj x=620, y AMF střed=310 -->
+  <!-- Lomená šipka: NG-RAN vychází dolů z y=209, pak jde doprava k AMF -->
+  <polyline points="440,209 440,250 620,310" fill="none" stroke="#EA580C" stroke-width="2.5" marker-end="url(#arrowOrange)"/>
+  <text x="510" y="245" text-anchor="middle" font-size="15" fill="#EA580C">NAS signalizace</text>
+  <text x="510" y="263" text-anchor="middle" font-size="15" fill="#EA580C">N1 / N2</text>
+
+  <!-- UE → AMF přímá NAS (N1) – přes NG-RAN, zobrazena jako přerušovaná -->
+  <!-- Přímá šipka UE → AMF (N1 transparentní přes RAN) -->
+  <line x1="170" y1="209" x2="680" y2="270" stroke="#EA580C" stroke-width="1.8" stroke-dasharray="6,4" marker-end="url(#arrowOrange)"/>
+  <text x="360" y="228" text-anchor="middle" font-size="14" fill="#EA580C" font-style="italic">NAS (N1, přes RAN)</text>
+
+  <!-- AMF → AUSF (N12) -->
+  <line x1="680" y1="350" x2="230" y2="470" stroke="#EA580C" stroke-width="2.5" marker-end="url(#arrowOrange)"/>
+  <text x="420" y="390" text-anchor="middle" font-size="15" fill="#EA580C">autentizace UE</text>
+  <text x="420" y="408" text-anchor="middle" font-size="15" fill="#EA580C">N12</text>
+
+  <!-- AMF → UDM (N8) -->
+  <line x1="700" y1="350" x2="490" y2="470" stroke="#EA580C" stroke-width="2.5" marker-end="url(#arrowOrange)"/>
+  <text x="570" y="395" text-anchor="middle" font-size="15" fill="#EA580C">data předplatného</text>
+  <text x="570" y="413" text-anchor="middle" font-size="15" fill="#EA580C">N8</text>
+
+  <!-- AMF → SMF (N11) -->
+  <line x1="750" y1="350" x2="720" y2="470" stroke="#EA580C" stroke-width="2.5" marker-end="url(#arrowOrange)"/>
+  <text x="780" y="400" text-anchor="middle" font-size="15" fill="#EA580C">správa PDU</text>
+  <text x="780" y="418" text-anchor="middle" font-size="15" fill="#EA580C">N11</text>
+
+  <!-- AMF → NSSF (N22) -->
+  <line x1="860" y1="330" x2="970" y2="470" stroke="#EA580C" stroke-width="2.5" marker-end="url(#arrowOrange)"/>
+  <text x="950" y="385" text-anchor="middle" font-size="15" fill="#EA580C">výběr řezu</text>
+  <text x="950" y="403" text-anchor="middle" font-size="15" fill="#EA580C">N22</text>
+
+  <!-- SMF → PDU relace -->
+  <line x1="800" y1="502" x2="1138" y2="502" stroke="#EA580C" stroke-width="2.5" marker-end="url(#arrowOrange)"/>
+  <text x="970" y="490" text-anchor="middle" font-size="15" fill="#EA580C">zřízení PDU relace</text>
+
+  <!-- ===== PARAMETRY (zelený panel) ===== -->
+  <rect x="80" y="610" width="1376" height="80" rx="8" fill="#f0fdf4" stroke="#16A34A" stroke-width="2"/>
+  <text x="768" y="638" text-anchor="middle" font-size="17" font-weight="700" fill="#16A34A">Parametry a standardy</text>
+  <text x="200" y="668" text-anchor="middle" font-size="16" fill="#15803d">Rozhraní: N1, N2, N8, N11, N12, N22, N29</text>
+  <text x="768" y="668" text-anchor="middle" font-size="16" fill="#15803d">Identifikátory: SUPI, SUCI, 5G-GUTI</text>
+  <text x="1300" y="668" text-anchor="middle" font-size="16" fill="#15803d">Standard: 3GPP Release 15+</text>
+
+  <!-- ===== ČÍSLOVANÝ POSTUP (y=720–900) ===== -->
+  <text x="100" y="748" font-size="18" font-weight="700" fill="#1e293b">Postup registrace UE v síti 5G:</text>
+  <text x="100" y="778" font-size="16" fill="#334155">1. UE vysílá NAS zprávu přes NG-RAN k AMF (rozhraní N1/N2)</text>
+  <text x="100" y="806" font-size="16" fill="#334155">2. AMF zahájí autentizaci – kontaktuje AUSF (N12) a UDM (N8)</text>
+  <text x="100" y="834" font-size="16" fill="#334155">3. AMF přidělí identifikátor 5G-GUTI a spravuje mobilitu UE</text>
+  <text x="100" y="862" font-size="16" fill="#334155">4. AMF komunikuje se SMF (N11) pro zřízení PDU relace (datového spojení)</text>
+  <text x="100" y="890" font-size="16" fill="#334155">5. NSSF (N22) zajišťuje výběr správného síťového řezu (Network Slice)</text>
+
+  <!-- ===== LEGENDA (y=940–1010) ===== -->
+  <rect x="80" y="940" width="1376" height="68" rx="8" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+  <!-- Modrá -->
+  <rect x="120" y="960" width="28" height="28" rx="4" fill="#2563EB"/>
+  <text x="158" y="979" font-size="16" fill="#334155">Funkční bloky / komponenty 5GC</text>
+  <!-- Oranžová -->
+  <line x1="460" y1="974" x2="500" y2="974" stroke="#EA580C" stroke-width="3" marker-end="url(#arrowOrange)"/>
+  <text x="512" y="979" font-size="16" fill="#334155">Signálové a datové toky (rozhraní)</text>
+  <!-- Zelená -->
+  <rect x="820" y="960" width="28" height="28" rx="4" fill="#16A34A"/>
+  <text x="858" y="979" font-size="16" fill="#334155">Výstupní parametry, identifikátory a standardy</text>
+</svg>

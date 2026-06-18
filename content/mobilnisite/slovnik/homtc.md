@@ -40,6 +40,7 @@ Motivace vycházela z potřeby hladké evoluční cesty. Nasazení zcela nové r
 ## Související pojmy
 
 - [GERAN – GSM EDGE Radio Access Network](/mobilnisite/slovnik/geran/)
+- [QAM – Quadrature Amplitude Modulation](/mobilnisite/slovnik/qam/)
 
 ## Definující specifikace
 

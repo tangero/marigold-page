@@ -41,6 +41,10 @@ Tato metodologie řeší problém nejednoznačných požadavků. Namísto tvrzen
 - Používá se k odvození reálných scénářů pro studie komunikace V2X
 - Pomáhá definovat kanálové modely a podmínky mobility pro testování
 
+## Související pojmy
+
+- [V2X – Vehicle-to-Everything Application Server](/mobilnisite/slovnik/v2x/)
+
 ## Definující specifikace
 
 - **TR 26.938** (Rel-19) — DASH Deployment Guidelines for 3GPP Networks

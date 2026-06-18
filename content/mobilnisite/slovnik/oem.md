@@ -18,7 +18,7 @@ OEM je výrobce, který produkuje hardware, jako jsou mobilní zařízení nebo 
 
 V ekosystému 3GPP se termínem Original Equipment Manufacturer (OEM) rozumí společnost, která navrhuje a vyrábí telekomunikační hardwarové produkty na základě specifikací 3GPP. To zahrnuje především uživatelská zařízení (UE), jako jsou smartphony, tablety, IoT moduly a [CPE](/mobilnisite/slovnik/cpe/), stejně jako prvky síťové infrastruktury, jako jsou rádiové jednotky, základnové jednotky a zařízení pro jádro sítě. OEM vyrábí fyzické zařízení, do kterého vkládá standardizované protokoly a funkce definované 3GPP. Tyto produkty jsou často následně prodávány síťovým operátorům ([MNO](/mobilnisite/slovnik/mno/)) nebo jiným dodavatelům, kteří je mohou uvádět na trh pod vlastní značkou.
 
-Vztah mezi 3GPP a OEM je základním kamenem globálního úspěchu celulárních standardů. 3GPP vyvíjí technické specifikace, které definují rozhraní vzduchu, protokoly a síťové architektury. OEM implementují tyto specifikace do skutečného, interoperabilního hardwaru a softwaru. To zahrnuje rozsáhlý výzkum a vývoj, včetně návrhu čipových sad, vývoje RF front-endu, integrace protokolového zásobníku a firmwaru zařízení. Pro uživatelská zařízení (UE) musí OEM zajistit, aby jejich zařízení prošla náročnými certifikačními procesy (jako jsou [GCF](/mobilnisite/slovnik/gcf/) a PTCRB), a tím garantovala správnou implementaci funkcí 3GPP a schopnost spolupracovat s jakoukoli kompatibilní sítí.
+Vztah mezi 3GPP a OEM je základním kamenem globálního úspěchu celulárních standardů. 3GPP vyvíjí technické specifikace, které definují rozhraní vzduchu, protokoly a síťové architektury. OEM implementují tyto specifikace do skutečného, interoperabilního hardwaru a softwaru. To zahrnuje rozsáhlý výzkum a vývoj, včetně návrhu čipových sad, vývoje [RF](/mobilnisite/slovnik/rf/) front-endu, integrace protokolového zásobníku a firmwaru zařízení. Pro uživatelská zařízení (UE) musí OEM zajistit, aby jejich zařízení prošla náročnými certifikačními procesy (jako jsou [GCF](/mobilnisite/slovnik/gcf/) a PTCRB), a tím garantovala správnou implementaci funkcí 3GPP a schopnost spolupracovat s jakoukoli kompatibilní sítí.
 
 Z perspektivy správy sítě a provizioningu specifikace 3GPP také definují rozhraní a procedury zahrnující zařízení od OEM. Například specifikace jako 23.057 pokrývají Mobile Station Application Execution Environment (MExE), které definuje standardní prostředí pro aplikace na mobilních zařízeních, což ovlivňuje, jak OEM navrhují svůj operační systém a bezpečnostní rámce zařízení. Specifikace jako 33.885 se zabývají zajištěním bezpečnosti pro OEM, popisují metodiky pro testování a hodnocení bezpečnosti síťového zařízení. Role OEM se tedy rozšiřuje nad rámec výroby a zahrnuje shodu s normami, zajištění bezpečnosti a umožnění pokročilých služeb prostřednictvím standardizovaných schopností.
 
@@ -41,6 +41,7 @@ Dále specifikace 3GPP stále více řeší procesy související s OEM, aby zaj
 
 ## Související pojmy
 
+- [UE – User Equipment](/mobilnisite/slovnik/ue/)
 - [MNO – Mobile Network Operator](/mobilnisite/slovnik/mno/)
 
 ## Definující specifikace

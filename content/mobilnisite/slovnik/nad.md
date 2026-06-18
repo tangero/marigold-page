@@ -16,11 +16,11 @@ NAD je jednobajtové pole používané v protokolech 3GPP k identifikaci síťov
 
 ## Popis
 
-Bajt adresy uzlu (NAD) je pole protokolu definované v raných specifikacích 3GPP, zejména v kontextu řízení rádiového spoje (RLC) a dalších protokolů vrstvy 2/3 pro UMTS a vývoj GSM. Slouží jako lokální identifikátor, typicky o délce jednoho oktetu, který se používá k rozlišení mezi různými logickými spojeními nebo body přístupu ke službám mezi dvěma komunikujícími síťovými entitami. Z architektonického hlediska je NAD součástí hlavičky datové jednotky protokolu (PDU), což umožňuje, aby jeden fyzický nebo transportní kanál přenášel více logických kanálů nebo datových toků určených pro různé procesy nebo aplikace vyšší vrstvy ve stejném uzlu.
+Bajt adresy uzlu (NAD) je pole protokolu definované v raných specifikacích 3GPP, zejména v kontextu řízení rádiového spoje ([RLC](/mobilnisite/slovnik/rlc/)) a dalších protokolů vrstvy 2/3 pro UMTS a vývoj GSM. Slouží jako lokální identifikátor, typicky o délce jednoho oktetu, který se používá k rozlišení mezi různými logickými spojeními nebo body přístupu ke službám mezi dvěma komunikujícími síťovými entitami. Z architektonického hlediska je NAD součástí hlavičky datové jednotky protokolu ([PDU](/mobilnisite/slovnik/pdu/)), což umožňuje, aby jeden fyzický nebo transportní kanál přenášel více logických kanálů nebo datových toků určených pro různé procesy nebo aplikace vyšší vrstvy ve stejném uzlu.
 
-Provozně NAD funguje tak, že je přiřazen během navazování spojení nebo nastavení relace. Například v některých konfiguracích RLC pro vyhrazené kanály může bajt NAD identifikovat konkrétní entitu RLC nebo typ přenášené datové jednotky služby (SDU), což umožňuje přijímači správně demultiplexovat příchozí data na příslušný protokol vyšší vrstvy (např. řízení hovoru, správu mobility nebo data uživatelské roviny). Rozsah hodnot 0–255 poskytuje dostatečnou kapacitu multiplexování pro většinu koncových bodů uvnitř uzlu. NAD se často používá ve spojení s dalšími identifikátory, jako je identifikátor spojení datové vazby ([DLCI](/mobilnisite/slovnik/dlci/)) nebo identifikátor bodu přístupu ke službě (SAPI), k vytvoření úplného adresovacího schématu pro protokoly vrstvy 2.
+Provozně NAD funguje tak, že je přiřazen během navazování spojení nebo nastavení relace. Například v některých konfiguracích RLC pro vyhrazené kanály může bajt NAD identifikovat konkrétní entitu RLC nebo typ přenášené datové jednotky služby ([SDU](/mobilnisite/slovnik/sdu/)), což umožňuje přijímači správně demultiplexovat příchozí data na příslušný protokol vyšší vrstvy (např. řízení hovoru, správu mobility nebo data uživatelské roviny). Rozsah hodnot 0–255 poskytuje dostatečnou kapacitu multiplexování pro většinu koncových bodů uvnitř uzlu. NAD se často používá ve spojení s dalšími identifikátory, jako je identifikátor spojení datové vazby ([DLCI](/mobilnisite/slovnik/dlci/)) nebo identifikátor bodu přístupu ke službě ([SAPI](/mobilnisite/slovnik/sapi/)), k vytvoření úplného adresovacího schématu pro protokoly vrstvy 2.
 
-Jeho role je zvláště důležitá v zastaralých doménách s přepojováním okruhů a signalizaci řídicí roviny raného přepojování paketů, kde bylo kritické efektivní využití omezené šířky pásma a strukturované směrování zpráv. Zahrnutím NAD do PDU protokol zajišťuje, že zprávy jsou doručeny správnému internímu obslužnému programu, aniž by vyžadovaly samostatná fyzická spojení pro každý logický kanál, čímž šetří prostředky a zjednodušuje síťovou architekturu. S vývojem směrem k plně IP sítím a efektivnějším protokolům v LTE a NR však bylo explicitní použití vyhrazeného bajtu NAD z velké části nahrazeno sofistikovanějšími mechanismy multiplexování ve vrstvách [MAC](/mobilnisite/slovnik/mac/) a PDCP.
+Jeho role je zvláště důležitá v zastaralých doménách s přepojováním okruhů a signalizaci řídicí roviny raného přepojování paketů, kde bylo kritické efektivní využití omezené šířky pásma a strukturované směrování zpráv. Zahrnutím NAD do PDU protokol zajišťuje, že zprávy jsou doručeny správnému internímu obslužnému programu, aniž by vyžadovaly samostatná fyzická spojení pro každý logický kanál, čímž šetří prostředky a zjednodušuje síťovou architekturu. S vývojem směrem k plně IP sítím a efektivnějším protokolům v LTE a NR však bylo explicitní použití vyhrazeného bajtu NAD z velké části nahrazeno sofistikovanějšími mechanismy multiplexování ve vrstvách [MAC](/mobilnisite/slovnik/mac/) a [PDCP](/mobilnisite/slovnik/pdcp/).
 
 ## K čemu slouží
 
@@ -28,7 +28,7 @@ Bajt adresy uzlu byl vytvořen pro řešení potřeby efektivního multiplexová
 
 Řeší problém směrování datových jednotek protokolu ke správné interní zpracovávající entitě uvnitř síťového uzlu (např. základnové stanice nebo mobilní stanice) bez nutnosti samostatných fyzických prostředků pro každý logický proud. To bylo zvláště důležité v éře sítí dominovaných přepojováním okruhů, kde bylo třeba spolehlivě oddělit a spravovat signalizační a uživatelská data na spojích s omezenou kapacitou. NAD poskytl jednoduchý, standardizovaný způsob, jak tohoto demultiplexování dosáhnout, a zajistil, že řídicí zprávy pro sestavení hovoru, předávání hovoru a doplňkové služby mohou koexistovat s uživatelskými hlasovými rámci na stejném spojení.
 
-Historicky jeho zavedení ve verzi 4 (Release 4) souviselo s vylepšením GSM a počátečním nasazením UMTS, podporujícím rostoucí složitost služeb a přechod k více paketově orientované komunikaci. Ačkoli jeho význam v pozdějších systémech 4G a 5G poklesl kvůli přijetí IP protokolů a integrovanějších návrhů vrstvy 2, NAD zůstává relevantním konceptem pro pochopení fungování zastaralých systémů a zpětné kompatibility v sítích s více RAT.
+Historicky jeho zavedení ve verzi 4 (Release 4) souviselo s vylepšením GSM a počátečním nasazením UMTS, podporujícím rostoucí složitost služeb a přechod k více paketově orientované komunikaci. Ačkoli jeho význam v pozdějších systémech 4G a 5G poklesl kvůli přijetí IP protokolů a integrovanějších návrhů vrstvy 2, NAD zůstává relevantním konceptem pro pochopení fungování zastaralých systémů a zpětné kompatibility v sítích s více [RAT](/mobilnisite/slovnik/rat/).
 
 ## Klíčové vlastnosti
 
@@ -41,7 +41,11 @@ Historicky jeho zavedení ve verzi 4 (Release 4) souviselo s vylepšením GSM a 
 
 ## Související pojmy
 
+- [RLC – Radio Link Control](/mobilnisite/slovnik/rlc/)
+- [PDU – Protocol Data Unit](/mobilnisite/slovnik/pdu/)
+- [SDU – Signalling Data Unit](/mobilnisite/slovnik/sdu/)
 - [DLCI – Data Link Connection Identifier](/mobilnisite/slovnik/dlci/)
+- [SAPI – Service Access Point Identifier](/mobilnisite/slovnik/sapi/)
 - [Multiplexing](/mobilnisite/slovnik/multiplexing/)
 
 ## Definující specifikace

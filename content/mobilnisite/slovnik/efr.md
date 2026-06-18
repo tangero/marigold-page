@@ -20,7 +20,7 @@ GSM Enhanced Full Rate (EFR) je kodek řeči s přenosovou rychlostí 12,2 kbps 
 
 Dekodér EFR na přijímací straně rekonstruuje řečový signál průchodem excitačního signálu (odvozeného z adaptivního a pevného kodebooku) přes syntézní filtr (definovaný parametry LPC). Kritickou součástí EFR jsou jeho robustní kanálové kódování a mechanismy pro maskování chyb. Používá konvoluční kód s poměrem 1/2 pro dopřednou korekci chyb ([FEC](/mobilnisite/slovnik/fec/)) a zahrnuje sofistikované algoritmy pro detekci a maskování chybných rámců, což zajišťuje přijatelnou kvalitu hlasu i při středních podmínkách rádiového kanálu. Kodek je navržen tak, aby byl interoperabilní, a jeho podpora je povinná pro GSM koncová zařízení v příslušných kmitočtových pásmech.
 
-Architektura EFR je integrována do GSM kanálu pro přenos hovoru s plnou rychlostí (TCH/[FS](/mobilnisite/slovnik/fs/)). Při sestavování hovoru mohou síť a mobilní stanice vyjednat použití EFR, pokud jej obě podporují, jinak dojde k návratu k původnímu kodeku s plnou rychlostí ([FR](/mobilnisite/slovnik/fr/)) nebo s poloviční rychlostí ([HR](/mobilnisite/slovnik/hr/)). Výkon kodeku je charakterizován vysokými hodnotami středního známkování ([MOS](/mobilnisite/slovnik/mos/)), které často přesahují 4,0 za čistých kanálových podmínek, což byl podstatný pokrok oproti hodnotě MOS kodeku FR kolem 3,5. Díky tomu se EFR stal klíčovým prvkem pro komerční mobilní hlasové služby vysoké kvality.
+Architektura EFR je integrována do GSM kanálu pro přenos hovoru s plnou rychlostí ([TCH/FS](/mobilnisite/slovnik/tch-fs-2/)). Při sestavování hovoru mohou síť a mobilní stanice vyjednat použití EFR, pokud jej obě podporují, jinak dojde k návratu k původnímu kodeku s plnou rychlostí ([FR](/mobilnisite/slovnik/fr/)) nebo s poloviční rychlostí ([HR](/mobilnisite/slovnik/hr/)). Výkon kodeku je charakterizován vysokými hodnotami středního známkování ([MOS](/mobilnisite/slovnik/mos/)), které často přesahují 4,0 za čistých kanálových podmínek, což byl podstatný pokrok oproti hodnotě MOS kodeku FR kolem 3,5. Díky tomu se EFR stal klíčovým prvkem pro komerční mobilní hlasové služby vysoké kvality.
 
 ## K čemu slouží
 
@@ -38,6 +38,10 @@ EFR vyřešil problém vnímané kvality hlasu, což bylo klíčové pro spokoje
 - Zahrnuje pokročilé techniky pro zpracování chybných rámců a maskování chyb
 - Plně zpětně kompatibilní s GSM kanálem pro přenos hovoru s plnou rychlostí (TCH/FS)
 - Povinná podpora v GSM koncových zařízeních v pásmech, kde je specifikován
+
+## Související pojmy
+
+- [TCH-FS – Traffic Channel Full rate Speech](/mobilnisite/slovnik/tch-fs/)
 
 ## Definující specifikace
 

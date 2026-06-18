@@ -16,9 +16,9 @@ F1AP je aplikační protokol vrstvy pro rozhraní F1-C, který definuje signaliz
 
 ## Popis
 
-F1 Application Protocol (F1AP) je klíčový signalizační protokol umožňující komunikaci řídicí roviny mezi centrální jednotkou ([CU](/mobilnisite/slovnik/cu/)) a distribuovanou jednotkou ([DU](/mobilnisite/slovnik/du/)) disagregovaného 5G gNB. Funguje nad protokolem Stream Control Transmission Protocol (SCTP) přes IP a poskytuje spolehlivý transport pro své zprávy. F1AP definuje komplexní sadu elementárních procedur (EPs), které jsou základními jednotkami interakce mezi CU a DU. Tyto procedury jsou kategorizovány do třídy 1 (vyžadující odpověď) a třídy 2 (nevyžadující odpověď).
+F1 Application Protocol (F1AP) je klíčový signalizační protokol umožňující komunikaci řídicí roviny mezi centrální jednotkou ([CU](/mobilnisite/slovnik/cu/)) a distribuovanou jednotkou ([DU](/mobilnisite/slovnik/du/)) disagregovaného 5G gNB. Funguje nad protokolem Stream Control Transmission Protocol ([SCTP](/mobilnisite/slovnik/sctp/)) přes IP a poskytuje spolehlivý transport pro své zprávy. F1AP definuje komplexní sadu elementárních procedur (EPs), které jsou základními jednotkami interakce mezi CU a DU. Tyto procedury jsou kategorizovány do třídy 1 (vyžadující odpověď) a třídy 2 (nevyžadující odpověď).
 
-Protokol funguje prostřednictvím výměny zpráv F1AP, z nichž každá nese informační elementy (IEs) obsahující potřebné parametry pro danou proceduru. Mezi klíčové funkční oblasti pokryté protokolem F1AP patří: správa rozhraní (např. nastavení F1, aktualizace konfigurace gNB-DU, indikace chyb), správa kontextu UE (např. zřízení, modifikace a uvolnění kontextu UE), přenos [RRC](/mobilnisite/slovnik/rrc/) zpráv (transparentní přenos RRC zpráv mezi RRC vrstvou CU a UE přes DU) a správa přenosových kanálů (řízení zřizování a modifikace datových radiových kanálů). Dále F1AP zajišťuje procedury mobility, jako je příprava předání, a správu systémových informací, kdy CU poskytuje zprávy SI, které má DU vysílat.
+Protokol funguje prostřednictvím výměny zpráv F1AP, z nichž každá nese informační elementy (IEs) obsahující potřebné parametry pro danou proceduru. Mezi klíčové funkční oblasti pokryté protokolem F1AP patří: správa rozhraní (např. nastavení F1, aktualizace konfigurace gNB-DU, indikace chyb), správa kontextu UE (např. zřízení, modifikace a uvolnění kontextu UE), přenos [RRC](/mobilnisite/slovnik/rrc/) zpráv (transparentní přenos RRC zpráv mezi RRC vrstvou CU a UE přes DU) a správa přenosových kanálů (řízení zřizování a modifikace datových radiových kanálů). Dále F1AP zajišťuje procedury mobility, jako je příprava předání, a správu systémových informací, kdy CU poskytuje zprávy [SI](/mobilnisite/slovnik/si/), které má DU vysílat.
 
 Z architektonického hlediska se F1AP nachází v CU-CP (řídicí rovina) a v DU. Každá zpráva F1AP je asociována s konkrétním kontextem UE (pro signalizaci asociovanou s UE) nebo s celým rozhraním F1 (pro signalizaci neasociovanou s UE). Protokol je navržen tak, aby byl efektivní a škálovatelný, a podporuje správu tisíců UE připojených k jedné DU. Jeho robustní mechanismy pro zpracování chyb a obnovu zajišťují stabilitu rozhraní F1, což je klíčové pro udržení kontinuity služeb v RAN.
 
@@ -42,6 +42,7 @@ Historicky byl vývoj F1AP ovlivněn podobným protokolem X2AP používaným pro
 ## Související pojmy
 
 - [F1-C – F1 Control Plane Interface](/mobilnisite/slovnik/f1-c/)
+- [SCTP – Stream Control Transmission Protocol](/mobilnisite/slovnik/sctp/)
 - [RRC – Radio Resource Control](/mobilnisite/slovnik/rrc/)
 
 ## Definující specifikace

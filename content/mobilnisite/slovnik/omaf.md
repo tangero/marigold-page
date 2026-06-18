@@ -43,6 +43,7 @@ K jeho vytvoření motivoval pohyb průmyslu směrem k imerzním zážitkům jak
 
 - [HEVC – High Efficiency Video Coding](/mobilnisite/slovnik/hevc/)
 - [DASH – Dynamic Adaptive Streaming over HTTP](/mobilnisite/slovnik/dash/)
+- [VR – Virtualized Resource](/mobilnisite/slovnik/vr/)
 
 ## Definující specifikace
 

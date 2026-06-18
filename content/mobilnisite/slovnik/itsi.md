@@ -16,7 +16,7 @@ ITSI je jedinečný identifikátor účastníka v síti TETRA, používaný pro 
 
 ## Popis
 
-Individual TETRA Subscriber Identity (ITSI) je základní, globálně jedinečný identifikátor přidělený každému koncovému zařízení (Terminal Equipment, TE) nebo mobilní stanici (Mobile Station, [MS](/mobilnisite/slovnik/ms/)) v síti Terrestrial Trunked Radio (TETRA). Je primárním klíčem pro správu účastníka, obdobně jako [IMSI](/mobilnisite/slovnik/imsi/) ve veřejných celulárních sítích. ITSI je trvale uložen v SIM kartě účastníka (TETRA Subscriber Identity Module, TSIM) a síť jej používá k identifikaci a autentizaci účastníka během procedur připojení, aktualizace polohy a sestavování hovorů. Je nezbytný pro všechny funkce správy mobility, což umožňuje domácí databázi (Home Database, HDB) a navštívené databázi (Visited Database, VDB) sledovat stav účastníka a jeho lokalizační oblast.
+Individual [TETRA](/mobilnisite/slovnik/tetra/) Subscriber Identity (ITSI) je základní, globálně jedinečný identifikátor přidělený každému koncovému zařízení (Terminal Equipment, [TE](/mobilnisite/slovnik/te/)) nebo mobilní stanici (Mobile Station, [MS](/mobilnisite/slovnik/ms/)) v síti Terrestrial Trunked Radio (TETRA). Je primárním klíčem pro správu účastníka, obdobně jako [IMSI](/mobilnisite/slovnik/imsi/) ve veřejných celulárních sítích. ITSI je trvale uložen v [SIM](/mobilnisite/slovnik/sim/) kartě účastníka (TETRA Subscriber Identity Module, TSIM) a síť jej používá k identifikaci a autentizaci účastníka během procedur připojení, aktualizace polohy a sestavování hovorů. Je nezbytný pro všechny funkce správy mobility, což umožňuje domácí databázi (Home Database, HDB) a navštívené databázi (Visited Database, VDB) sledovat stav účastníka a jeho lokalizační oblast.
 
 Z architektonického hlediska se ITSI používá na mnoha rozhraních a v síťových prvcích systému TETRA. Při počátečním přístupu k síti představuje MS své ITSI přepínací a řídicí infrastruktuře (Switching and Management Infrastructure, SwMI). SwMI, konkrétně Autentizační centrum (Authentication Centre, AuC) a domácí databáze, použije ITSI k získání autentizačních údajů a profilu služeb účastníka. Identita je strukturována tak, aby nesla konkrétní informace: zahrnuje mobilní kód země (Mobile Country Code, [MCC](/mobilnisite/slovnik/mcc/)), mobilní kód sítě (Mobile Network Code, [MNC](/mobilnisite/slovnik/mnc/)) identifikující operátora TETRA sítě a jedinečné číslo účastníka. Tato struktura umožňuje mezinárodní roaming mezi TETRA sítěmi. Všechny signalizační zprávy týkající se registrace, zabezpečení a mobility účastníka jsou korelovány pomocí ITSI.
 
@@ -24,7 +24,7 @@ Klíčové komponenty, které s ITSI interagují, zahrnují mobilní stanici, TE
 
 ## K čemu slouží
 
-ITSI byl vytvořen jako součást standardu TETRA (vyvinutého [ETSI](/mobilnisite/slovnik/etsi/)) za účelem poskytnutí robustní, bezpečné a škálovatelné metody pro identifikaci účastníků v systémech profesionální mobilní rádiové komunikace (Professional Mobile Radio, PMR). Před standardizovanými trunkovanými systémy, jako je TETRA, mnoho soukromých mobilních rádiových systémů používalo jednoduché, nejedinečné identifikátory nebo identifikátory flotil, které byly nedostatečné pro rozsáhlé, bezpečné a interoperabilní sítě. Omezení těchto přístupů zahrnovala nedostatek inherentní ochrany proti klonování, nepodporu národního nebo mezinárodního roamingu a těžkopádnou správu jednotlivých účastníků ve velkých organizacích. Koncepce TETRA pro veřejnou bezpečnost a kritickou komunikaci vyžadovala jedinečnou, proti manipulaci odolnou identitu.
+ITSI byl vytvořen jako součást standardu [TETRA](/mobilnisite/slovnik/tetra/) (vyvinutého ETSI) za účelem poskytnutí robustní, bezpečné a škálovatelné metody pro identifikaci účastníků v systémech profesionální mobilní rádiové komunikace (Professional Mobile Radio, PMR). Před standardizovanými trunkovanými systémy, jako je TETRA, mnoho soukromých mobilních rádiových systémů používalo jednoduché, nejedinečné identifikátory nebo identifikátory flotil, které byly nedostatečné pro rozsáhlé, bezpečné a interoperabilní sítě. Omezení těchto přístupů zahrnovala nedostatek inherentní ochrany proti klonování, nepodporu národního nebo mezinárodního roamingu a těžkopádnou správu jednotlivých účastníků ve velkých organizacích. Koncepce TETRA pro veřejnou bezpečnost a kritickou komunikaci vyžadovala jedinečnou, proti manipulaci odolnou identitu.
 
 Motivace pro ITSI vycházela z potřeby integrovat správu účastníků podobnou celulárním sítím do trunkovaného rádiového systému optimalizovaného pro kritickou hlasovou a datovou komunikaci. Řeší problém jedinečné identifikace každého uživatelského zařízení napříč potenciálně propojenými sítěmi provozovanými různými operátory, což umožňuje funkce jako bezpečná autentizace, individuální účtování a podrobné protokolování hovorů pro účely odpovědnosti. Jeho vytvoření bylo hnáno požadavkem na systém, který by mohl podporovat desítky tisíc uživatelů – jako jsou policie, hasiči a záchranná služba – se zaručeným přístupem a zabezpečením, kde je identita komunikujícího stejně důležitá jako samotná komunikace. ITSI tvoří základ, na kterém jsou bezpečně vybudovány a spravovány pokročilé funkce TETRA, jako je skupinový hovor, tísňový hovor a přímý režim provozu.
 
@@ -36,6 +36,10 @@ Motivace pro ITSI vycházela z potřeby integrovat správu účastníků podobno
 - Umožňuje správu mobility jednotlivého účastníka a roaming
 - Strukturován s MCC a MNC pro mezinárodní provoz
 - Základní pro sestavování individuálních hovorů a správu členství ve skupinách
+
+## Související pojmy
+
+- [TETRA – Trans European Trunked RAdio](/mobilnisite/slovnik/tetra/)
 
 ## Definující specifikace
 

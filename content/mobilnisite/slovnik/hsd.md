@@ -24,9 +24,9 @@ Technologie funguje tak, že médium rozdělí na malé, nezávisle dekódovatel
 
 ## K čemu slouží
 
-HSD bylo vytvořeno, aby řešilo rostoucí poptávku po efektivním a spolehlivém doručování videa v mobilních sítích. Před jeho standardizací vedly proprietární streamovací řešení k fragmentaci, vyžadovaly specifické páry klient-server a komplikovaly distribuci obsahu. Hlavním problémem bylo doručování videa přes IP sítě s best-effort službou, které trpí proměnlivou šířkou pásma a latencí, což způsobovalo časté načítání do vyrovnávací paměti a špatnou uživatelskou zkušenost (QoE).
+HSD bylo vytvořeno, aby řešilo rostoucí poptávku po efektivním a spolehlivém doručování videa v mobilních sítích. Před jeho standardizací vedly proprietární streamovací řešení k fragmentaci, vyžadovaly specifické páry klient-server a komplikovaly distribuci obsahu. Hlavním problémem bylo doručování videa přes IP sítě s best-effort službou, které trpí proměnlivou šířkou pásma a latencí, což způsobovalo časté načítání do vyrovnávací paměti a špatnou uživatelskou zkušenost ([QoE](/mobilnisite/slovnik/qoe/)).
 
-Motivací bylo využít všudypřítomný protokol [HTTP](/mobilnisite/slovnik/http/), který na rozdíl od specializovaných streamovacích protokolů (např. RTSP) snadno prochází firewally a překladem síťových adres ([NAT](/mobilnisite/slovnik/nat/)). Standardizace adaptivního přístupu založeného na HTTP umožnila klientům přizpůsobovat kvalitu videa na základě aktuálních síťových podmínek, což byl významný pokrok oproti streamování s pevnou přenosovou rychlostí. Toto bylo zavedeno ve vydání 10, což časově odpovídalo nástupu chytrých telefonů a růstu spotřeby mobilních dat. Řešilo to omezení dřívějšího paketového streamování 3GPP (PSS), které bylo složitější a méně adaptivní, a poskytlo tak internetu přátelské a škálovatelné řešení pro služby videa na vyžádání a živého streamování.
+Motivací bylo využít všudypřítomný protokol [HTTP](/mobilnisite/slovnik/http/), který na rozdíl od specializovaných streamovacích protokolů (např. [RTSP](/mobilnisite/slovnik/rtsp/)) snadno prochází firewally a překladem síťových adres ([NAT](/mobilnisite/slovnik/nat/)). Standardizace adaptivního přístupu založeného na HTTP umožnila klientům přizpůsobovat kvalitu videa na základě aktuálních síťových podmínek, což byl významný pokrok oproti streamování s pevnou přenosovou rychlostí. Toto bylo zavedeno ve vydání 10, což časově odpovídalo nástupu chytrých telefonů a růstu spotřeby mobilních dat. Řešilo to omezení dřívějšího paketového streamování 3GPP (PSS), které bylo složitější a méně adaptivní, a poskytlo tak internetu přátelské a škálovatelné řešení pro služby videa na vyžádání a živého streamování.
 
 ## Klíčové vlastnosti
 
@@ -40,6 +40,8 @@ Motivací bylo využít všudypřítomný protokol [HTTP](/mobilnisite/slovnik/h
 ## Související pojmy
 
 - [MBMS – Multimedia Broadcast Multicast Service](/mobilnisite/slovnik/mbms/)
+- [QoE – Quality of Experience](/mobilnisite/slovnik/qoe/)
+- [PSS – Packet Switched Streaming Service](/mobilnisite/slovnik/pss/)
 
 ## Definující specifikace
 

@@ -16,11 +16,11 @@ DRAC je algoritmus správy rádiových prostředků v UMTS, který dynamicky př
 
 ## Popis
 
-Dynamic Resource Allocation Control (DRAC) je základní funkce správy rádiových prostředků (RRM) definovaná pro UMTS Terrestrial Radio Access Network (UTRAN) ve specifikacích 3GPP. Funguje v rámci Radio Network Controller (RNC) a spravuje přidělování kritických, sdílených rádiových prostředků na rozhraní vzduch-vzduch: vysílacího výkonu a kanalizačních kódů ([OVSF](/mobilnisite/slovnik/ovsf/) kódů). DRAC je zodpovědný za nastavení, modifikaci a uvolnění těchto prostředků pro vyhrazené kanály ([DCH](/mobilnisite/slovnik/dch/)) přidělené uživatelskému zařízení (UE) pro přenos přepojovaných okruhů ([CS](/mobilnisite/slovnik/cs/)) a přepojovaných paketů (PS). Jeho činnost je kontinuální a dynamická, reagující na změny několika klíčových vstupů.
+Dynamic Resource Allocation Control (DRAC) je základní funkce správy rádiových prostředků ([RRM](/mobilnisite/slovnik/rrm/)) definovaná pro UMTS Terrestrial Radio Access Network ([UTRAN](/mobilnisite/slovnik/utran/)) ve specifikacích 3GPP. Funguje v rámci Radio Network Controller ([RNC](/mobilnisite/slovnik/rnc/)) a spravuje přidělování kritických, sdílených rádiových prostředků na rozhraní vzduch-vzduch: vysílacího výkonu a kanalizačních kódů ([OVSF](/mobilnisite/slovnik/ovsf/) kódů). DRAC je zodpovědný za nastavení, modifikaci a uvolnění těchto prostředků pro vyhrazené kanály ([DCH](/mobilnisite/slovnik/dch/)) přidělené uživatelskému zařízení (UE) pro přenos přepojovaných okruhů ([CS](/mobilnisite/slovnik/cs/)) a přepojovaných paketů ([PS](/mobilnisite/slovnik/ps/)). Jeho činnost je kontinuální a dynamická, reagující na změny několika klíčových vstupů.
 
 Algoritmus funguje tak, že vyhodnocuje požadavky na prostředky (např. z procedury Radio Bearer Setup nebo Radio Bearer Reconfiguration) vůči aktuálnímu stavu buňky. Mezi klíčové vstupy patří naměřené rušení na uplinku (Rise Over Thermal - RoT), vysílací výkon na downlinku, dostupný prostor stromu kanalizačních kódů a parametry QoS požadované služby (např. garantovaný bitový tok, třída provozu). Pro uplink DRAC primárně řídí maximální povolený výkon pro UE, což přímo omezuje jeho datový tok. Pro downlink spravuje přidělování OVSF kódů a výkonový rozpočet pro každé spojení. Jádrem rozhodovací logiky je řízení přístupu (admission control) a řízení zahlcení (congestion control). Řízení přístupu rozhoduje, zda lze nový požadavek povolit bez porušení stability nebo QoS stávajících spojení. Řízení zahlcení (nebo řízení zatížení) aktivně monitoruje buňku a může spustit snížení prostředků pro stávající uživatele, pokud zatížení (rušení nebo výkon) překročí předdefinované prahové hodnoty.
 
-Implementace DRAC je úzce spojena s dalšími funkcemi RRM, jako je Packet Scheduler (PS), který zpracovává prostředky sdílených kanálů ([HSDPA](/mobilnisite/slovnik/hsdpa/)/[HSUPA](/mobilnisite/slovnik/hsupa/)), a Handover Control. Pro služby na vyhrazených kanálech může DRAC spolupracovat s výběrem Transport Format Combination (TFC) v UE, kde UE volí datový tok (transportní formát), který nepřekračuje prostředky přidělené RNC prostřednictvím DRAC. Tato dynamická a reaktivní regulační smyčka je zásadní pro správu povahy WCDMA, která je limitována rušením, zajišťuje stabilitu systému, maximalizuje spektrální účinnost a poskytuje dohodnutou QoS koncovým uživatelům za různých podmínek v síti.
+Implementace DRAC je úzce spojena s dalšími funkcemi RRM, jako je Packet Scheduler (PS), který zpracovává prostředky sdílených kanálů ([HSDPA](/mobilnisite/slovnik/hsdpa/)/HSUPA), a Handover Control. Pro služby na vyhrazených kanálech může DRAC spolupracovat s výběrem Transport Format Combination (TFC) v UE, kde UE volí datový tok (transportní formát), který nepřekračuje prostředky přidělené RNC prostřednictvím DRAC. Tato dynamická a reaktivní regulační smyčka je zásadní pro správu povahy WCDMA, která je limitována rušením, zajišťuje stabilitu systému, maximalizuje spektrální účinnost a poskytuje dohodnutou QoS koncovým uživatelům za různých podmínek v síti.
 
 ## K čemu slouží
 
@@ -36,6 +36,13 @@ Před takovou dynamickou kontrolou by byly jednodušší statické nebo polostat
 - Správa prostředků s ohledem na QoS pro různé třídy provozu
 - Interakce s řízením Transport Format Combination (TFC) v UE
 - Základní prvek pro správu rušení a stability v sítích WCDMA
+
+## Související pojmy
+
+- [RRM – Radio Resource Management](/mobilnisite/slovnik/rrm/)
+- [UTRAN – Universal Terrestrial Radio Access Network](/mobilnisite/slovnik/utran/)
+- [RNC – Radio Network Controller](/mobilnisite/slovnik/rnc/)
+- [WCDMA – Wideband Code Division Multiple Access](/mobilnisite/slovnik/wcdma/)
 
 ## Definující specifikace
 

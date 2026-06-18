@@ -16,17 +16,17 @@ DRT (Delay Reference Time) je časovací parametr používaný na rozhraní UMTS
 
 ## Popis
 
-Delay Reference Time (DRT) je klíčový časovací parametr definovaný ve specifikacích 3GPP pro rozhraní Iur, které spojuje dva řadiče rádiové sítě (RNC) v pozemní rádiové přístupové síti UMTS (UTRAN). Jeho primární funkcí je vytvořit společný časový referenční bod mezi RNC pro přesné měření a správu proměnlivých přenosových zpoždění, která jsou vlastní transportní síti je spojující. To je nezbytné pro časově citlivé koordinační funkce.
+Delay Reference Time (DRT) je klíčový časovací parametr definovaný ve specifikacích 3GPP pro rozhraní Iur, které spojuje dva řadiče rádiové sítě ([RNC](/mobilnisite/slovnik/rnc/)) v pozemní rádiové přístupové síti UMTS ([UTRAN](/mobilnisite/slovnik/utran/)). Jeho primární funkcí je vytvořit společný časový referenční bod mezi RNC pro přesné měření a správu proměnlivých přenosových zpoždění, která jsou vlastní transportní síti je spojující. To je nezbytné pro časově citlivé koordinační funkce.
 
-Z architektonického hlediska je DRT vyjednáván a nastaven během zřizování logického spojení Iur mezi obsluhujícím RNC (SRNC) a driftovým RNC ([DRNC](/mobilnisite/slovnik/drnc/)). Tento parametr definuje konkrétní časový bod použitý jako základní linie. Oba RNC používají tuto referenci k časovému značkování zpráv a měření skutečného zpoždění transportní sítě pro rámce uživatelských dat a řídicí signalizaci. Naměřená variace zpoždění je následně kompenzována v procedurách, které vyžadují přesné časové sladění, jako je makro-diverzitní kombinování (kdy jsou stejná uživatelská data přijímána prostřednictvím dvou NodeB řízených různými RNC) a mezibuněčné tvrdé předání spojení (inter-RNC hard handover).
+Z architektonického hlediska je DRT vyjednáván a nastaven během zřizování logického spojení Iur mezi obsluhujícím RNC ([SRNC](/mobilnisite/slovnik/srnc/)) a driftovým RNC ([DRNC](/mobilnisite/slovnik/drnc/)). Tento parametr definuje konkrétní časový bod použitý jako základní linie. Oba RNC používají tuto referenci k časovému značkování zpráv a měření skutečného zpoždění transportní sítě pro rámce uživatelských dat a řídicí signalizaci. Naměřená variace zpoždění je následně kompenzována v procedurách, které vyžadují přesné časové sladění, jako je makro-diverzitní kombinování (kdy jsou stejná uživatelská data přijímána prostřednictvím dvou NodeB řízených různými RNC) a mezibuněčné tvrdé předání spojení (inter-RNC hard handover).
 
 Mechanismus funguje tak, že do rámcových protokolů vkládá časové informace. Jeden RNC (typicky SRNC) odešle řídicí rámec označený svým aktuálním časem vzhledem k dohodnutému DRT. Přijímající RNC porovná toto časové razítko se svými vlastními hodinami (také sladěnými s DRT) a vypočítá jednosměrné zpoždění. Toto vypočtené zpoždění je pak použito k úpravě vyrovnávací paměti a plánování. Mezi klíčové komponenty patří samotná hodnota DRT, procedury časového přizpůsobení v rámcových protokolech Iur (jako je [DCH](/mobilnisite/slovnik/dch/) Frame Protocol) a související řídicí signalizace. Jeho role spočívá v abstrakci kolísání latence (jitteru) podkladové transportní sítě, čímž poskytuje algoritmům správy rádiových prostředků RNC stabilnější a předvídatelnější časové prostředí.
 
 ## K čemu slouží
 
-DRT byl zaveden, aby vyřešil kritický problém variability zpoždění transportní sítě v architekturách UMTS s více RNC. V raném UMTS vyžadovaly funkce jako měkké předání spojení (makro-diverzita) mezi NodeB patřícími k různým RNC extrémně těsnou synchronizaci datových proudů uživatele, aby mohly být správně kombinovány. Transportní síť (např. IP nebo [ATM](/mobilnisite/slovnik/atm/)) mezi RNC zaváděla nepředvídatelná a proměnná zpoždění, která mohla vážně zhoršit výkon kombinování nebo způsobit selhání předání spojení, pokud s nimi nebylo počítáno.
+DRT byl zaveden, aby vyřešil kritický problém variability zpoždění transportní sítě v architekturách UMTS s více [RNC](/mobilnisite/slovnik/rnc/). V raném UMTS vyžadovaly funkce jako měkké předání spojení (makro-diverzita) mezi NodeB patřícími k různým RNC extrémně těsnou synchronizaci datových proudů uživatele, aby mohly být správně kombinovány. Transportní síť (např. IP nebo [ATM](/mobilnisite/slovnik/atm/)) mezi RNC zaváděla nepředvídatelná a proměnná zpoždění, která mohla vážně zhoršit výkon kombinování nebo způsobit selhání předání spojení, pokud s nimi nebylo počítáno.
 
-Jeho vytvoření bylo motivováno potřebou, aby pokročilé rádiové funkce spolehlivě fungovaly přes neideální přenosové spoje (backhaul). Předchozí přístupy, které předpokládaly pevné nebo zanedbatelné zpoždění mezi RNC, byly nedostatečné. DRT poskytuje standardizovanou metodu pro vytvoření společné časové základny a měření skutečných zpoždění, což umožňuje dynamickou kompenzaci. To umožnilo operátorům nasazovat UTRAN flexibilnějším a distribuovaným způsobem, aniž by byli omezeni ultranízkolatencí a vyhrazenými spoji mezi všemi RNC. V podstatě oddělil výkon rádiové části od nedokonalostí transportní sítě, čímž zvýšil spolehlivost sítě a kvalitu služeb během událostí mobility.
+Jeho vytvoření bylo motivováno potřebou, aby pokročilé rádiové funkce spolehlivě fungovaly přes neideální přenosové spoje (backhaul). Předchozí přístupy, které předpokládaly pevné nebo zanedbatelné zpoždění mezi RNC, byly nedostatečné. DRT poskytuje standardizovanou metodu pro vytvoření společné časové základny a měření skutečných zpoždění, což umožňuje dynamickou kompenzaci. To umožnilo operátorům nasazovat [UTRAN](/mobilnisite/slovnik/utran/) flexibilnějším a distribuovaným způsobem, aniž by byli omezeni ultranízkolatencí a vyhrazenými spoji mezi všemi RNC. V podstatě oddělil výkon rádiové části od nedokonalostí transportní sítě, čímž zvýšil spolehlivost sítě a kvalitu služeb během událostí mobility.
 
 ## Klíčové vlastnosti
 
@@ -36,6 +36,11 @@ Jeho vytvoření bylo motivováno potřebou, aby pokročilé rádiové funkce sp
 - Klíčový pro synchronizaci při provádění mezibuněčného tvrdého předání spojení (inter-RNC hard handover)
 - Implementován v rámci řídicích procedur rámcového protokolu Iur
 - Zlepšuje výkon UTRAN přes neideální přenosové sítě (backhaul)
+
+## Související pojmy
+
+- [RNC – Radio Network Controller](/mobilnisite/slovnik/rnc/)
+- [UTRAN – Universal Terrestrial Radio Access Network](/mobilnisite/slovnik/utran/)
 
 ## Definující specifikace
 

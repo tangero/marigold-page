@@ -16,7 +16,7 @@ BSG je logické seskupení základních telekomunikačních služeb, jako jsou h
 
 ## Popis
 
-Základní skupina služeb (Basic Service Group – BSG) je základní koncept správy služeb v sítích 3GPP, který poskytuje logický rámec pro seskupení příbuzných základních telekomunikačních služeb. Základní služba představuje jednotlivou komunikační schopnost, kterou síť poskytuje účastníkům, jako je telefonie, tísňová volání, služba krátkých zpráv (SMS), fax nebo různé datové přenosové služby. BSG organizuje tyto jednotlivé služby do logických kolekcí, které lze spravovat, provozovat a účtovat jako ucelené entity.
+Základní skupina služeb (Basic Service Group – BSG) je základní koncept správy služeb v sítích 3GPP, který poskytuje logický rámec pro seskupení příbuzných základních telekomunikačních služeb. Základní služba představuje jednotlivou komunikační schopnost, kterou síť poskytuje účastníkům, jako je telefonie, tísňová volání, služba krátkých zpráv ([SMS](/mobilnisite/slovnik/sms/)), fax nebo různé datové přenosové služby. BSG organizuje tyto jednotlivé služby do logických kolekcí, které lze spravovat, provozovat a účtovat jako ucelené entity.
 
 Architektonicky BSG fungují v rámci servisní vrstvy sítí 3GPP a rozhraní s prvky jádra sítě i s podnikovými podpůrnými systémy ([BSS](/mobilnisite/slovnik/bss/)). Koncept je implementován prostřednictvím servisních profilů uložených v Home Location Register ([HLR](/mobilnisite/slovnik/hlr/)) nebo Home Subscriber Server ([HSS](/mobilnisite/slovnik/hss/)), které obsahují předplatitelská data včetně BSG, ke kterým má účastník přístup. Když účastník zahájí žádost o službu, síť před jejím povolením zkontroluje, zda požadovaná základní služba patří do autorizované BSG v profilu účastníka.
 
@@ -26,7 +26,7 @@ Rámec BSG hraje klíčovou roli v systémech účtování a fakturace, kde lze 
 
 ## K čemu slouží
 
-Koncept Základní skupiny služeb byl zaveden, aby řešil rostoucí složitost správy služeb v mobilních sítích, jak se vyvíjely za hranice jednoduché hlasové telefonie. Rané buněčné systémy nabízely omezené služby, ale se zavedením sítí 2,5G a 3G potřebovali operátoři spravovat rozmanité portfolia služeb včetně SMS, datových služeb, multimediálních zpráv a různých přidaných služeb. Bez mechanismu seskupování by každá služba vyžadovala individuální konfiguraci v profilech účastníků, což by vedlo k administrativní složitosti a potenciálním nekonzistencím.
+Koncept Základní skupiny služeb byl zaveden, aby řešil rostoucí složitost správy služeb v mobilních sítích, jak se vyvíjely za hranice jednoduché hlasové telefonie. Rané buněčné systémy nabízely omezené služby, ale se zavedením sítí 2,5G a 3G potřebovali operátoři spravovat rozmanité portfolia služeb včetně [SMS](/mobilnisite/slovnik/sms/), datových služeb, multimediálních zpráv a různých přidaných služeb. Bez mechanismu seskupování by každá služba vyžadovala individuální konfiguraci v profilech účastníků, což by vedlo k administrativní složitosti a potenciálním nekonzistencím.
 
 BSG tento problém řeší tím, že poskytují logickou abstraktní vrstvu, která zjednodušuje provozování, správu a účtování služeb. Umožňují operátorům vytvářet balíčky služeb, které lze snadno přiřadit účastníkům, a snižují tak provozní náročnost spojenou se správou oprávnění jednotlivých služeb. To je obzvláště důležité pro systémy předplacených služeb a účtování v reálném čase, kde musí být rozhodnutí o autorizaci služby provedena rychle během sestavování hovoru nebo zahájení relace.
 

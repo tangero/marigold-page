@@ -16,9 +16,9 @@ HIPS je využití stanic na vysokých výškách (High Altitude Platform Station
 
 ## Popis
 
-HIPS ([HAPS](/mobilnisite/slovnik/haps/) as [IMT](/mobilnisite/slovnik/imt/) Base Stations) je koncept 3GPP, který definuje integraci stanic na vysokých výškách (HAPS) do architektury pozemní mobilní sítě jako vzdušných základnových stanic. HAPS jsou kvazistacionární platformy, jako například solární bezpilotní letouny nebo vzducholodě, operující ve stratosféře v typických výškách mezi 17–22 km. V rámci HIPS jsou tyto platformy vybaveny funkcemi základnové stanice definovanými 3GPP (gNB pro 5G NR) a účinně fungují jako létající vysílače. Připojují se k páteřní síti přes satelitní nebo pozemní backhaulové spoje a poskytují rádiový přístup uživatelským zařízením (UE) na zemi, čímž vytvářejí vrstvu neterestrické sítě (NTN).
+HIPS ([HAPS](/mobilnisite/slovnik/haps/) as [IMT](/mobilnisite/slovnik/imt/) Base Stations) je koncept 3GPP, který definuje integraci stanic na vysokých výškách (HAPS) do architektury pozemní mobilní sítě jako vzdušných základnových stanic. HAPS jsou kvazistacionární platformy, jako například solární bezpilotní letouny nebo vzducholodě, operující ve stratosféře v typických výškách mezi 17–22 km. V rámci HIPS jsou tyto platformy vybaveny funkcemi základnové stanice definovanými 3GPP (gNB pro 5G NR) a účinně fungují jako létající vysílače. Připojují se k páteřní síti přes satelitní nebo pozemní backhaulové spoje a poskytují rádiový přístup uživatelským zařízením (UE) na zemi, čímž vytvářejí vrstvu neterestrické sítě ([NTN](/mobilnisite/slovnik/ntn/)).
 
-Architektura zahrnuje platformu HAPS hostující rádiovou jednotku (RU), distribuovanou jednotku ([DU](/mobilnisite/slovnik/du/)) a potenciálně část centralizované jednotky ([CU](/mobilnisite/slovnik/cu/)) podle rozdělení NG-RAN dle 3GPP. Komunikuje s UE pomocí rozhraní 3GPP NR, ale se specifickými úpravami pro dlouhé zpoždění šíření a jedinečné podmínky kanálu stratosférických spojů. Systém HIPS musí zvládat výzvy jako významné zpoždění zpáteční cesty (řádově desítky milisekund), Dopplerovy posuny způsobené pohybem platformy a široké oblasti pokrytí paprskem. Mezi klíčové technické aspekty patří synchronizace, mechanismy časového předstihu a upravené procedury náhodného přístupu, které zohledňují geometrii vysoké nadmořské výšky.
+Architektura zahrnuje platformu HAPS hostující rádiovou jednotku ([RU](/mobilnisite/slovnik/ru/)), distribuovanou jednotku ([DU](/mobilnisite/slovnik/du/)) a potenciálně část centralizované jednotky ([CU](/mobilnisite/slovnik/cu/)) podle rozdělení NG-RAN dle 3GPP. Komunikuje s UE pomocí rozhraní 3GPP NR, ale se specifickými úpravami pro dlouhé zpoždění šíření a jedinečné podmínky kanálu stratosférických spojů. Systém HIPS musí zvládat výzvy jako významné zpoždění zpáteční cesty (řádově desítky milisekund), Dopplerovy posuny způsobené pohybem platformy a široké oblasti pokrytí paprskem. Mezi klíčové technické aspekty patří synchronizace, mechanismy časového předstihu a upravené procedury náhodného přístupu, které zohledňují geometrii vysoké nadmořské výšky.
 
 HIPS funguje jako součást integrované vzdušno-pozemní sítě, kde může poskytovat plynulou kontinuitu služeb s pozemními sítěmi. Podporuje jak transparentní (bent-pipe), tak regenerativní režim užitečného zatížení (s on-board zpracováním základnové stanice). Systém je navržen pro poskytování rozšířeného mobilního širokopásmového připojení (eMBB) a služeb masivního IoT přes velké geografické oblasti a doplňuje tak pozemní infrastrukturu. Jeho role je klíčová pro dosažení všudypřítomného pokrytí 5G, obnovu po katastrofách a kapacitu pro dočasné události, což je v souladu s vizí 3GPP pro komplexní integraci NTN ve verzi Release 17 a dalších.
 
@@ -40,7 +40,9 @@ Motivace vychází z potřeby globální konektivity jako součásti vývoje 5G 
 ## Související pojmy
 
 - [HAPS – High Altitude Platform Station](/mobilnisite/slovnik/haps/)
+- [NTN – Non-Terrestrial Networks](/mobilnisite/slovnik/ntn/)
 - [GPS – Global Positioning System](/mobilnisite/slovnik/gps/)
+- [RAN – Radio Access Network](/mobilnisite/slovnik/ran/)
 
 ## Definující specifikace
 

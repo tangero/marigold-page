@@ -16,7 +16,7 @@ DSI je technika komprese hlasu, která zvyšuje přenosovou kapacitu využitím 
 
 ## Popis
 
-Digital Speech Interpolation (DSI) funguje na principu, že typická obousměrná telefonní konverzace obsahuje významná období ticha, jako jsou pauzy mezi větami a doba naslouchání. Systém používá detekci hlasové aktivity (VAD) k rozlišení mezi aktivní řečí a tichem nebo šumem na pozadí. Během aktivní řeči jsou digitální řečové vzorky paketizovány a přenášeny přes kanál. Během tichých period není kanál této konverzaci přidělen, čímž se uvolňuje šířka pásma pro jiné uživatele.
+Digital Speech Interpolation (DSI) funguje na principu, že typická obousměrná telefonní konverzace obsahuje významná období ticha, jako jsou pauzy mezi větami a doba naslouchání. Systém používá detekci hlasové aktivity ([VAD](/mobilnisite/slovnik/vad/)) k rozlišení mezi aktivní řečí a tichem nebo šumem na pozadí. Během aktivní řeči jsou digitální řečové vzorky paketizovány a přenášeny přes kanál. Během tichých period není kanál této konverzaci přidělen, čímž se uvolňuje šířka pásma pro jiné uživatele.
 
 Základní architektura zahrnuje detektor řeči, vyrovnávací paměť a řídicí jednotku. Detektor řeči analyzuje příchozí signál k identifikaci úseků mluveného slova. Tyto úseky jsou pak umístěny do paketů s příslušnými adresními informacemi. Klíčovou součástí je logika přidělování, která dynamicky přiřazuje dostupné sloty kanálu aktivním mluvčím z fondu uživatelů. Toto statistické multiplexování umožňuje, aby počet podporovaných uživatelů překročil počet fyzických přenosových kanálů.
 

@@ -16,9 +16,9 @@ MB-MSR je rádiová jednotka základnové stanice schopná současně vysílat a
 
 ## Popis
 
-Multi-Band Multi-Standard Radio (MB-MSR, vícepásmová více standardní radiostanice) označuje sofistikovanou architekturu základnové stanice, konkrétně jednotku vysokofrekvenčního (RF) transceiveru, navrženou pro podporu více standardů mobilní komunikace (např. GSM, WCDMA, LTE, NR) a současný provoz napříč více kmitočtovými pásmy na jedné hardwarové platformě. Tato schopnost je charakteristickým rysem moderního vybavení rádiové přístupové sítě (RAN) a představuje odklon od zastaralého modelu nasazování samostatných, jednopásmových, jednotechnologických rádiových jednotek pro každý standard. Jednotka MB-MSR integruje širokopásmové výkonové zesilovače, filtry a softwarově definované rádiové komponenty, které lze dynamicky konfigurovat pro generování a zpracování signálů pro různá rozhraní vzduchu.
+Multi-Band Multi-Standard Radio (MB-MSR, vícepásmová více standardní radiostanice) označuje sofistikovanou architekturu základnové stanice, konkrétně jednotku vysokofrekvenčního ([RF](/mobilnisite/slovnik/rf/)) transceiveru, navrženou pro podporu více standardů mobilní komunikace (např. GSM, [WCDMA](/mobilnisite/slovnik/wcdma/), LTE, NR) a současný provoz napříč více kmitočtovými pásmy na jedné hardwarové platformě. Tato schopnost je charakteristickým rysem moderního vybavení rádiové přístupové sítě (RAN) a představuje odklon od zastaralého modelu nasazování samostatných, jednopásmových, jednotechnologických rádiových jednotek pro každý standard. Jednotka MB-MSR integruje širokopásmové výkonové zesilovače, filtry a softwarově definované rádiové komponenty, které lze dynamicky konfigurovat pro generování a zpracování signálů pro různá rozhraní vzduchu.
 
-Architektonicky se základnová stanice typu MB-MSR typicky skládá z jednotky pro základnové pásmo (baseband) a jedné nebo více rádiových jednotek MB-MSR (často nazývaných Remote Radio Heads - RRH). Klíčová inovace spočívá v schopnosti rádiové jednotky pracovat v širokém rozsahu spektra, často prostřednictvím použití širokopásmových výkonových zesilovačů a vícekanálových technik. Dokáže vytvářet více nezávislých signálů nosných pro různé technologie a pásma, které jsou následně kombinovány a vysílány společným anténním systémem za použití filtrů a kombinátorů, aby se zabránilo interferenci. Na straně příjmu separuje a zpracovává příchozí signály z různých podporovaných pásem a standardů.
+Architektonicky se základnová stanice typu MB-MSR typicky skládá z jednotky pro základnové pásmo (baseband) a jedné nebo více rádiových jednotek MB-MSR (často nazývaných Remote Radio Heads - [RRH](/mobilnisite/slovnik/rrh/)). Klíčová inovace spočívá v schopnosti rádiové jednotky pracovat v širokém rozsahu spektra, často prostřednictvím použití širokopásmových výkonových zesilovačů a vícekanálových technik. Dokáže vytvářet více nezávislých signálů nosných pro různé technologie a pásma, které jsou následně kombinovány a vysílány společným anténním systémem za použití filtrů a kombinátorů, aby se zabránilo interferenci. Na straně příjmu separuje a zpracovává příchozí signály z různých podporovaných pásem a standardů.
 
 Její provoz je zásadně závislý na pokročilém digitálním zpracování signálu a softwarovém řízení. Jednotka základnového pásma posílá do jednotky MB-MSR digitalizované datové toky [IQ](/mobilnisite/slovnik/iq/) odpovídající různým nosným a standardům. Rádiová jednotka je následně převádí na analogové RF signály, zesiluje je a zvládá komplexní úkol udržení linearity a účinnosti napříč širokou šířkou pásma. To umožňuje, aby jediné místo podporovalo služby 2G, 3G, 4G a 5G současně, což dramaticky zjednodušuje infrastrukturu lokality, snižuje spotřebu energie a optimalizuje využití vzácných spektrálních zdrojů. MB-MSR je základní technologií pro iniciativy modernizace sítě, jako je sdílení RAN a plynulá migrace na novější technologie.
 
@@ -36,6 +36,10 @@ K jejímu vzniku motivovala potřeba větší spektrální flexibility a moderni
 - Umožňuje softwarově konfigurovatelné přidělování nosných a podporu technologií
 - Snižuje prostorové nároky na lokalitě, spotřebu energie a celkové náklady na vlastnictví
 - Usnadňuje plynulé přebudování spektra a migraci technologií
+
+## Související pojmy
+
+- [RRH – Remote Radio Head](/mobilnisite/slovnik/rrh/)
 
 ## Definující specifikace
 

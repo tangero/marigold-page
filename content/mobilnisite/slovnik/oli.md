@@ -16,15 +16,15 @@ OLI je parametr signalizace hovoru v IMS, který identifikuje typ volající lin
 
 ## Popis
 
-Originating Line Information (OLI, informace o volající lince) je standardizovaný parametr přenášený v rámci signalizačních zpráv SIP, konkrétně v hlavičce P-Asserted-Identity nebo v jiných odpovídajících polích dle definice 3GPP. Jedná se o číselný nebo alfanumerický kód udávající charakteristiky linky, ze které hovor nebo relace v síti IMS pochází. Hodnotu OLI typicky vkládá Call Session Control Function ([CSCF](/mobilnisite/slovnik/cscf/)) volající sítě nebo Application Server ([AS](/mobilnisite/slovnik/as/)) na základě abonentních dat nebo konfigurace sítě.
+Originating Line Information (OLI, informace o volající lince) je standardizovaný parametr přenášený v rámci signalizačních zpráv [SIP](/mobilnisite/slovnik/sip/), konkrétně v hlavičce P-Asserted-Identity nebo v jiných odpovídajících polích dle definice 3GPP. Jedná se o číselný nebo alfanumerický kód udávající charakteristiky linky, ze které hovor nebo relace v síti IMS pochází. Hodnotu OLI typicky vkládá Call Session Control Function ([CSCF](/mobilnisite/slovnik/cscf/)) volající sítě nebo Application Server ([AS](/mobilnisite/slovnik/as/)) na základě abonentních dat nebo konfigurace sítě.
 
-V architektuře IMS se parametr OLI šíří od sítě volajícího účastníka přes Serving-CSCF (S-CSCF) do sítě příjemce. Tvoří součást záznamů o detailech hovoru ([CDR](/mobilnisite/slovnik/cdr/)) generovaných pro účely účtování. Operátoři sítí a poskytovatelé služeb používají OLI k rozlišení různých typů původu hovoru, což umožňuje diferencované tarify, specifické směrovací politiky (např. priorita nouzových hovorů z telefonních automatů) nebo spouštění přidaných služeb.
+V architektuře IMS se parametr OLI šíří od sítě volajícího účastníka přes Serving-CSCF ([S-CSCF](/mobilnisite/slovnik/s-cscf/)) do sítě příjemce. Tvoří součást záznamů o detailech hovoru ([CDR](/mobilnisite/slovnik/cdr/)) generovaných pro účely účtování. Operátoři sítí a poskytovatelé služeb používají OLI k rozlišení různých typů původu hovoru, což umožňuje diferencované tarify, specifické směrovací politiky (např. priorita nouzových hovorů z telefonních automatů) nebo spouštění přidaných služeb.
 
 Definice a použití parametru jsou specifikovány v 3GPP TS 24.229 (IP multimedia call control protocol) a TS 29.163 (Interworking between the IP Multimedia ([IM](/mobilnisite/slovnik/im/)) Core Network (CN) subsystem and Circuit Switched ([CS](/mobilnisite/slovnik/cs/)) networks). Zatímco jeho základní funkce zůstala neměnná, jeho existence zajišťuje zpětnou kompatibilitu a spolupráci s legacy okruhově komutovanými sítěmi, kde byly podobné informace o lince používány v signalizaci [ISUP](/mobilnisite/slovnik/isup/). OLI je klíčovým prvkem pro zákonné odposlechy, detekci podvodů a zajištění regulatorní shody přesným identifikováním charakteru přístupu volající strany.
 
 ## K čemu slouží
 
-OLI byl zaveden za účelem překlenutí sémantické mezery mezi tradiční okruhově komutovanou telefonií a novým IP-based IMS. V legacy sítích PSTN/[ISDN](/mobilnisite/slovnik/isdn/) parametr Calling Party's Category v signalizaci [ISUP](/mobilnisite/slovnik/isup/) přenášel podobné informace o volající lince (např. běžný účastník, telefonní automat, testovací linka). Tato data byla nezbytná pro fakturační systémy a síťové operace.
+OLI byl zaveden za účelem překlenutí sémantické mezery mezi tradiční okruhově komutovanou telefonií a novým IP-based IMS. V legacy sítích PSTN/ISDN parametr Calling Party's Category v signalizaci ISUP přenášel podobné informace o volající lince (např. běžný účastník, telefonní automat, testovací linka). Tato data byla nezbytná pro fakturační systémy a síťové operace.
 
 Při migraci na IMS a čistě IP sítě vznikla potřeba zachovat tento klíčový informační prvek, aby bylo možné udržet stávající obchodní logiku, regulatorní požadavky a schopnosti služeb. OLI řeší problém ztráty kontextu původu při přechodu hovorů z TDM na IP. Zajišťuje, že poskytovatelé služeb mohou i nadále aplikovat rozdílné účtování, implementovat specifické směrování pro určité typy linek (jako jsou volné hovory z telefonních automatů) a plnit zákonné povinnosti týkající se trasování a identifikace hovorů.
 
@@ -42,6 +42,7 @@ Jeho vytvoření bylo motivováno požadavkem na paritu funkcí mezi sítěmi a 
 ## Související pojmy
 
 - [IMS – IP Multimedia Subsystem](/mobilnisite/slovnik/ims/)
+- [SIP – Session Initiation Protocol](/mobilnisite/slovnik/sip/)
 - [CDR – Call Detail Record](/mobilnisite/slovnik/cdr/)
 - [ISUP – MIME ISDN User Part Multi-purpose Internet Mail Extension](/mobilnisite/slovnik/isup/)
 

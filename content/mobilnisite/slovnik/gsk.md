@@ -30,7 +30,7 @@ Skupinový relací klíč byl zaveden, aby řešil základní bezpečnostní vý
 
 Historicky, jak 3GPP vyvíjelo skupinově orientované služby jako [MBMS](/mobilnisite/slovnik/mbms/), stala se zřejmou potřeba standardizovaného skupinového bezpečnostního mechanismu. Rané systémy pro vysílání multimédií postrádaly robustní, standardizované zabezpečení, což riskovalo neoprávněný přístup k prémiovému obsahu nebo citlivé skupinové komunikaci. Rámec GSK, zavedený ve vydání 12, poskytl strukturovanou hierarchii klíčů v rámci stávající bezpečnostní architektury 3GPP (EPS nebo 5GS), čímž zajistil zpětnou kompatibilitu a integraci s existujícími procedurami pro autentizaci a dohodu o klíči ([AKA](/mobilnisite/slovnik/aka/)).
 
-Řeší problém bezpečné a efektivní správy klíčů pro služby hromadného doručování. Bez mechanismu typu GSK by museli operátoři buď akceptovat nezabezpečené vysílání, nebo implementovat proprietární, vzájemně nekompatibilní řešení. GSK umožňuje komerční služby jako mobilní TV s Digital Rights Management ([DRM](/mobilnisite/slovnik/drm/)) a kritické služby jako skupinová komunikace pro veřejnou bezpečnost, kde jsou klíčové jak efektivita, tak důvěrnost.
+Řeší problém bezpečné a efektivní správy klíčů pro služby hromadného doručování. Bez mechanismu typu GSK by museli operátoři buď akceptovat nezabezpečené vysílání, nebo implementovat proprietární, vzájemně nekompatibilní řešení. GSK umožňuje komerční služby jako mobilní [TV](/mobilnisite/slovnik/tv/) s Digital Rights Management (DRM) a kritické služby jako skupinová komunikace pro veřejnou bezpečnost, kde jsou klíčové jak efektivita, tak důvěrnost.
 
 ## Klíčové vlastnosti
 

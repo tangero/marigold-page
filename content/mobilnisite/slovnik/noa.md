@@ -16,7 +16,7 @@ NOA je signalizační parametr, který klasifikuje typ adresy, například náro
 
 ## Popis
 
-Indikátor povahy adresy (Nature Of Address – NOA) je základní pole v telekomunikačních signalizačních zprávách používané k interpretaci sémantiky a kontextu směrování adresy, typicky volaného čísla. Je přenášen v protokolech jako [ISDN](/mobilnisite/slovnik/isdn/) User Part ([ISUP](/mobilnisite/slovnik/isup/)), Bearer Independent Call Control (BICC) a Session Initiation Protocol (SIP). NOA poskytuje nezbytná metadata o číslicích adresy, která síti říkají, jak je zpracovat. Například stejná číselná sekvence může představovat národní číslo, mezinárodní číslo (s předpokládanou úvodní '+') nebo síťově specifický služební kód a NOA je klíčem k rozlišení této nejednoznačnosti.
+Indikátor povahy adresy (Nature Of Address – NOA) je základní pole v telekomunikačních signalizačních zprávách používané k interpretaci sémantiky a kontextu směrování adresy, typicky volaného čísla. Je přenášen v protokolech jako [ISDN](/mobilnisite/slovnik/isdn/) User Part ([ISUP](/mobilnisite/slovnik/isup/)), Bearer Independent Call Control (BICC) a Session Initiation Protocol ([SIP](/mobilnisite/slovnik/sip/)). NOA poskytuje nezbytná metadata o číslicích adresy, která síti říkají, jak je zpracovat. Například stejná číselná sekvence může představovat národní číslo, mezinárodní číslo (s předpokládanou úvodní '+') nebo síťově specifický služební kód a NOA je klíčem k rozlišení této nejednoznačnosti.
 
 Technicky je NOA obvykle několik bitů nebo bajt uvnitř informačního prvku adresy. V ISUP je součástí parametrů Called Party Number a Calling Party Number. Mezi běžné hodnoty patří 'International Number' (mezinárodní číslo), 'National (Significant) Number' (národní (významné) číslo), 'Subscriber Number' (účastnické číslo), 'Abbreviated Number' (zkrácené číslo) a 'Network-Specific Number' (síťově specifické číslo). Když ústředna přijme zprávu o sestavení hovoru, prověří NOA parametru Called Party Number, aby určila postup směrování. Hodnota 'International' spustí zpracování kódu země, hodnota 'National' označuje, že číslo je v rámci národního číslovacího plánu, a 'Subscriber' číslo je považováno za místní číslo v rámci stejné sítě nebo oblasti.
 
@@ -40,6 +40,7 @@ Indikátor NOA byl vytvořen k řešení problému nejednoznačné interpretace 
 ## Související pojmy
 
 - [ISUP – MIME ISDN User Part Multi-purpose Internet Mail Extension](/mobilnisite/slovnik/isup/)
+- [SIP – Session Initiation Protocol](/mobilnisite/slovnik/sip/)
 
 ## Definující specifikace
 

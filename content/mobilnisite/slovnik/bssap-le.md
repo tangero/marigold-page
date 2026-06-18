@@ -16,11 +16,11 @@ BSSAP-LE je rozšíření protokolu BSSAP, které umožňuje služby lokalizace 
 
 ## Popis
 
-BSSAP-LE (Base Station System Application Part Location Services Extension) je klíčový protokol v architektuře GSM, který rozšiřuje standardní protokol [BSSAP](/mobilnisite/slovnik/bssap/) o podporu služeb lokalizace ([LCS](/mobilnisite/slovnik/lcs/)). Funguje jako aplikační protokol v systému základnových stanic [BSS](/mobilnisite/slovnik/bss/), který umožňuje komunikaci mezi střediskem SMLC (Serving Mobile Location Center) a řadičem [BSC](/mobilnisite/slovnik/bsc/) (Base Station Controller) pro určování polohy mobilního zařízení. Protokol je definován v 3GPP specifikacích 03.071 a 43.059, které podrobně popisují funkční požadavky a signalizační procedury pro služby lokalizace v sítích GSM.
+BSSAP-LE (Base Station System Application Part Location Services Extension) je klíčový protokol v architektuře GSM, který rozšiřuje standardní protokol [BSSAP](/mobilnisite/slovnik/bssap/) o podporu služeb lokalizace ([LCS](/mobilnisite/slovnik/lcs/)). Funguje jako aplikační protokol v systému základnových stanic [BSS](/mobilnisite/slovnik/bss/), který umožňuje komunikaci mezi střediskem [SMLC](/mobilnisite/slovnik/smlc/) (Serving Mobile Location Center) a řadičem [BSC](/mobilnisite/slovnik/bsc/) (Base Station Controller) pro určování polohy mobilního zařízení. Protokol je definován v 3GPP specifikacích 03.071 a 43.059, které podrobně popisují funkční požadavky a signalizační procedury pro služby lokalizace v sítích GSM.
 
 Architektura protokolu představuje BSSAP-LE jako rozšíření stávajícího zásobníku protokolu BSSAP, využívající stejné podkladové transportní mechanismy a zároveň přidávající specializované zprávy a procedury pro služby lokalizace. Funguje přes rozhraní A mezi BSC a ústřednou [MSC](/mobilnisite/slovnik/msc/), přičemž MSC funguje jako směrovací bod pro zprávy související s lokalizací mezi SMLC a BSC. Protokol definuje specifické typy zpráv pro polohovací požadavky, hlášení měření a doručování výsledků polohy, což umožňuje přesnou koordinaci mezi síťovými prvky během polohovacích operací.
 
-BSSAP-LE podporuje více polohovacích metod včetně Enhanced Observed Time Difference ([E-OTD](/mobilnisite/slovnik/e-otd/)), Assisted [GPS](/mobilnisite/slovnik/gps/) ([A-GPS](/mobilnisite/slovnik/a-gps/)) a lokalizace založené na Cell-ID. Protokol pokrývá celý životní cyklus polohovací transakce, od počátečního požadavku na polohu až po konečné doručení polohy. Klíčové součásti zahrnují komponentu BSSMAP-LE pro zprávy nesouvisející s okruhy a komponentu DTAP-LE pro zprávy aplikační části přímého přenosu. Protokol řídí časovou synchronizaci, sběr měření a koordinaci výpočtů polohy mezi síťovými prvky.
+BSSAP-LE podporuje více polohovacích metod včetně Enhanced Observed Time Difference ([E-OTD](/mobilnisite/slovnik/e-otd/)), Assisted [GPS](/mobilnisite/slovnik/gps/) (A-GPS) a lokalizace založené na Cell-ID. Protokol pokrývá celý životní cyklus polohovací transakce, od počátečního požadavku na polohu až po konečné doručení polohy. Klíčové součásti zahrnují komponentu BSSMAP-LE pro zprávy nesouvisející s okruhy a komponentu DTAP-LE pro zprávy aplikační části přímého přenosu. Protokol řídí časovou synchronizaci, sběr měření a koordinaci výpočtů polohy mezi síťovými prvky.
 
 Při provozu BSSAP-LE zajišťuje výměnu informací souvisejících s lokalizací mezi SMLC (které řídí výpočty polohy) a BSC (které řídí rádiové zdroje a sběr měření). Když je zahájen požadavek na polohu, zprávy BSSAP-LE koordinují nastavení polohovacích měření, sběr časových informací z více základnových stanic a doručení vypočtených odhadů polohy. Protokol zahrnuje mechanismy zpracování chyb, parametry kvality služby pro přesnost určení polohy a podporu pro požadavky lokalizace iniciované ze sítě i z mobilního zařízení.
 
@@ -46,6 +46,7 @@ Historicky vytvoření BSSAP-LE ve verzi 7 (Release 7) představovalo významný
 ## Související pojmy
 
 - [BSSAP – Base Station Subsystem Application Part](/mobilnisite/slovnik/bssap/)
+- [SMLC – Standalone Mobile Location Center](/mobilnisite/slovnik/smlc/)
 - [LCS – Location Services](/mobilnisite/slovnik/lcs/)
 - [E-OTD – Enhanced Observed Time Difference](/mobilnisite/slovnik/e-otd/)
 - [A-GPS – Assisted Global Positioning System](/mobilnisite/slovnik/a-gps/)

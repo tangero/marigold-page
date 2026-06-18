@@ -16,11 +16,11 @@ DSS1 je signalizační protokol ISDN pro řízení hovorů mezi účastnickým t
 
 ## Popis
 
-Digital Subscriber Signalling System No. 1 (DSS1), standardizovaný [ITU-T](/mobilnisite/slovnik/itu-t/) v sérii Q.930-Q.939 a přijatý 3GPP, je signalizační protokol vrstvy 3 pro kanál D v [ISDN](/mobilnisite/slovnik/isdn/). Funguje mezi koncovým zařízením (TE) nebo terminálovým adaptérem (TA) na straně účastníka a ISDN ústřednou (místní ústřednou - [LE](/mobilnisite/slovnik/le/)) v síti. DSS1 je protokol typu peer-to-peer, který využívá spolehlivou službu spojové vrstvy poskytovanou protokolem [LAPD](/mobilnisite/slovnik/lapd/) (Link Access Procedure on the D-channel, Q.921) na uživatelsko-síťovém rozhraní (UNI).
+Digital Subscriber Signalling System No. 1 (DSS1), standardizovaný [ITU-T](/mobilnisite/slovnik/itu-t/) v sérii Q.930-Q.939 a přijatý 3GPP, je signalizační protokol vrstvy 3 pro kanál D v [ISDN](/mobilnisite/slovnik/isdn/). Funguje mezi koncovým zařízením ([TE](/mobilnisite/slovnik/te/)) nebo terminálovým adaptérem ([TA](/mobilnisite/slovnik/ta/)) na straně účastníka a ISDN ústřednou (místní ústřednou - [LE](/mobilnisite/slovnik/le/)) v síti. DSS1 je protokol typu peer-to-peer, který využívá spolehlivou službu spojové vrstvy poskytovanou protokolem [LAPD](/mobilnisite/slovnik/lapd/) (Link Access Procedure on the D-channel, Q.921) na uživatelsko-síťovém rozhraní ([UNI](/mobilnisite/slovnik/uni/)).
 
-Z architektonického hlediska je DSS1 součástí řídicí roviny pro okruhově přepínané služby. Jeho hlavní funkcí je řízení hovorů, tedy správa navázání, udržování a ukončení okruhově přepínaných spojení (kanálů pro přenos - B-kanály). Používá strukturu orientovanou na zprávy s klíčovými zprávami jako SETUP, CALL PROCEEDING, ALERTING, CONNECT a DISCONNECT. Kromě základního řízení hovorů podporuje DSS1 bohatou sadu doplňkových služeb prostřednictvím informačních prvků typu facility a specifických zpráv. Mezi ně patří přesměrování hovorů, čekání na hovor, prezentace/omezence identifikace volající linky ([CLIP](/mobilnisite/slovnik/clip/)/[CLIR](/mobilnisite/slovnik/clir/)) a signalizace mezi uživateli (UUS).
+Z architektonického hlediska je DSS1 součástí řídicí roviny pro okruhově přepínané služby. Jeho hlavní funkcí je řízení hovorů, tedy správa navázání, udržování a ukončení okruhově přepínaných spojení (kanálů pro přenos - B-kanály). Používá strukturu orientovanou na zprávy s klíčovými zprávami jako SETUP, CALL PROCEEDING, ALERTING, CONNECT a DISCONNECT. Kromě základního řízení hovorů podporuje DSS1 bohatou sadu doplňkových služeb prostřednictvím informačních prvků typu facility a specifických zpráv. Mezi ně patří přesměrování hovorů, čekání na hovor, prezentace/omezence identifikace volající linky ([CLIP](/mobilnisite/slovnik/clip/)/CLIR) a signalizace mezi uživateli (UUS).
 
-V kontextech 3GPP byla role DSS1 především ve vzájemném propojení mezi mobilními jádrovými sítěmi (jako [MSC](/mobilnisite/slovnik/msc/)) a pevnými ISDN sítěmi. Zatímco nativní mobilní signalizace 3GPP je založena na [MAP](/mobilnisite/slovnik/map/) (pro jádro) a RRC/NAS (pro přístup), DSS1 je odkazováno pro scénáře, kdy GSM/UMTS MSC potřebuje komunikovat s PSTN/ISDN pomocí ISDN User Part (ISUP) nebo přímo emulovat chování ISDN terminálu. Jeho zařazení do specifikací 3GPP (např. o účtování a vzájemném propojení) zajišťuje kompatibilitu a hladkou interoperabilitu s rozsáhlou instalovanou základnou pevné ISDN infrastruktury během přechodu na plně IP sítě.
+V kontextech 3GPP byla role DSS1 především ve vzájemném propojení mezi mobilními jádrovými sítěmi (jako MSC) a pevnými ISDN sítěmi. Zatímco nativní mobilní signalizace 3GPP je založena na MAP (pro jádro) a RRC/NAS (pro přístup), DSS1 je odkazováno pro scénáře, kdy GSM/UMTS MSC potřebuje komunikovat s PSTN/ISDN pomocí ISDN User Part (ISUP) nebo přímo emulovat chování ISDN terminálu. Jeho zařazení do specifikací 3GPP (např. o účtování a vzájemném propojení) zajišťuje kompatibilitu a hladkou interoperabilitu s rozsáhlou instalovanou základnou pevné ISDN infrastruktury během přechodu na plně IP sítě.
 
 ## K čemu slouží
 
@@ -42,6 +42,7 @@ V rámci 3GPP je na DSS1 odkazováno pro řešení problému vzájemného propoj
 - [ISUP – MIME ISDN User Part Multi-purpose Internet Mail Extension](/mobilnisite/slovnik/isup/)
 - [LAPD – Link Access Procedure on the D-channel](/mobilnisite/slovnik/lapd/)
 - [ISDN – Integrated Services Digital Network](/mobilnisite/slovnik/isdn/)
+- [SIP – Session Initiation Protocol](/mobilnisite/slovnik/sip/)
 
 ## Definující specifikace
 

@@ -16,13 +16,13 @@ ATCF je síťový prvek 3GPP, který v IMS kotví hovor za účelem řízení pl
 
 ## Popis
 
-Access Transfer Control Function (ATCF) je klíčová komponenta v architektuře IP Multimedia Subsystem (IMS) dle 3GPP, konkrétně navržená pro usnadnění operací Voice Call Continuity (VCC) a Single Radio Voice Call Continuity (SRVCC). Funkčně je umístěna jako Session Border Controller (SBC) uvnitř jádra IMS, ATCF slouží jako kotvicí bod pro média a signalizaci během aktivních hlasových relací. Když uživatelské zařízení (UE) zahájí nebo přijme hlasový hovor, ATCF se stane pevným bodem v síti IMS, který zpracovává všechny následné přenosy přístupu, a zajišťuje, že vzdálená strana nezaznamená žádné změny v podkladové síti.
+Access Transfer Control Function (ATCF) je klíčová komponenta v architektuře IP Multimedia Subsystem (IMS) dle 3GPP, konkrétně navržená pro usnadnění operací Voice Call Continuity ([VCC](/mobilnisite/slovnik/vcc/)) a Single Radio Voice Call Continuity ([SRVCC](/mobilnisite/slovnik/srvcc/)). Funkčně je umístěna jako Session Border Controller (SBC) uvnitř jádra IMS, ATCF slouží jako kotvicí bod pro média a signalizaci během aktivních hlasových relací. Když uživatelské zařízení (UE) zahájí nebo přijme hlasový hovor, ATCF se stane pevným bodem v síti IMS, který zpracovává všechny následné přenosy přístupu, a zajišťuje, že vzdálená strana nezaznamená žádné změny v podkladové síti.
 
-Architektonicky se ATCF skládá ze dvou hlavních komponent: samotné Access Transfer Control Function a Access Transfer Gateway ([ATGW](/mobilnisite/slovnik/atgw/)). ATCF zpracovává signalizační rovinu, řídí řízení SIP relací a koordinuje s dalšími prvky IMS, jako je Serving-Call Session Control Function (S-CSCF) a Access Transfer Signaling Function (ATSF). ATGW funguje v rovině médií, kotví přenosovou cestu médií a provádí potřebné funkce pro vzájemné propojení médií. Toto oddělení umožňuje efektivní zpracování operací řídicí i uživatelské roviny během složitých scénářů předávání.
+Architektonicky se ATCF skládá ze dvou hlavních komponent: samotné Access Transfer Control Function a Access Transfer Gateway ([ATGW](/mobilnisite/slovnik/atgw/)). ATCF zpracovává signalizační rovinu, řídí řízení [SIP](/mobilnisite/slovnik/sip/) relací a koordinuje s dalšími prvky IMS, jako je Serving-Call Session Control Function ([S-CSCF](/mobilnisite/slovnik/s-cscf/)) a Access Transfer Signaling Function (ATSF). ATGW funguje v rovině médií, kotví přenosovou cestu médií a provádí potřebné funkce pro vzájemné propojení médií. Toto oddělení umožňuje efektivní zpracování operací řídicí i uživatelské roviny během složitých scénářů předávání.
 
 Během provozu ATCF implementuje několik klíčových procedur. Když se UE zaregistruje v síti IMS, S-CSCF identifikuje potřebu funkce SRVCC a vybere vhodnou ATCF. ATCF se poté vloží do signalizační cesty a zřídí ATGW v přenosové cestě médií. Během aktivního hlasového hovoru, pokud UE detekuje zhoršující se pokrytí LTE a potřebuje předat spojení do okruhově spínané sítě 2G/3G, ATCF koordinuje s Mobility Management Entity ([MME](/mobilnisite/slovnik/mme/)) a Mobile Switching Center ([MSC](/mobilnisite/slovnik/msc/)) provedení procedury SRVCC. Řídí přenos relace, aktualizuje přenosovou cestu médií vzdálené strany tak, aby směřovala k ATGW, a zajišťuje, že během přechodu nedojde k přerušení médií.
 
-ATCF je propojena s mnoha síťovými prvky prostřednictvím standardizovaných referenčních bodů. Klíčová rozhraní zahrnují rozhraní Mw se S-CSCF pro SIP signalizaci, rozhraní [I2](/mobilnisite/slovnik/i2/) s MSC Server pro koordinaci SRVCC a interní rozhraní mezi komponentami ATCF a ATGW. Interaguje také s Policy and Charging Rules Function (PCRF) pro správu kvality služeb a s Home Subscriber Server ([HSS](/mobilnisite/slovnik/hss/)) pro data účastníka. Tato komplexní integrace umožňuje ATCF udržovat kontinuitu relace při zachování bezpečnosti, účtování a vynucování politik napříč různými přístupovými technologiemi.
+ATCF je propojena s mnoha síťovými prvky prostřednictvím standardizovaných referenčních bodů. Klíčová rozhraní zahrnují rozhraní Mw se S-CSCF pro SIP signalizaci, rozhraní [I2](/mobilnisite/slovnik/i2/) s MSC Server pro koordinaci SRVCC a interní rozhraní mezi komponentami ATCF a ATGW. Interaguje také s Policy and Charging Rules Function (PCRF) pro správu kvality služeb a s Home Subscriber Server (HSS) pro data účastníka. Tato komplexní integrace umožňuje ATCF udržovat kontinuitu relace při zachování bezpečnosti, účtování a vynucování politik napříč různými přístupovými technologiemi.
 
 ## K čemu slouží
 
@@ -43,6 +43,7 @@ ATCF řeší několik omezení předchozích přístupů. Počáteční implemen
 
 ## Související pojmy
 
+- [SRVCC – Single Radio Voice Call Continuity](/mobilnisite/slovnik/srvcc/)
 - [IMS – IP Multimedia Subsystem](/mobilnisite/slovnik/ims/)
 - [ATGW – Access Transfer Gateway](/mobilnisite/slovnik/atgw/)
 - [CSCF – Call Session Control Function](/mobilnisite/slovnik/cscf/)

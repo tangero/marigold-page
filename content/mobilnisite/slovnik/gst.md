@@ -16,9 +16,9 @@ GST je standardizovaný datový model, který definuje charakteristiky a požada
 
 ## Popis
 
-Generic Network Slice Template (GST) je klíčový datový model v rámci standardů 3GPP, speciálně navržený pro správu a orchestraci síťových řezů. Slouží jako standardizovaná, strojově čitelná šablona, která popisuje kompletní sadu atributů, požadavků a omezení instance síťového řezu (NSI). GST je definován pomocí datového modelovacího jazyka YANG, což zajišťuje jeho strukturovanost, hierarchičnost a vhodnost pro automatizované zpracování systémy řízení, jako je Communication Service Management Function (CSMF), Network Slice Management Function (NSMF) a Network Slice Subnet Management Function (NSSMF). Jeho primární rolí je fungovat jako informační objekt, který je předáván mezi těmito řídicími funkcemi během procesů zřizování, modifikace a zajištění (assurance) řezu.
+Generic Network Slice Template (GST) je klíčový datový model v rámci standardů 3GPP, speciálně navržený pro správu a orchestraci síťových řezů. Slouží jako standardizovaná, strojově čitelná šablona, která popisuje kompletní sadu atributů, požadavků a omezení instance síťového řezu ([NSI](/mobilnisite/slovnik/nsi/)). GST je definován pomocí datového modelovacího jazyka YANG, což zajišťuje jeho strukturovanost, hierarchičnost a vhodnost pro automatizované zpracování systémy řízení, jako je Communication Service Management Function (CSMF), Network Slice Management Function ([NSMF](/mobilnisite/slovnik/nsmf/)) a Network Slice Subnet Management Function (NSSMF). Jeho primární rolí je fungovat jako informační objekt, který je předáván mezi těmito řídicími funkcemi během procesů zřizování, modifikace a zajištění (assurance) řezu.
 
-Z architektonického hlediska je GST klíčovou součástí rámce správy síťového řezování 3GPP, detailně popsaného v technických specifikacích jako TS 28.531 a TS 28.541. Abstrahuje komplexní, vícedoménovou povahu řezu do podoby spravovatelné šablony. Šablona zahrnuje několik klíčových oblastí: služební profil (definující zamýšlený typ služby řezu, např. eMBB, URLLC, MIoT), požadavky na podsíť síťového řezu (podrobně specifikující potřebné zdroje a výkon napříč doménami RAN, Transport a Core Network) a požadavky na výkon a politiky řezu (včetně latence, spolehlivosti, propustnosti a úrovní izolace). Tento strukturovaný přístup umožňuje systému řízení rozložit požadavek na službu vysoké úrovně na konkrétní, akční konfigurační příkazy pro podkladové síťové funkce a infrastrukturu.
+Z architektonického hlediska je GST klíčovou součástí rámce správy síťového řezování 3GPP, detailně popsaného v technických specifikacích jako TS 28.531 a TS 28.541. Abstrahuje komplexní, vícedoménovou povahu řezu do podoby spravovatelné šablony. Šablona zahrnuje několik klíčových oblastí: služební profil (definující zamýšlený typ služby řezu, např. eMBB, [URLLC](/mobilnisite/slovnik/urllc/), MIoT), požadavky na podsíť síťového řezu (podrobně specifikující potřebné zdroje a výkon napříč doménami RAN, Transport a Core Network) a požadavky na výkon a politiky řezu (včetně latence, spolehlivosti, propustnosti a úrovní izolace). Tento strukturovaný přístup umožňuje systému řízení rozložit požadavek na službu vysoké úrovně na konkrétní, akční konfigurační příkazy pro podkladové síťové funkce a infrastrukturu.
 
 V provozu GST umožňuje uzavřenou smyčku řízení založeného na záměru (intent-based). Poskytovatel komunikačních služeb ([CSP](/mobilnisite/slovnik/csp/)) nebo podnikový zákazník odešle požadavek na službu, často prostřednictvím portálu nebo northbound [API](/mobilnisite/slovnik/api/), který je převeden na instanci GST. Tuto GST poté spotřebovává NSMF, který interpretuje požadavky a orchestruje potřebné zdroje napříč různými administrativními a technologickými doménami generováním doménově specifických podšablon pro NSSMF. GST zajišťuje konzistenci a předchází nesprávné interpretaci tím, že poskytuje jediný zdroj pravdy o zamýšleném chování řezu. Je nedílnou součástí pro dosažení slibovaných výhod síťového řezování: přizpůsobených logických sítí na sdílené fyzické infrastruktuře, z nichž každá má garantovaný výkon a izolaci.
 
@@ -36,6 +36,10 @@ Historicky byly síťové služby relativně monolitické a vytváření služeb
 - Definice politik izolace a sdílení zdrojů
 - Podpora pro vícedoménovou dekompozici (RAN, Transport, Core)
 - Umožňuje uzavřenou smyčku automatizace pro správu životního cyklu řezu
+
+## Související pojmy
+
+- [NSMF – Network Slice Management Function](/mobilnisite/slovnik/nsmf/)
 
 ## Definující specifikace
 

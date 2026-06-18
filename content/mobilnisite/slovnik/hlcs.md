@@ -18,7 +18,7 @@ HLCS je systém pro řízení testovacích zařízení v laboratoři za účelem
 
 Host Laboratory Control System (HLCS) je standardizovaný rámec specifikovaný v 3GPP pro automatizaci a řízení testovacích zařízení v laboratoři pro testování shody. Slouží jako centrální řadič, který řídí provádění testů, spravuje testovací zařízení (jako jsou generátory signálů, analyzátory a rozhraní pro testované zařízení) a zajišťuje sekvencování testovacích případů podle definice v testovacích specifikacích 3GPP. HLCS komunikuje s různými komponentami testovacího systému pomocí standardizovaných protokolů a rozhraní, čímž zajišťuje konzistentní, opakovatelné a s požadavky 3GPP sladěné testovací prostředí. Jeho hlavní rolí je odstranit manuální zásahy a závislosti na konkrétních dodavatelích v testovacím procesu, čímž zvyšuje efektivitu, spolehlivost a reprodukovatelnost testů shody pro uživatelské zařízení (UE) a síťovou infrastrukturu.
 
-Z architektonického hlediska HLCS typicky komunikuje s Test Control and Management System (TCMS), který může poskytovat vyšší úroveň správy testů, a s konkrétními testovacími zařízeními prostřednictvím adaptérů nebo ovladačů. Systém provádí testovací skripty napsané ve standardizovaných jazycích, jako je TTCN-3 (Testing and Test Control Notation version 3) pro testování protokolů. Je zodpovědný za konfiguraci testovacích zařízení tak, aby emulovala specifické síťové podmínky (např. rádiové parametry, signalizaci v jádře sítě), za vydávání pokynů testovanému zařízení ([DUT](/mobilnisite/slovnik/dut/)) a za sběr výsledků. HLCS ověřuje, zda odpovědi DUT odpovídají očekávanému chování popsanému ve standardech 3GPP, a pokrývá oblasti od správy rádiových zdrojů až po procedury protokolů vyšších vrstev.
+Z architektonického hlediska HLCS typicky komunikuje s Test Control and Management System (TCMS), který může poskytovat vyšší úroveň správy testů, a s konkrétními testovacími zařízeními prostřednictvím adaptérů nebo ovladačů. Systém provádí testovací skripty napsané ve standardizovaných jazycích, jako je [TTCN-3](/mobilnisite/slovnik/ttcn-3/) (Testing and Test Control Notation version 3) pro testování protokolů. Je zodpovědný za konfiguraci testovacích zařízení tak, aby emulovala specifické síťové podmínky (např. rádiové parametry, signalizaci v jádře sítě), za vydávání pokynů testovanému zařízení ([DUT](/mobilnisite/slovnik/dut/)) a za sběr výsledků. HLCS ověřuje, zda odpovědi DUT odpovídají očekávanému chování popsanému ve standardech 3GPP, a pokrývá oblasti od správy rádiových zdrojů až po procedury protokolů vyšších vrstev.
 
 Specifikace HLCS, detailně popsaná v dokumentu 3GPP TS 46.008, definuje požadavky, rozhraní a provozní postupy. Ačkoli nejde o síťový prvek nasazovaný v komerčních sítích, HLCS je klíčovou součástí ekosystému pro certifikaci a typové schvalování. Zajišťuje, že zařízení před uvedením na trh projde důkladným testováním, které garantuje jeho správnou funkci v reálných sítích po celém světě, a předchází tak problémům s interoperabilitou, které by mohly degradovat výkon sítě nebo uživatelský zážitek. Jeho návrh klade důraz na modularitu, což laboratořím umožňuje integrovat zařízení od různých dodavatelů při zachování jednotné řídicí vrstvy.
 
@@ -36,6 +36,10 @@ Historicky, bez standardizovaného řídicího systému, každý dodavatel testo
 - Definovaná rozhraní pro integraci testovacích zařízení od více dodavatelů
 - Správa testovací konfigurace, provádění testů a zaznamenávání výsledků
 - Zajišťuje opakovatelné a konzistentní testovací podmínky napříč laboratořemi
+
+## Související pojmy
+
+- [TTCN-3 – Testing and Test Control Notation version 3](/mobilnisite/slovnik/ttcn-3/)
 
 ## Definující specifikace
 

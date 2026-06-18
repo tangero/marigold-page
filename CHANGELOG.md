@@ -8,6 +8,7 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
 ## [Unreleased]
 
 ### Added
+- Slovník 3GPP: generátor SVG infografik `scripts/generate_infographics.py` — dvoukrokově (destilace českého popisu → SVG diagram) přes OpenRouter (Claude Sonnet). SVG má nativní text, takže čeština vč. diakritiky je bezchybná (obrazové modely text komolí), je ostré a malé. Jednotný „house-style" (paleta #2563EB/#EA580C/#16A34A, layout zleva doprava, legenda). Ručně udržovaný allowlist `scripts/infographic-terms.txt`. Pilot: amf, 5gc, nssf
 - Slovník 3GPP: podpora infografiky/schématu u pojmu — nové front-matter pole `infografika` zobrazí obrázek za úvodní definicí, před sekcí „Popis" (`layouts/slovnik/single.html`, styly `.slovnik-infografika` vč. dark mode). Pilot: schéma principu kodeku ACELP (`/assets/slovnik/acelp.jpg`)
 - Slovník 3GPP: dvouvrstvá „nořící se" navigace přehledu (`layouts/slovnik/list.html`) — místo jednoho dlouhého seznamu všech 2756 pojmů jsou pojmy sbalené do accordionu **vrstva sítě (segment) → kategorie → pojmy**. Výchozí stav sbalený (krátká stránka), klik rozbalí. Vyhledávání filtruje napříč vším a automaticky rozbaluje sekce s výsledkem. Zařazení jen z dokladovatelných dat (`segment` 99 %, `category` 100 %); generační osa zamítnuta, protože ji zdrojová data neunesou spolehlivě
 - Slovník 3GPP: počeštění dalších kategorií (Rozhraní, Mobilita, Internet věcí) v `layouts/partials/slovnik-kategorie.html`
@@ -37,6 +38,7 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
 - Statický reklamní banner Vibecoding Talks (`vt-06-2026`) pod hodnocením článku v `layouts/posts/single.html` — duplicitní s dynamickým bannerem nahoře v článku
 
 ### Changed
+- Slovník 3GPP: aktualizace křížového prolinkování napříč pojmy (novější běh generátoru z 3gpp-explorer2 — víc termů má český překlad, takže se rozsvítilo víc interních odkazů)
 - `/aiprace`: statický banner workshopu (Claude Code, 13. 4. 2026) nahrazen dynamickým bannerem aktuální akce z `vibecoding.cz` API
 - `workshop-banner.html` partial refaktorován — inline skript vytažen do sdíleného `static/js/promo-banner.js`
 - Přidány UTM tagy na všechny odkazy v článku `prirucka-ai-ve-firmach-zdarma` (kampań `ai-prirucka`)

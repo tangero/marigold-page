@@ -18,9 +18,9 @@ CDMA je metoda přístupu k rádiovému kanálu pro sítě 2G a 3G, při které 
 
 Code Division [Multiple Access](/mobilnisite/slovnik/multiple-access/) (CDMA) je metoda vícenásobného přístupu s rozprostřeným spektrem, která je základem standardů 2G cdmaOne (IS-95) a 3G CDMA2000. Funguje na principu umožňujícím více vysílačům současně přenášet informace přes jeden komunikační kanál. Toho je dosaženo rozprostřením signálu každého uživatele přes širší šířku pásma pomocí unikátního pseudonáhodného rozprostíracího kódu. V přijímači je požadovaný signál obnoven korelací přijatého složeného signálu se stejným specifickým kódem, zatímco signály od ostatních uživatelů se jeví jako nízká úroveň šumu díky ortogonalitě nebo nízké vzájemné korelaci kódů. Tento proces je znám jako despreading (sbíhání spektra).
 
-Z architektonického hlediska se síť založená na CDMA skládá z mobilních stanic ([MS](/mobilnisite/slovnik/ms/)), základnových převodových stanic ([BTS](/mobilnisite/slovnik/bts/)), řadičů základnových stanic ([BSC](/mobilnisite/slovnik/bsc/)) a mobilní ústředny ([MSC](/mobilnisite/slovnik/msc/)). Rádiové rozhraní je charakterizováno použitím přímé sekvence s rozprostřeným spektrem (DSSS). Mezi klíčové komponenty fyzické vrstvy patří Walshovy kódy pro kanálizaci (zajišťující ortogonalitu mezi uživateli na dopředném spoji) a dlouhé pseudonáhodné (PN) sekvence pro skramblování a identifikaci uživatele. Řízení výkonu je kritický podsystém, který neustále upravuje vysílací výkon mobilní stanice, aby všechny signály dorazily k základnové stanici s téměř stejným výkonem, čímž zmírňuje problém blízký-vzdálený a maximalizuje kapacitu.
+Z architektonického hlediska se síť založená na CDMA skládá z mobilních stanic ([MS](/mobilnisite/slovnik/ms/)), základnových převodových stanic ([BTS](/mobilnisite/slovnik/bts/)), řadičů základnových stanic ([BSC](/mobilnisite/slovnik/bsc/)) a mobilní ústředny ([MSC](/mobilnisite/slovnik/msc/)). Rádiové rozhraní je charakterizováno použitím přímé sekvence s rozprostřeným spektrem (DSSS). Mezi klíčové komponenty fyzické vrstvy patří Walshovy kódy pro kanálizaci (zajišťující ortogonalitu mezi uživateli na dopředném spoji) a dlouhé pseudonáhodné ([PN](/mobilnisite/slovnik/pn/)) sekvence pro skramblování a identifikaci uživatele. Řízení výkonu je kritický podsystém, který neustále upravuje vysílací výkon mobilní stanice, aby všechny signály dorazily k základnové stanici s téměř stejným výkonem, čímž zmírňuje problém blízký-vzdálený a maximalizuje kapacitu.
 
-V síti je úlohou CDMA poskytnout základní rádiový spoj pro hlasové a datové služby. Její inherentní vlastnosti, jako je faktor frekvenčního opakování 1 (každá buňka používá stejnou frekvenci), měkký předávání hovoru (soft handoff, kdy mobil komunikuje s více buňkami během přechodu) a odolnost vůči vícecestnému útlumu pomocí RAKE přijímačů, přímo přispívají ke zvýšené spektrální účinnosti, kvalitě hovoru a síťové kapacitě. Tyto technické atributy z ní učinily konkurenceschopnou a robustní alternativu k převládající technologické cestě GSM/Time Division Multiple Access (TDMA) v 90. letech a na počátku 21. století.
+V síti je úlohou CDMA poskytnout základní rádiový spoj pro hlasové a datové služby. Její inherentní vlastnosti, jako je faktor frekvenčního opakování 1 (každá buňka používá stejnou frekvenci), měkký předávání hovoru (soft handoff, kdy mobil komunikuje s více buňkami během přechodu) a odolnost vůči vícecestnému útlumu pomocí RAKE přijímačů, přímo přispívají ke zvýšené spektrální účinnosti, kvalitě hovoru a síťové kapacitě. Tyto technické atributy z ní učinily konkurenceschopnou a robustní alternativu k převládající technologické cestě GSM/Time Division Multiple Access ([TDMA](/mobilnisite/slovnik/tdma/)) v 90. letech a na počátku 21. století.
 
 ## K čemu slouží
 
@@ -36,6 +36,11 @@ CDMA tyto problémy vyřešila tím, že umožnila všem uživatelům obsadit ce
 - Schopnost měkkého předávání hovoru (soft handoff) pro plynulou mobilitu mezi buňkami
 - RAKE přijímač pro kombinaci vícecestných složek signálu a potlačení útlumu
 - Statistické multiplexování umožňující flexibilní kompromis mezi kapacitou a kvalitou signálu
+
+## Související pojmy
+
+- [WCDMA – Wideband Code Division Multiple Access](/mobilnisite/slovnik/wcdma/)
+- [UMTS – Universal Mobile Telecommunications System](/mobilnisite/slovnik/umts/)
 
 ## Definující specifikace
 

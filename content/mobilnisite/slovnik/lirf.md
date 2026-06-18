@@ -16,9 +16,9 @@ LIRF je síťová funkce, která přeposílá informace o poloze mezi uživatels
 
 ## Popis
 
-Location Information Relay Function (LIRF) je funkční entita definovaná v architektuře 3GPP, konkrétně popsaná v TS 25.305 pro UTRAN (UMTS Terrestrial Radio Access Network). Jejím hlavním úkolem je sloužit jako přenosový bod pro signalizaci a data související s polohou mezi mobilním zařízením a infrastrukturou služeb polohy v jádru sítě. Samotnou polohu nepočítá, ale je klíčová pro přenos nezbytných informací, jako jsou měřicí reporty nebo pomocná data, vyžadovaných metodami určování polohy, jako je Observed Time Difference Of Arrival ([OTDOA](/mobilnisite/slovnik/otdoa/)) nebo Assisted [GNSS](/mobilnisite/slovnik/gnss/) ([A-GNSS](/mobilnisite/slovnik/a-gnss/)).
+Location Information Relay Function (LIRF) je funkční entita definovaná v architektuře 3GPP, konkrétně popsaná v TS 25.305 pro [UTRAN](/mobilnisite/slovnik/utran/) (UMTS Terrestrial Radio Access Network). Jejím hlavním úkolem je sloužit jako přenosový bod pro signalizaci a data související s polohou mezi mobilním zařízením a infrastrukturou služeb polohy v jádru sítě. Samotnou polohu nepočítá, ale je klíčová pro přenos nezbytných informací, jako jsou měřicí reporty nebo pomocná data, vyžadovaných metodami určování polohy, jako je Observed Time Difference Of Arrival ([OTDOA](/mobilnisite/slovnik/otdoa/)) nebo Assisted [GNSS](/mobilnisite/slovnik/gnss/) ([A-GNSS](/mobilnisite/slovnik/a-gnss/)).
 
-Z architektonického hlediska je LIRF typicky implementována v rámci Radio Network Controller (RNC) v síti UMTS. Rozhraní k UE zajišťuje přes rádiové rozhraní Uu a k serveru polohy v jádru sítě, často Serving Mobile Location Centre (SMLC) nebo Gateway Mobile Location Centre ([GMLC](/mobilnisite/slovnik/gmlc/)), přes rozhraní Iupc. Funkce zajišťuje adaptaci protokolů a směrování zpráv, čímž zaručuje, že požadavky na polohu ze sítě jsou doručeny k UE a že měření polohy nebo schopnosti UE jsou spolehlivě reportovány zpět.
+Z architektonického hlediska je LIRF typicky implementována v rámci Radio Network Controller ([RNC](/mobilnisite/slovnik/rnc/)) v síti UMTS. Rozhraní k UE zajišťuje přes rádiové rozhraní Uu a k serveru polohy v jádru sítě, často Serving Mobile Location Centre ([SMLC](/mobilnisite/slovnik/smlc/)) nebo Gateway Mobile Location Centre ([GMLC](/mobilnisite/slovnik/gmlc/)), přes rozhraní Iupc. Funkce zajišťuje adaptaci protokolů a směrování zpráv, čímž zaručuje, že požadavky na polohu ze sítě jsou doručeny k UE a že měření polohy nebo schopnosti UE jsou spolehlivě reportovány zpět.
 
 Při provozu, když je spuštěna služba polohy (např. pro tísňové volání), přijme LIRF požadavek na polohu z jádra sítě. Poté iniciuje s UE příslušné procedury určování polohy, které mohou zahrnovat zaslání pomocných dat k UE pro zlepšení rychlosti a přesnosti určení polohy. UE provede požadovaná měření (např. satelitních signálů nebo časování sousedních buněk) a odešle měřicí report zpět přes LIRF. LIRF přepošle tato nezpracovaná data na server polohy, kde proběhne vlastní výpočet polohy. Toto oddělení přenosové a výpočetní funkce umožňuje optimalizovanou síťovou architekturu a podporuje různé technologie určování polohy.
 
@@ -43,6 +43,7 @@ K jejímu vytvoření motivovala rostoucí regulatorní a komerční poptávka p
 
 ## Související pojmy
 
+- [SMLC – Standalone Mobile Location Center](/mobilnisite/slovnik/smlc/)
 - [GMLC – Gateway Mobile Location Center](/mobilnisite/slovnik/gmlc/)
 - [OTDOA – Observed Time Difference Of Arrival](/mobilnisite/slovnik/otdoa/)
 

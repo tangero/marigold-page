@@ -16,11 +16,11 @@ OT (Operační technologie) je hardwarový a softwarový systém, který monitor
 
 ## Popis
 
-V kontextu 3GPP se termín Operační technologie (OT) vztahuje k oblasti hardwaru a softwaru určeného k detekci, monitorování a řízení fyzických zařízení, procesů a událostí v průmyslovém prostředí. Na rozdíl od tradiční informační technologie ([IT](/mobilnisite/slovnik/it/)), která se zabývá výpočty zaměřenými na data, jsou systémy OT přímo propojeny s fyzickým světem prostřednictvím senzorů, aktuátorů, programovatelných logických řídicích systémů (PLC) a průmyslových řídicích systémů (ICS). Práce 3GPP v oblasti OT se zaměřuje na to, jak mohou sítě 5G a novější spolehlivě a bezpečně propojovat tyto OT prvky, aby umožnily transformační průmyslové aplikace.
+V kontextu 3GPP se termín Operační technologie (OT) vztahuje k oblasti hardwaru a softwaru určeného k detekci, monitorování a řízení fyzických zařízení, procesů a událostí v průmyslovém prostředí. Na rozdíl od tradiční informační technologie ([IT](/mobilnisite/slovnik/it/)), která se zabývá výpočty zaměřenými na data, jsou systémy OT přímo propojeny s fyzickým světem prostřednictvím senzorů, aktuátorů, programovatelných logických řídicích systémů ([PLC](/mobilnisite/slovnik/plc/)) a průmyslových řídicích systémů ([ICS](/mobilnisite/slovnik/ics/)). Práce 3GPP v oblasti OT se zaměřuje na to, jak mohou sítě 5G a novější spolehlivě a bezpečně propojovat tyto OT prvky, aby umožnily transformační průmyslové aplikace.
 
-Integrace OT se sítěmi 5G zahrnuje několik architektonických aspektů. Zařízení OT se stávají uživatelskými zařízeními (UE) připojenými k systému 5G. Síť 5G musí poskytovat konektivní služby, které splňují přísné požadavky OT, jako je komunikace s ultra-spolehlivým nízkým zpožděním (URLLC), integrace s časově citlivými sítěmi (TSN) a přesné určování polohy. Toho je často dosaženo prostřednictvím neveřejných sítí ([NPN](/mobilnisite/slovnik/npn/)) nebo síťového řezání, kdy jsou pro průmyslový areál vytvářeny vyhrazené logické sítě se specifickými vlastnostmi. Mezi klíčová architektonická vylepšení 3GPP patří podpora průmyslových protokolů založených na Ethernetu přes 5G, mechanismy pro synchronizaci hodin (např. prostřednictvím systému 5G jako mostu TSN) a vylepšené rámce QoS pro zaručení deterministického výkonu.
+Integrace OT se sítěmi 5G zahrnuje několik architektonických aspektů. Zařízení OT se stávají uživatelskými zařízeními (UE) připojenými k systému 5G. Síť 5G musí poskytovat konektivní služby, které splňují přísné požadavky OT, jako je komunikace s ultra-spolehlivým nízkým zpožděním ([URLLC](/mobilnisite/slovnik/urllc/)), integrace s časově citlivými sítěmi ([TSN](/mobilnisite/slovnik/tsn/)) a přesné určování polohy. Toho je často dosaženo prostřednictvím neveřejných sítí ([NPN](/mobilnisite/slovnik/npn/)) nebo síťového řezání, kdy jsou pro průmyslový areál vytvářeny vyhrazené logické sítě se specifickými vlastnostmi. Mezi klíčová architektonická vylepšení 3GPP patří podpora průmyslových protokolů založených na Ethernetu přes 5G, mechanismy pro synchronizaci hodin (např. prostřednictvím systému 5G jako mostu TSN) a vylepšené rámce QoS pro zaručení deterministického výkonu.
 
-Princip fungování spočívá v tom, že systém 5G slouží jako komunikační páteř pro OT. Data ze senzorů (např. teploty, tlaku, vizuálních systémů) jsou přenášena prostřednictvím 5G do řídicích systémů. Řídicí příkazy jsou následně odesílány zpět přes 5G k aktuátorům (např. robotickým ramenům, ventilům) s minimálním a předvídatelným zpožděním. Jádrová síť 5G, zejména funkce uživatelské roviny ([UPF](/mobilnisite/slovnik/upf/)), může být nasazena lokálně v továrně (edge computing) za účelem lokalizace provozu a snížení latence. Správa a orchestrace těchto integrací OT-5G jsou zajišťovány vylepšenými funkcemi [OSS](/mobilnisite/slovnik/oss/)/[BSS](/mobilnisite/slovnik/bss/) a správy síťových řezů, což zajišťuje bezpečnost, izolaci a správu životního cyklu průmyslových aplikací.
+Princip fungování spočívá v tom, že systém 5G slouží jako komunikační páteř pro OT. Data ze senzorů (např. teploty, tlaku, vizuálních systémů) jsou přenášena prostřednictvím 5G do řídicích systémů. Řídicí příkazy jsou následně odesílány zpět přes 5G k aktuátorům (např. robotickým ramenům, ventilům) s minimálním a předvídatelným zpožděním. Jádrová síť 5G, zejména funkce uživatelské roviny ([UPF](/mobilnisite/slovnik/upf/)), může být nasazena lokálně v továrně (edge computing) za účelem lokalizace provozu a snížení latence. Správa a orchestrace těchto integrací OT-5G jsou zajišťovány vylepšenými funkcemi [OSS](/mobilnisite/slovnik/oss/)/BSS a správy síťových řezů, což zajišťuje bezpečnost, izolaci a správu životního cyklu průmyslových aplikací.
 
 ## K čemu slouží
 
@@ -36,6 +36,11 @@ Integrace OT do standardů 3GPP byla motivována revolucí Průmysl 4.0, která 
 - Vylepšené služby určování polohy pro sledování aktiv a geofencing
 - Podpora Ethernetu/průmyslových protokolů přes uživatelskou rovinu 5G
 - Síťové řezání pro vyhrazené, izolované logické sítě na OT aplikaci
+
+## Související pojmy
+
+- [URLLC – Ultra Reliable Low Latency Communication](/mobilnisite/slovnik/urllc/)
+- [TSN – AF Time Sensitive Networking Application Function](/mobilnisite/slovnik/tsn/)
 
 ## Definující specifikace
 

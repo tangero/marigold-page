@@ -39,6 +39,10 @@ Historicky byl OFDM úspěšný ve standardech jako IEEE 802.11 (Wi-Fi) a 4G LTE
 - Umožňuje pokročilé víceanténní techniky jako Massive MIMO a beamforming s precodingem ve frekvenční oblasti
 - Přijata jako sjednocená vlnová forma pro downlink i uplink v 5G NR, což zjednodušuje návrh transceiveru
 
+## Související pojmy
+
+- [SC-FDMA – Single Carrier – Frequency Division Multiple Access](/mobilnisite/slovnik/sc-fdma/)
+
 ## Definující specifikace
 
 - **TS 36.108** (Rel-19) — Satellite Access Node RF Requirements

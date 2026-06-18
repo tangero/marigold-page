@@ -39,6 +39,9 @@ Jeho přijetí organizacemi 3GPP a dalšími standardizačními orgány bylo mot
 
 ## Související pojmy
 
+- [QoE – Quality of Experience](/mobilnisite/slovnik/qoe/)
+- [PESQ – Perceptual Evaluation of Speech Quality](/mobilnisite/slovnik/pesq/)
+- [POLQA – Perceptual Objective Listening Quality Assessment](/mobilnisite/slovnik/polqa/)
 - [CODEC – Coder/Decoder](/mobilnisite/slovnik/codec/)
 
 ## Definující specifikace

@@ -16,7 +16,7 @@ CPL je standardizovaný skriptovací jazyk 3GPP pro popis a řízení telefonní
 
 ## Popis
 
-Call Processing Language (CPL) je skriptovací jazyk založený na XML, standardizovaný 3GPP pro popis telefonních služeb v IP Multimedia Subsystem (IMS) a dalších IP telefonních sítích. Tento jazyk poskytuje standardizovaný způsob, jak specifikovat, jak mají být zpracovávány příchozí a odchozí hovory, což umožňuje poskytovatelům služeb implementovat přizpůsobenou logiku zpracování hovorů bez nutnosti proprietárních řešení. Skripty CPL jsou vykonávány síťovými elementy nazývanými CPL servery, které skripty interpretují a aplikují specifikovaná pravidla pro zpracování hovorů na signalizační zprávy SIP.
+Call Processing Language (CPL) je skriptovací jazyk založený na [XML](/mobilnisite/slovnik/xml/), standardizovaný 3GPP pro popis telefonních služeb v IP Multimedia Subsystem (IMS) a dalších IP telefonních sítích. Tento jazyk poskytuje standardizovaný způsob, jak specifikovat, jak mají být zpracovávány příchozí a odchozí hovory, což umožňuje poskytovatelům služeb implementovat přizpůsobenou logiku zpracování hovorů bez nutnosti proprietárních řešení. Skripty CPL jsou vykonávány síťovými elementy nazývanými CPL servery, které skripty interpretují a aplikují specifikovaná pravidla pro zpracování hovorů na signalizační zprávy [SIP](/mobilnisite/slovnik/sip/).
 
 CPL funguje prostřednictvím strukturovaného XML schématu, které definuje různé akce a podmínky pro zpracování hovorů. Jazyk zahrnuje dva hlavní typy uzlů: signalizační akce (jako proxy, přesměrování, odmítnutí) a modifikátory lokace (jako lokace, vyhledání). Tyto uzly lze kombinovat s podmíněnými příkazy založenými na parametrech hovoru, jako je identita volajícího, denní doba, stav přítomnosti nebo volané číslo. Skripty jsou typicky uloženy v databázi uživatelských profilů a staženy na CPL server při potřebě zpracování hovoru.
 
@@ -26,7 +26,7 @@ Role CPL v sítích 3GPP přesahuje základní řízení hovorů a umožňuje po
 
 ## K čemu slouží
 
-CPL byl vytvořen pro řešení potřeby standardizované, na dodavateli nezávislé metody implementace telefonních služeb v IP sítích. Před CPL se poskytovatelé služeb spoléhali na proprietární skriptovací jazyky nebo pevně zabudovanou servisní logiku v síťovém zařízení, což vytvářelo problémy s interoperabilitou a závislost na dodavateli. Nástup telefonie založené na SIP a architektur IMS si vyžádal společný jazyk, který by mohl fungovat napříč zařízeními různých dodavatelů při zachování bezpečnosti a spolehlivosti.
+CPL byl vytvořen pro řešení potřeby standardizované, na dodavateli nezávislé metody implementace telefonních služeb v IP sítích. Před CPL se poskytovatelé služeb spoléhali na proprietární skriptovací jazyky nebo pevně zabudovanou servisní logiku v síťovém zařízení, což vytvářelo problémy s interoperabilitou a závislost na dodavateli. Nástup telefonie založené na [SIP](/mobilnisite/slovnik/sip/) a architektur IMS si vyžádal společný jazyk, který by mohl fungovat napříč zařízeními různých dodavatelů při zachování bezpečnosti a spolehlivosti.
 
 Primární motivací pro vývoj CPL bylo oddělení servisní logiky od síťové infrastruktury, což umožňuje rychlejší nasazení služeb a větší inovace. Tradiční telefonní služby vyžadovaly rozsáhlé testování a integraci s konkrétním zařízením dodavatele, což zpomalovalo uvedení nových funkcí na trh. CPL poskytlo standardizované rozhraní, které umožnilo poskytovatelům služeb vytvářet služby jednou a nasazovat je napříč více-dodavatelskými sítěmi. To bylo obzvláště důležité, protože telekomunikace směřovaly k plně IP sítím, kde služby musely fungovat konzistentně napříč různými přístupovými technologiemi.
 
@@ -44,6 +44,8 @@ CPL také řešilo rostoucí poptávku po službách řízených uživatelem v s
 ## Související pojmy
 
 - [IMS – IP Multimedia Subsystem](/mobilnisite/slovnik/ims/)
+- [SIP – Session Initiation Protocol](/mobilnisite/slovnik/sip/)
+- [XML – Extensible Markup Language](/mobilnisite/slovnik/xml/)
 
 ## Definující specifikace
 

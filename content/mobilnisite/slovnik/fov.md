@@ -24,7 +24,7 @@ Jeho role je klíčová pro umožnění efektivního doručování náročných 
 
 ## K čemu slouží
 
-Standardizace parametrů souvisejících s FOV v 3GPP byla hnací silou nástupu komerčních služeb VR a [AR](/mobilnisite/slovnik/ar/), které vyžadují obrovská množství videodat pro plně imerzivní zážitek. Přenos celých 360stupňových scén v ultra vysokém rozlišení by zahltil kapacitu sítě a výkon zařízení. Účelem definice mechanismů FOV bylo vyřešit tento problém škálovatelnosti.
+Standardizace parametrů souvisejících s FOV v 3GPP byla hnací silou nástupu komerčních služeb [VR](/mobilnisite/slovnik/vr/) a [AR](/mobilnisite/slovnik/ar/), které vyžadují obrovská množství videodat pro plně imerzivní zážitek. Přenos celých 360stupňových scén v ultra vysokém rozlišení by zahltil kapacitu sítě a výkon zařízení. Účelem definice mechanismů FOV bylo vyřešit tento problém škálovatelnosti.
 
 Řeší omezení tradičního streamování videa, které všem uživatelům posílá jediný obdélníkový snímek. Pro imerzivní média je to vysoce neefektivní, protože většina přenášených pixelů leží mimo uživatelův bezprostřední výhled. Začleněním FOV do servisní a transportní vrstvy umožňují standardy 3GPP zásadní posun k doručování závislému na viewportu. Díky tomu jsou vysoce kvalitní, nízkolatenční VR/AR zážitky technicky a ekonomicky proveditelné přes sítě 5G, což podporuje nové případy užití v oblasti her, vzdálené spolupráce, živých událostí a výcviku.
 

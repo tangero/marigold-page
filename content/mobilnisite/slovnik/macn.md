@@ -43,6 +43,7 @@ Použití seznamu Mobile Allocation indexovaného pomocí MACN vyřešilo někol
 - [MAIO – Mobile Allocation Index Offset](/mobilnisite/slovnik/maio/)
 - [HSN – Hopping Sequence Number](/mobilnisite/slovnik/hsn/)
 - [GPRS – CSI GPRS CAMEL Subscription Information](/mobilnisite/slovnik/gprs/)
+- [PCU – Packet Control Unit](/mobilnisite/slovnik/pcu/)
 
 ## Definující specifikace
 

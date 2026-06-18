@@ -16,9 +16,9 @@ NDUB je doplňková služba v okruhově přepínaných sítích, kde síť (niko
 
 ## Popis
 
-Network Determined User Busy (NDUB) je klasická doplňková služba v telekomunikacích definovaná v 3GPP pro okruhově přepínané ([CS](/mobilnisite/slovnik/cs/)) základnové sítě, například v GSM a UMTS. Jejím hlavním účelem je umožnit samotné síti – konkrétně Mobile Switching Center ([MSC](/mobilnisite/slovnik/msc/)) nebo Visitor Location Register (VLR) – určit, že volaný mobilní účastník je obsazen a nemůže přijmout příchozí volání. Toto určení je provedeno nezávisle na jakémkoli explicitním signálu obsazení ze samotného koncového zařízení (UE). Síť tento úsudek činí na základě znalosti svého interního stavu o relaci účastníka.
+Network Determined User Busy (NDUB) je klasická doplňková služba v telekomunikacích definovaná v 3GPP pro okruhově přepínané ([CS](/mobilnisite/slovnik/cs/)) základnové sítě, například v GSM a UMTS. Jejím hlavním účelem je umožnit samotné síti – konkrétně Mobile Switching Center ([MSC](/mobilnisite/slovnik/msc/)) nebo Visitor Location Register ([VLR](/mobilnisite/slovnik/vlr/)) – určit, že volaný mobilní účastník je obsazen a nemůže přijmout příchozí volání. Toto určení je provedeno nezávisle na jakémkoli explicitním signálu obsazení ze samotného koncového zařízení (UE). Síť tento úsudek činí na základě znalosti svého interního stavu o relaci účastníka.
 
-Služba funguje během procedur sestavování volání. Když dorazí příchozí volání pro účastníka, MSC/VLR zkontroluje jeho aktuální stav. Pokud je účastník již zapojen do aktivního hovoru, přenosu krátké textové zprávy (SMS) nebo paketové datové relace (v kontextech, kde jsou CS hovory blokovány během datových relací), síť může aktivovat NDUB. Po určení stavu obsazení se síť nepokouší o stránkování (paging) UE ani o zřízení rádiového kanálu. Místo toho okamžitě zpracuje volání podle profilu služeb účastníka, což může zahrnovat odmítnutí volání s obsazovacím tónem pro volajícího nebo aktivaci jiné doplňkové služby, jako je Call Forwarding on Busy ([CFB](/mobilnisite/slovnik/cfb/)), pro přesměrování volání na hlasovou schránku nebo jiné číslo.
+Služba funguje během procedur sestavování volání. Když dorazí příchozí volání pro účastníka, MSC/VLR zkontroluje jeho aktuální stav. Pokud je účastník již zapojen do aktivního hovoru, přenosu krátké textové zprávy ([SMS](/mobilnisite/slovnik/sms/)) nebo paketové datové relace (v kontextech, kde jsou CS hovory blokovány během datových relací), síť může aktivovat NDUB. Po určení stavu obsazení se síť nepokouší o stránkování (paging) UE ani o zřízení rádiového kanálu. Místo toho okamžitě zpracuje volání podle profilu služeb účastníka, což může zahrnovat odmítnutí volání s obsazovacím tónem pro volajícího nebo aktivaci jiné doplňkové služby, jako je Call Forwarding on Busy ([CFB](/mobilnisite/slovnik/cfb/)), pro přesměrování volání na hlasovou schránku nebo jiné číslo.
 
 Z architektonického hlediska NDUB spoléhá na data účastníka uložená v Home Location Register ([HLR](/mobilnisite/slovnik/hlr/)) a na dynamický stav relace udržovaný ve VLR. Klíčovou komponentou je servisní logika MSC, která vyhodnocuje stav obsazení. Služba interaguje s dalšími uzly základnové sítě a doplňkovými službami. Jejím úkolem je optimalizovat síťové zdroje a zlepšit uživatelský zážitek tím, že zabrání zbytečnému rádiovému signalizačnímu provozu a stránkování pro účastníka, u kterého je známo, že není dostupný, čímž se snižuje zatížení sítě a potenciálně urychluje alternativní zpracování volání. Představuje síťově orientovaný mechanismus efektivity charakteristický pro tradiční okruhově přepínanou telefonii.
 
@@ -40,6 +40,7 @@ Tato služba vyřešila problém plýtvání signalizací a zpožděných indika
 ## Související pojmy
 
 - [MSC – Mobile Services Switching Centre](/mobilnisite/slovnik/msc/)
+- [VLR – Visitor Location Register](/mobilnisite/slovnik/vlr/)
 
 ## Definující specifikace
 

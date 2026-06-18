@@ -16,7 +16,7 @@ KPI je sada kvantifikovatelných metrik používaných k vyhodnocování výkonu
 
 ## Popis
 
-Klíčové ukazatele výkonu (KPI) v 3GPP jsou standardizované, měřitelné hodnoty, které ukazují, jak efektivně síť, síťový řez nebo služba dosahuje klíčových provozních a obchodních cílů. Jsou odvozeny z měření shromažďovaných různými síťovými elementy ([NE](/mobilnisite/slovnik/ne/)), manažerskými systémy a sondami. Architektura pro správu KPI zahrnuje hierarchický řetězec sběru a zpracování dat: data výkonnostního měření (PM) jsou generována síťovými elementy (např. gNB, [AMF](/mobilnisite/slovnik/amf/), [UPF](/mobilnisite/slovnik/upf/)) jako hrubé čítače, události a měřidla. Tato data jsou následně shromažďována síťovými manažerskými ([NM](/mobilnisite/slovnik/nm/)) nebo elementárními manažerskými ([EM](/mobilnisite/slovnik/em/)) systémy přes standardizovaná rozhraní (např. Itf-N). Manažerské systémy následně aplikují definované vzorce – často specifikované v dokumentech 3GPP – aby agregovaly a spočítaly KPI z hrubých PM dat.
+Klíčové ukazatele výkonu (KPI) v 3GPP jsou standardizované, měřitelné hodnoty, které ukazují, jak efektivně síť, síťový řez nebo služba dosahuje klíčových provozních a obchodních cílů. Jsou odvozeny z měření shromažďovaných různými síťovými elementy ([NE](/mobilnisite/slovnik/ne/)), manažerskými systémy a sondami. Architektura pro správu KPI zahrnuje hierarchický řetězec sběru a zpracování dat: data výkonnostního měření ([PM](/mobilnisite/slovnik/pm/)) jsou generována síťovými elementy (např. gNB, [AMF](/mobilnisite/slovnik/amf/), [UPF](/mobilnisite/slovnik/upf/)) jako hrubé čítače, události a měřidla. Tato data jsou následně shromažďována síťovými manažerskými ([NM](/mobilnisite/slovnik/nm/)) nebo elementárními manažerskými ([EM](/mobilnisite/slovnik/em/)) systémy přes standardizovaná rozhraní (např. Itf-N). Manažerské systémy následně aplikují definované vzorce – často specifikované v dokumentech 3GPP – aby agregovaly a spočítaly KPI z hrubých PM dat.
 
 Fungování KPI je kontinuálním cyklem měření, sběru, výpočtu a analýzy. Například základní KPI rádiového přístupového segmentu (RAN) jako úspěšnost nastavení LTE Radio Resource Control ([RRC](/mobilnisite/slovnik/rrc/)) je vypočítáváno EM systémem. Ten sbírá ze základnové stanice eNodeB za definované měřicí období (např. 15 minut) hrubý čítač „AttConnEstabAtt“ (počet pokusů o navázání spojení RRC) a „AttConnEstabSucc“ (počet úspěšných pokusů). KPI je pak spočteno jako (Úspěšné pokusy / Celkový počet pokusů) * 100%. Tato vypočtená hodnota KPI je následně uložena, vizualizována a porovnávána s cílovými prahy pro posouzení výkonu. KPI pokrývají všechny síťové domény: Dostupnost (např. úspěšnost navázání hovoru), Uchování spojení (např. míra zrušených hovorů), Integritu (např. propustnost, latence), Dostupnost (např. doba provozuschopnosti uzlu) a Mobilitu (např. úspěšnost předání spojení).
 
@@ -39,6 +39,9 @@ Vytváření a kontinuální vývoj KPI v 3GPP je motivováno několika faktory:
 
 ## Související pojmy
 
+- [PM – Performance Measurement](/mobilnisite/slovnik/pm/)
+- [SON – Self-Organizing Network](/mobilnisite/slovnik/son/)
+- [QoE – Quality of Experience](/mobilnisite/slovnik/qoe/)
 - [MDA – Mobile Data Analytics](/mobilnisite/slovnik/mda/)
 
 ## Definující specifikace

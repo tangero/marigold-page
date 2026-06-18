@@ -20,7 +20,7 @@ Distributed Speech Recognition (DSR) je architektura typu klient-server navržen
 
 V síti přijímá proud příznaků vyhrazený DSR server. Tento server hostuje 'back-end' rozpoznávací engine, který zahrnuje akustické modely, výslovnostní slovníky a jazykové modely. Server dekóduje proud příznaků a používá statistické porovnávání vzorů (jako Hidden Markovovy modely nebo hluboké neuronové sítě) k převedení příznaků na textový řetězec nebo sémantický příkaz. Výsledek je pak odeslán zpět k UE nebo na jiný aplikační server. Toto oddělení je klíčové; umožňuje, aby výpočetně náročné a paměťově nákladné modelovací a vyhledávací procesy zůstaly na výkonných, aktualizovatelných serverech, zatímco UE zvládá lehčí, standardizovaný front-end.
 
-Úlohou DSR je poskytovat konzistentní, vysoce přesný rozpoznávací zážitek nezávislý na výpočetním výkonu UE a proměnlivé kvalitě zvukového kanálu. Přenosem pouze příznaků (několik kbps) namísto plného zvukového proudu (např. 64 kbps pro PCM) šetří šířku pásma a je odolnější vůči přenosovým chybám a zkreslením od nízkobitových hlasových kodeků, která by degradovala rozpoznávání na straně serveru, pokud by byla aplikována na dekódovaný zvuk. Je to služební enabler pro síťové hlasové asistenty, automatické hlasové vytáčení a hlasem ovládané služby ve vozidlech.
+Úlohou DSR je poskytovat konzistentní, vysoce přesný rozpoznávací zážitek nezávislý na výpočetním výkonu UE a proměnlivé kvalitě zvukového kanálu. Přenosem pouze příznaků (několik kbps) namísto plného zvukového proudu (např. 64 kbps pro [PCM](/mobilnisite/slovnik/pcm/)) šetří šířku pásma a je odolnější vůči přenosovým chybám a zkreslením od nízkobitových hlasových kodeků, která by degradovala rozpoznávání na straně serveru, pokud by byla aplikována na dekódovaný zvuk. Je to služební enabler pro síťové hlasové asistenty, automatické hlasové vytáčení a hlasem ovládané služby ve vozidlech.
 
 ## K čemu slouží
 
@@ -40,6 +40,8 @@ DSR bylo vytvořeno k vyřešení problému poskytování vysoce kvalitního, se
 ## Související pojmy
 
 - [IMS – IP Multimedia Subsystem](/mobilnisite/slovnik/ims/)
+- [V2X – Vehicle-to-Everything Application Server](/mobilnisite/slovnik/v2x/)
+- [QoE – Quality of Experience](/mobilnisite/slovnik/qoe/)
 
 ## Definující specifikace
 

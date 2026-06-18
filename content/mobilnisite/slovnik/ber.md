@@ -16,11 +16,11 @@ BER je standardizovaná sada pravidel pro kódování datových struktur definov
 
 ## Popis
 
-Basic Encoding Rules (BER) je metoda pro kódování datových objektů popsaných v jazyce Abstract Syntax Notation One (ASN.1) do řetězce oktetů (bytů). ASN.1 je standardní jazyk pro popis rozhraní používaný k definování struktury protokolových datových jednotek (PDU) způsobem nezávislým na platformě. BER poskytuje konkrétní překlad z této abstraktní definice do konkrétní reprezentace na úrovni bitů, která může být přenášena po síti nebo uložena. Jedná se o kódovací schéma typu tag-délka-hodnota (TLV), díky čemuž jsou zakódovaná data samoopisná.
+Basic Encoding Rules (BER) je metoda pro kódování datových objektů popsaných v jazyce Abstract Syntax Notation One (ASN.1) do řetězce oktetů (bytů). ASN.1 je standardní jazyk pro popis rozhraní používaný k definování struktury protokolových datových jednotek ([PDU](/mobilnisite/slovnik/pdu/)) způsobem nezávislým na platformě. BER poskytuje konkrétní překlad z této abstraktní definice do konkrétní reprezentace na úrovni bitů, která může být přenášena po síti nebo uložena. Jedná se o kódovací schéma typu tag-délka-hodnota ([TLV](/mobilnisite/slovnik/tlv/)), díky čemuž jsou zakódovaná data samoopisná.
 
-Z architektonického hlediska BER pracuje s jednotlivými typy ASN.1. Proces kódování jakéhokoli datového prvku vytváří tři po sobě jdoucí pole: oktety identifikátoru (tag), oktety délky a oktety obsahu (hodnoty). Tag identifikuje typ dat (např. INTEGER, SEQUENCE, OCTET STRING) a to, zda jsou primitivní nebo konstruovaná. Pole Délka určuje počet oktetů v poli Obsah. Pole Obsah obsahuje skutečnou zakódovanou hodnotu dat. U jednoduchých typů, jako je INTEGER, je hodnota zakódována přímo. U konstruovaných typů, jako je SEQUENCE nebo SET, obsahuje pole Obsah zřetězená BER kódování každé komponentní části.
+Z architektonického hlediska BER pracuje s jednotlivými typy ASN.1. Proces kódování jakéhokoli datového prvku vytváří tři po sobě jdoucí pole: oktety identifikátoru (tag), oktety délky a oktety obsahu (hodnoty). Tag identifikuje typ dat (např. INTEGER, SEQUENCE, OCTET STRING) a to, zda jsou primitivní nebo konstruovaná. Pole Délka určuje počet oktetů v poli Obsah. Pole Obsah obsahuje skutečnou zakódovanou hodnotu dat. U jednoduchých typů, jako je INTEGER, je hodnota zakódována přímo. U konstruovaných typů, jako je SEQUENCE nebo [SET](/mobilnisite/slovnik/set/), obsahuje pole Obsah zřetězená BER kódování každé komponentní části.
 
-Jak to funguje, zahrnuje rekurzivní proces. Kodér prochází datovou strukturu ASN.1 a aplikuje pravidlo TLV na každý uzel. Klíčovou vlastností je jeho flexibilita; BER nabízí pro některé datové typy více kódovacích forem (např. formy s určitou a neurčitou délkou). V 3GPP je BER specifikována jako přenosová syntax pro četné signalizační protokoly vrstvy 3, zejména v jádru sítě. Například protokoly jako Radio Resource Control ([RRC](/mobilnisite/slovnik/rrc/)), Non-Access Stratum ([NAS](/mobilnisite/slovnik/nas/)) a mnoho aplikačních protokolů v jádru (často používajících variantu ASN.1 PER) mají své kořeny v principech kódování BER. Jejím úkolem je zajistit, aby zpráva vygenerovaná zařízením jednoho výrobce mohla být správně parsována a pochopena zařízením jiného výrobce, čímž poskytuje základní interoperabilitu pro vícevýrobcové telekomunikační sítě.
+Jak to funguje, zahrnuje rekurzivní proces. Kodér prochází datovou strukturu ASN.1 a aplikuje pravidlo TLV na každý uzel. Klíčovou vlastností je jeho flexibilita; BER nabízí pro některé datové typy více kódovacích forem (např. formy s určitou a neurčitou délkou). V 3GPP je BER specifikována jako přenosová syntax pro četné signalizační protokoly vrstvy 3, zejména v jádru sítě. Například protokoly jako Radio Resource Control ([RRC](/mobilnisite/slovnik/rrc/)), Non-Access Stratum ([NAS](/mobilnisite/slovnik/nas/)) a mnoho aplikačních protokolů v jádru (často používajících variantu ASN.1 [PER](/mobilnisite/slovnik/per/)) mají své kořeny v principech kódování BER. Jejím úkolem je zajistit, aby zpráva vygenerovaná zařízením jednoho výrobce mohla být správně parsována a pochopena zařízením jiného výrobce, čímž poskytuje základní interoperabilitu pro vícevýrobcové telekomunikační sítě.
 
 ## K čemu slouží
 
@@ -39,6 +39,7 @@ Její vytvoření bylo motivováno potřebou robustních, interoperabilních spe
 
 ## Související pojmy
 
+- [PER – Printable character Error Rate](/mobilnisite/slovnik/per/)
 - [DER – Distinguished Encoding Rules](/mobilnisite/slovnik/der/)
 
 ## Definující specifikace

@@ -18,7 +18,7 @@ CNL je řídicí mechanismus, který umožňuje mobilnímu zařízení udržovat
 
 Co-operative Network List (CNL, Seznam kooperativních sítí) je funkce správy sítě definovaná ve specifikacích 3GPP, která poskytuje mobilním zařízením strukturovaný přístup k výběru sítě v prostředí více operátorů. Na rozdíl od tradičních mechanismů výběru sítě, které spoléhají na jednoduché seznamy priorit nebo měření síly signálu, CNL zahrnuje obchodní vztahy a servisní dohody mezi operátory, aby usměrňovala chování zařízení. Seznam obsahuje informace o preferovaných sítích, které mají s operátorem domovské sítě uzavřené kooperativní dohody, což umožňuje zařízením činit inteligentnější roamingová rozhodnutí.
 
-Architektonicky CNL funguje v rámci modulu USIM (Universal Subscriber Identity Module) a frameworku správy zařízení. Seznam je obvykle do USIM zřízen operátorem domovské sítě a může být aktualizován přes vzdušné rozhraní prostřednictvím protokolů správy zařízení. CNL obsahuje záznamy pro konkrétní veřejné pozemní mobilní sítě (PLMN) spolu s přidruženými parametry, které definují povahu kooperativního vztahu. Tyto parametry mohou zahrnovat úrovně priority, omezení služeb, podmínky platnosti a preferované přístupové technologie pro každou uvedenou síť.
+Architektonicky CNL funguje v rámci modulu [USIM](/mobilnisite/slovnik/usim/) (Universal Subscriber Identity Module) a frameworku správy zařízení. Seznam je obvykle do USIM zřízen operátorem domovské sítě a může být aktualizován přes vzdušné rozhraní prostřednictvím protokolů správy zařízení. CNL obsahuje záznamy pro konkrétní veřejné pozemní mobilní sítě ([PLMN](/mobilnisite/slovnik/plmn/)) spolu s přidruženými parametry, které definují povahu kooperativního vztahu. Tyto parametry mohou zahrnovat úrovně priority, omezení služeb, podmínky platnosti a preferované přístupové technologie pro každou uvedenou síť.
 
 Když mobilní zařízení provádí výběr sítě, konzultuje CNL spolu s dalšími kritérii výběru sítě definovanými v 3GPP TS 23.122. Zařízení vyhodnocuje dostupné sítě vůči záznamům v CNL a dává přednost sítím uvedeným v CNL před těmi, které v něm nejsou zahrnuty. Mechanismus funguje ve spojení s dalšími seznamy pro výběr sítě, jako je Operator Controlled PLMN Selector ([OPLMN](/mobilnisite/slovnik/oplmn/)) a User Controlled PLMN Selector (UPLMN), přičemž CNL poskytuje dodatečnou inteligenci o vztazích mezi operátory. Tento hierarchický přístup zajišťuje, že zařízení vybírají sítě, které nejen poskytují pokrytí, ale také optimální kvalitu služeb a nákladovou efektivitu na základě dohod mezi operátory.
 
@@ -43,6 +43,8 @@ Dalším klíčovým účelem CNL bylo snížit selhání výběru sítě a zlep
 
 ## Související pojmy
 
+- [PLMN – Public Land Mobile Network](/mobilnisite/slovnik/plmn/)
+- [USIM – Universal Subscriber Identity Module](/mobilnisite/slovnik/usim/)
 - [OPLMN – Operator Controlled PLMN (Selector List)](/mobilnisite/slovnik/oplmn/)
 
 ## Definující specifikace

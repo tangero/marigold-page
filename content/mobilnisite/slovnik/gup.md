@@ -20,7 +20,7 @@ Generic User Profile (GUP) od 3GPP je komplexní architektonický rámec definov
 
 Architektura GUP je založena na konceptu GUP Serveru, který funguje jako logická entita poskytující jediný přístupový bod pro autorizované klienty (známé jako GUP Clients) k dotazování a správě dat uživatelského profilu. Samotný GUP Server nemusí ukládat všechna data; místo toho komunikuje s různými Datovými repozitáři ([DR](/mobilnisite/slovnik/dr/)), kde jsou skutečná uživatelská data uložena. Tyto repozitáře mohou být specifické pro síť (např. HSS pro základní předplatitelská data) nebo pro službu. Rámec definuje standardizované referenční body (Rp) pro komunikaci mezi GUP Klienty, GUP Serverem a Datovými repozitáři. Klíčové jsou rozhraní Rp mezi GUP Klientem a Serverem a rozhraní Rd mezi GUP Serverem a Datovými repozitáři.
 
-Datový model GUP je strukturován hierarchicky a je definován pomocí XML Schema Definitions (XSD). Organizuje uživatelské informace do komponent a subkomponent, pokrývajících širokou škálu datových typů včetně předplatitelských informací, nastavení služeb, preferencí, možností terminálu a informací o přístupové síti. Tento strukturovaný přístup umožňuje přesný přístup k datům a jejich manipulaci. Rámec také zahrnuje mechanismy pro synchronizaci dat, řízení soukromí a odběr notifikací při změnách dat profilu. Z pohledu síťové operace GUP usnadňuje nasazení konvergovaných služeb tím, že zajišťuje konzistentní a aktuální pohled na uživatele pro různé servisní enginy, což je klíčové pro personalizaci, kontinuitu služeb a efektivní správu vztahů se zákazníky.
+Datový model GUP je strukturován hierarchicky a je definován pomocí [XML](/mobilnisite/slovnik/xml/) Schema Definitions ([XSD](/mobilnisite/slovnik/xsd/)). Organizuje uživatelské informace do komponent a subkomponent, pokrývajících širokou škálu datových typů včetně předplatitelských informací, nastavení služeb, preferencí, možností terminálu a informací o přístupové síti. Tento strukturovaný přístup umožňuje přesný přístup k datům a jejich manipulaci. Rámec také zahrnuje mechanismy pro synchronizaci dat, řízení soukromí a odběr notifikací při změnách dat profilu. Z pohledu síťové operace GUP usnadňuje nasazení konvergovaných služeb tím, že zajišťuje konzistentní a aktuální pohled na uživatele pro různé servisní enginy, což je klíčové pro personalizaci, kontinuitu služeb a efektivní správu vztahů se zákazníky.
 
 ## K čemu slouží
 
@@ -44,6 +44,7 @@ Motivace pro GUP vycházela z pohybu průmyslu směrem ke konvergenci služeb, I
 - [HSS – Home Subscriber Server](/mobilnisite/slovnik/hss/)
 - [IMS – IP Multimedia Subsystem](/mobilnisite/slovnik/ims/)
 - [UDM – Unified Data Management](/mobilnisite/slovnik/udm/)
+- [UDR – Unified Data Repository](/mobilnisite/slovnik/udr/)
 
 ## Definující specifikace
 

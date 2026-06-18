@@ -18,7 +18,7 @@ GAI je jedinečný identifikátor přiřazený definované geografické oblasti 
 
 Geographical Area Identifier (GAI) je stručný popisek nebo kód reprezentující předem definovanou geografickou oblast v mobilní síti. Na rozdíl od podrobných souřadnic [GAD](/mobilnisite/slovnik/gad/) je GAI zkrácená reference, kterou síťové funkce a uživatelské zařízení (UE) mohou používat k efektivní identifikaci regionu. Je definován ve specifikacích 3GPP jako součást mechanismů pro služby polohy a řízení politik. GAI je typicky mapován na podrobnější geografický popis, například na polygon GAD, v rámci síťových databází.
 
-Z architektonického hlediska se GAI používá na rozhraních mezi uzly jádra sítě, například mezi funkcí pravidel pro politiky a účtování (PCRF) a aplikační funkcí ([AF](/mobilnisite/slovnik/af/)), nebo uvnitř Home Subscriber Server ([HSS](/mobilnisite/slovnik/hss/)). Funguje tak, že umožňuje služebním požadavkům nebo pravidlům politik odkazovat na oblast pomocí jejího identifikátoru namísto opakovaného přenosu úplných geografických hranic. Například "zóna prémiové služby" může mít přiřazen konkrétní GAI, a když uživatel tuto zónu vstoupí, síť může na základě GAI uplatnit odpovídající pravidla účtování. Identifikátor je často komunikován v protokolových zprávách, jako jsou ty na rozhraních Gx nebo Rx, za použití protokolu Diameter.
+Z architektonického hlediska se GAI používá na rozhraních mezi uzly jádra sítě, například mezi funkcí pravidel pro politiky a účtování ([PCRF](/mobilnisite/slovnik/pcrf/)) a aplikační funkcí ([AF](/mobilnisite/slovnik/af/)), nebo uvnitř Home Subscriber Server ([HSS](/mobilnisite/slovnik/hss/)). Funguje tak, že umožňuje služebním požadavkům nebo pravidlům politik odkazovat na oblast pomocí jejího identifikátoru namísto opakovaného přenosu úplných geografických hranic. Například "zóna prémiové služby" může mít přiřazen konkrétní GAI, a když uživatel tuto zónu vstoupí, síť může na základě GAI uplatnit odpovídající pravidla účtování. Identifikátor je často komunikován v protokolových zprávách, jako jsou ty na rozhraních Gx nebo Rx, za použití protokolu Diameter.
 
 Klíčové komponenty zahrnují samotnou hodnotu GAI, což je řetězec nebo číselný kód, a přidružené mapování na definici geografické oblasti uloženou v síťovém úložišti. Úlohou GAI je snížit signalizační režii a zjednodušit implementaci služeb závislých na poloze. Umožňuje škálovatelné geofencing, kde lze efektivně spravovat velký počet oblastí, a podporuje případy užití jako je řízení přístupu na základě polohy, cílené vysílání a dodržování regulatorních požadavků (např. služby specifické pro danou zemi). V praxi jsou GAIs zřizovány síťovými operátory a mohou odpovídat buňkám, oblastem sledování (tracking areas) nebo uživatelsky definovaným zónám.
 
@@ -40,6 +40,7 @@ Vytvoření GAI ve verzi 8 (Release 8) bylo motivováno rostoucí komplexitou sl
 ## Související pojmy
 
 - [GAD – Universal Geographical Area Description](/mobilnisite/slovnik/gad/)
+- [PCRF – Policy and Charging Rules Function](/mobilnisite/slovnik/pcrf/)
 
 ## Definující specifikace
 

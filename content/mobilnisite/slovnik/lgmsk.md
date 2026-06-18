@@ -16,7 +16,7 @@ LGMSK je modulační technika používaná v GSM EDGE Evolution, která lineariz
 
 ## Popis
 
-Linearizované Gaussovské klíčování s minimálním posuvem (LGMSK) je klíčová modulační a signálová technika zavedená jako součást standardu GSM [EDGE](/mobilnisite/slovnik/edge/) Evolution (známého také jako EDGE+). Zásadně upravuje klasickou modulaci [GMSK](/mobilnisite/slovnik/gmsk/) používanou v GSM. Standardní GMSK je modulace s konstantní obálkou a nelineární charakteristikou, která je energeticky účinná, ale omezuje dosažitelné přenosové rychlosti, protože s ní nelze přímo kombinovat vyšší a spektrálně účinnější modulační schémata (jako [8-PSK](/mobilnisite/slovnik/8-psk/) nebo QAM). LGMSK tento problém řeší aplikací linearizačního procesu na signál GMSK.
+Linearizované Gaussovské klíčování s minimálním posuvem (LGMSK) je klíčová modulační a signálová technika zavedená jako součást standardu GSM [EDGE](/mobilnisite/slovnik/edge/) Evolution (známého také jako EDGE+). Zásadně upravuje klasickou modulaci [GMSK](/mobilnisite/slovnik/gmsk/) používanou v GSM. Standardní GMSK je modulace s konstantní obálkou a nelineární charakteristikou, která je energeticky účinná, ale omezuje dosažitelné přenosové rychlosti, protože s ní nelze přímo kombinovat vyšší a spektrálně účinnější modulační schémata (jako [8-PSK](/mobilnisite/slovnik/8-psk/) nebo [QAM](/mobilnisite/slovnik/qam/)). LGMSK tento problém řeší aplikací linearizačního procesu na signál GMSK.
 
 Technický proces zahrnuje filtrování modulovaného signálu GMSK specifickým linearizačním filtrem. Tento filtr je navržen tak, aby kompenzoval inherentní nelinearitu modulace GMSK a efektivně 'linearizoval' fázovou trajektorii signálu. Výsledný signál se přibližuje lineárně modulovanému signálu, jako je například offsetové kvadraturní fázové klíčování (OQPSK). Tato linearizovaná konstelace signálu je klíčová, protože umožňuje následnou aplikaci pokročilejších, vyšších modulačních technik ve stejném rádiovém kanálu.
 
@@ -42,6 +42,7 @@ Vytvoření LGMSK bylo motivováno potřebou nákladově efektivní evoluční c
 - [GMSK – Gaussian Minimum Shift Keying](/mobilnisite/slovnik/gmsk/)
 - [EDGE – Enhanced Data rates for Global Evolution](/mobilnisite/slovnik/edge/)
 - [8-PSK – 8-state Phase Shift Keying](/mobilnisite/slovnik/8-psk/)
+- [QAM – Quadrature Amplitude Modulation](/mobilnisite/slovnik/qam/)
 
 ## Definující specifikace
 

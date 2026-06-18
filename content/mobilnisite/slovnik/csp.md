@@ -20,7 +20,7 @@ Ve specifikacích 3GPP je Communications Service Provider (CSP) definován jako 
 
 CSP působí v rámci komplexního ekosystému definovaného specifikacemi 3GPP a spravuje vztahy s mnoha zainteresovanými stranami včetně koncových uživatelů, regulatorních orgánů, dalších CSP prostřednictvím roamingových dohod a poskytovatelů služeb třetích stran. Z architektonické perspektivy CSP zahrnuje různé funkční domény včetně jádrové sítě (CN), rádiové přístupové sítě (RAN) a systémů pro podporu podnikání ([BSS](/mobilnisite/slovnik/bss/)). CSP je odpovědný za zřizování, provoz a údržbu těchto síťových prvků za účelem poskytování služeb při zajištění kvality služeb, zabezpečení a regulatorní shody.
 
-Klíčové komponenty v operační doméně CSP zahrnují Home Subscriber Server ([HSS](/mobilnisite/slovnik/hss/)) pro správu dat účastníků, Policy and Charging Rules Function (PCRF) pro vynucování pravidel služeb, účtovací systémy ([OCS](/mobilnisite/slovnik/ocs/)/[OFCS](/mobilnisite/slovnik/ofcs/)) pro fakturaci a systémy správy sítě ([NMS](/mobilnisite/slovnik/nms/)) pro provozní podporu. CSP také spravuje rozhraní k externím sítím včetně sítí jiných CSP pro roaming, propojení s veřejnými telefonními sítěmi (PSTN) a připojení k internetu prostřednictvím poskytovatelů internetových služeb ([ISP](/mobilnisite/slovnik/isp/)).
+Klíčové komponenty v operační doméně CSP zahrnují Home Subscriber Server ([HSS](/mobilnisite/slovnik/hss/)) pro správu dat účastníků, Policy and Charging Rules Function ([PCRF](/mobilnisite/slovnik/pcrf/)) pro vynucování pravidel služeb, účtovací systémy ([OCS](/mobilnisite/slovnik/ocs/)/[OFCS](/mobilnisite/slovnik/ofcs/)) pro fakturaci a systémy správy sítě ([NMS](/mobilnisite/slovnik/nms/)) pro provozní podporu. CSP také spravuje rozhraní k externím sítím včetně sítí jiných CSP pro roaming, propojení s veřejnými telefonními sítěmi (PSTN) a připojení k internetu prostřednictvím poskytovatelů internetových služeb (ISP).
 
 Z perspektivy poskytování služeb CSP implementuje kompletní životní cyklus služby včetně její tvorby, zřizování, aktivace, zajištění a ukončení. To zahrnuje koordinaci více síťových funkcí napříč přístupovou, jádrovou a transportní doménou za účelem poskytování služeb od konce ke konci. CSP také zvládá správu vztahů se zákazníky, včetně registrace účastníků, přizpůsobení služeb, podpory a fakturace. V sítích 5G a novějších se role CSP vyvinula tak, aby podporovala síťové řezy, kde jeden CSP může provozovat více logických sítí přizpůsobených různým požadavkům služeb na sdílené fyzické infrastruktuře.
 
@@ -47,6 +47,7 @@ S přechodem na 5G a síťové řezy se koncept CSP stal ještě kritičtější
 
 - [MNO – Mobile Network Operator](/mobilnisite/slovnik/mno/)
 - [MVNO – Mobile Virtual Network Operator](/mobilnisite/slovnik/mvno/)
+- [PCRF – Policy and Charging Rules Function](/mobilnisite/slovnik/pcrf/)
 - [HSS – Home Subscriber Server](/mobilnisite/slovnik/hss/)
 
 ## Definující specifikace

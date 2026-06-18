@@ -18,9 +18,9 @@ MSID je obecný zastřešující termín pro jakýkoli identifikátor, napříkl
 
 Mobile Station Identifier (MSID) je základní koncepce vysoké úrovně ve standardech 3GPP, která označuje jakýkoli identifikátor jednoznačně určující mobilní stanici ([MS](/mobilnisite/slovnik/ms/)), dnes běžně známou jako uživatelské zařízení (UE), v kontextu mobilní sítě. Nejde o jediný konkrétní identifikátor s definovaným formátem, ale spíše o kategorický termín zahrnující různé jedinečné názvy nebo čísla přiřazené UE nebo jeho předplatnému. Tyto identifikátory jsou klíčové pro všechny síťové operace, včetně registrace, autentizace, správy mobility, účtování a bezpečnostních procedur.
 
-Architektura pro MSID zasahuje do více síťových domén. Identifikátory jsou uloženy v různých síťových entitách: v samotném UE (v USIM nebo paměti zařízení), v rádiové přístupové síti (RAN), v jádře sítě (CN) a často i v externích databázích, jako je Equipment Identity Register ([EIR](/mobilnisite/slovnik/eir/)). 'Jak funguje' je specifické pro každý typ MSID. Například International Mobile Subscriber Identity ([IMSI](/mobilnisite/slovnik/imsi/)) používá jádro sítě k získání autentizačních dat předplatitele z [HSS](/mobilnisite/slovnik/hss/). Dočasný identifikátor předplatitele (TMSI) přiděluje Mobility Management Entity ([MME](/mobilnisite/slovnik/mme/)) nebo Serving [GPRS](/mobilnisite/slovnik/gprs/) Support Node (SGSN) za účelem zajištění důvěrnosti identity předplatitele na rádiovém rozhraní, čímž po počáteční registraci nahrazuje IMSI.
+Architektura pro MSID zasahuje do více síťových domén. Identifikátory jsou uloženy v různých síťových entitách: v samotném UE (v [USIM](/mobilnisite/slovnik/usim/) nebo paměti zařízení), v rádiové přístupové síti (RAN), v jádře sítě (CN) a často i v externích databázích, jako je Equipment Identity Register ([EIR](/mobilnisite/slovnik/eir/)). 'Jak funguje' je specifické pro každý typ MSID. Například International Mobile Subscriber Identity ([IMSI](/mobilnisite/slovnik/imsi/)) používá jádro sítě k získání autentizačních dat předplatitele z [HSS](/mobilnisite/slovnik/hss/). Dočasný identifikátor předplatitele ([TMSI](/mobilnisite/slovnik/tmsi/)) přiděluje Mobility Management Entity ([MME](/mobilnisite/slovnik/mme/)) nebo Serving [GPRS](/mobilnisite/slovnik/gprs/) Support Node (SGSN) za účelem zajištění důvěrnosti identity předplatitele na rádiovém rozhraní, čímž po počáteční registraci nahrazuje IMSI.
 
-Klíčové součásti rámce MSID zahrnují trvalé identifikátory (jako IMSI a International Mobile Equipment Identity neboli [IMEI](/mobilnisite/slovnik/imei/)), dočasné identifikátory (jako TMSI, [GUTI](/mobilnisite/slovnik/guti/) a S-TMSI) a identifikátory rádiové sítě (jako C-RNTI používané pro plánování v rámci buňky). Úlohou MSID je poskytovat jednoznačnou adresaci na různých vrstvách a pro různé účely: trvalou identitu předplatitele pro správu a roaming, dočasnou identitu pro ochranu na vzdušném rozhraní, dočasnou identitu síťové vrstvy pro směrování v oblasti sledování a dočasnou identitu na úrovni buňky pro řízení rádiových prostředků. Síť mezi těmito identifikátory plynule mapuje, když se UE připojuje, pohybuje a komunikuje.
+Klíčové součásti rámce MSID zahrnují trvalé identifikátory (jako IMSI a International Mobile Equipment Identity neboli IMEI), dočasné identifikátory (jako TMSI, GUTI a S-TMSI) a identifikátory rádiové sítě (jako C-RNTI používané pro plánování v rámci buňky). Úlohou MSID je poskytovat jednoznačnou adresaci na různých vrstvách a pro různé účely: trvalou identitu předplatitele pro správu a roaming, dočasnou identitu pro ochranu na vzdušném rozhraní, dočasnou identitu síťové vrstvy pro směrování v oblasti sledování a dočasnou identitu na úrovni buňky pro řízení rádiových prostředků. Síť mezi těmito identifikátory plynule mapuje, když se UE připojuje, pohybuje a komunikuje.
 
 ## K čemu slouží
 
@@ -40,8 +40,11 @@ Různé MSID byly vytvořeny k řešení konkrétních omezení. Trvalý IMSI vy
 ## Související pojmy
 
 - [IMSI – International Mobile Subscriber Identity](/mobilnisite/slovnik/imsi/)
+- [TMSI – Temporary Mobile Subscriber Identifier](/mobilnisite/slovnik/tmsi/)
 - [IMEI – International Mobile Station Equipment Identities](/mobilnisite/slovnik/imei/)
 - [GUTI – Globally Unique Temporary UE Identity](/mobilnisite/slovnik/guti/)
+- [S-TMSI – SAE Temporary Mobile Subscriber Identity](/mobilnisite/slovnik/s-tmsi/)
+- [SUPI – Subscription Permanent Identifier](/mobilnisite/slovnik/supi/)
 
 ## Definující specifikace
 

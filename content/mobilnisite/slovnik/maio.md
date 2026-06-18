@@ -16,9 +16,9 @@ MAIO je parametr GSM, který definuje specifický odstup časového slotu ve sku
 
 ## Popis
 
-Mobile Allocation Index Offset (MAIO) je základní parametr ve fyzické vrstvě GSM, konkrétně v rámci rámce přiřazování kanálů a přeskakování kmitočtů. Funguje ve spojení s Mobile Allocation ([MA](/mobilnisite/slovnik/ma/)), což je seznam rádiových kmitočtových kanálů přiřazených buňce, a Hopping Sequence Number ([HSN](/mobilnisite/slovnik/hsn/)), který definuje pseudonáhodný vzor přeskakování. Když je kanál pro přenos hovoru (TCH) přidělen mobilní stanici, je jí přiřazena konkrétní hodnota MAIO. Tato hodnota MAIO, v rozsahu od 0 do N-1 (kde N je počet kmitočtů v seznamu MA), určuje výchozí odstup mobilní stanice v rámci sekvence přeskakování.
+Mobile Allocation Index Offset (MAIO) je základní parametr ve fyzické vrstvě GSM, konkrétně v rámci rámce přiřazování kanálů a přeskakování kmitočtů. Funguje ve spojení s Mobile Allocation ([MA](/mobilnisite/slovnik/ma/)), což je seznam rádiových kmitočtových kanálů přiřazených buňce, a Hopping Sequence Number ([HSN](/mobilnisite/slovnik/hsn/)), který definuje pseudonáhodný vzor přeskakování. Když je kanál pro přenos hovoru ([TCH](/mobilnisite/slovnik/tch/)) přidělen mobilní stanici, je jí přiřazena konkrétní hodnota MAIO. Tato hodnota MAIO, v rozsahu od 0 do N-1 (kde N je počet kmitočtů v seznamu MA), určuje výchozí odstup mobilní stanice v rámci sekvence přeskakování.
 
-Funguje to následovně: Systém použije číslo rámce ([FN](/mobilnisite/slovnik/fn/)) a HSN ke generování pseudonáhodné sekvence indexů. Pro každý TDMA rámec tento algoritmus vytvoří index. Mobilní stanice poté vypočítá svůj skutečný kmitočet pro daný rámec tak, že vezme tento index, přičte svou přiřazenou hodnotu MAIO (modulo N) a výsledek namapuje na konkrétní kmitočet v seznamu MA. Zásadní je, že v rámci stejné buňky a při použití stejného HSN musí být různým mobilním stanicím přiřazeny různé hodnoty MAIO. To zajišťuje, že jsou vysílány na různých kmitočtech v jakémkoli daném časovém slotu, čímž se implementuje forma ortogonálního přeskakování kmitočtů a zabrání se společnému kanálovému rušení mezi uživateli ve stejné buňce.
+Funguje to následovně: Systém použije číslo rámce ([FN](/mobilnisite/slovnik/fn/)) a HSN ke generování pseudonáhodné sekvence indexů. Pro každý [TDMA](/mobilnisite/slovnik/tdma/) rámec tento algoritmus vytvoří index. Mobilní stanice poté vypočítá svůj skutečný kmitočet pro daný rámec tak, že vezme tento index, přičte svou přiřazenou hodnotu MAIO (modulo N) a výsledek namapuje na konkrétní kmitočet v seznamu MA. Zásadní je, že v rámci stejné buňky a při použití stejného HSN musí být různým mobilním stanicím přiřazeny různé hodnoty MAIO. To zajišťuje, že jsou vysílány na různých kmitočtech v jakémkoli daném časovém slotu, čímž se implementuje forma ortogonálního přeskakování kmitočtů a zabrání se společnému kanálovému rušení mezi uživateli ve stejné buňce.
 
 Správu MAIO provádí řadič základnové stanice ([BSC](/mobilnisite/slovnik/bsc/)) jako součást procedury přiřazování kanálu. Při sestavování hovoru nebo během předávání spojení algoritmus správy rádiových zdrojů BSC vybere dostupný časový slot a vhodnou hodnotu MAIO z fondu pro danou buňku a sekvenci přeskakování. Zvolená hodnota MAIO a seznam MA jsou sděleny mobilní stanici ve zprávě IMMEDIATE ASSIGNMENT nebo HANDOVER COMMAND. Tato přesná koordinace umožňuje GSM využívat výhod rozmanitosti kmitočtů a průměrování rušení díky přeskakování kmitočtů, což je klíčové pro zlepšení kvality hovoru a kapacity systému, zejména v prostředích omezených rušením.
 
@@ -40,6 +40,8 @@ Přeskakování kmitočtů, umožněné parametry jako MAIO, [HSN](/mobilnisite/
 ## Související pojmy
 
 - [HSN – Hopping Sequence Number](/mobilnisite/slovnik/hsn/)
+- [TDMA – Time Division Multiple Access](/mobilnisite/slovnik/tdma/)
+- [TCH – Traffic Channel](/mobilnisite/slovnik/tch/)
 
 ## Definující specifikace
 

@@ -16,13 +16,13 @@ CRA je funkce 3GPP, která snižuje interferenci během počátečního přístu
 
 ## Popis
 
-Clean Random Access (CRA) je standardizovaný mechanismus v rámci specifikací 3GPP, který zvyšuje výkon a spolehlivost procedur náhodného přístupu v celulárních sítích. Tato technologie konkrétně řeší problémy s interferencí, které nastávají, když se více zařízení uživatelského vybavení (UE) pokouší současně o přístup k síti prostřednictvím kanálu fyzického náhodného přístupu (PRACH). CRA funguje implementací optimalizovaného výběru preambule, časování přenosu a algoritmů přidělování zdrojů, které minimalizují kolize a snižují interferenci během počáteční fáze přístupu.
+Clean Random Access (CRA) je standardizovaný mechanismus v rámci specifikací 3GPP, který zvyšuje výkon a spolehlivost procedur náhodného přístupu v celulárních sítích. Tato technologie konkrétně řeší problémy s interferencí, které nastávají, když se více zařízení uživatelského vybavení (UE) pokouší současně o přístup k síti prostřednictvím kanálu fyzického náhodného přístupu ([PRACH](/mobilnisite/slovnik/prach/)). CRA funguje implementací optimalizovaného výběru preambule, časování přenosu a algoritmů přidělování zdrojů, které minimalizují kolize a snižují interferenci během počáteční fáze přístupu.
 
-Z architektonického hlediska CRA funguje v rámci vrstvy řízení přístupu k médiu ([MAC](/mobilnisite/slovnik/mac/)) a fyzické vrstvy (PHY) protokolového zásobníku rádiového rozhraní. Systém koordinuje spolupráci mezi UE a základnovou stanicí ([eNB](/mobilnisite/slovnik/enb/) nebo gNB) za účelem implementace procedur náhodného přístupu citlivých na interferenci. Mezi klíčové komponenty patří vylepšené algoritmy detekce preambulí v základnové stanici, optimalizované mechanismy odložení pro retransmise a inteligentní dělení zdrojů, které odděluje pokusy o přístup s podporou CRA od konvenčních pokusů o náhodný přístup. Základnová stanice vysílá konfigurační parametry CRA prostřednictvím systémových informačních bloků (SIB), což umožňuje kompatibilním UE využívat vylepšené přístupové procedury.
+Z architektonického hlediska CRA funguje v rámci vrstvy řízení přístupu k médiu ([MAC](/mobilnisite/slovnik/mac/)) a fyzické vrstvy ([PHY](/mobilnisite/slovnik/phy/)) protokolového zásobníku rádiového rozhraní. Systém koordinuje spolupráci mezi UE a základnovou stanicí ([eNB](/mobilnisite/slovnik/enb/) nebo gNB) za účelem implementace procedur náhodného přístupu citlivých na interferenci. Mezi klíčové komponenty patří vylepšené algoritmy detekce preambulí v základnové stanici, optimalizované mechanismy odložení pro retransmise a inteligentní dělení zdrojů, které odděluje pokusy o přístup s podporou CRA od konvenčních pokusů o náhodný přístup. Základnová stanice vysílá konfigurační parametry CRA prostřednictvím systémových informačních bloků ([SIB](/mobilnisite/slovnik/sib/)), což umožňuje kompatibilním UE využívat vylepšené přístupové procedury.
 
 CRA využívá několik technických mechanismů k dosažení svých cílů. Patří mezi ně strategie skupin preambulí, které kategorizují preambule na základě typu zařízení nebo požadavků služby, algoritmy řízení výkonu, které upravují vysílací výkon na základě měření interference, a dělení zdrojů v časové doméně, které přiděluje specifické podrámce nebo sloty pro operace CRA. Systém také implementuje pokročilé techniky detekce a řešení kolizí, které snižují pravděpodobnost, že více UE současně vybere identické preambule. Tyto mechanismy společně vytvářejí 'čistší' prostředí náhodného přístupu se sníženou interferencí a vyšší úspěšností.
 
-V síťovém ekosystému hraje CRA klíčovou roli při zlepšování výkonu počátečního přístupu, zejména ve scénářích hustého nasazení a pro aplikace citlivé na zpoždění. Technologie se integruje s existujícími procedurami náhodného přístupu definovanými ve specifikacích 3GPP a zároveň poskytuje vylepšené možnosti pro správu interference. Implementace CRA vyžaduje koordinaci mezi schopnostmi UE, konfiguracemi základnových stanic a optimalizací síťových parametrů pro dosažení maximálního přínosu. Tato funkce je zvláště cenná v 5G sítích podporujících případy užití masivní komunikace mezi stroji (mMTC) a ultra-spolehlivé komunikace s nízkou latencí (URLLC), kde je spolehlivý a včasný počáteční přístup nezbytný.
+V síťovém ekosystému hraje CRA klíčovou roli při zlepšování výkonu počátečního přístupu, zejména ve scénářích hustého nasazení a pro aplikace citlivé na zpoždění. Technologie se integruje s existujícími procedurami náhodného přístupu definovanými ve specifikacích 3GPP a zároveň poskytuje vylepšené možnosti pro správu interference. Implementace CRA vyžaduje koordinaci mezi schopnostmi UE, konfiguracemi základnových stanic a optimalizací síťových parametrů pro dosažení maximálního přínosu. Tato funkce je zvláště cenná v 5G sítích podporujících případy užití masivní komunikace mezi stroji (mMTC) a ultra-spolehlivé komunikace s nízkou latencí ([URLLC](/mobilnisite/slovnik/urllc/)), kde je spolehlivý a včasný počáteční přístup nezbytný.
 
 ## K čemu slouží
 
@@ -40,6 +40,10 @@ Historicky správa interference při náhodném přístupu spoléhala na základ
 - Optimalizace řízení výkonu pro přenosy náhodného přístupu
 - Zpětná kompatibilita s dědícími procedurami náhodného přístupu
 - Konfigurace prostřednictvím vysílání systémových informací
+
+## Související pojmy
+
+- [PRACH – Physical Random Access Channel](/mobilnisite/slovnik/prach/)
 
 ## Definující specifikace
 

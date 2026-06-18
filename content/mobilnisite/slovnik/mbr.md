@@ -39,6 +39,11 @@ Historicky počáteční práce ve 3GPP Release 5 položily základy pro rozší
 - Vylepšené anténní systémy pro kompenzaci pohybu plavidla
 - Schopnosti interoperability a globálního roamingu pro námořní uživatele
 
+## Související pojmy
+
+- [RAN – Radio Access Network](/mobilnisite/slovnik/ran/)
+- [UE – User Equipment](/mobilnisite/slovnik/ue/)
+
 ## Definující specifikace
 
 - **TS 23.202** (Rel-19) — CS Bearer Services Architecture in UMTS

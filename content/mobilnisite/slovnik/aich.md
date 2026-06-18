@@ -16,7 +16,7 @@ AICH je downlinkový fyzický kanál v UMTS, který informuje UE, zda síť úsp
 
 ## Popis
 
-Acquisition Indication Channel (AICH) je základní downlinkový fyzický kanál v rádiovém rozhraní UMTS/WCDMA, který funguje na fyzické vrstvě (Layer 1) architektury UTRAN. Slouží jako vyhrazený signalizační kanál speciálně navržený k poskytování rychlé zpětné vazby uživatelskému zařízení (UE) během kritické procedury náhodného přístupu. Když UE zahájí přístup k síti – ať už pro počáteční registraci, navázání spojení nebo předání spojení – nejprve vysílá náhodný přístupový preambuli na Physical Random Access Channel (PRACH). AICH slouží jako mechanismus okamžité odezvy sítě, který informuje UE, zda jeho preambuli úspěšně detekoval Node B.
+Acquisition Indication Channel (AICH) je základní downlinkový fyzický kanál v rádiovém rozhraní UMTS/[WCDMA](/mobilnisite/slovnik/wcdma/), který funguje na fyzické vrstvě (Layer 1) architektury [UTRAN](/mobilnisite/slovnik/utran/). Slouží jako vyhrazený signalizační kanál speciálně navržený k poskytování rychlé zpětné vazby uživatelskému zařízení (UE) během kritické procedury náhodného přístupu. Když UE zahájí přístup k síti – ať už pro počáteční registraci, navázání spojení nebo předání spojení – nejprve vysílá náhodný přístupový preambuli na Physical Random Access Channel ([PRACH](/mobilnisite/slovnik/prach/)). AICH slouží jako mechanismus okamžité odezvy sítě, který informuje UE, zda jeho preambuli úspěšně detekoval Node B.
 
 Z architektonického hlediska je AICH vysílán Node B a je úzce spojen s PRACH v párovém vztahu. Kanál funguje pomocí specifického rozprostíracího kódu a je časově synchronizován s odpovídající slotovou strukturou PRACH. Přenos AICH se skládá z posloupnosti indikátorů zachycení (Acquisition Indicators, AIs), z nichž každý odpovídá specifickému signaturnímu vzoru ze sady 16 dostupných signatur preambule definovaných ve specifikacích UMTS. Každý [AI](/mobilnisite/slovnik/ai/) je 32čipová posloupnost, která nese binární informaci: kladné potvrzení ([ACK](/mobilnisite/slovnik/ack/)), záporné potvrzení ([NACK](/mobilnisite/slovnik/nack/)) nebo žádný přenos. AICH zabírá 4096 čipů v rámci 10 ms rádiového rámce, rozdělených do 32 slotů po 128 čipech, přičemž skutečný přenos AI probíhá v konkrétních částech této struktury.
 
@@ -28,7 +28,7 @@ V širším síťovém kontextu hraje AICH klíčovou roli při řízení uplink
 
 ## K čemu slouží
 
-AICH byl vytvořen k řešení základních výzev v proceduře náhodného přístupu v sítích UMTS založených na WCDMA. V dřívějších mobilních systémech, jako je GSM, používal náhodný přístup jednodušší konkurenční přístupy s delší latencí. Technologie rozprostřeného spektra WCDMA přinesla nové komplikace: bez okamžité zpětné vazby by UE slepě vysílala celou přístupovou zprávu, i když preambule nebyla detekována, což vytvářelo zbytečné uplinkové rušení a plýtvalo výdrží baterie UE. AICH to vyřešil poskytnutím vyhrazeného downlinkového kanálu pro okamžité potvrzení, což umožnilo efektivní zvyšování výkonu a řešení kolizí.
+AICH byl vytvořen k řešení základních výzev v proceduře náhodného přístupu v sítích UMTS založených na [WCDMA](/mobilnisite/slovnik/wcdma/). V dřívějších mobilních systémech, jako je GSM, používal náhodný přístup jednodušší konkurenční přístupy s delší latencí. Technologie rozprostřeného spektra WCDMA přinesla nové komplikace: bez okamžité zpětné vazby by UE slepě vysílala celou přístupovou zprávu, i když preambule nebyla detekována, což vytvářelo zbytečné uplinkové rušení a plýtvalo výdrží baterie UE. AICH to vyřešil poskytnutím vyhrazeného downlinkového kanálu pro okamžité potvrzení, což umožnilo efektivní zvyšování výkonu a řešení kolizí.
 
 Před zavedením AICH v UMTS Release 99 čelily systémy [CDMA](/mobilnisite/slovnik/cdma/) významným výzvám v efektivitě náhodného přístupu. V systémech IS-95 CDMA byly přístupové sondy vysílány s rostoucím výkonem, dokud nebylo přijato potvrzení, ale toto potvrzení přicházelo prostřednictvím signalizace vyšších vrstev s podstatným zpožděním. Tento přístup způsoboval nadměrné rušení během přístupové procedury a zvyšoval přístupovou latenci. Inovací AICH bylo přesunutí tohoto potvrzení na fyzickou vrstvu s přesně načasovanými odpověďmi, což ve srovnání s předchozími přístupy snížilo průměrné přístupové zpoždění o 50–70 % a minimalizovalo uplinkové rušení během přístupových pokusů.
 
@@ -45,6 +45,9 @@ AICH také řešil specifické požadavky rychlého řízení výkonu a schopnos
 
 ## Související pojmy
 
+- [PRACH – Physical Random Access Channel](/mobilnisite/slovnik/prach/)
+- [RACH – Random Access Channel](/mobilnisite/slovnik/rach/)
+- [S-CCPCH – Secondary Common Control Physical Channel](/mobilnisite/slovnik/s-ccpch/)
 - [CPICH – Common Pilot Channel](/mobilnisite/slovnik/cpich/)
 
 ## Definující specifikace

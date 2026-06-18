@@ -18,11 +18,11 @@ BAT je protokolový mechanismus 3GPP, který asociuje více IP toků ke konkrét
 
 Bearer Association Transport (BAT) je základní protokolový mechanismus v architekturách 3GPP, který vytváří a spravuje asociace mezi přenosovými kanály (bearery) na úrovni služby a prostředky přenosové sítě. V sítích 3GPP představují přenosové kanály (bearery) logické komunikační kanály se specifickými charakteristikami kvality služby (QoS), zatímco přenosové prostředky odkazují na fyzická nebo virtuální spojení, která přenášejí skutečný datový provoz. BAT funguje na rozhraní mezi vrstvou služby a přenosovou vrstvou a zajišťuje, že toky služebních dat jsou správně namapovány na odpovídající přenosové kanály (bearery) se shodnými požadavky na QoS.
 
-Architektura BAT zahrnuje několik klíčových komponent včetně funkce pravidel pro politiky a účtování (PCRF), funkce vynucování politik a účtování (PCEF), funkce vázání přenosových kanálů a hlášení událostí ([BBERF](/mobilnisite/slovnik/bberf/)) a různých prvků přenosové sítě. Když dorazí požadavek na službu, PCRF určí odpovídající QoS politiky a sdělí je PCEF nebo BBERF. Tyto vynucovací funkce pak použijí mechanismy BAT k navázání (vázání) toku služebních dat na konkrétní přenosový kanál (bearer), který dokáže splnit požadované parametry QoS. Tento proces vázání zohledňuje faktory jako požadavky na šířku pásma, omezení latence, toleranci ztráty paketů a charakteristiky účtování.
+Architektura BAT zahrnuje několik klíčových komponent včetně funkce pravidel pro politiky a účtování ([PCRF](/mobilnisite/slovnik/pcrf/)), funkce vynucování politik a účtování ([PCEF](/mobilnisite/slovnik/pcef/)), funkce vázání přenosových kanálů a hlášení událostí ([BBERF](/mobilnisite/slovnik/bberf/)) a různých prvků přenosové sítě. Když dorazí požadavek na službu, PCRF určí odpovídající QoS politiky a sdělí je PCEF nebo BBERF. Tyto vynucovací funkce pak použijí mechanismy BAT k navázání (vázání) toku služebních dat na konkrétní přenosový kanál (bearer), který dokáže splnit požadované parametry QoS. Tento proces vázání zohledňuje faktory jako požadavky na šířku pásma, omezení latence, toleranci ztráty paketů a charakteristiky účtování.
 
 BAT funguje prostřednictvím série signalizačních procedur, které vytvářejí, modifikují a uvolňují asociace přenosových kanálů. Proces začíná detekcí nového toku služebních dat, typicky spuštěnou aplikačními požadavky nebo síťovými politikami. Vynucovací funkce poté vyhodnotí dostupné přenosové prostředky a vybere vhodný přenosový kanál (bearer) na základě požadavků QoS. Pokud žádný vhodný kanál neexistuje, mechanismy BAT mohou spustit vytvoření nového vyhrazeného přenosového kanálu (dedicated bearer). Během relace BAT průběžně monitoruje asociaci a může dynamicky upravit vázání v reakci na měnící se síťové podmínky, mobilitu uživatele nebo aktualizace politik.
 
-Fungování protokolu je specifikováno v několika technických specifikacích 3GPP s podrobnými postupy pro různé síťové scénáře, včetně prostředí konvergence pevných a mobilních sítí, vícepřístupových edge výpočtů ([MEC](/mobilnisite/slovnik/mec/)) a síťového řezání (network slicing). BAT podporuje přenosové protokoly založené na [GTP](/mobilnisite/slovnik/gtp/) i PMIP, což poskytuje flexibilitu v scénářích nasazení. Mezi klíčové aspekty patří rozhodování o vázání přenosových kanálů, hlášení událostí pro řízení politik a interakce s účtovacími systémy za účelem zajištění správné korelace mezi využitím služby a spotřebou přenosových prostředků. Mechanismus také řeší chybové stavy a procedury obnovy pro zachování kontinuity služby během síťových přechodů nebo výpadků.
+Fungování protokolu je specifikováno v několika technických specifikacích 3GPP s podrobnými postupy pro různé síťové scénáře, včetně prostředí konvergence pevných a mobilních sítí, vícepřístupových edge výpočtů ([MEC](/mobilnisite/slovnik/mec/)) a síťového řezání (network slicing). BAT podporuje přenosové protokoly založené na [GTP](/mobilnisite/slovnik/gtp/) i [PMIP](/mobilnisite/slovnik/pmip/), což poskytuje flexibilitu v scénářích nasazení. Mezi klíčové aspekty patří rozhodování o vázání přenosových kanálů, hlášení událostí pro řízení politik a interakce s účtovacími systémy za účelem zajištění správné korelace mezi využitím služby a spotřebou přenosových prostředků. Mechanismus také řeší chybové stavy a procedury obnovy pro zachování kontinuity služby během síťových přechodů nebo výpadků.
 
 ## K čemu slouží
 
@@ -40,6 +40,12 @@ Historicky motivace pro BAT vznikla s evolucí směrem k plně IP sítím ve ver
 - Hlášení událostí pro rozhodování o politikách
 - Podpora asociací pro vyhrazené (dedicated) a výchozí (default) přenosové kanály
 - Správa přenosových kanálů s ohledem na mobilitu během předávání hovoru (handover)
+
+## Související pojmy
+
+- [QoS – Quality of Service](/mobilnisite/slovnik/qos/)
+- [PCRF – Policy and Charging Rules Function](/mobilnisite/slovnik/pcrf/)
+- [PCEF – Policy and Charging Enforcement Function](/mobilnisite/slovnik/pcef/)
 
 ## Definující specifikace
 

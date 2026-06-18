@@ -20,7 +20,7 @@ Mezinárodní společnost pro automatizaci (International Society of Automation 
 
 ## K čemu slouží
 
-Účelem odkazování na Mezinárodní společnost pro automatizaci (ISA) v kontextech 3GPP je překlenout propast mezi standardy telekomunikací a standardy průmyslové automatizace. Jelikož jsou sítě 5G navrženy tak, aby podporovaly kritickou komunikaci pro vertikální odvětví, jako je výroba, energetika a doprava, je třeba zajistit kompatibilitu s existujícími široce přijímanými průmyslovými protokoly a architekturami. Normy ISA, vyvíjené po desetiletí, definují modely, terminologii a datové struktury pro integraci podnikových a řídicích systémů. Tím, že 3GPP zohledňuje rámce ISA, usiluje o to, aby se 5G stalo životaschopným a optimalizovaným bezdrátovým řešením pro průmyslová prostředí, které splňuje požadavky jako deterministická latence, mimořádně vysoká spolehlivost a funkční bezpečnost. Toto sladění pomáhá předcházet fragmentaci a umožňuje hladké nasazení 5G v továrnách a závodech, které již fungují na základě automatizačních hierarchií podle ISA. Historicky průmyslové sítě spoléhaly na drátové sběrnice (fieldbus) nebo průmyslový Ethernet, které nabízely spolehlivost, ale postrádaly flexibilitu. 5G s vylepšeními, jako je Ultra-Reliable Low Latency Communication (URLLC), usiluje o poskytnutí bezdrátové flexibility při splnění nebo překročení výkonnostních metrik stanovených těmito drátovými průmyslovými standardy, přičemž ISA poskytuje klíčový aplikační kontext a integrační modely.
+Účelem odkazování na Mezinárodní společnost pro automatizaci (ISA) v kontextech 3GPP je překlenout propast mezi standardy telekomunikací a standardy průmyslové automatizace. Jelikož jsou sítě 5G navrženy tak, aby podporovaly kritickou komunikaci pro vertikální odvětví, jako je výroba, energetika a doprava, je třeba zajistit kompatibilitu s existujícími široce přijímanými průmyslovými protokoly a architekturami. Normy ISA, vyvíjené po desetiletí, definují modely, terminologii a datové struktury pro integraci podnikových a řídicích systémů. Tím, že 3GPP zohledňuje rámce ISA, usiluje o to, aby se 5G stalo životaschopným a optimalizovaným bezdrátovým řešením pro průmyslová prostředí, které splňuje požadavky jako deterministická latence, mimořádně vysoká spolehlivost a funkční bezpečnost. Toto sladění pomáhá předcházet fragmentaci a umožňuje hladké nasazení 5G v továrnách a závodech, které již fungují na základě automatizačních hierarchií podle ISA. Historicky průmyslové sítě spoléhaly na drátové sběrnice (fieldbus) nebo průmyslový Ethernet, které nabízely spolehlivost, ale postrádaly flexibilitu. 5G s vylepšeními, jako je Ultra-Reliable Low Latency Communication ([URLLC](/mobilnisite/slovnik/urllc/)), usiluje o poskytnutí bezdrátové flexibility při splnění nebo překročení výkonnostních metrik stanovených těmito drátovými průmyslovými standardy, přičemž ISA poskytuje klíčový aplikační kontext a integrační modely.
 
 ## Klíčové vlastnosti
 
@@ -30,6 +30,11 @@ Mezinárodní společnost pro automatizaci (International Society of Automation 
 - Normy pro dávkové řízení procesů a sekvenční funkční diagramy
 - Směrnice pro zabezpečení automatizačních systémů (řada ISA/IEC 62443)
 - Referenční architektury pro průmyslovou komunikaci a integraci řídicích systémů
+
+## Související pojmy
+
+- [URLLC – Ultra Reliable Low Latency Communication](/mobilnisite/slovnik/urllc/)
+- [TSN – AF Time Sensitive Networking Application Function](/mobilnisite/slovnik/tsn/)
 
 ## Definující specifikace
 

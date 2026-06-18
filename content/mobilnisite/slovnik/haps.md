@@ -16,7 +16,7 @@ HAPS (High Altitude Platform Station) je kvazistacionární letecká platforma, 
 
 ## Popis
 
-High Altitude Platform Station (HAPS) je síťový uzel umístěný ve stratosféře, typicky v nadmořských výškách mezi 17 km a 22 km, který poskytuje služby bezdrátové komunikace. Funguje jako letecká základnová stanice nebo přenosový uzel, vybavená zařízením přístupové sítě (RAN) pro obsluhu uživatelských zařízení (UE) na zemi. Platformy HAPS zahrnují bezpilotní letouny (UAV), balóny nebo vzducholodě, navržené pro dlouhodobé lety s využitím solární energie a schopností udržování pozice. Ve specifikacích 3GPP je HAPS integrována do architektury RAN jako doplněk k pozemním sítím, nabízející přímou viditelnost ([LOS](/mobilnisite/slovnik/los/)) pokrytí přes rozsáhlé oblasti (až do poloměru 100 km) a umožňující konektivitu v náročném prostředí.
+High Altitude Platform Station (HAPS) je síťový uzel umístěný ve stratosféře, typicky v nadmořských výškách mezi 17 km a 22 km, který poskytuje služby bezdrátové komunikace. Funguje jako letecká základnová stanice nebo přenosový uzel, vybavená zařízením přístupové sítě (RAN) pro obsluhu uživatelských zařízení (UE) na zemi. Platformy HAPS zahrnují bezpilotní letouny ([UAV](/mobilnisite/slovnik/uav/)), balóny nebo vzducholodě, navržené pro dlouhodobé lety s využitím solární energie a schopností udržování pozice. Ve specifikacích 3GPP je HAPS integrována do architektury RAN jako doplněk k pozemním sítím, nabízející přímou viditelnost ([LOS](/mobilnisite/slovnik/los/)) pokrytí přes rozsáhlé oblasti (až do poloměru 100 km) a umožňující konektivitu v náročném prostředí.
 
 Architektura HAPS zahrnuje samotnou platformu, pozemní řídicí stanici pro navigaci a správu a přenosový spoj (backhaul) k jádru sítě. Platforma hostí gNodeB (pro 5G NR) nebo eNodeB (pro LTE), které vysílají a přijímají signály ve vyhrazených frekvenčních pásmech, jako je sub-6 GHz nebo milimetrové vlny. HAPS se připojuje k UE prostřednictvím přístupového spoje a k pozemním bránám prostřednictvím přenosového spoje (backhaul), který může využívat mikrovlnné, optické nebo satelitní spojení. Klíčové součásti zahrnují fázované anténní soustavy pro beamforming, energetické systémy pro dlouhodobý provoz a palubní zpracování pro manipulaci se signály. Specifikace 3GPP definují kanálové modely, požadavky na výkon a integrační protokoly, aby bylo zajištěno bezproblémové fungování HAPS s existujícími sítěmi.
 
@@ -26,7 +26,7 @@ HAPS funguje tak, že udržuje kvazistacionární pozici ve stratosféře, kde m
 
 HAPS byla zavedena v rámci 3GPP k řešení problémů s pokrytím a kapacitou v bezdrátových sítích, zejména pro nedostatečně pokryté oblasti, jako jsou odlehlé regiony, oceány nebo oblasti postižené katastrofami, kde je pozemní infrastruktura nepraktická nebo poškozená. Tradiční základnové stanice mají v takovém prostředí omezený dosah a vysoké náklady na nasazení, což vede k mezerám v konektivitě. HAPS poskytuje nákladově efektivní alternativu tím, že nabízí širokoplošné pokrytí ze stratosféry, překlenuje digitální propast a zajišťuje všeobecnou dostupnost služeb.
 
-Vytvoření HAPS je motivováno potřebou rychlého nasazení a škálovatelnosti v sítích 5G a novějších. Řeší problémy, jako je zahlcení sítě v městských oblastech odlehčením provozu, a podporuje dočasné události nebo vojenské operace poskytováním konektivity na vyžádání. Historicky satelitní systémy nabízely široké pokrytí, ale s vysokou latencí a náklady; HAPS zaplňuje mezeru mezi nimi a poskytuje služby s nízkou latencí, podobné buněčným sítím, s jednodušším nasazením než satelity. To je v souladu s vizí 3GPP pro neterestrické sítě (NTN) pro bezproblémové globální pokrytí.
+Vytvoření HAPS je motivováno potřebou rychlého nasazení a škálovatelnosti v sítích 5G a novějších. Řeší problémy, jako je zahlcení sítě v městských oblastech odlehčením provozu, a podporuje dočasné události nebo vojenské operace poskytováním konektivity na vyžádání. Historicky satelitní systémy nabízely široké pokrytí, ale s vysokou latencí a náklady; HAPS zaplňuje mezeru mezi nimi a poskytuje služby s nízkou latencí, podobné buněčným sítím, s jednodušším nasazením než satelity. To je v souladu s vizí 3GPP pro neterestrické sítě ([NTN](/mobilnisite/slovnik/ntn/)) pro bezproblémové globální pokrytí.
 
 Omezení předchozích přístupů zahrnují nepružnost pevné infrastruktury a vysokou latenci geostacionárních satelitů. HAPS je řeší tím, že umožňuje agilní, rekonfigurovatelné sítě, které lze podle potřeby přemístit. Zvyšuje také odolnost, poskytuje zálohu při výpadcích sítě nebo přírodních katastrofách. Integrace do standardů 3GPP zajišťuje interoperabilitu s existujícími zařízeními a sítěmi, podporuje inovace v letecké konektivitě a umožňuje nové případy užití, jako jsou autonomní vozidla a chytré zemědělství.
 
@@ -38,6 +38,11 @@ Omezení předchozích přístupů zahrnují nepružnost pevné infrastruktury a
 - Integrace s pozemními sítěmi prostřednictvím přenosových spojů (backhaul) (mikrovlnné, optické nebo satelitní)
 - Kvazistacionární nasazení se schopnostmi udržování pozice pro dlouhodobý provoz služeb
 - Umožňuje rychlé nasazení pro nouzovou komunikaci, pokrytí venkovských oblastí a odlehčení provozu
+
+## Související pojmy
+
+- [UAV – Uncrewed Aerial Vehicle](/mobilnisite/slovnik/uav/)
+- [RAN – Radio Access Network](/mobilnisite/slovnik/ran/)
 
 ## Definující specifikace
 

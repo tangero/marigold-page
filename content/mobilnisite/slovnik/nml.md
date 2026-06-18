@@ -16,7 +16,7 @@ NML je funkční vrstva v hierarchii Telekomunikační správy sítě (Telecommu
 
 ## Popis
 
-NML (Network Management Layer, vrstva správy sítě) je klíčový architektonický koncept v modelu Telekomunikační správy sítě (TMN) dle [ITU-T](/mobilnisite/slovnik/itu-t/), který byl přijat a upraven 3GPP pro správu mobilních sítí. V pyramidě TMN se nachází nad vrstvou správy prvků ([EML](/mobilnisite/slovnik/eml/)) a pod vrstvou správy služeb (SML). Primární odpovědností NML je správa sítě jako celku, nikoliv jednotlivých prvků. Toho dosahuje agregací a korelací dat (alarmů, metrik výkonnosti, konfiguračních dat) přijatých z různých systémů správy prvků ([EMS](/mobilnisite/slovnik/ems/)), které spravují konkrétní podsítě nebo domény dodavatelů.
+NML (Network Management Layer, vrstva správy sítě) je klíčový architektonický koncept v modelu Telekomunikační správy sítě ([TMN](/mobilnisite/slovnik/tmn/)) dle [ITU-T](/mobilnisite/slovnik/itu-t/), který byl přijat a upraven 3GPP pro správu mobilních sítí. V pyramidě TMN se nachází nad vrstvou správy prvků ([EML](/mobilnisite/slovnik/eml/)) a pod vrstvou správy služeb ([SML](/mobilnisite/slovnik/sml/)). Primární odpovědností NML je správa sítě jako celku, nikoliv jednotlivých prvků. Toho dosahuje agregací a korelací dat (alarmů, metrik výkonnosti, konfiguračních dat) přijatých z různých systémů správy prvků ([EMS](/mobilnisite/slovnik/ems/)), které spravují konkrétní podsítě nebo domény dodavatelů.
 
 Z architektonického hlediska je NML implementována v rámci systému správy sítě ([NMS](/mobilnisite/slovnik/nms/)), často jako součást systému podpory provozu ([OSS](/mobilnisite/slovnik/oss/)). S EML komunikuje prostřednictvím standardizovaných rozhraní (např. rozhraní Itf-N v 3GPP). NML obsahuje aplikace a funkce s působností pro celou síť. Mezi klíčové komponenty patří správa poruch sítě (Network Fault Management), která provádí korelaci alarmů a analýzu hlavní příčiny napříč více prvky za účelem potlačení redundantních alarmů a identifikace primárního místa poruchy. Správa výkonnosti sítě (Network Performance Management) agreguje [KPI](/mobilnisite/slovnik/kpi/) z různých segmentů sítě pro vyhodnocení výkonnosti služeb od konce ke konci a provádění traffic engineeringu. Správa konfigurace sítě (Network Configuration Management) zajišťuje správu topologie a koordinaci konfiguračních změn napříč více doménami.
 
@@ -24,9 +24,9 @@ Princip fungování: NML přijímá předzpracovaná data z EMS. Například EMS
 
 ## K čemu slouží
 
-NML byla koncipována k řešení výzev správy sítí složených z četných heterogenních síťových prvků od různých dodavatelů. Správa takových sítí pouze na úrovni prvků ([EML](/mobilnisite/slovnik/eml/)) vede k provozním izolovaným celkům (silosům), informačnímu přetížení z nekorelovaných alarmů a neschopnosti porozumět celkovému chování sítě nebo dopadu poruch na služby poskytované od konce ke konci.
+NML byla koncipována k řešení výzev správy sítí složených z četných heterogenních síťových prvků od různých dodavatelů. Správa takových sítí pouze na úrovni prvků (EML) vede k provozním izolovaným celkům (silosům), informačnímu přetížení z nekorelovaných alarmů a neschopnosti porozumět celkovému chování sítě nebo dopadu poruch na služby poskytované od konce ke konci.
 
-NML tyto problémy řeší zavedením vrstvy abstrakce a korelace. Poskytuje „pohled na síť“, který je klíčový pro efektivní provoz. Její vznik byl motivován potřebou provozní efektivity, snížení střední doby do opravy (MTTR) prostřednictvím inteligentní korelace poruch a schopnosti spravovat služby namísto pouze jednotlivých zařízení. NML umožňuje operátorům přejít od reaktivního řešení problémů zaměřeného na prvky k proaktivní správě a optimalizaci sítě s ohledem na služby. Její standardizace v rámci TMN a 3GPP zajišťuje, že [EMS](/mobilnisite/slovnik/ems/) od různých dodavatelů mohou do NML poskytovat konzistentní informace, což umožňuje interoperabilitu mezi více dodavateli.
+NML tyto problémy řeší zavedením vrstvy abstrakce a korelace. Poskytuje „pohled na síť“, který je klíčový pro efektivní provoz. Její vznik byl motivován potřebou provozní efektivity, snížení střední doby do opravy (MTTR) prostřednictvím inteligentní korelace poruch a schopnosti spravovat služby namísto pouze jednotlivých zařízení. NML umožňuje operátorům přejít od reaktivního řešení problémů zaměřeného na prvky k proaktivní správě a optimalizaci sítě s ohledem na služby. Její standardizace v rámci TMN a 3GPP zajišťuje, že EMS od různých dodavatelů mohou do NML poskytovat konzistentní informace, což umožňuje interoperabilitu mezi více dodavateli.
 
 ## Klíčové vlastnosti
 
@@ -39,6 +39,7 @@ NML tyto problémy řeší zavedením vrstvy abstrakce a korelace. Poskytuje „
 
 ## Související pojmy
 
+- [TMN – Telecommunications Management Network](/mobilnisite/slovnik/tmn/)
 - [NMS – Network Management Subsystem](/mobilnisite/slovnik/nms/)
 
 ## Definující specifikace

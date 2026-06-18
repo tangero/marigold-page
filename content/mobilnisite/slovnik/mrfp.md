@@ -20,7 +20,7 @@ Multimedia Resource Function Processor (MRFP) je entita uživatelské roviny (us
 
 Z architektonického hlediska je MRFP podřízená komponenta, která přijímá pokyny od MRFC. MRFC používá příkazy H.248 k vytváření 'kontextů' uvnitř MRFP, což jsou logické kontejnery pro mediální relace. V rámci těchto kontextů MRFC přidává 'terminace', které představují koncové body pro mediální toky. MRFP pak tyto terminace propojuje a aplikuje specifikované 'balíčky' funkcí pro zpracování médií. Například v třístranné audio konferenci by MRFP vytvořil kontext se třemi terminacemi (jedna pro každého účastníka), aplikoval mixovací funkci, která kombinuje audio od všech stran, a poslal smíšený tok zpět do každé terminace. MRFP je z pohledu servisní logiky bezstavový; veškerá inteligence a stav relace sídlí v MRFC.
 
-V praktickém provozu, když služba vyžaduje zpracování médií, MRFC nařídí MRFP, aby alokoval potřebné porty a výpočetní výkon. MRFP podle pokynů naváže spojení na úrovni přenosu (přes RTP/UDP/IP) s uživatelským zařízením (UE) nebo jinými síťovými koncovými body. Poté kontinuálně zpracovává příchozí mediální pakety v reálném čase, provádí nařízené funkce a přeposílá výsledné toky. MRFP také generuje hlášení a oznámení (např. 'detekována DTMF číslice 1') zpět do MRFC prostřednictvím H.248, což umožňuje řídicí rovině reagovat na mediální události. Tento návrh umožňuje zpracování médií s vysokou propustností a nízkou latencí, které je zcela oddělené od složitosti signalizace a servisní logiky.
+V praktickém provozu, když služba vyžaduje zpracování médií, MRFC nařídí MRFP, aby alokoval potřebné porty a výpočetní výkon. MRFP podle pokynů naváže spojení na úrovni přenosu (přes [RTP](/mobilnisite/slovnik/rtp/)/[UDP](/mobilnisite/slovnik/udp/)/IP) s uživatelským zařízením (UE) nebo jinými síťovými koncovými body. Poté kontinuálně zpracovává příchozí mediální pakety v reálném čase, provádí nařízené funkce a přeposílá výsledné toky. MRFP také generuje hlášení a oznámení (např. 'detekována DTMF číslice 1') zpět do MRFC prostřednictvím H.248, což umožňuje řídicí rovině reagovat na mediální události. Tento návrh umožňuje zpracování médií s vysokou propustností a nízkou latencí, které je zcela oddělené od složitosti signalizace a servisní logiky.
 
 ## K čemu slouží
 
@@ -41,6 +41,7 @@ Jeho vytvoření bylo zásadní pro umožnění komerčního nasazení pokročil
 
 - [MRF – Multimedia Resource Function](/mobilnisite/slovnik/mrf/)
 - [MRFC – Multimedia Resource Function Controller](/mobilnisite/slovnik/mrfc/)
+- [RTP – Real-time Transport Protocol](/mobilnisite/slovnik/rtp/)
 
 ## Definující specifikace
 

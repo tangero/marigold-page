@@ -16,7 +16,7 @@ DSCS je sada kodeků podporovaných vzdáleným koncovým zařízením, která u
 
 ## Popis
 
-Distant Supported Codec Set (DSCS) je koncept definovaný ve specifikacích 3GPP, především v TS 28.062, který se zabývá správou a testováním sítě. Odkazuje na soubor audio a video kodeků, které může vzdálené uživatelské zařízení (UE) nebo koncové zařízení podporovat během komunikační relace. Při typickém zřizování relace, jako je hlasový nebo videohovor, si koncové body vyměňují své podporované sady kodeků, aby vyjednaly nejvhodnější kodek pro spojení. Toto vyjednávání je klíčové pro zajištění interoperability mezi různými zařízeními a sítěmi, protože umožňuje výběr společného kodeku, který mohou oba konce efektivně kódovat a dekódovat. DSCS je typicky sdělován během protokolů pro zahájení relace, jako je SIP (Session Initiation Protocol), kde každý koncový bod uvádí své schopnosti a síť nebo samotné koncové body určí optimální kodek na základě faktorů, jako je šířka pásma, latence a požadavky na kvalitu.
+Distant Supported Codec Set (DSCS) je koncept definovaný ve specifikacích 3GPP, především v TS 28.062, který se zabývá správou a testováním sítě. Odkazuje na soubor audio a video kodeků, které může vzdálené uživatelské zařízení (UE) nebo koncové zařízení podporovat během komunikační relace. Při typickém zřizování relace, jako je hlasový nebo videohovor, si koncové body vyměňují své podporované sady kodeků, aby vyjednaly nejvhodnější kodek pro spojení. Toto vyjednávání je klíčové pro zajištění interoperability mezi různými zařízeními a sítěmi, protože umožňuje výběr společného kodeku, který mohou oba konce efektivně kódovat a dekódovat. DSCS je typicky sdělován během protokolů pro zahájení relace, jako je [SIP](/mobilnisite/slovnik/sip/) (Session Initiation Protocol), kde každý koncový bod uvádí své schopnosti a síť nebo samotné koncové body určí optimální kodek na základě faktorů, jako je šířka pásma, latence a požadavky na kvalitu.
 
 Z architektonického hlediska DSCS funguje v rámci širšího rámce zpracování médií v sítích 3GPP a zahrnuje komponenty jako UE, jádro sítě (např. IMS – IP Multimedia Subsystem) a případně mezilehlé uzly, jako jsou mediální brány. Při zahájení hovoru iniciující UE odešle svou lokálně podporovanou sadu kodeků a vzdálené UE odpoví svou DSCS. Tato výměna často probíhá prostřednictvím signalizačních zpráv, což síti umožňuje usnadnit výběr kodeku nebo v případě potřeby transkódování. Mezi klíčové zapojené komponenty patří mediální procesní jednotky UE, jádro IMS pro správu relací a funkce řízení politik, které mohou vynucovat preference kodeků na základě síťových podmínek nebo profilů účastníků. Úlohou DSCS je umožnit dynamickou adaptaci na měnící se síťová prostředí a zajistit, aby mediální proudy byly kódovány ve formátu, který vyvažuje kvalitu a využití zdrojů.
 
@@ -43,6 +43,8 @@ Dále DSCS podporuje inovace služeb tím, že umožňuje zavádění nových ko
 
 - [CODEC – Coder/Decoder](/mobilnisite/slovnik/codec/)
 - [IMS – IP Multimedia Subsystem](/mobilnisite/slovnik/ims/)
+- [SIP – Session Initiation Protocol](/mobilnisite/slovnik/sip/)
+- [QoS – Quality of Service](/mobilnisite/slovnik/qos/)
 
 ## Definující specifikace
 

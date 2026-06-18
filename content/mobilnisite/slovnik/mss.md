@@ -16,7 +16,7 @@ MSS je 3GPP rámec pro integraci satelitních přístupových sítí s pozemním
 
 ## Popis
 
-Mobilní satelitní služby (MSS) v kontextu 3GPP odkazují na systémovou architekturu a protokoly, které umožňují satelitním komponentám poskytovat mobilní komunikační služby jako součást sítě 3GPP. Počínaje vydáním 12 se 3GPP začalo zabývat studiem a standardizací integrace satelitního přístupu jako typu mimozemské sítě (NTN). Satelitní komponentou může být geostacionární družice ([GEO](/mobilnisite/slovnik/geo/)), družice na střední oběžné dráze ([MEO](/mobilnisite/slovnik/meo/)) nebo družice na nízké oběžné dráze ([LEO](/mobilnisite/slovnik/leo/)) fungující jako uzel radiového přístupu, případně s regenerativní užitečnou zátěží na palubě (fungující jako základnová stanice) nebo s transparentní užitečnou zátěží (fungující jako průchozí relé).
+Mobilní satelitní služby (MSS) v kontextu 3GPP odkazují na systémovou architekturu a protokoly, které umožňují satelitním komponentám poskytovat mobilní komunikační služby jako součást sítě 3GPP. Počínaje vydáním 12 se 3GPP začalo zabývat studiem a standardizací integrace satelitního přístupu jako typu mimozemské sítě ([NTN](/mobilnisite/slovnik/ntn/)). Satelitní komponentou může být geostacionární družice ([GEO](/mobilnisite/slovnik/geo/)), družice na střední oběžné dráze ([MEO](/mobilnisite/slovnik/meo/)) nebo družice na nízké oběžné dráze ([LEO](/mobilnisite/slovnik/leo/)) fungující jako uzel radiového přístupu, případně s regenerativní užitečnou zátěží na palubě (fungující jako základnová stanice) nebo s transparentní užitečnou zátěží (fungující jako průchozí relé).
 
 Architektura zahrnuje satelitní rozhraní pro rádiové spojení, které připojuje uživatelské zařízení (UE) k satelitu. Satelit je následně připojen k pozemní bránové stanici, která je rozhraním k jádrové síti 5G Core (5GC) nebo Evolved Packet Core (EPC). Mezi klíčové technické výzvy, které se řeší, patří velmi dlouhé zpoždění šíření (zejména u GEO), vysoký Dopplerův jev (u LEO) a přerušovaná viditelnost. Specifikace 3GPP definují úpravy fyzické vrstvy (např. časový předstih, [HARQ](/mobilnisite/slovnik/harq/)), řízení rádiových zdrojů a procedury mobility, aby bylo možné se s těmito podmínkami vyrovnat.
 
@@ -36,6 +36,10 @@ Standardizace MSS v 3GPP byla motivována potřebou poskytnout bezproblémové, 
 - Bezproblémová kontinuita služeb mezi pozemním a satelitním přístupem
 - Umožňuje globální pokrytí pro hlasové, datové, IoT a vysílací služby
 - Standardizovaná rozhraní umožňující satelitním sítím připojení k 5GC/EPC
+
+## Související pojmy
+
+- [NTN – Non-Terrestrial Networks](/mobilnisite/slovnik/ntn/)
 
 ## Definující specifikace
 

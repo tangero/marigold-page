@@ -16,7 +16,7 @@ MTP3-B je protokol Message Transfer Part úrovně 3 přizpůsobený pro Q.2140, 
 
 ## Popis
 
-MTP3-B (Message Transfer Part level 3 Broadband) je klíčový protokol v signalizační architektuře 3GPP, definovaný pro použití přes přenosové sítě [ATM](/mobilnisite/slovnik/atm/) (Asynchronous Transfer Mode). Funguje jako síťová vrstva v rámci Message Transfer Part ([MTP](/mobilnisite/slovnik/mtp/)) signalizačního systému, nachází se nad [MTP2](/mobilnisite/slovnik/mtp2/) (vrstvou datového spoje) a pod adaptační vrstvou Q.2140. Jeho primární funkcí je zajišťovat směrování, rozlišování a distribuci signalizačních zpráv mezi různými síťovými uzly, jako jsou Mobile Switching Centers ([MSC](/mobilnisite/slovnik/msc/)) a Gateway MSC. Na rozdíl od své úzkopásmové varianty ([MTP3](/mobilnisite/slovnik/mtp3/)) je MTP3-B optimalizován pro vysokorychlostní, spojově orientovanou povahu ATM a podporuje Signalizační adaptační vrstvu ATM (SAAL), která zahrnuje Q.2140 a [AAL5](/mobilnisite/slovnik/aal5/).
+MTP3-B (Message Transfer Part level 3 Broadband) je klíčový protokol v signalizační architektuře 3GPP, definovaný pro použití přes přenosové sítě [ATM](/mobilnisite/slovnik/atm/) (Asynchronous Transfer Mode). Funguje jako síťová vrstva v rámci Message Transfer Part ([MTP](/mobilnisite/slovnik/mtp/)) signalizačního systému, nachází se nad [MTP2](/mobilnisite/slovnik/mtp2/) (vrstvou datového spoje) a pod adaptační vrstvou Q.2140. Jeho primární funkcí je zajišťovat směrování, rozlišování a distribuci signalizačních zpráv mezi různými síťovými uzly, jako jsou Mobile Switching Centers ([MSC](/mobilnisite/slovnik/msc/)) a Gateway MSC. Na rozdíl od své úzkopásmové varianty ([MTP3](/mobilnisite/slovnik/mtp3/)) je MTP3-B optimalizován pro vysokorychlostní, spojově orientovanou povahu ATM a podporuje Signalizační adaptační vrstvu ATM ([SAAL](/mobilnisite/slovnik/saal/)), která zahrnuje Q.2140 a [AAL5](/mobilnisite/slovnik/aal5/).
 
 Architektonicky rozhraní MTP3-B komunikuje s vrstvou Q.2140, která adaptuje služby MTP3-B na podkladovou ATM síť. Klíčové komponenty MTP3-B zahrnují funkci zpracování signalizačních zpráv, zodpovědnou za směrování zpráv na základě cílových a zdrojových kódů bodů, a funkci správy signalizační sítě, která řeší řízení zahlcení, správu tras a obnovu po poruše, aby byla zajištěna spolehlivost signalizační sítě. Spravuje signalizační spoje, sady signalizačních spojů a signalizační trasy a poskytuje mechanismy pro sdílení zátěže a přesměrování v případě poruchy spoje.
 
@@ -26,7 +26,7 @@ Role MTP3-B v síti 3GPP, zejména ve verzi Release 99 a raných verzích, byla 
 
 ## K čemu slouží
 
-MTP3-B byl vytvořen, aby rozšířil tradiční signalizaci SS7/C7 na širokopásmové [ATM](/mobilnisite/slovnik/atm/) sítě, které tvořily přenosovou páteř raných jádrových sítí UMTS 3G. Předchozí úzkopásmová signalizace (MTP3 přes TDM spoje) byla nedostatečná pro vysokou přenosovou kapacitu a spojově orientované požadavky ATM. Motivací bylo využít efektivitu ATM pro hlasové a datové služby při zachování robustního, spolehlivého signalizačního rámce SS7. MTP3-B spolu s Q.2140 poskytly standardizovanou adaptační vrstvu, která umožnila stávajícím signalizačním aplikacím (jako je ISUP) bezproblémově fungovat nad infrastrukturou ATM.
+MTP3-B byl vytvořen, aby rozšířil tradiční signalizaci SS7/C7 na širokopásmové ATM sítě, které tvořily přenosovou páteř raných jádrových sítí UMTS 3G. Předchozí úzkopásmová signalizace (MTP3 přes TDM spoje) byla nedostatečná pro vysokou přenosovou kapacitu a spojově orientované požadavky ATM. Motivací bylo využít efektivitu ATM pro hlasové a datové služby při zachování robustního, spolehlivého signalizačního rámce SS7. MTP3-B spolu s Q.2140 poskytly standardizovanou adaptační vrstvu, která umožnila stávajícím signalizačním aplikacím (jako je ISUP) bezproblémově fungovat nad infrastrukturou ATM.
 
 Tato technologie řešila problém integrace spojově orientované signalizace s paketově orientovaným přenosem, což byla klíčová výzva při přechodu na 3G. Odstraňovala omezení úzkopásmového MTP3, které bylo navrženo pro 64 kbps časové sloty a postrádalo nativní podporu pro virtuální spojení a buňkový přenos ATM. Definováním širokopásmové varianty umožnilo 3GPP operátorům nasadit signalizační spoje s vysokou kapacitou, které zvládly zvýšený signalizační provoz z nových služeb 3G, a podpořilo tak funkce jako videohovory a vysokorychlostní datová připojení.
 
@@ -44,6 +44,7 @@ Historicky byl MTP3-B součástí širší standardizace ITU-T pro signalizaci B
 ## Související pojmy
 
 - [MTP – Message Transfer Part](/mobilnisite/slovnik/mtp/)
+- [SAAL – Signalling ATM Adaptation Layer](/mobilnisite/slovnik/saal/)
 - [ATM – Asynchronous Transfer Mode](/mobilnisite/slovnik/atm/)
 
 ## Definující specifikace

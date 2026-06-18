@@ -16,9 +16,9 @@ EUTRAN je rádiová přístupová síť pro 4G LTE, která se skládá ze zákla
 
 ## Popis
 
-Evolved Universal Terrestrial Radio Access Network (EUTRAN) je souhrnný termín pro síť rádiových přístupových uzlů a jejich vzájemných propojení, které tvoří LTE rádiovou síť. Její jedinou komponentou je evolved NodeB (eNodeB), která poskytuje ukončení protokolů uživatelské roviny (PDCP/RLC/[MAC](/mobilnisite/slovnik/mac/)/PHY) a řídicí roviny ([RRC](/mobilnisite/slovnik/rrc/)) směrem k uživatelskému zařízení (UE). Na rozdíl od 3G UTRAN má EUTRAN plně distribuovanou, plochou architekturu, kde je každý eNodeB autonomní a připojuje se přímo k Evolved Packet Core (EPC).
+Evolved Universal Terrestrial Radio Access Network (EUTRAN) je souhrnný termín pro síť rádiových přístupových uzlů a jejich vzájemných propojení, které tvoří LTE rádiovou síť. Její jedinou komponentou je evolved NodeB (eNodeB), která poskytuje ukončení protokolů uživatelské roviny ([PDCP](/mobilnisite/slovnik/pdcp/)/[RLC](/mobilnisite/slovnik/rlc/)/[MAC](/mobilnisite/slovnik/mac/)/[PHY](/mobilnisite/slovnik/phy/)) a řídicí roviny ([RRC](/mobilnisite/slovnik/rrc/)) směrem k uživatelskému zařízení (UE). Na rozdíl od 3G [UTRAN](/mobilnisite/slovnik/utran/) má EUTRAN plně distribuovanou, plochou architekturu, kde je každý eNodeB autonomní a připojuje se přímo k Evolved Packet Core (EPC).
 
-Z architektonického hlediska je EUTRAN definována dvěma klíčovými rozhraními: rozhraním Uu (rádiové rozhraní k UE) a rozhraním S1 (k EPC). Rozhraní S1 je rozděleno na S1-U pro provoz v uživatelské rovině (připojení k Serving Gateway - S-GW) a S1-MME pro signalizaci v řídicí rovině (připojení k Mobility Management Entity - [MME](/mobilnisite/slovnik/mme/)). Pro přímou komunikaci mezi eNodeB, například pro koordinaci předání spojení (handover) a správu interference, se používá rozhraní X2. Toto rozhraní X2 je definujícím rysem EUTRAN a umožňuje decentralizovanou správu mobility a rádiových zdrojů bez centrálního řídicího prvku.
+Z architektonického hlediska je EUTRAN definována dvěma klíčovými rozhraními: rozhraním Uu (rádiové rozhraní k UE) a rozhraním S1 (k EPC). Rozhraní S1 je rozděleno na [S1-U](/mobilnisite/slovnik/s1-u/) pro provoz v uživatelské rovině (připojení k Serving Gateway - [S-GW](/mobilnisite/slovnik/s-gw/)) a S1-MME pro signalizaci v řídicí rovině (připojení k Mobility Management Entity - MME). Pro přímou komunikaci mezi eNodeB, například pro koordinaci předání spojení (handover) a správu interference, se používá rozhraní X2. Toto rozhraní X2 je definujícím rysem EUTRAN a umožňuje decentralizovanou správu mobility a rádiových zdrojů bez centrálního řídicího prvku.
 
 EUTRAN funguje tak, že každý eNodeB nezávisle spravuje rádiové zdroje pro uživatelská zařízení ve své buňce (buňkách). Provádí funkce jako rádiové přijímací řízení, řízení mobility spojení, dynamické plánování zdrojů pro uplink a downlink a kompresi IP hlaviček. Během předání spojení zdrojový eNodeB použije rozhraní X2 (pokud je dostupné) k přímé koordinaci s cílovým eNodeB, přenese kontext UE a přepošle právě přenášené datové pakety, aby se minimalizovalo přerušení služby. eNodeB také vynucuje zabezpečení aplikací šifrování a ochranu integrity podle konfigurace od EPC. Celý návrh EUTRAN klade důraz na jednoduchost, nízkou latenci a vysokou dostupnost, aby podporoval plynulé mobilní širokopásmové služby.
 
@@ -43,6 +43,7 @@ EUTRAN vyřešil klíčové problémy síťové složitosti a latence při před
 
 - [EPC – Evolved Packet Core Network](/mobilnisite/slovnik/epc/)
 - [LTE – Local Terminal Emulator](/mobilnisite/slovnik/lte/)
+- [UTRAN – Universal Terrestrial Radio Access Network](/mobilnisite/slovnik/utran/)
 
 ## Definující specifikace
 

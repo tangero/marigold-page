@@ -16,11 +16,11 @@ summary: "16QAM je digitální modulační schéma, které kóduje 4 bity na sym
 
 ## Popis
 
-16-Quadrature Amplitude Modulation (16QAM) je klíčová digitální modulační technika standardizovaná v rámci 3GPP pro bezdrátové komunikační systémy. Funguje tak, že moduluje dvě ortogonální nosné vlny, typicky složky ve fázi (I) a kvadratuře (Q), přičemž každý symbol představuje 4 bity dat. Konstelační diagram pro 16QAM se skládá z 16 diskrétních bodů uspořádaných do čtvercové mřížky, kde každý bod odpovídá jedinečné kombinaci amplitudy a fáze. To umožňuje přenos 4 bitů na symbol, čímž se zdvojnásobí datová rychlost ve srovnání s kvadraturní fázovou modulací (QPSK), která přenáší 2 bity na symbol. Proces modulace zahrnuje mapování binárních dat na konkrétní konstelační body, které jsou následně převedeny na analogové signály pro přenos přes rádiový kanál.
+16-Quadrature Amplitude Modulation (16QAM) je klíčová digitální modulační technika standardizovaná v rámci 3GPP pro bezdrátové komunikační systémy. Funguje tak, že moduluje dvě ortogonální nosné vlny, typicky složky ve fázi (I) a kvadratuře (Q), přičemž každý symbol představuje 4 bity dat. Konstelační diagram pro 16QAM se skládá z 16 diskrétních bodů uspořádaných do čtvercové mřížky, kde každý bod odpovídá jedinečné kombinaci amplitudy a fáze. To umožňuje přenos 4 bitů na symbol, čímž se zdvojnásobí datová rychlost ve srovnání s kvadraturní fázovou modulací ([QPSK](/mobilnisite/slovnik/qpsk/)), která přenáší 2 bity na symbol. Proces modulace zahrnuje mapování binárních dat na konkrétní konstelační body, které jsou následně převedeny na analogové signály pro přenos přes rádiový kanál.
 
 V systémech 3GPP je 16QAM implementována na fyzické vrstvě, zejména v downlinku pro technologie jako High-Speed Downlink Packet Access ([HSDPA](/mobilnisite/slovnik/hsdpa/)) v UMTS a později v LTE a 5G NR. Vysílač používá modulátor ke generování signálů I a Q na základě vstupního bitového toku a aplikuje filtry pro tvarování impulsů k omezení šířky pásma. Na straně přijímače demodulace zahrnuje vzorkování přijatého signálu, odhad stavu kanálu a mapování vzorkovaných bodů zpět na nejbližší konstelační body k obnovení původních bitů. Kódování pro opravu chyb, jako jsou turbo kódy nebo [LDPC](/mobilnisite/slovnik/ldpc/), je často kombinováno s 16QAM ke zmírnění chyb způsobených šumem a interferencí, což zajišťuje spolehlivý přenos dat.
 
-Výkon 16QAM se vyznačuje vyšší spektrální účinností, ale také zvýšenou citlivostí na poměr signálu k šumu (SNR) ve srovnání s modulacemi nižšího řádu, jako je QPSK. Vyžaduje lepší kvalitu kanálu pro udržení nízké bitové chybovosti ([BER](/mobilnisite/slovnik/ber/)), protože konstelační body jsou blíže u sebe, což je činí náchylnějšími ke zkreslení. Ve specifikacích 3GPP je 16QAM definována v mnoha dokumentech, včetně TS 25.211 pro fyzické kanály a TS 37.902 pro testování. Její role je klíčová pro zvýšení propustnosti downlinku, podporu aplikací jako streamování videa a prohlížení webu a slouží jako základní modulační schéma, které připravilo cestu pro varianty QAM vyššího řádu, jako jsou [64QAM](/mobilnisite/slovnik/64qam/) a 256QAM, v pokročilých vydáních.
+Výkon 16QAM se vyznačuje vyšší spektrální účinností, ale také zvýšenou citlivostí na poměr signálu k šumu ([SNR](/mobilnisite/slovnik/snr/)) ve srovnání s modulacemi nižšího řádu, jako je QPSK. Vyžaduje lepší kvalitu kanálu pro udržení nízké bitové chybovosti ([BER](/mobilnisite/slovnik/ber/)), protože konstelační body jsou blíže u sebe, což je činí náchylnějšími ke zkreslení. Ve specifikacích 3GPP je 16QAM definována v mnoha dokumentech, včetně TS 25.211 pro fyzické kanály a TS 37.902 pro testování. Její role je klíčová pro zvýšení propustnosti downlinku, podporu aplikací jako streamování videa a prohlížení webu a slouží jako základní modulační schéma, které připravilo cestu pro varianty [QAM](/mobilnisite/slovnik/qam/) vyššího řádu, jako jsou [64QAM](/mobilnisite/slovnik/64qam/) a 256QAM, v pokročilých vydáních.
 
 ## K čemu slouží
 
@@ -41,6 +41,7 @@ Historicky představovala 16QAM významný krok ve vývoji mobilního širokopá
 
 ## Související pojmy
 
+- [QPSK – Quadrature Phase Shift Keying](/mobilnisite/slovnik/qpsk/)
 - [64QAM – 64 Quadrature Amplitude Modulation](/mobilnisite/slovnik/64qam/)
 - [HSDPA – High Speed Downlink Packet Access](/mobilnisite/slovnik/hsdpa/)
 

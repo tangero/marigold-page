@@ -44,6 +44,7 @@ Motivace za 5GMSA také vychází z touhy podporovat nové obchodní modely a se
 ## Související pojmy
 
 - [5GC – 5G Core Network](/mobilnisite/slovnik/5gc/)
+- [QoS – Quality of Service](/mobilnisite/slovnik/qos/)
 - [PCF – Positioning Calculation Function](/mobilnisite/slovnik/pcf/)
 
 ## Definující specifikace

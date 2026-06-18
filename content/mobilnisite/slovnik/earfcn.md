@@ -24,11 +24,11 @@ Během provozu, když síťový operátor nasazuje buňku, nakonfiguruje její p
 
 ## K čemu slouží
 
-EARFCN byl vytvořen, aby vyřešil potřebu jednotné, škálovatelné a na technologii nezávislé metody identifikace rádiových kanálů v sítích LTE, čímž nahradil dříve používané UMTS Absolute Radio Frequency Channel Number (UARFCN) pro 3G. Před LTE používaly různé technologie rádiového přístupu (GSM, UMTS) vlastní schémata číslování kanálů, což komplikovalo návrh více režimových zařízení a vzájemné propojení sítí. Přechod na LTE založené na [OFDMA](/mobilnisite/slovnik/ofdma/) vyžadoval nové schéma, které by mohlo efektivně reprezentovat širší šířky kanálů a různorodá přidělení spektra plánovaná pro 4G.
+EARFCN byl vytvořen, aby vyřešil potřebu jednotné, škálovatelné a na technologii nezávislé metody identifikace rádiových kanálů v sítích LTE, čímž nahradil dříve používané UMTS Absolute Radio Frequency Channel Number ([UARFCN](/mobilnisite/slovnik/uarfcn/)) pro 3G. Před LTE používaly různé technologie rádiového přístupu (GSM, UMTS) vlastní schémata číslování kanálů, což komplikovalo návrh více režimových zařízení a vzájemné propojení sítí. Přechod na LTE založené na [OFDMA](/mobilnisite/slovnik/ofdma/) vyžadoval nové schéma, které by mohlo efektivně reprezentovat širší šířky kanálů a různorodá přidělení spektra plánovaná pro 4G.
 
 Hlavním problémem, který EARFCN řeší, je abstrakce detailů fyzického kmitočtu od protokolů vyšších vrstev a systémů pro správu sítě. Použitím jednoduchého celého čísla se síťová konfigurace, seznamy sousedních buněk a příkazy k předání spojení stávají nezávislými na skutečných hodnotách v MHz nebo GHz, což zjednodušuje softwarovou implementaci a snižuje chyby. Tato abstrakce je obzvláště důležitá pro globální roaming, protože zařízení může interpretovat EARFCN z jakékoli sítě na světě a správně vypočítat místní provozní kmitočet na základě standardizovaných vzorců. Systém také připravuje na budoucnost, protože nová kmitočtová pásma lze přidat rozšířením rozsahu EARFCN bez změny základních mechanizmů protokolu.
 
-Historicky vycházela motivace z rostoucí složitosti správy spektra s příchodem LTE, které bylo navrženo pro provoz v párovém ([FDD](/mobilnisite/slovnik/fdd/)) i nepárovém (TDD) spektru v kontinuu od tradičních buněčných pásem až po nové, vyšší kmitočty. EARFCN poskytuje konzistentní referenční bod, který je škálovatelný napříč všemi těmito scénáři, a umožňuje funkce jako je agregace nosných, kdy zařízení současně používá více EARFCN. Jeho vytvoření bylo základním krokem k zajištění, že LTE a následné 5G NR mohou být flexibilně nasazeny v roztříštěném rádiovém spektru po celém světě.
+Historicky vycházela motivace z rostoucí složitosti správy spektra s příchodem LTE, které bylo navrženo pro provoz v párovém ([FDD](/mobilnisite/slovnik/fdd/)) i nepárovém ([TDD](/mobilnisite/slovnik/tdd/)) spektru v kontinuu od tradičních buněčných pásem až po nové, vyšší kmitočty. EARFCN poskytuje konzistentní referenční bod, který je škálovatelný napříč všemi těmito scénáři, a umožňuje funkce jako je agregace nosných, kdy zařízení současně používá více EARFCN. Jeho vytvoření bylo základním krokem k zajištění, že LTE a následné 5G NR mohou být flexibilně nasazeny v roztříštěném rádiovém spektru po celém světě.
 
 ## Klíčové vlastnosti
 
@@ -41,6 +41,7 @@ Historicky vycházela motivace z rostoucí složitosti správy spektra s přích
 
 ## Související pojmy
 
+- [UARFCN – UTRA Absolute Radio Frequency Channel Number](/mobilnisite/slovnik/uarfcn/)
 - [NR-ARFCN – NR Absolute Radio Frequency Channel Number](/mobilnisite/slovnik/nr-arfcn/)
 - [E-UTRAN – Evolved Universal Terrestrial Radio Access Network](/mobilnisite/slovnik/e-utran/)
 

@@ -18,7 +18,7 @@ MCMC (Mission Critical MBMS subchannel Control Protocol) je protokol pro řízen
 
 Mission Critical [MBMS](/mobilnisite/slovnik/mbms/) subchannel Control Protocol (MCMC) je řídicí protokol specifikovaný v 3GPP TS 24.380. Působí v rámci služeb Mission Critical Services ([MCS](/mobilnisite/slovnik/mcs/)), konkrétně pro Mission Critical Push-to-Talk ([MCPTT](/mobilnisite/slovnik/mcptt/)) přes MBMS (Multimedia Broadcast Multicast Service). Jeho hlavní funkcí je řídit zřizování, modifikaci a uvolňování podkanálů MBMS přidělených pro relace skupinové komunikace MCPTT. Podkanál MBMS je logický kanál v rámci služby přenosu MBMS, používaný pro přenos médií a řídicích informací pro konkrétní skupinu MCPTT. Protokol umožňuje serveru MCPTT požádat [BM-SC](/mobilnisite/slovnik/bm-sc/) (Broadcast Multicast Service Centre) o aktivaci nebo deaktivaci těchto vyhrazených podkanálů na základě dynamických potřeb skupinových hovorů.
 
-Z architektonického hlediska se MCMC nachází mezi aplikačním serverem MCPTT a BM-SC v jádru sítě. Definuje konkrétní procedury a zprávy pro řízení podkanálů. Například při zahájení skupinového hovoru MCPTT použije server MCPTT protokol MCMC k odeslání žádosti o aktivaci podkanálu do BM-SC. Tato žádost zahrnuje parametry jako TMGI (Temporary Mobile Group Identity), popis relace a požadavky QoS pro podkanál. BM-SC po přijetí této žádosti koordinuje s LTE nebo 5G NR sítí zřízení potřebných rádiových přenosů MBMS a přidělení prostředků pro vysílání médií všem přihlášeným uživatelům v rámci servisní oblasti.
+Z architektonického hlediska se MCMC nachází mezi aplikačním serverem MCPTT a BM-SC v jádru sítě. Definuje konkrétní procedury a zprávy pro řízení podkanálů. Například při zahájení skupinového hovoru MCPTT použije server MCPTT protokol MCMC k odeslání žádosti o aktivaci podkanálu do BM-SC. Tato žádost zahrnuje parametry jako [TMGI](/mobilnisite/slovnik/tmgi/) (Temporary Mobile Group Identity), popis relace a požadavky QoS pro podkanál. BM-SC po přijetí této žádosti koordinuje s LTE nebo 5G NR sítí zřízení potřebných rádiových přenosů MBMS a přidělení prostředků pro vysílání médií všem přihlášeným uživatelům v rámci servisní oblasti.
 
 Protokol zajišťuje efektivní využití prostředků MBMS pro skupinovou komunikaci v rámci služeb kritických pro misi. Namísto vytváření více jednosměrných spojení slouží jeden vysílací proud MBMS všem členům skupiny MCPTT, čímž se šetří rádiové prostředky i prostředky jádra sítě, zejména ve scénářích s mnoha posluchači. MCMC spravuje životní cyklus těchto podkanálů, včetně změn během relace (např. přidání nového mluvčího, změna QoS) a včasného uvolnění po skončení skupinového hovoru. Toto řízení je klíčové pro udržení kontinuity služby, upřednostnění kritického provozu a zajištění optimálního využití kapacity sítě pro operace veřejné bezpečnosti, kde je spolehlivá skupinová komunikace s nízkou latencí prvořadá.
 
@@ -42,6 +42,7 @@ Před MCMC bylo řízení MBMS obecnější a neoptimalizované pro dynamickou, 
 - [MCPTT – Mission Critical Push to Talk Identity](/mobilnisite/slovnik/mcptt/)
 - [MBMS – Multimedia Broadcast Multicast Service](/mobilnisite/slovnik/mbms/)
 - [BM-SC – Broadcast-Multicast Service Centre](/mobilnisite/slovnik/bm-sc/)
+- [TMGI – Temporary Multicast Group Identifier](/mobilnisite/slovnik/tmgi/)
 
 ## Definující specifikace
 

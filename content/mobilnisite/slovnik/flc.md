@@ -16,11 +16,11 @@ FLC je síťově řízený mechanismus mobility v UMTS, který navádí uživate
 
 ## Popis
 
-Frequency Layer Convergence (FLC) je funkce správy rádiových zdrojů (RRM) definovaná ve specifikacích 3GPP pro sítě UMTS (WCDMA), podrobně popsaná v dokumentech TS 25.346 a TS 26.111. Funguje v rámci řadiče rádiové sítě (RNC) za účelem řízení distribuce uživatelských zařízení (UE) mezi více nosnými kmitočty neboli 'frekvenčními vrstvami' ve stejné geografické oblasti. Typické nasazení může používat vrstvu 2100 MHz pro kapacitu a vrstvu 900 MHz pro pokrytí; FLC inteligentně přiřazuje UE k nejvhodnější vrstvě. Mechanismus je primárně síťově řízený, spoléhá na měření a explicitní signalizaci z RNC směrem k UE, nikoli na autonomní převýběr buňky ze strany UE.
+Frequency Layer Convergence (FLC) je funkce správy rádiových zdrojů ([RRM](/mobilnisite/slovnik/rrm/)) definovaná ve specifikacích 3GPP pro sítě UMTS ([WCDMA](/mobilnisite/slovnik/wcdma/)), podrobně popsaná v dokumentech TS 25.346 a TS 26.111. Funguje v rámci řadiče rádiové sítě ([RNC](/mobilnisite/slovnik/rnc/)) za účelem řízení distribuce uživatelských zařízení (UE) mezi více nosnými kmitočty neboli 'frekvenčními vrstvami' ve stejné geografické oblasti. Typické nasazení může používat vrstvu 2100 MHz pro kapacitu a vrstvu 900 MHz pro pokrytí; FLC inteligentně přiřazuje UE k nejvhodnější vrstvě. Mechanismus je primárně síťově řízený, spoléhá na měření a explicitní signalizaci z RNC směrem k UE, nikoli na autonomní převýběr buňky ze strany UE.
 
-Proces funguje v několika klíčových krocích. Nejprve síť vysílá na každé buňce systémové informace, které mohou obsahovat parametry související s FLC, jako jsou indikátory priority a prahové hodnoty. RNC, které má celkový přehled o zatížení a podmínkách na všech vrstvách, pak může řídit UE. Pro UE v idle módu se tak děje pomocí dedikované signalizace (např. zpráva [RRC](/mobilnisite/slovnik/rrc/) CONNECTION RELEASE), která obsahuje 'přesměrování' na konkrétní kmitočet a kód přeběhu. Pro UE v connected módu (ve stavech CELL_[FACH](/mobilnisite/slovnik/fach/), CELL_PCH nebo URA_PCH) může RNC použít zprávu PHYSICAL CHANNEL RECONFIGURATION nebo CELL UPDATE CONFIRM, aby přikázalo UE přesunout se na cílovou frekvenční vrstvu. UE těmto síťovým příkazům vyhoví a provede potřebné procedury k připojení nebo navázání spojení na určené vrstvě.
+Proces funguje v několika klíčových krocích. Nejprve síť vysílá na každé buňce systémové informace, které mohou obsahovat parametry související s FLC, jako jsou indikátory priority a prahové hodnoty. RNC, které má celkový přehled o zatížení a podmínkách na všech vrstvách, pak může řídit UE. Pro UE v idle módu se tak děje pomocí dedikované signalizace (např. zpráva [RRC](/mobilnisite/slovnik/rrc/) CONNECTION RELEASE), která obsahuje 'přesměrování' na konkrétní kmitočet a kód přeběhu. Pro UE v connected módu (ve stavech CELL_[FACH](/mobilnisite/slovnik/fach/), CELL_[PCH](/mobilnisite/slovnik/pch-text-pch/) nebo [URA](/mobilnisite/slovnik/ura/)_PCH) může RNC použít zprávu PHYSICAL CHANNEL RECONFIGURATION nebo CELL UPDATE CONFIRM, aby přikázalo UE přesunout se na cílovou frekvenční vrstvu. UE těmto síťovým příkazům vyhoví a provede potřebné procedury k připojení nebo navázání spojení na určené vrstvě.
 
-Mezi klíčové součásti patří RNC, které hostí algoritmus a rozhodovací logiku FLC; UE, které musí podporovat příslušné procedury měření a signalizace; a Node B (základnová stanice), které vysílá potřebné pilotní kanály a bloky systémových informací (SIB) pro každou vrstvu. Úlohou FLC je optimalizovat celkový výkon sítě. Umožňuje operátorům používat vyšší frekvenční vrstvy (s menšími buňkami) k absorbování uživatelů s vysokým provozem a vysokou přenosovou rychlostí, zatímco uživatele s omezeným pokrytím nebo zaměřené na hlasové služby navádí na nižší frekvenční vrstvy s lepšími šířicími charakteristikami. Toto vyrovnávání zatížení zabraňuje přetížení primární vrstvy, zlepšuje celkovou kapacitu vícevrstvé sítě a zvyšuje uživatelsky vnímanou kvalitu služeb snížením počtu spadlých hovorů a zlepšením datové propustnosti.
+Mezi klíčové součásti patří RNC, které hostí algoritmus a rozhodovací logiku FLC; UE, které musí podporovat příslušné procedury měření a signalizace; a Node B (základnová stanice), které vysílá potřebné pilotní kanály a bloky systémových informací ([SIB](/mobilnisite/slovnik/sib/)) pro každou vrstvu. Úlohou FLC je optimalizovat celkový výkon sítě. Umožňuje operátorům používat vyšší frekvenční vrstvy (s menšími buňkami) k absorbování uživatelů s vysokým provozem a vysokou přenosovou rychlostí, zatímco uživatele s omezeným pokrytím nebo zaměřené na hlasové služby navádí na nižší frekvenční vrstvy s lepšími šířicími charakteristikami. Toto vyrovnávání zatížení zabraňuje přetížení primární vrstvy, zlepšuje celkovou kapacitu vícevrstvé sítě a zvyšuje uživatelsky vnímanou kvalitu služeb snížením počtu spadlých hovorů a zlepšením datové propustnosti.
 
 ## K čemu slouží
 
@@ -38,6 +38,12 @@ Historicky zavedené v Rel-6 představovalo FLC významné vylepšení síťově
 - Umožňuje vyrovnávání zatížení a prevenci přetížení mezi vrstvami
 - Umožňuje směrování provozu s ohledem na typ služby (např. hlas vs. data)
 - Optimalizuje využití kmitočtových aktiv s různými šířicími charakteristikami
+
+## Související pojmy
+
+- [UMTS – Universal Mobile Telecommunications System](/mobilnisite/slovnik/umts/)
+- [RNC – Radio Network Controller](/mobilnisite/slovnik/rnc/)
+- [WCDMA – Wideband Code Division Multiple Access](/mobilnisite/slovnik/wcdma/)
 
 ## Definující specifikace
 

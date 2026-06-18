@@ -18,7 +18,7 @@ LUAD (Liberty-Enabled User Agent or Device) je uživatelský agent nebo zaříze
 
 Liberty-Enabled User Agent or Device (LUAD) je koncept standardizovaný v rámci 3GPP, konkrétně v TS 33.980, který odkazuje na specifikace projektu Liberty Alliance Project ([LAP](/mobilnisite/slovnik/lap/)). LUAD je klientská entita – například mobilní telefon, tablet nebo softwarová aplikace – která implementuje protokoly Liberty Identity Federation Framework ([ID-FF](/mobilnisite/slovnik/id-ff/)). Jejím hlavním účelem je jednat jménem koncového uživatele za účelem usnadnění správy federované identity, což umožňuje bezproblémové a zabezpečené ověřování a autorizaci napříč více poskytovateli služeb bez nutnosti opakovaného zadávání přihlašovacích údajů.
 
-Z architektonického hlediska LUAD komunikuje s několika klíčovými komponentami v ekosystému federované identity. Komunikuje s Poskytovatelem identity (IdP), který uživatele ověří a vydává bezpečnostní tvrzení (assertions), a s Poskytovateli služeb (SP), kteří se na tato tvrzení spoléhají při poskytování přístupu k prostředkům. Samotný LUAD obsahuje softwarové komponenty, které zpracovávají protokolové zprávy, spravují souhlas uživatele a ukládají artefakty federace, jako jsou pseudonymní identifikátory. Podporuje protokoly jako je Liberty Alliance Single Sign-On a Federation protokoly, které jsou často založeny na konstrukcích SAML (Security Assertion Markup Language), což umožňuje interoperabilitu v prostředí více dodavatelů.
+Z architektonického hlediska LUAD komunikuje s několika klíčovými komponentami v ekosystému federované identity. Komunikuje s Poskytovatelem identity (IdP), který uživatele ověří a vydává bezpečnostní tvrzení (assertions), a s Poskytovateli služeb ([SP](/mobilnisite/slovnik/sp/)), kteří se na tato tvrzení spoléhají při poskytování přístupu k prostředkům. Samotný LUAD obsahuje softwarové komponenty, které zpracovávají protokolové zprávy, spravují souhlas uživatele a ukládají artefakty federace, jako jsou pseudonymní identifikátory. Podporuje protokoly jako je Liberty Alliance Single Sign-On a Federation protokoly, které jsou často založeny na konstrukcích [SAML](/mobilnisite/slovnik/saml/) (Security Assertion Markup Language), což umožňuje interoperabilitu v prostředí více dodavatelů.
 
 Během provozu, když se uživatel pokusí o přístup ke službě u SP, LUAD uživatele přesměruje na jeho určeného IdP, pokud již není ověřen. Po úspěšném ověření IdP vygeneruje bezpečnostní tvrzení obsahující atributy identity a odešle jej zpět LUAD, který jej následně předá SP. SP tvrzení ověří a poskytne přístup. LUAD spravuje celý životní cyklus federace, včetně vytváření okruhů federace (federation circles), šíření požadavků na odhlášení napříč doménami a zpracování správy identifikátorů jmen. Jeho role je klíčová pro abstrakci složitosti správy identit napříč doménami od koncového uživatele a poskytování konzistentního a bezpečného zážitku.
 
@@ -40,6 +40,10 @@ Historicky, jak se sítě 3GPP vyvíjely směrem k architekturám plně založen
 - Zpracovává bezpečnostní tvrzení (security assertions) a správu pseudonymních identifikátorů
 - Integruje se s bezpečnostní architekturou 3GPP pro důvěryhodný přístup
 - Usnadňuje souhlas uživatele a kontrolu soukromí při ověřování napříč doménami
+
+## Související pojmy
+
+- [SAML – Security Assertion Markup Language](/mobilnisite/slovnik/saml/)
 
 ## Definující specifikace
 
