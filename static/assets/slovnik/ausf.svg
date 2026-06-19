@@ -71,7 +71,7 @@
       <text x="881.6666666666666" y="126" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#0F172A">CHF</text>
     </g>
     <g id="nf-ausf">
-      <rect x="988.3333333333333" y="85" width="150" height="70" rx="8" fill="#93C5FD" stroke="#60A5FA" stroke-width="1.5" />
+      <rect x="988.3333333333333" y="85" width="150" height="70" rx="8" fill="#93C5FD" stroke="#F59E0B" stroke-width="4" />
       <text x="1063.3333333333333" y="126" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#0F172A">AUSF</text>
     </g>
     <g id="nf-nef">
@@ -83,7 +83,7 @@
       <text x="155" y="366" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">SMSF</text>
     </g>
     <g id="nf-amf">
-      <rect x="352.5" y="325" width="150" height="70" rx="8" fill="#2563EB" stroke="#F59E0B" stroke-width="4" />
+      <rect x="352.5" y="325" width="150" height="70" rx="8" fill="#2563EB" stroke="#1D4ED8" stroke-width="1.5" />
       <text x="427.5" y="366" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">AMF</text>
     </g>
     <g id="nf-smf">

@@ -1,134 +1,125 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1536 1024" font-family="Inter, Arial, sans-serif">
-  
-  
-  <rect width="1536" height="1024" fill="white"/>
-  
-  
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 1400 664" preserveAspectRatio="xMidYMid meet" role="img" aria-label="5G System — architektura">
   <defs>
-    <marker id="arrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#EA580C"/>
+    <marker id="net-arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto" markerUnits="strokeWidth">
+      <path d="M1,1 L9,5 L1,9 Z" fill="#475569" />
     </marker>
   </defs>
-  
-  
-  <text x="768" y="58" text-anchor="middle" font-size="46" font-weight="bold" fill="#1e293b">NSSF – Network Slice Selection Function</text>
-  <text x="768" y="92" text-anchor="middle" font-size="26" fill="#64748b">Výběr síťového řezu v 5G Core (3GPP TS 23.501)</text>
-  
-  
-  
-  
-  <rect x="80" y="150" width="190" height="65" rx="8" fill="#2563EB" stroke="#1d4ed8" stroke-width="2"/>
-  <text x="175" y="189" text-anchor="middle" font-size="32" font-weight="bold" fill="white">UE</text>
-  
-  
-  <rect x="80" y="320" width="210" height="70" rx="8" fill="#2563EB" stroke="#1d4ed8" stroke-width="2"/>
-  <text x="185" y="361" text-anchor="middle" font-size="30" font-weight="bold" fill="white">AMF</text>
-  
-  
-  <rect x="555" y="300" width="295" height="90" rx="8" fill="#2563EB" stroke="#1d4ed8" stroke-width="2"/>
-  <text x="702" y="337" text-anchor="middle" font-size="34" font-weight="bold" fill="white">NSSF</text>
-  <text x="702" y="372" text-anchor="middle" font-size="22" fill="#bfdbfe">Výběr síťového řezu</text>
-  
-  
-  <rect x="1080" y="320" width="210" height="70" rx="8" fill="#2563EB" stroke="#1d4ed8" stroke-width="2"/>
-  <text x="1185" y="361" text-anchor="middle" font-size="30" font-weight="bold" fill="white">UDM</text>
-  
-  
-  <rect x="555" y="460" width="295" height="65" rx="8" fill="#2563EB" stroke="#1d4ed8" stroke-width="2"/>
-  <text x="702" y="499" text-anchor="middle" font-size="28" font-weight="bold" fill="white">Operátorská politika</text>
-  
-  
-  <rect x="555" y="585" width="295" height="65" rx="8" fill="#2563EB" stroke="#1d4ed8" stroke-width="2"/>
-  <text x="702" y="624" text-anchor="middle" font-size="28" font-weight="bold" fill="white">NSI – Síťový řez</text>
-  
-  
-  <text x="768" y="638" text-anchor="middle" font-size="24" fill="#16A34A" font-weight="bold">Parametry</text>
-  
-  <rect x="80" y="648" width="280" height="50" rx="8" fill="#16A34A" stroke="#15803d" stroke-width="2"/>
-  <text x="220" y="679" text-anchor="middle" font-size="26" font-weight="bold" fill="white">Nnssf (SBI)</text>
-  
-  <rect x="390" y="648" width="280" height="50" rx="8" fill="#16A34A" stroke="#15803d" stroke-width="2"/>
-  <text x="530" y="679" text-anchor="middle" font-size="24" font-weight="bold" fill="white">eMBB · URLLC · mMTC</text>
-  
-  <rect x="700" y="648" width="280" height="50" rx="8" fill="#16A34A" stroke="#15803d" stroke-width="2"/>
-  <text x="840" y="679" text-anchor="middle" font-size="24" font-weight="bold" fill="white">TS 23.501 / 29.520</text>
-  
-  <rect x="1010" y="648" width="280" height="50" rx="8" fill="#16A34A" stroke="#15803d" stroke-width="2"/>
-  <text x="1150" y="679" text-anchor="middle" font-size="26" font-weight="bold" fill="white">Release 15</text>
-  
-  
-  
-  
-  <line x1="155" y1="215" x2="155" y2="320" stroke="#EA580C" stroke-width="2.5" marker-end="url(#arrow)"/>
-  
-  
-  <line x1="215" y1="320" x2="215" y2="215" stroke="#EA580C" stroke-width="2.5" marker-end="url(#arrow)"/>
-  
-  
-  <text x="298" y="252" text-anchor="start" font-size="26" fill="#EA580C">Requested NSSAI</text>
-  <text x="298" y="286" text-anchor="start" font-size="26" fill="#EA580C">Potvrzení registrace</text>
-  
-  
-  <line x1="290" y1="342" x2="555" y2="330" stroke="#EA580C" stroke-width="2.5" marker-end="url(#arrow)"/>
-  
-  
-  <text x="422" y="325" text-anchor="middle" font-size="26" fill="#EA580C">Dotaz výběr řezu</text>
-  
-  
-  <line x1="555" y1="358" x2="290" y2="368" stroke="#EA580C" stroke-width="2.5" marker-end="url(#arrow)"/>
-  
-  
-  <text x="422" y="385" text-anchor="middle" font-size="26" fill="#EA580C">Povolené NSSAI</text>
-  <text x="422" y="411" text-anchor="middle" font-size="26" fill="#EA580C">+ AMF Set</text>
-  
-  
-  <line x1="850" y1="345" x2="1080" y2="345" stroke="#EA580C" stroke-width="2.5" marker-end="url(#arrow)"/>
-  
-  
-  <text x="965" y="333" text-anchor="middle" font-size="26" fill="#EA580C">Ověření S-NSSAI</text>
-  
-  
-  <line x1="702" y1="390" x2="702" y2="460" stroke="#EA580C" stroke-width="2.5" marker-end="url(#arrow)"/>
-  
-  
-  <text x="722" y="428" text-anchor="start" font-size="26" fill="#EA580C">Politika</text>
-  
-  
-  <line x1="702" y1="525" x2="702" y2="585" stroke="#EA580C" stroke-width="2.5" marker-end="url(#arrow)"/>
-  
-  
-  <text x="722" y="558" text-anchor="start" font-size="26" fill="#EA580C">Výběr NSI</text>
-  
-  
-  <text x="768" y="718" text-anchor="middle" font-size="28" font-weight="bold" fill="#1e293b">Postup výběru síťového řezu</text>
-  
-  
-  <text x="80" y="752" font-size="26" fill="#1e293b">1. UE požadavek</text>
-  <text x="80" y="784" font-size="26" fill="#1e293b">2. Requested NSSAI</text>
-  <text x="80" y="816" font-size="26" fill="#1e293b">3. AMF registrace</text>
-  <text x="80" y="848" font-size="26" fill="#1e293b">4. NSSF dotaz</text>
-  <text x="80" y="880" font-size="26" fill="#1e293b">5. UDM profil předplatného</text>
-  
-  
-  <text x="800" y="752" font-size="26" fill="#1e293b">6. Operátorská politika</text>
-  <text x="800" y="784" font-size="26" fill="#1e293b">7. Výběr NSI</text>
-  <text x="800" y="816" font-size="26" fill="#1e293b">8. Povolené NSSAI</text>
-  <text x="800" y="848" font-size="26" fill="#1e293b">9. Přiřazení AMF Set</text>
-  <text x="800" y="880" font-size="26" fill="#1e293b">10. Obsluha řezu</text>
-  
-  
-  <rect x="80" y="940" width="1376" height="70" rx="8" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
-  
-  
-  <rect x="200" y="960" width="30" height="30" rx="4" fill="#2563EB"/>
-  <text x="240" y="981" font-size="24" fill="#1e293b">Funkční bloky</text>
-  
-  
-  <line x1="550" y1="975" x2="590" y2="975" stroke="#EA580C" stroke-width="3" marker-end="url(#arrow)"/>
-  <text x="600" y="981" font-size="24" fill="#1e293b">Datové toky (Nnssf SBI)</text>
-  
-  
-  <rect x="950" y="960" width="30" height="30" rx="4" fill="#16A34A"/>
-  <text x="990" y="981" font-size="24" fill="#1e293b">Parametry / Výstupy</text>
-  
+  <rect width="1400" height="664" fill="#FFFFFF" />
+  <g transform="translate(0, -96)">
+  <g id="sba-bus">
+    <line x1="60" y1="250" x2="1340" y2="250" stroke="#1D4ED8" stroke-width="2.5" />
+    <text x="68" y="240" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#475569">APIs (HTTP/2)</text>
+    <line x1="155" y1="155" x2="155" y2="250" stroke="#94A3B8" stroke-width="1.5" stroke-dasharray="4 3" />
+    <text x="161" y="206.5" font-family="Inter, Arial, sans-serif" font-size="13" fill="#475569">Nnssf</text>
+    <line x1="336.66666666666663" y1="155" x2="336.66666666666663" y2="250" stroke="#94A3B8" stroke-width="1.5" stroke-dasharray="4 3" />
+    <text x="342.66666666666663" y="206.5" font-family="Inter, Arial, sans-serif" font-size="13" fill="#475569">Nnrf</text>
+    <line x1="518.3333333333333" y1="155" x2="518.3333333333333" y2="250" stroke="#94A3B8" stroke-width="1.5" stroke-dasharray="4 3" />
+    <text x="524.3333333333333" y="206.5" font-family="Inter, Arial, sans-serif" font-size="13" fill="#475569">Nudm</text>
+    <line x1="700" y1="155" x2="700" y2="250" stroke="#94A3B8" stroke-width="1.5" stroke-dasharray="4 3" />
+    <text x="706" y="206.5" font-family="Inter, Arial, sans-serif" font-size="13" fill="#475569">Nudr</text>
+    <line x1="881.6666666666666" y1="155" x2="881.6666666666666" y2="250" stroke="#94A3B8" stroke-width="1.5" stroke-dasharray="4 3" />
+    <text x="887.6666666666666" y="206.5" font-family="Inter, Arial, sans-serif" font-size="13" fill="#475569">Nchf</text>
+    <line x1="1063.3333333333333" y1="155" x2="1063.3333333333333" y2="250" stroke="#94A3B8" stroke-width="1.5" stroke-dasharray="4 3" />
+    <text x="1069.3333333333333" y="206.5" font-family="Inter, Arial, sans-serif" font-size="13" fill="#475569">Nausf</text>
+    <line x1="1245" y1="155" x2="1245" y2="250" stroke="#94A3B8" stroke-width="1.5" stroke-dasharray="4 3" />
+    <text x="1251" y="206.5" font-family="Inter, Arial, sans-serif" font-size="13" fill="#475569">Nnef</text>
+    <line x1="155" y1="250" x2="155" y2="325" stroke="#94A3B8" stroke-width="1.5" stroke-dasharray="4 3" />
+    <text x="161" y="291.5" font-family="Inter, Arial, sans-serif" font-size="13" fill="#475569">Nsmsf</text>
+    <line x1="427.5" y1="250" x2="427.5" y2="325" stroke="#94A3B8" stroke-width="1.5" stroke-dasharray="4 3" />
+    <text x="433.5" y="291.5" font-family="Inter, Arial, sans-serif" font-size="13" fill="#475569">Namf</text>
+    <line x1="700" y1="250" x2="700" y2="325" stroke="#94A3B8" stroke-width="1.5" stroke-dasharray="4 3" />
+    <text x="706" y="291.5" font-family="Inter, Arial, sans-serif" font-size="13" fill="#475569">Nsmf</text>
+    <line x1="972.5" y1="250" x2="972.5" y2="325" stroke="#94A3B8" stroke-width="1.5" stroke-dasharray="4 3" />
+    <text x="978.5" y="291.5" font-family="Inter, Arial, sans-serif" font-size="13" fill="#475569">Npcf</text>
+    <line x1="1245" y1="250" x2="1245" y2="325" stroke="#94A3B8" stroke-width="1.5" stroke-dasharray="4 3" />
+    <text x="1251" y="291.5" font-family="Inter, Arial, sans-serif" font-size="13" fill="#475569">Naf</text>
+  </g>
+  <g id="data-path">
+    <line x1="230" y1="560" x2="443.33333333333337" y2="560" stroke="#475569" stroke-width="2" />
+    <line x1="593.3333333333334" y1="560" x2="806.6666666666667" y2="560" stroke="#475569" stroke-width="2" />
+    <text x="700" y="552" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#0F172A">N3</text>
+    <line x1="956.6666666666667" y1="560" x2="1170" y2="560" stroke="#475569" stroke-width="2" />
+    <text x="1063.3333333333335" y="552" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#0F172A">N6</text>
+  </g>
+  <g id="control-to-data">
+    <line x1="427.5" y1="395" x2="155" y2="525" stroke="#94A3B8" stroke-width="1.5" stroke-dasharray="5 4" />
+    <text x="297.25" y="460" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#0F172A">N1</text>
+    <line x1="427.5" y1="395" x2="518.3333333333334" y2="525" stroke="#94A3B8" stroke-width="1.5" stroke-dasharray="5 4" />
+    <text x="478.9166666666667" y="460" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#0F172A">N2</text>
+    <line x1="700" y1="395" x2="881.6666666666667" y2="525" stroke="#94A3B8" stroke-width="1.5" stroke-dasharray="5 4" />
+    <text x="796.8333333333334" y="460" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#0F172A">N4</text>
+  </g>
+  <g id="nodes">
+    <g id="nf-nssf">
+      <rect x="80" y="85" width="150" height="70" rx="8" fill="#93C5FD" stroke="#F59E0B" stroke-width="4" />
+      <text x="155" y="126" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#0F172A">NSSF</text>
+    </g>
+    <g id="nf-nrf">
+      <rect x="261.66666666666663" y="85" width="150" height="70" rx="8" fill="#93C5FD" stroke="#60A5FA" stroke-width="1.5" />
+      <text x="336.66666666666663" y="126" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#0F172A">NRF</text>
+    </g>
+    <g id="nf-udm">
+      <rect x="443.3333333333333" y="85" width="150" height="70" rx="8" fill="#93C5FD" stroke="#60A5FA" stroke-width="1.5" />
+      <text x="518.3333333333333" y="126" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#0F172A">UDM</text>
+    </g>
+    <g id="nf-udr">
+      <rect x="625" y="85" width="150" height="70" rx="8" fill="#93C5FD" stroke="#60A5FA" stroke-width="1.5" />
+      <text x="700" y="126" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#0F172A">UDR</text>
+    </g>
+    <g id="nf-chf">
+      <rect x="806.6666666666666" y="85" width="150" height="70" rx="8" fill="#93C5FD" stroke="#60A5FA" stroke-width="1.5" />
+      <text x="881.6666666666666" y="126" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#0F172A">CHF</text>
+    </g>
+    <g id="nf-ausf">
+      <rect x="988.3333333333333" y="85" width="150" height="70" rx="8" fill="#93C5FD" stroke="#60A5FA" stroke-width="1.5" />
+      <text x="1063.3333333333333" y="126" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#0F172A">AUSF</text>
+    </g>
+    <g id="nf-nef">
+      <rect x="1170" y="85" width="150" height="70" rx="8" fill="#93C5FD" stroke="#60A5FA" stroke-width="1.5" />
+      <text x="1245" y="126" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#0F172A">NEF</text>
+    </g>
+    <g id="nf-smsf">
+      <rect x="80" y="325" width="150" height="70" rx="8" fill="#2563EB" stroke="#1D4ED8" stroke-width="1.5" />
+      <text x="155" y="366" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">SMSF</text>
+    </g>
+    <g id="nf-amf">
+      <rect x="352.5" y="325" width="150" height="70" rx="8" fill="#2563EB" stroke="#1D4ED8" stroke-width="1.5" />
+      <text x="427.5" y="366" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">AMF</text>
+    </g>
+    <g id="nf-smf">
+      <rect x="625" y="325" width="150" height="70" rx="8" fill="#2563EB" stroke="#1D4ED8" stroke-width="1.5" />
+      <text x="700" y="366" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">SMF</text>
+    </g>
+    <g id="nf-pcf">
+      <rect x="897.5" y="325" width="150" height="70" rx="8" fill="#2563EB" stroke="#1D4ED8" stroke-width="1.5" />
+      <text x="972.5" y="366" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">PCF</text>
+    </g>
+    <g id="nf-af">
+      <rect x="1170" y="325" width="150" height="70" rx="8" fill="#2563EB" stroke="#1D4ED8" stroke-width="1.5" />
+      <text x="1245" y="366" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">AF</text>
+    </g>
+    <g id="nf-ue">
+      <rect x="80" y="525" width="150" height="70" rx="8" fill="#1E3A8A" stroke="#1E40AF" stroke-width="1.5" />
+      <text x="155" y="566" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">UE</text>
+    </g>
+    <g id="nf-ran">
+      <rect x="443.33333333333337" y="525" width="150" height="70" rx="8" fill="#1E3A8A" stroke="#1E40AF" stroke-width="1.5" />
+      <text x="518.3333333333334" y="566" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">5G (R)AN</text>
+    </g>
+    <g id="nf-upf">
+      <rect x="806.6666666666667" y="525" width="150" height="70" rx="8" fill="#1E3A8A" stroke="#1E40AF" stroke-width="1.5" />
+      <text x="881.6666666666667" y="566" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">UPF</text>
+    </g>
+    <g id="nf-dn">
+      <rect x="1170" y="525" width="150" height="70" rx="8" fill="#1E3A8A" stroke="#1E40AF" stroke-width="1.5" />
+      <text x="1245" y="566" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">DN</text>
+    </g>
+  </g>
+  <g id="legend">
+    <line x1="1170" y1="700" x2="1210" y2="700" stroke="#94A3B8" stroke-width="1.5" stroke-dasharray="4 3" />
+    <text x="1218" y="704" font-family="Inter, Arial, sans-serif" font-size="13" fill="#475569">Control</text>
+    <line x1="1170" y1="722" x2="1210" y2="722" stroke="#475569" stroke-width="2" />
+    <text x="1218" y="726" font-family="Inter, Arial, sans-serif" font-size="13" fill="#475569">Data</text>
+  </g>
+  </g>
 </svg>
