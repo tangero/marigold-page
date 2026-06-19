@@ -10,6 +10,8 @@ category: "Core Network"
 segment: "Core Network"
 canonical: "https://3gpp-explorer.com/glossary/upf/"
 summary: "Základní funkce jádra sítě v systému 5G (5GS) zodpovědná za směrování a přeposílání paketů, kontrolu paketů, správu kvality služby (QoS) a hlášení o využití přenosu. Je centrálním kotvícím bodem pro u"
+infografika: "/assets/slovnik/upf.svg"
+infografikaAlt: "Schéma architektury 5G sítě se zvýrazněním UPF"
 ---
 
 UPF je základní funkce jádra sítě v systému 5G zodpovědná za směrování a přeposílání paketů, jejich kontrolu, správu kvality služby (QoS) a hlášení o využití, sloužící jako centrální kotvící bod pro přenos dat uživatele.

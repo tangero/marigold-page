@@ -10,6 +10,8 @@ category: "Management"
 segment: "Core Network"
 canonical: "https://3gpp-explorer.com/glossary/nrf/"
 summary: "Řídicí funkce 3GPP odpovědná za automatické zřizování, aktivaci a konfiguraci síťových prostředků a služeb. Je klíčovou součástí architektury řízení a orchestrace (MANO) a umožňuje efektivní životní c"
+infografika: "/assets/slovnik/nrf.svg"
+infografikaAlt: "Schéma architektury 5G sítě se zvýrazněním NRF"
 ---
 
 NRF je řídicí funkce 3GPP odpovědná za automatické zřizování, aktivaci a konfiguraci síťových prostředků a služeb v rámci MANO architektury.

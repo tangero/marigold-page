@@ -10,6 +10,8 @@ category: "Network Slicing"
 segment: "Core Network"
 canonical: "https://3gpp-explorer.com/glossary/s-nssai/"
 summary: "S-NSSAI (Single Network Slice Selection Assistance Information) je klíčový identifikátor v řezech 5G sítě, používaný k výběru konkrétní instance síťového řezu pro uživatelské zařízení (UE). Skládá se"
+infografika: "/assets/slovnik/s-nssai.svg"
+infografikaAlt: "Schéma architektury 5G sítě (kontext S-NSSAI)"
 ---
 
 S-NSSAI je klíčový identifikátor v řezech 5G sítě, který se skládá z typu řezu/služby (SST) a volitelného diferenciátoru řezu (SD) a používá se k výběru konkrétní instance síťového řezu pro uživatelské zařízení (UE).

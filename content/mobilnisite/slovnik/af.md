@@ -10,6 +10,8 @@ category: "Security"
 segment: "Core Network"
 canonical: "https://3gpp-explorer.com/glossary/af/"
 summary: "Komplexní bezpečnostní rámec v sítích 3GPP, který poskytuje postupy pro autentizaci, autorizaci a dohodu klíčů (AKA). Navazuje vzájemnou autentizaci mezi uživatelským zařízením (UE) a sítí, čímž zajiš"
+infografika: "/assets/slovnik/af.svg"
+infografikaAlt: "Schéma architektury 5G sítě se zvýrazněním AF"
 ---
 
 AF je komplexní bezpečnostní rámec 3GPP, který poskytuje postupy pro autentizaci, autorizaci a dohodu klíčů za účelem navázání vzájemné autentizace mezi uživatelským zařízením a sítí.

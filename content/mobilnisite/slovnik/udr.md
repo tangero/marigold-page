@@ -10,6 +10,8 @@ category: "Core Network"
 segment: "Core Network"
 canonical: "https://3gpp-explorer.com/glossary/udr/"
 summary: "Centralizovaná funkce pro ukládání dat v 5G Core (5GC), která konsoliduje data účastníků a politiky. Poskytuje jediné sjednocené úložiště pro strukturovaná data, jako jsou data o předplatném, politiky"
+infografika: "/assets/slovnik/udr.svg"
+infografikaAlt: "Schéma architektury 5G sítě se zvýrazněním UDR"
 ---
 
 UDR je centralizovaná funkce pro ukládání dat v 5G Core, která konsoliduje data účastníků, politiky a aplikací do jediného úložiště za účelem efektivní správy a přístupu síťovými funkcemi.

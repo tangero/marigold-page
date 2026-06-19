@@ -10,6 +10,8 @@ category: "Core Network"
 segment: "Core Network"
 canonical: "https://3gpp-explorer.com/glossary/udm/"
 summary: "Funkce jádra sítě v servisně orientované architektuře (SBA) 5G, která spravuje data účastníků, identity a autentizační přihlašovací údaje. Je centrálním úložištěm uživatelských profilů, generuje auten"
+infografika: "/assets/slovnik/udm.svg"
+infografikaAlt: "Schéma architektury 5G sítě se zvýrazněním UDM"
 ---
 
 UDM je funkce jádra sítě, která spravuje data účastníků, identity a autentizační přihlašovací údaje a slouží jako centrální úložiště uživatelských profilů v servisně orientované architektuře 5G.

@@ -9,8 +9,9 @@ fullName: "Access and Mobility Management Function"
 category: "Core Network"
 segment: "Core Network"
 canonical: "https://3gpp-explorer.com/glossary/amf/"
-infografika: "/assets/slovnik/amf.svg"
 summary: "AMF je funkce jádra sítě v 5G, která zpracovává registraci, připojení, dosažitelnost a správu mobility uživatelského zařízení. Působí jako primární koncový bod signalizace NAS a je oddělena od správy"
+infografika: "/assets/slovnik/amf.svg"
+infografikaAlt: "Schéma architektury 5G sítě se zvýrazněním AMF"
 ---
 
 AMF je funkce jádra sítě v 5G, která zpracovává registraci, připojení, dosažitelnost a správu mobility uživatelského zařízení a je primárním koncovým bodem signalizace NAS.

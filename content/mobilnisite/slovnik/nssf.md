@@ -9,8 +9,9 @@ fullName: "Network Slice Selection Function"
 category: "Network Slicing"
 segment: "Core Network"
 canonical: "https://3gpp-explorer.com/glossary/nssf/"
-infografika: "/assets/slovnik/nssf.svg"
 summary: "NSSF je síťová funkce jádra 5G, která vybírá vhodnou instanci síťového řezu pro uživatelské zařízení (UE) na základě předplatného, požadované služby a stavu sítě. Je klíčová pro umožnění přizpůsobenýc"
+infografika: "/assets/slovnik/nssf.svg"
+infografikaAlt: "Schéma architektury 5G sítě se zvýrazněním NSSF"
 ---
 
 NSSF je síťová funkce jádra 5G, která vybírá vhodnou instanci síťového řezu pro uživatele na základě předplatného, požadované služby a stavu sítě.

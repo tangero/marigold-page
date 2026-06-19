@@ -10,6 +10,8 @@ category: "Core Network"
 segment: "Core Network"
 canonical: "https://3gpp-explorer.com/glossary/nef/"
 summary: "Funkce zpřístupnění sítě (NEF) je funkce jádra sítě 5G, která bezpečně zpřístupňuje síťové schopnosti a události autorizovaným aplikacím a poskytovatelům služeb třetích stran. Působí jako řízená brána"
+infografika: "/assets/slovnik/nef.svg"
+infografikaAlt: "Schéma architektury 5G sítě se zvýrazněním NEF"
 ---
 
 NEF je funkce jádra sítě 5G, která bezpečně zpřístupňuje síťové schopnosti a události autorizovaným třetím stranám a funguje jako řízená brána mezi externími API a interními protokoly 3GPP.

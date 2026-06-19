@@ -10,6 +10,8 @@ category: "Services"
 segment: "Core Network"
 canonical: "https://3gpp-explorer.com/glossary/pcf/"
 summary: "Funkce jádra sítě zodpovědná za výpočet geografické polohy uživatelského zařízení (UE) v síti 3GPP. Zpracovává měřicí data z UE a/nebo sítě, aby vypočítala odhad polohy pomocí různých metod, jako jsou"
+infografika: "/assets/slovnik/pcf.svg"
+infografikaAlt: "Schéma architektury 5G sítě se zvýrazněním PCF"
 ---
 
 PCF je funkce jádra sítě, která vypočítává geografickou polohu uživatelského zařízení (UE) zpracováním měřicích dat pomocí metod jako OTDOA nebo A-GNSS a výsledek doručuje žádajícím klientům.

@@ -10,6 +10,8 @@ category: "Security"
 segment: "Core Network"
 canonical: "https://3gpp-explorer.com/glossary/ausf/"
 summary: "AUSF je funkce jádra sítě v 5G, která provádí primární autentizaci a dohodu klíčů (AKA) pro uživatelské zařízení (UE). Je klíčovou součástí bezpečnostní architektury 3GPP a zajišťuje bezpečný přístup"
+infografika: "/assets/slovnik/ausf.svg"
+infografikaAlt: "Schéma architektury 5G sítě se zvýrazněním AUSF"
 ---
 
 AUSF je funkce jádra sítě 5G, která provádí primární autentizaci a dohodu klíčů za účelem ověření identity účastníka a vytvoření bezpečných relacích klíčů pro přístup ke službám.

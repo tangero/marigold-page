@@ -9,8 +9,9 @@ fullName: "5G Core Network"
 category: "Core Network"
 segment: "Core Network"
 canonical: "https://3gpp-explorer.com/glossary/5gc/"
-infografika: "/assets/slovnik/5gc.svg"
 summary: "Síť 5G Core je centrální částí systému 5G, postavenou na cloud-native, službami řízené architektuře (service-based architecture). Poskytuje vylepšené mobilní širokopásmové připojení, ultraspolehlivou"
+infografika: "/assets/slovnik/5gc.svg"
+infografikaAlt: "Schéma architektury 5G sítě (kontext 5GC)"
 ---
 
 5GC je cloud-native, službami řízená centrální část systému 5G, která umožňuje vylepšené mobilní širokopásmové připojení, ultraspolehlivou komunikaci s nízkou latencí, komunikaci s obrovským množstvím strojových zařízení, dělení sítě (network slicing) a výpočty na okraji sítě (edge computing).

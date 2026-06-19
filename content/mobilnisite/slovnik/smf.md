@@ -10,6 +10,8 @@ category: "Management"
 segment: "Core Network"
 canonical: "https://3gpp-explorer.com/glossary/smf/"
 summary: "Service Management Function (SMF) je síťová funkce v jádru sítě 5G odpovědná za správu životního cyklu relací protokolových datových jednotek (PDU). Zajišťuje zřizování, modifikaci a ukončování relací"
+infografika: "/assets/slovnik/smf.svg"
+infografikaAlt: "Schéma architektury 5G sítě se zvýrazněním SMF"
 ---
 
 SMF je síťová funkce 5G jádra odpovědná za správu životního cyklu PDU relací, včetně jejich zřizování, modifikace, ukončování, přidělování IP adres, vynucování politik a kontroly QoS.
