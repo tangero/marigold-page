@@ -17,6 +17,8 @@
   if (!container) return;
 
   var campaign = container.getAttribute('data-utm-campaign') || 'event-promo';
+  // Plocha pro promo analytiku (homepage | article | other). Banner bývá v postech → 'article'.
+  var surface = container.getAttribute('data-surface') || 'article';
   var months = ['ledna', 'února', 'března', 'dubna', 'května', 'června',
     'července', 'srpna', 'září', 'října', 'listopadu', 'prosince'];
 
@@ -44,8 +46,21 @@
         dateText = df + (city ? ' · ' + city : '') +
           (e.dateVariants && e.dateVariants.length > 1 ? ' · a další termíny' : '');
       }
-      var url = 'https://www.vibecoding.cz/akce/' + encodeURIComponent(e.slug).replace(/%2F/gi, '/') +
-        '/?utm_source=marigold&utm_medium=web&utm_campaign=' + encodeURIComponent(campaign);
+      // Klik vede přes náš promo redirect (změří klik podle site/surface + připojí UTM).
+      // clickUrl nemá query string → parametry přidáváme přes URL API, ne lepením '&'.
+      // Fallback na přímý odkaz na akci, kdyby clickUrl chybělo (starší cache odpovědi).
+      var url;
+      if (e.clickUrl) {
+        try {
+          var cu = new URL(e.clickUrl);
+          cu.searchParams.set('site', 'marigold');
+          cu.searchParams.set('surface', surface);
+          url = cu.toString();
+        } catch (_) { url = e.clickUrl; }
+      } else {
+        url = 'https://www.vibecoding.cz/akce/' + encodeURIComponent(e.slug).replace(/%2F/gi, '/') +
+          '/?utm_source=marigold&utm_medium=web&utm_campaign=' + encodeURIComponent(campaign);
+      }
 
       if (e.isPaid) {
         // Tmavý workshop banner
