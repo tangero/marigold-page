@@ -83,7 +83,7 @@
       <text x="933.5714285714287" y="126" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#0F172A">AUSF</text>
     </g>
     <g id="nf-nef">
-      <rect x="1014.2857142857143" y="85" width="150" height="70" rx="8" fill="#93C5FD" stroke="#F59E0B" stroke-width="4" />
+      <rect x="1014.2857142857143" y="85" width="150" height="70" rx="8" fill="#93C5FD" stroke="#60A5FA" stroke-width="1.5" />
       <text x="1089.2857142857142" y="126" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#0F172A">NEF</text>
     </g>
     <g id="nf-scp">
@@ -107,7 +107,7 @@
       <text x="700" y="30" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#0F172A">UDSF</text>
     </g>
     <g id="nf-n3iwf">
-      <rect x="780.7142857142858" y="-11" width="150" height="70" rx="8" fill="#93C5FD" stroke="#60A5FA" stroke-width="1.5" />
+      <rect x="780.7142857142858" y="-11" width="150" height="70" rx="8" fill="#93C5FD" stroke="#F59E0B" stroke-width="4" />
       <text x="855.7142857142858" y="30" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#0F172A">N3IWF</text>
     </g>
     <g id="nf-tngf">

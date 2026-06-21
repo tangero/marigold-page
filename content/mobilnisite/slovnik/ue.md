@@ -10,6 +10,8 @@ category: "Other"
 segment: "Radio Access Network"
 canonical: "https://3gpp-explorer.com/glossary/ue/"
 summary: "User Equipment (UE) je koncové uživatelské zařízení, například smartphone, tablet nebo modul pro IoT, které se připojuje k mobilní síti 3GPP. Obsahuje USIM pro autentizaci a podporuje rádiové rozhraní"
+infografika: "/assets/slovnik/ue.svg"
+infografikaAlt: "Schéma architektury 5G sítě se zvýrazněním UE"
 ---
 
 UE je koncové uživatelské zařízení, například smartphone nebo modul pro IoT, které se připojuje k mobilní síti 3GPP pomocí rádiového rozhraní Uu a obsahuje USIM pro autentizaci.

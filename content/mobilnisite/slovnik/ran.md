@@ -10,6 +10,8 @@ category: "Radio Access Network"
 segment: "Services"
 canonical: "https://3gpp-explorer.com/glossary/ran/"
 summary: "Rádiová přístupová síť (Radio Access Network, RAN) je část mobilní sítě, která spojuje jednotlivá uživatelská zařízení (UE) s jádrem sítě prostřednictvím rádiových vln. Skládá se ze základnových stani"
+infografika: "/assets/slovnik/ran.svg"
+infografikaAlt: "Schéma architektury 5G sítě se zvýrazněním RAN"
 ---
 
 RAN je část mobilní sítě, která spojuje uživatelská zařízení s jádrem sítě prostřednictvím rádiových vln; zahrnuje základnové stanice a řadiče, které spravují rádiové prostředky a spojení.

@@ -1,28 +1,36 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 1400 673" preserveAspectRatio="xMidYMid meet" role="img" aria-label="5G System — architektura">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 1400 769" preserveAspectRatio="xMidYMid meet" role="img" aria-label="5G System — architektura">
   <defs>
     <marker id="net-arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto" markerUnits="strokeWidth">
       <path d="M1,1 L9,5 L1,9 Z" fill="#475569" />
     </marker>
   </defs>
-  <rect width="1400" height="673" fill="#FFFFFF" />
-  <g transform="translate(0, -69)">
+  <rect width="1400" height="769" fill="#FFFFFF" />
+  <g transform="translate(0, 27)">
   <g id="sba-bus">
     <line x1="60" y1="250" x2="1340" y2="250" stroke="#1D4ED8" stroke-width="2.5" />
     <text x="68" y="240" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#475569">APIs (HTTP/2)</text>
     <line x1="155" y1="155" x2="155" y2="250" stroke="#94A3B8" stroke-width="1.5" stroke-dasharray="4 3" />
     <text x="161" y="206.5" font-family="Inter, Arial, sans-serif" font-size="13" fill="#475569">Nnssf</text>
-    <line x1="336.66666666666663" y1="155" x2="336.66666666666663" y2="250" stroke="#94A3B8" stroke-width="1.5" stroke-dasharray="4 3" />
-    <text x="342.66666666666663" y="206.5" font-family="Inter, Arial, sans-serif" font-size="13" fill="#475569">Nnrf</text>
-    <line x1="518.3333333333333" y1="155" x2="518.3333333333333" y2="250" stroke="#94A3B8" stroke-width="1.5" stroke-dasharray="4 3" />
-    <text x="524.3333333333333" y="206.5" font-family="Inter, Arial, sans-serif" font-size="13" fill="#475569">Nudm</text>
-    <line x1="700" y1="155" x2="700" y2="250" stroke="#94A3B8" stroke-width="1.5" stroke-dasharray="4 3" />
-    <text x="706" y="206.5" font-family="Inter, Arial, sans-serif" font-size="13" fill="#475569">Nudr</text>
-    <line x1="881.6666666666666" y1="155" x2="881.6666666666666" y2="250" stroke="#94A3B8" stroke-width="1.5" stroke-dasharray="4 3" />
-    <text x="887.6666666666666" y="206.5" font-family="Inter, Arial, sans-serif" font-size="13" fill="#475569">Nchf</text>
-    <line x1="1063.3333333333333" y1="155" x2="1063.3333333333333" y2="250" stroke="#94A3B8" stroke-width="1.5" stroke-dasharray="4 3" />
-    <text x="1069.3333333333333" y="206.5" font-family="Inter, Arial, sans-serif" font-size="13" fill="#475569">Nausf</text>
-    <line x1="1245" y1="155" x2="1245" y2="250" stroke="#94A3B8" stroke-width="1.5" stroke-dasharray="4 3" />
-    <text x="1251" y="206.5" font-family="Inter, Arial, sans-serif" font-size="13" fill="#475569">Nnef</text>
+    <line x1="310.7142857142857" y1="155" x2="310.7142857142857" y2="250" stroke="#94A3B8" stroke-width="1.5" stroke-dasharray="4 3" />
+    <text x="316.7142857142857" y="206.5" font-family="Inter, Arial, sans-serif" font-size="13" fill="#475569">Nnrf</text>
+    <line x1="466.42857142857144" y1="155" x2="466.42857142857144" y2="250" stroke="#94A3B8" stroke-width="1.5" stroke-dasharray="4 3" />
+    <text x="472.42857142857144" y="206.5" font-family="Inter, Arial, sans-serif" font-size="13" fill="#475569">Nudm</text>
+    <line x1="622.1428571428571" y1="155" x2="622.1428571428571" y2="250" stroke="#94A3B8" stroke-width="1.5" stroke-dasharray="4 3" />
+    <text x="628.1428571428571" y="206.5" font-family="Inter, Arial, sans-serif" font-size="13" fill="#475569">Nudr</text>
+    <line x1="777.8571428571429" y1="155" x2="777.8571428571429" y2="250" stroke="#94A3B8" stroke-width="1.5" stroke-dasharray="4 3" />
+    <text x="783.8571428571429" y="206.5" font-family="Inter, Arial, sans-serif" font-size="13" fill="#475569">Nchf</text>
+    <line x1="933.5714285714287" y1="155" x2="933.5714285714287" y2="250" stroke="#94A3B8" stroke-width="1.5" stroke-dasharray="4 3" />
+    <text x="939.5714285714287" y="206.5" font-family="Inter, Arial, sans-serif" font-size="13" fill="#475569">Nausf</text>
+    <line x1="1089.2857142857142" y1="155" x2="1089.2857142857142" y2="250" stroke="#94A3B8" stroke-width="1.5" stroke-dasharray="4 3" />
+    <text x="1095.2857142857142" y="206.5" font-family="Inter, Arial, sans-serif" font-size="13" fill="#475569">Nnef</text>
+    <line x1="232.85714285714286" y1="59" x2="232.85714285714286" y2="250" stroke="#94A3B8" stroke-width="1.5" stroke-dasharray="4 3" />
+    <text x="238.85714285714286" y="73" font-family="Inter, Arial, sans-serif" font-size="13" fill="#475569">N32</text>
+    <line x1="388.57142857142856" y1="59" x2="388.57142857142856" y2="250" stroke="#94A3B8" stroke-width="1.5" stroke-dasharray="4 3" />
+    <text x="394.57142857142856" y="73" font-family="Inter, Arial, sans-serif" font-size="13" fill="#475569">Nnwdaf</text>
+    <line x1="544.2857142857143" y1="59" x2="544.2857142857143" y2="250" stroke="#94A3B8" stroke-width="1.5" stroke-dasharray="4 3" />
+    <text x="550.2857142857143" y="73" font-family="Inter, Arial, sans-serif" font-size="13" fill="#475569">Nbsf</text>
+    <line x1="700" y1="59" x2="700" y2="250" stroke="#94A3B8" stroke-width="1.5" stroke-dasharray="4 3" />
+    <text x="706" y="73" font-family="Inter, Arial, sans-serif" font-size="13" fill="#475569">Nudsf</text>
     <line x1="155" y1="250" x2="155" y2="325" stroke="#94A3B8" stroke-width="1.5" stroke-dasharray="4 3" />
     <text x="161" y="291.5" font-family="Inter, Arial, sans-serif" font-size="13" fill="#475569">Nsmsf</text>
     <line x1="427.5" y1="250" x2="427.5" y2="325" stroke="#94A3B8" stroke-width="1.5" stroke-dasharray="4 3" />
@@ -55,28 +63,56 @@
       <text x="155" y="126" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#0F172A">NSSF</text>
     </g>
     <g id="nf-nrf">
-      <rect x="261.66666666666663" y="85" width="150" height="70" rx="8" fill="#93C5FD" stroke="#60A5FA" stroke-width="1.5" />
-      <text x="336.66666666666663" y="126" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#0F172A">NRF</text>
+      <rect x="235.71428571428572" y="85" width="150" height="70" rx="8" fill="#93C5FD" stroke="#60A5FA" stroke-width="1.5" />
+      <text x="310.7142857142857" y="126" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#0F172A">NRF</text>
     </g>
     <g id="nf-udm">
-      <rect x="443.3333333333333" y="85" width="150" height="70" rx="8" fill="#93C5FD" stroke="#60A5FA" stroke-width="1.5" />
-      <text x="518.3333333333333" y="126" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#0F172A">UDM</text>
+      <rect x="391.42857142857144" y="85" width="150" height="70" rx="8" fill="#93C5FD" stroke="#60A5FA" stroke-width="1.5" />
+      <text x="466.42857142857144" y="126" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#0F172A">UDM</text>
     </g>
     <g id="nf-udr">
-      <rect x="625" y="85" width="150" height="70" rx="8" fill="#93C5FD" stroke="#F59E0B" stroke-width="4" />
-      <text x="700" y="126" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#0F172A">UDR</text>
+      <rect x="547.1428571428571" y="85" width="150" height="70" rx="8" fill="#93C5FD" stroke="#F59E0B" stroke-width="4" />
+      <text x="622.1428571428571" y="126" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#0F172A">UDR</text>
     </g>
     <g id="nf-chf">
-      <rect x="806.6666666666666" y="85" width="150" height="70" rx="8" fill="#93C5FD" stroke="#60A5FA" stroke-width="1.5" />
-      <text x="881.6666666666666" y="126" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#0F172A">CHF</text>
+      <rect x="702.8571428571429" y="85" width="150" height="70" rx="8" fill="#93C5FD" stroke="#60A5FA" stroke-width="1.5" />
+      <text x="777.8571428571429" y="126" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#0F172A">CHF</text>
     </g>
     <g id="nf-ausf">
-      <rect x="988.3333333333333" y="85" width="150" height="70" rx="8" fill="#93C5FD" stroke="#60A5FA" stroke-width="1.5" />
-      <text x="1063.3333333333333" y="126" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#0F172A">AUSF</text>
+      <rect x="858.5714285714287" y="85" width="150" height="70" rx="8" fill="#93C5FD" stroke="#60A5FA" stroke-width="1.5" />
+      <text x="933.5714285714287" y="126" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#0F172A">AUSF</text>
     </g>
     <g id="nf-nef">
+      <rect x="1014.2857142857143" y="85" width="150" height="70" rx="8" fill="#93C5FD" stroke="#60A5FA" stroke-width="1.5" />
+      <text x="1089.2857142857142" y="126" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#0F172A">NEF</text>
+    </g>
+    <g id="nf-scp">
       <rect x="1170" y="85" width="150" height="70" rx="8" fill="#93C5FD" stroke="#60A5FA" stroke-width="1.5" />
-      <text x="1245" y="126" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#0F172A">NEF</text>
+      <text x="1245" y="126" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#0F172A">SCP</text>
+    </g>
+    <g id="nf-sepp">
+      <rect x="157.85714285714286" y="-11" width="150" height="70" rx="8" fill="#93C5FD" stroke="#60A5FA" stroke-width="1.5" />
+      <text x="232.85714285714286" y="30" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#0F172A">SEPP</text>
+    </g>
+    <g id="nf-nwdaf">
+      <rect x="313.57142857142856" y="-11" width="150" height="70" rx="8" fill="#93C5FD" stroke="#60A5FA" stroke-width="1.5" />
+      <text x="388.57142857142856" y="30" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#0F172A">NWDAF</text>
+    </g>
+    <g id="nf-bsf">
+      <rect x="469.28571428571433" y="-11" width="150" height="70" rx="8" fill="#93C5FD" stroke="#60A5FA" stroke-width="1.5" />
+      <text x="544.2857142857143" y="30" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#0F172A">BSF</text>
+    </g>
+    <g id="nf-udsf">
+      <rect x="625" y="-11" width="150" height="70" rx="8" fill="#93C5FD" stroke="#60A5FA" stroke-width="1.5" />
+      <text x="700" y="30" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#0F172A">UDSF</text>
+    </g>
+    <g id="nf-n3iwf">
+      <rect x="780.7142857142858" y="-11" width="150" height="70" rx="8" fill="#93C5FD" stroke="#60A5FA" stroke-width="1.5" />
+      <text x="855.7142857142858" y="30" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#0F172A">N3IWF</text>
+    </g>
+    <g id="nf-tngf">
+      <rect x="936.4285714285716" y="-11" width="150" height="70" rx="8" fill="#93C5FD" stroke="#60A5FA" stroke-width="1.5" />
+      <text x="1011.4285714285716" y="30" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#0F172A">TNGF</text>
     </g>
     <g id="nf-smsf">
       <rect x="80" y="325" width="150" height="70" rx="8" fill="#2563EB" stroke="#1D4ED8" stroke-width="1.5" />

@@ -10,6 +10,8 @@ category: "Core Network"
 segment: "Core Network"
 canonical: "https://3gpp-explorer.com/glossary/chf/"
 summary: "Charging Function (CHF, Účtovací funkce) je základní komponenta jádra sítě v systémech 5G odpovědná za generování a správu záznamů o účtování (CDR) za využití sítě. Operátorům umožňuje implementovat f"
+infografika: "/assets/slovnik/chf.svg"
+infografikaAlt: "Schéma architektury 5G sítě se zvýrazněním CHF"
 ---
 
 CHF je základní komponenta jádra sítě v systémech 5G odpovědná za generování a správu záznamů o účtování za využití sítě, což umožňuje flexibilní modely účtování pro služby jako hlas, data a síťové řezy.

@@ -10,6 +10,8 @@ category: "Management"
 segment: "Core Network"
 canonical: "https://3gpp-explorer.com/glossary/nwdaf/"
 summary: "Funkce pro analýzu síťových dat (NWDAF) je analytický engine 5G Core sítě, který sbírá data od síťových funkcí a externích zdrojů za účelem poskytování analýz a predikcí. Umožňuje uzavřenou smyčku aut"
+infografika: "/assets/slovnik/nwdaf.svg"
+infografikaAlt: "Schéma architektury 5G sítě se zvýrazněním NWDAF"
 ---
 
 NWDAF je analytický engine 5G Core sítě, který sbírá data od síťových funkcí a externích zdrojů za účelem poskytování analýz a predikcí pro automatizaci a optimalizaci.

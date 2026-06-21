@@ -10,6 +10,8 @@ category: "Security"
 segment: "Core Network"
 canonical: "https://3gpp-explorer.com/glossary/sepp/"
 summary: "SEPP je bezpečnostní proxy nasazená na okraji sítě, která chrání rozhraní založené na službách (SBI) uvnitř a mezi jádry sítí 5G. Autentizuje a autorizuje všechny zprávy SBI, uplatňuje bezpečnostní po"
+infografika: "/assets/slovnik/sepp.svg"
+infografikaAlt: "Schéma architektury 5G sítě se zvýrazněním SEPP"
 ---
 
 SEPP je bezpečnostní proxy nasazená na okraji sítě, která chrání rozhraní založené na službách (Service-Based Interface) uvnitř a mezi jádry sítí 5G (5G Core) tím, že autentizuje, autorizuje a zabezpečuje všechny signalizační zprávy mezi různými veřejnými pozemními mobilními sítěmi (PLMN).

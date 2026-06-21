@@ -10,6 +10,8 @@ category: "Core Network"
 segment: "Core Network"
 canonical: "https://3gpp-explorer.com/glossary/n3iwf/"
 summary: "N3IWF je funkce jádra sítě, která umožňuje bezpečnou a plynulou integraci přístupových sítí mimo 3GPP (non-3GPP), jako je Wi-Fi, do 5G Core. Funguje jako důvěryhodná brána, která ukončuje IPsec tunely"
+infografika: "/assets/slovnik/n3iwf.svg"
+infografikaAlt: "Schéma architektury 5G sítě se zvýrazněním N3IWF"
 ---
 
 N3IWF je funkce jádra sítě, která umožňuje bezpečnou integraci přístupových sítí mimo 3GPP (non-3GPP) do 5G Core tím, že funguje jako brána, která ukončuje IPsec tunely a přeposílá provoz.

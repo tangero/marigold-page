@@ -10,6 +10,8 @@ category: "Core Network"
 segment: "Core Network"
 canonical: "https://3gpp-explorer.com/glossary/scp/"
 summary: "Funkce jádra sítě, která poskytuje centralizovanou, bezpečnou a škálovatelnou proxy pro komunikaci na rozhraní založeném na službách (SBI) mezi síťovými funkcemi (NF) v 5G. Umožňuje jejich vyhledávání"
+infografika: "/assets/slovnik/scp.svg"
+infografikaAlt: "Schéma architektury 5G sítě se zvýrazněním SCP"
 ---
 
 SCP je funkce jádra sítě, která slouží jako centralizovaná, bezpečná proxy pro komunikaci založenou na službách mezi síťovými funkcemi, umožňující v 5G sítích jejich vyhledávání, vyvažování zátěže a zabezpečení.

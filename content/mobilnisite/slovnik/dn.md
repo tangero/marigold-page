@@ -10,6 +10,8 @@ category: "Management"
 segment: "Management"
 canonical: "https://3gpp-explorer.com/glossary/dn/"
 summary: "Strukturovaný, hierarchický identifikátor používaný v rámci systémů správy 3GPP pro jednoznačné pojmenování a lokalizaci spravovaných objektů, jako jsou síťové prvky, konfigurační parametry nebo výkon"
+infografika: "/assets/slovnik/dn.svg"
+infografikaAlt: "Schéma architektury 5G sítě se zvýrazněním DN"
 ---
 
 DN (Distinguished Name) je strukturovaný, hierarchický identifikátor používaný v rámci systémů správy 3GPP pro jednoznačné pojmenování a lokalizaci spravovaných objektů, jako jsou síťové prvky nebo konfigurační parametry.

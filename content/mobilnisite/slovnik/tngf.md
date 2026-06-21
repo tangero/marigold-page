@@ -10,6 +10,8 @@ category: "Core Network"
 segment: "Core Network"
 canonical: "https://3gpp-explorer.com/glossary/tngf/"
 summary: "Funkce jádra 5G sítě, která zajišťuje zabezpečený a důvěryhodný přístup pro uživatelské zařízení (UE) připojující se přes přístupové sítě mimo 3GPP, jako je Wi-Fi. Funguje jako brána, která autentizuj"
+infografika: "/assets/slovnik/tngf.svg"
+infografikaAlt: "Schéma architektury 5G sítě se zvýrazněním TNGF"
 ---
 
 TNGF (Trusted Non-3GPP Gateway Function) je funkce jádra 5G sítě, která zajišťuje zabezpečený a důvěryhodný přístup pro zařízení připojující se přes sítě mimo 3GPP, jako je Wi-Fi, provádí jejich autentizaci a vytváří IPsec tunely do jádra sítě.

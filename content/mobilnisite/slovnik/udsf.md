@@ -10,6 +10,8 @@ category: "Core Network"
 segment: "Core Network"
 canonical: "https://3gpp-explorer.com/glossary/udsf/"
 summary: "Síťová funkce 5G Core, která poskytuje úložiště pro nestrukturovaná data, jako je kontext relace nebo dočasné stavové informace. Nabízí jednoduchou, obecnou úložnou službu přístupnou přes API, což umo"
+infografika: "/assets/slovnik/udsf.svg"
+infografikaAlt: "Schéma architektury 5G sítě se zvýrazněním UDSF"
 ---
 
 UDSF je síťová funkce 5G Core, která poskytuje obecnou úložnou službu pro nestrukturovaná data, umožňující ostatním síťovým funkcím (NF) přesunout správu stavu, čímž podporuje bezestavový návrh a škálovatelnost.

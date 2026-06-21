@@ -10,6 +10,8 @@ category: "Security"
 segment: "Security"
 canonical: "https://3gpp-explorer.com/glossary/bsf/"
 summary: "Bootstrapping Server Function (BSF) je síťová funkce jádra v rámci architektury Generic Authentication Architecture (GAA). Poskytuje bezpečnou metodu pro aplikace a síťové funkce, aby dynamicky získáv"
+infografika: "/assets/slovnik/bsf.svg"
+infografikaAlt: "Schéma architektury 5G sítě se zvýrazněním BSF"
 ---
 
 BSF je Bootstrapping Server Function, prvek jádra sítě, který poskytuje aplikacím a síťovým funkcím bezpečné, dynamicky generované autentizační údaje a kryptografické klíče.
