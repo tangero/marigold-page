@@ -9,7 +9,7 @@ title: Může Apple za růst cen pamětí, který ho teď donutil zdražit?
 thumbnail: /assets/2026-06-27-apple-ceny-pameti.jpg
 ---
 
-Může za růst cen pamětí Apple? Otázka se vynořuje přesně ve chvíli, kdy Apple zdražuje a Tim Cook si veřejně stěžuje na dodavatele. Přesně tohle teď tvrdí Micron, jeden z dodavatelů pamětí. Argument si zaslouží vážné prozkoumání. 
+Může za růst cen pamětí Apple? Otázka se vynořuje přesně ve chvíli, kdy Apple zdražuje a Tim Cook si veřejně stěžuje na dodavatele. Tohle teď tvrdí Micron, jeden z dodavatelů pamětí. Argument si nicméně zaslouží vážné prozkoumání. 
 
 Ve zkratce: Apple 25. června zvedl ceny Maců a iPadů o sedmnáct až pětadvacet procent a vinu svalil na drahé paměti. O den dřív vykázal Micron rekordní marži a jeho obchodní ředitel naznačil, že za drahé paměti si Apple může zčásti sám. Pokusme se situaci rozplést!
 
@@ -30,7 +30,7 @@ Trh zareagoval okamžitě. Akcie Applu ten den [spadly o šest procent](https://
 
 ## Střet přes prostředníka
 
-Tady začíná dramatická část. Den po výsledkovém oznámení Micronu dal obchodní ředitel firmy Sumit Sadana rozhovor témuž listu, Wall Street Journal, a [odpověděl Cookovi, aniž ho jmenoval](https://www.zerohedge.com/technology/apple-price-shock-macs-and-ipads-jump-200-or-more-memory-crisis-worsens). Řekl, že během minulého propadu trhu „pár zákazníků bylo velmi agresivních v cenách“ a Micron jim sdělil, že takový postoj „není konstruktivní“. Dodal, že velká část investic do nové kapacity se v roce 2023 zastavila kvůli mizerným cenám a maržím.
+Tady začíná dramatická část. Den po oznámení výsledků Micronu poskytl obchodní ředitel firmy Sumit Sadana rozhovor témuž listu, Wall Street Journal, a [odpověděl Cookovi, aniž ho jmenoval](https://www.zerohedge.com/technology/apple-price-shock-macs-and-ipads-jump-200-or-more-memory-crisis-worsens). Řekl, že během minulého propadu trhu „pár zákazníků bylo velmi agresivních v cenách“ a Micron jim sdělil, že takový postoj „není konstruktivní“. Dodal, že velká část investic do nové kapacity se v roce 2023 zastavila kvůli mizerným cenám a maržím.
 
 Stojí za to být tu přesný hned ve dvou věcech, protože média i shrnutí na sociálních sítích je obě rozmazávají. Za prvé, mluvil obchodní ředitel, ne generální ředitel. CEO Micronu Sanjay Mehrotra nic takového neřekl. Korejská i anglická shrnutí často povýšila Sadanu na CEO, což není drobnost, protože váha takového obvinění závisí na tom, kdo ho vyslovil. Za druhé, Sadana nikoho nejmenoval. Spojení s Applem je čtení trhu, ne přímý výrok.
 
