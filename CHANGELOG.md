@@ -10,6 +10,9 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
 ### Added
 - Nový článek do rubriky Apple: „Může Apple za růst cen pamětí, který ho teď donutil zdražit?" (Patrick Zandl, 2026-06-27) — analýza zdražení Maců a iPadů, sporu Apple vs. Micron a čínské paměťové cesty přes CXMT, s thumbnailem `2026-06-27-apple-ceny-pameti.jpg`
 
+### Changed
+- Jazyková humanizace článku o cenách pamětí Apple: odstranění anglicismů („linie" → „řady", „moderní historie" → „novodobá historie", „telegrafoval" → „avizoval"), přirozenější slovosled a přepis negačně-kontrastního obratu („Háček není v datech… Háček je v…" → „Potíž je především v tom, jak se data používají")
+
 ### Fixed
 - Slovník 3GPP: ořezávání horní řady NF v architektonických SVG diagramech (`static/assets/slovnik/*.svg`, 13 pojmů). Příčina byla ve zdrojovém rendereru v 3gpp-explorer2 (`render-network.ts`): embed režim odvozoval posun obsahu nahoru od titulkového pruhu (magické `-96`), ale vršek obsahu (SBA box) je na y=85, takže po posunu spadl nad horní hranu viewBoxu (`0 0 1400 664`) a horní řada (NSSF/NRF/UDM…) se ořízla. Oprava: posun i výška viewBoxu se nově odvozují od skutečné geometrie obsahu (`viewBox 0 0 1400 673`, `translate(0,-69)`, horní okraj 16 px). Přegenerováno všech 13 SVG (CS i EN), znovu vloženo do web glossary JSONů v 3gpp-explorer2
 
