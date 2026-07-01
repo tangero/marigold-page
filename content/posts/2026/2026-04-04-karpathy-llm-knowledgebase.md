@@ -23,6 +23,8 @@ thumbnail: https://www.marigold.cz/assets/karpathy-llm.jpg
 
 Andrej Karpathy — člověk, který stál u zrodu GPT — zveřejnil minulý týden Twitter příspěvek, který si za čtyři dny záložkovalo přes 82 000 lidí. Třináct milionů zobrazení. To není virální hype. To je něco, co lidi zasáhlo, protože to pojmenovává něco, co sami cítí, ale neuměli to říct. Pointa? Jak používat LLM k budování znalostní databáze?
 
+> **Aktualizováno v červenci 2026.** Původní text vyšel v dubnu, tři dny po Karpathyho příspěvku. Za tři měsíce přibylo dost, aby to stálo za doplnění — a novinky jsou v článku na třech místech: Google vydal standard **Open Knowledge Format** (sekce „Za tři měsíce: z myšlenky standard”), vznikly první **hotové produkty**, se kterými se dá experimentovat bez stavění od nuly (sekce „Existují už hotové produkty? Ano”), a přidal jsem úvahu **kdy má second brain vůbec smysl** a jak se liší nasazení u jednotlivce a ve firmě (sekce „Má to pro tebe vůbec smysl?”).
+
 ## Co Karpathy říká
 
 Stručně: přestal používat AI hlavně na kód. Místo toho ho používá na budování osobní znalostní báze. Pojdme to okopirovat, protože je to dobré. a rozvest, protože je kam…
@@ -158,6 +160,16 @@ Tohle je pro každého, kdo už s agentem pracuje a nechce nic hostovat:
 - **Obsidian implementace** ([Ar9av/obsidian-wiki](https://github.com/ar9av/obsidian-wiki), [NicholasSpisak/second-brain](https://github.com/NicholasSpisak/second-brain), claude-obsidian) — pro mě osobně nejrelevantnější větev. Díky oficiálnímu Obsidian CLI a MCP se z Obsidianu stává „IDE”, LLM je „programátor” a vaše wiki „codebase”. Přesně to řeší můj problém s historií tisíců poznámek — nemusím migrovat, agent pracuje s vaultem tam, kde je.
 
 Co bych zkusil první, kdybych začínal dnes: **llmwiki.app** na rychlé osahání myšlenky (nejmíň tření), a paralelně některý **Agent Skill** nad vlastním adresářem, pokud už používám Claude Code. Rozhodnutí padne za odpoledne — a to je pořád pointa celého systému.
+
+## Má to pro tebe vůbec smysl?
+
+Než si založíš adresář, polož si nepříjemnou otázku: nebude z toho jen další hřbitov poznámek? Protože přesně tam většina pokusů skončí — lidi tam cpou obsah jako do „Googlu s extra kroky” a pak ho nikdy neotevřou. Hodnota second brainu totiž nevzniká ukládáním cizích článků. Vzniká až tím, že obsah **zpracuješ** a propojíš s vlastním myšlením.
+
+Z toho plyne poctivé přiznání, které v návodech obvykle chybí: **pokud si dlouhodobě nic nezapisuješ, je pro tebe často rychlejší prostě googlit a zeptat se LLM.** „Typické problémy při řízení softwarového projektu” ti veřejné modely vytáhnou líp než tvoje prázdná wiki. Second brain se vyplatí tomu, kdo už s informacemi pracuje jako s materiálem — tvůrcům, vývojářům, konzultantům, výzkumníkům, manažerům. Tiago Forte, který tohle téma zpopularizoval, razí, že většina hodnoty vzniká už jen tím, že si věci zapisuješ a později je dohledáš. Propojování a syntéza jsou třešnička — ale nejdřív musí existovat co propojovat.
+
+A tady je napojení na Karpathyho, které tu úvahu posouvá dál. Jeho wiki není „lepší Google”. Google — a dnes Perplexity, ChatGPT nebo Gemini — exceluje ve **veřejné** znalosti. Tvoje wiki řeší něco, co Google nikdy mít nebude: **tvůj** kontext. Co sis z článku odnesl, jak to souvisí s projektem před dvěma lety, co tehdy fungovalo a co ne. A na rozdíl od RAGu, který ten kontext přeodvozuje při každém dotazu znovu, wiki ho **zkompiluje jednou** a dál zhodnocuje. To je ten compounding efekt — znalost se ti hromadí rok od roku jako investice, ne jako nový search od nuly. (Ano, i ChatGPT má dnes paměť. Ale je to paměť u poskytovatele, ne tvůj vlastní, exportovatelný a agentem přestavitelný korpus.)
+
+**A firma?** Tam je to jiný příběh — a většinou jednoznačnější. Osobní second brain je nástroj na syntézu; firemní znalostní báze je **infrastruktura**. Její hlavní přínos není v ničím osobním pohledu na věc, ale v tom, že znalosti přestávají žít v hlavách jednotlivců a stávají se majetkem firmy — rychlejší onboarding, menší závislost na konkrétních lidech, uchované „co jsme se už jednou naučili”. Největší překážka přitom není technologie (RAG přes dokumenty, meeting notes a tickety dnes umíme), ale **kultura** — donutit lidi znalosti zapisovat a sdílet. To je ale téma na samostatný článek.
 
 ## Jak to zkusit sami — prakticky
 
