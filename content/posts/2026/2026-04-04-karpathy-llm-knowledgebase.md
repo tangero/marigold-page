@@ -7,7 +7,7 @@ categories:
 - produktivita
 - znalostní management
 layout: post
-post_excerpt: Andrej Karpathy zveřejnil návod jak používat AI jinak – ne na psaní kódu, ale na budování osobní znalostní báze. 82 000 záložek za čtyři dny říká, že lidi tohle chtějí. Tady je překlad, kritický rozbor a praktický návod jak začít.
+post_excerpt: Andrej Karpathy zveřejnil návod jak používat AI jinak – ne na psaní kódu, ale na budování osobní znalostní báze. 82 000 záložek za čtyři dny říká, že lidi tohle chtějí. Tady je překlad, kritický rozbor a praktický návod jak začít. Aktualizováno o tři měsíce vývoje – Google vydal standard OKF a vznikly první hotové produkty, se kterými se dá experimentovat hned.
 summary_points:
 - Karpathy přestal používat AI hlavně na kód a místo toho ho používá na kompilaci osobní wiki z markdown souborů
 - LLM průběžně indexuje zdroje, píše články, propojuje koncepty a odpovídá na dotazy – člověk jen přináší zdroje a otázky
@@ -15,6 +15,8 @@ summary_points:
 - 82 000 záložek za čtyři dny ukazuje, že lidi tuhle myšlenku chtějí – ale zatím nevědí jak začít
 - Karpathy následně zveřejnil idea file — nový formát sdílení, kde nesdílíte kód, ale myšlenku, a agent si implementaci postaví sám
 - Komunita už za den vytvořila desítky implementací — od Go binárky přes Claude Code skill po voice-first verzi přes Telegram
+- Aktualizace po třech měsících – Google vydal Open Knowledge Format (OKF), vendor-neutrální standard, který přesně tenhle vzor formalizuje
+- Vzniklo i několik hotových produktů — llmwiki.app, skilly instalovatelné jedním příkazem i enterprise varianty s grafem — takže dnes se dá experimentovat bez stavění od nuly
 title: Karpathy přišel na to, jak používat AI jinak. A má pravdu.
 thumbnail: https://www.marigold.cz/assets/karpathy-llm.jpg
 ---
@@ -89,13 +91,38 @@ Gist má přes 60 komentářů a řada z nich přidává reálnou hodnotu.
 
 **Kumulace rozporů.** Japonský komentátor varuje, že hlavní příčinou degradace kvality wiki není objem dat, ale kumulace rozporů — a navrhuje architekturu, která je řeší autonomně. To potvrzuje, že Karpathyho „linting” není volitelný doplněk, ale nutná součást systému.
 
+## Za tři měsíce: z myšlenky standard
+
+Píšu tenhle odstavec s tříměsíčním odstupem od původního textu — a musím ho doplnit, protože se stalo něco, co Karpathy v gistu jen tušil. V citaci z jeho gistu jsem výše nechal větu „Open Knowledge Format (OKF) Import is officially coming.” Tehdy to znělo jako vzdálený příslib. Dnes je to realita.
+
+12. června 2026 vydal **Google Cloud** (tým Data Cloud, Sam McVeety a Amir Hormati) **Open Knowledge Format v0.1** — otevřenou, vendor-neutrální specifikaci, která formalizuje přesně ten vzor, o kterém je celý tenhle článek. Google to popisuje bez okolků: OKF „formalizuje LLM-wiki vzor do přenositelného, interoperabilního formátu”.
+
+A pointa je, že je to skoro až provokativně jednoduché. OKF bundle je **adresář markdown souborů s YAML frontmatterem**, kde jediné povinné pole je `type`. Žádný schema registr, žádná centrální autorita, žádný povinný tooling. Slovy specifikace: „když umíš `cat` souboru, umíš číst OKF; když umíš `git clone` repozitáře, umíš ho poslat dál.” Doporučená pole jsou `title`, `description`, `resource`, `tags` a `timestamp` — a producent si může přidat jakákoli další, konzument je musí tolerovat a nikdy nesmí bundle odmítnout kvůli neznámému poli.
+
+```
+sales/
+├── index.md          # rozcestník (progressive disclosure)
+├── log.md            # append-only changelog
+├── datasets/
+│   └── orders_db.md
+├── tables/
+│   ├── orders.md
+│   └── customers.md
+└── metrics/
+    └── weekly_active_users.md
+```
+
+Vidíte to? Je to Karpathyho `raw/` + `wiki/` + `index.md` + `log.md`, jen s razítkem Googlu a garantovanou interoperabilitou. **Wiki, kterou si postavíte dnes podle OKF, půjde zítra otevřít cizím agentem bez konverze.** Google zároveň upravil svůj Knowledge Catalog, aby OKF bundly rovnou konzumoval a servíroval svým agentům — což je ta enterprise cesta pro firmy, které už na GCP jsou.
+
+Pro mě je to nejdůležitější zpráva od původního tweetu. Karpathy volal po „úžasném novém produktu místo hacky sbírky skriptů”. Nedostali jsme produkt — dostali jsme **standard**, což je nakonec cennější. Standard je to, co z „hacky sbírky skriptů” dělá ekosystém.
+
 ## Kde to drhne
 
 Systém je elegantní, ale má reálná omezení, o kterých se méně mluví.
 
 **Ruční přidávání zdrojů** — Karpathy přiznává, že každý zdroj přidává ručně, jeden po druhém. Při 100 článcích to zvládnete. Při 1 000 začínáte mít problém. Voice-first varianta přes Telegram je zatím nejpřesvědčivější řešení capture bottlenecku, ale i ta vyžaduje disciplínu. špatné je , když máte historii poznámek jako já …
 
-**Škálování** — 400 000 slov bez RAG zatím funguje. Sám říká „při této malé škále”. Při milionech slov context window nestačí a budete potřebovat přesně tu fancy infrastrukturu, které jste se chtěli vyhnout. Karpathy v gist doporučuje [qmd](https://github.com/tobi/qmd) — lokální search engine pro markdown s hybridním BM25/vektorovým vyhledáváním — jako řešení pro větší wiki.
+**Škálování** — 400 000 slov bez RAG zatím funguje. Sám říká „při této malé škále”. Při milionech slov context window nestačí a budete potřebovat přesně tu fancy infrastrukturu, které jste se chtěli vyhnout. Karpathy v gist doporučuje [qmd](https://github.com/tobi/qmd) — lokální search engine pro markdown s hybridním BM25/vektorovým vyhledáváním — jako řešení pro větší wiki. Přesně tady vidím řešení svého vlastního problému s ~50 000 poznámkami k 3GPP normám: **Obsidian má od února 2026 oficiální CLI se stovkou příkazů**, takže agent s přístupem k shellu s vaultem pracuje nativně — hledá, zakládá poznámky, připojuje obsah — a nemusí si celý vault tahat do kontextu. To je ta chybějící vrstva mezi „flat soubory stačí” a „musíte postavit vektorovou databázi”.
 
 **Kvalita kompilace** — LLM při kompilaci dělá rozhodnutí o tom, co je důležité a co ne. Bez vašeho dozoru se mohou drobné nepřesnosti kumulovat. „Health checks” které Karpathy zmiňuje jsou nutnost, ne volba. Jak upozorňuje jeden z komentátorů v gist: LLM umí syntetizovat bez citací a vy si toho nevšimnete, dokud se nepodíváte. Pravidlo „cituj zdroj u každého tvrzení” patří do schema souboru.
 
@@ -104,6 +131,33 @@ Systém je elegantní, ale má reálná omezení, o kterých se méně mluví.
 **Syntéza versus porozumění** — jeden z nejhlubších komentářů přichází od esejisty, který srovnává Karpathyho systém s Luhmannovou kartotékou (Zettelkasten). Karpathyho systém řeší údržbu znalostní báze, ale neřeší syntézu — osobní reformulaci, která je mechanismem porozumění, ne neefektivitou. Doporučení: použijte LLM wiki na průzkum a mapování terénu, ale vlastní argumentaci a závěry pište sami.
 
 Ale tyhle výhrady jsou detaily. Jádro myšlenky je správné.
+
+## Existují už hotové produkty? Ano — a je jich překvapivě hodně
+
+Když jsem článek psal poprvé, odpověď zněla „postavte si to sami”. Za tři měsíce se to změnilo. Karpathyho „idea file” zafungoval přesně tak, jak měl — lidé si z něj postavili implementace a část z nich dotáhli do stavu, kdy je můžete jen nainstalovat a experimentovat. Dělím je do tří kategorií podle toho, kolik práce vás stojí.
+
+### Skutečně hotové produkty (nainstalujete a běží)
+
+- **[llmwiki.app](https://github.com/lucasastorian/llmwiki)** (Lucas Astorian) — zatím nejblíž tomu „úžasnému produktu”, po kterém Karpathy volal. Máte na výběr hostovanou verzi zdarma nebo self-host. Součástí je **webová aplikace** (Next.js) na prohlížení vaší osobní Wikipedie s grafem a proklikem na zdroje, **Chrome rozšíření** na clipování stránek a PDF i s highlighty a poznámkami, **MCP server** pro Claude a hlavně **noční Claude Routine**, která wiki autonomně udržuje. Chytrý detail: chytá i vaše poznámky na okraj, ne jen zdroj — takže wiki je záznam nejen toho, co jste četli, ale co jste si o tom mysleli.
+- **NotebookLM** (Google) — nejdostupnější varianta, ale jiná filozofie. Umí Deep Research (sám najde zdroje na webu) i podcast režim s dvěma AI moderátory. Jenže je to pořád **dotazovací nástroj, ne kompilující wiki** — znalost se nekumuluje, systém strukturu nevlastní. Přesně ten rozdíl, který v sekci „Co říká komunita” zdůrazňuji. Dobrý na rychlý začátek, špatný jako dlouhodobá znalostní infrastruktura.
+- **Mem.ai, Reflect** — komerční „second brain” aplikace s AI. Automaticky propojují poznámky, Reflect je šifrovaný a kalendářově orientovaný. Ale ani jeden nedělá to hlavní z Karpathyho vzoru — nenechá agenta vlastnit a přestavovat strukturu. Spíš kontrast než náhrada.
+
+### Instalace jedním příkazem (pro Claude Code, Cursor, Codex)
+
+Tohle je pro každého, kdo už s agentem pracuje a nechce nic hostovat:
+
+- **[Astro-Han/karpathy-llm-wiki](https://github.com/Astro-Han/karpathy-llm-wiki)** — `npx add-skill Astro-Han/karpathy-llm-wiki`. Zabalí celý vzor do jednoho [Agent Skillu](https://agentskills.io): ingest → kompilace → dotazování s citacemi → lint. Funguje v Claude Code, Cursoru, Codexu i OpenCode.
+- **[toolboxmd/karpathy-wiki](https://github.com/toolboxmd/karpathy-wiki)** — Claude Code skill s detached background workerem, který ingest zpracuje na pozadí, aniž vás vyruší z práce. Git-verzované, umí hlavní i per-project wiki.
+- **[jlbgit/PersonalKnowledgeBaseCreator](https://github.com/jlbgit/PersonalKnowledgeBaseCreator)** — skilly `/compile-wiki`, `/ask-wiki`, `/lint-wiki` pro Cursor, Claude Code i Copilot. Autoři uvádějí 50–90 % úsporu tokenů oproti dotazování raw souborů — protože agent prochází graf `[[odkazů]]`, ne celý korpus.
+- **[supachai-j/open-knowledge-format-starter](https://github.com/supachai-j/open-knowledge-format-starter)** — starter postavený rovnou nad OKF v0.1, s validátorem konformity a generátorem grafové vizualizace. Pokud chcete začít rovnou standardem, tohle je vstupní bod.
+
+### Pro náročnější a firemní nasazení
+
+- **[lcwiki](https://github.com/LCccode/Karpathy-wiki-graph)** — „enterprise” varianta se třemi vrstvami (články + koncepty + interaktivní graf s detekcí komunit) a chytrým inkrementálním ingestem za zhruba 10 % nákladu klasického RAG.
+- **[knowledge-engine](https://github.com/nipashnp/knowledge-engine)** — dvouvrstvý most mezi lidsky čitelnou wiki a strojovou pamětí (Memvid), se sub-5ms sémantickým vyhledáváním. Memvid je volitelný — bez něj běží jako čistá wiki.
+- **Obsidian implementace** ([Ar9av/obsidian-wiki](https://github.com/ar9av/obsidian-wiki), [NicholasSpisak/second-brain](https://github.com/NicholasSpisak/second-brain), claude-obsidian) — pro mě osobně nejrelevantnější větev. Díky oficiálnímu Obsidian CLI a MCP se z Obsidianu stává „IDE”, LLM je „programátor” a vaše wiki „codebase”. Přesně to řeší můj problém s historií tisíců poznámek — nemusím migrovat, agent pracuje s vaultem tam, kde je.
+
+Co bych zkusil první, kdybych začínal dnes: **llmwiki.app** na rychlé osahání myšlenky (nejmíň tření), a paralelně některý **Agent Skill** nad vlastním adresářem, pokud už používám Claude Code. Rozhodnutí padne za odpoledne — a to je pořád pointa celého systému.
 
 ## Jak to zkusit sami — prakticky
 
@@ -201,6 +255,6 @@ To je rozdíl mezi člověkem, který hledá v Googlu, a člověkem, který má 
 
 Karpathy sám přirovnává myšlenku k Vannevaru Bushovi a jeho konceptu Memex z roku 1945 — osobnímu, kurátorovanému úložišti znalostí s asociativními stezkami mezi dokumenty. Bush měl vizi blíž k téhle wiki než k tomu, čím se stal web. Část, kterou nedokázal vyřešit, bylo kdo tu údržbu bude dělat. LLM to řeší.
 
-Lidé zjevně tuhle myšlenku chtějí realizovat. Zatím to ale většina z nich nedělá — protože nevědí, jak začít.
+Lidé zjevně tuhle myšlenku chtějí realizovat. Když jsem tenhle článek psal poprvé, hlavní překážkou bylo, že nikdo nevěděl, jak začít. Za tři měsíce se to obrátilo — Google vydal standard, komunita hotové produkty, a překážkou už není „jak”, ale „z čeho vybrat”. To je hezký problém. Znamená, že myšlenka přežila fázi hype a usadila se jako způsob práce.
 
-Pokud chcete začít dnes: zkopírujte [Karpathyho idea file](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f), vložte to do Claude Code a řekněte „postav mi znalostní wiki na téma X”. Nebo to udělejte ručně — založte si adresář, nainstalujte si MarkDownload, přidejte 10–15 článků, napište `CLAUDE.md` s pravidly kompilace. Celé to zabere odpoledne — a uvidíte, jestli vám ten způsob práce sedí, dřív než budete investovat do čehokoliv složitějšího.
+Pokud chcete začít dnes, máte tři cesty podle chuti si hrát. Nejrychlejší: založte si účet na **[llmwiki.app](https://github.com/lucasastorian/llmwiki)** nebo nainstalujte Agent Skill (`npx add-skill Astro-Han/karpathy-llm-wiki`) a nechte hotový nástroj, ať vás provede. Vlastní cesta: zkopírujte [Karpathyho idea file](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f), vložte to do Claude Code a řekněte „postav mi znalostní wiki na téma X”. Nebo to udělejte celé ručně — založte si adresář, nainstalujte si MarkDownload, přidejte 10–15 článků, napište `CLAUDE.md` (nebo rovnou OKF bundle) s pravidly kompilace. Ať zvolíte cokoli, celé to zabere odpoledne — a uvidíte, jestli vám ten způsob práce sedí, dřív než budete investovat do čehokoliv složitějšího.

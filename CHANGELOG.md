@@ -11,6 +11,7 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
 - Nový článek do rubriky Apple: „Může Apple za růst cen pamětí, který ho teď donutil zdražit?" (Patrick Zandl, 2026-06-27) — analýza zdražení Maců a iPadů, sporu Apple vs. Micron a čínské paměťové cesty přes CXMT, s thumbnailem `2026-06-27-apple-ceny-pameti.jpg`
 
 ### Changed
+- Aktualizace článku „Karpathy přišel na to, jak používat AI jinak" (`content/posts/2026/2026-04-04-karpathy-llm-knowledgebase.md`) o tři měsíce vývoje: nová sekce „Za tři měsíce: z myšlenky standard" o vydání Open Knowledge Format (OKF v0.1) od Google Cloud (12. 6. 2026), nová sekce „Existují už hotové produkty? Ano" s rozcestníkem produktů (llmwiki.app, Agent Skilly `npx add-skill`, lcwiki, knowledge-engine, Obsidian implementace, NotebookLM/Mem/Reflect jako kontrast), rozšíření sekce o škálování o oficiální Obsidian CLI, aktualizace perexu, summary_points a závěru
 - Jazyková humanizace článku o cenách pamětí Apple: odstranění anglicismů („linie" → „řady", „moderní historie" → „novodobá historie", „telegrafoval" → „avizoval"), přirozenější slovosled a přepis negačně-kontrastního obratu („Háček není v datech… Háček je v…" → „Potíž je především v tom, jak se data používají")
 
 ### Fixed
