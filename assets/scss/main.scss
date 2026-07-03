@@ -2132,19 +2132,49 @@ pre:has(code.language-mermaid), code.language-mermaid {
 .quick-summary {
   background: linear-gradient(145deg, $white, #f5f5f5);
   border-radius: 12px;
-  padding: 1.5rem;
   margin: 2rem 0;
   box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1),
               0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  max-width: 100%;
+  overflow: hidden;
 }
 
-.quick-summary-header {
+.quick-summary-toggle {
   display: flex;
   align-items: center;
-  margin-bottom: 1rem;
+  justify-content: space-between;
+  width: 100%;
+  background: none;
+  border: none;
+  padding: 1rem 1.5rem;
+  cursor: pointer;
+  font-family: $system-font;
+}
+
+.quick-summary-label {
+  display: flex;
+  align-items: center;
   color: $darkerGray;
   font-weight: 600;
   font-size: 1.1rem;
+}
+
+.quick-summary-icon {
+  font-size: 10px;
+  color: $gray;
+  transition: transform 0.2s ease;
+}
+
+.quick-summary.collapsed .quick-summary-icon {
+  transform: rotate(-90deg);
+}
+
+.quick-summary-body {
+  padding: 0 1.5rem 1.5rem;
+}
+
+.quick-summary.collapsed .quick-summary-body {
+  display: none;
 }
 
 .summary-icon {
@@ -2531,8 +2561,12 @@ pre:has(code.language-mermaid), code.language-mermaid {
     box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.3);
   }
 
-  .quick-summary-header {
+  .quick-summary-label {
     color: #e0e0e0;
+  }
+
+  .quick-summary-icon {
+    color: #a0a0b8;
   }
 
   .summary-icon,

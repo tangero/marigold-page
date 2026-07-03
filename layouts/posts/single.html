@@ -46,18 +46,23 @@
   {{ end }}
 
   {{ with .Params.summary_points }}
-  <div class="quick-summary">
-    <div class="quick-summary-header">
-      <svg class="summary-icon" viewBox="0 0 24 24" width="24" height="24">
-        <path fill="currentColor" d="M14,17H7V15H14M17,13H7V11H17M17,9H7V7H17M19,3H5C3.89,3 3,3.89 3,5V19A2,2 0 0,0 5,21H19A2,2 0 0,0 21,19V5C21,3.89 20.1,3 19,3Z" />
-      </svg>
-      <span>Rychlé shrnutí článku</span>
+  <div class="quick-summary collapsed" id="quick-summary">
+    <button class="quick-summary-toggle" onclick="document.getElementById('quick-summary').classList.toggle('collapsed')" aria-label="Zobrazit/skryt shrnutí">
+      <span class="quick-summary-label">
+        <svg class="summary-icon" viewBox="0 0 24 24" width="24" height="24" aria-hidden="true">
+          <path fill="currentColor" d="M14,17H7V15H14M17,13H7V11H17M17,9H7V7H17M19,3H5C3.89,3 3,3.89 3,5V19A2,2 0 0,0 5,21H19A2,2 0 0,0 21,19V5C21,3.89 20.1,3 19,3Z" />
+        </svg>
+        <span>Rychlé shrnutí článku</span>
+      </span>
+      <span class="quick-summary-icon">&#9660;</span>
+    </button>
+    <div class="quick-summary-body">
+      <ul class="summary-points">
+        {{ range . }}
+          <li>{{ . }}</li>
+        {{ end }}
+      </ul>
     </div>
-    <ul class="summary-points">
-      {{ range . }}
-        <li>{{ . }}</li>
-      {{ end }}
-    </ul>
   </div>
   {{ end }}
 
