@@ -10,6 +10,9 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
 ### Added
 - Nový článek do rubriky Apple: „Může Apple za růst cen pamětí, který ho teď donutil zdražit?" (Patrick Zandl, 2026-06-27) — analýza zdražení Maců a iPadů, sporu Apple vs. Micron a čínské paměťové cesty přes CXMT, s thumbnailem `2026-06-27-apple-ceny-pameti.jpg`
 
+### Removed
+- Odstraněn Ahrefs Analytics (`analytics.ahrefs.com/analytics.js`, data-key `8DK1Fml+9uQuIb76lJoKXA`) — služba se už neplatí. Smazáno ze všech 4 výskytů: Hugo layouty `layouts/_default/baseof.html` a `layouts/page/aiprace.html` (marigold.cz) i legacy Jekyll layouty `_layouts/default.html` a `_layouts/aiprace.html` (vibecoding.cz)
+
 ### Changed
 - Rychlé shrnutí článku (`summary_points`) je sbalitelné stejně jako Obsah (ToC) — výchozí stav sbalený, rozbalení klikem na hlavičku (`layouts/posts/single.html`, `assets/scss/main.scss`)
 - Aktualizace článku „Karpathy přišel na to, jak používat AI jinak" (`content/posts/2026/2026-04-04-karpathy-llm-knowledgebase.md`) o tři měsíce vývoje: nová sekce „Za tři měsíce: z myšlenky standard" o vydání Open Knowledge Format (OKF v0.1) od Google Cloud (12. 6. 2026), nová sekce „Existují už hotové produkty? Ano" s rozcestníkem produktů (llmwiki.app, Agent Skilly `npx add-skill`, lcwiki, knowledge-engine, Obsidian implementace, NotebookLM/Mem/Reflect jako kontrast), rozšíření sekce o škálování o oficiální Obsidian CLI, aktualizace perexu, summary_points a závěru
