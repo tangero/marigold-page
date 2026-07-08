@@ -20,7 +20,7 @@ Claude Cowork přenáší schopnosti agentního Claude Code do desktopového pro
 
 Rozdíl mezi Claude Chat a Cowork? Místo abyste Coworku pokaždé znovu vysvětlovali kontext, dostanete agenta, který pracuje přímo s vašimi soubory. Ve vaší složce. Pojďme si vysvětlit, jak funguje a jak může pomoci i vaší práci!
 
-[Online kurz Claude Cowork a AI agenti](https://www.vibecoding.cz/akce/claude-cowork-a-ai-agenti-v-praxi/)
+> Chcete se **naučit pracovat s Claude Cowork?** **Máme pro vás dvouhodinový webinář**, kde se dozvíte vše důležité. Ano, i tyhle změny.  [👉 Detaily zde](https://www.vibecoding.cz/akce/claude-cowork-webinar). 
 
 ## Co Cowork je a kde sedí mezi ostatními režimy Claude
 
