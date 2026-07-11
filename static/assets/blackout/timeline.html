@@ -1,0 +1,597 @@
+<!doctype html>
+<html lang="cs">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Blackout 4. 7. 2025 — interaktivní časová osa</title>
+<style>
+  :root{
+    --bg:#f3f5f4; --surface:#ffffff; --ink:#15202e; --muted:#5c6b7a; --line:#d7dde0;
+    --accent:#b5176b; --accent-soft:#faeaf2;
+    --navy:#173e6e; --navy-soft:#e9eff7; --blue:#2f6db3;
+    --hot:#c43c2e; --hot-soft:#fbeae8; --warn:#d99a00; --warn-soft:#fdf3dd;
+    --ok:#1e7a45; --ok-soft:#e4f3ea;
+    --shadow:0 10px 30px rgba(21,32,46,.10);
+  }
+  @media (prefers-color-scheme: dark){
+    :root{
+      --bg:#0f151c; --surface:#181f2b; --ink:#e8edf2; --muted:#93a1b0; --line:#2b3947;
+      --accent:#ef6aab; --accent-soft:#3a1a2b;
+      --navy:#a9c6e8; --navy-soft:#22304a; --blue:#6ea8dd;
+      --hot:#e5695c; --hot-soft:#3a201c; --warn:#e0b23a; --warn-soft:#3a2f10;
+      --ok:#5cb884; --ok-soft:#16301f;
+      --shadow:0 10px 30px rgba(0,0,0,.45);
+    }
+  }
+  :root[data-theme="light"]{
+    --bg:#f3f5f4; --surface:#ffffff; --ink:#15202e; --muted:#5c6b7a; --line:#d7dde0;
+    --accent:#b5176b; --accent-soft:#faeaf2;
+    --navy:#173e6e; --navy-soft:#e9eff7; --blue:#2f6db3;
+    --hot:#c43c2e; --hot-soft:#fbeae8; --warn:#d99a00; --warn-soft:#fdf3dd;
+    --ok:#1e7a45; --ok-soft:#e4f3ea;
+    --shadow:0 10px 30px rgba(21,32,46,.10);
+  }
+  :root[data-theme="dark"]{
+    --bg:#0f151c; --surface:#181f2b; --ink:#e8edf2; --muted:#93a1b0; --line:#2b3947;
+    --accent:#ef6aab; --accent-soft:#3a1a2b;
+    --navy:#a9c6e8; --navy-soft:#22304a; --blue:#6ea8dd;
+    --hot:#e5695c; --hot-soft:#3a201c; --warn:#e0b23a; --warn-soft:#3a2f10;
+    --ok:#5cb884; --ok-soft:#16301f;
+    --shadow:0 10px 30px rgba(0,0,0,.45);
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    background:var(--bg); color:var(--ink); line-height:1.5;
+  }
+  .mono{font-family:ui-monospace,"SF Mono",SFMono-Regular,Menlo,Consolas,monospace;font-variant-numeric:tabular-nums}
+  .wrap{max-width:880px;margin:0 auto;padding:0 18px}
+
+  .hero{padding:26px 0 14px}
+  .hero .kicker{font-size:11.5px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--accent);margin-bottom:8px}
+  .hero h1{font-size:clamp(23px,4.5vw,32px);line-height:1.12;letter-spacing:-.015em;text-wrap:balance;margin-bottom:9px}
+  .hero p{color:var(--muted);font-size:14.5px;max-width:66ch}
+
+  /* ---------- přehrávač ---------- */
+  #player{background:var(--surface);border:1px solid var(--line);border-radius:16px;box-shadow:var(--shadow);padding:16px 18px 18px;margin:14px 0 8px}
+
+  #ctrl{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+  .cbtn{
+    width:40px;height:40px;border-radius:50%;border:1.5px solid var(--line);background:var(--surface);
+    color:var(--ink);font-size:15px;cursor:pointer;flex:none;display:flex;align-items:center;justify-content:center;
+  }
+  .cbtn:hover{border-color:var(--navy)}
+  #playbtn{width:52px;height:52px;border:none;background:var(--navy);color:var(--surface);font-size:19px}
+  #playbtn.playing{background:var(--accent)}
+  #clockv{font-size:clamp(22px,4vw,30px);font-weight:800;letter-spacing:.01em;margin-left:4px}
+  #speeds{margin-left:auto;display:flex;align-items:center;gap:6px}
+  #speeds small{font-size:10px;color:var(--muted);font-weight:700;letter-spacing:.06em;text-transform:uppercase;margin-right:2px}
+  .sp{
+    border:1.5px solid var(--line);background:var(--surface);color:var(--muted);
+    border-radius:20px;padding:4px 12px;font-size:12.5px;font-weight:700;cursor:pointer;
+  }
+  .sp.on{border-color:var(--blue);color:var(--blue);background:var(--navy-soft)}
+
+  /* osa */
+  #axis{position:relative;margin:26px 6px 34px;height:14px}
+  .seg{position:absolute;top:5px;height:5px}
+  .seg.ok{background:var(--ok)}
+  .seg.warn{background:var(--warn)}
+  .seg.hot{background:var(--hot)}
+  .seg.first{border-radius:3px 0 0 3px}
+  .seg.last{border-radius:0 3px 3px 0}
+  .dot{
+    position:absolute;top:7.5px;width:9px;height:9px;border-radius:50%;transform:translate(-50%,-50%);
+    background:var(--muted);border:2px solid var(--surface);cursor:pointer;transition:transform .15s;z-index:2;
+  }
+  .dot:hover{transform:translate(-50%,-50%) scale(1.5)}
+  .dot.prev{background:var(--ok)}
+  .dot.key{background:var(--hot)}
+  .dot.ponr{background:var(--accent);width:13px;height:13px}
+  .dot.cur{transform:translate(-50%,-50%) scale(1.45)}
+  #cursor{
+    position:absolute;top:7.5px;width:17px;height:17px;border-radius:50%;transform:translate(-50%,-50%);
+    background:var(--surface);border:4px solid var(--navy);z-index:4;pointer-events:none;
+    box-shadow:0 1px 6px rgba(21,32,46,.35);
+  }
+  #ponrflag{
+    position:absolute;top:-21px;transform:translateX(-50%);font-size:9px;font-weight:800;
+    letter-spacing:.08em;color:var(--accent);text-transform:uppercase;white-space:nowrap;z-index:1;
+  }
+  #ponrflag::after{content:'';position:absolute;left:50%;top:13px;width:1.5px;height:11px;background:var(--accent)}
+  .alab{position:absolute;top:16px;font-size:10.5px;color:var(--muted);transform:translateX(-50%);white-space:nowrap}
+  .alab.b{font-weight:700;color:var(--ink)}
+  @media (max-width:560px){
+    .alab{display:none}
+    .alab.b,.alab.end,.alab.start{display:block;font-size:9.5px}
+    #axis{margin-top:30px}
+  }
+  #axleg{display:flex;gap:13px;flex-wrap:wrap;font-size:10.5px;color:var(--muted);margin:-14px 6px 12px}
+  #axleg i{font-style:normal;display:inline-flex;align-items:center;gap:5px}
+  #axleg .d{width:8px;height:8px;border-radius:50%;display:inline-block}
+  #axleg .s{width:16px;height:4px;border-radius:2px;display:inline-block}
+
+  /* stavové rámečky */
+  #tiles{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:12px}
+  .tile{flex:1;min-width:130px;padding:9px 13px;border-radius:11px;border:1.5px solid var(--line);background:var(--bg)}
+  .tile b{display:block;font-size:9.5px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);white-space:nowrap;margin-bottom:1px}
+  .tile span{font-size:19px;font-weight:700;white-space:nowrap}
+  @media (max-width:640px){.tile{min-width:calc(50% - 5px)}.tile span{font-size:16px}}
+  .tile.warn{background:var(--warn-soft);border-color:var(--warn)} .tile.warn span{color:var(--warn)}
+  .tile.hot{background:var(--hot-soft);border-color:var(--hot)} .tile.hot span{color:var(--hot)}
+  .tile.ok{background:var(--ok-soft);border-color:var(--ok)} .tile.ok span{color:var(--ok)}
+
+  /* karta události */
+  #ecard{border:1.5px solid var(--line);border-radius:12px;overflow:hidden;background:var(--surface)}
+  #ecard .hd{background:var(--navy-soft);padding:10px 16px 9px;border-bottom:1px solid var(--line)}
+  #ecard .et{font-size:13px;font-weight:800;color:var(--blue)}
+  #ecard h3{font-size:19px;letter-spacing:-.01em;line-height:1.2;margin-top:1px;text-wrap:balance}
+  #ecard .bd{padding:12px 16px 13px}
+  #ecard .sum{font-size:14.5px}
+  #ecard .badge[hidden]{display:none}
+  #ecard .badge{
+    display:inline-block;font-size:10px;font-weight:800;letter-spacing:.1em;text-transform:uppercase;
+    padding:2px 10px;border-radius:20px;margin-bottom:5px;
+  }
+  #ecard.ponr .hd{background:var(--accent-soft)}
+  #ecard.ponr{border-color:var(--accent)}
+  #ecard.ponr .et{color:var(--accent)}
+  #ecard.ponr .badge{background:var(--accent);color:#fff}
+  #ecard.prev .hd{background:var(--ok-soft)}
+  #ecard.prev{border-color:var(--ok)}
+  #ecard.prev .et{color:var(--ok)}
+  #ecard.prev .badge{background:var(--ok);color:#fff}
+  #ecard.blackout .hd{background:#101820}
+  #ecard.blackout .hd h3{color:#eef2f5}
+  #ecard.blackout .et{color:#e0b23a}
+  details{margin-top:10px;border:1px solid var(--line);border-radius:9px}
+  details summary{
+    cursor:pointer;padding:8px 12px;font-size:13px;font-weight:700;color:var(--blue);
+    list-style:none;display:flex;align-items:center;gap:7px;
+  }
+  details summary::before{content:'▸';transition:transform .15s}
+  details[open] summary::before{transform:rotate(90deg)}
+  details .dx{padding:2px 13px 11px;font-size:13.5px}
+  details .dx p+p{margin-top:7px}
+  .facts{display:flex;flex-wrap:wrap;gap:6px;margin-top:9px}
+  .facts i{font-style:normal;font-size:11.5px;padding:2px 9px;border-radius:20px;background:var(--navy-soft);color:var(--navy);font-weight:600}
+  .callout{margin-top:9px;padding:8px 11px;border-left:3px solid var(--accent);background:var(--accent-soft);border-radius:0 8px 8px 0;font-size:12.5px}
+  .callout.g{border-color:var(--ok);background:var(--ok-soft)}
+  .callout b{color:var(--accent)} .callout.g b{color:var(--ok)}
+  #ecard .src{font-size:11px;color:var(--muted);margin-top:9px}
+
+  /* ---------- sekce pod přehrávačem ---------- */
+  .sect{margin:38px 0 10px;display:flex;align-items:baseline;gap:11px}
+  .sect .num{font-size:13px;font-weight:800;color:var(--accent)}
+  .sect h2{font-size:20px;letter-spacing:-.01em}
+  .sect .sub{display:block;font-size:13px;font-weight:400;color:var(--muted);margin-top:1px}
+  .panel{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:15px 17px;font-size:14px}
+  .panel p+p{margin-top:8px}
+  .panel.ponrp{border:2px solid var(--accent)}
+  .grid2{display:grid;gap:12px;margin-top:12px}
+  .win{background:var(--surface);border:1px solid var(--ok);border-radius:12px;padding:13px 15px;display:grid;grid-template-columns:32px 1fr;gap:3px 12px}
+  .win .n{grid-row:1/3;width:28px;height:28px;border-radius:50%;background:var(--ok);color:#fff;display:flex;align-items:center;justify-content:center;font-weight:800;font-size:13px;margin-top:2px}
+  .win h3{font-size:14.5px}
+  .win h3 small{font-weight:600;color:var(--muted);font-size:12px;margin-left:6px}
+  .win p{font-size:13px;color:var(--muted)}
+  .reco{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:13px 15px;display:grid;grid-template-columns:32px 1fr;gap:3px 12px;scroll-margin-top:16px}
+  .reco .n{grid-row:1/3;width:28px;height:28px;border-radius:50%;background:var(--accent);color:#fff;display:flex;align-items:center;justify-content:center;font-weight:800;font-size:13px;margin-top:2px}
+  .reco h3{font-size:14px;display:flex;gap:8px;align-items:baseline;flex-wrap:wrap}
+  .reco .pri{font-size:9.5px;font-weight:800;letter-spacing:.06em;text-transform:uppercase;padding:1px 8px;border-radius:20px;flex:none}
+  .pri.vys{background:var(--hot-soft);color:var(--hot)}
+  .pri.str{background:var(--warn-soft);color:var(--warn)}
+  .pri.niz{background:var(--ok-soft);color:var(--ok)}
+  .reco p{font-size:12.5px;color:var(--muted)}
+  footer{border-top:1px solid var(--line);margin-top:38px;padding:16px 0 28px;font-size:11.5px;color:var(--muted)}
+  footer p+p{margin-top:6px}
+
+  /* režim ?embed=1 — jen přehrávač (pro iframe v článku) */
+  body.embed .hero{display:none}
+  body.embed main{display:none}
+  body.embed #player{margin:10px 0}
+  body.embed #ecredit{display:block}
+  #ecredit{display:none;font-size:10.5px;color:var(--muted);margin-top:10px}
+  #ecredit a{color:var(--blue)}
+</style>
+</head>
+<body>
+
+<div class="wrap">
+  <div class="hero">
+    <div class="kicker">4. července 2025 · rekonstrukce podle závěrečné zprávy ENTSO-E</div>
+    <h1>Devět minut do tmy: blackout na časové ose</h1>
+    <p>Stiskněte ▶ — čas poběží plynule od 11:00 do půlnoci, s detailem na kritických devíti minutách. Osa ukazuje stav sítě barvou: <span style="color:var(--ok);font-weight:700">zelená</span> = v pořádku, <span style="color:var(--warn);font-weight:700">žlutá</span> = okno se zavírá (11:52–11:59), <span style="color:var(--hot);font-weight:700">červená</span> = blackout až do obnovení dodávek. <span style="color:var(--accent);font-weight:700">Purpurový bod</span> je Bod bez návratu; okna, kdy šlo blackoutu předejít, najdete pod osou.</p>
+  </div>
+
+  <div id="player">
+    <div id="ctrl">
+      <button class="cbtn" id="prevbtn" aria-label="Předchozí událost">‹</button>
+      <button class="cbtn" id="playbtn" aria-label="Přehrát">▶</button>
+      <button class="cbtn" id="nextbtn" aria-label="Další událost">›</button>
+      <span id="clockv" class="mono">11:00:00</span>
+      <div id="speeds">
+        <small>zpomalení</small>
+        <button class="sp on" data-s="1">1×</button>
+        <button class="sp" data-s="2">2×</button>
+        <button class="sp" data-s="4">4×</button>
+        <button class="sp" data-s="8">8×</button>
+      </div>
+    </div>
+
+    <div id="axis"></div>
+    <div id="axleg">
+      <i><span class="s" style="background:var(--ok)"></span>síť v pořádku</i>
+      <i><span class="s" style="background:var(--warn)"></span>okno se zavírá</i>
+      <i><span class="s" style="background:var(--hot)"></span>blackout</i>
+      <i><span class="d" style="background:var(--ok)"></span>šlo předejít</i>
+      <i><span class="d" style="background:var(--hot)"></span>klíčový zlom</i>
+      <i><span class="d" style="background:var(--accent)"></span>bod bez návratu</i>
+    </div>
+
+    <div id="tiles">
+      <div class="tile" id="tv208"><b>Vedení V208</b><span class="mono">—</span></div>
+      <div class="tile" id="tloss"><b>Ztráta výroby</b><span class="mono">—</span></div>
+      <div class="tile" id="tfreq"><b>Frekvence</b><span class="mono">—</span></div>
+      <div class="tile" id="tbal"><b>Bilance oblasti</b><span class="mono">—</span></div>
+      <div class="tile" id="tout"><b>Bez dodávky</b><span class="mono">—</span></div>
+    </div>
+
+    <div id="ecard">
+      <div class="hd"><span class="badge" hidden></span><div class="et mono"></div><h3></h3></div>
+      <div class="bd">
+        <p class="sum"></p>
+        <div class="xtra"></div>
+        <div class="src"></div>
+      </div>
+    </div>
+    <div id="ecredit">Interaktivní rekonstrukce podle závěrečné zprávy ENTSO-E (26. 6. 2026). Okna prevence a rozbor Bodu bez návratu: <a href="?" target="_blank" rel="noopener">plná verze infografiky</a>.</div>
+  </div>
+</div>
+
+<main class="wrap">
+  <div class="sect"><span class="num">◆</span><h2>Bod bez návratu: formálně vs. fyzikálně<span class="sub">kdy přesně přestalo jít blackoutu zabránit</span></h2></div>
+  <div class="panel ponrp">
+    <p><b>Formálně</b> označuje zpráva za „point of no return" ruční vypnutí V208 v <b>11:59:44</b> — ve stromu příčin je explicitně vyznačeno jako lidské rozhodnutí. Od té chvíle běžela čistá automatika: za 3 sekundy nadproudová ochrana (2 880 A / 3 s) vypnula spínač přípojnic v Krasíkově, o 73 ms později distanční ochrana transformátor T401 — a ostrov s deficitem 1 800 MW se při RoCoF 3,5 Hz/s zhroutil za 780 ms. Tam už žádný člověk zasáhnout nemohl; frekvenční odlehčování stihlo jen dva stupně.</p>
+    <p><b>Fyzikálně</b> se ale okno zavíralo už od <b>11:52</b>. Soustava tehdy přestala být bezpečná i v N-0 (stav nouze podle SOGL) a V208 nebylo vůbec přetížitelné — dynamický limit 724 A, teklo přes 900 A. Bez zásahu by vedení dřív nebo později selhalo samo, jen destruktivně a s horší obnovou. Dispečer vypnutím určil čas a způsob, ne výsledek.</p>
+    <p>Mezi 11:52 a 11:59 byl tedy rozpad <b>podmíněně neodvratný</b>: odvratitelný jen nástrojem na rychlé snížení deficitu — a ten Česko nemělo. Navýšení výroby nebylo dostupné kvůli stavu bloků, navýšení distribuovaných zdrojů bylo technicky nemožné a odepínání zátěže právně zamčené za stavem nouze (desítky minut). Prakticky byl tedy rozpad neodvratný zhruba od <b>11:55</b>, kdy dispečink ověřil, že žádný z rychlých nástrojů není k dispozici.</p>
+  </div>
+
+  <div class="sect"><span class="num" style="color:var(--ok)">✓</span><h2>Čtyři okna, kdy šlo blackoutu předejít<span class="sub">tři před 11:00, čtvrté přímo na ose (zelený bod)</span></h2></div>
+  <div class="grid2" id="wins"></div>
+
+  <div class="sect"><span class="num">§</span><h2>Devět doporučení ENTSO-E<span class="sub">na která okna prevence navazují</span></h2></div>
+  <div class="grid2" id="recos"></div>
+
+  <footer>
+    <p><b>Zdroj:</b> ENTSO-E — Grid Incident in Czech Republic on 4 July 2025, ICS Investigation Expert Panel, Final Report (26. 6. 2026). Časy a klíčové hodnoty (MW, %, A, Hz) přebírá osa ze zprávy. Hodnoty ve stavových rámečcích mezi opěrnými body zprávy (287 → 438 → 620 MW; 126,1 % → 142,9 %) jsou orientační; „bez dodávky" během obnovy je odhad z posloupnosti kroků obnovy a stav V208 po obnově je schematický.</p>
+    <p>Bilance oblasti = výkon chybějící v postižené oblasti dle regulační odchylky FRCE. Zatížení V208 v % dovoleného proudu (DLR ≈ 724 A). Časová osa je nelineární — kritické minuty 11:51–12:00 jsou roztažené, přehrávání jimi proto prochází pomaleji.</p>
+  </footer>
+</main>
+
+<script>
+'use strict';
+/* ---------- doporučení ---------- */
+const RECOS=[
+ {n:'1',pri:'str',t:'Přísnější kontrola kvality prací na přenosové síti',d:'Dokumentace kritických montážních kroků, certifikované nářadí, termodiagnostika po havarijních opravách. Reaguje na nedotaženou spojku, která celou událost spustila.'},
+ {n:'2',pri:'vys',t:'Řešit riziko hromadného odpojování decentrální výroby',d:'Vyhodnotit riziko plošného odpadávání decentrálních zdrojů po přechodných jevech; případně zpětně zpřísnit požadavky na ochrany starších zdrojů (čl. 4 RfG). Při incidentu se nečekaně odpojilo ~135 MW.'},
+ {n:'3',pri:'str',t:'Ověřit nastavení ochran a regulací výroben',d:'Prověřit soulad ochran a regulací (přepěťové prahy, zpoždění, statika/droop) s připojovacími podmínkami a pravidelně kontrolovat. Ledvice 4 měly statiku 0 % — nekonečné zesílení, blok se rozkýval.'},
+ {n:'4',pri:'niz',t:'Zpoždění pro přechod turbín do otáčkové regulace',d:'Bloky přepínaly okamžitě (t = 0 s) při odchylce 200 mHz — na lokální zákmit, ne systémovou událost. Časové zpoždění by zlepšilo selektivitu.'},
+ {n:'5',pri:'str',t:'Standardizované předávání dat pro vyšetřování',d:'Trvalý rámec předávání dat mezi TSO, DSO a výrobci. Vyšetřování brzdila chybějící data — 151 MW ztraceného výkonu se nepodařilo lokalizovat.'},
+ {n:'6',pri:'vys',t:'Nástroje pro rozpoznání rizika kaskády v řídicím sále',d:'Vizualizace, která odliší vypnutí s přijatelným následkem od spouště kaskády. N-1 analýza důsledky vypnutí V208 správně ukazovala — nástroje je dispečerům nezviditelnily.'},
+ {n:'7',pri:'vys',t:'Proveditelné nouzové postupy proti eskalaci',d:'Rychlá změna pracovního bodu zdrojů (včetně přečerpávacích elektráren v čerpání) a ruční odepínání zátěže tak, aby šly stihnout — při incidentu byly příliš pomalé nebo zamčené za stavem nouze.'},
+ {n:'8',pri:'str',t:'Prahy automatické reakce akumulace na frekvenci',d:'Akumulace v režimu spotřeby (přečerpávací elektrárny, baterie) by se měla odpojit či přejít do výroby dřív, než startuje frekvenční odlehčování zátěže (LFDD).'},
+ {n:'9',pri:'str',t:'Ukládat výsledky ad-hoc N-1 výpočtů',d:'Pravidelné dvouminutové výpočty se ukládaly, ad-hoc studie z řídicího sálu nikoli — vyšetřování přišlo o část obrazu rozhodování v kritických minutách.'},
+];
+
+/* ---------- okna prevence ---------- */
+const WINS=[
+ {n:'1',t:'Správně slisovaná spojka',w:'prosinec 2024',d:'Správně provedená spojka — nebo přejímka a diagnostika, která by vadu zachytila (doporučení 1). Bez spouštěče žádná kaskáda.'},
+ {n:'2',t:'Cílená termovize vedení',w:'kdykoli mezi opravou a 4. 7.',d:'Degradace byla postupná (přechodový odpor → ohřev → únava jádra), takže cílená termovize spojky ji mohla odhalit. Mimořádná termovize po události ostatně našla na V411 další závady.'},
+ {n:'3',t:'Nastavení zdrojů podle předpisů',w:'před incidentem — klíčové okno',d:'Samotný výpadek V411 soustava držela: bez následných ztrát výroby by V208 zůstalo pod 100 % a incident by se nešířil. Kaskádu by zlomilo kterékoli z toho: funkční relé obtokového ventilu na Ledvicích 6 (−292 MW), statika dle kodexu na bloku 4, časové zpoždění přechodu do otáčkové regulace (doporučení 4), ochrany fotovoltaik dle předpisů (−35 MW protiprávně, −95 MW legacy).'},
+ {n:'4',t:'Dlouhé stráně a N-1 report',w:'11:52–11:59 · zelený bod na ose',d:'Jediná technicky reálná páka: zastavit čerpání Dlouhých strání — 311 MW zátěže uvnitř budoucího ostrova, zhruba polovina tehdejšího deficitu. Dispečeři to vyhodnotili jako příliš pomalé „kvůli času potřebnému k dojednání redispečinku" — procesní, ne fyzikální překážka (doporučení 7). A druhá cesta: pravidelný N-1 report z 11:55 ukazoval, že vypnutí V208 shodí Krasíkov — přednost mohla dostat rekonfigurace Krasíkova, kterou dispečeři zvažovali a odložili. Poslední nevyzkoušená větev rozhodovacího stromu.'},
+];
+
+/* ---------- události ----------
+ t: minuty od 11:00 · k: kind ('prev'|'key'|'ponr'|'blackout')
+ c: čas · h: titulek · s: shrnutí · x: „Více ze zprávy" · f: fakta · co/co2: závěry
+ m: {q: frekvence, b: bilance MW, o: MW bez dodávky} · l: kumulativní ztráta MW · v: V208 % ('vyp'|číslo|null) */
+const EV=[
+ {t:0,c:'11:00',h:'Výchozí stav: zeštíhlená, ale bezpečná síť',
+  s:'Pátek o prázdninách. Deset vedení 400 kV a jedno 220 kV odstaveno kvůli modernizaci, dvě v opravě, přes ČR silný tranzit západ→východ. Všechny analýzy hlásí síť N-1 bezpečnou.',
+  x:['Rozvodna Krasíkov je kvůli údržbě V453 a vysokým tokům mimo základní zapojení — později se to ukáže jako důležité. Tři okna, kdy šlo blackoutu předejít, jsou v tuto chvíli už promeškaná: spojka z prosince 2024, termovize vedení a nastavení ochran a regulací zdrojů (viz sekce pod osou).'],
+  f:['12 vedení mimo provoz','N-1 v pořádku','Krasíkov mimo základní zapojení'],m:{q:'50,00',b:0,o:0},l:0,v:65,pg:'kap. 1.2, 2'},
+ {t:42,c:'11:42',h:'Poslední kontrola: kontingence V411 vychází',
+  s:'V411 přenáší ~1 200 MW (76,8 % kapacity). Modelovaný výpadek V411 je řešitelný; V208 by se dostalo na 98,2 %. V zasažené oblasti běží ~1 336 MW zdrojů. Nic nenasvědčuje problému.',
+  x:['Výroba v budoucí ostrovní oblasti: Ledvice 6 (292 MW), Počerady 2+6 (282 MW), Chvaletice 4 (141 MW), Ledvice 4 (74 MW) a ~547 MW decentrálních zdrojů v distribuci.'],
+  f:['V411: 1 200 MW (76,8 %)','V208 po ztrátě V411: 98,2 %'],m:{q:'50,00',b:0,o:0},l:0,v:65,pg:'kap. 1.2, 2'},
+
+ {t:51.133,k:'key',c:'11:51:08',h:'V411 vypadává — spouštěč kaskády',
+  s:'Nedotažená spojka fáze 1 selhává. Ochrany vypínají, opětovné zapnutí neuspěje, V411 je definitivně mimo. Oblast drží už jen tři spojení — a V208 jde okamžitě přes 100 %.',
+  x:['Postižená oblast zůstává připojena vedením V208 a spínačem přípojnic a transformátorem 400/110 kV v Krasíkově. 1 200 MW z V411 se přelévá na zbylá spojení.'],
+  f:['porucha spojky fáze 1','neúspěšné OZ','zbývají 3 spojení'],
+  co:'Proč nebyla spojka dotažená, se nezjistilo. → doporučení 1.',
+  m:{q:'50,00',b:0,o:0},l:0,v:104,pg:'kap. 1.3, 3'},
+ {t:51.217,c:'11:51:13',h:'Přechodný jev „vykopne" čtyři bloky',
+  s:'Lokální zákmit frekvence přes 200 mHz přepne Ledvice 4 a 6, Počerady 2 a 6 i Opatovice okamžitě do otáčkové regulace. Ledvice 4 mají statiku 0 % — blok osciluje 25–50 MW. Otevírají se bypassové ventily, výkon klesá.',
+  x:['Turbíny převezmou pracovní bod z poslední polohy regulačních ventilů zachycené uprostřed přechodného jevu — mimo skutečnou rovnováhu. Jen Opatovice přechod ustojí bez ztráty výkonu. Vzdálenější zdroje jev nezaznamenají a jedou dál normálně.'],
+  f:['přechod bez zpoždění (t = 0 s)','droop 0 % na Ledvicích 4','oscilace 25–50 MW'],
+  co:'Statika 0 % odporovala správnému nastavení; okamžitý přechod reagoval na lokální zákmit. → doporučení 3 a 4.',
+  m:{q:'50,00',b:-80,o:0},l:60,v:106,pg:'kap. 1.3, 3'},
+ {t:51.6,c:'11:51–52',h:'Distribuce ztrácí 135 MW fotovoltaik',
+  s:'Napěťový přechodný jev vybavuje ochrany decentrálních zdrojů: 95 MW legálně (starší zdroje bez povinnosti FRT), 35 MW chybou ochran, 5 MW na frekvenci.',
+  x:['Zdroje, které měly podle připojovacích podmínek poruchu překlenout, ji nepřeklenuly — jejich ochrany nefungovaly správně nebo podle záměru.'],
+  f:['95 MW legacy','35 MW protiprávně','5 MW frekvenčně'],
+  co:'Plošné odpadávání decentrální výroby po přechodných jevech je systémové riziko. → doporučení 2.',
+  m:{q:'50,00',b:-250,o:0},l:250,v:110,pg:'kap. 1.3, 3, 6'},
+ {t:51.767,k:'key',c:'11:51:46',h:'Nezávislá rána: kotel Ledvic 6',
+  s:'Selhává relé vstřiku chladicí vody, teplota páry roste, ochrany odstavují kotel největšího zdroje oblasti. Druhá nezávislá porucha za 38 sekund — blok začíná ztrácet 292 MW.',
+  x:['Podle elektrárny porucha nesouvisela s přepnutím regulace. V 11:52:45 blok ztrácí zbytek výkonu; ochrana zpětného toku nestihne doběhnout, vypínač nevypne a blok se kýve mezi −40 a +10 MW: z největšího zdroje oblasti je přítěž.'],
+  f:['porucha relé vstřiku','292 → 0 MW','blok zůstává přifázovaný'],
+  m:{q:'50,00',b:-290,o:0},l:290,v:115,pg:'kap. 1.3, 3'},
+ {t:52,k:'key',c:'11:52',h:'Stav nouze: chybí 438 MW, V208 nepřetížitelné',
+  s:'Soustava přestává být bezpečná i v N-0 — stav nouze podle SOGL. Oblasti chybí 438 MW (z toho 151 MW „neznámo kde") a deficit se dováží přes V208: dynamický limit 724 A, teče přes 900 A. Vedení není vůbec přetížitelné — okno na záchranu se začíná zavírat (žlutý úsek osy).',
+  x:['Součet ztrát: 110 MW Ledvice 6, 17 MW Počerady, 25–50 MW oscilující Ledvice 4, 135 MW fotovoltaik + 151 MW neidentifikované odchylky FRCE. V208 jede na 126,1 % (912 A), Hradec na 119,3 %, Krasíkov na 105,1 %.','Od této chvíle je rozpad „podmíněně neodvratný": odvrátit ho může jen rychlé snížení deficitu — a nástroj na to Česko nemá.'],
+  f:['N-0 stav nouze','V208: 126,1 % (912 A / limit 724 A)','+151 MW neznámo kde'],
+  co:'Neidentifikovaných 151 MW ≈ doložených 160 MW v distribuci. Díry v datech brání hledání příčin. → doporučení 5.',
+  m:{q:'50,00',b:-438,o:0},l:438,v:126,pg:'kap. 1.3, 3, 6'},
+ {t:55,k:'prev',c:'11:55',h:'Okno prevence 4: dvě poslední páky',badge:'Šlo předejít · okno 4',
+  s:'Jediná technicky reálná páka: zastavit čerpání Dlouhých strání — 311 MW zátěže uvnitř budoucího ostrova, půlka deficitu na V208. Dispečeři to odloží jako „příliš pomalé kvůli dojednání redispečinku" — procesní, ne fyzikální překážka. A N-1 report z 11:55 ukazuje, že vypnutí V208 shodí Krasíkov.',
+  x:['Odepnutí zátěže je právně zamčené za stavem nouze (desítky minut), navýšení výroby nedostupné kvůli stavu bloků, navýšení distribuovaných zdrojů technicky nemožné.','Kdyby si někdo všiml pravidelného N-1 reportu z 11:55, mohl dát přednost rekonfiguraci Krasíkova, kterou dispečeři zvažovali a odložili. Zda by ostrov zachránila, zpráva netvrdí — byla to ale poslední nevyzkoušená větev rozhodovacího stromu.'],
+  f:['Dlouhé stráně: 311 MW','N-1 report 11:55','rekonfigurace Krasíkova odložena'],
+  co2:'Procesní zámky rychlých opatření adresuje doporučení 7; přehlédnutý N-1 report doporučení 6 a 9.',
+  m:{q:'50,00',b:-620,o:0},l:620,v:135,pg:'kap. 3, 6, 9'},
+ {t:57.5,c:'11:53–11:59',h:'Sedm minut zhoršování',
+  s:'Ztráty rostou na 620 MW dle FRCE. V208 šplhá na 142,9 % (1 035 A), Hradec 121,6 %, Krasíkov 115,5 %. Vodiče se prohřívají a prověšují — hrozí destrukce vedení a u pražské zástavby i ohrožení osob.',
+  x:['Rychle navýšit výrobu nejde, odepnutí zátěže by vyžadovalo stav nouze, V208 hrozí zničením. N-1 analýza správně ukazuje, že vypnutí V208 spustí další výpadky — ale nástroje řídicího sálu tu informaci nezviditelní.'],
+  f:['V208: 142,9 %','celkem −620 MW','riziko kaskády skryté v datech'],
+  m:{q:'50,00',b:-620,o:0},l:620,v:143,pg:'kap. 1.3, 3, 6'},
+
+ {t:59.733,k:'ponr',c:'11:59:44',h:'Ruční vypnutí V208',badge:'Bod bez návratu',
+  s:'Dispečer vypíná přetížené vedení V208 — formální „point of no return", ve stromu příčin explicitně vyznačený jako lidské rozhodnutí. Od této vteřiny běží čistá automatika a katastrofě už nejde zabránit. Dispečer přitom určil čas a způsob, ne výsledek: fyzikálně se okno zavíralo už od 11:52.',
+  x:['Zpráva rozhodnutí neoznačuje za selhání jednotlivce: dispečer volil pod časovým tlakem mezi rizikem destrukce vedení s ohrožením osob a rizikem kaskády, které mu systém nedokázal ukázat.','Sekvence automatiky: za 3 sekundy nadproudová ochrana (2 880 A / 3 s) vypne spínač přípojnic v Krasíkově, o 73 ms později distanční ochrana transformátor T401 — a severní část sítě je odříznuta.'],
+  f:['lidské rozhodnutí','dál už jen automatika','zbývají 2 spojení přes Krasíkov'],
+  co:'„Dispečeři vypnuli V208 v očekávání, že to nebude mít následky — přestože N-1 analýzy správně ukazovaly, že vypnutí povede k dalším výpadkům." → doporučení 6.',
+  m:{q:'50,00',b:-620,o:0},l:620,v:'vyp',pg:'kap. 1.3, 6, 8'},
+ {t:59.783,c:'11:59:47',h:'Automatika: 3 s + 73 ms',
+  s:'Proud přes spínač přípojnic v Krasíkově překračuje 2 880 A (144 %). Ochrana odpočítá tři sekundy a vypne; o 73 ms později padá i poslední spojení — transformátor T401. Vzniká ostrov s deficitem ~1 800 MW.',
+  x:['Odříznutá oblast spotřebovává o 1 800 MW víc, než vyrábí. Takový schodek nelze ničím vyrovnat — životnost ostrova se počítá na stovky milisekund.'],
+  f:['2 880 A / 3 s','+73 ms T401','deficit ~1 800 MW'],
+  m:{q:'≈49',b:-1800,o:0},l:700,v:null,pg:'kap. 1.3, 3'},
+ {t:59.79,c:'11:59:47',h:'3,5 Hz/s: ochrany nestíhají',
+  s:'Frekvence padá rychlostí až 3,5 Hz/s. Frekvenční odlehčování (LFDD) startuje pod 49,0 Hz, ale stihne jen dva stupně. Dlouhé stráně vypadávají z čerpání (−311 MW spotřeby) — pozdě a málo.',
+  x:['LFDD zafungovalo podle návrhu — na ostrov s takto hlubokým deficitem ale navrženo není, konstatuje zpráva. Doporučuje mj., aby se akumulace v režimu spotřeby odpojovala ještě před aktivací LFDD (doporučení 8).'],
+  f:['RoCoF 3,5 Hz/s','LFDD: 2 stupně','Dlouhé stráně −311 MW'],
+  m:{q:'49,0 ↓',b:-1800,o:0},l:900,v:null,pg:'kap. 1.3, 3, 6'},
+ {t:59.8,k:'blackout',c:'11:59:48',h:'Tma: 47,5 Hz a rozpad ostrova',
+  s:'Frekvence protíná 47,5 Hz — práh odpojení všech výroben. 780 ms od vzniku ostrova je po všem: bez elektřiny ~2 300 MW zátěže, 28 % spotřeby ČR. Od výpadku V411 uplynulo 8 minut a 40 sekund.',
+  x:['Počerady 2 a 6 a Chvaletice 4 se na poslední chvíli zachraňují přechodem do provozu na vlastní spotřebu — přežijí připravené k rychlému návratu. Ledvice a decentrální zdroje vypínají úplně. Celková ztráta výroby během devíti minut: 1 200 až 1 400 MW.'],
+  f:['2 300 MW bez dodávky','28 % spotřeby ČR','3 bloky: vlastní spotřeba'],
+  m:{q:'—',b:'—',o:2300},l:1300,v:null,pg:'kap. 1.3, 3'},
+
+ {t:69,c:'12:09',h:'EAS emergency · start obnovy',
+  s:'Top-down obnova ze dvou stran (Krasíkov 400 kV, Čechy Střed 220 kV). Open-all ve zasažených stanicích.',
+  x:['Většina soustavy zůstala nedotčená. V obou napájecích rozvodnách zůstala jedna přípojnice pod napětím — dispečeři z nich energizují postiženou oblast s prioritou pražských rozvoden.'],
+  f:['strategie top-down','2 napájecí směry'],
+  m:{q:'50,00',o:2300},l:1300,v:0,pg:'kap. 1.4, 4'},
+ {t:79,c:'12:19',h:'První rozvodna zpět: Týnec',
+  s:'Napětí se vrací do první rozvodny postižené oblasti. Priorita: rozvodny napájející Prahu.',
+  x:['Ve 12:30 jsou pod napětím oba transformátory 220/110 kV v Malešicích — Praha začíná najíždět. Ve 13:01 se přidává Chodov 400 kV.'],
+  f:['Týnec 400 kV','12:30 Malešice → Praha'],
+  m:{q:'50,00',o:2100},l:1300,v:0,pg:'kap. 1.4, 4'},
+ {t:106,c:'12:46',h:'Zachráněné bloky se fázují',
+  s:'Chvaletice 4 (12:46), Počerady 2 (13:26) a Počerady 6 (13:45) se vracejí z provozu na vlastní spotřebu. Oblast má zase vlastní zdroje.',
+  x:['Sázka na vlastní spotřebu se vyplatila — bloky nemusely najíždět ze tmy, jen se přifázovat.'],
+  f:['12:46 Chvaletice 4','13:26 + 13:45 Počerady'],
+  m:{q:'50,00',o:1600},l:1300,v:0,pg:'kap. 1.4, 4'},
+ {t:189,c:'14:09',h:'Kostra sítě kompletní — a pauza kvůli V208',
+  s:'Všechny rozvodny 400/220 kV jsou pod napětím. Ve 14:20 ale dispečeři zastavují najíždění zátěže: kontingence hrozí přetížením V208 až na 180 %. Povolávají paroplyn Počerady 2.',
+  x:['Po přifázování první plynové turbíny (15:18) se obnova zátěže rozjíždí naplno.'],
+  f:['14:20 stop odběru','V208: hrozba 180 % při N-1','15:18 CCGT'],
+  m:{q:'50,00',o:900},l:1300,v:55,pg:'kap. 1.4, 4'},
+ {t:395,c:'17:35',h:'Všichni zákazníci zpět',
+  s:'Veškerá ztracená zátěž je znovu napájena — 5 hodin a 36 minut od rozpadu. Obchodování zůstává pozastavené do půlnoci.',
+  x:['Platí zvláštní pravidla zúčtování odchylek; denní trh na 5. července proběhl bez omezení.'],
+  f:['5 h 36 min od rozpadu'],
+  m:{q:'50,00',o:0},l:1300,v:58,pg:'kap. 1.4, 4'},
+ {t:733,c:'23:13',h:'V411 opraveno a zapnuto',
+  s:'Vedení, které všechno spustilo, se po opravě spojky vrací do provozu. Začíná vyšetřování, které potrvá téměř rok.',
+  x:[],f:['konec incidentu'],
+  m:{q:'50,00',o:0},l:1300,v:58,pg:'kap. 1.4'},
+];
+const T_END=733, PONR_T=59.733, BLACKOUT_END=395;
+
+/* ---------- nelineární mapování času na osu ---------- */
+const SEG=[[0,2],[51,18],[60,64],[120,78],[733,98]];
+function pos(t){
+  for(let i=0;i<SEG.length-1;i++){
+    const [t0,p0]=SEG[i],[t1,p1]=SEG[i+1];
+    if(t<=t1)return p0+(p1-p0)*(t-t0)/(t1-t0);
+  }
+  return 98;
+}
+function invPos(p){
+  for(let i=0;i<SEG.length-1;i++){
+    const [t0,p0]=SEG[i],[t1,p1]=SEG[i+1];
+    if(p<=p1)return t0+(t1-t0)*(p-p0)/(p1-p0);
+  }
+  return T_END;
+}
+const P0=SEG[0][1], P1=SEG[SEG.length-1][1];
+
+/* ---------- osa ---------- */
+const axis=document.getElementById('axis');
+/* barevné úseky stavu sítě: zelená OK → žlutá okno → červená blackout → zelená obnoveno */
+[[0,52,'ok first'],[52,PONR_T,'warn'],[PONR_T,BLACKOUT_END,'hot'],[BLACKOUT_END,T_END,'ok last']].forEach(([a,b,cls])=>{
+  const s=document.createElement('div');s.className='seg '+cls;
+  s.style.left=pos(a)+'%';s.style.width=(pos(b)-pos(a))+'%';
+  axis.appendChild(s);
+});
+/* praporek PONR */
+const flag=document.createElement('div');flag.id='ponrflag';flag.style.left=pos(PONR_T)+'%';flag.textContent='Bod bez návratu';axis.appendChild(flag);
+/* tečky událostí */
+const dots=EV.map((e,i)=>{
+  const d=document.createElement('button');
+  d.className='dot'+(e.k?' '+({prev:'prev',key:'key',ponr:'ponr',blackout:'key'})[e.k]:'');
+  d.style.left=pos(e.t)+'%';
+  d.title=e.c+' · '+e.h;
+  d.setAttribute('aria-label',e.c+' — '+e.h);
+  d.addEventListener('click',()=>{stop();setTime(e.t)});
+  axis.appendChild(d);
+  return d;
+});
+/* kurzor */
+const cursor=document.createElement('div');cursor.id='cursor';axis.appendChild(cursor);
+/* popisky */
+[['11:00',2,'start'],['kritických ~9 minut (11:51–12:00)',41,'b'],['13:00',78,''],['23:13',98,'end']].forEach(([txt,p,b])=>{
+  const l=document.createElement('div');l.className='alab'+(b?' '+b:'');l.style.left=p+'%';l.textContent=txt;axis.appendChild(l);
+});
+/* klik/tažení po ose */
+function axisSeek(ev){
+  const r=axis.getBoundingClientRect();
+  const p=Math.max(P0,Math.min(P1,(ev.clientX-r.left)/r.width*100));
+  setTime(invPos(p));
+}
+axis.addEventListener('pointerdown',ev=>{
+  if(ev.target.classList.contains('dot'))return;
+  stop();axisSeek(ev);
+  const mv=e=>axisSeek(e),up=()=>{removeEventListener('pointermove',mv);removeEventListener('pointerup',up)};
+  addEventListener('pointermove',mv);addEventListener('pointerup',up);
+});
+
+/* ---------- formát hodin ---------- */
+function fmtClock(t){
+  const sec=Math.floor(t*60);
+  const h=11+Math.floor(sec/3600), m=Math.floor(sec/60)%60, s=sec%60;
+  return String(h).padStart(2,'0')+':'+String(m).padStart(2,'0')+':'+String(s).padStart(2,'0');
+}
+
+/* ---------- stavové rámečky ---------- */
+const T={v:document.getElementById('tv208'),l:document.getElementById('tloss'),q:document.getElementById('tfreq'),b:document.getElementById('tbal'),o:document.getElementById('tout')};
+function tile(k,val,state){T[k].querySelector('span').textContent=val;T[k].className='tile'+(state?' '+state:'')}
+function renderTiles(e){
+  const m=e.m||{};
+  if(e.v==='vyp')tile('v','vypnuto','hot');
+  else if(e.v===null||e.v===undefined)tile('v','mimo provoz','');
+  else tile('v',e.v+' %',e.v>120?'hot':e.v>100?'warn':'ok');
+  if(e.l===undefined)tile('l','—','');
+  else if(e.l===0)tile('l','0 MW','ok');
+  else tile('l','~'+e.l+' MW',e.l>=400?'hot':'warn');
+  if(m.q===undefined||m.q==='—')tile('q','—','');else tile('q',m.q+' Hz',/4[79]|≈/.test(m.q)?'hot':'ok');
+  if(m.b===undefined||m.b==='—')tile('b','—','');else if(m.b===0)tile('b','vyrovnaná','ok');else tile('b',m.b+' MW',m.b<=-400?'hot':'warn');
+  if(m.o===undefined)tile('o','—','');else if(m.o===0)tile('o','0 MW','ok');else tile('o','~'+m.o+' MW','hot');
+}
+
+/* ---------- karta ---------- */
+const ecard=document.getElementById('ecard');
+let cardIdx=-1;
+function renderCard(i){
+  if(i===cardIdx)return;
+  cardIdx=i;
+  dots.forEach((d,k)=>d.classList.toggle('cur',k===i));
+  const e=EV[i];
+  renderTiles(e);
+  ecard.className=e.k||'';
+  const badge=ecard.querySelector('.badge');
+  if(e.badge){badge.hidden=false;badge.textContent=e.badge}else badge.hidden=true;
+  ecard.querySelector('.et').textContent=e.c;
+  ecard.querySelector('h3').textContent=e.h;
+  ecard.querySelector('.sum').textContent=e.s;
+  let xh='';
+  if((e.x&&e.x.length)||e.f||e.co||e.co2){
+    xh+='<details><summary>Více ze zprávy</summary><div class="dx">';
+    (e.x||[]).forEach(p=>xh+=`<p>${p}</p>`);
+    if(e.f)xh+=`<div class="facts">${e.f.map(x=>`<i>${x}</i>`).join('')}</div>`;
+    if(e.co)xh+=`<div class="callout"><b>Závěr zprávy:</b> ${e.co}</div>`;
+    if(e.co2)xh+=`<div class="callout g"><b>Co s tím:</b> ${e.co2}</div>`;
+    xh+='</div></details>';
+  }
+  ecard.querySelector('.xtra').innerHTML=xh;
+  ecard.querySelector('.src').textContent='Zdroj: Final Report ENTSO-E · '+(e.pg||'');
+}
+
+/* ---------- plynulý čas ---------- */
+let now=0;                 /* minuty od 11:00 */
+const clockv=document.getElementById('clockv');
+function eventAt(t){
+  let i=0;
+  for(let k=0;k<EV.length;k++){if(EV[k].t<=t+1e-9)i=k;else break}
+  return i;
+}
+function setTime(t){
+  now=Math.max(0,Math.min(T_END,t));
+  clockv.textContent=fmtClock(now);
+  cursor.style.left=pos(now)+'%';
+  renderCard(eventAt(now));
+}
+
+/* ---------- přehrávání ---------- */
+const playbtn=document.getElementById('playbtn');
+let playing=false,rafId=null,lastTs=null,slow=1;
+const BASE_DUR=80;          /* sekund na celou osu při 1× */
+const MAXGAP=3.5;           /* delší mezera mezi body se přehraje max za tolik sekund (při 1×) */
+function rateAt(t){
+  const base=(P1-P0)/BASE_DUR;
+  const i=eventAt(t);
+  const a=pos(EV[i].t), b=(i<EV.length-1)?pos(EV[i+1].t):P1;
+  return Math.max(base,(b-a)/MAXGAP);   /* prázdné úseky rychleji */
+}
+function tick(ts){
+  if(!playing)return;
+  if(lastTs!==null){
+    const dp=((ts-lastTs)/1000)*rateAt(now)/slow;
+    const p=Math.min(P1,pos(now)+dp);
+    setTime(invPos(p));
+    if(p>=P1){stop();lastTs=null;return}
+  }
+  lastTs=ts;
+  rafId=requestAnimationFrame(tick);
+}
+function play(){
+  if(now>=T_END-0.01)setTime(0);
+  playing=true;lastTs=null;
+  playbtn.textContent='❚❚';playbtn.classList.add('playing');
+  rafId=requestAnimationFrame(tick);
+}
+function stop(){
+  playing=false;playbtn.textContent='▶';playbtn.classList.remove('playing');
+  if(rafId)cancelAnimationFrame(rafId);lastTs=null;
+}
+playbtn.addEventListener('click',()=>playing?stop():play());
+/* skok na další/předchozí bod — přehrávání běží dál */
+function jumpNext(){setTime(EV[Math.min(EV.length-1,eventAt(now)+1)].t)}
+function jumpPrev(){const i=eventAt(now);setTime(EV[(EV[i].t<now-0.02)?i:Math.max(0,i-1)].t)}
+document.getElementById('prevbtn').addEventListener('click',jumpPrev);
+document.getElementById('nextbtn').addEventListener('click',jumpNext);
+document.querySelectorAll('.sp').forEach(b=>b.addEventListener('click',()=>{
+  slow=+b.dataset.s;
+  document.querySelectorAll('.sp').forEach(x=>x.classList.toggle('on',x===b));
+}));
+addEventListener('keydown',e=>{
+  if(e.key==='ArrowRight'){e.preventDefault();jumpNext()}
+  else if(e.key==='ArrowLeft'){e.preventDefault();jumpPrev()}
+  else if(e.key===' '||e.code==='Space'){
+    if(e.target.closest('button,details,summary,a,input'))return;
+    e.preventDefault();playing?stop():play();
+  }
+});
+
+/* ---------- sekce ---------- */
+document.getElementById('wins').innerHTML=WINS.map(w=>
+ `<div class="win"><span class="n">${w.n}</span><h3>${w.t}<small>${w.w}</small></h3><p>${w.d}</p></div>`).join('');
+const PRI={vys:'vysoká priorita',str:'střední priorita',niz:'nízká priorita'};
+document.getElementById('recos').innerHTML=RECOS.map(r=>
+ `<div class="reco" id="reco${r.n}"><span class="n">${r.n}</span><h3>${r.t}<span class="pri ${r.pri}">${PRI[r.pri]}</span></h3><p>${r.d}</p></div>`).join('');
+
+/* režim embed pro iframe */
+if(new URLSearchParams(location.search).has('embed')){
+  document.body.classList.add('embed');
+  const post=()=>parent.postMessage({blackoutTimelineH:document.body.scrollHeight},'*');
+  new ResizeObserver(post).observe(document.body);
+  addEventListener('load',post);
+}
+
+/* start */
+setTime(0);
+</script>
+</body>
+</html>

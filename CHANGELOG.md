@@ -8,6 +8,7 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
 ## [Unreleased]
 
 ### Added
+- Interaktivní časová osa blackoutu 4. 7. 2025 (`static/assets/blackout/timeline.html`) — samostatná HTML infografika podle závěrečné zprávy ENTSO-E: plynulé přehrávání s adaptivní rychlostí, semaforová osa stavu sítě (zelená/žlutá/červená), stavové rámečky (V208, ztráta výroby, frekvence, bilance, bez dodávky), okna prevence, Bod bez návratu, 9 doporučení; klávesové ovládání (šipky, mezerník), světlý/tmavý režim. Vložena přes `<iframe src="…?embed=1">` s auto-výškou (postMessage) do článku `content/posts/2026/2026-07-11-blackout-cesko-zaverecna-zprava-entso-e.md`; embed režim skrývá hero a závěrečné sekce (duplikovaly by text článku)
 - Nový článek do rubriky Apple: „Může Apple za růst cen pamětí, který ho teď donutil zdražit?" (Patrick Zandl, 2026-06-27) — analýza zdražení Maců a iPadů, sporu Apple vs. Micron a čínské paměťové cesty přes CXMT, s thumbnailem `2026-06-27-apple-ceny-pameti.jpg`
 
 ### Removed
