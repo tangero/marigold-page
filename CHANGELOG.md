@@ -19,6 +19,7 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
   - Service worker `firebase-messaging-sw.js`, odkaz na `OneSignalSDKWorker.js` v `site.webmanifest`, App ID z `_config_vibecoding.yml`
 
 ### Fixed
+- Infografika blackoutu: box Frekvence už neukazuje po celou dobu 50,00 Hz — po výpadku V411 zobrazuje lokální zákmit „50,0 ±0,2 Hz" (žlutý stav; dle zprávy odchylka >200 mHz, která přepnula bloky do otáčkové regulace); nominálních 50,00 Hz během krize je záměr (deficit se dovážel, frekvenci držela synchronní Evropa až do vzniku ostrova)
 - Opraven rozbitý obrázek v článku blackout ENTSO-E: cesta `/assets/blackout-situace.jpg` → `/assets/blackout-situace.png` (soubor v `static/assets/` je PNG)
 - Audit infografiky blackoutu (`static/assets/blackout/timeline.html`): přístupnost a mobilní použitelnost — viditelný focus (`:focus-visible`), dotykové cíle ≥ 44 px (tlačítka, neviditelné rozšíření teček na ~37 px a celé osy), `touch-action` pro spolehlivý drag-scrub na iOS/Android, `type="button"` + přepínání `aria-label`/`aria-pressed` u přehrávání, `prefers-reduced-motion`, kontrast žlutých textů přes nový token `--warn-text` (WCAG AA v obou režimech), oprava zaokrouhlení hodin (11:59:43 → 11:59:44) a překryvu popisků osy na 320px displejích
 

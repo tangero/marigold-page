@@ -318,19 +318,19 @@ const EV=[
   x:['Postižená oblast zůstává připojena vedením V208 a spínačem přípojnic a transformátorem 400/110 kV v Krasíkově. 1 200 MW z V411 se přelévá na zbylá spojení.'],
   f:['porucha spojky fáze 1','neúspěšné OZ','zbývají 3 spojení'],
   co:'Proč nebyla spojka dotažená, se nezjistilo. → doporučení 1.',
-  m:{q:'50,00',b:0,o:0},l:0,v:104,pg:'kap. 1.3, 3'},
+  m:{q:'50,0 ±0,2',b:0,o:0},l:0,v:104,pg:'kap. 1.3, 3'},
  {t:51.217,c:'11:51:13',h:'Přechodný jev „vykopne" čtyři bloky',
   s:'Lokální zákmit frekvence přes 200 mHz přepne Ledvice 4 a 6, Počerady 2 a 6 i Opatovice okamžitě do otáčkové regulace. Ledvice 4 mají statiku 0 % — blok osciluje 25–50 MW. Otevírají se bypassové ventily, výkon klesá.',
   x:['Turbíny převezmou pracovní bod z poslední polohy regulačních ventilů zachycené uprostřed přechodného jevu — mimo skutečnou rovnováhu. Jen Opatovice přechod ustojí bez ztráty výkonu. Vzdálenější zdroje jev nezaznamenají a jedou dál normálně.'],
   f:['přechod bez zpoždění (t = 0 s)','droop 0 % na Ledvicích 4','oscilace 25–50 MW'],
   co:'Statika 0 % odporovala správnému nastavení; okamžitý přechod reagoval na lokální zákmit. → doporučení 3 a 4.',
-  m:{q:'50,00',b:-80,o:0},l:60,v:106,pg:'kap. 1.3, 3'},
+  m:{q:'50,0 ±0,2',b:-80,o:0},l:60,v:106,pg:'kap. 1.3, 3'},
  {t:51.6,c:'11:51–52',h:'Distribuce ztrácí 135 MW fotovoltaik',
   s:'Napěťový přechodný jev vybavuje ochrany decentrálních zdrojů: 95 MW legálně (starší zdroje bez povinnosti FRT), 35 MW chybou ochran, 5 MW na frekvenci.',
   x:['Zdroje, které měly podle připojovacích podmínek poruchu překlenout, ji nepřeklenuly — jejich ochrany nefungovaly správně nebo podle záměru.'],
   f:['95 MW legacy','35 MW protiprávně','5 MW frekvenčně'],
   co:'Plošné odpadávání decentrální výroby po přechodných jevech je systémové riziko. → doporučení 2.',
-  m:{q:'50,00',b:-250,o:0},l:250,v:110,pg:'kap. 1.3, 3, 6'},
+  m:{q:'50,0 ±0,2',b:-250,o:0},l:250,v:110,pg:'kap. 1.3, 3, 6'},
  {t:51.767,k:'key',c:'11:51:46',h:'Nezávislá rána: kotel Ledvic 6',
   s:'Selhává relé vstřiku chladicí vody, teplota páry roste, ochrany odstavují kotel největšího zdroje oblasti. Druhá nezávislá porucha za 38 sekund — blok začíná ztrácet 292 MW.',
   x:['Podle elektrárny porucha nesouvisela s přepnutím regulace. V 11:52:45 blok ztrácí zbytek výkonu; ochrana zpětného toku nestihne doběhnout, vypínač nevypne a blok se kýve mezi −40 a +10 MW: z největšího zdroje oblasti je přítěž.'],
@@ -485,7 +485,7 @@ function renderTiles(e){
   if(e.l===undefined)tile('l','—','');
   else if(e.l===0)tile('l','0 MW','ok');
   else tile('l','~'+e.l+' MW',e.l>=400?'hot':'warn');
-  if(m.q===undefined||m.q==='—')tile('q','—','');else tile('q',m.q+' Hz',/4[79]|≈/.test(m.q)?'hot':'ok');
+  if(m.q===undefined||m.q==='—')tile('q','—','');else tile('q',m.q+' Hz',/4[79]|≈/.test(m.q)?'hot':m.q.includes('±')?'warn':'ok');
   if(m.b===undefined||m.b==='—')tile('b','—','');else if(m.b===0)tile('b','vyrovnaná','ok');else tile('b',m.b+' MW',m.b<=-400?'hot':'warn');
   if(m.o===undefined)tile('o','—','');else if(m.o===0)tile('o','0 MW','ok');else tile('o','~'+m.o+' MW','hot');
 }
