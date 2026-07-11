@@ -7,7 +7,19 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
 
 ## [Unreleased]
 
+### Removed
+- Úklid mrtvých GitHub Actions workflowů, které plnily Actions tab skipped/šumem:
+  - **Podcast**: `generate_podcast.yml`, `podcast-generation.yml` (denní cron + `if: false` → denní skipped runy)
+  - **Notifikace**: `send-fcm-notifications.yml` (FCM/Firebase), `send-notifications.yml`, `send-notifications-improved.yml`, `test-notification.yml` (OneSignal) — nefungovaly (paths na legacy `_posts/`, partial disable)
+  - **Translate**: `translate.yml` (DeepL, legacy `_posts/`)
+  - Aktivní zůstává jen `hugo-build.yml`; legacy stuby `build.yml`, `tech-news.yml`, `archive-tech-news.yml` jen s `workflow_dispatch` + `if: false` (bez schedule/push)
+- Odstraněn plovoucí zvonek notifikací (🔔) a celá push-notifikační frontend vrstva z webu:
+  - Hugo: partial `layouts/partials/fcm.html` + include z `baseof.html`
+  - Jekyll/vibecoding: `fcm-marigold.html`, `fcm-vibecoding.html`, mrtvé `onesignal.html` / `onesignal-vibecoding.html`
+  - Service worker `firebase-messaging-sw.js`, odkaz na `OneSignalSDKWorker.js` v `site.webmanifest`, App ID z `_config_vibecoding.yml`
+
 ### Fixed
+- Opraven rozbitý obrázek v článku blackout ENTSO-E: cesta `/assets/blackout-situace.jpg` → `/assets/blackout-situace.png` (soubor v `static/assets/` je PNG)
 - Audit infografiky blackoutu (`static/assets/blackout/timeline.html`): přístupnost a mobilní použitelnost — viditelný focus (`:focus-visible`), dotykové cíle ≥ 44 px (tlačítka, neviditelné rozšíření teček na ~37 px a celé osy), `touch-action` pro spolehlivý drag-scrub na iOS/Android, `type="button"` + přepínání `aria-label`/`aria-pressed` u přehrávání, `prefers-reduced-motion`, kontrast žlutých textů přes nový token `--warn-text` (WCAG AA v obou režimech), oprava zaokrouhlení hodin (11:59:43 → 11:59:44) a překryvu popisků osy na 320px displejích
 
 ### Added

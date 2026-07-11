@@ -50,7 +50,7 @@ Hlavní závěry pro ty, kdo nemají čas na detail:
 
 6️⃣ **A fotovoltaika taky nebyla úplně bez viny.** 135 MW odpadlých zdrojů, z toho 35 MW v rozporu s předpisy. Není to příčina blackoutu, ale "žádný podstatný dopad", jak jsem napsal v prosinci, to také nebyl.
 
-![Jak vypadala přenosová síť v 11:51 inkriminovaného dne blackoutu](/assets/blackout-situace.jpg)
+![Jak vypadala přenosová síť v 11:51 inkriminovaného dne blackoutu](/assets/blackout-situace.png)
 
 Pojďme na to podrobněji.
 

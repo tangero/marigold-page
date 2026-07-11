@@ -299,7 +299,8 @@ NewsAPI -> Python Script -> LLM Translation (qwen/qwen3-max) -> Hugo Collection 
 
 Audio soubory existuji v `audio/` a `static/audio/` (historicke MP3 z podcastu).
 
-Podcast generovani bylo **pozastaveno** (workflow `generate_podcast.yml` ma `if: false` od 2026-03-29).
+Podcast generovani bylo **odstraneno** (workflowy smazany 2026-07-11; drive `if: false` od 2026-03-29).
+Push notifikace (OneSignal, FCM/Firebase) byly take **odstraneny** z GitHub Actions — nefungovaly (legacy cesty `_posts/`).
 
 ---
 
