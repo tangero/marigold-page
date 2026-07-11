@@ -7,6 +7,9 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
 
 ## [Unreleased]
 
+### Fixed
+- Audit infografiky blackoutu (`static/assets/blackout/timeline.html`): přístupnost a mobilní použitelnost — viditelný focus (`:focus-visible`), dotykové cíle ≥ 44 px (tlačítka, neviditelné rozšíření teček na ~37 px a celé osy), `touch-action` pro spolehlivý drag-scrub na iOS/Android, `type="button"` + přepínání `aria-label`/`aria-pressed` u přehrávání, `prefers-reduced-motion`, kontrast žlutých textů přes nový token `--warn-text` (WCAG AA v obou režimech), oprava zaokrouhlení hodin (11:59:43 → 11:59:44) a překryvu popisků osy na 320px displejích
+
 ### Added
 - Interaktivní časová osa blackoutu 4. 7. 2025 (`static/assets/blackout/timeline.html`) — samostatná HTML infografika podle závěrečné zprávy ENTSO-E: plynulé přehrávání s adaptivní rychlostí, semaforová osa stavu sítě (zelená/žlutá/červená), stavové rámečky (V208, ztráta výroby, frekvence, bilance, bez dodávky), okna prevence, Bod bez návratu, 9 doporučení; klávesové ovládání (šipky, mezerník), světlý/tmavý režim. Vložena přes `<iframe src="…?embed=1">` s auto-výškou (postMessage) do článku `content/posts/2026/2026-07-11-blackout-cesko-zaverecna-zprava-entso-e.md`; embed režim skrývá hero a závěrečné sekce (duplikovaly by text článku)
 - Nový článek do rubriky Apple: „Může Apple za růst cen pamětí, který ho teď donutil zdražit?" (Patrick Zandl, 2026-06-27) — analýza zdražení Maců a iPadů, sporu Apple vs. Micron a čínské paměťové cesty přes CXMT, s thumbnailem `2026-06-27-apple-ceny-pameti.jpg`

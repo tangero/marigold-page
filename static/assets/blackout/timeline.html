@@ -9,7 +9,7 @@
     --bg:#f3f5f4; --surface:#ffffff; --ink:#15202e; --muted:#5c6b7a; --line:#d7dde0;
     --accent:#b5176b; --accent-soft:#faeaf2;
     --navy:#173e6e; --navy-soft:#e9eff7; --blue:#2f6db3;
-    --hot:#c43c2e; --hot-soft:#fbeae8; --warn:#d99a00; --warn-soft:#fdf3dd;
+    --hot:#c43c2e; --hot-soft:#fbeae8; --warn:#d99a00; --warn-text:#805500; --warn-soft:#fdf3dd;
     --ok:#1e7a45; --ok-soft:#e4f3ea;
     --shadow:0 10px 30px rgba(21,32,46,.10);
   }
@@ -18,7 +18,7 @@
       --bg:#0f151c; --surface:#181f2b; --ink:#e8edf2; --muted:#93a1b0; --line:#2b3947;
       --accent:#ef6aab; --accent-soft:#3a1a2b;
       --navy:#a9c6e8; --navy-soft:#22304a; --blue:#6ea8dd;
-      --hot:#e5695c; --hot-soft:#3a201c; --warn:#e0b23a; --warn-soft:#3a2f10;
+      --hot:#e5695c; --hot-soft:#3a201c; --warn:#e0b23a; --warn-text:#e6c04a; --warn-soft:#3a2f10;
       --ok:#5cb884; --ok-soft:#16301f;
       --shadow:0 10px 30px rgba(0,0,0,.45);
     }
@@ -27,7 +27,7 @@
     --bg:#f3f5f4; --surface:#ffffff; --ink:#15202e; --muted:#5c6b7a; --line:#d7dde0;
     --accent:#b5176b; --accent-soft:#faeaf2;
     --navy:#173e6e; --navy-soft:#e9eff7; --blue:#2f6db3;
-    --hot:#c43c2e; --hot-soft:#fbeae8; --warn:#d99a00; --warn-soft:#fdf3dd;
+    --hot:#c43c2e; --hot-soft:#fbeae8; --warn:#d99a00; --warn-text:#805500; --warn-soft:#fdf3dd;
     --ok:#1e7a45; --ok-soft:#e4f3ea;
     --shadow:0 10px 30px rgba(21,32,46,.10);
   }
@@ -35,11 +35,16 @@
     --bg:#0f151c; --surface:#181f2b; --ink:#e8edf2; --muted:#93a1b0; --line:#2b3947;
     --accent:#ef6aab; --accent-soft:#3a1a2b;
     --navy:#a9c6e8; --navy-soft:#22304a; --blue:#6ea8dd;
-    --hot:#e5695c; --hot-soft:#3a201c; --warn:#e0b23a; --warn-soft:#3a2f10;
+    --hot:#e5695c; --hot-soft:#3a201c; --warn:#e0b23a; --warn-text:#e6c04a; --warn-soft:#3a2f10;
     --ok:#5cb884; --ok-soft:#16301f;
     --shadow:0 10px 30px rgba(0,0,0,.45);
   }
   *{box-sizing:border-box;margin:0;padding:0}
+  button{font:inherit;touch-action:manipulation}
+  :focus-visible{outline:2.5px solid var(--blue);outline-offset:2px}
+  @media (prefers-reduced-motion: reduce){
+    *,*::before,*::after{transition-duration:.01ms !important;animation-duration:.01ms !important}
+  }
   body{
     font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
     background:var(--bg); color:var(--ink); line-height:1.5;
@@ -57,7 +62,7 @@
 
   #ctrl{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
   .cbtn{
-    width:40px;height:40px;border-radius:50%;border:1.5px solid var(--line);background:var(--surface);
+    width:44px;height:44px;border-radius:50%;border:1.5px solid var(--line);background:var(--surface);
     color:var(--ink);font-size:15px;cursor:pointer;flex:none;display:flex;align-items:center;justify-content:center;
   }
   .cbtn:hover{border-color:var(--navy)}
@@ -73,7 +78,8 @@
   .sp.on{border-color:var(--blue);color:var(--blue);background:var(--navy-soft)}
 
   /* osa */
-  #axis{position:relative;margin:26px 6px 34px;height:14px}
+  #axis{position:relative;margin:26px 6px 34px;height:14px;touch-action:none;user-select:none;-webkit-user-select:none;cursor:pointer}
+  #axis::before{content:'';position:absolute;left:0;right:0;top:-12px;bottom:-18px}
   .seg{position:absolute;top:5px;height:5px}
   .seg.ok{background:var(--ok)}
   .seg.warn{background:var(--warn)}
@@ -84,6 +90,7 @@
     position:absolute;top:7.5px;width:9px;height:9px;border-radius:50%;transform:translate(-50%,-50%);
     background:var(--muted);border:2px solid var(--surface);cursor:pointer;transition:transform .15s;z-index:2;
   }
+  .dot::after{content:'';position:absolute;inset:-14px}   /* dotyková plocha ~37 px */
   .dot:hover{transform:translate(-50%,-50%) scale(1.5)}
   .dot.prev{background:var(--ok)}
   .dot.key{background:var(--hot)}
@@ -103,7 +110,8 @@
   .alab.b{font-weight:700;color:var(--ink)}
   @media (max-width:560px){
     .alab{display:none}
-    .alab.b,.alab.end,.alab.start{display:block;font-size:9.5px}
+    .alab.b,.alab.end{display:block;font-size:9.5px}
+    .alab.end{transform:none;right:0;left:auto !important}
     #axis{margin-top:30px}
   }
   #axleg{display:flex;gap:13px;flex-wrap:wrap;font-size:10.5px;color:var(--muted);margin:-14px 6px 12px}
@@ -117,7 +125,7 @@
   .tile b{display:block;font-size:9.5px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);white-space:nowrap;margin-bottom:1px}
   .tile span{font-size:19px;font-weight:700;white-space:nowrap}
   @media (max-width:640px){.tile{min-width:calc(50% - 5px)}.tile span{font-size:16px}}
-  .tile.warn{background:var(--warn-soft);border-color:var(--warn)} .tile.warn span{color:var(--warn)}
+  .tile.warn{background:var(--warn-soft);border-color:var(--warn)} .tile.warn span{color:var(--warn-text)}
   .tile.hot{background:var(--hot-soft);border-color:var(--hot)} .tile.hot span{color:var(--hot)}
   .tile.ok{background:var(--ok-soft);border-color:var(--ok)} .tile.ok span{color:var(--ok)}
 
@@ -179,7 +187,7 @@
   .reco h3{font-size:14px;display:flex;gap:8px;align-items:baseline;flex-wrap:wrap}
   .reco .pri{font-size:9.5px;font-weight:800;letter-spacing:.06em;text-transform:uppercase;padding:1px 8px;border-radius:20px;flex:none}
   .pri.vys{background:var(--hot-soft);color:var(--hot)}
-  .pri.str{background:var(--warn-soft);color:var(--warn)}
+  .pri.str{background:var(--warn-soft);color:var(--warn-text)}
   .pri.niz{background:var(--ok-soft);color:var(--ok)}
   .reco p{font-size:12.5px;color:var(--muted)}
   footer{border-top:1px solid var(--line);margin-top:38px;padding:16px 0 28px;font-size:11.5px;color:var(--muted)}
@@ -205,16 +213,16 @@
 
   <div id="player">
     <div id="ctrl">
-      <button class="cbtn" id="prevbtn" aria-label="Předchozí událost">‹</button>
-      <button class="cbtn" id="playbtn" aria-label="Přehrát">▶</button>
-      <button class="cbtn" id="nextbtn" aria-label="Další událost">›</button>
+      <button type="button" class="cbtn" id="prevbtn" aria-label="Předchozí událost">‹</button>
+      <button type="button" class="cbtn" id="playbtn" aria-pressed="false" aria-label="Přehrát">▶</button>
+      <button type="button" class="cbtn" id="nextbtn" aria-label="Další událost">›</button>
       <span id="clockv" class="mono">11:00:00</span>
       <div id="speeds">
         <small>zpomalení</small>
-        <button class="sp on" data-s="1">1×</button>
-        <button class="sp" data-s="2">2×</button>
-        <button class="sp" data-s="4">4×</button>
-        <button class="sp" data-s="8">8×</button>
+        <button type="button" class="sp on" data-s="1" aria-label="Zpomalení 1×">1×</button>
+        <button type="button" class="sp" data-s="2" aria-label="Zpomalení 2×">2×</button>
+        <button type="button" class="sp" data-s="4" aria-label="Zpomalení 4×">4×</button>
+        <button type="button" class="sp" data-s="8" aria-label="Zpomalení 8×">8×</button>
       </div>
     </div>
 
@@ -431,6 +439,7 @@ const flag=document.createElement('div');flag.id='ponrflag';flag.style.left=pos(
 /* tečky událostí */
 const dots=EV.map((e,i)=>{
   const d=document.createElement('button');
+  d.type='button';
   d.className='dot'+(e.k?' '+({prev:'prev',key:'key',ponr:'ponr',blackout:'key'})[e.k]:'');
   d.style.left=pos(e.t)+'%';
   d.title=e.c+' · '+e.h;
@@ -460,7 +469,7 @@ axis.addEventListener('pointerdown',ev=>{
 
 /* ---------- formát hodin ---------- */
 function fmtClock(t){
-  const sec=Math.floor(t*60);
+  const sec=Math.round(t*60);
   const h=11+Math.floor(sec/3600), m=Math.floor(sec/60)%60, s=sec%60;
   return String(h).padStart(2,'0')+':'+String(m).padStart(2,'0')+':'+String(s).padStart(2,'0');
 }
@@ -549,11 +558,11 @@ function tick(ts){
 function play(){
   if(now>=T_END-0.01)setTime(0);
   playing=true;lastTs=null;
-  playbtn.textContent='❚❚';playbtn.classList.add('playing');
+  playbtn.textContent='❚❚';playbtn.classList.add('playing');playbtn.setAttribute('aria-label','Pozastavit');playbtn.setAttribute('aria-pressed','true');
   rafId=requestAnimationFrame(tick);
 }
 function stop(){
-  playing=false;playbtn.textContent='▶';playbtn.classList.remove('playing');
+  playing=false;playbtn.textContent='▶';playbtn.classList.remove('playing');playbtn.setAttribute('aria-label','Přehrát');playbtn.setAttribute('aria-pressed','false');
   if(rafId)cancelAnimationFrame(rafId);lastTs=null;
 }
 playbtn.addEventListener('click',()=>playing?stop():play());
