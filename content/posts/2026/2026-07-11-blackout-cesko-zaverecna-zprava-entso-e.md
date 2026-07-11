@@ -102,7 +102,7 @@ A teď ta druhá perlička. Zpráva odpadlé fotovoltaiky neidentifikuje. Tabulk
 
 Aby to nevyznělo jen jako litanie: ochranná technika zafungovala kompletně podle nastavení.  V411, spojka v Krasíkově, transformátor T401 i frekvenční ochrany bloků. Počerady a Chvaletice úspěšně přešly do vlastní spotřeby, což zásadně urychlilo obnovu. Frekvenční odlehčování stihlo při pádu frekvence rychlostí 3,5 Hz/s aktivovat jen dva stupně ze šesti, ale na ostrov s deficitem 1 800 MW není stavěné a panel konstatuje, že fungovalo, jak mělo. Obnova top-down ze dvou stran: Praha kolem 13:00, všechny rozvodny do 14:09, kompletní zátěž do 17:35, V411 opravená týž den. A bilanci po rozpadu podržely dovozy regulační energie, hlavně z Německa - 2 578 MWh záporné aFRR. Propojená Evropa opět v roli pojistky, která zafungovala. Za tohle všechno palec nahoru. A pamatujete na to, jak první zprávy hned vinily "přetoky OZE z Německa"?
 
-### 🧮 Dalo se blackoutu zabránit? Ano, kdyby elektrárny ČEZu Ledvice a Ralsko fungovaly, jak mají!
+## 🧮 Dalo se blackoutu zabránit? Ano, kdyby elektrárny ČEZu Ledvice a Ralsko fungovaly, jak mají!
 
 Tohle je otázka, na kterou zpráva odpovídá jen napůl, ale dává dost čísel, abychom si zbytek dopočítali. Základní parametr: samotný výpadek V411 by zatížil V208 na 98,2 %, tedy žádná kaskáda, žádný blackout. Všechno nad stovku vyrobily ztráty výroby, celkem asi 620 MW, které vyhnaly V208 na finálních 142,9 %. Z toho plyne jednoduchá kupecká aritmetika: zhruba 0,07 procentního bodu zatížení V208 na každý ztracený megawatt. Následující dekompozice je tedy můj odhad z čísel zprávy, ne závěr Zprávy. Teď si tedypojďme přehrát tři "kdyby".
 
@@ -114,7 +114,7 @@ Tohle je otázka, na kterou zpráva odpovídá jen napůl, ale dává dost čís
 
 Sečteno: dvakrát ze tří ano. Ledvice nebo Dlouhé Stráně by každé samostatně nejspíš stačily, soláry samotné ne. A kombinace kterýchkoli dvou položek by V208 srazila k 110 %, do pásma, kde se rozhoduje v klidu a s kalkulačkou, ne za osm minut a naslepo. Blackout nebyl nevyhnutelný. Jen se všechny záchranné brzdy utrhly naráz - a ta poslední byla zamčená zákonem. Stačilo, aby elektrárny ČEZu Ledvice a Ralsko fungovaly tak, jak mají. A to je důvod, proč se ČEZ kolem události tak mlží.  
 
-### 🎬 Závěrem
+## 🎬 Závěrem: Kdo za to může? 
 
 Kdo tedy za to může? Závěrečná zpráva z principu nikoho nejmenuje jako viníka, ale strom příčin a adresáti doporučení mluví jasně. Selhaly čtyři nezávislé subjekty naráz:
 
