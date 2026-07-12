@@ -100,9 +100,11 @@
   <div class="posts">
     <h3>Jak se vám líbí tento článek?</h3>
     <div id="feedback-widget"></div>
+    {{/* data-slug musí být Firestore-safe ID (bez /), kompatibilní s Jekyll page.url | slugify → item-muj-clanek */}}
+    {{ $feedbackSlug := .RelPermalink | replaceRE "^/+" "" | replaceRE "/+$" "" | replaceRE "/" "-" }}
     <script
         src="https://top.marigold.cz/mg-feedback.js"
-        data-slug="{{ .RelPermalink | urlize }}"
+        data-slug="{{ $feedbackSlug }}"
         data-title="{{ .Title }}"
         data-url="{{ .Permalink }}"
         data-target="#feedback-widget"
