@@ -7,6 +7,9 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
 
 ## [Unreleased]
 
+### Added
+- Nový článek „K pirátské a obecné povolební situaci pár čísel a úvah“ (`content/posts/2026/2026-10-12-povolebni-cisla-pirati-2026.md`) s thumbnailem `static/assets/pirati-kandidatka-praha-2026.jpg`
+
 ### Removed
 - Úklid mrtvých GitHub Actions workflowů, které plnily Actions tab skipped/šumem:
   - **Podcast**: `generate_podcast.yml`, `podcast-generation.yml` (denní cron + `if: false` → denní skipped runy)
