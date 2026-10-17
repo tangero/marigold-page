@@ -1840,10 +1840,6 @@ pre:has(code.language-mermaid), code.language-mermaid {
 
 .ad-zone-top {
   margin: 1.5rem 0;
-
-  &:has(.workshop-banner):empty > .ad-zone-label {
-    display: none;
-  }
 }
 
 .ad-zone-label {
@@ -1867,6 +1863,10 @@ pre:has(code.language-mermaid), code.language-mermaid {
     letter-spacing: 2px;
     color: lighten($gray, 15%);
     white-space: nowrap;
+  }
+
+  &[hidden] {
+    display: none;
   }
 }
 

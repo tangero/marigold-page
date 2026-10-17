@@ -109,6 +109,14 @@
           '</a>';
       }
       container.style.display = '';
+
+      // Štítek zóny (ad-zone-top.html) — placený slot musí být označen jako reklama.
+      var zone = container.closest('.ad-zone-top');
+      var label = zone && zone.querySelector('.ad-zone-label');
+      if (label) {
+        label.querySelector('span').textContent = isAd ? 'Reklama' : 'Naše akce';
+        label.hidden = false;
+      }
     })
     .catch(function () {});
 })();
