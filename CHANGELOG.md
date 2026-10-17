@@ -7,6 +7,10 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
 
 ## [Unreleased]
 
+### Changed
+- Promo zóna nad AI a mobilnisite články (`layouts/partials/ad-zone-top.html`): štítek „Reklama“ přejmenován na „Naše akce“ (zóna propaguje jen vlastní akce z vibecoding.cz, ne placenou reklamu); zrušen oddělovač „Obsah článku“ za zónou včetně CSS `.ad-zone-end` v `assets/scss/main.scss`. Sjednoceno s vibecoding.cz
+- Štítek promo zóny nastavuje `static/js/promo-banner.js` podle typu promo: placený slot (`isAd`) dostane „Reklama“, vlastní akce „Naše akce“. Bez promo zůstává štítek skrytý (nahrazen nefunkční selektor `:has(.workshop-banner):empty`)
+
 ### Added
 - Nový článek „K pirátské a obecné povolební situaci pár čísel a úvah“ (`content/posts/2026/2026-10-12-povolebni-cisla-pirati-2026.md`) s thumbnailem `static/assets/pirati-kandidatka-praha-2026.jpg`
 

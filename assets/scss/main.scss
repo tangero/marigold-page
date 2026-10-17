@@ -1840,15 +1840,9 @@ pre:has(code.language-mermaid), code.language-mermaid {
 
 .ad-zone-top {
   margin: 1.5rem 0;
-
-  &:has(.workshop-banner):empty > .ad-zone-label,
-  &:has(.workshop-banner):empty > .ad-zone-end {
-    display: none;
-  }
 }
 
-.ad-zone-label,
-.ad-zone-end {
+.ad-zone-label {
   display: flex;
   align-items: center;
   gap: 0.75rem;
@@ -1869,6 +1863,10 @@ pre:has(code.language-mermaid), code.language-mermaid {
     letter-spacing: 2px;
     color: lighten($gray, 15%);
     white-space: nowrap;
+  }
+
+  &[hidden] {
+    display: none;
   }
 }
 
