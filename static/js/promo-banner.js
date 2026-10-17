@@ -37,6 +37,9 @@
       // Reklama / externí promo slot (isAd): nemá reálný termín ani město,
       // místo „Naše akce" má vlastní štítek a CTA „Více". Datum se nezobrazuje.
       var isAd = !!e.isAd;
+      // V promo zóně (ad-zone-top.html) říká „Naše akce" už štítek zóny → odznak by se zdvojil.
+      var zone = container.closest('.ad-zone-top');
+      var showBadge = isAd || !zone;
 
       var dateText = '';
       if (!isAd && e.date) {
@@ -97,7 +100,7 @@
           '<a href="' + url + '" class="promo-card-compact-link">' +
             '<div class="promo-card-compact">' +
               '<div class="promo-left">' +
-                '<span class="promo-badge-sm">' + (isAd ? esc(e.badgeLabel || 'Tip') : 'Naše akce') + '</span>' +
+                (showBadge ? '<span class="promo-badge-sm">' + (isAd ? esc(e.badgeLabel || 'Tip') : 'Naše akce') + '</span>' : '') +
                 '<span class="promo-title-sm">' + esc(e.title) + '</span>' +
                 (dateText ? '<span class="promo-meta">' + esc(dateText) + '</span>' : '') +
                 (e.bannerDescription ? '<span class="promo-meta">' + esc(e.bannerDescription) + '</span>' : '') +
@@ -111,7 +114,6 @@
       container.style.display = '';
 
       // Štítek zóny (ad-zone-top.html) — placený slot musí být označen jako reklama.
-      var zone = container.closest('.ad-zone-top');
       var label = zone && zone.querySelector('.ad-zone-label');
       if (label) {
         label.querySelector('span').textContent = isAd ? 'Reklama' : 'Naše akce';
