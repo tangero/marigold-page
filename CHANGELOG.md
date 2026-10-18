@@ -8,6 +8,7 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
 ## [Unreleased]
 
 ### Changed
+- Hodnocení článku („Jak se vám líbí tento článek?“) je v `posts` a `ai` nad promo blokem Substacku, hned pod textem článku
 - Promo zóna nad AI a mobilnisite články (`layouts/partials/ad-zone-top.html`): štítek „Reklama“ přejmenován na „Naše akce“ (zóna propaguje jen vlastní akce z vibecoding.cz, ne placenou reklamu); zrušen oddělovač „Obsah článku“ za zónou včetně CSS `.ad-zone-end` v `assets/scss/main.scss`. Sjednoceno s vibecoding.cz
 - Štítek promo zóny nastavuje `static/js/promo-banner.js` podle typu promo: placený slot (`isAd`) dostane „Reklama“, vlastní akce „Naše akce“. Bez promo zůstává štítek skrytý (nahrazen nefunkční selektor `:has(.workshop-banner):empty`)
 - Kompaktní promo karta v promo zóně už nemá odznak „Naše akce“, protože ho zdvojoval štítek zóny. Mimo zónu (blogové posty) a u placených slotů (`isAd`) odznak zůstává
@@ -18,6 +19,7 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
 - Nový článek „K pirátské a obecné povolební situaci pár čísel a úvah“ (`content/posts/2026/2026-10-12-povolebni-cisla-pirati-2026.md`) s thumbnailem `static/assets/pirati-kandidatka-praha-2026.jpg`
 
 ### Removed
+- Box „Patrickův newsletter“ z článků (`posts`, `ai`) i jako záloha promo bloku na titulce; nepoužívané styly `.newsletter-cta` z `assets/scss/main.scss`. Na newsletter dál odkazuje promo blok Substacku a patička
 - Úklid mrtvých GitHub Actions workflowů, které plnily Actions tab skipped/šumem:
   - **Podcast**: `generate_podcast.yml`, `podcast-generation.yml` (denní cron + `if: false` → denní skipped runy)
   - **Notifikace**: `send-fcm-notifications.yml` (FCM/Firebase), `send-notifications.yml`, `send-notifications-improved.yml`, `test-notification.yml` (OneSignal) — nefungovaly (paths na legacy `_posts/`, partial disable)

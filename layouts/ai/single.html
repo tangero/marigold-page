@@ -46,10 +46,6 @@
     {{ .Content }}
   </div>
 
-  {{ partialCached "substack-promo.html" . }}
-
-  {{ partial "szn-discussion.html" . }}
-
   <div class="posts">
     <h3>Jak se vám líbí tento článek?</h3>
     <div id="feedback-widget"></div>
@@ -64,15 +60,9 @@
     ></script>
   </div>
 
-  <div class="newsletter-cta">
-    <div class="newsletter-cta-inner">
-      <div class="newsletter-cta-text">
-        <strong>Patrickův newsletter</strong>
-        <span>Novinky z AI a technologií přímo do schránky, zdarma.</span>
-      </div>
-      <a href="https://zandl.substack.com" class="newsletter-cta-btn" target="_blank" rel="noopener">Odebrat</a>
-    </div>
-  </div>
+  {{ partialCached "substack-promo.html" . }}
+
+  {{ partial "szn-discussion.html" . }}
 
   <div class="post-navigation">
     <div class="PageNavigation">
