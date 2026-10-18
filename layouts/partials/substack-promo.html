@@ -1,0 +1,57 @@
+{{/* Promo nejnovějších článků z newsletteru zandl.substack.com.
+     RSS se stahuje při buildu (Substack feed nemá CORS, z prohlížeče ho načíst nejde).
+     Čerstvost drží cron v .github/workflows/hugo-build.yml. Když Substack neodpoví,
+     build pokračuje a blok se nevykreslí. Volat přes partialCached. */}}
+{{ $feedURL := "https://zandl.substack.com/feed" }}
+{{ $utm := "utm_source=marigold&utm_medium=web&utm_campaign=substack-promo" }}
+{{ $items := slice }}
+{{ with try (resources.GetRemote $feedURL) }}
+  {{ with .Err }}
+    {{ warnf "substack-promo: nelze stáhnout %s: %s" $feedURL . }}
+  {{ else with .Value }}
+    {{ with try (transform.Unmarshal .) }}
+      {{ with .Err }}
+        {{ warnf "substack-promo: nelze zpracovat RSS: %s" . }}
+      {{ else with .Value }}
+        {{ with .channel.item }}
+          {{ if reflect.IsSlice . }}{{ $items = first 3 . }}{{ else }}{{ $items = slice . }}{{ end }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ with $items }}
+<section class="substack-promo">
+  <div class="substack-promo-header">
+    <h2 class="section-title">Z mého newsletteru</h2>
+    <a href="{{ print "https://zandl.substack.com/?" $utm }}" class="substack-promo-all" target="_blank" rel="noopener">Odebírat zdarma &rarr;</a>
+  </div>
+  <div class="substack-promo-grid">
+    {{ range . }}
+    {{ $link := print .link (cond (strings.Contains .link "?") "&" "?") $utm }}
+    {{ $title := .title | htmlUnescape | plainify }}
+    {{ $desc := .description | htmlUnescape | plainify | strings.TrimSpace }}
+    {{ $img := "" }}
+    {{/* Enclosure je URL Substack CDN; ořez na velikost karty umí CDN sám */}}
+    {{ with .enclosure }}{{ with index . "-url" }}{{ $img = replace . "f_auto,q_auto:good" "w_480,h_300,c_fill,f_auto,q_auto:good" }}{{ end }}{{ end }}
+    <article class="substack-card">
+      <a href="{{ $link }}" target="_blank" rel="noopener" class="substack-card-link">
+        {{ with $img }}
+        <div class="substack-card-image">
+          <img src="{{ . }}" alt="" loading="lazy" width="480" height="300">
+        </div>
+        {{ end }}
+        <div class="substack-card-body">
+          <h3>{{ $title }}</h3>
+          {{/* Krátké popisy typu „Dobrý den,“ nemají výpovědní hodnotu */}}
+          {{ if gt (strings.RuneCount $desc) 25 }}
+          <p>{{ $desc | truncate 140 }}</p>
+          {{ end }}
+        </div>
+      </a>
+    </article>
+    {{ end }}
+  </div>
+</section>
+{{ end }}

@@ -2393,6 +2393,123 @@ pre:has(code.language-mermaid), code.language-mermaid {
   }
 }
 
+/* Substack promo (layouts/partials/substack-promo.html) */
+.substack-promo {
+  margin: 2.5rem 0;
+  padding-top: 1.5rem;
+  border-top: 1px solid $border-color;
+
+  .section-title {
+    margin: 0;
+  }
+
+  // V seznamu článků na titulce odděluje bloky už .post
+  .posts > & {
+    border-top: 0;
+    padding-top: 0;
+  }
+}
+
+.substack-promo-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 1rem;
+  flex-wrap: wrap;
+}
+
+.substack-promo-all {
+  font-size: 0.9rem;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.substack-promo-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+
+  @media (min-width: 640px) {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.substack-card {
+  background: $bg-subtle;
+  border: 1px solid $border-color;
+  border-radius: 6px;
+  overflow: hidden;
+  transition: border-color 0.2s ease;
+
+  &:hover {
+    border-color: $blue;
+  }
+}
+
+.substack-card-link {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  text-decoration: none;
+  color: inherit;
+
+  &:hover h3 {
+    color: $blue;
+  }
+
+  // Na mobilu kompaktní řádek: malý obrázek vlevo, bez perexu
+  @include mobile {
+    flex-direction: row;
+    align-items: center;
+
+    .substack-card-image {
+      flex: 0 0 110px;
+      align-self: stretch;
+    }
+
+    .substack-card-image img {
+      height: 100%;
+      aspect-ratio: auto;
+    }
+
+    .substack-card-body {
+      padding: 0.75rem 1rem;
+    }
+
+    .substack-card-body p {
+      display: none;
+    }
+  }
+}
+
+.substack-card-image img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 8 / 5;
+  object-fit: cover;
+}
+
+.substack-card-body {
+  padding: 1rem 1.25rem 1.25rem;
+
+  h3 {
+    margin: 0 0 0.5rem;
+    font-size: 1rem;
+    line-height: 1.35;
+    color: $darkerGray;
+    transition: color 0.2s ease;
+  }
+
+  p {
+    margin: 0;
+    font-size: 0.9rem;
+    color: $gray;
+    line-height: 1.5;
+  }
+}
+
 /*********************/
 /* DARK MODE         */
 /*********************/
@@ -3113,6 +3230,33 @@ pre:has(code.language-mermaid), code.language-mermaid {
     p {
       color: #a0a0b8;
     }
+  }
+
+  .substack-promo {
+    border-top-color: #2a2d35;
+  }
+
+  .substack-card {
+    background: #1e2126;
+    border-color: #2a2d35;
+
+    &:hover {
+      border-color: #6db3f2;
+    }
+  }
+
+  .substack-card-body {
+    h3 {
+      color: #e0e0e0;
+    }
+
+    p {
+      color: #a0a0b8;
+    }
+  }
+
+  .substack-card-link:hover h3 {
+    color: #6db3f2;
   }
 }
 

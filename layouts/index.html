@@ -139,8 +139,12 @@ document.addEventListener('DOMContentLoaded', function() {
   </div>
 
   {{ $nlIndex = add $nlIndex 1 }}
-  {{- /* Newsletter CTA after 5th article, only on first page */ -}}
+  {{- /* Newsletter (Substack promo, fallback CTA) after 5th article, only on first page */ -}}
   {{ if and (eq $nlIndex 5) (eq $paginator.PageNumber 1) }}
+  {{ $substackPromo := partialCached "substack-promo.html" $ }}
+  {{ with strings.TrimSpace $substackPromo }}
+  {{ . | safeHTML }}
+  {{ else }}
   <div class="newsletter-cta">
     <div class="newsletter-cta-inner">
       <div class="newsletter-cta-text">
@@ -150,6 +154,7 @@ document.addEventListener('DOMContentLoaded', function() {
       <a href="https://zandl.substack.com" class="newsletter-cta-btn" target="_blank" rel="noopener">Odebrat</a>
     </div>
   </div>
+  {{ end }}
   {{ end }}
 
   {{ end }}

@@ -46,6 +46,8 @@
     {{ .Content }}
   </div>
 
+  {{ partialCached "substack-promo.html" . }}
+
   {{ partial "szn-discussion.html" . }}
 
   <div class="posts">

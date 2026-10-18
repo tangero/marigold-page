@@ -7,5 +7,7 @@
   <div class="entry">
     {{ .Content }}
   </div>
+
+  {{ partialCached "substack-promo.html" . }}
 </article>
 {{ end }}

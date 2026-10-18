@@ -3,6 +3,8 @@ on:
   push:
     branches:
       - main
+  schedule:
+    - cron: '15 5 * * *'  # Denně v 5:15 UTC — obnoví promo článků ze zandl.substack.com
   workflow_dispatch:
 
 permissions:
