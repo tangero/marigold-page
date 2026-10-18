@@ -1,0 +1,60 @@
+{{ define "main" }}
+<article class="page rating-board">
+  <h1>{{ .Title }}</h1>
+  <p class="rating-board-intro">Podle hodnocení čtenářů pod články na Marigold.cz a Vibecoding.cz. Pořadí určuje počet hlasů za zvolené období.</p>
+
+  <div class="rating-board-periods" role="tablist" aria-label="Období">
+    <button type="button" role="tab" data-period="7d">7 dní</button>
+    <button type="button" role="tab" data-period="1m">Měsíc</button>
+    <button type="button" role="tab" data-period="3m">3 měsíce</button>
+    <button type="button" role="tab" data-period="6m">6 měsíců</button>
+  </div>
+
+  <ol class="rating-board-list" aria-live="polite"></ol>
+  <p class="rating-board-status">Načítám…</p>
+</article>
+
+{{/* Data: https://www.vibecoding.cz/api/rating/top (repo vibecoding-site, docs/article-rating.md) */}}
+<script>
+(function () {
+  var API = 'https://www.vibecoding.cz/api/rating/top';
+  var list = document.querySelector('.rating-board-list');
+  var status = document.querySelector('.rating-board-status');
+  var tabs = document.querySelectorAll('.rating-board-periods button');
+
+  function votes(n) {
+    return n === 1 ? '1 hlas' : n >= 2 && n <= 4 ? n + ' hlasy' : n + ' hlasů';
+  }
+
+  function render(items) {
+    list.innerHTML = '';
+    items.forEach(function (a) {
+      var li = document.createElement('li');
+      var link = document.createElement('a');
+      link.href = a.url || '#';
+      link.textContent = a.title;
+      var meta = document.createElement('span');
+      meta.className = 'rating-board-meta';
+      meta.textContent = votes(a.totalVotes) + ' · 😊 ' + a.feedback.happy + ' · 😐 ' + a.feedback.neutral + ' · 😞 ' + a.feedback.sad +
+        (/vibecoding\.cz$/.test(a.domain || '') ? ' · Vibecoding.cz' : '');
+      li.appendChild(link);
+      li.appendChild(meta);
+      list.appendChild(li);
+    });
+    status.textContent = items.length ? '' : 'Za toto období zatím nikdo nehodnotil.';
+  }
+
+  function load(period) {
+    tabs.forEach(function (t) { t.setAttribute('aria-selected', String(t.dataset.period === period)); });
+    status.textContent = 'Načítám…';
+    fetch(API + '?period=' + period + '&limit=20')
+      .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+      .then(function (body) { render(body.result || []); })
+      .catch(function () { list.innerHTML = ''; status.textContent = 'Žebříček se nepodařilo načíst.'; });
+  }
+
+  tabs.forEach(function (t) { t.addEventListener('click', function () { load(t.dataset.period); }); });
+  load('1m');
+})();
+</script>
+{{ end }}

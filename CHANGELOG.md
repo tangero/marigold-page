@@ -8,12 +8,14 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
 ## [Unreleased]
 
 ### Changed
+- Hodnocení článků (`posts`, `ai`) běží na vlastním API vibecoding.cz místo Firebase: widget `https://www.vibecoding.cz/js/mg-rating.js` místo `top.marigold.cz/mg-feedback.js` (tangero/vibecoding-site#275). Data převedena z Firestore, po hlasu se ukáže výsledek, funguje tmavý režim
 - Hodnocení článku („Jak se vám líbí tento článek?“) je v `posts` a `ai` nad promo blokem Substacku, hned pod textem článku
 - Promo zóna nad AI a mobilnisite články (`layouts/partials/ad-zone-top.html`): štítek „Reklama“ přejmenován na „Naše akce“ (zóna propaguje jen vlastní akce z vibecoding.cz, ne placenou reklamu); zrušen oddělovač „Obsah článku“ za zónou včetně CSS `.ad-zone-end` v `assets/scss/main.scss`. Sjednoceno s vibecoding.cz
 - Štítek promo zóny nastavuje `static/js/promo-banner.js` podle typu promo: placený slot (`isAd`) dostane „Reklama“, vlastní akce „Naše akce“. Bez promo zůstává štítek skrytý (nahrazen nefunkční selektor `:has(.workshop-banner):empty`)
 - Kompaktní promo karta v promo zóně už nemá odznak „Naše akce“, protože ho zdvojoval štítek zóny. Mimo zónu (blogové posty) a u placených slotů (`isAd`) odznak zůstává
 
 ### Added
+- Stránka `/zebricek/` s nejlépe hodnocenými články za 7 dní, měsíc, 3 a 6 měsíců (`layouts/_default/zebricek.html`), data z `https://www.vibecoding.cz/api/rating/top`; nahrazuje žebříček na top.marigold.cz
 - Promo posledních tří článků z newsletteru zandl.substack.com (`layouts/partials/substack-promo.html`) místo widgetu FeedWind: RSS se stahuje při Hugo buildu (`resources.GetRemote`, Substack feed nemá CORS), karty s obrázkem ze Substack CDN (ořez 480×300), titulkem a perexem, odkazy s UTM `utm_campaign=substack-promo`. Na titulce nahrazuje box „Patrickův newsletter“ za 5. článkem (ten zůstává jako záloha, když feed nejde načíst); v článcích (`posts`, `ai`, `mobilnisite`) je pod textem. Při výpadku Substacku build projde s varováním a blok se nevykreslí. Styly `.substack-*` v `assets/scss/main.scss` včetně dark mode a kompaktní mobilní varianty
 - Denní cron (5:15 UTC) v `.github/workflows/hugo-build.yml`, aby se promo obnovilo i bez pushe; `[caches.getresource] maxAge = "1h"` v `hugo.toml`
 - Nový článek „K pirátské a obecné povolební situaci pár čísel a úvah“ (`content/posts/2026/2026-10-12-povolebni-cisla-pirati-2026.md`) s thumbnailem `static/assets/pirati-kandidatka-praha-2026.jpg`

@@ -98,10 +98,10 @@
   <div class="posts">
     <h3>Jak se vám líbí tento článek?</h3>
     <div id="feedback-widget"></div>
-    {{/* data-slug musí být Firestore-safe ID (bez /), kompatibilní s Jekyll page.url | slugify → item-muj-clanek */}}
+    {{/* data-slug ve stejném tvaru jako hlasy převzaté z Firestore (bez /, Jekyll page.url | slugify) → item-muj-clanek */}}
     {{ $feedbackSlug := .RelPermalink | replaceRE "^/+" "" | replaceRE "/+$" "" | replaceRE "/" "-" }}
     <script
-        src="https://top.marigold.cz/mg-feedback.js"
+        src="https://www.vibecoding.cz/js/mg-rating.js"
         data-slug="{{ $feedbackSlug }}"
         data-title="{{ .Title }}"
         data-url="{{ .Permalink }}"
