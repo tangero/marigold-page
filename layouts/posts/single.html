@@ -111,7 +111,7 @@
 
   {{ partialCached "substack-promo.html" . }}
 
-  {{ partial "szn-discussion.html" . }}
+  {{ partial "comments.html" . }}
 
   <!-- Featured posts -->
   {{ $featured := where (where .Site.RegularPages "Section" "posts") ".Params.featured" true }}

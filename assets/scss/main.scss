@@ -2335,6 +2335,22 @@ pre:has(code.language-mermaid), code.language-mermaid {
 }
 
 /* Substack promo (layouts/partials/substack-promo.html) */
+// Diskuse pod článkem (widget mg-comments z vibecoding.cz, styly ve Shadow DOM;
+// barvy se předávají proměnnými --mgc-*).
+.article-comments {
+  margin: 2.5rem 0;
+  padding-top: 1.5rem;
+  border-top: 1px solid $border-color;
+  scroll-margin-top: 80px;
+  --mgc-accent: #{$blue};
+}
+
+[data-theme="dark"] .article-comments {
+  --mgc-accent: #6db3f2;
+  --mgc-bg: #1e2126;
+  --mgc-text: #e0e0e0;
+}
+
 .substack-promo {
   margin: 2.5rem 0;
   padding-top: 1.5rem;

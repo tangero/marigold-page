@@ -1,0 +1,8 @@
+{{/* Diskuse pod článkem (vibecoding-site docs/comments.md), náhrada Seznam Diskusí.
+     Prvek musí být přímo v HTML: server podle něj ověří stránku při prvním komentáři.
+     page-id ve stejném tvaru jako hodnocení (item-muj-clanek / ai-muj-clanek). */}}
+{{ $pageId := .RelPermalink | replaceRE "^/+" "" | replaceRE "/+$" "" | replaceRE "/" "-" }}
+<section class="article-comments" id="komentare">
+  <mg-comments site="marigold" page-id="{{ $pageId }}" page-url="{{ .Permalink }}" loading="lazy"></mg-comments>
+</section>
+<script src="https://www.vibecoding.cz/js/mg-comments.js" defer></script>
