@@ -3908,3 +3908,69 @@ pre:has(code.language-mermaid), code.language-mermaid {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "darcula";
 @import "svg-icons";
+
+/* Žebříček hodnocení (layouts/_default/zebricek.html) */
+.rating-board-intro {
+  color: $gray;
+}
+
+.rating-board-periods {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 1.5rem 0;
+
+  button {
+    padding: 0.4rem 0.9rem;
+    border: 1px solid $border-color;
+    border-radius: 999px;
+    background: $bg-subtle;
+    color: $darkGray;
+    font: inherit;
+    font-size: 0.9rem;
+    cursor: pointer;
+
+    &[aria-selected="true"] {
+      background: $blue;
+      border-color: $blue;
+      color: $white;
+    }
+  }
+}
+
+.rating-board-list {
+  padding-left: 1.5rem;
+
+  li {
+    margin-bottom: 0.9rem;
+  }
+
+  a {
+    font-weight: 600;
+  }
+}
+
+.rating-board-meta {
+  display: block;
+  font-size: 0.85rem;
+  color: $gray;
+}
+
+[data-theme="dark"] {
+  .rating-board-intro,
+  .rating-board-meta {
+    color: #a0a0b8;
+  }
+
+  .rating-board-periods button {
+    background: #1e2126;
+    border-color: #2a2d35;
+    color: #e0e0e0;
+
+    &[aria-selected="true"] {
+      background: #6db3f2;
+      border-color: #6db3f2;
+      color: #16181c;
+    }
+  }
+}
