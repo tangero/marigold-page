@@ -14,6 +14,11 @@ disablePathToLower = true
   pagerSize = 15
   path = "page"
 
+# Substack RSS (partial substack-promo.html) se stahuje při buildu — necachovat napořád
+[caches]
+  [caches.getresource]
+    maxAge = "1h"
+
 # Extract date from filename (Jekyll-compatible: YYYY-MM-DD-slug.md)
 [frontmatter]
   date = [":filename", ":default"]

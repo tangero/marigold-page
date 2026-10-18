@@ -13,6 +13,8 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
 - Kompaktní promo karta v promo zóně už nemá odznak „Naše akce“, protože ho zdvojoval štítek zóny. Mimo zónu (blogové posty) a u placených slotů (`isAd`) odznak zůstává
 
 ### Added
+- Promo posledních tří článků z newsletteru zandl.substack.com (`layouts/partials/substack-promo.html`) místo widgetu FeedWind: RSS se stahuje při Hugo buildu (`resources.GetRemote`, Substack feed nemá CORS), karty s obrázkem ze Substack CDN (ořez 480×300), titulkem a perexem, odkazy s UTM `utm_campaign=substack-promo`. Na titulce nahrazuje box „Patrickův newsletter“ za 5. článkem (ten zůstává jako záloha, když feed nejde načíst); v článcích (`posts`, `ai`, `mobilnisite`) je pod textem. Při výpadku Substacku build projde s varováním a blok se nevykreslí. Styly `.substack-*` v `assets/scss/main.scss` včetně dark mode a kompaktní mobilní varianty
+- Denní cron (5:15 UTC) v `.github/workflows/hugo-build.yml`, aby se promo obnovilo i bez pushe; `[caches.getresource] maxAge = "1h"` v `hugo.toml`
 - Nový článek „K pirátské a obecné povolební situaci pár čísel a úvah“ (`content/posts/2026/2026-10-12-povolebni-cisla-pirati-2026.md`) s thumbnailem `static/assets/pirati-kandidatka-praha-2026.jpg`
 
 ### Removed
