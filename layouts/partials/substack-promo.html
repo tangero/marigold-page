@@ -1,8 +1,10 @@
 {{/* Promo nejnovějších článků z newsletteru zandl.substack.com.
      RSS se stahuje při buildu (Substack feed nemá CORS, z prohlížeče ho načíst nejde).
-     Čerstvost drží cron v .github/workflows/hugo-build.yml. Když Substack neodpoví,
+     Substack blokuje IP GitHub Actions (403), proto feed jde přes proxy na vibecoding.cz
+     (src/pages/api/substack-feed.ts v repu vibecoding-site), která vrací RSS beze změny.
+     Čerstvost drží cron v .github/workflows/hugo-build.yml. Když feed neodpoví,
      build pokračuje a blok se nevykreslí. Volat přes partialCached. */}}
-{{ $feedURL := "https://zandl.substack.com/feed" }}
+{{ $feedURL := "https://www.vibecoding.cz/api/substack-feed" }}
 {{ $utm := "utm_source=marigold&utm_medium=web&utm_campaign=substack-promo" }}
 {{ $items := slice }}
 {{ with try (resources.GetRemote $feedURL) }}
