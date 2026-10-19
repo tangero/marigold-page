@@ -2335,17 +2335,15 @@ pre:has(code.language-mermaid), code.language-mermaid {
 }
 
 /* Substack promo (layouts/partials/substack-promo.html) */
-// Diskuse pod článkem (widget mg-comments z vibecoding.cz, styly ve Shadow DOM;
+// Box reakcí a diskuse pod článkem (widget mg-comments z vibecoding.cz, styly ve Shadow DOM;
 // barvy se předávají proměnnými --mgc-*).
-.article-comments {
+.article-feedback {
   margin: 2.5rem 0;
-  padding-top: 1.5rem;
-  border-top: 1px solid $border-color;
   scroll-margin-top: 80px;
   --mgc-accent: #{$blue};
 }
 
-[data-theme="dark"] .article-comments {
+[data-theme="dark"] .article-feedback {
   --mgc-accent: #6db3f2;
   --mgc-bg: #1e2126;
   --mgc-text: #e0e0e0;

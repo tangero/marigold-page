@@ -95,23 +95,9 @@
 
   <div class="ai-rubric-link"></div>
 
-  <div class="posts">
-    <h3>Jak se vám líbí tento článek?</h3>
-    <div id="feedback-widget"></div>
-    {{/* data-slug ve stejném tvaru jako hlasy převzaté z Firestore (bez /, Jekyll page.url | slugify) → item-muj-clanek */}}
-    {{ $feedbackSlug := .RelPermalink | replaceRE "^/+" "" | replaceRE "/+$" "" | replaceRE "/" "-" }}
-    <script
-        src="https://www.vibecoding.cz/js/mg-rating.js"
-        data-slug="{{ $feedbackSlug }}"
-        data-title="{{ .Title }}"
-        data-url="{{ .Permalink }}"
-        data-target="#feedback-widget"
-    ></script>
-  </div>
+  {{ partial "comments.html" . }}
 
   {{ partialCached "substack-promo.html" . }}
-
-  {{ partial "comments.html" . }}
 
   <!-- Featured posts -->
   {{ $featured := where (where .Site.RegularPages "Section" "posts") ".Params.featured" true }}
