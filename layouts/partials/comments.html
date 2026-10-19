@@ -1,0 +1,16 @@
+{{/* Box reakcí a diskuse pod článkem (widget mg-comments z vibecoding.cz, vibecoding-site
+     docs/comments.md a docs/article-rating.md). Nahrazuje Seznam Diskuse i dřívější mg-rating.js.
+     Prvek musí být přímo v HTML: server podle něj ověří stránku při prvním komentáři.
+     page-id i slug hodnocení ve tvaru hlasů převzatých z Firestore (item-muj-clanek / ai-muj-clanek).
+     Front matter `rating: false` / `comments: false` vypne reakce / diskusi u článku. */}}
+{{ $pageId := .RelPermalink | replaceRE "^/+" "" | replaceRE "/+$" "" | replaceRE "/" "-" }}
+{{ $rating := ne .Params.rating false }}
+{{ $comments := ne .Params.comments false }}
+{{ if or $rating $comments }}
+<section class="article-feedback" id="komentare">
+  <mg-comments site="marigold" page-id="{{ $pageId }}" page-url="{{ .Permalink }}"
+    {{- if $rating }} rating="on" rating-slug="{{ $pageId }}" rating-title="{{ .Title }}" rating-url="{{ .Permalink }}"{{ end }}
+    {{- if not $comments }} discussion="off"{{ end }} loading="lazy"></mg-comments>
+</section>
+<script src="https://www.vibecoding.cz/js/mg-comments.js" defer></script>
+{{ end }}
