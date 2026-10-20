@@ -3965,9 +3965,28 @@ pre:has(code.language-mermaid), code.language-mermaid {
 }
 
 .rating-board-meta {
-  display: block;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.3rem 0.75rem;
+  margin-top: 0.2rem;
   font-size: 0.85rem;
   color: $gray;
+
+  a.rating-board-comments {
+    font-weight: 400;
+    color: inherit;
+  }
+}
+
+.rating-board-reaction {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+
+  img {
+    display: block;
+  }
 }
 
 [data-theme="dark"] {
