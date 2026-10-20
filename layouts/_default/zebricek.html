@@ -22,8 +22,22 @@
   var status = document.querySelector('.rating-board-status');
   var tabs = document.querySelectorAll('.rating-board-periods button');
 
-  function votes(n) {
-    return n === 1 ? '1 hlas' : n >= 2 && n <= 4 ? n + ' hlasy' : n + ' hlasů';
+  var ICONS = 'https://www.vibecoding.cz/images/reactions/';
+  // Pořadí a popisky jako v boxu pod článkem (vibecoding-site public/js/mg-comments.js).
+  var REACTIONS = [
+    ['happy', 'Super'], ['insightful', 'Poučné'], ['funny', 'Pobavilo'],
+    ['neutral', 'K zamyšlení'], ['meh', 'Nic nového'], ['sad', 'Nesouhlasím'],
+  ];
+
+  function plural(n, one, few, many) {
+    return n + ' ' + (n === 1 ? one : n >= 2 && n <= 4 ? few : many);
+  }
+
+  function span(className, text) {
+    var el = document.createElement('span');
+    if (className) el.className = className;
+    if (text) el.textContent = text;
+    return el;
   }
 
   function render(items) {
@@ -33,10 +47,31 @@
       var link = document.createElement('a');
       link.href = a.url || '#';
       link.textContent = a.title;
-      var meta = document.createElement('span');
-      meta.className = 'rating-board-meta';
-      meta.textContent = votes(a.totalVotes) + ' · 😊 ' + a.feedback.happy + ' · 😐 ' + a.feedback.neutral + ' · 😞 ' + a.feedback.sad +
-        (/vibecoding\.cz$/.test(a.domain || '') ? ' · Vibecoding.cz' : '');
+      var meta = span('rating-board-meta');
+      meta.appendChild(span('', plural(a.totalVotes, 'hlas', 'hlasy', 'hlasů')));
+      REACTIONS.forEach(function (r) {
+        var n = (a.feedback && a.feedback[r[0]]) || 0;
+        if (!n) return;
+        var item = span('rating-board-reaction');
+        item.title = r[1];
+        var icon = document.createElement('img');
+        icon.src = ICONS + r[0] + '.svg';
+        icon.alt = r[1];
+        icon.width = 18;
+        icon.height = 18;
+        item.appendChild(icon);
+        item.appendChild(document.createTextNode(String(n)));
+        meta.appendChild(item);
+      });
+      // `comments`: počet zveřejněných komentářů, null = web bez diskuse.
+      if (typeof a.comments === 'number' && a.comments > 0 && a.url) {
+        var c = document.createElement('a');
+        c.className = 'rating-board-comments';
+        c.href = a.url + '#komentare';
+        c.textContent = '💬 ' + plural(a.comments, 'komentář', 'komentáře', 'komentářů');
+        meta.appendChild(c);
+      }
+      if (/vibecoding\.cz$/.test(a.domain || '')) meta.appendChild(span('', 'Vibecoding.cz'));
       li.appendChild(link);
       li.appendChild(meta);
       list.appendChild(li);
