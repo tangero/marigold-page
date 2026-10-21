@@ -2818,6 +2818,10 @@ pre:has(code.language-mermaid), code.language-mermaid {
     border-top-color: #2a2d35;
   }
 
+  .post-info {
+    color: #8888a8;
+  }
+
   .tag {
     background: #2a2d35;
     color: #c0c0d8;
@@ -3164,7 +3168,8 @@ pre:has(code.language-mermaid), code.language-mermaid {
   }
 
   // Article meta
-  .article-meta {
+  .article-meta,
+  .post-info {
     color: #8888a8;
   }
 
