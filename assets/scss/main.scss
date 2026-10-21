@@ -2271,6 +2271,15 @@ pre:has(code.language-mermaid), code.language-mermaid {
   color: $gray;
 }
 
+/* Počet komentářů a hodnocení v řádku s datem (partials/engagement.html): nezalamuje se, na úzkém displeji se zkrátí. */
+.article-meta .engagement,
+.hero-meta .engagement {
+  min-width: 0;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
 /*********************/
 /* FEATURED ARTICLES */
 /*********************/

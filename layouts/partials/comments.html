@@ -3,7 +3,7 @@
      Prvek musí být přímo v HTML: server podle něj ověří stránku při prvním komentáři.
      page-id i slug hodnocení ve tvaru hlasů převzatých z Firestore (item-muj-clanek / ai-muj-clanek).
      Front matter `rating: false` / `comments: false` vypne reakce / diskusi u článku. */}}
-{{ $pageId := .RelPermalink | replaceRE "^/+" "" | replaceRE "/+$" "" | replaceRE "/" "-" }}
+{{ $pageId := partial "page-id.html" . }}
 {{ $rating := ne .Params.rating false }}
 {{ $comments := ne .Params.comments false }}
 {{ if or $rating $comments }}

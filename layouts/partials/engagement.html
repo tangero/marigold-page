@@ -1,0 +1,6 @@
+{{/* Místo pro počet komentářů a hodnocení v řádku s datem; text doplní engagement-script.html
+     (vibecoding-site docs/comments.md, „Počty na titulních stránkách“). */}}
+{{ $rating := ne .Params.rating false }}
+{{ $comments := ne .Params.comments false }}
+{{ if or $rating $comments }}<span class="engagement" data-engagement-id="{{ partial "page-id.html" . }}"
+  {{- if not $rating }} data-no-rating{{ end }}{{ if not $comments }} data-no-comments{{ end }}></span>{{ end }}
