@@ -31,6 +31,7 @@
       <div class="hero-meta">
         {{ partial "badge.html" $firstPost }}
         <time datetime="{{ $firstPost.Date.Format "2006-01-02" }}">{{ $firstPost.Date.Day }}. {{ index $months (printf "%d" $firstPost.Date.Month) }} {{ $firstPost.Date.Year }}</time>
+        {{ partial "engagement.html" $firstPost }}
       </div>
       <h1 class="hero-title">
         <a href="{{ $firstPost.RelPermalink }}">{{ $firstPost.Title }}</a>
@@ -120,6 +121,7 @@ document.addEventListener('DOMContentLoaded', function() {
     <div class="article-meta">
       {{ partial "badge.html" . }}
       <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Day }}. {{ index $months (printf "%d" .Date.Month) }} {{ .Date.Year }}</time>
+      {{ partial "engagement.html" . }}
     </div>
     <h2><a href="{{ $postURL }}">{{ $postTitle }}</a></h2>
     <div class="post-content">
@@ -153,5 +155,6 @@ document.addEventListener('DOMContentLoaded', function() {
 {{ end }}
 
 {{ partial "pagination.html" . }}
+{{ partial "engagement-script.html" . }}
 
 {{ end }}

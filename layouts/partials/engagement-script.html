@@ -1,0 +1,32 @@
+{{/* Jeden požadavek na počty komentářů a hlasů pro články na stránce (max. 50 ID).
+     Chyba = tichý konec, řádek zůstane bez čísel. */}}
+<script>
+(function () {
+  var nodes = document.querySelectorAll('[data-engagement-id]');
+  if (!nodes.length || !window.fetch) return;
+  var ids = [];
+  for (var i = 0; i < nodes.length && ids.length < 50; i++) {
+    var id = nodes[i].getAttribute('data-engagement-id');
+    if (ids.indexOf(id) < 0) ids.push(id);
+  }
+  function plural(n, one, few, many) { return n === 1 ? one : (n >= 2 && n <= 4 ? few : many); }
+  fetch('https://www.vibecoding.cz/api/engagement?site=marigold&ids=' + encodeURIComponent(ids.join(',')), { credentials: 'omit' })
+    .then(function (r) { return r.ok ? r.json() : null; })
+    .then(function (data) {
+      if (!data || !data.counts) return;
+      for (var j = 0; j < nodes.length; j++) {
+        var el = nodes[j], c = data.counts[el.getAttribute('data-engagement-id')];
+        if (!c) continue;
+        var comments = el.hasAttribute('data-no-comments') ? 0 : (c.comments || 0);
+        var votes = el.hasAttribute('data-no-rating') ? 0 : (c.votes || 0);
+        var text = [], label = [];
+        if (comments > 0) { text.push('💬 ' + comments); label.push(comments + ' ' + plural(comments, 'komentář', 'komentáře', 'komentářů')); }
+        if (votes > 0) { text.push(votes + ' hodnocení'); label.push(votes + ' hodnocení'); }
+        if (!text.length) continue;
+        el.textContent = '· ' + text.join(' · ');
+        el.setAttribute('title', label.join(', '));
+        el.setAttribute('aria-label', label.join(', '));
+      }
+    })['catch'](function () {});
+})();
+</script>

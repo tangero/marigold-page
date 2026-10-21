@@ -1,0 +1,4 @@
+{{/* Identita článku pro diskusi i hodnocení (page-id = rating-slug), ve tvaru hlasů převzatých
+     z Firestore: RelPermalink bez krajních lomítek, „/“ → „-“. Sdílí comments.html a engagement.html. */}}
+{{ $id := .RelPermalink | replaceRE "^/+" "" | replaceRE "/+$" "" | replaceRE "/" "-" }}
+{{ return $id }}
