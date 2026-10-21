@@ -2271,13 +2271,40 @@ pre:has(code.language-mermaid), code.language-mermaid {
   color: $gray;
 }
 
-/* Počet komentářů a hodnocení v řádku s datem (partials/engagement.html): nezalamuje se, na úzkém displeji se zkrátí. */
-.article-meta .engagement,
+/* Řádek s datem pod perexem článku na titulce */
+.post-info {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-top: 0.75rem;
+  font-size: 0.85rem;
+  color: $gray;
+}
+
+/* Počet komentářů a hodnocení za datem (partials/engagement.html): nezalamuje se, na úzkém displeji se zkrátí.
+   Oddělovač patří k číslům, aby bez nich za datem nezůstala tečka. */
+.post-info .engagement,
 .hero-meta .engagement {
   min-width: 0;
+  margin-left: -0.5rem;
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
+
+  &:not(:empty)::before {
+    content: "\00a0·\00a0";
+  }
+
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  a:hover,
+  a:focus-visible {
+    color: $blue;
+    text-decoration: underline;
+  }
 }
 
 /*********************/
@@ -2791,6 +2818,10 @@ pre:has(code.language-mermaid), code.language-mermaid {
     border-top-color: #2a2d35;
   }
 
+  .post-info {
+    color: #8888a8;
+  }
+
   .tag {
     background: #2a2d35;
     color: #c0c0d8;
@@ -3137,7 +3168,8 @@ pre:has(code.language-mermaid), code.language-mermaid {
   }
 
   // Article meta
-  .article-meta {
+  .article-meta,
+  .post-info {
     color: #8888a8;
   }
 

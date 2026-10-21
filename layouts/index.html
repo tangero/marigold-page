@@ -28,15 +28,15 @@
       <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_800,h_600,c_fill,g_auto,f_auto,q_auto/{{ $thumb }}" alt="{{ $firstPost.Title }}">
     </div>
     <div class="hero-content">
+      <h1 class="hero-title">
+        <a href="{{ $firstPost.RelPermalink }}">{{ $firstPost.Title }}</a>
+      </h1>
+      <p class="hero-excerpt">{{ $firstPost.Summary | plainify | truncate 200 }}</p>
       <div class="hero-meta">
         {{ partial "badge.html" $firstPost }}
         <time datetime="{{ $firstPost.Date.Format "2006-01-02" }}">{{ $firstPost.Date.Day }}. {{ index $months (printf "%d" $firstPost.Date.Month) }} {{ $firstPost.Date.Year }}</time>
         {{ partial "engagement.html" $firstPost }}
       </div>
-      <h1 class="hero-title">
-        <a href="{{ $firstPost.RelPermalink }}">{{ $firstPost.Title }}</a>
-      </h1>
-      <p class="hero-excerpt">{{ $firstPost.Summary | plainify | truncate 200 }}</p>
       <a href="{{ $firstPost.RelPermalink }}" class="hero-cta">Číst dál &rarr;</a>
     </div>
   </article>
@@ -118,11 +118,6 @@ document.addEventListener('DOMContentLoaded', function() {
   {{ $postURL := .RelPermalink }}
   {{ $postTitle := .Title }}
   <div class="post">
-    <div class="article-meta">
-      {{ partial "badge.html" . }}
-      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Day }}. {{ index $months (printf "%d" .Date.Month) }} {{ .Date.Year }}</time>
-      {{ partial "engagement.html" . }}
-    </div>
     <h2><a href="{{ $postURL }}">{{ $postTitle }}</a></h2>
     <div class="post-content">
       {{ with .Params.thumbnail }}
@@ -136,6 +131,11 @@ document.addEventListener('DOMContentLoaded', function() {
       {{ end }}
       <div class="excerpt">
         {{ .Summary | plainify | truncate 300 }}
+        <div class="post-info">
+          {{ partial "badge.html" . }}
+          <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Day }}. {{ index $months (printf "%d" .Date.Month) }} {{ .Date.Year }}</time>
+          {{ partial "engagement.html" . }}
+        </div>
       </div>
     </div>
   </div>

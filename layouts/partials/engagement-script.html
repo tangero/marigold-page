@@ -10,6 +10,7 @@
     if (ids.indexOf(id) < 0) ids.push(id);
   }
   function plural(n, one, few, many) { return n === 1 ? one : (n >= 2 && n <= 4 ? few : many); }
+  function link(href, text) { var a = document.createElement('a'); a.href = href; a.textContent = text; return a; }
   fetch('https://www.vibecoding.cz/api/engagement?site=marigold&ids=' + encodeURIComponent(ids.join(',')), { credentials: 'omit' })
     .then(function (r) { return r.ok ? r.json() : null; })
     .then(function (data) {
@@ -19,13 +20,14 @@
         if (!c) continue;
         var comments = el.hasAttribute('data-no-comments') ? 0 : (c.comments || 0);
         var votes = el.hasAttribute('data-no-rating') ? 0 : (c.votes || 0);
-        var text = [], label = [];
-        if (comments > 0) { text.push('💬 ' + comments); label.push(comments + ' ' + plural(comments, 'komentář', 'komentáře', 'komentářů')); }
-        if (votes > 0) { text.push(votes + ' hodnocení'); label.push(votes + ' hodnocení'); }
-        if (!text.length) continue;
-        el.textContent = '· ' + text.join(' · ');
-        el.setAttribute('title', label.join(', '));
-        el.setAttribute('aria-label', label.join(', '));
+        // Každé číslo vede na svou část pod článkem (#diskuse, #hodnoceni v mg-comments.js).
+        var url = el.getAttribute('data-engagement-url'), parts = [];
+        if (comments > 0) parts.push(link(url + '#diskuse', comments + ' ' + plural(comments, 'komentář', 'komentáře', 'komentářů')));
+        if (votes > 0) parts.push(link(url + '#hodnoceni', votes + ' hodnocení'));
+        for (var k = 0; k < parts.length; k++) {
+          if (k > 0) el.appendChild(document.createTextNode(' · '));
+          el.appendChild(parts[k]);
+        }
       }
     })['catch'](function () {});
 })();
