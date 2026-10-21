@@ -2,5 +2,5 @@
      (vibecoding-site docs/comments.md, „Počty na titulních stránkách“). */}}
 {{ $rating := ne .Params.rating false }}
 {{ $comments := ne .Params.comments false }}
-{{ if or $rating $comments }}<span class="engagement" data-engagement-id="{{ partial "page-id.html" . }}"
+{{ if or $rating $comments }}<span class="engagement" data-engagement-id="{{ partial "page-id.html" . }}" data-engagement-url="{{ .RelPermalink }}"
   {{- if not $rating }} data-no-rating{{ end }}{{ if not $comments }} data-no-comments{{ end }}></span>{{ end }}
