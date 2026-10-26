@@ -22,6 +22,38 @@
   var months = ['ledna', 'února', 'března', 'dubna', 'května', 'června',
     'července', 'srpna', 'září', 'října', 'listopadu', 'prosince'];
 
+  // Imprese se zapíše, až je banner aspoň z poloviny vidět (stejně jako topflix).
+  // Bez ní nejde na vibecoding.cz spočítat CTR marigoldu.
+  function trackImpression(e) {
+    if (!e.impressionUrl) return;
+    var sent = false;
+    function send() {
+      if (sent) return;
+      sent = true;
+      try {
+        var iu = new URL(e.impressionUrl, 'https://www.vibecoding.cz');
+        iu.searchParams.set('site', 'marigold');
+        iu.searchParams.set('surface', surface);
+        iu.searchParams.set('view_id', window.crypto && crypto.randomUUID
+          ? crypto.randomUUID()
+          : Date.now() + '-' + Math.random().toString(36).slice(2));
+        if (navigator.sendBeacon) navigator.sendBeacon(iu.toString());
+        else fetch(iu.toString(), { method: 'POST', keepalive: true, mode: 'no-cors' }).catch(function () {});
+      } catch (_) { /* měření nesmí rozbít stránku */ }
+    }
+    if ('IntersectionObserver' in window) {
+      var observer = new IntersectionObserver(function (entries) {
+        if (entries.some(function (en) { return en.isIntersecting && en.intersectionRatio >= 0.5; })) {
+          observer.disconnect();
+          send();
+        }
+      }, { threshold: [0.5] });
+      observer.observe(container);
+    } else {
+      send();
+    }
+  }
+
   fetch('https://www.vibecoding.cz/api/active-promotion')
     .then(function (r) { return r.json(); })
     .then(function (e) {
@@ -112,6 +144,7 @@
           '</a>';
       }
       container.style.display = '';
+      trackImpression(e);
 
       // Štítek zóny (ad-zone-top.html) — placený slot musí být označen jako reklama.
       var label = zone && zone.querySelector('.ad-zone-label');

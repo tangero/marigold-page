@@ -36,6 +36,7 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
   - Service worker `firebase-messaging-sw.js`, odkaz na `OneSignalSDKWorker.js` v `site.webmanifest`, App ID z `_config_vibecoding.yml`
 
 ### Fixed
+- `static/js/promo-banner.js` posílá beacon zobrazení (`impressionUrl`, `site=marigold`), až je banner aspoň z poloviny vidět. Dosud marigold hlásil jen kliky, takže v administraci vibecoding.cz nešlo spočítat zobrazení ani CTR
 - Promo článků ze Substacku se na produkci nezobrazovalo: Substack vrací IP adresám GitHub Actions 403. Feed se nově stahuje přes proxy `https://www.vibecoding.cz/api/substack-feed` (tangero/vibecoding-site#271)
 - Infografika blackoutu: box Frekvence už neukazuje po celou dobu 50,00 Hz — po výpadku V411 zobrazuje lokální zákmit „50,0 ±0,2 Hz" (žlutý stav; dle zprávy odchylka >200 mHz, která přepnula bloky do otáčkové regulace); nominálních 50,00 Hz během krize je záměr (deficit se dovážel, frekvenci držela synchronní Evropa až do vzniku ostrova)
 - Opraven rozbitý obrázek v článku blackout ENTSO-E: cesta `/assets/blackout-situace.jpg` → `/assets/blackout-situace.png` (soubor v `static/assets/` je PNG)
