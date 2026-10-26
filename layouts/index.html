@@ -43,6 +43,11 @@
 </section>
 {{ end }}
 
+{{- /* Promo zóna (akce a reklamní sloty z vibecoding.cz) - only on first page */ -}}
+{{ if eq $paginator.PageNumber 1 }}
+  {{ partial "ad-zone-top.html" (dict "surface" "homepage") }}
+{{ end }}
+
 {{- /* Audio player */ -}}
 {{ $audioPosts := where $allPages ".Params.audio_url" "!=" nil }}
 

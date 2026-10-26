@@ -1,5 +1,8 @@
+{{- /* Promo zóna. Volání se stránkou → surface „article“, s (dict "surface" "homepage") → titulka. */ -}}
+{{- $surface := "article" -}}
+{{- if reflect.IsMap . }}{{ with .surface }}{{ $surface = . }}{{ end }}{{ end -}}
 <div class="ad-zone-top">
   <div class="ad-zone-label" hidden><span>Naše akce</span></div>
-  <div id="vibecoding-promo" data-utm-campaign="event-promo" style="display:none;"></div>
+  <div id="vibecoding-promo" data-utm-campaign="event-promo" data-surface="{{ $surface }}" style="display:none;"></div>
   <script src="/js/promo-banner.js" defer></script>
 </div>

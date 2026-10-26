@@ -97,7 +97,27 @@
           '/?utm_source=marigold&utm_medium=web&utm_campaign=' + encodeURIComponent(campaign);
       }
 
-      if (e.isPaid) {
+      // Obrázek slotu je cesta na vibecoding.cz; povolené tvary jako isSafeBannerSrc
+      // (vibecoding-site src/lib/promo-slot-image.ts).
+      var imgUrl = '';
+      if (isAd && e.imageUrl) {
+        var ip = String(e.imageUrl);
+        if (ip.indexOf('..') < 0 && ip.indexOf('//') < 0 && ip.indexOf('\\') < 0 &&
+          (/^\/promo-media\/[A-Za-z0-9][A-Za-z0-9_-]{2,80}(\?v=\d+)?$/.test(ip) ||
+            /^\/images\/[A-Za-z0-9._\/-]+\.(jpe?g|png|webp|gif)(\?v=\d+)?$/i.test(ip))) {
+          imgUrl = 'https://www.vibecoding.cz' + ip;
+        }
+      }
+      // Cíl mimo vibecoding.cz otevře nové okno a nese rel=sponsored (jako na vibecoding.cz).
+      var adAttrs = isAd && !e.isInternal ? ' target="_blank" rel="noopener noreferrer sponsored"' : '';
+
+      if (imgUrl) {
+        // Grafický banner reklamního slotu (1800×771)
+        container.innerHTML =
+          '<a href="' + esc(url) + '" class="promo-image-banner"' + adAttrs + '>' +
+            '<img src="' + esc(imgUrl) + '" alt="' + esc(e.imageAlt || e.title) + '" width="1800" height="771" loading="lazy" decoding="async">' +
+          '</a>';
+      } else if (e.isPaid) {
         // Tmavý workshop banner
         var earlyHtml = '';
         if (e.earlyBirdPrice && e.earlyBirdDeadline) {
@@ -129,16 +149,17 @@
       } else {
         // Kompaktní "Naše akce" banner
         container.innerHTML =
-          '<a href="' + url + '" class="promo-card-compact-link">' +
+          '<a href="' + url + '" class="promo-card-compact-link"' + adAttrs + '>' +
             '<div class="promo-card-compact">' +
               '<div class="promo-left">' +
                 (showBadge ? '<span class="promo-badge-sm">' + (isAd ? esc(e.badgeLabel || 'Tip') : 'Naše akce') + '</span>' : '') +
                 '<span class="promo-title-sm">' + esc(e.title) + '</span>' +
                 (dateText ? '<span class="promo-meta">' + esc(dateText) + '</span>' : '') +
                 (e.bannerDescription ? '<span class="promo-meta">' + esc(e.bannerDescription) + '</span>' : '') +
+                (isAd && e.highlight ? '<span class="promo-meta promo-meta-highlight">' + esc(e.highlight) + '</span>' : '') +
               '</div>' +
               '<div class="promo-right">' +
-                '<span class="promo-cta-btn">' + (isAd ? 'Více' : 'Detaily') + ' &rarr;</span>' +
+                '<span class="promo-cta-btn">' + (isAd && e.ctaLabel ? esc(e.ctaLabel) : (isAd ? 'Více' : 'Detaily') + ' &rarr;') + '</span>' +
               '</div>' +
             '</div>' +
           '</a>';
