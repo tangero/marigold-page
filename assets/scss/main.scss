@@ -1821,6 +1821,31 @@ pre:has(code.language-mermaid), code.language-mermaid {
   display: inline-block;
   white-space: nowrap;
 }
+/* Zvýraznění slotu (např. „Early bird končí 29. 10.“) */
+.promo-meta-highlight {
+  color: #b45309;
+  font-weight: 600;
+}
+
+/* Grafický banner reklamního slotu (obrázek 1800×771 z vibecoding.cz) */
+.promo-image-banner {
+  display: block;
+  border-radius: 10px;
+  overflow: hidden;
+  border: 1px solid $border-color;
+  line-height: 0;
+  margin: 0 0 24px 0;
+
+  &:hover { opacity: 0.92; }
+
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+    max-height: 280px;
+    object-fit: cover;
+  }
+}
 
 /*********************/
 /* ARTICLE PEREX     */
