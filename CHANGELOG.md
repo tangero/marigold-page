@@ -26,6 +26,7 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
 - Nový článek „K pirátské a obecné povolební situaci pár čísel a úvah“ (`content/posts/2026/2026-10-12-povolebni-cisla-pirati-2026.md`) s thumbnailem `static/assets/pirati-kandidatka-praha-2026.jpg`
 
 ### Removed
+- Zbytky Firebase (projekt se vypíná): adresář `firebase-functions/` (FCM `subscribeToTopic`), skript `.github/scripts/send_fcm_notifications.py` bez workflow a widget `top.marigold.cz/mg-feedback.js` v legacy Jekyll šabloně `_layouts/post.html`
 - Box „Patrickův newsletter“ z článků (`posts`, `ai`) i jako záloha promo bloku na titulce; nepoužívané styly `.newsletter-cta` z `assets/scss/main.scss`. Na newsletter dál odkazuje promo blok Substacku a patička
 - Úklid mrtvých GitHub Actions workflowů, které plnily Actions tab skipped/šumem:
   - **Podcast**: `generate_podcast.yml`, `podcast-generation.yml` (denní cron + `if: false` → denní skipped runy)

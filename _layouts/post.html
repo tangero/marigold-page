@@ -164,24 +164,8 @@ layout: default
     {% endif %}
   </div>
 
-      <!-- Místo pro widget -->
-
       {% include szn-discussion.html %}
 
-      <div class="posts">
-    <h3>Jak se vám líbí tento článek?</h3>
-
-    <div id="feedback-widget"></div>
-
-    <!-- Widget se vloží do #feedback-widget -->
-    <script
-        src="https://top.marigold.cz/mg-feedback.js"
-        data-slug="{{ page.url | slugify }}"
-        data-title="{{ page.title }}"
-        data-url="{{ site.url }}{{ page.url }}"
-        data-target="#feedback-widget"
-    ></script>
-</div>
 
 
   <!-- Tady začíná odkazování na featured články -->
