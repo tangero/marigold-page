@@ -16,7 +16,7 @@ summary_points:
 - Meta má omezené zkušenosti s hardwarem, úspěch je nejistý.
 - Hlavní motivací je monetizace pozornosti, ne zlepšení světa.
 title: 📘 Meta a Zuckerbergova vize osobní superinteligence
-thumbnail: https://www.marigold.cz/assets/mark-zuckerberg.jpg
+thumbnail: https://www.marigold.cz/assets/mark-zuckerberg.webp
 ---
 
 

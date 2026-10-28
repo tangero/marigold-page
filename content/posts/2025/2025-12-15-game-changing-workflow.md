@@ -6,7 +6,7 @@ categories:
 - AI
 - FOMO
 title: "🤖 Tohle je Game Changing AI workflow 🤡"
-thumbnail: https://www.marigold.cz/assets/boxer.jpg
+thumbnail: https://www.marigold.cz/assets/boxer.webp
 ---
 
 K tomu se musím přiznat, jedna moje úchylka je sledování a pročítání tutoriálů s podobnými nadpisy. Kolem AI se jich rojí kupa a to i v češtině. Přepálená očekávání a ve skutečnosti marginální přínos, většinou vyjásanost nad drobnou funkcí. Tak například včera čtu _"OpenAI potichu spustilo novou funkci - skupinové chaty v ChatGPT, a je to naprostý game changer pro týmovou spolupráci"_. Co se stalo? Do chatu v ChatGPT můžete pozvat další lidi a mohou vidět konverzaci i psát prompty. 

@@ -18,7 +18,7 @@ title: Pokus zvaný Koncernová pětiletka
 <p>Je to socialistický závazek pro letošek. Vyzkoušet elektronické knihy, povrtat se v jejich vydávání, udělat s tím zkušenosti. Přestat teoretizovat, vyzkoušet, spočítat, vyhodnotit. Myšlenková poznámka <a href="/kolik-by-mela-stat-digitalni-knizka-bez-drm-a">stran toho je zde</a>.</p>
 
 
-!(/assets/obalka-knihy-koncernova-petiletka.png)
+!(/assets/obalka-knihy-koncernova-petiletka.webp)
 
 <p>Teď se zabývám doděláním té knihy. Bude se jmenovat <strong>Koncernová pětiletka</strong>, někteří už ji možná četli a zásadní zádrhel, proč se vydání zdrželo je, že se ukázalo, že jsem kdysi ve vzteku vyhodil kus konce. Takže to píšu znovu. A taky si hraju s tím, jak to celé udělat, do toho se starám o věci, o které se starat mám a chci. Nu, nejde to tím pádem extra rychle. Ale cíl je na dohled ...</p>
 

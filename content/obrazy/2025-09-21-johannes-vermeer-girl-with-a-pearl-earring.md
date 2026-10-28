@@ -8,7 +8,7 @@ namalovano: "cca 1665"
 autor: "Johannes Vermeer"
 obraz: "Dívka s perlou"
 styl: "nizozemský zlatý věk, barok"
-urlobrazu: "/assets/obrazy/johannes-vermeer-girl-with-a-pearl-earring.jpg"
+urlobrazu: "/assets/obrazy/johannes-vermeer-girl-with-a-pearl-earring.webp"
 ---
 Dívka s perlou je nádherný portrét mladé ženy s exotickým turbanem a velkou perlovou náušnicí. Vermeerovo mistrovské zacházení se světlem a stínem vytváří intimní, nadčasový okamžik, díky kterému je tento obraz často nazýván 'nizozemskou Monou Lisou'.
 
@@ -22,7 +22,7 @@ Mauritshuis, Haag, Nizozemsko
 - 🖼️ Za života vytvořil pouze asi 45 obrazů
 - 🔍 Možná používal camera obscura jako pomůcku při malování
 
-![Dívka s perlou](/assets/obrazy/johannes-vermeer-girl-with-a-pearl-earring.jpg)
+![Dívka s perlou](/assets/obrazy/johannes-vermeer-girl-with-a-pearl-earring.webp)
 
 ## 🎨 O obraze Dívka s perlou - Girl with a Pearl Earring
 

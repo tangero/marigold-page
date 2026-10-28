@@ -89,7 +89,7 @@ Výsledky prodeje můžeme přehodnocovat, jak chceme. Například můžeme zjis
 
 Pamatujete si, když přicházel přehrávač Microsoft Zune? Pár lidí podlehlo marketingovému mámení Microsoftu a pasovali ho za iPod killera. Sám Steve Balmer odhadoval, že Zune získá získá čtvrtinu trhu. Pokud si najdeme výsledky prodeje, které vydávala NPD Group za leden 2007, podíl iPodu byl 72,7% a podíl Microsoft Zune 3,2%. Zune nic ze svých marketingových cílů nesplnil ani po roční přítomnosti na nejvyspělejším trhu. 
 
-![Podíly iPodu a Zune na trhu](/assets/marketshare_ipod_zune.png)
+![Podíly iPodu a Zune na trhu](/assets/marketshare_ipod_zune.webp)
 
 <h3>Závěr (tentokráte opravdu závěrem)</h3>
 

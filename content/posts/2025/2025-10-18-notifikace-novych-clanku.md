@@ -5,7 +5,7 @@ author: Patrick Zandl
 categories:
 - Marigold
 title: Pošleme vám notifikaci o novém článku
-thumbnail: https://www.marigold.cz/assets/ikona-notifikace.png
+thumbnail: https://www.marigold.cz/assets/ikona-notifikace.webp
 ---
 
 Chcete do svého prohlížeče dostat notifikaci o tom, že na Marigold.cz vyšel nový článek? V pravém dolním rohu máme ikonku zvonečku, která umožní notifikace zapnout a zase vypnout. Notifikace vám přijde do otevřeného prohlížeče. 
@@ -20,7 +20,7 @@ Notifikace si můžete nastavit také zvláště na [serveru Vibecoding.cz](http
 
 Pro nastavení slouží ikonka zvonečku v pravém dolním rohu obrazovky - umožňuje jen notifikace zapnout a vypnout, jiná nastavení nemáme. 
 
-![Ikona notifikace](https://www.marigold.cz/assets/ikona-notifikace.png)
+![Ikona notifikace](https://www.marigold.cz/assets/ikona-notifikace.webp)
 _Takhle ikonka vypadá, ale tahle nefunguje, jen ta v pravém dolním rohu, neplést s levým dolním rohem..._
 
 #### Doručování pouze do konkrétního prohlížeče

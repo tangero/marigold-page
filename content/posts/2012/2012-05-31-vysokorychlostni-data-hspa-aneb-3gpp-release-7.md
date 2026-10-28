@@ -34,7 +34,7 @@ title: Vysokorychlostní data HSPA+ aneb 3GPP Release 7
 
 <p>V MIMO pro HSPA+ R7 se používá koncept 2x2 MIMO, tedy dvě antény na základnové stanici a dvě na uživatelském terminálu, mobilce. Teoretická přenosová rychlost zde může dosáhnout až 28 Mb/s pro downlink, pro uplink v HSPA+ není MIMO využíváno. Jde tedy pouze o zrychlení dat přijímaných na mobilku.</p>
 
-<p><img style="float: right;" src="/assets/mimo-schema.png" alt="Schéma MIMO" width="467" height="379" border="0" /></p>
+<p><img style="float: right;" src="/assets/mimo-schema.webp" alt="Schéma MIMO" width="467" height="379" border="0" /></p>
 
 <p>Používaný technický postup se označuje jako D-TxAA, tedy Double Transmit Antenna Array a jak už jsme si řekli, je aplikován jen nad sdíleným vysokorychlostním downlink kanálem HS-DSCH. Přenášeny jsou dva nezávyslé datové proudy (transportní bloky) ve stejném kanálovém kódu WCDMA, každý je ale zpracováván zcela samostatně a to v závislosti na podmínkách příjmu, které reportuje na uplinku uživatelská mobilka. Oba transportní bloky mohou mít rozdílné modulační i kódovací schéma odvyslé od rychlosti přenosu i podmínkách na rádiovém kanálu. K tomu slouží odezvová signalizace od mobilky zvaná Precoding control Information (PCI) a Channel quality Indicator (CQI). V závislosti na těchto dvou odezvách se plánovač základnové stanice rozhodne distribuovat k mobilce jeden či dva datové streamy, jakou použije velikost packetu (transportního bloku) a jaké modulační schéma použije projednotlivé streamy. Pokud není prostor (z důvodů potíží na rádiu) pro dva transportní streamy, provede se zpravidla přechod na klasické datové schéma R99. </p>
 
@@ -50,11 +50,11 @@ title: Vysokorychlostní data HSPA+ aneb 3GPP Release 7
 
 <p>Přehled kategorií mobilek dle downlinku podle modulace a využití MIMO je v následující tabulce:</p>
 
-<p><img style="display: block; margin-left: auto; margin-right: auto;" src="/assets/kategorie-hspa-ue.png" alt="Kategorie zařízení v UMTS" width="378" height="600" border="0" /></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="/assets/kategorie-hspa-ue.webp" alt="Kategorie zařízení v UMTS" width="378" height="600" border="0" /></p>
 
 <p>Na uplinku je nyní možno používat 16QAM, takže přenosová rychlost na uplink kanálu HSPA+ je nově až 11,5 Mb/s. V další tabulce jsou kategorie zařízení podle uplinku. </p>
 
-<p><img style="display: block; margin-left: auto; margin-right: auto;" src="/assets/hsdupa-kategorie.png" alt="Kategorie mobilek pro uplink" width="456" height="280" border="0" /></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="/assets/hsdupa-kategorie.webp" alt="Kategorie mobilek pro uplink" width="456" height="280" border="0" /></p>
 
 ## Continuous Packet Connectivity (CPC)
 
@@ -64,10 +64,10 @@ title: Vysokorychlostní data HSPA+ aneb 3GPP Release 7
 
 <p>Sečteno a podtrženo, HSPA+ v Release 7 přináší zdvojnásobení kapacity pro data i pro hlasové přenosy při stejném objemu využitého rádiového spektra. Je dosaženo rychlejší odezvy datové sítě a nižší spotřeba energie.</p>
 
-<p><img style="display: block; margin-left: auto; margin-right: auto;" src="/assets/mimo-rychlosti.png" alt="Rychlosti v Release 7" width="500" height="287" border="0" /></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="/assets/mimo-rychlosti.webp" alt="Rychlosti v Release 7" width="500" height="287" border="0" /></p>
 
 <p>V tomto grafu vidíte simulované porovnání teoretické datové kapacity sektoru na nosné o šířce 5 MHz mezi HSPA (Release 6) a HSPA+ (Release 7): </p>
 
-<p><img style="display: block; margin-left: auto; margin-right: auto;" src="/assets/release7-rychlosti.png" alt="Porovnání datové kapacity sektoru v HSPA a HSPA+" width="500" height="378" border="0" /></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="/assets/release7-rychlosti.webp" alt="Porovnání datové kapacity sektoru v HSPA a HSPA+" width="500" height="378" border="0" /></p>
 
 <p>Uživatel má také k dispozici až 28 Mb/s pro download a až 11,5 Mb/s pro upload dat – pokud samozřejmě podmínky sítě dovolí. Jelikož ale část funkcí je dovedena k užitnému stavu v Release 8, používá se pro HSPA+ v praxi spřažená Release 7/8 – například 64QAM pro MIMO definguje až R8 a bylo by smutné, nemít ji k dispozici. Na další drobnosti z R8, které jsem tu nepostihl, se podíváme někdy jindy.</p>

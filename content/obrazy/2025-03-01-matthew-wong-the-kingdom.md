@@ -8,7 +8,7 @@ namalovano: 2017
 autor: Matthew Wong
 obraz: The Kingdom
 styl: expresionismus
-urlobrazu: /assets/obrazy/matthew-wong-the-kingdom-2017.jpg
+urlobrazu: /assets/obrazy/matthew-wong-the-kingdom-2017.webp
 ---
 
 Matthew Wong (1984–2019) byl jedním z nejpozoruhodnějších malířů své generace 🖌️. Narodil se v Kanadě, ale velkou část dětství strávil v Hongkongu. Tato kulturní dualita se odráží v jeho tvorbě.  Předtím, než se začal věnovat malbě, studoval fotografii a psal poezii. Jeho láska k literatuře ovlivnila i jeho vizuální styl. Ačkoliv se malbě začal věnovat až ve svých dvaceti letech, jeho díla si rychle získala uznání díky své poetické atmosféře a mistrovskému propojení expresionismu, postimpresionismu a čínské krajinomalby. Inspiraci čerpal u Van Gogha, Matisse, Bonnarda, ale přesto vytvořil zcela unikátní styl, který vyjadřoval hluboké emoce, introspekci a melancholii.
@@ -19,7 +19,7 @@ Kontrast mezi zlatavými slunečnicemi a temným pozadím vytváří napětí me
 
 Obraz zjevně vychází ze slunečnic van Gogha. Van Gogh maloval své Slunečnice (1888-1889) jako symbol přátelství a naděje, ale v jeho malbě lze cítit i osobní vnitřní boj. U Wonga slunečnice získávají symbol osamělosti a pomíjivosti. Matthew Wong se nepochybně inspiroval van Goghem, ale jeho Slunečnice jsou mnohem temnější, hloubavější a symboličtější. Zatímco Van Gogh viděl v květinách přátelství a cyklus života, Wong je vkládá do tajuplného prostoru, kde se realita mísí se vzpomínkami a snem. Oba mistři využívají stejný motiv, ale s odlišným emocionálním poselstvím.
 
-![Matthew Wong - The Sunflower](/assets/obrazy/matthew-wong-the-sunflower.jpg)
+![Matthew Wong - The Sunflower](/assets/obrazy/matthew-wong-the-sunflower.webp)
 
 ### 2️⃣ Království - The Kingdom” 🍂💛 
 
@@ -32,7 +32,7 @@ Obraz zjevně vychází ze slunečnic van Gogha. Van Gogh maloval své Slunečni
 🔹 Introspekce a melancholie – I když je les plný života, působí osaměle a meditativně. Scéna může symbolizovat útěk do jiného světa, hledání klidu či spirituality, motivy ve Wongových obrazech tak časté. 
 
 
-![Matthew Wong - The Kingdom](/assets/obrazy/matthew-wong-the-kingdom-2017.jpg)
+![Matthew Wong - The Kingdom](/assets/obrazy/matthew-wong-the-kingdom-2017.webp)
 
 🎭 Wongův život byl plný introspekce a zápasu s depresemi, což se odráží i v jeho dílech – oscilují mezi radostí z přírody a tichou osamělostí. Bohužel, odešel příliš brzy, ale jeho umění zůstává jako most mezi snem a realitou, světlem a temnotou.
 
@@ -42,4 +42,4 @@ Wongovy obrazy ve srovnání s dílem van Gogha nyní vystavuje [vídeňská Alb
 
 Na závěr si dáme nejdražší Wongův obraz, jímž je **River at Dusk** - Řeka za soumraku z roku 2018. Obraz aukční síť Sotherbys vydražila v roce 2023 za 6,6 milionů dolarů, přičemž o tři roky dříve se vydražil týž obraz za 4,9 milionů dolarů. 
 
-![Matthew Wong - The River at Dusk](/assets/obrazy/wong-river-at-dusk.jpg)
+![Matthew Wong - The River at Dusk](/assets/obrazy/wong-river-at-dusk.webp)

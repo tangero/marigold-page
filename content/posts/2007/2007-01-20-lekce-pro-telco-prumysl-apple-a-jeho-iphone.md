@@ -33,7 +33,7 @@ Podívejme se tedy na pár podstatných věcí, které jste možná ještě neč
 
 Média ihned a ráda upozornila na fakt, že podobné telefony, jako je iPhone, již existují a dokumentují to na modelu z dílny <a href="http://mobil.idnes.cz/lg-prada-konkurence-pro-iphone-v-luxusnim-vydani-f6w-/mob-lg.asp?c=A070118_132529_mob-lg_ada">LG Prada</a>. Ano, v zásadě mají pravdu, LG Prada je iPhone velmi podobná. 
 
-![porovnání: vlevo Apple iPhone, vpravo LG Prada](/assets/iphone-vs-lgprada.jpg)
+![porovnání: vlevo Apple iPhone, vpravo LG Prada](/assets/iphone-vs-lgprada.webp)
 
 <em>porovnání: vlevo Apple iPhone, vpravo LG Prada</em>
 

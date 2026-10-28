@@ -23,7 +23,7 @@ Nejprve upozornění: Deep Research funguje jen v angličtině, pokud máte prod
 
 > **Upozornění:** Zejména v případě, že k tématu je příliš málo dat, má AI tendenci "halucinovat". Ověřte si tedy všechna tvrzení, na kterých záleží. Počítejte také s tím, že DR vám nenavrhne nové přelomové řešení, spíše sumarizuje (na webu) existující možnosti a navrhne další postup. Samotný další výzkum ale už neprovede.  
 
-![Volba Deep Research je vidět jen v anglické verzi](/assets/deep-research-option.png)
+![Volba Deep Research je vidět jen v anglické verzi](/assets/deep-research-option.webp)
 
 Vyzkoušíme něco složitého, na co nejde "vygooglovat" jednoduchá a přímočará odpověď, ale na co je opravdu udělat průzkum.
 
@@ -33,7 +33,7 @@ Moje téma: chci zjistit, jaké jsou možnosti zjištění váhy vozidla pouze n
 
 Po zadání otázky vytvoří Deep Research vícestupňový plán výzkumu, který můžete buď upravit, nebo schválit. Vypadá to nějak takhle:
 
-![Vstupní zadání a návrh plánu výzkumu](/assets/deep-research-input.png)
+![Vstupní zadání a návrh plánu výzkumu](/assets/deep-research-input.webp)
 
 Jakmile jej schválíte (přijal jsem jej beze změn), začne za vás hloubkově analyzovat relevantní informace z celého webu, které trvá "několik minut" - já si šel uvařit čaj, když jsem se za pár minut vrátil, bylo hotovo. K dispozici je plný textový výstup, který si na požádání můžete převést do Google Dokumentů, na [tomto linku je výstup pro tento výzkum](https://docs.google.com/document/d/174FI2IgVk-xXkpvVFePtpTx1i0I_M_gyqozAgbDMY_0/edit?usp=sharing).  
 
@@ -57,7 +57,7 @@ Tak ať se vám Google Gemini Deep Research dobře používá!
 
 Pro porovnání dávám výstup, který mi na stejný dotaz [dává Perplexity.ai](https://www.perplexity.ai/search/research-all-the-possibilities-n10dzsMUSt2bUgdPZCHH0g) v placené Pro verzi ve všeobecném režimu:
 
-![Perplexity.ai odpověď](/assets/perplexity-pretezovani.png)
+![Perplexity.ai odpověď](/assets/perplexity-pretezovani.webp)
 
 A pokud se zeptáte v Pro módu v akademickém režimu, dostanete výrazně stručnější odpověď, ale také dobře návodnou:
 

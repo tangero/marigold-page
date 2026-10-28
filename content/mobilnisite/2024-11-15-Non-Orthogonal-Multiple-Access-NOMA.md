@@ -19,7 +19,7 @@ Základním principem NOMA je současné vysílání signálů od různých uži
 
 Pro rozlišení těchto překrývajících se signálů se na přijímací straně využívá sofistikovaná technika nazvaná **Successive Interference Cancellation (SIC)**. Tento proces funguje postupně - nejprve dekóduje nejsilnější signál z přijatého složeného signálu. Po úspěšném dekódování je tento silný signál odečten od původního přijatého signálu, což umožní dekódovat další, slabší signál. Tento proces se opakuje, dokud nejsou dekódovány všechny překryté signály.
 
-![Non-Orthogonal Multiple Access (NOMA)](/assets/OFDMA-II-NON-ORTHOGONAL-MULTIPLE-ACCESS-NOMA.png)
+![Non-Orthogonal Multiple Access (NOMA)](/assets/OFDMA-II-NON-ORTHOGONAL-MULTIPLE-ACCESS-NOMA.webp)
 
 Díky tomuto přístupu NOMA dosahuje výrazně vyšší spektrální účinnosti než tradiční přístupové metody. Umožňuje obsloužit více uživatelů současně a snižuje latenci komunikace. Zároveň však klade vyšší nároky na implementaci, především v oblasti SIC dekódování a přesného řízení výkonu. Přijímače musí být výpočetně výkonnější, aby zvládly složitější zpracování signálu. I přes tyto výzvy představuje NOMA významný krok vpřed v oblasti přístupových metod a je považována za klíčovou technologii pro zvyšování kapacity budoucích mobilních sítí.
 
@@ -33,7 +33,7 @@ Tato technika je obzvláště účinná v situacích, kdy síť musí obsloužit
 
 Na tomto nákresu je dobře vidět, jak se NOMA liší od jiných multiplexovacích technologií včetně OFDMA:
 
-![NOMA versus ostatní multiplexovací technologie](/assets/porovnani-noma.png)
+![NOMA versus ostatní multiplexovací technologie](/assets/porovnani-noma.webp)
 
 ### Uplatnění a vývoj NOMA
 

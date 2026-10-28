@@ -8,7 +8,7 @@ namalovano: 1930
 autor: "Piet Mondrian"
 obraz: "Kompozice II v červené, žluté a modré"
 styl: neoplasticismus
-urlobrazu: "/assets/obrazy/piet-mondrian-composition-ii-in-red-yellow-and-blue.jpg"
+urlobrazu: "/assets/obrazy/piet-mondrian-composition-ii-in-red-yellow-and-blue.webp"
 ---
 Composition II in Red, Yellow, and Blue je ikonické dílo nizozemského umělce Pieta Mondriana, které představuje vrchol jeho neoplastického období. Toto dílo je považováno za jeden z nejdůležitějších příkladů abstraktního umění 20. století a definuje principy hnutí De Stijl.
 
@@ -22,7 +22,7 @@ Muzeum moderního umění, New York, USA
 - 📐 Vyvinul vlastní umělecký styl nazvaný neoplasticismus
 - 🎯 Nikdy nepoužíval pásku k vytvoření rovných linií, vše maloval od ruky
 
-![Kompozice II v červené, žluté a modré](/assets/obrazy/piet-mondrian-composition-ii-in-red-yellow-and-blue.jpg)
+![Kompozice II v červené, žluté a modré](/assets/obrazy/piet-mondrian-composition-ii-in-red-yellow-and-blue.webp)
 
 ## 🎨 O obraze Kompozice II v červené, žluté a modré - Composition II in Red, Yellow, and Blue
 

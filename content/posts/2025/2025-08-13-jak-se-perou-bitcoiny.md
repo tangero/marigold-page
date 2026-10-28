@@ -5,7 +5,7 @@ audio: true
 author: Patrick Zandl
 categories:
 - bitcoin
-thumbnail: https://www.marigold.cz/assets/tomas_jirikovsky.jpeg
+thumbnail: https://www.marigold.cz/assets/tomas_jirikovsky.webp
 title: "Jak vyprat bitcoiny z Jiříkovského kauzy?"
 ---
 

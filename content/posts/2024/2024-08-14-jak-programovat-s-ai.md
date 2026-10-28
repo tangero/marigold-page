@@ -12,7 +12,7 @@ summary_points:
 - Proces tvorby programu s AI je iterativní.
 - Python a Flask jsou vhodné pro začátečníky.
 - Heroku doporučeno pro snadné nasazení aplikací.
-thumbnail: https://www.marigold.cz/assets/prgramovani-s-ai.png
+thumbnail: https://www.marigold.cz/assets/prgramovani-s-ai.webp
 title: Návod na programování s AI, když programovat neumíte
 ---
 

@@ -8,12 +8,12 @@ namalovano: 2023
 autor: Charlotte Keates
 obraz: Dům ukrývá snění
 styl: architektonický surrealismus
-urlobrazu: /assets/obrazy/charlotte-keates-the-house-shelters-daydreaming.jpg
+urlobrazu: /assets/obrazy/charlotte-keates-the-house-shelters-daydreaming.webp
 ---
 
 Její tvorbu charakterizuje unikátní spojení architektury 60. a 70. let s moderním přístupem k prostoru. Vytváří imaginární interiéry, které vás vtáhnou do světa, kde se realita mísí se snem. Originální název tohoto obrazu z roku 2023 je *The house shelters daydreaming*. 
 
-![Charlotte Keates - The house shelters daydreaming - 2023](/assets/obrazy/charlotte-keates-the-house-shelters-daydreaming.jpg)
+![Charlotte Keates - The house shelters daydreaming - 2023](/assets/obrazy/charlotte-keates-the-house-shelters-daydreaming.webp)
 
 
 Charlotte Keates vystudovala malbu na Falmouth University a její první samostatná výstava se konala v Arusha Gallery v Edinburghu 2017.
@@ -26,7 +26,7 @@ Charlotte Keates vystudovala malbu na Falmouth University a její první samosta
 🟩 Pracuje s texturou barvy jako s integrální součástí díla 
 👩‍🦰 Mezi její oblíbené současné umělkyně patří Mamma Andersson, Cecily Brown, Rachel Whiteread
 
-![Novel unbegun 2023](/assets/obrazy/arushagallery-charlotte-keates-novel-unbegun-2023.jpg)
+![Novel unbegun 2023](/assets/obrazy/arushagallery-charlotte-keates-novel-unbegun-2023.webp)
 (obraz z roku 2023 pod názvem Novel unbegun)
 
 
@@ -42,4 +42,4 @@ A na koho Keatestová navazuje? Osobně tu vidím několik několik inspirací, 
 4. Giorgio de Chirico - v surrealistickém pojetí architektury a perspektivy, vytváření snového prostředí
 5. René Magritte - zejména v práci s perspektivou a vytvářením paradoxních prostorů
 
-![Charlote Keatesová ve svém studiu při práci](/assets/obrazy/charlotte-keates-studio.jpg)
+![Charlote Keatesová ve svém studiu při práci](/assets/obrazy/charlotte-keates-studio.webp)

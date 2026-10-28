@@ -10,7 +10,7 @@ summary_points:
 - AI odstartovala moderní éru a přináší významná rizika.
 - Svět je křehký kvůli klimatickým změnám, nerovnosti a nedůvěře.
 - Budoucnost AI není daná, můžeme ji aktivně utvářet.
-thumbnail: https://www.marigold.cz/assets/oktagon-rizik-ai.png
+thumbnail: https://www.marigold.cz/assets/oktagon-rizik-ai.webp
 title: "\U0001F36F Oktagon rizik AI -  Křehká pozornost v křehkém světě"
 ---
 
@@ -30,7 +30,7 @@ Jenže před dvěmi lety, když jsem psal svoji knihu [Mýty a naděje digitáln
 
 Do tohoto křehkého stavu světa, v němž se kymácejí všechny dosavadní jistoty, vstupuje umělá inteligence s prohlášením „Pozornost je vše, co potřebujete“. Zaměřme tedy pozornost na **oktagon rizik, která AI přináší**.
 
-![Oktagon rizi, která AI přináší](/assets/oktagon-rizik-ai.png)
+![Oktagon rizi, která AI přináší](/assets/oktagon-rizik-ai.webp)
 
 Na obrázku je vidět můj návrh takového oktagonu: **osmičky zásadních rizik, jež AI do světa přináší nebo je posiluje**. Žlutě jsou rizika nová, růžově prouhloubení stávajících výzev. Pojďme se u nich v bodech zastavit:
 

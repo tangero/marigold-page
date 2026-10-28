@@ -8,7 +8,7 @@ namalovano: 1937
 autor: "Pablo Picasso"
 obraz: Guernica
 styl: "kubismus, surrealismus"
-urlobrazu: /assets/obrazy/pablo-picasso-guernica.jpg
+urlobrazu: /assets/obrazy/pablo-picasso-guernica.webp
 ---
 
 Guernica je monumentální protiválečné dílo Pabla Picassa, které zachycuje hrůzu bombardování baskického města Guernica během španělské občanské války. Tento černobílý obraz se stal univerzálním symbolem proti válečným atrocitám.
@@ -23,7 +23,7 @@ Museo Reina Sofía, Madrid, Španělsko
 - 🇪🇸 Španělského původu, většinu života strávil ve Francii
 - 🕊️ Guernica byla jeho nejsilnější politické prohlášení
 
-![Guernica](/assets/obrazy/pablo-picasso-guernica.jpg)
+![Guernica](/assets/obrazy/pablo-picasso-guernica.webp)
 
 ## 🎨 O obraze Guernica
 

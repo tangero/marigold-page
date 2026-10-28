@@ -8,7 +8,7 @@ categories:
 content_hash: bf01d0badafe54ce81b4e0be2a924029
 original_lang: cs
 permalink: /en/item/jak-to-bylo-s-pomazankovym-maslem/
-thumbnail: https://www.marigold.cz/assets/pomazankove-maslo.png
+thumbnail: https://www.marigold.cz/assets/pomazankove-maslo.webp
 title: How was the butter spread story in EU?
 ranslated: true
 ---

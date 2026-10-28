@@ -12,7 +12,7 @@ summary_points:
 - Modely nabízejí hybridní architekturu s rychlým a rozšířeným režimem uvažování.
 - Výkon v programování překonává konkurenci, ale reasoning vykazuje nerovnoměrné výsledky.
 - Ceny zůstávají stejné s novými funkcemi jako hodinové prompt caching a Files API.
-thumbnail: https://www.marigold.cz/assets/claude4.png
+thumbnail: https://www.marigold.cz/assets/claude4.webp
 title: Claude Opus 4 a Claude Sonnet 4 pod drobnohledem
 ---
 

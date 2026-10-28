@@ -13,7 +13,7 @@ summary_points:
   - Úspěch přichází hlavně pod místními názvy kandidátek, značka Piráti podle všeho stigmatizuje
   - Kandidátů ubylo o třetinu, samostatných kandidátek z 89 na 35 a průměrný věk kandidátů roste
 title: "K pirátské a obecné povolební situaci pár čísel a úvah"
-thumbnail: https://www.marigold.cz/assets/pirati-kandidatka-praha-2026.jpg
+thumbnail: https://www.marigold.cz/assets/pirati-kandidatka-praha-2026.webp
 ---
 
 Potřetí jsem byl zvolen zastupitelem v Brandýse-Boleslavi. Děkuji za to. Piráti ve městě spadli z 9 % na 6 % (pod mým vedením). Situaci s přehledem ovládlo místní občanské sdružení Naše dvojměstí, které dostalo téměř 40 % hlasů a vymetlo z velké části všechny strany. Lídrovi jsem k tomu gratuloval, impozantní výkon. Snad jej nyní doprovodí i splnění slibů, které byly občanům dány.

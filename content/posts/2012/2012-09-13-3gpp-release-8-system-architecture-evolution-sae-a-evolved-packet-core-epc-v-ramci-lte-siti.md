@@ -29,7 +29,7 @@ title: 3GPP Release 8 -  System Architecture Evolution (SAE) a Evolved Packet Co
 
 <p>EPC je již dosti plochá struktura založená na IP protokolu a na tom, že co není potřeba centralizovat, jest decentralizováno. Důležité je tedy zejména ono rozšíření podpory IP vrstvy na všechny strany, moderně řečeno <em>end-to-end</em>. Už není žádný výstup do okruhového spínání, jak jej zajištovalo v 3G IMS respektive samotná okruhově spínaná doména. S čímž souvisí také to, že přenos hlasu se v rámci LTE dostal poněkud na vedlejší kolej, počítalo se s ním spíše v rámci další specifikace a také vznikl mechanismus vypuzení hlasového hovoru zpět do WCDMA/2G sítě (fallback) - což UMTS k vlastní škodě nemělo. Je třeba říct, že odříznutím hlasu si LTE ušetřilo hodně práce a také hodně starostí, na druhou stranu si očekávání příchodu hlasu přes VoIP (pamatujme si zkratku <strong>VoLGA</strong> - Voice over LTE via Generic Access) logicky vynutilo řízení kvality přenosu dat přes QoS - místy se celému mechanismu řízení datového toku také říká Quality of Experience, QoE.</p>
 
-<p><img src="/assets/epc-cn1.png" alt="Zjednodušení Core Network na EPC" width="500" height="269" border="0" /></p>
+<p><img src="/assets/epc-cn1.webp" alt="Zjednodušení Core Network na EPC" width="500" height="269" border="0" /></p>
 
 <p><em>Na obrázku je vidět zjednodušení architektury i datových toků, jehož se dosáhlo při přechodu z konstrukce Core Network (Jádra sítě) u UMTS/3G k Evolved Packet Core. Autorem obrázku je Motorola. </em></p>
 
@@ -51,7 +51,7 @@ title: 3GPP Release 8 -  System Architecture Evolution (SAE) a Evolved Packet Co
 
 <p>Na obrázku je vidět schéma LTE sítě s EPC, klasickou GSM/UMTS sítí a sítí CDMA. </p>
 
-<p><img src="/assets/epc-lte.png" alt="EPC v LTE síti" width="500" height="317" border="0" /></p>
+<p><img src="/assets/epc-lte.webp" alt="EPC v LTE síti" width="500" height="317" border="0" /></p>
 
 <h3>SGW</h3>
 <p>Obslužná brána je rozhraním mezi jednotlivými eNodeB a samotným jádrem sítě, konkrétně rozhraním k PGW, bráně sítě paketových dat. Pokud se uživatel pohybuje mezi eNodeB, pořád vstupuje do jádra sítě přes stejnou SGW (což může ovšem znamenat i to, že jich více v síti není) - tomu se říká Mobilní Kotva. Mobilní ukotvení je důležité při výstupu do ne-LTE sítě, jako jsou 2G/3G, kde SGW zprostředkovává mobilní rozhraní, nebo při přerušení připojení třeba za pohybu.</p>
@@ -84,7 +84,7 @@ title: 3GPP Release 8 -  System Architecture Evolution (SAE) a Evolved Packet Co
 </ul>
 <p>Na obrázku je to vidět o něco názorněji <em>(autor nákresu je Alcatel)</em>: </p>
 
-<p><img src="/assets/tok-dat-lte.png" alt="Tok dat v rámci LTE sítě" width="500" height="176" border="0" /></p>
+<p><img src="/assets/tok-dat-lte.webp" alt="Tok dat v rámci LTE sítě" width="500" height="176" border="0" /></p>
 
 <p>Je třeba znovu a důrazně si připomenout, že EPC je velmi významná změna (ne-li nejvýznamnější) v přístupu k mobilním komunikacím, v níž okruhové spínání plně nahrazuje spínání paketové, tedy dochází k implementaci přístupu All-IP.</p>
 

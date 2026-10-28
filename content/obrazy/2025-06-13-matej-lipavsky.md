@@ -8,7 +8,7 @@ namalovano: 2025
 autor: Matěj Lipavský
 obraz: Zimní zahrada
 styl: expresivní plenérismus
-urlobrazu: /assets/obrazy/matej-lipavsky-zimni-zahrada.jpeg
+urlobrazu: /assets/obrazy/matej-lipavsky-zimni-zahrada.webp
 ---
 
 Matěj Lipavský (*1985) je malířem a básníkem v jedné osobě, sám říká, že jeho obrazy otevírají  něco v něm samém a dost možná i shodou okolností v jiných lidech. 
@@ -22,7 +22,7 @@ Matěj Lipavský (*1985) je malířem a básníkem v jedné osobě, sám říká
 
 _Povšimněte si barevného rozdílu - jde o stejná plátna, jen jiné světlo při focení. První fotografie (oficiální) je mnohem jasnější, ta moje (za podvečerního slunce bez světla) je mnohem temnější a obrazu propůjčuje zcela jinou atmosféru._
 
-![Matěj Lipavský - Zimní krajina](/assets/obrazy/matej-lipavsky-zimni-zahrada.jpeg)
+![Matěj Lipavský - Zimní krajina](/assets/obrazy/matej-lipavsky-zimni-zahrada.webp)
 
 **Obraz Zimní zahrada**
 
@@ -46,6 +46,6 @@ Galerie Jana Čejky je v Praze v areálu Kampusu Hybernská, který sám o sobě
 
 A na závěr si dáme ještě akryl Třešeň... Ten jsem na výstavě nejdříve přehlédl, ale teprve z většího odstupu čtyř metrů obraz umí udělat parádní dojem. Na něj přesně sedí "zkušební hřebík", o kterém Lipavský mluvil. To si doma pověsí obraz na zkušební hřebík a zkoumá, jak k němu obraz promlouvá v _běžném provozu_....  
 
-![Matěj Lipavský - Třešeň](/assets/obrazy/matej-lipavsky-tresen.jpeg)
+![Matěj Lipavský - Třešeň](/assets/obrazy/matej-lipavsky-tresen.webp)
 
 Web má [Matěj Lipavský zde](https://jancejkagallery.com/matej-lipavsky/).

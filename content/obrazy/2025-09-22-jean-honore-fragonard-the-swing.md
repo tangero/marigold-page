@@ -8,7 +8,7 @@ namalovano: 1767
 autor: "Jean-Honoré Fragonard"
 obraz: Houpačka
 styl: rokoko
-urlobrazu: "/assets/obrazy/jean-honore-fragonard-the-swing.jpg"
+urlobrazu: "/assets/obrazy/jean-honore-fragonard-the-swing.webp"
 ---
 The Swing (francouzsky Les Hasards Heureux de l'Escarpolette) je mistrovské dílo francouzského rokokového malíře Jean-Honoré Fragonarda. Obraz zachycuje hravou, lehkovážnou atmosféru francouzské aristokracie 18. století a je považován za jedno z nejvýznamnějších děl období rokoka.
 
@@ -22,7 +22,7 @@ Wallace Collection, Londýn, Velká Británie
 - 🏰 Pracoval pro Madame du Barry, milenku Ludvíka XV.
 - 🖼️ Vytvořil přes 550 obrazů za svůj život
 
-![Houpačka](/assets/obrazy/jean-honore-fragonard-the-swing.jpg)
+![Houpačka](/assets/obrazy/jean-honore-fragonard-the-swing.webp)
 
 ## 🎨 O obraze Houpačka - The Swing
 

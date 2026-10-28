@@ -6,7 +6,7 @@ categories:
 layout: post
 post_excerpt: Jak implementovat AI do firem? Jak začít umělou inteligenci využívat pro práci? Přichystal jsem vám příručku. PDF verzi si můžete stáhnout zdarma, na dubnovém Vibecoding Talks budou i tištěné.
 title: Jak začít umělou inteligenci využívat pro práci? Ebook zdarma!
-thumbnail: https://www.marigold.cz/assets/ebook-ai-ve-firmach.png
+thumbnail: https://www.marigold.cz/assets/ebook-ai-ve-firmach.webp
 ---
 
 Jak implementovat AI do firem? Jak začít umělou inteligenci využívat pro práci? Přichystal jsem vám příručku. [PDF verzi si můžete stáhnout zdarma](https://www.vibecoding.cz/prirucka/?utm_source=marigold&utm_medium=blog&utm_campaign=ai-prirucka), na dubnovém [Vibecoding Talks](https://www.vibecoding.cz/akce/vibecoding-talks-duben-2026?utm_source=marigold&utm_medium=blog&utm_campaign=ai-prirucka) budou i tištěné.

@@ -8,13 +8,13 @@ namalovano: 1972
 autor: David Hockney
 obraz: Portrét umělce (Bazén se dvěma postavami)
 styl: pop-art
-urlobrazu: /assets/obrazy/david-hockney-portrait-of-an-artist.jpg
+urlobrazu: /assets/obrazy/david-hockney-Portrait-of-an-Artist.webp
 ---
 
 
 Ikonické dílo “Portrait of an Artist (Pool with Two Figures)” z roku 1972 je jednou z nejlepších ukázek Hockneyho talentu a popartu. 🌐
 
-![David Hockney - Portrét umělce (Bazén se dvěma postavami) (1972)](/assets/obrazy/david-hockney-portrait-of-an-artist.jpg)
+![David Hockney - Portrét umělce (Bazén se dvěma postavami) (1972)](/assets/obrazy/david-hockney-Portrait-of-an-Artist.webp)
 
 ☀️ Tento obraz zachycuje dva muže u bazénu v slunné Kalifornii \
 👨‍💬 Nad bazénem stojí bývalý Hockneyho partner Peter Schlesinger \
@@ -31,10 +31,10 @@ David Hockney (*1937) je považován za jednoho z nejvlivnějších britských u
 
 Tady to vidíte na příkladu nejoceňovanějšího The Arrival of Spring in Normandy No. 258, 27th April 2020, No. 1
 
-![The Arrival of Spring in Normandy No. 258, 27th April 2020, No. 1](/assets/obrazy/david-hockney-spring-in-normandy-258.jpeg)
+![The Arrival of Spring in Normandy No. 258, 27th April 2020, No. 1](/assets/obrazy/david-hockney-spring-in-normandy-258.webp)
 
 A tady je Arrival of Spring in Woldgate, East Yorkshire z roku 2011
 
-![David Hockney, Arrival of Spring in Woldgate, East Yorkshire - 2011](/assets/obrazy/david-hockney-arrival-of-spring-in-woldgate-east-yorkshire.jpg)
+![David Hockney, Arrival of Spring in Woldgate, East Yorkshire - 2011](/assets/obrazy/david-hockney-arrival-of-spring-in-woldgate-east-yorkshire.webp)
 
 Hockney je známý svým jedinečným stylem, který zahrnuje živé barvy, experimenty s perspektivou a schopnost zachytit esenci kalifornského životního stylu. Jeho tvorba zahrnuje malby, kresby, fotografie i scénické návrhy. 🏝️ 

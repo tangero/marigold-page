@@ -14,7 +14,7 @@ summary_points:
   propuštěn podmínečně v roce 2021.
 - Ministerstvo spravedlnosti přijalo dar bitcoinů od Jiříkovského, což vyvolalo podezření
   z legalizace výnosů z trestné činnosti.
-thumbnail: https://www.marigold.cz/assets/tomas_jirikovsky.jpeg
+thumbnail: https://www.marigold.cz/assets/tomas_jirikovsky.webp
 title: "\U0001F411 Sheep Marketplace - jak Tomáš Jiříkovský a ministr spravedlnosti
   k bitcoinům přišli"
 ---
@@ -32,18 +32,18 @@ Pro začátek Jiřikovského podnikání v kryptoměnách se podívejme do roku 
 
 Případ Silk Road poukázal na potenciál takových zprostředkovatelských tržišť. A tak se záhy na darkwebu, v temných hlubinách internetu přístupných jen "zasvěcencům", nikoliv však Google, objevují následovníci. Hned v květnu 2013, ještě před Ulbrichtovým zatčením v říjnu 2013, je na Bitcoin Forum publikován inzerát propagující Sheep Marketplace.
 
-![Bitcoin Forum](/assets/sheep-bitcoinforum.png)
+![Bitcoin Forum](/assets/sheep-bitcoinforum.webp)
 
 
 Příspěvek je sice psaný začátečnickou angličtinou, později lingvisté usoudí, že s chybami typickými pro slovanský jazyk (chybí členy, slovosled je spíše slovanský, problémy s předložkami atd) - a také je zde zmíněn český framework Nette.
 
 Sheep Marketplace jde postupně nahoru, největší impuls k rozmachu získává v říjnu 2013, kdy je uzavřena Silk Road. V zásadě jde o jednoduché diskusní fórum, kde se párují nabídky a poptávky, kupující dává své bitcoiny do úschovy na tržišti (escrow) a pokud je obchod k obapolné spokojenosti vyrovnán, tržiště provede převod, přičemž si ponechává provizi.
 
-![Sheep Marketplace - račte nakoupit](/assets/sheepmarket.png)
+![Sheep Marketplace - račte nakoupit](/assets/sheepmarket.webp)
 
 Vše funguje dobře až do 21.11.2013, kdy uživatel EBOOK101 přijde na to, jak využít chybu v tržišti. Tato chyba umožnila, aby EBOOK101 opakovaně vybíral Bitcoiny z escrow účtu, aniž by systém správně ověřoval, zda už byly prostředky skutečně uvolněny a transakce dokončena. Výsledkem bylo, že mohl převést mnohem více Bitcoinů, než mu ve skutečnosti náleželo, a tímto způsobem odčerpal z tržiště desítky tisíc BTC. Tržiště následně uzavírá převody peněz z úschovy a 2. prosince 2013 končí úplně. Jeho (zatím stále neznámý) provozovatel se taví se do role poškozeného.
 
-![Sheep is down](/assets/sheep-is-down.jpg)
+![Sheep is down](/assets/sheep-is-down.webp)
 
 Nejdříve se v roce 2014 vyřešila ona prvotní krádež 5400 bitcoinů. FBI si pohlídala peněženky, na něž prostředky dorazily a když si prostředky převedli do populární směnárny Coinbase, byli zloději identifikováni, jednalo se o Nathana Gibsona a Seana Mackerta. V té době jim bylo 24 a 21 let. Hrozilo jim 20 let vězení, ale nepodařilo se mi najít, jak to s nimi dopadlo, ještě v roce 2020 se odvolávali s tím, že nejsou "tradiční zločinci". Prostředky a majetky, které se FBI podařilo vypátrat, byly zabaveny, ale řada účtů jsou dodnes "spícími" peněženkami, na nichž řadu let nebyl pohyb.
 
@@ -81,7 +81,7 @@ Nyní se vraťme k průběhu případu, protože až dosud bylo vše v pořádku
 
 Celá věc měla totiž pár háčků.
 
-![Orientační plán v celé kauze](/assets/janusz-blazek-kauza.png)
+![Orientační plán v celé kauze](/assets/janusz-blazek-kauza.webp)
 
 Spletitost případu lze lépe pochopit z nákresu, který připravil Janusz Konieczny
 
@@ -89,7 +89,7 @@ Tím prvním je důkaz (pohyby bitcoinu lze v blockchainu sledovat!), že **s pe
 
 **Rozkódovaná peněženka totiž patří mezi peněženky spojované s Nucleus Marketplace**. A to je to tržiště, o němž ještě měla být řeč. Tržiště [Nucleus Marketplace](https://intel.arkm.com/explorer/entity/nucleus-marketplace)které fungovalo v letech 2014 až 2016 a již dříve se spekulovalo o tom, že jeho provozovatelem je Tomáš Jiříkovský. Jenže zásadní důkazy chyběly, byl to pouze hlas komunity a oficiálně Jiříkovského s Nucleusem nic nespojovalo. Snad jen to, že tržiště bylo vypnuto den po Jiříkovského zatčení - a s tím samozřejmě zmizely i veškeré bitcoiny v úschově. Mělo jich být cca 5300, tedy v dnešních cenách kolem 10-12 miliard Kč, což je částka, se kterou později bude [operovat iRozhlas](https://www.irozhlas.cz/zpravy-domov/kauza-bitcoiny-v-penezence-nebyly-3-miliardy-ale-12-informace-ministerstva-o_2505301834_vtk).
 
-![Nucleus Market](/assets/nucleus-market.png)
+![Nucleus Market](/assets/nucleus-market.webp)
 
 A tohle je největší kámen úrazu. Až doposud je totiž na nás, zda chceme věřit tomu, že Jiříkovský se ve vězení napravil a maje na srdci tíživou situaci obětí trestných činů, rozhodl se věnovat část bitcoinů, které za dobu jeho uvěznění narostly na ceně, ministerstvu spravedlnosti. Jen tak, bez ničeho. Stát se to mohlo a nemáme zatím důkaz svědčící o opaku.
 

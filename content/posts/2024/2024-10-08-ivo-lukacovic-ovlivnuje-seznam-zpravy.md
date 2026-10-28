@@ -54,11 +54,11 @@ Pak se do věci vložil majitel Seznamu Ivo Lukačovič na svém placeném blogu
 
 K té poslední větě o dojivosti krav pro kontext, o něco dříve říká, že *"analýza a statistika vám snese cokoliv, to už věděli komouši, kteří v Rudém právu neustále točili někde čísla o výrobě oceli a dojivosti krav."*
 
-Článek jako screenshoty stažené z X zde [díl 1](/assets/GZCxpscXwAAFLWr.jpeg) a [díl 2](/assets/GZCxpscXAAEJkO7.jpeg). 
+Článek jako screenshoty stažené z X zde [díl 1](/assets/GZCxpscXwAAFLWr.webp) a [díl 2](/assets/GZCxpscXAAEJkO7.webp). 
 
 Servítky si pak majitel Seznamu už vůbec nebere v komentářích, kdy na velmi ulítlou vizi Ondřeje Neffa, jak to mohlo být, přímo odpovídá: *"Oni prece nebyli tak blby, aby si nemysleli, ze jim to editor stopne. Oni jenom chteli udelat vitr, ze to pripravujou, ze to cenzurujeme a nepiskame rovinu. A chteli naznacit, ze vlada nas ukoluje a vse je spiknuti."* Nebo rovnou obviňuje z korupce. 
 
-![Ivo Lukačovič prohlašuje, ze článek byl zaplacený](/assets/lukacovic-korupce.jpeg)
+![Ivo Lukačovič prohlašuje, ze článek byl zaplacený](/assets/lukacovic-korupce.webp)
 
 
 > Jakub Unger ted byl nekde v podcastu Medialni cirkus a tam vysvetloval jak to bylo. Kdyz se pracuje na nejakem tematu tak editori rozhoduji cemu se budou venovat a cemu ne. A tihle dva korupcnici v systemu zacali psat tuhle “ananalyzu” uplne sami na vlastni pest. Ale bylo to normalni PR. A pak se tou rozspsanou analyzou normalne zacali chlubit piratum, jakoze uz na tom makaji atd. Ten text byl ubohost a pripominal FB prispevej Vrabela s Rajchlem, ale tentokrat se kopalo za Piraty. Ten text byla takova sracka, ze by to nikdy nemohlo projit editorem. To by nevyslo snad ani na A2Alrmu. To ze jim to Pirati zaplatili, jakoze regulerni snaha uplacet novinare, nebo to delali ze sveho piratskeho presvedceni to se asi nedozvime. Jaka byla casova posloupnost uniklych screenshotu a nejakych WA skupin fakt nevim. IMHO ty leaky udelali sami a sirili to vse mozne az se dostalo to nejake WA skupiny snad ODS. Ale je mozne ze celou story s WA skupinou si vymysleli.

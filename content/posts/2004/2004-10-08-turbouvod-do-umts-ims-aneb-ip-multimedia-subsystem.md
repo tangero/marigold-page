@@ -54,7 +54,7 @@ Nevýhodou je, že IMS má ve standardu několik fází a to, o čem jsme si pov
 <p>
 Podívejme se, jak IMS vypadá v UMTS síti. Přestavbu provádí IMS v okruhové doméně, v níž rozděluje ústřednu (MSC) na dvě části – Media Gateway (MGW) a MSC server, do budoucna stále označovaný jako MSC, tedy ústředna. Na obrázku MSC není, protože obrázek zakresluje jen vztah mezi paketovou a IMS doménou. Řídící logika zůstává na MSC serveru, zatímco MGW přejímá samotné spínání, tedy přenos dat. Oddělení řízení od samotného datového provozu dovoluje síti využívat efektivnější směrování pro vysokorychlostní data, neboť malé řídící povely se přenášejí jinou cestou a nemíchají se s velkými objemy dat. </p>
 
-![IMS architektura](/assets/20041008-ims.jpg)
+![IMS architektura](/assets/20041008-ims.webp)
 
 <p>
 Z hlediska konstrukčního se předpokládá, že MSC i MGW může být dodáváno ve společném fyzickém provedení nebo odděleně a to v závislosti na tom, jak se dodavateli podaří ne/vyřešit upgrade stávajícího MSC u operátora. </p>

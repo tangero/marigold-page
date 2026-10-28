@@ -8,7 +8,7 @@ namalovano: 1508-1512
 autor: Michelangelo
 obraz: "Stropní fresky v Sixtinské kapli"
 styl: renesance
-urlobrazu: /assets/obrazy/michelangelo-sistine-chapel-ceiling.jpg
+urlobrazu: /assets/obrazy/michelangelo-sistine-chapel-ceiling.webp
 ---
 
 Strop Sixtinské kaple představuje jeden z nejvýznamnějších uměleckých počinů v dějinách lidstva. Michelangelovo mistrovské dílo pokrývá plochu 520 metrů čtverečních a obsahuje přes 300 postav, přičemž nejslavnější částí je výjev Stvoření Adama.
@@ -23,7 +23,7 @@ Sixtinská kaple, Vatikánské muzeum, Vatikán
 - 👨‍🎨 Pracoval většinou sám, pouze s několika pomocníky na míchání barev
 - 🎭 Trpěl během práce silnými bolestmi krku a zad
 
-![Sistine Chapel Ceiling](/assets/obrazy/michelangelo-sistine-chapel-ceiling.jpg)
+![Sistine Chapel Ceiling](/assets/obrazy/michelangelo-sistine-chapel-ceiling.webp)
 
 ## 🎨 O díle Stropní fresky v Sixtinské kapli
 

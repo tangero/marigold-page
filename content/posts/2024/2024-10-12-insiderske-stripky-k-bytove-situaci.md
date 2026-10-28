@@ -43,4 +43,4 @@ Dušan Kunovský, šéf a majitel Central Group.
 
 Tady jsem to dal do malého obrázku
 
-![Bytová situace v Praze](/assets/byty-praha.png)
+![Bytová situace v Praze](/assets/byty-praha.webp)

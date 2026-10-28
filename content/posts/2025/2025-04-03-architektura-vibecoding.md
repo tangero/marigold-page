@@ -12,7 +12,7 @@ summary_points:
 - Frontend se tvoří no-code nástroji pro UI/UX.
 - Backend API je minimalistické pro data a zpracování.
 - Business logika se implementuje v automatizačním frameworku.
-thumbnail: https://www.marigold.cz/assets/vibecoding.jpg
+thumbnail: https://www.marigold.cz/assets/vibecoding.webp
 title: Moderní přístup k vývoji prototypu software MVP pomocí vibe codingu
 ---
 

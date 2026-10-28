@@ -2,7 +2,7 @@
 slug: 'claude-cowork-kompletni-pruvodce'
 date: 2026-06-07
 title: 'Claude Cowork: Kompletní příručka'
-thumbnail: https://www.marigold.cz/assets/claude-cowork-kompletni-pruvodce.png
+thumbnail: https://www.marigold.cz/assets/claude-cowork-kompletni-pruvodce.webp
 sw: claude
 categories:
 - AI
@@ -66,7 +66,7 @@ Typický první experiment, na kterém uvidíte, jak Cowork přemýšlí: úklid
 
 **Příklad z marketingu.** Složka `projekty/klient-ABC/` obsahuje briefy, výstupy z kampaní a zápisy ze schůzek. Řeknete „připrav měsíční report pro klienta ABC". Cowork si sám najde relevantní soubory, propojí data a vytvoří draft reportu, aniž byste mu cokoli přikládali.
 
-![Jak zadávat úkol Claude Coworku?](https://www.marigold.cz/assets/claude-cowork-schema.png)
+![Jak zadávat úkol Claude Coworku?](https://www.marigold.cz/assets/claude-cowork-schema.webp)
 
 ### Pamatuje si, jak chcete pracovat
 

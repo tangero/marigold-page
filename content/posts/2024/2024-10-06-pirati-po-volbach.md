@@ -10,7 +10,7 @@ summary_points:
 - Digitalizace stavebního řízení (DSŘ) se stala pro Piráty politicky nevděčným úkolem.
 - Premiér Fiala odvolal Bartoše, což vedlo k odchodu Pirátů z vlády.
 - Piráti se musí odbyrokratizovat, šetřit a komunikovat i ekonomická témata.
-thumbnail: https://www.marigold.cz/assets/patrick-ivan-jura.jpeg
+thumbnail: https://www.marigold.cz/assets/patrick-ivan-jura.webp
 title: Pirátská situace na podzim 2024 - pohled z podpalubí
 ---
 

@@ -8,7 +8,7 @@ namalovano: 1434
 autor: "Jan Van Eyck"
 obraz: "Svatba manželů Arnolfiniových"
 styl: "Severská renesance"
-urlobrazu: /assets/obrazy/jan-van-eyck-arnolfini-portrait.jpg
+urlobrazu: /assets/obrazy/jan-van-eyck-arnolfini-portrait.webp
 ---
 
 Arnolfiniho portrét je jedním z nejslavnějších a nejkomplexnějších děl severské renesance. Tento olejomalba na dubovém panelu představuje mistrovské dílo symbolismu a technické dokonalosti, které zachycuje bohatého obchodníka Giovanni Arnolfiniho a jeho manželku v intimním domácím prostředí.
@@ -23,7 +23,7 @@ The National Gallery, Londýn, Velká Británie
 - ✍️ Podepisoval svá díla mottem 'Als Ich Can' (Jak nejlépe umím)
 - 🖼️ Je považován za jednoho z nejvlivnějších malířů severské renesance
 
-![Arnolfini Portrait](/assets/obrazy/jan-van-eyck-arnolfini-portrait.jpg)
+![Arnolfini Portrait](/assets/obrazy/jan-van-eyck-arnolfini-portrait.webp)
 
 ## 🎨 O obraze Svatba manželů Arnolfiniových
 

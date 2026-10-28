@@ -18,12 +18,12 @@ summary_points:
 - Bude součástí Q Developer Pro subscription a má vlastní cenové tarify
 - Demo projekt "Spirit of Kiro" měl 95% kódu generovaného Kiro
 title: Amazon představil vlastní autonomní vývojové AI prostředí Kiro
-thumbnail: https://www.marigold.cz/assets/kiro-dev.png
+thumbnail: https://www.marigold.cz/assets/kiro-dev.webp
 ---
 
 Amazon představil [Kiro](https://kiro.dev), nové vývojové prostředí založené na autonomních AI agentech, které se zaměřuje na řešení problémů současného "vibe coding" - rychlého generování kódu pomocí AI bez důkladného plánování. Nástroj se liší od stávajícího Amazon Q Developer tím, že využívá specifikační vývoj a autonomní agenty pro komplexní úkoly, čímž se dostává do přímé konkurence s populárními řešeními jako Cursor, Windsurf nebo GitHub Copilot.
 
-![Kiro vypadá tak, jak byste čekali](/assets/kiro-dev.png)
+![Kiro vypadá tak, jak byste čekali](/assets/kiro-dev.webp)
 _Kiro vypadá tak, jak byste čekali, jako mírná předělávka VS Code s doplněným chat oknem, tedy vlastně podobně, jako konkurenční Cursor a jiní..._
 
 Podle CEO Amazonu Andyho Jassyho má Kiro _"šanci transformovat způsob, jakým vývojáři stavějí software"_. Nástroj vznikl z malého týmu v rámci AWS, ale v neobvyklém kroku pro Amazon má vlastní doménu a branding - název Amazon se neobjevuje v hlavním oznámení a souvislost s technologickým gigantem signalizuje pouze AWS logo v patičce webu. Také přihlášení do produktu jde i přes Google a Github účet, Amazon Developer ID je jen jednou z variant. 

@@ -32,7 +32,7 @@ IAB architektura se skládá z několika klíčových komponent:
 3. IAB-MT (Mobile Termination): Část IAB node, která komunikuje s nadřazeným uzlem (donor nebo jiný IAB node).
 4. IAB-DU (Distributed Unit): Část IAB node, která poskytuje rádiové rozhraní pro UE nebo podřízené IAB nodes.
 
-![IAB architektura](/assets/iab-architektura.jpg)
+![IAB architektura](/assets/iab-architektura.webp)
 
 ## Srovnání s předchozími technologiemi
 

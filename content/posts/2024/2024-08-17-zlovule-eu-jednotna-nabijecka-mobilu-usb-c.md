@@ -12,7 +12,7 @@ summary_points:
 - Iniciativa EU sjednotila nabíječky na USB, dříve roztříštěné pro zisky výrobců.
 - Apple přešel na USB-C kvůli logice, periferiím a očekávané spokojenosti uživatelů.
 - Regulace EU nezabíjí inovace, ale omezuje proprietární konektory ve velkých sériích.
-thumbnail: https://www.marigold.cz/assets/nabijecky-eu.png
+thumbnail: https://www.marigold.cz/assets/nabijecky-eu.webp
 title: Případ eurounijní zvůle v podobě jednotné nabíječky mobilů
 ---
 

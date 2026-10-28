@@ -18,7 +18,7 @@ summary_points:
 - Aktualizace po třech měsících – Google vydal Open Knowledge Format (OKF), vendor-neutrální standard, který přesně tenhle vzor formalizuje
 - Vzniklo i několik hotových produktů - llmwiki.app, skilly instalovatelné jedním příkazem i enterprise varianty s grafem - takže dnes se dá experimentovat bez stavění od nuly
 title: Karpathy přišel na to, jak používat AI jinak. A má pravdu.
-thumbnail: https://www.marigold.cz/assets/karpathy-llm.jpg
+thumbnail: https://www.marigold.cz/assets/karpathy-llm.webp
 ---
 
 Andrej Karpathy - člověk, který stál u zrodu GPT - zveřejnil minulý týden Twitter příspěvek, který si za čtyři dny záložkovalo přes 82 000 lidí. Třináct milionů zobrazení. To není virální hype. Trefil něco, co lidi sami cítí, ale neuměli to pojmenovat. O co jde? Jak používat LLM k budování znalostní báze.

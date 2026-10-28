@@ -7,7 +7,7 @@ categories:
 layout: post
 post_excerpt: Rok po blackoutu vydal expertní panel ENTSO-E závěrečnou zprávu. 122 stran, které definitivně uzavírají, co se 4.7.2025 stalo. Potvrzují vadnou spojku i to, že výpadek Ledvic nebyl žádná nesouvisející náhoda. A přinášejí dvě zjištění, o kterých se u nás zatím moc nemluvilo - dispečink měl predikci kaskády celou dobu na stole a zákon mu zakázal udělat to jediné, co mohlo region zachránit. Pročetl jsem celou zprávu a tady to máte, opět ve dvou úrovních stručnosti. Včetně toho, kde jsem se ve svých předchozích rozborech mýlil já.
 title: "⚡️📋 Blackout Česka: ČEPS nezkontroloval, ČEZ nezvládl své elektrárny a stát má zamčenou brzdu"
-thumbnail: https://www.marigold.cz/assets/blackout-ensot.png
+thumbnail: https://www.marigold.cz/assets/blackout-ensot.webp
 audio_url: null
 ---
 
@@ -50,7 +50,7 @@ Hlavní závěry pro ty, kdo nemají čas na detail:
 
 6️⃣ **A fotovoltaika taky nebyla úplně bez viny.** 135 MW odpadlých zdrojů, z toho 35 MW v rozporu s předpisy. Není to příčina blackoutu, ale "žádný podstatný dopad", jak jsem napsal v prosinci, to také nebyl.
 
-![Jak vypadala přenosová síť v 11:51 inkriminovaného dne blackoutu](/assets/blackout-situace.png)
+![Jak vypadala přenosová síť v 11:51 inkriminovaného dne blackoutu](/assets/blackout-situace.webp)
 
 Pojďme na to podrobněji.
 

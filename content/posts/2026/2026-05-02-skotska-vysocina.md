@@ -6,7 +6,7 @@ categories:
 layout: post
 post_excerpt: Letos si udělám radost. Čeká mne přechod Skotské Vysočiny, trasa West Highland Way. A samozřejmě jsem už zapojil i AI agenty... 
 title: AI agenti na nákupu pro přechod Skotské Vysočiny
-thumbnail: https://www.marigold.cz/assets/skotska-vysocina.jpg
+thumbnail: https://www.marigold.cz/assets/skotska-vysocina.webp
 ---
 
 Někdy z kraje roku jsem psal, že se chystám na Skotskou vysočinu. Plán byl dobrý, cožpak o to, ale cesta je klikatá. Tak například jsem si dal stranou peníze, abych inovoval výbavu. Už jsem vám říkal, že každá patentní věc do outdooru je dneska pět tisíc. A já, při pohledu na svou obstarožní výbavu jsem si řekl, že už mám věk i příjem na to, abych si mohl po 30 letech koupit novou karimatku či nepromokavou bundu, abych spal hezky v klidu a suchu. No a v únoru jsem nějak uvážil, že nejlépe v klidu a suchu budu spát, když to pošlu na výzbroj na Ukrajinu, tak se i stalo. 
@@ -17,7 +17,7 @@ Například jsem zjistil, že se [prodává karimatka s tloušťkou skoro 10 cm]
 
 Celá trasa má cca 135 km, což na 6 dní pochodu je vlastně strašně málo, takovou trasu bych mělá dát za tři dny maximálně. Jenže já na ní mám celou řadu tématických odboček - tu kopec, tu ruinička, ono to naskáče. 
 
-![Skotská Vysočina - náčrtek trasy](/assets/skotska-vysocina.jpg)
+![Skotská Vysočina - náčrtek trasy](/assets/skotska-vysocina.webp)
 
 Jedna věc mne ale mrzela. Že cestou nepotkám žádnou palírnu whisky. Mou oblíbenou Auchentoshan minu z dálky, po cestě mám jen Glengoynskou palírnu - a ještě ne úplně, vracet se kvůli ní nebudu.  V cíli pak Ben Nevis, který zase moc neznám (jsou to Japonci), ale co už, seznámíme se. Postěžoval jsem si ve whisky skupině a lidé mne utěšovali, že nad tím není třeba naříkat, že v každé hospodě po cestě je výběr dostatečný a ceny nikoliv turistické. 
 _No vida, zatímco to tu píšu, mi schválili tu ETA žádost._

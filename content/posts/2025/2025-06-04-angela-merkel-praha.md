@@ -15,7 +15,7 @@ summary_points:
   proti Netanjahuovi.
 - Merkelová zdůraznila nutnost diplomacie pro ukončení války na Ukrajině, i přes vojenskou
   převahu Ruska.
-thumbnail: https://www.marigold.cz/assets/angela-merkel-prague.jpeg
+thumbnail: https://www.marigold.cz/assets/angela-merkel-prague.webp
 title: Praha se loučila s bývalou německou kancléřkou
 ---
 
@@ -27,7 +27,7 @@ Merkelová narozená v NDR má k Česku sentimentální vztah, v osmdesátkách 
 
 Nejdříve si myslím, že je to trolling - nad hlavou scény dvou žlutých křesílek a malého stolečku svítí nápis Respekt, což byl předvolební slogan Olafa Scholzeho. Pak se ukáže, že akci pořádá časopis Respekt, jehož šéfredaktor kancléřku uvede a jeden z redaktorů vede rozhovor. 
 
-![Angela Merklová v pražské Lucerně](/assets/angela-merkel-prague.jpeg)
+![Angela Merklová v pražské Lucerně](/assets/angela-merkel-prague.webp)
 
 Tady musím říct, že jsem byl rád, že jsem si vzal sluchátka s překladem, protože moderátorovi vůbec nerozumím, půlku německého slova vždy nějak zašumluje a na moji nahluchlost to není to pravé ořechové. Takže na jeho otázku si vždycky nasazuju sluchátka, zatímco kancléřčina čistá a jasná němčina je pohlazením. Kromě toho mluví moderátor zajíkavě, frázovitě, pomalu, asi aby zbrzdil Merklové projev, což se mu nedaří. Ale sama kancléřka říká, že na ni máme mávat, pokud nebudeme stíhat - na to ale nedošlo. 
 

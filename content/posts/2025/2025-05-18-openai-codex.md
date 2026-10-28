@@ -21,7 +21,7 @@ summary_points:
 - Codex CLI nabízí rychlejší pracovní postupy s modelem codex-mini-latest.
 - Nástroj má omezení jako chybějící podpora obrázků nebo interaktivní korekce.
 - OpenAI plánuje budoucí vylepšení jako hlubší integrace s GitHubem.
-thumbnail: https://www.marigold.cz/assets/openai-thumbnail.png
+thumbnail: https://www.marigold.cz/assets/openai-thumbnail.webp
 title: OpenAI představuje Codex - agenta pro vývoj software
 ---
 
@@ -34,7 +34,7 @@ Hlavní výhodou Codexu má být schopnost paralelně pracovat na mnoha úkolech
 
 Codex je cloudový software založený na modelu codex-1, což je verze modelu OpenAI o3 optimalizovaná pro softwarové inženýrství. Podle dokumentace byl tento model trénován pomocí reinforcement learning na reálných úkolech kódování v různých prostředích. Hlavním cílem bylo generovat kód, který napodobuje lidský styl psaní, přesně dodržuje instrukce a dokáže iterativně spouštět testy, dokud nedosáhne úspěšného výsledku.
 
-![codex](/assets/codex-landing.jpg)
+![codex](/assets/codex-landing.webp)
 
 ## Dostupnost a rozšíření
 
@@ -59,7 +59,7 @@ OpenAI poskytla několik měřítek výkonnosti codex-1:
 - Na benchmarku SWE-Bench Verified dosahuje codex-1 přesnosti kolem 70-75%, což je významně více než o3-high (kolem 65-70%)
 - Na interních SWE úkolech OpenAI dosahuje codex-1 přibližně 75% úspěšnosti, ve srovnání s o4-mini-high (70%), o3-high (67%) a o1-high (11%)
 
-![swe](/assets/codex-swe-bench.png)
+![swe](/assets/codex-swe-bench.webp)
 
 ## Bezpečnost a zajištění důvěryhodnosti
 

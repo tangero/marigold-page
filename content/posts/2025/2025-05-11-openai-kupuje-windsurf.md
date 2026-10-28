@@ -14,7 +14,7 @@ summary_points:
 - Akvizice posiluje pozici OpenAI na trhu AI kódovacích nástrojů.
 - Windsurf má unikátní technologii pro integraci do vývojářských nástrojů.
 - Akvizice umožní OpenAI získat cenná data z vývoje.
-thumbnail: https://www.marigold.cz/assets/windsurf-thumb.png
+thumbnail: https://www.marigold.cz/assets/windsurf-thumb.webp
 title: OpenAI kupuje Windsurf a  posiluje v programátorských nástrojích
 ---
 

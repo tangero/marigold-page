@@ -7,7 +7,7 @@ categories:
 - Energie
 - Energetika
 - Green Deal
-thumbnail: https://www.marigold.cz/assets/spanelsko-blackout.png
+thumbnail: https://www.marigold.cz/assets/spanelsko-blackout.webp
 title: "Co bylo příčinou blackoutu ve Španělsku?"
 ---
 

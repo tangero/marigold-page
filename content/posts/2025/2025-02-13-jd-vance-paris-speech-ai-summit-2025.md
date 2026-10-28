@@ -13,7 +13,7 @@ summary_points:
 - Přílišná regulace AI by mohla brzdit její rozvoj.
 - USA chtějí být lídrem v AI a spolupracovat s partnery.
 - AI by měla podporovat pracovníky, ne je nahrazovat.
-thumbnail: https://www.marigold.cz/assets/JD-Vance-Paris-summit-2025.jpg
+thumbnail: https://www.marigold.cz/assets/JD-Vance-Paris-summit-2025.webp
 title: Projev viceprezidenta JD Vance na pařížském AI summitu 2025
 ---
 

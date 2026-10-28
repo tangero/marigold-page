@@ -22,7 +22,7 @@ title: Mobilní sítě 5G Advanced ve specifikaci Rel-18
 
 V květnu letošního roku dostaly sítě 6G své oficiální logo a zároveň s tím se dokončila specifikace [[5G Advanced](/item/5G_advanced_3GPP_Release-18/)](/item/5G_advanced_3GPP_Release-18/) v podobě 3GPP Rel-18. Kam bude mířit svět mobilních sítí  po páté generaci? Zatím se nestresujte, první sítě se v realitě (ne té marketingové) objeví tak kolem roku 2028.
 
-![Finální podoba loga sítí šesté generace. Teď ještě ty sítě 😀](/assets/logo-6g.jpg)
+![Finální podoba loga sítí šesté generace. Teď ještě ty sítě 😀](/assets/logo-6g.webp)
 
 Vývoj standardu u 3GPP jsme opustili v Release-17 ([popisuji ve článku zde](/item/co-prijde-po-5g/)), které uzavřelo samotnou definici sítí 5G započatou Release-15. Specifikace  **Release-18 má přinést další rozvoj do [5G Advanced](/item/5G_advanced_3GPP_Release-18/)**  a pracovalo se na něm od konce roku 2021, schválen byl v květnu 2024. Takže je ta pravá chvíle podívat se, jak to nakonec dopadlo a co bude oním 5G Advanced.
 
@@ -36,7 +36,7 @@ Zajímavou a s tím související možností Rel-18 je takzvaný **Satellite Bac
 
 Na obrázku je vidět, jaké spektrum možností se snaží 5G Advanced obsáhnout. Povšimněte si také toho značení NR-Light/[[RedCap](/mobilnisite/redcap/)](/mobilnisite/redcap/), to je 5G síť s redukovanými možnostmi (Reduced Capability). S tímto jménem [RedCap](/mobilnisite/redcap/) se přišlo v Rel-17, kdy nahradilo právě ono LTE M1 /LTE NB IoT. Je určeno pro zařízení, která nepotřebují celou škálu služeb, typicky pro různá IoT zařízení, senzory, nebo třeba chytré hodinky připojené do sítě. Výměnou za to je nižší energetická náročnost, lepší dosah atd. Hodně to tlačí Qualcomm, [projděte si jeho prezentaci](https://www.qualcomm.com/news/onq/2022/07/what-is-5g-nr-light--a-k-a--redcap--and-how-will-it-accelerate-t).
 
-![Jaké služby chce obsáhnout 5G Advanced](/assets/5g-nr.png)
+![Jaké služby chce obsáhnout 5G Advanced](/assets/5g-nr.webp)
 
 Tradicí novějších Release je také důraz na energetickou úspornost. 3GPP se snaží nabídnout vhodné prostředí mobilních sítí i pro IoT senzory, kde se to bez energetické úspornosti neobejde. Nově Rel-18 přidává i možnosti dálkového vzbuzení zařízení.
 

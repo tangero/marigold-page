@@ -8,7 +8,7 @@ namalovano: 2025
 autor: Hynek Martinec
 obraz: Out of Chaos (Z Chaosu)
 styl: hyperrealismus
-urlobrazu: /assets/obrazy/otto-placht-peru-rail-2020.jpg
+urlobrazu: /assets/obrazy/otto-placht-peru-rail-2020.webp
 ---
 
 ## 🎨 Hynek Martinec: Cyberlemon
@@ -20,7 +20,7 @@ urlobrazu: /assets/obrazy/otto-placht-peru-rail-2020.jpg
 - 2007 získal prestižní ocenění BP Young Artist Award v londýnské National Portrait Gallery za portrét “Zuzana v pařížském studiu”
 - tento úspěch ho přivedl do Londýna, kde od té doby žije a tvoří.
 
-![Hynek Martinec - Out of chaos](/assets/obrazy/hynek-martinec-out-of-chaos.jpg)
+![Hynek Martinec - Out of chaos](/assets/obrazy/hynek-martinec-out-of-chaos.webp)
 
 **Obraz Z Chaosu**
 
@@ -31,7 +31,7 @@ urlobrazu: /assets/obrazy/otto-placht-peru-rail-2020.jpg
 - mnoho “vypůjčených” motivů – například lebka nebo mušle (odraz surrealismu a Dalího), realistická ruka nebo perlový náhrdelník jako odkazy na staré mistry.
 - postava filozofa či svatého jako odkaz na klasické křesťanské ikonografie nebo duchovní postavu (není to sv. Jeroným?)
 
-![Hynek Martinec - Out of chaos](/assets/obrazy/hynek-martinec-out-of-chaos-foto.jpeg)
+![Hynek Martinec - Out of chaos](/assets/obrazy/hynek-martinec-out-of-chaos-foto.webp)
 
 __Na snímku vlevo hovořící Hynek Martinec, vpravo uříznutý kurátor výstavy Ben Tufnell.__
 
@@ -41,7 +41,7 @@ Výstava [Hynka Martince v DOXu potrvá do 24.8.2025](https://www.dox.cz/program
 
 Proč se výstava jmenuje Cyberlemon? Prý proto, že citron byl v klasickém malířství považovaný za vrcholně obtížný k nakreslení, proto je tak často v zátiších starých mistrů. Hynek Martinec citron nenakreslil jen tak, přímo si jej zdigitalizoval do ploch podobně, jak vypadá Tesla Cybertruck, kterou Martinec ve svém díle cituje opakovaně. Tak proto cyberlemon. Protože cybertruck.
 
-![Hynek Martinec - Cyberlemon](/assets/obrazy/hynek-martinec-cyberlemon.jpg)
+![Hynek Martinec - Cyberlemon](/assets/obrazy/hynek-martinec-cyberlemon.webp)
 
 Web má [Hynek Martinec zde](https://www.hynekmartinec.com/). 
 

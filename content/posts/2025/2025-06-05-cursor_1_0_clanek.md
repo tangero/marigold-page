@@ -14,7 +14,7 @@ summary_points:
 - MCP protokol zjednodušuje integraci externích nástrojů, podporuje GitHub, Stripe
   a Figma.
 sw: cursor
-thumbnail: https://www.marigold.cz/assets/cursor-1.jpeg
+thumbnail: https://www.marigold.cz/assets/cursor-1.webp
 title: Cursor 1.0 -  Nové funkce pro AI programování / vibecoding
 ---
 

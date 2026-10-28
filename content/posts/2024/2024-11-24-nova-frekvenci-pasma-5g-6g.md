@@ -9,7 +9,7 @@ summary_points:
 - 6G zvýší nároky na rychlost, latenci a kapacitu sítí.
 - Rozšíření frekvenčního spektra je klíčové pro 5G a 6G.
 - Sub-THz pásma nabídnou extrémně vysoké přenosové rychlosti.
-thumbnail: https://www.marigold.cz/assets/3GPP-5G.jpg
+thumbnail: https://www.marigold.cz/assets/3GPP-5G.webp
 title: Vývoj frekvenčního spektra pro 5G a 6G -  Standardizace a hledání nových frekvencí
 ---
 
@@ -17,7 +17,7 @@ Technologie 5G přinesla zásadní změny v mobilních sítích, včetně vyšš
 
 Od roku 2014 byl pokrok v oblasti hledání a standardizace nových frekvencí zaměřen především na optimalizaci stávajícího využití a otevírání nových pásem, která byla dříve využívána pro jiné účely. V tomto článku prozkoumáme klíčové milníky v této oblasti a hodnotí přínosy jednotlivých frekvenčních rozsahů.
 
-![Přehled frekvencí](/assets/6g-radio-spectrum.jpg)
+![Přehled frekvencí](/assets/6g-radio-spectrum.webp)
 
 ## Vývoj frekvenčních pásem pro 5G
 
@@ -47,7 +47,7 @@ Sub-THz frekvence představují novou hranici v telekomunikacích. Dříve byla 
 
 Technologické výzvy spojené s těmito frekvencemi zahrnují vyšší ztráty signálu způsobené atmosférickou absorpcí a nutnost použití pokročilých anténních systémů, například čočkových antén.
 
-![Frekvence pro pásma 5G a 6G v plánování](/assets/vyvoj-frekvenci-5G.png)
+![Frekvence pro pásma 5G a 6G v plánování](/assets/vyvoj-frekvenci-5G.webp)
 
 ## Klíčové metody pro využití nových pásem
 

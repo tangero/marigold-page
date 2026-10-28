@@ -13,7 +13,7 @@ summary_points:
 - Ma navrhoval modernizaci financí pomocí inovací a digitálních technologií.
 - Projev vyvolal ostré reakce čínských úřadů a zastavení IPO Ant Group.
 - Ma zdůraznil potřebu podpory malých podniků a budoucí roli digitálních měn.
-thumbnail: https://www.marigold.cz/assets/jack-ma-shanghai-bund-summit-10-2020.jpg
+thumbnail: https://www.marigold.cz/assets/jack-ma-shanghai-bund-summit-10-2020.webp
 title: Jacka Ma, šéf Alibaby -  Dobrá inovace se nebojí regulace
 ---
 

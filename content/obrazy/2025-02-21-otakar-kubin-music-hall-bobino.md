@@ -8,12 +8,12 @@ namalovano: 1910
 autor: Otakar Kubín
 obraz: Music Hall Bobino
 styl: fauvismus
-urlobrazu: /assets/obrazy/otakar-kubin-music-hall-bobino.jpg
+urlobrazu: /assets/obrazy/otakar-kubin-music-hall-bobino.webp
 ---
 
 Music Hall Bobino představuje důležitý moment v Kubínově tvorbě - vidíme zde jeho experimentování s fauvistickou barevností a začínající kubistické tendence. Dílo vzniklo v období, kdy se mladý umělec pohyboval v prostředí pařížské bohémy a vstřebával nejnovější umělecké trendy. 🎨
 
-![Otakar Kubín - Music Hall Bobino (1910)](/assets/obrazy/otakar-kubin-music-hall-bobino.jpg)
+![Otakar Kubín - Music Hall Bobino (1910)](/assets/obrazy/otakar-kubin-music-hall-bobino.webp)
 
 🗻 výjimečné dílo z let 1909-1910 zachycuje atmosféru slavného pařížského kabaretu Bobino na Montparnassu \
 🥂 číšník balancuje s podnosem plným sklenic nad hlavami návštěvníků, což vytváří působivou dynamickou kompozici. \
@@ -74,7 +74,7 @@ Jednu Postavu a také obraz Bobino uvidíte na výstavě Národní galerie v Pra
 
 Meziválečné období (1920-1939): Usazuje se v Provence a přijímá jméno Othon Coubine.  Typická díla: Jaro v Simiane (1921), Paysage de Provence (1923).
 
-![Jaro v Simiane](/assets/obrazy/otakar-kubin-jaro-v-simiane.jpg)
+![Jaro v Simiane](/assets/obrazy/otakar-kubin-jaro-v-Simiane.jpg)
 
 Poválečné období (1945-1969): V letech 1952-1955 se vrací do Československa, tato tvorba je poznamenána tlakem na socialistický realismus. Po návratu do Francie se vrací ke svému osvědčenému stylu. Díla z tohoto období jsou méně ceněna než předválečná tvorba. 
 

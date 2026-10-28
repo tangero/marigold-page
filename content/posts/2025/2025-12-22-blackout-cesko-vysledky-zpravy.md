@@ -7,7 +7,7 @@ categories:
 - Energetika
 - ČEPS
 title: "🪫 Jak to bylo s blackoutem v Česku? Výsledky vyšetřování a mlžení ČEPS"
-thumbnail: https://www.marigold.cz/assets/stozary-kocka-ceps-400-kv.jpg
+thumbnail: https://www.marigold.cz/assets/stozary-kocka-ceps-400-kv.webp
 audio_url: https://media.vibecoding.cz/marigold/audio/2025-12-23-Anatomie_blackoutu.m4a
 ---
 

@@ -11,7 +11,7 @@ summary_points:
 - Eklog je technologie sledující přínosnost v bezhotovostní společnosti.
 - AI pomohla promyslet svět, ale nepsala příběh samostatně.
 - Povídka zkoumá transparentnost a její společenské důsledky.
-thumbnail: https://www.marigold.cz/assets/aipovidky.png
+thumbnail: https://www.marigold.cz/assets/aipovidky.webp
 title: S psaní beletrie už AI pomůže
 ---
 

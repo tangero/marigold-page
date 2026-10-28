@@ -8,7 +8,7 @@ categories:
 content_hash: 7a430e04016c59da2c6a119d7c29c19e
 original_lang: cs
 permalink: /en/item/stavba-vlaku-do-brandysa/
-thumbnail: https://www.marigold.cz/assets/taky-mame-mobil-na-hriba.jpg
+thumbnail: https://www.marigold.cz/assets/taky-mame-mobil-na-hriba.webp
 title: Building the train to Brandýs -  when everyone has a pitchfork in their closet, what can they throw at you
 ranslated: true
 ---
@@ -27,7 +27,7 @@ If you know me and Mark, you know we're not little people. We parted with the id
 A week later we evaluated the search. Marek arranged in Olomouc the possibility to buy one car of the iconic T3 tram, I had the opportunity to buy cheaply from a filmmaker friend a cattle car from the film, which was used to transport prisoners to the concentration camp. It also had a Reichsbahn spray paint job. Probably not surprising that we ended up taking the tram. And we brought it to Stara Boleslav.
 That's how it all started, because everybody wrote about it, and they brought out the dusty routes from Křižík, SŽDC and others. And all those who were interested started to gather under the flag of the project. And that there were such people.
 
-![This is how the tram was stacked in the gap at Marianske namesti Square, which we rented for this purpose](/assets/pokladka-tramvaje.jpg)
+![This is how the tram was stacked in the gap at Marianske namesti Square, which we rented for this purpose](/assets/pokladka-tramvaje.webp)
 
 At the beginning everything was slow. Mostly they laughed at us. Not that they questioned that the line wasn't needed. Not at all. The taunts were mostly along the lines of "you can't build anything in the Czech Republic" or "no one will let you do that".
 

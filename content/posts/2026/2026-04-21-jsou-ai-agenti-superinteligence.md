@@ -16,7 +16,7 @@ summary_points:
 - Klíčem k podnikovému nasazení není vyšší IQ agentů, ale jejich předvídatelnost a řiditelnost
 - Dalším krokem jsou mikroplatební systémy a komunikační protokoly mezi agenty – zárodky agentní ekonomiky
 title: Jsou AI agenti superinteligence dneška?
-thumbnail: https://www.marigold.cz/assets/ai-agenti-superinteligence.jpg
+thumbnail: https://www.marigold.cz/assets/ai-agenti-superinteligence.webp
 ---
 
 Jestli něco považuji za AI trend pro budoucí AGI, tak jsou to dnešní prudce se zlepšující agenti. Agenti jsou superinteligence dneška. Jasně, sami o sobě nejsou geniální (IQ počítejme někde 130-140, ba často i méně), ale rychlost, jakou jsou schopní kooperovat, je nepřekonatelná.

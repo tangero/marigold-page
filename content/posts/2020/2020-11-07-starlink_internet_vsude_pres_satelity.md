@@ -29,7 +29,7 @@ title: Starlink, internet všude, přes satelity - dějství druhé
 
 Zajímalo mě technické řešení, satelity na LEO se vůči poloze na zemi pohybují a to jen tak obyčejnou anténou nevyřešíte. Terminál Starlinku obsahuje samonaváděcí otáčející se anténu.  [Hezký český článek Jiřího Hadače](https://www.elonx.cz/starlink-prvni-fotky-terminalu-deorbitace-satelitnich-prototypu-blizici-se-beta-testovani-a-dalsi-novinky/).
 
-![Starlink](/assets/35162720-8906811-image-a-43_1604349126360.jpg)
+![Starlink](/assets/35162720-8906811-image-a-43_1604349126360.webp)
 
 A pro kontext: 100 Mb/s DSL linka stojí v ČR (tam, kde je) 600 Kč, ale za prvé to není tak sexy a za druhé, pokud nejste na správném DSLAMu, už máte výrazně méně možností se na tuto rychlost dostat. Zbývá UPC, lokální poskytovatelé optiky a pak WiFi dobrovolníci.
 

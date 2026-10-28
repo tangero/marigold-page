@@ -7,7 +7,7 @@ categories:
   - Video
   - AI
 summary_points: []
-thumbnail: /assets/Thumbnail-E01-1920x1080_3.png
+thumbnail: /assets/Thumbnail-E01-1920x1080_3.webp
 audio_url: ''
 hide: false
 ---

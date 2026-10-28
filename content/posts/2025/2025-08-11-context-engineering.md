@@ -19,7 +19,7 @@ summary_points:
 - KV-cache hit rate je nejkritičtější metrika pro produkční agenty s až desetinásobným
   rozdílem v nákladech mezi cached a uncached tokeny
 - Budoucnost směřuje k autonomním systémům schopným generovat vlastní kontext a sebezdokonalování
-thumbnail: https://www.marigold.cz/assets/context-engineering.png
+thumbnail: https://www.marigold.cz/assets/context-engineering.webp
 title: 'Context Engineering: Nová disciplína pro tvorbu spolehlivých AI systémů'
 ---
 Context Engineering představuje zajímavý posun v přístupu k tvorbě AI systémů založených na velkých jazykových modelech. Zní to velmi technicky, ale rychle zjistíte, že to je něco velmi logického a očekávatelného. Namísto toho, aby kontextem bylo to, co zadáte v promptu, se kontextem stává všechno, co se problému může týkat. Jak?

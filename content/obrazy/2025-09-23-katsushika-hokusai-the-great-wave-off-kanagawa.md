@@ -8,7 +8,7 @@ namalovano: 1829-1833
 autor: "Katsushika Hokusai"
 obraz: "Velká vlna u Kanagawy"
 styl: "ukiyo-e (japonský dřevořez)"
-urlobrazu: "/assets/obrazy/katsushika-hokusai-the-great-wave-off-kanagawa.jpg"
+urlobrazu: "/assets/obrazy/katsushika-hokusai-the-great-wave-off-kanagawa.webp"
 ---
 Velká vlna u Kanagawy je nejznámější japonský dřevořez a ikonické dílo světového umění. Toto mistrovské dílo je součástí série 'Třicet šest pohledů na horu Fudži' a zobrazuje dramatickou scénu obří vlny tyčící se nad rybářskými loděmi s horou Fudži v pozadí.
 
@@ -22,7 +22,7 @@ Britské muzeum v Londýně (jedna z mnoha kopií), další kopie v Metropolitan
 - 🗻 Byl posedlý horou Fudži, které věnoval mnoho děl
 - 📚 Vytvořil přes 30 000 děl během svého života
 
-![Velká vlna u Kanagawy](/assets/obrazy/katsushika-hokusai-the-great-wave-off-kanagawa.jpg)
+![Velká vlna u Kanagawy](/assets/obrazy/katsushika-hokusai-the-great-wave-off-kanagawa.webp)
 
 ## 🎨 O obraze Velká vlna u Kanagawy - The Great Wave off Kanagawa
 

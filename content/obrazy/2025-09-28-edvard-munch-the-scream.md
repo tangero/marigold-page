@@ -8,7 +8,7 @@ namalovano: 1893
 autor: "Edvard Munch"
 obraz: Výkřik
 styl: expresionismus
-urlobrazu: "/assets/obrazy/edvard-munch-the-scream.jpg"
+urlobrazu: "/assets/obrazy/edvard-munch-the-scream.webp"
 ---
 Výkřik je jedním z nejrozpoznatelnějších obrazů všech dob, zachycující křičící postavu na mostě v Oslo. Munch vytvořil tento obraz jako vyjádření existenciální úzkosti a moderní alienace, která rezonuje s diváky dodnes.
 
@@ -22,7 +22,7 @@ Národní galerie v Oslo, Norsko (existuje několik verzí)
 - 🖼️ Vytvořil čtyři verze Výkřiku různými technikami
 - 😷 Trpěl depresemi a úzkostí, které byly tématem jeho díla
 
-![Výkřik](/assets/obrazy/edvard-munch-the-scream.jpg)
+![Výkřik](/assets/obrazy/edvard-munch-the-scream.webp)
 
 ## 🎨 O obraze Výkřik - The Scream
 

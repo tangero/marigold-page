@@ -58,7 +58,7 @@ Při uvažování o blockchainu je tedy nutné si uvědomit několik věcí:
 7. Teoreticky by se pro plné ověření transakce mělo čekat až deset minut, což je lhůta, v níž se generuje nový blok nebo až šedesát minut, což je lhůta, kdy proběhne šest plných potvrzení (6x10 minut). Ve skutečnosti je nepravděpodobné, že by node Blanky došel k jinému názoru na transakci, než další uzly v bitcoin síti, takže malé transakce může rovnou obchodník přijmout a nečekat na nic, riziko je menší, než u kontaktních platebních karet.
 
 
-![Bitcoin Transactions Explained Wide](/assets/Bitcoin-transaction-life-cycle.png)
+![Bitcoin Transactions Explained Wide](/assets/Bitcoin-transaction-life-cycle.webp)
 
 
 ##  Proč je blockchain revolucí?

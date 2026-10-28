@@ -8,7 +8,7 @@ namalovano: 1914-1926
 autor: "Claude Monet"
 obraz: Lekníny
 styl: impresionismus
-urlobrazu: "/assets/obrazy/claude-monet-water-lilies.jpg"
+urlobrazu: "/assets/obrazy/claude-monet-water-lilies.webp"
 ---
 Lekníny (Water Lilies) představují vrcholné dílo francouzského impresionisty Claude Moneta, které vytvářel po dobu více než 30 let ve své zahradě v Giverny. Série přibližně 250 olejomaleb zachycujících vodní hladinu s lekníny se stala jedním z nejvýznamnějších děl impresionismu a měla zásadní vliv na vývoj moderního umění.
 
@@ -22,7 +22,7 @@ Musée de l'Orangerie, Paříž, Francie (hlavní série); další části jsou 
 - 🖌️ Maloval stejné motivy v různých denních dobách pro zachycení měnícího se světla
 - 🎯 Byl zakladatelem impresionistického hnutí
 
-![Lekníny](/assets/obrazy/claude-monet-water-lilies.jpg)
+![Lekníny](/assets/obrazy/claude-monet-water-lilies.webp)
 
 ## 🎨 O obraze Lekníny - Water Lilies
 

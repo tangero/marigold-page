@@ -22,7 +22,7 @@ Jak tedy postupovat s předplatným online služeb?
 
 1. Okamžitě po předplacení služby její předplatné ukončete. Výhodou je Apple platforma, kde lze v Nastavení vyhledat Předplatná a zobrazit si jak na mobilu, tak na počítači přehled všech předplatných, k nimž jste se zavázali. Každé můžete zrušit a tím se ruší na všech zařízeních.
 
-![Apple platforma a správa předplatného](/assets/predplatna-apple.png)
+![Apple platforma a správa předplatného](/assets/predplatna-apple.webp)
 
 Také Google Play a Android platforma mají [centrální místo pro předplatné služeb](https://play.google.com/store/account/subscriptions). 
 
@@ -32,7 +32,7 @@ Také Google Play a Android platforma mají [centrální místo pro předplatné
 
 3. Používejte Správu plateb předplatného v Revolutu. Na Revolut účtu má každá platba možnost označit, že jde o Platbu předplatného. Stačí kliknout na detail platby a zaškrtnout Platba předplatného. Jenže kde pak všechny tyto platby najdete? Klikněte na dolním řádku na ikonku dvou šipek Platby a pak úplně nahoře vpravo na ikonku kalendáře vedle vyhledávacího řádku. Najdete zde Naplánované platby a v prvé řadě Předplatné. Můžete zde pohodlně Zablokovat budoucí platby a Revolut platbu neproplatí. Nevím, zda podobnou funkci zablokování budoucích plateb mají i české banky - například AirBanka tohle neumí. 
 
-![Revolut Platba předplatného](/assets/revolut-predplatne.jpeg)
+![Revolut Platba předplatného](/assets/revolut-predplatne.webp)
 
 A to je prozatím z tipů na správu online předplatného všechno. Máte nějaký? Přidám ho...
 

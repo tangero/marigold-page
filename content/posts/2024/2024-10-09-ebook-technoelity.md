@@ -16,7 +16,7 @@ summary_points:
   tech PDF a ePub."
 - "Projekt ebooku Technoelity byl \xFAsp\u011B\u0161n\u011B financov\xE1n a autor\
   \ jej dokon\u010D\xED."
-thumbnail: https://www.marigold.cz/assets/technoelity.png
+thumbnail: https://www.marigold.cz/assets/technoelity.webp
 title: Ebook Technoelity - Kdy\u017E p\u0159\xEDli\u0161 m\xE1lo ur\u010Duje p\u0159\ \xEDli\u0161 mnoho
 ---
 
@@ -30,6 +30,6 @@ V létě strávil kus času s šéfem jedné z největších firem světa - a p�
 
 *Mezi tím, než jsem tento článek napsal, se osmdesát objednatelů našlo, takže už je jisté, že knihu musím dodělat... *
 
-![Obálka Technoelity vygenerovaná AI](/assets/technoelity.png)
+![Obálka Technoelity vygenerovaná AI](/assets/technoelity.webp)
 
 > 📕 POZOR: knihu si již můžete [zakoupit a stáhnout zde](https://payhip.com/b/yjt2Z).

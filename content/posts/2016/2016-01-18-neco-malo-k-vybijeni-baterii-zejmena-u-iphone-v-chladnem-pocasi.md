@@ -21,7 +21,7 @@ Baterie jsou jako lidi. Nejlépe je jim za pokojové teploty. Když ji nemají, 
 
 <p>Podobné problémy nastávají při vyšších teplotách přes +35°C, například iPhone má v sobě teplotní pojistku a telefon při teplotách kolem +40°C opět odmítá fungovat.</p>
 
-<p><img src="/assets/iphone-battery-specs.jpg" alt="Teplotní specifikace provozu iPhone" width="500" height="123" border="0" /></p>
+<p><img src="/assets/iphone-battery-specs.webp" alt="Teplotní specifikace provozu iPhone" width="500" height="123" border="0" /></p>
 
 <p>Co s tím? V podstatě nemáte moc šancí, co s tím dělat. Je to problém, který je společný všem Li-Iont bateriím včetně těch polymerových. Některé powerbanky to mazaně řeší tím, že se nabízejí s NiMH akumulátory, ty ale zase mají jiné problémy - jako záloha do tepla se hodí. Apple se snaží to řešit zvláštní konstrukcí polymeru, ale zatím bez úspěchu, v nových telefonech přidal čidlo teploty a vlhkosti, ale také bez pozorovatelného úspěchu.</p>
 

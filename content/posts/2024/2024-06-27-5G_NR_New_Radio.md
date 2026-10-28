@@ -36,7 +36,7 @@ Podívejme se v bodech na to, co je v NR nové a důležité:
 
 Když jsme u těch nových frekvencí mmWave, jaká je představa, kde a jaké frekvence se budou používat?
 
-![využití frekvencí v rámci NR](/assets/5g-nr-frekvence.png)
+![využití frekvencí v rámci NR](/assets/5g-nr-frekvence.webp)
 
     
 Hlavní uživatelské rozdíly mezi  5G NR a LTE:
@@ -48,7 +48,7 @@ Hlavní uživatelské rozdíly mezi  5G NR a LTE:
     
 Pro jaké aplikace se 5G NR hodí?
 
-![Vymezení aplikací pro 5G NR](/assets/5G-NR_applications.png)
+![Vymezení aplikací pro 5G NR](/assets/5G-NR_applications.webp)
 
 Zde je tabulka porovnávající klíčové aspekty New Radio (NR) z Release 15 s předchozími přístupy v LTE:
 

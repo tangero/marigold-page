@@ -13,7 +13,7 @@ summary_points:
 - Webové nástroje typu vibe coding ztrácejí popularitu, roste však používání CLI a API řešení
 - Generativní AI se stává běžnou součástí infrastruktury, nikoli exotickou novinkou
 title: "Je po vrcholu: proč generativní AI ztrácí dech?"
-thumbnail: https://www.marigold.cz/assets/generativni-ai-graf.png
+thumbnail: https://www.marigold.cz/assets/generativni-ai-graf.webp
 ---
 
 Ještě před dvěma lety se zdálo, že generativní umělá inteligence změní všechno – software, média, vzdělávání i samotné fungování práce. Dnes už se zdá, že spíš změnila očekávání než realitu. Po explozi investic a pozornosti přichází první útlum, který není náhodný. Hype fáze se vyčerpala a technologie naráží na své přirozené limity.
@@ -43,7 +43,7 @@ Generativní AI nezmizí, ale stane se součástí většího celku – stejně 
 
 Z hype pojmu se stane infrastruktura. To není konec, ale integrace — známá fáze technologického cyklu, kdy vývoj postupuje z viditelné inovace do skrytého standardu.
 
-![Cyklus vývoje technologií](https://www.marigold.cz/assets/generativni-ai-graf.png)
+![Cyklus vývoje technologií](https://www.marigold.cz/assets/generativni-ai-graf.webp)
 
 ## Pochybnosti o vibe codingu?
 
@@ -51,7 +51,7 @@ Chamatha Palihapita asi nebudete znát. Je to venture kapitalista a spoluzaklada
 
 Vychází z výše zmíněných [dat Similarweb](https://www.similarweb.com/corp/wp-content/uploads/2025/10/attachment-Global-AI-Tracker-1.pdf), které ukazují, jak se zhruba od května 2025 propadají využívání předních vibe codingových webových aplikací. 
 
-![Statistiky vibecoding služeb dle Similarweb](/assets/similarweb-vibecoding.jpeg)
+![Statistiky vibecoding služeb dle Similarweb](/assets/similarweb-vibecoding.webp)
  
 Chamatha Palihapitiya píše:
 >  Mělo by být znepokojivé, že se tato kategorie zmenšuje. Myslím, že

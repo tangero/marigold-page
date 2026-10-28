@@ -14,7 +14,7 @@ summary_points:
 - Varuje, že odebrání těchto prostředků může ohrozit rozvoj a bezpečnost v obcích a způsobit nespokojenost samospráv
 - Srovnává systém s dalšími zeměmi a upozorňuje, že úprava bez kompenzace nákladů by byla pro obce likvidační
 title: "Stát chce sebrat obcím peníze z výběru pokut za rychlost"
-thumbnail: https://www.marigold.cz/assets/merenirychlosti.jpg
+thumbnail: https://www.marigold.cz/assets/merenirychlosti.webp
 ---
 
 Nová vláda se prezentuje plánem sebrat obcím peníze z radarových měření za překročení rychlosti. Ty byly dosud "příjmem rozpočtu obce" a zejména Motoristům sobě ležely tyto peníze v žaludku. Tak si k tomu řekněme pár faktů. 

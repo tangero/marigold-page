@@ -8,7 +8,7 @@ namalovano: 1882
 autor: Édouard Manet    
 obraz: Bar ve Folies-Bergère
 styl: modernistický impresionismus
-urlobrazu: /assets/obrazy/edouard-manet-a-bar-at-the-folies-bergere.jpg
+urlobrazu: /assets/obrazy/edouard-manet-a-bar-at-the-folies-bergere.webp
 ---
 
 
@@ -23,7 +23,7 @@ Obraz je součástí sbírky Courtauld Gallery v Londýně, kde můžete zažít
 - 🎭 Proslul kontroverzními díly *Snídaně v trávě* (1863) a *Olympia* (1863), která byla odmítnuta na Salon prestižní Académie des Beaux-Arts
 - 👥 Ačkoli byl spjat s impresionisty, zůstal věrný svému vlastnímu stylu a nikdy se plně nepřipojil k jednomu hnutí
 
-![Bar ve Folies-Bergère](/assets/obrazy/edouard-manet-a-bar-at-the-folies-bergere.jpg)
+![Bar ve Folies-Bergère](/assets/obrazy/edouard-manet-a-bar-at-the-folies-bergere.webp)
 
 ## 🎨 O obraze Bar ve Folies-Bergère
 

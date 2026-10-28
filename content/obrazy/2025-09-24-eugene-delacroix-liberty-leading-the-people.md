@@ -8,7 +8,7 @@ namalovano: 1830
 autor: "Eugène Delacroix"
 obraz: "Svoboda vede lid"
 styl: romantismus
-urlobrazu: "/assets/obrazy/eugene-delacroix-liberty-leading-the-people.jpg"
+urlobrazu: "/assets/obrazy/eugene-delacroix-liberty-leading-the-people.webp"
 ---
 Svoboda vedoucí lid je ikonické dílo francouzského romantismu, které se stalo symbolem Červencové revoluce 1830. Obraz zachycuje alegorickou postavu Svobody vedoucí francouzský lid na barikády, kombinuje realismus s dramatickou symbolikou.
 
@@ -22,7 +22,7 @@ Musée du Louvre, Paříž, Francie
 - 🎭 Byl známý svou vášní pro dramatické výjevy
 - 🌍 Cestoval do severní Afriky, což ovlivnilo jeho pozdější tvorbu
 
-![Svoboda vede lid](/assets/obrazy/eugene-delacroix-liberty-leading-the-people.jpg)
+![Svoboda vede lid](/assets/obrazy/eugene-delacroix-liberty-leading-the-people.webp)
 
 ## 🎨 O obraze Svoboda vede lid - Liberty Leading the People
 

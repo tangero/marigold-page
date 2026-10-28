@@ -16,7 +16,7 @@ title: Právě vyšla moje kniha Koncernová pětiletka
 
 Avizoval jsem, že chcu tento pokus učinit. A stalo se. Na Palmknihách právě vyšla moje "nová" <a href="https://www.goodreads.com/book/show/11502159-koncernov-p-tiletka">kniha Koncernová pětiletka.</a> Takže pár dat k ní: je to jen a výhradně ekniha, vychází v běžných formátech epub/mobi/pdf tak, abyste ji přečetli na všech běžných čtečkách jako iPad, Kindle, CyBook, mobilech a dalších zařízeních včetně PC. Ale doporučuju čtečku. Kniha stojí 79 Kč (s DPH) a to je zhruba ten hlavní důvod, proč vychází i jako ekniha. V papírové verzi by se pohybovala někde mezi 150-200 Kč na obchodě. A co je na tom nejlepší? Kniha je bez DRM, tedy bez softwarové ochrany. Můžete si ji stáhnout ve všech zmíněných formátech a pouštět, kde je vám libo, pro přiměřenou osobní potřebu. 
 
-!(/assets/obalka-knihy-koncernova-petiletka.png)
+!(/assets/obalka-knihy-koncernova-petiletka.webp)
 
 
 Kniha je něco, jako pokus. Když jsem měl vloni schůzku s šéfem Palmknih Jiřím Vlčkem, bavili jsme se o tom, co by bylo možné udělat pro to, aby eknihy v Česku šly podobně nahoru, jako v zahraničí. A kromě mnoha super nápadů (nakoupit a rozdat čtečky) vznikl jeden konstruktivní: chce to příklad. Chce to vidět, jak opravdu prodej eknihy funguje. To, že se běžné knihy prodají elektronicky desítky kusů půl roku poté, co vyšla tiskem, moc velký motiv pro vydavatele, jít do eknih, neznamená. Prodalo by se zásadně více, kdyby kniha vyšla včas elektronicky, bez DRM opruzů? Nebo si ji lidi nasdílejí, rozdají? A kolik se toho prodá, když vyjde JEN elektronicky? Bylo by to proveditelné? Jenže takhle nikdo z autorů knížku vydat nechce, namítal Jiří Vlček. 

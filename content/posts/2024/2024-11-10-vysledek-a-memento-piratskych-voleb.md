@@ -11,7 +11,7 @@ summary_points:
 - Nová Vlna omezuje transparentnost a demokracii úpravami hlasování a pravomocí.
 - Reformy mají snížit byrokracii a umožnit efektivnější fungování strany.
 - Piráti se chtějí zaměřit na centristické voliče s důrazem na sociální témata.
-thumbnail: https://www.marigold.cz/assets/rp-2024.jpg
+thumbnail: https://www.marigold.cz/assets/rp-2024.webp
 title: Výsledek a memento pirátských voleb
 ---
 

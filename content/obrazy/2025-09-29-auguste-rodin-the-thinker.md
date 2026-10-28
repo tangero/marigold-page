@@ -8,7 +8,7 @@ namalovano: 1880-1902
 autor: "Auguste Rodin"
 obraz: Myslitel
 styl: "realismus, počátky moderního sochařství"
-urlobrazu: "/assets/obrazy/auguste-rodin-the-thinker.jpg"
+urlobrazu: "/assets/obrazy/auguste-rodin-the-thinker.webp"
 ---
 Myslitel je jednou z nejznámějších soch na světě a ikonickým symbolem filozofické kontemplance. Bronzová socha nahého muže v nadživotní velikosti, sedícího v hluboké meditaci, se stala univerzálním symbolem intelektuální aktivity a myšlení.
 
@@ -22,7 +22,7 @@ Musée Rodin, Paříž, Francie (originál), existuje však mnoho odlitků po ce
 - 🎭 Byl obviněn z toho, že své sochy odlévá přímo z živých modelů
 - 🏺 Nikdy nepracoval s mramorem sám, měl tým pomocníků
 
-![Myslitel](/assets/obrazy/auguste-rodin-the-thinker.jpg)
+![Myslitel](/assets/obrazy/auguste-rodin-the-thinker.webp)
 
 ## 🎨 O obraze Myslitel - The Thinker
 

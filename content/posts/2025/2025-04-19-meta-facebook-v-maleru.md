@@ -11,7 +11,7 @@ summary_points:
 - Meta tajně spolupracovala s Čínou na cenzuře a sledování.
 - Meta poskytovala Číně data uživatelů a sdílela technologie.
 - Meta se snaží umlčet svědka soudy a pokutami.
-thumbnail: https://www.marigold.cz/assets/Sarah-Wynn-Williams.jpg
+thumbnail: https://www.marigold.cz/assets/Sarah-Wynn-Williams.webp
 title: Meta v maléru - svědectví bývalé šéfky Facebooku o tajných dohodách s Čínou
 ---
 

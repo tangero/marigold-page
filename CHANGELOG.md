@@ -8,9 +8,11 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
 ## [Unreleased]
 
 ### Removed
+- Zbytky tech-news v kořeni repozitáře: `tech-news-archive/` (103 MB, 11 tisíc souborů) a `tech-news/`
 - Sekce tech-news (pozastavená od 2026-03-29) je smazaná celá: `content/tech-news/`, legacy `_tech_news/`, `layouts/tech-news/`, archiv `static/tech-news-archive.tar.gz` (rozbalený měl 103 MB a 10 875 souborů) i krok, který ho v `hugo-build.yml` rozbaloval. Odstraněny workflowy `tech-news.yml` a `archive-tech-news.yml`, skripty `scripts/*tech_news*` a další skripty jen pro tech-news, jejich testy, data `data/tech_news_*` a `data/clicky_goals.yaml`, permalink v `hugo.toml`, položka „Zprávy“ v menu a tech-news ve vyhledávání. Adresy `/tech-news/…` teď vracejí 404
 
 ### Changed
+- Obrázky ve `static/assets/` převedeny na WebP (max. šířka 2000 px, kvalita 82, bez metadat): 438 z 449 JPG/PNG, 350 MB → 49 MB. U 11 souborů by WebP vyšel větší, ty zůstaly v původním formátu. Ikony ve `static/images/` a `static/assets/tipuesearch/` se nepřeváděly. Odkazy (front matter `thumbnail`/`urlobrazu`, markdown, šablony, i v URL-kódované podobě) přepsány ve 449 souborech, originály smazány. Opraveno 13 odkazů, které se od souboru lišily velikostí písmen, takže na GitHub Pages nefungovaly (hlavně `content/obrazy/`). Staré adresy `…/assets/*.jpg|png` převedených obrázků vracejí 404
 - Audio (44 souborů MP3/M4A, 334 MB) se servíruje z Cloudflare R2 stejně jako na vibecoding.cz: bucket `vibecoding-assets`, prefix `marigold/audio/`, doména `https://media.vibecoding.cz/marigold/audio/` (s podporou Range, takže jde přeskakovat). Přepsány `audio_url` a odkazy ve 45 článcích. Z repozitáře smazány `static/audio/` i identická legacy kopie `audio/`, takže web nahrávaný na GitHub Pages je zhruba o 334 MB menší. Staré adresy `www.marigold.cz/audio/…` vracejí 404
 - `hugo-build.yml`: checkout s `fetch-depth: 1` místo `0`. Build historii gitu nepotřebuje (nepoužívá `.GitInfo`), takže se nemusí stahovat celých 6,5 GB repozitáře. Checkout trval 0:30–3:43
 
@@ -29,8 +31,8 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
 - Stránka `/zebricek/` s nejlépe hodnocenými články za 7 dní, měsíc, 3 a 6 měsíců (`layouts/_default/zebricek.html`), data z `https://www.vibecoding.cz/api/rating/top`; nahrazuje žebříček na top.marigold.cz
 - Promo posledních tří článků z newsletteru zandl.substack.com (`layouts/partials/substack-promo.html`) místo widgetu FeedWind: RSS se stahuje při Hugo buildu (`resources.GetRemote`, Substack feed nemá CORS), karty s obrázkem ze Substack CDN (ořez 480×300), titulkem a perexem, odkazy s UTM `utm_campaign=substack-promo`. Na titulce nahrazuje box „Patrickův newsletter“ za 5. článkem (ten zůstává jako záloha, když feed nejde načíst); v článcích (`posts`, `ai`, `mobilnisite`) je pod textem. Při výpadku Substacku build projde s varováním a blok se nevykreslí. Styly `.substack-*` v `assets/scss/main.scss` včetně dark mode a kompaktní mobilní varianty
 - Denní cron (5:15 UTC) v `.github/workflows/hugo-build.yml`, aby se promo obnovilo i bez pushe; `[caches.getresource] maxAge = "1h"` v `hugo.toml`
-- Nový článek „Smlouvy, AI, GDPR - můžete smlouvy a osobní údaje nahrávat do Claude nebo ChatGPT?“ (`content/posts/2026/2026-10-23-smlouvy-ai-gdpr.md`) s thumbnailem `static/assets/smlouvy-ai-gdpr.jpg`
-- Nový článek „K pirátské a obecné povolební situaci pár čísel a úvah“ (`content/posts/2026/2026-10-12-povolebni-cisla-pirati-2026.md`) s thumbnailem `static/assets/pirati-kandidatka-praha-2026.jpg`
+- Nový článek „Smlouvy, AI, GDPR - můžete smlouvy a osobní údaje nahrávat do Claude nebo ChatGPT?“ (`content/posts/2026/2026-10-23-smlouvy-ai-gdpr.md`) s thumbnailem `static/assets/smlouvy-ai-gdpr.webp`
+- Nový článek „K pirátské a obecné povolební situaci pár čísel a úvah“ (`content/posts/2026/2026-10-12-povolebni-cisla-pirati-2026.md`) s thumbnailem `static/assets/pirati-kandidatka-praha-2026.webp`
 
 ### Removed
 - Zbytky Firebase (projekt se vypíná): adresář `firebase-functions/` (FCM `subscribeToTopic`), skript `.github/scripts/send_fcm_notifications.py` bez workflow a widget `top.marigold.cz/mg-feedback.js` v legacy Jekyll šabloně `_layouts/post.html`
@@ -50,7 +52,7 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
 - `static/js/promo-banner.js` posílá beacon zobrazení (`impressionUrl`, `site=marigold`), až je banner aspoň z poloviny vidět. Dosud marigold hlásil jen kliky, takže v administraci vibecoding.cz nešlo spočítat zobrazení ani CTR
 - Promo článků ze Substacku se na produkci nezobrazovalo: Substack vrací IP adresám GitHub Actions 403. Feed se nově stahuje přes proxy `https://www.vibecoding.cz/api/substack-feed` (tangero/vibecoding-site#271)
 - Infografika blackoutu: box Frekvence už neukazuje po celou dobu 50,00 Hz — po výpadku V411 zobrazuje lokální zákmit „50,0 ±0,2 Hz" (žlutý stav; dle zprávy odchylka >200 mHz, která přepnula bloky do otáčkové regulace); nominálních 50,00 Hz během krize je záměr (deficit se dovážel, frekvenci držela synchronní Evropa až do vzniku ostrova)
-- Opraven rozbitý obrázek v článku blackout ENTSO-E: cesta `/assets/blackout-situace.jpg` → `/assets/blackout-situace.png` (soubor v `static/assets/` je PNG)
+- Opraven rozbitý obrázek v článku blackout ENTSO-E: cesta `/assets/blackout-situace.jpg` → `/assets/blackout-situace.webp` (soubor v `static/assets/` je PNG)
 - Audit infografiky blackoutu (`static/assets/blackout/timeline.html`): přístupnost a mobilní použitelnost — viditelný focus (`:focus-visible`), dotykové cíle ≥ 44 px (tlačítka, neviditelné rozšíření teček na ~37 px a celé osy), `touch-action` pro spolehlivý drag-scrub na iOS/Android, `type="button"` + přepínání `aria-label`/`aria-pressed` u přehrávání, `prefers-reduced-motion`, kontrast žlutých textů přes nový token `--warn-text` (WCAG AA v obou režimech), oprava zaokrouhlení hodin (11:59:43 → 11:59:44) a překryvu popisků osy na 320px displejích
 
 ### Added

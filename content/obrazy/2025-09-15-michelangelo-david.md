@@ -8,7 +8,7 @@ namalovano: 1501-1504
 autor: Michelangelo
 obraz: David
 styl: "vrcholná renesance"
-urlobrazu: /assets/obrazy/michelangelo-david.jpg
+urlobrazu: /assets/obrazy/michelangelo-david.webp
 ---
 
 David je monumentální mramorová socha vytvořená Michelangelem, která představuje biblického hrdinu před jeho bojem s Goliášem. S výškou přes 5 metrů je tato socha považována za vrchol renesančního sochařství a symbol florentské republiky.
@@ -23,7 +23,7 @@ Galleria dell'Accademia, Florencie, Itálie
 - 📐 Studoval lidskou anatomii pitvou těl
 - 💪 Vytesal Davida z jediného kusu mramoru, který ostatní umělci odmítli
 
-![David](/assets/obrazy/michelangelo-david.jpg)
+![David](/assets/obrazy/michelangelo-david.webp)
 
 ## 🎨 O obraze David
 

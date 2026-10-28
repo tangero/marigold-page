@@ -19,7 +19,7 @@ Na co použít umělou inteligenci? Dnes už na mnoho věcí. Tady jsou příkla
 
     Co je to za obilí?​​​​​​​​​​​​​​​​
     
-![Obilí](https://res.cloudinary.com/dvwv5cne3/image/fetch/h_400,c_limit/https://www.marigold.cz/assets/obili.png) 
+![Obilí](https://res.cloudinary.com/dvwv5cne3/image/fetch/h_400,c_limit/https://www.marigold.cz/assets/obili.webp) 
 
 Na základě obrázku se jedná o ječmen (Hordeum vulgare). Toto obilí lze identifikovat podle několika charakteristických znaků:
 
@@ -37,7 +37,7 @@ Ječmen je jednou z nejstarších kultivovaných obilnin a je široce využívá
 
     Jak mi sluší toto oblečení? Doporučujes nějaký jiný outfit na procházku městem?​​​​​​​​​​​​​​​​
 
-![Outfit](https://res.cloudinary.com/dvwv5cne3/image/fetch/h_400,c_limit/https://www.marigold.cz/assets/outfit.png)  
+![Outfit](https://res.cloudinary.com/dvwv5cne3/image/fetch/h_400,c_limit/https://www.marigold.cz/assets/outfit.webp)  
 
 Vaše současné oblečení vypadá vhodně a pohodlně pro procházku městem a na pláži. Máte na sobě praktickou kombinaci tmavé bundy, světlé košile a tmavých kalhot, což je univerzální a stylový outfit pro městské prostředí.
 

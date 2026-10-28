@@ -6,7 +6,7 @@ categories:
   - AI
   - Politika
 summary_points: []
-thumbnail: /assets/rumsfeldova-matice.png
+thumbnail: /assets/rumsfeldova-matice.webp
 audio_url: ''
 hide: false
 ---
@@ -19,7 +19,7 @@ No a pak přišla umělá inteligence a já jsem najednou zjistil, že to, co d�
 
 Ale právě Rumsfeldova matice popisuje jeden ze základních problémů práce s informacemi. Lidé nějaké informace mají a vědí, že je mají. Jiné nemají, ale alespoň vědí, že jim chybí. Další informace už k dispozici mají, jen si neuvědomují, že je potřeba je začlenit a dát do souvislostí. A nakonec existuje celá řada informací, které nemají, aniž by tušili, že jim chybí.
 
-![](/assets/rumsfeldova-matice.png)
+![](/assets/rumsfeldova-matice.webp)
 
 To, jak umíte pracovat s těmito mezerami, zásadně ovlivňuje, jak realisticky nahlížíte na skutečnost. Chybějící informaci lze obvykle doplnit, pokud víte, že vám chybí. Mnohem nebezpečnější je odmítnout připustit, že by vám chybět mohla. A největší slepé místo vzniká tehdy, když ani nevíte, že byste se měli na něco zeptat.
 

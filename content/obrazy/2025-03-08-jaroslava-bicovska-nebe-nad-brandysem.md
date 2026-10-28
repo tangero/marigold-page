@@ -8,7 +8,7 @@ namalovano: 2017
 autor: Jaroslava Bičovská
 obraz: Nebe nad Brandýsem 
 styl: lyrický realismus
-urlobrazu: /assets/obrazy/jaroslava-bicovska-nebe-nad-brandysem.jpg
+urlobrazu: /assets/obrazy/jaroslava-bicovska-nebe-nad-brandysem.webp
 ---
 
 
@@ -17,7 +17,7 @@ Malířka Jaroslava Bičovská je brandýská rodačka a ve své tvorbě se k m�
 
 Velký obraz se skládá ze čtyř pláten, které vytvářejí pohled na Brandýs z podkroví nové budovy úřadu (kecám, je to z malířčina bytu, ale to je hned vedle!).
 
-![Jaroslava Bičovská - Nebe nad Brandýsem (2017)](/assets/obrazy/jaroslava-bicovska-nebe-nad-brandysem.jpg)
+![Jaroslava Bičovská - Nebe nad Brandýsem (2017)](/assets/obrazy/jaroslava-bicovska-nebe-nad-brandysem.webp)
 
 🏰 typická kombinace realismu s abstraktními prvky, která obraz činí vizuálně bohatým a přitom otevřeným interpretacím. \
 🌈 použití živých barev spolu s rytmickým členěním ploch umožňuje divákovi „procházet“ obrazem a objevovat nové detaily i skryté významy. \

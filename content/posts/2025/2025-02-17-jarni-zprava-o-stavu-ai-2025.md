@@ -10,7 +10,7 @@ summary_points:
 - Google s modelem Gemini dohání náskok.
 - Zpráva se zaměří na evropskou a čínskou AI strategii.
 - Zpráva o AI je placená a ke stažení v PDF a ePub.
-thumbnail: https://www.marigold.cz/assets/macron-altman.jpg
+thumbnail: https://www.marigold.cz/assets/macron-altman.webp
 title: Zpráva o stavu AI pro jaro 2025
 ---
 
@@ -24,7 +24,7 @@ Materiál je rozsáhlejší, 15 stran v PDF, cca 30 000 znaků. Proto je ke sta�
 
 Cena zprávy je 100 Kč. Zaplatit můžete buďto přes QR platbu nebo [službou Buy me a Coffee](https://buymeacoffee.com/vybaveni) nebo elektronicky přes [Payhip](https://payhip.com/b/pOzsy)  Přednastavenou částku 100 Kč můžete libovolně změnit nahoru (i dolů, pokud vám zpráva nebyla užitečná).
 
-![QR platba](/assets/ebook/qr-fio.jpeg)
+![QR platba](/assets/ebook/qr-fio.webp)
 
 Proč placení za zprávu? Sepsání takové zprávy je náročné nejenom časově, ale také finančně jak na předplatné služeb, tak na provoz a testování LLM modelů.
 

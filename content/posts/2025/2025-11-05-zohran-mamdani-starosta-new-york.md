@@ -23,7 +23,7 @@ summary_points:
   stát New York
 - Jeho úspěch bude záviset na schopnosti vyjednávat a budovat koalice navzdory strukturálním
   překážkám
-thumbnail: https://www.marigold.cz/assets/zohran-mamdani.jpeg
+thumbnail: https://www.marigold.cz/assets/zohran-mamdani.webp
 title: Zohran Mamdani je nový starosta New Yorku a my ho neznáme ...
 ---
 New York má nového starostu, což by nám mohlo být jedno, kdyby se jím nestal čtyřiatřicetiletý Zohran Mamdani. 

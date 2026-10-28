@@ -12,7 +12,7 @@ summary_points:
 - Priming efekt ztěžuje vytváření vlastních originálních textů po použití AI.
 - Lidé podvědomě spojují plynulost textu s kompetencí, což AI využívá.
 - Jazykoví profesionálové pomáhají s finální úpravou textu a porozumění čtenářům.
-thumbnail: https://www.marigold.cz/assets/alice-delorme-benites.png
+thumbnail: https://www.marigold.cz/assets/alice-delorme-benites.webp
 title: Alice Delorme Benites - Jak ovládnout umění psaní s umělou inteligencí (přepis přednášky)
 ---
 

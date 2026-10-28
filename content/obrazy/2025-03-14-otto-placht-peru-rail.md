@@ -8,7 +8,7 @@ namalovano: 2020
 autor: Otto Placht
 obraz: Peru Rail
 styl: šamanský expresionismus
-urlobrazu: /assets/obrazy/otto-placht-peru-rail-2020.jpg
+urlobrazu: /assets/obrazy/otto-placht-peru-rail-2020.webp
 ---
 
 
@@ -21,7 +21,7 @@ Otto Placht - obraz Peru Rail namalovaný v Amazonii v roce 2020. Otto Placht sp
 - 👀 Detailní figurální scény připomínají vyprávění vizionářů, kteří vidí více než jen fyzickou realitu.
 - 🌄 Expresivní krajina s dramatickým nebem umocňuje pocit duchovní cesty a propojení s přírodou.
 
-![Otto Placht - obraz Peru Rail namalovaný v Amazonii v roce 2020. ](/assets/obrazy/otto-placht-peru-rail-2020.jpg)
+![Otto Placht - obraz Peru Rail namalovaný v Amazonii v roce 2020. ](/assets/obrazy/otto-placht-peru-rail-2020.webp)
 
 Poznámka pod čarou: kašlete na to, že digitálně ten obraz vypadá obyčejně. Je to plátno přes dva metry kreslené vlastníma barvama, nejde to pořádně reprodukovat a osobně viděno je úchvatné. 
 

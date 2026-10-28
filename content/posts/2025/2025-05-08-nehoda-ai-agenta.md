@@ -11,7 +11,7 @@ summary_points:
 - Agent měl koupit lístky na hru Járy Cimrmana.
 - Koupená hra nebyla od Járy Cimrmana.
 - Seniorní management musí řešit chyby AI agentů.
-thumbnail: https://www.marigold.cz/assets/nehoda-ai-agenta.png
+thumbnail: https://www.marigold.cz/assets/nehoda-ai-agenta.webp
 title: První česká tragédie prostřednictvím autonomního AI agenta
 ---
 

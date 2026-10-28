@@ -8,12 +8,12 @@ namalovano: 2004
 autor: Damien Hirst
 obraz: Furfuryl Mercaptan
 styl: minimalismus
-urlobrazu: /assets/obrazy/hirst-furfuryl-cely.jpeg
+urlobrazu: /assets/obrazy/hirst-furfuryl-cely.webp
 ---
 
 Dneska se dostaneme na tenký led moderního umění (a máte právo nesouhlasit, pokud obraz osobně uvidíte, k čemuž je na konci návod). Damien Hirst je totiž dnes nejbohatší umělec, jeho díla se prodávají za miliony dolarů a často si méně edukovaná média odfrknou, že není za co platit. Hirst používá značně odosobněný styl, ať už jde o Žraloka ve formaldehydu nebo právě sérii Body, do níž patří tento obraz Furfuryl.
 
-![Damien Hirst - Furfuryl Mercaptan](/assets/obrazy/hirst-furfuryl-cely.jpeg)
+![Damien Hirst - Furfuryl Mercaptan](/assets/obrazy/hirst-furfuryl-cely.webp)
 
 1️⃣Hirst se snažil odstranit jakýkoliv náznak autorovy ruky \
 2️⃣tím dosáhl extrémní preciznosti a mechanického vzhledu děl \
@@ -34,7 +34,7 @@ Malé obrazy ze série Spot si můžete koupit za pár stovek (printy) či tisí
 🤖Tím se dostáváme zpět. Je umění něco, co by robot nebo člověk se šablonou a návodem byl taky schopen udělat? Jistě, že Body od Hirsta umí robotické rameno nakreslit stejně precizně, jenže by zvládlo i Moneta. A Hirst systematicky odlišuje nápad a působení od provedení. A zneklidňuje tím, že ze zdánlivé jednoduchosti a mechaničnosti je řemeslně náročné dílo, které působí až v osobním kontaktu.
 Jak moc pravděpodobné je, že takové dílo dá do kupy AI? Hrál jsem si s tím hodně, nějaké teze mám, zjednodušeně řečeno jsme hodně daleko k tomu, aby AI vygenerovala umění "s duší" - ale taky je jisté, že se tam jednou dostaneme. Je to téma na hezkou přednášku. Pro představu jsem vám jedno AI plátno á la Hirst vygeneroval. 
 
-![Hirst vygenerovaný umělou inteligencí, fakt je, že tam má blockery kvůli copyrightu](/assets/obrazy/ai-hirst.png)
+![Hirst vygenerovaný umělou inteligencí, fakt je, že tam má blockery kvůli copyrightu](/assets/obrazy/ai-hirst.webp)
 
 🏃‍♂️Vyzkoušejte to na sobě. Teď ten návod, kde tohoto Hirsta vidět. Pochází z Tsoukernikovy sbírky, která je právě vystavována v  galerii Magnus Art J&T banky na pražské Invalidovně. Vstupné zdarma, rozhodně se vyplatí Tsoukernikovu sbírku vidět, pár pláten z ní si postupně ukážeme.
 

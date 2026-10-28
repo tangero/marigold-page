@@ -11,7 +11,7 @@ summary_points:
 - Magistral nativně uvažuje v několika jazycích, včetně angličtiny, francouzštiny
   a čínštiny.
 - Magistral cílí na odvětví jako právo a finance díky sledovatelnosti rozhodování.
-thumbnail: https://www.marigold.cz/assets/mistral-magistral.png
+thumbnail: https://www.marigold.cz/assets/mistral-magistral.webp
 title: Mistral AI představil Magistral, svůj první model pro logické uvažování
 ---
 
@@ -27,7 +27,7 @@ Komerční verze Magistral Medium nabízí vyšší výkonnost pro podnikové na
 
 Srovnání s konkurencí ukazuje nadprůměrné výsledky napříč různými benchmarky. Na testu GPQA Diamond dosahuje Magistral Medium 70,8% úspěšnosti, na LiveCodeBench 59,4% a na Aider Polyglot 47,1%. Model překonává některé etablované modely jako GPT-4 nebo Claude v určitých kategoriích testů. Tady je pár podrobností, ale počkal bych si na nezávislé specializované testy.
 
-![Mistral Magistral](/assets/plot-magistral.png)
+![Mistral Magistral](/assets/plot-magistral.webp)
 
 
 

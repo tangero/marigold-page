@@ -17,7 +17,7 @@ summary_points:
 - OpenShell je v alfa fázi a zatím podporuje pouze režim jednoho uživatele — podnikové nasazení je výhled, ne realita
 - OpenClaw zůstává rizikovým softwarem s dokumentovanými bezpečnostními incidenty, NemoClaw řeší jen část problému 
 title: "NVIDIA NemoClaw: bezpečnostní pancíř pro OpenClaw, nebo chytrá cesta k vendor lock-inu?"
-thumbnail: https://www.marigold.cz/assets/NVIDIA-NemoClaw-Jensen.jpg
+thumbnail: https://www.marigold.cz/assets/NVIDIA-NemoClaw-Jensen.webp
 ---
 
 NVIDIA právě představila průlomové řešení, které na první pohled nezní nijak průlomově. Na konferenci GTC 2026 v San José představila [NemoClaw](https://www.nvidia.com/en-us/ai/nemoclaw/), tedy open-source stack, který má řešit chronický problém agentní platformy OpenClaw. Bezpečnost. 

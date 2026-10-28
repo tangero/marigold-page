@@ -16,7 +16,7 @@ summary_points:
   en\xFD."
 - "Audio P\u0159ehledy v NotebookML jsou kvalitn\xED, ale pouze v angli\u010Dtin\u011B\
   ."
-thumbnail: https://www.marigold.cz/assets/google-notebookml.png
+thumbnail: https://www.marigold.cz/assets/google-notebookml.webp
 title: "Audio podcast z va\u0161ich text\u016F automaticky. NotebookLM a Elevenlabs\
   \ GenFM"
 ---
@@ -29,7 +29,7 @@ Prvním projektem je  [NotebookLM](https://notebooklm.google.com/)  - služba sp
 
 Základem služby NotebookML je možnost nahrát do ní dokumenty ke zkoumanému tématu v několika formátech: od PDF, přes Google Docs a Slides až po webové stránky. Následně služba vygeneruje sadu doporučených dotazů ke zkoumání těchto dokumentů a můžete samozřejmě pokládat vlastní dotazy. Dotazy jsou zodpovídány pomocí AI z dokumentů, které jste do služby nahráli. Můžete si nechat vygenerovat nejrůznější souhrny, analýzy, můžete nechat službu porovnat dokumenty proti sobě. Je to zkrátka super záležitost, pokud potřebujete analyzovat podkladové materiály za účelem studia, přípravy firemních podkladů a dalších prací, kde potřebujete pracovat s větším množstvím materiálů.
 
-![Google NotebookLM pracovní rozhraní](/assets/notebookml.png)
+![Google NotebookLM pracovní rozhraní](/assets/notebookml.webp)
 
 Naprosto úžasnou z této služby ale dělá funkce  **Audio Overviews**  - Audio Přehledy. Přehledy vám totiž vygenerují souhrn jako hlasový podcast, ve kterém dva moderátoři vedou rozhovor na bázi podkladů, které jste jim poskytli. Rozhovor si můžete přizpůsobit klasicky tím, že dopředu řeknete, na co se má rozhovor zaměřit a také jakou má mít délku. Zda pár minut do půl hodiny či delší.
 
@@ -59,7 +59,7 @@ Pro nás je ale teď důležitá služba GenFM, která zatím funguje jen v mobi
 
 Služba opět funguje vcelku jednoduše. Nahrajete do ní dokument, můžete ho také ofotit, dát odkaz na článek nebo na Youtube video - a po stisku GenFM tlačítka je vám vygenerován podcast, v němž se dva moderátoři baví o tématu.
 
-![Elevenlabs GenFM na iOS](/assets/elevenlabs-genfm.jpeg)
+![Elevenlabs GenFM na iOS](/assets/elevenlabs-genfm.webp)
 
 Oproti NotebookML jde o citelně jednodušší službu. Výstup nemůžete prakticky nijak přizpůsobovat, kromě toho, že si můžete vybrat hlasy a písmo zobrazovaného textu. Co je ale podstatné: služba díky backendu Elevenlabs funguje výborně i v češtině. Sice není podcast zdaleka tak přirozený, jako v NotebookML, ale je poslouchatelný - a pokud si přejete, je v češtině nebo v dalším z cca 30 jazyků.
 

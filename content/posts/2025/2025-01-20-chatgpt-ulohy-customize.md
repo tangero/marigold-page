@@ -12,7 +12,7 @@ summary_points:
 - Úlohy umožňují naplánovat spuštění promptu v určitý čas.
 - Přizpůsobení umožňuje nastavit, jak má AI s uživatelem komunikovat.
 - Úlohy mají omezení, lze mít jen 10 spuštěných úloh.
-thumbnail: https://www.marigold.cz/assets/Custom-Instructions-UI.png
+thumbnail: https://www.marigold.cz/assets/Custom-Instructions-UI.webp
 title: ChatGPT Úlohy a Customizace
 ---
 
@@ -24,7 +24,7 @@ Musím říct, že nejdříve ta funkce vypadala jako blbost. Pak se objevily zv
 
 Jak Úlohy fungují? Vyberete si z roletky GPT-4o s naplánovanými úlohami a nyní můžete zadat prompt, který bude pravidelně vykonáván. Takto vykonaný prompt vám bude doručen emailem a/nebo notifikací, to podle toho, jak máte nastavené upozorňování v ChatGPT. Jak notifikace, tak email ovšem odkazují jen na stránku ChatGPT, teprve na ní najdete výsledek. 
 
-![Úlohy v menu modelů](/assets/chatgpt-uloha.png)
+![Úlohy v menu modelů](/assets/chatgpt-uloha.webp)
 
 A k čemu to je? Můžete si tak nechat například sledovat aktualizaci stránek a v momentě, kdy se tam objeví téma, jaké vás zajímá a zvolíte si jej, tak vám přijde ona notifikace. Já jsem si například nastavil, aby mi každé ráno chodila informace o tom, kdyby mělo pršet s nějakou větší pravděpodobností. Na jednu stranu hezké, na druhou stranu kvůli tomu vytopit tolik procesorového výkonu mi přijde divné. 
 
@@ -36,7 +36,7 @@ Další příklady použití? Spíše úsměvné: můžete si kupříkladu necha
 
 Zajímavé je, že prompt je v nastaveních uložený už v angličtině, ačkoliv jsem jej zadával česky a požaduji českou odpověď...
 
-![Detail úlohy](/assets/chatgpt-uloha-detail.png)
+![Detail úlohy](/assets/chatgpt-uloha-detail.webp)
 
 
 Takže experimentujte. Až se podaří Úlohy napojit i nějak jinak ven, začne to být zajímavější. Na monitoring zpráv to je přeci jen trochu overkill, ačkoliv souhlasím s tím, že udělat sumář jen tak nějaká služba neumí.  
@@ -45,7 +45,7 @@ Takže experimentujte. Až se podaří Úlohy napojit i nějak jinak ven, začne
 
 Další poměrně žhavou novinkou je režim Přizpůsobení. Tedy, možnost přizpůsobit chat mělo ChatGPT již nějakou dobu, ale bylo možné vložit jen 1500 znaků bez hlubší struktury a tím jste se snažili nakonfigurovat způsob, jakým vám chat odpovídá. 
 
-![ChatGPT Customize - přizpůsobení chatu s AI](/assets/Custom-Instructions-UI.png)
+![ChatGPT Customize - přizpůsobení chatu s AI](/assets/Custom-Instructions-UI.webp)
 
 Nově Přizpůsobení umožňuje lepší strukturu zadání přizpůsobovacích dat. Zvláště si můžete nastavit, jak vás ChatGPT má oslovovat, kdo jste - jaké máte povolání či co děláte a také, jaké vlastnosti ChatGPT má mít, třeba trpělivost, má být skeptické nebo poetické atd. Můžete si nastavit, jaké hodnoty zastáváte vy, jaké máte zájmy a další informace, které mohou být obohacujícím kontextem pro ChatGPT. 
 

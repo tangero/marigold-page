@@ -23,7 +23,7 @@ summary_points:
 - Autor se omlouvá za dřívější optimismus ohledně zlepšení Česka.
 - Zlepšení situace v Česku potrvá desetiletí.
 - Autor napsal knihu a dokončil učebnice po těžkém roce.
-thumbnail: https://www.marigold.cz/assets/patrick-forbes-next.jpg
+thumbnail: https://www.marigold.cz/assets/patrick-forbes-next.webp
 title: Zúčtování s rokem 2024 a nahlížení do politiky verze 50
 ---
 

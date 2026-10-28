@@ -15,7 +15,7 @@ summary_points:
 - Projekt zahájen 1. února 2025 s cílem pokrýt všechny jazyky EU.
 - Projekt získal 37 milionů Euro od Evropské komise na rozjezd.
 - Účastní se 20 evropských institucí, firem a výpočetních center.
-thumbnail: https://www.marigold.cz/assets/openeurollm.png
+thumbnail: https://www.marigold.cz/assets/openeurollm.webp
 title: Evropa zatoužila po vlastním LLM. Bude OpenEuroLLM průšvih nebo má šanci?
 ---
 

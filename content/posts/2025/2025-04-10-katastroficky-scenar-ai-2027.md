@@ -11,7 +11,7 @@ summary_points:
 - Autoři přisuzují AI lidské motivace, což je nepodložená antropomorfizace.
 - Scénář přeceňuje autonomii AI a podceňuje fyzická a institucionální omezení.
 - Zjednodušuje geopolitiku a ignoruje mezinárodní regulační možnosti.
-thumbnail: https://www.marigold.cz/assets/ai-2027-katastrofa.png
+thumbnail: https://www.marigold.cz/assets/ai-2027-katastrofa.webp
 title: Proč je scénář AI 2027 o vyhubení umělou inteligencí nepřesvědčivý a mimo realitu?
 ---
 

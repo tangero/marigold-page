@@ -15,7 +15,7 @@ summary_points:
 - Přesné vykreslování textu v obrázcích pro loga a diagramy
 - Různé přístupy pro fotorealistické scény versus stylizované ilustrace
 title: 🍌 Nano Banana a kompletní průvodce generováním obrázků pomocí Google Gemini 2.5 Flash
-thumbnail: https://www.marigold.cz/assets/nanobanana_10_55AM.jpeg
+thumbnail: https://www.marigold.cz/assets/nanobanana_10_55AM.webp
 ---
 
 Když se v srpnu zjevil obrazový model nazvaný Nano Banana, strhl se kolem toho velký povyk. Především proto, že byl prostě velmi dobrý v práci s obrázky. A tím myslím VELMI dobrý. Záhy se ukázalo, že je to dílo Google a ten jej počátkem záři začlenil do Google Gemini 2.5 Flash. Takže jej nyní mohou používat v rámci tohoto modelu všichni uživatelé. Pojďme se na Nano Banana model podívat - musím se omluvit, označení Gemini 2.5 Flash mi k srdci vážně nepřirostlo...  
@@ -33,9 +33,9 @@ Nejdůležitější pravidlo pro práci s Gemini 2.5 Flash zní: **popisujte sc�
 Místo promptu typu _"stařec, keramika, dílna, zlaté světlo"_ použijte:
 _"Fotorealistický portrét zblízka staršího japonského keramika s hlubokými vráskami vyřezanými sluncem a vřelým, znaleckým úsměvem. Pečlivě zkoumá čerstvě glazovanou čajovou misku. Prostředí je jeho rustikální, sluncem zalitá dílna. Scénu osvětluje měkké světlo zlaté hodiny proudící oknem, zvýrazňující jemnou texturu hlíny."_
 
-![Tady jsme použili prompt: stařec, keramika, dílna, zlaté světlo](/assets/nanobanana_10_26AM.jpeg)
+![Tady jsme použili prompt: stařec, keramika, dílna, zlaté světlo](/assets/nanobanana_10_26AM.webp)
 
-![A tady jsme použili komplexní prompt](/assets/nanobanana_10_27AM.jpeg)
+![A tady jsme použili komplexní prompt](/assets/nanobanana_10_27AM.webp)
 
 **Obrázek 1: Fotorealistický portrét japonského keramika ve své dílně - v prvním případě jsme použili jen soupis klíčových slov, v druhém jsme detailně popsali scénu, jak je uvedeno výše**
 
@@ -60,7 +60,7 @@ Pro vytváření samolepek, ikon nebo grafických prvků buďte explicitní ohle
 
 _"Samolepka ve stylu kawaii zobrazující veselou červenou pandu s malým bambusovým kloboučkem. Žvýká zelený bambusový list. Design má výrazné, čisté obrysy, jednoduché stínování a živou barevnou paletu. Pozadí musí být bílé."_
 
-![Samolepka pandy](/assets/nanobanana_10_34AM.jpeg)
+![Samolepka pandy](/assets/nanobanana_10_34AM.webp)
 
 **Obrázek 2: Kawaii samolepka červené pandy s bambusovým kloboučkem**
 
@@ -70,7 +70,7 @@ Gemini 2.5 Flash vyniká ve vykreslování textu. Buďte jasní ohledně přesn�
 
 "Vytvořte moderní, minimalistické logo pro kavárnu s názvem 'Patrickovo kafíčko'. Text by měl být čistým, tučným bezpatkovým písmem. Design by měl obsahovat jednoduchou, stylizovanou ikonu kávového zrna plynule integrovanou s textem. Barevné schéma je černobílé."
 
-![Minimalistické logo](/assets/nanobanana_ 10_36AM.jpeg)
+![Minimalistické logo](/assets/nanobanana_ 10_36AM.webp)
 
 **Obrázek 3: Minimalistické logo kavárny s integrovaným textem**
 
@@ -80,7 +80,7 @@ Pro čisté, profesionální snímky produktů používejte fotografickou termin
 
 _"Vysoké rozlišení, studiově osvětlená produktová fotografie minimalistického keramického hrnku na kávu v matné černé barvě s výše vygenerovaným inverzním logem "Patrickovo kafíčko", prezentovaného na leštěném betonovém povrchu. Osvětlení je třítbodové softboxové nastavení navržené pro vytvoření měkkých, rozptýlených odlesků a eliminaci ostrých stínů. Úhel kamery je mírně zvýšený 45stupňový záběr pro zvýraznění čistých linií."_
 
-![Produktová fotografie s logem](/assets/nanobanana_10_38AM.jpeg)
+![Produktová fotografie s logem](/assets/nanobanana_10_38AM.webp)
 
 **Obrázek 4: Studiová produktová fotografie keramického hrnku**
 
@@ -90,7 +90,7 @@ Vynikající pro vytváření pozadí webových stránek nebo prezentací:
 
 _"Minimalistická kompozice s jediným, jemným červeným javorovým listem umístěným v pravém dolním rohu snímku. Pozadí je rozsáhlé, prázdné krémové plátno vytvářející významný negativní prostor. Měkké, jemné osvětlení. Čtvercový formát."_
 
-![Minimalistická kompozice](/assets/nanobanana_10_40AM.jpeg)
+![Minimalistická kompozice](/assets/nanobanana_10_40AM.webp)
 
 **Obrázek 5: Minimalistická kompozice s javorovým listem a negativním prostorem**
 
@@ -98,7 +98,7 @@ _"Minimalistická kompozice s jediným, jemným červeným javorovým listem um�
 
 "Jediný komiksový panel v drsném noir stylu s vysokým kontrastem černobílých inkoustů. Prostředí města Praha. Ulice Žižkova. V popředí stojí detektiv v plášti do deště pod blikající pouliční lampou, déšť mu promáčí ramena. V pozadí se neonová cedule opuštěného baru odráží v louži. Textové pole nahoře říká 'Město bylo vždy tvrdé místo pro udržení tajemství.' Osvětlení je ostré, vytváří dramatickou, ponurou náladu."
 
-![Komixový panel](/assets/nanobanana_10_45AM.jpeg)
+![Komixový panel](/assets/nanobanana_10_45AM.webp)
 
 **Obrázek 6: Noir komiksový panel s detektivem v dešti** - jak vidíte, šišlá se tam, v druhém průchodu už to bylo OK :)
 
@@ -110,8 +110,8 @@ Poskytněte obrázek a jednoduše popište požadovanou změnu. Model analyzuje 
 
 _"Použij poskytnutou fotografii. Běžícímu muži v popředí přidej vysoký černý kouzelnický klobouk."_
 
-![Patrick běží](/assets/patrick-bezi.jpeg)
-![Patrick běží - a teď už má klobouk...](/assets/nanobanana_11_02AM.jpeg)
+![Patrick běží](/assets/patrick-bezi.webp)
+![Patrick běží - a teď už má klobouk...](/assets/nanobanana_11_02AM.webp)
 **Obrázek 7: Původní fotka, jak běžím - a pak a do toho jsem si přidal klobouk**
 
 ### Sémantické maskování (Inpainting)
@@ -120,7 +120,7 @@ Konverzačně řekněte modelu, aby upravil pouze jednu část obrázku při zac
 
 _"Použij poskytnutou fotografii. Běžícímu muži v popředí dej místo trička bílou košili, kravatu s jasně barevným vzorkem a tmavě šedé sako. Respektuj světlo a pohyb osoby."_
 
-![Patrick běží - a teď už má sako...](/assets/nanobanana_10_55AM.jpeg)
+![Patrick běží - a teď už má sako...](/assets/nanobanana_10_55AM.webp)
 **Obrázek 8: Na původní fotku, jak běžím jsem si místo trička přidal sako, které jsem si původně na běh vzít chtěl, ale nevzal...**
 
 
@@ -130,8 +130,8 @@ Poskytněte fotografii a požádejte model o její převedení do specifického 
 
 "Transformujte poskytnutou fotografii moderní městské ulice ve dne do uměleckého stylu Vincenta van Gogha 'Hvězdná noc'. Zachovejte původní kompozici budov a aut, ale vykreslete všechny prvky vírovými tahy štětce impasto a dramatickou paletou hlubokých modří a jasných žlutí."
 
-![Olomouc ve dne](/assets/IMG_5272.jpeg)
-![Olomouc podle van Gogha](/assets/nanobanana_11_10AM.jpeg)
+![Olomouc ve dne](/assets/IMG_5272.webp)
+![Olomouc podle van Gogha](/assets/nanobanana_11_10AM.webp)
 
 **Obrázek 9: Městská ulice před a po transformaci do stylu van Gogha**
 
@@ -141,7 +141,7 @@ Poskytněte více obrázků jako kontext pro vytvoření nové, složené scény
 
 _"Vytvořte profesionální módní fotografii pro e-shop. Vezměte modré květované šaty z prvního obrázku a nechte je obléct ženě z druhého obrázku. Vygenerujte realistický celotělový záběr ženy v šatech s osvětlením a stíny upravenými pro venkovní prostředí."_
 
-![Kompozice obrázků](/assets/Model_Gemini2.5-PromptUpdate.original.png)
+![Kompozice obrázků](/assets/Model_Gemini2.5-PromptUpdate.original.webp)
 **Obrázek 10: Kompozice šatů a modelky do finální módní fotografie**
 
 ### Bonus: izometrické obrázky
@@ -154,7 +154,7 @@ _V horní části uprostřed umístěte název „Brandýs-Boleslav“ velkým t
 _Veškerý text musí být vycentrován s rovnoměrnými mezerami a může mírně překrývat vrcholy budov._
 _Rozměr čtverce 1080 x 1080._
 
-![Jaké bylo počasí v Brandýse?](/assets/brandys-boleslav-pocasi.png) \
+![Jaké bylo počasí v Brandýse?](/assets/brandys-boleslav-pocasi.webp) \
 PS: Zrovna brandýský zámek to fakt netrefilo :)
 
 

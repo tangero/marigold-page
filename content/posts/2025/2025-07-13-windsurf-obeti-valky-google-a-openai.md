@@ -9,7 +9,7 @@ categories:
 - Google
 sw: windsurf
 title: "🏄‍♀️ Jak se Windsurf stal obětí války o AI talenty mezi Google a OpenAI"
-thumbnail: https://www.marigold.cz/assets/windsurf.png
+thumbnail: https://www.marigold.cz/assets/windsurf.webp
 ---
 
 Google DeepMind  **přetáhl šéfa Windsurfu Varuna Mohana, spoluzakladatele Douglase Chena a část špičkových výzkumníků**z AI-platformy Windsurf. Za  **2,4 mld. USD**  získal i nevýhradní licenci na část jejích technologií –  **bez kapitálového podílu**. Převzetí, které měla za zhruba 3 mld. USD dokončit OpenAI, tím definitivně padlo.

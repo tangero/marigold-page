@@ -6,7 +6,7 @@ categories:
 layout: post
 post_excerpt: Apple 25. června zdražil Macy a iPady o sedmnáct až pětadvacet procent a vinu svalil na drahé paměti. Den předtím vykázal Micron rekordní marži a naznačil, že za drahé paměti si Apple může zčásti sám. Kdo tedy může za růst cen pamětí?
 title: Může Apple za růst cen pamětí, který ho teď donutil zdražit?
-thumbnail: /assets/2026-06-27-apple-ceny-pameti.jpg
+thumbnail: /assets/2026-06-27-apple-ceny-pameti.webp
 ---
 
 Může za růst cen pamětí Apple? Otázka se vynořuje přesně ve chvíli, kdy Apple zdražuje a Tim Cook si veřejně stěžuje na dodavatele. Tohle teď tvrdí Micron, jeden z dodavatelů pamětí. Argument si nicméně zaslouží vážné prozkoumání. 

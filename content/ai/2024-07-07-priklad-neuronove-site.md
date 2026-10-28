@@ -9,7 +9,7 @@ title: Příklad fungování neuronové sítě
 
 Možná vám to s těmi neuronovými sítěmi není pořád moc jasné. Tak si to ukážeme na příkladu, dosti jednoduchém. Mějme matici 2x2 body a snažme se pomocí [neuronové sítě](/ai/neuronove-site/) identifikovat, zda je v matici nakreslený znak / nebo \ - tedy normální a zpětné lomítko. Ponechme samozřejmě stranou, že na tuto úlohu je [neuronová síť](/ai/neuronove-site/) kanon na vrabce, k tomu si řekneme něco na závěr... 
 
-![Grafická reprezentace lomítka](/assets/lomitko-matice2x2.jpg)
+![Grafická reprezentace lomítka](/assets/lomitko-matice2x2.webp)
 
 Tento obrázek znaku “/” v matici 2x2 body ilustruje, jak jsou hodnoty 0 a 1 použity k reprezentaci znaku a jak je tedy použijeme k tokenizaci:
 - Hodnota 1 označuje černý pixel.
@@ -25,7 +25,7 @@ Nyní ho převedeme na jednorozměrné pole, čili dáme řádky za sebe: ```[1,
 
 Nyní máme tedy vstupní data reprezentovaná čtveřicí čísel a tato data pošleme do [neuronové sítě](/ai/neuronove-site/). Tu jsme si navrhli následovně:
 
-![Příklad naší neuronové sítě](/assets/neuronovasit-priklad.png)
+![Příklad naší neuronové sítě](/assets/neuronovasit-priklad.webp)
 
 
 **1.	Vstupní vrstva:**
@@ -130,7 +130,7 @@ Výstupy softmax funkce jsou tedy: ```[0.574, 0.426]```
 
 Tady si to ještě ukážeme graficky pro vstup znaku / do neuronky s našimi váhami a biasem:
 
-![Neuronka s výsledky](/assets/neuronka-probehla.png)
+![Neuronka s výsledky](/assets/neuronka-probehla.webp)
 
 ## Shrnutí
 

@@ -15,7 +15,7 @@ summary_points:
   - Data se ukládají v USA, volba „jen EU“ chybí a standardní smluvní doložky nenahrazují posouzení rizik přenosu
   - NIS2 (zákon č. 264/2025 Sb.) se týká jen poskytovatelů regulovaných služeb, Enterprise nevyžaduje
 title: "Smlouvy, AI, GDPR - můžete smlouvy a osobní údaje nahrávat do Claude nebo ChatGPT?"
-thumbnail: https://www.marigold.cz/assets/smlouvy-ai-gdpr.jpg
+thumbnail: https://www.marigold.cz/assets/smlouvy-ai-gdpr.webp
 ---
 
 *Nákupčí nahraje do Claude nebo ChatGPT smlouvu s dodavatelem a chce seznam sankcí a výpovědních lhůt. Ve smlouvě jsou jména jednatelů, podpisy, telefony a neveřejné ceny. Porušil tím GDPR? Vyzradil obchodní tajemství? A zachránil by ho dražší tarif? Odpověď zní, že takové nahrání může být v pořádku. Rozhoduje ale příprava firmy a tu si u žádného předplatného nekoupíte.*

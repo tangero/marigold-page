@@ -7,7 +7,7 @@ categories:
 - Scribeton
 - čtení
 title: Zítraslavní - přijďte si poslechnout autorské čtení zítra slavných spisovatelů
-thumbnail: https://www.marigold.cz/assets/zitraslavni.png
+thumbnail: https://www.marigold.cz/assets/zitraslavni.webp
 ---
 
 Vloni jsme s [Elen Kovalčíkovou](https://www.ramlajay.com) uspořádali autorský workshop tvůrčího psaní. Pak Scribeton, autorský hackathon, kde autoři tři dny sedí a píšou. A zbývalo už jen přichystat něco, kde autoři svá díla budou veřejně prezentovat. Tak vznikl Klub Zítraslavných, na jehož setkání srdečně zveme. 

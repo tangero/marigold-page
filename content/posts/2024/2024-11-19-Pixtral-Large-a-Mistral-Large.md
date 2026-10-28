@@ -14,7 +14,7 @@ summary_points:
 - Generování obrázků integrováno díky partnerství s Black Forest Labs.
 - Le Chat Agents automatizují opakující se úkoly a workflow.
 - Pixtral Large a Mistral Large 24.11 posouvají multimodální AI možnosti.
-thumbnail: https://www.marigold.cz/assets/le-chat-mistral-ai.jpg
+thumbnail: https://www.marigold.cz/assets/le-chat-mistral-ai.webp
 title: Mistral AI má Pixtral Large a Mistral Large 24.11 a rozšiřuje možnosti -  vyhledávání,
   canvas, zpracování dokumentů, obrázky
 ---
@@ -72,7 +72,7 @@ Společnost Mistral AI také představila Pixtral Large, nejnovější multimod�
 
 Pixtral Large je 124B open-source multimodální model, který staví na textovém modelu Mistral Large 2. Tento model přináší výrazné zlepšení v oblasti zpracování obrazových dat a dokumentů, aniž by obětoval svou špičkovou schopnost porozumění textu.
 
-![Porovnání LLM](/assets/pixtral-large-main-table.png)
+![Porovnání LLM](/assets/pixtral-large-main-table.webp)
 
 Hlavní vlastnosti Pixtral Large:
 •	Výkon na hranici možností: Špičkové výsledky na benchmarkech, jako jsou MathVista, DocVQA a VQAv2.
@@ -95,7 +95,7 @@ Pixtral Large je k dispozici pod licencí Mistral Research License (MRL) pro vý
 
 ### Příklad: Analýza grafů v praxi
 
-![Analýza grafu v praxi](/assets/loss-curve.png)
+![Analýza grafu v praxi](/assets/loss-curve.webp)
 
 > Prompt: When did things start to go wrong for dark dragon?
 >
