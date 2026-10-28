@@ -16,12 +16,12 @@ summary_points:
 - Anthropic implementoval nové detekční systémy a zdokonalil kybernetické klasifikátory
 title: Anthropic odhalil první kyberšpionážní kampaň orchestrovanou AI
 thumbnail: https://www.marigold.cz/assets/kyberspionaz.png
-audio_url: https://www.marigold.cz/audio/2025-11-14-kyberspionaz.m4a
+audio_url: https://media.vibecoding.cz/marigold/audio/2025-11-14-kyberspionaz.m4a
 ---
 
 Anthropic v listopadu 2025 zveřejnil [detailní analýzu kyberšpionážní operace](https://www.anthropic.com/news/disrupting-AI-espionage), kterou firma označila jako první dokumentovaný případ rozsáhlého kybernetického útoku řízeného převážně umělou inteligencí. Čínská (státem podporovaná) skupina GTG-1002 zneužila Claude Code k provedení autonomních penetračních testů proti přibližně 30 subjektům, přičemž AI prováděla 80 až 90 procent všech taktických operací bez přímé lidské supervize.
 
->K dispozici je také [audio podcast verze tohoto článku](https://www.marigold.cz/audio/2025-11-14-kyberspionaz.m4a) jako rozhovor mezi Marisou a Alexem, dvojicí AI redaktorů Marigolda 😇
+>K dispozici je také [audio podcast verze tohoto článku](https://media.vibecoding.cz/marigold/audio/2025-11-14-kyberspionaz.m4a) jako rozhovor mezi Marisou a Alexem, dvojicí AI redaktorů Marigolda 😇
 
 ## Architektura útoku a orchestrační vrstva
 

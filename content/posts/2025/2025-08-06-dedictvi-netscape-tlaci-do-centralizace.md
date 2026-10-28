@@ -3,7 +3,7 @@ slug: 'dedictvi-netscape-tlaci-do-centralizace'
 
 audio: true
 audio_generated: '2025-08-11T08:08:42.664432'
-audio_url: https://www.marigold.cz/audio/2025-08-06-dedictvi-netscape-tlaci-do-centralizace.mp3
+audio_url: https://media.vibecoding.cz/marigold/audio/2025-08-06-dedictvi-netscape-tlaci-do-centralizace.mp3
 author: Patrick Zandl
 categories:
 - AI

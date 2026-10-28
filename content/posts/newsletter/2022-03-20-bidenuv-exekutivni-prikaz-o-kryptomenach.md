@@ -1,7 +1,7 @@
 ---
 slug: 'bidenuv-exekutivni-prikaz-o-kryptomenach'
 
-audio_url: http://www.marigold.cz/audio/2022-03-20-bidenuv-exekutivni-prikaz-o-kryptomenach.mp3
+audio_url: https://media.vibecoding.cz/marigold/audio/2022-03-20-bidenuv-exekutivni-prikaz-o-kryptomenach.mp3
 audiooff: false
 author: Patrick Zandl
 categories:

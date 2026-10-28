@@ -11,6 +11,7 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
 - Sekce tech-news (pozastavená od 2026-03-29) je smazaná celá: `content/tech-news/`, legacy `_tech_news/`, `layouts/tech-news/`, archiv `static/tech-news-archive.tar.gz` (rozbalený měl 103 MB a 10 875 souborů) i krok, který ho v `hugo-build.yml` rozbaloval. Odstraněny workflowy `tech-news.yml` a `archive-tech-news.yml`, skripty `scripts/*tech_news*` a další skripty jen pro tech-news, jejich testy, data `data/tech_news_*` a `data/clicky_goals.yaml`, permalink v `hugo.toml`, položka „Zprávy“ v menu a tech-news ve vyhledávání. Adresy `/tech-news/…` teď vracejí 404
 
 ### Changed
+- Audio (44 souborů MP3/M4A, 334 MB) se servíruje z Cloudflare R2 stejně jako na vibecoding.cz: bucket `vibecoding-assets`, prefix `marigold/audio/`, doména `https://media.vibecoding.cz/marigold/audio/` (s podporou Range, takže jde přeskakovat). Přepsány `audio_url` a odkazy ve 45 článcích. Z repozitáře smazány `static/audio/` i identická legacy kopie `audio/`, takže web nahrávaný na GitHub Pages je zhruba o 334 MB menší. Staré adresy `www.marigold.cz/audio/…` vracejí 404
 - `hugo-build.yml`: checkout s `fetch-depth: 1` místo `0`. Build historii gitu nepotřebuje (nepoužívá `.GitInfo`), takže se nemusí stahovat celých 6,5 GB repozitáře. Checkout trval 0:30–3:43
 
 ### Changed

@@ -1,7 +1,7 @@
 ---
 slug: 'ebook-technoelity'
 
-audio_url: http://www.marigold.cz/audio/2024-10-09-ebook-technoelity.mp3
+audio_url: https://media.vibecoding.cz/marigold/audio/2024-10-09-ebook-technoelity.mp3
 audiooff: false
 author: Patrick Zandl
 categories:

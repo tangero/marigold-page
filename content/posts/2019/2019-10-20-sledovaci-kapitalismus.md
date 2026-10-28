@@ -1,7 +1,7 @@
 ---
 slug: 'sledovaci-kapitalismus'
 
-audio_url: http://www.marigold.cz/audio/2019-10-20-sledovaci-kapitalismus.mp3
+audio_url: https://media.vibecoding.cz/marigold/audio/2019-10-20-sledovaci-kapitalismus.mp3
 categories:
 - Ekonomie
 - Sociální sítě

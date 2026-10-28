@@ -3,7 +3,7 @@ slug: 'zohran-mamdani-starosta-new-york'
 
 audio: true
 audio_generated: '2025-11-11T10:26:05.740794'
-audio_url: https://www.marigold.cz/audio/2025-11-05-zohran-mamdani-starosta-new-york.mp3
+audio_url: https://media.vibecoding.cz/marigold/audio/2025-11-05-zohran-mamdani-starosta-new-york.mp3
 author: Patrick Zandl
 categories:
 - politika

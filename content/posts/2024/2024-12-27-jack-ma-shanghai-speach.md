@@ -1,7 +1,7 @@
 ---
 slug: 'jack-ma-shanghai-speach'
 
-audio_url: https://www.marigold.cz/audio/2024-12-27-jack-ma-shanghai-speach.mp3
+audio_url: https://media.vibecoding.cz/marigold/audio/2024-12-27-jack-ma-shanghai-speach.mp3
 author: Patrick Zandl
 categories:
 - Čína

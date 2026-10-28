@@ -297,7 +297,7 @@ NewsAPI -> Python Script -> LLM Translation (qwen/qwen3-max) -> Hugo Collection 
 
 ## Audio Content
 
-Audio soubory existuji v `audio/` a `static/audio/` (historicke MP3 z podcastu).
+Audio soubory (historicke MP3/M4A z podcastu) jsou v Cloudflare R2: bucket `vibecoding-assets` (sdileny s vibecoding.cz), prefix `marigold/audio/`, verejne na `https://media.vibecoding.cz/marigold/audio/<soubor>`. Do repozitare audio NEPRIDAVAT (zvetsuje deploy na GitHub Pages). Nahrani: `wrangler r2 object put vibecoding-assets/marigold/audio/<soubor> --file=<soubor> --content-type=audio/mpeg --remote`, v clanku pak `audio_url: https://media.vibecoding.cz/marigold/audio/<soubor>`.
 
 Podcast generovani bylo **odstraneno** (workflowy smazany 2026-07-11; drive `if: false` od 2026-03-29).
 Push notifikace (OneSignal, FCM/Firebase) byly take **odstraneny** z GitHub Actions — nefungovaly (legacy cesty `_posts/`).

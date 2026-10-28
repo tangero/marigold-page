@@ -1,7 +1,7 @@
 ---
 slug: 'qualcomm-kupuje-flarion'
 
-audio_url: http://www.marigold.cz/audio/2005-08-12-qualcomm-kupuje-flarion.mp3
+audio_url: https://media.vibecoding.cz/marigold/audio/2005-08-12-qualcomm-kupuje-flarion.mp3
 audiooff: false
 author: Patrick Zandl
 

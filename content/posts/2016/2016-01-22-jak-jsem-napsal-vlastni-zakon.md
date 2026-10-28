@@ -1,7 +1,7 @@
 ---
 slug: 'jak-jsem-napsal-vlastni-zakon'
 
-audio_url: http://www.marigold.cz/audio/2016-01-22-jak-jsem-napsal-vlastni-zakon.mp3
+audio_url: https://media.vibecoding.cz/marigold/audio/2016-01-22-jak-jsem-napsal-vlastni-zakon.mp3
 author: Patrick Zandl
 categories:
 - Politika

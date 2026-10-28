@@ -1,7 +1,7 @@
 ---
 slug: 'jak-se-budou-zivit-novinari-pisalkove-a-knihotepci-az-padne-zakon'
 
-audio_url: http://www.marigold.cz/audio/2014-01-10-jak-se-budou-zivit-novinari-pisalkove-a-knihotepci-az-padne-zakon.mp3
+audio_url: https://media.vibecoding.cz/marigold/audio/2014-01-10-jak-se-budou-zivit-novinari-pisalkove-a-knihotepci-az-padne-zakon.mp3
 audiooff: false
 author: Patrick Zandl
 

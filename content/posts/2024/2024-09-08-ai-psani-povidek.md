@@ -1,7 +1,7 @@
 ---
 slug: 'ai-psani-povidek'
 
-audio_url: http://www.marigold.cz/audio/2024-09-08-ai-psani-povidek.mp3
+audio_url: https://media.vibecoding.cz/marigold/audio/2024-09-08-ai-psani-povidek.mp3
 author: Patrick Zandl
 categories:
 - AI

@@ -1,7 +1,7 @@
 ---
 slug: 'myslenky_a_knihy'
 
-audio_url: http://www.marigold.cz/audio/2024-01-06-myslenky_a_knihy.mp3
+audio_url: https://media.vibecoding.cz/marigold/audio/2024-01-06-myslenky_a_knihy.mp3
 audiooff: false
 categories:
 - Knihy

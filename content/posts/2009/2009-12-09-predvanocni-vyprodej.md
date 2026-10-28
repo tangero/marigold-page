@@ -1,7 +1,7 @@
 ---
 slug: 'predvanocni-vyprodej'
 
-audio_url: http://www.marigold.cz/audio/2009-12-09-predvanocni-vyprodej.mp3
+audio_url: https://media.vibecoding.cz/marigold/audio/2009-12-09-predvanocni-vyprodej.mp3
 audiooff: false
 author: Patrick Zandl
 

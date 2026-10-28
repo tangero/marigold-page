@@ -1,7 +1,7 @@
 ---
 slug: 'facebook-meta-metaversum'
 
-audio_url: http://www.marigold.cz/audio/2023-12-16-facebook-meta-metaversum.mp3
+audio_url: https://media.vibecoding.cz/marigold/audio/2023-12-16-facebook-meta-metaversum.mp3
 audiooff: false
 categories:
 - Facebook

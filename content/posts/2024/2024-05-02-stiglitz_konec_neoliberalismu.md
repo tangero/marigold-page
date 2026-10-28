@@ -1,7 +1,7 @@
 ---
 slug: 'stiglitz_konec_neoliberalismu'
 
-audio_url: http://www.marigold.cz/audio/2024-05-02-stiglitz_konec_neoliberalismu.mp3
+audio_url: https://media.vibecoding.cz/marigold/audio/2024-05-02-stiglitz_konec_neoliberalismu.mp3
 audiooff: false
 categories:
 - Ekonomika

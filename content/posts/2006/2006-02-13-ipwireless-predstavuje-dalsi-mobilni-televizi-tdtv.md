@@ -1,7 +1,7 @@
 ---
 slug: 'ipwireless-predstavuje-dalsi-mobilni-televizi-tdtv'
 
-audio_url: http://www.marigold.cz/audio/2006-02-13-ipwireless-predstavuje-dalsi-mobilni-televizi-tdtv.mp3
+audio_url: https://media.vibecoding.cz/marigold/audio/2006-02-13-ipwireless-predstavuje-dalsi-mobilni-televizi-tdtv.mp3
 audiooff: false
 author: Patrick Zandl
 

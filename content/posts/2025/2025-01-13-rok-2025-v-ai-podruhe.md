@@ -1,7 +1,7 @@
 ---
 slug: 'rok-2025-v-ai-podruhe'
 
-audio_url: https://www.marigold.cz/audio/2025-01-13-ai-rok-2025-dil-2.mp3
+audio_url: https://media.vibecoding.cz/marigold/audio/2025-01-13-ai-rok-2025-dil-2.mp3
 author: Patrick Zandl
 categories:
 - Čína

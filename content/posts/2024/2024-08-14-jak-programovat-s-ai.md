@@ -1,7 +1,7 @@
 ---
 slug: 'jak-programovat-s-ai'
 
-audio_url: http://www.marigold.cz/audio/2024-07-14-jak-programovat-s-ai.mp3
+audio_url: https://media.vibecoding.cz/marigold/audio/2024-07-14-jak-programovat-s-ai.mp3
 author: Patrick Zandl
 categories:
 - AI

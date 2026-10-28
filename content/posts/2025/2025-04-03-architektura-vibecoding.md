@@ -1,7 +1,7 @@
 ---
 slug: 'architektura-vibecoding'
 
-audio_url: http://www.marigold.cz/audio/2025-04-03-architektura-vibecoding.mp3
+audio_url: https://media.vibecoding.cz/marigold/audio/2025-04-03-architektura-vibecoding.mp3
 audiooff: false
 categories:
 - vibecoding

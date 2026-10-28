@@ -3,7 +3,7 @@ slug: 'vibecoding-prednaska'
 
 audio: true
 audio_generated: '2025-10-02T19:19:16.701210'
-audio_url: https://www.marigold.cz/audio/2025-10-02-vibecoding-prednaska.mp3
+audio_url: https://media.vibecoding.cz/marigold/audio/2025-10-02-vibecoding-prednaska.mp3
 author: Patrick Zandl
 categories:
 - AI

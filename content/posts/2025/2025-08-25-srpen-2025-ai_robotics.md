@@ -3,7 +3,7 @@ slug: 'srpen-2025-ai_robotics'
 
 audio: true
 audio_generated: '2025-08-25T07:42:32.953988'
-audio_url: https://www.marigold.cz/audio/2025-08-25-srpen-2025-ai_robotics.mp3
+audio_url: https://media.vibecoding.cz/marigold/audio/2025-08-25-srpen-2025-ai_robotics.mp3
 author: Patrick Zandl
 categories:
 - AI

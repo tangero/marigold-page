@@ -1,7 +1,7 @@
 ---
 slug: 'dell-a-802-11x-t-mobile-usa-spousti-wifi'
 
-audio_url: http://www.marigold.cz/audio/2002-12-04-dell-a-802-11x-t-mobile-usa-spousti-wifi.mp3
+audio_url: https://media.vibecoding.cz/marigold/audio/2002-12-04-dell-a-802-11x-t-mobile-usa-spousti-wifi.mp3
 audiooff: false
 author: Patrick Zandl
 

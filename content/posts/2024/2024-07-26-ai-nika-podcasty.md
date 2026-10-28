@@ -1,7 +1,7 @@
 ---
 slug: 'ai-nika-podcasty'
 
-audio_url: https://www.marigold.cz/audio/2024-07-26-ai-nika-podcasty.mp3
+audio_url: https://media.vibecoding.cz/marigold/audio/2024-07-26-ai-nika-podcasty.mp3
 author: Patrick Zandl
 categories:
 - AI

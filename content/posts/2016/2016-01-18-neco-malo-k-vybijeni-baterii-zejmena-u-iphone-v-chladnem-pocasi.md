@@ -1,7 +1,7 @@
 ---
 slug: 'neco-malo-k-vybijeni-baterii-zejmena-u-iphone-v-chladnem-pocasi'
 
-audio_url: http://www.marigold.cz/audio/2016-01-18-neco-malo-k-vybijeni-baterii-zejmena-u-iphone-v-chladnem-pocasi.mp3
+audio_url: https://media.vibecoding.cz/marigold/audio/2016-01-18-neco-malo-k-vybijeni-baterii-zejmena-u-iphone-v-chladnem-pocasi.mp3
 audiooff: false
 author: Patrick Zandl
 summary_points:

@@ -1,7 +1,7 @@
 ---
 slug: 'prava-k-dusevnimu-vlastnictvi-ipr-strasak-modernich-technologii-1084'
 
-audio_url: http://www.marigold.cz/audio/2004-01-01-prava-k-dusevnimu-vlastnictvi-ipr-strasak-modernich-technologii-1084.mp3
+audio_url: https://media.vibecoding.cz/marigold/audio/2004-01-01-prava-k-dusevnimu-vlastnictvi-ipr-strasak-modernich-technologii-1084.mp3
 audiooff: false
 author: Patrick Zandl
 

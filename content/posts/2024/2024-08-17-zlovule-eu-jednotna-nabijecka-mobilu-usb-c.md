@@ -1,7 +1,7 @@
 ---
 slug: 'zlovule-eu-jednotna-nabijecka-mobilu-usb-c'
 
-audio_url: http://www.marigold.cz/audio/2024-08-17-zlovule-eu-jednotna-nabijecka-mobilu-usb-c.mp3
+audio_url: https://media.vibecoding.cz/marigold/audio/2024-08-17-zlovule-eu-jednotna-nabijecka-mobilu-usb-c.mp3
 audiooff: false
 author: Patrick Zandl
 categories:

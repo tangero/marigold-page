@@ -1,7 +1,7 @@
 ---
 slug: 'programovani_pro_pokrocile_deti_a_pro_ty_co_skutecne_zacinaji'
 
-audio_url: http://www.marigold.cz/audio/2020-10-31-programovani_pro_pokrocile_deti_a_pro_ty_co_skutecne_zacinaji.mp3
+audio_url: https://media.vibecoding.cz/marigold/audio/2020-10-31-programovani_pro_pokrocile_deti_a_pro_ty_co_skutecne_zacinaji.mp3
 audiooff: false
 categories:
 - "Programov\xE1n\xED"

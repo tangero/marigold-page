@@ -8,7 +8,7 @@ categories:
 - ČEPS
 title: "🪫 Jak to bylo s blackoutem v Česku? Výsledky vyšetřování a mlžení ČEPS"
 thumbnail: https://www.marigold.cz/assets/stozary-kocka-ceps-400-kv.jpg
-audio_url: https://www.marigold.cz/audio/2025-12-23-Anatomie_blackoutu.m4a
+audio_url: https://media.vibecoding.cz/marigold/audio/2025-12-23-Anatomie_blackoutu.m4a
 ---
 
 Před více jak půl rokem padla severozápadní část Česka včetně části Prahy do tmy. Blackout ze dne 4.7.2025 se prohnal také českým mediálním prostorem, viníkem byly podle soudců z lidu a různých púaristů zejména přetoky z Německa a zelená elektřina. Už tehdy jsem upozorňoval na to, že série důkazů hovoří zcela jinak. Dne 19.12.2025 [vydal ČEPS tiskovou zprávu o vyšetřování](https://www.ceps.cz/cs/uvod/novinka/vysetrovani-vypadku-4-7-2025-duvodem-byl-soubeh-vzajemne-nesouvisejicich-udalosti) a také 128 stránkový [Rozbor závažné provozní a poruchové událost](/assets/ebook/163803_papu-250704-vypadek-v411.pdf). Obě tyto zprávy si zásadně protiřečí a jak nemám rád silná slova, tak bych tiskovou zprávu označil za velmi manipulativní, která je místy v přímém rozporu se závěry Rozboru. Pročetl jsem všechny podklady a tady to máte ve dvou úrovních stručnosti. 

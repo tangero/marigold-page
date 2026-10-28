@@ -3,7 +3,7 @@ slug: 'obce-sedi-na-miliardach-proc'
 
 audio: true
 audio_generated: '2025-10-17T10:10:35.405316'
-audio_url: https://www.marigold.cz/audio/2025-10-17-obce-sedi-na-miliardach-proc.mp3
+audio_url: https://media.vibecoding.cz/marigold/audio/2025-10-17-obce-sedi-na-miliardach-proc.mp3
 author: Patrick Zandl
 categories:
 - obce

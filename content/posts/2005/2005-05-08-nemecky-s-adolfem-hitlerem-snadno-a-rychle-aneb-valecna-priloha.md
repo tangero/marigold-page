@@ -1,7 +1,7 @@
 ---
 slug: 'nemecky-s-adolfem-hitlerem-snadno-a-rychle-aneb-valecna-priloha'
 
-audio_url: http://www.marigold.cz/audio/2005-05-08-nemecky-s-adolfem-hitlerem-snadno-a-rychle-aneb-valecna-priloha.mp3
+audio_url: https://media.vibecoding.cz/marigold/audio/2005-05-08-nemecky-s-adolfem-hitlerem-snadno-a-rychle-aneb-valecna-priloha.mp3
 audiooff: false
 author: Patrick Zandl
 

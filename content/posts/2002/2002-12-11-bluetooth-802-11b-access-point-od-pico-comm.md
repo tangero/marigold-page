@@ -1,7 +1,7 @@
 ---
 slug: 'bluetooth-802-11b-access-point-od-pico-comm'
 
-audio_url: http://www.marigold.cz/audio/2002-12-11-bluetooth-802-11b-access-point-od-pico-comm.mp3
+audio_url: https://media.vibecoding.cz/marigold/audio/2002-12-11-bluetooth-802-11b-access-point-od-pico-comm.mp3
 audiooff: false
 author: Patrick Zandl
 summary_points:

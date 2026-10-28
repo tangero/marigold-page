@@ -1,7 +1,7 @@
 ---
 slug: 'osobni-politicke-ohlednuti-2025'
 
-audio_url: https://www.marigold.cz/audio/2025-01-10-osobni-politicke-ohlednuti-2025.mp3
+audio_url: https://media.vibecoding.cz/marigold/audio/2025-01-10-osobni-politicke-ohlednuti-2025.mp3
 author: Patrick Zandl
 categories:
 - Politika

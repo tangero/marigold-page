@@ -1,7 +1,7 @@
 ---
 slug: 'nelinearni-neuronova-sit-ma-zlepsit-pruchodnost-wifi-siti'
 
-audio_url: http://www.marigold.cz/audio/2004-05-05-nelinearni-neuronova-sit-ma-zlepsit-pruchodnost-wifi-siti.mp3
+audio_url: https://media.vibecoding.cz/marigold/audio/2004-05-05-nelinearni-neuronova-sit-ma-zlepsit-pruchodnost-wifi-siti.mp3
 audiooff: false
 author: Patrick Zandl
 

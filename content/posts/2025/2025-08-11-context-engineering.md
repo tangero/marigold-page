@@ -3,7 +3,7 @@ slug: 'context-engineering'
 
 audio: true
 audio_generated: '2025-08-11T09:43:47.431643'
-audio_url: https://www.marigold.cz/audio/2025-08-11-context-engineering.mp3
+audio_url: https://media.vibecoding.cz/marigold/audio/2025-08-11-context-engineering.mp3
 author: Patrick Zandl
 categories:
 - AI

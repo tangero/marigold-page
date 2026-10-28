@@ -3,7 +3,7 @@ slug: 'grok-code-fast-1'
 
 audio: true
 audio_generated: '2025-09-11T10:21:55.472461'
-audio_url: https://www.marigold.cz/audio/2025-09-01-grok-code-fast-1.mp3
+audio_url: https://media.vibecoding.cz/marigold/audio/2025-09-01-grok-code-fast-1.mp3
 author: Patrick Zandl
 categories:
 - AI
