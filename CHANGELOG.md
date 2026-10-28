@@ -8,11 +8,14 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
 ## [Unreleased]
 
 ### Removed
+- Zastaralá dokumentace v `docs/`: health check a monitoring tech-news (`HEALTH_CHECK_*.md`, `MONITORING_DECISION_TREE.md`, `UPTIMEROBOT_SETUP.md`, `TECH_NEWS_TESTING_STRATEGY.md`) a `VIBECODING_GUIDE.md` (vibecoding.cz se staví ze samostatného repa)
 - Složka `assets/` (Hugo assets) zmenšena ze 406 MB na SCSS: 496 souborů (obrázky, PDF, `js/`, `tipuesearch/`, `aiprace/`) byly duplicity `static/assets/` nebo se nikam nepublikovaly, protože Hugo z `assets/` bere jen soubory načtené přes `resources.Get` (tady `scss/main.scss`)
 - Zbytky tech-news v kořeni repozitáře: `tech-news-archive/` (103 MB, 11 tisíc souborů) a `tech-news/`
 - Sekce tech-news (pozastavená od 2026-03-29) je smazaná celá: `content/tech-news/`, legacy `_tech_news/`, `layouts/tech-news/`, archiv `static/tech-news-archive.tar.gz` (rozbalený měl 103 MB a 10 875 souborů) i krok, který ho v `hugo-build.yml` rozbaloval. Odstraněny workflowy `tech-news.yml` a `archive-tech-news.yml`, skripty `scripts/*tech_news*` a další skripty jen pro tech-news, jejich testy, data `data/tech_news_*` a `data/clicky_goals.yaml`, permalink v `hugo.toml`, položka „Zprávy“ v menu a tech-news ve vyhledávání. Adresy `/tech-news/…` teď vracejí 404
 
 ### Changed
+- `CLAUDE.md` přepsán podle praxe z vibecoding-site: z 367 na ~80 řádků, s diakritikou, sekce Příkazy, Struktura, Záměrná rozhodnutí (datum z názvu souboru, integrace s API vibecoding.cz, Substack promo, audio v R2, WebP, `fetch-depth: 1`), Konvence a Pracovní dohoda. Vyřazeny duplicity (dva příklady front matter, dvakrát build příkazy), obecný Troubleshooting, historie verzí, nepoužívané secrets a zastaralé `hugo --verbose`
+- Nový `docs/gotchas.md` (formát Vzorec / Pravidlo, datum) s poznatky z 2026-10-28: velikost písmen a normalizace diakritiky v názvech souborů na GitHub Pages, limity deploye, Hugo 0.169 a `security.allowContent`, odkazy z vibecoding.cz na obrázky marigoldu, hledání rozbitých odkazů. Nový rozcestník `docs/index.md`
 - `CLAUDE.md` 3.1: odstraněn popis tech-news, opravena informace o vibecoding.cz (staví se ze samostatného repa `vibecoding-site`), přidána pravidla pro obrázky (WebP), poznámky k rychlosti deploye a k lokálnímu buildu s novějším Hugem
 
 ### Fixed
