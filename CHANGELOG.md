@@ -7,6 +7,12 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
 
 ## [Unreleased]
 
+### Removed
+- Sekce tech-news (pozastavená od 2026-03-29) je smazaná celá: `content/tech-news/`, legacy `_tech_news/`, `layouts/tech-news/`, archiv `static/tech-news-archive.tar.gz` (rozbalený měl 103 MB a 10 875 souborů) i krok, který ho v `hugo-build.yml` rozbaloval. Odstraněny workflowy `tech-news.yml` a `archive-tech-news.yml`, skripty `scripts/*tech_news*` a další skripty jen pro tech-news, jejich testy, data `data/tech_news_*` a `data/clicky_goals.yaml`, permalink v `hugo.toml`, položka „Zprávy“ v menu a tech-news ve vyhledávání. Adresy `/tech-news/…` teď vracejí 404
+
+### Changed
+- `hugo-build.yml`: checkout s `fetch-depth: 1` místo `0`. Build historii gitu nepotřebuje (nepoužívá `.GitInfo`), takže se nemusí stahovat celých 6,5 GB repozitáře. Checkout trval 0:30–3:43
+
 ### Changed
 - Reakce a diskuse pod články (`posts`, `ai`) jsou v jednom boxu na místě dřívějšího hodnocení, nad promo Substacku: `<mg-comments site="marigold" rating="on">` z vibecoding.cz (tangero/vibecoding-site#294) nahrazuje `mg-rating.js`. Šest reakcí (🔥 Super, 💡 Poučné, 😂 Pobavilo, 🤔 K zamyšlení, 🥱 Nic nového, 👎 Nesouhlasím; dřívější hlasy převedeny se stejnou vahou), palce a řazení komentářů, připnuté komentáře, odznak živé diskuse. Front matter `rating: false` / `comments: false` vypne reakce / diskusi u článku. Synchronizace hlasů mezi zařízeními (kód, QR) z `mg-rating.js` v boxu není. Třída `.article-comments` přejmenována na `.article-feedback`
 - Diskuse pod články (`posts`, `ai`) běží na vlastních diskusích vibecoding.cz místo Seznam Diskusí: partial `layouts/partials/comments.html` vkládá `<mg-comments site="marigold">` a skript `https://www.vibecoding.cz/js/mg-comments.js` (tangero/vibecoding-site#280, #282). `page-id` má stejný tvar jako hodnocení. Odstraněny partialy `szn-discussion.html` a nepoužitý `szn-discussion-meta.html` a loader `d21-a.sdn.cz` z `baseof.html`. Starší komentáře ze Seznamu se nepřenesly. Hosté komentují bez přihlášení, první komentář z prohlížeče čeká na schválení. Styly `.article-comments` (barvy přes `--mgc-*`, tmavý režim) v `assets/scss/main.scss`

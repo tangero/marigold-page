@@ -107,19 +107,6 @@
     );
   {{ end }}
 
-  // Pridani tech-news kolekce
-  {{ range where .Site.RegularPages "Section" "tech-news" }}
-    addToStore(
-      {{ .RelPermalink | jsonify | safeJS }},
-      {
-        title: {{ .Title | jsonify | safeJS }},
-        content: {{ .Plain | truncate 200 | jsonify | safeJS }},
-        url: {{ .RelPermalink | jsonify | safeJS }},
-        category: "tech-news",
-        date: {{ .Date.Format "2.1.2006" | jsonify | safeJS }}
-      }
-    );
-  {{ end }}
 </script>
 <script src="/assets/js/search/simple-search.js"></script>
 {{ end }}

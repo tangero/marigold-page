@@ -29,7 +29,6 @@ disablePathToLower = true
     ai = "/ai/:slug/"
     mobilnisite = "/mobilnisite/:slug/"
     obrazy = "/obrazy/:slug/"
-    tech-news = "/tech-news/:year-:month-:day/:slug/"
 
 [params]
   author = "Patrick Zandl"
