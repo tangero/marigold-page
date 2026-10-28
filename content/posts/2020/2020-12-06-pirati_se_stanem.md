@@ -25,7 +25,7 @@ Zanedlouho se bude rozhodovat o tom, zda Piráti půjdou či nepůjdou do koalic
 
 Tak například to, že STAN (nebo Piráti, dle pozice mluvčího) jsou  **názorově neukotvení**. Pod tím si ale každý představuje něco jiného. Zatímco Piráti zpravidla hájí princip, STAN zpravidla hájí postup. Pokud se mají zvýšit výdaje na kulturu, Piráti znají procento, zatímco STAN ví, jestli se tak provede zákonem či prováděcí vyhláškou, ale kolik přesně, to ještě vyplyne z dalšího. Proto si také část Pirátů a STANistů tak dobře rozumí – vidí v sobě synergii výsledku a procesu, zatímco další část se vůbec nechápe, protože v sobě vidí míjení se výsledku a procesu. To je jako s tou poloprázdnou sklenicí.
 
-![Brandýsko-Boleslavské logo Piráti se STANem](/assets/Sni%CC%81mek-obrazovky-2020-12-06-v-15.42.20-1024x140.png)
+![Brandýsko-Boleslavské logo Piráti se STANem](/assets/Sn%C3%ADmek-obrazovky-2020-12-06-v-15.42.20-2048x280.webp)
 
 Logo Piráti se STANem z brandýsko-boleslavských komunálních voleb.
 

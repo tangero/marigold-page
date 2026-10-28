@@ -8,10 +8,15 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
 ## [Unreleased]
 
 ### Removed
+- Složka `assets/` (Hugo assets) zmenšena ze 406 MB na SCSS: 496 souborů (obrázky, PDF, `js/`, `tipuesearch/`, `aiprace/`) byly duplicity `static/assets/` nebo se nikam nepublikovaly, protože Hugo z `assets/` bere jen soubory načtené přes `resources.Get` (tady `scss/main.scss`)
 - Zbytky tech-news v kořeni repozitáře: `tech-news-archive/` (103 MB, 11 tisíc souborů) a `tech-news/`
 - Sekce tech-news (pozastavená od 2026-03-29) je smazaná celá: `content/tech-news/`, legacy `_tech_news/`, `layouts/tech-news/`, archiv `static/tech-news-archive.tar.gz` (rozbalený měl 103 MB a 10 875 souborů) i krok, který ho v `hugo-build.yml` rozbaloval. Odstraněny workflowy `tech-news.yml` a `archive-tech-news.yml`, skripty `scripts/*tech_news*` a další skripty jen pro tech-news, jejich testy, data `data/tech_news_*` a `data/clicky_goals.yaml`, permalink v `hugo.toml`, položka „Zprávy“ v menu a tech-news ve vyhledávání. Adresy `/tech-news/…` teď vracejí 404
 
 ### Changed
+- `CLAUDE.md` 3.1: odstraněn popis tech-news, opravena informace o vibecoding.cz (staví se ze samostatného repa `vibecoding-site`), přidána pravidla pro obrázky (WebP), poznámky k rychlosti deploye a k lokálnímu buildu s novějším Hugem
+
+### Fixed
+- Dva rozbité obrázky: překlep `ttps://` v článku o OpenAI Atlas a obrázek v článku „Piráti se STANem“, který odkazoval na neexistující soubor
 - Obrázky ve `static/assets/` převedeny na WebP (max. šířka 2000 px, kvalita 82, bez metadat): 438 z 449 JPG/PNG, 350 MB → 49 MB. U 11 souborů by WebP vyšel větší, ty zůstaly v původním formátu. Ikony ve `static/images/` a `static/assets/tipuesearch/` se nepřeváděly. Odkazy (front matter `thumbnail`/`urlobrazu`, markdown, šablony, i v URL-kódované podobě) přepsány ve 449 souborech, originály smazány. Opraveno 13 odkazů, které se od souboru lišily velikostí písmen, takže na GitHub Pages nefungovaly (hlavně `content/obrazy/`). Staré adresy `…/assets/*.jpg|png` převedených obrázků vracejí 404
 - Audio (44 souborů MP3/M4A, 334 MB) se servíruje z Cloudflare R2 stejně jako na vibecoding.cz: bucket `vibecoding-assets`, prefix `marigold/audio/`, doména `https://media.vibecoding.cz/marigold/audio/` (s podporou Range, takže jde přeskakovat). Přepsány `audio_url` a odkazy ve 45 článcích. Z repozitáře smazány `static/audio/` i identická legacy kopie `audio/`, takže web nahrávaný na GitHub Pages je zhruba o 334 MB menší. Staré adresy `www.marigold.cz/audio/…` vracejí 404
 - `hugo-build.yml`: checkout s `fetch-depth: 1` místo `0`. Build historii gitu nepotřebuje (nepoužívá `.GitInfo`), takže se nemusí stahovat celých 6,5 GB repozitáře. Checkout trval 0:30–3:43

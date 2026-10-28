@@ -22,7 +22,7 @@ OpenAI představil nový webový prohlížeč ChatGPT Atlas, který přináší 
 
 Prohlížeč vyvinul tým vedený Samem Altmanem spolu s Willem Ellsworthem, Adamem Frym, Benem Goodgerem, Ryanem O'Rourkem, Justinem Rushingem a Pranavem Vishnu. Atlas dokáže převzít nastavení z Chrome za méně než minutu, což usnadňuje přechod uživatelům dominantního prohlížeče od Googlu.
 
-![OpenAI Atlas](ttps://www.marigold.cz/assets/Agent.png.webp)
+![OpenAI Atlas](https://www.marigold.cz/assets/Agent.png.webp)
 
 [Stáhnout ChatGPT Atlas](https://chatgpt.com/atlas/) 
 
