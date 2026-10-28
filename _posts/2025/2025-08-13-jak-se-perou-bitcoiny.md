@@ -5,7 +5,7 @@ categories:
 - bitcoin
 layout: post
 post_excerpt: Ministerstvo spravedlnosti se zřejmě dohodne se čtyřmi vydražiteli bitcoinů z kauzy Jiříkovský, že je vymění za jiné, čisté bitcoiny. Tolik stručná zpráva. Sláva, další problém se vyřeší. A ono ne...
-thumbnail: https://www.marigold.cz/assets/tomas_jirikovsky.jpeg
+thumbnail: https://www.marigold.cz/assets/tomas_jirikovsky.webp
 title: "Jak vyprat bitcoiny z Jiříkovského kauzy?"
 ---
 

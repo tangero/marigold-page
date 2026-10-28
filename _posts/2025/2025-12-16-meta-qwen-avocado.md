@@ -17,7 +17,7 @@ summary_points:
 - Meta najala 28letého Alexandr Wanga za 14,3 miliardy dolarů jako nového šéfa AI
 - Distilace modelů představuje právně i eticky spornou techniku v AI průmyslu
 title: Meta údajně trénuje nový model na čínském Qwen. Jak si stojí v AI závodu?
-thumbnail: https://www.marigold.cz/assets/yann-lecun.jpeg
+thumbnail: https://www.marigold.cz/assets/yann-lecun.webp
 ---
 
 Před dvěma lety čínské technologické firmy stavěly své jazykové modely na základech americké Llamy od Meta a západní analytici to interpretovali jako důkaz zaostávání Číny v oblasti umělé inteligence. Dnes se role obrátily. Podle zprávy Bloomberg Meta používá open-source model [Qwen](https://huggingface.co/Qwen) od čínské Alibaby jako jeden ze zdrojů pro trénování svého nového modelu s kódovým označením Avocado. Tento vývoj ilustruje zásadní posun v globální konkurenci velkých jazykových modelů. A přináší otázky ohledně schopností Meta inovovat v oblasti AI.

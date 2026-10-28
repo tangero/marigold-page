@@ -16,7 +16,7 @@ summary_points:
 - Platforma nabízí přístup ke všem modelům Mistral včetně Pixtral Large a Codestral
 - Fine-tuning umožňuje doladění vlastních modelů na specifická data
 title: Mistral představil AI Studio pro lepší ladění LLM 
-thumbnail: https://www.marigold.cz/assets/marketecture-ai-studio.png
+thumbnail: https://www.marigold.cz/assets/marketecture-ai-studio.webp
 ---
 
 Mistral AI představil AI Studio, vývojářskou platformu určenou pro práci s jazykovými modely. Jde o konsolidaci nástrojů, které firma dosud nabízela odděleně - od playground prostředí přes správu API klíčů až po nástroje pro fine-tuning. Platforma cílí na vývojáře, kteří potřebují testovat prompty, vytvářet agenty nebo zpracovávat požadavky v dávkách.
@@ -25,7 +25,7 @@ Mistral AI představil AI Studio, vývojářskou platformu určenou pro práci s
 
 Základem platformy je playground režim, kde mohou vývojáři testovat různé konfigurace modelů. Prostředí nabízí přístup ke všem modelům Mistral, včetně multimodálního [Pixtral Large](https://mistral.ai/news/pixtral-large/) s kapacitou 123 miliard parametrů nebo specializovaného [Codestral](https://mistral.ai/news/codestral/) pro generování kódu.
 
-![Mistral AI Studio Playground](/assets/marketecture-ai-studio.png)
+![Mistral AI Studio Playground](/assets/marketecture-ai-studio.webp)
 
 Vývojáři moví nastavovat parametry jako teplotu, top-p hodnotu nebo maximální délku odpovědi. Playground podporuje režim multi-turn konverzací, kde lze vytvářet komplexnější dialogy s udržováním kontextu. Systém umožňuje paralelní testování s více modely najednou, což zjednodušuje porovnání výsledků různých konfigurací.
 

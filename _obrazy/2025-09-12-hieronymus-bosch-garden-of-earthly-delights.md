@@ -7,7 +7,7 @@ namalovano: 1490-1510
 autor: "Hieronymus Bosch"
 obraz: "Zahrada pozemských rozkoší"
 styl: "Severská renesance"
-urlobrazu: /assets/obrazy/hieronymus-bosch-garden-of-earthly-delights.jpg
+urlobrazu: /assets/obrazy/hieronymus-bosch-garden-of-earthly-delights.webp
 ---
 
 Zahrada pozemských rozkoší je mistrovským dílem nizozemské renesance, které fascinuje diváky již více než 500 let svou komplexní symbolikou a fantaskními výjevy. Triptych zobrazuje biblické téma stvoření světa, lidských hříchů a pekelných muk způsobem, který nemá v dějinách umění obdoby.
@@ -22,7 +22,7 @@ Museo del Prado, Madrid, Španělsko
 - 🏰 Pracoval pro významné mecenáše včetně Filipa I. Sličného
 - ✨ Jeho díla byla ceněna již za jeho života pro svou originalitu a imaginaci
 
-![Garden of Earthly Delights](/assets/obrazy/hieronymus-bosch-garden-of-earthly-delights.jpg)
+![Garden of Earthly Delights](/assets/obrazy/hieronymus-bosch-garden-of-earthly-delights.webp)
 
 ## 🎨 O obraze Zahrada pozemských rozkoší - Garden of Earthly Delights
 

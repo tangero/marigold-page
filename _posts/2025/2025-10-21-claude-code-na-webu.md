@@ -16,7 +16,7 @@ summary_points:
 - Bezpečnost zajišťují izolované virtuální stroje, omezený síťový přístup a proxy pro citlivé operace
 - Služba sdílí rychlostní limity s ostatním používáním Claude v rámci účtu
 title: Anthropic spustil Claude Code na webu 
-thumbnail: https://www.marigold.cz/assets/claude-code-pro-web.png
+thumbnail: https://www.marigold.cz/assets/claude-code-pro-web.webp
 ---
 
 Společnost Anthropic, známá vývojem konverzačního modelu Claude, zpřístupnila novou funkci Claude Code na webu. Jde o nástroj pro automatizované programování, který běží na vzdálené infrastruktuře a umožňuje vývojářům zadávat úlohy přes webové rozhraní bez nutnosti lokální instalace. Služba je momentálně ve výzkumné beta verzi a dostupná pro předplatitele tarifů Pro a Max. 
@@ -27,7 +27,7 @@ Anthropic tak vyslyšel časté požadavky uživatelů Claude Code a také reagu
 
 Claude Code na webu představuje cloudovou variantu nástroje pro automatizované programování. Vývojáři se připojují přes adresu [claude.ai/code](https://claude.ai/code), kde po propojení s GitHub účtem mohou zadávat programovací úlohy. Systém následně naklonuje repozitář do izolovaného virtuálního stroje spravovaného Anthropicem, připraví vývojové prostředí a provede požadované úpravy kódu.
 
-![Claude Code pro web](https://www.marigold.cz/assets/claude-code-pro-web.png)
+![Claude Code pro web](https://www.marigold.cz/assets/claude-code-pro-web.webp)
 
 Služba se hodí především pro standardizované úlohy, které nevyžadují časté zásahy programátora. Anthropic uvádí jako vhodné scénáře opravy chyb, práci na repozitářích, které vývojář nemá stažené lokálně, nebo změny v backendovém kódu, kde může systém nejprve napsat testy a následně kód, který testy projde. Funkci lze využít i pro paralelní práci na více opravách současně.
 

@@ -22,7 +22,7 @@ No a právě ta kombinace malířských technik (lept/suchá jehla/tužka plus k
 
 Anderleho grafiky se bezpečně prodávají za částky 50-100 000 Kč, jeho obrazy spíše za vyšší statisíce. Tento si Leo Tsoukernik koupil do své sbírky před dvěmi lety za  700 000 Kč. Divácky nejatraktivnější jsou ale Anderleho malby z revolučních devadesátkových let. Já mám nejraději jeho Hudebníky, vizuálně atraktivní a neotřele zpracovaný zcela otřelý námět - bohužel zmizel do soukromých sbírek v USA, byl to Anderleho aukční rekord za zhruba milion korun. 
 
-![Jiří Anderle - Hudebníci](/assets/obrazy/jiri-anderle-hudebnici.jpg)
+![Jiří Anderle - Hudebníci](/assets/obrazy/jiri-anderle-hudebnici.webp)
 
 Mnoho Anderleho obrazů a grafik má [GASK v Kutné Hoře](https://sbirky.gask.cz/sbirky-online/?fulltext=Anderle&slider-min=1501&slider-max=2100&pl=&raz=&jo=&datfset=&dattset=&strana=1&do=searchForm-submit#vyhledat), pokud nestihnete [Galerii Magnus Art](http://galeriemagnusart.cz/), kde mají právě tento jeden obraz, stavte se tam hned po Barboře. No a v Pavlíkově u Rakovníka, kde se narodil, je na Obecním úřadě zřízena galerie jeho raných děl, tu jsem neviděl🙂
 Mimochodem je to hustej týpek, dost cestoval. Do komentářů ještě hodím link na [rozhovor s ním Na Plovárně](https://www.ceskatelevize.cz/porady/1093836883-na-plovarne/207522160100004/). A [tady má web](https://www.jirianderle.org). 

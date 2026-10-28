@@ -7,7 +7,7 @@ namalovano: 1503-1519
 autor: "Leonardo da Vinci"
 obraz: "Mona Lisa"
 styl: "vrcholná renesance"
-urlobrazu: /assets/obrazy/leonardo-da-vinci-mona-lisa.jpg
+urlobrazu: /assets/obrazy/leonardo-da-vinci-mona-lisa.webp
 ---
 
 Mona Lisa je nejslavnějším obrazem na světě, mistrovské dílo Leonarda da Vinciho zachycující ženu s enigmatickým úsměvem. Obraz fascinuje diváky již více než 500 let svou psychologickou hloubkou a revoluční malířskou technikou sfumato.
@@ -22,7 +22,7 @@ Louvre, Paříž, Francie
 - ✈️ Navrhl koncepty helikoptér, tanků a dalších vynálezů století před jejich realizací
 - 🔬 Prováděl detailní anatomické studie pitvou lidských těl
 
-![Mona Lisa](/assets/obrazy/leonardo-da-vinci-mona-lisa.jpg)
+![Mona Lisa](/assets/obrazy/leonardo-da-vinci-mona-lisa.webp)
 
 ## 🎨 O obraze Mona Lisa
 

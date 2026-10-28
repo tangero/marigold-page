@@ -7,12 +7,12 @@ namalovano: 1991
 autor: Hugh Steers
 obraz: Fulton Couch
 styl: figurativní realismus
-urlobrazu: /assets/obrazy/hugh-steers-fulton-couch.jpg
+urlobrazu: /assets/obrazy/hugh-steers-fulton-couch.webp
 ---
 
 Hugh Auchincloss Steers se narodil ve Washingtonu D.C. roku 1962 a vystudoval umění na Yaleově univerzitě. Jeho tvorba je charakteristická realistickým stylem a inspirací od malířů, jako byl Edward Hopper, Thomas Eakins nebo Paul Cadmus.
 
-![Hugh Steers - Fulton Couch (1991)](/assets/obrazy/hugh-steers-fulton-couch.jpg)
+![Hugh Steers - Fulton Couch (1991)](/assets/obrazy/hugh-steers-fulton-couch.webp)
 
 Z kampácké výstavy Visions of the World jde o depresivnější obraz, i když je malovaný nádhernou expresivní technikou, těžko se prostíte od úvah nad tím, co se na obraze děje nebo může dít. Zvláště tento obraz si nechává spíše domýšlet a tak půjde o kontext, tedy o to, zda si uvědomíte, že jej malíř maloval v době americké epidemie AIDS a také to, že Steers byl gay. Dejme si tedy malou interpretaci (moji, nic vědeckého):
 

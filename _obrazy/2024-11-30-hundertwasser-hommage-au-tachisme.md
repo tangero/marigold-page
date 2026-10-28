@@ -12,7 +12,7 @@ urlobrazu: /assets/obrazy/hundertwasser-hommage.jpeg
  
 🎨 F. Hundertwasser (1928–2000) byl rakouský umělec, architekt a ekologický vizionář
 
-![Friedensreich Hundertwasser - Hommage au Tachisme 1961](/assets/obrazy/hundertwasser-hommage.jpg)
+![Friedensreich Hundertwasser - Hommage au Tachisme 1961](/assets/obrazy/hundertwasser-hommage.webp)
 
 🌿tento obraz je příkladem jeho unikátního stylu, který se vyhýbá přímým liniím, kombinuje živé barvy, organické tvary a propojuje umění s přírodou. \
 🌱 podle Hudertwassera jsou přímé linie jsou “nehumánní” a skutečná krása se nachází v nepravidelnostech přírody. \
@@ -22,6 +22,6 @@ urlobrazu: /assets/obrazy/hundertwasser-hommage.jpeg
 
 Pokud do Vídně dorazíte, nenechte si jeho stavby ujít. Na obrázku vám ale dávám jeho zelenou citadelu z Magdeburgu, dokončenou až pět let po jeho smrti. 
 
-![Zelená citadela Magdeburg Hundertwasser](/assets/obrazy/green-citadel-magdeburg.jpg)
+![Zelená citadela Magdeburg Hundertwasser](/assets/obrazy/green-citadel-magdeburg.webp)
 
 Ve tvorbě Hundertwassera lze jasně rozeznat vlivy Antoni Gaudího, byl obdivovatelem Klimta a japonského umění.  Hundertwasser byl dědicem Gaudího vize, ale jeho tvorba získala ještě hlubší ekologický a duchovní rozměr. Jejich díla jsou tak součástí jednoho proudu organické estetiky, která dodnes inspiruje a okouzluje svět. Velkým Hundertwasserovým fandou byl i můj táta ♥️

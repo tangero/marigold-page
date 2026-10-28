@@ -14,7 +14,7 @@ summary_points:
 - Existuje mnoho AI nástrojů pro různé typy programování.
 - Nástroje se liší vhodností pro začátečníky a zkušené vývojáře.
 - Výběr nástroje závisí na typu projektu a požadovaných funkcích.
-thumbnail: https://www.marigold.cz/assets/ai-development.png
+thumbnail: https://www.marigold.cz/assets/ai-development.webp
 title: "\U0001F9E0 AI nástroje pro programování - přehled"
 ---
 

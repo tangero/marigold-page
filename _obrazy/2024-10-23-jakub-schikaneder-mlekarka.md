@@ -7,12 +7,12 @@ namalovano: 1905
 autor: Jakub Schikaneder
 obraz: Mlékařka
 styl: realismus
-urlobrazu: /assets/obrazy/schikaneder-mlekarka.jpg
+urlobrazu: /assets/obrazy/schikaneder-mlekarka.webp
 ---
 
 Jakub Schikaneder - Mlékařka (1905) je za mě jeden z top českých obrazů, pokud máte rádi šerosvitnou školu "holandských mistrů". Obecně ale není vnímán jako jeho důležitý obraz, je to moje guilty pleasure. 
 
-![Jakub Schikaneder - Mlékařka](/assets/obrazy/schikaneder-mlekarka.jpg)
+![Jakub Schikaneder - Mlékařka](/assets/obrazy/schikaneder-mlekarka.webp)
 
 🧟‍♂️ atmosféra osamění, smutku, ticha, temných či pouštěných zákoutí \
 💥 měkké, tlumené osvětlení a přitom nepřirozeně vržené stíny či odrazy, které spoluvytvářejí onu znejišťující atmosféru \

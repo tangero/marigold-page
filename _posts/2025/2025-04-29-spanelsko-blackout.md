@@ -14,7 +14,7 @@ summary_points:
 - Kmitání v síti začalo před polednem a přetrvávalo.
 - V 12:32:57 vypadlo 2,2 GW fotovoltaiky v Extramaduře.
 - Primární příčinou bylo překročení napěťových a impedance limitů.
-thumbnail: https://www.marigold.cz/assets/putin-jistic.jpg
+thumbnail: https://www.marigold.cz/assets/putin-jistic.webp
 title: ⚡️ Vyšetřování blackoutu ve Španělsku a Portugalsku den za dnem (update 13.5.)
 ---
 
@@ -194,7 +194,7 @@ Na závěry je brzy. Terorismu nenasvědčuje zatím nic. Ani tomu neruskému (t
 
 Přesto vám sem jeden ilustrační obrázek dám 😎
 
-![Putin si hraje s jističem](/assets/putin-jistic.jpg)
+![Putin si hraje s jističem](/assets/putin-jistic.webp)
 
 A ten Green Deal? Jistě, kdyby měla pyrenejská síť více točivých zdrojů, mohla dopadnout nějak lépe - jak moc, to se teprve nasimuluje. Ale kdyby měla balanční zdroje, jako jsou baterie, také by to ustála jinak. Na slunném jihu dávají FTV a větrníky velký smysl z hlediska produkčních cen a místní operátoři byli dlouhodobě upozorňováni na to, že tomu musí svoji síť přizpůsobit. Green Deal s nedodržením zásad diverzifikace nemá mnoho společného. 
 
@@ -218,7 +218,7 @@ Proč na kontinentu „spadlo“ jen 0,15 Hz?
 - Primární regulace ve zbytku Evropy (turbíny, baterie, HVDC linky) během sekund začala výkon zvyšovat, čímž frekvenci zastavila u ≈ 49,85 Hz a během tří minut ji vytáhla zpět nad 49,9 Hz.
 - Díky rychlé reakci a dostatečné setrvačnosti se kontinentální síť neodstavila – v grafu vidíte jen krátký, ale prudký zářez.
 
-![Graf frekvence v eurogridu](/assets/hz-net.png)
+![Graf frekvence v eurogridu](/assets/hz-net.webp)
 
 Co vidíme v grafu
 - Osa y (Frekvence): nominál evropské synchronní sítě je 50,00 Hz.

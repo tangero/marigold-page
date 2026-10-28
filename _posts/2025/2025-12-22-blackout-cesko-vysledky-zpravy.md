@@ -7,7 +7,7 @@ categories:
 layout: post
 post_excerpt: Dne 19.12.2025 vydal ČEPS tiskovou zprávu o vyšetřování a také 128 stránkový Rozbor závažné provozní a poruchové událost. Obě tyto zprávy si zcela protiřečí a jak nemám rád silná slova, tak bych tiskovou zprávu označil za velmi manipulativní, která je místy v přímém rozporu se závěry Rozboru. Pročetl jsem všechny podklady a tady to máte ve dvou úrovních stručnosti. 
 title: "🪫 Jak to bylo s blackoutem v Česku? Výsledky vyšetřování a mlžení ČEPS"
-thumbnail: https://www.marigold.cz/assets/stozary-kocka-ceps-400-kv.jpg
+thumbnail: https://www.marigold.cz/assets/stozary-kocka-ceps-400-kv.webp
 audio_url: https://www.marigold.cz/audio/2025-12-23-Anatomie_blackoutu.m4a
 ---
 

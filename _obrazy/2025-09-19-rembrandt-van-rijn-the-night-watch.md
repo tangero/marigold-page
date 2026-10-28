@@ -7,7 +7,7 @@ namalovano: 1642
 autor: "Rembrandt van Rijn"
 obraz: "Noční hlídka"
 styl: "nizozemský barok"
-urlobrazu: "/assets/obrazy/rembrandt-van-rijn-the-night-watch.jpg"
+urlobrazu: "/assets/obrazy/rembrandt-van-rijn-the-night-watch.webp"
 ---
 Noční hlídka je považována za vrcholné dílo nizozemského zlatého věku a Rembrandtovo nejambicióznější plátno. Toto monumentální dílo představuje revoluční přístup k skupinovému portrétu a vyniká dramatickým použitím světla a stínu.
 
@@ -21,7 +21,7 @@ Rijksmuseum, Amsterdam, Nizozemsko
 - 💰 I přes velký úspěch zemřel v chudobě
 - 🎓 Studoval na univerzitě v Leidenu
 
-![Noční hlídka](/assets/obrazy/rembrandt-van-rijn-the-night-watch.jpg)
+![Noční hlídka](/assets/obrazy/rembrandt-van-rijn-the-night-watch.webp)
 
 ## 🎨 O obraze Noční hlídka - The Night Watch
 

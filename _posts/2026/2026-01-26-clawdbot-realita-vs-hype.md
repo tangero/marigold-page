@@ -14,7 +14,7 @@ summary_points:
 - Finanční náklady mohou být vysoké, autonomní agenti generují desítky volání API s účty až 150 USD měsíčně
 - Existují významná bezpečnostní rizika, zejména prompt injection útoky skrze zpracovávané soubory
 title: Clawdbot (Moltbot) - když má AI ruce. Realita za virálním hypem autonomních agentů
-thumbnail: https://www.marigold.cz/assets/clawdbot.png
+thumbnail: https://www.marigold.cz/assets/clawdbot.webp
 ---
 
 
@@ -24,7 +24,7 @@ Pravděpodobně jste to sociálních sítích viděli: videa, kde AI sama spravu
 
 Marketingová zkratka zní: _„Claude, který může ovládat váš počítač."_ Realita je však mnohem střízlivější a technicky náročnější. Clawdbot je fascinující pohled do budoucnosti, kde AI není "SaaS služba", ale "kolega s vlastním počítačem". Prostě váš parťák, kterému pošlete zprávu s instrukcí, co má udělat a on to udělá. Skvělé!  Ale pro běžného uživatele je to ale zatím spíše minové pole a bezpečnostní problém.
 
-![Takhle vypadá virální obliba - hvězdičky na Githubu letí vzhůru](/assets/github-stars-clawdbot.jpeg)
+![Takhle vypadá virální obliba - hvězdičky na Githubu letí vzhůru](/assets/github-stars-clawdbot.webp)
 _Takhle vypadá virální obliba - hvězdičky na Githubu letí vzhůru_
 
 ## Co Clawdbot technicky je (bez marketingu)
@@ -44,7 +44,7 @@ Lidé si dokonce kupují Mac Mini, aby mohli hezky svého Clawdbota provozovat. 
 
 ## Co to umí: Od "Funguje to" po "Sci-fi"
 
-![Clawdbot je easy](/assets/clawdbot-easy-setup.jpeg)
+![Clawdbot je easy](/assets/clawdbot-easy-setup.webp)
 
 Existuje propastný rozdíl mezi základním použitím a tím, co vidíte ve virálních videích.
 

@@ -7,12 +7,12 @@ namalovano: 1934
 autor: Vasilij Kandinský
 obraz: Milieu jaune
 styl: abstrakce
-urlobrazu: /assets/obrazy/vasilij-kandinsky-milieu-jaune.jpg
+urlobrazu: /assets/obrazy/vasilij-kandinsky-milieu-jaune.webp
 ---
 
 Vasilij Kandinský - Milieu jaune (1934) není z nejznámějších pláten Kandinského, ale asi jediné v Česku, navíc se zrovna vystavuje. 
 
-![Vasilij Kandinský - Milieu jaune](/assets/obrazy/vasilij-kandinsky-milieu-jaune.jpg)
+![Vasilij Kandinský - Milieu jaune](/assets/obrazy/vasilij-kandinsky-milieu-jaune.webp)
 
 - obraz vznikl těsně po vyhnání Kandinského z nacistického Berlína a to musel být silný dojem, táhlo mu na sedmdesát.  
 - v překladu jméno obrazu znamená Žlutý střed - a nekecá!

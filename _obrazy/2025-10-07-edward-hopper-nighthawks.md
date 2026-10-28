@@ -7,7 +7,7 @@ namalovano: 1942
 autor: "Edward Hopper"
 obraz: Noční ptáci
 styl: "americký realismus"
-urlobrazu: /assets/obrazy/edward-hopper-nighthawks.jpg
+urlobrazu: /assets/obrazy/edward-hopper-nighthawks.webp
 ---
 
 Nighthawks je jedno z nejslavnějších děl amerického realismu 20. století, které zachycuje noční scénu v newyorském baru. Obraz se stal ikonickým symbolem městské osamělosti a moderního života v Americe.
@@ -22,7 +22,7 @@ Art Institute of Chicago, Chicago, USA
 - 🖼️ Proslul zobrazováním osamělých postav v městském prostředí
 - 🌆 Inspiroval se architekturou a životem ve městě
 
-![Nighthawks](/assets/obrazy/edward-hopper-nighthawks.jpg)
+![Nighthawks](/assets/obrazy/edward-hopper-nighthawks.webp)
 
 ## 🎨 O obraze Noční ptáci / Nighthawks
 

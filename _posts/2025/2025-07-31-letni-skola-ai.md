@@ -5,7 +5,7 @@ categories:
 layout: post
 post_excerpt: Naučit se s AI je úkol této doby. Jenže jak, když je času málo? Připravil jsem Letní školu AI, která vám bude každý den emailem zasílat krátkou lekci. Za pět minut se naučíte něco nového. 
 title: "Letní škola AI - jak se AI naučit zdarma, i když nemáte čas"
-thumbnail: https://www.marigold.cz/assets/letni-skola-ai.jpg
+thumbnail: https://www.marigold.cz/assets/letni-skola-ai.webp
 ---
 
 Naučit se s AI je úkol této doby. Jenže jak, když je času málo? Připravil jsem Letní školu AI, která vám bude každý den emailem zasílat krátkou lekci. Za pět minut se naučíte něco nového. Za dalších pět minut si uděláte úkol. Za deset lekcí máte za sebou obsáhlou přednášku, na jakou byste neměli normálně čas... 

@@ -32,7 +32,7 @@ Tady najdete přednášku bez videa a zvuku, jen přesentaci, trochu se bojím, 
 
 Nu a když jsem u té přednášky, největší úspěch jsem sklidil se slide číslo 38. Proč? Snad si jej přečtete z fotky, kterou pořídil Krtek, jeden z posluchačů:
 
-![Slide číslo 38](/assets/blok-expertu-tangero.png)
+![Slide číslo 38](/assets/blok-expertu-tangero.webp)
 
 A jaké je tajemství příběhu? Mizivé. Hlavně v tom, že jsem si neudělal screenshot. Nejdřív mi příhoda, která se stala před nějakou dobou, přišla k naštvání. Co se stalo? Někdo chtěl na jednom fóru, kde se vyměňují elektronické knihy, aby mu někdo reuploadnul jednu moji knížku (Flotilu). Tak jsem stáhl její soubor z jednoho serveru a nahrál jej na požadovaný RS. Jenže se naštvaně ozval "autor RIPu", že bych si snad mohl ty knihy scanovat sám, když je chci šířit. Tak jsem se nakvasil a odpověděl mu, že snad nebude tak zle, že jsem tu knihu napsal. No a to bylo všechno. Když jsem si uvědomil, jak je to příznačné a směšné a vrátil se na fórum, abych si to screenshotnul, už to někdo z adminů smazal a omluvil se mi soukromou zprávou. Dnes to používám jako případný příklad, co je dneska autorské dílo. Autorským dílem je schopnost z nadprodukce nejrůznějších děl rozpoznat něco, co má smysl dále šířit, to připravit do formy vhodné k dalšímu šíření a rozšířit. Viděli jste někdy Susane Boylovou v  Britain's Got Talent? Možná ano, <a href="http://www.youtube.com/watch?v=XD6bjuAqSZ4">třeba zde na Youtube</a>. Pamatujete si, kdo byl před ní nebo po ní? Nepamatujete. Pravděpodobně jste nic před ní a po ní neviděli. Jediná zajímavá část z pořadu - někdo ji vystříhl. Byl autorem? Ne. Objevitelem? Dost možná, vykutal zajímavý kus z hromady hlušiny. I tohle je moderní část intelektuálních práv. 
 

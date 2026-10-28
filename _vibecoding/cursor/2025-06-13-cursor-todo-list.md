@@ -8,4 +8,4 @@ Nejnovější chystaná verze Cursor v1.1.0 nyní obsahuje „To Do List“, či
 
 Další integrace se týká propojení, bude možné Cursor lépe napojit na Github a Slack, což doposud zajišťovaly pluginy. Nově agent bude moct přímo přistupovat ke Slacku i Githubu a provádět nad nimi akce. Novinkou mají být také MCP Tools. Ty umožní přístup k dalším službám podporujícím MCP přímo agentovi. Potenciálně rizikové, takže až verze vyjde, zkoušejte opatrně. 
 
-![Cursor Todo List](/assets/cursor-todolist.jpeg)
+![Cursor Todo List](/assets/cursor-todolist.webp)

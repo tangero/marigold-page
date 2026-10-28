@@ -21,7 +21,7 @@ Základní komponenty NTN zahrnují:
 - Pozemní gateway stanice
 - Uživatelské terminály s podporou NTN
 
-![Non-Terrestrial Networks: Komplexní pohled](/assets/Non-Terrestrial-Network.png)
+![Non-Terrestrial Networks: Komplexní pohled](/assets/Non-Terrestrial-Network.webp)
 
 ## Architektura NTN
 
@@ -55,7 +55,7 @@ Payload architektura v kontextu satelitních komunikačních systémů definuje 
    - Plánováno pro Release 18
 
 
-![Payload v architektuře NTN](/assets/NTN_payload.jpg)
+![Payload v architektuře NTN](/assets/NTN_payload.webp)
 
 Payload architektura představuje kritický aspekt NTN systémů, který významně ovlivňuje jejich výkon, flexibilitu a použitelnost. Volba mezi transparentním a regenerativním payloadem, případně jejich hybridní kombinací, závisí na konkrétních požadavcích mise, dostupných technologiích a ekonomických faktorech. S postupným vývojem technologií lze očekávat rostoucí adopci pokročilých regenerativních payloadů, které umožní plnou integraci satelitních systémů do budoucích 6G sítí.
 
@@ -97,7 +97,7 @@ V kontextu NTN je QoS management kritický vzhledem k:
 - Proměnlivému path loss
 - Atmosférickým vlivům
 
-![Architektura NTN](/assets/ntn-architektura.png)
+![Architektura NTN](/assets/ntn-architektura.webp)
 
 ## Klíčové technické výzvy
 

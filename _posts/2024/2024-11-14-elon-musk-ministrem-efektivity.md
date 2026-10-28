@@ -16,7 +16,7 @@ summary_points:
 - 4. Muskova strategie může být nákladná, ale je rychlá a efektivní.
 - 5. Státní správa vyžaduje jiný přístup než soukromé firmy.
 - 6. Ztráta hodnoty Twitteru souvisí s inzerenty
-thumbnail: https://www.marigold.cz/assets/elon-musk-doge-trump.png
+thumbnail: https://www.marigold.cz/assets/elon-musk-doge-trump.webp
 title: Elon Musk ministrem efektivity
 ---
 

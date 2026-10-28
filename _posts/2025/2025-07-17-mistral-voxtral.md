@@ -16,14 +16,14 @@ summary_points:
 - Vestavěné funkce pro dotazy, sumarizaci a volání funkcí přímo z hlasu
 - Dostupný na Hugging Face a přes API Mistral AI
 title: "Mistral AI představil Voxtral pro přepis zvuku na text"
-thumbnail: https://www.marigold.cz/assets/v-plot-1.png
+thumbnail: https://www.marigold.cz/assets/v-plot-1.webp
 ---
 
 O francouzské společnosti Mistral AI se v poslední době mluvilo hlavně kvůli spekulacím, zda si ji nechce koupit Apple jako urychlení svého AI vývoje. To by byla pochvala pro evropský vývoj AI a zároveň rána, protože by to velký AI model dotáhlo pod křídla americké firmy. Mistral ale nově vydal Voxtral - svůj první otevřený model zaměřený na zpracování zvuku, tedy především přepisu nahrávek do textu. 
 
 Model je dostupný ve dvou variantách (24B a 3B parametrů), překonává současné standardy včetně OpenAI Whisper large-v3 a ElevenLabs Scribe, přičemž jeho API stojí přibližně polovinu oproti konkurentům.  Pojďme se na něj podívat podrobněji. 
 
-![Ceny za použití Voxtral versus chybovost](/assets/triangle-voxtral-blog.png)
+![Ceny za použití Voxtral versus chybovost](/assets/triangle-voxtral-blog.webp)
 
 
 ## Technické specifikace a možnosti
@@ -34,7 +34,7 @@ Větší varianta Voxtral s 24 miliardami parametrů je určena pro produkční 
 
 Model podporuje automatické rozpoznání jazyka a dosahuje špičkových výsledků v angličtině, španělštině, francouzštině, portugalštině, hindštině, němčině, holandštině, italštině a arabštině. Čeština v současné době bohužel podporovaná není. Podle oficiálních benchmarků překonává Voxtral Small model Whisper large-v3 ve všech testovaných úlohách včetně multijazyčního datasetu FLEURS.
 
-![Výkony Voxtralu](/assets/v-plot-1.png)
+![Výkony Voxtralu](/assets/v-plot-1.webp)
 
 
 ## Rozšířené funkce nad rámec transkripce

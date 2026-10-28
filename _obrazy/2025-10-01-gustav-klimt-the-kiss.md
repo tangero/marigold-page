@@ -7,7 +7,7 @@ namalovano: 1907-1908
 autor: "Gustav Klimt"
 obraz: Polibek
 styl: "secese (Art Nouveau), symbolismus"
-urlobrazu: "/assets/obrazy/gustav-klimt-the-kiss.jpg"
+urlobrazu: "/assets/obrazy/gustav-klimt-the-kiss.webp"
 ---
 Polibek je jedním z nejslavnějších děl Gustava Klimta a vrcholným dílem jeho 'Zlatého období'. Obraz zobrazuje intimní moment mezi milenci a je charakteristický použitím zlatých plátků a ornamentální dekorativností typickou pro secesi.
 
@@ -21,7 +21,7 @@ Belvedere, Vídeň, Rakousko
 - 🎓 Studoval na Uměleckoprůmyslové škole ve Vídni
 - 🏛️ Jeho díla zdobila významné vídeňské budovy
 
-![Polibek](/assets/obrazy/gustav-klimt-the-kiss.jpg)
+![Polibek](/assets/obrazy/gustav-klimt-the-kiss.webp)
 
 ## 🎨 O obraze Polibek - The Kiss
 

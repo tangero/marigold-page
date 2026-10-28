@@ -12,7 +12,7 @@ permalink: /en/item/ai-psani-povidek/
 post_excerpt: It was the first time I actually wrote fiction with the help of artificial
   intelligence. And I have to say, it was pretty helpful. How have I used AI to write
   a scifi story, where has it helped me and where are its limitations?
-thumbnail: https://www.marigold.cz/assets/aipovidky.png
+thumbnail: https://www.marigold.cz/assets/aipovidky.webp
 title: AI can already help with fiction writing
 ranslated: true
 ---

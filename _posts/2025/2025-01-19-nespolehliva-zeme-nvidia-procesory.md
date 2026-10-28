@@ -17,7 +17,7 @@ summary_points:
 - Česko dostane jen omezené množství výkonných AI procesorů.
 - Důvodem je neschopnost vlády zabránit pašování procesorů do nepřátelských států.
 - Česko nemá vládní strategii pro AI a výzkum je podfinancovaný.
-thumbnail: https://www.marigold.cz/assets/fiala-ai-nvidia.png
+thumbnail: https://www.marigold.cz/assets/fiala-ai-nvidia.webp
 title: Moderní AI procesory v Česku nebudou. Proč nás USA označily za nespolehlivé?
 ---
 

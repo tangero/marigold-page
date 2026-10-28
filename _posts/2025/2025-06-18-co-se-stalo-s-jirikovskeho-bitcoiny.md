@@ -9,7 +9,7 @@ categories:
 layout: post
 date: 18.6.2025 7:30:00
 post_excerpt: Konečně se vyjasnilo, co se stalo s chybějícími devíti miliardami korun v bitcoinech z darknetového tržiště Nucleus Market. Soudní znalec Jiří Berger, který byl přítomen otevírání bitcoinové peněženky, vysvětlil, co se stalo s my se spolu detailně podíváme na to, kdo má radost a kdo méně. 
-thumbnail: https://www.marigold.cz/assets/babis-bitcoin.png
+thumbnail: https://www.marigold.cz/assets/babis-bitcoin.webp
 title: "Víme, co se stalo s 9 miliardami korun Tomáše Jiříkovského z tržiště Nucleus"
 ---
 

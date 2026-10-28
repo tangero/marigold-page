@@ -7,7 +7,7 @@ namalovano: 1495-1498
 autor: "Leonardo da Vinci"
 obraz: "Poslední večeře"
 styl: "vrcholná renesance"
-urlobrazu: /assets/obrazy/leonardo-da-vinci-the-last-supper.jpg
+urlobrazu: /assets/obrazy/leonardo-da-vinci-the-last-supper.webp
 ---
 
 Poslední večeře je monumentální nástěnná malba zachycující dramatický okamžik, kdy Ježíš oznamuje svým učedníkům, že jeden z nich ho zradí. Leonardo revolucionalizoval zobrazení této scény psychologickým vhledem a mistrovskou kompozicí.
@@ -22,7 +22,7 @@ Klášter Santa Maria delle Grazie, Milán, Itálie
 - 📐 Mistr perspektivy a matematických proporcí
 - ✍️ Psal zrcadlovým písmem zprava doleva
 
-![The Last Supper](/assets/obrazy/leonardo-da-vinci-the-last-supper.jpg)
+![The Last Supper](/assets/obrazy/leonardo-da-vinci-the-last-supper.webp)
 
 ## 🎨 O obraze Poslední večeře / The Last Supper
 

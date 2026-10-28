@@ -6,7 +6,7 @@ categories:
 layout: post
 post_excerpt: "Na tohle se mne všichni lidé ptají. Jak AI dopadne na to, co dělají? Vytvořil jsem na to matici, která umožňuje odhadnout, jak na váš obor AI dopadne a vám určit, co byste měli dělat. Pojďme si to spolu projít."
 title: "Jak AI dopadne na vaše podnikání a jak moc je vaše firma tokenizovatelná?"
-thumbnail: https://www.marigold.cz/assets/ai-tokenizovatelny-business.jpg
+thumbnail: https://www.marigold.cz/assets/ai-tokenizovatelny-business.webp
 ---
 
 Na tohle se mne všichni lidé ptají. Jak AI dopadne na to, co dělají? Vytvořil jsem na to matici, která mi umožňuje dosti přesně odhadnout, jak na váš obor AI dopadne. Pojďme si to spolu projít.
@@ -109,4 +109,4 @@ Snažte se být v popisu vašeho odvětví specifičtí, zejména pokud je váza
 
 Už tušíte, kam se váš trh bude ubírat?
 
-![Jak moc je váš business tokenizovatelný?](/assets/ai-tokenizovatelny-business.jpg)
+![Jak moc je váš business tokenizovatelný?](/assets/ai-tokenizovatelny-business.webp)

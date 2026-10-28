@@ -13,7 +13,7 @@ summary_points:
 - Josef učil autora textu prodejní "štábní kulturu".
 - Josef použil mnoho dokumentů pro úspěšný prodej.
 - Josefova metoda prodeje byla nakonec jednoduchá.
-thumbnail: https://www.marigold.cz/assets/lide-na-kopci.png
+thumbnail: https://www.marigold.cz/assets/lide-na-kopci.webp
 title: Někteří lidé se vás dotknou, i když je potkáte na krátko
 ---
 

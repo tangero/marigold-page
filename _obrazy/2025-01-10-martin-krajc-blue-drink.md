@@ -7,7 +7,7 @@ namalovano: 2021
 autor: Martin Krajc
 obraz: Blue Drink
 styl: expresionismus
-urlobrazu: /assets/obrazy/martin-krajc-blue-drink.jpg
+urlobrazu: /assets/obrazy/martin-krajc-blue-drink.webp
 ---
 
 Martin Krajc je jedním z nejvýraznějších českých malířů současnosti. Jeho obraz Blue Drink byl v roce 2022 vydražen v prestižní londýnské aukční síni Sotheby’s za 8200 liber. Nejdražším jeho dílem však zůstává obraz Eva, který se prodal v roce 2020 za 370 000 Kč.
@@ -24,7 +24,7 @@ Martin Krajc je jedním z nejvýraznějších českých malířů současnosti. 
 - zatímco postava ženy nese prvky melancholie a zasnění, okolní prostředí vyzařuje radost a živost typickou pro letní dny 
 - barvy jako zářivá oranžová, azurová modř a teplé odstíny vytvářejí dynamickou harmonii, která diváka okamžitě vtáhne.
 
-![Martin Krajc - Blue Dring](/assets/obrazy/martin-krajc-blue-drink.jpg)
+![Martin Krajc - Blue Dring](/assets/obrazy/martin-krajc-blue-drink.webp)
 
 🖋️ Styl: Krajc využívá akryl a expresivní tahy štětcem k vytvoření vrstvené kompozice, která kombinuje malbu s kresbou. Často pracuje s tématy modelek a reklamních kompozic, které transformuje do velkoformátových obrazů s hlubokým emocionálním nábojem. \
 🎭 Inspirace: Kombinuje expresivní tahy s realistickými detaily, přičemž čerpá z módy, reklamy i fotografických postupů. \
@@ -37,7 +37,7 @@ Martin Krajc je jedním z nejvýraznějších českých malířů současnosti. 
 
 Který z těch dvou obrazů se vám líbí více? Já jsem #týmdrink ♥️ 
 
-![Martin Krajc - Eva](/assets/obrazy/martin-krajc-eva.jpg)
+![Martin Krajc - Eva](/assets/obrazy/martin-krajc-eva.webp)
 A to už je obraz Eva...
 
 Pokud bych měl vyjádření obrazů Martina Krajce k někomu přirovnat, nabízejí se následující jména:

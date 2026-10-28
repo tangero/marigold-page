@@ -12,7 +12,7 @@ summary_points:
 - Přesný textový popis zvyšuje úspěšnost odhadu, zejména u méně známých míst.
 - Model dokáže rozpoznat známé lokace, ale u přírodních snímků je přesnost nižší.
 - Doporučený prompt z GeoGuessr komunity zlepšuje analýzu a výsledky.
-thumbnail: https://www.marigold.cz/assets/Riegersburg.jpeg
+thumbnail: https://www.marigold.cz/assets/Riegersburg.webp
 title: Jak určit polohu pořízení fotografie pomocí ChatGPT o3?
 ---
 
@@ -121,6 +121,6 @@ Pro každý přeživší region:
 
 Tak a to je všechno! Tady jeden příklad za všechny:
 
-![Fotka z lanovky na Riegersburg](https://www.marigold.cz/assets/Riegersburg.jpeg)
+![Fotka z lanovky na Riegersburg](https://www.marigold.cz/assets/Riegersburg.webp)
 
-![A tady je hodnocení](https://www.marigold.cz/assets/Riegersburg-hodnoceni.png)
+![A tady je hodnocení](https://www.marigold.cz/assets/Riegersburg-hodnoceni.webp)

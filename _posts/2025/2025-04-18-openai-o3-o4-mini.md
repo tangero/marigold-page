@@ -13,7 +13,7 @@ summary_points:
 - Modely o3 a o4-mini jsou "reasoning models".
 - Nové modely integrují nástroje jako vyhledávání a kódování.
 - o3 je výkonnější, o4-mini optimalizovaný pro efektivitu.
-thumbnail: https://www.marigold.cz/assets/souboj-llm.jpg
+thumbnail: https://www.marigold.cz/assets/souboj-llm.webp
 title: OpenAI vydala svůj nejsilnější model pro ChatGPT o3 a rychlý o4-mini
 ---
 
@@ -40,7 +40,7 @@ Pozor musíte dávat jen **na délku kontextu**, model GPT-4.1 představený př
 
 Testů se vyrojila celá řada, já vám dám můj oblíbený norský IQ test, ze kterého plyne, že v takovém tom obecném uvažování je o3 fakt špička. Za mě více důležité bude, jak se podaří OpenAI propojovat svůj systém na další systémy, protože kritická začíná být ani ne tak inteligence (IQ 130 nemá jen tak někdo), ale schopnost dostat se snadno k datům, aby je člověk pořád nepřehazoval jako copy-paste, což je při práci s AI to nejvíce frustrující. To si uvědomujete, že vy tam jste za toho podržtašku. 
 
-![Výsledky IQ testu pro OpenAI o3](/assets/vysledky-o3.jpg)
+![Výsledky IQ testu pro OpenAI o3](/assets/vysledky-o3.webp)
 
 
 ### Dostupnost
@@ -72,4 +72,4 @@ Tady je ceník, přiznám se, že jsem ho nebral z oficiálních API, ale z Open
 
 Na závěr vám dám ještě [Aider Leaderboard](https://aider.chat/docs/leaderboards/), což je statistika, jakou vede kódovací nástroj Aider pro výkonnost a cenu jednotlivých LLM. Z toho je vidět, že o3 je suverénně nejlepší, ale taky velmi drahý. Lepší by bylo používat Gemini Pro 2.5 - ten má ale nyní podle mne výrazně dotovanou cenu (sám ho používám zdarma v promo balíku) a je otázka, kdy půjde nahoru. Nutno říct, že jak jsem Gemini modelům dlouho nepřišel na chuť, tak Pro 2.5 je velmi dobrý, i když na kódování mi zatím nesedl. 
 
-![Aider Leaderboard](/assets/aider-leaderboard.png)
+![Aider Leaderboard](/assets/aider-leaderboard.webp)

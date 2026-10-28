@@ -13,7 +13,7 @@ summary_points:
 - Hudba přešla z fyzického vlastnictví na pronájem přes streamovací služby.
 - Hardware je stále více závislý na softwaru, který omezuje uživatelskou kontrolu.
 - Internet věcí a autonomní vozidla dále rozmazávají hranice vlastnických práv.
-thumbnail: https://www.marigold.cz/assets/digitalni-nevolnictvi.png
+thumbnail: https://www.marigold.cz/assets/digitalni-nevolnictvi.webp
 title: Digitální nevolnictví -  Bylo soukromé vlastnictví jen chvilkový přelud?
 ---
 

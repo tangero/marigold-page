@@ -15,7 +15,7 @@ summary_points:
 - V7 lépe zpracovává obrazové vstupy a detaily.
 - Nový Draft Mode umožňuje 10x rychlejší renderování.
 - Model V7 zavádí personalizaci jako výchozí funkci.
-thumbnail: https://www.marigold.cz/assets/midjourney-V7.png
+thumbnail: https://www.marigold.cz/assets/midjourney-V7.webp
 title: Midjourney V7 - Nová verze modelu pro AI generování obrazů
 ---
 
@@ -82,6 +82,6 @@ A co ještě při příležitosti uvedení V7 prohlásil CEO David Holze? Spole�
 
 Dejme si dva příklady, jeden ukazuje kvalitu práce v hi-res oblasti a zejména na fotkách lidí, druhý v případě animovaného stylu. Na internetu již lítají stovky příkladů, pomocí dalších AI nástrojů z toho dělají lidé i spojitá videa :)
 
-![Fotorealistický obrázek obličeje](/assets/midjourneyVý-example1.jpeg)
+![Fotorealistický obrázek obličeje](/assets/midjourneyVý-example1.webp)
 
-![Vygenerované Anime, všímejte si těch detailů](/assets/midjourneyVý-example2.jpeg)
+![Vygenerované Anime, všímejte si těch detailů](/assets/midjourneyVý-example2.webp)

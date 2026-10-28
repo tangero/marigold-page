@@ -14,7 +14,7 @@ summary_points:
 - Srovnává systém s dalšími zeměmi a upozorňuje, že úprava bez kompenzace nákladů by byla pro obce likvidační
 post_excerpt: A to, jak to nová vláda navrhuje, není zrovna moudré, protože to respektuje jen přání brm-brm kliky jezdit po českých silnicích bez omezení. Na problémy obcí a těch, co v nich bydlí, se ohled zatím nebral. Jaké jsou tedy reálie?
 title: "Stát chce sebrat obcím peníze z výběru pokut za rychlost"
-thumbnail: https://www.marigold.cz/assets/merenirychlosti.jpg
+thumbnail: https://www.marigold.cz/assets/merenirychlosti.webp
 ---
 
 Nová vláda se prezentuje plánem sebrat obcím peníze z radarových měření za překročení rychlosti. Ty byly dosud "příjmem rozpočtu obce" a zejména Motoristům sobě ležely tyto peníze v žaludku. Tak si k tomu řekněme pár faktů. 

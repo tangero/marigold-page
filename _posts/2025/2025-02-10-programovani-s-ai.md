@@ -17,7 +17,7 @@ summary_points:
 - Nástroje jako Replit, Tempolabs, Cursor AI – nabízejí různé možnosti od prototypování
   po komplexní vývoj.
 - Ceny jsou založeny na spotřebě tokenů – rychle rostou s intenzivním používáním.
-thumbnail: https://www.marigold.cz/assets/ai-programovani.jpg
+thumbnail: https://www.marigold.cz/assets/ai-programovani.webp
 title: Programování s AI pro neprogramátory -  už je to tady!
 ---
 
@@ -61,7 +61,7 @@ Replit Agent je velmi pohodlná, ale také nejdražší varianta. Ale proti denn
 - Poskytuje vestavěný chat pro diskuzi a zpětnou vazbu během vývoje
 - Pro neprogramátory může být výhodou možnost vytvářet aplikace bez hlubokých znalostí kódování
 
-![Replit Agent](/assets/replit-trumptracker.png)
+![Replit Agent](/assets/replit-trumptracker.webp)
 
 ### Tempolabs AI vs Bolt New- webové vývojové prostředí
 
@@ -84,7 +84,7 @@ Přímou konkurencí k Tempu je [Bolt New](https://bolt.new/) . Mírně jiné ro
 - Integruje AI pro generování vysoce kvalitního React kódu
 - Vhodný pro designéry, kteří chtějí vytvářet UI bez nutnosti programování
 
-![Tempolabs AI](/assets/tempolabs-progressor.png)
+![Tempolabs AI](/assets/tempolabs-progressor.webp)
 
 #### Bolt New přehledně
 
@@ -93,7 +93,7 @@ Přímou konkurencí k Tempu je [Bolt New](https://bolt.new/) . Mírně jiné ro
 - Poskytuje AI-řízené prompty pro usnadnění procesu kódování
 - Vhodný i pro neprogramátory díky snadnému rozhraní a AI asistenci
 
-![Bolt New](/assets/bolt-trumpboard.png)
+![Bolt New](/assets/bolt-trumpboard.webp)
 
 
 ### Cursor AI - AI vývojové prostředí jako samostatná aplikace 
@@ -117,7 +117,7 @@ Cenová politika je také komplikovaná: za 20 dolarů měsíčně získáte 500
 - Umožňuje snadné úpravy kódu pomocí přirozeného jazyka
 - Pro neprogramátory může být výhodou možnost editace kódu bez přímého zásahu do zdrojového kódu
 
-![Cursor AI](/assets/cursor-ai-odpady.png)
+![Cursor AI](/assets/cursor-ai-odpady.webp)
 
 ### Windsurf AI
 

@@ -9,7 +9,7 @@ categories:
 layout: post
 post_excerpt: Láká vás tvorba webových aplikací pomocí AI, ale nevíte, jak začít? Tohle je video pro naprosté začátečníky. Ukážeme si, jak si instalujete Claude Code a jak si vytvoříte svou první webovou aplikaci - krok za krokem. 
 title: "🎥 Video: Začínáme s Claude Code"
-thumbnail: https://www.marigold.cz/assets/claude-code-zaciname.jpeg
+thumbnail: https://www.marigold.cz/assets/claude-code-zaciname.webp
 ---
 
 Láká vás tvorba webových aplikací pomocí AI, ale nevíte, jak začít? Tohle je video pro naprosté začátečníky. Ukážeme si, jak si instalujete Claude Code a jak si vytvoříte svou první webovou aplikaci - krok za krokem. 

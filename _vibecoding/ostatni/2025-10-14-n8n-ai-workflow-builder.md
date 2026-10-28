@@ -25,7 +25,7 @@ n8n je platforma pro automatizaci workflow s otevřeným zdrojovým kódem, kter
 
 AI Workflow Builder umožňuje uživatelům popsat požadovaný automatizační proces v přirozeném jazyce. Systém následně vygeneruje kompletní workflow včetně jednotlivých uzlů, logických spojení a struktury. Výsledné workflow lze okamžitě upravovat a nasazovat do produkce.
 
-![N8N AI Workflow Builder](/assets/ai-workflow-builder.png)
+![N8N AI Workflow Builder](/assets/ai-workflow-builder.webp)
 
 Funkce se aktivuje v editoru n8n a pracuje přímo v prostředí platformy. Uživatel zadá textový popis požadovaného workflow a AI Workflow Builder vytvoří návrh s konkrétními uzly pro jednotlivé operace. Mezi tyto uzly patří spouštěče událostí, zpracování dat, API volání, podmíněné větvení nebo integrace s externími službami.
 

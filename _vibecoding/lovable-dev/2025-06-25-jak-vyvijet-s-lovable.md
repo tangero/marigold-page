@@ -30,7 +30,7 @@ Designer švédského vibecoding startupu Lovable Felix Haas na svých sociáln�
 
 **Lovable lépe rozumí obrázkům než čistému textu.** Pro rychlé opravy pořiďte snímek obrazovky s chybou, zvýrazněte problémové místo a přidejte jednoduchou instrukci: "Toto rozložení působí nevyvážené, prosím udělej ho kompaktnější a čistší." Pokud jde o drobnější opravy prvků nebo dokonce textů, má promptovací políčko Lovable ikonku zaměřovače označenou jako EDIT. Stiskem této ikonky můžete v prototypu vpravo vybrat patřičný prvek a buďto jej rovnou předělat změnou parametrů, které se objeví v chatovací levé části. Nebo můžete požádat o změnu v plovoucím okénku v prototypu, které vás rovnou vyzývá _Ask for quick changes here..._ To, když nevíte, jak byste konkrétní žáležitosti docílili. A pozor: spuštění Edit chviličku trvá, dole na obrazovce se objevuje nápis _Starting live preview_ - dokud nezmizí, klikání nepomůže a nic neoznačí..  
 
-![Editace prvku v Lovable](/assets/lovable-edit.png)
+![Editace prvku v Lovable](/assets/lovable-edit.webp)
 
 **Používejte osvědčené komponentové knihovny.** Když výsledek působí obecně, nevynucujte si vlastní řešení. Použijte osvědčené UI knihovny: 
 -   **21st(dot)dev**  - kolekce moderních UI komponentů

@@ -16,7 +16,7 @@ summary_points:
   v mmWave pásmech.
 - Rekonfigurovatelné inteligentní povrchy (RIS) optimalizují šíření signálu odrazem
   nebo přesměrováním v 5G/6G.
-thumbnail: https://www.marigold.cz/assets/chytre-anteny-praha.png
+thumbnail: https://www.marigold.cz/assets/chytre-anteny-praha.webp
 title: Chytré antény pro sítě 5G a 6G
 ---
 
@@ -36,11 +36,11 @@ Technologie Smart Array sestává z několika anténních prvků uspořádaných
 
 Ve skutečnosti to vypadá jako deska s více anténami, která je schopná pomocí pokročilých algoritmů (jako je [[strojové učení](/ai/strojove-uceni-machine-learning/)](/ai/strojove-uceni-machine-learning/) a analýza signálu) směřovat paprsky podle aktuálních potřeb sítě a uživatelů. Takový přístup zlepšuje výkon, snižuje rušení a zvyšuje energetickou efektivitu, což je důležité zejména v městských oblastech, kde je vysoká hustota uživatelů.
 
-![Smart Array - jak to vypadá](/assets/smart-array.jpg)
+![Smart Array - jak to vypadá](/assets/smart-array.webp)
 
 Další technologií, která se ve vývoji chytrých antén objevuje, je **Massive MIMO**. Massive MIMO používá velké množství anténních prvků, které pracují souběžně, což umožňuje výrazně zvýšit kapacitu sítě a zajistit stabilní připojení i v oblastech s vysokou hustotou uživatelů. Společnosti jako **Ericsson**, **Huawei** a **Nokia** jsou lídry v implementaci Massive MIMO technologií a investují značné prostředky do vývoje hardwaru a softwaru, které umožní efektivní nasazení této technologie v reálném světě. Společnost Ericsson například vyvinula AIR 6449 systém, který obsahuje 64 vysílacích a 64 přijímacích anténních elementů v kompaktním provedení. Tento systém dokáže dynamicky formovat vyzařovací charakteristiku (beamforming) a obsloužit několik uživatelů současně pomocí prostorového multiplexu.
 
-![Massive MIMO](/assets/massive-mimo.png)
+![Massive MIMO](/assets/massive-mimo.webp)
 
 **Jak se liší Smart Array a Massive MIMO?* Smart Array se zaměřuje na dynamické směrování a optimalizaci signálu, zatímco Massive MIMO využívá velké množství antén pro současný přenos více datových toků, čímž zvyšuje kapacitu a zajišťuje stabilní připojení.
 
@@ -56,7 +56,7 @@ AiP je zvláště důležitý v případě mmWave sítí, kde vysoké frekvence 
 
 Zde je vidět, pro jaká frekvenční pásma je který přístup jak vhodný:
 
-![Antenna-in-Package](/assets/prehled-anten-pozice.png)
+![Antenna-in-Package](/assets/prehled-anten-pozice.webp)
 
 ### Nové materiály a výrobní technologie
 
@@ -91,7 +91,7 @@ Qualcomm Technologies vyvíjí novou generaci anténních modulů využívajíc�
 
 RIS umožňují zlepšit pokrytí a kapacitu sítě, zejména v hustě zastavěných městských oblastech, kde tradiční antény narážejí na problémy s překážkami, jako jsou budovy. Společnost **ZTE** například vyvíjí RIS systémy, které mohou být integrovány do městské infrastruktury a pomáhat při odrazu a přesměrování signálů pro zajištění stabilního připojení. Další významnou firmou, která se zaměřuje na vývoj RIS technologií, je **Huawei**, která využívá RIS k optimalizaci síťového pokrytí a zlepšení kvality služby v náročných prostředích.
 
-![Rekonfigurovatelné inteligentní povrchy](/assets/ris.jpg)
+![Rekonfigurovatelné inteligentní povrchy](/assets/ris.webp)
 
 RIS představují revoluční přístup, který umožňuje dosáhnout vysoké efektivity přenosu bez nutnosti instalace nových základnových stanic. Tato technologie umožňuje flexibilně přizpůsobit vlastnosti sítě aktuálním podmínkám a potřebám uživatelů, což je klíčové pro budoucí sítě 6G, které budou muset podporovat širokou škálu aplikací a služeb s různými požadavky na konektivitu. je jedním z pokročilých přístupů při návrhu chytrých antén pro sítě 5G a 6G. Smart Array umožňuje dynamicky měnit směr a sílu vysílaného signálu na základě změn v prostředí, například pohybu uživatelů nebo změn v síťové infrastruktuře. Smart Array využívá komplexní algoritmy, které analyzují zpětnou vazbu od uživatelů a na základě toho optimalizují vysílací paprsek tak, aby byl signál co nejvíce zaměřen tam, kde je aktuálně potřebný. To nejen zvyšuje efektivitu komunikace, ale také přispívá k úspoře energie, což je v kontextu mobilních sítí velmi důležitý faktor.
 

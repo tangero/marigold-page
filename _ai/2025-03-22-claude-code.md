@@ -31,7 +31,7 @@ Co je výhoda? Můžet s Claudem mluvit česky, rozumí vám. Bude odpovídat ta
 
 Na obrazovce vidíte, jak všechno funguje:
 
-![Claude Code použité na Marigold.cz](/assets/claudecode-marigold.png)
+![Claude Code použité na Marigold.cz](/assets/claudecode-marigold.webp)
 
 Spustím Terminál, přejdu do adresáře, kde mám projekt a nyní si mohu poroučet, co se s ním má dělat. Tento web je staticky generovaný, funguje přes Github Pages a Jekyll, jenže už dávno si nové věci neřeším sám, ale nechávám si to vyvíjet právě přes AI. Jenže to má své problémy. Například teď jsem si nechal udělat script, který opravil nadpisy článků, ve kterých byly někdy paznaky. Jenže při tom udělal jiný problém. Ten nyní chci po [Claude Code](/ai/claude-code/) upravit, když mu říkám: __Potřebuji projít všechny soubory v adresáři _posts a podadresářích s koncovkou .md ... __
 

@@ -7,7 +7,7 @@ namalovano: 1930
 autor: "Grant Wood"
 obraz: "Americká gotika"
 styl: "americký regionalismus"
-urlobrazu: "/assets/obrazy/grant-wood-american-gothic.jpg"
+urlobrazu: "/assets/obrazy/grant-wood-american-gothic.webp"
 ---
 American Gothic je jedním z nejznámějších obrazů amerického umění 20. století. Dílo zobrazuje farmáře a jeho dceru (někdy interpretováno jako manželku) stojící před domem v gotickém stylu, přičemž se stalo ikonou americké kultury a předmětem nesčetných parodií a interpretací.
 
@@ -21,7 +21,7 @@ Art Institute of Chicago, Chicago, USA
 - 👨‍👧 Jako modely použil svou sestru Nan a jejich zubaře Dr. Byrona McKeeby
 - 🎓 Studoval umění v Paříži a byl ovlivněn vlámskými mistry
 
-![Americká gotika](/assets/obrazy/grant-wood-american-gothic.jpg)
+![Americká gotika](/assets/obrazy/grant-wood-american-gothic.webp)
 
 ## 🎨 O obraze Americká gotika - American Gothic
 

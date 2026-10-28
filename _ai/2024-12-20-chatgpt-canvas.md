@@ -18,7 +18,7 @@ __Co konkrétně se v tomto článku dozvíte?__
 
 ChatGPT Canvas lze chápat jako "interaktivní plátno", které kombinuje výhody konverzačního umělé inteligence (AI) s přehledným uživatelským rozhraním. V jádru se stále jedná o ChatGPT, tedy výkonný jazykový model, který je schopen rozumět textovým vstupům, generovat srozumitelný a kontextuálně relevantní text, odpovídat na dotazy a řešit úkoly zadané uživatelem. Zatímco standardní rozhraní ChatGPT funguje na bázi textového pole pro vstup a výstup, ChatGPT Canvas přináší online prostředí, kde vy můžete označit blok, požádat GPT o jeho přepracování a v tomtéž místě bude přepracován. Práce tedy neprobíhá formou neustále se posouvajícího textu, ale v jednom pracovním okně podobně, jako jste zvyklí třeba z online editoru [Google Dokumenty](https://docs.google.com). 
 
-![ChatGPT Canvas prostředí](/assets/chatgpt-canvas.png)
+![ChatGPT Canvas prostředí](/assets/chatgpt-canvas.webp)
 
 
 ## Přínosy Canvasu

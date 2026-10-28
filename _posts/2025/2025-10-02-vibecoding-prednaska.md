@@ -26,12 +26,12 @@ summary_points:
   technologické změny.
 - Klíčem k úspěchu je hledat nové cesty bez ideologických předsudků a s důrazem na
   data a fakta.
-thumbnail: https://www.marigold.cz/assets/vibecoding-prednaska.jpg
+thumbnail: https://www.marigold.cz/assets/vibecoding-prednaska.webp
 title: Vibe coding přednáška - proč na tom tak záleží?
 ---
 V úterý večer jsme s [Institut π v Pirátském centru organizovali přednášku](https://institutpi.cz/akce/tvorba-programu-pomoci-ai-pro-neprogramatory/), byla na téma vibe codingu, programování s AI. Zájem byl slušný, bylo plno, lidi to zajímalo, přišli nejenom laici, ale i zkušení vývojáři. A tohle je myslím nesmírně důležité. To, že Piráti jsou dneska jedni z velmi mála, kteří se dívají dopředu a uvědomují si důležitost pokroku. I proto jsem rád, že se takhle angažujeme ve vzdělávání moderních trendů, protože zrovna vibe coding je skvělý příklad, jak se svět mění.
 
-![V Pirátském centru bylo plno, protože vibecoding](/assets/vibecoding-prednaska.jpg)
+![V Pirátském centru bylo plno, protože vibecoding](/assets/vibecoding-prednaska.webp)
 
 Jasně, pokud jste programátor, budete vibe coding nenávidět. Představa, že hromada křemíku spálí trochu elektřiny a napíše rychleji něco, co jste dosud za stotisíc hrubého kódovali vy, je příšerná. Jenže je to esence naší doby, toho, co se děje. Pravověrný vývojář namítne, že AI nebude NIKDY tak dobrá, jako on. Cožpak skvěle pochopí produkční souvstažnosti nebo bezpečnostní nástrahy? Co když udělá chybu? Že je rychlejší? Vždyť dodává statisticky generovaný bordel. To NIKDY nebude fungovat. Tohle je pravá esence konzervativní pozice u čehokoliv. Elektromobily NIKDY nebudou fungovat. Bezkarbonová energetika NIKDY nebude fungovat. Všechno je to šunt, tlačný ideologií...ne?
 

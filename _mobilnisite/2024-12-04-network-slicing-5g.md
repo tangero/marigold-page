@@ -20,7 +20,7 @@ Zjednodušeně řečeno si operátor sítě zjistí, jakou úroveň služeb kter
 
 Koncept je ostatně zřejmý z následujícího obrázku.
 
-![Network slicing architectura](/assets/network-slicing-tech.jpg)
+![Network slicing architectura](/assets/network-slicing-tech.webp)
 
 Pojďme si podrobněji posat, co se na obrázku děje.
 
@@ -82,7 +82,7 @@ DECOR a eDECOR lze tak považovat za přímé předchůdce Network Slicingu, kte
 
 ## Vývoj Network Slicingu v rámci 3GPP Release
 
-![Jak se vyvíjí koncept Network Slicing v rámci 3GPP Release](/assets/3gpp-network-slicing.png)
+![Jak se vyvíjí koncept Network Slicing v rámci 3GPP Release](/assets/3gpp-network-slicing.webp)
 
 ### Release 15 (Počáteční 5G architektura)
 - Zavedení základních konceptů network slicingu

@@ -7,7 +7,7 @@ namalovano: 1509-1511
 autor: Raphael
 obraz: "Athénská škola"
 styl: "italská renesance"
-urlobrazu: "/assets/obrazy/raphael-school-of-athens.jpg"
+urlobrazu: "/assets/obrazy/raphael-school-of-athens.webp"
 ---
 Škola athénská je jednou z nejvýznamnějších fresek renesančního období, která zdobí stěnu Apoštolského paláce ve Vatikánu. Toto monumentální dílo představuje vrchol Rafaelova umění a zachycuje nejvýznamnější antické filozofy a učence v imaginární klasické architektuře.
 
@@ -21,7 +21,7 @@ Apoštolský palác, Vatikánská muzea, Vatikán
 - ⚜️ Byl architektem baziliky sv. Petra
 - 🖼️ Zemřel mladý ve věku 37 let na horečku
 
-![Athénská škola](/assets/obrazy/raphael-school-of-athens.jpg)
+![Athénská škola](/assets/obrazy/raphael-school-of-athens.webp)
 
 ## 🎨 O obraze Athénská škola - School of Athens
 

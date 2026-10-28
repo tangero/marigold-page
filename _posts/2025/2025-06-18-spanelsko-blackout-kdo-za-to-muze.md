@@ -7,7 +7,7 @@ categories:
 - Green Deal
 layout: post
 post_excerpt: "Vyšla Zpráva výboru pro analýzu okolností elektroenergetické krize 28.4.2025 ve Španělsku, takže už zhruba víme, co stálo za španělským blackoutem. A bylo toho opravdu hodně."
-thumbnail: https://www.marigold.cz/assets/spanelsko-blackout.png
+thumbnail: https://www.marigold.cz/assets/spanelsko-blackout.webp
 title: "Co bylo příčinou blackoutu ve Španělsku?"
 ---
 

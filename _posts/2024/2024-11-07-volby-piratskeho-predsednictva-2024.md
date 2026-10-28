@@ -12,7 +12,7 @@ summary_points:
 - V Pirátské straně soupeří tradicionalisté s progresivisty.
 - SPOLU potřebuje Piráty pro většinu ve sněmovně.
 - Hřib spojuje předsednictví s odhlasováním Nové vlny.
-thumbnail: https://www.marigold.cz/assets/IMG_5173.jpeg
+thumbnail: https://www.marigold.cz/assets/IMG_5173.webp
 title: Tyhle Pirátské volby budou důležité, i když o nich nevíte
 ---
 

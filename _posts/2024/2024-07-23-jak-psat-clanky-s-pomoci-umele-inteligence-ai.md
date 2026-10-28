@@ -13,7 +13,7 @@ summary_points:
 - Studie ukazují, že slučování obcí nevede k úsporám.
 - AI pomáhá se strukturou článku a analýzou zdrojů.
 - Použití AI vyžaduje ověřování informací kvůli chybám.
-thumbnail: https://www.marigold.cz/assets/ai-noviny.jpg
+thumbnail: https://www.marigold.cz/assets/ai-noviny.webp
 title: Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin
 ---
 

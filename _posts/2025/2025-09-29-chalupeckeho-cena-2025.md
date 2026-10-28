@@ -25,12 +25,12 @@ Takže, kdo letos vyhrál?
 
 **Karolína Rossí**, nezlobte se za to shrnutí, svou prezentovanou tvorbou skvěle obstojí na benešovských hrnčířských trzích, víc ale ze směsice slovanské ezoteriky, vesmírných vibrací a vaginálních tvarů neumím docenit. Jakkoliv skvěle řemeslně zvládnuté a nesouc možná silný osobní prožitek, se mnou se míjí - a s širší uměleckou výpovědí, jak ji vnímám, také. 
 
-![Karolína Rossi](/assets/IMG_7284.jpeg)
-![Karolína Rossi](/assets/IMG_7285.jpeg)
+![Karolína Rossi](/assets/IMG_7284.webp)
+![Karolína Rossi](/assets/IMG_7285.webp)
 
 **Barbora Lungová** je zde oceněna za svou queer zahrádku pro setkávání, což nadnáší otázku, zda oceňujeme spolkový život nebo umění a kde je ksakru ocenění pro Český svaz zahrádkářů nebo tu paní přes ulici, co taky pěstuje krokusy. V expozici se budete vyděšeně dívat na sešítek akvarelů, který by vzbudil vlažné nadšení, pokud je nakreslí vaše dospívající dcera, ale odvážnější celorepublikový umělecký počin v něm těžko spatříte . 
 
-![Barbora Lungová](/assets/IMG_7286.jpeg)
+![Barbora Lungová](/assets/IMG_7286.webp)
 _Kdyby vás tato prezentace queer zahrádky Barbory Lungové neuspokojila, nebojte nic, ještě je tu domeček, ve kterém jsou fotky a obrázková knížka... _
 
 ![Barbora Lungová](/assets/lungova-zahrada.webp)
@@ -38,12 +38,12 @@ _A takhle vypadá ten nejlepší mladý umělecký počin v praxi - zahrádka se
 
 Přitom je to jen věc výběru: Lungová je autorkou nápaditých a propracovaných obrazů s osobitým vyjádřením jak řemeslným, tak duchovním, proti jejichž ocenění by nebylo možné ani pípnout. Budovatelský realismus (zcela záměrně) stříknutý do kritiky maskulinních rolí je ten typ výpovědi, o který se lze opřít. Jenže o tomhle Lungové proudu se na výstavě návštěvník nedozví nic a tak přemýšlí, zda bylo třeba ocenit jako umělce zahradnici od Kyjova. 
 
-![Barbora Lungová](/assets/lungova-obraz.webp)![Barbora Lungová](/assets/boxer.jpg)
+![Barbora Lungová](/assets/lungova-obraz.webp)![Barbora Lungová](/assets/boxer.webp)
 _Tohle je přitom ta část tvorby Lungové, kterou lze předhodit i náročnému divákovi - a která je z nejasného důvodu stranou ocenění..._
 
 Teprve třetí oceněný **Dominik Adamec** probouzí naději. Mladý talentovaný sochař pečlivě zpracovává materiál, vytváří z něj fantaskní bytosti a světy, které nám otevírá. 
 
-![Dominik Adamec](/assets/IMG_7287.jpeg)
+![Dominik Adamec](/assets/IMG_7287.webp)
 
 
 Opět máme velké ale: teprve z fotek někde bokem se dozvíte o nápaditějších instalacích, které Adamec vytvořil a které, kdyby nebylo jejich křehkosti, by byly tak vítaným oživením veřejného prostoru. Prezentace jeho díla ve Veletržáku je rozpačitá, fragmentární: sušenky vysypané na stole zůstanou bez kontextu nepochopeny. 

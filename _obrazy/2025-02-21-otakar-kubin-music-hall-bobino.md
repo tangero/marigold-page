@@ -7,12 +7,12 @@ namalovano: 1910
 autor: Otakar Kubín
 obraz: Music Hall Bobino
 styl: fauvismus
-urlobrazu: /assets/obrazy/otakar-kubin-music-hall-bobino.jpg
+urlobrazu: /assets/obrazy/otakar-kubin-music-hall-bobino.webp
 ---
 
 Music Hall Bobino představuje důležitý moment v Kubínově tvorbě - vidíme zde jeho experimentování s fauvistickou barevností a začínající kubistické tendence. Dílo vzniklo v období, kdy se mladý umělec pohyboval v prostředí pařížské bohémy a vstřebával nejnovější umělecké trendy. 🎨
 
-![Otakar Kubín - Music Hall Bobino (1910)](/assets/obrazy/otakar-kubin-music-hall-bobino.jpg)
+![Otakar Kubín - Music Hall Bobino (1910)](/assets/obrazy/otakar-kubin-music-hall-bobino.webp)
 
 🗻 výjimečné dílo z let 1909-1910 zachycuje atmosféru slavného pařížského kabaretu Bobino na Montparnassu \
 🥂 číšník balancuje s podnosem plným sklenic nad hlavami návštěvníků, což vytváří působivou dynamickou kompozici. \

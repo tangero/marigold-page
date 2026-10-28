@@ -32,13 +32,13 @@ title: Varianty LTE LPWA jako konkurent Sigfoxu v IoT v podobě nízkoodběrový
 <h3>Kategorie v LTE Release 12 a Release 13</h3>
 <p>Předposlední stabilní specifikací byla Release 12, která specifikuje čtrnáct provozních kategorií zařízení LTE (Release 14 jich předpokládá cca 20, <a href="http://niviuk.free.fr/ue_category.php">přehled zde</a>). Pro nás je zajímavá Category 0 míněná jako kategorie komunikace pro Internet věcí. Na obrázku je vidět, jaké má parametry v porovnání s předchozí Cat 1 v Release 8, jejímž hlavním problémem byla relativně vysoká cena modemů a žravost, jakou u IoT nevyvážila ani vysoká rychlost přenosu a plně duplexní přenos. </p>
 
-![Porovnání jednotlivých release](/assets/lte-iot-rel.jpg)
+![Porovnání jednotlivých release](/assets/lte-iot-rel.webp)
 
 <p>Hlavní důvody nižší komplexnosti LTE Rel-12 Cat. 0 se promítají do výrazně nižší ceny, která má klesnout ještě více u Release 13. Tam se projeví především nižší šířka obsluhovaného pásma, existuje i vysloveně úzkopásmová (NB - narrow band) verze se 180 KHz pásma, což se velmi příznivě projeví jak ve výrobní ceně, tak ve výdrži zařízení a jeho poruchovosti, přičemž rychlost do 200 Kb/s je pro stavový přenos informací ještě vcelku dostatečná. Značnou výhodou Narrow Band verze (NB-LTE nebo někdy též Cat-M2, ale to nejsou oficiální označení) je také skutečnost, že může pracovat nejenom na vyhrazené frekvenci, ale i v doposud nevyužívaném guard-band (hraničním pásmu) a dokonce může být provozováno na překryvné (respektive podkresové) frekvenci v rámci existujícího LTE bloku, takže neukusuje z potřebné frekvence. </p>
 
 <p>Všechny tři funkční režimy ilustruje následující obrázek:</p>
 
-![Funkční režimy LTE IOT](/assets/lte-iot-mode.png)
+![Funkční režimy LTE IOT](/assets/lte-iot-mode.webp)
 
 <ul>
 <li><strong>Inband mode</strong> znamená, že v rámci frekvence využívané pro LTE je užit minimálně jeden rádiový blok (tedy minimálně 200 KHz) pro LTE-NB. </li>
@@ -51,7 +51,7 @@ title: Varianty LTE LPWA jako konkurent Sigfoxu v IoT v podobě nízkoodběrový
 
 <p>Tady je pár zásad, které v rámci své vize Massive IoT propaguje Ericsson:</p>
 
-![Massive IoT od Ericssonu](/assets/ericsson-massive-iot.jpg)
+![Massive IoT od Ericssonu](/assets/ericsson-massive-iot.webp)
 
 
 <p>Ostatní tomu říkají opatrněji Massive MTC, ale hlásí se k podobným zásadám.  </p>

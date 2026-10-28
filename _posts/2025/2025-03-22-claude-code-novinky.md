@@ -15,7 +15,7 @@ summary_points:
 - Vim mód umožňuje zkušeným vývojářům úpravu promptů pomocí slash příkazu `/vim`.
 - Vlastní slash příkazy se vytvářejí Markdown soubory v adresářích `.claude/commands/`.
 - Claude Code nabízí web fetch, auto-accept, automatické doplňování cest a auto-compact.
-thumbnail: https://www.marigold.cz/assets/claude-code-user.png
+thumbnail: https://www.marigold.cz/assets/claude-code-user.webp
 title: Nové funkce v Claude Code pro programování s AI
 sw: claude
 ---
@@ -41,7 +41,7 @@ Tato funkce je zvláště užitečná pro větší úkoly vyžadující plánov�
 
 Pro zkušené vývojáře, kteří rádi používají Vim, nabízí [Claude Code](/ai/claude-code/) novou funkci Vim módu. Použijte slash příkaz `/vim` k aktivaci insert/command módů pro úpravu promptů.
 
-![Claude code vim](/assets/claude-code-vim.png)
+![Claude code vim](/assets/claude-code-vim.webp)
 
 ## 3. Vlastní slash příkazy
 
@@ -53,7 +53,7 @@ Můžete vytvářet příkazy pro běžné workflow jako "kontrola pravopisu kó
 
 Vlastní slash příkazy jsou v podstatě způsob, jak si vytvořit vaše vlastní přizpůsobené workflow nebo často používané instrukce, které můžete v [Claude Code](/ai/claude-code/) rychle vyvolat pomocí příkazu začínajícího lomítkem (/).
 
-![Claude Code user](/assets/claude-code-user.png)
+![Claude Code user](/assets/claude-code-user.webp)
 
 Funguje to takto:
 
@@ -111,7 +111,7 @@ Jde o významné vylepšení kvality života při hledání souborů, které chc
 
 Vložte URL do Claude Code a on načte obsah z této webové stránky jako kontext.
 
-![Claude Code web fetch](/assets/claude-code-web-fetch.png)
+![Claude Code web fetch](/assets/claude-code-web-fetch.webp)
 
 To je velmi užitečné pro omezení přepínání mezi Claude Code a prohlížečem. Tato funkce je ideální pro načítání dokumentace, specifikací nebo referenčních implementací bez nutnosti opustit terminál.
 

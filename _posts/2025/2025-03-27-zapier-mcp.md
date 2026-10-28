@@ -15,7 +15,7 @@ summary_points:
 - MCP umožňuje AI interagovat s externími službami bez složité integrace.
 - Zapier MCP je cloudová služba, Make.com nabízí open-source server.
 - MCP rozšiřuje možnosti AI nástrojů pro automatizaci a integraci.
-thumbnail: https://www.marigold.cz/assets/zapier-mcp.jpg
+thumbnail: https://www.marigold.cz/assets/zapier-mcp.webp
 title: Zapier a Make MCP - Propojte AI asistenty s externími aplikacemi
 ---
 

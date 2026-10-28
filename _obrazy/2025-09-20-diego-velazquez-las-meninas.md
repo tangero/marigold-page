@@ -7,7 +7,7 @@ namalovano: 1656
 autor: "Diego Velázquez"
 obraz: "Las Meninas"
 styl: "španělský barok"
-urlobrazu: /assets/obrazy/diego-velazquez-las-meninas.jpg
+urlobrazu: /assets/obrazy/diego-velazquez-las-meninas.webp
 ---
 
 Las Meninas je považováno za jedno z nejvýznamnějších děl západního umění a vrchol tvorby Diega Velázqueze. Toto monumentální plátno zachycuje španělskou královskou rodinu v komplexní kompozici plné významových rovin a vizuálních hříček, které fascinují diváky i umělce již více než 350 let.
@@ -22,7 +22,7 @@ Museo del Prado, Madrid, Španělsko
 - ⚔️ Získal titul rytíře Řádu svatého Jakuba
 - 🖼️ Byl známý svou jedinečnou technikou volných tahů štětcem
 
-![Las Meninas](/assets/obrazy/diego-velazquez-las-meninas.jpg)
+![Las Meninas](/assets/obrazy/diego-velazquez-las-meninas.webp)
 
 ## 🎨 O obraze Las Meninas
 

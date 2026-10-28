@@ -41,18 +41,18 @@ Update 12/2024: vývoj pokročil, aktualizované informace [k provozu LTE/5G v n
 <p>Značnou výhodou LTE může být i schopnost přenášet data na více radiových frekvencích, kdy downlink nebo uplink může běžet už v licencovaném pásmu, to podle místní situace v rádiovém prostředí. LTE-U ovšem počítá s tím, že downlink minimálně z části běží po licencované frekvenci operátorova LTE a tedy dojde k provedení klasické autentizace přes prostředky LTE sítě. Typickým použitím LTE-U pak má být režim <strong>SDL</strong>, <em>Supplemental Down Link</em>. kdy se LTE v nelicencovaném pásmu používá jen pro příjem velkých balíků dat, pro jejich odesílání a částečně i pro příjem se používá LTE v licencovaném pásmu. Druhou variantou, která pochází také z dílny Qualcommu, má být <strong>MuLTEfire</strong>, nabízející přístup přes LTE čistě v nelicencovaném spektru. U zařízení MuLTEfire dokonce není ani potřeba SIM karta</p>
 
 
-<p><img title="overview-on-mobile-broadband-technologies-23-728.jpg" src="/assets/overview-on-mobile-broadband-technologies-23-728.jpg" alt="Supplemental DownLink on LTE" width="471" height="364" border="0" /></p>
+<p><img title="overview-on-mobile-broadband-technologies-23-728.jpg" src="/assets/overview-on-mobile-broadband-technologies-23-728.webp" alt="Supplemental DownLink on LTE" width="471" height="364" border="0" /></p>
 
 <p>Další výhodou může být mírně vyšší dosah LTE oproti WiFi ve stejném frekvenčním pásmu, což souvisí s jiným způsobem zpracování signálu a tedy lepší extrakcí informace od šumu a to i za použití MIMO.  </p>
 
 <h3>Problém 1: soužití s WiFi</h3>
 <p>Co může být zádrhel? Potenciál problematického soužití s WiFi. Na pětigigahercové WiFi vsází řada firem, které mohou LTE-U do úsměvu pěkně šlápnout, jako třeba Google, který to již udělal a postěžoval si k FCC, že LTE-U bude rušit WiFi sítě. Stejně negativistický postoj má Apple, který vidí v 5Gz WiFi především firemní sítě a do podpory telekomunikačních technologií na úkor internetových se moc nehrne. Qualcomm, Ericsson a další momentální partneři se dušují, že LTE-U bude respektovat WiFi a že to soužití bude dobré. Ostatně, pásmo 5GHz je volné a za dodržení určitých podmínek se tam může napasovat kdokoliv. Jednou z těch podmínek je aplikace LBT - tedy “poslouchej než mluvíš” - funkce, kdy před zahájením vysílání zařízení studuje provoz v pásmu a podle toho jednak vybere nejlepší frekvenční pásmo a přizpůsobí se provozu v rádiovém pásmu.</p>
 
-<p><img title="qualcomm-making-the-best-use-of-unlicensed-spectrum-28-638.jpg" src="/assets/qualcomm-making-the-best-use-of-unlicensed-spectrum-28-638.jpg" alt="Qualcomm making the best use of unlicensed spectrum 28 638" width="500" height="281" border="0" /></p>
+<p><img title="qualcomm-making-the-best-use-of-unlicensed-spectrum-28-638.jpg" src="/assets/qualcomm-making-the-best-use-of-unlicensed-spectrum-28-638.webp" alt="Qualcomm making the best use of unlicensed spectrum 28 638" width="500" height="281" border="0" /></p>
 
 <p>A tady začíná problém, o kterém mluví Google. LTE má kanálový krok 100 kHz, WiFi 5 MHz a v pásmu 5GHz spíše 20 MHz. Pro uživatelský terminál (UE) nebo základnovky eNB bude problematické funkci LBT korektně zrealizovat, protože bude po svých skocích prohledávat příliš široké pásmo. Nicméně Qualcomm tvrdí, že se to zvládne, oponenti požadují další testy. Dobrá studie koexistence, ovšem <a href="http://www.lteuforum.org/uploads/3/5/6/8/3568127/lte-u_forum_lte-u_technical_report_v1.0.pdf">vytvořená LTE-U Fórem, je tady</a>.</p>
 
-<p><img title="lteu-porovnani-wifi.png" src="/assets/lteu-porovnani-wifi.png" alt="Lteu porovnani wifi" width="599" height="493" border="0" /></p>
+<p><img title="lteu-porovnani-wifi.png" src="/assets/lteu-porovnani-wifi.webp" alt="Lteu porovnani wifi" width="599" height="493" border="0" /></p>
 
 <p>Americký regulátor FCC povolil koncem ledna Qualcommu ve spolupráci s Verizonem provést reálné testy LTE-U ve dvou městech, podle toho bude vyhodnocen dopad na rušení WiFi.</p>
 

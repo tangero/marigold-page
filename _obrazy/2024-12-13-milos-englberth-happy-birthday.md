@@ -7,12 +7,12 @@ namalovano: 2024
 autor: Miloš Englberth
 obraz: Happy Birthday
 styl: hyperrealismus
-urlobrazu: /assets/obrazy/milos-englberth-happy-birthday.jpg
+urlobrazu: /assets/obrazy/milos-englberth-happy-birthday.webp
 ---
 
 Miloš Englberth - Happy Birthday (2024) je olej na plátně od mého oblíbeného libereckého malíře (je starší o dva měsíce, taky ročník 1974). A troufnu si říct, že je širší veřejnosti prakticky neznámý, samotnému vypadl z AI analytiky jako nedoceněný a zajímavý autor. 
 
-![Miloš Englberth - Happy Birthday](/assets/obrazy/milos-englberth-happy-birthday.jpg)
+![Miloš Englberth - Happy Birthday](/assets/obrazy/milos-englberth-happy-birthday.webp)
 
 ⛰️ jeho rané práce byly ovlivněny především surrealismem (zejména tvorbou Josefa Vyleťala) – tedy imaginativním pojetím motivů, snovými krajinami a fantaskními kompozicemi \
 🎨 během studia u Zd. Berana na AVU se posunul k hyperrealismu a detailnímu zobrazování \
@@ -26,4 +26,4 @@ Co je podstatné? Tento obraz se bude dražit 15.12.2024 a Englberth je podle m�
 
 Já do toho nejdu, letos mám už utrum. Ale na závěr vám ještě dám Engelberthovu Houbařku:
 
-![Miloš Englberth - Houbařka](/assets/obrazy/milos-englberth-houbarka.jpg)
+![Miloš Englberth - Houbařka](/assets/obrazy/milos-englberth-houbarka.webp)

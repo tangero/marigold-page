@@ -11,7 +11,7 @@ summary_points:
 - Lugh vyžaduje měsíční poplatek, podpora iOS.
 - MinutAI je zatím kompletně zdarma, iOS a Android.
 - Notta podporuje češtinu, automatizuje webcall zápisy.
-thumbnail: https://www.marigold.cz/assets/robot-ai-prepis.png
+thumbnail: https://www.marigold.cz/assets/robot-ai-prepis.webp
 title: Zápis z porady či jednání pomocí umělé inteligence
 ---
 
@@ -48,7 +48,7 @@ Velmi slibnou aplikací je [Notta](https://notta.cello.so/zjaeV7IKxgt). Notta ko
 
 Na obrázku je vidět pracovní prostředí v prohlížeči. Nahrál jsem do aplikace kousek mého podcastu, který je namluvený na studiový mikrofon a jak vidíte, ani rozpoznávání hlasu nefunguje tak dobře, jak by se hodilo. Tady se můžete podívat na [přepis určený ke sdílení](https://app.fireflies.ai/view/43-ukrajina-mp3::zUWO0LYkhz5E4xxf). 
 
-![FIreflies.ai - pracovní prostředí v prohlížeči](/assets/fireflies-ai.png)
+![FIreflies.ai - pracovní prostředí v prohlížeči](/assets/fireflies-ai.webp)
 
 Abych řekl pravdu, spolu s Notta jde už o složitější aplikace. Předchozí mobilní appky jsou přímočaré - prostě spustíte appku, zmáčknete tlačítko nahrávání a ono vám to nahraje meeting a udělá sumář, který si můžete ještě poštelovat a říct si, že má být víc o financích, míň o termínech atd. Notta, Otter a Fireflies už jsou náročnější appky vhodné pro časté použití, kdy se vám vyplatí nastudovat jejich funkce a vytěžovat z nich maximum. 
 

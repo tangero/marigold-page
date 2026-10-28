@@ -13,7 +13,7 @@ summary_points:
 - D-RAN sítě decentralizovaly zpracování signálu na tisících základnových stanicích.
 - C-RAN snižuje náklady na hardware, elektřinu a zjednodušuje správu sítě.
 - Open RAN otevírá rozhraní mezi komponentami RAN pro interoperabilitu různých výrobců.
-thumbnail: https://www.marigold.cz/assets/dran-cran.png
+thumbnail: https://www.marigold.cz/assets/dran-cran.webp
 title: Způsoby zlepšení radiové sítě v 5G čili C-RAN, vRAN a Open RAN
 ---
 
@@ -71,7 +71,7 @@ Open RAN totiž otevřel rozhraní fronthaul a zavedl dva nové řadiče, Non-Re
 
 Na obrázku vidíme konkrétně, jak ty rozdíly mezi C-RAN, vRAN a Open RAN vypadají.
 
-![rozdíly mezi C-RAN, vRAN a Open RAN vypadají](/assets/ran-overview.jpeg)
+![rozdíly mezi C-RAN, vRAN a Open RAN vypadají](/assets/ran-overview.webp)
 
 A to je již výsledek. Pokud se použije Open RAN, lze kombinovat jak řídící software, tak rádiový software i hardware různých výrobců mezi sebou. Je ale zřejmé, že s tím bude ještě dosta práce a z toho plyne, že technologie ještě není standardně nasazována. Zatím se dělají pilotní testy, velkým propagátorem je japonský operátor Rakuten a samozřejmě čínští výrobci, kteří v tom vidí potenciál dalších prodejů. V Evropě se očekává zahájení nasazování Open RAN spíše v roce 2025 a dále.
 

@@ -13,7 +13,7 @@ summary_points:
 - Cloudové služby a sdílené modely nahrazují tradiční vlastnictví.
 - Digitální ne-vlastnictví omezuje svobodu a zvyšuje závislost na korporacích.
 - Regulace dat a uživatelských práv je klíčová pro ochranu svobody.
-thumbnail: https://www.marigold.cz/assets/krize-a-zanik-vlastnictvi.png
+thumbnail: https://www.marigold.cz/assets/krize-a-zanik-vlastnictvi.webp
 title: Krize a zánik vlastnictví
 ---
 

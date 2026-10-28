@@ -7,7 +7,7 @@ namalovano: 1917
 autor: "Marcel Duchamp"
 obraz: Fontána
 styl: "dadaismus, ready-made"
-urlobrazu: "/assets/obrazy/marcel-duchamp-fountain.jpg"
+urlobrazu: "/assets/obrazy/marcel-duchamp-fountain.webp"
 ---
 Fountain je jedním z nejkontroverznějších a nejvlivnějších děl 20. století. Tento ready-made objekt, podepsaný pseudonymem R. Mutt, představuje převrácený pisoár a stal se symbolem konceptuálního umění.
 
@@ -21,7 +21,7 @@ Originál byl ztracen, repliky jsou v Tate Modern (Londýn), Centre Pompidou (Pa
 - ♟️ Byl vášnivým šachistou a téměř zanechal umění kvůli šachu
 - 🎪 Odmítal tradiční umělecké konvence a rád provokoval
 
-![Fontána](/assets/obrazy/marcel-duchamp-fountain.jpg)
+![Fontána](/assets/obrazy/marcel-duchamp-fountain.webp)
 
 ## 🎨 O obraze Fontána - Fountain
 

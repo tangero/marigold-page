@@ -16,7 +16,7 @@ summary_points:
 - O3-Pro dosahuje 64% úspěšnosti v lidských testech oproti základnímu o3
 - Změny interpretovány jako reakce na konkurenční tlak od Gemini a Deepseek
 - Inference stack optimalizace zachovává původní výkon modelu bez degradace
-thumbnail: https://www.marigold.cz/assets/openai-thumbnail.png
+thumbnail: https://www.marigold.cz/assets/openai-thumbnail.webp
 title: OpenAI snížila cenu modelu o3 o 80 % a představila o3-Pro
 ---
 

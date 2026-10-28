@@ -12,7 +12,7 @@ summary_points:
 - Developeři tvoří oligopol kvůli vzácnosti stavebních pozemků.
 - Stavební řízení jsou složitá, Piráti navrhují digitalizaci.
 - Nedostupné bydlení je způsobeno nadměrnou regulací a daněmi.
-thumbnail: https://www.marigold.cz/assets/strategie-bydleni.png
+thumbnail: https://www.marigold.cz/assets/strategie-bydleni.webp
 title: Strategie bydlení - k levnému se neprodaníme, musíme zpřehlednit a deregulovat
 ---
 

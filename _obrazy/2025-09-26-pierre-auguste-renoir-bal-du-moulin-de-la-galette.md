@@ -7,7 +7,7 @@ namalovano: 1876
 autor: "Pierre-Auguste Renoir"
 obraz: "Ples v Moulin de la Galette"
 styl: impresionismus
-urlobrazu: "/assets/obrazy/pierre-auguste-renoir-bal-du-moulin-de-la-galette.jpg"
+urlobrazu: "/assets/obrazy/pierre-auguste-renoir-bal-du-moulin-de-la-galette.webp"
 ---
 Bal du moulin de la Galette je jedno z nejslavnějších děl impresionismu, zachycující živou atmosféru pařížského venkovního tančírny v Montmartru. Renoir zde mistrovským způsobem zachytil hru světla, pohyb a radostnou atmosféru nedělního odpoledne.
 
@@ -21,7 +21,7 @@ Musée d'Orsay, Paříž, Francie
 - 👨‍👩‍👧‍👦 Často maloval scény ze společenského života
 - 🌞 Proslul zachycením světla na lidské kůži
 
-![Ples v Moulin de la Galette](/assets/obrazy/pierre-auguste-renoir-bal-du-moulin-de-la-galette.jpg)
+![Ples v Moulin de la Galette](/assets/obrazy/pierre-auguste-renoir-bal-du-moulin-de-la-galette.webp)
 
 ## 🎨 O obraze Ples v Moulin de la Galette - Bal du moulin de la Galette
 

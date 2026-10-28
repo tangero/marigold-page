@@ -22,7 +22,7 @@ summary points:
 - Existují snahy o decentralizaci dat (Solid, IPFS, HAT), ale zatím se neprosadily.
 - Alternativou jsou šifrovaná data s vlastními pravidly přístupu (sticky policies)
   a technologie TEE.
-thumbnail: https://www.marigold.cz/assets/netscape.png
+thumbnail: https://www.marigold.cz/assets/netscape.webp
 title: Dědictví Netscape tlačí internetové služby k centralizaci
 ---
 Přinese AI svobodu lidem? Nikoliv nutně. Kvůli architektuře, jíž jsou nutně stavěné internetové služby, je internet decentralizovaný technologicky, ale v oblasti služeb ostře centralizuje. A to bude s AI jen horší a horší. Proč tomu tak je, jaké jsou důsledky a jaká jsou východiska z této situace?

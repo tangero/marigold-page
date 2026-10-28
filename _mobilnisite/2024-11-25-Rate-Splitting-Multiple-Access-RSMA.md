@@ -14,7 +14,7 @@ V RSMA vysílač rozdělí zprávu každého uživatele na dvě části - spole�
 
 Na přijímací straně uživatelé nejprve dekódují společnou část zprávy pomocí techniky postupného rušení interference (SIC). Po úspěšném dekódování a odstranění společné části ze přijatého signálu může každý uživatel dekódovat svou soukromou část zprávy. Tento hierarchický přístup k dekódování umožňuje efektivnější správu interference mezi uživateli a poskytuje robustnější výkon v podmínkách s nepřesnou znalostí stavu kanálu.
 
-![Rate-Splitting Multiple Access (RSMA)](/assets/RSMA.jpg)
+![Rate-Splitting Multiple Access (RSMA)](/assets/RSMA.webp)
 
 **Výběr soukromé a společné části zprávy v RSMA** je komplexní optimalizační problém, který závisí na několika klíčových faktorech. Vysílač musí zvolit optimální rozdělení na základě aktuálních podmínek kanálu, požadavků na kvalitu služby a interference mezi uživateli.
 

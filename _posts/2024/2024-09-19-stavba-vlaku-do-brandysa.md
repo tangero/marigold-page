@@ -13,7 +13,7 @@ summary_points:
 - Projekt vznikl díky iniciativě a spolupráci mnoha lidí.
 - Klíčové bylo najít odborníky a získat podporu obcí.
 - Memorandum znamená společný závazek k výstavbě trati.
-thumbnail: https://www.marigold.cz/assets/taky-mame-mobil-na-hriba.jpg
+thumbnail: https://www.marigold.cz/assets/taky-mame-mobil-na-hriba.webp
 title: Stavba vlaku do Brandýsa -  když mají všichni ve skříni vidle, co vám do toho můžou hodit
 ---
 
@@ -33,7 +33,7 @@ Kdo znáte mě a Marka tak víte, že nejsme troškaři. Rozešli jsme se s tím
 O týden později jsme shánění vyhodnotili. Marek domluvil v Olomouci možnost odkoupit jeden vagon ikonické tramvaje T3, já jsem od kamaráda filmaře měl možnost levně koupit vagon dobytčáku z filmu, jímž se vozili vězni do koncentráku. Měl i nástřik Reichsbahn. Asi nepřekvapí, že jsme nakonec vzali tu tramvaj. A přivezli jsme ji do Staré Boleslavi. 
 Tím to všechno začalo, protože o tom všichni napsali, vytáhly se oprášené trasy od Křižíka, SŽDC a dalších. A všichni ti, kdo měli zájem se začali scházet pod vlajkou projektu. A že takových lidí bylo. 
 
-![Takhle se tramvaj skládala do proluky na Mariánském náměstí, kterou jsme si za tím účelem pronajali](/assets/pokladka-tramvaje.jpg)
+![Takhle se tramvaj skládala do proluky na Mariánském náměstí, kterou jsme si za tím účelem pronajali](/assets/pokladka-tramvaje.webp)
 
 Ze začátku šlo všechno pomalu. Většinou se nám smáli. Ne snad, že by zpochybňovali, že trať není potřeba. To vůbec. Posměšky byly většinou na téma "v Česku se nemůže nic postavit" nebo "to vám nikdo nepovolí". 
 
@@ -41,7 +41,7 @@ V podstatě se ukázalo být klíčovým, najít v každé oblasti projektu něk
 
 A obrovsky pomohla také náhoda: Praha potřebuje dostavět obchvat, jenže k němu potřebuje souhlas obcí. A jejich starostové namítali, že obchvat jim přivede velkou dopravu do obcí (ano, modely říkají, že přivede) a že tedy potřebují nějakou alternativu. Vlak se stal jednou z rozpracovaných podmínek obchvatu Prahy. Ostatně, proč by obce měly vyjít vstříc Praze, když ta nevyjde vstříc jim v tomtéž, v dopravní obslužnosti? 
 
-![U tramvaje děláme akce. Na setkání dorazil i tehdejší primátor Prahy Zdeněk Hřib a s Janem Jirovským právě lidem ukazujeme, že oba máme na Hřiba mobil](/assets/taky-mame-mobil-na-hriba.jpg)
+![U tramvaje děláme akce. Na setkání dorazil i tehdejší primátor Prahy Zdeněk Hřib a s Janem Jirovským právě lidem ukazujeme, že oba máme na Hřiba mobil](/assets/taky-mame-mobil-na-hriba.webp)
 
 Bez dvou desítek dalších lidí by nic takového nemohlo vzniknout. Každý z nich postupně přidal střípek na hromadu. A dnes stojíme před něčím, co už je těžké odmítnout. Co dává velký smysl, co má za sebou partu lidí, kteří to posouvají, táhnou, tlačí. 
 
@@ -53,7 +53,7 @@ Byla chvíle ticha a pak pán klidným, vyrovnaným a nezvykle tichým hlasem od
 
 A tak to je. V jednu chvíli se najde někdo, kdo si bude chtít postavit trať ještě za svého života. V tu chvíli přiskočíme my, vytáhneme naše nákresy, papíry, schválení a vemlouvavě se zeptáme,  zda chce stavět u nás za dva roky, nebo jinde za dvacet...
 
-![Tohle jsou varianty trasy. Za nás platí modrá, ta je postavitelná](/assets/trasa-vlaku-praha-brandys.jpg)
+![Tohle jsou varianty trasy. Za nás platí modrá, ta je postavitelná](/assets/trasa-vlaku-praha-brandys.webp)
 
 Memorandum neznamená mnoho. A přitom je to hodně. Je to roztlačená koule nad hranou kopce. Znamená to závazek všech obcí na trase, že budou postupovat ve společném zájmu a že se nestane, že kus trati zmizí z územního plánu. Jistě, to by měl řešit ZUR, ale kvůli našemu způsobu přípravy (s ohledem na rychlost) to nepřipadalo zatím v úvahu, takže i proto takhle. 
 
@@ -61,7 +61,7 @@ Co bude dál? Podporu máme. Teď je potřeba udělat podrobný projekt a prachy
 
 Ještě se může hromada věcí pokazit a nic nemusí vzniknout. Ale taky bychom se nedostali až sem, kdybychom si před těmi šesti lety s Markem neřekli, že koupíme tramvaj...
 
-![Fotografie tramvaje, jak míjí baziliku](/assets/tramvaj-staraboleslav-bazilika.jpg)
+![Fotografie tramvaje, jak míjí baziliku](/assets/tramvaj-staraboleslav-bazilika.webp)
 
 PS: Chcete anekdotický příběh? Volá mi pán, jestli je moje ta tramvaj na Mariánském náměstí. Je. Potřeboval by potvrzení o tom, že ji tam mám. Ptám se, proč. Vjel na pozemek, otáčel se autem a nabořil si páté dveře o oj tramvaje, který přehlédl. Pojišťovna mu požadavek na pojistné plnění vrátila s tím, že to je pokus o podvod, protože ve Staré Boleslavi tramvaje nejezdí... 
 

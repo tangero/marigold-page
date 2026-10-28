@@ -16,7 +16,7 @@ CO TO JE?
 2️⃣ 1600 čínských řemeslníků je vytvářelo  2,5 roku \
 3️⃣ Instalace volně vysypaných semínek v Tate Modern šokovala umělecký svět 🎨 
 
-![Ai Weiwei - Slunečnicová Semínka (2010)](/assets/obrazy/slunecnicova-seminka.jpg)
+![Ai Weiwei - Slunečnicová Semínka (2010)](/assets/obrazy/slunecnicova-seminka.webp)
 
 PROČ TO VZNIKLO? 🤔
 

@@ -7,12 +7,12 @@ namalovano: 2023
 autor: Lubomír Typlt
 obraz: Rituál
 styl: [expresionismus]
-urlobrazu: /assets/obrazy/lubomir-typlt-ritual.jpg
+urlobrazu: /assets/obrazy/lubomir-typlt-ritual.webp
 ---
 
 Lubomír Typlt - Rituál(2023) - série obrazů kluků novopackého rodáka Lubomíra Typlta v expresionisticky foglarovském provedení navazuje na jeho sérii levitujících dívek, schematických chlapců a mimin. Typlt (*1975} těsně po revoluci studoval Kunstakademii v Düsseldorfu a to samozřejmě pomohlo jeho známosti v německém prostředí a také výrazové výjimečnosti. Dnes je považován za jednoho z nejrenomovanějších českých současných malířů a umělců, protože fušuje i do poezie, literatury a fotografie. 
 
-![Lubomír Typlt - Rituál](/assets/obrazy/lubomir-typlt-ritual.jpg)
+![Lubomír Typlt - Rituál](/assets/obrazy/lubomir-typlt-ritual.webp)
 
 Něco k obrazu:
 
@@ -25,6 +25,6 @@ A zajímavý je právě ten vývoj. Kolem roku 2010 Typlt maloval chlapecké pos
 
 Typltovy obrazy jsou, díky osobitému provedení, divácky vděčné, poslední výstavu měl ve Vile Pellé na počátku 2023 a jeho obrazy jsou k dispozici na aukcích za slušně únosné částky v řádu desetitisíců, i když některé jeho obrazy se už šplhají nad půl milionu. 
 
-![Lubomír Typlt - Smradi](/assets/obrazy/lubomir-typlt-smradi.png)
+![Lubomír Typlt - Smradi](/assets/obrazy/lubomir-typlt-smradi.webp)
 
 [Web autora](https://www.typlt.com). 

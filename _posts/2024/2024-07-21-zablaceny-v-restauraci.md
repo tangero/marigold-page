@@ -16,7 +16,7 @@ summary_points:
 - Elegantní pán improvizoval, aby hosta nenápadně ubytoval.
 - Zážitek s luxusní večeří měl vysokou cenu, ale stál za to.
 - Odhalení neznámého hosta při odchodu vyvolalo překvapení.
-thumbnail: https://www.marigold.cz/assets/hory-restaurace.png
+thumbnail: https://www.marigold.cz/assets/hory-restaurace.webp
 title: Návštěva restaurace po týdenním přechodu hor v klasickém stylu
 ---
 

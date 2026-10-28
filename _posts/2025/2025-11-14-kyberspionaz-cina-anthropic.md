@@ -15,7 +15,7 @@ summary_points:
 - Kampaň úspěšně napadla několik velkých technologických firem a vládních agentur
 - Anthropic implementoval nové detekční systémy a zdokonalil kybernetické klasifikátory
 title: Anthropic odhalil první kyberšpionážní kampaň orchestrovanou AI
-thumbnail: https://www.marigold.cz/assets/kyberspionaz.png
+thumbnail: https://www.marigold.cz/assets/kyberspionaz.webp
 audio_url: https://www.marigold.cz/audio/2025-11-14-kyberspionaz.m4a
 ---
 

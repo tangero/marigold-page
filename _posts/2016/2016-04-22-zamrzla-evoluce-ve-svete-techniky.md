@@ -14,7 +14,7 @@ summary_points:
 - Teorie zamrzlé evoluce vysvětluje nelineární vývoj komplexních systémů.
 - Telekomunikační trh prošel revolučními změnami s nástupem internetové telefonie.
 - Internet pravděpodobně nečelí zamrzlé evoluci, ale bude se dál dynamicky vyvíjet.
-thumbnail: https://www.marigold.cz/assets/zamrzla-evoluce.png
+thumbnail: https://www.marigold.cz/assets/zamrzla-evoluce.webp
 title: Zamrzlá evoluce ve světě techniky
 ---
 
@@ -27,7 +27,7 @@ title: Zamrzlá evoluce ve světě techniky
 
 <p>Flegr se teorií zamrzlé evoluce snaží reagovat na jednu z výhrad proti neodarvinistické teorii o vývoji druhů, tedy na fakt, že druhy se od určitého okamžiku téměř přestávají vyvíjet a adaptovat. Flegr soudí, že po počátečním bouřlivém vývoji zvítězí určité znaky v organismech, které jsou v tu dobu evolučně nejvýhodnější a evoluce zamrzá. Při mírné změně podmínek nedojde k vývoji nového znaku, ale adaptaci znaku stávajícího - například lidé mají zuby, které již neodpovídají skladbě jejich potravy. To také znamená, že při velké změně vnějších podmínek druh není schopen se přizpůsobit a je ohrožen - což se také v minulosti stalo.</p>
 
-![Zamrzlá evoluce kniha](/assets/zamrzla-evoluce-aneb-je-to-jinak-pane-darwin.jpg)
+![Zamrzlá evoluce kniha](/assets/zamrzla-evoluce-aneb-je-to-jinak-pane-darwin.webp)
 
 <p>Teorie zamrzlé evoluce velmi dobře vysvětluje “revoluční období” na nejrůznějších trzích, jen musíte změnit slovník.</p>
 

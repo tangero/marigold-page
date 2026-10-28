@@ -7,7 +7,7 @@ namalovano: 2019
 autor: Jeffrey Cheung
 obraz: Tangle (Propletení)
 styl: figurativní expresionismus
-urlobrazu: /assets/obrazy/charlotte-keates-the-house-shelters-daydreaming.jpg
+urlobrazu: /assets/obrazy/charlotte-keates-the-house-shelters-daydreaming.webp
 ---
 
 Jeffrey Cheung (1989), známý svými díly zachycujícími propojení a radostné vyjádření queer identity, čerpá inspiraci ze své vlastní zkušenosti s komunitou LGBTQ+, skateboardingem a hudbou. Jeho styl je jedinečný a charakteristický svými sytými barvami, organickými křivkami a hravými kompozicemi. Pojďme podrobněji prozkoumat jeho inspiraci a styl:
@@ -23,7 +23,7 @@ Jeffrey Cheung (1989), známý svými díly zachycujícími propojení a radostn
 - Dílo či spíše celá série “Tangle” (tedy Propletení) je příkladem Cheungova zaměření na jednotu a propojení. Propletené postavy vytvářejí "tanec", což odráží ideály harmonie a rovnosti, které jsou ústředním tématem jeho tvorby.
 - Každá postava je jedinečná a zároveň propojená s ostatními, což představuje myšlenku kolektivního zapojení a přijetí různorodosti.
 
-![Jeffrey Cheung - Tangle](/assets/obrazy/jeffrey-cheung-tangle.jpg)
+![Jeffrey Cheung - Tangle](/assets/obrazy/jeffrey-cheung-tangle.webp)
 
 🛹 Vliv skateboardingu:
 - Značka Unity: Cheung založil Unity jako značku propojující queer komunitu a skateboarding. Její poselství zdůrazňuje jednotu a komunitu.
@@ -43,5 +43,5 @@ Jeffrey Cheung (1989), známý svými díly zachycujícími propojení a radostn
 
 Cheung svým uměním nejen oslavuje queer komunitu, ale také boří bariéry mezi uměním a každodenním životem. 
 
-![Jeffrey Cheung](/assets/obrazy/jeffrey-cheung.jpeg)
+![Jeffrey Cheung](/assets/obrazy/jeffrey-cheung.webp)
 

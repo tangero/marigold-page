@@ -6,7 +6,7 @@ categories:
 layout: post
 post_excerpt: "Dvě červené linii hrozí přetvořit odvětví umělé inteligence i budoucí podoby války. Takový je výsledek roztržky mezi americkým ministerstvem války a vedoucí AI firmou Antrhopic. Ta si za to vysloužila označení rizika pro národní bezpečnost a ztrátu miliardového kontraktu ve prospěch svého úhlavního konkurenta. Toho za to stíhá masivní vlna bojkotu uživatelů.  Co se stalo?"
 title: "Válka o stroje na válku: dramatický rozchod Pentagonu s Anthropicem"
-thumbnail: https://www.marigold.cz/assets/anthropic-pentagon.jpg
+thumbnail: https://www.marigold.cz/assets/anthropic-pentagon.webp
 ---
 
 Dvě červené linii hrozí přetvořit odvětví umělé inteligence i budoucí podoby války. Takový je výsledek roztržky mezi americkým ministerstvem války a vedoucí AI firmou Antrhopic. Ta si za to vysloužila označení "rizika pro národní bezpečnost" a ztrátu miliardového kontraktu ve prospěch svého úhlavního konkurenta. Toho za to stíhá masivní vlna bojkotu uživatelů.  Co se stalo?

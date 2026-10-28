@@ -15,12 +15,12 @@ summary_points:
 - Model umožňuje orchestraci více instancí pro paralelní zpracování složitých úkolů
 - Haiku 4.5 předčí Claude Sonnet 4 v ovládání počítačů a vyniká v úkolech s nízkou latencí
 title: Anthropic představil levný a rychlý model Claude Haiku 4.5
-thumbnail: https://www.marigold.cz/assets/claudehaiku45.png
+thumbnail: https://www.marigold.cz/assets/claudehaiku45.webp
 ---
 
 Anthropic dnes zpřístupnil [Claude Haiku 4.5](https://www.anthropic.com/news/claude-haiku-4-5), malý jazykový model, který přináší výkon blízký hraničním modelům za zlomek ceny. Model, který je dostupný všem uživatelům, nabízí programátorský výkon srovnatelný s pět měsíců starým Claude Sonnet 4, ale při třetinových nákladech a více než dvojnásobné rychlosti zpracování.
 
-![Claude Haiku 4.5 benchmarky](/assets/147345_mapa-postizene-casti-ps.jpg)
+![Claude Haiku 4.5 benchmarky](/assets/147345_mapa-postizene-casti-ps.webp)
 
 Claude Haiku 4.5 dosahuje výkonu, který by ještě nedávno patřil k nejlepším modelům na trhu. V testu programátorských schopností SWE-bench Verified, který měří schopnost modelů opravovat skutečné chyby v open-source projektech, dosáhl Haiku 4.5 úspěšnosti 73,3 procenta. To je jen mírně horší výsledek než dražší GPT-5 Codex s 74,5 procenta nebo Gemini 2.5 Pro se 67,2 procenta. Model tak nabízí kvalitu blízkou mnohem větším modelům při výrazně nižších nákladech.
 

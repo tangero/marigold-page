@@ -83,7 +83,7 @@ Takto pracují úzkopásmové (narrowband) telekomunikační systémy, tedy ty &
 Pokud se normovaná šířka pásma W dostane nad hodnotu 1, je poměr signál/šum < 1. To má jeden neblahý dopad: na straně přijímače totiž není možno získat přenášenou informaci jednoduchým poslechem radiového signálu. Z toho důvodu tradiční komunikační technologie tento typ přenosu zcela opomíjely.</p>
 
 <p>
-<img src="/assets/20041018-normalizovanasirkapasma.jpg" alt="Fuj, ten obrázek ale vypadá..." width="400" height="274" /> </p>
+<img src="/assets/20041018-normalizovanasirkapasma.webp" alt="Fuj, ten obrázek ale vypadá..." width="400" height="274" /> </p>
 
 <p>
 Časem se ale ukázalo, že vhodným kódováním a následným dekódováním lze informace velmi výhodně přenášet, protože při velkých šířkách pásma se normovaná kapacita kanálu velmi blíží teoreticky dosažitelnému maximu (1,44). Informací lze navíc do takto širokého kanálu najednou rozmístit více – používá se takzvané rozprostření do spektra. A tím jsme se dostali k samé podstatě CDMA – CDMA je vlastně kódové rozprostření do spektra využívající širokého kanálu a poměru signál / šum < 1. </p>

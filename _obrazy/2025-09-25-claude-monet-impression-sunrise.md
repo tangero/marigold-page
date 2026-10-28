@@ -7,7 +7,7 @@ namalovano: 1872
 autor: "Claude Monet"
 obraz: "Imprese, východ slunce"
 styl: impresionismus
-urlobrazu: "/assets/obrazy/claude-monet-impression-sunrise.jpg"
+urlobrazu: "/assets/obrazy/claude-monet-impression-sunrise.webp"
 ---
 Impression, Sunrise je přelomové dílo, které dalo jméno celému impresionistickému hnutí. Tento obraz přístavu v Le Havru při východu slunce představuje revoluční přístup k zachycení světla a atmosféry, který změnil směřování moderního umění.
 
@@ -21,7 +21,7 @@ Musée Marmottan Monet, Paříž, Francie
 - 👁️ Trpěl šedým zákalem, který ovlivnil jeho vnímání barev v pozdějším věku
 - 🏡 Vytvořil si vlastní zahradu jako živý malířský ateliér
 
-![Imprese, východ slunce](/assets/obrazy/claude-monet-impression-sunrise.jpg)
+![Imprese, východ slunce](/assets/obrazy/claude-monet-impression-sunrise.webp)
 
 ## 🎨 O obraze Imprese, východ slunce - Impression, Sunrise
 

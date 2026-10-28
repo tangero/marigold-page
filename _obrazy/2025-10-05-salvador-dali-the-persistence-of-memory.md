@@ -7,7 +7,7 @@ namalovano: 1931
 autor: "Salvador Dalí"
 obraz: "Stálost paměti"
 styl: surrealismus
-urlobrazu: "/assets/obrazy/salvador-dali-the-persistence-of-memory.jpg"
+urlobrazu: "/assets/obrazy/salvador-dali-the-persistence-of-memory.webp"
 ---
 Persistence paměti je jedním z nejslavnějších děl surrealistického umění 20. století. Obraz rozteklých hodin v pustinné krajině se stal ikonickým symbolem relativity času a prostoru, který definoval Dalího kariéru a surrealistické hnutí jako takové.
 
@@ -21,7 +21,7 @@ Museum of Modern Art (MoMA), New York, USA
 - 🏰 Žil v Katalánsku ve svém domě v Port Lligat
 - 💫 Byl ovlivněn Freudovou psychoanalýzou a teorií snů
 
-![Stálost paměti](/assets/obrazy/salvador-dali-the-persistence-of-memory.jpg)
+![Stálost paměti](/assets/obrazy/salvador-dali-the-persistence-of-memory.webp)
 
 ## 🎨 O obraze Stálost paměti - The Persistence of Memory
 

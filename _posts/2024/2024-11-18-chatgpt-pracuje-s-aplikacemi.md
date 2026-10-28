@@ -24,7 +24,7 @@ ChatGPT pro macOS nyní nabízí možnost spolupracovat s vašimi aplikacemi. Ko
 
 Pro využití této funkce se ujistěte, že kompatibilní aplikace běží. V chatovacím okně ChatGPT klikněte na tlačítko “Práce s aplikacemi” a vyberte požadovanou aplikaci. Po výběru se nad vstupním polem zobrazí banner indikující, s jakými aplikacemi ChatGPT pracuje. Při odeslání zprávy bude ChatGPT zahrnovat obsah z těchto aplikací do svých odpovědí.
 
-![Povolení ChatGPT apps](/assets/chatgpt-app.png)
+![Povolení ChatGPT apps](/assets/chatgpt-app.webp)
 
 
 Zahrnutý obsah \
@@ -35,11 +35,11 @@ Kompatibilní aplikace na vašem počítači můžete spravovat v Nastavení > P
 
 V aplikaci následně stačí trojhmatem vyvolat okno ChatGPT a to může pracovat s textem v okně. Můžete třeba označit blok a požádat o opravu, doplnění, vysvětlení kódu. Mnoho jiného od toho zatím nečekejte. Zajímavá může být práce s Terminalem, kdy ChatGPT pobírá posledních 220 řádků příkazů a může za vás například komunikovat se serverem... 
 
-![ChatGPT Editace článku ve VS Code](/assets/chatgpt-vscode-editace.png)
+![ChatGPT Editace článku ve VS Code](/assets/chatgpt-vscode-editace.webp)
 
 Tady je třeba vidět, jak jsem nechal do tohoto článku (edituji je ve VS Code) přidělat odstaveček o tom, jak se aplikace používá - ale nebojte, nepoužil jsem ho, napsal jsem si vlastní, protože je to strašně ukecaný. 
 
-![Práce ve Visual Studio Code s podporou ChatGPT](/assets/chatgpt-prace-vsc.png)
+![Práce ve Visual Studio Code s podporou ChatGPT](/assets/chatgpt-prace-vsc.webp)
 
 A tady je vidět, jak to vypadá u programování ... 
 

@@ -19,7 +19,7 @@ summary_points:
   vizi.
 - Česko nenabízí své zkušenosti a pomoc EU, místo toho kritizuje EU bez konkrétních
   návrhů na zlepšení.
-thumbnail: https://www.marigold.cz/assets/pomazankove-maslo.png
+thumbnail: https://www.marigold.cz/assets/pomazankove-maslo.webp
 title: Jak to bylo s pomazánkovým máslem?
 ---
 

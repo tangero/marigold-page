@@ -12,7 +12,7 @@ summary_points:
 - Běžné výdaje zahrnují elektřinu a údržbu, investiční nové trasy a rekonstrukce.
 - Brandýs-Boleslav vydává ročně 12 milionů Kč za provoz 3000 stožárů.
 - Obce často nemají přehled o nákladech a dokumentaci veřejného osvětlení.
-thumbnail: https://www.marigold.cz/assets/verejne-osvetleni.jpg
+thumbnail: https://www.marigold.cz/assets/verejne-osvetleni.webp
 title: Obecní povídání o nákladech na provoz veřejného osvětlení
 ---
 
@@ -69,7 +69,7 @@ Tak, tímto jste si mohli udělat základní představu o tom, co obnáší naro
 9. Na všechny složitější věci najdete poradenské firmy, co vám udělají projekt a poradí s legislativou. Držte si je odděleně od dodavatelů, plaťťe jim hodinovou sazbu, klidně štědře, vyplatí se to. 
 10. nechte si poradit stran barvy a intenzity světla na jednotlivých typech komunikací. Dopady na bezpečnost plus světelný smog je dneska velké téma 
 
-![Nástrahy u veřejného osvětlení](/assets/rozpoctovani-vo.png)
+![Nástrahy u veřejného osvětlení](/assets/rozpoctovani-vo.webp)
 
 ### Co zkontrolovat v obecním rozpočtu veřejného osvětlení
 

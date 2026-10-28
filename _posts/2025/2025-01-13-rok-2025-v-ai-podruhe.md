@@ -20,7 +20,7 @@ summary_points:
 - Spolehlivost AI a halucinace zůstanou problémem.
 - Geopolitická rivalita USA a Číny ovlivní vývoj AI.
 - AI může vést k návratu autentických blogů.
-thumbnail: https://www.marigold.cz/assets/ai-vsude-2025.png
+thumbnail: https://www.marigold.cz/assets/ai-vsude-2025.webp
 title: AI v roce 2025 -  Regulace, spolehlivost, geopolitika a autentické blogy
 ---
 

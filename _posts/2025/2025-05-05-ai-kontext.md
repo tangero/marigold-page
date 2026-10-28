@@ -10,7 +10,7 @@ summary_points:
 - Délka kontextu ovlivňuje porozumění a kvalitu výstupu.
 - Kvadratická složitost pozornosti omezuje délku kontextu.
 - Výzkum hledá optimalizace a alternativní architektury pro delší kontext.
-thumbnail: https://www.marigold.cz/assets/llm-kontext.jpg
+thumbnail: https://www.marigold.cz/assets/llm-kontext.webp
 title: Proč je velikost kontextu u LLM tak důležitá?
 ---
 

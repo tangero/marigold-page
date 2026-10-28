@@ -13,12 +13,12 @@ summary_points:
 - Nabízí doporučení pro firmy, vzdělávací instituce a státní správu, jak na tyto změny reagovat
 post_excerpt: Jak je to s nasazováním generativní AI, bere juniorním pracovníkům práci? Můžeme se opřít o první průzkumy a zprávy a učinit první zjištění. Jaká? 
 title: "⚒️ Opravdu AI nahrazuje juniorní pracovníky?"
-thumbnail: https://www.marigold.cz/assets/ai-junior-graf.jpg
+thumbnail: https://www.marigold.cz/assets/ai-junior-graf.webp
 ---
 
 Velmi důležitá data a  graf přinesl článek [Generative AI as Seniority-Biased Technological Change: Evidence from U.S. Résumé and Job Posting Data](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5425555) od autorů Guy Lichtingera a Seyed Mahdi Hosseiniho z Harvardu, který vyšel začátkem září.
 
-[Graf](/assets/ai-junior-graf.jpg)
+[Graf](/assets/ai-junior-graf.webp)
 _Graf překreslil The Economist…_
 
 Hlavním závěry se týkají zaměstnanosti na juniorních pozicích v USA:

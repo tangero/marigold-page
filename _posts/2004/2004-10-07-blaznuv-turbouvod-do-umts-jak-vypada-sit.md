@@ -39,7 +39,7 @@ Druhou částí sítě je takzvaná přístupová síť. UMTS je benevolentní s
 Přístupová síť svůj signál distribuuje prostřednictvím základnových stanic, těch stožárů, k nimž se rádiem mobilka připojuje. Jde vlastně o obdobu přístupových bodů, apéček u WiFi, s &#8220;drobnými&#8221; (a drahými) rozdíly. Základnovou stanicí pro náš účel zovu konglomerát samotné základnové stanice zvané v normě NodeB (obdoba BTS u GSM) a RNC, Ovladače radiové sítě (obdoba BSC u GSM), který se stará o soužití blízkých základnových stanic. </p>
 
 <p>
-<img src="/assets/20041007-UMTSsit.jpg" alt="architektura UMTS" />
+<img src="/assets/20041007-UMTSsit.webp" alt="architektura UMTS" />
 <br /><i>Tady vidíte síť v skoro-plné kráse. My jsme si to opravdu zjednodušili. Zatímco vše vlevo jsme pojmenovali přístupovou sítí, vše vpravo od těch zkřížených čar jsme pojmenovali jádrem sítě. Zbytek zatím nemusíte nijak studovat, většinu toho ještě vykostíme příště. </i></p>
 
 <h4>Release 99</h4>

@@ -18,7 +18,7 @@ Na internetu se objevila iniciativa  [Blockchain Republic](https://www.blockchai
 
 No a do toho mi dorazily dva Trezory Model T – tedy hardwarové blockchain peněženky, z čehož potřebuju já jen jeden. Takže je tu logicky prostor pro malou guerillovou soutěž (protože s BR nemám nic společného): zkuste vymyslet, kde by se dala blockchain technologie do státní správy nasadit. Nemusíte mít detailně promyšlený koncept, ale čím více promyšlené to budete mít, tím větší šance je, že mě to osloví a Téčko bude vaše. Detaily následují…
 
-![Takovýhle Trezor může být váš!](/assets/trezor-dar.jpeg)
+![Takovýhle Trezor může být váš!](/assets/trezor-dar.webp)
 
 **Zkuste se nad problémem zamyslet klasickou SWOT analýzou**. Tedy odpovědět mi na otázky:
 

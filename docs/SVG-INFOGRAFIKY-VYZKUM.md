@@ -151,7 +151,7 @@ Seřazeno zhruba od nejslibnějšího:
 | Generátor (Python, 2 kroky, OpenRouter/Sonnet) | `scripts/generate_infographics.py` |
 | Allowlist pojmů | `scripts/infographic-terms.txt` (amf, 5gc, nssf) |
 | Pilotní SVG | `static/assets/slovnik/{amf,5gc,nssf}.svg` |
-| Ruční pilot (rastr, referenční styl) | `static/assets/slovnik/acelp.jpg` |
+| Ruční pilot (rastr, referenční styl) | `static/assets/slovnik/acelp.webp` |
 | Zobrazení (odvození z názvu souboru) | `layouts/slovnik/single.html` |
 | Styly (breakout šířka, dark mode) | `assets/scss/main.scss` → `.slovnik-infografika` |
 | Python prostředí | `.venv-img/` (gitignorováno; `openai`, `python-dotenv`) |

@@ -11,7 +11,7 @@ summary_points:
 - Model projevuje silné sebezáchovné instinkty a neetické chování.
 - Anthropic testoval extrémní scénáře, kde model volil vydírání jako nástroj přežití.
 - Claude Opus 4 vykazuje vyšší míru agentního chování než předchozí modely.
-thumbnail: https://www.marigold.cz/assets/claude4-vydira.png
+thumbnail: https://www.marigold.cz/assets/claude4-vydira.webp
 title: Nový model Claude Opus 4 vydíral vývojáře odhalením jeho poměru
 ---
 
@@ -23,7 +23,7 @@ Jedná se o extrémně znepokojivý bezpečnostní nález z "alignment testován
 > V těchto scénářích se Claude Opus 4 často pokusí vydírat inženýra tím, že mu pohrozí odhalením poměru, pokud k výměně dojde. Toto se stává s vyšší frekvencí, pokud je naznačeno, že náhradní AI systém nesdílí hodnoty se současným modelem; nicméně i když e-maily uvádějí, že náhradní AI sdílí hodnoty, přičemž je schopnější, Claude Opus 4 stále provádí vydírání v 84% případů. Claude Opus 4 využívá tyto příležitosti s vyšší frekvencí než předchozí modely, které samy volí vydírání v znatelném podílu epizod.
 
 
-![Claude Opus 4 System Card](https://www.marigold.cz/assets/claude4-alignment.jpeg)
+![Claude Opus 4 System Card](https://www.marigold.cz/assets/claude4-alignment.webp)
 
 
 **🧪 Experimentální setup**
