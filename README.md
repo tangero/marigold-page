@@ -1,7 +1,7 @@
 <div align="center">
   <br>
-  <img src="/images/patrick-mensi.jpg" alt="Patrick" width="200"/>
-  <br>  
+  <img src="static/images/patrick-mensi.jpg" alt="Patrick" width="200"/>
+  <br>
   <p align="center">
     <i>Můj osobní blog najdete na <a href="https://www.marigold.cz">Marigold.cz</a></i>
   </p>
@@ -10,7 +10,7 @@
 
 ---
 
-Marigold.cz je osobní blog Patricka Zandla věnovaný technologiím a jejich odrazu ve společnosti. 
+Marigold.cz je osobní blog Patricka Zandla věnovaný technologiím a jejich odrazu ve společnosti.
 
 ## Chcete něco změnit?
 
@@ -18,24 +18,22 @@ Možná na webu najdete chybku a chtěli byste ji opravit. Můžete to vložit j
 
 ## Struktura souborů
 
-Statický generátor stránek může být na první pohled trochu nepřehledný, takže si přečtěte návod, než do toho vletíte bez zkušeností.
+Web staví generátor [Hugo](https://gohugo.io). Než do toho vletíte, podívejte se, jak je to uspořádané.
 
 ### Články
 
-Jsou v [adresáři _posts](https://github.com/tangero/zastupitelstvo/tree/main/_posts) - editací můžete článek opravit. Pokud chcete vytvořit nový, podívejte se do existujícího článku, jak se formátuje hlavička, je to snad pochopitelné.
+Jsou v [adresáři content/posts](https://github.com/tangero/marigold-page/tree/main/content/posts), rozdělené podle roků. Editací můžete článek opravit. Pokud chcete vytvořit nový, podívejte se do existujícího článku, jak se formátuje hlavička. Datum článku se bere z názvu souboru (`YYYY-MM-DD-slug.md`).
 
-### Stránky
-
-Obslužné stránky jsou v [adresáři _pages](https://github.com/tangero/zastupitelstvo/tree/main/_pages) - ale asi není třeba je editovat, natož přidávat, to ponechte na mě.
+Další sekce: `content/ai`, `content/mobilnisite` (včetně slovníku 3GPP) a `content/obrazy`.
 
 ### Obrázky
 
-Pokud je potřeba, nahrávejte je do [adresáře images](https://github.com/tangero/zastupitelstvo/tree/main/images)
+Nahrávejte je do [adresáře static/assets](https://github.com/tangero/marigold-page/tree/main/static/assets), ideálně ve formátu WebP. Na webu budou pod adresou `/assets/nazev.webp`.
 
 ### Schválení změn
 
-Musím provést já (to je samozřejmé, jsem autor), takže jsem na veškeré návrhy změn upozorněn a případně je povolím nebo ještě upravím. 
+Musím provést já (to je samozřejmé, jsem autor), takže jsem na veškeré návrhy změn upozorněn a případně je povolím nebo ještě upravím.
 
 ## License
 
-GNU 3.0 čili k volnému použití při citaci autora (Patrick Zandl, Marigold.cz
+GNU 3.0 čili k volnému použití při citaci autora (Patrick Zandl, Marigold.cz)

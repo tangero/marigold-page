@@ -20,8 +20,9 @@ hugo --minify --config hugo.toml,sec.toml   # build s Hugem 0.169+ (viz docs/got
 - `static/` — kopíruje se 1:1 na web. Obrázky k článkům v `static/assets/` (na webu `/assets/…`).
 - `assets/scss/` — jediné, co Hugo bere z `assets/`: `main.scss` přes `resources.Get`. Obrázky sem nepatří, nepublikují se.
 - `data/` — data pro šablony (`pojmy.json` pro slovník, LLM katalog, klíčová slova).
-- `scripts/` — Python skripty (infografiky slovníku, LLM katalog, migrace front matter).
-- **Legacy Jekyll** (`_posts/`, `_ai/`, `_mobilnisite/`, `_obrazy/`, `_vibecoding/`, `_layouts/`, `_includes/`, `_pages/`, `_config*.yml`, `Gemfile`) a desítky skriptů v kořeni repa se nikam nepublikují. Obsah upravuj v `content/`, ne v `_posts/`.
+- `scripts/` — Python skripty (infografiky slovníku, LLM katalog, migrace front matter). Závislosti v `requirements.txt`, API klíče v `.env` (vzor `.env.example`), prostředí `.venv/`.
+- Kořen repa drží jen konfiguraci (`hugo.toml`, `.gitignore`, `CNAME`) a dokumenty (`README.md`, `CHANGELOG.md`, `CLAUDE.md`, `LICENSE`). Jednorázové skripty a poznámky sem nepatří: skript do `scripts/`, dokument do `docs/`.
+- Jekyll verze webu (`_posts/` atd.) byla smazána 2026-10-28; najdeš ji v historii gitu.
 
 ## Záměrná rozhodnutí (nepřepisovat)
 

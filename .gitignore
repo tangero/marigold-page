@@ -1,57 +1,34 @@
-
-_posts/.DS_Store
+# macOS
 .DS_Store
-.DS_Store
-_posts/.DS_Store
-assets/.DS_Store
-.DS_Store
-_layouts/Hlasovani.html
-assets/economics-of-the-public-sector_compress.pdf
-.DS_Store
-.DS_Store
-assets/.DS_Store
-/_site
-.DS_Store
-.DS_Store
-/.venv
-/newsletter
-analyze.rb
-generate_summaries.py
-test_fix.py
-test_title.md
-test_title.md
-test_title.md
-__pycache__/
-*.pyc
-*.pyo
-*.patch
-*.zip
-test_title.md
-test_validator.py
-test_yaml.md
-test_title.md
-test_title.md
-_data/generate_local_summaries.py
-keyword_manager.rb
-.env
-.env
-/chatterbox_env
-_audio/2025-05-25-microsoft-build-2025.mp3
-.DS_Store
-*.backup
-*-shm
-*-wal
-.DS_Store
-
-# OpenMemory - IDE/Assistant specific rules
-.cursor/rules/openmemory.mdc
-CLAUDE.md
-/.claude
 
 # Hugo
 public/
 resources/
 .hugo_build.lock
 
-# Python venv pro generování infografik
+# Python
+__pycache__/
+*.pyc
+*.pyo
+/.venv
 .venv-img/
+
+# Tajné údaje
+.env
+
+# Lokální data mimo repo
+/newsletter
+/_audio
+assets/economics-of-the-public-sector_compress.pdf
+
+# Dočasné soubory
+*.patch
+*.zip
+*.backup
+*-shm
+*-wal
+
+# Nastavení editorů a asistentů
+/.vscode
+/.claude
+.cursor/rules/openmemory.mdc

@@ -32,7 +32,7 @@ Nové záznamy přidávej nahoru. Formát: nadpis s datem, **Vzorec** (co se sta
 - **Vzorec:** regex `assets/…?\.(png|jpg|webp)` (líný) zachytil z `/assets/Agent.png.webp` jen `/assets/Agent.png` a hlásil falešně rozbitý odkaz. Soubory typu `*.png.webp` a `*.jpg.webp` ve `static/assets/` existují.
 - **Pravidlo:** při hledání odkazů ber cestu až k oddělovači (`"`, `)`, mezera), ne k první příponě.
 
-## Legacy Jekyll složky se nepublikují (2026-07-11)
+## Obsah webu je jen v `content/` (2026-07-11, doplněno 2026-10-28)
 
-- **Vzorec:** push notifikace (OneSignal, FCM) hledaly nové články v `_posts/`, které se od přechodu na Hugo neplní, a proto nefungovaly.
-- **Pravidlo:** obsah webu je v `content/`. Skripty a workflowy nesmí číst `_posts/`, `_ai/` ani jiné složky s podtržítkem.
+- **Vzorec:** push notifikace (OneSignal, FCM) hledaly nové články v `_posts/` z doby Jekyllu, které se po přechodu na Hugo neplnily, a proto nefungovaly. Duplicitní Jekyll složky (`_posts/` s ~3000 články a další) se pak držely v repu až do 2026-10-28, kdy byly smazány.
+- **Pravidlo:** skripty a workflowy čtou obsah z `content/`. Starší Jekyll verzi článku hledej v historii gitu (`git log --all -- _posts/<rok>-…`).
