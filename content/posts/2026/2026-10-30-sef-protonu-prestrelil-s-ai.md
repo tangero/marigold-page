@@ -10,7 +10,7 @@ summary_points:
   - AI podle CTO napsala v říjnu 90 % kódu a firma měří podíl AI na počítačích zaměstnanců
   - Přepohovory o používání AI mohou vést ke změnám rolí i ukončení zaměstnání
   - Ověřený bezpečnostní incident zatím nikdo nedoložil
-thumbnail: ''
+thumbnail: https://www.marigold.cz/assets/andy-yen-proton.webp
 audio_url: ''
 hide: false
 ---
