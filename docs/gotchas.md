@@ -2,6 +2,11 @@
 
 Nové záznamy přidávej nahoru. Formát: nadpis s datem, **Vzorec** (co se stalo), **Pravidlo** (jak postupovat).
 
+## Nový článek se nevydává bez titulního obrázku a odkazu na zdroj (2026-10-30)
+
+- **Vzorec:** článek o Protonu šel na web s prázdným `thumbnail` (pro sdílení se použil avatar) a se zdrojem bez odkazu. Obojí se doplňovalo dalšími dvěma deployi.
+- **Pravidlo:** před vydáním článku zkontroluj `thumbnail` a odkazy na zdroje. Když chybí, vyžádej si je od autora ještě před pushem, ne až po vydání.
+
 ## GitHub Pages rozlišuje velikost písmen v názvech souborů, macOS ne (2026-10-28)
 
 - **Vzorec:** 13 obrázků v `content/obrazy/` a jinde odkazovalo na `/assets/obrazy/anderle-jiri-…jpg`, ale soubor se jmenoval `Anderle-jiri-…jpg`. Lokálně (`hugo server`, `os.path.exists` na macOS) vše fungovalo, na webu 404. Kontrolní skript existence souborů to nenašel, protože souborový systém macOS velikost písmen ignoruje.

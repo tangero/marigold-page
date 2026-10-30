@@ -9,6 +9,7 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
 
 ### Added
 - Článek „Šéf Protonu přestřelil s AI ve firmě, která stojí na důvěře…“ (`content/posts/2026/2026-10-30-sef-protonu-prestrelil-s-ai.md`) podle reportáže 404 Media. Titulní obrázek `static/assets/andy-yen-proton.webp` (1920×1080, WebP 53 kB), odkaz na reportáž 404 Media
+- `docs/gotchas.md`: pravidlo kontrolovat před vydáním článku titulní obrázek a odkazy na zdroje
 
 ### Removed
 - Úklid kořene repozitáře (3600+ souborů, vše se nepublikovalo): Jekyll verze webu (`_posts/` s ~3000 duplicitními články, `_ai/`, `_mobilnisite/`, `_obrazy/`, `_vibecoding/`, `_llm/`, `_data/`, `_layouts/`, `_includes/`, `_pages/`, `_sass/`, `_config*.yml`, `Gemfile*`, kořenové `index.html`, `404.md`, feedy a manifesty), Cloudflare build Jekyllu (`build-cloudflare.sh`, `simple-build.sh`, `package.json`, `.cloudflare*`), jednorázové Python a shell skripty v kořeni (OneSignal, chat, obrazy, souhrny, testy), poznámky `TECH_NEWS_*.md`, `ONESIGNAL_*.md` a další, `.github/scripts/` (podcast, notifikace, překlady), dokumenty o notifikacích ve `.github/` a vypnutý workflow `build.yml`. `.DS_Store` už není v gitu
