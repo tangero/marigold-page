@@ -7,6 +7,9 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
 
 ## [Unreleased]
 
+### Added
+- Článek „Šéf Protonu přestřelil s AI ve firmě, která stojí na důvěře…“ (`content/posts/2026/2026-10-30-sef-protonu-prestrelil-s-ai.md`) podle reportáže 404 Media
+
 ### Removed
 - Úklid kořene repozitáře (3600+ souborů, vše se nepublikovalo): Jekyll verze webu (`_posts/` s ~3000 duplicitními články, `_ai/`, `_mobilnisite/`, `_obrazy/`, `_vibecoding/`, `_llm/`, `_data/`, `_layouts/`, `_includes/`, `_pages/`, `_sass/`, `_config*.yml`, `Gemfile*`, kořenové `index.html`, `404.md`, feedy a manifesty), Cloudflare build Jekyllu (`build-cloudflare.sh`, `simple-build.sh`, `package.json`, `.cloudflare*`), jednorázové Python a shell skripty v kořeni (OneSignal, chat, obrazy, souhrny, testy), poznámky `TECH_NEWS_*.md`, `ONESIGNAL_*.md` a další, `.github/scripts/` (podcast, notifikace, překlady), dokumenty o notifikacích ve `.github/` a vypnutý workflow `build.yml`. `.DS_Store` už není v gitu
 - Zastaralá dokumentace v `docs/`: health check a monitoring tech-news (`HEALTH_CHECK_*.md`, `MONITORING_DECISION_TREE.md`, `UPTIMEROBOT_SETUP.md`, `TECH_NEWS_TESTING_STRATEGY.md`) a `VIBECODING_GUIDE.md` (vibecoding.cz se staví ze samostatného repa)
