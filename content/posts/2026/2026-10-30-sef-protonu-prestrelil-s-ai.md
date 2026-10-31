@@ -42,7 +42,7 @@ Po vydání reportáže firma na X zveřejnila [prohlášení](https://x.com/pro
 
 - Software, který by na počítačích zaměstnanců měřil podíl kódu od AI, podle Protonu neexistuje. Fáma prý vznikla z nepochopení, jak funguje MDM (software pro správu firemních zařízení).
 - Používání AI podle firmy nikdy nepůjde na úkor bezpečnosti. Za poslední rok prý naopak přibyly další vrstvy bezpečnostní kontroly, protože útočníci s pomocí AI prohledávají open source kód Protonu a hledají v něm zranitelnosti.
-- Proton zaměstnance kvůli používání AI znovu nepohovoruje a nikdo kvůli takovým pohovorům nepřijde o práci.
+- Proton zaměstnance kvůli používání AI znovu nebude vyslýchat a nikdo kvůli takovým pohovorům nepřijde o práci.
 - Firma zveřejní, jak u ní probíhá kontrola kódu a bezpečnostní revize, a své zásady pro AI: kde ji smí používat, kde ne a proč. Jako open source uvolní i několik interních nástrojů, včetně pokročilejších verzí asistenta Lumo, které dosud nebyly mimo firmu k dispozici.
 - Na závěr: „Víme, že jsme nedostáli vysokému standardu, který od nás právem očekáváte. Za to se můžeme jen omluvit, je nám to líto.“
 

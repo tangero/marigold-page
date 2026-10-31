@@ -8,7 +8,7 @@ a projekt dodržuje [Semantic Versioning](https://semver.org/lang/cs/).
 ## [Unreleased]
 
 ### Added
-- Článek „Šéf Protonu přestřelil s AI ve firmě, která stojí na důvěře…“ (`content/posts/2026/2026-10-30-sef-protonu-prestrelil-s-ai.md`) podle reportáže 404 Media. Titulní obrázek `static/assets/andy-yen-proton.webp` (1920×1080, WebP 53 kB), odkaz na reportáž 404 Media. Doplněno prohlášení Protonu z X s odkazem (omluva, popření měřicího softwaru a přepohovorů, slib zveřejnit pravidla pro AI) s komentářem
+- Článek „Šéf Protonu přestřelil s AI ve firmě, která stojí na důvěře…“ (`content/posts/2026/2026-10-30-sef-protonu-prestrelil-s-ai.md`) podle reportáže 404 Media. Titulní obrázek `static/assets/andy-yen-proton.webp` (1920×1080, WebP 53 kB), odkaz na reportáž 404 Media. Doplněno prohlášení Protonu z X s odkazem (omluva, popření měřicího softwaru a přepohovorů, slib zveřejnit pravidla pro AI) s komentářem. Upravena formulace bodu o přepohovorech
 - `docs/gotchas.md`: pravidlo kontrolovat před vydáním článku titulní obrázek a odkazy na zdroje
 
 ### Removed
