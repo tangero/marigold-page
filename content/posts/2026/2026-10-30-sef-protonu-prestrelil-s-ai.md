@@ -16,7 +16,7 @@ audio_url: ''
 hide: false
 ---
 
-_Aktualizace 31. 10. 2026: Proton po vydání reportáže zveřejnil na X prohlášení s omluvou. Doplnil jsem ho do textu níže._
+_Aktualizace 31. 10. 2026: Proton po vydání reportáže zveřejnil na X [prohlášení s omluvou](https://x.com/protonprivacy/status/2116302824577405320). Doplnil jsem ho do textu níže._
 
 Proton stojí na jediném aktivu: důvěře. Lidé mu svěřují e-maily, hesla a soubory, protože věří, že tam bezpečnost má přednost. [Reportáž 404 Media](https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/) ukazuje, jak snadno se ta důvěra dá ohrozit, když vedení začne AI zavádět jako náboženství.
 
@@ -38,7 +38,7 @@ Proton na Redditu popřel, že by propouštěl s AI jako výmluvou, prý mu chyb
 
 ## Proton se brání a omlouvá
 
-Po vydání reportáže firma na X zveřejnila prohlášení, které jde mnohem dál:
+Po vydání reportáže firma na X zveřejnila [prohlášení](https://x.com/protonprivacy/status/2116302824577405320), které jde mnohem dál:
 
 - Software, který by na počítačích zaměstnanců měřil podíl kódu od AI, podle Protonu neexistuje. Fáma prý vznikla z nepochopení, jak funguje MDM (software pro správu firemních zařízení).
 - Používání AI podle firmy nikdy nepůjde na úkor bezpečnosti. Za poslední rok prý naopak přibyly další vrstvy bezpečnostní kontroly, protože útočníci s pomocí AI prohledávají open source kód Protonu a hledají v něm zranitelnosti.
