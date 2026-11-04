@@ -1,0 +1,22 @@
+# Dependabot: jen BEZPEČNOSTNÍ aktualizace.
+# open-pull-requests-limit: 0 vypíná běžné aktualizace verzí; bezpečnostní PR
+# tím nejsou dotčené a seskupí se do jednoho PR za ekosystém.
+# Řízeno z tangero/security-watch (inventory.yml, findings/).
+version: 2
+updates:
+  - package-ecosystem: pip
+    directories: ["/"]
+    schedule: { interval: weekly, day: monday, time: "06:00", timezone: Europe/Prague }
+    open-pull-requests-limit: 0
+    groups:
+      security-pip:
+        applies-to: security-updates
+        patterns: ["*"]
+  - package-ecosystem: github-actions
+    directories: ["/"]
+    schedule: { interval: weekly, day: monday, time: "06:00", timezone: Europe/Prague }
+    open-pull-requests-limit: 0
+    groups:
+      security-github-actions:
+        applies-to: security-updates
+        patterns: ["*"]
