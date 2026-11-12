@@ -23,6 +23,8 @@ Akcie ráno spadly až o 14 %, během dopoledne se vrátily na zhruba −5 % a t
 
 Jde o nejdůležitější personální zprávu od doby, kdy OpenAI před dvěmi lety odvolávala svého šéfa Sama Altmana. Takže se na to podívejme podrobněji. 
 
+> 📕 Podrobný **životopis a vzestup Jensena Huanga** jsem [popisoval v ebooku Technoelity](https://payhip.com/b/yjt2Z).
+
 ***
 
 ## Firma ušitá na míru jednomu člověku
