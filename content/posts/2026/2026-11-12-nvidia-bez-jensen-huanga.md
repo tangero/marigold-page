@@ -11,8 +11,6 @@ audio_url: ''
 hide: false
 ---
 
-# Nvidia bez Jensena Huanga?
-
 _Třiatřicet let měla Nvidia jednoho šéfa, šedesát přímých podřízených a žádného následníka. Huang rozhodoval, kdo dostane čipy, komu firma dá jakou splatnost, s kým se podepíše objednávku pamětí na dva roky dopředu a jak se Nvidia postaví k Číně. Od dnešního rána nic z toho nedělá. Jensen Huang byl s okamžitou platností odvolán z postu ředitele Nvidia poté, co se provalila jeho aférka s čínskou špionkou._ 
 
 _Co to bude znamenat? Firma má definované produkty na dva roky dopředu, takže nejbližší čtvrtletí přežije bez potíží. Otázka zní, co se stane s věcmi, které v žádné smlouvě nejsou. Jaký bude svět AI bez člověka, který jej spoludefinoval a který vynalezl perpetum mobile pro financování AI projektů?_ 
